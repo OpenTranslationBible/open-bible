@@ -1,0 +1,26 @@
+# Genesis Chapter 45
+
+## Genesis 45:1
+Then Joseph could no longer control himself before all his attendants, and he cried out, “Have everyone leave my presence!” So there was no one with Joseph when he made himself known to his brothers.
+
+## Genesis 45:2
+And he wept so loudly that the Egyptians heard him, and Pharaoh’s household heard about it.
+
+## Genesis 45:3
+Joseph said to his brothers, “I am Joseph! Is my father still living?” But his brothers were not able to answer him, because they were terrified at his presence.
+
+## Genesis 45:4
+Then Joseph said to his brothers, “Come close to me.” When they had done so, he said, “I am your brother Joseph, the one you sold into Egypt!
+
+## Genesis 45:5
+And now, do not be distressed or angry with yourselves for selling me here, because it was to save lives that God sent me ahead of you.
+
+## Genesis 45:6
+For two years now there has been famine in the land, and for the next five years there will be no ploughing and reaping.
+
+## Genesis 45:7
+But God sent me ahead of you to preserve for you a remnant on earth and to save your lives by a great deliverance.
+
+## Genesis 45:8
+So then, it was not you who sent me here, but God. He made me father to Pharaoh, lord of his entire household and ruler of all Egypt.
+
