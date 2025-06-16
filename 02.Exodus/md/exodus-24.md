@@ -1,0 +1,56 @@
+# Exodus Chapter 24
+
+## Exodus 24:1
+Then the Lord said to Moses, “Come up to the Lord, you and Aaron, Nadab and Abihu, and seventy of the elders of Israel. You are to worship at a distance.
+
+## Exodus 24:2
+But Moses alone is to approach the Lord; the others must not come near. And the people may not come up with him.”
+
+## Exodus 24:3
+When Moses went and told the people all the Lord’s words and laws, they responded with one voice, “Everything the Lord has said we will do.”
+
+## Exodus 24:4
+Moses then wrote down everything the Lord had said. He got up early the next morning and built an altar at the foot of the mountain, and set up twelve stone pillars representing the twelve tribes of Israel.
+
+## Exodus 24:5
+Then he sent young Israelite men, and they offered burnt offerings and sacrificed young bulls as fellowship offerings to the Lord.
+
+## Exodus 24:6
+Moses took half of the blood and put it in bowls, and the other half he splashed against the altar.
+
+## Exodus 24:7
+Then he took the Book of the Covenant and read it to the people. They responded, “We will do everything the Lord has said; we will obey.”
+
+## Exodus 24:8
+Moses then took the blood, sprinkled it on the people and said, “This is the blood of the covenant that the Lord has made with you in accordance with all these words.”
+
+## Exodus 24:9
+Moses and Aaron, Nadab and Abihu, and the seventy elders of Israel went up
+
+## Exodus 24:10
+and saw the God of Israel. Under His feet was something like a pavement made of sapphire, clear as the sky itself.
+
+## Exodus 24:11
+But God did not raise His hand against these leaders of the Israelites; they saw God, and they ate and drank.
+
+## Exodus 24:12
+The Lord said to Moses, “Come up to Me on the mountain and stay here, and I will give you the tablets of stone, with the law and commandments I have written for their instruction.”
+
+## Exodus 24:13
+Then Moses set out with Joshua his assistant, and Moses went up on the mountain of God.
+
+## Exodus 24:14
+He said to the elders, “Wait here for us until we come back to you. Aaron and Hur are with you—whoever has a dispute can go to them.”
+
+## Exodus 24:15
+When Moses went up on the mountain, the cloud covered it,
+
+## Exodus 24:16
+and the glory of the Lord settled on Mount Sinai. For six days the cloud covered the mountain, and on the seventh day the Lord called to Moses from within the cloud.
+
+## Exodus 24:17
+To the Israelites the glory of the Lord looked like a consuming fire on top of the mountain.
+
+## Exodus 24:18
+Then Moses entered the cloud as he went up the mountain. And he stayed on the mountain forty days and forty nights.
+

@@ -10,40 +10,40 @@ Then the Lord said to him, “What is that in your hand?” “A staff,” he re
 The Lord said, “Throw it on the ground.” So Moses threw it on the ground, and it became a snake, and he ran from it.
 
 ## Exodus 4:4
-Then the Lord said to him, “Reach out your hand and take it by the tail.” So Moses reached out and took hold of the snake, and it turned back into a staff in his hand.
+Then the Lord said, “Reach out your hand and take it by the tail.” So Moses reached out and took hold of the snake, and it turned back into a staff.
 
 ## Exodus 4:5
-“This,” said the Lord, “is so that they may believe that the Lord, the God of their ancestors, has appeared to you.”
+“This,” said the Lord, “is so that they may believe that the Lord, the God of their fathers, has appeared to you.”
 
 ## Exodus 4:6
-Then the Lord said, “Put your hand inside your cloak.” So Moses put his hand into his cloak, and when he took it out, the skin was leprous—it had become as white as snow.
+Then the Lord said, “Put your hand inside your cloak.” So Moses did, and when he took it out, it was leprous, white as snow.
 
 ## Exodus 4:7
-“Now put it back into your cloak,” He said. So Moses put his hand back in, and when he took it out, it was restored.
+“Now put it back into your cloak,” He said. Moses put his hand back in, and when he took it out, it was restored.
 
 ## Exodus 4:8
 Then the Lord said, “If they do not believe you or pay attention to the first sign, they may believe the second.
 
 ## Exodus 4:9
-But if they do not believe even these two signs or listen to you, take some water from the Nile and pour it on the dry ground. The water will become blood.”
+But if they do not believe these two signs or listen to you, take some water from the Nile, pour it on the ground, and it will turn to blood.”
 
 ## Exodus 4:10
 Moses said to the Lord, “Pardon Your servant, Lord. I have never been eloquent... I am slow of speech and tongue.”
 
 ## Exodus 4:11
-The Lord said, “Who gave humans their mouths? Who makes them deaf or mute? Is it not I, the Lord?
+The Lord said, “Who gave human beings their mouths? Who makes them deaf or mute? Is it not I, the Lord?
 
 ## Exodus 4:12
 Now go; I will help you speak and will teach you what to say.”
 
 ## Exodus 4:13
-But Moses said, “Pardon Your servant, Lord. Please send someone else.”
+But Moses said, “Please send someone else.”
 
 ## Exodus 4:14
-Then the Lord’s anger burned against Moses and He said, “What about your brother, Aaron the Levite? I know he can speak well...
+Then the Lord’s anger burned against Moses and He said, “What about your brother Aaron the Levite? I know he can speak well. He is already on his way to meet you.
 
 ## Exodus 4:15
-You shall speak to him and put words in his mouth; I will help both of you speak and teach you what to do.
+You shall speak to him and put words in his mouth; I will help both of you speak and will teach you what to do.
 
 ## Exodus 4:16
 He will speak to the people for you, and it will be as if he were your mouth and you were God to him.
@@ -52,13 +52,13 @@ He will speak to the people for you, and it will be as if he were your mouth and
 But take this staff in your hand so you can perform the signs with it.”
 
 ## Exodus 4:18
-Then Moses returned to Jethro his father-in-law and said, “Let me return to my own people in Egypt.” Jethro said, “Go in peace.”
+Then Moses returned to Jethro his father-in-law and said, “Let me return to my people in Egypt.” Jethro said, “Go in peace.”
 
 ## Exodus 4:19
 Now the Lord had said to Moses in Midian, “Go back to Egypt, for all those who wanted to kill you are dead.”
 
 ## Exodus 4:20
-So Moses took his wife and sons, put them on a donkey and started back to Egypt. And he took the staff of God in his hand.
+So Moses took his wife and sons, put them on a donkey and returned to Egypt, carrying the staff of God.
 
 ## Exodus 4:21
 The Lord said to Moses, “When you return to Egypt, perform before Pharaoh all the wonders I have given you. But I will harden his heart, so he will not let the people go.
