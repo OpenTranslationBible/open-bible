@@ -1,3 +1,5 @@
+### This is the open bible project
+
 ```bash
     mkdir "01.Genesis"
     mkdir "02.Exodus"
