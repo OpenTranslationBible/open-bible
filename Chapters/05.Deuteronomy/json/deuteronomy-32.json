@@ -1,0 +1,22 @@
+{
+  "book": "Deuteronomy",
+  "chapter": 32,
+  "verses": [
+    {
+      "verse": 1,
+      "text": "Listen, O heavens, and I will speak; let the earth hear the words of my mouth."
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Let my teaching fall like rain,",
+        "> My speech settle like dew,",
+        "> Like gentle rain on new grass,",
+        "> And showers on tender plants."
+      ]
+    },
+    {
+      "verse": null
+    }
+  ]
+}
