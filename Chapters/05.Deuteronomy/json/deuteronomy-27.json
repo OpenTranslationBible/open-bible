@@ -4,14 +4,151 @@
   "verses": [
     {
       "verse": 1,
-      "text": "Placeholder paraphrased text for Deuteronomy 27:1"
+      "text": "Then Moses and the elders of Israel gave this command to the people: 'Keep all the commandments which I am commanding you today.'"
     },
     {
       "verse": 2,
-      "text": "Placeholder paraphrased text for Deuteronomy 27:2"
+      "text": "And on the day you cross the Jordan into the land the Lord your God is giving you, you shall set up large stones and coat them with plaster,"
+    },
+    {
+      "verse": 3,
+      "text": "And write on them all the words of this law when you have crossed over, so that you may enter the land the Lord your God is giving you\u2014a land flowing with milk and honey, as the Lord, the God of your fathers, promised you."
+    },
+    {
+      "verse": 4,
+      "text": "So when you have crossed the Jordan, you shall set up these stones on Mount Ebal, as I am commanding you today, and coat them with plaster."
+    },
+    {
+      "verse": 5,
+      "text": "You shall also build there an altar to the Lord your God, an altar of stones. Do not use an iron tool on them."
+    },
+    {
+      "verse": 6,
+      "text": "Build the altar of the Lord your God with uncut stones, and offer on it burnt offerings to the Lord your God."
+    },
+    {
+      "verse": 7,
+      "text": "Sacrifice peace offerings and eat there, and rejoice before the Lord your God."
+    },
+    {
+      "verse": 8,
+      "text": "You shall write all the words of this law very clearly on the stones."
     },
     {
       "verse": null
+    },
+    {
+      "verse": 9,
+      "text": "Then Moses and the Levitical priests said to all Israel, 'Be silent and listen, O Israel. This day you have become the people of the Lord your God.'"
+    },
+    {
+      "verse": 10,
+      "text": "You shall therefore obey the voice of the Lord your God, and do His commandments and statutes which I command you today."
+    },
+    {
+      "verse": null
+    },
+    {
+      "verse": 11,
+      "text": "On the same day Moses charged the people, saying:"
+    },
+    {
+      "verse": 12,
+      "text": "These shall stand on Mount Gerizim to bless the people when you have crossed the Jordan: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin."
+    },
+    {
+      "verse": 13,
+      "text": "And these shall stand on Mount Ebal for the curse: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali."
+    },
+    {
+      "verse": 14,
+      "text": "Then the Levites shall declare to all the men of Israel with a loud voice:"
+    },
+    {
+      "verse": 15,
+      "text": [
+        "'Cursed is the one who makes a carved or molten image,",
+        "An abomination to the Lord, the work of craftsmen,",
+        "and sets it up in secret.'",
+        "> And all the people shall answer and say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "'Cursed is he who dishonours his father or mother.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "'Cursed is he who moves his neighbour\u2019s boundary marker.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "'Cursed is he who leads the blind astray on the road.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "'Cursed is he who withholds justice from the foreigner, the fatherless, or the widow.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "'Cursed is he who lies with his father\u2019s wife, because he has uncovered his father\u2019s nakedness.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "'Cursed is he who lies with any animal.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "'Cursed is he who lies with his sister, whether the daughter of his father or his mother.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "'Cursed is he who lies with his mother-in-law.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "'Cursed is he who strikes down his neighbour in secret.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "'Cursed is he who accepts a bribe to kill an innocent person.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "'Cursed is he who does not uphold the words of this law by carrying them out.'",
+        "> And all the people shall say, 'Amen.'"
+      ]
     }
   ]
 }

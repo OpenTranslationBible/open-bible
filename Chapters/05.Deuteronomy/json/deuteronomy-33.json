@@ -4,20 +4,256 @@
   "verses": [
     {
       "verse": 1,
-      "text": "This is the blessing with which Moses, the man of God, blessed the children of Israel before his death."
+      "text": "This is the blessing with which Moses, the man of God, blessed the people of Israel before his death."
     },
     {
       "verse": 2,
       "text": [
-        "He said: The Lord came from Sinai,",
-        "> He rose like the dawn over Seir,",
-        "> He shone forth from Mount Paran.",
-        "With myriads of holy ones He came,",
-        "> From His right hand came a flame of law for them."
+        "He said, ‘The Lord came from Sinai",
+        "> and dawned from Seir upon us;",
+        "> He shone forth from Mount Paran;",
+        "> He came with ten thousands of holy ones,",
+        "> from His right hand went a fiery law for them."
       ]
     },
     {
-      "verse": null
+      "verse": 3,
+      "text": [
+        "Indeed, He loves His people;",
+        "> all His holy ones are in His hand.",
+        "> They follow in Your steps,",
+        "> receiving instruction from Your words."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": "Moses gave us a law, an inheritance for the assembly of Jacob."
+    },
+    {
+      "verse": 5,
+      "text": "He was king in Jeshurun, when the heads of the people gathered, all the tribes of Israel together."
+    },
+    { "verse": null },
+    {
+      "verse": 6,
+      "text": "Let Reuben live and not die, though his people be few in number."
+    },
+    { "verse": null },
+    {
+      "verse": 7,
+      "text": [
+        "And this he said of Judah:",
+        "> ‘Hear, O Lord, the voice of Judah,",
+        "> and bring him to his people.",
+        "> With his hands he contends for them;",
+        "> be a help against his adversaries.’"
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 8,
+      "text": [
+        "Of Levi he said:",
+        "> ‘Your Thummim and Urim belong",
+        "> to Your faithful servant.",
+        "> You tested him at Massah,",
+        "> and contended with him at the waters of Meribah."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "He said of his father and mother,",
+        "> “I have no regard for them.”",
+        "> He did not acknowledge his brothers,",
+        "> nor know his own children,",
+        "> for they observed Your word",
+        "> and kept Your covenant."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "They shall teach Jacob Your ordinances,",
+        "> and Israel Your law;",
+        "> they shall put incense before You,",
+        "> and whole burnt offerings on Your altar."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Bless, O Lord, his substance,",
+        "> and accept the work of his hands.",
+        "> Crush the loins of those who rise against him,",
+        "> that his foes may not rise again."
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 12,
+      "text": [
+        "Of Benjamin he said:",
+        "> ‘The beloved of the Lord dwells in safety.",
+        "> The Most High shelters him all day long,",
+        "> and he rests between His shoulders.’"
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 13,
+      "text": [
+        "Of Joseph he said:",
+        "> ‘Blessed by the Lord be his land,",
+        "> with the choicest gifts of heaven above,",
+        "> and of the deep that lies beneath,"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "with the choicest fruits of the sun,",
+        "> and the rich yield of the months,"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "with the finest produce of the ancient mountains,",
+        "> and the abundance of the everlasting hills,"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "with the best gifts of the earth and its fullness,",
+        "> and the favour of Him who dwelt in the bush.",
+        "> Let these come upon the head of Joseph,",
+        "> upon the crown of the prince among his brothers."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "His majesty is like a firstborn bull,",
+        "> and his horns are like the horns of a wild ox;",
+        "> with them he shall gore the peoples,",
+        "> all of them, to the ends of the earth.",
+        "> Such are the ten thousands of Ephraim,",
+        "> and such are the thousands of Manasseh."
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 18,
+      "text": [
+        "Of Zebulun he said:",
+        "> ‘Rejoice, Zebulun, in your going out,",
+        "> and Issachar, in your tents."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "They shall call peoples to their mountain;",
+        "> there they offer righteous sacrifices;",
+        "> for they draw from the abundance of the seas",
+        "> and the hidden treasures of the sand."
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 20,
+      "text": [
+        "Of Gad he said:",
+        "> ‘Blessed be he who enlarges Gad!",
+        "> He dwells like a lion,",
+        "> tearing the arm and the crown of the head."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "He chose the best for himself,",
+        "> for there a commander’s portion was reserved;",
+        "> he came with the heads of the people,",
+        "> executing the Lord’s justice,",
+        "> and His ordinances with Israel."
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 22,
+      "text": [
+        "Of Dan he said:",
+        "> ‘Dan is a lion’s cub,",
+        "> that leaps from Bashan.’"
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 23,
+      "text": [
+        "Of Naphtali he said:",
+        "> ‘O Naphtali, sated with favour,",
+        "> and full of the blessing of the Lord,",
+        "> possess the lake and the south.’"
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 24,
+      "text": [
+        "Of Asher he said:",
+        "> ‘Most blessed of sons be Asher;",
+        "> let him be favoured by his brothers,",
+        "> and let him dip his foot in oil."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Your bars shall be iron and bronze,",
+        "> and as your days, so shall your strength be."
+      ]
+    },
+    { "verse": null },
+    {
+      "verse": 26,
+      "text": [
+        "There is none like God, O Jeshurun,",
+        "> who rides through the heavens to your help,",
+        "> through the skies in His majesty."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "The eternal God is your dwelling place,",
+        "> and underneath are the everlasting arms.",
+        "> He drives out the enemy before you,",
+        "> saying, ‘Destroy!’"
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "So Israel dwells in safety,",
+        "> the fountain of Jacob secure,",
+        "> in a land of grain and wine,",
+        "> where the heavens drop dew."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Blessed are you, O Israel!",
+        "> Who is like you, a people saved by the Lord,",
+        "> the shield of your help,",
+        "> and the sword of your triumph!",
+        "> Your enemies shall come fawning to you,",
+        "> and you shall tread upon their high places."
+      ]
     }
   ]
 }
