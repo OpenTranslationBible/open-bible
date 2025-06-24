@@ -1,0 +1,269 @@
+# 1 Chronicles Chapter 23
+
+## 1 Chronicles 23:1
+
+Now when David reached old age,  
+he made his son Solomon king over Israel.
+
+---
+
+## 1 Chronicles 23:2
+
+And he gathered together all the leaders of Israel
+
+> with the priests and the Levites.
+
+---
+
+## 1 Chronicles 23:3
+
+The Levites were numbered from thirty years old and upward,
+
+> and their number by census of men was thirty-eight thousand.
+
+---
+
+## 1 Chronicles 23:4
+
+Of these, twenty-four thousand were to oversee the work of the house of the Lord;
+
+> and six thousand were officers and judges,
+
+---
+
+## 1 Chronicles 23:5
+
+> and four thousand were gatekeepers,  
+> and four thousand were praising the Lord with the instruments  
+> which David made for giving praise.
+
+---
+
+## 1 Chronicles 23:6
+
+David divided them into divisions according to the sons of Levi:
+
+> Gershon, Kohath, and Merari.
+
+---
+
+## 1 Chronicles 23:7
+
+Of the Gershonites:
+
+> Ladan and Shimei.
+
+---
+
+## 1 Chronicles 23:8
+
+The sons of Ladan were:
+
+> Jehiel the first, then Zetham and Joel—three.
+
+---
+
+## 1 Chronicles 23:9
+
+The sons of Shimei were:
+
+> Shelomoth, Haziel, and Haran—three.  
+> These were the heads of the fathers’ households of Ladan.
+
+---
+
+## 1 Chronicles 23:10
+
+The sons of Shimei were:
+
+> Jahath, Zina, Jeush, and Beriah.  
+> These four were the sons of Shimei.
+
+---
+
+## 1 Chronicles 23:11
+
+Jahath was the first, and Zizah the second;  
+but Jeush and Beriah did not have many sons,
+
+> so they were counted as one father’s household.
+
+---
+
+## 1 Chronicles 23:12
+
+The sons of Kohath were:
+
+> Amram, Izhar, Hebron, and Uzziel—four.
+
+---
+
+## 1 Chronicles 23:13
+
+The sons of Amram were:
+
+> Aaron and Moses.  
+> And Aaron was set apart to sanctify him as most holy,  
+> he and his sons forever,  
+> to offer sacrifices before the Lord,  
+> to minister to Him and to bless in His name forever.
+
+---
+
+## 1 Chronicles 23:14
+
+But as for Moses the man of God,  
+his sons were named among the tribe of Levi.
+
+---
+
+## 1 Chronicles 23:15
+
+The sons of Moses were:
+
+> Gershom and Eliezer.
+
+---
+
+## 1 Chronicles 23:16
+
+The son of Gershom was Shebuel the chief.
+
+---
+
+## 1 Chronicles 23:17
+
+The son of Eliezer was Rehabiah the chief;  
+and Eliezer had no other sons,
+
+> but the sons of Rehabiah were very many.
+
+---
+
+## 1 Chronicles 23:18
+
+The son of Izhar was Shelomith the chief.
+
+---
+
+## 1 Chronicles 23:19
+
+The sons of Hebron were:
+
+> Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
+
+---
+
+## 1 Chronicles 23:20
+
+The sons of Uzziel were:
+
+> Micah the first and Isshiah the second.
+
+---
+
+## 1 Chronicles 23:21
+
+The sons of Merari were:
+
+> Mahli and Mushi.  
+> The sons of Mahli were:
+
+> Eleazar and Kish.
+
+---
+
+## 1 Chronicles 23:22
+
+Eleazar died and had no sons, but only daughters,
+
+> and their relatives, the sons of Kish, took them as wives.
+
+---
+
+## 1 Chronicles 23:23
+
+The sons of Mushi were:
+
+> Mahli, Eder, and Jeremoth—three.
+
+---
+
+## 1 Chronicles 23:24
+
+These were the sons of Levi by their fathers’ households,  
+the heads of the fathers’ households of those who were counted,  
+according to the number of names by their individual headcount,
+
+> who performed the work for the service of the house of the Lord,  
+> from twenty years old and upward.
+
+---
+
+## 1 Chronicles 23:25
+
+For David said,
+
+> “The Lord God of Israel has given rest to His people,  
+> and He dwells in Jerusalem forever.
+
+---
+
+## 1 Chronicles 23:26
+
+> Also, the Levites will no longer need to carry the tabernacle  
+> and all its utensils for its service.”
+
+---
+
+## 1 Chronicles 23:27
+
+For by the last words of David,
+
+> the sons of Levi were counted from twenty years old and upward.
+
+---
+
+## 1 Chronicles 23:28
+
+For their office is to assist the sons of Aaron with the service of the house of the Lord,
+
+> in the courtyards and in the rooms,  
+> and in the purification of all holy things,  
+> even the work of the service of the house of God,
+
+---
+
+## 1 Chronicles 23:29
+
+> and with the showbread, the fine flour for a grain offering,  
+> the unleavened wafers,  
+> or what is baked in the pan or mixed,  
+> and all measures of volume and size.
+
+---
+
+## 1 Chronicles 23:30
+
+They are to stand every morning to give thanks and to praise the Lord,
+
+> and likewise at evening,
+
+---
+
+## 1 Chronicles 23:31
+
+> and to offer all burnt offerings to the Lord,  
+> on the Sabbaths, the new moons, and the appointed festivals,  
+> in the number determined by the ordinance concerning them,  
+> continually before the Lord.
+
+---
+
+## 1 Chronicles 23:32
+
+So they are to perform the duties of the tent of meeting,
+
+> the duties of the holy place,  
+> and the duties of the sons of Aaron, their relatives,  
+> for the service of the house of the Lord.
