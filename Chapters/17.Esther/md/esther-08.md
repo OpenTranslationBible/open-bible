@@ -1,0 +1,127 @@
+# Esther Chapter 8
+
+## Esther 8:1
+
+On that day King Ahasuerus gave the house of Haman,  
+the enemy of the Jews, to Queen Esther;  
+and Mordecai came before the king, for Esther had disclosed what he was to her.
+
+## Esther 8:2
+
+And the king took off his signet ring, which he had taken away from Haman,  
+and gave it to Mordecai.  
+And Esther set Mordecai over the house of Haman.
+
+---
+
+## Esther 8:3
+
+Then Esther spoke again to the king,  
+fell at his feet, wept, and pleaded with him  
+to revoke the evil scheme of Haman the Agagite,  
+and his plot which he had devised against the Jews.
+
+## Esther 8:4
+
+And the king extended the golden sceptre to Esther.  
+So Esther arose and stood before the king.
+
+---
+
+## Esther 8:5
+
+Then she said,  
+“If it pleases the king, and if I have found favour before him,  
+and the matter seems proper to the king, and I am pleasing in his sight,  
+let it be written to revoke the letters  
+devised by Haman, the son of Hammedatha the Agagite,  
+which he wrote to destroy the Jews who are in all the king’s provinces.
+
+## Esther 8:6
+
+For how can I endure to see the disaster that would happen to my people?  
+And how can I endure to see the destruction of my kindred?”
+
+---
+
+## Esther 8:7
+
+So King Ahasuerus said to Queen Esther and to Mordecai the Jew,  
+“Behold, I have given the house of Haman to Esther,  
+and he has been hanged on the wooden gallows because he had stretched out his hands against the Jews.
+
+## Esther 8:8
+
+Now you yourselves write in the king’s name regarding the Jews,  
+as it pleases you,  
+and seal it with the king’s signet ring;  
+for a decree which is written in the name of the king and sealed with the king’s signet ring  
+may not be revoked.”
+
+---
+
+## Esther 8:9
+
+So the king’s scribes were summoned at that time,  
+in the third month (that is, the month Sivan), on the twenty-third day;  
+and it was written according to all that Mordecai commanded  
+to the Jews, the satraps, the governors, and the officials of the provinces  
+from India to Cush, 127 provinces in total,  
+to every province according to its script, and to every people according to their language,  
+as well as to the Jews in their script and their language.
+
+## Esther 8:10
+
+He wrote in the name of King Ahasuerus and sealed it with the king’s signet ring,  
+and sent letters by couriers on horseback, riding on royal relay horses,  
+offspring of racing mares.
+
+---
+
+## Esther 8:11
+
+In them the king granted the Jews who were in each and every city the right  
+to assemble and to defend their lives,  
+to destroy, kill, and eliminate the entire army of any people or province  
+which was going to attack them, including children and women,  
+and to plunder their spoils,
+
+## Esther 8:12
+
+on one day in all the provinces of King Ahasuerus,  
+the thirteenth day of the twelfth month (that is, the month Adar).
+
+## Esther 8:13
+
+A copy of the edict to be issued as law in each and every province  
+was published to all the peoples,  
+so that the Jews would be ready for this day to avenge themselves on their enemies.
+
+---
+
+## Esther 8:14
+
+The couriers, riding on royal relay horses, went out in haste,  
+pressed by the king’s command;  
+and the edict was issued in the citadel of Susa.
+
+---
+
+## Esther 8:15
+
+Then Mordecai went out from the presence of the king  
+in a royal robe of violet and white,  
+with a large crown of gold and a garment of fine linen and purple;  
+and the city of Susa shouted and rejoiced.
+
+## Esther 8:16
+
+For the Jews there was light, joy, gladness, and honour.
+
+## Esther 8:17
+
+In each and every province and in each and every city,  
+wherever the king’s command and his decree arrived,  
+there was joy and gladness for the Jews, a feast and a holiday.  
+And many among the peoples of the land became Jews,  
+because the dread of the Jews had fallen on them.
