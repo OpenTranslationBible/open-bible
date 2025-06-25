@@ -1,0 +1,45 @@
+# Psalm 53
+
+_For the music director; according to Mahalath. A Maskil of David._
+
+## Psalm 53:1
+
+> The fool has said in his heart, “There is no God.”  
+> They are corrupt, and have committed abominable injustice;  
+> There is no one who does good.
+
+---
+
+## Psalm 53:2
+
+> God has looked down from heaven upon the sons of mankind  
+> To see if there is anyone who understands,  
+> Who seeks after God.
+
+## Psalm 53:3
+
+> Every one of them has turned aside; together they have become corrupt;  
+> There is no one who does good, not even one.
+
+---
+
+## Psalm 53:4
+
+> Have the workers of injustice no knowledge,
+
+> Who eat up My people like they ate bread,  
+> And have not called upon God?
+
+## Psalm 53:5
+
+> They were in great fear there, where no fear had been;  
+> For God scattered the bones of him who encamped against you;  
+> You put them to shame, because God had rejected them.
+
+---
+
+## Psalm 53:6
+
+> Oh, that the salvation of Israel would come out of Zion!  
+> When God restores the fortunes of His people,  
+> Jacob will rejoice, Israel will be glad.
