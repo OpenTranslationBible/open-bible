@@ -1,0 +1,25 @@
+# Malachi Chapter 4
+
+## Malachi 4:1
+
+“For behold, the day is coming, burning like a furnace; and all the arrogant and every evildoer will be chaff; and the day that is coming will set them ablaze,” says the Lord of armies, “so that it will leave them neither root nor branches.
+
+## Malachi 4:2
+
+But for you who fear My name, the sun of righteousness will rise with healing in its wings; and you will go out and leap like calves from the stall.
+
+## Malachi 4:3
+
+And you will crush the wicked underfoot, for they will be ashes under the soles of your feet on the day that I am preparing,” says the Lord of armies.
+
+## Malachi 4:4
+
+“Remember the Law of Moses My servant, the statutes and ordinances which I commanded him in Horeb for all Israel.
+
+## Malachi 4:5
+
+Behold, I am going to send you Elijah the prophet before the coming of the great and terrible day of the Lord.
+
+## Malachi 4:6
+
+He will turn the hearts of the fathers back to their children and the hearts of the children to their fathers, so that I will not come and strike the land with complete destruction.”
