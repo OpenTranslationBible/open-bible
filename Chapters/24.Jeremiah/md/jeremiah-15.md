@@ -1,0 +1,136 @@
+# Jeremiah Chapter 15
+
+## Jeremiah 15:1  
+Then the Lord said to me, “Even if Moses and Samuel were to stand before Me,  
+My heart would not be with this people;  
+Send them away from My presence, and have them go!
+
+## Jeremiah 15:2  
+And if they say to you, ‘Where should we go?’  
+Then you are to tell them, ‘This is what the Lord says:  
+“Those destined for death, to death;  
+And those destined for the sword, to the sword;  
+And those destined for famine, to famine;  
+And those destined for captivity, to captivity.”’
+
+## Jeremiah 15:3  
+And I will appoint over them four kinds of doom,” declares the Lord:  
+“The sword to kill, the dogs to drag away,  
+The birds of the sky and the animals of the earth  
+To devour and destroy.
+
+## Jeremiah 15:4  
+I will turn them over to be an object of terror to all the kingdoms of the earth  
+Because of Manasseh, the son of Hezekiah, the king of Judah,  
+For what he did in Jerusalem.
+
+## Jeremiah 15:5  
+Indeed, who will have pity on you, Jerusalem,  
+Or who will mourn for you,  
+Or who will turn aside to ask about your welfare?
+
+## Jeremiah 15:6  
+You who have forsaken Me,” declares the Lord,  
+“You keep going backward.  
+So I will stretch out My hand against you and destroy you;  
+I am tired of relenting!
+
+## Jeremiah 15:7  
+I will scatter them with a winnowing fork  
+At the gates of the land;  
+I will bereave them of children,  
+I will destroy My people;  
+They did not repent of their ways.
+
+## Jeremiah 15:8  
+Their widows will be more numerous before Me  
+Than the sand of the seas;  
+I will bring against them, against the mother of a young man,  
+A destroyer at noon;  
+I will suddenly bring down on her  
+Anguish and terrors.
+
+## Jeremiah 15:9  
+She who gave birth to seven sons pines away;  
+Her breathing is labored.  
+Her sun has set while it was still day;  
+She has been ashamed and humiliated.  
+I will turn over their survivors to the sword  
+Before their enemies,” declares the Lord.
+
+---
+
+## Jeremiah 15:10  
+Woe to me, my mother, that you have given birth to me  
+As a man of strife and a man of contention to all the land!  
+I have not lent, nor have people lent money to me,  
+Yet everyone curses me.
+
+## Jeremiah 15:11  
+The Lord said,  
+“Certainly I will set you free for purposes of good;  
+Certainly I will intercede for you  
+In a time of disaster and in a time of distress with the enemy.
+
+## Jeremiah 15:12  
+Can anyone smash iron,  
+Iron from the north, or bronze?
+
+## Jeremiah 15:13  
+Your wealth and your treasures  
+I will give as plunder without cost,  
+For all your sins  
+And within all your borders.
+
+## Jeremiah 15:14  
+Then I will make you serve your enemies  
+In a land that you do not know;  
+For a fire has been kindled in My anger,  
+It will burn upon you.”
+
+---
+
+## Jeremiah 15:15  
+You know, Lord;  
+Remember me, take notice of me,  
+And take vengeance for me on my persecutors.  
+Do not, in view of Your patience, take me away;  
+Know that for Your sake I endure reproach.
+
+## Jeremiah 15:16  
+Your words were found and I ate them,  
+And Your words became a joy to me and the delight of my heart;  
+For I have been called by Your name,  
+Lord God of armies.
+
+## Jeremiah 15:17  
+I did not sit in a circle of revelers and celebrate.  
+Because of Your hand upon me I sat alone,  
+For You filled me with indignation.
+
+## Jeremiah 15:18  
+Why has my pain been endless  
+And my wound incurable, refusing to be healed?  
+Will You indeed be to me like a deceptive stream  
+With water that is unreliable?
+
+## Jeremiah 15:19  
+Therefore, this is what the Lord says:  
+“If you return, then I will restore you—  
+You will stand before Me;  
+And if you extract the precious from the worthless,  
+You will become My spokesman.  
+They, for their part, may turn to you,  
+But as for you, you must not turn to them.
+
+## Jeremiah 15:20  
+Then I will make you to this people  
+A fortified wall of bronze;  
+And though they fight against you,  
+They will not prevail over you;  
+For I am with you to save you  
+And rescue you,” declares the Lord.
+
+## Jeremiah 15:21  
+“So I will rescue you from the hand of the wicked,  
+And I will redeem you from the grasp of the violent.”

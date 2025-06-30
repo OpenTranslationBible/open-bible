@@ -1,0 +1,62 @@
+# Ecclesiastes Chapter 11
+
+## Ecclesiastes 11:1
+
+Cast your bread on the surface of the waters,  
+For you will find it after many days.
+
+## Ecclesiastes 11:2
+
+Divide your portion to seven, or even to eight,  
+For you do not know what disaster may happen on the earth.
+
+## Ecclesiastes 11:3
+
+If the clouds are full, they pour out rain upon the earth;  
+And whether a tree falls toward the south or toward the north,  
+Wherever the tree falls, there it lies.
+
+## Ecclesiastes 11:4
+
+One who watches the wind will not sow,  
+And one who looks at the clouds will not harvest.
+
+## Ecclesiastes 11:5
+
+Just as you do not know the path of the wind,  
+And how bones are formed in the womb of the pregnant woman,  
+So you do not know the activity of God who makes everything.
+
+## Ecclesiastes 11:6
+
+Sow your seed in the morning,  
+And do not be idle in the evening,  
+For you do not know whether one or the other will succeed,  
+Or whether both alike will be good.
+
+---
+
+## Ecclesiastes 11:7
+
+The light is pleasant,  
+And it is good for the eyes to see the sun.
+
+## Ecclesiastes 11:8
+
+Indeed, if a person lives many years,  
+Let him rejoice in them all,  
+But let him remember the days of darkness, for they will be many.  
+Everything that is to come will be futility.
+
+## Ecclesiastes 11:9
+
+Rejoice, young man, during your childhood,  
+And let your heart be pleasant during the days of young manhood.  
+And follow the ways of your heart and the desires of your eyes.  
+Yet know that God will bring you to judgment for all these things.
+
+## Ecclesiastes 11:10
+
+So remove sorrow from your heart  
+And keep pain away from your body,  
+Because childhood and the prime of life are fleeting.

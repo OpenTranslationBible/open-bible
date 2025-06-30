@@ -1,0 +1,182 @@
+# Jeremiah Chapter 6
+
+## Jeremiah 6:1  
+“Flee to safety, you sons of Benjamin,  
+From the midst of Jerusalem!  
+Now blow a trumpet in Tekoa  
+And raise a warning signal over Beth-haccherem;  
+For evil looks down from the north,  
+And a great destruction.
+
+## Jeremiah 6:2  
+The beautiful and delicate one, the daughter of Zion, I will destroy.
+
+## Jeremiah 6:3  
+Shepherds and their flocks will come to her,  
+They will pitch their tents around her,  
+They will pasture each in his place.
+
+## Jeremiah 6:4  
+Prepare for war against her;  
+Arise, and let’s attack at noon.  
+Woe to us, for the day declines,  
+For the shadows of the evening lengthen!
+
+## Jeremiah 6:5  
+Arise, and let’s attack by night  
+And destroy her palaces!”
+
+## Jeremiah 6:6  
+For this is what the Lord of armies says:  
+“Cut down her trees  
+And pile up an assault ramp against Jerusalem.  
+This is the city to be punished,  
+In whose midst there is only oppression.
+
+## Jeremiah 6:7  
+As a well keeps its waters fresh,  
+So she keeps fresh her wickedness.  
+Violence and destruction are heard in her;  
+Sickness and wounds are continually before Me.
+
+## Jeremiah 6:8  
+Be warned, Jerusalem,  
+Or I shall be alienated from you,  
+And make you a desolation,  
+An uninhabited land.”
+
+## Jeremiah 6:9  
+This is what the Lord of armies says:  
+“They will thoroughly glean the remnant of Israel like the vine;  
+Pass your hand again like a grape gatherer  
+Over the branches.”
+
+## Jeremiah 6:10  
+To whom shall I speak and give warning,  
+That they may hear?  
+Behold, their ears are closed  
+And they cannot listen.  
+Behold, the word of the Lord has become for them a rebuke;  
+They take no delight in it.
+
+## Jeremiah 6:11  
+But I am full of the wrath of the Lord;  
+I am weary of holding it in.  
+“Pour it out on the children in the street  
+And on the gathering of young men together;  
+For both husband and wife shall be captured,  
+The old and the very old.
+
+## Jeremiah 6:12  
+Their houses shall be turned over to others,  
+Their fields and their wives together;  
+For I will stretch out My hand  
+Against the inhabitants of the land,” declares the Lord.
+
+## Jeremiah 6:13  
+“For from the least of them to the greatest of them,  
+Everyone is greedy for gain;  
+And from the prophet to the priest,  
+Everyone deals falsely.
+
+## Jeremiah 6:14  
+They have healed the brokenness of My people superficially,  
+Saying, ‘Peace, peace,’  
+But there is no peace.
+
+## Jeremiah 6:15  
+Were they ashamed because of the abomination they had done?  
+They were not ashamed at all,  
+And they did not know how to be ashamed;  
+Therefore they will fall among those who fall;  
+At the time that I punish them,  
+They will collapse,” says the Lord.
+
+## Jeremiah 6:16  
+This is what the Lord says:  
+“Stand by the ways and see,  
+And ask for the ancient paths, where the good way is, and walk in it;  
+Then you will find a resting place for your souls.  
+But they said, ‘We will not walk in it.’
+
+## Jeremiah 6:17  
+And I set watchmen over you, saying,  
+‘Listen to the sound of the trumpet!’  
+But they said, ‘We will not listen.’
+
+## Jeremiah 6:18  
+Therefore hear, you nations,  
+And know, you assembly, what is among them.
+
+## Jeremiah 6:19  
+Hear, earth:  
+Behold, I am bringing disaster on this people,  
+The fruit of their plans,  
+Because they have not listened to My words,  
+And as for My Law, they have rejected it also.
+
+## Jeremiah 6:20  
+For what purpose does frankincense come to Me from Sheba,  
+And the sweet cane from a distant land?  
+Your burnt offerings are not acceptable,  
+And your sacrifices are not pleasing to Me.”
+
+## Jeremiah 6:21  
+Therefore, this is what the Lord says:  
+“Behold, I am placing stumbling blocks before this people.  
+And they will stumble against them,  
+Fathers and sons together;  
+Neighbor and friend will perish.”
+
+## Jeremiah 6:22  
+This is what the Lord says:  
+“Behold, a people is coming from the north land,  
+And a great nation will be stirred up from the remote parts of the earth.
+
+## Jeremiah 6:23  
+They seize bow and spear;  
+They are cruel and have no mercy;  
+Their voice roars like the sea,  
+And they ride on horses,  
+Lined up like a man for battle  
+Against you, daughter of Zion!”
+
+## Jeremiah 6:24  
+We have heard the report of it,  
+Our hands are limp;  
+Anguish has seized us,  
+Pain like that of a woman in childbirth.
+
+## Jeremiah 6:25  
+Do not go out into the field,  
+And do not walk on the road;  
+Because the enemy has a sword,  
+Terror is on every side.
+
+## Jeremiah 6:26  
+Daughter of My people, put on sackcloth  
+And roll in ashes;  
+Mourn as for an only son,  
+A most bitter mourning,  
+For suddenly the destroyer  
+Will come upon us.
+
+## Jeremiah 6:27  
+“I have made you an assayer and an examiner among My people,  
+So that you may know and put their way to the test.”
+
+## Jeremiah 6:28  
+All of them are stubbornly rebellious,  
+Going about as a slanderer;  
+They are bronze and iron,  
+They, all of them, are corrupt.
+
+## Jeremiah 6:29  
+The bellows blow fiercely,  
+The lead is consumed by the fire;  
+In vain the refining goes on,  
+But the wicked are not separated.
+
+## Jeremiah 6:30  
+They call them rejected silver,  
+Because the Lord has rejected them.

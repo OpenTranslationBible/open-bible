@@ -1,0 +1,46 @@
+# Jeremiah Chapter 43
+
+## Jeremiah 43:1  
+But as soon as Jeremiah, whom the Lord their God had sent, finished telling all the people all the words of the Lord their God—that is, all these words—
+
+## Jeremiah 43:2  
+Azariah the son of Hoshaiah, and Johanan the son of Kareah, and all the arrogant men said to Jeremiah,  
+“You are telling a lie! The Lord our God has not sent you to say, ‘You are not to enter Egypt to reside there’;
+
+## Jeremiah 43:3  
+but Baruch the son of Neriah is inciting you against us, to hand us over to the Chaldeans, so that they will put us to death or exile us to Babylon.”
+
+## Jeremiah 43:4  
+So Johanan the son of Kareah and all the commanders of the forces, and all the people, did not obey the voice of the Lord to stay in the land of Judah.
+
+## Jeremiah 43:5  
+Instead, Johanan the son of Kareah and all the commanders of the forces took the entire remnant of Judah who had returned from all the nations to which they had been scattered, in order to reside in the land of Judah—
+
+## Jeremiah 43:6  
+the men, the women, the children, the king’s daughters, and every person that Nebuzaradan the captain of the bodyguard had left with Gedaliah the son of Ahikam, the son of Shaphan—together with Jeremiah the prophet and Baruch the son of Neriah—
+
+## Jeremiah 43:7  
+and they entered the land of Egypt (for they did not obey the voice of the Lord), and went as far as Tahpanhes.
+
+## Jeremiah 43:8  
+Then the word of the Lord came to Jeremiah in Tahpanhes, saying,
+
+## Jeremiah 43:9  
+“Take some large stones in your hands and hide them in the mortar in the brick terrace which is at the entrance of Pharaoh’s palace in Tahpanhes, in the sight of some of the Jews;
+
+## Jeremiah 43:10  
+and say to them, ‘This is what the Lord of armies, the God of Israel says:  
+“Behold, I am going to send and get My servant Nebuchadnezzar king of Babylon,  
+and I am going to set his throne over these stones that I have hidden; and he will spread his canopy over them.
+
+## Jeremiah 43:11  
+He will also come and strike the land of Egypt; those meant for death will be given over to death,  
+those for captivity to captivity, and those for the sword to the sword.
+
+## Jeremiah 43:12  
+And I shall set fire to the temples of the gods of Egypt, and he will burn them and take them captive.  
+So he will wrap himself with the land of Egypt as a shepherd wraps himself with his garment, and he will leave from there safely.
+
+## Jeremiah 43:13  
+He will also smash to pieces the memorial stones of Heliopolis, which is in the land of Egypt;  
+and he will burn the temples of the gods of Egypt with fire.”’”
