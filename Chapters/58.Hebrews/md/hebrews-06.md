@@ -1,0 +1,81 @@
+# Hebrews Chapter 6
+
+## Hebrews 6:1
+
+Therefore, leaving the elementary teaching about the Christ, let us press on to maturity, not laying again a foundation of repentance from dead works and of faith toward God,
+
+## Hebrews 6:2
+
+of instruction about washings and laying on of hands, and about the resurrection of the dead and eternal judgment.
+
+## Hebrews 6:3
+
+And this we will do, if God permits.
+
+## Hebrews 6:4
+
+For it is impossible, in the case of those who have once been enlightened, and have tasted of the heavenly gift and have been made partakers of the Holy Spirit,
+
+## Hebrews 6:5
+
+and have tasted the good word of God and the powers of the age to come,
+
+## Hebrews 6:6
+
+and then have fallen away, to restore them again to repentance, since they again crucify to themselves the Son of God and subject Him to public disgrace.
+
+## Hebrews 6:7
+
+For ground that drinks the rain which often falls on it and produces vegetation useful to those for whose sake it is also tilled, receives a blessing from God;
+
+## Hebrews 6:8
+
+but if it yields thorns and thistles, it is worthless and close to being cursed, and it ends up being burned.
+
+## Hebrews 6:9
+
+But, beloved, we are convinced of better things regarding you, and things that accompany salvation, even though we are speaking in this way.
+
+## Hebrews 6:10
+
+For God is not unjust so as to forget your work and the love which you have shown toward His name, by having served and by still serving the saints.
+
+## Hebrews 6:11
+
+And we desire that each one of you demonstrate the same diligence so as to realise the full assurance of hope until the end,
+
+## Hebrews 6:12
+
+so that you will not be sluggish, but imitators of those who through faith and endurance inherit the promises.
+
+## Hebrews 6:13
+
+For when God made the promise to Abraham, since He could swear an oath by no one greater, He swore by Himself,
+
+## Hebrews 6:14
+
+saying, “Indeed I will greatly bless you and I will greatly multiply you.”
+
+## Hebrews 6:15
+
+And so, having patiently waited, he obtained the promise.
+
+## Hebrews 6:16
+
+For people swear an oath by one greater than themselves, and with them an oath serving as confirmation is an end of every dispute.
+
+## Hebrews 6:17
+
+In the same way God, desiring even more to demonstrate to the heirs of the promise the fact that His purpose is unchangeable, confirmed it with an oath,
+
+## Hebrews 6:18
+
+so that by two unchangeable things in which it is impossible for God to lie, we who have taken refuge would have strong encouragement to hold firmly to the hope set before us.
+
+## Hebrews 6:19
+
+This hope we have as an anchor of the soul, a hope both sure and reliable and one which enters within the veil,
+
+## Hebrews 6:20
+
+where Jesus has entered as a forerunner for us, having become a high priest forever according to the order of Melchizedek.

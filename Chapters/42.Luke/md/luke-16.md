@@ -1,0 +1,169 @@
+# Luke Chapter 16
+
+## Luke 16:1
+
+Now He was also saying to the disciples,  
+“There was a rich man who had a manager, and this manager was reported to him as squandering his possessions.
+
+## Luke 16:2
+
+And he called him and said to him,  
+‘What is this I hear about you?  
+Give an accounting of your management, for you can no longer be manager.’
+
+## Luke 16:3
+
+And the manager said to himself,  
+‘What am I to do, since my master is taking the management away from me?  
+I am not strong enough to dig; I am ashamed to beg.
+
+## Luke 16:4
+
+I know what I will do, so that when I am removed from the management people will welcome me into their homes.’
+
+## Luke 16:5
+
+And he summoned each one of his master’s debtors, and he began saying to the first,  
+‘How much do you owe my master?’
+
+## Luke 16:6
+
+And he said, ‘A hundred jugs of oil.’  
+So he said to him, ‘Take your bill, and sit down quickly and write fifty.’
+
+## Luke 16:7
+
+Then he said to another, ‘And how much do you owe?’  
+And he said, ‘A hundred kors of wheat.’  
+He said to him, ‘Take your bill, and write eighty.’
+
+## Luke 16:8
+
+And his master praised the unrighteous manager because he had acted shrewdly;  
+for the sons of this age are more shrewd in relation to their own kind than the sons of light.
+
+## Luke 16:9
+
+And I say to you, make friends for yourselves by means of the wealth of unrighteousness,  
+so that when it is all gone, they will receive you into the eternal dwellings.
+
+---
+
+## Luke 16:10
+
+“The one who is faithful in a very little thing is also faithful in much;  
+and the one who is unrighteous in a very little thing is also unrighteous in much.
+
+## Luke 16:11
+
+Therefore, if you have not been faithful in the use of unrighteous wealth,  
+who will entrust the true wealth to you?
+
+## Luke 16:12
+
+And if you have not been faithful in the use of that which is another’s,  
+who will give you that which is your own?
+
+## Luke 16:13
+
+No servant can serve two masters;  
+for either he will hate the one and love the other,  
+or he will be devoted to one and despise the other.  
+You cannot serve God and wealth.”
+
+---
+
+## Luke 16:14
+
+Now the Pharisees, who were lovers of money, were listening to all these things and were ridiculing Him.
+
+## Luke 16:15
+
+And He said to them,  
+“You are the ones who justify yourselves in the sight of people,  
+but God knows your hearts;  
+for that which is highly esteemed among people is detestable in the sight of God.
+
+---
+
+## Luke 16:16
+
+“The Law and the Prophets were proclaimed until John came;  
+since that time the gospel of the kingdom of God has been preached, and everyone is forcing his way into it.
+
+## Luke 16:17
+
+But it is easier for heaven and earth to pass away than for one stroke of a letter of the Law to fail.
+
+## Luke 16:18
+
+Everyone who divorces his wife and marries another commits adultery,  
+and he who marries one who is divorced from a husband commits adultery.
+
+---
+
+## Luke 16:19
+
+“Now there was a rich man, and he habitually dressed in purple and fine linen,  
+enjoying himself in splendour every day.
+
+## Luke 16:20
+
+And a poor man named Lazarus was laid at his gate, covered with sores,
+
+## Luke 16:21
+
+and longing to be fed from the scraps which fell from the rich man’s table;  
+not only that, the dogs also came and licked his sores.
+
+## Luke 16:22
+
+Now it happened that the poor man died and was carried away by the angels to Abraham’s arms;  
+and the rich man also died and was buried.
+
+## Luke 16:23
+
+And in Hades he raised his eyes, being in torment,  
+and saw Abraham far away and Lazarus in his arms.
+
+## Luke 16:24
+
+And he cried out and said,  
+‘Father Abraham, have mercy on me, and send Lazarus  
+so that he may dip the tip of his finger in water and cool off my tongue,  
+for I am in agony in this flame.’
+
+## Luke 16:25
+
+But Abraham said,  
+‘Child, remember that during your life you received your good things,  
+and likewise Lazarus bad things; but now he is being comforted here, and you are in agony.
+
+## Luke 16:26
+
+And besides all this, between us and you a great chasm has been set,  
+so that those who want to go over from here to you are not able,  
+nor can any people cross over from there to us.’
+
+## Luke 16:27
+
+And he said, ‘Then I request of you, father, that you send him to my father’s house—
+
+## Luke 16:28
+
+for I have five brothers—in order that he may warn them,  
+so that they will not come to this place of torment as well.’
+
+## Luke 16:29
+
+But Abraham _said_, ‘They have Moses and the Prophets; let them hear them.’
+
+## Luke 16:30
+
+But he said, ‘No, father Abraham; but if someone goes to them from the dead, they will repent!’
+
+## Luke 16:31
+
+But he said to him,  
+‘If they do not listen to Moses and the Prophets,  
+they will not be persuaded even if someone rises from the dead.’”

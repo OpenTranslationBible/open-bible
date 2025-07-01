@@ -1,0 +1,208 @@
+# Acts Chapter 21
+
+## Acts 21:1
+
+Now when we had parted from them and had set sail, we ran a straight course to Cos,  
+and on the next day to Rhodes, and from there to Patara;
+
+## Acts 21:2
+
+and having found a ship crossing over to Phoenicia, we went on board and set sail.
+
+## Acts 21:3
+
+When we came in sight of Cyprus, leaving it on the left, we kept sailing to Syria and landed at Tyre;  
+for there the ship was to unload its cargo.
+
+## Acts 21:4
+
+After looking up the disciples, we stayed there for seven days;  
+and they kept telling Paul through the Spirit not to set foot in Jerusalem.
+
+## Acts 21:5
+
+When our days there were ended, we left and started on our journey,  
+while they all, with wives and children, escorted us until we were out of the city.  
+After kneeling down on the beach and praying, we said farewell to one another.
+
+## Acts 21:6
+
+Then we boarded the ship, and they returned home.
+
+---
+
+## Acts 21:7
+
+When we had completed the voyage from Tyre, we arrived at Ptolemais,  
+and after greeting the brothers and sisters, we stayed with them for a day.
+
+## Acts 21:8
+
+On the next day we left and came to Caesarea,  
+and we entered the house of Philip the evangelist, who was one of the Seven, and stayed with him.
+
+## Acts 21:9
+
+Now this man had four virgin daughters who were prophetesses.
+
+## Acts 21:10
+
+As we were staying there for some days, a prophet named Agabus came down from Judea.
+
+## Acts 21:11
+
+And he came to us and took Paul’s belt and bound his own feet and hands, and said,  
+“This is what the Holy Spirit says:  
+‘In this way the Jews in Jerusalem will bind the man who owns this belt  
+and hand him over to the Gentiles.’”
+
+## Acts 21:12
+
+When we had heard this, we as well as the local residents began begging him not to go up to Jerusalem.
+
+## Acts 21:13
+
+Then Paul answered,  
+“What are you doing, weeping and breaking my heart?  
+For I am ready not only to be bound, but even to die in Jerusalem for the name of the Lord Jesus.”
+
+## Acts 21:14
+
+Since he would not be persuaded, we became quiet, remarking, “The will of the Lord be done!”
+
+---
+
+## Acts 21:15
+
+After these days we got ready and started on our way up to Jerusalem.
+
+## Acts 21:16
+
+Some of the disciples from Caesarea also came with us,  
+taking us to Mnason of Cyprus, a disciple of long standing with whom we were to stay.
+
+---
+
+## Acts 21:17
+
+After we arrived in Jerusalem, the brothers and sisters received us gladly.
+
+## Acts 21:18
+
+And the following day Paul went in with us to James, and all the elders were present.
+
+## Acts 21:19
+
+After he had greeted them, he began to relate one by one the things which God had done among the Gentiles through his ministry.
+
+## Acts 21:20
+
+And when they heard about them, they began glorifying God; and they said to him,  
+“You see, brother, how many thousands there are among the Jews of those who have believed,  
+and they are all zealous for the Law.
+
+## Acts 21:21
+
+But they have been informed about you,  
+that you are teaching all the Jews who are among the Gentiles to abandon Moses,  
+telling them not to circumcise their children nor to walk according to the customs.
+
+## Acts 21:22
+
+So what is to be done? They will certainly hear that you have come.
+
+## Acts 21:23
+
+Therefore, do as we tell you: we have four men who have a vow upon themselves;
+
+## Acts 21:24
+
+take them along and purify yourself together with them, and pay their expenses so that they may shave their heads;  
+then everyone will know that there is nothing to what they have been told about you,  
+but that you yourself also conform to the Law, keeping it.
+
+## Acts 21:25
+
+But as for the Gentiles who have believed, we sent a letter, having decided that they should abstain from meat sacrificed to idols,  
+from blood, from what is strangled, and from sexual immorality.”
+
+## Acts 21:26
+
+Then Paul took the men, and the next day, after purifying himself together with them,  
+he entered the temple announcing the completion of the days of purification,  
+until the sacrifice was offered for each one of them.
+
+---
+
+## Acts 21:27
+
+When the seven days were almost over,  
+the Jews from Asia, upon seeing him in the temple, began stirring up all the crowd and laid hands on him,
+
+## Acts 21:28
+
+crying out,  
+“Men of Israel, help! This is the man who teaches everyone everywhere against our people,  
+the Law, and this place; and besides, he has even brought Greeks into the temple  
+and has defiled this holy place!”
+
+## Acts 21:29
+
+For they had previously seen Trophimus the Ephesian in the city with him,  
+and they assumed that Paul had brought him into the temple.
+
+## Acts 21:30
+
+Then the whole city was provoked and the people rushed together,  
+and taking hold of Paul, they dragged him out of the temple, and immediately the gates were shut.
+
+## Acts 21:31
+
+While they were trying to kill him,  
+a report came to the commander of the Roman cohort that all Jerusalem was in confusion.
+
+## Acts 21:32
+
+He immediately took along some soldiers and centurions and ran down to them;  
+and when they saw the commander and the soldiers, they stopped beating Paul.
+
+## Acts 21:33
+
+Then the commander came up and took hold of him, and ordered that he be bound with two chains;  
+and he began asking who he was and what he had done.
+
+## Acts 21:34
+
+But among the crowd, some were shouting one thing and some another,  
+and when he could not find out the facts because of the uproar,  
+he ordered that Paul be brought into the barracks.
+
+## Acts 21:35
+
+When Paul got to the stairs, it came about that he was carried by the soldiers because of the violence of the mob;
+
+## Acts 21:36
+
+for the multitude of people kept following them, shouting, “Away with him!”
+
+---
+
+## Acts 21:37
+
+As Paul was about to be brought into the barracks, he said to the commander, “Am I allowed to say something to you?”  
+And he said, “Do you know Greek?
+
+## Acts 21:38
+
+Then you are not the Egyptian who some time ago stirred up a revolt and led the four thousand men of the Assassins out into the wilderness?”
+
+## Acts 21:39
+
+But Paul said,  
+“I am a Jew of Tarsus in Cilicia, a citizen of no insignificant city;  
+and I beg you, allow me to speak to the people.”
+
+## Acts 21:40
+
+When he had given permission, Paul, standing on the stairs, motioned to the people with his hand.  
+And when there was a great silence, he spoke to them in the Hebrew dialect, saying:

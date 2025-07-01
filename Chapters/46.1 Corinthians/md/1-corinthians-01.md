@@ -1,0 +1,128 @@
+# 1 Corinthians Chapter 1
+
+## 1 Corinthians 1:1
+
+Paul, called as an apostle of Jesus Christ by the will of God, and Sosthenes our brother,
+
+## 1 Corinthians 1:2
+
+To the church of God which is in Corinth, to those who have been sanctified in Christ Jesus, called as saints, with all who in every place call on the name of our Lord Jesus Christ, their Lord and ours:
+
+## 1 Corinthians 1:3
+
+Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+## 1 Corinthians 1:4
+
+I thank my God always concerning you for the grace of God which was given you in Christ Jesus,
+
+## 1 Corinthians 1:5
+
+That in everything you were enriched in Him, in all speech and all knowledge,
+
+## 1 Corinthians 1:6
+
+Just as the testimony concerning Christ was confirmed in you,
+
+## 1 Corinthians 1:7
+
+So that you are not lacking in any gift, as you eagerly await the revelation of our Lord Jesus Christ,
+
+## 1 Corinthians 1:8
+
+Who will also confirm you to the end, blameless on the day of our Lord Jesus Christ.
+
+## 1 Corinthians 1:9
+
+God is faithful, through whom you were called into fellowship with His Son, Jesus Christ our Lord.
+
+## 1 Corinthians 1:10
+
+Now I urge you, brothers and sisters, by the name of our Lord Jesus Christ, that you all agree and that there be no divisions among you, but that you be made complete in the same mind and in the same judgement.
+
+## 1 Corinthians 1:11
+
+For I have been informed concerning you, my brothers and sisters, by Chloe’s people, that there are quarrels among you.
+
+## 1 Corinthians 1:12
+
+Now I mean this, that each one of you is saying, “I am with Paul,” and “I am with Apollos,” and “I am with Cephas,” and “I am with Christ.”
+
+## 1 Corinthians 1:13
+
+Has Christ been divided? Paul was not crucified for you, was he? Or were you baptised in the name of Paul?
+
+## 1 Corinthians 1:14
+
+I thank God that I baptised none of you except Crispus and Gaius,
+
+## 1 Corinthians 1:15
+
+So that no one would say you were baptised in my name.
+
+## 1 Corinthians 1:16
+
+But I did baptise the household of Stephanas also; beyond that, I do not know whether I baptised anyone else.
+
+## 1 Corinthians 1:17
+
+For Christ did not send me to baptise, but to preach the gospel, not in cleverness of speech, so that the cross of Christ would not be made void.
+
+## 1 Corinthians 1:18
+
+For the word of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
+
+## 1 Corinthians 1:19
+
+For it is written:
+
+> “I will destroy the wisdom of the wise,  
+> And the understanding of those who have understanding, I will confound.”
+
+## 1 Corinthians 1:20
+
+Where is the wise person? Where is the scribe? Where is the debater of this age? Has God not made foolish the wisdom of the world?
+
+## 1 Corinthians 1:21
+
+For since in the wisdom of God the world through its wisdom did not come to know God, God was pleased through the foolishness of the message preached to save those who believe.
+
+## 1 Corinthians 1:22
+
+For indeed Jews ask for signs, and Greeks search for wisdom;
+
+## 1 Corinthians 1:23
+
+But we preach Christ crucified, to Jews a stumbling block, and to Gentiles foolishness,
+
+## 1 Corinthians 1:24
+
+But to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God.
+
+## 1 Corinthians 1:25
+
+For the foolishness of God is wiser than mankind, and the weakness of God is stronger than mankind.
+
+## 1 Corinthians 1:26
+
+For consider your calling, brothers and sisters, that there were not many wise according to the flesh, not many mighty, not many noble;
+
+## 1 Corinthians 1:27
+
+But God has chosen the foolish things of the world to shame the wise, and God has chosen the weak things of the world to shame the things that are strong,
+
+## 1 Corinthians 1:28
+
+And the insignificant things of the world and the despised God has chosen, the things that are not, so that He may nullify the things that are,
+
+## 1 Corinthians 1:29
+
+So that no human may boast before God.
+
+## 1 Corinthians 1:30
+
+But it is due to Him that you are in Christ Jesus, who became to us wisdom from God, and righteousness and sanctification and redemption,
+
+## 1 Corinthians 1:31
+
+So that, just as it is written: “Let the one who boasts, boast in the Lord.”

@@ -1,0 +1,102 @@
+# Philemon Chapter 1
+
+## Philemon 1:1
+
+Paul, a prisoner of Christ Jesus, and Timothy our brother,  
+To Philemon our beloved brother and fellow worker,
+
+## Philemon 1:2
+
+and to Apphia our sister, and to Archippus our fellow soldier, and to the church that is in your house:
+
+## Philemon 1:3
+
+Grace to you and peace from God our Father and the Lord Jesus Christ.
+
+## Philemon 1:4
+
+I thank my God always, making mention of you in my prayers,
+
+## Philemon 1:5
+
+because I hear of your love and of the faith which you have toward the Lord Jesus and toward all the saints;
+
+## Philemon 1:6
+
+and I pray that the fellowship of your faith may become effective through the knowledge of every good thing which is in you for the sake of Christ.
+
+## Philemon 1:7
+
+For I have had great joy and comfort in your love, because the hearts of the saints have been refreshed through you, brother.
+
+## Philemon 1:8
+
+Therefore, though I have enough confidence in Christ to order you to do what is proper,
+
+## Philemon 1:9
+
+yet for love’s sake I rather appeal to you—since I am such a person as Paul, an old man, and now also a prisoner of Christ Jesus—
+
+## Philemon 1:10
+
+I appeal to you for my son Onesimus, whom I fathered in my imprisonment,
+
+## Philemon 1:11
+
+who previously was useless to you, but now is useful both to you and to me.
+
+## Philemon 1:12
+
+I have sent him back to you in person, that is, sending my very heart,
+
+## Philemon 1:13
+
+whom I wanted to keep with me, so that in your behalf he might minister to me in my imprisonment for the gospel;
+
+## Philemon 1:14
+
+but I did not want to do anything without your consent, so that your goodness would not be, in effect, by compulsion, but of your own free will.
+
+## Philemon 1:15
+
+For perhaps it was for this reason that he was separated from you for a while, that you would have him back forever,
+
+## Philemon 1:16
+
+no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.
+
+## Philemon 1:17
+
+If then you regard me as a partner, accept him as you would me.
+
+## Philemon 1:18
+
+But if he has wronged you in any way or owes you anything, charge that to my account;
+
+## Philemon 1:19
+
+I, Paul, am writing this with my own hand: I will repay it (not to mention to you that you owe me even your own self as well).
+
+## Philemon 1:20
+
+Yes, brother, let me benefit from you in the Lord; refresh my heart in Christ.
+
+## Philemon 1:21
+
+Having confidence in your obedience, I write to you, since I know that you will do even more than what I say.
+
+## Philemon 1:22
+
+At the same time also prepare me a guest room, for I hope that through your prayers I will be given to you.
+
+## Philemon 1:23
+
+Epaphras, my fellow prisoner in Christ Jesus, greets you,
+
+## Philemon 1:24
+
+as do Mark, Aristarchus, Demas, and Luke, my fellow workers.
+
+## Philemon 1:25
+
+The grace of the Lord Jesus Christ be with your spirit.
