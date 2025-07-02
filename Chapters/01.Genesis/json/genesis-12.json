@@ -1,86 +1,126 @@
 {
-  "book": "Genesis",
-  "chapter": 12,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord had said to Abram, \u201cLeave your country, your people and your father\u2019s household, and go to the land I will show you."
-    },
-    {
-      "verse": 2,
-      "text": "I will make you into a great nation, and I will bless you. I will make your name great, and you will be a blessing."
-    },
-    {
-      "verse": 3,
-      "text": "I will bless those who bless you, and whoever curses you I will curse. And through you all peoples on earth will be blessed.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "So Abram went, as the Lord had told him; and Lot went with him. Abram was seventy-five years old when he left Haran."
-    },
-    {
-      "verse": 5,
-      "text": "He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the people they had acquired in Haran, and they set out for the land of Canaan. When they arrived there,"
-    },
-    {
-      "verse": 6,
-      "text": "Abram travelled through the land as far as the site of the great tree of Moreh at Shechem. At that time, the Canaanites were in the land."
-    },
-    {
-      "verse": 7,
-      "text": "Then the Lord appeared to Abram and said, \u201cTo your offspring I will give this land.\u201d So he built an altar there to the Lord, who had appeared to him."
-    },
-    {
-      "verse": 8,
-      "text": "From there he moved on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the name of the Lord."
-    },
-    {
-      "verse": 9,
-      "text": "Then Abram set out and continued toward the Negev."
-    },
-    {
-      "verse": 10,
-      "text": "Now there was a famine in the land, so Abram went down to Egypt to live there for a while because the famine was severe."
-    },
-    {
-      "verse": 11,
-      "text": "As he was about to enter Egypt, he said to his wife Sarai, \u201cLook, I know what a beautiful woman you are."
-    },
-    {
-      "verse": 12,
-      "text": "When the Egyptians see you, they will say, \u2018This is his wife,\u2019 and they will kill me but let you live."
-    },
-    {
-      "verse": 13,
-      "text": "Please say you are my sister, so that I will be treated well for your sake and my life will be spared because of you.\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "When Abram came to Egypt, the Egyptians saw that Sarai was very beautiful."
-    },
-    {
-      "verse": 15,
-      "text": "And when Pharaoh\u2019s officials saw her, they praised her to Pharaoh, and she was taken into his palace."
-    },
-    {
-      "verse": 16,
-      "text": "He treated Abram well for her sake, and Abram acquired sheep, cattle, donkeys, servants, and camels."
-    },
-    {
-      "verse": 17,
-      "text": "But the Lord struck Pharaoh and his household with great plagues because of Sarai, Abram\u2019s wife."
-    },
-    {
-      "verse": 18,
-      "text": "So Pharaoh summoned Abram and said, \u201cWhat have you done to me? Why didn\u2019t you tell me she was your wife?"
-    },
-    {
-      "verse": 19,
-      "text": "Why did you say, \u2018She is my sister,\u2019 so that I took her to be my wife? Now then, here is your wife. Take her and go!\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "Then Pharaoh gave orders about Abram to his men, and they sent him on his way with his wife and everything he had."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 12,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord had said to Abram, “Leave your country, your people and your father’s household, and go to the land I will show you."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "I will make you into a great nation, and I will bless you. I will make your name great, and you will be a blessing."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "I will bless those who bless you, and whoever curses you I will curse. And through you all peoples on earth will be blessed.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "So Abram went, as the Lord had told him; and Lot went with him. Abram was seventy-five years old when he left Haran."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "He took his wife Sarai, his nephew Lot, all the possessions they had accumulated and the people they had acquired in Haran, and they set out for the land of Canaan. When they arrived there,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Abram travelled through the land as far as the site of the great tree of Moreh at Shechem. At that time, the Canaanites were in the land."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then the Lord appeared to Abram and said, “To your offspring I will give this land.” So he built an altar there to the Lord, who had appeared to him."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "From there he moved on toward the hills east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called on the name of the Lord."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then Abram set out and continued toward the Negev."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Now there was a famine in the land, so Abram went down to Egypt to live there for a while because the famine was severe."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "As he was about to enter Egypt, he said to his wife Sarai, “Look, I know what a beautiful woman you are."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "When the Egyptians see you, they will say, ‘This is his wife,’ and they will kill me but let you live."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Please say you are my sister, so that I will be treated well for your sake and my life will be spared because of you.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "When Abram came to Egypt, the Egyptians saw that Sarai was very beautiful."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "And when Pharaoh’s officials saw her, they praised her to Pharaoh, and she was taken into his palace."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "He treated Abram well for her sake, and Abram acquired sheep, cattle, donkeys, servants, and camels."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "But the Lord struck Pharaoh and his household with great plagues because of Sarai, Abram’s wife."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "So Pharaoh summoned Abram and said, “What have you done to me? Why didn’t you tell me she was your wife?"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Why did you say, ‘She is my sister,’ so that I took her to be my wife? Now then, here is your wife. Take her and go!”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Then Pharaoh gave orders about Abram to his men, and they sent him on his way with his wife and everything he had."
+            ]
+        }
+    ]
 }

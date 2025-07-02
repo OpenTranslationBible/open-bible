@@ -1,122 +1,180 @@
 {
-  "book": "Genesis",
-  "chapter": 35,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Then God said to Jacob, \u201cGo up to Bethel and settle there, and build an altar to God, who appeared to you when you were fleeing from your brother Esau.\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "So Jacob said to his household and to all who were with him, \u201cGet rid of the foreign gods you have with you, purify yourselves and change your clothes."
-    },
-    {
-      "verse": 3,
-      "text": "Then come, let us go up to Bethel, where I will build an altar to God, who answered me in the day of my distress and has been with me wherever I have gone.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "So they gave Jacob all the foreign gods they had and the rings in their ears, and Jacob buried them under the oak at Shechem."
-    },
-    {
-      "verse": 5,
-      "text": "Then they set out, and the terror of God fell on the towns all around them so that no one pursued them."
-    },
-    {
-      "verse": 6,
-      "text": "Jacob and all the people with him came to Luz (that is, Bethel) in the land of Canaan."
-    },
-    {
-      "verse": 7,
-      "text": "There he built an altar, and he called the place El Bethel, because it was there that God revealed Himself to him when he was fleeing from his brother."
-    },
-    {
-      "verse": 8,
-      "text": "Now Deborah, Rebekah\u2019s nurse, died and was buried under the oak outside Bethel. So it was named Allon Bakuth."
-    },
-    {
-      "verse": 9,
-      "text": "After Jacob returned from Paddan Aram, God appeared to him again and blessed him."
-    },
-    {
-      "verse": 10,
-      "text": "God said to him, \u201cYour name is Jacob, but you will no longer be called Jacob; your name will be Israel.\u201d So He named him Israel."
-    },
-    {
-      "verse": 11,
-      "text": "And God said to him, \u201cI am God Almighty; be fruitful and multiply. A nation and a community of nations will come from you, and kings will come from your body."
-    },
-    {
-      "verse": 12,
-      "text": "The land I gave to Abraham and Isaac I also give to you, and I will give this land to your descendants after you.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "Then God went up from him at the place where He had talked with him."
-    },
-    {
-      "verse": 14,
-      "text": "Jacob set up a stone pillar at the place where God had talked with him, and he poured out a drink offering on it; he also poured oil on it."
-    },
-    {
-      "verse": 15,
-      "text": "Jacob called the place where God had talked with him Bethel."
-    },
-    {
-      "verse": 16,
-      "text": "Then they moved on from Bethel. While they were still some distance from Ephrath, Rachel began to give birth and had great difficulty."
-    },
-    {
-      "verse": 17,
-      "text": "And as she was having great difficulty in childbirth, the midwife said to her, \u201cDon\u2019t be afraid, for you have another son.\u201d"
-    },
-    {
-      "verse": 18,
-      "text": "As she breathed her last\u2014for she was dying\u2014she named her son Ben-Oni. But his father named him Benjamin."
-    },
-    {
-      "verse": 19,
-      "text": "So Rachel died and was buried on the way to Ephrath (that is, Bethlehem)."
-    },
-    {
-      "verse": 20,
-      "text": "Over her tomb Jacob set up a pillar, and to this day that pillar marks Rachel\u2019s tomb."
-    },
-    {
-      "verse": 21,
-      "text": "Israel moved on again and pitched his tent beyond Migdal Eder."
-    },
-    {
-      "verse": 22,
-      "text": "While Israel was living in that region, Reuben went in and slept with his father\u2019s concubine Bilhah, and Israel heard of it."
-    },
-    {
-      "verse": 23,
-      "text": "Jacob had twelve sons: The sons of Leah: Reuben, Simeon, Levi, Judah, Issachar and Zebulun."
-    },
-    {
-      "verse": 24,
-      "text": "The sons of Rachel: Joseph and Benjamin."
-    },
-    {
-      "verse": 25,
-      "text": "The sons of Rachel\u2019s servant Bilhah: Dan and Naphtali."
-    },
-    {
-      "verse": 26,
-      "text": "The sons of Leah\u2019s servant Zilpah: Gad and Asher. These were the sons of Jacob, who were born to him in Paddan Aram."
-    },
-    {
-      "verse": 27,
-      "text": "Jacob came home to his father Isaac in Mamre, near Kiriath Arba (that is, Hebron), where Abraham and Isaac had stayed."
-    },
-    {
-      "verse": 28,
-      "text": "Isaac lived a hundred and eighty years."
-    },
-    {
-      "verse": 29,
-      "text": "Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 35,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Then God said to Jacob, “Go up to Bethel and settle there, and build an altar to God, who appeared to you when you were fleeing from your brother Esau.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "So Jacob said to his household and to all who were with him, “Get rid of the foreign gods you have with you, purify yourselves and change your clothes."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then come, let us go up to Bethel, where I will build an altar to God, who answered me in the day of my distress and has been with me wherever I have gone.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "So they gave Jacob all the foreign gods they had and the rings in their ears, and Jacob buried them under the oak at Shechem."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then they set out, and the terror of God fell on the towns all around them so that no one pursued them."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Jacob and all the people with him came to Luz (that is, Bethel) in the land of Canaan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "There he built an altar, and he called the place El Bethel, because it was there that God revealed Himself to him when he was fleeing from his brother."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Now Deborah, Rebekah’s nurse, died and was buried under the oak outside Bethel. So it was named Allon Bakuth."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "After Jacob returned from Paddan Aram, God appeared to him again and blessed him."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "God said to him, “Your name is Jacob, but you will no longer be called Jacob; your name will be Israel.” So He named him Israel."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "And God said to him, “I am God Almighty; be fruitful and multiply. A nation and a community of nations will come from you, and kings will come from your body."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The land I gave to Abraham and Isaac I also give to you, and I will give this land to your descendants after you.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Then God went up from him at the place where He had talked with him."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Jacob set up a stone pillar at the place where God had talked with him, and he poured out a drink offering on it; he also poured oil on it."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Jacob called the place where God had talked with him Bethel."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Then they moved on from Bethel. While they were still some distance from Ephrath, Rachel began to give birth and had great difficulty."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "And as she was having great difficulty in childbirth, the midwife said to her, “Don’t be afraid, for you have another son.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "As she breathed her last—for she was dying—she named her son Ben-Oni. But his father named him Benjamin."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "So Rachel died and was buried on the way to Ephrath (that is, Bethlehem)."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Over her tomb Jacob set up a pillar, and to this day that pillar marks Rachel’s tomb."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Israel moved on again and pitched his tent beyond Migdal Eder."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "While Israel was living in that region, Reuben went in and slept with his father’s concubine Bilhah, and Israel heard of it."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Jacob had twelve sons: The sons of Leah: Reuben, Simeon, Levi, Judah, Issachar and Zebulun."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "The sons of Rachel: Joseph and Benjamin."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "The sons of Rachel’s servant Bilhah: Dan and Naphtali."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "The sons of Leah’s servant Zilpah: Gad and Asher. These were the sons of Jacob, who were born to him in Paddan Aram."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Jacob came home to his father Isaac in Mamre, near Kiriath Arba (that is, Hebron), where Abraham and Isaac had stayed."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Isaac lived a hundred and eighty years."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Then he breathed his last and died and was gathered to his people, old and full of years. And his sons Esau and Jacob buried him."
+            ]
+        }
+    ]
 }

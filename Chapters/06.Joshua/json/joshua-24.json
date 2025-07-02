@@ -11,7 +11,7 @@
         {
             "verse": 2,
             "text": [
-                "Joshua said to all the people, “This is what the Lord, the God of Israel, says: ‘Long ago your ancestors, including Terah the father of Abraham and Nahor, lived beyond the Euphrates River and worshipped other gods."
+                "Joshua said to all the people, “This is what the Lord, the God of Israel, says:‘Long ago your ancestors, including Terah the father of Abraham and Nahor, lived beyond the Euphrates River and worshipped other gods."
             ]
         },
         {
@@ -24,6 +24,11 @@
             "verse": 4,
             "text": [
                 "and to Isaac I gave Jacob and Esau. I assigned the hill country of Seir to Esau, but Jacob and his children went down to Egypt."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -45,6 +50,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 8,
             "text": [
                 "I brought you to the land of the Amorites who lived east of the Jordan. They fought against you, but I gave them into your hands. You took possession of their land when I destroyed them before you."
@@ -60,6 +70,11 @@
             "verse": 10,
             "text": [
                 "but I would not listen to Balaam. So he blessed you again and again, and I delivered you out of his hand."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -81,6 +96,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 14,
             "text": [
                 "“Now, therefore, fear the Lord and serve Him with all faithfulness. Throw away the gods your ancestors worshipped beyond the Euphrates and in Egypt, and serve the Lord."
@@ -89,7 +109,12 @@
         {
             "verse": 15,
             "text": [
-                "But if serving the Lord seems undesirable to you, then choose for yourselves today whom you will serve—whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites in whose land you are living. But as for me and my household, we will serve the Lord.”"
+                "But if serving the Lord seems undesirable to you, then choose for yourselves today whom you will serve—whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites in whose land you are living.But as for me and my household, we will serve the Lord.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -111,6 +136,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 19,
             "text": [
                 "Joshua said to the people, “You are not able to serve the Lord. He is a holy God; He is a jealous God. He will not forgive your rebellion and your sins."
@@ -123,6 +153,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 21,
             "text": [
                 "But the people said to Joshua, “No! We will serve the Lord.”"
@@ -131,7 +166,7 @@
         {
             "verse": 22,
             "text": [
-                "Then Joshua said, “You are witnesses against yourselves that you have chosen to serve the Lord.” “Yes, we are witnesses,” they replied."
+                "Then Joshua said, “You are witnesses against yourselves that you have chosen to serve the Lord.”“Yes, we are witnesses,” they replied."
             ]
         },
         {
@@ -144,6 +179,11 @@
             "verse": 24,
             "text": [
                 "And the people said to Joshua, “We will serve the Lord our God and obey Him.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -165,9 +205,19 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 28,
             "text": [
                 "Then Joshua dismissed the people, each to their own inheritance."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -183,15 +233,30 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 31,
             "text": [
                 "Israel served the Lord throughout the lifetime of Joshua and of the elders who outlived him and had experienced everything the Lord had done for Israel."
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 32,
             "text": [
                 "Joseph’s bones, which the Israelites had brought up from Egypt, were buried at Shechem in the plot of land that Jacob bought for a hundred pieces of silver from the sons of Hamor, the father of Shechem. This became the inheritance of Joseph’s descendants."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {

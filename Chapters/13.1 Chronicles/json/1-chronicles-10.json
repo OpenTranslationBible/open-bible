@@ -5,11 +5,21 @@
         {
             "verse": 1,
             "text": [
+                "Now the Philistines fought against Israel,and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
+            "text": [
+                "The Philistines closely pursued Saul and his sons,and the Philistines struck down Jonathan, Abinadab, and Malchi-shua, the sons of Saul."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -17,11 +27,26 @@
         {
             "verse": 3,
             "text": [
+                "The battle became heavy against Saul,and the archers found him;",
+                "> and he was wounded by the archers."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
+            "text": [
+                "Then Saul said to his armour bearer,",
+                "> “Draw your sword and pierce me through with it,",
+                "> otherwise these uncircumcised will come and abuse me.”",
+                "> But his armour bearer would not, for he was very afraid.",
+                "> So Saul took his sword and fell on it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -29,11 +54,22 @@
         {
             "verse": 5,
             "text": [
+                "When his armour bearer saw that Saul was dead,",
+                "> he also fell on his sword and died."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
+            "text": [
+                "So Saul died with his three sons,and all those of his house died together."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -41,11 +77,24 @@
         {
             "verse": 7,
             "text": [
+                "When all the men of Israel who were in the valley saw that they had fled,and that Saul and his sons were dead,",
+                "> they abandoned their cities and fled.",
+                "> Then the Philistines came and lived in them."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
+            "text": [
+                "It came about the next day, when the Philistines came to strip the slain,",
+                "> they found Saul and his sons fallen on Mount Gilboa."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -53,11 +102,23 @@
         {
             "verse": 9,
             "text": [
+                "So they stripped him and took his head and his armour,and sent messengers around the land of the Philistines,",
+                "> to bring the good news to their idols and to the people."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
+            "text": [
+                "They put his armour in the house of their gods,",
+                "> and they fastened his skull in the house of Dagon."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -65,11 +126,22 @@
         {
             "verse": 11,
             "text": [
+                "When all Jabesh-gilead heard everything that the Philistines had done to Saul,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
+            "text": [
+                "all the valiant men rose and took the body of Saul and the bodies of his sons,and they brought them to Jabesh,and they buried their bones under the oak in Jabesh,",
+                "> and they fasted for seven days."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -77,12 +149,22 @@
         {
             "verse": 13,
             "text": [
+                "So Saul died for his unfaithfulness which he committed against the Lord,",
+                "> because of the word of the Lord which he did not keep;",
+                "> and also because he asked counsel of a medium, making inquiry of it,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "and did not inquire of the Lord.",
+                "> Therefore He put him to death and turned the kingdom over to David, the son of Jesse."
+            ]
         }
     ]
 }

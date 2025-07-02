@@ -1,48 +1,90 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 99,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> The Lord reigns, the peoples tremble;",
+                "> He sits enthroned above the cherubim, the earth quakes."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> The Lord is great in Zion,",
+                "> And He is exalted above all the peoples."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> May they praise Your great and awesome name;",
+                "> Holy is He."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> The strength of the King loves justice;",
+                "> You have established fairness;",
+                "> You have executed justice and righteousness in Jacob."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Exalt the Lord our God",
+                "> And worship at His footstool;",
+                "> Holy is He."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Moses and Aaron were among His priests,",
+                "> And Samuel was among those who called on His name;",
+                "> They called upon the Lord and He answered them."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> He spoke to them in the pillar of cloud;",
+                "> They kept His testimonies",
+                "> And the statute that He gave them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Lord our God, You answered them;",
+                "> You were a forgiving God to them,",
+                "> And yet an avenger of their evil deeds."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Exalt the Lord our God",
+                "> And worship at His holy hill,",
+                "> For the Lord our God is holy."
+            ]
         }
     ]
 }

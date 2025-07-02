@@ -1,162 +1,304 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 68,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God arises, His enemies scatter,",
+                "> And those who hate Him flee from His presence."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> As smoke is blown away, so You blow them away;",
+                "> As wax melts before the fire,",
+                "> So the wicked perish before God."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> But the righteous are glad; they rejoice before God,",
+                "> Yes, they rejoice with joy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Sing to God, sing praises to His name;",
+                "> Exalt Him who rides through the deserts,",
+                "> Whose name is the Lord, and be jubilant before Him."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> A father of the fatherless and a judge for the widows,",
+                "> Is God in His holy dwelling."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> God makes a home for the lonely;",
+                "> He leads out the prisoners into prosperity,",
+                "> Only the rebellious live in parched lands."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> God, when You went out before Your people,",
+                "> When You marched through the desert,"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The earth quaked;",
+                "> The heavens also dropped rain at the presence of God;",
+                "> Sinai itself quaked at the presence of God, the God of Israel."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> You made plentiful rain fall, God;",
+                "> You confirmed Your inheritance when it was parched."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> Your creatures settled in it;",
+                "> In Your kindness You provided for the poor, God."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The Lord gives the command;",
+                "> The women who proclaim good news are a great army:"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> “Kings of armies flee, they flee,",
+                "> And she who remains at home will divide the spoils!”"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> When you lie down among the sheepfolds,",
+                "> You are like the wings of a dove covered with silver,",
+                "> And its pinions with glistening gold."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> When the Almighty scattered the kings there,",
+                "> It was snowing in Zalmon."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> The mountain of Bashan is a mountain of God;",
+                "> The mountain of Bashan is a mountain of many peaks."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Why do you look with envy, you mountains of many peaks,",
+                "> At the mountain God has desired as His dwelling?",
+                "> Indeed, the Lord will dwell there forever."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> The chariots of God are myriads, thousands upon thousands;",
+                "> The Lord is among them as at Sinai, in holiness."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> You have ascended on high, You have led captive Your captives;",
+                "> You have received gifts among people,",
+                "> Even among the rebellious as well,",
+                "> That the Lord God may dwell there."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Blessed be the Lord, who daily bears our burden,",
+                "> The God who is our salvation."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> God is to us a God of salvation;",
+                "> And to God the Lord belong ways of escape from death."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> God certainly will shatter the heads of His enemies,",
+                "> The hairy head of one who goes about in his guilt."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> The Lord said, “I will bring them back from Bashan.",
+                "> I will bring them back from the depths of the sea,"
+            ]
         },
         {
             "verse": 23,
+            "text": [
+                "> So that your foot may shatter them in blood,",
+                "> And the tongue of your dogs may have its portion from your enemies.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> They have seen Your procession, God,",
+                "> The procession of my God, my King, into the sanctuary."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> The singers went on, the musicians after them,",
+                "> In the midst of the young women beating tambourines."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> Bless God in the congregations,",
+                "> The Lord, you who are from the fountain of Israel."
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "> Benjamin, the youngest, is there, ruling them,",
+                "> The leaders of Judah in their group,",
+                "> The leaders of Zebulun, the leaders of Naphtali."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> Your God has commanded your strength;",
+                "> Show Yourself strong, God, You who acted in our behalf."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> Because of Your temple at Jerusalem",
+                "> Kings will bring gifts to You."
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> Rebuke the animals in the reeds,",
+                "> The herd of bulls with the calves of the peoples,",
+                "> Trampling under foot the pieces of silver;",
+                "> He has scattered the peoples who delight in war."
+            ]
         },
         {
             "verse": 31,
+            "text": [
+                "> Gifts will be brought from Egypt;",
+                "> Cush will quickly stretch out her hands to God."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "> Sing to God, you kingdoms of the earth,",
+                "> Sing praises to the Lord,"
+            ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> To Him who rides upon the highest heavens, which are from ancient times;",
+                "> Behold, He speaks with His voice, a mighty voice."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> Ascribe strength to God;",
+                "> His majesty is over Israel,",
+                "> And His strength is in the skies."
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> God, You are awesome from Your sanctuary.",
+                "> The God of Israel Himself gives strength and power to the people.",
+                "> Blessed be God!"
+            ]
         }
     ]
 }

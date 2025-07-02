@@ -5,6 +5,7 @@
         {
             "verse": 1,
             "text": [
+                "Then Hannah prayed and said:",
                 "> “My heart rejoices in the Lord;",
                 "> My horn is lifted high by the Lord.",
                 "> My mouth boasts over my enemies,",
@@ -88,7 +89,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 11,
@@ -133,7 +136,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 18,
@@ -160,7 +165,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 22,
@@ -187,7 +194,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 26,
@@ -196,7 +205,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 27,

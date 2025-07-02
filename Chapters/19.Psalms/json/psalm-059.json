@@ -1,86 +1,163 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 59,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Rescue me from my enemies, my God;",
+                "> Set me securely on high away from those who rise up against me."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Rescue me from those who practice injustice,",
+                "> And save me from men of bloodshed."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> For behold, they have set an ambush for my life;",
+                "> Fierce men attack me,",
+                "> Not for my wrongdoing nor for my sin, Lord,"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For no guilt of mine, they run and take their stand against me.",
+                "> Stir Yourself to help me, and see!"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> You, Lord God of armies, the God of Israel,",
+                "> Awake to punish all the nations;",
+                "> Do not be gracious to any who deal treacherously in wrongdoing."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> They return at evening, they howl like a dog,",
+                "> And prowl around the city."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Behold, they gush forth with their mouths;",
+                "> Swords are in their lips,",
+                "> For, they say, “Who hears?”"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> But You, Lord, laugh at them;",
+                "> You scoff at all the nations."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Because of his strength I will watch for You,",
+                "> For God is my refuge."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> My God in His faithfulness will meet me;",
+                "> God will let me look triumphantly upon my enemies."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Do not kill them, or my people will forget;",
+                "> Scatter them by Your power, and bring them down,",
+                "> Lord, our shield."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> On account of the sin of their mouths and the words of their lips,",
+                "> May they even be caught in their pride,",
+                "> And on account of curses and lies which they tell."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> Destroy them in wrath, destroy them so that they will no longer exist;",
+                "> So that people may know that God rules in Jacob,",
+                "> To the ends of the earth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> They return at evening, they howl like a dog,",
+                "> And prowl around the city."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> They wander about for food,",
+                "> And murmur if they are not satisfied."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> But as for me, I will sing of Your strength;",
+                "> Yes, I will joyfully sing of Your mercy in the morning,",
+                "> For You have been my refuge",
+                "> And a place of refuge on the day of my distress."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> My strength, I will sing praises to You;",
+                "> For God is my refuge, the God who shows me mercy."
+            ]
         }
     ]
 }

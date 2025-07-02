@@ -5,7 +5,7 @@
         {
             "verse": 1,
             "text": [
-                "And David spoke the words of this song to the Lord on the day the Lord delivered him from the hand of all his enemies, and from the hand of Saul."
+                "And David spoke the words of this song to the Lordon the day the Lord delivered him from the hand of all his enemies,and from the hand of Saul."
             ]
         },
         {
@@ -32,7 +32,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 5,
@@ -58,7 +60,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 8,
@@ -128,7 +132,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 17,
@@ -159,7 +165,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 21,
@@ -197,7 +205,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 26,
@@ -221,7 +231,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 29,
@@ -288,7 +300,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 38,
@@ -334,7 +348,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 44,
@@ -359,7 +375,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 47,

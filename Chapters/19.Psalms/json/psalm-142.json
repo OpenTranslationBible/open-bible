@@ -1,23 +1,45 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 142,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I cry out with my voice to the Lord;",
+                "> I plead with my voice to the Lord for mercy."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> I pour out my complaint before Him;",
+                "> I declare my trouble before Him."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> When my spirit felt weak within me,",
+                "> You knew my path.",
+                "> In the way where I walk",
+                "> They have hidden a trap for me."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Look to the right and see;",
+                "> For there is no one who regards me.",
+                "> There is no escape for me;",
+                "> No one cares for my soul."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -25,16 +47,33 @@
         {
             "verse": 5,
             "text": [
+                "> I cried out to You, Lord;",
+                "> I said, “You are my refuge,",
+                "> My portion in the land of the living."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Give Your attention to my cry,",
+                "> For I have been brought very low;",
+                "> Rescue me from my persecutors,",
+                "> For they are too strong for me."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Bring my soul out of prison,",
+                "> So that I may give thanks to Your name;",
+                "> The righteous will surround me,",
+                "> For You will look after me.”"
+            ]
         }
     ]
 }

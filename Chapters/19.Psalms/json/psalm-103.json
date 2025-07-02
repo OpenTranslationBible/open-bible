@@ -1,25 +1,43 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 103,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Bless the Lord, my soul,",
+                "> And all that is within me, bless His holy name."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Bless the Lord, my soul,",
+                "> And do not forget any of His benefits;"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Who pardons all your guilt,",
+                "> Who heals all your diseases;"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Who redeems your life from the pit,",
+                "> Who crowns you with favour and compassion;"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Who satisfies your years with good things,",
+                "> So that your youth is renewed like the eagle."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -27,57 +45,106 @@
         {
             "verse": 6,
             "text": [
+                "> The Lord performs righteous deeds",
+                "> And judgments for all who are oppressed."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He made known His ways to Moses,",
+                "> His deeds to the sons of Israel."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The Lord is compassionate and gracious,",
+                "> Slow to anger and abounding in mercy."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He will not always contend with us,",
+                "> Nor will He keep His anger forever."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He has not dealt with us according to our sins,",
+                "> Nor rewarded us according to our guilty deeds."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> For as high as the heavens are above the earth,",
+                "> So great is His mercy toward those who fear Him."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> As far as the east is from the west,",
+                "> So far has He removed our wrongdoings from us."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Just as a father has compassion on his children,",
+                "> So the Lord has compassion on those who fear Him."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> For He Himself knows our form;",
+                "> He is mindful that we are nothing but dust."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> As for man, his days are like grass;",
+                "> Like a flower of the field, so he flourishes."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> When the wind has passed over it, it is no more,",
+                "> And its place no longer knows about it."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> But the mercy of the Lord is from everlasting to everlasting",
+                "> For those who fear Him,",
+                "> And His justice to the children’s children,"
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> To those who keep His covenant",
+                "> And remember His precepts, so as to do them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -85,20 +152,37 @@
         {
             "verse": 19,
             "text": [
+                "> The Lord has established His throne in the heavens,",
+                "> And His sovereignty rules over all."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Bless the Lord, you His angels,",
+                "> Mighty in strength, who perform His word,",
+                "> Obeying the voice of His word!"
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> Bless the Lord, all you His hosts,",
+                "> You who serve Him, doing His will."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Bless the Lord, all you works of His,",
+                "> In all places of His dominion;",
+                "> Bless the Lord, my soul!"
+            ]
         }
     ]
 }

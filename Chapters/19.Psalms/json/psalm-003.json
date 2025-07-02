@@ -1,33 +1,60 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 3,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, how my enemies have increased!",
+                "> Many are rising up against me."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Many are saying of my soul,",
+                "> “There is no salvation for him in God.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> But You, Lord, are a shield around me,",
+                "> My glory, and the One who lifts my head."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> I was crying out to the Lord with my voice,",
+                "> And He answered me from His holy mountain."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> I lay down and slept;",
+                "> I awoke, for the Lord sustains me."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> I will not be afraid of ten thousands of people",
+                "> Who have set themselves against me all around."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -35,12 +62,22 @@
         {
             "verse": 7,
             "text": [
+                "> Arise, Lord; save me, my God!",
+                "> For You have struck all my enemies on the cheek;",
+                "> You have shattered the teeth of the wicked."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Salvation belongs to the Lord;",
+                "> May Your blessing be upon Your people."
+            ]
         }
     ]
 }

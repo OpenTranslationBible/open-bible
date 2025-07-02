@@ -1,64 +1,113 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 85,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, You showed favour to Your land;",
+                "> You restored the fortunes of Jacob."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> You forgave the guilt of Your people;",
+                "> You covered all their sin."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> You withdrew all Your fury;",
+                "> You turned away from Your burning anger."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Restore us, God of our salvation,",
+                "> And cause Your indignation toward us to cease."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Will You be angry with us forever?",
+                "> Will You prolong Your anger to all generations?"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Will You not revive us again,",
+                "> So that Your people may rejoice in You?"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> Show us Your mercy, Lord,",
+                "> And grant us Your salvation."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> I will hear what God the Lord will say;",
+                "> For He will speak peace to His people, to His godly ones;",
+                "> And may they not turn back to foolishness."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> Certainly His salvation is near to those who fear Him,",
+                "> That glory may dwell in our land."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Mercy and truth have met together;",
+                "> Righteousness and peace have kissed each other."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Truth sprouts from the earth,",
+                "> And righteousness looks down from heaven."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Indeed, the Lord will give what is good,",
+                "> And our land will yield its produce."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Righteousness will go before Him",
+                "> And will make His footsteps into a way."
+            ]
         }
     ]
 }

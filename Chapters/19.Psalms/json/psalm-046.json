@@ -1,31 +1,55 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 46,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God is our refuge and strength,",
+                "> A very ready help in trouble."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Therefore we will not fear, though the earth shakes",
+                "> And the mountains slip into the heart of the sea;"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Though its waters roar and foam,",
+                "> Though the mountains quake at its surging pride."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> There is a river whose streams make the city of God happy,",
+                "> The holy dwelling places of the Most High."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> God is in the midst of her, she will not be moved;",
+                "> God will help her when morning dawns."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> The nations made an uproar, the kingdoms tottered;",
+                "> He raised His voice, the earth quaked."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -33,26 +57,49 @@
         {
             "verse": 7,
             "text": [
+                "> The Lord of armies is with us;",
+                "> The God of Jacob is our stronghold."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Come, behold the works of the Lord,",
+                "> Who has inflicted horrific events on the earth."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He makes wars cease to the end of the earth;",
+                "> He breaks the bow and cuts the spear in two;",
+                "> He burns the chariots with fire."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> “Stop striving and know that I am God;",
+                "> I will be exalted among the nations,",
+                "> I will be exalted on the earth.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The Lord of armies is with us;",
+                "> The God of Jacob is our stronghold."
+            ]
         }
     ]
 }

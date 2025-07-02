@@ -1,98 +1,179 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 9,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I will give thanks to the Lord with all my heart;",
+                "> I will tell of all Your wonders."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> I will rejoice and be jubilant in You;",
+                "> I will sing praise to Your name, O Most High."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> When my enemies turn back,",
+                "> They stumble and perish before You."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For You have maintained my just cause;",
+                "> You have sat on the throne judging righteously."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> You have rebuked the nations, You have eliminated the wicked;",
+                "> You have wiped out their name forever and ever."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> The enemy has come to an end in everlasting ruins,",
+                "> And You have uprooted the cities;",
+                "> The very memory of them has perished."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> But the Lord sits as King forever;",
+                "> He has established His throne for judgment,"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> And He will judge the world in righteousness;",
+                "> He will execute judgment for the peoples fairly."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> The Lord will also be a stronghold for the oppressed,",
+                "> A stronghold in times of trouble;"
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> And those who know Your name will put their trust in You,",
+                "> For You, Lord, have not abandoned those who seek You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Sing praises to the Lord, who dwells in Zion;",
+                "> Declare His deeds among the peoples."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> For He who requires blood remembers them;",
+                "> He does not forget the cry of the afflicted."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Be gracious to me, Lord;",
+                "> See my oppression from those who hate me,",
+                "> You who lift me up from the gates of death,"
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> So that I may tell of all Your praises,",
+                "> That in the gates of the daughter of Zion",
+                "> I may rejoice in Your salvation."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> The nations have sunk down into the pit which they have made;",
+                "> In the net which they hid, their own foot has been caught."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> The Lord has made Himself known; He has executed judgment.",
+                "> A wicked one is ensnared in the work of his own hands."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> The wicked will return to Sheol,",
+                "> All the nations who forget God."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> For the needy will not always be forgotten,",
+                "> Nor the hope of the afflicted perish forever."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Arise, Lord, do not let mankind prevail;",
+                "> Let the nations be judged before You."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Put them in fear, Lord;",
+                "> Let the nations know that they are merely human."
+            ]
         }
     ]
 }

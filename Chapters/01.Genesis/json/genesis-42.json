@@ -1,34 +1,48 @@
 {
-  "book": "Genesis",
-  "chapter": 42,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "When Jacob learned that there was grain in Egypt, he said to his sons, \u201cWhy do you just keep looking at each other?\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "He continued, \u201cI have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "Then ten of Joseph\u2019s brothers went down to buy grain from Egypt."
-    },
-    {
-      "verse": 4,
-      "text": "But Jacob did not send Benjamin, Joseph\u2019s brother, with the others, because he was afraid that harm might come to him."
-    },
-    {
-      "verse": 5,
-      "text": "So Israel\u2019s sons were among those who went to buy grain, for there was famine in the land of Canaan also."
-    },
-    {
-      "verse": 6,
-      "text": "Now Joseph was the governor of the land, the person who sold grain to all its people. So when Joseph\u2019s brothers arrived, they bowed down to him with their faces to the ground."
-    },
-    {
-      "verse": 7,
-      "text": "As soon as Joseph saw his brothers, he recognised them, but he pretended to be a stranger and spoke harshly to them."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 42,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "When Jacob learned that there was grain in Egypt, he said to his sons, “Why do you just keep looking at each other?”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "He continued, “I have heard that there is grain in Egypt. Go down there and buy some for us, so that we may live and not die.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then ten of Joseph’s brothers went down to buy grain from Egypt."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But Jacob did not send Benjamin, Joseph’s brother, with the others, because he was afraid that harm might come to him."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "So Israel’s sons were among those who went to buy grain, for there was famine in the land of Canaan also."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Now Joseph was the governor of the land, the person who sold grain to all its people. So when Joseph’s brothers arrived, they bowed down to him with their faces to the ground."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "As soon as Joseph saw his brothers, he recognised them, but he pretended to be a stranger and spoke harshly to them."
+            ]
+        }
+    ]
 }

@@ -1,94 +1,138 @@
 {
-  "book": "Genesis",
-  "chapter": 28,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "So Isaac called for Jacob and blessed him. Then he commanded him: \u201cDo not marry a Canaanite woman."
-    },
-    {
-      "verse": 2,
-      "text": "Go at once to Paddan Aram, to the house of your mother\u2019s father Bethuel. Take a wife for yourself there from among the daughters of Laban, your mother\u2019s brother."
-    },
-    {
-      "verse": 3,
-      "text": "May God Almighty bless you and make you fruitful and increase your numbers until you become a community of peoples."
-    },
-    {
-      "verse": 4,
-      "text": "May He give you and your descendants the blessing given to Abraham, so that you may take possession of the land where you now reside as a foreigner, the land God gave to Abraham.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "Then Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau."
-    },
-    {
-      "verse": 6,
-      "text": "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan Aram to take a wife from there, and that when he blessed him he commanded him, \u201cDo not marry a Canaanite woman,\u201d"
-    },
-    {
-      "verse": 7,
-      "text": "and that Jacob had obeyed his father and mother and had gone to Paddan Aram."
-    },
-    {
-      "verse": 8,
-      "text": "Esau then realised how displeasing the Canaanite women were to his father Isaac;"
-    },
-    {
-      "verse": 9,
-      "text": "so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had."
-    },
-    {
-      "verse": 10,
-      "text": "Jacob left Beersheba and set out for Haran."
-    },
-    {
-      "verse": 11,
-      "text": "When he reached a certain place, he stopped for the night because the sun had set. Taking one of the stones there, he put it under his head and lay down to sleep."
-    },
-    {
-      "verse": 12,
-      "text": "He had a dream in which he saw a stairway resting on the earth, with its top reaching to heaven, and the angels of God were ascending and descending on it."
-    },
-    {
-      "verse": 13,
-      "text": "There above it stood the Lord, and He said: \u201cI am the Lord, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you are lying."
-    },
-    {
-      "verse": 14,
-      "text": "Your descendants will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All peoples on earth will be blessed through you and your offspring."
-    },
-    {
-      "verse": 15,
-      "text": "I am with you and will watch over you wherever you go, and I will bring you back to this land. I will not leave you until I have done what I have promised you.\u201d"
-    },
-    {
-      "verse": 16,
-      "text": "When Jacob awoke from his sleep, he thought, \u201cSurely the Lord is in this place, and I was not aware of it.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "He was afraid and said, \u201cHow awesome is this place! This is none other than the house of God; this is the gate of heaven.\u201d"
-    },
-    {
-      "verse": 18,
-      "text": "Early the next morning Jacob took the stone he had placed under his head and set it up as a pillar and poured oil on top of it."
-    },
-    {
-      "verse": 19,
-      "text": "He called that place Bethel, though the city used to be called Luz."
-    },
-    {
-      "verse": 20,
-      "text": "Then Jacob made a vow, saying, \u201cIf God will be with me and will watch over me on this journey I am taking and will give me food to eat and clothes to wear"
-    },
-    {
-      "verse": 21,
-      "text": "so that I return safely to my father\u2019s household, then the Lord will be my God"
-    },
-    {
-      "verse": 22,
-      "text": "and this stone that I have set up as a pillar will be God\u2019s house, and of all that You give me I will give You a tenth.\u201d"
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "So Isaac called for Jacob and blessed him. Then he commanded him: “Do not marry a Canaanite woman."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Go at once to Paddan Aram, to the house of your mother’s father Bethuel. Take a wife for yourself there from among the daughters of Laban, your mother’s brother."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "May God Almighty bless you and make you fruitful and increase your numbers until you become a community of peoples."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "May He give you and your descendants the blessing given to Abraham, so that you may take possession of the land where you now reside as a foreigner, the land God gave to Abraham.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then Isaac sent Jacob on his way, and he went to Paddan Aram, to Laban son of Bethuel the Aramean, the brother of Rebekah, who was the mother of Jacob and Esau."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Now Esau learned that Isaac had blessed Jacob and sent him to Paddan Aram to take a wife from there, and that when he blessed him he commanded him, “Do not marry a Canaanite woman,”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "and that Jacob had obeyed his father and mother and had gone to Paddan Aram."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Esau then realised how displeasing the Canaanite women were to his father Isaac;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael son of Abraham, in addition to the wives he already had."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Jacob left Beersheba and set out for Haran."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "When he reached a certain place, he stopped for the night because the sun had set. Taking one of the stones there, he put it under his head and lay down to sleep."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "He had a dream in which he saw a stairway resting on the earth, with its top reaching to heaven, and the angels of God were ascending and descending on it."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "There above it stood the Lord, and He said: “I am the Lord, the God of your father Abraham and the God of Isaac. I will give you and your descendants the land on which you are lying."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Your descendants will be like the dust of the earth, and you will spread out to the west and to the east, to the north and to the south. All peoples on earth will be blessed through you and your offspring."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "I am with you and will watch over you wherever you go, and I will bring you back to this land. I will not leave you until I have done what I have promised you.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "When Jacob awoke from his sleep, he thought, “Surely the Lord is in this place, and I was not aware of it.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "He was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Early the next morning Jacob took the stone he had placed under his head and set it up as a pillar and poured oil on top of it."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "He called that place Bethel, though the city used to be called Luz."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Then Jacob made a vow, saying, “If God will be with me and will watch over me on this journey I am taking and will give me food to eat and clothes to wear"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "so that I return safely to my father’s household, then the Lord will be my God"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "and this stone that I have set up as a pillar will be God’s house, and of all that You give me I will give You a tenth.”"
+            ]
+        }
+    ]
 }

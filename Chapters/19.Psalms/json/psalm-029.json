@@ -1,52 +1,89 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 29,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Ascribe to the Lord, sons of the mighty,",
+                "> Ascribe to the Lord glory and strength."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Ascribe to the Lord the glory due His name;",
+                "> Worship the Lord in holy splendour."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> The voice of the Lord is on the waters;",
+                "> The God of glory thunders,",
+                "> The Lord is over many waters."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> The voice of the Lord is powerful,",
+                "> The voice of the Lord is majestic."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The voice of the Lord breaks the cedars;",
+                "> Yes, the Lord breaks the cedars of Lebanon in pieces."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> He makes Lebanon skip like a calf,",
+                "> And Sirion like a young wild ox."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> The voice of the Lord divides flames of fire."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The voice of the Lord shakes the wilderness;",
+                "> The Lord shakes the wilderness of Kadesh."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> The voice of the Lord makes the deer give birth",
+                "> And strips the forests bare;",
+                "> And in His temple everything says, “Glory!”"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> The Lord sat as King at the flood;",
+                "> Yes, the Lord sits as King forever."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The Lord will give strength to His people;",
+                "> The Lord will bless His people with peace."
+            ]
         }
     ]
 }

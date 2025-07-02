@@ -1,104 +1,186 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 38,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, do not rebuke me in Your wrath,",
+                "> And do not punish me in Your burning anger."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> For Your arrows have sunk deep into me,",
+                "> And Your hand has pressed down on me."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> There is no healthy spot in my flesh because of Your indignation;",
+                "> There is no health in my bones because of my sin."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> For my guilty deeds have gone over my head;",
+                "> Like a heavy burden they weigh too much for me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> My wounds grow foul and fester",
+                "> Because of my foolishness."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I am bent over and greatly bowed down;",
+                "> I go in mourning all day long."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> For my sides are filled with burning,",
+                "> And there is no healthy spot in my flesh."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> I feel faint and badly crushed;",
+                "> I groan because of the agitation of my heart."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Lord, all my desire is before You;",
+                "> And my sighing is not hidden from You."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> My heart throbs, my strength fails me;",
+                "> And the light of my eyes, even that has gone from me."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> My loved ones and my friends stand aloof from my plague,",
+                "> And my kinsmen stand far away."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> Those who seek my life set traps for me;",
+                "> And those who seek to harm me talk of destruction,",
+                "> And plot deception all day long."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> But I, like a person who is deaf, do not hear;",
+                "> And I am like a person who cannot speak, who does not open his mouth."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Yes, I am like a person who does not hear,",
+                "> And in whose mouth are no arguments."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> For I wait for You, Lord;",
+                "> You will answer, Lord my God."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> For I said, “May they not rejoice over me,",
+                "> Who, when my foot slips, would exalt themselves over me.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> For I am ready to fall,",
+                "> And my sorrow is continually before me."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> For I admit my guilt;",
+                "> I am full of anxiety because of my sin."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> But my enemies are vigorous and strong,",
+                "> And those who wrongfully hate me are many."
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "> And those who repay evil for good,",
+                "> They become my adversaries, because I pursue what is good."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> Do not abandon me, Lord;",
+                "> My God, do not be far from me!"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Hurry to help me,",
+                "> Lord, my salvation!"
+            ]
         }
     ]
 }

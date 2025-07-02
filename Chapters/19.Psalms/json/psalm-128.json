@@ -1,32 +1,55 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 128,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Blessed is everyone who fears the Lord,",
+                "> Who walks in His ways."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> You will eat the fruit of the labour of your hands;",
+                "> You will be happy, and it will go well for you."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Your wife will be like a fruitful vine",
+                "> Within your house,",
+                "> Your children like olive plants",
+                "> Around your table."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Behold, for so shall a man",
+                "> Who fears the Lord be blessed."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The Lord bless you from Zion,",
+                "> And may you see the prosperity of Jerusalem all the days of your life."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Indeed, may you see your children’s children.",
+                "> Peace be upon Israel!"
+            ]
         }
     ]
 }

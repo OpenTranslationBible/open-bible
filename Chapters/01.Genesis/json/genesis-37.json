@@ -1,50 +1,72 @@
 {
-  "book": "Genesis",
-  "chapter": 37,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Jacob lived in the land where his father had stayed, the land of Canaan."
-    },
-    {
-      "verse": 2,
-      "text": "This is the account of Jacob\u2019s family line. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and Zilpah, his father\u2019s wives, and he brought their father a bad report about them."
-    },
-    {
-      "verse": 3,
-      "text": "Now Israel loved Joseph more than any of his other sons, because he had been born to him in his old age; and he made an ornate robe for him."
-    },
-    {
-      "verse": 4,
-      "text": "When his brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him."
-    },
-    {
-      "verse": 5,
-      "text": "Joseph had a dream, and when he told it to his brothers, they hated him all the more."
-    },
-    {
-      "verse": 6,
-      "text": "He said to them, \u201cListen to this dream I had:"
-    },
-    {
-      "verse": 7,
-      "text": "We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves gathered around mine and bowed down to it.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "His brothers said to him, \u201cDo you intend to reign over us? Will you actually rule us?\u201d And they hated him all the more because of his dream and what he had said."
-    },
-    {
-      "verse": 9,
-      "text": "Then he had another dream, and he told it to his brothers. \u201cListen,\u201d he said, \u201cI had another dream, and this time the sun and moon and eleven stars were bowing down to me.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "When he told his father as well as his brothers, his father rebuked him and said, \u201cWhat is this dream you had? Will your mother and I and your brothers actually come and bow down to the ground before you?\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "His brothers were jealous of him, but his father kept the matter in mind."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 37,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Jacob lived in the land where his father had stayed, the land of Canaan."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "This is the account of Jacob’s family line. Joseph, a young man of seventeen, was tending the flocks with his brothers, the sons of Bilhah and Zilpah, his father’s wives, and he brought their father a bad report about them."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Now Israel loved Joseph more than any of his other sons, because he had been born to him in his old age; and he made an ornate robe for him."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "When his brothers saw that their father loved him more than any of them, they hated him and could not speak a kind word to him."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Joseph had a dream, and when he told it to his brothers, they hated him all the more."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "He said to them, “Listen to this dream I had:"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "We were binding sheaves of grain out in the field when suddenly my sheaf rose and stood upright, while your sheaves gathered around mine and bowed down to it.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "His brothers said to him, “Do you intend to reign over us? Will you actually rule us?” And they hated him all the more because of his dream and what he had said."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then he had another dream, and he told it to his brothers. “Listen,” he said, “I had another dream, and this time the sun and moon and eleven stars were bowing down to me.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "When he told his father as well as his brothers, his father rebuked him and said, “What is this dream you had? Will your mother and I and your brothers actually come and bow down to the ground before you?”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "His brothers were jealous of him, but his father kept the matter in mind."
+            ]
+        }
+    ]
 }

@@ -1,23 +1,41 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 82,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> God takes His stand in His own congregation;",
+                "> He judges in the midst of the gods."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> How long will you judge unjustly",
+                "> And show partiality to the wicked?"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Vindicate the weak and fatherless;",
+                "> Do justice to the afflicted and destitute."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Rescue the weak and needy;",
+                "> Save them from the hand of the wicked."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -25,22 +43,41 @@
         {
             "verse": 5,
             "text": [
+                "> They do not know nor do they understand;",
+                "> They walk about in darkness;",
+                "> All the foundations of the earth are shaken."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I said, “You are gods,",
+                "> And all of you are sons of the Most High."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> Nevertheless you will die like men,",
+                "> And fall like one of the princes.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Arise, God, judge the earth!",
+                "> For You possess all the nations."
+            ]
         }
     ]
 }

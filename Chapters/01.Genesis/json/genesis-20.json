@@ -1,78 +1,114 @@
 {
-  "book": "Genesis",
-  "chapter": 20,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now Abraham moved on from there into the region of the Negev and lived between Kadesh and Shur. For a time he stayed in Gerar."
-    },
-    {
-      "verse": 2,
-      "text": "There Abraham said of his wife Sarah, \u201cShe is my sister.\u201d So Abimelek king of Gerar sent for Sarah and took her."
-    },
-    {
-      "verse": 3,
-      "text": "But God came to Abimelek in a dream one night and said to him, \u201cYou are as good as dead because of the woman you have taken; she is a married woman.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "Now Abimelek had not gone near her, so he said, \u201cLord, will You destroy an innocent nation?"
-    },
-    {
-      "verse": 5,
-      "text": "Did he not say to me, \u2018She is my sister,\u2019 and didn\u2019t she also say, \u2018He is my brother\u2019? I have done this with a clear conscience and clean hands.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "Then God said to him in the dream, \u201cYes, I know you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her."
-    },
-    {
-      "verse": 7,
-      "text": "Now return the man\u2019s wife, for he is a prophet, and he will pray for you and you will live. But if you do not return her, be assured that you and all who belong to you will surely die.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "Early the next morning Abimelek summoned all his officials, and when he told them all that had happened, they were very afraid."
-    },
-    {
-      "verse": 9,
-      "text": "Then Abimelek called Abraham in and said, \u201cWhat have you done to us? How have I wronged you that you have brought such guilt upon me and my kingdom?"
-    },
-    {
-      "verse": 10,
-      "text": "Abimelek asked Abraham, \u201cWhat was your reason for doing this?\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "Abraham replied, \u201cI said to myself, \u2018There is surely no fear of God in this place, and they will kill me because of my wife.\u2019"
-    },
-    {
-      "verse": 12,
-      "text": "Besides, she really is my sister, the daughter of my father though not of my mother; and she became my wife."
-    },
-    {
-      "verse": 13,
-      "text": "And when God had me wander from my father\u2019s household, I said to her, \u2018Show your loyalty to me wherever we go: say of me, \u201cHe is my brother.\u201d\u2019\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "Then Abimelek brought sheep and cattle and male and female servants and gave them to Abraham, and he returned Sarah to him."
-    },
-    {
-      "verse": 15,
-      "text": "And Abimelek said, \u201cMy land is before you; live wherever you like.\u201d"
-    },
-    {
-      "verse": 16,
-      "text": "To Sarah he said, \u201cI am giving your brother a thousand shekels of silver. This is to cover the offense against you before all who are with you; you are completely vindicated.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "Then Abraham prayed to God, and God healed Abimelek, his wife and his female slaves so they could have children again,"
-    },
-    {
-      "verse": 18,
-      "text": "for the Lord had kept all the women in Abimelek\u2019s household from conceiving because of Abraham\u2019s wife Sarah."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now Abraham moved on from there into the region of the Negev and lived between Kadesh and Shur. For a time he stayed in Gerar."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "There Abraham said of his wife Sarah, “She is my sister.” So Abimelek king of Gerar sent for Sarah and took her."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "But God came to Abimelek in a dream one night and said to him, “You are as good as dead because of the woman you have taken; she is a married woman.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Now Abimelek had not gone near her, so he said, “Lord, will You destroy an innocent nation?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Did he not say to me, ‘She is my sister,’ and didn’t she also say, ‘He is my brother’? I have done this with a clear conscience and clean hands.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then God said to him in the dream, “Yes, I know you did this with a clear conscience, and so I have kept you from sinning against Me. That is why I did not let you touch her."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Now return the man’s wife, for he is a prophet, and he will pray for you and you will live. But if you do not return her, be assured that you and all who belong to you will surely die.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Early the next morning Abimelek summoned all his officials, and when he told them all that had happened, they were very afraid."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then Abimelek called Abraham in and said, “What have you done to us? How have I wronged you that you have brought such guilt upon me and my kingdom?"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Abimelek asked Abraham, “What was your reason for doing this?”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Abraham replied, “I said to myself, ‘There is surely no fear of God in this place, and they will kill me because of my wife.’"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Besides, she really is my sister, the daughter of my father though not of my mother; and she became my wife."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "And when God had me wander from my father’s household, I said to her, ‘Show your loyalty to me wherever we go: say of me, “He is my brother.”’”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Then Abimelek brought sheep and cattle and male and female servants and gave them to Abraham, and he returned Sarah to him."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "And Abimelek said, “My land is before you; live wherever you like.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "To Sarah he said, “I am giving your brother a thousand shekels of silver. This is to cover the offense against you before all who are with you; you are completely vindicated.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Then Abraham prayed to God, and God healed Abimelek, his wife and his female slaves so they could have children again,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "for the Lord had kept all the women in Abimelek’s household from conceiving because of Abraham’s wife Sarah."
+            ]
+        }
+    ]
 }

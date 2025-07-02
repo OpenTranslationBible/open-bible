@@ -1,90 +1,132 @@
 {
-  "book": "Genesis",
-  "chapter": 15,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "After these events, the word of the Lord came to Abram in a vision: \u201cDo not be afraid, Abram. I am your shield; your reward will be very great.\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "But Abram said, \u201cLord God, what can You give me, since I remain childless and the heir of my household is Eliezer of Damascus?\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "And Abram said, \u201cLook, You have given me no offspring, so a servant in my house will be my heir.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "Then the word of the Lord came to him: \u201cThis man will not be your heir, but one who comes from your own body will be your heir.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "God took him outside and said, \u201cLook toward the heavens and count the stars\u2014if you are able to count them.\u201d Then He said, \u201cSo shall your offspring be.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "And Abram believed the Lord, and it was credited to him as righteousness."
-    },
-    {
-      "verse": 7,
-      "text": "He also said to him, \u201cI am the Lord who brought you out of Ur of the Chaldeans to give you this land to possess.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "But Abram said, \u201cLord God, how can I know that I will possess it?\u201d"
-    },
-    {
-      "verse": 9,
-      "text": "He replied, \u201cBring Me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "So Abram brought all of these to Him, split them in two, and laid each half opposite the other, but he did not cut the birds."
-    },
-    {
-      "verse": 11,
-      "text": "Birds of prey came down on the carcasses, but Abram drove them away."
-    },
-    {
-      "verse": 12,
-      "text": "As the sun was going down, Abram fell into a deep sleep, and a terrifying darkness came over him."
-    },
-    {
-      "verse": 13,
-      "text": "Then the Lord said to Abram, \u201cKnow this for certain: your descendants will be strangers in a land not their own, where they will be enslaved and oppressed for four hundred years."
-    },
-    {
-      "verse": 14,
-      "text": "But I will judge the nation they serve, and afterward they will come out with great possessions."
-    },
-    {
-      "verse": 15,
-      "text": "You, however, will go to your ancestors in peace and be buried at a good old age."
-    },
-    {
-      "verse": 16,
-      "text": "In the fourth generation, they will return here, for the sin of the Amorites has not yet reached its full measure.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "When the sun had set and it was dark, a smoking firepot and a blazing torch appeared and passed between the divided pieces."
-    },
-    {
-      "verse": 18,
-      "text": "On that day the Lord made a covenant with Abram and said, \u201cTo your descendants I give this land, from the River of Egypt to the great river, the Euphrates\u2014"
-    },
-    {
-      "verse": 19,
-      "text": "the land of the Kenites, Kenizzites, Kadmonites,"
-    },
-    {
-      "verse": 20,
-      "text": "Hittites, Perizzites, Rephaites,"
-    },
-    {
-      "verse": 21,
-      "text": "Amorites, Canaanites, Girgashites, and Jebusites.\u201d"
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 15,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "After these events, the word of the Lord came to Abram in a vision: “Do not be afraid, Abram. I am your shield; your reward will be very great.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "But Abram said, “Lord God, what can You give me, since I remain childless and the heir of my household is Eliezer of Damascus?”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "And Abram said, “Look, You have given me no offspring, so a servant in my house will be my heir.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Then the word of the Lord came to him: “This man will not be your heir, but one who comes from your own body will be your heir.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "God took him outside and said, “Look toward the heavens and count the stars—if you are able to count them.” Then He said, “So shall your offspring be.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "And Abram believed the Lord, and it was credited to him as righteousness."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "He also said to him, “I am the Lord who brought you out of Ur of the Chaldeans to give you this land to possess.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "But Abram said, “Lord God, how can I know that I will possess it?”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "He replied, “Bring Me a three-year-old heifer, a three-year-old female goat, a three-year-old ram, a turtledove, and a young pigeon.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "So Abram brought all of these to Him, split them in two, and laid each half opposite the other, but he did not cut the birds."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Birds of prey came down on the carcasses, but Abram drove them away."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "As the sun was going down, Abram fell into a deep sleep, and a terrifying darkness came over him."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Then the Lord said to Abram, “Know this for certain: your descendants will be strangers in a land not their own, where they will be enslaved and oppressed for four hundred years."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But I will judge the nation they serve, and afterward they will come out with great possessions."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "You, however, will go to your ancestors in peace and be buried at a good old age."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "In the fourth generation, they will return here, for the sin of the Amorites has not yet reached its full measure.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "When the sun had set and it was dark, a smoking firepot and a blazing torch appeared and passed between the divided pieces."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "On that day the Lord made a covenant with Abram and said, “To your descendants I give this land, from the River of Egypt to the great river, the Euphrates—"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "the land of the Kenites, Kenizzites, Kadmonites,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Hittites, Perizzites, Rephaites,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Amorites, Canaanites, Girgashites, and Jebusites.”"
+            ]
+        }
+    ]
 }

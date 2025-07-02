@@ -1,122 +1,180 @@
 {
-  "book": "Genesis",
-  "chapter": 9,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Then God blessed Noah and his sons and said to them, \u201cBe fruitful and multiply, and fill the earth."
-    },
-    {
-      "verse": 2,
-      "text": "The fear and dread of you will fall on all the beasts of the earth, and on every bird, every creature that moves along the ground, and all the fish of the sea\u2014they are given into your hands."
-    },
-    {
-      "verse": 3,
-      "text": "Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything."
-    },
-    {
-      "verse": 4,
-      "text": "But you must not eat meat that still has its lifeblood in it."
-    },
-    {
-      "verse": 5,
-      "text": "And for your lifeblood I will surely demand an accounting. I will demand it from every animal and from each human being too. I will demand an accounting for the life of another person."
-    },
-    {
-      "verse": 6,
-      "text": "Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind."
-    },
-    {
-      "verse": 7,
-      "text": "As for you, be fruitful and multiply; spread out over the earth and fill it.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "Then God said to Noah and to his sons with him:"
-    },
-    {
-      "verse": 9,
-      "text": "\u201cI now establish My covenant with you and with your descendants after you"
-    },
-    {
-      "verse": 10,
-      "text": "and with every living creature that is with you\u2014the birds, the livestock, and all the wild animals, all those that came out of the ark with you\u2014every living creature on earth."
-    },
-    {
-      "verse": 11,
-      "text": "I establish My covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.\u201d"
-    },
-    {
-      "verse": 12,
-      "text": "And God said, \u201cThis is the sign of the covenant I am making between Me and you and every living creature with you, a covenant for all generations to come:"
-    },
-    {
-      "verse": 13,
-      "text": "I have set My rainbow in the clouds, and it will be the sign of the covenant between Me and the earth."
-    },
-    {
-      "verse": 14,
-      "text": "Whenever I bring clouds over the earth and the rainbow appears in the sky,"
-    },
-    {
-      "verse": 15,
-      "text": "I will remember My covenant between Me and you and all living creatures of every kind. Never again will the waters become a flood to destroy all life."
-    },
-    {
-      "verse": 16,
-      "text": "Whenever the rainbow appears in the sky, I will see it and remember the everlasting covenant between God and all living creatures of every kind on the earth.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "So God said to Noah, \u201cThis is the sign of the covenant I have established between Me and all life on the earth.\u201d"
-    },
-    {
-      "verse": 18,
-      "text": "The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan."
-    },
-    {
-      "verse": 19,
-      "text": "These were the three sons of Noah, and from them the whole earth was populated."
-    },
-    {
-      "verse": 20,
-      "text": "Noah, a man of the soil, began to plant a vineyard."
-    },
-    {
-      "verse": 21,
-      "text": "When he drank some of its wine, he became drunk and lay uncovered inside his tent."
-    },
-    {
-      "verse": 22,
-      "text": "Ham, the father of Canaan, saw his father\u2019s nakedness and told his two brothers outside."
-    },
-    {
-      "verse": 23,
-      "text": "But Shem and Japheth took a garment, walked in backward, and covered their father\u2019s nakedness. Their faces were turned away so they would not see him."
-    },
-    {
-      "verse": 24,
-      "text": "When Noah awoke and found out what his youngest son had done to him,"
-    },
-    {
-      "verse": 25,
-      "text": "he said, \u201cCursed be Canaan! The lowest of slaves will he be to his brothers.\u201d"
-    },
-    {
-      "verse": 26,
-      "text": "He also said, \u201cBlessed be the Lord, the God of Shem! May Canaan be the servant of Shem."
-    },
-    {
-      "verse": 27,
-      "text": "May God extend the territory of Japheth! May he dwell in the tents of Shem, and may Canaan be his servant.\u201d"
-    },
-    {
-      "verse": 28,
-      "text": "Noah lived 350 years after the flood."
-    },
-    {
-      "verse": 29,
-      "text": "Noah lived a total of 950 years, and then he died."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 9,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Then God blessed Noah and his sons and said to them, “Be fruitful and multiply, and fill the earth."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "The fear and dread of you will fall on all the beasts of the earth, and on every bird, every creature that moves along the ground, and all the fish of the sea—they are given into your hands."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Everything that lives and moves about will be food for you. Just as I gave you the green plants, I now give you everything."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But you must not eat meat that still has its lifeblood in it."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "And for your lifeblood I will surely demand an accounting. I will demand it from every animal and from each human being too. I will demand an accounting for the life of another person."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Whoever sheds human blood, by humans shall their blood be shed; for in the image of God has God made mankind."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "As for you, be fruitful and multiply; spread out over the earth and fill it.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Then God said to Noah and to his sons with him:"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "“I now establish My covenant with you and with your descendants after you"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "and with every living creature that is with you—the birds, the livestock, and all the wild animals, all those that came out of the ark with you—every living creature on earth."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "I establish My covenant with you: Never again will all life be destroyed by the waters of a flood; never again will there be a flood to destroy the earth.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "And God said, “This is the sign of the covenant I am making between Me and you and every living creature with you, a covenant for all generations to come:"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "I have set My rainbow in the clouds, and it will be the sign of the covenant between Me and the earth."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Whenever I bring clouds over the earth and the rainbow appears in the sky,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "I will remember My covenant between Me and you and all living creatures of every kind. Never again will the waters become a flood to destroy all life."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Whenever the rainbow appears in the sky, I will see it and remember the everlasting covenant between God and all living creatures of every kind on the earth.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "So God said to Noah, “This is the sign of the covenant I have established between Me and all life on the earth.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "The sons of Noah who came out of the ark were Shem, Ham, and Japheth. Ham was the father of Canaan."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "These were the three sons of Noah, and from them the whole earth was populated."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Noah, a man of the soil, began to plant a vineyard."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "When he drank some of its wine, he became drunk and lay uncovered inside his tent."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ham, the father of Canaan, saw his father’s nakedness and told his two brothers outside."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "But Shem and Japheth took a garment, walked in backward, and covered their father’s nakedness. Their faces were turned away so they would not see him."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "When Noah awoke and found out what his youngest son had done to him,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "he said, “Cursed be Canaan! The lowest of slaves will he be to his brothers.”"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "He also said, “Blessed be the Lord, the God of Shem! May Canaan be the servant of Shem."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "May God extend the territory of Japheth! May he dwell in the tents of Shem, and may Canaan be his servant.”"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Noah lived 350 years after the flood."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Noah lived a total of 950 years, and then he died."
+            ]
+        }
+    ]
 }

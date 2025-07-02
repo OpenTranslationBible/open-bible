@@ -4,27 +4,44 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Then Bildad the Shuhite responded,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “Dominion and awe belong to Him",
+                "> Who makes peace in His heights."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Is there any number to His troops?",
+                "> And upon whom does His light not rise?"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> How then can mankind be righteous with God?",
+                "> Or how can anyone who is born of woman be pure?"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> If even the moon has no brightness",
+                "> And the stars are not pure in His sight,"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> How much less man, that maggot,",
+                "> And a son of man, that worm!”"
+            ]
         }
     ]
 }

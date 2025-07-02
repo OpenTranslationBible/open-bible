@@ -1,36 +1,68 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 53,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> The fool has said in his heart, “There is no God.”",
+                "> They are corrupt, and have committed abominable injustice;",
+                "> There is no one who does good."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> God has looked down from heaven upon the sons of mankind",
+                "> To see if there is anyone who understands,",
+                "> Who seeks after God."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Every one of them has turned aside; together they have become corrupt;",
+                "> There is no one who does good, not even one."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Have the workers of injustice no knowledge,",
+                "> Who eat up My people like they ate bread,",
+                "> And have not called upon God?"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> They were in great fear there, where no fear had been;",
+                "> For God scattered the bones of him who encamped against you;",
+                "> You put them to shame, because God had rejected them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Oh, that the salvation of Israel would come out of Zion!",
+                "> When God restores the fortunes of His people,",
+                "> Jacob will rejoice, Israel will be glad."
+            ]
         }
     ]
 }

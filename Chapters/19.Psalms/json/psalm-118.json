@@ -1,111 +1,202 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 118,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Give thanks to the Lord, for He is good;",
+                "> For His mercy is everlasting."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Let Israel say,",
+                "> “His mercy is everlasting.”"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Let the house of Aaron say,",
+                "> “His mercy is everlasting.”"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Let those who fear the Lord say,",
+                "> “His mercy is everlasting.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> From my distress I called upon the Lord;",
+                "> The Lord answered me and put me in an open space."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> The Lord is for me; I will not fear;",
+                "> What can man do to me?"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> The Lord is for me among those who help me;",
+                "> Therefore I will look with satisfaction on those who hate me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> It is better to take refuge in the Lord",
+                "> Than to trust in mankind."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> It is better to take refuge in the Lord",
+                "> Than to trust in noblemen."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> All nations surrounded me;",
+                "> In the name of the Lord I will certainly fend them off."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> They surrounded me, yes, they surrounded me;",
+                "> In the name of the Lord I will certainly fend them off."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> They surrounded me like bees;",
+                "> They were extinguished like a fire of thorns;",
+                "> In the name of the Lord I will certainly fend them off."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> You pushed me violently so that I was falling,",
+                "> But the Lord helped me."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> The Lord is my strength and song,",
+                "> And He has become my salvation."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> The sound of joyful shouting and salvation is in the tents of the righteous;",
+                "> The right hand of the Lord performs valiantly."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> The right hand of the Lord is exalted;",
+                "> The right hand of the Lord performs valiantly."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> I will not die, but live,",
+                "> And tell of the works of the Lord."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> The Lord has disciplined me severely,",
+                "> But He has not turned me over to death."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Open the gates of righteousness to me;",
+                "> I shall enter through them, I shall give thanks to the Lord."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> This is the gate of the Lord;",
+                "> The righteous will enter through it."
+            ]
         },
         {
             "verse": 21,
+            "text": [
+                "> I will give thanks to You, for You have answered me,",
+                "> And You have become my salvation."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> A stone which the builders rejected",
+                "> Has become the chief cornerstone."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> The Lord has done this;",
+                "> It is marvellous in our eyes."
+            ]
         },
         {
             "verse": 24,
+            "text": [
+                "> This is the day which the Lord has made;",
+                "> Let us rejoice and be glad in it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -113,15 +204,30 @@
         {
             "verse": 25,
             "text": [
+                "> Please, O Lord, do save us;",
+                "> Please, O Lord, do send prosperity!"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> Blessed is the one who comes in the name of the Lord;",
+                "> We have blessed you from the house of the Lord."
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "> The Lord is God, and He has given us light;",
+                "> Bind the festival sacrifice to the horns of the altar with cords."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -129,12 +235,21 @@
         {
             "verse": 28,
             "text": [
+                "> You are my God, and I give thanks to You;",
+                "> You are my God, I exalt You."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> Give thanks to the Lord, for He is good;",
+                "> For His mercy is everlasting."
+            ]
         }
     ]
 }

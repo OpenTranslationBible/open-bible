@@ -1,24 +1,42 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 123,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> To You I have raised my eyes,",
+                "> You who are enthroned in the heavens!"
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Behold, as the eyes of servants look to the hand of their master,",
+                "> As the eyes of a female servant to the hand of her mistress,",
+                "> So our eyes look to the Lord our God,",
+                "> Until He is gracious to us."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Be gracious to us, Lord, be gracious to us,",
+                "> For we have had much more than enough of contempt."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Our soul has had much more than enough",
+                "> Of the scoffing of those who are at ease,",
+                "> And of the contempt of the proud."
+            ]
         }
     ]
 }

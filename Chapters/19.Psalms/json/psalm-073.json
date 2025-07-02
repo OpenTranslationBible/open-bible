@@ -1,53 +1,95 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 73,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> God certainly is good to Israel,",
+                "> To those who are pure in heart!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> But as for me, my feet came close to stumbling,",
+                "> My steps had almost slipped."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> For I was envious of the arrogant",
+                "> As I saw the prosperity of the wicked."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For there are no pains in their death,",
+                "> And their belly is fat."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> They are not in trouble like other people,",
+                "> Nor are they tormented together with the rest of mankind."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Therefore arrogance is their necklace;",
+                "> The garment of violence covers them."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Their eye bulges from fatness;",
+                "> The imaginations of their heart overflow."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> They mock and wickedly speak of oppression;",
+                "> They speak from on high."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> They have set their mouth against the heavens,",
+                "> And their tongue parades through the earth."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Therefore his people return here,",
+                "> And abundant waters are drunk by them."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> They say, “How does God know?",
+                "> And is there knowledge with the Most High?”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -55,82 +97,152 @@
         {
             "verse": 12,
             "text": [
+                "> Behold, these are the wicked;",
+                "> And always at ease, they have increased in wealth."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Surely in vain I have kept my heart pure",
+                "> And washed my hands in innocence;"
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> For I have been stricken all day long,",
+                "> And punished every morning."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> If I had said, “I will speak this way,”",
+                "> Behold, I would have betrayed the generation of Your children."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> When I thought of understanding this,",
+                "> It was troublesome in my sight"
+            ]
         },
         {
             "verse": 17,
+            "text": [
+                "> Until I entered the sanctuary of God;",
+                "> Then I perceived their end."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> You indeed put them on slippery ground;",
+                "> You dropped them into ruin."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> How they are destroyed in a moment!",
+                "> They are utterly swept away by sudden terrors!"
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "> Like a dream when one awakes, Lord,",
+                "> When stirred, You will despise their image."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> When my heart was embittered",
+                "> And I was pierced within,"
+            ]
         },
         {
             "verse": 22,
+            "text": [
+                "> Then I was stupid and ignorant;",
+                "> I was like an animal before You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Nevertheless I am continually with You;",
+                "> You have taken hold of my right hand."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> You will guide me with Your plan,",
+                "> And afterward receive me to glory."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> Whom do I have in heaven but You?",
+                "> And with You, I desire nothing on earth."
+            ]
         },
         {
             "verse": 26,
+            "text": [
+                "> My flesh and my heart may fail,",
+                "> But God is the strength of my heart and my portion forever."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> For, behold, those who are far from You will perish;",
+                "> You have destroyed all those who are unfaithful to You."
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> But as for me, the nearness of God is good for me;",
+                "> I have made the Lord God my refuge,",
+                "> So that I may tell of all Your works."
+            ]
         }
     ]
 }

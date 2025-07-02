@@ -1,74 +1,140 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 144,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Blessed be the Lord, my rock,",
+                "> Who trains my hands for war,",
+                "> And my fingers for battle;"
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> My faithfulness and my fortress,",
+                "> My stronghold and my saviour,",
+                "> My shield and He in whom I take refuge,",
+                "> Who subdues my people under me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Lord, what is man, that You look after him?",
+                "> Or a son of man, that You think of him?"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Man is like the breath;",
+                "> His days are like a passing shadow."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Bend down Your heavens, Lord, and come down;",
+                "> Touch the mountains, that they may smoke."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Flash forth lightning and scatter them;",
+                "> Send out Your arrows and confuse them."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Reach out with Your hand from on high;",
+                "> Rescue me and save me from great waters,",
+                "> From the hand of foreigners"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Whose mouths speak deceit,",
+                "> And whose right hand is a right hand of falsehood."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> God, I will sing a new song to You;",
+                "> On a harp of ten strings I will sing praises to You,"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Who gives salvation to kings,",
+                "> Who rescues His servant David from the evil sword."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> Rescue me and save me from the hand of foreigners,",
+                "> Whose mouths speak deceit,",
+                "> And whose right hand is a right hand of falsehood."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> May our sons in their youth be like growing plants,",
+                "> And our daughters like corner pillars",
+                "> Fashioned for a palace."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> May our granaries be full,",
+                "> Providing every kind of produce,",
+                "> May our flocks deliver thousands",
+                "> And ten thousands in our fields;"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> May our cattle be bred",
+                "> Without mishap and without loss,",
+                "> May there be no outcry in our streets!"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> Blessed are the people who are so situated;",
+                "> Blessed are the people whose God is the Lord!"
+            ]
         }
     ]
 }

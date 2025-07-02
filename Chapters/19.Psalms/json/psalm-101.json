@@ -1,13 +1,22 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 101,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I will sing of mercy and justice;",
+                "> To You, Lord, I will sing praises."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> I will carefully attend to the blameless way.",
+                "> When will You come to me?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -15,11 +24,22 @@
         {
             "verse": 3,
             "text": [
+                "> I will set no worthless thing before my eyes;"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
+            "text": [
+                "> A perverse heart shall leave me;",
+                "> I will know no evil."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -27,11 +47,23 @@
         {
             "verse": 5,
             "text": [
+                "> Whoever secretly slanders his neighbour, I will put an end to him;",
+                "> The one who has a haughty look and an arrogant heart, I will not endure."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
+            "text": [
+                "> My eyes will be upon the faithful of the land, that they may dwell with me;",
+                "> One who walks in a blameless way is the one who will serve me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -39,12 +71,21 @@
         {
             "verse": 7,
             "text": [
+                "> One who practices deceit shall not dwell within my house;",
+                "> One who speaks lies shall not maintain his position before me."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Every morning I will destroy all the wicked of the land,",
+                "> So as to eliminate from the city of the Lord all those who do injustice."
+            ]
         }
     ]
 }

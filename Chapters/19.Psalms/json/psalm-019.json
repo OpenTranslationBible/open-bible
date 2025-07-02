@@ -1,68 +1,124 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 19,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> The heavens tell of the glory of God;",
+                "> And their expanse declares the work of His hands."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Day to day pours forth speech,",
+                "> And night to night reveals knowledge."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> There is no speech, nor are there words;",
+                "> Their voice is not heard."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Their line has gone out into all the earth,",
+                "> And their words to the end of the world.",
+                "> In them He has placed a tent for the sun,"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Which is like a groom coming out of his chamber;",
+                "> It rejoices like a strong person to run his course."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> Its rising is from one end of the heavens,",
+                "> And its circuit to the other end of them;",
+                "> And there is nothing hidden from its heat."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> The Law of the Lord is perfect, restoring the soul;",
+                "> The testimony of the Lord is sure, making wise the simple."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The precepts of the Lord are right, rejoicing the heart;",
+                "> The commandment of the Lord is pure, enlightening the eyes."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> The fear of the Lord is clean, enduring forever;",
+                "> The judgments of the Lord are true; they are righteous altogether."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> They are more desirable than gold, yes, than much pure gold;",
+                "> Sweeter also than honey and drippings of the honeycomb."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Moreover, Your servant is warned by them;",
+                "> In keeping them there is great reward."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Who can discern his errors?",
+                "> Acquit me of hidden faults."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> Also keep Your servant back from presumptuous sins;",
+                "> Let them not rule over me;",
+                "> Then I will be innocent,",
+                "> And I will be blameless of great wrongdoing."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> May the words of my mouth and the meditation of my heart",
+                "> Be acceptable in Your sight,",
+                "> Lord, my rock and my Redeemer."
+            ]
         }
     ]
 }

@@ -1,58 +1,109 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 143,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Hear my prayer, Lord,",
+                "> Listen to my pleadings!",
+                "> Answer me in Your faithfulness, in Your righteousness!"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> And do not enter into judgment with Your servant,",
+                "> For no person living is righteous in Your sight."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> For the enemy has persecuted my soul;",
+                "> He has crushed my life to the ground;",
+                "> He has made me dwell in dark places, like those who have long been dead."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Therefore my spirit feels weak within me;",
+                "> My heart is appalled within me."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> I remember the days of old;",
+                "> I meditate on all Your doings;",
+                "> I reflect on the work of Your hands."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> I spread out my hands to You;",
+                "> My soul longs for You, like a weary land."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Answer me quickly, Lord,",
+                "> My spirit fails;",
+                "> Do not hide Your face from me,",
+                "> Or I will be the same as those who go down to the pit."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Let me hear Your mercy in the morning,",
+                "> For I trust in You;",
+                "> Teach me the way in which I should walk,",
+                "> For to You I lift up my soul."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Save me, Lord, from my enemies;",
+                "> I take refuge in You."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> Teach me to do Your will,",
+                "> For You are my God;",
+                "> Let Your good Spirit lead me on level ground."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> For the sake of Your name, Lord, revive me.",
+                "> In Your righteousness bring my soul out of trouble."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> And in Your mercy, eliminate my enemies,",
+                "> And destroy all those who afflict my soul,",
+                "> For I am Your servant."
+            ]
         }
     ]
 }

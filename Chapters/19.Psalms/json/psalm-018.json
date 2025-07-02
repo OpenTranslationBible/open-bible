@@ -1,224 +1,413 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 18,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I love You, Lord, my strength."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> The Lord is my rock and my fortress and my Saviour,",
+                "> My God, my rock in whom I take refuge;",
+                "> My shield and the horn of my salvation, my stronghold."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> I call upon the Lord, who is worthy to be praised,",
+                "> And I am saved from my enemies."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> The ropes of death encompassed me,",
+                "> And the torrents of destruction terrified me."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> The ropes of Sheol surrounded me;",
+                "> The snares of death confronted me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> In my distress I called upon the Lord,",
+                "> And cried to my God for help;",
+                "> He heard my voice from His temple,",
+                "> And my cry for help before Him came into His ears."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Then the earth shook and quaked;",
+                "> And the foundations of the mountains were trembling",
+                "> And were shaken, because He was angry."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Smoke went up out of His nostrils,",
+                "> And fire from His mouth was devouring;",
+                "> Coals burned from it."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He also bowed the heavens down low, and came down",
+                "> With thick darkness under His feet."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He rode on a cherub and flew;",
+                "> And He sped on the wings of the wind."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> He made darkness His hiding place, His canopy around Him,",
+                "> Darkness of waters, thick clouds of the skies."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> From the brightness before Him passed His thick clouds,",
+                "> Hailstones and coals of fire."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> The Lord also thundered in the heavens,",
+                "> And the Most High raised His voice,",
+                "> Hailstones and coals of fire."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> He sent out His arrows and scattered them,",
+                "> And lightning flashes in abundance, and routed them."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> Then the channels of water appeared,",
+                "> And the foundations of the world were exposed",
+                "> By Your rebuke, Lord,",
+                "> At the blast of the breath of Your nostrils."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> He sent from on high, He took me;",
+                "> He drew me out of many waters."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> He saved me from my strong enemy,",
+                "> And from those who hated me, for they were too mighty for me."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> They confronted me on the day of my disaster,",
+                "> But the Lord was my support."
+            ]
         },
         {
             "verse": 19,
+            "text": [
+                "> He also brought me out into an open place;",
+                "> He rescued me, because He delighted in me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> The Lord has rewarded me according to my righteousness;",
+                "> According to the cleanness of my hands He has repaid me."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> For I have kept the ways of the Lord,",
+                "> And have not acted wickedly against my God."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> For all His judgments were before me,",
+                "> And I did not put away His statutes from me."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> I was also blameless with Him,",
+                "> And I kept myself from my wrongdoing."
+            ]
         },
         {
             "verse": 24,
+            "text": [
+                "> Therefore the Lord has repaid me according to my righteousness,",
+                "> According to the cleanness of my hands in His eyes."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> With the faithful You show Yourself faithful;",
+                "> With the blameless You prove Yourself blameless;"
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> With the pure You show Yourself pure,",
+                "> And with the crooked You show Yourself astute."
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> For You save an afflicted people,",
+                "> But You humiliate haughty eyes."
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> For You light my lamp;",
+                "> The Lord my God illumines my darkness."
+            ]
         },
         {
             "verse": 29,
+            "text": [
+                "> For by You I can run at a troop of warriors;",
+                "> And by my God I can leap over a wall."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> As for God, His way is blameless;",
+                "> The word of the Lord is refined;",
+                "> He is a shield to all who take refuge in Him."
+            ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> For who is God, except the Lord?",
+                "> And who is a rock, except our God,"
+            ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "> The God who encircles me with strength,",
+                "> And makes my way blameless?"
+            ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> He makes my feet like deer’s feet,",
+                "> And sets me up on my high places."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> He trains my hands for battle,",
+                "> So that my arms can bend a bow of bronze."
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> You have also given me the shield of Your salvation,",
+                "> And Your right hand upholds me,",
+                "> And Your gentleness makes me great."
+            ]
         },
         {
             "verse": 36,
+            "text": [
+                "> You enlarge my steps under me,",
+                "> And my feet have not slipped."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "> I pursued my enemies and overtook them,",
+                "> And I did not turn back until they were consumed."
+            ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "> I shattered them, so that they were not able to rise;",
+                "> They fell under my feet."
+            ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "> For You have encircled me with strength for battle;",
+                "> You have forced those who rose up against me to bow down under me."
+            ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "> You have also made my enemies turn their backs to me,",
+                "> And I destroyed those who hated me."
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> They cried for help, but there was no one to save,",
+                "> They cried to the Lord, but He did not answer them."
+            ]
         },
         {
             "verse": 42,
-            "text": []
+            "text": [
+                "> Then I beat them fine like the dust before the wind;",
+                "> I emptied them out like the mud of the streets."
+            ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "> You rescued me from the contentions of the people;",
+                "> You placed me as head of the nations;",
+                "> A people whom I have not known serve me."
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "> As soon as they hear, they obey me;",
+                "> Foreigners pretend to obey me."
+            ]
         },
         {
             "verse": 45,
+            "text": [
+                "> Foreigners lose heart,",
+                "> And come trembling out of their fortresses."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 46,
-            "text": []
+            "text": [
+                "> The Lord lives, and blessed be my rock;",
+                "> And exalted be the God of my salvation,"
+            ]
         },
         {
             "verse": 47,
-            "text": []
+            "text": [
+                "> The God who executes vengeance for me,",
+                "> And subdues peoples under me."
+            ]
         },
         {
             "verse": 48,
-            "text": []
+            "text": [
+                "> He rescues me from my enemies;",
+                "> You indeed lift me above those who rise up against me;",
+                "> You rescue me from a violent man."
+            ]
         },
         {
             "verse": 49,
+            "text": [
+                "> Therefore I will give thanks to You among the nations, Lord,",
+                "> And I will sing praises to Your name."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 50,
-            "text": []
+            "text": [
+                "> He gives great salvation to His king,",
+                "> And shows faithfulness to His anointed,",
+                "> To David and his descendants forever."
+            ]
         }
     ]
 }

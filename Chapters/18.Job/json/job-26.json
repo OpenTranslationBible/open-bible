@@ -4,63 +4,111 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Then Job responded,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “What a help you are to the weak!",
+                "> You have saved the arm without strength!"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> What advice you have given to one without wisdom!",
+                "> What helpful insight you have abundantly provided!"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> To whom have you uttered words?",
+                "> And whose spirit was expressed through you?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The departed spirits tremble",
+                "> Under the waters and their inhabitants."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Sheol is naked before Him,",
+                "> And Abaddon has no covering."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He stretches out the north over empty space,",
+                "> And hangs the earth on nothing."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> He wraps up the waters in His clouds,",
+                "> And the cloud does not burst under them."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He obscures the face of the full moon",
+                "> And spreads His cloud over it."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He has inscribed a circle on the surface of the waters",
+                "> At the boundary of light and darkness."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The pillars of heaven tremble",
+                "> And are amazed at His rebuke."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> With His power He quieted the sea,",
+                "> And by His understanding He shattered Rahab."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> By His breath the heavens are cleared;",
+                "> His hand has pierced the fleeing serpent."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Behold, these are only the fringes of His ways,",
+                "> And how faint a word we hear of Him!",
+                "> But His mighty thunder, who can understand?”"
+            ]
         }
     ]
 }

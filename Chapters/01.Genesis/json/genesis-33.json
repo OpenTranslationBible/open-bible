@@ -1,86 +1,126 @@
 {
-  "book": "Genesis",
-  "chapter": 33,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Jacob looked up and saw Esau coming with four hundred men. So he divided the children among Leah, Rachel, and the two female servants."
-    },
-    {
-      "verse": 2,
-      "text": "He put the female servants and their children in front, Leah and her children next, and Rachel and Joseph in the rear."
-    },
-    {
-      "verse": 3,
-      "text": "He himself went on ahead and bowed down to the ground seven times as he approached his brother."
-    },
-    {
-      "verse": 4,
-      "text": "But Esau ran to meet Jacob and embraced him; he threw his arms around his neck and kissed him. And they wept."
-    },
-    {
-      "verse": 5,
-      "text": "Then Esau looked up and saw the women and children. \u201cWho are these with you?\u201d he asked. Jacob answered, \u201cThey are the children God has graciously given your servant.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "Then the female servants and their children approached and bowed down."
-    },
-    {
-      "verse": 7,
-      "text": "Next, Leah and her children came and bowed down. Last of all came Joseph and Rachel, and they too bowed down."
-    },
-    {
-      "verse": 8,
-      "text": "Esau asked, \u201cWhat do you mean by all these droves I met?\u201d \u201cTo find favour in your eyes, my lord,\u201d Jacob said."
-    },
-    {
-      "verse": 9,
-      "text": "But Esau said, \u201cI already have plenty, my brother. Keep what you have for yourself.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "\u201cNo, please!\u201d said Jacob. \u201cIf I have found favour in your eyes, accept this gift from me. For to see your face is like seeing the face of God, now that you have received me favourably."
-    },
-    {
-      "verse": 11,
-      "text": "Please accept the present that was brought to you, for God has been gracious to me and I have all I need.\u201d And because Jacob insisted, Esau accepted it."
-    },
-    {
-      "verse": 12,
-      "text": "Then Esau said, \u201cLet us be on our way; I\u2019ll accompany you.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "But Jacob said to him, \u201cMy lord knows that the children are tender and that I must care for the ewes and cows that are nursing their young. If they are driven too hard, they will die."
-    },
-    {
-      "verse": 14,
-      "text": "So let my lord go on ahead of his servant, while I move along slowly at the pace of the flocks and the children until I come to my lord in Seir.\u201d"
-    },
-    {
-      "verse": 15,
-      "text": "Esau said, \u201cThen let me leave some of my men with you.\u201d \u201cBut why do that?\u201d Jacob asked. \u201cJust let me find favour in the eyes of my lord.\u201d"
-    },
-    {
-      "verse": 16,
-      "text": "So that day Esau started on his way back to Seir."
-    },
-    {
-      "verse": 17,
-      "text": "Jacob, however, went to Sukkoth, where he built a place for himself and made shelters for his livestock. That is why the place is called Sukkoth."
-    },
-    {
-      "verse": 18,
-      "text": "After Jacob came from Paddan Aram, he arrived safely at the city of Shechem in Canaan and camped within sight of the city."
-    },
-    {
-      "verse": 19,
-      "text": "For a hundred pieces of silver, he bought from the sons of Hamor, the father of Shechem, the plot of ground where he pitched his tent."
-    },
-    {
-      "verse": 20,
-      "text": "There he set up an altar and called it El Elohe Israel."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Jacob looked up and saw Esau coming with four hundred men. So he divided the children among Leah, Rachel, and the two female servants."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "He put the female servants and their children in front, Leah and her children next, and Rachel and Joseph in the rear."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He himself went on ahead and bowed down to the ground seven times as he approached his brother."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But Esau ran to meet Jacob and embraced him; he threw his arms around his neck and kissed him. And they wept."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then Esau looked up and saw the women and children. “Who are these with you?” he asked. Jacob answered, “They are the children God has graciously given your servant.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then the female servants and their children approached and bowed down."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Next, Leah and her children came and bowed down. Last of all came Joseph and Rachel, and they too bowed down."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Esau asked, “What do you mean by all these droves I met?” “To find favour in your eyes, my lord,” Jacob said."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "But Esau said, “I already have plenty, my brother. Keep what you have for yourself.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "“No, please!” said Jacob. “If I have found favour in your eyes, accept this gift from me. For to see your face is like seeing the face of God, now that you have received me favourably."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Please accept the present that was brought to you, for God has been gracious to me and I have all I need.” And because Jacob insisted, Esau accepted it."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Then Esau said, “Let us be on our way; I’ll accompany you.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "But Jacob said to him, “My lord knows that the children are tender and that I must care for the ewes and cows that are nursing their young. If they are driven too hard, they will die."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "So let my lord go on ahead of his servant, while I move along slowly at the pace of the flocks and the children until I come to my lord in Seir.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Esau said, “Then let me leave some of my men with you.” “But why do that?” Jacob asked. “Just let me find favour in the eyes of my lord.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "So that day Esau started on his way back to Seir."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Jacob, however, went to Sukkoth, where he built a place for himself and made shelters for his livestock. That is why the place is called Sukkoth."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "After Jacob came from Paddan Aram, he arrived safely at the city of Shechem in Canaan and camped within sight of the city."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "For a hundred pieces of silver, he bought from the sons of Hamor, the father of Shechem, the plot of ground where he pitched his tent."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "There he set up an altar and called it El Elohe Israel."
+            ]
+        }
+    ]
 }

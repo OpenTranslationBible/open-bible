@@ -1,108 +1,193 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 139,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, You have searched me and known me."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> You know when I sit down and when I get up;",
+                "> You understand my thought from far away."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> You scrutinise my path and my lying down,",
+                "> And are acquainted with all my ways."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Even before there is a word on my tongue,",
+                "> Behold, Lord, You know it all."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> You have encircled me behind and in front,",
+                "> And placed Your hand upon me."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> Such knowledge is too wonderful for me;",
+                "> It is too high, I cannot comprehend it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Where can I go from Your Spirit?",
+                "> Or where can I flee from Your presence?"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> If I ascend to heaven, You are there;",
+                "> If I make my bed in Sheol, behold, You are there."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> If I take up the wings of the dawn,",
+                "> And dwell in the remotest part of the sea,"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Even there Your hand will lead me,",
+                "> And Your right hand will take hold of me."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> If I say, “Surely darkness will overwhelm me,",
+                "> And the light around me will be night,”"
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> Even darkness is not dark to You,",
+                "> And the night is as bright as the day.",
+                "> Darkness and light are alike to You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> For You created my innermost parts;",
+                "> You wove me in my mother’s womb."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> I will give thanks to You, because I am fearfully and wonderfully made;",
+                "> Wonderful are Your works,",
+                "> And my soul knows it very well."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> My frame was not hidden from You",
+                "> When I was made in secret,",
+                "> And skilfully formed in the depths of the earth."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Your eyes have seen my formless substance;",
+                "> And in Your book were written",
+                "> All the days that were ordained for me,",
+                "> When as yet there was not one of them."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> How precious also are Your thoughts for me, God!",
+                "> How vast is the sum of them!"
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> Were I to count them, they would outnumber the sand.",
+                "> When I awake, I am still with You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> If only You would put the wicked to death, God;",
+                "> Leave me, you men of bloodshed."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> For they speak against You wickedly,",
+                "> And Your enemies take Your name in vain."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> Do I not hate those who hate You, Lord?",
+                "> And do I not loathe those who rise up against You?"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> I hate them with the utmost hatred;",
+                "> They have become my enemies."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Search me, God, and know my heart;",
+                "> Put me to the test and know my anxious thoughts;"
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> And see if there is any hurtful way in me,",
+                "> And lead me in the everlasting way."
+            ]
         }
     ]
 }

@@ -53,7 +53,7 @@
         {
             "verse": 9,
             "text": [
-                "They said to the messengers who had come, “Thus shall you say to the men of Jabesh-gilead, ‘Tomorrow, by the time the sun is hot, you shall have deliverance.’” So the messengers went and told the men of Jabesh, and they were glad."
+                "They said to the messengers who had come, “Thus shall you say to the men of Jabesh-gilead, ‘Tomorrow, by the time the sun is hot, you shall have deliverance.’”So the messengers went and told the men of Jabesh, and they were glad."
             ]
         },
         {
@@ -63,7 +63,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 11,
@@ -84,7 +86,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 14,

@@ -1,106 +1,190 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 33,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Sing for joy in the Lord, you righteous ones;",
+                "> Praise is becoming to the upright."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Give thanks to the Lord with the lyre;",
+                "> Sing praises to Him with a harp of ten strings."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Sing to Him a new song;",
+                "> Play skillfully with a shout of joy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For the word of the Lord is right,",
+                "> And all His work is done in faithfulness."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> He loves righteousness and justice;",
+                "> The earth is full of the goodness of the Lord."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> By the word of the Lord the heavens were made,",
+                "> And by the breath of His mouth all their lights."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He gathers the waters of the sea together as a heap;",
+                "> He puts the depths into storehouses."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Let all the earth fear the Lord;",
+                "> Let all the inhabitants of the world stand in awe of Him."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> For He spoke, and it was done;",
+                "> He commanded, and it stood firm."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> The Lord nullifies the plan of nations;",
+                "> He frustrates the plans of peoples."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> The plan of the Lord stands forever,",
+                "> The plans of His heart from generation to generation."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Blessed is the nation whose God is the Lord,",
+                "> The people He has chosen for His own inheritance."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> The Lord looks from heaven;",
+                "> He sees all the sons of mankind;"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> From His dwelling place He looks out",
+                "> On all the inhabitants of the earth,"
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> He who fashions the hearts of them all,",
+                "> He who understands all their works."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> The king is not saved by a mighty army;",
+                "> A warrior is not rescued by great strength."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> A horse is a false hope for victory;",
+                "> Nor does it rescue anyone by its great strength."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Behold, the eye of the Lord is on those who fear Him,",
+                "> On those who wait for His faithfulness,"
+            ]
         },
         {
             "verse": 19,
+            "text": [
+                "> To rescue their soul from death",
+                "> And to keep them alive in famine."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Our soul waits for the Lord;",
+                "> He is our help and our shield."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> For our heart rejoices in Him,",
+                "> Because we trust in His holy name."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Let Your favour, Lord, be upon us,",
+                "> Just as we have waited for You."
+            ]
         }
     ]
 }

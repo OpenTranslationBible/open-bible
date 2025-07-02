@@ -1,22 +1,30 @@
 {
-  "book": "Genesis",
-  "chapter": 31,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Jacob heard that Laban\u2019s sons were saying, \u201cJacob has taken everything our father owned and has gained all this wealth from what belonged to our father.\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "And Jacob noticed that Laban\u2019s attitude toward him was not what it had been."
-    },
-    {
-      "verse": 3,
-      "text": "Then the Lord said to Jacob, \u201cReturn to the land of your fathers and to your relatives, and I will be with you.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "So Jacob sent word to Rachel and Leah to come out to the fields where his flocks were."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 31,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Jacob heard that Laban’s sons were saying, “Jacob has taken everything our father owned and has gained all this wealth from what belonged to our father.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "And Jacob noticed that Laban’s attitude toward him was not what it had been."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then the Lord said to Jacob, “Return to the land of your fathers and to your relatives, and I will be with you.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "So Jacob sent word to Rachel and Leah to come out to the fields where his flocks were."
+            ]
+        }
+    ]
 }

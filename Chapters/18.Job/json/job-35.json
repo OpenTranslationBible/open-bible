@@ -4,67 +4,117 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Then Elihu continued and said,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “Do you think this is in accordance with justice?",
+                "> Do you say, ‘My righteousness is more than God’s’?"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> For you say, ‘What advantage will it be to You?",
+                "> What benefit will I have, more than if I had sinned?’"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> I will answer you,",
+                "> And your friends with you."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Look at the heavens and see;",
+                "> And look at the clouds—they are higher than you."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> If you have sinned, what do you accomplish against Him?",
+                "> And if your wrongdoings are many, what do you do to Him?"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> If you are righteous, what do you give to Him,",
+                "> Or what does He receive from your hand?"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Your wickedness is for a man like yourself,",
+                "> And your righteousness is for a son of man."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Because of the multitude of oppressions they cry out;",
+                "> They cry for help because of the arm of the mighty."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> But no one says, ‘Where is God my Maker,",
+                "> Who gives songs in the night,"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Who teaches us more than the animals of the earth",
+                "> And makes us wiser than the birds of the sky?’"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> There they cry out, but He does not answer",
+                "> Because of the pride of evil people."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> God certainly will not listen to an empty cry,",
+                "> Nor will the Almighty regard it."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> How much less when you say you do not look at Him,",
+                "> The case is before Him, and you must wait for Him!"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> And now, because He has not avenged His anger,",
+                "> Nor has He acknowledged wrongdoing we"
+            ]
         }
     ]
 }

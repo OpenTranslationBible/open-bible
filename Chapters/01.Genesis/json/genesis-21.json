@@ -1,142 +1,210 @@
 {
-  "book": "Genesis",
-  "chapter": 21,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now the Lord was gracious to Sarah as He had said, and the Lord did for Sarah what He had promised."
-    },
-    {
-      "verse": 2,
-      "text": "Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him."
-    },
-    {
-      "verse": 3,
-      "text": "Abraham gave the name Isaac to the son Sarah bore him."
-    },
-    {
-      "verse": 4,
-      "text": "When his son Isaac was eight days old, Abraham circumcised him, as God had commanded him."
-    },
-    {
-      "verse": 5,
-      "text": "Abraham was a hundred years old when his son Isaac was born to him."
-    },
-    {
-      "verse": 6,
-      "text": "Sarah said, \u201cGod has brought me laughter, and everyone who hears about this will laugh with me.\u201d"
-    },
-    {
-      "verse": 7,
-      "text": "And she added, \u201cWho would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast."
-    },
-    {
-      "verse": 9,
-      "text": "But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking,"
-    },
-    {
-      "verse": 10,
-      "text": "and she said to Abraham, \u201cGet rid of that slave woman and her son, for that woman\u2019s son will never share in the inheritance with my son Isaac.\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "The matter distressed Abraham greatly because it concerned his son."
-    },
-    {
-      "verse": 12,
-      "text": "But God said to him, \u201cDo not be so distressed about the boy and your servant. Listen to whatever Sarah tells you, because it is through Isaac that your offspring will be reckoned."
-    },
-    {
-      "verse": 13,
-      "text": "I will make the son of the servant into a nation also, because he is your offspring.\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "Early the next morning Abraham took some food and a skin of water and gave them to Hagar. He set them on her shoulders and sent her off with the boy."
-    },
-    {
-      "verse": 15,
-      "text": "When the water in the skin was gone, she put the boy under one of the bushes."
-    },
-    {
-      "verse": 16,
-      "text": "Then she went off and sat down about a bowshot away, for she thought, \u201cI cannot watch the boy die.\u201d And she sat there, weeping."
-    },
-    {
-      "verse": 17,
-      "text": "God heard the boy crying, and the angel of God called to Hagar from heaven and said, \u201cWhat is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there."
-    },
-    {
-      "verse": 18,
-      "text": "Lift the boy up and take him by the hand, for I will make him into a great nation.\u201d"
-    },
-    {
-      "verse": 19,
-      "text": "Then God opened her eyes and she saw a well of water. So she went and filled the skin with water and gave the boy a drink."
-    },
-    {
-      "verse": 20,
-      "text": "God was with the boy as he grew up. He lived in the desert and became an archer."
-    },
-    {
-      "verse": 21,
-      "text": "While he was living in the Desert of Paran, his mother got a wife for him from Egypt."
-    },
-    {
-      "verse": 22,
-      "text": "At that time Abimelek and Phicol the commander of his forces said to Abraham, \u201cGod is with you in everything you do."
-    },
-    {
-      "verse": 23,
-      "text": "Now swear to me here before God that you will not deal falsely with me or my descendants. Show to me and to the land where you have been living the same kindness I have shown you.\u201d"
-    },
-    {
-      "verse": 24,
-      "text": "Abraham said, \u201cI swear it.\u201d"
-    },
-    {
-      "verse": 25,
-      "text": "Then Abraham complained to Abimelek about a well of water that Abimelek\u2019s servants had seized."
-    },
-    {
-      "verse": 26,
-      "text": "But Abimelek said, \u201cI don\u2019t know who has done this. You did not tell me, and I heard about it only today.\u201d"
-    },
-    {
-      "verse": 27,
-      "text": "So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a treaty."
-    },
-    {
-      "verse": 28,
-      "text": "Abraham set apart seven ewe lambs from the flock,"
-    },
-    {
-      "verse": 29,
-      "text": "and Abimelek asked Abraham, \u201cWhat is the meaning of these seven ewe lambs you have set apart by themselves?\u201d"
-    },
-    {
-      "verse": 30,
-      "text": "He replied, \u201cAccept these seven lambs from my hand as a witness that I dug this well.\u201d"
-    },
-    {
-      "verse": 31,
-      "text": "So that place was called Beersheba, because the two men swore an oath there."
-    },
-    {
-      "verse": 32,
-      "text": "After the treaty had been made at Beersheba, Abimelek and Phicol the commander of his forces returned to the land of the Philistines."
-    },
-    {
-      "verse": 33,
-      "text": "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Eternal God."
-    },
-    {
-      "verse": 34,
-      "text": "And Abraham stayed in the land of the Philistines for a long time."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now the Lord was gracious to Sarah as He had said, and the Lord did for Sarah what He had promised."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Abraham gave the name Isaac to the son Sarah bore him."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "When his son Isaac was eight days old, Abraham circumcised him, as God had commanded him."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Abraham was a hundred years old when his son Isaac was born to him."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "and she said to Abraham, “Get rid of that slave woman and her son, for that woman’s son will never share in the inheritance with my son Isaac.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The matter distressed Abraham greatly because it concerned his son."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "But God said to him, “Do not be so distressed about the boy and your servant. Listen to whatever Sarah tells you, because it is through Isaac that your offspring will be reckoned."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "I will make the son of the servant into a nation also, because he is your offspring.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Early the next morning Abraham took some food and a skin of water and gave them to Hagar. He set them on her shoulders and sent her off with the boy."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "When the water in the skin was gone, she put the boy under one of the bushes."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Then she went off and sat down about a bowshot away, for she thought, “I cannot watch the boy die.” And she sat there, weeping."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "God heard the boy crying, and the angel of God called to Hagar from heaven and said, “What is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Lift the boy up and take him by the hand, for I will make him into a great nation.”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Then God opened her eyes and she saw a well of water. So she went and filled the skin with water and gave the boy a drink."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "God was with the boy as he grew up. He lived in the desert and became an archer."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "While he was living in the Desert of Paran, his mother got a wife for him from Egypt."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "At that time Abimelek and Phicol the commander of his forces said to Abraham, “God is with you in everything you do."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Now swear to me here before God that you will not deal falsely with me or my descendants. Show to me and to the land where you have been living the same kindness I have shown you.”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Abraham said, “I swear it.”"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Then Abraham complained to Abimelek about a well of water that Abimelek’s servants had seized."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "But Abimelek said, “I don’t know who has done this. You did not tell me, and I heard about it only today.”"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a treaty."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Abraham set apart seven ewe lambs from the flock,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "and Abimelek asked Abraham, “What is the meaning of these seven ewe lambs you have set apart by themselves?”"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "He replied, “Accept these seven lambs from my hand as a witness that I dug this well.”"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "So that place was called Beersheba, because the two men swore an oath there."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "After the treaty had been made at Beersheba, Abimelek and Phicol the commander of his forces returned to the land of the Philistines."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Eternal God."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "And Abraham stayed in the land of the Philistines for a long time."
+            ]
+        }
+    ]
 }

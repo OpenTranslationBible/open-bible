@@ -29,8 +29,7 @@
         {
             "verse": 5,
             "text": [
-                "Then you shall say before the Lord your God:",
-                "'My father was a wandering Aramean,",
+                "Then you shall say before the Lord your God:'My father was a wandering Aramean,",
                 "> He went down to Egypt and lived there as a foreigner, few in number,",
                 "> But there he became a great, powerful, and numerous nation.'"
             ]
@@ -74,7 +73,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 12,
@@ -94,7 +95,7 @@
                 "'I have not eaten any of the tithe while in mourning,",
                 "> Nor removed any of it while unclean,",
                 "> Nor offered any of it to the dead.",
-                "I have obeyed the Lord my God and have done everything You commanded me.'"
+                "> I have obeyed the Lord my God and have done everything You commanded me.'"
             ]
         },
         {
@@ -104,7 +105,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 16,

@@ -51,7 +51,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 9,
@@ -66,7 +68,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 11,
@@ -95,9 +99,7 @@
         {
             "verse": 15,
             "text": [
-                "'Cursed is the one who makes a carved or molten image,",
-                "An abomination to the Lord, the work of craftsmen,",
-                "and sets it up in secret.'",
+                "'Cursed is the one who makes a carved or molten image,An abomination to the Lord, the work of craftsmen,and sets it up in secret.'",
                 "> And all the people shall answer and say, 'Amen.'"
             ]
         },
@@ -125,14 +127,13 @@
         {
             "verse": 19,
             "text": [
-                "'Cursed is he who withholds justice from the foreigner, the fatherless, or the widow.'",
-                "> And all the people shall say, 'Amen.'"
+                "'Cursed is he who withholds justice from the foreigner, the fatherless, or the widow.'And all the people shall say, 'Amen.'"
             ]
         },
         {
             "verse": 20,
             "text": [
-                "'Cursed is he who lies with his father’s wife, because he has uncovered his father’s nakedness.'",
+                "'Cursed is he who lies with his father’s wife, bfecause he has uncovered his father’s nakedness.'",
                 "> And all the people shall say, 'Amen.'"
             ]
         },

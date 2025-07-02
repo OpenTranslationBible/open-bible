@@ -1,230 +1,411 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 89,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I will sing of the mercy of the Lord forever;",
+                "> With my mouth I will make Your faithfulness known through all generations."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> For I have said, “Mercy will be built up forever;",
+                "> In the heavens You will establish Your faithfulness.”"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> “I have made a covenant with My chosen;",
+                "> I have sworn to My servant David,"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> I will establish your descendants forever,",
+                "> And build up your throne to all generations.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The heavens will praise Your wonders, Lord,",
+                "> Your faithfulness also in the assembly of the holy ones."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> For who in the skies is comparable to the Lord?",
+                "> Who among the sons of the mighty is like the Lord,"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> A God greatly feared in the council of the holy ones,",
+                "> And awesome above all those who are around Him?"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Lord God of armies, who is like You, mighty Lord?",
+                "> Your faithfulness also surrounds You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> You rule the surging of the sea;",
+                "> When its waves rise, You calm them."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> You Yourself crushed Rahab like one who is slain;",
+                "> You scattered Your enemies with Your mighty arm."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The heavens are Yours, the earth also is Yours;",
+                "> The world and all it contains, You have founded them."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> The north and the south, You have created them;",
+                "> Tabor and Hermon shout for joy at Your name."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> You have a strong arm;",
+                "> Your hand is mighty, Your right hand is exalted."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Righteousness and justice are the foundation of Your throne;",
+                "> Mercy and truth go before You."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> Blessed are the people who know the joyful sound!",
+                "> Lord, they walk in the light of Your face."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> In Your name they rejoice all the day,",
+                "> And by Your righteousness they are exalted."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> For You are the glory of their strength,",
+                "> And by Your favour our horn is exalted."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> For our shield belongs to the Lord,",
+                "> And our king to the Holy One of Israel."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Once You spoke in vision to Your godly ones,",
+                "> And said, “I have given help to one who is mighty;",
+                "> I have exalted one chosen from the people."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> I have found My servant David;",
+                "> With My holy oil I have anointed him,"
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> With whom My hand will be established;",
+                "> My arm also will strengthen him."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> The enemy will not deceive him,",
+                "> Nor will the son of wickedness afflict him."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> But I will crush his adversaries before him,",
+                "> And strike those who hate him."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> My faithfulness and My mercy will be with him,",
+                "> And in My name his horn will be exalted."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> I will place his hand on the sea,",
+                "> And his right hand on the rivers."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> He will call to Me, ‘You are my Father,",
+                "> My God, and the rock of my salvation.’"
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> I will also make him My firstborn,",
+                "> The highest of the kings of the earth."
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> I will maintain My mercy for him forever,",
+                "> And My covenant shall be confirmed to him."
+            ]
         },
         {
             "verse": 29,
+            "text": [
+                "> So I will establish his descendants forever,",
+                "> And his throne as the days of heaven."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> If his sons abandon My Law",
+                "> And do not walk in My judgments,"
+            ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> If they violate My statutes",
+                "> And do not keep My commandments,"
+            ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "> Then I will punish their wrongdoing with the rod,",
+                "> And their guilt with afflictions."
+            ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> But I will not withdraw My mercy from him,",
+                "> Nor deal falsely in My faithfulness."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> I will not break My covenant,",
+                "> Nor change what has gone out of My lips."
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> Once I have sworn by My holiness;",
+                "> I will not lie to David."
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "> His descendants shall endure forever,",
+                "> And his throne as the sun before Me."
+            ]
         },
         {
             "verse": 37,
+            "text": [
+                "> It shall be established forever like the moon,",
+                "> And a witness in the sky is faithful.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "> But You have rejected and refused,",
+                "> You have been full of wrath against Your anointed."
+            ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "> You have repudiated the covenant of Your servant;",
+                "> You have profaned his crown in the dust."
+            ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "> You have broken down all his walls;",
+                "> You have brought his strongholds to ruin."
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> All who pass along the way plunder him;",
+                "> He has become a disgrace to his neighbours."
+            ]
         },
         {
             "verse": 42,
-            "text": []
+            "text": [
+                "> You have exalted the right hand of his adversaries;",
+                "> You have made all his enemies rejoice."
+            ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "> You also turn back the edge of his sword,",
+                "> And have not made him stand in battle."
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "> You have put an end to his splendour",
+                "> And cast his throne to the ground."
+            ]
         },
         {
             "verse": 45,
+            "text": [
+                "> You have shortened the days of his youth;",
+                "> You have covered him with shame."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 46,
-            "text": []
+            "text": [
+                "> How long, Lord? Will You hide Yourself forever?",
+                "> Will Your wrath burn like fire?"
+            ]
         },
         {
             "verse": 47,
-            "text": []
+            "text": [
+                "> Remember what my lifespan is;",
+                "> For what futility You have created all the sons of mankind!"
+            ]
         },
         {
             "verse": 48,
-            "text": []
+            "text": [
+                "> What man can live and not see death?",
+                "> Can he save his soul from the power of Sheol?"
+            ]
         },
         {
             "verse": 49,
-            "text": []
+            "text": [
+                "> Where are Your former acts of mercy, Lord,",
+                "> Which You swore to David in Your faithfulness?"
+            ]
         },
         {
             "verse": 50,
-            "text": []
+            "text": [
+                "> Remember, Lord, the taunt against Your servants;",
+                "> How I carry in my heart the taunts of all the many peoples,"
+            ]
         },
         {
             "verse": 51,
+            "text": [
+                "> With which Your enemies have taunted, Lord,",
+                "> With which they have taunted the footsteps of Your anointed."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 52,
-            "text": []
+            "text": [
+                "> Blessed be the Lord forever!",
+                "> Amen and Amen."
+            ]
         }
     ]
 }

@@ -4,146 +4,257 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Adam, Seth, Enosh,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "Kenan, Mahalalel, Jared,"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "Enoch, Methuselah, Lamech,"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "Noah, and his sons:",
+                "> Shem, Ham, and Japheth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "The sons of Japheth were:",
+                "> Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "The sons of Gomer were:",
+                "> Ashkenaz, Diphath, and Togarmah."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "The sons of Javan were:",
+                "> Elishah, Tarshish, Kittim, and Rodanim."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "The sons of Ham were:",
+                "> Cush, Mizraim, Put, and Canaan."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "The sons of Cush were:",
+                "> Seba, Havilah, Sabta, Raama, and Sabteca.",
+                "> And the sons of Raama were:",
+                "> Sheba and Dedan."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Cush fathered Nimrod;",
+                "> he began to be a mighty one on the earth."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "Mizraim fathered the people of",
+                "> Lud, Anam, Lehab, Naphtuh,"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Pathrus, Casluh (from whom the Philistines came), and Caphtor."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "Canaan fathered",
+                "> Sidon, his firstborn, and Heth,"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "and the Jebusite, the Amorite, and the Girgashite,"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "and the Hivite, the Arkite, and the Sinite,"
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "and the Arvadite, the Zemarite, and the Hamathite."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "The sons of Shem were:",
+                "> Elam, Asshur, Arpachshad, Lud, Aram,",
+                "> The sons of Aram were",
+                "> Uz, Hul, Gether, and Meshech."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "Arpachshad fathered Shelah,and Shelah fathered Eber."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "Two sons were born to Eber:",
+                "> the name of the one was Peleg, for in his days the earth was divided;",
+                "> and his brother’s name was Joktan."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "Joktan fathered",
+                "> Almodad, Sheleph, Hazarmaveth, Jerah,"
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "Hadoram, Uzal, Diklah,"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "Ebal, Abimael, Sheba,"
+            ]
         },
         {
             "verse": 23,
+            "text": [
+                "Ophir, Havilah, and Jobab.All these were the sons of Joktan."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> Shem, Arpachshad, Shelah,"
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> Eber, Peleg, Reu,"
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> Serug, Nahor, Terah,"
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "> and Abram — that is, Abraham."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> The sons of Abraham were:",
+                "> Isaac and Ishmael."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "These are their generations:",
+                "> The firstborn of Ishmael was Nebaioth, then Kedar, Adbeel, Mibsam,"
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "Mishma, Dumah, Massa, Hadad, Tema,"
+            ]
         },
         {
             "verse": 31,
+            "text": [
+                "Jetur, Naphish, and Kedemah.These were the sons of Ishmael."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "The sons of Keturah, Abraham’s concubine, to whom she gave birth:",
+                "> Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.",
+                "> The sons of Jokshan were:",
+                "> Sheba and Dedan."
+            ]
         },
         {
             "verse": 33,
+            "text": [
+                "The sons of Midian were:",
+                "> Ephah, Epher, Hanoch, Abida, and Eldaah.",
+                "> All these were the sons of Keturah."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -151,94 +262,164 @@
         {
             "verse": 34,
             "text": [
+                "Abraham fathered Isaac.",
+                "> The sons of Isaac were:",
+                "> Esau and Israel."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "The sons of Esau were:",
+                "> Eliphaz, Reuel, Jeush, Jalam, and Korah."
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "The sons of Eliphaz were:",
+                "> Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek."
+            ]
         },
         {
             "verse": 37,
+            "text": [
+                "The sons of Reuel were:",
+                "> Nahath, Zerah, Shammah, and Mizzah."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "The sons of Seir were:",
+                "> Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan."
+            ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "The sons of Lotan were:",
+                "> Hori and Homam; and Timna was Lotan’s sister."
+            ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "The sons of Shobal were:",
+                "> Alian, Manahath, Ebal, Shephi, and Onam.",
+                "> And the sons of Zibeon were:",
+                "> Aiah and Anah."
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "The son of Anah was:",
+                "> Dishon.",
+                "> And the sons of Dishon were:",
+                "> Hamran, Eshban, Ithran, and Cheran."
+            ]
         },
         {
             "verse": 42,
+            "text": [
+                "The sons of Ezer were:",
+                "> Bilhan, Zaavan, and Jaakan.",
+                "> The sons of Dishan were:",
+                "> Uz and Aran."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "Now these are the kings who reigned in the land of Edom before any king reigned over the sons of Israel:Bela the son of Beor, and the name of his city was Dinhabah."
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "When Bela died, Jobab the son of Zerah of Bozrah became king in his place."
+            ]
         },
         {
             "verse": 45,
-            "text": []
+            "text": [
+                "When Jobab died, Husham of the land of the Temanites became king in his place."
+            ]
         },
         {
             "verse": 46,
-            "text": []
+            "text": [
+                "When Husham died, Hadad the son of Bedad, who defeated Midian in the field of Moab,became king in his place; and the name of his city was Avith."
+            ]
         },
         {
             "verse": 47,
-            "text": []
+            "text": [
+                "When Hadad died, Samlah of Masrekah became king in his place."
+            ]
         },
         {
             "verse": 48,
-            "text": []
+            "text": [
+                "When Samlah died, Shaul of Rehoboth by the River became king in his place."
+            ]
         },
         {
             "verse": 49,
-            "text": []
+            "text": [
+                "When Shaul died, Baal-hanan the son of Achbor became king in his place."
+            ]
         },
         {
             "verse": 50,
+            "text": [
+                "When Baal-hanan died, Hadad became king in his place;and the name of his city was Pai,and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 51,
-            "text": []
+            "text": [
+                "Then Hadad died.And the chiefs of Edom were:chief Timna, chief Aliah, chief Jetheth,"
+            ]
         },
         {
             "verse": 52,
-            "text": []
+            "text": [
+                "chief Oholibamah, chief Elah, chief Pinon,"
+            ]
         },
         {
             "verse": 53,
-            "text": []
+            "text": [
+                "chief Kenaz, chief Teman, chief Mibzar,"
+            ]
         },
         {
             "verse": 54,
-            "text": []
+            "text": [
+                "chief Magdiel, chief Iram.These were the chiefs of Edom."
+            ]
         }
     ]
 }

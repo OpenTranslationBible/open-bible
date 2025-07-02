@@ -1,106 +1,190 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 34,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I will bless the Lord at all times;",
+                "> His praise shall continually be in my mouth."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> My soul will make its boast in the Lord;",
+                "> The humble will hear it and rejoice."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Exalt the Lord with me,",
+                "> And let us exalt His name together."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> I sought the Lord and He answered me,",
+                "> And rescued me from all my fears."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> They looked to Him and were radiant,",
+                "> And their faces will never be ashamed."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> This wretched man cried out, and the Lord heard him,",
+                "> And saved him out of all his troubles."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> The angel of the Lord encamps around those who fear Him,",
+                "> And rescues them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Taste and see that the Lord is good;",
+                "> How blessed is the man who takes refuge in Him!"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Fear the Lord, you His saints;",
+                "> For to those who fear Him there is no lack of anything."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> The young lions do without and suffer hunger;",
+                "> But they who seek the Lord will not lack any good thing."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Come, you children, listen to me;",
+                "> I will teach you the fear of the Lord."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Who is the person who desires life",
+                "> And loves length of days, that he may see good?"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Keep your tongue from evil",
+                "> And your lips from speaking deceit."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> Turn from evil and do good;",
+                "> Seek peace and pursue it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> The eyes of the Lord are toward the righteous,",
+                "> And His ears are toward their cry for help."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> The face of the Lord is against evildoers,",
+                "> To eliminate the memory of them from the earth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> The righteous cry out, and the Lord hears",
+                "> And rescues them from all their troubles."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> The Lord is near to the brokenhearted",
+                "> And saves those who are crushed in spirit."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> The afflictions of the righteous are many,",
+                "> But the Lord rescues him from them all."
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "> He protects all his bones,",
+                "> Not one of them is broken."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> Evil will bring death to the wicked,",
+                "> And those who hate the righteous will suffer for their guilt."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> The Lord redeems the souls of His servants,",
+                "> And none of those who take refuge in Him will suffer for their guilt."
+            ]
         }
     ]
 }

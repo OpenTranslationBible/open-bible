@@ -1,21 +1,36 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 20,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> May the Lord answer you on a day of trouble!",
+                "> May the name of the God of Jacob protect you!"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> May He send you help from the sanctuary,",
+                "> And support you from Zion!"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> May He remember all your meal offerings",
+                "> And accept your burnt offering!"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> May He grant you your heart’s desire",
+                "> And fulfil all your plan!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -23,25 +38,48 @@
         {
             "verse": 5,
             "text": [
-                "---",
+                "> We will sing for joy over your victory,",
+                "> And in the name of our God we will set up our banners."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Now I know that the Lord saves His anointed;",
+                "> He will answer him from His holy heaven",
+                "> With the saving strength of His right hand."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Some praise chariots and some horses,",
+                "> But we will praise the name of the Lord, our God."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> They have bowed down and fallen,",
+                "> But we have risen and stood upright."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Save, Lord;",
+                "> May the King answer us on the day we call."
+            ]
         }
     ]
 }

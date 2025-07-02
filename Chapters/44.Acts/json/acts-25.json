@@ -4,117 +4,180 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Now Festus, having arrived in the province, went up to Jerusalem from Caesarea three days later."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "And the chief priests and the leading men of the Jews brought charges against Paul,and they were pleading with Festus,"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "requesting a concession against Paul, that he might have him brought to Jerusalem(at the same time, they were setting an ambush to kill him on the way)."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "Festus then answered that Paul was being kept in custody in Caesarea,and that he himself was about to leave shortly."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "“Therefore,” he , “have the influential men among you go there with me,and if there is anything wrong about the man, have them bring charges against him.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "After Festus had spent not more than eight or ten days among them,he went down to Caesarea, and on the next day he took his seat on the tribunal and ordered that Paul be brought."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "After Paul arrived, the Jews who had come down from Jerusalem stood around him,bringing many serious charges against him which they could not prove,"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "while Paul said in his own defense,“I have not done anything wrong either against the Law of the Jews,or against the temple, or against Caesar.”"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "But Festus, wanting to do the Jews a favour, replied to Paul and said,“Are you willing to go up to Jerusalem and stand trial before me on these charges?”"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "But Paul said,“I am standing before Caesar’s tribunal, where I ought to be tried.I have done nothing wrong to the Jews, as you also very well know."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "If, therefore, I am in the wrong and have committed something deserving death,I am not trying to avoid execution; but if there is nothing to the accusations which these men are bringing against me,no one can hand me over to them. I appeal to Caesar.”"
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "Then Festus, after conferring with his council, answered,“You have appealed to Caesar; to Caesar you shall go.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "Now when several days had passed, King Agrippa and Bernice arrived in Caesarea, paying their respects to Festus."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "And while they were spending many days there, Festus presented Paul’s case to the king, saying,“There is a man who was left as a prisoner by Felix;"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "and when I was in Jerusalem, the chief priests and the elders of the Jews brought charges against him,asking for a sentence against him."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "I replied to them that it is not the custom of the Romans to hand over any personbefore the accused meets his accusers face to face, and has an opportunity to make his defense against the charges."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "So after they had assembled here, I did not delay;on the next day I took my seat on the tribunal and ordered the man to be brought before me."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "When the accusers stood up, they did not bring any charge against him of crimes that I suspected,"
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "but they simply had some points of disagreement with him about their own religion and about a dead man, Jesus,whom Paul asserted to be alive."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "And being at a loss how to investigate such matters,I asked whether he was willing to go to Jerusalem and stand trial there on these matters."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "But when Paul appealed to be held in custody for the decision of the Emperor,I ordered that he be kept in custody until I send him to Caesar.”"
+            ]
         },
         {
             "verse": 22,
+            "text": [
+                "Then Agrippa , “I also would like to hear the man myself.”“Tomorrow,” he , “you shall hear him.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "So, on the next day when Agrippa and Bernice came amid great pomp and entered the auditorium,accompanied by the commanders and prominent men of the city,at the order of Festus, Paul was brought in."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "And Festus ,“King Agrippa, and all you gentlemen present with us, you see this man about whom all the people of the Jewsappealed to me, both in Jerusalem and here, shouting that he ought not to live any longer."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "But I found that he had committed nothing deserving death;and since he himself appealed to the Emperor, I decided to send him."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "Yet, I have nothing definite about him to write to my lord.Therefore, I have brought him before you all, and especially before you, King Agrippa,so that after the investigation has taken place, I may have something to write."
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "For it seems absurd to me in sending a prisoner, not to indicate the charges against him as well.”"
+            ]
         }
     ]
 }

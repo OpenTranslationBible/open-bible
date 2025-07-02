@@ -1,194 +1,348 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 107,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Give thanks to the Lord, for He is good;",
+                "> For His love is everlasting."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> The redeemed of the Lord shall say so,",
+                "> Those whom He has redeemed from the hand of the enemy"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> And gathered from the lands,",
+                "> From the east and from the west,",
+                "> From the north and from the south."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> They wandered in the wilderness in a desert region;",
+                "> They did not find a way to an inhabited city."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> They were hungry and thirsty;",
+                "> Their souls felt weak within them."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Then they cried out to the Lord in their trouble;",
+                "> He rescued them from their distresses."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He also led them by a straight way,",
+                "> To go to an inhabited city."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> They shall give thanks to the Lord for His mercy,",
+                "> And for His wonders to the sons of mankind!"
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> For He has satisfied the thirsty soul,",
+                "> And He has filled the hungry soul with what is good."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> There were those who lived in darkness and in the shadow of death,",
+                "> Prisoners in misery and chains,"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Because they had rebelled against the words of God",
+                "> And rejected the counsel of the Most High."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Therefore He humbled their heart with labour;",
+                "> They stumbled and there was no one to help."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Then they cried out to the Lord in their trouble;",
+                "> He saved them from their distresses."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> He brought them out of darkness and the shadow of death",
+                "> And broke their bands apart."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> They shall give thanks to the Lord for His mercy,",
+                "> And for His wonders to the sons of mankind!"
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> For He has shattered gates of bronze,",
+                "> And cut off bars of iron."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Fools, because of their rebellious way,",
+                "> And because of their guilty deeds, were afflicted."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Their souls loathed all kinds of food,",
+                "> And they came close to the gates of death."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Then they cried out to the Lord in their trouble;",
+                "> He saved them from their distresses."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> He sent His word and healed them,",
+                "> And saved them from their destruction."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> They shall give thanks to the Lord for His mercy,",
+                "> And for His wonders to the sons of mankind!"
+            ]
         },
         {
             "verse": 22,
+            "text": [
+                "> They shall also offer sacrifices of thanksgiving,",
+                "> And tell of His works with joyful singing."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Those who go down to the sea in ships,",
+                "> Who do business on great waters,"
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> They have seen the works of the Lord,",
+                "> And His wonders in the deep."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> For He spoke and raised a stormy wind,",
+                "> Which lifted the waves of the sea."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> They rose up to the heavens, they went down to the depths;",
+                "> Their souls melted away in their misery."
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> They reeled and staggered like a drunken person,",
+                "> And were at their wits’ end."
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> Then they cried out to the Lord in their trouble,",
+                "> And He brought them out of their distresses."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> He caused the storm to be still,",
+                "> So that the waves of the sea were hushed."
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> Then they were glad, because they were quiet,",
+                "> So He guided them to their desired harbour."
+            ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> They shall give thanks to the Lord for His mercy,",
+                "> And for His wonders to the sons of mankind!"
+            ]
         },
         {
             "verse": 32,
+            "text": [
+                "> They shall also exalt Him in the congregation of the people,",
+                "> And praise Him at the seat of the elders."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> He turns rivers into a wilderness,",
+                "> And springs of water into a thirsty ground;"
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> A fruitful land into a salt waste,",
+                "> Because of the wickedness of those who dwell in it."
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> He turns a wilderness into a pool of water,",
+                "> And a dry land into springs of water;"
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "> And He has the hungry live there,",
+                "> So that they may establish an inhabited city,"
+            ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "> And sow fields and plant vineyards,",
+                "> And gather a fruitful harvest."
+            ]
         },
         {
             "verse": 38,
+            "text": [
+                "> He also blesses them and they multiply greatly,",
+                "> And He does not let their cattle decrease."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "> When they become few and lowly",
+                "> Because of oppression, misery, and sorrow,"
+            ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "> He pours contempt upon noblemen",
+                "> And makes them wander in a pathless wasteland."
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> But He sets the needy securely on high away from affliction,",
+                "> And makes his families like a flock."
+            ]
         },
         {
             "verse": 42,
+            "text": [
+                "> The upright see it and are glad;",
+                "> But all injustice shuts its mouth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "> Who is wise? He is to pay attention to these things,",
+                "> And consider the mercy of the Lord."
+            ]
         }
     ]
 }

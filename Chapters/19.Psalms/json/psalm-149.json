@@ -1,44 +1,76 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 149,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Praise the Lord!",
+                "> Sing a new song to the Lord,",
+                "> And His praise in the congregation of the godly ones."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Israel shall be joyful in his Maker;",
+                "> The sons of Zion shall rejoice in their King."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> They shall praise His name with dancing;",
+                "> They shall sing praises to Him with tambourine and lyre."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For the Lord takes pleasure in His people;",
+                "> He will beautify the humble with salvation."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> The godly ones shall be jubilant in glory;",
+                "> They shall sing for joy on their beds."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> The high praises of God shall be in their mouths,",
+                "> And a two-edged sword in their hands,"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> To execute vengeance on the nations,",
+                "> And punishment on the peoples,"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> To bind their kings with chains,",
+                "> And their dignitaries with shackles of iron,"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> To execute against them the judgment written.",
+                "> This honour is for all His godly ones.",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

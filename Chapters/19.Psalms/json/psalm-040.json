@@ -1,86 +1,168 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 40,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I waited patiently for the Lord;",
+                "> And He reached down to me and heard my cry."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> He brought me up out of the pit of destruction, out of the mud;",
+                "> And He set my feet on a rock, making my footsteps firm."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> He put a new song in my mouth, a song of praise to our God;",
+                "> Many will see and fear,",
+                "> And will trust in the Lord."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Blessed is the man who has made the Lord his trust,",
+                "> And has not turned to the proud, nor to those who become involved in falsehood."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Many, Lord my God, are the wonders which You have done,",
+                "> And Your thoughts toward us;",
+                "> There is no one to compare with You.",
+                "> If I would declare and speak of them,",
+                "> They would be too numerous to count."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> You have not desired sacrifice and meal offering;",
+                "> You have opened my ears;",
+                "> You have not required burnt offering and sin offering."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Then I said, “Behold, I have come;",
+                "> It is written of me in the scroll of the book."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> I delight to do Your will, my God;",
+                "> Your Law is within my heart.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> I have proclaimed good news of righteousness in the great congregation;",
+                "> Behold, I will not restrain my lips, Lord, You know."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> I have not hidden Your righteousness within my heart;",
+                "> I have declared Your faithfulness and Your salvation;",
+                "> I have not concealed Your mercy and Your truth from the great congregation."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> You, Lord, will not withhold Your compassion from me;",
+                "> Your mercy and Your truth will continually watch over me."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> For evils beyond number have surrounded me;",
+                "> My guilty deeds have overtaken me, so that I cannot see;",
+                "> They are more numerous than the hairs of my head,",
+                "> And my heart has failed me."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> Be pleased, Lord, to rescue me;",
+                "> Hurry, Lord, to help me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> May those be ashamed and humiliated together",
+                "> Who seek my life to destroy it;",
+                "> May those be turned back and dishonoured",
+                "> Who delight in my hurt."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> May those be appalled because of their shame",
+                "> Who say to me, “Aha, aha!”"
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> May all who seek You rejoice and be glad in You;",
+                "> May those who love Your salvation continually say,",
+                "> “The Lord be exalted!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> But I am afflicted and needy;",
+                "> May the Lord be mindful of me.",
+                "> You are my help and my saviour;",
+                "> Do not delay, my God."
+            ]
         }
     ]
 }

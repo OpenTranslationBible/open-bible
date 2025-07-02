@@ -4,124 +4,198 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Now on the sealed document were the names of:",
+                "Nehemiah the governor, the son of Hacaliah, and Zedekiah,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Seraiah, Azariah, Jeremiah,"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Pashhur, Amariah, Malchijah,"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Hattush, Shebaniah, Malluch,"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Harim, Meremoth, Obadiah,"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Daniel, Ginnethon, Baruch,"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Meshullam, Abijah, Mijamin,"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Maaziah, Bilgai, and Shemaiah. These were the priests."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "And the Levites:",
+                "> Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Also their brothers: Shebaniah,",
+                "> Hodiah, Kelita, Pelaiah, Hanan,"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Mica, Rehob, Hashabiah,"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Zaccur, Sherebiah, Shebaniah,"
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> Hodiah, Bani, Beninu."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "The leaders of the people:",
+                "> Parosh, Pahath-moab, Elam, Zattu, Bani,"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> Bunni, Azgad, Bebai,"
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Adonijah, Bigvai, Adin,"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Ater, Hezekiah, Azzur,"
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Hodiah, Hashum, Bezai,"
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Hariph, Anathoth, Nebai,"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Magpiash, Meshullam, Hezir,"
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> Meshezabel, Zadok, Jaddua,"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Pelatiah, Hanan, Anaiah,"
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Hoshea, Hananiah, Hasshub,"
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> Hallohesh, Pilha, Shobek,"
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> Rehum, Hashabnah, Maaseiah,"
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> Ahiah, Hanan, Anan,"
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "> Malluch, Harim, Baanah."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "Now the rest of the people,the priests, the Levites, the gatekeepers, the singers, the temple servants,and all those who had separated themselves from the peoples of the lands to the Law of God,their wives, their sons and daughters, all those who had knowledge and understanding,"
+            ]
         },
         {
             "verse": 29,
+            "text": [
+                "are joining with their relatives, their nobles,and are taking on themselves a curse and an oath to walk in God's Law,which was given through Moses, God’s servant,and to keep and to comply with all the commandments of God our Lord,and His ordinances and His statutes;"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -129,21 +203,38 @@
         {
             "verse": 30,
             "text": [
+                "and that we will not give our daughters to the peoples of the landor take their daughters for our sons."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 31,
             "text": [
+                "As for the peoples of the land who bring wares or any grain on the Sabbath day to sell,we will not buy from them on the Sabbath or on a holy day;and we will forego the crops of the seventh year and the collection of every debt."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "We also placed ourselves under obligation to contribute yearly one-third of a shekelfor the service of the house of our God:"
+            ]
         },
         {
             "verse": 33,
+            "text": [
+                "for the showbread, for the continual grain offering, for the continual burnt offering,the Sabbaths, the new moons, for the appointed times, for the holy offerings,and for the sin offerings to make atonement for Israel,and all the work of the house of our God."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -151,31 +242,57 @@
         {
             "verse": 34,
             "text": [
+                "Likewise we cast lots for the supply of wood among the priests, the Levites, and the people,in order to bring it to the house of our God annually,at the appointed times, to burn on the altar of the Lord our God, as it is written in the Law;"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "and so that they would bring the first fruits of our ground and the first fruits of all the fruitof every tree to the house of the Lord annually,"
+            ]
         },
         {
             "verse": 36,
+            "text": [
+                "and bring to the house of our God the firstborn of our sons and of our livestock,as it is written in the Law,and the firstborn of our herds and our flocksto the priests who serve in the house of our God."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "We will also bring the first of our dough, our contributions,the fruit of every tree, the new wine, and the oil to the priestsat the chambers of the house of our God,and the tithe of our ground to the Levites,for the Levites are the ones who receive the tithes in all the rural towns."
+            ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "And the priest, the son of Aaron, shall be with the Levites when the Levites receive tithes,and the Levites shall bring one-tenth of the tithesto the house of our God, to the chambers of the storehouse."
+            ]
         },
         {
             "verse": 39,
             "text": [
+                "For the sons of Israel and the sons of Levi shall bring the contribution of the grain,the new wine, and the oil to the chambers;there are the utensils of the sanctuary, the priests who minister,the gatekeepers, and the singers."
+            ]
+        },
+        {
+            "text": [
                 "---"
+            ]
+        },
+        {
+            "text": [
+                "So we will not neglect the house of our God."
             ]
         }
     ]

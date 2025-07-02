@@ -1,52 +1,93 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 75,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> We give thanks to You, God, we give thanks,",
+                "> For Your name is near;",
+                "> People declare Your wondrous works."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “When I select an appointed time,",
+                "> It is I who judge fairly."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> The earth and all who dwell in it shake;",
+                "> It is I who have firmly set its pillars."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> I said to the boastful, ‘Do not boast,’",
+                "> And to the wicked, ‘Do not lift up the horn;"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Do not lift up your horn on high,",
+                "> Do not speak with insolent pride.’”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> For not from the east, nor from the west,",
+                "> Nor from the desert comes exaltation;"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> But God is the Judge;",
+                "> He puts down one and exalts another."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> For a cup is in the hand of the Lord, and the wine foams;",
+                "> It is well mixed, and He pours out of it;",
+                "> Certainly all the wicked of the earth must drain and drink its dregs."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> But as for me, I will declare it forever;",
+                "> I will sing praises to the God of Jacob."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> And He will cut off all the horns of the wicked,",
+                "> But the horns of the righteous will be lifted up."
+            ]
         }
     ]
 }

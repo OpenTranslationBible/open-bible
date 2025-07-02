@@ -1,62 +1,112 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 30,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I will exalt You, Lord, for You have lifted me up,",
+                "> And have not let my enemies rejoice over me."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Lord my God,",
+                "> I cried to You for help, and You healed me."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Lord, You have brought up my soul from Sheol;",
+                "> You have kept me alive, that I would not go down to the pit."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Sing praise to the Lord, you His godly ones,",
+                "> And praise the mention of His holiness."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> For His anger is but for a moment,",
+                "> His favour is for a lifetime;",
+                "> Weeping may last for the night,",
+                "> But a shout of joy comes in the morning."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Now as for me, I said in my prosperity,",
+                "> “I will never be moved.”"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> Lord, by Your favour You have made my mountain to stand strong;",
+                "> You hid Your face, I was dismayed."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> To You, Lord, I called,",
+                "> And I pleaded with the Lord:"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> “What gain is there in my blood, if I go down to the pit?",
+                "> Will the dust praise You? Will it declare Your faithfulness?"
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> Hear, Lord, and be gracious to me;",
+                "> Lord, be my helper.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> You have turned my mourning into dancing for me;",
+                "> You have untied my sackcloth and encircled me with joy,"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> That my soul may sing praise to You and not be silent.",
+                "> Lord my God, I will give thanks to You forever."
+            ]
         }
     ]
 }

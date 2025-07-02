@@ -1,106 +1,156 @@
 {
-  "book": "Genesis",
-  "chapter": 2,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "So the heavens and the earth, and all their vast array, were finished."
-    },
-    {
-      "verse": 2,
-      "text": "By the seventh day, God had completed His work, and He rested from all His labour."
-    },
-    {
-      "verse": 3,
-      "text": "God blessed the seventh day and made it sacred, because on it He rested from all the work He had done in creation."
-    },
-    {
-      "verse": 4,
-      "text": "This is the account of the heavens and the earth when they were created, when the Lord God made the earth and the heavens."
-    },
-    {
-      "verse": 5,
-      "text": "Now no shrub or plant had yet sprung up, because the Lord God had not caused it to rain, and there was no one to till the soil."
-    },
-    {
-      "verse": 6,
-      "text": "Instead, streams came up from the earth and watered the whole surface of the ground."
-    },
-    {
-      "verse": 7,
-      "text": "Then the Lord God formed the man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being."
-    },
-    {
-      "verse": 8,
-      "text": "And the Lord God planted a garden in Eden, in the east, and there He placed the man He had formed."
-    },
-    {
-      "verse": 9,
-      "text": "Out of the ground the Lord God made every kind of tree grow\u2014pleasant to the sight and good for food. The tree of life was in the middle of the garden, and also the tree of the knowledge of good and evil."
-    },
-    {
-      "verse": 10,
-      "text": "A river flowed from Eden to water the garden, and from there it divided into four branches."
-    },
-    {
-      "verse": 11,
-      "text": "The name of the first is Pishon; it flows through the whole land of Havilah, where there is gold."
-    },
-    {
-      "verse": 12,
-      "text": "The gold of that land is pure; aromatic resin and onyx stone are also found there."
-    },
-    {
-      "verse": 13,
-      "text": "The name of the second river is Gihon; it winds through the entire land of Cush."
-    },
-    {
-      "verse": 14,
-      "text": "The third river is the Tigris; it runs along the east side of Assyria. And the fourth river is the Euphrates."
-    },
-    {
-      "verse": 15,
-      "text": "The Lord God took the man and placed him in the Garden of Eden to work it and take care of it."
-    },
-    {
-      "verse": 16,
-      "text": "And the Lord God commanded the man, saying, \u201cYou are free to eat from any tree of the garden,"
-    },
-    {
-      "verse": 17,
-      "text": "but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will surely die.\u201d"
-    },
-    {
-      "verse": 18,
-      "text": "Then the Lord God said, \u201cIt is not good for the man to be alone. I will make a helper suitable for him.\u201d"
-    },
-    {
-      "verse": 19,
-      "text": "Now the Lord God had formed out of the ground every beast of the field and every bird of the sky. He brought them to the man to see what he would call them, and whatever the man called each living creature, that was its name."
-    },
-    {
-      "verse": 20,
-      "text": "So the man gave names to all the livestock, birds of the sky, and wild animals. But for Adam, no suitable helper was found."
-    },
-    {
-      "verse": 21,
-      "text": "So the Lord God caused a deep sleep to fall upon the man, and while he slept, He took one of the man\u2019s ribs and closed up the place with flesh."
-    },
-    {
-      "verse": 22,
-      "text": "Then the Lord God fashioned the rib into a woman and brought her to the man."
-    },
-    {
-      "verse": 23,
-      "text": "And the man said, \u201cThis one, at last, is bone of my bones and flesh of my flesh; she shall be called \u2018woman,\u2019 for she was taken out of man.\u201d"
-    },
-    {
-      "verse": 24,
-      "text": "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."
-    },
-    {
-      "verse": 25,
-      "text": "And the man and his wife were both naked and felt no shame."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "So the heavens and the earth, and all their vast array, were finished."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "By the seventh day, God had completed His work, and He rested from all His labour."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "God blessed the seventh day and made it sacred, because on it He rested from all the work He had done in creation."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "This is the account of the heavens and the earth when they were created, when the Lord God made the earth and the heavens."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Now no shrub or plant had yet sprung up, because the Lord God had not caused it to rain, and there was no one to till the soil."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Instead, streams came up from the earth and watered the whole surface of the ground."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then the Lord God formed the man from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "And the Lord God planted a garden in Eden, in the east, and there He placed the man He had formed."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Out of the ground the Lord God made every kind of tree grow—pleasant to the sight and good for food. The tree of life was in the middle of the garden, and also the tree of the knowledge of good and evil."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "A river flowed from Eden to water the garden, and from there it divided into four branches."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The name of the first is Pishon; it flows through the whole land of Havilah, where there is gold."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The gold of that land is pure; aromatic resin and onyx stone are also found there."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "The name of the second river is Gihon; it winds through the entire land of Cush."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "The third river is the Tigris; it runs along the east side of Assyria. And the fourth river is the Euphrates."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "The Lord God took the man and placed him in the Garden of Eden to work it and take care of it."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "And the Lord God commanded the man, saying, “You are free to eat from any tree of the garden,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "but you must not eat from the tree of the knowledge of good and evil, for when you eat from it you will surely die.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Then the Lord God said, “It is not good for the man to be alone. I will make a helper suitable for him.”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Now the Lord God had formed out of the ground every beast of the field and every bird of the sky. He brought them to the man to see what he would call them, and whatever the man called each living creature, that was its name."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "So the man gave names to all the livestock, birds of the sky, and wild animals. But for Adam, no suitable helper was found."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "So the Lord God caused a deep sleep to fall upon the man, and while he slept, He took one of the man’s ribs and closed up the place with flesh."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Then the Lord God fashioned the rib into a woman and brought her to the man."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "And the man said, “This one, at last, is bone of my bones and flesh of my flesh; she shall be called ‘woman,’ for she was taken out of man.”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "For this reason a man will leave his father and mother and be united to his wife, and they will become one flesh."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "And the man and his wife were both naked and felt no shame."
+            ]
+        }
+    ]
 }

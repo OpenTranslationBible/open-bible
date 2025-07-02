@@ -1,23 +1,47 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 28,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> To You, Lord, I call;",
+                "> My rock, do not be deaf to me,",
+                "> For if You are silent to me,",
+                "> I will become like those who go down to the pit."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Hear the sound of my pleadings when I cry to You for help,",
+                "> When I raise my hands toward Your holy sanctuary."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Do not drag me away with the wicked",
+                "> And with those who practice injustice,",
+                "> Who speak peace with their neighbours,",
+                "> While evil is in their hearts."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Give back to them according to their work",
+                "> And according to the evil of their practices;",
+                "> Give back to them according to the work of their hands;",
+                "> Repay them what is due them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -25,24 +49,45 @@
         {
             "verse": 5,
             "text": [
+                "> Because they do not regard the works of the Lord",
+                "> Nor the deeds of His hands,",
+                "> He will tear them down and not build them up."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Blessed be the Lord,",
+                "> Because He has heard the sound of my pleading."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> The Lord is my strength and my shield;",
+                "> My heart trusts in Him, and I am helped;",
+                "> Therefore my heart triumphs,",
+                "> And with my song I shall thank Him."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The Lord is their strength,",
+                "> And He is a refuge of salvation to His anointed."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Save Your people and bless Your inheritance;",
+                "> Be their shepherd also, and carry them forever."
+            ]
         }
     ]
 }

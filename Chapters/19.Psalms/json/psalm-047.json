@@ -1,48 +1,86 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 47,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Clap your hands, all you peoples;",
+                "> Shout to God with a voice of joy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> For the Lord Most High is to be feared,",
+                "> A great King over all the earth."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> He subdues peoples under us",
+                "> And nations under our feet."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> He chooses our inheritance for us,",
+                "> The pride of Jacob whom He loves."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> God has ascended with a shout,",
+                "> The Lord, with the sound of a trumpet."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Sing praises to God, sing praises;",
+                "> Sing praises to our King, sing praises."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> For God is the King of all the earth;",
+                "> Sing praises with a psalm of wisdom."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> God reigns over the nations,",
+                "> God sits on His holy throne."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> The princes of the peoples have assembled",
+                "> As the people of the God of Abraham,",
+                "> For the shields of the earth belong to God;",
+                "> He is highly exalted."
+            ]
         }
     ]
 }

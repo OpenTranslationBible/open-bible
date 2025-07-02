@@ -1,27 +1,50 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 15,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Lord, who may reside in Your tent?",
+                "> Who may settle on Your holy hill?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> One who walks with integrity, practices righteousness,",
+                "> And speaks truth in his heart."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> He does not slander with his tongue,",
+                "> Nor do evil to his neighbour,",
+                "> Nor bring shame on his friend;"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> In his eyes a despicable person is despised,",
+                "> But he honours those who fear the Lord;",
+                "> He takes an oath to his own detriment, and does not change;"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> He does not lend his money at interest,",
+                "> Nor does he take a bribe against the innocent."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]

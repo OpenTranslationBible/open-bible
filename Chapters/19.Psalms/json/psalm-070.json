@@ -1,30 +1,54 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 70,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> God, hurry to save me;",
+                "> Lord, hurry to help me!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> May those who seek my life be put to shame and humiliated;",
+                "> May those who delight in my harm be turned back and dishonoured."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> May those who say, “Aha, aha!” be turned back",
+                "> Because of their shame."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> May all who seek You rejoice and be glad in You;",
+                "> And may those who love Your salvation continually say,",
+                "> “May God be exalted!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> But I am afflicted and needy;",
+                "> Hasten to me, God!",
+                "> You are my help and my saviour;",
+                "> Lord, do not delay."
+            ]
         }
     ]
 }

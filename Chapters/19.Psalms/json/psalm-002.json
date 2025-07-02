@@ -1,60 +1,108 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 2,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Why are the nations restless,",
+                "> And the peoples plotting in vain?"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> The kings of the earth take their stand,",
+                "> And the rulers conspire together",
+                "> Against the Lord and against His Anointed, saying,"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> “Let’s tear their shackles apart,",
+                "> And throw their ropes away from us!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> He who sits in the heavens laughs,",
+                "> The Lord scoffs at them."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Then He will speak to them in His anger,",
+                "> And terrify them in His fury, saying,"
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> “But as for Me, I have installed My King",
+                "> Upon Zion, My holy mountain.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "I will proclaim the decree of the Lord:",
+                "> He said to Me, “You are My Son,",
+                "> Today I have fathered You."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Ask it of Me, and I will certainly give the nations as Your inheritance,",
+                "> And the ends of the earth as Your possession."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> You shall break them with a rod of iron,",
+                "> You shall shatter them like earthenware.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Now then, you kings, use insight;",
+                "> Let yourselves be instructed, you judges of the earth."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Serve the Lord with reverence,",
+                "> And rejoice with trembling."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Kiss the Son, that He not be angry and you perish on the way,",
+                "> For His wrath may be kindled quickly.",
+                "> Blessed are all who take refuge in Him."
+            ]
         }
     ]
 }

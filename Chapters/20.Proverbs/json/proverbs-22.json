@@ -4,118 +4,187 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "A good name is to be more desired than great wealth;Favour is better than silver and gold."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "The rich and the poor have a common bond:The Lord is the Maker of them all."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "The prudent sees evil and hides himself,But the naive go on and are punished for it."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "The reward of humility and the fear of the LordAre riches, honour, and life."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "Thorns and snares are in the way of the perverse;One who guards himself will be far from them."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "Train up a child in the way he should go,Even when he grows older he will not abandon it."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "The rich rules over the poor,And the borrower becomes the lender’s slave."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "One who sows injustice will reap disaster,And the rod of his fury will perish."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "One who is generous will be blessed,Because he gives some of his food to the poor."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "Drive out the scoffer, and contention will go out;Even strife and dishonour will cease."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "One who loves purity of heartAnd whose speech is gracious, the king is his friend."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "The eyes of the Lord protect knowledge,But He overthrows the words of the treacherous person."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "The lazy one says, “There is a lion outside;I will be killed in the streets!”"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "The mouth of an adulterous woman is a deep pit;He who is cursed of the Lord will fall into it."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "Foolishness is bound up in the heart of a child;The rod of discipline will remove it far from him."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "One who oppresses the poor to make more for himself,Or gives to the rich, will only come to poverty."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "Incline your ear and hear the words of the wise,And apply your heart to my knowledge;"
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "For it will be pleasant if you keep them within you,So that they may be ready on your lips."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "So that your trust may be in the Lord,I have taught you today, you indeed."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "Have I not written to you excellent thingsOf counsels and knowledge,"
+            ]
         },
         {
             "verse": 21,
+            "text": [
+                "To make you know the certainty of the words of truth,So that you may correctly answer him who sent you?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "Do not rob the poor because he is poor,And do not crush the needy at the gate;"
+            ]
         },
         {
             "verse": 23,
+            "text": [
+                "For the Lord will plead their caseAnd take the life of those who rob them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "Do not make friends with a person given to anger,Or go with a hot-tempered person,"
+            ]
         },
         {
             "verse": 25,
+            "text": [
+                "Or you will learn his waysAnd find a snare for yourself."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "Do not be among those who give pledges,Among those who become guarantors for debts."
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "If you have nothing with which to repay,Why should your bed be taken from under you?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -123,12 +192,19 @@
         {
             "verse": 28,
             "text": [
+                "Do not move the ancient boundaryWhich your fathers have set."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "Do you see a person skilled in his work?He will stand before kings;He will not stand before obscure people."
+            ]
         }
     ]
 }

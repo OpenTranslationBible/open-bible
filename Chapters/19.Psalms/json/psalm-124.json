@@ -1,40 +1,66 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 124,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> “Had it not been the Lord who was on our side,”",
+                "> Let Israel now say,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “Had it not been the Lord who was on our side",
+                "> When people rose up against us,"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Then they would have swallowed us alive,",
+                "> When their anger was kindled against us;"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Then the waters would have flooded over us,",
+                "> The stream would have swept over our soul;"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Then the raging waters would have swept over our soul.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Blessed be the Lord,",
+                "> Who has not given us to be torn by their teeth."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Our soul has escaped like a bird from the trapper’s snare;",
+                "> The snare is broken and we have escaped."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Our help is in the name of the Lord,",
+                "> Who made heaven and earth."
+            ]
         }
     ]
 }

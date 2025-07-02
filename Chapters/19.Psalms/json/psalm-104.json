@@ -1,162 +1,300 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 104,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Bless the Lord, my soul!",
+                "> Lord my God, You are very great;",
+                "> You are clothed with splendour and majesty,"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Covering Yourself with light as with a cloak,",
+                "> Stretching out heaven like a tent curtain."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> He lays the beams of His upper chambers in the waters;",
+                "> He makes the clouds His chariot;",
+                "> He walks on the wings of the wind;"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> He makes the winds His messengers,",
+                "> Flaming fire His ministers."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> He established the earth upon its foundations,",
+                "> So that it will not totter forever and ever."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> You covered it with the deep as with a garment;",
+                "> The waters were standing above the mountains."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> At Your rebuke they fled,",
+                "> At the sound of Your thunder they hurried away."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The mountains rose, the valleys sank down",
+                "> To the place which You established for them."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> You set a boundary so that they will not pass over,",
+                "> So that they will not return to cover the earth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He sends forth springs in the valleys;",
+                "> They flow between the mountains;"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> They give drink to every animal of the field;",
+                "> The wild donkeys quench their thirst."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Beside them the birds of the heavens dwell;",
+                "> They lift up their voices among the branches."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> He waters the mountains from His upper chambers;",
+                "> The earth is satisfied with the fruit of His works."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> He causes the grass to grow for the cattle,",
+                "> And vegetation for the labour of mankind,",
+                "> So that they may produce food from the earth,"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> And wine, which makes a human heart cheerful,",
+                "> So that he makes his face gleam with oil,",
+                "> And food, which sustains a human heart."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> The trees of the Lord drink their fill,",
+                "> The cedars of Lebanon which He planted,"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Where the birds build their nests,",
+                "> And the stork, whose home is the juniper trees."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> The high mountains are for the wild goats;",
+                "> The cliffs are a refuge for the rock hyrax."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> He made the moon for the seasons;",
+                "> The sun knows the place of its setting."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> You appoint darkness and it becomes night,",
+                "> In which all the animals of the forest prowl about."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> The young lions roar for their prey,",
+                "> And seek their food from God."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> When the sun rises they withdraw,",
+                "> And lie down in their dens."
+            ]
         },
         {
             "verse": 23,
+            "text": [
+                "> A person goes out to his work",
+                "> And to his labour until evening."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> Lord, how many are Your works!",
+                "> In wisdom You have made them all;",
+                "> The earth is full of Your possessions."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> This is the sea, great and broad,",
+                "> In which are swarms without number,",
+                "> Animals both small and great."
+            ]
         },
         {
             "verse": 26,
+            "text": [
+                "> The ships move along there,",
+                "> And Leviathan, which You have formed to play in it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> They all wait for You",
+                "> To give them their food in due season."
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> You give to them, they gather it up;",
+                "> You open Your hand, they are satisfied with good."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> You hide Your face, they are terrified;",
+                "> You take away their breath, they perish",
+                "> And return to their dust."
+            ]
         },
         {
             "verse": 30,
+            "text": [
+                "> You send forth Your Spirit, they are created;",
+                "> And You renew the face of the ground."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> May the glory of the Lord endure forever;",
+                "> May the Lord rejoice in His works;"
+            ]
         },
         {
             "verse": 32,
+            "text": [
+                "> He looks at the earth, and it trembles;",
+                "> He touches the mountains, and they smoke."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> I will sing to the Lord as long as I live;",
+                "> I will sing praise to my God while I have my being."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> May my praise be pleasing to Him;",
+                "> As for me, I shall rejoice in the Lord."
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> May sinners be removed from the earth",
+                "> And may the wicked be no more.",
+                "> Bless the Lord, my soul.",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

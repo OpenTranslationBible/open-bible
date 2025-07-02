@@ -1,82 +1,149 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 86,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Incline Your ear, Lord, and answer me;",
+                "> For I am afflicted and needy."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Protect my soul, for I am godly;",
+                "> You my God, save Your servant who trusts in You."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Be gracious to me, Lord,",
+                "> For I call upon You all day long."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Make the soul of Your servant joyful,",
+                "> For to You, Lord, I lift up my soul."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> For You, Lord, are good, and ready to forgive,",
+                "> And abundant in mercy to all who call upon You."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Listen, Lord, to my prayer;",
+                "> And give Your attention to the sound of my pleading!"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> On the day of my trouble I will call upon You,",
+                "> For You will answer me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> There is no one like You among the gods, Lord,",
+                "> Nor are there any works like Yours."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> All nations whom You have made will come and worship before You, Lord,",
+                "> And they will glorify Your name."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> For You are great, and You do wondrous deeds;",
+                "> You alone are God."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Teach me Your way, Lord;",
+                "> I will walk in Your truth;",
+                "> Unite my heart to fear Your name."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> I will give thanks to You, Lord my God, with all my heart,",
+                "> And I will glorify Your name forever."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> For Your mercy toward me is great,",
+                "> And You have saved my soul from the depths of Sheol."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> God, arrogant men have risen up against me,",
+                "> And a gang of violent men have sought my life,",
+                "> And they have not set You before them."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> But You, Lord, are a compassionate and gracious God,",
+                "> Slow to anger and abundant in mercy and truth."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Turn to me, and be gracious to me;",
+                "> Grant Your strength to Your servant,",
+                "> And save the son of Your maidservant."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Show me a sign of good,",
+                "> That those who hate me may see it and be ashamed,",
+                "> Because You, Lord, have helped me and comforted me."
+            ]
         }
     ]
 }

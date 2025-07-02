@@ -1,64 +1,114 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 21,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Lord, the king will rejoice in Your strength,",
+                "> And how greatly he will rejoice in Your salvation!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> You have given him his heart’s desire,",
+                "> And You have not withheld the request of his lips."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> For You meet him with the blessings of good things;",
+                "> You set a crown of pure gold on his head."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> He asked for life from You, You gave it to him,",
+                "> Length of days forever and ever."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> His glory is great through Your salvation,",
+                "> Splendour and majesty You place upon him."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> For You make him most blessed forever;",
+                "> You make him joyful with the joy of Your presence."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> For the king trusts in the Lord,",
+                "> And through the faithfulness of the Most High he will not be shaken."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Your hand will find all your enemies;",
+                "> Your right hand will find those who hate you."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> You will make them as a fiery oven in the time of your anger;",
+                "> The Lord will swallow them up in His wrath,",
+                "> And fire will devour them."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> You will eliminate their descendants from the earth,",
+                "> And their children from among the sons of mankind."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Though they intended evil against You",
+                "> And devised a plot,",
+                "> They will not succeed."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> For You will make them turn their back;",
+                "> You will take aim at their faces with Your bowstrings."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Be exalted, Lord, in Your strength;",
+                "> We will sing and praise Your power."
+            ]
         }
     ]
 }

@@ -1,68 +1,127 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 56,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Be gracious to me, God, for a man has trampled upon me;",
+                "> Fighting all day long he oppresses me."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> My enemies have trampled upon me all day long,",
+                "> For they are many who fight proudly against me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> When I am afraid,",
+                "> I will put my trust in You."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> In God, whose word I praise,",
+                "> In God I have put my trust; I shall not be afraid.",
+                "> What can mere mortals do to me?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> All day long they distort my words;",
+                "> All their thoughts are against me for evil."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> They attack, they lurk,",
+                "> They watch my steps,",
+                "> Just as they have waited to take my life."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> Because of their wickedness, will there be an escape for them?",
+                "> In anger make the peoples fall down, God!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> You have taken account of my miseries;",
+                "> Put my tears in Your bottle.",
+                "> Are they not in Your book?"
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> Then my enemies will turn back on the day when I call;",
+                "> This I know, that God is for me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> In God, whose word I praise,",
+                "> In the Lord, whose word I praise,"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> In God I have put my trust, I shall not be afraid.",
+                "> What can mankind do to me?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Your vows are binding upon me, God;",
+                "> I will render thanksgiving offerings to You."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> For You have saved my soul from death,",
+                "> Indeed my feet from stumbling,",
+                "> So that I may walk before God",
+                "> In the light of the living."
+            ]
         }
     ]
 }

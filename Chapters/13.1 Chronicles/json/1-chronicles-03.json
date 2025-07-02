@@ -4,14 +4,27 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Now these were the sons of David who were born to him in Hebron:",
+                "> The firstborn was Amnon, by Ahinoam the Jezreelitess;",
+                "> the second was Daniel, by Abigail the Carmelitess;"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> the third was Absalom, the son of Maacah, daughter of Talmai king of Geshur;",
+                "> the fourth was Adonijah, the son of Haggith;"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> the fifth was Shephatiah, by Abital;",
+                "> the sixth was Ithream, by Eglah his wife."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -19,23 +32,40 @@
         {
             "verse": 4,
             "text": [
+                "Six were born to him in Hebron, and there he reigned seven years and six months.And in Jerusalem he reigned thirty-three years."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "These were born to him in Jerusalem:",
+                "> Shimea, Shobab, Nathan, and Solomon—four by Bath-shua the daughter of Ammiel—"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> and Ibhar, Elishama, Eliphelet,"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Nogah, Nepheg, and Japhia,"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Elishama, Eliada, and Eliphelet—nine in all."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -43,27 +73,56 @@
         {
             "verse": 9,
             "text": [
+                "All these were the sons of David, besides the sons of the concubines;",
+                "> and Tamar was their sister."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "Now Solomon’s son was Rehoboam,",
+                "> Abijah was his son,",
+                "> Asa his son,",
+                "> Jehoshaphat his son,"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Joram his son,",
+                "> Ahaziah his son,",
+                "> Joash his son,"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Amaziah his son,",
+                "> Azariah his son,",
+                "> Jotham his son,"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Ahaz his son,",
+                "> Hezekiah his son,",
+                "> Manasseh his son,"
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> Amon his son,",
+                "> Josiah his son."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -71,31 +130,65 @@
         {
             "verse": 15,
             "text": [
+                "The sons of Josiah were:",
+                "> Johanan the firstborn,",
+                "> the second Jehoiakim,",
+                "> the third Zedekiah,",
+                "> the fourth Shallum."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
             "text": [
+                "The sons of Jehoiakim were:",
+                "> Jeconiah his son,",
+                "> Zedekiah his son."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "The sons of Jeconiah, the prisoner, were:",
+                "> Shealtiel his son,"
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> and Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "The sons of Pedaiah were:",
+                "> Zerubbabel and Shimei.",
+                "> And the sons of Zerubbabel were:",
+                "> Meshullam and Hananiah, and Shelomith was their sister;"
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "> and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five in all."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -103,11 +196,28 @@
         {
             "verse": 21,
             "text": [
+                "The sons of Hananiah were:",
+                "> Pelatiah and Jeshaiah,",
+                "> the sons of Rephaiah,",
+                "> the sons of Arnan,",
+                "> the sons of Obadiah,",
+                "> and the sons of Shecaniah."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
+            "text": [
+                "The descendants of Shecaniah were:",
+                "> Shemaiah,",
+                "> and the sons of Shemaiah: Hattush, Igal, Bariah, Neariah, and Shaphat—six in all."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -115,12 +225,21 @@
         {
             "verse": 23,
             "text": [
+                "The sons of Neariah were:",
+                "> Elioenai, Hizkiah, and Azrikam—three in all."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "The sons of Elioenai were:",
+                "> Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all."
+            ]
         }
     ]
 }

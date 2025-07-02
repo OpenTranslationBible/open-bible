@@ -1,86 +1,126 @@
 {
-  "book": "Genesis",
-  "chapter": 23,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Sarah lived to be 127 years old."
-    },
-    {
-      "verse": 2,
-      "text": "She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her."
-    },
-    {
-      "verse": 3,
-      "text": "Then Abraham rose from beside his dead wife and spoke to the Hittites."
-    },
-    {
-      "verse": 4,
-      "text": "\u201cI am a foreigner and stranger among you. Sell me some property for a burial site so I can bury my dead.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "The Hittites replied to Abraham,"
-    },
-    {
-      "verse": 6,
-      "text": "\u201cSir, listen to us. You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.\u201d"
-    },
-    {
-      "verse": 7,
-      "text": "Then Abraham rose and bowed down before the people of the land, the Hittites."
-    },
-    {
-      "verse": 8,
-      "text": "He said to them, \u201cIf you are willing to let me bury my dead, listen to me and intercede with Ephron son of Zohar on my behalf."
-    },
-    {
-      "verse": 9,
-      "text": "So he will sell me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "Ephron the Hittite was sitting among his people and he replied to Abraham in the hearing of all the Hittites who had come to the gate of the city."
-    },
-    {
-      "verse": 11,
-      "text": "\u201cNo, my lord,\u201d he said. \u201cListen to me; I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.\u201d"
-    },
-    {
-      "verse": 12,
-      "text": "Again Abraham bowed down before the people of the land."
-    },
-    {
-      "verse": 13,
-      "text": "And he said to Ephron in their hearing, \u201cListen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "Ephron answered Abraham,"
-    },
-    {
-      "verse": 15,
-      "text": "\u201cListen to me, my lord; the land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.\u201d"
-    },
-    {
-      "verse": 16,
-      "text": "Abraham agreed to Ephron\u2019s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard used by the merchants."
-    },
-    {
-      "verse": 17,
-      "text": "So Ephron\u2019s field in Machpelah near Mamre\u2014the field and the cave in it, and all the trees within the borders of the field\u2014was legally transferred"
-    },
-    {
-      "verse": 18,
-      "text": "to Abraham as his property in the presence of all the Hittites who had come to the gate of the city."
-    },
-    {
-      "verse": 19,
-      "text": "Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (that is, Hebron) in the land of Canaan."
-    },
-    {
-      "verse": 20,
-      "text": "So the field and the cave in it were deeded to Abraham by the Hittites as a burial site."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 23,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Sarah lived to be 127 years old."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then Abraham rose from beside his dead wife and spoke to the Hittites."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "“I am a foreigner and stranger among you. Sell me some property for a burial site so I can bury my dead.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The Hittites replied to Abraham,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "“Sir, listen to us. You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then Abraham rose and bowed down before the people of the land, the Hittites."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "He said to them, “If you are willing to let me bury my dead, listen to me and intercede with Ephron son of Zohar on my behalf."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "So he will sell me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ephron the Hittite was sitting among his people and he replied to Abraham in the hearing of all the Hittites who had come to the gate of the city."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "“No, my lord,” he said. “Listen to me; I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Again Abraham bowed down before the people of the land."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "And he said to Ephron in their hearing, “Listen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Ephron answered Abraham,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "“Listen to me, my lord; the land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard used by the merchants."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "So Ephron’s field in Machpelah near Mamre—the field and the cave in it, and all the trees within the borders of the field—was legally transferred"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "to Abraham as his property in the presence of all the Hittites who had come to the gate of the city."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (that is, Hebron) in the land of Canaan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "So the field and the cave in it were deeded to Abraham by the Hittites as a burial site."
+            ]
+        }
+    ]
 }

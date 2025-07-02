@@ -1,46 +1,86 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 137,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> By the rivers of Babylon,",
+                "> There we sat down and wept,",
+                "> When we remembered Zion."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Upon the willows in the midst of it",
+                "> We hung our harps."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> For there our captors demanded of us songs,",
+                "> And our tormentors, mirth, saying,",
+                "> “Sing us one of the songs of Zion!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> How can we sing the Lord’s song",
+                "> In a foreign land?"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> If I forget you, Jerusalem,",
+                "> May my right hand forget its skill."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> May my tongue cling to the roof of my mouth",
+                "> If I do not remember you,",
+                "> If I do not exalt Jerusalem",
+                "> Above my chief joy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Remember, Lord, against the sons of Edom",
+                "> The day of Jerusalem,",
+                "> Those who said, “Lay it bare, lay it bare",
+                "> To its foundation!”"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Daughter of Babylon, you devastated one,",
+                "> Blessed will be the one who repays you",
+                "> With the retribution with which you have repaid us."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Blessed will be the one who seizes and dashes your children",
+                "> Against the rock."
+            ]
         }
     ]
 }

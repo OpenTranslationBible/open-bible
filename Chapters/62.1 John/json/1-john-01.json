@@ -4,43 +4,63 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "What was from the beginning, what we have heard, what we have seen with our eyes, what we have looked at and touched with our hands, concerning the Word of Life—"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "and the life was revealed, and we have seen and testify and proclaim to you the eternal life, which was with the Father and was revealed to us—"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "what we have seen and heard we proclaim to you also, so that you too may have fellowship with us; and indeed our fellowship is with the Father, and with His Son Jesus Christ."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "These things we write, so that our joy may be made complete."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "This is the message we have heard from Him and announce to you, that God is Light, and in Him there is no darkness at all."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "If we say that we have fellowship with Him and yet walk in the darkness, we lie and do not practice the truth;"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "but if we walk in the Light as He Himself is in the Light, we have fellowship with one another, and the blood of Jesus His Son cleanses us from all sin."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "If we say that we have no sin, we are deceiving ourselves and the truth is not in us."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "If we confess our sins, He is faithful and righteous, so that He will forgive us our sins and cleanse us from all unrighteousness."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "If we say that we have not sinned, we make Him a liar and His word is not in us."
+            ]
         }
     ]
 }

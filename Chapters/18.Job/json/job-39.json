@@ -4,133 +4,239 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> “Do you know the time the mountain goats give birth?",
+                "> Do you observe the calving of the deer?"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Can you count the months they fulfil,",
+                "> Or do you know the time they give birth?"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> They kneel down, they deliver their young,",
+                "> They get rid of their labour pains."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Their offspring become strong, they grow up in the open field;",
+                "> They leave and do not return to them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Who sent the wild donkey out free?",
+                "> And who opened the bonds of the swift donkey,"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> To whom I gave the wilderness as a home,",
+                "> And the salt land as his dwelling place?"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He laughs at the turmoil of the city,",
+                "> He does not hear the shouting of the taskmaster."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> He explores the mountains for his pasture,",
+                "> And searches after every green thing."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Will the wild ox be willing to serve you,",
+                "> Or will he spend the night at your feeding trough?"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Can you tie down the wild ox in a furrow with ropes,",
+                "> Or will he plough the valleys after you?"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Will you trust him because his strength is great,",
+                "> And leave your labour to him?"
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> Will you have faith in him that he will return your grain,",
+                "> And gather it from your threshing floor?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> “The wings of the ostrich flap joyously,",
+                "> With the pinion and feathers of love,"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> For she abandons her eggs to the earth,",
+                "> And warms them in the dust,"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> And she forgets that a foot may crush them,",
+                "> Or that a wild animal may trample them."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> She treats her young cruelly, as if they were not hers;",
+                "> Though her labour is for nothing, she is unconcerned,"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Because God has made her forget wisdom,",
+                "> And has not given her a share of understanding."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> When she rushes away on high,",
+                "> She laughs at the horse and his rider."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> “Do you give the horse his might?",
+                "> Do you clothe his neck with a mane?"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Do you make him leap like locusts?",
+                "> His majestic snorting is frightening."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> He paws in the valley, and rejoices in his strength;",
+                "> He goes out to meet the battle."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> He laughs at fear and is not dismayed;",
+                "> And he does not turn back from the sword."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> The quiver rattles against him,",
+                "> The flashing spear and javelin."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> He races over the ground with a roar and fury,",
+                "> And he does not stand still at the voice of the trumpet."
+            ]
         },
         {
             "verse": 25,
+            "text": [
+                "> As often as the trumpet sounds he says, ‘Aha!’",
+                "> And he senses the battle from afar,",
+                "> And the thunder of the captains and the war cry."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> “Is it by your understanding that the hawk takes flight,",
+                "> Stretching his wings toward the south?"
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> Is it at your command that the eagle flies high,",
+                "> And makes his nest on high?"
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> He dwells and spends his nights on the cliff,",
+                "> On the rocky cliff, an inaccessible place."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> From there he tracks food;",
+                "> His eyes look at it from afar."
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> His young ones also lick up blood greedily;",
+                "> And where the slain are, there he is.”"
+            ]
         }
     ]
 }

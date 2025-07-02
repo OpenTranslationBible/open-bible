@@ -1,130 +1,192 @@
 {
-  "book": "Genesis",
-  "chapter": 34,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land."
-    },
-    {
-      "verse": 2,
-      "text": "When Shechem son of Hamor the Hivite, the ruler of that area, saw her, he took her and raped her."
-    },
-    {
-      "verse": 3,
-      "text": "His heart was drawn to Dinah daughter of Jacob; he loved the young woman and spoke tenderly to her."
-    },
-    {
-      "verse": 4,
-      "text": "And Shechem said to his father Hamor, \u201cGet me this girl as my wife.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with his livestock; so he did nothing until they came home."
-    },
-    {
-      "verse": 6,
-      "text": "Then Shechem\u2019s father Hamor went out to talk with Jacob."
-    },
-    {
-      "verse": 7,
-      "text": "Meanwhile, Jacob\u2019s sons had come in from the fields. When they heard what had happened, they were deeply grieved and furious, because Shechem had done an outrageous thing in Israel by violating Jacob\u2019s daughter\u2014a thing that should not be done."
-    },
-    {
-      "verse": 8,
-      "text": "But Hamor said to them, \u201cMy son Shechem has his heart set on your daughter. Please give her to him as his wife."
-    },
-    {
-      "verse": 9,
-      "text": "Intermarry with us; give us your daughters and take our daughters for yourselves."
-    },
-    {
-      "verse": 10,
-      "text": "You can settle among us; the land is open to you. Live in it, trade in it, and acquire property in it.\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "Then Shechem said to Dinah\u2019s father and brothers, \u201cLet me find favour in your eyes, and I will give you whatever you ask."
-    },
-    {
-      "verse": 12,
-      "text": "Make the price for the bride as high as you like, and I\u2019ll pay whatever you ask me. Only give me the young woman as my wife.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "Because their sister Dinah had been defiled, Jacob\u2019s sons replied deceitfully as they spoke to Shechem and his father Hamor."
-    },
-    {
-      "verse": 14,
-      "text": "They said to them, \u201cWe can\u2019t do such a thing; we can\u2019t give our sister to a man who is not circumcised. That would be a disgrace to us."
-    },
-    {
-      "verse": 15,
-      "text": "We will enter into an agreement with you on one condition only: that you become like us by circumcising all your males."
-    },
-    {
-      "verse": 16,
-      "text": "Then we will give you our daughters and take your daughters for ourselves. We\u2019ll settle among you and become one people with you."
-    },
-    {
-      "verse": 17,
-      "text": "But if you will not agree to be circumcised, we\u2019ll take our sister and go.\u201d"
-    },
-    {
-      "verse": 18,
-      "text": "Their proposal seemed good to Hamor and his son Shechem."
-    },
-    {
-      "verse": 19,
-      "text": "The young man, who was the most honoured of all his father\u2019s family, lost no time in doing what they said, because he was delighted with Jacob\u2019s daughter."
-    },
-    {
-      "verse": 20,
-      "text": "So Hamor and his son Shechem went to the gate of their city to speak to the men of their city."
-    },
-    {
-      "verse": 21,
-      "text": "They said, \u201cThese men are friendly toward us. Let them live in our land and trade in it; the land has plenty of room for them. We can marry their daughters and give them our daughters."
-    },
-    {
-      "verse": 22,
-      "text": "But the men will agree to live with us as one people only on the condition that our males be circumcised, as they themselves are."
-    },
-    {
-      "verse": 23,
-      "text": "Won\u2019t their livestock, their property and all their other animals become ours? So let us agree to their terms, and they will settle among us.\u201d"
-    },
-    {
-      "verse": 24,
-      "text": "All the men who went out of the city gate agreed with Hamor and his son Shechem, and every male in the city was circumcised."
-    },
-    {
-      "verse": 25,
-      "text": "Three days later, while all of them were still in pain, two of Jacob\u2019s sons, Simeon and Levi, Dinah\u2019s brothers, took their swords and attacked the unsuspecting city, killing every male."
-    },
-    {
-      "verse": 26,
-      "text": "They put Hamor and his son Shechem to the sword and took Dinah from Shechem\u2019s house and left."
-    },
-    {
-      "verse": 27,
-      "text": "The sons of Jacob came upon the dead bodies and looted the city where their sister had been defiled."
-    },
-    {
-      "verse": 28,
-      "text": "They seized their flocks and herds and donkeys and everything else of theirs in the city and out in the fields."
-    },
-    {
-      "verse": 29,
-      "text": "They carried off all their wealth and all their women and children, taking as plunder everything in the houses."
-    },
-    {
-      "verse": 30,
-      "text": "Then Jacob said to Simeon and Levi, \u201cYou have brought trouble on me by making me obnoxious to the Canaanites and Perizzites, the people living in this land."
-    },
-    {
-      "verse": 31,
-      "text": "But they replied, \u201cShould he have treated our sister like a prostitute?\u201d"
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 34,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now Dinah, the daughter Leah had borne to Jacob, went out to visit the women of the land."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "When Shechem son of Hamor the Hivite, the ruler of that area, saw her, he took her and raped her."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "His heart was drawn to Dinah daughter of Jacob; he loved the young woman and spoke tenderly to her."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "And Shechem said to his father Hamor, “Get me this girl as my wife.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "When Jacob heard that his daughter Dinah had been defiled, his sons were in the fields with his livestock; so he did nothing until they came home."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then Shechem’s father Hamor went out to talk with Jacob."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Meanwhile, Jacob’s sons had come in from the fields. When they heard what had happened, they were deeply grieved and furious, because Shechem had done an outrageous thing in Israel by violating Jacob’s daughter—a thing that should not be done."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "But Hamor said to them, “My son Shechem has his heart set on your daughter. Please give her to him as his wife."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Intermarry with us; give us your daughters and take our daughters for yourselves."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "You can settle among us; the land is open to you. Live in it, trade in it, and acquire property in it.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Then Shechem said to Dinah’s father and brothers, “Let me find favour in your eyes, and I will give you whatever you ask."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Make the price for the bride as high as you like, and I’ll pay whatever you ask me. Only give me the young woman as my wife.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Because their sister Dinah had been defiled, Jacob’s sons replied deceitfully as they spoke to Shechem and his father Hamor."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "They said to them, “We can’t do such a thing; we can’t give our sister to a man who is not circumcised. That would be a disgrace to us."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "We will enter into an agreement with you on one condition only: that you become like us by circumcising all your males."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Then we will give you our daughters and take your daughters for ourselves. We’ll settle among you and become one people with you."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "But if you will not agree to be circumcised, we’ll take our sister and go.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Their proposal seemed good to Hamor and his son Shechem."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The young man, who was the most honoured of all his father’s family, lost no time in doing what they said, because he was delighted with Jacob’s daughter."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "So Hamor and his son Shechem went to the gate of their city to speak to the men of their city."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "They said, “These men are friendly toward us. Let them live in our land and trade in it; the land has plenty of room for them. We can marry their daughters and give them our daughters."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "But the men will agree to live with us as one people only on the condition that our males be circumcised, as they themselves are."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Won’t their livestock, their property and all their other animals become ours? So let us agree to their terms, and they will settle among us.”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "All the men who went out of the city gate agreed with Hamor and his son Shechem, and every male in the city was circumcised."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Three days later, while all of them were still in pain, two of Jacob’s sons, Simeon and Levi, Dinah’s brothers, took their swords and attacked the unsuspecting city, killing every male."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "They put Hamor and his son Shechem to the sword and took Dinah from Shechem’s house and left."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "The sons of Jacob came upon the dead bodies and looted the city where their sister had been defiled."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "They seized their flocks and herds and donkeys and everything else of theirs in the city and out in the fields."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "They carried off all their wealth and all their women and children, taking as plunder everything in the houses."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Then Jacob said to Simeon and Levi, “You have brought trouble on me by making me obnoxious to the Canaanites and Perizzites, the people living in this land."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "But they replied, “Should he have treated our sister like a prostitute?”"
+            ]
+        }
+    ]
 }

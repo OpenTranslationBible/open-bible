@@ -1,9 +1,16 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 45,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> My heart is moved with a good theme;",
+                "> I address my verses to the King;",
+                "> My tongue is the pen of a ready writer."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -11,61 +18,116 @@
         {
             "verse": 2,
             "text": [
+                "> You are the most handsome of the sons of mankind;",
+                "> Grace is poured upon Your lips;",
+                "> Therefore God has blessed You forever."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Strap Your sword on Your thigh, Mighty One,",
+                "> In Your splendour and majesty!"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> And in Your majesty ride on victoriously,",
+                "> For the cause of truth, humility, and righteousness;",
+                "> Let Your right hand teach You awesome things."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Your arrows are sharp;",
+                "> The peoples fall under You;",
+                "> Your arrows are in the heart of the King’s enemies."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Your throne, God, is forever and ever;",
+                "> The sceptre of Your kingdom is a sceptre of justice."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> You have loved righteousness and hated wickedness;",
+                "> Therefore God, Your God, has anointed You",
+                "> With the oil of joy above Your companions."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> All Your garments are fragrant with myrrh, aloes, and cassia;",
+                "> From ivory palaces stringed instruments have made You joyful."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> Kings’ daughters are among Your noble women;",
+                "> At Your right hand stands the queen in gold from Ophir."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Listen, daughter, look and incline your ear:",
+                "> Forget your people and your father’s house;"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Then the King will crave your beauty.",
+                "> Because He is your Lord, bow down to Him."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> The daughter of Tyre will come with a gift;",
+                "> The wealthy among the people will seek your favour."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> The King’s daughter is all glorious within;",
+                "> Her clothing is interwoven with gold."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> She will be brought to the King in colourful garments;",
+                "> The virgins, her companions who follow her, will be brought to You."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> They will be brought with joy and rejoicing;",
+                "> They will enter into the King’s palace."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -73,12 +135,21 @@
         {
             "verse": 16,
             "text": [
+                "> In place of your fathers will be your sons;",
+                "> You shall make them princes in all the earth."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> I will cause Your name to be remembered in all generations;",
+                "> Therefore the peoples will praise You forever and ever."
+            ]
         }
     ]
 }

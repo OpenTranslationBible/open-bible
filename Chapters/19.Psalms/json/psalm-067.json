@@ -1,38 +1,66 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 67,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God be gracious to us and bless us,",
+                "> And cause His face to shine upon us—"
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> That Your way may be known on the earth,",
+                "> Your salvation among all nations."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> May the peoples praise You, God;",
+                "> May all the peoples praise You."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> May the nations be glad and sing for joy;",
+                "> For You will judge the peoples with fairness",
+                "> And guide the nations on the earth."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> May the peoples praise You, God;",
+                "> May all the peoples praise You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> The earth has yielded its produce;",
+                "> God, our God, blesses us."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> God blesses us,",
+                "> So that all the ends of the earth may fear Him."
+            ]
         }
     ]
 }

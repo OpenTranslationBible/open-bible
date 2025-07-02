@@ -4,185 +4,335 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Then the Lord answered Job from the whirlwind and said,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “Who is this who darkens the divine plan",
+                "> By words without knowledge?"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Now tighten the belt on your waist like a man,",
+                "> And I shall ask you, and you inform Me!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Where were you when I laid the foundation of the earth?",
+                "> Tell Me, if you have understanding,"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Who set its measurements? Since you know.",
+                "> Or who stretched the measuring line over it?"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> On what were its bases sunk?",
+                "> Or who laid its cornerstone,"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> When the morning stars sang together",
+                "> And all the sons of God shouted for joy?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Or who enclosed the sea with doors",
+                "> When it went out from the womb, bursting forth;"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> When I made a cloud its garment,",
+                "> And thick darkness its swaddling bands,"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> And I placed boundaries on it",
+                "> And set a bolt and doors,"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> And I said, ‘As far as this point you shall come, but no farther;",
+                "> And here your proud waves shall stop’?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Have you ever in your life commanded the morning,",
+                "> And made the dawn know its place,"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> So that it would seize the ends of the earth,",
+                "> And the wicked would be shaken off from it?"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> It is changed like clay under the seal;",
+                "> And they stand out like a garment."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> Their light is withheld from the wicked,",
+                "> And the uplifted arm is broken."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Have you entered the springs of the sea,",
+                "> And walked in the depth of the ocean?"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Have the gates of death been revealed to you,",
+                "> And have you seen the gates of deep darkness?"
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> Have you understood the expanse of the earth?",
+                "> Tell Me, if you know all this."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Where is the way to the dwelling of light?",
+                "> And darkness, where is its place,"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> That you would take it to its territory",
+                "> And discern the paths to its home?"
+            ]
         },
         {
             "verse": 21,
+            "text": [
+                "> You know, for you were born then,",
+                "> And the number of your days is great!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Have you entered the storehouses of the snow,",
+                "> And have you seen the storehouses of the hail,"
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Which I have reserved for a time of distress,",
+                "> For a day of war and battle?"
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> Where is the way that the light is divided,",
+                "> And the east wind scattered on the earth?"
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> Who has split a channel for the flood,",
+                "> And a way for the thunderbolt,"
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> To bring rain on a land without people,",
+                "> On a desert without a person in it,"
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> To satisfy the waste and desolate land,",
+                "> And to make the seeds of grass sprout?"
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> Does the rain have a father?",
+                "> Or who has fathered the drops of dew?"
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> From whose womb has come the ice?",
+                "> And the frost of heaven, who has given it birth?"
+            ]
         },
         {
             "verse": 30,
+            "text": [
+                "> Water becomes hard like stone,",
+                "> And the surface of the deep is frozen."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> Can you tie up the chains of the Pleiades,",
+                "> Or untie the cords of Orion?"
+            ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "> Can you bring out a constellation in its season,",
+                "> And guide the Bear with her satellites?"
+            ]
         },
         {
             "verse": 33,
+            "text": [
+                "> Do you know the ordinances of the heavens,",
+                "> Or do you establish their rule over the earth?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> Can you raise your voice to the clouds,",
+                "> So that an abundance of water will cover you?"
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> Can you send flashes of lightning, so that they may go",
+                "> And say to you, ‘Here we are’?"
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "> Who has put wisdom in the innermost being,",
+                "> Or given understanding to the mind?"
+            ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "> Who can count the clouds by wisdom,",
+                "> And pour out the water jars of the heavens,"
+            ]
         },
         {
             "verse": 38,
+            "text": [
+                "> When the dust hardens into a mass",
+                "> And the clods stick together?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "> Can you hunt the prey for the lioness,",
+                "> Or satisfy the appetite of young lions,"
+            ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "> When they crouch in their hiding places,",
+                "> And lie in wait in their lair?"
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> Who prepares feed for the raven,",
+                "> When its young cry to God,",
+                "> And wander about without food?"
+            ]
         }
     ]
 }

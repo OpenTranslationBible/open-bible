@@ -1,58 +1,103 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 60,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God, You have rejected us. You have broken us;",
+                "> You have been angry; restore us."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> You have made the land quake, You have split it open;",
+                "> Heal its cracks, for it totters."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> You have made Your people experience hardship;",
+                "> You have given us wine to drink that makes us stagger."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> You have given a banner to those who fear You,",
+                "> So that it may be displayed because of the truth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> So that Your beloved may be rescued,",
+                "> Save with Your right hand, and answer us!"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> God has spoken in His holiness:",
+                "> “I will triumph, I will divide Shechem,",
+                "> And measure out the Valley of Succoth."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Gilead is Mine, and Manasseh is Mine;",
+                "> Ephraim also is the helmet of My head;",
+                "> Judah is My sceptre."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Moab is My washbowl;",
+                "> I will throw My sandal over Edom;",
+                "> Shout loud, Philistia, because of Me!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Who will bring me into the fortified city?",
+                "> Who will lead me to Edom?"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Have You Yourself not rejected us, God?",
+                "> And will You not go forth with our armies, God?"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Give us help against the enemy,",
+                "> For rescue by man is worthless."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Through God we will do valiantly,",
+                "> And it is He who will trample down our enemies."
+            ]
         }
     ]
 }

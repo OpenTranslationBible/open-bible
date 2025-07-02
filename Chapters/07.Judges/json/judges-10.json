@@ -5,13 +5,18 @@
         {
             "verse": 1,
             "text": [
-                "After the time of Abimelek, a man of Issachar named Tola son of Puah, the son of Dodo, rose to save Israel. He lived in Shamir, in the hill country of Ephraim."
+                "After the time of Abimelek, a man of Issachar named Tola son of Puah, the son of Dodo, rose to save Israel.He lived in Shamir, in the hill country of Ephraim."
             ]
         },
         {
             "verse": 2,
             "text": [
                 "He led Israel twenty-three years; then he died and was buried in Shamir."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -33,9 +38,14 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 6,
             "text": [
-                "Again the Israelites did evil in the eyes of the Lord. They served the Baals and the Ashtoreths, and the gods of Aram, Sidon, Moab, the Ammonites, and the Philistines. Because they forsook the Lord and no longer served Him,"
+                "Again the Israelites did evil in the eyes of the Lord.They served the Baals and the Ashtoreths, and the gods of Aram, Sidon, Moab, the Ammonites, and the Philistines.Because they forsook the Lord and no longer served Him,"
             ]
         },
         {
@@ -47,13 +57,18 @@
         {
             "verse": 8,
             "text": [
-                "who that year shattered and crushed the Israelites. For eighteen years they oppressed all the Israelites on the east side of the Jordan in Gilead—the land of the Amorites."
+                "who that year shattered and crushed the Israelites.For eighteen years they oppressed all the Israelites on the east side of the Jordan in Gilead—the land of the Amorites."
             ]
         },
         {
             "verse": 9,
             "text": [
                 "The Ammonites also crossed the Jordan to fight against Judah, Benjamin and Ephraim; Israel was in great distress."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -87,6 +102,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 15,
             "text": [
                 "But the Israelites said to the Lord, “We have sinned. Do with us whatever You think best, but please rescue us now.”"
@@ -95,7 +115,12 @@
         {
             "verse": 16,
             "text": [
-                "Then they got rid of the foreign gods among them and served the Lord. And He could bear Israel’s misery no longer."
+                "Then they got rid of the foreign gods among them and served the Lord.And He could bear Israel’s misery no longer."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {

@@ -1,51 +1,92 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 49,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Hear this, all peoples;",
+                "> Listen, all inhabitants of the world,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Both low and high,",
+                "> Rich and poor together."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> My mouth will speak wisdom,",
+                "> And the meditation of my heart will be understanding."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> I will incline my ear to a proverb;",
+                "> I will express my riddle on the harp."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Why should I fear in days of adversity,",
+                "> When the guilt of my foes surrounds me,"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Those who trust in their wealth",
+                "> And boast in the abundance of their riches?"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> No one can by any means redeem another,",
+                "> Or give God a ransom for him—"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> For the redemption of his soul is priceless,",
+                "> And he should cease imagining it forever—"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> So that he might live on eternally,",
+                "> That he might not undergo decay."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> For he sees that even wise people die;",
+                "> The foolish and the stupid alike perish",
+                "> And leave their wealth to others."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> Their inner thought is that their houses are forever",
+                "> And their dwelling places to all generations;",
+                "> They have named their lands after their own names."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -53,42 +94,78 @@
         {
             "verse": 12,
             "text": [
+                "> But man in his splendour will not endure;",
+                "> He is like the animals that perish."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> This is the way of those who are foolish,",
+                "> And of those after them who approve their words."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Like sheep they sink down to Sheol;",
+                "> Death will be their shepherd;",
+                "> And the upright will rule over them in the morning,",
+                "> And their form shall be for Sheol to consume",
+                "> So that they have no lofty home."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> But God will redeem my soul from the power of Sheol,",
+                "> For He will receive me."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Do not be afraid when a person becomes rich,",
+                "> When the splendour of his house is increased;"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> For when he dies, he will take nothing with him;",
+                "> His wealth will not descend after him."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Though while he lives he congratulates himself—",
+                "> And though people praise you when you do well for yourself—"
+            ]
         },
         {
             "verse": 19,
+            "text": [
+                "> He will go to the generation of his fathers;",
+                "> They will never see the light."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Mankind, in its splendour, yet without understanding,",
+                "> Is like the animals that perish."
+            ]
         }
     ]
 }

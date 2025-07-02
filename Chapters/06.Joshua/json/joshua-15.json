@@ -29,7 +29,8 @@
         {
             "verse": 5,
             "text": [
-                "The eastern boundary was the Salt Sea as far as the mouth of the Jordan. The northern boundary started at the bay of the sea at the mouth of the Jordan,"
+                "The eastern boundary was the Salt Sea as far as the mouth of the Jordan.",
+                "The northern boundary started at the bay of the sea at the mouth of the Jordan,"
             ]
         },
         {
@@ -71,7 +72,12 @@
         {
             "verse": 12,
             "text": [
-                "The western boundary was the coastline of the Mediterranean Sea. These were the boundaries of the descendants of Judah, according to their clans."
+                "The western boundary was the coastline of the Mediterranean Sea.These were the boundaries of the descendants of Judah, according to their clans."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -113,7 +119,12 @@
         {
             "verse": 19,
             "text": [
-                "She replied, “Give me a blessing. Since you have given me land in the Negev, give me also springs of water.” So Caleb gave her the upper and lower springs."
+                "She replied, “Give me a blessing. Since you have given me land in the Negev, give me also springs of water.”So Caleb gave her the upper and lower springs."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -125,7 +136,8 @@
         {
             "verse": 21,
             "text": [
-                "The southernmost towns of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, Jagur,"
+                "The southernmost towns of the tribe of Judah in the Negev toward the boundary of Edom were:",
+                "Kabzeel, Eder, Jagur,"
             ]
         },
         {
@@ -195,9 +207,15 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 33,
             "text": [
-                "In the western foothills: Eshtaol, Zorah, Ashnah,"
+                "In the western foothills:",
+                "Eshtaol, Zorah, Ashnah,"
             ]
         },
         {
@@ -216,6 +234,11 @@
             "verse": 36,
             "text": [
                 "Shaaraim, Adithaim, Gederah, and Gederothaim—fourteen towns and their villages."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -249,6 +272,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 42,
             "text": [
                 "Libnah, Ether, Ashan,"
@@ -264,6 +292,11 @@
             "verse": 44,
             "text": [
                 "Keilah, Akzib, and Mareshah—nine towns and their villages."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -285,9 +318,15 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 48,
             "text": [
-                "In the hill country: Shamir, Jattir, Socoh,"
+                "In the hill country:",
+                "Shamir, Jattir, Socoh,"
             ]
         },
         {
@@ -309,6 +348,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 52,
             "text": [
                 "Arab, Dumah, Eshan,"
@@ -324,6 +368,11 @@
             "verse": 54,
             "text": [
                 "Humtah, Kiriath Arba (that is, Hebron), and Zior—nine towns and their villages."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -345,6 +394,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 58,
             "text": [
                 "Halhul, Beth Zur, Gedor,"
@@ -357,21 +411,37 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 60,
             "text": [
                 "Kiriath Baal (that is, Kiriath Jearim) and Rabbah—two towns and their villages."
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 61,
             "text": [
-                "In the wilderness: Beth Arabah, Middin, Secacah,"
+                "In the wilderness:",
+                "Beth Arabah, Middin, Secacah,"
             ]
         },
         {
             "verse": 62,
             "text": [
                 "Nibshan, the City of Salt, and En Gedi—six towns and their villages."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {

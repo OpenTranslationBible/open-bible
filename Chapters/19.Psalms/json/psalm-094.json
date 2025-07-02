@@ -1,108 +1,193 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 94,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, God of vengeance,",
+                "> God of vengeance, shine forth!"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Rise up, Judge of the earth,",
+                "> Pay back retribution to the proud."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> How long, Lord, shall the wicked—",
+                "> How long shall the wicked triumph?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> They pour out words, they speak arrogantly;",
+                "> All who do injustice boast."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> They crush Your people, Lord,",
+                "> And afflict Your inheritance."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> They kill the widow and the stranger,",
+                "> And murder the orphans."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> They have said, “The Lord does not see,",
+                "> Nor does the God of Jacob perceive.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Pay attention, you stupid ones among the people;",
+                "> And when will you understand, foolish ones?"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He who planted the ear, does He not hear?",
+                "> He who formed the eye, does He not see?"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He who disciplines the nations, will He not rebuke,",
+                "> He who teaches mankind knowledge?"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> The Lord knows the thoughts of mankind,",
+                "> That they are a mere breath."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Blessed is the man whom You discipline, Lord,",
+                "> And whom You teach from Your Law,"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> So that You may grant him relief from the days of adversity,",
+                "> Until a pit is dug for the wicked."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> For the Lord will not abandon His people,",
+                "> Nor will He forsake His inheritance."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> For judgment will again be righteous,",
+                "> And all the upright in heart will follow it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Who will stand up for me against evildoers?",
+                "> Who will take his stand for me against those who do injustice?"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> If the Lord had not been my help,",
+                "> My soul would soon have dwelt in the land of silence."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> If I should say, “My foot has slipped,”",
+                "> Your mercy, Lord, will hold me up."
+            ]
         },
         {
             "verse": 19,
+            "text": [
+                "> When my anxious thoughts multiply within me,",
+                "> Your comfort delights my soul."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Can a throne of destruction be allied with You,",
+                "> One which devises mischief by decree?"
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> They band together against the life of the righteous",
+                "> And condemn the innocent to death."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> But the Lord has been my refuge,",
+                "> And my God the rock of my refuge."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> He has brought back their injustice upon them,",
+                "> And He will destroy them in their evil;",
+                "> The Lord our God will destroy them."
+            ]
         }
     ]
 }

@@ -1,53 +1,97 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 74,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God, why have You rejected us forever?",
+                "> Why does Your anger smoke against the sheep of Your pasture?"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Remember Your congregation, which You purchased of old,",
+                "> Which You have redeemed to be the tribe of Your inheritance;",
+                "> And this Mount Zion, where You have dwelt."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Step toward the irreparable ruins;",
+                "> The enemy has damaged everything in the sanctuary."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Your adversaries have roared in the midst of Your meeting place;",
+                "> They have set up their own signs as signs."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> It seems like one bringing up",
+                "> An axe into a forest of trees."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> And now they break down all its carved work",
+                "> With hatchet and hammers."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> They have burned Your sanctuary to the ground;",
+                "> They have defiled the dwelling place of Your name."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> They said in their heart, “Let’s completely subdue them.”",
+                "> They have burned all the meeting places of God in the land."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> We do not see our signs;",
+                "> There is no longer any prophet,",
+                "> Nor is there anyone among us who knows how long."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> How long, God, will the enemy taunt You?",
+                "> Shall the enemy treat Your name with disrespect forever?"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> Why do You withdraw Your hand, even Your right hand?",
+                "> Extend it from Your chest and destroy them!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -55,54 +99,96 @@
         {
             "verse": 12,
             "text": [
+                "> Yet God is my King from long ago,",
+                "> Who performs deeds of salvation in the midst of the earth."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> You divided the sea by Your strength;",
+                "> You broke the heads of the sea monsters in the waters."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> You crushed the heads of Leviathan;",
+                "> You gave him as food for the creatures of the wilderness."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> You broke open springs and torrents;",
+                "> You dried up ever-flowing streams."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Yours is the day, Yours also is the night;",
+                "> You have prepared the light and the sun."
+            ]
         },
         {
             "verse": 17,
+            "text": [
+                "> You have established all the boundaries of the earth;",
+                "> You have created summer and winter."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Remember this, Lord, that the enemy has taunted You,",
+                "> And a foolish people has treated Your name with disrespect."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Do not give the soul of Your turtledove to the wild animal;",
+                "> Do not forget the life of Your afflicted forever."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Consider the covenant;",
+                "> For the dark places of the land are full of the haunts of violence."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> May the oppressed not return dishonoured;",
+                "> May the afflicted and the needy praise Your name."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Arise, God, and plead Your own cause;",
+                "> Remember how the foolish person taunts You all day long."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Do not forget the voice of Your enemies,",
+                "> The uproar of those who rise against You, which ascends continually."
+            ]
         }
     ]
 }

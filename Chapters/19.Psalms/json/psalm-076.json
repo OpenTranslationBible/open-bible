@@ -1,60 +1,106 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 76,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God is known in Judah;",
+                "> His name is great in Israel."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> His tabernacle is in Salem;",
+                "> His dwelling place also is in Zion."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> There He broke the flaming arrows,",
+                "> The shield, the sword, and the weapons of war."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> You are resplendent,",
+                "> More majestic than the mountains full of prey."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The stout-hearted were plundered,",
+                "> They sank into sleep;",
+                "> And none of the warriors could use his hands."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> At Your rebuke, God of Jacob,",
+                "> Both rider and horse were cast into a dead sleep."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> You, You indeed are to be feared,",
+                "> And who may stand in Your presence, once You are angry?"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> You caused judgment to be heard from heaven;",
+                "> The earth feared and was still,"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> When God arose to judgment,",
+                "> To save all the humble of the earth."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> For the wrath of mankind shall praise You;",
+                "> You will encircle Yourself with a remnant of wrath."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Make vows to the Lord your God and fulfill them;",
+                "> All who are around Him are to bring gifts to Him who is to be feared."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> He will cut off the spirit of princes;",
+                "> He is feared by the kings of the earth."
+            ]
         }
     ]
 }

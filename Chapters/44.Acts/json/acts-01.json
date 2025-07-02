@@ -4,117 +4,188 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "The first account I composed, Theophilus, about all that Jesus began to do and teach,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "until the day when He was taken up, after He had given orders by the Holy Spirit to the apostles whom He had chosen."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "To these He also presented Himself alive after His suffering, by many convincing proofs,appearing to them over a period of forty days and speaking of things regarding the kingdom of God."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "Gathering them together, He commanded them not to leave Jerusalem,but to wait for what the Father had promised, “Which,” He said, “you heard of from Me;"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "for John baptized with water, but you will be baptized with the Holy Spirit not many days from now.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "So, when they had come together, they began asking Him, saying,“Lord, is it at this time that You are restoring the kingdom to Israel?”"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "But He said to them,“It is not for you to know periods of time or appointed times which the Father has set by His own authority;"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "but you will receive power when the Holy Spirit has come upon you;and you shall be My witnesses both in Jerusalem, and in all Judea and Samaria, and as far as the remotest part of the earth.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "And after He had said these things, He was lifted up while they were watching, and a cloud took Him up out of their sight."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "And as they were gazing intently into the sky while He was going,then behold, two men in white clothing stood beside them,"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "and they said,“Men of Galilee, why do you stand looking into the sky?This Jesus, who has been taken up from you into heaven,will come in the same way as you have watched Him go into heaven.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "Then they returned to Jerusalem from the mountain called Olivet,which is near Jerusalem, a Sabbath day’s journey away."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "When they had entered the city, they went up to the upstairs room where they were staying,that is, Peter, John, James, and Andrew, Philip and Thomas, Bartholomew and Matthew,James the son of Alphaeus, Simon the Zealot, and Judas the son of James."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "All these were continually devoting themselves with one mind to prayer,along with the women, and Mary the mother of Jesus, and with His brothers."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "At this time Peter stood up among the brothers and sisters(a group of about 120 people was gathered together), and said,"
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "“Brothers, the Scripture had to be fulfilled, which the Holy Spirit foretold by the mouth of David concerning Judas,who became a guide to those who arrested Jesus."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "For he was counted among us and received his share in this ministry.”"
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "(Now this man acquired a field for the price of his wickedness,and falling headlong, he burst open in the middle, and all his intestines gushed out."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "And it became known to all the residents of Jerusalem;so that in their own language that field was called Hakeldama, that is, Field of Blood.)"
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "“For it is written in the book of Psalms:",
+                "> ‘May his residence be made desolate,",
+                "> and may there be none living in it’;",
+                "and,",
+                "> ‘May another take his office.’"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "Therefore, it is necessary that of the men who have accompanied usduring all the time that the Lord Jesus went in and out among us—"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "beginning with the baptism of John until the day that He was taken up from us—one of these must become a witness with us of His resurrection.”"
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "So they put forward two men: Joseph called Barsabbas (who was also called Justus), and Matthias."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "And they prayed and said,“You, Lord, who know the hearts of all people, show which one of these two You have chosen"
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "to take the place of this ministry and apostleship from which Judas turned aside to go to his own place.”"
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "And they drew lots for them, and the lot fell to Matthias;and he was added to the eleven apostles."
+            ]
         }
     ]
 }

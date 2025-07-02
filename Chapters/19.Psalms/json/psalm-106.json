@@ -1,208 +1,384 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 106,
     "verses": [
         {
             "verse": 1,
             "text": [
-                "---",
+                "> Praise the Lord!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Who can speak of the mighty deeds of the Lord,",
+                "> Or proclaim all His praise?"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Blessed are those who keep justice,",
+                "> Who practise righteousness at all times!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Remember me, Lord, in Your favour toward Your people;",
+                "> Visit me with Your salvation,"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> So that I may see the prosperity of Your chosen ones,",
+                "> That I may rejoice in the joy of Your nation,",
+                "> That I may boast with Your inheritance."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> We have sinned like our fathers,",
+                "> We have gone astray, we have behaved wickedly."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Our fathers in Egypt did not understand Your wonders;",
+                "> They did not remember Your abundant kindnesses,",
+                "> But rebelled by the sea, at the Red Sea."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Nevertheless, He saved them for the sake of His name,",
+                "> So that He might make His power known."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> So He rebuked the Red Sea and it dried up,",
+                "> And He led them through the mighty waters, as through the wilderness."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> So He saved them from the hand of one who hated them,",
+                "> And redeemed them from the hand of the enemy."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The waters covered their adversaries;",
+                "> Not one of them was left."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> Then they believed His words;",
+                "> They sang His praise."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> They quickly forgot His works;",
+                "> They did not wait for His plan,"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> But became lustfully greedy in the wilderness,",
+                "> And put God to the test in the desert."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> So He gave them their request,",
+                "> But sent a wasting disease among them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> When they became envious of Moses in the camp,",
+                "> And of Aaron, the holy one of the Lord,"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> The earth opened and swallowed up Dathan,",
+                "> And engulfed the company of Abiram."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> And a fire blazed up in their company;",
+                "> The flame consumed the wicked."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> They made a calf at Horeb,",
+                "> And worshipped a cast metal image."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> So they exchanged their glory",
+                "> For the image of an ox that eats grass."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> They forgot God their Saviour,",
+                "> Who had done great things in Egypt,"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Wonders in the land of Ham,",
+                "> And awesome things by the Red Sea."
+            ]
         },
         {
             "verse": 23,
+            "text": [
+                "> Therefore He said that He would destroy them,",
+                "> If Moses, His chosen one, had not stood in the gap before Him,",
+                "> To turn away His wrath from destroying them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> Then they rejected the pleasant land;",
+                "> They did not believe His word,"
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> But grumbled in their tents;",
+                "> They did not listen to the voice of the Lord."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> Therefore He swore to them",
+                "> That He would drop them in the wilderness,"
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "> And that He would bring down their descendants among the nations,",
+                "> And scatter them in the lands."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> They also followed Baal of Peor,",
+                "> And ate sacrifices offered to the dead."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> So they provoked Him to anger with their deeds,",
+                "> And a plague broke out among them."
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> Then Phinehas stood up and intervened,",
+                "> And so the plague was brought to a halt."
+            ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> And it was credited to him as righteousness,",
+                "> For all generations to come."
+            ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "> They also provoked Him to wrath at the waters of Meribah,",
+                "> So that it went badly for Moses because of them;"
+            ]
         },
         {
             "verse": 33,
+            "text": [
+                "> Because they were rebellious against His Spirit,",
+                "> He spoke rashly with his lips."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> They did not destroy the peoples,",
+                "> As the Lord had commanded them,"
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> But they got involved with the nations",
+                "> And learned their practices,"
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "> And served their idols,",
+                "> Which became a snare to them."
+            ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "> They even sacrificed their sons and their daughters to the demons,"
+            ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "> And shed innocent blood,",
+                "> The blood of their sons and daughters,",
+                "> Whom they sacrificed to the idols of Canaan;",
+                "> And the land was defiled with the blood."
+            ]
         },
         {
             "verse": 39,
+            "text": [
+                "> So they became unclean in their practices,",
+                "> And were unfaithful in their deeds."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "> Therefore the anger of the Lord was kindled against His people,",
+                "> And He loathed His inheritance."
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> So He handed them over to the nations,",
+                "> And those who hated them ruled over them."
+            ]
         },
         {
             "verse": 42,
-            "text": []
+            "text": [
+                "> Their enemies also oppressed them,",
+                "> And they were subdued under their power."
+            ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "> Many times He would rescue them;",
+                "> They, however, were rebellious in their plan,",
+                "> And they sank down into their guilt."
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "> Nevertheless, He looked at their distress",
+                "> When He heard their cry;"
+            ]
         },
         {
             "verse": 45,
-            "text": []
+            "text": [
+                "> And He remembered His covenant for their sake,",
+                "> And relented according to the greatness of His mercy."
+            ]
         },
         {
             "verse": 46,
+            "text": [
+                "> He also made them objects of compassion",
+                "> In the presence of all their captors."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -210,12 +386,25 @@
         {
             "verse": 47,
             "text": [
+                "> Save us, Lord our God,",
+                "> And gather us from the nations,",
+                "> To give thanks to Your holy name",
+                "> And glory in Your praise."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 48,
-            "text": []
+            "text": [
+                "> Blessed be the Lord, the God of Israel,",
+                "> From everlasting to everlasting.",
+                "> And all the people shall say, “Amen.”",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

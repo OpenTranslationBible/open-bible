@@ -1,56 +1,99 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 95,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Come, let’s sing for joy to the Lord,",
+                "> Let’s shout joyfully to the rock of our salvation."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Let’s come before His presence with a song of thanksgiving,",
+                "> Let’s shout joyfully to Him in songs with instruments."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> For the Lord is a great God",
+                "> And a great King above all gods,"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> In whose hand are the depths of the earth,",
+                "> The peaks of the mountains are also His."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> The sea is His, for it was He who made it,",
+                "> And His hands formed the dry land."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Come, let’s worship and bow down,",
+                "> Let’s kneel before the Lord our Maker."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> For He is our God,",
+                "> And we are the people of His pasture and the sheep of His hand."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Do not harden your hearts as at Meribah,",
+                "> As on the day of Massah in the wilderness,"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> When your fathers put Me to the test,",
+                "> They tested Me, though they had seen My work."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> For forty years I loathed that generation,",
+                "> And said they are a people who err in their heart,",
+                "> And they do not know My ways."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Therefore I swore in My anger,",
+                "> They certainly shall not enter My rest."
+            ]
         }
     ]
 }

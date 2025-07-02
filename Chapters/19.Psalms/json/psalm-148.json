@@ -1,68 +1,123 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 148,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Praise the Lord!",
+                "> Praise the Lord from the heavens;",
+                "> Praise Him in the heights!"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Praise Him, all His angels;",
+                "> Praise Him, all His heavenly armies!"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Praise Him, sun and moon;",
+                "> Praise Him, all stars of light!"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Praise Him, highest heavens,",
+                "> And the waters that are above the heavens!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Let them praise the name of the Lord,",
+                "> For He commanded, and they were created."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> He has established them forever and ever;",
+                "> He has made a decree, and it will not pass away."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Praise the Lord from the earth,",
+                "> Sea monsters and all the ocean depths;"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Fire and hail, snow and clouds;",
+                "> Stormy wind, fulfilling His word;"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Mountains and all hills;",
+                "> Fruit trees and all cedars;"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Animals and all cattle;",
+                "> Crawling things and winged birds;"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Kings of the earth and all peoples;",
+                "> Rulers and all judges of the earth;"
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> Both young men and virgins;",
+                "> Old men and children."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Let them praise the name of the Lord,",
+                "> For His name alone is exalted;",
+                "> His majesty is above earth and heaven."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> And He has lifted up a horn for His people,",
+                "> Praise for all His godly ones,",
+                "> For the sons of Israel, a people near to Him.",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

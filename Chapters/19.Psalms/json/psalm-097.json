@@ -1,29 +1,50 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 97,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> The Lord reigns, may the earth rejoice;",
+                "> May the many islands be joyful."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Clouds and thick darkness surround Him;",
+                "> Righteousness and justice are the foundation of His throne."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Fire goes before Him",
+                "> And burns up His enemies all around."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> His lightning lit up the world;",
+                "> The earth saw it and trembled."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The mountains melted like wax at the presence of the Lord,",
+                "> At the presence of the Lord of the whole earth."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> The heavens declare His righteousness,",
+                "> And all the peoples have seen His glory."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -31,28 +52,52 @@
         {
             "verse": 7,
             "text": [
+                "> May all those be ashamed who serve carved images,",
+                "> Who boast in idols;",
+                "> Worship Him, all you gods."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Zion heard this and was joyful,",
+                "> And the daughters of Judah have rejoiced",
+                "> Because of Your judgments, Lord."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> For You are the Lord Most High over all the earth;",
+                "> You are exalted far above all gods."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Hate evil, you who love the Lord,",
+                "> Who watches over the souls of His godly ones;",
+                "> He rescues them from the hand of the wicked."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Light is sown for the righteous,",
+                "> And gladness for the upright in heart."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Be joyful in the Lord, you righteous ones,",
+                "> And praise the mention of His holy name."
+            ]
         }
     ]
 }

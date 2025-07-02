@@ -1,94 +1,138 @@
 {
-  "book": "Genesis",
-  "chapter": 6,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "When men began to multiply on the earth and daughters were born to them,"
-    },
-    {
-      "verse": 2,
-      "text": "the sons of God saw that the daughters of men were beautiful, and they took as wives whomever they chose."
-    },
-    {
-      "verse": 3,
-      "text": "Then the Lord said, \u201cMy Spirit will not contend with humanity forever, for they are mortal; their days shall be 120 years.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "The Nephilim were on the earth in those days\u2014and afterward\u2014when the sons of God went to the daughters of humans and had children by them. They were the mighty men of old, men of renown."
-    },
-    {
-      "verse": 5,
-      "text": "The Lord saw how great man\u2019s wickedness had become on the earth, and that every inclination of the thoughts of his heart was only evil all the time."
-    },
-    {
-      "verse": 6,
-      "text": "The Lord regretted that He had made mankind on the earth, and His heart was deeply troubled."
-    },
-    {
-      "verse": 7,
-      "text": "So the Lord said, \u201cI will wipe mankind, whom I have created, from the face of the earth\u2014people, animals, creatures that move along the ground, and birds of the sky\u2014for I regret that I have made them.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "But Noah found favour in the eyes of the Lord."
-    },
-    {
-      "verse": 9,
-      "text": "This is the account of Noah. Noah was a righteous man, blameless among the people of his time, and he walked with God."
-    },
-    {
-      "verse": 10,
-      "text": "Noah had three sons: Shem, Ham, and Japheth."
-    },
-    {
-      "verse": 11,
-      "text": "Now the earth was corrupt in the sight of God, and it was filled with violence."
-    },
-    {
-      "verse": 12,
-      "text": "God looked on the earth and saw that it was corrupt, for all flesh had corrupted their way upon the earth."
-    },
-    {
-      "verse": 13,
-      "text": "So God said to Noah, \u201cI am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth."
-    },
-    {
-      "verse": 14,
-      "text": "Make for yourself an ark of cypress wood. Make rooms in it and coat it with pitch inside and out."
-    },
-    {
-      "verse": 15,
-      "text": "This is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high."
-    },
-    {
-      "verse": 16,
-      "text": "Make a roof for it, leaving below the roof an opening one cubit high all around. Put a door in the side of the ark and make lower, middle, and upper decks."
-    },
-    {
-      "verse": 17,
-      "text": "I am going to bring floodwaters on the earth to destroy all life under the heavens\u2014every creature that has the breath of life in it. Everything on earth will perish."
-    },
-    {
-      "verse": 18,
-      "text": "But I will establish My covenant with you, and you will enter the ark\u2014you, your sons, your wife, and your sons\u2019 wives with you."
-    },
-    {
-      "verse": 19,
-      "text": "You are to bring into the ark two of every living creature, male and female, to keep them alive with you."
-    },
-    {
-      "verse": 20,
-      "text": "Two of every kind of bird, of every kind of animal and of every kind of creature that moves along the ground will come to you to be kept alive."
-    },
-    {
-      "verse": 21,
-      "text": "You are to take every kind of food that is to be eaten and store it away as food for you and for them."
-    },
-    {
-      "verse": 22,
-      "text": "Noah did everything just as God commanded him."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "When men began to multiply on the earth and daughters were born to them,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "the sons of God saw that the daughters of men were beautiful, and they took as wives whomever they chose."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then the Lord said, “My Spirit will not contend with humanity forever, for they are mortal; their days shall be 120 years.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "The Nephilim were on the earth in those days—and afterward—when the sons of God went to the daughters of humans and had children by them. They were the mighty men of old, men of renown."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The Lord saw how great man’s wickedness had become on the earth, and that every inclination of the thoughts of his heart was only evil all the time."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "The Lord regretted that He had made mankind on the earth, and His heart was deeply troubled."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "So the Lord said, “I will wipe mankind, whom I have created, from the face of the earth—people, animals, creatures that move along the ground, and birds of the sky—for I regret that I have made them.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "But Noah found favour in the eyes of the Lord."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "This is the account of Noah. Noah was a righteous man, blameless among the people of his time, and he walked with God."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Noah had three sons: Shem, Ham, and Japheth."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Now the earth was corrupt in the sight of God, and it was filled with violence."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "God looked on the earth and saw that it was corrupt, for all flesh had corrupted their way upon the earth."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "So God said to Noah, “I am going to put an end to all people, for the earth is filled with violence because of them. I am surely going to destroy both them and the earth."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Make for yourself an ark of cypress wood. Make rooms in it and coat it with pitch inside and out."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "This is how you are to build it: The ark is to be 300 cubits long, 50 cubits wide, and 30 cubits high."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Make a roof for it, leaving below the roof an opening one cubit high all around. Put a door in the side of the ark and make lower, middle, and upper decks."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "I am going to bring floodwaters on the earth to destroy all life under the heavens—every creature that has the breath of life in it. Everything on earth will perish."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "But I will establish My covenant with you, and you will enter the ark—you, your sons, your wife, and your sons’ wives with you."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "You are to bring into the ark two of every living creature, male and female, to keep them alive with you."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Two of every kind of bird, of every kind of animal and of every kind of creature that moves along the ground will come to you to be kept alive."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "You are to take every kind of food that is to be eaten and store it away as food for you and for them."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Noah did everything just as God commanded him."
+            ]
+        }
+    ]
 }

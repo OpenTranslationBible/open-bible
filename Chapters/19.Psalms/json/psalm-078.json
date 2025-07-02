@@ -1,306 +1,552 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 77,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> My voice rises to God, and I will cry aloud;",
+                "> My voice rises to God, and He will hear me."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> In the day of my trouble I sought the Lord;",
+                "> In the night my hand was stretched out without weariness;",
+                "> My soul refused to be comforted."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> When I remember God, then I am restless;",
+                "> When I sigh, then my spirit feels weak."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> You have held my eyelids open;",
+                "> I am so troubled that I cannot speak."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> I have considered the days of old,",
+                "> The years of long ago."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I will remember my song in the night;",
+                "> I will meditate with my heart,",
+                "> And my spirit ponders:"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Will the Lord reject forever?",
+                "> And will He never be favourable again?"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Has His favour ceased forever?",
+                "> Has His promise come to an end forever?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Has God forgotten to be gracious,",
+                "> Or has He in anger withdrawn His compassion?"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Then I said, “It is my grief,",
+                "> That the right hand of the Most High has changed.”"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> I shall remember the deeds of the Lord;",
+                "> Surely I will remember Your wonders of old."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> I will meditate on all Your work,",
+                "> And on Your deeds with thanksgiving."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Your way, God, is holy;",
+                "> What god is great like our God?"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> You are the God who works wonders;",
+                "> You have made known Your strength among the peoples."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> You have by Your power redeemed Your people,",
+                "> The sons of Jacob and Joseph."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> The waters saw You, God;",
+                "> The waters saw You, they were in anguish;",
+                "> The ocean depths also trembled."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Yet they still continued to sin against Him,",
+                "> To rebel against the Most High in the desert."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> And they put God to the test in their heart",
+                "> By asking for food that suited their desire."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Then they spoke against God;",
+                "> They said, “Can God prepare a table in the wilderness?"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Behold, He struck the rock so that waters gushed out,",
+                "> And streams were overflowing;",
+                "> Can He also give bread?",
+                "> Will He provide meat for His people?”"
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> Therefore the Lord heard and was full of wrath;",
+                "> And fire was kindled against Jacob,",
+                "> And anger also mounted against Israel,"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Because they did not believe in God",
+                "> And did not trust in His salvation."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Yet He commanded the clouds above",
+                "> And opened the doors of heaven;"
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> He rained down manna upon them to eat,",
+                "> And gave them food from heaven."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> Man ate the bread of angels;",
+                "> He sent them food in abundance."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> He made the east wind blow in the sky",
+                "> And by His power He directed the south wind."
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> When He rained meat upon them like the dust,",
+                "> Even winged fowl like the sand of the seas,"
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> He let them fall in the midst of their camp,",
+                "> All around their dwellings."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> So they ate and were well filled,",
+                "> And He satisfied their longing."
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> Yet before they had abandoned their longing,",
+                "> While their food was in their mouths,"
+            ]
         },
         {
             "verse": 31,
+            "text": [
+                "> The anger of God rose against them",
+                "> And killed some of their strongest ones,",
+                "> And subdued the choice men of Israel."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 32,
-            "text": []
+            "text": [
+                "> In spite of all this they still sinned",
+                "> And did not believe in His wonderful works."
+            ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> So He brought their days to an end in futility,",
+                "> And their years in sudden terror."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> When He killed them, then they sought Him,",
+                "> And they returned and searched diligently for God;"
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> And they remembered that God was their rock,",
+                "> And the Most High God their Redeemer."
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "> But they flattered Him with their mouth",
+                "> And lied to Him with their tongue."
+            ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "> For their heart was not steadfast toward Him,",
+                "> Nor were they faithful in His covenant."
+            ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "> But He, being compassionate, forgave their wrongdoing and did not destroy them;",
+                "> And often He restrained His anger",
+                "> And did not stir up all His wrath."
+            ]
         },
         {
             "verse": 39,
+            "text": [
+                "> So He remembered that they were only flesh,",
+                "> A wind that passes and does not return."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 40,
-            "text": []
+            "text": [
+                "> How often they rebelled against Him in the wilderness",
+                "> And grieved Him in the desert!"
+            ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> Again and again they tempted God,",
+                "> And pained the Holy One of Israel."
+            ]
         },
         {
             "verse": 42,
-            "text": []
+            "text": [
+                "> They did not remember His power,",
+                "> The day when He redeemed them from the enemy,"
+            ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "> When He performed His signs in Egypt",
+                "> And His marvels in the field of Zoan,"
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "> And turned their rivers to blood,",
+                "> And their streams, so that they could not drink."
+            ]
         },
         {
             "verse": 45,
-            "text": []
+            "text": [
+                "> He sent swarms of flies among them that devoured them,",
+                "> And frogs that destroyed them."
+            ]
         },
         {
             "verse": 46,
-            "text": []
+            "text": [
+                "> He also gave their crops to the grasshopper",
+                "> And the product of their labour to the locust."
+            ]
         },
         {
             "verse": 47,
-            "text": []
+            "text": [
+                "> He destroyed their vines with hailstones",
+                "> And their sycamore trees with frost."
+            ]
         },
         {
             "verse": 48,
-            "text": []
+            "text": [
+                "> He turned their livestock over to the hailstones,",
+                "> And their herds to bolts of lightning."
+            ]
         },
         {
             "verse": 49,
-            "text": []
+            "text": [
+                "> He sent His burning anger upon them,",
+                "> Fury and indignation and trouble,",
+                "> A band of destroying angels."
+            ]
         },
         {
             "verse": 50,
-            "text": []
+            "text": [
+                "> He made a path for His anger;",
+                "> He did not spare their souls from death,",
+                "> But turned their lives over to the plague,"
+            ]
         },
         {
             "verse": 51,
-            "text": []
+            "text": [
+                "> And struck all the firstborn in Egypt,",
+                "> The first and best of their vigour in the tents of Ham."
+            ]
         },
         {
             "verse": 52,
-            "text": []
+            "text": [
+                "> But He led His own people out like sheep,",
+                "> And guided them in the wilderness like a flock;"
+            ]
         },
         {
             "verse": 53,
-            "text": []
+            "text": [
+                "> He led them safely, so that they did not fear;",
+                "> But the sea engulfed their enemies."
+            ]
         },
         {
             "verse": 54,
-            "text": []
+            "text": [
+                "> So He brought them to His holy land,",
+                "> To this hill country which His right hand had gained."
+            ]
         },
         {
             "verse": 55,
+            "text": [
+                "> He also drove out the nations from them,",
+                "> And apportioned them as an inheritance by measurement,",
+                "> And settled the tribes of Israel in their tents."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 56,
-            "text": []
+            "text": [
+                "> Yet they tempted and rebelled against the Most High God",
+                "> And did not keep His testimonies,"
+            ]
         },
         {
             "verse": 57,
-            "text": []
+            "text": [
+                "> But turned back and acted treacherously like their fathers;",
+                "> They turned aside like a treacherous bow."
+            ]
         },
         {
             "verse": 58,
-            "text": []
+            "text": [
+                "> For they provoked Him with their high places",
+                "> And moved Him to jealousy with their carved images."
+            ]
         },
         {
             "verse": 59,
-            "text": []
+            "text": [
+                "> When God heard them, He was filled with wrath",
+                "> And He utterly rejected Israel;"
+            ]
         },
         {
             "verse": 60,
-            "text": []
+            "text": [
+                "> So that He abandoned the dwelling place at Shiloh,",
+                "> The tent which He had pitched among people,"
+            ]
         },
         {
             "verse": 61,
-            "text": []
+            "text": [
+                "> And gave up His strength to captivity,",
+                "> And His glory into the hand of the enemy."
+            ]
         },
         {
             "verse": 62,
-            "text": []
+            "text": [
+                "> He also turned His people over to the sword,",
+                "> And was filled with wrath at His inheritance."
+            ]
         },
         {
             "verse": 63,
-            "text": []
+            "text": [
+                "> Fire devoured His young men,",
+                "> And His virgins had no wedding songs."
+            ]
         },
         {
             "verse": 64,
+            "text": [
+                "> His priests fell by the sword,",
+                "> And His widows could not weep."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 65,
-            "text": []
+            "text": [
+                "> Then the Lord awoke as if from sleep,",
+                "> Like a warrior overcome by wine."
+            ]
         },
         {
             "verse": 66,
-            "text": []
+            "text": [
+                "> He drove His enemies backward;",
+                "> He put on them an everlasting disgrace."
+            ]
         },
         {
             "verse": 67,
-            "text": []
+            "text": [
+                "> He also rejected the tent of Joseph,",
+                "> And did not choose the tribe of Ephraim,"
+            ]
         },
         {
             "verse": 68,
-            "text": []
+            "text": [
+                "> But chose the tribe of Judah,",
+                "> Mount Zion, which He loved."
+            ]
         },
         {
             "verse": 69,
-            "text": []
+            "text": [
+                "> And He built His sanctuary like the heights,",
+                "> Like the earth which He has established forever."
+            ]
         },
         {
             "verse": 70,
-            "text": []
+            "text": [
+                "> He also chose His servant David,",
+                "> And took him from the sheepfolds;"
+            ]
         },
         {
             "verse": 71,
-            "text": []
+            "text": [
+                "> From the care of the ewes with nursing lambs He brought him",
+                "> To shepherd Jacob His people,",
+                "> And Israel His inheritance."
+            ]
         },
         {
             "verse": 72,
-            "text": []
+            "text": [
+                "> So he shepherded them according to the integrity of his heart,",
+                "> And guided them with his skilful hands."
+            ]
         }
     ]
 }

@@ -1,54 +1,100 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 64,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Hear my voice, God, in my complaint;",
+                "> Protect my life from dread of the enemy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Hide me from the secret discussion of evildoers,",
+                "> From the restlessness of the workers of injustice,"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Who have sharpened their tongues like a sword.",
+                "> They aimed bitter speech as their arrows,"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> To shoot from concealment at the innocent;",
+                "> Suddenly they shoot at him, and do not fear."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> They make firm for themselves an evil purpose;",
+                "> They talk of setting snares secretly;",
+                "> They say, “Who can see them?”"
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> They devise injustices, saying,",
+                "> “We are ready with a well-conceived plot”;",
+                "> For the inward thought and the heart of a person are deep."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> But God will shoot an arrow at them;",
+                "> Suddenly they will be wounded."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> So they will make him stumble;",
+                "> Their own tongues are against them;",
+                "> All who see them will shake their heads."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> Then all people will fear,",
+                "> And they will declare the work of God,",
+                "> And will consider what He has done."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> The righteous person will be glad in the Lord and take refuge in Him;",
+                "> And all the upright in heart will boast."
+            ]
         }
     ]
 }

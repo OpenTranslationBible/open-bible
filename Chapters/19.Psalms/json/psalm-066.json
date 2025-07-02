@@ -1,94 +1,171 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 66,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Shout joyfully to God, all the earth;"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Sing the glory of His name;",
+                "> Make His praise glorious."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Say to God, “How awesome are Your works!",
+                "> Because of the greatness of Your power Your enemies will pretend to obey You."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> All the earth will worship You,",
+                "> And will sing praises to You;",
+                "> They will sing praises to Your name.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Come and see the works of God,",
+                "> Who is awesome in His deeds toward the sons of mankind."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> He turned the sea into dry land;",
+                "> They passed through the river on foot;",
+                "> Let us rejoice there, in Him!"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> He rules by His might forever;",
+                "> His eyes keep watch on the nations;",
+                "> The rebellious shall not exalt themselves."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Bless our God, you peoples,",
+                "> And sound His praise abroad,"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Who keeps us in life,",
+                "> And does not allow our feet to slip."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> For You have put us to the test, God;",
+                "> You have refined us as silver is refined."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> You brought us into the net;",
+                "> You laid an oppressive burden upon us."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> You made men ride over our heads;",
+                "> We went through fire and through water.",
+                "> Yet You brought us out into a place of abundance."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> I shall come into Your house with burnt offerings;",
+                "> I shall pay You my vows,"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Which my lips uttered",
+                "> And my mouth spoke when I was in distress."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> I shall offer to You burnt offerings of fat animals,",
+                "> With the smoke of rams;",
+                "> I shall make an offering of bulls with male goats."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Come and hear, all who fear God,",
+                "> And I will tell of what He has done for my soul."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> I cried to Him with my mouth,",
+                "> And He was exalted with my tongue."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> If I regard wickedness in my heart,",
+                "> The Lord will not hear;"
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> But God has heard;",
+                "> He has given attention to the sound of my prayer."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> Blessed be God,",
+                "> Who has not turned away my prayer,",
+                "> Nor His favour from me."
+            ]
         }
     ]
 }

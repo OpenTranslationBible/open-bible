@@ -1,86 +1,156 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 10,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Why do You stand far away, Lord?",
+                "> Why do You hide Yourself in times of trouble?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> In arrogance the wicked hotly pursue the needy;",
+                "> Let them be caught in the plots which they have devised."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> For the wicked boasts of his soul’s desire,",
+                "> And the greedy person curses and shows disrespect to the Lord."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> The wicked, in his haughtiness, does not seek Him.",
+                "> There is no God in all his schemes."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> His ways succeed at all times;",
+                "> Yet Your judgments are on high, out of his sight;",
+                "> As for all his enemies, he sneers at them."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> He says to himself, “I will not be moved;",
+                "> Throughout the generations I will not be in adversity.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> His mouth is full of cursing, deceit, and oppression;",
+                "> Under his tongue is harm and injustice."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> He sits in the hiding places of the villages;",
+                "> He kills the innocent in secret places;",
+                "> His eyes surreptitiously watch for the unfortunate."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He lurks in secret like a lion in his lair;",
+                "> He lurks to catch the needy;",
+                "> He catches the needy when he pulls him into his net."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He crouches, he bows down,",
+                "> And the unfortunate fall by his mighty ones."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> He says to himself, “God has forgotten;",
+                "> He has hidden His face; He will never see it.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Arise, Lord; God, lift up Your hand.",
+                "> Do not forget the humble."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Why has the wicked treated God disrespectfully?",
+                "> He has said to himself, “You will not require an account.”"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> You have seen it, for You have looked at harm and provocation to take it into Your hand.",
+                "> The unfortunate commits himself to You;",
+                "> You have been the helper of the orphan."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> Break the arm of the wicked and the evildoer,",
+                "> Seek out his wickedness until You find none."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> The Lord is King forever and ever;",
+                "> Nations have perished from His land."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Lord, You have heard the desire of the humble;",
+                "> You will strengthen their heart, You will make Your ear attentive,"
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> To vindicate the orphan and the oppressed,",
+                "> So that mankind, which is of the earth, will no longer cause terror."
+            ]
         }
     ]
 }

@@ -1,54 +1,78 @@
 {
-  "book": "Genesis",
-  "chapter": 47,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Joseph went and told Pharaoh, \u201cMy father and brothers have arrived from Canaan with their flocks, herds, and everything they own, and are now in Goshen.\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "He chose five of his brothers and presented them before Pharaoh."
-    },
-    {
-      "verse": 3,
-      "text": "Pharaoh asked the brothers, \u201cWhat is your occupation?\u201d \u201cYour servants are shepherds,\u201d they replied, \u201cjust as our ancestors were.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "They also said, \u201cWe have come to live temporarily in your land because the famine is severe in Canaan, and there is no pasture for our flocks. Please let your servants settle in Goshen.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "Pharaoh said to Joseph, \u201cYour father and your brothers have come to you,"
-    },
-    {
-      "verse": 6,
-      "text": "and the land of Egypt is before you; settle your father and your brothers in the best part of the land. Let them live in Goshen. And if any of them are especially capable, put them in charge of my livestock.\u201d"
-    },
-    {
-      "verse": 7,
-      "text": "Then Joseph brought his father Jacob in and presented him before Pharaoh. After Jacob blessed Pharaoh,"
-    },
-    {
-      "verse": 8,
-      "text": "Pharaoh asked him, \u201cHow old are you?\u201d"
-    },
-    {
-      "verse": 9,
-      "text": "Jacob said, \u201cThe years of my pilgrimage are 130. Few and difficult have been the years of my life, and they do not equal the years of the pilgrimage of my fathers.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "Then Jacob blessed Pharaoh again and went out from his presence."
-    },
-    {
-      "verse": 11,
-      "text": "So Joseph settled his father and brothers in Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had directed."
-    },
-    {
-      "verse": 12,
-      "text": "Joseph also provided food for his father, his brothers, and all his father\u2019s household, according to the number of their children."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 47,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Joseph went and told Pharaoh, “My father and brothers have arrived from Canaan with their flocks, herds, and everything they own, and are now in Goshen.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "He chose five of his brothers and presented them before Pharaoh."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Pharaoh asked the brothers, “What is your occupation?” “Your servants are shepherds,” they replied, “just as our ancestors were.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "They also said, “We have come to live temporarily in your land because the famine is severe in Canaan, and there is no pasture for our flocks. Please let your servants settle in Goshen.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Pharaoh said to Joseph, “Your father and your brothers have come to you,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "and the land of Egypt is before you; settle your father and your brothers in the best part of the land. Let them live in Goshen. And if any of them are especially capable, put them in charge of my livestock.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then Joseph brought his father Jacob in and presented him before Pharaoh. After Jacob blessed Pharaoh,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Pharaoh asked him, “How old are you?”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Jacob said, “The years of my pilgrimage are 130. Few and difficult have been the years of my life, and they do not equal the years of the pilgrimage of my fathers.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Then Jacob blessed Pharaoh again and went out from his presence."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "So Joseph settled his father and brothers in Egypt and gave them property in the best part of the land, the district of Rameses, as Pharaoh had directed."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Joseph also provided food for his father, his brothers, and all his father’s household, according to the number of their children."
+            ]
+        }
+    ]
 }

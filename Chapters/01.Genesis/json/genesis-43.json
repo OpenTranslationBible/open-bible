@@ -1,34 +1,48 @@
 {
-  "book": "Genesis",
-  "chapter": 43,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now the famine was still severe in the land."
-    },
-    {
-      "verse": 2,
-      "text": "So when they had eaten all the grain they had brought from Egypt, their father said to them, \u201cGo back and buy us a little more food.\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "But Judah said to him, \u201cThe man warned us solemnly, \u2018You will not see my face again unless your brother is with you.\u2019"
-    },
-    {
-      "verse": 4,
-      "text": "If you will send our brother along with us, we will go down and buy food for you."
-    },
-    {
-      "verse": 5,
-      "text": "But if you will not send him, we will not go down, because the man said to us, \u2018You will not see my face again unless your brother is with you.\u2019\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "Israel asked, \u201cWhy did you bring this trouble on me by telling the man you had another brother?\u201d"
-    },
-    {
-      "verse": 7,
-      "text": "They replied, \u201cThe man questioned us closely about ourselves and our family. We simply answered his questions. How were we to know he would say, \u2018Bring your brother down here\u2019?\u201d"
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 43,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now the famine was still severe in the land."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "So when they had eaten all the grain they had brought from Egypt, their father said to them, “Go back and buy us a little more food.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "But Judah said to him, “The man warned us solemnly, ‘You will not see my face again unless your brother is with you.’"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "If you will send our brother along with us, we will go down and buy food for you."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "But if you will not send him, we will not go down, because the man said to us, ‘You will not see my face again unless your brother is with you.’”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Israel asked, “Why did you bring this trouble on me by telling the man you had another brother?”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They replied, “The man questioned us closely about ourselves and our family. We simply answered his questions. How were we to know he would say, ‘Bring your brother down here’?”"
+            ]
+        }
+    ]
 }

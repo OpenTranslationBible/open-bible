@@ -4,30 +4,51 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "After these events King Ahasuerus promoted Haman,the son of Hammedatha the Agagite,and elevated him and established his authority over all the officials who were with him."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "All the king’s servants who were at the king’s gate bowed down and paid homage to Haman,for so the king had commanded concerning him.But Mordecai neither bowed down nor paid homage."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "Then the king’s servants who were at the king’s gate said to Mordecai,“Why are you disobeying the king’s command?”"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "Now it happened, when they had spoken daily to him and he would not listen to them,that they informed Haman,to see whether Mordecai’s reason would stand;for he had told them that he was a Jew."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "When Haman saw that Mordecai neither bowed down nor paid homage to him,Haman was filled with rage."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "But he considered it beneath himself to attack Mordecai alone,for they had told him who the people of Mordecai were;so Haman sought to destroy all the Jews,the people of Mordecai, who were throughout the whole kingdom of Ahasuerus."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -35,46 +56,76 @@
         {
             "verse": 7,
             "text": [
+                "In the first month (that is, the month Nisan), in the twelfth year of King Ahasuerus,Pur—that is, the lot—was cast before Haman from day to day and from month to month,until the twelfth month (that is, the month Adar)."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "Then Haman said to King Ahasuerus,“There is a certain people scattered and dispersed among the peoplesin all the provinces of your kingdom;their laws are different from those of all other peopleand they do not obey the king’s laws,so it is not in the king’s interest to let them remain."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "If it pleases the king, let it be decreed that they be eliminated,and I will pay ten thousand talents of silverinto the hands of those who carry out the king’s business,to be deposited in the king’s treasuries.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "Then the king took his signet ring from his handand gave it to Haman, the son of Hammedatha the Agagite,the enemy of the Jews."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "And the king said to Haman,“The silver is yours, and the people also,to do with them as you please.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "Then the king’s scribes were summoned on the thirteenth day of the first month,and it was written just as Haman commandedto the king’s satraps, to the governors who were over each province,and to the officials of each people—to every province according to its script and every people according to its language,being written in the name of King Ahasuerus and sealed with the king’s signet ring."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "Letters were sent by couriers to all the king’s provincesto annihilate, kill, and destroy all the Jews, both young and old,women and children, in one day—the thirteenth day of the twelfth month (that is, the month Adar)—and to plunder their possessions."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "A copy of the edict, to be issued as law in every province,was published to all the peoples so that they would be ready for this day."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "The couriers went out, speedily by order of the king,and the edict was issued in the citadel of Susa;and while the king and Haman sat down to drink,the city of Susa was in confusion."
+            ]
         }
     ]
 }

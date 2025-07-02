@@ -1,32 +1,56 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 23,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> The Lord is my shepherd,",
+                "> I will not want."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> He makes me lie down in green pastures;",
+                "> He leads me beside quiet waters."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> He restores my soul;",
+                "> He guides me in the paths of righteousness",
+                "> For His name’s sake."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Even though I walk through the valley of the shadow of death,",
+                "> I fear no evil, for You are with me;",
+                "> Your rod and Your staff, they comfort me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> You prepare a table before me in the presence of my enemies;",
+                "> You have anointed my head with oil;",
+                "> My cup overflows."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Certainly goodness and mercy will follow me all the days of my life,",
+                "> And I will dwell in the house of the Lord forever."
+            ]
         }
     ]
 }

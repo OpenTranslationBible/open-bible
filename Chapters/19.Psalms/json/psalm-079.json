@@ -1,66 +1,119 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 79,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> God, the nations have invaded Your inheritance;",
+                "> They have defiled Your holy temple;",
+                "> They have laid Jerusalem in ruins."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> They have given the dead bodies of Your servants as food for the birds of the sky,",
+                "> The flesh of Your godly ones to the animals of the earth."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> They have poured out their blood like water all around Jerusalem,",
+                "> And there was no one to bury them."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> We have become a disgrace before our neighbours,",
+                "> An object of ridicule and derision to those around us."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> How long, Lord? Will You be angry forever?",
+                "> Will Your jealousy burn like fire?"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Pour out Your wrath upon the nations that do not know You,",
+                "> And upon the kingdoms that do not call upon Your name."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> For they have devoured Jacob",
+                "> And laid waste his dwelling place."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Do not hold us responsible for the guilty deeds of our forefathers;",
+                "> Let Your compassion come quickly to meet us,",
+                "> For we have become very low."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Help us, God of our salvation, for the glory of Your name;",
+                "> And save us and forgive our sins for the sake of Your name."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> Why should the nations say, “Where is their God?”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Let the groaning of the prisoner come before You;",
+                "> According to the greatness of Your power, let those who are doomed to die remain."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> And return to our neighbours seven times as much into their lap",
+                "> Their taunts with which they have taunted You, Lord."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> So we Your people and the sheep of Your pasture",
+                "> Will give thanks to You forever;",
+                "> To all generations we will tell of Your praise."
+            ]
         }
     ]
 }

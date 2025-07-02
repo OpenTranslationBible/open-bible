@@ -1,102 +1,150 @@
 {
-  "book": "Genesis",
-  "chapter": 14,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "At that time, Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam, and Tidal king of Goyim"
-    },
-    {
-      "verse": 2,
-      "text": "went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboyim, and the king of Bela (that is, Zoar)."
-    },
-    {
-      "verse": 3,
-      "text": "All these latter kings joined forces in the Valley of Siddim (the Salt Sea)."
-    },
-    {
-      "verse": 4,
-      "text": "For twelve years they had been subject to Kedorlaomer, but in the thirteenth year they rebelled."
-    },
-    {
-      "verse": 5,
-      "text": "In the fourteenth year, Kedorlaomer and the kings allied with him defeated the Rephaim in Ashteroth-karnaim, the Zuzites in Ham, the Emites in Shaveh-kiriathaim,"
-    },
-    {
-      "verse": 6,
-      "text": "and the Horites in their hill country of Seir, as far as El-paran near the desert."
-    },
-    {
-      "verse": 7,
-      "text": "Then they turned back and went to En-mishpat (that is, Kadesh), and they conquered the whole territory of the Amalekites, as well as the Amorites who were living in Hazazon-tamar."
-    },
-    {
-      "verse": 8,
-      "text": "Then the kings of Sodom, Gomorrah, Admah, Zeboyim, and Bela marched out and drew up their battle lines in the Valley of Siddim"
-    },
-    {
-      "verse": 9,
-      "text": "against Kedorlaomer and his allies\u2014four kings against five."
-    },
-    {
-      "verse": 10,
-      "text": "Now the Valley of Siddim was full of tar pits, and when the kings of Sodom and Gomorrah fled, some fell into them, and the rest fled to the hills."
-    },
-    {
-      "verse": 11,
-      "text": "The victorious kings seized all the goods of Sodom and Gomorrah and all their food; then they went away."
-    },
-    {
-      "verse": 12,
-      "text": "They also took Abram\u2019s nephew Lot and his possessions, since he was living in Sodom."
-    },
-    {
-      "verse": 13,
-      "text": "A man who had escaped came and reported this to Abram the Hebrew. At that time, Abram was living near the great trees of Mamre the Amorite, a brother of Eshcol and Aner, all of whom were allies of Abram."
-    },
-    {
-      "verse": 14,
-      "text": "When Abram heard that his relative had been taken captive, he called out the 318 trained men born in his household and pursued the enemy as far as Dan."
-    },
-    {
-      "verse": 15,
-      "text": "During the night, Abram divided his forces against them, attacked, and routed them, pursuing them as far as Hobah, north of Damascus."
-    },
-    {
-      "verse": 16,
-      "text": "He recovered all the goods and brought back his relative Lot and his possessions, along with the women and the other people."
-    },
-    {
-      "verse": 17,
-      "text": "After Abram returned from defeating Kedorlaomer and the allied kings, the king of Sodom came out to meet him in the Valley of Shaveh (that is, the King\u2019s Valley)."
-    },
-    {
-      "verse": 18,
-      "text": "Then Melchizedek king of Salem brought out bread and wine. He was priest of God Most High."
-    },
-    {
-      "verse": 19,
-      "text": "And he blessed Abram and said, \u201cBlessed be Abram by God Most High, Creator of heaven and earth."
-    },
-    {
-      "verse": 20,
-      "text": "And blessed be God Most High, who delivered your enemies into your hand.\u201d Then Abram gave him a tenth of everything."
-    },
-    {
-      "verse": 21,
-      "text": "The king of Sodom said to Abram, \u201cGive me the people and keep the goods for yourself.\u201d"
-    },
-    {
-      "verse": 22,
-      "text": "But Abram replied, \u201cI have raised my hand to the Lord, God Most High, Creator of heaven and earth,"
-    },
-    {
-      "verse": 23,
-      "text": "that I will accept nothing belonging to you, not even a thread or a sandal strap, so that you can never say, \u2018I made Abram rich.\u2019"
-    },
-    {
-      "verse": 24,
-      "text": "I will accept nothing but what my men have eaten and the share that belongs to the men who went with me\u2014Aner, Eshcol, and Mamre. Let them have their share.\u201d"
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 14,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "At that time, Amraphel king of Shinar, Arioch king of Ellasar, Kedorlaomer king of Elam, and Tidal king of Goyim"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "went to war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king of Admah, Shemeber king of Zeboyim, and the king of Bela (that is, Zoar)."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "All these latter kings joined forces in the Valley of Siddim (the Salt Sea)."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "For twelve years they had been subject to Kedorlaomer, but in the thirteenth year they rebelled."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "In the fourteenth year, Kedorlaomer and the kings allied with him defeated the Rephaim in Ashteroth-karnaim, the Zuzites in Ham, the Emites in Shaveh-kiriathaim,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "and the Horites in their hill country of Seir, as far as El-paran near the desert."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then they turned back and went to En-mishpat (that is, Kadesh), and they conquered the whole territory of the Amalekites, as well as the Amorites who were living in Hazazon-tamar."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Then the kings of Sodom, Gomorrah, Admah, Zeboyim, and Bela marched out and drew up their battle lines in the Valley of Siddim"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "against Kedorlaomer and his allies—four kings against five."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Now the Valley of Siddim was full of tar pits, and when the kings of Sodom and Gomorrah fled, some fell into them, and the rest fled to the hills."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The victorious kings seized all the goods of Sodom and Gomorrah and all their food; then they went away."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "They also took Abram’s nephew Lot and his possessions, since he was living in Sodom."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "A man who had escaped came and reported this to Abram the Hebrew. At that time, Abram was living near the great trees of Mamre the Amorite, a brother of Eshcol and Aner, all of whom were allies of Abram."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "When Abram heard that his relative had been taken captive, he called out the 318 trained men born in his household and pursued the enemy as far as Dan."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "During the night, Abram divided his forces against them, attacked, and routed them, pursuing them as far as Hobah, north of Damascus."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "He recovered all the goods and brought back his relative Lot and his possessions, along with the women and the other people."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "After Abram returned from defeating Kedorlaomer and the allied kings, the king of Sodom came out to meet him in the Valley of Shaveh (that is, the King’s Valley)."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Then Melchizedek king of Salem brought out bread and wine. He was priest of God Most High."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "And he blessed Abram and said, “Blessed be Abram by God Most High, Creator of heaven and earth."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "And blessed be God Most High, who delivered your enemies into your hand.” Then Abram gave him a tenth of everything."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "The king of Sodom said to Abram, “Give me the people and keep the goods for yourself.”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "But Abram replied, “I have raised my hand to the Lord, God Most High, Creator of heaven and earth,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "that I will accept nothing belonging to you, not even a thread or a sandal strap, so that you can never say, ‘I made Abram rich.’"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "I will accept nothing but what my men have eaten and the share that belongs to the men who went with me—Aner, Eshcol, and Mamre. Let them have their share.”"
+            ]
+        }
+    ]
 }

@@ -1,38 +1,54 @@
 {
-  "book": "Genesis",
-  "chapter": 36,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "This is the account of the family line of Esau (that is, Edom)."
-    },
-    {
-      "verse": 2,
-      "text": "Esau took his wives from the women of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite,"
-    },
-    {
-      "verse": 3,
-      "text": "also Basemath daughter of Ishmael and sister of Nebaioth."
-    },
-    {
-      "verse": 4,
-      "text": "Adah bore Eliphaz to Esau, Basemath bore Reuel,"
-    },
-    {
-      "verse": 5,
-      "text": "and Oholibamah bore Jeush, Jalam and Korah. These were the sons of Esau, who were born to him in Canaan."
-    },
-    {
-      "verse": 6,
-      "text": "Esau took his wives, his sons and daughters and all the members of his household, as well as his livestock and all his other animals and all the goods he had acquired in Canaan, and moved to a land some distance from his brother Jacob."
-    },
-    {
-      "verse": 7,
-      "text": "Their possessions were too great for them to remain together; the land where they were staying could not support them both because of their livestock."
-    },
-    {
-      "verse": 8,
-      "text": "So Esau settled in the hill country of Seir. (Esau is Edom.)"
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 36,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "This is the account of the family line of Esau (that is, Edom)."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Esau took his wives from the women of Canaan: Adah daughter of Elon the Hittite, Oholibamah daughter of Anah and granddaughter of Zibeon the Hivite,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "also Basemath daughter of Ishmael and sister of Nebaioth."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Adah bore Eliphaz to Esau, Basemath bore Reuel,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "and Oholibamah bore Jeush, Jalam and Korah. These were the sons of Esau, who were born to him in Canaan."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Esau took his wives, his sons and daughters and all the members of his household, as well as his livestock and all his other animals and all the goods he had acquired in Canaan, and moved to a land some distance from his brother Jacob."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Their possessions were too great for them to remain together; the land where they were staying could not support them both because of their livestock."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "So Esau settled in the hill country of Seir. (Esau is Edom.)"
+            ]
+        }
+    ]
 }

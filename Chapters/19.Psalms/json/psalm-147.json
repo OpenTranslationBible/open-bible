@@ -1,31 +1,56 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 147,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Praise the Lord!",
+                "> For it is good to sing praises to our God;",
+                "> For it is pleasant and praise is beautiful."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> The Lord builds up Jerusalem;",
+                "> He gathers the outcasts of Israel."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> He heals the brokenhearted",
+                "> And binds up their wounds."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> He counts the number of the stars;",
+                "> He gives names to all of them."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Great is our Lord, and abundant in strength;",
+                "> His understanding is infinite."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> The Lord supports the afflicted;",
+                "> He brings the wicked down to the ground."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -33,25 +58,50 @@
         {
             "verse": 7,
             "text": [
+                "> Sing to the Lord with thanksgiving;",
+                "> Sing praises to our God on the lyre,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Who covers the heavens with clouds,",
+                "> Who provides rain for the earth,",
+                "> Who makes grass sprout on the mountains."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> He gives animals their food,",
+                "> And to the young ravens that cry."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> He does not delight in the strength of the horse;",
+                "> He does not take pleasure in the legs of a man."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> The Lord favours those who fear Him,",
+                "> Those who wait for His mercy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -59,44 +109,81 @@
         {
             "verse": 12,
             "text": [
+                "> Praise the Lord, Jerusalem!",
+                "> Praise your God, Zion!"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> For He has strengthened the bars of your gates;",
+                "> He has blessed your sons among you."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> He makes peace in your borders;",
+                "> He satisfies you with the finest of the wheat."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> He sends His command to the earth;",
+                "> His word runs very swiftly."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> He gives snow like wool;",
+                "> He scatters the frost like ashes."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> He hurls His ice as fragments;",
+                "> Who can stand before His cold?"
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> He sends His word and melts them;",
+                "> He makes His wind blow, and the waters flow."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> He declares His words to Jacob,",
+                "> His statutes and His judgments to Israel."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> He has not dealt this way with any other nation;",
+                "> And as for His judgments, they have not known them.",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

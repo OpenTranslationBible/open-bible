@@ -51,7 +51,9 @@
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 9,
@@ -110,12 +112,13 @@
         {
             "verse": 18,
             "text": [
-                "She said, “Let your servant find favour in your eyes.”",
-                "Then she went her way and ate something, and her face was no longer downcast."
+                "She said, “Let your servant find favour in your eyes.”Then she went her way and ate something, and her face was no longer downcast."
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 19,
@@ -144,12 +147,13 @@
         {
             "verse": 23,
             "text": [
-                "Elkanah her husband said to her, “Do what seems best to you. Stay until you have weaned him; only may the Lord establish His word.”",
-                "So she stayed at home and nursed her son until she had weaned him."
+                "Elkanah her husband said to her, “Do what seems best to you. Stay until you have weaned him; only may the Lord establish His word.”So she stayed at home and nursed her son until she had weaned him."
             ]
         },
         {
-            "verse": null
+            "text": [
+                "---"
+            ]
         },
         {
             "verse": 24,
@@ -178,8 +182,7 @@
         {
             "verse": 28,
             "text": [
-                "So now I am dedicating him to the Lord. As long as he lives, he is given to the Lord.”",
-                "And he worshipped the Lord there."
+                "So now I am dedicating him to the Lord. As long as he lives, he is given to the Lord.”And he worshipped the Lord there."
             ]
         }
     ]

@@ -1,21 +1,37 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 42,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> As the deer pants for the water brooks,",
+                "> So my soul pants for You, God."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> My soul thirsts for God, for the living God;",
+                "> When shall I come and appear before God?"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> My tears have been my food day and night,",
+                "> While they say to me all day long, “Where is your God?”"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> I remember these things and pour out my soul within me.",
+                "> For I used to go over with the multitude and walk them to the house of God,",
+                "> With a voice of joy and thanksgiving, a multitude celebrating a festival."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -23,15 +39,33 @@
         {
             "verse": 5,
             "text": [
+                "> Why are you in despair, my soul?",
+                "> And why are you restless within me?",
+                "> Wait for God, for I will again praise Him",
+                "> For the help of His presence, my God."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> My soul is in despair within me;",
+                "> Therefore I remember You from the land of the Jordan",
+                "> And the peaks of Hermon, from Mount Mizar."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> Deep calls to deep at the sound of Your waterfalls;",
+                "> All Your breakers and Your waves have passed over me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -39,22 +73,43 @@
         {
             "verse": 8,
             "text": [
+                "> The Lord will send His goodness in the daytime;",
+                "> And His song will be with me in the night,",
+                "> A prayer to the God of my life."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> I will say to God my rock, “Why have You forgotten me?",
+                "> Why do I go about mourning because of the oppression of the enemy?”"
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> As a shattering of my bones, my adversaries taunt me,",
+                "> While they say to me all day long, “Where is your God?”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Why are you in despair, my soul?",
+                "> And why are you restless within me?",
+                "> Wait for God, for I will again praise Him",
+                "> For the help of His presence, my God."
+            ]
         }
     ]
 }

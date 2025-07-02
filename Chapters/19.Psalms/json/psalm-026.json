@@ -1,60 +1,105 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 26,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Vindicate me, Lord, for I have walked in my integrity,",
+                "> And I have trusted in the Lord without wavering."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Examine me, Lord, and put me to the test;",
+                "> Refine my mind and my heart."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> For Your goodness is before my eyes,",
+                "> And I have walked in Your truth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> I do not sit with deceitful people,",
+                "> Nor will I go with pretenders."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> I hate the assembly of evildoers,",
+                "> And I will not sit with the wicked."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I will wash my hands in innocence,",
+                "> And I will go around Your altar, Lord,"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> That I may proclaim with the voice of thanksgiving",
+                "> And declare all Your wonders."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Lord, I love the dwelling of Your house,",
+                "> And the place where Your glory remains."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Do not take my soul away with sinners,",
+                "> Nor my life with men of bloodshed,"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> In whose hands is a wicked scheme,",
+                "> And whose right hand is full of bribes."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> But as for me, I will walk in my integrity;",
+                "> Redeem me, and be gracious to me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> My foot stands on level ground;",
+                "> In the congregations I will bless the Lord."
+            ]
         }
     ]
 }

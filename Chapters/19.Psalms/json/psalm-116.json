@@ -1,57 +1,107 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 116,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I love the Lord, because He hears",
+                "> My voice and my pleas."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Because He has inclined His ear to me,",
+                "> Therefore I will call upon Him as long as I live."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> The snares of death encompassed me",
+                "> And the terrors of Sheol came upon me;",
+                "> I found distress and sorrow."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Then I called upon the name of the Lord:",
+                "> “Please, Lord, save my life!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Gracious is the Lord, and righteous;",
+                "> Yes, our God is compassionate."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> The Lord watches over the naive;",
+                "> I was brought low, and He saved me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Return to your rest, my soul,",
+                "> For the Lord has dealt generously with you."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> For You have rescued my soul from death,",
+                "> My eyes from tears,",
+                "> My feet from stumbling."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> I shall walk before the Lord",
+                "> In the land of the living."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> I believed when I said,",
+                "> “I am greatly afflicted.”"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> I said in my alarm,",
+                "> “All people are liars.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -59,40 +109,75 @@
         {
             "verse": 12,
             "text": [
+                "> What shall I repay to the Lord",
+                "> For all His benefits to me?"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> I will lift up the cup of salvation,",
+                "> And call upon the name of the Lord."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> I will pay my vows to the Lord",
+                "> In the presence of all His people."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> Precious in the sight of the Lord",
+                "> Is the death of His godly ones."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> Lord, I am indeed Your servant;",
+                "> I am Your servant, the son of Your female servant,",
+                "> You have untied my restraints."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> To You I shall offer a sacrifice of thanksgiving,",
+                "> And call upon the name of the Lord."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> I will pay my vows to the Lord",
+                "> In the presence of all His people,"
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> In the courtyards of the Lord’s house,",
+                "> In the midst of you, Jerusalem.",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

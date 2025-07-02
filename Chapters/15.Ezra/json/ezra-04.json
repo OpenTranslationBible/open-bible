@@ -4,10 +4,17 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Now when the enemies of Judah and Benjamin heard that the people of the exile were building a temple to the Lord God of Israel,"
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "they approached Zerubbabel and the heads of the fathers’ households, and said to them,“Let us build with you, for we, like you, seek your God;and we have been sacrificing to Him since the days of Esarhaddon king of Assyria, who brought us up here.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -15,15 +22,27 @@
         {
             "verse": 3,
             "text": [
+                "But Zerubbabel and Jeshua and the rest of the heads of the fathers’ households of Israel said to them,“You have nothing in common with us in building a house to our God;but we ourselves will together build to the Lord God of Israel,as King Cyrus, the king of Persia, has commanded us.”"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "Then the people of the land discouraged the people of Judah, and frightened them from building,"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "and hired counselors against them to frustrate their plan all the days of Cyrus king of Persia, even until the reign of Darius king of Persia."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -31,11 +50,21 @@
         {
             "verse": 6,
             "text": [
+                "Now in the reign of Ahasuerus, in the beginning of his reign,they wrote an accusation against the inhabitants of Judah and Jerusalem."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
+            "text": [
+                "And in the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of his colleagues wrote to Artaxerxes king of Persia;and the text of the letter was written in Aramaic and translated from Aramaic."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -43,15 +72,27 @@
         {
             "verse": 8,
             "text": [
+                "Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to King Artaxerxes, as follows—"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "then wrote Rehum the commander and Shimshai the scribe and the rest of their colleagues,the judges and the lesser governors, the officials, the secretaries, the men of Erech, the Babylonians, the men of Susa (that is, the Elamites),"
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "and the rest of the nations whom the great and honorable Osnappar deported and settled in the city of Samaria, and in the rest of the region beyond the Euphrates River.And now—"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -59,29 +100,51 @@
         {
             "verse": 11,
             "text": [
+                "this is the copy of the letter which they sent to him:",
+                "“To King Artaxerxes:Your servants, the men from the region beyond the Euphrates, and now—"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
             "text": [
+                "let it be known to the king,that the Jews who came up from you have come to us in Jerusalem;they are rebuilding the rebellious and evil city and are finishing the walls and repairing the foundations."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "Now let it be known to the king,that if that city is rebuilt and the walls finished,they will not pay tribute, custom tax, or toll, and it will be detrimental to the revenue of the kings."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "Now because we are in the service of the palace, and it is not fitting for us to see the king’s dishonor,for that reason we have sent word and informed the king,"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "so that a search may be made in the record books of your predecessors.And you will discover in the record books and learn that that city is a rebellious city,and harmful to kings and provinces, and that they have incited revolt within it in past days;that is why that city was laid waste."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "We are informing the king that, if that city is rebuilt and the walls finished,you will have no possession in the province beyond the Euphrates.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -89,27 +152,47 @@
         {
             "verse": 17,
             "text": [
+                "Then the king sent an answer:",
+                "“To Rehum the commander, to Shimshai the scribe, and to the rest of their colleagues who live in Samaria,and in the rest of the region beyond the Euphrates:",
+                "Peace. And now—"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "the letter which you sent us has been translated and read before me."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "And a decree has been issued by me,and a search has been made, and it has been discovered that that city has risen up against the kings in past days,that rebellion and revolt have been perpetrated in it,"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "that mighty kings have ruled over Jerusalem, governing all the provinces beyond the Euphrates,and that tribute, custom tax, and toll were paid to them."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "Now issue a decree to prevent these people from doing the work,so that this city will not be rebuilt until a decree is issued by me."
+            ]
         },
         {
             "verse": 22,
+            "text": [
+                "Be careful not to neglect this matter.Why should damage increase to the detriment of the kings?”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -117,12 +200,19 @@
         {
             "verse": 23,
             "text": [
+                "Then, as soon as the copy of King Artaxerxes’ letter was read before Rehum, Shimshai the scribe, and their colleagues,they went in haste to Jerusalem to the Jews and stopped them by military force."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "Then the work on the house of God in Jerusalem was discontinued,and it was stopped until the second year of the reign of Darius king of Persia."
+            ]
         }
     ]
 }

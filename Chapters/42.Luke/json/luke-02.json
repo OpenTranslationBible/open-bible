@@ -4,86 +4,136 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Now in those days a decree went out from Caesar Augustus, that a census be taken of all the inhabited earth."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "This was the first census taken while Quirinius was governor of Syria."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "And all the people were on their way to register for the census, each to his own city."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "Now Joseph also went up from Galilee, from the city of Nazareth, to Judea,to the city of David which is called Bethlehem, because he was of the house and family of David,"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "in order to register, together with Mary, who was betrothed to him, and was pregnant."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "While they were there, the time came for her to give birth."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "And she gave birth to her firstborn son;and she wrapped Him in cloths, and laid Him in a manger,because there was no room for them in the inn."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "In the same region there were some shepherds staying out in the fields and keeping watch over their flock at night."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "And an angel of the Lord suddenly stood near them,and the glory of the Lord shone around them; and they were terribly frightened."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "And so the angel said to them,“Do not be afraid, for behold, I bring you good news of great joy which will be for all the people;"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "for today in the city of David a Saviour has been born for you, who is Christ the Lord."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "And this will be a sign for you:you will find a baby wrapped in cloths and lying in a manger.”"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "And suddenly there appeared with the angel a multitude of the heavenly army of angels,praising God and saying,"
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> “Glory to God in the highest,",
+                "> And on earth peace among people with whom He is pleased.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "When the angels had departed from them into heaven, the shepherds began saying to one another,“Let’s go straight to Bethlehem, then, and see this thing that has happened, which the Lord has made known to us.”"
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "And they came in a hurry and found their way to Mary and Joseph, and the baby as He lay in the manger."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "When they had seen Him, they made known the statement which had been told them about this Child."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "And all who heard it were amazed about the things which were told them by the shepherds."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "But Mary treasured all these things, pondering them in her heart."
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "And the shepherds went back, glorifying and praising God for all that they had heard and seen, just as had been told them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -91,142 +141,226 @@
         {
             "verse": 21,
             "text": [
+                "And when eight days were completed so that it was time to circumcise Him,He was also named Jesus, the name given by the angel before He was conceived in the womb."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "And when the days for their purification according to the Law of Moses were completed,they brought Him up to Jerusalem to present Him to the Lord"
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "(as it is written in the Law of the Lord: “Every firstborn male that opens the womb shall be called holy to the Lord”),"
+            ]
         },
         {
             "verse": 24,
+            "text": [
+                "and to offer a sacrifice according to what has been stated in the Law of the Lord:“a pair of turtledoves or two young doves.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "And there was a man in Jerusalem whose name was Simeon;and this man was righteous and devout, looking forward to the consolation of Israel;and the Holy Spirit was upon him."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "And it had been revealed to him by the Holy Spirit that he would not see deathbefore he had seen the Lord’s Christ."
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "And he came by the Spirit into the temple;and when the parents brought in the child Jesus, to carry out for Him the custom of the Law,"
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "then he took Him in his arms, and blessed God, and said,"
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> “Now, Lord, You are letting Your bond-servant depart in peace,",
+                "> According to Your word;"
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> For my eyes have seen Your salvation,"
+            ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> Which You have prepared in the presence of all the peoples:"
+            ]
         },
         {
             "verse": 32,
+            "text": [
+                "> A light for revelation for the Gentiles,",
+                "> And the glory of Your people Israel.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "And His father and mother were amazed at the things which were being said about Him."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "And Simeon blessed them and ,“Behold, this Child is appointed for the fall and rise of many in Israel, and as a sign to be opposed—"
+            ]
         },
         {
             "verse": 35,
+            "text": [
+                "and a sword will pierce your own soul—to the end that thoughts from many hearts may be revealed.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher.She was advanced in years and had lived with her husband for seven years after her marriage,"
+            ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "and then as a widow to the age of eighty-four.She did not leave the temple grounds, serving night and day with fasts and prayers."
+            ]
         },
         {
             "verse": 38,
+            "text": [
+                "And at that very moment she came up and began giving thanks to God,and continued to speak about Him to all those who were looking forward to the redemption of Jerusalem."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "When they had completed everything according to the Law of the Lord,they returned to Galilee, to their own city of Nazareth."
+            ]
         },
         {
             "verse": 40,
+            "text": [
+                "Now the Child continued to grow and to become strong, increasing in wisdom;and the favour of God was upon Him."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "Now His parents went to Jerusalem every year at the Feast of the Passover."
+            ]
         },
         {
             "verse": 42,
-            "text": []
+            "text": [
+                "And when He was twelve years old, they went up there according to the custom of the feast;"
+            ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "and as they were returning, after spending the full number of days,the boy Jesus stayed behind in Jerusalem. But His parents were unaware of it."
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "Instead, they thought that He was in the caravan,and went a day’s journey; and they began looking for Him among their relatives and acquaintances."
+            ]
         },
         {
             "verse": 45,
-            "text": []
+            "text": [
+                "And when they did not find Him, they returned to Jerusalem, looking for Him."
+            ]
         },
         {
             "verse": 46,
-            "text": []
+            "text": [
+                "Then, after three days, they found Him in the temple,sitting in the midst of the teachers, both listening to them and asking them questions."
+            ]
         },
         {
             "verse": 47,
-            "text": []
+            "text": [
+                "And all who heard Him were amazed at His understanding and His answers."
+            ]
         },
         {
             "verse": 48,
-            "text": []
+            "text": [
+                "When Joseph and Mary saw Him, they were bewildered; and His mother ,“Son, why have You treated us this way? Behold, Your father and I have been anxiously looking for You!”"
+            ]
         },
         {
             "verse": 49,
-            "text": []
+            "text": [
+                "And He ,“Why is it that you were looking for Me? Did you not know that I had to be in My Father’s house?”"
+            ]
         },
         {
             "verse": 50,
-            "text": []
+            "text": [
+                "And yet they on their part did not understand the statement which He had made to them."
+            ]
         },
         {
             "verse": 51,
-            "text": []
+            "text": [
+                "And He went down with them and came to Nazareth, and He continued to be subject to them;and His mother treasured all these things in her heart."
+            ]
         },
         {
             "verse": 52,
-            "text": []
+            "text": [
+                "And Jesus kept increasing in wisdom and stature, and in favour with God and people."
+            ]
         }
     ]
 }

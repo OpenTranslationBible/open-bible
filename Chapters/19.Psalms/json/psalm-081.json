@@ -1,77 +1,140 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 81,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Sing for joy to God our strength;",
+                "> Shout joyfully to the God of Jacob."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Raise a song, strike the tambourine,",
+                "> The sweet-sounding lyre with the harp."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Blow the trumpet at the new moon,",
+                "> At the full moon, on our feast day."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For it is a statute for Israel,",
+                "> An ordinance of the God of Jacob."
+            ]
         },
         {
             "verse": 5,
             "text": [
-                "---",
+                "> He established it as a testimony in Joseph,",
+                "> When he went throughout the land of Egypt;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> “I relieved his shoulder of the burden,",
+                "> His hands were freed from the basket."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> You called in trouble and I rescued you;",
+                "> I answered you in the hiding place of thunder;",
+                "> I put you to the test at the waters of Meribah."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Hear, My people, and I will admonish you;",
+                "> Israel, if you would listen to Me!"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> There shall be no strange god among you;",
+                "> Nor shall you worship a foreign god."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> I, the Lord, am your God,",
+                "> Who brought you up from the land of Egypt;",
+                "> Open your mouth wide and I will fill it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> But My people did not listen to My voice,",
+                "> And Israel did not obey Me."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> So I gave them over to the stubbornness of their heart,",
+                "> To walk by their own plans."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Oh that My people would listen to Me,",
+                "> That Israel would walk in My ways!"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> I would quickly subdue their enemies",
+                "> And turn My hand against their adversaries."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> Those who hate the Lord would pretend to obey Him,",
+                "> And their time of punishment would be forever."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> But I would feed you with the finest of the wheat,",
+                "> And with honey from the rock I would satisfy you.”"
+            ]
         }
     ]
 }

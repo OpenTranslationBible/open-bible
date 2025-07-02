@@ -1,110 +1,162 @@
 {
-  "book": "Genesis",
-  "chapter": 4,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now Adam had relations with his wife Eve, and she conceived and gave birth to Cain. She said, \u201cWith the help of the Lord I have brought forth a man.\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "Later she gave birth to his brother Abel. Now Abel kept flocks, and Cain worked the soil."
-    },
-    {
-      "verse": 3,
-      "text": "In the course of time, Cain brought an offering to the Lord from the fruit of the ground."
-    },
-    {
-      "verse": 4,
-      "text": "And Abel also brought an offering\u2014fat portions from some of the firstborn of his flock. The Lord looked with favour on Abel and his offering,"
-    },
-    {
-      "verse": 5,
-      "text": "but on Cain and his offering He did not look with favour. So Cain became very angry, and his face fell."
-    },
-    {
-      "verse": 6,
-      "text": "Then the Lord said to Cain, \u201cWhy are you angry? And why is your face downcast?"
-    },
-    {
-      "verse": 7,
-      "text": "If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to dominate you, but you must master it.\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "Cain said to his brother Abel, \u201cLet\u2019s go out to the field.\u201d And while they were in the field, Cain rose up against Abel his brother and killed him."
-    },
-    {
-      "verse": 9,
-      "text": "Then the Lord said to Cain, \u201cWhere is your brother Abel?\u201d He replied, \u201cI do not know. Am I my brother\u2019s keeper?\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "The Lord said, \u201cWhat have you done? Listen! Your brother\u2019s blood cries out to Me from the ground."
-    },
-    {
-      "verse": 11,
-      "text": "Now you are cursed and banished from the ground, which has opened its mouth to receive your brother\u2019s blood from your hand."
-    },
-    {
-      "verse": 12,
-      "text": "When you work the ground, it will no longer yield its produce for you. You will be a restless wanderer on the earth.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "Cain said to the Lord, \u201cMy punishment is more than I can bear!"
-    },
-    {
-      "verse": 14,
-      "text": "Today You are driving me from the land, and I will be hidden from Your presence. I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.\u201d"
-    },
-    {
-      "verse": 15,
-      "text": "But the Lord said to him, \u201cNot so! Anyone who kills Cain will suffer vengeance seven times over.\u201d Then the Lord put a mark on Cain so that no one who found him would kill him."
-    },
-    {
-      "verse": 16,
-      "text": "So Cain went out from the Lord\u2019s presence and settled in the land of Nod, east of Eden."
-    },
-    {
-      "verse": 17,
-      "text": "Cain knew his wife, and she conceived and gave birth to Enoch. Cain built a city and named it after his son Enoch."
-    },
-    {
-      "verse": 18,
-      "text": "To Enoch was born Irad. Irad was the father of Mehujael, Mehujael the father of Methushael, and Methushael the father of Lamech."
-    },
-    {
-      "verse": 19,
-      "text": "Lamech married two women, one named Adah and the other Zillah."
-    },
-    {
-      "verse": 20,
-      "text": "Adah gave birth to Jabal; he was the father of those who live in tents and raise livestock."
-    },
-    {
-      "verse": 21,
-      "text": "His brother\u2019s name was Jubal; he was the father of all who play stringed instruments and pipes."
-    },
-    {
-      "verse": 22,
-      "text": "Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of bronze and iron. Tubal-Cain\u2019s sister was Naamah."
-    },
-    {
-      "verse": 23,
-      "text": "Lamech said to his wives: \u201cAdah and Zillah, hear my voice; wives of Lamech, listen to my words. I have killed a man for wounding me, a young man for striking me."
-    },
-    {
-      "verse": 24,
-      "text": "If Cain is avenged seven times, then Lamech seventy-seven times.\u201d"
-    },
-    {
-      "verse": 25,
-      "text": "Adam knew his wife again, and she gave birth to a son and named him Seth, saying, \u201cGod has granted me another child in place of Abel, since Cain killed him.\u201d"
-    },
-    {
-      "verse": 26,
-      "text": "To Seth also a son was born, and he named him Enosh. At that time people began to call upon the name of the Lord."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now Adam had relations with his wife Eve, and she conceived and gave birth to Cain. She said, “With the help of the Lord I have brought forth a man.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Later she gave birth to his brother Abel. Now Abel kept flocks, and Cain worked the soil."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "In the course of time, Cain brought an offering to the Lord from the fruit of the ground."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "And Abel also brought an offering—fat portions from some of the firstborn of his flock. The Lord looked with favour on Abel and his offering,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "but on Cain and his offering He did not look with favour. So Cain became very angry, and his face fell."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then the Lord said to Cain, “Why are you angry? And why is your face downcast?"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to dominate you, but you must master it.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Cain said to his brother Abel, “Let’s go out to the field.” And while they were in the field, Cain rose up against Abel his brother and killed him."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then the Lord said to Cain, “Where is your brother Abel?” He replied, “I do not know. Am I my brother’s keeper?”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The Lord said, “What have you done? Listen! Your brother’s blood cries out to Me from the ground."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Now you are cursed and banished from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "When you work the ground, it will no longer yield its produce for you. You will be a restless wanderer on the earth.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Cain said to the Lord, “My punishment is more than I can bear!"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Today You are driving me from the land, and I will be hidden from Your presence. I will be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "But the Lord said to him, “Not so! Anyone who kills Cain will suffer vengeance seven times over.” Then the Lord put a mark on Cain so that no one who found him would kill him."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "So Cain went out from the Lord’s presence and settled in the land of Nod, east of Eden."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Cain knew his wife, and she conceived and gave birth to Enoch. Cain built a city and named it after his son Enoch."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "To Enoch was born Irad. Irad was the father of Mehujael, Mehujael the father of Methushael, and Methushael the father of Lamech."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Lamech married two women, one named Adah and the other Zillah."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Adah gave birth to Jabal; he was the father of those who live in tents and raise livestock."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "His brother’s name was Jubal; he was the father of all who play stringed instruments and pipes."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Zillah also had a son, Tubal-Cain, who forged all kinds of tools out of bronze and iron. Tubal-Cain’s sister was Naamah."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Lamech said to his wives: “Adah and Zillah, hear my voice; wives of Lamech, listen to my words. I have killed a man for wounding me, a young man for striking me."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "If Cain is avenged seven times, then Lamech seventy-seven times.”"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Adam knew his wife again, and she gave birth to a son and named him Seth, saying, “God has granted me another child in place of Abel, since Cain killed him.”"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "To Seth also a son was born, and he named him Enosh. At that time people began to call upon the name of the Lord."
+            ]
+        }
+    ]
 }

@@ -1,46 +1,81 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 8,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, our Lord,",
+                "> How majestic is Your name in all the earth,",
+                "> You who have displayed Your splendour above the heavens!"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> From the mouths of infants and nursing babies You have established strength",
+                "> Because of Your enemies,",
+                "> To do away with the enemy and the revengeful."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> When I consider Your heavens, the work of Your fingers,",
+                "> The moon and the stars, which You have set in place,"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> What is man that You think of him,",
+                "> And a son of man that You are concerned about him?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Yet You have made him a little lower than God,",
+                "> And You crown him with glory and majesty!"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> You have him rule over the works of Your hands;",
+                "> You have put everything under his feet,"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> All sheep and oxen,",
+                "> And also the animals of the field,"
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> The birds of the sky, and the fish of the sea,",
+                "> Whatever passes through the paths of the seas."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Lord, our Lord,",
+                "> How majestic is Your name in all the earth!"
+            ]
         }
     ]
 }

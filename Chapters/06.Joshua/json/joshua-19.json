@@ -5,13 +5,13 @@
         {
             "verse": 1,
             "text": [
-                "The second lot came out for the tribe of Simeon, according to its clans. Their inheritance was within the territory of Judah."
+                "The second lot came out for the tribe of Simeon, according to its clans.Their inheritance was within the territory of Judah."
             ]
         },
         {
             "verse": 2,
             "text": [
-                "It included: Beersheba (or Sheba), Moladah,"
+                "It included:Beersheba (or Sheba), Moladah,"
             ]
         },
         {
@@ -47,7 +47,7 @@
         {
             "verse": 8,
             "text": [
-                "and all the villages around these towns as far as Baalath Beer (Ramah of the Negev). This was the inheritance of the tribe of Simeon, according to its clans."
+                "and all the villages around these towns as far as Baalath Beer (Ramah of the Negev).This was the inheritance of the tribe of Simeon, according to its clans."
             ]
         },
         {
@@ -57,9 +57,14 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 10,
             "text": [
-                "The third lot came up for the tribe of Zebulun, according to its clans. The boundary of their inheritance went as far as Sarid."
+                "The third lot came up for the tribe of Zebulun, according to its clans.The boundary of their inheritance went as far as Sarid."
             ]
         },
         {
@@ -96,6 +101,11 @@
             "verse": 16,
             "text": [
                 "These towns and their villages were the inheritance of Zebulun, according to its clans."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -141,6 +151,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 24,
             "text": [
                 "The fifth lot came out for the tribe of Asher, according to its clans."
@@ -155,7 +170,7 @@
         {
             "verse": 26,
             "text": [
-                "Allammelek, Amad, and Mishal. On the west the boundary touched Carmel and Shihor Libnath."
+                "Allammelek, Amad, and Mishal.On the west the boundary touched Carmel and Shihor Libnath."
             ]
         },
         {
@@ -186,6 +201,11 @@
             "verse": 31,
             "text": [
                 "These towns and their villages were the inheritance of the tribe of Asher, according to its clans."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -234,6 +254,11 @@
             "verse": 39,
             "text": [
                 "These towns and their villages were the inheritance of the tribe of Naphtali, according to its clans."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -291,6 +316,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 49,
             "text": [
                 "When they had finished dividing the land into its allotted portions, the Israelites gave Joshua son of Nun an inheritance among them."
@@ -305,7 +335,7 @@
         {
             "verse": 51,
             "text": [
-                "These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the tribes of Israel assigned by lot at Shiloh in the presence of the Lord at the entrance to the tent of meeting. So they finished dividing the land."
+                "These are the inheritances that Eleazar the priest, Joshua son of Nun, and the heads of the tribes of Israel assigned by lot at Shiloh in the presence of the Lord at the entrance to the tent of meeting.So they finished dividing the land."
             ]
         }
     ]

@@ -1,48 +1,84 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 113,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Praise the Lord!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Blessed be the name of the Lord",
+                "> From this time on and forever."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> From the rising of the sun to its setting,",
+                "> The name of the Lord is to be praised."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> The Lord is high above all nations;",
+                "> His glory is above the heavens."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Who is like the Lord our God,",
+                "> Who is enthroned on high,"
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> Who humbles Himself to behold",
+                "> The things that are in heaven and on the earth?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He raises the poor from the dust,",
+                "> He lifts the needy from the garbage heap,"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> To seat them with noblemen,",
+                "> With the noblemen of His people."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> He has the infertile woman live in the house",
+                "> As a joyful mother of children.",
+                "> Praise the Lord!"
+            ]
         }
     ]
 }

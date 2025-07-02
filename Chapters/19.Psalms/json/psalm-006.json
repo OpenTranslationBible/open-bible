@@ -1,52 +1,92 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 6,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord, do not rebuke me in Your anger,",
+                "> Nor discipline me in Your wrath."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Be gracious to me, Lord, for I am frail;",
+                "> Heal me, Lord, for my bones are horrified."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> And my soul is greatly horrified;",
+                "> But You, Lord—how long?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Return, Lord, rescue my soul;",
+                "> Save me because of Your mercy."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> For there is no mention of You in death;",
+                "> In Sheol, who will praise You?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I am weary with my sighing;",
+                "> Every night I make my bed swim,",
+                "> I flood my couch with my tears."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> My eye has wasted away with grief;",
+                "> It has grown old because of all my enemies."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Leave me, all you who practice injustice,",
+                "> For the Lord has heard the sound of my weeping."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> The Lord has heard my pleading,",
+                "> The Lord receives my prayer."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> All my enemies will be put to shame and greatly horrified;",
+                "> They shall turn back, they will suddenly be put to shame."
+            ]
         }
     ]
 }

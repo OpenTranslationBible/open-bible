@@ -1,38 +1,54 @@
 {
-  "book": "Genesis",
-  "chapter": 30,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "When Rachel saw that she was not bearing children for Jacob, she became jealous of her sister. So she said to Jacob, \u201cGive me children, or I\u2019ll die!\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "Jacob became angry with her and said, \u201cAm I in the place of God, who has kept you from having children?\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "Then she said, \u201cHere is Bilhah, my servant. Sleep with her so that she can bear children for me and I too can build a family through her.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "So she gave him her servant Bilhah as a wife. Jacob slept with her,"
-    },
-    {
-      "verse": 5,
-      "text": "and she became pregnant and bore him a son."
-    },
-    {
-      "verse": 6,
-      "text": "Then Rachel said, \u201cGod has vindicated me; He has listened to my plea and given me a son.\u201d Because of this she named him Dan."
-    },
-    {
-      "verse": 7,
-      "text": "Rachel\u2019s servant Bilhah conceived again and bore Jacob a second son."
-    },
-    {
-      "verse": 8,
-      "text": "Then Rachel said, \u201cI have had a great struggle with my sister, and I have won.\u201d So she named him Naphtali."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 30,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "When Rachel saw that she was not bearing children for Jacob, she became jealous of her sister. So she said to Jacob, “Give me children, or I’ll die!”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Jacob became angry with her and said, “Am I in the place of God, who has kept you from having children?”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then she said, “Here is Bilhah, my servant. Sleep with her so that she can bear children for me and I too can build a family through her.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "So she gave him her servant Bilhah as a wife. Jacob slept with her,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "and she became pregnant and bore him a son."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then Rachel said, “God has vindicated me; He has listened to my plea and given me a son.” Because of this she named him Dan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Rachel’s servant Bilhah conceived again and bore Jacob a second son."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Then Rachel said, “I have had a great struggle with my sister, and I have won.” So she named him Naphtali."
+            ]
+        }
+    ]
 }

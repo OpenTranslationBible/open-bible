@@ -1,96 +1,177 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 77,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> My voice rises to God, and I will cry aloud;",
+                "> My voice rises to God, and He will hear me."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> In the day of my trouble I sought the Lord;",
+                "> In the night my hand was stretched out without weariness;",
+                "> My soul refused to be comforted."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> When I remember God, then I am restless;",
+                "> When I sigh, then my spirit feels weak."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> You have held my eyelids open;",
+                "> I am so troubled that I cannot speak."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> I have considered the days of old,",
+                "> The years of long ago."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> I will remember my song in the night;",
+                "> I will meditate with my heart,",
+                "> And my spirit ponders:"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Will the Lord reject forever?",
+                "> And will He never be favourable again?"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Has His favour ceased forever?",
+                "> Has His promise come to an end forever?"
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> Has God forgotten to be gracious,",
+                "> Or has He in anger withdrawn His compassion?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Then I said, “It is my grief,",
+                "> That the right hand of the Most High has changed.”"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> I shall remember the deeds of the Lord;",
+                "> Surely I will remember Your wonders of old."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> I will meditate on all Your work,",
+                "> And on Your deeds with thanksgiving."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Your way, God, is holy;",
+                "> What god is great like our God?"
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> You are the God who works wonders;",
+                "> You have made known Your strength among the peoples."
+            ]
         },
         {
             "verse": 15,
+            "text": [
+                "> You have by Your power redeemed Your people,",
+                "> The sons of Jacob and Joseph."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> The waters saw You, God;",
+                "> The waters saw You, they were in anguish;",
+                "> The ocean depths also trembled."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> The clouds poured out water;",
+                "> The skies sounded out;",
+                "> Your arrows flashed here and there."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> The sound of Your thunder was in the whirlwind;",
+                "> The lightning lit up the world;",
+                "> The earth trembled and shook."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Your way was in the sea,",
+                "> And Your paths in the mighty waters,",
+                "> And Your footprints were not known."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> You led Your people like a flock",
+                "> By the hand of Moses and Aaron."
+            ]
         }
     ]
 }

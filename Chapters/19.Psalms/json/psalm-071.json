@@ -1,61 +1,111 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 71,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> In You, Lord, I have taken refuge;",
+                "> Let me never be put to shame."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> In Your righteousness rescue me and save me;",
+                "> Extend Your ear to me and help me."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Be to me a rock of dwelling to which I may continually come;",
+                "> You have given the command to save me,",
+                "> For You are my rock and my fortress."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Save me, my God, from the hand of the wicked,",
+                "> From the grasp of the wrongdoer and the ruthless."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> For You are my hope;",
+                "> Lord God, You are my confidence from my youth."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I have leaned on You since my birth;",
+                "> You are He who took me from my mother’s womb;",
+                "> My praise is continually of You."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> I have become a marvel to many,",
+                "> For You are my strong refuge."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> My mouth is filled with Your praise",
+                "> And with Your glory all day long."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Do not discard me in the time of my old age;",
+                "> Do not abandon me when my strength fails."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> For my enemies have spoken against me;",
+                "> And those who watch for my life have consulted together,"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Saying, “God has abandoned him;",
+                "> Pursue and seize him, for there is no one to save him.”"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> God, do not be far from me;",
+                "> My God, hurry to my aid!"
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> May those who are enemies of my soul be put to shame and consumed;",
+                "> May they be covered with disgrace and dishonour, those who seek to injure me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -63,52 +113,99 @@
         {
             "verse": 14,
             "text": [
+                "> But as for me, I will wait continually,",
+                "> And will praise You yet more and more."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> My mouth will tell of Your righteousness",
+                "> And of Your salvation all day long,",
+                "> For I do not know the art of writing."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> I will come with the mighty deeds of the Lord God;",
+                "> I will make mention of Your righteousness, Yours alone."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> God, You have taught me from my youth,",
+                "> And I still declare Your wondrous deeds."
+            ]
         },
         {
             "verse": 18,
+            "text": [
+                "> And even when I am old and gray, God, do not abandon me,",
+                "> Until I declare Your strength to this generation,",
+                "> Your power to all who are to come."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> For Your righteousness, God, reaches to the heavens,",
+                "> You who have done great things;",
+                "> God, who is like You?"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> You who have shown me many troubles and distresses",
+                "> Will revive me again,",
+                "> And will bring me up again from the depths of the earth."
+            ]
         },
         {
             "verse": 21,
+            "text": [
+                "> May You increase my greatness",
+                "> And turn to comfort me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> I will also praise You with a harp,",
+                "> And Your truth, my God;",
+                "> I will sing praises to You with the lyre, Holy One of Israel."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> My lips will shout for joy when I sing praises to You;",
+                "> And my soul, which You have redeemed."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> My tongue also will tell of Your righteousness all day long;",
+                "> For they are put to shame, for they are humiliated who seek my harm."
+            ]
         }
     ]
 }

@@ -1,46 +1,81 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 52,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Why do you boast in evil, you mighty man?",
+                "> The faithfulness of God endures all day long."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Your tongue devises destruction,",
+                "> Like a sharp razor, you worker of deceit."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> You love evil more than good,",
+                "> Lies more than speaking what is right."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> You love all words that devour,",
+                "> You deceitful tongue."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> But God will break you down forever;",
+                "> He will snatch you up and tear you away from your tent,",
+                "> And uproot you from the land of the living."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> The righteous will see and fear,",
+                "> And they will laugh at him, saying,"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> “Behold, the man who would not make God his refuge,",
+                "> But trusted in the abundance of his riches,",
+                "> And sought refuge in his own destruction.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> But as for me, I am like a green olive tree in the house of God;",
+                "> I trust in the faithfulness of God forever and ever."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> I will praise You forever, because You have done it,",
+                "> And I will wait on Your name, for it is good, in the presence of Your godly ones."
+            ]
         }
     ]
 }

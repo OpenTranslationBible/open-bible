@@ -4,109 +4,168 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Then Jesus was led up by the Spirit into the wilderness to be tempted by the devil."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "And after He had fasted for forty days and forty nights, He then became hungry."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "And the tempter came and said to Him,“If You are the Son of God, command that these stones become bread.”"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "But He answered and said,“It is written:‘Man shall not live on bread alone,but on every word that comes out of the mouth of God.’”"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "Then the devil took Him along into the holy city and had Him stand on the pinnacle of the temple,"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "and he said to Him,“If You are the Son of God, throw Yourself down; for it is written:‘He will give His angels orders concerning You’;and‘On their hands they will lift You up,So that You do not strike Your foot against a stone.’”"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "Jesus said to him,“On the other hand, it is written:‘You shall not put the Lord your God to the test.’”"
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "Again, the devil took Him along to a very high mountainand showed Him all the kingdoms of the world and their glory;"
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "and he said to Him,“All these things I will give You, if You fall down and worship me.”"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "Then Jesus said to him,“Go away, Satan! For it is written:‘You shall worship the Lord your God,and serve Him only.’”"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "Then the devil left Him;and behold, angels came and began to serve Him."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "Now when Jesus heard that John had been taken into custody, He withdrew into Galilee;"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "and leaving Nazareth, He came and settled in Capernaum,which is by the sea in the region of Zebulun and Naphtali."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "This happened so that what was spoken through Isaiah the prophet would be fulfilled:"
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "“The land of Zebulun and the land of Naphtali,By the way of the sea, on the other side of the Jordan, Galilee of the Gentiles—"
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "The people who were sitting in darkness saw a great light,And those who were sitting in the land and shadow of death,Upon them a light dawned.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "From that time Jesus began to preach and say,“Repent, for the kingdom of heaven is at hand.”"
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "Now as He was walking by the Sea of Galilee, He saw two brothers,Simon who was called Peter, and Andrew his brother,casting a net into the sea; for they were fishermen."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "And He said to them,“Follow Me, and I will make you fishers of people.”"
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "Immediately they left their nets and followed Him."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "Going on from there, He saw two other brothers,James the son of Zebedee, and John his brother,in the boat with their father Zebedee, mending their nets; and He called them."
+            ]
         },
         {
             "verse": 22,
+            "text": [
+                "Immediately they left the boat and their father, and followed Him."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "Jesus was going about in all of Galilee, teaching in their synagogues,and proclaiming the gospel of the kingdom,and healing every disease and every sickness among the people."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "And the news about Him spread throughout Syria;and they brought to Him all who were ill, those suffering with various diseases and severe pain,demon-possessed people, people with epilepsy, and paralytics; and He healed them."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "Large crowds followed Him from Galilee and the Decapolis,and Jerusalem, and Judea, and from beyond the Jordan."
+            ]
         }
     ]
 }

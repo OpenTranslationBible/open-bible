@@ -4,109 +4,195 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Then Job responded,"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> “Truly then you are the people,",
+                "> And with you wisdom will die!"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> But I have intelligence as well as you;",
+                "> I am not inferior to you.",
+                "> And who does not know such things as these?"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> I am a joke to my friends,",
+                "> One who called on God and He answered him;",
+                "> The just and blameless man is a joke."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> He who is at ease holds disaster in contempt,",
+                "> As prepared for those whose feet slip."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> The tents of the destroyers prosper,",
+                "> And those who provoke God are secure,",
+                "> Whom God brings into their power."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> “But just ask the animals, and they will instruct you;",
+                "> And the birds of the sky, and they will tell you."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Or speak to the earth, and it will instruct you;",
+                "> And let the fish of the sea tell you."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Who among all these does not know",
+                "> That the hand of the Lord has done this,"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> In whose hand is the life of every living thing,",
+                "> And the breath of all mankind?"
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Does the ear not put words to the test,",
+                "> As the palate tastes its food?"
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> Wisdom is with the aged,",
+                "> And understanding in length of days."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> With Him are wisdom and might;",
+                "> To Him belong counsel and understanding."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Behold, He tears down, and it cannot be rebuilt;",
+                "> He imprisons a person, and there is no release."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> Behold, He restrains the waters, and they dry up;",
+                "> And He sends them out, and they inundate the earth."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> Strength and sound wisdom are with Him.",
+                "> One who goes astray and one who leads away belong to Him."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> He makes counsellors walk barefoot,",
+                "> And makes fools of judges."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> He loosens the binding of kings,",
+                "> And binds their waist with a belt."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> He makes priests walk barefoot,",
+                "> And overthrows the secure."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> He removes the speech from the trusted,",
+                "> And takes away the discernment of the elders."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> He pours contempt on nobles,",
+                "> And loosens the belt of the strong."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> He reveals mysteries from the darkness,",
+                "> And brings the deep darkness into light."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> He makes the nations great, then destroys them;",
+                "> He enlarges the nations, then leads them away."
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "> He deprives the leaders of the earth’s people of intelligence,",
+                "> And makes them wander in a pathless wasteland."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> They grope in darkness with no light,",
+                "> And He makes them stagger like a drunken person."
+            ]
         }
     ]
 }

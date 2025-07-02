@@ -4,48 +4,76 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Do not judge, so that you will not be judged."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "For in the way you judge, you will be judged;and by your standard of measure, it will be measured to you."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "Why do you look at the speck that is in your brother’s eye,but do not notice the log that is in your own eye?"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "Or how can you say to your brother,‘Let me take the speck out of your eye,’and behold, the log is in your own eye?"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "You hypocrite, first take the log out of your own eye,and then you will see clearly to take the speck out of your brother’s eye."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "Do not give what is holy to dogs,and do not throw your pearls before pigs,or they will trample them under their feet,and turn and tear you to pieces."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "Ask, and it will be given to you;seek, and you will find;knock, and it will be opened to you."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "For everyone who asks receives,and the one who seeks finds,and to the one who knocks it will be opened."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "Or what person is there among you who, when his son asks for a loaf of bread, will give him a stone?"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "Or if he asks for a fish, he will not give him a snake, will he?"
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "So if you, despite being evil, know how to give good gifts to your children,how much more will your Father who is in heaven give good things to those who ask Him!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -53,84 +81,135 @@
         {
             "verse": 12,
             "text": [
+                "In everything, therefore, treat people the same way you want them to treat you,for this is the Law and the Prophets."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "Enter through the narrow gate;for the gate is wide and the way is broad that leads to destruction,and there are many who enter through it."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "For the gate is narrow and the way is constricted that leads to life,and there are few who find it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "Beware of the false prophets, who come to you in sheep’s clothing,but inwardly are ravenous wolves."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "You will know them by their fruits.Grapes are not gathered from thorn bushes, nor figs from thistles, are they?"
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "So every good tree bears good fruit, but the bad tree bears bad fruit."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "A good tree cannot bear bad fruit, nor can a bad tree bear good fruit."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "Every tree that does not bear good fruit is cut down and thrown into the fire."
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "So then, you will know them by their fruits."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven,but the one who does the will of My Father who is in heaven will enter."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "Many will say to Me on that day,‘Lord, Lord, did we not prophesy in Your name,and in Your name cast out demons,and in Your name perform many miracles?’"
+            ]
         },
         {
             "verse": 23,
+            "text": [
+                "And then I will declare to them,‘I never knew you; leave Me, you who practise lawlessness.’"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "Therefore, everyone who hears these words of Mine and acts on them,will be like a wise man who built his house on the rock."
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "And the rain fell and the floods came, and the winds blew and slammed against that house;and yet it did not fall, for it had been founded on the rock."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "And everyone who hears these words of Mine and does not act on them,will be like a foolish man who built his house on the sand."
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "And the rain fell and the floods came, and the winds blew and slammed against that house;and it fell—and its collapse was great.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "When Jesus had finished these words, the crowds were amazed at His teaching;"
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "for He was teaching them as one who had authority, and not as their scribes."
+            ]
         }
     ]
 }

@@ -1,45 +1,81 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 132,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Remember, Lord, in David’s behalf,",
+                "> All his affliction;"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> How he swore to the Lord",
+                "> And vowed to the Mighty One of Jacob:"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> “I certainly will not enter my house,",
+                "> Nor lie on my bed;"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> I will not give sleep to my eyes,",
+                "> Or slumber to my eyelids,"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Until I find a place for the Lord,",
+                "> A dwelling place for the Mighty One of Jacob.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Behold, we heard about it in Ephrathah,",
+                "> We found it in the field of Jaar."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Let’s go into His dwelling place;",
+                "> Let’s worship at His footstool."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Arise, Lord, to Your resting place,",
+                "> You and the ark of Your strength."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> May Your priests be clothed with righteousness,",
+                "> And may Your godly ones sing for joy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -47,44 +83,83 @@
         {
             "verse": 10,
             "text": [
+                "> For the sake of Your servant David,",
+                "> Do not turn away the face of Your anointed."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> The Lord has sworn to David",
+                "> A truth from which He will not turn back:",
+                "> “I will set upon your throne",
+                "> One from the fruit of your body."
+            ]
         },
         {
             "verse": 12,
+            "text": [
+                "> If your sons will keep My covenant",
+                "> And My testimony which I will teach them,",
+                "> Their sons also will sit upon your throne forever.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> For the Lord has chosen Zion;",
+                "> He has desired it as His dwelling place."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> “This is My resting place forever;",
+                "> Here I will dwell, for I have desired it."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> I will abundantly bless her food;",
+                "> I will satisfy her needy with bread."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> I will also clothe her priests with salvation,",
+                "> And her godly ones will sing aloud for joy."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> I will make the horn of David spring forth there;",
+                "> I have prepared a lamp for My anointed."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> I will clothe his enemies with shame,",
+                "> But upon him his crown will gleam.”"
+            ]
         }
     ]
 }

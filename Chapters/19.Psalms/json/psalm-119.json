@@ -1,752 +1,1343 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 119,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Blessed are those whose way is blameless,",
+                "> Who walk in the Law of the Lord."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Blessed are those who comply with His testimonies,",
+                "> And seek Him with all their heart."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> They also do no injustice;",
+                "> They walk in His ways."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> You have ordained Your precepts,",
+                "> That we are to keep them diligently."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Oh that my ways may be established",
+                "> To keep Your statutes!"
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Then I will not be ashamed",
+                "> When I look at all Your commandments."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> I will give thanks to You with uprightness of heart,",
+                "> When I learn Your righteous judgments."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> I will keep Your statutes;",
+                "> Do not utterly abandon me!"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> How can a young man keep his way pure?",
+                "> By keeping it according to Your word."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> With all my heart I have sought You;",
+                "> Do not let me wander from Your commandments."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> I have treasured Your word in my heart,",
+                "> So that I may not sin against You."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Blessed are You, Lord;",
+                "> Teach me Your statutes."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> With my lips I have told of",
+                "> All the ordinances of Your mouth."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> I have rejoiced in the way of Your testimonies,",
+                "> As much as in all riches."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> I will meditate on Your precepts",
+                "> And regard Your ways."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> I shall delight in Your statutes;",
+                "> I will not forget Your word."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Deal generously with Your servant,",
+                "> That I may live and keep Your word."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Open my eyes, that I may behold",
+                "> Wonderful things from Your Law."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> I am a stranger on the earth;",
+                "> Do not hide Your commandments from me."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> My soul is crushed with longing",
+                "> For Your ordinances at all times."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> You rebuke the arrogant, the cursed,",
+                "> Who stray from Your commandments."
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Take disgrace and contempt away from me,",
+                "> For I comply with Your testimonies."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Even though rulers sit and speak against me,",
+                "> Your servant meditates on Your statutes."
+            ]
         },
         {
             "verse": 24,
+            "text": [
+                "> Your testimonies also are my delight;",
+                "> They are my advisers."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> My soul clings to the dust;",
+                "> Revive me according to Your word."
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> I have told of my ways, and You have answered me;",
+                "> Teach me Your statutes."
+            ]
         },
         {
             "verse": 27,
-            "text": []
+            "text": [
+                "> Make me understand the way of Your precepts,",
+                "> So that I will meditate on Your wonders."
+            ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> My soul weeps because of grief;",
+                "> Strengthen me according to Your word."
+            ]
         },
         {
             "verse": 29,
-            "text": []
+            "text": [
+                "> Remove the false way from me,",
+                "> And graciously grant me Your Law."
+            ]
         },
         {
             "verse": 30,
-            "text": []
+            "text": [
+                "> I have chosen the faithful way;",
+                "> I have placed Your judgments before me."
+            ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "> I cling to Your testimonies;",
+                "> Lord, do not put me to shame!"
+            ]
         },
         {
             "verse": 32,
+            "text": [
+                "> I shall run the way of Your commandments,",
+                "> For You will enlarge my heart."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 33,
-            "text": []
+            "text": [
+                "> Teach me, the way of Your statutes, Lord,",
+                "> And I shall comply with it to the end."
+            ]
         },
         {
             "verse": 34,
-            "text": []
+            "text": [
+                "> Give me understanding, so that I may comply with Your Law",
+                "> And keep it with all my heart."
+            ]
         },
         {
             "verse": 35,
-            "text": []
+            "text": [
+                "> Make me walk in the path of Your commandments,",
+                "> For I delight in it."
+            ]
         },
         {
             "verse": 36,
-            "text": []
+            "text": [
+                "> Incline my heart to Your testimonies,",
+                "> And not to dishonest gain."
+            ]
         },
         {
             "verse": 37,
-            "text": []
+            "text": [
+                "> Turn my eyes away from looking at what is worthless,",
+                "> And revive me in Your ways."
+            ]
         },
         {
             "verse": 38,
-            "text": []
+            "text": [
+                "> Establish Your word to Your servant,",
+                "> As that which produces reverence for You."
+            ]
         },
         {
             "verse": 39,
-            "text": []
+            "text": [
+                "> Take away my disgrace which I dread,",
+                "> For Your judgments are good."
+            ]
         },
         {
             "verse": 40,
+            "text": [
+                "> Behold, I long for Your precepts;",
+                "> Revive me through Your righteousness."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 41,
-            "text": []
+            "text": [
+                "> May Your favour also come to me, Lord,",
+                "> Your salvation according to Your word;"
+            ]
         },
         {
             "verse": 42,
-            "text": []
+            "text": [
+                "> So that I will have an answer for one who taunts me,",
+                "> For I trust in Your word."
+            ]
         },
         {
             "verse": 43,
-            "text": []
+            "text": [
+                "> And do not take the word of truth utterly out of my mouth,",
+                "> For I wait for Your judgments."
+            ]
         },
         {
             "verse": 44,
-            "text": []
+            "text": [
+                "> So I will keep Your Law continually,",
+                "> Forever and ever."
+            ]
         },
         {
             "verse": 45,
-            "text": []
+            "text": [
+                "> And I will walk at liberty,",
+                "> For I seek Your precepts."
+            ]
         },
         {
             "verse": 46,
-            "text": []
+            "text": [
+                "> I will also speak of Your testimonies before kings,",
+                "> And shall not be ashamed."
+            ]
         },
         {
             "verse": 47,
-            "text": []
+            "text": [
+                "> I will delight in Your commandments,",
+                "> Which I love."
+            ]
         },
         {
             "verse": 48,
+            "text": [
+                "> And I shall lift up my hands to Your commandments, which I love;",
+                "> And I will meditate on Your statutes."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 49,
-            "text": []
+            "text": [
+                "> Remember the word to Your servant,",
+                "> In which You have made me hope."
+            ]
         },
         {
             "verse": 50,
-            "text": []
+            "text": [
+                "> This is my comfort in my misery,",
+                "> That Your word has revived me."
+            ]
         },
         {
             "verse": 51,
-            "text": []
+            "text": [
+                "> The arrogant utterly deride me,",
+                "> Yet I do not turn aside from Your Law."
+            ]
         },
         {
             "verse": 52,
-            "text": []
+            "text": [
+                "> I have remembered Your judgments from of old, Lord,",
+                "> And comfort myself."
+            ]
         },
         {
             "verse": 53,
-            "text": []
+            "text": [
+                "> Burning indignation has seized me because of the wicked,",
+                "> Who abandon Your Law."
+            ]
         },
         {
             "verse": 54,
-            "text": []
+            "text": [
+                "> Your statutes have been my songs",
+                "> In the house of my pilgrimage."
+            ]
         },
         {
             "verse": 55,
-            "text": []
+            "text": [
+                "> Lord, I remember Your name in the night,",
+                "> And keep Your Law."
+            ]
         },
         {
             "verse": 56,
+            "text": [
+                "> This has become mine,",
+                "> That I comply with Your precepts."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 57,
-            "text": []
+            "text": [
+                "> The Lord is my portion;",
+                "> I have promised to keep Your words."
+            ]
         },
         {
             "verse": 58,
-            "text": []
+            "text": [
+                "> I sought Your favour with all my heart;",
+                "> Be gracious to me according to Your word."
+            ]
         },
         {
             "verse": 59,
-            "text": []
+            "text": [
+                "> I considered my ways",
+                "> And turned my feet to Your testimonies."
+            ]
         },
         {
             "verse": 60,
-            "text": []
+            "text": [
+                "> I hurried and did not delay",
+                "> To keep Your commandments."
+            ]
         },
         {
             "verse": 61,
-            "text": []
+            "text": [
+                "> The snares of the wicked have surrounded me,",
+                "> But I have not forgotten Your Law."
+            ]
         },
         {
             "verse": 62,
-            "text": []
+            "text": [
+                "> I rise at midnight to give thanks to You",
+                "> Because of Your righteous judgments."
+            ]
         },
         {
             "verse": 63,
-            "text": []
+            "text": [
+                "> I am a companion to all those who fear You,",
+                "> And to those who keep Your precepts."
+            ]
         },
         {
             "verse": 64,
+            "text": [
+                "> The earth is full of Your mercy, Lord;",
+                "> Teach me Your statutes."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 65,
-            "text": []
+            "text": [
+                "> You have treated Your servant well, Lord,",
+                "> According to Your word."
+            ]
         },
         {
             "verse": 66,
-            "text": []
+            "text": [
+                "> Teach me good discernment and knowledge,",
+                "> For I believe in Your commandments."
+            ]
         },
         {
             "verse": 67,
-            "text": []
+            "text": [
+                "> Before I was afflicted I went astray,",
+                "> But now I keep Your word."
+            ]
         },
         {
             "verse": 68,
-            "text": []
+            "text": [
+                "> You are good and do good;",
+                "> Teach me Your statutes."
+            ]
         },
         {
             "verse": 69,
-            "text": []
+            "text": [
+                "> The arrogant have forged a lie against me;",
+                "> With all my heart I will comply with Your precepts."
+            ]
         },
         {
             "verse": 70,
-            "text": []
+            "text": [
+                "> Their heart is insensitive, like fat,",
+                "> But I delight in Your Law."
+            ]
         },
         {
             "verse": 71,
-            "text": []
+            "text": [
+                "> It is good for me that I was afflicted,",
+                "> So that I may learn Your statutes."
+            ]
         },
         {
             "verse": 72,
+            "text": [
+                "> The Law of Your mouth is better to me",
+                "> Than thousands of gold and silver pieces."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 73,
-            "text": []
+            "text": [
+                "> Your hands made me and fashioned me;",
+                "> Give me understanding, so that I may learn Your commandments."
+            ]
         },
         {
             "verse": 74,
-            "text": []
+            "text": [
+                "> May those who fear You see me and be glad,",
+                "> Because I wait for Your word."
+            ]
         },
         {
             "verse": 75,
-            "text": []
+            "text": [
+                "> I know, Lord, that Your judgments are righteous,",
+                "> And that You have afflicted me in faithfulness."
+            ]
         },
         {
             "verse": 76,
-            "text": []
+            "text": [
+                "> May Your favour comfort me,",
+                "> According to Your word to Your servant."
+            ]
         },
         {
             "verse": 77,
-            "text": []
+            "text": [
+                "> May Your compassion come to me so that I may live,",
+                "> For Your Law is my delight."
+            ]
         },
         {
             "verse": 78,
-            "text": []
+            "text": [
+                "> May the arrogant be ashamed, for they wrong me with lies;",
+                "> But I shall meditate on Your precepts."
+            ]
         },
         {
             "verse": 79,
-            "text": []
+            "text": [
+                "> May those who fear You turn to me,",
+                "> And those who know Your testimonies."
+            ]
         },
         {
             "verse": 80,
+            "text": [
+                "> May my heart be blameless in Your statutes,",
+                "> So that I will not be ashamed."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 81,
-            "text": []
+            "text": [
+                "> My soul languishes for Your salvation;",
+                "> I wait for Your word."
+            ]
         },
         {
             "verse": 82,
-            "text": []
+            "text": [
+                "> My eyes fail with longing for Your word,",
+                "> While I say, “When will You comfort me?”"
+            ]
         },
         {
             "verse": 83,
-            "text": []
+            "text": [
+                "> Though I have become like a wineskin in the smoke,",
+                "> I do not forget Your statutes."
+            ]
         },
         {
             "verse": 84,
-            "text": []
+            "text": [
+                "> How many are the days of Your servant?",
+                "> When will You execute judgment on those who persecute me?"
+            ]
         },
         {
             "verse": 85,
-            "text": []
+            "text": [
+                "> The arrogant have dug pits for me,",
+                "> People who are not in accord with Your Law."
+            ]
         },
         {
             "verse": 86,
-            "text": []
+            "text": [
+                "> All Your commandments are faithful;",
+                "> They have persecuted me with lies; help me!"
+            ]
         },
         {
             "verse": 87,
-            "text": []
+            "text": [
+                "> They almost destroyed me on earth,",
+                "> But as for me, I did not abandon Your precepts."
+            ]
         },
         {
             "verse": 88,
+            "text": [
+                "> Revive me according to Your mercy,",
+                "> So that I may keep the testimony of Your mouth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 89,
-            "text": []
+            "text": [
+                "> Forever, Lord,",
+                "> Your word stands in heaven."
+            ]
         },
         {
             "verse": 90,
-            "text": []
+            "text": [
+                "> Your faithfulness continues throughout generations;",
+                "> You established the earth, and it stands."
+            ]
         },
         {
             "verse": 91,
-            "text": []
+            "text": [
+                "> They stand this day by Your ordinances,",
+                "> For all things are Your servants."
+            ]
         },
         {
             "verse": 92,
-            "text": []
+            "text": [
+                "> If Your Law had not been my delight,",
+                "> Then I would have perished in my misery."
+            ]
         },
         {
             "verse": 93,
-            "text": []
+            "text": [
+                "> I will never forget Your precepts,",
+                "> For by them You have revived me."
+            ]
         },
         {
             "verse": 94,
-            "text": []
+            "text": [
+                "> I am Yours, save me;",
+                "> For I have sought Your precepts."
+            ]
         },
         {
             "verse": 95,
-            "text": []
+            "text": [
+                "> The wicked wait for me to destroy me;",
+                "> I will diligently consider Your testimonies."
+            ]
         },
         {
             "verse": 96,
+            "text": [
+                "> I have seen a limit to all perfection;",
+                "> Your commandment is exceedingly broad."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 97,
-            "text": []
+            "text": [
+                "> How I love Your Law!",
+                "> It is my meditation all the day."
+            ]
         },
         {
             "verse": 98,
-            "text": []
+            "text": [
+                "> Your commandments make me wiser than my enemies,",
+                "> For they are ever mine."
+            ]
         },
         {
             "verse": 99,
-            "text": []
+            "text": [
+                "> I have more insight than all my teachers,",
+                "> For Your testimonies are my meditation."
+            ]
         },
         {
             "verse": 100,
-            "text": []
+            "text": [
+                "> I understand more than those who are old,",
+                "> Because I have complied with Your precepts."
+            ]
         },
         {
             "verse": 101,
-            "text": []
+            "text": [
+                "> I have restrained my feet from every evil way,",
+                "> So that I may keep Your word."
+            ]
         },
         {
             "verse": 102,
-            "text": []
+            "text": [
+                "> I have not turned aside from Your judgments,",
+                "> For You Yourself have taught me."
+            ]
         },
         {
             "verse": 103,
-            "text": []
+            "text": [
+                "> How sweet are Your words to my taste!",
+                "> Yes, sweeter than honey to my mouth!"
+            ]
         },
         {
             "verse": 104,
+            "text": [
+                "> From Your precepts I get understanding;",
+                "> Therefore I hate every false way."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 105,
-            "text": []
+            "text": [
+                "> Your word is a lamp to my feet",
+                "> And a light to my path."
+            ]
         },
         {
             "verse": 106,
-            "text": []
+            "text": [
+                "> I have sworn and I will confirm it,",
+                "> That I will keep Your righteous judgments."
+            ]
         },
         {
             "verse": 107,
-            "text": []
+            "text": [
+                "> I am exceedingly afflicted;",
+                "> Revive me, Lord, according to Your word."
+            ]
         },
         {
             "verse": 108,
-            "text": []
+            "text": [
+                "> Please accept the voluntary offerings of my mouth, Lord,",
+                "> And teach me Your judgments."
+            ]
         },
         {
             "verse": 109,
-            "text": []
+            "text": [
+                "> My life is continually in my hand,",
+                "> Yet I do not forget Your Law."
+            ]
         },
         {
             "verse": 110,
-            "text": []
+            "text": [
+                "> The wicked have set a trap for me,",
+                "> Yet I have not wandered from Your precepts."
+            ]
         },
         {
             "verse": 111,
-            "text": []
+            "text": [
+                "> I have inherited Your testimonies forever,",
+                "> For they are the joy of my heart."
+            ]
         },
         {
             "verse": 112,
+            "text": [
+                "> I have inclined my heart to perform Your statutes",
+                "> Forever, even to the end."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 113,
-            "text": []
+            "text": [
+                "> I hate those who are double-minded,",
+                "> But I love Your Law."
+            ]
         },
         {
             "verse": 114,
-            "text": []
+            "text": [
+                "> You are my hiding place and my shield;",
+                "> I wait for Your word."
+            ]
         },
         {
             "verse": 115,
-            "text": []
+            "text": [
+                "> Leave me, you evildoers,",
+                "> So that I may comply with the commandments of my God."
+            ]
         },
         {
             "verse": 116,
-            "text": []
+            "text": [
+                "> Sustain me according to Your word, that I may live;",
+                "> And do not let me be ashamed of my hope."
+            ]
         },
         {
             "verse": 117,
-            "text": []
+            "text": [
+                "> Uphold me so that I may be safe,",
+                "> That I may have regard for Your statutes continually."
+            ]
         },
         {
             "verse": 118,
-            "text": []
+            "text": [
+                "> You have rejected all those who stray from Your statutes,",
+                "> For their deceitfulness is useless."
+            ]
         },
         {
             "verse": 119,
-            "text": []
+            "text": [
+                "> You have removed all the wicked of the earth like impurities;",
+                "> Therefore I love Your testimonies."
+            ]
         },
         {
             "verse": 120,
+            "text": [
+                "> My flesh trembles from the fear of You,",
+                "> And I am afraid of Your judgments."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 121,
-            "text": []
+            "text": [
+                "> I have done justice and righteousness;",
+                "> Do not leave me to my oppressors."
+            ]
         },
         {
             "verse": 122,
-            "text": []
+            "text": [
+                "> Be a guarantor for Your servant for good;",
+                "> Do not let the arrogant oppress me."
+            ]
         },
         {
             "verse": 123,
-            "text": []
+            "text": [
+                "> My eyes fail with longing for Your salvation,",
+                "> And for Your righteous word."
+            ]
         },
         {
             "verse": 124,
-            "text": []
+            "text": [
+                "> Deal with Your servant according to Your mercy,",
+                "> And teach me Your statutes."
+            ]
         },
         {
             "verse": 125,
-            "text": []
+            "text": [
+                "> I am Your servant; give me understanding,",
+                "> So that I may know Your testimonies."
+            ]
         },
         {
             "verse": 126,
-            "text": []
+            "text": [
+                "> It is time for the Lord to act,",
+                "> For they have broken Your Law."
+            ]
         },
         {
             "verse": 127,
-            "text": []
+            "text": [
+                "> Therefore I love Your commandments",
+                "> More than gold, yes, more than pure gold."
+            ]
         },
         {
             "verse": 128,
+            "text": [
+                "> Therefore I carefully follow all Your precepts concerning everything,",
+                "> I hate every false way."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 129,
-            "text": []
+            "text": [
+                "> Your testimonies are wonderful;",
+                "> Therefore my soul complies with them."
+            ]
         },
         {
             "verse": 130,
-            "text": []
+            "text": [
+                "> The unfolding of Your words gives light;",
+                "> It gives understanding to the simple."
+            ]
         },
         {
             "verse": 131,
-            "text": []
+            "text": [
+                "> I opened my mouth wide and panted,",
+                "> For I longed for Your commandments."
+            ]
         },
         {
             "verse": 132,
-            "text": []
+            "text": [
+                "> Turn to me and be gracious to me,",
+                "> As is right for those who love Your name."
+            ]
         },
         {
             "verse": 133,
-            "text": []
+            "text": [
+                "> Establish my footsteps in Your word,",
+                "> And do not let any wrongdoing have power over me."
+            ]
         },
         {
             "verse": 134,
-            "text": []
+            "text": [
+                "> Redeem me from oppression by man,",
+                "> So that I may keep Your precepts."
+            ]
         },
         {
             "verse": 135,
-            "text": []
+            "text": [
+                "> Make Your face shine upon Your servant,",
+                "> And teach me Your statutes."
+            ]
         },
         {
             "verse": 136,
+            "text": [
+                "> My eyes shed streams of water,",
+                "> Because they do not keep Your Law."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 137,
-            "text": []
+            "text": [
+                "> You are righteous, Lord,",
+                "> And Your judgments are right."
+            ]
         },
         {
             "verse": 138,
-            "text": []
+            "text": [
+                "> You have commanded Your testimonies in righteousness",
+                "> And in great faithfulness."
+            ]
         },
         {
             "verse": 139,
-            "text": []
+            "text": [
+                "> My zeal has consumed me,",
+                "> Because my enemies have forgotten Your words."
+            ]
         },
         {
             "verse": 140,
-            "text": []
+            "text": [
+                "> Your word is very pure,",
+                "> Therefore Your servant loves it."
+            ]
         },
         {
             "verse": 141,
-            "text": []
+            "text": [
+                "> I am insignificant and despised,",
+                "> Yet I do not forget Your precepts."
+            ]
         },
         {
             "verse": 142,
-            "text": []
+            "text": [
+                "> Your righteousness is an everlasting righteousness,",
+                "> And Your Law is truth."
+            ]
         },
         {
             "verse": 143,
-            "text": []
+            "text": [
+                "> Trouble and anguish have found me,",
+                "> Yet Your commandments are my delight."
+            ]
         },
         {
             "verse": 144,
+            "text": [
+                "> Your testimonies are righteous forever;",
+                "> Give me understanding so that I may live."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 145,
-            "text": []
+            "text": [
+                "> I cried out with all my heart; answer me, Lord!",
+                "> I will comply with Your statutes."
+            ]
         },
         {
             "verse": 146,
-            "text": []
+            "text": [
+                "> I cried to You; save me,",
+                "> And I shall keep Your testimonies."
+            ]
         },
         {
             "verse": 147,
-            "text": []
+            "text": [
+                "> I rise before dawn and cry for help;",
+                "> I wait for Your words."
+            ]
         },
         {
             "verse": 148,
-            "text": []
+            "text": [
+                "> My eyes anticipate the night watches,",
+                "> So that I may meditate on Your word."
+            ]
         },
         {
             "verse": 149,
-            "text": []
+            "text": [
+                "> Hear my voice according to Your mercy;",
+                "> Revive me, Lord, according to Your judgments."
+            ]
         },
         {
             "verse": 150,
-            "text": []
+            "text": [
+                "> Those who follow after wickedness approach;",
+                "> They are far from Your Law."
+            ]
         },
         {
             "verse": 151,
-            "text": []
+            "text": [
+                "> Yet You are near, Lord,",
+                "> And all Your commandments are truth."
+            ]
         },
         {
             "verse": 152,
+            "text": [
+                "> Of old I have known from Your testimonies,",
+                "> That You have founded them forever."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 153,
-            "text": []
+            "text": [
+                "> Look at my affliction and rescue me,",
+                "> For I do not forget Your Law."
+            ]
         },
         {
             "verse": 154,
-            "text": []
+            "text": [
+                "> Plead my case and redeem me;",
+                "> Revive me according to Your word."
+            ]
         },
         {
             "verse": 155,
-            "text": []
+            "text": [
+                "> Salvation is far from the wicked,",
+                "> For they do not seek Your statutes."
+            ]
         },
         {
             "verse": 156,
-            "text": []
+            "text": [
+                "> Great are Your mercies, Lord;",
+                "> Revive me according to Your judgments."
+            ]
         },
         {
             "verse": 157,
-            "text": []
+            "text": [
+                "> Many are my persecutors and my enemies,",
+                "> Yet I do not turn aside from Your testimonies."
+            ]
         },
         {
             "verse": 158,
-            "text": []
+            "text": [
+                "> I see the treacherous and loathe them,",
+                "> Because they do not keep Your word."
+            ]
         },
         {
             "verse": 159,
-            "text": []
+            "text": [
+                "> Consider how I love Your precepts;",
+                "> Revive me, Lord, according to Your mercy."
+            ]
         },
         {
             "verse": 160,
+            "text": [
+                "> The sum of Your word is truth,",
+                "> And every one of Your righteous judgments is everlasting."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 161,
-            "text": []
+            "text": [
+                "> Princes persecute me without cause,",
+                "> But my heart stands in awe of Your words."
+            ]
         },
         {
             "verse": 162,
-            "text": []
+            "text": [
+                "> I rejoice at Your word,",
+                "> Like one who finds great spoil."
+            ]
         },
         {
             "verse": 163,
-            "text": []
+            "text": [
+                "> I hate and loathe falsehood,",
+                "> But I love Your Law."
+            ]
         },
         {
             "verse": 164,
-            "text": []
+            "text": [
+                "> Seven times a day I praise You",
+                "> Because of Your righteous judgments."
+            ]
         },
         {
             "verse": 165,
-            "text": []
+            "text": [
+                "> Those who love Your Law have great peace,",
+                "> And nothing causes them to stumble."
+            ]
         },
         {
             "verse": 166,
-            "text": []
+            "text": [
+                "> I hope for Your salvation, Lord,",
+                "> And do Your commandments."
+            ]
         },
         {
             "verse": 167,
-            "text": []
+            "text": [
+                "> My soul keeps Your testimonies,",
+                "> And I love them exceedingly."
+            ]
         },
         {
             "verse": 168,
+            "text": [
+                "> I keep Your precepts and Your testimonies,",
+                "> For all my ways are before You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 169,
-            "text": []
+            "text": [
+                "> Let my cry come before You, Lord;",
+                "> Give me understanding according to Your word."
+            ]
         },
         {
             "verse": 170,
-            "text": []
+            "text": [
+                "> Let my pleading come before You;",
+                "> Save me according to Your word."
+            ]
         },
         {
             "verse": 171,
-            "text": []
+            "text": [
+                "> Let my lips pour out praise,",
+                "> For You teach me Your statutes."
+            ]
         },
         {
             "verse": 172,
-            "text": []
+            "text": [
+                "> Let my tongue sing of Your word,",
+                "> For all Your commandments are righteousness."
+            ]
         },
         {
             "verse": 173,
-            "text": []
+            "text": [
+                "> Let Your hand be ready to help me,",
+                "> For I have chosen Your precepts."
+            ]
         },
         {
             "verse": 174,
-            "text": []
+            "text": [
+                "> I long for Your salvation, Lord,",
+                "> And Your Law is my delight."
+            ]
         },
         {
             "verse": 175,
-            "text": []
+            "text": [
+                "> Let my soul live that it may praise You,",
+                "> And let Your ordinances help me."
+            ]
         },
         {
             "verse": 176,
-            "text": []
+            "text": [
+                "> I have wandered about like a lost sheep; seek Your servant,",
+                "> For I do not forget Your commandments."
+            ]
         }
     ]
 }

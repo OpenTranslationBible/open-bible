@@ -1,56 +1,99 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 16,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Protect me, God, for I take refuge in You."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> I said to the Lord, “You are my Lord;",
+                "> I have no good besides You.”"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> As for the saints who are on the earth,",
+                "> They are the majestic ones; all my delight is in them."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> The pains of those who have acquired another god will be multiplied;",
+                "> I will not pour out their drink offerings of blood,",
+                "> Nor will I take their names upon my lips."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The Lord is the portion of my inheritance and my cup;",
+                "> You support my lot."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> The measuring lines have fallen for me in pleasant places;",
+                "> Indeed, my inheritance is beautiful to me."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> I will bless the Lord who has advised me;",
+                "> Indeed, my mind instructs me in the night."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> I have set the Lord continually before me;",
+                "> Because He is at my right hand, I will not be shaken."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Therefore my heart is glad and my glory rejoices;",
+                "> My flesh also will dwell securely."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> For You will not abandon my soul to Sheol;",
+                "> You will not allow Your Holy One to undergo decay."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> You will make known to me the path of life;",
+                "> In Your presence is fullness of joy;",
+                "> In Your right hand there are pleasures forever."
+            ]
         }
     ]
 }

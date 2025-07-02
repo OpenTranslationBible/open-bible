@@ -1,84 +1,153 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 7,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Lord my God, in You I have taken refuge;",
+                "> Save me from all those who pursue me, and rescue me,"
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Or he will tear my soul like a lion,",
+                "> Dragging me away, while there is no one to rescue."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Lord my God, if I have done this,",
+                "> If there is injustice in my hands,"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> If I have done evil to my ally,",
+                "> Or have plundered my enemy for no reason,"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Let the enemy pursue my soul and overtake it;",
+                "> And let him trample my life to the ground",
+                "> And lay my glory in the dust."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Arise, Lord, in Your anger;",
+                "> Raise Yourself against the rage of my enemies,",
+                "> And stir Yourself for me;",
+                "> You have ordered judgment."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Let the assembly of the peoples encompass You,",
+                "> And return on high over it."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The Lord judges the peoples;",
+                "> Vindicate me, Lord, according to my righteousness and my integrity that is in me."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> Please let the evil of the wicked come to an end, but establish the righteous;",
+                "> For the righteous God puts hearts and minds to the test."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> My shield is with God,",
+                "> Who saves the upright in heart."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> God is a righteous judge,",
+                "> And a God who shows indignation every day."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> If one does not repent, He will sharpen His sword;",
+                "> He has bent His bow and taken aim."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> He has also prepared deadly weapons for Himself;",
+                "> He makes His arrows fiery shafts."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> Behold, an evil person is pregnant with injustice,",
+                "> And he conceives harm and gives birth to lies."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> He has dug a pit and hollowed it out,",
+                "> And has fallen into the hole which he made."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> His harm will return on his own head,",
+                "> And his violence will descend on the top of his own head."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> I will give thanks to the Lord according to His righteousness",
+                "> And will sing praise to the name of the Lord Most High."
+            ]
         }
     ]
 }

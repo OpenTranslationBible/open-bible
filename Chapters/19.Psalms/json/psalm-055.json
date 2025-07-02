@@ -1,67 +1,124 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 55,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Listen to my prayer, God;",
+                "> And do not hide Yourself from my pleading."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Give Your attention to me and answer me;",
+                "> I am restless in my complaint and severely distracted,"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Because of the voice of the enemy,",
+                "> Because of the pressure of the wicked;",
+                "> For they bring down trouble upon me",
+                "> And in anger they hold a grudge against me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> My heart is in anguish within me,",
+                "> And the terrors of death have fallen upon me."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Fear and trembling come upon me,",
+                "> And horror has overwhelmed me."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> I said, “Oh, that I had wings like a dove!",
+                "> I would fly away and be at rest."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> Behold, I would flee far away,",
+                "> I would spend my night in the wilderness."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> I would hurry to my place of refuge",
+                "> From the stormy wind and heavy gale.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Confuse them, Lord, divide their tongues,",
+                "> For I have seen violence and strife in the city."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Day and night they go around her upon her walls,",
+                "> And evil and harm are in her midst."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> Destruction is in her midst;",
+                "> Oppression and deceit do not depart from her streets."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> For it is not an enemy who taunts me, then I could endure it;",
+                "> Nor is it one who hates me who has exalted himself against me,",
+                "> Then I could hide myself from him."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> But it is you, a man my equal,",
+                "> My companion and my confidant;"
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> We who had sweet fellowship together,",
+                "> Walked in the house of God among the commotion."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -69,44 +126,87 @@
         {
             "verse": 15,
             "text": [
+                "> May death come deceitfully upon them;",
+                "> May they go down alive to Sheol,",
+                "> For evil is in their dwelling, in their midst."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> As for me, I shall call upon God,",
+                "> And the Lord will save me."
+            ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Evening and morning and at noon, I will complain and moan,",
+                "> And He will hear my voice."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> He will redeem my soul in peace from the battle against me,",
+                "> For they are many who are aggressive toward me."
+            ]
         },
         {
             "verse": 19,
+            "text": [
+                "> God will hear and humiliate them—",
+                "> Even the one who sits enthroned from ancient times—",
+                "> ",
+                "> Because they do not change,",
+                "> And do not fear God."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> He has put forth his hands against those who were at peace with him;",
+                "> He has violated his covenant."
+            ]
         },
         {
             "verse": 21,
+            "text": [
+                "> His speech was smoother than butter,",
+                "> But his heart was war;",
+                "> His words were softer than oil,",
+                "> Yet they were drawn swords."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> Cast your burden upon the Lord and He will sustain you;",
+                "> He will never allow the righteous to be shaken."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> But You, God, will bring them down to the pit of destruction;",
+                "> Men of bloodshed and deceit will not live out half their days.",
+                "> But I will trust in You."
+            ]
         }
     ]
 }

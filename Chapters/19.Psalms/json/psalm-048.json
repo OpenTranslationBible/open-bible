@@ -1,37 +1,68 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 48,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Great is the Lord, and greatly to be praised",
+                "> In the city of our God, His holy mountain."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Beautiful in elevation, the joy of the whole earth,",
+                "> Is Mount Zion in the far north,",
+                "> The city of the great King."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> God in her palaces",
+                "> Has made Himself known as a stronghold."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> For, behold, the kings arrived,",
+                "> They passed by together."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> They saw it, then they were amazed;",
+                "> They were terrified, they fled in a hurry."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Panic seized them there,",
+                "> Anguish, like a woman in childbirth."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> With the east wind",
+                "> You smash the ships of Tarshish."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -39,34 +70,66 @@
         {
             "verse": 8,
             "text": [
+                "> Just as we have heard, so we have seen",
+                "> In the city of the Lord of armies, in the city of our God;",
+                "> God will establish her forever."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> We have thought over Your mercy, God,",
+                "> In the midst of Your temple."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> As is Your name, God,",
+                "> So is Your praise to the ends of the earth;",
+                "> Your right hand is full of righteousness."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> Mount Zion shall be glad,",
+                "> The daughters of Judah shall rejoice",
+                "> Because of Your judgments."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> Walk around Zion and encircle her;",
+                "> Count her towers;"
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> Consider her ramparts;",
+                "> Go through her palaces,",
+                "> So that you may tell of it to the next generation."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> For such is God,",
+                "> Our God forever and ever;",
+                "> He will lead us until death."
+            ]
         }
     ]
 }

@@ -1,38 +1,54 @@
 {
-  "book": "Genesis",
-  "chapter": 45,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Then Joseph could no longer control himself before all his attendants, and he cried out, \u201cHave everyone leave my presence!\u201d So there was no one with Joseph when he made himself known to his brothers."
-    },
-    {
-      "verse": 2,
-      "text": "And he wept so loudly that the Egyptians heard him, and Pharaoh\u2019s household heard about it."
-    },
-    {
-      "verse": 3,
-      "text": "Joseph said to his brothers, \u201cI am Joseph! Is my father still living?\u201d But his brothers were not able to answer him, because they were terrified at his presence."
-    },
-    {
-      "verse": 4,
-      "text": "Then Joseph said to his brothers, \u201cCome close to me.\u201d When they had done so, he said, \u201cI am your brother Joseph, the one you sold into Egypt!"
-    },
-    {
-      "verse": 5,
-      "text": "And now, do not be distressed or angry with yourselves for selling me here, because it was to save lives that God sent me ahead of you."
-    },
-    {
-      "verse": 6,
-      "text": "For two years now there has been famine in the land, and for the next five years there will be no ploughing and reaping."
-    },
-    {
-      "verse": 7,
-      "text": "But God sent me ahead of you to preserve for you a remnant on earth and to save your lives by a great deliverance."
-    },
-    {
-      "verse": 8,
-      "text": "So then, it was not you who sent me here, but God. He made me father to Pharaoh, lord of his entire household and ruler of all Egypt."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 45,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Then Joseph could no longer control himself before all his attendants, and he cried out, “Have everyone leave my presence!” So there was no one with Joseph when he made himself known to his brothers."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "And he wept so loudly that the Egyptians heard him, and Pharaoh’s household heard about it."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Joseph said to his brothers, “I am Joseph! Is my father still living?” But his brothers were not able to answer him, because they were terrified at his presence."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Then Joseph said to his brothers, “Come close to me.” When they had done so, he said, “I am your brother Joseph, the one you sold into Egypt!"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "And now, do not be distressed or angry with yourselves for selling me here, because it was to save lives that God sent me ahead of you."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "For two years now there has been famine in the land, and for the next five years there will be no ploughing and reaping."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "But God sent me ahead of you to preserve for you a remnant on earth and to save your lives by a great deliverance."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "So then, it was not you who sent me here, but God. He made me father to Pharaoh, lord of his entire household and ruler of all Egypt."
+            ]
+        }
+    ]
 }

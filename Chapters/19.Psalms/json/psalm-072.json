@@ -1,99 +1,184 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 72,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Give the king Your judgments, God,",
+                "> And Your righteousness to the king’s son."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> May he judge Your people with righteousness",
+                "> And Your afflicted with justice."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> May the mountains bring peace to the people,",
+                "> And the hills, in righteousness."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> May he vindicate the afflicted of the people,",
+                "> Save the children of the needy,",
+                "> And crush the oppressor."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> May they fear You while the sun shines,",
+                "> And as long as the moon shines, throughout all generations."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> May he come down like rain upon the mown grass,",
+                "> Like showers that water the earth."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> May the righteous flourish in his days,",
+                "> And abundance of peace until the moon is no more."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> May he also rule from sea to sea,",
+                "> And from the Euphrates River to the ends of the earth."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> May the nomads of the desert bow before him,",
+                "> And his enemies lick the dust."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> May the kings of Tarshish and of the islands bring gifts;",
+                "> May the kings of Sheba and Seba offer tributes."
+            ]
         },
         {
             "verse": 11,
+            "text": [
+                "> And may all kings bow down before him,",
+                "> All nations serve him."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> For he will save the needy when he cries for help,",
+                "> The afflicted also, and him who has no helper."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> He will have compassion on the poor and needy,",
+                "> And he will save the lives of the needy."
+            ]
         },
         {
             "verse": 14,
+            "text": [
+                "> He will rescue their life from oppression and violence,",
+                "> And their blood will be precious in his sight."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> So may he live, and may the gold of Sheba be given to him;",
+                "> And they are to pray for him continually;",
+                "> They are to bless him all day long."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "> May there be plenty of grain on the earth on top of the mountains;",
+                "> Its fruit will wave like the cedars of Lebanon;",
+                "> And may those from the city flourish like the vegetation of the earth."
+            ]
         },
         {
             "verse": 17,
             "text": [
-                "---",
+                "> May his name endure forever;",
+                "> May his name increase as long as the sun shines;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> Blessed be the Lord God, the God of Israel,",
+                "> Who alone works wonders."
+            ]
         },
         {
             "verse": 19,
+            "text": [
+                "> And blessed be His glorious name forever;",
+                "> And may the whole earth be filled with His glory.",
+                "> Amen and Amen."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> The prayers of David the son of Jesse are ended."
+            ]
         }
     ]
 }

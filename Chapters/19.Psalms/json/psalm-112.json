@@ -1,52 +1,94 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 112,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Praise the Lord!",
+                "> Blessed is a person who fears the Lord,",
+                "> Who greatly delights in His commandments."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> His descendants will be mighty on the earth;",
+                "> The generation of the upright will be blessed."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Wealth and riches are in his house,",
+                "> And his righteousness endures forever."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Light shines in the darkness for the upright;",
+                "> He is gracious, compassionate, and righteous."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> It is well for a person who is gracious and lends;",
+                "> He will maintain his cause in judgment."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> For he will never be shaken;",
+                "> The righteous will be remembered forever."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He will not fear bad news;",
+                "> His heart is steadfast, trusting in the Lord."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> His heart is firm, he will not fear,",
+                "> But will look with satisfaction on his enemies."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> He has given freely to the poor,",
+                "> His righteousness endures forever;",
+                "> His horn will be exalted in honour."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> The wicked will see it and be vexed,",
+                "> He will gnash his teeth and melt away;",
+                "> The desire of the wicked will perish."
+            ]
         }
     ]
 }

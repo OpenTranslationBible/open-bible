@@ -1,62 +1,117 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 62,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> My soul waits in silence for God alone;",
+                "> From Him comes my salvation."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> He alone is my rock and my salvation,",
+                "> My stronghold; I will not be greatly shaken."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> How long will you attack a man,",
+                "> That you may murder him, all of you,",
+                "> Like a leaning wall, like a tottering fence?"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> They have planned only to thrust him down from his high position;",
+                "> They delight in falsehood;",
+                "> They bless with their mouth,",
+                "> But inwardly they curse."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> My soul, wait in silence for God alone,",
+                "> For my hope is from Him."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> He alone is my rock and my salvation,",
+                "> My refuge; I will not be shaken."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> My salvation and my glory rest on God;",
+                "> The rock of my strength, my refuge is in God."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> Trust in Him at all times, you people;",
+                "> Pour out your hearts before Him;",
+                "> God is a refuge for us."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> People of low standing are only breath, and people of rank are a lie;",
+                "> In the balances they go up.",
+                "> Together they are lighter than breath."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> Do not trust in oppression,",
+                "> And do not vainly rely on robbery;",
+                "> If wealth increases, do not set your heart on it."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> God has spoken once;",
+                "> Twice I have heard this:",
+                "> That power belongs to God;"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> And faithfulness is Yours, Lord,",
+                "> For You reward a person according to his work."
+            ]
         }
     ]
 }

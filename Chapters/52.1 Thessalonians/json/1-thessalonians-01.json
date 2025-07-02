@@ -4,43 +4,63 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "Paul, Silvanus, and Timothy,To the church of the Thessalonians in God the Father and the Lord Jesus Christ:Grace to you and peace."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "We always give thanks to God for all of you, making mention of you in our prayers;"
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "constantly keeping in mind your work of faith, labour of love, and perseverance of hope in our Lord Jesus Christ in the presence of our God and Father,"
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "knowing, brothers and sisters beloved by God, His choice of you;"
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "for our gospel did not come to you in word only, but also in power and in the Holy Spirit and with full conviction—just as you know what kind of men we proved to be among you for your sake."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "You also became imitators of us and of the Lord, having received the word during great affliction with the joy of the Holy Spirit,"
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "so that you became an example to all the believers in Macedonia and Achaia."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "For the word of the Lord has sounded forth from you, not only in Macedonia and Achaia, but in every place the news of your faith toward God has gone out, so that we have no need to say anything."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "For they themselves report about us as to the kind of reception we had with you, and how you turned to God from idols to serve a living and true God,"
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "and to wait for His Son from heaven, whom He raised from the dead—Jesus, who rescues us from the wrath to come."
+            ]
         }
     ]
 }

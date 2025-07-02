@@ -1,46 +1,83 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 4,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Answer me when I call, God of my righteousness!",
+                "> You have relieved me in my distress;",
+                "> Be gracious to me and hear my prayer."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> You sons of man, how long will my honour be turned into shame?",
+                "> How long will you love what is worthless and strive for a lie?"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> But know that the Lord has set apart the godly person for Himself;",
+                "> The Lord hears when I call to Him."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Tremble, and do not sin;",
+                "> Meditate in your heart upon your bed, and be still."
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> Offer the sacrifices of righteousness,",
+                "> And trust in the Lord."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Many are saying, “Who will show us anything good?”",
+                "> Lift up the light of Your face upon us, Lord!"
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> You have put joy in my heart,",
+                "> More than when their grain and new wine are abundant."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> In peace I will lie down and sleep,",
+                "> For You alone, Lord, have me dwell in safety."
+            ]
         }
     ]
 }

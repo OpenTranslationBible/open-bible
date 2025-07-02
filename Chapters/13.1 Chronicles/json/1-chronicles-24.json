@@ -5,11 +5,23 @@
         {
             "verse": 1,
             "text": [
+                "Now the divisions of the sons of Aaron were these:",
+                "> The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
+            "text": [
+                "But Nadab and Abihu died before their father,and they had no sons.",
+                "> So Eleazar and Ithamar served as priests."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -17,11 +29,25 @@
         {
             "verse": 3,
             "text": [
+                "David, with Zadok of the sons of Eleazar and Ahimelech of the sons of Ithamar,",
+                "> divided them according to their assigned duties in their service."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
+            "text": [
+                "More chief men were found from the sons of Eleazar than from the sons of Ithamar,",
+                "> and they divided them accordingly.",
+                "> There were sixteen heads of fathers’ households of the sons of Eleazar,",
+                "> and eight of the sons of Ithamar according to their fathers’ households."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -29,11 +55,24 @@
         {
             "verse": 5,
             "text": [
+                "So they were divided by lot, the one group with the other,",
+                "> for the officers of the sanctuary and officers of God were from the sons of Eleazar and the sons of Ithamar."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
+            "text": [
+                "Shemaiah the son of Nethanel the scribe, from the Levites,wrote them down in the presence of the king, the officers, Zadok the priest, Ahimelech the son of Abiathar,",
+                "> and the heads of the fathers’ households of the priests and of the Levites—",
+                "> one father’s household taken for Eleazar and one taken for Ithamar."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -41,11 +80,23 @@
         {
             "verse": 7,
             "text": [
+                "The first lot fell to Jehoiarib,",
+                "> the second to Jedaiah,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 8,
+            "text": [
+                "> the third to Harim,",
+                "> the fourth to Seorim,"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -53,11 +104,23 @@
         {
             "verse": 9,
             "text": [
+                "> the fifth to Malchijah,",
+                "> the sixth to Mijamin,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
+            "text": [
+                "> the seventh to Hakkoz,",
+                "> the eighth to Abijah,"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -65,11 +128,23 @@
         {
             "verse": 11,
             "text": [
+                "> the ninth to Jeshua,",
+                "> the tenth to Shecaniah,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 12,
+            "text": [
+                "> the eleventh to Eliashib,",
+                "> the twelfth to Jakim,"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -77,11 +152,23 @@
         {
             "verse": 13,
             "text": [
+                "> the thirteenth to Huppah,",
+                "> the fourteenth to Jeshebeab,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
+            "text": [
+                "> the fifteenth to Bilgah,",
+                "> the sixteenth to Immer,"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -89,11 +176,23 @@
         {
             "verse": 15,
             "text": [
+                "> the seventeenth to Hezir,",
+                "> the eighteenth to Happizzez,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 16,
+            "text": [
+                "> the nineteenth to Pethahiah,",
+                "> the twentieth to Jehezkel,"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -101,11 +200,23 @@
         {
             "verse": 17,
             "text": [
+                "> the twenty-first to Jachin,",
+                "> the twenty-second to Gamul,"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 18,
+            "text": [
+                "> the twenty-third to Delaiah,",
+                "> the twenty-fourth to Maaziah."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -113,11 +224,24 @@
         {
             "verse": 19,
             "text": [
+                "These were their offices for their ministrywhen they came into the house of the Lord according to the ordinance given to them through Aaron their father,",
+                "> just as the Lord God of Israel had commanded him."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 20,
+            "text": [
+                "Now of the rest of the sons of Levi:",
+                "> of the sons of Amram: Shubael;",
+                "> of the sons of Shubael: Jehdeiah."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -125,11 +249,22 @@
         {
             "verse": 21,
             "text": [
+                "> Of Rehabiah: of the sons of Rehabiah, Isshiah the first."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
+            "text": [
+                "> Of the Izharites: Shelomoth;",
+                "> of the sons of Shelomoth: Jahath."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -137,11 +272,22 @@
         {
             "verse": 23,
             "text": [
+                "> The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 24,
+            "text": [
+                "> Of the sons of Uzziel: Micah;",
+                "> of the sons of Micah: Shamir."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -149,11 +295,23 @@
         {
             "verse": 25,
             "text": [
+                "> The brother of Micah: Isshiah;",
+                "> of the sons of Isshiah: Zechariah."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 26,
+            "text": [
+                "> The sons of Merari: Mahli and Mushi;",
+                "> the sons of Jaaziah: Beno."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -161,11 +319,21 @@
         {
             "verse": 27,
             "text": [
+                "> The sons of Merari by Jaaziah: Beno, Shoham, Zaccur, and Ibri."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
+            "text": [
+                "> Of Mahli: Eleazar, who had no sons."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -173,18 +341,33 @@
         {
             "verse": 29,
             "text": [
+                "> Of Kish: the son of Kish, Jerahmeel."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 30,
             "text": [
+                "The sons of Mushi were:",
+                "> Mahli, Eder, and Jerimoth.",
+                "> These were the sons of the Levites according to their fathers’ households."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 31,
-            "text": []
+            "text": [
+                "These also cast lots just as their relatives the sons of Aaron didin the presence of David the king, Zadok, Ahimelech, and the heads of the fathers’ households of the priests and of the Levites—",
+                "> the head of fathers’ households as well as those of his younger brother."
+            ]
         }
     ]
 }

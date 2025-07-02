@@ -1,35 +1,62 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 145,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> I will exalt You, my God, the King,",
+                "> And I will bless Your name forever and ever."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> Every day I will bless You,",
+                "> And I will praise Your name forever and ever."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> Great is the Lord, and highly to be praised,",
+                "> And His greatness is unsearchable."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> One generation will praise Your works to another,",
+                "> And will declare Your mighty acts."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> On the glorious splendour of Your majesty",
+                "> And on Your wonderful works, I will meditate."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> People will speak of the power of Your awesome acts,",
+                "> And I will tell of Your greatness."
+            ]
         },
         {
             "verse": 7,
+            "text": [
+                "> They will burst forth in speaking of the memory of Your abundant goodness,",
+                "> And will shout joyfully of Your righteousness."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -37,66 +64,120 @@
         {
             "verse": 8,
             "text": [
+                "> The Lord is gracious and compassionate;",
+                "> Slow to anger and great in mercy."
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> The Lord is good to all,",
+                "> And His mercies are over all His works."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> All Your works will give thanks to You, Lord,",
+                "> And Your godly ones will bless You."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> They will speak of the glory of Your kingdom,",
+                "> And talk of Your might,"
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> To make known to the sons of mankind Your mighty acts,",
+                "> And the glory of the majesty of Your kingdom."
+            ]
         },
         {
             "verse": 13,
+            "text": [
+                "> Your kingdom is an everlasting kingdom,",
+                "> And Your dominion endures throughout all generations."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> The Lord supports all who fall,",
+                "> And raises up all who are bowed down."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> The eyes of all look to You,",
+                "> And You give them their food in due time."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> You open Your hand",
+                "> And satisfy the desire of every living thing."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> The Lord is righteous in all His ways,",
+                "> And kind in all His works."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> The Lord is near to all who call on Him,",
+                "> To all who call on Him in truth."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> He will fulfill the desire of those who fear Him;",
+                "> He will also hear their cry for help and save them."
+            ]
         },
         {
             "verse": 20,
+            "text": [
+                "> The Lord watches over all who love Him,",
+                "> But He will destroy all the wicked."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "> My mouth will speak the praise of the Lord,",
+                "> And all flesh will bless His holy name forever and ever."
+            ]
         }
     ]
 }

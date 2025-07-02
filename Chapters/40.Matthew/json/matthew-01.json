@@ -4,105 +4,158 @@
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "The record of the genealogy of Jesus the Messiah, the son of David, the son of Abraham:"
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "Abraham fathered Isaac,Isaac fathered Jacob,and Jacob fathered Judah and his brothers."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "Judah fathered Perez and Zerah by Tamar,Perez fathered Hezron,and Hezron fathered Ram."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "Ram fathered Amminadab,Amminadab fathered Nahshon,and Nahshon fathered Salmon."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "Salmon fathered Boaz by Rahab,Boaz fathered Obed by Ruth,and Obed fathered Jesse."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "Jesse fathered David the king.David fathered Solomon by her who had been the wife of Uriah."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "Solomon fathered Rehoboam,Rehoboam fathered Abijah,and Abijah fathered Asa."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "Asa fathered Jehoshaphat,Jehoshaphat fathered Joram,and Joram fathered Uzziah."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "Uzziah fathered Jotham,Jotham fathered Ahaz,and Ahaz fathered Hezekiah."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "Hezekiah fathered Manasseh,Manasseh fathered Amon,and Amon fathered Josiah."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "Josiah fathered Jeconiah and his brothers,at the time of the deportation to Babylon."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "After the deportation to Babylon:Jeconiah fathered Shealtiel,and Shealtiel fathered Zerubbabel."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "Zerubbabel fathered Abihud,Abihud fathered Eliakim,and Eliakim fathered Azor."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "Azor fathered Zadok,Zadok fathered Achim,and Achim fathered Eliud."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "Eliud fathered Eleazar,Eleazar fathered Matthan,and Matthan fathered Jacob."
+            ]
         },
         {
             "verse": 16,
-            "text": []
+            "text": [
+                "Jacob fathered Joseph the husband of Mary,by whom Jesus was born, who is called the Messiah."
+            ]
         },
         {
             "verse": 17,
+            "text": [
+                "So all the generations from Abraham to David are fourteen generations;from David to the deportation to Babylon, fourteen generations;and from the deportation to Babylon to the Messiah, fourteen generations."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "Now the birth of Jesus the Messiah was as follows:When His mother Mary had been betrothed to Joseph,before they came together she was found to be pregnant by the Holy Spirit."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "And her husband Joseph, being a righteous man and not wanting to disgrace her,planned to send her away secretly."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "But when he had thought this over, behold, an angel of the Lord appeared to him in a dream, saying,“Joseph, son of David, do not be afraid to take Mary as your wife;for the Child who has been conceived in her is of the Holy Spirit."
+            ]
         },
         {
             "verse": 21,
-            "text": []
+            "text": [
+                "She will give birth to a Son;and you shall name Him Jesus,for He will save His people from their sins.”"
+            ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "Now all this took place so that what was spoken by the Lord through the prophet would be fulfilled:"
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "“Behold, the virgin will conceive and give birth to a Son,And they shall name Him Immanuel,”which translated means, “God with us.”"
+            ]
         },
         {
             "verse": 24,
-            "text": []
+            "text": [
+                "And Joseph awoke from his sleep and did as the angel of the Lord commanded him,and took Mary as his wife,"
+            ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "but kept her a virgin until she gave birth to a Son;and he named Him Jesus."
+            ]
         }
     ]
 }

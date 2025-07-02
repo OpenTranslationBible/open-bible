@@ -1,132 +1,243 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 35,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Contend, Lord, with those who contend with me;",
+                "> Fight against those who fight against me."
+            ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> Take hold of buckler and shield,",
+                "> And rise up as my help."
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Draw also the spear and the battle-axe to meet those who pursue me;",
+                "> Say to my soul, “I am your salvation.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> Let those be ashamed and dishonoured who seek my life;",
+                "> Let those be turned back and humiliated who devise evil against me."
+            ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Let them be like chaff before the wind,",
+                "> With the angel of the Lord driving them on."
+            ]
         },
         {
             "verse": 6,
+            "text": [
+                "> Let their way be dark and slippery,",
+                "> With the angel of the Lord pursuing them."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> For they hid their net for me without cause;",
+                "> Without cause they dug a pit for my soul."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> Let destruction come upon him when he is unaware,",
+                "> And let the net he hid catch him;",
+                "> Let him fall into that very destruction."
+            ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> And my soul shall rejoice in the Lord;",
+                "> It shall rejoice in His salvation."
+            ]
         },
         {
             "verse": 10,
+            "text": [
+                "> All my bones will say, “Lord, who is like You,",
+                "> Who rescues the afflicted from one who is too strong for him,",
+                "> And the afflicted and the poor from one who robs him?”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> Malicious witnesses rise up;",
+                "> They ask me things that I do not know."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> They repay me evil for good,",
+                "> To the bereavement of my soul."
+            ]
         },
         {
             "verse": 13,
-            "text": []
+            "text": [
+                "> But as for me, when they were sick, my clothing was sackcloth;",
+                "> I humbled my soul with fasting,",
+                "> But my prayer kept returning to me."
+            ]
         },
         {
             "verse": 14,
-            "text": []
+            "text": [
+                "> I went about as though it were my friend or brother;",
+                "> I bowed down in mourning, like one who mourns for a mother."
+            ]
         },
         {
             "verse": 15,
-            "text": []
+            "text": [
+                "> But at my stumbling they rejoiced and gathered themselves together;",
+                "> The afflicted whom I did not know gathered together against me,",
+                "> They slandered me without ceasing."
+            ]
         },
         {
             "verse": 16,
+            "text": [
+                "> Like godless jesters at a feast,",
+                "> They gnashed at me with their teeth."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 17,
-            "text": []
+            "text": [
+                "> Lord, how long will You look on?",
+                "> Rescue my soul from their ravages,",
+                "> My only life from the lions."
+            ]
         },
         {
             "verse": 18,
-            "text": []
+            "text": [
+                "> I will give You thanks in the great congregation;",
+                "> I will praise You among a mighty people."
+            ]
         },
         {
             "verse": 19,
-            "text": []
+            "text": [
+                "> Do not let those who are wrongfully my enemies rejoice over me;",
+                "> Nor let those who hate me for no reason wink maliciously."
+            ]
         },
         {
             "verse": 20,
-            "text": []
+            "text": [
+                "> For they do not speak peace,",
+                "> But they devise deceitful words against those who are quiet in the land."
+            ]
         },
         {
             "verse": 21,
+            "text": [
+                "> They opened their mouth wide against me;",
+                "> They said, “Aha, aha! Our eyes have seen it!”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 22,
-            "text": []
+            "text": [
+                "> You have seen it, Lord, do not keep silent;",
+                "> Lord, do not be far from me."
+            ]
         },
         {
             "verse": 23,
-            "text": []
+            "text": [
+                "> Stir Yourself, and awake to my right",
+                "> And to my cause, my God and my Lord."
+            ]
         },
         {
             "verse": 24,
+            "text": [
+                "> Judge me, Lord my God, according to Your righteousness,",
+                "> And do not let them rejoice over me."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 25,
-            "text": []
+            "text": [
+                "> Do not let them say in their heart, “Aha, our desire!”",
+                "> Do not let them say, “We have swallowed him up!”"
+            ]
         },
         {
             "verse": 26,
-            "text": []
+            "text": [
+                "> Let those be ashamed and altogether humiliated who rejoice at my distress;",
+                "> Let those be clothed with shame and dishonour who exalt themselves over me."
+            ]
         },
         {
             "verse": 27,
+            "text": [
+                "> Let them shout for joy and rejoice, who take delight in my vindication;",
+                "> And let them continually say, “The Lord be exalted,",
+                "> Who delights in the prosperity of His servant.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 28,
-            "text": []
+            "text": [
+                "> And my tongue shall proclaim Your righteousness",
+                "> And Your praise all day long."
+            ]
         }
     ]
 }

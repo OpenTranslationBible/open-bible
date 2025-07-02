@@ -1,60 +1,107 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 36,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> Wrongdoing speaks to the ungodly within his heart;",
+                "> There is no fear of God before his eyes."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> For it flatters him in his own eyes",
+                "> Concerning the discovery of his guilt and hatred."
+            ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> The words of his mouth are wickedness and deceit;",
+                "> He has ceased to be wise and to do good."
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> He plans wickedness on his bed;",
+                "> He sets himself on a path that is not good;",
+                "> He does not reject evil."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> Your mercy, Lord, extends to the heavens,",
+                "> Your faithfulness reaches to the skies."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> Your righteousness is like the mountains of God;",
+                "> Your judgments are like the great deep.",
+                "> Lord, You protect mankind and animals."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> How precious is Your mercy, God!",
+                "> And the sons of mankind take refuge in the shadow of Your wings."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> They drink their fill of the abundance of Your house;",
+                "> And You allow them to drink from the river of Your delights."
+            ]
         },
         {
             "verse": 9,
+            "text": [
+                "> For with You is the fountain of life;",
+                "> In Your light we see light."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> Prolong Your mercy to those who know You,",
+                "> And Your righteousness to the upright of heart."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> May the foot of pride not come upon me,",
+                "> And may the hand of the wicked not drive me away."
+            ]
         },
         {
             "verse": 12,
-            "text": []
+            "text": [
+                "> There the doers of wrongdoing have fallen;",
+                "> They have been thrust down and cannot rise."
+            ]
         }
     ]
 }

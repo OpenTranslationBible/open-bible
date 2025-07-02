@@ -1,23 +1,41 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 12,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Help, Lord, for the godly person has come to an end,",
+                "> For the faithful have disappeared from the sons of mankind."
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> They speak lies to one another;",
+                "> They speak with flattering lips and a double heart."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> May the Lord cut off all flattering lips,",
+                "> The tongue that speaks great things;"
+            ]
         },
         {
             "verse": 4,
+            "text": [
+                "> Who have said, “With our tongue we will prevail;",
+                "> Our lips are our own; who is lord over us?”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -25,20 +43,37 @@
         {
             "verse": 5,
             "text": [
+                "> “Because of the devastation of the poor, because of the groaning of the needy,",
+                "> Now I will arise,” says the Lord;",
+                "> “I will put him in the safety for which he longs.”"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> The words of the Lord are pure words;",
+                "> Like silver refined in a furnace on the ground,",
+                "> Filtered seven times."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> You, Lord, will keep them;",
+                "> You will protect him from this generation forever."
+            ]
         },
         {
             "verse": 8,
-            "text": []
+            "text": [
+                "> The wicked strut about on every side,",
+                "> When vileness is exalted among the sons of mankind."
+            ]
         }
     ]
 }

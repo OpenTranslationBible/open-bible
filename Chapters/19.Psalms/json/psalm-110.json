@@ -1,19 +1,36 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 110,
     "verses": [
         {
             "verse": 1,
+            "text": [
+                "> The Lord says to my Lord:",
+                "> “Sit at My right hand",
+                "> Until I make Your enemies a footstool for Your feet.”"
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 2,
-            "text": []
+            "text": [
+                "> The Lord will stretch out Your strong sceptre from Zion, saying,",
+                "> “Rule in the midst of Your enemies.”"
+            ]
         },
         {
             "verse": 3,
+            "text": [
+                "> Your people will volunteer freely on the day of Your power;",
+                "> In holy splendour, from the womb of the dawn,",
+                "> Your youth are to You as the dew."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
@@ -21,20 +38,37 @@
         {
             "verse": 4,
             "text": [
+                "> The Lord has sworn and will not change His mind,",
+                "> “You are a priest forever",
+                "> According to the order of Melchizedek.”"
+            ]
+        },
+        {
+            "text": [
                 "---"
             ]
         },
         {
             "verse": 5,
-            "text": []
+            "text": [
+                "> The Lord is at Your right hand;",
+                "> He will shatter kings on the day of His wrath."
+            ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> He will judge among the nations,",
+                "> He will fill them with corpses,",
+                "> He will shatter the chief men over a broad country."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> He will drink from the brook by the wayside;",
+                "> Therefore He will lift up His head."
+            ]
         }
     ]
 }

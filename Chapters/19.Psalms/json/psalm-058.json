@@ -1,56 +1,98 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Psalm",
+    "chapter": 58,
     "verses": [
         {
             "verse": 1,
-            "text": []
+            "text": [
+                "> Do you indeed speak righteousness, you gods?",
+                "> Do you judge fairly, you sons of mankind?"
+            ]
         },
         {
             "verse": 2,
+            "text": [
+                "> No, in heart you practice injustice;",
+                "> On earth you clear a way for the violence of your hands."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 3,
-            "text": []
+            "text": [
+                "> The wicked have turned away from the womb;",
+                "> These who speak lies go astray from birth."
+            ]
         },
         {
             "verse": 4,
-            "text": []
+            "text": [
+                "> They have venom like the venom of a serpent;",
+                "> Like a deaf cobra that stops up its ear,"
+            ]
         },
         {
             "verse": 5,
+            "text": [
+                "> So that it does not hear the voice of charmers,",
+                "> Or a skillful caster of spells."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 6,
-            "text": []
+            "text": [
+                "> God, shatter their teeth in their mouth;",
+                "> Break out the fangs of the young lions, Lord."
+            ]
         },
         {
             "verse": 7,
-            "text": []
+            "text": [
+                "> May they flow away like water that runs off;",
+                "> When he aims his arrows, may they be as headless shafts."
+            ]
         },
         {
             "verse": 8,
+            "text": [
+                "> May they be like a snail which goes along in slime,",
+                "> Like a miscarriage of a woman that never sees the sun."
+            ]
+        },
+        {
             "text": [
                 "---"
             ]
         },
         {
             "verse": 9,
-            "text": []
+            "text": [
+                "> Before your pots can feel the fire of thorns",
+                "> He will sweep them away with a whirlwind, the green and the burning alike."
+            ]
         },
         {
             "verse": 10,
-            "text": []
+            "text": [
+                "> The righteous will rejoice when he sees vengeance;",
+                "> He will wash his feet in the blood of the wicked."
+            ]
         },
         {
             "verse": 11,
-            "text": []
+            "text": [
+                "> And people will say, “There certainly is a reward for the righteous;",
+                "> There certainly is a God who judges on the earth!”"
+            ]
         }
     ]
 }

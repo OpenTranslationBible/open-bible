@@ -1,106 +1,156 @@
 {
-  "book": "Genesis",
-  "chapter": 40,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Some time later, the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt."
-    },
-    {
-      "verse": 2,
-      "text": "Pharaoh was angry with his two officials, the chief cupbearer and the chief baker,"
-    },
-    {
-      "verse": 3,
-      "text": "and put them in custody in the house of the captain of the guard, in the same prison where Joseph was confined."
-    },
-    {
-      "verse": 4,
-      "text": "The captain of the guard assigned them to Joseph, and he attended them."
-    },
-    {
-      "verse": 5,
-      "text": "Each of the two men had a dream the same night, and each dream had a meaning of its own."
-    },
-    {
-      "verse": 6,
-      "text": "When Joseph came to them the next morning, he saw that they were dejected."
-    },
-    {
-      "verse": 7,
-      "text": "So he asked Pharaoh\u2019s officials, \u201cWhy do you look so sad today?\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "\u201cWe both had dreams,\u201d they answered, \u201cbut there is no one to interpret them.\u201d Then Joseph said to them, \u201cDo not interpretations belong to God? Tell me your dreams.\u201d"
-    },
-    {
-      "verse": 9,
-      "text": "So the chief cupbearer told Joseph his dream."
-    },
-    {
-      "verse": 10,
-      "text": "He said to him, \u201cIn my dream I saw a vine with three branches."
-    },
-    {
-      "verse": 11,
-      "text": "As soon as it budded, it blossomed, and its clusters ripened into grapes."
-    },
-    {
-      "verse": 12,
-      "text": "Pharaoh\u2019s cup was in my hand, and I took the grapes, squeezed them into Pharaoh\u2019s cup and put the cup in his hand.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "\u201cThis is what it means,\u201d Joseph said. \u201cThe three branches are three days."
-    },
-    {
-      "verse": 14,
-      "text": "Within three days Pharaoh will lift up your head and restore you to your position."
-    },
-    {
-      "verse": 15,
-      "text": "But when all goes well with you, remember me and show me kindness; mention me to Pharaoh and get me out of this prison."
-    },
-    {
-      "verse": 16,
-      "text": "I was forcibly carried off from the land of the Hebrews, and even here I have done nothing to deserve being put in a dungeon.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "When the chief baker saw that Joseph had given a favourable interpretation, he said to Joseph, \u201cI too had a dream."
-    },
-    {
-      "verse": 18,
-      "text": "On my head were three baskets of bread."
-    },
-    {
-      "verse": 19,
-      "text": "In the top basket were all kinds of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "\u201cThis is what it means,\u201d Joseph said. \u201cThe three baskets are three days."
-    },
-    {
-      "verse": 21,
-      "text": "Within three days Pharaoh will lift off your head and impale your body on a pole. And the birds will eat away your flesh.\u201d"
-    },
-    {
-      "verse": 22,
-      "text": "Now the third day was Pharaoh\u2019s birthday, and he gave a feast for all his officials."
-    },
-    {
-      "verse": 23,
-      "text": "He restored the chief cupbearer to his position, so that he once again put the cup into Pharaoh\u2019s hand\u2014"
-    },
-    {
-      "verse": 24,
-      "text": "but he impaled the chief baker, just as Joseph had said in his interpretation."
-    },
-    {
-      "verse": 25,
-      "text": "The chief cupbearer, however, did not remember Joseph; he forgot him."
-    }
-  ]
+    "book": "Genesis",
+    "chapter": 40,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Some time later, the cupbearer and the baker of the king of Egypt offended their master, the king of Egypt."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Pharaoh was angry with his two officials, the chief cupbearer and the chief baker,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "and put them in custody in the house of the captain of the guard, in the same prison where Joseph was confined."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "The captain of the guard assigned them to Joseph, and he attended them."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Each of the two men had a dream the same night, and each dream had a meaning of its own."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "When Joseph came to them the next morning, he saw that they were dejected."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "So he asked Pharaoh’s officials, “Why do you look so sad today?”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "“We both had dreams,” they answered, “but there is no one to interpret them.” Then Joseph said to them, “Do not interpretations belong to God? Tell me your dreams.”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "So the chief cupbearer told Joseph his dream."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "He said to him, “In my dream I saw a vine with three branches."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "As soon as it budded, it blossomed, and its clusters ripened into grapes."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into Pharaoh’s cup and put the cup in his hand.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "“This is what it means,” Joseph said. “The three branches are three days."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Within three days Pharaoh will lift up your head and restore you to your position."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "But when all goes well with you, remember me and show me kindness; mention me to Pharaoh and get me out of this prison."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "I was forcibly carried off from the land of the Hebrews, and even here I have done nothing to deserve being put in a dungeon.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "When the chief baker saw that Joseph had given a favourable interpretation, he said to Joseph, “I too had a dream."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "On my head were three baskets of bread."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "In the top basket were all kinds of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "“This is what it means,” Joseph said. “The three baskets are three days."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Within three days Pharaoh will lift off your head and impale your body on a pole. And the birds will eat away your flesh.”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Now the third day was Pharaoh’s birthday, and he gave a feast for all his officials."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "He restored the chief cupbearer to his position, so that he once again put the cup into Pharaoh’s hand—"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "but he impaled the chief baker, just as Joseph had said in his interpretation."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "The chief cupbearer, however, did not remember Joseph; he forgot him."
+            ]
+        }
+    ]
 }
