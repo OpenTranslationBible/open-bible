@@ -1,68 +1,102 @@
 {
-  "book": "1 Samuel",
-  "chapter": 11,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. And all the men of Jabesh said to Nahash, “Make a covenant with us, and we will serve you.”"
-    },
-    {
-      "verse": 2,
-      "text": "But Nahash the Ammonite said to them, “On this condition I will make a covenant with you—that I gouge out the right eye of every one of you, and thus bring disgrace upon all Israel.”"
-    },
-    {
-      "verse": 3,
-      "text": "The elders of Jabesh said to him, “Give us seven days to send messengers throughout all the territory of Israel. Then, if there is no one to save us, we will surrender to you.”"
-    },
-    {
-      "verse": 4,
-      "text": "When the messengers came to Gibeah of Saul and reported the terms in the ears of the people, all the people wept aloud."
-    },
-    {
-      "verse": 5,
-      "text": "Now behold, Saul was coming from the field behind the oxen, and he said, “What is wrong with the people, that they are weeping?” So they told him the words of the men of Jabesh."
-    },
-    {
-      "verse": 6,
-      "text": "Then the Spirit of God came upon Saul mightily when he heard these words, and his anger burned greatly."
-    },
-    {
-      "verse": 7,
-      "text": "He took a yoke of oxen and cut them in pieces, and sent them throughout all the territory of Israel by the hand of messengers, saying, “Whoever does not come out after Saul and after Samuel, so shall it be done to his oxen.” Then the dread of the Lord fell on the people, and they came out as one man."
-    },
-    {
-      "verse": 8,
-      "text": "When he mustered them at Bezek, the sons of Israel were three hundred thousand, and the men of Judah thirty thousand."
-    },
-    {
-      "verse": 9,
-      "text": "They said to the messengers who had come, “Thus shall you say to the men of Jabesh-gilead, ‘Tomorrow, by the time the sun is hot, you shall have deliverance.’” So the messengers went and told the men of Jabesh, and they were glad."
-    },
-    {
-      "verse": 10,
-      "text": "Then the men of Jabesh said, “Tomorrow we will come out to you, and you may do to us whatever seems good to you.”"
-    },
-    { "verse": null },
-    {
-      "verse": 11,
-      "text": "The next day Saul arranged the troops into three divisions, and they came into the midst of the camp at dawn and struck down the Ammonites until the heat of the day. Those who remained were scattered, so that no two of them were left together."
-    },
-    {
-      "verse": 12,
-      "text": "Then the people said to Samuel, “Who was it that said, ‘Shall Saul reign over us?’ Bring those men here, that we may put them to death.”"
-    },
-    {
-      "verse": 13,
-      "text": "But Saul said, “No one shall be put to death this day, for today the Lord has brought salvation to Israel.”"
-    },
-    { "verse": null },
-    {
-      "verse": 14,
-      "text": "Then Samuel said to the people, “Come, let us go to Gilgal and renew the kingdom there.”"
-    },
-    {
-      "verse": 15,
-      "text": "So all the people went to Gilgal, and there they made Saul king before the Lord in Gilgal. There they sacrificed peace offerings before the Lord, and Saul and all the men of Israel rejoiced greatly."
-    }
-  ]
+    "book": "1 Samuel",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Then Nahash the Ammonite came up and laid siege to Jabesh-gilead. And all the men of Jabesh said to Nahash, “Make a covenant with us, and we will serve you.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "But Nahash the Ammonite said to them, “On this condition I will make a covenant with you—that I gouge out the right eye of every one of you, and thus bring disgrace upon all Israel.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "The elders of Jabesh said to him, “Give us seven days to send messengers throughout all the territory of Israel. Then, if there is no one to save us, we will surrender to you.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "When the messengers came to Gibeah of Saul and reported the terms in the ears of the people, all the people wept aloud."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Now behold, Saul was coming from the field behind the oxen, and he said, “What is wrong with the people, that they are weeping?” So they told him the words of the men of Jabesh."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then the Spirit of God came upon Saul mightily when he heard these words, and his anger burned greatly."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "He took a yoke of oxen and cut them in pieces, and sent them throughout all the territory of Israel by the hand of messengers, saying, “Whoever does not come out after Saul and after Samuel, so shall it be done to his oxen.” Then the dread of the Lord fell on the people, and they came out as one man."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "When he mustered them at Bezek, the sons of Israel were three hundred thousand, and the men of Judah thirty thousand."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "They said to the messengers who had come, “Thus shall you say to the men of Jabesh-gilead, ‘Tomorrow, by the time the sun is hot, you shall have deliverance.’” So the messengers went and told the men of Jabesh, and they were glad."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Then the men of Jabesh said, “Tomorrow we will come out to you, and you may do to us whatever seems good to you.”"
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The next day Saul arranged the troops into three divisions, and they came into the midst of the camp at dawn and struck down the Ammonites until the heat of the day. Those who remained were scattered, so that no two of them were left together."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Then the people said to Samuel, “Who was it that said, ‘Shall Saul reign over us?’ Bring those men here, that we may put them to death.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "But Saul said, “No one shall be put to death this day, for today the Lord has brought salvation to Israel.”"
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Then Samuel said to the people, “Come, let us go to Gilgal and renew the kingdom there.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "So all the people went to Gilgal, and there they made Saul king before the Lord in Gilgal. There they sacrificed peace offerings before the Lord, and Saul and all the men of Israel rejoiced greatly."
+            ]
+        }
+    ]
 }

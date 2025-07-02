@@ -1,114 +1,168 @@
 {
-  "book": "Numbers",
-  "chapter": 6,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord spoke to Moses, saying:"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSpeak to the Israelites and say to them: If a man or woman makes a special vow, the vow of a Nazirite, to separate themselves to the Lord,"
-    },
-    {
-      "verse": 3,
-      "text": "they must abstain from wine and other fermented drink. They must not drink vinegar made from wine or other fermented drink. They must not drink grape juice or eat grapes or raisins."
-    },
-    {
-      "verse": 4,
-      "text": "As long as they remain under their Nazirite vow, they must not eat anything that comes from the grapevine\u2014not even the seeds or skins."
-    },
-    {
-      "verse": 5,
-      "text": "During the entire period of their Nazirite vow, no razor may be used on their head. They must be holy until the period of their dedication to the Lord is over; they must let their hair grow long."
-    },
-    {
-      "verse": 6,
-      "text": "Throughout the time of their dedication, they must not go near a dead body."
-    },
-    {
-      "verse": 7,
-      "text": "Even if their father or mother, brother or sister dies, they must not make themselves ceremonially unclean for them, because the symbol of their dedication to God is on their head."
-    },
-    {
-      "verse": 8,
-      "text": "The entire period of their separation, they are holy to the Lord."
-    },
-    {
-      "verse": 9,
-      "text": "If someone dies suddenly in their presence, defiling the hair that symbolises their dedication, they must shave their head on the seventh day, the day of their cleansing."
-    },
-    {
-      "verse": 10,
-      "text": "On the eighth day they must bring two doves or two young pigeons to the priest at the entrance to the tent of meeting."
-    },
-    {
-      "verse": 11,
-      "text": "The priest is to offer one as a sin offering and the other as a burnt offering, to make atonement for the Nazirite who sinned by being near a dead body. That same day they must re-dedicate their head."
-    },
-    {
-      "verse": 12,
-      "text": "They must rededicate themselves to the Lord for the full term of their vow, and must bring a year-old male lamb as a guilt offering. The previous days do not count."
-    },
-    {
-      "verse": 13,
-      "text": "This is the law of the Nazirite when the period of their dedication is over: They are to be brought to the entrance to the tent of meeting."
-    },
-    {
-      "verse": 14,
-      "text": "There they are to present their offerings to the Lord: a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering,"
-    },
-    {
-      "verse": 15,
-      "text": "along with their grain offerings and drink offerings, and a basket of unleavened bread made with fine flour, cakes mixed with oil, and wafers spread with oil."
-    },
-    {
-      "verse": 16,
-      "text": "The priest is to present all these before the Lord and make the sin offering and the burnt offering."
-    },
-    {
-      "verse": 17,
-      "text": "He is also to present the ram as a fellowship offering, along with the basket of unleavened bread. Then he shall make the grain and drink offerings."
-    },
-    {
-      "verse": 18,
-      "text": "At the entrance to the tent of meeting, the Nazirite must shave the hair that marks their dedication. They are to take the hair and put it in the fire under the fellowship sacrifice."
-    },
-    {
-      "verse": 19,
-      "text": "The priest shall take the boiled shoulder of the ram, one thick loaf and one wafer from the basket, and put them into the hands of the Nazirite after they have shaved their hair."
-    },
-    {
-      "verse": 20,
-      "text": "The priest shall wave them as a wave offering before the Lord. They belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine."
-    },
-    {
-      "verse": 21,
-      "text": "This is the law of the Nazirite who vows offerings to the Lord in accordance with their dedication, in addition to anything else they can afford. They must fulfil the vow they have made."
-    },
-    {
-      "verse": 22,
-      "text": "The Lord said to Moses:"
-    },
-    {
-      "verse": 23,
-      "text": "\u201cTell Aaron and his sons, \u2018This is how you are to bless the Israelites. Say to them:\u2019"
-    },
-    {
-      "verse": 24,
-      "text": "> The Lord bless you and keep you;"
-    },
-    {
-      "verse": 25,
-      "text": "> The Lord make His face shine upon you and be gracious to you;"
-    },
-    {
-      "verse": 26,
-      "text": "> The Lord turn His face toward you and give you peace."
-    },
-    {
-      "verse": 27,
-      "text": "So they will put My name on the Israelites, and I will bless them.\u201d"
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord spoke to Moses, saying:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Speak to the Israelites and say to them: If a man or woman makes a special vow, the vow of a Nazirite, to separate themselves to the Lord,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "they must abstain from wine and other fermented drink. They must not drink vinegar made from wine or other fermented drink. They must not drink grape juice or eat grapes or raisins."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "As long as they remain under their Nazirite vow, they must not eat anything that comes from the grapevine—not even the seeds or skins."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "During the entire period of their Nazirite vow, no razor may be used on their head. They must be holy until the period of their dedication to the Lord is over; they must let their hair grow long."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Throughout the time of their dedication, they must not go near a dead body."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Even if their father or mother, brother or sister dies, they must not make themselves ceremonially unclean for them, because the symbol of their dedication to God is on their head."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The entire period of their separation, they are holy to the Lord."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "If someone dies suddenly in their presence, defiling the hair that symbolises their dedication, they must shave their head on the seventh day, the day of their cleansing."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "On the eighth day they must bring two doves or two young pigeons to the priest at the entrance to the tent of meeting."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The priest is to offer one as a sin offering and the other as a burnt offering, to make atonement for the Nazirite who sinned by being near a dead body. That same day they must re-dedicate their head."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "They must rededicate themselves to the Lord for the full term of their vow, and must bring a year-old male lamb as a guilt offering. The previous days do not count."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "This is the law of the Nazirite when the period of their dedication is over: They are to be brought to the entrance to the tent of meeting."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "There they are to present their offerings to the Lord: a year-old male lamb without defect for a burnt offering, a year-old ewe lamb without defect for a sin offering, a ram without defect for a fellowship offering,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "along with their grain offerings and drink offerings, and a basket of unleavened bread made with fine flour, cakes mixed with oil, and wafers spread with oil."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "The priest is to present all these before the Lord and make the sin offering and the burnt offering."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "He is also to present the ram as a fellowship offering, along with the basket of unleavened bread. Then he shall make the grain and drink offerings."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "At the entrance to the tent of meeting, the Nazirite must shave the hair that marks their dedication. They are to take the hair and put it in the fire under the fellowship sacrifice."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The priest shall take the boiled shoulder of the ram, one thick loaf and one wafer from the basket, and put them into the hands of the Nazirite after they have shaved their hair."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "The priest shall wave them as a wave offering before the Lord. They belong to the priest, together with the breast that was waved and the thigh that was presented. After that, the Nazirite may drink wine."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "This is the law of the Nazirite who vows offerings to the Lord in accordance with their dedication, in addition to anything else they can afford. They must fulfil the vow they have made."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "The Lord said to Moses:"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "“Tell Aaron and his sons, ‘This is how you are to bless the Israelites. Say to them:’"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> The Lord bless you and keep you;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> The Lord make His face shine upon you and be gracious to you;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> The Lord turn His face toward you and give you peace."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "So they will put My name on the Israelites, and I will bless them.”"
+            ]
+        }
+    ]
 }

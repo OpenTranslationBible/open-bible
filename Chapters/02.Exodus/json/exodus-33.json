@@ -1,98 +1,144 @@
 {
-  "book": "Exodus",
-  "chapter": 33,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Then the Lord said to Moses, \u201cLeave this place, you and the people you brought up out of Egypt, and go to the land I promised on oath to Abraham, Isaac and Jacob, saying, \u2018I will give it to your descendants.\u2019"
-    },
-    {
-      "verse": 2,
-      "text": "I will send an angel ahead of you and drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites and Jebusites."
-    },
-    {
-      "verse": 3,
-      "text": "Go up to the land flowing with milk and honey. But I will not go with you, because you are a stiff-necked people and I might destroy you on the way.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "When the people heard these distressing words, they began to mourn, and no one put on any ornaments."
-    },
-    {
-      "verse": 5,
-      "text": "For the Lord had said to Moses, \u201cTell the Israelites, \u2018You are a stiff-necked people. If I were to go with you even for a moment, I might destroy you. Now take off your ornaments and I will decide what to do with you.\u2019\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "So the Israelites stripped off their ornaments at Mount Horeb."
-    },
-    {
-      "verse": 7,
-      "text": "Now Moses used to take a tent and pitch it some distance outside the camp. He called it the Tent of Meeting. Anyone who wanted to inquire of the Lord would go to the tent outside the camp."
-    },
-    {
-      "verse": 8,
-      "text": "Whenever Moses went out to the tent, all the people rose and stood at the entrances to their own tents, watching him until he entered."
-    },
-    {
-      "verse": 9,
-      "text": "As Moses entered the tent, the pillar of cloud would come down and stay at the entrance while the Lord spoke with Moses."
-    },
-    {
-      "verse": 10,
-      "text": "Whenever the people saw the pillar of cloud standing at the entrance to the tent, they all stood and worshiped, each at their own tent entrance."
-    },
-    {
-      "verse": 11,
-      "text": "The Lord would speak to Moses face to face, as one speaks to a friend. Then Moses would return to the camp, but his young aide Joshua son of Nun did not leave the tent."
-    },
-    {
-      "verse": 12,
-      "text": "Moses said to the Lord, \u201cYou have been telling me, \u2018Lead these people,\u2019 but You have not let me know whom You will send with me. You have said, \u2018I know you by name and you have found favour with Me.\u2019"
-    },
-    {
-      "verse": 13,
-      "text": "If You are pleased with me, teach me Your ways so I may know You and continue to find favour with You. Remember that this nation is Your people.\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "The Lord replied, \u201cMy Presence will go with you, and I will give you rest.\u201d"
-    },
-    {
-      "verse": 15,
-      "text": "Then Moses said to Him, \u201cIf Your Presence does not go with us, do not send us up from here."
-    },
-    {
-      "verse": 16,
-      "text": "How will anyone know that You are pleased with me and with Your people unless You go with us? What else will distinguish me and Your people from all the other people on the face of the earth?\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "And the Lord said to Moses, \u201cI will do the very thing you have asked, because I am pleased with you and I know you by name.\u201d"
-    },
-    {
-      "verse": 18,
-      "text": "Then Moses said, \u201cNow show me Your glory.\u201d"
-    },
-    {
-      "verse": 19,
-      "text": "And the Lord said, \u201cI will cause all My goodness to pass in front of you, and I will proclaim My name, the Lord, in your presence. I will have mercy on whom I have mercy, and compassion on whom I have compassion."
-    },
-    {
-      "verse": 20,
-      "text": "But,\u201d He said, \u201cyou cannot see My face, for no one may see Me and live.\u201d"
-    },
-    {
-      "verse": 21,
-      "text": "Then the Lord said, \u201cThere is a place near Me where you may stand on a rock."
-    },
-    {
-      "verse": 22,
-      "text": "When My glory passes by, I will put you in a cleft in the rock and cover you with My hand until I have passed by."
-    },
-    {
-      "verse": 23,
-      "text": "Then I will remove My hand and you will see My back; but My face must not be seen.\u201d"
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Then the Lord said to Moses, “Leave this place, you and the people you brought up out of Egypt, and go to the land I promised on oath to Abraham, Isaac and Jacob, saying, ‘I will give it to your descendants.’"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "I will send an angel ahead of you and drive out the Canaanites, Amorites, Hittites, Perizzites, Hivites and Jebusites."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Go up to the land flowing with milk and honey. But I will not go with you, because you are a stiff-necked people and I might destroy you on the way.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "When the people heard these distressing words, they began to mourn, and no one put on any ornaments."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "For the Lord had said to Moses, “Tell the Israelites, ‘You are a stiff-necked people. If I were to go with you even for a moment, I might destroy you. Now take off your ornaments and I will decide what to do with you.’”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "So the Israelites stripped off their ornaments at Mount Horeb."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Now Moses used to take a tent and pitch it some distance outside the camp. He called it the Tent of Meeting. Anyone who wanted to inquire of the Lord would go to the tent outside the camp."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Whenever Moses went out to the tent, all the people rose and stood at the entrances to their own tents, watching him until he entered."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "As Moses entered the tent, the pillar of cloud would come down and stay at the entrance while the Lord spoke with Moses."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Whenever the people saw the pillar of cloud standing at the entrance to the tent, they all stood and worshiped, each at their own tent entrance."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The Lord would speak to Moses face to face, as one speaks to a friend. Then Moses would return to the camp, but his young aide Joshua son of Nun did not leave the tent."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Moses said to the Lord, “You have been telling me, ‘Lead these people,’ but You have not let me know whom You will send with me. You have said, ‘I know you by name and you have found favour with Me.’"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "If You are pleased with me, teach me Your ways so I may know You and continue to find favour with You. Remember that this nation is Your people.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "The Lord replied, “My Presence will go with you, and I will give you rest.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Then Moses said to Him, “If Your Presence does not go with us, do not send us up from here."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "How will anyone know that You are pleased with me and with Your people unless You go with us? What else will distinguish me and Your people from all the other people on the face of the earth?”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "And the Lord said to Moses, “I will do the very thing you have asked, because I am pleased with you and I know you by name.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Then Moses said, “Now show me Your glory.”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "And the Lord said, “I will cause all My goodness to pass in front of you, and I will proclaim My name, the Lord, in your presence. I will have mercy on whom I have mercy, and compassion on whom I have compassion."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "But,” He said, “you cannot see My face, for no one may see Me and live.”"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Then the Lord said, “There is a place near Me where you may stand on a rock."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "When My glory passes by, I will put you in a cleft in the rock and cover you with My hand until I have passed by."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Then I will remove My hand and you will see My back; but My face must not be seen.”"
+            ]
+        }
+    ]
 }

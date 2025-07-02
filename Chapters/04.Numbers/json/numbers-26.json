@@ -1,110 +1,162 @@
 {
-  "book": "Numbers",
-  "chapter": 26,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "After the plague, the Lord said to Moses and to Eleazar son of Aaron the priest,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cConduct a census of the entire assembly of the sons of Israel, from twenty years old and upward, by their families\u2014those eligible for military service.\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "So Moses and Eleazar the priest spoke with them on the plains of Moab, near the Jordan across from Jericho, saying:"
-    },
-    {
-      "verse": 4,
-      "text": "\u201cLet all men aged twenty and older be counted, as the Lord commanded Moses.\u201d These are the descendants of those who came out of Egypt:"
-    },
-    {
-      "verse": 5,
-      "text": "From Reuben, Israel\u2019s firstborn: the families of Hanoch, Pallu, Hezron, and Carmi\u201443,730 in total."
-    },
-    {
-      "verse": 6,
-      "text": "From Simeon: the families of Nemuel, Jamin, Jakin, Zerah, and Shaul\u201422,200."
-    },
-    {
-      "verse": 7,
-      "text": "From Gad: the families of Zephon, Haggi, Shuni, Ozni, Eri, Arodi, and Areli\u201440,500."
-    },
-    {
-      "verse": 8,
-      "text": "From Judah: the families of Shelah, Perez, and Zerah; Perez\u2019s sons were Hezron and Hamul\u201476,500."
-    },
-    {
-      "verse": 9,
-      "text": "From Issachar: the families of Tola, Puah, Jashub, and Shimron\u201464,300."
-    },
-    {
-      "verse": 10,
-      "text": "From Zebulun: the families of Sered, Elon, and Jahleel\u201460,500."
-    },
-    {
-      "verse": 11,
-      "text": "From Joseph\u2019s descendants: the tribes of Manasseh and Ephraim."
-    },
-    {
-      "verse": 12,
-      "text": "From Manasseh: the families of Makir (father of Gilead), Gilead\u2019s sons were Iezer, Helek, Asriel, Shechem, Shemida, and Hepher\u201452,700."
-    },
-    {
-      "verse": 13,
-      "text": "Zelophehad son of Hepher had no sons, only daughters: Mahlah, Noah, Hoglah, Milkah, and Tirzah."
-    },
-    {
-      "verse": 14,
-      "text": "From Ephraim: the families of Shuthelah, Beker, Tahan, and Eran\u201432,500."
-    },
-    {
-      "verse": 15,
-      "text": "From Benjamin: the families of Bela, Ashbel, Ahiram, Shupham, and Hupham\u201445,600."
-    },
-    {
-      "verse": 16,
-      "text": "From Dan: the family of Shuham\u201464,400."
-    },
-    {
-      "verse": 17,
-      "text": "From Asher: the families of Imnah, Ishvi, Beriah (whose sons were Heber and Malkiel)\u201453,400."
-    },
-    {
-      "verse": 18,
-      "text": "From Naphtali: the families of Jahzeel, Guni, Jezer, and Shillem\u201445,400."
-    },
-    {
-      "verse": 19,
-      "text": "These were the males of Israel listed by their families. The total number counted was 601,730."
-    },
-    {
-      "verse": 20,
-      "text": "The Lord spoke to Moses, saying:"
-    },
-    {
-      "verse": 21,
-      "text": "\u201cDistribute the land among them as an inheritance, according to the number of names."
-    },
-    {
-      "verse": 22,
-      "text": "To a larger group give a larger portion, to a smaller group a smaller one. Distribute it according to their clans by lot."
-    },
-    {
-      "verse": 23,
-      "text": "The land shall be assigned by lot according to the names of their ancestral tribes."
-    },
-    {
-      "verse": 24,
-      "text": "The number of Levites was 23,000, counted from one month old and upward. They were not included in the regular census, for no land inheritance was given to them."
-    },
-    {
-      "verse": 25,
-      "text": "Among all those listed, not one remained from the census Moses and Aaron had taken in the wilderness of Sinai,"
-    },
-    {
-      "verse": 26,
-      "text": "because the Lord had said they would all perish in the wilderness. Not one was left except Caleb son of Jephunneh and Joshua son of Nun."
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "After the plague, the Lord said to Moses and to Eleazar son of Aaron the priest,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Conduct a census of the entire assembly of the sons of Israel, from twenty years old and upward, by their families—those eligible for military service.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "So Moses and Eleazar the priest spoke with them on the plains of Moab, near the Jordan across from Jericho, saying:"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "“Let all men aged twenty and older be counted, as the Lord commanded Moses.” These are the descendants of those who came out of Egypt:"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "From Reuben, Israel’s firstborn: the families of Hanoch, Pallu, Hezron, and Carmi—43,730 in total."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "From Simeon: the families of Nemuel, Jamin, Jakin, Zerah, and Shaul—22,200."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "From Gad: the families of Zephon, Haggi, Shuni, Ozni, Eri, Arodi, and Areli—40,500."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "From Judah: the families of Shelah, Perez, and Zerah; Perez’s sons were Hezron and Hamul—76,500."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "From Issachar: the families of Tola, Puah, Jashub, and Shimron—64,300."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "From Zebulun: the families of Sered, Elon, and Jahleel—60,500."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "From Joseph’s descendants: the tribes of Manasseh and Ephraim."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "From Manasseh: the families of Makir (father of Gilead), Gilead’s sons were Iezer, Helek, Asriel, Shechem, Shemida, and Hepher—52,700."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Zelophehad son of Hepher had no sons, only daughters: Mahlah, Noah, Hoglah, Milkah, and Tirzah."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "From Ephraim: the families of Shuthelah, Beker, Tahan, and Eran—32,500."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "From Benjamin: the families of Bela, Ashbel, Ahiram, Shupham, and Hupham—45,600."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "From Dan: the family of Shuham—64,400."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "From Asher: the families of Imnah, Ishvi, Beriah (whose sons were Heber and Malkiel)—53,400."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "From Naphtali: the families of Jahzeel, Guni, Jezer, and Shillem—45,400."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "These were the males of Israel listed by their families. The total number counted was 601,730."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "The Lord spoke to Moses, saying:"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "“Distribute the land among them as an inheritance, according to the number of names."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "To a larger group give a larger portion, to a smaller group a smaller one. Distribute it according to their clans by lot."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "The land shall be assigned by lot according to the names of their ancestral tribes."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "The number of Levites was 23,000, counted from one month old and upward. They were not included in the regular census, for no land inheritance was given to them."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Among all those listed, not one remained from the census Moses and Aaron had taken in the wilderness of Sinai,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "because the Lord had said they would all perish in the wilderness. Not one was left except Caleb son of Jephunneh and Joshua son of Nun."
+            ]
+        }
+    ]
 }

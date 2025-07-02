@@ -1,130 +1,192 @@
 {
-  "book": "Numbers",
-  "chapter": 5,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cCommand the Israelites to send away from the camp anyone who has a skin disease, a discharge, or has become ceremonially unclean by contact with a dead body."
-    },
-    {
-      "verse": 3,
-      "text": "Send away both male and female; send them outside the camp so they do not defile it, because I dwell among them.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "The Israelites did so; they sent them outside the camp as the Lord instructed Moses."
-    },
-    {
-      "verse": 5,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 6,
-      "text": "\u201cSay to the Israelites: Any man or woman who wrongs another is unfaithful to the Lord and is guilty."
-    },
-    {
-      "verse": 7,
-      "text": "They must confess their sin and make full restitution, adding a fifth of the value and giving it to the one they wronged."
-    },
-    {
-      "verse": 8,
-      "text": "If there is no relative to receive the restitution, it belongs to the Lord and goes to the priest, along with the ram of atonement."
-    },
-    {
-      "verse": 9,
-      "text": "All sacred contributions that the Israelites bring to a priest belong to him."
-    },
-    {
-      "verse": 10,
-      "text": "Gifts presented belong to the priest who receives them."
-    },
-    {
-      "verse": 11,
-      "text": "Then the Lord said to Moses,"
-    },
-    {
-      "verse": 12,
-      "text": "\u201cSpeak to the Israelites and say: If a man\u2019s wife goes astray and is unfaithful to him,"
-    },
-    {
-      "verse": 13,
-      "text": "and another man has sexual relations with her without witnesses and she is not caught,"
-    },
-    {
-      "verse": 14,
-      "text": "but the husband suspects her and is jealous,"
-    },
-    {
-      "verse": 15,
-      "text": "he must bring his wife to the priest and offer a grain offering of jealousy\u2014without oil or incense, because it is an offering for uncovering guilt."
-    },
-    {
-      "verse": 16,
-      "text": "The priest shall bring her forward and have her stand before the Lord."
-    },
-    {
-      "verse": 17,
-      "text": "He shall take holy water in a clay jar and put some dust from the tabernacle floor into the water."
-    },
-    {
-      "verse": 18,
-      "text": "He shall loosen her hair, place the offering in her hands, and hold the bitter water that brings a curse."
-    },
-    {
-      "verse": 19,
-      "text": "The priest shall make her swear an oath, saying: \u2018If you have not defiled yourself, be free from this bitter water.\u2019"
-    },
-    {
-      "verse": 20,
-      "text": "\u2018But if you have gone astray and defiled yourself with another man,"
-    },
-    {
-      "verse": 21,
-      "text": "may the Lord make you a curse among your people.\u2019"
-    },
-    {
-      "verse": 22,
-      "text": "\u2018May this water cause your abdomen to swell and your womb to miscarry.\u2019 And the woman shall say, \u2018Amen. So be it.\u2019"
-    },
-    {
-      "verse": 23,
-      "text": "The priest shall write these curses on a scroll and wash them off into the bitter water."
-    },
-    {
-      "verse": 24,
-      "text": "He shall make the woman drink the water, which brings bitterness and the curse."
-    },
-    {
-      "verse": 25,
-      "text": "The priest shall take the grain offering and wave it before the Lord."
-    },
-    {
-      "verse": 26,
-      "text": "Then he shall burn a portion of the offering on the altar."
-    },
-    {
-      "verse": 27,
-      "text": "If she is guilty, the water will bring pain and she will become a curse."
-    },
-    {
-      "verse": 28,
-      "text": "If she is innocent, she will remain unharmed and be able to bear children."
-    },
-    {
-      "verse": 29,
-      "text": "This is the law of jealousy when a woman goes astray or when a man is jealous."
-    },
-    {
-      "verse": 30,
-      "text": "The priest is to apply all these laws."
-    },
-    {
-      "verse": 31,
-      "text": "The man is innocent of wrongdoing, but the woman bears the consequences."
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Command the Israelites to send away from the camp anyone who has a skin disease, a discharge, or has become ceremonially unclean by contact with a dead body."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Send away both male and female; send them outside the camp so they do not defile it, because I dwell among them.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "The Israelites did so; they sent them outside the camp as the Lord instructed Moses."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "“Say to the Israelites: Any man or woman who wrongs another is unfaithful to the Lord and is guilty."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They must confess their sin and make full restitution, adding a fifth of the value and giving it to the one they wronged."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "If there is no relative to receive the restitution, it belongs to the Lord and goes to the priest, along with the ram of atonement."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "All sacred contributions that the Israelites bring to a priest belong to him."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Gifts presented belong to the priest who receives them."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Then the Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "“Speak to the Israelites and say: If a man’s wife goes astray and is unfaithful to him,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "and another man has sexual relations with her without witnesses and she is not caught,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "but the husband suspects her and is jealous,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "he must bring his wife to the priest and offer a grain offering of jealousy—without oil or incense, because it is an offering for uncovering guilt."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "The priest shall bring her forward and have her stand before the Lord."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "He shall take holy water in a clay jar and put some dust from the tabernacle floor into the water."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "He shall loosen her hair, place the offering in her hands, and hold the bitter water that brings a curse."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The priest shall make her swear an oath, saying: ‘If you have not defiled yourself, be free from this bitter water.’"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "‘But if you have gone astray and defiled yourself with another man,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "may the Lord make you a curse among your people.’"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "‘May this water cause your abdomen to swell and your womb to miscarry.’ And the woman shall say, ‘Amen. So be it.’"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "The priest shall write these curses on a scroll and wash them off into the bitter water."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "He shall make the woman drink the water, which brings bitterness and the curse."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "The priest shall take the grain offering and wave it before the Lord."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Then he shall burn a portion of the offering on the altar."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "If she is guilty, the water will bring pain and she will become a curse."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "If she is innocent, she will remain unharmed and be able to bear children."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "This is the law of jealousy when a woman goes astray or when a man is jealous."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "The priest is to apply all these laws."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "The man is innocent of wrongdoing, but the woman bears the consequences."
+            ]
+        }
+    ]
 }

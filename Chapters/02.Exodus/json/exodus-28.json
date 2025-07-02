@@ -1,178 +1,264 @@
 {
-  "book": "Exodus",
-  "chapter": 28,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Bring your brother Aaron, along with his sons Nadab, Abihu, Eleazar, and Ithamar, so they may serve Me as priests."
-    },
-    {
-      "verse": 2,
-      "text": "Make sacred garments for Aaron to give him dignity and honour."
-    },
-    {
-      "verse": 3,
-      "text": "Instruct all skilled workers whom I have given ability, that they are to make garments for Aaron to consecrate him as priest."
-    },
-    {
-      "verse": 4,
-      "text": "These are the garments they shall make: a breastpiece, an ephod, a robe, a tunic with a woven pattern, a turban, and a sash. They are to make these garments for Aaron and his sons to serve Me as priests."
-    },
-    {
-      "verse": 5,
-      "text": "They shall use gold, and blue, purple, and scarlet yarn, and fine linen."
-    },
-    {
-      "verse": 6,
-      "text": "Make the ephod of gold, blue, purple, and scarlet yarn, and fine linen, skillfully woven."
-    },
-    {
-      "verse": 7,
-      "text": "It must have two shoulder pieces joined together at the two edges."
-    },
-    {
-      "verse": 8,
-      "text": "Its waistband is to be made in the same style and attached, using the same materials as the ephod itself."
-    },
-    {
-      "verse": 9,
-      "text": "Take two onyx stones and engrave on them the names of the sons of Israel,"
-    },
-    {
-      "verse": 10,
-      "text": "six names on one stone and the other six on the second stone, in the order of birth."
-    },
-    {
-      "verse": 11,
-      "text": "Engrave the stones like a seal and mount them in gold settings."
-    },
-    {
-      "verse": 12,
-      "text": "Attach the stones to the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to carry their names before the Lord on his shoulders."
-    },
-    {
-      "verse": 13,
-      "text": "Make gold settings"
-    },
-    {
-      "verse": 14,
-      "text": "and two braided chains of pure gold like cords, and fasten the chains to the settings."
-    },
-    {
-      "verse": 15,
-      "text": "Make a breastpiece for making decisions, similar in workmanship to the ephod: gold, blue, purple, and scarlet yarn, and fine linen."
-    },
-    {
-      "verse": 16,
-      "text": "It is to be square, folded double, a span long and a span wide."
-    },
-    {
-      "verse": 17,
-      "text": "Mount four rows of stones on it. The first row: carnelian, chrysolite, and beryl;"
-    },
-    {
-      "verse": 18,
-      "text": "second row: turquoise, lapis lazuli, and emerald;"
-    },
-    {
-      "verse": 19,
-      "text": "third row: jacinth, agate, and amethyst;"
-    },
-    {
-      "verse": 20,
-      "text": "fourth row: topaz, onyx, and jasper. Mount them in gold settings."
-    },
-    {
-      "verse": 21,
-      "text": "Each of the twelve stones is to represent one of the tribes of Israel, engraved like a seal with the name of one tribe."
-    },
-    {
-      "verse": 22,
-      "text": "Make chains of pure gold, twisted like cords, for the breastpiece."
-    },
-    {
-      "verse": 23,
-      "text": "Make two gold rings for the breastpiece and attach them to its top corners."
-    },
-    {
-      "verse": 24,
-      "text": "Fasten the two gold cords to the rings at the corners of the breastpiece,"
-    },
-    {
-      "verse": 25,
-      "text": "and the other ends of the cords to the gold settings on the shoulder pieces of the ephod."
-    },
-    {
-      "verse": 26,
-      "text": "Make two more gold rings and attach them to the bottom corners of the breastpiece on the inside edge."
-    },
-    {
-      "verse": 27,
-      "text": "Then make two more rings for the ephod and fasten them low on the front, near the seam just above the waistband."
-    },
-    {
-      "verse": 28,
-      "text": "Tie the breastpiece securely with blue cord to the rings of the ephod, so it rests above the waistband and does not swing loose."
-    },
-    {
-      "verse": 29,
-      "text": "Whenever Aaron enters the Holy Place, he will carry the names of the sons of Israel on the breastpiece over his heart, as a continual memorial before the Lord."
-    },
-    {
-      "verse": 30,
-      "text": "Place the Urim and Thummim in the breastpiece, so they will be over Aaron\u2019s heart when he enters the Lord\u2019s presence. He will always bear the means of decision for the Israelites over his heart."
-    },
-    {
-      "verse": 31,
-      "text": "Make the robe of the ephod entirely of blue cloth."
-    },
-    {
-      "verse": 32,
-      "text": "There must be an opening for the head in its centre, with a reinforced edge like a collar to prevent tearing."
-    },
-    {
-      "verse": 33,
-      "text": "Make pomegranates of blue, purple, and scarlet yarn around the hem, with gold bells between them."
-    },
-    {
-      "verse": 34,
-      "text": "Alternate the gold bells and the pomegranates around the hem of the robe."
-    },
-    {
-      "verse": 35,
-      "text": "Aaron must wear it when he ministers, so the sound of the bells will be heard as he enters and leaves the Holy Place before the Lord, and he will not die."
-    },
-    {
-      "verse": 36,
-      "text": "Make a plate of pure gold and engrave on it like a seal: HOLY TO THE LORD."
-    },
-    {
-      "verse": 37,
-      "text": "Fasten it with a blue cord to the turban; it is to be worn on the front."
-    },
-    {
-      "verse": 38,
-      "text": "It will be on Aaron\u2019s forehead continually, so that he may bear the guilt connected with the sacred offerings. The offering will be acceptable to the Lord."
-    },
-    {
-      "verse": 39,
-      "text": "Weave the tunic of fine linen, and make the turban also of fine linen. The sash is to be skillfully embroidered."
-    },
-    {
-      "verse": 40,
-      "text": "Make tunics, sashes, and caps for Aaron\u2019s sons, to give them dignity and honour."
-    },
-    {
-      "verse": 41,
-      "text": "After putting these garments on Aaron and his sons, anoint and ordain them, and consecrate them to serve Me as priests."
-    },
-    {
-      "verse": 42,
-      "text": "Make linen undergarments covering from waist to thigh, to be worn whenever they enter the tent of meeting or approach the altar."
-    },
-    {
-      "verse": 43,
-      "text": "These garments must always be worn, or they will bear guilt and die. This is a lasting ordinance for Aaron and his descendants."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Bring your brother Aaron, along with his sons Nadab, Abihu, Eleazar, and Ithamar, so they may serve Me as priests."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Make sacred garments for Aaron to give him dignity and honour."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Instruct all skilled workers whom I have given ability, that they are to make garments for Aaron to consecrate him as priest."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "These are the garments they shall make: a breastpiece, an ephod, a robe, a tunic with a woven pattern, a turban, and a sash. They are to make these garments for Aaron and his sons to serve Me as priests."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "They shall use gold, and blue, purple, and scarlet yarn, and fine linen."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Make the ephod of gold, blue, purple, and scarlet yarn, and fine linen, skillfully woven."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "It must have two shoulder pieces joined together at the two edges."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Its waistband is to be made in the same style and attached, using the same materials as the ephod itself."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Take two onyx stones and engrave on them the names of the sons of Israel,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "six names on one stone and the other six on the second stone, in the order of birth."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Engrave the stones like a seal and mount them in gold settings."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Attach the stones to the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to carry their names before the Lord on his shoulders."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Make gold settings"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "and two braided chains of pure gold like cords, and fasten the chains to the settings."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Make a breastpiece for making decisions, similar in workmanship to the ephod: gold, blue, purple, and scarlet yarn, and fine linen."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "It is to be square, folded double, a span long and a span wide."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Mount four rows of stones on it. The first row: carnelian, chrysolite, and beryl;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "second row: turquoise, lapis lazuli, and emerald;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "third row: jacinth, agate, and amethyst;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "fourth row: topaz, onyx, and jasper. Mount them in gold settings."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Each of the twelve stones is to represent one of the tribes of Israel, engraved like a seal with the name of one tribe."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Make chains of pure gold, twisted like cords, for the breastpiece."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Make two gold rings for the breastpiece and attach them to its top corners."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Fasten the two gold cords to the rings at the corners of the breastpiece,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "and the other ends of the cords to the gold settings on the shoulder pieces of the ephod."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Make two more gold rings and attach them to the bottom corners of the breastpiece on the inside edge."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Then make two more rings for the ephod and fasten them low on the front, near the seam just above the waistband."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Tie the breastpiece securely with blue cord to the rings of the ephod, so it rests above the waistband and does not swing loose."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Whenever Aaron enters the Holy Place, he will carry the names of the sons of Israel on the breastpiece over his heart, as a continual memorial before the Lord."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Place the Urim and Thummim in the breastpiece, so they will be over Aaron’s heart when he enters the Lord’s presence. He will always bear the means of decision for the Israelites over his heart."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Make the robe of the ephod entirely of blue cloth."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "There must be an opening for the head in its centre, with a reinforced edge like a collar to prevent tearing."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Make pomegranates of blue, purple, and scarlet yarn around the hem, with gold bells between them."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Alternate the gold bells and the pomegranates around the hem of the robe."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Aaron must wear it when he ministers, so the sound of the bells will be heard as he enters and leaves the Holy Place before the Lord, and he will not die."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Make a plate of pure gold and engrave on it like a seal: HOLY TO THE LORD."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Fasten it with a blue cord to the turban; it is to be worn on the front."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "It will be on Aaron’s forehead continually, so that he may bear the guilt connected with the sacred offerings. The offering will be acceptable to the Lord."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Weave the tunic of fine linen, and make the turban also of fine linen. The sash is to be skillfully embroidered."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Make tunics, sashes, and caps for Aaron’s sons, to give them dignity and honour."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "After putting these garments on Aaron and his sons, anoint and ordain them, and consecrate them to serve Me as priests."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Make linen undergarments covering from waist to thigh, to be worn whenever they enter the tent of meeting or approach the altar."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "These garments must always be worn, or they will bear guilt and die. This is a lasting ordinance for Aaron and his descendants."
+            ]
+        }
+    ]
 }

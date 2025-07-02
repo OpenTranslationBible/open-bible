@@ -1,142 +1,210 @@
 {
-  "book": "Leviticus",
-  "chapter": 27,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSpeak to the Israelites and say: When anyone makes a special vow to dedicate a person to the Lord by a certain value,"
-    },
-    {
-      "verse": 3,
-      "text": "the value of a male between the ages of twenty and sixty shall be fifty shekels of silver."
-    },
-    {
-      "verse": 4,
-      "text": "For a female, the value shall be thirty shekels."
-    },
-    {
-      "verse": 5,
-      "text": "A male aged five to twenty is valued at twenty shekels; a female at ten."
-    },
-    {
-      "verse": 6,
-      "text": "A male aged one month to five years is five shekels; a female is three."
-    },
-    {
-      "verse": 7,
-      "text": "A male over sixty is fifteen shekels; a female is ten."
-    },
-    {
-      "verse": 8,
-      "text": "If anyone is too poor to pay the set value, they must present themselves to the priest, who will set a value based on what the person can afford."
-    },
-    {
-      "verse": 9,
-      "text": "If what is vowed is an animal acceptable as an offering, it becomes holy."
-    },
-    {
-      "verse": 10,
-      "text": "They must not exchange it or substitute it."
-    },
-    {
-      "verse": 11,
-      "text": "If the vowed animal is unclean, the priest will set its value."
-    },
-    {
-      "verse": 12,
-      "text": "Whether high or low, whatever value the priest sets will stand."
-    },
-    {
-      "verse": 13,
-      "text": "If the owner wants to redeem it, a fifth must be added."
-    },
-    {
-      "verse": 14,
-      "text": "If someone dedicates their house, the priest will determine its value."
-    },
-    {
-      "verse": 15,
-      "text": "If the one who dedicates it wants to redeem it, a fifth must be added."
-    },
-    {
-      "verse": 16,
-      "text": "If a person dedicates part of their land, its value is calculated by the amount of seed needed to sow it."
-    },
-    {
-      "verse": 17,
-      "text": "If the dedication is made in the Year of Jubilee, the full value stands."
-    },
-    {
-      "verse": 18,
-      "text": "If after the Jubilee, the value is reduced according to the remaining years."
-    },
-    {
-      "verse": 19,
-      "text": "If the one who dedicated the field wants to redeem it, a fifth must be added."
-    },
-    {
-      "verse": 20,
-      "text": "If not redeemed and sold to someone else, it can never be bought back."
-    },
-    {
-      "verse": 21,
-      "text": "When the field is released in the Jubilee, it becomes holy, like a devoted field, belonging to the priests."
-    },
-    {
-      "verse": 22,
-      "text": "If someone dedicates a field they bought\u2014not part of their inheritance\u2014"
-    },
-    {
-      "verse": 23,
-      "text": "the priest shall determine its value up to the Year of Jubilee."
-    },
-    {
-      "verse": 24,
-      "text": "In the Jubilee year, the field returns to the original owner."
-    },
-    {
-      "verse": 25,
-      "text": "Every value must be set according to the sanctuary shekel."
-    },
-    {
-      "verse": 26,
-      "text": "No one may dedicate the firstborn of an animal, since it already belongs to the Lord."
-    },
-    {
-      "verse": 27,
-      "text": "If it is an unclean animal, it may be redeemed with a fifth added, or it must be sold."
-    },
-    {
-      "verse": 28,
-      "text": "But nothing that a person devotes to the Lord\u2014whether human, animal or land\u2014may be sold or redeemed; it is most holy."
-    },
-    {
-      "verse": 29,
-      "text": "No one devoted to destruction may be ransomed; they must be put to death."
-    },
-    {
-      "verse": 30,
-      "text": "A tithe of everything from the land belongs to the Lord."
-    },
-    {
-      "verse": 31,
-      "text": "If someone wishes to redeem part of their tithe, they must add a fifth."
-    },
-    {
-      "verse": 32,
-      "text": "Every tenth animal that passes under the shepherd\u2019s rod is holy to the Lord."
-    },
-    {
-      "verse": 33,
-      "text": "They must not pick out the good from the bad or make a substitution."
-    },
-    {
-      "verse": 34,
-      "text": "These are the commands the Lord gave to Moses on Mount Sinai for the Israelites."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Speak to the Israelites and say: When anyone makes a special vow to dedicate a person to the Lord by a certain value,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "the value of a male between the ages of twenty and sixty shall be fifty shekels of silver."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "For a female, the value shall be thirty shekels."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "A male aged five to twenty is valued at twenty shekels; a female at ten."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "A male aged one month to five years is five shekels; a female is three."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "A male over sixty is fifteen shekels; a female is ten."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "If anyone is too poor to pay the set value, they must present themselves to the priest, who will set a value based on what the person can afford."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "If what is vowed is an animal acceptable as an offering, it becomes holy."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "They must not exchange it or substitute it."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "If the vowed animal is unclean, the priest will set its value."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Whether high or low, whatever value the priest sets will stand."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "If the owner wants to redeem it, a fifth must be added."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "If someone dedicates their house, the priest will determine its value."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "If the one who dedicates it wants to redeem it, a fifth must be added."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "If a person dedicates part of their land, its value is calculated by the amount of seed needed to sow it."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "If the dedication is made in the Year of Jubilee, the full value stands."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "If after the Jubilee, the value is reduced according to the remaining years."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "If the one who dedicated the field wants to redeem it, a fifth must be added."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "If not redeemed and sold to someone else, it can never be bought back."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "When the field is released in the Jubilee, it becomes holy, like a devoted field, belonging to the priests."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "If someone dedicates a field they bought—not part of their inheritance—"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "the priest shall determine its value up to the Year of Jubilee."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "In the Jubilee year, the field returns to the original owner."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Every value must be set according to the sanctuary shekel."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "No one may dedicate the firstborn of an animal, since it already belongs to the Lord."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "If it is an unclean animal, it may be redeemed with a fifth added, or it must be sold."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "But nothing that a person devotes to the Lord—whether human, animal or land—may be sold or redeemed; it is most holy."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "No one devoted to destruction may be ransomed; they must be put to death."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "A tithe of everything from the land belongs to the Lord."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "If someone wishes to redeem part of their tithe, they must add a fifth."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Every tenth animal that passes under the shepherd’s rod is holy to the Lord."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "They must not pick out the good from the bad or make a substitution."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "These are the commands the Lord gave to Moses on Mount Sinai for the Israelites."
+            ]
+        }
+    ]
 }

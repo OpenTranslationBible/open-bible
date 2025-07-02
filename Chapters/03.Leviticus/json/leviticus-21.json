@@ -1,102 +1,150 @@
 {
-  "book": "Leviticus",
-  "chapter": 21,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses: \u201cSpeak to the priests, the sons of Aaron. No one is to make himself ceremonially unclean for a dead person among his people,"
-    },
-    {
-      "verse": 2,
-      "text": "except for a close relative\u2014mother, father, son, daughter, or brother."
-    },
-    {
-      "verse": 3,
-      "text": "He may also make himself unclean for an unmarried sister who depends on him."
-    },
-    {
-      "verse": 4,
-      "text": "But he must not make himself unclean for someone who is only a relative by marriage."
-    },
-    {
-      "verse": 5,
-      "text": "Priests must not shave their heads, trim the edges of their beards, or cut their bodies."
-    },
-    {
-      "verse": 6,
-      "text": "They must be holy to their God and not profane His name."
-    },
-    {
-      "verse": 7,
-      "text": "They must not marry women who are defiled by prostitution or divorced from their husbands."
-    },
-    {
-      "verse": 8,
-      "text": "Set them apart as holy, because they offer the food of your God."
-    },
-    {
-      "verse": 9,
-      "text": "If a priest\u2019s daughter becomes a prostitute, she disgraces her father. She must be burned in fire."
-    },
-    {
-      "verse": 10,
-      "text": "The high priest, who has had the anointing oil poured on him and been consecrated to wear the garments, must not let his hair become unkempt or tear his clothes."
-    },
-    {
-      "verse": 11,
-      "text": "He must not enter a place where there is a dead body, or make himself unclean, even for a close relative."
-    },
-    {
-      "verse": 12,
-      "text": "He must not leave the sanctuary or desecrate it, for he is consecrated."
-    },
-    {
-      "verse": 13,
-      "text": "He must marry a virgin."
-    },
-    {
-      "verse": 14,
-      "text": "He must not marry a widow, a divorced woman, or a prostitute."
-    },
-    {
-      "verse": 15,
-      "text": "He must not defile his offspring among his people."
-    },
-    {
-      "verse": 16,
-      "text": "The Lord said to Moses:"
-    },
-    {
-      "verse": 17,
-      "text": "\u201cSay to Aaron: No man with a defect is to come near to present food offerings."
-    },
-    {
-      "verse": 18,
-      "text": "No one who is blind, lame, disfigured or deformed,"
-    },
-    {
-      "verse": 19,
-      "text": "no one with a crippled foot or hand,"
-    },
-    {
-      "verse": 20,
-      "text": "or who is hunchbacked, a dwarf, or who has an eye defect, skin disease or damaged testicles."
-    },
-    {
-      "verse": 21,
-      "text": "No descendant of Aaron with a defect is to approach to offer food offerings."
-    },
-    {
-      "verse": 22,
-      "text": "He may eat the holy food, but must not come near the curtain or altar."
-    },
-    {
-      "verse": 23,
-      "text": "He must not desecrate the sanctuary."
-    },
-    {
-      "verse": 24,
-      "text": "So Moses told this to Aaron, his sons, and all the Israelites."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses: “Speak to the priests, the sons of Aaron. No one is to make himself ceremonially unclean for a dead person among his people,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "except for a close relative—mother, father, son, daughter, or brother."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He may also make himself unclean for an unmarried sister who depends on him."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But he must not make himself unclean for someone who is only a relative by marriage."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Priests must not shave their heads, trim the edges of their beards, or cut their bodies."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "They must be holy to their God and not profane His name."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They must not marry women who are defiled by prostitution or divorced from their husbands."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Set them apart as holy, because they offer the food of your God."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "If a priest’s daughter becomes a prostitute, she disgraces her father. She must be burned in fire."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The high priest, who has had the anointing oil poured on him and been consecrated to wear the garments, must not let his hair become unkempt or tear his clothes."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "He must not enter a place where there is a dead body, or make himself unclean, even for a close relative."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "He must not leave the sanctuary or desecrate it, for he is consecrated."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "He must marry a virgin."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "He must not marry a widow, a divorced woman, or a prostitute."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "He must not defile his offspring among his people."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "The Lord said to Moses:"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "“Say to Aaron: No man with a defect is to come near to present food offerings."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "No one who is blind, lame, disfigured or deformed,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "no one with a crippled foot or hand,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "or who is hunchbacked, a dwarf, or who has an eye defect, skin disease or damaged testicles."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "No descendant of Aaron with a defect is to approach to offer food offerings."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "He may eat the holy food, but must not come near the curtain or altar."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "He must not desecrate the sanctuary."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "So Moses told this to Aaron, his sons, and all the Israelites."
+            ]
+        }
+    ]
 }

@@ -1,126 +1,192 @@
 {
-  "book": "2 Samuel",
-  "chapter": 7,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now it came about, when the king lived in his house, and the Lord had given him rest on every side from all his enemies,"
-    },
-    {
-      "verse": 2,
-      "text": "that the king said to Nathan the prophet, “See now, I live in a house of cedar, but the ark of God dwells within tent curtains.”"
-    },
-    { "verse": null },
-    {
-      "verse": 3,
-      "text": "Nathan said to the king, “Go, do all that is in your heart, for the Lord is with you.”"
-    },
-    {
-      "verse": 4,
-      "text": "But in the same night, the word of the Lord came to Nathan, saying,"
-    },
-    {
-      "verse": 5,
-      "text": "“Go and say to My servant David, ‘This is what the Lord says: Should you build Me a house for My dwelling?"
-    },
-    {
-      "verse": 6,
-      "text": "For I have not dwelt in a house since the day I brought up the sons of Israel from Egypt, even to this day; but I have been moving about in a tent, that is, a dwelling place."
-    },
-    { "verse": null },
-    {
-      "verse": 7,
-      "text": "Wherever I have gone with all the sons of Israel, did I ever speak a word with one of the tribes of Israel, whom I commanded to shepherd My people Israel, saying, “Why have you not built Me a house of cedar?”’"
-    },
-    {
-      "verse": 8,
-      "text": "Now then, this is what you shall say to My servant David: ‘This is what the Lord of armies says: I Myself took you from the pasture, from following the sheep, to be leader over My people Israel."
-    },
-    {
-      "verse": 9,
-      "text": "And I have been with you wherever you have gone, and have eliminated all your enemies from you; and I will make your name great, like the names of the great men who are on the earth."
-    },
-    {
-      "verse": 10,
-      "text": "And I will establish a place for My people Israel and will plant them, so that they may live in their own place and not be disturbed again, nor will the wicked afflict them any more as previously,"
-    },
-    {
-      "verse": 11,
-      "text": "even from the day that I appointed judges over My people Israel; and I will give you rest from all your enemies. The Lord also declares to you that the Lord will make a house for you."
-    },
-    {
-      "verse": 12,
-      "text": "When your days are finished and you lie down with your fathers, I will raise up your descendant after you, who will come from you, and I will establish his kingdom."
-    },
-    {
-      "verse": 13,
-      "text": "He shall build a house for My name, and I will establish the throne of his kingdom forever."
-    },
-    {
-      "verse": 14,
-      "text": "I will be a father to him and he will be a son to Me; when he does wrong, I will discipline him with a rod of men and with lashes of the sons of mankind,"
-    },
-    {
-      "verse": 15,
-      "text": "but My favour shall not depart from him, as I took it away from Saul, whom I removed from you."
-    },
-    {
-      "verse": 16,
-      "text": "Your house and your kingdom shall endure before Me forever; your throne shall be established forever.’”"
-    },
-    { "verse": null },
-    {
-      "verse": 17,
-      "text": "In accordance with all these words and all this vision, so Nathan spoke to David."
-    },
-    {
-      "verse": 18,
-      "text": "Then King David went in and sat before the Lord, and he said, “Who am I, Lord God, and what is my house, that You have brought me this far?"
-    },
-    {
-      "verse": 19,
-      "text": "Yet this was a small thing in Your eyes, Lord God, for You have spoken also of the house of Your servant regarding the distant future. And this is the custom of humanity, Lord God."
-    },
-    {
-      "verse": 20,
-      "text": "Again, what more can David say to You? For You know Your servant, Lord God!"
-    },
-    {
-      "verse": 21,
-      "text": "For the sake of Your word, and according to Your own heart, You have done all this greatness, to let Your servant know."
-    },
-    {
-      "verse": 22,
-      "text": "For this reason You are great, Lord God; for there is no one like You, and there is no God except You, according to all that we have heard with our ears."
-    },
-    {
-      "verse": 23,
-      "text": "And who is like Your people, Israel, the one nation on the earth whom God went to redeem for Himself as a people, and to make a name for Himself, and to do a great thing for You—awesome things for Your land, because of Your people whom You have redeemed for Yourself from Egypt, from other nations and their gods?"
-    },
-    { "verse": null },
-    {
-      "verse": 24,
-      "text": "For You have established Your people Israel as Your own people forever, and You, Lord, have become their God."
-    },
-    {
-      "verse": 25,
-      "text": "Now Lord God, the word that You have spoken about Your servant and his house, confirm it forever, and do just as You have spoken,"
-    },
-    {
-      "verse": 26,
-      "text": "so that Your name may be great forever, by saying, ‘The Lord of armies is God over Israel’; and may the house of Your servant David be established before You."
-    },
-    {
-      "verse": 27,
-      "text": "For You, Lord of armies, God of Israel, have given a revelation to Your servant, saying, ‘I will build you a house’; therefore Your servant has found courage to pray this prayer to You."
-    },
-    {
-      "verse": 28,
-      "text": "Now then, Lord God, You are God, and Your words are truth, and You have promised this good thing to Your servant."
-    },
-    {
-      "verse": 29,
-      "text": "And now, may it please You to bless the house of Your servant, so that it may continue forever before You. For You, Lord God, have spoken; and with Your blessing may the house of Your servant be blessed forever.”"
-    }
-  ]
+    "book": "2 Samuel",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now it came about, when the king lived in his house, and the Lord had given him rest on every side from all his enemies,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "that the king said to Nathan the prophet, “See now, I live in a house of cedar, but the ark of God dwells within tent curtains.”"
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Nathan said to the king, “Go, do all that is in your heart, for the Lord is with you.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But in the same night, the word of the Lord came to Nathan, saying,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "“Go and say to My servant David, ‘This is what the Lord says: Should you build Me a house for My dwelling?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "For I have not dwelt in a house since the day I brought up the sons of Israel from Egypt, even to this day; but I have been moving about in a tent, that is, a dwelling place."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Wherever I have gone with all the sons of Israel, did I ever speak a word with one of the tribes of Israel, whom I commanded to shepherd My people Israel, saying, “Why have you not built Me a house of cedar?”’"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Now then, this is what you shall say to My servant David: ‘This is what the Lord of armies says: I Myself took you from the pasture, from following the sheep, to be leader over My people Israel."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "And I have been with you wherever you have gone, and have eliminated all your enemies from you; and I will make your name great, like the names of the great men who are on the earth."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "And I will establish a place for My people Israel and will plant them, so that they may live in their own place and not be disturbed again, nor will the wicked afflict them any more as previously,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "even from the day that I appointed judges over My people Israel; and I will give you rest from all your enemies. The Lord also declares to you that the Lord will make a house for you."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "When your days are finished and you lie down with your fathers, I will raise up your descendant after you, who will come from you, and I will establish his kingdom."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "He shall build a house for My name, and I will establish the throne of his kingdom forever."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "I will be a father to him and he will be a son to Me; when he does wrong, I will discipline him with a rod of men and with lashes of the sons of mankind,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "but My favour shall not depart from him, as I took it away from Saul, whom I removed from you."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Your house and your kingdom shall endure before Me forever; your throne shall be established forever.’”"
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 17,
+            "text": [
+                "In accordance with all these words and all this vision, so Nathan spoke to David."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Then King David went in and sat before the Lord, and he said, “Who am I, Lord God, and what is my house, that You have brought me this far?"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Yet this was a small thing in Your eyes, Lord God, for You have spoken also of the house of Your servant regarding the distant future. And this is the custom of humanity, Lord God."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Again, what more can David say to You? For You know Your servant, Lord God!"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "For the sake of Your word, and according to Your own heart, You have done all this greatness, to let Your servant know."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "For this reason You are great, Lord God; for there is no one like You, and there is no God except You, according to all that we have heard with our ears."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "And who is like Your people, Israel, the one nation on the earth whom God went to redeem for Himself as a people, and to make a name for Himself, and to do a great thing for You—awesome things for Your land, because of Your people whom You have redeemed for Yourself from Egypt, from other nations and their gods?"
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 24,
+            "text": [
+                "For You have established Your people Israel as Your own people forever, and You, Lord, have become their God."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Now Lord God, the word that You have spoken about Your servant and his house, confirm it forever, and do just as You have spoken,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "so that Your name may be great forever, by saying, ‘The Lord of armies is God over Israel’; and may the house of Your servant David be established before You."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "For You, Lord of armies, God of Israel, have given a revelation to Your servant, saying, ‘I will build you a house’; therefore Your servant has found courage to pray this prayer to You."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Now then, Lord God, You are God, and Your words are truth, and You have promised this good thing to Your servant."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "And now, may it please You to bless the house of Your servant, so that it may continue forever before You. For You, Lord God, have spoken; and with Your blessing may the house of Your servant be blessed forever.”"
+            ]
+        }
+    ]
 }

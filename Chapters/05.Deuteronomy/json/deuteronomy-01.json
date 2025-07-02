@@ -1,190 +1,282 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "These are the words Moses spoke to all Israel in the wilderness east of the Jordan, in the Arabah, opposite Suph, between Paran, Tophel, Laban, Hazeroth, and Dizahab."
-    },
-    {
-      "verse": 2,
-      "text": "It takes eleven days to travel from Horeb to Kadesh Barnea by way of Mount Seir."
-    },
-    {
-      "verse": 3,
-      "text": "In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them."
-    },
-    {
-      "verse": 4,
-      "text": "This was after he had defeated Sihon king of the Amorites, who ruled in Heshbon, and Og king of Bashan, who reigned in Ashtaroth and Edrei."
-    },
-    {
-      "verse": 5,
-      "text": "East of the Jordan in the land of Moab, Moses began to explain this law, saying:"
-    },
-    {
-      "verse": 6,
-      "text": "\u201cThe Lord our God said to us at Horeb: \u2018You have stayed long enough at this mountain."
-    },
-    {
-      "verse": 7,
-      "text": "Break camp and move on. Go into the hill country of the Amorites and to all the surrounding regions\u2014the Arabah, the mountains, the western foothills, the Negev, and the seacoast\u2014to the land of the Canaanites and Lebanon, as far as the great river, the Euphrates."
-    },
-    {
-      "verse": 8,
-      "text": "See, I have set the land before you. Go in and take possession of the land the Lord swore to your ancestors\u2014to Abraham, Isaac, and Jacob\u2014and to their descendants after them.\u2019"
-    },
-    {
-      "verse": 9,
-      "text": "At that time I said to you, \u2018I am not able to bear the burden of you by myself."
-    },
-    {
-      "verse": 10,
-      "text": "The Lord your God has increased your numbers, and today you are as numerous as the stars in the sky."
-    },
-    {
-      "verse": 11,
-      "text": "May the Lord, the God of your ancestors, increase you a thousand times and bless you, just as He promised."
-    },
-    {
-      "verse": 12,
-      "text": "But how can I carry your troubles, burdens, and disputes by myself?"
-    },
-    {
-      "verse": 13,
-      "text": "Choose wise, understanding, and respected men from each of your tribes, and I will appoint them as your leaders.\u2019"
-    },
-    {
-      "verse": 14,
-      "text": "You answered me and said, \u2018What you propose to do is good.\u2019"
-    },
-    {
-      "verse": 15,
-      "text": "So I took the heads of your tribes\u2014wise and experienced men\u2014and made them leaders over you: commanders of thousands, hundreds, fifties, and tens, and officers for each tribe."
-    },
-    {
-      "verse": 16,
-      "text": "I charged your judges at that time: \u2018Hear cases between your brothers and judge fairly, whether between fellow Israelites or between Israelites and foreigners."
-    },
-    {
-      "verse": 17,
-      "text": "Do not show partiality in judging. Hear both small and great alike. Do not be afraid of any person, for judgment belongs to God. Bring any case that is too difficult to me, and I will hear it.\u2019"
-    },
-    {
-      "verse": 18,
-      "text": "At that time I gave you instructions about everything you were to do."
-    },
-    {
-      "verse": 19,
-      "text": "Then we set out from Horeb and traveled through all that vast and dreadful wilderness that you saw, on the way to the hill country of the Amorites, as the Lord our God had commanded. When we reached Kadesh Barnea,"
-    },
-    {
-      "verse": 20,
-      "text": "I said to you: \u2018You have reached the hill country of the Amorites, which the Lord our God is giving us."
-    },
-    {
-      "verse": 21,
-      "text": "Look, the Lord your God has set the land before you. Go up and take possession, as the Lord, the God of your ancestors, told you. Do not fear or be discouraged.\u2019"
-    },
-    {
-      "verse": 22,
-      "text": "Then all of you came to me and said, \u2018Let us send men ahead to explore the land and bring back a report about the route we should take and the towns we will find.\u2019"
-    },
-    {
-      "verse": 23,
-      "text": "The idea seemed good to me, so I selected twelve men from among you, one from each tribe."
-    },
-    {
-      "verse": 24,
-      "text": "They went up into the hill country and came to the Valley of Eshcol and explored it."
-    },
-    {
-      "verse": 25,
-      "text": "They took some of the fruit of the land and brought it back to us, and reported, \u2018It is a good land that the Lord our God is giving us.\u2019"
-    },
-    {
-      "verse": 26,
-      "text": "But you were not willing to go up. You rebelled against the command of the Lord your God."
-    },
-    {
-      "verse": 27,
-      "text": "You grumbled in your tents and said, \u2018The Lord hates us; He brought us out of Egypt to hand us over to the Amorites to destroy us."
-    },
-    {
-      "verse": 28,
-      "text": "Where can we go? Our brothers have made us lose heart. They say the people are stronger and taller than we are; the cities are large, with walls up to the sky. We even saw Anakites there.\u2019"
-    },
-    {
-      "verse": 29,
-      "text": "Then I said to you, \u2018Do not be terrified or afraid of them."
-    },
-    {
-      "verse": 30,
-      "text": "The Lord your God, who goes before you, will fight for you, just as He did for you in Egypt,"
-    },
-    {
-      "verse": 31,
-      "text": "and in the wilderness, where you saw how the Lord your God carried you, as a father carries his son, all the way you went until you reached this place.\u2019"
-    },
-    {
-      "verse": 32,
-      "text": "But even after all this, you did not trust the Lord your God,"
-    },
-    {
-      "verse": 33,
-      "text": "who went before you on the journey, by fire at night and cloud by day, to find places for you to camp and to show you the way you should go."
-    },
-    {
-      "verse": 34,
-      "text": "When the Lord heard your words, He was angry and swore an oath:"
-    },
-    {
-      "verse": 35,
-      "text": "\u2018Not one of these men of this evil generation will see the good land I swore to give your ancestors,"
-    },
-    {
-      "verse": 36,
-      "text": "except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land he set foot on, because he followed the Lord wholeheartedly.\u2019"
-    },
-    {
-      "verse": 37,
-      "text": "Because of you, the Lord was angry with me also and said, \u2018You will not enter it either."
-    },
-    {
-      "verse": 38,
-      "text": "But Joshua son of Nun, who stands before you, will enter it. Encourage him, for he will lead Israel to inherit it."
-    },
-    {
-      "verse": 39,
-      "text": "And the children whom you said would become plunder\u2014your sons who do not yet know good from evil\u2014they will enter the land. I will give it to them, and they will take possession of it."
-    },
-    {
-      "verse": 40,
-      "text": "But you\u2014turn around and set out toward the wilderness by the route to the Red Sea.\u2019"
-    },
-    {
-      "verse": 41,
-      "text": "Then you replied, \u2018We have sinned against the Lord. We will go up and fight, just as the Lord commanded us.\u2019 And each of you put on your weapons, thinking it easy to go up into the hill country."
-    },
-    {
-      "verse": 42,
-      "text": "But the Lord said to me, \u2018Tell them, Do not go up and fight, for I will not be with you, and you will be defeated by your enemies.\u2019"
-    },
-    {
-      "verse": 43,
-      "text": "So I told you, but you would not listen. You rebelled against the Lord\u2019s word and arrogantly went up into the hill country."
-    },
-    {
-      "verse": 44,
-      "text": "Then the Amorites who lived there came out and attacked you like bees. They chased you from Seir as far as Hormah."
-    },
-    {
-      "verse": 45,
-      "text": "You returned and wept before the Lord, but He did not listen to you or pay attention."
-    },
-    {
-      "verse": 46,
-      "text": "So you stayed in Kadesh many days\u2014all the time you spent there."
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "These are the words Moses spoke to all Israel in the wilderness east of the Jordan, in the Arabah, opposite Suph, between Paran, Tophel, Laban, Hazeroth, and Dizahab."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "It takes eleven days to travel from Horeb to Kadesh Barnea by way of Mount Seir."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "In the fortieth year, on the first day of the eleventh month, Moses proclaimed to the Israelites all that the Lord had commanded him concerning them."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "This was after he had defeated Sihon king of the Amorites, who ruled in Heshbon, and Og king of Bashan, who reigned in Ashtaroth and Edrei."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "East of the Jordan in the land of Moab, Moses began to explain this law, saying:"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "“The Lord our God said to us at Horeb: ‘You have stayed long enough at this mountain."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Break camp and move on. Go into the hill country of the Amorites and to all the surrounding regions—the Arabah, the mountains, the western foothills, the Negev, and the seacoast—to the land of the Canaanites and Lebanon, as far as the great river, the Euphrates."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "See, I have set the land before you. Go in and take possession of the land the Lord swore to your ancestors—to Abraham, Isaac, and Jacob—and to their descendants after them.’"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "At that time I said to you, ‘I am not able to bear the burden of you by myself."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The Lord your God has increased your numbers, and today you are as numerous as the stars in the sky."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "May the Lord, the God of your ancestors, increase you a thousand times and bless you, just as He promised."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "But how can I carry your troubles, burdens, and disputes by myself?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Choose wise, understanding, and respected men from each of your tribes, and I will appoint them as your leaders.’"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "You answered me and said, ‘What you propose to do is good.’"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "So I took the heads of your tribes—wise and experienced men—and made them leaders over you: commanders of thousands, hundreds, fifties, and tens, and officers for each tribe."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "I charged your judges at that time: ‘Hear cases between your brothers and judge fairly, whether between fellow Israelites or between Israelites and foreigners."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Do not show partiality in judging. Hear both small and great alike. Do not be afraid of any person, for judgment belongs to God. Bring any case that is too difficult to me, and I will hear it.’"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "At that time I gave you instructions about everything you were to do."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Then we set out from Horeb and traveled through all that vast and dreadful wilderness that you saw, on the way to the hill country of the Amorites, as the Lord our God had commanded. When we reached Kadesh Barnea,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "I said to you: ‘You have reached the hill country of the Amorites, which the Lord our God is giving us."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Look, the Lord your God has set the land before you. Go up and take possession, as the Lord, the God of your ancestors, told you. Do not fear or be discouraged.’"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Then all of you came to me and said, ‘Let us send men ahead to explore the land and bring back a report about the route we should take and the towns we will find.’"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "The idea seemed good to me, so I selected twelve men from among you, one from each tribe."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "They went up into the hill country and came to the Valley of Eshcol and explored it."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "They took some of the fruit of the land and brought it back to us, and reported, ‘It is a good land that the Lord our God is giving us.’"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "But you were not willing to go up. You rebelled against the command of the Lord your God."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "You grumbled in your tents and said, ‘The Lord hates us; He brought us out of Egypt to hand us over to the Amorites to destroy us."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Where can we go? Our brothers have made us lose heart. They say the people are stronger and taller than we are; the cities are large, with walls up to the sky. We even saw Anakites there.’"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Then I said to you, ‘Do not be terrified or afraid of them."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "The Lord your God, who goes before you, will fight for you, just as He did for you in Egypt,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "and in the wilderness, where you saw how the Lord your God carried you, as a father carries his son, all the way you went until you reached this place.’"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "But even after all this, you did not trust the Lord your God,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "who went before you on the journey, by fire at night and cloud by day, to find places for you to camp and to show you the way you should go."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "When the Lord heard your words, He was angry and swore an oath:"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "‘Not one of these men of this evil generation will see the good land I swore to give your ancestors,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land he set foot on, because he followed the Lord wholeheartedly.’"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Because of you, the Lord was angry with me also and said, ‘You will not enter it either."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "But Joshua son of Nun, who stands before you, will enter it. Encourage him, for he will lead Israel to inherit it."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "And the children whom you said would become plunder—your sons who do not yet know good from evil—they will enter the land. I will give it to them, and they will take possession of it."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "But you—turn around and set out toward the wilderness by the route to the Red Sea.’"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Then you replied, ‘We have sinned against the Lord. We will go up and fight, just as the Lord commanded us.’ And each of you put on your weapons, thinking it easy to go up into the hill country."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "But the Lord said to me, ‘Tell them, Do not go up and fight, for I will not be with you, and you will be defeated by your enemies.’"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "So I told you, but you would not listen. You rebelled against the Lord’s word and arrogantly went up into the hill country."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Then the Amorites who lived there came out and attacked you like bees. They chased you from Seir as far as Hormah."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "You returned and wept before the Lord, but He did not listen to you or pay attention."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "So you stayed in Kadesh many days—all the time you spent there."
+            ]
+        }
+    ]
 }

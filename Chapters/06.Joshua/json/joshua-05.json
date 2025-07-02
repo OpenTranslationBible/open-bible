@@ -2,66 +2,95 @@
     "book": "Joshua",
     "chapter": 5,
     "verses": [
-      {
-        "verse": 1,
-        "text": "When all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and they lost all courage to face the Israelites."
-      },
-      {
-        "verse": 2,
-        "text": "At that time the Lord said to Joshua, “Make flint knives and circumcise the sons of Israel again.”"
-      },
-      {
-        "verse": 3,
-        "text": "So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth."
-      },
-      {
-        "verse": 4,
-        "text": "This is the reason Joshua circumcised them: All the males who came out of Egypt—those who were of military age—had died in the wilderness on the way after leaving Egypt."
-      },
-      {
-        "verse": 5,
-        "text": "Though all the people who came out had been circumcised, none of those born in the wilderness during the journey from Egypt had been circumcised."
-      },
-      {
-        "verse": 6,
-        "text": "The Israelites had moved about in the wilderness for forty years until all the men who were of military age when they left Egypt had died, because they did not obey the voice of the Lord. For the Lord had sworn that they would not see the land He had promised to their ancestors—a land flowing with milk and honey."
-      },
-      {
-        "verse": 7,
-        "text": "So He raised up their children in their place, and these were the ones Joshua circumcised. They were still uncircumcised because they had not been circumcised on the way."
-      },
-      {
-        "verse": 8,
-        "text": "And after the whole nation had been circumcised, they stayed in their places in the camp until they recovered."
-      },
-      {
-        "verse": 9,
-        "text": "Then the Lord said to Joshua, “Today I have rolled away from you the disgrace of Egypt.” So the place has been called Gilgal to this day."
-      },
-      {
-        "verse": 10,
-        "text": "On the evening of the fourteenth day of the month, while camped at Gilgal on the plains of Jericho, the Israelites observed the Passover."
-      },
-      {
-        "verse": 11,
-        "text": "The very next day after the Passover, they ate some of the produce of the land—unleavened bread and roasted grain."
-      },
-      {
-        "verse": 12,
-        "text": "The manna stopped the day after they ate this food from the land. There was no longer any manna for the Israelites, but that year they ate from the produce of Canaan."
-      },
-      {
-        "verse": 13,
-        "text": "Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in his hand. Joshua approached him and asked, “Are you for us, or for our enemies?”"
-      },
-      {
-        "verse": 14,
-        "text": "“Neither,” he replied, “but as commander of the army of the Lord I have now come.” Then Joshua fell face down in reverence and asked him, “What does my lord say to his servant?”"
-      },
-      {
-        "verse": 15,
-        "text": "The commander of the Lord’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so."
-      }
+        {
+            "verse": 1,
+            "text": [
+                "When all the Amorite kings west of the Jordan and all the Canaanite kings along the coast heard how the Lord had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted and they lost all courage to face the Israelites."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "At that time the Lord said to Joshua, “Make flint knives and circumcise the sons of Israel again.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "So Joshua made flint knives and circumcised the sons of Israel at Gibeath-haaraloth."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "This is the reason Joshua circumcised them: All the males who came out of Egypt—those who were of military age—had died in the wilderness on the way after leaving Egypt."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Though all the people who came out had been circumcised, none of those born in the wilderness during the journey from Egypt had been circumcised."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "The Israelites had moved about in the wilderness for forty years until all the men who were of military age when they left Egypt had died, because they did not obey the voice of the Lord. For the Lord had sworn that they would not see the land He had promised to their ancestors—a land flowing with milk and honey."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "So He raised up their children in their place, and these were the ones Joshua circumcised. They were still uncircumcised because they had not been circumcised on the way."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "And after the whole nation had been circumcised, they stayed in their places in the camp until they recovered."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then the Lord said to Joshua, “Today I have rolled away from you the disgrace of Egypt.” So the place has been called Gilgal to this day."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "On the evening of the fourteenth day of the month, while camped at Gilgal on the plains of Jericho, the Israelites observed the Passover."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The very next day after the Passover, they ate some of the produce of the land—unleavened bread and roasted grain."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The manna stopped the day after they ate this food from the land. There was no longer any manna for the Israelites, but that year they ate from the produce of Canaan."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Now when Joshua was near Jericho, he looked up and saw a man standing in front of him with a drawn sword in his hand. Joshua approached him and asked, “Are you for us, or for our enemies?”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "“Neither,” he replied, “but as commander of the army of the Lord I have now come.” Then Joshua fell face down in reverence and asked him, “What does my lord say to his servant?”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "The commander of the Lord’s army replied, “Take off your sandals, for the place where you are standing is holy.” And Joshua did so."
+            ]
+        }
     ]
-  }
-  
+}

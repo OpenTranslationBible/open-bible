@@ -1,190 +1,282 @@
 {
-  "book": "Leviticus",
-  "chapter": 26,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Do not make idols or set up an image or sacred stone for yourselves. Do not place a carved stone in your land to bow down to it. I am the Lord your God."
-    },
-    {
-      "verse": 2,
-      "text": "Observe My Sabbaths and have reverence for My sanctuary. I am the Lord."
-    },
-    {
-      "verse": 3,
-      "text": "If you follow My statutes and carefully obey My commands,"
-    },
-    {
-      "verse": 4,
-      "text": "I will send rain in its season, and the land will yield its crops and the trees their fruit."
-    },
-    {
-      "verse": 5,
-      "text": "Your threshing will continue until grape harvest and the grape harvest will continue until planting. You will eat your fill and live securely in your land."
-    },
-    {
-      "verse": 6,
-      "text": "I will grant peace in the land, and you will lie down without fear. I will remove wild beasts, and the sword will not pass through your land."
-    },
-    {
-      "verse": 7,
-      "text": "You will pursue your enemies, and they will fall by the sword before you."
-    },
-    {
-      "verse": 8,
-      "text": "Five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall."
-    },
-    {
-      "verse": 9,
-      "text": "I will look on you with favour and make you fruitful and increase your numbers, and I will keep My covenant with you."
-    },
-    {
-      "verse": 10,
-      "text": "You will still be eating last year\u2019s harvest when you will have to move it out to make room for the new."
-    },
-    {
-      "verse": 11,
-      "text": "I will set My dwelling place among you, and I will not reject you."
-    },
-    {
-      "verse": 12,
-      "text": "I will walk among you and be your God, and you will be My people."
-    },
-    {
-      "verse": 13,
-      "text": "I am the Lord your God, who brought you out of Egypt so you would no longer be slaves. I broke the bars of your yoke and enabled you to walk upright."
-    },
-    {
-      "verse": 14,
-      "text": "But if you do not listen to Me or carry out all these commands,"
-    },
-    {
-      "verse": 15,
-      "text": "and if you reject My statutes and despise My regulations,"
-    },
-    {
-      "verse": 16,
-      "text": "then I will bring sudden terror on you\u2014wasting diseases and fever that will destroy your sight and sap your strength. You will plant seed in vain because your enemies will eat it."
-    },
-    {
-      "verse": 17,
-      "text": "I will turn My face against you, and you will be defeated by your enemies."
-    },
-    {
-      "verse": 18,
-      "text": "If you still do not listen, I will punish you seven times over for your sins."
-    },
-    {
-      "verse": 19,
-      "text": "I will break your pride in power. I will make your heavens like iron and your ground like bronze."
-    },
-    {
-      "verse": 20,
-      "text": "Your strength will be spent in vain; your land will not yield its crops."
-    },
-    {
-      "verse": 21,
-      "text": "If you remain hostile and refuse to listen, I will multiply your afflictions seven times over."
-    },
-    {
-      "verse": 22,
-      "text": "I will send wild animals to rob you of your children and destroy your livestock."
-    },
-    {
-      "verse": 23,
-      "text": "If you still do not accept My discipline,"
-    },
-    {
-      "verse": 24,
-      "text": "I will afflict you with a plague and deliver you into enemy hands."
-    },
-    {
-      "verse": 25,
-      "text": "I will bring the sword and you will be gathered into cities under siege. I will cut off your supply of bread."
-    },
-    {
-      "verse": 26,
-      "text": "Ten women will bake bread in one oven and ration it by weight."
-    },
-    {
-      "verse": 27,
-      "text": "If despite this you still do not listen,"
-    },
-    {
-      "verse": 28,
-      "text": "I will punish you for your sins seven times over."
-    },
-    {
-      "verse": 29,
-      "text": "You will eat the flesh of your sons and daughters."
-    },
-    {
-      "verse": 30,
-      "text": "I will destroy your high places and cut down your incense altars."
-    },
-    {
-      "verse": 31,
-      "text": "I will lay your cities waste and desolate your sanctuaries."
-    },
-    {
-      "verse": 32,
-      "text": "I will bring the land into desolation, and your enemies who live there will be appalled."
-    },
-    {
-      "verse": 33,
-      "text": "I will scatter you among the nations and draw out My sword against you."
-    },
-    {
-      "verse": 34,
-      "text": "Then the land will enjoy its Sabbaths all the time it lies desolate."
-    },
-    {
-      "verse": 35,
-      "text": "As long as it lies desolate, it will rest."
-    },
-    {
-      "verse": 36,
-      "text": "I will make the hearts of those left in the lands of their enemies so fearful that the sound of a wind-blown leaf will put them to flight."
-    },
-    {
-      "verse": 37,
-      "text": "They will stumble as if fleeing from the sword, even though no one is pursuing them."
-    },
-    {
-      "verse": 38,
-      "text": "You will perish among the nations."
-    },
-    {
-      "verse": 39,
-      "text": "Those of you who survive will waste away because of their sins and the sins of their ancestors."
-    },
-    {
-      "verse": 40,
-      "text": "But if they will confess their sins and the sins of their ancestors\u2014their unfaithfulness and hostility toward Me\u2014"
-    },
-    {
-      "verse": 41,
-      "text": "which made Me hostile toward them and caused Me to drive them into the land of their enemies\u2014then when their hearts are humbled and they make amends,"
-    },
-    {
-      "verse": 42,
-      "text": "I will remember My covenant with Jacob, Isaac, and Abraham, and I will remember the land."
-    },
-    {
-      "verse": 43,
-      "text": "The land will be left empty and will enjoy its rest."
-    },
-    {
-      "verse": 44,
-      "text": "Yet in spite of this, I will not reject or abhor them so as to destroy them or break My covenant."
-    },
-    {
-      "verse": 45,
-      "text": "For their sake, I will remember the covenant with their ancestors, whom I brought out of Egypt."
-    },
-    {
-      "verse": 46,
-      "text": "These are the statutes, laws, and regulations the Lord established on Mount Sinai between Himself and the Israelites through Moses."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 26,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Do not make idols or set up an image or sacred stone for yourselves. Do not place a carved stone in your land to bow down to it. I am the Lord your God."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Observe My Sabbaths and have reverence for My sanctuary. I am the Lord."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "If you follow My statutes and carefully obey My commands,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "I will send rain in its season, and the land will yield its crops and the trees their fruit."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Your threshing will continue until grape harvest and the grape harvest will continue until planting. You will eat your fill and live securely in your land."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "I will grant peace in the land, and you will lie down without fear. I will remove wild beasts, and the sword will not pass through your land."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "You will pursue your enemies, and they will fall by the sword before you."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "I will look on you with favour and make you fruitful and increase your numbers, and I will keep My covenant with you."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "You will still be eating last year’s harvest when you will have to move it out to make room for the new."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "I will set My dwelling place among you, and I will not reject you."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "I will walk among you and be your God, and you will be My people."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "I am the Lord your God, who brought you out of Egypt so you would no longer be slaves. I broke the bars of your yoke and enabled you to walk upright."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But if you do not listen to Me or carry out all these commands,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "and if you reject My statutes and despise My regulations,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "then I will bring sudden terror on you—wasting diseases and fever that will destroy your sight and sap your strength. You will plant seed in vain because your enemies will eat it."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "I will turn My face against you, and you will be defeated by your enemies."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "If you still do not listen, I will punish you seven times over for your sins."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "I will break your pride in power. I will make your heavens like iron and your ground like bronze."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Your strength will be spent in vain; your land will not yield its crops."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "If you remain hostile and refuse to listen, I will multiply your afflictions seven times over."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "I will send wild animals to rob you of your children and destroy your livestock."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "If you still do not accept My discipline,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "I will afflict you with a plague and deliver you into enemy hands."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "I will bring the sword and you will be gathered into cities under siege. I will cut off your supply of bread."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Ten women will bake bread in one oven and ration it by weight."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "If despite this you still do not listen,"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "I will punish you for your sins seven times over."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "You will eat the flesh of your sons and daughters."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "I will destroy your high places and cut down your incense altars."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "I will lay your cities waste and desolate your sanctuaries."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "I will bring the land into desolation, and your enemies who live there will be appalled."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "I will scatter you among the nations and draw out My sword against you."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Then the land will enjoy its Sabbaths all the time it lies desolate."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "As long as it lies desolate, it will rest."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "I will make the hearts of those left in the lands of their enemies so fearful that the sound of a wind-blown leaf will put them to flight."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "They will stumble as if fleeing from the sword, even though no one is pursuing them."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "You will perish among the nations."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Those of you who survive will waste away because of their sins and the sins of their ancestors."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "But if they will confess their sins and the sins of their ancestors—their unfaithfulness and hostility toward Me—"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "which made Me hostile toward them and caused Me to drive them into the land of their enemies—then when their hearts are humbled and they make amends,"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "I will remember My covenant with Jacob, Isaac, and Abraham, and I will remember the land."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "The land will be left empty and will enjoy its rest."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Yet in spite of this, I will not reject or abhor them so as to destroy them or break My covenant."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "For their sake, I will remember the covenant with their ancestors, whom I brought out of Egypt."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "These are the statutes, laws, and regulations the Lord established on Mount Sinai between Himself and the Israelites through Moses."
+            ]
+        }
+    ]
 }

@@ -1,122 +1,180 @@
 {
-  "book": "Leviticus",
-  "chapter": 25,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses at Mount Sinai,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSpeak to the Israelites and say: When you enter the land I am giving you, the land itself must observe a Sabbath to the Lord."
-    },
-    {
-      "verse": 3,
-      "text": "For six years sow your fields, prune your vineyards and gather your crops."
-    },
-    {
-      "verse": 4,
-      "text": "But in the seventh year the land is to have a year of sabbath rest\u2014a sabbath to the Lord. Do not sow or prune."
-    },
-    {
-      "verse": 5,
-      "text": "Do not reap what grows by itself or gather the grapes of your untended vines. The land is to have a year of rest."
-    },
-    {
-      "verse": 6,
-      "text": "Whatever the land yields during the sabbath year will be food for you\u2014for yourself, your servants, your hired workers, and the temporary residents living among you."
-    },
-    {
-      "verse": 7,
-      "text": "It will also be for your livestock and the wild animals."
-    },
-    {
-      "verse": 8,
-      "text": "Count off seven sabbath years\u2014seven times seven years\u2014so that the seven sabbaths amount to forty-nine years."
-    },
-    {
-      "verse": 9,
-      "text": "Then on the tenth day of the seventh month, the Day of Atonement, sound the trumpet throughout the land."
-    },
-    {
-      "verse": 10,
-      "text": "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you."
-    },
-    {
-      "verse": 11,
-      "text": "The fiftieth year shall be a jubilee; do not sow or reap."
-    },
-    {
-      "verse": 12,
-      "text": "It is holy; eat only what grows of itself."
-    },
-    {
-      "verse": 13,
-      "text": "In this Year of Jubilee everyone is to return to their own property."
-    },
-    {
-      "verse": 14,
-      "text": "If you sell to your neighbour or buy from them, do not take advantage of one another."
-    },
-    {
-      "verse": 15,
-      "text": "You are to buy from them based on the number of years since the Jubilee."
-    },
-    {
-      "verse": 16,
-      "text": "Do not take advantage of one another, but fear your God. I am the Lord your God."
-    },
-    {
-      "verse": 17,
-      "text": "Follow My decrees and be careful to obey My laws, and you will live safely in the land."
-    },
-    {
-      "verse": 18,
-      "text": "Then the land will yield its fruit, and you will eat your fill and live there in safety."
-    },
-    {
-      "verse": 19,
-      "text": "You may ask, \u2018What will we eat in the seventh year if we do not sow or gather?\u2019"
-    },
-    {
-      "verse": 20,
-      "text": "I will send My blessing in the sixth year, so that it will yield enough for three years."
-    },
-    {
-      "verse": 21,
-      "text": "While you plant in the eighth year, you will eat from the old crop until the ninth year."
-    },
-    {
-      "verse": 22,
-      "text": "The land must not be sold permanently, because it is Mine, and you reside as foreigners and strangers."
-    },
-    {
-      "verse": 23,
-      "text": "Throughout the land you hold, you must provide for the redemption of the land."
-    },
-    {
-      "verse": 24,
-      "text": "If one of your fellow Israelites becomes poor and sells some property, their nearest relative is to come and redeem it."
-    },
-    {
-      "verse": 25,
-      "text": "If no one can redeem it but the seller prospers, they may buy it back."
-    },
-    {
-      "verse": 26,
-      "text": "But if they do not acquire the means, it will remain with the buyer until the Jubilee."
-    },
-    {
-      "verse": 27,
-      "text": "In the Jubilee it will be returned."
-    },
-    {
-      "verse": 54,
-      "text": "Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee."
-    },
-    {
-      "verse": 55,
-      "text": "For the Israelites belong to Me as servants. I brought them out of Egypt. I am the Lord your God."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses at Mount Sinai,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Speak to the Israelites and say: When you enter the land I am giving you, the land itself must observe a Sabbath to the Lord."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "For six years sow your fields, prune your vineyards and gather your crops."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But in the seventh year the land is to have a year of sabbath rest—a sabbath to the Lord. Do not sow or prune."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Do not reap what grows by itself or gather the grapes of your untended vines. The land is to have a year of rest."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Whatever the land yields during the sabbath year will be food for you—for yourself, your servants, your hired workers, and the temporary residents living among you."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "It will also be for your livestock and the wild animals."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Count off seven sabbath years—seven times seven years—so that the seven sabbaths amount to forty-nine years."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then on the tenth day of the seventh month, the Day of Atonement, sound the trumpet throughout the land."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The fiftieth year shall be a jubilee; do not sow or reap."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "It is holy; eat only what grows of itself."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "In this Year of Jubilee everyone is to return to their own property."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "If you sell to your neighbour or buy from them, do not take advantage of one another."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "You are to buy from them based on the number of years since the Jubilee."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Do not take advantage of one another, but fear your God. I am the Lord your God."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Follow My decrees and be careful to obey My laws, and you will live safely in the land."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Then the land will yield its fruit, and you will eat your fill and live there in safety."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "You may ask, ‘What will we eat in the seventh year if we do not sow or gather?’"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "I will send My blessing in the sixth year, so that it will yield enough for three years."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "While you plant in the eighth year, you will eat from the old crop until the ninth year."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "The land must not be sold permanently, because it is Mine, and you reside as foreigners and strangers."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Throughout the land you hold, you must provide for the redemption of the land."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "If one of your fellow Israelites becomes poor and sells some property, their nearest relative is to come and redeem it."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "If no one can redeem it but the seller prospers, they may buy it back."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "But if they do not acquire the means, it will remain with the buyer until the Jubilee."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "In the Jubilee it will be returned."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "For the Israelites belong to Me as servants. I brought them out of Egypt. I am the Lord your God."
+            ]
+        }
+    ]
 }

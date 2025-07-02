@@ -1,86 +1,126 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 17,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Do not sacrifice to the Lord your God an ox or a sheep that has any defect or flaw, for that would be detestable to Him."
-    },
-    {
-      "verse": 2,
-      "text": "If a man or woman among you, in any of your towns that the Lord your God is giving you, is found doing evil in the sight of the Lord by transgressing His covenant\u2014"
-    },
-    {
-      "verse": 3,
-      "text": "by going and serving other gods and bowing down to them, whether to the sun or moon or the host of heaven, which I have not commanded\u2014"
-    },
-    {
-      "verse": 4,
-      "text": "and it is told to you and you hear of it, you must investigate thoroughly. If it is proven true that such a detestable thing has been done in Israel,"
-    },
-    {
-      "verse": 5,
-      "text": "then bring out to your gates the man or woman who has done this evil deed and stone them to death."
-    },
-    {
-      "verse": 6,
-      "text": "On the testimony of two or three witnesses the one deserving death is to be put to death. No one shall be put to death on the testimony of a single witness."
-    },
-    {
-      "verse": 7,
-      "text": "The hands of the witnesses must be the first to carry out the execution, and afterward the hands of all the people. You must purge the evil from among you."
-    },
-    {
-      "verse": 8,
-      "text": "If a case arises that is too difficult for you to judge\u2014whether bloodshed, lawsuits, or assault\u2014within your gates, then you must go up to the place the Lord your God will choose."
-    },
-    {
-      "verse": 9,
-      "text": "Go to the Levitical priests and to the judge who is in office at that time. Inquire of them, and they will declare to you the legal decision."
-    },
-    {
-      "verse": 10,
-      "text": "You must act according to the decision they give you at the place the Lord chooses. Be careful to do all that they instruct you."
-    },
-    {
-      "verse": 11,
-      "text": "Follow the law they teach you and the decision they pronounce. Do not turn aside from what they tell you, either to the right or the left."
-    },
-    {
-      "verse": 12,
-      "text": "Anyone who arrogantly refuses to listen to the priest who stands to minister before the Lord your God, or to the judge, must be put to death. You must purge the evil from Israel."
-    },
-    {
-      "verse": 13,
-      "text": "Then all the people will hear and be afraid, and will not act arrogantly again."
-    },
-    {
-      "verse": 14,
-      "text": "When you enter the land the Lord your God is giving you and have taken possession of it and settled there, and you say, \u2018Let us appoint a king over us like all the nations around us,\u2019"
-    },
-    {
-      "verse": 15,
-      "text": "you must appoint a king over you whom the Lord your God chooses. He must be one of your fellow Israelites. You must not place a foreigner over you, one who is not your brother."
-    },
-    {
-      "verse": 16,
-      "text": "The king must not acquire many horses for himself or send people to Egypt to get more, since the Lord has said to you, \u2018You must never go back that way again.\u2019"
-    },
-    {
-      "verse": 17,
-      "text": "He must not take many wives, or his heart will be led astray. Nor shall he accumulate large amounts of silver and gold."
-    },
-    {
-      "verse": 18,
-      "text": "When he takes the throne of his kingdom, he is to write for himself on a scroll a copy of this law, taken from the scroll kept by the Levitical priests."
-    },
-    {
-      "verse": 19,
-      "text": "It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the Lord his God and carefully follow all the words of this law and these statutes."
-    },
-    {
-      "verse": 20,
-      "text": "In this way, his heart will not be lifted up above his fellow Israelites, and he will not turn aside from the command, either to the right or to the left. Then he and his descendants will reign long in his kingdom in Israel."
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Do not sacrifice to the Lord your God an ox or a sheep that has any defect or flaw, for that would be detestable to Him."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "If a man or woman among you, in any of your towns that the Lord your God is giving you, is found doing evil in the sight of the Lord by transgressing His covenant—"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "by going and serving other gods and bowing down to them, whether to the sun or moon or the host of heaven, which I have not commanded—"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "and it is told to you and you hear of it, you must investigate thoroughly. If it is proven true that such a detestable thing has been done in Israel,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "then bring out to your gates the man or woman who has done this evil deed and stone them to death."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "On the testimony of two or three witnesses the one deserving death is to be put to death. No one shall be put to death on the testimony of a single witness."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "The hands of the witnesses must be the first to carry out the execution, and afterward the hands of all the people. You must purge the evil from among you."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "If a case arises that is too difficult for you to judge—whether bloodshed, lawsuits, or assault—within your gates, then you must go up to the place the Lord your God will choose."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Go to the Levitical priests and to the judge who is in office at that time. Inquire of them, and they will declare to you the legal decision."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "You must act according to the decision they give you at the place the Lord chooses. Be careful to do all that they instruct you."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Follow the law they teach you and the decision they pronounce. Do not turn aside from what they tell you, either to the right or the left."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Anyone who arrogantly refuses to listen to the priest who stands to minister before the Lord your God, or to the judge, must be put to death. You must purge the evil from Israel."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Then all the people will hear and be afraid, and will not act arrogantly again."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "When you enter the land the Lord your God is giving you and have taken possession of it and settled there, and you say, ‘Let us appoint a king over us like all the nations around us,’"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "you must appoint a king over you whom the Lord your God chooses. He must be one of your fellow Israelites. You must not place a foreigner over you, one who is not your brother."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "The king must not acquire many horses for himself or send people to Egypt to get more, since the Lord has said to you, ‘You must never go back that way again.’"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "He must not take many wives, or his heart will be led astray. Nor shall he accumulate large amounts of silver and gold."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "When he takes the throne of his kingdom, he is to write for himself on a scroll a copy of this law, taken from the scroll kept by the Levitical priests."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "It is to remain with him, and he is to read from it all the days of his life, so that he may learn to fear the Lord his God and carefully follow all the words of this law and these statutes."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "In this way, his heart will not be lifted up above his fellow Israelites, and he will not turn aside from the command, either to the right or to the left. Then he and his descendants will reign long in his kingdom in Israel."
+            ]
+        }
+    ]
 }

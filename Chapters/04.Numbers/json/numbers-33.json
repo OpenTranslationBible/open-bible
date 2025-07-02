@@ -1,230 +1,342 @@
 {
-  "book": "Numbers",
-  "chapter": 33,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "These are the journeys of the Israelites who came out of Egypt by their divisions under the leadership of Moses and Aaron."
-    },
-    {
-      "verse": 2,
-      "text": "At the Lord\u2019s command, Moses recorded the stages of their journey. These are their stages, listed by departure points:"
-    },
-    {
-      "verse": 3,
-      "text": "They set out from Rameses in the first month, on the fifteenth day of the month. The morning after the Passover, the Israelites marched out boldly in the sight of all the Egyptians,"
-    },
-    {
-      "verse": 4,
-      "text": "while the Egyptians were burying all their firstborn, whom the Lord had struck down. The Lord had executed judgment on their gods."
-    },
-    {
-      "verse": 5,
-      "text": "The Israelites left Rameses and camped at Succoth."
-    },
-    {
-      "verse": 6,
-      "text": "They departed from Succoth and camped at Etham, on the edge of the wilderness."
-    },
-    {
-      "verse": 7,
-      "text": "They moved from Etham and turned back to Pi Hahiroth, east of Baal Zephon, and camped near Migdol."
-    },
-    {
-      "verse": 8,
-      "text": "They departed from Pi Hahiroth, passed through the midst of the sea into the wilderness, travelled for three days in the Wilderness of Etham, and camped at Marah."
-    },
-    {
-      "verse": 9,
-      "text": "From Marah they came to Elim, where there were twelve springs and seventy palm trees, and they camped there."
-    },
-    {
-      "verse": 10,
-      "text": "They departed from Elim and camped near the Red Sea."
-    },
-    {
-      "verse": 11,
-      "text": "Then they left the Red Sea and camped in the Wilderness of Sin."
-    },
-    {
-      "verse": 12,
-      "text": "They journeyed from the Wilderness of Sin and camped at Dophkah."
-    },
-    {
-      "verse": 13,
-      "text": "They set out from Dophkah and camped at Alush."
-    },
-    {
-      "verse": 14,
-      "text": "They left Alush and camped at Rephidim, where there was no water for the people to drink."
-    },
-    {
-      "verse": 15,
-      "text": "They moved from Rephidim and camped in the Wilderness of Sinai."
-    },
-    {
-      "verse": 16,
-      "text": "They departed from the Wilderness of Sinai and camped at Kibroth Hattaavah."
-    },
-    {
-      "verse": 17,
-      "text": "They left Kibroth Hattaavah and camped at Hazeroth."
-    },
-    {
-      "verse": 18,
-      "text": "They set out from Hazeroth and camped at Rithmah."
-    },
-    {
-      "verse": 19,
-      "text": "They departed from Rithmah and camped at Rimmon Perez."
-    },
-    {
-      "verse": 20,
-      "text": "They journeyed from Rimmon Perez and camped at Libnah."
-    },
-    {
-      "verse": 21,
-      "text": "They left Libnah and camped at Rissah."
-    },
-    {
-      "verse": 22,
-      "text": "They departed from Rissah and camped at Kehelathah."
-    },
-    {
-      "verse": 23,
-      "text": "They left Kehelathah and camped at Mount Shepher."
-    },
-    {
-      "verse": 24,
-      "text": "They moved from Mount Shepher and camped at Haradah."
-    },
-    {
-      "verse": 25,
-      "text": "They set out from Haradah and camped at Makheloth."
-    },
-    {
-      "verse": 26,
-      "text": "They left Makheloth and camped at Tahath."
-    },
-    {
-      "verse": 27,
-      "text": "They journeyed from Tahath and camped at Terah."
-    },
-    {
-      "verse": 28,
-      "text": "They left Terah and camped at Mithkah."
-    },
-    {
-      "verse": 29,
-      "text": "They departed from Mithkah and camped at Hashmonah."
-    },
-    {
-      "verse": 30,
-      "text": "They left Hashmonah and camped at Moseroth."
-    },
-    {
-      "verse": 31,
-      "text": "They moved from Moseroth and camped at Bene Jaakan."
-    },
-    {
-      "verse": 32,
-      "text": "They journeyed from Bene Jaakan and camped at Hor Haggidgad."
-    },
-    {
-      "verse": 33,
-      "text": "They left Hor Haggidgad and camped at Jotbathah."
-    },
-    {
-      "verse": 34,
-      "text": "They departed from Jotbathah and camped at Abronah."
-    },
-    {
-      "verse": 35,
-      "text": "They left Abronah and camped at Ezion Geber."
-    },
-    {
-      "verse": 36,
-      "text": "They moved from Ezion Geber and camped in the Wilderness of Zin, that is, Kadesh."
-    },
-    {
-      "verse": 37,
-      "text": "They left Kadesh and camped at Mount Hor, at the border of Edom."
-    },
-    {
-      "verse": 38,
-      "text": "At the Lord\u2019s command, Aaron the priest went up Mount Hor and died there on the first day of the fifth month of the fortieth year after the Israelites came out of Egypt."
-    },
-    {
-      "verse": 39,
-      "text": "Aaron was 123 years old when he died on Mount Hor."
-    },
-    {
-      "verse": 40,
-      "text": "The Canaanite king of Arad, who lived in the Negev in Canaan, heard that the Israelites were coming."
-    },
-    {
-      "verse": 41,
-      "text": "They left Mount Hor and camped at Zalmonah."
-    },
-    {
-      "verse": 42,
-      "text": "They departed from Zalmonah and camped at Punon."
-    },
-    {
-      "verse": 43,
-      "text": "They set out from Punon and camped at Oboth."
-    },
-    {
-      "verse": 44,
-      "text": "They left Oboth and camped at Iye Abarim, on the border of Moab."
-    },
-    {
-      "verse": 45,
-      "text": "They journeyed from Iye Abarim and camped at Dibon Gad."
-    },
-    {
-      "verse": 46,
-      "text": "They departed from Dibon Gad and camped at Almon Diblathaim."
-    },
-    {
-      "verse": 47,
-      "text": "They left Almon Diblathaim and camped in the mountains of Abarim, near Nebo."
-    },
-    {
-      "verse": 48,
-      "text": "They departed from the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho."
-    },
-    {
-      "verse": 49,
-      "text": "There they camped along the Jordan from Beth Jeshimoth to Abel Shittim."
-    },
-    {
-      "verse": 50,
-      "text": "The Lord spoke to Moses on the plains of Moab by the Jordan across from Jericho:"
-    },
-    {
-      "verse": 51,
-      "text": "\u201cSpeak to the Israelites and say: When you cross the Jordan into the land of Canaan,"
-    },
-    {
-      "verse": 52,
-      "text": "you must drive out all the inhabitants of the land before you. Destroy all their carved images and molten idols, and demolish all their high places."
-    },
-    {
-      "verse": 53,
-      "text": "Take possession of the land and settle in it, for I have given it to you as your inheritance."
-    },
-    {
-      "verse": 54,
-      "text": "Distribute the land by lot according to your clans. Give a larger inheritance to a larger group, and a smaller portion to a smaller group."
-    },
-    {
-      "verse": 55,
-      "text": "But if you do not drive out the inhabitants, those you allow to remain will become thorns in your sides and trouble you in the land where you live."
-    },
-    {
-      "verse": 56,
-      "text": "Then I will do to you what I had planned to do to them.\u201d"
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "These are the journeys of the Israelites who came out of Egypt by their divisions under the leadership of Moses and Aaron."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "At the Lord’s command, Moses recorded the stages of their journey. These are their stages, listed by departure points:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "They set out from Rameses in the first month, on the fifteenth day of the month. The morning after the Passover, the Israelites marched out boldly in the sight of all the Egyptians,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "while the Egyptians were burying all their firstborn, whom the Lord had struck down. The Lord had executed judgment on their gods."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The Israelites left Rameses and camped at Succoth."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "They departed from Succoth and camped at Etham, on the edge of the wilderness."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They moved from Etham and turned back to Pi Hahiroth, east of Baal Zephon, and camped near Migdol."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "They departed from Pi Hahiroth, passed through the midst of the sea into the wilderness, travelled for three days in the Wilderness of Etham, and camped at Marah."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "From Marah they came to Elim, where there were twelve springs and seventy palm trees, and they camped there."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "They departed from Elim and camped near the Red Sea."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Then they left the Red Sea and camped in the Wilderness of Sin."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "They journeyed from the Wilderness of Sin and camped at Dophkah."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "They set out from Dophkah and camped at Alush."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "They left Alush and camped at Rephidim, where there was no water for the people to drink."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "They moved from Rephidim and camped in the Wilderness of Sinai."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "They departed from the Wilderness of Sinai and camped at Kibroth Hattaavah."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "They left Kibroth Hattaavah and camped at Hazeroth."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "They set out from Hazeroth and camped at Rithmah."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "They departed from Rithmah and camped at Rimmon Perez."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "They journeyed from Rimmon Perez and camped at Libnah."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "They left Libnah and camped at Rissah."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "They departed from Rissah and camped at Kehelathah."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "They left Kehelathah and camped at Mount Shepher."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "They moved from Mount Shepher and camped at Haradah."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "They set out from Haradah and camped at Makheloth."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "They left Makheloth and camped at Tahath."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "They journeyed from Tahath and camped at Terah."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "They left Terah and camped at Mithkah."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "They departed from Mithkah and camped at Hashmonah."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "They left Hashmonah and camped at Moseroth."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "They moved from Moseroth and camped at Bene Jaakan."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "They journeyed from Bene Jaakan and camped at Hor Haggidgad."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "They left Hor Haggidgad and camped at Jotbathah."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "They departed from Jotbathah and camped at Abronah."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "They left Abronah and camped at Ezion Geber."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "They moved from Ezion Geber and camped in the Wilderness of Zin, that is, Kadesh."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "They left Kadesh and camped at Mount Hor, at the border of Edom."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "At the Lord’s command, Aaron the priest went up Mount Hor and died there on the first day of the fifth month of the fortieth year after the Israelites came out of Egypt."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Aaron was 123 years old when he died on Mount Hor."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "The Canaanite king of Arad, who lived in the Negev in Canaan, heard that the Israelites were coming."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "They left Mount Hor and camped at Zalmonah."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "They departed from Zalmonah and camped at Punon."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "They set out from Punon and camped at Oboth."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "They left Oboth and camped at Iye Abarim, on the border of Moab."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "They journeyed from Iye Abarim and camped at Dibon Gad."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "They departed from Dibon Gad and camped at Almon Diblathaim."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "They left Almon Diblathaim and camped in the mountains of Abarim, near Nebo."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "They departed from the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "There they camped along the Jordan from Beth Jeshimoth to Abel Shittim."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "The Lord spoke to Moses on the plains of Moab by the Jordan across from Jericho:"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "“Speak to the Israelites and say: When you cross the Jordan into the land of Canaan,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "you must drive out all the inhabitants of the land before you. Destroy all their carved images and molten idols, and demolish all their high places."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Take possession of the land and settle in it, for I have given it to you as your inheritance."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Distribute the land by lot according to your clans. Give a larger inheritance to a larger group, and a smaller portion to a smaller group."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "But if you do not drive out the inhabitants, those you allow to remain will become thorns in your sides and trouble you in the land where you live."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Then I will do to you what I had planned to do to them.”"
+            ]
+        }
+    ]
 }

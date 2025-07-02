@@ -1,182 +1,270 @@
 {
-  "book": "Numbers",
-  "chapter": 4,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses and Aaron:"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cTake a census of the Kohathite branch of the Levites by their clans and families."
-    },
-    {
-      "verse": 3,
-      "text": "Count all men from thirty to fifty years old who are able to serve in the tent of meeting."
-    },
-    {
-      "verse": 4,
-      "text": "This is the work of the Kohathites in caring for the most holy things:"
-    },
-    {
-      "verse": 5,
-      "text": "When the camp is to move, Aaron and his sons are to go in and take down the shielding curtain and cover the ark of the covenant."
-    },
-    {
-      "verse": 6,
-      "text": "Then they are to cover it with hides and spread a cloth over it, and insert its poles."
-    },
-    {
-      "verse": 7,
-      "text": "They are to spread a blue cloth over the table of the Presence and put the plates, dishes, and bowls on it."
-    },
-    {
-      "verse": 8,
-      "text": "They are to spread a scarlet cloth over them and cover it all with durable leather."
-    },
-    {
-      "verse": 9,
-      "text": "They are to take a blue cloth and cover the lampstand and all its accessories."
-    },
-    {
-      "verse": 10,
-      "text": "They are to place everything on a carrying frame."
-    },
-    {
-      "verse": 11,
-      "text": "Over the gold altar they are to spread a blue cloth and cover it."
-    },
-    {
-      "verse": 12,
-      "text": "They are to take all the utensils and put them in a blue cloth, covering them with leather."
-    },
-    {
-      "verse": 13,
-      "text": "They are to remove the ashes from the bronze altar and spread a purple cloth over it."
-    },
-    {
-      "verse": 14,
-      "text": "Then they are to arrange all its utensils and spread a covering of leather and insert its poles."
-    },
-    {
-      "verse": 15,
-      "text": "After Aaron and his sons finish covering the holy furnishings, the Kohathites are to come and carry them, but they must not touch the holy things or they will die."
-    },
-    {
-      "verse": 16,
-      "text": "Eleazar son of Aaron is to be in charge of the oil, incense, and offerings."
-    },
-    {
-      "verse": 17,
-      "text": "The Lord said to Moses and Aaron:"
-    },
-    {
-      "verse": 18,
-      "text": "\u201cDo not let the Kohathite clans be destroyed from among the Levites."
-    },
-    {
-      "verse": 19,
-      "text": "This is how they are to enter and not die: Aaron and his sons must go in and assign each man his task."
-    },
-    {
-      "verse": 20,
-      "text": "But the Kohathites must not go in to look at the holy things, even for a moment, or they will die."
-    },
-    {
-      "verse": 21,
-      "text": "The Lord said to Moses:"
-    },
-    {
-      "verse": 22,
-      "text": "\u201cTake a census of the Gershonites by their clans and families."
-    },
-    {
-      "verse": 23,
-      "text": "Count all the men from thirty to fifty years old who can serve."
-    },
-    {
-      "verse": 24,
-      "text": "This is their service: to carry the curtains, coverings, and ropes."
-    },
-    {
-      "verse": 25,
-      "text": "They are to do all that needs to be done with these items."
-    },
-    {
-      "verse": 26,
-      "text": "They are to carry the curtains and equipment used in the tent of meeting."
-    },
-    {
-      "verse": 27,
-      "text": "Aaron and his sons shall assign them their tasks."
-    },
-    {
-      "verse": 28,
-      "text": "This is the service of the Gershonite clans."
-    },
-    {
-      "verse": 29,
-      "text": "Count the Merarites by their clans."
-    },
-    {
-      "verse": 30,
-      "text": "Count all men from thirty to fifty years old."
-    },
-    {
-      "verse": 31,
-      "text": "Their service is to carry the frames, crossbars, posts, bases, tent pegs and ropes."
-    },
-    {
-      "verse": 32,
-      "text": "Assign to each man what he is to carry."
-    },
-    {
-      "verse": 33,
-      "text": "This is the service of the Merarite clans under the direction of Ithamar son of Aaron."
-    },
-    {
-      "verse": 34,
-      "text": "So Moses, Aaron, and the leaders counted the Kohathites."
-    },
-    {
-      "verse": 35,
-      "text": "Those aged thirty to fifty who came to serve were 2,750."
-    },
-    {
-      "verse": 36,
-      "text": "This was the total of those in the Kohathite clans."
-    },
-    {
-      "verse": 37,
-      "text": "They were counted just as the Lord commanded through Moses."
-    },
-    {
-      "verse": 38,
-      "text": "The Gershonites counted were 2,630."
-    },
-    {
-      "verse": 39,
-      "text": "They were counted just as the Lord commanded."
-    },
-    {
-      "verse": 40,
-      "text": "The Merarites counted were 3,200."
-    },
-    {
-      "verse": 41,
-      "text": "This was the total of those assigned to the service of the tent."
-    },
-    {
-      "verse": 42,
-      "text": "Moses and Aaron counted them as the Lord commanded."
-    },
-    {
-      "verse": 43,
-      "text": "The total number of Levites counted was 8,580."
-    },
-    {
-      "verse": 44,
-      "text": "Each was assigned his duty and task as the Lord commanded through Moses."
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 4,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses and Aaron:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Take a census of the Kohathite branch of the Levites by their clans and families."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Count all men from thirty to fifty years old who are able to serve in the tent of meeting."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "This is the work of the Kohathites in caring for the most holy things:"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "When the camp is to move, Aaron and his sons are to go in and take down the shielding curtain and cover the ark of the covenant."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then they are to cover it with hides and spread a cloth over it, and insert its poles."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They are to spread a blue cloth over the table of the Presence and put the plates, dishes, and bowls on it."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "They are to spread a scarlet cloth over them and cover it all with durable leather."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "They are to take a blue cloth and cover the lampstand and all its accessories."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "They are to place everything on a carrying frame."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Over the gold altar they are to spread a blue cloth and cover it."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "They are to take all the utensils and put them in a blue cloth, covering them with leather."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "They are to remove the ashes from the bronze altar and spread a purple cloth over it."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Then they are to arrange all its utensils and spread a covering of leather and insert its poles."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "After Aaron and his sons finish covering the holy furnishings, the Kohathites are to come and carry them, but they must not touch the holy things or they will die."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Eleazar son of Aaron is to be in charge of the oil, incense, and offerings."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "The Lord said to Moses and Aaron:"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "“Do not let the Kohathite clans be destroyed from among the Levites."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "This is how they are to enter and not die: Aaron and his sons must go in and assign each man his task."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "But the Kohathites must not go in to look at the holy things, even for a moment, or they will die."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "The Lord said to Moses:"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "“Take a census of the Gershonites by their clans and families."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Count all the men from thirty to fifty years old who can serve."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "This is their service: to carry the curtains, coverings, and ropes."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "They are to do all that needs to be done with these items."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "They are to carry the curtains and equipment used in the tent of meeting."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Aaron and his sons shall assign them their tasks."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "This is the service of the Gershonite clans."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Count the Merarites by their clans."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Count all men from thirty to fifty years old."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Their service is to carry the frames, crossbars, posts, bases, tent pegs and ropes."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Assign to each man what he is to carry."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "This is the service of the Merarite clans under the direction of Ithamar son of Aaron."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "So Moses, Aaron, and the leaders counted the Kohathites."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Those aged thirty to fifty who came to serve were 2,750."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "This was the total of those in the Kohathite clans."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "They were counted just as the Lord commanded through Moses."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "The Gershonites counted were 2,630."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "They were counted just as the Lord commanded."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "The Merarites counted were 3,200."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "This was the total of those assigned to the service of the tent."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Moses and Aaron counted them as the Lord commanded."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "The total number of Levites counted was 8,580."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Each was assigned his duty and task as the Lord commanded through Moses."
+            ]
+        }
+    ]
 }

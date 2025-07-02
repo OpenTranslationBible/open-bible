@@ -1,98 +1,144 @@
 {
-  "book": "Exodus",
-  "chapter": 5,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Afterward Moses and Aaron went to Pharaoh and said, \u201cThis is what the Lord, the God of Israel, says: Let My people go, so that they may hold a festival to Me in the wilderness.\u201d"
-    },
-    {
-      "verse": 2,
-      "text": "But Pharaoh said, \u201cWho is the Lord, that I should obey His voice and let Israel go? I do not know the Lord, and I will not let Israel go.\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "Then they said, \u201cThe God of the Hebrews has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God, or He may strike us with plague or sword.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "But the king of Egypt replied, \u201cMoses and Aaron, why are you taking the people away from their labour? Get back to your work!\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "Pharaoh also said, \u201cLook, the people of the land are now numerous, and you are stopping them from their work.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "That same day Pharaoh gave this order to the slave drivers and overseers in charge of the people:"
-    },
-    {
-      "verse": 7,
-      "text": "\u201cYou are no longer to provide straw for the people to make bricks, as you used to. Let them go and gather straw for themselves."
-    },
-    {
-      "verse": 8,
-      "text": "But require them to make the same number of bricks as before; do not reduce the quota. They are lazy; that is why they cry, \u2018Let us go and sacrifice to our God.\u2019"
-    },
-    {
-      "verse": 9,
-      "text": "Make the work harder for the men so they keep working and pay no attention to deceptive words.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "So the slave drivers and overseers went out and told the people, \u201cThis is what Pharaoh says: I will not give you any more straw."
-    },
-    {
-      "verse": 11,
-      "text": "Go and gather your own straw wherever you can find it, but your workload will not be reduced.\u201d"
-    },
-    {
-      "verse": 12,
-      "text": "So the people scattered throughout Egypt to gather stubble to use as straw."
-    },
-    {
-      "verse": 13,
-      "text": "The slave drivers kept pressing them, saying, \u201cComplete your work every day, just as when you had straw.\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "Pharaoh\u2019s slave drivers beat the Israelite foremen they had appointed, demanding, \u201cWhy haven\u2019t you met your quota of bricks yesterday or today, as before?\u201d"
-    },
-    {
-      "verse": 15,
-      "text": "Then the Israelite foremen went and appealed to Pharaoh: \u201cWhy have you treated your servants this way?"
-    },
-    {
-      "verse": 16,
-      "text": "No straw is given to your servants, yet we are told, \u2018Make bricks!\u2019 Your servants are being beaten, but the fault lies with your own people.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "But Pharaoh said, \u201cLazy! You are lazy! That\u2019s why you say, \u2018Let us go and sacrifice to the Lord.\u2019"
-    },
-    {
-      "verse": 18,
-      "text": "Now get to work. You will not be given any straw, yet you must produce your full quota of bricks.\u201d"
-    },
-    {
-      "verse": 19,
-      "text": "The Israelite foremen realised they were in trouble when they were told, \u201cYou must not reduce the daily number of bricks.\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "When they left Pharaoh, they found Moses and Aaron waiting to meet them,"
-    },
-    {
-      "verse": 21,
-      "text": "and they said, \u201cMay the Lord look on you and judge you! You have made us repulsive to Pharaoh and his officials and put a sword in their hand to kill us.\u201d"
-    },
-    {
-      "verse": 22,
-      "text": "Then Moses returned to the Lord and said, \u201cLord, why have You brought trouble on this people? Why did You send me?"
-    },
-    {
-      "verse": 23,
-      "text": "Ever since I went to Pharaoh to speak in Your name, he has brought more harm upon this people, and You have not delivered Your people at all.\u201d"
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 5,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of Israel, says: Let My people go, so that they may hold a festival to Me in the wilderness.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "But Pharaoh said, “Who is the Lord, that I should obey His voice and let Israel go? I do not know the Lord, and I will not let Israel go.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then they said, “The God of the Hebrews has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God, or He may strike us with plague or sword.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But the king of Egypt replied, “Moses and Aaron, why are you taking the people away from their labour? Get back to your work!”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Pharaoh also said, “Look, the people of the land are now numerous, and you are stopping them from their work.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "That same day Pharaoh gave this order to the slave drivers and overseers in charge of the people:"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "“You are no longer to provide straw for the people to make bricks, as you used to. Let them go and gather straw for themselves."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "But require them to make the same number of bricks as before; do not reduce the quota. They are lazy; that is why they cry, ‘Let us go and sacrifice to our God.’"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Make the work harder for the men so they keep working and pay no attention to deceptive words.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "So the slave drivers and overseers went out and told the people, “This is what Pharaoh says: I will not give you any more straw."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Go and gather your own straw wherever you can find it, but your workload will not be reduced.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "So the people scattered throughout Egypt to gather stubble to use as straw."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "The slave drivers kept pressing them, saying, “Complete your work every day, just as when you had straw.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Pharaoh’s slave drivers beat the Israelite foremen they had appointed, demanding, “Why haven’t you met your quota of bricks yesterday or today, as before?”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Then the Israelite foremen went and appealed to Pharaoh: “Why have you treated your servants this way?"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "No straw is given to your servants, yet we are told, ‘Make bricks!’ Your servants are being beaten, but the fault lies with your own people.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "But Pharaoh said, “Lazy! You are lazy! That’s why you say, ‘Let us go and sacrifice to the Lord.’"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Now get to work. You will not be given any straw, yet you must produce your full quota of bricks.”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The Israelite foremen realised they were in trouble when they were told, “You must not reduce the daily number of bricks.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "When they left Pharaoh, they found Moses and Aaron waiting to meet them,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "and they said, “May the Lord look on you and judge you! You have made us repulsive to Pharaoh and his officials and put a sword in their hand to kill us.”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Then Moses returned to the Lord and said, “Lord, why have You brought trouble on this people? Why did You send me?"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ever since I went to Pharaoh to speak in Your name, he has brought more harm upon this people, and You have not delivered Your people at all.”"
+            ]
+        }
+    ]
 }

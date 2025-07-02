@@ -1,94 +1,138 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 16,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Observe the month of Abib and celebrate the Passover to the Lord your God, because in that month He brought you out of Egypt by night."
-    },
-    {
-      "verse": 2,
-      "text": "Sacrifice as the Passover to the Lord your God an animal from your flock or herd, in the place where the Lord chooses to establish His name."
-    },
-    {
-      "verse": 3,
-      "text": "Do not eat it with anything leavened. For seven days eat unleavened bread, the bread of hardship\u2014because you came out of Egypt in haste\u2014so that you may remember the day you left Egypt for the rest of your life."
-    },
-    {
-      "verse": 4,
-      "text": "No yeast must be found in your land for seven days, and none of the meat from the evening sacrifice may be left over until morning."
-    },
-    {
-      "verse": 5,
-      "text": "You must not sacrifice the Passover in any town the Lord your God is giving you,"
-    },
-    {
-      "verse": 6,
-      "text": "but only at the place the Lord your God will choose as a dwelling for His name. There you must sacrifice the Passover in the evening, at sunset, the time you came out of Egypt."
-    },
-    {
-      "verse": 7,
-      "text": "Cook it and eat it in the place the Lord your God chooses. Then in the morning, return to your tents."
-    },
-    {
-      "verse": 8,
-      "text": "For six days eat unleavened bread, and on the seventh day hold a sacred assembly to the Lord your God; do not do any work."
-    },
-    {
-      "verse": 9,
-      "text": "Count off seven weeks from the time you begin to put the sickle to the standing grain."
-    },
-    {
-      "verse": 10,
-      "text": "Then celebrate the Festival of Weeks to the Lord your God with a freewill offering in proportion to the blessings the Lord your God has given you."
-    },
-    {
-      "verse": 11,
-      "text": "Rejoice before the Lord your God\u2014you, your children, your male and female servants, the Levites in your towns, the foreigners, the fatherless, and the widows among you\u2014at the place the Lord your God will choose."
-    },
-    {
-      "verse": 12,
-      "text": "Remember that you were slaves in Egypt, and be careful to follow these statutes."
-    },
-    {
-      "verse": 13,
-      "text": "Celebrate the Festival of Tabernacles for seven days after you have gathered the produce of your threshing floor and winepress."
-    },
-    {
-      "verse": 14,
-      "text": "Rejoice at your festival\u2014you, your children, your servants, and the Levites, foreigners, the fatherless, and the widows living in your towns."
-    },
-    {
-      "verse": 15,
-      "text": "For seven days celebrate the festival to the Lord your God at the place He will choose. The Lord will bless you in all your harvest and in all the work of your hands, and your joy will be complete."
-    },
-    {
-      "verse": 16,
-      "text": "Three times a year all your men must appear before the Lord your God at the place He will choose: at the Festival of Unleavened Bread, the Festival of Weeks, and the Festival of Tabernacles. No one shall appear before the Lord empty-handed."
-    },
-    {
-      "verse": 17,
-      "text": "Each of you must bring a gift in proportion to the way the Lord your God has blessed you."
-    },
-    {
-      "verse": 18,
-      "text": "Appoint judges and officials for each of your tribes in every town the Lord your God is giving you, and they shall judge the people fairly."
-    },
-    {
-      "verse": 19,
-      "text": "Do not pervert justice or show partiality. Do not accept a bribe, for bribes blind the eyes of the wise and twist the words of the righteous."
-    },
-    {
-      "verse": 20,
-      "text": "Pursue justice and only justice, so that you may live and possess the land the Lord your God is giving you."
-    },
-    {
-      "verse": 21,
-      "text": "Do not set up any wooden Asherah pole beside the altar you build for the Lord your God,"
-    },
-    {
-      "verse": 22,
-      "text": "and do not erect a sacred stone, for these things the Lord your God hates."
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 16,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Observe the month of Abib and celebrate the Passover to the Lord your God, because in that month He brought you out of Egypt by night."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Sacrifice as the Passover to the Lord your God an animal from your flock or herd, in the place where the Lord chooses to establish His name."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Do not eat it with anything leavened. For seven days eat unleavened bread, the bread of hardship—because you came out of Egypt in haste—so that you may remember the day you left Egypt for the rest of your life."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "No yeast must be found in your land for seven days, and none of the meat from the evening sacrifice may be left over until morning."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "You must not sacrifice the Passover in any town the Lord your God is giving you,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "but only at the place the Lord your God will choose as a dwelling for His name. There you must sacrifice the Passover in the evening, at sunset, the time you came out of Egypt."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Cook it and eat it in the place the Lord your God chooses. Then in the morning, return to your tents."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "For six days eat unleavened bread, and on the seventh day hold a sacred assembly to the Lord your God; do not do any work."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Count off seven weeks from the time you begin to put the sickle to the standing grain."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Then celebrate the Festival of Weeks to the Lord your God with a freewill offering in proportion to the blessings the Lord your God has given you."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Rejoice before the Lord your God—you, your children, your male and female servants, the Levites in your towns, the foreigners, the fatherless, and the widows among you—at the place the Lord your God will choose."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Remember that you were slaves in Egypt, and be careful to follow these statutes."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Celebrate the Festival of Tabernacles for seven days after you have gathered the produce of your threshing floor and winepress."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Rejoice at your festival—you, your children, your servants, and the Levites, foreigners, the fatherless, and the widows living in your towns."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "For seven days celebrate the festival to the Lord your God at the place He will choose. The Lord will bless you in all your harvest and in all the work of your hands, and your joy will be complete."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Three times a year all your men must appear before the Lord your God at the place He will choose: at the Festival of Unleavened Bread, the Festival of Weeks, and the Festival of Tabernacles. No one shall appear before the Lord empty-handed."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Each of you must bring a gift in proportion to the way the Lord your God has blessed you."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Appoint judges and officials for each of your tribes in every town the Lord your God is giving you, and they shall judge the people fairly."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Do not pervert justice or show partiality. Do not accept a bribe, for bribes blind the eyes of the wise and twist the words of the righteous."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Pursue justice and only justice, so that you may live and possess the land the Lord your God is giving you."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Do not set up any wooden Asherah pole beside the altar you build for the Lord your God,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "and do not erect a sacred stone, for these things the Lord your God hates."
+            ]
+        }
+    ]
 }

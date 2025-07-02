@@ -1,142 +1,210 @@
 {
-  "book": "Numbers",
-  "chapter": 35,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "On the plains of Moab by the Jordan across from Jericho, the Lord spoke to Moses, saying:"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cCommand the Israelites to give the Levites towns to live in from among the inheritance they possess. Also give the Levites surrounding pastureland for their livestock."
-    },
-    {
-      "verse": 3,
-      "text": "These towns will be theirs to live in, and the surrounding fields are for their animals."
-    },
-    {
-      "verse": 4,
-      "text": "The pastureland around the towns shall extend a thousand cubits from the town wall in all directions."
-    },
-    {
-      "verse": 5,
-      "text": "Measure two thousand cubits outside the town on each side\u2014east, south, west, and north\u2014with the town in the center. This will be their grazing area."
-    },
-    {
-      "verse": 6,
-      "text": "Among the towns you give the Levites, six are to be designated as cities of refuge, where someone who kills another unintentionally may flee. In addition, give them forty-two more towns."
-    },
-    {
-      "verse": 7,
-      "text": "In total, you are to give the Levites forty-eight towns, along with their surrounding pasturelands."
-    },
-    {
-      "verse": 8,
-      "text": "The towns are to be taken from the larger tribes in greater number, and fewer from the smaller tribes, according to the inheritance each tribe receives."
-    },
-    {
-      "verse": 9,
-      "text": "Then the Lord said to Moses:"
-    },
-    {
-      "verse": 10,
-      "text": "\u201cSpeak to the Israelites and say: When you cross the Jordan into Canaan,"
-    },
-    {
-      "verse": 11,
-      "text": "select some towns to serve as cities of refuge, to which anyone who kills a person accidentally may flee."
-    },
-    {
-      "verse": 12,
-      "text": "They will serve as places of safety from the avenger of blood, so that the killer may not die before standing trial before the assembly."
-    },
-    {
-      "verse": 13,
-      "text": "You must designate six cities of refuge."
-    },
-    {
-      "verse": 14,
-      "text": "Three must be located on the east side of the Jordan and three in Canaan proper."
-    },
-    {
-      "verse": 15,
-      "text": "These six cities are for Israelites, foreigners, and temporary residents alike. Anyone who kills another unintentionally may flee there."
-    },
-    {
-      "verse": 16,
-      "text": "But if someone strikes another with an iron object so that the person dies, they are a murderer. The murderer must be put to death."
-    },
-    {
-      "verse": 17,
-      "text": "If they strike another with a stone capable of causing death, and the person dies, they are guilty."
-    },
-    {
-      "verse": 18,
-      "text": "If they strike with a wooden object that could kill, and the victim dies, the assailant is a murderer and must be executed."
-    },
-    {
-      "verse": 19,
-      "text": "The avenger of blood shall put the murderer to death upon encountering them."
-    },
-    {
-      "verse": 20,
-      "text": "If someone pushes another out of hatred or throws something at them with malicious intent, and the victim dies,"
-    },
-    {
-      "verse": 21,
-      "text": "or if they strike them with a hostile hand and the person dies, it is murder. The killer must be executed by the avenger of blood."
-    },
-    {
-      "verse": 22,
-      "text": "But if someone pushes another accidentally, without hostility, or throws something unintentionally,"
-    },
-    {
-      "verse": 23,
-      "text": "or drops a stone without seeing the person, and the person dies though not an enemy nor intended target,"
-    },
-    {
-      "verse": 24,
-      "text": "then the assembly must judge between the killer and the avenger of blood based on these laws."
-    },
-    {
-      "verse": 25,
-      "text": "If the assembly determines it was unintentional, they must protect the killer and send them back to the city of refuge."
-    },
-    {
-      "verse": 26,
-      "text": "If the killer ever leaves the city of refuge before the death of the high priest,"
-    },
-    {
-      "verse": 27,
-      "text": "and the avenger of blood finds and kills them outside the city, the avenger is not guilty."
-    },
-    {
-      "verse": 28,
-      "text": "The killer must stay in the city of refuge until the high priest dies; only then may they return home."
-    },
-    {
-      "verse": 29,
-      "text": "These are legal requirements for all generations to come."
-    },
-    {
-      "verse": 30,
-      "text": "Anyone convicted of murder must be executed based on the testimony of witnesses. No one is to be executed on the testimony of a single witness."
-    },
-    {
-      "verse": 31,
-      "text": "You must not accept a ransom for the life of a murderer condemned to die\u2014they must be put to death."
-    },
-    {
-      "verse": 32,
-      "text": "Do not accept payment to allow someone to flee a city of refuge and return home before the death of the high priest."
-    },
-    {
-      "verse": 33,
-      "text": "Do not defile the land where you are. Bloodshed defiles the land, and no atonement can be made for it except by the blood of the one who shed it."
-    },
-    {
-      "verse": 34,
-      "text": "Do not pollute the land where you dwell, for I, the Lord, dwell among the Israelites."
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 35,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "On the plains of Moab by the Jordan across from Jericho, the Lord spoke to Moses, saying:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Command the Israelites to give the Levites towns to live in from among the inheritance they possess. Also give the Levites surrounding pastureland for their livestock."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "These towns will be theirs to live in, and the surrounding fields are for their animals."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "The pastureland around the towns shall extend a thousand cubits from the town wall in all directions."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Measure two thousand cubits outside the town on each side—east, south, west, and north—with the town in the center. This will be their grazing area."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Among the towns you give the Levites, six are to be designated as cities of refuge, where someone who kills another unintentionally may flee. In addition, give them forty-two more towns."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "In total, you are to give the Levites forty-eight towns, along with their surrounding pasturelands."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The towns are to be taken from the larger tribes in greater number, and fewer from the smaller tribes, according to the inheritance each tribe receives."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then the Lord said to Moses:"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "“Speak to the Israelites and say: When you cross the Jordan into Canaan,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "select some towns to serve as cities of refuge, to which anyone who kills a person accidentally may flee."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "They will serve as places of safety from the avenger of blood, so that the killer may not die before standing trial before the assembly."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "You must designate six cities of refuge."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Three must be located on the east side of the Jordan and three in Canaan proper."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "These six cities are for Israelites, foreigners, and temporary residents alike. Anyone who kills another unintentionally may flee there."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "But if someone strikes another with an iron object so that the person dies, they are a murderer. The murderer must be put to death."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "If they strike another with a stone capable of causing death, and the person dies, they are guilty."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "If they strike with a wooden object that could kill, and the victim dies, the assailant is a murderer and must be executed."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The avenger of blood shall put the murderer to death upon encountering them."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "If someone pushes another out of hatred or throws something at them with malicious intent, and the victim dies,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "or if they strike them with a hostile hand and the person dies, it is murder. The killer must be executed by the avenger of blood."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "But if someone pushes another accidentally, without hostility, or throws something unintentionally,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "or drops a stone without seeing the person, and the person dies though not an enemy nor intended target,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "then the assembly must judge between the killer and the avenger of blood based on these laws."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "If the assembly determines it was unintentional, they must protect the killer and send them back to the city of refuge."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "If the killer ever leaves the city of refuge before the death of the high priest,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "and the avenger of blood finds and kills them outside the city, the avenger is not guilty."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "The killer must stay in the city of refuge until the high priest dies; only then may they return home."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "These are legal requirements for all generations to come."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Anyone convicted of murder must be executed based on the testimony of witnesses. No one is to be executed on the testimony of a single witness."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "You must not accept a ransom for the life of a murderer condemned to die—they must be put to death."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Do not accept payment to allow someone to flee a city of refuge and return home before the death of the high priest."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Do not defile the land where you are. Bloodshed defiles the land, and no atonement can be made for it except by the blood of the one who shed it."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Do not pollute the land where you dwell, for I, the Lord, dwell among the Israelites."
+            ]
+        }
+    ]
 }

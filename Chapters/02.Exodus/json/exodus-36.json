@@ -1,158 +1,234 @@
 {
-  "book": "Exodus",
-  "chapter": 36,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Bezalel, Oholiab, and every skilled person to whom the Lord had given ability were to carry out the work of building the sanctuary, doing everything the Lord had commanded."
-    },
-    {
-      "verse": 2,
-      "text": "Moses summoned Bezalel and Oholiab and every skilled person whose heart was moved to come and do the work."
-    },
-    {
-      "verse": 3,
-      "text": "They received from Moses all the contributions the Israelites had brought. The people kept bringing more gifts morning after morning."
-    },
-    {
-      "verse": 4,
-      "text": "So all the skilled workers left the work they were doing"
-    },
-    {
-      "verse": 5,
-      "text": "and said to Moses, \u201cThe people are bringing more than enough for the work the Lord commanded us to do.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "Then Moses sent out an order through the camp: \u201cNo man or woman is to bring anything else for the offering for the sanctuary.\u201d So the people were restrained from bringing more."
-    },
-    {
-      "verse": 7,
-      "text": "Because what had already been given was more than enough to do all the work."
-    },
-    {
-      "verse": 8,
-      "text": "All the skilled workers among the people made the tabernacle out of ten curtains of finely twisted linen, with blue, purple, and scarlet yarn, embroidered with cherubim."
-    },
-    {
-      "verse": 9,
-      "text": "Each curtain was the same size: twenty-eight cubits long and four cubits wide."
-    },
-    {
-      "verse": 10,
-      "text": "They joined five curtains together into one set, and the other five into another."
-    },
-    {
-      "verse": 11,
-      "text": "They made loops of blue fabric on the edge of the end curtain of each set."
-    },
-    {
-      "verse": 12,
-      "text": "There were fifty loops on one curtain and fifty loops on the corresponding curtain of the other set."
-    },
-    {
-      "verse": 13,
-      "text": "They made fifty gold clasps and joined the two sets of curtains together, so the tabernacle became one."
-    },
-    {
-      "verse": 14,
-      "text": "They made eleven curtains of goat hair to cover the tabernacle as a tent."
-    },
-    {
-      "verse": 15,
-      "text": "Each curtain was thirty cubits long and four cubits wide."
-    },
-    {
-      "verse": 16,
-      "text": "They joined five of the curtains into one set and six into another."
-    },
-    {
-      "verse": 17,
-      "text": "They made fifty loops along the edge of the end curtain in each set."
-    },
-    {
-      "verse": 18,
-      "text": "Then they made fifty bronze clasps to join the tent together."
-    },
-    {
-      "verse": 19,
-      "text": "They made a covering for the tent from ram skins dyed red, and an outer covering of durable leather."
-    },
-    {
-      "verse": 20,
-      "text": "They made upright frames of acacia wood for the tabernacle."
-    },
-    {
-      "verse": 21,
-      "text": "Each frame was ten cubits high and one and a half cubits wide."
-    },
-    {
-      "verse": 22,
-      "text": "Each frame had two tenons, joined to each other."
-    },
-    {
-      "verse": 23,
-      "text": "They made twenty frames for the south side of the tabernacle"
-    },
-    {
-      "verse": 24,
-      "text": "with forty silver bases to go under them\u2014two bases for each frame."
-    },
-    {
-      "verse": 25,
-      "text": "For the north side, they made twenty frames"
-    },
-    {
-      "verse": 26,
-      "text": "with forty silver bases\u2014two under each frame."
-    },
-    {
-      "verse": 27,
-      "text": "For the west end, they made six frames"
-    },
-    {
-      "verse": 28,
-      "text": "and two frames for the corners at the rear of the tabernacle."
-    },
-    {
-      "verse": 29,
-      "text": "These corner frames were joined at both the bottom and top by a single ring."
-    },
-    {
-      "verse": 30,
-      "text": "So there were eight frames and sixteen silver bases\u2014two under each frame."
-    },
-    {
-      "verse": 31,
-      "text": "They made crossbars of acacia wood: five for the frames on one side,"
-    },
-    {
-      "verse": 32,
-      "text": "five for the frames on the other side, and five for the west end."
-    },
-    {
-      "verse": 33,
-      "text": "They made the centre crossbar run from end to end halfway up the frames."
-    },
-    {
-      "verse": 34,
-      "text": "They overlaid the frames with gold and made gold rings to hold the crossbars. The crossbars were also overlaid with gold."
-    },
-    {
-      "verse": 35,
-      "text": "They made the curtain of blue, purple, and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker."
-    },
-    {
-      "verse": 36,
-      "text": "They made four posts of acacia wood and overlaid them with gold. Their hooks were gold, and they cast four silver bases for them."
-    },
-    {
-      "verse": 37,
-      "text": "For the entrance to the tent, they made a curtain of blue, purple, and scarlet yarn and finely twisted linen\u2014the work of an embroiderer."
-    },
-    {
-      "verse": 38,
-      "text": "They made five posts with hooks for it. They overlaid the tops and bands with gold and made five bronze bases."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 36,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Bezalel, Oholiab, and every skilled person to whom the Lord had given ability were to carry out the work of building the sanctuary, doing everything the Lord had commanded."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Moses summoned Bezalel and Oholiab and every skilled person whose heart was moved to come and do the work."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "They received from Moses all the contributions the Israelites had brought. The people kept bringing more gifts morning after morning."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "So all the skilled workers left the work they were doing"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "and said to Moses, “The people are bringing more than enough for the work the Lord commanded us to do.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then Moses sent out an order through the camp: “No man or woman is to bring anything else for the offering for the sanctuary.” So the people were restrained from bringing more."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Because what had already been given was more than enough to do all the work."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "All the skilled workers among the people made the tabernacle out of ten curtains of finely twisted linen, with blue, purple, and scarlet yarn, embroidered with cherubim."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Each curtain was the same size: twenty-eight cubits long and four cubits wide."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "They joined five curtains together into one set, and the other five into another."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "They made loops of blue fabric on the edge of the end curtain of each set."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "There were fifty loops on one curtain and fifty loops on the corresponding curtain of the other set."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "They made fifty gold clasps and joined the two sets of curtains together, so the tabernacle became one."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "They made eleven curtains of goat hair to cover the tabernacle as a tent."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Each curtain was thirty cubits long and four cubits wide."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "They joined five of the curtains into one set and six into another."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "They made fifty loops along the edge of the end curtain in each set."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Then they made fifty bronze clasps to join the tent together."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "They made a covering for the tent from ram skins dyed red, and an outer covering of durable leather."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "They made upright frames of acacia wood for the tabernacle."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Each frame was ten cubits high and one and a half cubits wide."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Each frame had two tenons, joined to each other."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "They made twenty frames for the south side of the tabernacle"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "with forty silver bases to go under them—two bases for each frame."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "For the north side, they made twenty frames"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "with forty silver bases—two under each frame."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "For the west end, they made six frames"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "and two frames for the corners at the rear of the tabernacle."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "These corner frames were joined at both the bottom and top by a single ring."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "So there were eight frames and sixteen silver bases—two under each frame."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "They made crossbars of acacia wood: five for the frames on one side,"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "five for the frames on the other side, and five for the west end."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "They made the centre crossbar run from end to end halfway up the frames."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "They overlaid the frames with gold and made gold rings to hold the crossbars. The crossbars were also overlaid with gold."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "They made the curtain of blue, purple, and scarlet yarn and finely twisted linen, with cherubim woven into it by a skilled worker."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "They made four posts of acacia wood and overlaid them with gold. Their hooks were gold, and they cast four silver bases for them."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "For the entrance to the tent, they made a curtain of blue, purple, and scarlet yarn and finely twisted linen—the work of an embroiderer."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "They made five posts with hooks for it. They overlaid the tops and bands with gold and made five bronze bases."
+            ]
+        }
+    ]
 }

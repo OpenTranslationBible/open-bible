@@ -2,31 +2,155 @@
     "book": "Judges",
     "chapter": 7,
     "verses": [
-      { "verse": 1, "text": "Early in the morning, Jerub-Baal (that is, Gideon) and all his men camped at the spring of Harod. The camp of Midian was north of them in the valley near the hill of Moreh." },
-      { "verse": 2, "text": "The Lord said to Gideon, “You have too many men. I cannot deliver Midian into their hands, or Israel would boast against Me, saying, ‘My own strength has saved me.’”" },
-      { "verse": 3, "text": "Now announce to the army, ‘Anyone who trembles with fear may turn back and leave Mount Gilead.’” So twenty-two thousand men left, while ten thousand remained." },
-      { "verse": 4, "text": "But the Lord said to Gideon, “There are still too many men. Take them down to the water, and I will thin them out for you there.” If I say, ‘This one shall go with you,’ he shall go; but if I say, ‘This one shall not go with you,’ he shall not go.”" },
-      { "verse": 5, "text": "So Gideon took the men down to the water. There the Lord told him, “Separate those who lap the water with their tongues as a dog laps from those who kneel down to drink.”" },
-      { "verse": 6, "text": "Three hundred of them drank from cupped hands, lapping like dogs. All the rest got down on their knees to drink." },
-      { "verse": 7, "text": "The Lord said to Gideon, “With the three hundred men that lapped I will save you and give the Midianites into your hands. Let all the others go home.”" },
-      { "verse": 8, "text": "So Gideon sent the rest of the Israelites home but kept the three hundred, who took over the provisions and trumpets of the others. Now the camp of Midian lay below him in the valley." },
-      { "verse": 9, "text": "During that night the Lord said to Gideon, “Get up, go down against the camp, because I am going to give it into your hands." },
-      { "verse": 10, "text": "If you are afraid to attack, go down to the camp with your servant Purah" },
-      { "verse": 11, "text": "and listen to what they are saying. Afterward, you will be encouraged to attack the camp.” So he and Purah went down to the outposts of the camp." },
-      { "verse": 12, "text": "The Midianites, the Amalekites and all the other eastern peoples had settled in the valley, thick as locusts. Their camels could no more be counted than the sand on the seashore." },
-      { "verse": 13, "text": "Gideon arrived just as a man was telling a friend his dream. “I had a dream,” he said. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”" },
-      { "verse": 14, "text": "His friend responded, “This can be nothing other than the sword of Gideon son of Joash, the Israelite. God has given the Midianites and the whole camp into his hands.”" },
-      { "verse": 15, "text": "When Gideon heard the dream and its interpretation, he bowed down and worshipped. He returned to the camp of Israel and called out, “Get up! The Lord has given the Midianite camp into your hands.”" },
-      { "verse": 16, "text": "Dividing the three hundred men into three companies, he placed trumpets and empty jars in the hands of all of them, with torches inside." },
-      { "verse": 17, "text": "“Watch me,” he told them. “Follow my lead. When I get to the edge of the camp, do exactly as I do." },
-      { "verse": 18, "text": "When I and all who are with me blow our trumpets, then from all around the camp blow yours and shout, ‘For the Lord and for Gideon!’”" },
-      { "verse": 19, "text": "Gideon and the hundred men with him reached the edge of the camp at the beginning of the middle watch, just after the guard had been changed. They blew their trumpets and broke the jars that were in their hands." },
-      { "verse": 20, "text": "The three companies blew the trumpets and smashed the jars. Grasping the torches in their left hands and holding in their right hands the trumpets they were to blow, they shouted, “A sword for the Lord and for Gideon!”" },
-      { "verse": 21, "text": "While each man held his position around the camp, all the Midianites ran, crying out as they fled." },
-      { "verse": 22, "text": "When the three hundred trumpets sounded, the Lord caused the men throughout the camp to turn on each other with their swords. The army fled to Beth Shittah toward Zererah as far as the border of Abel Meholah near Tabbath." },
-      { "verse": 23, "text": "Israelites from Naphtali, Asher and all Manasseh were called out, and they pursued the Midianites." },
-      { "verse": 24, "text": "Gideon sent messengers throughout the hill country of Ephraim, saying, “Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth Barah.” So all the men of Ephraim were called out, and they seized the waters of the Jordan as far as Beth Barah." },
-      { "verse": 25, "text": "They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was by the Jordan." }
+        {
+            "verse": 1,
+            "text": [
+                "Early in the morning, Jerub-Baal (that is, Gideon) and all his men camped at the spring of Harod. The camp of Midian was north of them in the valley near the hill of Moreh."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "The Lord said to Gideon, “You have too many men. I cannot deliver Midian into their hands, or Israel would boast against Me, saying, ‘My own strength has saved me.’”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Now announce to the army, ‘Anyone who trembles with fear may turn back and leave Mount Gilead.’” So twenty-two thousand men left, while ten thousand remained."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But the Lord said to Gideon, “There are still too many men. Take them down to the water, and I will thin them out for you there.” If I say, ‘This one shall go with you,’ he shall go; but if I say, ‘This one shall not go with you,’ he shall not go.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "So Gideon took the men down to the water. There the Lord told him, “Separate those who lap the water with their tongues as a dog laps from those who kneel down to drink.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Three hundred of them drank from cupped hands, lapping like dogs. All the rest got down on their knees to drink."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "The Lord said to Gideon, “With the three hundred men that lapped I will save you and give the Midianites into your hands. Let all the others go home.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "So Gideon sent the rest of the Israelites home but kept the three hundred, who took over the provisions and trumpets of the others. Now the camp of Midian lay below him in the valley."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "During that night the Lord said to Gideon, “Get up, go down against the camp, because I am going to give it into your hands."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "If you are afraid to attack, go down to the camp with your servant Purah"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "and listen to what they are saying. Afterward, you will be encouraged to attack the camp.” So he and Purah went down to the outposts of the camp."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The Midianites, the Amalekites and all the other eastern peoples had settled in the valley, thick as locusts. Their camels could no more be counted than the sand on the seashore."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Gideon arrived just as a man was telling a friend his dream. “I had a dream,” he said. “A round loaf of barley bread came tumbling into the Midianite camp. It struck the tent with such force that the tent overturned and collapsed.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "His friend responded, “This can be nothing other than the sword of Gideon son of Joash, the Israelite. God has given the Midianites and the whole camp into his hands.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "When Gideon heard the dream and its interpretation, he bowed down and worshipped. He returned to the camp of Israel and called out, “Get up! The Lord has given the Midianite camp into your hands.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Dividing the three hundred men into three companies, he placed trumpets and empty jars in the hands of all of them, with torches inside."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "“Watch me,” he told them. “Follow my lead. When I get to the edge of the camp, do exactly as I do."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "When I and all who are with me blow our trumpets, then from all around the camp blow yours and shout, ‘For the Lord and for Gideon!’”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Gideon and the hundred men with him reached the edge of the camp at the beginning of the middle watch, just after the guard had been changed. They blew their trumpets and broke the jars that were in their hands."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "The three companies blew the trumpets and smashed the jars. Grasping the torches in their left hands and holding in their right hands the trumpets they were to blow, they shouted, “A sword for the Lord and for Gideon!”"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "While each man held his position around the camp, all the Midianites ran, crying out as they fled."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "When the three hundred trumpets sounded, the Lord caused the men throughout the camp to turn on each other with their swords. The army fled to Beth Shittah toward Zererah as far as the border of Abel Meholah near Tabbath."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Israelites from Naphtali, Asher and all Manasseh were called out, and they pursued the Midianites."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Gideon sent messengers throughout the hill country of Ephraim, saying, “Come down against the Midianites and seize the waters of the Jordan ahead of them as far as Beth Barah.” So all the men of Ephraim were called out, and they seized the waters of the Jordan as far as Beth Barah."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "They also captured two of the Midianite leaders, Oreb and Zeeb. They killed Oreb at the rock of Oreb, and Zeeb at the winepress of Zeeb. They pursued the Midianites and brought the heads of Oreb and Zeeb to Gideon, who was by the Jordan."
+            ]
+        }
     ]
-  }
-  
+}

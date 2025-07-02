@@ -1,94 +1,138 @@
 {
-  "book": "Exodus",
-  "chapter": 1,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:"
-    },
-    {
-      "verse": 2,
-      "text": "Reuben, Simeon, Levi, and Judah;"
-    },
-    {
-      "verse": 3,
-      "text": "Issachar, Zebulun, and Benjamin;"
-    },
-    {
-      "verse": 4,
-      "text": "Dan and Naphtali, Gad and Asher."
-    },
-    {
-      "verse": 5,
-      "text": "The total number of Jacob\u2019s direct descendants was seventy. Joseph was already in Egypt."
-    },
-    {
-      "verse": 6,
-      "text": "Then Joseph, all his brothers, and all that generation died."
-    },
-    {
-      "verse": 7,
-      "text": "But the Israelites were fruitful, increased greatly, and became numerous and powerful; the land was filled with them."
-    },
-    {
-      "verse": 8,
-      "text": "Then a new king, who did not know about Joseph, came to power in Egypt."
-    },
-    {
-      "verse": 9,
-      "text": "He said to his people, \u201cLook, the people of Israel have become far too many and too strong for us."
-    },
-    {
-      "verse": 10,
-      "text": "Come, let us deal wisely with them, or they will multiply even more, and if war breaks out, they may join our enemies, fight against us, and leave the country.\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "So they appointed overseers to oppress them with forced labour, and the Israelites built store cities for Pharaoh: Pithom and Rameses."
-    },
-    {
-      "verse": 12,
-      "text": "But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites."
-    },
-    {
-      "verse": 13,
-      "text": "They made the Israelites serve ruthlessly,"
-    },
-    {
-      "verse": 14,
-      "text": "and made their lives bitter with hard labour in brick and mortar and with all kinds of work in the fields. In all their tasks, the Egyptians treated them with cruelty."
-    },
-    {
-      "verse": 15,
-      "text": "Then the king of Egypt said to the Hebrew midwives\u2014one of whom was named Shiphrah and the other Puah\u2014"
-    },
-    {
-      "verse": 16,
-      "text": "\u201cWhen you help the Hebrew women during childbirth, if you see that the baby is a boy, kill him; but if it is a girl, let her live.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "But the midwives feared God and did not do as the king of Egypt commanded. They let the boys live."
-    },
-    {
-      "verse": 18,
-      "text": "So the king of Egypt summoned the midwives and said to them, \u201cWhy have you done this? Why have you let the boys live?\u201d"
-    },
-    {
-      "verse": 19,
-      "text": "The midwives said to Pharaoh, \u201cHebrew women are not like Egyptian women; they are strong and give birth before the midwife arrives.\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "So God was good to the midwives, and the people increased and became even more numerous."
-    },
-    {
-      "verse": 21,
-      "text": "And because the midwives feared God, He gave them families of their own."
-    },
-    {
-      "verse": 22,
-      "text": "Then Pharaoh gave this order to all his people: \u201cEvery son born to the Hebrews you must throw into the Nile, but let every daughter live.\u201d"
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Reuben, Simeon, Levi, and Judah;"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Issachar, Zebulun, and Benjamin;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Dan and Naphtali, Gad and Asher."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The total number of Jacob’s direct descendants was seventy. Joseph was already in Egypt."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then Joseph, all his brothers, and all that generation died."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "But the Israelites were fruitful, increased greatly, and became numerous and powerful; the land was filled with them."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Then a new king, who did not know about Joseph, came to power in Egypt."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "He said to his people, “Look, the people of Israel have become far too many and too strong for us."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Come, let us deal wisely with them, or they will multiply even more, and if war breaks out, they may join our enemies, fight against us, and leave the country.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "So they appointed overseers to oppress them with forced labour, and the Israelites built store cities for Pharaoh: Pithom and Rameses."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "They made the Israelites serve ruthlessly,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "and made their lives bitter with hard labour in brick and mortar and with all kinds of work in the fields. In all their tasks, the Egyptians treated them with cruelty."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Then the king of Egypt said to the Hebrew midwives—one of whom was named Shiphrah and the other Puah—"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "“When you help the Hebrew women during childbirth, if you see that the baby is a boy, kill him; but if it is a girl, let her live.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "But the midwives feared God and did not do as the king of Egypt commanded. They let the boys live."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "So the king of Egypt summoned the midwives and said to them, “Why have you done this? Why have you let the boys live?”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The midwives said to Pharaoh, “Hebrew women are not like Egyptian women; they are strong and give birth before the midwife arrives.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "So God was good to the midwives, and the people increased and became even more numerous."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "And because the midwives feared God, He gave them families of their own."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Then Pharaoh gave this order to all his people: “Every son born to the Hebrews you must throw into the Nile, but let every daughter live.”"
+            ]
+        }
+    ]
 }

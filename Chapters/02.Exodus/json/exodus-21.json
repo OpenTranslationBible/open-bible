@@ -1,150 +1,222 @@
 {
-  "book": "Exodus",
-  "chapter": 21,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "These are the laws you are to set before the Israelites:"
-    },
-    {
-      "verse": 2,
-      "text": "If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything."
-    },
-    {
-      "verse": 3,
-      "text": "If he came alone, he is to go free alone; but if he had a wife when he came, she is to go with him."
-    },
-    {
-      "verse": 4,
-      "text": "If his master gives him a wife and she bears him sons or daughters, the wife and her children shall belong to the master, and only the man shall go free."
-    },
-    {
-      "verse": 5,
-      "text": "But if the servant declares, \u2018I love my master and my wife and children and do not want to go free,\u2019"
-    },
-    {
-      "verse": 6,
-      "text": "then his master must take him before the judges. He shall take him to the door or doorpost and pierce his ear with an awl. Then he will be his servant for life."
-    },
-    {
-      "verse": 7,
-      "text": "If a man sells his daughter as a servant, she is not to go free as male servants do."
-    },
-    {
-      "verse": 8,
-      "text": "If she does not please the master who has chosen her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her."
-    },
-    {
-      "verse": 9,
-      "text": "If he selects her for his son, he must grant her the rights of a daughter."
-    },
-    {
-      "verse": 10,
-      "text": "If he marries another woman, he must not deprive the first one of her food, clothing and marital rights."
-    },
-    {
-      "verse": 11,
-      "text": "If he does not provide her with these three things, she is to go free, without paying anything."
-    },
-    {
-      "verse": 12,
-      "text": "Anyone who strikes a person and kills them is to be put to death."
-    },
-    {
-      "verse": 13,
-      "text": "However, if it was not intentional but an act of God, I will designate a place to which the killer may flee."
-    },
-    {
-      "verse": 14,
-      "text": "But if someone schemes and kills another person deliberately, you are to take that person even from My altar and put them to death."
-    },
-    {
-      "verse": 15,
-      "text": "Anyone who attacks their father or mother is to be put to death."
-    },
-    {
-      "verse": 16,
-      "text": "Anyone who kidnaps someone is to be put to death, whether the victim has been sold or is still in the kidnapper\u2019s possession."
-    },
-    {
-      "verse": 17,
-      "text": "Anyone who curses their father or mother is to be put to death."
-    },
-    {
-      "verse": 18,
-      "text": "If people quarrel and one person hits another with a stone or with their fist and the victim does not die but is confined to bed,"
-    },
-    {
-      "verse": 19,
-      "text": "the one who struck the blow will not be held liable if the other can get up and walk around with a staff. However, they must pay for the loss of time and see that the victim is completely healed."
-    },
-    {
-      "verse": 20,
-      "text": "If a man beats his male or female servant with a rod and the servant dies as a direct result, he must be punished."
-    },
-    {
-      "verse": 21,
-      "text": "But if the servant recovers after a day or two, the man is not to be punished, since the servant is his property."
-    },
-    {
-      "verse": 22,
-      "text": "If people are fighting and hit a pregnant woman and she gives birth prematurely but there is no serious injury, the offender must be fined whatever the woman\u2019s husband demands and the court allows."
-    },
-    {
-      "verse": 23,
-      "text": "But if there is serious injury, you are to take life for life,"
-    },
-    {
-      "verse": 24,
-      "text": "eye for eye, tooth for tooth, hand for hand, foot for foot,"
-    },
-    {
-      "verse": 25,
-      "text": "burn for burn, wound for wound, bruise for bruise."
-    },
-    {
-      "verse": 26,
-      "text": "If a man hits a servant in the eye and destroys it, he must let the servant go free to compensate for the eye."
-    },
-    {
-      "verse": 27,
-      "text": "And if he knocks out the tooth of a servant, he must let the servant go free to compensate for the tooth."
-    },
-    {
-      "verse": 28,
-      "text": "If a bull gores a man or a woman to death, the bull must be stoned to death, and its meat must not be eaten. But the owner will not be held responsible."
-    },
-    {
-      "verse": 29,
-      "text": "However, if the bull was known to be aggressive and the owner had been warned but did not keep it restrained and it kills someone, the bull must be stoned and the owner also must be put to death."
-    },
-    {
-      "verse": 30,
-      "text": "If payment is demanded, the owner may redeem their life by paying whatever is demanded."
-    },
-    {
-      "verse": 31,
-      "text": "This law also applies if the bull gores a son or daughter."
-    },
-    {
-      "verse": 32,
-      "text": "If the bull gores a male or female servant, the owner must pay thirty shekels of silver to the servant\u2019s master, and the bull is to be stoned."
-    },
-    {
-      "verse": 33,
-      "text": "If someone uncovers or digs a pit and fails to cover it and an animal falls in,"
-    },
-    {
-      "verse": 34,
-      "text": "the one who opened the pit must pay for the loss and take possession of the dead animal."
-    },
-    {
-      "verse": 35,
-      "text": "If one person\u2019s bull injures another\u2019s so that it dies, they are to sell the live one and divide both the money and the dead animal."
-    },
-    {
-      "verse": 36,
-      "text": "But if it was known that the bull had a habit of goring, yet the owner did not keep it under control, the owner must pay animal for animal, and the dead animal shall become theirs."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "These are the laws you are to set before the Israelites:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "If you buy a Hebrew servant, he is to serve you for six years. But in the seventh year, he shall go free, without paying anything."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "If he came alone, he is to go free alone; but if he had a wife when he came, she is to go with him."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "If his master gives him a wife and she bears him sons or daughters, the wife and her children shall belong to the master, and only the man shall go free."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "But if the servant declares, ‘I love my master and my wife and children and do not want to go free,’"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "then his master must take him before the judges. He shall take him to the door or doorpost and pierce his ear with an awl. Then he will be his servant for life."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "If a man sells his daughter as a servant, she is not to go free as male servants do."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "If she does not please the master who has chosen her for himself, he must allow her to be redeemed. He has no right to sell her to foreigners, since he has broken faith with her."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "If he selects her for his son, he must grant her the rights of a daughter."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "If he marries another woman, he must not deprive the first one of her food, clothing and marital rights."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "If he does not provide her with these three things, she is to go free, without paying anything."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Anyone who strikes a person and kills them is to be put to death."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "However, if it was not intentional but an act of God, I will designate a place to which the killer may flee."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But if someone schemes and kills another person deliberately, you are to take that person even from My altar and put them to death."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Anyone who attacks their father or mother is to be put to death."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Anyone who kidnaps someone is to be put to death, whether the victim has been sold or is still in the kidnapper’s possession."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Anyone who curses their father or mother is to be put to death."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "If people quarrel and one person hits another with a stone or with their fist and the victim does not die but is confined to bed,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "the one who struck the blow will not be held liable if the other can get up and walk around with a staff. However, they must pay for the loss of time and see that the victim is completely healed."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "If a man beats his male or female servant with a rod and the servant dies as a direct result, he must be punished."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "But if the servant recovers after a day or two, the man is not to be punished, since the servant is his property."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "If people are fighting and hit a pregnant woman and she gives birth prematurely but there is no serious injury, the offender must be fined whatever the woman’s husband demands and the court allows."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "But if there is serious injury, you are to take life for life,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "eye for eye, tooth for tooth, hand for hand, foot for foot,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "burn for burn, wound for wound, bruise for bruise."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "If a man hits a servant in the eye and destroys it, he must let the servant go free to compensate for the eye."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "And if he knocks out the tooth of a servant, he must let the servant go free to compensate for the tooth."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "If a bull gores a man or a woman to death, the bull must be stoned to death, and its meat must not be eaten. But the owner will not be held responsible."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "However, if the bull was known to be aggressive and the owner had been warned but did not keep it restrained and it kills someone, the bull must be stoned and the owner also must be put to death."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "If payment is demanded, the owner may redeem their life by paying whatever is demanded."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "This law also applies if the bull gores a son or daughter."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "If the bull gores a male or female servant, the owner must pay thirty shekels of silver to the servant’s master, and the bull is to be stoned."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "If someone uncovers or digs a pit and fails to cover it and an animal falls in,"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "the one who opened the pit must pay for the loss and take possession of the dead animal."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "If one person’s bull injures another’s so that it dies, they are to sell the live one and divide both the money and the dead animal."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "But if it was known that the bull had a habit of goring, yet the owner did not keep it under control, the owner must pay animal for animal, and the dead animal shall become theirs."
+            ]
+        }
+    ]
 }

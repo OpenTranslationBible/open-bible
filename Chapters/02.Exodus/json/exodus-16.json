@@ -1,150 +1,222 @@
 {
-  "book": "Exodus",
-  "chapter": 16,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The entire Israelite community set out from Elim and came to the Desert of Sin, which lies between Elim and Sinai, on the fifteenth day of the second month after leaving Egypt."
-    },
-    {
-      "verse": 2,
-      "text": "There in the desert the whole community grumbled against Moses and Aaron."
-    },
-    {
-      "verse": 3,
-      "text": "The Israelites said, \u201cIf only we had died by the Lord\u2019s hand in Egypt! There we sat around pots of meat and ate all the food we wanted, but you have brought us into this desert to starve this whole assembly to death.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "Then the Lord said to Moses, \u201cI will rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them to see whether they follow My instructions."
-    },
-    {
-      "verse": 5,
-      "text": "On the sixth day they are to prepare what they bring in, and it will be twice as much as they gather on the other days.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "So Moses and Aaron said to all the Israelites, \u201cIn the evening you will know it was the Lord who brought you out of Egypt,"
-    },
-    {
-      "verse": 7,
-      "text": "and in the morning you will see the glory of the Lord, because He has heard your grumbling against Him. Who are we, that you complain against us?\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "Moses also said, \u201cYou will know it is the Lord when He gives you meat in the evening and all the bread you want in the morning, because He has heard your grumbling. You are not grumbling against us, but against the Lord.\u201d"
-    },
-    {
-      "verse": 9,
-      "text": "Then Moses told Aaron, \u201cSay to the entire community: Come before the Lord, for He has heard your complaints.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "As Aaron spoke to the assembly, they looked toward the desert, and the glory of the Lord appeared in the cloud."
-    },
-    {
-      "verse": 11,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 12,
-      "text": "\u201cI have heard the grumbling of the Israelites. Tell them: At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp."
-    },
-    {
-      "verse": 14,
-      "text": "When the dew was gone, thin flakes like frost appeared on the desert floor."
-    },
-    {
-      "verse": 15,
-      "text": "When the Israelites saw it, they asked each other, \u201cWhat is it?\u201d because they did not know what it was. Moses said, \u201cIt is the bread the Lord has given you to eat."
-    },
-    {
-      "verse": 16,
-      "text": "This is what the Lord has commanded: Everyone is to gather as much as they need. Take an omer for each person in your tent.\u201d"
-    },
-    {
-      "verse": 17,
-      "text": "The Israelites did as they were told; some gathered more, some less."
-    },
-    {
-      "verse": 18,
-      "text": "But when they measured it by the omer, the one who gathered much had nothing left over, and the one who gathered little did not lack. Everyone had gathered just what they needed."
-    },
-    {
-      "verse": 19,
-      "text": "Then Moses said to them, \u201cNo one is to keep any of it until morning.\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "But some ignored Moses and kept part of it until morning. It became full of maggots and began to smell. So Moses was angry with them."
-    },
-    {
-      "verse": 21,
-      "text": "Each morning they gathered as much as they needed, and when the sun grew hot, it melted away."
-    },
-    {
-      "verse": 22,
-      "text": "On the sixth day they gathered twice as much\u2014two omers for each person\u2014and the leaders of the community came and reported this to Moses."
-    },
-    {
-      "verse": 23,
-      "text": "He said to them, \u201cThis is what the Lord commanded: Tomorrow is a day of rest, a holy Sabbath to the Lord. Bake what you want to bake and boil what you want to boil. Whatever is left, keep it until morning.\u201d"
-    },
-    {
-      "verse": 24,
-      "text": "So they saved it until morning, as Moses commanded, and it did not stink or get maggots in it."
-    },
-    {
-      "verse": 25,
-      "text": "\u201cEat it today,\u201d Moses said, \u201cbecause today is a Sabbath to the Lord. You will not find any manna on the ground today."
-    },
-    {
-      "verse": 26,
-      "text": "You are to gather it for six days, but on the seventh day, the Sabbath, there will not be any.\u201d"
-    },
-    {
-      "verse": 27,
-      "text": "Nevertheless, some of the people went out on the seventh day to gather it, but they found nothing."
-    },
-    {
-      "verse": 28,
-      "text": "Then the Lord said to Moses, \u201cHow long will you refuse to keep My commands and instructions?"
-    },
-    {
-      "verse": 29,
-      "text": "Bear in mind that the Lord has given you the Sabbath; that is why He gives you bread for two days on the sixth day. Everyone is to stay where they are on the seventh day."
-    },
-    {
-      "verse": 30,
-      "text": "So the people rested on the seventh day."
-    },
-    {
-      "verse": 31,
-      "text": "The people of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey."
-    },
-    {
-      "verse": 32,
-      "text": "Moses said, \u201cThis is what the Lord has commanded: Keep an omer of manna for the generations to come, so they may see the bread I gave you in the wilderness when I brought you out of Egypt.\u201d"
-    },
-    {
-      "verse": 33,
-      "text": "So Moses said to Aaron, \u201cTake a jar and put an omer of manna in it. Then place it before the Lord to be kept for the generations to come.\u201d"
-    },
-    {
-      "verse": 34,
-      "text": "As the Lord commanded Moses, Aaron put it with the tablets of the covenant law, so that it might be preserved."
-    },
-    {
-      "verse": 35,
-      "text": "The Israelites ate manna forty years, until they came to a land that was settled; they ate manna until they reached the border of Canaan."
-    },
-    {
-      "verse": 36,
-      "text": "(An omer is one-tenth of an ephah.)"
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 16,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The entire Israelite community set out from Elim and came to the Desert of Sin, which lies between Elim and Sinai, on the fifteenth day of the second month after leaving Egypt."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "There in the desert the whole community grumbled against Moses and Aaron."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "The Israelites said, “If only we had died by the Lord’s hand in Egypt! There we sat around pots of meat and ate all the food we wanted, but you have brought us into this desert to starve this whole assembly to death.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Then the Lord said to Moses, “I will rain down bread from heaven for you. The people are to go out each day and gather enough for that day. In this way I will test them to see whether they follow My instructions."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "On the sixth day they are to prepare what they bring in, and it will be twice as much as they gather on the other days.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "So Moses and Aaron said to all the Israelites, “In the evening you will know it was the Lord who brought you out of Egypt,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "and in the morning you will see the glory of the Lord, because He has heard your grumbling against Him. Who are we, that you complain against us?”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Moses also said, “You will know it is the Lord when He gives you meat in the evening and all the bread you want in the morning, because He has heard your grumbling. You are not grumbling against us, but against the Lord.”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then Moses told Aaron, “Say to the entire community: Come before the Lord, for He has heard your complaints.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "As Aaron spoke to the assembly, they looked toward the desert, and the glory of the Lord appeared in the cloud."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "“I have heard the grumbling of the Israelites. Tell them: At twilight you will eat meat, and in the morning you will be filled with bread. Then you will know that I am the Lord your God.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "That evening quail came and covered the camp, and in the morning there was a layer of dew around the camp."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "When the dew was gone, thin flakes like frost appeared on the desert floor."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "When the Israelites saw it, they asked each other, “What is it?” because they did not know what it was. Moses said, “It is the bread the Lord has given you to eat."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "This is what the Lord has commanded: Everyone is to gather as much as they need. Take an omer for each person in your tent.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "The Israelites did as they were told; some gathered more, some less."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "But when they measured it by the omer, the one who gathered much had nothing left over, and the one who gathered little did not lack. Everyone had gathered just what they needed."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Then Moses said to them, “No one is to keep any of it until morning.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "But some ignored Moses and kept part of it until morning. It became full of maggots and began to smell. So Moses was angry with them."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Each morning they gathered as much as they needed, and when the sun grew hot, it melted away."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "On the sixth day they gathered twice as much—two omers for each person—and the leaders of the community came and reported this to Moses."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "He said to them, “This is what the Lord commanded: Tomorrow is a day of rest, a holy Sabbath to the Lord. Bake what you want to bake and boil what you want to boil. Whatever is left, keep it until morning.”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "So they saved it until morning, as Moses commanded, and it did not stink or get maggots in it."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "“Eat it today,” Moses said, “because today is a Sabbath to the Lord. You will not find any manna on the ground today."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "You are to gather it for six days, but on the seventh day, the Sabbath, there will not be any.”"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Nevertheless, some of the people went out on the seventh day to gather it, but they found nothing."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Then the Lord said to Moses, “How long will you refuse to keep My commands and instructions?"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Bear in mind that the Lord has given you the Sabbath; that is why He gives you bread for two days on the sixth day. Everyone is to stay where they are on the seventh day."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "So the people rested on the seventh day."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "The people of Israel called the bread manna. It was white like coriander seed and tasted like wafers made with honey."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Moses said, “This is what the Lord has commanded: Keep an omer of manna for the generations to come, so they may see the bread I gave you in the wilderness when I brought you out of Egypt.”"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "So Moses said to Aaron, “Take a jar and put an omer of manna in it. Then place it before the Lord to be kept for the generations to come.”"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "As the Lord commanded Moses, Aaron put it with the tablets of the covenant law, so that it might be preserved."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "The Israelites ate manna forty years, until they came to a land that was settled; they ate manna until they reached the border of Canaan."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "(An omer is one-tenth of an ephah.)"
+            ]
+        }
+    ]
 }

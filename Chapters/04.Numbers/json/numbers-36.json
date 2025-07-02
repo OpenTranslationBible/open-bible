@@ -1,54 +1,78 @@
 {
-  "book": "Numbers",
-  "chapter": 36,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The heads of the families from the clan of Gilead, son of Machir, son of Manasseh\u2014a family of Joseph\u2019s descendants\u2014approached Moses and the leaders, the heads of the Israelite tribes."
-    },
-    {
-      "verse": 2,
-      "text": "They said, \u201cThe Lord commanded you to give land as an inheritance by lot to the Israelites. You were also told by the Lord to give the inheritance of our brother Zelophehad to his daughters."
-    },
-    {
-      "verse": 3,
-      "text": "But if they marry men from another tribe, their inheritance will be taken from our ancestral land and added to that of the tribe they join."
-    },
-    {
-      "verse": 4,
-      "text": "When the Year of Jubilee comes, their land will be transferred permanently, reducing our own inheritance.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "Then Moses gave a command to the Israelites according to the word of the Lord: \u201cThe tribe of the descendants of Joseph is right."
-    },
-    {
-      "verse": 6,
-      "text": "This is what the Lord commands for Zelophehad\u2019s daughters: They may marry anyone they please, as long as it is within their own tribal clan."
-    },
-    {
-      "verse": 7,
-      "text": "No inheritance in Israel may pass from tribe to tribe. Each Israelite must retain the land of their ancestral tribe."
-    },
-    {
-      "verse": 8,
-      "text": "Every daughter who inherits land must marry someone from her father\u2019s tribe, so that all Israelites will keep their ancestral holdings."
-    },
-    {
-      "verse": 9,
-      "text": "No inheritance may pass from one tribe to another. Each tribe must keep the land it originally received.\u201d"
-    },
-    {
-      "verse": 10,
-      "text": "So Mahlah, Tirzah, Hoglah, Milkah, and Noah\u2014the daughters of Zelophehad\u2014did as the Lord commanded Moses."
-    },
-    {
-      "verse": 11,
-      "text": "They married cousins on their father\u2019s side, men from within the clans of Manasseh son of Joseph, so that their inheritance remained in their father\u2019s tribe."
-    },
-    {
-      "verse": 12,
-      "text": "These were the commandments and laws the Lord gave the Israelites through Moses on the plains of Moab by the Jordan across from Jericho."
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 36,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The heads of the families from the clan of Gilead, son of Machir, son of Manasseh—a family of Joseph’s descendants—approached Moses and the leaders, the heads of the Israelite tribes."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "They said, “The Lord commanded you to give land as an inheritance by lot to the Israelites. You were also told by the Lord to give the inheritance of our brother Zelophehad to his daughters."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "But if they marry men from another tribe, their inheritance will be taken from our ancestral land and added to that of the tribe they join."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "When the Year of Jubilee comes, their land will be transferred permanently, reducing our own inheritance.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then Moses gave a command to the Israelites according to the word of the Lord: “The tribe of the descendants of Joseph is right."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "This is what the Lord commands for Zelophehad’s daughters: They may marry anyone they please, as long as it is within their own tribal clan."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "No inheritance in Israel may pass from tribe to tribe. Each Israelite must retain the land of their ancestral tribe."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Every daughter who inherits land must marry someone from her father’s tribe, so that all Israelites will keep their ancestral holdings."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "No inheritance may pass from one tribe to another. Each tribe must keep the land it originally received.”"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "So Mahlah, Tirzah, Hoglah, Milkah, and Noah—the daughters of Zelophehad—did as the Lord commanded Moses."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "They married cousins on their father’s side, men from within the clans of Manasseh son of Joseph, so that their inheritance remained in their father’s tribe."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "These were the commandments and laws the Lord gave the Israelites through Moses on the plains of Moab by the Jordan across from Jericho."
+            ]
+        }
+    ]
 }

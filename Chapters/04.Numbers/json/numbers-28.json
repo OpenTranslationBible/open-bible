@@ -1,130 +1,192 @@
 {
-  "book": "Numbers",
-  "chapter": 28,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord spoke to Moses, saying:"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cGive this command to the Israelites and say to them: Be diligent in presenting to Me at the appointed times the food offerings, which are a pleasing aroma to Me.\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "Say to them: \u2018This is the food offering you must present to the Lord: Two unblemished year-old male lambs each day, as a regular burnt offering."
-    },
-    {
-      "verse": 4,
-      "text": "Offer one lamb in the morning and the other at twilight,"
-    },
-    {
-      "verse": 5,
-      "text": "along with a tenth of an ephah of fine flour mixed with a quarter of a hin of oil from pressed olives."
-    },
-    {
-      "verse": 6,
-      "text": "This is the daily burnt offering established at Mount Sinai as a pleasing aroma to the Lord."
-    },
-    {
-      "verse": 7,
-      "text": "The drink offering with it is a quarter of a hin of fermented drink for each lamb. Pour it out to the Lord at the sanctuary."
-    },
-    {
-      "verse": 8,
-      "text": "The second lamb you are to offer at twilight, with the same grain offering and drink offering as in the morning\u2014a pleasing aroma to the Lord.\u2019"
-    },
-    {
-      "verse": 9,
-      "text": "\u2018On the Sabbath day, present two unblemished year-old male lambs, together with two-tenths of an ephah of fine flour mixed with oil as a grain offering, and its drink offering."
-    },
-    {
-      "verse": 10,
-      "text": "This is the Sabbath burnt offering in addition to the regular burnt offering and its drink offering.\u2019"
-    },
-    {
-      "verse": 11,
-      "text": "\u2018On the first day of each month, present to the Lord a burnt offering of two young bulls, one ram, and seven unblemished year-old male lambs."
-    },
-    {
-      "verse": 12,
-      "text": "With each bull, offer three-tenths of an ephah of fine flour mixed with oil; with the ram, offer two-tenths;"
-    },
-    {
-      "verse": 13,
-      "text": "and with each lamb, one-tenth, as a food offering, a pleasing aroma to the Lord."
-    },
-    {
-      "verse": 14,
-      "text": "Include drink offerings: half a hin of wine with each bull, a third with the ram, and a quarter with each lamb. This is the monthly burnt offering throughout your generations."
-    },
-    {
-      "verse": 15,
-      "text": "Also present one male goat as a sin offering to the Lord, in addition to the regular burnt offering and its drink offering.\u2019"
-    },
-    {
-      "verse": 16,
-      "text": "\u2018On the fourteenth day of the first month, the Lord\u2019s Passover is to be held."
-    },
-    {
-      "verse": 17,
-      "text": "On the fifteenth day of that month, a festival begins. For seven days, you must eat unleavened bread."
-    },
-    {
-      "verse": 18,
-      "text": "On the first day, hold a sacred assembly and do no ordinary work."
-    },
-    {
-      "verse": 19,
-      "text": "Present as a burnt offering to the Lord two young bulls, one ram, and seven unblemished year-old male lambs."
-    },
-    {
-      "verse": 20,
-      "text": "Offer them with grain offerings of fine flour mixed with oil: three-tenths of an ephah with each bull, two-tenths with the ram,"
-    },
-    {
-      "verse": 21,
-      "text": "and one-tenth with each of the seven lambs."
-    },
-    {
-      "verse": 22,
-      "text": "Include one male goat as a sin offering to make atonement for you."
-    },
-    {
-      "verse": 23,
-      "text": "Offer these in addition to the morning burnt offering."
-    },
-    {
-      "verse": 24,
-      "text": "Do this each day for seven days as food offerings, a pleasing aroma to the Lord. They are to be offered alongside the regular burnt offering and its drink offering."
-    },
-    {
-      "verse": 25,
-      "text": "On the seventh day, hold a sacred assembly and do no ordinary work.\u2019"
-    },
-    {
-      "verse": 26,
-      "text": "\u2018On the day of firstfruits, when you present a new grain offering during the Feast of Weeks, hold a sacred assembly and do no ordinary work."
-    },
-    {
-      "verse": 27,
-      "text": "Present as a burnt offering two young bulls, one ram, and seven unblemished year-old male lambs."
-    },
-    {
-      "verse": 28,
-      "text": "Accompany them with grain offerings of fine flour mixed with oil: three-tenths of an ephah with each bull, two-tenths with the ram,"
-    },
-    {
-      "verse": 29,
-      "text": "and one-tenth with each of the seven lambs."
-    },
-    {
-      "verse": 30,
-      "text": "Also present one male goat to make atonement for you."
-    },
-    {
-      "verse": 31,
-      "text": "These offerings are in addition to the regular daily burnt offering and its drink offering. Be sure they are without blemish."
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 28,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord spoke to Moses, saying:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Give this command to the Israelites and say to them: Be diligent in presenting to Me at the appointed times the food offerings, which are a pleasing aroma to Me.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Say to them: ‘This is the food offering you must present to the Lord: Two unblemished year-old male lambs each day, as a regular burnt offering."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Offer one lamb in the morning and the other at twilight,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "along with a tenth of an ephah of fine flour mixed with a quarter of a hin of oil from pressed olives."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "This is the daily burnt offering established at Mount Sinai as a pleasing aroma to the Lord."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "The drink offering with it is a quarter of a hin of fermented drink for each lamb. Pour it out to the Lord at the sanctuary."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The second lamb you are to offer at twilight, with the same grain offering and drink offering as in the morning—a pleasing aroma to the Lord.’"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "‘On the Sabbath day, present two unblemished year-old male lambs, together with two-tenths of an ephah of fine flour mixed with oil as a grain offering, and its drink offering."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "This is the Sabbath burnt offering in addition to the regular burnt offering and its drink offering.’"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "‘On the first day of each month, present to the Lord a burnt offering of two young bulls, one ram, and seven unblemished year-old male lambs."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "With each bull, offer three-tenths of an ephah of fine flour mixed with oil; with the ram, offer two-tenths;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "and with each lamb, one-tenth, as a food offering, a pleasing aroma to the Lord."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Include drink offerings: half a hin of wine with each bull, a third with the ram, and a quarter with each lamb. This is the monthly burnt offering throughout your generations."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Also present one male goat as a sin offering to the Lord, in addition to the regular burnt offering and its drink offering.’"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "‘On the fourteenth day of the first month, the Lord’s Passover is to be held."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "On the fifteenth day of that month, a festival begins. For seven days, you must eat unleavened bread."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "On the first day, hold a sacred assembly and do no ordinary work."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Present as a burnt offering to the Lord two young bulls, one ram, and seven unblemished year-old male lambs."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Offer them with grain offerings of fine flour mixed with oil: three-tenths of an ephah with each bull, two-tenths with the ram,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "and one-tenth with each of the seven lambs."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Include one male goat as a sin offering to make atonement for you."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Offer these in addition to the morning burnt offering."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Do this each day for seven days as food offerings, a pleasing aroma to the Lord. They are to be offered alongside the regular burnt offering and its drink offering."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "On the seventh day, hold a sacred assembly and do no ordinary work.’"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "‘On the day of firstfruits, when you present a new grain offering during the Feast of Weeks, hold a sacred assembly and do no ordinary work."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Present as a burnt offering two young bulls, one ram, and seven unblemished year-old male lambs."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Accompany them with grain offerings of fine flour mixed with oil: three-tenths of an ephah with each bull, two-tenths with the ram,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "and one-tenth with each of the seven lambs."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Also present one male goat to make atonement for you."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "These offerings are in addition to the regular daily burnt offering and its drink offering. Be sure they are without blemish."
+            ]
+        }
+    ]
 }

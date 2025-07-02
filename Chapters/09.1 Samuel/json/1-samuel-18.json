@@ -1,131 +1,202 @@
 {
-  "book": "1 Samuel",
-  "chapter": 18,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now it came about, when he had finished speaking to Saul, that the soul of Jonathan was knit to the soul of David, and Jonathan loved him as himself."
-    },
-    {
-      "verse": 2,
-      "text": "Saul took him that day and did not let him return to his father’s house."
-    },
-    {
-      "verse": 3,
-      "text": "Then Jonathan made a covenant with David because he loved him as himself."
-    },
-    {
-      "verse": 4,
-      "text": "Jonathan stripped himself of the robe that was on him and gave it to David, along with his armour, even his sword, his bow, and his belt."
-    },
-    {
-      "verse": 5,
-      "text": "And David went out and was successful wherever Saul sent him, so Saul set him over the men of war. And it was pleasing in the sight of all the people, and also in the sight of Saul’s servants."
-    },
-    { "verse": null },
-    {
-      "verse": 6,
-      "text": "Now it happened as they were coming home, when David returned from striking down the Philistine, that the women came out of all the cities of Israel, singing and dancing, to meet King Saul with tambourines, with joy, and with musical instruments."
-    },
-    {
-      "verse": 7,
-      "text": ["> “Saul has slain his thousands,", "> And David his tens of thousands.”"]
-    },
-    {
-      "verse": 8,
-      "text": "Then Saul became very angry, for this statement displeased him, and he said, “They have ascribed to David tens of thousands, but to me they have ascribed only thousands. What more can he have but the kingdom?”"
-    },
-    {
-      "verse": 9,
-      "text": "So Saul watched David with suspicion from that day on."
-    },
-    { "verse": null },
-    {
-      "verse": 10,
-      "text": "Now it came about the next day that an evil spirit from God came forcefully upon Saul, and he raved in the midst of the house, while David was playing the harp with his hand, as usual. And Saul had a spear in his hand."
-    },
-    {
-      "verse": 11,
-      "text": "Then Saul hurled the spear, for he thought, “I will pin David to the wall.” But David escaped from his presence twice."
-    },
-    {
-      "verse": 12,
-      "text": "Now Saul was afraid of David, because the Lord was with him but had departed from Saul."
-    },
-    {
-      "verse": 13,
-      "text": "So Saul removed him from his presence and appointed him as a commander of a thousand; and he went out and came in before the people."
-    },
-    {
-      "verse": 14,
-      "text": "David was successful in all his ways, and the Lord was with him."
-    },
-    {
-      "verse": 15,
-      "text": "When Saul saw that he was very successful, he feared him."
-    },
-    {
-      "verse": 16,
-      "text": "But all Israel and Judah loved David, for he would go out to battle and return before them."
-    },
-    { "verse": null },
-    {
-      "verse": 17,
-      "text": "Then Saul said to David, “Here is my older daughter Merab; I will give her to you as a wife. Only be a valiant man for me and fight the Lord’s battles.” For Saul thought, “Let not my hand be against him, but let the hand of the Philistines be against him.”"
-    },
-    {
-      "verse": 18,
-      "text": "But David said to Saul, “Who am I, and what is my life or my father’s family in Israel, that I should be the king’s son-in-law?”"
-    },
-    {
-      "verse": 19,
-      "text": "So it came about, when the time came for Merab, Saul’s daughter, to be given to David, that she was given to Adriel the Meholathite as a wife."
-    },
-    { "verse": null },
-    {
-      "verse": 20,
-      "text": "Now Michal, Saul’s daughter, loved David. When they told Saul, the matter was pleasing to him."
-    },
-    {
-      "verse": 21,
-      "text": "Saul thought, “I will give her to him, so that she may become a snare to him, and so that the hand of the Philistines may be against him.” Therefore Saul said to David, “For a second time you may become my son-in-law today.”"
-    },
-    {
-      "verse": 22,
-      "text": "Then Saul commanded his servants, “Speak to David secretly, saying, ‘Behold, the king delights in you, and all his servants love you. Now become the king’s son-in-law.’”"
-    },
-    {
-      "verse": 23,
-      "text": "So Saul’s servants spoke these words to David. But David said, “Is it trivial in your sight to become the king’s son-in-law, when I am a poor man and lightly esteemed?”"
-    },
-    {
-      "verse": 24,
-      "text": "The servants of Saul reported to him according to what David had said."
-    },
-    {
-      "verse": 25,
-      "text": "Then Saul said, “This is what you shall say to David: ‘The king desires no dowry except a hundred foreskins of the Philistines, to take vengeance on the king’s enemies.’” But Saul intended for David to fall by the hand of the Philistines."
-    },
-    { "verse": null },
-    {
-      "verse": 26,
-      "text": "When his servants told David these words, it pleased David to become the king’s son-in-law. Before the allotted time had expired,"
-    },
-    {
-      "verse": 27,
-      "text": "David set out and went, he and his men, and struck down two hundred men among the Philistines. Then David brought their foreskins and presented the full number to the king, so that he might become the king’s son-in-law. So Saul gave him his daughter Michal as a wife."
-    },
-    {
-      "verse": 28,
-      "text": "When Saul saw and knew that the Lord was with David, and that Michal, Saul’s daughter, loved him,"
-    },
-    {
-      "verse": 29,
-      "text": "Saul was even more afraid of David. So Saul was David’s enemy continually."
-    },
-    {
-      "verse": 30,
-      "text": "Then the commanders of the Philistines went out to battle, and it came about, as often as they went out, that David was more successful than all the servants of Saul. So his name was highly esteemed."
-    }
-  ]
+    "book": "1 Samuel",
+    "chapter": 18,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now it came about, when he had finished speaking to Saul, that the soul of Jonathan was knit to the soul of David, and Jonathan loved him as himself."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Saul took him that day and did not let him return to his father’s house."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then Jonathan made a covenant with David because he loved him as himself."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Jonathan stripped himself of the robe that was on him and gave it to David, along with his armour, even his sword, his bow, and his belt."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "And David went out and was successful wherever Saul sent him, so Saul set him over the men of war. And it was pleasing in the sight of all the people, and also in the sight of Saul’s servants."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Now it happened as they were coming home, when David returned from striking down the Philistine, that the women came out of all the cities of Israel, singing and dancing, to meet King Saul with tambourines, with joy, and with musical instruments."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> “Saul has slain his thousands,",
+                "> And David his tens of thousands.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Then Saul became very angry, for this statement displeased him, and he said, “They have ascribed to David tens of thousands, but to me they have ascribed only thousands. What more can he have but the kingdom?”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "So Saul watched David with suspicion from that day on."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Now it came about the next day that an evil spirit from God came forcefully upon Saul, and he raved in the midst of the house, while David was playing the harp with his hand, as usual. And Saul had a spear in his hand."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Then Saul hurled the spear, for he thought, “I will pin David to the wall.” But David escaped from his presence twice."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Now Saul was afraid of David, because the Lord was with him but had departed from Saul."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "So Saul removed him from his presence and appointed him as a commander of a thousand; and he went out and came in before the people."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "David was successful in all his ways, and the Lord was with him."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "When Saul saw that he was very successful, he feared him."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "But all Israel and Judah loved David, for he would go out to battle and return before them."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Then Saul said to David, “Here is my older daughter Merab; I will give her to you as a wife. Only be a valiant man for me and fight the Lord’s battles.” For Saul thought, “Let not my hand be against him, but let the hand of the Philistines be against him.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "But David said to Saul, “Who am I, and what is my life or my father’s family in Israel, that I should be the king’s son-in-law?”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "So it came about, when the time came for Merab, Saul’s daughter, to be given to David, that she was given to Adriel the Meholathite as a wife."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Now Michal, Saul’s daughter, loved David. When they told Saul, the matter was pleasing to him."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Saul thought, “I will give her to him, so that she may become a snare to him, and so that the hand of the Philistines may be against him.” Therefore Saul said to David, “For a second time you may become my son-in-law today.”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Then Saul commanded his servants, “Speak to David secretly, saying, ‘Behold, the king delights in you, and all his servants love you. Now become the king’s son-in-law.’”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "So Saul’s servants spoke these words to David. But David said, “Is it trivial in your sight to become the king’s son-in-law, when I am a poor man and lightly esteemed?”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "The servants of Saul reported to him according to what David had said."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Then Saul said, “This is what you shall say to David: ‘The king desires no dowry except a hundred foreskins of the Philistines, to take vengeance on the king’s enemies.’” But Saul intended for David to fall by the hand of the Philistines."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 26,
+            "text": [
+                "When his servants told David these words, it pleased David to become the king’s son-in-law. Before the allotted time had expired,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "David set out and went, he and his men, and struck down two hundred men among the Philistines. Then David brought their foreskins and presented the full number to the king, so that he might become the king’s son-in-law. So Saul gave him his daughter Michal as a wife."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "When Saul saw and knew that the Lord was with David, and that Michal, Saul’s daughter, loved him,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Saul was even more afraid of David. So Saul was David’s enemy continually."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Then the commanders of the Philistines went out to battle, and it came about, as often as they went out, that David was more successful than all the servants of Saul. So his name was highly esteemed."
+            ]
+        }
+    ]
 }

@@ -1,78 +1,114 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 13,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "If a prophet or a dreamer of dreams arises among you and gives you a sign or wonder,"
-    },
-    {
-      "verse": 2,
-      "text": "and the sign or wonder comes to pass, and they say, \u2018Let us follow other gods\u2019\u2014gods you have not known\u2014\u2018and let us worship them,\u2019"
-    },
-    {
-      "verse": 3,
-      "text": "you must not listen to the words of that prophet or dreamer. The Lord your God is testing you to know whether you love Him with all your heart and soul."
-    },
-    {
-      "verse": 4,
-      "text": "Follow the Lord your God, fear Him, keep His commandments, listen to His voice, serve Him, and hold fast to Him."
-    },
-    {
-      "verse": 5,
-      "text": "That prophet or dreamer must be put to death, because they preached rebellion against the Lord your God, who brought you out of Egypt and redeemed you from the land of slavery. They tried to turn you from the way the Lord commanded you to walk. You must purge the evil from among you."
-    },
-    {
-      "verse": 6,
-      "text": "If your brother\u2014your mother\u2019s son\u2014or your son or daughter, your beloved wife, or your closest friend entices you secretly, saying, \u2018Let us go and worship other gods\u2019\u2014gods neither you nor your ancestors have known,"
-    },
-    {
-      "verse": 7,
-      "text": "gods of the peoples around you, whether near or far, from one end of the earth to the other\u2014"
-    },
-    {
-      "verse": 8,
-      "text": "you must not yield to them or listen to them. Show no pity or compassion and do not conceal them."
-    },
-    {
-      "verse": 9,
-      "text": "You must certainly put them to death. Your hand must be the first to act in executing them, and afterward the hands of all the people."
-    },
-    {
-      "verse": 10,
-      "text": "Stone them to death, because they tried to turn you away from the Lord your God, who brought you out of the land of Egypt, from the house of slavery."
-    },
-    {
-      "verse": 11,
-      "text": "Then all Israel will hear and be afraid, and no one among you will do such an evil thing again."
-    },
-    {
-      "verse": 12,
-      "text": "If you hear it said in one of the towns the Lord your God is giving you to dwell in,"
-    },
-    {
-      "verse": 13,
-      "text": "that some wicked men among you have led the inhabitants astray, saying, \u2018Let us go and worship other gods,\u2019 whom you have not known,"
-    },
-    {
-      "verse": 14,
-      "text": "then you must investigate thoroughly. If the report is true and proven that such detestable things have occurred among you,"
-    },
-    {
-      "verse": 15,
-      "text": "you must strike down the inhabitants of that city with the sword. Devote it and everything in it to complete destruction\u2014both people and livestock."
-    },
-    {
-      "verse": 16,
-      "text": "Gather all the plunder into the middle of the public square and burn the entire city and all its spoil as a whole burnt offering to the Lord your God. It is to remain a permanent ruin, never to be rebuilt."
-    },
-    {
-      "verse": 17,
-      "text": "Let none of the spoils be kept for yourselves, so that the Lord may turn from His fierce anger, show you mercy, and have compassion on you, and increase your numbers as He swore to your ancestors\u2014"
-    },
-    {
-      "verse": 18,
-      "text": "because you obey the Lord your God, keeping all His commandments, and doing what is right in His eyes."
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "If a prophet or a dreamer of dreams arises among you and gives you a sign or wonder,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "and the sign or wonder comes to pass, and they say, ‘Let us follow other gods’—gods you have not known—‘and let us worship them,’"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "you must not listen to the words of that prophet or dreamer. The Lord your God is testing you to know whether you love Him with all your heart and soul."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Follow the Lord your God, fear Him, keep His commandments, listen to His voice, serve Him, and hold fast to Him."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "That prophet or dreamer must be put to death, because they preached rebellion against the Lord your God, who brought you out of Egypt and redeemed you from the land of slavery. They tried to turn you from the way the Lord commanded you to walk. You must purge the evil from among you."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "If your brother—your mother’s son—or your son or daughter, your beloved wife, or your closest friend entices you secretly, saying, ‘Let us go and worship other gods’—gods neither you nor your ancestors have known,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "gods of the peoples around you, whether near or far, from one end of the earth to the other—"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "you must not yield to them or listen to them. Show no pity or compassion and do not conceal them."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "You must certainly put them to death. Your hand must be the first to act in executing them, and afterward the hands of all the people."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Stone them to death, because they tried to turn you away from the Lord your God, who brought you out of the land of Egypt, from the house of slavery."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Then all Israel will hear and be afraid, and no one among you will do such an evil thing again."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "If you hear it said in one of the towns the Lord your God is giving you to dwell in,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "that some wicked men among you have led the inhabitants astray, saying, ‘Let us go and worship other gods,’ whom you have not known,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "then you must investigate thoroughly. If the report is true and proven that such detestable things have occurred among you,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "you must strike down the inhabitants of that city with the sword. Devote it and everything in it to complete destruction—both people and livestock."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Gather all the plunder into the middle of the public square and burn the entire city and all its spoil as a whole burnt offering to the Lord your God. It is to remain a permanent ruin, never to be rebuilt."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Let none of the spoils be kept for yourselves, so that the Lord may turn from His fierce anger, show you mercy, and have compassion on you, and increase your numbers as He swore to your ancestors—"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "because you obey the Lord your God, keeping all His commandments, and doing what is right in His eyes."
+            ]
+        }
+    ]
 }

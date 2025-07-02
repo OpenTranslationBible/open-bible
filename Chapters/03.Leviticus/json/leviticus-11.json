@@ -1,194 +1,288 @@
 {
-  "book": "Leviticus",
-  "chapter": 11,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses and Aaron,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSay to the Israelites: These are the creatures you may eat among all the animals on the land:"
-    },
-    {
-      "verse": 3,
-      "text": "You may eat any animal that has a divided hoof and chews the cud."
-    },
-    {
-      "verse": 4,
-      "text": "But you must not eat those that only chew the cud or only have a divided hoof. The camel, though it chews the cud, does not have a divided hoof\u2014it is unclean for you."
-    },
-    {
-      "verse": 5,
-      "text": "The hyrax, though it chews the cud, does not have a divided hoof\u2014it is unclean for you."
-    },
-    {
-      "verse": 6,
-      "text": "The rabbit, though it chews the cud, does not have a divided hoof\u2014it is unclean for you."
-    },
-    {
-      "verse": 7,
-      "text": "And the pig, though it has a divided hoof, does not chew the cud\u2014it is unclean for you."
-    },
-    {
-      "verse": 8,
-      "text": "You must not eat their meat or touch their carcasses; they are unclean for you."
-    },
-    {
-      "verse": 9,
-      "text": "Of all the creatures living in the water, you may eat those with fins and scales."
-    },
-    {
-      "verse": 10,
-      "text": "But anything that lives in the seas or streams that does not have fins and scales is to be regarded as unclean."
-    },
-    {
-      "verse": 11,
-      "text": "You must regard them as unclean. Do not eat their meat and regard their carcasses as detestable."
-    },
-    {
-      "verse": 12,
-      "text": "Anything in the water that does not have fins and scales is to be considered unclean for you."
-    },
-    {
-      "verse": 13,
-      "text": "These are the birds you are to regard as unclean and must not eat because they are detestable: the eagle, the vulture, the black vulture,"
-    },
-    {
-      "verse": 14,
-      "text": "the red kite, any kind of black kite,"
-    },
-    {
-      "verse": 15,
-      "text": "any kind of raven,"
-    },
-    {
-      "verse": 16,
-      "text": "the horned owl, screech owl, gull, any kind of hawk,"
-    },
-    {
-      "verse": 17,
-      "text": "the little owl, cormorant, the great owl,"
-    },
-    {
-      "verse": 18,
-      "text": "the white owl, the desert owl, the osprey,"
-    },
-    {
-      "verse": 19,
-      "text": "the stork, any kind of heron, the hoopoe and the bat."
-    },
-    {
-      "verse": 20,
-      "text": "All flying insects that walk on all fours are to be regarded as unclean."
-    },
-    {
-      "verse": 21,
-      "text": "But you may eat certain winged insects that walk on all fours if they have jointed legs for hopping on the ground\u2014such as locusts, katydids, crickets and grasshoppers."
-    },
-    {
-      "verse": 22,
-      "text": "Of these you may eat: all kinds of locusts, katydids, crickets and grasshoppers."
-    },
-    {
-      "verse": 23,
-      "text": "But all other winged insects that have four feet you are to regard as unclean."
-    },
-    {
-      "verse": 24,
-      "text": "You will make yourselves unclean by these; whoever touches their carcasses will be unclean until evening."
-    },
-    {
-      "verse": 25,
-      "text": "Whoever picks up one of their carcasses must wash their clothes and be unclean until evening."
-    },
-    {
-      "verse": 26,
-      "text": "Every animal that does not have a divided hoof or does not chew the cud is unclean for you; whoever touches their carcasses will be unclean."
-    },
-    {
-      "verse": 27,
-      "text": "All animals that walk on paws among those that move along the ground are unclean for you; whoever touches their carcasses will be unclean until evening."
-    },
-    {
-      "verse": 28,
-      "text": "Anyone who picks up their carcasses must wash their clothes and be unclean until evening. These animals are unclean for you."
-    },
-    {
-      "verse": 29,
-      "text": "Of the animals that move along the ground, these are unclean for you: the weasel, rat, and any kind of great lizard,"
-    },
-    {
-      "verse": 30,
-      "text": "the gecko, monitor lizard, wall lizard, skink and chameleon."
-    },
-    {
-      "verse": 31,
-      "text": "These are unclean for you among all the creatures. Whoever touches them when they are dead will be unclean until evening."
-    },
-    {
-      "verse": 32,
-      "text": "When one of them dies and falls on something, that article becomes unclean\u2014whether it is wood, clothing, hide or sackcloth. Put it in water; it will be unclean until evening, then it will be clean."
-    },
-    {
-      "verse": 33,
-      "text": "If one of them falls into a clay pot, everything in it will be unclean, and you must break the pot."
-    },
-    {
-      "verse": 34,
-      "text": "Any food that could be eaten but has water from such a pot on it is unclean, and any liquid that could be drunk from it is unclean."
-    },
-    {
-      "verse": 35,
-      "text": "Everything that one of their carcasses falls on becomes unclean. If it is an oven or cooking pot, it must be broken; it is unclean and will remain unclean."
-    },
-    {
-      "verse": 36,
-      "text": "A spring or cistern for collecting water remains clean, but anyone who touches the carcass becomes unclean."
-    },
-    {
-      "verse": 37,
-      "text": "If a carcass falls on seed intended for planting, it remains clean."
-    },
-    {
-      "verse": 38,
-      "text": "But if water has been put on the seed and a carcass falls on it, it is unclean."
-    },
-    {
-      "verse": 39,
-      "text": "If an animal you are allowed to eat dies, anyone who touches its carcass will be unclean until evening."
-    },
-    {
-      "verse": 40,
-      "text": "Anyone who eats some of its carcass must wash their clothes and be unclean until evening. Anyone who picks up the carcass must do the same."
-    },
-    {
-      "verse": 41,
-      "text": "Every creature that moves along the ground is detestable; it is not to be eaten."
-    },
-    {
-      "verse": 42,
-      "text": "You must not eat any creature that moves along the ground\u2014whether it moves on its belly or walks on all fours or on many feet."
-    },
-    {
-      "verse": 43,
-      "text": "Do not defile yourselves by any of these creatures. Do not make yourselves unclean by them or be made unclean by them."
-    },
-    {
-      "verse": 44,
-      "text": "I am the Lord your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground."
-    },
-    {
-      "verse": 45,
-      "text": "I am the Lord, who brought you up out of Egypt to be your God; therefore be holy, because I am holy."
-    },
-    {
-      "verse": 46,
-      "text": "These are the regulations concerning animals, birds, every living thing that moves in the water and every creature that moves along the ground."
-    },
-    {
-      "verse": 47,
-      "text": "You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 11,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses and Aaron,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Say to the Israelites: These are the creatures you may eat among all the animals on the land:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "You may eat any animal that has a divided hoof and chews the cud."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "But you must not eat those that only chew the cud or only have a divided hoof. The camel, though it chews the cud, does not have a divided hoof—it is unclean for you."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The hyrax, though it chews the cud, does not have a divided hoof—it is unclean for you."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "The rabbit, though it chews the cud, does not have a divided hoof—it is unclean for you."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "And the pig, though it has a divided hoof, does not chew the cud—it is unclean for you."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "You must not eat their meat or touch their carcasses; they are unclean for you."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Of all the creatures living in the water, you may eat those with fins and scales."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "But anything that lives in the seas or streams that does not have fins and scales is to be regarded as unclean."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "You must regard them as unclean. Do not eat their meat and regard their carcasses as detestable."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Anything in the water that does not have fins and scales is to be considered unclean for you."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "These are the birds you are to regard as unclean and must not eat because they are detestable: the eagle, the vulture, the black vulture,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "the red kite, any kind of black kite,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "any kind of raven,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "the horned owl, screech owl, gull, any kind of hawk,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "the little owl, cormorant, the great owl,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "the white owl, the desert owl, the osprey,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "the stork, any kind of heron, the hoopoe and the bat."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "All flying insects that walk on all fours are to be regarded as unclean."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "But you may eat certain winged insects that walk on all fours if they have jointed legs for hopping on the ground—such as locusts, katydids, crickets and grasshoppers."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Of these you may eat: all kinds of locusts, katydids, crickets and grasshoppers."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "But all other winged insects that have four feet you are to regard as unclean."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "You will make yourselves unclean by these; whoever touches their carcasses will be unclean until evening."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Whoever picks up one of their carcasses must wash their clothes and be unclean until evening."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Every animal that does not have a divided hoof or does not chew the cud is unclean for you; whoever touches their carcasses will be unclean."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "All animals that walk on paws among those that move along the ground are unclean for you; whoever touches their carcasses will be unclean until evening."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Anyone who picks up their carcasses must wash their clothes and be unclean until evening. These animals are unclean for you."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Of the animals that move along the ground, these are unclean for you: the weasel, rat, and any kind of great lizard,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "the gecko, monitor lizard, wall lizard, skink and chameleon."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "These are unclean for you among all the creatures. Whoever touches them when they are dead will be unclean until evening."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "When one of them dies and falls on something, that article becomes unclean—whether it is wood, clothing, hide or sackcloth. Put it in water; it will be unclean until evening, then it will be clean."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "If one of them falls into a clay pot, everything in it will be unclean, and you must break the pot."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Any food that could be eaten but has water from such a pot on it is unclean, and any liquid that could be drunk from it is unclean."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Everything that one of their carcasses falls on becomes unclean. If it is an oven or cooking pot, it must be broken; it is unclean and will remain unclean."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "A spring or cistern for collecting water remains clean, but anyone who touches the carcass becomes unclean."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "If a carcass falls on seed intended for planting, it remains clean."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "But if water has been put on the seed and a carcass falls on it, it is unclean."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "If an animal you are allowed to eat dies, anyone who touches its carcass will be unclean until evening."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Anyone who eats some of its carcass must wash their clothes and be unclean until evening. Anyone who picks up the carcass must do the same."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Every creature that moves along the ground is detestable; it is not to be eaten."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "You must not eat any creature that moves along the ground—whether it moves on its belly or walks on all fours or on many feet."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Do not defile yourselves by any of these creatures. Do not make yourselves unclean by them or be made unclean by them."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "I am the Lord your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "I am the Lord, who brought you up out of Egypt to be your God; therefore be holy, because I am holy."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "These are the regulations concerning animals, birds, every living thing that moves in the water and every creature that moves along the ground."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten."
+            ]
+        }
+    ]
 }

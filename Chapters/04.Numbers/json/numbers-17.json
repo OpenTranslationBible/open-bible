@@ -1,58 +1,84 @@
 {
-  "book": "Numbers",
-  "chapter": 17,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord spoke to Moses, saying,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSpeak to the Israelites and take one staff from each of the ancestral tribes, twelve staffs in total, one from each leader. Write the name of each man on his staff."
-    },
-    {
-      "verse": 3,
-      "text": "On the staff of Levi, write Aaron\u2019s name, for there must be one staff for the head of each ancestral house."
-    },
-    {
-      "verse": 4,
-      "text": "Place them in the tent of meeting in front of the ark of the covenant, where I meet with you."
-    },
-    {
-      "verse": 5,
-      "text": "The staff belonging to the man I choose will sprout. This will put an end to the murmuring the Israelites make against you.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "So Moses spoke to the Israelites, and their leaders gave him twelve staffs, one from each of the tribal leaders. Aaron\u2019s staff was among them."
-    },
-    {
-      "verse": 7,
-      "text": "Moses placed the staffs before the Lord in the tent of the covenant."
-    },
-    {
-      "verse": 8,
-      "text": "The next day Moses entered the tent and saw that Aaron\u2019s staff, representing the tribe of Levi, had not only sprouted but had budded, blossomed, and produced ripe almonds."
-    },
-    {
-      "verse": 9,
-      "text": "Then Moses brought out all the staffs from before the Lord to all the Israelites. They looked at them, and each man took his own staff."
-    },
-    {
-      "verse": 10,
-      "text": "The Lord said to Moses, \u201cPut Aaron\u2019s staff back in front of the ark of the covenant law to be kept as a sign against the rebellious. This will put an end to their complaining so that they do not die.\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "Moses did just as the Lord commanded him."
-    },
-    {
-      "verse": 12,
-      "text": "The Israelites said to Moses, \u201cLook, we are perishing! We are lost, we are all lost!"
-    },
-    {
-      "verse": 13,
-      "text": "Everyone who even comes near the tabernacle of the Lord dies. Are we all to die?\u201d"
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord spoke to Moses, saying,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Speak to the Israelites and take one staff from each of the ancestral tribes, twelve staffs in total, one from each leader. Write the name of each man on his staff."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "On the staff of Levi, write Aaron’s name, for there must be one staff for the head of each ancestral house."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Place them in the tent of meeting in front of the ark of the covenant, where I meet with you."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The staff belonging to the man I choose will sprout. This will put an end to the murmuring the Israelites make against you.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "So Moses spoke to the Israelites, and their leaders gave him twelve staffs, one from each of the tribal leaders. Aaron’s staff was among them."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Moses placed the staffs before the Lord in the tent of the covenant."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The next day Moses entered the tent and saw that Aaron’s staff, representing the tribe of Levi, had not only sprouted but had budded, blossomed, and produced ripe almonds."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then Moses brought out all the staffs from before the Lord to all the Israelites. They looked at them, and each man took his own staff."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The Lord said to Moses, “Put Aaron’s staff back in front of the ark of the covenant law to be kept as a sign against the rebellious. This will put an end to their complaining so that they do not die.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Moses did just as the Lord commanded him."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The Israelites said to Moses, “Look, we are perishing! We are lost, we are all lost!"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Everyone who even comes near the tabernacle of the Lord dies. Are we all to die?”"
+            ]
+        }
+    ]
 }

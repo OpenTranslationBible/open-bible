@@ -1,86 +1,126 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 20,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "When you go out to war against your enemies and see horses and chariots and an army larger than yours, do not be afraid of them, for the Lord your God, who brought you out of Egypt, is with you."
-    },
-    {
-      "verse": 2,
-      "text": "When you are about to go into battle, the priest shall come forward and address the army."
-    },
-    {
-      "verse": 3,
-      "text": "He shall say: \u2018Hear, O Israel. Today you are going into battle against your enemies. Do not be fainthearted or afraid; do not panic or tremble before them,"
-    },
-    {
-      "verse": 4,
-      "text": "for the Lord your God is the One who goes with you to fight for you against your enemies and to give you victory.\u2019"
-    },
-    {
-      "verse": 5,
-      "text": "Then the officers shall say to the army: \u2018Has anyone built a new house and not yet dedicated it? Let him go home, or he may die in battle and someone else dedicate it."
-    },
-    {
-      "verse": 6,
-      "text": "Has anyone planted a vineyard and not begun to enjoy it? Let him go home, or he may die in battle and someone else enjoy it."
-    },
-    {
-      "verse": 7,
-      "text": "Has anyone become engaged to a woman and not yet married her? Let him go home, or he may die in battle and someone else marry her.\u2019"
-    },
-    {
-      "verse": 8,
-      "text": "Then the officers shall add: \u2018Is anyone afraid or fainthearted? Let him go home so that his fellow soldiers will not become disheartened too.\u2019"
-    },
-    {
-      "verse": 9,
-      "text": "When the officers have finished speaking to the army, they shall appoint commanders over it."
-    },
-    {
-      "verse": 10,
-      "text": "When you approach a city to fight against it, offer it terms of peace."
-    },
-    {
-      "verse": 11,
-      "text": "If it accepts and opens its gates, all the people in it shall become forced labourers under your control."
-    },
-    {
-      "verse": 12,
-      "text": "But if it refuses to make peace and wages war against you, then lay siege to it."
-    },
-    {
-      "verse": 13,
-      "text": "When the Lord your God delivers it into your hands, put all the men to the sword."
-    },
-    {
-      "verse": 14,
-      "text": "But the women, children, livestock, and everything else in the city\u2014you may take these as plunder for yourselves. You may enjoy the spoil from your enemies the Lord your God has given you."
-    },
-    {
-      "verse": 15,
-      "text": "This is how you are to treat all the cities that are far from you and do not belong to the nearby nations."
-    },
-    {
-      "verse": 16,
-      "text": "But in the cities of the nations the Lord your God is giving you as an inheritance, do not leave alive anything that breathes."
-    },
-    {
-      "verse": 17,
-      "text": "You must completely destroy them\u2014the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites\u2014as the Lord your God has commanded you,"
-    },
-    {
-      "verse": 18,
-      "text": "so that they do not teach you to imitate all the detestable things they do for their gods, and so that you do not sin against the Lord your God."
-    },
-    {
-      "verse": 19,
-      "text": "When you lay siege to a city for a long time while fighting against it to capture it, do not destroy its trees by wielding an axe against them. You may eat their fruit, but do not cut them down. Are the trees of the field people, that you should besiege them?"
-    },
-    {
-      "verse": 20,
-      "text": "However, you may cut down trees that you know are not fruit-bearing to build siege works against the city that is waging war against you, until it falls."
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "When you go out to war against your enemies and see horses and chariots and an army larger than yours, do not be afraid of them, for the Lord your God, who brought you out of Egypt, is with you."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "When you are about to go into battle, the priest shall come forward and address the army."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He shall say: ‘Hear, O Israel. Today you are going into battle against your enemies. Do not be fainthearted or afraid; do not panic or tremble before them,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "for the Lord your God is the One who goes with you to fight for you against your enemies and to give you victory.’"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then the officers shall say to the army: ‘Has anyone built a new house and not yet dedicated it? Let him go home, or he may die in battle and someone else dedicate it."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Has anyone planted a vineyard and not begun to enjoy it? Let him go home, or he may die in battle and someone else enjoy it."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Has anyone become engaged to a woman and not yet married her? Let him go home, or he may die in battle and someone else marry her.’"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Then the officers shall add: ‘Is anyone afraid or fainthearted? Let him go home so that his fellow soldiers will not become disheartened too.’"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "When the officers have finished speaking to the army, they shall appoint commanders over it."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "When you approach a city to fight against it, offer it terms of peace."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "If it accepts and opens its gates, all the people in it shall become forced labourers under your control."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "But if it refuses to make peace and wages war against you, then lay siege to it."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "When the Lord your God delivers it into your hands, put all the men to the sword."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But the women, children, livestock, and everything else in the city—you may take these as plunder for yourselves. You may enjoy the spoil from your enemies the Lord your God has given you."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "This is how you are to treat all the cities that are far from you and do not belong to the nearby nations."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "But in the cities of the nations the Lord your God is giving you as an inheritance, do not leave alive anything that breathes."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "You must completely destroy them—the Hittites, Amorites, Canaanites, Perizzites, Hivites, and Jebusites—as the Lord your God has commanded you,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "so that they do not teach you to imitate all the detestable things they do for their gods, and so that you do not sin against the Lord your God."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "When you lay siege to a city for a long time while fighting against it to capture it, do not destroy its trees by wielding an axe against them. You may eat their fruit, but do not cut them down. Are the trees of the field people, that you should besiege them?"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "However, you may cut down trees that you know are not fruit-bearing to build siege works against the city that is waging war against you, until it falls."
+            ]
+        }
+    ]
 }

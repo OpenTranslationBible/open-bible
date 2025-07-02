@@ -1,94 +1,138 @@
 {
-  "book": "Exodus",
-  "chapter": 3,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now Moses was tending the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God."
-    },
-    {
-      "verse": 2,
-      "text": "There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire, it was not consumed."
-    },
-    {
-      "verse": 3,
-      "text": "So Moses thought, \u201cI will go over and see this strange sight\u2014why the bush does not burn up.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "When the Lord saw that he had gone over to look, God called to him from within the bush, \u201cMoses! Moses!\u201d And Moses said, \u201cHere I am.\u201d"
-    },
-    {
-      "verse": 5,
-      "text": "\u201cDo not come any closer,\u201d God said. \u201cTake off your sandals, for the place where you are standing is holy ground.\u201d"
-    },
-    {
-      "verse": 6,
-      "text": "Then He said, \u201cI am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.\u201d At this, Moses hid his face, because he was afraid to look at God."
-    },
-    {
-      "verse": 7,
-      "text": "The Lord said, \u201cI have indeed seen the misery of My people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering."
-    },
-    {
-      "verse": 8,
-      "text": "So I have come down to rescue them from the hand of the Egyptians and bring them up out of that land into a good and spacious land, a land flowing with milk and honey..."
-    },
-    {
-      "verse": 9,
-      "text": "And now the cry of the Israelites has reached Me, and I have seen the way the Egyptians are oppressing them."
-    },
-    {
-      "verse": 10,
-      "text": "So now, go. I am sending you to Pharaoh to bring My people, the Israelites, out of Egypt.\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "But Moses said to God, \u201cWho am I that I should go to Pharaoh and bring the Israelites out of Egypt?\u201d"
-    },
-    {
-      "verse": 12,
-      "text": "And God said, \u201cI will be with you. And this will be the sign to you that it is I who have sent you: when you have brought the people out of Egypt, you will worship God on this mountain.\u201d"
-    },
-    {
-      "verse": 13,
-      "text": "Moses said to God, \u201cSuppose I go to the Israelites and say to them, \u2018The God of your fathers has sent me to you,\u2019 and they ask me, \u2018What is His name?\u2019 Then what shall I tell them?\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "God said to Moses, \u201cI AM WHO I AM. Tell the Israelites: \u2018I AM has sent me to you.\u2019\u201d"
-    },
-    {
-      "verse": 15,
-      "text": "God also said to Moses, \u201cSay to the Israelites: \u2018The Lord, the God of your fathers\u2014the God of Abraham, Isaac and Jacob\u2014has sent me to you.\u2019 This is My name forever."
-    },
-    {
-      "verse": 16,
-      "text": "Go, assemble the elders of Israel and say to them, \u2018The Lord, the God of your ancestors, appeared to me and said: I have watched over you and seen what has been done to you in Egypt."
-    },
-    {
-      "verse": 17,
-      "text": "And I have promised to bring you up out of your misery in Egypt into the land of the Canaanites... a land flowing with milk and honey.\u2019"
-    },
-    {
-      "verse": 18,
-      "text": "The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say, \u2018The Lord, the God of the Hebrews, has met with us.\u2019"
-    },
-    {
-      "verse": 19,
-      "text": "But I know that the king of Egypt will not let you go unless a mighty hand compels him."
-    },
-    {
-      "verse": 20,
-      "text": "So I will stretch out My hand and strike the Egyptians with all the wonders I will perform. After that, he will let you go."
-    },
-    {
-      "verse": 21,
-      "text": "And I will make the Egyptians favourably disposed toward this people, so that when you leave, you will not go empty-handed."
-    },
-    {
-      "verse": 22,
-      "text": "Every woman is to ask her neighbour for articles of silver and gold and for clothing, which you will put on your sons and daughters. So you will plunder the Egyptians."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now Moses was tending the flock of his father-in-law Jethro, the priest of Midian. He led the flock to the far side of the wilderness and came to Horeb, the mountain of God."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "There the angel of the Lord appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire, it was not consumed."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "So Moses thought, “I will go over and see this strange sight—why the bush does not burn up.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "When the Lord saw that he had gone over to look, God called to him from within the bush, “Moses! Moses!” And Moses said, “Here I am.”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "“Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then He said, “I am the God of your father, the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, because he was afraid to look at God."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "The Lord said, “I have indeed seen the misery of My people in Egypt. I have heard them crying out because of their slave drivers, and I am concerned about their suffering."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "So I have come down to rescue them from the hand of the Egyptians and bring them up out of that land into a good and spacious land, a land flowing with milk and honey..."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "And now the cry of the Israelites has reached Me, and I have seen the way the Egyptians are oppressing them."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "So now, go. I am sending you to Pharaoh to bring My people, the Israelites, out of Egypt.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "And God said, “I will be with you. And this will be the sign to you that it is I who have sent you: when you have brought the people out of Egypt, you will worship God on this mountain.”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Moses said to God, “Suppose I go to the Israelites and say to them, ‘The God of your fathers has sent me to you,’ and they ask me, ‘What is His name?’ Then what shall I tell them?”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "God said to Moses, “I AM WHO I AM. Tell the Israelites: ‘I AM has sent me to you.’”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "God also said to Moses, “Say to the Israelites: ‘The Lord, the God of your fathers—the God of Abraham, Isaac and Jacob—has sent me to you.’ This is My name forever."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Go, assemble the elders of Israel and say to them, ‘The Lord, the God of your ancestors, appeared to me and said: I have watched over you and seen what has been done to you in Egypt."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "And I have promised to bring you up out of your misery in Egypt into the land of the Canaanites... a land flowing with milk and honey.’"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say, ‘The Lord, the God of the Hebrews, has met with us.’"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "But I know that the king of Egypt will not let you go unless a mighty hand compels him."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "So I will stretch out My hand and strike the Egyptians with all the wonders I will perform. After that, he will let you go."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "And I will make the Egyptians favourably disposed toward this people, so that when you leave, you will not go empty-handed."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Every woman is to ask her neighbour for articles of silver and gold and for clothing, which you will put on your sons and daughters. So you will plunder the Egyptians."
+            ]
+        }
+    ]
 }

@@ -1,122 +1,180 @@
 {
-  "book": "Exodus",
-  "chapter": 37,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Bezalel made the ark out of acacia wood, two and a half cubits long, one and a half cubits wide, and one and a half cubits high."
-    },
-    {
-      "verse": 2,
-      "text": "He overlaid it with pure gold inside and out and made a gold moulding around it."
-    },
-    {
-      "verse": 3,
-      "text": "He cast four gold rings and attached them to its four feet, two rings on each side."
-    },
-    {
-      "verse": 4,
-      "text": "He made poles of acacia wood and overlaid them with gold."
-    },
-    {
-      "verse": 5,
-      "text": "He inserted the poles into the rings to carry the ark."
-    },
-    {
-      "verse": 6,
-      "text": "He made an atonement cover of pure gold, two and a half cubits long and one and a half cubits wide."
-    },
-    {
-      "verse": 7,
-      "text": "He made two cherubim of hammered gold at the ends of the cover."
-    },
-    {
-      "verse": 8,
-      "text": "One cherub was at one end, and the second cherub was at the other; both were of one piece with the cover."
-    },
-    {
-      "verse": 9,
-      "text": "The cherubim had wings spread upward, overshadowing the cover. They faced each other, looking toward the cover."
-    },
-    {
-      "verse": 10,
-      "text": "He made the table of acacia wood, two cubits long, one cubit wide, and one and a half cubits high."
-    },
-    {
-      "verse": 11,
-      "text": "He overlaid it with pure gold and made a gold moulding around it."
-    },
-    {
-      "verse": 12,
-      "text": "He made a rim a handbreadth wide and put a gold moulding on the rim."
-    },
-    {
-      "verse": 13,
-      "text": "He cast four gold rings and fastened them to the four corners of the table, where the legs were."
-    },
-    {
-      "verse": 14,
-      "text": "The rings were close to the rim to hold the poles for carrying the table."
-    },
-    {
-      "verse": 15,
-      "text": "He made the poles of acacia wood and overlaid them with gold."
-    },
-    {
-      "verse": 16,
-      "text": "He made the utensils for the table\u2014its plates, dishes, bowls, and pitchers\u2014from pure gold."
-    },
-    {
-      "verse": 17,
-      "text": "He made the lampstand out of pure gold. The base and shaft were hammered out, and its flowerlike cups, buds, and blossoms were of one piece with it."
-    },
-    {
-      "verse": 18,
-      "text": "Six branches extended from the sides\u2014three on one side and three on the other."
-    },
-    {
-      "verse": 19,
-      "text": "Each branch had three cups shaped like almond blossoms with buds and petals."
-    },
-    {
-      "verse": 20,
-      "text": "The lampstand itself had four cups shaped like almond blossoms with buds and petals."
-    },
-    {
-      "verse": 21,
-      "text": "A bud was under the first pair of branches, a second under the second pair, and a third under the third pair\u2014six branches in total."
-    },
-    {
-      "verse": 22,
-      "text": "The buds and branches were all one piece with the lampstand, hammered out of pure gold."
-    },
-    {
-      "verse": 23,
-      "text": "He made its seven lamps, wick trimmers, and trays of pure gold."
-    },
-    {
-      "verse": 24,
-      "text": "They used a talent of pure gold for the lampstand and all its accessories."
-    },
-    {
-      "verse": 25,
-      "text": "He made the altar of incense from acacia wood, a cubit square and two cubits high, with horns of one piece."
-    },
-    {
-      "verse": 26,
-      "text": "He overlaid the top, sides, and horns with pure gold and made a gold moulding around it."
-    },
-    {
-      "verse": 27,
-      "text": "He made two gold rings below the moulding on opposite sides to hold the poles for carrying it."
-    },
-    {
-      "verse": 28,
-      "text": "He made the poles of acacia wood and overlaid them with gold."
-    },
-    {
-      "verse": 29,
-      "text": "He also made the holy anointing oil and the pure, fragrant incense\u2014the work of a perfumer."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 37,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Bezalel made the ark out of acacia wood, two and a half cubits long, one and a half cubits wide, and one and a half cubits high."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "He overlaid it with pure gold inside and out and made a gold moulding around it."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He cast four gold rings and attached them to its four feet, two rings on each side."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "He made poles of acacia wood and overlaid them with gold."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "He inserted the poles into the rings to carry the ark."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "He made an atonement cover of pure gold, two and a half cubits long and one and a half cubits wide."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "He made two cherubim of hammered gold at the ends of the cover."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "One cherub was at one end, and the second cherub was at the other; both were of one piece with the cover."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "The cherubim had wings spread upward, overshadowing the cover. They faced each other, looking toward the cover."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "He made the table of acacia wood, two cubits long, one cubit wide, and one and a half cubits high."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "He overlaid it with pure gold and made a gold moulding around it."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "He made a rim a handbreadth wide and put a gold moulding on the rim."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "He cast four gold rings and fastened them to the four corners of the table, where the legs were."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "The rings were close to the rim to hold the poles for carrying the table."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "He made the poles of acacia wood and overlaid them with gold."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "He made the utensils for the table—its plates, dishes, bowls, and pitchers—from pure gold."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "He made the lampstand out of pure gold. The base and shaft were hammered out, and its flowerlike cups, buds, and blossoms were of one piece with it."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Six branches extended from the sides—three on one side and three on the other."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Each branch had three cups shaped like almond blossoms with buds and petals."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "The lampstand itself had four cups shaped like almond blossoms with buds and petals."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "A bud was under the first pair of branches, a second under the second pair, and a third under the third pair—six branches in total."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "The buds and branches were all one piece with the lampstand, hammered out of pure gold."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "He made its seven lamps, wick trimmers, and trays of pure gold."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "They used a talent of pure gold for the lampstand and all its accessories."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "He made the altar of incense from acacia wood, a cubit square and two cubits high, with horns of one piece."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "He overlaid the top, sides, and horns with pure gold and made a gold moulding around it."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "He made two gold rings below the moulding on opposite sides to hold the poles for carrying it."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "He made the poles of acacia wood and overlaid them with gold."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "He also made the holy anointing oil and the pure, fragrant incense—the work of a perfumer."
+            ]
+        }
+    ]
 }

@@ -1,242 +1,360 @@
 {
-  "book": "Leviticus",
-  "chapter": 13,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses and Aaron,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cWhen anyone has a swelling or rash or discolouration on their skin that may be a defiling skin disease, they must be brought to Aaron the priest or one of his sons."
-    },
-    {
-      "verse": 3,
-      "text": "The priest is to examine the skin. If the hair in the sore has turned white and the sore appears deeper than the skin, it is a defiling disease. The priest must pronounce them unclean."
-    },
-    {
-      "verse": 4,
-      "text": "If the sore has not changed in colour or does not appear to be deeper than the skin and there is no white hair in it, the priest must isolate the person for seven days."
-    },
-    {
-      "verse": 5,
-      "text": "On the seventh day, the priest shall examine them. If the sore remains unchanged and has not spread, they must be isolated for another seven days."
-    },
-    {
-      "verse": 6,
-      "text": "After that, if the sore has faded and not spread, the priest shall pronounce them clean\u2014it was only a rash. They must wash their clothes."
-    },
-    {
-      "verse": 7,
-      "text": "But if the rash spreads after the priest has pronounced them clean, they must go back to the priest."
-    },
-    {
-      "verse": 8,
-      "text": "The priest will examine them again, and if the rash has spread, they are unclean."
-    },
-    {
-      "verse": 9,
-      "text": "If someone has a defiling disease, they must be brought to the priest."
-    },
-    {
-      "verse": 10,
-      "text": "The priest is to examine them, and if there is a white swelling and raw flesh in it,"
-    },
-    {
-      "verse": 11,
-      "text": "it is a chronic disease. The priest shall declare them unclean without isolating them\u2014they are already unclean."
-    },
-    {
-      "verse": 12,
-      "text": "If the disease spreads and covers the skin completely,"
-    },
-    {
-      "verse": 13,
-      "text": "then the priest is to pronounce them clean, provided all the skin has turned white\u2014they are clean."
-    },
-    {
-      "verse": 14,
-      "text": "But if raw flesh appears, they are unclean."
-    },
-    {
-      "verse": 15,
-      "text": "The priest is to examine the raw flesh and declare them unclean. Raw flesh indicates impurity."
-    },
-    {
-      "verse": 16,
-      "text": "If the raw flesh turns white again, the person must go back to the priest."
-    },
-    {
-      "verse": 17,
-      "text": "The priest shall re-examine, and if the sore has turned white, they are clean."
-    },
-    {
-      "verse": 18,
-      "text": "If someone has a boil and it heals,"
-    },
-    {
-      "verse": 19,
-      "text": "but a white swelling or reddish-white spot appears where the boil was, they must show themselves to the priest."
-    },
-    {
-      "verse": 20,
-      "text": "If it seems deeper than the skin and the hair has turned white, it is a defiling disease. The priest must declare them unclean."
-    },
-    {
-      "verse": 21,
-      "text": "If it does not appear deeper and there is no white hair, the person must be isolated."
-    },
-    {
-      "verse": 22,
-      "text": "If the sore spreads, they are unclean."
-    },
-    {
-      "verse": 23,
-      "text": "But if it stays the same, it is only a scar from the boil."
-    },
-    {
-      "verse": 24,
-      "text": "If someone has a burn on their skin and it becomes a reddish-white or white spot,"
-    },
-    {
-      "verse": 25,
-      "text": "the priest shall examine it. If the hair in the spot has turned white and it appears deeper, it is a defiling disease. The person is unclean."
-    },
-    {
-      "verse": 26,
-      "text": "If there is no white hair and the spot is not deeper than the skin, the priest shall isolate them."
-    },
-    {
-      "verse": 27,
-      "text": "If it spreads, they are unclean. If it remains the same, it is only a burn scar."
-    },
-    {
-      "verse": 28,
-      "text": "If someone, male or female, has a sore on the head or chin,"
-    },
-    {
-      "verse": 29,
-      "text": "the priest shall examine the sore. If it appears deeper than the skin and the hair is thin and yellow, they are unclean\u2014it is a defiling disease."
-    },
-    {
-      "verse": 30,
-      "text": "If it does not appear deeper and there is no black hair, the priest must isolate the person."
-    },
-    {
-      "verse": 31,
-      "text": "If after seven days it has not spread and no yellow hair appears, they are clean."
-    },
-    {
-      "verse": 32,
-      "text": "If the sore spreads and yellow hair appears, the person is unclean."
-    },
-    {
-      "verse": 33,
-      "text": "They must shave around the sore but not touch the sore itself."
-    },
-    {
-      "verse": 34,
-      "text": "If the area does not spread, the person must wash their clothes and they will be clean."
-    },
-    {
-      "verse": 35,
-      "text": "But if it spreads after they have been pronounced clean, they must go to the priest again."
-    },
-    {
-      "verse": 36,
-      "text": "The priest will examine them and declare them unclean if it has spread."
-    },
-    {
-      "verse": 37,
-      "text": "If the sore has not spread and black hair has grown back, the person is clean."
-    },
-    {
-      "verse": 38,
-      "text": "If someone has white patches on the skin, the priest must examine them."
-    },
-    {
-      "verse": 39,
-      "text": "If the patches are dull white, it is a harmless rash and the person is clean."
-    },
-    {
-      "verse": 40,
-      "text": "If a man loses his hair and becomes bald, he is clean."
-    },
-    {
-      "verse": 41,
-      "text": "If he loses hair from the front of his scalp, he is clean."
-    },
-    {
-      "verse": 42,
-      "text": "But if a reddish-white sore appears on the bald head or forehead, it is a defiling disease."
-    },
-    {
-      "verse": 43,
-      "text": "The priest must examine it, and if it resembles a skin disease, the man is unclean."
-    },
-    {
-      "verse": 44,
-      "text": "He must be pronounced unclean. The disease is on his head."
-    },
-    {
-      "verse": 45,
-      "text": "Anyone with such a disease must wear torn clothes, let their hair be unkempt, cover the lower part of their face and cry out, \u2018Unclean! Unclean!\u2019"
-    },
-    {
-      "verse": 46,
-      "text": "As long as they have the disease, they remain unclean and must live outside the camp."
-    },
-    {
-      "verse": 47,
-      "text": "If any fabric\u2014wool or linen\u2014has a defiling mould,"
-    },
-    {
-      "verse": 48,
-      "text": "whether woven or knitted, or any leather article,"
-    },
-    {
-      "verse": 49,
-      "text": "and if the spot is greenish or reddish, it must be shown to the priest."
-    },
-    {
-      "verse": 50,
-      "text": "The priest shall examine it and isolate it for seven days."
-    },
-    {
-      "verse": 51,
-      "text": "If the mould has spread, it is a defiling mould and the article is unclean."
-    },
-    {
-      "verse": 52,
-      "text": "He must burn the fabric or leather because the mould is persistent."
-    },
-    {
-      "verse": 53,
-      "text": "But if the mould has not spread, he shall wash the article."
-    },
-    {
-      "verse": 54,
-      "text": "Then he must isolate it for another seven days."
-    },
-    {
-      "verse": 55,
-      "text": "If it has faded, he is to tear out the affected part."
-    },
-    {
-      "verse": 56,
-      "text": "If the mould reappears, it must be burned."
-    },
-    {
-      "verse": 57,
-      "text": "But if it disappears after washing, it must be washed again, and it will be clean."
-    },
-    {
-      "verse": 58,
-      "text": "These are the regulations for defiling moulds in fabrics or leather."
-    },
-    {
-      "verse": 59,
-      "text": "To determine whether it is clean or unclean."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses and Aaron,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“When anyone has a swelling or rash or discolouration on their skin that may be a defiling skin disease, they must be brought to Aaron the priest or one of his sons."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "The priest is to examine the skin. If the hair in the sore has turned white and the sore appears deeper than the skin, it is a defiling disease. The priest must pronounce them unclean."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "If the sore has not changed in colour or does not appear to be deeper than the skin and there is no white hair in it, the priest must isolate the person for seven days."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "On the seventh day, the priest shall examine them. If the sore remains unchanged and has not spread, they must be isolated for another seven days."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "After that, if the sore has faded and not spread, the priest shall pronounce them clean—it was only a rash. They must wash their clothes."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "But if the rash spreads after the priest has pronounced them clean, they must go back to the priest."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The priest will examine them again, and if the rash has spread, they are unclean."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "If someone has a defiling disease, they must be brought to the priest."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The priest is to examine them, and if there is a white swelling and raw flesh in it,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "it is a chronic disease. The priest shall declare them unclean without isolating them—they are already unclean."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "If the disease spreads and covers the skin completely,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "then the priest is to pronounce them clean, provided all the skin has turned white—they are clean."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But if raw flesh appears, they are unclean."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "The priest is to examine the raw flesh and declare them unclean. Raw flesh indicates impurity."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "If the raw flesh turns white again, the person must go back to the priest."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "The priest shall re-examine, and if the sore has turned white, they are clean."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "If someone has a boil and it heals,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "but a white swelling or reddish-white spot appears where the boil was, they must show themselves to the priest."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "If it seems deeper than the skin and the hair has turned white, it is a defiling disease. The priest must declare them unclean."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "If it does not appear deeper and there is no white hair, the person must be isolated."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "If the sore spreads, they are unclean."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "But if it stays the same, it is only a scar from the boil."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "If someone has a burn on their skin and it becomes a reddish-white or white spot,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "the priest shall examine it. If the hair in the spot has turned white and it appears deeper, it is a defiling disease. The person is unclean."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "If there is no white hair and the spot is not deeper than the skin, the priest shall isolate them."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "If it spreads, they are unclean. If it remains the same, it is only a burn scar."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "If someone, male or female, has a sore on the head or chin,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "the priest shall examine the sore. If it appears deeper than the skin and the hair is thin and yellow, they are unclean—it is a defiling disease."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "If it does not appear deeper and there is no black hair, the priest must isolate the person."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "If after seven days it has not spread and no yellow hair appears, they are clean."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "If the sore spreads and yellow hair appears, the person is unclean."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "They must shave around the sore but not touch the sore itself."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "If the area does not spread, the person must wash their clothes and they will be clean."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "But if it spreads after they have been pronounced clean, they must go to the priest again."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "The priest will examine them and declare them unclean if it has spread."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "If the sore has not spread and black hair has grown back, the person is clean."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "If someone has white patches on the skin, the priest must examine them."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "If the patches are dull white, it is a harmless rash and the person is clean."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "If a man loses his hair and becomes bald, he is clean."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "If he loses hair from the front of his scalp, he is clean."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "But if a reddish-white sore appears on the bald head or forehead, it is a defiling disease."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "The priest must examine it, and if it resembles a skin disease, the man is unclean."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "He must be pronounced unclean. The disease is on his head."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Anyone with such a disease must wear torn clothes, let their hair be unkempt, cover the lower part of their face and cry out, ‘Unclean! Unclean!’"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "As long as they have the disease, they remain unclean and must live outside the camp."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "If any fabric—wool or linen—has a defiling mould,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "whether woven or knitted, or any leather article,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "and if the spot is greenish or reddish, it must be shown to the priest."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "The priest shall examine it and isolate it for seven days."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "If the mould has spread, it is a defiling mould and the article is unclean."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "He must burn the fabric or leather because the mould is persistent."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "But if the mould has not spread, he shall wash the article."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Then he must isolate it for another seven days."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "If it has faded, he is to tear out the affected part."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "If the mould reappears, it must be burned."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "But if it disappears after washing, it must be washed again, and it will be clean."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "These are the regulations for defiling moulds in fabrics or leather."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "To determine whether it is clean or unclean."
+            ]
+        }
+    ]
 }

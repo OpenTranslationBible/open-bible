@@ -1,94 +1,134 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 30,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "When all these things come upon you—the blessing and the curse that I have set before you—and you take them to heart among all the nations where the Lord your God has driven you,"
-    },
-    {
-      "verse": 2,
-      "text": "and you return to the Lord your God, you and your children, and obey His voice with all your heart and with all your soul, according to all that I command you today,"
-    },
-    {
-      "verse": 3,
-      "text": "then the Lord your God will restore your fortunes and have compassion on you, and He will gather you again from all the peoples where the Lord your God has scattered you."
-    },
-    {
-      "verse": 4,
-      "text": "Even if your outcasts are at the farthest ends of the heavens, from there the Lord your God will gather you, and from there He will bring you back."
-    },
-    {
-      "verse": 5,
-      "text": "The Lord your God will bring you into the land that your ancestors possessed, and you will possess it. He will make you prosper and multiply more than your ancestors."
-    },
-    {
-      "verse": 6,
-      "text": "The Lord your God will circumcise your heart and the heart of your descendants, so that you will love the Lord your God with all your heart and with all your soul, and you will live."
-    },
-    {
-      "verse": 7,
-      "text": "The Lord your God will place all these curses on your enemies and on those who hate you, who persecuted you."
-    },
-    {
-      "verse": 8,
-      "text": "You will again obey the voice of the Lord and follow all His commands that I am giving you today."
-    },
-    {
-      "verse": 9,
-      "text": "The Lord your God will make you abound in prosperity, in the fruit of your womb, the offspring of your livestock, and the produce of your ground, in the land that the Lord swore to your ancestors to give you."
-    },
-    {
-      "verse": 10,
-      "text": "This will happen if you obey the voice of the Lord your God, keeping His commands and statutes written in this book of the law, and if you turn to the Lord your God with all your heart and with all your soul."
-    },
-    { "verse": null },
-    {
-      "verse": 11,
-      "text": "For this commandment that I give you today is not too difficult for you, nor is it beyond your reach."
-    },
-    {
-      "verse": 12,
-      "text": "It is not in heaven, that you should say, ‘Who will ascend to heaven for us and bring it to us, that we may hear it and do it?’"
-    },
-    {
-      "verse": 13,
-      "text": "Nor is it beyond the sea, that you should say, ‘Who will cross the sea for us and bring it to us, that we may hear it and do it?’"
-    },
-    {
-      "verse": 14,
-      "text": "But the word is very near you, in your mouth and in your heart, so that you can do it."
-    },
-    { "verse": null },
-    {
-      "verse": 15,
-      "text": "See, I have set before you today life and prosperity, death and adversity."
-    },
-    {
-      "verse": 16,
-      "text": "For I command you today to love the Lord your God, to walk in His ways, and to keep His commands, statutes, and judgements, so that you may live and multiply, and the Lord your God may bless you in the land you are entering to possess."
-    },
-    {
-      "verse": 17,
-      "text": "But if your heart turns away and you will not hear, but are drawn away to worship other gods and serve them,"
-    },
-    {
-      "verse": 18,
-      "text": "I declare to you today that you will surely perish. You will not live long in the land you are crossing the Jordan to enter and possess."
-    },
-    {
-      "verse": 19,
-      "text": [
-        "I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse.",
-        "> Therefore choose life, that you and your descendants may live,"
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "loving the Lord your God, obeying His voice, and holding fast to Him, for He is your life and the length of your days,",
-        "> that you may dwell in the land that the Lord swore to your ancestors, to Abraham, to Isaac, and to Jacob, to give them."
-      ]
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 30,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "When all these things come upon you—the blessing and the curse that I have set before you—and you take them to heart among all the nations where the Lord your God has driven you,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "and you return to the Lord your God, you and your children, and obey His voice with all your heart and with all your soul, according to all that I command you today,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "then the Lord your God will restore your fortunes and have compassion on you, and He will gather you again from all the peoples where the Lord your God has scattered you."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Even if your outcasts are at the farthest ends of the heavens, from there the Lord your God will gather you, and from there He will bring you back."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The Lord your God will bring you into the land that your ancestors possessed, and you will possess it. He will make you prosper and multiply more than your ancestors."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "The Lord your God will circumcise your heart and the heart of your descendants, so that you will love the Lord your God with all your heart and with all your soul, and you will live."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "The Lord your God will place all these curses on your enemies and on those who hate you, who persecuted you."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "You will again obey the voice of the Lord and follow all His commands that I am giving you today."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "The Lord your God will make you abound in prosperity, in the fruit of your womb, the offspring of your livestock, and the produce of your ground, in the land that the Lord swore to your ancestors to give you."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "This will happen if you obey the voice of the Lord your God, keeping His commands and statutes written in this book of the law, and if you turn to the Lord your God with all your heart and with all your soul."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 11,
+            "text": [
+                "For this commandment that I give you today is not too difficult for you, nor is it beyond your reach."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "It is not in heaven, that you should say, ‘Who will ascend to heaven for us and bring it to us, that we may hear it and do it?’"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Nor is it beyond the sea, that you should say, ‘Who will cross the sea for us and bring it to us, that we may hear it and do it?’"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But the word is very near you, in your mouth and in your heart, so that you can do it."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 15,
+            "text": [
+                "See, I have set before you today life and prosperity, death and adversity."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "For I command you today to love the Lord your God, to walk in His ways, and to keep His commands, statutes, and judgements, so that you may live and multiply, and the Lord your God may bless you in the land you are entering to possess."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "But if your heart turns away and you will not hear, but are drawn away to worship other gods and serve them,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "I declare to you today that you will surely perish. You will not live long in the land you are crossing the Jordan to enter and possess."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "I call heaven and earth to witness against you today, that I have set before you life and death, blessing and curse.",
+                "> Therefore choose life, that you and your descendants may live,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "loving the Lord your God, obeying His voice, and holding fast to Him, for He is your life and the length of your days,",
+                "> that you may dwell in the land that the Lord swore to your ancestors, to Abraham, to Isaac, and to Jacob, to give them."
+            ]
+        }
+    ]
 }

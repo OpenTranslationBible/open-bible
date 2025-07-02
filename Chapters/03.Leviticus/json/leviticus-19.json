@@ -1,154 +1,228 @@
 {
-  "book": "Leviticus",
-  "chapter": 19,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSpeak to the entire assembly of Israel and say to them: Be holy, because I, the Lord your God, am holy."
-    },
-    {
-      "verse": 3,
-      "text": "Each of you must respect your mother and father, and you must keep My Sabbaths. I am the Lord your God."
-    },
-    {
-      "verse": 4,
-      "text": "Do not turn to idols or make metal gods for yourselves. I am the Lord your God."
-    },
-    {
-      "verse": 5,
-      "text": "When you sacrifice a fellowship offering to the Lord, do it so it will be accepted."
-    },
-    {
-      "verse": 6,
-      "text": "It must be eaten on the day you sacrifice it or the next day. Anything left until the third day must be burned."
-    },
-    {
-      "verse": 7,
-      "text": "If any is eaten on the third day, it is impure and will not be accepted."
-    },
-    {
-      "verse": 8,
-      "text": "Anyone who eats it will bear the consequences and be cut off."
-    },
-    {
-      "verse": 9,
-      "text": "When you reap your harvest, do not harvest to the edges or gather the gleanings."
-    },
-    {
-      "verse": 10,
-      "text": "Do not go over your vineyard a second time or pick up fallen grapes. Leave them for the poor and the foreigner."
-    },
-    {
-      "verse": 11,
-      "text": "Do not steal. Do not lie. Do not deceive one another."
-    },
-    {
-      "verse": 12,
-      "text": "Do not swear falsely by My name."
-    },
-    {
-      "verse": 13,
-      "text": "Do not defraud or rob your neighbour. Do not hold back a worker\u2019s wages."
-    },
-    {
-      "verse": 14,
-      "text": "Do not curse the deaf or put a stumbling block in front of the blind."
-    },
-    {
-      "verse": 15,
-      "text": "Do not pervert justice. Do not show partiality to the poor or favouritism to the great."
-    },
-    {
-      "verse": 16,
-      "text": "Do not spread slander or endanger your neighbour\u2019s life."
-    },
-    {
-      "verse": 17,
-      "text": "Do not hate a fellow Israelite in your heart. Rebuke your neighbour frankly so you will not share in their guilt."
-    },
-    {
-      "verse": 18,
-      "text": "Do not seek revenge or bear a grudge. Love your neighbour as yourself. I am the Lord."
-    },
-    {
-      "verse": 19,
-      "text": "Keep My decrees. Do not mate different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material."
-    },
-    {
-      "verse": 20,
-      "text": "If a man sleeps with a slave woman promised to another man but not yet redeemed or freed, there must be punishment, but not death. They must bring a guilt offering."
-    },
-    {
-      "verse": 21,
-      "text": "The priest shall make atonement for him with the ram of the guilt offering."
-    },
-    {
-      "verse": 22,
-      "text": "The priest shall make atonement, and he will be forgiven."
-    },
-    {
-      "verse": 23,
-      "text": "When you enter the land and plant trees, consider the fruit forbidden for three years."
-    },
-    {
-      "verse": 24,
-      "text": "In the fourth year all the fruit is holy and an offering of praise."
-    },
-    {
-      "verse": 25,
-      "text": "In the fifth year you may eat its fruit."
-    },
-    {
-      "verse": 26,
-      "text": "Do not eat meat with blood still in it."
-    },
-    {
-      "verse": 27,
-      "text": "Do not practise divination or seek omens."
-    },
-    {
-      "verse": 28,
-      "text": "Do not cut your bodies or tattoo yourselves."
-    },
-    {
-      "verse": 29,
-      "text": "Do not degrade your daughter by making her a prostitute."
-    },
-    {
-      "verse": 30,
-      "text": "Observe My Sabbaths and revere My sanctuary."
-    },
-    {
-      "verse": 31,
-      "text": "Do not turn to mediums or spiritists."
-    },
-    {
-      "verse": 32,
-      "text": "Stand up in the presence of the aged, show respect for the elderly."
-    },
-    {
-      "verse": 33,
-      "text": "Do not mistreat or oppress a foreigner."
-    },
-    {
-      "verse": 34,
-      "text": "The foreigner living among you must be treated as your native-born. Love them as yourself."
-    },
-    {
-      "verse": 35,
-      "text": "Do not use dishonest standards in measurements."
-    },
-    {
-      "verse": 36,
-      "text": "Use honest scales, weights, and measures. I am the Lord your God."
-    },
-    {
-      "verse": 37,
-      "text": "Keep all My decrees and laws and follow them. I am the Lord."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Speak to the entire assembly of Israel and say to them: Be holy, because I, the Lord your God, am holy."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Each of you must respect your mother and father, and you must keep My Sabbaths. I am the Lord your God."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Do not turn to idols or make metal gods for yourselves. I am the Lord your God."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "When you sacrifice a fellowship offering to the Lord, do it so it will be accepted."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "It must be eaten on the day you sacrifice it or the next day. Anything left until the third day must be burned."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "If any is eaten on the third day, it is impure and will not be accepted."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Anyone who eats it will bear the consequences and be cut off."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "When you reap your harvest, do not harvest to the edges or gather the gleanings."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Do not go over your vineyard a second time or pick up fallen grapes. Leave them for the poor and the foreigner."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Do not steal. Do not lie. Do not deceive one another."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Do not swear falsely by My name."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Do not defraud or rob your neighbour. Do not hold back a worker’s wages."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Do not curse the deaf or put a stumbling block in front of the blind."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Do not pervert justice. Do not show partiality to the poor or favouritism to the great."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Do not spread slander or endanger your neighbour’s life."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Do not hate a fellow Israelite in your heart. Rebuke your neighbour frankly so you will not share in their guilt."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Do not seek revenge or bear a grudge. Love your neighbour as yourself. I am the Lord."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Keep My decrees. Do not mate different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "If a man sleeps with a slave woman promised to another man but not yet redeemed or freed, there must be punishment, but not death. They must bring a guilt offering."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "The priest shall make atonement for him with the ram of the guilt offering."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "The priest shall make atonement, and he will be forgiven."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "When you enter the land and plant trees, consider the fruit forbidden for three years."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "In the fourth year all the fruit is holy and an offering of praise."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "In the fifth year you may eat its fruit."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Do not eat meat with blood still in it."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Do not practise divination or seek omens."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Do not cut your bodies or tattoo yourselves."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Do not degrade your daughter by making her a prostitute."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Observe My Sabbaths and revere My sanctuary."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Do not turn to mediums or spiritists."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Stand up in the presence of the aged, show respect for the elderly."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Do not mistreat or oppress a foreigner."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "The foreigner living among you must be treated as your native-born. Love them as yourself."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Do not use dishonest standards in measurements."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Use honest scales, weights, and measures. I am the Lord your God."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Keep all My decrees and laws and follow them. I am the Lord."
+            ]
+        }
+    ]
 }

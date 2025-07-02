@@ -1,98 +1,144 @@
 {
-  "book": "Leviticus",
-  "chapter": 24,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cCommand the Israelites to bring you clear oil from pressed olives for the lamps, so they can be kept burning continually."
-    },
-    {
-      "verse": 3,
-      "text": "Aaron is to keep the lamps burning continually from evening till morning before the Lord, outside the curtain of the covenant law in the tent of meeting. This is to be a lasting ordinance for the generations to come."
-    },
-    {
-      "verse": 4,
-      "text": "The lamps on the pure gold lampstand before the Lord must be tended continually."
-    },
-    {
-      "verse": 5,
-      "text": "Take the finest flour and bake twelve loaves of bread, using two-tenths of an ephah for each loaf."
-    },
-    {
-      "verse": 6,
-      "text": "Arrange them in two stacks, six in each stack, on the table of pure gold before the Lord."
-    },
-    {
-      "verse": 7,
-      "text": "Put pure incense along each stack to serve as a memorial portion and food offering to the Lord."
-    },
-    {
-      "verse": 8,
-      "text": "Every Sabbath, Aaron is to arrange them before the Lord regularly, as a lasting covenant. This is for the Israelites."
-    },
-    {
-      "verse": 9,
-      "text": "The bread belongs to Aaron and his sons. They are to eat it in the sanctuary area, because it is a most holy part of their perpetual share of food offerings."
-    },
-    {
-      "verse": 10,
-      "text": "Now a man who was the son of an Israelite mother and an Egyptian father went out among the Israelites, and a fight broke out in the camp between him and a full Israelite."
-    },
-    {
-      "verse": 11,
-      "text": "The son of the Israelite woman blasphemed the Name with a curse; so they brought him to Moses. (His mother\u2019s name was Shelomith, the daughter of Dibri, of the tribe of Dan.)"
-    },
-    {
-      "verse": 12,
-      "text": "They put him in custody until the Lord\u2019s will could be made clear to them."
-    },
-    {
-      "verse": 13,
-      "text": "Then the Lord said to Moses:"
-    },
-    {
-      "verse": 14,
-      "text": "\u201cTake the blasphemer outside the camp. All those who heard him are to lay their hands on his head, and the entire assembly is to stone him."
-    },
-    {
-      "verse": 15,
-      "text": "Say to the Israelites: Anyone who curses their God will be held responsible."
-    },
-    {
-      "verse": 16,
-      "text": "Anyone who blasphemes the name of the Lord is to be put to death. The whole assembly must stone them\u2014whether foreigner or native-born\u2014when they blaspheme the Name."
-    },
-    {
-      "verse": 17,
-      "text": "Anyone who takes the life of a human being is to be put to death."
-    },
-    {
-      "verse": 18,
-      "text": "Anyone who takes the life of an animal must make restitution\u2014life for life."
-    },
-    {
-      "verse": 19,
-      "text": "Anyone who injures their neighbour is to be injured in the same manner:"
-    },
-    {
-      "verse": 20,
-      "text": "Fracture for fracture, eye for eye, tooth for tooth. The one who has inflicted the injury must suffer the same injury."
-    },
-    {
-      "verse": 21,
-      "text": "Whoever kills an animal must make restitution, but whoever kills a human being is to be put to death."
-    },
-    {
-      "verse": 22,
-      "text": "You are to have the same law for the foreigner and the native-born. I am the Lord your God."
-    },
-    {
-      "verse": 23,
-      "text": "Then Moses spoke to the Israelites, and they took the blasphemer outside the camp and stoned him. The Israelites did as the Lord commanded Moses."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 24,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Command the Israelites to bring you clear oil from pressed olives for the lamps, so they can be kept burning continually."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Aaron is to keep the lamps burning continually from evening till morning before the Lord, outside the curtain of the covenant law in the tent of meeting. This is to be a lasting ordinance for the generations to come."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "The lamps on the pure gold lampstand before the Lord must be tended continually."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Take the finest flour and bake twelve loaves of bread, using two-tenths of an ephah for each loaf."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Arrange them in two stacks, six in each stack, on the table of pure gold before the Lord."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Put pure incense along each stack to serve as a memorial portion and food offering to the Lord."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Every Sabbath, Aaron is to arrange them before the Lord regularly, as a lasting covenant. This is for the Israelites."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "The bread belongs to Aaron and his sons. They are to eat it in the sanctuary area, because it is a most holy part of their perpetual share of food offerings."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Now a man who was the son of an Israelite mother and an Egyptian father went out among the Israelites, and a fight broke out in the camp between him and a full Israelite."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The son of the Israelite woman blasphemed the Name with a curse; so they brought him to Moses. (His mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan.)"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "They put him in custody until the Lord’s will could be made clear to them."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Then the Lord said to Moses:"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "“Take the blasphemer outside the camp. All those who heard him are to lay their hands on his head, and the entire assembly is to stone him."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Say to the Israelites: Anyone who curses their God will be held responsible."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Anyone who blasphemes the name of the Lord is to be put to death. The whole assembly must stone them—whether foreigner or native-born—when they blaspheme the Name."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Anyone who takes the life of a human being is to be put to death."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Anyone who takes the life of an animal must make restitution—life for life."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Anyone who injures their neighbour is to be injured in the same manner:"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Fracture for fracture, eye for eye, tooth for tooth. The one who has inflicted the injury must suffer the same injury."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Whoever kills an animal must make restitution, but whoever kills a human being is to be put to death."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "You are to have the same law for the foreigner and the native-born. I am the Lord your God."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Then Moses spoke to the Israelites, and they took the blasphemer outside the camp and stoned him. The Israelites did as the Lord commanded Moses."
+            ]
+        }
+    ]
 }

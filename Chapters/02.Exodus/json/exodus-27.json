@@ -1,90 +1,132 @@
 {
-  "book": "Exodus",
-  "chapter": 27,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "\u201cBuild an altar of acacia wood, five cubits long and five cubits wide\u2014it is to be square\u2014and three cubits high."
-    },
-    {
-      "verse": 2,
-      "text": "Make a horn at each of the four corners, so that the horns and the altar form one piece. Overlay the altar with bronze."
-    },
-    {
-      "verse": 3,
-      "text": "Make all its utensils of bronze\u2014its pots to remove the ashes, shovels, sprinkling bowls, meat forks and firepans."
-    },
-    {
-      "verse": 4,
-      "text": "Make a grating for it, a bronze network, and make a bronze ring at each of the four corners of the net."
-    },
-    {
-      "verse": 5,
-      "text": "Put it under the ledge of the altar so that it is halfway up the altar."
-    },
-    {
-      "verse": 6,
-      "text": "Make poles of acacia wood for the altar and overlay them with bronze."
-    },
-    {
-      "verse": 7,
-      "text": "Insert the poles into the rings so they will be on two sides of the altar when it is carried."
-    },
-    {
-      "verse": 8,
-      "text": "Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain."
-    },
-    {
-      "verse": 9,
-      "text": "\u201cMake a courtyard for the tabernacle. The south side shall be a hundred cubits long and is to have curtains of finely twisted linen,"
-    },
-    {
-      "verse": 10,
-      "text": "with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts."
-    },
-    {
-      "verse": 11,
-      "text": "The north side shall also be a hundred cubits long and have twenty posts and twenty bronze bases, with silver hooks and bands on the posts."
-    },
-    {
-      "verse": 12,
-      "text": "The west end of the courtyard shall be fifty cubits wide and have curtains, with ten posts and ten bases."
-    },
-    {
-      "verse": 13,
-      "text": "The east end, toward the sunrise, shall also be fifty cubits wide."
-    },
-    {
-      "verse": 14,
-      "text": "Curtains fifteen cubits long are to be on one side of the entrance, with three posts and three bases,"
-    },
-    {
-      "verse": 15,
-      "text": "and on the other side, fifteen cubits of curtains, with three posts and three bases."
-    },
-    {
-      "verse": 16,
-      "text": "For the entrance to the courtyard, provide a curtain twenty cubits long, of blue, purple and scarlet yarn and finely twisted linen\u2014the work of an embroiderer\u2014with four posts and four bases."
-    },
-    {
-      "verse": 17,
-      "text": "All the posts around the courtyard are to have silver bands and hooks, and bronze bases."
-    },
-    {
-      "verse": 18,
-      "text": "The courtyard shall be a hundred cubits long and fifty cubits wide, with curtains of finely twisted linen five cubits high, and with bronze bases."
-    },
-    {
-      "verse": 19,
-      "text": "All the other articles used in the service of the tabernacle, including all the tent pegs for it and for the courtyard, are to be made of bronze."
-    },
-    {
-      "verse": 20,
-      "text": "\u201cCommand the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning."
-    },
-    {
-      "verse": 21,
-      "text": "In the tent of meeting, outside the curtain that shields the ark of the covenant law, Aaron and his sons shall keep the lamps burning before the Lord from evening till morning. This is to be a lasting ordinance among the Israelites for generations to come."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "“Build an altar of acacia wood, five cubits long and five cubits wide—it is to be square—and three cubits high."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Make a horn at each of the four corners, so that the horns and the altar form one piece. Overlay the altar with bronze."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Make all its utensils of bronze—its pots to remove the ashes, shovels, sprinkling bowls, meat forks and firepans."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Make a grating for it, a bronze network, and make a bronze ring at each of the four corners of the net."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Put it under the ledge of the altar so that it is halfway up the altar."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Make poles of acacia wood for the altar and overlay them with bronze."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Insert the poles into the rings so they will be on two sides of the altar when it is carried."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "“Make a courtyard for the tabernacle. The south side shall be a hundred cubits long and is to have curtains of finely twisted linen,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The north side shall also be a hundred cubits long and have twenty posts and twenty bronze bases, with silver hooks and bands on the posts."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The west end of the courtyard shall be fifty cubits wide and have curtains, with ten posts and ten bases."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "The east end, toward the sunrise, shall also be fifty cubits wide."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Curtains fifteen cubits long are to be on one side of the entrance, with three posts and three bases,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "and on the other side, fifteen cubits of curtains, with three posts and three bases."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "For the entrance to the courtyard, provide a curtain twenty cubits long, of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer—with four posts and four bases."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "All the posts around the courtyard are to have silver bands and hooks, and bronze bases."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "The courtyard shall be a hundred cubits long and fifty cubits wide, with curtains of finely twisted linen five cubits high, and with bronze bases."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "All the other articles used in the service of the tabernacle, including all the tent pegs for it and for the courtyard, are to be made of bronze."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "“Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "In the tent of meeting, outside the curtain that shields the ark of the covenant law, Aaron and his sons shall keep the lamps burning before the Lord from evening till morning. This is to be a lasting ordinance among the Israelites for generations to come."
+            ]
+        }
+    ]
 }

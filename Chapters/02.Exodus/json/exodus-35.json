@@ -1,146 +1,216 @@
 {
-  "book": "Exodus",
-  "chapter": 35,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Moses assembled the whole Israelite community and said to them, \u201cThese are the things the Lord has commanded you to do:"
-    },
-    {
-      "verse": 2,
-      "text": "For six days, work is to be done, but the seventh day shall be your holy day, a Sabbath of rest to the Lord. Whoever does any work on it must be put to death."
-    },
-    {
-      "verse": 3,
-      "text": "Do not light a fire in any of your dwellings on the Sabbath day.\u201d"
-    },
-    {
-      "verse": 4,
-      "text": "Moses said to the whole Israelite community, \u201cThis is what the Lord has commanded:"
-    },
-    {
-      "verse": 5,
-      "text": "From what you have, take an offering for the Lord. Everyone who is willing is to bring to the Lord an offering: gold, silver and bronze;"
-    },
-    {
-      "verse": 6,
-      "text": "blue, purple and scarlet yarn and fine linen; goat hair;"
-    },
-    {
-      "verse": 7,
-      "text": "ram skins dyed red and durable leather; acacia wood;"
-    },
-    {
-      "verse": 8,
-      "text": "olive oil for the light; spices for the anointing oil and for the fragrant incense;"
-    },
-    {
-      "verse": 9,
-      "text": "and onyx stones and other gems to be mounted on the ephod and breastpiece."
-    },
-    {
-      "verse": 10,
-      "text": "\u201cAll who are skilled among you are to come and make everything the Lord has commanded:"
-    },
-    {
-      "verse": 11,
-      "text": "the tabernacle with its tent and covering, clasps, frames, crossbars, posts and bases;"
-    },
-    {
-      "verse": 12,
-      "text": "the ark with its poles and the atonement cover and the curtain that shields it;"
-    },
-    {
-      "verse": 13,
-      "text": "the table with its poles and all its articles and the bread of the Presence;"
-    },
-    {
-      "verse": 14,
-      "text": "the lampstand that is for light with its accessories, lamps and oil for the light;"
-    },
-    {
-      "verse": 15,
-      "text": "the altar of incense with its poles, the anointing oil and the fragrant incense; the curtain for the entrance to the tent;"
-    },
-    {
-      "verse": 16,
-      "text": "the altar of burnt offering with its bronze grating, its poles and all its utensils; the basin with its stand;"
-    },
-    {
-      "verse": 17,
-      "text": "the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard;"
-    },
-    {
-      "verse": 18,
-      "text": "the tent pegs for the tabernacle and for the courtyard, and their ropes;"
-    },
-    {
-      "verse": 19,
-      "text": "the woven garments worn for ministering in the sanctuary\u2014both the sacred garments for Aaron and the garments for his sons when they serve as priests.\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "Then the whole Israelite community withdrew from Moses\u2019 presence."
-    },
-    {
-      "verse": 21,
-      "text": "And everyone who was willing and whose heart moved them came and brought an offering to the Lord for the work on the tent of meeting, for all its service, and for the sacred garments."
-    },
-    {
-      "verse": 22,
-      "text": "All who were willing\u2014men and women alike\u2014came and brought gold jewellery of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the Lord."
-    },
-    {
-      "verse": 23,
-      "text": "Everyone who had blue, purple or scarlet yarn, or fine linen, or goat hair, ram skins dyed red or durable leather brought them."
-    },
-    {
-      "verse": 24,
-      "text": "Those presenting an offering of silver or bronze brought it as an offering to the Lord, and everyone who had acacia wood for any part of the work brought it."
-    },
-    {
-      "verse": 25,
-      "text": "Every skilled woman spun with her hands and brought what she had spun\u2014blue, purple or scarlet yarn or fine linen."
-    },
-    {
-      "verse": 26,
-      "text": "All the women who were willing and had the skill spun the goat hair."
-    },
-    {
-      "verse": 27,
-      "text": "The leaders brought onyx stones and other gems to be mounted on the ephod and breastpiece."
-    },
-    {
-      "verse": 28,
-      "text": "They also brought spices and olive oil for the light and for the anointing oil and for the fragrant incense."
-    },
-    {
-      "verse": 29,
-      "text": "All the Israelite men and women who were willing brought to the Lord freewill offerings for all the work the Lord had commanded them to do through Moses."
-    },
-    {
-      "verse": 30,
-      "text": "Then Moses said to the Israelites, \u201cSee, the Lord has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,"
-    },
-    {
-      "verse": 31,
-      "text": "and He has filled him with the Spirit of God, with wisdom, understanding, knowledge and all kinds of craftsmanship\u2014"
-    },
-    {
-      "verse": 32,
-      "text": "to make artistic designs in gold, silver and bronze,"
-    },
-    {
-      "verse": 33,
-      "text": "to cut and set stones, to work in wood and to engage in all kinds of artistic crafts."
-    },
-    {
-      "verse": 34,
-      "text": "And He has given both him and Oholiab son of Ahisamak, of the tribe of Dan, the ability to teach others."
-    },
-    {
-      "verse": 35,
-      "text": "He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and as weavers\u2014all of them skilled workers and designers."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 35,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Moses assembled the whole Israelite community and said to them, “These are the things the Lord has commanded you to do:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "For six days, work is to be done, but the seventh day shall be your holy day, a Sabbath of rest to the Lord. Whoever does any work on it must be put to death."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Do not light a fire in any of your dwellings on the Sabbath day.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Moses said to the whole Israelite community, “This is what the Lord has commanded:"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "From what you have, take an offering for the Lord. Everyone who is willing is to bring to the Lord an offering: gold, silver and bronze;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "blue, purple and scarlet yarn and fine linen; goat hair;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "ram skins dyed red and durable leather; acacia wood;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "olive oil for the light; spices for the anointing oil and for the fragrant incense;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "and onyx stones and other gems to be mounted on the ephod and breastpiece."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "“All who are skilled among you are to come and make everything the Lord has commanded:"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "the tabernacle with its tent and covering, clasps, frames, crossbars, posts and bases;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "the ark with its poles and the atonement cover and the curtain that shields it;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "the table with its poles and all its articles and the bread of the Presence;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "the lampstand that is for light with its accessories, lamps and oil for the light;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "the altar of incense with its poles, the anointing oil and the fragrant incense; the curtain for the entrance to the tent;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "the altar of burnt offering with its bronze grating, its poles and all its utensils; the basin with its stand;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "the tent pegs for the tabernacle and for the courtyard, and their ropes;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "the woven garments worn for ministering in the sanctuary—both the sacred garments for Aaron and the garments for his sons when they serve as priests.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Then the whole Israelite community withdrew from Moses’ presence."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "And everyone who was willing and whose heart moved them came and brought an offering to the Lord for the work on the tent of meeting, for all its service, and for the sacred garments."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "All who were willing—men and women alike—came and brought gold jewellery of all kinds: brooches, earrings, rings and ornaments. They all presented their gold as a wave offering to the Lord."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Everyone who had blue, purple or scarlet yarn, or fine linen, or goat hair, ram skins dyed red or durable leather brought them."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Those presenting an offering of silver or bronze brought it as an offering to the Lord, and everyone who had acacia wood for any part of the work brought it."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Every skilled woman spun with her hands and brought what she had spun—blue, purple or scarlet yarn or fine linen."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "All the women who were willing and had the skill spun the goat hair."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "The leaders brought onyx stones and other gems to be mounted on the ephod and breastpiece."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "They also brought spices and olive oil for the light and for the anointing oil and for the fragrant incense."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "All the Israelite men and women who were willing brought to the Lord freewill offerings for all the work the Lord had commanded them to do through Moses."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Then Moses said to the Israelites, “See, the Lord has chosen Bezalel son of Uri, the son of Hur, of the tribe of Judah,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "and He has filled him with the Spirit of God, with wisdom, understanding, knowledge and all kinds of craftsmanship—"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "to make artistic designs in gold, silver and bronze,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "to cut and set stones, to work in wood and to engage in all kinds of artistic crafts."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "And He has given both him and Oholiab son of Ahisamak, of the tribe of Dan, the ability to teach others."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "He has filled them with skill to do all kinds of work as engravers, designers, embroiderers in blue, purple and scarlet yarn and fine linen, and as weavers—all of them skilled workers and designers."
+            ]
+        }
+    ]
 }

@@ -1,86 +1,126 @@
 {
-  "book": "Deuteronomy",
-  "chapter": 8,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Be careful to follow every command I am giving you today, so that you may live, multiply, and go in and possess the land the Lord swore to your ancestors."
-    },
-    {
-      "verse": 2,
-      "text": "Remember how the Lord your God led you all the way in the wilderness these forty years, to humble and test you, to know what was in your heart\u2014whether you would keep His commands."
-    },
-    {
-      "verse": 3,
-      "text": "He humbled you by letting you hunger and then feeding you with manna, which neither you nor your fathers had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the Lord."
-    },
-    {
-      "verse": 4,
-      "text": "Your clothes did not wear out and your feet did not swell during these forty years."
-    },
-    {
-      "verse": 5,
-      "text": "Know then in your heart that as a man disciplines his son, so the Lord your God disciplines you."
-    },
-    {
-      "verse": 6,
-      "text": "So observe the commands of the Lord your God by walking in His ways and fearing Him."
-    },
-    {
-      "verse": 7,
-      "text": "For the Lord your God is bringing you into a good land\u2014a land with streams, springs, and underground waters welling up in valleys and hills;"
-    },
-    {
-      "verse": 8,
-      "text": "a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive oil and honey;"
-    },
-    {
-      "verse": 9,
-      "text": "a land where bread will not be scarce and you will lack nothing; a land where the rocks are iron and you can dig copper from the hills."
-    },
-    {
-      "verse": 10,
-      "text": "When you have eaten and are satisfied, bless the Lord your God for the good land He has given you."
-    },
-    {
-      "verse": 11,
-      "text": "Be careful that you do not forget the Lord your God by failing to keep His commands, laws, and statutes that I am giving you today."
-    },
-    {
-      "verse": 12,
-      "text": "Otherwise, when you eat and are full, and build fine houses and live in them,"
-    },
-    {
-      "verse": 13,
-      "text": "and your herds and flocks grow large, and your silver and gold increase, and all you have multiplies,"
-    },
-    {
-      "verse": 14,
-      "text": "your heart will become proud and you will forget the Lord your God, who brought you out of Egypt, out of the land of slavery."
-    },
-    {
-      "verse": 15,
-      "text": "He led you through the vast and dreadful wilderness, with venomous snakes and scorpions, a thirsty land where there was no water. He brought water for you out of the hard rock."
-    },
-    {
-      "verse": 16,
-      "text": "He fed you in the wilderness with manna, unknown to your ancestors, to humble and test you so that it might go well with you in the end."
-    },
-    {
-      "verse": 17,
-      "text": "You may say to yourself, \u2018My own power and strength have produced this wealth for me.\u2019"
-    },
-    {
-      "verse": 18,
-      "text": "But remember the Lord your God, for it is He who gives you the ability to produce wealth, and so confirms His covenant, which He swore to your ancestors, as it is today."
-    },
-    {
-      "verse": 19,
-      "text": "If you ever forget the Lord your God and follow other gods and serve and bow down to them, I solemnly warn you today that you will surely perish."
-    },
-    {
-      "verse": 20,
-      "text": "Like the nations the Lord destroyed before you, so you will perish if you do not obey the voice of the Lord your God."
-    }
-  ]
+    "book": "Deuteronomy",
+    "chapter": 8,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Be careful to follow every command I am giving you today, so that you may live, multiply, and go in and possess the land the Lord swore to your ancestors."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Remember how the Lord your God led you all the way in the wilderness these forty years, to humble and test you, to know what was in your heart—whether you would keep His commands."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He humbled you by letting you hunger and then feeding you with manna, which neither you nor your fathers had known, to teach you that man does not live on bread alone but on every word that comes from the mouth of the Lord."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Your clothes did not wear out and your feet did not swell during these forty years."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Know then in your heart that as a man disciplines his son, so the Lord your God disciplines you."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "So observe the commands of the Lord your God by walking in His ways and fearing Him."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "For the Lord your God is bringing you into a good land—a land with streams, springs, and underground waters welling up in valleys and hills;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "a land of wheat, barley, vines, fig trees, and pomegranates; a land of olive oil and honey;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "a land where bread will not be scarce and you will lack nothing; a land where the rocks are iron and you can dig copper from the hills."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "When you have eaten and are satisfied, bless the Lord your God for the good land He has given you."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Be careful that you do not forget the Lord your God by failing to keep His commands, laws, and statutes that I am giving you today."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Otherwise, when you eat and are full, and build fine houses and live in them,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "and your herds and flocks grow large, and your silver and gold increase, and all you have multiplies,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "your heart will become proud and you will forget the Lord your God, who brought you out of Egypt, out of the land of slavery."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "He led you through the vast and dreadful wilderness, with venomous snakes and scorpions, a thirsty land where there was no water. He brought water for you out of the hard rock."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "He fed you in the wilderness with manna, unknown to your ancestors, to humble and test you so that it might go well with you in the end."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "You may say to yourself, ‘My own power and strength have produced this wealth for me.’"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "But remember the Lord your God, for it is He who gives you the ability to produce wealth, and so confirms His covenant, which He swore to your ancestors, as it is today."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "If you ever forget the Lord your God and follow other gods and serve and bow down to them, I solemnly warn you today that you will surely perish."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Like the nations the Lord destroyed before you, so you will perish if you do not obey the voice of the Lord your God."
+            ]
+        }
+    ]
 }

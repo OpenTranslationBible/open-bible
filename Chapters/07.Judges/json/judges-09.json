@@ -2,63 +2,347 @@
     "book": "Judges",
     "chapter": 9,
     "verses": [
-      { "verse": 1, "text": "Abimelek son of Jerub-Baal went to his mother’s brothers in Shechem and said to them and to all his mother’s clan," },
-      { "verse": 2, "text": "“Ask all the citizens of Shechem, ‘Which is better for you: to have all seventy of Jerub-Baal’s sons rule over you, or just one man? Remember, I am your flesh and blood.’”" },
-      { "verse": 3, "text": "When the brothers repeated all this to the citizens of Shechem, they were inclined to follow Abimelek, for they said, “He is our relative.”" },
-      { "verse": 4, "text": "They gave him seventy shekels of silver from the temple of Baal-Berith, and Abimelek used it to hire reckless scoundrels, who became his followers." },
-      { "verse": 5, "text": "He went to his father’s home in Ophrah and murdered his seventy brothers, the sons of Jerub-Baal, on one stone. But Jotham, the youngest son of Jerub-Baal, escaped by hiding." },
-      { "verse": 6, "text": "Then all the citizens of Shechem and Beth Millo gathered beside the great tree at the pillar in Shechem to crown Abimelek king." },
-      { "verse": 7, "text": "When Jotham was told about this, he climbed up on the top of Mount Gerizim and shouted to them, “Listen to me, citizens of Shechem, so that God may listen to you." },
-      { "verse": 8, "text": "One day the trees went out to anoint a king for themselves. They said to the olive tree, ‘Be our king.’" },
-      { "verse": 9, "text": "But the olive tree answered, ‘Should I give up my oil, by which both gods and humans are honoured, to hold sway over the trees?’" },
-      { "verse": 10, "text": "Next, the trees said to the fig tree, ‘Come and be our king.’" },
-      { "verse": 11, "text": "But the fig tree replied, ‘Should I give up my sweetness and my good fruit to hold sway over the trees?’" },
-      { "verse": 12, "text": "Then the trees said to the vine, ‘Come and be our king.’" },
-      { "verse": 13, "text": "But the vine answered, ‘Should I give up my wine, which cheers both gods and humans, to hold sway over the trees?’" },
-      { "verse": 14, "text": "Finally all the trees said to the thornbush, ‘Come and be our king.’" },
-      { "verse": 15, "text": "The thornbush said to the trees, ‘If you really want to anoint me king over you, come and take refuge in my shade; but if not, let fire come out of the thornbush and consume the cedars of Lebanon!’" },
-      { "verse": 16, "text": "“Have you acted honourably and in good faith by making Abimelek king? Have you been fair to Jerub-Baal and his family? Have you treated him as he deserves?" },
-      { "verse": 17, "text": "Remember that my father fought for you and risked his life to rescue you from Midian." },
-      { "verse": 18, "text": "But today you have revolted against my father’s family. You have murdered his seventy sons on a single stone and made Abimelek, the son of his female servant, king over the citizens of Shechem because he is related to you." },
-      { "verse": 19, "text": "So if you have acted honourably and in good faith toward Jerub-Baal and his family today, may Abimelek be your joy, and may you be his, too!" },
-      { "verse": 20, "text": "But if you have not, let fire come out from Abimelek and consume you, the citizens of Shechem and Beth Millo, and let fire come out from you and consume Abimelek!”" },
-      { "verse": 21, "text": "Then Jotham fled, escaping to Beer, and he lived there because he was afraid of his brother Abimelek." },
-      { "verse": 22, "text": "After Abimelek had governed Israel for three years," },
-      { "verse": 23, "text": "God stirred up animosity between Abimelek and the citizens of Shechem, so that they acted treacherously against him." },
-      { "verse": 24, "text": "God did this in order that the crime against Jerub-Baal’s seventy sons might be avenged—the shedding of their blood—and that Abimelek and the citizens of Shechem, who had helped him murder his brothers, might be held responsible." },
-      { "verse": 25, "text": "In opposition to him, the citizens of Shechem set ambushes on the hilltops to rob everyone who passed by, and this was reported to Abimelek." },
-      { "verse": 26, "text": "Now Gaal son of Ebed moved with his clan into Shechem, and its citizens put their confidence in him." },
-      { "verse": 27, "text": "After they had gone out into the fields and gathered the grapes and trodden them, they held a festival in the temple of their god. While they were eating and drinking, they cursed Abimelek." },
-      { "verse": 28, "text": "Then Gaal said, “Who is Abimelek, and who is Shechem, that we should be subject to him? Isn’t he Jerub-Baal’s son, and isn’t Zebul his deputy? Serve the family of Hamor, Shechem’s founder! Why should we serve Abimelek?" },
-      { "verse": 29, "text": "If only this people were under my command! Then I would get rid of him.” He said to Abimelek, “Call out your whole army!”" },
-      { "verse": 30, "text": "When Zebul the governor of the city heard what Gaal son of Ebed said, he was very angry." },
-      { "verse": 31, "text": "He sent messengers to Abimelek secretly, saying, “Gaal son of Ebed and his relatives have come to Shechem and are stirring up the city against you." },
-      { "verse": 32, "text": "Now then, during the night you and your men should come and lie in wait in the fields." },
-      { "verse": 33, "text": "In the morning at sunrise, advance against the city. When Gaal and his men come out against you, seize the opportunity to attack them.”" },
-      { "verse": 34, "text": "So Abimelek and all his troops set out by night and took up concealed positions near Shechem in four companies." },
-      { "verse": 35, "text": "Now Gaal son of Ebed had gone out and was standing at the entrance of the city gate just as Abimelek and his troops came out from their hiding places." },
-      { "verse": 36, "text": "When Gaal saw them, he said to Zebul, “Look, people are coming down from the tops of the mountains!” Zebul replied, “You mistake the shadows of the mountains for men.”" },
-      { "verse": 37, "text": "But Gaal spoke up again: “Look, people are coming down from the central hill, and one company is coming from the direction of the diviners’ tree.”" },
-      { "verse": 38, "text": "Then Zebul said to him, “Where is your big talk now, you who said, ‘Who is Abimelek that we should be subject to him?’ Aren’t these the men you ridiculed? Go out and fight them!”" },
-      { "verse": 39, "text": "So Gaal led out the citizens of Shechem and fought Abimelek." },
-      { "verse": 40, "text": "Abimelek chased him all the way to the entrance of the gate, and many were killed as they fled." },
-      { "verse": 41, "text": "Then Abimelek stayed in Arumah, and Zebul drove Gaal and his clan out of Shechem." },
-      { "verse": 42, "text": "The next day the people of Shechem went out to the fields, and this was reported to Abimelek." },
-      { "verse": 43, "text": "So he took his men, divided them into three companies and set an ambush in the fields. When he saw the people coming out of the city, he rose to attack them." },
-      { "verse": 44, "text": "Abimelek and the companies with him rushed forward to a position at the entrance to the city gate. Two companies attacked those in the fields and struck them down." },
-      { "verse": 45, "text": "All that day Abimelek pressed his attack against the city until he had captured it and killed its people. Then he destroyed the city and scattered salt over it." },
-      { "verse": 46, "text": "On hearing this, the citizens in the tower of Shechem went into the stronghold of the temple of El-Berith." },
-      { "verse": 47, "text": "When Abimelek heard that they had assembled there," },
-      { "verse": 48, "text": "he and all his men went up Mount Zalmon. He took an axe, cut off a branch and lifted it to his shoulders. He told the men with him, “Quick! Do what you have seen me do!”" },
-      { "verse": 49, "text": "So each man cut a branch and followed Abimelek. They piled them against the stronghold and set it on fire with the people still inside. So all the people in the tower of Shechem—about a thousand men and women—died." },
-      { "verse": 50, "text": "Next Abimelek went to Thebez and besieged it and captured it." },
-      { "verse": 51, "text": "But inside the city, a strong tower stood. All the men and women, together with the city’s leaders, fled to it and shut themselves in. They climbed up on the tower’s roof." },
-      { "verse": 52, "text": "Abimelek went to the tower and stormed it. But as he approached the entrance to set it on fire," },
-      { "verse": 53, "text": "a woman dropped an upper millstone on his head and cracked his skull." },
-      { "verse": 54, "text": "Hurriedly he called to his armour-bearer, “Draw your sword and kill me, so that they can’t say, ‘A woman killed him.’” So his servant ran him through, and he died." },
-      { "verse": 55, "text": "When the Israelites saw that Abimelek was dead, they went home." },
-      { "verse": 56, "text": "Thus God repaid the wickedness that Abimelek had done to his father by murdering his seventy brothers." },
-      { "verse": 57, "text": "God also made the people of Shechem pay for all their wickedness. The curse of Jotham son of Jerub-Baal came upon them." }
+        {
+            "verse": 1,
+            "text": [
+                "Abimelek son of Jerub-Baal went to his mother’s brothers in Shechem and said to them and to all his mother’s clan,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Ask all the citizens of Shechem, ‘Which is better for you: to have all seventy of Jerub-Baal’s sons rule over you, or just one man? Remember, I am your flesh and blood.’”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "When the brothers repeated all this to the citizens of Shechem, they were inclined to follow Abimelek, for they said, “He is our relative.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "They gave him seventy shekels of silver from the temple of Baal-Berith, and Abimelek used it to hire reckless scoundrels, who became his followers."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "He went to his father’s home in Ophrah and murdered his seventy brothers, the sons of Jerub-Baal, on one stone. But Jotham, the youngest son of Jerub-Baal, escaped by hiding."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Then all the citizens of Shechem and Beth Millo gathered beside the great tree at the pillar in Shechem to crown Abimelek king."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "When Jotham was told about this, he climbed up on the top of Mount Gerizim and shouted to them, “Listen to me, citizens of Shechem, so that God may listen to you."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "One day the trees went out to anoint a king for themselves. They said to the olive tree, ‘Be our king.’"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "But the olive tree answered, ‘Should I give up my oil, by which both gods and humans are honoured, to hold sway over the trees?’"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Next, the trees said to the fig tree, ‘Come and be our king.’"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "But the fig tree replied, ‘Should I give up my sweetness and my good fruit to hold sway over the trees?’"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Then the trees said to the vine, ‘Come and be our king.’"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "But the vine answered, ‘Should I give up my wine, which cheers both gods and humans, to hold sway over the trees?’"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Finally all the trees said to the thornbush, ‘Come and be our king.’"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "The thornbush said to the trees, ‘If you really want to anoint me king over you, come and take refuge in my shade; but if not, let fire come out of the thornbush and consume the cedars of Lebanon!’"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "“Have you acted honourably and in good faith by making Abimelek king? Have you been fair to Jerub-Baal and his family? Have you treated him as he deserves?"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Remember that my father fought for you and risked his life to rescue you from Midian."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "But today you have revolted against my father’s family. You have murdered his seventy sons on a single stone and made Abimelek, the son of his female servant, king over the citizens of Shechem because he is related to you."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "So if you have acted honourably and in good faith toward Jerub-Baal and his family today, may Abimelek be your joy, and may you be his, too!"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "But if you have not, let fire come out from Abimelek and consume you, the citizens of Shechem and Beth Millo, and let fire come out from you and consume Abimelek!”"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Then Jotham fled, escaping to Beer, and he lived there because he was afraid of his brother Abimelek."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "After Abimelek had governed Israel for three years,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "God stirred up animosity between Abimelek and the citizens of Shechem, so that they acted treacherously against him."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "God did this in order that the crime against Jerub-Baal’s seventy sons might be avenged—the shedding of their blood—and that Abimelek and the citizens of Shechem, who had helped him murder his brothers, might be held responsible."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "In opposition to him, the citizens of Shechem set ambushes on the hilltops to rob everyone who passed by, and this was reported to Abimelek."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Now Gaal son of Ebed moved with his clan into Shechem, and its citizens put their confidence in him."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "After they had gone out into the fields and gathered the grapes and trodden them, they held a festival in the temple of their god. While they were eating and drinking, they cursed Abimelek."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Then Gaal said, “Who is Abimelek, and who is Shechem, that we should be subject to him? Isn’t he Jerub-Baal’s son, and isn’t Zebul his deputy? Serve the family of Hamor, Shechem’s founder! Why should we serve Abimelek?"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "If only this people were under my command! Then I would get rid of him.” He said to Abimelek, “Call out your whole army!”"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "When Zebul the governor of the city heard what Gaal son of Ebed said, he was very angry."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "He sent messengers to Abimelek secretly, saying, “Gaal son of Ebed and his relatives have come to Shechem and are stirring up the city against you."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Now then, during the night you and your men should come and lie in wait in the fields."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "In the morning at sunrise, advance against the city. When Gaal and his men come out against you, seize the opportunity to attack them.”"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "So Abimelek and all his troops set out by night and took up concealed positions near Shechem in four companies."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Now Gaal son of Ebed had gone out and was standing at the entrance of the city gate just as Abimelek and his troops came out from their hiding places."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "When Gaal saw them, he said to Zebul, “Look, people are coming down from the tops of the mountains!” Zebul replied, “You mistake the shadows of the mountains for men.”"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "But Gaal spoke up again: “Look, people are coming down from the central hill, and one company is coming from the direction of the diviners’ tree.”"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Then Zebul said to him, “Where is your big talk now, you who said, ‘Who is Abimelek that we should be subject to him?’ Aren’t these the men you ridiculed? Go out and fight them!”"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "So Gaal led out the citizens of Shechem and fought Abimelek."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Abimelek chased him all the way to the entrance of the gate, and many were killed as they fled."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Then Abimelek stayed in Arumah, and Zebul drove Gaal and his clan out of Shechem."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "The next day the people of Shechem went out to the fields, and this was reported to Abimelek."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "So he took his men, divided them into three companies and set an ambush in the fields. When he saw the people coming out of the city, he rose to attack them."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Abimelek and the companies with him rushed forward to a position at the entrance to the city gate. Two companies attacked those in the fields and struck them down."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "All that day Abimelek pressed his attack against the city until he had captured it and killed its people. Then he destroyed the city and scattered salt over it."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "On hearing this, the citizens in the tower of Shechem went into the stronghold of the temple of El-Berith."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "When Abimelek heard that they had assembled there,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "he and all his men went up Mount Zalmon. He took an axe, cut off a branch and lifted it to his shoulders. He told the men with him, “Quick! Do what you have seen me do!”"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "So each man cut a branch and followed Abimelek. They piled them against the stronghold and set it on fire with the people still inside. So all the people in the tower of Shechem—about a thousand men and women—died."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Next Abimelek went to Thebez and besieged it and captured it."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "But inside the city, a strong tower stood. All the men and women, together with the city’s leaders, fled to it and shut themselves in. They climbed up on the tower’s roof."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Abimelek went to the tower and stormed it. But as he approached the entrance to set it on fire,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "a woman dropped an upper millstone on his head and cracked his skull."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Hurriedly he called to his armour-bearer, “Draw your sword and kill me, so that they can’t say, ‘A woman killed him.’” So his servant ran him through, and he died."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "When the Israelites saw that Abimelek was dead, they went home."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Thus God repaid the wickedness that Abimelek had done to his father by murdering his seventy brothers."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "God also made the people of Shechem pay for all their wickedness. The curse of Jotham son of Jerub-Baal came upon them."
+            ]
+        }
     ]
-  }
-  
+}

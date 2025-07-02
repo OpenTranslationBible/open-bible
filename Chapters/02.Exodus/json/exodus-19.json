@@ -1,106 +1,156 @@
 {
-  "book": "Exodus",
-  "chapter": 19,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "On the first day of the third month after the Israelites had left Egypt, they came to the Desert of Sinai."
-    },
-    {
-      "verse": 2,
-      "text": "After setting out from Rephidim, they entered the Desert of Sinai, and Israel camped there in front of the mountain."
-    },
-    {
-      "verse": 3,
-      "text": "Then Moses went up to God, and the Lord called to him from the mountain and said, \u201cThis is what you are to say to the descendants of Jacob and to tell the people of Israel:"
-    },
-    {
-      "verse": 4,
-      "text": "\u2018You yourselves have seen what I did to Egypt, and how I carried you on eagles\u2019 wings and brought you to Myself."
-    },
-    {
-      "verse": 5,
-      "text": "Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations\u2014for the whole earth is Mine."
-    },
-    {
-      "verse": 6,
-      "text": "You will be for Me a kingdom of priests and a holy nation.\u2019 These are the words you are to speak to the Israelites.\u201d"
-    },
-    {
-      "verse": 7,
-      "text": "So Moses went back and summoned the elders of the people and set before them all the words the Lord had commanded him to speak."
-    },
-    {
-      "verse": 8,
-      "text": "The people all responded together, \u201cWe will do everything the Lord has said.\u201d So Moses brought their answer back to the Lord."
-    },
-    {
-      "verse": 9,
-      "text": "The Lord said to Moses, \u201cI am going to come to you in a dense cloud so the people will hear Me speaking with you and always put their trust in you.\u201d Then Moses told the Lord what the people had said."
-    },
-    {
-      "verse": 10,
-      "text": "And the Lord said to Moses, \u201cGo to the people and consecrate them today and tomorrow. They must wash their clothes"
-    },
-    {
-      "verse": 11,
-      "text": "and be ready by the third day, for on that day the Lord will come down on Mount Sinai in the sight of all the people."
-    },
-    {
-      "verse": 12,
-      "text": "Put limits around the mountain and tell the people: \u2018Be careful not to approach the mountain or touch its base. Whoever touches the mountain is to be put to death."
-    },
-    {
-      "verse": 13,
-      "text": "They are to be stoned or shot with arrows; not a hand is to be laid on them. No person or animal shall be permitted to live.\u2019 Only when the ram\u2019s horn sounds a long blast may they go up to the mountain.\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "After Moses went down the mountain to the people, he consecrated them, and they washed their clothes."
-    },
-    {
-      "verse": 15,
-      "text": "Then he said to the people, \u201cPrepare yourselves for the third day. Abstain from sexual relations.\u201d"
-    },
-    {
-      "verse": 16,
-      "text": "On the morning of the third day there was thunder and lightning, with a thick cloud over the mountain, and a loud trumpet blast. Everyone in the camp trembled."
-    },
-    {
-      "verse": 17,
-      "text": "Then Moses led the people out of the camp to meet with God, and they stood at the foot of the mountain."
-    },
-    {
-      "verse": 18,
-      "text": "Mount Sinai was covered with smoke, because the Lord descended on it in fire. The smoke billowed up like the smoke from a furnace, and the whole mountain trembled violently."
-    },
-    {
-      "verse": 19,
-      "text": "As the sound of the trumpet grew louder and louder, Moses spoke and the voice of God answered him."
-    },
-    {
-      "verse": 20,
-      "text": "The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain. So Moses went up."
-    },
-    {
-      "verse": 21,
-      "text": "The Lord said to Moses, \u201cGo down and warn the people not to force their way through to see the Lord, or many of them will perish."
-    },
-    {
-      "verse": 22,
-      "text": "Even the priests who approach the Lord must consecrate themselves, or the Lord will break out against them.\u201d"
-    },
-    {
-      "verse": 23,
-      "text": "Moses said to the Lord, \u201cThe people cannot come up Mount Sinai, because You Yourself warned us: \u2018Put limits around the mountain and set it apart as holy.\u2019\u201d"
-    },
-    {
-      "verse": 24,
-      "text": "The Lord replied, \u201cGo down and bring Aaron up with you. But the priests and the people must not force their way through or come up to the Lord, or He will break out against them.\u201d"
-    },
-    {
-      "verse": 25,
-      "text": "So Moses went down to the people and told them."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "On the first day of the third month after the Israelites had left Egypt, they came to the Desert of Sinai."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "After setting out from Rephidim, they entered the Desert of Sinai, and Israel camped there in front of the mountain."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Then Moses went up to God, and the Lord called to him from the mountain and said, “This is what you are to say to the descendants of Jacob and to tell the people of Israel:"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "‘You yourselves have seen what I did to Egypt, and how I carried you on eagles’ wings and brought you to Myself."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Now if you will indeed obey My voice and keep My covenant, you will be My treasured possession out of all the nations—for the whole earth is Mine."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "You will be for Me a kingdom of priests and a holy nation.’ These are the words you are to speak to the Israelites.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "So Moses went back and summoned the elders of the people and set before them all the words the Lord had commanded him to speak."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "The people all responded together, “We will do everything the Lord has said.” So Moses brought their answer back to the Lord."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "The Lord said to Moses, “I am going to come to you in a dense cloud so the people will hear Me speaking with you and always put their trust in you.” Then Moses told the Lord what the people had said."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "And the Lord said to Moses, “Go to the people and consecrate them today and tomorrow. They must wash their clothes"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "and be ready by the third day, for on that day the Lord will come down on Mount Sinai in the sight of all the people."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Put limits around the mountain and tell the people: ‘Be careful not to approach the mountain or touch its base. Whoever touches the mountain is to be put to death."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "They are to be stoned or shot with arrows; not a hand is to be laid on them. No person or animal shall be permitted to live.’ Only when the ram’s horn sounds a long blast may they go up to the mountain.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "After Moses went down the mountain to the people, he consecrated them, and they washed their clothes."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Then he said to the people, “Prepare yourselves for the third day. Abstain from sexual relations.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "On the morning of the third day there was thunder and lightning, with a thick cloud over the mountain, and a loud trumpet blast. Everyone in the camp trembled."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Then Moses led the people out of the camp to meet with God, and they stood at the foot of the mountain."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Mount Sinai was covered with smoke, because the Lord descended on it in fire. The smoke billowed up like the smoke from a furnace, and the whole mountain trembled violently."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "As the sound of the trumpet grew louder and louder, Moses spoke and the voice of God answered him."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "The Lord descended to the top of Mount Sinai and called Moses to the top of the mountain. So Moses went up."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "The Lord said to Moses, “Go down and warn the people not to force their way through to see the Lord, or many of them will perish."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Even the priests who approach the Lord must consecrate themselves, or the Lord will break out against them.”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Moses said to the Lord, “The people cannot come up Mount Sinai, because You Yourself warned us: ‘Put limits around the mountain and set it apart as holy.’”"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "The Lord replied, “Go down and bring Aaron up with you. But the priests and the people must not force their way through or come up to the Lord, or He will break out against them.”"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "So Moses went down to the people and told them."
+            ]
+        }
+    ]
 }

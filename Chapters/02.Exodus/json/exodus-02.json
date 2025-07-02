@@ -1,106 +1,156 @@
 {
-  "book": "Exodus",
-  "chapter": 2,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now a man of the tribe of Levi married a Levite woman,"
-    },
-    {
-      "verse": 2,
-      "text": "and she conceived and gave birth to a son. When she saw that he was a fine child, she hid him for three months."
-    },
-    {
-      "verse": 3,
-      "text": "But when she could hide him no longer, she got a papyrus basket for him and coated it with tar and pitch. She placed the child in it and set it among the reeds along the bank of the Nile."
-    },
-    {
-      "verse": 4,
-      "text": "His sister stood at a distance to see what would happen to him."
-    },
-    {
-      "verse": 5,
-      "text": "Then Pharaoh\u2019s daughter went down to the Nile to bathe, and her attendants were walking along the riverbank. She saw the basket among the reeds and sent her slave woman to get it."
-    },
-    {
-      "verse": 6,
-      "text": "She opened it and saw the baby. He was crying, and she felt compassion for him. \u201cThis is one of the Hebrew babies,\u201d she said."
-    },
-    {
-      "verse": 7,
-      "text": "Then his sister said to Pharaoh\u2019s daughter, \u201cShall I go and call a Hebrew woman to nurse the child for you?\u201d"
-    },
-    {
-      "verse": 8,
-      "text": "\u201cGo,\u201d she answered. So the girl went and brought the child\u2019s mother."
-    },
-    {
-      "verse": 9,
-      "text": "Pharaoh\u2019s daughter said to her, \u201cTake this child and nurse him for me, and I will pay you.\u201d So the woman took the child and nursed him."
-    },
-    {
-      "verse": 10,
-      "text": "When the child grew older, she brought him to Pharaoh\u2019s daughter, and he became her son. She named him Moses, saying, \u201cI drew him out of the water.\u201d"
-    },
-    {
-      "verse": 11,
-      "text": "One day, after Moses had grown up, he went out to his own people and observed their hard labour. He saw an Egyptian striking a Hebrew, one of his own people."
-    },
-    {
-      "verse": 12,
-      "text": "Looking around and seeing no one, he struck down the Egyptian and hid him in the sand."
-    },
-    {
-      "verse": 13,
-      "text": "The next day he went out and saw two Hebrews fighting. He asked the one in the wrong, \u201cWhy are you hitting your fellow Hebrew?\u201d"
-    },
-    {
-      "verse": 14,
-      "text": "The man replied, \u201cWho made you ruler and judge over us? Are you thinking of killing me as you killed the Egyptian?\u201d Then Moses was afraid and thought, \u201cWhat I did must have become known.\u201d"
-    },
-    {
-      "verse": 15,
-      "text": "When Pharaoh heard of this, he tried to kill Moses, but Moses fled from Pharaoh and went to live in the land of Midian, where he sat down by a well."
-    },
-    {
-      "verse": 16,
-      "text": "Now a priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father\u2019s flock."
-    },
-    {
-      "verse": 17,
-      "text": "But some shepherds came and drove them away. Then Moses got up and came to their rescue and watered their flock."
-    },
-    {
-      "verse": 18,
-      "text": "When the girls returned to Reuel their father, he asked them, \u201cWhy have you come back so early today?\u201d"
-    },
-    {
-      "verse": 19,
-      "text": "They answered, \u201cAn Egyptian rescued us from the shepherds. He even drew water for us and watered the flock.\u201d"
-    },
-    {
-      "verse": 20,
-      "text": "\u201cAnd where is he?\u201d Reuel asked his daughters. \u201cWhy did you leave the man? Invite him to have something to eat.\u201d"
-    },
-    {
-      "verse": 21,
-      "text": "Moses agreed to stay with the man, who gave his daughter Zipporah to Moses in marriage."
-    },
-    {
-      "verse": 22,
-      "text": "She gave birth to a son, and Moses named him Gershom, saying, \u201cI have become a foreigner in a foreign land.\u201d"
-    },
-    {
-      "verse": 23,
-      "text": "During that long period, the king of Egypt died. The Israelites groaned under their bondage and cried out, and their cry for help went up to God."
-    },
-    {
-      "verse": 24,
-      "text": "God heard their groaning and remembered His covenant with Abraham, with Isaac, and with Jacob."
-    },
-    {
-      "verse": 25,
-      "text": "So God looked upon the Israelites and took notice of them."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now a man of the tribe of Levi married a Levite woman,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "and she conceived and gave birth to a son. When she saw that he was a fine child, she hid him for three months."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "But when she could hide him no longer, she got a papyrus basket for him and coated it with tar and pitch. She placed the child in it and set it among the reeds along the bank of the Nile."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "His sister stood at a distance to see what would happen to him."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then Pharaoh’s daughter went down to the Nile to bathe, and her attendants were walking along the riverbank. She saw the basket among the reeds and sent her slave woman to get it."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "She opened it and saw the baby. He was crying, and she felt compassion for him. “This is one of the Hebrew babies,” she said."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then his sister said to Pharaoh’s daughter, “Shall I go and call a Hebrew woman to nurse the child for you?”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "“Go,” she answered. So the girl went and brought the child’s mother."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Pharaoh’s daughter said to her, “Take this child and nurse him for me, and I will pay you.” So the woman took the child and nursed him."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "When the child grew older, she brought him to Pharaoh’s daughter, and he became her son. She named him Moses, saying, “I drew him out of the water.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "One day, after Moses had grown up, he went out to his own people and observed their hard labour. He saw an Egyptian striking a Hebrew, one of his own people."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Looking around and seeing no one, he struck down the Egyptian and hid him in the sand."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "The next day he went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you hitting your fellow Hebrew?”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "The man replied, “Who made you ruler and judge over us? Are you thinking of killing me as you killed the Egyptian?” Then Moses was afraid and thought, “What I did must have become known.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "When Pharaoh heard of this, he tried to kill Moses, but Moses fled from Pharaoh and went to live in the land of Midian, where he sat down by a well."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Now a priest of Midian had seven daughters, and they came to draw water and fill the troughs to water their father’s flock."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "But some shepherds came and drove them away. Then Moses got up and came to their rescue and watered their flock."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "When the girls returned to Reuel their father, he asked them, “Why have you come back so early today?”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "They answered, “An Egyptian rescued us from the shepherds. He even drew water for us and watered the flock.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "“And where is he?” Reuel asked his daughters. “Why did you leave the man? Invite him to have something to eat.”"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Moses agreed to stay with the man, who gave his daughter Zipporah to Moses in marriage."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "She gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "During that long period, the king of Egypt died. The Israelites groaned under their bondage and cried out, and their cry for help went up to God."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "God heard their groaning and remembered His covenant with Abraham, with Isaac, and with Jacob."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "So God looked upon the Israelites and took notice of them."
+            ]
+        }
+    ]
 }

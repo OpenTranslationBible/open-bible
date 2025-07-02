@@ -1,104 +1,156 @@
 {
-  "book": "1 Samuel",
-  "chapter": 19,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "Now Saul told Jonathan his son and all his servants to put David to death. But Jonathan, Saul’s son, delighted greatly in David."
-    },
-    {
-      "verse": 2,
-      "text": "So Jonathan informed David, saying, “My father Saul is seeking to kill you. Now then, be on your guard in the morning, and stay in a secret place and hide yourself."
-    },
-    {
-      "verse": 3,
-      "text": "I will go out and stand beside my father in the field where you are, and I will speak with my father about you; and if I learn anything, I will tell you.”"
-    },
-    {
-      "verse": 4,
-      "text": "Then Jonathan spoke well of David to Saul his father and said to him, “May the king not sin against his servant David, since he has not sinned against you, and since his deeds have been very beneficial to you."
-    },
-    {
-      "verse": 5,
-      "text": "For he took his life in his hand and struck the Philistine, and the Lord brought about a great victory for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by putting David to death without a cause?”"
-    },
-    {
-      "verse": 6,
-      "text": "Saul listened to the voice of Jonathan, and Saul vowed, “As the Lord lives, David shall not be put to death.”"
-    },
-    {
-      "verse": 7,
-      "text": "Then Jonathan called David and told him all these words. Jonathan brought David to Saul, and he was in his presence as before."
-    },
-    { "verse": null },
-    {
-      "verse": 8,
-      "text": "When there was war again, David went out and fought against the Philistines and defeated them with great slaughter, so that they fled before him."
-    },
-    {
-      "verse": 9,
-      "text": "Now an evil spirit from the Lord came upon Saul as he was sitting in his house with his spear in his hand, and David was playing the harp with his hand."
-    },
-    {
-      "verse": 10,
-      "text": "Saul tried to pin David to the wall with the spear, but he slipped away from Saul’s presence, so that he struck the spear into the wall. David fled and escaped that night."
-    },
-    {
-      "verse": 11,
-      "text": "Then Saul sent messengers to David’s house to watch him, in order to put him to death in the morning. But Michal, David’s wife, told him, “If you do not save your life tonight, tomorrow you will be put to death.”"
-    },
-    {
-      "verse": 12,
-      "text": "So Michal let David down through a window, and he went and fled and escaped."
-    },
-    {
-      "verse": 13,
-      "text": "Michal took the household idol and laid it on the bed, put a quilt of goat’s hair at its head, and covered it with clothes."
-    },
-    {
-      "verse": 14,
-      "text": "When Saul sent messengers to seize David, she said, “He is sick.”"
-    },
-    {
-      "verse": 15,
-      "text": "Then Saul sent the messengers to see David, saying, “Bring him up to me on the bed, that I may put him to death.”"
-    },
-    {
-      "verse": 16,
-      "text": "When the messengers entered, behold, the idol was on the bed with the quilt of goat’s hair at its head."
-    },
-    {
-      "verse": 17,
-      "text": "So Saul said to Michal, “Why have you deceived me like this and let my enemy go, so that he has escaped?” And Michal said to Saul, “He said to me, ‘Let me go! Why should I kill you?’”"
-    },
-    { "verse": null },
-    {
-      "verse": 18,
-      "text": "Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him. Then he and Samuel went and stayed in Naioth."
-    },
-    {
-      "verse": 19,
-      "text": "It was reported to Saul, saying, “Behold, David is at Naioth in Ramah.”"
-    },
-    {
-      "verse": 20,
-      "text": "Then Saul sent messengers to take David, but when they saw the company of prophets prophesying with Samuel standing and presiding over them, the Spirit of God came upon the messengers of Saul, and they also prophesied."
-    },
-    {
-      "verse": 21,
-      "text": "When it was told to Saul, he sent other messengers, and they also prophesied. So Saul sent messengers again a third time, and they also prophesied."
-    },
-    {
-      "verse": 22,
-      "text": "Then he himself went to Ramah and came to the large well that is in Secu. And he asked, “Where are Samuel and David?” Someone said, “Behold, they are at Naioth in Ramah.”"
-    },
-    {
-      "verse": 23,
-      "text": "So he went there to Naioth in Ramah. And the Spirit of God came upon him also, so that he went along prophesying continually until he came to Naioth in Ramah."
-    },
-    {
-      "verse": 24,
-      "text": "Then he also stripped off his clothes, and he too prophesied before Samuel, and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”"
-    }
-  ]
+    "book": "1 Samuel",
+    "chapter": 19,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Now Saul told Jonathan his son and all his servants to put David to death. But Jonathan, Saul’s son, delighted greatly in David."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "So Jonathan informed David, saying, “My father Saul is seeking to kill you. Now then, be on your guard in the morning, and stay in a secret place and hide yourself."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "I will go out and stand beside my father in the field where you are, and I will speak with my father about you; and if I learn anything, I will tell you.”"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Then Jonathan spoke well of David to Saul his father and said to him, “May the king not sin against his servant David, since he has not sinned against you, and since his deeds have been very beneficial to you."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "For he took his life in his hand and struck the Philistine, and the Lord brought about a great victory for all Israel. You saw it and rejoiced. Why then would you sin against innocent blood by putting David to death without a cause?”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Saul listened to the voice of Jonathan, and Saul vowed, “As the Lord lives, David shall not be put to death.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Then Jonathan called David and told him all these words. Jonathan brought David to Saul, and he was in his presence as before."
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 8,
+            "text": [
+                "When there was war again, David went out and fought against the Philistines and defeated them with great slaughter, so that they fled before him."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Now an evil spirit from the Lord came upon Saul as he was sitting in his house with his spear in his hand, and David was playing the harp with his hand."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Saul tried to pin David to the wall with the spear, but he slipped away from Saul’s presence, so that he struck the spear into the wall. David fled and escaped that night."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Then Saul sent messengers to David’s house to watch him, in order to put him to death in the morning. But Michal, David’s wife, told him, “If you do not save your life tonight, tomorrow you will be put to death.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "So Michal let David down through a window, and he went and fled and escaped."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Michal took the household idol and laid it on the bed, put a quilt of goat’s hair at its head, and covered it with clothes."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "When Saul sent messengers to seize David, she said, “He is sick.”"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Then Saul sent the messengers to see David, saying, “Bring him up to me on the bed, that I may put him to death.”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "When the messengers entered, behold, the idol was on the bed with the quilt of goat’s hair at its head."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "So Saul said to Michal, “Why have you deceived me like this and let my enemy go, so that he has escaped?” And Michal said to Saul, “He said to me, ‘Let me go! Why should I kill you?’”"
+            ]
+        },
+        {
+            "verse": null
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Now David fled and escaped, and came to Samuel at Ramah, and told him all that Saul had done to him. Then he and Samuel went and stayed in Naioth."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "It was reported to Saul, saying, “Behold, David is at Naioth in Ramah.”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Then Saul sent messengers to take David, but when they saw the company of prophets prophesying with Samuel standing and presiding over them, the Spirit of God came upon the messengers of Saul, and they also prophesied."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "When it was told to Saul, he sent other messengers, and they also prophesied. So Saul sent messengers again a third time, and they also prophesied."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Then he himself went to Ramah and came to the large well that is in Secu. And he asked, “Where are Samuel and David?” Someone said, “Behold, they are at Naioth in Ramah.”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "So he went there to Naioth in Ramah. And the Spirit of God came upon him also, so that he went along prophesying continually until he came to Naioth in Ramah."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Then he also stripped off his clothes, and he too prophesied before Samuel, and lay down naked all that day and all that night. Therefore they say, “Is Saul also among the prophets?”"
+            ]
+        }
+    ]
 }

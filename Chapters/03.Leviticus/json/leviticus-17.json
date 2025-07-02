@@ -1,70 +1,102 @@
 {
-  "book": "Leviticus",
-  "chapter": 17,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSpeak to Aaron and his sons and all the Israelites and say to them: This is what the Lord has commanded:"
-    },
-    {
-      "verse": 3,
-      "text": "Any Israelite who sacrifices an ox, lamb, or goat in the camp or outside of it,"
-    },
-    {
-      "verse": 4,
-      "text": "instead of bringing it to the entrance of the tent of meeting to offer it to the Lord, is guilty of bloodshed. That person must be cut off."
-    },
-    {
-      "verse": 5,
-      "text": "This is so that the Israelites will bring their sacrifices to the Lord at the entrance to the tent of meeting, instead of offering them in the open fields."
-    },
-    {
-      "verse": 6,
-      "text": "The priest shall splash the blood against the altar and burn the fat as a pleasing aroma to the Lord."
-    },
-    {
-      "verse": 7,
-      "text": "They must no longer offer sacrifices to goat idols. This is a lasting ordinance."
-    },
-    {
-      "verse": 8,
-      "text": "Say to them: Any Israelite or foreigner who offers a burnt offering or sacrifice"
-    },
-    {
-      "verse": 9,
-      "text": "and does not bring it to the tent of meeting must be cut off from the people."
-    },
-    {
-      "verse": 10,
-      "text": "Any Israelite or foreigner who eats blood, I will set My face against them and cut them off."
-    },
-    {
-      "verse": 11,
-      "text": "For the life of a creature is in the blood, and I have given it to make atonement for your lives."
-    },
-    {
-      "verse": 12,
-      "text": "That is why none of you may eat blood, and no foreigner among you may eat blood."
-    },
-    {
-      "verse": 13,
-      "text": "Any Israelite or foreigner who hunts an animal or bird for food must drain its blood and cover it with earth."
-    },
-    {
-      "verse": 14,
-      "text": "Because the life of every creature is its blood. Anyone who eats it must be cut off."
-    },
-    {
-      "verse": 15,
-      "text": "Anyone who eats an animal found dead or torn by wild animals must wash their clothes and bathe, and they will be unclean until evening."
-    },
-    {
-      "verse": 16,
-      "text": "If they do not wash or bathe, they will be held responsible."
-    }
-  ]
+    "book": "Leviticus",
+    "chapter": 17,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Speak to Aaron and his sons and all the Israelites and say to them: This is what the Lord has commanded:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Any Israelite who sacrifices an ox, lamb, or goat in the camp or outside of it,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "instead of bringing it to the entrance of the tent of meeting to offer it to the Lord, is guilty of bloodshed. That person must be cut off."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "This is so that the Israelites will bring their sacrifices to the Lord at the entrance to the tent of meeting, instead of offering them in the open fields."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "The priest shall splash the blood against the altar and burn the fat as a pleasing aroma to the Lord."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They must no longer offer sacrifices to goat idols. This is a lasting ordinance."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Say to them: Any Israelite or foreigner who offers a burnt offering or sacrifice"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "and does not bring it to the tent of meeting must be cut off from the people."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Any Israelite or foreigner who eats blood, I will set My face against them and cut them off."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "For the life of a creature is in the blood, and I have given it to make atonement for your lives."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "That is why none of you may eat blood, and no foreigner among you may eat blood."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Any Israelite or foreigner who hunts an animal or bird for food must drain its blood and cover it with earth."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Because the life of every creature is its blood. Anyone who eats it must be cut off."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Anyone who eats an animal found dead or torn by wild animals must wash their clothes and bathe, and they will be unclean until evening."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "If they do not wash or bathe, they will be held responsible."
+            ]
+        }
+    ]
 }

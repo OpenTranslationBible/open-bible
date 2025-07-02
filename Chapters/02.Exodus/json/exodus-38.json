@@ -1,130 +1,192 @@
 {
-  "book": "Exodus",
-  "chapter": 38,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "They made the altar for burnt offerings out of acacia wood, five cubits square and three cubits high."
-    },
-    {
-      "verse": 2,
-      "text": "They made horns at each of its four corners as one piece with the altar, and overlaid it with bronze."
-    },
-    {
-      "verse": 3,
-      "text": "They made all the utensils of bronze\u2014the pots, shovels, bowls, meat forks and firepans."
-    },
-    {
-      "verse": 4,
-      "text": "They made a bronze grating for the altar, a network under its ledge, halfway up."
-    },
-    {
-      "verse": 5,
-      "text": "They cast four rings and placed them on the corners of the bronze grating to hold the poles."
-    },
-    {
-      "verse": 6,
-      "text": "They made the poles of acacia wood and overlaid them with bronze."
-    },
-    {
-      "verse": 7,
-      "text": "They inserted the poles into the rings so the altar could be carried. They made it hollow, out of boards."
-    },
-    {
-      "verse": 8,
-      "text": "They made the bronze basin and its stand from the mirrors of the women who served at the entrance to the tent of meeting."
-    },
-    {
-      "verse": 9,
-      "text": "Then they made the courtyard. The south side was a hundred cubits long and had curtains of finely twisted linen,"
-    },
-    {
-      "verse": 10,
-      "text": "with twenty posts and twenty bronze bases, with silver hooks and bands on the posts."
-    },
-    {
-      "verse": 11,
-      "text": "The north side was also a hundred cubits long, with the same curtains, posts, bases, hooks and bands."
-    },
-    {
-      "verse": 12,
-      "text": "The west end was fifty cubits wide, with curtains, ten posts, ten bases, silver hooks and bands."
-    },
-    {
-      "verse": 13,
-      "text": "The east end was also fifty cubits wide."
-    },
-    {
-      "verse": 14,
-      "text": "Curtains fifteen cubits long were on one side of the entrance, with three posts and three bases,"
-    },
-    {
-      "verse": 15,
-      "text": "and curtains fifteen cubits long were on the other side of the entrance, with three posts and three bases."
-    },
-    {
-      "verse": 16,
-      "text": "All the curtains around the courtyard were made of finely twisted linen."
-    },
-    {
-      "verse": 17,
-      "text": "The bases for the posts were bronze. The hooks and bands were silver. The tops of the posts were overlaid with silver, and all the posts had silver bands."
-    },
-    {
-      "verse": 18,
-      "text": "The curtain for the entrance was embroidered with blue, purple, and scarlet yarn on finely twisted linen. It was twenty cubits long and five cubits high,"
-    },
-    {
-      "verse": 19,
-      "text": "with four posts and four bronze bases. The hooks and bands were silver, and their tops were overlaid with silver."
-    },
-    {
-      "verse": 20,
-      "text": "All the tent pegs for the tabernacle and courtyard were bronze."
-    },
-    {
-      "verse": 21,
-      "text": "This is the inventory of the tabernacle, the tabernacle of the covenant law, recorded at Moses\u2019 command by the Levites under Ithamar son of Aaron."
-    },
-    {
-      "verse": 22,
-      "text": "Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything the Lord commanded Moses."
-    },
-    {
-      "verse": 23,
-      "text": "With him was Oholiab son of Ahisamak, of the tribe of Dan\u2014a craftsman and designer and embroiderer in blue, purple, and scarlet yarn and fine linen."
-    },
-    {
-      "verse": 24,
-      "text": "The total amount of gold from the wave offerings used in the work was twenty-nine talents and 730 shekels, according to the sanctuary standard."
-    },
-    {
-      "verse": 25,
-      "text": "The silver obtained from those of the community who were counted came to 100 talents and 1,775 shekels."
-    },
-    {
-      "verse": 26,
-      "text": "This was from every man twenty years old or more who was counted, 603,550 in total."
-    },
-    {
-      "verse": 27,
-      "text": "The hundred talents of silver were used to cast the bases for the sanctuary and curtain\u2014100 bases from 100 talents, one talent per base."
-    },
-    {
-      "verse": 28,
-      "text": "The 1,775 shekels were used to make hooks and to overlay the tops of the posts and make bands."
-    },
-    {
-      "verse": 29,
-      "text": "The bronze from the offerings was 70 talents and 2,400 shekels."
-    },
-    {
-      "verse": 30,
-      "text": "It was used to make the bases for the entrance to the tent of meeting, the bronze altar with its grating, all its utensils,"
-    },
-    {
-      "verse": 31,
-      "text": "and the bases for the surrounding courtyard and entrance curtain, as well as all the tent pegs for the tabernacle and the courtyard."
-    }
-  ]
+    "book": "Exodus",
+    "chapter": 38,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "They made the altar for burnt offerings out of acacia wood, five cubits square and three cubits high."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "They made horns at each of its four corners as one piece with the altar, and overlaid it with bronze."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "They made all the utensils of bronze—the pots, shovels, bowls, meat forks and firepans."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "They made a bronze grating for the altar, a network under its ledge, halfway up."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "They cast four rings and placed them on the corners of the bronze grating to hold the poles."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "They made the poles of acacia wood and overlaid them with bronze."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "They inserted the poles into the rings so the altar could be carried. They made it hollow, out of boards."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "They made the bronze basin and its stand from the mirrors of the women who served at the entrance to the tent of meeting."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then they made the courtyard. The south side was a hundred cubits long and had curtains of finely twisted linen,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "with twenty posts and twenty bronze bases, with silver hooks and bands on the posts."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The north side was also a hundred cubits long, with the same curtains, posts, bases, hooks and bands."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "The west end was fifty cubits wide, with curtains, ten posts, ten bases, silver hooks and bands."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "The east end was also fifty cubits wide."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Curtains fifteen cubits long were on one side of the entrance, with three posts and three bases,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "and curtains fifteen cubits long were on the other side of the entrance, with three posts and three bases."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "All the curtains around the courtyard were made of finely twisted linen."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "The bases for the posts were bronze. The hooks and bands were silver. The tops of the posts were overlaid with silver, and all the posts had silver bands."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "The curtain for the entrance was embroidered with blue, purple, and scarlet yarn on finely twisted linen. It was twenty cubits long and five cubits high,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "with four posts and four bronze bases. The hooks and bands were silver, and their tops were overlaid with silver."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "All the tent pegs for the tabernacle and courtyard were bronze."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "This is the inventory of the tabernacle, the tabernacle of the covenant law, recorded at Moses’ command by the Levites under Ithamar son of Aaron."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Bezalel son of Uri, the son of Hur, of the tribe of Judah, made everything the Lord commanded Moses."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "With him was Oholiab son of Ahisamak, of the tribe of Dan—a craftsman and designer and embroiderer in blue, purple, and scarlet yarn and fine linen."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "The total amount of gold from the wave offerings used in the work was twenty-nine talents and 730 shekels, according to the sanctuary standard."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "The silver obtained from those of the community who were counted came to 100 talents and 1,775 shekels."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "This was from every man twenty years old or more who was counted, 603,550 in total."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "The hundred talents of silver were used to cast the bases for the sanctuary and curtain—100 bases from 100 talents, one talent per base."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "The 1,775 shekels were used to make hooks and to overlay the tops of the posts and make bands."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "The bronze from the offerings was 70 talents and 2,400 shekels."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "It was used to make the bases for the entrance to the tent of meeting, the bronze altar with its grating, all its utensils,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "and the bases for the surrounding courtyard and entrance curtain, as well as all the tent pegs for the tabernacle and the courtyard."
+            ]
+        }
+    ]
 }

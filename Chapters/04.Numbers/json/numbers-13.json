@@ -1,138 +1,204 @@
 {
-  "book": "Numbers",
-  "chapter": 13,
-  "verses": [
-    {
-      "verse": 1,
-      "text": "The Lord said to Moses,"
-    },
-    {
-      "verse": 2,
-      "text": "\u201cSend some men to explore the land of Canaan, which I am giving to the Israelites. Send one leader from each ancestral tribe.\u201d"
-    },
-    {
-      "verse": 3,
-      "text": "At the Lord\u2019s command, Moses sent them from the Desert of Paran. All of them were leaders among the Israelites."
-    },
-    {
-      "verse": 4,
-      "text": "These are their names: from Reuben, Shammua son of Zakkur;"
-    },
-    {
-      "verse": 5,
-      "text": "from Simeon, Shaphat son of Hori;"
-    },
-    {
-      "verse": 6,
-      "text": "from Judah, Caleb son of Jephunneh;"
-    },
-    {
-      "verse": 7,
-      "text": "from Issachar, Igal son of Joseph;"
-    },
-    {
-      "verse": 8,
-      "text": "from Ephraim, Hoshea son of Nun;"
-    },
-    {
-      "verse": 9,
-      "text": "from Benjamin, Palti son of Raphu;"
-    },
-    {
-      "verse": 10,
-      "text": "from Zebulun, Gaddiel son of Sodi;"
-    },
-    {
-      "verse": 11,
-      "text": "from Manasseh, Gaddi son of Susi;"
-    },
-    {
-      "verse": 12,
-      "text": "from Dan, Ammiel son of Gemalli;"
-    },
-    {
-      "verse": 13,
-      "text": "from Asher, Sethur son of Michael;"
-    },
-    {
-      "verse": 14,
-      "text": "from Naphtali, Nahbi son of Vophsi;"
-    },
-    {
-      "verse": 15,
-      "text": "from Gad, Geuel son of Maki."
-    },
-    {
-      "verse": 16,
-      "text": "These were the names of the men Moses sent to explore the land. Moses gave Hoshea son of Nun the name Joshua."
-    },
-    {
-      "verse": 17,
-      "text": "When Moses sent them to explore Canaan, he said, \u201cGo up through the Negev and into the hill country."
-    },
-    {
-      "verse": 18,
-      "text": "See what the land is like and whether the people who live there are strong or weak, few or many."
-    },
-    {
-      "verse": 19,
-      "text": "What kind of land do they live in? Is it good or bad? What are the towns like? Are they unwalled or fortified?"
-    },
-    {
-      "verse": 20,
-      "text": "How is the soil? Are there trees? Do your best to bring back some of the fruit of the land.\u201d (It was the season for the first ripe grapes.)"
-    },
-    {
-      "verse": 21,
-      "text": "So they went up and explored the land from the Desert of Zin as far as Rehob."
-    },
-    {
-      "verse": 22,
-      "text": "They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai\u2014the descendants of Anak\u2014lived."
-    },
-    {
-      "verse": 23,
-      "text": "At the Valley of Eshcol they cut off a branch with a single cluster of grapes. It took two men to carry it. They also brought some pomegranates and figs."
-    },
-    {
-      "verse": 24,
-      "text": "That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut there."
-    },
-    {
-      "verse": 25,
-      "text": "At the end of forty days they returned from exploring the land."
-    },
-    {
-      "verse": 26,
-      "text": "They came back to Moses, Aaron, and the whole Israelite community at Kadesh and reported to them and showed them the fruit."
-    },
-    {
-      "verse": 27,
-      "text": "They said, \u201cWe went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit."
-    },
-    {
-      "verse": 28,
-      "text": "But the people who live there are powerful, and the cities are large and fortified. We even saw descendants of Anak there."
-    },
-    {
-      "verse": 29,
-      "text": "The Amalekites live in the Negev; the Hittites, Jebusites, and Amorites in the hills; and the Canaanites near the sea and along the Jordan.\u201d"
-    },
-    {
-      "verse": 30,
-      "text": "Then Caleb silenced the people before Moses and said, \u201cWe should go up and take possession of the land, for we can certainly do it.\u201d"
-    },
-    {
-      "verse": 31,
-      "text": "But the men who had gone with him said, \u201cWe cannot attack those people; they are stronger than we are.\u201d"
-    },
-    {
-      "verse": 32,
-      "text": "And they spread a bad report among the Israelites: \u201cThe land devours those living in it. All the people we saw are of great size."
-    },
-    {
-      "verse": 33,
-      "text": "We saw the Nephilim there. We seemed like grasshoppers in our own eyes, and we looked the same to them.\u201d"
-    }
-  ]
+    "book": "Numbers",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord said to Moses,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Send some men to explore the land of Canaan, which I am giving to the Israelites. Send one leader from each ancestral tribe.”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "At the Lord’s command, Moses sent them from the Desert of Paran. All of them were leaders among the Israelites."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "These are their names: from Reuben, Shammua son of Zakkur;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "from Simeon, Shaphat son of Hori;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "from Judah, Caleb son of Jephunneh;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "from Issachar, Igal son of Joseph;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "from Ephraim, Hoshea son of Nun;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "from Benjamin, Palti son of Raphu;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "from Zebulun, Gaddiel son of Sodi;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "from Manasseh, Gaddi son of Susi;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "from Dan, Ammiel son of Gemalli;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "from Asher, Sethur son of Michael;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "from Naphtali, Nahbi son of Vophsi;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "from Gad, Geuel son of Maki."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "These were the names of the men Moses sent to explore the land. Moses gave Hoshea son of Nun the name Joshua."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "When Moses sent them to explore Canaan, he said, “Go up through the Negev and into the hill country."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "See what the land is like and whether the people who live there are strong or weak, few or many."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "What kind of land do they live in? Is it good or bad? What are the towns like? Are they unwalled or fortified?"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "How is the soil? Are there trees? Do your best to bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "So they went up and explored the land from the Desert of Zin as far as Rehob."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai—the descendants of Anak—lived."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "At the Valley of Eshcol they cut off a branch with a single cluster of grapes. It took two men to carry it. They also brought some pomegranates and figs."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut there."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "At the end of forty days they returned from exploring the land."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "They came back to Moses, Aaron, and the whole Israelite community at Kadesh and reported to them and showed them the fruit."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "They said, “We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "But the people who live there are powerful, and the cities are large and fortified. We even saw descendants of Anak there."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "The Amalekites live in the Negev; the Hittites, Jebusites, and Amorites in the hills; and the Canaanites near the sea and along the Jordan.”"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Then Caleb silenced the people before Moses and said, “We should go up and take possession of the land, for we can certainly do it.”"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "But the men who had gone with him said, “We cannot attack those people; they are stronger than we are.”"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "And they spread a bad report among the Israelites: “The land devours those living in it. All the people we saw are of great size."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "We saw the Nephilim there. We seemed like grasshoppers in our own eyes, and we looked the same to them.”"
+            ]
+        }
+    ]
 }
