@@ -5,13 +5,15 @@
         {
             "verse": 1,
             "text": [
-                "I am the rose of Sharon,The lily of the valleys."
+                "I am the rose of Sharon,",
+                "The lily of the valleys."
             ]
         },
         {
             "verse": 2,
             "text": [
-                "Like a lily among the thorns,So is my darling among the young women."
+                "Like a lily among the thorns,",
+                "So is my darling among the young women."
             ]
         },
         {
@@ -22,25 +24,32 @@
         {
             "verse": 3,
             "text": [
-                "Like an apple tree among the trees of the forest,So is my beloved among the young men.In his shade I took great delight and sat down,And his fruit was sweet to my taste."
+                "Like an apple tree among the trees of the forest,",
+                "So is my beloved among the young men.",
+                "In his shade I took great delight and sat down,",
+                "And his fruit was sweet to my taste."
             ]
         },
         {
             "verse": 4,
             "text": [
-                "He has brought me to his banquet hall,And his banner over me is love."
+                "He has brought me to his banquet hall,",
+                "And his banner over me is love."
             ]
         },
         {
             "verse": 5,
             "text": [
-                "Refresh me with raisin cakes,Sustain me with apples,Because I am lovesick."
+                "Refresh me with raisin cakes,",
+                "Sustain me with apples,",
+                "Because I am lovesick."
             ]
         },
         {
             "verse": 6,
             "text": [
-                "His left hand is under my head,And his right hand embraces me."
+                "His left hand is under my head,",
+                "And his right hand embraces me."
             ]
         },
         {
@@ -51,7 +60,11 @@
         {
             "verse": 7,
             "text": [
-                "I adjure you,O daughters of Jerusalem,By the gazelles or by the does of the field,That you do not awaken or stir up loveUntil it pleases."
+                "I adjure you,",
+                "O daughters of Jerusalem,",
+                "By the gazelles or by the does of the field,",
+                "That you do not awaken or stir up love",
+                "Until it pleases."
             ]
         },
         {
@@ -62,13 +75,19 @@
         {
             "verse": 8,
             "text": [
-                "The voice of my beloved!Behold, he is coming,Leaping on the mountains,Skipping on the hills!"
+                "The voice of my beloved!",
+                "Behold, he is coming,",
+                "Leaping on the mountains,",
+                "Skipping on the hills!"
             ]
         },
         {
             "verse": 9,
             "text": [
-                "My beloved is like a gazelle or a young stag.Behold, he is standing behind our wall,He is looking through the windows,He is peering through the lattice."
+                "My beloved is like a gazelle or a young stag.",
+                "Behold, he is standing behind our wall,",
+                "He is looking through the windows,",
+                "He is peering through the lattice."
             ]
         },
         {
@@ -79,25 +98,33 @@
         {
             "verse": 10,
             "text": [
-                "My beloved responded and said to me,“Arise, my darling, my beautiful one,And come along."
+                "My beloved responded and said to me,",
+                "“Arise, my darling, my beautiful one,",
+                "And come along."
             ]
         },
         {
             "verse": 11,
             "text": [
-                "For behold, the winter is past,The rain is over and gone."
+                "For behold, the winter is past,",
+                "The rain is over and gone."
             ]
         },
         {
             "verse": 12,
             "text": [
-                "The blossoms have appeared in the land;The time has arrived for pruning the vines,And the voice of the turtledove has been heard in our land."
+                "The blossoms have appeared in the land;",
+                "The time has arrived for pruning the vines,",
+                "And the voice of the turtledove has been heard in our land."
             ]
         },
         {
             "verse": 13,
             "text": [
-                "The fig tree has ripened its fruit,And the vines in blossom have given forth fragrance.Arise, my darling, my beautiful one,And come along!”"
+                "The fig tree has ripened its fruit,",
+                "And the vines in blossom have given forth fragrance.",
+                "Arise, my darling, my beautiful one,",
+                "And come along!”"
             ]
         },
         {
@@ -108,7 +135,12 @@
         {
             "verse": 14,
             "text": [
-                "My dove, in the clefts of the rock,In the hiding place of the mountain pathway,Let me see your form,Let me hear your voice;For your voice is sweet,And your form is lovely."
+                "My dove, in the clefts of the rock,",
+                "In the hiding place of the mountain pathway,",
+                "Let me see your form,",
+                "Let me hear your voice;",
+                "For your voice is sweet,",
+                "And your form is lovely."
             ]
         },
         {
@@ -119,7 +151,9 @@
         {
             "verse": 15,
             "text": [
-                "Catch the foxes for us,The little foxes that are ruining the vineyards,While our vineyards are in blossom."
+                "Catch the foxes for us,",
+                "The little foxes that are ruining the vineyards,",
+                "While our vineyards are in blossom."
             ]
         },
         {
@@ -130,13 +164,16 @@
         {
             "verse": 16,
             "text": [
-                "My beloved is mine, and I am his;He pastures his flock among the lilies."
+                "My beloved is mine, and I am his;",
+                "He pastures his flock among the lilies."
             ]
         },
         {
             "verse": 17,
             "text": [
-                "Until the cool of the day when the shadows flee,Turn, my beloved, and be like a gazelleOr a young stag on the mountains of Bether."
+                "Until the cool of the day when the shadows flee,",
+                "Turn, my beloved, and be like a gazelle",
+                "Or a young stag on the mountains of Bether."
             ]
         }
     ]

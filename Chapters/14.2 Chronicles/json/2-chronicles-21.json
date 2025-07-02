@@ -126,7 +126,9 @@
         {
             "verse": 12,
             "text": [
-                "Then a letter came to him from Elijah the prophet, saying,“This is what the Lord, the God of your father David says:‘Because you have not walked in the ways of your father Jehoshaphat and the ways of Asa king of Judah,"
+                "Then a letter came to him from Elijah the prophet, saying,",
+                "“This is what the Lord, the God of your father David says:",
+                "‘Because you have not walked in the ways of your father Jehoshaphat and the ways of Asa king of Judah,"
             ]
         },
         {
@@ -214,7 +216,8 @@
         {
             "verse": 20,
             "text": [
-                "He was thirty-two years old when he became king, and he reigned in Jerusalem for eight years; and he departed with no one’s regret.And they buried him in the city of David, but not in the tombs of the kings."
+                "He was thirty-two years old when he became king, and he reigned in Jerusalem for eight years; and he departed with no one’s regret.",
+                "And they buried him in the city of David, but not in the tombs of the kings."
             ]
         }
     ]

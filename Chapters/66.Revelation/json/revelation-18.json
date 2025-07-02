@@ -90,7 +90,8 @@
         {
             "verse": 12,
             "text": [
-                "cargo of gold, silver, precious stones, pearls, fine linen, purple, silk, and scarlet,every kind of citron wood, every article of ivory, every article made from very valuable wood, bronze, iron, and marble,"
+                "cargo of gold, silver, precious stones, pearls, fine linen, purple, silk, and scarlet,",
+                "every kind of citron wood, every article of ivory, every article made from very valuable wood, bronze, iron, and marble,"
             ]
         },
         {
@@ -102,7 +103,9 @@
         {
             "verse": 14,
             "text": [
-                "The fruit you longed for has left you,and all things that were luxurious and splendid have passed away from you,and people will no longer find them."
+                "The fruit you longed for has left you,",
+                "and all things that were luxurious and splendid have passed away from you,",
+                "and people will no longer find them."
             ]
         },
         {
@@ -123,13 +126,15 @@
         {
             "verse": 17,
             "text": [
-                "for in one hour such great wealth has been laid waste!’And every shipmaster, every passenger, sailor, and all who make their living by the sea, stood at a distance,"
+                "for in one hour such great wealth has been laid waste!’",
+                "And every shipmaster, every passenger, sailor, and all who make their living by the sea, stood at a distance,"
             ]
         },
         {
             "verse": 18,
             "text": [
-                "and were crying out as they saw the smoke of her burning, saying,‘What city is like the great city?’"
+                "and were crying out as they saw the smoke of her burning, saying,",
+                "‘What city is like the great city?’"
             ]
         },
         {
