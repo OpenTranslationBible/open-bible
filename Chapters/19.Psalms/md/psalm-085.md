@@ -1,6 +1,6 @@
 # Psalm 85
 
-_For the music director. A Psalm of the sons of Korah._
+### For the music director. A Psalm of the sons of Korah.
 
 ## Psalm 85:1
 
@@ -10,8 +10,9 @@ _For the music director. A Psalm of the sons of Korah._
 ## Psalm 85:2
 
 > You forgave the guilt of Your people;  
-> You covered all their sin.  
-> _Selah_
+> You covered all their sin.
+
+> Selah
 
 ## Psalm 85:3
 

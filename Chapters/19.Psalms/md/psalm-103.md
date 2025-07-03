@@ -1,6 +1,6 @@
 # Psalm 103
 
-_Of David._
+### Of David.
 
 ## Psalm 103:1
 

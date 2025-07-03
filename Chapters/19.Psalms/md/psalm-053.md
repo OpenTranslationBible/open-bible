@@ -1,6 +1,6 @@
 # Psalm 53
 
-_For the music director; according to Mahalath. A Maskil of David._
+### For the music director; according to Mahalath. A Maskil of David.
 
 ## Psalm 53:1
 

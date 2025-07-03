@@ -1,6 +1,6 @@
 # Psalm 66
 
-_For the music director. A Song. A Psalm._
+### For the music director. A Song. A Psalm.
 
 ## Psalm 66:1
 
@@ -20,8 +20,9 @@ _For the music director. A Song. A Psalm._
 
 > All the earth will worship You,  
 > And will sing praises to You;  
-> They will sing praises to Your name.”  
-> _Selah_
+> They will sing praises to Your name.”
+
+> Selah
 
 ---
 
@@ -40,8 +41,9 @@ _For the music director. A Song. A Psalm._
 
 > He rules by His might forever;  
 > His eyes keep watch on the nations;  
-> The rebellious shall not exalt themselves.  
-> _Selah_
+> The rebellious shall not exalt themselves.
+
+> Selah
 
 ---
 
@@ -87,8 +89,9 @@ _For the music director. A Song. A Psalm._
 
 > I shall offer to You burnt offerings of fat animals,  
 > With the smoke of rams;  
-> I shall make an offering of bulls with male goats.  
-> _Selah_
+> I shall make an offering of bulls with male goats.
+
+> Selah
 
 ---
 

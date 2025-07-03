@@ -1,6 +1,6 @@
 # Psalm 7
 
-_A Shiggaion of David, which he sang to the Lord concerning Cush, a Benjaminite._
+### A Shiggaion of David, which he sang to the Lord concerning Cush, a Benjaminite.
 
 ## Psalm 7:1
 
@@ -28,8 +28,9 @@ _A Shiggaion of David, which he sang to the Lord concerning Cush, a Benjaminite.
 
 > Let the enemy pursue my soul and overtake it;  
 > And let him trample my life to the ground  
-> And lay my glory in the dust.  
-> _Selah_
+> And lay my glory in the dust.
+
+> Selah
 
 ---
 

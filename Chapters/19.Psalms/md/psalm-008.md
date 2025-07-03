@@ -1,6 +1,6 @@
 # Psalm 8
 
-_For the music director; on the Gittith. A Psalm of David._
+### For the music director; on the Gittith. A Psalm of David.
 
 ## Psalm 8:1
 

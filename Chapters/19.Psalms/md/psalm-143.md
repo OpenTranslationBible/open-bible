@@ -1,6 +1,6 @@
 # Psalm 143
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 143:1
 
@@ -33,8 +33,9 @@ _A Psalm of David._
 ## Psalm 143:6
 
 > I spread out my hands to You;  
-> My soul longs for You, like a weary land.  
-> _Selah_
+> My soul longs for You, like a weary land.
+
+> Selah
 
 ---
 

@@ -1,6 +1,6 @@
 # Psalm 22
 
-_For the music director; upon Aijeleth Hashshahar. A Psalm of David._
+### For the music director; upon Aijeleth Hashshahar. A Psalm of David.
 
 ## Psalm 22:1
 

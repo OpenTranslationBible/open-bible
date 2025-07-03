@@ -1,6 +1,6 @@
 # Psalm 28
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 28:1
 

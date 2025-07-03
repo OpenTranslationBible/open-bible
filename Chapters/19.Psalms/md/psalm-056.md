@@ -1,6 +1,6 @@
 # Psalm 56
 
-_For the music director; according to Jonath elem rehokim. A Mikhtam of David, when the Philistines seized him in Gath._
+### For the music director; according to Jonath elem rehokim. A Mikhtam of David, when the Philistines seized him in Gath.
 
 ## Psalm 56:1
 

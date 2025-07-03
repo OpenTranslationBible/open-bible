@@ -1,6 +1,6 @@
 # Psalm 62
 
-_For the music director; according to Jeduthun. A Psalm of David._
+### For the music director; according to Jeduthun. A Psalm of David.
 
 ## Psalm 62:1
 
@@ -25,8 +25,9 @@ _For the music director; according to Jeduthun. A Psalm of David._
 > They have planned only to thrust him down from his high position;  
 > They delight in falsehood;  
 > They bless with their mouth,  
-> But inwardly they curse.  
-> _Selah_
+> But inwardly they curse.
+
+> Selah
 
 ---
 
@@ -49,8 +50,9 @@ _For the music director; according to Jeduthun. A Psalm of David._
 
 > Trust in Him at all times, you people;  
 > Pour out your hearts before Him;  
-> God is a refuge for us.  
-> _Selah_
+> God is a refuge for us.
+
+> Selah
 
 ---
 

@@ -255,7 +255,7 @@ Nicodemus (the one who came to Him before, being one of them) _said to them_,
 They answered and said to him,  
 “You are not from Galilee as well, are you? Examine the Scriptures, and see that no prophet comes out of Galilee.”
 
-_Some early manuscripts do not have John 7:53 in this location, but do include it_
+### Some early manuscripts do not have John 7:53 in this location, but do include it
 
 ## John 7:53
 

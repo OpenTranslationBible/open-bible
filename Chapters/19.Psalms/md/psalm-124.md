@@ -1,6 +1,6 @@
 # Psalm 124
 
-_A Song of Ascents. Of David._
+### A Song of Ascents. Of David.
 
 ## Psalm 124:1
 

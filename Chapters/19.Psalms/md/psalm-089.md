@@ -1,6 +1,6 @@
 # Psalm 89
 
-_A Maskil of Ethan the Ezrahite._
+### A Maskil of Ethan the Ezrahite.
 
 ## Psalm 89:1
 
@@ -22,7 +22,7 @@ _A Maskil of Ethan the Ezrahite._
 > I will establish your descendants forever,  
 > And build up your throne to all generations.”
 
-> _Selah_
+> Selah
 
 ---
 
@@ -198,8 +198,9 @@ _A Maskil of Ethan the Ezrahite._
 ## Psalm 89:37
 
 > It shall be established forever like the moon,  
-> And a witness in the sky is faithful.”  
-> _Selah_
+> And a witness in the sky is faithful.”
+
+> Selah
 
 ---
 
@@ -241,8 +242,9 @@ _A Maskil of Ethan the Ezrahite._
 ## Psalm 89:45
 
 > You have shortened the days of his youth;  
-> You have covered him with shame.  
-> _Selah_
+> You have covered him with shame.
+
+> Selah
 
 ---
 
@@ -261,7 +263,7 @@ _A Maskil of Ethan the Ezrahite._
 > What man can live and not see death?  
 > Can he save his soul from the power of Sheol?
 
-> _Selah_
+> Selah
 
 ## Psalm 89:49
 

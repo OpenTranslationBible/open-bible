@@ -1,6 +1,6 @@
 # Psalm 46
 
-_For the music director. A Psalm of the sons of Korah, set to Alamoth. A Song._
+### For the music director. A Psalm of the sons of Korah, set to Alamoth. A Song.
 
 ## Psalm 46:1
 
@@ -15,8 +15,9 @@ _For the music director. A Psalm of the sons of Korah, set to Alamoth. A Song._
 ## Psalm 46:3
 
 > Though its waters roar and foam,  
-> Though the mountains quake at its surging pride.  
-> _Selah_
+> Though the mountains quake at its surging pride.
+
+> Selah
 
 ---
 
@@ -40,8 +41,9 @@ _For the music director. A Psalm of the sons of Korah, set to Alamoth. A Song._
 ## Psalm 46:7
 
 > The Lord of armies is with us;  
-> The God of Jacob is our stronghold.  
-> _Selah_
+> The God of Jacob is our stronghold.
+
+> \_Selah
 
 ---
 
@@ -67,5 +69,6 @@ _For the music director. A Psalm of the sons of Korah, set to Alamoth. A Song._
 ## Psalm 46:11
 
 > The Lord of armies is with us;  
-> The God of Jacob is our stronghold.  
-> _Selah_
+> The God of Jacob is our stronghold.
+
+> Selah

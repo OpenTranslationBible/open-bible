@@ -1,6 +1,6 @@
 # Psalm 54
 
-_For the music director; on stringed instruments. A Maskil of David, when the Ziphites came and said to Saul, “Is David not keeping himself hidden among us?”_
+### For the music director; on stringed instruments. A Maskil of David, when the Ziphites came and said to Saul, “Is David not keeping himself hidden among us?”
 
 ## Psalm 54:1
 
@@ -18,8 +18,9 @@ _For the music director; on stringed instruments. A Maskil of David, when the Zi
 
 > For strangers have risen against me,  
 > And violent men have sought my life;  
-> They have not set God before them.  
-> _Selah_
+> They have not set God before them.
+
+> Selah
 
 ---
 

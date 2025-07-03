@@ -1,6 +1,6 @@
 # Psalm 121
 
-_A Song of Ascents._
+### A Song of Ascents.
 
 ## Psalm 121:1
 

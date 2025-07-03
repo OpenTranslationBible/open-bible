@@ -1,6 +1,6 @@
 # Psalm 77
 
-_For the music director; according to Jeduthun. A Psalm of Asaph._
+### For the music director; according to Jeduthun. A Psalm of Asaph.
 
 ## Psalm 77:1
 
@@ -18,8 +18,9 @@ _For the music director; according to Jeduthun. A Psalm of Asaph._
 ## Psalm 77:3
 
 > When I remember God, then I am restless;  
-> When I sigh, then my spirit feels weak.  
-> _Selah_
+> When I sigh, then my spirit feels weak.
+
+> Selah
 
 ## Psalm 77:4
 
@@ -52,8 +53,9 @@ _For the music director; according to Jeduthun. A Psalm of Asaph._
 ## Psalm 77:9
 
 > Has God forgotten to be gracious,  
-> Or has He in anger withdrawn His compassion?  
-> _Selah_
+> Or has He in anger withdrawn His compassion?
+
+> Selah
 
 ---
 
@@ -87,8 +89,9 @@ _For the music director; according to Jeduthun. A Psalm of Asaph._
 ## Psalm 77:15
 
 > You have by Your power redeemed Your people,  
-> The sons of Jacob and Joseph.  
-> _Selah_
+> The sons of Jacob and Joseph.
+
+> Selah
 
 ---
 

@@ -1,6 +1,6 @@
 # Psalm 122
 
-_A Song of Ascents. Of David._
+### A Song of Ascents. Of David.
 
 ## Psalm 122:1
 

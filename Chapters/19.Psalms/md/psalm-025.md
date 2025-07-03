@@ -1,6 +1,6 @@
 # Psalm 25
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 25:1
 

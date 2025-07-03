@@ -1,6 +1,6 @@
 # Psalm 70
 
-_For the music director. A Psalm of David; to bring to remembrance._
+### For the music director. A Psalm of David; to bring to remembrance.
 
 ## Psalm 70:1
 

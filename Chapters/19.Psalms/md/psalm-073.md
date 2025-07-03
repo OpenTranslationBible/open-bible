@@ -1,6 +1,6 @@
 # Psalm 73
 
-_A Psalm of Asaph._
+### A Psalm of Asaph.
 
 ## Psalm 73:1
 

@@ -1,6 +1,6 @@
 # Psalm 4
 
-_For the music director; on stringed instruments. A Psalm of David._
+### For the music director; on stringed instruments. A Psalm of David.
 
 ## Psalm 4:1
 
@@ -13,8 +13,9 @@ _For the music director; on stringed instruments. A Psalm of David._
 ## Psalm 4:2
 
 > You sons of man, how long will my honour be turned into shame?  
-> How long will you love what is worthless and strive for a lie?  
-> _Selah_
+> How long will you love what is worthless and strive for a lie?
+
+> Selah
 
 ## Psalm 4:3
 
@@ -26,8 +27,9 @@ _For the music director; on stringed instruments. A Psalm of David._
 ## Psalm 4:4
 
 > Tremble, and do not sin;  
-> Meditate in your heart upon your bed, and be still.  
-> _Selah_
+> Meditate in your heart upon your bed, and be still.
+
+> Selah
 
 ## Psalm 4:5
 

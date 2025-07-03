@@ -1,6 +1,6 @@
 # Psalm 57
 
-_For the music director; set to Al-tashheth. A Mikhtam of David, when he fled from Saul in the cave._
+### For the music director; set to Al-tashheth. A Mikhtam of David, when he fled from Saul in the cave.
 
 ## Psalm 57:1
 
@@ -46,8 +46,9 @@ _For the music director; set to Al-tashheth. A Mikhtam of David, when he fled fr
 > They have set a net for my steps;  
 > My soul is bowed down;  
 > They dug a pit before me;  
-> They themselves have fallen into the midst of it.  
-> _Selah_
+> They themselves have fallen into the midst of it.
+
+> Selah
 
 ---
 

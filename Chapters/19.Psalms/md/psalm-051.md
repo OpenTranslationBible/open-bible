@@ -1,6 +1,6 @@
 # Psalm 51
 
-_For the music director. A Psalm of David, when Nathan the prophet came to him, after he had gone in to Bathsheba._
+### For the music director. A Psalm of David, when Nathan the prophet came to him, after he had gone in to Bathsheba.
 
 ## Psalm 51:1
 

@@ -1,6 +1,6 @@
 # Psalm 36
 
-_For the music director. A Psalm of David the servant of the Lord._
+### For the music director. A Psalm of David the servant of the Lord.
 
 ## Psalm 36:1
 

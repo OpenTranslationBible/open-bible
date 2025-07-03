@@ -1,6 +1,6 @@
 # Psalm 123
 
-_A Song of Ascents._
+### A Song of Ascents.
 
 ## Psalm 123:1
 

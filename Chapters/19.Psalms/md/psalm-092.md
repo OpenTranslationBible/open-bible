@@ -1,6 +1,6 @@
 # Psalm 92
 
-_A Psalm, a Song for the Sabbath day._
+### A Psalm, a Song for the Sabbath day.
 
 ## Psalm 92:1
 

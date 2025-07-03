@@ -1,6 +1,6 @@
 # Psalm 88
 
-_A Song. A Psalm of the sons of Korah. For the music director; according to Mahalath Leannoth. A Maskil of Heman the Ezrahite._
+### A Song. A Psalm of the sons of Korah. For the music director; according to Mahalath Leannoth. A Maskil of Heman the Ezrahite.
 
 ## Psalm 88:1
 
@@ -41,8 +41,9 @@ _A Song. A Psalm of the sons of Korah. For the music director; according to Maha
 ## Psalm 88:7
 
 > Your wrath has rested upon me,  
-> And You have afflicted me with all Your waves.  
-> _Selah_
+> And You have afflicted me with all Your waves.
+
+> Selah
 
 ## Psalm 88:8
 
@@ -62,8 +63,9 @@ _A Song. A Psalm of the sons of Korah. For the music director; according to Maha
 ## Psalm 88:10
 
 > Will You perform wonders for the dead?  
-> Or will the departed spirits rise and praise You?  
-> _Selah_
+> Or will the departed spirits rise and praise You?
+
+> Selah
 
 ## Psalm 88:11
 

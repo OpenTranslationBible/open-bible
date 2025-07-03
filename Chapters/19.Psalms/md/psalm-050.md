@@ -1,6 +1,6 @@
 # Psalm 50
 
-_A Psalm of Asaph._
+### A Psalm of Asaph.
 
 ## Psalm 50:1
 
@@ -31,8 +31,9 @@ _A Psalm of Asaph._
 ## Psalm 50:6
 
 > And the heavens declare His righteousness,  
-> For God Himself is judge.  
-> _Selah_
+> For God Himself is judge.
+
+> Selah
 
 ---
 

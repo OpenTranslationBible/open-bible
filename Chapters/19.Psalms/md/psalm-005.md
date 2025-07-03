@@ -1,6 +1,6 @@
 # Psalm 5
 
-_For the music director; for flutes. A Psalm of David._
+### For the music director; for flutes. A Psalm of David.
 
 ## Psalm 5:1
 

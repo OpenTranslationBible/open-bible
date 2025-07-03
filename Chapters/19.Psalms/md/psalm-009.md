@@ -1,6 +1,6 @@
 # Psalm 9
 
-_For the music director; on Muth-labben. A Psalm of David._
+### For the music director; on Muth-labben. A Psalm of David.
 
 ## Psalm 9:1
 
@@ -93,8 +93,9 @@ _For the music director; on Muth-labben. A Psalm of David._
 ## Psalm 9:16
 
 > The Lord has made Himself known; He has executed judgment.  
-> A wicked one is ensnared in the work of his own hands.  
-> _Higgaion Selah_
+> A wicked one is ensnared in the work of his own hands.
+
+> Higgaion Selah
 
 ## Psalm 9:17
 
@@ -116,5 +117,6 @@ _For the music director; on Muth-labben. A Psalm of David._
 ## Psalm 9:20
 
 > Put them in fear, Lord;  
-> Let the nations know that they are merely human.  
-> _Selah_
+> Let the nations know that they are merely human.
+
+> Selah

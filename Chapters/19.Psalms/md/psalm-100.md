@@ -1,6 +1,6 @@
 # Psalm 100
 
-_A Psalm of thanksgiving._
+### A Psalm of thanksgiving.
 
 ## Psalm 100:1
 

@@ -1,6 +1,6 @@
 # Psalm 34
 
-_A Psalm of David, when he pretended to be insane before Abimelech, who drove him away and he departed._
+### A Psalm of David, when he pretended to be insane before Abimelech, who drove him away and he departed.
 
 ## Psalm 34:1
 

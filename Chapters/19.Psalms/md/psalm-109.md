@@ -1,6 +1,6 @@
 # Psalm 109
 
-_For the music director. A Psalm of David._
+### For the music director. A Psalm of David.
 
 ## Psalm 109:1
 

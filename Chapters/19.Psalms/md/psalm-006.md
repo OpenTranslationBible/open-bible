@@ -1,6 +1,6 @@
 # Psalm 6
 
-_For the music director; with stringed instruments, upon an eight-string lyre. A Psalm of David._
+### For the music director; with stringed instruments, upon an eight-string lyre. A Psalm of David.
 
 ## Psalm 6:1
 

@@ -1,6 +1,6 @@
 # Psalm 24
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 24:1
 
@@ -35,8 +35,9 @@ _A Psalm of David._
 ## Psalm 24:6
 
 > This is the generation of those who seek Him,  
-> Who seek Your face—Jacob.  
-> _Selah_
+> Who seek Your face—Jacob.
+
+> Selah
 
 ---
 
@@ -61,5 +62,6 @@ _A Psalm of David._
 ## Psalm 24:10
 
 > Who is this King of glory?  
-> The Lord of armies, He is the King of glory.  
-> _Selah_
+> The Lord of armies, He is the King of glory.
+
+> Selah

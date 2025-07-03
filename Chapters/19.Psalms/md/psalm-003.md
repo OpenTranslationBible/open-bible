@@ -1,6 +1,6 @@
 # Psalm 3
 
-_A Psalm of David, when he fled from his son Absalom._
+### A Psalm of David, when he fled from his son Absalom.
 
 ## Psalm 3:1
 
@@ -10,8 +10,9 @@ _A Psalm of David, when he fled from his son Absalom._
 ## Psalm 3:2
 
 > Many are saying of my soul,  
-> “There is no salvation for him in God.”  
-> _Selah_
+> “There is no salvation for him in God.”
+
+> Selah
 
 ---
 
@@ -23,8 +24,9 @@ _A Psalm of David, when he fled from his son Absalom._
 ## Psalm 3:4
 
 > I was crying out to the Lord with my voice,  
-> And He answered me from His holy mountain.  
-> _Selah_
+> And He answered me from His holy mountain.
+
+> Selah
 
 ---
 
@@ -51,5 +53,6 @@ _A Psalm of David, when he fled from his son Absalom._
 ## Psalm 3:8
 
 > Salvation belongs to the Lord;  
-> May Your blessing be upon Your people.  
-> _Selah_
+> May Your blessing be upon Your people.
+
+> Selah

@@ -1,6 +1,6 @@
 # Psalm 37
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 37:1
 

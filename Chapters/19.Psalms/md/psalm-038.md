@@ -1,6 +1,6 @@
 # Psalm 38
 
-_A Psalm of David, to bring to remembrance._
+### A Psalm of David, to bring to remembrance.
 
 ## Psalm 38:1
 

@@ -1,6 +1,6 @@
 # Psalm 84
 
-_For the music director; on the Gittith. A Psalm of the sons of Korah._
+### For the music director; on the Gittith. A Psalm of the sons of Korah.
 
 ## Psalm 84:1
 
@@ -24,7 +24,7 @@ _For the music director; on the Gittith. A Psalm of the sons of Korah._
 > Blessed are those who dwell in Your house!  
 > They are ever praising You.
 
-> _Selah_
+> Selah
 
 ---
 
@@ -48,8 +48,9 @@ _For the music director; on the Gittith. A Psalm of the sons of Korah._
 ## Psalm 84:8
 
 > Lord God of armies, hear my prayer;  
-> Listen, God of Jacob!  
-> _Selah_
+> Listen, God of Jacob!
+
+> Selah
 
 ## Psalm 84:9
 

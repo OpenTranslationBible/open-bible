@@ -1,6 +1,6 @@
 # Psalm 76
 
-_For the music director; on stringed instruments. A Psalm of Asaph, a Song._
+### For the music director; on stringed instruments. A Psalm of Asaph, a Song.
 
 ## Psalm 76:1
 
@@ -15,8 +15,9 @@ _For the music director; on stringed instruments. A Psalm of Asaph, a Song._
 ## Psalm 76:3
 
 > There He broke the flaming arrows,  
-> The shield, the sword, and the weapons of war.  
-> _Selah_
+> The shield, the sword, and the weapons of war.
+
+> Selah
 
 ---
 
@@ -51,8 +52,9 @@ _For the music director; on stringed instruments. A Psalm of Asaph, a Song._
 ## Psalm 76:9
 
 > When God arose to judgment,  
-> To save all the humble of the earth.  
-> _Selah_
+> To save all the humble of the earth.
+
+> Selah
 
 ## Psalm 76:10
 

@@ -1,6 +1,6 @@
 # Psalm 23
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 23:1
 

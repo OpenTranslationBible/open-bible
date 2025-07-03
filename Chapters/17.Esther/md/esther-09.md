@@ -165,7 +165,7 @@ and that he and his sons were to be hanged on the gallows.
 
 ## Esther 9:26
 
-Therefore they called these days _Purim_, after the name Pur.  
+Therefore they called these days Purim, after the name Pur.  
 And because of the instructions in this letter,  
 both what they had seen in this regard and what had happened to them,
 

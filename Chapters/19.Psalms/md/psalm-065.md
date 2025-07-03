@@ -1,6 +1,6 @@
 # Psalm 65
 
-_For the music director. A Psalm of David. A Song._
+### For the music director. A Psalm of David. A Song.
 
 ## Psalm 65:1
 

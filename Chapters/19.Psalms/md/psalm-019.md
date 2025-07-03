@@ -1,6 +1,6 @@
 # Psalm 19
 
-_For the music director. A Psalm of David._
+### For the music director. A Psalm of David.
 
 ## Psalm 19:1
 

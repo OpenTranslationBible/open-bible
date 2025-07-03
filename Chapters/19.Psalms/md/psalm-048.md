@@ -1,6 +1,6 @@
 # Psalm 48
 
-_A Song; a Psalm of the sons of Korah._
+### A Song; a Psalm of the sons of Korah.
 
 ## Psalm 48:1
 
@@ -48,8 +48,9 @@ _A Song; a Psalm of the sons of Korah._
 
 > Just as we have heard, so we have seen  
 > In the city of the Lord of armies, in the city of our God;  
-> God will establish her forever.  
-> _Selah_
+> God will establish her forever.
+
+> Selah
 
 ---
 

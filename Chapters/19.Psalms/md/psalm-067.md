@@ -1,12 +1,13 @@
 # Psalm 67
 
-_For the music director; with stringed instruments. A Psalm. A Song._
+### For the music director; with stringed instruments. A Psalm. A Song.
 
 ## Psalm 67:1
 
 > God be gracious to us and bless us,  
-> And cause His face to shine upon us—  
-> _Selah_
+> And cause His face to shine upon us—
+
+> Selah
 
 ## Psalm 67:2
 
@@ -24,8 +25,9 @@ _For the music director; with stringed instruments. A Psalm. A Song._
 
 > May the nations be glad and sing for joy;  
 > For You will judge the peoples with fairness  
-> And guide the nations on the earth.  
-> _Selah_
+> And guide the nations on the earth.
+
+> Selah
 
 ## Psalm 67:5
 

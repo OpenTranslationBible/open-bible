@@ -1,6 +1,6 @@
 # Psalm 21
 
-_For the music director. A Psalm of David._
+### For the music director. A Psalm of David.
 
 ## Psalm 21:1
 
@@ -12,8 +12,9 @@ _For the music director. A Psalm of David._
 ## Psalm 21:2
 
 > You have given him his heart’s desire,  
-> And You have not withheld the request of his lips.  
-> _Selah_
+> And You have not withheld the request of his lips.
+
+> Selah
 
 ## Psalm 21:3
 

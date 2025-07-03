@@ -1,6 +1,6 @@
 # Psalm 98
 
-_A Psalm._
+### A Psalm.
 
 ## Psalm 98:1
 

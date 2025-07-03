@@ -1,6 +1,6 @@
 # Psalm 18
 
-_For the music director. A Psalm of David, the servant of the Lord, who spoke to the Lord the words of this song on the day that the Lord rescued him from the hand of all his enemies and from the hand of Saul. And he said:_
+### For the music director. A Psalm of David, the servant of the Lord, who spoke to the Lord the words of this song on the day that the Lord rescued him from the hand of all his enemies and from the hand of Saul. And he said:
 
 ## Psalm 18:1
 

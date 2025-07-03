@@ -1,6 +1,6 @@
 # Psalm 144
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 144:1
 

@@ -1,6 +1,6 @@
 # Psalm 49
 
-_For the music director. A Psalm of the sons of Korah._
+### For the music director. A Psalm of the sons of Korah.
 
 ## Psalm 49:1
 
@@ -73,8 +73,9 @@ _For the music director. A Psalm of the sons of Korah._
 ## Psalm 49:13
 
 > This is the way of those who are foolish,  
-> And of those after them who approve their words.  
-> _Selah_
+> And of those after them who approve their words.
+
+> Selah
 
 ## Psalm 49:14
 
@@ -87,8 +88,9 @@ _For the music director. A Psalm of the sons of Korah._
 ## Psalm 49:15
 
 > But God will redeem my soul from the power of Sheol,  
-> For He will receive me.  
-> _Selah_
+> For He will receive me.
+
+> Selah
 
 ## Psalm 49:16
 

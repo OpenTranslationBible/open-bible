@@ -1,6 +1,6 @@
 # Psalm 134
 
-_A Song of Ascents._
+### A Song of Ascents.
 
 ## Psalm 134:1
 

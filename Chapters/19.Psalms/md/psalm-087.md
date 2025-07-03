@@ -1,6 +1,6 @@
 # Psalm 87
 
-_A Psalm of the sons of Korah. A Song._
+### A Psalm of the sons of Korah. A Song.
 
 ## Psalm 87:1
 
@@ -18,7 +18,7 @@ _A Psalm of the sons of Korah. A Song._
 > Glorious things are spoken of you,  
 > City of God.
 
-> _Selah_
+> Selah
 
 ## Psalm 87:4
 
@@ -36,7 +36,7 @@ _A Psalm of the sons of Korah. A Song._
 > The Lord will count when He registers the peoples:  
 > “This one was born there.”
 
-> _Selah_
+> Selah
 
 ## Psalm 87:7
 

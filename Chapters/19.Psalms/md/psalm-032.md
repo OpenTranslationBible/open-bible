@@ -1,6 +1,6 @@
 # Psalm 32
 
-_A Psalm of David. A Maskil._
+### A Psalm of David. A Maskil.
 
 ## Psalm 32:1
 
@@ -22,8 +22,9 @@ _A Psalm of David. A Maskil._
 ## Psalm 32:4
 
 > For day and night Your hand was heavy upon me;  
-> My vitality failed as with the dry heat of summer.  
-> _Selah_
+> My vitality failed as with the dry heat of summer.
+
+> Selah
 
 ---
 
@@ -32,8 +33,9 @@ _A Psalm of David. A Maskil._
 > I acknowledged my sin to You,  
 > And I did not hide my guilt;  
 > I said, “I will confess my wrongdoings to the Lord”;  
-> And You forgave the guilt of my sin.  
-> _Selah_
+> And You forgave the guilt of my sin.
+
+> Selah
 
 ---
 
@@ -46,8 +48,9 @@ _A Psalm of David. A Maskil._
 
 > You are my hiding place;  
 > You keep me from trouble;  
-> You surround me with songs of deliverance.  
-> _Selah_
+> You surround me with songs of deliverance.
+
+> Selah
 
 ---
 

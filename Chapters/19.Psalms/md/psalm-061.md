@@ -1,6 +1,6 @@
 # Psalm 61
 
-_For the music director; on a stringed instrument. A Psalm of David._
+### For the music director; on a stringed instrument. A Psalm of David.
 
 ## Psalm 61:1
 
@@ -24,8 +24,9 @@ _For the music director; on a stringed instrument. A Psalm of David._
 ## Psalm 61:4
 
 > Let me dwell in Your tent forever;  
-> Let me take refuge in the shelter of Your wings.  
-> _Selah_
+> Let me take refuge in the shelter of Your wings.
+
+> Selah
 
 ## Psalm 61:5
 

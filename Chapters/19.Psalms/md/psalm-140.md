@@ -1,6 +1,6 @@
 # Psalm 140
 
-_For the music director. A Psalm of David._
+### For the music director. A Psalm of David.
 
 ## Psalm 140:1
 
@@ -15,8 +15,9 @@ _For the music director. A Psalm of David._
 ## Psalm 140:3
 
 > They sharpen their tongues like a serpent;  
-> The venom of a viper is under their lips.  
-> _Selah_
+> The venom of a viper is under their lips.
+
+> Selah
 
 ---
 
@@ -30,8 +31,9 @@ _For the music director. A Psalm of David._
 
 > The proud have hidden a trap for me, and snares;  
 > They have spread a net at the wayside;  
-> They have set snares for me.  
-> _Selah_
+> They have set snares for me.
+
+> Selah
 
 ---
 
@@ -48,8 +50,9 @@ _For the music director. A Psalm of David._
 ## Psalm 140:8
 
 > Do not grant, Lord, the desires of the wicked;  
-> Do not bring about their evil planning, so that they are not exalted.  
-> _Selah_
+> Do not bring about their evil planning, so that they are not exalted.
+
+> Selah
 
 ---
 

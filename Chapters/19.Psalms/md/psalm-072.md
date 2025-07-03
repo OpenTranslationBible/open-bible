@@ -1,6 +1,6 @@
 # Psalm 72
 
-_A Psalm of Solomon._
+### A Psalm of Solomon.
 
 ## Psalm 72:1
 

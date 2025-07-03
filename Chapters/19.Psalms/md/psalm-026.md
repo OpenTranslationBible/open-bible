@@ -1,6 +1,6 @@
 # Psalm 26
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 26:1
 

@@ -1,6 +1,6 @@
 # Psalm 129
 
-_A Song of Ascents._
+### A Song of Ascents.
 
 ## Psalm 129:1
 

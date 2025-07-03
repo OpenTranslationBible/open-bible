@@ -1,6 +1,6 @@
 # Psalm 81
 
-_For the music director; on the Gittith. A Psalm of Asaph._
+### For the music director; on the Gittith. A Psalm of Asaph.
 
 ## Psalm 81:1
 
@@ -42,8 +42,9 @@ _For the music director; on the Gittith. A Psalm of Asaph._
 
 > You called in trouble and I rescued you;  
 > I answered you in the hiding place of thunder;  
-> I put you to the test at the waters of Meribah.  
-> _Selah_
+> I put you to the test at the waters of Meribah.
+
+> Selah
 
 ## Psalm 81:8
 

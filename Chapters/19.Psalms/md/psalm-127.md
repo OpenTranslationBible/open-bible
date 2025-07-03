@@ -1,6 +1,6 @@
 # Psalm 127
 
-_A Song of Ascents. Of Solomon._
+### A Song of Ascents. Of Solomon.
 
 ## Psalm 127:1
 

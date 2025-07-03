@@ -1,6 +1,6 @@
 # Psalm 44
 
-_For the music director. A Maskil of the sons of Korah._
+### For the music director. A Maskil of the sons of Korah.
 
 ## Psalm 44:1
 
@@ -46,8 +46,9 @@ _For the music director. A Maskil of the sons of Korah._
 ## Psalm 44:8
 
 > In God we have boasted all day long,  
-> And we will give thanks to Your name forever.  
-> _Selah_
+> And we will give thanks to Your name forever.
+
+> Selah
 
 ---
 

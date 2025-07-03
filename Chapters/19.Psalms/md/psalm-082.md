@@ -1,6 +1,6 @@
 # Psalm 82
 
-_A Psalm of Asaph._
+### A Psalm of Asaph.
 
 ## Psalm 82:1
 
@@ -12,8 +12,9 @@ _A Psalm of Asaph._
 ## Psalm 82:2
 
 > How long will you judge unjustly  
-> And show partiality to the wicked?  
-> _Selah_
+> And show partiality to the wicked?
+
+> Selah
 
 ## Psalm 82:3
 

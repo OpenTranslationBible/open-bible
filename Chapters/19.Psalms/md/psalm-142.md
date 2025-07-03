@@ -1,6 +1,6 @@
 # Psalm 142
 
-_A Maskil of David. When he was in the cave. A Prayer._
+### A Maskil of David. When he was in the cave. A Prayer.
 
 ## Psalm 142:1
 

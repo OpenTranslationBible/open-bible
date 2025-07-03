@@ -1,6 +1,6 @@
 # Psalm 45
 
-_For the music director; according to the Shoshannim. A Maskil of the sons of Korah. A Song of Love._
+### For the music director; according to the Shoshannim. A Maskil of the sons of Korah. A Song of Love.
 
 ## Psalm 45:1
 

@@ -1,6 +1,6 @@
 # Psalm 131
 
-_A Song of Ascents. Of David._
+### A Song of Ascents. Of David.
 
 ## Psalm 131:1
 

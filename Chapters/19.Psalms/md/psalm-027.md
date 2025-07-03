@@ -1,6 +1,6 @@
 # Psalm 27
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 27:1
 

@@ -1,6 +1,6 @@
 # Psalm 47
 
-_For the music director. A Psalm of the sons of Korah._
+### For the music director. A Psalm of the sons of Korah.
 
 ## Psalm 47:1
 
@@ -22,8 +22,9 @@ _For the music director. A Psalm of the sons of Korah._
 ## Psalm 47:4
 
 > He chooses our inheritance for us,  
-> The pride of Jacob whom He loves.  
-> _Selah_
+> The pride of Jacob whom He loves.
+
+> Selah
 
 ---
 

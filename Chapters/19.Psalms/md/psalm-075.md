@@ -1,6 +1,6 @@
 # Psalm 75
 
-_For the music director; set to Al-tashheth. A Psalm of Asaph, a Song._
+### For the music director; set to Al-tashheth. A Psalm of Asaph, a Song.
 
 ## Psalm 75:1
 
@@ -18,8 +18,9 @@ _For the music director; set to Al-tashheth. A Psalm of Asaph, a Song._
 ## Psalm 75:3
 
 > The earth and all who dwell in it shake;  
-> It is I who have firmly set its pillars.  
-> _Selah_
+> It is I who have firmly set its pillars.
+
+> Selah
 
 ## Psalm 75:4
 

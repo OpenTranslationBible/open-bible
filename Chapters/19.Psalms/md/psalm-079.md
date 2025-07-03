@@ -1,6 +1,6 @@
 # Psalm 79
 
-_A Psalm of Asaph._
+### A Psalm of Asaph.
 
 ## Psalm 79:1
 

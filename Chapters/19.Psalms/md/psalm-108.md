@@ -1,6 +1,6 @@
 # Psalm 108
 
-_A Song. A Psalm of David._
+### A Song. A Psalm of David.
 
 ## Psalm 108:1
 

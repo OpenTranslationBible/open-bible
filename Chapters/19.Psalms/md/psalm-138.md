@@ -1,6 +1,6 @@
 # Psalm 138
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 138:1
 

@@ -1,6 +1,6 @@
 # Psalm 132
 
-_A Song of Ascents._
+### A Song of Ascents.
 
 ## Psalm 132:1
 

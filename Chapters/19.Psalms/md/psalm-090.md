@@ -1,6 +1,6 @@
 # Psalm 90
 
-_A Prayer of Moses, the man of God._
+### A Prayer of Moses, the man of God.
 
 ## Psalm 90:1
 

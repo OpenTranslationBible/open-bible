@@ -1,6 +1,6 @@
 # Psalm 145
 
-_A Psalm of Praise by David._
+### A Psalm of Praise by David.
 
 ## Psalm 145:1
 

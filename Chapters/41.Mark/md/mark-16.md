@@ -41,7 +41,7 @@ and they said nothing to anyone, for they were afraid.
 
 ---
 
-_[The earliest manuscripts and some other ancient witnesses do not have verses 9–20.]_
+### The earliest manuscripts and some other ancient witnesses do not have verses 9–20.
 
 ## Mark 16:9
 

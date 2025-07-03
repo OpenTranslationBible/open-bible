@@ -1,6 +1,6 @@
 # Psalm 60
 
-_For the music director; according to Shushan Eduth. A Mikhtam of David, to teach; when he fought with Aram-naharaim and with Aram-zobah, and Joab returned and struck twelve thousand of Edom in the Valley of Salt._
+### For the music director; according to Shushan Eduth. A Mikhtam of David, to teach; when he fought with Aram-naharaim and with Aram-zobah, and Joab returned and struck twelve thousand of Edom in the Valley of Salt.
 
 ## Psalm 60:1
 
@@ -20,8 +20,9 @@ _For the music director; according to Shushan Eduth. A Mikhtam of David, to teac
 ## Psalm 60:4
 
 > You have given a banner to those who fear You,  
-> So that it may be displayed because of the truth.  
-> _Selah_
+> So that it may be displayed because of the truth.
+
+> Selah
 
 ---
 

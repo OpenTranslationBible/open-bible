@@ -1,6 +1,6 @@
 # Psalm 39
 
-_For the music director, for Jeduthun. A Psalm of David._
+### For the music director, for Jeduthun. A Psalm of David.
 
 ## Psalm 39:1
 
@@ -33,8 +33,9 @@ _For the music director, for Jeduthun. A Psalm of David._
 
 > Behold, You have made my days like hand widths,  
 > And my lifetime as nothing in Your sight;  
-> Certainly all mankind standing is a mere breath.  
-> _Selah_
+> Certainly all mankind standing is a mere breath.
+
+> Selah
 
 ---
 
@@ -70,8 +71,9 @@ _For the music director, for Jeduthun. A Psalm of David._
 
 > With rebukes You punish a person for wrongdoing;  
 > You consume like a moth what is precious to him;  
-> Certainly all mankind is mere breath.  
-> _Selah_
+> Certainly all mankind is mere breath.
+
+> Selah
 
 ---
 

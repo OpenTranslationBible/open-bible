@@ -1,6 +1,6 @@
 # Psalm 15
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 15:1
 

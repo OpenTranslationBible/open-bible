@@ -1,6 +1,6 @@
 # Psalm 16
 
-_A Mikhtam of David._
+### A Mikhtam of David.
 
 ## Psalm 16:1
 

@@ -1,6 +1,6 @@
 # Psalm 68
 
-_For the music director. A Psalm of David. A Song._
+### For the music director. A Psalm of David. A Song.
 
 ## Psalm 68:1
 
@@ -42,8 +42,9 @@ _For the music director. A Psalm of David. A Song._
 ## Psalm 68:7
 
 > God, when You went out before Your people,  
-> When You marched through the desert,  
-> _Selah_
+> When You marched through the desert,
+
+> Selah
 
 ## Psalm 68:8
 
@@ -114,8 +115,9 @@ _For the music director. A Psalm of David. A Song._
 ## Psalm 68:19
 
 > Blessed be the Lord, who daily bears our burden,  
-> The God who is our salvation.  
-> _Selah_
+> The God who is our salvation.
+
+> Selah
 
 ## Psalm 68:20
 
@@ -189,8 +191,9 @@ _For the music director. A Psalm of David. A Song._
 ## Psalm 68:32
 
 > Sing to God, you kingdoms of the earth,  
-> Sing praises to the Lord,  
-> _Selah_
+> Sing praises to the Lord,
+
+> Selah
 
 ## Psalm 68:33
 

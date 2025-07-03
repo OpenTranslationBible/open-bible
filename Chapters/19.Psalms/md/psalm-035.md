@@ -1,6 +1,6 @@
 # Psalm 35
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 35:1
 

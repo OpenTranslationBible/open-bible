@@ -1,6 +1,6 @@
 # Psalm 30
 
-_A Psalm; a Song at the Dedication of the House. A Psalm of David._
+### A Psalm; a Song at the Dedication of the House. A Psalm of David.
 
 ## Psalm 30:1
 

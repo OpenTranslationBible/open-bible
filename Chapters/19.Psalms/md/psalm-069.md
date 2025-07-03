@@ -1,6 +1,6 @@
 # Psalm 69
 
-_For the music director; according to Shoshannim. A Psalm of David._
+### For the music director; according to Shoshannim. A Psalm of David.
 
 ## Psalm 69:1
 

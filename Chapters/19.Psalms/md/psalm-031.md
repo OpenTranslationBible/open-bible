@@ -1,6 +1,6 @@
 # Psalm 31
 
-_For the music director. A Psalm of David._
+### For the music director. A Psalm of David.
 
 ## Psalm 31:1
 

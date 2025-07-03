@@ -1,6 +1,6 @@
 # Psalm 29
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 29:1
 

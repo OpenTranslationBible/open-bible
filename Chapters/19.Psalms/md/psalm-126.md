@@ -1,6 +1,6 @@
 # Psalm 126
 
-_A Song of Ascents._
+### A Song of Ascents.
 
 ## Psalm 126:1
 

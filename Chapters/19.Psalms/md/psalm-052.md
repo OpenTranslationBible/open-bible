@@ -1,6 +1,6 @@
 # Psalm 52
 
-_For the music director. A Maskil of David, when Doeg the Edomite came and told Saul, and said to him, “David has come to the house of Ahimelech.”_
+### For the music director. A Maskil of David, when Doeg the Edomite came and told Saul, and said to him, “David has come to the house of Ahimelech.”
 
 ## Psalm 52:1
 
@@ -15,8 +15,9 @@ _For the music director. A Maskil of David, when Doeg the Edomite came and told 
 ## Psalm 52:3
 
 > You love evil more than good,  
-> Lies more than speaking what is right.  
-> _Selah_
+> Lies more than speaking what is right.
+
+> Selah
 
 ## Psalm 52:4
 
@@ -29,8 +30,9 @@ _For the music director. A Maskil of David, when Doeg the Edomite came and told 
 
 > But God will break you down forever;  
 > He will snatch you up and tear you away from your tent,  
-> And uproot you from the land of the living.  
-> _Selah_
+> And uproot you from the land of the living.
+
+> Selah
 
 ## Psalm 52:6
 

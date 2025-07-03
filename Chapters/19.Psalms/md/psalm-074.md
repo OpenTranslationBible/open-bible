@@ -1,6 +1,6 @@
 # Psalm 74
 
-_A Maskil of Asaph._
+### A Maskil of Asaph.
 
 ## Psalm 74:1
 

@@ -1,6 +1,6 @@
 # Psalm 12
 
-_For the music director; upon an eight-stringed lyre. A Psalm of David._
+### For the music director; upon an eight-stringed lyre. A Psalm of David.
 
 ## Psalm 12:1
 

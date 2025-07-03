@@ -1,6 +1,6 @@
 # Psalm 59
 
-_For the music director; set to Al-tashheth. A Mikhtam of David, when Saul sent men and they watched the house to kill him._
+### For the music director; set to Al-tashheth. A Mikhtam of David, when Saul sent men and they watched the house to kill him.
 
 ## Psalm 59:1
 
@@ -29,8 +29,9 @@ _For the music director; set to Al-tashheth. A Mikhtam of David, when Saul sent 
 
 > You, Lord God of armies, the God of Israel,  
 > Awake to punish all the nations;  
-> Do not be gracious to any who deal treacherously in wrongdoing.  
-> _Selah_
+> Do not be gracious to any who deal treacherously in wrongdoing.
+
+> Selah
 
 ---
 
@@ -80,8 +81,9 @@ _For the music director; set to Al-tashheth. A Mikhtam of David, when Saul sent 
 
 > Destroy them in wrath, destroy them so that they will no longer exist;  
 > So that people may know that God rules in Jacob,  
-> To the ends of the earth.  
-> _Selah_
+> To the ends of the earth.
+
+> Selah
 
 ---
 

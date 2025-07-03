@@ -1,6 +1,6 @@
 # Psalm 102
 
-_A Prayer of the afflicted when he is weak and pours out his complaint before the Lord._
+### A Prayer of the afflicted when he is weak and pours out his complaint before the Lord.
 
 ## Psalm 102:1
 

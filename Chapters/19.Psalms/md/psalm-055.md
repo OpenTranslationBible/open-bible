@@ -1,6 +1,6 @@
 # Psalm 55
 
-_For the music director; on stringed instruments. A Maskil of David._
+### For the music director; on stringed instruments. A Maskil of David.
 
 ## Psalm 55:1
 
@@ -39,8 +39,9 @@ _For the music director; on stringed instruments. A Maskil of David._
 ## Psalm 55:7
 
 > Behold, I would flee far away,  
-> I would spend my night in the wilderness.  
-> _Selah_
+> I would spend my night in the wilderness.
+
+> Selah
 
 ## Psalm 55:8
 

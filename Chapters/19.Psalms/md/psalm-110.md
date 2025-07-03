@@ -1,6 +1,6 @@
 # Psalm 110
 
-_A Psalm of David._
+### A Psalm of David.
 
 ## Psalm 110:1
 

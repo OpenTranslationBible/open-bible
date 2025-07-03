@@ -1,6 +1,6 @@
 # Psalm 17
 
-_A Prayer of David._
+### A Prayer of David.
 
 ## Psalm 17:1
 

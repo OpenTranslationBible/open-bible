@@ -1,6 +1,6 @@
 # Psalm 86
 
-_A Prayer of David._
+### A Prayer of David.
 
 ## Psalm 86:1
 

@@ -1,6 +1,6 @@
 # Psalm 20
 
-_For the music director. A Psalm of David._
+### For the music director. A Psalm of David.
 
 ## Psalm 20:1
 
@@ -15,8 +15,9 @@ _For the music director. A Psalm of David._
 ## Psalm 20:3
 
 > May He remember all your meal offerings  
-> And accept your burnt offering!  
-> _Selah_
+> And accept your burnt offering!
+
+> Selah
 
 ## Psalm 20:4
 

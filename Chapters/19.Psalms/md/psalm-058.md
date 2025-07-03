@@ -1,6 +1,6 @@
 # Psalm 58
 
-_For the music director; set to Al-tashheth. A Mikhtam of David._
+### For the music director; set to Al-tashheth. A Mikhtam of David.
 
 ## Psalm 58:1
 

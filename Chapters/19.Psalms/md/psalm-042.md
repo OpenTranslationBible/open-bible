@@ -1,6 +1,6 @@
 # Psalm 42
 
-_For the music director. A Maskil of the sons of Korah._
+### For the music director. A Maskil of the sons of Korah.
 
 ## Psalm 42:1
 

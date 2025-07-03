@@ -1,6 +1,6 @@
 # John Chapter 8
 
-_Some early manuscripts do not have John 8:1 - 8:11 in this location, but do include it_
+### Some early manuscripts do not have John 8:1 - 8:11 in this location, but do include it
 
 ## John 8:1
 

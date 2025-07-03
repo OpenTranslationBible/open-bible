@@ -1,6 +1,6 @@
 # Psalm 83
 
-_A Song, a Psalm of Asaph._
+### A Song, a Psalm of Asaph.
 
 ## Psalm 83:1
 
@@ -42,8 +42,9 @@ _A Song, a Psalm of Asaph._
 ## Psalm 83:8
 
 > Assyria also has joined them;  
-> They have become a help to the children of Lot.  
-> _Selah_
+> They have become a help to the children of Lot.
+
+> Selah
 
 ---
 

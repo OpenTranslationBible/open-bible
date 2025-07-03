@@ -1,6 +1,6 @@
 # Psalm 80
 
-_For the music director; set to Shoshannim, Eduth. A Psalm of Asaph._
+### For the music director; set to Shoshannim, Eduth. A Psalm of Asaph.
 
 ## Psalm 80:1
 

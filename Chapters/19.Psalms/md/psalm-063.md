@@ -1,6 +1,6 @@
 # Psalm 63
 
-_A Psalm of David, when he was in the wilderness of Judah._
+### A Psalm of David, when he was in the wilderness of Judah.
 
 ## Psalm 63:1
 
