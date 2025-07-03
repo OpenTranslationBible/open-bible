@@ -22,6 +22,7 @@ _A Mikhtam of David._
 
 > The pains of those who have acquired another god will be multiplied;  
 > I will not pour out their drink offerings of blood,
+
 > Nor will I take their names upon my lips.
 
 ---
