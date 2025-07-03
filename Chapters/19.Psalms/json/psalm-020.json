@@ -3,6 +3,11 @@
     "chapter": 20,
     "verses": [
         {
+            "text": [
+                "For the music director. A Psalm of David."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> May the Lord answer you on a day of trouble!",
@@ -20,7 +25,8 @@
             "verse": 3,
             "text": [
                 "> May He remember all your meal offerings",
-                "> And accept your burnt offering!"
+                "> And accept your burnt offering!",
+                "> Selah"
             ]
         },
         {

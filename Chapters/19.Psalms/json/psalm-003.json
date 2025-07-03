@@ -3,6 +3,11 @@
     "chapter": 3,
     "verses": [
         {
+            "text": [
+                "A Psalm of David, when he fled from his son Absalom."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> Lord, how my enemies have increased!",
@@ -13,7 +18,8 @@
             "verse": 2,
             "text": [
                 "> Many are saying of my soul,",
-                "> “There is no salvation for him in God.”"
+                "> “There is no salvation for him in God.”",
+                "> Selah"
             ]
         },
         {
@@ -32,7 +38,8 @@
             "verse": 4,
             "text": [
                 "> I was crying out to the Lord with my voice,",
-                "> And He answered me from His holy mountain."
+                "> And He answered me from His holy mountain.",
+                "> Selah"
             ]
         },
         {
@@ -76,7 +83,8 @@
             "verse": 8,
             "text": [
                 "> Salvation belongs to the Lord;",
-                "> May Your blessing be upon Your people."
+                "> May Your blessing be upon Your people.",
+                "> Selah"
             ]
         }
     ]

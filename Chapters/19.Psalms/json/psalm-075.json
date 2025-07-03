@@ -3,6 +3,11 @@
     "chapter": 75,
     "verses": [
         {
+            "text": [
+                "For the music director; set to Al-tashheth. A Psalm of Asaph, a Song."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> We give thanks to You, God, we give thanks,",
@@ -26,7 +31,8 @@
             "verse": 3,
             "text": [
                 "> The earth and all who dwell in it shake;",
-                "> It is I who have firmly set its pillars."
+                "> It is I who have firmly set its pillars.",
+                "> Selah"
             ]
         },
         {

@@ -3,6 +3,11 @@
     "chapter": 21,
     "verses": [
         {
+            "text": [
+                "For the music director. A Psalm of David."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> Lord, the king will rejoice in Your strength,",
@@ -18,7 +23,8 @@
             "verse": 2,
             "text": [
                 "> You have given him his heart’s desire,",
-                "> And You have not withheld the request of his lips."
+                "> And You have not withheld the request of his lips.",
+                "> Selah"
             ]
         },
         {

@@ -3,6 +3,11 @@
     "chapter": 82,
     "verses": [
         {
+            "text": [
+                "A Psalm of Asaph."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> God takes His stand in His own congregation;",
@@ -18,7 +23,8 @@
             "verse": 2,
             "text": [
                 "> How long will you judge unjustly",
-                "> And show partiality to the wicked?"
+                "> And show partiality to the wicked?",
+                "> Selah"
             ]
         },
         {

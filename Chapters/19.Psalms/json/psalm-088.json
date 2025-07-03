@@ -3,6 +3,11 @@
     "chapter": 88,
     "verses": [
         {
+            "text": [
+                "A Song. A Psalm of the sons of Korah. For the music director; according to Mahalath Leannoth. A Maskil of Heman the Ezrahite."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> Lord, God of my salvation,",
@@ -60,7 +65,8 @@
             "verse": 7,
             "text": [
                 "> Your wrath has rested upon me,",
-                "> And You have afflicted me with all Your waves."
+                "> And You have afflicted me with all Your waves.",
+                "> Selah"
             ]
         },
         {
@@ -84,7 +90,8 @@
             "verse": 10,
             "text": [
                 "> Will You perform wonders for the dead?",
-                "> Or will the departed spirits rise and praise You?"
+                "> Or will the departed spirits rise and praise You?",
+                "> Selah"
             ]
         },
         {

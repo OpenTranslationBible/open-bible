@@ -3,6 +3,11 @@
     "chapter": 143,
     "verses": [
         {
+            "text": [
+                "A Psalm of David."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> Hear my prayer, Lord,",
@@ -44,7 +49,8 @@
             "verse": 6,
             "text": [
                 "> I spread out my hands to You;",
-                "> My soul longs for You, like a weary land."
+                "> My soul longs for You, like a weary land.",
+                "> Selah"
             ]
         },
         {

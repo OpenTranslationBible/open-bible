@@ -3,6 +3,11 @@
     "chapter": 50,
     "verses": [
         {
+            "text": [
+                "A Psalm of Asaph."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> The Mighty One, God, the Lord, has spoken,",
@@ -42,7 +47,8 @@
             "verse": 6,
             "text": [
                 "> And the heavens declare His righteousness,",
-                "> For God Himself is judge."
+                "> For God Himself is judge.",
+                "> Selah"
             ]
         },
         {

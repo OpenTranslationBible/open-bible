@@ -3,6 +3,11 @@
     "chapter": 123,
     "verses": [
         {
+            "text": [
+                "A Song of Ascents."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> To You I have raised my eyes,",

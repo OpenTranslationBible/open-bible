@@ -3,6 +3,11 @@
     "chapter": 32,
     "verses": [
         {
+            "text": [
+                "A Psalm of David. A Maskil."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> Blessed is the one whose wrongdoing is forgiven,",
@@ -32,7 +37,8 @@
             "verse": 4,
             "text": [
                 "> For day and night Your hand was heavy upon me;",
-                "> My vitality failed as with the dry heat of summer."
+                "> My vitality failed as with the dry heat of summer.",
+                "> Selah"
             ]
         },
         {
@@ -46,7 +52,8 @@
                 "> I acknowledged my sin to You,",
                 "> And I did not hide my guilt;",
                 "> I said, “I will confess my wrongdoings to the Lord”;",
-                "> And You forgave the guilt of my sin."
+                "> And You forgave the guilt of my sin.",
+                "> Selah"
             ]
         },
         {
@@ -66,7 +73,8 @@
             "text": [
                 "> You are my hiding place;",
                 "> You keep me from trouble;",
-                "> You surround me with songs of deliverance."
+                "> You surround me with songs of deliverance.",
+                "> Selah"
             ]
         },
         {

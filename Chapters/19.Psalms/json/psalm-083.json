@@ -3,6 +3,11 @@
     "chapter": 83,
     "verses": [
         {
+            "text": [
+                "A Song, a Psalm of Asaph."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> God, do not remain quiet;",
@@ -60,7 +65,8 @@
             "verse": 8,
             "text": [
                 "> Assyria also has joined them;",
-                "> They have become a help to the children of Lot."
+                "> They have become a help to the children of Lot.",
+                "> Selah"
             ]
         },
         {

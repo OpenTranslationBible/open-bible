@@ -3,6 +3,11 @@
     "chapter": 87,
     "verses": [
         {
+            "text": [
+                "A Psalm of the sons of Korah. A Song."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> His foundation is in the holy mountains."
@@ -24,7 +29,8 @@
             "verse": 3,
             "text": [
                 "> Glorious things are spoken of you,",
-                "> City of God."
+                "> City of God.",
+                "> Selah"
             ]
         },
         {
@@ -46,7 +52,8 @@
             "verse": 6,
             "text": [
                 "> The Lord will count when He registers the peoples:",
-                "> “This one was born there.”"
+                "> “This one was born there.”",
+                "> Selah"
             ]
         },
         {

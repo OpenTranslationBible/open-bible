@@ -3,6 +3,11 @@
     "chapter": 46,
     "verses": [
         {
+            "text": [
+                "For the music director. A Psalm of the sons of Korah, set to Alamoth. A Song."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> God is our refuge and strength,",
@@ -20,7 +25,8 @@
             "verse": 3,
             "text": [
                 "> Though its waters roar and foam,",
-                "> Though the mountains quake at its surging pride."
+                "> Though the mountains quake at its surging pride.",
+                "> Selah"
             ]
         },
         {
@@ -58,7 +64,8 @@
             "verse": 7,
             "text": [
                 "> The Lord of armies is with us;",
-                "> The God of Jacob is our stronghold."
+                "> The God of Jacob is our stronghold.",
+                "> _Selah"
             ]
         },
         {
@@ -98,7 +105,8 @@
             "verse": 11,
             "text": [
                 "> The Lord of armies is with us;",
-                "> The God of Jacob is our stronghold."
+                "> The God of Jacob is our stronghold.",
+                "> Selah"
             ]
         }
     ]

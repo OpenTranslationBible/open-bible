@@ -3,6 +3,11 @@
     "chapter": 24,
     "verses": [
         {
+            "text": [
+                "A Psalm of David."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> The earth is the Lord’s, and all it contains,",
@@ -52,7 +57,8 @@
             "verse": 6,
             "text": [
                 "> This is the generation of those who seek Him,",
-                "> Who seek Your face—Jacob."
+                "> Who seek Your face—Jacob.",
+                "> Selah"
             ]
         },
         {
@@ -88,7 +94,8 @@
             "verse": 10,
             "text": [
                 "> Who is this King of glory?",
-                "> The Lord of armies, He is the King of glory."
+                "> The Lord of armies, He is the King of glory.",
+                "> Selah"
             ]
         }
     ]

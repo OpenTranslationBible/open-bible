@@ -3,6 +3,11 @@
     "chapter": 48,
     "verses": [
         {
+            "text": [
+                "A Song; a Psalm of the sons of Korah."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> Great is the Lord, and greatly to be praised",
@@ -72,7 +77,8 @@
             "text": [
                 "> Just as we have heard, so we have seen",
                 "> In the city of the Lord of armies, in the city of our God;",
-                "> God will establish her forever."
+                "> God will establish her forever.",
+                "> Selah"
             ]
         },
         {

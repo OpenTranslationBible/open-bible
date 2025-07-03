@@ -3,6 +3,11 @@
     "chapter": 9,
     "verses": [
         {
+            "text": [
+                "For the music director; on Muth-labben. A Psalm of David."
+            ]
+        },
+        {
             "verse": 1,
             "text": [
                 "> I will give thanks to the Lord with all my heart;",
@@ -139,7 +144,8 @@
             "verse": 16,
             "text": [
                 "> The Lord has made Himself known; He has executed judgment.",
-                "> A wicked one is ensnared in the work of his own hands."
+                "> A wicked one is ensnared in the work of his own hands.",
+                "> Higgaion Selah"
             ]
         },
         {
@@ -172,7 +178,8 @@
             "verse": 20,
             "text": [
                 "> Put them in fear, Lord;",
-                "> Let the nations know that they are merely human."
+                "> Let the nations know that they are merely human.",
+                "> Selah"
             ]
         }
     ]
