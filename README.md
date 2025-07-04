@@ -141,3 +141,12 @@ hi-IN
     mkdir "65.यहूदा"
     mkdir "66.प्रकाशितवाक्य"
 ```
+
+```
+for i in $(seq -w 1 31); do
+  echo "./sh/translate.sh \"../open-bible/en-GB/20.Proverbs/md/proverbs-$i.md\" > \"../open-bible/hi-IN/20.नीतिवचन/md/नीतिवचन-$i.md\""
+done
+for i in $(seq -w 1 150); do
+  echo "./sh/translate.sh \"../open-bible/en-GB/19.Psalms/md/psalm-$i.md\" > \"../open-bible/hi-IN/19.भजन संहिता/md/भजन संहिता-$i.md\""
+done
+```
