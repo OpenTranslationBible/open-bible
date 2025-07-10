@@ -17,18 +17,13 @@
         {
             "verse": 3,
             "text": [
-                "And he delivered this oracle:"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
+                "And he delivered this oracle:",
                 "> “The prophecy of Balaam son of Beor,",
                 "> the prophecy of one whose eyes see clearly,"
             ]
         },
         {
-            "verse": 5,
+            "verse": 4,
             "text": [
                 "> the prophecy of one who hears the words of God,",
                 "> who sees a vision from the Almighty,",
@@ -36,14 +31,14 @@
             ]
         },
         {
-            "verse": 6,
+            "verse": 5,
             "text": [
                 "> How beautiful are your tents, Jacob,",
                 "> your dwellings, Israel!"
             ]
         },
         {
-            "verse": 7,
+            "verse": 6,
             "text": [
                 "> Like valleys they spread out,",
                 "> like gardens beside a river,",
@@ -52,7 +47,7 @@
             ]
         },
         {
-            "verse": 8,
+            "verse": 7,
             "text": [
                 "> Water will flow from their buckets;",
                 "> their seed will have abundant water.",
@@ -61,7 +56,7 @@
             ]
         },
         {
-            "verse": 9,
+            "verse": 8,
             "text": [
                 "> God brought them out of Egypt;",
                 "> they have the strength of a wild ox.",
@@ -70,7 +65,7 @@
             ]
         },
         {
-            "verse": 10,
+            "verse": 9,
             "text": [
                 "> They crouch and lie down like a lion,",
                 "> like a lioness—who dares to rouse them?",
@@ -111,18 +106,13 @@
         {
             "verse": 15,
             "text": [
-                "Then Balaam delivered his fourth oracle:"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
+                "Then Balaam delivered his fourth oracle:",
                 "> “The prophecy of Balaam son of Beor,",
                 "> the prophecy of one whose eyes see clearly,"
             ]
         },
         {
-            "verse": 17,
+            "verse": 16,
             "text": [
                 "> the prophecy of one who hears the words of God,",
                 "> who has knowledge from the Most High,",
@@ -131,77 +121,62 @@
             ]
         },
         {
-            "verse": 18,
+            "verse": 17,
             "text": [
                 "> I see him, but not now;",
                 "> I behold him, but not near.",
                 "> A star will come out of Jacob;",
-                "> a sceptre will rise out of Israel."
+                "> a sceptre will rise out of Israel.",
+                "> He will crush the foreheads of Moab,",
+                "> the skulls of all the people of Sheth."
             ]
         },
         {
-            "verse": 19,
+            "verse": 18,
             "text": [
-                "> He will crush the foreheads of Moab,",
-                "> the skulls of all the people of Sheth.",
                 "> Edom will be conquered; Seir, his enemy, will be conquered,",
                 "> but Israel will grow strong."
             ]
         },
         {
-            "verse": 20,
+            "verse": 19,
             "text": [
                 "> A ruler will come out of Jacob",
-                "> and destroy the survivors of the city.”"
+                "> he will ensure there are no survivors of the city.”"
             ]
         },
         {
-            "verse": 21,
+            "verse": 20,
             "text": [
-                "Then Balaam saw Amalek and spoke his message:"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
+                "Then Balaam saw Amalek and spoke his message:",
                 "> “Amalek was first among the nations,",
                 "> but their end will be utter destruction.”"
             ]
         },
         {
-            "verse": 23,
+            "verse": 21,
             "text": [
-                "Then he saw the Kenites and spoke his message:"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
+                "Then he saw the Kenites and spoke his message:",
                 "> “Your dwelling place is secure,",
                 "> your nest is set in a rock;"
             ]
         },
         {
-            "verse": 25,
+            "verse": 22,
             "text": [
                 "> yet you Kenites will be destroyed",
                 "> when Ashur takes you captive.”"
             ]
         },
         {
-            "verse": 26,
+            "verse": 23,
             "text": [
-                "Then he spoke again:"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
+                "Then he spoke again:",
                 "> “Alas! Who can live when God does this?"
             ]
         },
         {
-            "verse": 28,
+            "verse": 24,
             "text": [
                 "> Ships will come from the coasts of Cyprus;",
                 "> they will subdue Ashur and Eber,",
@@ -209,7 +184,7 @@
             ]
         },
         {
-            "verse": 29,
+            "verse": 25,
             "text": [
                 "Then Balaam got up and returned home, and Balak went his own way."
             ]

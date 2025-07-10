@@ -41,12 +41,7 @@
         {
             "verse": 7,
             "text": [
-                "Then Balaam spoke his message:"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
+                "Then Balaam spoke his message:",
                 "> “Balak brought me from Aram,",
                 "> the king of Moab from the eastern mountains.",
                 "> ‘Come,’ he said, ‘curse Jacob for me;",
@@ -54,14 +49,14 @@
             ]
         },
         {
-            "verse": 9,
+            "verse": 8,
             "text": [
                 "> But how can I curse those God has not cursed?",
                 "> How can I denounce those the Lord has not denounced?"
             ]
         },
         {
-            "verse": 10,
+            "verse": 9,
             "text": [
                 "> From the rocky heights I see them,",
                 "> from the hills I observe them—",
@@ -69,7 +64,7 @@
             ]
         },
         {
-            "verse": 11,
+            "verse": 10,
             "text": [
                 "> Who can count the dust of Jacob",
                 "> or number even a fourth of Israel?",

@@ -1,83 +1,161 @@
 # Numbers Chapter 29
 
 ## Numbers 29:1
-On the first day of the seventh month, hold a sacred assembly and do no regular work. It is to be a day of trumpet blasts.
+
+“Now in the seventh month, on the first day of the month, you shall have a holy convocation; you shall do no laborious work. It will be for you a day of blowing trumpets.
 
 ## Numbers 29:2
-Present as a burnt offering a pleasing aroma to the Lord: one young bull, one ram, and seven unblemished year-old male lambs.
+
+You shall offer a burnt offering as a soothing aroma to the Lord: one bull, one ram, and seven male lambs one year old without defect;
 
 ## Numbers 29:3
-With each bull, bring a grain offering of three-tenths of an ephah of fine flour mixed with oil; with the ram, two-tenths;
+
+Also their grain offering, fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the ram,
 
 ## Numbers 29:4
-and with each lamb, one-tenth. These are to be offered as a burnt offering, a pleasing aroma to the Lord.
+
+And one-tenth for each of the seven lambs;
 
 ## Numbers 29:5
-Also present one male goat as a sin offering to make atonement for you.
+
+And one male goat as a sin offering, to make atonement for you;
 
 ## Numbers 29:6
-These offerings are in addition to the monthly and daily burnt offerings and their drink offerings, as prescribed.
+
+Besides the burnt offering of the new moon, and its grain offering, and the continual burnt offering, and its grain offering, and their drink offerings, according to their ordinance, as a soothing aroma, an offering by fire to the Lord.
 
 ## Numbers 29:7
-On the tenth day of this seventh month, hold a sacred assembly. You must deny yourselves and do no ordinary work.
+
+Then on the tenth day of this seventh month you shall have a holy convocation, and you shall humble yourselves; you shall not do any work.
 
 ## Numbers 29:8
-Present as a burnt offering to the Lord: one young bull, one ram, and seven year-old male lambs without blemish.
+
+You shall present a burnt offering to the Lord as a soothing aroma: one bull, one ram, and seven male lambs one year old, all without defect;
 
 ## Numbers 29:9
-Include grain offerings with each animal: three-tenths of an ephah of fine flour with the bull, two-tenths with the ram,
+
+And their grain offering, fine flour mixed with oil: three-tenths of an ephah for the bull, two-tenths for the one ram,
 
 ## Numbers 29:10
-and one-tenth with each lamb. These are to be prepared with oil.
+
+A tenth for each of the seven lambs;
 
 ## Numbers 29:11
-Also offer one male goat as a sin offering, in addition to the regular daily burnt offering and its grain and drink offerings.
+
+One male goat as a sin offering, besides the sin offering of atonement, and the continual burnt offering, and its grain offering, and their drink offerings.
 
 ## Numbers 29:12
-On the fifteenth day of the seventh month, hold a sacred assembly and do no ordinary work. Celebrate a festival to the Lord for seven days.
+
+Then on the fifteenth day of the seventh month you shall have a holy convocation; you shall do no laborious work, and you shall celebrate a feast to the Lord for seven days.
 
 ## Numbers 29:13
-Present as a burnt offering thirteen young bulls, two rams, and fourteen unblemished year-old male lambs.
+
+You shall present a burnt offering, an offering by fire as a soothing aroma to the Lord: thirteen bulls, two rams, and fourteen male lambs one year old, which are without defect;
 
 ## Numbers 29:14
-Their grain offerings are to be of fine flour mixed with oil: three-tenths of an ephah with each bull, two-tenths with each ram,
+
+And their grain offering, fine flour mixed with oil: three-tenths of an ephah for each of the thirteen bulls, two-tenths for each of the two rams,
 
 ## Numbers 29:15
-and one-tenth with each lamb. Also include one male goat as a sin offering, besides the regular daily burnt offering and its grain and drink offerings.
+
+And one-tenth for each of the fourteen lambs;
+
+## Numbers 29:16
+
+And one male goat as a sin offering, besides the continual burnt offering, its grain offering and its drink offering.
 
 ## Numbers 29:17
-On the second day, present twelve young bulls, two rams, and fourteen male lambs, all without defect.
+
+Then on the second day: twelve bulls, two rams, fourteen male lambs one year old without defect;
 
 ## Numbers 29:18
-Offer the same grain and drink offerings as prescribed, along with one male goat for a sin offering, and the daily burnt offerings.
+
+And their grain offering and drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed;
+
+## Numbers 29:19
+
+And one male goat as a sin offering, besides the continual burnt offering and its grain offering and their drink offerings.
 
 ## Numbers 29:20
-On the third day, present eleven bulls, two rams, and fourteen male lambs, unblemished, with their proper offerings.
+
+Then on the third day: eleven bulls, two rams, fourteen male lambs one year old without defect;
+
+## Numbers 29:21
+
+And their grain offering and drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed;
+
+## Numbers 29:22
+
+And one male goat as a sin offering, besides the continual burnt offering and its grain offering and its drink offering.
 
 ## Numbers 29:23
-On the fourth day, present ten bulls, two rams, and fourteen lambs, along with their grain and drink offerings.
+
+Then on the fourth day: ten bulls, two rams, fourteen male lambs one year old without defect;
+
+## Numbers 29:24
+
+And their grain offering and drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed;
+
+## Numbers 29:25
+
+And one male goat as a sin offering, besides the continual burnt offering and its grain offering and its drink offering.
 
 ## Numbers 29:26
-On the fifth day, offer nine bulls, two rams, and fourteen lambs with their appropriate offerings.
+
+Then on the fifth day: nine bulls, two rams, fourteen male lambs one year old without defect;
+
+## Numbers 29:27
+
+And their grain offering and drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed;
+
+## Numbers 29:28
+
+And one male goat as a sin offering, besides the continual burnt offering and its grain offering and its drink offering.
 
 ## Numbers 29:29
-On the sixth day, present eight bulls, two rams, and fourteen lambs with their offerings.
+
+Then on the sixth day: eight bulls, two rams, fourteen male lambs one year old without defect;
+
+## Numbers 29:30
+
+And their grain offering and drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed;
+
+## Numbers 29:31
+
+And one male goat as a sin offering, besides the continual burnt offering and its grain offering and its drink offerings.
 
 ## Numbers 29:32
-On the seventh day, present seven bulls, two rams, and fourteen lambs with their respective offerings.
+
+Then on the seventh day: seven bulls, two rams, fourteen male lambs one year old without defect;
+
+## Numbers 29:33
+
+And their grain offering and drink offerings for the bulls, for the rams, and for the lambs, according to their number as prescribed;
+
+## Numbers 29:34
+
+And one male goat as a sin offering, besides the continual burnt offering, its grain offering and its drink offering.
 
 ## Numbers 29:35
-On the eighth day, hold a solemn assembly. Do no regular work.
+
+On the eighth day you shall have a sacred assembly; you shall do no laborious work.
 
 ## Numbers 29:36
-Present as a burnt offering one bull, one ram, and seven male lambs, all without defect.
+
+You shall present a burnt offering, an offering by fire, a soothing aroma to the Lord: one bull, one ram, seven male lambs one year old without defect;
 
 ## Numbers 29:37
-Bring the appropriate grain offerings with each animal, and one goat as a sin offering, in addition to the regular offerings.
+
+Their grain offering and their drink offerings for the bull, for the ram, and for the lambs, shall be according to their number as prescribed;
+
+## Numbers 29:38
+
+And one male goat as a sin offering, besides the continual burnt offering and its grain offering and its drink offering.
 
 ## Numbers 29:39
-In summary, these are the offerings you are to present to the Lord at your appointed festivals, along with your vows, freewill offerings, burnt offerings, grain, drink, and fellowship offerings.
+
+You shall present these to the Lord at your appointed times, in addition to your vowed offerings and your voluntary offerings, for your burnt offerings, your grain offerings, your drink offerings, and your peace offerings.
 
 ## Numbers 29:40
-Moses conveyed to the Israelites everything the Lord had instructed him regarding these offerings.
 
+Moses spoke to the sons of Israel in accordance with everything that the Lord had commanded him.

@@ -1,143 +1,217 @@
 # Numbers Chapter 31
 
 ## Numbers 31:1
-The Lord spoke to Moses, saying:
+
+Then the Lord spoke to Moses, saying,
 
 ## Numbers 31:2
-“Take vengeance on the Midianites for the Israelites. Afterward, you will be gathered to your people.”
+
+“Take full vengeance for the sons of Israel on the Midianites; afterward you will be gathered to your people.”
 
 ## Numbers 31:3
-So Moses said to the people, “Arm some of your men for battle, that they may go against Midian to execute the Lord’s vengeance upon them.
+
+So Moses spoke to the people, saying, “Arm men from among you for the war, so that they may go against Midian to execute the Lord’s vengeance on Midian.
 
 ## Numbers 31:4
-Send into battle a thousand men from each of the tribes of Israel.”
+
+You shall send a thousand from each tribe of all the tribes of Israel to the war.”
 
 ## Numbers 31:5
-So twelve thousand armed men were selected—one thousand from each tribe.
+
+So from the thousands of Israel, a thousand from each tribe were selected, twelve thousand armed for war.
 
 ## Numbers 31:6
-Moses sent them into battle, a thousand from each tribe, along with Phinehas son of Eleazar the priest, who took with him sacred articles and the trumpets for signaling.
+
+And Moses sent them, a thousand from each tribe, to the war, and Phinehas the son of Eleazar the priest, to the war with them, and the holy utensils and the trumpets for the alarm in his hand.
 
 ## Numbers 31:7
-They waged war against Midian, as the Lord commanded Moses, and killed all the men.
+
+So they made war against Midian, just as the Lord had commanded Moses, and they killed every male.
 
 ## Numbers 31:8
-Among those they put to death were the five kings of Midian: Evi, Rekem, Zur, Hur, and Reba. They also killed Balaam son of Beor with the sword.
+
+They killed the kings of Midian along with the rest of those killed: Evi, Rekem, Zur, Hur, and Reba, the five kings of Midian; and they also killed Balaam the son of Beor with the sword.
 
 ## Numbers 31:9
-The Israelites took the Midianite women and children captive and seized all their livestock, flocks, and possessions.
+
+And the sons of Israel took the women of Midian and their little ones captive, and they plundered all their cattle, all their flocks, and all their goods.
 
 ## Numbers 31:10
-They burned all the towns where the Midianites had settled, as well as all their camps.
+
+Then they burned all their cities where they lived, and all their encampments with fire.
 
 ## Numbers 31:11
-They took all the plunder and spoils, including people and animals.
+
+And they took all the spoils and all the prey, both of people and of livestock.
 
 ## Numbers 31:12
-They brought the captives, plunder, and spoil to Moses and Eleazar the priest and the community of Israel at the camp on the plains of Moab near the Jordan, across from Jericho.
+
+They brought the captives and the prey and the spoils to Moses, and to Eleazar the priest, and to the congregation of the sons of Israel, at the camp on the plains of Moab, which are by the Jordan opposite Jericho.
 
 ## Numbers 31:13
-Moses, Eleazar the priest, and all the leaders of the community went out to meet them outside the camp.
+
+And Moses, and Eleazar the priest, and all the leaders of the congregation went out to meet them outside the camp.
 
 ## Numbers 31:14
-Moses was angry with the officers of the army—the commanders of thousands and hundreds—who were returning from battle.
+
+But Moses was angry with the officers of the army, the captains of thousands and the captains of hundreds, who had come from service in the war.
 
 ## Numbers 31:15
-“Have you let all the women live?” he asked them.
+
+And Moses said to them, “Have you spared all the women?
 
 ## Numbers 31:16
-“They were the ones who followed Balaam’s advice and caused the Israelites to trespass against the Lord at Peor. That’s why the plague came upon the Lord’s community.
+
+Behold, they caused the sons of Israel, through the counsel of Balaam, to be unfaithful to the Lord in the matter of Peor, so that the plague took place among the congregation of the Lord.
 
 ## Numbers 31:17
-Now kill all the boys and every woman who has slept with a man.
+
+Now therefore, kill every male among the little ones, and kill every woman who has known a man intimately.
 
 ## Numbers 31:18
-But spare for yourselves every girl who has never known a man intimately.
+
+However, all the girls who have not known a man intimately, keep alive for yourselves.
 
 ## Numbers 31:19
-All of you who killed anyone or touched a dead body must stay outside the camp for seven days. Purify yourselves and your captives on the third and seventh days.
+
+And you, camp outside the camp for seven days; whoever has killed any person, and whoever has touched any killed person, purify yourselves, you and your captives, on the third day and on the seventh day.
 
 ## Numbers 31:20
-Purify every garment and article made of leather, goat hair, or wood.”
+
+You shall also purify for yourselves every garment and every article of leather, and all the work of goats’ hair, and all articles of wood.”
 
 ## Numbers 31:21
-Then Eleazar the priest said to the soldiers who had gone into battle: “This is the law the Lord gave Moses.
+
+Then Eleazar the priest said to the men of war who had gone to battle, “This is the statute of the law which the Lord has commanded Moses:
 
 ## Numbers 31:22
-Gold, silver, bronze, iron, tin, and lead—
+
+Only the gold and the silver, the bronze, the iron, the tin, and the lead,
 
 ## Numbers 31:23
-everything that can withstand fire—must be passed through the fire to be cleansed. But it must also be purified with the water of cleansing. Anything that cannot withstand fire must be purified with water.
+
+Everything that can withstand fire, you shall pass through the fire, and it will be clean, but it shall be purified with water for impurity. But whatever cannot withstand fire you shall pass through the water.
 
 ## Numbers 31:24
-On the seventh day, wash your clothes and you will be clean. Then you may come into the camp.”
+
+And you shall wash your clothes on the seventh day and be clean, and afterward you may enter the camp.”
 
 ## Numbers 31:25
-The Lord said to Moses:
+
+Then the Lord spoke to Moses, saying,
 
 ## Numbers 31:26
-“You, Eleazar the priest, and the heads of the families are to count all the people and animals captured in the plunder.
+
+“You and Eleazar the priest and the leaders of the fathers’ households of the congregation, take a count of the spoils that were captured, both of people and of animals;
 
 ## Numbers 31:27
-Divide the spoils equally between the soldiers who fought and the rest of the community.
+
+And divide the spoils between the men who took part in the war and went out to battle, and all the congregation.
 
 ## Numbers 31:28
-From the soldiers’ share, set aside a tribute to the Lord—one out of every five hundred people, cattle, donkeys, and sheep.
+
+And levy a tax for the Lord from the men of war who went out to battle: one in five hundred of the persons, of the cattle, of the donkeys, and of the sheep;
 
 ## Numbers 31:29
-Give this tribute to Eleazar the priest as the Lord’s portion.
+
+Take it from their half and give it to Eleazar the priest, as an offering to the Lord.
 
 ## Numbers 31:30
-From the Israelites’ half, take one out of every fifty, and give it to the Levites who care for the tabernacle.”
+
+And from the sons of Israel’s half, you shall take one drawn out of every fifty of the persons, of the cattle, of the donkeys, and of the sheep, from all the animals, and give them to the Levites who keep the responsibility of the tabernacle of the Lord.”
 
 ## Numbers 31:31
-So Moses and Eleazar did as the Lord commanded.
+
+So Moses and Eleazar the priest did just as the Lord had commanded Moses.
 
 ## Numbers 31:32
-The plunder taken by the army included 675,000 sheep,
+
+Now the spoils that remained from the plunder which the men of war had taken amounted to 675,000 sheep,
 
 ## Numbers 31:33
+
 72,000 cattle,
 
 ## Numbers 31:34
+
 61,000 donkeys,
 
 ## Numbers 31:35
-and 32,000 women who had never been intimate with a man.
+
+And of the people, from the women who had not known a man intimately, all the persons were 32,000.
 
 ## Numbers 31:36
-The half given to the soldiers was: 337,500 sheep—
+
+The half, the share of those who went to war, was 337,500 sheep,
 
 ## Numbers 31:37
-with 675 as tribute to the Lord—
+
+And the tribute to the Lord from the sheep was 675.
 
 ## Numbers 31:38
-36,000 cattle—72 as tribute—
+
+The cattle amounted to 36,000, from which the Lord’s tribute was seventy-two.
 
 ## Numbers 31:39
-30,500 donkeys—61 as tribute—
+
+And the donkeys were 30,500, from which the Lord’s tribute was sixty-one.
 
 ## Numbers 31:40
-and 16,000 women—32 as tribute.
+
+And the people were 16,000, from whom the Lord’s tribute was thirty-two persons.
 
 ## Numbers 31:41
-Moses gave the tribute to Eleazar, as commanded.
+
+And Moses gave the tribute which was the Lord’s offering to Eleazar the priest, just as the Lord had commanded Moses.
 
 ## Numbers 31:42
-The half given to the Israelites was also counted and distributed.
+
+As for the sons of Israel’s half, which Moses separated from the men who had gone to war—
 
 ## Numbers 31:43
-Moses took one out of every fifty and gave them to the Levites.
+
+Now the congregation’s half was 337,500 sheep,
 
 ## Numbers 31:44
-The officers of the army, the commanders, came to Moses
+
+36,000 cattle,
 
 ## Numbers 31:45
-and said, “None of our men are missing.
+
+30,500 donkeys,
 
 ## Numbers 31:46
-So we have brought an offering to the Lord from what each man obtained: gold ornaments, bracelets, rings, earrings, and necklaces—to make atonement for ourselves.”
+
+And 16,000 people—
 
 ## Numbers 31:47
-Moses and Eleazar received the gold and brought it to the tent of meeting as a memorial offering.
 
+And from the sons of Israel’s half, Moses took one out of every fifty drawn from people and animals, and gave them to the Levites, who kept the responsibility of the tabernacle of the Lord, just as the Lord had commanded Moses.
+
+## Numbers 31:48
+
+Then the officers who were over the thousands of the army, the captains of thousands and the captains of hundreds, approached Moses,
+
+## Numbers 31:49
+
+And they said to Moses, “Your servants have taken a census of the men of war who are under our authority, and not one of us is missing.
+
+## Numbers 31:50
+
+So we have brought as an offering to the Lord what each man found: articles of gold—anklets, bracelets, signet rings, earrings, and necklaces—to make atonement for ourselves before the Lord.”
+
+## Numbers 31:51
+
+Moses and Eleazar the priest took the gold from them, all kinds of crafted articles.
+
+## Numbers 31:52
+
+All the gold of the offering that they presented to the Lord from the captains of thousands and the captains of hundreds was 16,750 shekels.
+
+## Numbers 31:53
+
+The men of war had taken plunder, every man for himself.
+
+## Numbers 31:54
+
+So Moses and Eleazar the priest took the gold from the captains of thousands and of hundreds, and brought it to the tent of meeting as a memorial for the sons of Israel before the Lord.

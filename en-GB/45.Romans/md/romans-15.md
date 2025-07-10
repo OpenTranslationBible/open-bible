@@ -114,4 +114,36 @@ Whenever I go to Spain—for I hope to see you in passing, and to be helped on m
 
 ## Romans 15:25
 
-But now, I am going to Jerusalem, serving the sain
+But now, I am going to Jerusalem, serving the saints.
+
+## Romans 15:26
+
+For Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem.
+
+## Romans 15:27
+
+Yes, they were pleased to do so, and they are indebted to them. For if the Gentiles have shared in their spiritual things, they are indebted to serve them also in material things.
+
+## Romans 15:28
+
+Therefore, after I have completed this and have put my seal on this fruit of theirs, I will go on by way of you to Spain.
+
+## Romans 15:29
+
+I know that when I come to you, I will come in the fullness of the blessing of Christ.
+
+## Romans 15:30
+
+Now I urge you, brothers and sisters, by our Lord Jesus Christ and by the love of the Spirit, to strive together with me in your prayers to God for me,
+
+## Romans 15:31
+
+That I may be rescued from those who are disobedient in Judea, and that my service for Jerusalem may prove acceptable to the saints;
+
+## Romans 15:32
+
+So that I may come to you in joy by the will of God and relax in your company.
+
+## Romans 15:33
+
+Now may the God of peace be with you all. Amen.

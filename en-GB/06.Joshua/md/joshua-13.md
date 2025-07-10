@@ -114,32 +114,34 @@ and from Heshbon to Ramath Mizpah and Betonim, and from Mahanaim to the territor
 
 ## Joshua 13:27
 
-and in the valley: Beth Haram, Beth Nimrah, Succoth and Zaphon, the rest of the kingdom of Sihon king of Heshbon; the Jordan served as the border, as far as the tip of the Sea of Galilee east of the Jordan.  
+and in the valley: Beth Haram, Beth Nimrah, Succoth and Zaphon, the rest of the kingdom of Sihon king of Heshbon; the Jordan served as the border, as far as the tip of the Sea of Galilee east of the Jordan.
+
+## Joshua 13:28
 
 This was the inheritance of the Gadites, clan by clan, including the cities and their villages.
 
 ---
 
-## Joshua 13:28
+## Joshua 13:29
 
 This is what Moses had given to the half-tribe of Manasseh, clan by clan:
 
-## Joshua 13:29
+## Joshua 13:30
 
 The territory extending from Mahanaim through all of Bashan, the entire kingdom of Og king of Bashan—all the settlements of Jair in Bashan, sixty towns,
 
-## Joshua 13:30
+## Joshua 13:31
 
-half of Gilead, and Ashtaroth and Edrei, the royal cities of Og in Bashan.  
+half of Gilead, and Ashtaroth and Edrei, the royal cities of Og in Bashan.
 
 This was for the descendants of Makir son of Manasseh—for half of the sons of Makir, clan by clan.
 
 ---
 
-## Joshua 13:31
+## Joshua 13:32
 
 This is the inheritance that Moses had distributed in the plains of Moab, east of the Jordan, opposite Jericho.
 
-## Joshua 13:32
+## Joshua 13:33
 
 But to the tribe of Levi, Moses gave no inheritance; the Lord, the God of Israel, is their inheritance, as He promised them.

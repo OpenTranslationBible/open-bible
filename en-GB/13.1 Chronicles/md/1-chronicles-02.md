@@ -6,9 +6,11 @@ These were the sons of Israel:
 
 > Reuben, Simeon, Levi, Judah, Issachar, Zebulun,
 
-> Dan, Joseph, Benjamin, Naphtali, Gad, and Asher.
+> Dan, Joseph, Benjamin, Naphtali, Gad, and Asher
 
----
+## 1 Chronicles 2:2
+
+.
 
 ## 1 Chronicles 2:3
 

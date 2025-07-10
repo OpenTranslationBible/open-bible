@@ -74,4 +74,8 @@ Then he prayed again, and the sky poured rain and the earth produced its fruit.
 
 ## James 5:19
 
-My brothers and sisters, if anyone among you strays from the truth and someon
+My brothers and sisters, if anyone among you strays from the truth and someone turns him back,
+
+## James 5:20
+
+Let him know that the one who has turned a sinner from the error of his way will save his soul from death and cover a multitude of sins.

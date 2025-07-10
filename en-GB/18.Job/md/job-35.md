@@ -70,10 +70,15 @@ Then Elihu continued and said,
 
 ## Job 35:14
 
-> How much less when you say you do not look at Him,  
-> The case is before Him, and you must wait for Him!
+> How much less, when you say you do not look at Him,  
+> when your case is before Him, you must wait for Him!
 
 ## Job 35:15
 
-> And now, because He has not avenged His anger,  
-> Nor has He acknowledged wrongdoing we
+> But now, because He has not punished in anger,  
+> nor acknowledged the arrogance,
+
+## Job 35:16
+
+> Yet Job opens his mouth with empty words;  
+> and multiplies his words without knowledge.

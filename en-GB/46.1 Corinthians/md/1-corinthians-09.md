@@ -100,4 +100,10 @@ Do you not know that those who run in a race all run, but only one receives the 
 
 Everyone who competes in the games exercises self-control in all things. So they do it to obtain a perishable crown, but we an imperishable.
 
-## 1 Corin
+## 1 Corinthians 9:26
+
+Therefore I do not run aimlessly; Nor do I flail my arms like a boxer beating nothing but air.
+
+## 1 Corinthians 9:27
+
+Instead I strictly discipline my body and make it my slave, so that after I have preached to others, I don't become disqualified.
