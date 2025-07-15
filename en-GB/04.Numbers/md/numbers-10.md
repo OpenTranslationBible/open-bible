@@ -1,110 +1,109 @@
 # Numbers Chapter 10
 
 ## Numbers 10:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying:
 
 ## Numbers 10:2
-“Make two trumpets of hammered silver. Use them for calling the community together and for giving the signal to move.
+“Craft two trumpets of hammered silver for yourself; use them for summoning the congregation and for breaking camp.
 
 ## Numbers 10:3
-When both are sounded, the whole community is to gather at the entrance to the tent of meeting.
+When both trumpets are blown, the whole assembly shall gather before you at the entrance of the tent of meeting.
 
 ## Numbers 10:4
-If only one is sounded, only the leaders are to assemble.
+If only one trumpet is blown, then the leaders, the heads of the clans of Israel, shall assemble before you.
 
 ## Numbers 10:5
-When a trumpet blast is sounded, the camps on the east are to set out.
+When an alarm is sounded, the camps stationed on the east side shall set out.
 
 ## Numbers 10:6
-At the second blast, the camps on the south are to set out.
+When an alarm is sounded a second time, the camps on the south side shall set out. An alarm is to be sounded for them to break camp.
 
 ## Numbers 10:7
-To gather the assembly, blow the trumpets, but not with the same signal.
+To convene the assembly, blow the trumpets, but do not sound an alarm.
 
 ## Numbers 10:8
-The sons of Aaron are to blow the trumpets. This is a lasting ordinance.
+The sons of Aaron, the priests, shall blow the trumpets. This shall be a lasting ordinance for you throughout your generations.
 
 ## Numbers 10:9
-When you go to war in your land against an enemy, sound the trumpets. Then you will be remembered by the Lord and saved.
+When you go to war in your land against an enemy who oppresses you, sound an alarm with the trumpets. Then you will be remembered by the Lord your God and be rescued from your enemies.
 
 ## Numbers 10:10
-Also sound them at your feasts and festivals and over burnt offerings. They will serve as a reminder before God. I am the Lord your God.”
+On your days of rejoicing, your appointed festivals, and at the beginning of your months, you shall blow the trumpets over your burnt offerings and fellowship offerings, and they shall be a memorial before your God. I am the Lord your God.”
 
 ## Numbers 10:11
-On the twentieth day of the second month, in the second year, the cloud lifted from above the tabernacle.
+On the twentieth day of the second month in the second year, the cloud lifted from above the tabernacle of the covenant law.
 
 ## Numbers 10:12
-Then the Israelites set out from the Desert of Sinai, and the cloud came to rest in the Desert of Paran.
+The Israelites set out from the wilderness of Sinai and travelled from place to place until the cloud settled in the wilderness of Paran.
 
 ## Numbers 10:13
-They set out in the order commanded by the Lord through Moses.
+They set out for the first time at the Lord’s command through Moses.
 
 ## Numbers 10:14
-The division of Judah, under Nahshon son of Amminadab, set out first.
+The banner of the camp of Judah set out first, by their divisions, with Nahshon son of Amminadab in command.
 
 ## Numbers 10:15
-Next came Issachar, under Nethanel son of Zuar.
+Nethanel son of Zuar was over the division of the tribe of Issachar,
 
 ## Numbers 10:16
-Then Zebulun, under Eliab son of Helon.
+and Eliab son of Helon was over the division of the tribe of Zebulun.
 
 ## Numbers 10:17
-Then the tabernacle was taken down, and the Gershonites and Merarites set out, carrying it.
+Then the tabernacle was dismantled, and the Gershonites and Merarites, who carried it, set out.
 
 ## Numbers 10:18
-Next came Reuben, under Elizur son of Shedeur.
+The banner of the camp of Reuben set out next, by their divisions, with Elizur son of Shedeur in command.
 
 ## Numbers 10:19
-Then Simeon, under Shelumiel son of Zurishaddai.
+Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,
 
 ## Numbers 10:20
-Then Gad, under Eliasaph son of Deuel.
+and Eliasaph son of Deuel was over the division of the tribe of Gad.
 
 ## Numbers 10:21
-Then the Kohathites set out, carrying the holy things.
+Then the Kohathites set out, carrying the holy objects. The tabernacle was to be set up before their arrival.
 
 ## Numbers 10:22
-Then came Ephraim, under Elishama son of Ammihud.
+The banner of the camp of Ephraim set out next, by their divisions, with Elishama son of Ammihud in command.
 
 ## Numbers 10:23
-Next Manasseh, under Gamaliel son of Pedahzur.
+Gamaliel son of Pedahzur was over the division of the tribe of Manasseh,
 
 ## Numbers 10:24
-Then Benjamin, under Abidan son of Gideoni.
+and Abidan son of Gideoni was over the division of the tribe of Benjamin.
 
 ## Numbers 10:25
-Last were Dan, under Ahiezer son of Ammishaddai.
+Finally, the banner of the camp of Dan, which formed the rear guard for all the camps, set out by their divisions, with Ahiezer son of Ammishaddai in command.
 
 ## Numbers 10:26
-Then Asher, under Pagiel son of Okran.
+Pagiel son of Ochran was over the division of the tribe of Asher,
 
 ## Numbers 10:27
-Finally Naphtali, under Ahira son of Enan.
+and Ahira son of Enan was over the division of the tribe of Naphtali.
 
 ## Numbers 10:28
 This was the order of march for the Israelite divisions as they set out.
 
 ## Numbers 10:29
-Moses said to Hobab, his Midianite relative, “We are setting out for the land the Lord promised. Come with us and we will treat you well.”
+Moses said to Hobab son of Reuel the Midianite, Moses’ father-in-law, “We are setting out to the place which the Lord has promised to give us. Come with us and we will treat you well, for the Lord has promised good things to Israel.”
 
 ## Numbers 10:30
-But Hobab replied, “I will not go; I am going back to my own land.”
+He replied, “I will not go; I am returning to my own land and my own people.”
 
 ## Numbers 10:31
-But Moses said, “Please don’t leave us. You know where we should camp. You can be our guide.”
+But Moses said, “Please do not leave us. You know where we should camp in the wilderness, and you can be our eyes.
 
 ## Numbers 10:32
-“If you come with us, we will share with you whatever good the Lord gives us.”
+If you come with us, we will share with you whatever good things the Lord grants us.”
 
 ## Numbers 10:33
-So they set out from the mountain of the Lord, and the ark of the covenant went ahead of them for three days.
+So they set out from the mountain of the Lord and travelled for three days. The ark of the covenant of the Lord went ahead of them during those three days to find a resting place for them.
 
 ## Numbers 10:34
-The cloud of the Lord was over them by day when they set out.
+The cloud of the Lord was over them by day when they set out from the camp.
 
 ## Numbers 10:35
-Whenever the ark set out, Moses said, “Rise up, Lord! May Your enemies be scattered!”
+Whenever the ark set out, Moses said, “Rise up, Lord! May your enemies be scattered and your foes flee before you.”
 
 ## Numbers 10:36
-And when it came to rest, he said, “Return, Lord, to the countless thousands of Israel.”
-
+Whenever it came to rest, he said, “Return, Lord, to the countless thousands of Israel.”

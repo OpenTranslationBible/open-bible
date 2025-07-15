@@ -1,85 +1,64 @@
 # Romans Chapter 5
 
 ## Romans 5:1
-
 Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,
 
 ## Romans 5:2
-
-Through whom we also have obtained our introduction by faith into this grace in which we stand; and we celebrate in hope of the glory of God.
+through whom we have also gained access by faith into this grace in which we stand; and we rejoice in the hope of the glory of God.
 
 ## Romans 5:3
-
-And not only this, but we also celebrate in our tribulations, knowing that tribulation brings about perseverance;
+Not only this, but we also rejoice in our tribulations, knowing that tribulation produces perseverance;
 
 ## Romans 5:4
-
-And perseverance, proven character; and proven character, hope;
+and perseverance, proven character; and proven character, hope;
 
 ## Romans 5:5
-
-And hope does not disappoint, because the love of God has been poured out within our hearts through the Holy Spirit who was given to us.
+and hope does not put us to shame, because the love of God has been poured out into our hearts through the Holy Spirit who has been given to us.
 
 ## Romans 5:6
-
-For while we were still helpless, at the right time Christ died for the ungodly.
+For while we were still powerless, at the right time Christ died for the ungodly.
 
 ## Romans 5:7
-
-For one will hardly die for a righteous person; though perhaps for the good person someone would even dare to die.
+Very rarely will anyone die for a righteous person, though for a good person someone might dare to die.
 
 ## Romans 5:8
-
-But God demonstrates His own love toward us, in that while we were still sinners, Christ died for us.
+But God demonstrates His own love for us in this: while we were still sinners, Christ died for us.
 
 ## Romans 5:9
-
-Much more then, having now been justified by His blood, we shall be saved from the wrath through Him.
+Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.
 
 ## Romans 5:10
-
-For if while we were enemies we were reconciled to God through the death of His Son, much more, having been reconciled, shall we be saved by His life.
+For if, while we were enemies, we were reconciled to God through the death of His Son, much more, having been reconciled, shall we be saved by His life.
 
 ## Romans 5:11
-
-And not only this, but we also celebrate in God through our Lord Jesus Christ, through whom we have now received the reconciliation.
+And not only this, but we also rejoice in God through our Lord Jesus Christ, through whom we have now received reconciliation.
 
 ## Romans 5:12
-
-Therefore, just as through one man sin entered into the world, and death through sin, so death spread to all mankind, because all sinned—
+Therefore, just as through one man sin entered the world, and death through sin, and in this way death spread to all people, because all sinned—
 
 ## Romans 5:13
-
-For until the Law sin was in the world, but sin is not counted against anyone when there is no law.
+For until the law, sin was in the world, but sin is not counted against anyone when there is no law.
 
 ## Romans 5:14
-
-Nevertheless death reigned from Adam until Moses, even over those who had not sinned in the likeness of the violation committed by Adam, who is a type of Him who was to come.
+Nevertheless, death reigned from the time of Adam to Moses, even over those who did not sin in the likeness of Adam’s transgression, who is a pattern of the one to come.
 
 ## Romans 5:15
-
-But the gracious gift is not like the offence. For if by the offence of the one the many died, much more did the grace of God and the gift by the grace of the one Man, Jesus Christ, overflow to the many.
+But the gift is not like the trespass. For if by the trespass of the one man the many died, much more did the grace of God and the gift by the grace of the one man, Jesus Christ, overflow to the many.
 
 ## Romans 5:16
-
-The gift is not like that which came through the one who sinned; for the judgment from one offence resulted in condemnation, but the gracious gift from many offences resulted in justification.
+The gift is not like the result of the one man’s sin; for the judgment followed one sin and brought condemnation, but the gift followed many trespasses and brought justification.
 
 ## Romans 5:17
-
-For if by the offence of the one, death reigned through the one, much more will those who receive the abundance of grace and of the gift of righteousness reign in life through the One, Jesus Christ.
+For if by the trespass of the one man, death reigned through that one man, much more will those who receive the abundance of grace and the gift of righteousness reign in life through the one man, Jesus Christ.
 
 ## Romans 5:18
-
-So then, as through one offence the result was condemnation to all mankind, so also through one act of righteousness the result was justification of life to all mankind.
+So then, just as through one trespass the result was condemnation for all people, so also through one act of righteousness the result was justification and life for all people.
 
 ## Romans 5:19
-
-For as through the one man's disobedience the many were made sinners, so also through the obedience of the One the many will be made righteous.
+For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous.
 
 ## Romans 5:20
-
-The Law came in so that the offence would increase; but where sin increased, grace abounded all the more,
+The law was brought in so that the trespass might increase; but where sin increased, grace increased all the more,
 
 ## Romans 5:21
-
-So that, just as sin reigned in death, so also grace would reign through righteousness to eternal life through Jesus Christ our Lord.
+so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.

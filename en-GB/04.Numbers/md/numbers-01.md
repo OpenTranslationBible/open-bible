@@ -1,217 +1,163 @@
 # Numbers Chapter 1
 
 ## Numbers 1:1
-
-The Lord spoke to Moses in the tent of meeting in the Desert of Sinai on the first day of the second month in the second year after the Israelites came out of Egypt. He said:
+The Lord spoke to Moses in the wilderness of Sinai, in the tent of meeting, on the first day of the second month in the second year after the Israelites had come out of Egypt, saying:
 
 ## Numbers 1:2
-
-“Take a census of the whole Israelite community by clans and families, listing every man by name, one by one.
+“Take a census of the entire congregation of the Israelites by their families, by their fathers’ households, listing every male by name, one by one.
 
 ## Numbers 1:3
-
-You and Aaron are to number by their divisions all the men in Israel twenty years old or more who are able to serve in the army.
+You and Aaron are to count all the men in Israel who are twenty years old or more and able to serve in the army, according to their divisions.
 
 ## Numbers 1:4
-
-One man from each tribe, each the head of his family, is to help you.
+With you shall be a man from each tribe, each one the head of his family.
 
 ## Numbers 1:5
-
-These are the names of the men who are to assist you: from Reuben, Elizur son of Shedeur;
+These are the names of the men who shall assist you: from Reuben, Elizur son of Shedeur;
 
 ## Numbers 1:6
-
 from Simeon, Shelumiel son of Zurishaddai;
 
 ## Numbers 1:7
-
 from Judah, Nahshon son of Amminadab;
 
 ## Numbers 1:8
-
 from Issachar, Nethanel son of Zuar;
 
 ## Numbers 1:9
-
 from Zebulun, Eliab son of Helon;
 
 ## Numbers 1:10
-
 from the sons of Joseph: from Ephraim, Elishama son of Ammihud; from Manasseh, Gamaliel son of Pedahzur;
 
 ## Numbers 1:11
-
 from Benjamin, Abidan son of Gideoni;
 
 ## Numbers 1:12
-
 from Dan, Ahiezer son of Ammishaddai;
 
 ## Numbers 1:13
-
-from Asher, Pagiel son of Okran;
+from Asher, Pagiel son of Ochran;
 
 ## Numbers 1:14
-
 from Gad, Eliasaph son of Deuel;
 
 ## Numbers 1:15
-
-from Naphtali, Ahira son of Enan.”
+from Naphtali, Ahira son of Enan.
 
 ## Numbers 1:16
-
-These were the men chosen from the community, leaders of their ancestral tribes.
+These were the men appointed from the community, the leaders of their fathers’ tribes; they were the heads of the clans of Israel.
 
 ## Numbers 1:17
-
-Moses and Aaron took these men, as commanded,
+Moses and Aaron took these men who had been designated by name,
 
 ## Numbers 1:18
-
-and on the first day of the second month, they assembled the whole community. The people were registered by name, by family and tribe, all the men twenty years old or more.
+and they assembled the whole congregation on the first day of the second month. They registered by ancestry in their families, by their fathers’ households, according to the number of names, from twenty years old and upward, one by one,
 
 ## Numbers 1:19
-
-As the Lord commanded Moses, he counted them in the Desert of Sinai.
+as the Lord had commanded Moses. So he counted them in the wilderness of Sinai.
 
 ## Numbers 1:20
-
-From the descendants of Reuben, Israel’s firstborn: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 46,500.
+From the descendants of Reuben, Israel’s firstborn: All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families.
 
 ## Numbers 1:21
-
-From the descendants of Simeon: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 59,300.
+The number from the tribe of Reuben was 46,500.
 
 ## Numbers 1:22
-
-From the descendants of Gad: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 45,650.
+From the descendants of Simeon: All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families.
 
 ## Numbers 1:23
-
-From the descendants of Judah: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 74,600.
+The number from the tribe of Simeon was 59,300.
 
 ## Numbers 1:24
-
-From the descendants of Issachar: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 54,400.
+From the descendants of Gad: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:25
-
-From the descendants of Zebulun: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 57,400.
+The number from the tribe of Gad was 45,650.
 
 ## Numbers 1:26
-
-From the descendants of Ephraim, a son of Joseph: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 40,500.
+From the descendants of Judah: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:27
-
-From the descendants of Manasseh, a son of Joseph: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 32,200.
+The number from the tribe of Judah was 74,600.
 
 ## Numbers 1:28
-
-From the descendants of Benjamin: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 35,400.
+From the descendants of Issachar: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:29
-
-From the descendants of Dan: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 62,700.
+The number from the tribe of Issachar was 54,400.
 
 ## Numbers 1:30
-
-From the descendants of Asher: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 41,500.
+From the descendants of Zebulun: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:31
-
-From the descendants of Naphtali: all the men twenty years old or more who were able to serve in the army, listed by name according to their clans and families, numbered 53,400.
+The number from the tribe of Zebulun was 57,400.
 
 ## Numbers 1:32
-
-These were the men counted by Moses and Aaron, helped by the twelve leaders of Israel.
+From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:33
-
-The total number of men twenty years old or more able to serve in Israel’s army was 603,550.
+The number from the tribe of Ephraim was 40,500.
 
 ## Numbers 1:34
-
-The Levites, however, were not counted among them.
+From the descendants of Manasseh: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:35
-
-The Lord had said to Moses:
+The number from the tribe of Manasseh was 32,200.
 
 ## Numbers 1:36
-
-“Do not count the tribe of Levi or include them in the census.
+From the descendants of Benjamin: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:37
-
-Appoint the Levites over the tabernacle of the covenant law—they are to care for it and carry it. They are to camp around it.
+The number from the tribe of Benjamin was 35,400.
 
 ## Numbers 1:38
-
-When the tabernacle is moved, the Levites are to dismantle it; when it is set up, they are to take care of it. Any outsider who approaches is to be put to death.
+From the descendants of Dan: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:39
-
-The Israelites are to set up their tents by divisions, each under their own standard.
+The number from the tribe of Dan was 62,700.
 
 ## Numbers 1:40
-
-The Levites are to camp around the tabernacle so My wrath will not fall on the Israelite community.
+From the descendants of Asher: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:41
-
-The Levites are responsible for the care of the tabernacle of the covenant law.
+The number from the tribe of Asher was 41,500.
 
 ## Numbers 1:42
-
-The Israelites did everything just as the Lord commanded Moses.
+From the descendants of Naphtali: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:43
-
-Those who were numbered of the tribe of Naphtali were 53,400.
+The number from the tribe of Naphtali was 53,400.
 
 ## Numbers 1:44
-
-These are the ones who were numbered, whom Moses and Aaron counted, with the leaders of Israel, twelve men, each of whom was of his father’s household.
+These were the men counted by Moses and Aaron, with the leaders of Israel, twelve men, each representing his father’s household.
 
 ## Numbers 1:45
-
-So all the sons of Israel, from twenty years old and upward, whoever was able to go to war in Israel,
+All the Israelites twenty years old or more who were able to serve in Israel’s army were counted according to their families.
 
 ## Numbers 1:46
-
-All the numbered men were 603,550.
+The total number was 603,550.
 
 ## Numbers 1:47
-
-The Levites, however, were not counted among them by their fathers’ tribe.
+The tribe of Levi, however, was not counted along with the others.
 
 ## Numbers 1:48
-
 For the Lord had spoken to Moses, saying,
 
 ## Numbers 1:49
-
-“Only the tribe of Levi you shall not count, nor shall you take a census of them among the sons of Israel.
+“You must not count the tribe of Levi or include them in the census of the other Israelites.
 
 ## Numbers 1:50
-
-But you shall appoint the Levites over the tabernacle of the testimony, and over all its furnishings and everything that belongs to it. They shall carry the tabernacle and all its furnishings, and they shall take care of it; they shall camp around the tabernacle.
+Instead, appoint the Levites over the tabernacle of the testimony, over all its furnishings and everything that belongs to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and camp around it.
 
 ## Numbers 1:51
-
-So when the tabernacle is to move out, the Levites shall take it down; and when the tabernacle encamps, the Levites shall set it up. But the layman who comes near shall be put to death.
+Whenever the tabernacle is to move, the Levites are to take it down, and whenever it is to be set up, the Levites shall do it. Any outsider who approaches it shall be put to death.
 
 ## Numbers 1:52
-
-The sons of Israel shall camp, each by his own camp, and each by his own flag, by their armies.
+The Israelites are to camp by their divisions, each man by his own camp, and each man by his own standard.
 
 ## Numbers 1:53
-
-But the Levites shall camp around the tabernacle of the testimony, so that there will be no wrath on the congregation of the sons of Israel. So the Levites shall perform the duties of the tabernacle of the testimony.”
+But the Levites shall camp around the tabernacle of the testimony, so that there will be no divine wrath against the congregation of the Israelites. The Levites shall be responsible for the service to the tabernacle of the testimony.”
 
 ## Numbers 1:54
-
-So the sons of Israel did; according to all that the Lord had commanded Moses, so they did.
+The Israelites did all this just as the Lord commanded Moses.

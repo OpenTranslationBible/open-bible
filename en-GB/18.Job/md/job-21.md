@@ -2,181 +2,177 @@
 
 ## Job 21:1
 
-Then Job responded,
+Then Job answered:
 
 ## Job 21:2
 
-> “Listen carefully to my speech,  
-> And let this be your way of consolation.
+> “Listen intently to my words,
+> and let this be your way of comforting me.
 
 ## Job 21:3
 
-> Bear with me, and I will speak;  
-> Then after I have spoken, you may mock.
-
----
+> Allow me to speak,
+> and after I have spoken, you may mock me.
 
 ## Job 21:4
 
-> As for me, is my complaint to a mortal?  
-> Or why should I not be impatient?
+> Is my complaint directed to a mere human?
+> Why should I not be impatient?
 
 ## Job 21:5
 
-> Look at me, and be astonished,  
-> And put your hand over your mouth.
+> Look at me and be astonished;
+> place your hand over your mouth.
 
 ## Job 21:6
 
-> Even when I remember, I am disturbed,  
-> And horror takes hold of my flesh.
+> When I think of it, I am disturbed;
+> horror grips my flesh.
 
 ## Job 21:7
 
-> Why do the wicked still live,  
-> Grow old, and also become very powerful?
+> Why do the wicked continue to live,
+> grow old, and increase in power?
 
 ## Job 21:8
 
-> Their descendants endure with them in their sight,  
-> And their offspring before their eyes,
+> Their children are established in their presence,
+> their offspring before their eyes.
 
 ## Job 21:9
 
-> Their houses are safe from fear,  
-> And the rod of God is not on them.
+> Their homes are secure and free from fear;
+> the rod of God is not upon them.
 
 ## Job 21:10
 
-> His ox mates without fail;  
-> His cow calves and does not miscarry.
+> Their bulls breed without fail;
+> their cows calve and do not miscarry.
 
 ## Job 21:11
 
-> They send out their boys like the flock,  
-> And their children skip about.
+> They send forth their children like a flock;
+> their little ones dance.
 
 ## Job 21:12
 
-> They sing to the tambourine and harp,  
-> And rejoice at the sound of the flute.
+> They sing to the tambourine and lyre,
+> and rejoice to the sound of the flute.
 
 ## Job 21:13
 
-> They spend their days in prosperity,  
-> And suddenly they go down to Sheol.
+> They spend their days in prosperity
+> and descend peacefully to the grave.
 
 ## Job 21:14
 
-> Yet they say to God, ‘Go away from us!  
-> We do not desire the knowledge of Your ways.
+> Yet they say to God, ‘Depart from us!
+> We have no desire to know your ways.
 
 ## Job 21:15
 
-> Who is the Almighty, that we should serve Him,  
-> And what would we gain if we plead with Him?’
+> Who is the Almighty, that we should serve him?
+> What profit do we have if we pray to him?’
 
 ## Job 21:16
 
-> Behold, their prosperity is not in their hand;  
-> The advice of the wicked is far from me.
+> Indeed, their prosperity is not in their own hands,
+> so I distance myself from the counsel of the wicked.
 
 ---
 
 ## Job 21:17
 
-> How often is the lamp of the wicked put out,  
-> Or does their disaster fall on them?  
-> Does God apportion destruction in His anger?
+> “How often is the lamp of the wicked extinguished?
+> How often does calamity befall them,
+> apportioned by God in his anger?
 
 ## Job 21:18
 
-> Are they as straw before the wind,  
-> And like chaff which the storm carries away?
+> Are they as straw before the wind,
+> like chaff swept away by a storm?
 
 ## Job 21:19
 
-> You say, ‘God stores up a man’s wrongdoing for his sons.’  
-> Let God repay him so that he may know it.
+> It is said, ‘God stores up a person's iniquity for their children.’
+> Let him repay them so that they may know it themselves.
 
 ## Job 21:20
 
-> Let his own eyes see his destruction,  
-> And let him drink of the wrath of the Almighty.
+> Let their own eyes see their downfall;
+> let them drink of the wrath of the Almighty.
 
 ## Job 21:21
 
-> For what does he care about his household after him,  
-> When the number of his months is at an end?
+> For what do they care about their household after them,
+> when their allotted months have ended?
 
 ---
 
 ## Job 21:22
 
-> Can anyone teach God knowledge,  
-> Since He judges those on high?
+> Can anyone impart knowledge to God,
+> since he judges even the highest?
 
 ## Job 21:23
 
-> One dies in his full strength,  
-> Being wholly undisturbed and at ease;
+> One person dies in full strength,
+> completely at ease and secure,
 
 ## Job 21:24
 
-> His sides are filled with fat,  
-> And the marrow of his bones is fresh.
+> his body well nourished,
+> bones rich with marrow.
 
 ## Job 21:25
 
-> While another dies with a bitter soul,  
-> Never even tasting anything good.
+> Another dies in bitterness of soul,
+> never having enjoyed anything good.
 
 ## Job 21:26
 
-> Together they lie down in the dust,  
-> And maggots cover them.
-
----
+> Side by side they lie in the dust,
+> and worms cover them both.
 
 ## Job 21:27
 
-> Behold, I know your thoughts,  
-> And the plans by which you would wrong me.
+> “Behold, I know your thoughts
+> and the schemes you devise against me.
 
 ## Job 21:28
 
-> For you say, ‘Where is the house of the nobleman,  
-> And where is the tent, the dwelling places of the wicked?’
+> You ask, ‘Where now is the house of the noble,
+> the tents where the wicked lived?’
 
 ## Job 21:29
 
-> Have you not asked travellers,  
-> And do you not examine their evidence?
+> Have you not questioned those who travel?
+> Have you not considered their accounts—
 
 ## Job 21:30
 
-> That the evil person is spared on the day of disaster,  
-> They are led away from the day of fury.
+> that the wicked are spared from the day of calamity,
+> and are led away from the day of wrath?
 
 ## Job 21:31
 
-> Who confronts him with his actions,  
-> And who repays him for what he has done?
+> Who confronts them with their actions,
+> and who repays them for what they have done?
 
 ## Job 21:32
 
-> When he is carried to the grave,  
-> People keep watch over his tomb.
+> They are carried to the grave,
+> and a watch is kept over their tombs.
 
 ## Job 21:33
 
-> The clods of the valley will gently cover him;  
-> Moreover, all mankind follows after him,  
-> While countless others go before him.
+> The earth in the valley is sweet to them;
+> all humanity follows after them,
+> and countless others precede them.
 
 ---
 
 ## Job 21:34
 
-> So how dare you give me empty comfort?  
-> For your answers remain full of falsehood.”
+> So how can you offer me empty comfort?
+> Your answers are nothing but falsehood!”

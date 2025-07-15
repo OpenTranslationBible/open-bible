@@ -1,125 +1,94 @@
 # Ezekiel Chapter 22
 
 ## Ezekiel 22:1
-
-Then the word of the Lord came to me, saying,
+The word of the Lord came to me, saying,
 
 ## Ezekiel 22:2
-
-“And you, son of man, will you judge, will you judge the bloody city? Then make her abominations known to her.
+“Son of man, will you judge, will you judge the city of bloodshed? Then inform her of all her abominations.
 
 ## Ezekiel 22:3
-
-And you shall say, ‘This is what the Lord God says: A city shedding blood in her midst, so that her time will come, and that makes idols to defile herself!
+And say: ‘This is what the Sovereign Lord says: A city that brings upon herself doom by shedding blood in her midst and defiles herself with idols, contrary to her own good.
 
 ## Ezekiel 22:4
-
-You have become guilty by the blood which you have shed, and defiled by your idols which you have made. So you have brought your days near and have come to your years; therefore I have made you a disgrace to the nations and a mocking to all the lands.
+You have become guilty by the blood you have shed and defiled by the idols you have made. You have brought your days near and have come to the end of your years. Therefore, I will make you a disgrace to the nations and a laughingstock to all the lands.
 
 ## Ezekiel 22:5
-
-Those who are near and those who are far from you will mock you, you of ill repute, full of turmoil.
+Those who are near and those who are far off will mock you, you city of ill repute, full of turmoil.
 
 ## Ezekiel 22:6
-
-Behold, the leaders of Israel, each according to his power, have been among you for the purpose of shedding blood.
+“See how each of the princes of Israel who are in you uses his power to shed blood.
 
 ## Ezekiel 22:7
-
-They have treated father and mother with contempt among you. They have oppressed the stranger in your midst, the orphan and the widow they have wronged among you.
+In you they have treated father and mother with contempt; they have oppressed the foreigner, and mistreated the fatherless and the widow.
 
 ## Ezekiel 22:8
-
-You have despised My holy things and profaned My Sabbaths.
+You have despised my holy things and profaned my Sabbaths.
 
 ## Ezekiel 22:9
-
-Slanderous men have been among you for the purpose of shedding blood, and among you they have eaten at the mountain shrines. In your midst they have committed lewdness.
+In you are slanderers bent on shedding blood; in you are those who eat at the mountain shrines and commit outrageous acts.
 
 ## Ezekiel 22:10
-
-They have uncovered their father’s nakedness among you; they have violated her who is unclean in her menstrual impurity.
+In you are those who uncover their father's nakedness; in you are those who violate women during their period, when they are ceremonially unclean.
 
 ## Ezekiel 22:11
-
-One has committed abomination with his neighbour’s wife, another has defiled his daughter-in-law lewdly, and another among you has violated his sister, his father’s daughter.
+In you one man commits abomination with his neighbour’s wife, another shamefully defiles his daughter-in-law, and another violates his sister, his own father’s daughter.
 
 ## Ezekiel 22:12
-
-They have taken bribes among you to shed blood; you have taken interest and profit, and you have injured your neighbours by oppression, and you have forgotten Me,” declares the Lord God.
+In you are people who accept bribes to shed blood; you take interest and make a profit from the poor. You extort unjust gain from your neighbours. And you have forgotten me, declares the Sovereign Lord.
 
 ## Ezekiel 22:13
-
-“Now behold, I strike with My hand your profit which you have made and the bloodshed which is among you.
+“Behold, I will strike my hands together at your dishonest gain and the bloodshed in your midst.
 
 ## Ezekiel 22:14
-
-Can your heart endure, or can your hands remain strong in the days that I will deal with you? I, the Lord, have spoken and will act.
+Will your heart endure, or will your hands be strong in the days I deal with you? I, the Lord, have spoken and will act.
 
 ## Ezekiel 22:15
-
-I will scatter you among the nations and disperse you among the lands, and I will purge your uncleanness from you.
+I will scatter you among the nations and disperse you through the lands; and I will cleanse you of your uncleanness.
 
 ## Ezekiel 22:16
-
-And you will defile yourself in the sight of the nations, and you will know that I am the Lord.”
+When you have been defiled in the sight of the nations, you will know that I am the Lord.’”
 
 ## Ezekiel 22:17
-
-And the word of the Lord came to me, saying,
+Then the word of the Lord came to me, saying,
 
 ## Ezekiel 22:18
-
-“Son of man, the house of Israel has become waste to Me; all of them are bronze, tin, iron, and lead in the furnace; they are the dross of silver.
+“Son of man, the house of Israel has become dross to me; all of them are bronze, tin, iron, and lead left in the furnace. They are but the dross of silver.
 
 ## Ezekiel 22:19
-
-Therefore, this is what the Lord God says: ‘Because all of you have become waste, behold, I am going to gather you into the midst of Jerusalem.
+Therefore, this is what the Sovereign Lord says: ‘Because you have all become dross, I will gather you into the midst of Jerusalem.
 
 ## Ezekiel 22:20
-
-As they gather silver, bronze, iron, lead, and tin into the furnace to blow fire on it in order to melt it, so I will gather you in My anger and in My wrath, and I will place you there and melt you.
+As silver, bronze, iron, lead, and tin are gathered into a furnace to be melted with a fiery blast, so will I gather you in my anger and wrath and put you inside the city and melt you.
 
 ## Ezekiel 22:21
-
-I will gather you and blow on you with the fire of My wrath, and you will be melted in the midst of it.
+I will gather you and blow on you with the fire of my wrath, and you will be melted inside her.
 
 ## Ezekiel 22:22
-
-As silver is melted in a furnace, so you will be melted in the midst of it; and you will know that I, the Lord, have poured out My wrath on you.’”
+As silver is melted in a furnace, so you will be melted inside her, and you will know that I, the Lord, have poured out my wrath on you.’”
 
 ## Ezekiel 22:23
-
-And the word of the Lord came to me, saying,
+Again the word of the Lord came to me, saying,
 
 ## Ezekiel 22:24
-
-“Son of man, say to her, ‘You are a land that is not clean or rained on in the day of indignation.’
+“Son of man, say to the land, ‘You are a land that has not been cleansed or rained on in the day of wrath.’
 
 ## Ezekiel 22:25
-
-There is a conspiracy of her prophets in her midst like a roaring lion tearing prey. They have devoured lives, taken treasure and precious things, and made many widows in her midst.
+There is a conspiracy of her princes within her like a roaring lion tearing its prey; they devour lives, take treasures and precious things, and make many widows within her.
 
 ## Ezekiel 22:26
-
-Her priests have done violence to My Law and have profaned My holy things; they have made no distinction between the holy and the common, and they have not taught the difference between the unclean and the clean; and they hide their eyes from My Sabbaths, and I am profaned among them.
+Her priests have done violence to my law and profaned my holy things; they do not distinguish between the holy and the common; they have not taught the difference between the unclean and the clean; and they have shut their eyes to the keeping of my Sabbaths, so that I am profaned among them.
 
 ## Ezekiel 22:27
-
-Her leaders within her are like wolves tearing prey, shedding blood and destroying lives in order to make dishonest profit.
+Her officials within her are like wolves tearing their prey; they shed blood and destroy lives to make dishonest gain.
 
 ## Ezekiel 22:28
-
-And her prophets have plastered with whitewash for them, seeing false visions and divining lies for them, saying, ‘This is what the Lord God says,’ when the Lord has not spoken.
+Her prophets whitewash these deeds for them by false visions and lying divinations. They say, ‘This is what the Sovereign Lord says’—when the Lord has not spoken.
 
 ## Ezekiel 22:29
-
-The people of the land have practiced oppression and committed robbery, and they have wronged the poor and needy and have oppressed the stranger without justice.
+The people of the land practice extortion and commit robbery; they oppress the poor and needy and mistreat the foreigner, denying them justice.
 
 ## Ezekiel 22:30
-
-I searched for a man among them who would build up the wall and stand in the gap before Me for the land, so that I would not destroy it; but I found no one.
+I looked for someone among them who would build up the wall and stand before me in the gap on behalf of the land so I would not have to destroy it, but I found no one.
 
 ## Ezekiel 22:31
-
-So I have poured out My indignation on them; I have consumed them with the fire of My wrath; I have brought their way upon their heads,” declares the Lord God.
+So I will pour out my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign Lord.”

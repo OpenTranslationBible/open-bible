@@ -1,98 +1,97 @@
 # Genesis Chapter 11
 
 ## Genesis 11:1
-Now the whole earth had one language and a common vocabulary.
+Now the entire earth had one language and the same words.
 
 ## Genesis 11:2
-As people moved eastward, they found a plain in the land of Shinar and settled there.
+As they journeyed eastward, they discovered a plain in the land of Shinar and settled there.
 
 ## Genesis 11:3
-They said to one another, “Come, let’s make bricks and bake them thoroughly.” They used brick instead of stone, and tar for mortar.
+They said to one another, “Come, let us make bricks and fire them thoroughly.” They used brick in place of stone, and tar for mortar.
 
 ## Genesis 11:4
-Then they said, “Come, let’s build ourselves a city, with a tower that reaches to the heavens, so that we may make a name for ourselves and not be scattered over the face of the whole earth.”
+Then they said, “Come, let us build ourselves a city, with a tower that reaches into the heavens, to make a name for ourselves; otherwise we will be scattered over the face of the whole earth.”
 
 ## Genesis 11:5
-But the Lord came down to see the city and the tower that the people were building.
+The Lord came down to see the city and the tower that the people were constructing.
 
 ## Genesis 11:6
-The Lord said, “If they have begun to do this as one people speaking the same language, then nothing they plan will be impossible for them.
+The Lord said, “Behold, they are one people with the same language, and this is what they have begun to do. Now nothing they plan will be impossible for them.
 
 ## Genesis 11:7
-Come, let Us go down and confuse their language so they will not understand one another.”
+Come, let us go down and confuse their language so that they will not understand each other’s speech.”
 
 ## Genesis 11:8
-So the Lord scattered them from there over all the earth, and they stopped building the city.
+So the Lord scattered them from there over the face of all the earth, and they ceased building the city.
 
 ## Genesis 11:9
-That is why it was called Babel—because there the Lord confused the language of the whole world. From there the Lord scattered them over the face of the whole earth.
+Therefore it was called Babel, because there the Lord confused the language of the entire earth. From there the Lord scattered them over the face of all the earth.
 
 ## Genesis 11:10
-This is the account of Shem’s family line. Two years after the flood, when Shem was 100 years old, he became the father of Arphaxad.
+These are the generations of Shem. Shem was 100 years old when he became the father of Arphaxad, two years after the flood.
 
 ## Genesis 11:11
-After he became the father of Arphaxad, Shem lived 500 years and had other sons and daughters.
+Shem lived 500 years after he became the father of Arphaxad, and he had other sons and daughters.
 
 ## Genesis 11:12
-When Arphaxad had lived 35 years, he became the father of Shelah.
+Arphaxad lived 35 years and became the father of Shelah.
 
 ## Genesis 11:13
 After he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.
 
 ## Genesis 11:14
-When Shelah had lived 30 years, he became the father of Eber.
+Shelah lived 30 years and became the father of Eber.
 
 ## Genesis 11:15
 After he became the father of Eber, Shelah lived 403 years and had other sons and daughters.
 
 ## Genesis 11:16
-When Eber had lived 34 years, he became the father of Peleg.
+Eber lived 34 years and became the father of Peleg.
 
 ## Genesis 11:17
 After he became the father of Peleg, Eber lived 430 years and had other sons and daughters.
 
 ## Genesis 11:18
-When Peleg had lived 30 years, he became the father of Reu.
+Peleg lived 30 years and became the father of Reu.
 
 ## Genesis 11:19
 After he became the father of Reu, Peleg lived 209 years and had other sons and daughters.
 
 ## Genesis 11:20
-When Reu had lived 32 years, he became the father of Serug.
+Reu lived 32 years and became the father of Serug.
 
 ## Genesis 11:21
 After he became the father of Serug, Reu lived 207 years and had other sons and daughters.
 
 ## Genesis 11:22
-When Serug had lived 30 years, he became the father of Nahor.
+Serug lived 30 years and became the father of Nahor.
 
 ## Genesis 11:23
 After he became the father of Nahor, Serug lived 200 years and had other sons and daughters.
 
 ## Genesis 11:24
-When Nahor had lived 29 years, he became the father of Terah.
+Nahor lived 29 years and became the father of Terah.
 
 ## Genesis 11:25
 After he became the father of Terah, Nahor lived 119 years and had other sons and daughters.
 
 ## Genesis 11:26
-When Terah had lived 70 years, he became the father of Abram, Nahor, and Haran.
+Terah lived 70 years and became the father of Abram, Nahor, and Haran.
 
 ## Genesis 11:27
-This is the account of Terah’s family. Terah became the father of Abram, Nahor and Haran. Haran became the father of Lot.
+These are the generations of Terah. Terah became the father of Abram, Nahor, and Haran; and Haran became the father of Lot.
 
 ## Genesis 11:28
-While his father Terah was still alive, Haran died in Ur of the Chaldeans, in the land of his birth.
+Haran died in the presence of his father Terah in the land of his birth, in Ur of the Chaldeans.
 
 ## Genesis 11:29
-Abram and Nahor both married. Abram’s wife was named Sarai, and Nahor’s wife was Milcah, the daughter of Haran, the father of both Milcah and Iscah.
+Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah, the daughter of Haran, the father of both Milcah and Iscah.
 
 ## Genesis 11:30
-Now Sarai was barren; she had no children.
+Sarai was barren; she had no child.
 
 ## Genesis 11:31
-Terah took his son Abram, his grandson Lot son of Haran, and his daughter-in-law Sarai, and together they set out from Ur of the Chaldeans to go to Canaan. But when they came to Haran, they settled there.
+Terah took his son Abram, his grandson Lot, son of Haran, and his daughter-in-law Sarai, Abram’s wife, and they set out from Ur of the Chaldeans to go to the land of Canaan. But when they reached Haran, they settled there.
 
 ## Genesis 11:32
 Terah lived 205 years, and he died in Haran.
-

@@ -1,156 +1,94 @@
 # Proverbs Chapter 11
 
 ## Proverbs 11:1
-
-A false balance is an abomination to the Lord,  
-But a just weight is His delight.
+The Lord abhors false scales, but accurate weights are His pleasure.
 
 ## Proverbs 11:2
-
-When pride comes, then comes dishonour,  
-But with the humble is wisdom.
+When pride arrives, disgrace follows, but with the humble there is wisdom.
 
 ## Proverbs 11:3
-
-The integrity of the upright will guide them,  
-But the perversity of the treacherous will destroy them.
+The integrity of the upright guides them, but the treachery of the unfaithful leads to their ruin.
 
 ## Proverbs 11:4
-
-Riches do not benefit on the day of wrath,  
-But righteousness rescues from death.
+Riches are futile on the day of wrath, but righteousness delivers from death.
 
 ## Proverbs 11:5
-
-The righteousness of the blameless will smooth his way,  
-But the wicked will fall by his own wickedness.
+The righteousness of the blameless clears their path, but the wicked stumble by their own wickedness.
 
 ## Proverbs 11:6
-
-The righteousness of the upright will rescue them,  
-But the treacherous will be caught by their own greed.
+The righteousness of the upright rescues them, but the treacherous are ensnared by their own greed.
 
 ## Proverbs 11:7
-
-When a wicked person dies, his hope perishes,  
-And the expectation of strength perishes too.
+When the wicked die, their hopes perish, and the promise of their might comes to nothing.
 
 ## Proverbs 11:8
-
-The righteous is rescued from trouble,  
-But the wicked takes his place.
+The righteous are saved from trouble, and it befalls the wicked instead.
 
 ## Proverbs 11:9
-
-With his mouth the godless person destroys his neighbour,  
-But through knowledge the righteous will be rescued.
+With their mouths the godless ruin their neighbours, but through knowledge the righteous find deliverance.
 
 ## Proverbs 11:10
-
-When the righteous prosper, the city rejoices,  
-And when the wicked perish, there is joyful shouting.
+When the righteous prosper, the city rejoices; when the wicked perish, there is celebration.
 
 ## Proverbs 11:11
-
-By the blessing of the upright a city is exalted,  
-But by the mouth of the wicked it is torn down.
+A city is exalted by the blessing of the upright, but it is destroyed by the words of the wicked.
 
 ## Proverbs 11:12
-
-One who despises his neighbour lacks sense,  
-But a person of understanding keeps silent.
+Whoever belittles their neighbour lacks judgement, but a person of understanding remains silent.
 
 ## Proverbs 11:13
-
-One who goes about as a slanderer reveals secrets,  
-But one who is trustworthy conceals a matter.
+A gossip betrays a confidence, but a trustworthy person keeps a matter concealed.
 
 ## Proverbs 11:14
-
-Where there is no guidance, the people fall,  
-But in an abundance of counsellors there is victory.
+Without guidance a nation falls, but victory comes through many counsellors.
 
 ## Proverbs 11:15
-
-One who is a guarantor for a stranger will suffer for it,  
-But one who hates being a guarantor is secure.
+Whoever guarantees a stranger will suffer for it, but whoever avoids such pledges is secure.
 
 ## Proverbs 11:16
-
-A gracious woman attains honour,  
-And ruthless men attain riches.
+A kind-hearted woman gains honour, but ruthless men gain only riches.
 
 ## Proverbs 11:17
-
-A merciful person does himself good,  
-But the cruel person brings trouble on himself.
+A merciful person benefits themselves, but the cruel bring harm upon themselves.
 
 ## Proverbs 11:18
-
-A wicked person earns deceptive wages,  
-But one who sows righteousness gets a true reward.
+A wicked person earns deceptive wages, but the one who sows righteousness receives a true reward.
 
 ## Proverbs 11:19
-
-One who is steadfast in righteousness attains life,  
-But one who pursues evil brings about his own death.
+The steadfast in righteousness attain life, but those who pursue evil meet death.
 
 ## Proverbs 11:20
-
-The perverse in heart are an abomination to the Lord,  
-But the blameless in their walk are His delight.
+The Lord detests those with perverse hearts, but He delights in the blameless.
 
 ## Proverbs 11:21
-
-Be assured, the evil person will not go unpunished,  
-But the descendants of the righteous will be delivered.
+Rest assured, the wicked will not go unpunished, but the righteous will be delivered.
 
 ## Proverbs 11:22
-
-As a ring of gold in a pig’s snout  
-So is a beautiful woman who lacks discretion.
+Like a gold ring in a pig’s snout is a beautiful woman who lacks discretion.
 
 ## Proverbs 11:23
-
-The desire of the righteous is only good,  
-But the expectation of the wicked is wrath.
+The desires of the righteous end in good, but the expectations of the wicked result in wrath.
 
 ## Proverbs 11:24
-
-There is one who scatters, yet increases all the more,  
-And one who withholds what is justly due, and it results only in want.
+One person gives freely, yet gains more; another withholds unduly, and comes to poverty.
 
 ## Proverbs 11:25
-
-A generous person will be prosperous,  
-And one who gives others plenty of water will himself be given drink.
+A generous person will prosper, and whoever refreshes others will themselves be refreshed.
 
 ## Proverbs 11:26
-
-One who withholds grain, the people will curse him,  
-But blessing will be on the head of one who sells it.
+People curse the one who hoards grain, but blessing is upon the one willing to sell.
 
 ## Proverbs 11:27
-
-One who diligently seeks good seeks favour,  
-But one who seeks evil, evil will come to him.
+Whoever seeks good finds favour, but evil comes to those who pursue it.
 
 ## Proverbs 11:28
-
-One who trusts in his riches will fall,  
-But the righteous will flourish like the green leaf.
+Those who trust in their riches will fall, but the righteous will flourish like a green leaf.
 
 ## Proverbs 11:29
-
-One who brings ruin on his household will inherit wind,  
-And the foolish will be servant to the wise-hearted.
+Whoever brings trouble upon their family will inherit only wind, and the fool will serve the wise.
 
 ## Proverbs 11:30
-
-The fruit of the righteous is a tree of life,  
-And one who is wise gains souls.
+The fruit of the righteous is a tree of life, and the wise save lives.
 
 ## Proverbs 11:31
-
-If the righteous will be rewarded on the earth,  
-How much more the wicked and the sinner!
+If the righteous are rewarded on earth, how much more the wicked and the sinner!

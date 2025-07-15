@@ -2,164 +2,166 @@
 
 ## Amos 5:1
 
-Hear this word which I am taking up for you as a song of mourning, house of Israel:
+Hear this word, O house of Israel, this lament I raise against you:
 
 ## Amos 5:2
 
-> “She has fallen, she will not rise again—  
-> The virgin Israel.  
-> She lies unnoticed on her land;  
-> There is no one to raise her up.”
+> “Fallen is Virgin Israel,
+> she shall rise no more.
+> She lies forsaken on her land;
+> there is no one to lift her up.”
 
 ## Amos 5:3
 
-For this is what the Lord God says:
+> For this is what the Sovereign Lord says to Israel:
 
-> “The city which goes forth a thousand strong  
-> Will have a hundred left,  
-> And the one which goes forth a hundred strong  
-> Will have ten left to the house of Israel.”
+> “The city that sends out a thousand
+> will have a hundred left,
+> and the one that sends out a hundred
+> will have ten left.”
 
 ## Amos 5:4
 
 For this is what the Lord says to the house of Israel:
 
-> “Seek Me so that you may live.
+> “Seek me, and you shall live.
 
 ## Amos 5:5
 
-> But do not resort to Bethel,  
-> And do not come to Gilgal,  
-> Nor cross over to Beersheba;  
-> For Gilgal will certainly go into captivity,  
-> And Bethel will come to nothing.
+> Do not seek Bethel,
+> do not go to Gilgal,
+> and do not cross over to Beersheba;
+> for Gilgal shall surely go into exile,
+> and Bethel shall be reduced to nothing.”
 
 ## Amos 5:6
 
-> Seek the Lord so that you may live,  
-> Or He will break through like fire, house of Joseph,  
-> And it will consume with no one to extinguish it for Bethel,
+> Seek the Lord, and live,
+> lest he break out like fire in the house of Joseph,
+> and it devour, with none to quench it for Bethel.
 
 ## Amos 5:7
 
-> For those who turn justice into wormwood,  
-> And throw righteousness to the earth.”
+> There are those who turn justice into bitterness
+> and cast righteousness to the ground.
 
 ## Amos 5:8
 
-> He who made the Pleiades and Orion,  
-> And changes deep darkness into morning,  
-> Who also darkens day into night,  
-> Who calls for the waters of the sea  
-> And pours them out on the surface of the earth,  
-> The Lord is His name.
+> He who made the Pleiades and Orion,
+> who turns deep darkness into morning
+> and darkens day into night,
+> who summons the waters of the sea
+> and pours them out over the face of the earth
+> — the Lord is his name.
 
 ## Amos 5:9
 
-> It is He who makes destruction flash upon the strong,  
-> So that destruction comes upon the fortress.
+> He brings sudden destruction upon the stronghold,
+> and ruin comes upon the fortified city.
 
 ## Amos 5:10
 
-> They hate one who rebukes in the gate,  
-> And they despise one who speaks with integrity.
+> They hate the one who reproves in the gate
+> and despise the one who speaks the truth.
 
 ## Amos 5:11
 
-> Therefore because you impose heavy rent on the poor  
-> And take a tribute of grain from them,  
-> Though you have built houses of cut stone,  
-> Yet you will not live in them;  
-> You have planted beautiful vineyards,  
-> Yet you will not drink their wine.
+> Therefore, because you impose heavy rent on the poor
+> and take a levy of grain from them,
+> though you have built houses of hewn stone,
+> you shall not dwell in them;
+> though you have planted delightful vineyards,
+> you shall not drink their wine.
 
 ## Amos 5:12
 
-> For I know your offences are many and your sins are great,  
-> You who are hostile to the righteous and accept bribes,  
-> And turn away the poor from justice at the gate.
+> For I know how numerous your offenses are and how great your sins.
+> You oppress the righteous, accept bribes,
+> and turn aside the needy in the gate.
 
 ## Amos 5:13
 
-> Therefore at such a time the prudent person keeps quiet,  
-> Because it is an evil time.
+> Therefore, the prudent keep silent at such a time,
+> for it is an evil time.
 
 ## Amos 5:14
 
-> Seek good and not evil, so that you may live;  
-> And so may the Lord God of armies be with you,  
-> Just as you have said!
+> Seek good and not evil, that you may live;
+> and so the Lord God Almighty will be with you,
+> just as you say.
 
 ## Amos 5:15
 
-> Hate evil, love good,  
-> And establish justice in the gate!  
-> Perhaps the Lord God of armies  
-> Will be gracious to the remnant of Joseph.
+> Hate evil, love good,
+> and establish justice in the gate.
+> Perhaps the Lord God Almighty
+> will be gracious to the remnant of Joseph.
 
 ## Amos 5:16
 
-Therefore this is what the Lord God of armies,
+Therefore, this is what the Lord, the Lord God Almighty, says:
 
-> The Lord, says:  
-> “There is mourning in all the public squares,  
-> And in all the streets they say, ‘Oh no! Oh no!’  
-> They also call the farmer to mourning  
-> And professional mourners to mourning rituals.
+> “There will be wailing in all the streets
+> and cries of anguish in every public square.
+> The farmers will be called to mourn,
+> and the professional mourners to lamentation.
 
 ## Amos 5:17
 
-> And in all the vineyards there is mourning,  
-> Because I will pass through the midst of you,” says the Lord.
+> There will be wailing in all the vineyards,
+> for I will pass through your midst,” says the Lord.
 
 ## Amos 5:18
 
-> Woe to you who are longing for the day of the Lord!  
-> For what purpose will the day of the Lord be to you?  
-> It will be darkness and not light;
+> Woe to you who long for the day of the Lord!
+> Why do you desire the day of the Lord?
+> It will be darkness, not light.
 
 ## Amos 5:19
 
-> As when a person flees from a lion  
-> And a bear meets him,  
-> Or he goes home, leans with his hand against the wall,  
-> And a snake bites him.
+> It will be as if a man fled from a lion
+> only to meet a bear,
+> or as if he entered his house and leaned his hand on the wall
+> only to be bitten by a snake.
 
 ## Amos 5:20
 
-> Will the day of the Lord not be darkness instead of light,  
-> Even gloom with no brightness in it?
+> Will not the day of the Lord be darkness, not
+> light— pitch-dark, without a glimmer of brightness?
 
 ## Amos 5:21
 
-> “I hate, I reject your festivals,  
-> Nor do I delight in your festive assemblies.
+> “I hate, I despise your festivals;
+> your assemblies are a stench to me.
 
 ## Amos 5:22
 
-> Even though you offer up to Me burnt offerings and your grain offerings,  
-> I will not accept them.  
-> And I will not even look at the peace offerings of your fattened oxen.
+> Even though you bring me burnt offerings and grain offerings,
+> I will not accept them.
+> I will not regard the peace offerings of your fattened animals.
 
 ## Amos 5:23
 
-> Take away from Me the noise of your songs;  
-> I will not even listen to the sound of your harps.
+> Take away from me the noise of your songs;
+> I will not listen to the melody of your harps.
 
 ## Amos 5:24
 
-> But let justice roll out like waters,  
-> And righteousness like an ever-flowing stream.
+> But let justice roll on like a river,
+> and righteousness like an ever-flowing stream.
 
 ## Amos 5:25
 
-> Did you present Me with sacrifices and grain offerings in the wilderness for forty years, house of Israel?
+> “Did you bring me sacrifices and offerings
+> during the forty years in the wilderness, O house of Israel?
 
 ## Amos 5:26
 
-> You also carried along Sikkuth your king and Kiyyun, your images,  
-> The star of your gods which you made for yourselves.
+> You have carried Sikkuth your king and Kiyyun your idols,
+> the star of your gods that you made for yourselves.
 
 ## Amos 5:27
 
-> Therefore, I will make you go into exile beyond Damascus,” says the Lord, whose name is the God of armies.
+> Therefore I will send you into exile beyond Damascus,”
+
+says the Lord, whose name is God Almighty.

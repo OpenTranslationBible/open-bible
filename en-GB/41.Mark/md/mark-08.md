@@ -2,195 +2,164 @@
 
 ## Mark 8:1
 
-In those days, when there was again a large crowd and they had nothing to eat,  
-Jesus summoned His disciples and _said to them_,
+In those days, when there was once more a large crowd and they had nothing to eat, Jesus called His disciples to Him and said,
 
 ## Mark 8:2
 
-“I feel compassion for the people, because they have remained with Me for three days already and have nothing to eat.
+“I have compassion for these people, because they have been with Me for three days now and have nothing to eat.
 
 ## Mark 8:3
 
-And if I send them away hungry to their homes, they will faint on the way;  
-and some of them have come from a great distance.”
+If I send them away hungry to their homes, they will faint on the way, for some of them have come from a long distance.”
 
 ## Mark 8:4
 
-And His disciples replied to Him,  
-“Where will anyone be able to find enough bread here in this desolate place to satisfy these people?”
+His disciples answered Him, “Where can anyone find enough bread here in this desolate place to feed them?”
 
 ## Mark 8:5
 
-And He was asking them, “How many loaves do you have?”  
-And they said, “Seven.”
+He asked them, “How many loaves do you have?” They said, “Seven.”
 
 ## Mark 8:6
 
-And He _directed the crowd_ to sit down on the ground;  
-and taking the seven loaves, He gave thanks and broke them,  
-and kept giving them to His disciples to serve, and they served them to the crowd.
+He directed the crowd to sit down on the ground. Taking the seven loaves, He gave thanks, broke them, and gave them to His disciples to distribute to the people, and they did so.
 
 ## Mark 8:7
 
-They also had a few small fish; and after He had blessed them,  
-He told the disciples to serve these as well.
+They also had a few small fish; He blessed them and instructed the disciples to distribute these as well.
 
 ## Mark 8:8
 
-And they ate and were satisfied; and they picked up seven large baskets full of what was left of the broken pieces.
+The people ate and were satisfied, and they picked up seven basketfuls of broken pieces that were left over.
 
 ## Mark 8:9
 
-About four thousand men were there; and He dismissed them.
+There were about four thousand people present. After dismissing them,
 
 ## Mark 8:10
 
-And immediately He got into the boat with His disciples and came to the region of Dalmanutha.
+He got into the boat with His disciples and went to the region of Dalmanutha.
 
 ---
 
 ## Mark 8:11
 
-And the Pharisees came out and began to argue with Him,  
-demanding from Him a sign from heaven, to test Him.
+The Pharisees came and began to argue with Him, asking Him for a sign from heaven, to test Him.
 
 ## Mark 8:12
 
-Sighing deeply in His spirit, He _said_,  
-“Why does this generation demand a sign?  
-Truly I say to you, no sign will be given to this generation.”
+Sighing deeply in His spirit, He said, “Why does this generation ask for a sign? Truly I tell you, no sign will be given to it.”
 
 ## Mark 8:13
 
-And leaving them, He again embarked and went away to the other side.
+Then He left them, got back into the boat and crossed to the other side.
 
 ---
 
 ## Mark 8:14
 
-And the disciples had forgotten to take bread, and did not have more than one loaf in the boat with them.
+The disciples had forgotten to take bread, except for one loaf they had with them in the boat.
 
 ## Mark 8:15
 
-And He was giving orders to them, saying,  
-“Watch out! Beware of the leaven of the Pharisees and the leaven of Herod.”
+He cautioned them, saying, “Watch out for the leaven of the Pharisees and the leaven of Herod.”
 
 ## Mark 8:16
 
-And they began to discuss with one another the fact that they had no bread.
+They discussed this with one another and said, “It is because we have no bread.”
 
 ## Mark 8:17
 
-And Jesus, aware of this, _said to them_,  
-“Why are you discussing the fact that you have no bread?  
-Do you not yet comprehend or understand? Do you still have your heart hardened?
+Aware of their discussion, Jesus said to them, “Why are you talking about having no bread? Do you still not understand or comprehend? Are your hearts hardened?
 
 ## Mark 8:18
 
-Having eyes, do you not see? And having ears, do you not hear? And do you not remember,
+Do you have eyes but fail to see, and ears but fail to hear? And do you not remember?
 
 ## Mark 8:19
 
-when I broke the five loaves for the five thousand, how many baskets full of broken pieces you picked up?”  
-They _said to Him_, “Twelve.”
+When I broke the five loaves for the five thousand, how many baskets full of broken pieces did you pick up?” They said, “Twelve.”
 
 ## Mark 8:20
 
-“When I broke the seven for the four thousand, how many large baskets full of broken pieces did you pick up?”  
-And they _said_, “Seven.”
+“And when I broke the seven loaves for the four thousand, how many baskets full of broken pieces did you pick up?” They replied, “Seven.”
 
 ## Mark 8:21
 
-And He was saying to them, “Do you not yet understand?”
+He said to them, “Do you still not understand?”
 
 ---
 
 ## Mark 8:22
 
-And they _came to_ Bethsaida. And some people _brought_ a man who was blind to Jesus and _begged_ Him to touch him.
+They came to Bethsaida, and some people brought a blind man to Jesus and begged Him to touch him.
 
 ## Mark 8:23
 
-Taking the man who was blind by the hand, He brought him out of the village;  
-and after spitting in his eyes and laying His hands on him, He _asked him_,  
-“Do you see anything?”
+He took the blind man by the hand and led him outside the village. After spitting on the man's eyes and laying His hands on him, He asked, “Do you see anything?”
 
 ## Mark 8:24
 
-And he looked up and said,  
-“I see people, for I see them like trees, walking around.”
+He looked up and said, “I see people; they look like trees walking around.”
 
 ## Mark 8:25
 
-Then again He laid His hands on his eyes; and he looked intently and was restored,  
-and began to see everything clearly.
+Once more Jesus put His hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly.
 
 ## Mark 8:26
 
-And He sent him to his home, saying,  
-“Do not even enter the village.”
+Jesus sent him home, saying, “Do not even enter the village.”
 
 ---
 
 ## Mark 8:27
 
-Jesus went out, along with His disciples, to the villages of Caesarea Philippi;  
-and on the way He was questioning His disciples, saying to them,  
-“Who do people say that I am?”
+Jesus went out with His disciples to the villages around Caesarea Philippi. On the way, He asked them, “Who do people say I am?”
 
 ## Mark 8:28
 
-They told Him, saying, “John the Baptist; and others say Elijah, but others, one of the prophets.”
+They replied, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.”
 
 ## Mark 8:29
 
-And He continued questioning them:  
-“But who do you yourselves say that I am?”  
-Peter _answered and said to Him_, “You are the Christ.”
+“But what about you?” He asked. “Who do you say I am?” Peter answered, “You are the Christ.”
 
 ## Mark 8:30
 
-And He warned them to tell no one about Him.
+He warned them not to tell anyone about Him.
 
 ---
 
 ## Mark 8:31
 
-And He began to teach them that the Son of Man must suffer many things,  
-and be rejected by the elders, chief priests, and scribes,  
-and be killed, and after three days rise from the dead.
+He then began to teach them that the Son of Man must suffer many things and be rejected by the elders, the chief priests, and the scribes, and be killed, and after three days rise again.
 
 ## Mark 8:32
 
-And He was stating the matter plainly.  
-And Peter took Him aside and began to rebuke Him.
+He spoke plainly about this, and Peter took Him aside and began to rebuke Him.
 
 ## Mark 8:33
 
-But turning around and seeing His disciples, He rebuked Peter and _said_,  
-“Get behind Me, Satan; for you are not setting your mind on God’s purposes, but on man’s.”
+But turning and seeing His disciples, He rebuked Peter and said, “Get behind Me, Satan! You do not have in mind the concerns of God, but merely human concerns.”
 
 ---
 
 ## Mark 8:34
 
-And He summoned the crowd together with His disciples, and said to them,  
-“If anyone wants to come after Me, he must deny himself, take up his cross, and follow Me.
+Then He called the crowd to Him along with His disciples and said, “If anyone wants to be My disciple, he must deny himself, take up his cross, and follow Me.
 
 ## Mark 8:35
 
-For whoever wants to save his life will lose it,  
-but whoever loses his life for My sake and the gospel’s will save it.
+For whoever wants to save his life will lose it, but whoever loses his life for My sake and for the gospel will save it.
 
 ## Mark 8:36
 
-For what does it benefit a person to gain the whole world, and forfeit his soul?
+What good is it for someone to gain the whole world, yet forfeit their soul?
 
 ## Mark 8:37
 
-For what could a person give in exchange for his soul?
+Or what can anyone give in exchange for their soul?
 
 ## Mark 8:38
 
-For whoever is ashamed of Me and My words in this adulterous and sinful generation,  
-the Son of Man will also be ashamed of him when He comes in the glory of His Father with the holy angels.”
+If anyone is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will be ashamed of them when He comes in His Father’s glory with the holy angels.”

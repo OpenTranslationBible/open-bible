@@ -2,29 +2,29 @@
 
 ## Job 25:1
 
-Then Bildad the Shuhite responded,
+Then Bildad the Shuhite answered,
 
 ## Job 25:2
 
-> “Dominion and awe belong to Him  
-> Who makes peace in His heights.
+> “Dominion and awe belong to Him
+> who brings order to the heights.
 
 ## Job 25:3
 
-> Is there any number to His troops?  
-> And upon whom does His light not rise?
+> Is there a limit to His armies?
+> Upon whom does His light not shine?
 
 ## Job 25:4
 
-> How then can mankind be righteous with God?  
-> Or how can anyone who is born of woman be pure?
+> How then can a human be just before God?
+> How can one born of a woman be clean?
 
 ## Job 25:5
 
-> If even the moon has no brightness  
-> And the stars are not pure in His sight,
+> If even the moon lacks brightness
+> and the stars are not pure in His view,
 
 ## Job 25:6
 
-> How much less man, that maggot,  
-> And a son of man, that worm!”
+> how much less a human, who is a maggot,
+> and a son of man, who is a worm!”

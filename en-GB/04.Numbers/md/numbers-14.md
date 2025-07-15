@@ -1,137 +1,136 @@
 # Numbers Chapter 14
 
 ## Numbers 14:1
-That night all the people of the community raised their voices and wept aloud.
+That night, the entire congregation raised their voices and cried aloud, and the people wept.
 
 ## Numbers 14:2
-All the Israelites grumbled against Moses and Aaron, saying, “If only we had died in Egypt! Or in this wilderness!
+All the Israelites complained against Moses and Aaron, and the whole assembly said to them, “If only we had perished in Egypt! Or even in this wilderness!
 
 ## Numbers 14:3
-Why is the Lord bringing us to this land only to let us fall by the sword? Our wives and children will be taken as plunder. Wouldn’t it be better to go back to Egypt?”
+Why is the Lord bringing us to this land to fall by the sword? Our wives and children will be taken as plunder. Would it not be better for us to return to Egypt?”
 
 ## Numbers 14:4
-They said to each other, “Let us choose a leader and go back to Egypt.”
+And they said to one another, “Let us appoint a leader and go back to Egypt.”
 
 ## Numbers 14:5
-Then Moses and Aaron fell facedown in front of the whole assembly.
+Then Moses and Aaron fell facedown before the whole assembly of the Israelites gathered there.
 
 ## Numbers 14:6
-Joshua son of Nun and Caleb son of Jephunneh, who were among those who had explored the land, tore their clothes.
+Joshua son of Nun and Caleb son of Jephunneh, who were among those who had explored the land, tore their clothes;
 
 ## Numbers 14:7
-They said, “The land we passed through is exceedingly good.
+and they said to the entire assembly of the Israelites, “The land we passed through and explored is exceedingly good.
 
 ## Numbers 14:8
-If the Lord is pleased with us, He will bring us into this land and give it to us—a land flowing with milk and honey.
+If the Lord is pleased with us, He will bring us into this land, a land flowing with milk and honey, and give it to us.
 
 ## Numbers 14:9
-Only do not rebel against the Lord. Do not be afraid of the people, because we will devour them. Their protection is gone, but the Lord is with us.”
+Only do not rebel against the Lord. Do not be afraid of the people of the land, for they will be our prey. Their protection is gone, and the Lord is with us. Do not fear them.”
 
 ## Numbers 14:10
-But the whole assembly talked about stoning them. Then the glory of the Lord appeared at the tent of meeting.
+But the whole assembly talked about stoning them. Then the glory of the Lord appeared at the tent of meeting to all the Israelites.
 
 ## Numbers 14:11
-The Lord said to Moses, “How long will these people treat Me with contempt? Despite all My signs, they still do not believe.”
+The Lord said to Moses, “How long will these people show contempt for Me? How long will they refuse to believe in Me, despite all the signs I have performed among them?
 
 ## Numbers 14:12
-“I will strike them with a plague and destroy them, but I will make you into a nation greater than they.”
+I will strike them with a plague and destroy them, but I will make you into a nation greater and mightier than they.”
 
 ## Numbers 14:13
-Moses said to the Lord, “Then the Egyptians will hear of it!
+Moses said to the Lord, “Then the Egyptians will hear of it! By Your power You brought these people up from among them.
 
 ## Numbers 14:14
-They have already heard that You, Lord, are with these people, and that You go before them in a cloud and a fire.
+And they will tell the inhabitants of this land. They have heard that You, Lord, are with these people and that You, Lord, have been seen face to face, that Your cloud stays over them, and that You go before them in a pillar of cloud by day and a pillar of fire by night.
 
 ## Numbers 14:15
-If You put all these people to death, the nations will say,
+If You put all these people to death, leaving none alive, the nations who have heard this report about You will say,
 
 ## Numbers 14:16
-‘The Lord was not able to bring them into the land He promised, so He slaughtered them in the wilderness.’
+‘The Lord was not able to bring these people into the land He promised them on oath, so He slaughtered them in the wilderness.’
 
 ## Numbers 14:17
-Now may the Lord’s strength be displayed, just as You declared:
+“Now, let the power of the Lord be great, just as You have declared:
 
 ## Numbers 14:18
-‘The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet He does not leave the guilty unpunished.’
+‘The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet He does not leave the guilty unpunished; He punishes the children for the sin of the parents to the third and fourth generation.’
 
 ## Numbers 14:19
-In keeping with Your great love, forgive the sin of these people, just as You have from Egypt until now.”
+In accordance with Your great love, forgive the sin of these people, just as You have pardoned them from the time they left Egypt until now.”
 
 ## Numbers 14:20
 The Lord replied, “I have forgiven them, as you asked.
 
 ## Numbers 14:21
-Nevertheless, as surely as I live, not one of those who saw My glory and miracles and still tested Me will enter the land.
+Nevertheless, as surely as I live and as the glory of the Lord fills the whole earth,
 
 ## Numbers 14:22
-Not one of them will see the land I promised.
+not one of those who saw My glory and the signs I performed in Egypt and in the wilderness but who disobeyed Me and tested Me ten times—
 
 ## Numbers 14:23
-But My servant Caleb, who had a different spirit and followed Me wholeheartedly, I will bring into the land.
+not one of them will ever see the land I promised on oath to their ancestors. No one who has treated Me with contempt will ever see it.
 
 ## Numbers 14:24
-Now the Amalekites and Canaanites live in the valleys. Turn back tomorrow and head toward the wilderness.”
+But because My servant Caleb has a different spirit and follows Me wholeheartedly, I will bring him into the land he went to, and his descendants will inherit it.
 
 ## Numbers 14:25
-The Lord said to Moses and Aaron:
+Since the Amalekites and the Canaanites are living in the valleys, turn back tomorrow and set out towards the wilderness along the route to the Red Sea.”
 
 ## Numbers 14:26
-“How long will this wicked community grumble? I have heard their complaints.
+The Lord said to Moses and Aaron:
 
 ## Numbers 14:27
-Tell them: As surely as I live, declares the Lord, I will do to you the very things I heard you say:
+“How long will this wicked community grumble against Me? I have heard the complaints of these grumbling Israelites.
 
 ## Numbers 14:28
-In this wilderness your bodies will fall—every one of you twenty years old or more who grumbled against Me.
+So tell them, ‘As surely as I live, declares the Lord, I will do to you the very thing I heard you say:
 
 ## Numbers 14:29
-Not one of you will enter the land, except Caleb and Joshua.
+In this wilderness your bodies will fall—every one of you twenty years old or more who was counted in the census and who has grumbled against Me.
 
 ## Numbers 14:30
-Your children, whom you said would be taken as plunder, I will bring in. They will enjoy the land you rejected.
+Not one of you will enter the land I swore with uplifted hand to make your home, except Caleb son of Jephunneh and Joshua son of Nun.
 
 ## Numbers 14:31
-But you—your bodies will fall in this wilderness.
+As for your children that you said would be taken as plunder, I will bring them in to enjoy the land you have rejected.
 
 ## Numbers 14:32
-Your children will be shepherds for forty years, suffering because of your unfaithfulness.
+But as for you, your bodies will fall in this wilderness.
 
 ## Numbers 14:33
-For forty years—one year for each day you explored the land—you will bear your guilt.
+Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness.
 
 ## Numbers 14:34
-You will know what it is like to have Me against you.”
+For forty years—one year for each of the forty days you explored the land—you will suffer for your sins and know what it is like to have Me against you.’
 
 ## Numbers 14:35
-The Lord has spoken: All those counted in the census will die in the wilderness.
+I, the Lord, have spoken, and I will surely do these things to this whole wicked community, which has banded together against Me. They will meet their end in this wilderness; here they will die.”
 
 ## Numbers 14:36
-So the men who spread the bad report were struck down by a plague.
+So the men Moses had sent to explore the land, who returned and made the whole community grumble against him by spreading a bad report about it—
 
 ## Numbers 14:37
-Only Joshua and Caleb survived.
+these men who were responsible for spreading the bad report about the land were struck down and died of a plague before the Lord.
 
 ## Numbers 14:38
-When Moses told this to the Israelites, they mourned bitterly.
+Of the men who went to explore the land, only Joshua son of Nun and Caleb son of Jephunneh survived.
 
 ## Numbers 14:39
-Early the next morning they went to the hill country. “We have sinned,” they said. “We are ready to go up to the land the Lord promised.”
+When Moses reported this to all the Israelites, they mourned greatly.
 
 ## Numbers 14:40
-But Moses said, “Why are you disobeying the Lord’s command? It will not succeed.
+Early the next morning they set out for the highest point in the hill country, saying, “Now we are ready to go up to the land the Lord promised. Surely we have sinned!”
 
 ## Numbers 14:41
-Do not go up, because the Lord is not with you. You will be defeated.”
+But Moses said, “Why are you disobeying the Lord’s command? This will not succeed!
 
 ## Numbers 14:42
-For the Amalekites and Canaanites will face you there. Because you turned away from the Lord, you will fall by the sword.”
+Do not go up, because the Lord is not with you. You will be defeated by your enemies,
 
 ## Numbers 14:43
-Nevertheless, in their presumption, they went up toward the hill country.
+for the Amalekites and the Canaanites will face you there. Because you have turned away from the Lord, He will not be with you and you will fall by the sword.”
 
 ## Numbers 14:44
-But the ark of the covenant and Moses did not leave the camp.
+Nevertheless, in their presumption they went up towards the highest point in the hill country, though neither Moses nor the ark of the Lord’s covenant moved from the camp.
 
 ## Numbers 14:45
-Then the Amalekites and Canaanites attacked them and beat them down all the way to Hormah.
-
+Then the Amalekites and the Canaanites who lived in that hill country came down and attacked them and scattered them as far as Hormah.

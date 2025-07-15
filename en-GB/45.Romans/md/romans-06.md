@@ -1,93 +1,70 @@
 # Romans Chapter 6
 
 ## Romans 6:1
-
-What shall we say then? Are we to continue in sin so that grace may increase?
+What shall we say then? Should we continue in sin so that grace may abound?
 
 ## Romans 6:2
-
-Far from it! How shall we who died to sin still live in it?
+Certainly not! We who have died to sin, how can we live in it any longer?
 
 ## Romans 6:3
-
-Or do you not know that all of us who have been baptised into Christ Jesus have been baptised into His death?
+Or do you not know that all of us who were baptised into Christ Jesus were baptised into his death?
 
 ## Romans 6:4
-
-Therefore we were buried with Him through baptism into death, so that, just as Christ was raised from the dead through the glory of the Father, so we too may walk in newness of life.
+We were therefore buried with him through baptism into death, so that just as Christ was raised from the dead through the glory of the Father, we too might walk in newness of life.
 
 ## Romans 6:5
-
-For if we have become united with Him in the likeness of His death, certainly we shall also be in the likeness of His resurrection,
+For if we have been united with him in the likeness of his death, we shall certainly also be united with him in the likeness of his resurrection.
 
 ## Romans 6:6
-
-Knowing this, that our old self was crucified with Him, in order that our body of sin might be done away with, so that we would no longer be slaves to sin;
+Knowing this, that our old self was crucified with him, so that the body of sin might be rendered powerless, that we should no longer be slaves to sin.
 
 ## Romans 6:7
-
-For the one who has died is freed from sin.
+For anyone who has died has been freed from sin.
 
 ## Romans 6:8
-
-Now if we have died with Christ, we believe that we shall also live with Him,
+Now if we have died with Christ, we believe that we shall also live with him.
 
 ## Romans 6:9
-
-Knowing that Christ, having been raised from the dead, is never to die again; death no longer has mastery over Him.
+Knowing that Christ, having been raised from the dead, is never to die again; death no longer has dominion over him.
 
 ## Romans 6:10
-
-For the death that He died, He died to sin once for all time; but the life that He lives, He lives to God.
+The death he died, he died to sin once for all; but the life he lives, he lives to God.
 
 ## Romans 6:11
-
-So you too, consider yourselves to be dead to sin, but alive to God in Christ Jesus.
+So you too, consider yourselves dead to sin but alive to God in Christ Jesus.
 
 ## Romans 6:12
-
-Therefore sin is not to reign in your mortal body so that you obey its lusts,
+Therefore do not let sin reign in your mortal body so that you obey its desires.
 
 ## Romans 6:13
-
-And do not go on presenting the parts of your body to sin as instruments of unrighteousness; but present yourselves to God as those who are alive from the dead, and your body’s parts as instruments of righteousness for God.
+Do not offer any part of yourself to sin as an instrument of unrighteousness, but rather offer yourselves to God as those who have been brought from death to life, and offer every part of yourself to him as an instrument of righteousness.
 
 ## Romans 6:14
-
-For sin shall not be master over you, for you are not under the Law but under grace.
+For sin shall not be your master, because you are not under law, but under grace.
 
 ## Romans 6:15
-
-What then? Are we to sin because we are not under the Law but under grace? Far from it!
+What then? Shall we sin because we are not under law but under grace? Certainly not!
 
 ## Romans 6:16
-
-Do you not know that the one to whom you present yourselves as slaves for obedience, you are slaves of that same one whom you obey, either of sin leading to death, or of obedience leading to righteousness?
+Do you not know that when you offer yourselves to someone as obedient slaves, you are slaves of the one you obey, whether of sin leading to death, or of obedience leading to righteousness?
 
 ## Romans 6:17
-
-But thanks be to God that, though you were slaves of sin, you became obedient from the heart to that form of teaching to which you were entrusted,
+But thanks be to God that, though you were slaves to sin, you have become obedient from the heart to the form of teaching to which you were entrusted.
 
 ## Romans 6:18
-
-And after being freed from sin, you became slaves to righteousness.
+You have been set free from sin and have become slaves to righteousness.
 
 ## Romans 6:19
-
-I am speaking in human terms because of the weakness of your flesh. For just as you presented the parts of your body as slaves to impurity and to lawlessness, resulting in further lawlessness, so now present your body’s parts as slaves to righteousness, resulting in sanctification.
+I speak in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body as slaves to impurity and to ever-increasing lawlessness, so now offer them as slaves to righteousness leading to sanctification.
 
 ## Romans 6:20
-
-For when you were slaves of sin, you were free in relation to righteousness.
+For when you were slaves to sin, you were free from the control of righteousness.
 
 ## Romans 6:21
-
-Therefore, what benefit were you then deriving from the things of which you are now ashamed? For the outcome of those things is death.
+What benefit did you reap at that time from the things you are now ashamed of? For the end of those things is death.
 
 ## Romans 6:22
-
-But now, having been freed from sin and enslaved to God, you derive your benefit, resulting in sanctification, and the outcome, eternal life.
+But now that you have been set free from sin and have become slaves to God, the benefit you reap leads to sanctification, and the result is eternal life.
 
 ## Romans 6:23
-
-For the wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord.
+For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.

@@ -2,161 +2,161 @@
 
 ## Job 6:1
 
-Then Job responded,
+Then Job answered,
 
 ## Job 6:2
 
-> “Oh that my grief were actually weighed  
-> And laid in the balances together with my disaster!
+> “If only my anguish were weighed
+> and my calamity laid in the balances together!
 
 ## Job 6:3
 
-> For then it would be heavier than the sand of the seas;  
-> Therefore my words have been rash.
+> For it would surely be heavier than the sand of the seas;
+> that is why my words have been rash.
 
 ## Job 6:4
 
-> For the arrows of the Almighty are within me,  
-> Their poison my spirit drinks;  
-> The terrors of God line up against me.
+> The arrows of the Almighty are within me,
+> my spirit drinks their poison;
+> the terrors of God are arrayed against me.
 
 ## Job 6:5
 
-> Does the wild donkey bray over fresh grass,  
-> Or does the ox low over its fodder?
+> Does a wild donkey bray when it has grass,
+> or does an ox low over its fodder?
 
 ## Job 6:6
 
-> Can something tasteless be eaten without salt,  
-> Or is there flavour in the juice of mallow?
+> Can tasteless food be eaten without salt,
+> or is there any flavour in the juice of the mallow?
 
 ## Job 6:7
 
-> My soul refuses to touch them;  
-> They are like loathsome food to me.
+> I refuse to touch such things;
+> they are like loathsome food to me.
 
 ---
 
 ## Job 6:8
 
-> Oh that my request might come to pass,  
-> And that God would grant me what I long for!
+> “Oh, that my request might be fulfilled,
+> that God would grant what I long for,
 
 ## Job 6:9
 
-> Would that God were willing to crush me,  
-> That He would release His hand and cut me off!
+> that God would be willing to crush me,
+> to let loose His hand and cut me off!
 
 ## Job 6:10
 
-> But it is still my comfort,  
-> And I rejoice in unsparing pain,  
-> That I have not denied the words of the Holy One.
+> Then I would still have this consolation—
+> my joy in relentless pain—
+> that I have not denied the words of the Holy One.
 
 ---
 
 ## Job 6:11
 
-> What is my strength, that I should wait?  
-> And what is my end, that I should endure?
+> What strength do I have, that I should hope?
+> What is my end, that I should be patient?
 
 ## Job 6:12
 
-> Is my strength the strength of stones,  
-> Or is my flesh bronze?
+> Is my strength the strength of stones,
+> or is my flesh made of bronze?
 
 ## Job 6:13
 
-> Is it that there is no help within me,  
-> And that a success is driven from me?
+> Is there any help within me,
+> now that success has been driven away?
 
 ---
 
 ## Job 6:14
 
-> For the despairing one there should be kindness from his friend,  
-> So that he does not abandon the fear of the Almighty.
+> “For a despairing man there should be kindness from his friend,
+> so that he does not forsake the fear of the Almighty.
 
 ## Job 6:15
 
-> My brothers have acted deceitfully like a wadi,  
-> Like the torrents of wadis that drain away,
+> But my brothers have acted deceitfully like a wadi,
+> like the streams that overflow
 
 ## Job 6:16
 
-> Which are dark because of ice,  
-> And into which the snow melts.
+> when darkened by thawing ice
+> and swollen with melting snow,
 
 ## Job 6:17
 
-> When they dry up, they vanish;  
-> When it is hot, they disappear from their place.
+> but when they dry up, they vanish;
+> in the heat they disappear from their place.
 
 ## Job 6:18
 
-> The paths of their course wind along,  
-> They go up into nothing and perish.
+> The paths of their course wind along;
+> they go up into wasteland and perish.
 
 ## Job 6:19
 
-> The caravans of Tema looked,  
-> The travellers of Sheba hoped for them.
+> The caravans of Tema look,
+> the travellers of Sheba hope for them.
 
 ## Job 6:20
 
-> They were put to shame, for they had trusted,  
-> They came there and were humiliated.
+> They are put to shame because they had trusted;
+> they arrive there, only to be disappointed.
 
 ## Job 6:21
 
-> Indeed, you have now become such;  
-> You see terrors and are afraid.
+> Indeed, you have now become like them;
+> you see something dreadful and are afraid.
 
 ## Job 6:22
 
-> Have I said, ‘Give me something,’  
-> Or, ‘Offer a bribe for me from your wealth,’
+> Have I ever said, ‘Give me something,’ or,
+> ‘Offer a bribe on my behalf from your wealth,’
 
 ## Job 6:23
 
-> Or, ‘Save me from the hand of the enemy,’  
-> Or, ‘Redeem me from the hand of the oppressors’?
+> or, ‘Deliver me from the hand of the enemy,’
+> or, ‘Redeem me from the clutches of the ruthless’?
 
 ---
 
 ## Job 6:24
 
-> Teach me, and I will be silent;  
-> And show me how I have erred.
+> “Teach me, and I will be silent;
+> show me where I have gone wrong.
 
 ## Job 6:25
 
-> How painful are honest words!  
-> But what does your argument prove?
+> How painful are honest words!
+> But what do your arguments prove?
 
 ## Job 6:26
 
-> Do you intend to rebuke my words,  
-> The words of one in despair, which are as wind?
+> Do you intend to correct my words,
+> and treat the words of one in despair as wind?
 
 ## Job 6:27
 
-> You would even cast lots for the orphans,  
-> And barter over your friend.
+> You would even cast lots for the fatherless
+> and barter away your friend.
 
 ---
 
 ## Job 6:28
 
-> Now please look at me,  
-> And see if I lie to your face.
+> But now, please look at me,
+> and see if I am lying to your face.
 
 ## Job 6:29
 
-> Please turn away, let there be no injustice;  
-> Turn away, my righteousness is still intact.
+> Relent, let there be no injustice;
+> reconsider, for my integrity is at stake.
 
 ## Job 6:30
 
-> Is there injustice on my tongue?  
-> Cannot my palate discern disaster?
+> Is there any wickedness on my tongue?
+> Does my mouth not discern calamity?

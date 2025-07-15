@@ -2,9 +2,9 @@
 
 ## Nehemiah 10:1
 
-Now on the sealed document were the names of:
+Upon the sealed document were the names of:
 
-Nehemiah the governor, the son of Hacaliah, and Zedekiah,
+Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 ## Nehemiah 10:2
 
@@ -34,18 +34,13 @@ Nehemiah the governor, the son of Hacaliah, and Zedekiah,
 
 > Maaziah, Bilgai, and Shemaiah. These were the priests.
 
----
-
 ## Nehemiah 10:9
 
-And the Levites:
-
-> Jeshua the son of Azaniah, Binnui of the sons of Henadad, Kadmiel;
+> And the Levites: Jeshua son of Azaniah, Binnui of the sons of Henadad, and Kadmiel;
 
 ## Nehemiah 10:10
 
-> Also their brothers: Shebaniah,
-> Hodiah, Kelita, Pelaiah, Hanan,
+> together with their brethren: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
 
 ## Nehemiah 10:11
 
@@ -57,7 +52,7 @@ And the Levites:
 
 ## Nehemiah 10:13
 
-> Hodiah, Bani, Beninu.
+> Hodiah, Bani, and Beninu.
 
 ---
 
@@ -117,99 +112,56 @@ The leaders of the people:
 
 ## Nehemiah 10:27
 
-> Malluch, Harim, Baanah.
+> Malluch, Harim, and Baanah.
 
 ---
 
 ## Nehemiah 10:28
 
-Now the rest of the people,  
-the priests, the Levites, the gatekeepers, the singers, the temple servants,  
-and all those who had separated themselves from the peoples of the lands to the Law of God,  
-their wives, their sons and daughters, all those who had knowledge and understanding,
+Now the rest of the people—the priests, the Levites, the gatekeepers, the singers, the temple servants, and all who had separated themselves from the peoples of the lands to the Law of God, together with their wives, their sons, and their daughters, all who had knowledge and understanding—
 
 ## Nehemiah 10:29
 
-are joining with their relatives, their nobles,  
-and are taking on themselves a curse and an oath to walk in God's Law,  
-which was given through Moses, God’s servant,  
-and to keep and to comply with all the commandments of God our Lord,  
-and His ordinances and His statutes;
-
----
+are joining with their kinsmen, the nobles, and are taking upon themselves a curse and an oath to walk in God’s Law, which was given through Moses, God’s servant, and to keep and observe all the commands, regulations, and decrees of the Lord our God.
 
 ## Nehemiah 10:30
 
-and that we will not give our daughters to the peoples of the land  
-or take their daughters for our sons.
-
----
+And that we will not give our daughters in marriage to the peoples of the land or take their daughters for our sons.
 
 ## Nehemiah 10:31
 
-As for the peoples of the land who bring wares or any grain on the Sabbath day to sell,  
-we will not buy from them on the Sabbath or on a holy day;  
-and we will forego the crops of the seventh year and the collection of every debt.
-
----
+As for the peoples of the land who bring merchandise or grain on the Sabbath day to sell, we will not buy from them on the Sabbath or on any holy day; and we will forgo the crops of the seventh year and every debt.
 
 ## Nehemiah 10:32
 
-We also placed ourselves under obligation to contribute yearly one-third of a shekel  
-for the service of the house of our God:
+We also imposed upon ourselves the obligation to contribute annually a third of a shekel for the service of the house of our God:
 
 ## Nehemiah 10:33
 
-for the showbread, for the continual grain offering, for the continual burnt offering,  
-the Sabbaths, the new moons, for the appointed times, for the holy offerings,  
-and for the sin offerings to make atonement for Israel,  
-and all the work of the house of our God.
-
----
+for the showbread, for the regular grain offerings and burnt offerings, for the Sabbaths, the new moons, the appointed festivals, for the holy offerings, for the sin offerings to make atonement for Israel, and for all the duties of the house of our God.
 
 ## Nehemiah 10:34
 
-Likewise we cast lots for the supply of wood among the priests, the Levites, and the people,  
-in order to bring it to the house of our God annually,  
-at the appointed times, to burn on the altar of the Lord our God, as it is written in the Law;
-
----
+Likewise, we cast lots among the priests, the Levites, and the people for the supply of wood, to bring it to the house of our God, according to our families, at set times annually, to burn on the altar of the Lord our God, as it is written in the Law.
 
 ## Nehemiah 10:35
 
-and so that they would bring the first fruits of our ground and the first fruits of all the fruit  
-of every tree to the house of the Lord annually,
+We also take upon ourselves the responsibility to bring to the house of the Lord each year the firstfruits of our ground and the firstfruits of all the fruit of every tree.
 
 ## Nehemiah 10:36
 
-and bring to the house of our God the firstborn of our sons and of our livestock,  
-as it is written in the Law,  
-and the firstborn of our herds and our flocks  
-to the priests who serve in the house of our God.
-
----
+And to bring to the house of our God the firstborn of our sons and of our cattle, as it is written in the Law, and the firstborn of our herds and our flocks, to the priests ministering in the house of our God.
 
 ## Nehemiah 10:37
 
-We will also bring the first of our dough, our contributions,  
-the fruit of every tree, the new wine, and the oil to the priests  
-at the chambers of the house of our God,  
-and the tithe of our ground to the Levites,  
-for the Levites are the ones who receive the tithes in all the rural towns.
+Moreover, we will bring the first of our dough, our contributions, the fruit of every tree, the new wine, and the oil to the priests at the chambers of the house of our God, and the tithe of our ground to the Levites, for the Levites are they who receive the tithes in all the rural towns.
 
 ## Nehemiah 10:38
 
-And the priest, the son of Aaron, shall be with the Levites when the Levites receive tithes,  
-and the Levites shall bring one-tenth of the tithes  
-to the house of our God, to the chambers of the storehouse.
+And the priest, a descendant of Aaron, shall be with the Levites when the Levites receive tithes, and the Levites shall bring a tenth of the tithes up to the house of our God, to the chambers of the storehouse.
 
 ## Nehemiah 10:39
 
-For the sons of Israel and the sons of Levi shall bring the contribution of the grain,  
-the new wine, and the oil to the chambers;  
-there are the utensils of the sanctuary, the priests who minister,  
-the gatekeepers, and the singers.
+For the people of Israel and the sons of Levi shall bring the contribution of grain, new wine, and oil to the storerooms, where the articles for the sanctuary, the ministering priests, the gatekeepers, and the singers are kept.
 
----
-
-So we will not neglect the house of our God.
+Thus, we will not neglect the house of our God.

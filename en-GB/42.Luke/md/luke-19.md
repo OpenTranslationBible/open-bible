@@ -6,244 +6,196 @@ Jesus entered Jericho and was passing through.
 
 ## Luke 19:2
 
-And there was a man called by the name of Zaccheus; he was a chief tax collector and he was rich.
+There was a man named Zacchaeus; he was a chief tax collector and was wealthy.
 
 ## Luke 19:3
 
-Zaccheus was trying to see who Jesus was, and he was unable due to the crowd, because he was short in stature.
+He was trying to see who Jesus was, but he could not because of the crowd, for he was short in stature.
 
 ## Luke 19:4
 
-So he ran on ahead and climbed up a sycamore tree in order to see Him,  
-because He was about to pass through that way.
+So he ran ahead and climbed a sycamore-fig tree to see him, as Jesus was about to pass that way.
 
 ## Luke 19:5
 
-When Jesus came to the place, He looked up and said to him,  
-“Zaccheus, hurry and come down, for today I must stay at your house.”
+When Jesus reached the spot, he looked up and said, “Zacchaeus, hurry and come down, for today I must stay at your house.”
 
 ## Luke 19:6
 
-And he hurried and came down, and received Him joyfully.
+So he hurried down and received him joyfully.
 
 ## Luke 19:7
 
-When the people saw this, they all began to complain, saying,  
-“He has gone in to be the guest of a man who is a sinner!”
+When the people saw this, they all began to grumble, saying, “He has gone to be the guest of a sinner.”
 
 ## Luke 19:8
 
-But Zaccheus stopped and said to the Lord,  
-“Behold, Lord, half of my possessions I am giving to the poor,  
-and if I have extorted anything from anyone, I am giving it back four times as much.”
+But Zacchaeus stood and said to the Lord, “Look, Lord, I give half of my possessions to the poor, and if I have defrauded anyone of anything, I will repay fourfold.”
 
 ## Luke 19:9
 
-Jesus said to him,  
-“Today salvation has come to this house, because he, too, is a son of Abraham.
+Jesus said to him, “Today salvation has come to this house, because he too is a son of Abraham.
 
 ## Luke 19:10
 
-For the Son of Man has come to seek and to save that which was lost.”
+For the Son of Man came to seek and to save the lost.”
 
 ---
 
 ## Luke 19:11
 
-Now while they were listening to these things,  
-Jesus went on to tell a parable, because He was near Jerusalem,  
-and they thought that the kingdom of God was going to appear immediately.
+As they were listening to this, he went on to tell them a parable, because he was near Jerusalem and they thought the kingdom of God was going to appear immediately.
 
 ## Luke 19:12
 
-So He said,  
-“A nobleman went to a distant country to receive a kingdom for himself, and then to return.
+He said, “A man of noble birth went to a distant country to receive for himself a kingdom and then return.
 
 ## Luke 19:13
 
-And he called ten of his slaves, and gave them ten minas, and said to them,  
-‘Do business with this money until I come back.’
+He called ten of his servants and gave them ten minas, and said, ‘Do business with this until I come back.’
 
 ## Luke 19:14
 
-But his citizens hated him and sent a delegation after him, saying,  
-‘We do not want this man to reign over us.’
+But his subjects hated him and sent a delegation after him, saying, ‘We do not want this man to be our king.’
 
 ## Luke 19:15
 
-When he returned after receiving the kingdom, he ordered that these slaves,  
-to whom he had given the money, be summoned to him so that he would learn how much they had made by doing business.
+He was made king, however, and returned home. Then he summoned the servants to whom he had given the money, to find out what they had gained by trading.
 
 ## Luke 19:16
 
-The first appeared, saying,  
-‘Master, your mina has made ten minas more.’
+The first came and said, ‘Master, your mina has earned ten more.’
 
 ## Luke 19:17
 
-And he said to him,  
-‘Well done, good slave, because you have been faithful in a very little thing,  
-you are to have authority over ten cities.’
+He replied, ‘Well done, good servant! Because you have been faithful in a very small matter, take charge of ten cities.’
 
 ## Luke 19:18
 
-The second came, saying,  
-‘Your mina, master, has made five minas.’
+The second came and said, ‘Your mina, master, has earned five more.’
 
 ## Luke 19:19
 
-And he said to him also,  
-‘And you are to be over five cities.’
+And he said, ‘You take charge of five cities.’
 
 ## Luke 19:20
 
-And then another came, saying,  
-‘Master, here is your mina, which I kept tucked away in a handkerchief;
+Then another came and said, ‘Master, here is your mina; I kept it laid away in a cloth,
 
 ## Luke 19:21
 
-for I was afraid of you, because you are a demanding man:  
-you take up what you did not lay down, and reap what you did not sow.’
+for I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.’
 
 ## Luke 19:22
 
-He _said to him_,  
-‘From your own lips I will judge you, you worthless slave.  
-Did you know that I am a demanding man,  
-taking up what I did not lay down and reaping what I did not sow?
+His master replied, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in and reaping what I did not sow?
 
 ## Luke 19:23
 
-Then why did you not put my money in the bank, and when I came,  
-I would have collected it with interest?’
+Why then did you not put my money on deposit, so that when I returned, I could have collected it with interest?’
 
 ## Luke 19:24
 
-And then he said to the other slaves who were present,  
-‘Take the mina away from him and give it to the one who has the ten minas.’
+Then he said to those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’
 
 ## Luke 19:25
 
-And they said to him,  
-‘Master, he already has ten minas!’
+They said to him, ‘Master, he already has ten minas.’
 
 ## Luke 19:26
 
-‘I tell you that to everyone who has, more will be given,  
-but from the one who does not have, even what he does have will be taken away.
+‘I tell you, to everyone who has, more will be given, but from the one who does not have, even what they have will be taken away.
 
 ## Luke 19:27
 
-But as for these enemies of mine who did not want me to reign over them,  
-bring them here and slaughter them in my presence.’”
+But those enemies of mine who did not want me to be king over them—bring them here and slay them in front of me.’”
 
 ---
 
 ## Luke 19:28
 
-After saying these things, He was going on ahead, going up to Jerusalem.
+After Jesus had said this, he went on ahead, going up to Jerusalem.
 
 ## Luke 19:29
 
-When He approached Bethphage and Bethany, near the mountain that is called Olivet,  
-He sent two of the disciples,
+As he approached Bethphage and Bethany, near the Mount of Olives, he sent two of his disciples,
 
 ## Luke 19:30
 
-saying,  
-“Go into the village ahead of you;  
-there, as you enter, you will find a colt tied on which no one has ever sat; untie it and bring it here.
+saying, “Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here.
 
 ## Luke 19:31
 
-And if anyone asks you, ‘Why are you untying it?’ you shall say this:  
-‘The Lord has need of it.’”
+If anyone asks you, ‘Why are you untying it?’ say, ‘The Lord needs it.’”
 
 ## Luke 19:32
 
-So those who were sent left and found it just as He had told them.
+Those who were sent went and found it just as he had told them.
 
 ## Luke 19:33
 
-And as they were untying the colt, its owners said to them,  
-“Why are you untying the colt?”
+As they were untying the colt, its owners asked them, “Why are you untying the colt?”
 
 ## Luke 19:34
 
-They said,  
-“The Lord has need of it.”
+They replied, “The Lord needs it.”
 
 ## Luke 19:35
 
-And they brought it to Jesus, and they threw their cloaks on the colt and put Jesus on it.
+They brought it to Jesus, threw their cloaks on the colt and put Jesus on it.
 
 ## Luke 19:36
 
-Now as He was going, they were spreading their cloaks on the road.
+As he went along, people spread their cloaks on the road.
 
 ## Luke 19:37
 
-As soon as He was approaching, near the descent of the Mount of Olives,  
-the whole crowd of the disciples began to praise God joyfully with a loud voice  
-for all the miracles which they had seen,
+When he came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began to praise God joyfully in loud voices for all the miracles they had seen,
 
 ## Luke 19:38
 
-shouting:  
-“Blessed is the King, the One who comes in the name of the Lord;  
-Peace in heaven and glory in the highest!”
+saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”
 
 ## Luke 19:39
 
-And yet some of the Pharisees in the crowd said to Him,  
-“Teacher, rebuke Your disciples!”
+Some of the Pharisees in the crowd said to Jesus, “Teacher, rebuke your disciples!”
 
 ## Luke 19:40
 
-Jesus replied,  
-“I tell you, if these stop speaking, the stones will cry out!”
+He replied, “I tell you, if they keep quiet, the stones will cry out.”
 
 ---
 
 ## Luke 19:41
 
-When He approached Jerusalem, He saw the city and wept over it,
+As he approached Jerusalem and saw the city, he wept over it
 
 ## Luke 19:42
 
-saying,  
-“If you had known on this day, even you, the conditions for peace!  
-But now they have been hidden from your eyes.
+and said, “If you, even you, had known on this day what would bring you peace—but now it is hidden from your eyes.
 
 ## Luke 19:43
 
-For the days will come upon you when your enemies will put up a barricade against you,  
-and surround you and hem you in on every side,
+The days will come upon you when your enemies will build a barricade against you and encircle you and hem you in on every side.
 
 ## Luke 19:44
 
-and they will level you to the ground, along with your children within you,  
-and they will not leave in you one stone upon another,  
-because you did not recognise the time of your visitation.”
+They will dash you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognise the time of God’s coming to you.”
 
 ---
 
 ## Luke 19:45
 
-Jesus entered the temple grounds and began to drive out those who were selling,
+When Jesus entered the temple courts, he began to drive out those who were selling,
 
 ## Luke 19:46
 
-saying to them,  
-“It is written: ‘And My house will be a house of prayer,’  
-but you have made it a den of robbers.”
+saying to them, “It is written, ‘My house will be a house of prayer’; but you have made it a den of robbers.”
 
 ## Luke 19:47
 
-And He was teaching daily in the temple;  
-but the chief priests and the scribes and the leading men among the people were trying to put Him to death,
+Every day he was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were trying to kill him.
 
 ## Luke 19:48
 
-and yet they could not find anything that they might do,  
-for all the people were hanging on to every word He said.
+Yet they could not find any way to do it, because all the people were hanging on his words.

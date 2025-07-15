@@ -2,81 +2,81 @@
 
 ## Romans 3:1
 
-Then what advantage does the Jew have? Or what is the benefit of circumcision?
+What advantage, then, does the Jew have? Or what is the benefit of circumcision?
 
 ## Romans 3:2
 
-Much in every way. First of all, they were entrusted with the oracles of God.
+Much in every respect! First of all, they have been entrusted with the very words of God.
 
 ## Romans 3:3
 
-What then? If some did not believe, their unbelief will not nullify the faithfulness of God, will it?
+What if some did not believe? Will their lack of faith nullify God’s faithfulness?
 
 ## Romans 3:4
 
-Far from it! Rather, God must prove true, though every person be found a liar, as it is written:
+Certainly not! Let God be true, and every person a liar, as it is written:
 
-> “That You may be justified in Your words,  
-> And prevail when You are judged.”
+> “So that you may be justified in your words
+> and prevail when you are judged.”
 
 ## Romans 3:5
 
-But if our unrighteousness demonstrates the righteousness of God, what shall we say? That God, who inflicts wrath, is not unrighteous, is He? (I am speaking in human terms.)
+But if our unrighteousness highlights God’s righteousness, what shall we say? That God is unjust in bringing his wrath upon us? (I speak from a human perspective.)
 
 ## Romans 3:6
 
-Far from it! For otherwise, how will God judge the world?
+Certainly not! For if that were the case, how could God judge the world?
 
 ## Romans 3:7
 
-But if through my lie the truth of God abounded to His glory, why am I still being judged as a sinner?
+But if through my falsehood God’s truthfulness increases to his glory, why am I still judged as a sinner?
 
 ## Romans 3:8
 
-And why not say—as we are slanderously reported, and as some claim that we say—“Let us do evil that good may come”? Their condemnation is just.
+And why not say—as we are slanderously reported as saying—“Let us do evil that good may come”? Their condemnation is just.
 
 ## Romans 3:9
 
-What then? Are we better than they? Not at all; for we have already charged that both Jews and Greeks are all under sin.
+What then? Are we any better off? Not at all! For we have already charged that both Jews and Greeks are all under the power of sin.
 
 ## Romans 3:10
 
 As it is written:
 
-> “There is no righteous person, not even one;
+> “There is no one righteous, not even one;
 
 ## Romans 3:11
 
-> There is no one who understands,  
-> There is no one who seeks out God;
+> there is no one who understands;
+> there is no one who seeks God.
 
 ## Romans 3:12
 
-> They have all turned aside, together they have become corrupt;  
-> There is no one who does good,  
-> There is not even one.”
+> All have turned away, they have together become worthless;
+> there is no one who does good,
+> not even one.”
 
 ## Romans 3:13
 
-> “Their throat is an open grave,  
-> With their tongues they keep deceiving,”  
-> “The venom of asps is under their lips”;
+> “Their throats are open graves;
+> with their tongues they keep deceiving.”
+> “The poison of vipers is on their lips.”
 
 ## Romans 3:14
 
-> “Their mouth is full of cursing and bitterness”;
+> “Their mouths are full of cursing and bitterness.”
 
 ## Romans 3:15
 
-> “Their feet are swift to shed blood,
+> “Their feet are swift to shed blood;
 
 ## Romans 3:16
 
-> Destruction and misery are in their paths,
+> ruin and misery are in their ways,
 
 ## Romans 3:17
 
-> And they have not known the way of peace.”
+> and the way of peace they have not known.”
 
 ## Romans 3:18
 
@@ -84,52 +84,52 @@ As it is written:
 
 ## Romans 3:19
 
-Now we know that whatever the Law says, it speaks to those who are under the Law, so that every mouth may be closed, and all the world may become accountable to God.
+Now we know that whatever the law says, it speaks to those who are under the law, so that every mouth may be silenced and the whole world held accountable to God.
 
 ## Romans 3:20
 
-Because by the works of the Law no flesh will be justified in His sight; for through the Law comes knowledge of sin.
+Therefore no one will be justified in his sight by the works of the law; for through the law comes knowledge of sin.
 
 ## Romans 3:21
 
-But now apart from the Law the righteousness of God has been revealed, being testified by the Law and the Prophets,
+But now, apart from the law, the righteousness of God has been revealed, being testified to by the Law and the Prophets.
 
 ## Romans 3:22
 
-The righteousness of God through faith in Jesus Christ for all those who believe; for there is no distinction,
+This righteousness is given through faith in Jesus Christ to all who believe. There is no distinction,
 
 ## Romans 3:23
 
-For all have sinned and fall short of the glory of God,
+for all have sinned and fall short of the glory of God,
 
 ## Romans 3:24
 
-Being justified as a gift by His grace through the redemption which is in Christ Jesus,
+and all are justified freely by his grace through the redemption that is in Christ Jesus.
 
 ## Romans 3:25
 
-Whom God displayed publicly as a propitiation in His blood through faith. This was to demonstrate His righteousness, because in God’s merciful restraint He let the sins previously committed go unpunished;
+God presented Christ as a sacrifice of atonement, through the shedding of his blood, to be received by faith. He did this to demonstrate his righteousness, because in his forbearance he had left the sins committed beforehand unpunished—
 
 ## Romans 3:26
 
-For the demonstration, that is, of His righteousness at the present time, so that He would be just and the justifier of the one who has faith in Jesus.
+he did this to demonstrate his righteousness at the present time, so that he might be just and the justifier of the one who has faith in Jesus.
 
 ## Romans 3:27
 
-Where then is boasting? It has been excluded. By what kind of law? Of works? No, but by a law of faith.
+Where, then, is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith.
 
 ## Romans 3:28
 
-For we maintain that a person is justified by faith apart from works of the Law.
+For we maintain that a person is justified by faith apart from the works of the law.
 
 ## Romans 3:29
 
-Or is God the God of Jews only? Is He not the God of Gentiles also? Yes, of Gentiles also,
+Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also,
 
 ## Romans 3:30
 
-Since indeed God, who will justify the circumcised by faith and the uncircumcised through faith, is one.
+since there is only one God, who will justify the circumcised by faith and the uncircumcised through the same faith.
 
 ## Romans 3:31
 
-Do we then nullify the Law through faith? Far from it! On the contrary, we establish the Law.
+Do we then nullify the law by this faith? Certainly not! On the contrary, we uphold the law.

@@ -1,62 +1,34 @@
 # Jonah Chapter 4
 
 ## Jonah 4:1
-
-But it greatly displeased Jonah, and he became angry.
+But Jonah found this very displeasing, and he became angry.
 
 ## Jonah 4:2
-
-Then he prayed to the Lord and said,  
-“Please Lord, was this not what I said when I was still in my own country?  
-Therefore, in anticipation of this I fled to Tarshish,  
-Since I knew that You are a gracious and compassionate God,  
-Slow to anger and abundant in mercy,  
-And one who relents of disaster.
+He prayed to the Lord, “Is this not what I said, Lord, when I was still in my own country? That is why I tried to prevent it by fleeing to Tarshish. I knew that you are a gracious and compassionate God, slow to anger and rich in love, a God who relents from sending disaster.
 
 ## Jonah 4:3
-
-So now, Lord, please take my life from me,  
-For death is better to me than life.”
+Now, Lord, please take my life from me, for I would rather die than live.”
 
 ## Jonah 4:4
-
-But the Lord said,  
-“Do you have a good reason to be angry?”
+But the Lord asked, “Is it right for you to be angry?”
 
 ## Jonah 4:5
-
-Then Jonah left the city and sat down east of it. There he made a shelter for himself and sat under it in the shade until he could see what would happen in the city.
+Jonah went out and sat down at a place east of the city. There he made himself a shelter, sat in its shade, and waited to see what would happen to the city.
 
 ## Jonah 4:6
-
-So the Lord God designated a plant, and it grew up over Jonah to be a shade over his head, to relieve him of his discomfort. And Jonah was overjoyed about the plant.
+Then the Lord God provided a plant, and it grew up over Jonah to give shade for his head to ease his discomfort, and Jonah was delighted with the plant.
 
 ## Jonah 4:7
-
-But God designated a worm when dawn came the next day, and it attacked the plant and it withered.
+But at dawn the next day, God provided a worm, which attacked the plant so that it withered.
 
 ## Jonah 4:8
-
-And when the sun came up God designated a scorching east wind, and the sun beat down on Jonah’s head so that he became faint, and he begged with all his soul to die, saying,  
-“Death is better to me than life!”
+When the sun rose, God provided a scorching east wind, and the sun beat down on Jonah’s head so that he became faint. He wished to die, saying, “I would rather die than live.”
 
 ## Jonah 4:9
-
-But God said to Jonah,  
-“Do you have a good reason to be angry about the plant?”  
-And he said,  
-“I have good reason to be angry, even to the point of death!”
+But God said to Jonah, “Is it right for you to be angry about the plant?” “It is,” he replied. “I am so angry I could die.”
 
 ## Jonah 4:10
-
-Then the Lord said,  
-“You had compassion on the plant for which you did not work,  
-And which you did not cause to grow,  
-Which came up overnight and perished overnight.
+But the Lord said, “You have been concerned about this plant, though you did not labour for it or make it grow. It sprang up overnight and perished overnight.
 
 ## Jonah 4:11
-
-Should I not also have compassion on Nineveh, the great city,  
-In which there are more than 120,000 people  
-Who do not know the difference between their right and left hand,  
-As well as many animals?”
+And should I not have concern for the great city of Nineveh, where there are more than 120,000 people who cannot tell their right hand from their left, and also many animals?”

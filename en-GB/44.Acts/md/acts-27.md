@@ -2,224 +2,188 @@
 
 ## Acts 27:1
 
-Now when it was decided that we would sail for Italy,  
-they proceeded to turn Paul and some other prisoners over to a centurion of the Augustan cohort named Julius.
+When it was determined that we should sail for Italy, Paul and some other prisoners were handed over to a centurion named Julius, who was part of the Augustan cohort.
 
 ## Acts 27:2
 
-And we boarded an Adramyttian ship that was about to sail to the regions along the coast of Asia,  
-and put out to sea, accompanied by Aristarchus, a Macedonian of Thessalonica.
+We embarked on a ship from Adramyttium that was set to sail to the ports along the coast of Asia, and we set out to sea, accompanied by Aristarchus, a Macedonian from Thessalonica.
 
 ## Acts 27:3
 
-The next day we put in at Sidon; and Julius treated Paul with consideration  
-and allowed him to go to his friends and receive care.
+The following day we arrived at Sidon; and Julius, showing kindness to Paul, allowed him to visit his friends to receive care.
 
 ## Acts 27:4
 
-From there we put out to sea and sailed under the shelter of Cyprus, because the winds were contrary.
+From there we set sail again and travelled under the shelter of Cyprus, as the winds were against us.
 
 ## Acts 27:5
 
-When we had sailed through the sea along the coast of Cilicia and Pamphylia,  
-we landed at Myra in Lycia.
+After sailing across the sea along the coasts of Cilicia and Pamphylia, we arrived at Myra in Lycia.
 
 ## Acts 27:6
 
-There the centurion found an Alexandrian ship sailing for Italy, and he put us aboard it.
+There the centurion found an Alexandrian ship bound for Italy and transferred us onto it.
 
 ## Acts 27:7
 
-When we had sailed slowly for a good many days, and with difficulty had arrived off Cnidus,  
-since the wind did not permit us to go farther, we sailed under the shelter of Crete, off Salmone;
+We made slow progress for many days and with difficulty reached a point off Cnidus. When the wind did not permit us to continue, we sailed under the shelter of Crete, off Salmone.
 
 ## Acts 27:8
 
-and after sailing along it with difficulty, we came to a place called Fair Havens,  
-near which was the city of Lasea.
+With difficulty, we sailed along the coast and came to a place called Fair Havens, near the city of Lasea.
 
 ---
 
 ## Acts 27:9
 
-When considerable time had passed and the voyage was now dangerous,  
-since even the fast was already over, Paul repeatedly warned them,
+After much time had been lost and sailing had become hazardous, as it was now past the Day of Atonement, Paul began to warn them,
 
 ## Acts 27:10
 
-and said to them,  
-“Men, I perceive that the voyage is going to certainly be with damage and great loss,  
-not only of the cargo and the ship, but also of our lives.”
+“Men, I perceive that this voyage will result in damage and great loss, not only to the cargo and the ship, but also to our lives.”
 
 ## Acts 27:11
 
-But the centurion was more persuaded by the pilot and the captain of the ship than by what was being said by Paul.
+However, the centurion was more convinced by the pilot and the owner of the ship than by what Paul had said.
 
 ## Acts 27:12
 
-Since the harbour was not suitable for wintering, the majority reached a decision to put out to sea from there,  
-if somehow they could reach Phoenix, a harbour of Crete facing southwest and northwest, and spend the winter there.
+Since the harbour was unsuitable for wintering, the majority decided to set sail, hoping to reach Phoenix, a harbour in Crete facing southwest and northwest, to spend the winter there.
 
 ---
 
 ## Acts 27:13
 
-When a moderate south wind came up, thinking that they had attained their purpose,  
-they weighed anchor and began sailing along Crete, closer to shore.
+When a gentle south wind began to blow, they thought they had obtained their goal, so they weighed anchor and sailed along Crete, close to the shore.
 
 ## Acts 27:14
 
-But before very long a violent wind, called Euraquilo, rushed down from the land;
+But shortly afterwards, a fierce wind called the Northeaster swept down from the island.
 
 ## Acts 27:15
 
-and when the ship was caught in it and could not head into the wind, we gave up and let it be driven along.
+The ship was caught by the storm and unable to head into the wind, so we gave way to it and were driven along.
 
 ## Acts 27:16
 
-Running under the shelter of a small island called Cauda,  
-we were able to get the ship’s boat under control only with difficulty.
+As we passed under the shelter of a small island called Cauda, we were barely able to secure the ship’s boat.
 
 ## Acts 27:17
 
-After they had hoisted it up, they used supporting cables in undergirding the ship;  
-and fearing that they might run aground on the shallows of Syrtis,  
-they let down the sea anchor and let themselves be driven along in this way.
+After hoisting it aboard, they used ropes to undergird the ship. Fearing they might run aground on the sandbars of Syrtis, they lowered the sea anchor and let the ship be driven along.
 
 ## Acts 27:18
 
-The next day as we were being violently tossed by the storm, they began to jettison the cargo;
+The next day, as we were being violently tossed by the storm, they began to throw the cargo overboard.
 
 ## Acts 27:19
 
-and on the third day they threw the ship’s tackle overboard with their own hands.
+On the third day, they threw the ship’s tackle overboard with their own hands.
 
 ## Acts 27:20
 
-Since neither sun nor stars appeared for many days, and no small storm was assailing us,  
-from then on all hope of our being saved was gradually abandoned.
+When neither sun nor stars appeared for many days and the storm continued raging, we finally lost all hope of being saved.
 
 ---
 
 ## Acts 27:21
 
-When many had gone without food for a long time,  
-Paul stood among them and said,  
-“Men, you should have followed my advice and not have set sail from Crete,  
-and thereby spared yourselves this damage and loss.
+After they had gone a long time without food, Paul stood up among them and said, “Men, you should have followed my advice not to sail from Crete; then you would have avoided this damage and loss.
 
 ## Acts 27:22
 
-And yet now I urge you to keep up your courage,  
-for there will be no loss of life among you, but only of the ship.
+But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed.
 
 ## Acts 27:23
 
-For this very night an angel of the God to whom I belong, whom I also serve, came to me,
+Last night an angel of the God to whom I belong and whom I serve stood beside me
 
 ## Acts 27:24
 
-saying, ‘Do not be afraid, Paul; you must stand before Caesar;  
-and behold, God has graciously granted you all those who are sailing with you.’
+and said, ‘Do not be afraid, Paul. You must stand trial before Caesar, and God has graciously given you the lives of all who sail with you.’
 
 ## Acts 27:25
 
-Therefore, keep up your courage, men, for I believe God that it will turn out exactly as I have been told.
+So keep up your courage, men, for I have faith in God that it will happen just as he told me.
 
 ## Acts 27:26
 
-But we must run aground on a certain island.”
+Nevertheless, we must run aground on some island.”
 
 ---
 
 ## Acts 27:27
 
-But when the fourteenth night came, as we were being driven about in the Adriatic Sea,  
-about midnight the sailors began to suspect that they were approaching some land.
+On the fourteenth night, as we were being driven across the Adriatic Sea, about midnight the sailors sensed they were approaching land.
 
 ## Acts 27:28
 
-They took soundings and found it to be twenty fathoms;  
-and a little farther on they took another sounding and found it to be fifteen fathoms.
+They took soundings and found the water to be twenty fathoms deep. A short time later, they took soundings again and found it was fifteen fathoms deep.
 
 ## Acts 27:29
 
-And fearing that we might run aground somewhere on the rocks,  
-they cast four anchors from the stern and prayed for daybreak.
+Fearing that we might run aground on the rocks, they dropped four anchors from the stern and prayed for daylight.
 
 ## Acts 27:30
 
-But as the sailors were trying to escape from the ship  
-and had let down the ship’s boat into the sea on the pretense that they were going to lay out anchors from the bow,
+The sailors attempted to escape from the ship and had lowered the ship’s boat into the sea, pretending they were going to lay out anchors from the bow.
 
 ## Acts 27:31
 
-Paul said to the centurion and the soldiers,  
-“Unless these men remain on the ship, you yourselves cannot be saved.”
+Then Paul said to the centurion and the soldiers, “Unless these men stay with the ship, you cannot be saved.”
 
 ## Acts 27:32
 
-Then the soldiers cut away the ropes of the ship’s boat and let it drift away.
+So the soldiers cut the ropes that held the ship’s boat and let it drift away.
 
 ---
 
 ## Acts 27:33
 
-Until the day was about to dawn, Paul kept encouraging them all to take some food, saying,  
-“Today is the fourteenth day that you have been constantly watching and going without eating, having taken nothing.
+Just before dawn, Paul urged them all to eat. “For the last fourteen days,” he said, “you have been in constant suspense and have gone without food—you haven’t eaten anything.
 
 ## Acts 27:34
 
-Therefore, I encourage you to take some food, for this is for your survival,  
-for not a hair from the head of any of you will perish.”
+Now I urge you to take some food. You need it to survive. Not one of you will lose a single hair from his head.”
 
 ## Acts 27:35
 
-Having said this, he took bread and gave thanks to God in the presence of them all,  
-and he broke it and began to eat.
+After he said this, he took some bread and gave thanks to God in front of them all. Then he broke it and began to eat.
 
 ## Acts 27:36
 
-All of them were encouraged and they themselves also took food.
+They were all encouraged and took some food themselves.
 
 ## Acts 27:37
 
-We were 276 people on the ship in all.
+Altogether there were 276 of us on board.
 
 ## Acts 27:38
 
-When they had eaten enough, they began lightening the ship by throwing the wheat out into the sea.
+When they had eaten as much as they wanted, they lightened the ship by throwing the wheat into the sea.
 
 ---
 
 ## Acts 27:39
 
-Now when day came, they could not recognise the land;  
-but they did notice a bay with a beach, and they resolved to run the ship ashore there if they could.
+When daylight came, they did not recognise the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could.
 
 ## Acts 27:40
 
-And casting off the anchors, they left them in the sea,  
-while at the same time they loosened the ropes of the rudders;  
-and hoisting the foresail to the wind, they headed for the beach.
+Casting off the anchors, they left them in the sea and at the same time untied the ropes that held the rudders. Then they hoisted the foresail to the wind and made for the beach.
 
 ## Acts 27:41
 
-But they struck a reef where two seas met, and they ran the ship aground;  
-and the bow stuck firmly and remained immovable,  
-but the stern began to break up by the force of the waves.
+But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf.
 
 ## Acts 27:42
 
-Now the soldiers’ plan was to kill the prisoners,  
-so that none of them would swim away and escape;
+The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping.
 
 ## Acts 27:43
 
-but the centurion, wanting to bring Paul safely through, kept them from carrying out their plan,  
-and he ordered that those who could swim were to jump overboard first and get to land,
+But the centurion, wanting to save Paul’s life, prevented them from carrying out their plan. He ordered those who could swim to jump overboard first and get to land.
 
 ## Acts 27:44
 
-and the rest were to follow, some on planks, and others on various things from the ship.  
-And so it happened that they all were brought safely to land.
+The rest were to follow, some on planks and others on pieces of the ship. In this way, everyone reached land safely.

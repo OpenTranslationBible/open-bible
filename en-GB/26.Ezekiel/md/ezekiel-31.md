@@ -2,117 +2,88 @@
 
 ## Ezekiel 31:1
 
-Now in the eleventh year, in the third month, on the first of the month, the word of the Lord came to me, saying,
+In the eleventh year, in the third month, on the first day of the month, the word of the Lord came to me, saying:
 
 ## Ezekiel 31:2
 
-“Son of man, say to Pharaoh king of Egypt and to his hordes,
+“Son of man, say to Pharaoh king of Egypt and to his multitudes,
 
-> ‘Whom are you like in your greatness?
+> ‘Who can be likened to you in your greatness?
 
 ## Ezekiel 31:3
 
-> Behold, Assyria was a cedar in Lebanon  
-> With beautiful branches and forest shade,  
-> And very high,  
-> And its top was among the clouds.
+> Behold, Assyria was like a cedar in Lebanon,
+> with lovely branches providing shade to the forest,
+> and towering high,
+> its top among the clouds.
 
 ## Ezekiel 31:4
 
-> The waters made it grow, the deep made it high.  
-> With its rivers it continually extended all around its planting place,  
-> And sent out its channels to all the trees of the field.
+> The waters nourished it, the deep springs made it grow tall.
+> Its streams flowed around its planting place
+> and sent channels to all the trees of the field.
 
 ## Ezekiel 31:5
 
-> Therefore its height was loftier than all the trees of the field,  
-> And its boughs became many and its branches long  
-> Because of many waters as it spread them out.
+> Thus it rose higher than all the trees of the field;
+> its boughs multiplied and its branches extended long
+> due to the plentiful waters as it spread them out.
 
 ## Ezekiel 31:6
 
-> All the birds of the sky nested in its boughs,  
-> And under its branches all the animals of the field gave birth,  
-> And all great nations lived under its shade.
+> All the birds of the sky nested in its boughs,
+> and under its branches all the animals of the field gave birth;
+> all the great nations dwelt under its shade.
 
 ## Ezekiel 31:7
 
-> So it was beautiful in its greatness, in the length of its branches;  
-> For its roots extended to many waters.
+> It was magnificent in its greatness, with its extensive branches;
+> for its roots reached to abundant waters.
 
 ## Ezekiel 31:8
 
-> The cedars in God’s garden could not match it;  
-> The junipers could not compare with its boughs,  
-> And the plane trees could not match its branches.  
-> No tree in God’s garden could compare with it in beauty.
+> The cedars in the garden of God could not rival it,
+> nor could the junipers equal its boughs,
+> nor could the plane trees compare with its branches—
+> no tree in the garden of God could match its beauty.
 
 ## Ezekiel 31:9
 
-> I made it beautiful with the multitude of its branches,  
-> And all the trees of Eden, which were in the garden of God, were jealous of it.
+> I made it beautiful with the multitude of its branches,
+> and all the trees of Eden in the garden of God envied it.
 
 ## Ezekiel 31:10
 
-‘Therefore, this is what the Lord God says:  
-“Because it is high in stature and has put its top among the clouds,  
-And its heart is haughty in its height,
+“‘Therefore this is what the Sovereign Lord says: Because it was exalted in height, and set its top among the clouds, and its heart became proud in its loftiness,
 
 ## Ezekiel 31:11
 
-Therefore I will hand it over to a ruler of the nations;  
-He will thoroughly deal with it.  
-According to its wickedness I have driven it away.
+I handed it over to the ruler of the nations, for him to deal with it according to its wickedness. I cast it away.
 
 ## Ezekiel 31:12
 
-Foreign tyrants of the nations have cut it down and abandoned it;  
-Its branches have fallen on the mountains and in all the valleys,  
-And its boughs have broken off in all the ravines of the land;  
-And all the peoples of the earth have gone down from its shade and left it.
+Foreign tyrants of the nations cut it down and left it; its branches fell on the mountains and in all the valleys, its boughs lay broken in all the ravines of the land. All the peoples of the earth departed from its shade and abandoned it.
 
 ## Ezekiel 31:13
 
-All the birds of the sky will nest on its fallen trunk,  
-And all the animals of the field will rest on its fallen branches,
+All the birds of the sky settled on its fallen trunk, and all the animals of the field took shelter among its branches.
 
 ## Ezekiel 31:14
 
-So that all the trees by the waters will not be exalted in their stature,  
-Nor put their top among the clouds,  
-Nor will any of the well-watered mighty ones stand taller than they.  
-For they have all been handed over to death,  
-To the earth beneath,  
-Among the sons of mankind, with those who go down to the pit.”
+Thus no other trees by the waters will ever tower proudly in height, nor set their tops among the clouds, nor will their well-watered mighty ones stand tall in their height. For they are all consigned to death, to the earth below, among mortals who descend to the pit.
 
 ## Ezekiel 31:15
 
-‘This is what the Lord God says: “On the day when it went down to Sheol,  
-I caused mourning.  
-I closed the deep over it and restrained its rivers,  
-And the great waters were held back.  
-And I made Lebanon mourn for it,  
-And all the trees of the field wilted away because of it.
+“‘This is what the Sovereign Lord says: On the day it descended to Sheol, I brought mourning over it; I covered the deep springs for it, and held back its streams. Its abundant waters were restrained, and I made Lebanon mourn for it, and all the trees of the field withered away.
 
 ## Ezekiel 31:16
 
-I made the nations quake at the sound of its downfall  
-When I made it go down to Sheol with those who go down to the pit.  
-And all the well-watered trees of Eden,  
-The choicest and best of Lebanon,  
-Were comforted in the earth beneath.
+I made the nations tremble at the sound of its fall when I brought it down to Sheol with those who descend to the pit. Then all the well-watered trees of Eden, the choicest and best of Lebanon, were consoled in the earth below.
 
 ## Ezekiel 31:17
 
-They also went down with it to Sheol,  
-To those who were slain by the sword;  
-And those who were its strength  
-Lived under its shade among the nations.
+They too went down to Sheol with it, to those slain by the sword, along with those who were its strength, who lived in its shade among the nations.
 
 ## Ezekiel 31:18
 
-To which among the trees of Eden are you equal in glory and greatness?  
-Yet you will be brought down with the trees of Eden to the earth beneath;  
-You will lie in the midst of the uncircumcised,  
-With those who were killed by the sword.  
-This is Pharaoh and all his horde!”’ declares the Lord God.”
+“To which among the trees of Eden can you be compared in glory and greatness? Yet you will be brought down with the trees of Eden to the earth below; you will lie among the uncircumcised, with those slain by the sword. This is Pharaoh and all his hordes, declares the Sovereign Lord.”

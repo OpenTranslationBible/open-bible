@@ -1,140 +1,139 @@
 # Leviticus Chapter 26
 
 ## Leviticus 26:1
-Do not make idols or set up an image or sacred stone for yourselves. Do not place a carved stone in your land to bow down to it. I am the Lord your God.
+‘Do not create idols or set up a carved image or a memorial stone for yourselves, nor place a figured stone in your land to bow down to it; for I am the Lord your God.
 
 ## Leviticus 26:2
-Observe My Sabbaths and have reverence for My sanctuary. I am the Lord.
+You shall observe My Sabbaths and revere My sanctuary; I am the Lord.
 
 ## Leviticus 26:3
-If you follow My statutes and carefully obey My commands,
+If you walk in My statutes and are diligent to obey My commandments,
 
 ## Leviticus 26:4
-I will send rain in its season, and the land will yield its crops and the trees their fruit.
+then I will provide rain in its season, so that the land will yield its produce and the trees of the field will bear their fruit.
 
 ## Leviticus 26:5
-Your threshing will continue until grape harvest and the grape harvest will continue until planting. You will eat your fill and live securely in your land.
+Your threshing will extend until grape harvest, and the grape harvest will last until sowing time; you will eat your fill and dwell securely in your land.
 
 ## Leviticus 26:6
-I will grant peace in the land, and you will lie down without fear. I will remove wild beasts, and the sword will not pass through your land.
+I will grant peace in the land so that you may lie down with no one to make you afraid. I will also remove harmful beasts from the land, and no sword will pass through your territory.
 
 ## Leviticus 26:7
-You will pursue your enemies, and they will fall by the sword before you.
+You will pursue your enemies, and they will fall before you by the sword.
 
 ## Leviticus 26:8
-Five of you will chase a hundred, and a hundred of you will chase ten thousand, and your enemies will fall.
+Five of you will chase a hundred, and a hundred of you will put ten thousand to flight, and your enemies will fall before you by the sword.
 
 ## Leviticus 26:9
-I will look on you with favour and make you fruitful and increase your numbers, and I will keep My covenant with you.
+I will turn towards you and make you fruitful and multiply you, and I will uphold My covenant with you.
 
 ## Leviticus 26:10
-You will still be eating last year’s harvest when you will have to move it out to make room for the new.
+You will eat the old supply and clear out the old because of the new.
 
 ## Leviticus 26:11
-I will set My dwelling place among you, and I will not reject you.
+I will set My dwelling among you, and My soul will not reject you.
 
 ## Leviticus 26:12
-I will walk among you and be your God, and you will be My people.
+I will walk among you and be your God, and you shall be My people.
 
 ## Leviticus 26:13
-I am the Lord your God, who brought you out of Egypt so you would no longer be slaves. I broke the bars of your yoke and enabled you to walk upright.
+I am the Lord your God, who brought you out of the land of Egypt so that you would no longer be slaves; I broke the bars of your yoke and enabled you to walk with heads held high.
 
 ## Leviticus 26:14
-But if you do not listen to Me or carry out all these commands,
+‘But if you do not listen to Me and do not carry out all these commandments,
 
 ## Leviticus 26:15
-and if you reject My statutes and despise My regulations,
+and if you reject My statutes and loathe My ordinances, failing to carry out all My commandments and thus breaking My covenant,
 
 ## Leviticus 26:16
-then I will bring sudden terror on you—wasting diseases and fever that will destroy your sight and sap your strength. You will plant seed in vain because your enemies will eat it.
+then I will do this to you: I will bring upon you sudden terror, wasting diseases and fever that will destroy your sight and sap your strength; you will sow your seed in vain, for your enemies will eat it.
 
 ## Leviticus 26:17
-I will turn My face against you, and you will be defeated by your enemies.
+I will set My face against you so that you will be defeated by your enemies; those who hate you will rule over you, and you will flee when no one is pursuing you.
 
 ## Leviticus 26:18
-If you still do not listen, I will punish you seven times over for your sins.
+If after all this you do not listen to Me, I will punish you sevenfold for your sins.
 
 ## Leviticus 26:19
-I will break your pride in power. I will make your heavens like iron and your ground like bronze.
+I will break down your stubborn pride and make the sky above you like iron and the earth beneath you like bronze.
 
 ## Leviticus 26:20
-Your strength will be spent in vain; your land will not yield its crops.
+Your strength will be spent in vain, for your land will not yield its produce, nor will the trees of the land yield their fruit.
 
 ## Leviticus 26:21
-If you remain hostile and refuse to listen, I will multiply your afflictions seven times over.
+‘If you remain hostile towards Me and refuse to obey Me, I will multiply your afflictions sevenfold according to your sins.
 
 ## Leviticus 26:22
-I will send wild animals to rob you of your children and destroy your livestock.
+I will send wild animals among you, which will rob you of your children, destroy your cattle, and reduce your numbers so that your roads become deserted.
 
 ## Leviticus 26:23
-If you still do not accept My discipline,
+‘If despite these things you do not accept My correction and remain hostile towards Me,
 
 ## Leviticus 26:24
-I will afflict you with a plague and deliver you into enemy hands.
+then I will also be hostile towards you and will strike you sevenfold for your sins.
 
 ## Leviticus 26:25
-I will bring the sword and you will be gathered into cities under siege. I will cut off your supply of bread.
+I will bring a sword against you to execute the vengeance of the covenant; when you gather in your cities, I will send a plague among you, and you will be handed over to the enemy.
 
 ## Leviticus 26:26
-Ten women will bake bread in one oven and ration it by weight.
+When I cut off your supply of bread, ten women will bake your bread in a single oven and dole it out by weight; you will eat, but not be satisfied.
 
 ## Leviticus 26:27
-If despite this you still do not listen,
+‘If in spite of this you do not listen to Me and continue to be hostile towards Me,
 
 ## Leviticus 26:28
-I will punish you for your sins seven times over.
+then I will act with furious hostility against you, and I will punish you sevenfold for your sins.
 
 ## Leviticus 26:29
-You will eat the flesh of your sons and daughters.
+You will eat the flesh of your sons and the flesh of your daughters.
 
 ## Leviticus 26:30
-I will destroy your high places and cut down your incense altars.
+I will destroy your high places, cut down your incense altars, and pile your remains on the lifeless forms of your idols, for My soul will loathe you.
 
 ## Leviticus 26:31
-I will lay your cities waste and desolate your sanctuaries.
+I will lay waste to your cities and make your sanctuaries desolate, and I will not delight in the pleasing aroma of your offerings.
 
 ## Leviticus 26:32
-I will bring the land into desolation, and your enemies who live there will be appalled.
+I will make the land desolate so that your enemies who settle in it will be appalled.
 
 ## Leviticus 26:33
-I will scatter you among the nations and draw out My sword against you.
+I will scatter you among the nations and draw out a sword after you as your land becomes desolate and your cities become ruins.
 
 ## Leviticus 26:34
-Then the land will enjoy its Sabbaths all the time it lies desolate.
+Then the land will enjoy its Sabbaths all the days of its desolation, while you are in your enemies’ land; then the land will rest and enjoy its Sabbaths.
 
 ## Leviticus 26:35
-As long as it lies desolate, it will rest.
+All the days of its desolation it will have the rest it did not have on your Sabbaths when you lived on it.
 
 ## Leviticus 26:36
-I will make the hearts of those left in the lands of their enemies so fearful that the sound of a wind-blown leaf will put them to flight.
+As for those of you who remain, I will bring fear into their hearts in the lands of their enemies. The sound of a windblown leaf will chase them, and they will flee as though fleeing from the sword, and they will fall even though no one is pursuing them.
 
 ## Leviticus 26:37
-They will stumble as if fleeing from the sword, even though no one is pursuing them.
+They will stumble over each other as if fleeing from the sword, even though no one is pursuing them; and you will have no strength to stand before your enemies.
 
 ## Leviticus 26:38
-You will perish among the nations.
+You will perish among the nations, and the land of your enemies will consume you.
 
 ## Leviticus 26:39
-Those of you who survive will waste away because of their sins and the sins of their ancestors.
+Those who remain will waste away in the lands of their enemies because of their sins; also because of their ancestors’ sins they will waste away.
 
 ## Leviticus 26:40
-But if they will confess their sins and the sins of their ancestors—their unfaithfulness and hostility toward Me—
+‘But if they confess their sins and the sins of their ancestors—their unfaithfulness and their hostility towards Me—
 
 ## Leviticus 26:41
-which made Me hostile toward them and caused Me to drive them into the land of their enemies—then when their hearts are humbled and they make amends,
+which made Me hostile towards them so that I sent them into the land of their enemies—then when their uncircumcised hearts are humbled and they make amends for their wrongdoing,
 
 ## Leviticus 26:42
-I will remember My covenant with Jacob, Isaac, and Abraham, and I will remember the land.
+I will remember My covenant with Jacob, My covenant with Isaac, and My covenant with Abraham, and I will remember the land.
 
 ## Leviticus 26:43
-The land will be left empty and will enjoy its rest.
+For the land will be abandoned by them and will enjoy its Sabbaths while it lies desolate without them. They will make amends for their sins because they rejected My ordinances and loathed My statutes.
 
 ## Leviticus 26:44
-Yet in spite of this, I will not reject or abhor them so as to destroy them or break My covenant.
+Yet in spite of this, when they are in the land of their enemies, I will not reject them or loathe them so as to destroy them completely, breaking My covenant with them; for I am the Lord their God.
 
 ## Leviticus 26:45
-For their sake, I will remember the covenant with their ancestors, whom I brought out of Egypt.
+For their sake, I will remember the covenant with their ancestors, whom I brought out of the land of Egypt in the sight of the nations, that I might be their God. I am the Lord.’”
 
 ## Leviticus 26:46
-These are the statutes, laws, and regulations the Lord established on Mount Sinai between Himself and the Israelites through Moses.
-
+These are the statutes, ordinances, and laws which the Lord established between Himself and the Israelites through Moses on Mount Sinai.

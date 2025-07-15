@@ -1,70 +1,49 @@
 # Jeremiah Chapter 40
 
-## Jeremiah 40:1  
-The word that came to Jeremiah from the Lord after Nebuzaradan the captain of the bodyguard had released him from Ramah,  
-when he had taken him bound in chains among all the exiles of Jerusalem and Judah who were being exiled to Babylon.
+## Jeremiah 40:1
+The message that came to Jeremiah from the Lord after Nebuzaradan, the commander of the guard, released him at Ramah. He found Jeremiah bound in chains among all the captives from Jerusalem and Judah who were being taken to Babylon.
 
-## Jeremiah 40:2  
-Now the captain of the bodyguard had taken Jeremiah and said to him,  
-“The Lord your God declared this disaster against this place;
+## Jeremiah 40:2
+The commander of the guard took Jeremiah and said to him, “The Lord your God pronounced this disaster upon this place;
 
-## Jeremiah 40:3  
-and the Lord has brought it about and has done just as He said.  
-Because you people sinned against the Lord and did not listen to His voice, therefore this thing has happened to you.
+## Jeremiah 40:3
+and now the Lord has brought it about, just as He said He would. This has happened because you people sinned against the Lord and did not listen to His voice.
 
-## Jeremiah 40:4  
-But now, behold, I am setting you free today from the chains which are on your hands.  
-If it pleases you to come with me to Babylon, come, and I will take care of you;  
-but if it displeases you to come with me to Babylon, never mind.  
-See, the whole land is before you; go wherever it seems good and right for you to go.”
+## Jeremiah 40:4
+But today, I am freeing you from the chains on your hands. If you wish to come with me to Babylon, come, and I will take care of you; but if you prefer not to come, then do not come. Look, the whole land is before you; go wherever it seems good and right for you to go.”
 
-## Jeremiah 40:5  
-Since Jeremiah was not going back, Nebuzaradan said to him,  
-“Return to Gedaliah the son of Ahikam, son of Shaphan, whom the king of Babylon has appointed over the cities of Judah,  
-and stay with him among the people; or go wherever it seems right for you to go.”  
-So the captain of the bodyguard gave him provisions and a gift, and let him go.
+## Jeremiah 40:5
+While Jeremiah had not yet turned to go, Nebuzaradan added, “Go back to Gedaliah son of Ahikam, the son of Shaphan, whom the king of Babylon has appointed over the towns of Judah, and stay with him among the people, or go wherever it seems right for you to go.” Then the commander gave him provisions and a gift and let him go.
 
-## Jeremiah 40:6  
-Then Jeremiah went to Mizpah to Gedaliah the son of Ahikam, and stayed with him among the people who were left in the land.
+## Jeremiah 40:6
+So Jeremiah went to Gedaliah son of Ahikam at Mizpah and stayed with him among the people who were left in the land.
 
-## Jeremiah 40:7  
-Now all the commanders of the forces that were in the field, they and their men, heard that the king of Babylon had appointed Gedaliah the son of Ahikam over the land,  
-and that he had put him in charge of the men, women, and children, those of the poorest of the land who had not been exiled to Babylon.
+## Jeremiah 40:7
+When all the commanders of the forces in the open country and their men heard that the king of Babylon had appointed Gedaliah son of Ahikam as governor over the land, and had put him in charge of the men, women, and children, those of the poorest in the land who had not been exiled to Babylon,
 
-## Jeremiah 40:8  
-So they came to Gedaliah at Mizpah—  
-Ishmael the son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah the son of Tanhumeth,  
-and the sons of Ephai the Netophathite, and Jezaniah the son of the Maacathite—they and their men.
+## Jeremiah 40:8
+they came to Gedaliah at Mizpah—along with Ishmael son of Nethaniah, Johanan and Jonathan the sons of Kareah, Seraiah son of Tanhumeth, the sons of Ephai the Netophathite, and Jaazaniah the son of the Maakathite, and their men.
 
-## Jeremiah 40:9  
-Then Gedaliah the son of Ahikam, the son of Shaphan, swore to them and their men, saying,  
-“Do not be afraid of serving the Chaldeans; stay in the land and serve the king of Babylon, and it will go well for you.
+## Jeremiah 40:9
+Gedaliah son of Ahikam, the son of Shaphan, assured them and their men, saying, “Do not be afraid to serve the Babylonians; settle down in the land and serve the king of Babylon, and it will go well with you.
 
-## Jeremiah 40:10  
-As for me, behold, I am going to stay at Mizpah to stand for you before the Chaldeans who come to us;  
-but as for you, gather in wine, summer fruit, and oil, and store them in your vessels,  
-and live in your cities that you have taken over.”
+## Jeremiah 40:10
+As for me, I will stay at Mizpah to represent you before the Babylonians who come to us, but you are to gather wine, summer fruit, and olive oil, and store them in your jars, and live in the towns you have taken over.”
 
-## Jeremiah 40:11  
-Likewise, also all the Jews who were in Moab and among the sons of Ammon, in Edom and who were in all the other countries,  
-heard that the king of Babylon had left a remnant for Judah, and that he had appointed over them Gedaliah the son of Ahikam, the son of Shaphan.
+## Jeremiah 40:11
+When all the Jews in Moab, Ammon, Edom, and all the other countries heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, as governor over them,
 
-## Jeremiah 40:12  
-Then all the Jews returned from all the places where they had been scattered and came to the land of Judah, to Gedaliah at Mizpah,  
-and gathered in wine and summer fruit in great abundance.
+## Jeremiah 40:12
+they all returned to the land of Judah, to Gedaliah at Mizpah, from all the countries where they had been scattered. And they gathered an abundance of wine and summer fruit.
 
-## Jeremiah 40:13  
-Now Johanan the son of Kareah and all the commanders of the forces that were in the field came to Gedaliah at Mizpah,
+## Jeremiah 40:13
+Johanan son of Kareah and all the commanders of the forces still in the field came to Gedaliah at Mizpah
 
-## Jeremiah 40:14  
-and said to him, “Are you aware that Baalis the king of the sons of Ammon has sent Ishmael the son of Nethaniah to take your life?”  
-But Gedaliah the son of Ahikam did not believe them.
+## Jeremiah 40:14
+and said to him, “Are you aware that Baalis king of the Ammonites has sent Ishmael son of Nethaniah to take your life?” But Gedaliah son of Ahikam did not believe them.
 
-## Jeremiah 40:15  
-Then Johanan the son of Kareah spoke secretly to Gedaliah in Mizpah, saying,  
-“Let me go and kill Ishmael the son of Nethaniah, and no one will know!  
-Why should he take your life, so that all the Jews who are gathered to you would be scattered, and the remnant of Judah would perish?”
+## Jeremiah 40:15
+Then Johanan son of Kareah spoke privately to Gedaliah in Mizpah, saying, “Let me go and kill Ishmael son of Nethaniah, and no one will know it. Why should he take your life, causing all the Jews gathered around you to be scattered and the remnant of Judah to perish?”
 
-## Jeremiah 40:16  
-But Gedaliah the son of Ahikam said to Johanan the son of Kareah,  
-“Do not do this thing, for you are telling a lie about Ishmael.”
+## Jeremiah 40:16
+But Gedaliah son of Ahikam said to Johanan son of Kareah, “Do not do such a thing! What you are saying about Ishmael is not true.”

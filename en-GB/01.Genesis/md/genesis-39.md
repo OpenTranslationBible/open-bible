@@ -1,71 +1,70 @@
 # Genesis Chapter 39
 
 ## Genesis 39:1
-Now Joseph had been taken down to Egypt. Potiphar, an Egyptian who was one of Pharaoh’s officials, the captain of the guard, bought him from the Ishmaelites who had taken him there.
+Now Joseph had been taken down to Egypt, and Potiphar, an Egyptian officer of Pharaoh and captain of the guard, purchased him from the Ishmaelites who had brought him there.
 
 ## Genesis 39:2
-The Lord was with Joseph so that he prospered, and he lived in the house of his Egyptian master.
+The Lord was with Joseph, and he became a prosperous man, living in the house of his Egyptian master.
 
 ## Genesis 39:3
-When his master saw that the Lord was with him and that the Lord gave him success in everything he did,
+His master observed that the Lord was with him and that the Lord granted success to everything he undertook.
 
 ## Genesis 39:4
-Joseph found favour in his eyes and became his attendant. Potiphar put him in charge of his household, and he entrusted to his care everything he owned.
+Joseph gained favour in his master's sight and became his personal attendant. Potiphar appointed him over his household, entrusting him with all he possessed.
 
 ## Genesis 39:5
-From the time he put him in charge of his household and of all that he owned, the Lord blessed the household of the Egyptian because of Joseph.
+From the time he made him overseer of his house and all he owned, the Lord blessed the Egyptian's household for Joseph's sake. The Lord's blessing was on everything he had, both in the house and in the fields.
 
 ## Genesis 39:6
-Now Joseph was well-built and handsome.
+So Potiphar left everything he had in Joseph's care, and with Joseph in charge, he concerned himself only with the food he ate. Now Joseph was handsome in form and appearance.
 
 ## Genesis 39:7
-And after a while his master’s wife took notice of Joseph and said, “Come to bed with me!”
+After some time, his master's wife took notice of Joseph and said, “Lie with me.”
 
 ## Genesis 39:8
-But he refused. “With me in charge,” he told her, “my master does not concern himself with anything in the house; everything he owns he has entrusted to my care.
+But he refused and said to his master's wife, “With me in charge, my master does not concern himself with anything in the house; he has entrusted everything he owns to my care.
 
 ## Genesis 39:9
-No one is greater in this house than I am. My master has withheld nothing from me except you, because you are his wife. How then could I do such a wicked thing and sin against God?”
+There is no one greater in this house than I am. My master has withheld nothing from me except you, because you are his wife. How then could I do such a wicked thing and sin against God?”
 
 ## Genesis 39:10
-And though she spoke to Joseph day after day, he refused to go to bed with her or even be with her.
+Though she spoke to Joseph day after day, he did not heed her request to lie beside her or to be with her.
 
 ## Genesis 39:11
-One day he went into the house to attend to his duties, and none of the household servants was inside.
+One day he went into the house to perform his duties, and none of the household servants was present.
 
 ## Genesis 39:12
-She caught him by his cloak and said, “Come to bed with me!” But he left his cloak in her hand and ran out of the house.
+She caught him by his garment and said, “Lie with me!” But he left his garment in her hand and fled outside.
 
 ## Genesis 39:13
-When she saw that he had left his cloak in her hand and had run out of the house,
+When she saw that he had left his garment in her hand and had fled outside,
 
 ## Genesis 39:14
-she called her household servants. “Look,” she said, “this Hebrew has been brought to us to make sport of us! He came in here to sleep with me, but I screamed.
+she called to her household servants and said, “Look, this Hebrew has been brought to us to mock us! He came in to lie with me, but I screamed.
 
 ## Genesis 39:15
-When he heard me scream, he ran out, leaving his cloak beside me.”
+When he heard me raise my voice and scream, he left his garment beside me and fled outside.”
 
 ## Genesis 39:16
-She kept his cloak beside her until his master came home.
+She kept his garment beside her until his master returned home.
 
 ## Genesis 39:17
-Then she told him this story: “That Hebrew slave you brought us came to me to make sport of me.
+Then she recounted the incident to him, saying, “The Hebrew slave you brought us came to me to mock me.
 
 ## Genesis 39:18
-But as soon as I screamed for help, he left his cloak beside me and ran out of the house.”
+But as soon as I raised my voice and screamed, he left his garment beside me and fled outside.”
 
 ## Genesis 39:19
-When his master heard the story his wife told him, he burned with anger.
+When his master heard the story his wife told him, saying, “This is what your slave did to me,” he was furious.
 
 ## Genesis 39:20
-Joseph’s master took him and put him in prison, the place where the king’s prisoners were confined.
+Joseph's master took him and placed him in the prison where the king's prisoners were confined. And he remained there in the prison.
 
 ## Genesis 39:21
-But the Lord was with Joseph; He showed him kindness and granted him favour in the eyes of the prison warden.
+But the Lord was with Joseph, showing him steadfast love and granting him favour in the sight of the prison warden.
 
 ## Genesis 39:22
-So the warden put Joseph in charge of all those held in the prison, and he was made responsible for all that was done there.
+The warden put Joseph in charge of all the prisoners held there, and he was responsible for all that was done in the prison.
 
 ## Genesis 39:23
-The warden paid no attention to anything under Joseph’s care, because the Lord was with Joseph and gave him success in whatever he did.
-
+The warden paid no attention to anything under Joseph's charge, because the Lord was with him and made whatever he did prosper.

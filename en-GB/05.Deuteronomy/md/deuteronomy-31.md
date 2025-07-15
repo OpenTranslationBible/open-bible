@@ -1,137 +1,91 @@
 # Deuteronomy Chapter 31
 
 ## Deuteronomy 31:1
-
-Moses went and spoke these words to all Israel.
+Then Moses went and addressed these words to all Israel:
 
 ## Deuteronomy 31:2
-
-He said to them, ‘I am now one hundred and twenty years old, and I can no longer go out and come in. The Lord has said to me, “You shall not cross this Jordan.”
+He said to them, “I am now one hundred and twenty years old; I am no longer able to lead you, and the Lord has told me, ‘You shall not cross the Jordan.’
 
 ## Deuteronomy 31:3
-
-The Lord your God Himself will cross over before you. He will destroy these nations before you, and you will dispossess them. Joshua will cross over before you, as the Lord has spoken.
+The Lord your God will cross over ahead of you. He will destroy these nations before you, and you will take possession of their land. Joshua will also cross over ahead of you, as the Lord has spoken.
 
 ## Deuteronomy 31:4
-
-The Lord will do to them as He did to Sihon and Og, the kings of the Amorites, and to their land, when He destroyed them.
+And the Lord will do to them as He did to Sihon and Og, the kings of the Amorites, when He destroyed them and their land.
 
 ## Deuteronomy 31:5
-
-The Lord will deliver them to you, and you shall do to them according to all the commands I have given you.
+The Lord will hand them over to you, and you shall do to them according to all the commandments I have given you.
 
 ## Deuteronomy 31:6
-
-Be strong and courageous. Do not fear or be dismayed because of them, for the Lord your God is the one who goes with you. He will not fail you or forsake you.
-
----
+Be strong and courageous. Do not fear or be terrified of them, for the Lord your God goes with you; He will not leave you nor forsake you.”
 
 ## Deuteronomy 31:7
-
-Then Moses called Joshua and said to him in the sight of all Israel, ‘Be strong and courageous, for you shall go with this people into the land that the Lord swore to their ancestors to give them, and you shall cause them to inherit it.
+Then Moses called Joshua and said to him in the presence of all Israel, “Be strong and courageous, for you will go with this people into the land that the Lord swore to their ancestors to give them, and you will divide it among them as their inheritance.
 
 ## Deuteronomy 31:8
-
-The Lord Himself goes before you and will be with you. He will not fail you or forsake you. Do not fear or be dismayed.
-
----
+The Lord Himself goes before you and will be with you; He will not leave you nor forsake you. Do not be afraid; do not be discouraged.”
 
 ## Deuteronomy 31:9
-
-Moses wrote this law and gave it to the priests, the sons of Levi, who carried the ark of the covenant of the Lord, and to all the elders of Israel.
+So Moses wrote this law and gave it to the Levitical priests, who carried the ark of the covenant of the Lord, and to all the elders of Israel.
 
 ## Deuteronomy 31:10
-
-Moses commanded them, saying, ‘At the end of every seven years, at the time of the year of release, during the Feast of Booths,
+Then Moses commanded them, “At the end of every seven years, during the year of debt release, at the Festival of Tabernacles,
 
 ## Deuteronomy 31:11
-
-when all Israel comes to appear before the Lord your God at the place He will choose, you shall read this law before all Israel in their hearing.
+when all Israel comes to appear before the Lord your God at the place He will choose, you shall read this law before them so that they may hear it.
 
 ## Deuteronomy 31:12
-
-Assemble the people—men, women, children, and the foreigner within your gates—that they may hear and learn to fear the Lord your God and be careful to do all the words of this law,
+Gather the people—men, women, children, and the foreigners residing in your towns—so they may listen and learn to fear the Lord your God and carefully follow all the words of this law.
 
 ## Deuteronomy 31:13
-
-and that their children, who have not known it, may hear and learn to fear the Lord your God, as long as you live in the land you are crossing the Jordan to possess.
-
----
+Their children, who do not know this law, must hear it and learn to fear the Lord your God as long as you live in the land you are crossing the Jordan to possess.”
 
 ## Deuteronomy 31:14
-
-The Lord said to Moses, ‘Behold, the days approach when you must die. Call Joshua, and present yourselves in the tent of meeting, that I may commission him.’ So Moses and Joshua went and presented themselves in the tent of meeting.
+The Lord said to Moses, “The time of your death is near. Call Joshua and present yourselves at the tent of meeting, where I will commission him.” So Moses and Joshua went and presented themselves at the tent of meeting.
 
 ## Deuteronomy 31:15
-
-The Lord appeared in the tent in a pillar of cloud, and the pillar of cloud stood over the entrance of the tent.
+The Lord appeared at the tent in a pillar of cloud, and the cloud stood at the entrance of the tent.
 
 ## Deuteronomy 31:16
-
-The Lord said to Moses, ‘Behold, you will soon rest with your ancestors, and this people will rise and prostitute themselves with the foreign gods of the land they are entering. They will forsake Me and break the covenant I have made with them.
+The Lord said to Moses: “You are about to rest with your ancestors, and this people will soon turn to foreign gods of the land they are entering. They will forsake Me and break the covenant I made with them.
 
 ## Deuteronomy 31:17
-
-On that day My anger will burn against them, and I will forsake them and hide My face from them, so that they will be consumed. Many evils and troubles will come upon them, and they will say on that day, “Have not these evils come upon us because our God is not among us?”
+On that day, My anger will be kindled against them, and I will forsake them and hide My face from them, and they will be consumed. Many disasters and calamities will come upon them, and they will say, ‘Have not these disasters come upon us because our God is not with us?’
 
 ## Deuteronomy 31:18
-
-I will surely hide My face on that day because of all the evil they have done, by turning to other gods.
-
----
+I will surely hide My face on that day because of all the evil they have done in turning to other gods.
 
 ## Deuteronomy 31:19
-
-Now therefore, write this song and teach it to the people of Israel. Put it in their mouths, that this song may be a witness for Me against the people of Israel.
+“Now write down this song and teach it to the Israelites; put it on their lips, so that it may be a witness for Me against them.
 
 ## Deuteronomy 31:20
-
-For when I have brought them into the land flowing with milk and honey, which I swore to their ancestors, and they have eaten and are satisfied and grown fat, they will turn to other gods and serve them, and despise Me and break My covenant.
+When I bring them into the land flowing with milk and honey, the land I promised on oath to their ancestors, and they eat and are satisfied and become prosperous, they will turn to other gods and worship them, rejecting Me and breaking My covenant.
 
 ## Deuteronomy 31:21
-
-When many evils and troubles come upon them, this song will testify against them as a witness, for it will not be forgotten from the mouths of their descendants. For I know their inclination, what they are doing even now, before I have brought them into the land I swore to give.
+When many disasters and calamities come upon them, this song will testify against them, because it will not be forgotten by their descendants. I know what they are inclined to do, even before I bring them into the land I promised them on oath.”
 
 ## Deuteronomy 31:22
-
-So Moses wrote this song that day and taught it to the people of Israel.
-
----
+So Moses wrote down this song that day and taught it to the Israelites.
 
 ## Deuteronomy 31:23
-
-The Lord commissioned Joshua son of Nun, saying, ‘Be strong and courageous, for you shall bring the people of Israel into the land I swore to give them, and I will be with you.’
-
----
+The Lord commissioned Joshua son of Nun, saying, “Be strong and courageous, for you will bring the Israelites into the land I promised them on oath, and I will be with you.”
 
 ## Deuteronomy 31:24
-
-When Moses had finished writing the words of this law in a book to the very end,
+After Moses finished writing the words of this law in a book from beginning to end,
 
 ## Deuteronomy 31:25
-
-Moses commanded the Levites who carried the ark of the covenant of the Lord, saying,
+he gave this command to the Levites who carried the ark of the covenant of the Lord:
 
 ## Deuteronomy 31:26
-
-‘Take this book of the law and place it beside the ark of the covenant of the Lord your God, that it may be there as a witness against you.
+“Take this Book of the Law and place it beside the ark of the covenant of the Lord your God. There it will remain as a witness against you.
 
 ## Deuteronomy 31:27
-
-For I know your rebellion and your stiff neck. Behold, while I am still alive with you today, you have been rebellious against the Lord; how much more after my death?
-
----
+For I know how rebellious and stiff-necked you are. If you have been rebellious against the Lord while I am still alive with you, how much more will you rebel after my death?
 
 ## Deuteronomy 31:28
-
-Assemble to me all the elders of your tribes and your officers, that I may speak these words in their hearing and call heaven and earth to witness against them.
+Assemble all the elders of your tribes and your officials before me, so that I may speak these words in their hearing and call the heavens and the earth to witness against them.
 
 ## Deuteronomy 31:29
-
-For I know that after my death you will surely act corruptly and turn aside from the way I have commanded you. In the days to come, evil will befall you because you will do what is evil in the sight of the Lord, provoking Him to anger through the work of your hands.
-
----
+For I know that after my death you will act corruptly and turn from the way I have commanded you. In days to come, disaster will fall on you because you will do evil in the sight of the Lord, provoking Him to anger by what your hands have made.”
 
 ## Deuteronomy 31:30
-
-Then Moses spoke the words of this song in the hearing of the whole assembly of Israel, until they were finished.
+And Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:

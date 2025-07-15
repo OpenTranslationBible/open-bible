@@ -2,85 +2,84 @@
 
 ## Amos 6:1
 
-> Woe to those who are at ease in Zion,  
-> And to those who feel secure on the mountain of Samaria,  
-> The distinguished men of the foremost of nations,  
-> To whom the house of Israel comes.
+> Woe to those who are at ease in Zion,
+> and to those who feel secure on the mountain of Samaria,
+> the prominent men of the foremost nation,
+> to whom the house of Israel comes.
 
 ## Amos 6:2
 
-> Go over to Calneh and look,  
-> And go from there to Hamath the great,  
-> Then go down to Gath of the Philistines.  
-> Are they better than these kingdoms,  
-> Or is their territory greater than yours?
+> Cross over to Calneh and see,
+> and go from there to great Hamath,
+> then go down to Gath of the Philistines.
+> Are they better than your kingdoms,
+> or is their territory greater than yours?
 
 ## Amos 6:3
 
-> Do you postpone the day of disaster,  
-> And would you bring near the seat of violence?
+> You who delay the day of calamity
+> and bring near the seat of violence.
 
 ## Amos 6:4
 
-> Those who lie on beds of ivory,  
-> And lounge around on their couches,  
-> And eat lambs from the flock,  
-> And calves from the middle of the fattened cattle,
+> Those who lie on beds inlaid with ivory
+> and sprawl on their couches,
+> who eat lambs from the flock
+> and calves from the midst of the stall,
 
 ## Amos 6:5
 
-> Who improvise to the sound of the harp,  
-> And like David have composed songs for themselves,
+> who strum on the harp
+> like David and invent for themselves instruments of music,
 
 ## Amos 6:6
 
-> Who drink wine from sacred bowls,  
-> While they anoint themselves with the finest of oils,  
-> Yet they have not grieved over the collapse of Joseph.
+> who drink wine from bowls
+> and anoint themselves with the finest oils,
+> but have not grieved over the downfall of Joseph.
 
 ## Amos 6:7
 
-> Therefore, they will now go into exile at the head of the exiles,  
-> And the revelry of those who lounge around will come to an end.
+> Therefore, they will be the first to go into exile,
+> and the revelry of those who sprawl will cease.
 
 ## Amos 6:8
 
-The Lord God has sworn by Himself, the Lord God of armies has declared:
+The Lord God has sworn by Himself, declares the Lord God of hosts:
 
-> “I loathe the arrogance of Jacob,  
-> And detest his citadels;  
-> Therefore I will hand over the city and all it contains.”
+> “I abhor the pride of Jacob
+> and detest his strongholds;
+> therefore I will deliver up the city and all that is in it.”
 
 ## Amos 6:9
 
-And it will be, if ten men are left in one house, they will die.
+And it shall come to pass, if ten men remain in one house, they shall die.
 
 ## Amos 6:10
 
-Then one’s uncle, or his undertaker, will lift him up to carry out his bones from the house, and he will say to the one who is inside the house,  
-“Is anyone else with you?”  
-And that one will say, “No one.”  
-Then he will answer, “Keep quiet! For the name of the Lord is not to be mentioned.”
+And when a relative or undertaker comes to carry the bones out of the house, and says to one in the innermost parts of the house, “Is anyone else with you?” and he says, “No,” he will respond, “Hush! We must not mention the name of the Lord.”
 
 ## Amos 6:11
 
-> For behold, the Lord is going to command that the great house be smashed to pieces, and the small house to rubble.
+> For behold, the Lord has given the command,
+> and He will smash the great house to pieces
+> and the small house to rubble.
 
 ## Amos 6:12
 
-> Do horses run on rocks?  
-> Or does one plough them with oxen?  
-> Yet you have turned justice into poison,  
-> And the fruit of righteousness into wormwood,
+> Do horses run on rocky crags?
+> Does one plough the sea with oxen?
+> Yet you have turned justice into poison
+> and the fruit of righteousness into bitterness—
 
 ## Amos 6:13
 
-> You who rejoice in Lo-debar,  
-> And say, “Have we not by our own strength taken Karnaim for ourselves?”
+> you who rejoice in Lo Debar
+> and say, “Did we not capture Karnaim by our own strength?”
 
 ## Amos 6:14
 
-> “For behold, I am going to raise up a nation against you, house of Israel,”  
-> Declares the Lord God of armies,  
-> “And they will oppress you from the entrance of Hamath  
-> To the brook of the Arabah.”
+> “For behold, I will raise up a nation against you, O house of Israel,”
+> declares the Lord God of hosts,
+> “and they will oppress you from the entrance of Hamath
+> to the brook of the Arabah.”

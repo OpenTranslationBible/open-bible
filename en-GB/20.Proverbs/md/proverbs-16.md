@@ -2,171 +2,138 @@
 
 ## Proverbs 16:1
 
-The plans of the heart belong to a person,  
-But the answer of the tongue is from the Lord.
+The plans of the heart belong to humans, but the response of the tongue is from the Lord.
 
 ## Proverbs 16:2
 
-All the ways of a person are clean in his own sight,  
-But the Lord examines the motives.
+All a person’s ways are pure in their own eyes, but the Lord weighs the motives.
 
 ## Proverbs 16:3
 
-Commit your works to the Lord,  
-And your plans will be established.
+Commit your actions to the Lord, and your plans will be established.
 
 ## Proverbs 16:4
 
-The Lord has made everything for its own purpose,  
-Even the wicked for the day of disaster.
+The Lord has made everything for its purpose, even the wicked for the day of trouble.
 
 ## Proverbs 16:5
 
-Everyone who is proud in heart is an abomination to the Lord;  
-Be assured, he will not go unpunished.
+The Lord detests all who are proud in heart; be assured, they will not go unpunished.
 
 ## Proverbs 16:6
 
-By mercy and truth iniquity is atoned for,  
-And by the fear of the Lord one turns away from evil.
+Through mercy and truth, sin is atoned for; through the fear of the Lord, evil is avoided.
 
 ## Proverbs 16:7
 
-When a person's ways please the Lord,  
-He makes even his enemies be at peace with him.
+When the Lord is pleased with a person's ways, he makes even their enemies live at peace with them.
 
 ## Proverbs 16:8
 
-Better is a little with righteousness  
-Than great income with injustice.
+Better a little with righteousness than great gain with injustice.
 
 ## Proverbs 16:9
 
-The mind of a person plans his way,  
-But the Lord directs his steps.
+In their hearts, humans plan their course, but the Lord directs their steps.
 
 ---
 
 ## Proverbs 16:10
 
-A divine verdict is on the lips of the king;  
-His mouth should not err in judgment.
+A divine decision is on the lips of a king; his mouth should not betray justice.
 
 ## Proverbs 16:11
 
-A just balance and scales belong to the Lord;  
-All the weights of the bag are His concern.
+Honest scales and balances are the Lord’s; all the weights in the bag are his concern.
 
 ## Proverbs 16:12
 
-It is an abomination for kings to commit wicked acts,  
-For a throne is established on righteousness.
+Kings detest wrongdoing, for a throne is established by righteousness.
 
 ## Proverbs 16:13
 
-Righteous lips are the delight of kings,  
-And one who speaks right is loved.
+Righteous lips are the delight of kings, and they love those who speak what is right.
 
 ## Proverbs 16:14
 
-The fury of a king is like messengers of death,  
-But a wise person will appease it.
+A king’s wrath is a messenger of death, but a wise person will appease it.
 
 ## Proverbs 16:15
 
-In the light of a king’s face is life,  
-And his favour is like a cloud with the spring rain.
+In the light of a king’s face is life, and his favour is like a cloud bringing spring rain.
 
 ---
 
 ## Proverbs 16:16
 
-How much better it is to get wisdom than gold!  
-And to get understanding is to be chosen above silver.
+How much better to acquire wisdom than gold, and to gain understanding is to be chosen above silver.
 
 ## Proverbs 16:17
 
-The highway of the upright is to turn away from evil;  
-One who watches his way protects his life.
+The highway of the upright turns away from evil; those who guard their way preserve their life.
 
 ## Proverbs 16:18
 
-Pride goes before destruction,  
-And a haughty spirit before stumbling.
+Pride precedes destruction, and a haughty spirit before a fall.
 
 ## Proverbs 16:19
 
-It is better to be humble in spirit with the lowly  
-Than to divide the spoil with the proud.
+It is better to be humble in spirit with the oppressed than to share spoils with the proud.
 
 ## Proverbs 16:20
 
-One who gives attention to the word will find good,  
-And blessed is one who trusts in the Lord.
+Whoever pays attention to instruction will find good, and blessed is the one who trusts in the Lord.
 
 ## Proverbs 16:21
 
-The wise in heart will be called understanding,  
-And sweetness of speech increases persuasiveness.
+The wise in heart are called discerning, and sweetness of speech increases persuasiveness.
 
 ## Proverbs 16:22
 
-Understanding is a fountain of life to those who have it,  
-But the discipline of fools is foolishness.
+Understanding is a fountain of life to those who have it, but the folly of fools brings punishment.
 
 ## Proverbs 16:23
 
-The heart of the wise instructs his mouth  
-And adds persuasiveness to his lips.
+The heart of the wise makes their mouth prudent, and their lips promote learning.
 
 ## Proverbs 16:24
 
-Pleasant words are a honeycomb,  
-Sweet to the soul and healing to the bones.
+Pleasant words are like a honeycomb, sweet to the soul and healing to the bones.
 
 ---
 
 ## Proverbs 16:25
 
-There is a way which seems right to a person,  
-But its end is the way of death.
+There is a way that seems right to a person, but its end leads to death.
 
 ## Proverbs 16:26
 
-A worker’s appetite works for him,  
-For his hunger urges him on.
+A labourer’s appetite works for them; their hunger drives them on.
 
 ## Proverbs 16:27
 
-A worthless person digs up evil,  
-And his speech is like a scorching fire.
+A worthless person plots evil, and their words are like a scorching fire.
 
 ## Proverbs 16:28
 
-A perverse person spreads strife,  
-And a slanderer separates close friends.
+A perverse person stirs up conflict, and a slanderer separates close friends.
 
 ## Proverbs 16:29
 
-A person of violence entices his neighbour  
-And leads him in a way that is not good.
+A violent person entices their neighbour and leads them down a path that is not good.
 
 ## Proverbs 16:30
 
-He who winks his eyes does so to plot perverse things;  
-One who compresses his lips brings evil to pass.
+Whoever winks with their eye is plotting perversity; whoever compresses their lips brings evil to pass.
 
 ## Proverbs 16:31
 
-A grey head is a crown of glory;  
-It is found in the way of righteousness.
+Grey hair is a crown of splendour; it is found in the way of righteousness.
 
 ## Proverbs 16:32
 
-One who is slow to anger is better than the mighty,  
-And one who rules his spirit than one who captures a city.
+Better a patient person than a warrior, one who controls their spirit than one who captures a city.
 
 ## Proverbs 16:33
 
-The lot is cast into the lap,  
-But its every decision is from the Lord.
+The lot is cast into the lap, but its every decision is from the Lord.

@@ -2,74 +2,74 @@
 
 ## Job 26:1
 
-Then Job responded,
+Then Job answered,
 
 ## Job 26:2
 
-> “What a help you are to the weak!  
-> You have saved the arm without strength!
+> “What assistance you have given to the weak!
+> How you have strengthened the arm that lacks power!
 
 ## Job 26:3
 
-> What advice you have given to one without wisdom!  
-> What helpful insight you have abundantly provided!
+> What counsel you have provided to the one without wisdom!
+> What abundant insight you have shown!
 
 ## Job 26:4
 
-> To whom have you uttered words?  
-> And whose spirit was expressed through you?
+> Whom did you address with these words?
+> And whose spirit has spoken through you?
 
 ---
 
 ## Job 26:5
 
-> The departed spirits tremble  
-> Under the waters and their inhabitants.
+> “The spirits of the departed tremble
+> beneath the waters and their inhabitants.
 
 ## Job 26:6
 
-> Sheol is naked before Him,  
-> And Abaddon has no covering.
+> The realm of Sheol is exposed before Him;
+> Abaddon is laid bare.
 
 ## Job 26:7
 
-> He stretches out the north over empty space,  
-> And hangs the earth on nothing.
+> He stretches out the northern skies over the void
+> and suspends the earth upon nothing.
 
 ## Job 26:8
 
-> He wraps up the waters in His clouds,  
-> And the cloud does not burst under them.
+> He binds up the waters in His clouds,
+> yet the clouds do not burst under their weight.
 
 ## Job 26:9
 
-> He obscures the face of the full moon  
-> And spreads His cloud over it.
+> He conceals the face of the full moon,
+> spreading His cloud over it.
 
 ## Job 26:10
 
-> He has inscribed a circle on the surface of the waters  
-> At the boundary of light and darkness.
+> He has drawn a circle on the surface of the waters,
+> marking the boundary between light and darkness.
 
 ## Job 26:11
 
-> The pillars of heaven tremble  
-> And are amazed at His rebuke.
+> The pillars of the heavens shake,
+> astounded at His rebuke.
 
 ## Job 26:12
 
-> With His power He quieted the sea,  
-> And by His understanding He shattered Rahab.
+> By His power, He stirs the sea;
+> by His wisdom, He shattered Rahab.
 
 ## Job 26:13
 
-> By His breath the heavens are cleared;  
-> His hand has pierced the fleeing serpent.
+> By His breath, the skies are made clear;
+> His hand pierced the swift serpent.
 
 ---
 
 ## Job 26:14
 
-> Behold, these are only the fringes of His ways,  
-> And how faint a word we hear of Him!  
-> But His mighty thunder, who can understand?”
+> Indeed, these are but the edges of His ways;
+> and how faint is the whisper we hear of Him!
+> But the thunder of His power, who can comprehend?”

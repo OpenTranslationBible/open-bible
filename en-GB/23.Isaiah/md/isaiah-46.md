@@ -1,73 +1,40 @@
 # Isaiah Chapter 46
 
-## Isaiah 46:1  
-Bel has bowed down, Nebo stoops over;  
-Their images are consigned to the animals and the cattle.  
-The things that you carry are burdensome,  
-A load for the weary animal.
+## Isaiah 46:1
+Bel bows down, Nebo stoops over; their idols are carried by beasts and cattle. The images that you carry are burdensome, a load for the weary.
 
-## Isaiah 46:2  
-They stooped over, they have bowed down together;  
-They could not rescue the burden,  
-But have themselves gone into captivity.
+## Isaiah 46:2
+They stoop and bow down together; they cannot rescue the burden, and they themselves go into captivity.
 
-## Isaiah 46:3  
-Listen to Me, house of Jacob,  
-And all the remnant of the house of Israel,  
-You who have been carried by Me from birth  
-And have been carried from the womb;
+## Isaiah 46:3
+“Listen to me, house of Jacob, all the remnant of the people of Israel, you who have been upheld by me since birth and carried from the womb.
 
-## Isaiah 46:4  
-Even to your old age I will be the same,  
-And even to your graying years I will carry you!  
-I have done it, and I will bear you;  
-I will carry you and I will save you.
+## Isaiah 46:4
+Even to your old age and grey hairs I will be the same; I am he who will carry you. I have made you and I will bear you; I will carry and save you.
 
-## Isaiah 46:5  
-To whom would you liken Me  
-And make Me equal, and compare Me,  
-That we would be alike?
+## Isaiah 46:5
+“To whom will you liken me or make me equal? To whom will you compare me that we may be alike?
 
-## Isaiah 46:6  
-Those who lavish gold from the bag  
-And weigh silver on the scale,  
-Hire a goldsmith, and he makes it into a god;  
-They bow down, they also worship it.
+## Isaiah 46:6
+Some pour out gold from their bags and weigh out silver on the scales; they hire a goldsmith to make it into a god, and they bow down and worship it.
 
-## Isaiah 46:7  
-They lift it on the shoulder, carry it,  
-And set it in its place, and it stands there.  
-It does not move from its place.  
-Though one may shout to it, it cannot answer;  
-It cannot save him from his distress.
+## Isaiah 46:7
+They lift it to their shoulders and carry it; they set it in its place, and there it stands. It cannot move from its spot. Though one cries out to it, it cannot answer; it cannot save them from their distress.
 
-## Isaiah 46:8  
-Remember this, and be assured;  
-Recall it to mind, you wrongdoers.
+## Isaiah 46:8
+“Remember this, keep it in mind; take it to heart, you wrongdoers.
 
-## Isaiah 46:9  
-Remember the former things long past,  
-For I am God, and there is no other;  
-I am God, and there is no one like Me,
+## Isaiah 46:9
+Remember the former things, those of long ago; for I am God, and there is no other; I am God, and there is none like me.
 
-## Isaiah 46:10  
-Declaring the end from the beginning,  
-And from ancient times things which have not been done,  
-Saying, ‘My plan will be established,  
-And I will accomplish all My good pleasure’;
+## Isaiah 46:10
+I declare the end from the beginning, from ancient times what is still to come. I say, ‘My purpose will stand, and I will accomplish all that I please.’
 
-## Isaiah 46:11  
-Calling a bird of prey from the east,  
-The man of My purpose from a distant country.  
-Truly I have spoken; truly I will bring it to pass.  
-I have planned it, I will certainly do it.
+## Isaiah 46:11
+Calling a bird of prey from the east, a man for my purpose from a distant land. What I have spoken, I will bring about; what I have planned, I will certainly do.
 
-## Isaiah 46:12  
-Listen to Me, you stubborn-minded,  
-Who are far from righteousness.
+## Isaiah 46:12
+“Listen to me, you stubborn-hearted, you who are far from righteousness.
 
-## Isaiah 46:13  
-I bring near My righteousness, it is not far off;  
-And My salvation will not delay.  
-And I will grant salvation in Zion,  
-And My glory for Israel.
+## Isaiah 46:13
+I am bringing my righteousness near, it is not far away; and my salvation will not delay. I will grant salvation to Zion, my glory to Israel.

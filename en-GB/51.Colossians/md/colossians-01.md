@@ -1,119 +1,88 @@
 # Colossians Chapter 1
 
 ## Colossians 1:1
-
 Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
 
 ## Colossians 1:2
-
-To the saints and faithful brothers and sisters in Christ at Colossae:  
-Grace to you and peace from God our Father.
+To the holy and faithful brothers and sisters in Christ at Colossae: Grace and peace to you from God our Father.
 
 ## Colossians 1:3
-
-We give thanks to God, the Father of our Lord Jesus Christ, praying always for you,
+We always give thanks to God, the Father of our Lord Jesus Christ, when we pray for you,
 
 ## Colossians 1:4
-
-Since we heard of your faith in Christ Jesus and the love which you have for all the saints;
+since we heard of your faith in Christ Jesus and the love you have for all the saints—
 
 ## Colossians 1:5
-
-Because of the hope reserved for you in heaven, of which you previously heard in the word of truth, the gospel
+because of the hope reserved for you in heaven, which you have already heard about in the true message of the gospel
 
 ## Colossians 1:6
-
-Which has come to you, just as in all the world also it is bearing fruit and increasing, even as it has been doing in you also since the day you heard it and understood the grace of God in truth;
+that has come to you. In the same way, the gospel is bearing fruit and growing throughout the whole world, just as it has been doing among you since the day you heard it and truly understood God's grace.
 
 ## Colossians 1:7
-
-Just as you learned it from Epaphras, our beloved fellow bond-servant, who is a faithful servant of Christ on our behalf,
+You learned it from Epaphras, our dear fellow servant, who is a faithful minister of Christ on our behalf,
 
 ## Colossians 1:8
-
-And he also informed us of your love in the Spirit.
+and who also informed us of your love in the Spirit.
 
 ## Colossians 1:9
-
-For this reason we also, since the day we heard about it, have not ceased praying for you and asking that you may be filled with the knowledge of His will in all spiritual wisdom and understanding,
+For this reason, since the day we heard about you, we have not stopped praying for you and asking God to fill you with the knowledge of his will through all spiritual wisdom and understanding,
 
 ## Colossians 1:10
-
-So that you will walk in a manner worthy of the Lord, to please Him in all respects, bearing fruit in every good work and increasing in the knowledge of God;
+so that you may live a life worthy of the Lord and please him in every way: bearing fruit in every good work and growing in the knowledge of God;
 
 ## Colossians 1:11
-
-Strengthened with all power, according to His glorious might, for the attaining of all perseverance and patience; joyously
+being strengthened with all power according to his glorious might so that you may have great endurance and patience, joyously
 
 ## Colossians 1:12
-
-Giving thanks to the Father, who has qualified us to share in the inheritance of the saints in light.
+giving thanks to the Father, who has qualified you to share in the inheritance of the saints in the kingdom of light.
 
 ## Colossians 1:13
-
-For He rescued us from the domain of darkness, and transferred us to the kingdom of His beloved Son,
+For he has rescued us from the dominion of darkness and transferred us into the kingdom of the Son he loves,
 
 ## Colossians 1:14
-
-In whom we have redemption, the forgiveness of sins.
+in whom we have redemption, the forgiveness of sins.
 
 ## Colossians 1:15
-
-He is the image of the invisible God, the firstborn of all creation.
+The Son is the image of the invisible God, the firstborn over all creation.
 
 ## Colossians 1:16
-
-For by Him all things were created, both in the heavens and on earth, visible and invisible, whether thrones, or dominions, or rulers, or authorities—  
-All things have been created through Him and for Him.
+For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities; all things have been created through him and for him.
 
 ## Colossians 1:17
-
-He is before all things, and in Him all things hold together.
+He is before all things, and in him all things hold together.
 
 ## Colossians 1:18
-
-He is also the head of the body, the church; and He is the beginning, the firstborn from the dead, so that He Himself will come to have first place in everything.
+And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy.
 
 ## Colossians 1:19
-
-For it was the Father’s good pleasure for all the fullness to dwell in Him,
+For it was the Father's good pleasure for all his fullness to dwell in him,
 
 ## Colossians 1:20
-
-And through Him to reconcile all things to Himself, whether things on earth or things in heaven, having made peace through the blood of His cross.
+and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.
 
 ## Colossians 1:21
-
-And although you were previously alienated and hostile in attitude, engaged in evil deeds,
+Once you were alienated from God and hostile in your minds, engaged in evil deeds,
 
 ## Colossians 1:22
-
-Yet He has now reconciled you in His body of flesh through death, in order to present you before Him holy and blameless and beyond reproach—
+but now he has reconciled you by Christ's physical body through death to present you holy in his sight, without blemish and free from accusation—
 
 ## Colossians 1:23
-
-If indeed you continue in the faith, firmly established and steadfast, and not shifting from the hope of the gospel that you have heard, which was proclaimed in all creation under heaven, and of which I, Paul, was made a minister.
+if you continue in your faith, established and firm, and do not move from the hope held out in the gospel. This is the gospel that you heard and that has been proclaimed to every creature under heaven, and of which I, Paul, have become a servant.
 
 ## Colossians 1:24
-
-Now I rejoice in my sufferings for your sake, and I fill up in my flesh what is lacking in Christ’s afflictions, for the sake of His body, which is the church,
+Now I rejoice in my sufferings for your sake, and in my flesh I am filling up what is lacking in regard to Christ's afflictions, for the sake of his body, which is the church.
 
 ## Colossians 1:25
-
-Of which I was made a minister according to the commission from God granted to me for your benefit, so that I might fully carry out the preaching of the word of God,
+I have become its servant by the commission God gave me to present to you the word of God in its fullness—
 
 ## Colossians 1:26
-
-That is, the mystery which had been hidden from the past ages and generations, but now has been revealed to His saints,
+the mystery that has been kept hidden for ages and generations, but is now disclosed to the Lord's people.
 
 ## Colossians 1:27
-
-To whom God willed to make known what the wealth of the glory of this mystery among the Gentiles is, the mystery that is Christ in you, the hope of glory.
+To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.
 
 ## Colossians 1:28
-
-We proclaim Him, admonishing every person and teaching every person with all wisdom, so that we may present every person complete in Christ.
+He is the one we proclaim, admonishing and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ.
 
 ## Colossians 1:29
-
-For this purpose I also labour, striving according to His power, which works mightily within me.
+To this end I labour, striving with all the energy Christ so powerfully works in me.

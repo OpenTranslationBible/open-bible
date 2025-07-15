@@ -2,242 +2,204 @@
 
 ## John 5:1
 
-After these things there was a feast of the Jews, and Jesus went up to Jerusalem.
+After these events, there was a Jewish festival, and Jesus went up to Jerusalem.
 
 ## John 5:2
 
-Now in Jerusalem, by the Sheep Gate, there is a pool, which in Hebrew is called Bethesda,  
-having five porticoes.
+In Jerusalem, by the Sheep Gate, there is a pool, which in Aramaic is called Bethesda, surrounded by five colonnades.
 
 ## John 5:3
 
-In these porticoes lay a multitude of those who were sick, blind, limping, or paralysed.
+In these colonnades lay a multitude of those who were sick, blind, lame, or paralysed.
 
 ## John 5:4
 
-[For an angel of the Lord would come down at certain seasons into the pool and stir up the water;
-whoever then first, after the stirring up of the water, stepped in was made well from whatever disease with which he was afflicted.]
+[4]
 
 ## John 5:5
 
-Now a man was there who had been ill for thirty-eight years.
+One man was there who had been an invalid for thirty-eight years.
 
 ## John 5:6
 
-Jesus, upon seeing this man lying there, and knowing that he had already been in that condition for a long time,  
-_said to him_, “Do you want to get well?”
+When Jesus saw him lying there and knew he had been in that condition for a long time, he asked him, “Do you want to get well?”
 
 ## John 5:7
 
-The sick man answered Him,  
-“Sir, I have no one to put me into the pool when the water is stirred up,  
-but while I am coming, another steps down before me.”
+The sick man answered, “Sir, I have no one to help me into the pool when the water is stirred. While I am trying to get in, someone else steps down before me.”
 
 ## John 5:8
 
-Jesus _said to him_,  
-“Get up, pick up your mat, and walk.”
+Jesus said to him, “Get up, pick up your mat and walk.”
 
 ## John 5:9
 
-Immediately the man became well, and picked up his mat and began to walk.  
-Now it was a Sabbath on that day.
+Immediately the man was healed; he picked up his mat and walked. Now that day was a Sabbath.
 
 ---
 
 ## John 5:10
 
-So the Jews were saying to the man who was cured,  
-“It is a Sabbath, and it is not permissible for you to carry your mat.”
+So the Jewish leaders said to the man who had been healed, “It is the Sabbath; it is not lawful for you to carry your mat.”
 
 ## John 5:11
 
-But he answered them,  
-“The man who made me well was the one who said to me, ‘Pick up your mat and walk.’”
+But he replied, “The man who made me well said to me, ‘Pick up your mat and walk.’”
 
 ## John 5:12
 
-They asked him,  
-“Who is the man who said to you, ‘Pick it up and walk’?”
+They asked him, “Who is the man who told you to pick it up and walk?”
 
 ## John 5:13
 
-But the man who was healed did not know who it was,  
-for Jesus had slipped away while there was a crowd in that place.
+The man who was healed did not know who it was, for Jesus had slipped away into the crowd.
 
 ---
 
 ## John 5:14
 
-Afterward, Jesus _found him in the temple_ and said to him,  
-“Behold, you have become well; do not sin anymore, so that nothing worse happens to you.”
+Later Jesus found him at the temple and said, “Look, you are well again. Stop sinning or something worse may happen to you.”
 
 ## John 5:15
 
-The man went away, and informed the Jews that it was Jesus who had made him well.
+The man went away and informed the Jewish leaders that it was Jesus who had made him well.
 
 ## John 5:16
 
-For this reason the Jews were persecuting Jesus, because He was doing these things on a Sabbath.
+For this reason, the Jewish leaders began to persecute Jesus, because he was doing these things on the Sabbath.
 
 ## John 5:17
 
-But He answered them,  
-“My Father is working until now, and I Myself am working.”
+But Jesus answered them, “My Father is working until now, and I am working too.”
 
 ## John 5:18
 
-For this reason therefore the Jews were seeking all the more to kill Him,  
-because He not only was breaking the Sabbath,  
-but also was calling God His own Father, making Himself equal with God.
+For this reason, they sought all the more to kill him, because he was not only breaking the Sabbath but also calling God his own Father, making himself equal with God.
 
 ---
 
 ## John 5:19
 
-Therefore Jesus answered and was saying to them,  
-“Truly, truly I say to you, the Son can do nothing of Himself,  
-unless it is something He sees the Father doing;  
-for whatever the Father does, these things the Son also does in the same way.
+Therefore, Jesus responded, “Truly, truly, I say to you, the Son can do nothing by himself; he can only do what he sees the Father doing, for whatever the Father does, the Son does likewise.
 
 ## John 5:20
 
-For the Father loves the Son, and shows Him all the things that He Himself is doing;  
-and the Father will show Him greater works than these, so that you will be amazed.
+For the Father loves the Son and shows him all he does. He will show him even greater works than these, so that you will be amazed.
 
 ## John 5:21
 
-For just as the Father raises the dead and gives them life,  
-so the Son also gives life to whom He wishes.
+For just as the Father raises the dead and gives them life, so the Son gives life to whom he wishes.
 
 ## John 5:22
 
-For not even the Father judges anyone, but He has given all judgment to the Son,
+Moreover, the Father judges no one, but has entrusted all judgement to the Son,
 
 ## John 5:23
 
-so that all will honour the Son just as they honour the Father.  
-The one who does not honour the Son does not honour the Father who sent Him.
+so that all may honour the Son just as they honour the Father. Whoever does not honour the Son does not honour the Father who sent him.
 
 ---
 
 ## John 5:24
 
-“Truly, truly I say to you,  
-the one who hears My word and believes Him who sent Me has eternal life,  
-and does not come into judgment, but has passed out of death into life.
+“Truly, truly, I say to you, whoever hears my word and believes him who sent me has eternal life and will not be judged but has crossed over from death to life.
 
 ## John 5:25
 
-Truly, truly I say to you, a time is coming, and even now has arrived,  
-when the dead will hear the voice of the Son of God, and those who hear will live.
+Truly, truly, I say to you, a time is coming and has now come when the dead will hear the voice of the Son of God, and those who hear will live.
 
 ## John 5:26
 
-For just as the Father has life in Himself,  
-so He gave to the Son also to have life in Himself;
+For just as the Father has life in himself, so he has granted the Son also to have life in himself.
 
 ## John 5:27
 
-and He gave Him authority to execute judgment, because He is the Son of Man.
+And he has given him authority to execute judgement, because he is the Son of Man.
 
 ## John 5:28
 
-Do not be amazed at this;  
-for a time is coming when all who are in the tombs will hear His voice,
+Do not be amazed at this, for a time is coming when all who are in their graves will hear his voice
 
 ## John 5:29
 
-and will come out: those who did the good deeds to a resurrection of life,  
-those who committed the bad deeds to a resurrection of judgment.
+and will come out—those who have done what is good will rise to live, and those who have done what is evil will rise to be condemned.
 
 ---
 
 ## John 5:30
 
-“I can do nothing on My own.  
-As I hear, I judge; and My judgment is righteous,  
-because I do not seek My own will but the will of Him who sent Me.
+By myself I can do nothing; I judge only as I hear, and my judgement is just, for I seek not to please myself but him who sent me.
 
 ## John 5:31
 
-If I alone testify about Myself, My testimony is not true.
+“If I testify about myself, my testimony is not valid.
 
 ## John 5:32
 
-There is another who testifies about Me, and I know that the testimony which He gives about Me is true.
+There is another who testifies in my favour, and I know that his testimony about me is true.
 
 ---
 
 ## John 5:33
 
-You have sent messengers to John, and he has testified to the truth.
+You have sent to John, and he has testified to the truth.
 
 ## John 5:34
 
-But the testimony I receive is not from man,  
-rather, I say these things so that you may be saved.
+Not that I accept human testimony, but I mention it that you may be saved.
 
 ## John 5:35
 
-He was the lamp that was burning and shining,  
-and you were willing to rejoice for a while in his light.
+John was a lamp that burned and gave light, and you chose for a time to enjoy his light.
 
 ## John 5:36
 
-But the testimony I have is greater than the testimony of John;  
-for the works which the Father has given Me to accomplish—these very works that I do—  
-testify about Me, that the Father has sent Me.
+But I have a testimony greater than that of John. For the works that the Father has given me to complete—the very works I am doing—testify that the Father has sent me.
 
 ---
 
 ## John 5:37
 
-And the Father who sent Me, He has testified about Me.  
-You have neither heard His voice at any time, nor seen His form.
+And the Father who sent me has himself testified concerning me. You have never heard his voice nor seen his form,
 
 ## John 5:38
 
-Also you do not have His word remaining in you, because you do not believe Him whom He sent.
+nor does his word dwell in you, for you do not believe the one he sent.
 
 ## John 5:39
 
-You examine the Scriptures because you think that in them you have eternal life;  
-and it is those very Scriptures that testify about Me;
+You study the Scriptures diligently because you think that in them you have eternal life. These are the very Scriptures that testify about me,
 
 ## John 5:40
 
-and yet you are unwilling to come to Me so that you may have life.
+yet you refuse to come to me to have life.
 
 ---
 
 ## John 5:41
 
-I do not receive glory from people;
+I do not accept glory from people,
 
 ## John 5:42
 
-but I know you, that you do not have the love of God in yourselves.
+but I know you. I know that you do not have the love of God in your hearts.
 
 ## John 5:43
 
-I have come in My Father’s name, and you do not receive Me;  
-if another comes in his own name, you will receive him.
+I have come in my Father’s name, and you do not accept me; but if someone else comes in his own name, you will accept him.
 
 ## John 5:44
 
-How can you believe, when you accept glory from one another  
-and you do not seek the glory that is from the one and only God?
+How can you believe, since you accept glory from one another but do not seek the glory that comes from the only God?
 
 ## John 5:45
 
-Do not think that I will accuse you before the Father;  
-the one who accuses you is Moses, in whom you have put your hope.
+Do not think I will accuse you before the Father. Your accuser is Moses, on whom your hopes are set.
 
 ## John 5:46
 
-For if you believed Moses, you would believe Me; for he wrote about Me.
+If you believed Moses, you would believe me, for he wrote about me.
 
 ## John 5:47
 
-But if you do not believe his writings, how will you believe My words?”
+But since you do not believe what he wrote, how will you believe what I say?”

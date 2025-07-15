@@ -1,101 +1,100 @@
 # Numbers Chapter 13
 
 ## Numbers 13:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Numbers 13:2
-“Send some men to explore the land of Canaan, which I am giving to the Israelites. Send one leader from each ancestral tribe.”
+“Send men to explore the land of Canaan, which I am giving to the Israelites. You shall send a man from each of their fathers’ tribes, each one a leader among them.”
 
 ## Numbers 13:3
-At the Lord’s command, Moses sent them from the Desert of Paran. All of them were leaders among the Israelites.
+So at the Lord’s command, Moses sent them from the wilderness of Paran, all of them leaders of the Israelites.
 
 ## Numbers 13:4
-These are their names: from Reuben, Shammua son of Zakkur;
+These were their names: from the tribe of Reuben, Shammua son of Zakkur;
 
 ## Numbers 13:5
-from Simeon, Shaphat son of Hori;
+from the tribe of Simeon, Shaphat son of Hori;
 
 ## Numbers 13:6
-from Judah, Caleb son of Jephunneh;
+from the tribe of Judah, Caleb son of Jephunneh;
 
 ## Numbers 13:7
-from Issachar, Igal son of Joseph;
+from the tribe of Issachar, Igal son of Joseph;
 
 ## Numbers 13:8
-from Ephraim, Hoshea son of Nun;
+from the tribe of Ephraim, Hoshea son of Nun;
 
 ## Numbers 13:9
-from Benjamin, Palti son of Raphu;
+from the tribe of Benjamin, Palti son of Raphu;
 
 ## Numbers 13:10
-from Zebulun, Gaddiel son of Sodi;
+from the tribe of Zebulun, Gaddiel son of Sodi;
 
 ## Numbers 13:11
-from Manasseh, Gaddi son of Susi;
+from the tribe of Manasseh (a tribe of Joseph), Gaddi son of Susi;
 
 ## Numbers 13:12
-from Dan, Ammiel son of Gemalli;
+from the tribe of Dan, Ammiel son of Gemalli;
 
 ## Numbers 13:13
-from Asher, Sethur son of Michael;
+from the tribe of Asher, Sethur son of Michael;
 
 ## Numbers 13:14
-from Naphtali, Nahbi son of Vophsi;
+from the tribe of Naphtali, Nahbi son of Vophsi;
 
 ## Numbers 13:15
-from Gad, Geuel son of Maki.
+from the tribe of Gad, Geuel son of Machi.
 
 ## Numbers 13:16
-These were the names of the men Moses sent to explore the land. Moses gave Hoshea son of Nun the name Joshua.
+These are the names of the men Moses sent to explore the land. But Moses gave Hoshea son of Nun the name Joshua.
 
 ## Numbers 13:17
-When Moses sent them to explore Canaan, he said, “Go up through the Negev and into the hill country.
+When Moses sent them to explore the land of Canaan, he instructed them, “Go up through the Negev and then into the hill country.
 
 ## Numbers 13:18
-See what the land is like and whether the people who live there are strong or weak, few or many.
+See what the land is like, and whether the people who dwell there are strong or weak, few or many.
 
 ## Numbers 13:19
-What kind of land do they live in? Is it good or bad? What are the towns like? Are they unwalled or fortified?
+What kind of land do they inhabit? Is it good or bad? What are the towns like? Are they unwalled or fortified?
 
 ## Numbers 13:20
-How is the soil? Are there trees? Do your best to bring back some of the fruit of the land.” (It was the season for the first ripe grapes.)
+And how is the soil? Is it fertile or poor? Are there trees on it or not? Be courageous and bring back some of the fruit of the land.” Now it was the season for the first ripe grapes.
 
 ## Numbers 13:21
-So they went up and explored the land from the Desert of Zin as far as Rehob.
+So they went up and explored the land from the wilderness of Zin as far as Rehob, towards Lebo-hamath.
 
 ## Numbers 13:22
-They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai—the descendants of Anak—lived.
+They went up through the Negev and came to Hebron, where Ahiman, Sheshai, and Talmai, the descendants of Anak, were. (Hebron was built seven years before Zoan in Egypt.)
 
 ## Numbers 13:23
-At the Valley of Eshcol they cut off a branch with a single cluster of grapes. It took two men to carry it. They also brought some pomegranates and figs.
+When they reached the Valley of Eshcol, they cut off a branch bearing a single cluster of grapes. Two of them carried it on a pole between them, along with some pomegranates and figs.
 
 ## Numbers 13:24
-That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut there.
+That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut off there.
 
 ## Numbers 13:25
-At the end of forty days they returned from exploring the land.
+At the end of forty days, they returned from exploring the land.
 
 ## Numbers 13:26
-They came back to Moses, Aaron, and the whole Israelite community at Kadesh and reported to them and showed them the fruit.
+They came back to Moses and Aaron and the whole Israelite community at Kadesh in the wilderness of Paran. There they reported to them and to the whole assembly and showed them the fruit of the land.
 
 ## Numbers 13:27
-They said, “We went into the land to which you sent us, and it does flow with milk and honey! Here is its fruit.
+They gave Moses this account: “We went into the land to which you sent us, and it certainly flows with milk and honey. Here is its fruit.
 
 ## Numbers 13:28
-But the people who live there are powerful, and the cities are large and fortified. We even saw descendants of Anak there.
+However, the people who live there are powerful, and the cities are fortified and very large. We even saw the descendants of Anak there.
 
 ## Numbers 13:29
-The Amalekites live in the Negev; the Hittites, Jebusites, and Amorites in the hills; and the Canaanites near the sea and along the Jordan.”
+The Amalekites live in the Negev; the Hittites, Jebusites, and Amorites dwell in the hill country; and the Canaanites live near the sea and along the Jordan.”
 
 ## Numbers 13:30
-Then Caleb silenced the people before Moses and said, “We should go up and take possession of the land, for we can certainly do it.”
+Then Caleb silenced the people before Moses and said, “We should go up and take possession of the land, for we can certainly prevail over it.”
 
 ## Numbers 13:31
-But the men who had gone with him said, “We cannot attack those people; they are stronger than we are.”
+But the men who had gone up with him said, “We are not able to go up against the people, for they are stronger than we are.”
 
 ## Numbers 13:32
-And they spread a bad report among the Israelites: “The land devours those living in it. All the people we saw are of great size.
+And they spread among the Israelites a bad report about the land they had explored, saying, “The land we explored devours its inhabitants, and all the people we saw there are of great stature.
 
 ## Numbers 13:33
-We saw the Nephilim there. We seemed like grasshoppers in our own eyes, and we looked the same to them.”
-
+We saw the Nephilim there (the descendants of Anak come from the Nephilim). We seemed like grasshoppers in our own sight, and so we appeared to them.”

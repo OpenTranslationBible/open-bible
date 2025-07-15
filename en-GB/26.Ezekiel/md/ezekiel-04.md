@@ -1,69 +1,52 @@
 # Ezekiel Chapter 4
 
 ## Ezekiel 4:1
-
-“Now you, son of man, take a brick, place it before you, and engrave on it a city, Jerusalem.
+“Now, son of man, take a brick and set it before you, and inscribe upon it a city—Jerusalem.
 
 ## Ezekiel 4:2
-
-Then lay siege against it, build a siege wall, raise a ramp, pitch camps, and place battering rams against it all around.
+Then lay siege against it: construct a siege wall, build a ramp, set up camps, and place battering rams all around it.
 
 ## Ezekiel 4:3
-
-Then take for yourself an iron plate and set it up as an iron wall between you and the city, and direct your face toward it so that it is under siege and besiege it. This is a sign to the house of Israel.
+Then take an iron plate and set it up as an iron wall between yourself and the city, and direct your face toward it. It shall be under siege, and you shall besiege it. This will be a sign to the house of Israel.
 
 ## Ezekiel 4:4
-
-Then lie down on your left side and lay the guilt of the house of Israel on it. For the number of days that you lie on it, you shall bear their guilt.
+“Lie on your left side and place the iniquity of the house of Israel upon it. You shall bear their iniquity for the number of days you lie on it.
 
 ## Ezekiel 4:5
-
-For I have assigned you a number of days corresponding to the years of their guilt, 390 days; so you shall bear the guilt of the house of Israel.
+I have assigned you the same number of days as the years of their iniquity, 390 days; thus you shall bear the iniquity of the house of Israel.
 
 ## Ezekiel 4:6
-
-When you have completed these, you shall lie down a second time, but on your right side and bear the guilt of the house of Judah. I have assigned it to you for forty days, a day for each year.
+When you have completed these days, lie down again, this time on your right side, and bear the iniquity of the house of Judah. I have assigned you forty days, a day for each year.
 
 ## Ezekiel 4:7
-
-Then you shall direct your face toward the siege of Jerusalem with your arm bared, and prophesy against it.
+Direct your face toward the siege of Jerusalem and with bared arm prophesy against it.
 
 ## Ezekiel 4:8
-
-Now behold, I will put ropes upon you so that you cannot turn from one side to the other until you have completed the days of your siege.
+I will bind you with ropes so that you cannot turn from one side to the other until you have completed the days of your siege.
 
 ## Ezekiel 4:9
-
-But as for you, take wheat, barley, beans, lentils, millet, and spelt, put them in one vessel, and make bread for yourself; you shall eat it according to the number of days that you lie on your side, 390 days.
+“Take wheat, barley, beans, lentils, millet, and spelt; place them in a single vessel and make them into bread for yourself. You shall eat it according to the number of days you lie on your side, 390 days.
 
 ## Ezekiel 4:10
-
-Your food which you eat shall be twenty shekels a day by weight; you shall eat it from time to time.
+The food you eat shall be weighed, twenty shekels a day; you shall eat it at set times.
 
 ## Ezekiel 4:11
-
-You shall also drink water by measure, a sixth of a hin; you shall drink it from time to time.
+The water you drink shall be a sixth of a hin by measure; you shall drink it at set times.
 
 ## Ezekiel 4:12
-
-Eat it as a barley cake, baking it in their sight over human dung.”
+You shall eat it as a barley cake, having baked it in their sight over human dung.”
 
 ## Ezekiel 4:13
-
-Then the Lord said, “In this way the sons of Israel will eat their bread unclean among the nations where I will banish them.”
+The Lord said, “In this manner the sons of Israel will eat their bread defiled among the nations where I will scatter them.”
 
 ## Ezekiel 4:14
-
-But I said, “Ah, Lord God! Behold, I have never been defiled; from my youth until now I have never eaten what died of itself or was torn by animals, nor has any impure meat ever entered my mouth!”
+Then I said, “Ah, Lord God! I have never been defiled; from my youth until now I have not eaten anything that died of itself or was torn by animals, nor has any unclean meat entered my mouth.”
 
 ## Ezekiel 4:15
-
-Then He said to me, “See, I will give you cow's dung in place of human dung over which you shall prepare your bread.”
+He said to me, “See, I will give you cow dung instead of human dung, so that you may prepare your bread over it.”
 
 ## Ezekiel 4:16
-
-Moreover, He said to me, “Son of man, behold, I am going to break the staff of bread in Jerusalem, and they will eat bread by weight and with anxiety, and drink water by measure and in horror,
+He then said to me: “Son of man, behold, I am about to break the staff of bread in Jerusalem. They shall eat bread by weight and with anxiety, and drink water by measure and in dismay,
 
 ## Ezekiel 4:17
-
-Because bread and water will be scarce; and they will be appalled with one another and rot away in their guilt.
+because food and water will be scarce. They will look at one another in horror and waste away in their guilt.

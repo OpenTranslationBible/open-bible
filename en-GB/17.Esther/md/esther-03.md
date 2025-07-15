@@ -2,113 +2,66 @@
 
 ## Esther 3:1
 
-After these events King Ahasuerus promoted Haman,  
-the son of Hammedatha the Agagite,  
-and elevated him and established his authority over all the officials who were with him.
+After these events, King Xerxes honoured Haman, son of Hammedatha the Agagite, elevating him and establishing his authority over all the other officials.
 
 ## Esther 3:2
 
-All the king’s servants who were at the king’s gate bowed down and paid homage to Haman,  
-for so the king had commanded concerning him.  
-But Mordecai neither bowed down nor paid homage.
+All the king’s servants at the king’s gate bowed down and paid homage to Haman, for the king had commanded this concerning him. But Mordecai neither bowed down nor paid him homage.
 
 ---
 
 ## Esther 3:3
 
-Then the king’s servants who were at the king’s gate said to Mordecai,  
-“Why are you disobeying the king’s command?”
+Then the king’s servants at the king’s gate asked Mordecai, “Why do you disobey the king’s command?”
 
 ## Esther 3:4
 
-Now it happened, when they had spoken daily to him and he would not listen to them,  
-that they informed Haman,  
-to see whether Mordecai’s reason would stand;  
-for he had told them that he was a Jew.
+Day after day they spoke to him, but he refused to listen. Therefore, they reported it to Haman to see whether Mordecai’s reason would be tolerated, for he had informed them that he was a Jew.
 
 ---
 
 ## Esther 3:5
 
-When Haman saw that Mordecai neither bowed down nor paid homage to him,  
-Haman was filled with rage.
+When Haman saw that Mordecai neither bowed down nor paid him homage, he was filled with rage.
 
 ## Esther 3:6
 
-But he considered it beneath himself to attack Mordecai alone,  
-for they had told him who the people of Mordecai were;  
-so Haman sought to destroy all the Jews,  
-the people of Mordecai, who were throughout the whole kingdom of Ahasuerus.
-
----
+Having learned who Mordecai’s people were, he deemed it beneath him to kill only Mordecai. Instead, Haman sought to destroy all the Jews, the people of Mordecai, throughout the kingdom of Xerxes.
 
 ## Esther 3:7
 
-In the first month (that is, the month Nisan), in the twelfth year of King Ahasuerus,  
-Pur—that is, the lot—was cast before Haman from day to day and from month to month,  
-until the twelfth month (that is, the month Adar).
-
----
+In the twelfth year of King Xerxes, in the first month, the month of Nisan, the pur (that is, the lot) was cast in Haman’s presence to determine the day and month, and the lot fell on the twelfth month, the month of Adar.
 
 ## Esther 3:8
 
-Then Haman said to King Ahasuerus,  
-“There is a certain people scattered and dispersed among the peoples  
-in all the provinces of your kingdom;  
-their laws are different from those of all other people  
-and they do not obey the king’s laws,  
-so it is not in the king’s interest to let them remain.
+Then Haman said to King Xerxes, “There is a certain people scattered and dispersed among the peoples in all the provinces of your kingdom. Their customs are different from all other people, and they do not obey the king’s laws; it is not in the king’s interest to tolerate them.
 
 ## Esther 3:9
 
-If it pleases the king, let it be decreed that they be eliminated,  
-and I will pay ten thousand talents of silver  
-into the hands of those who carry out the king’s business,  
-to be deposited in the king’s treasuries.”
-
----
+If it pleases the king, let a decree be issued to destroy them, and I will pay ten thousand talents of silver into the hands of those who manage the king’s affairs for the royal treasury.”
 
 ## Esther 3:10
 
-Then the king took his signet ring from his hand  
-and gave it to Haman, the son of Hammedatha the Agagite,  
-the enemy of the Jews.
+The king took his signet ring from his hand and gave it to Haman, son of Hammedatha the Agagite, the enemy of the Jews.
 
 ## Esther 3:11
 
-And the king said to Haman,  
-“The silver is yours, and the people also,  
-to do with them as you please.”
+The king said to Haman, “Keep the silver, and do with the people as you please.”
 
 ---
 
 ## Esther 3:12
 
-Then the king’s scribes were summoned on the thirteenth day of the first month,  
-and it was written just as Haman commanded  
-to the king’s satraps, to the governors who were over each province,  
-and to the officials of each people—  
-to every province according to its script and every people according to its language,  
-being written in the name of King Ahasuerus and sealed with the king’s signet ring.
+On the thirteenth day of the first month, the king’s scribes were summoned, and they wrote out all of Haman’s orders to the king’s satraps, the governors of each province, and the officials of every people, each province in its own script and each people in their own language. These were written in the name of King Xerxes and sealed with his ring.
 
 ## Esther 3:13
 
-Letters were sent by couriers to all the king’s provinces  
-to annihilate, kill, and destroy all the Jews, both young and old,  
-women and children, in one day—  
-the thirteenth day of the twelfth month (that is, the month Adar)—  
-and to plunder their possessions.
+Dispatches were sent by couriers to all the king’s provinces with orders to destroy, kill, and annihilate all the Jews—young and old, women and children—on a single day, the thirteenth day of the twelfth month, the month of Adar, and to plunder their goods.
 
 ## Esther 3:14
 
-A copy of the edict, to be issued as law in every province,  
-was published to all the peoples so that they would be ready for this day.
-
----
+A copy of the edict was to be issued as law in every province and made known to all peoples so that they would be ready for that day.
 
 ## Esther 3:15
 
-The couriers went out, speedily by order of the king,  
-and the edict was issued in the citadel of Susa;  
-and while the king and Haman sat down to drink,  
-the city of Susa was in confusion.
+The couriers went out, hastened by the king’s command, and the decree was issued in the citadel of Susa. The king and Haman sat down to drink, but the city of Susa was bewildered.

@@ -1,65 +1,64 @@
 # Exodus Chapter 27
 
 ## Exodus 27:1
-“Build an altar of acacia wood, five cubits long and five cubits wide—it is to be square—and three cubits high.
+“Construct an altar of acacia wood, five cubits in length and five cubits in width; the altar shall be square, with a height of three cubits.
 
 ## Exodus 27:2
-Make a horn at each of the four corners, so that the horns and the altar form one piece. Overlay the altar with bronze.
+Craft horns on its four corners, ensuring that the horns are of one piece with the altar, and overlay it with bronze.
 
 ## Exodus 27:3
-Make all its utensils of bronze—its pots to remove the ashes, shovels, sprinkling bowls, meat forks and firepans.
+Fashion all its utensils of bronze—its pots for removing ashes, its shovels, sprinkling bowls, meat forks, and firepans.
 
 ## Exodus 27:4
-Make a grating for it, a bronze network, and make a bronze ring at each of the four corners of the net.
+Create a grating for it, a bronze network, and make four bronze rings at the four corners of the network.
 
 ## Exodus 27:5
-Put it under the ledge of the altar so that it is halfway up the altar.
+Place it under the ledge of the altar so that the network reaches halfway up the altar.
 
 ## Exodus 27:6
 Make poles of acacia wood for the altar and overlay them with bronze.
 
 ## Exodus 27:7
-Insert the poles into the rings so they will be on two sides of the altar when it is carried.
+Insert the poles into the rings so that they are on the two sides of the altar when it is carried.
 
 ## Exodus 27:8
-Make the altar hollow, out of boards. It is to be made just as you were shown on the mountain.
+Construct it hollow with planks, as it was shown to you on the mountain, so it shall be made.
 
 ## Exodus 27:9
-“Make a courtyard for the tabernacle. The south side shall be a hundred cubits long and is to have curtains of finely twisted linen,
+“Create the courtyard of the tabernacle. The south side shall have hangings of fine twisted linen, a hundred cubits long for one side,
 
 ## Exodus 27:10
-with twenty posts and twenty bronze bases, and with silver hooks and bands on the posts.
+with twenty pillars and twenty bronze bases, with silver hooks and bands on the pillars.
 
 ## Exodus 27:11
-The north side shall also be a hundred cubits long and have twenty posts and twenty bronze bases, with silver hooks and bands on the posts.
+Similarly, the north side shall have hangings a hundred cubits long, with twenty pillars and twenty bronze bases, with silver hooks and bands on the pillars.
 
 ## Exodus 27:12
-The west end of the courtyard shall be fifty cubits wide and have curtains, with ten posts and ten bases.
+For the west side of the courtyard, there shall be hangings fifty cubits wide, with ten pillars and ten bases.
 
 ## Exodus 27:13
-The east end, toward the sunrise, shall also be fifty cubits wide.
+The east side of the courtyard shall also be fifty cubits wide.
 
 ## Exodus 27:14
-Curtains fifteen cubits long are to be on one side of the entrance, with three posts and three bases,
+The hangings for one side of the entrance shall be fifteen cubits, with three pillars and three bases.
 
 ## Exodus 27:15
-and on the other side, fifteen cubits of curtains, with three posts and three bases.
+For the other side, there shall be hangings of fifteen cubits, with three pillars and three bases.
 
 ## Exodus 27:16
-For the entrance to the courtyard, provide a curtain twenty cubits long, of blue, purple and scarlet yarn and finely twisted linen—the work of an embroiderer—with four posts and four bases.
+For the entrance to the courtyard, provide a curtain twenty cubits long, made of blue, purple, and scarlet yarn and fine twisted linen, the work of a skilled craftsman, with four pillars and four bases.
 
 ## Exodus 27:17
-All the posts around the courtyard are to have silver bands and hooks, and bronze bases.
+All the pillars around the courtyard shall have silver bands and hooks, with bronze bases.
 
 ## Exodus 27:18
-The courtyard shall be a hundred cubits long and fifty cubits wide, with curtains of finely twisted linen five cubits high, and with bronze bases.
+The courtyard shall be a hundred cubits long and fifty cubits wide, with a height of five cubits of fine twisted linen, and with bronze bases.
 
 ## Exodus 27:19
-All the other articles used in the service of the tabernacle, including all the tent pegs for it and for the courtyard, are to be made of bronze.
+All the articles used in the service of the tabernacle, including all its pegs and all the pegs of the courtyard, shall be made of bronze.
 
 ## Exodus 27:20
-“Command the Israelites to bring you clear oil of pressed olives for the light so that the lamps may be kept burning.
+“Command the Israelites to bring you clear oil of pressed olives for the light, to keep the lamp burning continually.
 
 ## Exodus 27:21
-In the tent of meeting, outside the curtain that shields the ark of the covenant law, Aaron and his sons shall keep the lamps burning before the Lord from evening till morning. This is to be a lasting ordinance among the Israelites for generations to come.
-
+In the tent of meeting, outside the veil that is before the testimony, Aaron and his sons shall keep the lamps burning from evening until morning before the Lord. This shall be a lasting ordinance for the Israelites throughout their generations.

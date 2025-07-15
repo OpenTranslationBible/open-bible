@@ -2,160 +2,128 @@
 
 ## Proverbs 31:1
 
-The words of King Lemuel, the pronouncement which his mother taught him:
+The sayings of King Lemuel, an inspired message his mother imparted to him:
 
 ## Proverbs 31:2
 
-What, my son? And what, son of my womb?  
-And what, son of my vows?
+What, my son? What, son of my womb? What, son of my vows?
 
 ## Proverbs 31:3
 
-Do not give your strength to women,  
-Or your ways to that which destroys kings.
+Do not give your strength to women, nor your ways to those who ruin kings.
 
 ## Proverbs 31:4
 
-It is not for kings, Lemuel,  
-It is not for kings to drink wine,  
-Or for rulers to desire intoxicating drink,
+It is not for kings, Lemuel, it is not for kings to drink wine, nor for rulers to crave strong drink,
 
 ## Proverbs 31:5
 
-So that they will not drink and forget what is decreed,  
-And pervert the rights of all the needy.
+lest they drink and forget what has been decreed, and pervert the rights of all the oppressed.
 
 ## Proverbs 31:6
 
-Give intoxicating drink to one who is perishing,  
-And wine to one whose life is bitter.
+Let strong drink be given to those who are perishing, and wine to those in bitter distress.
 
 ## Proverbs 31:7
 
-Let him drink and forget his poverty,  
-And not remember his trouble any longer.
+Let them drink and forget their poverty, and remember their trouble no more.
 
 ---
 
 ## Proverbs 31:8
 
-Open your mouth for the people who cannot speak,  
-For the rights of all the unfortunate.
+Speak up for those who cannot speak for themselves, for the rights of all who are destitute.
 
 ## Proverbs 31:9
 
-Open your mouth, judge righteously,  
-And defend the rights of the poor and needy.
+Speak up, judge righteously, and defend the rights of the poor and needy.
 
 ---
 
 ## Proverbs 31:10
 
-An excellent wife, who can find her?  
-For her worth is far above jewels.
+A wife of noble character, who can find her? Her worth is far above rubies.
 
 ## Proverbs 31:11
 
-The heart of her husband trusts in her,  
-And he will have no lack of gain.
+Her husband has full confidence in her, and he will have no lack of gain.
 
 ## Proverbs 31:12
 
-She does him good and not evil  
-All the days of her life.
+She brings him good, not harm, all the days of her life.
 
 ## Proverbs 31:13
 
-She looks for wool and linen,  
-And works with her hands in delight.
+She seeks wool and flax, and works with eager hands.
 
 ## Proverbs 31:14
 
-She is like merchant ships;  
-She brings her food from afar.
+She is like the merchant ships, bringing her food from afar.
 
 ## Proverbs 31:15
 
-She rises while it is still night  
-And gives food to her household,  
-And portions to her attendants.
+She rises while it is still night, and provides food for her household, and portions for her maidservants.
 
 ## Proverbs 31:16
 
-She considers a field and buys it;  
-From her earnings she plants a vineyard.
+She considers a field and buys it; from her earnings she plants a vineyard.
 
 ## Proverbs 31:17
 
-She surrounds her waist with strength  
-And makes her arms strong.
+She girds herself with strength and makes her arms strong.
 
 ## Proverbs 31:18
 
-She senses that her gain is good;  
-Her lamp does not go out at night.
+She perceives that her trading is profitable, and her lamp does not go out at night.
 
 ## Proverbs 31:19
 
-She stretches out her hands to the distaff,  
-And her hands grasp the spindle.
+She lays her hands to the distaff, and her hands hold the spindle.
 
 ## Proverbs 31:20
 
-She extends her hand to the poor,  
-And she stretches out her hands to the needy.
+She opens her arms to the poor, and extends her hands to the needy.
 
 ## Proverbs 31:21
 
-She is not afraid of the snow for her household,  
-For all her household are clothed with scarlet.
+She has no fear for her household when it snows, for all of them are clothed in scarlet.
 
 ## Proverbs 31:22
 
-She makes coverings for herself;  
-Her clothing is fine linen and purple.
+She makes coverings for her bed; her clothing is fine linen and purple.
 
 ## Proverbs 31:23
 
-Her husband is known in the gates,  
-When he sits among the elders of the land.
+Her husband is respected at the city gates, where he takes his seat among the elders of the land.
 
 ## Proverbs 31:24
 
-She makes linen garments and sells them,  
-And supplies belts to the tradesmen.
+She makes linen garments and sells them, and supplies the merchants with sashes.
 
 ## Proverbs 31:25
 
-Strength and dignity are her clothing,  
-And she smiles at the future.
+Strength and dignity are her clothing, and she can laugh at the days to come.
 
 ## Proverbs 31:26
 
-She opens her mouth in wisdom,  
-And the teaching of kindness is on her tongue.
+She opens her mouth with wisdom, and the teaching of kindness is on her tongue.
 
 ## Proverbs 31:27
 
-She watches over the activities of her household,  
-And does not eat the bread of idleness.
+She watches over the affairs of her household, and does not eat the bread of idleness.
 
 ## Proverbs 31:28
 
-Her children rise up and bless her;  
-Her husband also, and he praises her, saying:
+Her children arise and call her blessed; her husband also, and he praises her:
 
 ## Proverbs 31:29
 
-“Many daughters have done nobly,  
-But you excel them all.”
+“Many women do noble things, but you surpass them all.”
 
 ## Proverbs 31:30
 
-Charm is deceitful and beauty is vain,  
-But a woman who fears the Lord, she shall be praised.
+Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.
 
 ## Proverbs 31:31
 
-Give her the product of her hands,  
-And let her works praise her in the gates.
+Honour her for all that her hands have done, and let her works bring her praise at the city gates.

@@ -2,114 +2,114 @@
 
 ## Job 8:1
 
-Then Bildad the Shuhite responded,
+Then Bildad the Shuhite answered,
 
 ## Job 8:2
 
-> “How long will you say these things,  
-> And the words of your mouth be a mighty wind?
+> “How long will you speak such things,
+> and the words of your mouth be a strong wind?
 
 ## Job 8:3
 
-> Does God pervert justice?  
-> Or does the Almighty pervert what is right?
+> Does God distort justice?
+> Or does the Almighty twist what is right?
 
 ## Job 8:4
 
-> If your sons sinned against Him,  
-> Then He turned them over to the power of their wrongdoing.
+> If your children sinned against Him,
+> He delivered them to the consequences of their transgression.
 
 ## Job 8:5
 
-> If you will seek God  
-> And plead for the compassion of the Almighty,
+> But if you seek God earnestly
+> and plead for the mercy of the Almighty,
 
 ## Job 8:6
 
-> If you are pure and upright,  
-> Surely now He will stir Himself for you  
-> And restore your rightful habitation.
+> if you are pure and upright,
+> surely He will rouse Himself on your behalf
+> and restore your rightful place.
 
 ## Job 8:7
 
-> Though your beginning was insignificant,  
-> Yet your end will increase greatly.
+> Though your beginnings seemed small,
+> your future will flourish greatly.
 
 ---
 
 ## Job 8:8
 
-> “Please inquire of past generations,  
-> And consider the findings of their ancestors.
+> “Inquire of former generations,
+> and consider what their ancestors discovered,
 
 ## Job 8:9
 
-> For we are only of yesterday and know nothing,  
-> Because our days on earth are as a shadow.
+> for we are but of yesterday and know nothing,
+> as our days on earth are a mere shadow.
 
 ## Job 8:10
 
-> Will they not teach you and tell you,  
-> And bring forth words from their minds?
+> Will they not instruct you and speak to you,
+> bringing forth words from their understanding?
 
 ## Job 8:11
 
-> Can papyrus grow tall without a marsh?  
-> Can the reeds grow without water?
+> Can papyrus grow tall without a marsh?
+> Can reeds thrive without water?
 
 ## Job 8:12
 
-> While it is still green and not cut down,  
-> Yet it withers before any other plant.
+> While still green and uncut,
+> they wither faster than any other plant.
 
 ## Job 8:13
 
-> So are the paths of all who forget God;  
-> And the hope of the godless will perish,
+> Such is the fate of all who forget God;
+> the hope of the godless shall perish.
 
 ## Job 8:14
 
-> Whose confidence is fragile,  
-> And whose trust is a spider’s web.
+> Their confidence is fragile,
+> and their trust is like a spider’s web.
 
 ## Job 8:15
 
-> He leans against his house, but it does not stand;  
-> He holds on to it, but it does not endure.
+> They lean on their house, but it does not stand;
+> they hold fast to it, but it does not endure.
 
 ## Job 8:16
 
-> He thrives before the sun,  
-> And his shoots spread out over his garden.
+> They are like a plant flourishing in the sunlight,
+> spreading its shoots over the garden.
 
 ## Job 8:17
 
-> His roots wrap around a rock pile,  
-> He grips a house of stones.
+> Its roots entwine around a pile of stones,
+> it seeks a place among the rocks.
 
 ## Job 8:18
 
-> If he is removed from his place,  
-> Then it will deny him, saying, ‘I never saw you.’
+> But if it is uprooted from its place,
+> that place will deny it, saying, ‘I never saw you.’
 
 ## Job 8:19
 
-> Behold, this is the joy of His way;  
-> And out of the dust others will sprout.
+> Surely this is the joy of its way,
+> and from the soil others will sprout.
 
 ---
 
 ## Job 8:20
 
-> Behold, God will not reject a person of integrity,  
-> Nor will He support evildoers.
+> Behold, God will not reject a person of integrity,
+> nor will He support evildoers.
 
 ## Job 8:21
 
-> He will yet fill your mouth with laughter,  
-> And your lips with joyful shouting.
+> He will yet fill your mouth with laughter
+> and your lips with shouts of joy.
 
 ## Job 8:22
 
-> Those who hate you will be clothed with shame,  
-> And the tent of the wicked will no longer exist.”
+> Those who oppose you will be clothed with shame,
+> and the tents of the wicked will be no more.”

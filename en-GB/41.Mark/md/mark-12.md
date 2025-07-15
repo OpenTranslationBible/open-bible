@@ -2,239 +2,189 @@
 
 ## Mark 12:1
 
-And He began to speak to them in parables:  
-“A man planted a vineyard and put a fence around it,  
-and dug a vat under the wine press and built a tower,  
-and he leased it to vine-growers and went on a journey.
+Jesus began to speak to them in parables: “A man planted a vineyard. He put a fence around it, dug a pit for the winepress, and built a tower. Then he leased it to some farmers and went on a journey.
 
 ## Mark 12:2
 
-At the harvest time he sent a slave to the vine-growers,  
-so that he would receive some of the fruit of the vineyard from the vine-growers.
+At harvest time, he sent a servant to the tenants to collect from them some of the fruit of the vineyard.
 
 ## Mark 12:3
 
-But they took him, beat him, and sent him away empty-handed.
+But they seized him, beat him, and sent him away empty-handed.
 
 ## Mark 12:4
 
-Again he sent them another slave, and they wounded him in the head, and treated him shamefully.
+Then he sent another servant to them; they struck him on the head and treated him shamefully.
 
 ## Mark 12:5
 
-And he sent another, and that one they killed;  
-so with many others: beating some and killing others.
+He sent another, and that one they killed. He sent many others; some they beat, others they killed.
 
 ## Mark 12:6
 
-He had one more to send, a beloved son;  
-he sent him to them last of all, saying, ‘They will respect my son.’
+He had one left to send, a beloved son. He sent him last of all, saying, ‘They will respect my son.’
 
 ## Mark 12:7
 
-But those vine-growers said to one another,  
-‘This is the heir; come, let’s kill him, and the inheritance will be ours!’
+But the tenants said to one another, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’
 
 ## Mark 12:8
 
-And they took him and killed him, and threw him out of the vineyard.
+So they took him, killed him, and threw him out of the vineyard.
 
 ## Mark 12:9
 
-What will the owner of the vineyard do?  
-He will come and put the vine-growers to death, and give the vineyard to others.
+What then will the owner of the vineyard do? He will come and put the tenants to death and give the vineyard to others.
 
 ## Mark 12:10
 
-Have you not even read this Scripture:  
-‘A stone which the builders rejected,  
-This has become the chief cornerstone;
+Have you not read this Scripture: ‘The stone the builders rejected has become the cornerstone;
 
 ## Mark 12:11
 
-This came about from the Lord,  
-And it is marvellous in our eyes’?”
+the Lord has done this, and it is marvellous in our eyes’?”
 
 ## Mark 12:12
 
-And they were seeking to seize Him, and yet they feared the crowd,  
-for they understood that He spoke the parable against them.  
-And so they left Him and went away.
+Then the chief priests, the teachers of the law, and the elders looked for a way to arrest him, because they knew he had spoken the parable against them. But they feared the people, so they left him and went away.
 
 ---
 
 ## Mark 12:13
 
-Then they _sent some of the Pharisees and Herodians_ to Him in order to trap Him in a statement.
+Later they sent some of the Pharisees and Herodians to Jesus to catch him in his words.
 
 ## Mark 12:14
 
-They came and _said to Him_,  
-“Teacher, we know that You are truthful and do not care what anyone thinks;  
-for You are not partial to anyone, but You teach the way of God in truth.  
-Is it permissible to pay a poll-tax to Caesar, or not?
+They came and said to him, “Teacher, we know that you are a man of integrity and are not swayed by others, because you do not show partiality, but teach the way of God in accordance with the truth. Is it right to pay the imperial tax to Caesar or not?
 
 ## Mark 12:15
 
-Should we pay or should we not pay?”  
-But He, knowing their hypocrisy, _said to them_,  
-“Why are you testing Me? Bring Me a denarius to look at.”
+Should we pay or shouldn’t we?” But Jesus, knowing their hypocrisy, said, “Why are you trying to trap me? Bring me a denarius to look at.”
 
 ## Mark 12:16
 
-And they brought one. And He _said to them_,  
-“Whose image and inscription is this?”  
-And they said to Him, “Caesar’s.”
+They brought the coin, and he asked them, “Whose image is this? And whose inscription?” “Caesar’s,” they replied.
 
 ## Mark 12:17
 
-And Jesus _said to them_,  
-“Pay to Caesar the things that are Caesar’s,  
-and to God the things that are God’s.”  
-And they were utterly amazed at Him.
+Then Jesus said to them, “Give back to Caesar what is Caesar’s and to God what is God’s.” And they were amazed at him.
 
 ---
 
 ## Mark 12:18
 
-Some Sadducees (who say that there is no resurrection) _came to Jesus_, and began questioning Him, saying,
+Then some Sadducees, who say there is no resurrection, came to him with a question.
 
 ## Mark 12:19
 
-“Teacher, Moses wrote for us that if a man’s brother dies and leaves behind a wife,  
-and does not leave a child, his brother is to marry the wife and raise up children for his brother.
+“Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother.
 
 ## Mark 12:20
 
-There were seven brothers; and the first took a wife, and died leaving no children.
+Now there were seven brothers. The first one married and died without leaving any children.
 
 ## Mark 12:21
 
-The second married her, and died leaving behind no children; and the third likewise;
+The second one married the widow, but he also died, leaving no child. The same happened with the third.
 
 ## Mark 12:22
 
-and so all seven married her and left no children. Last of all the woman also died.
+In fact, none of the seven left any children. Last of all, the woman died too.
 
 ## Mark 12:23
 
-In the resurrection, which one’s wife will she be? For all seven had her as a wife.”
+At the resurrection, whose wife will she be, since the seven were married to her?”
 
 ## Mark 12:24
 
-Jesus _said to them_,  
-“Is this not the reason you are mistaken, that you do not understand the Scriptures, nor the power of God?
+Jesus replied, “Are you not mistaken because you do not know the Scriptures or the power of God?
 
 ## Mark 12:25
 
-For when they rise from the dead, they neither marry nor are given in marriage,  
-but are like angels in heaven.
+When the dead rise, they will neither marry nor be given in marriage; they will be like the angels in heaven.
 
 ## Mark 12:26
 
-But regarding the fact that the dead rise again, have you not read in the book of Moses,  
-in the passage about the burning bush, how God spoke to him, saying,  
-‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
+Now about the dead rising—have you not read in the Book of Moses, in the account of the burning bush, how God said to him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
 
 ## Mark 12:27
 
-He is not the God of the dead, but of the living; you are greatly mistaken.”
+He is not the God of the dead, but of the living. You are greatly mistaken!”
 
 ---
 
 ## Mark 12:28
 
-One of the scribes came up and heard them arguing,  
-and recognising that He had answered them well, asked Him,  
-“What commandment is the foremost of all?”
+One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a good answer, he asked him, “Of all the commandments, which is the most important?”
 
 ## Mark 12:29
 
-Jesus _answered_,  
-“The foremost is, ‘Hear, Israel! The Lord is our God, the Lord is one;
+“The most important one,” answered Jesus, “is this: ‘Hear, O Israel: The Lord our God, the Lord is one.
 
 ## Mark 12:30
 
-and you shall love the Lord your God with all your heart, and with all your soul,  
-and with all your mind, and with all your strength.’
+Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’
 
 ## Mark 12:31
 
-The second is this: ‘You shall love your neighbour as yourself.’  
-There is no other commandment greater than these.”
+The second is this: ‘Love your neighbour as yourself.’ There is no commandment greater than these.”
 
 ## Mark 12:32
 
-And the scribe _said to Him_,  
-“Well said, Teacher; You have truly stated that He is One, and there is no other besides Him;
+“Well said, teacher,” the man replied. “You are right in saying that God is one and there is no other but him.
 
 ## Mark 12:33
 
-and to love Him with all the heart, and with all the understanding, and with all the strength,  
-and to love one’s neighbour as oneself, is much more than all the burnt offerings and sacrifices.”
+To love him with all your heart, with all your understanding and with all your strength, and to love your neighbour as yourself is more important than all burnt offerings and sacrifices.”
 
 ## Mark 12:34
 
-When Jesus saw that he had answered wisely, He _said to him_,  
-“You are not far from the kingdom of God.”  
-And then no one dared any longer to ask Him a question.
+When Jesus saw that he had answered wisely, he said to him, “You are not far from the kingdom of God.” And from then on, no one dared ask him any more questions.
 
 ---
 
 ## Mark 12:35
 
-And Jesus began to say, as He taught in the temple area,  
-“How is it that the scribes say that the Christ is the son of David?
+While Jesus was teaching in the temple courts, he asked, “Why do the teachers of the law say that the Messiah is the son of David?
 
 ## Mark 12:36
 
-David himself said in the Holy Spirit:
+David himself, speaking by the Holy Spirit, declared:
 
-> ‘The Lord said to my Lord,  
-> “Sit at My right hand,  
-> Until I put Your enemies
-> under Your feet.”’
+> ‘The Lord said to my Lord:
+> “Sit at my right hand
+> until I put your enemies
+> under your feet.”’
 
 ## Mark 12:37
 
-David himself calls Him ‘Lord’; so in what sense is He his son?”  
-And the large crowd enjoyed listening to Him.
-
----
+David himself calls him ‘Lord.’ How then can he be his son?” The large crowd listened to him with delight.
 
 ## Mark 12:38
 
-And in His teaching He was saying,  
-“Beware of the scribes who like to walk around in long robes,  
-and like personal greetings in the marketplaces,
+As he taught, Jesus said, “Watch out for the teachers of the law. They like to walk around in long robes and be greeted with respect in the marketplaces,
 
 ## Mark 12:39
 
-and seats of honour in the synagogues, and places of honour at banquets,
+and have the most important seats in the synagogues and the places of honour at banquets.
 
 ## Mark 12:40
 
-who devour widows’ houses, and for appearance’s sake offer long prayers;  
-these will receive all the more condemnation.”
-
----
+They devour widows’ houses and for a show make lengthy prayers. These men will be punished most severely.”
 
 ## Mark 12:41
 
-And Jesus sat down opposite the treasury,  
-and began watching how the people were putting money into the treasury;  
-and many rich people were putting in large amounts.
+Jesus sat down opposite the place where the offerings were put and watched the crowd putting their money into the temple treasury. Many rich people threw in large amounts.
 
 ## Mark 12:42
 
-And a poor widow came and put in two small copper coins, which amount to a cent.
+But a poor widow came and put in two very small copper coins, worth only a few pence.
 
 ## Mark 12:43
 
-Calling His disciples to Him, He _said to them_,  
-“Truly I say to you, this poor widow put in more than all the contributors to the treasury;
+Calling his disciples to him, Jesus said, “Truly I tell you, this poor widow has put more into the treasury than all the others.
 
 ## Mark 12:44
 
-for they all put in out of their surplus,  
-but she, out of her poverty, put in all that she owned, all she had to live on.”
+They all gave out of their wealth; but she, out of her poverty, put in everything—all she had to live on.”

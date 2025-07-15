@@ -2,335 +2,266 @@
 
 ## Lamentations 3:1
 
-I am the man who has seen affliction  
-Because of the rod of His wrath.
+I am the man who has witnessed affliction under the rod of His wrath.
 
 ## Lamentations 3:2
 
-He has driven me and made me walk  
-In darkness and not in light.
+He has driven me away and made me walk in darkness, not light;
 
 ## Lamentations 3:3
 
-Indeed, He has turned His hand against me  
-Repeatedly all the day.
+Indeed, He has turned His hand against me repeatedly throughout the day.
 
 ## Lamentations 3:4
 
-He has worn away my flesh and my skin,  
-He has broken my bones.
+He has caused my skin and my flesh to age, and has shattered my bones.
 
 ## Lamentations 3:5
 
-He has besieged me and surrounded me  
-With bitterness and hardship.
+He has besieged me and encircled me with bitterness and hardship.
 
 ## Lamentations 3:6
 
-He has made me live in dark places,  
-Like those who have long been dead.
+He has made me dwell in darkness, like those long deceased.
 
 ## Lamentations 3:7
 
-He has walled me in so that I cannot go out;  
-He has made my chain heavy.
+He has walled me in so I cannot escape; He has burdened me with chains.
 
 ## Lamentations 3:8
 
-Even when I cry out and call for help,  
-He shuts out my prayer.
+Even when I cry out and call for help, He shuts out my prayer.
 
 ## Lamentations 3:9
 
-He has blocked my ways with cut stone;  
-He has twisted my paths.
+He has obstructed my way with blocks of stone; He has twisted my paths.
 
 ## Lamentations 3:10
 
-He is to me like a bear lying in wait,  
-Like a lion in hiding.
+He is like a bear lying in wait, like a lion in hiding.
 
 ## Lamentations 3:11
 
-He has turned aside my ways and torn me to pieces;  
-He has made me desolate.
+He has led me off the path and torn me to pieces, leaving me desolate.
 
 ## Lamentations 3:12
 
-He bent His bow  
-And set me as a target for the arrow.
+He bent His bow and set me as the target for His arrows.
 
 ## Lamentations 3:13
 
-He made the arrows of His quiver  
-Enter my inward parts.
+He has pierced my heart with arrows from His quiver.
 
 ## Lamentations 3:14
 
-I have become a laughingstock to all my people,  
-Their song of ridicule all the day.
+I have become the laughingstock of all my people; they mock me in song all day long.
 
 ## Lamentations 3:15
 
-He has filled me with bitterness,  
-He has made me drunk with wormwood.
+He has filled me with bitterness and made me drink wormwood.
 
 ## Lamentations 3:16
 
-He has broken my teeth with gravel;  
-He has made me cower in the dust.
+He has broken my teeth with gravel; He has pressed me into the dust.
 
 ## Lamentations 3:17
 
-My soul has been excluded from peace;  
-I have forgotten happiness.
+My soul is bereft of peace; I have forgotten what happiness is.
 
 ## Lamentations 3:18
 
-So I say, “My strength has failed,  
-And so has my hope from the Lord.”
+So I say, “My splendour has perished, and so has my hope from the Lord.”
 
 ---
 
 ## Lamentations 3:19
 
-Remember my misery and my homelessness,  
-The wormwood and bitterness.
+Remember my affliction and my homelessness, the bitterness and the gall.
 
 ## Lamentations 3:20
 
-My soul certainly remembers,  
-And is bent over within me.
+My soul remembers them well and is downcast within me.
 
 ## Lamentations 3:21
 
-I recall this to my mind,  
-Therefore I wait with hope.
+Yet this I call to mind, and therefore I have hope:
 
 ## Lamentations 3:22
 
-The Lord’s acts of mercy indeed do not end,  
-For His compassions do not fail.
+The Lord’s mercies are indeed unending, for His compassions never fail.
 
 ## Lamentations 3:23
 
-They are new every morning;  
-Great is Your faithfulness.
+They are renewed every morning; great is Your faithfulness.
 
 ## Lamentations 3:24
 
-“The Lord is my portion,” says my soul,  
-“Therefore I wait for Him.”
+“The Lord is my portion,” my soul declares, “therefore I will wait for Him.”
 
 ## Lamentations 3:25
 
-The Lord is good to those who wait for Him,  
-To the person who seeks Him.
+The Lord is good to those who hope in Him, to the person who seeks Him.
 
 ## Lamentations 3:26
 
-It is good that he waits silently  
-For the salvation of the Lord.
+It is good to wait quietly for the salvation of the Lord.
 
 ## Lamentations 3:27
 
-It is good for a man  
-That he should bear the yoke in his youth.
+It is good for a man to bear the yoke in his youth.
 
 ## Lamentations 3:28
 
-Let him sit alone and keep quiet,  
-Since He has laid it on him.
+Let him sit alone in silence, for the Lord has laid it upon him.
 
 ## Lamentations 3:29
 
-Let him put his mouth in the dust,  
-Perhaps there is hope.
+Let him bury his face in the dust—perhaps there is hope.
 
 ## Lamentations 3:30
 
-Let him give his cheek to the one who strikes him,  
-Let him be filled with disgrace.
+Let him offer his cheek to the one who strikes him, and let him be filled with disgrace.
 
 ## Lamentations 3:31
 
-For the Lord will not reject forever,
+For the Lord will not cast off forever.
 
 ## Lamentations 3:32
 
-For if He causes grief,  
-Then He will have compassion  
-In proportion to His abundant mercy.
+Though He causes grief, He will show compassion, according to His abundant mercy.
 
 ## Lamentations 3:33
 
-For He does not afflict  
-Or grieve the children of men willingly.
+For He does not willingly afflict or grieve the children of men.
 
 ## Lamentations 3:34
 
-To crush underfoot  
-All the prisoners of the land,
+To crush underfoot all the prisoners of the land,
 
 ## Lamentations 3:35
 
-To deprive a person of justice  
-In the presence of the Most High,
+To deny a person justice before the Most High,
 
 ## Lamentations 3:36
 
-To defraud someone in his lawsuit—  
-Of these things the Lord does not approve.
+To defraud someone in their lawsuit—these things the Lord does not approve.
 
 ## Lamentations 3:37
 
-Who is there who speaks and it comes to pass,  
-Unless the Lord has commanded it?
+Who can speak and have it happen unless the Lord has commanded it?
 
 ## Lamentations 3:38
 
-Is it not from the mouth of the Most High  
-That both adversity and good proceed?
+Is it not from the mouth of the Most High that both adversity and good proceed?
 
 ## Lamentations 3:39
 
-Why should any living person complain,  
-Any man, because of the punishment for his sins?
-
----
+Why should any living person complain when punished for their sins?
 
 ## Lamentations 3:40
 
-Let’s examine and search out our ways,  
-And return to the Lord.
+Let us examine and probe our ways, and let us return to the Lord.
 
 ## Lamentations 3:41
 
-We raise our heart and hands  
-Toward God in heaven;
+Let us lift up our hearts and hands to God in heaven;
 
 ## Lamentations 3:42
 
-We have done wrong and rebelled;  
-You have not forgiven.
+We have sinned and rebelled, and You have not forgiven.
 
 ## Lamentations 3:43
 
-You have covered Yourself with anger  
-And pursued us;  
-You have slain and have not spared.
+You have covered Yourself with anger and pursued us; You have slain without pity.
 
 ## Lamentations 3:44
 
-You have veiled Yourself with a cloud  
-So that no prayer can pass through.
+You have veiled Yourself with a cloud so that no prayer can pass through.
 
 ## Lamentations 3:45
 
-You have made us mere refuse and rubbish  
-In the midst of the peoples.
+You have made us scum and refuse among the peoples.
 
 ## Lamentations 3:46
 
-All our enemies have opened their mouths against us.
+All our enemies have opened their mouths wide against us.
 
 ## Lamentations 3:47
 
-Panic and pitfall have come upon us,  
-Devastation and destruction;
+We have encountered panic and pitfalls, devastation and destruction.
 
 ## Lamentations 3:48
 
-My eyes run down with streams of water  
-Because of the destruction of the daughter of my people.
+Streams of tears flow from my eyes because of the destruction of the daughter of my people.
 
 ## Lamentations 3:49
 
-My eyes pour down unceasingly,  
-Without stopping,
+My eyes will flow unceasingly, without relief,
 
 ## Lamentations 3:50
 
-Until the Lord looks down  
-And sees from heaven.
+Until the Lord looks down from heaven and sees.
 
 ## Lamentations 3:51
 
-My eyes bring pain to my soul  
-Because of all the daughters of my city.
+What I see brings grief to my soul because of all the daughters of my city.
 
 ## Lamentations 3:52
 
-My enemies without reason  
-Hunted me down like a bird;
+Those who were my enemies without cause hunted me like a bird.
 
 ## Lamentations 3:53
 
-They have silenced me in the pit  
-And have placed a stone on me.
+They tried to end my life in a pit and threw stones at me;
 
 ## Lamentations 3:54
 
-Waters flowed over my head;  
-I said, “I am cut off!”
+The waters closed over my head, and I thought I was cut off.
 
 ## Lamentations 3:55
 
-I called on Your name, Lord,  
-Out of the lowest pit.
+I called on Your name, Lord, from the depths of the pit.
 
 ## Lamentations 3:56
 
-You have heard my voice,  
-“Do not hide Your ear from my plea for relief,  
-From my cry for help.”
+You heard my plea: “Do not close Your ears to my cry for relief.”
 
 ## Lamentations 3:57
 
-You came near on the day I called to You;  
-You said, “Do not fear!”
+You came near when I called You, and You said, “Do not fear.”
 
 ## Lamentations 3:58
 
-Lord, You have pleaded my soul’s cause;  
-You have redeemed my life.
+You, Lord, took up my case; You redeemed my life.
 
 ## Lamentations 3:59
 
-Lord, You have seen my oppression;  
-Judge my case.
+Lord, You have seen the wrong done to me. Uphold my cause!
 
 ## Lamentations 3:60
 
-You have seen all their vengeance,  
-All their schemes against me.
+You have seen all their vengeance, all their schemes against me.
 
 ## Lamentations 3:61
 
-You have heard their reproach, Lord,  
-All their schemes against me.
+Lord, You have heard their insults, all their plots against me—
 
 ## Lamentations 3:62
 
-The lips of those who rise up against me,  
-And their whispering are against me all day long.
+The lips of my assailants and their whisperings are against me all day long.
 
 ## Lamentations 3:63
 
-Look at their sitting and their rising;  
-I am their mocking song.
+Observe their sitting and rising; I am their mocking song.
 
 ## Lamentations 3:64
 
-You will repay them, Lord,  
-In accordance with the work of their hands.
+Repay them, Lord, according to the work of their hands.
 
 ## Lamentations 3:65
 
-You will give them dullness of heart,  
-Your curse will be on them.
+Place a veil over their hearts, and may Your curse be upon them!
 
 ## Lamentations 3:66
 
-You will pursue them in anger and eliminate them  
-From under the heavens of the Lord!
+Pursue them in anger and eliminate them from under the heavens of the Lord.

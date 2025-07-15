@@ -1,126 +1,76 @@
 # Proverbs Chapter 13
 
 ## Proverbs 13:1
-
-A wise son accepts his father’s discipline,  
-But a scoffer does not listen to rebuke.
+A wise son heeds his father’s discipline, but a scoffer does not listen to rebuke.
 
 ## Proverbs 13:2
-
-From the fruit of a person’s mouth he enjoys good,  
-But the desire of the treacherous is violence.
+From the fruit of one's mouth, good things are enjoyed, but the desire of the unfaithful is for violence.
 
 ## Proverbs 13:3
-
-One who guards his mouth protects his life;  
-One who opens wide his lips comes to ruin.
+Those who guard their mouth preserve their life, but those who speak rashly come to ruin.
 
 ## Proverbs 13:4
-
-The soul of the lazy one craves and gets nothing,  
-But the soul of the diligent is made prosperous.
+The soul of the lazy craves and gets nothing, but the desires of the diligent are fully satisfied.
 
 ## Proverbs 13:5
-
-A righteous person hates a false statement,  
-But a wicked person acts disgustingly and shamefully.
+The righteous detest falsehood, but the wicked act shamefully and disgustingly.
 
 ## Proverbs 13:6
-
-Righteousness guards the one whose way is blameless,  
-But wickedness brings the sinner to ruin.
+Righteousness guards the person of integrity, but wickedness overthrows the sinner.
 
 ## Proverbs 13:7
-
-There is one who pretends to be rich but has nothing;  
-Another pretends to be poor but has great wealth.
+One pretends to be rich and has nothing; another pretends to be poor and has great wealth.
 
 ## Proverbs 13:8
-
-The ransom of a person’s life is his wealth,  
-But the poor hears no rebuke.
+A person's wealth may ransom their life, but the poor hear no rebuke.
 
 ## Proverbs 13:9
-
-The light of the righteous rejoices,  
-But the lamp of the wicked goes out.
+The light of the righteous shines brightly, but the lamp of the wicked is extinguished.
 
 ## Proverbs 13:10
-
-Through arrogance comes only strife,  
-But wisdom is with those who accept counsel.
+Pride leads to strife, but wisdom is found in those who accept counsel.
 
 ## Proverbs 13:11
-
-Wealth obtained from nothing dwindles,  
-But one who gathers by labour increases it.
+Wealth obtained dishonestly dwindles, but whoever gathers little by little increases it.
 
 ## Proverbs 13:12
-
-Hope deferred makes the heart sick,  
-But desire fulfilled is a tree of life.
+Hope deferred makes the heart sick, but a desire fulfilled is a tree of life.
 
 ## Proverbs 13:13
-
-One who despises the word will be in debt to it,  
-But one who fears the commandment will be rewarded.
+Whoever scorns instruction will suffer for it, but whoever respects a command is rewarded.
 
 ## Proverbs 13:14
-
-The teaching of the wise is a fountain of life,  
-To turn aside from the snares of death.
+The teaching of the wise is a fountain of life, turning one away from the snares of death.
 
 ## Proverbs 13:15
-
-Good understanding produces favour,  
-But the way of the treacherous is hard.
+Good judgment gains favour, but the way of the treacherous leads to destruction.
 
 ## Proverbs 13:16
-
-Every prudent person acts with knowledge,  
-But a fool displays foolishness.
+Every prudent person acts with knowledge, but a fool exposes their folly.
 
 ## Proverbs 13:17
-
-A wicked messenger falls into trouble,  
-But a faithful messenger brings healing.
+A wicked messenger falls into trouble, but a trustworthy envoy brings healing.
 
 ## Proverbs 13:18
-
-Poverty and shame will come to one who neglects discipline,  
-But one who accepts rebuke will be honoured.
+Poverty and shame come to those who disregard discipline, but those who heed correction are honoured.
 
 ## Proverbs 13:19
-
-Desire realised is sweet to the soul,  
-But it is an abomination to fools to turn away from evil.
+A longing fulfilled is sweet to the soul, but fools detest turning away from evil.
 
 ## Proverbs 13:20
-
-One who walks with wise people will be wise,  
-But a companion of fools will suffer harm.
+Walk with the wise and become wise, for a companion of fools suffers harm.
 
 ## Proverbs 13:21
-
-Adversity pursues sinners,  
-But the righteous will be rewarded with prosperity.
+Trouble pursues sinners, but the righteous are rewarded with prosperity.
 
 ## Proverbs 13:22
-
-A good person leaves an inheritance to his grandchildren,  
-And the wealth of the sinner is stored up for the righteous.
+A good person leaves an inheritance for their grandchildren, but a sinner’s wealth is stored up for the righteous.
 
 ## Proverbs 13:23
-
-Abundant food is in the fallow ground of the poor,  
-But it is swept away by injustice.
+Abundant food is found in the unploughed field of the poor, but it is swept away by injustice.
 
 ## Proverbs 13:24
-
-One who withholds discipline hates his son,  
-But one who loves him disciplines him diligently.
+Whoever spares the rod hates their child, but the one who loves their child is diligent to discipline them.
 
 ## Proverbs 13:25
-
-The righteous has enough to satisfy his appetite,  
-But the stomach of the wicked is in need.
+The righteous eat to their heart's content, but the stomach of the wicked goes hungry.

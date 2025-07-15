@@ -1,122 +1,61 @@
 # Ecclesiastes Chapter 5
 
 ## Ecclesiastes 5:1
-
-Guard your steps as you go to the house of God,  
-And approach to listen rather than to offer the sacrifice of fools;  
-For they do not know that they are doing evil.
+Be cautious as you enter the house of God, and approach to listen rather than to present the offering of fools, who are unaware that they are doing wrong.
 
 ## Ecclesiastes 5:2
-
-Do not be quick with your mouth or impulsive in thought  
-To bring up a matter in the presence of God.  
-For God is in heaven and you are on the earth;  
-Therefore let your words be few.
+Do not be rash with your mouth, nor hasty in your heart to bring up a matter before God. For God is in heaven and you are on earth, so let your words be few.
 
 ## Ecclesiastes 5:3
-
-For the dream comes through much effort,  
-And the voice of a fool through many words.
+For dreams come with much busyness, and a fool's voice with many words.
 
 ## Ecclesiastes 5:4
-
-When you make a vow to God, do not be late in paying it;  
-For He takes no delight in fools.  
-Pay what you vow!
+When you make a vow to God, do not delay in fulfilling it. He takes no pleasure in fools; fulfil what you vow.
 
 ## Ecclesiastes 5:5
-
-It is better that you do not vow,  
-Than vow and not pay.
+It is better not to vow than to make a vow and not fulfil it.
 
 ## Ecclesiastes 5:6
-
-Do not allow your speech to cause you to sin,  
-And do not say in the presence of the messenger of God that it was a mistake.  
-Why should God be angry because of your voice and destroy the work of your hands?
+Do not let your mouth lead you into sin, and do not say before the messenger of God that it was a mistake. Why should God be angry at your words and destroy the work of your hands?
 
 ## Ecclesiastes 5:7
-
-For in many dreams and in many words there is futility.  
-Rather, fear God.
-
----
+For in many dreams and in many words there is emptiness. Rather, fear God.
 
 ## Ecclesiastes 5:8
-
-If you see oppression of the poor and denial of justice and righteousness in the province,  
-Do not be shocked at the sight;  
-For one official watches over another official,  
-And there are higher officials over them.
+If you see the oppression of the poor and the denial of justice and rights in a province, do not be astonished at the matter; for one official is watched by a higher one, and there are higher officials over them.
 
 ## Ecclesiastes 5:9
-
-After all, a king who cultivates the field is beneficial to the land.
-
----
+The produce of the land is shared by all; even the king benefits from the fields.
 
 ## Ecclesiastes 5:10
-
-One who loves money will not be satisfied with money,  
-Nor one who loves abundance with its income.  
-This too is vanity.
+Whoever loves money will never have enough; whoever loves wealth will not be satisfied with their income. This too is vanity.
 
 ## Ecclesiastes 5:11
-
-When good things increase, those who consume them increase.  
-So what is the advantage to their owners,  
-Except to look on?
+As goods increase, so do those who consume them. What advantage then do the owners have except to gaze upon them?
 
 ## Ecclesiastes 5:12
-
-The sleep of the labourer is sweet, whether he eats little or much;  
-But the full stomach of the rich does not allow him to sleep.
-
----
+The sleep of the labourer is sweet, whether he eats little or much, but the abundance of the rich will not allow them to sleep.
 
 ## Ecclesiastes 5:13
-
-There is a grievous evil which I have seen under the sun:  
-Riches being hoarded by their owner to his detriment.
+There is a grievous evil I have seen under the sun: wealth hoarded to the detriment of its owner,
 
 ## Ecclesiastes 5:14
-
-When those riches were lost through bad business,  
-And he had fathered a son, then there was nothing to support him.
+or wealth lost through some misfortune, so that when they have children, there is nothing left for them to inherit.
 
 ## Ecclesiastes 5:15
-
-As he came naked from his mother’s womb, so he will return as he came.  
-He will take nothing from the fruit of his labour  
-That he can carry in his hand.
+As one comes naked from their mother's womb, so they will depart as they came. They will take nothing from their toil that they can carry in their hands.
 
 ## Ecclesiastes 5:16
-
-This also is a grievous evil—exactly as a person is born, so will he die.  
-What then is the advantage for him who labours for the wind?
+This too is a grievous evil: exactly as one comes, so they will depart. What gain is there for those who toil for the wind?
 
 ## Ecclesiastes 5:17
-
-All his life he also eats in darkness,  
-With great irritation, sickness, and anger.
-
----
+All their days they eat in darkness, with great frustration, sickness, and anger.
 
 ## Ecclesiastes 5:18
-
-Here is what I have seen to be good and fitting:  
-To eat, to drink, and enjoy oneself in all one’s labour  
-In which he labours under the sun during the few years of his life  
-Which God has given him; for this is his reward.
+This is what I have observed to be good and fitting: to eat, to drink, and to find satisfaction in all one's labour under the sun during the few days of life God has given them—for this is their reward.
 
 ## Ecclesiastes 5:19
-
-Furthermore, as for every person to whom God has given riches and wealth,  
-He has also empowered him to eat from them and to receive his reward  
-And rejoice in his labour; this is the gift of God.
+Moreover, when God gives someone wealth and possessions, and the ability to enjoy them, to accept their lot and find joy in their toil—this is a gift from God.
 
 ## Ecclesiastes 5:20
-
-For he will not often call to mind the days of his life,  
-Because God keeps him occupied with the joy of his heart.
-
+They seldom reflect on the days of their life, because God keeps them occupied with joy in their heart.

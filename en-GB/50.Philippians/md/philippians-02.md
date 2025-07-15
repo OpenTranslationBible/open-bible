@@ -2,91 +2,91 @@
 
 ## Philippians 2:1
 
-Therefore if there is any encouragement in Christ, if any consolation of love, if any fellowship of the Spirit, if any affection and compassion,
+Therefore if there is any encouragement from being united with Christ, if any comfort from his love, if any fellowship in the Spirit, if any affection and compassion,
 
 ## Philippians 2:2
 
-Make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.
+make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.
 
 ## Philippians 2:3
 
-Do nothing from selfishness or empty conceit, but with humility consider one another as more important than yourselves;
+Do nothing out of selfish ambition or empty conceit. Instead, in humility value others as more important than yourselves;
 
 ## Philippians 2:4
 
-Do not merely look out for your own personal interests, but also for the interests of others.
+do not merely look out for your own interests, but also for the interests of others.
 
 ## Philippians 2:5
 
-Have this attitude in yourselves which was also in Christ Jesus,
+Have the same mindset among yourselves as was in Christ Jesus:
 
 ## Philippians 2:6
 
-> Who, as He already existed in the form of God,
-> did not consider equality with God something to be grasped,
+> Who, existing in the form of God,
+> did not consider equality with God something to be grasped for his own advantage;
 
 ## Philippians 2:7
 
-> But emptied Himself
-> by taking the form of a bond-servant
-> and being born in the likeness of men.
+> but emptied himself
+> by taking the form of a servant,
+> being made in human likeness.
 
 ## Philippians 2:8
 
 > And being found in appearance as a man,
-> He humbled Himself by becoming obedient to the point of death:
-> Even death on a cross!
+> he humbled himself by becoming obedient to the point of death,
+> even death on a cross.
 
 ## Philippians 2:9
 
-> For this reason also God highly exalted Him,  
-> and bestowed on Him the name which is above every name,
+> Therefore God highly exalted him,
+> and bestowed on him the name that is above every name,
 
 ## Philippians 2:10
 
-> So that at the name of Jesus every knee will bow,  
-> of those who are in heaven and on earth and under the earth,
+> so that at the name of Jesus every knee should bow,
+> in heaven and on earth and under the earth,
 
 ## Philippians 2:11
 
-> And that every tongue will confess that Jesus Christ is Lord,
+> and every tongue should confess that Jesus Christ is Lord,
 > to the glory of God the Father.
 
 ## Philippians 2:12
 
-So then, my beloved, just as you have always obeyed, not only in my presence, but now much more in my absence, work out your own salvation with fear and trembling;
+So then, my beloved, just as you have always obeyed, not only in my presence but now much more in my absence, continue to work out your own salvation with fear and trembling;
 
 ## Philippians 2:13
 
-For it is God who is at work in you, both to desire and to work for His good pleasure.
+for it is God who is at work in you, both to will and to act in order to fulfil his good purpose.
 
 ## Philippians 2:14
 
-Do all things without complaining or arguments;
+Do everything without complaining or arguing,
 
 ## Philippians 2:15
 
-So that you will prove yourselves to be blameless and innocent, children of God without fault in the midst of a crooked and perverse generation, among whom you shine as lights in the world,
+so that you may become blameless and pure, children of God without fault in a warped and crooked generation. Then you will shine among them like stars in the sky,
 
 ## Philippians 2:16
 
-Holding firmly the word of life, so that on the day of Christ I can take pride because I did not run in vain nor labour in vain.
+as you hold firmly to the word of life. And then I will be able to boast on the day of Christ that I did not run or labour in vain.
 
 ## Philippians 2:17
 
-But even if I am being poured out as a drink offering upon the sacrifice and service of your faith, I rejoice and share my joy with you all.
+But even if I am being poured out as a drink offering on the sacrifice and service of your faith, I am glad and rejoice with all of you.
 
 ## Philippians 2:18
 
-You too, I urge you, rejoice in the same way and share your joy with me.
+In the same way, you too should be glad and rejoice with me.
 
 ## Philippians 2:19
 
-But I hope, in the Lord Jesus, to send Timothy to you shortly, so that I also may be encouraged when I learn of your condition.
+But I hope in the Lord Jesus to send Timothy to you soon, so that I also may be encouraged when I learn of your condition.
 
 ## Philippians 2:20
 
-For I have no one else of kindred spirit who will genuinely be concerned for your welfare.
+For I have no one else of kindred spirit who will genuinely care for your welfare.
 
 ## Philippians 2:21
 
@@ -94,7 +94,7 @@ For they all seek after their own interests, not those of Christ Jesus.
 
 ## Philippians 2:22
 
-But you know his proven character, that he served with me in the furtherance of the gospel like a child serving his father.
+But you know of his proven character, that he served with me in the work of the gospel like a son with his father.
 
 ## Philippians 2:23
 
@@ -102,23 +102,23 @@ Therefore I hope to send him immediately, as soon as I see how things go with me
 
 ## Philippians 2:24
 
-And I trust in the Lord that I myself also will be coming shortly.
+and I am confident in the Lord that I myself will also come soon.
 
 ## Philippians 2:25
 
-But I thought it necessary to send to you Epaphroditus, my brother, fellow worker, and fellow soldier, who is also your messenger and minister to my need,
+But I thought it necessary to send back to you Epaphroditus, my brother, co-worker and fellow soldier, who is also your messenger and minister to my needs,
 
 ## Philippians 2:26
 
-Because he was longing for you all and was distressed because you had heard that he was sick.
+because he longs for all of you and is distressed because you heard he was ill.
 
 ## Philippians 2:27
 
-For indeed he was sick, to the point of death, but God had mercy on him, and not only on him but also on me, so that I would not have sorrow upon sorrow.
+For indeed he was ill, and almost died. But God had mercy on him, and not only on him but also on me, to spare me sorrow upon sorrow.
 
 ## Philippians 2:28
 
-Therefore I have sent him all the more eagerly, so that when you see him again you may rejoice and I may be less concerned.
+Therefore I am all the more eager to send him, so that when you see him again you may rejoice and I may have less anxiety.
 
 ## Philippians 2:29
 
@@ -126,4 +126,4 @@ Receive him then in the Lord with all joy, and hold people like him in high rega
 
 ## Philippians 2:30
 
-Because he came close to death for the work of Christ, risking his life to compensate for your absence in service to me.
+because he came close to death for the work of Christ, risking his life to make up for the help you could not give me.

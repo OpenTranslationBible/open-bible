@@ -1,76 +1,76 @@
 # Deuteronomy Chapter 23
 
 ## Deuteronomy 23:1
-No man who has been emasculated by crushing or cutting may be admitted to the assembly of the Lord.
+No one who has been emasculated by injury or has had his male organ removed may enter the assembly of the Lord.
 
 ## Deuteronomy 23:2
-No one born from an unlawful union, even to the tenth generation, may enter the assembly of the Lord.
+No one born of an illegitimate union nor any of their descendants may enter the assembly of the Lord, even up to the tenth generation.
 
 ## Deuteronomy 23:3
-No Ammonite or Moabite may be admitted to the assembly of the Lord, not even to the tenth generation.
+No Ammonite or Moabite or any of their descendants may enter the assembly of the Lord, even up to the tenth generation.
 
 ## Deuteronomy 23:4
-They did not meet you with bread and water on your journey out of Egypt, and they hired Balaam son of Beor from Pethor in Aram-naharaim to curse you.
+For they did not meet you with bread and water on your journey when you came out of Egypt, and they hired Balaam son of Beor from Pethor in Mesopotamia to curse you.
 
 ## Deuteronomy 23:5
-But the Lord your God refused to listen to Balaam and turned the curse into a blessing for you, because the Lord your God loves you.
+Yet the Lord your God did not listen to Balaam but turned the curse into a blessing for you, because the Lord your God loves you.
 
 ## Deuteronomy 23:6
-You shall never seek peace or prosperity for them for all your days.
+You shall not seek their peace or prosperity all your days.
 
 ## Deuteronomy 23:7
-Do not despise an Edomite, for he is your relative. Do not despise an Egyptian, because you were a foreigner in his land.
+Do not despise an Edomite, for they are your relatives. Do not despise an Egyptian, because you were a foreigner in their land.
 
 ## Deuteronomy 23:8
-Their third generation descendants may enter the assembly of the Lord.
+The third generation of their children born to them may enter the assembly of the Lord.
 
 ## Deuteronomy 23:9
-When you go out against your enemies and set up camp, you must keep yourself from every impure thing.
+When you set up camp against your enemies, be on guard against anything impure.
 
 ## Deuteronomy 23:10
-If a man becomes ceremonially unclean at night, he must leave the camp and not return until evening.
+If there is a man among you who is unclean due to a nocturnal emission, he must go outside the camp and not re-enter it.
 
 ## Deuteronomy 23:11
-At sunset, he may wash himself and re-enter the camp.
+But when evening comes, he shall wash himself with water, and at sunset he may return to the camp.
 
 ## Deuteronomy 23:12
-You must have a designated area outside the camp where you can relieve yourself.
+Designate a place outside the camp where you can go to relieve yourself.
 
 ## Deuteronomy 23:13
-Carry a tool with your equipment, so that when you relieve yourself, you can dig a hole and cover your excrement.
+Have a spade among your equipment, and when you relieve yourself, dig a hole and cover up your excrement.
 
 ## Deuteronomy 23:14
-For the Lord your God moves about in your camp to protect and deliver you. Your camp must be holy, so He does not see anything indecent and turn away from you.
+For the Lord your God moves about in your camp to protect you and to deliver your enemies to you. Therefore, your camp must be holy, so that He will not see anything indecent among you and turn away from you.
 
 ## Deuteronomy 23:15
-Do not hand over a slave who has escaped from his master and come to you.
+If a slave seeks refuge with you, do not hand them over to their master.
 
 ## Deuteronomy 23:16
-Let him stay with you wherever he chooses within your towns. Do not oppress him.
+Let them live among you wherever they choose, in whatever town they prefer. Do not oppress them.
 
 ## Deuteronomy 23:17
-No Israelite man or woman is to become a shrine prostitute.
+No Israelite man or woman is to become a cult prostitute.
 
 ## Deuteronomy 23:18
-You must not bring the wages of a prostitute or of a male prostitute into the house of the Lord your God to fulfill any vow, for both are detestable to the Lord.
+You must not bring the earnings of a prostitute or the wages of a dog into the house of the Lord your God to fulfil any vow, for both are detestable to the Lord your God.
 
 ## Deuteronomy 23:19
-Do not charge your fellow Israelite interest on money, food, or anything else that is lent.
+Do not charge interest to a fellow Israelite, whether on money, food, or anything else that may earn interest.
 
 ## Deuteronomy 23:20
-You may charge interest to a foreigner, but not to a fellow Israelite, so the Lord your God may bless you in the land you are entering to possess.
+You may charge interest to a foreigner, but not to a fellow Israelite, so that the Lord your God may bless you in all that you do in the land you are entering to possess.
 
 ## Deuteronomy 23:21
-If you make a vow to the Lord your God, do not delay to fulfill it, for He will surely require it of you, and you will be guilty if you fail to do so.
+If you make a vow to the Lord your God, do not delay in fulfilling it, for the Lord your God will surely require it of you, and you will be guilty of sin.
 
 ## Deuteronomy 23:22
-But if you refrain from making a vow, you will not be guilty.
+But if you refrain from making a vow, you will not be guilty of sin.
 
 ## Deuteronomy 23:23
-Be careful to do whatever your lips have promised, because you voluntarily vowed to the Lord your God.
+Whatever you have promised with your lips you must be sure to do, because you made your vow freely to the Lord your God with your own mouth.
 
 ## Deuteronomy 23:24
-If you enter your neighbour’s vineyard, you may eat your fill of grapes, but you must not put any in your basket.
+If you enter your neighbour’s vineyard, you may eat as many grapes as you wish, but do not put any in your basket.
 
 ## Deuteronomy 23:25
-If you enter your neighbour’s field of grain, you may pick the heads with your hand, but you must not use a sickle to harvest.
+If you enter your neighbour’s grainfield, you may pick the heads of grain with your hands, but you must not use a sickle on their standing grain.

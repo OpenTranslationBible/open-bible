@@ -2,242 +2,201 @@
 
 ## Luke 20:1
 
-On one of the days while He was teaching the people in the temple and preaching the gospel,  
-the chief priests and the scribes, with the elders, came up to Him,
+On a certain day, as Jesus was teaching the people in the temple courts and preaching the gospel, the chief priests and the scribes, along with the elders, approached Him.
 
 ## Luke 20:2
 
-and they spoke, saying to Him,  
-“Tell us by what authority You are doing these things, or who is the one who gave You this authority?”
+They spoke to Him, saying, “Tell us by what authority You are doing these things, or who is the one who gave You this authority?”
 
 ## Luke 20:3
 
-But He replied to them,  
-“I will also ask you a question, and you tell Me:
+He answered them, “I will also ask you a question. Tell me:
 
 ## Luke 20:4
 
-Was the baptism of John from heaven, or from men?”
+Was John’s baptism from heaven, or from men?”
 
 ## Luke 20:5
 
-They discussed it among themselves, saying,  
-“If we say, ‘From heaven,’ He will say, ‘Why did you not believe him?’
+They reasoned among themselves, saying, “If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’
 
 ## Luke 20:6
 
-But if we say, ‘From men,’ all the people will stone us to death,  
-since they are convinced that John was a prophet.”
+But if we say, ‘From men,’ all the people will stone us, for they are convinced that John was a prophet.”
 
 ## Luke 20:7
 
-And so they answered that they did not know where it came from.
+So they replied that they did not know where it was from.
 
 ## Luke 20:8
 
-And Jesus said to them,  
-“Neither am I telling you by what authority I do these things.”
+And Jesus said to them, “Neither will I tell you by what authority I do these things.”
 
 ---
 
 ## Luke 20:9
 
-But He began to tell the people this parable:  
-“A man planted a vineyard, and leased it to vine-growers, and went on a journey for a long time.
+Then He began to tell the people this parable: “A man planted a vineyard, leased it to some farmers, and went on a long journey.
 
 ## Luke 20:10
 
-At the harvest time he sent a slave to the vine-growers,  
-so that they would give him some of the fruit of the vineyard;  
-but the vine-growers beat him and sent him away empty-handed.
+At harvest time, he sent a servant to the tenants so that they might give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed.
 
 ## Luke 20:11
 
-And he proceeded to send another slave; but they beat him also and treated him shamefully, and sent him away empty-handed.
+He sent another servant, but they also beat him and treated him shamefully, sending him away empty-handed.
 
 ## Luke 20:12
 
-And he proceeded to send a third; but this one, too, they wounded and threw out.
+He sent a third, and this one too they wounded and threw out.
 
 ## Luke 20:13
 
-Now the owner of the vineyard said, ‘What am I to do? I will send my beloved son;  
-perhaps they will respect him.’
+Then the owner of the vineyard said, ‘What shall I do? I will send my beloved son; perhaps they will respect him.’
 
 ## Luke 20:14
 
-But when the vine-growers saw him, they discussed it among themselves, saying,  
-‘This is the heir; let’s kill him so that the inheritance will be ours!’
+But when the tenants saw him, they conferred among themselves, saying, ‘This is the heir; let us kill him, so that the inheritance may be ours.’
 
 ## Luke 20:15
 
-And so they threw him out of the vineyard and killed him.  
-What, then, will the owner of the vineyard do to them?
+So they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?
 
 ## Luke 20:16
 
-He will come and put these vine-growers to death, and will give the vineyard to others.”  
-When they heard this, they said, “May it never happen!”
+He will come and kill those tenants and give the vineyard to others.” When the people heard this, they said, “God forbid!”
 
 ## Luke 20:17
 
-But Jesus looked at them and said,  
-“What then is this statement that has been written:
+Jesus looked directly at them and said, “Then what is the meaning of that which is written:
 
-> ‘A stone which the builders rejected,  
-> This has become the chief cornerstone’?
+> ‘The stone which the builders rejected
+> has become the chief cornerstone’?
 
 ## Luke 20:18
 
-Everyone who falls on that stone will be broken to pieces;  
-but on whomever it falls, it will crush him.”
+Everyone who falls on that stone will be broken to pieces; but on whomever it falls, it will crush him.”
 
 ## Luke 20:19
 
-The scribes and the chief priests sought to lay hands on Him that very hour,  
-and yet they feared the people; for they understood that He spoke this parable against them.
+The scribes and the chief priests sought to lay hands on Him at that very hour, but they feared the people, for they understood that He had spoken this parable against them.
 
 ---
 
 ## Luke 20:20
 
-And so they watched Him closely, and sent spies who pretended to be righteous,  
-in order that they might catch Him in a statement,  
-so that they could hand Him over to the jurisdiction and authority of the governor.
+So they kept a close watch on Him, and sent spies who pretended to be righteous, in order to catch Him in some statement, so they could hand Him over to the jurisdiction and authority of the governor.
 
 ## Luke 20:21
 
-And they questioned Him, saying,  
-“Teacher, we know that You speak and teach correctly, and You are not partial to anyone,  
-but You teach the way of God on the basis of truth.
+The spies questioned Him, saying, “Teacher, we know that You speak and teach rightly, and You do not show partiality, but teach the way of God in truth.
 
 ## Luke 20:22
 
-Is it permissible for us to pay taxes to Caesar, or not?”
+Is it lawful for us to pay taxes to Caesar, or not?”
 
 ## Luke 20:23
 
-But He saw through their trickery and said to them,
+But He perceived their craftiness and said to them,
 
 ## Luke 20:24
 
-“Show Me a denarius. Whose image and inscription does it have?”  
-They said, “Caesar’s.”
+“Show Me a denarius. Whose image and inscription does it have?” They replied, “Caesar’s.”
 
 ## Luke 20:25
 
-And He said to them,  
-“Then pay to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+He said to them, “Then render to Caesar the things that are Caesar’s, and to God the things that are God’s.”
 
 ## Luke 20:26
 
-And they were unable to catch Him in a statement in the presence of the people;  
-and they were amazed at His answer, and said nothing.
+They were unable to trap Him in what He said in public, and marvelling at His answer, they fell silent.
 
 ---
 
 ## Luke 20:27
 
-Now some of the Sadducees (who say that there is no resurrection) came to Him,
+Some of the Sadducees, who say there is no resurrection, came to Him with a question.
 
 ## Luke 20:28
 
-and they asked Him a question, saying,  
-“Teacher, Moses wrote for us that if a man’s brother dies,  
-leaving a wife, and he is childless, his brother is to marry the wife and raise up children for his brother.
+“Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother.
 
 ## Luke 20:29
 
-So then, there were seven brothers;  
-and the first took a wife and died childless,
+Now there were seven brothers. The first one married a woman and died childless.
 
 ## Luke 20:30
 
-and the second,
+The second
 
 ## Luke 20:31
 
-and the third married her; and in the same way all seven died, leaving no children.
+and then the third married her, and in the same way the seven died, leaving no children.
 
 ## Luke 20:32
 
-Finally the woman also died.
+Finally, the woman also died.
 
 ## Luke 20:33
 
-In the resurrection, therefore, which one’s wife does the woman become?  
-For all seven had married her.”
+Now then, at the resurrection whose wife will she be, since the seven were married to her?”
 
 ## Luke 20:34
 
-Jesus said to them,  
-“The sons of this age marry and the women are given in marriage,
+Jesus replied, “The people of this age marry and are given in marriage.
 
 ## Luke 20:35
 
-but those who are considered worthy to attain to that age and the resurrection from the dead,  
-neither marry nor are given in marriage;
+But those who are considered worthy of taking part in the age to come and in the resurrection from the dead neither marry nor are given in marriage,
 
 ## Luke 20:36
 
-for they cannot even die anymore, because they are like angels, and are sons of God,  
-being sons of the resurrection.
+and they can no longer die; for they are like the angels. They are God’s children, being children of the resurrection.
 
 ## Luke 20:37
 
-But regarding the fact that the dead are raised,  
-even Moses revealed this in the passage about the burning bush,  
-where he calls the Lord the God of Abraham, the God of Isaac, and the God of Jacob.
+But in the account of the burning bush, even Moses showed that the dead rise, for he calls the Lord ‘the God of Abraham, and the God of Isaac, and the God of Jacob.’
 
 ## Luke 20:38
 
-Now He is not the God of the dead, but of the living; for all live to Him.”
+He is not the God of the dead, but of the living, for to Him all are alive.”
 
 ## Luke 20:39
 
-Some of the scribes answered and said,  
-“Teacher, You have spoken well.”
+Some of the scribes responded, “Well said, Teacher!”
 
 ## Luke 20:40
 
-For they did not have the courage to question Him any longer about anything.
+And they did not dare to question Him any longer about anything.
 
 ---
 
 ## Luke 20:41
 
-But He said to them,  
-“How is it that they say the Christ is David’s son?
+Then He said to them, “Why is it said that the Messiah is the son of David?
 
 ## Luke 20:42
 
-For David himself says in the book of Psalms,
-
-> ‘The Lord said to my Lord,  
-> “Sit at My right hand,
+David himself declares in the Book of Psalms: ‘The Lord said to my Lord: “Sit at My right hand
 
 ## Luke 20:43
 
-> Until I make Your enemies
-> a footstool for Your feet.”’
+until I make Your enemies a footstool for Your feet.”’
 
 ## Luke 20:44
 
-Therefore David calls Him ‘Lord,’ and how is He his son?”
+David calls Him ‘Lord.’ How then can He be his son?”
 
 ---
 
 ## Luke 20:45
 
-And while all the people were listening, He said to the disciples,
+While all the people were listening, He said to His disciples,
 
 ## Luke 20:46
 
-“Beware of the scribes, who like to walk around in long robes,  
-and love personal greetings in the marketplaces,  
-and the seats of honour in the synagogues, and places of honour at banquets,
+“Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces, and the best seats in the synagogues and places of honour at banquets.
 
 ## Luke 20:47
 
-who devour widows’ houses, and for appearance’s sake offer long prayers.  
-These will receive all the more condemnation.”
+They devour widows’ houses and for a show make lengthy prayers. These men will receive greater condemnation.”

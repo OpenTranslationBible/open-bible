@@ -2,230 +2,190 @@
 
 ## Luke 4:1
 
-Now Jesus, full of the Holy Spirit, returned from the Jordan and was led around by the Spirit in the wilderness
+Jesus, filled with the Holy Spirit, returned from the Jordan and was guided by the Spirit into the wilderness,
 
 ## Luke 4:2
 
-for forty days, being tempted by the devil.  
-And He ate nothing during those days, and when they had ended, He was hungry.
+where for forty days he was tempted by the devil. He ate nothing during those days, and when they had ended, he was hungry.
 
 ## Luke 4:3
 
-And the devil said to Him,  
-“If You are the Son of God, tell this stone to become bread.”
+The devil said to him, “If you are the Son of God, command this stone to become bread.”
 
 ## Luke 4:4
 
-And Jesus answered him,  
-“It is written: ‘Man shall not live on bread alone.’”
+Jesus replied, “It is written: ‘Man shall not live by bread alone.’”
 
 ---
 
 ## Luke 4:5
 
-And he led Him up and showed Him all the kingdoms of the world in a moment of time.
+The devil took him up and showed him all the kingdoms of the world in a moment of time.
 
 ## Luke 4:6
 
-And the devil said to Him,  
-“I will give You all this domain and its glory, for it has been handed over to me,  
-and I give it to whomever I want.
+And he said to him, “I will give you all their authority and splendour; it has been handed over to me, and I can give it to anyone I choose.
 
 ## Luke 4:7
 
-Therefore, if You worship before me, it shall all be Yours.”
+If you worship me, it will all be yours.”
 
 ## Luke 4:8
 
-Jesus replied to him,  
-“It is written: ‘You shall worship the Lord your God and serve Him only.’”
+Jesus answered, “It is written: ‘Worship the Lord your God and serve him only.’”
 
 ---
 
 ## Luke 4:9
 
-And he brought Him into Jerusalem and had Him stand on the pinnacle of the temple, and said to Him,  
-“If You are the Son of God, throw Yourself down from here;
+The devil brought him to Jerusalem and had him stand on the pinnacle of the temple. “If you are the Son of God,” he said, “throw yourself down from here;
 
 ## Luke 4:10
 
-for it is written:  
-‘He will give His angels orders concerning You, to protect You,’
+for it is written: ‘He will command his angels concerning you to protect you,’
 
 ## Luke 4:11
 
-and,  
-‘On their hands they will lift You up, so that You do not strike Your foot against a stone.’”
+and, ‘They will lift you up in their hands, so that you will not strike your foot against a stone.’”
 
 ## Luke 4:12
 
-And Jesus answered and said to him,  
-“It has been stated: ‘You shall not put the Lord your God to the test.’”
+Jesus answered, “It is said: ‘Do not put the Lord your God to the test.’”
 
 ## Luke 4:13
 
-And so the devil, having finished every temptation, left Him until an opportune time.
+When the devil had finished every temptation, he left him until an opportune time.
 
 ---
 
 ## Luke 4:14
 
-And Jesus returned to Galilee in the power of the Spirit, and news about Him spread through all the surrounding region.
+Jesus returned to Galilee in the power of the Spirit, and news about him spread through all the surrounding region.
 
 ## Luke 4:15
 
-And He began teaching in their synagogues and was praised by all.
+He taught in their synagogues, and everyone praised him.
 
 ---
 
 ## Luke 4:16
 
-And He came to Nazareth, where He had been brought up;  
-and as was His custom, He entered the synagogue on the Sabbath, and stood up to read.
+He went to Nazareth, where he had been brought up, and on the Sabbath he entered the synagogue, as was his custom. He stood up to read,
 
 ## Luke 4:17
 
-And the scroll of the prophet Isaiah was handed to Him.  
-And He opened the scroll and found the place where it was written:
+and the scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written:
 
 ## Luke 4:18
 
-“The Spirit of the Lord is upon Me,  
-Because He anointed Me to bring good news to the poor.  
-He has sent Me to proclaim release to captives,  
-And recovery of sight to the blind,  
-To set free those who are oppressed,
+“The Spirit of the Lord is upon me, because he has anointed me to proclaim good news to the poor. He has sent me to proclaim release to the captives and recovery of sight to the blind, to set the oppressed free,
 
 ## Luke 4:19
 
-To proclaim the favourable year of the Lord.”
+to proclaim the favourable year of the Lord.”
 
 ## Luke 4:20
 
-And He rolled up the scroll, gave it back to the attendant, and sat down;  
-and the eyes of all in the synagogue were fixed on Him.
+Then he rolled up the scroll, gave it back to the attendant and sat down. The eyes of everyone in the synagogue were fixed on him.
 
 ## Luke 4:21
 
-Now He began to say to them,  
-“Today this Scripture has been fulfilled in your hearing.”
+He began by saying to them, “Today this scripture is fulfilled in your hearing.”
 
 ## Luke 4:22
 
-And all the people were speaking well of Him, and admiring the gracious words which were coming from His lips;  
-and they were saying, “Is this not Joseph’s son?”
+All spoke well of him and were amazed at the gracious words that came from his lips. “Isn’t this Joseph’s son?” they asked.
 
 ## Luke 4:23
 
-And He said to them,  
-“No doubt you will quote this proverb to Me: ‘Physician, heal yourself!’  
-All the miracles that we heard were done in Capernaum, do here in your hometown as well.”
+Jesus said to them, “Surely you will quote this proverb to me: ‘Physician, heal yourself!’ And you will say, ‘Do here in your hometown what we have heard you did in Capernaum.’”
 
 ## Luke 4:24
 
-But He said,  
-“Truly I say to you, no prophet is welcome in his hometown.
+“Truly I tell you,” he continued, “no prophet is accepted in his hometown.
 
 ## Luke 4:25
 
-But I say to you in truth,  
-there were many widows in Israel in the days of Elijah,  
-when the sky was shut up for three years and six months,  
-and a severe famine came over all the land;
+I assure you that there were many widows in Israel in Elijah’s time, when the sky was shut for three years and six months and there was a severe famine throughout the land.
 
 ## Luke 4:26
 
-and yet Elijah was sent to none of them, but only to Zarephath, in the land of Sidon, to a woman who was a widow.
+Yet Elijah was not sent to any of them, but to a widow in Zarephath in the region of Sidon.
 
 ## Luke 4:27
 
-And there were many with leprosy in Israel in the time of Elisha the prophet,  
-and none of them was cleansed, but only Naaman the Syrian.”
+And there were many in Israel with leprosy in the time of Elisha the prophet, yet none of them was cleansed—only Naaman the Syrian.”
 
 ## Luke 4:28
 
-And all the people in the synagogue were filled with rage as they heard these things;
+All the people in the synagogue were furious when they heard this.
 
 ## Luke 4:29
 
-and they got up and drove Him out of the city,  
-and brought Him to the crest of the hill on which their city had been built,  
-so that they could throw Him down from the cliff.
+They got up, drove him out of the town, and took him to the brow of the hill on which the town was built, in order to throw him off the cliff.
 
 ## Luke 4:30
 
-But He passed through their midst and went on His way.
+But he walked right through the crowd and went on his way.
 
 ---
 
 ## Luke 4:31
 
-And He came down to Capernaum, a city of Galilee; and He was teaching them on the Sabbath;
+Then he went down to Capernaum, a town in Galilee, and on the Sabbath he taught the people.
 
 ## Luke 4:32
 
-and they were amazed at His teaching, because His message was delivered with authority.
+They were amazed at his teaching, because his message was delivered with authority.
 
 ## Luke 4:33
 
-Now in the synagogue there was a man possessed by the spirit of an unclean demon,  
-and he cried out with a loud voice,
+In the synagogue there was a man possessed by a demon, an impure spirit. He cried out at the top of his voice,
 
 ## Luke 4:34
 
-“Leave us alone! What business do You have with us, Jesus of Nazareth?  
-Have You come to destroy us? I know who You are—the Holy One of God!”
+“Leave us alone! What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
 
 ## Luke 4:35
 
-But Jesus rebuked him, saying,  
-“Be quiet and come out of him!”  
-And when the demon had thrown him down in the midst of the people,  
-it came out of him without doing him any harm.
+Jesus rebuked him, saying, “Be quiet and come out of him!” Then the demon threw the man down before them all and came out without injuring him.
 
 ## Luke 4:36
 
-And amazement came upon them all, and they began talking with one another, saying,  
-“What is this message? For with authority and power He commands the unclean spirits, and they come out!”
+All the people were amazed and said to each other, “What words these are! With authority and power he gives orders to impure spirits and they come out!”
 
 ## Luke 4:37
 
-And the news about Him was spreading into every locality of the surrounding region.
+And the news about him spread throughout the surrounding area.
 
 ---
 
 ## Luke 4:38
 
-Then He got up and left the synagogue and entered Simon’s home.  
-Now Simon’s mother-in-law was suffering from a high fever, and they asked Him to help her.
+Jesus left the synagogue and went to the home of Simon. Now Simon’s mother-in-law was suffering from a high fever, and they asked Jesus to help her.
 
 ## Luke 4:39
 
-And standing over her, He rebuked the fever, and it left her;  
-and she immediately got up and began to serve them.
+So he stood over her and rebuked the fever, and it left her. She got up at once and began to wait on them.
 
 ## Luke 4:40
 
-Now while the sun was setting, all those who had any who were sick with various diseases brought them to Him;  
-and He was laying His hands on each one of them and healing them.
+At sunset, all those who had any who were sick with various diseases brought them to him; and laying his hands on each one, he healed them.
 
 ## Luke 4:41
 
-Demons also were coming out of many, shouting, “You are the Son of God!”  
-And yet He was rebuking them and not allowing them to speak, because they knew He was the Christ.
+Demons also came out of many people, shouting, “You are the Son of God!” But he rebuked them and would not allow them to speak, because they knew he was the Messiah.
 
 ---
 
 ## Luke 4:42
 
-Now when day came, Jesus left and went to a secluded place;  
-and the crowds were searching for Him, and came to Him and tried to keep Him from going away from them.
+At daybreak, Jesus went out to a solitary place. The people were looking for him and when they came to where he was, they tried to keep him from leaving them.
 
 ## Luke 4:43
 
-But He said to them,  
-“I must also preach the kingdom of God to the other cities, because I was sent for this purpose.”
+But he said, “I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent.”
 
 ## Luke 4:44
 
-So He kept on preaching in the synagogues of Judea.
+And he continued preaching in the synagogues of Judea.

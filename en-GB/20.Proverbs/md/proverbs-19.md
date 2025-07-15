@@ -2,146 +2,116 @@
 
 ## Proverbs 19:1
 
-Better is a poor person who walks in his integrity  
-Than one who is perverse in speech and is a fool.
+Better is a poor person who walks in integrity than one who is perverse in speech and is a fool.
 
 ## Proverbs 19:2
 
-Desire without knowledge is not good,  
-And one who hurries his footsteps errs.
+Desire without knowledge is not good, and one who hurries his steps misses the way.
 
 ## Proverbs 19:3
 
-The foolishness of a person ruins his way,  
-And his heart rages against the Lord.
+A person’s own folly leads to ruin, yet his heart rages against the Lord.
 
 ## Proverbs 19:4
 
-Wealth adds many friends,  
-But a poor person is separated from his friend.
+Wealth attracts many friends, but a poor person is separated from his friend.
 
 ## Proverbs 19:5
 
-A false witness will not go unpunished,  
-And one who declares lies will not escape.
+A false witness will not go unpunished, and whoever pours out lies will not escape.
 
 ## Proverbs 19:6
 
-Many will seek the favour of a generous person,  
-And every person is a friend to him who gives gifts.
+Many seek the favour of a generous person, and everyone is a friend to one who gives gifts.
 
 ## Proverbs 19:7
 
-All the brothers of a poor person hate him;  
-How much more do his friends abandon him!  
-> He pursues them with words, but they are gone.
+All the relatives of a poor person shun him; how much more do his friends avoid him! Though he pursues them with pleading, they are nowhere to be found.
 
 ## Proverbs 19:8
 
-One who gets wisdom loves his own soul;  
-One who keeps understanding will find good.
+The one who acquires wisdom loves his own soul; the one who cherishes understanding will find good.
 
 ## Proverbs 19:9
 
-A false witness will not go unpunished,  
-And one who declares lies will perish.
+A false witness will not go unpunished, and whoever pours out lies will perish.
 
 ## Proverbs 19:10
 
-Luxury is not fitting for a fool;  
-Much less for a slave to rule over princes.
+Luxury is not fitting for a fool; much less for a slave to rule over princes.
 
 ## Proverbs 19:11
 
-A person’s discretion makes him slow to anger,  
-And it is his glory to overlook an offence.
+A person’s wisdom makes him slow to anger; it is to his glory to overlook an offence.
 
 ## Proverbs 19:12
 
-The king’s wrath is like the roaring of a lion,  
-But his favour is like dew on the grass.
+A king’s wrath is like the roaring of a lion, but his favour is like dew on the grass.
 
 ## Proverbs 19:13
 
-A foolish son is destruction to his father,  
-And the quarrels of a wife are a constant dripping.
+A foolish child is a father’s ruin, and the quarrels of a wife are like a constant dripping.
 
 ## Proverbs 19:14
 
-House and wealth are inherited from fathers,  
-But a prudent wife is from the Lord.
+House and wealth are inherited from parents, but a prudent wife is from the Lord.
 
 ## Proverbs 19:15
 
-Laziness casts one into a deep sleep,  
-And an idle person will suffer hunger.
+Laziness brings on deep sleep, and a lazy person will suffer hunger.
 
 ## Proverbs 19:16
 
-One who keeps the commandment keeps his soul,  
-But one who is careless of conduct will die.
+Whoever keeps the commandment keeps his life, but whoever is careless of conduct will die.
 
 ## Proverbs 19:17
 
-One who is gracious to the poor lends to the Lord,  
-And He will repay him for his good deed.
+Whoever is kind to the poor lends to the Lord, and He will repay him for his good deed.
 
 ## Proverbs 19:18
 
-Discipline your son while there is hope,  
-And do not desire his death.
+Discipline your children while there is hope, and do not be a willing party to their death.
 
 ## Proverbs 19:19
 
-A person of great anger will suffer punishment;  
-For if you rescue him, you will have to do it again.
+A hot-tempered person must pay the penalty; if you rescue him, you will have to do it again.
 
 ## Proverbs 19:20
 
-Listen to advice and accept discipline,  
-So that you may be wise in the future.
+Listen to advice and accept discipline, so that you may be wise for the rest of your days.
 
 ## Proverbs 19:21
 
-Many plans are in a person’s heart,  
-But the plan of the Lord will stand.
+Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails.
 
 ## Proverbs 19:22
 
-What is desirable in a person is his kindness,  
-And it is better to be a poor person than a liar.
+What is desirable in a person is his kindness; it is better to be poor than a liar.
 
 ## Proverbs 19:23
 
-The fear of the Lord leads to life,  
-So that one may sleep satisfied, untouched by evil.
+The fear of the Lord leads to life; then one rests content, untouched by trouble.
 
 ## Proverbs 19:24
 
-The lazy one buries his hand in the dish,  
-But will not even bring it back to his mouth.
+The sluggard buries his hand in the dish and will not even bring it back to his mouth.
 
 ## Proverbs 19:25
 
-Strike a scoffer, and the naive may become shrewd,  
-But rebuke one who has understanding, and he will gain knowledge.
+Strike a mocker, and the simple will learn prudence; rebuke the discerning, and they will gain knowledge.
 
 ## Proverbs 19:26
 
-He who assaults his father and drives out his mother  
-Is a shameful and disgraceful son.
+He who robs his father and drives out his mother is a shameful and disgraceful son.
 
 ## Proverbs 19:27
 
-Stop listening, my son, to discipline,  
-And you will stray from the words of knowledge.
+Stop listening to instruction, my son, and you will stray from the words of knowledge.
 
 ## Proverbs 19:28
 
-A worthless witness makes a mockery of justice,  
-And the mouth of the wicked swallows wrongdoing.
+A worthless witness mocks at justice, and the mouth of the wicked gulps down wrongdoing.
 
 ## Proverbs 19:29
 
-Judgments are prepared for scoffers,  
-And beatings for the backs of fools.
+Judgments are prepared for mockers, and beatings for the backs of fools.

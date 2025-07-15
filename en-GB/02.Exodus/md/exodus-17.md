@@ -1,50 +1,49 @@
 # Exodus Chapter 17
 
 ## Exodus 17:1
-The entire Israelite community set out from the Desert of Sin, travelling from place to place as the Lord directed. They camped at Rephidim, but there was no water for the people to drink.
+The entire community of the Israelites set out by stages from the wilderness of Sin, following the Lord's command, and encamped at Rephidim, where there was no water for the people to drink.
 
 ## Exodus 17:2
-So they quarrelled with Moses and said, “Give us water to drink.” Moses replied, “Why do you quarrel with me? Why do you test the Lord?”
+The people contended with Moses, demanding, “Give us water to drink.” Moses responded, “Why do you quarrel with me? Why do you test the Lord?”
 
 ## Exodus 17:3
-But the people were thirsty for water there, and they grumbled against Moses. They said, “Why did you bring us up out of Egypt to make us and our children and livestock die of thirst?”
+The people, thirsting for water, grumbled against Moses, saying, “Why did you bring us up from Egypt, to kill us and our children and livestock with thirst?”
 
 ## Exodus 17:4
-Then Moses cried out to the Lord, “What shall I do with these people? They are almost ready to stone me.”
+Moses cried out to the Lord, “What shall I do with this people? They are almost ready to stone me!”
 
 ## Exodus 17:5
-The Lord answered Moses, “Go out in front of the people. Take with you some of the elders of Israel and take in your hand the staff with which you struck the Nile—and go.
+The Lord instructed Moses, “Pass before the people, take some of the elders of Israel with you, and take in your hand the staff with which you struck the Nile, and go.
 
 ## Exodus 17:6
-I will stand before you by the rock at Horeb. Strike the rock, and water will come out of it for the people to drink.” So Moses did this in the sight of the elders of Israel.
+I will stand before you there on the rock at Horeb; strike the rock, and water will flow from it for the people to drink.” Moses did so in the sight of the elders of Israel.
 
 ## Exodus 17:7
-And he called the place Massah and Meribah because the Israelites quarrelled and tested the Lord, saying, “Is the Lord among us or not?”
+He named the place Massah and Meribah because of the contention of the Israelites, and because they tested the Lord, asking, “Is the Lord among us or not?”
 
 ## Exodus 17:8
-The Amalekites came and attacked the Israelites at Rephidim.
+The Amalekites came and waged war against Israel at Rephidim.
 
 ## Exodus 17:9
-Moses said to Joshua, “Choose some of our men and go out to fight the Amalekites. Tomorrow I will stand on top of the hill with the staff of God in my hand.”
+Moses instructed Joshua, “Choose men for us and go out to fight against Amalek. Tomorrow I will stand on the top of the hill with the staff of God in my hand.”
 
 ## Exodus 17:10
-So Joshua fought the Amalekites as Moses had instructed, and Moses, Aaron and Hur went to the top of the hill.
+Joshua did as Moses commanded and fought against Amalek, while Moses, Aaron, and Hur went up to the top of the hill.
 
 ## Exodus 17:11
-As long as Moses held up his hands, the Israelites were winning, but whenever he lowered his hands, the Amalekites were winning.
+Whenever Moses held up his hands, Israel prevailed; but when he lowered his hands, Amalek prevailed.
 
 ## Exodus 17:12
-When Moses’ hands grew tired, they took a stone and put it under him and he sat on it. Aaron and Hur held his hands up—one on each side—so that his hands remained steady until sunset.
+Moses' hands grew weary, so they placed a stone under him, and he sat on it. Aaron and Hur supported his hands, one on each side, so his hands remained steady until sunset.
 
 ## Exodus 17:13
-So Joshua overcame the Amalekite army with the sword.
+Joshua defeated Amalek and his people with the sword.
 
 ## Exodus 17:14
-Then the Lord said to Moses, “Write this on a scroll as something to be remembered and recite it to Joshua, because I will completely blot out the name of Amalek from under heaven.”
+The Lord said to Moses, “Write this as a memorial in a book and recite it to Joshua, for I will utterly blot out the memory of Amalek from under heaven.”
 
 ## Exodus 17:15
-Moses built an altar and called it The Lord is my Banner.
+Moses built an altar and called it The Lord is My Banner.
 
 ## Exodus 17:16
-He said, “Because hands were lifted up against the throne of the Lord, the Lord will be at war against the Amalekites from generation to generation.”
-
+He declared, “Because the Lord has sworn, the Lord will have war against Amalek from generation to generation.”

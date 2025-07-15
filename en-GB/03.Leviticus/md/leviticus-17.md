@@ -1,50 +1,49 @@
 # Leviticus Chapter 17
 
 ## Leviticus 17:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 17:2
-“Speak to Aaron and his sons and all the Israelites and say to them: This is what the Lord has commanded:
+“Speak to Aaron, his sons, and all the Israelites, and say to them: ‘This is what the Lord has commanded:
 
 ## Leviticus 17:3
-Any Israelite who sacrifices an ox, lamb, or goat in the camp or outside of it,
+Any member of the house of Israel who sacrifices an ox, a lamb, or a goat in the camp, or outside of it,
 
 ## Leviticus 17:4
-instead of bringing it to the entrance of the tent of meeting to offer it to the Lord, is guilty of bloodshed. That person must be cut off.
+and does not bring it to the entrance of the tent of meeting to offer it to the Lord in front of the tabernacle, shall be guilty of shedding blood. That person has shed blood and must be cut off from their people.
 
 ## Leviticus 17:5
-This is so that the Israelites will bring their sacrifices to the Lord at the entrance to the tent of meeting, instead of offering them in the open fields.
+This is so the Israelites will bring their sacrifices, which they are currently offering in the open fields, to the Lord at the entrance to the tent of meeting, to the priest, and offer them as fellowship offerings.
 
 ## Leviticus 17:6
-The priest shall splash the blood against the altar and burn the fat as a pleasing aroma to the Lord.
+The priest shall sprinkle the blood on the altar of the Lord at the entrance to the tent of meeting, and burn the fat as a pleasing aroma to the Lord.
 
 ## Leviticus 17:7
-They must no longer offer sacrifices to goat idols. This is a lasting ordinance.
+They must no longer offer their sacrifices to the goat demons, with whom they have been unfaithful. This is to be a lasting ordinance for them and for future generations.’
 
 ## Leviticus 17:8
-Say to them: Any Israelite or foreigner who offers a burnt offering or sacrifice
+“Say to them: ‘Any Israelite or any foreigner residing among them who offers a burnt offering or sacrifice
 
 ## Leviticus 17:9
-and does not bring it to the tent of meeting must be cut off from the people.
+and does not bring it to the entrance of the tent of meeting to offer it to the Lord must be cut off from their people.
 
 ## Leviticus 17:10
-Any Israelite or foreigner who eats blood, I will set My face against them and cut them off.
+I will set my face against any Israelite or any foreigner residing among them who consumes any blood, and I will cut them off from their people.
 
 ## Leviticus 17:11
-For the life of a creature is in the blood, and I have given it to make atonement for your lives.
+For the life of a creature is in the blood, and I have given it to you to make atonement for your souls on the altar; it is the blood that makes atonement for one's life.
 
 ## Leviticus 17:12
-That is why none of you may eat blood, and no foreigner among you may eat blood.
+Therefore I say to the Israelites: “None of you may consume blood, nor may any foreigner residing among you consume blood.”
 
 ## Leviticus 17:13
-Any Israelite or foreigner who hunts an animal or bird for food must drain its blood and cover it with earth.
+Any Israelite or any foreigner residing among you who hunts any animal or bird that may be eaten must drain out its blood and cover it with earth,
 
 ## Leviticus 17:14
-Because the life of every creature is its blood. Anyone who eats it must be cut off.
+because the life of every creature is in its blood. That is why I have said to the Israelites: “You must not consume the blood of any creature, because the life of every creature is its blood; anyone who consumes it must be cut off.”
 
 ## Leviticus 17:15
-Anyone who eats an animal found dead or torn by wild animals must wash their clothes and bathe, and they will be unclean until evening.
+Anyone, whether native-born or foreigner, who eats anything found dead or torn by wild animals must wash their clothes and bathe with water, and they will remain ceremonially unclean until evening; then they will be clean.
 
 ## Leviticus 17:16
-If they do not wash or bathe, they will be held responsible.
-
+But if they do not wash their clothes and bathe themselves, they will bear the responsibility for their guilt.

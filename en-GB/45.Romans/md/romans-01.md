@@ -2,162 +2,140 @@
 
 ## Romans 1:1
 
-Paul, a bond-servant of Christ Jesus, called as an apostle, set apart for the gospel of God,
+Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God—
 
 ## Romans 1:2
 
-which He promised beforehand through His prophets in the holy Scriptures,
+which he promised beforehand through his prophets in the holy Scriptures,
 
 ## Romans 1:3
 
-concerning His Son, who was born of a descendant of David according to the flesh,
+concerning his Son, who was a descendant of David according to the flesh,
 
 ## Romans 1:4
 
-who was declared the Son of God with power according to the Spirit of holiness,  
-by the resurrection from the dead—Jesus Christ our Lord,
+and who was declared to be the Son of God with power according to the Spirit of holiness by the resurrection from the dead, Jesus Christ our Lord.
 
 ## Romans 1:5
 
-through whom we have received grace and apostleship to bring about the obedience of faith  
-among all the Gentiles in behalf of His name,
+Through him we have received grace and apostleship to bring about the obedience of faith among all the Gentiles for his name’s sake.
 
 ## Romans 1:6
 
-among whom you also are the called of Jesus Christ;
+And you also are among those who are called to belong to Jesus Christ.
 
 ## Romans 1:7
 
-to all who are beloved of God in Rome, called as saints:  
-Grace to you and peace from God our Father and the Lord Jesus Christ.
+To all who are loved by God in Rome, called to be saints: Grace and peace to you from God our Father and the Lord Jesus Christ.
 
 ---
 
 ## Romans 1:8
 
-First, I thank my God through Jesus Christ for you all, because your faith is being proclaimed throughout the world.
+First, I thank my God through Jesus Christ for all of you, because your faith is being proclaimed throughout the world.
 
 ## Romans 1:9
 
-For God, whom I serve in my spirit in the preaching of the gospel of His Son,  
-is my witness as to how unceasingly I make mention of you,
+For God, whom I serve in my spirit in the preaching of the gospel of his Son, is my witness as to how unceasingly I remember you
 
 ## Romans 1:10
 
-always in my prayers requesting, if perhaps now at last by the will of God, I will succeed in coming to you.
+always in my prayers, asking that now at last by God’s will I may succeed in coming to you.
 
 ## Romans 1:11
 
-For I long to see you so that I may impart some spiritual gift to you, that you may be established;
+I long to see you so that I may impart to you some spiritual gift to make you strong—
 
 ## Romans 1:12
 
-that is, that I may be encouraged together with you while among you,  
-each of us by the other's faith, both yours and mine.
+that is, that we may be mutually encouraged by each other’s faith, both yours and mine.
 
 ## Romans 1:13
 
-I do not want you to be unaware, brothers and sisters,  
-that often I have planned to come to you (and have been prevented so far),  
-so that I may obtain some fruit among you also, just as among the rest of the Gentiles.
+I do not want you to be unaware, brothers and sisters, that I have often planned to come to you (but have been prevented until now) so that I may have a harvest among you, just as I have had among the other Gentiles.
 
 ## Romans 1:14
 
-I am under obligation both to Greeks and to the uncultured, both to the wise and to the foolish.
+I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.
 
 ## Romans 1:15
 
-So, for my part, I am eager to preach the gospel to you also who are in Rome.
+That is why I am eager to preach the gospel also to you who are in Rome.
 
 ---
 
 ## Romans 1:16
 
-For I am not ashamed of the gospel,  
-for it is the power of God for salvation to everyone who believes,  
-to the Jew first and also to the Greek.
+For I am not ashamed of the gospel, because it is the power of God for salvation to everyone who believes: first to the Jew, then to the Gentile.
 
 ## Romans 1:17
 
-For in it the righteousness of God is revealed from faith to faith;  
-as it is written: “But the righteous one will live by faith.”
+For in it the righteousness of God is revealed—a righteousness that is by faith from start to finish, as it is written: “The righteous will live by faith.”
 
 ---
 
 ## Romans 1:18
 
-For the wrath of God is revealed from heaven against all ungodliness and unrighteousness of people  
-who suppress the truth in unrighteousness,
+For the wrath of God is revealed from heaven against all ungodliness and wickedness of people, who suppress the truth by their wickedness,
 
 ## Romans 1:19
 
-because that which is known about God is evident within them; for God made it evident to them.
+because what is known about God is plain to them, for God has made it plain to them.
 
 ## Romans 1:20
 
-For since the creation of the world His invisible attributes, that is, His eternal power and divine nature,  
-have been clearly perceived, being understood by what has been made, so that they are without excuse.
+For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.
 
 ## Romans 1:21
 
-For even though they knew God, they did not honour Him as God or give thanks,  
-but they became futile in their reasonings, and their senseless hearts were darkened.
+For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.
 
 ## Romans 1:22
 
-Claiming to be wise, they became fools,
+Claiming to be wise, they became fools
 
 ## Romans 1:23
 
-and they exchanged the glory of the incorruptible God for an image  
-in the form of corruptible mankind, of birds, four-footed animals, and crawling creatures.
+and exchanged the glory of the immortal God for images resembling mortal man and birds and animals and reptiles.
 
 ---
 
 ## Romans 1:24
 
-Therefore God gave them up to vile impurity in the lusts of their hearts,  
-so that their bodies would be dishonoured among them.
+Therefore God gave them over in the sinful desires of their hearts to impurity, to dishonour their bodies with one another.
 
 ## Romans 1:25
 
-For they exchanged the truth of God for falsehood,  
-and worshipped and served the creature rather than the Creator, who is blessed forever. Amen.
+They exchanged the truth of God for a lie, and worshipped and served created things rather than the Creator—who is blessed forever. Amen.
 
 ---
 
 ## Romans 1:26
 
-For this reason God gave them up to degrading passions;  
-for their women exchanged natural relations for that which is contrary to nature,
+For this reason God gave them over to degrading passions. Even their women exchanged natural relations for unnatural ones.
 
 ## Romans 1:27
 
-and likewise the men, too, abandoned natural relations with women and burned in their desire toward one another:  
-males with males committing shameful acts and receiving in their own persons the due penalty of their error.
+In the same way, the men abandoned natural relations with women and were inflamed with lust for one another. Men committed shameful acts with other men and received in themselves the due penalty for their error.
 
 ---
 
 ## Romans 1:28
 
-And just as they did not see fit to acknowledge God,  
-God gave them up to a depraved mind, to do those things that are not proper,
+Furthermore, just as they did not think it worthwhile to retain the knowledge of God, God gave them over to a depraved mind, to do what ought not to be done.
 
 ## Romans 1:29
 
-people having been filled with all unrighteousness, wickedness, greed, and evil;  
-full of envy, murder, strife, deceit, and malice; they are gossips,
+They have become filled with every kind of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips,
 
 ## Romans 1:30
 
-slanderers, haters of God, insolent, arrogant, boastful, inventors of evil, disobedient to parents,
+slanderers, God-haters, insolent, arrogant, and boastful; they invent ways of doing evil; they disobey their parents;
 
 ## Romans 1:31
 
-without understanding, untrustworthy, unloving, unmerciful;
+they have no understanding, no fidelity, no love, no mercy.
 
 ## Romans 1:32
 
-and although they know the ordinance of God,  
-that those who practice such things are worthy of death,  
-they not only do the same, but also approve of those who practice them.
+Although they know God’s righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practise them.

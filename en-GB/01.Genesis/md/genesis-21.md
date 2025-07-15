@@ -1,104 +1,103 @@
 # Genesis Chapter 21
 
 ## Genesis 21:1
-Now the Lord was gracious to Sarah as He had said, and the Lord did for Sarah what He had promised.
+The Lord was attentive to Sarah as He had spoken, and the Lord fulfilled for Sarah what He had promised.
 
 ## Genesis 21:2
-Sarah became pregnant and bore a son to Abraham in his old age, at the very time God had promised him.
+Sarah conceived and bore a son to Abraham in his old age, at the time God had specified to him.
 
 ## Genesis 21:3
-Abraham gave the name Isaac to the son Sarah bore him.
+Abraham named his son Isaac, the son whom Sarah had borne to him.
 
 ## Genesis 21:4
-When his son Isaac was eight days old, Abraham circumcised him, as God had commanded him.
+Abraham circumcised his son Isaac when he was eight days old, following God's command.
 
 ## Genesis 21:5
-Abraham was a hundred years old when his son Isaac was born to him.
+Abraham was one hundred years old when his son Isaac was born to him.
 
 ## Genesis 21:6
-Sarah said, “God has brought me laughter, and everyone who hears about this will laugh with me.”
+Sarah declared, “God has brought me laughter, and everyone who hears will share in my joy.”
 
 ## Genesis 21:7
-And she added, “Who would have said to Abraham that Sarah would nurse children? Yet I have borne him a son in his old age.”
+She also said, “Who would have told Abraham that Sarah would nurse children? Yet I have given him a son in his old age.”
 
 ## Genesis 21:8
-The child grew and was weaned, and on the day Isaac was weaned Abraham held a great feast.
+The child grew and was weaned, and Abraham held a great feast on the day Isaac was weaned.
 
 ## Genesis 21:9
-But Sarah saw that the son whom Hagar the Egyptian had borne to Abraham was mocking,
+Sarah observed the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.
 
 ## Genesis 21:10
-and she said to Abraham, “Get rid of that slave woman and her son, for that woman’s son will never share in the inheritance with my son Isaac.”
+She said to Abraham, “Expel this slave woman and her son, for the son of this slave shall not share the inheritance with my son Isaac.”
 
 ## Genesis 21:11
-The matter distressed Abraham greatly because it concerned his son.
+This matter troubled Abraham greatly because of his son.
 
 ## Genesis 21:12
-But God said to him, “Do not be so distressed about the boy and your servant. Listen to whatever Sarah tells you, because it is through Isaac that your offspring will be reckoned.
+But God said to Abraham, “Do not be distressed about the boy and your slave woman. Listen to Sarah, for through Isaac your descendants will be named.
 
 ## Genesis 21:13
-I will make the son of the servant into a nation also, because he is your offspring.”
+I will also make the son of the slave woman into a nation, because he is your descendant.”
 
 ## Genesis 21:14
-Early the next morning Abraham took some food and a skin of water and gave them to Hagar. He set them on her shoulders and sent her off with the boy.
+Early the next morning, Abraham took bread and a skin of water and gave them to Hagar, placing them on her shoulder, and sent her away with the boy. She departed and wandered in the wilderness of Beersheba.
 
 ## Genesis 21:15
-When the water in the skin was gone, she put the boy under one of the bushes.
+When the water in the skin was exhausted, she placed the boy under one of the bushes.
 
 ## Genesis 21:16
-Then she went off and sat down about a bowshot away, for she thought, “I cannot watch the boy die.” And she sat there, weeping.
+She went and sat down opposite him, about a bowshot away, saying, “I cannot watch the boy die.” And she sat there, raising her voice and weeping.
 
 ## Genesis 21:17
-God heard the boy crying, and the angel of God called to Hagar from heaven and said, “What is the matter, Hagar? Do not be afraid; God has heard the boy crying as he lies there.
+God heard the boy's cries, and the angel of God called to Hagar from heaven, “What troubles you, Hagar? Do not fear, for God has heard the boy's voice where he is.
 
 ## Genesis 21:18
-Lift the boy up and take him by the hand, for I will make him into a great nation.”
+Arise, lift up the boy, and hold him by the hand, for I will make him into a great nation.”
 
 ## Genesis 21:19
-Then God opened her eyes and she saw a well of water. So she went and filled the skin with water and gave the boy a drink.
+Then God opened her eyes, and she saw a well of water. She went and filled the skin with water and gave the boy a drink.
 
 ## Genesis 21:20
-God was with the boy as he grew up. He lived in the desert and became an archer.
+God was with the boy as he grew up. He lived in the wilderness and became an archer.
 
 ## Genesis 21:21
-While he was living in the Desert of Paran, his mother got a wife for him from Egypt.
+He lived in the wilderness of Paran, and his mother found him a wife from Egypt.
 
 ## Genesis 21:22
-At that time Abimelek and Phicol the commander of his forces said to Abraham, “God is with you in everything you do.
+At that time, Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you in all that you do.
 
 ## Genesis 21:23
-Now swear to me here before God that you will not deal falsely with me or my descendants. Show to me and to the land where you have been living the same kindness I have shown you.”
+Now swear to me here before God that you will not deceive me or my descendants. Show the same kindness to me and the land where you reside as I have shown to you.”
 
 ## Genesis 21:24
 Abraham said, “I swear it.”
 
 ## Genesis 21:25
-Then Abraham complained to Abimelek about a well of water that Abimelek’s servants had seized.
+Then Abraham complained to Abimelech about a well of water that Abimelech’s servants had seized.
 
 ## Genesis 21:26
-But Abimelek said, “I don’t know who has done this. You did not tell me, and I heard about it only today.”
+Abimelech replied, “I do not know who has done this. You did not inform me, and I only heard about it today.”
 
 ## Genesis 21:27
-So Abraham brought sheep and cattle and gave them to Abimelek, and the two men made a treaty.
+So Abraham took sheep and cattle and gave them to Abimelech, and the two men made a covenant.
 
 ## Genesis 21:28
-Abraham set apart seven ewe lambs from the flock,
+Abraham set apart seven ewe lambs from the flock.
 
 ## Genesis 21:29
-and Abimelek asked Abraham, “What is the meaning of these seven ewe lambs you have set apart by themselves?”
+Abimelech asked Abraham, “What is the significance of these seven ewe lambs you have set apart?”
 
 ## Genesis 21:30
-He replied, “Accept these seven lambs from my hand as a witness that I dug this well.”
+He replied, “Accept these seven lambs from my hand as a testimony that I dug this well.”
 
 ## Genesis 21:31
-So that place was called Beersheba, because the two men swore an oath there.
+Therefore, that place was called Beersheba, because there the two of them swore an oath.
 
 ## Genesis 21:32
-After the treaty had been made at Beersheba, Abimelek and Phicol the commander of his forces returned to the land of the Philistines.
+After making a covenant at Beersheba, Abimelech and Phicol, the commander of his army, returned to the land of the Philistines.
 
 ## Genesis 21:33
-Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Eternal God.
+Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Everlasting God.
 
 ## Genesis 21:34
-And Abraham stayed in the land of the Philistines for a long time.
-
+And Abraham resided in the land of the Philistines for a long period.

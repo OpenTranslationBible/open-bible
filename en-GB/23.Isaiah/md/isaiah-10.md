@@ -1,155 +1,141 @@
 # Isaiah Chapter 10
 
-## Isaiah 10:1  
-Woe to those who enact unjust statutes  
-And to those who constantly record harmful decisions,
+## Isaiah 10:1
 
-## Isaiah 10:2  
-So as to deprive the needy of justice  
-And rob the poor among My people of their rights,  
-So that widows may be their spoil,  
-And that they may plunder orphans.
+Woe to those who craft unjust laws and to those who continually record harmful decrees,
 
-## Isaiah 10:3  
-Now what will you do on the day of punishment,  
-And on the devastation which will come from afar?  
-To whom will you flee for help?  
-And where will you leave your wealth?
+## Isaiah 10:2
 
-## Isaiah 10:4  
-Nothing remains but to crouch among the captives  
-Or fall among those killed.  
-In spite of all this, His anger does not turn away,  
-And His hand is still stretched out.
+to deny justice to the needy and rob the poor of my people of their rights, making widows their spoil and plundering the fatherless.
+
+## Isaiah 10:3
+
+What will you do on the day of judgement, when devastation comes from afar? To whom will you flee for help, and where will you leave your wealth?
+
+## Isaiah 10:4
+
+All that remains is to crouch among the captives or fall among the slain. Yet despite all this, his anger does not turn away, and his hand remains outstretched.
 
 ---
 
-## Isaiah 10:5  
-Woe to Assyria, the rod of My anger  
-And the staff in whose hands is My indignation,
+## Isaiah 10:5
 
-## Isaiah 10:6  
-I send it against a godless nation  
-And commission it against the people of My fury  
-To capture spoils and to seize plunder,  
-And to trample them down like mud in the streets.
+Woe to Assyria, the rod of my anger, in whose hand is the staff of my indignation.
 
-## Isaiah 10:7  
-Yet it does not so intend,  
-Nor does it plan so in its heart,  
-But rather it is its purpose to destroy  
-And to eliminate many nations.
+## Isaiah 10:6
 
-## Isaiah 10:8  
-For it says, “Are not my officers all kings?
+I send him against a godless nation, and I commission him against the people of my wrath, to capture spoils and seize plunder, and to trample them down like mud in the streets.
 
-## Isaiah 10:9  
-Is not Calno like Carchemish,  
-Or Hamath like Arpad,  
-Or Samaria like Damascus?
+## Isaiah 10:7
 
-## Isaiah 10:10  
-As my hand has reached to the kingdoms of the idols,  
-Whose carved images were greater than those of Jerusalem and Samaria,
+Yet this is not what he intends, nor does he plan it in his heart; his purpose is to destroy and to eliminate many nations.
 
-## Isaiah 10:11  
-Shall I not do to Jerusalem and her images  
-Just as I have done to Samaria and her idols?”
+## Isaiah 10:8
 
-## Isaiah 10:12  
-So it will be that when the Lord has completed all His work on Mount Zion and on Jerusalem, He will say,  
-“I will punish the fruit of the arrogant heart of the king of Assyria and the arrogant pride of his eyes.”
+For he says, “Are not my commanders all kings?”
 
-## Isaiah 10:13  
-For he has said,  
-“By the power of my hand and by my wisdom I did this,  
-For I have understanding;  
-And I removed the boundaries of the peoples  
-And plundered their treasures,  
-And like a mighty man I brought down their inhabitants,
+## Isaiah 10:9
 
-## Isaiah 10:14  
-And my hand reached to the wealth of the peoples like a nest,  
-And as one gathers abandoned eggs, I gathered all the earth.  
-And there was not one that flapped its wing, or opened its beak, or chirped.”
+“Is not Calno like Carchemish? Is not Hamath like Arpad, and Samaria like Damascus?
 
-## Isaiah 10:15  
-Is the axe to boast itself over the one who chops with it?  
-Is the saw to exalt itself over the one who wields it?  
-That would be like a club wielding those who lift it,  
-Or like a rod lifting the one who is not wood.
+## Isaiah 10:10
 
-## Isaiah 10:16  
-Therefore the Lord, the God of armies, will send a wasting disease among his fat ones;  
-And under his glory a fire will be kindled like a burning flame.
+As my hand has reached the kingdoms of the idols, whose carved images were greater than those of Jerusalem and Samaria—
 
-## Isaiah 10:17  
-And the Light of Israel will become a fire and his Holy One a flame,  
-And it will burn and consume his thorns and his briars in a single day.
+## Isaiah 10:11
 
-## Isaiah 10:18  
-And He will destroy the glory of his forest and of his fruitful garden, both soul and body,  
-And it will be as when a sick person wastes away.
+shall I not do to Jerusalem and her images what I have done to Samaria and her idols?”
 
-## Isaiah 10:19  
-And the rest of the trees of his forest will be so small in number  
-That a child could write them down.
+## Isaiah 10:12
+
+When the Lord has completed all his work against Mount Zion and Jerusalem, he will say, “I will punish the fruit of the arrogant heart of the king of Assyria and the proud look in his eyes.”
+
+## Isaiah 10:13
+
+For he has said, “By the strength of my hand and by my wisdom I have done this, because I have understanding; I removed the boundaries of nations and plundered their treasures; like a mighty one I subdued their inhabitants.
+
+## Isaiah 10:14
+
+My hand reached for the wealth of the peoples like a nest, and as one gathers abandoned eggs, I gathered all the earth; not one flapped a wing, opened its beak, or chirped.”
+
+## Isaiah 10:15
+
+Does the axe boast over the one who wields it, or the saw exalt itself over the one who uses it? That would be like a rod wielding the one who lifts it, or a club brandishing the one who is not wood.
+
+## Isaiah 10:16
+
+Therefore, the Lord, the Lord of hosts, will send a wasting disease among his stout warriors; under his glory a fire will be kindled like a burning flame.
+
+## Isaiah 10:17
+
+The Light of Israel will become a fire, and their Holy One a flame; it will burn and devour his thorns and briers in a single day.
+
+## Isaiah 10:18
+
+He will destroy the splendour of his forest and his fertile fields, both soul and body; it will be as when a sick person wastes away.
+
+## Isaiah 10:19
+
+The remaining trees of his forest will be so few that a child could write them down.
 
 ---
 
-## Isaiah 10:20  
-Now on that day the remnant of Israel, and those of the house of Jacob who have escaped, will never again rely on the one who struck them,  
-But will truly rely on the Lord, the Holy One of Israel.
+## Isaiah 10:20
 
-## Isaiah 10:21  
-A remnant will return, the remnant of Jacob, to the mighty God.
+On that day, the remnant of Israel, the survivors of the house of Jacob, will no longer rely on him who struck them down, but will truly rely on the Lord, the Holy One of Israel.
 
-## Isaiah 10:22  
-For though your people, Israel, may be like the sand of the sea, only a remnant within them will return;  
-A destruction is determined, overflowing with righteousness.
+## Isaiah 10:21
 
-## Isaiah 10:23  
-For a complete destruction, one that is determined, the Lord God of armies will execute in the midst of the whole land.
+A remnant will return, the remnant of Jacob, to the Mighty God.
 
-## Isaiah 10:24  
-Therefore this is what the Lord God of armies says:  
-“My people, you who dwell in Zion, do not fear the Assyrian who strikes you with the rod and lifts up his staff against you, as the Egyptians did.
+## Isaiah 10:22
 
-## Isaiah 10:25  
-For in a very little while My indignation against you will be ended,  
-And My anger will be directed toward their destruction.”
+Though your people, Israel, be like the sand of the sea, only a remnant will return. A destruction has been decreed, overflowing with righteousness.
 
-## Isaiah 10:26  
-The Lord of armies will brandish a whip against him like the slaughter of Midian at the rock of Oreb;  
-And His staff will be over the sea, and He will lift it up as He did in Egypt.
+## Isaiah 10:23
 
-## Isaiah 10:27  
-So it will be on that day, that his burden will be removed from your shoulders and his yoke from your neck,  
-And the yoke will be broken because of fatness.
+The Lord, the Lord of hosts, will carry out the decreed destruction upon the whole land.
 
-## Isaiah 10:28  
-He has come against Aiath, he has passed through Migron;  
-At Michmash he deposited his baggage.
+## Isaiah 10:24
 
-## Isaiah 10:29  
-They have gone through the pass, saying, “Geba will be our encampment for the night.”  
-Ramah is terrified, and Gibeah of Saul has fled.
+Therefore, this is what the Lord, the Lord of hosts, says: “My people who dwell in Zion, do not fear the Assyrian, who strikes you with a rod and lifts up his staff against you, as Egypt did.
 
-## Isaiah 10:30  
-Cry aloud with your voice, daughter of Gallim!  
-Pay attention, Laishah and wretched Anathoth!
+## Isaiah 10:25
 
-## Isaiah 10:31  
-Madmenah has fled. The inhabitants of Gebim have sought refuge.
+For in a very little while, my indignation against you will end, and my wrath will be directed towards their destruction.”
 
-## Isaiah 10:32  
-Yet today he will halt at Nob;  
-He shakes his fist at the mountain of the daughter of Zion, the hill of Jerusalem.
+## Isaiah 10:26
 
-## Isaiah 10:33  
-Behold, the Lord, the God of armies, is going to lop off the boughs with terrifying power;  
-The tall ones will be cut down, and the lofty will be abased.
+The Lord of hosts will wield a whip against them, as he did when he struck down Midian at the rock of Oreb; and he will raise his staff over the sea, as he did in Egypt.
 
-## Isaiah 10:34  
-He will cut down the thickets of the forest with an iron axe,  
-And Lebanon will fall by the Mighty One.
+## Isaiah 10:27
+
+On that day, their burden will be removed from your shoulders, and their yoke from your neck; the yoke will be broken because of fatness.
+
+## Isaiah 10:28
+
+They have come against Aiath; they have passed through Migron; at Michmash, they have deposited their supplies.
+
+## Isaiah 10:29
+
+They have crossed the pass, saying, “We will camp overnight at Geba.” Ramah trembles, Gibeah of Saul flees.
+
+## Isaiah 10:30
+
+Cry out, daughter of Gallim! Listen, Laishah! Poor Anathoth!
+
+## Isaiah 10:31
+
+Madmenah has fled; the inhabitants of Gebim have sought refuge.
+
+## Isaiah 10:32
+
+This very day they will halt at Nob; they shake their fist at the mount of the daughter of Zion, the hill of Jerusalem.
+
+## Isaiah 10:33
+
+Behold, the Lord, the Lord of hosts, will lop off the branches with great power; the tall trees will be felled, and the lofty will be brought low.
+
+## Isaiah 10:34
+
+He will cut down the thickets of the forest with an iron axe; Lebanon will fall before the Mighty One.

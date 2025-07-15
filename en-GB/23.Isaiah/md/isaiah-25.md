@@ -1,50 +1,37 @@
 # Isaiah Chapter 25
 
-## Isaiah 25:1  
-Lord, You are my God; I will exalt You, I will give thanks to Your name;  
-For You have worked wonders, plans formed long ago, with perfect faithfulness.
+## Isaiah 25:1
+Lord, you are my God; I will exalt you and give thanks to your name, for you have accomplished wonderful deeds, plans formed long ago with perfect faithfulness.
 
-## Isaiah 25:2  
-For You have turned a city into a heap, a fortified city into a ruin;  
-A palace of strangers is no longer a city, it will never be rebuilt.
+## Isaiah 25:2
+You have turned the city into a heap, the fortified city into a ruin; the palace of foreigners is no longer a city, it will never be rebuilt.
 
-## Isaiah 25:3  
-Therefore a strong people will glorify You; cities of ruthless nations will revere You.
+## Isaiah 25:3
+Therefore, strong peoples will glorify you; cities of ruthless nations will revere you.
 
-## Isaiah 25:4  
-For You have been a stronghold for the helpless, a stronghold for the poor in his distress,  
-A refuge from the storm, a shade from the heat;  
-For the breath of the ruthless is like a rainstorm against a wall.
+## Isaiah 25:4
+For you have been a stronghold for the poor, a refuge for the needy in their distress, a shelter from the storm and a shade from the heat; for the breath of the ruthless is like a storm against a wall.
 
-## Isaiah 25:5  
-Like heat in a dry land, You subdue the uproar of foreigners;  
-Like heat by the shadow of a cloud, the song of the ruthless is silenced.
+## Isaiah 25:5
+Like heat in a dry land, you subdue the uproar of foreigners; as heat is reduced by the shadow of a cloud, so the song of the ruthless is silenced.
 
-## Isaiah 25:6  
-Now the Lord of armies will prepare a lavish banquet for all peoples on this mountain,  
-A banquet of aged wine, choice pieces with marrow, and refined aged wine.
+## Isaiah 25:6
+On this mountain, the Lord of hosts will prepare a lavish feast for all peoples, a banquet of aged wine, the best of meats and the finest of wines.
 
-## Isaiah 25:7  
-And on this mountain He will destroy the covering which is over all peoples,  
-The veil which is stretched over all nations.
+## Isaiah 25:7
+And on this mountain, he will destroy the shroud that enfolds all peoples, the veil that is spread over all nations.
 
-## Isaiah 25:8  
-He will swallow up death for all time, and the Lord God will wipe tears away from all faces,  
-And He will remove the disgrace of His people from all the earth; for the Lord has spoken.
+## Isaiah 25:8
+He will swallow up death forever, and the Sovereign Lord will wipe away the tears from all faces; he will remove the disgrace of his people from all the earth. The Lord has spoken.
 
-## Isaiah 25:9  
-And it will be said on that day,  
-“Behold, this is our God for whom we have waited, that He might save us.  
-This is the Lord for whom we have waited; let’s rejoice and be glad in His salvation.”
+## Isaiah 25:9
+And on that day, it will be said, “Surely this is our God; we have waited for him, and he has saved us. This is the Lord for whom we have waited; let us rejoice and be glad in his salvation.”
 
-## Isaiah 25:10  
-For the hand of the Lord will rest on this mountain,  
-And Moab will be trampled in his place as straw is trampled in the water of a manure pile.
+## Isaiah 25:10
+For the hand of the Lord will rest on this mountain, but Moab will be trampled down in their place as straw is trampled down in the water of a manure pile.
 
-## Isaiah 25:11  
-And he will spread out his hands in the middle of it as a swimmer spreads out his hands to swim,  
-But the Lord will lay low his pride together with the trickery of his hands.
+## Isaiah 25:11
+They will spread out their hands in it, as swimmers spread out their hands to swim, but the Lord will bring down their pride together with the cleverness of their hands.
 
-## Isaiah 25:12  
-The unassailable fortifications of your walls He will bring down,  
-Lay low, and cast to the ground, even to the dust.
+## Isaiah 25:12
+The high fortified walls he will bring down, lay low, and throw to the ground, to the dust.

@@ -2,206 +2,142 @@
 
 ## Proverbs 23:1
 
-When you sit down to dine with a ruler,  
-Consider carefully what is before you,
+When you sit to dine with a ruler, pay careful attention to what is set before you,
 
 ## Proverbs 23:2
 
-And put a knife to your throat  
-If you are a person of great appetite.
+and put a knife to your throat if you are prone to great appetite.
 
 ## Proverbs 23:3
 
-Do not desire his delicacies,  
-For it is deceptive food.
-
----
+Do not desire his delicacies, for that food is deceptive.
 
 ## Proverbs 23:4
 
-Do not weary yourself to gain wealth;  
-Stop dwelling on it.
+Do not exhaust yourself in pursuit of wealth; cease relying on your own understanding.
 
 ## Proverbs 23:5
 
-When you set your eyes on it, it is gone.  
-For wealth certainly makes itself wings  
-Like an eagle that flies toward the heavens.
+When you fix your eyes on it, it is gone, for riches will surely sprout wings and fly to the sky like an eagle.
 
 ---
 
 ## Proverbs 23:6
 
-Do not eat the bread of a selfish person,  
-Or desire his delicacies;
+Do not eat the bread of a begrudging host, nor desire his delicacies;
 
 ## Proverbs 23:7
 
-For as he thinks within himself, so he is.  
-“Eat and drink!” he says to you,  
-But his heart is not with you.
+for as he thinks in his heart, so is he. He says to you, “Eat and drink,” but his heart is not with you.
 
 ## Proverbs 23:8
 
-You will vomit up the morsel you have eaten  
-And waste your pleasant words.
-
----
+You will vomit up the morsel you have eaten and squander your compliments.
 
 ## Proverbs 23:9
 
-Do not speak in the ears of a fool,  
-For he will despise the wisdom of your words.
-
----
+Do not speak in the hearing of a fool, for he will scorn the wisdom of your words.
 
 ## Proverbs 23:10
 
-Do not move the ancient boundary  
-Or go into the fields of the fatherless;
+Do not move an ancient boundary stone or encroach upon the fields of the fatherless,
 
 ## Proverbs 23:11
 
-For their Redeemer is strong;  
-He will plead their case against you.
-
----
+for their Redeemer is mighty; he will plead their cause against you.
 
 ## Proverbs 23:12
 
-Apply your heart to discipline  
-And your ears to words of knowledge.
-
----
+Apply your heart to instruction and your ears to words of knowledge.
 
 ## Proverbs 23:13
 
-Do not withhold discipline from a child;  
-Though you strike him with the rod, he will not die.
+Do not withhold discipline from a child; if you strike them with the rod, they will not die.
 
 ## Proverbs 23:14
 
-You shall strike him with the rod  
-And rescue his soul from Sheol.
-
----
+Strike them with the rod and rescue their soul from Sheol.
 
 ## Proverbs 23:15
 
-My son, if your heart is wise,  
-My own heart also will be glad;
+My son, if your heart is wise, then my heart will be glad indeed;
 
 ## Proverbs 23:16
 
-And my innermost being will rejoice  
-When your lips speak what is right.
-
----
+my inmost being will rejoice when your lips speak what is right.
 
 ## Proverbs 23:17
 
-Do not let your heart envy sinners,  
-But live in the fear of the Lord always.
+Do not let your heart envy sinners, but always be zealous for the fear of the Lord.
 
 ## Proverbs 23:18
 
-Certainly there is a future,  
-And your hope will not be cut off.
-
----
+There is surely a future hope for you, and your hope will not be cut off.
 
 ## Proverbs 23:19
 
-Listen, my son, and be wise,  
-And direct your heart in the way.
+Listen, my son, and be wise, and direct your heart in the right way:
 
 ## Proverbs 23:20
 
-Do not be with heavy drinkers of wine,  
-Or with gluttonous eaters of meat;
+Do not be among those who drink too much wine or gorge themselves on meat,
 
 ## Proverbs 23:21
 
-For the heavy drinker and the glutton will come to poverty,  
-And drowsiness will clothe one with rags.
-
----
+for drunkards and gluttons will come to poverty, and drowsiness will clothe them in rags.
 
 ## Proverbs 23:22
 
-Listen to your father, who fathered you,  
-And do not despise your mother when she is old.
+Listen to your father, who gave you life, and do not despise your mother when she is old.
 
 ## Proverbs 23:23
 
-Buy truth, and do not sell it,  
-Get wisdom, instruction, and understanding.
+Buy the truth and do not sell it; acquire wisdom, instruction, and understanding.
 
 ## Proverbs 23:24
 
-The father of the righteous will greatly rejoice,  
-And he who fathers a wise son will be glad in him.
+The father of a righteous child will have great joy; he who fathers a wise son will rejoice in him.
 
 ## Proverbs 23:25
 
-Let your father and your mother be glad,  
-And let her rejoice who gave birth to you.
-
----
+Let your father and mother be glad; let her who gave you birth rejoice.
 
 ## Proverbs 23:26
 
-Give me your heart, my son,  
-And let your eyes delight in my ways.
+My son, give me your heart and let your eyes take pleasure in my ways,
 
 ## Proverbs 23:27
 
-For a prostitute is a deep pit,  
-And a strange woman is a narrow well.
+for a promiscuous woman is a deep pit, and a wayward wife is a narrow well.
 
 ## Proverbs 23:28
 
-Surely she lurks as a robber,  
-And increases the treacherous among mankind.
-
----
+She lurks like a bandit and increases the unfaithful among men.
 
 ## Proverbs 23:29
 
-Who has woe? Who has sorrow?  
-Who has contentions? Who has complaints?  
-Who has wounds without cause?  
-Who has red eyes?
+Who has woe? Who has sorrow? Who has strife? Who has complaints? Who has needless bruises? Who has bloodshot eyes?
 
 ## Proverbs 23:30
 
-Those who linger long over wine,  
-Those who go to taste mixed wine.
+Those who linger long over wine, who go to sample mixed wine.
 
 ## Proverbs 23:31
 
-Do not look at wine when it is red,  
-When it sparkles in the cup,  
-When it goes down smoothly;
+Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly;
 
 ## Proverbs 23:32
 
-In the end it bites like a serpent,  
-And stings like a viper.
+in the end it bites like a serpent and stings like a viper.
 
 ## Proverbs 23:33
 
-Your eyes will see strange things,  
-And your mind will speak perverse things.
+Your eyes will see strange things, and your mind will utter perverse things.
 
 ## Proverbs 23:34
 
-And you will be like one who lies down in the middle of the sea,  
-Or like one who lies down on the top of a mast.
+You will be like one sleeping on the high seas, lying on top of the mast.
 
 ## Proverbs 23:35
 
-“They struck me, but I did not become ill;  
-They beat me, but I did not know it.  
-When will I awake?  
-I will seek another drink.”
+“They struck me,” you will say, “but I was not hurt! They beat me, but I did not feel it! When will I wake up so I can find another drink?”

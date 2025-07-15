@@ -1,62 +1,61 @@
 # Genesis Chapter 23
 
 ## Genesis 23:1
-Sarah lived to be 127 years old.
+Sarah lived for one hundred and twenty-seven years; these were the years of Sarah's life.
 
 ## Genesis 23:2
-She died at Kiriath Arba (that is, Hebron) in the land of Canaan, and Abraham went to mourn for Sarah and to weep over her.
+Sarah passed away in Kiriath Arba (which is Hebron) in the land of Canaan, and Abraham came to mourn for Sarah and to weep for her.
 
 ## Genesis 23:3
-Then Abraham rose from beside his dead wife and spoke to the Hittites.
+Then Abraham got up from beside his dead wife and spoke to the Hittites, saying,
 
 ## Genesis 23:4
-“I am a foreigner and stranger among you. Sell me some property for a burial site so I can bury my dead.”
+“I am a foreigner and a stranger among you. Sell me a piece of property for a burial site here, so I may bury my dead out of my sight.”
 
 ## Genesis 23:5
-The Hittites replied to Abraham,
+The Hittites answered Abraham, saying to him,
 
 ## Genesis 23:6
-“Sir, listen to us. You are a mighty prince among us. Bury your dead in the choicest of our tombs. None of us will refuse you his tomb for burying your dead.”
+“Hear us, my lord. You are a mighty prince among us; bury your dead in the finest of our tombs. None of us will withhold his tomb from you for burying your dead.”
 
 ## Genesis 23:7
-Then Abraham rose and bowed down before the people of the land, the Hittites.
+Abraham then rose and bowed to the people of the land, the Hittites.
 
 ## Genesis 23:8
-He said to them, “If you are willing to let me bury my dead, listen to me and intercede with Ephron son of Zohar on my behalf.
+He said to them, “If you are willing that I should bury my dead out of my sight, listen to me and intercede for me with Ephron son of Zohar,
 
 ## Genesis 23:9
-So he will sell me the cave of Machpelah, which belongs to him and is at the end of his field. Ask him to sell it to me for the full price as a burial site among you.”
+that he may sell me the cave of Machpelah, which belongs to him and is at the end of his field. Let him sell it to me for the full price as a burial site among you.”
 
 ## Genesis 23:10
-Ephron the Hittite was sitting among his people and he replied to Abraham in the hearing of all the Hittites who had come to the gate of the city.
+Ephron was sitting among the Hittites, and he replied to Abraham in the hearing of all the Hittites who had come to the gate of his city, saying,
 
 ## Genesis 23:11
-“No, my lord,” he said. “Listen to me; I give you the field, and I give you the cave that is in it. I give it to you in the presence of my people. Bury your dead.”
+“No, my lord, listen to me. I give you the field, and I give you the cave that is in it. In the presence of my people, I give it to you. Bury your dead.”
 
 ## Genesis 23:12
-Again Abraham bowed down before the people of the land.
+Abraham again bowed down before the people of the land.
 
 ## Genesis 23:13
-And he said to Ephron in their hearing, “Listen to me, if you will. I will pay the price of the field. Accept it from me so I can bury my dead there.”
+He spoke to Ephron in their hearing, saying, “If you will, please listen to me. I will pay the price of the field. Accept it from me so that I may bury my dead there.”
 
 ## Genesis 23:14
-Ephron answered Abraham,
+Ephron answered Abraham, saying to him,
 
 ## Genesis 23:15
-“Listen to me, my lord; the land is worth four hundred shekels of silver, but what is that between you and me? Bury your dead.”
+“My lord, listen to me: the land is worth four hundred shekels of silver. What is that between you and me? Bury your dead.”
 
 ## Genesis 23:16
-Abraham agreed to Ephron’s terms and weighed out for him the price he had named in the hearing of the Hittites: four hundred shekels of silver, according to the standard used by the merchants.
+Abraham agreed with Ephron and weighed out for him the silver he had named in the hearing of the Hittites: four hundred shekels of silver, according to the weight current among merchants.
 
 ## Genesis 23:17
-So Ephron’s field in Machpelah near Mamre—the field and the cave in it, and all the trees within the borders of the field—was legally transferred
+Thus, Ephron’s field in Machpelah near Mamre—the field with the cave in it, and all the trees within the borders of the field—was deeded
 
 ## Genesis 23:18
-to Abraham as his property in the presence of all the Hittites who had come to the gate of the city.
+to Abraham as his possession in the presence of the Hittites, before all who entered the gate of his city.
 
 ## Genesis 23:19
-Afterward Abraham buried his wife Sarah in the cave in the field of Machpelah near Mamre (that is, Hebron) in the land of Canaan.
+After this, Abraham buried Sarah his wife in the cave of the field of Machpelah near Mamre (which is Hebron) in the land of Canaan.
 
 ## Genesis 23:20
-So the field and the cave in it were deeded to Abraham by the Hittites as a burial site.
-
+Thus the field and the cave in it were deeded to Abraham by the Hittites as a burial site.

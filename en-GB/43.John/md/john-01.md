@@ -6,249 +6,216 @@ In the beginning was the Word, and the Word was with God, and the Word was God.
 
 ## John 1:2
 
-He was in the beginning with God.
+He was with God in the beginning.
 
 ## John 1:3
 
-All things came into being through Him, and apart from Him not even one thing came into being that has come into being.
+All things came into being through him, and without him not one thing was made that has been made.
 
 ## John 1:4
 
-In Him was life, and the life was the Light of mankind.
+In him was life, and that life was the light of all mankind.
 
 ## John 1:5
 
-And the Light shines in the darkness, and the darkness did not grasp it.
+The light shines in the darkness, and the darkness has not overcome it.
 
 ---
 
 ## John 1:6
 
-A man came, sent from God, whose name was John.
+There was a man sent from God; his name was John.
 
 ## John 1:7
 
-He came as a witness, to testify about the Light, so that all might believe through him.
+He came as a witness to testify about the light, so that through him all might believe.
 
 ## John 1:8
 
-He was not the Light, but he came to testify about the Light.
+He himself was not the light; he came only to bear witness to the light.
 
 ---
 
 ## John 1:9
 
-This was the true Light that, coming into the world, enlightens every person.
+The true light that gives light to every person was coming into the world.
 
 ## John 1:10
 
-He was in the world, and the world came into being through Him, and yet the world did not know Him.
+He was in the world, and though the world was made through him, the world did not recognise him.
 
 ## John 1:11
 
-He came to His own, and His own people did not accept Him.
+He came to his own, but his own did not accept him.
 
 ## John 1:12
 
-But as many as received Him, to them He gave the right to become children of God,  
-to those who believe in His name,
+Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—
 
 ## John 1:13
 
-who were born, not of blood, nor of the will of the flesh, nor of the will of a man, but of God.
+children born not of natural descent, nor of human decision or a husband’s will, but born of God.
 
 ---
 
 ## John 1:14
 
-And the Word became flesh, and dwelt among us;  
-and we saw His glory, glory as of the only Son from the Father, full of grace and truth.
+The Word became flesh and dwelt among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
 
 ## John 1:15
 
-John _testified about Him_ and called out, saying,  
-“This was He of whom I said, ‘He who is coming after me has proved to be my superior, because He existed before me.’”
+John testified concerning him. He cried out, saying, “This is the one of whom I said, ‘He who comes after me has surpassed me because he was before me.’”
 
 ## John 1:16
 
-For of His fullness we have all received, and grace upon grace.
+Out of his fullness we have all received grace upon grace.
 
 ## John 1:17
 
-For the Law was given through Moses; grace and truth were realised through Jesus Christ.
+For the law was given through Moses; grace and truth came through Jesus Christ.
 
 ## John 1:18
 
-No one has seen God at any time;  
-God the only Son, who is in the arms of the Father, He has explained Him.
+No one has ever seen God, but the only Son, who is himself God and is in closest relationship with the Father, has made him known.
 
 ---
 
 ## John 1:19
 
-This is the testimony of John, when the Jews sent priests and Levites to him from Jerusalem to ask him,  
-“Who are you?”
+This was John’s testimony when the Jewish leaders sent priests and Levites from Jerusalem to ask him, “Who are you?”
 
 ## John 1:20
 
-And he confessed and did not deny; and this is what he confessed: “I am not the Christ.”
+He confessed freely and did not deny, but confessed, “I am not the Messiah.”
 
 ## John 1:21
 
-And so they asked him, “What then? Are you Elijah?” And he _said_, “I am not.”  
-“Are you the Prophet?” And he answered, “No.”
+They asked him, “Then who are you? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”
 
 ## John 1:22
 
-Then they said to him,  
-“Who are you? Tell us, so that we may give an answer to those who sent us.  
-What do you say about yourself?”
+Finally they said, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”
 
 ## John 1:23
 
-He said,  
-“I am the voice of one calling out in the wilderness,  
-‘Make the way of the Lord straight,’  
-as Isaiah the prophet said.”
+John replied in the words of Isaiah the prophet, “I am the voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”
 
 ---
 
 ## John 1:24
 
-And the messengers had been sent from the Pharisees.
+Now the messengers had been sent from the Pharisees.
 
 ## John 1:25
 
-They asked him, and said to him,  
-“Why then are you baptising, if you are not the Christ, nor Elijah, nor the Prophet?”
+They questioned him, “Why then do you baptise if you are not the Messiah, nor Elijah, nor the Prophet?”
 
 ## John 1:26
 
-John answered them, saying,  
-“I baptise in water, but among you stands One whom you do not know.
+John answered, “I baptise with water, but among you stands one you do not know.
 
 ## John 1:27
 
-He is the One who comes after me, of whom I am not worthy even to untie the strap of His sandal.”
+He is the one who comes after me, the straps of whose sandals I am not worthy to untie.”
 
 ## John 1:28
 
-These things took place in Bethany beyond the Jordan, where John was baptising people.
+This happened at Bethany beyond the Jordan, where John was baptising.
 
 ---
 
 ## John 1:29
 
-The next day he _saw Jesus coming to him_ and _said_,  
-“Behold, the Lamb of God who takes away the sin of the world!
+The next day John saw Jesus coming towards him and said, “Behold, the Lamb of God, who takes away the sin of the world!
 
 ## John 1:30
 
-This is He in behalf of whom I said, ‘After me is coming a Man who has proved to be my superior, because He existed before me.’
+This is the one I meant when I said, ‘A man who comes after me has surpassed me because he was before me.’
 
 ## John 1:31
 
-And I did not recognise Him, but so that He would be revealed to Israel, I came baptising in water.”
+I myself did not know him, but the reason I came baptising with water was that he might be revealed to Israel.”
 
 ## John 1:32
 
-And John testified, saying,  
-“I have seen the Spirit descending as a dove out of heaven, and He remained upon Him.
+Then John gave this testimony: “I saw the Spirit come down from heaven as a dove and remain on him.
 
 ## John 1:33
 
-And I did not recognise Him, but He who sent me to baptise in water said to me,  
-‘He upon whom you see the Spirit descending and remaining upon Him, this is the One who baptises in the Holy Spirit.’
+And I myself did not know him, but the one who sent me to baptise with water told me, ‘The man on whom you see the Spirit come down and remain is the one who will baptise with the Holy Spirit.’
 
 ## John 1:34
 
-And I myself have seen, and have testified that this is the Son of God.”
+I have seen and I testify that this is the Son of God.”
 
 ---
 
 ## John 1:35
 
-Again the next day, John was standing with two of his disciples,
+The next day John was there again with two of his disciples.
 
 ## John 1:36
 
-and he looked at Jesus as He walked, and _said_, “Behold, the Lamb of God!”
+When he saw Jesus passing by, he said, “Behold, the Lamb of God!”
 
 ## John 1:37
 
-And the two disciples heard him speak, and they followed Jesus.
+When the two disciples heard him say this, they followed Jesus.
 
 ## John 1:38
 
-And Jesus turned and saw them following, and _said to them_,  
-“What are you seeking?”  
-They said to Him, “Rabbi (which translated means Teacher), where are You staying?”
+Turning around, Jesus saw them following and asked, “What do you seek?” They said, “Rabbi” (which means Teacher), “where are you staying?”
 
 ## John 1:39
 
-He _said to them_, “Come, and you will see.”  
-So they came and saw where He was staying; and they stayed with Him that day.  
-It was about the tenth hour.
+“Come,” he replied, “and you will see.” So they went and saw where he was staying, and they spent that day with him. It was about the tenth hour.
 
 ## John 1:40
 
-One of the two who heard John speak, and followed Him, was Andrew, Simon Peter’s brother.
+Andrew, Simon Peter’s brother, was one of the two who heard what John had said and who followed Jesus.
 
 ## John 1:41
 
-He _first found his own brother Simon_ and _said to him_,  
-“We have found the Messiah” (which translated means Christ).
+The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (which is translated as Christ).
 
 ## John 1:42
 
-He brought him to Jesus.  
-Jesus looked at him and said,  
-“You are Simon the son of John; you shall be called Cephas” (which is translated Peter).
+And he brought him to Jesus. Jesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter).
 
 ---
 
 ## John 1:43
 
-The next day He decided to go to Galilee, and He _found Philip_. And Jesus _said to him_, “Follow Me.”
+The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, “Follow me.”
 
 ## John 1:44
 
-Now Philip was from Bethsaida, the city of Andrew and Peter.
+Philip, like Andrew and Peter, was from the town of Bethsaida.
 
 ## John 1:45
 
-Philip _found Nathanael and said to him_,  
-“We have found Him of whom Moses wrote in the Law, and the prophets as well: Jesus, the son of Joseph, from Nazareth!”
+Philip found Nathanael and told him, “We have found the one Moses wrote about in the Law, and about whom the prophets also wrote—Jesus of Nazareth, the son of Joseph.”
 
 ## John 1:46
 
-Nathanael said to him, “Can anything good be from Nazareth?”  
-Philip _said to him_, “Come and see.”
+“Nazareth! Can anything good come from there?” Nathanael asked. “Come and see,” said Philip.
 
 ## John 1:47
 
-Jesus saw Nathanael coming to Him and _said of him_,  
-“Here is truly an Israelite, in whom there is no deceit!”
+When Jesus saw Nathanael approaching, he said of him, “Here truly is an Israelite in whom there is no deceit.”
 
 ## John 1:48
 
-Nathanael _said to Him_, “How do You know me?”  
-Jesus answered and said to him,  
-“Before Philip called you, when you were under the fig tree, I saw you.”
+“How do you know me?” Nathanael asked. Jesus answered, “I saw you while you were still under the fig tree before Philip called you.”
 
 ## John 1:49
 
-Nathanael answered Him,  
-“Rabbi, You are the Son of God; You are the King of Israel!”
+Then Nathanael declared, “Rabbi, you are the Son of God; you are the King of Israel.”
 
 ## John 1:50
 
-Jesus answered and said to him,  
-“Because I said to you that I saw you under the fig tree, do you believe?  
-You will see greater things than these.”
+Jesus said, “You believe because I told you I saw you under the fig tree. You will see greater things than that.”
 
 ## John 1:51
 
-And He _said to him_,  
-“Truly, truly I say to you,  
-you will see heaven opened and the angels of God ascending and descending on the Son of Man.”
+He then added, “Truly, truly, I say to you, you will see heaven open, and the angels of God ascending and descending on the Son of Man.”

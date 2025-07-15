@@ -2,88 +2,70 @@
 
 ## Matthew 3:1
 
-Now in those days John the Baptist came, preaching in the wilderness of Judea, saying,
+In those days, John the Baptist appeared, preaching in the wilderness of Judea,
 
 ## Matthew 3:2
 
-“Repent, for the kingdom of heaven is at hand.”
+and proclaiming, “Repent, for the kingdom of heaven is near.”
 
 ## Matthew 3:3
 
-For this is the one referred to by Isaiah the prophet when he said,  
-“The voice of one calling out in the wilderness,  
-‘Prepare the way of the Lord,  
-Make His paths straight!’”
+This is the one mentioned by the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make his paths straight.’”
 
 ## Matthew 3:4
 
-Now John himself had a garment of camel’s hair and a leather belt around his waist;  
-and his food was locusts and wild honey.
+John wore clothing made of camel’s hair and had a leather belt around his waist. His diet consisted of locusts and wild honey.
 
 ## Matthew 3:5
 
-At that time Jerusalem was going out to him, and all Judea and all the region around the Jordan;
+People from Jerusalem, all of Judea, and the entire region around the Jordan went out to him,
 
 ## Matthew 3:6
 
-and they were being baptised by him in the Jordan River, as they confessed their sins.
+and they were baptised by him in the Jordan River, confessing their sins.
 
 ## Matthew 3:7
 
-But when he saw many of the Pharisees and Sadducees coming for baptism,  
-he said to them, “You offspring of vipers,  
-who warned you to flee from the wrath to come?
+When he saw many of the Pharisees and Sadducees coming for baptism, he said to them, “You brood of vipers! Who warned you to flee from the wrath to come?
 
 ## Matthew 3:8
 
-Therefore produce fruit consistent with repentance;
+Produce fruit in accordance with repentance.
 
 ## Matthew 3:9
 
-and do not assume that you can say to yourselves, ‘We have Abraham as our father’;  
-for I tell you that God is able from these stones to raise up children for Abraham.
+And do not presume to say to yourselves, ‘We have Abraham as our father.’ For I tell you that God can raise up children for Abraham from these stones.
 
 ## Matthew 3:10
 
-And the axe is already laid at the root of the trees;  
-therefore every tree that does not bear good fruit is cut down and thrown into the fire.
+The axe is already at the root of the trees, and every tree that does not bear good fruit will be cut down and thrown into the fire.
 
 ## Matthew 3:11
 
-As for me, I baptise you with water for repentance,  
-but He who is coming after me is mightier than I, and I am not fit to remove His sandals;  
-He will baptise you with the Holy Spirit and fire.
+“I baptise you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptise you with the Holy Spirit and fire.
 
 ## Matthew 3:12
 
-His winnowing fork is in His hand,  
-and He will thoroughly clear His threshing floor;  
-and He will gather His wheat into the barn,  
-but He will burn up the chaff with unquenchable fire.”
+His winnowing fork is in his hand, and he will thoroughly clear his threshing floor, gathering his wheat into the barn and burning up the chaff with unquenchable fire.”
 
 ---
 
 ## Matthew 3:13
 
-Then Jesus arrived from Galilee at the Jordan, coming to John to be baptised by him.
+Then Jesus came from Galilee to the Jordan, to be baptised by John.
 
 ## Matthew 3:14
 
-But John tried to prevent Him, saying, “I have the need to be baptised by You,  
-and yet You are coming to me?”
+But John tried to prevent him, saying, “I need to be baptised by you, and do you come to me?”
 
 ## Matthew 3:15
 
-But Jesus, answering, said to him,  
-“Allow it at this time; for in this way it is fitting for us to fulfil all righteousness.”  
-Then he allowed Him.
+Jesus answered him, “Let it be so now; it is fitting for us to fulfil all righteousness in this way.” Then John consented.
 
 ## Matthew 3:16
 
-After He was baptised, Jesus came up immediately from the water;  
-and behold, the heavens were opened, and he saw the Spirit of God descending as a dove and coming upon Him,
+As soon as Jesus was baptised, he came up from the water. At that moment, the heavens were opened, and he saw the Spirit of God descending like a dove and settling on him.
 
 ## Matthew 3:17
 
-and behold, a voice from the heavens said,  
-“This is My beloved Son, with whom I am well pleased.”
+And a voice from heaven said, “This is my beloved Son, with whom I am well pleased.”

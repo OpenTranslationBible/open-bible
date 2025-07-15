@@ -2,82 +2,63 @@
 
 ## Job 1:1
 
-There was a man in the land of Uz whose name was Job;  
-and that man was blameless, upright, fearing God and turning away from evil.
+In the land of Uz, there was a man named Job; this man was blameless and upright, fearing God and avoiding evil.
 
 ## Job 1:2
 
-Seven sons and three daughters were born to him.
+He had seven sons and three daughters.
 
 ## Job 1:3
 
-His possessions also were 7,000 sheep, 3,000 camels, 500 yoke of oxen, 500 female donkeys,  
-and very many servants;  
-and that man was the greatest of all the people of the east.
+His possessions included seven thousand sheep, three thousand camels, five hundred yoke of oxen, five hundred donkeys, and a great many servants. He was the most prominent man among all the people of the East.
 
 ---
 
 ## Job 1:4
 
-His sons used to go and hold a feast in the house of each one on his day,  
-and they would send word and invite their three sisters to eat and drink with them.
+His sons would take turns holding feasts in their homes on their appointed day, and they would invite their three sisters to eat and drink with them.
 
 ## Job 1:5
 
-When the days of feasting had completed their cycle, Job would send word and consecrate them,  
-getting up early in the morning and offering burnt offerings according to the number of them all;  
-for Job said,  
-“Perhaps my sons have sinned and cursed God in their hearts.”  
-So Job did continually.
+When the days of feasting had run their course, Job would send for them and consecrate them. Rising early in the morning, he would offer a burnt offering for each of them, thinking, “Perhaps my children have sinned and cursed God in their hearts.” This was Job’s regular practice.
 
 ---
 
 ## Job 1:6
 
-Now there was a day when the sons of God came to present themselves before the Lord,  
-and Satan also came among them.
+One day, the sons of God came to present themselves before the Lord, and Satan also came among them.
 
 ## Job 1:7
 
-The Lord said to Satan,  
-“From where do you come?”
+The Lord asked Satan, “Where have you come from?”
 
 ---
 
-Then Satan answered the Lord and said,  
-“From roaming about on the earth and walking around on it.”
+Satan answered the Lord, “From roaming through the earth and walking back and forth on it.”
 
 ## Job 1:8
 
-The Lord said to Satan,  
-“Have you considered My servant Job?  
-For there is no one like him on the earth,  
-a blameless and upright man, fearing God and turning away from evil.”
+Then the Lord said to Satan, “Have you considered my servant Job? There is no one like him on earth; he is blameless and upright, a man who fears God and shuns evil.”
 
 ---
 
 ## Job 1:9
 
-Then Satan answered the Lord and said,  
-“Does Job fear God for nothing?
+Satan replied to the Lord, “Does Job fear God for nothing?”
 
 ## Job 1:10
 
-Have You not made a fence around him and his house and all that he has, on every side?  
-You have blessed the work of his hands,  
-and his possessions have increased in the land.
+“Have you not placed a hedge around him and his household and all that he owns? You have blessed the work of his hands, and his livestock have spread throughout the land.
 
 ## Job 1:11
 
-But reach out with Your hand now and touch all that he has;  
-he will certainly curse You to Your face.”
+But stretch out your hand now and touch all that he has, and he will surely curse you to your face.”
 
 ---
 
 ## Job 1:12
 
-Then the Lord said to Satan,  
-“Behold, all that he has is in your power, only do not reach out and put your hand on him.”
+The Lord said to Satan, “Very well, all that he has is in your power, but do not lay a hand on the man himself.”
 
 So Satan departed from the presence of the Lord.
 
@@ -85,68 +66,47 @@ So Satan departed from the presence of the Lord.
 
 ## Job 1:13
 
-Now on the day when his sons and his daughters were eating and drinking wine  
-in their oldest brother’s house,
+One day, while Job’s sons and daughters were eating and drinking wine in their eldest brother’s house,
 
 ## Job 1:14
 
-a messenger came to Job and said,  
-“The oxen were ploughing and the female donkeys feeding beside them,
+a messenger came to Job and said, “The oxen were ploughing and the donkeys were grazing nearby,
 
 ## Job 1:15
 
-and the Sabeans attacked and took them.  
-They also killed the servants with the edge of the sword,  
-and I alone have escaped to tell you.”
+when the Sabeans attacked and took them away. They put the servants to the sword, and I alone have escaped to tell you.”
 
 ---
 
 ## Job 1:16
 
-While he was still speaking, another came and said,  
-“The fire of God fell from heaven and burned up the sheep and the servants and consumed them,  
-and I alone have escaped to tell you.”
-
----
+While he was still speaking, another messenger arrived and said, “The fire of God fell from the sky and burned up the sheep and the servants, and I alone have escaped to tell you.”
 
 ## Job 1:17
 
-While he was still speaking, another came and said,  
-“The Chaldeans formed three units, made a raid on the camels and took them,  
-and killed the servants with the edge of the sword,  
-and I alone have escaped to tell you.”
-
----
+While he was still speaking, another messenger came and said, “The Chaldeans formed three bands and raided the camels and took them away. They put the servants to the sword, and I alone have escaped to tell you.”
 
 ## Job 1:18
 
-While he was still speaking, another came and said,  
-“Your sons and your daughters were eating and drinking wine  
-in their oldest brother’s house,
+While he was still speaking, yet another messenger came and said, “Your sons and daughters were eating and drinking wine at their eldest brother’s house,
 
 ## Job 1:19
 
-and behold, a great wind came from across the wilderness  
-and struck the four corners of the house,  
-and it fell on the young people and they died,  
-and I alone have escaped to tell you.”
-
----
+when suddenly a mighty wind swept in from the desert and struck the four corners of the house, and it collapsed on them, and they are dead. I alone have escaped to tell you.”
 
 ## Job 1:20
 
-Then Job stood up, tore his robe, and shaved his head;  
-then he fell to the ground and worshipped.
+At this, Job arose, tore his robe, and shaved his head. Then he fell to the ground and worshipped.
 
 ## Job 1:21
 
-And he said,
+He said,
 
-> “Naked I came from my mother’s womb,  
-> And naked I shall return there.  
-> The Lord gave and the Lord has taken away.  
-> Blessed be the name of the Lord.”
+> “Naked I came from my mother’s womb,
+> and naked I shall return there.
+> The Lord gave, and the Lord has taken away;
+> blessed be the name of the Lord.”
 
 ## Job 1:22
 
-Despite all this, Job did not sin, nor did he blame God.
+In all this, Job did not sin or blame God.

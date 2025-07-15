@@ -1,161 +1,133 @@
 # Jeremiah Chapter 32
 
-## Jeremiah 32:1  
+## Jeremiah 32:1
 The word that came to Jeremiah from the Lord in the tenth year of Zedekiah king of Judah, which was the eighteenth year of Nebuchadnezzar.
 
-## Jeremiah 32:2  
-Now at that time the army of the king of Babylon was besieging Jerusalem, and the prophet Jeremiah was imprisoned in the courtyard of the guard, which was at the house of the king of Judah,
+## Jeremiah 32:2
+At that time, the army of the king of Babylon was besieging Jerusalem, and Jeremiah the prophet was confined in the courtyard of the guard at the royal palace of Judah.
 
-## Jeremiah 32:3  
-because Zedekiah king of Judah had imprisoned him, saying, “Why do you prophesy, saying, ‘This is what the Lord says: “Behold, I am going to hand this city over to the king of Babylon, and he will take it;
+## Jeremiah 32:3
+Zedekiah king of Judah had imprisoned him, saying, “Why do you prophesy, saying, ‘This is what the Lord says: Behold, I am about to give this city into the hands of the king of Babylon, and he will capture it;
 
-## Jeremiah 32:4  
-and Zedekiah king of Judah will not escape from the hand of the Chaldeans, but he will certainly be handed over to the king of Babylon, and he will speak with him face to face and see him eye to eye;
+## Jeremiah 32:4
+and Zedekiah king of Judah will not escape from the Babylonians but will certainly be handed over to the king of Babylon, and will speak with him face to face and see him eye to eye.
 
-## Jeremiah 32:5  
-and he will lead Zedekiah to Babylon, and he will be there until I visit him,” declares the Lord. “If you fight against the Chaldeans, you will not succeed”’?”
+## Jeremiah 32:5
+He will take Zedekiah to Babylon, where he will remain until I deal with him, declares the Lord. If you fight against the Babylonians, you will not succeed.’”
 
-## Jeremiah 32:6  
-And Jeremiah said, “The word of the Lord came to me, saying,
+## Jeremiah 32:6
+Jeremiah said, “The word of the Lord came to me, saying,
 
-## Jeremiah 32:7  
-‘Behold, Hanamel the son of Shallum your uncle is coming to you, saying, “Buy for yourself my field which is at Anathoth, for you have the right of redemption to buy it.”’
+## Jeremiah 32:7
+‘Behold, Hanamel son of Shallum your uncle is going to come to you and say, “Buy my field at Anathoth, because as nearest relative it is your right of redemption to buy it.”’
 
-## Jeremiah 32:8  
-Then my cousin Hanamel came to me in the courtyard of the guard in accordance with the word of the Lord, and said to me,  
-‘Buy my field, please, that is at Anathoth, which is in the land of Benjamin; for you have the right of possession and the redemption is yours; buy it for yourself.’  
-Then I knew that this was the word of the Lord.
+## Jeremiah 32:8
+Then, just as the Lord had said, my cousin Hanamel came to me in the courtyard of the guard and said, ‘Please buy my field at Anathoth in the territory of Benjamin. Since it is your right to redeem it and possess it, buy it for yourself.’ Then I knew that this was the word of the Lord.
 
-## Jeremiah 32:9  
-And I bought the field which was at Anathoth from Hanamel my cousin, and weighed out the silver for him, seventeen shekels of silver.
+## Jeremiah 32:9
+So I bought the field at Anathoth from my cousin Hanamel and weighed out for him seventeen shekels of silver.
 
-## Jeremiah 32:10  
-And I signed the deed and sealed it, and called in witnesses, and weighed out the silver on the scales.
+## Jeremiah 32:10
+I signed and sealed the deed, had it witnessed, and weighed out the silver on the scales.
 
-## Jeremiah 32:11  
-Then I took the deeds of purchase, both the sealed copy containing the terms and conditions and the open copy;
+## Jeremiah 32:11
+I took the deed of purchase—the sealed copy containing the terms and conditions, as well as the open copy—
 
-## Jeremiah 32:12  
-and I gave the deed of purchase to Baruch the son of Neriah, the son of Mahseiah, in the sight of Hanamel my cousin and in the sight of the witnesses who had signed the deed of purchase, before all the Jews who were sitting in the courtyard of the guard.
+## Jeremiah 32:12
+and I gave this deed to Baruch son of Neriah, the son of Mahseiah, in the presence of my cousin Hanamel and of the witnesses who had signed the deed, as well as all the Jews sitting in the courtyard of the guard.
 
-## Jeremiah 32:13  
-And I commanded Baruch in their presence, saying,
+## Jeremiah 32:13
+In their presence, I instructed Baruch, saying,
 
-## Jeremiah 32:14  
-“This is what the Lord of armies, the God of Israel says: ‘Take these deeds, this sealed deed of purchase and this open deed, and put them in an earthenware jar so that they may last a long time.’
+## Jeremiah 32:14
+‘This is what the Lord of hosts, the God of Israel, says: Take these documents, both the sealed and open copies of the deed of purchase, and put them in a clay jar so they will last a long time.
 
-## Jeremiah 32:15  
-For this is what the Lord of armies, the God of Israel says: ‘Houses, fields, and vineyards will again be purchased in this land.’”
+## Jeremiah 32:15
+For this is what the Lord of hosts, the God of Israel, says: Houses, fields, and vineyards will again be bought in this land.’
 
----
+## Jeremiah 32:16
+After I had given the deed of purchase to Baruch son of Neriah, I prayed to the Lord, saying,
 
-## Jeremiah 32:16  
-After I had given the deed of purchase to Baruch the son of Neriah, I prayed to the Lord, saying,
+## Jeremiah 32:17
+‘Ah, Sovereign Lord, You have made the heavens and the earth by Your great power and outstretched arm. Nothing is too difficult for You,
 
-## Jeremiah 32:17  
-“Ah, Lord God! Behold, You Yourself have made the heavens and the earth by Your great power and by Your outstretched arm!  
-Nothing is too difficult for You,
+## Jeremiah 32:18
+who shows love to thousands but repays the wrongdoing of fathers into the laps of their children after them. Great and mighty God, whose name is the Lord of hosts,
 
-## Jeremiah 32:18  
-who shows mercy to thousands, but repays the guilt of fathers to their children after them,  
-great and mighty God, the Lord of armies is His name;
+## Jeremiah 32:19
+great in counsel and mighty in deed, whose eyes are open to all the ways of mankind; You reward each person according to their conduct and as their deeds deserve.
 
-## Jeremiah 32:19  
-great in counsel and mighty in deed, whose eyes are open to all the ways of the sons of mankind,  
-giving to everyone according to his ways and according to the fruit of his deeds;
+## Jeremiah 32:20
+You performed signs and wonders in Egypt and have continued them to this day, in Israel and among all mankind, and have gained the renown that is still Yours.
 
-## Jeremiah 32:20  
-who has accomplished signs and wonders in the land of Egypt, and even to this day, both in Israel and among mankind;  
-and You have made a name for Yourself, as it is this day.
+## Jeremiah 32:21
+You brought Your people Israel out of Egypt with signs and wonders, by a mighty hand and an outstretched arm and with great terror.
 
-## Jeremiah 32:21  
-You brought Your people Israel out of the land of Egypt with signs and wonders, and with a strong hand and an outstretched arm, and with great terror;
+## Jeremiah 32:22
+You gave them this land You had sworn to give their ancestors, a land flowing with milk and honey.
 
-## Jeremiah 32:22  
-and You gave them this land, which You swore to their forefathers to give them, a land flowing with milk and honey.
+## Jeremiah 32:23
+They came in and took possession of it, but they did not obey Your voice or follow Your law; they did not do what You commanded them to do. So You brought all this disaster upon them.
 
-## Jeremiah 32:23  
-They came in and took possession of it, but they did not obey Your voice or walk in Your Law;  
-they did not do anything that You commanded them to do; therefore You have made all this disaster happen to them.
+## Jeremiah 32:24
+See how the siege ramps are built up to take the city. Because of the sword, famine, and plague, the city will be given into the hands of the Babylonians who are attacking it. What You have spoken has come to pass, as You now see.
 
-## Jeremiah 32:24  
-Behold, the assault ramps have reached the city to take it, and the city has been handed over to the Chaldeans who are fighting against it,  
-because of the sword, the famine, and the plague;  
-and what You have spoken has come to pass; and behold, You see it.
+## Jeremiah 32:25
+Yet You have said to me, Sovereign Lord, ‘Buy the field with silver and have the transaction witnessed,’ although the city has been handed over to the Babylonians.”
 
-## Jeremiah 32:25  
-Yet You have said to me, Lord God, ‘Buy for yourself the field with money and call in witnesses’—though the city is given to the Chaldeans!”
-
----
-
-## Jeremiah 32:26  
+## Jeremiah 32:26
 Then the word of the Lord came to Jeremiah, saying,
 
-## Jeremiah 32:27  
-“Behold, I am the Lord, the God of all flesh; is anything too difficult for Me?”
+## Jeremiah 32:27
+“I am the Lord, the God of all mankind. Is anything too difficult for Me?
 
-## Jeremiah 32:28  
-Therefore this is what the Lord says: “Behold, I am going to give this city into the hand of the Chaldeans and into the hand of Nebuchadnezzar king of Babylon, and he will take it.
+## Jeremiah 32:28
+Therefore this is what the Lord says: Behold, I am about to give this city into the hands of the Babylonians and to Nebuchadnezzar king of Babylon, who will capture it.
 
-## Jeremiah 32:29  
-And the Chaldeans who are fighting against this city will enter and set this city on fire, and burn it,  
-together with the houses where people have offered incense to Baal on their rooftops and poured out drink offerings to other gods to provoke Me to anger.
+## Jeremiah 32:29
+The Babylonians who are fighting against this city will come in and set it on fire; they will burn it down, along with the houses where the people have aroused My anger by burning incense on the roofs to Baal and by pouring out drink offerings to other gods.
 
-## Jeremiah 32:30  
-For the sons of Israel and the sons of Judah have been doing only evil in My sight since their youth;  
-for the sons of Israel have only been provoking Me to anger by the work of their hands,” declares the Lord.
+## Jeremiah 32:30
+The people of Israel and Judah have done nothing but evil in My sight from their youth; indeed, the people of Israel have done nothing but provoke Me to anger with the work of their hands, declares the Lord.
 
-## Jeremiah 32:31  
-“Indeed this city has been to Me a provocation of My anger and My wrath since the day that they built it, even to this day, so that I should remove it from My sight,
+## Jeremiah 32:31
+From the day it was built until now, this city has so aroused My anger and wrath that I must remove it from My sight.
 
-## Jeremiah 32:32  
-because of all the evil of the sons of Israel and the sons of Judah which they have done to provoke Me to anger—they, their kings, their leaders, their priests, their prophets, the men of Judah, and the inhabitants of Jerusalem.
+## Jeremiah 32:32
+The people of Israel and Judah have provoked Me by all the evil they have done—they, their kings and officials, their priests and prophets, the people of Judah and those living in Jerusalem.
 
-## Jeremiah 32:33  
-They have turned their back to Me and not their face;  
-though I taught them, teaching again and again, they would not listen to accept discipline.
+## Jeremiah 32:33
+They have turned their backs to Me and not their faces; though I taught them again and again, they would not listen or respond to discipline.
 
-## Jeremiah 32:34  
-But they put their detestable things in the house which is called by My name, to defile it.
+## Jeremiah 32:34
+They set up their vile images in the house that bears My Name and defiled it.
 
-## Jeremiah 32:35  
-And they built the high places of Baal that are in the Valley of Ben-hinnom,  
-to offer their sons and their daughters to Molech,  
-which I had not commanded them, nor had it entered My mind that they should do this abomination,  
-to cause Judah to sin.
+## Jeremiah 32:35
+They built high places for Baal in the Valley of Ben Hinnom to sacrifice their sons and daughters to Molek, though I never commanded—nor did it enter My mind—that they should do such a detestable thing and so make Judah sin.
 
----
+## Jeremiah 32:36
+Now therefore, this is what the Lord, the God of Israel, says concerning this city of which you say, ‘It has been handed over to the king of Babylon by sword, famine, and plague’:
 
-## Jeremiah 32:36  
-Now therefore, this is what the Lord, the God of Israel says concerning this city of which you say,  
-‘It is handed over to the king of Babylon by the sword, by famine, and by plague’:
+## Jeremiah 32:37
+Behold, I will surely gather them from all the lands where I have driven them in My furious anger and great wrath; I will bring them back to this place and let them live in safety.
 
-## Jeremiah 32:37  
-Behold, I am going to gather them from all the lands to which I have driven them in My anger, My wrath, and in great indignation;  
-and I will bring them back to this place and have them live in safety.
+## Jeremiah 32:38
+They will be My people, and I will be their God.
 
-## Jeremiah 32:38  
-They shall be My people, and I will be their God;
+## Jeremiah 32:39
+I will give them one heart and one way, so that they will always fear Me, for their own good and for the good of their children after them.
 
-## Jeremiah 32:39  
-and I will give them one heart and one way, so that they will always fear Me, for their own good and for the good of their children after them.
+## Jeremiah 32:40
+I will make an everlasting covenant with them: I will never stop doing good to them, and I will inspire them to fear Me, so that they will never turn away from Me.
 
-## Jeremiah 32:40  
-I will make an everlasting covenant with them that I will not turn away from them, to do them good;  
-and I will put the fear of Me in their hearts so that they will not turn away from Me.
+## Jeremiah 32:41
+I will rejoice in doing them good and will assuredly plant them in this land with all My heart and soul.
 
-## Jeremiah 32:41  
-I will rejoice over them to do them good, and will faithfully plant them in this land with all My heart and all My soul.
+## Jeremiah 32:42
+For this is what the Lord says: Just as I have brought all this great calamity on this people, so I will give them all the prosperity I have promised them.
 
-## Jeremiah 32:42  
-For this is what the Lord says:  
-‘Just as I brought all this great disaster on this people, so I am going to bring on them all the good that I am promising them.
+## Jeremiah 32:43
+Fields will once more be bought in this land of which you say, ‘It is a desolate waste, without people or animals, for it has been given into the hands of the Babylonians.’
 
-## Jeremiah 32:43  
-And fields will be purchased in this land of which you are saying, “It is a desolation, without man or animal; it has been handed over to the Chaldeans.”
-
-## Jeremiah 32:44  
-Fields will be purchased for money and deeds will be signed and sealed, and witnesses called,  
-in the land of Benjamin, in the areas around Jerusalem, in the cities of Judah,  
-in the cities of the hill country, in the cities of the lowland, and in the cities of the Negev;  
-for I will restore their fortunes,’ declares the Lord.”
+## Jeremiah 32:44
+Fields will be bought for silver, and deeds will be signed, sealed, and witnessed in the territory of Benjamin, in the areas surrounding Jerusalem, in the towns of Judah, in the towns of the hill country, in the towns of the western foothills, and in the towns of the Negev, because I will restore their fortunes, declares the Lord.”

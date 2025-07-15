@@ -1,141 +1,85 @@
 # Proverbs Chapter 12
 
 ## Proverbs 12:1
-
-One who loves discipline loves knowledge,  
-But one who hates correction is stupid.
+Whoever loves discipline loves knowledge, but whoever despises rebuke is foolish.
 
 ## Proverbs 12:2
-
-A good person will obtain favour from the Lord,  
-But He will condemn a person who devises evil.
+A good person gains favour from the Lord, but He condemns those who devise evil.
 
 ## Proverbs 12:3
-
-A person will not be established by wickedness,  
-But the root of the righteous will not be moved.
+No one is established by wickedness, but the root of the righteous remains unshaken.
 
 ## Proverbs 12:4
-
-An excellent wife is the crown of her husband,  
-But she who shames him is like rottenness in his bones.
+A wife of noble character is her husband’s crown, but a wife who brings shame is like decay in his bones.
 
 ## Proverbs 12:5
-
-The thoughts of the righteous are just,  
-But the counsels of the wicked are deceitful.
+The thoughts of the righteous are just, but the advice of the wicked is deceitful.
 
 ## Proverbs 12:6
-
-The words of the wicked wait in ambush for blood,  
-But the mouth of the upright will rescue them.
+The words of the wicked lie in ambush for blood, but the speech of the upright rescues them.
 
 ## Proverbs 12:7
-
-The wicked are overthrown and are no more,  
-But the house of the righteous will stand.
+The wicked are overthrown and vanish, but the house of the righteous stands firm.
 
 ## Proverbs 12:8
-
-A person will be praised according to his insight,  
-But one of perverse mind will be despised.
+A person is praised according to their insight, but one with a perverse mind is despised.
 
 ## Proverbs 12:9
-
-Better is one who is lightly esteemed and has a servant,  
-Than one who honours himself and lacks bread.
+Better to be of lowly status and have a servant, than to pretend to be important and lack food.
 
 ## Proverbs 12:10
-
-A righteous person has regard for the life of his animal,  
-But even the compassion of the wicked is cruel.
+The righteous care for the life of their animals, but the kindest acts of the wicked are cruel.
 
 ## Proverbs 12:11
-
-One who works his land will have plenty of bread,  
-But one who pursues worthless things lacks sense.
+Those who work their land will have plenty of food, but those who chase worthless pursuits lack sense.
 
 ## Proverbs 12:12
-
-The wicked person desires the plunder of evil people,  
-But the root of the righteous yields fruit.
+The wicked desire the plunder of evildoers, but the root of the righteous bears fruit.
 
 ## Proverbs 12:13
-
-An evil person is ensnared by the transgression of his lips,  
-But the righteous will escape from trouble.
+Evildoers are ensnared by their sinful talk, but the righteous escape trouble.
 
 ## Proverbs 12:14
-
-A person will be satisfied with good by the fruit of his words,  
-And the deeds of a person’s hands will return to him.
+From the fruit of their words people are filled with good things, and the work of their hands brings them reward.
 
 ## Proverbs 12:15
-
-The way of a fool is right in his own eyes,  
-But a wise person listens to advice.
+The way of a fool seems right to them, but the wise heed advice.
 
 ## Proverbs 12:16
-
-A fool’s anger is known at once,  
-But a prudent person conceals dishonour.
+Fools show their annoyance instantly, but the prudent overlook an insult.
 
 ## Proverbs 12:17
-
-One who declares truth tells what is right,  
-But a false witness speaks deceit.
+An honest witness speaks truthfully, but a false witness speaks deceit.
 
 ## Proverbs 12:18
-
-There is one who speaks rashly like the thrusts of a sword,  
-But the tongue of the wise brings healing.
+Rash words pierce like swords, but the tongue of the wise brings healing.
 
 ## Proverbs 12:19
-
-Truthful lips will endure forever,  
-But a lying tongue is only for a moment.
+Truthful lips endure forever, but a lying tongue lasts only a moment.
 
 ## Proverbs 12:20
-
-Deceit is in the heart of those who devise evil,  
-But counsellors of peace have joy.
+Deceit is in the hearts of those who plot evil, but those who promote peace have joy.
 
 ## Proverbs 12:21
-
-No harm happens to the righteous,  
-But the wicked are filled with trouble.
+No harm befalls the righteous, but the wicked are filled with trouble.
 
 ## Proverbs 12:22
-
-Lying lips are an abomination to the Lord,  
-But those who deal faithfully are His delight.
+The Lord detests lying lips, but He delights in those who are trustworthy.
 
 ## Proverbs 12:23
-
-A prudent person conceals knowledge,  
-But the heart of fools proclaims foolishness.
+The prudent keep their knowledge to themselves, but the heart of fools blurts out folly.
 
 ## Proverbs 12:24
-
-The hand of the diligent will rule,  
-But the lazy will be put to forced labour.
+Diligent hands will rule, but laziness leads to forced labour.
 
 ## Proverbs 12:25
-
-Anxiety in a person’s heart weighs it down,  
-But a good word makes it glad.
+Anxiety weighs down the heart, but a kind word cheers it up.
 
 ## Proverbs 12:26
-
-The righteous person is a guide to his neighbour,  
-But the way of the wicked leads them astray.
+The righteous choose their friends carefully, but the way of the wicked leads them astray.
 
 ## Proverbs 12:27
-
-A lazy person does not roast his prey,  
-But the precious possession of a person is diligence.
+The lazy do not roast their game, but the diligent make use of their resources.
 
 ## Proverbs 12:28
-
-In the way of righteousness there is life,  
-And in its pathway there is no death.
+In the way of righteousness there is life; along its path there is no death.

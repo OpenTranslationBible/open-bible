@@ -13,56 +13,55 @@ Issachar, Zebulun, and Benjamin;
 Dan and Naphtali, Gad and Asher.
 
 ## Exodus 1:5
-The total number of Jacob’s direct descendants was seventy. Joseph was already in Egypt.
+The descendants of Jacob were seventy in total, but Joseph was already in Egypt.
 
 ## Exodus 1:6
-Then Joseph, all his brothers, and all that generation died.
+Then Joseph died, along with all his brothers and all that generation.
 
 ## Exodus 1:7
-But the Israelites were fruitful, increased greatly, and became numerous and powerful; the land was filled with them.
+The Israelites were fruitful and increased greatly; they multiplied and grew exceedingly strong, and the land was filled with them.
 
 ## Exodus 1:8
-Then a new king, who did not know about Joseph, came to power in Egypt.
+Now a new king arose over Egypt, who did not know of Joseph.
 
 ## Exodus 1:9
-He said to his people, “Look, the people of Israel have become far too many and too strong for us.
+He said to his people, “Behold, the Israelites have become too numerous and too powerful for us.
 
 ## Exodus 1:10
-Come, let us deal wisely with them, or they will multiply even more, and if war breaks out, they may join our enemies, fight against us, and leave the country.”
+Come, let us deal wisely with them, lest they multiply further, and in the event of war, they might join our enemies, fight against us, and leave the land.”
 
 ## Exodus 1:11
-So they appointed overseers to oppress them with forced labour, and the Israelites built store cities for Pharaoh: Pithom and Rameses.
+So they appointed taskmasters over them to oppress them with forced labour, and they built storage cities for Pharaoh, Pithom and Rameses.
 
 ## Exodus 1:12
-But the more they were oppressed, the more they multiplied and spread; so the Egyptians came to dread the Israelites.
+Yet the more they were oppressed, the more they multiplied and spread, so the Egyptians came to dread the Israelites.
 
 ## Exodus 1:13
-They made the Israelites serve ruthlessly,
+The Egyptians ruthlessly compelled the Israelites to labour,
 
 ## Exodus 1:14
-and made their lives bitter with hard labour in brick and mortar and with all kinds of work in the fields. In all their tasks, the Egyptians treated them with cruelty.
+making their lives bitter with hard service in mortar and bricks and all kinds of labour in the fields; all their service was imposed on them with harshness.
 
 ## Exodus 1:15
-Then the king of Egypt said to the Hebrew midwives—one of whom was named Shiphrah and the other Puah—
+The king of Egypt spoke to the Hebrew midwives, one of whom was named Shiphrah, and the other Puah;
 
 ## Exodus 1:16
-“When you help the Hebrew women during childbirth, if you see that the baby is a boy, kill him; but if it is a girl, let her live.”
+and he said, “When you assist the Hebrew women in childbirth and observe them on the birthstool, if it is a son, you shall kill him; but if it is a daughter, she shall live.”
 
 ## Exodus 1:17
-But the midwives feared God and did not do as the king of Egypt commanded. They let the boys live.
+However, the midwives feared God and did not do as the king of Egypt commanded them, but let the boys live.
 
 ## Exodus 1:18
-So the king of Egypt summoned the midwives and said to them, “Why have you done this? Why have you let the boys live?”
+So the king of Egypt summoned the midwives and said to them, “Why have you done this, and allowed the boys to live?”
 
 ## Exodus 1:19
-The midwives said to Pharaoh, “Hebrew women are not like Egyptian women; they are strong and give birth before the midwife arrives.”
+The midwives replied to Pharaoh, “Because the Hebrew women are not like the Egyptian women; they are vigorous and give birth before the midwives arrive.”
 
 ## Exodus 1:20
-So God was good to the midwives, and the people increased and became even more numerous.
+So God dealt well with the midwives, and the people multiplied and grew very strong.
 
 ## Exodus 1:21
-And because the midwives feared God, He gave them families of their own.
+And because the midwives feared God, He provided them with families of their own.
 
 ## Exodus 1:22
-Then Pharaoh gave this order to all his people: “Every son born to the Hebrews you must throw into the Nile, but let every daughter live.”
-
+Then Pharaoh commanded all his people, “Every son that is born you shall cast into the Nile, but every daughter you shall let live.”

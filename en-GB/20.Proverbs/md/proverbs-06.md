@@ -2,190 +2,167 @@
 
 ## Proverbs 6:1
 
-My son, if you have become a guarantor for your neighbour,  
-Have given a handshake for a stranger,
+My son, if you have become a guarantor for your neighbour, or have given a handshake for a stranger,
 
 ## Proverbs 6:2
 
-You have been ensnared by the words of your mouth,  
-Have been caught by the words of your mouth.
+you have been ensnared by the words of your mouth, caught by what you have spoken.
 
 ## Proverbs 6:3
 
-Do this then, my son, and save yourself:  
-Since you have come into the hand of your neighbour,  
-> Go, humble yourself, and plead with your neighbour.
+So do this, my son, to save yourself, since you have fallen into your neighbour's hands:
+
+> Go, humble yourself, and be urgent with your neighbour to free yourself.
 
 ## Proverbs 6:4
 
-Do not give sleep to your eyes  
-Or slumber to your eyelids;
+Do not allow sleep to your eyes, nor slumber to your eyelids;
 
 ## Proverbs 6:5
 
-Save yourself like a gazelle from the hunter’s hand,  
-> And like a bird from the hand of the fowler.
+Save yourself like a gazelle from the hunter's hand,
+
+> and like a bird from the snare of the fowler.
 
 ---
 
 ## Proverbs 6:6
 
-Go to the ant, you lazy one,  
-Observe its ways and be wise,
+Go to the ant, you lazy one; observe its ways and be wise!
 
 ## Proverbs 6:7
 
-Which, having no chief, officer, or ruler,
+It has no chief, officer, or ruler,
 
 ## Proverbs 6:8
 
-Prepares its food in the summer  
-And gathers its provision in the harvest.
+yet it prepares its food in the summer and gathers its provision at harvest.
 
 ## Proverbs 6:9
 
-How long will you lie down, you lazy one?  
-When will you arise from your sleep?
+How long will you lie there, you lazy one? When will you arise from your sleep?
 
 ## Proverbs 6:10
 
-“A little sleep, a little slumber,  
-> A little folding of the hands to rest”—
+A little sleep, a little slumber,
+
+> a little folding of the hands to rest—
 
 ## Proverbs 6:11
 
-Then your poverty will come in like a drifter,  
-And your need like an armed man.
+and poverty will come upon you like a drifter, and scarcity like an armed man.
 
 ---
 
 ## Proverbs 6:12
 
-A worthless person, a wicked man,  
-Is one who walks with a perverse mouth,
+A worthless and wicked person, who walks with a corrupt mouth,
 
 ## Proverbs 6:13
 
-Who winks with his eyes, signals with his feet,  
-Points with his fingers;
+who winks with his eyes, signals with his feet, and points with his fingers,
 
 ## Proverbs 6:14
 
-Who with perversity in his heart continually devises evil,  
-> Who spreads strife.
+who plots evil with deceit in his heart—
+
+> he continually spreads strife.
 
 ## Proverbs 6:15
 
-Therefore his disaster will come suddenly;  
-Instantly he will be broken and there will be no healing.
+Therefore disaster will overtake him suddenly; instantly he will be broken without remedy.
 
 ---
 
 ## Proverbs 6:16
 
-There are six things that the Lord hates,  
-Yes, seven that are an abomination to Him:
+There are six things the Lord hates, seven that are an abomination to Him:
 
 ## Proverbs 6:17
 
-> Haughty eyes, a lying tongue,  
-> And hands that shed innocent blood,
+> haughty eyes, a lying tongue,
+> and hands that shed innocent blood,
 
 ## Proverbs 6:18
 
-> A heart that devises wicked plans,  
-> Feet that run rapidly to evil,
+> a heart that devises wicked schemes,
+> feet that are quick to rush into evil,
 
 ## Proverbs 6:19
 
-> A false witness who declares lies,  
-> And one who spreads strife among brothers.
+> a false witness who pours out lies,
+> and one who spreads strife among brothers.
 
 ---
 
 ## Proverbs 6:20
 
-My son, comply with the commandment of your father,  
-And do not ignore the teaching of your mother;
+My son, keep your father's commandment, and do not forsake your mother's teaching.
 
 ## Proverbs 6:21
 
-Bind them continually on your heart;  
-Tie them around your neck.
+Bind them continually on your heart; fasten them around your neck.
 
 ## Proverbs 6:22
 
-When you walk, they will guide you;  
-When you sleep, they will watch over you;  
-> And when you awake, they will speak to you.
+When you walk, they will guide you; when you sleep, they will watch over you;
+
+> and when you awake, they will speak to you.
 
 ## Proverbs 6:23
 
-For the commandment is a lamp and the teaching is light;  
-And rebukes for discipline are the way of life
+For the commandment is a lamp, the teaching is a light, and corrections for discipline are the way to life,
 
 ## Proverbs 6:24
 
-To keep you from the evil woman,  
-From the smooth tongue of the foreign woman.
+to keep you from the evil woman, from the smooth tongue of the wayward woman.
 
 ## Proverbs 6:25
 
-Do not desire her beauty in your heart,  
-And do not let her capture you with her eyelids.
+Do not desire her beauty in your heart, nor let her captivate you with her eyes.
 
 ---
 
 ## Proverbs 6:26
 
-For by a prostitute one is reduced to a loaf of bread,  
-And the adulteress hunts for a precious life.
+For a prostitute can be had for a loaf of bread, but an adulteress hunts for a precious life.
 
 ## Proverbs 6:27
 
-Can anyone take fire in his lap  
-And his clothes not be burned?
+Can a man take fire into his lap without his clothes being burned?
 
 ## Proverbs 6:28
 
-Or can anyone walk on hot coals  
-And his feet not be scorched?
+Or can one walk on hot coals without his feet being scorched?
 
 ## Proverbs 6:29
 
-So is the one who goes in to his neighbour’s wife;  
-Whoever touches her will not go unpunished.
+So is the one who goes in to his neighbour's wife; whoever touches her will not go unpunished.
 
 ---
 
 ## Proverbs 6:30
 
-People do not despise a thief if he steals  
-To satisfy himself when he is hungry;
+People do not despise a thief if he steals to satisfy his hunger when he is starving;
 
 ## Proverbs 6:31
 
-But when he is found, he must repay sevenfold;  
-He must give all the substance of his house.
+yet if he is caught, he must repay sevenfold, even if it costs him all the wealth of his house.
 
 ## Proverbs 6:32
 
-One who commits adultery with a woman is lacking sense;  
-He who does it destroys his own soul.
+But one who commits adultery with a woman lacks sense; he who does so destroys himself.
 
 ## Proverbs 6:33
 
-He will suffer wounds and disgrace,  
-And his shame will not be wiped away.
+He will face wounds and disgrace, and his shame will never be wiped away.
 
 ---
 
 ## Proverbs 6:34
 
-For jealousy enrages a man,  
-And he will not spare on the day of vengeance.
+For jealousy enrages a man, and he will show no mercy on the day of vengeance.
 
 ## Proverbs 6:35
 
-He will not accept any compensation,  
-Nor be willing, even if you give a large gift.
+He will not accept any compensation; he will refuse a bribe, however great it is.

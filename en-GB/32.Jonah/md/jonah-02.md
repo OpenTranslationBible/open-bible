@@ -2,60 +2,60 @@
 
 ## Jonah 2:1
 
-Then Jonah prayed to the Lord his God from the stomach of the fish,
+Jonah prayed to the Lord his God from within the belly of the fish,
 
 ## Jonah 2:2
 
-And he said,
+saying,
 
-> “I called out of my distress to the Lord,  
-> And He answered me.  
-> I cried for help from the depth of Sheol;  
-> You heard my voice.
+> “In my distress I called to the Lord,
+> and He responded to me. From the depths of Sheol
+> I cried for help,
+> and You heard my voice.
 
 ## Jonah 2:3
 
-> For You threw me into the deep,  
-> Into the heart of the seas,  
-> And the current flowed around me.  
-> All Your breakers and waves passed over me.
+> You cast me into the deep,
+> into the heart of the seas,
+> and the currents surrounded me;
+> all Your waves and breakers swept over me.
 
 ## Jonah 2:4
 
-> So I said, ‘I have been cast out of Your sight.  
-> Nevertheless, I will look again toward Your holy temple.’
+> I thought, ‘I am driven away from Your sight;
+> yet I will look once more toward Your holy temple.’
 
 ## Jonah 2:5
 
-> Water encompassed me to the point of death.  
-> The deep flowed around me,  
-> Seaweed was wrapped around my head.
+> The waters engulfed me to the brink of death,
+> the deep encircled me;
+> seaweed was wrapped around my head.
 
 ## Jonah 2:6
 
-> I descended to the base of the mountains.  
-> The earth with its bars was around me forever,  
-> But You brought up my life from the pit, Lord my God.
+> I sank to the roots of the mountains;
+> the earth with its bars closed upon me forever.
+> Yet You, Lord my God, brought my life up from the pit.
 
 ## Jonah 2:7
 
-> While I was fainting away,  
-> I remembered the Lord,  
-> And my prayer came to You,  
-> Into Your holy temple.
+> As my life was fading away,
+> I remembered the Lord,
+> and my prayer reached You,
+> into Your holy temple.
 
 ## Jonah 2:8
 
-> Those who are followers of worthless idols  
-> Abandon their faithfulness,
+> Those who cling to worthless idols
+> forsake their loyalty,
 
 ## Jonah 2:9
 
-> But I will sacrifice to You  
-> With a voice of thanksgiving.  
-> That which I have vowed I will pay.  
+> but I, with a voice of thanksgiving,
+> will sacrifice to You.
+> What I have vowed I will fulfil.
 > Salvation is from the Lord.”
 
 ## Jonah 2:10
 
-Then the Lord commanded the fish, and it vomited Jonah up onto the dry land.
+Then the Lord commanded the fish, and it vomited Jonah onto dry land.

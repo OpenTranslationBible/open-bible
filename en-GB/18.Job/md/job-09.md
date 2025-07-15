@@ -2,183 +2,181 @@
 
 ## Job 9:1
 
-Then Job responded,
+Then Job answered,
 
 ## Job 9:2
 
-> “Truly I know that this is so;  
-> But how can a person be in the right before God?
+> “Truly, I know that this is so;
+> but how can a human be justified before God?
 
 ## Job 9:3
 
-> If one wished to dispute with Him,  
-> He could not answer Him once in a thousand times.
+> If one desired to contend with Him,
+> they could not answer Him once in a thousand times.
 
 ## Job 9:4
 
-> Wise in heart and mighty in strength,  
-> Who has defied Him and remained unscathed?
+> He is wise in heart and mighty in strength;
+> who has opposed Him and remained unharmed?
 
 ## Job 9:5
 
-> It is He who removes mountains, and they do not know how,  
-> When He overturns them in His anger.
+> He removes mountains without their knowing it,
+> when He overturns them in His anger.
 
 ## Job 9:6
 
-> He shakes the earth from its place,  
-> And its pillars tremble.
+> He shakes the earth from its place,
+> and its pillars tremble.
 
 ## Job 9:7
 
-> He commands the sun not to shine,  
-> And sets a seal on the stars.
+> He commands the sun not to shine,
+> and seals up the stars.
 
 ## Job 9:8
 
-> He alone stretches out the heavens,  
-> And tramples down the waves of the sea;
+> He alone stretches out the heavens
+> and walks on the waves of the sea.
 
 ## Job 9:9
 
-> He made the Bear, Orion, and the Pleiades,  
-> And the constellations of the south.
+> He is the Maker of the Bear and Orion, the Pleiades,
+> and the constellations of the south.
 
 ## Job 9:10
 
-> He does great and unsearchable things,  
-> Wonders without number.
+> He performs great and unfathomable things,
+> wonders without number.
 
 ## Job 9:11
 
-> If He were to pass by me, I would not see Him;  
-> Were He to move past me, I would not perceive Him.
+> If He passes by me, I would not see Him;
+> if He goes by, I would not perceive Him.
 
 ## Job 9:12
 
-> If He were to snatch away, who could restrain Him?  
-> Who could say to Him, ‘What are You doing?’
+> If He snatches away, who can stop Him?
+> Who can say to Him, ‘What are You doing?’
 
 ## Job 9:13
 
-> God will not turn back His anger;  
-> Beneath Him the helpers of Rahab cower.
+> God does not turn back His anger;
+> beneath Him the helpers of Rahab cower.
 
 ---
 
 ## Job 9:14
 
-> How then can I answer Him,  
-> And choose my words before Him?
+> How then can I answer Him,
+> or choose my words with Him?
 
 ## Job 9:15
 
-> For though I were right, I could not answer;  
-> I would have to implore the mercy of my Judge.
+> Even if I were innocent, I could not answer Him;
+> I would have to plead for mercy from my Judge.
 
 ## Job 9:16
 
-> If I called and He answered me,  
-> I could not believe that He was listening to my voice.
+> If I called and He answered me,
+> I would not believe that He was listening to my voice.
 
 ## Job 9:17
 
-> For He bruises me with a storm  
-> And multiplies my wounds without cause.
+> He would crush me with a storm
+> and multiply my wounds without cause.
 
 ## Job 9:18
 
-> He will not allow me to get my breath,  
-> But He saturates me with bitterness.
+> He would not allow me to catch my breath,
+> but would fill me with bitterness.
 
 ## Job 9:19
 
-> If it is a matter of power, behold, He is the strong one!  
-> And if it is justice, who can summon Him?
+> If it is a matter of strength, He is mighty;
+> and if it is a matter of justice, who can summon Him?
 
 ## Job 9:20
 
-> Though I am righteous, my mouth will condemn me;  
-> Though I am blameless, He will declare me guilty.
+> Even if I were righteous, my own mouth would condemn me;
+> if I were guiltless, it would declare me guilty.
 
 ---
 
 ## Job 9:21
 
-> I am blameless; I do not take notice of myself;  
-> I reject my life.
+> I am blameless, yet I do not care for myself;
+> I despise my life.
 
 ## Job 9:22
 
-> It is all one; therefore I say,  
-> ‘He destroys the blameless and the wicked.’
+> It is all the same; therefore I say,
+> ‘He destroys both the guiltless and the wicked.’
 
 ## Job 9:23
 
-> If the whip kills suddenly,  
+> If a scourge brings sudden death,
 > He mocks the despair of the innocent.
 
 ## Job 9:24
 
-> The earth is handed over to the wicked;  
-> He covers the faces of its judges.  
+> When a land is given into the hands of the wicked,
+> He blinds its judges.
 > If it is not He, then who is it?
-
----
 
 ## Job 9:25
 
-> Now my days are swifter than a runner;  
-> They flee away, they see no good.
+> “My days are swifter than a runner;
+> they flee away, they see no good.
 
 ## Job 9:26
 
-> They slip by like reed boats,  
-> Like an eagle that swoops on its prey.
+> They pass by like papyrus boats,
+> like an eagle swooping down on its prey.
 
 ## Job 9:27
 
-> Though I say, ‘I will forget my complaint,  
-> I will put my face in order and be cheerful,’
+> If I say, ‘I will forget my complaint,
+> I will change my expression, and smile,’
 
 ## Job 9:28
 
-> I become afraid of all my pain,  
-> I know that You will not acquit me.
+> I still dread all my sufferings,
+> for I know that You will not acquit me.
 
 ## Job 9:29
 
-> I am guilty,  
-> Why then should I labour in vain?
+> Since I am already guilty,
+> why should I labour in vain?
 
 ## Job 9:30
 
-> If I washed myself with snow,  
-> And cleansed my hands with lye,
+> Even if I washed myself with snow
+> and cleansed my hands with lye,
 
 ## Job 9:31
 
-> Yet You would plunge me into the pit,  
-> And my own clothes would loathe me.
+> You would plunge me into a pit,
+> so that even my clothes would detest me.
 
 ---
 
 ## Job 9:32
 
-> For He is not a man, as I am, that I may answer Him—  
-> That we may go to court together.
+> For He is not a man, as I am, that I might answer Him,
+> that we might confront each other in court.
 
 ## Job 9:33
 
-> There is no arbitrator between us,  
-> Who could place his hand upon us both.
+> There is no mediator between us,
+> who might lay his hand upon us both.
 
 ## Job 9:34
 
-> Let Him remove His rod from me,  
-> And let not the dread of Him terrify me.
+> Let Him remove His rod from me,
+> and let not His dread terrify me.
 
 ## Job 9:35
 
-> Then I would speak and not fear Him;  
-> But I am not like that in myself.
+> Then I would speak without fear of Him,
+> but as it stands with me, I cannot.

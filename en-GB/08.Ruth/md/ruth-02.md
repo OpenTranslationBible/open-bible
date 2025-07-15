@@ -2,144 +2,94 @@
 
 ## Ruth 2:1
 
-Now Naomi had a relative on her husband’s side,  
-a man of standing from the clan of Elimelek, whose name was Boaz.
+Now Naomi had a relative on her husband's side, a man of great wealth from the family of Elimelech, whose name was Boaz.
 
 ## Ruth 2:2
 
-And Ruth the Moabite said to Naomi,  
-“Let me go to the fields and pick up the leftover grain behind anyone in whose eyes I find favour.”  
-Naomi said to her, “Go ahead, my daughter.”
+And Ruth the Moabitess said to Naomi, “Please let me go to the fields and glean among the ears of grain after someone in whose eyes I may find favour.” Naomi replied, “Go ahead, my daughter.”
 
 ## Ruth 2:3
 
-So she went out, entered a field and began to glean behind the harvesters.  
-As it turned out, she was working in a field belonging to Boaz, who was from the clan of Elimelek.
-
----
+So she went out, entered a field and began to glean behind the reapers. By chance, she found herself working in a part of the field belonging to Boaz, who was of the family of Elimelech.
 
 ## Ruth 2:4
 
-Just then Boaz arrived from Bethlehem and greeted the harvesters,  
-“The Lord be with you!”  
-“The Lord bless you!” they answered.
+Just then Boaz arrived from Bethlehem and said to the reapers, “The Lord be with you.” And they answered, “The Lord bless you.”
 
 ## Ruth 2:5
 
-Boaz asked the overseer of his harvesters,  
-“Who does that young woman belong to?”
+Boaz asked his overseer in charge of the reapers, “Whose young woman is this?”
 
 ## Ruth 2:6
 
-The overseer replied,  
-“She is the Moabite who came back from Moab with Naomi.
+The overseer replied, “She is the young Moabite woman who returned with Naomi from the land of Moab.
 
 ## Ruth 2:7
 
-She said, ‘Please let me glean and gather among the sheaves behind the harvesters.’  
-She came into the field and has remained here from morning till now,  
-except for a short rest in the shelter.”
+She asked, ‘Please let me glean and gather among the sheaves after the reapers.’ She has been here from morning until now, except for a short rest in the shelter.”
 
 ---
 
 ## Ruth 2:8
 
-So Boaz said to Ruth,  
-“My daughter, listen to me. Don’t go and glean in another field and don’t go away from here.  
-Stay here with the women who work for me.
+Then Boaz said to Ruth, “Listen carefully, my daughter. Do not go and glean in another field and do not leave this one. Stay close to my young women.
 
 ## Ruth 2:9
 
-Watch the field where the men are harvesting, and follow along after the women.  
-I have told the men not to lay a hand on you.  
-And whenever you are thirsty, go and get a drink from the water jars the men have filled.”
+Keep your eyes on the field that they are reaping, and follow along after them. I have instructed the young men not to touch you. When you are thirsty, go and drink from the water jars that the young men have filled.”
 
 ## Ruth 2:10
 
-At this, she bowed down with her face to the ground.  
-She asked him,  
-“Why have I found such favour in your eyes that you notice me — a foreigner?”
-
----
+At this, she fell on her face, bowing to the ground, and said to him, “Why have I found favour in your eyes that you should take notice of me, since I am a foreigner?”
 
 ## Ruth 2:11
 
-Boaz replied,  
-“I’ve been told all about what you have done for your mother-in-law since the death of your husband —  
-how you left your father and mother and your homeland and came to live with a people you did not know before.
+Boaz replied, “I have been fully informed of all that you have done for your mother-in-law since the death of your husband—how you left your father and mother and the land of your birth, and came to a people you did not know before.
 
 ## Ruth 2:12
 
-May the Lord repay you for what you have done.  
-May you be richly rewarded by the Lord, the God of Israel,  
-under whose wings you have come to take refuge.”
+May the Lord repay you for your deeds. May you receive a full reward from the Lord, the God of Israel, under whose wings you have taken refuge.”
 
 ## Ruth 2:13
 
-She said,  
-“May I continue to find favour in your eyes, my lord.  
-You have put me at ease by speaking kindly to your servant —  
-though I do not have the standing of one of your servants.”
-
----
+Then she said, “I have found favour in your sight, my lord, for you have comforted me and spoken kindly to your servant, though I am not like one of your maidservants.”
 
 ## Ruth 2:14
 
-At mealtime Boaz said to her,  
-“Come over here. Have some bread and dip it in the wine vinegar.”  
-When she sat down with the harvesters, he offered her some roasted grain.  
-She ate all she wanted and had some left over.
+At mealtime Boaz said to her, “Come over here and eat some bread and dip your piece in the vinegar.” So she sat beside the reapers, and he offered her roasted grain. She ate until she was satisfied and had some left over.
 
 ## Ruth 2:15
 
-As she got up to glean, Boaz gave orders to his men,  
-“Let her gather among the sheaves and don’t reprimand her.
+When she got up to glean, Boaz instructed his young men, “Let her glean even among the sheaves, and do not insult her.
 
 ## Ruth 2:16
 
-Even pull out some stalks for her from the bundles and leave them for her to pick up,  
-and don’t rebuke her.”
-
----
+Also, pull out some stalks for her from the bundles and leave them for her to glean, and do not rebuke her.”
 
 ## Ruth 2:17
 
-So Ruth gleaned in the field until evening.  
-Then she threshed the barley she had gathered, and it amounted to about an ephah.
+So Ruth gleaned in the field until evening. Then she threshed the barley she had gathered, and it amounted to about an ephah.
 
 ## Ruth 2:18
 
-She carried it back to town, and her mother-in-law saw how much she had gathered.  
-Ruth also brought out and gave her what she had left over after she had eaten enough.
+She carried it back to town, and her mother-in-law saw how much she had gleaned. Ruth also brought out and gave her what she had left over after she had eaten enough.
 
 ## Ruth 2:19
 
-Her mother-in-law asked her,  
-“Where did you glean today? Where did you work?  
-Blessed be the man who took notice of you!”  
-Then Ruth told her about the one at whose place she had been working.  
-“The name of the man I worked with today is Boaz,” she said.
-
----
+Her mother-in-law asked her, “Where did you glean today? Where did you work? Blessed be the man who took notice of you!” So she told her mother-in-law about the man at whose place she had been working. “The name of the man I worked with today is Boaz,” she said.
 
 ## Ruth 2:20
 
-“The Lord bless him!” Naomi said to her daughter-in-law.  
-“He has not stopped showing kindness to the living and the dead.”  
-She added, “That man is our close relative; he is one of our guardian-redeemers.”
+Naomi said to her daughter-in-law, “May he be blessed by the Lord, who has not withdrawn his kindness from the living and the dead.” She added, “That man is our close relative; he is one of our redeemers.”
 
 ## Ruth 2:21
 
-Then Ruth the Moabite said,  
-“He even said to me, ‘Stay with my workers until they finish harvesting all my grain.’”
+Then Ruth the Moabitess said, “He even told me, ‘Stay close to my servants until they have finished all my harvest.’”
 
 ## Ruth 2:22
 
-Naomi said to Ruth her daughter-in-law,  
-“It will be good for you, my daughter, to go with the women who work for him,  
-because in someone else’s field you might be harmed.”
+And Naomi said to Ruth her daughter-in-law, “It is good, my daughter, that you go out with his young women, so that you will not be harmed in another field.”
 
 ## Ruth 2:23
 
-So Ruth stayed close to the women of Boaz to glean until the barley and wheat harvests were finished.  
-And she lived with her mother-in-law.
+So Ruth stayed close to the young women of Boaz to glean until the end of the barley and wheat harvests. And she lived with her mother-in-law.

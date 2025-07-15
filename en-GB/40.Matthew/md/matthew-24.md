@@ -2,253 +2,227 @@
 
 ## Matthew 24:1
 
-Jesus left the temple area and was going on His way when His disciples came up  
-to point out the temple buildings to Him.
+Jesus departed from the temple and was on His way when His disciples approached to point out the temple buildings to Him.
 
 ## Matthew 24:2
 
-But He responded and said to them,  
-“Do you not see all these things?  
-Truly I say to you, not one stone here will be left upon another, which will not be torn down.”
+He replied to them, “Do you see all these things? Truly I tell you, not one stone here will be left upon another; every one will be thrown down.”
 
 ---
 
 ## Matthew 24:3
 
-And as He was sitting on the Mount of Olives, the disciples came to Him privately, saying,  
-“Tell us, when will these things happen, and what will be the sign of Your coming, and of the end of the age?”
+As He sat on the Mount of Olives, the disciples came to Him privately, asking, “Tell us, when will these things happen, and what will be the sign of Your coming and of the end of the age?”
 
 ## Matthew 24:4
 
-And Jesus answered and said to them,  
-“See to it that no one misleads you.
+Jesus answered them, “Be careful that no one deceives you.
 
 ## Matthew 24:5
 
-For many will come in My name, saying, ‘I am the Christ,’ and they will mislead many people.
+For many will come in My name, asserting, ‘I am the Messiah,’ and will deceive many.
 
 ## Matthew 24:6
 
-And you will be hearing of wars and rumours of wars.  
-See that you are not alarmed, for those things must take place, but that is not yet the end.
+You will hear of wars and rumours of wars; see that you are not alarmed. Such things must occur, but the end is not yet.
 
 ## Matthew 24:7
 
-For nation will rise against nation, and kingdom against kingdom,  
-and there will be famines and earthquakes in various places.
+Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places.
 
 ## Matthew 24:8
 
-But all these things are merely the beginning of birth pains.
+All these are merely the beginning of birth pains.
 
 ---
 
 ## Matthew 24:9
 
-Then they will hand you over to tribulation and kill you,  
-and you will be hated by all nations because of My name.
+“Then you will be handed over to be persecuted and killed, and you will be hated by all nations because of My name.
 
 ## Matthew 24:10
 
-And at that time many will fall away, and they will betray one another and hate one another.
+At that time many will fall away from the faith and will betray and hate one another,
 
 ## Matthew 24:11
 
-And many false prophets will rise up and mislead many people.
+and many false prophets will arise and deceive many.
 
 ## Matthew 24:12
 
-And because lawlessness is increased, most people’s love will become cold.
+Because of the increase of lawlessness, the love of most will grow cold,
 
 ## Matthew 24:13
 
-But the one who endures to the end is the one who will be saved.
+but the one who endures to the end will be saved.
 
 ## Matthew 24:14
 
-This gospel of the kingdom shall be preached in the whole world  
-as a testimony to all the nations, and then the end will come.
+And this gospel of the kingdom will be proclaimed in the whole world as a testimony to all nations, and then the end will come.
 
 ---
 
 ## Matthew 24:15
 
-Therefore, when you see the abomination of desolation which was spoken of through Daniel the prophet,  
-standing in the holy place—let the reader understand—
+“So when you see the abomination of desolation, spoken of through the prophet Daniel, standing in the holy place—let the reader understand—
 
 ## Matthew 24:16
 
-then those who are in Judea must flee to the mountains.
+then let those who are in Judea flee to the mountains.
 
 ## Matthew 24:17
 
-Whoever is on the housetop must not go down to get things out of his house.
+Let no one on the housetop go down to take anything out of the house.
 
 ## Matthew 24:18
 
-And whoever is in the field must not turn back to get his cloak.
+Let no one in the field go back to get their cloak.
 
 ## Matthew 24:19
 
-But woe to those women who are pregnant, and to those who are nursing babies in those days!
+How dreadful it will be in those days for pregnant women and nursing mothers!
 
 ## Matthew 24:20
 
-Moreover, pray that when you flee, it will not be in the winter, or on a Sabbath.
+Pray that your flight will not take place in winter or on a Sabbath.
 
 ## Matthew 24:21
 
-For then there will be a great tribulation,  
-such as has not occurred since the beginning of the world until now, nor ever will again.
+For then there will be great tribulation, unequalled from the beginning of the world until now—and never to be equalled again.
 
 ## Matthew 24:22
 
-And if those days had not been cut short, no life would have been saved;  
-but for the sake of the elect those days will be cut short.
+If those days had not been shortened, no one would survive, but for the sake of the elect those days will be shortened.
 
 ---
 
 ## Matthew 24:23
 
-Then if anyone says to you, ‘Behold, here is the Christ,’ or ‘He is over here,’ do not believe him.
+At that time if anyone says to you, ‘Look, here is the Messiah!’ or, ‘There He is!’ do not believe it.
 
 ## Matthew 24:24
 
-For false christs and false prophets will arise  
-and will provide great signs and wonders, so as to mislead, if possible, even the elect.
+For false messiahs and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect.
 
 ## Matthew 24:25
 
-Behold, I have told you in advance.
+See, I have told you in advance.
 
 ## Matthew 24:26
 
-So if they say to you, ‘Behold, He is in the wilderness,’ do not go out,  
-or, ‘Behold, He is in the inner rooms,’ do not believe them.
+So if anyone tells you, ‘There He is, out in the wilderness,’ do not go out; or, ‘Here He is, in the inner rooms,’ do not believe it.
 
 ## Matthew 24:27
 
-For just as the lightning comes from the east and flashes as far as the west,  
-so will the coming of the Son of Man be.
+For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.
 
 ## Matthew 24:28
 
-Wherever the corpse is, there the vultures will gather.
+Wherever there is a corpse, there the vultures will gather.
 
 ---
 
 ## Matthew 24:29
 
-But immediately after the tribulation of those days
+“Immediately after the tribulation of those days
 
-> the sun will be darkened,
-> and the moon will not give its light,  
-> and the stars will fall from the sky,
-> and the powers of the heavens will be shaken.
+> ‘the sun will be darkened,
+> and the moon will not give its light;
+> the stars will fall from the sky,
+> and the heavenly bodies will be shaken.’
 
 ## Matthew 24:30
 
-And then the sign of the Son of Man will appear in the sky,  
-and then all the tribes of the earth will mourn,  
-and they will see the Son of Man coming on the clouds of the sky with power and great glory.
+Then will appear the sign of the Son of Man in heaven. Then all the peoples of the earth will mourn when they see the Son of Man coming on the clouds of heaven with power and great glory.
 
 ## Matthew 24:31
 
-And He will send forth His angels with a great trumpet blast,  
-and they will gather together His elect from the four winds,  
-from one end of the sky to the other.
+And He will send His angels with a loud trumpet call, and they will gather His elect from the four winds, from one end of the heavens to the other.
 
 ---
 
 ## Matthew 24:32
 
-Now learn the parable from the fig tree:  
-as soon as its branch has become tender and sprouts its leaves, you know that summer is near.
+“Now learn this lesson from the fig tree: As soon as its branch becomes tender and its leaves come out, you know that summer is near.
 
 ## Matthew 24:33
 
-So you too, when you see all these things, recognise that He is near, right at the door.
+In the same way, when you see all these things, you know that it is near, right at the door.
 
 ## Matthew 24:34
 
-Truly I say to you, this generation will not pass away until all these things take place.
+Truly I tell you, this generation will certainly not pass away until all these things have happened.
 
 ## Matthew 24:35
 
-Heaven and earth will pass away, but My words will not pass away.
+Heaven and earth will pass away, but My words will never pass away.
 
 ---
 
 ## Matthew 24:36
 
-But about that day and hour no one knows, not even the angels of heaven, nor the Son, but the Father alone.
+“But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
 
 ## Matthew 24:37
 
-For the coming of the Son of Man will be just like the days of Noah.
+As it was in the days of Noah, so it will be at the coming of the Son of Man.
 
 ## Matthew 24:38
 
-For as in those days before the flood they were eating and drinking,  
-marrying and giving in marriage, until the day that Noah entered the ark,
+For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark;
 
 ## Matthew 24:39
 
-and they did not understand until the flood came and took them all away;  
-so will the coming of the Son of Man be.
+and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man.
 
 ## Matthew 24:40
 
-At that time there will be two men in the field; one will be taken and one will be left.
+Two men will be in the field; one will be taken and the other left.
 
 ## Matthew 24:41
 
-Two women will be grinding grain at the mill; one will be taken and one will be left.
+Two women will be grinding with a hand mill; one will be taken and the other left.
 
 ---
 
 ## Matthew 24:42
 
-Therefore, be on the alert, for you do not know which day your Lord is coming.
+“Therefore keep watch, because you do not know on what day your Lord will come.
 
 ## Matthew 24:43
 
-But be sure of this, that if the head of the house had known at what time of the night the thief was coming,  
-he would have been on the alert and would not have allowed his house to be broken into.
+But understand this: If the owner of the house had known at what time of night the thief was coming, he would have kept watch and not allowed his house to be broken into.
 
 ## Matthew 24:44
 
-For this reason you also must be ready,  
-for the Son of Man is coming at an hour when you do not think He will.
+So you also must be ready, because the Son of Man will come at an hour when you do not expect Him.
 
 ---
 
 ## Matthew 24:45
 
-Who then is the faithful and sensible slave whom his master put in charge of his household,  
-to give them their food at the proper time?
+“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time?
 
 ## Matthew 24:46
 
-Blessed is that slave whom his master finds so doing when he comes.
+It will be good for that servant whose master finds him doing so when he returns.
 
 ## Matthew 24:47
 
-Truly I say to you that he will put him in charge of all his possessions.
+Truly I tell you, he will put him in charge of all his possessions.
 
 ## Matthew 24:48
 
-But if that evil slave says in his heart, ‘My master is not coming for a long time,’
+But suppose that servant is wicked and says to himself, ‘My master is staying away a long time,’
 
 ## Matthew 24:49
 
-and he begins to beat his fellow slaves, and eat and drink with those habitually drunk,
+and he then begins to beat his fellow servants and to eat and drink with drunkards.
 
 ## Matthew 24:50
 
-then the master of that slave will come on a day that he does not expect, and at an hour that he does not know,
+The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.
 
 ## Matthew 24:51
 
-and he will cut him in two, and assign him a place with the hypocrites;  
-in that place there will be weeping and gnashing of teeth.
+He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.

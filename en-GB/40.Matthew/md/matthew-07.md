@@ -2,98 +2,77 @@
 
 ## Matthew 7:1
 
-Do not judge, so that you will not be judged.
+“Do not judge, lest you too be judged.
 
 ## Matthew 7:2
 
-For in the way you judge, you will be judged;  
-and by your standard of measure, it will be measured to you.
+For in the manner you judge others, you will be judged, and by the measure you use, it will be measured to you.
 
 ## Matthew 7:3
 
-Why do you look at the speck that is in your brother’s eye,  
-but do not notice the log that is in your own eye?
+Why do you observe the speck in your brother’s eye, but fail to notice the plank in your own eye?
 
 ## Matthew 7:4
 
-Or how can you say to your brother,  
-‘Let me take the speck out of your eye,’  
-and behold, the log is in your own eye?
+How can you say to your brother, ‘Let me remove the speck from your eye,’ while there is a plank in your own eye?
 
 ## Matthew 7:5
 
-You hypocrite, first take the log out of your own eye,  
-and then you will see clearly to take the speck out of your brother’s eye.
+You hypocrite, first remove the plank from your own eye, and then you will see clearly to remove the speck from your brother’s eye.
 
 ## Matthew 7:6
 
-Do not give what is holy to dogs,  
-and do not throw your pearls before pigs,  
-or they will trample them under their feet,  
-and turn and tear you to pieces.
+“Do not give what is holy to dogs, and do not cast your pearls before pigs, or they may trample them underfoot, and turn and tear you apart.
 
 ---
 
 ## Matthew 7:7
 
-Ask, and it will be given to you;  
-seek, and you will find;  
-knock, and it will be opened to you.
+“Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you.
 
 ## Matthew 7:8
 
-For everyone who asks receives,  
-and the one who seeks finds,  
-and to the one who knocks it will be opened.
+For everyone who asks receives; the one who seeks finds; and to the one who knocks, it shall be opened.
 
 ## Matthew 7:9
 
-Or what person is there among you who, when his son asks for a loaf of bread, will give him a stone?
+Which of you, if your son asks for bread, would give him a stone?
 
 ## Matthew 7:10
 
-Or if he asks for a fish, he will not give him a snake, will he?
+Or if he asks for a fish, would give him a snake?
 
 ## Matthew 7:11
 
-So if you, despite being evil, know how to give good gifts to your children,  
-how much more will your Father who is in heaven give good things to those who ask Him!
+If you, then, being evil, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
 
 ---
 
 ## Matthew 7:12
 
-In everything, therefore, treat people the same way you want them to treat you,  
-for this is the Law and the Prophets.
-
----
+Therefore, in everything, do to others what you would have them do to you, for this is the Law and the Prophets.
 
 ## Matthew 7:13
 
-Enter through the narrow gate;  
-for the gate is wide and the way is broad that leads to destruction,  
-and there are many who enter through it.
+“Enter through the narrow gate; for wide is the gate and broad is the path that leads to destruction, and many enter through it.
 
 ## Matthew 7:14
 
-For the gate is narrow and the way is constricted that leads to life,  
-and there are few who find it.
+But small is the gate and narrow the path that leads to life, and only a few find it.
 
 ---
 
 ## Matthew 7:15
 
-Beware of the false prophets, who come to you in sheep’s clothing,  
-but inwardly are ravenous wolves.
+“Beware of false prophets, who come to you in sheep’s clothing, but inwardly they are ravenous wolves.
 
 ## Matthew 7:16
 
-You will know them by their fruits.  
-Grapes are not gathered from thorn bushes, nor figs from thistles, are they?
+By their fruits you will recognise them. Do people gather grapes from thorn bushes, or figs from thistles?
 
 ## Matthew 7:17
 
-So every good tree bears good fruit, but the bad tree bears bad fruit.
+In the same way, every good tree bears good fruit, but a bad tree bears bad fruit.
 
 ## Matthew 7:18
 
@@ -105,55 +84,46 @@ Every tree that does not bear good fruit is cut down and thrown into the fire.
 
 ## Matthew 7:20
 
-So then, you will know them by their fruits.
+Thus, by their fruits you will recognise them.
 
 ---
 
 ## Matthew 7:21
 
-Not everyone who says to Me, ‘Lord, Lord,’ will enter the kingdom of heaven,  
-but the one who does the will of My Father who is in heaven will enter.
+“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven.
 
 ## Matthew 7:22
 
-Many will say to Me on that day,  
-‘Lord, Lord, did we not prophesy in Your name,  
-and in Your name cast out demons,  
-and in Your name perform many miracles?’
+Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name, and in your name cast out demons, and in your name perform many miracles?’
 
 ## Matthew 7:23
 
-And then I will declare to them,  
-‘I never knew you; leave Me, you who practise lawlessness.’
+Then I will declare to them, ‘I never knew you; depart from me, you who practise lawlessness.’
 
 ---
 
 ## Matthew 7:24
 
-Therefore, everyone who hears these words of Mine and acts on them,  
-will be like a wise man who built his house on the rock.
+“Therefore, everyone who hears these words of mine and acts on them is like a wise man who built his house on the rock.
 
 ## Matthew 7:25
 
-And the rain fell and the floods came, and the winds blew and slammed against that house;  
-and yet it did not fall, for it had been founded on the rock.
+The rain fell, the floods came, and the winds blew and beat against that house; yet it did not fall, because it was founded on the rock.
 
 ## Matthew 7:26
 
-And everyone who hears these words of Mine and does not act on them,  
-will be like a foolish man who built his house on the sand.
+But everyone who hears these words of mine and does not act on them is like a foolish man who built his house on the sand.
 
 ## Matthew 7:27
 
-And the rain fell and the floods came, and the winds blew and slammed against that house;  
-and it fell—and its collapse was great.”
+The rain fell, the floods came, and the winds blew and beat against that house, and it fell with a great crash.”
 
 ---
 
 ## Matthew 7:28
 
-When Jesus had finished these words, the crowds were amazed at His teaching;
+When Jesus had finished these sayings, the crowds were amazed at his teaching;
 
 ## Matthew 7:29
 
-for He was teaching them as one who had authority, and not as their scribes.
+for he taught as one having authority, and not as their scribes.

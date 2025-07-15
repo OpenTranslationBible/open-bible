@@ -1,173 +1,130 @@
 # Exodus Chapter 39
 
 ## Exodus 39:1
-
-Now from the blue, purple, and scarlet material, they made finely woven garments for ministering in the Holy Place, as well as the holy garments for Aaron, just as the Lord had commanded Moses.
+From the violet, purple, and scarlet yarn, they crafted finely woven garments for ministering in the sanctuary, along with the sacred garments for Aaron, as the Lord instructed Moses.
 
 ## Exodus 39:2
-
-He made the ephod of gold, and of blue, purple, and scarlet material, and fine twisted linen.
+The ephod was made of gold, and of violet, purple, and scarlet yarn, and finely twisted linen.
 
 ## Exodus 39:3
-
-Then they hammered out gold sheets and cut them into threads, to be woven in with the blue, the purple, the scarlet material, and the fine linen, the work of a skilled craftsman.
+They hammered out gold sheets and cut them into threads to be woven into the violet, purple, and scarlet yarn, and the fine linen, the work of skilled hands.
 
 ## Exodus 39:4
-
-They made attaching shoulder pieces for the ephod; it was attached at its two upper ends.
+They fashioned shoulder pieces for the ephod, which were attached at its two upper corners.
 
 ## Exodus 39:5
-
-And the skillfully woven band of its overlay which was on it was like its workmanship, of the same material: of gold, and of blue, purple, and scarlet material, and fine twisted linen, just as the Lord had commanded Moses.
+The skilfully woven waistband of the ephod was of the same workmanship and materials: gold, violet, purple, and scarlet yarn, and finely twisted linen, as the Lord commanded Moses.
 
 ## Exodus 39:6
-
-They also made the onyx stones, set in gold filigree, engraved like the engravings of a signet, according to the names of the sons of Israel.
+They set the onyx stones in gold filigree settings, engraving them like a seal with the names of the sons of Israel.
 
 ## Exodus 39:7
-
-And he placed them on the shoulder pieces of the ephod, as memorial stones for the sons of Israel, just as the Lord had commanded Moses.
+These were placed on the shoulder pieces of the ephod as memorial stones for the sons of Israel, as the Lord commanded Moses.
 
 ## Exodus 39:8
-
-And he made the breastpiece, the work of a skilled craftsman, like the work of the ephod: of gold, and of blue, purple, and scarlet material, and fine twisted linen.
+The breastpiece was crafted by a skilled embroiderer, like the ephod, of gold, and of violet, purple, and scarlet yarn, and finely twisted linen.
 
 ## Exodus 39:9
-
-It was square; they made the breastpiece folded double, a span long and a span wide when folded double.
+It was square and folded double, a span in length and width.
 
 ## Exodus 39:10
-
-And they mounted four rows of stones on it. The first row was a row of ruby, topaz, and emerald;
+They mounted four rows of precious stones on it. The first row was ruby, topaz, and emerald;
 
 ## Exodus 39:11
-
-And the second row: turquoise, sapphire, and diamond;
+the second row was turquoise, sapphire, and diamond;
 
 ## Exodus 39:12
-
-And the third row: jacinth, agate, and amethyst;
+the third row was jacinth, agate, and amethyst;
 
 ## Exodus 39:13
-
-And the fourth row: chrysolite, onyx, and jasper. They were set in gold filigree when they were mounted.
+the fourth row was beryl, onyx, and jasper. These were set in gold filigree settings.
 
 ## Exodus 39:14
-
-The stones corresponded to the names of the sons of Israel, twelve, according to their names; they were engraved like a signet, each with its name for the twelve tribes.
+There were twelve stones, each engraved like a seal with the name of one of the twelve tribes of Israel.
 
 ## Exodus 39:15
-
-And they made on the breastpiece chains like cords, of twisted work in pure gold.
+For the breastpiece, they made chains of pure gold, twisted like cords.
 
 ## Exodus 39:16
-
-They also made two gold filigree settings and two gold rings, and put the two rings on the two ends of the breastpiece.
+They crafted two gold filigree settings and two gold rings, and fastened the rings to the two corners of the breastpiece.
 
 ## Exodus 39:17
-
-Then they put the two gold cords in the two rings at the ends of the breastpiece.
+The two gold chains were attached to the rings at the corners of the breastpiece.
 
 ## Exodus 39:18
-
-And they put the other two ends of the two cords on the two filigree settings, and put them on the shoulder pieces of the ephod, at the front of it.
+The other ends of the chains were fastened to the two settings, attaching them to the shoulder pieces of the ephod at the front.
 
 ## Exodus 39:19
-
-They made two rings of gold and placed them on the two ends of the breastpiece, on the inner edge which was next to the ephod.
+They made two gold rings and attached them to the other two corners of the breastpiece, on the inside edge next to the ephod.
 
 ## Exodus 39:20
-
-They made two more gold rings and placed them on the bottom of the two shoulder pieces of the ephod, on the front of it, close to the place where it joined, above the woven band of the ephod.
+They also made two more gold rings and attached them to the bottom of the shoulder pieces of the ephod, at the front, near the seam above the waistband.
 
 ## Exodus 39:21
-
-And they bound the breastpiece by its rings to the rings of the ephod with a blue cord, so that it would be on the woven band of the ephod, and that the breastpiece would not come loose from the ephod, just as the Lord had commanded Moses.
+The rings of the breastpiece were tied to the rings of the ephod with a violet cord, so that the breastpiece would remain attached to the waistband and not swing out, as the Lord commanded Moses.
 
 ## Exodus 39:22
-
-Then he made the robe of the ephod of woven work, all of blue;
+The robe of the ephod was made entirely of violet cloth, the work of a weaver.
 
 ## Exodus 39:23
-
-And the opening of the robe was at the top in the center, like the opening of a coat of mail, with a binding all around its opening, so that it would not tear.
+It had an opening in the centre, like the opening of a coat of mail, with a binding around the opening to prevent tearing.
 
 ## Exodus 39:24
-
-They made pomegranates of blue, purple, and scarlet material, and twisted linen on the hem of the robe.
+They made pomegranates of violet, purple, and scarlet yarn and finely twisted linen around the hem of the robe.
 
 ## Exodus 39:25
-
-They also made bells of pure gold, and put the bells between the pomegranates all around the hem of the robe,
+Pure gold bells were made and placed between the pomegranates around the hem.
 
 ## Exodus 39:26
-
-Alternating a bell and a pomegranate all around the hem of the robe, for the service, just as the Lord had commanded Moses.
+The bells and pomegranates alternated around the hem of the robe for ministering, as the Lord commanded Moses.
 
 ## Exodus 39:27
-
-They also made the tunics of finely woven linen for Aaron and his sons,
+Tunics of finely woven linen were made for Aaron and his sons.
 
 ## Exodus 39:28
-
-And the turban of fine linen, and the decorated caps of fine linen, and the linen undergarments of fine twisted linen,
+They also made the turban of fine linen, the decorated caps, and the undergarments of finely twisted linen.
 
 ## Exodus 39:29
-
-And the sash of fine twisted linen, and blue, purple, and scarlet material, the work of the embroiderer, just as the Lord had commanded Moses.
+The sash was crafted from finely twisted linen and violet, purple, and scarlet yarn, the work of an embroiderer, as the Lord commanded Moses.
 
 ## Exodus 39:30
-
-They also made the plate of the holy crown of pure gold, and they engraved the inscription like the engravings of a signet, “Holy to the Lord.”
+They made the plate, the sacred emblem, of pure gold and engraved on it, like an inscription on a seal: "Holy to the Lord."
 
 ## Exodus 39:31
-
-And they fastened a blue cord to it, to fasten it on the turban above, just as the Lord had commanded Moses.
+A violet cord was attached to it to fasten it to the turban, as the Lord commanded Moses.
 
 ## Exodus 39:32
-
-So all the work of the tabernacle of the tent of meeting was completed; and the sons of Israel did everything according to all that the Lord had commanded Moses; so they did.
+Thus, all the work on the tabernacle, the tent of meeting, was completed. The Israelites did everything as the Lord commanded Moses.
 
 ## Exodus 39:33
-
-Then they brought the tabernacle to Moses: the tent and all its furnishings, its clasps, its boards, its crossbars, its pillars, and its bases;
+They brought the tabernacle to Moses: the tent and all its furnishings, its clasps, frames, crossbars, posts, and bases;
 
 ## Exodus 39:34
-
-And the covering of rams’ skins dyed red, and the covering of fine leather, and the curtain of the screen;
+the covering of ram skins dyed red, the covering of fine leather, and the shielding curtain;
 
 ## Exodus 39:35
-
-The ark of the testimony and its poles, and the atoning cover;
+the ark of the covenant law with its poles and the atonement cover;
 
 ## Exodus 39:36
-
-The table, all its utensils, and the bread of the Presence;
+the table with all its articles and the bread of the Presence;
 
 ## Exodus 39:37
-
-The pure gold lampstand, with its arrangement of lamps and all its utensils, and the oil for the light;
+the pure gold lampstand with its lamps in a row and all its accessories, and the olive oil for the light;
 
 ## Exodus 39:38
-
-And the gold altar, the anointing oil, and the fragrant incense, and the curtain for the entrance to the tent;
+the gold altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent;
 
 ## Exodus 39:39
-
-The bronze altar and its bronze grating, its poles, and all its utensils, the basin and its stand;
+the bronze altar with its bronze grating, its poles, and all its utensils; the basin with its stand;
 
 ## Exodus 39:40
-
-The hangings for the courtyard, its pillars and its bases, and the curtain for the gate of the courtyard, its ropes and its pegs, and all the equipment for the service of the tabernacle, for the tent of meeting;
+the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard; the ropes and tent pegs for the courtyard; all the equipment for the service of the tabernacle, the tent of meeting;
 
 ## Exodus 39:41
-
-The woven garments for ministering in the Holy Place, and the holy garments for Aaron the priest and the garments of his sons, to minister as priests.
+and the woven garments worn for ministering in the sanctuary, both the sacred garments for Aaron the priest and the garments for his sons when serving as priests.
 
 ## Exodus 39:42
-
-So the sons of Israel did all the work according to everything that the Lord had commanded Moses.
+The Israelites had done all the work just as the Lord had commanded Moses.
 
 ## Exodus 39:43
-
-And Moses examined all the work, and behold, they had done it; just as the Lord had commanded, so they had done. And Moses blessed them.
+Moses inspected the work and saw that they had done it just as the Lord had commanded. So Moses blessed them.

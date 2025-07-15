@@ -2,183 +2,181 @@
 
 ## Job 15:1
 
-Then Eliphaz the Temanite responded,
+Then Eliphaz the Temanite spoke:
 
 ## Job 15:2
 
-> “Should a wise man answer with windy knowledge,  
-> And fill himself with the east wind?
+> “Should a wise person respond with empty ideas,
+> and fill themselves with the hot east wind?
 
 ## Job 15:3
 
-> Should he argue with useless talk,  
-> Or with words which do not benefit?
+> Should they engage in fruitless talk,
+> with words that bring no benefit?
 
 ## Job 15:4
 
-> Indeed, you do away with reverence,  
-> And hinder meditation before God.
+> You indeed diminish reverence
+> and obstruct meditation before God.
 
 ## Job 15:5
 
-> For your guilt teaches your mouth,  
-> And you choose the language of the crafty.
+> Your wrongdoing instructs your speech,
+> and you choose the tongue of the crafty.
 
 ## Job 15:6
 
-> Your own mouth condemns you, and not I;  
-> And your own lips testify against you.
+> Your own mouth condemns you, not I;
+> your own lips bear witness against you.
 
 ---
 
 ## Job 15:7
 
-> Were you the first person to be born,  
-> Or were you brought forth before the hills?
+> “Were you the first human ever born?
+> Were you brought forth before the hills?
 
 ## Job 15:8
 
-> Do you hear the secret counsel of God,  
-> And limit wisdom to yourself?
+> Do you listen in on God’s secret council?
+> Do you claim exclusive wisdom?
 
 ## Job 15:9
 
-> What do you know that we do not know?  
-> What do you understand that we do not?
+> What do you know that we do not?
+> What insights do you possess that we lack?
 
 ## Job 15:10
 
-> Both the gray-haired and the aged are among us,  
-> Older than your father.
+> The grey-haired and the aged are among us,
+> older than your father.
 
 ## Job 15:11
 
-> Are the consolations of God too little for you,  
-> Or the word spoken gently with you?
+> Are the consolations of God too small for you,
+> or the gentle word spoken to you?
 
 ## Job 15:12
 
-> Why does your heart take you away,  
-> And why do your eyes wink,
+> Why does your heart lead you astray,
+> and why do your eyes flash,
 
 ## Job 15:13
 
-> That you turn your spirit against God,  
-> And produce such words from your mouth?
-
----
+> that you turn your spirit against God
+> and utter such words?
 
 ## Job 15:14
 
-> What is man, that he would be pure,  
-> Or one born of woman, that he would be righteous?
+> What is humanity, that they could be pure,
+> or those born of a woman, that they could be righteous?
 
 ## Job 15:15
 
-> Behold, He puts no trust in His holy ones,  
-> And the heavens are not pure in His sight;
+> If He places no trust in His holy ones,
+> and even the heavens are not pure in His sight,
 
 ## Job 15:16
 
-> How much less one who is detestable and corrupt:  
-> A person who drinks injustice like water!
+> how much less mortals, who are vile and corrupt,
+> who drink iniquity like water!
 
 ---
 
 ## Job 15:17
 
-> “I will tell you, listen to me;  
-> And what I have seen I will also declare;
+> “Listen to me and I will explain;
+> I will declare what I have observed,
 
 ## Job 15:18
 
-> What wise people have told,  
-> And have not concealed from their fathers,
+> what the wise have proclaimed,
+> and have not concealed from their ancestors,
 
 ## Job 15:19
 
-> To whom alone the land was given,  
-> And no stranger passed among them.
+> to whom alone the land was given
+> when no stranger passed among them:
 
 ## Job 15:20
 
-> The wicked person writhes in pain all his days,  
-> And the number of years is reserved for the ruthless.
+> The wicked person suffers torment all their days,
+> and the years reserved for the ruthless are limited.
 
 ## Job 15:21
 
-> Sounds of terror are in his ears;  
-> While he is at peace the destroyer comes upon him.
+> Terrifying sounds fill his ears;
+> when he is at peace, marauders attack him.
 
 ## Job 15:22
 
-> He does not believe that he will return from darkness,  
-> And he is destined for the sword.
+> He does not expect to escape from darkness;
+> he is destined for the sword.
 
 ## Job 15:23
 
-> He wanders about for food, saying, ‘Where is it?’  
-> He knows that a day of darkness is at hand.
+> He wanders for food, saying, ‘Where is it?’
+> He knows the day of darkness is near.
 
 ## Job 15:24
 
-> Distress and anguish terrify him,  
-> They overpower him like a king ready for the attack,
+> Distress and anguish terrify him;
+> they overpower him like a king ready for battle,
 
 ## Job 15:25
 
-> Because he has reached out with his hand against God,  
-> And is arrogant toward the Almighty.
+> because he has stretched out his hand against God,
+> and shown arrogance towards the Almighty.
 
 ## Job 15:26
 
-> He rushes headlong at Him with his massive shield.
+> He charges defiantly at Him with a thick, strong shield.
 
 ---
 
 ## Job 15:27
 
-> For he has covered his face with fat,  
-> And put fat on his thighs.
+> Though his face is covered with fat
+> and his waist bulges with flesh,
 
 ## Job 15:28
 
-> He has lived in desolate cities,  
-> In houses no one would inhabit,  
-> Which are destined to become ruins.
+> he will dwell in desolate cities,
+> in houses no one inhabits,
+> destined to become ruins.
 
 ## Job 15:29
 
-> He will not become rich, nor will his wealth endure;  
-> Nor will their possessions spread over the land.
+> He will not remain wealthy, nor will his riches endure;
+> his possessions will not spread across the land.
 
 ## Job 15:30
 
-> He will not escape from darkness;  
-> The flame will dry up his shoot,  
-> And he will go away by the breath of His mouth.
+> He will not escape the darkness;
+> a flame will wither his shoots,
+> and the breath of God’s mouth will carry him away.
 
 ## Job 15:31
 
-> Let him not trust in emptiness, deceiving himself;  
-> For emptiness will be his reward.
+> Let him not deceive himself
+> by trusting in vanity, for he will receive nothing in return.
 
 ## Job 15:32
 
-> It will be fulfilled before his time,  
-> And his palm branch will not be green.
+> It will be fulfilled before his time,
+> and his branches will not flourish.
 
 ## Job 15:33
 
-> He will drop off his unripe grape like the vine,  
-> And will cast off his flower like the olive tree.
+> He will be like a vine stripped of its unripe grapes,
+> like an olive tree shedding its blossoms.
 
 ## Job 15:34
 
-> For the company of the godless is barren,  
-> And fire consumes the tents of the corrupt.
+> For the company of the godless is barren,
+> and fire consumes the tents of those who love bribes.
 
 ## Job 15:35
 
-> They conceive harm and give birth to wrongdoing,  
-> And their womb prepares deception.
+> They conceive trouble and give birth to wrongdoing;
+> their mind prepares deceit.”

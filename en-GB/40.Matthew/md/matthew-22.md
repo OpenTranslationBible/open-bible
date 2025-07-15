@@ -2,226 +2,197 @@
 
 ## Matthew 22:1
 
-Jesus spoke to them again in parables, saying,
+Jesus spoke to them again in parables, saying:
 
 ## Matthew 22:2
 
-“The kingdom of heaven is like a king who held a wedding feast for his son.
+“The kingdom of heaven is like a king who arranged a wedding feast for his son.
 
 ## Matthew 22:3
 
-And he sent his slaves to call those who had been invited to the wedding feast,  
-and they were unwilling to come.
+He sent his servants to call those who had been invited to the banquet, but they were unwilling to come.
 
 ## Matthew 22:4
 
-Again he sent other slaves, saying,  
-‘Tell those who have been invited, “Behold, I have prepared my dinner;  
-my oxen and fattened cattle are slaughtered, and everything is ready;  
-come to the wedding feast!”’
+Once more he sent other servants, saying, ‘Tell those who have been invited: Behold, I have prepared my dinner; my oxen and fattened cattle are butchered, and everything is ready. Come to the wedding feast.’
 
 ## Matthew 22:5
 
-But they paid no attention and went their separate ways,  
-one to his own farm, another to his business,
+But they paid no attention and went away, one to his field, another to his business.
 
 ## Matthew 22:6
 
-and the rest seized his slaves and treated them abusively, and then killed them.
+The others seized his servants, mistreated them, and killed them.
 
 ## Matthew 22:7
 
-Now the king was angry, and he sent his armies and destroyed those murderers and set their city on fire.
+The king was furious. He sent his army and destroyed those murderers and burned their city.
 
 ## Matthew 22:8
 
-Then he said to his slaves,  
-‘The wedding feast is ready, but those who were invited were not worthy.
+Then he said to his servants, ‘The wedding feast is ready, but those invited were not worthy.
 
 ## Matthew 22:9
 
-So go to the main roads, and invite whomever you find there to the wedding feast.’
+Go therefore to the main roads and invite to the feast as many as you find.’
 
 ## Matthew 22:10
 
-Those slaves went out into the streets and gathered together all whom they found, both bad and good;  
-and the wedding hall was filled with dinner guests.
+So the servants went out into the streets and gathered all they found, both bad and good, and the wedding hall was filled with guests.
 
 ---
 
 ## Matthew 22:11
 
-But when the king came in to look over the dinner guests,  
-he saw a man there who was not dressed in wedding clothes,
+But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes.
 
 ## Matthew 22:12
 
-and he said to him,  
-‘Friend, how did you get in here without wedding clothes?’  
-And the man was speechless.
+He asked, ‘Friend, how did you get in here without wedding clothes?’ The man was speechless.
 
 ## Matthew 22:13
 
-Then the king said to the servants,  
-‘Tie his hands and feet, and throw him into the outer darkness;  
-in that place there will be weeping and gnashing of teeth.’
+Then the king told the attendants, ‘Bind him hand and foot, and throw him into the outer darkness, where there will be weeping and gnashing of teeth.’
 
 ## Matthew 22:14
 
-For many are called, but few are chosen.”
+For many are called, but few are chosen.
 
 ---
 
 ## Matthew 22:15
 
-Then the Pharisees went and plotted together how they might trap Him in what He said.
+Then the Pharisees went out and plotted how they might trap him in his words.
 
 ## Matthew 22:16
 
-And they sent their disciples to Him, along with the Herodians, saying,  
-“Teacher, we know that You are truthful and teach the way of God in truth,  
-and do not care what anyone thinks; for You are not partial to anyone.
+They sent their disciples to him along with the Herodians, saying, “Teacher, we know that you are truthful and teach the way of God in truth, and you do not care about anyone’s opinion, for you are not swayed by appearances.
 
 ## Matthew 22:17
 
-Tell us then, what do You think? Is it permissible to pay a poll-tax to Caesar, or not?”
+Tell us then, what is your opinion? Is it lawful to pay taxes to Caesar, or not?”
 
 ## Matthew 22:18
 
-But Jesus perceived their malice, and said,  
-“Why are you testing Me, you hypocrites?
+But Jesus, aware of their malice, said, “Why are you testing me, you hypocrites?
 
 ## Matthew 22:19
 
-Show Me the coin used for the poll-tax.”  
-And they brought Him a denarius.
+Show me the coin used for the tax.” They brought him a denarius,
 
 ## Matthew 22:20
 
-And He said to them,  
-“Whose image and inscription is this?”
+and he asked them, “Whose image and inscription is this?”
 
 ## Matthew 22:21
 
-They said to Him, “Caesar’s.”  
-Then He said to them,  
-“Then pay to Caesar the things that are Caesar’s; and to God the things that are God’s.”
+“Caesar’s,” they replied. Then he said to them, “Render therefore to Caesar the things that are Caesar’s, and to God the things that are God’s.”
 
 ## Matthew 22:22
 
-And hearing this, they were amazed; and they left Him and went away.
+When they heard this, they were amazed, and they left him and went away.
 
 ---
 
 ## Matthew 22:23
 
-On that day some Sadducees (who say there is no resurrection) came to Him and questioned Him,
+That same day the Sadducees, who say there is no resurrection, came to him with a question.
 
 ## Matthew 22:24
 
-saying,  
-“Teacher, Moses said, ‘If a man dies having no children, his brother shall marry his wife,  
-and raise up offspring for his brother.’
+“Teacher,” they said, “Moses said, ‘If a man dies without having children, his brother must marry the widow and raise up offspring for him.’
 
 ## Matthew 22:25
 
-Now there were seven brothers among us; and the first married and died, and having no offspring,  
-left his wife to his brother.
+Now there were seven brothers among us. The first one married and died, and having no children, left his wife to his brother.
 
 ## Matthew 22:26
 
-It was the same also with the second and the third, down to the seventh.
+The same happened with the second and third brother, down to the seventh.
 
 ## Matthew 22:27
 
-Last of all, the woman also died.
+Finally, the woman died.
 
 ## Matthew 22:28
 
-In the resurrection, therefore, whose wife of the seven will she be?  
-For they all had her in marriage.”
+In the resurrection, therefore, whose wife will she be of the seven, since all of them were married to her?”
 
 ## Matthew 22:29
 
-But Jesus answered and said to them,  
-“You are mistaken, since you do not understand the Scriptures, nor the power of God.
+Jesus replied, “You are mistaken, because you do not know the Scriptures nor the power of God.
 
 ## Matthew 22:30
 
-For in the resurrection they neither marry nor are given in marriage, but are like angels in heaven.
+For in the resurrection they neither marry nor are given in marriage, but are like the angels in heaven.
 
 ## Matthew 22:31
 
-But regarding the resurrection of the dead, have you not read what was spoken to you by God:
+But concerning the resurrection of the dead, have you not read what God said to you,
 
 ## Matthew 22:32
 
-‘I am the God of Abraham, and the God of Isaac, and the God of Jacob’?  
-He is not the God of the dead, but of the living.”
+‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”
 
 ## Matthew 22:33
 
-When the crowds heard this, they were astonished at His teaching.
+When the crowds heard this, they were astonished at his teaching.
 
 ---
 
 ## Matthew 22:34
 
-Now when the Pharisees heard that Jesus had silenced the Sadducees, they gathered together.
+When the Pharisees heard that Jesus had silenced the Sadducees, they gathered together.
 
 ## Matthew 22:35
 
-And one of them, a lawyer, asked Him a question, to test Him:
+One of them, an expert in the law, tested him with this question:
 
 ## Matthew 22:36
 
-“Teacher, which is the great commandment in the Law?”
+“Teacher, which is the greatest commandment in the Law?”
 
 ## Matthew 22:37
 
-And He said to him,  
-“‘You shall love the Lord your God with all your heart, and with all your soul, and with all your mind.’
+Jesus replied, “‘You shall love the Lord your God with all your heart, with all your soul, and with all your mind.’
 
 ## Matthew 22:38
 
-This is the great and foremost commandment.
+This is the first and greatest commandment.
 
 ## Matthew 22:39
 
-The second is like it, ‘You shall love your neighbour as yourself.’
+And the second is like it: ‘You shall love your neighbour as yourself.’
 
 ## Matthew 22:40
 
-Upon these two commandments hang the whole Law and the Prophets.”
+All the Law and the Prophets hang on these two commandments.”
 
 ---
 
 ## Matthew 22:41
 
-Now while the Pharisees were gathered together, Jesus asked them a question:
+While the Pharisees were gathered together, Jesus asked them,
 
 ## Matthew 22:42
 
-“What do you think about the Christ? Whose son is He?”  
-They said to Him, “The son of David.”
+“What do you think about the Messiah? Whose son is he?” They replied, “The son of David.”
 
 ## Matthew 22:43
 
-He said to them,  
-“Then how does David in the Spirit call Him ‘Lord,’ saying,
+He said to them, “How is it then that David, speaking by the Spirit, calls him ‘Lord’? For he says,
 
 ## Matthew 22:44
 
-> ‘The Lord said to my Lord,  
-> “Sit at My right hand,  
-> Until I put Your enemies
-> under Your feet”’?
+> ‘The Lord said to my Lord:
+> “Sit at my right hand
+> until I put your enemies
+> under your feet.”’
 
 ## Matthew 22:45
 
-Therefore, if David calls Him ‘Lord,’ how is He his son?”
+If then David calls him ‘Lord,’ how can he be his son?”
 
 ## Matthew 22:46
 
-And no one was able to offer Him an answer to even one question,  
-nor did anyone dare from that day on to ask Him another question.
+No one could say a word in reply, and from that day on no one dared to ask him any more questions.

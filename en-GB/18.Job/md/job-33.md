@@ -1,180 +1,180 @@
-# Job Chapter 33
+> # Job Chapter 33
 
 ## Job 33:1
 
-> “However, please hear my speech, Job,  
-> And listen to all my words.
+> “But now, Job, please listen to my speech;
+> pay attention to all my words.
 
 ## Job 33:2
 
-> Behold now, I open my mouth,  
-> My tongue in my mouth speaks.
+> See now, I am about to open my mouth;
+> my tongue is ready to speak.
 
 ## Job 33:3
 
-> My words are from the integrity of my heart,  
-> And my lips speak knowledge sincerely.
+> My words come from the integrity of my heart;
+> my lips express knowledge sincerely.
 
 ## Job 33:4
 
-> The Spirit of God has made me,  
-> And the breath of the Almighty gives me life.
+> The Spirit of God has created me;
+> the breath of the Almighty gives me life.
 
 ## Job 33:5
 
-> Refute me if you can;  
-> Line up before me, take your stand.
+> Respond to me if you can;
+> prepare yourself and take your stand.
 
 ## Job 33:6
 
-> Behold, I belong to God like you;  
-> I too have been formed from the clay.
+> I am just like you before God;
+> I too have been formed from clay.
 
 ## Job 33:7
 
-> Behold, no fear of me should terrify you,  
-> Nor should my pressure weigh heavily on you.
+> No fear of me should alarm you,
+> nor should my hand be heavy upon you.
 
 ---
 
 ## Job 33:8
 
-> “Surely you have spoken in my hearing,  
-> And I have heard the sound of your words:
+> “But you have spoken in my hearing,
+> and I have heard the very words you said:
 
 ## Job 33:9
 
-> ‘I am pure, without wrongdoing;  
-> I am innocent and there is no guilt in me.
+> ‘I am pure, without transgression;
+> I am clean and there is no iniquity in me.
 
 ## Job 33:10
 
-> Behold, He invents pretexts against me;  
-> He counts me as His enemy.
+> Yet He finds occasions against me;
+> He regards me as His adversary.
 
 ## Job 33:11
 
-> He puts my feet in the stocks;  
+> He puts my feet in shackles;
 > He watches all my paths.’
 
 ---
 
 ## Job 33:12
 
-> “Behold, let me respond to you, you are not right in this,  
-> For God is greater than mankind.
+> “But I say to you, in this you are not right,
+> for God is greater than any human.
 
 ## Job 33:13
 
-> Why do you complain against Him  
-> That He does not give an account of all His doings?
+> Why do you contend with Him,
+> saying He does not answer any of your words?
 
 ## Job 33:14
 
-> Indeed God speaks once,  
-> Or twice, yet no one notices it.
+> For God does speak—now one way,
+> now another—yet no one notices it.
 
 ## Job 33:15
 
-> In a dream, a vision of the night,  
-> When deep sleep falls on people,  
-> While they slumber in their beds,
+> In a dream, a vision of the night,
+> when deep sleep falls upon people,
+> while they slumber on their beds,
 
 ## Job 33:16
 
-> Then He opens the ears of people,  
-> And horrifies them with warnings,
+> He may open their ears
+> and terrify them with warnings,
 
 ## Job 33:17
 
-> So that He may turn a person away from wrongdoing,  
-> And keep a man from pride;
+> to turn a person from wrongdoing
+> and to keep them from pride,
 
 ## Job 33:18
 
-> He keeps his soul back from the pit,  
-> And his life from perishing by the spear.
+> to preserve their soul from the pit,
+> and their life from perishing by the sword.
 
 ---
 
 ## Job 33:19
 
-> A person is also rebuked by pain in his bed,  
-> And with constant distress in his bones,
+> “Or they may be chastened on a bed of pain,
+> with constant distress in their bones,
 
 ## Job 33:20
 
-> So that his life loathes bread,  
-> And his soul, food that he should crave.
+> so that their being loathes bread,
+> and their soul despises their favourite food.
 
 ## Job 33:21
 
-> His flesh wastes away from sight,  
-> And his bones, which were not seen, stick out.
+> Their flesh wastes away to nothing,
+> and their bones, once unseen, now stick out.
 
 ## Job 33:22
 
-> Then his soul comes near to the pit,  
-> And his life to those who bring death.
+> Their soul draws near to the pit,
+> and their life to the messengers of death.
 
 ## Job 33:23
 
-> If there is an interceding angel for him,  
-> One out of a thousand,  
-> To remind a person of what is right for him,
+> Yet if there is an angel on their side, a mediator,
+> one out of a thousand,
+> to show them what is right,
 
 ## Job 33:24
 
-> And he is gracious to him, and says,  
-> ‘Save him from going down to the pit,  
-> I have found a ransom,’
+> and he is gracious to them, and says,
+> ‘Deliver them from going down to the pit;
+> I have found a ransom for them—
 
 ## Job 33:25
 
-> Let his flesh become fresher than in youth,  
-> Let him return to the days of his youthful vigour.
+> let their flesh be renewed like a child’s;
+> let them return to the days of their youthful vigour’—
 
 ## Job 33:26
 
-> Then he will pray to God, and He will accept him,  
-> So that he may see His face with joy,  
-> And He will restore His righteousness to that person.
+> then they will pray to God
+> and find favour with Him; they will see His face with joy,
+> and He will restore their righteousness.
 
 ## Job 33:27
 
-> He will sing to people and say,  
-> ‘I have sinned and perverted what is right,  
-> And it was not proper for me.
+> They will sing to others and say,
+> ‘I have sinned and perverted what was right,
+> but I did not receive what I deserved.
 
 ## Job 33:28
 
-> He has redeemed my soul from going to the pit,  
-> And my life will see the light.’
+> He has redeemed my soul from going down to the pit,
+> and my life shall see the light.’
 
 ---
 
 ## Job 33:29
 
-> “Behold, God does all these things for a man two or three times,
+> “Indeed, God does all these things for a person—twice, even three times—
 
 ## Job 33:30
 
-> To bring back his soul from the pit,  
-> So that he may be enlightened with the light of life.
+> to bring back their soul from the pit,
+> that they may be enlightened with the light of life.
 
 ---
 
 ## Job 33:31
 
-> Pay attention, Job, listen to me;  
-> Keep silent, and let me speak.
+> “Pay attention, Job, and listen to me;
+> be silent, and I will speak.
 
 ## Job 33:32
 
-> Then if you have anything to say, answer me;  
-> Speak, for I desire to justify you.
+> If you have anything to say, answer me;
+> speak, for I desire to justify you.
 
 ## Job 33:33
 
-> If not, listen to me;  
-> Keep silent, and I will teach you wisdom.”
+> But if not, then listen to me;
+> keep silent, and I will teach you wisdom.”

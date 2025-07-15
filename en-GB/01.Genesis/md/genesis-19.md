@@ -1,116 +1,115 @@
 # Genesis Chapter 19
 
 ## Genesis 19:1
-The two angels arrived at Sodom in the evening, and Lot was sitting at the gate of the city. When he saw them, he rose to meet them and bowed down with his face to the ground.
+The two angels arrived at Sodom in the evening, and Lot was sitting at the gate of the city. When Lot saw them, he rose to meet them and bowed with his face to the ground.
 
 ## Genesis 19:2
-“My lords,” he said, “please turn aside to your servant’s house. You can wash your feet and spend the night and then go on your way early in the morning.” “No,” they answered, “we will spend the night in the square.”
+He said, “My lords, please turn aside to your servant’s house to spend the night and wash your feet. Then you may rise early and go on your way.” They said, “No, we will spend the night in the square.”
 
 ## Genesis 19:3
-But Lot insisted strongly, so they went with him and entered his house. He prepared a meal for them, baking unleavened bread, and they ate.
+But Lot insisted strongly, so they turned aside to him and entered his house. He prepared a feast for them and baked unleavened bread, and they ate.
 
 ## Genesis 19:4
-Before they had gone to bed, all the men from every part of the city of Sodom—both young and old—surrounded the house.
+Before they lay down, the men of the city of Sodom, both young and old, surrounded the house, all the people from every quarter.
 
 ## Genesis 19:5
-They called to Lot, “Where are the men who came to you tonight? Bring them out to us so that we can know them intimately.”
+They called to Lot, “Where are the men who came to you tonight? Bring them out to us so that we may have relations with them.”
 
 ## Genesis 19:6
-Lot went outside to meet them and shut the door behind him.
+Lot went out to them at the doorway and shut the door behind him,
 
 ## Genesis 19:7
-He said, “Please, my brothers, do not do this wicked thing.
+and said, “I beg you, my brothers, do not act so wickedly.
 
 ## Genesis 19:8
-Look, I have two daughters who have never been with a man. Let me bring them out to you, and you can do as you please with them. But do nothing to these men, for they have come under the protection of my roof.”
+Look, I have two daughters who have not known a man. Please, let me bring them out to you, and you may do to them as you please. Only do nothing to these men, for they have come under the protection of my roof.”
 
 ## Genesis 19:9
-“Get out of the way,” they replied. “This fellow came here as a foreigner, and now he wants to play the judge! We’ll treat you worse than them.” And they pressed hard against Lot and came near to break down the door.
+But they said, “Stand back!” They also said, “This fellow came here as a foreigner, and now he wants to play the judge! We will treat you worse than them.” They pressed hard against Lot and came near to break down the door.
 
 ## Genesis 19:10
-But the men inside reached out and pulled Lot back into the house and shut the door.
+But the men inside reached out their hands and pulled Lot back into the house, and shut the door.
 
 ## Genesis 19:11
-Then they struck the men who were at the door of the house, both young and old, with blindness, so that they could not find the door.
+Then they struck the men who were at the doorway of the house with blindness, both small and great, so that they became weary trying to find the door.
 
 ## Genesis 19:12
-The men said to Lot, “Do you have anyone else here—sons-in-law, sons or daughters, or anyone else in the city who belongs to you? Get them out of here,
+The two men said to Lot, “Do you have anyone else here—sons-in-law, sons, daughters, or anyone else in the city who belongs to you? Get them out of this place,
 
 ## Genesis 19:13
-because we are going to destroy this place. The outcry against its people is so great before the Lord that He has sent us to destroy it.”
+for we are about to destroy this place, because the outcry against its people has become great before the Lord; the Lord has sent us to destroy it.”
 
 ## Genesis 19:14
-So Lot went out and spoke to his sons-in-law, who were pledged to marry his daughters. He said, “Get out of this place, because the Lord is about to destroy the city!” But his sons-in-law thought he was joking.
+So Lot went out and spoke to his sons-in-law, who were to marry his daughters, and said, “Get up, get out of this place, for the Lord is about to destroy the city.” But he appeared to his sons-in-law to be jesting.
 
 ## Genesis 19:15
-With the coming of dawn, the angels urged Lot, “Hurry! Take your wife and your two daughters who are here, or you will be swept away when the city is punished.”
+When morning dawned, the angels urged Lot, saying, “Get up, take your wife and your two daughters who are here, or you will be swept away in the punishment of the city.”
 
 ## Genesis 19:16
-When he hesitated, the men grasped his hand and the hands of his wife and daughters and led them safely out of the city, for the Lord was merciful to them.
+But he hesitated, so the men seized his hand and the hands of his wife and his two daughters, because the Lord was merciful to him, and they brought him out and set him outside the city.
 
 ## Genesis 19:17
-As soon as they had brought them out, one of them said, “Flee for your lives! Don’t look back, and don’t stop anywhere in the plain! Flee to the mountains or you will be swept away!”
+When they had brought them outside, one of them said, “Flee for your life! Do not look back or stop anywhere in the plain. Escape to the mountains or you will be swept away.”
 
 ## Genesis 19:18
-But Lot said to them, “No, my lords, please!
+But Lot said to them, “Oh no, my lords!
 
 ## Genesis 19:19
-Your servant has found favour in your eyes, and you have shown great kindness to me in sparing my life. But I can’t flee to the mountains; this disaster will overtake me, and I’ll die.
+Your servant has found favour in your sight, and you have shown great kindness to me by saving my life. But I cannot flee to the mountains, for the disaster will overtake me and I will die.
 
 ## Genesis 19:20
-Look, here is a town near enough to run to, and it is small. Let me flee to it—it is very small, isn’t it? Then my life will be spared.”
+Look, here is a town near enough to flee to, and it is small. Please, let me escape there—is it not small?—so that my life may be spared.”
 
 ## Genesis 19:21
 He said to him, “Very well, I will grant this request too; I will not overthrow the town you speak of.
 
 ## Genesis 19:22
-But flee there quickly, because I cannot do anything until you reach it.” (That is why the town was called Zoar.)
+But hurry, escape there, for I cannot do anything until you reach it.” Therefore the town was called Zoar.
 
 ## Genesis 19:23
-By the time Lot reached Zoar, the sun had risen over the land.
+The sun had risen over the land when Lot reached Zoar.
 
 ## Genesis 19:24
-Then the Lord rained down burning sulfur on Sodom and Gomorrah—from the Lord out of the heavens.
+Then the Lord rained down brimstone and fire on Sodom and Gomorrah—from the Lord out of the heavens.
 
 ## Genesis 19:25
-Thus He overthrew those cities and the entire plain, destroying all those living in the cities—and also the vegetation in the land.
+He overthrew those cities and all the plain, all the inhabitants of the cities, and what grew on the ground.
 
 ## Genesis 19:26
-But Lot’s wife looked back, and she became a pillar of salt.
+But Lot’s wife looked back from behind him, and she became a pillar of salt.
 
 ## Genesis 19:27
-Early the next morning, Abraham got up and returned to the place where he had stood before the Lord.
+Early in the morning, Abraham went to the place where he had stood before the Lord.
 
 ## Genesis 19:28
 He looked down toward Sodom and Gomorrah, toward all the land of the plain, and he saw dense smoke rising from the land, like smoke from a furnace.
 
 ## Genesis 19:29
-So when God destroyed the cities of the plain, He remembered Abraham, and He brought Lot out of the catastrophe that overthrew the cities where Lot had lived.
+So it was that when God destroyed the cities of the plain, He remembered Abraham, and sent Lot out of the midst of the overthrow, when He overthrew the cities where Lot had lived.
 
 ## Genesis 19:30
-Lot and his two daughters left Zoar and settled in the mountains, for he was afraid to stay in Zoar. He and his two daughters lived in a cave.
+Lot went up from Zoar and stayed in the mountains with his two daughters, for he was afraid to stay in Zoar. He and his two daughters lived in a cave.
 
 ## Genesis 19:31
-One day the older daughter said to the younger, “Our father is old, and there is no man around to give us children, as is the custom all over the earth.
+The firstborn said to the younger, “Our father is old, and there is no man on earth to come to us according to the custom of all the earth.
 
 ## Genesis 19:32
-Let’s get our father to drink wine and then sleep with him and preserve our family line through our father.”
+Come, let us make our father drink wine, and we will lie with him, that we may preserve our family line through our father.”
 
 ## Genesis 19:33
-That night they got their father to drink wine, and the older daughter went in and slept with him. He was not aware of it when she lay down or when she got up.
+So they made their father drink wine that night, and the firstborn went in and lay with her father; he did not know when she lay down or when she arose.
 
 ## Genesis 19:34
-The next day the older daughter said to the younger, “Last night I slept with my father. Let’s get him to drink wine again tonight, and you go in and sleep with him so we can preserve our family line.”
+The next day, the firstborn said to the younger, “Look, I lay with my father last night; let us make him drink wine tonight also, and you go in and lie with him, that we may preserve our family line through our father.”
 
 ## Genesis 19:35
-So they got their father to drink wine that night also, and the younger daughter went in and slept with him. Again he was not aware of it.
+So they made their father drink wine that night also, and the younger arose and lay with him; he did not know when she lay down or when she arose.
 
 ## Genesis 19:36
-So both of Lot’s daughters became pregnant by their father.
+Thus both of Lot’s daughters were with child by their father.
 
 ## Genesis 19:37
-The older daughter had a son, and she named him Moab; he is the father of the Moabites of today.
+The firstborn bore a son and named him Moab; he is the father of the Moabites to this day.
 
 ## Genesis 19:38
-The younger daughter also had a son, and she named him Ben-Ammi; he is the father of the Ammonites of today.
-
+The younger also bore a son and named him Ben-ammi; he is the father of the Ammonites to this day.

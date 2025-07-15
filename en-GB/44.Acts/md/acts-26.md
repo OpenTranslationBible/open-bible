@@ -2,169 +2,138 @@
 
 ## Acts 26:1
 
-Now Agrippa said to Paul, “You are permitted to speak for yourself.”  
-Then Paul extended his hand and proceeded to make his defense:
+Then Agrippa said to Paul, “You are allowed to speak for yourself.” So Paul gestured with his hand and began his defence:
 
 ## Acts 26:2
 
-“I consider myself fortunate, King Agrippa, that I am about to make my defense before you today  
-against all the charges which have been brought by the Jews;
+“King Agrippa, I consider myself fortunate to make my defence before you today concerning all the charges brought against me by the Jews,
 
 ## Acts 26:3
 
-especially because you are an expert in all customs and questions among the Jews;  
-therefore I beg you to listen to me patiently.
+especially since you are well-versed in all Jewish customs and issues. Therefore, I ask you to listen to me patiently.
 
 ## Acts 26:4
 
-So then, all Jews know my way of life from my youth,  
-which from the beginning was spent among my own nation and in Jerusalem,
+“All the Jews know about my way of life from my youth, which was spent from the beginning in my own nation and in Jerusalem.
 
 ## Acts 26:5
 
-since they have known about me for a long time, if they are willing to testify,  
-that I lived as a Pharisee according to the strictest sect of our religion.
+They have known me for a long time, if they are willing to testify, that I lived according to the strictest sect of our religion, as a Pharisee.
 
 ## Acts 26:6
 
-And now I am standing trial for the hope of the promise made by God to our fathers;
+And now I am on trial because of my hope in the promise that God made to our ancestors.
 
 ## Acts 26:7
 
-the promise to which our twelve tribes hope to attain, as they earnestly serve God night and day.  
-For this hope, O King, I am being accused by Jews!
+This is the promise our twelve tribes hope to attain as they earnestly serve God night and day. It is for this hope, O king, that I am accused by the Jews.
 
 ## Acts 26:8
 
-Why is it considered incredible among you people if God raises the dead?
+Why should any of you consider it unbelievable that God raises the dead?
 
 ---
 
 ## Acts 26:9
 
-So I thought to myself that I had to do many hostile things against the name of Jesus of Nazareth.
+“I too was convinced that I should do all I could to oppose the name of Jesus of Nazareth.
 
 ## Acts 26:10
 
-And this is just what I did in Jerusalem; not only did I lock up many of the saints in prisons,  
-after receiving authority from the chief priests,  
-but I also cast my vote against them when they were being put to death.
+And that is exactly what I did in Jerusalem. With authority from the chief priests, I imprisoned many of the saints, and when they were condemned to death, I cast my vote against them.
 
 ## Acts 26:11
 
-And as I punished them often in all the synagogues,  
-I tried to force them to blaspheme;  
-and since I was extremely enraged at them, I kept pursuing them even to foreign cities.
+I frequently punished them in all the synagogues and tried to force them to blaspheme. In my extreme rage, I pursued them even to foreign cities.
 
 ---
 
 ## Acts 26:12
 
-While so engaged, as I was journeying to Damascus with authority and commission from the chief priests,
+“While engaged in this, I was travelling to Damascus with the authority and commission of the chief priests.
 
 ## Acts 26:13
 
-at midday, O King, I saw on the way a light from heaven, brighter than the sun,  
-shining around me and those who were journeying with me.
+At midday, O king, I saw a light from heaven, brighter than the sun, shining around me and those travelling with me.
 
 ## Acts 26:14
 
-And when we had all fallen to the ground, I heard a voice saying to me in the Hebrew dialect,  
-‘Saul, Saul, why are you persecuting Me? It is hard for you to kick against the goads.’
+We all fell to the ground, and I heard a voice speaking to me in the Hebrew language, ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’
 
 ## Acts 26:15
 
-And I said, ‘Who are You, Lord?’ And the Lord said,  
-‘I am Jesus whom you are persecuting.
+I asked, ‘Who are you, Lord?’ And the Lord replied, ‘I am Jesus, whom you are persecuting.
 
 ## Acts 26:16
 
-But get up and stand on your feet;  
-for this purpose I have appeared to you, to appoint you as a servant and a witness  
-not only to the things in which you have seen Me,  
-but also to the things in which I will appear to you,
+But rise and stand on your feet; for I have appeared to you to appoint you as a servant and a witness of what you have seen and what I will show you.
 
 ## Acts 26:17
 
-rescuing you from the Jewish people and from the Gentiles, to whom I am sending you,
+I will deliver you from your own people and from the Gentiles. I am sending you to them
 
 ## Acts 26:18
 
-to open their eyes so that they may turn from darkness to light,  
-and from the power of Satan to God,  
-that they may receive forgiveness of sins and an inheritance among those who have been sanctified by faith in Me.’
+to open their eyes and turn them from darkness to light, and from the power of Satan to God, so that they may receive forgiveness of sins and a place among those sanctified by faith in me.’
 
 ---
 
 ## Acts 26:19
 
-“For that reason, King Agrippa, I did not prove disobedient to the heavenly vision,
+“So then, King Agrippa, I was not disobedient to the heavenly vision.
 
 ## Acts 26:20
 
-but continually proclaimed to those in Damascus first, and in Jerusalem,  
-and then all the region of Judea, and even to the Gentiles,  
-that they are to repent and turn to God, performing deeds consistent with repentance.
+First to those in Damascus, then to those in Jerusalem and all Judea, and then to the Gentiles, I preached that they should repent and turn to God, demonstrating their repentance by their deeds.
 
 ## Acts 26:21
 
-For these reasons some Jews seized me in the temple and tried to murder me.
+This is why some Jews seized me in the temple and tried to kill me.
 
 ## Acts 26:22
 
-So, having obtained help from God, I stand to this day testifying both to small and great,  
-stating nothing but what the Prophets and Moses said was going to take place,
+But God has helped me to this day, and so I stand here testifying to both small and great, saying nothing beyond what the prophets and Moses said would happen—
 
 ## Acts 26:23
 
-as to whether the Christ was to suffer,  
-and whether, as first to rise from the dead, He would proclaim light both to the Jewish people and to the Gentiles.”
+that the Messiah would suffer and, being the first to rise from the dead, would proclaim light to both his own people and the Gentiles.”
 
 ---
 
 ## Acts 26:24
 
-While Paul was stating these things in his defense, Festus _said in a loud voice_,  
-“Paul, you are out of your mind! Great learning is driving you insane!”
+At this point, Festus interrupted Paul’s defence, shouting, “Paul, you are out of your mind! Your great learning is driving you insane.”
 
 ## Acts 26:25
 
-But Paul _said_, “I am not insane, most excellent Festus;  
-on the contrary, I am speaking actual and rational words.
+But Paul replied, “I am not insane, most excellent Festus, but speak words of truth and reason.
 
 ## Acts 26:26
 
-For the king knows about these matters,  
-and I also speak to him with confidence, since I am persuaded  
-that none of these things escape his notice;  
-for this has not been done in a corner.
+The king is aware of these matters, and I speak to him with confidence, as I am convinced none of this has escaped his notice, since it was not done in a corner.
 
 ## Acts 26:27
 
-King Agrippa, do you believe the Prophets? I know that you believe.”
+King Agrippa, do you believe the prophets? I know you do.”
 
 ## Acts 26:28
 
-Agrippa replied to Paul, “In a short time you are going to persuade me to make a Christian of myself.”
+Then Agrippa said to Paul, “Do you think that in such a short time you can persuade me to become a Christian?”
 
 ## Acts 26:29
 
-And Paul said,  
-“I would pray to God that, whether in a short or long time,  
-not only you, but also all who hear me this day, might become such as I am, except for these chains.”
+Paul replied, “Short time or long, I pray to God that not only you but all who are listening to me today may become what I am, except for these chains.”
 
 ---
 
 ## Acts 26:30
 
-The king stood up, and the governor and Bernice, and those who were sitting with them,
+The king rose, and with him the governor and Bernice and those sitting with them.
 
 ## Acts 26:31
 
-and when they had gone out, they began talking to one another, saying,  
-“This man is not doing anything deserving death or imprisonment.”
+After they left the room, they began discussing among themselves, saying, “This man is not doing anything deserving death or imprisonment.”
 
 ## Acts 26:32
 
-And Agrippa _said to Festus_,  
-“This man could have been set free if he had not appealed to Caesar.”
+Agrippa said to Festus, “This man could have been set free if he had not appealed to Caesar.”

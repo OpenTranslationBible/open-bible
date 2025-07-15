@@ -2,213 +2,154 @@
 
 ## Nehemiah 11:1
 
-Now the leaders of the people lived in Jerusalem,  
-but the rest of the people cast lots to bring one out of ten to live in Jerusalem, the holy city,  
-while nine-tenths remained in the other cities.
+The leaders of the people took up residence in Jerusalem, while the rest of the people cast lots to bring one out of every ten to dwell in Jerusalem, the holy city, with the remaining nine staying in their respective towns.
 
 ## Nehemiah 11:2
 
-And the people blessed all the men who volunteered to live in Jerusalem.
-
----
+The people praised all those who willingly chose to live in Jerusalem.
 
 ## Nehemiah 11:3
 
-Now these are the heads of the provinces who lived in Jerusalem,  
-but in the cities of Judah each lived on his own property in their cities—  
-the Israelites, the priests, the Levites, the temple servants, and the descendants of Solomon’s servants.
+These are the heads of the provinces who settled in Jerusalem. In the cities of Judah, each lived on his own property—the Israelites, priests, Levites, temple servants, and descendants of Solomon’s servants.
 
 ## Nehemiah 11:4
 
-Some of the sons of Judah and some of the sons of Benjamin lived in Jerusalem.
+Some of the sons of Judah and Benjamin resided in Jerusalem.
 
 ---
 
 From the sons of Judah:
 
-> Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah,  
-> the son of Shephatiah, the son of Mahalalel, of the sons of Perez;
+> Athaiah son of Uzziah, son of Zechariah, son of Amariah,
+> son of Shephatiah, son of Mahalalel, of the lineage of Perez;
 
 ## Nehemiah 11:5
 
-> and Maaseiah the son of Baruch, the son of Col-hozeh, the son of Hazaiah, the son of Adaiah,  
-> the son of Joiarib, the son of Zechariah, the son of the Shilonite.
+> and Maaseiah son of Baruch, son of Kol-Hozeh, son of Hazaiah, son of Adaiah,
+> son of Joiarib, son of Zechariah, a descendant of Shelah.
 
 ## Nehemiah 11:6
 
-> All the sons of Perez who lived in Jerusalem were 468 able men.
+> The descendants of Perez who lived in Jerusalem numbered 468 men of valour.
 
 ---
 
 ## Nehemiah 11:7
 
-Now these are the sons of Benjamin:
-
----
-
-Sallu the son of Meshullam, the son of Joed, the son of Pedaiah,  
-the son of Kolaiah, the son of Maaseiah, the son of Ithiel, the son of Jeshaiah;
+From the sons of Benjamin: Sallu son of Meshullam, son of Joed, son of Pedaiah, son of Kolaiah, son of Maaseiah, son of Ithiel, son of Jeshaiah;
 
 ## Nehemiah 11:8
 
-and after him Gabbai and Sallai, 928.
+and his followers, Gabbai and Sallai—928 men.
 
 ## Nehemiah 11:9
 
-Joel the son of Zichri was their overseer,  
-and Judah the son of Hassenuah was second in command over the city.
-
----
+Joel son of Zikri was their chief officer, and Judah son of Hassenuah was second in command over the city.
 
 ## Nehemiah 11:10
 
-From the priests:
-
-Jedaiah the son of Joiarib, Jachin,
+From the priests: Jedaiah son of Joiarib, Jakin;
 
 ## Nehemiah 11:11
 
-Seraiah the son of Hilkiah, the son of Meshullam, the son of Zadok,  
-the son of Meraioth, the son of Ahitub, the leader of the house of God,
+Seraiah son of Hilkiah, son of Meshullam, son of Zadok, son of Meraioth, son of Ahitub, the official in charge of the house of God,
 
 ## Nehemiah 11:12
 
-and their relatives who did the work of the temple, 822;  
-and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi,  
-the son of Zechariah, the son of Pashhur, the son of Malchijah,
+and their associates who performed the work of the temple—822 men; Adaiah son of Jeroham, son of Pelaliah, son of Amzi, son of Zechariah, son of Pashhur, son of Malkijah,
 
 ## Nehemiah 11:13
 
-and his relatives, heads of fathers’ households, 242;  
-and Amashsai the son of Azarel, the son of Ahzai, the son of Meshillemoth,  
-the son of Immer,
+and his associates, heads of families—242 men; Amashsai son of Azarel, son of Ahzai, son of Meshillemoth, son of Immer,
 
 ## Nehemiah 11:14
 
-and their relatives, valiant warriors, 128.  
-And their overseer was Zabdiel, the son of Haggedolim.
-
----
+and their brethren, valiant warriors—128. Their chief officer was Zabdiel son of Haggedolim.
 
 ## Nehemiah 11:15
 
-Now from the Levites:
-
-Shemaiah the son of Hasshub, the son of Azrikam,  
-the son of Hashabiah, the son of Bunni;
+From the Levites: Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
 
 ## Nehemiah 11:16
 
-and Shabbethai and Jozabad, from the leaders of the Levites,  
-who were in charge of the outside work of the house of God;
+Shabbethai and Jozabad, leaders among the Levites, who were responsible for the external work of the house of God;
 
 ## Nehemiah 11:17
 
-and Mattaniah the son of Mica, the son of Zabdi, the son of Asaph,  
-who was the leader in beginning the thanksgiving at prayer,  
-and Bakbukiah, the second among his kinsmen;  
-and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
+Mattaniah son of Mika, son of Zabdi, son of Asaph, the leader who began the thanksgiving in prayer; Bakbukiah, second among his brethren; and Abda son of Shammua, son of Galal, son of Jeduthun.
 
 ## Nehemiah 11:18
 
-All the Levites in the holy city were 284.
-
----
+The Levites in the holy city totalled 284.
 
 ## Nehemiah 11:19
 
-Also the gatekeepers:
-
-Akkub, Talmon, and their relatives who kept watch at the gates, 172.
-
----
+The gatekeepers: Akkub, Talmon and their brethren, who kept watch at the gates—172 men.
 
 ## Nehemiah 11:20
 
-The rest of Israel, of the priests, and of the Levites were in all the cities of Judah,  
-each on his own inheritance.
-
----
+The rest of the Israelites, along with the priests and Levites, were in all the towns of Judah, each on his ancestral property.
 
 ## Nehemiah 11:21
 
-But the temple servants were living in Ophel,  
-and Ziha and Gishpa were in charge of the temple servants.
-
----
+The temple servants resided on the hill of Ophel, with Ziha and Gishpa overseeing them.
 
 ## Nehemiah 11:22
 
-Now the overseer of the Levites in Jerusalem was Uzzi the son of Bani,  
-the son of Hashabiah, the son of Mattaniah, the son of Mica, from the sons of Asaph,  
-who were the singers for the service of the house of God.
+The chief officer of the Levites in Jerusalem was Uzzi son of Bani, son of Hashabiah, son of Mattaniah, son of Mika, from the descendants of Asaph, who were the singers responsible for the service of the house of God.
 
 ## Nehemiah 11:23
 
-For there was a commandment from the king concerning them,  
-and a royal regulation for the singers day by day.
-
----
+There was a royal command concerning the singers, regulating their daily tasks.
 
 ## Nehemiah 11:24
 
-And Pethahiah the son of Meshezabel, of the sons of Zerah the son of Judah,  
-was the king’s representative for every matter concerning the people.
-
----
+Pethahiah son of Meshezabel, from the descendants of Zerah son of Judah, was the king’s representative for every matter concerning the people.
 
 ## Nehemiah 11:25
 
-Now as for the villages with their fields,  
-some of the sons of Judah lived in Kiriath-arba and its towns, in Dibon and its towns,  
-in Jekabzeel and its villages,
+As for the villages with their fields, some of the people of Judah lived in Kiriath Arba and its surrounding settlements, in Dibon and its villages, and in Jekabzeel and its settlements,
 
 ## Nehemiah 11:26
 
-and in Jeshua, in Moladah, and in Beth-pelet,
+in Jeshua, Moladah, and Beth Pelet,
 
 ## Nehemiah 11:27
 
-and in Hazar-shual, in Beersheba and its towns,
+in Hazar Shual, Beersheba and its settlements,
 
 ## Nehemiah 11:28
 
-and in Ziklag, in Meconah and its towns,
+in Ziklag, Meconah and its settlements,
 
 ## Nehemiah 11:29
 
-and in En-rimmon, in Zorah, and in Jarmuth,
+in En Rimmon, Zorah, and Jarmuth,
 
 ## Nehemiah 11:30
 
-Zanoah, Adullam and their villages, Lachish and its fields, Azekah and its towns.  
-So they encamped from Beersheba as far as the Valley of Hinnom.
-
----
+Zanoah, Adullam and their villages, Lachish and its fields, and Azekah and its settlements. Thus they dwelt from Beersheba to the Valley of Hinnom.
 
 ## Nehemiah 11:31
 
-The sons of Benjamin also lived from Geba onward,  
-at Michmash, Aija, Bethel and its towns,
+The sons of Benjamin resided from Geba, at Michmash, Aija, Bethel and its settlements,
 
 ## Nehemiah 11:32
 
-at Anathoth, Nob, Ananiah,
+at Anathoth, Nob, and Ananiah,
 
 ## Nehemiah 11:33
 
-Hazor, Ramah, Gittaim,
+at Hazor, Ramah, and Gittaim,
 
 ## Nehemiah 11:34
 
-Hadid, Zeboim, Neballat,
+at Hadid, Zeboim, and Neballat,
 
 ## Nehemiah 11:35
 
-Lod, and Ono, the Valley of Craftsmen.
-
----
+at Lod and Ono, in the Valley of Craftsmen.
 
 ## Nehemiah 11:36
 
-And some of the divisions of the Levites in Judah belonged to Benjamin.
+Some divisions of the Levites from Judah were assigned to Benjamin.

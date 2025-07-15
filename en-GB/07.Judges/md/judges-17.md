@@ -2,63 +2,54 @@
 
 ## Judges 17:1
 
-There was a man named Micah, from the hill country of Ephraim,
+There was a man named Micah from the hill country of Ephraim.
 
 ## Judges 17:2
 
-who said to his mother, “The eleven hundred shekels of silver that were taken from you and about which I heard you utter a curse — I have that silver with me; I took it.”  
-Then his mother said, “The Lord bless you, my son!”
+He said to his mother, “The eleven hundred pieces of silver that were taken from you, about which you pronounced a curse and spoke in my hearing, behold, I have the silver; I took it.” His mother replied, “Blessed be my son by the Lord.”
 
 ## Judges 17:3
 
-When he returned the eleven hundred shekels of silver to his mother, she said,  
-“I consecrate this silver to the Lord for my son to make an image overlaid with silver. I will give it back to you.”
+He returned the eleven hundred pieces of silver to his mother, and she said, “I solemnly dedicate my silver to the Lord for my son to make a carved image and a metal image; I will return it to you.”
 
 ## Judges 17:4
 
-So after he returned the silver to his mother, she took two hundred shekels and gave them to a silversmith,  
-who made them into an idol cast in the shape of an image.  
-And it was put in Micah’s house.
-
----
+After he returned the silver to his mother, she took two hundred pieces of silver and gave them to a silversmith, who made them into a carved image and a metal image, which were placed in Micah’s house.
 
 ## Judges 17:5
 
-Now this man Micah had a shrine, and he made an ephod and some household gods  
-and installed one of his sons as his priest.
+Micah had a shrine, and he made an ephod and some household idols, and he consecrated one of his sons to become his priest.
 
 ## Judges 17:6
 
-In those days Israel had no king; everyone did what was right in his own eyes.
+In those days there was no king in Israel; everyone did what was right in their own eyes.
 
 ---
 
 ## Judges 17:7
 
-A young Levite from Bethlehem in Judah, who had been living within the clan of Judah,
+There was a young man from Bethlehem in Judah, of the family of Judah, who was a Levite, and he was staying there.
 
 ## Judges 17:8
 
-left that town in search of another place to stay.  
-On his journey he came to the hill country of Ephraim, to the house of Micah.
+He left the city of Bethlehem in Judah to find a place to stay, and on his journey, he came to the hill country of Ephraim, to the house of Micah.
 
 ## Judges 17:9
 
-Micah asked him, “Where are you from?”  
-“I’m a Levite from Bethlehem in Judah,” he said, “and I’m looking for a place to stay.”
+Micah asked him, “Where do you come from?” He replied, “I am a Levite from Bethlehem in Judah, and I am looking for a place to stay.”
 
 ## Judges 17:10
 
-Then Micah said to him, “Live with me and be my father and priest, and I’ll give you ten shekels of silver a year, your clothes, and food.”
+Micah said to him, “Stay with me and be a father and priest to me, and I will give you ten pieces of silver a year, clothes, and your food.” So the Levite went in.
 
 ## Judges 17:11
 
-So the Levite agreed to live with him, and the young man became like one of his sons to him.
+The Levite agreed to live with Micah, and the young man became like one of his sons to him.
 
 ## Judges 17:12
 
-Then Micah installed the Levite, and the young man became his priest and lived in his house.
+Micah consecrated the Levite, and the young man became his priest and lived in Micah’s house.
 
 ## Judges 17:13
 
-And Micah said, “Now I know that the Lord will be good to me, since I have a Levite as my priest.”
+Micah said, “Now I know that the Lord will do me good, because I have a Levite as a priest.”

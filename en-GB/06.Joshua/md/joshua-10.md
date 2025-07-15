@@ -2,116 +2,97 @@
 
 ## Joshua 10:1
 
-Now Adoni-Zedek king of Jerusalem heard that Joshua had taken Ai and completely destroyed it—doing to Ai and its king what had been done to Jericho and its king—and that the people of Gibeon had made peace with Israel and were living among them.
+When Adoni-Zedek, the king of Jerusalem, heard that Joshua had captured Ai and utterly destroyed it, just as he had done to Jericho and its king, and that the inhabitants of Gibeon had made peace with Israel and were among them,
 
 ## Joshua 10:2
 
-He and his people were greatly alarmed, because Gibeon was a large city, like one of the royal cities; it was larger than Ai, and all its men were warriors.
-
----
+he and his people were greatly alarmed, because Gibeon was a significant city, like one of the royal cities, and it was greater than Ai, and all its men were mighty warriors.
 
 ## Joshua 10:3
 
-So Adoni-Zedek king of Jerusalem sent word to Hoham king of Hebron, Piram king of Jarmuth, Japhia king of Lachish, and Debir king of Eglon:
+So Adoni-Zedek, king of Jerusalem, sent word to Hoham, king of Hebron, Piram, king of Jarmuth, Japhia, king of Lachish, and Debir, king of Eglon, saying,
 
 ## Joshua 10:4
 
-“Come up and help me attack Gibeon, because it has made peace with Joshua and the Israelites.”
-
----
+“Come up and help me attack Gibeon, for it has made peace with Joshua and the Israelites.”
 
 ## Joshua 10:5
 
-Then the five kings of the Amorites—the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon—joined forces. They moved up with all their armies and camped near Gibeon to wage war against it.
-
----
+Then the five kings of the Amorites—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon—joined forces. They moved with all their armies and camped against Gibeon to fight it.
 
 ## Joshua 10:6
 
-The Gibeonites sent word to Joshua in the camp at Gilgal: “Do not abandon your servants. Come up to us quickly and save us! Help us, for all the kings of the Amorites living in the hill country have joined forces against us.”
-
----
+The men of Gibeon sent word to Joshua at the camp at Gilgal, saying, “Do not abandon your servants; come up to us quickly and save us, for all the kings of the Amorites from the hill country have gathered against us.”
 
 ## Joshua 10:7
 
-So Joshua went up from Gilgal with all his army, including the best fighting men.
+So Joshua went up from Gilgal with all the people of war, including all the valiant warriors.
 
 ## Joshua 10:8
 
-The Lord said to Joshua, “Do not be afraid of them; I have given them into your hand. Not one of them will be able to stand against you.”
-
----
+And the Lord said to Joshua, “Do not fear them, for I have given them into your hand; not one of them shall be able to stand before you.”
 
 ## Joshua 10:9
 
-After an all-night march from Gilgal, Joshua took them by surprise.
+Joshua came upon them suddenly, having marched all night from Gilgal.
 
 ## Joshua 10:10
 
-The Lord threw them into confusion before Israel. Joshua and the Israelites defeated them completely at Gibeon. Israel pursued them along the road going up to Beth Horon and struck them down as far as Azekah and Makkedah.
+And the Lord threw them into confusion before Israel, and He struck them with a great defeat at Gibeon, pursued them along the road going up to Beth Horon, and struck them down as far as Azekah and Makkedah.
 
 ## Joshua 10:11
 
-As they fled before Israel on the road from Beth Horon to Azekah, the Lord hurled large hailstones down on them from the sky, and more of them died from the hail than were killed by the swords of the Israelites.
-
----
+As they fled from Israel on the descent of Beth Horon, the Lord hurled large hailstones from heaven on them as far as Azekah, and more died from the hailstones than were killed by the sword of the Israelites.
 
 ## Joshua 10:12
 
-On the day the Lord gave the Amorites over to Israel, Joshua spoke to the Lord in the presence of Israel:
+Then Joshua spoke to the Lord on the day the Lord delivered the Amorites over to Israel, and he said in the sight of Israel,
 
-> “Sun, stand still over Gibeon,  
-> and you, moon, over the Valley of Aijalon.”
+> “Sun, stand still over Gibeon,
+> and moon, over the Valley of Aijalon.”
 
 ## Joshua 10:13
 
-So the sun stood still,  
-> and the moon stopped,  
-> till the nation avenged itself on its enemies.  
-As it is written in the Book of Jashar:
+So the sun stood still,
 
-> The sun stopped in the middle of the sky  
-> and delayed going down about a full day.
+> and the moon stopped,
+> until the nation avenged themselves on their enemies.
+> Is it not written in the Book of Jashar?
+
+> The sun stopped in the middle of the sky
+> and delayed going down for about a whole day.
 
 ## Joshua 10:14
 
-There has never been a day like it before or since, when the Lord listened to the voice of a man. Surely the Lord was fighting for Israel!
-
----
+There was no day like that before or since, when the Lord listened to the voice of a man; for the Lord fought for Israel.
 
 ## Joshua 10:15
 
-Then Joshua returned with all Israel to the camp at Gilgal.
-
----
+Then Joshua and all Israel with him returned to the camp at Gilgal.
 
 ## Joshua 10:16
 
-Now the five kings had fled and hidden in the cave at Makkedah.
+Now the five kings had fled and hidden themselves in the cave at Makkedah.
 
 ## Joshua 10:17
 
-When Joshua was told that the five kings had been found hiding in the cave,
+And it was reported to Joshua, “The five kings have been found hidden in the cave at Makkedah.”
 
 ## Joshua 10:18
 
-he said, “Roll large stones against the mouth of the cave, and post men there to guard it.
+So Joshua said, “Roll large stones against the mouth of the cave, and post men by it to guard them.
 
 ## Joshua 10:19
 
-But do not stay there yourselves. Pursue your enemies and attack them from the rear. Don’t let them reach their cities, for the Lord your God has handed them over to you.”
-
----
+But do not stay there; pursue your enemies and attack them from behind. Do not let them enter their cities, for the Lord your God has given them into your hand.”
 
 ## Joshua 10:20
 
-So Joshua and the Israelites defeated them completely, but some survivors managed to reach their fortified cities.
+When Joshua and the Israelites had finished striking them with a great defeat, until they were destroyed, and the survivors who escaped had entered fortified cities,
 
 ## Joshua 10:21
 
-The whole army then returned safely to Joshua in the camp at Makkedah, and no one said a word against the Israelites.
-
----
+all the people returned safely to Joshua in the camp at Makkedah, and no one uttered a word against the Israelites.
 
 ## Joshua 10:22
 
@@ -119,106 +100,84 @@ Then Joshua said, “Open the mouth of the cave and bring those five kings out t
 
 ## Joshua 10:23
 
-So they brought the kings out: the kings of Jerusalem, Hebron, Jarmuth, Lachish and Eglon.
+So they brought the five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
 
 ## Joshua 10:24
 
-When they had brought the kings to Joshua, he summoned all the men of Israel and said to the commanders of the army, “Come here and put your feet on the necks of these kings.” So they came forward and placed their feet on their necks.
+When they had brought these kings to Joshua, he called for all the men of Israel and said to the commanders of the army who had gone with him, “Come forward and put your feet on the necks of these kings.” So they came forward and put their feet on their necks.
 
 ## Joshua 10:25
 
-Joshua said to them, “Do not be afraid or discouraged. Be strong and courageous. This is what the Lord will do to all the enemies you fight.”
-
----
+Joshua said to them, “Do not be afraid or dismayed; be strong and courageous, for the Lord will do this to all the enemies you fight.”
 
 ## Joshua 10:26
 
-Then Joshua struck and killed the kings and hanged their bodies on five trees. They were left hanging there until evening.
+Then Joshua struck them and put them to death, and he hung them on five trees, and they were left hanging on the trees until evening.
 
 ## Joshua 10:27
 
-At sunset, Joshua gave the order to take them down from the trees and throw them into the cave where they had hidden. Large stones were placed over the mouth of the cave, and they remain to this day.
-
----
+At sunset, Joshua commanded, and they took them down from the trees and threw them into the cave where they had hidden, and placed large stones over the mouth of the cave, which remain to this day.
 
 ## Joshua 10:28
 
-That day Joshua captured Makkedah. He put the city and its king to the sword, totally destroying everyone in it. He left no survivors and treated the king as he had the king of Jericho.
-
----
+That day Joshua captured Makkedah and struck it and its king with the sword. He utterly destroyed everyone in it, leaving no survivors, and he did to the king of Makkedah as he had done to the king of Jericho.
 
 ## Joshua 10:29
 
-Then Joshua and all Israel moved on from Makkedah to Libnah and attacked it.
+Then Joshua and all Israel with him moved on from Makkedah to Libnah and fought against it.
 
 ## Joshua 10:30
 
-The Lord gave it also into Israel’s hands, along with its king. Joshua put the city and all its people to the sword. He left no survivors and treated its king as he had the king of Jericho.
-
----
+The Lord also gave that city and its king into Israel’s hand. Joshua struck it with the sword, leaving no survivors, and he did to its king as he had done to the king of Jericho.
 
 ## Joshua 10:31
 
-Then Joshua and all Israel went from Libnah to Lachish; he laid siege to it and attacked it.
+Then Joshua and all Israel with him moved on from Libnah to Lachish, took up positions against it, and attacked it.
 
 ## Joshua 10:32
 
-The Lord gave Lachish into Israel’s hands, and they captured it on the second day. He put it to the sword and everyone in it, just as he had done to Libnah.
-
----
+The Lord handed Lachish over to Israel, and Joshua captured it on the second day. He struck it with the sword, just as he had done to Libnah.
 
 ## Joshua 10:33
 
-Then Horam king of Gezer came up to help Lachish, but Joshua struck him down along with his army, leaving no survivors.
-
----
+Meanwhile, Horam, king of Gezer, came up to help Lachish, but Joshua defeated him and his army, leaving no survivors.
 
 ## Joshua 10:34
 
-Then Joshua and all Israel went on from Lachish to Eglon; they laid siege to it and attacked it.
+Then Joshua and all Israel with him moved on from Lachish to Eglon, took up positions against it, and attacked it.
 
 ## Joshua 10:35
 
-That same day they captured it and put it to the sword. He totally destroyed everyone in it, just as he had done to Lachish.
-
----
+They captured it that same day and struck it with the sword, utterly destroying everyone in it, just as they had done to Lachish.
 
 ## Joshua 10:36
 
-Then Joshua and all Israel went up from Eglon to Hebron and attacked it.
+Then Joshua and all Israel with him went up from Eglon to Hebron and attacked it.
 
 ## Joshua 10:37
 
-They captured the city and put it, its king, its villages, and everyone in it to the sword. They left no survivors, just as at Eglon. He destroyed it and everyone in it.
-
----
+They captured it and struck it with the sword, along with its king, its villages, and everyone in it. He left no survivors, just as they had done to Eglon.
 
 ## Joshua 10:38
 
-Then Joshua and all Israel turned back to Debir and attacked it.
+Then Joshua and all Israel with him turned to Debir and attacked it.
 
 ## Joshua 10:39
 
-They took the city, its king, and its villages. They put them to the sword and totally destroyed everyone in it. He left no survivors. He did to Debir and its king what he had done to Hebron and to Libnah and its king.
-
----
+They captured it, its king, and its villages, and struck them with the sword. He utterly destroyed everyone in it, leaving no survivors, just as he had done to Hebron and Libnah.
 
 ## Joshua 10:40
 
-So Joshua conquered the whole region—the hill country, the Negev, the western foothills, and the mountain slopes—along with all their kings. He left no survivors. He completely destroyed all who breathed, as the Lord, the God of Israel, had commanded.
-
----
+So Joshua conquered the whole region, including the hill country, the Negev, the western foothills, and the mountain slopes, along with all their kings. He left no survivors, utterly destroying all who breathed, as the Lord, the God of Israel, had commanded.
 
 ## Joshua 10:41
 
-Joshua subdued them from Kadesh Barnea to Gaza, and the whole region of Goshen as far as Gibeon.
+Joshua subdued them from Kadesh Barnea to Gaza and from the whole region of Goshen to Gibeon.
 
 ## Joshua 10:42
 
-All these kings and their lands Joshua conquered in one campaign, because the Lord, the God of Israel, fought for Israel.
-
----
+All these kings and their lands Joshua captured in one campaign, because the Lord, the God of Israel, fought for Israel.
 
 ## Joshua 10:43
 
-Then Joshua returned with all Israel to the camp at Gilgal.
+Then Joshua and all Israel with him returned to the camp at Gilgal.

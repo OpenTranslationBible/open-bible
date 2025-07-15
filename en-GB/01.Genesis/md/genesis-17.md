@@ -1,83 +1,82 @@
 # Genesis Chapter 17
 
 ## Genesis 17:1
-When Abram was ninety-nine years old, the Lord appeared to him and said, “I am God Almighty; walk before Me faithfully and be blameless.
+When Abram was ninety-nine years old, the Lord appeared to him and said, “I am God Almighty; walk before Me and be blameless.
 
 ## Genesis 17:2
-Then I will confirm My covenant between Me and you and will greatly increase your numbers.”
+I will establish My covenant between Me and you, and I will multiply your descendants greatly.”
 
 ## Genesis 17:3
-Abram fell face down, and God said to him,
+Abram fell on his face, and God spoke with him, saying,
 
 ## Genesis 17:4
-“As for Me, this is My covenant with you: You will be the father of many nations.
+“As for Me, this is My covenant with you: You shall be the father of a multitude of nations.
 
 ## Genesis 17:5
-No longer will you be called Abram; your name will be Abraham, for I have made you a father of many nations.
+No longer shall your name be Abram, but your name shall be Abraham, for I have made you the father of many nations.
 
 ## Genesis 17:6
-I will make you very fruitful; I will make nations of you, and kings will come from you.
+I will make you exceedingly fruitful; I will make nations of you, and kings shall come from you.
 
 ## Genesis 17:7
-I will establish My covenant as an everlasting covenant between Me and you and your descendants after you for the generations to come, to be your God and the God of your descendants.
+I will establish My covenant as an everlasting covenant between Me and you and your descendants after you throughout their generations, to be your God and the God of your descendants after you.
 
 ## Genesis 17:8
-The whole land of Canaan, where you now reside as a foreigner, I will give as an everlasting possession to you and your descendants after you; and I will be their God.”
+I will give to you and your descendants after you the land where you are residing as a foreigner, all the land of Canaan, as an everlasting possession; and I will be their God.”
 
 ## Genesis 17:9
-Then God said to Abraham, “As for you, you must keep My covenant, you and your descendants after you for the generations to come.
+God said further to Abraham, “As for you, you shall keep My covenant, you and your descendants after you throughout their generations.
 
 ## Genesis 17:10
-This is My covenant with you and your descendants after you: Every male among you shall be circumcised.
+This is My covenant which you shall keep, between Me and you and your descendants after you: every male among you shall be circumcised.
 
 ## Genesis 17:11
-You are to undergo circumcision, and it will be the sign of the covenant between Me and you.
+You shall be circumcised in the flesh of your foreskin, and it shall be the sign of the covenant between Me and you.
 
 ## Genesis 17:12
-For the generations to come, every male among you who is eight days old must be circumcised, including those born in your household or bought with money from a foreigner.
+Every male among you who is eight days old shall be circumcised throughout your generations, including those born in your house or bought with money from any foreigner, who are not your descendants.
 
 ## Genesis 17:13
-Whether born in your household or bought with your money, they must be circumcised. My covenant in your flesh is to be an everlasting covenant.
+A slave born in your house or bought with your money shall be circumcised. Thus My covenant shall be in your flesh as an everlasting covenant.
 
 ## Genesis 17:14
-Any uncircumcised male who has not been circumcised in the flesh will be cut off from his people; he has broken My covenant.”
+Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken My covenant.”
 
 ## Genesis 17:15
-God also said to Abraham, “As for Sarai your wife, you are no longer to call her Sarai; her name will be Sarah.
+Then God said to Abraham, “As for Sarai your wife, you shall not call her Sarai, but Sarah shall be her name.
 
 ## Genesis 17:16
-I will bless her and will surely give you a son by her. I will bless her so that she will be the mother of nations; kings of peoples will come from her.”
+I will bless her, and indeed I will give you a son by her. I will bless her, and she shall be a mother of nations; kings of peoples shall come from her.”
 
 ## Genesis 17:17
-Abraham fell face down; he laughed and said to himself, “Will a son be born to a man a hundred years old? Will Sarah bear a child at the age of ninety?”
+Then Abraham fell on his face and laughed, and said in his heart, “Shall a child be born to a man who is a hundred years old? And shall Sarah, who is ninety years old, bear a child?”
 
 ## Genesis 17:18
-And Abraham said to God, “If only Ishmael might live under Your blessing!”
+And Abraham said to God, “Oh that Ishmael might live under Your blessing!”
 
 ## Genesis 17:19
-Then God said, “Yes, but your wife Sarah will bear you a son, and you will call him Isaac. I will establish My covenant with him as an everlasting covenant for his descendants after him.
+But God said, “No, but your wife Sarah shall bear you a son, and you shall call his name Isaac; and I will establish My covenant with him as an everlasting covenant for his descendants after him.
 
 ## Genesis 17:20
-As for Ishmael, I have heard you: I will surely bless him; I will make him fruitful and increase his numbers. He will be the father of twelve rulers, and I will make him into a great nation.
+As for Ishmael, I have heard you; I will bless him and make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation.
 
 ## Genesis 17:21
-But My covenant I will establish with Isaac, whom Sarah will bear to you by this time next year.”
+But I will establish My covenant with Isaac, whom Sarah shall bear to you at this time next year.”
 
 ## Genesis 17:22
 When He had finished speaking with Abraham, God went up from him.
 
 ## Genesis 17:23
-On that very day Abraham took his son Ishmael and all those born in his household or bought with his money—every male in his household—and circumcised them, as God had told him.
+Then Abraham took his son Ishmael and all those born in his house or bought with his money, every male among the men of Abraham’s household, and circumcised them on that very day, as God had instructed him.
 
 ## Genesis 17:24
-Abraham was ninety-nine years old when he was circumcised,
+Now Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.
 
 ## Genesis 17:25
-and his son Ishmael was thirteen.
+And his son Ishmael was thirteen years old when he was circumcised in the flesh of his foreskin.
 
 ## Genesis 17:26
-Abraham and his son Ishmael were both circumcised on that very day.
+On that very day Abraham and his son Ishmael were circumcised.
 
 ## Genesis 17:27
-And every male in Abraham’s household, including those born in his household or bought from a foreigner, was circumcised with him.
-
+And all the men of his household, those born in the house or bought with money from a foreigner, were circumcised with him.

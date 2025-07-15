@@ -1,125 +1,109 @@
 # Isaiah Chapter 3
 
-## Isaiah 3:1  
-For behold, the Lord God of armies is going to remove from Jerusalem and Judah  
-Both supply and support,  
-The entire supply of bread,  
-And the entire supply of water;
+## Isaiah 3:1
 
-## Isaiah 3:2  
-The mighty man and the warrior,  
-The judge and the prophet,  
-The diviner and the elder,
+Behold, the Lord, the God of hosts, is about to withdraw from Jerusalem and Judah both sustenance and support: the entire provision of bread and the entire provision of water;
 
-## Isaiah 3:3  
-The captain of fifty and the esteemed person,  
-The counsellor and the expert artisan,  
-And the skillful enchanter.
+## Isaiah 3:2
 
-## Isaiah 3:4  
-And I will make mere boys their leaders,  
-And mischievous children will rule over them,
+The mighty man and the warrior, the judge and the prophet, the soothsayer and the elder,
 
-## Isaiah 3:5  
-And the people will be oppressed,  
-Each one by another, and each one by his neighbour;  
-The youth will assault the elder,  
-And the inferior against the honourable.
+## Isaiah 3:3
 
-## Isaiah 3:6  
-When a man lays hold of his brother in the house of his father, saying,  
-“You have a cloak, you shall be our ruler,  
-And these ruins will be under your authority,”
+The captain of fifty and the man of distinction, the counsellor and the skilled craftsman, and the expert enchanter.
 
-## Isaiah 3:7  
-On that day he will protest, saying,  
-“I will not be your healer,  
-For in my house there is neither bread nor cloak;  
-You should not appoint me ruler of the people.”
+## Isaiah 3:4
 
-## Isaiah 3:8  
-For Jerusalem has stumbled and Judah has fallen,  
-Because their speech and their actions are against the Lord,  
-To rebel against His glorious presence.
+"I will appoint mere lads as their leaders, and unruly children shall govern them."
 
-## Isaiah 3:9  
-The expression of their faces testifies against them,  
-And they display their sin like Sodom;  
-They do not even conceal it.  
-Woe to them, for they have brought evil on themselves!
+## Isaiah 3:5
 
-## Isaiah 3:10  
-Tell the righteous that it will go well for them,  
-For they will eat the fruit of their actions.
+And the people will be oppressed, each by another and each by his neighbour; the youth will rise against the elder, and the lowly against the honoured.
 
-## Isaiah 3:11  
-Woe to the wicked! It will go badly for him,  
-For what he deserves will be done to him.
+## Isaiah 3:6
 
-## Isaiah 3:12  
-My people! Their oppressors treat them violently,  
-And women rule over them.  
-My people! Those who guide you lead you astray  
-And confuse the direction of your paths.
+When a man takes hold of his brother in his father's house, saying, "You have a cloak, you shall be our leader; take charge of this heap of ruins!"
+
+## Isaiah 3:7
+
+On that day he will protest, saying, "I will not be your healer, for in my house there is neither bread nor cloak; do not appoint me as leader of the people."
+
+## Isaiah 3:8
+
+For Jerusalem has stumbled and Judah has fallen, because their words and deeds are against the Lord, to defy His glorious presence.
+
+## Isaiah 3:9
+
+The expression on their faces testifies against them; they flaunt their sin like Sodom; they do not even attempt to hide it. Woe to them! For they have brought calamity upon themselves.
+
+## Isaiah 3:10
+
+Say to the righteous that it shall be well with them, for they will enjoy the fruit of their actions.
+
+## Isaiah 3:11
+
+Woe to the wicked! It will go ill for him, for what his hands have done shall be done to him.
+
+## Isaiah 3:12
+
+My people! Their oppressors are children, and women rule over them. My people, those who guide you lead you astray and misdirect your paths.
 
 ---
 
-## Isaiah 3:13  
-The Lord arises to contend,  
-And stands to judge the people.
+## Isaiah 3:13
 
-## Isaiah 3:14  
-The Lord enters into judgment with the elders and leaders of His people,  
-“It is you who have consumed the vineyard;  
-The goods stolen from the poor are in your houses.
+The Lord takes His stand to contend, and rises to judge the people.
 
-## Isaiah 3:15  
-What do you mean by crushing My people  
-And oppressing the face of the poor?”  
-Declares the Lord God of armies.
+## Isaiah 3:14
+
+The Lord enters into judgment with the elders and leaders of His people: "It is you who have ravaged my vineyard; the spoils from the poor are in your houses.
+
+## Isaiah 3:15
+
+What do you mean by crushing My people and grinding the faces of the poor?" declares the Lord, the God of hosts.
 
 ---
 
-## Isaiah 3:16  
-Moreover, the Lord said,  
-“Because the daughters of Zion are haughty  
-And walk with heads held high and seductive eyes,  
-And go along with mincing steps  
-And jingle the anklets on their feet,
+## Isaiah 3:16
 
-## Isaiah 3:17  
-Therefore the Lord will afflict the scalp of the daughters of Zion with scabs,  
-And the Lord will expose their secret foreheads.”
+Moreover, the Lord says, "Because the daughters of Zion are haughty, and walk with outstretched necks and seductive eyes, mincing as they go, and jingling their anklets,
 
-## Isaiah 3:18  
-On that day the Lord will take away the beauty of their anklets, headbands, crescent ornaments,
+## Isaiah 3:17
 
-## Isaiah 3:19  
-Dangling earrings, bracelets, veils,
+The Lord will afflict the scalps of the daughters of Zion with sores, and the Lord will make their foreheads bare."
 
-## Isaiah 3:20  
-Headdresses, ankle chains, sashes, perfume boxes, amulets,
+## Isaiah 3:18
 
-## Isaiah 3:21  
-Finger rings, nose rings,
+On that day the Lord will take away the splendour of their anklets, headbands, and crescent ornaments,
 
-## Isaiah 3:22  
-Festive robes, outer garments, shawls, purses,
+## Isaiah 3:19
 
-## Isaiah 3:23  
-Papyrus garments, undergarments, headbands, and veils.
+the dangling earrings, bracelets, and veils,
 
-## Isaiah 3:24  
-Now it will come about that instead of balsam oil there will be a stench;  
-Instead of a belt, a rope;  
-Instead of well-set hair, a plucked-out scalp;  
-Instead of fine clothes, a robe of burlap;  
-And branding instead of beauty.
+## Isaiah 3:20
 
-## Isaiah 3:25  
-Your men will fall by the sword  
-And your mighty ones in battle.
+the headdresses, ankle chains, sashes, perfume bottles, and amulets,
 
-## Isaiah 3:26  
-And her gates will lament and mourn,  
-And she will sit deserted on the ground.
+## Isaiah 3:21
+
+the signet rings and nose rings,
+
+## Isaiah 3:22
+
+the festive robes, outer garments, shawls, and purses,
+
+## Isaiah 3:23
+
+and the fine linen garments, turbans, and veils.
+
+## Isaiah 3:24
+
+And it shall come to pass that instead of fragrance there will be a stench; instead of a belt, a rope; instead of well-set hair, baldness; instead of fine clothing, sackcloth; and branding instead of beauty.
+
+## Isaiah 3:25
+
+Your men shall fall by the sword, and your warriors in battle.
+
+## Isaiah 3:26
+
+And her gates shall lament and mourn, and she shall sit desolate on the ground.

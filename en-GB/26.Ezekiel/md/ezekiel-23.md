@@ -1,208 +1,148 @@
 # Ezekiel Chapter 23
 
 ## Ezekiel 23:1
-
-The word of the Lord came to me again, saying,
+The word of the Lord came to me once more, saying,
 
 ## Ezekiel 23:2
-
-“Son of man, there were two women, the daughters of one mother;
+“Son of man, there were two women, daughters of the same mother;
 
 ## Ezekiel 23:3
-
-And they prostituted themselves in Egypt. They prostituted themselves in their youth; there their breasts were squeezed, and there their virgin breasts were handled.
+and they engaged in prostitution in Egypt. They prostituted themselves from their youth; there their breasts were fondled and their virgin bosoms were caressed.
 
 ## Ezekiel 23:4
-
-Their names were Oholah the elder and Oholibah her sister. And they became Mine and gave birth to sons and daughters. And as for their names, Samaria is Oholah, and Jerusalem is Oholibah.
+The elder was named Oholah, and her sister was Oholibah. They belonged to me and bore sons and daughters. Oholah represents Samaria, and Oholibah represents Jerusalem.
 
 ## Ezekiel 23:5
-
-Now Oholah prostituted herself while she was Mine; and she lusted after her lovers, after the Assyrians, her neighbours,
+“Oholah engaged in prostitution while she was still mine; she lusted after her lovers, the Assyrians, her neighbours,
 
 ## Ezekiel 23:6
-
-Who were clothed in purple, governors and officials, all of them desirable young men, horsemen riding on horses.
+clothed in blue, governors and commanders, all of them handsome young men, riding on horses.
 
 ## Ezekiel 23:7
-
-So she bestowed her obscene practices on them, all of whom were the choicest of the Assyrians; and with all whom she lusted after, she defiled herself with all their idols.
+She bestowed her obscene practices upon them, all the elite of the Assyrians, and defiled herself with all their idols, with whom she lusted.
 
 ## Ezekiel 23:8
-
-She did not abandon her obscene practices from Egypt; for in her youth they had slept with her, and they handled her virgin body and poured out their lust on her.
+She did not abandon the prostitution she began in Egypt; in her youth men slept with her, caressed her virgin bosom and poured out their lust upon her.
 
 ## Ezekiel 23:9
-
-Therefore, I handed her over to her lovers, to the Assyrians, for whom she lusted.
+Therefore, I handed her over to her lovers, the Assyrians, for whom she lusted.
 
 ## Ezekiel 23:10
-
-They uncovered her nakedness; they took her sons and her daughters, but they killed her with the sword. So she became a subject of gossip among women, and they executed judgments against her.
+They uncovered her nakedness, took away her sons and daughters, and killed her with the sword. She became a byword among women, and judgments were executed upon her.
 
 ## Ezekiel 23:11
-
-Now her sister Oholibah saw this, yet she was more corrupt in her lust than she, and her obscene practices were more than the prostitution of her sister.
+“Her sister Oholibah saw this, yet she was more depraved in her lust and prostitution than her sister.
 
 ## Ezekiel 23:12
-
-She lusted after the Assyrians, governors and officials, her neighbours, clothed magnificently, horsemen riding on horses, all of them desirable young men.
+She too lusted after the Assyrians—governors and commanders, opulently dressed, horsemen riding on horses, all handsome young men.
 
 ## Ezekiel 23:13
-
-And I saw that she had defiled herself; they both had taken the same way.
+And I saw that she too defiled herself; both of them followed the same path.
 
 ## Ezekiel 23:14
-
-So she increased her obscene practices. And she saw men carved on the wall, images of the Chaldeans, drawn in bright red,
+But she carried her prostitution further. She saw men portrayed on a wall, images of Chaldeans drawn in bright red,
 
 ## Ezekiel 23:15
-
-Wearing belts around their waists, with flowing turbans on their heads, all of them looking like officers, like the Babylonians in Chaldea, the land of their birth.
+with belts around their waists and flowing turbans on their heads; all of them looked like Babylonian officers, natives of Chaldea.
 
 ## Ezekiel 23:16
-
-When she saw them, she lusted after them and sent messengers to them in Chaldea.
+As soon as she saw them, she lusted after them and sent messengers to them in Chaldea.
 
 ## Ezekiel 23:17
-
-Then the Babylonians came to her in her bed of love and defiled her with their lust; and after she had been defiled by them, she turned away from them in disgust.
+Then the Babylonians came to her, to the bed of love, and in their lust they defiled her. After she had been defiled by them, she turned away from them in disgust.
 
 ## Ezekiel 23:18
-
-She exposed her prostitution and uncovered her nakedness; then I turned away from her in disgust, just as I had turned away from her sister in disgust.
+She exposed her obscene practices and her nakedness; therefore, I turned away from her in disgust, just as I had turned away from her sister.
 
 ## Ezekiel 23:19
-
-Yet she multiplied her obscene practices, remembering the days of her youth, when she prostituted herself in the land of Egypt.
+Yet she multiplied her obscene practices, recalling the days of her youth, when she prostituted herself in Egypt.
 
 ## Ezekiel 23:20
-
-She lusted after their lovers, whose flesh is like the flesh of donkeys, and whose discharge is like the discharge of horses.
+She lusted after her lovers, whose flesh was like that of donkeys and whose emission was like that of horses.
 
 ## Ezekiel 23:21
-
-So you longed for the wickedness of your youth, when the Egyptians handled your breasts because of the breasts of your youth.
+So you longed for the lewdness of your youth, when in Egypt your bosom was caressed and your young breasts fondled.
 
 ## Ezekiel 23:22
-
-Therefore, O Oholibah, this is what the Lord God says: ‘Behold, I am going to incite your lovers against you, from whom you turned away in disgust, and I will bring them against you from every direction:
+“Therefore, Oholibah, this is what the Sovereign Lord says: I will incite your lovers against you, those you turned away from in disgust, and I will bring them against you from every side—
 
 ## Ezekiel 23:23
-
-The Babylonians and all the Chaldeans, Pekod, Shoa, and Koa, and all the Assyrians with them, all of them desirable young men, governors and officials, officers and men of renown, all of them riding on horses.
+the Babylonians and all the Chaldeans, the men of Pekod and Shoa and Koa, and all the Assyrians with them, handsome young men, all of them governors and commanders, chariot officers and men of high rank, all mounted on horses.
 
 ## Ezekiel 23:24
-
-They will come against you with weapons, chariots, and wagons, and with a contingent of peoples; they will set themselves against you on every side with large and small shields and helmets; and I will entrust the judgment to them, and they will judge you according to their customs.
+They will come against you with weapons, chariots and wagons, and with a multitude of people; they will set themselves against you on every side with large and small shields and with helmets. I will commit judgment to them, and they will judge you according to their customs.
 
 ## Ezekiel 23:25
-
-I will set My jealousy against you, so that they may deal with you in wrath. They will remove your nose and your ears; and your survivors will fall by the sword. They will take your sons and your daughters, and your survivors will be consumed by fire.
+I will direct my jealous anger against you, and they will deal with you in wrath. They will cut off your noses and your ears, and those who remain will fall by the sword. They will take away your sons and daughters, and those who remain will be consumed by fire.
 
 ## Ezekiel 23:26
-
-They will also strip you of your clothes and take away your beautiful jewelry.
+They will also strip you of your clothes and take your fine jewellery.
 
 ## Ezekiel 23:27
-
-So I will put an end to your obscene conduct and your prostitution brought from the land of Egypt, so that you will not raise your eyes to them or remember Egypt anymore.
+So I will put an end to your lewdness and prostitution brought from Egypt. You will not look on these things with longing or remember Egypt anymore.
 
 ## Ezekiel 23:28
-
-For this is what the Lord God says: ‘Behold, I am going to hand you over to those whom you hate, to those from whom you turned away in disgust.
+For this is what the Sovereign Lord says: I am about to deliver you into the hands of those you hate, to those you turned away from in disgust.
 
 ## Ezekiel 23:29
-
-They will deal with you in hatred, take all your property, and leave you naked and bare. The shame of your obscene conduct will be uncovered, both your obscene practice and your prostitution.
+They will deal with you in hatred, take all your possessions, and leave you naked and bare. The shame of your prostitution will be exposed, and your lewdness and obscene practices
 
 ## Ezekiel 23:30
-
-These things will be done to you because you have prostituted yourself with the nations, because you have defiled yourself with their idols.
+have brought this upon you, because you lusted after the nations and defiled yourself with their idols.
 
 ## Ezekiel 23:31
-
-You have walked in the way of your sister; therefore I will put her cup in your hand.’
+You have followed the way of your sister; therefore, I will place her cup into your hand.
 
 ## Ezekiel 23:32
-
-This is what the Lord God says:
-
-> ‘You will drink your sister’s cup,  
-> Which is deep and wide.  
-> It will make you an object of laughter and ridicule,  
-> It holds so much.
+This is what the Sovereign Lord says: You will drink your sister’s cup, a cup deep and wide; it will bring scorn and derision, for it holds much.
 
 ## Ezekiel 23:33
-
-> You will be filled with drunkenness and sorrow,  
-> The cup of horror and desolation,  
-> The cup of your sister Samaria.
+You will be filled with drunkenness and sorrow, a cup of ruin and desolation, the cup of your sister Samaria.
 
 ## Ezekiel 23:34
-
-> You will drink it and drain it,  
-> Then gnaw its pieces  
-> And tear your breasts;
-
-For I have spoken,’ declares the Lord God.
+You will drink it and drain it dry; you will gnaw on its fragments and tear your breasts. I have spoken, declares the Sovereign Lord.
 
 ## Ezekiel 23:35
-
-Therefore, this is what the Lord God says: ‘Because you have forgotten Me and cast Me behind your back, you also will bear the punishment for your obscene conduct and your prostitution.’”
+Therefore, this is what the Sovereign Lord says: Because you have forgotten me and cast me behind your back, you must bear the consequences of your lewdness and obscene practices.”
 
 ## Ezekiel 23:36
-
-Moreover, the Lord said to me, “Son of man, will you judge Oholah and Oholibah? Then declare to them their abominations.
+Moreover, the Lord said to me: “Son of man, will you judge Oholah and Oholibah? Then confront them with their detestable practices,
 
 ## Ezekiel 23:37
-
-For they have committed adultery, and blood is on their hands. They have committed adultery with their idols and have even made their children, whom they bore to Me, pass through the fire to them as food.
+for they have committed adultery and blood is on their hands. They committed adultery with their idols; they even sacrificed their children, whom they bore to me, as food for them.
 
 ## Ezekiel 23:38
-
-Again, they have done this to Me: they have defiled My sanctuary on the same day and have profaned My Sabbaths.
+They have also done this to me: At that same time, they defiled my sanctuary and desecrated my Sabbaths.
 
 ## Ezekiel 23:39
-
-For when they had slaughtered their children for their idols, they entered My sanctuary on the same day to profane it; and behold, this is what they did within My house!
+On the very day they sacrificed their children to their idols, they entered my sanctuary and desecrated it. That is what they did in my house.
 
 ## Ezekiel 23:40
-
-Furthermore, they sent for men who came from a great distance, to whom a messenger was sent; and behold, they came—for whom you bathed, painted your eyes, and decorated yourself with jewelry;
+Furthermore, they sent messengers for men who came from afar, and when they arrived, you bathed yourself for them, applied eye makeup and adorned yourself with jewellery.
 
 ## Ezekiel 23:41
-
-And you sat on a splendid couch with a table arranged before it, on which you had set My incense and My oil.
+You sat on a splendid couch, with a table spread before it on which you had placed my incense and my oil.
 
 ## Ezekiel 23:42
-
-And the sound of a carefree crowd was with her; and drunkards were brought from the wilderness with men of the common sort. And they put bracelets on the wrists of the women and beautiful crowns on their heads.
+The noise of a carefree crowd was around her; drunkards were brought from the wilderness along with men from the rabble, and they put bracelets on the wrists of the woman and her sister and beautiful crowns on their heads.
 
 ## Ezekiel 23:43
-
-Then I said of her who was worn out by adulteries, ‘Will they now commit adultery with her when she is like this?’
+Then I said concerning the one worn out by adultery, ‘Now let them use her as a prostitute, for that is all she is.’
 
 ## Ezekiel 23:44
-
-But they went in to her as they would go in to a prostitute; so they went in to Oholah and to Oholibah, the lewd women.
+And they went in to her as men go in to a prostitute. So they went in to Oholah and Oholibah, the lewd women.
 
 ## Ezekiel 23:45
-
-But they, righteous men, will judge them with the judgment of adulteresses and with the judgment of women who shed blood, because they are adulteresses, and blood is on their hands.
+But righteous judges will sentence them to the punishment of women who commit adultery and shed blood, because they are adulteresses and blood is on their hands.
 
 ## Ezekiel 23:46
-
-For this is what the Lord God says: ‘Bring up a horde against them and turn them over to terror and plunder.
+For this is what the Sovereign Lord says: Bring a mob against them and give them over to terror and plunder.
 
 ## Ezekiel 23:47
-
-The horde will stone them with stones and cut them to pieces with their swords; they will kill their sons and their daughters and burn their houses with fire.
+The mob will stone them and cut them down with their swords; they will kill their sons and daughters and burn their houses.
 
 ## Ezekiel 23:48
-
-So I will eliminate obscene conduct from the land, so that all women may be admonished and not commit obscene acts as you have done.
+So I will put an end to lewdness in the land, that all women may take warning and not imitate you.
 
 ## Ezekiel 23:49
-
-Your obscene conduct will be brought back upon you, and you will bear the punishment for your idolatry; then you will know that I am the Lord God.’”
+You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign Lord.”

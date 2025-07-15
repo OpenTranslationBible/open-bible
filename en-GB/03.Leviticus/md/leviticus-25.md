@@ -1,221 +1,166 @@
 # Leviticus Chapter 25
 
 ## Leviticus 25:1
-
-The Lord then spoke to Moses at Mount Sinai, saying,
+The Lord spoke to Moses at Mount Sinai, saying,
 
 ## Leviticus 25:2
-
-“Speak to the sons of Israel and say to them, ‘When you come into the land which I am giving you, then the land shall have a sabbath to the Lord.
+“Speak to the Israelites and tell them, ‘When you enter the land that I am giving you, the land must observe a sabbath to the Lord.
 
 ## Leviticus 25:3
-
-For six years you shall sow your field, and for six years you shall prune your vineyard and gather in its yield.
+For six years you may sow your fields and prune your vineyards and gather their produce,
 
 ## Leviticus 25:4
-
-But in the seventh year the land shall have a sabbath rest, a sabbath to the Lord; you shall not sow your field nor prune your vineyard.
+but in the seventh year the land shall have a sabbath rest, a sabbath to the Lord; you shall not sow your fields or prune your vineyards.
 
 ## Leviticus 25:5
-
-You shall not reap your aftergrowth nor gather the grapes of your untrimmed vines; the land shall have a sabbatical year.
+You shall not reap what grows of itself or gather the grapes from your untrimmed vines; the land shall have a year of rest.
 
 ## Leviticus 25:6
-
-All of you shall have the sabbath products of the land for food; yourself, your male and female slaves, your hired worker, and your resident foreigner, those who live as strangers among you.
+Whatever the land yields during the sabbath year will be food for you—for yourself, your male and female servants, and the hired worker and foreign resident living among you,
 
 ## Leviticus 25:7
-
-Even your cattle and the animals that are in your land shall have all its crops to eat.
+as well as for your livestock and the wild animals in your land. Whatever the land produces may be eaten.
 
 ## Leviticus 25:8
-
-You are also to count off seven sabbaths of years for yourself, seven times seven years, so that you have the time of the seven sabbaths of years, namely, forty-nine years.
+“‘Count off seven sabbath years—seven times seven years—so that the seven sabbath years amount to a period of forty-nine years.
 
 ## Leviticus 25:9
-
-You shall then sound a ram’s horn abroad on the tenth day of the seventh month; on the Day of Atonement you shall sound a horn all through your land.
+Then sound a trumpet throughout the land on the tenth day of the seventh month; on the Day of Atonement you shall sound the trumpet throughout your land.
 
 ## Leviticus 25:10
-
-So you shall consecrate the fiftieth year and proclaim a release throughout the land to all its inhabitants. It shall be a jubilee for you, and each of you shall return to his own property, and each of you shall return to his family.
+Consecrate the fiftieth year and proclaim liberty throughout the land to all its inhabitants. It shall be a jubilee for you; each of you shall return to your property and to your family.
 
 ## Leviticus 25:11
-
-You shall have the fiftieth year as a jubilee; you shall not sow, nor reap its aftergrowth, nor gather from its untrimmed vines.
+The fiftieth year shall be a jubilee for you; you shall not sow, nor harvest what grows of itself, nor gather grapes from untrimmed vines.
 
 ## Leviticus 25:12
-
-For it is a jubilee; it shall be holy to you. You shall eat its produce from the field.
+For it is a jubilee and shall be holy to you; you shall eat only what is taken directly from the fields.
 
 ## Leviticus 25:13
-
-On this year of jubilee, each of you shall return to his own property.
+“‘In this Year of Jubilee, each of you shall return to your property.
 
 ## Leviticus 25:14
-
-Furthermore, if you make a sale to your neighbour, or buy from your neighbour’s hand, you shall not wrong one another.
+“‘If you sell land to any of your own people or buy land from them, do not take advantage of one another.
 
 ## Leviticus 25:15
-
-Corresponding to the number of years after the jubilee, you shall buy from your neighbour; he is to sell to you according to the number of years of crops.
+You are to buy from your own people on the basis of the number of years since the Jubilee, and they are to sell to you on the basis of the number of years left for harvesting crops.
 
 ## Leviticus 25:16
-
-In proportion to a greater number of years you shall increase its price, and in proportion to fewer years you shall decrease its price, because it is a number of harvests he is selling to you.
+In proportion to a greater number of years you shall increase the price, and in proportion to fewer years you shall decrease the price, because it is the number of crops that is being sold to you.
 
 ## Leviticus 25:17
-
-So you shall not wrong one another, but you shall fear your God; for I am the Lord your God.
+Do not take advantage of one another, but fear your God; for I am the Lord your God.
 
 ## Leviticus 25:18
-
-You shall therefore keep My statutes and keep My judgments so as to carry them out, so that you may live securely on the land.
+“‘Follow my decrees and be careful to obey my laws, and you will live securely in the land.
 
 ## Leviticus 25:19
-
-Then the land will yield its produce, so that you can eat your fill and live securely on it.
+Then the land will yield its produce, and you will eat your fill and live securely on it.
 
 ## Leviticus 25:20
-
-But if you say, ‘What are we going to eat in the seventh year if we do not sow nor gather in our produce?’
+You may ask, “What shall we eat in the seventh year if we do not plant or harvest our crops?”
 
 ## Leviticus 25:21
-
-Then I will so order My blessing for you in the sixth year that it will bring forth the produce for three years.
+I will command my blessing for you in the sixth year so that the land will yield enough for three years.
 
 ## Leviticus 25:22
-
-When you are sowing the eighth year, you can still eat old produce until the ninth year; until its produce comes in, you shall eat the old.
+While you are sowing during the eighth year, you will eat from the old produce and continue to eat from it until the ninth year when its produce comes in.
 
 ## Leviticus 25:23
-
-The land, moreover, shall not be sold permanently, because the land is Mine; for you are only strangers and temporary residents with Me.
+“‘The land must not be sold permanently, because the land is mine and you reside in my land as foreigners and strangers.
 
 ## Leviticus 25:24
-
-So for every piece of your property, you are to provide for the redemption of the land.
+Throughout the land that you hold as a possession, you must provide for the redemption of the land.
 
 ## Leviticus 25:25
-
-If a fellow countryman of yours becomes so poor that he sells part of his property, then his nearest relative is to come and redeem what his brother has sold.
+“‘If one of your fellow Israelites becomes poor and sells some of their property, their nearest relative is to come and redeem what they have sold.
 
 ## Leviticus 25:26
-
-Or in case someone has no redeemer, but recovers and finds sufficient means to redeem it,
+If, however, there is no one to redeem it for them but later on they prosper and acquire sufficient means to redeem it themselves,
 
 ## Leviticus 25:27
-
-Then he shall calculate the years since its sale and refund the balance to the person to whom he sold it, and so return to his property.
+they are to calculate the value for the years since they sold it and refund the balance to the one to whom they sold it; they can then return to their property.
 
 ## Leviticus 25:28
-
-But if he has not found sufficient means to get it back for himself, then what he has sold shall remain in the hands of its purchaser until the year of jubilee; but at the jubilee it shall revert, so that he may return to his property.
+But if they do not acquire the means to repay, what was sold will remain with the buyer until the Year of Jubilee. It will be returned in the Jubilee, and they can then return to their property.
 
 ## Leviticus 25:29
-
-Likewise, if a man sells a dwelling house in a walled city, then his redemption right remains valid until a full year has passed from its sale; his right of redemption lasts a year.
+“‘Anyone who sells a house in a walled city retains the right of redemption a full year after its sale. During that time, the seller may redeem it.
 
 ## Leviticus 25:30
-
-But if it is not redeemed for him within a full year, then the house that is in the walled city passes permanently to its purchaser throughout his generations; it does not revert in the jubilee.
+If it is not redeemed before a full year has passed, the house in the walled city shall belong permanently to the buyer and their descendants. It is not to be returned in the Jubilee.
 
 ## Leviticus 25:31
-
-The houses of the villages, however, which have no surrounding wall, shall be considered as open fields; they have the right of redemption and revert in the jubilee.
+But houses in villages without walls around them are to be considered as belonging to the open country. They can be redeemed, and they are to be returned in the Jubilee.
 
 ## Leviticus 25:32
-
-As for cities of the Levites, the Levites have a permanent right of redemption for the houses of the cities which are their possession.
+“‘The Levites always have the right to redeem their houses in the Levitical towns, which they possess.
 
 ## Leviticus 25:33
-
-What, therefore, belongs to the Levites may be redeemed, and a house sold in the city of their possession reverts in the jubilee, because the houses of the cities of the Levites are their possession among the sons of Israel.
+So the property of the Levites is redeemable—that is, a house sold in any town they hold—and is to be returned in the Jubilee, because the houses in the towns of the Levites are their possession among the Israelites.
 
 ## Leviticus 25:34
-
-But pasture fields of their cities shall not be sold, for that is their permanent possession.
+But the pastureland belonging to their towns must not be sold; it is their permanent possession.
 
 ## Leviticus 25:35
-
-Now in case a countryman of yours becomes poor and his means falter with regard to you, then you are to sustain him, like a stranger or a temporary resident, so that he may live with you.
+“‘If any of your fellow Israelites become poor and are unable to support themselves among you, help them as you would a foreigner and stranger, so they can continue to live among you.
 
 ## Leviticus 25:36
-
-Do not take any kind of interest from him, but fear your God, so that your countryman may live with you.
+Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
 
 ## Leviticus 25:37
-
-You shall not give him your silver at interest, nor your food for profit.
+You must not lend them money at interest or sell them food at a profit.
 
 ## Leviticus 25:38
-
-I am the Lord your God, who brought you out of the land of Egypt to give you the land of Canaan, and to be your God.
+I am the Lord your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.
 
 ## Leviticus 25:39
-
-Now if a countryman of yours becomes so poor with regard to you that he sells himself to you, you shall not subject him to a slave’s service.
+“‘If any of your fellow Israelites become poor and sell themselves to you, do not make them work as slaves.
 
 ## Leviticus 25:40
-
-He shall be with you as a hired worker, as if he were a temporary resident; he shall serve with you until the year of jubilee.
+They are to be treated as hired workers or temporary residents among you; they are to work for you until the Year of Jubilee.
 
 ## Leviticus 25:41
-
-He shall then leave you, he and his sons with him, and go back to his family, so that he may return to the property of his forefathers.
+Then they and their children are to be released, and they will return to their own clans and to the property of their ancestors.
 
 ## Leviticus 25:42
-
-For they are My servants whom I brought out from the land of Egypt; they are not to be sold in a slave sale.
+Because the Israelites are my servants, whom I brought out of Egypt, they must not be sold as slaves.
 
 ## Leviticus 25:43
-
-You shall not rule over him with severity, but are to revere your God.
+Do not rule over them with harshness, but fear your God.
 
 ## Leviticus 25:44
-
-As for your male and female slaves whom you may have—you may acquire male and female slaves from the nations that are around you.
+“‘Your male and female slaves are to come from the nations around you; from them you may buy slaves.
 
 ## Leviticus 25:45
-
-You may also acquire them from the sons of the foreigners who reside among you, and from their families who are with you, whom they have fathered in your land; they may also become your possession.
+You may also buy some of the temporary residents living among you and members of their clans born in your country, and they will become your property.
 
 ## Leviticus 25:46
-
-You may give them as an inheritance to your sons after you, to receive as a possession; you can use them as permanent slaves. But in respect to your fellow Israelites, you shall not rule with severity over one another.
+You can bequeath them to your children as inherited property and can make them slaves for life, but you must not rule over your fellow Israelites with harshness.
 
 ## Leviticus 25:47
-
-Now if the means of a stranger or of a temporary resident with you becomes sufficient, and a countryman of yours becomes so poor with regard to him as to sell himself to a stranger who is residing with you, or to the descendants of a stranger’s family,
+“‘If a foreigner residing among you becomes rich and any of your fellow Israelites become poor and sell themselves to the foreigner or to a member of the foreigner’s clan,
 
 ## Leviticus 25:48
-
-Then he shall have redemption right after he has sold himself. One of his brothers may redeem him,
+they retain the right of redemption after they have sold themselves. One of their relatives may redeem them:
 
 ## Leviticus 25:49
-
-Or his uncle, or his uncle’s son may redeem him, or one of his blood relatives from his family may redeem him; or if he prospers, he may redeem himself.
+An uncle or a cousin or any blood relative in their clan may redeem them. Or if they prosper, they may redeem themselves.
 
 ## Leviticus 25:50
-
-He then with his purchaser shall calculate from the year when he sold himself to him up to the year of jubilee; and the price of his sale shall correspond to the number of years. It shall be like the days of a hired worker with him.
+They and their buyer are to calculate the time from the year they sold themselves up to the Year of Jubilee. The price for their release is to be based on the rate paid to a hired worker for that number of years.
 
 ## Leviticus 25:51
-
-If there are still many years, he shall refund part of his purchase price in proportion to them for his own redemption;
+If many years remain, they must pay for their redemption a larger share of the price paid for them.
 
 ## Leviticus 25:52
-
-But if only a few years remain until the year of jubilee, he shall so calculate with him. In proportion to the years that remain, he is to refund the amount for his redemption.
+If only a few years remain until the Year of Jubilee, they are to compute that and pay for their redemption accordingly.
 
 ## Leviticus 25:53
-
-He shall be with him like a worker hired year by year; he shall not rule with severity over him in your sight.
+They are to be treated as workers hired from year to year; you must ensure that those to whom they owe service do not rule over them with harshness.
 
 ## Leviticus 25:54
-
-Even if he is not redeemed by these means, he shall still leave in the year of jubilee, he and his sons with him.
+“‘Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee,
 
 ## Leviticus 25:55
-
-For the sons of Israel are My servants; they are My servants whom I brought out from the land of Egypt. I am the Lord your God.
+for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.

@@ -2,57 +2,47 @@
 
 ## Matthew 18:1
 
-At that time the disciples came to Jesus and said,  
-“Who then is greatest in the kingdom of heaven?”
+At that time, the disciples approached Jesus and asked, “Who is the greatest in the kingdom of heaven?”
 
 ## Matthew 18:2
 
-And He called a child to Himself and set him among them,
+He called a child to Himself and placed the child among them.
 
 ## Matthew 18:3
 
-and said,  
-“Truly I say to you, unless you change and become like children,  
-you will not enter the kingdom of heaven.
+And He said, “Truly I tell you, unless you change and become like children, you will never enter the kingdom of heaven.
 
 ## Matthew 18:4
 
-So whoever will humble himself like this child, he is the greatest in the kingdom of heaven.
+Therefore, whoever humbles themselves like this child is the greatest in the kingdom of heaven.
 
 ## Matthew 18:5
 
-And whoever receives one such child in My name, receives Me;
+And whoever receives one such child in My name receives Me.
 
 ## Matthew 18:6
 
-but whoever causes one of these little ones who believe in Me to sin,  
-it is better for him that a heavy millstone be hung around his neck, and that he be drowned in the depth of the sea.
+But if anyone causes one of these little ones who believe in Me to stumble, it would be better for them to have a heavy millstone hung around their neck and be drowned in the depths of the sea.
 
 ---
 
 ## Matthew 18:7
 
-Woe to the world because of its stumbling blocks! For it is inevitable that stumbling blocks come;  
-but woe to the person through whom the stumbling block comes!
+“Woe to the world because of the things that cause people to stumble! Such things are bound to come, but woe to the person through whom they come!
 
 ## Matthew 18:8
 
-And if your hand or your foot is causing you to sin, cut it off and throw it away from you;  
-it is better for you to enter life crippled or limping,  
-than to have two hands or two feet and be thrown into the eternal fire.
+If your hand or your foot causes you to sin, cut it off and throw it away. It is better for you to enter life maimed or crippled than to have two hands or two feet and be thrown into eternal fire.
 
 ## Matthew 18:9
 
-And if your eye is causing you to sin, tear it out and throw it away from you.  
-It is better for you to enter life with one eye,  
-than to have two eyes and be thrown into the fiery hell.
+And if your eye causes you to sin, gouge it out and throw it away. It is better for you to enter life with one eye than to have two eyes and be thrown into the fire of hell.
 
 ---
 
 ## Matthew 18:10
 
-See that you do not look down on one of these little ones;  
-for I say to you that their angels in heaven continually see the face of My Father who is in heaven.
+“See that you do not despise one of these little ones. For I tell you that their angels in heaven always see the face of My Father in heaven.
 
 ## Matthew 18:11
 
@@ -60,121 +50,102 @@ for I say to you that their angels in heaven continually see the face of My Fath
 
 ## Matthew 18:12
 
-What do you think?  
-If a man has a hundred sheep, and one of them goes astray,  
-does he not leave the ninety-nine on the mountains and go and search for the one that is lost?
+“What do you think? If a man owns a hundred sheep and one of them goes astray, will he not leave the ninety-nine on the mountains and go to look for the one that is lost?
 
 ## Matthew 18:13
 
-And if it turns out that he finds it, truly I say to you,  
-he rejoices over it more than over the ninety-nine that have not gone astray.
+And if he finds it, truly I tell you, he rejoices over that one sheep more than over the ninety-nine that did not go astray.
 
 ## Matthew 18:14
 
-So it is not the will of your Father who is in heaven for one of these little ones to perish.
+In the same way, it is not the will of your Father in heaven that any of these little ones should perish.
 
 ---
 
 ## Matthew 18:15
 
-Now if your brother sins, go and show him his fault in private;  
-if he listens to you, you have gained your brother.
+“If your brother or sister sins, go and show them their fault in private; if they listen to you, you have won them over.
 
 ## Matthew 18:16
 
-But if he does not listen to you, take one or two more with you,  
-so that on the testimony of two or three witnesses every matter may be confirmed.
+But if they do not listen, take one or two others along, so that every matter may be established by the testimony of two or three witnesses.
 
 ## Matthew 18:17
 
-And if he refuses to listen to them, tell it to the church;  
-and if he refuses to listen even to the church,  
-he is to be to you as a Gentile and a tax collector.
+If they refuse to listen to them, tell it to the church; and if they refuse to listen even to the church, treat them as you would a Gentile or a tax collector.
 
 ## Matthew 18:18
 
-Truly I say to you, whatever you bind on earth shall have been bound in heaven;  
-and whatever you loose on earth shall have been loosed in heaven.
+“Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
 
 ## Matthew 18:19
 
-Again I say to you, that if two of you agree on earth about anything that they may ask,  
-it shall be done for them by My Father who is in heaven.
+“Again, truly I tell you that if two of you on earth agree about anything they ask for, it will be done for them by My Father in heaven.
 
 ## Matthew 18:20
 
-For where two or three have gathered together in My name, I am there in their midst.”
+For where two or three gather in My name, there am I with them.”
 
 ---
 
 ## Matthew 18:21
 
-Then Peter came up and said to Him,  
-“Lord, how many times shall my brother sin against me and I still forgive him? Up to seven times?”
+Then Peter came to Jesus and asked, “Lord, how many times shall I forgive my brother or sister who sins against me? Up to seven times?”
 
 ## Matthew 18:22
 
-Jesus said to him,  
-“I do not say to you, up to seven times, but up to seventy-seven times.
+Jesus answered, “I tell you, not seven times, but seventy-seven times.
 
 ---
 
 ## Matthew 18:23
 
-For this reason the kingdom of heaven is like a king who wanted to settle accounts with his slaves.
+“For this reason, the kingdom of heaven is like a king who wanted to settle accounts with his servants.
 
 ## Matthew 18:24
 
-And when he had begun to settle them, one who owed him ten thousand talents was brought to him.
+As he began the settlement, a man who owed him ten thousand talents was brought to him.
 
 ## Matthew 18:25
 
-But since he did not have the means to repay,  
-his master commanded that he be sold, along with his wife and children and all that he had, and repayment be made.
+Since he was not able to pay, the master ordered that he and his wife and his children and all that he had be sold to repay the debt.
 
 ## Matthew 18:26
 
-So the slave fell to the ground and prostrated himself before him, saying,  
-‘Have patience with me and I will repay you everything.’
+The servant fell to his knees before him. ‘Be patient with me,’ he begged, ‘and I will pay back everything.’
 
 ## Matthew 18:27
 
-And the master of that slave felt compassion,  
-and he released him and forgave him the debt.
+The master of that servant took pity on him, cancelled the debt and let him go.
 
 ## Matthew 18:28
 
-But that slave went out and found one of his fellow slaves who owed him a hundred denarii;  
-and he seized him and began to choke him, saying, ‘Pay back what you owe!’
+But when that servant went out, he found one of his fellow servants who owed him a hundred denarii. He grabbed him and began to choke him. ‘Pay back what you owe me!’ he demanded.
 
 ## Matthew 18:29
 
-So his fellow slave fell to the ground and began to plead with him, saying,  
-‘Have patience with me and I will repay you.’
+His fellow servant fell to his knees and begged him, ‘Be patient with me, and I will pay it back.’
 
 ## Matthew 18:30
 
-But he was unwilling, and went and threw him in prison until he would pay back what was owed.
+But he refused. Instead, he went off and had the man thrown into prison until he could pay the debt.
 
 ## Matthew 18:31
 
-So when his fellow slaves saw what had happened, they were deeply grieved,  
-and came and reported to their master all that had happened.
+When the other servants saw what had happened, they were outraged and went and told their master everything that had happened.
 
 ## Matthew 18:32
 
-Then summoning him, his master said to him,  
-‘You wicked slave, I forgave you all that debt because you pleaded with me.
+Then the master called the servant in. ‘You wicked servant,’ he said, ‘I cancelled all that debt of yours because you pleaded with me.
 
 ## Matthew 18:33
 
-Should you not also have had mercy on your fellow slave, in the same way that I had mercy on you?’
+Shouldn’t you have had mercy on your fellow servant just as I had on you?’
 
 ## Matthew 18:34
 
-And his master, moved with anger, handed him over to the jailers until he would repay all that was owed him.
+In anger, his master handed him over to the jailers to be tortured until he should pay back all he owed.
 
 ## Matthew 18:35
 
-My heavenly Father will also do the same to you,  
-if each of you does not forgive his brother from your heart.”
+“This is how My heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”

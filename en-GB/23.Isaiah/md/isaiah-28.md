@@ -1,150 +1,88 @@
 # Isaiah Chapter 28
 
-## Isaiah 28:1  
-Woe to the proud crown of the habitually drunk of Ephraim,  
-And to the fading flower of its glorious beauty,  
-Which is at the head of the fertile valley  
-Of those who are overcome with wine!
+## Isaiah 28:1
+Woe to the proud crown of Ephraim's drunkards, and to the fading flower of its glorious beauty, which is set on the head of a fertile valley, of those who are overcome with wine!
 
-## Isaiah 28:2  
-Behold, the Lord has a strong and mighty agent;  
-As a storm of hail, a tempest of destruction,  
-Like a storm of mighty overflowing waters,  
-He has thrown it down to the earth with His hand.
+## Isaiah 28:2
+Behold, the Lord has a strong and mighty one. Like a hailstorm and a tempest of destruction, like a storm of mighty overflowing waters, he will cast it down to the earth with force.
 
-## Isaiah 28:3  
-The proud crown of the habitually drunk of Ephraim is trampled underfoot.
+## Isaiah 28:3
+The proud crown of Ephraim's drunkards will be trampled underfoot.
 
-## Isaiah 28:4  
-And the fading flower of its glorious beauty,  
-Which is at the head of the fertile valley,  
-Will be like the first-ripe fig prior to summer,  
-Which one sees,  
-And as soon as it is in his hand, he swallows it.
+## Isaiah 28:4
+The fading flower of its glorious beauty, which is on the head of the fertile valley, will be like the first-ripe fig before the summer; as soon as someone sees it, while it is still in their hand, they swallow it.
 
-## Isaiah 28:5  
-On that day the Lord of armies will become a beautiful crown  
-And a glorious wreath to the remnant of His people;
+## Isaiah 28:5
+In that day, the Lord Almighty will be a beautiful crown and a glorious diadem for the remnant of his people.
 
-## Isaiah 28:6  
-A spirit of justice for him who sits in judgment,  
-A strength to those who repel the onslaught at the gate.
+## Isaiah 28:6
+He will be a spirit of justice to the one who sits in judgment, and a source of strength to those who turn back the battle at the gate.
 
-## Isaiah 28:7  
-And these also reel with wine and stagger from intoxicating drink:  
-The priest and the prophet reel with intoxicating drink,  
-They are confused by wine, they stagger from intoxicating drink;  
-They reel while having visions, they stagger when rendering judgment.
+## Isaiah 28:7
+These also stagger from wine and reel from intoxicating drink: the priest and the prophet stagger from drink, they are confused by wine, they stagger from intoxicating drink; they reel while having visions, they stumble when rendering decisions.
 
-## Isaiah 28:8  
-For all the tables are full of filthy vomit, without a single clean place.
+## Isaiah 28:8
+All the tables are covered with vomit; there is not a clean spot anywhere.
 
-## Isaiah 28:9  
-To whom would He teach knowledge,  
-And to whom would He interpret the message?  
-Those just weaned from milk?  
-Those taken from the breast?
+## Isaiah 28:9
+“To whom is he trying to teach knowledge, and to whom is he explaining the message? To children just weaned from milk, to those just taken from the breast?
 
-## Isaiah 28:10  
-For He says,  
-“Order on order, order on order,  
-Line on line, line on line,  
-A little here, a little there.”
+## Isaiah 28:10
+For it is: Order on order, order on order, line on line, line on line, a little here, a little there.”
 
-## Isaiah 28:11  
-Indeed, He will speak to this people  
-Through stammering lips and a foreign tongue,
+## Isaiah 28:11
+Indeed, with stammering lips and a foreign tongue, God will speak to this people,
 
-## Isaiah 28:12  
-He who said to them,  
-“Here is rest, give rest to the weary,”  
-And, “Here is repose,” but they would not listen.
+## Isaiah 28:12
+to whom he said, “This is the resting place, let the weary rest,” and, “This is the place of repose,” but they would not listen.
 
-## Isaiah 28:13  
-So the word of the Lord to them will be,  
-“Order on order, order on order,  
-Line on line, line on line,  
-A little here, a little there,”  
-So that they may go and stumble backward, be broken, snared, and taken captive.
+## Isaiah 28:13
+So the word of the Lord to them will be: Order on order, order on order, line on line, line on line, a little here, a little there, so that they may go and fall backward, be broken, snared, and captured.
 
-## Isaiah 28:14  
-Therefore, hear the word of the Lord, you scoffers,  
-Who rule this people who are in Jerusalem,
+## Isaiah 28:14
+Therefore, hear the word of the Lord, you scoffers who rule this people in Jerusalem.
 
-## Isaiah 28:15  
-Because you have said, “We have made a covenant with death,  
-And with Sheol we have made a pact.  
-The gushing flood will not reach us when it passes by,  
-Because we have made falsehood our refuge and we have concealed ourselves with deception.”
+## Isaiah 28:15
+Because you have said, “We have made a covenant with death, and with Sheol we have made an agreement. When the overwhelming scourge passes through, it will not reach us, for we have made falsehood our refuge and concealed ourselves with deception.”
 
-## Isaiah 28:16  
-Therefore this is what the Lord God says:  
-“Behold, I am laying a stone in Zion, a tested stone,  
-A precious cornerstone for the foundation, firmly placed.  
-The one who believes in it will not be disturbed.
+## Isaiah 28:16
+Therefore, this is what the Sovereign Lord says: “Behold, I lay a stone in Zion, a tested stone, a precious cornerstone for a sure foundation; the one who believes in it will not be disturbed.
 
-## Isaiah 28:17  
-I will make justice the measuring line  
-And righteousness the level;  
-Then hail will sweep away the refuge of lies,  
-And the waters will overflow the secret place.
+## Isaiah 28:17
+I will make justice the measuring line and righteousness the plumb line; hail will sweep away the refuge of lies, and waters will overflow the hiding place.
 
-## Isaiah 28:18  
-Your covenant with death will be canceled,  
-And your pact with Sheol will not stand;  
-When the gushing flood passes through,  
-Then you will become its trampling ground.
+## Isaiah 28:18
+Your covenant with death will be annulled, and your agreement with Sheol will not stand; when the overwhelming scourge passes through, you will be trampled by it.
 
-## Isaiah 28:19  
-As often as it passes through, it will seize you;  
-For morning after morning it will pass through, anytime during the day or night,  
-And it will be sheer terror to understand what it means.”
+## Isaiah 28:19
+As often as it passes through, it will seize you; morning after morning, by day and by night, it will sweep through. The understanding of this message will bring sheer terror.
 
-## Isaiah 28:20  
-The bed is too short on which to stretch out,  
-And the blanket is too small to wrap oneself in.
+## Isaiah 28:20
+The bed is too short to stretch out on, and the blanket too narrow to wrap oneself in.
 
-## Isaiah 28:21  
-For the Lord will rise up as at Mount Perazim,  
-He will be stirred up as in the valley of Gibeon,  
-To do His task, His unusual task,  
-And to work His work, His extraordinary work.
+## Isaiah 28:21
+For the Lord will rise up as he did at Mount Perazim, he will be stirred as in the Valley of Gibeon, to do his work, his strange work, and to perform his task, his alien task.
 
-## Isaiah 28:22  
-And now do not carry on as scoffers,  
-Or your shackles will be made stronger;  
-For I have heard from the Lord God of armies  
-Of decisive destruction on all the earth.
+## Isaiah 28:22
+Now stop your mocking, or your shackles will be made heavier; for I have heard from the Lord God of hosts of decisive destruction upon the whole land.
 
-## Isaiah 28:23  
-Listen and hear my voice,  
-Pay attention and hear my words.
+## Isaiah 28:23
+Listen and hear my voice; pay attention and hear my words.
 
-## Isaiah 28:24  
-Does the farmer plow continually to plant seed?  
-Does he continually turn and break up his ground?
+## Isaiah 28:24
+Does the farmer plough continually to plant seed? Does he continually turn and break up his ground?
 
-## Isaiah 28:25  
-Does he not level its surface  
-And sow dill and scatter cumin  
-And plant wheat in rows,  
-Barley in its place and rye within its area?
+## Isaiah 28:25
+When he has levelled its surface, does he not sow dill and scatter cumin, and plant wheat in rows, barley in its place, and rye in its area?
 
-## Isaiah 28:26  
-For his God instructs and teaches him properly.
+## Isaiah 28:26
+His God instructs him and teaches him the right way.
 
-## Isaiah 28:27  
-For dill is not threshed with a threshing sledge,  
-Nor is the cartwheel driven over cumin;  
-But dill is beaten out with a rod,  
-And cumin with a club.
+## Isaiah 28:27
+Dill is not threshed with a sledge, nor is the cartwheel driven over cumin; but dill is beaten out with a rod, and cumin with a stick.
 
-## Isaiah 28:28  
-Grain for bread is crushed,  
-Indeed, he does not continue to thresh it forever.  
-Because the wheel of his cart and his horses eventually damage it,  
-He does not thresh it longer.
+## Isaiah 28:28
+Grain must be crushed to make bread; one does not continue to thresh it forever. Though the wheels of a cart may be rolled over it, one does not use horses to grind grain.
 
-## Isaiah 28:29  
-This also comes from the Lord of armies,  
-Who has made His counsel wonderful and His wisdom great.
+## Isaiah 28:29
+All this also comes from the Lord of hosts, whose counsel is wonderful and whose wisdom is great.

@@ -2,187 +2,164 @@
 
 ## Acts 4:1
 
-As they were speaking to the people, the priests and the captain of the temple guard and the Sadducees came up to them,
+While they were addressing the people, the priests, the captain of the temple guard, and the Sadducees approached them,
 
 ## Acts 4:2
 
-being greatly disturbed because they were teaching the people and proclaiming in Jesus the resurrection from the dead.
+being greatly troubled because the apostles were instructing the people and proclaiming the resurrection of the dead through Jesus.
 
 ## Acts 4:3
 
-And they laid hands on them and put them in prison until the next day, for it was already evening.
+They apprehended Peter and John and, as it was already evening, placed them in custody until the following day.
 
 ## Acts 4:4
 
-But many of those who had heard the message believed;  
-and the number of the men came to be about five thousand.
+However, many who heard the message believed, and the number of men who believed grew to about five thousand.
 
 ---
 
 ## Acts 4:5
 
-On the next day, their rulers, elders, and scribes were gathered together in Jerusalem;
+The next day, the rulers, elders, and scribes assembled in Jerusalem.
 
 ## Acts 4:6
 
-and Annas the high priest was there, and Caiaphas, John, Alexander,  
-and all who were of high-priestly descent.
+Annas the high priest was present, along with Caiaphas, John, Alexander, and others of the high priestly lineage.
 
 ## Acts 4:7
 
-When they had placed them in the centre, they began to inquire,  
-“By what power, or in what name, have you done this?”
+They had Peter and John brought before them and began to question them: “By what power or in what name have you done this?”
 
 ## Acts 4:8
 
-Then Peter, filled with the Holy Spirit, said to them,  
-“Rulers and elders of the people,
+Then Peter, filled with the Holy Spirit, addressed them: “Rulers and elders of the people,
 
 ## Acts 4:9
 
-if we are being examined today for a good deed done to a sick man,  
-as to how this man has been made well,
+if we are being examined today for a good deed done to a disabled man, as to how he has been healed,
 
 ## Acts 4:10
 
-let it be known to all of you, and to all the people of Israel,  
-that by the name of Jesus Christ the Nazarene, whom you crucified, whom God raised from the dead—  
-by this name this man stands here before you in good health.
+let it be known to all of you and to all the people of Israel, that by the name of Jesus Christ of Nazareth, whom you crucified and whom God raised from the dead, this man stands before you healed.
 
 ## Acts 4:11
 
 He is
 
-> the stone which was rejected by you, the builders,  
-> but which became the chief cornerstone.
+> ‘the stone you builders rejected,
+> which has become the chief cornerstone.’
 
 ## Acts 4:12
 
-And there is salvation in no one else;  
-for there is no other name under heaven that has been given among mankind by which we must be saved.”
+And there is salvation in no one else, for there is no other name under heaven given among mankind by which we must be saved.”
 
 ---
 
 ## Acts 4:13
 
-Now as they observed the confidence of Peter and John and understood that they were uneducated and untrained men,  
-they were amazed, and began to recognise them as having been with Jesus.
+When they observed the boldness of Peter and John and realised that they were uneducated and ordinary men, they were amazed and recognised them as having been with Jesus.
 
 ## Acts 4:14
 
-And seeing the man who had been healed standing with them, they had nothing to say in reply.
+But seeing the man who had been healed standing with them, they had nothing to say in opposition.
 
 ## Acts 4:15
 
-But when they had ordered them to leave the Council, they began to confer with one another,
+So they ordered them to leave the Council and conferred among themselves,
 
 ## Acts 4:16
 
-saying,  
-“What are we to do with these men?  
-For the fact that a noteworthy miracle has taken place through them is apparent to all who live in Jerusalem,  
-and we cannot deny it.
+saying, “What shall we do with these men? For it is evident to all who dwell in Jerusalem that a notable miracle has occurred through them, and we cannot deny it.
 
 ## Acts 4:17
 
-But so that it will not spread any further among the people, let’s warn them not to speak any longer to any person in this name.”
+But to prevent this from spreading further among the people, let us warn them not to speak any longer to anyone in this name.”
 
 ## Acts 4:18
 
-And when they had summoned them, they commanded them not to speak or teach at all in the name of Jesus.
+And when they called them back, they commanded them not to speak or teach at all in the name of Jesus.
 
 ## Acts 4:19
 
-But Peter and John answered and said to them,  
-“Whether it is right in the sight of God to listen to you rather than to God, make your own judgment;
+But Peter and John answered them, “Judge for yourselves whether it is right in God’s sight to listen to you rather than to God.
 
 ## Acts 4:20
 
-for we cannot stop speaking about what we have seen and heard.”
+For we cannot stop speaking about what we have seen and heard.”
 
 ## Acts 4:21
 
-When they had threatened them further, they let them go (finding no grounds on which to punish them)  
-on account of the people, because they were all glorifying God for what had happened;
+After further threats, they released them, finding no way to punish them because all the people were glorifying God for what had happened.
 
 ## Acts 4:22
 
-for the man on whom this miracle of healing had been performed was more than forty years old.
+For the man who was miraculously healed was over forty years old.
 
 ---
 
 ## Acts 4:23
 
-When they had been released, they went to their own companions and reported everything  
-that the chief priests and the elders had said to them.
+Upon their release, Peter and John returned to their own people and reported all that the chief priests and elders had said to them.
 
 ## Acts 4:24
 
-And when they heard this, they raised their voices to God with one mind and said,  
-“Lord, it is You who made the heaven and the earth and the sea, and everything that is in them,
+When they heard this, they raised their voices together to God and said, “Sovereign Lord, you made the heavens and the earth and the sea, and everything in them.
 
 ## Acts 4:25
 
-who by the Holy Spirit, through the mouth of our father David Your servant, said,
+You spoke by the Holy Spirit through the mouth of your servant, our father David:
 
-> ‘Why were the nations insolent,  
-> And the peoples plotting in vain?
+> ‘Why do the nations rage
+> and the peoples plot in vain?
 
 ## Acts 4:26
 
-> The kings of the earth took their stand,  
-> And the rulers were gathered together  
-> Against the Lord and against His Christ.’
+> The kings of the earth rise up and the rulers gather together
+> against the Lord and
+> against his Anointed One.’
 
 ## Acts 4:27
 
-For truly in this city there were gathered together against Your holy Servant Jesus, whom You anointed,  
-both Herod and Pontius Pilate, along with the Gentiles and the peoples of Israel,
+Indeed, Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.
 
 ## Acts 4:28
 
-to do whatever Your hand and purpose predestined to occur.
+They carried out what your power and will had decided beforehand should happen.
 
 ## Acts 4:29
 
-And now, Lord, look at their threats, and grant it to Your bond-servants to speak Your word with all confidence,
+Now, Lord, consider their threats and enable your servants to speak your word with great boldness,
 
 ## Acts 4:30
 
-while You extend Your hand to heal, and signs and wonders take place through the name of Your holy Servant Jesus.”
+while you stretch out your hand to heal and perform signs and wonders through the name of your holy servant Jesus.”
 
 ## Acts 4:31
 
-And when they had prayed, the place where they had gathered together was shaken,  
-and they were all filled with the Holy Spirit and began to speak the word of God with boldness.
+After they prayed, the place where they were gathered was shaken. They were all filled with the Holy Spirit and spoke the word of God boldly.
 
 ---
 
 ## Acts 4:32
 
-And the congregation of those who believed were of one heart and soul;  
-and not one of them claimed that anything belonging to him was his own,  
-but all things were common property to them.
+The congregation of believers were of one heart and soul. No one claimed any of their possessions as their own, but they shared everything they had.
 
 ## Acts 4:33
 
-And with great power the apostles were giving testimony to the resurrection of the Lord Jesus,  
-and abundant grace was upon them all.
+With great power, the apostles continued to testify to the resurrection of the Lord Jesus, and abundant grace was upon them all.
 
 ## Acts 4:34
 
-For there was not a needy person among them,  
-for all who were owners of land or houses would sell them and bring the proceeds of the sales
+There were no needy persons among them. From time to time, those who owned land or houses sold them, brought the proceeds
 
 ## Acts 4:35
 
-and lay them at the apostles’ feet, and they would be distributed to each to the extent that any had need.
+and laid them at the apostles’ feet, and they were distributed to anyone who had need.
 
 ## Acts 4:36
 
-Now Joseph, a Levite of Cyprian birth, who was also called Barnabas by the apostles  
-(which is translated, Son of Encouragement),
+Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”),
 
 ## Acts 4:37
 
-owned a tract of land. So he sold it, and brought the money and laid it at the apostles’ feet.
+sold a field he owned, brought the money, and laid it at the apostles’ feet.

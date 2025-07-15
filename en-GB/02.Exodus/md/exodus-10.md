@@ -1,89 +1,88 @@
 # Exodus Chapter 10
 
 ## Exodus 10:1
-Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his officials so that I may perform these signs among them,
+Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and the hearts of his servants, so that I may perform these signs of mine among them,
 
 ## Exodus 10:2
-so that you may tell your children and grandchildren how I dealt harshly with the Egyptians and performed My signs among them, and that you may know that I am the Lord.”
+that you may recount to your sons and grandsons how I made a mockery of the Egyptians and how I performed my signs among them, so that you may know that I am the Lord.”
 
 ## Exodus 10:3
-So Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of the Hebrews, says: How long will you refuse to humble yourself before Me? Let My people go, so that they may worship Me.
+So Moses and Aaron went to Pharaoh and said to him, “This is what the Lord, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before me? Let my people go, so that they may serve me.
 
 ## Exodus 10:4
-If you refuse to let them go, I will bring locusts into your country tomorrow.
+For if you refuse to let my people go, behold, tomorrow I will bring locusts into your territory.
 
 ## Exodus 10:5
-They will cover the ground so completely that no one will be able to see the earth. They will devour what little remains after the hail, including every tree still growing in your fields.
+They will cover the surface of the land so that no one will be able to see it. They will devour what is left to you after the hail, including every tree that grows in your fields.
 
 ## Exodus 10:6
-They will fill your houses and those of all your officials and all the Egyptians—something neither your ancestors nor their ancestors have seen since they settled in this land.” Then Moses turned and left Pharaoh.
+Your houses will be filled with them, along with the houses of all your servants and all the Egyptians—something neither your fathers nor your grandfathers have seen from the day they settled in this land until now.’” Then Moses turned and left Pharaoh.
 
 ## Exodus 10:7
-Pharaoh’s officials said to him, “How long will this man be a snare to us? Let the people go so they may worship the Lord their God. Do you not yet understand that Egypt is ruined?”
+Then Pharaoh’s servants said to him, “How long will this man be a snare to us? Let the people go, so that they may serve the Lord their God. Do you not yet realise that Egypt is destroyed?”
 
 ## Exodus 10:8
-Then Moses and Aaron were brought back to Pharaoh. “Go, worship the Lord your God,” he said. “But who exactly will be going?”
+So Moses and Aaron were brought back to Pharaoh, and he said to them, “Go, serve the Lord your God! But tell me who will be going.”
 
 ## Exodus 10:9
-Moses replied, “We will go with our young and our old, with our sons and daughters, and with our flocks and herds, for we must celebrate a festival to the Lord.”
+Moses said, “We shall go with our young and our old, with our sons and our daughters, and with our flocks and herds, for we must hold a feast to the Lord.”
 
 ## Exodus 10:10
-Pharaoh said, “The Lord be with you—if I let you go, along with your women and children! Clearly you are bent on evil.
+Then he said to them, “The Lord be with you if I let you go with your little ones! Clearly, you have evil intentions.
 
 ## Exodus 10:11
-No! Have only the men go and worship the Lord, since that’s what you have been asking for.” Then Moses and Aaron were driven out of Pharaoh’s presence.
+No! Only the men may go and serve the Lord, since that is what you desire.” Then Moses and Aaron were driven out from Pharaoh’s presence.
 
 ## Exodus 10:12
-And the Lord said to Moses, “Stretch out your hand over Egypt so that locusts will swarm over the land and devour everything growing in the fields—everything left by the hail.”
+Then the Lord said to Moses, “Stretch out your hand over the land of Egypt for the locusts, so that they may come upon the land and devour every plant of the land, everything left by the hail.”
 
 ## Exodus 10:13
-So Moses stretched out his staff over Egypt, and the Lord made an east wind blow across the land all that day and night. By morning the wind had brought the locusts.
+So Moses stretched out his staff over the land of Egypt, and the Lord directed an east wind on the land all that day and all that night. By morning, the wind had brought the locusts.
 
 ## Exodus 10:14
-They invaded all Egypt and settled in vast numbers. Never before had there been such a plague of locusts, nor will there ever be again.
+The locusts came up over all the land of Egypt and settled in all the territory of Egypt in great numbers. Never before had there been such a plague of locusts, nor will there ever be again.
 
 ## Exodus 10:15
-They covered the surface of the land until it was dark with them. They devoured all the plants in the fields and all the fruit on the trees that had survived the hail. Nothing green remained.
+They covered the surface of the whole land until it was darkened. They devoured every plant of the land and all the fruit of the trees that the hail had left. Nothing green remained on tree or plant throughout the land of Egypt.
 
 ## Exodus 10:16
-Pharaoh quickly summoned Moses and Aaron and said, “I have sinned against the Lord your God and against you.
+Then Pharaoh hurriedly called for Moses and Aaron and said, “I have sinned against the Lord your God and against you.
 
 ## Exodus 10:17
-Now forgive my sin once more and pray to the Lord your God to take this deadly plague away from me.”
+Now forgive my sin, please, only this once, and plead with the Lord your God to take away this death from me.”
 
 ## Exodus 10:18
-Moses left Pharaoh and prayed to the Lord.
+Then Moses left Pharaoh and pleaded with the Lord.
 
 ## Exodus 10:19
-And the Lord changed the wind to a very strong west wind, which caught up the locusts and blew them into the Red Sea. Not a single locust remained anywhere in Egypt.
+So the Lord changed the wind to a very strong west wind, which picked up the locusts and drove them into the Red Sea. Not a single locust was left in all the territory of Egypt.
 
 ## Exodus 10:20
-But the Lord hardened Pharaoh’s heart, and he would not let the Israelites go.
+But the Lord hardened Pharaoh’s heart, and he did not let the Israelites go.
 
 ## Exodus 10:21
-Then the Lord said to Moses, “Stretch out your hand toward the sky so that darkness spreads over Egypt—a darkness that can be felt.”
+Then the Lord said to Moses, “Stretch out your hand toward the sky, so that darkness spreads over the land of Egypt—a darkness that can be felt.”
 
 ## Exodus 10:22
-So Moses stretched out his hand toward the sky, and total darkness covered all Egypt for three days.
+So Moses stretched out his hand toward the sky, and thick darkness covered all the land of Egypt for three days.
 
 ## Exodus 10:23
-No one could see anyone else or leave their place for three days. Yet all the Israelites had light in the places where they lived.
+No one could see another, nor did anyone rise from his place for three days. Yet all the Israelites had light in their dwellings.
 
 ## Exodus 10:24
-Then Pharaoh summoned Moses and said, “Go, worship the Lord. Even your women and children may go with you—only leave your flocks and herds behind.”
+Then Pharaoh called for Moses and said, “Go, serve the Lord; even your little ones may go with you, but leave your flocks and herds behind.”
 
 ## Exodus 10:25
-But Moses said, “You must also let us take sacrifices and burnt offerings to present to the Lord our God.
+But Moses said, “You must also let us have sacrifices and burnt offerings to present to the Lord our God.
 
 ## Exodus 10:26
-Our livestock too must go with us—not a hoof is to be left behind. We must use some of them to worship the Lord our God, and until we get there, we won’t know what we are to offer.”
+Our livestock too must go with us; not a hoof shall be left behind. We must take some of them to serve the Lord our God, and until we arrive there, we do not know what we shall use to serve the Lord.”
 
 ## Exodus 10:27
 But the Lord hardened Pharaoh’s heart, and he was not willing to let them go.
 
 ## Exodus 10:28
-Pharaoh said to Moses, “Get out of my sight! Make sure you do not appear before me again! The day you see my face you will die.”
+Then Pharaoh said to Moses, “Get away from me! Be sure you do not see my face again, for on the day you see my face, you shall die.”
 
 ## Exodus 10:29
-“Just as you say,” Moses replied. “I will never appear before you again.”
-
+Moses said, “You have spoken correctly; I shall never see your face again!”

@@ -1,110 +1,109 @@
 # Leviticus Chapter 8
 
 ## Leviticus 8:1
-The Lord said to Moses:
+The Lord spoke to Moses, saying,
 
 ## Leviticus 8:2
-“Bring Aaron and his sons, their garments, the anointing oil, a bull for the sin offering, two rams, and a basket of unleavened bread.
+“Bring Aaron and his sons, along with their garments, the anointing oil, the bull for the sin offering, the two rams, and the basket of unleavened bread,
 
 ## Leviticus 8:3
-Assemble the whole community at the entrance to the tent of meeting.”
+and assemble the entire congregation at the entrance to the tent of meeting.”
 
 ## Leviticus 8:4
-Moses did as the Lord commanded, and the community gathered at the entrance.
+Moses did just as the Lord commanded him, and the congregation gathered at the entrance to the tent of meeting.
 
 ## Leviticus 8:5
-Moses said, “This is what the Lord has commanded to be done.”
+Moses said to the congregation, “This is what the Lord has commanded to be done.”
 
 ## Leviticus 8:6
 Then Moses brought Aaron and his sons forward and washed them with water.
 
 ## Leviticus 8:7
-He put the tunic on Aaron, tied the sash around him, clothed him with the robe, and put the ephod on him. He fastened the woven waistband of the ephod around him.
+He clothed Aaron with the tunic, tied the sash around him, dressed him in the robe, and placed the ephod on him. He also fastened the ephod with a decorative waistband, securing it around him.
 
 ## Leviticus 8:8
-He placed the breastpiece on him and put the Urim and Thummim into it.
+He placed the breastpiece on him and put the Urim and Thummim into the breastpiece.
 
 ## Leviticus 8:9
-He set the turban on Aaron’s head and placed the gold plate, the sacred emblem, on the front of the turban, as the Lord commanded.
+He set the turban on Aaron’s head and placed the gold plate, the holy emblem, on the front of the turban, as the Lord commanded Moses.
 
 ## Leviticus 8:10
-Then Moses took the anointing oil and anointed the tabernacle and everything in it, making them holy.
+Moses took the anointing oil and anointed the tabernacle and everything within it, consecrating them.
 
 ## Leviticus 8:11
-He sprinkled some of the oil seven times on the altar, anointing the altar and its utensils, the basin and its stand, to consecrate them.
+He sprinkled some of the oil on the altar seven times, anointing the altar and all its utensils, as well as the basin with its stand, to consecrate them.
 
 ## Leviticus 8:12
-He poured some of the anointing oil on Aaron’s head and anointed him to consecrate him.
+He poured some of the anointing oil on Aaron’s head, anointing him to consecrate him.
 
 ## Leviticus 8:13
-Then Moses brought Aaron’s sons forward, dressed them in tunics, tied sashes around them, and fastened caps on them, as the Lord commanded.
+Moses then brought Aaron’s sons forward, dressed them in tunics, tied sashes around them, and bound caps on them, as the Lord commanded Moses.
 
 ## Leviticus 8:14
-He brought the bull for the sin offering, and Aaron and his sons laid their hands on its head.
+He presented the bull for the sin offering, and Aaron and his sons laid their hands on its head.
 
 ## Leviticus 8:15
-Moses slaughtered the bull and took some of its blood. With his finger he put it on the horns of the altar to purify it, and poured out the rest at its base.
+Moses slaughtered the bull, took some of the blood, and with his finger put it on the horns of the altar to purify it. He poured out the rest of the blood at the base of the altar, consecrating it to make atonement for it.
 
 ## Leviticus 8:16
-He took all the fat around the internal organs, the long lobe of the liver, and the kidneys with their fat, and burned them on the altar.
+He took all the fat surrounding the internal organs, the long lobe of the liver, and the two kidneys with their fat, and burned them on the altar.
 
 ## Leviticus 8:17
-But the bull’s hide, flesh, and intestines he burned outside the camp, as the Lord commanded.
+But the bull, with its hide, flesh, and intestines, he burned outside the camp, as the Lord commanded Moses.
 
 ## Leviticus 8:18
-Then he presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head.
+He then presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head.
 
 ## Leviticus 8:19
-Moses slaughtered the ram and splashed the blood against the sides of the altar.
+Moses slaughtered the ram and sprinkled the blood around the altar.
 
 ## Leviticus 8:20
 He cut the ram into pieces and burned the head, the pieces, and the fat.
 
 ## Leviticus 8:21
-He washed the internal organs and legs with water and burned the whole ram on the altar as a pleasing aroma, a burnt offering to the Lord, as commanded.
+After washing the internal organs and the legs with water, he burned the whole ram on the altar. It was a burnt offering, a pleasing aroma, an offering by fire to the Lord, as the Lord commanded Moses.
 
 ## Leviticus 8:22
-Then he presented the other ram—the ram for ordination—and Aaron and his sons laid their hands on its head.
+He then presented the second ram, the ram of ordination, and Aaron and his sons laid their hands on its head.
 
 ## Leviticus 8:23
-Moses slaughtered it, took some of its blood and put it on Aaron’s right ear, right thumb, and right big toe.
+Moses slaughtered the ram and took some of its blood, putting it on the lobe of Aaron’s right ear, the thumb of his right hand, and the big toe of his right foot.
 
 ## Leviticus 8:24
-He did the same to Aaron’s sons. Then he splashed the blood against the altar on all sides.
+He also brought Aaron’s sons forward and put some of the blood on the lobes of their right ears, the thumbs of their right hands, and the big toes of their right feet. Moses then sprinkled the rest of the blood around the altar.
 
 ## Leviticus 8:25
-He took the fat portions, the fat tail, the internal fat, the kidneys with their fat, the long lobe of the liver, and the right thigh.
+He took the fat, the fat tail, all the fat around the internal organs, the long lobe of the liver, the two kidneys with their fat, and the right thigh.
 
 ## Leviticus 8:26
-From the basket of unleavened bread before the Lord, he took one thick loaf, one loaf with oil, and one thin loaf, placing them on the fat and right thigh.
+From the basket of unleavened bread before the Lord, he took one thick loaf, one loaf with olive oil, and one thin loaf, placing them on the fat portions and the right thigh.
 
 ## Leviticus 8:27
-He put all these in the hands of Aaron and his sons, who waved them before the Lord as a wave offering.
+He placed all these in the hands of Aaron and his sons, and waved them before the Lord as a wave offering.
 
 ## Leviticus 8:28
-Then Moses took them back and burned them on the altar on top of the burnt offering as an ordination offering—a pleasing aroma to the Lord.
+Moses then took them from their hands and burned them on the altar on top of the burnt offering. They were an ordination offering, a pleasing aroma, an offering by fire to the Lord.
 
 ## Leviticus 8:29
-He also took the breast and waved it before the Lord. It was Moses’ share of the ordination ram, as commanded.
+Moses took the breast and waved it before the Lord as a wave offering; it was his portion of the ordination ram, as the Lord commanded Moses.
 
 ## Leviticus 8:30
-Moses took some of the anointing oil and blood from the altar and sprinkled them on Aaron and his garments, and on his sons and their garments. So they were consecrated.
+Moses took some of the anointing oil and some of the blood from the altar and sprinkled it on Aaron and his garments, and on his sons and their garments. Thus, he consecrated Aaron and his garments, and his sons and their garments.
 
 ## Leviticus 8:31
-Moses said to Aaron and his sons, “Boil the meat at the entrance to the tent and eat it with the bread from the basket of ordination offerings, as commanded.”
+Moses then instructed Aaron and his sons, “Boil the meat at the entrance to the tent of meeting and eat it there with the bread from the basket of ordination offerings, as I was commanded: ‘Aaron and his sons shall eat it.’
 
 ## Leviticus 8:32
-“Burn any leftover meat and bread.”
+Burn the remainder of the meat and bread.
 
 ## Leviticus 8:33
-“Do not leave the entrance of the tent for seven days, until your ordination days are complete, because it takes seven days to ordain you.”
+Do not leave the entrance to the tent of meeting for seven days, until the period of your ordination is completed, for your ordination will last seven days.
 
 ## Leviticus 8:34
-“What has been done today was commanded by the Lord to make atonement for you.”
+What has been done today was commanded by the Lord to make atonement for you.
 
 ## Leviticus 8:35
-“Stay at the entrance day and night for seven days. Do not leave until the time is completed, or you will die, for this is what the Lord has commanded.”
+You must remain at the entrance to the tent of meeting day and night for seven days and perform your duty to the Lord, so that you will not die; for that is what I have been commanded.”
 
 ## Leviticus 8:36
-So Aaron and his sons did everything the Lord commanded through Moses.
-
+Thus Aaron and his sons did all the things which the Lord had commanded through Moses.

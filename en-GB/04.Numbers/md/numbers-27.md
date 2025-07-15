@@ -1,71 +1,70 @@
 # Numbers Chapter 27
 
 ## Numbers 27:1
-The daughters of Zelophehad, son of Hepher, son of Gilead, son of Machir, son of Manasseh, from the clans of Manasseh son of Joseph, came forward. Their names were Mahlah, Noah, Hoglah, Milkah, and Tirzah.
+The daughters of Zelophehad, son of Hepher, son of Gilead, son of Makir, son of Manasseh, from the families of Manasseh, son of Joseph, came forward. The names of the daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 
 ## Numbers 27:2
-They stood before Moses, Eleazar the priest, the leaders, and all the congregation at the entrance to the tent of meeting, and said:
+They stood before Moses, Eleazar the priest, the leaders, and the entire assembly at the entrance to the tent of meeting and said,
 
 ## Numbers 27:3
-“Our father died in the wilderness. He was not among those who banded together with Korah against the Lord, but died for his own sin and had no sons.
+“Our father died in the wilderness. He was not among those who banded together against the Lord with Korah, but he died for his own sin and left no sons.
 
 ## Numbers 27:4
-Why should our father’s name be removed from his clan simply because he had no male children? Give us property among our father’s relatives.”
+Why should our father's name vanish from his family because he had no son? Grant us property among our father's relatives.”
 
 ## Numbers 27:5
-So Moses brought their case before the Lord.
+Moses brought their case before the Lord.
 
 ## Numbers 27:6
-The Lord said to Moses:
+The Lord spoke to Moses,
 
 ## Numbers 27:7
-“The claim of Zelophehad’s daughters is just. You must certainly grant them a legal inheritance among their father’s relatives and transfer their father’s property to them.
+“The daughters of Zelophehad speak rightly. You shall indeed give them an inheritance among their father's brothers and transfer their father's inheritance to them.
 
 ## Numbers 27:8
-Say to the Israelites: If a man dies without a son, his inheritance is to be passed to his daughter.
+Speak to the Israelites, saying, ‘If a man dies and has no son, then transfer his inheritance to his daughter.
 
 ## Numbers 27:9
 If he has no daughter, give his inheritance to his brothers.
 
 ## Numbers 27:10
-If he has no brothers, give it to his father’s brothers.
+If he has no brothers, give his inheritance to his father's brothers.
 
 ## Numbers 27:11
-If his father had no brothers, give it to his nearest relative in his clan. This is to be a legal requirement for the Israelites, as the Lord commanded Moses.”
+If his father had no brothers, give his inheritance to the nearest relative in his family, and he shall possess it. This shall be a statute for the Israelites, as the Lord commanded Moses.’”
 
 ## Numbers 27:12
-Then the Lord said to Moses, “Go up this mountain of Abarim and view the land I have given to the Israelites.
+The Lord said to Moses, “Go up this mountain in the Abarim Range and view the land I have given to the Israelites.
 
 ## Numbers 27:13
-After you have seen it, you too will be gathered to your people, just as your brother Aaron was.
+After you have seen it, you too will be gathered to your people, as your brother Aaron was,
 
 ## Numbers 27:14
-For when the people quarrelled in the Wilderness of Zin, you rebelled against My instruction concerning the waters at Meribah and failed to uphold My holiness before them.”
+because you rebelled against my command at the waters of Meribah in the Desert of Zin, failing to uphold my holiness before the Israelites.” (These are the waters of Meribah of Kadesh in the Desert of Zin.)
 
 ## Numbers 27:15
-Then Moses said to the Lord,
+Moses spoke to the Lord,
 
 ## Numbers 27:16
-“Let the Lord, the God of the spirits of all humanity, appoint someone over the community,
+“May the Lord, the God who gives life to all, appoint a leader over the community,
 
 ## Numbers 27:17
-to lead them out and bring them in, so that the Lord’s people will not be like sheep without a shepherd.”
+one who will lead them out and bring them in, so the Lord’s people will not be like sheep without a shepherd.”
 
 ## Numbers 27:18
-The Lord replied to Moses, “Take Joshua son of Nun, a man in whom is the Spirit, and lay your hand upon him.
+The Lord said to Moses, “Take Joshua son of Nun, a man in whom is the spirit, and lay your hand on him.
 
 ## Numbers 27:19
-Have him stand before Eleazar the priest and the whole congregation. Commission him in their sight.
+Have him stand before Eleazar the priest and the entire assembly, and commission him in their sight.
 
 ## Numbers 27:20
-Give him some of your authority, so the entire community of Israel will obey him.
+Bestow some of your authority upon him, so that the whole community of the Israelites will obey him.
 
 ## Numbers 27:21
-He is to stand before Eleazar, who will obtain decisions for him through the Urim before the Lord. At his word they will go out and at his word they will return—he and all the Israelites with him.”
+He shall stand before Eleazar the priest, who will inquire for him by the decision of the Urim before the Lord. At his command, they shall go out, and at his command, they shall come in, both he and the entire community of the Israelites.”
 
 ## Numbers 27:22
-So Moses did as the Lord commanded. He took Joshua, had him stand before Eleazar and all the people,
+Moses did as the Lord commanded him. He took Joshua and had him stand before Eleazar the priest and the entire assembly.
 
 ## Numbers 27:23
-laid his hands on him and commissioned him, just as the Lord had spoken through Moses.
-
+He laid his hands on him and commissioned him, as the Lord had instructed through Moses.

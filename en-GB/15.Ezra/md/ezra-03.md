@@ -2,86 +2,56 @@
 
 ## Ezra 3:1
 
-Now when the seventh month came, and the sons of Israel were in the cities,  
-the people gathered together as one person to Jerusalem.
+When the seventh month arrived and the Israelites were settled in their towns, the people gathered together as one in Jerusalem.
 
 ## Ezra 3:2
 
-Then Jeshua the son of Jozadak and his brothers the priests, and Zerubbabel the son of Shealtiel and his brothers,  
-rose up and built the altar of the God of Israel to offer burnt offerings on it,  
-as it is written in the Law of Moses, the man of God.
+Then Jeshua son of Jozadak and his fellow priests, along with Zerubbabel son of Shealtiel and his associates, began to construct the altar of the God of Israel to offer burnt offerings on it, as it is written in the Law of Moses, the man of God.
 
 ## Ezra 3:3
 
-So they set up the altar on its foundation,  
-because they were terrified of the peoples of the lands;  
-and they offered burnt offerings on it to the Lord, burnt offerings morning and evening.
+Despite their fear of the surrounding peoples, they set the altar on its foundation and offered burnt offerings on it to the Lord, both morning and evening.
 
 ## Ezra 3:4
 
-And they celebrated the Feast of Booths, as it is written,  
-and offered the fixed number of burnt offerings daily, according to the ordinance, as each day required.
+They celebrated the Feast of Tabernacles, as it is written, and offered the prescribed number of burnt offerings each day, according to the ordinance.
 
 ## Ezra 3:5
 
-And afterward there was a continual burnt offering,  
-also for the new moons and for all the appointed festivals of the Lord that were consecrated,  
-and from everyone who offered a voluntary offering to the Lord.
+After this, they presented the regular burnt offerings, the offerings for the New Moons, and for all the appointed sacred festivals of the Lord, as well as those given as freewill offerings to the Lord.
 
 ## Ezra 3:6
 
-From the first day of the seventh month they began to offer burnt offerings to the Lord,  
-but the foundation of the temple of the Lord had not been laid.
+From the first day of the seventh month, they began to offer burnt offerings to the Lord, although the foundation of the Lord’s temple had not yet been laid.
 
 ---
 
 ## Ezra 3:7
 
-Then they gave money to the masons and carpenters,  
-and food, drink, and oil to the Sidonians and the Tyrians,  
-to bring cedar wood from Lebanon to the sea at Joppa,  
-according to the permission they had from Cyrus king of Persia.
-
----
+They provided money to the masons and carpenters, and food, drink, and oil to the Sidonians and Tyrians, to bring cedar logs from Lebanon to the sea at Joppa, as authorised by Cyrus king of Persia.
 
 ## Ezra 3:8
 
-Now in the second year of their coming to the house of God at Jerusalem,  
-in the second month, Zerubbabel the son of Shealtiel and Jeshua the son of Jozadak,  
-and the rest of their brothers the priests and the Levites,  
-and all who came from the captivity to Jerusalem, began the work  
-and appointed the Levites from twenty years old and upward to oversee the work of the house of the Lord.
+In the second year of their arrival at the house of God in Jerusalem, in the second month, Zerubbabel son of Shealtiel, Jeshua son of Jozadak, and the rest of their brothers—the priests, the Levites, and all who had returned from the captivity to Jerusalem—began the work. They appointed Levites twenty years old and upwards to oversee the building of the house of the Lord.
 
 ## Ezra 3:9
 
-Then Jeshua with his sons and brothers stood united with Kadmiel and his sons, the sons of Judah and the sons of Henadad with their sons and brothers the Levites,  
-to oversee those who performed the work in the house of God.
+Jeshua and his sons and brothers, along with Kadmiel and his sons, the sons of Hodaviah, and the sons of Henadad with their sons and brothers—all Levites—joined together to oversee those working on the house of God.
 
 ---
 
 ## Ezra 3:10
 
-Now when the builders had laid the foundation of the temple of the Lord,  
-the priests stood in their apparel with trumpets,  
-and the Levites, the sons of Asaph, with cymbals,  
-to praise the Lord according to the directions of King David of Israel.
+When the builders laid the foundation of the temple of the Lord, the priests stood in their vestments with trumpets, and the Levites, the sons of Asaph, with cymbals, to praise the Lord, as directed by King David of Israel.
 
 ## Ezra 3:11
 
-And they sang, praising and giving thanks to the Lord, saying,
-
-“For He is good, for His mercy is upon Israel forever.”
-
-And all the people shouted with a great shout when they praised the Lord because the foundation of the house of the Lord had been laid.
+With praise and thanksgiving, they sang to the Lord: “He is good; his love towards Israel endures forever.” And all the people gave a great shout of joy to the Lord, because the foundation of the house of the Lord was laid.
 
 ## Ezra 3:12
 
-Yet many of the priests and Levites and heads of fathers’ households,  
-the old men who had seen the first temple,  
-wept with a loud voice when the foundation of this house was laid before their eyes,  
-while many shouted aloud for joy,
+However, many of the older priests, Levites, and family heads, who had seen the former temple, wept aloud when they saw the foundation of this temple being laid, while many others shouted for joy.
 
 ## Ezra 3:13
 
-so that the people could not distinguish the sound of the shout of joy from the sound of the weeping of the people;  
-for the people were shouting with a loud voice, and the sound was heard far away.
+No one could distinguish the sound of the joyful shouts from the sound of weeping, because the people made so much noise, and the sound was heard far away.

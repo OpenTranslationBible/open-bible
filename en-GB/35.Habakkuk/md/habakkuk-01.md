@@ -2,110 +2,109 @@
 
 ## Habakkuk 1:1
 
-The pronouncement which Habakkuk the prophet saw:
+The oracle that the prophet Habakkuk witnessed.
 
 ## Habakkuk 1:2
 
-> How long, Lord, have I called for help, and You do not hear?  
-> I cry out to You, “Violence!” yet You do not save.
+> How long, O Lord, shall I cry for help, and you do not hear?
+> I shout to you, “Violence!” but you do not save.
 
 ## Habakkuk 1:3
 
-> Why do You make me see disaster,  
-> And make me look at destitution?  
-> Yes, devastation and violence are before me;  
-> Strife exists and contention arises.
+> Why do you make me see iniquity,
+> and why do you idly look at wrong?
+> Destruction and violence are before me;
+> strife and contention arise.
 
 ## Habakkuk 1:4
 
-> Therefore the Law is ignored,  
-> And justice is never upheld.  
-> For the wicked surround the righteous;  
-> Therefore justice comes out confused.
+> Therefore the law is ineffective,
+> and justice never emerges.
+> The wicked encircle the righteous,
+> so justice is distorted.
 
 ## Habakkuk 1:5
 
-> “Look among the nations! Watch!  
-> Be horrified! Be frightened speechless!  
-> For I am accomplishing a work in your days—  
-> You would not believe it even if you were told!
+> “Look among the nations,
+> observe, and be astounded.
+> For I am doing a work in your days
+> that you would not believe if told.
 
 ## Habakkuk 1:6
 
-> For behold, I am raising up the Chaldeans,  
-> That grim and impetuous people  
-> Who march throughout the earth  
-> To take possession of dwelling places that are not theirs.
+> For behold, I am raising up the Babylonians,
+> that fierce and impetuous nation,
+> who march through the breadth of the earth
+> to seize dwellings not their own.
 
 ## Habakkuk 1:7
 
-> They are terrifying and feared;  
-> Their justice and authority originate with themselves.
+> They are dreadful and fearsome;
+> their justice and dignity proceed from themselves.
 
 ## Habakkuk 1:8
 
-> Their horses are faster than leopards,  
-> And quicker than wolves in the evening.  
-> Their horsemen charge along,  
-> Their horsemen come from afar;  
-> They fly like an eagle swooping down to devour.
+> Their horses are swifter than leopards,
+> more fierce than the evening wolves.
+> Their horsemen press on proudly;
+> their horsemen come from afar.
+> They fly like an eagle hastening to devour.
 
 ## Habakkuk 1:9
 
-> All of them come for violence.  
-> Their horde of faces moves forward.  
+> They all come for violence,
+> their faces set forward.
 > They gather captives like sand.
 
 ## Habakkuk 1:10
 
-> They make fun of kings,  
-> And dignitaries are an object of laughter to them.  
-> They laugh at every fortress,  
-> Then heap up dirt and capture it.
+> They scoff at kings
+> and make princes a laughingstock.
+> They laugh at every stronghold,
+> for they heap up earth and take it.
 
 ## Habakkuk 1:11
 
-> Then they fly along like the wind and pass on.  
-> But they will be held guilty,  
-> They whose strength is their god.”
+> Then they sweep by like the wind and pass on.
+> But they are guilty men,
+> whose own might is their god.”
 
 ## Habakkuk 1:12
 
-> Are You not from time everlasting,  
-> Lord, my God, my Holy One?  
-> We will not die.  
-> You, Lord, have appointed them to deliver judgment;  
-> And You, O Rock, have destined them to punish.
+> Are you not from everlasting,
+> O Lord my God, my Holy One?
+> We shall not die.
+> O Lord, you have ordained them as a judgement,
+> and you, O Rock, have established them for reproof.
 
 ## Habakkuk 1:13
 
-> Your eyes are too pure to look at evil,  
-> And You cannot look at harm favourably.  
-> Why do You look favourably  
-> At those who deal treacherously?  
-> Why are You silent when the wicked swallow up  
-> Those more righteous than they?
+> Your eyes are too pure to behold evil,
+> and you cannot look on wrong with favour.
+> Why do you regard those who deal treacherously?
+> Why are you silent when the wicked swallow up
+> those more righteous than they?
 
 ## Habakkuk 1:14
 
-> Why have You made people like the fish of the sea,  
-> Like crawling things that have no ruler over them?
+> You have made mankind like the fish of the sea,
+> like creeping things that have no ruler.
 
 ## Habakkuk 1:15
 
-> The Chaldeans bring all of them up with a hook,  
-> Drag them away with their net,  
-> And gather them together in their fishing net.  
-> Therefore they rejoice and are joyful.
+> The foe brings all of them up with a hook,
+> he drags them out with his net,
+> he gathers them in his dragnet;
+> so he rejoices and is glad.
 
 ## Habakkuk 1:16
 
-> Therefore they offer a sacrifice to their net  
-> And burn incense to their fishing net,  
-> Because through these things their catch is large,  
-> And their food is plentiful.
+> Therefore he sacrifices to his net
+> and makes offerings to his dragnet;
+> for by them he lives in luxury,
+> and his food is rich.
 
 ## Habakkuk 1:17
 
-> Will they therefore empty their net,  
-> And continually slay nations without sparing?
+> Is he then to keep on emptying his net,
+> and mercilessly slaying nations forever?

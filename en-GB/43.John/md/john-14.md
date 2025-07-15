@@ -2,155 +2,132 @@
 
 ## John 14:1
 
-“Do not let your hearts be troubled; believe in God, believe also in Me.
+“Do not let your hearts be troubled. Trust in God; trust also in me.
 
 ## John 14:2
 
-In My Father’s house are many rooms; if that were not so, would I have told you that I am going there to prepare a place for you?
+In my Father’s house are many rooms. If it were not so, would I have told you that I am going there to prepare a place for you?
 
 ## John 14:3
 
-And if I go and prepare a place for you, I am coming again and will take you to Myself,  
-so that where I am, there you also will be.
+And if I go and prepare a place for you, I will return and take you to be with me so that you may also be where I am.
 
 ## John 14:4
 
-And you know the way where I am going.”
+And you know the way to where I am going.”
 
 ## John 14:5
 
-Thomas _said to Him_,  
-“Lord, we do not know where You are going; how do we know the way?”
+Thomas said to him, “Lord, we do not know where you are going, so how can we know the way?”
 
 ## John 14:6
 
-Jesus _said to him_,  
-“I am the way, and the truth, and the life; no one comes to the Father except through Me.
+Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through me.
 
 ## John 14:7
 
-If you had known Me, you would have known My Father also;  
-from now on you know Him, and have seen Him.”
+If you really knew me, you would know my Father as well. From now on, you do know him and have seen him.”
 
 ---
 
 ## John 14:8
 
-Philip _said to Him_, “Lord, show us the Father, and it is enough for us.”
+Philip said to him, “Lord, show us the Father, and that will be sufficient for us.”
 
 ## John 14:9
 
-Jesus _said to him_,  
-“Have I been with you for so long a time, and yet you have not come to know Me, Philip?  
-The one who has seen Me has seen the Father; how can you say, ‘Show us the Father’?
+Jesus said to him, “Have I been with you so long, and yet you do not know me, Philip? Anyone who has seen me has seen the Father. How can you say, ‘Show us the Father’?
 
 ## John 14:10
 
-Do you not believe that I am in the Father, and the Father is in Me?  
-The words that I say to you I do not speak on My own,  
-but the Father, as He remains in Me, does His works.
+Do you not believe that I am in the Father and the Father is in me? The words I speak to you are not from my own authority. Rather, it is the Father, living in me, who is doing his work.
 
 ## John 14:11
 
-Believe Me that I am in the Father and the Father is in Me; otherwise believe because of the works themselves.
+Believe me when I say that I am in the Father and the Father is in me; or at least believe on the evidence of the works themselves.
 
 ## John 14:12
 
-Truly, truly I say to you, the one who believes in Me, the works that I do, he will do also;  
-and greater works than these he will do, because I am going to the Father.
+Truly, truly I say to you, whoever believes in me will do the works I have been doing, and they will do even greater things than these, because I am going to the Father.
 
 ## John 14:13
 
-And whatever you ask in My name, this I will do, so that the Father may be glorified in the Son.
+And whatever you ask in my name, I will do, so that the Father may be glorified in the Son.
 
 ## John 14:14
 
-If you ask Me anything in My name, I will do it.
+If you ask me anything in my name, I will do it.
 
 ---
 
 ## John 14:15
 
-“If you love Me, you will keep My commandments.
+“If you love me, you will keep my commandments.
 
 ## John 14:16
 
-I will ask the Father, and He will give you another Helper, so that He may be with you forever;
+And I will ask the Father, and he will give you another Helper, to be with you forever—
 
 ## John 14:17
 
-the Helper is the Spirit of truth, whom the world cannot receive,  
-because it does not see Him or know Him; but you know Him because He remains with you and will be in you.
+the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.
 
 ## John 14:18
 
-I will not leave you as orphans; I am coming to you.
+I will not leave you as orphans; I will come to you.
 
 ## John 14:19
 
-After a little while, the world no longer is going to see Me, but you are going to see Me;  
-because I live, you also will live.
+In a little while, the world will not see me anymore, but you will see me. Because I live, you also will live.
 
 ## John 14:20
 
-On that day you will know that I am in My Father, and you are in Me, and I in you.
+On that day you will realise that I am in my Father, and you are in me, and I am in you.
 
 ## John 14:21
 
-The one who has My commandments and keeps them is the one who loves Me;  
-and the one who loves Me will be loved by My Father, and I will love him and will reveal Myself to him.”
+Whoever has my commandments and keeps them is the one who loves me. The one who loves me will be loved by my Father, and I too will love them and reveal myself to them.”
 
 ---
 
 ## John 14:22
 
-Judas (not Iscariot) _said to Him_,  
-“Lord, what has happened that You are going to reveal Yourself to us, and not to the world?”
+Then Judas (not Iscariot) said, “Lord, how is it that you are going to reveal yourself to us and not to the world?”
 
 ## John 14:23
 
-Jesus answered and said to him,  
-“If anyone loves Me, he will follow My word; and My Father will love him,  
-and We will come to him and make Our dwelling with him.
+Jesus replied, “If anyone loves me, he will obey my teaching. My Father will love him, and we will come to him and make our home with him.
 
 ## John 14:24
 
-The one who does not love Me does not follow My words;  
-and the word which you hear is not Mine, but the Father’s who sent Me.
+Anyone who does not love me will not obey my teaching. The words you hear are not my own; they belong to the Father who sent me.
 
 ---
 
 ## John 14:25
 
-These things I have spoken to you while remaining with you.
+“I have spoken these things to you while I am still with you.
 
 ## John 14:26
 
-But the Helper, the Holy Spirit whom the Father will send in My name,  
-He will teach you all things, and remind you of all that I said to you.
+But the Helper, the Holy Spirit, whom the Father will send in my name, will teach you all things and remind you of everything I have said to you.
 
 ## John 14:27
 
-Peace I leave you, My peace I give you; not as the world gives do I give to you.  
-Do not let your hearts be troubled, nor fearful.
+Peace I leave with you; my peace I give to you. I do not give to you as the world gives. Do not let your hearts be troubled, nor let them be afraid.
 
 ## John 14:28
 
-You heard that I said to you, ‘I am going away, and I am coming to you.’  
-If you loved Me, you would have rejoiced, because I am going to the Father,  
-for the Father is greater than I.
+You heard me say, ‘I am going away and I am coming back to you.’ If you loved me, you would be glad that I am going to the Father, for the Father is greater than I.
 
 ## John 14:29
 
-And now I have told you before it happens, so that when it does happen, you may believe.
+I have told you now before it happens, so that when it does happen you may believe.
 
 ## John 14:30
 
-I will not speak much more with you, for the ruler of the world is coming, and he has nothing in regard to Me,
+I will not say much more to you, for the ruler of this world is coming. He has no power over me,
 
 ## John 14:31
 
-but so that the world may know that I love the Father,  
-I do exactly as the Father commanded Me.
-
-Get up, let’s go from here.
+but he comes so that the world may learn that I love the Father and do exactly what my Father has commanded me. “Come now; let us leave.

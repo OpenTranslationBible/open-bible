@@ -1,221 +1,112 @@
 # Jeremiah Chapter 2
 
-## Jeremiah 2:1  
-Now the word of the Lord came to me, saying,
+## Jeremiah 2:1
+The word of the Lord came to me, saying:
 
-## Jeremiah 2:2  
-“Go and proclaim in the ears of Jerusalem, saying,  
-‘This is what the Lord says:  
-I remember regarding you the devotion of your youth,  
-Your love when you were a bride,  
-Your following after Me in the wilderness,  
-Through a land not sown.
+## Jeremiah 2:2
+“Go and proclaim in the ears of Jerusalem: ‘This is what the Lord says: “I remember the devotion of your youth, your love as a bride, how you followed me through the wilderness, through a land not sown.
 
-## Jeremiah 2:3  
-Israel was holy to the Lord,  
-The first of His harvest.  
-All who ate it became guilty;  
-Evil came upon them,” declares the Lord.’”
+## Jeremiah 2:3
+Israel was holy to the Lord, the firstfruits of his harvest. All who devoured her were held guilty; disaster came upon them,” declares the Lord.
 
-## Jeremiah 2:4  
-Hear the word of the Lord, house of Jacob,  
-And all the families of the house of Israel.
+## Jeremiah 2:4
+Hear the word of the Lord, you descendants of Jacob, all the families of the house of Israel.
 
-## Jeremiah 2:5  
-This is what the Lord says:  
-“What injustice did your fathers find in Me,  
-That they went far from Me  
-And walked after emptiness and became empty?
+## Jeremiah 2:5
+This is what the Lord says: “What fault did your ancestors find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves.
 
-## Jeremiah 2:6  
-They did not say, ‘Where is the Lord  
-Who brought us up out of the land of Egypt,  
-Who led us through the wilderness,  
-Through a land of deserts and of pits,  
-Through a land of drought and deep darkness,  
-Through a land that no one crossed  
-And where no person lived?’
+## Jeremiah 2:6
+They did not say, ‘Where is the Lord who brought us up out of Egypt, who led us through the barren wilderness, through a land of deserts and pits, a land of drought and deep darkness, a land where no one travels and no one lives?’
 
-## Jeremiah 2:7  
-I brought you into the fruitful land  
-To eat its fruit and its good things.  
-But you came and defiled My land,  
-And you made My inheritance an abomination.
+## Jeremiah 2:7
+I brought you into a fertile land to eat its fruit and good things. But you came and defiled my land and made my inheritance detestable.
 
-## Jeremiah 2:8  
-The priests did not say, ‘Where is the Lord?’  
-And those who handle the Law did not know Me;  
-The rulers also revolted against Me,  
-And the prophets prophesied by Baal  
-And walked after things that were of no benefit.
+## Jeremiah 2:8
+The priests did not say, ‘Where is the Lord?’ Those who handle the law did not know me; the rulers rebelled against me, and the prophets prophesied by Baal, following things that are of no benefit.
 
-## Jeremiah 2:9  
-Therefore I will still contend with you,” declares the Lord,  
-“And I will contend with your sons’ sons.
+## Jeremiah 2:9
+“Therefore I bring charges against you again,” declares the Lord. “And I will contend with your children’s children.
 
-## Jeremiah 2:10  
-For cross to the coastlands of Kittim and see,  
-And send to Kedar and observe closely,  
-And see if there has been anything like this!
+## Jeremiah 2:10
+Cross over to the coastlands of Kittim and see, send to Kedar and observe closely; see if there has ever been anything like this:
 
-## Jeremiah 2:11  
-Has a nation changed gods,  
-Though they were not gods?  
-But My people have exchanged their glory  
-For that which is of no benefit.
+## Jeremiah 2:11
+Has a nation ever changed its gods, even though they are not gods at all? But my people have exchanged their glorious God for that which is worthless.
 
-## Jeremiah 2:12  
-Be appalled at this, you heavens,  
-And shudder, be very desolate,” declares the Lord.
+## Jeremiah 2:12
+Be appalled at this, you heavens, and shudder with great horror,” declares the Lord.
 
-## Jeremiah 2:13  
-“For My people have committed two evils:  
-They have abandoned Me,  
-The fountain of living waters,  
-To carve out for themselves cisterns,  
-Broken cisterns that do not hold water.
+## Jeremiah 2:13
+“For my people have committed two sins: They have forsaken me, the fountain of living waters, and have dug their own cisterns, broken cisterns that cannot hold water.
 
-## Jeremiah 2:14  
-Is Israel a slave? Or is he a servant born in the home?  
-Why has he become plunder?
+## Jeremiah 2:14
+Is Israel a servant, a slave by birth? Why then has he become plunder?
 
-## Jeremiah 2:15  
-The young lions have roared at him, they have roared loudly.  
-And they have made his land a waste;  
-His cities have been destroyed, without inhabitant.
+## Jeremiah 2:15
+Lions have roared at him, they have roared loudly. They have laid waste his land; his towns are burned and deserted.
 
-## Jeremiah 2:16  
-Also the men of Memphis and Tahpanhes  
-Have shaved the crown of your head.
+## Jeremiah 2:16
+Also, the men of Memphis and Tahpanhes have cracked your skull.
 
-## Jeremiah 2:17  
-Have you not done this to yourself  
-By your abandoning the Lord your God  
-When He led you in the way?
+## Jeremiah 2:17
+Have you not brought this on yourselves by forsaking the Lord your God when he led you in the way?
 
-## Jeremiah 2:18  
-But now, what are you doing on the road to Egypt,  
-To drink the waters of the Nile?  
-Or what are you doing on the road to Assyria,  
-To drink the waters of the Euphrates?
+## Jeremiah 2:18
+Now why go to Egypt to drink the waters of the Nile? And why go to Assyria to drink the waters of the Euphrates?
 
-## Jeremiah 2:19  
-Your own wickedness will punish you,  
-And your apostasies will reprimand you;  
-Know therefore and see that it is evil and bitter  
-For you to abandon the Lord your God,  
-And the fear of Me is not in you,” declares the Lord God of armies.
+## Jeremiah 2:19
+Your wickedness will correct you, and your backsliding will rebuke you. Consider then and realise how evil and bitter it is for you to forsake the Lord your God and have no awe of me,” declares the Lord, the God of armies.
 
-## Jeremiah 2:20  
-“For long ago I broke your yoke  
-And tore off your restraints;  
-But you said, ‘I will not serve!’  
-For on every high hill  
-And under every leafy tree  
-You have lain down as a prostitute.
+## Jeremiah 2:20
+“Long ago you broke off your yoke and tore off your bonds; you said, ‘I will not serve you!’ Indeed, on every high hill and under every spreading tree you lay down as a prostitute.
 
-## Jeremiah 2:21  
-Yet I planted you as a choice vine,  
-A completely faithful seed.  
-How then have you turned yourself before Me  
-Into the degenerate shoots of a foreign vine?
+## Jeremiah 2:21
+I had planted you like a choice vine, a completely faithful seed. How then did you turn against me into a corrupt, wild vine?
 
-## Jeremiah 2:22  
-Although you wash yourself with lye  
-And use much soap,  
-The stain of your guilt is before Me,” declares the Lord God.
+## Jeremiah 2:22
+Although you wash yourself with lye and use much soap, the stain of your guilt is still before me,” declares the Sovereign Lord.
 
-## Jeremiah 2:23  
-“How can you say, ‘I am not defiled,  
-I have not gone after the Baals’?  
-Look at your way in the valley!  
-Know what you have done!  
-You are a swift young camel running aimlessly,
+## Jeremiah 2:23
+“How can you say, ‘I am not defiled; I have not run after the Baals’? See your behaviour in the valley; consider what you have done. You are a swift she-camel running here and there,
 
-## Jeremiah 2:24  
-A wild donkey accustomed to the wilderness,  
-That sniffs the wind in her passion.  
-In the mating season who can turn her away?  
-All who seek her will not become weary;  
-In her month they will find her.
+## Jeremiah 2:24
+a wild donkey accustomed to the desert, sniffing the wind in her craving— in her heat who can restrain her? Any males that pursue her need not tire themselves; at her time they will find her.
 
-## Jeremiah 2:25  
-Keep your feet from being bare,  
-And your throat from thirst.  
-But you said, ‘It is hopeless!  
-No! For I have loved strangers,  
-And I will walk after them.’
+## Jeremiah 2:25
+Do not run until your feet are bare and your throat is dry. But you said, ‘It is hopeless! I love foreign gods, and I must go after them.’
 
-## Jeremiah 2:26  
-As the thief is shamed when he is discovered,  
-So the house of Israel is shamed;  
-They, their kings, their leaders,  
-And their priests and their prophets,
+## Jeremiah 2:26
+“As a thief is disgraced when he is caught, so the house of Israel is disgraced— they, their kings, their officials, their priests, and their prophets.
 
-## Jeremiah 2:27  
-Who say to a tree, ‘You are my father,’  
-And to a stone, ‘You gave birth to me.’  
-For they have turned their back to Me,  
-And not their face;  
-But in the time of their trouble they will say,  
-‘Arise and save us!’
+## Jeremiah 2:27
+They say to wood, ‘You are my father,’ and to stone, ‘You gave me birth.’ They have turned their backs to me and not their faces; yet when they are in trouble, they say, ‘Come and save us!’
 
-## Jeremiah 2:28  
-But where are your gods  
-Which you made for yourself?  
-Let them arise, if they can save you  
-In the time of your trouble;  
-For your gods are as many as your cities, Judah.
+## Jeremiah 2:28
+Where then are the gods you made for yourselves? Let them arise if they can save you in your time of trouble! For you, Judah, have as many gods as you have towns.
 
-## Jeremiah 2:29  
-Why do you contend with Me?  
-You have all revolted against Me,” declares the Lord.
+## Jeremiah 2:29
+“Why do you bring charges against me? You have all rebelled against me,” declares the Lord.
 
-## Jeremiah 2:30  
-“In vain I have struck your sons;  
-They did not accept discipline.  
-Your sword has devoured your prophets  
-Like a destroying lion.
+## Jeremiah 2:30
+“In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravenous lion.
 
-## Jeremiah 2:31  
-You generation, look to the word of the Lord.  
-Have I been a wilderness to Israel,  
-Or a land of thick darkness?  
-Why do My people say, ‘We are free to roam;  
-We will no longer come to You’?
+## Jeremiah 2:31
+“You generation, consider the word of the Lord: Have I been a desert to Israel or a land of thick darkness? Why do my people say, ‘We are free to roam; we will come to you no more’?
 
-## Jeremiah 2:32  
-Can a virgin forget her jewelry,  
-Or a bride her attire?  
-Yet My people have forgotten Me  
-For days without number.
+## Jeremiah 2:32
+Does a young woman forget her jewellery, a bride her wedding ornaments? Yet my people have forgotten me, days without number.
 
-## Jeremiah 2:33  
-How well you prepare your way  
-To seek love!  
-Therefore even the wicked women  
-You have taught your ways.
+## Jeremiah 2:33
+How skilled you are at pursuing love! Even the worst of women can learn from your ways.
 
-## Jeremiah 2:34  
-Also on your skirts is found  
-The lifeblood of the innocent poor;  
-You did not find them breaking in.  
-But in spite of all these things,
+## Jeremiah 2:34
+On your clothes is found the lifeblood of the innocent poor, though you did not catch them breaking in. Yet in spite of all this
 
-## Jeremiah 2:35  
-You said, ‘I am innocent;  
-Certainly His anger is turned away from me.’  
-Behold, I will enter into judgment with you  
-Because you say, ‘I have not sinned.’
+## Jeremiah 2:35
+you say, ‘I am innocent; surely his anger is turned away from me.’ But I will pass judgment on you because you say, ‘I have not sinned.’
 
-## Jeremiah 2:36  
-Why do you go around so much  
-Changing your way?  
-Also, you will be put to shame by Egypt  
-As you were put to shame by Assyria.
+## Jeremiah 2:36
+Why do you go about so much, changing your ways? You will be disappointed by Egypt as you were by Assyria.
 
-## Jeremiah 2:37  
-From this place as well you will go out  
-With your hands on your head;  
-For the Lord has rejected those in whom you trust,  
-And you will not prosper with them.
+## Jeremiah 2:37
+You will also leave that place with your hands on your head, for the Lord has rejected those you trust; you will not prosper with them.

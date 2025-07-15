@@ -2,285 +2,241 @@
 
 ## Luke 23:1
 
-Then the entire assembly of them set out and brought Him before Pilate.
+Then the entire assembly arose and brought him to Pilate.
 
 ## Luke 23:2
 
-And they began to bring charges against Him, saying,  
-“We found this man misleading our nation and forbidding us to pay taxes to Caesar,  
-and saying that He Himself is Christ, a King.”
+They began to accuse him, saying, “We have found this man misleading our nation and opposing payment of taxes to Caesar, claiming to be Christ, a king.”
 
 ## Luke 23:3
 
-Now Pilate asked Him, saying, “So You are the King of the Jews?”  
-And He answered him and said, “It is as you say.”
+Pilate asked him, “Are you the king of the Jews?” Jesus replied, “It is as you say.”
 
 ## Luke 23:4
 
-But Pilate said to the chief priests and the crowds,  
-“I find no grounds for charges in the case of this man.”
+Then Pilate said to the chief priests and the crowd, “I find no basis for a charge against this man.”
 
 ## Luke 23:5
 
-But they kept on insisting, saying,  
-“He is stirring up the people, teaching all over Judea, starting from Galilee as far as this place!”
+But they insisted, “He stirs up the people, teaching throughout Judea, starting from Galilee and coming here.”
 
 ---
 
 ## Luke 23:6
 
-Now when Pilate heard this, he asked whether the man was a Galilean.
+When Pilate heard this, he asked if the man was a Galilean.
 
 ## Luke 23:7
 
-And when he learned that He belonged to Herod’s jurisdiction,  
-he sent Him to Herod, since he also was in Jerusalem at the time.
+Upon learning that he was under Herod’s jurisdiction, he sent him to Herod, who was also in Jerusalem at that time.
 
 ## Luke 23:8
 
-Now Herod was overjoyed when he saw Jesus;  
-for he had wanted to see Him for a long time, because he had been hearing about Him,  
-and was hoping to see some sign performed by Him.
+Herod was delighted to see Jesus, as he had wanted to see him for a long time, having heard about him and hoping to see him perform a sign.
 
 ## Luke 23:9
 
-And he questioned Him at some length; but He offered him no answer at all.
+He questioned him at length, but Jesus gave him no answer.
 
 ## Luke 23:10
 
-Now the chief priests and the scribes stood there, vehemently charging Him.
+The chief priests and the scribes stood there, vehemently accusing him.
 
 ## Luke 23:11
 
-And Herod, together with his soldiers, treated Him with contempt and mocked Him,  
-dressing Him in a brightly shining robe, and sent Him back to Pilate.
+Herod, with his soldiers, treated him with contempt and mocked him. Dressing him in an elegant robe, they sent him back to Pilate.
 
 ## Luke 23:12
 
-And so Herod and Pilate became friends with one another that very day;  
-for previously, they had been enemies toward each other.
+That day Herod and Pilate became friends; previously, they had been enemies.
 
 ---
 
 ## Luke 23:13
 
-Now Pilate summoned the chief priests, the rulers, and the people,
+Pilate called together the chief priests, the rulers, and the people,
 
 ## Luke 23:14
 
-and said to them,  
-“You brought this man to me on the ground that He is inciting the people to revolt;  
-and behold, after examining Him before you, I have found no basis at all in the case of this man  
-for the charges which you are bringing against Him.
+and said, “You brought me this man as one inciting the people to rebellion. I have examined him in your presence and found no basis for your charges against him.
 
 ## Luke 23:15
 
-No, nor has Herod, for he sent Him back to us; and behold, nothing deserving death has been done by Him.
+Neither has Herod, for he sent him back to us; as you see, he has done nothing deserving death.
 
 ## Luke 23:16
 
-Therefore I will punish Him and release Him.”
+Therefore, I will punish him and then release him.”
 
 ## Luke 23:17
 
-[Now he was obliged to release to them at the feast one prisoner.]
+[Now he was obliged to release one prisoner to them at the festival.]
 
 ## Luke 23:18
 
-But they cried out all together, saying,  
-“Away with this man, and release to us Barabbas!”
+But the whole crowd shouted, “Away with this man! Release Barabbas to us!”
 
 ## Luke 23:19
 
-(He was one who had been thrown into prison for a revolt that took place in the city, and for murder.)
+(Barabbas had been thrown into prison for a rebellion in the city and for murder.)
 
 ## Luke 23:20
 
-But Pilate, wanting to release Jesus, addressed them again,
+Wanting to release Jesus, Pilate addressed them again.
 
 ## Luke 23:21
 
-but they kept crying out, saying, “Crucify, crucify Him!”
+But they kept shouting, “Crucify him! Crucify him!”
 
 ## Luke 23:22
 
-And he said to them a third time,  
-“Why, what has this man done wrong?  
-I have found in His case no grounds for a sentence of death;  
-therefore I will punish Him and release Him.”
+For the third time he spoke to them: “Why? What crime has this man committed? I find no grounds for a death sentence. Therefore, I will punish him and release him.”
 
 ## Luke 23:23
 
-But they were insistent, with loud voices, demanding that He be crucified.  
-And their voices began to prevail.
+But they were insistent, with loud shouts demanding that he be crucified, and their voices prevailed.
 
 ## Luke 23:24
 
-And so Pilate decided to have their demand carried out.
+So Pilate decided to grant their demand.
 
 ## Luke 23:25
 
-And he released the man for whom they were asking, who had been thrown into prison for revolt and murder;  
-but he handed Jesus over to their will.
+He released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will.
 
 ---
 
 ## Luke 23:26
 
-And when they led Him away, they seized a man, Simon of Cyrene, as he was coming in from the country,  
-and placed on him the cross to carry behind Jesus.
+As they led him away, they seized Simon of Cyrene, who was coming in from the countryside, and placed the cross on him to carry behind Jesus.
 
 ## Luke 23:27
 
-Now following Him was a large crowd of the people, and of women who were mourning and grieving for Him.
+A large crowd followed, including women who mourned and lamented for him.
 
 ## Luke 23:28
 
-But Jesus turned to them and said,  
-“Daughters of Jerusalem, stop weeping for Me, but weep for yourselves and for your children.
+Jesus turned to them and said, “Daughters of Jerusalem, do not weep for me; weep for yourselves and for your children.
 
 ## Luke 23:29
 
-For behold, days are coming when they will say,  
-‘Blessed are those who cannot bear, and the wombs that have not given birth,  
-and the breasts that have not nursed!’
+For the time will come when you will say, ‘Blessed are the barren, the wombs that never bore, and the breasts that never nursed.’
 
 ## Luke 23:30
 
 Then
 
-> they will begin to say to the mountains, ‘Fall on us,’
+> they will say to the mountains, ‘Fall on us!’
 > and to the hills, ‘Cover us!’
 
 ## Luke 23:31
 
-For if they do these things when the tree is green, what will happen when it is dry?”
+For if people do these things when the tree is green, what will happen when it is dry?”
 
 ---
 
 ## Luke 23:32
 
-Now two others, who were criminals, were also being led away to be put to death with Him.
+Two other men, both criminals, were also led out with him to be executed.
 
 ## Luke 23:33
 
-And when they came to the place called The Skull,  
-there they crucified Him and the criminals, one on the right and the other on the left.
+When they came to the place called the Skull, they crucified him there, along with the criminals—one on his right, the other on his left.
 
 ## Luke 23:34
 
-But Jesus was saying,  
-“Father, forgive them; for they do not know what they are doing.”  
-And they cast lots, dividing His garments among themselves.
+Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up his clothes by casting lots.
 
 ## Luke 23:35
 
-And the people stood by, watching.  
-And even the rulers were sneering at Him, saying,  
-“He saved others; let Him save Himself if this is the Christ of God, His Chosen One!”
+The people stood watching, and the rulers sneered at him, saying, “He saved others; let him save himself if he is God’s Messiah, the Chosen One.”
 
 ## Luke 23:36
 
-The soldiers also ridiculed Him, coming up to Him, offering Him sour wine,
+The soldiers also mocked him, offering him sour wine
 
 ## Luke 23:37
 
-and saying,  
-“If You are the King of the Jews, save Yourself!”
+and saying, “If you are the king of the Jews, save yourself.”
 
 ## Luke 23:38
 
-Now there was also an inscription above Him, “THIS IS THE KING OF THE JEWS.”
+There was a written notice above him, which read: THIS IS THE KING OF THE JEWS.
 
 ---
 
 ## Luke 23:39
 
-One of the criminals who were hanged there was hurling abuse at Him, saying,  
-“Are You not the Christ? Save Yourself and us!”
+One of the criminals who hung there hurled insults at him: “Aren’t you the Messiah? Save yourself and us!”
 
 ## Luke 23:40
 
-But the other responded, and rebuking him, said,  
-“Do you not even fear God, since you are under the same sentence of condemnation?
+But the other criminal rebuked him. “Don’t you fear God,” he said, “since you are under the same sentence?
 
 ## Luke 23:41
 
-And we indeed are suffering justly, for we are receiving what we deserve for our crimes;  
-but this man has done nothing wrong.”
+We are punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong.”
 
 ## Luke 23:42
 
-And he was saying,  
-“Jesus, remember me when You come into Your kingdom!”
+Then he said, “Jesus, remember me when you come into your kingdom.”
 
 ## Luke 23:43
 
-And He said to him,  
-“Truly I say to you, today you will be with Me in Paradise.”
+Jesus answered him, “Truly I tell you, today you will be with me in paradise.”
 
 ---
 
 ## Luke 23:44
 
-It was now about the sixth hour, and darkness came over the entire land until the ninth hour,
+It was now about noon, and darkness came over the whole land until three in the afternoon,
 
 ## Luke 23:45
 
-because the sun stopped shining; and the veil of the temple was torn in two.
+for the sun stopped shining. And the curtain of the temple was torn in two.
 
 ## Luke 23:46
 
-And Jesus, crying out with a loud voice, said,  
-“Father, into Your hands I entrust My spirit.”  
-And having said this, He died.
+Jesus called out with a loud voice, “Father, into your hands I commit my spirit.” When he had said this, he breathed his last.
 
 ## Luke 23:47
 
-Now when the centurion saw what had happened, he began praising God, saying,  
-“This man was in fact innocent.”
+The centurion, seeing what had happened, praised God and said, “Surely this was a righteous man.”
 
 ## Luke 23:48
 
-And all the crowds who came together for this spectacle, after watching what had happened,  
-began to return home, beating their chests.
+When all the people who had gathered to witness this sight saw what took place, they beat their breasts and went away.
 
 ## Luke 23:49
 
-And all His acquaintances, and the women who accompanied Him from Galilee,  
-were standing at a distance, seeing these things.
+But all those who knew him, including the women who had followed him from Galilee, stood at a distance, watching these things.
 
 ---
 
 ## Luke 23:50
 
-And a man named Joseph, who was a member of the Council,  
-a good and righteous man
+Now there was a man named Joseph, a member of the Council, a good and upright man,
 
 ## Luke 23:51
 
-(he had not consented to their plan and action), a man from Arimathea, a city of the Jews,  
-who was waiting for the kingdom of God—
+who had not consented to their decision and action. He came from the Judean town of Arimathea and was waiting for the kingdom of God.
 
 ## Luke 23:52
 
-this man went to Pilate and asked for the body of Jesus.
+Going to Pilate, he asked for Jesus’ body.
 
 ## Luke 23:53
 
-And he took it down and wrapped it in a linen cloth,  
-and laid Him in a tomb cut into the rock, where no one had ever lain.
+Then he took it down, wrapped it in linen cloth, and placed it in a tomb cut in the rock, one in which no one had yet been laid.
 
 ## Luke 23:54
 
-It was a preparation day, and a Sabbath was about to begin.
+It was Preparation Day, and the Sabbath was about to begin.
 
 ## Luke 23:55
 
-Now the women who had come with Him from Galilee followed,  
-and they saw the tomb and how His body was laid.
+The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it.
 
 ## Luke 23:56
 
-And then they returned and prepared spices and perfumes.  
-And on the Sabbath they rested, according to the commandment.
+Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment.

@@ -2,208 +2,170 @@
 
 ## Ezekiel 32:1
 
-Now in the twelfth year, in the twelfth month, on the first of the month, the word of the Lord came to me, saying,
+In the twelfth year, in the twelfth month, on the first day of the month, the word of the Lord came to me, saying,
 
 ## Ezekiel 32:2
 
-“Son of man, take up a song of mourning over Pharaoh king of Egypt, and say to him,
+“Son of man, raise a lamentation over Pharaoh king of Egypt and say to him:
 
-> ‘You compared yourself to a young lion of the nations,  
-> Yet you are like the monster in the seas;  
-> And you burst forth in your rivers  
-> And muddied the waters with your feet  
-> And fouled their rivers.’”
+‘You likened yourself to a lion among the nations,
+yet you are like a monster in the seas;
+you thrash about in your rivers,
+muddying the waters with your feet
+and fouling their streams.’
 
 ## Ezekiel 32:3
 
-This is what the Lord God says:
+This is what the Sovereign Lord says:
 
-> “Now I will spread My net over you  
-> With a contingent of many peoples,  
-> And they will lift you up in My net.
+> ‘I will spread my net over you
+> with a multitude of peoples,
+> and they will haul you up in my net.
 
 ## Ezekiel 32:4
 
-> And I will leave you on the land;  
-> I will hurl you on the open field,  
-> And I will cause all the birds of the sky to settle on you,  
-> And I will satisfy the animals of all the earth with you.
+> I will throw you on the land
+> and cast you on the open field.
+> I will cause all the birds of the sky to settle on you,
+> and all the wild animals to gorge themselves on you.
 
 ## Ezekiel 32:5
 
-> And I will lay your flesh on the mountains  
-> And fill the valleys with your refuse.
+> I will lay your flesh on the mountains
+> and fill the valleys with your remains.
 
 ## Ezekiel 32:6
 
-> I will also make the land drink the discharge of your blood  
-> As far as the mountains,  
-> And the ravines will be full of you.
+> I will drench the land with your flowing blood
+> as far as the mountains,
+> and the ravines will be filled with your flesh.
 
 ## Ezekiel 32:7
 
-> And when I extinguish you,  
-> I will cover the heavens and darken their stars;  
-> I will cover the sun with a cloud,  
-> And the moon will not give its light.
+> When I extinguish you,
+> I will cover the heavens and darken their stars;
+> I will cover the sun with a cloud,
+> and the moon will not give its light.
 
 ## Ezekiel 32:8
 
-> All the shining lights in the heavens  
-> I will darken over you  
-> And will place darkness on your land,”  
-> Declares the Lord God.
+> All the shining lights in the heavens
+> I will darken over you,
+> and I will bring darkness over your land,’
+> declares the Sovereign Lord.
 
 ## Ezekiel 32:9
 
-> “I will also trouble the hearts of many peoples  
-> When I bring your destruction among the nations,  
-> Into lands which you have not known.
+> ‘I will trouble the hearts of many peoples
+> when I bring about your destruction among the nations,
+> into lands you have not known.
 
 ## Ezekiel 32:10
 
-> And I will make many peoples appalled at you,  
-> And their kings will be horribly afraid of you  
-> When I brandish My sword before them;  
-> And they will tremble every moment,  
-> Every person for his own life,  
-> On the day of your fall.”
+> I will make many peoples appalled at you,
+> and their kings will shudder with horror because of you
+> when I brandish my sword before them.
+> On the day of your downfall,
+> each of them will tremble
+> every moment for his life.’
 
 ## Ezekiel 32:11
 
-For this is what the Lord God says:
+For this is what the Sovereign Lord says:
 
-> “The sword of the king of Babylon will come upon you.
+> ‘The sword of the king of Babylon will come against you.
 
 ## Ezekiel 32:12
 
-> By the swords of the warriors  
-> I will make your multitude fall;  
-> All of them are ruthless among the nations,  
-> And they will ruin the pride of Egypt,  
-> And all its multitude will be destroyed.
+> I will cause your hordes to fall
+> by the swords of mighty warriors,
+> the most ruthless of nations.
+> They will shatter the pride of Egypt,
+> and all her hordes will be overthrown.
 
 ## Ezekiel 32:13
 
-> I will also eliminate all its cattle from beside many waters;  
-> And the foot of man will not muddy them anymore,  
-> Nor will the hoofs of animals muddy them.
+> I will destroy all her cattle from beside many waters,
+> so that neither man’s foot
+> nor the hoofs of animals will muddy them anymore.
 
 ## Ezekiel 32:14
 
-> Then I will make their waters settle  
-> And cause their rivers to run like oil,”  
-> Declares the Lord God.
+> Then I will let her waters settle
+> and make her streams flow like oil,’
+> declares the Sovereign Lord.
 
 ## Ezekiel 32:15
 
-> “When I make the land of Egypt a desolation,  
-> And the land is destitute of that which filled it,  
-> When I strike all those who live in it,  
-> Then they will know that I am the Lord.
+> ‘When I make the land of Egypt desolate
+> and strip it of all that fills it,
+> when I strike down all who dwell there,
+> then they will know that I am the Lord.’
 
 ## Ezekiel 32:16
 
-This is a song of mourning, and they will sing it.  
-The daughters of the nations will sing it.  
-They will mourn for Egypt and for all its multitude,”  
-Declares the Lord God.
+This is the lament they will chant for her. The daughters of the nations will chant it; over Egypt and all her hordes they will chant it,’ declares the Sovereign Lord.
 
 ## Ezekiel 32:17
 
-In the twelfth year, on the fifteenth of the month, the word of the Lord came to me, saying,
+In the twelfth year, on the fifteenth day of the month, the word of the Lord came to me, saying,
 
 ## Ezekiel 32:18
 
-“Son of man, mourn over the multitude of Egypt, and bring it down, her and the daughters of the majestic nations, to the netherworld with those who go down to the pit.
+“Son of man, wail for the hordes of Egypt and consign them to the earth below, her and the daughters of mighty nations, with those who go down to the pit.
 
 ## Ezekiel 32:19
 
-Whom do you surpass in beauty?  
-Go down and make your bed with the uncircumcised.
+Say to them, ‘Whom do you surpass in beauty? Go down and be laid with the uncircumcised.’
 
 ## Ezekiel 32:20
 
-They will fall among those killed by the sword.  
-The sword has been given; drag her and all her multitudes away.
+They will fall among those killed by the sword. The sword is drawn; let her be dragged off with all her hordes.
 
 ## Ezekiel 32:21
 
-The strong among the mighty ones will speak of him and his helpers from the midst of Sheol:  
-‘They have gone down, they lie still, the uncircumcised, killed by the sword.’
+The mighty leaders will speak of Egypt and her allies from within the realm of the dead: ‘They have come down and lie with the uncircumcised, with those killed by the sword.’
 
 ## Ezekiel 32:22
 
-Assyria is there with all her company;  
-Her graves are all around her.  
-All of them are killed by the sword,
+“Assyria is there with her whole army; she is surrounded by the graves of all her slain, all who have fallen by the sword.
 
 ## Ezekiel 32:23
 
-Whose graves are set in the remotest parts of the pit,  
-And her company is all around her grave.  
-All of them are killed, fallen by the sword,  
-Who spread terror in the land of the living.
+Their graves are in the depths of the pit, and her army lies around her grave. All who had spread terror in the land of the living are slain, fallen by the sword.
 
 ## Ezekiel 32:24
 
-Elam is there with all her multitude around her grave,  
-All of them killed, fallen by the sword,  
-Who went down uncircumcised to the lower parts of the earth,  
-Who instilled their terror in the land of the living,  
-And bore their disgrace with those who go down to the pit.
+“Elam is there, with all her hordes around her grave. All of them are slain, fallen by the sword. All who had spread terror in the land of the living went down uncircumcised to the earth below. They bear their shame with those who go down to the pit.
 
 ## Ezekiel 32:25
 
-They have made a bed for her among the slain with all her multitude.  
-Her graves are all around it.  
-All of them are uncircumcised, killed by the sword  
-(Though they instilled their terror in the land of the living),  
-And they bore their disgrace with those who go down to the pit;  
-They were put among the slain.
+A bed is made for her among the slain, with all her hordes around her grave. All of them are uncircumcised, killed by the sword. Because their terror had spread in the land of the living, they bear their shame with those who go down to the pit; they are laid among the slain.
 
 ## Ezekiel 32:26
 
-Meshech, Tubal, and all their multitude are there;  
-Their graves are all around them.  
-All of them were killed by the sword, uncircumcised,  
-Though they instilled their terror in the land of the living.
+“Meshech and Tubal are there, with all their hordes around their graves. All of them are uncircumcised, killed by the sword because they spread their terror in the land of the living.
 
 ## Ezekiel 32:27
 
-Nor do they lie beside the fallen warriors of the uncircumcised  
-Who went down to Sheol with their weapons of war,  
-And whose swords were laid under their heads,  
-But the punishment for their wrongdoing rested on their bones,  
-Though the terror of the warriors was in the land of the living.
+But they do not lie with the fallen warriors of old, who went down to the realm of the dead with their weapons of war—their swords placed under their heads and their shields resting on their bones—though these warriors also had terrorised the land of the living.
 
 ## Ezekiel 32:28
 
-But in the midst of the uncircumcised you will be broken  
-And lie with those killed by the sword.
+You too, Pharaoh, will be broken and will lie among the uncircumcised, with those killed by the sword.
 
 ## Ezekiel 32:29
 
-There also is Edom, its kings and all its leaders,  
-Who despite their might are placed with those killed by the sword;  
-They will lie with the uncircumcised  
-And with those who go down to the pit.
+“Edom is there, her kings and all her princes; despite their power, they are laid with those killed by the sword. They lie with the uncircumcised, with those who go down to the pit.
 
 ## Ezekiel 32:30
 
-There also are the chiefs of the north, all of them, and all the Sidonians,  
-Who in spite of the terror resulting from their might,  
-In shame went down with the slain.  
-So they lay down uncircumcised with those killed by the sword,  
-And bore their disgrace with those who go down to the pit.
+“All the princes of the north and all the Sidonians are there; they went down with the slain in disgrace despite the terror caused by their power. They lie uncircumcised with those killed by the sword and bear their shame with those who go down to the pit.
 
 ## Ezekiel 32:31
 
-These Pharaoh will see, and he will be comforted for all his multitude killed by the sword,  
-Pharaoh and all his army,” declares the Lord God.
+“Pharaoh will see them and he will be consoled for all his hordes that were killed by the sword, declares the Sovereign Lord.
 
 ## Ezekiel 32:32
 
-“Though I instilled terror of him in the land of the living,  
-Yet he will be made to lie down among the uncircumcised  
-With those killed by the sword—Pharaoh and all his multitude,” declares the Lord God.
+Though I had him spread terror in the land of the living, Pharaoh and all his hordes will be laid among the uncircumcised, with those killed by the sword, declares the Sovereign Lord.

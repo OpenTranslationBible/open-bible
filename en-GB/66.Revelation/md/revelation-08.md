@@ -1,53 +1,40 @@
 # Revelation Chapter 8
 
 ## Revelation 8:1
-
-When the Lamb broke the seventh seal, there was silence in heaven for about half an hour.
+When the Lamb opened the seventh seal, there was silence in heaven for about half an hour.
 
 ## Revelation 8:2
-
 And I saw the seven angels who stand before God, and seven trumpets were given to them.
 
 ## Revelation 8:3
-
-Another angel came and stood at the altar, holding a golden censer; and much incense was given to him, so that he might add it to the prayers of all the saints on the golden altar which was before the throne.
+Another angel, holding a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne.
 
 ## Revelation 8:4
-
-And the smoke of the incense, with the prayers of the saints, went up before God out of the angel’s hand.
+The smoke of the incense, with the prayers of the saints, ascended before God from the angel's hand.
 
 ## Revelation 8:5
-
-Then the angel took the censer and filled it with the fire of the altar, and hurled it to the earth; and there were peals of thunder and sounds, and flashes of lightning and an earthquake.
+Then the angel took the censer, filled it with fire from the altar, and hurled it onto the earth; and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
 
 ## Revelation 8:6
-
-And the seven angels who had the seven trumpets prepared themselves to sound them.
+And the seven angels who had the seven trumpets prepared to sound them.
 
 ## Revelation 8:7
-
-The first sounded, and there was hail and fire mixed with blood, and it was hurled to the earth; and a third of the earth was burned up, and a third of the trees were burned up, and all the green grass was burned up.
+The first angel sounded his trumpet, and there was hail and fire mixed with blood, and it was thrown to the earth; a third of the earth was burned up, a third of the trees were burned up, and all the green grass was burned up.
 
 ## Revelation 8:8
-
-The second angel sounded, and something like a great mountain burning with fire was hurled into the sea; and a third of the sea became blood,
+The second angel sounded his trumpet, and something like a great mountain, burning with fire, was cast into the sea; and a third of the sea turned into blood,
 
 ## Revelation 8:9
-
-and a third of the creatures which were in the sea and had life, died; and a third of the ships were destroyed.
+and a third of the living creatures in the sea died, and a third of the ships were destroyed.
 
 ## Revelation 8:10
-
-The third angel sounded, and a great star fell from heaven, burning like a torch, and it fell on a third of the rivers and on the springs of waters.
+The third angel sounded his trumpet, and a great star, burning like a torch, fell from heaven onto a third of the rivers and on the springs of water—
 
 ## Revelation 8:11
-
-The star is named Wormwood; and a third of the waters became wormwood, and many people died from the waters, because they were made bitter.
+the star is called Wormwood. A third of the waters became bitter, and many people died from the waters because they had become bitter.
 
 ## Revelation 8:12
-
-The fourth angel sounded, and a third of the sun, a third of the moon, and a third of the stars were struck, so that a third of them would be darkened and the day would not shine for a third of it, and the night in the same way.
+The fourth angel sounded his trumpet, and a third of the sun was struck, a third of the moon, and a third of the stars, so that a third of them were darkened. A third of the day did not shine, and likewise the night.
 
 ## Revelation 8:13
-
-Then I looked, and I heard an eagle flying in midheaven, saying with a loud voice, “Woe, woe, woe to those who live on the earth, because of the remaining blasts of the trumpet of the three angels who are about to sound!”
+Then I looked, and I heard an eagle flying in mid-heaven, proclaiming with a loud voice, “Woe, woe, woe to the inhabitants of the earth, because of the trumpet blasts about to be sounded by the remaining three angels!”

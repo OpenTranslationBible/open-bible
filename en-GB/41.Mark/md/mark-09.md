@@ -2,229 +2,189 @@
 
 ## Mark 9:1
 
-And Jesus was saying to them,  
-“Truly I say to you, there are some of those standing here who will not taste death  
-until they see the kingdom of God after it has come with power.”
+And Jesus said to them, “Truly I tell you, there are some standing here who will not experience death before they see the kingdom of God arriving with power.”
 
 ---
 
 ## Mark 9:2
 
-And six days later, Jesus _took with Him_ Peter, James, and John,  
-and _brought them up_ on a high mountain by themselves.  
-And He was transfigured before them;
+Six days later, Jesus took Peter, James, and John with him and led them up a high mountain by themselves. There he was transformed before them.
 
 ## Mark 9:3
 
-and His garments became radiant and exceedingly white,  
-as no launderer on earth can whiten them.
+His clothing became radiant, exceedingly white, beyond what any launderer on earth could achieve.
 
 ## Mark 9:4
 
-And Elijah appeared to them along with Moses; and they were talking with Jesus.
+Elijah and Moses appeared before them, conversing with Jesus.
 
 ## Mark 9:5
 
-Peter responded and _said to Jesus_,  
-“Rabbi, it is good that we are here; let’s make three tabernacles—one for You, one for Moses, and one for Elijah.”
+Peter spoke to Jesus, “Rabbi, it is good for us to be here. Let us construct three shelters: one for you, one for Moses, and one for Elijah.”
 
 ## Mark 9:6
 
-For he did not know how to respond; for they became terrified.
+He did not know what to say, for they were terrified.
 
 ## Mark 9:7
 
-Then a cloud formed, overshadowing them, and a voice came out of the cloud:  
-“This is My beloved Son; listen to Him!”
+A cloud formed, overshadowing them, and a voice came from the cloud: “This is my beloved Son; listen to him!”
 
 ## Mark 9:8
 
-And suddenly they looked around and saw no one with them anymore, except Jesus alone.
+Suddenly, when they looked around, they saw no one with them anymore, except Jesus alone.
 
 ---
 
 ## Mark 9:9
 
-As they were coming down from the mountain,  
-He gave them orders not to relate to anyone what they had seen,  
-until the Son of Man rose from the dead.
+As they were descending the mountain, Jesus instructed them not to tell anyone what they had witnessed until the Son of Man had risen from the dead.
 
 ## Mark 9:10
 
-They seized upon that statement, discussing with one another what rising from the dead meant.
+They kept this matter to themselves, discussing what “rising from the dead” might mean.
 
 ## Mark 9:11
 
-And they asked Him, saying,  
-“Why is it that the scribes say that Elijah must come first?”
+They questioned him, “Why do the scribes say that Elijah must come first?”
 
 ## Mark 9:12
 
-And He said to them,  
-“Elijah does come first and restores all things.  
-And yet how is it written of the Son of Man that He will suffer many things and be treated with contempt?
+Jesus replied, “Indeed, Elijah does come first and restores all things. Yet why is it written that the Son of Man must suffer greatly and be rejected?
 
 ## Mark 9:13
 
-But I say to you that Elijah has indeed come,  
-and they did to him whatever they wanted, just as it is written of him.”
+But I tell you, Elijah has already come, and they did to him whatever they pleased, as it is written about him.”
 
 ---
 
 ## Mark 9:14
 
-When they came back to the disciples, they saw a large crowd around them,  
-and scribes arguing with them.
+When they returned to the other disciples, they saw a large crowd surrounding them, with scribes arguing with them.
 
 ## Mark 9:15
 
-And immediately, when the entire crowd saw Him, they were amazed and began running up to greet Him.
+As soon as the crowd saw Jesus, they were filled with wonder and ran to greet him.
 
 ## Mark 9:16
 
-And He asked them, “What are you disputing with them?”
+He asked them, “What are you arguing with them about?”
 
 ## Mark 9:17
 
-And one person from the crowd answered Him,  
-“Teacher, I brought You my son, because he has a spirit that makes him unable to speak;
+One man from the crowd answered, “Teacher, I brought you my son, who is possessed by a spirit that renders him mute.
 
 ## Mark 9:18
 
-and whenever it seizes him, it slams him to the ground, and he foams at the mouth, grinds his teeth, and becomes stiff.  
-And I told Your disciples to cast it out, but they could not do it.”
+Whenever it seizes him, it throws him to the ground. He foams at the mouth, grinds his teeth, and becomes rigid. I asked your disciples to drive out the spirit, but they could not.”
 
 ## Mark 9:19
 
-And He _answered them and said_,  
-“You unbelieving generation, how long shall I be with you? How long shall I put up with you? Bring him to Me!”
+Jesus responded, “O unbelieving generation, how long shall I remain with you? How long shall I endure you? Bring the boy to me.”
 
 ## Mark 9:20
 
-And they brought the boy to Him.  
-When he saw Him, the spirit immediately threw him into a convulsion,  
-and falling to the ground, he began rolling around and foaming at the mouth.
+They brought the boy to Jesus. When the spirit saw him, it immediately threw the boy into convulsions. He fell to the ground, rolling and foaming at the mouth.
 
 ## Mark 9:21
 
-And He asked his father, “How long has this been happening to him?”  
-And he said, “From childhood.
+Jesus asked the boy’s father, “How long has he been like this?” He replied, “From childhood.
 
 ## Mark 9:22
 
-It has often thrown him both into the fire and into the water, to kill him.  
-But if You can do anything, take pity on us and help us!”
+It has often thrown him into fire or water to destroy him. But if you can do anything, have compassion on us and help us.”
 
 ## Mark 9:23
 
-But Jesus said to him,  
-“‘If You can?’ All things are possible for the one who believes.”
+Jesus said to him, “‘If you can’? Everything is possible for one who believes.”
 
 ## Mark 9:24
 
-Immediately the boy’s father cried out and said,  
-“I do believe; help my unbelief!”
+Immediately, the boy’s father cried out, “I do believe; help my unbelief!”
 
 ## Mark 9:25
 
-When Jesus saw that a crowd was rapidly gathering, He rebuked the unclean spirit, saying to it,  
-“You mute and deaf spirit, I command you, come out of him and do not enter him again.”
+When Jesus saw a crowd rapidly gathering, he rebuked the impure spirit, saying, “You mute and deaf spirit, I command you, come out of him and never enter him again.”
 
 ## Mark 9:26
 
-And after crying out and throwing him into terrible convulsions, it came out;  
-and the boy became so much like a corpse that most of them said, “He is dead!”
+The spirit shrieked, convulsed him violently, and departed. The boy appeared so much like a corpse that many said, “He is dead.”
 
 ## Mark 9:27
 
-But Jesus took him by the hand and raised him, and he got up.
+But Jesus took him by the hand, raised him, and he stood up.
 
 ## Mark 9:28
 
-When He came into the house, His disciples began asking Him privately,  
-“Why is it that we could not cast it out?”
+After Jesus had gone indoors, his disciples asked him privately, “Why couldn’t we drive it out?”
 
 ## Mark 9:29
 
-And He said to them,  
-“This kind cannot come out by anything except prayer.”
+He replied, “This kind can come out only by prayer.”
 
 ---
 
 ## Mark 9:30
 
-And from there they went out and began to go through Galilee,  
-and He did not want anyone to know about it.
+They departed from there and passed through Galilee, and Jesus did not want anyone to know.
 
 ## Mark 9:31
 
-For He was teaching His disciples and telling them,  
-“The Son of Man is to be handed over to men, and they will kill Him;  
-and when He has been killed, He will rise three days later.”
+For he was instructing his disciples, saying, “The Son of Man is to be delivered into the hands of men. They will kill him, and after three days he will rise.”
 
 ## Mark 9:32
 
-But they did not understand this statement, and they were afraid to ask Him.
+But they did not comprehend this statement and were afraid to ask him.
 
 ---
 
 ## Mark 9:33
 
-And they came to Capernaum; and when He was in the house, He began to question them,  
-“What were you discussing on the way?”
+They arrived at Capernaum. When he was in the house, he asked them, “What were you discussing on the way?”
 
 ## Mark 9:34
 
-But they kept silent, for on the way they had discussed with one another which of them was the greatest.
+But they remained silent, for on the way they had argued about who was the greatest.
 
 ## Mark 9:35
 
-And sitting down, He called the twelve and _said to them_,  
-“If anyone wants to be first, he shall be last of all and servant of all.”
+Sitting down, Jesus called the Twelve and said, “If anyone desires to be first, he must be the last of all and the servant of all.”
 
 ## Mark 9:36
 
-And He took a child and placed him among them, and taking him in His arms, He said to them,
+He took a child, placed him among them, and taking him in his arms, he said to them,
 
 ## Mark 9:37
 
-“Whoever receives one child like this in My name receives Me;  
-and whoever receives Me does not receive Me, but Him who sent Me.”
+“Whoever welcomes one of these little children in my name welcomes me; and whoever welcomes me does not welcome me but the one who sent me.”
 
 ---
 
 ## Mark 9:38
 
-John said to Him,  
-“Teacher, we saw someone casting out demons in Your name, and we tried to prevent him because he was not following us.”
+John said to him, “Teacher, we saw someone casting out demons in your name, and we tried to stop him because he was not following us.”
 
 ## Mark 9:39
 
-But Jesus said,  
-“Do not hinder him, for there is no one who will perform a miracle in My name,  
-and be able soon afterward to speak evil of Me.
+But Jesus said, “Do not stop him, for no one who does a miracle in my name can soon afterwards speak evil of me.
 
 ## Mark 9:40
 
-For the one who is not against us is for us.
+For whoever is not against us is for us.
 
 ## Mark 9:41
 
-For whoever gives you a cup of water to drink in My name, because you belong to Christ,  
-truly I say to you, he shall by no means lose his reward.
+Truly I tell you, anyone who gives you a cup of water in my name because you belong to Christ will certainly not lose their reward.
 
 ---
 
 ## Mark 9:42
 
-“Whoever causes one of these little ones who believe to stumble,  
-it would be better for him if a heavy millstone were hung around his neck,  
-and he had been thrown into the sea.
+“If anyone causes one of these little ones who believe in me to stumble, it would be better for them if a large millstone were hung around their neck and they were thrown into the sea.
 
 ## Mark 9:43
 
-And if your hand causes you to sin, cut it off;  
-it is better for you to enter life maimed, than having two hands, to go into hell, into the unquenchable fire,
+If your hand causes you to stumble, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out.
 
 ## Mark 9:44
 
@@ -232,8 +192,7 @@ it is better for you to enter life maimed, than having two hands, to go into hel
 
 ## Mark 9:45
 
-And if your foot causes you to sin, cut it off;  
-it is better for you to enter life lame, than having two feet, to be thrown into hell,
+And if your foot causes you to stumble, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell.
 
 ## Mark 9:46
 
@@ -241,21 +200,19 @@ it is better for you to enter life lame, than having two feet, to be thrown into
 
 ## Mark 9:47
 
-And if your eye causes you to sin, throw it away;  
-it is better for you to enter the kingdom of God with one eye, than having two eyes, to be thrown into hell,
+And if your eye causes you to stumble, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
 
 ## Mark 9:48
 
 where
 
 > their worm does not die,
-> and the fire is not extinguished.
+> and the fire is not quenched.
 
 ## Mark 9:49
 
-“For everyone will be salted with fire.
+For everyone will be salted with fire.
 
 ## Mark 9:50
 
-Salt is good; but if the salt becomes unsalty, with what will you make it salty again?  
-Have salt in yourselves, and be at peace with one another.”
+Salt is good, but if it loses its saltiness, how can it be made salty again? Have salt among yourselves, and be at peace with one another.”

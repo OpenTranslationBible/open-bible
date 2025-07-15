@@ -1,113 +1,112 @@
 # Leviticus Chapter 19
 
 ## Leviticus 19:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying:
 
 ## Leviticus 19:2
-“Speak to the entire assembly of Israel and say to them: Be holy, because I, the Lord your God, am holy.
+“Speak to the whole assembly of the children of Israel and tell them: ‘You shall be holy, for I, the Lord your God, am holy.
 
 ## Leviticus 19:3
-Each of you must respect your mother and father, and you must keep My Sabbaths. I am the Lord your God.
+Each of you shall respect his mother and father, and you shall observe my Sabbaths. I am the Lord your God.
 
 ## Leviticus 19:4
-Do not turn to idols or make metal gods for yourselves. I am the Lord your God.
+Do not turn to idols or make for yourselves gods of cast metal. I am the Lord your God.
 
 ## Leviticus 19:5
-When you sacrifice a fellowship offering to the Lord, do it so it will be accepted.
+When you offer a sacrifice of fellowship offerings to the Lord, you must offer it in such a way that it will be accepted on your behalf.
 
 ## Leviticus 19:6
-It must be eaten on the day you sacrifice it or the next day. Anything left until the third day must be burned.
+It shall be eaten on the day you offer it, or on the next day; anything left over until the third day must be burned with fire.
 
 ## Leviticus 19:7
-If any is eaten on the third day, it is impure and will not be accepted.
+If any of it is eaten on the third day, it is impure and will not be accepted.
 
 ## Leviticus 19:8
-Anyone who eats it will bear the consequences and be cut off.
+Anyone who eats it will bear the consequences of his guilt, for he has profaned what is holy to the Lord; that person shall be cut off from his people.
 
 ## Leviticus 19:9
-When you reap your harvest, do not harvest to the edges or gather the gleanings.
+When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest.
 
 ## Leviticus 19:10
-Do not go over your vineyard a second time or pick up fallen grapes. Leave them for the poor and the foreigner.
+Do not go over your vineyard again or gather the fallen grapes. Leave them for the poor and the foreigner. I am the Lord your God.
 
 ## Leviticus 19:11
-Do not steal. Do not lie. Do not deceive one another.
+You shall not steal, nor lie, nor deceive one another.
 
 ## Leviticus 19:12
-Do not swear falsely by My name.
+You shall not swear falsely by my name, thereby profaning the name of your God. I am the Lord.
 
 ## Leviticus 19:13
-Do not defraud or rob your neighbour. Do not hold back a worker’s wages.
+Do not defraud or rob your neighbour. Do not hold back the wages of a hired worker overnight.
 
 ## Leviticus 19:14
-Do not curse the deaf or put a stumbling block in front of the blind.
+Do not curse the deaf or put a stumbling block before the blind, but fear your God. I am the Lord.
 
 ## Leviticus 19:15
-Do not pervert justice. Do not show partiality to the poor or favouritism to the great.
+Do not pervert justice; do not show partiality to the poor or favouritism to the great, but judge your neighbour fairly.
 
 ## Leviticus 19:16
-Do not spread slander or endanger your neighbour’s life.
+Do not go about spreading slander among your people. Do not do anything that endangers your neighbour’s life. I am the Lord.
 
 ## Leviticus 19:17
-Do not hate a fellow Israelite in your heart. Rebuke your neighbour frankly so you will not share in their guilt.
+Do not hate your fellow countryman in your heart. Rebuke your neighbour frankly so you will not share in his guilt.
 
 ## Leviticus 19:18
-Do not seek revenge or bear a grudge. Love your neighbour as yourself. I am the Lord.
+Do not seek revenge or bear a grudge against anyone among your people, but love your neighbour as yourself. I am the Lord.
 
 ## Leviticus 19:19
-Keep My decrees. Do not mate different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.
+Keep my decrees. Do not breed different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.
 
 ## Leviticus 19:20
-If a man sleeps with a slave woman promised to another man but not yet redeemed or freed, there must be punishment, but not death. They must bring a guilt offering.
+If a man has sexual relations with a woman who is a slave and promised to another man, but who has not been redeemed or given her freedom, there must be due punishment. They shall not be put to death, because she was not free.
 
 ## Leviticus 19:21
-The priest shall make atonement for him with the ram of the guilt offering.
+The man must bring a ram to the entrance of the tent of meeting for a guilt offering to the Lord.
 
 ## Leviticus 19:22
-The priest shall make atonement, and he will be forgiven.
+With the ram of the guilt offering, the priest shall make atonement for him before the Lord for the sin he has committed, and his sin will be forgiven.
 
 ## Leviticus 19:23
-When you enter the land and plant trees, consider the fruit forbidden for three years.
+When you enter the land and plant any kind of fruit tree, regard its fruit as forbidden. For three years it will be forbidden to you; it must not be eaten.
 
 ## Leviticus 19:24
-In the fourth year all the fruit is holy and an offering of praise.
+In the fourth year all its fruit shall be holy, an offering of praise to the Lord.
 
 ## Leviticus 19:25
-In the fifth year you may eat its fruit.
+But in the fifth year you may eat its fruit, so that its yield may increase for you. I am the Lord your God.
 
 ## Leviticus 19:26
-Do not eat meat with blood still in it.
+You shall not eat any meat with the blood still in it. You shall not practise divination or seek omens.
 
 ## Leviticus 19:27
-Do not practise divination or seek omens.
+Do not cut the hair at the sides of your head or clip off the edges of your beard.
 
 ## Leviticus 19:28
-Do not cut your bodies or tattoo yourselves.
+Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the Lord.
 
 ## Leviticus 19:29
-Do not degrade your daughter by making her a prostitute.
+Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution and be filled with wickedness.
 
 ## Leviticus 19:30
-Observe My Sabbaths and revere My sanctuary.
+Observe my Sabbaths and have reverence for my sanctuary. I am the Lord.
 
 ## Leviticus 19:31
-Do not turn to mediums or spiritists.
+Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the Lord your God.
 
 ## Leviticus 19:32
-Stand up in the presence of the aged, show respect for the elderly.
+Stand up in the presence of the aged, show respect for the elderly and revere your God. I am the Lord.
 
 ## Leviticus 19:33
-Do not mistreat or oppress a foreigner.
+When a foreigner resides among you in your land, do not mistreat him.
 
 ## Leviticus 19:34
-The foreigner living among you must be treated as your native-born. Love them as yourself.
+The foreigner residing among you must be treated as your native-born. Love him as yourself, for you were foreigners in Egypt. I am the Lord your God.
 
 ## Leviticus 19:35
-Do not use dishonest standards in measurements.
+Do not use dishonest standards when measuring length, weight or quantity.
 
 ## Leviticus 19:36
-Use honest scales, weights, and measures. I am the Lord your God.
+Use honest scales and honest weights, an honest ephah and an honest hin. I am the Lord your God, who brought you out of Egypt.
 
 ## Leviticus 19:37
-Keep all My decrees and laws and follow them. I am the Lord.
-
+Keep all my decrees and all my laws and follow them. I am the Lord.’”

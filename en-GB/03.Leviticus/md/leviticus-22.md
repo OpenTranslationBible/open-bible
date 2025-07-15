@@ -1,101 +1,100 @@
 # Leviticus Chapter 22
 
 ## Leviticus 22:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 22:2
-“Tell Aaron and his sons to treat with respect the sacred offerings the Israelites consecrate to Me, so they do not profane My holy name. I am the Lord.
+“Tell Aaron and his sons to handle with care the sacred offerings the Israelites dedicate to Me, so that they do not profane My holy name. I am the Lord.
 
 ## Leviticus 22:3
-Say to them: If any of your descendants touches a sacred offering while ceremonially unclean, he must be cut off from My presence.
+“Say to them: ‘Throughout your generations, if any of your descendants approaches the holy gifts dedicated to the Lord while being ceremonially unclean, that person shall be cut off from My presence. I am the Lord.
 
 ## Leviticus 22:4
-If a descendant of Aaron has a skin disease or a bodily discharge, he may not eat the sacred offerings until he is clean.
+‘No descendant of Aaron who has a defiling skin disease or a discharge may eat the sacred offerings until he is clean. He will also be unclean if he touches anything made unclean by a corpse or a man who has a seminal emission,
 
 ## Leviticus 22:5
-Anyone who touches something defiled by a corpse or an unclean person,
+or if he touches any swarming creature that makes him unclean, or any person by whom he is made unclean, whatever his uncleanness may be.
 
 ## Leviticus 22:6
-or who touches any crawling thing or unclean person, becomes unclean until evening and may not eat the sacred offerings unless they wash with water.
+The person who touches any such thing shall be unclean until evening and must not eat any of the sacred offerings unless he has bathed his body in water.
 
 ## Leviticus 22:7
-When the sun sets, they will be clean, and they may eat the sacred offerings, for they are their food.
+When the sun sets, he will be clean, and afterward he may eat of the sacred offerings, for it is his food.
 
 ## Leviticus 22:8
-They must not eat anything found dead or torn by wild animals, or they will be unclean.
+He must not eat anything that dies naturally or is torn by wild animals, becoming unclean by it. I am the Lord.
 
 ## Leviticus 22:9
-The priests must keep My instructions or they will bear guilt and die for profaning it. I am the Lord who makes them holy.
+“They must carry out their duties to Me in such a way that they do not incur guilt and die because of it, for they profane it. I am the Lord who makes them holy.
 
 ## Leviticus 22:10
-No one outside a priest’s family may eat the sacred offering, including guests or hired workers.
+‘No outsider may eat the sacred offering; a foreigner residing with the priest or a hired worker shall not eat it.
 
 ## Leviticus 22:11
-But a slave born in the priest’s household may eat it, as may one bought with his money.
+But if a priest buys a slave with his money, that person may eat of it, and those born in his household may eat of his food.
 
 ## Leviticus 22:12
-If a priest’s daughter marries someone outside the priesthood, she may not eat the sacred offerings.
+If a priest’s daughter marries a layman, she may not eat of the sacred contributions.
 
 ## Leviticus 22:13
-But if she becomes widowed or divorced and has no children and returns to her father’s house, she may eat her father’s food.
+But if a priest’s daughter becomes a widow or is divorced and has no children, and she returns to her father’s house as in her youth, she may eat of her father’s food; but no outsider shall eat of it.
 
 ## Leviticus 22:14
-If anyone eats a sacred offering in error, they must repay the offering plus a fifth of its value.
+If anyone eats a sacred offering unintentionally, they must make restitution to the priest for the offering and add a fifth of its value to it.
 
 ## Leviticus 22:15
-The priests must not profane the sacred offerings.
+The priests must not desecrate the sacred offerings the Israelites present to the Lord
 
 ## Leviticus 22:16
-By allowing unauthorized people to eat them, they would bring guilt and require restitution. I am the Lord who makes them holy.
+by allowing them to eat the sacred offerings and thereby bring upon them guilt requiring restitution. I am the Lord who makes them holy.’”
 
 ## Leviticus 22:17
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 22:18
-“Speak to Aaron and his sons and all the Israelites: If anyone brings a sacrifice as a freewill offering to the Lord,
+“Speak to Aaron, his sons, and all the Israelites and say to them: ‘If any of you—whether an Israelite or a foreigner residing in Israel—presents a gift as a burnt offering to the Lord, to fulfill a vow or as a freewill offering,
 
 ## Leviticus 22:19
-it must be a male without defect from the cattle, sheep or goats to be accepted.
+it must be a male without defect from the cattle, sheep, or goats in order that it may be accepted on your behalf.
 
 ## Leviticus 22:20
-Do not bring anything with a defect, or it will not be accepted.
+Do not present anything with a defect, for it will not be accepted on your behalf.
 
 ## Leviticus 22:21
-When anyone brings a fellowship offering to fulfill a vow or as a freewill offering, it must be without blemish.
+When anyone brings a fellowship offering to the Lord to fulfill a special vow or as a freewill offering from the herd or flock, it must be without defect or blemish to be acceptable.
 
 ## Leviticus 22:22
-Do not offer the Lord a blind, injured, or maimed animal.
+Do not offer to the Lord anything that is blind, injured, or maimed, or with warts, festering, or running sores. Do not place any of these on the altar as a food offering presented to the Lord.
 
 ## Leviticus 22:23
-A bull or lamb with an overgrown or stunted limb may be given as a freewill offering, but not for a vow.
+You may, however, present an ox or a sheep that is deformed or stunted as a freewill offering, but it will not be accepted in fulfillment of a vow.
 
 ## Leviticus 22:24
-Do not offer an animal whose testicles have been bruised, crushed, torn or cut.
+Do not offer to the Lord an animal whose testicles are bruised, crushed, torn, or cut. Do not do this in your land,
 
 ## Leviticus 22:25
-You must not accept such animals from a foreigner either, because they are defective.
+and do not accept such animals from a foreigner to offer as the food of your God. They will not be accepted on your behalf, for they are deformed and have defects.’”
 
 ## Leviticus 22:26
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 22:27
-“When a calf, lamb or goat is born, it must stay with its mother for seven days. From the eighth day, it may be accepted as an offering.
+“When a calf, lamb, or goat is born, it is to remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the Lord.
 
 ## Leviticus 22:28
-Do not slaughter a cow or sheep and its young on the same day.
+Do not slaughter a cow or a sheep and its young on the same day.
 
 ## Leviticus 22:29
-When you sacrifice a thank offering to the Lord, do it in a way that is acceptable.
+“When you sacrifice a thank offering to the Lord, sacrifice it in such a way that it will be accepted on your behalf.
 
 ## Leviticus 22:30
-It must be eaten that same day; leave none of it until morning.
+It must be eaten on the same day; do not leave any of it till morning. I am the Lord.
 
 ## Leviticus 22:31
-Keep My commands and follow them. I am the Lord.
+“Keep My commandments and follow them. I am the Lord.
 
 ## Leviticus 22:32
-Do not profane My holy name. I must be regarded as holy among the Israelites.
+Do not profane My holy name, for I must be acknowledged as holy by the Israelites. I am the Lord who makes you holy,
 
 ## Leviticus 22:33
-I am the Lord, who brought you out of Egypt to be your God; I am the Lord.
-
+and who brought you out of Egypt to be your God. I am the Lord.”

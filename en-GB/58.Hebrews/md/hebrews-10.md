@@ -2,15 +2,15 @@
 
 ## Hebrews 10:1
 
-For the Law, since it has only a shadow of the good things to come and not the form of those things itself, can never, by the same sacrifices which they offer continually every year, make those who approach perfect.
+For the law, having only a shadow of the good things to come and not the actual form of those things, can never, by the same sacrifices offered continually year after year, make perfect those who approach to worship.
 
 ## Hebrews 10:2
 
-Otherwise, would they not have ceased to be offered, since the worshippers, having once been cleansed, would no longer have had consciousness of sins?
+Otherwise, would they not have ceased to be offered? For the worshippers, having been cleansed once for all, would no longer have a consciousness of sins.
 
 ## Hebrews 10:3
 
-But in those sacrifices there is a reminder of sins every year.
+But in those sacrifices there is a yearly reminder of sins.
 
 ## Hebrews 10:4
 
@@ -18,78 +18,78 @@ For it is impossible for the blood of bulls and goats to take away sins.
 
 ## Hebrews 10:5
 
-Therefore, when He comes into the world, He says,
+Therefore, when Christ came into the world, he said:
 
-> “You have not desired sacrifice and offering,  
-> But You have prepared a body for Me;
+> “Sacrifice and offering you did not desire,
+> but a body you prepared for me;
 
 ## Hebrews 10:6
 
-> You have not taken pleasure in whole burnt offerings and offerings for sin.
+with burnt offerings and sin offerings you were not pleased.
 
 ## Hebrews 10:7
 
-> Then I said, ‘Behold, I have come  
-> (It is written of Me in the scroll of the book)  
-> To do Your will, O God.’”
+> Then I said, ‘Behold, I have come
+> — it is written about me in the scroll of the book
+> — to do your will, O God.’”
 
 ## Hebrews 10:8
 
-After saying above, “Sacrifices and offerings and whole burnt offerings and offerings for sin You have not desired, nor have You taken pleasure in them” (which are offered according to the Law),
+After saying above, “Sacrifices and offerings, burnt offerings and sin offerings you did not desire, nor were you pleased with them”—though they were offered according to the law—
 
 ## Hebrews 10:9
 
-then He said, “Behold, I have come to do Your will.” He takes away the first in order to establish the second.
+then he said, “Behold, I have come to do your will.” He takes away the first to establish the second.
 
 ## Hebrews 10:10
 
-By this will, we have been sanctified through the offering of the body of Jesus Christ once for all time.
+And by that will, we have been sanctified through the offering of the body of Jesus Christ once for all.
 
 ## Hebrews 10:11
 
-Every priest stands daily ministering and offering time after time the same sacrifices, which can never take away sins;
+Day after day every priest stands and performs his religious duties; again and again he offers the same sacrifices, which can never take away sins.
 
 ## Hebrews 10:12
 
-but He, having offered one sacrifice for sins for all time, sat down at the right hand of God,
+But this priest, having offered one sacrifice for sins for all time, sat down at the right hand of God,
 
 ## Hebrews 10:13
 
-waiting from that time onward until His enemies are made a footstool for His feet.
+waiting from that time onward until his enemies are made a footstool for his feet.
 
 ## Hebrews 10:14
 
-For by one offering He has perfected for all time those who are sanctified.
+For by one offering he has perfected for all time those who are being sanctified.
 
 ## Hebrews 10:15
 
-And the Holy Spirit also testifies to us; for after saying,
+The Holy Spirit also testifies to us about this. First he says:
 
 ## Hebrews 10:16
 
-> “This is the covenant which I will make with them  
-> After those days, declares the Lord:  
-> I will put My laws upon their hearts,  
-> And write them on their mind,”
+> “This is the covenant I will make with them
+> after those days, declares the Lord.
+> I will put my laws in their hearts,
+> and I will write them on their minds.”
 
 ## Hebrews 10:17
 
-He then says,
+Then he adds:
 
-> “And their sins and their lawless deeds  
-> I will no longer remember.”
+> “Their sins and lawless acts
+> I will remember no more.”
 
 ## Hebrews 10:18
 
-Now where there is forgiveness of these things, an offering for sin is no longer required.
+Now where there is forgiveness of these, an offering for sin is no longer necessary.
 
 ## Hebrews 10:19
 
-Therefore, brothers and sisters, since we have confidence to enter the holy place by the blood of Jesus,
+Therefore, brothers and sisters, since we have confidence to enter the Most Holy Place by the blood of Jesus,
 
 ## Hebrews 10:20
 
-by a new and living way which He inaugurated for us through the veil, that is, through His flesh,
+by a new and living way opened for us through the veil, that is, his flesh,
 
 ## Hebrews 10:21
 
@@ -97,74 +97,72 @@ and since we have a great priest over the house of God,
 
 ## Hebrews 10:22
 
-let’s approach with a sincere heart in full assurance of faith, having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.
+let us draw near to God with a sincere heart and with the full assurance of faith, having our hearts sprinkled clean from an evil conscience and our bodies washed with pure water.
 
 ## Hebrews 10:23
 
-Let’s hold firmly to the confession of our hope without wavering, for He who promised is faithful;
+Let us hold firmly to the confession of our hope without wavering, for he who promised is faithful.
 
 ## Hebrews 10:24
 
-and let’s consider how to encourage one another in love and good deeds,
+And let us consider how to spur one another on towards love and good deeds,
 
 ## Hebrews 10:25
 
-not abandoning our own meeting together, as is the habit of some people, but encouraging one another; and all the more as you see the day drawing near.
+not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.
 
 ## Hebrews 10:26
 
-For if we go on sinning willfully after receiving the knowledge of the truth, there no longer remains a sacrifice for sins,
+For if we deliberately continue sinning after we have received the knowledge of the truth, there no longer remains a sacrifice for sins,
 
 ## Hebrews 10:27
 
-but a terrifying expectation of judgment and the fury of a fire which will consume the adversaries.
+but only a fearful expectation of judgment and of a raging fire that will consume the adversaries.
 
 ## Hebrews 10:28
 
-Anyone who has ignored the Law of Moses is put to death without mercy on the testimony of two or three witnesses.
+Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.
 
 ## Hebrews 10:29
 
-How much more severe punishment do you think he will deserve who has trampled underfoot the Son of God, and has regarded as unclean the blood of the covenant by which he was sanctified, and has insulted the Spirit of grace?
+How much more severely do you think someone deserves to be punished who has trampled the Son of God underfoot, regarded as unholy the blood of the covenant that sanctified them, and insulted the Spirit of grace?
 
 ## Hebrews 10:30
 
-For we know Him who said, “Vengeance is Mine, I will repay.” And again, “The Lord will judge His people.”
+For we know him who said, “Vengeance is mine; I will repay,” and again, “The Lord will judge his people.”
 
 ## Hebrews 10:31
 
-It is a terrifying thing to fall into the hands of the living God.
+It is a dreadful thing to fall into the hands of the living God.
 
 ## Hebrews 10:32
 
-But remember the former days, when, after being enlightened, you endured a great conflict of sufferings,
+But remember those earlier days after you had been enlightened, when you endured a great conflict full of sufferings.
 
 ## Hebrews 10:33
 
-partly by being made a public spectacle through insults and distress, and partly by becoming companions with those who were so treated.
+Sometimes you were made a public spectacle through insults and persecution; at other times you stood side by side with those who were so treated.
 
 ## Hebrews 10:34
 
-For you showed sympathy to the prisoners and accepted joyfully the seizure of your property, knowing that you have for yourselves a better and lasting possession.
+You sympathised with those in prison and joyfully accepted the confiscation of your property, knowing that you have for yourselves a better and lasting possession.
 
 ## Hebrews 10:35
 
-Therefore, do not throw away your confidence, which has a great reward.
+Therefore, do not throw away your confidence, which will be richly rewarded.
 
 ## Hebrews 10:36
 
-For you have need of endurance, so that when you have done the will of God, you may receive what was promised.
+For you need to persevere so that when you have done the will of God, you may receive what he has promised.
 
 ## Hebrews 10:37
 
-> For yet in a very little while,  
-> He who is coming will come, and will not delay.
+For in just a little while, he who is coming will come and will not delay.
 
 ## Hebrews 10:38
 
-> But My righteous one will live by faith;  
-> And if he shrinks back, My soul has no pleasure in him.
+But my righteous one will live by faith. And I take no pleasure in the one who shrinks back.
 
 ## Hebrews 10:39
 
-But we are not among those who shrink back to destruction, but of those who have faith for the safekeeping of the soul.
+But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.

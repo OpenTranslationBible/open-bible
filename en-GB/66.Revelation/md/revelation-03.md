@@ -1,93 +1,67 @@
 # Revelation Chapter 3
 
 ## Revelation 3:1
-
-“To the angel of the church in Sardis write:  
-He who has the seven spirits of God and the seven stars, says this:  
-‘I know your deeds, that you have a name that you are alive, and yet you are dead.
+“To the angel of the church in Sardis write: These are the words of the one who possesses the seven spirits of God and the seven stars. I am aware of your deeds; you have a reputation for being alive, yet you are dead.
 
 ## Revelation 3:2
-
-Be constantly alert, and strengthen the things that remain, which were about to die; for I have not found your deeds completed in the sight of My God.
+Be vigilant and strengthen what remains, which is on the verge of dying, for I have found your deeds incomplete in the sight of my God.
 
 ## Revelation 3:3
-
-So remember what you have received and heard; and keep it, and repent. Then if you are not alert, I will come like a thief, and you will not know at what hour I will come to you.
+So remember what you have received and heard; hold it firmly, and repent. If you do not remain alert, I will come like a thief, and you will not know the hour I will come to you.
 
 ## Revelation 3:4
-
-But you have a few people in Sardis who have not soiled their garments, and they will walk with Me in white, for they are worthy.
+However, you have a few people in Sardis who have not soiled their garments. They will walk with me, dressed in white, for they are worthy.
 
 ## Revelation 3:5
-
-The one who overcomes will be clothed the same way in white garments, and I will not erase his name from the book of life, and I will confess his name before My Father and before His angels.
+The one who is victorious will be clothed in white garments like them, and I will not erase their name from the book of life, but will acknowledge their name before my Father and his angels.
 
 ## Revelation 3:6
-
-The one who has an ear, let him hear what the Spirit says to the churches.’
+Whoever has an ear, let them hear what the Spirit says to the churches.
 
 ## Revelation 3:7
-
-“To the angel of the church in Philadelphia write:  
-He who is holy, who is true, who has the key of David, who opens and no one will shut, and who shuts and no one opens, says this:
+“To the angel of the church in Philadelphia write: These are the words of the one who is holy and true, who holds the key of David. What he opens no one can shut, and what he shuts no one can open.
 
 ## Revelation 3:8
-
-‘I know your deeds. Behold, I have put before you an open door which no one can shut, because you have little power, and yet you have kept My word and have not denied My name.
+I know your deeds. Look, I have set before you an open door that no one can shut. You have a little strength, yet you have kept my word and have not denied my name.
 
 ## Revelation 3:9
-
-Behold, I will make those of the synagogue of Satan, who say that they are Jews and are not, but lie—I will make them come and bow down before your feet, and make them know that I have loved you.
+I will make those who belong to the synagogue of Satan, who claim to be Jews but are not, and are liars—I will make them come and bow down at your feet and acknowledge that I have loved you.
 
 ## Revelation 3:10
-
-Because you have kept My word of perseverance, I also will keep you from the hour of testing, that hour which is about to come upon the whole world, to test those who live on the earth.
+Because you have kept my command to persevere, I will also keep you from the hour of trial that is about to come upon the whole world to test the inhabitants of the earth.
 
 ## Revelation 3:11
-
-I am coming quickly; hold firmly to what you have, so that no one will take your crown.
+I am coming soon. Hold fast to what you have, so that no one will take your crown.
 
 ## Revelation 3:12
-
-The one who overcomes, I will make him a pillar in the temple of My God, and he will not go out from it anymore; and I will write on him the name of My God, and the name of the city of My God, the new Jerusalem, which comes down out of heaven from My God, and My new name.
+The one who is victorious I will make a pillar in the temple of my God, and they will never leave it. I will write on them the name of my God, and the name of the city of my God, the new Jerusalem, which is coming down out of heaven from my God; and I will also write on them my new name.
 
 ## Revelation 3:13
-
-The one who has an ear, let him hear what the Spirit says to the churches.’
+Whoever has an ear, let them hear what the Spirit says to the churches.
 
 ## Revelation 3:14
-
-“To the angel of the church in Laodicea write:  
-The Amen, the faithful and true Witness, the Beginning of the creation of God, says this:
+“To the angel of the church in Laodicea write: These are the words of the Amen, the faithful and true witness, the origin of God’s creation.
 
 ## Revelation 3:15
-
-‘I know your deeds, that you are neither cold nor hot; I wish that you were cold or hot.
+I know your deeds, that you are neither cold nor hot. I wish you were either cold or hot!
 
 ## Revelation 3:16
-
-So because you are lukewarm, and neither hot nor cold, I will vomit you out of My mouth.
+So, because you are lukewarm—neither hot nor cold—I am about to spit you out of my mouth.
 
 ## Revelation 3:17
-
-Because you say, “I am rich, and have become wealthy, and have no need of anything,” and you do not know that you are wretched, miserable, poor, blind, and naked,
+You say, ‘I am rich; I have acquired wealth and do not need anything.’ But you do not realise that you are wretched, pitiful, poor, blind, and naked.
 
 ## Revelation 3:18
-
-I advise you to buy from Me gold refined by fire so that you may become rich, and white garments so that you may clothe yourself and the shame of your nakedness will not be revealed; and eye salve to apply to your eyes so that you may see.
+I advise you to buy from me gold refined in the fire, so you can become rich; and white garments to wear, so you can cover your shameful nakedness; and salve to put on your eyes, so you can see.
 
 ## Revelation 3:19
-
-Those whom I love, I rebuke and discipline; therefore be zealous and repent.
+Those whom I love, I rebuke and discipline. Therefore, be earnest and repent.
 
 ## Revelation 3:20
-
-Behold, I stand at the door and knock; if anyone hears My voice and opens the door, I will come in to him and will dine with him, and he with Me.
+Here I am! I stand at the door and knock. If anyone hears my voice and opens the door, I will come in and dine with that person, and they with me.
 
 ## Revelation 3:21
-
-The one who overcomes, I will grant to him to sit with Me on My throne, as I also overcame and sat with My Father on His throne.
+To the one who is victorious, I will grant the right to sit with me on my throne, just as I was victorious and sat down with my Father on his throne.
 
 ## Revelation 3:22
-
-The one who has an ear, let him hear what the Spirit says to the churches.’”
+Whoever has an ear, let them hear what the Spirit says to the churches.”

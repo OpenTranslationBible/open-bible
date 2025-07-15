@@ -2,202 +2,200 @@
 
 ## Job 34:1
 
-Then Elihu continued and said,
+Then Elihu continued and spoke:
 
 ## Job 34:2
 
-> “Hear my words, you wise men,  
-> And listen to me, you who understand.
+> “Hear my words, you wise men,
+> and listen to me, you men of understanding.
 
 ## Job 34:3
 
-> For the ear tests words  
-> As the palate tastes food.
+> For the ear tests words
+> as the palate tastes food.
 
 ## Job 34:4
 
-> Let us choose for ourselves what is right;  
-> Let us understand among ourselves what is good.
+> Let us choose for ourselves what is right;
+> let us discern together what is good.
 
 ---
 
 ## Job 34:5
 
-> For Job has said, ‘I am righteous,  
-> But God has taken away my right;
+> For Job has said, ‘I am righteous,
+> but God has denied me justice.
 
 ## Job 34:6
 
-> Should I lie about my right?  
-> My wound is incurable, though I am without transgression.’
+> Though I am without fault, I am considered a liar;
+> my wound is incurable, though I am guiltless.’
 
 ## Job 34:7
 
-> What man is like Job,  
-> Who drinks up derision like water,
+> What man is like Job,
+> who drinks derision like water,
 
 ## Job 34:8
 
-> Who goes in company with the workers of injustice,  
-> And walks with wicked people?
+> who associates with evildoers
+> and walks with the wicked?
 
 ## Job 34:9
 
-> For he has said, ‘It is of no use to a man  
-> When he is pleased with God.’
-
----
+> For he has said, ‘There is no benefit to a man
+> in trying to please God.’
 
 ## Job 34:10
 
-> “Therefore, listen to me, you men of understanding.  
-> Far be it from God to do evil,  
-> And from the Almighty to do wrong.
+> “Therefore, listen to me, you men of understanding.
+> It is far from God to do evil,
+> and from the Almighty to do wrong.
 
 ## Job 34:11
 
-> For He repays a person for his work,  
-> And lets things happen in correspondence to a man’s behaviour.
+> He repays a person according to their deeds,
+> and brings upon them what their conduct deserves.
 
 ## Job 34:12
 
-> Surely, God will not act wickedly,  
-> And the Almighty will not pervert justice.
+> It is unimaginable that God would act wickedly,
+> or that the Almighty would pervert justice.
 
 ## Job 34:13
 
-> Who gave Him authority over the earth?  
-> And who has laid on Him the whole world?
+> Who gave Him authority over the earth?
+> Who placed the whole world in His care?
 
 ## Job 34:14
 
-> If He were to determine to do so,  
-> If He were to gather His spirit and His breath to Himself,
+> If He were to gather His spirit
+> and breath to Himself,
 
 ## Job 34:15
 
-> All flesh would perish together,  
-> And mankind would return to dust.
+> all humanity would perish together,
+> and mankind would return to dust.
 
 ---
 
 ## Job 34:16
 
-> “But if you have understanding, hear this;  
-> Listen to the sound of my words.
+> “If you have understanding, hear this;
+> listen to the sound of my words.
 
 ## Job 34:17
 
-> Shall one who hates justice rule?  
-> And will you condemn the righteous mighty One,
+> Can one who hates justice govern?
+> Will you condemn the righteous and mighty One?
 
 ## Job 34:18
 
-> Who says to a king, ‘You worthless one,’  
-> To nobles, ‘You wicked ones,’
+> Is He not the One who says to kings, ‘You are worthless,’
+> and to nobles, ‘You are wicked,’
 
 ## Job 34:19
 
-> Who shows no partiality to the prominent,  
-> Nor regards the rich above the poor,  
-> Since they all are the work of His hands?
+> who shows no partiality to princes
+> and does not favour the rich over the poor,
+> for they are all the work of His hands?
 
 ## Job 34:20
 
-> In a moment they die,  
-> And at midnight people are shaken and pass away,  
-> And the powerful are taken away without a hand.
+> In a moment they die,
+> in the middle of the night; people are shaken and pass away,
+> and the powerful are removed without human hand.
 
 ---
 
 ## Job 34:21
 
-> For His eyes are upon the ways of a person,  
-> And He sees all his steps.
+> “For His eyes are on the ways of mortals;
+> He sees their every step.
 
 ## Job 34:22
 
-> There is no darkness or deep shadow  
-> Where the workers of injustice can hide themselves.
+> There is no darkness or deep shadow
+> where evildoers can hide themselves.
 
 ## Job 34:23
 
-> For He does not need to consider a person further,  
-> That he should go before God in judgment.
+> God does not need to examine people further,
+> that they should come before Him for judgment.
 
 ## Job 34:24
 
-> He breaks the mighty without investigation,  
-> And sets others in their place.
+> Without inquiry, He shatters the mighty
+> and sets others in their place.
 
 ## Job 34:25
 
-> Therefore He knows their deeds,  
-> And He overthrows them in the night, and they are crushed.
+> Because He takes note of their deeds,
+> He overthrows them in the night and they are crushed.
 
 ## Job 34:26
 
-> He strikes them like the wicked  
-> In a public place,
+> He strikes them for their wickedness
+> in a public place,
 
 ## Job 34:27
 
-> Because they turned aside from following Him,  
-> And had no regard for any of His ways;
+> because they turned away from following Him
+> and had no regard for any of His ways.
 
 ## Job 34:28
 
-> So that they caused the cry of the poor to come to Him,  
-> And He heard the cry of the afflicted.
+> They caused the cry of the poor to come before Him,
+> so that He heard the cry of the afflicted.
 
 ## Job 34:29
 
-> When He keeps quiet, who then can condemn?  
-> And when He hides His face, who then can behold Him,  
-> That is, in regard to both a nation and a man?—
+> When He remains silent, who can condemn Him?
+> If He hides His face, who can see Him?
+> He is over both nation and individual alike,
 
 ## Job 34:30
 
-> So that godless people would not rule,  
-> Nor be snares to the people.
+> to prevent the godless from ruling
+> and laying snares for the people.
 
 ---
 
 ## Job 34:31
 
-> “For has anyone said to God,  
-> ‘I have endured punishment; I will not offend anymore;
+> “For has anyone said to God,
+> ‘I have endured punishment; I will offend no more;
 
 ## Job 34:32
 
-> Teach me what I do not see;  
-> If I have done wrong, I will not do it again’?
+> teach me what I do not see;
+> if I have done wrong, I will not do it again’?
 
 ## Job 34:33
 
-> Shall God repay on your terms, because you have rejected it?  
-> For you must choose, and not I;  
-> Therefore declare what you know.
+> Should God repay on your terms because you reject His?
+> You must choose, not I;
+> therefore, declare what you know.
 
 ---
 
 ## Job 34:34
 
-> Men of understanding will say to me,  
-> And a wise man who hears me,
+> Men of understanding will say to me,
+> and a wise man who hears me will say,
 
 ## Job 34:35
 
-> ‘Job speaks without knowledge,  
-> And his words are without wisdom.
+> ‘Job speaks without knowledge;
+> his words lack wisdom.’
 
 ## Job 34:36
 
-> Oh that Job were tested to the limit,  
-> Because he answers like men of wickedness.
+> Oh, that Job might be tested to the utmost,
+> for answering like a wicked man!
 
 ## Job 34:37
 
-> For he adds rebellion to his sin;  
-> He claps his hands among us,  
-> And multiplies his words against God.’”
+> For he adds rebellion to his sin;
+> he claps his hands among us
+> and multiplies his words against God.”

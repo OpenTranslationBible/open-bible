@@ -2,69 +2,68 @@
 
 ## Ezekiel 28:1
 
-The word of the Lord came to me again, saying,
+The word of the Lord came to me, saying,
 
 ## Ezekiel 28:2
 
-“Son of man, say to the leader of Tyre, ‘This is what the Lord God says:  
-“Because your heart is haughty and you have said,
+“Son of man, say to the prince of Tyre, ‘This is what the Sovereign Lord says: “In the arrogance of your heart you proclaim,
 
-> ‘I am a god,  
-> I sit in the seat of gods in the heart of the seas’;  
-> Yet you are a man and not God,  
-> Although you make your heart like the heart of God—
+‘I am a god;
+I occupy the seat of gods in the heart of the seas.’
+Yet you are a mortal and not a god,
+though you imagine yourself as wise as a god.
 
 ## Ezekiel 28:3
 
-> Behold, you are wiser than Daniel;  
-> There is no secret that is hidden from you.
+Behold, are you wiser than Daniel?
+Is no secret too hidden for you?
 
 ## Ezekiel 28:4
 
-> By your wisdom and understanding  
-> You have acquired riches for yourself  
-> And have acquired gold and silver for your treasuries.
+By your wisdom and understanding
+you have acquired wealth for yourself
+and gathered gold and silver into your treasuries.
 
 ## Ezekiel 28:5
 
-> By your great wisdom, by your trade  
-> You have increased your riches,  
-> And your heart is haughty because of your riches—
+By your great skill in trading
+you have increased your riches,
+and your heart has become proud because of your wealth.
 
 ## Ezekiel 28:6
 
-Therefore this is what the Lord God says:
+“‘Therefore this is what the Sovereign Lord says:
 
-> ‘Because you have made your heart  
-> Like the heart of God,
+> ‘Because you have made your heart
+> like the heart of a god,
 
 ## Ezekiel 28:7
 
-> Therefore, behold, I am going to bring strangers against you,  
-> The most ruthless of the nations.  
-> And they will draw their swords  
-> Against the beauty of your wisdom  
-> And defile your splendour.
+> therefore, behold, I will bring foreigners against you,
+> the most ruthless of nations;
+> they will draw their swords
+> against the beauty of your wisdom
+> and defile your splendour.
 
 ## Ezekiel 28:8
 
-> They will bring you down to the pit,  
-> And you will die the death of those who are killed  
-> In the heart of the seas.
+> They will bring you down to the pit,
+> and you will die a violent death
+> in the heart of the seas.
 
 ## Ezekiel 28:9
 
-> Will you still say, “I am a god,”  
-> In the presence of the one who kills you,  
-> Though you are a man and not God,  
-> In the hands of those who wound you?
+> Will you still say, ‘I am a god,’
+> in the presence of those who slay you?
+> You will be a mortal, not a god,
+> in the hands of those who wound you.
 
 ## Ezekiel 28:10
 
-> You will die the death of the uncircumcised  
-> By the hand of strangers,
+> You will die the death of the uncircumcised
+> by the hands of foreigners.
 
-For I have spoken!’” declares the Lord God.
+I have spoken, declares the Sovereign Lord.’”
 
 ## Ezekiel 28:11
 
@@ -72,71 +71,68 @@ Again the word of the Lord came to me, saying,
 
 ## Ezekiel 28:12
 
-“Son of man, take up a song of mourning over the king of Tyre and say to him,  
-‘This is what the Lord God says:
+“Son of man, raise a lamentation over the king of Tyre and say to him: ‘This is what the Sovereign Lord says:
 
-> “You had the seal of perfection,  
-> Full of wisdom and perfect in beauty.
+> “You were the seal of perfection,
+> full of wisdom and perfect in beauty.
 
 ## Ezekiel 28:13
 
-> You were in Eden, the garden of God;  
-> Every precious stone was your covering:  
-> The ruby, the topaz, and the diamond;  
-> The beryl, the onyx, and the jasper;  
-> The lapis lazuli, the turquoise, and the emerald;  
-> And the gold, the workmanship of your settings and sockets,  
-> Was in you.  
-> On the day that you were created  
-> They were prepared.
+> You were in Eden, the garden of God;
+> every precious stone was your covering:
+> carnelian, topaz, and diamond,
+> beryl, onyx, and jasper,
+> lapis lazuli, turquoise, and emerald.
+> Your settings and mountings were crafted in gold;
+> on the day you were created
+> they were prepared.
 
 ## Ezekiel 28:14
 
-> You were the anointed cherub who covers,  
-> And I placed you there.  
-> You were on the holy mountain of God;  
-> You walked in the midst of the stones of fire.
+> You were the anointed cherub who covers,
+> and I placed you on the holy mountain of God;
+> you walked among the stones of fire.
 
 ## Ezekiel 28:15
 
-> You were blameless in your ways  
-> From the day you were created  
-> Until unrighteousness was found in you.
+> You were blameless in your ways
+> from the day you were created
+> until wickedness was found in you.
 
 ## Ezekiel 28:16
 
-> By the abundance of your trade  
-> You were internally filled with violence,  
-> And you sinned;  
-> Therefore I have cast you as profane  
-> From the mountain of God.  
-> And I have destroyed you, you covering cherub,  
-> From the midst of the stones of fire.
+> Through the abundance of your trade
+> you were filled with violence,
+> and you sinned.
+> So I cast you as profane
+> from the mountain of God,
+> and I destroyed you, O covering cherub,
+> from the midst of the stones of fire.
 
 ## Ezekiel 28:17
 
-> Your heart was haughty because of your beauty;  
-> You corrupted your wisdom by reason of your splendour.  
-> I threw you to the ground,  
-> I put you before kings,  
-> That they may see you.
+> Your heart was proud because of your beauty;
+> you corrupted your wisdom due to your splendour.
+> I cast you to the ground;
+> I exposed you before kings,
+> that they might gaze at you.
 
 ## Ezekiel 28:18
 
-> By the multitude of your wrongdoings,  
-> By the unrighteousness of your trade,  
-> You profaned your sanctuaries.  
-> Therefore I have brought fire from the midst of you;  
-> It has consumed you,  
-> And I have turned you to ashes on the earth  
-> In the eyes of all who see you.
+> By the multitude of your iniquities,
+> in the unrighteousness of your trade,
+> you profaned your sanctuaries.
+> So I brought forth a fire from within you;
+> it consumed you,
+> and I turned you to ashes upon the earth
+> in the sight of all who beheld you.
 
 ## Ezekiel 28:19
 
-> All who know you among the peoples  
-> Are appalled at you;  
-> You have become terrified  
-> And you will cease to be forever.”’”
+> All the nations who knew you
+> are appalled at you;
+> you have become a horror
+> and shall be no more forever.”’”
 
 ## Ezekiel 28:20
 
@@ -144,34 +140,34 @@ And the word of the Lord came to me, saying,
 
 ## Ezekiel 28:21
 
-“Son of man, set your face toward Sidon, prophesy against her
+“Son of man, set your face against Sidon, and prophesy against her
 
 ## Ezekiel 28:22
 
-And say, ‘This is what the Lord God says:
+and say, ‘This is what the Sovereign Lord says:
 
-> “Behold, I am against you, Sidon,  
-> And I will be glorified in your midst.  
-> Then they will know that I am the Lord  
-> When I execute judgments against her,  
-> And I will show Myself holy through her.
+> “Behold, I am against you, Sidon,
+> and I will be glorified in your midst.
+> Then they will know that I am the Lord,
+> when I execute judgments against her
+> and reveal My holiness in her.
 
 ## Ezekiel 28:23
 
-> For I will send a plague to her  
-> And blood into her streets,  
-> And the wounded will fall in her midst  
-> By the sword upon her from every side;  
+> For I will send a plague upon her
+> and blood into her streets;
+> the slain will fall in her midst
+> by the sword on every side.
 > Then they will know that I am the Lord.
 
 ## Ezekiel 28:24
 
-And there will no longer be for the house of Israel a painful thorn or a hurting thorn from any surrounding people who despise them; then they will know that I am the Lord God.”
+And there will no longer be for the house of Israel a painful brier or a prickling thorn from any around them who despised them. Then they will know that I am the Sovereign Lord.
 
 ## Ezekiel 28:25
 
-‘This is what the Lord God says: “When I gather the house of Israel from the peoples among whom they are scattered, and I show Myself holy among them in the sight of the nations, then they will live in their land which I gave to My servant Jacob.
+‘This is what the Sovereign Lord says: When I gather the house of Israel from the peoples among whom they are scattered, and show Myself holy among them in the sight of the nations, then they will dwell in their own land which I gave to My servant Jacob.
 
 ## Ezekiel 28:26
 
-And they will live in it securely, and they will build houses, plant vineyards, and live securely when I execute judgments upon all who scorn them around them. Then they will know that I am the Lord their God.”’”
+They will live there securely; they will build houses and plant vineyards, and live securely when I execute judgments upon all their neighbours who despised them. Then they will know that I am the Lord their God.’”

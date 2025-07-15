@@ -2,144 +2,114 @@
 
 ## Proverbs 27:1
 
-Do not boast about tomorrow,  
-For you do not know what a day may bring.
+Do not boast about tomorrow, for you do not know what a day may bring forth.
 
 ## Proverbs 27:2
 
-Let another praise you, and not your own mouth;  
-A stranger, and not your own lips.
+Let another person praise you, and not your own mouth; a stranger, and not your own lips.
 
 ## Proverbs 27:3
 
-A stone is heavy and the sand weighty,  
-But the provocation of a fool is heavier than both of them.
+A stone is heavy and sand is burdensome, but the provocation of a fool is heavier than both.
 
 ## Proverbs 27:4
 
-Wrath is fierce and anger is a flood,  
-But who can stand before jealousy?
+Anger is cruel and wrath is overwhelming, but who can stand against jealousy?
 
 ## Proverbs 27:5
 
-Better is open rebuke  
-Than love that is concealed.
+Better is open rebuke than love that is concealed.
 
 ## Proverbs 27:6
 
-Faithful are the wounds of a friend,  
-But deceitful are the kisses of an enemy.
+Faithful are the wounds of a friend, but the kisses of an enemy are deceitful.
 
 ## Proverbs 27:7
 
-A satisfied person despises honey,  
-But to a hungry person, any bitter thing is sweet.
+A person who is full despises honey, but to the hungry even what is bitter tastes sweet.
 
 ## Proverbs 27:8
 
-Like a bird that wanders from its nest,  
-So is a person who wanders from his home.
+Like a bird that wanders from its nest, so is a person who leaves their home.
 
 ## Proverbs 27:9
 
-Oil and perfume make the heart glad,  
-And the sweetness of a friend comes from his advice.
+Perfume and oil bring joy to the heart, and the sweetness of a friend comes from their sincere counsel.
 
 ## Proverbs 27:10
 
-Do not abandon your own friend or your father’s friend,  
-And do not go to your brother’s house on the day of your disaster;  
-Better is a neighbour who is near  
-Than a brother far away.
+Do not forsake your friend or your father's friend, and do not go to your brother's house in the day of your calamity; better is a neighbour who is near than a brother far away.
 
 ---
 
 ## Proverbs 27:11
 
-Be wise, my son, and make my heart glad,  
-So that I may reply to the one who taunts me.
+Be wise, my son, and make my heart glad, so that I may answer those who reproach me.
 
 ## Proverbs 27:12
 
-A prudent person sees evil and hides himself,  
-The naive proceed and pay the penalty.
+The prudent see danger and hide themselves, but the simple go on and suffer for it.
 
 ## Proverbs 27:13
 
-Take his garment when he becomes a guarantor for a stranger;  
-And for a foreign woman, hold him in pledge.
+Take the garment of one who is surety for a stranger; hold it in pledge when it is for a foreigner.
 
 ## Proverbs 27:14
 
-One who blesses his friend with a loud voice early in the morning,  
-It will be considered a curse to him.
+If anyone blesses their neighbour with a loud voice early in the morning, it will be taken as a curse.
 
 ## Proverbs 27:15
 
-A constant dripping on a day of steady rain  
-And a contentious woman are alike;
+A continual dripping on a rainy day and a quarrelsome wife are alike.
 
 ## Proverbs 27:16
 
-One who would restrain her restrains the wind,  
-And grasps oil with his right hand.
+Trying to restrain her is like restraining the wind or grasping oil with the hand.
 
 ---
 
 ## Proverbs 27:17
 
-Iron sharpens iron,  
-So one person sharpens another.
+As iron sharpens iron, so one person sharpens another.
 
 ## Proverbs 27:18
 
-One who tends the fig tree will eat its fruit,  
-And one who cares for his master will be honoured.
+The one who tends a fig tree will eat its fruit, and whoever looks after their master will be honoured.
 
 ## Proverbs 27:19
 
-As in water a face reflects the face,  
-So the heart of a person reflects the person.
+As water reflects the face, so the heart of a person reflects the person.
 
 ## Proverbs 27:20
 
-Sheol and Abaddon are never satisfied,  
-Nor are the eyes of man ever satisfied.
+Sheol and Abaddon are never satisfied, and neither are the eyes of a person.
 
 ## Proverbs 27:21
 
-The crucible is for silver and the furnace for gold,  
-And a person is tested by the praise accorded him.
+The crucible is for silver and the furnace for gold, but people are tested by the praise they receive.
 
 ## Proverbs 27:22
 
-Though you pound a fool in a mortar with a pestle along with crushed grain,  
-His foolishness will not depart from him.
+Though you grind a fool in a mortar, grinding them like grain with a pestle, their folly will not depart from them.
 
 ---
 
 ## Proverbs 27:23
 
-Know well the condition of your flocks,  
-And pay attention to your herds;
+Be sure to know the state of your flocks, and pay attention to your herds;
 
 ## Proverbs 27:24
 
-For riches are not forever,  
-Nor does a crown endure to all generations.
+for wealth does not last forever, nor does a crown endure to all generations.
 
 ## Proverbs 27:25
 
-When the grass disappears, the new growth is seen,  
-And the herbs of the mountains are gathered in,
+When the hay is removed and new growth appears, and the herbs of the mountains are gathered in,
 
 ## Proverbs 27:26
 
-The lambs will be for your clothing,  
-And the goats will bring the price of a field,
+the lambs will provide you with clothing, and the goats will bring the price of a field.
 
 ## Proverbs 27:27
 
-And there will be enough goats’ milk for your food,  
-For the food of your household,  
-And sustenance for your attendants.
+And there will be enough goats’ milk for your food, for the food of your household, and sustenance for your maidservants.

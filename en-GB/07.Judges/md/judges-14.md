@@ -2,116 +2,95 @@
 
 ## Judges 14:1
 
-Samson went down to Timnah and saw there a young Philistine woman.
+Samson went down to Timnah and there he saw a young woman, one of the Philistines.
 
 ## Judges 14:2
 
-When he returned, he said to his father and mother, “I have seen a Philistine woman in Timnah; now get her for me as my wife.”
+Upon returning, he told his father and mother, “I have seen a woman in Timnah of the Philistines; now arrange for her to be my wife.”
 
 ## Judges 14:3
 
-His father and mother replied, “Isn’t there an acceptable woman among your relatives or among our people?  
-Must you go to the uncircumcised Philistines to get a wife?”  
-But Samson said to his father, “Get her for me. She is right in my eyes.”
+His father and mother questioned him, “Is there no suitable woman among your own relatives or among our people, that you must go to the uncircumcised Philistines for a wife?” But Samson insisted to his father, “Get her for me, for she pleases me.”
 
 ## Judges 14:4
 
-(His parents did not know that this was from the Lord,  
-who was seeking an occasion to confront the Philistines; for at that time they were ruling over Israel.)
+His parents were unaware that this was from the Lord, who was seeking an occasion to act against the Philistines, as they were ruling over Israel at that time.
 
 ---
 
 ## Judges 14:5
 
-Samson went down to Timnah with his father and mother.  
-As they approached the vineyards of Timnah, suddenly a young lion came roaring toward him.
+Samson went down to Timnah with his father and mother. As they approached the vineyards of Timnah, a young lion came roaring towards him.
 
 ## Judges 14:6
 
-The Spirit of the Lord came powerfully upon him so that he tore the lion apart with his bare hands as he might have torn a young goat.  
-But he told neither his father nor his mother what he had done.
+The Spirit of the Lord came mightily upon him, and he tore the lion apart with his bare hands as one might tear a young goat. He did not tell his father or mother what he had done.
 
 ## Judges 14:7
 
-Then he went down and talked with the woman, and he liked her.
-
----
+He went down and spoke with the woman, and she was pleasing to Samson.
 
 ## Judges 14:8
 
-Some time later, when he went back to marry her, he turned aside to look at the lion’s carcass,  
-and in it was a swarm of bees and some honey.
+Some time later, when he returned to marry her, he turned aside to look at the lion’s carcass, and saw a swarm of bees and some honey inside it.
 
 ## Judges 14:9
 
-He scooped out the honey with his hands and ate it as he went along.  
-When he rejoined his parents, he gave them some, and they ate it too.  
-But he did not tell them that he had taken the honey from the lion’s carcass.
-
----
+He scooped out the honey with his hands and ate it as he went along. When he rejoined his parents, he gave some to them and they ate it, but he did not reveal that he had taken the honey from the lion’s carcass.
 
 ## Judges 14:10
 
-Now his father went down to see the woman, and there Samson gave a feast, as was customary for young men.
+His father went down to see the woman, and Samson held a feast there, as was customary for young men.
 
 ## Judges 14:11
 
-When the people saw him, they chose thirty companions to be with him.
+When the people saw him, they selected thirty companions to be with him.
 
 ## Judges 14:12
 
-“Let me tell you a riddle,” Samson said to them. “If you can give me the answer within the seven days of the feast,  
-I will give you thirty linen garments and thirty sets of clothes.
+Samson said to them, “Let me propose a riddle to you. If you can solve it within the seven days of the feast, I will give you thirty linen garments and thirty sets of clothes.
 
 ## Judges 14:13
 
-But if you cannot tell me the answer, you must give me thirty linen garments and thirty sets of clothes.”  
-“Tell us your riddle,” they said. “Let’s hear it.”
+But if you cannot solve it, you must give me thirty linen garments and thirty sets of clothes.” They replied, “Tell us your riddle, so we may hear it.”
 
 ## Judges 14:14
 
-He replied,  
-> “Out of the eater came something to eat;  
-> out of the strong came something sweet.”  
-For three days they could not give the answer.
+He said,
 
----
+> “Out of the eater came something to eat,
+> out of the strong came something sweet.”
+
+For three days they could not solve the riddle.
 
 ## Judges 14:15
 
-On the fourth day, they said to Samson’s wife,  
-“Coax your husband into explaining the riddle for us, or we will burn you and your father’s household to death.  
-Did you invite us here to steal our property?”
+On the fourth day, they said to Samson’s wife, “Coax your husband into explaining the riddle for us, or we will burn you and your father’s household to death. Did you invite us here to impoverish us?”
 
 ## Judges 14:16
 
-Then Samson’s wife threw herself on him, sobbing,  
-“You hate me! You don’t really love me. You’ve given my people a riddle, but you haven’t told me the answer.”
-
-“I haven’t even explained it to my father or mother,” he replied, “so why should I explain it to you?”
+Samson’s wife wept before him, saying, “You hate me! You do not love me. You have given my people a riddle, but you have not told me the answer.” He replied, “I have not even told my father or mother, so why should I tell you?”
 
 ## Judges 14:17
 
-She cried the whole seven days of the feast.  
-So on the seventh day he finally told her, because she continued to press him.  
-She in turn explained the riddle to her people.
+She cried for the entire seven days of the feast. On the seventh day, he finally told her because she pressed him so hard. She then explained the riddle to her people.
 
 ## Judges 14:18
 
-Before sunset on the seventh day, the men of the town said to him,  
-> “What is sweeter than honey?  
-> What is stronger than a lion?”  
-Samson said to them,  
-“If you had not ploughed with my heifer, you would not have solved my riddle.”
+Before sunset on the seventh day, the men of the city said to him,
 
----
+> “What is sweeter than honey?
+> What is stronger than a lion?”
+
+Samson replied,
+
+> “If you had not ploughed with my heifer,
+> you would not have solved my riddle.”
 
 ## Judges 14:19
 
-Then the Spirit of the Lord came powerfully upon him.  
-He went down to Ashkelon, struck down thirty of their men, took their belongings and gave their clothes to those who had explained the riddle.  
-Burning with anger, he returned to his father’s home.
+Then the Spirit of the Lord came mightily upon him. He went down to Ashkelon, struck down thirty men, took their belongings, and gave their clothes to those who had solved the riddle. Burning with anger, he returned to his father’s house.
 
 ## Judges 14:20
 
-And Samson’s wife was given to one of his companions who had attended him at the feast.
+Samson’s wife was given to one of his companions who had attended him at the feast.

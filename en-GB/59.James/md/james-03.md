@@ -1,73 +1,55 @@
 # James Chapter 3
 
 ## James 3:1
-
-Do not become teachers in large numbers, my brothers and sisters, since you know that we who are teachers will incur a stricter judgment.
+Not many of you should aspire to be teachers, my brothers and sisters, because you know that we who teach will be judged with greater strictness.
 
 ## James 3:2
-
-For we all stumble in many ways. If anyone does not stumble in what he says, he is a perfect man, able to rein in the whole body as well.
+We all stumble in various ways. If anyone does not stumble in what they say, they are perfect, capable of controlling the whole body as well.
 
 ## James 3:3
-
-Now if we put the bits into the horses’ mouths so that they will obey us, we direct their whole bodies as well.
+When we place bits in the mouths of horses to make them obey us, we can guide their entire bodies.
 
 ## James 3:4
-
-Look at the ships too: though they are so large and are driven by strong winds, they are nevertheless directed by a very small rudder wherever the inclination of the pilot determines.
+Consider ships as well: despite their size and being driven by strong winds, they are steered by a very small rudder wherever the pilot desires.
 
 ## James 3:5
-
-So also the tongue is a small part of the body, and yet it boasts of great things. See how great a forest is set aflame by such a small fire!
+Similarly, the tongue is a small part of the body, yet it boasts of great things. See how a large forest can be set ablaze by a small spark!
 
 ## James 3:6
-
-And the tongue is a fire, the very world of unrighteousness; the tongue is set among our body’s parts as that which defiles the whole body and sets on fire the course of our life, and is set on fire by hell.
+The tongue is also a fire, a world of iniquity among the parts of the body. It corrupts the whole body, sets the course of one's life on fire, and is itself set on fire by hell.
 
 ## James 3:7
-
-For every species of beasts and birds, of reptiles and creatures of the sea, is tamed and has been tamed by the human race,
+All kinds of animals, birds, reptiles, and sea creatures are tamed and have been tamed by humanity,
 
 ## James 3:8
-
-but no one among mankind can tame the tongue; it is a restless evil, full of deadly poison.
+but no human can tame the tongue. It is a restless evil, full of deadly poison.
 
 ## James 3:9
-
-With it we bless our Lord and Father, and with it we curse people, who have been made in the likeness of God;
+With it we bless our Lord and Father, and with it we curse people, who are made in God's likeness.
 
 ## James 3:10
-
-from the same mouth come both blessing and cursing. My brothers and sisters, these things should not be this way.
+Out of the same mouth come blessing and cursing. My brothers and sisters, this ought not to be so.
 
 ## James 3:11
-
-Does a spring send out from the same opening both fresh and bitter water?
+Can a spring produce both fresh and bitter water from the same opening?
 
 ## James 3:12
-
-Can a fig tree, my brothers and sisters, bear olives, or a vine bear figs? Nor can salt water produce fresh.
+My brothers and sisters, can a fig tree produce olives, or a grapevine produce figs? Neither can a salt spring yield fresh water.
 
 ## James 3:13
-
-Who among you is wise and understanding? Let him show by his good behaviour his deeds in the gentleness of wisdom.
+Who among you is wise and understanding? Let them demonstrate it by their good conduct, through deeds done in the humility that wisdom brings.
 
 ## James 3:14
-
-But if you have bitter jealousy and selfish ambition in your heart, do not be arrogant and so lie against the truth.
+But if you harbour bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth.
 
 ## James 3:15
-
-This wisdom is not that which comes down from above, but is earthly, natural, demonic.
+Such wisdom does not come from above, but is earthly, unspiritual, and demonic.
 
 ## James 3:16
-
-For where jealousy and selfish ambition exist, there is disorder and every evil thing.
+For where there is envy and selfish ambition, there is disorder and every evil practice.
 
 ## James 3:17
-
-But the wisdom from above is first pure, then peaceable, gentle, reasonable, full of mercy and good fruits, impartial, free of hypocrisy.
+But the wisdom from above is first pure, then peace-loving, gentle, willing to yield, full of mercy and good fruits, impartial and sincere.
 
 ## James 3:18
-
-And the fruit of righteousness is sown in peace by those who make peace.
+Peacemakers who sow in peace reap a harvest of righteousness.

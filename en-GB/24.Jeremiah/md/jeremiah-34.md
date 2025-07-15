@@ -1,67 +1,67 @@
 # Jeremiah Chapter 34
 
-## Jeremiah 34:1  
-The word that came to Jeremiah from the Lord, when Nebuchadnezzar king of Babylon and all his army, with all the kingdoms of the earth that were under his control, and all the peoples, were fighting against Jerusalem and against all its cities, saying,
+## Jeremiah 34:1
+The message came to Jeremiah from the Lord while Nebuchadnezzar, king of Babylon, and all his army, along with all the kingdoms and peoples under his dominion, were waging war against Jerusalem and all its towns:
 
-## Jeremiah 34:2  
-“This is what the Lord, the God of Israel says: Go and speak to Zedekiah king of Judah and say to him, ‘This is what the Lord says: Behold, I am going to hand this city over to the king of Babylon, and he will burn it with fire.
+## Jeremiah 34:2
+“This is what the Lord, the God of Israel, says: Go to Zedekiah, king of Judah, and tell him, ‘This is what the Lord says: Behold, I am about to deliver this city into the hands of the king of Babylon, and he will set it ablaze.
 
-## Jeremiah 34:3  
-And you will not escape from his hand, for you will assuredly be caught and handed over to him; and you will see the king of Babylon eye to eye, and he will speak with you face to face, and you will go to Babylon.’”
+## Jeremiah 34:3
+You will not escape from his grasp but will certainly be captured and handed over to him. You will see the king of Babylon with your own eyes, and he will converse with you face to face, and you will be taken to Babylon.
 
-## Jeremiah 34:4  
-Yet hear the word of the Lord, O Zedekiah king of Judah: “This is what the Lord says about you: ‘You will not die by the sword;
+## Jeremiah 34:4
+Yet hear the word of the Lord, Zedekiah king of Judah! This is what the Lord says concerning you: You will not die by the sword;
 
-## Jeremiah 34:5  
-You will die in peace; and as spices were burned for your fathers, the former kings who were before you, so they will burn spices for you; and they will mourn for you, saying, “Oh, master!”’ For I have spoken the word,” declares the Lord.
+## Jeremiah 34:5
+you will die peacefully. As spices were burned for your ancestors, the former kings before you, so they will burn spices for you and lament, “Alas, my lord!” I have spoken this word, declares the Lord.’”
 
-## Jeremiah 34:6  
-Then Jeremiah the prophet spoke all these words to Zedekiah king of Judah in Jerusalem.
+## Jeremiah 34:6
+Then Jeremiah the prophet relayed all these words to Zedekiah king of Judah, in Jerusalem,
 
-## Jeremiah 34:7  
-When the army of the king of Babylon was fighting against Jerusalem and the remaining cities of Judah, that is, Lachish and Azekah; for they alone remained as fortified cities among the cities of Judah.
+## Jeremiah 34:7
+while the army of the king of Babylon was engaged in battle against Jerusalem and the remaining cities of Judah, namely Lachish and Azekah, as these were the only fortified cities left in Judah.
 
-## Jeremiah 34:8  
-The word that came to Jeremiah from the Lord after King Zedekiah had made a covenant with all the people who were in Jerusalem, to proclaim release to them:
+## Jeremiah 34:8
+The word came to Jeremiah from the Lord after King Zedekiah had established a covenant with all the people in Jerusalem to proclaim liberty for the slaves.
 
-## Jeremiah 34:9  
-That each man was to set free his male servant and each man his female servant, a Hebrew man or a Hebrew woman, so that no one would keep them in bondage, a Jew his brother.
+## Jeremiah 34:9
+Each person was to free their Hebrew slaves, both male and female, so that no one would hold a fellow Hebrew in servitude.
 
-## Jeremiah 34:10  
-And all the officials and all the people who had entered into the covenant heard that each man was to set his male servant free and each his female servant, so that no one would keep them any longer in bondage; so they obeyed and set them free.
+## Jeremiah 34:10
+All the officials and people who had entered into this covenant agreed to release their male and female slaves and no longer keep them in bondage. They complied and set them free.
 
-## Jeremiah 34:11  
-But afterward they turned around and took back the male and female servants whom they had set free, and brought them into subjection as slaves.
+## Jeremiah 34:11
+However, they later changed their minds and took back the slaves they had liberated, forcing them into servitude once more.
 
-## Jeremiah 34:12  
-Then the word of the Lord came to Jeremiah from the Lord, saying,
+## Jeremiah 34:12
+Then the word of the Lord came to Jeremiah:
 
-## Jeremiah 34:13  
-“This is what the Lord, the God of Israel says: ‘I made a covenant with your forefathers on the day I brought them out of the land of Egypt, from the house of slavery, saying,
+## Jeremiah 34:13
+“This is what the Lord, the God of Israel, says: I made a covenant with your ancestors when I brought them out of Egypt, out of the house of bondage, saying,
 
-## Jeremiah 34:14  
-“At the end of seven years each of you shall set free his Hebrew brother who has been sold to you and has served you six years; you shall send him out free from you.” But your forefathers did not obey Me nor incline their ear to Me.
+## Jeremiah 34:14
+‘At the end of seven years, each of you must free any fellow Hebrews who have sold themselves to you. After they have served you for six years, you must release them.’ But your ancestors did not listen to me or pay heed.
 
-## Jeremiah 34:15  
-Although recently you had turned and done what is right in My sight, each one proclaiming release to his neighbor, and you had made a covenant before Me in the house which is called by My name.
+## Jeremiah 34:15
+Recently, you turned and did what was right in my sight: Each of you proclaimed freedom to your neighbour, and you made a covenant before me in the house that bears my Name.
 
-## Jeremiah 34:16  
-Yet you turned and profaned My name, and each took back his male servant and each his female servant whom you had set free according to their desire, and you brought them into subjection to be your slaves.
+## Jeremiah 34:16
+But now you have turned and profaned my name; each of you has taken back the male and female slaves you had set free to go as they pleased. You have brought them back into subjection as your slaves.
 
-## Jeremiah 34:17  
-Therefore this is what the Lord says: “You have not obeyed Me in proclaiming release, each to his brother and each to his neighbor. Behold, I am proclaiming release to you,” declares the Lord, “to the sword, to the plague, and to the famine; and I will make you an object of terror to all the kingdoms of the earth.
+## Jeremiah 34:17
+Therefore, this is what the Lord says: You have not obeyed me by proclaiming liberty, each to his brother and neighbour. So now I proclaim ‘liberty’ for you, declares the Lord—‘liberty’ to the sword, to plague, and to famine. I will make you a horror to all the kingdoms of the earth.
 
-## Jeremiah 34:18  
-I will give the people who have violated My covenant, who have not fulfilled the words of the covenant which they made before Me, when they cut the calf in two and passed between its parts—
+## Jeremiah 34:18
+Those who have violated my covenant and have not fulfilled the terms of the covenant they made before me, I will treat like the calf they cut in two and then passed between its parts.
 
-## Jeremiah 34:19  
-the officials of Judah and the officials of Jerusalem, the court officers and the priests, and all the people of the land who passed between the parts of the calf—
+## Jeremiah 34:19
+The leaders of Judah and Jerusalem, the court officials, the priests, and all the people of the land who passed between the parts of the calf,
 
-## Jeremiah 34:20  
-I will hand them over to their enemies and to those who seek their lives. And their dead bodies will be food for the birds of the sky and the animals of the earth.
+## Jeremiah 34:20
+I will deliver into the hands of their enemies who seek their lives. Their corpses will become food for the birds of the air and the beasts of the earth.
 
-## Jeremiah 34:21  
-Zedekiah king of Judah and his officials I will also hand over to their enemies and to those who seek their lives, and to the army of the king of Babylon which has withdrawn from you.
+## Jeremiah 34:21
+I will hand over Zedekiah king of Judah and his officials to their enemies who seek their lives, to the army of the king of Babylon, which has withdrawn from you.
 
-## Jeremiah 34:22  
-Behold, I am going to command,” declares the Lord, “and I will bring them back to this city; and they will fight against it and take it and burn it with fire; and I will make the cities of Judah a desolation without inhabitant.”
+## Jeremiah 34:22
+Behold, I am going to give the command, declares the Lord, and I will bring them back to this city. They will fight against it, capture it, and set it on fire; and I will make the towns of Judah desolate, without inhabitant.”

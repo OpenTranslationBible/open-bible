@@ -2,68 +2,68 @@
 
 ## Revelation 5:1
 
-I saw in the right hand of Him who sat on the throne a scroll written inside and on the back, sealed up with seven seals.
+I observed in the right hand of the one seated on the throne a scroll inscribed on both sides and sealed with seven seals.
 
 ## Revelation 5:2
 
-And I saw a strong angel proclaiming with a loud voice, “Who is worthy to open the scroll and to break its seals?”
+And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”
 
 ## Revelation 5:3
 
-And no one in heaven, or on the earth, or under the earth was able to open the scroll or to look into it.
+But no one in heaven, on earth, or under the earth was able to open the scroll or even look inside it.
 
 ## Revelation 5:4
 
-Then I began to weep greatly because no one was found worthy to open the scroll or to look into it.
+I wept greatly because no one was found worthy to open the scroll or to look inside it.
 
 ## Revelation 5:5
 
-And one of the elders said to me, “Stop weeping; behold, the Lion that is from the tribe of Judah, the Root of David, has overcome so as to be able to open the scroll and its seven seals.”
+Then one of the elders said to me, “Do not weep! Behold, the Lion of the tribe of Judah, the Root of David, has triumphed. He is able to open the scroll and its seven seals.”
 
 ## Revelation 5:6
 
-And I saw between the throne (with the four living creatures) and the elders a Lamb standing, as if slaughtered, having seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.
+And I saw a Lamb standing between the throne and the four living creatures and the elders, looking as if it had been slain. It had seven horns and seven eyes, which are the seven spirits of God sent out into all the earth.
 
 ## Revelation 5:7
 
-And He came and took the scroll out of the right hand of Him who sat on the throne.
+He approached and took the scroll from the right hand of the one seated on the throne.
 
 ## Revelation 5:8
 
-When He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb, each one holding a harp and golden bowls full of incense, which are the prayers of the saints.
+When He had taken the scroll, the four living creatures and the twenty-four elders fell down before the Lamb. Each held a harp and golden bowls full of incense, which are the prayers of God’s people.
 
 ## Revelation 5:9
 
-And they sang a new song, saying,
+And they sang a new song, saying:
 
-> “Worthy are You to take the scroll  
-> And to break its seals;  
-> For You were slaughtered, and You purchased people for God with Your blood  
-> From every tribe, language, people, and nation.
+> “You are worthy to take the scroll
+> and open its seals,
+> for You were slain, and with Your blood, You purchased for God people
+> from every tribe, language, people, and nation.
 
 ## Revelation 5:10
 
-> You have made them into a kingdom and priests to our God,  
-> And they will reign upon the earth.”
+> You have made them a kingdom and priests to serve our God,
+> and they will reign on the earth.”
 
 ## Revelation 5:11
 
-Then I looked, and I heard the voices of many angels around the throne and the living creatures and the elders; and the number of them was myriads of myriads, and thousands of thousands,
+Then I looked and heard the voices of many angels surrounding the throne and the living creatures and the elders; their number was thousands upon thousands, and ten thousand times ten thousand.
 
 ## Revelation 5:12
 
-saying with a loud voice,
+In a loud voice, they were saying:
 
-> “Worthy is the Lamb that was slaughtered  
-> To receive power, wealth, wisdom, might, honour, glory, and blessing.”
+> “Worthy is the Lamb who was slain
+> to receive power, wealth, wisdom, might, honour, glory, and blessing!”
 
 ## Revelation 5:13
 
-And I heard every created thing which is in heaven, or on the earth, or under the earth, or on the sea, and all the things in them, saying,
+And I heard every creature in heaven, on earth, under the earth, and on the sea, and all that is in them, saying:
 
-> “To Him who sits on the throne and to the Lamb  
-> Be blessing, honour, glory, and dominion forever and ever.”
+> “To Him who sits on the throne and to the Lamb
+> be blessing, honour, glory, and dominion for ever and ever!”
 
 ## Revelation 5:14
 
-And the four living creatures were saying, “Amen.” And the elders fell down and worshipped.
+The four living creatures said, “Amen,” and the elders fell down and worshipped.

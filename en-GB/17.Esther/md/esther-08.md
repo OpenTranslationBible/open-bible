@@ -2,126 +2,72 @@
 
 ## Esther 8:1
 
-On that day King Ahasuerus gave the house of Haman,  
-the enemy of the Jews, to Queen Esther;  
-and Mordecai came before the king, for Esther had disclosed what he was to her.
+On that same day, King Ahasuerus gave Queen Esther the estate of Haman, the adversary of the Jews. Mordecai came before the king, as Esther had revealed their relationship.
 
 ## Esther 8:2
 
-And the king took off his signet ring, which he had taken away from Haman,  
-and gave it to Mordecai.  
-And Esther set Mordecai over the house of Haman.
+The king removed his signet ring, which he had taken from Haman, and gave it to Mordecai. Esther then appointed Mordecai over Haman’s estate.
 
 ---
 
 ## Esther 8:3
 
-Then Esther spoke again to the king,  
-fell at his feet, wept, and pleaded with him  
-to revoke the evil scheme of Haman the Agagite,  
-and his plot which he had devised against the Jews.
+Esther again approached the king, falling at his feet, weeping and pleading with him to stop the evil plan of Haman the Agagite, which he had devised against the Jews.
 
 ## Esther 8:4
 
-And the king extended the golden sceptre to Esther.  
-So Esther arose and stood before the king.
-
----
+The king extended the golden sceptre to Esther, and she rose and stood before him.
 
 ## Esther 8:5
 
-Then she said,  
-“If it pleases the king, and if I have found favour before him,  
-and the matter seems proper to the king, and I am pleasing in his sight,  
-let it be written to revoke the letters  
-devised by Haman, the son of Hammedatha the Agagite,  
-which he wrote to destroy the Jews who are in all the king’s provinces.
+She said, “If it pleases the king, and if I have found favour in his sight, and if the matter seems right to the king, and I am pleasing in his eyes, let a decree be written to revoke the letters devised by Haman, son of Hammedatha the Agagite, which he wrote to destroy the Jews in all the king’s provinces.
 
 ## Esther 8:6
 
-For how can I endure to see the disaster that would happen to my people?  
-And how can I endure to see the destruction of my kindred?”
-
----
+For how can I bear to see the calamity that will befall my people? How can I endure the destruction of my family?”
 
 ## Esther 8:7
 
-So King Ahasuerus said to Queen Esther and to Mordecai the Jew,  
-“Behold, I have given the house of Haman to Esther,  
-and he has been hanged on the wooden gallows because he had stretched out his hands against the Jews.
+King Ahasuerus said to Queen Esther and Mordecai the Jew, “I have given Haman’s estate to Esther, and they have hanged him on the gallows because he laid hands on the Jews.
 
 ## Esther 8:8
 
-Now you yourselves write in the king’s name regarding the Jews,  
-as it pleases you,  
-and seal it with the king’s signet ring;  
-for a decree which is written in the name of the king and sealed with the king’s signet ring  
-may not be revoked.”
+Now, write another decree in the king’s name on behalf of the Jews as you see fit, and seal it with the king’s signet ring, for no document written in the king’s name and sealed with the king’s ring can be revoked.”
 
 ---
 
 ## Esther 8:9
 
-So the king’s scribes were summoned at that time,  
-in the third month (that is, the month Sivan), on the twenty-third day;  
-and it was written according to all that Mordecai commanded  
-to the Jews, the satraps, the governors, and the officials of the provinces  
-from India to Cush, 127 provinces in total,  
-to every province according to its script, and to every people according to their language,  
-as well as to the Jews in their script and their language.
+The king’s scribes were summoned at once, on the twenty-third day of the third month, the month of Sivan. They wrote out all Mordecai’s orders to the Jews, and to the satraps, governors, and officials of the 127 provinces stretching from India to Cush. These orders were written in the script of each province and the language of each people, including the Jews in their own script and language.
 
 ## Esther 8:10
 
-He wrote in the name of King Ahasuerus and sealed it with the king’s signet ring,  
-and sent letters by couriers on horseback, riding on royal relay horses,  
-offspring of racing mares.
-
----
+Mordecai wrote in the name of King Ahasuerus, sealed the letters with the king’s signet ring, and sent them by mounted couriers riding royal horses, bred from swift mares.
 
 ## Esther 8:11
 
-In them the king granted the Jews who were in each and every city the right  
-to assemble and to defend their lives,  
-to destroy, kill, and eliminate the entire army of any people or province  
-which was going to attack them, including children and women,  
-and to plunder their spoils,
+The king’s edict granted the Jews in every city the right to assemble and defend themselves, to destroy, kill, and annihilate any armed force of any nationality or province that might attack them, including their women and children, and to plunder their goods.
 
 ## Esther 8:12
 
-on one day in all the provinces of King Ahasuerus,  
-the thirteenth day of the twelfth month (that is, the month Adar).
+This was to be done on a single day in all the provinces of King Ahasuerus, the thirteenth day of the twelfth month, the month of Adar.
 
 ## Esther 8:13
 
-A copy of the edict to be issued as law in each and every province  
-was published to all the peoples,  
-so that the Jews would be ready for this day to avenge themselves on their enemies.
-
----
+A copy of the text of the edict was to be issued as law in each province and made known to all peoples, so that the Jews would be ready on that day to avenge themselves on their enemies.
 
 ## Esther 8:14
 
-The couriers, riding on royal relay horses, went out in haste,  
-pressed by the king’s command;  
-and the edict was issued in the citadel of Susa.
-
----
+The couriers, riding the royal relay horses, hurried out, spurred on by the king’s command, and the decree was issued in the citadel of Susa.
 
 ## Esther 8:15
 
-Then Mordecai went out from the presence of the king  
-in a royal robe of violet and white,  
-with a large crown of gold and a garment of fine linen and purple;  
-and the city of Susa shouted and rejoiced.
+Mordecai left the king’s presence wearing royal garments of blue and white, with a large crown of gold and a robe of fine linen and purple. The city of Susa shouted and rejoiced.
 
 ## Esther 8:16
 
-For the Jews there was light, joy, gladness, and honour.
+For the Jews, it was a time of light, joy, gladness, and honour.
 
 ## Esther 8:17
 
-In each and every province and in each and every city,  
-wherever the king’s command and his decree arrived,  
-there was joy and gladness for the Jews, a feast and a holiday.  
-And many among the peoples of the land became Jews,  
-because the dread of the Jews had fallen on them.
+In every province and city where the king’s command and decree reached, there was joy and gladness among the Jews, with feasting and celebrating. Many people of other nationalities became Jews because the fear of the Jews had fallen upon them.

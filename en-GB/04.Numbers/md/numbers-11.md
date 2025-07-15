@@ -1,107 +1,106 @@
 # Numbers Chapter 11
 
 ## Numbers 11:1
-Now the people began to complain about their hardships, and the Lord heard it. His anger was kindled, and fire from the Lord burned among them.
+The people began to grumble about their misfortunes in the hearing of the Lord, and when the Lord heard it, his anger was kindled. The fire of the Lord burned among them and consumed some at the outskirts of the camp.
 
 ## Numbers 11:2
-When the people cried out to Moses, he prayed to the Lord and the fire died down.
+The people cried out to Moses, and when Moses prayed to the Lord, the fire abated.
 
 ## Numbers 11:3
-So that place was named Taberah, because fire from the Lord had burned among them.
+That place was therefore called Taberah, because the fire of the Lord had burned among them.
 
 ## Numbers 11:4
-The mixed multitude among them craved other food. The Israelites also began to weep and said, “If only we had meat to eat!
+The mixed multitude among them began to crave other food, and the Israelites also started weeping again, saying, “Who will give us meat to eat?
 
 ## Numbers 11:5
-We remember the fish we ate in Egypt at no cost—also the cucumbers, melons, leeks, onions, and garlic.
+We remember the fish we ate freely in Egypt, the cucumbers, melons, leeks, onions, and garlic.
 
 ## Numbers 11:6
-But now we have lost our appetite; we never see anything but this manna!”
+But now our appetite is gone; there is nothing but this manna to look at!”
 
 ## Numbers 11:7
-The manna was like coriander seed and looked like resin.
+The manna was like coriander seed and had the appearance of resin.
 
 ## Numbers 11:8
-The people went around gathering it. They ground it in handmills or crushed it in mortars, cooked it in a pot or made it into cakes. It tasted like something baked with olive oil.
+The people went about gathering it, and ground it in mills or crushed it in mortars. They boiled it in pots and made it into cakes, and it tasted like something made with olive oil.
 
 ## Numbers 11:9
-When the dew fell on the camp at night, the manna also came down.
+When the dew fell on the camp at night, the manna would come down with it.
 
 ## Numbers 11:10
-Moses heard the people of every family wailing at the entrance to their tents. The Lord became exceedingly angry, and Moses was troubled.
+Moses heard the people of every family weeping at the entrance of their tents. The Lord’s anger was greatly aroused, and Moses was troubled.
 
 ## Numbers 11:11
-He asked the Lord, “Why have You brought this trouble on Your servant? What have I done to displease You that You put the burden of all these people on me?
+Moses said to the Lord, “Why have you brought this trouble upon your servant? Why have I not found favour in your eyes, that you lay the burden of all these people on me?
 
 ## Numbers 11:12
-Did I conceive all these people? Did I give them birth? Why do You tell me to carry them in my arms, as a nurse carries an infant, to the land You promised?
+Did I conceive all these people? Did I give birth to them, that you should say to me, ‘Carry them in your arms as a nurse carries a nursing infant, to the land you promised their ancestors’?
 
 ## Numbers 11:13
-Where can I get meat for all these people? They keep wailing to me, ‘Give us meat to eat!’
+Where am I to find meat to give to all these people? They keep wailing to me, ‘Give us meat to eat!’
 
 ## Numbers 11:14
-I cannot carry all these people by myself; the burden is too heavy.
+I cannot carry all these people by myself; the burden is too heavy for me.
 
 ## Numbers 11:15
-If this is how You are going to treat me, please go ahead and kill me—if I have found favour in Your eyes—and do not let me face my own ruin.”
+If this is how you are going to treat me, please kill me now—if I have found favour in your eyes—and do not let me see my own ruin.”
 
 ## Numbers 11:16
-The Lord said to Moses: “Bring Me seventy of Israel’s elders known to you as leaders. Have them come to the tent of meeting, so they may stand with you.
+The Lord said to Moses, “Gather for me seventy men of the elders of Israel, whom you know to be the elders of the people and their officers. Bring them to the tent of meeting, and have them stand there with you.
 
 ## Numbers 11:17
-I will come down and speak with you there. I will take some of the Spirit that is on you and put it on them. They will help carry the burden.
+I will come down and speak with you there, and I will take some of the Spirit that is on you and put it on them. They will share the burden of the people with you so that you will not have to carry it alone.
 
 ## Numbers 11:18
-Tell the people: ‘Consecrate yourselves, for tomorrow you will eat meat. You have wailed, saying you were better off in Egypt. Now the Lord will give you meat.’
+Tell the people: ‘Consecrate yourselves for tomorrow, and you shall eat meat, for you have wept in the hearing of the Lord, saying, “Who will give us meat to eat? We were better off in Egypt!” Therefore the Lord will give you meat, and you shall eat.
 
 ## Numbers 11:19
-‘You will eat it not for one day, or two, or five, ten or twenty days,
+You shall eat it not just for one day, or two days, or five, ten, or twenty days,
 
 ## Numbers 11:20
-but for a whole month—until it comes out of your nostrils and you loathe it—because you have rejected the Lord and wailed before Him.’
+but for a whole month, until it comes out of your nostrils and becomes loathsome to you, because you have rejected the Lord who is among you, and have wailed before him, saying, “Why did we ever leave Egypt?”’”
 
 ## Numbers 11:21
-But Moses said, “Here I am among six hundred thousand men. Where can I get meat for them for a month?
+Moses said, “Here I am among six hundred thousand men on foot, and you say, ‘I will give them meat to eat for a whole month!’
 
 ## Numbers 11:22
-Would flocks and herds be enough? Would all the fish in the sea suffice?”
+Would there be enough if flocks and herds were slaughtered for them? Would there be enough if all the fish in the sea were caught for them?”
 
 ## Numbers 11:23
-The Lord answered, “Is the Lord’s arm too short? Now you will see whether or not My word will come true.”
+The Lord said to Moses, “Is the Lord’s power limited? Now you shall see whether my word will come true for you or not.”
 
 ## Numbers 11:24
-So Moses went out and told the people what the Lord had said. He gathered seventy elders and had them stand around the tent.
+So Moses went out and told the people what the Lord had said. He gathered seventy elders of the people and had them stand around the tent.
 
 ## Numbers 11:25
-Then the Lord came down in the cloud and spoke with him, taking some of the Spirit that was on Moses and putting it on the seventy elders. They prophesied, but did not do so again.
+Then the Lord came down in the cloud and spoke to him, and took some of the Spirit that was on him and placed it on the seventy elders. When the Spirit rested on them, they prophesied, but did not do so again.
 
 ## Numbers 11:26
-However, two men, Eldad and Medad, remained in the camp. The Spirit also came on them, and they prophesied in the camp.
+However, two men had remained in the camp; one was named Eldad and the other Medad. The Spirit also rested on them, and they prophesied in the camp.
 
 ## Numbers 11:27
-A young man ran and told Moses, “Eldad and Medad are prophesying in the camp!”
+A young man ran and reported to Moses, “Eldad and Medad are prophesying in the camp.”
 
 ## Numbers 11:28
-Joshua son of Nun, who had been Moses’ assistant since youth, said, “Moses, my lord, stop them!”
+Joshua son of Nun, who had been Moses’ aide since youth, spoke up and said, “Moses, my lord, stop them!”
 
 ## Numbers 11:29
-But Moses replied, “Are you jealous for my sake? I wish all the Lord’s people were prophets!”
+But Moses replied, “Are you jealous for my sake? I wish that all the Lord’s people were prophets and that the Lord would put his Spirit on them!”
 
 ## Numbers 11:30
-Then Moses and the elders returned to the camp.
+Then Moses and the elders of Israel returned to the camp.
 
 ## Numbers 11:31
-Now a wind from the Lord drove in quail from the sea. They fell around the camp, about three feet deep in every direction as far as a day’s walk.
+A wind went out from the Lord and brought quail from the sea, and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, all around the camp, about two cubits deep on the ground.
 
 ## Numbers 11:32
-The people gathered quail all that day, night, and the next day. No one gathered less than ten homers. They spread them out all around the camp.
+The people spent all that day, all night, and all the next day gathering the quail. The least anyone gathered was ten homers. They spread them out all around the camp.
 
 ## Numbers 11:33
-But while the meat was still between their teeth, before it could be consumed, the Lord’s anger burned, and He struck them with a severe plague.
+But while the meat was still between their teeth, before it was consumed, the anger of the Lord was kindled against the people, and the Lord struck them with a severe plague.
 
 ## Numbers 11:34
-So the place was named Kibroth Hattaavah, because there they buried the people who craved other food.
+So the place was named Kibroth Hattaavah, because there they buried the people who had craved other food.
 
 ## Numbers 11:35
-From Kibroth Hattaavah the people traveled to Hazeroth and stayed there.
-
+From Kibroth Hattaavah the people journeyed to Hazeroth, where they stayed.

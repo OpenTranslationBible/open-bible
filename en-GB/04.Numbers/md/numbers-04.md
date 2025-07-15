@@ -1,197 +1,148 @@
 # Numbers Chapter 4
 
 ## Numbers 4:1
-
-Then the Lord spoke to Moses and to Aaron, saying,
+The Lord spoke to Moses and Aaron, saying,
 
 ## Numbers 4:2
-
-“Take a census of the descendants of Kohath from among the sons of Levi, by their families, by their fathers’ households,
+“Take a census of the Kohathite branch of the Levites, by their families and their fathers’ households.
 
 ## Numbers 4:3
-
-From thirty years old and upward, even to fifty years old, everyone who can enter the service of ministry to do work in the tent of meeting.
+Count all the men from thirty to fifty years old who are eligible to serve in the work at the tent of meeting.
 
 ## Numbers 4:4
-
-This is the work of the descendants of Kohath in the tent of meeting, concerning the most holy things.
+This is the duty of the Kohathites in the tent of meeting: the care of the most holy things.
 
 ## Numbers 4:5
-
-When the camp sets out, Aaron and his sons shall go in and take down the veil of the curtain, and cover the ark of the testimony with it;
+“When the camp is to move, Aaron and his sons shall enter and take down the shielding curtain and cover the ark of the covenant with it.
 
 ## Numbers 4:6
-
-And they shall place a covering of fine leather on it, and spread over it a cloth of pure blue, and insert its carrying poles.
+Then they shall cover it with a durable leather and spread a cloth of violet over that, and insert the carrying poles.
 
 ## Numbers 4:7
-
-Over the table of the bread of the Presence they shall also spread a blue cloth, and put on it the dishes, the pans, the sacrificial bowls, and the jars for the drink offering; and the continual bread shall be on it.
+Over the table of the Presence they shall spread a violet cloth and place on it the dishes, pans, sacrificial bowls, and the jugs for the drink offering; the continual bread shall remain on it.
 
 ## Numbers 4:8
-
-And they shall spread over them a scarlet cloth, and cover the same with a covering of fine leather, and insert its carrying poles.
+They shall spread a scarlet cloth over these, cover them with a durable leather, and insert the carrying poles.
 
 ## Numbers 4:9
-
-Then they shall take a blue cloth and cover the lampstand for the light, along with its lamps, its tongs, its trays, and all its oil containers, by which they attend to it;
+They shall take a violet cloth and cover the lampstand for the light, along with its lamps, wick trimmers, trays, and all its oil containers.
 
 ## Numbers 4:10
-
-And they shall put it and all its utensils in a covering of fine leather, and put it on the carrying bars.
+Then they shall put it and all its utensils in a covering of durable leather and place it on the carrying frame.
 
 ## Numbers 4:11
-
-Over the golden altar they shall spread a blue cloth, and cover it with a covering of fine leather, and insert its carrying poles;
+Over the gold altar they shall spread a violet cloth and cover it with a durable leather, and insert the carrying poles.
 
 ## Numbers 4:12
-
-And they shall take all the utensils of service with which they serve in the sanctuary, and put them in a blue cloth, and cover them with a covering of fine leather, and put them on the carrying bars.
+They shall take all the articles used for ministering in the sanctuary, wrap them in a violet cloth, cover them with a durable leather, and place them on a carrying frame.
 
 ## Numbers 4:13
-
-Then they shall clean away the ashes from the altar, and spread a purple cloth over it.
+They shall remove the ashes from the bronze altar and spread a purple cloth over it.
 
 ## Numbers 4:14
-
-They shall also place on it all its utensils by which they serve in connection with it: the firepans, the forks, the shovels, and the basins, all the utensils of the altar; and they shall spread a covering of fine leather over it and insert its carrying poles.
+Then they shall place on it all the utensils used for ministering at the altar, including the firepans, forks, shovels, and basins. Over it, they shall spread a covering of durable leather and insert the carrying poles.
 
 ## Numbers 4:15
-
-When Aaron and his sons have finished covering the holy objects and all the furnishings of the sanctuary, when the camp is to set out, then the descendants of Kohath shall come to carry them, so that they will not touch the holy objects and die. These are the things in the tent of meeting that the sons of Kohath are to carry.
+After Aaron and his sons have finished covering the holy objects and all the furnishings of the sanctuary, when the camp is set to move, the Kohathites shall come to carry them, but they must not touch the holy things or they will die. These are the items in the tent of meeting that the Kohathites are to carry.
 
 ## Numbers 4:16
-
-Now the responsibility of Eleazar the son of Aaron the priest is the oil for the light, the fragrant incense, the continual grain offering, and the anointing oil—the responsibility of all the tabernacle and everything that is in it, with the sanctuary and its furnishings.”
+Eleazar, son of Aaron the priest, shall be in charge of the oil for the light, the fragrant incense, the regular grain offering, and the anointing oil. He shall oversee the entire tabernacle and everything in it, including its holy furnishings and articles.”
 
 ## Numbers 4:17
-
-Then the Lord spoke to Moses and to Aaron, saying,
+The Lord spoke to Moses and Aaron, saying,
 
 ## Numbers 4:18
-
-“Do not let the tribe of the families of the Kohathites be eliminated from among the Levites.
+“Ensure that the Kohathite tribal clans are not cut off from among the Levites.
 
 ## Numbers 4:19
-
-Rather, do this for them so that they will live and not die when they approach the most holy objects: Aaron and his sons shall go in and assign each of them to his work and to his load;
+To ensure they live and do not die when they approach the most holy things, do this for them: Aaron and his sons shall enter and assign each man his work and what he is to carry.
 
 ## Numbers 4:20
-
-But they shall not come in to see the holy objects even for a moment, or they will die.”
+But the Kohathites must not go in to look at the holy things even for a moment, or they will die.”
 
 ## Numbers 4:21
-
-Then the Lord spoke to Moses, saying,
+The Lord spoke to Moses, saying,
 
 ## Numbers 4:22
-
-“Take a census of the sons of Gershon also, by their fathers’ households, by their families;
+“Take a census of the Gershonites also, by their families and their fathers’ households.
 
 ## Numbers 4:23
-
-From thirty years old and upward to fifty years old you shall count them; all who can enter to perform service, to do the work in the tent of meeting.
+Count all the men from thirty to fifty years old who are eligible to perform service in the work at the tent of meeting.
 
 ## Numbers 4:24
-
-This is the service of the families of the Gershonites, in serving and in carrying:
+This is the service of the Gershonite clans in their carrying and their other work:
 
 ## Numbers 4:25
-
-They shall carry the tent curtains of the tabernacle, and the tent of meeting with its covering and the covering of fine leather that is on top of it, and the curtain for the entrance of the tent of meeting,
+They shall carry the curtains of the tabernacle, the tent of meeting with its covering, and the outer covering of durable leather, and the curtain for the entrance to the tent of meeting,
 
 ## Numbers 4:26
-
-And the curtains of the courtyard, the curtain for the entrance of the gate of the courtyard which is around the tabernacle and the altar, and their ropes, and all the equipment for their service; and everything that is to be done by them, they shall perform.
+and the curtains of the courtyard surrounding the tabernacle and altar, the curtain for the entrance to the courtyard, the ropes, and all the equipment used in their service. The Gershonites shall perform all that needs to be done with these things.
 
 ## Numbers 4:27
-
-All the service of the sons of the Gershonites, all their loads, and all their work, shall be performed at the command of Aaron and his sons; and you shall assign to them as a duty all their loads.
+All their service, whether carrying or doing other work, shall be performed under the direction of Aaron and his sons. You shall assign to them all their duties and responsibilities.
 
 ## Numbers 4:28
-
-This is the service of the families of the sons of the Gershonites in the tent of meeting, and their duties shall be under the direction of Ithamar the son of Aaron the priest.
+This is the service of the Gershonite clans at the tent of meeting. Their duties shall be under the direction of Ithamar, son of Aaron the priest.
 
 ## Numbers 4:29
-
-As for the sons of Merari, you shall count them by their families, by their fathers’ households;
+Count the Merarites by their clans and their fathers’ households.
 
 ## Numbers 4:30
-
-From thirty years old and upward to fifty years old you shall count them, everyone who can enter the service of ministry to do the work of the tent of meeting.
+Count all the men from thirty to fifty years old who are eligible to serve in the work at the tent of meeting.
 
 ## Numbers 4:31
-
-Now this is the duty of their loads, for all their service in the tent of meeting: the boards of the tabernacle, its crossbars, its pillars, its bases,
+This is their duty as part of all their service at the tent: they are to carry the frames of the tabernacle, its crossbars, posts, and bases,
 
 ## Numbers 4:32
-
-And the pillars around the courtyard, with their bases, their pegs, and their ropes, with all their equipment and with all their service; and you shall assign each man by name the items he is to carry.
+as well as the posts of the surrounding courtyard with their bases, tent pegs, ropes, all their equipment, and everything related to their use. Assign to each man by name the specific items he is to carry.
 
 ## Numbers 4:33
-
-This is the service of the families of the sons of Merari, for all their service in the tent of meeting, under the direction of Ithamar the son of Aaron the priest.”
+This is the service of the Merarite clans as they work at the tent of meeting under the direction of Ithamar, son of Aaron the priest.”
 
 ## Numbers 4:34
-
-So Moses, Aaron, and the leaders of the congregation counted the sons of the Kohathites by their families, and by their fathers’ households,
+Moses, Aaron, and the leaders of the community counted the Kohathites by their clans and their fathers’ households.
 
 ## Numbers 4:35
-
-From thirty years old and upward even to fifty years old, everyone who could enter the service for work in the tent of meeting;
+All the men from thirty to fifty years old who could enter the service for work at the tent of meeting
 
 ## Numbers 4:36
-
-Their numbered men by their families were 2,750.
+numbered by their clans were 2,750.
 
 ## Numbers 4:37
-
-These were the numbered men of the families of the Kohathites, everyone who was serving in the tent of meeting, whom Moses and Aaron counted according to the command of the Lord through Moses.
+This was the total of all those in the Kohathite clans who served at the tent of meeting, counted by Moses and Aaron according to the Lord’s command through Moses.
 
 ## Numbers 4:38
-
-The numbered men of the sons of Gershon, by their families and by their fathers’ households,
+The Gershonites were counted by their clans and their fathers’ households.
 
 ## Numbers 4:39
-
-From thirty years old and upward to fifty years old, everyone who could enter the service for work in the tent of meeting—
+All the men from thirty to fifty years old who could enter the service for work at the tent of meeting—
 
 ## Numbers 4:40
-
-Their numbered men by their families, by their fathers’ households, were 2,630.
+numbered by their clans and their fathers’ households, were 2,630.
 
 ## Numbers 4:41
-
-These were the numbered men of the families of the sons of Gershon, everyone serving in the tent of meeting, whom Moses and Aaron counted according to the command of the Lord.
+This was the total of those in the Gershonite clans who served at the tent of meeting, counted by Moses and Aaron according to the Lord’s command.
 
 ## Numbers 4:42
-
-The numbered men of the families of the sons of Merari, by their families, by their fathers’ households,
+The Merarites were counted by their clans and their fathers’ households.
 
 ## Numbers 4:43
-
-From thirty years old and upward to fifty years old, everyone who could enter the service for work in the tent of meeting—
+All the men from thirty to fifty years old who could enter the service for work at the tent of meeting—
 
 ## Numbers 4:44
-
-Their numbered men by their families were 3,200.
+numbered by their clans were 3,200.
 
 ## Numbers 4:45
-
-These were the numbered men of the families of the sons of Merari, whom Moses and Aaron counted according to the command of the Lord through Moses.
+This was the total of those in the Merarite clans, counted by Moses and Aaron according to the Lord’s command through Moses.
 
 ## Numbers 4:46
-
-All the numbered men of the Levites, whom Moses, Aaron, and the leaders of Israel counted by their families and by their fathers’ households,
+So Moses, Aaron, and the leaders of Israel counted all the Levites by their clans and their fathers’ households.
 
 ## Numbers 4:47
-
-From thirty years old and upward to fifty years old, everyone who could enter to do the work of service and the work of carrying in the tent of meeting—
+All the men from thirty to fifty years old who could enter to do the work of serving and carrying in the tent of meeting
 
 ## Numbers 4:48
-
-Their numbered men were 8,580.
+numbered 8,580.
 
 ## Numbers 4:49
-
-According to the command of the Lord through Moses, they were counted, everyone by his service or carrying duty; so these were his numbered men, just as the Lord had commanded Moses.
+At the Lord’s command through Moses, each was assigned his work and told what to carry. Thus they were counted, as the Lord commanded Moses.

@@ -1,98 +1,97 @@
 # Genesis Chapter 32
 
 ## Genesis 32:1
-Jacob also went on his way, and the angels of God met him.
+As Jacob continued on his journey, the angels of God encountered him.
 
 ## Genesis 32:2
-When Jacob saw them, he said, “This is the camp of God!” So he named that place Mahanaim.
+Upon seeing them, Jacob declared, “This is the camp of God!” Thus, he named the place Mahanaim.
 
 ## Genesis 32:3
-Jacob sent messengers ahead of him to his brother Esau in the land of Seir, the country of Edom.
+Jacob dispatched messengers ahead to his brother Esau in the land of Seir, the region of Edom.
 
 ## Genesis 32:4
-He instructed them: “This is what you are to say to my lord Esau: ‘Your servant Jacob says, I have been staying with Laban and have remained there till now.
+He instructed them, “This is what you are to say to my lord Esau: ‘Your servant Jacob reports: I have been residing with Laban and have stayed until now.
 
 ## Genesis 32:5
-I have cattle and donkeys, sheep and goats, male and female servants. Now I am sending this message to my lord, that I may find favour in your eyes.’”
+I possess oxen, donkeys, flocks, and male and female servants. I am sending this message to my lord, hoping to find favour in your sight.’”
 
 ## Genesis 32:6
-When the messengers returned to Jacob, they said, “We went to your brother Esau, and now he is coming to meet you, and four hundred men are with him.”
+The messengers returned to Jacob, saying, “We went to your brother Esau, and he is coming to meet you with four hundred men.”
 
 ## Genesis 32:7
-In great fear and distress Jacob divided the people with him into two groups, and the flocks and herds and camels as well.
+Jacob was greatly afraid and distressed, so he divided the people with him, along with the flocks, herds, and camels, into two groups.
 
 ## Genesis 32:8
-He thought, “If Esau comes and attacks one group, the other group that is left may escape.”
+He reasoned, “If Esau attacks one group, the other group may escape.”
 
 ## Genesis 32:9
-Then Jacob prayed, “O God of my father Abraham, God of my father Isaac, Lord, You who said to me, ‘Go back to your country and your relatives, and I will make you prosper,’
+Jacob prayed, “O God of my father Abraham and God of my father Isaac, Lord, you who told me, ‘Return to your homeland and relatives, and I will make you prosper,’
 
 ## Genesis 32:10
-I am unworthy of all the kindness and faithfulness You have shown Your servant. I had only my staff when I crossed this Jordan, but now I have become two camps.
+I am unworthy of all the kindness and faithfulness you have shown your servant. I crossed this Jordan with only my staff, and now I have become two camps.
 
 ## Genesis 32:11
-Save me, I pray, from the hand of my brother Esau, for I am afraid he will come and attack me, and also the mothers with their children.
+Please deliver me from the hand of my brother Esau, for I am afraid he will attack me, as well as the mothers with their children.
 
 ## Genesis 32:12
-But You have said, ‘I will surely make you prosper and will make your descendants like the sand of the sea, which cannot be counted.’”
+Yet you have promised, ‘I will surely make you prosper and make your descendants as numerous as the sand of the sea, which cannot be counted.’”
 
 ## Genesis 32:13
-He spent the night there, and from what he had with him he selected a gift for his brother Esau:
+He spent the night there and selected a gift for his brother Esau from what he had with him:
 
 ## Genesis 32:14
 two hundred female goats and twenty male goats, two hundred ewes and twenty rams,
 
 ## Genesis 32:15
-thirty female camels with their young, forty cows and ten bulls, twenty female donkeys and ten male donkeys.
+thirty milking camels with their young, forty cows and ten bulls, and twenty female donkeys and ten male donkeys.
 
 ## Genesis 32:16
-He put them in the care of his servants, each herd by itself, and said to his servants, “Go ahead of me, and keep some space between the herds.”
+He placed them under the care of his servants, each herd by itself, and instructed them, “Go ahead of me and keep some distance between the herds.”
 
 ## Genesis 32:17
-He instructed the one in the lead: “When my brother Esau meets you and asks, ‘To whom do you belong, and where are you going, and who owns all these animals in front of you?’
+He directed the one leading, “When my brother Esau meets you and asks, ‘To whom do you belong, and where are you going, and who owns all these animals in front of you?’
 
 ## Genesis 32:18
-then you are to say, ‘They belong to your servant Jacob. They are a gift sent to my lord Esau, and he is coming behind us.’”
+you are to reply, ‘They belong to your servant Jacob. They are a gift sent to my lord Esau, and he is following us.’”
 
 ## Genesis 32:19
-He also instructed the second, the third, and all the others who followed the herds: “You are to say the same thing to Esau when you meet him.
+He instructed the second, the third, and all who followed the herds, “You are to say the same thing to Esau when you meet him.
 
 ## Genesis 32:20
-And be sure to say, ‘Your servant Jacob is coming behind us.’” For he thought, “I will pacify him with these gifts I am sending ahead; later, when I see him, perhaps he will receive me.”
+And be sure to say, ‘Your servant Jacob is coming behind us.’” For he thought, “I will appease him with these gifts I am sending ahead; afterward, when I see him, perhaps he will accept me.”
 
 ## Genesis 32:21
-So Jacob’s gifts went on ahead of him, but he himself spent the night in the camp.
+So Jacob’s gifts went ahead of him, while he stayed in the camp that night.
 
 ## Genesis 32:22
-That night Jacob got up and took his two wives, his two female servants and his eleven sons and crossed the ford of the Jabbok.
+That night Jacob arose, took his two wives, his two female servants, and his eleven sons, and crossed the ford of the Jabbok.
 
 ## Genesis 32:23
 After he had sent them across the stream, he sent over all his possessions.
 
 ## Genesis 32:24
-So Jacob was left alone, and a man wrestled with him till daybreak.
+Jacob was left alone, and a man wrestled with him until daybreak.
 
 ## Genesis 32:25
-When the man saw that he could not overpower him, he touched the socket of Jacob’s hip so that his hip was wrenched as he wrestled with the man.
+When the man saw that he could not overpower him, he touched the socket of Jacob’s hip, so that his hip was wrenched as he wrestled with the man.
 
 ## Genesis 32:26
 Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.”
 
 ## Genesis 32:27
-The man asked him, “What is your name?” “Jacob,” he answered.
+The man asked him, “What is your name?” “Jacob,” he replied.
 
 ## Genesis 32:28
-Then the man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with humans and have overcome.”
+Then the man said, “Your name will no longer be Jacob, but Israel, because you have struggled with God and with men and have prevailed.”
 
 ## Genesis 32:29
-Jacob said, “Please tell me your name.” But he replied, “Why do you ask my name?” Then he blessed him there.
+Jacob said, “Please tell me your name.” But he replied, “Why do you ask my name?” And he blessed him there.
 
 ## Genesis 32:30
-So Jacob called the place Peniel, saying, “It is because I saw God face to face, and yet my life was spared.”
+So Jacob named the place Peniel, saying, “It is because I saw God face to face, and yet my life was spared.”
 
 ## Genesis 32:31
-The sun rose above him as he passed Peniel, and he was limping because of his hip.
+The sun rose upon him as he passed Peniel, and he was limping because of his hip.
 
 ## Genesis 32:32
-Therefore to this day the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was touched near the tendon.
-
+Therefore, to this day, the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was touched near the tendon.

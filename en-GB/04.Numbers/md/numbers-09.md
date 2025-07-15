@@ -1,71 +1,70 @@
 # Numbers Chapter 9
 
 ## Numbers 9:1
-The Lord spoke to Moses in the Desert of Sinai in the first month of the second year after they came out of Egypt. He said:
+The Lord spoke to Moses in the wilderness of Sinai, during the first month of the second year after they had left Egypt, saying,
 
 ## Numbers 9:2
-“Have the Israelites celebrate the Passover at the appointed time.
+“The Israelites are to observe the Passover at its designated time.
 
 ## Numbers 9:3
-Celebrate it at twilight on the fourteenth day of this month, in accordance with all its regulations and requirements.”
+On the fourteenth day of this month, at twilight, you shall keep it at its appointed time; you shall observe it according to all its statutes and regulations.”
 
 ## Numbers 9:4
-So Moses told the Israelites to celebrate the Passover,
+So Moses instructed the Israelites to observe the Passover.
 
 ## Numbers 9:5
-and they did so in the Desert of Sinai at twilight on the fourteenth day of the first month, in accordance with everything the Lord had commanded.
+And they did so in the wilderness of Sinai, at twilight on the fourteenth day of the first month, in accordance with all that the Lord had commanded Moses, the Israelites did.
 
 ## Numbers 9:6
-But some men could not celebrate the Passover on that day because they were ceremonially unclean due to contact with a dead body. They came to Moses and Aaron that same day.
+However, some men were unclean due to contact with a dead body, and they could not observe the Passover on that day. They approached Moses and Aaron on that day
 
 ## Numbers 9:7
-They said to Moses, “We have become unclean because of a dead body, but why should we be excluded from bringing the Lord’s offering at its appointed time with the rest of the Israelites?”
+and said, “We are unclean because of a dead body, but why should we be excluded from presenting the Lord’s offering at its appointed time with the other Israelites?”
 
 ## Numbers 9:8
-Moses answered them, “Wait until I find out what the Lord commands concerning you.”
+Moses responded, “Wait here until I hear what the Lord commands concerning you.”
 
 ## Numbers 9:9
-Then the Lord said to Moses,
+Then the Lord spoke to Moses, saying,
 
 ## Numbers 9:10
-“Tell the Israelites: If any of you or your descendants is ceremonially unclean because of a dead body or is away on a journey, they may still celebrate the Lord’s Passover.
+“Speak to the Israelites, saying, ‘If any of you or your descendants are unclean because of a dead body or are travelling, they may still observe the Passover to the Lord.
 
 ## Numbers 9:11
-They are to celebrate it at twilight on the fourteenth day of the second month. They must eat the lamb together with unleavened bread and bitter herbs.
+In the second month on the fourteenth day at twilight, they shall keep it; they shall eat it with unleavened bread and bitter herbs.
 
 ## Numbers 9:12
-They must not leave any of it until morning or break any of its bones. They must keep all the Passover regulations.
+They must not leave any of it until morning, nor break any of its bones. They must observe it according to all the statutes of the Passover.
 
 ## Numbers 9:13
-But anyone who is clean and not on a journey and fails to celebrate the Passover must be cut off from their people for not presenting the Lord’s offering. They will bear the consequences of their sin.
+But if a person who is clean and not on a journey refrains from observing the Passover, that person shall be cut off from their people for not presenting the Lord’s offering at its appointed time. They will bear the guilt of their sin.
 
 ## Numbers 9:14
-A foreigner residing among you is also to celebrate the Passover to the Lord according to its rules and regulations. You must apply the same law to both the foreigner and the native-born.”
+If a foreigner resides among you and wishes to observe the Passover to the Lord, they must do so according to its statutes and regulations. You shall have the same law for both the foreigner and the native-born.’”
 
 ## Numbers 9:15
-On the day the tabernacle, the tent of the covenant law, was set up, the cloud covered it. From evening till morning, the cloud above the tabernacle looked like fire.
+On the day the tabernacle, the tent of the testimony, was set up, the cloud covered it. From evening until morning, the cloud over the tabernacle appeared as fire.
 
 ## Numbers 9:16
-That is how it continued to be: the cloud covered it, and at night it looked like fire.
+This was the regular pattern; the cloud covered it by day, and by night it appeared as fire.
 
 ## Numbers 9:17
-Whenever the cloud lifted from above the tent, the Israelites set out. Wherever the cloud settled, the Israelites camped.
+Whenever the cloud lifted from above the tent, the Israelites would set out; and wherever the cloud settled, there the Israelites would camp.
 
 ## Numbers 9:18
-At the Lord’s command the Israelites set out, and at His command they camped. As long as the cloud stayed over the tabernacle, they remained in camp.
+At the Lord’s command, the Israelites would set out, and at his command, they would camp. As long as the cloud stayed over the tabernacle, they remained encamped.
 
 ## Numbers 9:19
-When the cloud remained over the tabernacle a long time, the Israelites obeyed the Lord’s order and did not set out.
+Even when the cloud lingered over the tabernacle for many days, the Israelites obeyed the Lord’s command and did not set out.
 
 ## Numbers 9:20
-Sometimes the cloud was over the tabernacle only a few days. At the Lord’s command they would camp, and then at His command they would set out.
+If sometimes the cloud was over the tabernacle for only a few days, at the Lord’s command they would camp, and then at his command, they would set out.
 
 ## Numbers 9:21
-Sometimes the cloud stayed only from evening till morning, and when it lifted in the morning, they set out. Whether by day or night, whenever the cloud lifted, they set out.
+If the cloud remained only from evening until morning, when it lifted in the morning, they would set out. Whether by day or by night, whenever the cloud lifted, they would set out.
 
 ## Numbers 9:22
-Whether the cloud stayed two days, a month, or a year, the Israelites remained in camp and did not set out until it lifted.
+Whether it was two days, a month, or a year that the cloud stayed over the tabernacle, the Israelites remained encamped and did not set out; but when it lifted, they would set out.
 
 ## Numbers 9:23
-At the Lord’s command they camped, and at the Lord’s command they set out. They obeyed the Lord’s instructions, as given through Moses.
-
+At the Lord’s command, they camped, and at the Lord’s command, they set out. They obeyed the Lord’s instructions, in accordance with his command through Moses.

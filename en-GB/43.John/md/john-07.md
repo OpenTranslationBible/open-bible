@@ -2,258 +2,225 @@
 
 ## John 7:1
 
-After these things Jesus was walking in Galilee; for He was unwilling to walk in Judea, because the Jews were seeking to kill Him.
+After this, Jesus was moving around in Galilee. He was reluctant to travel in Judea because the Jewish leaders were seeking to kill him.
 
 ## John 7:2
 
-Now the feast of the Jews, the Feast of Booths, was near.
+Now the Jewish Festival of Booths was approaching.
 
 ## John 7:3
 
-So His brothers said to Him,  
-“Move on from here and go into Judea, so that Your disciples also may see Your works which You are doing.
+So his brothers said to him, “Depart from here and go into Judea, so that your disciples may also see the works you are doing.
 
 ## John 7:4
 
-For no one does anything in secret when he himself is striving to be known publicly.  
-If You are doing these things, show Yourself to the world.”
+For no one acts in secret if he desires to be known publicly. If you are doing these things, reveal yourself to the world.”
 
 ## John 7:5
 
-For not even His brothers believed in Him.
+For even his own brothers did not believe in him.
 
 ## John 7:6
 
-So Jesus _said to them_,  
-“My time is not yet here, but your time is always ready.
+Therefore Jesus told them, “My time has not yet come, but for you, any time is suitable.
 
 ## John 7:7
 
-The world cannot hate you, but it hates Me because I testify about it, that its deeds are evil.
+The world cannot hate you, but it hates me because I testify that its deeds are evil.
 
 ## John 7:8
 
-Go up to the feast yourselves; I am not going up to this feast because My time has not yet fully arrived.”
+You go up to the festival; I am not going up to this festival, because my time has not yet fully come.”
 
 ## John 7:9
 
-Now having said these things to them, He stayed in Galilee.
+After saying this, he remained in Galilee.
 
 ---
 
 ## John 7:10
 
-But when His brothers had gone up to the feast, then He Himself also went up, not publicly, but as though in secret.
+But after his brothers had gone to the festival, he also went up, not openly, but as it were in secret.
 
 ## John 7:11
 
-So the Jews were looking for Him at the feast and saying, “Where is He?”
+So the Jewish leaders were looking for him at the festival, asking, “Where is he?”
 
 ## John 7:12
 
-And there was a great deal of talk about Him in the crowds:  
-some were saying, “He is a good man”;  
-others were saying, “No, on the contrary, He is misleading the people.”
+Among the crowds there was much whispering about him. Some said, “He is a good man.” Others said, “No, he is misleading the people.”
 
 ## John 7:13
 
-However, no one was speaking openly about Him, for fear of the Jews.
+Yet no one spoke openly about him for fear of the Jewish leaders.
 
 ---
 
 ## John 7:14
 
-But when it was now the middle of the feast, Jesus went up into the temple area, and began to teach.
+But when it was now the middle of the festival, Jesus went up into the temple courts and began to teach.
 
 ## John 7:15
 
-The Jews then were astonished, saying,  
-“How has this man become learned, not having been educated?”
+The Jews were amazed, asking, “How did this man acquire such learning without formal education?”
 
 ## John 7:16
 
-So Jesus answered them and said,  
-“My teaching is not My own, but His who sent Me.
+Jesus answered them, “My teaching is not mine, but comes from him who sent me.
 
 ## John 7:17
 
-If anyone is willing to do His will, he will know about the teaching,  
-whether it is of God, or I am speaking from Myself.
+If anyone is willing to do God’s will, he will know whether my teaching is from God or if I speak on my own.
 
 ## John 7:18
 
-The one who speaks from himself seeks his own glory;  
-but He who is seeking the glory of the One who sent Him, He is true, and there is no unrighteousness in Him.
+He who speaks from himself seeks his own glory, but he who seeks the glory of the one who sent him is truthful, and there is no falsehood in him.
 
 ## John 7:19
 
-Did Moses not give you the Law, and yet none of you carries out the Law? Why are you seeking to kill Me?”
+Did not Moses give you the law? Yet none of you keeps the law. Why are you trying to kill me?”
 
 ## John 7:20
 
-The crowd answered,  
-“You have a demon! Who is seeking to kill You?”
+The crowd replied, “You have a demon! Who is trying to kill you?”
 
 ## John 7:21
 
-Jesus answered them,  
-“I did one deed, and you all are astonished.
+Jesus answered, “I performed one miracle, and you are all astonished.
 
 ## John 7:22
 
-For this reason Moses has given you circumcision (not that it is from Moses, but from the fathers),  
-and even on a Sabbath you circumcise a man.
+Yet, because Moses gave you circumcision (not that it is from Moses, but from the patriarchs), you circumcise a boy on the Sabbath.
 
 ## John 7:23
 
-If a man receives circumcision on the Sabbath so that the Law of Moses will not be broken,  
-are you angry with Me because I made an entire man well on the Sabbath?
+If a boy is circumcised on the Sabbath so that the law of Moses is not broken, why are you angry with me for healing a man’s whole body on the Sabbath?
 
 ## John 7:24
 
-Do not judge by the outward appearance, but judge with righteous judgment.”
+Do not judge by appearances, but judge with righteous judgment.”
 
 ---
 
 ## John 7:25
 
-So some of the people of Jerusalem were saying,  
-“Is this man not the one whom they are seeking to kill?
+Then some of the people of Jerusalem began to ask, “Isn’t this the man they are trying to kill?
 
 ## John 7:26
 
-And yet look, He is speaking publicly, and they are saying nothing to Him.  
-The rulers do not really know that this is the Christ, do they?
+Yet here he is, speaking publicly, and they are saying nothing to him. Could it be that the authorities have really concluded that he is the Messiah?
 
 ## John 7:27
 
-However, we know where this man is from; but when the Christ comes, no one knows where He is from.”
+But we know where this man is from; when the Messiah comes, no one will know where he is from.”
 
 ## John 7:28
 
-Then Jesus cried out in the temple, teaching and saying,  
-“You both know Me and you know where I am from;  
-and I have not come on My own, but He who sent Me is true, whom you do not know.
+Then Jesus, still teaching in the temple courts, cried out, “Yes, you know me, and you know where I am from. I have not come on my own, but he who sent me is true. You do not know him,
 
 ## John 7:29
 
-I do know Him, because I am from Him, and He sent Me.”
+but I know him because I am from him and he sent me.”
 
 ## John 7:30
 
-So they were seeking to arrest Him; and yet no one laid a hand on Him, because His hour had not yet come.
+At this they tried to seize him, but no one laid a hand on him, because his hour had not yet come.
 
 ## John 7:31
 
-But many of the crowd believed in Him; and they were saying,  
-“When the Christ comes, He will not perform more signs than those which this man has done, will He?”
+Yet many in the crowd believed in him. They said, “When the Messiah comes, will he perform more signs than this man?”
 
 ---
 
 ## John 7:32
 
-The Pharisees heard the crowd whispering these things about Him,  
-and the chief priests and the Pharisees sent officers to arrest Him.
+The Pharisees heard the crowd whispering these things about him, and the chief priests and the Pharisees sent officers to arrest him.
 
 ## John 7:33
 
-Therefore Jesus said,  
-“For a little while longer I am going to be with you, and then I am going to Him who sent Me.
+Therefore Jesus said, “I am with you for only a short time, and then I am going to him who sent me.
 
 ## John 7:34
 
-You will seek Me, and will not find Me; and where I am, you cannot come.”
+You will look for me, but you will not find me; and where I am, you cannot come.”
 
 ## John 7:35
 
-The Jews then said to one another,  
-“Where does this man intend to go that we will not find Him?  
-He does not intend to go to the Dispersion among the Greeks, and teach the Greeks, does He?
+The Jews said to one another, “Where does this man intend to go that we cannot find him? Will he go to the Jews dispersed among the Greeks, and teach the Greeks?
 
 ## John 7:36
 
-What is this statement that He said, ‘You will seek Me, and will not find Me; and where I am, you cannot come’?”
+What did he mean when he said, ‘You will look for me, but you will not find me,’ and ‘Where I am, you cannot come’?”
 
 ---
 
 ## John 7:37
 
-Now on the last day, the great day of the feast, Jesus stood and cried out, saying,  
-“If anyone is thirsty, let him come to Me and drink.
+On the last and greatest day of the festival, Jesus stood and said in a loud voice, “If anyone is thirsty, let him come to me and drink.
 
 ## John 7:38
 
-The one who believes in Me, as the Scripture said,  
-‘From his innermost being will flow rivers of living water.’”
+Whoever believes in me, as the Scripture has said, rivers of living water will flow from within them.”
 
 ## John 7:39
 
-But this He said in reference to the Spirit, whom those who believed in Him were to receive;  
-for the Spirit was not yet given, because Jesus was not yet glorified.
+By this he meant the Spirit, whom those who believed in him were later to receive. Up to that time, the Spirit had not been given, since Jesus had not yet been glorified.
 
 ---
 
 ## John 7:40
 
-Some of the people therefore, after they heard these words, were saying,  
-“This truly is the Prophet.”
+On hearing his words, some of the people said, “Surely this man is the Prophet.”
 
 ## John 7:41
 
-Others were saying, “This is the Christ.”  
-But others were saying,  
-“Surely the Christ is not coming from Galilee, is He?
+Others said, “He is the Messiah.” Still others asked, “How can the Messiah come from Galilee?
 
 ## John 7:42
 
-Has the Scripture not said that the Christ comes from the descendants of David,  
-and from Bethlehem, the village where David was?”
+Does not Scripture say that the Messiah will come from David’s descendants and from Bethlehem, the village where David lived?”
 
 ## John 7:43
 
-So a dissension occurred in the crowd because of Him.
+Thus the people were divided because of Jesus.
 
 ## John 7:44
 
-And some of them wanted to arrest Him, but no one laid hands on Him.
+Some wanted to seize him, but no one laid a hand on him.
 
 ---
 
 ## John 7:45
 
-The officers then came to the chief priests and Pharisees, and they said to them,  
-“Why did you not bring Him?”
+Finally the officers went back to the chief priests and the Pharisees, who asked them, “Why didn’t you bring him in?”
 
 ## John 7:46
 
-The officers answered,  
-“Never has a man spoken in this way!”
+The officers answered, “No one ever spoke the way this man does.”
 
 ## John 7:47
 
-The Pharisees then replied to them,  
-“You have not been led astray too, have you?
+“You mean he has deceived you also?” the Pharisees retorted.
 
 ## John 7:48
 
-Not one of the rulers or Pharisees has believed in Him, has he?
+“Have any of the rulers or of the Pharisees believed in him?
 
 ## John 7:49
 
-But this crowd that does not know the Law is accursed!”
+No! But this crowd that does not know the law is accursed.”
 
 ## John 7:50
 
-Nicodemus (the one who came to Him before, being one of them) _said to them_,
+Nicodemus, who had gone to Jesus earlier and who was one of their own number, said to them,
 
 ## John 7:51
 
-“Our Law does not judge the person unless it first hears from him and knows what he is doing, does it?”
+“Does our law condemn a man without first hearing him and finding out what he has been doing?”
 
 ## John 7:52
 
-They answered and said to him,  
-“You are not from Galilee as well, are you? Examine the Scriptures, and see that no prophet comes out of Galilee.”
+They replied, “Are you from Galilee too? Look into it, and you will find that no prophet arises from Galilee.”
 
 ### Some early manuscripts do not have John 7:53 in this location, but do include it
 

@@ -1,144 +1,76 @@
 # Numbers Chapter 24
 
 ## Numbers 24:1
-
-Now when Balaam saw that it pleased the Lord to bless Israel, he did not seek omens as before, but turned his face toward the wilderness.
+When Balaam realised that it pleased the Lord to bless Israel, he did not seek omens as he had done before, but turned his gaze towards the wilderness.
 
 ## Numbers 24:2
-
-When Balaam looked out and saw Israel encamped tribe by tribe, the Spirit of God came on him.
+And Balaam lifted his eyes and saw Israel camped tribe by tribe, and the Spirit of God came upon him.
 
 ## Numbers 24:3
-
-And he delivered this oracle:
-
-> “The prophecy of Balaam son of Beor,  
-> the prophecy of one whose eyes see clearly,
+He began his oracle and said, “The utterance of Balaam son of Beor, the utterance of the man whose eye is open;
 
 ## Numbers 24:4
-
-> the prophecy of one who hears the words of God,  
-> who sees a vision from the Almighty,  
-> who falls prostrate, and whose eyes are opened:
+The utterance of one who hears the words of God, who sees the vision of the Almighty, who falls down, with eyes uncovered:
 
 ## Numbers 24:5
-
-> How beautiful are your tents, Jacob,  
-> your dwellings, Israel!
+How lovely are your tents, Jacob, your dwelling places, Israel!
 
 ## Numbers 24:6
-
-> Like valleys they spread out,  
-> like gardens beside a river,  
-> like aloes planted by the Lord,  
-> like cedars beside the waters.
+Like valleys they extend, like gardens beside a river, like aloes planted by the Lord, like cedars beside the waters.
 
 ## Numbers 24:7
-
-> Water will flow from their buckets;  
-> their seed will have abundant water.  
-> Their king will be greater than Agag;  
-> their kingdom will be exalted.
+Water shall flow from his buckets, and his seed shall be in many waters; his king shall be higher than Agag, and his kingdom shall be exalted.
 
 ## Numbers 24:8
-
-> God brought them out of Egypt;  
-> they have the strength of a wild ox.  
-> They devour hostile nations,  
-> breaking their bones in pieces and piercing them with arrows.
+God brings him out of Egypt; he has the strength of a wild ox. He will consume the nations that are his enemies, and will break their bones and pierce them with his arrows.
 
 ## Numbers 24:9
-
-> They crouch and lie down like a lion,  
-> like a lioness—who dares to rouse them?  
-> Blessed are those who bless you,  
-> and cursed are those who curse you.”
+He crouches, he lies down like a lion, and like a lioness—who dares to rouse him? Blessed are those who bless you, and cursed are those who curse you.”
 
 ## Numbers 24:10
-
-Then Balak’s anger burned against Balaam. He struck his hands together and said, “I summoned you to curse my enemies, but you have blessed them three times!
+Then Balak’s anger burned against Balaam, and he clapped his hands together and said to Balaam, “I called you to curse my enemies, but you have blessed them these three times!
 
 ## Numbers 24:11
-
-Now leave at once and go home! I promised to reward you handsomely, but the Lord has kept you from being rewarded.”
+Therefore, flee to your place now! I said I would greatly reward you, but the Lord has kept you from being honoured.”
 
 ## Numbers 24:12
-
-Balaam answered, “Did I not tell the messengers you sent me:
+Balaam replied to Balak, “Did I not tell your messengers whom you sent to me,
 
 ## Numbers 24:13
-
-‘Even if Balak gave me all the silver and gold in his palace, I could not go beyond the command of the Lord’?
+‘Even if Balak gave me his palace full of silver and gold, I could not go beyond the command of the Lord to do either good or bad of my own will. What the Lord speaks, that I will speak’?
 
 ## Numbers 24:14
-
-Now I am going back to my people, but let me tell you what this people will do to yours in days to come.”
+Now, behold, I am going back to my people; come, let me inform you of what this people will do to your people in the days to come.”
 
 ## Numbers 24:15
-
-Then Balaam delivered his fourth oracle:
-
-> “The prophecy of Balaam son of Beor,  
-> the prophecy of one whose eyes see clearly,
+Then he began his oracle and said, “The utterance of Balaam son of Beor, the utterance of the man whose eye is open,
 
 ## Numbers 24:16
-
-> the prophecy of one who hears the words of God,  
-> who has knowledge from the Most High,  
-> who sees a vision from the Almighty,  
-> who falls prostrate, and whose eyes are opened:
+The utterance of one who hears the words of God, and has knowledge from the Most High, who sees the vision of the Almighty, who falls down, with eyes uncovered:
 
 ## Numbers 24:17
-
-> I see him, but not now;  
-> I behold him, but not near.  
-> A star will come out of Jacob;  
-> a sceptre will rise out of Israel.
-
-> He will crush the foreheads of Moab,  
-> the skulls of all the people of Sheth.
+I see him, but not now; I behold him, but not near; a star shall come out of Jacob, a sceptre shall rise out of Israel, and shall crush the foreheads of Moab, and destroy all the sons of Sheth.
 
 ## Numbers 24:18
-
-> Edom will be conquered; Seir, his enemy, will be conquered,  
-> but Israel will grow strong.
+Edom shall be a possession; Seir, its enemies, shall also be a possession, while Israel grows strong.
 
 ## Numbers 24:19
-
-> A ruler will come out of Jacob  
-> he will ensure there are no survivors of the city.”
+A ruler shall come out of Jacob, and shall destroy the survivors of the city.”
 
 ## Numbers 24:20
-
-Then Balaam saw Amalek and spoke his message:
-
-> “Amalek was first among the nations,  
-> but their end will be utter destruction.”
+Then he looked at Amalek and began his oracle and said, “Amalek was the first among the nations, but his end shall be utter destruction.”
 
 ## Numbers 24:21
-
-Then he saw the Kenites and spoke his message:
-
-> “Your dwelling place is secure,  
-> your nest is set in a rock;
+And he looked at the Kenites and began his oracle and said, “Your dwelling place is secure, and your nest is set in the rock;
 
 ## Numbers 24:22
-
-> yet you Kenites will be destroyed  
-> when Ashur takes you captive.”
+Nevertheless, the Kenites will be destroyed when Asshur takes you captive.”
 
 ## Numbers 24:23
-
-Then he spoke again:
-
-> “Alas! Who can live when God does this?
+Then he began his oracle and said, “Alas! Who can survive unless God has willed it?
 
 ## Numbers 24:24
-
-> Ships will come from the coasts of Cyprus;  
-> they will subdue Ashur and Eber,  
-> but they too will come to ruin.”
+But ships shall come from the coast of Kittim, and they shall afflict Asshur and afflict Eber; and they too shall come to destruction.”
 
 ## Numbers 24:25
-
-Then Balaam got up and returned home, and Balak went his own way.
+Then Balaam arose and returned to his place, and Balak also went his own way.

@@ -1,149 +1,85 @@
 # Proverbs Chapter 25
 
 ## Proverbs 25:1
-
-These also are proverbs of Solomon,  
-Which the men of Hezekiah, king of Judah, transcribed.
+These are further proverbs of Solomon, transcribed by the men of Hezekiah, king of Judah.
 
 ## Proverbs 25:2
-
-It is the glory of God to conceal a matter,  
-But the glory of kings is to search a matter out.
+It is the glory of God to conceal a matter; the honour of kings is to search out a matter.
 
 ## Proverbs 25:3
-
-As the heavens for height and the earth for depth,  
-So the hearts of kings are unsearchable.
+As the heavens are high and the earth is deep, so the heart of kings is unsearchable.
 
 ## Proverbs 25:4
-
-Remove the dross from the silver,  
-And material comes out for the silversmith;
+Remove the impurities from the silver, and a vessel emerges for the silversmith.
 
 ## Proverbs 25:5
-
-Remove the wicked before the king,  
-And his throne will be established in righteousness.
+Remove the wicked from the king’s presence, and his throne will be established through righteousness.
 
 ## Proverbs 25:6
-
-Do not boast in the presence of the king,  
-And do not stand in the place of great people;
+Do not exalt yourself in the king’s presence, and do not stand in the place of the great.
 
 ## Proverbs 25:7
-
-For it is better that it be said to you, “Come up here,”  
-Than for you to be placed lower in the presence of a prince  
-Whom your eyes have seen.
-
----
+It is better for him to say to you, “Come up here,” than for you to be humiliated before the prince whom your eyes have seen.
 
 ## Proverbs 25:8
-
-Do not go out hastily to argue your case;  
-Otherwise, what will you do in the end,  
-When your neighbour humiliates you?
+Do not go hastily to court, for what will you do in the end if your neighbour puts you to shame?
 
 ## Proverbs 25:9
-
-Argue your case with your neighbour,  
-And do not reveal the secret of another,
+Argue your case with your neighbour, and do not betray another’s confidence,
 
 ## Proverbs 25:10
-
-So that the one who hears it will not put you to shame,  
-And the evil report about you will not be removed.
+lest the one who hears it put you to shame, and your reputation be ruined.
 
 ## Proverbs 25:11
-
-Like apples of gold in settings of silver  
-Is a word spoken at the proper time.
+Like apples of gold in settings of silver is a word spoken at the right time.
 
 ## Proverbs 25:12
-
-Like a gold ring and jewellery of fine gold  
-Is a wise reprover to a listening ear.
+Like a gold earring or a fine gold ornament is a wise rebuke to a listening ear.
 
 ## Proverbs 25:13
-
-Like the cold of snow in harvest time  
-Is a faithful messenger to those who send him,  
-For he refreshes the soul of his masters.
+Like the coolness of snow at harvest time is a faithful messenger to those who send him; he refreshes the soul of his master.
 
 ## Proverbs 25:14
-
-Like clouds and wind without rain  
-Is a person who boasts of gifts falsely.
+Like clouds and wind without rain is one who boasts of gifts never given.
 
 ## Proverbs 25:15
-
-Through patience a ruler may be persuaded,  
-And a gentle tongue breaks bone.
+Through patience a ruler can be persuaded, and a gentle tongue can break a bone.
 
 ## Proverbs 25:16
-
-Have you found honey? Eat only what you need,  
-So that you do not have it in excess and vomit it.
+If you find honey, eat only what you need, lest you have too much and vomit.
 
 ## Proverbs 25:17
-
-Let your foot rarely be in your neighbour’s house,  
-Or he will become weary of you and hate you.
-
----
+Let your foot seldom be in your neighbour’s house, lest he become weary of you and hate you.
 
 ## Proverbs 25:18
-
-Like a club, a sword, and a sharp arrow  
-Is a person who gives false testimony against his neighbour.
+Like a club, a sword, or a sharp arrow is one who gives false testimony against a neighbour.
 
 ## Proverbs 25:19
-
-Like a bad tooth and an unsteady foot  
-Is confidence in a treacherous person in a time of trouble.
+Like a bad tooth or a lame foot is reliance on the unfaithful in times of trouble.
 
 ## Proverbs 25:20
-
-Like one who takes off a garment on a cold day,  
-Or like vinegar on soda,  
-Is one who sings songs to a troubled heart.
+Like one who takes away a garment on a cold day, or vinegar on soda, is one who sings songs to a heavy heart.
 
 ## Proverbs 25:21
-
-If your enemy is hungry, give him food to eat;  
-And if he is thirsty, give him water to drink;
+If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.
 
 ## Proverbs 25:22
-
-For you will heap burning coals on his head,  
-And the Lord will reward you.
+In doing this, you will heap burning coals on his head, and the Lord will reward you.
 
 ## Proverbs 25:23
-
-The north wind brings forth rain,  
-And a gossiping tongue, an angry face.
+As the north wind brings rain, so a sly tongue brings an angry face.
 
 ## Proverbs 25:24
-
-It is better to live on a corner of the roof  
-Than in a house shared with a contentious woman.
+Better to live on a corner of the roof than to share a house with a quarrelsome woman.
 
 ## Proverbs 25:25
-
-Like cold water to a weary soul,  
-So is good news from a distant land.
+Like cold water to a weary soul is good news from a distant land.
 
 ## Proverbs 25:26
-
-Like a trampled spring and a polluted well  
-Is a righteous person who gives way before the wicked.
+Like a muddied spring or a polluted well are the righteous who give way before the wicked.
 
 ## Proverbs 25:27
-
-It is not good to eat much honey,  
-Nor is it glory to search out one’s own glory.
+It is not good to eat too much honey, nor is it honourable to seek one’s own glory.
 
 ## Proverbs 25:28
-
-Like a city that is broken into and without walls  
-Is a person who has no control over his spirit.
+Like a city whose walls are broken down is a person who lacks self-control.

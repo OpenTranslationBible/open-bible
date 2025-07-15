@@ -1,92 +1,91 @@
 # Exodus Chapter 6
 
 ## Exodus 6:1
-Then the Lord said to Moses, “Now you will see what I will do to Pharaoh: because of My mighty hand he will let them go, and because of My mighty hand he will drive them out of his land.”
+Then the Lord said to Moses, “Now you shall witness what I will do to Pharaoh: because of my strong hand he will release them; indeed, because of my strong hand he will drive them out of his land.”
 
 ## Exodus 6:2
-God also said to Moses, “I am the Lord.
+God spoke further to Moses, saying, “I am the Lord.
 
 ## Exodus 6:3
-I appeared to Abraham, to Isaac, and to Jacob as God Almighty, but by My name ‘the Lord’ I did not make Myself fully known to them.
+I appeared to Abraham, Isaac, and Jacob as God Almighty, but by my name, the Lord, I did not make myself fully known to them.
 
 ## Exodus 6:4
-I also established My covenant with them to give them the land of Canaan, where they resided as foreigners.
+I also established my covenant with them to give them the land of Canaan, where they lived as strangers.
 
 ## Exodus 6:5
-And I have heard the groaning of the Israelites, whom the Egyptians are enslaving, and I have remembered My covenant.
+Moreover, I have heard the groaning of the Israelites, whom the Egyptians are holding in bondage, and I have remembered my covenant.
 
 ## Exodus 6:6
-Therefore, say to the Israelites: ‘I am the Lord. I will bring you out from under the yoke of the Egyptians, I will free you from slavery and redeem you with an outstretched arm and mighty acts of judgment.
+Therefore, say to the Israelites: ‘I am the Lord, and I will bring you out from under the burdens of the Egyptians, and I will rescue you from their slavery. I will redeem you with an outstretched arm and with mighty acts of judgement.
 
 ## Exodus 6:7
-I will take you as My own people, and I will be your God. Then you will know that I am the Lord your God, who brought you out from under the oppression of Egypt.
+I will take you as my own people, and I will be your God. Then you shall know that I am the Lord your God, who brought you out from under the burdens of the Egyptians.
 
 ## Exodus 6:8
-And I will bring you to the land I swore with uplifted hand to give to Abraham, Isaac and Jacob. I will give it to you as your possession. I am the Lord.’”
+And I will bring you to the land I swore to give to Abraham, Isaac, and Jacob; I will give it to you as a possession. I am the Lord.’”
 
 ## Exodus 6:9
-Moses reported this to the Israelites, but they did not listen to him because of their discouragement and harsh labour.
+Moses relayed this to the Israelites, but they did not listen to him because of their despondency and harsh labour.
 
 ## Exodus 6:10
-Then the Lord said to Moses,
+Then the Lord spoke to Moses, saying,
 
 ## Exodus 6:11
 “Go, tell Pharaoh king of Egypt to let the Israelites go out of his land.”
 
 ## Exodus 6:12
-But Moses said to the Lord, “If the Israelites will not listen to me, why would Pharaoh listen, since I speak with faltering lips?”
+But Moses said to the Lord, “If the Israelites have not listened to me, why would Pharaoh listen to me, since I am unskilled in speech?”
 
 ## Exodus 6:13
-Then the Lord gave orders to Moses and Aaron regarding the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.
+The Lord nevertheless spoke to Moses and Aaron and gave them a command concerning the Israelites and Pharaoh king of Egypt, to bring the Israelites out of the land of Egypt.
 
 ## Exodus 6:14
-These were the heads of their families: The sons of Reuben the firstborn of Israel were Hanok, Pallu, Hezron and Karmi. These were the clans of Reuben.
+These were the heads of their families: The sons of Reuben, Israel’s firstborn, were Hanoch and Pallu, Hezron and Carmi. These were the clans of Reuben.
 
 ## Exodus 6:15
-The sons of Simeon were Jemuel, Jamin, Ohad, Jakin, Zohar and Shaul—the son of a Canaanite woman. These were the clans of Simeon.
+The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of a Canaanite woman. These were the clans of Simeon.
 
 ## Exodus 6:16
-These were the names of the sons of Levi by their genealogies: Gershon, Kohath and Merari. Levi lived 137 years.
+These were the names of the sons of Levi according to their generations: Gershon, Kohath, and Merari. Levi lived 137 years.
 
 ## Exodus 6:17
-The sons of Gershon, by clans, were Libni and Shimei.
+The sons of Gershon, by their clans, were Libni and Shimei.
 
 ## Exodus 6:18
-The sons of Kohath were Amram, Izhar, Hebron and Uzziel. Kohath lived 133 years.
+The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
 
 ## Exodus 6:19
-The sons of Merari were Mahli and Mushi. These were the clans of Levi by their genealogies.
+The sons of Merari were Mahli and Mushi. These were the clans of Levi according to their records.
 
 ## Exodus 6:20
-Amram married his father’s sister Jochebed, who bore him Aaron and Moses. Amram lived 137 years.
+Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.
 
 ## Exodus 6:21
-The sons of Izhar were Korah, Nepheg and Zikri.
+The sons of Izhar were Korah, Nepheg, and Zichri.
 
 ## Exodus 6:22
-The sons of Uzziel were Mishael, Elzaphan and Sithri.
+The sons of Uzziel were Mishael, Elzaphan, and Sithri.
 
 ## Exodus 6:23
-Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab, Abihu, Eleazar and Ithamar.
+Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.
 
 ## Exodus 6:24
-The sons of Korah were Assir, Elkanah and Abiasaph. These were the clans of the Korahites.
+The sons of Korah were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
 
 ## Exodus 6:25
-Eleazar son of Aaron married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families by their clans.
+Eleazar, son of Aaron, married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families, clan by clan.
 
 ## Exodus 6:26
 It was this Aaron and Moses to whom the Lord said, “Bring the Israelites out of Egypt by their divisions.”
 
 ## Exodus 6:27
-They were the ones who spoke to Pharaoh king of Egypt to bring the Israelites out of Egypt—this same Moses and Aaron.
+They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt—this same Moses and Aaron.
 
 ## Exodus 6:28
-When the Lord spoke to Moses in Egypt,
+It came to pass on the day when the Lord spoke to Moses in Egypt,
 
 ## Exodus 6:29
-He said to him, “I am the Lord. Tell Pharaoh king of Egypt everything I tell you.”
+that the Lord spoke to Moses, saying, “I am the Lord; speak to Pharaoh king of Egypt all that I say to you.”
 
 ## Exodus 6:30
-But Moses said to the Lord, “Since I speak with faltering lips, why would Pharaoh listen to me?”
-
+But Moses said before the Lord, “Behold, I am unskilled in speech; how then will Pharaoh listen to me?”

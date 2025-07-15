@@ -2,146 +2,116 @@
 
 ## Proverbs 28:1
 
-The wicked flee when no one is pursuing,  
-But the righteous are bold as a lion.
+The wicked flee when no one pursues, but the righteous are as bold as a lion.
 
 ## Proverbs 28:2
 
-Due to the wrongdoing of a land, its leaders are many,  
-But by a person of understanding and knowledge, it endures.
+When a land is in rebellion, it has many rulers, but with a person of understanding and knowledge, it endures.
 
 ## Proverbs 28:3
 
-A poor person who oppresses the helpless  
-Is like a driving rain which leaves no food.
+A ruler who oppresses the poor is like a driving rain that leaves no food.
 
 ## Proverbs 28:4
 
-Those who abandon the Law praise the wicked,  
-But those who keep the Law strive with them.
+Those who forsake the law praise the wicked, but those who keep it strive against them.
 
 ## Proverbs 28:5
 
-Evil people do not understand justice,  
-But those who seek the Lord understand everything.
+Evildoers do not understand justice, but those who seek the Lord understand it fully.
 
 ## Proverbs 28:6
 
-Better is a poor person who walks in his integrity  
-Than a person who is crooked, though rich.
+Better is the poor who walks in integrity than the rich whose ways are crooked.
 
 ## Proverbs 28:7
 
-One who keeps the Law is a discerning son,  
-But one who is a companion of gluttons humiliates his father.
+A discerning son heeds the law, but a companion of gluttons brings shame to his father.
 
 ## Proverbs 28:8
 
-One who increases his wealth by interest and usury  
-Gathers it for one who is gracious to the poor.
+Whoever increases wealth by interest or profit from the poor gathers it for one who will be kind to the poor.
 
 ## Proverbs 28:9
 
-One who turns his ear away from listening to the Law,  
-Even his prayer is an abomination.
+If anyone turns away from listening to the law, even their prayer is detestable.
 
 ## Proverbs 28:10
 
-One who leads the upright astray in an evil way  
-Will fall into his own pit,  
-But the blameless will inherit good.
+Whoever leads the upright astray in an evil way will fall into their own pit, but the blameless will inherit good.
 
 ---
 
 ## Proverbs 28:11
 
-The rich person is wise in his own eyes,  
-But the poor who has understanding sees through him.
+The rich are wise in their own eyes, but the poor with understanding sees through them.
 
 ## Proverbs 28:12
 
-When the righteous triumph, there is great glory,  
-But when the wicked rise, people hide themselves.
+When the righteous triumph, there is great glory; but when the wicked rise, people hide themselves.
 
 ## Proverbs 28:13
 
-One who conceals his wrongdoings will not prosper,  
-But one who confesses and abandons them will find compassion.
+Whoever conceals their sins will not prosper, but the one who confesses and renounces them finds mercy.
 
 ## Proverbs 28:14
 
-Blessed is the person who fears always,  
-But one who hardens his heart will fall into disaster.
+Blessed is the one who always fears God, but whoever hardens their heart falls into disaster.
 
 ## Proverbs 28:15
 
-Like a roaring lion and a rushing bear  
-Is a wicked ruler over a poor people.
+Like a roaring lion or a charging bear is a wicked ruler over a poor people.
 
 ## Proverbs 28:16
 
-A leader who is lacking in understanding is a great oppressor,  
-But one who hates unjust gain will prolong his days.
+A tyrannical ruler lacks understanding, but one who hates unjust gain will prolong their days.
 
 ## Proverbs 28:17
 
-One burdened by the guilt of human blood  
-Will be a fugitive until death;  
-No one is to support him.
+Anyone burdened with the guilt of murder will be a fugitive until death; let no one support them.
 
 ---
 
 ## Proverbs 28:18
 
-One who walks blamelessly will be saved,  
-But one who is crooked will fall all at once.
+The one who walks blamelessly will be kept safe, but the one whose ways are crooked will fall suddenly.
 
 ## Proverbs 28:19
 
-One who works his land will have plenty of food,  
-But one who pursues worthless things will have plenty of poverty.
+Those who work their land will have plenty of food, but those who pursue fantasies will have plenty of poverty.
 
 ## Proverbs 28:20
 
-A faithful person will abound with blessings,  
-But one who hurries to be rich will not go unpunished.
+A faithful person will abound with blessings, but one eager to get rich will not go unpunished.
 
 ## Proverbs 28:21
 
-To show partiality is not good,  
-Because for a piece of bread a person will do wrong.
+To show partiality is not good, yet for a piece of bread a person will do wrong.
 
 ## Proverbs 28:22
 
-A person with an evil eye hurries to wealth  
-And does not know that poverty will come upon him.
+The stingy hurry after wealth and do not realise that poverty awaits them.
 
 ## Proverbs 28:23
 
-One who rebukes a person will afterward find more favour  
-Than one who flatters with the tongue.
+Whoever rebukes a person will find more favour in the end than one who flatters with the tongue.
 
 ## Proverbs 28:24
 
-He who robs his father or his mother and says, “It is not a sin,”  
-Is the companion of a person who destroys.
+Whoever robs their father or mother and says, “It is not wrong,” is a companion to one who destroys.
 
 ## Proverbs 28:25
 
-An arrogant person stirs up strife,  
-But one who trusts in the Lord will prosper.
+The arrogant stir up strife, but those who trust in the Lord will prosper.
 
 ## Proverbs 28:26
 
-One who trusts in his own heart is a fool,  
-But one who walks wisely will be rescued.
+Those who trust in themselves are fools, but those who walk wisely will be kept safe.
 
 ## Proverbs 28:27
 
-One who gives to the poor will never lack,  
-But one who shuts his eyes will have many curses.
+Those who give to the poor will lack nothing, but those who shut their eyes to them receive many curses.
 
 ## Proverbs 28:28
 
-When the wicked rise, people hide themselves;  
-But when they perish, the righteous increase.
+When the wicked rise, people hide themselves; but when they perish, the righteous increase.

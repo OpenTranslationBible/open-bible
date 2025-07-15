@@ -1,176 +1,106 @@
 # Proverbs Chapter 14
 
 ## Proverbs 14:1
-
-The wise woman builds her house,  
-But the foolish tears it down with her own hands.
+The wise woman constructs her house, but the foolish one demolishes it with her own hands.
 
 ## Proverbs 14:2
-
-One who walks in uprightness fears the Lord,  
-But one who is devious in his ways despises Him.
+Whoever walks in uprightness fears the Lord, but the devious in their ways show contempt for Him.
 
 ## Proverbs 14:3
-
-In the mouth of the foolish is a rod for his back,  
-But the lips of the wise will protect them.
+In the mouth of the foolish is a rod for their back, but the lips of the wise will safeguard them.
 
 ## Proverbs 14:4
-
-Where there are no oxen, the manger is clean,  
-But much revenue comes by the strength of the ox.
+Where there are no oxen, the manger is clean, but abundant harvests come from the strength of an ox.
 
 ## Proverbs 14:5
-
-A trustworthy witness will not lie,  
-But a false witness utters lies.
+A truthful witness does not lie, but a false witness speaks deceit.
 
 ## Proverbs 14:6
-
-A scoffer seeks wisdom and finds none,  
-But knowledge is easy to one who understands.
+A mocker seeks wisdom and finds none, but knowledge is easily found by those with understanding.
 
 ## Proverbs 14:7
-
-Leave the presence of a fool,  
-Or you will not discern words of knowledge.
+Depart from the presence of a fool, for you will not find words of knowledge on their lips.
 
 ## Proverbs 14:8
-
-The wisdom of the sensible is to understand his way,  
-But the foolishness of fools is deceit.
+The wisdom of the prudent is to understand their way, but the folly of fools is deceit.
 
 ## Proverbs 14:9
-
-Fools mock at guilt,  
-But among the upright there is goodwill.
+Fools make light of making amends for sin, but goodwill is found among the upright.
 
 ## Proverbs 14:10
-
-The heart knows its own bitterness,  
-And a stranger does not share in its joy.
+The heart knows its own bitterness, and no stranger shares its joy.
 
 ## Proverbs 14:11
-
-The house of the wicked will be destroyed,  
-But the tent of the upright will flourish.
+The house of the wicked will be destroyed, but the tent of the upright will thrive.
 
 ## Proverbs 14:12
-
-There is a way which seems right to a person,  
-But its end is the way of death.
+There is a way that seems right to a person, but in the end, it leads to death.
 
 ## Proverbs 14:13
-
-Even in laughter the heart may be in pain,  
-And the end of joy may be grief.
+Even in laughter, the heart may ache, and the end of joy may be grief.
 
 ## Proverbs 14:14
-
-One with a wayward heart will have his fill of his own ways,  
-But a good person will be satisfied with his.
+The faithless will be filled with their own ways, but a good person will be satisfied with theirs.
 
 ## Proverbs 14:15
-
-The naive believes everything,  
-But the prudent person considers his steps.
+The simple believe anything, but the prudent consider their steps.
 
 ## Proverbs 14:16
-
-A wise person is cautious and turns away from evil,  
-But a fool is arrogant and careless.
+A wise person is cautious and turns away from evil, but a fool is arrogant and careless.
 
 ## Proverbs 14:17
-
-A quick-tempered person acts foolishly,  
-And a person of evil devices is hated.
+A quick-tempered person acts foolishly, and one who devises evil schemes is despised.
 
 ## Proverbs 14:18
-
-The naive inherit foolishness,  
-But the sensible are crowned with knowledge.
+The simple inherit folly, but the prudent are crowned with knowledge.
 
 ## Proverbs 14:19
-
-The evil will bow down before the good,  
-And the wicked at the gates of the righteous.
+Evildoers will bow down before the good, and the wicked at the gates of the righteous.
 
 ## Proverbs 14:20
-
-The poor is hated even by his neighbour,  
-But those who love the rich are many.
+The poor are shunned even by their neighbour, but the rich have many friends.
 
 ## Proverbs 14:21
-
-One who despises his neighbour sins,  
-But one who is gracious to the needy is blessed.
+It is a sin to despise one's neighbour, but blessed is the one who is kind to the poor.
 
 ## Proverbs 14:22
-
-Will they not go astray who devise evil?  
-But kindness and truth will be to those who devise good.
+Do not those who plot evil go astray? But kindness and truth come to those who plan what is good.
 
 ## Proverbs 14:23
-
-In all labour there is profit,  
-But mere talk leads only to poverty.
+In all hard work there is profit, but mere talk leads only to poverty.
 
 ## Proverbs 14:24
-
-The crown of the wise is their riches,  
-But the foolishness of fools is simply foolishness.
+The wealth of the wise is their crown, but the folly of fools is simply folly.
 
 ## Proverbs 14:25
-
-A truthful witness saves lives,  
-But one who declares lies is deceitful.
+A truthful witness saves lives, but one who speaks lies is deceitful.
 
 ## Proverbs 14:26
-
-In the fear of the Lord there is strong confidence,  
-And His children will have refuge.
+In the fear of the Lord there is strong confidence, and for their children it will be a refuge.
 
 ## Proverbs 14:27
-
-The fear of the Lord is a fountain of life,  
-By which one may avoid the snares of death.
+The fear of the Lord is a fountain of life, turning one away from the snares of death.
 
 ## Proverbs 14:28
-
-In a multitude of people is a king’s glory,  
-But in the scarcity of people is a prince’s ruin.
+A large population is a king's glory, but without subjects a prince is ruined.
 
 ## Proverbs 14:29
-
-One who is slow to anger has great understanding,  
-But one who is quick-tempered exalts foolishness.
+Whoever is slow to anger has great understanding, but one who is quick-tempered displays folly.
 
 ## Proverbs 14:30
-
-A tranquil heart is life to the body,  
-But jealousy is rottenness to the bones.
+A tranquil heart gives life to the body, but envy rots the bones.
 
 ## Proverbs 14:31
-
-One who oppresses the poor taunts his Maker,  
-But one who is gracious to the needy honours Him.
+Whoever oppresses the poor shows contempt for their Maker, but whoever is kind to the needy honours Him.
 
 ## Proverbs 14:32
-
-The wicked is thrust down by his own wrongdoing,  
-But the righteous has a refuge when he dies.
+When calamity comes, the wicked are brought down, but the righteous have a refuge even in death.
 
 ## Proverbs 14:33
-
-Wisdom rests in the heart of one who has understanding,  
-But in the inner part of fools it is made known.
+Wisdom rests in the heart of the discerning, but even among fools, she is made known.
 
 ## Proverbs 14:34
-
-Righteousness exalts a nation,  
-But sin is a disgrace to any people.
+Righteousness exalts a nation, but sin is a disgrace to any people.
 
 ## Proverbs 14:35
-
-The king’s favour is toward a servant who acts wisely,  
-But his anger is toward one who acts shamefully.
+A king delights in a servant who acts wisely, but his anger is towards one who acts shamefully.

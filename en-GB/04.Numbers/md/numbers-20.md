@@ -1,89 +1,88 @@
 # Numbers Chapter 20
 
 ## Numbers 20:1
-In the first month the whole Israelite community arrived at the Desert of Zin, and they stayed at Kadesh. There Miriam died and was buried.
+In the first month, the entire Israelite congregation arrived at the wilderness of Zin, and they stayed at Kadesh. Miriam died there and was buried.
 
 ## Numbers 20:2
-Now there was no water for the community, and the people gathered in opposition to Moses and Aaron.
+There was no water for the community, and they gathered against Moses and Aaron.
 
 ## Numbers 20:3
-They quarreled with Moses and said, “If only we had died when our brothers fell dead before the Lord!
+The people contended with Moses and said, “If only we had perished when our brethren perished before the Lord!
 
 ## Numbers 20:4
-Why did you bring the Lord’s community into this wilderness, that we and our livestock should die here?
+Why have you brought the Lord’s assembly into this wilderness, for us and our livestock to die here?
 
 ## Numbers 20:5
-Why did you bring us up from Egypt to this terrible place? It has no grain, figs, grapes, or pomegranates—and no water to drink!”
+Why did you bring us up out of Egypt to this dreadful place? It is not a place of grain, figs, vines, or pomegranates, and there is no water to drink!”
 
 ## Numbers 20:6
-Moses and Aaron went from the assembly to the entrance of the tent of meeting and fell face down, and the glory of the Lord appeared to them.
+Moses and Aaron went from the assembly to the entrance of the tent of meeting and fell on their faces, and the glory of the Lord appeared to them.
 
 ## Numbers 20:7
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Numbers 20:8
-“Take the staff, and you and your brother Aaron gather the assembly together. Speak to that rock before their eyes, and it will pour out its water.
+“Take the staff, and you and your brother Aaron gather the assembly. Speak to the rock before their eyes, and it will yield its water. You will bring forth water from the rock for the community and their livestock to drink.”
 
 ## Numbers 20:9
-So Moses took the staff from the Lord’s presence, just as He commanded.
+So Moses took the staff from before the Lord, just as he had commanded him.
 
 ## Numbers 20:10
-He and Aaron gathered the assembly in front of the rock, and Moses said to them, “Listen, you rebels, must we bring you water out of this rock?”
+Moses and Aaron gathered the assembly in front of the rock, and he said to them, “Listen, you rebels, must we bring water for you out of this rock?”
 
 ## Numbers 20:11
-Then Moses raised his arm and struck the rock twice with his staff. Water gushed out, and the community and their livestock drank.
+Then Moses raised his hand and struck the rock twice with his staff. Water gushed out abundantly, and the community and their livestock drank.
 
 ## Numbers 20:12
-But the Lord said to Moses and Aaron, “Because you did not trust Me enough to honour Me as holy in the sight of the Israelites, you will not bring this assembly into the land I give them.”
+But the Lord said to Moses and Aaron, “Because you did not trust in me to honour me as holy in the sight of the Israelites, you shall not bring this assembly into the land I have given them.”
 
 ## Numbers 20:13
-These were the waters of Meribah, where the Israelites quarreled with the Lord and where He was proved holy among them.
+These were the waters of Meribah, where the Israelites contended with the Lord, and he proved himself holy among them.
 
 ## Numbers 20:14
-From Kadesh, Moses sent messengers to the king of Edom, saying: “This is what your brother Israel says: You know about all the hardships we have experienced.
+Moses sent messengers from Kadesh to the king of Edom, saying: “This is what your brother Israel says: You know all the hardship that has befallen us.
 
 ## Numbers 20:15
-Our ancestors went down to Egypt, and we lived there many years. The Egyptians mistreated us and our ancestors.
+Our ancestors went down to Egypt, and we lived there for many years. The Egyptians mistreated us and our ancestors,
 
 ## Numbers 20:16
-But when we cried out to the Lord, He heard us and sent an angel and brought us out of Egypt. Now we are at Kadesh, a town on the edge of your territory.
+but when we cried out to the Lord, he heard our voice and sent an angel and brought us out of Egypt. Now we are at Kadesh, a town on the edge of your territory.
 
 ## Numbers 20:17
-Please let us pass through your land. We will not go through any field or vineyard, or drink water from any well. We will stay on the King’s Highway until we pass through your territory.”
+Please let us pass through your land. We will not go through any field or vineyard or drink water from any well. We will travel along the King’s Highway and not turn to the right or the left until we have passed through your territory.”
 
 ## Numbers 20:18
-But Edom answered: “You may not pass through here. If you try, we will march out and attack you.”
+But Edom replied: “You shall not pass through here; if you try, we will come out against you with the sword.”
 
 ## Numbers 20:19
-The Israelites replied, “We will go along the main road. If we or our livestock drink your water, we will pay for it. We ask only to pass through on foot—nothing more.”
+The Israelites said to him, “We will go along the main road, and if we or our livestock drink any of your water, we will pay for it. We only wish to pass through on foot—nothing more.”
 
 ## Numbers 20:20
-Again Edom responded: “You may not pass through.” Then Edom came out against them with a large and powerful army.
+But he said, “You shall not pass through.” Then Edom came out against them with a large and powerful force.
 
 ## Numbers 20:21
-Since Edom refused to let them pass, Israel turned away from them.
+Since Edom refused to allow Israel to pass through their territory, Israel turned away from them.
 
 ## Numbers 20:22
-The whole Israelite community set out from Kadesh and came to Mount Hor.
+The entire Israelite community set out from Kadesh and came to Mount Hor.
 
 ## Numbers 20:23
-There the Lord said to Moses and Aaron,
+At Mount Hor, near the border of Edom, the Lord spoke to Moses and Aaron,
 
 ## Numbers 20:24
-“Aaron will be gathered to his people. He will not enter the land I give the Israelites, because you both disobeyed My command at the waters of Meribah.
+“Aaron will be gathered to his people, for he shall not enter the land I have given to the Israelites, because you rebelled against my command at the waters of Meribah.
 
 ## Numbers 20:25
 Take Aaron and his son Eleazar and bring them up Mount Hor.
 
 ## Numbers 20:26
-Remove Aaron’s garments and put them on Eleazar. Aaron will be gathered to his people; he will die there.”
+Remove Aaron’s garments and put them on his son Eleazar, for Aaron will be gathered to his people and will die there.”
 
 ## Numbers 20:27
-Moses did as the Lord commanded. They went up Mount Hor in the sight of the whole community.
+Moses did as the Lord commanded: they went up Mount Hor in the sight of the whole community.
 
 ## Numbers 20:28
-Moses removed Aaron’s garments and put them on Eleazar. Aaron died there on top of the mountain.
+Moses removed Aaron’s garments and put them on his son Eleazar. Aaron died there on the mountain top. Then Moses and Eleazar came down from the mountain.
 
 ## Numbers 20:29
-When the whole community learned that Aaron had died, all Israel mourned for him thirty days.
-
+When the whole community saw that Aaron had died, all the Israelites mourned for him for thirty days.

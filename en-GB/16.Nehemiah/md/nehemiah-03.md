@@ -1,164 +1,97 @@
 # Nehemiah Chapter 3
 
 ## Nehemiah 3:1
-
-Then Eliashib the high priest rose up with his brothers the priests, and they built the Sheep Gate;  
-they consecrated it and installed its doors.  
-They consecrated it as far as the Tower of the Hundred and the Tower of Hananel.
+Eliashib the high priest, along with his fellow priests, commenced the work on the Sheep Gate. They consecrated it and installed its doors. They continued the consecration up to the Tower of the Hundred and the Tower of Hananel.
 
 ## Nehemiah 3:2
-
-Next to him the men of Jericho built,  
-and next to them Zaccur the son of Imri built.
+Next to them, the men of Jericho constructed the adjacent section, and Zakkur son of Imri built alongside them.
 
 ## Nehemiah 3:3
-
-Now the sons of Hassenaah built the Fish Gate;  
-they laid its beams and installed its doors with its bolts and bars.
+The sons of Hassenaah rebuilt the Fish Gate, laying its beams and setting up its doors, bolts, and bars.
 
 ## Nehemiah 3:4
-
-Next to them Meremoth the son of Uriah, the son of Hakkoz made repairs.  
-Next to him Meshullam the son of Berechiah, the son of Meshezabel made repairs.  
-Next to him Zadok the son of Baana also made repairs.
+Adjacent to them, Meremoth son of Uriah, the son of Hakkoz, undertook repairs. Beside him, Meshullam son of Berekiah, the son of Meshezabel, made repairs, with Zadok son of Baana repairing next to him.
 
 ## Nehemiah 3:5
-
-Moreover, next to him the Tekoites made repairs,  
-but their nobles did not support the work of their masters.
+The Tekoites repaired the following section, though their nobles would not support the work of their overseers.
 
 ## Nehemiah 3:6
-
-Now Joiada the son of Paseah and Meshullam the son of Besodeiah repaired the Old Gate;  
-they laid its beams and installed its doors with its bolts and bars.
+Joiada son of Paseah and Meshullam son of Besodeiah repaired the Jeshanah Gate, setting its beams and installing its doors, bolts, and bars.
 
 ## Nehemiah 3:7
-
-Next to them Melatiah the Gibeonite and Jadon the Meronothite, the men of Gibeon and of Mizpah,  
-also made repairs for the official seat of the governor of the province beyond the River.
+Next to them, Melatiah the Gibeonite and Jadon the Meronothite, men of Gibeon and Mizpah, made repairs for the governor of the province beyond the Euphrates.
 
 ## Nehemiah 3:8
-
-Next to him Uzziel the son of Harhaiah of the goldsmiths made repairs.  
-And next to him Hananiah, one of the perfumers, made repairs.  
-And they restored Jerusalem as far as the Broad Wall.
+Uzziel son of Harhaiah, a goldsmith, repaired the next section, and Hananiah, one of the perfumers, made repairs beside him, restoring Jerusalem as far as the Broad Wall.
 
 ## Nehemiah 3:9
-
-Next to them Rephaiah the son of Hur, the official of half the district of Jerusalem, made repairs.
+Rephaiah son of Hur, official of half the district of Jerusalem, repaired the next section.
 
 ## Nehemiah 3:10
-
-Next to them Jedaiah the son of Harumaph made repairs opposite his house.  
-And next to him Hattush the son of Hashabneiah made repairs.
+Adjoining this, Jedaiah son of Harumaph made repairs opposite his house, with Hattush son of Hashabneiah working next to him.
 
 ## Nehemiah 3:11
-
-Malchijah the son of Harim and Hasshub the son of Pahath-moab repaired another section  
-and the Tower of Furnaces.
+Malkijah son of Harim and Hasshub son of Pahath-Moab repaired another section, including the Tower of the Ovens.
 
 ## Nehemiah 3:12
-
-Next to him Shallum the son of Hallohesh, official of half the district of Jerusalem, made repairs,  
-he and his daughters.
+Shallum son of Hallohesh, official of half the district of Jerusalem, repaired the next section with his daughters.
 
 ## Nehemiah 3:13
-
-Hanun and the inhabitants of Zanoah repaired the Valley Gate;  
-they built it and installed its doors with its bolts and bars,  
-and a thousand cubits of the wall to the Dung Gate.
+Hanun and the residents of Zanoah repaired the Valley Gate, constructing it and installing its doors, bolts, and bars, as well as a thousand cubits of the wall up to the Dung Gate.
 
 ## Nehemiah 3:14
-
-And Malchijah the son of Rechab, official of the district of Beth-haccherem,  
-repaired the Dung Gate; he built it and installed its doors with its bolts and bars.
+Malkijah son of Rekab, official of the district of Beth Hakkerem, repaired the Dung Gate, constructing it and installing its doors, bolts, and bars.
 
 ## Nehemiah 3:15
-
-And Shallun the son of Col-hozeh, official of the district of Mizpah, repaired the Fountain Gate;  
-he built it, covered it, and installed its doors with its bolts and bars,  
-and the wall of the Pool of Shelah at the king’s garden as far as the steps that descend from the city of David.
+Shallun son of Kol-Hozeh, official of the district of Mizpah, repaired the Fountain Gate, roofing it and installing its doors, bolts, and bars. He also repaired the wall of the Pool of Siloam by the King’s Garden, as far as the steps descending from the City of David.
 
 ## Nehemiah 3:16
-
-After him Nehemiah the son of Azbuk, official of half the district of Beth-zur, made repairs  
-as far as a point opposite the tombs of David, and as far as the artificial pool and the house of the mighty men.
+Beyond him, Nehemiah son of Azbuk, official of half the district of Beth Zur, made repairs opposite the tombs of David, up to the artificial pool and the House of the Heroes.
 
 ## Nehemiah 3:17
-
-After him the Levites carried out repairs under Rehum the son of Bani.  
-Next to him Hashabiah, official of half the district of Keilah, carried out repairs for his district.
+Next to him, the Levites carried out repairs under Rehum son of Bani. Beside him, Hashabiah, official of half the district of Keilah, repaired for his district.
 
 ## Nehemiah 3:18
-
-After him their brothers carried out repairs under Binnui the son of Henadad,  
-official of the other half of the district of Keilah.
+Next to him, their fellow Levites under Binnui son of Henadad, official of the other half-district of Keilah, made repairs.
 
 ## Nehemiah 3:19
-
-And next to him Ezer the son of Jeshua, official of Mizpah, repaired another section  
-in front of the ascent to the armoury at the Angle.
+Next to him, Ezer son of Jeshua, official of Mizpah, repaired another section opposite the ascent to the armoury at the angle.
 
 ## Nehemiah 3:20
-
-After him Baruch the son of Zabbai zealously repaired another section  
-from the Angle as far as the doorway of the house of Eliashib the high priest.
+Next to him, Baruch son of Zabbai zealously repaired another section, from the angle to the entrance of the house of Eliashib the high priest.
 
 ## Nehemiah 3:21
-
-After him Meremoth the son of Uriah, the son of Hakkoz repaired another section,  
-from the doorway of Eliashib’s house as far as the end of his house.
+Next to him, Meremoth son of Uriah, the son of Hakkoz, repaired another section, from the entrance of Eliashib’s house to its end.
 
 ## Nehemiah 3:22
-
-And after him the priests, the men of the surrounding region, made repairs.
+The priests from the surrounding region made repairs next to him.
 
 ## Nehemiah 3:23
-
-After them Benjamin and Hasshub made repairs opposite their house.  
-After them Azariah the son of Maaseiah, the son of Ananiah, made repairs beside his house.
+Beyond them, Benjamin and Hasshub made repairs in front of their house, with Azariah son of Maaseiah, the son of Ananiah, repairing beside his house.
 
 ## Nehemiah 3:24
-
-After him Binnui the son of Henadad repaired another section,  
-from the house of Azariah as far as the Angle and as far as the corner.
+Next to him, Binnui son of Henadad repaired another section, from Azariah’s house to the angle and the corner.
 
 ## Nehemiah 3:25
-
-Palal the son of Uzai made repairs opposite the Angle and the tower projecting  
-from the upper house of the king, which is by the courtyard of the guard.  
-After him Pedaiah the son of Parosh made repairs.
+Palal son of Uzai worked opposite the angle and the tower projecting from the upper palace near the court of the guard. Next to him, Pedaiah son of Parosh made repairs.
 
 ## Nehemiah 3:26
-
-Now the temple servants living in Ophel made repairs  
-as far as the front of the Water Gate toward the east and the projecting tower.
+The temple servants living on the hill of Ophel made repairs up to a point opposite the Water Gate towards the east and the projecting tower.
 
 ## Nehemiah 3:27
-
-After them the Tekoites repaired another section  
-in front of the great projecting tower and as far as the wall of Ophel.
+Next to them, the men of Tekoa repaired another section from the great projecting tower to the wall of Ophel.
 
 ## Nehemiah 3:28
-
-Above the Horse Gate the priests made repairs, each in front of his own house.
+Above the Horse Gate, the priests made repairs, each in front of his own house.
 
 ## Nehemiah 3:29
-
-After them Zadok the son of Immer made repairs opposite his house.  
-And after him Shemaiah the son of Shecaniah, the keeper of the East Gate, made repairs.
+Next to them, Zadok son of Immer made repairs opposite his house, with Shemaiah son of Shekaniah, the guard at the East Gate, making repairs next to him.
 
 ## Nehemiah 3:30
-
-After him Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, made repairs another section.  
-After him Meshullam the son of Berechiah made repairs opposite his own quarters.
+Next to him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.
 
 ## Nehemiah 3:31
-
-After him Malchijah, one of the goldsmiths, made repairs as far as the house of the temple servants  
-and of the merchants, opposite the Inspection Gate, and as far as the upper room of the corner.
+Next to him, Malkijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner.
 
 ## Nehemiah 3:32
-
-And between the upper room of the corner and the Sheep Gate,  
-the goldsmiths and the merchants made repairs.
+Between the room above the corner and the Sheep Gate, the goldsmiths and merchants made repairs.

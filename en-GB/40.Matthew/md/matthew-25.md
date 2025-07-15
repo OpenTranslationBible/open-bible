@@ -2,232 +2,188 @@
 
 ## Matthew 25:1
 
-Then the kingdom of heaven will be comparable to ten virgins,  
-who took their lamps and went out to meet the groom.
+“At that time, the kingdom of heaven will be likened to ten virgins who took their lamps and went out to meet the bridegroom.
 
 ## Matthew 25:2
 
-Five of them were foolish, and five were prudent.
+Five of them were foolish, and five were wise.
 
 ## Matthew 25:3
 
-For when the foolish took their lamps, they did not take extra oil with them;
+The foolish ones took their lamps but did not take any extra oil with them.
 
 ## Matthew 25:4
 
-but the prudent ones took oil in flasks with their lamps.
+The wise ones, however, took oil in flasks along with their lamps.
 
 ## Matthew 25:5
 
-Now while the groom was delaying, they all became drowsy and began to sleep.
+The bridegroom was delayed, and they all became drowsy and fell asleep.
 
 ## Matthew 25:6
 
-But at midnight there finally was a shout: ‘Behold, the groom! Come out to meet him.’
+At midnight there was a shout: ‘Here is the bridegroom! Come out to meet him!’
 
 ## Matthew 25:7
 
-Then all those virgins got up and trimmed their lamps.
+Then all the virgins got up and trimmed their lamps.
 
 ## Matthew 25:8
 
-But the foolish virgins said to the prudent ones,  
-‘Give us some of your oil, because our lamps are going out.’
+The foolish ones said to the wise, ‘Give us some of your oil, for our lamps are going out.’
 
 ## Matthew 25:9
 
-However, the prudent ones answered,  
-‘No, there most certainly would not be enough for us and you too;  
-go instead to the merchants and buy some for yourselves.’
+But the wise replied, ‘No, there might not be enough for both us and you. Instead, go to the merchants and buy some for yourselves.’
 
 ## Matthew 25:10
 
-But while they were on their way to buy the oil, the groom came,  
-and those who were ready went in with him to the wedding feast; and the door was shut.
+While they were on their way to buy the oil, the bridegroom arrived. Those who were ready went in with him to the wedding banquet, and the door was shut.
 
 ## Matthew 25:11
 
-Yet later, the other virgins also came, saying,  
-‘Lord, lord, open up for us!’
+Later, the other virgins also came, saying, ‘Lord, Lord, open the door for us.’
 
 ## Matthew 25:12
 
-But he answered,  
-‘Truly I say to you, I do not know you.’
+But he replied, ‘Truly I say to you, I do not know you.’
 
 ## Matthew 25:13
 
-Be on the alert then, because you do not know the day nor the hour.
+Therefore, keep watch, because you do not know the day or the hour.
 
 ---
 
 ## Matthew 25:14
 
-For it is just like a man about to go on a journey,  
-who called his own slaves and entrusted his possessions to them.
+“For it is like a man going on a journey, who called his servants and entrusted his wealth to them.
 
 ## Matthew 25:15
 
-To one he gave five talents, to another two, and to another one,  
-each according to his own ability; and he went on his journey.
+To one he gave five talents, to another two, and to another one, each according to his ability. Then he went on his journey.
 
 ## Matthew 25:16
 
-The one who had received the five talents immediately went and did business with them, and earned five more talents.
+The one who had received five talents went at once and traded with them, and gained five more.
 
 ## Matthew 25:17
 
-In the same way, the one who had received the two talents earned two more.
+In the same way, the one with two talents gained two more.
 
 ## Matthew 25:18
 
-But the one who had received the one talent went away,  
-and dug a hole in the ground, and hid his master’s money.
+But the one who had received one talent went off, dug a hole in the ground, and hid his master’s money.
 
 ## Matthew 25:19
 
-Now after a long time, the master of those slaves came and settled accounts with them.
+After a long time, the master of those servants returned and settled accounts with them.
 
 ## Matthew 25:20
 
-The one who had received the five talents came up and brought five more talents, saying,  
-‘Master, you entrusted five talents to me. See, I have earned five more talents.’
+The one who had received five talents came forward, bringing five more, saying, ‘Master, you entrusted me with five talents. See, I have gained five more.’
 
 ## Matthew 25:21
 
-His master said to him,  
-‘Well done, good and faithful slave.  
-You were faithful with a few things, I will put you in charge of many things;  
-enter the joy of your master.’
+His master replied, ‘Well done, good and faithful servant. You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master.’
 
 ## Matthew 25:22
 
-Also the one who had received the two talents came up and said,  
-‘Master, you entrusted two talents to me. See, I have earned two more talents.’
+The one with two talents also came forward and said, ‘Master, you entrusted me with two talents; see, I have gained two more.’
 
 ## Matthew 25:23
 
-His master said to him,  
-‘Well done, good and faithful slave.  
-You were faithful with a few things, I will put you in charge of many things;  
-enter the joy of your master.’
+His master replied, ‘Well done, good and faithful servant. You have been faithful with a few things; I will put you in charge of many things. Enter into the joy of your master.’
 
 ## Matthew 25:24
 
-Now the one who had received the one talent also came up and said,  
-‘Master, I knew you to be a hard man, reaping where you did not sow,  
-and gathering where you did not scatter seed.
+Then the one who had received one talent also came forward and said, ‘Master, I knew that you are a hard man, reaping where you have not sown and gathering where you have not scattered seed.
 
 ## Matthew 25:25
 
-And I was afraid, so I went away and hid your talent in the ground.  
-See, you still have what is yours.’
+So I was afraid and went out and hid your talent in the ground. See, here is what belongs to you.’
 
 ## Matthew 25:26
 
-But his master answered and said to him,  
-‘You wicked, lazy slave,  
-you knew that I reap where I did not sow and gather where I did not scatter seed.
+His master replied, ‘You wicked, lazy servant! You knew that I reap where I have not sown and gather where I have not scattered seed?
 
 ## Matthew 25:27
 
-Then you ought to have put my money in the bank,  
-and on my arrival I would have received my money back with interest.
+Then you should have put my money on deposit with the bankers, so that when I returned, I would have received it back with interest.
 
 ## Matthew 25:28
 
-Therefore: take the talent away from him, and give it to the one who has the ten talents.
+Therefore, take the talent from him and give it to the one who has ten talents.
 
 ## Matthew 25:29
 
-For to everyone who has, more will be given, and he will have an abundance;  
-but from the one who does not have, even what he does have shall be taken away.
+For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.
 
 ## Matthew 25:30
 
-And throw the worthless slave into the outer darkness;  
-in that place there will be weeping and gnashing of teeth.
+And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
 
 ---
 
 ## Matthew 25:31
 
-But when the Son of Man comes in His glory, and all the angels with Him,  
-then He will sit on His glorious throne.
+When the Son of Man comes in his glory, and all the angels with him, he will sit on his glorious throne.
 
 ## Matthew 25:32
 
-And all the nations will be gathered before Him;  
-and He will separate them from one another, just as the shepherd separates the sheep from the goats.
+All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.
 
 ## Matthew 25:33
 
-And He will put the sheep on His right, but the goats on the left.
+He will put the sheep on his right and the goats on his left.
 
 ## Matthew 25:34
 
-Then the King will say to those on His right,  
-‘Come, you who are blessed of My Father, inherit the kingdom prepared for you from the foundation of the world.
+Then the King will say to those on his right, ‘Come, you who are blessed by my Father; inherit the kingdom prepared for you since the foundation of the world.
 
 ## Matthew 25:35
 
-For I was hungry, and you gave Me something to eat;  
-I was thirsty, and you gave Me something to drink;  
-I was a stranger, and you took Me in;
+For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,
 
 ## Matthew 25:36
 
-naked, and you clothed Me;  
-I was sick, and you visited Me;  
-I was in prison, and you came to Me.’
+I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’
 
 ## Matthew 25:37
 
-Then the righteous will answer Him,  
-‘Lord, when did we see You hungry, and feed You, or thirsty, and give You something to drink?
+Then the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?
 
 ## Matthew 25:38
 
-And when did we see You as a stranger, and take You in, or naked, and clothe You?
+When did we see you a stranger and invite you in, or needing clothes and clothe you?
 
 ## Matthew 25:39
 
-And when did we see You sick, or in prison, and come to You?’
+When did we see you sick or in prison and go to visit you?’
 
 ## Matthew 25:40
 
-And the King will answer and say to them,  
-‘Truly I say to you, to the extent that you did it for one of the least of these brothers or sisters of Mine,  
-you did it for Me.’
+The King will reply, ‘Truly I say to you, whatever you did for one of the least of these brothers and sisters of mine, you did for me.’
 
 ## Matthew 25:41
 
-Then He will also say to those on His left,  
-‘Depart from Me, you accursed people, into the eternal fire which has been prepared for the devil and his angels;
+Then he will say to those on his left, ‘Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.
 
 ## Matthew 25:42
 
-for I was hungry, and you gave Me nothing to eat;  
-I was thirsty, and you gave Me nothing to drink;
+For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,
 
 ## Matthew 25:43
 
-I was a stranger, and you did not take Me in;  
-naked, and you did not clothe Me;  
-sick and in prison, and you did not visit Me.’
+I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.’
 
 ## Matthew 25:44
 
-Then they themselves also will answer,  
-‘Lord, when did we see You hungry, or thirsty, or as a stranger, or naked, or sick, or in prison,  
-and did not take care of You?’
+They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’
 
 ## Matthew 25:45
 
-Then He will answer them,  
-‘Truly I say to you, to the extent that you did not do it for one of the least of these,  
-you did not do it for Me, either.’
+He will reply, ‘Truly I say to you, whatever you did not do for one of the least of these, you did not do for me.’
 
 ## Matthew 25:46
 
-These will go away into eternal punishment, but the righteous into eternal life.
+Then they will go away to eternal punishment, but the righteous to eternal life.”

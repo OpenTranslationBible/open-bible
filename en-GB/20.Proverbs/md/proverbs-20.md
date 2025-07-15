@@ -1,151 +1,91 @@
 # Proverbs Chapter 20
 
 ## Proverbs 20:1
-
-Wine is a mocker, intoxicating drink a brawler,  
-And whoever is intoxicated by it is not wise.
+Wine is a mocker, and strong drink a brawler; whoever is led astray by it is not wise.
 
 ## Proverbs 20:2
-
-The terror of a king is like the roaring of a lion;  
-He who provokes him forfeits his own life.
+A king’s wrath is like the roar of a lion; one who provokes him forfeits their life.
 
 ## Proverbs 20:3
-
-Avoiding strife is an honour for a person,  
-But any fool will quarrel.
+To avoid strife is an honour for a person, but any fool is quick to quarrel.
 
 ## Proverbs 20:4
-
-The lazy one does not plough after autumn,  
-So he begs during the harvest and has nothing.
+The sluggard does not plough in season; so at harvest time they look and find nothing.
 
 ## Proverbs 20:5
-
-A plan in the heart of a person is like deep water,  
-But a person of understanding draws it out.
+The purposes in a person’s heart are like deep waters, but one with understanding draws them out.
 
 ## Proverbs 20:6
-
-Many a person proclaims his own loyalty,  
-But who can find a trustworthy person?
+Many proclaim their own steadfast love, but a faithful person who can find?
 
 ## Proverbs 20:7
-
-A righteous person who walks in his integrity—  
-How blessed are his sons after him.
+The righteous walk in integrity; blessed are their children after them.
 
 ## Proverbs 20:8
-
-A king who sits on the throne of justice  
-Disperses all evil with his eyes.
+A king who sits on the throne of judgement winnows out all evil with his eyes.
 
 ## Proverbs 20:9
-
-Who can say, “I have cleansed my heart,  
-I am pure from my sin”?
+Who can say, “I have cleansed my heart; I am pure from my sin”?
 
 ## Proverbs 20:10
-
-Differing weights and differing measures,  
-Both of them are abominable to the Lord.
+Differing weights and differing measures— both are detestable to the Lord.
 
 ## Proverbs 20:11
-
-It is by his deeds that a boy distinguishes himself,  
-If his conduct is pure and right.
+Even a child is known by their actions, whether their conduct is pure and right.
 
 ## Proverbs 20:12
-
-The hearing ear and the seeing eye,  
-The Lord has made both of them.
+Ears that hear and eyes that see— the Lord has made them both.
 
 ## Proverbs 20:13
-
-Do not love sleep, or you will become poor;  
-Open your eyes, and you will be satisfied with food.
+Do not love sleep, or you will grow poor; open your eyes, and you will have food to spare.
 
 ## Proverbs 20:14
-
-“Bad, bad,” says the buyer,  
-But when he goes his way, then he boasts.
+“It’s no good, it’s no good!” says the buyer, but then goes off and boasts.
 
 ## Proverbs 20:15
-
-There is gold, and an abundance of jewels;  
-But lips of knowledge are a precious thing.
+There is gold and an abundance of jewels, but lips that speak knowledge are a rare treasure.
 
 ## Proverbs 20:16
-
-Take his garment when he becomes a guarantor for a stranger;  
-And for foreigners, hold him in pledge.
+Take the garment of one who puts up security for a stranger; hold it in pledge if it is for an outsider.
 
 ## Proverbs 20:17
-
-Bread obtained by falsehood is sweet to a person,  
-But afterward his mouth will be filled with gravel.
+Food gained by deceit is sweet, but afterwards the mouth is full of gravel.
 
 ## Proverbs 20:18
-
-Prepare plans by consultation,  
-And make war by wise guidance.
+Plans are established by counsel; make war with wise guidance.
 
 ## Proverbs 20:19
-
-One who goes about as a slanderer reveals secrets;  
-Therefore do not associate with a gossip.
+A gossip betrays a confidence; therefore, avoid anyone who talks too much.
 
 ## Proverbs 20:20
-
-He who curses his father or his mother,  
-His lamp will go out in time of darkness.
+If someone curses their father or mother, their lamp will be snuffed out in darkness.
 
 ## Proverbs 20:21
-
-An inheritance gained too early in life  
-Will not be blessed in the end.
+An inheritance claimed hastily will not be blessed in the end.
 
 ## Proverbs 20:22
-
-Do not say, “I will repay evil”;  
-Wait for the Lord, and He will save you.
+Do not say, “I will repay evil”; wait for the Lord, and he will deliver you.
 
 ## Proverbs 20:23
-
-Differing weights are an abomination to the Lord,  
-And a fraudulent scale is not good.
+Differing weights are an abomination to the Lord, and dishonest scales are not good.
 
 ## Proverbs 20:24
-
-A person’s steps are ordained by the Lord,  
-How then can anyone understand his own way?
+A person’s steps are directed by the Lord; how then can anyone understand their own way?
 
 ## Proverbs 20:25
-
-It is a trap for a person to say rashly, “It is holy!”  
-And after the vows, to make inquiry.
+It is a trap to dedicate something rashly and only later to consider one’s vows.
 
 ## Proverbs 20:26
-
-A wise king scatters the wicked,  
-And drives the threshing wheel over them.
+A wise king winnows out the wicked and drives the threshing wheel over them.
 
 ## Proverbs 20:27
-
-The spirit of a person is the lamp of the Lord,  
-Searching all the innermost parts of his being.
+The human spirit is the lamp of the Lord, searching all the innermost parts.
 
 ## Proverbs 20:28
-
-Loyalty and truth watch over the king,  
-And he upholds his throne by righteousness.
+Love and faithfulness preserve a king; through loyalty his throne is made secure.
 
 ## Proverbs 20:29
-
-The glory of young men is their strength,  
-And the honour of old men is their grey hair.
+The glory of young men is their strength, and the splendour of old men is their grey hair.
 
 ## Proverbs 20:30
-
-Stripes that wound scour away evil,  
-And blows that penetrate reach the innermost parts.
+Blows and wounds purge away evil, and beatings cleanse the innermost being.

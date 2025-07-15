@@ -2,154 +2,151 @@
 
 ## Job 20:1
 
-Then Zophar the Naamathite responded,
+Then Zophar the Naamathite answered,
 
 ## Job 20:2
 
-> “Therefore my disquieting thoughts make me respond,  
-> Even because of my inward agitation.
+> “My restless thoughts compel me to respond,
+> because of my deep unease.
 
 ## Job 20:3
 
-> I listened to the reprimand which insults me,  
-> And the spirit of my understanding makes me answer.
+> I have heard a rebuke that insults me,
+> and the insight of my understanding urges me to reply.
 
 ---
 
 ## Job 20:4
 
-> Do you know this from ancient times,  
-> From the establishment of mankind on earth,
+> Do you not know this from ancient times,
+> since mankind was placed upon the earth,
 
 ## Job 20:5
 
-> That the triumphing of the wicked is short,  
-> And the joy of the godless momentary?
+> that the exultation of the wicked is fleeting,
+> and the joy of the godless is but for a moment?
 
 ## Job 20:6
 
-> Though his arrogance reaches the heavens,  
-> And his head touches the clouds,
+> Though his conceit reaches the heavens
+> and his head touches the clouds,
 
 ## Job 20:7
 
-> He perishes forever like his refuse;  
-> Those who have seen him will say, ‘Where is he?’
+> he will vanish forever like his own waste;
+> those who have seen him will say, ‘Where is he?’
 
 ## Job 20:8
 
-> He flies away like a dream, and they cannot find him;  
-> He vanishes like a vision of the night.
+> He will vanish like a dream, and cannot be found;
+> like a vision of the night, he is chased away.
 
 ## Job 20:9
 
-> The eye which saw him sees him no longer,  
-> And his place no longer beholds him.
+> The eye that saw him will see him no more;
+> his place will behold him no longer.
 
 ## Job 20:10
 
-> His sons favour the poor,  
-> And his hands give back his wealth.
+> His children will seek the favour of the poor,
+> and his hands will return his wealth.
 
 ## Job 20:11
 
-> His bones are full of youthful strength,  
-> But it lies down with him in the dust.
+> His bones, once full of youthful vigour,
+> will lie down with him in the dust.
 
 ---
 
 ## Job 20:12
 
-> Though evil tastes sweet in his mouth  
-> And he hides it under his tongue,
+> “Though evil tastes sweet in his mouth
+> and he conceals it under his tongue,
 
 ## Job 20:13
 
-> Though he desires it and will not let it go,  
-> But holds it in his mouth,
+> though he cherishes it and does not let it go,
+> but keeps it in his mouth,
 
 ## Job 20:14
 
-> Yet his food in his stomach is changed  
-> To the venom of cobras within him.
+> yet his food will turn sour in his stomach;
+> it will become the venom of cobras within him.
 
 ## Job 20:15
 
-> He swallows riches,  
-> But will vomit them up;  
-> God will expel them from his belly.
+> He swallows riches,
+> but will vomit them up;
+> God will force them out of his belly.
 
 ## Job 20:16
 
-> He sucks the poison of cobras;  
-> A viper’s tongue kills him.
+> He will suck the poison of cobras;
+> the viper's tongue will slay him.
 
 ## Job 20:17
 
-> He does not look at the streams,  
-> The rivers flowing with honey and curds.
+> He will not gaze upon the streams,
+> the rivers flowing with honey and cream.
 
 ## Job 20:18
 
-> He returns what he has obtained and cannot swallow it;  
-> As to the riches of his trading,  
-> He cannot even enjoy them.
+> He will return what he laboured for and will not consume it;
+> he will not enjoy the wealth from his trading.
 
 ## Job 20:19
 
-> For he has oppressed and neglected the poor;  
-> He has seized a house which he did not build.
-
----
+> For he has crushed and abandoned the poor;
+> he has seized a house he did not build.
 
 ## Job 20:20
 
-> Because he knew no quiet within him,  
-> He does not retain anything he desires.
+> “Because he knew no peace within himself,
+> he will not retain anything he desires.
 
 ## Job 20:21
 
-> Nothing remains for him to devour,  
-> Therefore his prosperity does not endure.
+> Nothing remains for him to devour;
+> thus his prosperity will not endure.
 
 ## Job 20:22
 
-> In the fullness of his excess he will be cramped;  
-> The hand of everyone who suffers will come against him.
+> In the midst of his abundance, distress will overtake him;
+> the full force of misery will come upon him.
 
 ## Job 20:23
 
-> When he fills his stomach, God sends His fierce anger on him  
-> And rains it down on him while he is eating.
+> When he has filled his belly, God will unleash His fierce anger upon him
+> and rain it down while he is eating.
 
 ## Job 20:24
 
-> He may flee from the iron weapon,  
-> But the bronze bow will pierce him.
+> Though he flees from an iron weapon,
+> a bronze-tipped arrow will strike him.
 
 ## Job 20:25
 
-> It is drawn and comes out of his back,  
-> Even the flashing point from his liver;  
-> Terrors come upon him.
+> It is drawn and comes out of his back,
+> the flashing point from his liver;
+> terrors will come upon him.
 
 ## Job 20:26
 
-> Complete darkness is held in reserve for his treasures,  
-> A fire not fanned will consume him;  
-> It will consume the survivor in his tent.
+> Complete darkness is reserved for his treasures;
+> an unfanned fire will consume him
+> and devour what remains in his tent.
 
 ## Job 20:27
 
-> The heavens will reveal his guilt,  
-> And the earth will rise up against him.
+> The heavens will reveal his iniquity,
+> and the earth will rise up against him.
 
 ## Job 20:28
 
-> The increase of his house will vanish;  
-> His possessions will flow away on the day of His anger.
+> The increase of his house will flow away;
+> his possessions will vanish on the day of God's wrath.
 
 ## Job 20:29
 
-> This is a wicked person’s portion from God,  
-> The inheritance decreed to him by God.”
+> This is the portion allotted by God to the wicked,
+> the inheritance decreed to him by God.”

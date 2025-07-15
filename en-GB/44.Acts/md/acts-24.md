@@ -2,135 +2,116 @@
 
 ## Acts 24:1
 
-Now after five days the high priest Ananias came down with some elders and an attorney named Tertullus,  
-and they brought charges against Paul to the governor.
+After five days, the high priest Ananias went down to Caesarea with some elders and a lawyer named Tertullus, and they presented their charges against Paul to the governor.
 
 ## Acts 24:2
 
-After Paul had been summoned, Tertullus began to accuse him, saying to the governor,  
-“Since we have attained great peace through you,  
-and since reforms are being carried out for this nation by your foresight,
+When Paul was summoned, Tertullus began his accusation, saying to the governor, “We have enjoyed great peace under you, and your foresight has brought about reforms for this nation.
 
 ## Acts 24:3
 
-we acknowledge this in every way and everywhere, most excellent Felix, with all thankfulness.
+In every way and everywhere, most excellent Felix, we acknowledge this with all gratitude.
 
 ## Acts 24:4
 
-But, that I may not weary you any further, I beg you to grant us a brief hearing, by your kindness.
+But, so as not to weary you further, I request that you hear us briefly, by your kindness.
 
 ## Acts 24:5
 
-For we have found this man to be a public menace and one who stirs up dissensions among all the Jews throughout the world,  
-and a ringleader of the sect of the Nazarenes.
+We have found this man to be a public menace, stirring up dissensions among the Jews throughout the world, and a ringleader of the Nazarene sect.
 
 ## Acts 24:6
 
-And he even tried to desecrate the temple, so indeed we arrested him.
+He even attempted to desecrate the temple, so we seized him.
 
 ## Acts 24:7
 
-[Omitted in some manuscripts.]
+[and we would have judged him according to our law]
 
 ## Acts 24:8
 
-By interrogating him yourself concerning all these matters, you will be able to ascertain the things of which we are accusing him.”
+By examining him yourself, you will be able to ascertain the truth about all these charges we are bringing against him.”
 
 ## Acts 24:9
 
-The Jews also joined in the attack, asserting that these things were so.
+The other Jews joined in the accusation, affirming that these things were so.
 
 ---
 
 ## Acts 24:10
 
-And when the governor had nodded for him to speak,  
-Paul responded:  
-“Knowing that you have been a judge to this nation for many years,  
-I cheerfully make my defense.
+When the governor nodded for him to speak, Paul replied: “I know that for many years you have been a judge over this nation; therefore, I gladly make my defence.
 
 ## Acts 24:11
 
-Since you can take note of the fact that no more than twelve days ago I went up to Jerusalem to worship.
+You can verify that it was no more than twelve days ago that I went up to Jerusalem to worship.
 
 ## Acts 24:12
 
-And neither in the temple did they find me carrying on a discussion with anyone or causing a riot,  
-nor in the synagogues, nor in the city itself.
+They did not find me arguing with anyone at the temple, or stirring up a crowd in the synagogues or anywhere else in the city.
 
 ## Acts 24:13
 
-Nor can they prove to you the things of which they now accuse me.
+Nor can they prove to you the charges they are now making against me.
 
 ## Acts 24:14
 
-But I confess this to you, that in accordance with the Way, which they call a sect,  
-I do serve the God of our fathers, believing everything that is in accordance with the Law  
-and is written in the Prophets;
+However, I confess that I worship the God of our ancestors in accordance with the Way, which they call a sect. I believe everything that is in accordance with the Law and written in the Prophets,
 
 ## Acts 24:15
 
-having a hope in God, which these men cherish themselves,  
-that there shall certainly be a resurrection of both the righteous and the wicked.
+and I have the same hope in God as these men themselves have, that there will be a resurrection of both the righteous and the wicked.
 
 ## Acts 24:16
 
-In view of this I also do my best to maintain a blameless conscience both before God and before other people, always.
+In view of this, I strive always to maintain a clear conscience before God and man.
 
 ---
 
 ## Acts 24:17
 
-Now after several years I came to bring charitable gifts to my nation and to present offerings,
+After several years, I came to bring charitable gifts to my nation and to present offerings.
 
 ## Acts 24:18
 
-in which they found me in the temple, after having been purified,  
-without any crowd or uproar. But there were some Jews from Asia—
+I was ceremonially clean when they found me in the temple courts doing this, without any crowd or disturbance. But there were some Jews from Asia—
 
 ## Acts 24:19
 
-who ought to have been present before you and to have been bringing charges, if they should have anything against me.
+who ought to be here before you and bring charges if they have anything against me.
 
 ## Acts 24:20
 
-Or else have these men themselves declare what wrongdoing they found when I stood before the Council,
+Or let these men here state what crime they found in me when I stood before the Council—
 
 ## Acts 24:21
 
-other than in regard to this one declaration which I shouted while standing among them:  
-‘For the resurrection of the dead I am on trial before you today!’”
+unless it was this one statement I shouted while standing among them: ‘It is concerning the resurrection of the dead that I am on trial before you today.’”
 
 ---
 
 ## Acts 24:22
 
-But Felix, having a more exact understanding about the Way, put them off, saying,  
-“When Lysias the commander comes down, I will decide your case.”
+Then Felix, who had a rather accurate knowledge of the Way, adjourned the proceedings. “When Lysias the commander comes,” he said, “I will decide your case.”
 
 ## Acts 24:23
 
-He gave orders to the centurion for Paul to be kept in custody and yet have some freedom,  
-and not to prevent any of his friends from providing for his needs.
+He ordered the centurion to keep Paul in custody but to allow him some freedom and not to prevent any of his friends from attending to his needs.
 
 ---
 
 ## Acts 24:24
 
-Now some days later Felix arrived with Drusilla his wife, who was Jewish,  
-and he sent for Paul and heard him speak about faith in Christ Jesus.
+Some days later, Felix arrived with his wife Drusilla, who was Jewish. He sent for Paul and listened to him speak about faith in Christ Jesus.
 
 ## Acts 24:25
 
-But as he was discussing righteousness, self-control, and the judgment to come,  
-Felix became frightened and responded, “Go away for now, and when I have an opportunity, I will summon you.”
+As Paul discussed righteousness, self-control, and the judgment to come, Felix became frightened and said, “That is enough for now! You may leave. When I find it convenient, I will summon you.”
 
 ## Acts 24:26
 
-At the same time he was also hoping that money would be given to him by Paul;  
-so he also used to send for him quite often and talk with him.
+At the same time, he was hoping that Paul would offer him money, so he sent for him frequently and talked with him.
 
 ## Acts 24:27
 
-But after two years had passed, Felix was succeeded by Porcius Festus;  
-and Felix, wanting to do the Jews a favour, left Paul imprisoned.
+After two years had passed, Felix was succeeded by Porcius Festus, but because Felix wanted to grant a favour to the Jews, he left Paul imprisoned.

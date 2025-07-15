@@ -1,53 +1,40 @@
 # Numbers Chapter 36
 
 ## Numbers 36:1
-
-Now the heads of the fathers’ households of the family of the sons of Gilead, the son of Machir, the son of Manasseh, from the families of the sons of Joseph, came forward and spoke before Moses and before the leaders, the heads of the fathers’ households of the sons of Israel.
+The heads of the fathers' households of the family of Gilead, son of Machir, son of Manasseh, from the families of the descendants of Joseph, approached and spoke before Moses and the leaders, the heads of the Israelite families.
 
 ## Numbers 36:2
-
-And they said, “The Lord commanded my lord to give the land as an inheritance by lot to the sons of Israel, and my lord was commanded by the Lord to give the inheritance of our brother Zelophehad to his daughters.
+They said, “The Lord instructed my lord to allocate the land to the Israelites as an inheritance by lot, and my lord was directed by the Lord to assign the inheritance of our brother Zelophehad to his daughters.
 
 ## Numbers 36:3
-
-But if they marry one of the sons of the other tribes of the sons of Israel, then their inheritance will be taken away from the inheritance of our fathers, and it will be added to the inheritance of the tribe to which they belong; so it will be taken away from our allotted inheritance.
+But if they marry men from other Israelite tribes, their inheritance will be removed from our ancestral inheritance and added to the tribe into which they marry, thereby diminishing our allotted inheritance.
 
 ## Numbers 36:4
-
-And when the jubilee of the sons of Israel comes, then their inheritance will be added to the inheritance of the tribe to which they belong; so their inheritance will be taken away from the inheritance of the tribe of our fathers.”
+When the Year of Jubilee for the Israelites arrives, their inheritance will be added to the tribe into which they marry, and their property will be withdrawn from our ancestral tribe's inheritance.”
 
 ## Numbers 36:5
-
-Then Moses commanded the sons of Israel in accordance with the word of the Lord, saying, “The tribe of the sons of Joseph is right in its statements.
+Moses then conveyed the Lord’s command to the Israelites, saying, “The tribe of the descendants of Joseph is correct in its assertions.
 
 ## Numbers 36:6
-
-This is what the Lord has commanded regarding the daughters of Zelophehad, saying, ‘Let them marry whomever they wish; only they must marry within the family of the tribe of their father.’
+This is what the Lord commands concerning the daughters of Zelophehad: They may marry anyone they wish, provided they marry within their father's tribal family.
 
 ## Numbers 36:7
-
-So no inheritance of the sons of Israel shall be transferred from tribe to tribe, for the sons of Israel shall each retain possession of the inheritance of the tribe of his fathers.
+Thus, no inheritance in Israel shall be transferred from tribe to tribe, for each Israelite shall maintain the inheritance of their ancestral tribe.
 
 ## Numbers 36:8
-
-And every daughter who comes into possession of an inheritance from any of the tribes of the sons of Israel shall be wife to one of the family of the tribe of her father, so that the sons of Israel each may possess the inheritance of his fathers.
+Every daughter who inherits land in any Israelite tribe must marry someone from her father's tribal family, so that each Israelite may retain the inheritance of their ancestors.
 
 ## Numbers 36:9
-
-So no inheritance shall be transferred from one tribe to another tribe, for the tribes of the sons of Israel shall each retain possession of its own inheritance.”
+No inheritance may be transferred from one tribe to another, for each Israelite tribe is to keep its own inheritance.”
 
 ## Numbers 36:10
-
-Just as the Lord had commanded Moses, so the daughters of Zelophehad did:
+The daughters of Zelophehad acted as the Lord had commanded Moses.
 
 ## Numbers 36:11
-
-Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, married their uncles’ sons.
+Mahlah, Tirzah, Hoglah, Milcah, and Noah, the daughters of Zelophehad, married their cousins on their father's side.
 
 ## Numbers 36:12
-
-They married those from the families of the sons of Manasseh the son of Joseph, and their inheritance remained with the tribe of the family of their father.
+They married into the families of the descendants of Manasseh, son of Joseph, and their inheritance remained within their father's tribe and family.
 
 ## Numbers 36:13
-
-These are the commandments and the ordinances which the Lord commanded the sons of Israel through Moses in the plains of Moab, by the Jordan opposite Jericho.
+These are the commands and regulations the Lord gave to the Israelites through Moses on the plains of Moab by the Jordan, opposite Jericho.

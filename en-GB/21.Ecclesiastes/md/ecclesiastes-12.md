@@ -1,88 +1,43 @@
 # Ecclesiastes Chapter 12
 
 ## Ecclesiastes 12:1
-
-Remember also your Creator in the days of your youth,  
-Before the evil days come and the years approach  
-When you will say, “I have no pleasure in them”;
+Remember your Creator in the days of your youth, before the days of adversity arrive and the years draw near when you will say, “I find no pleasure in them”—
 
 ## Ecclesiastes 12:2
-
-Before the sun, the light, the moon, and the stars are darkened,  
-And clouds return after the rain;
+before the sun and the light, the moon and the stars grow dim, and the clouds return after the rain;
 
 ## Ecclesiastes 12:3
-
-On the day that the watchmen of the house tremble,  
-And strong men stoop,  
-The grinding ones stand idle because they are few,  
-And those who look through windows grow dim;
+when the guardians of the house tremble, and the strong men stoop, when the grinders cease because they are few, and those who look through the windows grow dim;
 
 ## Ecclesiastes 12:4
-
-And the doors on the street are shut as the sound of the grinding mill is low,  
-And one will arise at the sound of the bird,  
-And all the daughters of song will sing softly.
+when the doors to the street are closed and the sound of grinding fades; when one rises at the sound of a bird, and all the daughters of song are brought low;
 
 ## Ecclesiastes 12:5
-
-Furthermore, people are afraid of a high place and of terrors on the road;  
-The almond tree blossoms,  
-The grasshopper drags itself along,  
-And the caper berry is ineffective.  
-For man goes to his eternal home while the mourners move about in the street.
+when people fear heights and dangers in the streets; when the almond tree blossoms, the grasshopper drags itself along, and the caper berry fails. For man goes to his eternal home, and mourners go about the streets.
 
 ## Ecclesiastes 12:6
-
-Remember your Creator before the silver cord is broken  
-And the golden bowl is crushed,  
-The pitcher is shattered at the spring  
-And the wheel at the cistern is crushed;
+Remember your Creator before the silver cord is severed, and the golden bowl is broken; before the pitcher is shattered at the spring, and the wheel is broken at the well,
 
 ## Ecclesiastes 12:7
-
-Then the dust will return to the earth as it was,  
-And the spirit will return to God who gave it.
-
----
+and the dust returns to the earth as it was, and the spirit returns to God who gave it.
 
 ## Ecclesiastes 12:8
-
-“Vanity of vanities,” says the Preacher,  
-“All is vanity!”
-
----
+“Vanity of vanities,” says the Teacher, “all is vanity!”
 
 ## Ecclesiastes 12:9
-
-In addition to being wise, the Preacher also taught the people knowledge;  
-And he pondered, searched out, and arranged many proverbs.
+In addition to being wise, the Teacher also imparted knowledge to the people. He pondered, searched out, and arranged many proverbs.
 
 ## Ecclesiastes 12:10
-
-The Preacher sought to find delightful words and to write words of truth correctly.
+The Teacher sought to find the right words and to write words of truth accurately.
 
 ## Ecclesiastes 12:11
-
-The words of the wise are like goads,  
-And masters of collections are like well-driven nails;  
-They are given by one Shepherd.
+The words of the wise are like goads, and their collected sayings like firmly embedded nails—given by one Shepherd.
 
 ## Ecclesiastes 12:12
-
-But beyond this, my son, be warned:  
-The writing of many books is endless,  
-And excessive study is wearying to the body.
-
----
+But beyond this, my son, be warned: of making many books there is no end, and much study wearies the body.
 
 ## Ecclesiastes 12:13
-
-The conclusion, when everything has been heard, is:  
-Fear God and keep His commandments,  
-Because this applies to every person.
+Now all has been heard; here is the conclusion of the matter: fear God and keep His commandments, for this is the duty of all people.
 
 ## Ecclesiastes 12:14
-
-For God will bring every act to judgment,  
-Everything which is hidden, whether it is good or evil.
+For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.

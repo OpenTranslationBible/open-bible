@@ -1,125 +1,94 @@
 # Ezekiel Chapter 44
 
 ## Ezekiel 44:1
-
-Then He brought me back by the way of the outer gate of the sanctuary, which faces east; and it was shut.
+Then he brought me back to the outer gate of the sanctuary, the one facing east; and it was closed.
 
 ## Ezekiel 44:2
-
-And the Lord said to me, “This gate shall be shut; it shall not be opened, and no one shall enter by it, for the Lord God of Israel has entered by it; therefore it shall be shut.
+The Lord said to me, “This gate shall remain closed; it shall not be opened, and no one shall enter through it, for the Lord, the God of Israel, has entered through it; therefore, it shall remain shut.
 
 ## Ezekiel 44:3
-
-As for the prince, he shall sit in it as prince to eat bread before the Lord; he shall enter by way of the porch of the gate and go out the same way.”
+The prince, he is the only one who may sit in the gateway to eat bread in the presence of the Lord; he shall enter by way of the portico of the gate and go out by the same way.”
 
 ## Ezekiel 44:4
-
-Then He brought me by way of the north gate to the front of the house; and I looked, and behold, the glory of the Lord filled the house of the Lord, and I fell on my face.
+Then he brought me by way of the north gate to the front of the house, and I saw the glory of the Lord filling the house of the Lord, and I fell on my face.
 
 ## Ezekiel 44:5
-
-And the Lord said to me, “Son of man, pay attention, see with your eyes and hear with your ears everything that I say to you concerning all the statutes of the house of the Lord and all its laws; and pay attention to the entrance of the house, with all the exits of the sanctuary.
+The Lord said to me, “Son of man, observe closely, see with your eyes and hear with your ears all that I say to you concerning all the statutes of the house of the Lord and all its laws; pay attention to the entrance of the house and all the exits of the sanctuary.
 
 ## Ezekiel 44:6
-
-Say to the rebellious house, to the house of Israel, ‘This is what the Lord God says: “Enough of all your abominations, house of Israel,
+Say to the rebellious house of Israel, ‘This is what the Sovereign Lord says: Enough of all your abominations, O house of Israel!
 
 ## Ezekiel 44:7
-
-When you brought in foreigners, uncircumcised in heart and uncircumcised in flesh, to be in My sanctuary to profane it—My house! When you offered My food, the fat and the blood, and they broke My covenant—this in addition to all your abominations.
+In addition to all your other abominations, you brought in foreigners, uncircumcised in heart and flesh, to be in my sanctuary, thus profaning it, my house, while you offered my food, the fat and the blood, and they broke my covenant.
 
 ## Ezekiel 44:8
-
-And you have not taken responsibility for My holy things yourselves, but you have appointed foreigners to take responsibility for My sanctuary.”
+Instead of taking responsibility for my holy things, you appointed foreigners to take charge of my sanctuary.
 
 ## Ezekiel 44:9
-
-This is what the Lord God says: “No foreigner uncircumcised in heart and uncircumcised in flesh may enter My sanctuary, nor any foreigner who is among the sons of Israel.
+This is what the Sovereign Lord says: No foreigner, uncircumcised in heart and flesh, shall enter my sanctuary, not even the foreigners who live among the Israelites.
 
 ## Ezekiel 44:10
-
-But the Levites who went far from Me when Israel went astray, who went astray from Me following their idols, shall suffer the consequences of their guilt.
+But the Levites who went far from me when Israel went astray, who went astray from me after their idols, shall bear the punishment for their wrongdoing.
 
 ## Ezekiel 44:11
-
-Yet they shall be ministers in My sanctuary, having oversight at the gates of the house and ministering in the house; they shall slaughter the burnt offering and the sacrifice for the people, and they shall stand before them to serve them.
+They may serve in my sanctuary, having oversight at the gates of the house and ministering in the house; they may slaughter the burnt offerings and sacrifices for the people and stand before them to minister to them.
 
 ## Ezekiel 44:12
-
-Because they served them before their idols and became a stumbling block of wrongdoing to the house of Israel, therefore I have sworn against them,” declares the Lord God, “that they shall suffer the consequences of their guilt.
+Because they ministered to them before their idols and caused the house of Israel to fall into sin, therefore I have sworn against them, declares the Sovereign Lord, that they shall bear the punishment for their wrongdoing.
 
 ## Ezekiel 44:13
-
-And they shall not come near to Me to serve as a priest to Me, nor come near to any of My holy things, to the things that are most holy; but they will bear their shame and their abominations which they have committed.
+They shall not come near to serve me as priests, nor come near any of my holy things or my most holy offerings; they shall bear their shame and their abominations which they have committed.
 
 ## Ezekiel 44:14
-
-Nevertheless I will appoint them to take responsibility for the house, for all its service and for everything that shall be done in it.
+Nevertheless, I will appoint them to take responsibility for the house, for all its service and for everything that is to be done in it.
 
 ## Ezekiel 44:15
-
-But the Levitical priests, the sons of Zadok, who took responsibility for My sanctuary when the sons of Israel went astray from Me, shall come near to Me to serve Me; and they shall stand before Me to offer Me the fat and the blood,” declares the Lord God.
+But the Levitical priests, the descendants of Zadok, who took responsibility for my sanctuary when the Israelites went astray from me, shall come near to minister before me; they shall stand before me to offer me the fat and the blood, declares the Sovereign Lord.
 
 ## Ezekiel 44:16
-
-“They shall enter My sanctuary; they shall come near to My table to serve Me and fulfill their duty to Me.
+They alone shall enter my sanctuary; they alone shall come near my table to minister before me and serve me.
 
 ## Ezekiel 44:17
-
-And it shall be that when they enter the gates of the inner courtyard, they shall be clothed with linen garments; and wool shall not be on them while they are ministering in the gates of the inner courtyard and in the house.
+When they enter the gates of the inner court, they shall wear linen garments; they must not wear any woollen garment while ministering at the gates of the inner court or inside the house.
 
 ## Ezekiel 44:18
-
-Linen turbans shall be on their heads, and linen undergarments shall be on their loins; they shall not wear anything that makes them sweat.
+They shall wear linen turbans on their heads and linen undergarments around their waists; they must not wear anything that makes them perspire.
 
 ## Ezekiel 44:19
-
-When they go out into the outer courtyard, into the outer courtyard to the people, they shall take off their garments in which they had been ministering and leave them in the holy chambers, then they shall put on other garments so that they do not transfer holiness to the people with their garments.
+When they go out into the outer court to the people, they shall take off the garments they have been ministering in and leave them in the sacred rooms, and put on other clothes, so that they do not transfer holiness to the people with their garments.
 
 ## Ezekiel 44:20
-
-Also they shall not shave their heads, yet they shall not let their hair grow untrimmed; they shall only trim the hair of their heads.
+They must not shave their heads or let their hair grow long, but must keep the hair of their heads trimmed.
 
 ## Ezekiel 44:21
-
-Nor shall any of the priests drink wine when they enter the inner courtyard.
+No priest shall drink wine when he enters the inner court.
 
 ## Ezekiel 44:22
-
-And they shall not marry a widow or a divorced woman, but shall take virgins from the descendants of the house of Israel, or a widow who is the widow of a priest.
+They shall not marry a widow or a divorced woman; they may marry only virgins from the descendants of Israel or a widow who is the widow of a priest.
 
 ## Ezekiel 44:23
-
-Moreover, they shall teach My people the difference between the holy and the common, and teach them to distinguish between the unclean and the clean.
+They are to teach my people the difference between the holy and the common, and show them how to distinguish between the unclean and the clean.
 
 ## Ezekiel 44:24
-
-In a dispute they shall take their stand to judge; they shall judge it according to My ordinances. They shall also keep My laws and My statutes in all My appointed feasts, and sanctify My Sabbaths.
+In any dispute, the priests are to serve as judges and decide it according to my ordinances. They are to keep my laws and my statutes for all my appointed festivals, and they are to keep my Sabbaths holy.
 
 ## Ezekiel 44:25
-
-They shall not go to a dead person to defile themselves; however, they may defile themselves for father, mother, son, daughter, brother, or a sister who has not had a husband.
+A priest must not defile himself by going near a dead person; however, if the dead person was his father, mother, son, daughter, brother, or unmarried sister, then he may defile himself.
 
 ## Ezekiel 44:26
-
-And after he is cleansed, seven days shall elapse for him.
+After he is cleansed, he must wait seven days.
 
 ## Ezekiel 44:27
-
-On the day that he goes into the sanctuary, into the inner courtyard to minister in the sanctuary, he shall offer his sin offering,” declares the Lord God.
+On the day he goes into the sanctuary, to the inner court to minister in the sanctuary, he is to offer a sin offering for himself, declares the Sovereign Lord.
 
 ## Ezekiel 44:28
-
-“And it shall be regarding an inheritance for them: I am their inheritance. And you shall give them no property in Israel—I am their property.
+I am to be their only inheritance; you shall give them no property in Israel—I am their possession.
 
 ## Ezekiel 44:29
-
-They shall eat the grain offering, the sin offering, and the guilt offering; and every devoted thing in Israel shall be theirs.
+They shall eat the grain offerings, the sin offerings, and the guilt offerings; and everything in Israel devoted to the Lord shall belong to them.
 
 ## Ezekiel 44:30
-
-The first of all the first fruits of every kind and every contribution of every kind from all your contributions shall be for the priests; and you shall give the priest the first of your dough so that a blessing may rest on your house.
+The best of all the firstfruits and of all your special gifts shall belong to the priests. You are to give them the first portion of your ground meal so that a blessing may rest on your household.
 
 ## Ezekiel 44:31
-
-The priests shall not eat any bird or animal that has died a natural death or has been torn to pieces.
+The priests shall not eat anything, whether bird or animal, found dead or torn by wild animals.

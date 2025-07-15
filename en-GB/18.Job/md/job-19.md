@@ -2,157 +2,153 @@
 
 ## Job 19:1
 
-Then Job responded,
+Then Job answered,
 
 ## Job 19:2
 
-> “How long will you torment me  
-> And crush me with words?
+> “How long will you torment me
+> and crush me with your words?
 
 ## Job 19:3
 
-> These ten times you have insulted me;  
-> You are not ashamed to wrong me.
+> You have reproached me these ten times;
+> you are not ashamed to mistreat me.
 
 ## Job 19:4
 
-> Even if I have truly done wrong,  
-> My error stays with me.
+> Even if I have erred,
+> my mistake concerns me alone.
 
 ## Job 19:5
 
-> If indeed you exalt yourselves against me  
-> And prove my disgrace to me,
+> If indeed you exalt yourselves over me
+> and use my disgrace against me,
 
 ## Job 19:6
 
-> Know then that God has wronged me  
-> And has surrounded me with His net.
+> then know that God has wronged me
+> and encircled me with His net.
 
 ---
 
 ## Job 19:7
 
-> Behold, I cry, ‘Violence!’ but I get no answer;  
-> I shout for help, but there is no justice.
+> “Though I cry out, ‘Violence!’ I receive no answer;
+> I call for help, but there is no justice.
 
 ## Job 19:8
 
-> He has blocked my way so that I cannot pass,  
-> And He has put darkness on my paths.
+> He has blocked my path so I cannot pass,
+> and He has shrouded my ways in darkness.
 
 ## Job 19:9
 
-> He has stripped my honour from me,  
-> And removed the crown from my head.
+> He has stripped me of my honour
+> and taken the crown from my head.
 
 ## Job 19:10
 
-> He breaks me down on every side, and I am gone;  
-> He has uprooted my hope like a tree.
+> He tears me down on all sides,
+> and I am gone; He uproots my hope like a tree.
 
 ## Job 19:11
 
-> He has also kindled His anger against me,  
-> And He considers me as His enemy.
+> His anger burns against me;
+> He regards me as His enemy.
 
 ## Job 19:12
 
-> His troops come together,  
-> And build up their way against me  
-> And camp around my tent.
+> His troops advance together;
+> they construct a siege ramp against me
+> and encamp around my tent.
 
 ---
 
 ## Job 19:13
 
-> He has removed my brothers far from me,  
-> And my acquaintances have completely turned away from me.
+> “He has alienated my brothers from me,
+> and my acquaintances are estranged from me.
 
 ## Job 19:14
 
-> My relatives have failed,  
-> And my close friends have forgotten me.
+> My relatives have failed me;
+> my close friends have forgotten me.
 
 ## Job 19:15
 
-> Those who live in my house and my servant women consider me a stranger.  
+> The dwellers in my house and my maidservants consider me a stranger;
 > I am a foreigner in their sight.
 
 ## Job 19:16
 
-> I call to my servant, but he does not answer;  
-> I have to implore him with my mouth.
+> I call to my servant, but he gives no answer;
+> I must plead with him with my own mouth.
 
 ## Job 19:17
 
-> My breath is offensive to my wife,  
-> And I am loathsome to my own brothers.
+> My breath is offensive to my wife,
+> and I am loathsome to my own family.
 
 ## Job 19:18
 
-> Even young children despise me;  
-> I stand up and they speak against me.
+> Even young children despise me;
+> when I stand up, they speak against me.
 
 ## Job 19:19
 
-> All my associates loathe me,  
-> And those I love have turned against me.
+> All my close friends abhor me;
+> those I love have turned against me.
 
 ## Job 19:20
 
-> My bone clings to my skin and my flesh,  
-> And I have escaped only by the skin of my teeth.
-
----
+> I am reduced to skin and bones;
+> I have escaped with only the skin of my teeth.
 
 ## Job 19:21
 
-> “Pity me, pity me, you friends of mine,  
-> For the hand of God has struck me.
+> “Have pity on me, my friends, have pity,
+> for the hand of God has struck me.
 
 ## Job 19:22
 
-> Why do you persecute me as God does,  
-> And are not satisfied with my flesh?
+> Why do you pursue me as God does?
+> Are you not satisfied with my flesh?
 
 ---
 
 ## Job 19:23
 
-> “Oh that my words were written!  
-> Oh that they were recorded in a book!
+> “Oh, that my words were recorded,
+> that they were inscribed in a book,
 
 ## Job 19:24
 
-> That with an iron stylus and lead  
-> They were engraved in the rock forever!
+> that they were engraved with an iron tool and lead,
+> or carved in the rock forever!
 
 ## Job 19:25
 
-> Yet as for me, I know that my Redeemer lives,  
-> And at the last, He will take His stand on the earth.
+> For I know that my Redeemer lives,
+> and that in the end He will stand upon the earth.
 
 ## Job 19:26
 
-> Even after my skin is destroyed,  
-> Yet from my flesh I will see God,
+> And after my skin has been destroyed,
+> yet in my flesh I shall see God;
 
 ## Job 19:27
 
-> Whom I, on my part, shall behold for myself,  
-> And whom my eyes will see, and not another.  
-> My heart faints within me!
-
----
+> I myself will see Him with my own eyes
+> — I, and not another.
+> My heart yearns within me!
 
 ## Job 19:28
 
-> “If you say, ‘How shall we persecute him?’  
-> And, ‘What pretext for a case against him can we find?’
+> If you say, ‘How shall we persecute him,
+> since the root of the trouble is found in him,’
 
 ## Job 19:29
 
-> Then be afraid of the sword for yourselves,  
-> For wrath brings the punishment of the sword,  
-> So that you may know there is judgment.”
+> then be afraid of the sword for yourselves,
+> for wrath brings the punishment of the sword,
+> so that you may know there is judgment.”

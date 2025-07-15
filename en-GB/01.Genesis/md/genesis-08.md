@@ -1,68 +1,67 @@
 # Genesis Chapter 8
 
 ## Genesis 8:1
-But God remembered Noah and all the wild animals and the livestock that were with him in the ark, and He sent a wind over the earth, and the waters began to recede.
+But God remembered Noah and all the animals and livestock that were with him in the ark, and He sent a wind across the earth, causing the waters to subside.
 
 ## Genesis 8:2
-Now the springs of the deep and the windows of the heavens were closed, and the rain from the sky was restrained.
+The fountains of the deep and the floodgates of the heavens were closed, and the rain from the sky was restrained.
 
 ## Genesis 8:3
-The waters receded steadily from the earth. At the end of the hundred and fifty days the waters had gone down,
+The waters receded steadily from the earth, and by the end of one hundred and fifty days, the waters had decreased.
 
 ## Genesis 8:4
-and on the seventeenth day of the seventh month the ark came to rest on the mountains of Ararat.
+On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat.
 
 ## Genesis 8:5
-The waters continued to recede until the tenth month, and on the first day of the tenth month the tops of the mountains became visible.
+The waters continued to decrease until the tenth month, and on the first day of the tenth month, the tops of the mountains became visible.
 
 ## Genesis 8:6
-After forty more days Noah opened a window he had made in the ark
+After forty days, Noah opened the window of the ark that he had made.
 
 ## Genesis 8:7
-and sent out a raven, and it kept flying back and forth until the waters had dried up from the earth.
+He sent out a raven, and it flew back and forth until the waters had dried up from the earth.
 
 ## Genesis 8:8
 Then he sent out a dove to see if the waters had receded from the surface of the ground.
 
 ## Genesis 8:9
-But the dove found no place to land, because there was water over the surface of the whole earth; so it returned to Noah in the ark. He reached out his hand, took the dove, and brought it back to himself.
+But the dove found no place to rest its foot, so it returned to him in the ark, for the waters were still over the surface of the earth. He reached out his hand, took the dove, and brought it back into the ark.
 
 ## Genesis 8:10
-He waited seven more days and again sent out the dove from the ark.
+He waited another seven days and again sent the dove out from the ark.
 
 ## Genesis 8:11
-When the dove returned to him in the evening, there in its beak was a freshly plucked olive leaf! Then Noah knew that the water had receded from the earth.
+The dove returned to him in the evening, and there in its beak was a freshly plucked olive leaf. So Noah knew that the waters had receded from the earth.
 
 ## Genesis 8:12
-He waited seven more days and sent the dove out again, but this time it did not return to him.
+He waited yet another seven days and sent the dove out again, but it did not return to him.
 
 ## Genesis 8:13
-By the first day of the first month of Noah’s six hundred and first year, the water had dried up from the earth. Noah removed the covering of the ark and saw that the surface of the ground was dry.
+In the six hundred and first year, on the first day of the first month, the waters had dried up from the earth. Noah removed the covering of the ark and saw that the surface of the ground was dry.
 
 ## Genesis 8:14
-By the twenty-seventh day of the second month the earth was completely dry.
+By the twenty-seventh day of the second month, the earth was completely dry.
 
 ## Genesis 8:15
-Then God said to Noah,
+Then God spoke to Noah, saying,
 
 ## Genesis 8:16
-“Come out of the ark, you and your wife and your sons and their wives.
+“Come out of the ark, you and your wife, your sons, and your sons’ wives with you.
 
 ## Genesis 8:17
-Bring out every living creature that is with you—all the birds, animals, and every creature that moves along the ground—so they can multiply and fill the earth.”
+Bring out every living creature that is with you—the birds, the animals, and every creature that moves on the ground—so they may breed abundantly on the earth, and be fruitful and multiply.”
 
 ## Genesis 8:18
-So Noah came out, together with his sons and his wife and his sons’ wives.
+So Noah went out with his sons, his wife, and his sons’ wives.
 
 ## Genesis 8:19
-All the animals and every creeping thing and every bird—everything that moves on the earth—came out of the ark by families.
+Every animal, every crawling creature, and every bird, everything that moves on the earth, went out of the ark, one kind after another.
 
 ## Genesis 8:20
-Then Noah built an altar to the Lord and took some of all the clean animals and clean birds and offered burnt offerings on the altar.
+Then Noah built an altar to the Lord and took some of every clean animal and bird, and offered burnt offerings on the altar.
 
 ## Genesis 8:21
-The Lord smelled the pleasing aroma and said in His heart, “Never again will I curse the ground because of man, even though the thoughts of the human heart are evil from youth. And never again will I destroy all living creatures as I have done.
+The Lord smelled the pleasing aroma and said to Himself, “Never again will I curse the ground because of humans, even though every inclination of the human heart is evil from youth. Nor will I ever again destroy every living creature as I have done.
 
 ## Genesis 8:22
-As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night shall not cease.”
-
+As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.”

@@ -1,121 +1,88 @@
 # Revelation Chapter 2
 
 ## Revelation 2:1
-
-“To the angel of the church in Ephesus write:  
-The One who holds the seven stars in His right hand, the One who walks among the seven golden lampstands, says this:
+“To the angel of the church in Ephesus write: These are the words of the One who holds the seven stars in His right hand and walks among the seven golden lampstands.
 
 ## Revelation 2:2
-
-‘I know your deeds and your labour and perseverance, and that you cannot tolerate evil people, and you have put those who call themselves apostles to the test, and they are not, and you found them to be false;
+I know your deeds, your labour, and your perseverance, and that you cannot tolerate evil people. You have tested those who claim to be apostles but are not, and have found them false.
 
 ## Revelation 2:3
-
-and you have perseverance and have endured on account of My name, and have not become weary.
+You have endured and persevered for my name, and have not grown weary.
 
 ## Revelation 2:4
-
-But I have this against you, that you have left your first love.
+Yet I have this against you: You have abandoned the love you had at first.
 
 ## Revelation 2:5
-
-Therefore, remember from where you have fallen, and repent, and do the deeds you did at first; or else I am coming to you and I will remove your lampstand from its place—unless you repent.
+Remember from where you have fallen! Repent and do the deeds you did at first. If you do not repent, I will come to you and remove your lampstand from its place.
 
 ## Revelation 2:6
-
-But you have this, that you hate the deeds of the Nicolaitans, which I also hate.
+But you have this in your favour: You hate the practices of the Nicolaitans, which I also hate.
 
 ## Revelation 2:7
-
-The one who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will grant to eat from the tree of life, which is in the Paradise of God.’
+Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will grant the right to eat from the tree of life, which is in the Paradise of God.
 
 ## Revelation 2:8
-
-“And to the angel of the church in Smyrna write:  
-The First and the Last, who was dead, and has come to life, says this:
+“To the angel of the church in Smyrna write: These are the words of the First and the Last, who was dead and has come to life.
 
 ## Revelation 2:9
-
-‘I know your tribulation and your poverty—but you are rich—and the slander by those who say they are Jews, and are not, but are a synagogue of Satan.
+I know your tribulation and your poverty—yet you are rich! I know about the slander of those who say they are Jews and are not, but are a synagogue of Satan.
 
 ## Revelation 2:10
-
-Do not fear what you are about to suffer. Behold, the devil is about to throw some of you into prison, so that you will be tested, and you will have tribulation for ten days. Be faithful until death, and I will give you the crown of life.
+Do not fear what you are about to suffer. The devil is about to throw some of you into prison, so that you will be tested, and you will have tribulation for ten days. Be faithful even unto death, and I will give you the crown of life.
 
 ## Revelation 2:11
-
-The one who has an ear, let him hear what the Spirit says to the churches. The one who overcomes will not be hurt by the second death.’
+Whoever has ears, let them hear what the Spirit says to the churches. The one who is victorious will not be harmed by the second death.
 
 ## Revelation 2:12
-
-“And to the angel of the church in Pergamum write:  
-The One who has the sharp two-edged sword says this:
+“To the angel of the church in Pergamum write: These are the words of Him who has the sharp, double-edged sword.
 
 ## Revelation 2:13
-
-‘I know where you dwell, where Satan’s throne is; and you hold firmly to My name, and did not deny My faith even in the days of Antipas, My witness, My faithful one, who was killed among you, where Satan dwells.
+I know where you live—where Satan's throne is. Yet you hold firmly to my name and did not deny your faith in me, even in the days of Antipas, my faithful witness, who was killed among you, where Satan dwells.
 
 ## Revelation 2:14
-
-But I have a few things against you, because you have some there who hold to the teaching of Balaam, who kept teaching Balak to put a stumbling block before the sons of Israel, to eat things sacrificed to idols and to commit sexual immorality.
+But I have a few things against you: There are some among you who hold to the teaching of Balaam, who taught Balak to put a stumbling block before the Israelites, to eat food sacrificed to idols and to commit sexual immorality.
 
 ## Revelation 2:15
-
-So you, too, have some who in the same way hold to the teaching of the Nicolaitans.
+In the same way, you also have those who hold to the teaching of the Nicolaitans.
 
 ## Revelation 2:16
-
-Therefore repent; or else I am coming to you quickly, and I will wage war against them with the sword of My mouth.
+Repent therefore! Otherwise, I will come to you quickly and fight against them with the sword of my mouth.
 
 ## Revelation 2:17
-
-The one who has an ear, let him hear what the Spirit says to the churches. To the one who overcomes, I will give some of the hidden manna, and I will give him a white stone, and a new name written on the stone which no one knows except the one who receives it.’
+Whoever has ears, let them hear what the Spirit says to the churches. To the one who is victorious, I will give some of the hidden manna. I will also give that person a white stone with a new name written on it, known only to the one who receives it.
 
 ## Revelation 2:18
-
-“And to the angel of the church in Thyatira write:  
-The Son of God, who has eyes like a flame of fire, and His feet are like burnished bronze, says this:
+“To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like blazing fire and whose feet are like burnished bronze.
 
 ## Revelation 2:19
-
-‘I know your deeds, and your love and faith, and service and perseverance, and that your deeds of late are greater than at first.
+I know your deeds, your love and faith, your service and perseverance, and that your deeds of late are greater than at first.
 
 ## Revelation 2:20
-
-But I have this against you, that you tolerate the woman Jezebel, who calls herself a prophetess, and she teaches and leads My bond-servants astray so that they commit sexual immorality and eat things sacrificed to idols.
+Nevertheless, I have this against you: You tolerate that woman Jezebel, who calls herself a prophetess. By her teaching she misleads my servants into sexual immorality and the eating of food sacrificed to idols.
 
 ## Revelation 2:21
-
-I gave her time to repent, and she does not want to repent of her sexual immorality.
+I have given her time to repent of her immorality, but she is unwilling.
 
 ## Revelation 2:22
-
-Behold, I will throw her on a bed of sickness, and those who commit adultery with her into great tribulation, unless they repent of her deeds.
+Behold, I will cast her on a bed of suffering, and those who commit adultery with her will suffer intensely, unless they repent of her ways.
 
 ## Revelation 2:23
-
-And I will kill her children with plague, and all the churches will know that I am He who searches the minds and hearts; and I will give to each one of you according to your deeds.
+I will strike her children dead. Then all the churches will know that I am He who searches hearts and minds, and I will repay each of you according to your deeds.
 
 ## Revelation 2:24
-
-But I say to you, the rest who are in Thyatira, who do not hold this teaching, who have not known the deep things of Satan, as they call them—I place no other burden on you.
+Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned Satan’s so-called deep secrets, I will not impose any other burden on you,
 
 ## Revelation 2:25
-
-Nevertheless, what you have, hold firmly until I come.
+except to hold on to what you have until I come.
 
 ## Revelation 2:26
-
-The one who overcomes, and the one who keeps My deeds until the end, I will give him authority over the nations;
+To the one who is victorious and does my will to the end, I will give authority over the nations—
 
 ## Revelation 2:27
-
-and he shall rule them with a rod of iron, as the vessels of the potter are shattered, as I also have received authority from My Father;
+that one ‘will rule them with a rod of iron and will dash them to pieces like pottery’—just as I have received authority from my Father.
 
 ## Revelation 2:28
-
-and I will give him the morning star.
+I will also give that one the morning star.
 
 ## Revelation 2:29
-
-The one who has an ear, let him hear what the Spirit says to the churches.’
+Whoever has ears, let them hear what the Spirit says to the churches.

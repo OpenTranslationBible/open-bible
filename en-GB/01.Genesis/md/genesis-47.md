@@ -1,128 +1,94 @@
 # Genesis Chapter 47
 
 ## Genesis 47:1
-
-Then Joseph went in and told Pharaoh, and said, “My father and my brothers, and their flocks and their herds, and all that they have, have come from the land of Canaan; and behold, they are in the land of Goshen.”
+Joseph went to Pharaoh and said, “My father and brothers, along with their flocks, herds, and all they possess, have come from Canaan and are now in Goshen.”
 
 ## Genesis 47:2
-
-And he took five men from among his brothers and presented them to Pharaoh.
+He selected five of his brothers to present before Pharaoh.
 
 ## Genesis 47:3
-
-Then Pharaoh said to his brothers, “What is your occupation?”  
-So they said to Pharaoh, “Your servants are shepherds, both we and our fathers.”
+Pharaoh inquired of them, “What is your occupation?” They answered, “Your servants are shepherds, as were our ancestors.”
 
 ## Genesis 47:4
-
-They also said to Pharaoh, “We have come to reside in the land, because there is no pasture for your servants’ flocks, for the famine is severe in the land of Canaan. Now, please let your servants live in the land of Goshen.”
+They continued, “We have come to reside here temporarily, for the famine in Canaan is severe and there is no pasture for our flocks. Please allow your servants to dwell in Goshen.”
 
 ## Genesis 47:5
-
-Then Pharaoh said to Joseph, “Your father and your brothers have come to you.
+Pharaoh spoke to Joseph, “Your father and brothers have come to you.
 
 ## Genesis 47:6
-
-The land of Egypt is before you; settle your father and your brothers in the best of the land, let them live in the land of Goshen; and if you know any capable men among them, then put them in charge of my livestock.”
+The land of Egypt is at your disposal; settle your family in the best part of the land. Let them reside in Goshen. If any among them are capable, put them in charge of my livestock.”
 
 ## Genesis 47:7
-
-Then Joseph brought his father Jacob and presented him to Pharaoh; and Jacob blessed Pharaoh.
+Joseph then brought his father Jacob to Pharaoh, and Jacob blessed Pharaoh.
 
 ## Genesis 47:8
-
-And Pharaoh said to Jacob, “How many years have you lived?”
+Pharaoh asked Jacob, “How many years have you lived?”
 
 ## Genesis 47:9
-
-So Jacob said to Pharaoh, “The years of my living abroad are one hundred and thirty; few and unpleasant have been the years of my life, nor have they attained the years that my fathers lived during the days of their living abroad.”
+Jacob responded, “The years of my sojourning are 130. My years have been few and difficult, not reaching the lifespan of my ancestors during their sojourning.”
 
 ## Genesis 47:10
-
-So Jacob blessed Pharaoh, and went out from his presence.
+Jacob blessed Pharaoh again and departed from his presence.
 
 ## Genesis 47:11
-
-Now Joseph settled his father and his brothers, and gave them property in the land of Egypt, in the best part of the land, in the land of Rameses, as Pharaoh had ordered.
+Joseph settled his father and brothers in Egypt, granting them property in the best part of the land, the region of Rameses, as Pharaoh commanded.
 
 ## Genesis 47:12
-
-And Joseph provided his father and his brothers and all his father’s household with food, according to the number of their little ones.
+Joseph also provided food for his father, brothers, and all his father’s household, according to the number of their dependents.
 
 ## Genesis 47:13
-
-Now there was no food in all the land, because the famine was very severe, so that the land of Egypt and the land of Canaan languished because of the famine.
+There was no food in the entire region due to the severity of the famine; Egypt and Canaan languished because of it.
 
 ## Genesis 47:14
-
-And Joseph collected all the money that was found in the land of Egypt and in the land of Canaan in payment for the grain which they bought, and Joseph brought the money into Pharaoh’s house.
+Joseph gathered all the money found in Egypt and Canaan in exchange for grain, and he brought it to Pharaoh’s house.
 
 ## Genesis 47:15
-
-When the money from the land of Egypt and from the land of Canaan ran out, all the Egyptians came to Joseph, saying, “Give us food, for why should we die in your presence? For our money is gone!”
+When all the money in Egypt and Canaan was exhausted, the Egyptians approached Joseph, saying, “Give us food. Why should we perish before you? Our money is spent.”
 
 ## Genesis 47:16
-
-Then Joseph said, “Give up your livestock, and I will give you food for your livestock, since your money is gone.”
+Joseph replied, “Bring your livestock, and I will provide food in exchange for them, since your money is gone.”
 
 ## Genesis 47:17
-
-So they brought their livestock to Joseph, and Joseph gave them food in exchange for the horses, the flocks, the herds, and the donkeys; and he fed them with food in exchange for all their livestock that year.
+They brought their livestock to Joseph, and he supplied them with food in exchange for their horses, sheep, goats, cattle, and donkeys. He sustained them through that year with food for their livestock.
 
 ## Genesis 47:18
-
-When that year ended, they came to him the next year and said to him, “We will not hide from my lord that our money is all spent, and the livestock are my lord’s. There is nothing left for my lord except our bodies and our lands.
+When that year concluded, they returned the following year and said, “We cannot hide from our lord that our money is gone and our livestock belongs to you. There is nothing left for our lord but our bodies and our land.
 
 ## Genesis 47:19
-
-Why should we die before your eyes, both we and our land? Purchase us and our land for food, and we and our land will be slaves to Pharaoh. So give us seed, so that we may live and not die, and that the land may not be desolate.”
+Why should we perish before your eyes, both we and our land? Buy us and our land in exchange for food, and we will become Pharaoh’s servants. Provide us with seed so we may live and not die, and so the land does not become desolate.”
 
 ## Genesis 47:20
-
-So Joseph bought all the land of Egypt for Pharaoh, for every Egyptian sold his field, because the famine was severe upon them. And the land became Pharaoh’s.
+Joseph acquired all the land in Egypt for Pharaoh. Every Egyptian sold his field because the famine was severe, and the land became Pharaoh’s.
 
 ## Genesis 47:21
-
-As for the people, he relocated them to the cities from one end of Egypt’s border to the other.
+Joseph relocated the people to the cities from one end of Egypt to the other.
 
 ## Genesis 47:22
-
-Only the land of the priests he did not buy, for the priests had an allotment from Pharaoh, and they lived off the allotment which Pharaoh gave them; therefore they did not sell their land.
+However, he did not purchase the land of the priests, as they received a regular allotment from Pharaoh and lived off it, so they did not sell their land.
 
 ## Genesis 47:23
-
-Then Joseph said to the people, “Behold, I have today purchased you and your land for Pharaoh; now, here is seed for you, and you may sow the land.
+Joseph told the people, “Today I have bought you and your land for Pharaoh. Here is seed for you to sow the land.
 
 ## Genesis 47:24
-
-At the harvest you shall give a fifth to Pharaoh, and four parts shall be your own for seed of the field and for your food, and for those of your households and as food for your little ones.”
+At harvest, you shall give a fifth to Pharaoh, and the remaining four-fifths will be yours for seed for the fields and for food for yourselves, your households, and your children.”
 
 ## Genesis 47:25
-
-So they said, “You have saved our lives! Let us find favour in the sight of my lord, and we will be Pharaoh’s slaves.”
+They said, “You have saved our lives! May we find favour in the eyes of our lord; we will be Pharaoh’s servants.”
 
 ## Genesis 47:26
-
-Joseph made it a statute concerning the land of Egypt valid to this day, that Pharaoh was to have the fifth; only the land of the priests did not become Pharaoh’s.
+Joseph established a law concerning the land of Egypt, still in force today, that a fifth of the produce belongs to Pharaoh. Only the land of the priests did not become Pharaoh’s.
 
 ## Genesis 47:27
-
-Now Israel lived in the land of Egypt, in Goshen, and they acquired property in it and were fruitful and became very numerous.
+The Israelites settled in Egypt, in the region of Goshen. They acquired property and were fruitful, multiplying greatly.
 
 ## Genesis 47:28
-
-And Jacob lived in the land of Egypt for seventeen years; so the length of Jacob’s life was one hundred and forty-seven years.
+Jacob lived in Egypt for seventeen years, and his lifespan was 147 years.
 
 ## Genesis 47:29
-
-When the time for Israel to die drew near, he called his son Joseph and said to him, “Please, if I have found favour in your sight, place your hand under my thigh now and deal with me in kindness and faithfulness: do not bury me in Egypt.
+When the time approached for Israel to die, he summoned his son Joseph and said, “If I have found favour in your sight, place your hand under my thigh and promise to show me kindness and faithfulness. Do not bury me in Egypt,
 
 ## Genesis 47:30
-
-But when I lie down with my fathers, you shall carry me out of Egypt and bury me in their burial place.”  
-And he said, “I will do as you have said.”
+but when I rest with my fathers, carry me out of Egypt and bury me in their burial place.” Joseph said, “I will do as you say.”
 
 ## Genesis 47:31
-
-Then he said, “Swear to me.” So he swore to him.  
-Then Israel bowed in worship at the head of the bed.
+“Swear to me,” Jacob insisted. So Joseph swore to him, and Israel worshipped as he leaned on the top of his staff.

@@ -1,141 +1,106 @@
 # Ezekiel Chapter 48
 
 ## Ezekiel 48:1
-
-“Now these are the names of the tribes: from the northern end, beside the way of Hethlon to Lebo-hamath, as far as Hazar-enan at the border of Damascus, toward the north beside Hamath, from the east side to the west side, Dan, one portion.
+“These are the names of the tribes: At the northern extremity, along the road of Hethlon to Lebo Hamath, as far as Hazar Enan at the border of Damascus, northward beside Hamath, and extending from the east to the west, Dan shall have one portion.
 
 ## Ezekiel 48:2
-
-Beside the territory of Dan, from the east side to the west side, Asher, one portion.
+“Beside the territory of Dan, from east to west, Asher shall have one portion.
 
 ## Ezekiel 48:3
-
-Beside the territory of Asher, from the east side to the west side, Naphtali, one portion.
+“Beside the territory of Asher, from east to west, Naphtali shall have one portion.
 
 ## Ezekiel 48:4
-
-Beside the territory of Naphtali, from the east side to the west side, Manasseh, one portion.
+“Beside the territory of Naphtali, from east to west, Manasseh shall have one portion.
 
 ## Ezekiel 48:5
-
-Beside the territory of Manasseh, from the east side to the west side, Ephraim, one portion.
+“Beside the territory of Manasseh, from east to west, Ephraim shall have one portion.
 
 ## Ezekiel 48:6
-
-Beside the territory of Ephraim, from the east side to the west side, Reuben, one portion.
+“Beside the territory of Ephraim, from east to west, Reuben shall have one portion.
 
 ## Ezekiel 48:7
-
-Beside the territory of Reuben, from the east side to the west side, Judah, one portion.
+“Beside the territory of Reuben, from east to west, Judah shall have one portion.
 
 ## Ezekiel 48:8
-
-Beside the territory of Judah, from the east side to the west side, shall be the allotment which you shall set apart, twenty-five thousand cubits in width, and in length like one of the portions from the east side to the west side; and the sanctuary shall be in the middle of it.
+“Beside the territory of Judah, from east to west, shall be the portion you are to set apart, twenty-five thousand cubits wide, and its length shall be like one of the tribal portions from east to west; the sanctuary shall be in the centre of it.
 
 ## Ezekiel 48:9
-
-The allotment that you shall set apart to the Lord shall be twenty-five thousand cubits in length and ten thousand in width.
+“The portion you shall offer to the Lord shall be twenty-five thousand cubits long and ten thousand cubits wide.
 
 ## Ezekiel 48:10
-
-The holy allotment shall be for these: for the priests, toward the north twenty-five thousand cubits in length, toward the west ten thousand in width, toward the east ten thousand in width, and toward the south twenty-five thousand in length; and the sanctuary of the Lord shall be in its center.
+“This sacred portion shall be for the priests, twenty-five thousand cubits long on the north side, ten thousand cubits wide on the west side, ten thousand cubits wide on the east side, and twenty-five thousand cubits long on the south side; the sanctuary of the Lord shall be in the middle of it.
 
 ## Ezekiel 48:11
-
-It shall be for the priests who are sanctified of the sons of Zadok, who have kept My charge, who did not go astray when the sons of Israel went astray as the Levites went astray.
+“It shall be for the consecrated priests, the sons of Zadok, who kept my charge and did not go astray as the Levites did when the Israelites went astray.
 
 ## Ezekiel 48:12
-
-It shall be a special allotment from the allotment of the land, a most holy portion, beside the territory of the Levites.
+“It shall be a special gift to them from the sacred portion of the land, a most holy portion, next to the border of the Levites.
 
 ## Ezekiel 48:13
-
-Alongside the territory of the priests, the Levites shall have twenty-five thousand cubits in length and ten thousand in width; the entire length shall be twenty-five thousand cubits and the width ten thousand.
+“Alongside the border of the priests, the Levites shall have an allotment twenty-five thousand cubits long and ten thousand cubits wide. The total length shall be twenty-five thousand cubits and the width ten thousand cubits.
 
 ## Ezekiel 48:14
-
-Moreover, they shall not sell or exchange any of it, or transfer this choice portion of land; for it is holy to the Lord.
+“They shall not sell or exchange any of it, nor allow this choice portion of land to pass into other hands; for it is holy to the Lord.
 
 ## Ezekiel 48:15
-
-The remainder, five thousand cubits in width and twenty-five thousand in length, shall be for common use for the city, for homes and for open spaces; and the city shall be in its center.
+“The remaining area, five thousand cubits wide and twenty-five thousand cubits long, shall be for common use for the city, for houses and for pastureland; the city shall be in the centre of it.
 
 ## Ezekiel 48:16
-
-And these shall be its measurements: the north side, four thousand five hundred cubits; the south side, four thousand five hundred; the east side, four thousand five hundred; and the west side, four thousand five hundred.
+“These shall be its measurements: the north side, four thousand five hundred cubits; the south side, four thousand five hundred cubits; the east side, four thousand five hundred cubits; and the west side, four thousand five hundred cubits.
 
 ## Ezekiel 48:17
-
-The city shall have open spaces: on the north two hundred and fifty cubits, on the south two hundred and fifty, on the east two hundred and fifty, and on the west two hundred and fifty.
+“The city shall have open spaces: on the north, two hundred and fifty cubits; on the south, two hundred and fifty cubits; on the east, two hundred and fifty cubits; and on the west, two hundred and fifty cubits.
 
 ## Ezekiel 48:18
-
-The remainder of the length beside the holy allotment shall be ten thousand cubits toward the east and ten thousand toward the west; and it shall be beside the holy allotment. And its produce shall be for food for those who serve the city.
+“The remainder of the length alongside the sacred portion shall be ten thousand cubits toward the east and ten thousand toward the west; its produce shall supply food for the workers of the city.
 
 ## Ezekiel 48:19
-
-And the workers of the city, from all the tribes of Israel, shall cultivate it.
+“The workers of the city, from all the tribes of Israel, shall cultivate it.
 
 ## Ezekiel 48:20
-
-The whole allotment shall be twenty-five thousand by twenty-five thousand cubits; you shall set apart the holy allotment, a square, with the property of the city.
+“The whole portion shall be a square, twenty-five thousand cubits by twenty-five thousand cubits; you shall set apart the sacred portion, along with the property of the city.
 
 ## Ezekiel 48:21
-
-The remainder shall be for the prince, on the one side and on the other of the holy allotment and the city’s property, adjacent to the twenty-five thousand cubits of the allotment toward the east border and westward adjacent to the twenty-five thousand toward the west border, alongside the portions. It shall be for the prince. And the holy allotment and the sanctuary of the house shall be in the middle of it.
+“The remainder shall belong to the prince, on each side of the sacred portion and of the property of the city; extending eastward from the twenty-five thousand cubits of the sacred portion to the eastern border, and westward from the twenty-five thousand cubits to the western border, alongside the tribal portions. The sacred portion with the sanctuary of the house shall be in the centre of it.
 
 ## Ezekiel 48:22
-
-Exclusive of the property of the Levites and the property of the city, which are in the middle of what belongs to the prince, everything between the territory of Judah and the territory of Benjamin shall be for the prince.
+“Exclusive of the property of the Levites and the property of the city, which are in the centre of that which belongs to the prince, everything between the border of Judah and the border of Benjamin shall belong to the prince.
 
 ## Ezekiel 48:23
-
-As for the rest of the tribes: from the east side to the west side, Benjamin, one portion.
+“As for the rest of the tribes: from the east side to the west side, Benjamin shall have one portion.
 
 ## Ezekiel 48:24
-
-Beside the territory of Benjamin, from the east side to the west side, Simeon, one portion.
+“Beside the territory of Benjamin, from east to west, Simeon shall have one portion.
 
 ## Ezekiel 48:25
-
-Beside the territory of Simeon, from the east side to the west side, Issachar, one portion.
+“Beside the territory of Simeon, from east to west, Issachar shall have one portion.
 
 ## Ezekiel 48:26
-
-Beside the territory of Issachar, from the east side to the west side, Zebulun, one portion.
+“Beside the territory of Issachar, from east to west, Zebulun shall have one portion.
 
 ## Ezekiel 48:27
-
-Beside the territory of Zebulun, from the east side to the west side, Gad, one portion.
+“Beside the territory of Zebulun, from east to west, Gad shall have one portion.
 
 ## Ezekiel 48:28
-
-And beside the territory of Gad at the south side toward the south, the border shall be from Tamar to the waters of Meribath-kadesh, to the brook of Egypt, and to the Great Sea.
+“And beside the territory of Gad, the southern boundary shall run south from Tamar to the waters of Meribah Kadesh, then along the Wadi of Egypt to the Great Sea.
 
 ## Ezekiel 48:29
-
-This is the land that you shall divide by lot for inheritance among the tribes of Israel, and these are their portions,” declares the Lord God.
+“This is the land you shall allot as an inheritance to the tribes of Israel, and these shall be their portions,” declares the Sovereign Lord.
 
 ## Ezekiel 48:30
-
-“These are the exits of the city: on the north side, four thousand five hundred cubits by measurement,
+“These shall be the exits of the city: on the north side, four thousand five hundred cubits by measurement,
 
 ## Ezekiel 48:31
-
-Shall be the gates of the city, named for the tribes of Israel: three gates toward the north: the gate of Reuben, the gate of Judah, and the gate of Levi.
+“the gates of the city shall be named after the tribes of Israel. The three gates on the north side shall be the gate of Reuben, the gate of Judah, and the gate of Levi.
 
 ## Ezekiel 48:32
-
-And on the east side, four thousand five hundred cubits, shall be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.
+“On the east side, four thousand five hundred cubits, shall be three gates: the gate of Joseph, the gate of Benjamin, and the gate of Dan.
 
 ## Ezekiel 48:33
-
-On the south side, four thousand five hundred cubits by measurement, shall be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun.
+“On the south side, four thousand five hundred cubits by measurement, shall be three gates: the gate of Simeon, the gate of Issachar, and the gate of Zebulun.
 
 ## Ezekiel 48:34
-
-On the west side, four thousand five hundred cubits, shall be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali.
+“On the west side, four thousand five hundred cubits, shall be three gates: the gate of Gad, the gate of Asher, and the gate of Naphtali.
 
 ## Ezekiel 48:35
-
-The perimeter of the city shall be eighteen thousand cubits; and the name of the city from that day shall be, “The Lord is there.”
+“The city shall be eighteen thousand cubits all around; and the name of the city from that time shall be: ‘The Lord is there.’”

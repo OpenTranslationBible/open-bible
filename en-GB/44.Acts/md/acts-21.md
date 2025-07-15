@@ -2,207 +2,170 @@
 
 ## Acts 21:1
 
-Now when we had parted from them and had set sail, we ran a straight course to Cos,  
-and on the next day to Rhodes, and from there to Patara;
+After we had parted from them, we set sail and made a direct course to Cos, and the following day to Rhodes, and from there to Patara.
 
 ## Acts 21:2
 
-and having found a ship crossing over to Phoenicia, we went on board and set sail.
+We found a ship going across to Phoenicia, so we went aboard and set sail.
 
 ## Acts 21:3
 
-When we came in sight of Cyprus, leaving it on the left, we kept sailing to Syria and landed at Tyre;  
-for there the ship was to unload its cargo.
+When we came in sight of Cyprus, leaving it on our left, we sailed on to Syria and landed at Tyre, where the ship was to unload its cargo.
 
 ## Acts 21:4
 
-After looking up the disciples, we stayed there for seven days;  
-and they kept telling Paul through the Spirit not to set foot in Jerusalem.
+We searched for the disciples and stayed there for seven days. Through the Spirit, they kept telling Paul not to go to Jerusalem.
 
 ## Acts 21:5
 
-When our days there were ended, we left and started on our journey,  
-while they all, with wives and children, escorted us until we were out of the city.  
-After kneeling down on the beach and praying, we said farewell to one another.
+When our time there was ended, we departed and continued our journey, and they all, with their wives and children, escorted us out of the city. On the beach, we knelt down to pray.
 
 ## Acts 21:6
 
-Then we boarded the ship, and they returned home.
+After saying farewell to each other, we boarded the ship, and they returned to their homes.
 
 ---
 
 ## Acts 21:7
 
-When we had completed the voyage from Tyre, we arrived at Ptolemais,  
-and after greeting the brothers and sisters, we stayed with them for a day.
+We completed our voyage from Tyre and arrived at Ptolemais, where we greeted the brothers and sisters and stayed with them for a day.
 
 ## Acts 21:8
 
-On the next day we left and came to Caesarea,  
-and we entered the house of Philip the evangelist, who was one of the Seven, and stayed with him.
+The next day we left and went to Caesarea, where we entered the house of Philip the evangelist, who was one of the Seven, and stayed with him.
 
 ## Acts 21:9
 
-Now this man had four virgin daughters who were prophetesses.
+He had four unmarried daughters who prophesied.
 
 ## Acts 21:10
 
-As we were staying there for some days, a prophet named Agabus came down from Judea.
+While we were staying there for some days, a prophet named Agabus came down from Judea.
 
 ## Acts 21:11
 
-And he came to us and took Paul’s belt and bound his own feet and hands, and said,  
-“This is what the Holy Spirit says:  
-‘In this way the Jews in Jerusalem will bind the man who owns this belt  
-and hand him over to the Gentiles.’”
+He came to us, took Paul’s belt, and bound his own feet and hands, saying, “The Holy Spirit says, ‘In this way the Jews in Jerusalem will bind the man who owns this belt and will deliver him to the Gentiles.’”
 
 ## Acts 21:12
 
-When we had heard this, we as well as the local residents began begging him not to go up to Jerusalem.
+When we heard this, we, along with the local residents, pleaded with Paul not to go up to Jerusalem.
 
 ## Acts 21:13
 
-Then Paul answered,  
-“What are you doing, weeping and breaking my heart?  
-For I am ready not only to be bound, but even to die in Jerusalem for the name of the Lord Jesus.”
+Then Paul responded, “Why are you weeping and breaking my heart? I am ready not only to be bound but also to die in Jerusalem for the name of the Lord Jesus.”
 
 ## Acts 21:14
 
-Since he would not be persuaded, we became quiet, remarking, “The will of the Lord be done!”
+Since he would not be persuaded, we ceased and said, “The Lord’s will be done.”
 
 ---
 
 ## Acts 21:15
 
-After these days we got ready and started on our way up to Jerusalem.
+After these days, we prepared and went up to Jerusalem.
 
 ## Acts 21:16
 
-Some of the disciples from Caesarea also came with us,  
-taking us to Mnason of Cyprus, a disciple of long standing with whom we were to stay.
+Some of the disciples from Caesarea also accompanied us, bringing us to the home of Mnason of Cyprus, an early disciple, with whom we were to stay.
 
 ---
 
 ## Acts 21:17
 
-After we arrived in Jerusalem, the brothers and sisters received us gladly.
+When we arrived in Jerusalem, the brothers and sisters welcomed us warmly.
 
 ## Acts 21:18
 
-And the following day Paul went in with us to James, and all the elders were present.
+The next day, Paul went with us to see James, and all the elders were present.
 
 ## Acts 21:19
 
-After he had greeted them, he began to relate one by one the things which God had done among the Gentiles through his ministry.
+After greeting them, Paul detailed one by one the things God had done among the Gentiles through his ministry.
 
 ## Acts 21:20
 
-And when they heard about them, they began glorifying God; and they said to him,  
-“You see, brother, how many thousands there are among the Jews of those who have believed,  
-and they are all zealous for the Law.
+When they heard this, they glorified God and said to him, “You see, brother, how many thousands of Jews have believed, and they are all zealous for the law.
 
 ## Acts 21:21
 
-But they have been informed about you,  
-that you are teaching all the Jews who are among the Gentiles to abandon Moses,  
-telling them not to circumcise their children nor to walk according to the customs.
+They have been informed that you teach all the Jews among the Gentiles to forsake Moses, telling them not to circumcise their children or follow our customs.
 
 ## Acts 21:22
 
-So what is to be done? They will certainly hear that you have come.
+What should be done? They will certainly hear that you have come.
 
 ## Acts 21:23
 
-Therefore, do as we tell you: we have four men who have a vow upon themselves;
+Therefore, do as we advise you: There are four men with us who have taken a vow.
 
 ## Acts 21:24
 
-take them along and purify yourself together with them, and pay their expenses so that they may shave their heads;  
-then everyone will know that there is nothing to what they have been told about you,  
-but that you yourself also conform to the Law, keeping it.
+Take them and purify yourself with them, and pay their expenses so they may shave their heads. Thus everyone will know there is no truth in the reports about you, but that you yourself live in observance of the law.
 
 ## Acts 21:25
 
-But as for the Gentiles who have believed, we sent a letter, having decided that they should abstain from meat sacrificed to idols,  
-from blood, from what is strangled, and from sexual immorality.”
+As for the Gentile believers, we have written to them our decision that they should abstain from food sacrificed to idols, from blood, from what is strangled, and from sexual immorality.”
 
 ## Acts 21:26
 
-Then Paul took the men, and the next day, after purifying himself together with them,  
-he entered the temple announcing the completion of the days of purification,  
-until the sacrifice was offered for each one of them.
+The next day, Paul took the men and purified himself along with them. He went to the temple to give notice of the completion of the days of purification, until the offering was made for each of them.
 
 ---
 
 ## Acts 21:27
 
-When the seven days were almost over,  
-the Jews from Asia, upon seeing him in the temple, began stirring up all the crowd and laid hands on him,
+When the seven days were nearly completed, the Jews from Asia saw him in the temple and stirred up the crowd, laying hands on him,
 
 ## Acts 21:28
 
-crying out,  
-“Men of Israel, help! This is the man who teaches everyone everywhere against our people,  
-the Law, and this place; and besides, he has even brought Greeks into the temple  
-and has defiled this holy place!”
+shouting, “Men of Israel, help! This is the man who teaches everyone everywhere against our people, the law, and this place. Moreover, he has brought Greeks into the temple and defiled this holy place.”
 
 ## Acts 21:29
 
-For they had previously seen Trophimus the Ephesian in the city with him,  
-and they assumed that Paul had brought him into the temple.
+(They had previously seen Trophimus the Ephesian with him in the city and assumed Paul had brought him into the temple.)
 
 ## Acts 21:30
 
-Then the whole city was provoked and the people rushed together,  
-and taking hold of Paul, they dragged him out of the temple, and immediately the gates were shut.
+The whole city was stirred up, and the people rushed together. They seized Paul and dragged him out of the temple, and immediately the gates were shut.
 
 ## Acts 21:31
 
-While they were trying to kill him,  
-a report came to the commander of the Roman cohort that all Jerusalem was in confusion.
+While they were trying to kill him, word reached the commander of the Roman cohort that all Jerusalem was in confusion.
 
 ## Acts 21:32
 
-He immediately took along some soldiers and centurions and ran down to them;  
-and when they saw the commander and the soldiers, they stopped beating Paul.
+He immediately took soldiers and centurions and ran down to the crowd. When they saw the commander and the soldiers, they stopped beating Paul.
 
 ## Acts 21:33
 
-Then the commander came up and took hold of him, and ordered that he be bound with two chains;  
-and he began asking who he was and what he had done.
+The commander came up, arrested him, and ordered him to be bound with two chains. He then asked who he was and what he had done.
 
 ## Acts 21:34
 
-But among the crowd, some were shouting one thing and some another,  
-and when he could not find out the facts because of the uproar,  
-he ordered that Paul be brought into the barracks.
+Some in the crowd shouted one thing and some another. Since the commander could not ascertain the truth because of the uproar, he ordered Paul to be brought into the barracks.
 
 ## Acts 21:35
 
-When Paul got to the stairs, it came about that he was carried by the soldiers because of the violence of the mob;
+When Paul reached the steps, the violence of the mob was so great that he had to be carried by the soldiers.
 
 ## Acts 21:36
 
-for the multitude of people kept following them, shouting, “Away with him!”
+The crowd followed, shouting, “Away with him!”
 
 ---
 
 ## Acts 21:37
 
-As Paul was about to be brought into the barracks, he said to the commander, “Am I allowed to say something to you?”  
-And he said, “Do you know Greek?
+As Paul was about to be brought into the barracks, he asked the commander, “May I say something to you?” He replied, “Do you speak Greek?
 
 ## Acts 21:38
 
-Then you are not the Egyptian who some time ago stirred up a revolt and led the four thousand men of the Assassins out into the wilderness?”
+Then you are not the Egyptian who some time ago stirred up a revolt and led four thousand men of the Assassins out into the wilderness?”
 
 ## Acts 21:39
 
-But Paul said,  
-“I am a Jew of Tarsus in Cilicia, a citizen of no insignificant city;  
-and I beg you, allow me to speak to the people.”
+Paul said, “I am a Jew from Tarsus in Cilicia, a citizen of no insignificant city. I beg you, let me speak to the people.”
 
 ## Acts 21:40
 
-When he had given permission, Paul, standing on the stairs, motioned to the people with his hand.  
-And when there was a great silence, he spoke to them in the Hebrew dialect, saying:
+After receiving permission, Paul stood on the steps and motioned to the people with his hand. When there was a great silence, he spoke to them in the Hebrew dialect, saying,

@@ -1,85 +1,64 @@
 # Galatians Chapter 2
 
 ## Galatians 2:1
-
-Then after an interval of fourteen years I went up again to Jerusalem with Barnabas, taking Titus along also.
+After fourteen years, I went up again to Jerusalem with Barnabas, taking Titus along as well.
 
 ## Galatians 2:2
-
-It was because of a revelation that I went up; and I submitted to them the gospel which I preach among the Gentiles, but I did so in private to those who were of reputation, for fear that I might be running, or had run, in vain.
+I went up because of a revelation, and I presented to those of high reputation the gospel that I preach among the Gentiles, doing so privately, to ensure that I was not running or had not run in vain.
 
 ## Galatians 2:3
-
-But not even Titus, who was with me, though he was a Greek, was compelled to be circumcised.
+Yet not even Titus, who was with me and is a Greek, was compelled to be circumcised.
 
 ## Galatians 2:4
-
-Yet it was because of the false brothers secretly brought in, who had sneaked in to spy on our freedom which we have in Christ Jesus, in order to enslave us.
+This issue arose due to false brothers who had infiltrated our group to spy on the freedom we have in Christ Jesus, intending to bring us into bondage.
 
 ## Galatians 2:5
-
-But we did not yield in subjection to them, even for an hour, so that the truth of the gospel would remain with you.
+We did not yield to them for even a moment, so that the truth of the gospel might remain with you.
 
 ## Galatians 2:6
-
-But from those who were of considerable repute—what they were makes no difference to me; God shows no favouritism—well, those who were of repute contributed nothing to me.
+Regarding those of high esteem—whatever they were makes no difference to me; God does not show partiality—they added nothing to my message.
 
 ## Galatians 2:7
-
-But on the contrary, seeing that I had been entrusted with the gospel to the uncircumcised, just as Peter had been to the circumcised
+On the contrary, they saw that I had been entrusted with the gospel for the uncircumcised, just as Peter was for the circumcised.
 
 ## Galatians 2:8
-
-(For He who was at work for Peter in his apostleship to the circumcised was at work for me also to the Gentiles),
+For the same God who worked through Peter as an apostle to the circumcised was also at work in me for the Gentiles.
 
 ## Galatians 2:9
-
-And recognizing the grace that had been given to me, James, Cephas, and John, who were reputed to be pillars, gave me and Barnabas the right hand of fellowship, so that we might go to the Gentiles and they to the circumcised.
+Recognising the grace given to me, James, Cephas, and John, esteemed as pillars, extended the right hand of fellowship to me and Barnabas, agreeing that we should go to the Gentiles and they to the circumcised.
 
 ## Galatians 2:10
-
-They only asked us to remember the poor—the very thing I also was eager to do.
+They only asked us to remember the poor, which was the very thing I was eager to do.
 
 ## Galatians 2:11
-
-But when Cephas came to Antioch, I opposed him to his face, because he stood condemned.
+But when Cephas came to Antioch, I opposed him to his face because he stood condemned.
 
 ## Galatians 2:12
-
-For prior to the coming of certain men from James, he used to eat with the Gentiles; but when they came, he began to withdraw and separate himself, fearing those from the circumcision.
+Before certain men came from James, he used to eat with the Gentiles. But when they arrived, he withdrew and separated himself, fearing those from the circumcision group.
 
 ## Galatians 2:13
-
-The rest of the Jews joined him in hypocrisy, with the result that even Barnabas was carried away by their hypocrisy.
+The other Jews joined him in this hypocrisy, so much so that even Barnabas was led astray by their hypocrisy.
 
 ## Galatians 2:14
-
-But when I saw that they were not straightforward about the truth of the gospel, I said to Cephas in the presence of all, “If you, being a Jew, live like the Gentiles and not like the Jews, how is it that you compel the Gentiles to live like Jews?
+When I saw they were not acting in accordance with the truth of the gospel, I said to Cephas in front of them all, “If you, a Jew, live like a Gentile and not like a Jew, how can you compel Gentiles to follow Jewish customs?”
 
 ## Galatians 2:15
-
-We are Jews by nature and not sinners from the Gentiles;
+“We are Jews by birth and not sinful Gentiles;
 
 ## Galatians 2:16
-
-Nevertheless, knowing that a person is not justified by works of the Law but through faith in Jesus Christ, even we have believed in Christ Jesus so that we may be justified by faith in Christ and not by works of the Law; since by works of the Law no flesh will be justified.
+yet we know that a person is not justified by works of the law, but through faith in Jesus Christ. So we also have believed in Christ Jesus, that we might be justified by faith in Christ and not by works of the law, because by works of the law no one will be justified.
 
 ## Galatians 2:17
-
-But if, while seeking to be justified in Christ, we ourselves have also been found sinners, is Christ then a servant of sin? Far from it!
+But if, while seeking to be justified in Christ, we ourselves are found to be sinners, is Christ then a promoter of sin? Certainly not!
 
 ## Galatians 2:18
-
-For if I rebuild what I have once destroyed, I prove myself to be a wrongdoer.
+If I rebuild what I have destroyed, I prove myself to be a transgressor.
 
 ## Galatians 2:19
-
-For through the Law I died to the Law, so that I might live for God.
+For through the law I died to the law, so that I might live for God.
 
 ## Galatians 2:20
-
-I have been crucified with Christ, and it is no longer I who live, but Christ lives in me; and the life which I now live in the flesh I live by faith in the Son of God, who loved me and gave Himself up for me.
+I have been crucified with Christ, and it is no longer I who live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me.
 
 ## Galatians 2:21
-
-I do not nullify the grace of God, for if righteousness comes through the Law, then Christ died needlessly.
+I do not set aside the grace of God, for if righteousness could be gained through the law, then Christ died for no purpose.

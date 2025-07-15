@@ -1,116 +1,115 @@
 # Exodus Chapter 30
 
 ## Exodus 30:1
-“Make an altar of acacia wood for burning incense.
+“Construct an altar from acacia wood as a place for burning incense.
 
 ## Exodus 30:2
-It is to be square—a cubit long and a cubit wide—and two cubits high, with horns of one piece with it.
+It shall be square, measuring a cubit in length and a cubit in width, and two cubits in height; its horns shall be of one piece with it.
 
 ## Exodus 30:3
-Overlay it with pure gold—top, sides, and horns—and make a gold moulding around it.
+Overlay the top, sides, and horns with pure gold, and create a gold border around it.
 
 ## Exodus 30:4
-Make two gold rings below the moulding—one on each side—to hold the poles used for carrying it.
+Fashion two gold rings beneath the border on opposite sides to hold the poles for carrying it.
 
 ## Exodus 30:5
-Make the poles of acacia wood and overlay them with gold.
+The poles shall be made of acacia wood and overlaid with gold.
 
 ## Exodus 30:6
-Put the altar in front of the curtain that shields the ark of the covenant law—before the atonement cover where I will meet with you.
+Position the altar in front of the veil that is near the ark of the covenant, before the atonement cover that is over the ark where I will meet with you.
 
 ## Exodus 30:7
-Aaron must burn fragrant incense on it every morning when he tends the lamps.
+Aaron shall burn aromatic incense on it every morning when he tends the lamps.
 
 ## Exodus 30:8
-He must also burn incense at twilight when he lights the lamps, so incense will burn continually before the Lord for generations to come.
+When Aaron lights the lamps at twilight, he shall burn incense again. This incense shall burn perpetually before the Lord throughout your generations.
 
 ## Exodus 30:9
-Do not offer any other incense, burnt offering, grain offering, or pour out a drink offering on it.
+Do not offer any foreign incense, burnt offering, grain offering, or pour a drink offering on this altar.
 
 ## Exodus 30:10
-Once a year Aaron shall make atonement on its horns. With the blood of the sin offering for atonement, he is to do this once a year for generations to come. It is most holy to the Lord.”
+Aaron shall make atonement on its horns once a year with the blood of the sin offering of atonement. This shall be a lasting ordinance for generations; it is most holy to the Lord.”
 
 ## Exodus 30:11
-Then the Lord said to Moses,
+The Lord spoke to Moses,
 
 ## Exodus 30:12
-“When you count the Israelites, each must pay a ransom for their life to the Lord. No plague will come on them when you count them.
+“When you take a census of the Israelites, each person must give a ransom for his life to the Lord when counted, so that no plague will come upon them during the census.
 
 ## Exodus 30:13
-Each person over twenty is to give half a shekel, according to the sanctuary standard.
+Each person who is counted shall give a half shekel according to the sanctuary shekel, which is twenty gerahs. This half shekel is a contribution to the Lord.
 
 ## Exodus 30:14
-All who are counted, from twenty years old and up, must give the offering to the Lord.
+Everyone twenty years old or more who is counted shall give this offering to the Lord.
 
 ## Exodus 30:15
-The rich shall not give more, and the poor shall not give less than half a shekel, when giving the offering to the Lord to make atonement.
+The wealthy shall not contribute more, nor the poor less, than the half shekel when giving the offering to the Lord to make atonement for your lives.
 
 ## Exodus 30:16
-Receive the atonement money from the Israelites and use it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord, making atonement for your lives.”
+Collect the atonement money from the Israelites and allocate it for the service of the tent of meeting. It will be a memorial for the Israelites before the Lord, making atonement for your lives.”
 
 ## Exodus 30:17
-Then the Lord said to Moses,
+The Lord then spoke to Moses,
 
 ## Exodus 30:18
-“Make a bronze basin with a bronze stand for washing. Place it between the tent of meeting and the altar, and put water in it.
+“Create a bronze basin with a bronze stand for washing, and place it between the tent of meeting and the altar, and fill it with water.
 
 ## Exodus 30:19
 Aaron and his sons shall wash their hands and feet with water from it.
 
 ## Exodus 30:20
-Whenever they go into the tent of meeting or approach the altar, they must wash with water so that they will not die.
+Whenever they enter the tent of meeting or approach the altar to minister by offering a food sacrifice to the Lord, they must wash with water so that they will not die.
 
 ## Exodus 30:21
-They must wash their hands and feet so they will not die. This is a lasting ordinance for them and their descendants.”
+They must wash their hands and feet so that they will not die. This shall be a permanent statute for Aaron and his descendants throughout their generations.”
 
 ## Exodus 30:22
-Then the Lord said to Moses,
+Moreover, the Lord spoke to Moses,
 
 ## Exodus 30:23
-“Take the finest spices: liquid myrrh, fragrant cinnamon, fragrant cane, cassia—all measured according to the sanctuary standard—and a hin of olive oil.
+“Take the finest spices: 500 shekels of liquid myrrh, 250 shekels of fragrant cinnamon, 250 shekels of fragrant cane,
 
 ## Exodus 30:24
-Combine them to make a sacred anointing oil, blended by a perfumer.
+500 shekels of cassia, according to the sanctuary shekel, and a hin of olive oil.
 
 ## Exodus 30:25
-Use it to anoint the tent of meeting, the ark of the covenant law,
+Make these into a sacred anointing oil, a fragrant blend, the work of a perfumer; it shall be a holy anointing oil.
 
 ## Exodus 30:26
-the table and all its articles, the lampstand and its utensils, the altar of incense,
+Use it to anoint the tent of meeting, the ark of the covenant,
 
 ## Exodus 30:27
-the altar of burnt offering and all its tools, and the basin with its stand.
+the table and all its utensils, the lampstand and its accessories, and the altar of incense,
 
 ## Exodus 30:28
-You are to consecrate them so they will be most holy, and whatever touches them will be holy.
+the altar of burnt offering and all its utensils, and the basin with its stand.
 
 ## Exodus 30:29
-Anoint Aaron and his sons and consecrate them so they may serve Me as priests.
+Consecrate them so that they may be most holy; whatever touches them will be holy.
 
 ## Exodus 30:30
-Say to the Israelites: This will be My sacred anointing oil for the generations to come.
+Anoint Aaron and his sons, consecrating them to serve as priests to Me.
 
 ## Exodus 30:31
-Do not pour it on anyone else’s body, and do not make any other oil using the same formula. It is sacred, and you are to treat it as sacred.
+Speak to the Israelites, saying, ‘This shall be My sacred anointing oil for generations to come.
 
 ## Exodus 30:32
-Whoever makes oil like it or puts it on anyone other than a priest must be cut off from their people.”
+It shall not be poured on anyone else’s body, nor shall you make any other oil using the same formula. It is sacred, and you must consider it sacred.
 
 ## Exodus 30:33
-Then the Lord said to Moses,
+Whoever makes a perfume like it or puts it on anyone other than a priest must be cut off from their people.’”
 
 ## Exodus 30:34
-“Take fragrant spices—gum resin, onycha and galbanum—and pure frankincense, all in equal amounts,
+Then the Lord said to Moses, “Take fragrant spices—stacte, onycha, galbanum, and pure frankincense—all in equal parts,
 
 ## Exodus 30:35
-and make a fragrant blend of incense, the work of a perfumer. It is to be salted and pure and sacred.
+and make a fragrant blend of incense, a skilled mixture, the work of a perfumer. It is to be salted, pure, and holy.
 
 ## Exodus 30:36
-Grind some of it to powder and place it in front of the ark of the covenant law in the tent of meeting, where I will meet with you.
+Grind some of it to powder and place it in front of the ark of the covenant in the tent of meeting, where I will meet with you. It shall be most holy to you.
 
 ## Exodus 30:37
-Treat the incense as most holy.
+Do not make any incense with this formula for yourselves; consider it holy to the Lord.
 
 ## Exodus 30:38
-Do not make any incense with this formula for yourselves. Consider it holy to the Lord. Whoever makes incense like it for personal use must be cut off from their people.
-
+Whoever makes incense like it to enjoy its fragrance must be cut off from their people.”

@@ -1,131 +1,111 @@
 # Jeremiah Chapter 13
 
-## Jeremiah 13:1  
-This is what the Lord said to me: “Go and buy yourself a linen waistband and put it around your waist, but do not put it in water.”
+## Jeremiah 13:1
 
-## Jeremiah 13:2  
-So I bought the waistband in accordance with the word of the Lord, and put it around my waist.
+This is what the Lord said to me: “Go and purchase a linen garment and place it around your waist, but do not let it come into contact with water.”
 
-## Jeremiah 13:3  
-Then the word of the Lord came to me a second time, saying,
+## Jeremiah 13:2
 
-## Jeremiah 13:4  
-“Take the waistband that you bought, which is around your waist, and go now to the Euphrates and hide it there in a crevice of the rock.”
+So I acquired the garment as the Lord instructed, and wrapped it around my waist.
 
-## Jeremiah 13:5  
-So I went and hid it by the Euphrates, as the Lord had commanded me.
+## Jeremiah 13:3
 
-## Jeremiah 13:6  
-After many days the Lord said to me, “Arise, go to the Euphrates and take from there the waistband which I commanded you to hide there.”
+Then the word of the Lord came to me once more, saying,
 
-## Jeremiah 13:7  
-Then I went to the Euphrates and dug up and took the waistband from the place where I had hidden it; and behold, the waistband was ruined, it was completely useless.
+## Jeremiah 13:4
 
-## Jeremiah 13:8  
+“Take the garment you have bought, which is around your waist, and go to the Euphrates. Conceal it there in a crevice of the rock.”
+
+## Jeremiah 13:5
+
+So I went and concealed it by the Euphrates, as the Lord had commanded me.
+
+## Jeremiah 13:6
+
+After a number of days, the Lord instructed me, “Arise, go to the Euphrates and retrieve the garment that I directed you to hide there.”
+
+## Jeremiah 13:7
+
+So I went to the Euphrates and dug up the garment from the place where I had hidden it; and behold, the garment was ruined and utterly useless.
+
+## Jeremiah 13:8
+
 Then the word of the Lord came to me, saying,
 
-## Jeremiah 13:9  
-“This is what the Lord says: ‘To the same extent I will destroy the pride of Judah and the great pride of Jerusalem.
+## Jeremiah 13:9
 
-## Jeremiah 13:10  
-This wicked people, who refuse to listen to My words, who walk in the stubbornness of their hearts and have followed other gods to serve them and to bow down to them,  
-Let them be like this waistband, which is completely useless.
+“This is what the Lord says: ‘In the same manner, I will destroy the pride of Judah and the great pride of Jerusalem.
 
-## Jeremiah 13:11  
-For as the waistband clings to the waist of a man, so I made the entire household of Israel and the entire household of Judah cling to Me,’ declares the Lord,  
-‘So that they might be My people, for renown, for praise, and for glory; but they did not listen.’
+## Jeremiah 13:10
 
----
+These wicked people, who refuse to heed my words, who follow the stubbornness of their hearts and pursue other gods to serve and worship them, will be like this garment—completely useless!
 
-## Jeremiah 13:12  
-“Therefore you are to speak this word to them:  
-‘This is what the Lord, the God of Israel says: “Every jug is to be filled with wine.”’  
-And when they say to you, ‘Do we not very well know that every jug is to be filled with wine?’
+## Jeremiah 13:11
 
-## Jeremiah 13:13  
-Then say to them, ‘This is what the Lord says: “Behold, I am going to fill all the inhabitants of this land—the kings who sit on David’s throne, the priests, the prophets, and all the inhabitants of Jerusalem—with drunkenness!
-
-## Jeremiah 13:14  
-Then I will smash them against each other, the fathers and the sons together,” declares the Lord.  
-“I will not have compassion nor be troubled nor take pity so as to keep from destroying them.”’”
-
-## Jeremiah 13:15  
-Listen and pay attention, do not be haughty,  
-For the Lord has spoken.
-
-## Jeremiah 13:16  
-Give glory to the Lord your God  
-Before He brings darkness  
-And before your feet stumble  
-On the dusky mountains,  
-And while you are hoping for light  
-He makes it into deep darkness,  
-And turns it into gloom.
-
-## Jeremiah 13:17  
-But if you will not listen to it,  
-My soul will weep in secret for such pride;  
-And my eyes will shed tears and stream down  
-Because the flock of the Lord has been taken captive.
+For as a garment clings to the waist of a person, so I made the whole house of Israel and the whole house of Judah cling to me,’ declares the Lord, ‘that they might be my people, for renown, for praise, and for glory; but they did not listen.’
 
 ---
 
-## Jeremiah 13:18  
-Say to the king and the queen mother,  
-“Take a lowly seat,  
-For your beautiful crown  
-Has come down from your head.”
+## Jeremiah 13:12
 
-## Jeremiah 13:19  
-The cities of the Negev have been locked up,  
-And there is no one to open them;  
-All Judah has been taken into exile,  
-Wholly taken into exile.
+“Therefore, speak this word to them: ‘This is what the Lord, the God of Israel, says: Every container should be filled with wine.’ And if they respond, ‘Do we not know that every container should be filled with wine?’
 
-## Jeremiah 13:20  
-Raise your eyes and see  
-Those coming from the north.  
-Where is the flock that was given you,  
-Your beautiful sheep?
+## Jeremiah 13:13
 
-## Jeremiah 13:21  
-What will you say when He appoints over you—  
-And you yourself had taught them—  
-Former companions to be head over you?  
-Will labor pains not take hold of you,  
-Like a woman in childbirth?
+then say to them, ‘This is what the Lord says: I am going to fill all the inhabitants of this land—the kings who sit on David’s throne, the priests, the prophets, and all the inhabitants of Jerusalem—with drunkenness.
 
-## Jeremiah 13:22  
-If you say in your heart,  
-“Why have these things happened to me?”  
-Because of the magnitude of your wrongdoing  
-Your skirts have been removed  
-And your heels have suffered violence.
+## Jeremiah 13:14
 
-## Jeremiah 13:23  
-Can the Ethiopian change his skin,  
-Or the leopard his spots?  
-Then you as well can do good  
-Who are accustomed to doing evil.
+I will shatter them against each other, both parents and children alike,” declares the Lord. “I will show no compassion, nor will I spare or have mercy to prevent their destruction.”
 
-## Jeremiah 13:24  
-Therefore I will scatter them like drifting straw  
-To the desert wind.
+## Jeremiah 13:15
 
-## Jeremiah 13:25  
-This is your lot, the portion measured to you  
-From Me,” declares the Lord,  
-“Because you have forgotten Me  
-And trusted in falsehood.
+Hear and give heed, do not be proud, for the Lord has spoken.
 
-## Jeremiah 13:26  
-So I Myself have stripped your skirts off over your face,  
-So that your shame will be seen.
+## Jeremiah 13:16
 
-## Jeremiah 13:27  
-As for your adulteries and your lustful neighings,  
-The outrageous sin of your prostitution  
-On the hills in the field,  
-I have seen your abominations.  
-Woe to you, Jerusalem!  
-How long will you remain unclean?”
+Give glory to the Lord your God before he brings darkness and before your feet stumble on the darkening hills. You hope for light, but he will turn it into deep darkness and transform it into thick gloom.
+
+## Jeremiah 13:17
+
+But if you do not listen, I will weep in secret because of your pride; my eyes will weep bitterly, overflowing with tears, because the Lord’s flock will be taken captive.
+
+## Jeremiah 13:18
+
+Say to the king and the queen mother, “Descend from your thrones, for your splendid crowns will fall from your heads.”
+
+## Jeremiah 13:19
+
+The cities of the Negev will be closed, with no one to open them. All Judah will be taken into exile, completely carried away.
+
+## Jeremiah 13:20
+
+Lift up your eyes and see those coming from the north. Where is the flock that was entrusted to you, the sheep of which you boasted?
+
+## Jeremiah 13:21
+
+What will you say when the Lord sets over you those you cultivated as your allies? Will not pain seize you like that of a woman in labour?
+
+## Jeremiah 13:22
+
+And if you ask yourself, “Why has this happened to me?”— it is because of the magnitude of your sins that your skirts have been torn off and your body mistreated.
+
+## Jeremiah 13:23
+
+Can an Ethiopian change his skin or a leopard its spots? Neither can you do good who are accustomed to doing evil.
+
+## Jeremiah 13:24
+
+“I will scatter you like chaff driven by the desert wind.
+
+## Jeremiah 13:25
+
+This is your lot, the portion I have decreed for you,” declares the Lord, “because you have forgotten me and trusted in falsehood.
+
+## Jeremiah 13:26
+
+I will pull up your skirts over your face so that your shame may be seen—
+
+## Jeremiah 13:27
+
+your adulteries and lustful neighings, your shameless prostitution! I have seen your detestable acts on the hills and in the fields. Woe to you, Jerusalem! How long will you remain unclean?”

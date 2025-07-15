@@ -1,81 +1,61 @@
 # Ezekiel Chapter 42
 
 ## Ezekiel 42:1
-
-Then he brought me out into the outer courtyard, the way toward the north; and he brought me to the chamber which was opposite the courtyard and opposite the building toward the north.
+Then he led me out into the outer court, towards the north, and brought me to the chambers opposite the separate area and the building on the north side.
 
 ## Ezekiel 42:2
-
-Along the length, which was a hundred cubits, was the north door; the width was fifty cubits.
+The building was a hundred cubits long with its entrance facing north, and it was fifty cubits wide.
 
 ## Ezekiel 42:3
-
-Opposite the twenty cubits which belonged to the inner courtyard, and opposite the pavement which belonged to the outer courtyard, was gallery corresponding to gallery in three stories.
+Facing the twenty cubits of the inner court and opposite the pavement of the outer court, gallery faced gallery on three levels.
 
 ## Ezekiel 42:4
-
-And in front of the chambers was an inner passage ten cubits wide, and a way of one hundred cubits; and their doors were on the north.
+In front of the chambers was an inner passageway ten cubits wide and a hundred cubits long, with entrances on the north.
 
 ## Ezekiel 42:5
-
-Now the upper chambers were shorter, because the galleries took more space away from them than from the lower and middle ones in the building.
+The upper chambers were narrower than the ones below, as the galleries took more space from them than from the lower and middle levels.
 
 ## Ezekiel 42:6
-
-For they were in three stories and had no pillars like the pillars of the courtyards; for that reason the upper chambers were set back from the ground more than the lower and middle ones.
+The upper rooms were set back more than the lower and middle ones, as they had no pillars like the courts, making them smaller in floor space.
 
 ## Ezekiel 42:7
-
-As for the outer wall by the side of the chambers, toward the outer courtyard facing the chambers, its length was fifty cubits.
+There was an outer wall parallel to the chambers and the outer court, extending fifty cubits in front of the chambers.
 
 ## Ezekiel 42:8
-
-For the length of the chambers which were in the outer courtyard was fifty cubits; and behold, the length of those facing the temple was a hundred cubits.
+The length of the chambers facing the outer court was fifty cubits, while those facing the sanctuary were a hundred cubits long.
 
 ## Ezekiel 42:9
-
-And below these chambers was the entrance on the east side, as one enters them from the outer courtyard.
+There was an entrance on the east side, beneath these chambers, as one entered from the outer court.
 
 ## Ezekiel 42:10
-
-In the thickness of the wall of the courtyard toward the east, facing the separate area and facing the building, there were chambers.
+On the south side, along the length of the courtyard wall, opposite the separate area and the building, there were chambers.
 
 ## Ezekiel 42:11
-
-And a passage in front of them was like the appearance of the chambers that were on the north, corresponding in length and width, and all their entrances and arrangements were alike, with their doors.
+The passage in front of them was similar to the chambers on the north, with the same length, width, exits, and dimensions.
 
 ## Ezekiel 42:12
-
-Corresponding to the doors of the chambers which were toward the south, there was a door at the head of the passage, the passage in front of the corresponding wall toward the east, as one enters them.
+The doorways of the chambers on the south corresponded to those on the north, with an entrance at the start of the passageway parallel to the wall extending eastward.
 
 ## Ezekiel 42:13
-
-Then he said to me, “The north chambers and the south chambers which are opposite the separate area, they are the holy chambers where the priests who are near to the Lord shall eat the most holy things. There they shall place the most holy things—the grain offering, the sin offering, and the guilt offering—for the place is holy.
+Then he said to me, “The north and south chambers facing the separate area are holy chambers where the priests who approach the Lord will eat the most holy offerings. There they will place the most holy offerings—the grain offerings, the sin offerings, and the guilt offerings—for the place is holy.
 
 ## Ezekiel 42:14
-
-When the priests enter, then they shall not go out into the outer courtyard from the sanctuary without laying their garments in which they minister in the holy chambers; for these garments are holy. They shall put on other garments before they approach the area for the people.”
+When the priests enter the holy precincts, they must not go into the outer court without leaving behind the garments in which they minister, for these are holy. They must put on other garments before approaching the places for the people.”
 
 ## Ezekiel 42:15
-
-Now when he had finished measuring the inner house, he brought me out by the way of the gate which faced east and measured it all around.
+When he had finished measuring the inner area of the temple, he led me out through the east gate and measured the area all around.
 
 ## Ezekiel 42:16
-
-He measured on the east side with the measuring rod: five hundred cubits by the measuring rod.
+He measured the east side with the measuring rod, and it was five hundred cubits.
 
 ## Ezekiel 42:17
-
-He measured on the north side: five hundred cubits by the measuring rod.
+He measured the north side, and it was five hundred cubits by the measuring rod.
 
 ## Ezekiel 42:18
-
-He measured on the south side: five hundred cubits by the measuring rod.
+He measured the south side, and it was five hundred cubits by the measuring rod.
 
 ## Ezekiel 42:19
-
-He turned to the west side and measured five hundred cubits by the measuring rod.
+He turned to the west side and measured it, and it was five hundred cubits by the measuring rod.
 
 ## Ezekiel 42:20
-
-He measured it on the four sides. It had a wall all around, the length five hundred cubits and the width five hundred cubits, to divide between the holy and the profane.
+Thus he measured the area on all four sides. It had a wall surrounding it, five hundred cubits long and five hundred cubits wide, to separate the holy from the common.

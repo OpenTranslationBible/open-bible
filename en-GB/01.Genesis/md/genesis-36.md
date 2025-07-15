@@ -1,186 +1,130 @@
 # Genesis Chapter 36
 
 ## Genesis 36:1
-
-Now these are the records of the generations of Esau (that is, Edom).
+These are the records of the lineage of Esau (also known as Edom).
 
 ## Genesis 36:2
-
-Esau took wives from the daughters of Canaan: Adah the daughter of Elon the Hittite, and Oholibamah the daughter of Anah and the granddaughter of Zibeon the Hivite,
+Esau took his wives from the daughters of Canaan: Adah, the daughter of Elon the Hittite, and Oholibamah, the daughter of Anah and granddaughter of Zibeon the Hivite—
 
 ## Genesis 36:3
-
-Also Basemath, Ishmael’s daughter, the sister of Nebaioth.
+and Basemath, the daughter of Ishmael and sister of Nebaioth.
 
 ## Genesis 36:4
-
 Adah bore Eliphaz to Esau, and Basemath bore Reuel,
 
 ## Genesis 36:5
-
-and Oholibamah bore Jeush, Jalam, and Korah.  
-These are the sons of Esau who were born to him in the land of Canaan.
+and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.
 
 ## Genesis 36:6
-
-Then Esau took his wives, his sons, his daughters, and all his household, and his livestock and all his cattle and all his goods which he had acquired in the land of Canaan, and went to another land away from his brother Jacob.
+Esau took his wives, sons, daughters, and all members of his household, along with his livestock, cattle, and all his property acquired in Canaan, and moved to a land some distance from his brother Jacob.
 
 ## Genesis 36:7
-
-For their possessions had become too great for them to live together, and the land where they resided could not support them because of their livestock.
+For their possessions were too numerous for them to live together; the land where they resided could not support them because of their livestock.
 
 ## Genesis 36:8
-
-So Esau lived in the hill country of Seir; Esau is Edom.
+So Esau settled in the hill country of Seir; Esau is Edom.
 
 ## Genesis 36:9
-
-These then are the records of the generations of Esau the father of the Edomites in the hill country of Seir.
+These are the records of the lineage of Esau, the father of the Edomites, in the hill country of Seir.
 
 ## Genesis 36:10
-
-These are the names of Esau’s sons: Eliphaz, the son of Esau’s wife Adah, Reuel, the son of Esau’s wife Basemath.
+These are the names of Esau’s sons: Eliphaz, the son of Esau’s wife Adah, and Reuel, the son of Esau’s wife Basemath.
 
 ## Genesis 36:11
-
-The sons of Eliphaz were: Teman, Omar, Zepho, Gatam, and Kenaz.
+The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ## Genesis 36:12
-
-Timna was a concubine of Esau’s son Eliphaz, and she bore Amalek to Eliphaz. These are the sons of Esau’s wife Adah.
+Timna was a concubine of Esau’s son Eliphaz, and she bore Amalek to Eliphaz. These were the grandsons of Esau’s wife Adah.
 
 ## Genesis 36:13
-
-These are the sons of Reuel: Nahath, Zerah, Shammah, and Mizzah. These were the sons of Esau’s wife Basemath.
+The sons of Reuel were Nahath, Zerah, Shammah, and Mizzah. These were the grandsons of Esau’s wife Basemath.
 
 ## Genesis 36:14
-
-These were the sons of Esau’s wife Oholibamah, the daughter of Anah and granddaughter of Zibeon: She bore to Esau: Jeush, Jalam, and Korah.
+The sons of Esau’s wife Oholibamah, the daughter of Anah and granddaughter of Zibeon: she bore to Esau Jeush, Jalam, and Korah.
 
 ## Genesis 36:15
-
-These are the chiefs among the sons of Esau:
-
-The sons of Eliphaz, Esau’s firstborn: Chief Teman, Chief Omar, Chief Zepho, Chief Kenaz,
+These were the chiefs among the descendants of Esau. The sons of Eliphaz, the firstborn of Esau: chiefs Teman, Omar, Zepho, Kenaz,
 
 ## Genesis 36:16
-
-Chief Korah, Chief Gatam, Chief Amalek. These are the chiefs descended from Eliphaz in the land of Edom. These are the sons of Adah.
+Korah, Gatam, and Amalek. These were the chiefs descended from Eliphaz in the land of Edom; they were the sons of Adah.
 
 ## Genesis 36:17
-
-These are the sons of Reuel, Esau’s son: Chief Nahath, Chief Zerah, Chief Shammah, Chief Mizzah. These are the chiefs descended from Reuel in the land of Edom. These are the sons of Esau’s wife Basemath.
+The sons of Reuel, Esau’s son: chiefs Nahath, Zerah, Shammah, and Mizzah. These were the chiefs descended from Reuel in the land of Edom; they were the sons of Esau’s wife Basemath.
 
 ## Genesis 36:18
-
-These are the sons of Esau’s wife Oholibamah: Chief Jeush, Chief Jalam, Chief Korah. These are the chiefs descended from Esau’s wife Oholibamah, the daughter of Anah.
+The sons of Esau’s wife Oholibamah: chiefs Jeush, Jalam, and Korah. These were the chiefs descended from Esau’s wife Oholibamah, the daughter of Anah.
 
 ## Genesis 36:19
-
-These are the sons of Esau (that is, Edom), and these are their chiefs.
+These were the sons of Esau (that is, Edom), and these were their chiefs.
 
 ## Genesis 36:20
-
-These are the sons of Seir the Horite, the inhabitants of the land: Lotan, Shobal, Zibeon, Anah,
+These were the sons of Seir the Horite, who were living in the region: Lotan, Shobal, Zibeon, Anah,
 
 ## Genesis 36:21
-
-Dishon, Ezer, and Dishan.  
-These are the chiefs descended from the Horites, the sons of Seir in the land of Edom.
+Dishon, Ezer, and Dishan. These were the Horite chiefs, the sons of Seir in the land of Edom.
 
 ## Genesis 36:22
-
-The sons of Lotan were: Hori and Hemam. And Lotan’s sister was Timna.
+The sons of Lotan were Hori and Homam; and Timna was Lotan’s sister.
 
 ## Genesis 36:23
-
-These are the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
+These were the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
 
 ## Genesis 36:24
-
-These are the sons of Zibeon: Aiah and Anah—he is the Anah who found the hot springs in the wilderness when he was pasturing the donkeys of his father Zibeon.
+These were the sons of Zibeon: Aiah and Anah. This is the Anah who discovered the hot springs in the wilderness while he was pasturing the donkeys of his father Zibeon.
 
 ## Genesis 36:25
-
-These are the children of Anah:
-
-Dishon and Oholibamah, the daughter of Anah.
+These were the children of Anah: Dishon and Oholibamah, the daughter of Anah.
 
 ## Genesis 36:26
-
-These are the sons of Dishon: Hemdan, Eshban, Ithran, and Cheran.
+These were the sons of Dishon: Hemdan, Eshban, Ithran, and Keran.
 
 ## Genesis 36:27
-
-These are the sons of Ezer: Bilhan, Zaavan, and Akan.
+These were the sons of Ezer: Bilhan, Zaavan, and Akan.
 
 ## Genesis 36:28
-
-These are the sons of Dishan:
-Uz and Aran.
+These were the sons of Dishan: Uz and Aran.
 
 ## Genesis 36:29
-
-These are the chiefs descended from the Horites: Chief Lotan, Chief Shobal, Chief Zibeon, Chief Anah,
+These were the Horite chiefs: Lotan, Shobal, Zibeon, Anah,
 
 ## Genesis 36:30
-
-Chief Dishon, Chief Ezer, Chief Dishan. These are the chiefs descended from the Horites, according to their various chiefs in the land of Seir.
+Dishon, Ezer, and Dishan. These were the Horite chiefs, according to their divisions, in the land of Seir.
 
 ## Genesis 36:31
-
-Now these are the kings who reigned in the land of Edom before any king reigned over the sons of Israel:
+These were the kings who reigned in the land of Edom before any king reigned over the Israelites.
 
 ## Genesis 36:32
-
-Bela the son of Beor reigned in Edom, and the name of his city was Dinhabah.
+Bela, the son of Beor, reigned in Edom, and the name of his city was Dinhabah.
 
 ## Genesis 36:33
-
-Then Bela died, and Jobab the son of Zerah of Bozrah became king in his place.
+When Bela died, Jobab, the son of Zerah from Bozrah, succeeded him as king.
 
 ## Genesis 36:34
-
-Then Jobab died, and Husham of the land of the Temanites became king in his place.
+When Jobab died, Husham from the land of the Temanites succeeded him as king.
 
 ## Genesis 36:35
-
-Then Husham died, and Hadad the son of Bedad, who defeated Midian in the field of Moab, became king in his place; and the name of his city was Avith.
+When Husham died, Hadad, the son of Bedad, who defeated Midian in the country of Moab, succeeded him as king; his city was named Avith.
 
 ## Genesis 36:36
-
-Then Hadad died, and Samlah of Masrekah became king in his place.
+When Hadad died, Samlah from Masrekah succeeded him as king.
 
 ## Genesis 36:37
-
-Then Samlah died, and Shaul of Rehoboth on the Euphrates River became king in his place.
+When Samlah died, Shaul from Rehoboth on the river succeeded him as king.
 
 ## Genesis 36:38
-
-Then Shaul died, and Baal-hanan the son of Achbor became king in his place.
+When Shaul died, Baal-Hanan, the son of Akbor, succeeded him as king.
 
 ## Genesis 36:39
-
-Then Baal-hanan the son of Achbor died, and Hadar became king in his place;
-
-and the name of his city was Pau,  
-and his wife’s name was Mehetabel, the daughter of Matred, daughter of Mezahab.
+When Baal-Hanan, the son of Akbor, died, Hadar succeeded him as king. His city was named Pau, and his wife’s name was Mehetabel, daughter of Matred, daughter of Mezahab.
 
 ## Genesis 36:40
-
-Now these are the names of the chiefs descended from Esau, according to their families and their places, by their names:
-
-Chief Timna, Chief Alvah, Chief Jetheth,
+These were the names of the chiefs descended from Esau, according to their families and their localities, by their names: chief Timna, chief Alvah, chief Jetheth,
 
 ## Genesis 36:41
-
-Chief Oholibamah, Chief Elah, Chief Pinon,
+chief Oholibamah, chief Elah, chief Pinon,
 
 ## Genesis 36:42
-
-Chief Kenaz, Chief Teman, Chief Mibzar,
+chief Kenaz, chief Teman, chief Mibzar,
 
 ## Genesis 36:43
-
-Chief Magdiel, Chief Iram.  
-These are the chiefs of Edom (that is, Esau, the father of the Edomites), according to their settlements in the land of their possession.
+chief Magdiel, and chief Iram. These were the chiefs of Edom, according to their settlements in the land they occupied. This is the lineage of Esau, the father of the Edomites.

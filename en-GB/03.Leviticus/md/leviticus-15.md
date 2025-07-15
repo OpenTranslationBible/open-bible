@@ -1,101 +1,100 @@
 # Leviticus Chapter 15
 
 ## Leviticus 15:1
-The Lord said to Moses and Aaron,
+The Lord spoke to Moses and Aaron, saying,
 
 ## Leviticus 15:2
-“Speak to the Israelites and say: When any man has a bodily discharge, the discharge is unclean.
+“Speak to the Israelites and say to them: ‘When any man has a discharge from his body, his discharge is unclean.
 
 ## Leviticus 15:3
-Whether it continues to flow or is blocked, it will make him unclean.
+This is his uncleanness in his discharge: whether his body allows its discharge to flow or obstructs it, it is his uncleanness.
 
 ## Leviticus 15:4
-Any bed the man with a discharge lies on will be unclean, and anything he sits on will be unclean.
+Every bed on which the man with the discharge lies shall be unclean, and everything on which he sits shall be unclean.
 
 ## Leviticus 15:5
-Anyone who touches his bed must wash their clothes and bathe with water; they will be unclean until evening.
+Anyone who touches his bed must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:6
-Whoever sits on something the man has sat on must wash their clothes and bathe; they will be unclean until evening.
+Whoever sits on anything that the man with the discharge sat on must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:7
-Anyone who touches the man with the discharge must wash and bathe; they will be unclean until evening.
+Whoever touches the man with the discharge must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:8
-If the man with the discharge spits on someone who is clean, that person must wash and bathe; they will be unclean until evening.
+If the man with the discharge spits on someone who is clean, that person must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:9
-Any saddle the man rides will be unclean.
+Every saddle on which the man with the discharge rides shall be unclean.
 
 ## Leviticus 15:10
-Whoever touches anything under him will be unclean until evening. Anyone who carries such items must wash and bathe.
+Whoever touches anything that was under him shall be unclean until evening, and whoever carries those items must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:11
-Anyone the man touches without rinsing his hands must wash and bathe.
+Anyone whom the man with the discharge touches without having rinsed his hands in water must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:12
-A clay pot the man touches must be broken, and any wooden article must be rinsed with water.
+An earthenware vessel that the man touches must be broken, and any wooden article must be rinsed in water.
 
 ## Leviticus 15:13
-When the man with the discharge is healed, he must wait seven days, wash his clothes, and bathe in fresh water to be clean.
+When the man with the discharge is cleansed from his discharge, he must count off seven days for his cleansing; he must wash his clothes and bathe his body in running water, and he will be clean.
 
 ## Leviticus 15:14
-On the eighth day he must take two doves or two young pigeons and bring them before the Lord to the entrance of the tent of meeting and give them to the priest.
+On the eighth day he must take two turtledoves or two young pigeons and come before the Lord to the entrance of the tent of meeting and give them to the priest.
 
 ## Leviticus 15:15
-The priest shall sacrifice them—one for a sin offering and the other for a burnt offering. In this way the priest makes atonement, and he will be clean.
+The priest shall offer them, one as a sin offering and the other as a burnt offering. In this way, the priest shall make atonement for him before the Lord because of his discharge.
 
 ## Leviticus 15:16
-When a man has an emission of semen, he must bathe his whole body and will be unclean until evening.
+When a man has an emission of semen, he must bathe his whole body in water and be unclean until evening.
 
 ## Leviticus 15:17
-Any clothing or leather that has semen on it must be washed with water, and it will be unclean until evening.
+Any garment or leather on which there is semen must be washed with water and be unclean until evening.
 
 ## Leviticus 15:18
-When a man has sexual relations with a woman and there is an emission, both must bathe and will be unclean until evening.
+If a man has sexual relations with a woman and there is an emission of semen, both must bathe in water and be unclean until evening.
 
 ## Leviticus 15:19
-When a woman has her monthly period, she will be unclean for seven days. Anyone who touches her will be unclean until evening.
+When a woman has a discharge, if her discharge is blood, she shall be in her menstrual impurity for seven days, and whoever touches her shall be unclean until evening.
 
 ## Leviticus 15:20
-Anything she lies or sits on will be unclean.
+Everything on which she lies during her menstrual impurity shall be unclean, and everything on which she sits shall be unclean.
 
 ## Leviticus 15:21
-Anyone who touches her bed must wash and bathe; they will be unclean until evening.
+Anyone who touches her bed must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:22
-Anyone who touches something she has sat on must do the same.
+Whoever touches anything on which she sits must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:23
-If a person touches something that was on the bed or chair, they will be unclean until evening.
+Whether it is the bed or anything she was sitting on, when anyone touches it, they shall be unclean until evening.
 
 ## Leviticus 15:24
-If a man has sexual relations with her during her period, both are unclean for seven days.
+If a man has sexual relations with her and her menstrual impurity is on him, he shall be unclean for seven days, and every bed on which he lies shall be unclean.
 
 ## Leviticus 15:25
-If a woman has a discharge of blood outside her period or if it continues beyond the normal time, she will be unclean as long as the discharge continues.
+If a woman has a discharge of blood for many days, not at the time of her menstrual impurity, or if she has a discharge beyond her period, she shall be unclean as during her menstrual impurity.
 
 ## Leviticus 15:26
-Any bed she lies on or anything she sits on during this time will be unclean.
+Any bed on which she lies during her discharge shall be like her bed at menstruation, and everything on which she sits shall be unclean, like her menstrual impurity.
 
 ## Leviticus 15:27
-Anyone who touches these things will be unclean and must wash and bathe.
+Whoever touches them shall be unclean, and must wash their clothes and bathe in water and be unclean until evening.
 
 ## Leviticus 15:28
-When her discharge stops, she must wait seven days, and then she will be clean.
+When she is cleansed from her discharge, she must count off seven days, and after that she will be clean.
 
 ## Leviticus 15:29
-On the eighth day she must bring two doves or two young pigeons to the priest at the entrance to the tent of meeting.
+On the eighth day she must take two turtledoves or two young pigeons and bring them to the priest at the entrance of the tent of meeting.
 
 ## Leviticus 15:30
-The priest is to sacrifice them, one for a sin offering and one for a burnt offering. In this way, he will make atonement for her.
+The priest shall offer one as a sin offering and the other as a burnt offering. In this way, the priest shall make atonement for her before the Lord because of her impure discharge.
 
 ## Leviticus 15:31
-You must keep the Israelites separate from things that make them unclean so they will not die by defiling My tabernacle.
+You must keep the Israelites separate from their uncleanness, so they do not die in their uncleanness by defiling my dwelling place, which is among them.
 
 ## Leviticus 15:32
-These are the regulations for a man with a discharge, for anyone made unclean by an emission of semen,
+This is the law for a man with a discharge, and for anyone made unclean by an emission of semen,
 
 ## Leviticus 15:33
-for a woman during her period, for anyone with a bodily discharge, male or female, and for a man who has sexual relations with a woman who is unclean.
-
+and for a woman in her menstrual impurity, and for anyone with a discharge, male or female, and for a man who has sexual relations with a woman who is unclean.

@@ -2,168 +2,132 @@
 
 ## Luke 16:1
 
-Now He was also saying to the disciples,  
-“There was a rich man who had a manager, and this manager was reported to him as squandering his possessions.
+Jesus said to His disciples, “There was a wealthy man who had a steward, and this steward was reported to him for squandering his possessions.
 
 ## Luke 16:2
 
-And he called him and said to him,  
-‘What is this I hear about you?  
-Give an accounting of your management, for you can no longer be manager.’
+So he called him and asked, ‘What is this I hear about you? Provide an account of your stewardship, for you can no longer be steward.’
 
 ## Luke 16:3
 
-And the manager said to himself,  
-‘What am I to do, since my master is taking the management away from me?  
-I am not strong enough to dig; I am ashamed to beg.
+The steward said to himself, ‘What shall I do, since my master is taking the stewardship away from me? I am not strong enough to dig; I am too ashamed to beg.
 
 ## Luke 16:4
 
-I know what I will do, so that when I am removed from the management people will welcome me into their homes.’
+I know what I shall do, so that when I am removed from the stewardship, people will welcome me into their homes.’
 
 ## Luke 16:5
 
-And he summoned each one of his master’s debtors, and he began saying to the first,  
-‘How much do you owe my master?’
+So he summoned each of his master’s debtors. He asked the first, ‘How much do you owe my master?’
 
 ## Luke 16:6
 
-And he said, ‘A hundred jugs of oil.’  
-So he said to him, ‘Take your bill, and sit down quickly and write fifty.’
+He replied, ‘A hundred measures of oil.’ The steward said to him, ‘Take your bill, sit down quickly, and write fifty.’
 
 ## Luke 16:7
 
-Then he said to another, ‘And how much do you owe?’  
-And he said, ‘A hundred kors of wheat.’  
-He said to him, ‘Take your bill, and write eighty.’
+Then he asked another, ‘And how much do you owe?’ He replied, ‘A hundred measures of wheat.’ He said to him, ‘Take your bill, and write eighty.’
 
 ## Luke 16:8
 
-And his master praised the unrighteous manager because he had acted shrewdly;  
-for the sons of this age are more shrewd in relation to their own kind than the sons of light.
+The master praised the dishonest steward because he had acted shrewdly; for the children of this world are more shrewd in dealing with their own kind than the children of light.
 
 ## Luke 16:9
 
-And I say to you, make friends for yourselves by means of the wealth of unrighteousness,  
-so that when it is all gone, they will receive you into the eternal dwellings.
+And I tell you, make friends for yourselves by means of worldly wealth, so that when it is gone, they may welcome you into eternal dwellings.
 
 ---
 
 ## Luke 16:10
 
-“The one who is faithful in a very little thing is also faithful in much;  
-and the one who is unrighteous in a very little thing is also unrighteous in much.
+Whoever is faithful with very little is also faithful with much; and whoever is dishonest with very little is also dishonest with much.
 
 ## Luke 16:11
 
-Therefore, if you have not been faithful in the use of unrighteous wealth,  
-who will entrust the true wealth to you?
+If you have not been faithful with worldly wealth, who will entrust true riches to you?
 
 ## Luke 16:12
 
-And if you have not been faithful in the use of that which is another’s,  
-who will give you that which is your own?
+And if you have not been faithful with what belongs to another, who will give you what is your own?
 
 ## Luke 16:13
 
-No servant can serve two masters;  
-for either he will hate the one and love the other,  
-or he will be devoted to one and despise the other.  
-You cannot serve God and wealth.”
+No servant can serve two masters; for either he will hate one and love the other, or he will be devoted to one and despise the other. You cannot serve both God and money.
 
 ---
 
 ## Luke 16:14
 
-Now the Pharisees, who were lovers of money, were listening to all these things and were ridiculing Him.
+The Pharisees, who were lovers of money, heard all these things and were sneering at Him.
 
 ## Luke 16:15
 
-And He said to them,  
-“You are the ones who justify yourselves in the sight of people,  
-but God knows your hearts;  
-for that which is highly esteemed among people is detestable in the sight of God.
+He said to them, “You are the ones who justify yourselves in the sight of others, but God knows your hearts; for what is highly esteemed among people is detestable in God’s sight.
 
 ---
 
 ## Luke 16:16
 
-“The Law and the Prophets were proclaimed until John came;  
-since that time the gospel of the kingdom of God has been preached, and everyone is forcing his way into it.
+The Law and the Prophets were proclaimed until John; since then, the good news of the kingdom of God is being preached, and everyone is forcing their way into it.
 
 ## Luke 16:17
 
-But it is easier for heaven and earth to pass away than for one stroke of a letter of the Law to fail.
+But it is easier for heaven and earth to pass away than for one stroke of a letter in the Law to fail.
 
 ## Luke 16:18
 
-Everyone who divorces his wife and marries another commits adultery,  
-and he who marries one who is divorced from a husband commits adultery.
+Anyone who divorces his wife and marries another commits adultery, and anyone who marries a woman divorced from her husband commits adultery.
 
 ---
 
 ## Luke 16:19
 
-“Now there was a rich man, and he habitually dressed in purple and fine linen,  
-enjoying himself in splendour every day.
+There was a rich man who was dressed in purple and fine linen, and lived in luxury every day.
 
 ## Luke 16:20
 
-And a poor man named Lazarus was laid at his gate, covered with sores,
+At his gate was laid a poor man named Lazarus, covered with sores,
 
 ## Luke 16:21
 
-and longing to be fed from the scraps which fell from the rich man’s table;  
-not only that, the dogs also came and licked his sores.
+and longing to eat what fell from the rich man’s table. Even the dogs came and licked his sores.
 
 ## Luke 16:22
 
-Now it happened that the poor man died and was carried away by the angels to Abraham’s arms;  
-and the rich man also died and was buried.
+The time came when the poor man died and was carried by the angels to Abraham’s side. The rich man also died and was buried.
 
 ## Luke 16:23
 
-And in Hades he raised his eyes, being in torment,  
-and saw Abraham far away and Lazarus in his arms.
+In Hades, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side.
 
 ## Luke 16:24
 
-And he cried out and said,  
-‘Father Abraham, have mercy on me, and send Lazarus  
-so that he may dip the tip of his finger in water and cool off my tongue,  
-for I am in agony in this flame.’
+So he called out, ‘Father Abraham, have mercy on me, and send Lazarus to dip the tip of his finger in water and cool my tongue, for I am in agony in this flame.’
 
 ## Luke 16:25
 
-But Abraham said,  
-‘Child, remember that during your life you received your good things,  
-and likewise Lazarus bad things; but now he is being comforted here, and you are in agony.
+But Abraham said, ‘Son, remember that during your life you received your good things, and Lazarus likewise bad things; but now he is comforted here, and you are in agony.
 
 ## Luke 16:26
 
-And besides all this, between us and you a great chasm has been set,  
-so that those who want to go over from here to you are not able,  
-nor can any people cross over from there to us.’
+And besides all this, between us and you a great chasm has been fixed, so that those who want to cross from here to you cannot, nor can anyone cross from there to us.’
 
 ## Luke 16:27
 
-And he said, ‘Then I request of you, father, that you send him to my father’s house—
+He said, ‘Then I beg you, father, to send him to my father’s house—
 
 ## Luke 16:28
 
-for I have five brothers—in order that he may warn them,  
-so that they will not come to this place of torment as well.’
+for I have five brothers—so that he may warn them, lest they also come to this place of torment.’
 
 ## Luke 16:29
 
-But Abraham _said_, ‘They have Moses and the Prophets; let them hear them.’
+But Abraham said, ‘They have Moses and the Prophets; let them listen to them.’
 
 ## Luke 16:30
 
-But he said, ‘No, father Abraham; but if someone goes to them from the dead, they will repent!’
+He said, ‘No, father Abraham, but if someone from the dead goes to them, they will repent.’
 
 ## Luke 16:31
 
-But he said to him,  
-‘If they do not listen to Moses and the Prophets,  
-they will not be persuaded even if someone rises from the dead.’”
+But he said to him, ‘If they do not listen to Moses and the Prophets, they will not be convinced even if someone rises from the dead.’”

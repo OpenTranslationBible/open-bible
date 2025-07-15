@@ -1,113 +1,85 @@
 # Hebrews Chapter 9
 
 ## Hebrews 9:1
-
-Now even the first covenant had regulations for divine worship and the earthly sanctuary.
+Now the first covenant included regulations for divine worship and an earthly sanctuary.
 
 ## Hebrews 9:2
-
-For a tabernacle was equipped, the outer sanctuary, in which were the lampstand, the table, and the sacred bread; this is called the Holy Place.
+A tabernacle was established, the outer room of which contained the lampstand, the table, and the sacred bread; this area is referred to as the Holy Place.
 
 ## Hebrews 9:3
-
-Behind the second veil there was a tabernacle which is called the Most Holy Place,
+Behind the second curtain was a chamber known as the Most Holy Place,
 
 ## Hebrews 9:4
-
-having a golden altar of incense and the ark of the covenant covered on all sides with gold, in which was a golden jar holding the manna, Aaron’s staff which budded, and the tablets of the covenant;
+which contained a golden altar of incense and the ark of the covenant, covered entirely with gold. Inside this ark were a golden jar of manna, Aaron’s staff that budded, and the stone tablets of the covenant.
 
 ## Hebrews 9:5
-
-and above it were the cherubim of glory overshadowing the atoning cover; but about these things we cannot now speak in detail.
+Above the ark were the cherubim of glory, overshadowing the atonement cover. However, we cannot discuss these matters in detail at this time.
 
 ## Hebrews 9:6
-
-Now when these things have been so prepared, the priests are continually entering the outer tabernacle, performing the divine worship,
+When everything was arranged in this manner, the priests regularly entered the outer room to perform their duties.
 
 ## Hebrews 9:7
-
-but into the second, only the high priest enters once a year, not without taking blood, which he offers for himself and for the sins of the people committed in ignorance.
+But only the high priest entered the inner room, and that only once a year, and never without blood, which he offered for himself and for the sins the people had committed in ignorance.
 
 ## Hebrews 9:8
-
-The Holy Spirit is signifying this, that the way into the holy place has not yet been disclosed while the outer tabernacle is still standing,
+The Holy Spirit was indicating that the way into the Most Holy Place had not yet been revealed while the first tabernacle was still standing.
 
 ## Hebrews 9:9
-
-which is a symbol for the present time. Accordingly both gifts and sacrifices are offered which cannot make the worshipper perfect in conscience,
+This serves as a symbol for the present time, showing that the gifts and sacrifices being offered were unable to perfect the conscience of the worshipper.
 
 ## Hebrews 9:10
-
-since they relate only to food, drink, and various washings, regulations for the body imposed until a time of reformation.
+These are merely regulations concerning food, drink, and various ceremonial washings—external ordinances imposed until the time of reformation.
 
 ## Hebrews 9:11
-
-But when Christ appeared as a high priest of the good things having come, He entered through the greater and more perfect tabernacle, not made by hands, that is, not of this creation;
+But when Christ came as high priest of the good things that have come, he passed through the greater and more perfect tabernacle that is not made by human hands, that is, not of this creation.
 
 ## Hebrews 9:12
-
-and not through the blood of goats and calves, but through His own blood He entered the holy place once for all time, having obtained eternal redemption.
+He did not enter by means of the blood of goats and calves, but by his own blood, he entered the Most Holy Place once for all, securing eternal redemption.
 
 ## Hebrews 9:13
-
-For if the blood of goats and bulls, and the ashes of a heifer sprinkling those who have been defiled, sanctify for the cleansing of the flesh,
+For if the blood of goats and bulls and the ashes of a heifer sprinkled on those who are ceremonially unclean sanctify them so that they are outwardly clean,
 
 ## Hebrews 9:14
-
-how much more will the blood of Christ, who through the eternal Spirit offered Himself without blemish to God, cleanse your conscience from dead works to serve the living God?
+how much more will the blood of Christ, who through the eternal Spirit offered himself unblemished to God, cleanse our consciences from acts that lead to death, so that we may serve the living God!
 
 ## Hebrews 9:15
-
-For this reason He is the mediator of a new covenant, so that, since a death has taken place for the redemption of the violations that were committed under the first covenant, those who have been called may receive the promise of the eternal inheritance.
+For this reason, Christ is the mediator of a new covenant, so that those who are called may receive the promised eternal inheritance, now that he has died as a ransom to set them free from the sins committed under the first covenant.
 
 ## Hebrews 9:16
-
-For where there is a covenant, there must of necessity be the death of the one who made it.
+In the case of a will, it is necessary to establish the death of the one who made it,
 
 ## Hebrews 9:17
-
-For a covenant is valid only when people are dead, for it is never in force while the one who made it lives.
+because a will is only in effect when someone has died; it is never valid while the one who made it is alive.
 
 ## Hebrews 9:18
-
-Therefore even the first covenant was not inaugurated without blood.
+This is why even the first covenant was not inaugurated without blood.
 
 ## Hebrews 9:19
-
-For when every commandment had been spoken by Moses to all the people according to the Law, he took the blood of the calves and the goats, with water and scarlet wool and hyssop, and sprinkled both the book itself and all the people,
+When Moses had proclaimed every commandment of the law to all the people, he took the blood of calves and goats, with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people.
 
 ## Hebrews 9:20
-
-saying, “This is the blood of the covenant which God commanded you.”
+He said, “This is the blood of the covenant, which God has commanded you to keep.”
 
 ## Hebrews 9:21
-
-And in the same way he sprinkled both the tabernacle and all the vessels of the ministry with the blood.
+In the same way, he sprinkled with the blood both the tabernacle and all the vessels used in its ceremonies.
 
 ## Hebrews 9:22
-
-And almost all things are cleansed with blood, according to the Law, and without the shedding of blood there is no forgiveness.
+Indeed, according to the law, almost everything is cleansed with blood, and without the shedding of blood there is no forgiveness.
 
 ## Hebrews 9:23
-
-Therefore it was necessary for the copies of the things in the heavens to be cleansed with these things, but the heavenly things themselves with better sacrifices than these.
+Thus, it was necessary for the copies of the heavenly things to be purified with these sacrifices, but the heavenly things themselves with better sacrifices than these.
 
 ## Hebrews 9:24
-
-For Christ did not enter a holy place made by hands, a mere copy of the true one, but into heaven itself, now to appear in the presence of God for us;
+For Christ did not enter a sanctuary made by human hands, a mere copy of the true one; he entered heaven itself, now to appear in the presence of God for us.
 
 ## Hebrews 9:25
-
-nor was it that He would offer Himself often, as the high priest enters the holy place year by year with blood that is not his own.
+Nor did he enter heaven to offer himself repeatedly, as the high priest enters the Most Holy Place every year with blood that is not his own.
 
 ## Hebrews 9:26
-
-Otherwise, He would have needed to suffer often since the foundation of the world; but now once at the consummation of the ages He has been revealed to put away sin by the sacrifice of Himself.
+Otherwise, Christ would have had to suffer many times since the foundation of the world. But now, at the culmination of the ages, he has appeared once for all to do away with sin by the sacrifice of himself.
 
 ## Hebrews 9:27
-
-And just as it is destined for people to die once, and after this comes judgment,
+Just as people are destined to die once, and after that to face judgement,
 
 ## Hebrews 9:28
-
-so Christ also, having been offered once to bear the sins of many, will appear a second time for salvation without reference to sin, to those who eagerly await Him.
+so Christ was sacrificed once to bear the sins of many; and he will appear a second time, not to deal with sin, but to bring salvation to those who are eagerly waiting for him.

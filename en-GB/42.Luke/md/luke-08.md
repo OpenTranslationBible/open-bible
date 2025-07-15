@@ -2,310 +2,245 @@
 
 ## Luke 8:1
 
-Soon afterward, He began going around from one city and village to another,  
-proclaiming and preaching the kingdom of God; and the twelve were with Him,
+Shortly after, Jesus went around from one city and village to another, proclaiming the good news of the kingdom of God. The Twelve were with him,
 
 ## Luke 8:2
 
-and also some women who had been healed of evil spirits and diseases:  
-Mary, who was called Magdalene, from whom seven demons had gone out,
+and also some women who had been healed of evil spirits and illnesses: Mary called Magdalene, from whom seven demons had come out,
 
 ## Luke 8:3
 
-and Joanna the wife of Chuza, Herod’s steward, and Susanna, and many others  
-who were contributing to their support out of their private means.
+Joanna, the wife of Chuza, Herod’s steward; Susanna; and many others who were supporting them out of their own resources.
 
 ---
 
 ## Luke 8:4
 
-Now when a large crowd was gathering together, and those from the various cities were journeying to Him,  
-He spoke by way of a parable:
+As a large crowd was gathering and people from various towns were coming to Jesus, he spoke to them in a parable:
 
 ## Luke 8:5
 
-“The sower went out to sow his seed; and as he sowed,  
-some fell beside the road, and it was trampled underfoot, and the birds of the sky ate it up.
+“A sower went out to sow his seed. As he sowed, some fell along the path; it was trampled underfoot, and the birds of the air ate it up.
 
 ## Luke 8:6
 
-Other seed fell on rocky soil, and when it came up, it withered away because it had no moisture.
+Some fell on rocky ground, and when it sprang up, it withered because it lacked moisture.
 
 ## Luke 8:7
 
-Other seed fell among the thorns; and the thorns grew up with it and choked it out.
+Other seed fell among thorns, which grew up with it and choked it.
 
 ## Luke 8:8
 
-And yet other seed fell into the good soil, and grew up, and produced a crop a hundred times as much.”  
-As He said these things, He would call out, “The one who has ears to hear, let him hear!”
+Still other seed fell on good soil. It grew up and produced a crop a hundred times more than was sown.” As he said this, he called out, “Whoever has ears to hear, let them hear.”
 
 ---
 
 ## Luke 8:9
 
-Now His disciples began asking Him what this parable meant.
+His disciples asked him what this parable meant.
 
 ## Luke 8:10
 
-And He said,  
-“To you it has been granted to know the mysteries of the kingdom of God,  
-but to the rest they are told in parables,  
-so that:
+He replied, “To you it has been given to know the secrets of the kingdom of God, but to others I speak in parables, so that,
 
-> while seeing they may not see,
-> and while hearing they may not understand.
+> ‘though seeing, they may not see;
+> though hearing, they may not understand.’
 
 ## Luke 8:11
 
-Now this is the parable: the seed is the word of God.
+“This is the meaning of the parable: The seed is the word of God.
 
 ## Luke 8:12
 
-Those beside the road are the ones who have heard;  
-then the devil comes and takes the word from their heart,  
-so that they will not believe and be saved.
+Those along the path are the ones who hear, and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.
 
 ## Luke 8:13
 
-Those on the rocky soil are the ones who, when they hear, receive the word with joy;  
-and yet these have no firm root; they believe for a while, and in a time of temptation they fall away.
+Those on rocky ground are the ones who receive the word with joy when they hear it, but they have no root. They believe for a while, but in a time of testing they fall away.
 
 ## Luke 8:14
 
-The seed which fell among the thorns, these are the ones who have heard,  
-and as they go on their way they are choked by worries, riches, and pleasures of life,  
-and they bring no fruit to maturity.
+The seed that fell among thorns stands for those who hear, but as they go on their way, they are choked by life’s worries, riches, and pleasures, and they do not mature.
 
 ## Luke 8:15
 
-But the seed in the good soil—these are the ones who have heard the word with a good and virtuous heart,  
-and hold it firmly, and produce fruit with perseverance.
+But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop.
 
 ---
 
 ## Luke 8:16
 
-“Now no one lights a lamp and covers it over with a container, or puts it under a bed;  
-but he puts it on a lampstand, so that those who come in may see the light.
+“No one lights a lamp and covers it with a jar or puts it under a bed. Instead, they put it on a lampstand, so that those who come in can see the light.
 
 ## Luke 8:17
 
-For nothing is concealed that will not become evident, nor anything hidden that will not be known and come to light.
+For there is nothing hidden that will not be disclosed, and nothing concealed that will not be known and brought to light.
 
 ## Luke 8:18
 
-So take care how you listen;  
-for whoever has, to him more will be given; and whoever does not have,  
-even what he thinks he has will be taken away from him.”
+Therefore, consider carefully how you listen. Whoever has will be given more; whoever does not have, even what they think they have will be taken from them.”
 
 ---
 
 ## Luke 8:19
 
-Now His mother and brothers came to Him,  
-and they were unable to get to Him because of the crowd.
+Now Jesus’ mother and brothers came to see him, but they could not get near him because of the crowd.
 
 ## Luke 8:20
 
-And it was reported to Him,  
-“Your mother and Your brothers are standing outside, wanting to see You.”
+Someone told him, “Your mother and brothers are standing outside, wanting to see you.”
 
 ## Luke 8:21
 
-But He answered and said to them,  
-“My mother and My brothers are these who hear the word of God and do it.”
+He replied, “My mother and brothers are those who hear God’s word and do it.”
 
 ---
 
 ## Luke 8:22
 
-Now on one of those days Jesus and His disciples got into a boat,  
-and He said to them,  
-“Let’s cross over to the other side of the lake.”  
-So they launched out.
+One day Jesus said to his disciples, “Let us go over to the other side of the lake.” So they got into a boat and set out.
 
 ## Luke 8:23
 
-But as they were sailing along, He fell asleep;  
-and a fierce gale of wind descended on the lake, and they began to be swamped and to be in danger.
+As they sailed, he fell asleep. A squall came down on the lake, so that the boat was being swamped, and they were in danger.
 
 ## Luke 8:24
 
-They came up to Him and woke Him, saying,  
-“Master, Master, we are perishing!”  
-And He got up and rebuked the wind and the surging waves, and they stopped, and it became calm.
+The disciples went and woke him, saying, “Master, Master, we’re going to drown!” He got up and rebuked the wind and the raging waters; the storm subsided, and all was calm.
 
 ## Luke 8:25
 
-And He said to them,  
-“Where is your faith?”  
-But they were fearful and amazed, saying to one another,  
-“Who then is this, that He commands even the winds and the water, and they obey Him?”
+“Where is your faith?” he asked his disciples. In fear and amazement, they asked one another, “Who is this? He commands even the winds and the water, and they obey him.”
 
 ---
 
 ## Luke 8:26
 
-Then they sailed to the region of the Gerasenes, which is opposite Galilee.
+They sailed to the region of the Gerasenes, which is across the lake from Galilee.
 
 ## Luke 8:27
 
-And when He stepped out onto the land,  
-a man from the city who was possessed with demons met Him;  
-and he had not put on any clothing for a long time, and was not living in a house, but in the tombs.
+When Jesus stepped ashore, he was met by a demon-possessed man from the town. For a long time, this man had not worn clothes or lived in a house, but had lived in the tombs.
 
 ## Luke 8:28
 
-And seeing Jesus, he cried out and fell down before Him, and said with a loud voice,  
-“What business do You have with me, Jesus, Son of the Most High God?  
-I beg You, do not torment me!”
+When he saw Jesus, he cried out and fell at his feet, shouting at the top of his voice, “What do you want with me, Jesus, Son of the Most High God? I beg you, don’t torture me!”
 
 ## Luke 8:29
 
-For He had already commanded the unclean spirit to come out of the man.  
-For it had seized him many times;  
-and he was bound with chains and shackles and kept under guard,  
-and yet he would break the restraints and be driven by the demon into the deserts.
+For Jesus had commanded the impure spirit to come out of the man. Many times it had seized him, and though he was chained hand and foot and kept under guard, he had broken his chains and had been driven by the demon into solitary places.
 
 ## Luke 8:30
 
-And Jesus asked him,  
-“What is your name?”  
-And he said,  
-“Legion”; because many demons had entered him.
+Jesus asked him, “What is your name?” “Legion,” he replied, because many demons had gone into him.
 
 ## Luke 8:31
 
-And they were begging Him not to command them to go away into the abyss.
+And they begged Jesus repeatedly not to order them to go into the Abyss.
 
 ## Luke 8:32
 
-Now there was a herd of many pigs feeding there on the mountain;  
-and the demons begged Him to permit them to enter the pigs.  
-And He gave them permission.
+A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into the pigs, and he gave them permission.
 
 ## Luke 8:33
 
-And the demons came out of the man and entered the pigs;  
-and the herd rushed down the steep bank into the lake and was drowned.
+When the demons came out of the man, they went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.
 
 ---
 
 ## Luke 8:34
 
-Now when the herdsmen saw what had happened, they ran away and reported it in the city and in the countryside.
+When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside,
 
 ## Luke 8:35
 
-And the people came out to see what had happened;  
-and they came to Jesus and found the man from whom the demons had gone out,  
-sitting down at the feet of Jesus, clothed and in his right mind; and they became frightened.
+and the people went out to see what had happened. When they came to Jesus, they found the man from whom the demons had gone out, sitting at Jesus’ feet, dressed and in his right mind; and they were afraid.
 
 ## Luke 8:36
 
-Those who had seen everything reported to them how the man who had been demon-possessed had been made well.
+Those who had seen it told the people how the demon-possessed man had been cured.
 
 ## Luke 8:37
 
-And all the people of the region of the Gerasenes asked Him to leave them, because they were overwhelmed by great fear;  
-and He got into a boat and returned.
+Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overcome with fear. So he got into the boat and left.
 
 ## Luke 8:38
 
-But the man from whom the demons had gone out was begging Him that he might accompany Him;  
-but He sent him away, saying,
+The man from whom the demons had gone out begged to go with him, but Jesus sent him away, saying,
 
 ## Luke 8:39
 
-“Return to your home and describe what great things God has done for you.”  
-So he went away, proclaiming throughout the city what great things Jesus had done for him.
+“Return home and tell how much God has done for you.” So the man went away and told all over town how much Jesus had done for him.
 
 ---
 
 ## Luke 8:40
 
-Now as Jesus was returning, the people welcomed Him, for they had all been waiting for Him.
+Now when Jesus returned, a crowd welcomed him, for they were all expecting him.
 
 ## Luke 8:41
 
-And a man named Jairus came, and he was an official of the synagogue;  
-and he fell at Jesus’ feet and began urging Him to come to his house;
+Then a man named Jairus, a synagogue leader, came and fell at Jesus’ feet, pleading with him to come to his house
 
 ## Luke 8:42
 
-for he had an only daughter, about twelve years old, and she was dying.  
-But as He went, the crowds were pressing against Him.
+because his only daughter, a girl of about twelve, was dying. As Jesus was on his way, the crowds almost crushed him.
 
 ## Luke 8:43
 
-And a woman who had suffered a haemorrhage for twelve years,  
-and had spent all her money on doctors and could not be healed by anyone,
+And a woman was there who had been subject to bleeding for twelve years, but no one could heal her.
 
 ## Luke 8:44
 
-came up behind Him and touched the fringe of His cloak,  
-and immediately her bleeding stopped.
+She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped.
 
 ## Luke 8:45
 
-And Jesus said,  
-“Who is the one who touched Me?”  
-And while they were all denying it, Peter said,  
-“Master, the people are crowding and pressing in on You!”
+“Who touched me?” Jesus asked. When they all denied it, Peter said, “Master, the people are crowding and pressing against you.”
 
 ## Luke 8:46
 
-But Jesus said,  
-“Someone did touch Me, for I was aware that power had gone out of Me.”
+But Jesus said, “Someone touched me; I know that power has gone out from me.”
 
 ## Luke 8:47
 
-Now when the woman saw that she had not escaped notice, she came trembling and fell down before Him,  
-and admitted in the presence of all the people the reason why she had touched Him,  
-and how she had been immediately healed.
+Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she told why she had touched him and how she had been instantly healed.
 
 ## Luke 8:48
 
-And He said to her,  
-“Daughter, your faith has made you well; go in peace.”
+Then he said to her, “Daughter, your faith has healed you. Go in peace.”
 
 ---
 
 ## Luke 8:49
 
-While He was still speaking, someone _came_ from the house of the synagogue official, saying,  
-“Your daughter has died; do not trouble the Teacher anymore.”
+While Jesus was still speaking, someone came from the house of Jairus, the synagogue leader. “Your daughter is dead,” he said. “Don’t bother the teacher anymore.”
 
 ## Luke 8:50
 
-But when Jesus heard this, He responded to him,  
-“Do not be afraid, only believe, and she will be made well.”
+Hearing this, Jesus said to Jairus, “Don’t be afraid; just believe, and she will be healed.”
 
 ## Luke 8:51
 
-When He came to the house, He did not allow anyone to enter with Him,  
-except Peter, John, and James, and the girl’s father and mother.
+When he arrived at the house of Jairus, he did not let anyone go in with him except Peter, John, and James, and the child’s father and mother.
 
 ## Luke 8:52
 
-Now they were all weeping and mourning for her;  
-but He said,  
-“Stop weeping, for she has not died, but is asleep.”
+Meanwhile, all the people were wailing and mourning for her. “Stop wailing,” Jesus said. “She is not dead but asleep.”
 
 ## Luke 8:53
 
-And they began laughing at Him, knowing that she had died.
+They laughed at him, knowing that she was dead.
 
 ## Luke 8:54
 
-He, however, took her by the hand and spoke forcefully, saying,  
-“Child, arise!”
+But he took her by the hand and said, “My child, get up!”
 
 ## Luke 8:55
 
-And her spirit returned, and she got up immediately; and He ordered that something be given her to eat.
+Her spirit returned, and at once she stood up. Then Jesus told them to give her something to eat.
 
 ## Luke 8:56
 
-Her parents were amazed; but He instructed them to tell no one what had happened.
+Her parents were astonished, but he ordered them not to tell anyone what had happened.

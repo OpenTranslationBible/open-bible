@@ -4,92 +4,91 @@
 In the beginning, God created the heavens and the earth.
 
 ## Genesis 1:2
-The earth was empty and without shape, with darkness covering the deep waters, and the Spirit of God was moving over the surface.
+Now the earth was a formless void, and darkness covered the surface of the deep, while the Spirit of God was hovering over the waters.
 
 ## Genesis 1:3
-Then God said, "Let there be light," and light appeared.
+And God said, “Let there be light,” and there was light.
 
 ## Genesis 1:4
 God saw that the light was good, and He separated the light from the darkness.
 
 ## Genesis 1:5
-God named the light 'day', and the darkness He named 'night'. There was evening, and there was morning—the first day.
+God called the light “day,” and the darkness He called “night.” And there was evening, and there was morning—the first day.
 
 ## Genesis 1:6
-God said, "Let there be a space between the waters to divide the water below from the water above."
+Then God said, “Let there be an expanse between the waters to separate water from water.”
 
 ## Genesis 1:7
-So God made the expanse and separated the water under it from the water above. And it was so.
+So God made the expanse and separated the waters beneath it from the waters above it. And it was so.
 
 ## Genesis 1:8
-God called the expanse 'sky'. There was evening, and there was morning—the second day.
+God called the expanse “sky.” And there was evening, and there was morning—the second day.
 
 ## Genesis 1:9
-God said, "Let the waters under the sky be gathered together so that dry land may appear." And it happened.
+And God said, “Let the waters under the sky be gathered to one place, and let dry ground appear.” And it was so.
 
 ## Genesis 1:10
-God named the dry land 'earth', and the gathered waters He called 'seas'. And God saw that it was good.
+God called the dry ground “land,” and the gathered waters He called “seas.” And God saw that it was good.
 
 ## Genesis 1:11
-Then God said, "Let the earth grow vegetation—seed-bearing plants and fruit trees, each producing according to their kind." And it was so.
+Then God said, “Let the land produce vegetation: seed-bearing plants and trees on the land that bear fruit with seed in it, each according to its kind.” And it was so.
 
 ## Genesis 1:12
-The land produced plants bearing seed, and trees bearing fruit with seed in it, each by their kind. And God saw that it was good.
+The land produced vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good.
 
 ## Genesis 1:13
-There was evening, and there was morning—the third day.
+And there was evening, and there was morning—the third day.
 
 ## Genesis 1:14
-God said, "Let there be lights in the sky to separate day from night, and let them mark seasons, days, and years.
+And God said, “Let there be lights in the expanse of the sky to separate the day from the night, and let them serve as signs to mark sacred times, and for days and years,
 
 ## Genesis 1:15
-and let them shine upon the earth." And it was so.
+and let them be lights in the expanse of the sky to give light on the earth.” And it was so.
 
 ## Genesis 1:16
-God made two great lights—the greater to govern the day, the lesser to govern the night. He also made the stars.
+God made two great lights—the greater light to govern the day and the lesser light to govern the night. He also made the stars.
 
 ## Genesis 1:17
-God set them in the sky to shine on the earth,
+God set them in the expanse of the sky to give light on the earth,
 
 ## Genesis 1:18
-to govern day and night, and to separate light from darkness. And God saw that it was good.
+to govern the day and the night, and to separate the light from the darkness. And God saw that it was good.
 
 ## Genesis 1:19
-There was evening, and there was morning—the fourth day.
+And there was evening, and there was morning—the fourth day.
 
 ## Genesis 1:20
-God said, "Let the waters be filled with living creatures, and let birds fly across the sky above the earth."
+And God said, “Let the waters teem with living creatures, and let birds fly above the earth across the expanse of the sky.”
 
 ## Genesis 1:21
-So God created the great sea creatures and every kind of living being in the waters, and every kind of winged bird. And God saw that it was good.
+So God created the great sea creatures and every living thing with which the waters teem and that moves about in it, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
 
 ## Genesis 1:22
-Then God blessed them and said, "Be fruitful and multiply, and fill the seas; let the birds multiply on the earth."
+God blessed them, saying, “Be fruitful and multiply, and fill the waters in the seas, and let the birds multiply on the earth.”
 
 ## Genesis 1:23
-There was evening, and there was morning—the fifth day.
+And there was evening, and there was morning—the fifth day.
 
 ## Genesis 1:24
-God said, "Let the land produce living creatures according to their kinds—livestock, crawling things, and wild animals." And it was so.
+And God said, “Let the land produce living creatures according to their kinds: the livestock, the creatures that move along the ground, and the wild animals, each according to its kind.” And it was so.
 
 ## Genesis 1:25
-God made the wild animals, livestock, and every creature that moves along the ground, each according to its kind. And God saw that it was good.
+God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God saw that it was good.
 
 ## Genesis 1:26
-Then God said, "Let Us make human beings in Our image, to be like Us. They will rule over the fish, the birds, the livestock, the whole earth, and all the creatures that move along the ground."
+Then God said, “Let us make mankind in our image, in our likeness, so that they may rule over the fish in the sea and the birds in the sky, over the livestock and all the wild animals, and over all the creatures that move along the ground.”
 
 ## Genesis 1:27
-So God created humanity in His own image; in the image of God He created them—male and female He created them.
+So God created mankind in His own image, in the image of God He created them; male and female He created them.
 
 ## Genesis 1:28
-God blessed them and said, "Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish, the birds, and every living thing that moves on the earth."
+God blessed them and said to them, “Be fruitful and increase in number; fill the earth and subdue it. Rule over the fish in the sea and the birds in the sky and over every living creature that moves on the ground.”
 
 ## Genesis 1:29
-Then God said, "Look, I give you every seed-bearing plant on the entire earth and every tree that has fruit with seed in it. They will be yours for food.
+Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.
 
 ## Genesis 1:30
-And to all the animals and birds and everything that has breath, I give every green plant for food." And it was so.
+And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
 
 ## Genesis 1:31
-God looked over everything He had made, and it was very good indeed. There was evening, and there was morning—the sixth day.
-
+God saw all that He had made, and it was very good. And there was evening, and there was morning—the sixth day.

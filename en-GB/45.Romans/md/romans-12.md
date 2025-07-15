@@ -2,55 +2,55 @@
 
 ## Romans 12:1
 
-Therefore I urge you, brothers and sisters, by the mercies of God, to present your bodies as a living and holy sacrifice, acceptable to God, which is your spiritual service of worship.
+Therefore, I urge you, brothers and sisters, by the mercies of God, to offer your bodies as a living sacrifice, holy and acceptable to God—this is your true and spiritual act of worship.
 
 ## Romans 12:2
 
-And do not be conformed to this world, but be transformed by the renewing of your mind, so that you may prove what the will of God is, that which is good and acceptable and perfect.
+Do not be conformed to the pattern of this world, but be transformed by the renewing of your mind. This way, you will be able to discern what God’s will is—his good, acceptable, and perfect will.
 
 ## Romans 12:3
 
-For through the grace given to me I say to everyone among you not to think more highly of himself than he ought to think, but to think so as to have sound judgement, as God has allotted to each a measure of faith.
+For by the grace given to me, I say to every one of you: Do not think of yourself more highly than you should, but rather think with sober judgment, in accordance with the measure of faith God has distributed to each of you.
 
 ## Romans 12:4
 
-For just as we have many parts in one body and all the body’s parts do not have the same function,
+Just as we have many parts in one body, and these parts do not all have the same function,
 
 ## Romans 12:5
 
-So we, who are many, are one body in Christ, and individually parts of one another.
+so in Christ we, though many, form one body, and each member belongs to all the others.
 
 ## Romans 12:6
 
-However, since we have gifts that differ according to the grace given to us, each of us is to use them properly: if prophecy, in proportion to one’s faith;
+We have different gifts, according to the grace given to each of us. If your gift is prophecy, then prophesy in accordance with your faith;
 
 ## Romans 12:7
 
-If service, in the act of serving; or the one who teaches, in the act of teaching;
+if it is service, then serve; if it is teaching, then teach;
 
 ## Romans 12:8
 
-Or the one who exhorts, in the work of exhortation; the one who gives, with generosity; the one who leads, with diligence; the one who shows mercy, with cheerfulness.
+if it is to encourage, then give encouragement; if it is giving, give generously; if it is to lead, do so with diligence; if it is to show mercy, do it with cheerfulness.
 
 ## Romans 12:9
 
-Love must be free of hypocrisy. Detest what is evil; cling to what is good.
+Love must be sincere and free of hypocrisy. Detest what is evil; cling to what is good.
 
 ## Romans 12:10
 
-Be devoted to one another in brotherly love; give preference to one another in honour,
+Be devoted to one another in brotherly love. Honour one another above yourselves.
 
 ## Romans 12:11
 
-Not lagging behind in diligence, fervent in spirit, serving the Lord;
+Do not be lacking in zeal, but keep your spiritual fervour, serving the Lord.
 
 ## Romans 12:12
 
-Rejoicing in hope, persevering in tribulation, devoted to prayer,
+Rejoice in hope, be patient in affliction, and faithful in prayer.
 
 ## Romans 12:13
 
-Contributing to the needs of the saints, practicing hospitality.
+Contribute to the needs of the saints and practise hospitality.
 
 ## Romans 12:14
 
@@ -58,30 +58,31 @@ Bless those who persecute you; bless and do not curse.
 
 ## Romans 12:15
 
-Rejoice with those who rejoice, and weep with those who weep.
+Rejoice with those who rejoice; weep with those who weep.
 
 ## Romans 12:16
 
-Be of the same mind toward one another; do not be haughty in mind, but associate with the lowly. Do not be wise in your own estimation.
+Live in harmony with one another. Do not be proud, but be willing to associate with people of low position. Do not be wise in your own estimation.
 
 ## Romans 12:17
 
-Never repay evil for evil to anyone. Respect what is right in the sight of all people.
+Do not repay anyone evil for evil. Be careful to do what is right in the sight of everyone.
 
 ## Romans 12:18
 
-If possible, so far as it depends on you, be at peace with all people.
+If it is possible, as far as it depends on you, live at peace with everyone.
 
 ## Romans 12:19
 
-Never take your own revenge, beloved, but leave room for the wrath of God, for it is written:  
-“Vengeance is Mine, I will repay,” says the Lord.
+Do not take revenge, my dear friends, but leave room for God’s wrath, for it is written: “Vengeance is mine; I will repay,” says the Lord.
 
 ## Romans 12:20
 
-> “But if your enemy is hungry, feed him;  
-> If he is thirsty, give him a drink;  
-> For in so doing you will heap burning coals on his head.”
+On the contrary:
+
+> “If your enemy is hungry, feed him;
+> if he is thirsty, give him something to drink.
+> In doing this, you will heap burning coals on his head.”
 
 ## Romans 12:21
 

@@ -2,133 +2,133 @@
 
 ## Job 12:1
 
-Then Job responded,
+Then Job answered,
 
 ## Job 12:2
 
-> “Truly then you are the people,  
-> And with you wisdom will die!
+> “Surely, you are the people,
+> and wisdom will perish with you!
 
 ## Job 12:3
 
-> But I have intelligence as well as you;  
-> I am not inferior to you.  
-> And who does not know such things as these?
+> But I have understanding as well as you;
+> I am not beneath you.
+> Who does not know such things as these?
 
 ---
 
 ## Job 12:4
 
-> I am a joke to my friends,  
-> One who called on God and He answered him;  
-> The just and blameless man is a joke.
+> I have become a joke to my friends,
+> I who called upon God and was answered—
+> a just and blameless man has become a joke.
 
 ## Job 12:5
 
-> He who is at ease holds disaster in contempt,  
-> As prepared for those whose feet slip.
+> Those who are at ease hold calamity in contempt,
+> as it is prepared for those whose feet are slipping.
 
 ## Job 12:6
 
-> The tents of the destroyers prosper,  
-> And those who provoke God are secure,  
-> Whom God brings into their power.
+> The tents of robbers are at peace,
+> and those who provoke God are secure,
+> whom God has brought into their power.
 
 ---
 
 ## Job 12:7
 
-> “But just ask the animals, and they will instruct you;  
-> And the birds of the sky, and they will tell you.
+> “But ask the animals, and they will teach you;
+> or the birds in the sky, and they will inform you.
 
 ## Job 12:8
 
-> Or speak to the earth, and it will instruct you;  
-> And let the fish of the sea tell you.
+> Or speak to the earth, and it will teach you;
+> and let the fish of the sea declare to you.
 
 ## Job 12:9
 
-> Who among all these does not know  
-> That the hand of the Lord has done this,
+> Who among all these does not know
+> that the hand of the Lord has done this?
 
 ## Job 12:10
 
-> In whose hand is the life of every living thing,  
-> And the breath of all mankind?
+> In His hand is the life of every creature
+> and the breath of all humanity.
 
 ## Job 12:11
 
-> Does the ear not put words to the test,  
-> As the palate tastes its food?
+> Does the ear not test words
+> as the palate tastes food?
 
 ## Job 12:12
 
-> Wisdom is with the aged,  
-> And understanding in length of days.
+> Wisdom is with the aged,
+> and with long life comes understanding.
 
 ---
 
 ## Job 12:13
 
-> With Him are wisdom and might;  
-> To Him belong counsel and understanding.
+> “To Him belong wisdom and might;
+> counsel and understanding are His.
 
 ## Job 12:14
 
-> Behold, He tears down, and it cannot be rebuilt;  
-> He imprisons a person, and there is no release.
+> What He breaks down cannot be rebuilt;
+> the person He imprisons cannot be released.
 
 ## Job 12:15
 
-> Behold, He restrains the waters, and they dry up;  
-> And He sends them out, and they inundate the earth.
+> If He restrains the waters, they dry up;
+> if He releases them, they overwhelm the earth.
 
 ## Job 12:16
 
-> Strength and sound wisdom are with Him.  
-> One who goes astray and one who leads away belong to Him.
+> To Him belong strength and sound wisdom;
+> both the deceived and the deceiver are His.
 
 ## Job 12:17
 
-> He makes counsellors walk barefoot,  
-> And makes fools of judges.
+> He leads counsellors away barefoot
+> and makes judges into fools.
 
 ## Job 12:18
 
-> He loosens the binding of kings,  
-> And binds their waist with a belt.
+> He removes the shackles of kings
+> and binds a loincloth around their waist.
 
 ## Job 12:19
 
-> He makes priests walk barefoot,  
-> And overthrows the secure.
+> He leads priests away barefoot
+> and overthrows those long established.
 
 ## Job 12:20
 
-> He removes the speech from the trusted,  
-> And takes away the discernment of the elders.
+> He silences the speech of trusted advisers
+> and removes the discernment of elders.
 
 ## Job 12:21
 
-> He pours contempt on nobles,  
-> And loosens the belt of the strong.
+> He pours contempt upon nobles
+> and loosens the belt of the mighty.
 
 ## Job 12:22
 
-> He reveals mysteries from the darkness,  
-> And brings the deep darkness into light.
+> He reveals deep things from the darkness
+> and brings the hidden darkness into light.
 
 ## Job 12:23
 
-> He makes the nations great, then destroys them;  
-> He enlarges the nations, then leads them away.
+> He makes nations great, then destroys them;
+> He enlarges nations, then disperses them.
 
 ## Job 12:24
 
-> He deprives the leaders of the earth’s people of intelligence,  
-> And makes them wander in a pathless wasteland.
+> He deprives the leaders of the earth of their reason
+> and makes them wander in a trackless wasteland.
 
 ## Job 12:25
 
-> They grope in darkness with no light,  
-> And He makes them stagger like a drunken person.
+> They grope in darkness without light;
+> He makes them stagger like drunkards.

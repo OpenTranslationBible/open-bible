@@ -2,209 +2,143 @@
 
 ## Ezra 10:1
 
-Now while Ezra was praying and making confession, weeping and prostrating himself before the house of God,  
-a very large assembly of men, women, and children gathered to him from Israel;  
-for the people wept bitterly.
+While Ezra was praying and making confession, weeping and lying prostrate before the house of God, a very large assembly of Israelites—men, women, and children—gathered around him, for the people wept bitterly.
 
 ## Ezra 10:2
 
-And Shecaniah the son of Jehiel, one of the sons of Elam, responded and said to Ezra,  
-“We have been unfaithful to our God, and have married foreign women from the peoples of the land;  
-yet now there is hope for Israel in spite of this.
+Then Shecaniah son of Jehiel, one of the descendants of Elam, said to Ezra, “We have been unfaithful to our God by marrying foreign women from the peoples of the land. Yet there is hope for Israel despite this.
 
 ## Ezra 10:3
 
-So now let us make a covenant with our God to send away all the wives and their children,  
-in accordance with the counsel of my lord and of those who tremble at the commandment of our God;  
-and let it be done according to the Law.
+Let us now make a covenant with our God to send away all these women and their children, following the advice of my lord and those who tremble at the commandment of our God. Let it be done according to the Law.
 
 ## Ezra 10:4
 
-Arise! For this matter is your responsibility,  
-but we will be with you; be courageous and act.”
+Arise, for this matter is your responsibility. We will support you, so be courageous and act.”
 
 ---
 
 ## Ezra 10:5
 
-Then Ezra stood and made the leading priests, the Levites, and all Israel take an oath  
-that they would act in accordance with this proposal; so they took the oath.
+So Ezra rose and made the leading priests, the Levites, and all Israel take an oath to do what had been proposed. And they took the oath.
 
 ## Ezra 10:6
 
-Then Ezra got up from before the house of God and went into the chamber of Jehohanan the son of Eliashib.  
-Although he went there, he did not eat bread nor drink water,  
-because he was mourning over the unfaithfulness of the exiles.
-
----
+Then Ezra withdrew from before the house of God and went to the chamber of Jehohanan son of Eliashib. He did not eat bread or drink water there, for he was mourning over the unfaithfulness of the exiles.
 
 ## Ezra 10:7
 
-So they made a proclamation throughout Judah and Jerusalem  
-to all the exiles, that they were to assemble at Jerusalem,
+A proclamation was issued throughout Judah and Jerusalem for all the exiles to assemble in Jerusalem.
 
 ## Ezra 10:8
 
-and that whoever would not come within three days in accordance with the counsel of the leaders and the elders,  
-all his possessions would be forfeited and he himself excluded from the assembly of the exiles.
+Anyone who did not appear within three days would forfeit all his property, in accordance with the decision of the leaders and elders, and would be excluded from the assembly of the exiles.
 
 ---
 
 ## Ezra 10:9
 
-So all the men of Judah and Benjamin assembled at Jerusalem within the three days.  
-It was the ninth month on the twentieth day of the month,  
-and all the people sat in the open square before the house of God,  
-trembling because of this matter and the heavy rain.
+Within the three days, all the men of Judah and Benjamin gathered in Jerusalem. On the twentieth day of the ninth month, all the people sat in the square before the house of God, trembling because of this matter and the heavy rain.
 
 ## Ezra 10:10
 
-Then Ezra the priest stood up and said to them,  
-“You have been unfaithful and have married foreign wives,  
-adding to the guilt of Israel.
+Then Ezra the priest stood up and said to them, “You have been unfaithful by marrying foreign women, adding to the guilt of Israel.
 
 ## Ezra 10:11
 
-So now, make confession to the Lord God of your fathers and do His will;  
-and separate yourselves from the peoples of the land and from the foreign wives.”
-
----
+Now make confession to the Lord, the God of your ancestors, and do His will. Separate yourselves from the peoples of the land and from your foreign wives.”
 
 ## Ezra 10:12
 
-Then all the assembly replied with a loud voice,  
-“It is our duty to do exactly as you have said!
+The whole assembly responded with a loud voice, “It is our duty to do as you have said.
 
 ## Ezra 10:13
 
-However, there are many people, and it is the rainy season,  
-and we are not able to stand in the open;  
-nor can the task be done in one or two days, because we have transgressed greatly in this matter.
+However, there are many people here, and it is the rainy season; we cannot stand outside. Besides, this matter cannot be resolved in a day or two, for we have sinned greatly in this thing.
 
 ## Ezra 10:14
 
-Let our leaders represent the entire assembly,  
-and let all those in our cities who have married foreign wives come at appointed times,  
-together with the elders and judges of each city,  
-until the fierce anger of our God on account of this matter is turned away from us.”
+Let our leaders act on behalf of the whole assembly, and let everyone in our towns who has married a foreign woman come at appointed times, along with the elders and judges of each town, until the fierce anger of our God in this matter is turned away from us.”
 
 ## Ezra 10:15
 
-Only Jonathan the son of Asahel and Jahzeiah the son of Tikvah opposed this,  
-with Meshullam and Shabbethai the Levite supporting them.
-
----
+Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this, with Meshullam and Shabbethai the Levite supporting them.
 
 ## Ezra 10:16
 
-But the exiles did so.  
-And Ezra the priest selected men who were heads of fathers’ households for each of their fathers’ households,  
-all of them by name.  
-So they convened on the first day of the tenth month to investigate the matter.
+So the exiles did as proposed. Ezra the priest selected men who were heads of families, one from each family division, all of them designated by name. They convened on the first day of the tenth month to investigate the matter,
 
 ## Ezra 10:17
 
-And they finished investigating all the men who had married foreign wives by the first day of the first month.
-
----
+and by the first day of the first month they finished dealing with all the men who had married foreign women.
 
 ## Ezra 10:18
 
-Now among the sons of the priests who had married foreign wives were found of the sons of Jeshua the son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
+Among the descendants of the priests, the following had married foreign women: From the descendants of Jeshua son of Jozadak, and his brothers: Maaseiah, Eliezer, Jarib, and Gedaliah.
 
 ## Ezra 10:19
 
-They pledged to send away their wives, and being guilty, they offered a ram of the flock for their offense.
+They pledged to send away their wives, and for their guilt, they each presented a ram from the flock as a guilt offering.
 
 ## Ezra 10:20
 
-And of the sons of Immer:
-
-Hanani and Zebadiah;
+From the descendants of Immer: Hanani and Zebadiah.
 
 ## Ezra 10:21
 
-and of the sons of Harim:
-
-Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah;
+From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
 
 ## Ezra 10:22
 
-and of the sons of Pashhur:
-
-Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
+From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
 
 ## Ezra 10:23
 
-And of the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Eliezer.
+Among the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Eliezer.
 
 ## Ezra 10:24
 
-Of the singers:
-
-Eliashib;
-
-and of the gatekeepers:
-
-Shallum, Telem, and Uri.
+From the musicians: Eliashib. From the gatekeepers: Shallum, Telem, and Uri.
 
 ## Ezra 10:25
 
-And of Israel: of the sons of Parosh:
-
-Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah;
+And among the other Israelites: From the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
 
 ## Ezra 10:26
 
-and of the sons of Elam:
-
-Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah;
+From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
 
 ## Ezra 10:27
 
-and of the sons of Zattu:
-
-Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza;
+From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
 
 ## Ezra 10:28
 
-and of the sons of Bebai:
-
-Jehohanan, Hananiah, Zabbai, and Athlai;
+From the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
 
 ## Ezra 10:29
 
-and of the sons of Bani:
-
-Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth;
+From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
 
 ## Ezra 10:30
 
-and of the sons of Pahath-moab:
-
-Adna, Chelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh;
+From the descendants of Pahath-Moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
 
 ## Ezra 10:31
 
-and of the sons of Harim:
-
-Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
+From the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
 
 ## Ezra 10:32
 
-Benjamin, Malluch, and Shemariah;
+Benjamin, Malluch, and Shemariah.
 
 ## Ezra 10:33
 
-of the sons of Hashum:
-
-Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei;
+From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
 
 ## Ezra 10:34
 
-of the sons of Bani:
-
-Maadai, Amram, Uel,
+From the descendants of Bani: Maadai, Amram, Uel,
 
 ## Ezra 10:35
 
@@ -216,15 +150,15 @@ Vaniah, Meremoth, Eliashib,
 
 ## Ezra 10:37
 
-Mattaniah, Mattenai, and Jaasu,
+Mattaniah, Mattenai, and Jaasu.
 
 ## Ezra 10:38
 
-and Bani, and Binnui, Shimei,
+From the descendants of Binnui: Shimei,
 
 ## Ezra 10:39
 
-and Shelemiah and Nathan and Adaiah,
+Shelemiah, Nathan, Adaiah,
 
 ## Ezra 10:40
 
@@ -240,12 +174,8 @@ Shallum, Amariah, and Joseph.
 
 ## Ezra 10:43
 
-Of the sons of Nebo:
-
-Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.
-
----
+From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.
 
 ## Ezra 10:44
 
-All these had married foreign wives, and some of them had wives by whom they had children.
+All these had married foreign women, and some of them had children by these wives.

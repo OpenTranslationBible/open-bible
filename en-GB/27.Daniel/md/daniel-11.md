@@ -1,181 +1,136 @@
 # Daniel Chapter 11
 
 ## Daniel 11:1
-
-In the first year of Darius the Mede, I stood to strengthen and to be a protection for him.
+In the first year of Darius the Mede, I arose to support and protect him.
 
 ## Daniel 11:2
-
-Now I will tell you the truth. Behold, three more kings are going to arise in Persia. Then a fourth will gain far more riches than all of them; and as soon as he becomes strong through his riches, he will stir up the whole empire against the kingdom of Greece.
+Now I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all of them. As soon as he becomes strong through his wealth, he will stir up the whole empire against the kingdom of Greece.
 
 ## Daniel 11:3
-
-And a mighty king will arise, and he will rule with great authority and do as he pleases.
+Then a mighty king will arise, who will rule with great authority and do as he pleases.
 
 ## Daniel 11:4
-
-But as soon as he has arisen, his kingdom will be broken up and parceled out toward the four points of the compass, though not to his own descendants, nor according to his authority which he wielded, because his kingdom will be uprooted and given to others besides them.
+After he has arisen, his kingdom will be broken and divided towards the four winds of heaven, but not to his descendants, nor with the authority he wielded, because his sovereignty will be uprooted and given to others.
 
 ## Daniel 11:5
-
-Then the king of the South will grow strong, together with one of his princes who will gain ascendancy over him and rule; his domain will be a great dominion indeed.
+The king of the South will grow strong, but one of his commanders will become even stronger than he and will rule his own kingdom with great power.
 
 ## Daniel 11:6
-
-After some years they will form an alliance, and the daughter of the king of the South will come to the king of the North to make an agreement. But she will not retain her position of power, nor will he remain with his power; but she will be given up, along with her supporters and her father and the one who supported her in those times.
+After some years, they will form an alliance. The daughter of the king of the South will go to the king of the North to make an agreement, but she will not retain her power, nor will he endure; she will be given up, along with those who brought her and her father and the one who supported her.
 
 ## Daniel 11:7
-
-But one of the descendants of her line will arise in his place, and he will come against their army and enter the fortress of the king of the North, and he will deal with them and prevail.
+One from her family line will arise to take her place. He will attack the forces of the king of the North and enter his fortress; he will fight against them and prevail.
 
 ## Daniel 11:8
-
-And he will take their gods into captivity to Egypt, along with their cast metal images and their precious vessels of silver and gold; and for some years he will stay away from the king of the North.
+He will also seize their gods, their metal images, and their precious articles of silver and gold and carry them off to Egypt. For some years he will refrain from attacking the king of the North.
 
 ## Daniel 11:9
-
-Then the latter will enter the realm of the king of the South, but will return to his own land.
+Then the king of the North will invade the realm of the king of the South but will return to his own land.
 
 ## Daniel 11:10
-
-And his sons will mobilize and assemble a multitude of great forces; and one of them will keep on coming and overflow and pass through, so that he may carry on the war up to his fortress.
+His sons will prepare for war and assemble a great army, which will sweep on like an irresistible flood and carry the battle as far as his fortress.
 
 ## Daniel 11:11
-
-And the king of the South will be enraged and go out and fight with the king of the North. Then the latter will raise a great multitude, but that multitude will be handed over to the former.
+Then the king of the South will march out in a rage and fight against the king of the North, who will raise a large multitude, but it will be handed over to the king of the South.
 
 ## Daniel 11:12
-
-When the multitude is carried away, his heart will be haughty, and he will cause tens of thousands to fall; yet he will not prevail.
+When the multitude is carried away, the king of the South will be filled with pride and will slaughter tens of thousands, yet he will not remain triumphant.
 
 ## Daniel 11:13
-
-For the king of the North will again raise a greater multitude than the former, and after an interval of some years he will press on with a great army and abundant supplies.
+For the king of the North will muster another army, larger than the first; and after several years, he will advance with a great army and much equipment.
 
 ## Daniel 11:14
-
-Now in those times many will rise up against the king of the South; the violent ones among your people will also raise themselves up to fulfill the vision, but they will fall down.
+In those times many will rise against the king of the South. The violent ones among your people will rebel in fulfilment of the vision, but they will fall.
 
 ## Daniel 11:15
-
-Then the king of the North will come, pile up a siege ramp, and capture a well-fortified city; and the forces of the South will not stand their ground, not even their choicest troops, for there will be no strength to make a stand.
+Then the king of the North will come and build up siege ramps and capture a well-fortified city. The forces of the South will be powerless to resist; even their best troops will not have the strength to stand.
 
 ## Daniel 11:16
-
-But he who comes against him will do as he pleases, and no one will be able to withstand him; he will also stay for a time in the Beautiful Land, with destruction in his hand.
+The invader will do as he pleases; no one will be able to withstand him. He will establish himself in the Beautiful Land and will have the power to destroy it.
 
 ## Daniel 11:17
-
-And he will set his face to come with the power of his entire kingdom, bringing with him a proposal of peace which he will put into effect; he will also give him the daughter of women to ruin it. But she will not take a stand for him or be on his side.
+He will set his mind on coming with the might of his entire kingdom and will make an alliance with the king of the South. He will give him a daughter in marriage to overthrow the kingdom, but his plans will not succeed or help him.
 
 ## Daniel 11:18
-
-Then he will turn his face to the coastlands and capture many. But a commander will put a stop to his taunting against him; moreover, he will repay him for his taunt.
+Then he will turn his attention to the coastlands and will capture many of them, but a commander will put an end to his insolence and will turn his insolence back on him.
 
 ## Daniel 11:19
-
-So he will turn his face toward the fortresses of his own land, but he will stumble and fall and not be found.
+After this, he will turn back towards the fortresses of his own land but will stumble and fall, and will not be found.
 
 ## Daniel 11:20
-
-Then in his place one will arise who will allow an oppressor to pass through the Jewel of his kingdom; yet within a few days he will be broken, though not in anger nor in battle.
+His successor will send out a tax collector to maintain the royal splendour. In a few years, however, he will be destroyed, yet not in anger or in battle.
 
 ## Daniel 11:21
-
-And in his place a despicable person will arise, on whom the majesty of kingship has not been conferred, but he will come in a time of tranquility and seize the kingdom by intrigue.
+He will be succeeded by a despicable person who has not been given the honour of royalty. He will invade the kingdom when its people feel secure, and he will seize it through intrigue.
 
 ## Daniel 11:22
-
-Overflowing forces will be flooded away before him and shattered, and also the prince of the covenant.
+Then an overwhelming army will be swept away before him; both it and a prince of the covenant will be destroyed.
 
 ## Daniel 11:23
-
-And after an alliance is made with him he will practice deception, and he will go up and gain power with a small force of people.
+After an alliance is made with him, he will act deceitfully, and with only a few people he will rise to power.
 
 ## Daniel 11:24
-
-In a time of tranquility he will enter the richest parts of the realm, and he will accomplish what his fathers and forefathers never did: he will distribute plunder, spoils, and possessions among them, and devise schemes against strongholds, but only for a time.
+When the richest provinces feel secure, he will invade them and will achieve what neither his fathers nor his ancestors did. He will distribute plunder, spoils, and possessions among his followers. He will plot the overthrow of fortresses—but only for a time.
 
 ## Daniel 11:25
-
-And he will stir up his strength and courage against the king of the South with a large army; so the king of the South will prepare for war with an even larger and very mighty army, but he will not stand, for schemes will be devised against him.
+With a large army he will stir up his strength and courage against the king of the South. The king of the South will wage war with a large and very powerful army, but he will not be able to stand because of the plots devised against him.
 
 ## Daniel 11:26
-
-And those who eat his choice food will destroy him, and his army will overflow, but many will fall down slain.
+Those who eat from the king’s provisions will try to destroy him; his army will be swept away, and many will fall in battle.
 
 ## Daniel 11:27
-
-As for both kings, their hearts will be intent on evil, and they will speak lies to each other at the same table; but it will not succeed, for the end is still to come at the appointed time.
+The two kings, with their hearts bent on evil, will sit at the same table and lie to each other, but to no avail, because the end will still come at the appointed time.
 
 ## Daniel 11:28
-
-Then he will return to his land with much plunder; but his heart will be set against the holy covenant, and he will take action and then return to his own land.
+The king of the North will return to his own country with great wealth, but his heart will be set against the holy covenant. He will take action against it and then return to his own country.
 
 ## Daniel 11:29
-
-At the appointed time he will return and come into the South, but this last time it will not turn out the way it did before.
+At the appointed time he will invade the South again, but this time the outcome will be different from what it was before.
 
 ## Daniel 11:30
-
-For ships of Kittim will come against him; therefore he will be disheartened and will return and become enraged at the holy covenant and take action; so he will come back and show regard for those who abandon the holy covenant.
+Ships of the western coastlands will oppose him, and he will lose heart. Then he will turn back and vent his fury against the holy covenant. He will return and show favour to those who forsake the holy covenant.
 
 ## Daniel 11:31
-
-Forces from him will arise, desecrate the sanctuary fortress, do away with the regular sacrifice, and they will set up the abomination of desolation.
+His armed forces will rise up to desecrate the temple fortress and will abolish the daily sacrifice. Then they will set up the abomination that causes desolation.
 
 ## Daniel 11:32
-
-And by smooth words he will turn to godlessness those who act wickedly toward the covenant, but the people who know their God will be strong and take action.
+With flattery he will corrupt those who have violated the covenant, but the people who know their God will firmly resist him.
 
 ## Daniel 11:33
-
-And those who have insight among the people will give understanding to the many; yet they will fall by sword and by flame, by captivity and by plunder for many days.
+Those who are wise will instruct many, though for a time they will fall by the sword or be burned or captured or plundered.
 
 ## Daniel 11:34
-
-Now when they fall they will be granted a little help, and many will join them in hypocrisy.
+When they fall, they will receive a little help, and many who are not sincere will join them.
 
 ## Daniel 11:35
-
-And some of those who have insight will fall, to refine, purge, and make them pure until the end time; because it is still to come at the appointed time.
+Some of the wise will stumble, so that they may be refined, purified and made spotless until the time of the end, for it will still come at the appointed time.
 
 ## Daniel 11:36
-
-Then the king will do as he pleases, and he will exalt himself and boast against every god, and will speak dreadful things against the God of gods; and he will be successful until the indignation is finished, because that which is determined will be done.
+The king will do as he pleases. He will exalt and magnify himself above every god and will say unheard-of things against the God of gods. He will be successful until the time of wrath is completed, for what has been determined must take place.
 
 ## Daniel 11:37
-
-And he will show no regard for the gods of his fathers or for the desire of women, nor will he show regard for any other god; for he will boast against them all.
+He will show no regard for the gods of his ancestors or for the one desired by women, nor will he regard any god, but will exalt himself above them all.
 
 ## Daniel 11:38
-
-But instead he will honor a god of fortresses, a god whom his fathers did not know; he will honor him with gold, silver, precious stones, and treasures.
+Instead of them, he will honour a god of fortresses; a god unknown to his ancestors he will honour with gold and silver, with precious stones and costly gifts.
 
 ## Daniel 11:39
-
-And he will take action against the strongest fortresses with the help of a foreign god; he will give great honor to those who acknowledge him and make them rulers over many, and will parcel out land for a price.
+He will attack the mightiest fortresses with the help of a foreign god and will greatly honour those who acknowledge him. He will make them rulers over many people and will distribute the land at a price.
 
 ## Daniel 11:40
-
-At the end time the king of the South will wage war with him, and the king of the North will storm against him with chariots, horsemen, and many ships; and he will enter countries, overflow them, and pass through.
+At the time of the end the king of the South will engage him in battle, and the king of the North will storm out against him with chariots and cavalry and a great fleet of ships. He will invade many countries and sweep through them like a flood.
 
 ## Daniel 11:41
-
-He will also enter the Beautiful Land, and many countries will fall; but these will be rescued from his hand: Edom, Moab, and the foremost of the sons of Ammon.
+He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab and the leaders of Ammon will be delivered from his hand.
 
 ## Daniel 11:42
-
-Then he will reach out with his hand against other countries, and the land of Egypt will not escape.
+He will extend his power over many countries; Egypt will not escape.
 
 ## Daniel 11:43
-
-But he will gain control over the hidden treasures of gold and silver, and over all the precious things of Egypt; and Libyans and Ethiopians will follow at his heels.
+He will gain control of the treasures of gold and silver and all the riches of Egypt, with the Libyans and Cushites in submission.
 
 ## Daniel 11:44
-
-But rumors from the east and from the north will terrify him, and he will go out with great wrath to eliminate and annihilate many.
+But reports from the east and the north will alarm him, and he will set out in a great rage to destroy and annihilate many.
 
 ## Daniel 11:45
-
-And he will pitch the tents of his royal pavilion between the seas and the beautiful Holy Mountain; yet he will come to his end, and no one will help him.
+He will pitch his royal tents between the seas at the beautiful holy mountain. Yet he will come to his end, and no one will help him.

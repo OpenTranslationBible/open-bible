@@ -2,99 +2,82 @@
 
 ## Amos 7:1
 
-This is what the Lord God showed me, and behold, He was forming a swarm of locusts when the spring crop began to sprout—and behold, the spring crop was after the king’s mowing.
+This is what the Lord God showed me: He was forming a swarm of locusts just after the king’s harvest and as the late crops were sprouting.
 
 ## Amos 7:2
 
-And it came about, when they had finished eating the vegetation of the land, that I said,  
-“Lord God, please pardon!  
-How can Jacob stand?  
-For he is small.”
+When they had consumed the vegetation of the land, I pleaded, “Lord God, forgive! How can Jacob endure? He is so small!”
 
 ## Amos 7:3
 
-The Lord relented of this.  
-“It shall not be,” said the Lord.
+The Lord relented concerning this. “It shall not be,” said the Lord.
 
 ## Amos 7:4
 
-This is what the Lord God showed me, and behold, the Lord God was calling to contend with them by fire, and it consumed the great deep and began to consume the farmland.
+This is what the Lord God showed me: He was calling for judgment by fire, which dried up the great deep and began to devour the land.
 
 ## Amos 7:5
 
-Then I said,  
-“Lord God, please stop!  
-How can Jacob stand?  
-For he is small.”
+Then I implored, “Lord God, cease! How can Jacob endure? He is so small!”
 
 ## Amos 7:6
 
-The Lord relented of this.  
-“This too shall not be,” said the Lord God.
+The Lord relented concerning this. “This too shall not be,” said the Lord God.
 
 ## Amos 7:7
 
-This is what He showed me, and behold, the Lord was standing by a vertical wall with a plumb line in His hand.
+This is what He showed me: The Lord was standing by a wall built true to plumb, with a plumb line in His hand.
 
 ## Amos 7:8
 
-And the Lord said to me,  
-“What do you see, Amos?”  
-And I said, “A plumb line.”  
-Then the Lord said,  
-“Behold, I am going to put a plumb line  
-In the midst of My people Israel.  
-I will not spare them any longer.
+And the Lord asked me, “What do you see, Amos?” I replied, “A plumb line.” Then the Lord said, “Behold, I am setting a plumb line among My people Israel; I will spare them no longer.
 
 ## Amos 7:9
 
-> The high places of Isaac will become deserted,  
-> And the sanctuaries of Israel will be in ruins.  
-> Then I will rise up against the house of Jeroboam with the sword.”
+> The high places of Isaac will be laid waste,
+> and the sanctuaries of Israel will be ruined;
+> I will rise against the house of Jeroboam with the sword.”
 
 ## Amos 7:10
 
-Then Amaziah, the priest of Bethel, sent word to Jeroboam king of Israel, saying,  
-“Amos has conspired against you in the midst of the house of Israel; the land is unable to endure all his words.
+Then Amaziah, the priest of Bethel, sent a message to Jeroboam king of Israel, saying, “Amos is conspiring against you in the heart of Israel. The land cannot bear all his words.
 
 ## Amos 7:11
 
 For this is what Amos says:
 
-> ‘Jeroboam will die by the sword,  
-> And Israel will certainly go from its land into exile.’”
+> ‘Jeroboam will die by the sword,
+> and Israel will surely go into exile, away from their land.’”
 
 ## Amos 7:12
 
-Then Amaziah said to Amos,  
-“Go, you seer, flee to the land of Judah, and eat bread there, and do your prophesying there!
+Then Amaziah said to Amos, “Go away, seer! Flee to the land of Judah; earn your bread there and do your prophesying there.
 
 ## Amos 7:13
 
-But do not prophesy at Bethel any longer, for it is a sanctuary of the king and a royal residence.”
+But do not prophesy any more at Bethel, for it is the king’s sanctuary and a royal temple.”
 
 ## Amos 7:14
 
-Then Amos replied to Amaziah,  
-“I am not a prophet, nor am I the son of a prophet; for I am a herdsman and a grower of sycamore figs.
+Amos replied to Amaziah, “I was not a prophet nor the son of a prophet, but a herdsman and a dresser of sycamore figs.
 
 ## Amos 7:15
 
-But the Lord took me from following the flock, and the Lord said to me, ‘Go prophesy to My people Israel.’
+But the Lord took me from tending the flock and said to me, ‘Go, prophesy to My people Israel.’
 
 ## Amos 7:16
 
-So now hear the word of the Lord: you are saying,
+Now then, hear the word of the Lord.
 
-> ‘You shall not prophesy against Israel,  
-> Nor shall you speak against the house of Isaac.’
+> You say, ‘Do not prophesy against Israel,
+> and do not preach against the house of Isaac.’
 
 ## Amos 7:17
 
-Therefore, this is what the Lord says:
+Therefore this is what the Lord says:
 
-> ‘Your wife will become a prostitute in the city,  
-> Your sons and your daughters will fall by the sword,  
-> Your land will be divided by a measuring line,  
-> And you yourself will die upon unclean ground.  
-> Furthermore, Israel will certainly go from its land into exile.’”
+> ‘Your wife will become a prostitute in the city,
+> your sons and daughters will fall by the sword,
+> your land will be divided up with a measuring line,
+> and you yourself will die on unclean soil.
+> And Israel will surely go into exile, away from its land.’”

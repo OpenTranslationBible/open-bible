@@ -2,158 +2,122 @@
 
 ## Proverbs 22:1
 
-A good name is to be more desired than great wealth;  
-Favour is better than silver and gold.
+A good name is more to be desired than great wealth; to be esteemed is better than silver or gold.
 
 ## Proverbs 22:2
 
-The rich and the poor have a common bond:  
-The Lord is the Maker of them all.
+The rich and the poor share this in common: the Lord is the Maker of them all.
 
 ## Proverbs 22:3
 
-The prudent sees evil and hides himself,  
-But the naive go on and are punished for it.
+A prudent person sees danger and takes refuge, but the naive continue on and pay the penalty.
 
 ## Proverbs 22:4
 
-The reward of humility and the fear of the Lord  
-Are riches, honour, and life.
+The reward of humility and the fear of the Lord is riches, honour, and life.
 
 ## Proverbs 22:5
 
-Thorns and snares are in the way of the perverse;  
-One who guards himself will be far from them.
+Thorns and snares lie in the path of the wicked; those who guard their lives will stay far from them.
 
 ## Proverbs 22:6
 
-Train up a child in the way he should go,  
-Even when he grows older he will not abandon it.
+Train a child in the way he should go, and even when he is old he will not depart from it.
 
 ## Proverbs 22:7
 
-The rich rules over the poor,  
-And the borrower becomes the lender’s slave.
+The rich rule over the poor, and the borrower is servant to the lender.
 
 ## Proverbs 22:8
 
-One who sows injustice will reap disaster,  
-And the rod of his fury will perish.
+Whoever sows injustice will reap calamity, and the rod of their fury will be broken.
 
 ## Proverbs 22:9
 
-One who is generous will be blessed,  
-Because he gives some of his food to the poor.
+The generous will be blessed, for they share their food with the poor.
 
 ## Proverbs 22:10
 
-Drive out the scoffer, and contention will go out;  
-Even strife and dishonour will cease.
+Expel the scoffer, and strife will depart; quarrels and insults will cease.
 
 ## Proverbs 22:11
 
-One who loves purity of heart  
-And whose speech is gracious, the king is his friend.
+One who loves a pure heart and whose speech is gracious will have the king as a friend.
 
 ## Proverbs 22:12
 
-The eyes of the Lord protect knowledge,  
-But He overthrows the words of the treacherous person.
+The eyes of the Lord watch over knowledge, but He overthrows the words of the unfaithful.
 
 ## Proverbs 22:13
 
-The lazy one says, “There is a lion outside;  
-I will be killed in the streets!”
+The sluggard says, “There is a lion outside! I will be killed in the streets!”
 
 ## Proverbs 22:14
 
-The mouth of an adulterous woman is a deep pit;  
-He who is cursed of the Lord will fall into it.
+The mouth of an adulterous woman is a deep pit; he who is cursed by the Lord will fall into it.
 
 ## Proverbs 22:15
 
-Foolishness is bound up in the heart of a child;  
-The rod of discipline will remove it far from him.
+Foolishness is bound up in the heart of a child, but the rod of discipline will drive it far away.
 
 ## Proverbs 22:16
 
-One who oppresses the poor to make more for himself,  
-Or gives to the rich, will only come to poverty.
+One who oppresses the poor to increase wealth, or gives gifts to the rich, will only come to poverty.
 
 ---
 
 ## Proverbs 22:17
 
-Incline your ear and hear the words of the wise,  
-And apply your heart to my knowledge;
+Incline your ear and listen to the words of the wise; apply your heart to my knowledge,
 
 ## Proverbs 22:18
 
-For it will be pleasant if you keep them within you,  
-So that they may be ready on your lips.
+for it is pleasing when you keep them within you and have them ready on your lips.
 
 ## Proverbs 22:19
 
-So that your trust may be in the Lord,  
-I have taught you today, you indeed.
+So that your trust may be in the Lord, I instruct you today, even you.
 
 ## Proverbs 22:20
 
-Have I not written to you excellent things  
-Of counsels and knowledge,
+Have I not written for you thirty sayings of counsel and knowledge,
 
 ## Proverbs 22:21
 
-To make you know the certainty of the words of truth,  
-So that you may correctly answer him who sent you?
-
----
+to teach you true and reliable words, so that you may give a correct answer to those who sent you?
 
 ## Proverbs 22:22
 
-Do not rob the poor because he is poor,  
-And do not crush the needy at the gate;
+Do not exploit the poor because they are poor, nor crush the needy in the gate,
 
 ## Proverbs 22:23
 
-For the Lord will plead their case  
-And take the life of those who rob them.
+for the Lord will take up their case and will exact life for life.
 
 ---
 
 ## Proverbs 22:24
 
-Do not make friends with a person given to anger,  
-Or go with a hot-tempered person,
+Do not make friends with a hot-tempered person, nor associate with one easily angered,
 
 ## Proverbs 22:25
 
-Or you will learn his ways  
-And find a snare for yourself.
+or you may learn their ways and find a snare for yourself.
 
 ---
 
 ## Proverbs 22:26
 
-Do not be among those who give pledges,  
-Among those who become guarantors for debts.
+Do not be among those who shake hands in pledge, or among those who become guarantors for debts.
 
 ## Proverbs 22:27
 
-If you have nothing with which to repay,  
-Why should your bed be taken from under you?
-
----
+If you have nothing with which to repay, why should your bed be taken from under you?
 
 ## Proverbs 22:28
 
-Do not move the ancient boundary  
-Which your fathers have set.
-
----
+Do not move an ancient boundary stone set by your ancestors.
 
 ## Proverbs 22:29
 
-Do you see a person skilled in his work?  
-He will stand before kings;  
-He will not stand before obscure people.
+Do you see someone skilled in their work? They will serve before kings; they will not serve before obscure people.

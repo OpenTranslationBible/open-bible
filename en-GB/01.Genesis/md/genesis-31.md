@@ -1,221 +1,166 @@
 # Genesis Chapter 31
 
 ## Genesis 31:1
-
-Now Jacob heard the words of Laban’s sons, saying, “Jacob has taken away all that belonged to our father, and from what belonged to our father he has made all this wealth.”
+Jacob heard the words of Laban’s sons, saying, “Jacob has taken away all that was our father’s, and from what belonged to our father he has gained all this wealth.”
 
 ## Genesis 31:2
-
-And Jacob saw the attitude of Laban, and behold, it was not friendly toward him as it had been before.
+And Jacob noticed that Laban’s attitude toward him was not as it had been before.
 
 ## Genesis 31:3
-
-Then the Lord said to Jacob, “Return to the land of your fathers and to your relatives, and I will be with you.”
+Then the Lord said to Jacob, “Return to the land of your fathers and your relatives, and I will be with you.”
 
 ## Genesis 31:4
-
-So Jacob sent word and called Rachel and Leah to his flock in the field,
+So Jacob sent word and called Rachel and Leah to the field where his flocks were.
 
 ## Genesis 31:5
-
-And said to them, “I see that your father’s attitude is not friendly toward me as it was before, but the God of my father has been with me.
+He said to them, “I see that your father’s attitude toward me is not as it was before, but the God of my father has been with me.
 
 ## Genesis 31:6
-
 You know that I have served your father with all my strength.
 
 ## Genesis 31:7
-
-Yet your father has cheated me and changed my wages ten times; however, God did not allow him to harm me.
+Yet your father has cheated me and changed my wages ten times, but God did not allow him to harm me.
 
 ## Genesis 31:8
-
-If he said, ‘The speckled shall be your wages,’ then all the flock gave birth to speckled; and if he said, ‘The striped shall be your wages,’ then all the flock gave birth to striped.
+If he said, ‘The speckled shall be your wages,’ then all the flock bore speckled; and if he said, ‘The striped shall be your wages,’ then all the flock bore striped.
 
 ## Genesis 31:9
-
 So God has taken away your father’s livestock and given them to me.
 
 ## Genesis 31:10
-
-And it came about at the time when the flock was mating that I raised my eyes and saw in a dream, and behold, the male goats that were mating were striped, speckled, or mottled.
+During breeding season, I had a dream in which I looked up and saw that the male goats mating with the flock were striped, speckled, or spotted.
 
 ## Genesis 31:11
-
-Then the angel of God said to me in the dream, ‘Jacob,’ and I said, ‘Here I am.’
+The angel of God said to me in the dream, ‘Jacob,’ and I replied, ‘Here I am.’
 
 ## Genesis 31:12
-
-He said, ‘Raise your eyes now and see that all the male goats that are mating are striped, speckled, or mottled; for I have seen everything that Laban has been doing to you.
+He said, ‘Look up and see that all the male goats mating with the flock are striped, speckled, or spotted, for I have seen all that Laban has been doing to you.
 
 ## Genesis 31:13
-
-I am the God of Bethel, where you anointed a memorial stone, where you made a vow to Me; now arise, leave this land, and return to the land of your birth.’”
+I am the God of Bethel, where you anointed a pillar and made a vow to me. Now arise, leave this land, and return to the land of your birth.’”
 
 ## Genesis 31:14
-
-Rachel and Leah answered and said to him, “Do we still have any portion or inheritance in our father’s house?
+Rachel and Leah replied, “Do we still have any share in the inheritance of our father’s house?
 
 ## Genesis 31:15
-
-Are we not regarded by him as foreigners? For he has sold us, and has also entirely consumed our purchase price.
+Does he not regard us as foreigners? For he has sold us and used up what was paid for us.
 
 ## Genesis 31:16
-
-Surely all the riches which God has taken away from our father belong to us and our children; now then, do whatever God has said to you.”
+Surely all the wealth that God took away from our father belongs to us and our children. So do whatever God has told you.”
 
 ## Genesis 31:17
-
-Then Jacob stood up and put his children and his wives on camels;
+Then Jacob put his children and his wives on camels;
 
 ## Genesis 31:18
-
-And he drove away all his livestock and all his property which he had gathered, his acquired livestock which he had gathered in Paddan-aram, to go to the land of Canaan to his father Isaac.
+and he drove all his livestock and all his possessions that he had acquired in Paddan Aram, to go to his father Isaac in the land of Canaan.
 
 ## Genesis 31:19
-
-When Laban had gone to shear his flock, Rachel stole the household idols that belonged to her father.
+While Laban had gone to shear his flock, Rachel stole her father’s household gods.
 
 ## Genesis 31:20
-
-And Jacob deceived Laban the Aramean by not telling him that he was fleeing.
+Moreover, Jacob deceived Laban the Aramean by not telling him that he was fleeing.
 
 ## Genesis 31:21
-
-So he fled with all that he had; and he got up and crossed the Euphrates River, and set out for the hill country of Gilead.
+So he fled with all he had, crossed the Euphrates River, and set out for the hill country of Gilead.
 
 ## Genesis 31:22
-
-When Laban was informed on the third day that Jacob had fled,
+On the third day, Laban was informed that Jacob had fled.
 
 ## Genesis 31:23
-
-He took his relatives with him and pursued him a distance of seven days’ journey, and overtook him in the hill country of Gilead.
+Taking his kinsmen with him, he pursued Jacob for seven days and caught up with him in the hill country of Gilead.
 
 ## Genesis 31:24
-
-However, God came to Laban the Aramean in a dream of the night and said to him, “Be careful that you do not speak to Jacob either good or bad.”
+But God came to Laban the Aramean in a dream at night and said, “Be careful not to speak to Jacob either good or bad.”
 
 ## Genesis 31:25
-
-So Laban overtook Jacob. Now Jacob had pitched his tent in the hill country, and Laban with his relatives camped in the hill country of Gilead.
+Laban caught up with Jacob. Jacob had pitched his tent in the hill country, and Laban and his kinsmen camped there too.
 
 ## Genesis 31:26
-
 Then Laban said to Jacob, “What have you done by deceiving me and carrying away my daughters like captives of the sword?
 
 ## Genesis 31:27
-
-Why did you flee secretly and deceive me, and not tell me, so that I might have sent you away with joy and songs, with tambourine and lyre;
+Why did you run off secretly and deceive me? Why didn’t you tell me, so I could have sent you away with joy and songs, with tambourine and lyre?
 
 ## Genesis 31:28
-
-And did not allow me to kiss my grandchildren and my daughters? Now you have done foolishly.
+You didn’t even let me kiss my grandchildren and my daughters goodbye. You have done a foolish thing.
 
 ## Genesis 31:29
-
-It is in my power to do you harm, but the God of your father spoke to me last night, saying, ‘Be careful not to speak either good or bad to Jacob.’
+I have the power to harm you; but last night the God of your father said to me, ‘Be careful not to speak to Jacob either good or bad.’
 
 ## Genesis 31:30
-
-Now you have gone away because you longed greatly for your father’s house; but why did you steal my gods?”
+Now you have gone off because you longed to return to your father’s house. But why did you steal my gods?”
 
 ## Genesis 31:31
-
-Then Jacob replied to Laban, “Because I was afraid, for I thought that you would take your daughters from me by force.
+Jacob answered Laban, “I was afraid, because I thought you would take your daughters away from me by force.
 
 ## Genesis 31:32
-
-The one with whom you find your gods shall not live; in the presence of our relatives, point out what is yours among my belongings and take it for yourself.” Now Jacob did not know that Rachel had stolen them.
+But if you find anyone who has your gods, that person shall not live. In the presence of our relatives, see for yourself whether there is anything of yours here with me; and if so, take it.” Now Jacob did not know that Rachel had stolen the gods.
 
 ## Genesis 31:33
-
-So Laban went into Jacob’s tent, into Leah’s tent, and into the tent of the two female servants, but he did not find them. Then he went out of Leah’s tent and entered Rachel’s tent.
+So Laban went into Jacob’s tent, and into Leah’s tent, and into the tent of the two female servants, but he did not find them. After he came out of Leah’s tent, he entered Rachel’s tent.
 
 ## Genesis 31:34
-
-Now Rachel had taken the household idols and put them in the camel’s saddle, and she sat on them. So Laban searched through all the tent but did not find them.
+Now Rachel had taken the household gods and put them inside her camel’s saddle and was sitting on them. Laban searched through everything in the tent but found nothing.
 
 ## Genesis 31:35
-
-And she said to her father, “May my lord not be angry that I cannot rise before you, because the manner of women is upon me.” So he searched but did not find the household idols.
+Rachel said to her father, “Do not be angry, my lord, that I cannot stand up in your presence; I am having my period.” So he searched but did not find the household gods.
 
 ## Genesis 31:36
-
-Then Jacob became angry and argued with Laban; and Jacob said to Laban, “What is my offense? What is my sin, that you have hotly pursued me?
+Jacob was angry and took Laban to task. “What is my crime?” he asked Laban. “What is my sin that you have hotly pursued me?
 
 ## Genesis 31:37
-
-Though you have searched through all my belongings, what have you found of all your household goods? Place it here in front of my relatives and yours, so that they may decide between us.
+Now that you have searched through all my goods, what have you found that belongs to your household? Put it here in front of your relatives and mine, and let them judge between the two of us.
 
 ## Genesis 31:38
-
-For twenty years I have been with you; your ewes and your female goats have not miscarried, nor have I eaten the rams of your flocks.
+“I have been with you for twenty years now. Your ewes and your female goats have not miscarried, nor have I eaten the rams of your flocks.
 
 ## Genesis 31:39
-
-I did not bring you the torn carcasses; I took the loss myself. You required it of my hand whether stolen by day or stolen by night.
+I did not bring you animals torn by wild beasts; I bore the loss myself. And you demanded payment from me for whatever was stolen by day or night.
 
 ## Genesis 31:40
-
-This is how I was: by day the heat consumed me, and the frost by night, and my sleep fled from my eyes.
+This was my situation: The heat consumed me in the daytime and the frost at night, and sleep fled from my eyes.
 
 ## Genesis 31:41
-
-For twenty years I have been in your house; I served you fourteen years for your two daughters, and six years for your flock, and you changed my wages ten times.
+It was like this for the twenty years I was in your household. I worked for you fourteen years for your two daughters and six years for your flocks, and you changed my wages ten times.
 
 ## Genesis 31:42
-
-If the God of my father, the God of Abraham, and the fear of Isaac, had not been with me, you would now have sent me away empty-handed. God has seen my affliction and the labour of my hands, and rendered judgment last night.”
+If the God of my father, the God of Abraham and the Fear of Isaac, had not been with me, you would surely have sent me away empty-handed. But God has seen my hardship and the toil of my hands, and last night he rebuked you.”
 
 ## Genesis 31:43
-
-Then Laban replied to Jacob, “The daughters are my daughters, the children are my children, and the flocks are my flocks, and all that you see is mine. But what can I do this day to these my daughters or to their children whom they have borne?
+Laban replied to Jacob, “The daughters are my daughters, the children are my children, and the flocks are my flocks. All you see is mine. Yet what can I do today about these daughters of mine, or about the children they have borne?
 
 ## Genesis 31:44
-
-So now come, let us make a covenant, you and I, and let it be a witness between you and me.”
+Come now, let us make a covenant, you and I, and let it serve as a witness between us.”
 
 ## Genesis 31:45
-
-Then Jacob took a stone and set it up as a pillar.
+So Jacob took a stone and set it up as a pillar.
 
 ## Genesis 31:46
-
-And Jacob said to his relatives, “Gather stones.” So they took stones and made a heap, and they ate there by the heap.
+He said to his relatives, “Gather some stones.” So they took stones and made a heap, and they ate there by the heap.
 
 ## Genesis 31:47
-
-Now Laban called it Jegar-sahadutha, but Jacob called it Galeed.
+Laban called it Jegar-sahadutha, and Jacob called it Galeed.
 
 ## Genesis 31:48
-
-Then Laban said, “This heap is a witness between you and me this day.” Therefore it was named Galeed,
+Laban said, “This heap is a witness between you and me today.” That is why it was called Galeed.
 
 ## Genesis 31:49
-
-And Mizpah, for he said, “May the Lord watch between you and me when we are absent one from the other.
+It was also called Mizpah, because he said, “May the Lord keep watch between you and me when we are away from each other.
 
 ## Genesis 31:50
-
-If you mistreat my daughters, or if you take wives besides my daughters, although no one is with us, see, God is witness between you and me.”
+If you mistreat my daughters or if you take any wives besides my daughters, even though no one is with us, remember that God is a witness between you and me.”
 
 ## Genesis 31:51
-
-Laban also said to Jacob, “Behold this heap and behold the pillar which I have set between you and me.
+Laban also said to Jacob, “Here is this heap, and here is this pillar I have set up between you and me.
 
 ## Genesis 31:52
-
-This heap is a witness, and the pillar is a witness, that I will not pass by this heap to you for harm, and you will not pass by this heap and this pillar to me for harm.
+This heap is a witness, and this pillar is a witness, that I will not pass by this heap to your side to harm you and that you will not pass by this heap and pillar to my side to harm me.
 
 ## Genesis 31:53
-
-The God of Abraham and the God of Nahor, the God of their father, judge between us.” So Jacob swore by the fear of his father Isaac.
+May the God of Abraham and the God of Nahor, the God of their father, judge between us.” So Jacob swore by the Fear of his father Isaac.
 
 ## Genesis 31:54
-
-Then Jacob offered a sacrifice on the mountain, and called his relatives to eat a meal; and they ate the meal and spent the night on the mountain.
+He offered a sacrifice there in the hill country and invited his relatives to a meal. After they had eaten, they spent the night there.
 
 ## Genesis 31:55
-
-Early in the morning Laban got up, and kissed his grandchildren and his daughters and blessed them. Then Laban departed and returned to his place.
+Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home.

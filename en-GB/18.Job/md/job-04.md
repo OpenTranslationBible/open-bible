@@ -2,111 +2,109 @@
 
 ## Job 4:1
 
-Then Eliphaz the Temanite responded,
+Then Eliphaz the Temanite answered:
 
 ## Job 4:2
 
-> “If one ventures a word with you, will you become impatient?  
-> But who can refrain from speaking?
+> “If one dares to speak with you, will you become restless?
+> Yet who can hold back words?
 
 ## Job 4:3
 
-> Behold, you have instructed many,  
-> And you have strengthened weak hands.
+> Consider how you have taught many,
+> and how you have strengthened weak hands.
 
 ## Job 4:4
 
-> Your words have helped the stumbling to stand,  
-> And you have strengthened feeble knees.
+> Your words have supported those who were stumbling,
+> and you have strengthened faltering knees.
 
 ## Job 4:5
 
-> But now it comes to you, and you are impatient;  
-> It touches you, and you are horrified.
+> But now it comes upon you, and you are disheartened;
+> it touches you, and you are alarmed.
 
 ## Job 4:6
 
-> Is your fear of God not your confidence,  
-> And the integrity of your ways your hope?
+> Is not your reverence for God your confidence,
+> and the integrity of your ways your hope?
 
 ---
 
 ## Job 4:7
 
-> “Remember now, who ever perished being innocent?  
-> Or where were the upright destroyed?
+> “Reflect now, who ever perished being innocent?
+> Or where have the upright been destroyed?
 
 ## Job 4:8
 
-> According to what I have seen,  
-> Those who plough wrongdoing  
-> And those who sow trouble harvest it.
+> As I have observed,
+> those who plough iniquity
+> and those who sow trouble reap the same.
 
 ## Job 4:9
 
-> By the breath of God they perish,  
-> And by the blast of His anger they come to an end.
+> By the breath of God they perish;
+> by the blast of His anger they are consumed.
 
 ## Job 4:10
 
-> The roaring of the lion and the voice of the fierce lion,  
-> And the teeth of the young lions are broken.
+> The roaring of the lion and the voice of the fierce lion,
+> yet the teeth of the young lions are shattered.
 
 ## Job 4:11
 
-> The lion perishes for lack of prey,  
-> And the cubs of the lioness are scattered.
-
----
+> The lion perishes for lack of prey,
+> and the cubs of the lioness are dispersed.
 
 ## Job 4:12
 
-> “Now a word was brought to me secretly,  
-> And my ear received a whisper of it.
+> “A word was secretly brought to me,
+> and my ear caught a whisper of it.
 
 ## Job 4:13
 
-> Amid disquieting thoughts from visions of the night,  
-> When deep sleep falls on people,
+> Amid troubling thoughts from visions of the night,
+> when deep sleep falls on people,
 
 ## Job 4:14
 
-> Dread came upon me, and trembling,  
-> And made all my bones shake.
+> fear and trembling came upon me,
+> and made all my bones shake.
 
 ## Job 4:15
 
-> Then a spirit passed by my face;  
-> The hair of my flesh bristled.
+> A spirit glided past my face;
+> the hair of my flesh stood on end.
 
 ## Job 4:16
 
-> It stood still, but I could not recognise its appearance;  
-> A form was before my eyes;  
-> There was silence, then I heard a voice:
+> It stood still, but I could not discern its form;
+> a shape was before my eyes,
+> and I heard a quiet voice:
 
 ## Job 4:17
 
-> ‘Can mankind be righteous before God?  
-> Can a man be pure before his Maker?’
+> ‘Can a mortal be just before God?
+> Can a man be pure before his Maker?
 
 ## Job 4:18
 
-> He puts no trust even in His servants,  
-> And He accuses His angels of error.
+> He puts no trust even in His servants,
+> and He charges His angels with error.
 
 ## Job 4:19
 
-> How much more those who dwell in houses of clay,  
-> Whose foundation is in the dust,  
-> Who are crushed before the moth!
+> How much more those who dwell in houses of clay,
+> whose foundation is in the dust,
+> who are crushed more easily than a moth!
 
 ## Job 4:20
 
-> Between morning and evening they are broken in pieces;  
-> Unnoticed, they perish forever.
+> From morning to evening they are shattered;
+> unnoticed, they perish forever.
 
 ## Job 4:21
 
-> Is their tent-cord not pulled out within them?  
-> They die, yet without wisdom.”
+> Are not the cords of their tent pulled up within them?
+> They die without wisdom.’

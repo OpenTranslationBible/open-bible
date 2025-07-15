@@ -1,208 +1,148 @@
 # Daniel Chapter 2
 
 ## Daniel 2:1
-
-Now in the second year of the reign of Nebuchadnezzar, Nebuchadnezzar had dreams; and his spirit was troubled and his sleep left him.
+In the second year of King Nebuchadnezzar's reign, he had dreams that troubled his spirit, and he was unable to sleep.
 
 ## Daniel 2:2
-
-Then the king gave orders to call in the soothsayer priests, the conjurers, the sorcerers, and the Chaldeans to tell the king his dreams. So they came in and stood before the king.
+The king commanded to summon the magicians, enchanters, sorcerers, and astrologers to tell him his dreams. They came and stood before the king.
 
 ## Daniel 2:3
-
-And the king said to them, “I had a dream, and my spirit is anxious to understand the dream.”
+He said to them, “I have had a dream that has disturbed me, and I wish to understand it.”
 
 ## Daniel 2:4
-
-Then the Chaldeans spoke to the king in Aramaic: “O king, live forever! Tell the dream to your servants, and we will declare the interpretation.”
+The astrologers spoke to the king in Aramaic, “O king, live forever! Tell your servants the dream, and we will interpret it.”
 
 ## Daniel 2:5
-
-The king replied to the Chaldeans, “The command from me is firm: if you do not make known to me the dream and its interpretation, you will be torn limb from limb and your houses will be turned into a rubbish heap.
+The king answered the astrologers, “My decision is firm: if you do not tell me the dream and its interpretation, you shall be torn limb from limb, and your houses will become ruins.
 
 ## Daniel 2:6
-
-But if you declare the dream and its interpretation, you will receive from me gifts and a reward and great honor; therefore declare to me the dream and its interpretation.”
+But if you reveal the dream and its meaning, you shall receive gifts, rewards, and great honour from me. Therefore, tell me the dream and its interpretation.”
 
 ## Daniel 2:7
-
-They answered a second time and said, “Let the king tell the dream to his servants, and we will declare the interpretation.”
+They replied again, “Let the king tell his servants the dream, and we will interpret it.”
 
 ## Daniel 2:8
-
-The king replied, “I know for certain that you are trying to gain time, because you have perceived that the command from me is firm,
+The king responded, “I am certain you are trying to gain time because you see that my decision is firm:
 
 ## Daniel 2:9
-
-That if you do not make the dream known to me, there is only one decree for you. For you have agreed together to speak lying and corrupt words before me until the situation is changed; therefore tell me the dream, so that I may know that you can declare to me its interpretation.”
+If you do not reveal the dream to me, there is but one decree for you. You have conspired to speak misleading and corrupt words before me until the situation changes. Therefore, tell me the dream, so I will know you can interpret it.”
 
 ## Daniel 2:10
-
-The Chaldeans answered the king and said, “There is no person on earth who could declare the matter to the king, because no great king or ruler has ever asked anything like this of any soothsayer priest, conjurer, or Chaldean.
+The astrologers answered the king, “There is no one on earth who can do what the king asks. No great king or ruler has ever demanded such a thing from any magician, enchanter, or astrologer.
 
 ## Daniel 2:11
-
-Moreover, the thing which the king demands is difficult, and there is no one else who could declare it to the king except gods, whose dwelling place is not with mortal flesh.”
+What the king asks is too difficult. No one can reveal it to the king except the gods, and they do not dwell among mortals.”
 
 ## Daniel 2:12
-
-Because of this, the king became angry and extremely furious, and he gave orders to kill all the wise men of Babylon.
+This response made the king so angry and furious that he ordered the execution of all the wise men of Babylon.
 
 ## Daniel 2:13
-
-So the decree was issued that the wise men be killed; and they looked for Daniel and his friends, to kill them.
+So the decree was issued to put the wise men to death, and they sought Daniel and his companions to execute them.
 
 ## Daniel 2:14
-
-Then Daniel replied with discretion and discernment to Arioch, the captain of the king’s bodyguard, who had gone out to execute the wise men of Babylon;
+Then Daniel spoke with wisdom and discretion to Arioch, the captain of the king’s guard, who had gone out to execute the wise men of Babylon.
 
 ## Daniel 2:15
-
-He said to Arioch, the king’s officer, “For what reason is the decree from the king so harsh?” Then Arioch informed Daniel of the matter.
+He asked Arioch, the king’s officer, “Why is the decree from the king so harsh?” Arioch explained the situation to Daniel.
 
 ## Daniel 2:16
-
-So Daniel went in and requested of the king that he would give him time, so that he might declare the interpretation to the king.
+Upon hearing this, Daniel went in to the king and requested time, so that he might interpret the dream for him.
 
 ## Daniel 2:17
-
-Then Daniel went to his house and informed his friends, Hananiah, Mishael, and Azariah, about the matter,
+Daniel returned to his house and informed his friends Hananiah, Mishael, and Azariah about the matter,
 
 ## Daniel 2:18
-
-So that they might request compassion from the God of heaven concerning this secret, so that Daniel and his friends would not be killed with the rest of the wise men of Babylon.
+urging them to seek mercy from the God of heaven concerning this mystery, so that he and his friends might not perish with the rest of the wise men of Babylon.
 
 ## Daniel 2:19
-
-Then the secret was revealed to Daniel in a night vision. Then Daniel blessed the God of heaven;
+During the night, the mystery was revealed to Daniel in a vision. Then Daniel praised the God of heaven
 
 ## Daniel 2:20
-
-Daniel said,
-
-> “May the name of God be blessed forever and ever,  
-> For wisdom and power belong to Him.
+and said: “Blessed be the name of God forever and ever, for wisdom and power belong to Him.
 
 ## Daniel 2:21
-
-> It is He who changes the times and the periods;  
-> He removes kings and appoints kings;  
-> He gives wisdom to wise men,  
-> And knowledge to people of understanding.
+He changes times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to those who have understanding.
 
 ## Daniel 2:22
-
-> It is He who reveals the profound and hidden things;  
-> He knows what is in the darkness,  
-> And the light dwells with Him.
+He reveals deep and hidden things; He knows what lies in darkness, and light dwells with Him.
 
 ## Daniel 2:23
-
-> To You, God of my fathers, I give thanks and praise,  
-> For You have given me wisdom and power;  
-> Even now You have made known to me what we requested of You,  
-> For You have made known to us the king’s matter.”
+I thank and praise You, God of my ancestors: You have given me wisdom and power, and You have made known to me what we asked of You; You have made known to us the king’s matter.”
 
 ## Daniel 2:24
-
-Therefore Daniel went to Arioch, whom the king had appointed to kill the wise men of Babylon. He went and said to him, “Do not kill the wise men of Babylon! Bring me before the king, and I will declare the interpretation to the king.”
+Then Daniel went to Arioch, whom the king had appointed to execute the wise men of Babylon, and said, “Do not execute the wise men of Babylon. Take me to the king, and I will interpret his dream for him.”
 
 ## Daniel 2:25
-
-Then Arioch hurriedly brought Daniel before the king and said to him, “I have found a man among the exiles from Judah who can make the interpretation known to the king!”
+Arioch quickly brought Daniel before the king and said, “I have found a man among the exiles from Judah who can explain the king’s dream.”
 
 ## Daniel 2:26
-
-The king said to Daniel, whose name was Belteshazzar, “Are you able to make known to me the dream which I have seen and its interpretation?”
+The king asked Daniel, who was also called Belteshazzar, “Are you able to tell me what I saw in my dream and interpret it?”
 
 ## Daniel 2:27
-
-Daniel answered before the king and said, “As for the secret about which the king has inquired, neither wise men, conjurers, soothsayer priests, nor diviners are able to declare it to the king.
+Daniel answered the king, “No wise man, enchanter, magician, or diviner can explain to the king the mystery he has asked about,
 
 ## Daniel 2:28
-
-However, there is a God in heaven who reveals secrets, and He has made known to King Nebuchadnezzar what will take place in the latter days. This was your dream and the visions in your mind while on your bed:
+but there is a God in heaven who reveals mysteries. He has shown King Nebuchadnezzar what will happen in the latter days. Your dream and the visions that passed through your mind as you lay in bed are these:
 
 ## Daniel 2:29
-
-As for you, O king, while on your bed your thoughts turned to what would take place in the future; and He who reveals secrets has made known to you what will take place.
+As Your Majesty lay there, your mind turned to things to come, and the revealer of mysteries showed you what is going to happen.
 
 ## Daniel 2:30
-
-But as for me, this secret has not been revealed to me for any wisdom residing in me more than in any other living man, but for the purpose of making the interpretation known to the king, and so that you may understand the thoughts of your mind.
+As for me, this mystery has been revealed to me not because I have greater wisdom than anyone else alive, but so that Your Majesty may know the interpretation and understand the thoughts of your mind.
 
 ## Daniel 2:31
-
-You, O king, were watching, and behold, there was a single great statue; that statue, which was large and of extraordinary radiance, was standing in front of you, and its appearance was awesome.
+Your Majesty looked, and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance.
 
 ## Daniel 2:32
-
-The head of that statue was made of fine gold, its chest and arms of silver, its belly and thighs of bronze,
+The head of the statue was made of fine gold, its chest and arms of silver, its belly and thighs of bronze,
 
 ## Daniel 2:33
-
-Its legs of iron, and its feet partly of iron and partly of clay.
+its legs of iron, and its feet partly of iron and partly of clay.
 
 ## Daniel 2:34
-
-You continued watching until a stone was broken off without hands, and it struck the statue on its feet of iron and clay, and crushed them.
+While you were watching, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay and crushed them.
 
 ## Daniel 2:35
-
-Then the iron, the clay, the bronze, the silver, and the gold were crushed to pieces all at the same time, and they were like chaff from the summer threshing floors; and the wind carried them away so that not a trace of them was found. But the stone that struck the statue became a great mountain and filled the entire earth.
+Then the iron, the clay, the bronze, the silver, and the gold were broken to pieces and became like chaff on a summer threshing floor. The wind swept them away without leaving a trace. But the stone that struck the statue became a great mountain and filled the whole earth.
 
 ## Daniel 2:36
-
-“This was the dream; now we will tell its interpretation before the king.
+This was the dream, and now we will interpret it to the king.
 
 ## Daniel 2:37
-
-You, O king, are the king of kings, to whom the God of heaven has given the kingdom, the power, the strength, and the honor;
+Your Majesty, you are the king of kings. The God of heaven has given you dominion, power, strength, and glory;
 
 ## Daniel 2:38
-
-And wherever the sons of mankind live, or the animals of the field, or the birds of the sky, He has handed them over to you and has made you ruler over them all. You are the head of gold.
+in your hands He has placed all mankind and the beasts of the field and the birds in the sky. Wherever they live, He has made you ruler over them all. You are that head of gold.
 
 ## Daniel 2:39
-
-And after you another kingdom will arise inferior to you, then another third kingdom of bronze, which will rule over all the earth.
+After you, another kingdom will arise, inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth.
 
 ## Daniel 2:40
-
-Then there will be a fourth kingdom as strong as iron; just as iron crushes and smashes everything, so, like iron that crushes, it will crush and smash all these things.
+Finally, there will be a fourth kingdom, strong as iron—for iron breaks and smashes everything—and as iron crushes all things, so it will crush and break all the others.
 
 ## Daniel 2:41
-
-And in that you saw the feet and toes, partly of potter’s clay and partly of iron, it will be a divided kingdom; but it will have within it some of the toughness of iron, just as you saw the iron mixed with common clay.
+Just as you saw that the feet and toes were partly of clay and partly of iron, so this will be a divided kingdom; yet it will have some of the strength of iron in it, even as you saw iron mixed with clay.
 
 ## Daniel 2:42
-
-And as the toes of the feet were partly of iron and partly of pottery, so some of the kingdom will be strong and part of it will be fragile.
+As the toes were partly iron and partly clay, so this kingdom will be partly strong and partly brittle.
 
 ## Daniel 2:43
-
-In that you saw the iron mixed with common clay, they will combine with one another in the seed of mankind; but they will not adhere to one another, just as iron does not combine with pottery.
+And just as you saw the iron mixed with clay, so the people will be a mixture and will not remain united, any more than iron mixes with clay.
 
 ## Daniel 2:44
-
-And in the days of those kings the God of heaven will set up a kingdom that will never be destroyed, and that kingdom will not be left for another people; it will crush and put an end to all these kingdoms, but it will itself endure forever.
+In the time of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever.
 
 ## Daniel 2:45
-
-Just as you saw that a stone was broken off from the mountain without hands, and that it crushed the iron, the bronze, the clay, the silver, and the gold, the great God has made known to the king what will take place in the future; so the dream is certain and its interpretation is trustworthy.”
+This is the meaning of the vision of the stone cut out of a mountain, but not by human hands—a stone that broke the iron, the bronze, the clay, the silver, and the gold to pieces. The great God has shown the king what will take place in the future. The dream is true, and its interpretation is reliable.”
 
 ## Daniel 2:46
-
-Then King Nebuchadnezzar fell on his face and paid humble respect to Daniel, and gave orders to present to him an offering and incense.
+Then King Nebuchadnezzar fell prostrate before Daniel and honoured him, and he ordered that an offering and incense be presented to him.
 
 ## Daniel 2:47
-
-The king responded to Daniel and said, “Your God truly is a God of gods and a Lord of kings and a revealer of secrets, since you have been able to reveal this secret.”
+The king said to Daniel, “Surely your God is the God of gods and the Lord of kings and a revealer of mysteries, for you were able to reveal this mystery.”
 
 ## Daniel 2:48
-
-Then the king promoted Daniel and gave him many great gifts, and he made him ruler over the entire province of Babylon, and chief prefect over all the wise men of Babylon.
+Then the king promoted Daniel and gave him many great gifts. He made him ruler over the entire province of Babylon and placed him in charge of all its wise men.
 
 ## Daniel 2:49
-
-And Daniel made a request of the king, and he appointed Shadrach, Meshach, and Abed-nego over the administration of the province of Babylon, while Daniel was at the king’s court.
+Moreover, at Daniel’s request, the king appointed Shadrach, Meshach, and Abednego administrators over the province of Babylon, while Daniel remained at the royal court.

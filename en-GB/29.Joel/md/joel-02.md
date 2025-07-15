@@ -2,228 +2,226 @@
 
 ## Joel 2:1
 
-> Blow a trumpet in Zion,  
-> And sound an alarm on My holy mountain!  
-> Let all the inhabitants of the land tremble,  
-> For the day of the Lord is coming;  
-> Indeed, it is near,
+> Sound the trumpet in Zion;
+> raise the alarm on my holy mountain.
+> Let all the inhabitants of the land tremble,
+> for the day of the Lord is coming;
+> indeed, it is near—
 
 ## Joel 2:2
 
-> A day of darkness and gloom,  
-> A day of clouds and thick darkness.  
-> As dawn is spread over the mountains,  
-> So there is a great and mighty people;  
-> There has never been anything like it,  
-> Nor will there be again after it  
-> To the years of many generations.
+> a day of darkness and gloom,
+> a day of clouds and thick darkness.
+> As dawn spreads over the mountains,
+> a great and mighty people arises;
+> there has never been anything like it,
+> nor will there be again for many generations.
 
 ## Joel 2:3
 
-> A fire consumes before them,  
-> And behind them a flame devours.  
-> The land is like the Garden of Eden before them,  
-> But a desolate wilderness behind them,  
-> And nothing at all escapes them.
+> Before them fire consumes,
+> and behind them a flame devours.
+> The land before them is like the Garden of Eden,
+> but behind them a desolate wilderness
+> —nothing escapes them.
 
 ## Joel 2:4
 
-> Their appearance is like the appearance of horses;  
-> And like war horses, so they run.
+> Their appearance is like that of horses;
+> they gallop like war horses.
 
 ## Joel 2:5
 
-> With a noise as of chariots  
-> They leap about on the tops of the mountains,  
-> Like the crackling of a flame of fire consuming the stubble,  
-> Like a mighty people drawn up for battle.
+> With a noise like chariots,
+> they leap over the mountaintops,
+> like the crackling of a flame consuming stubble,
+> like a mighty army drawn up for battle.
 
 ## Joel 2:6
 
-> Before them the people are in anguish;  
-> All faces turn pale.
+> At their presence, nations are in anguish;
+> every face turns pale.
 
 ## Joel 2:7
 
-> They run like warriors,  
-> They climb the wall like soldiers;  
-> And each of them marches in line,  
-> Nor do they lose their way.
+> They charge like warriors,
+> they scale walls like soldiers.
+> Each marches in line,
+> not swerving from their path.
 
 ## Joel 2:8
 
-> They do not crowd each other,  
-> Every warrior of them marches in his path;  
-> When they burst through the defences,  
-> They do not break ranks.
+> They do not jostle each other;
+> each proceeds straight ahead.
+> They burst through defences
+> without breaking ranks.
 
 ## Joel 2:9
 
-> They storm the city,  
-> They run on the wall;  
-> They climb into the houses,  
-> They enter through the windows like a thief.
+> They storm the city,
+> they run along the wall;
+> they climb into the houses,
+> entering through the windows like thieves.
 
 ## Joel 2:10
 
-> Before them the earth quakes,  
-> The heavens tremble,  
-> The sun and the moon become dark,  
-> And the stars lose their brightness.
+> Before them the earth shakes,
+> the heavens tremble,
+> the sun and moon are darkened,
+> and the stars lose their brightness.
 
 ## Joel 2:11
 
-> The Lord utters His voice before His army;  
-> His camp is indeed very great,  
-> For mighty is one who carries out His word.  
-> The day of the Lord is indeed great and very awesome,  
-> And who can endure it?
+> The Lord thunders at the head of his army;
+> his camp is exceedingly great,
+> for mighty is the one who executes his word.
+> The day of the Lord is great and very awesome;
+> who can endure it?
 
 ## Joel 2:12
 
-> “Yet even now,” declares the Lord,  
-> “Return to Me with all your heart,  
-> And with fasting, weeping, and mourning;
+> “Yet even now,” declares the Lord,
+> “return to me with all your heart,
+> with fasting, weeping, and mourning.”
 
 ## Joel 2:13
 
-> And tear your heart and not merely your garments.”  
-> Now return to the Lord your God,  
-> For He is gracious and compassionate,  
-> Slow to anger, abounding in mercy  
-> And relenting of catastrophe.
+> Tear your heart and not your garments.
+> Return to the Lord your God,
+> for he is gracious and compassionate,
+> slow to anger and abounding in love,
+> and he relents from sending calamity.
 
 ## Joel 2:14
 
-> Who knows, He might turn and relent,  
-> And leave a blessing behind Him,  
-> Even a grain offering and a drink offering  
-> For the Lord your God.
+> Who knows? He may turn and relent
+> and leave a blessing behind
+> —a grain offering and a drink offering
+> for the Lord your God.
 
 ## Joel 2:15
 
-> Blow a trumpet in Zion,  
-> Consecrate a fast,  
-> Proclaim a solemn assembly,
+> Sound the trumpet in Zion,
+> consecrate a fast,
+> call a sacred assembly.
 
 ## Joel 2:16
 
-> Gather the people,  
-> Sanctify the congregation,  
-> Assemble the elders,  
-> Gather the children and the nursing infants.  
-> Have the groom come out of his room  
-> And the bride out of her bridal chamber.
+> Gather the people,
+> sanctify the congregation;
+> assemble the elders,
+> gather the children and those nursing at the breast.
+> Let the bridegroom leave his room
+> and the bride her chamber.
 
 ## Joel 2:17
 
-> Let the priests, the Lord’s ministers,  
-> Weep between the porch and the altar,  
-> And let them say,  
-> “Spare Your people, Lord,  
-> And do not make Your inheritance a disgrace,  
-> With the nations jeering at them.  
-> Why should those among the peoples say,  
+> Let the priests, who minister before the Lord,
+> weep between the porch and the altar.
+> Let them say,
+> “Spare your people, Lord.
+> Do not make your inheritance a disgrace,
+> a byword among the nations.
+> Why should they say among the peoples,
 > ‘Where is their God?’”
 
 ## Joel 2:18
 
-Then the Lord will be zealous for His land,  
-And will have compassion for His people.
+Then the Lord was zealous for his land and had compassion on his people.
 
 ## Joel 2:19
 
-The Lord will answer and say to His people,
+The Lord replied to his people:
 
-> “Behold, I am going to send you grain, new wine, and oil,  
-> And you will be satisfied in full with them;  
-> And I will no longer make you a disgrace among the nations.
+> “I am sending you grain, new wine, and oil,
+> enough to satisfy you fully;
+> never again will I make you a disgrace among the nations.
 
 ## Joel 2:20
 
-> But I will remove the northern army far from you,  
-> And I will drive it into a dry and desolate land,  
-> Its vanguard into the eastern sea,  
-> And its rear guard into the western sea.  
-> And its stench will ascend and its foul smell will come up,  
-> For it has done great things.”
+> “I will drive the northern army far from you,
+> pushing it into a dry and desolate land;
+> its advance guard into the eastern sea
+> and its rear guard into the western sea.
+> Its stench will go up, its smell will rise.”
+> Surely he has done great things!
 
 ## Joel 2:21
 
-> Do not fear, land;  
-> Shout for joy and rejoice,  
-> For the Lord has done great things.
+> Do not fear, land of Judah;
+> be glad and rejoice,
+> for the Lord has done great things!
 
 ## Joel 2:22
 
-> Do not fear, animals of the field,  
-> For the pastures of the wilderness have turned green,  
-> For the tree has produced its fruit,  
-> The fig tree and the vine have yielded in full.
+> Do not fear, you animals of the field,
+> for the pastures of the wilderness are becoming green.
+> The trees bear their fruit;
+> the fig tree and the vine yield their riches.
 
 ## Joel 2:23
 
-> So shout for joy, you sons of Zion,  
-> And rejoice in the Lord your God;  
-> For He has given you the early rain for your vindication,  
-> And He has brought down for you the rain,  
-> The early and latter rain as before.
+> Be glad, people of Zion,
+> rejoice in the Lord your God,
+> for he has given you the early rains in his faithfulness.
+> He sends you abundant showers,
+> both the early and latter rains as before.
 
 ## Joel 2:24
 
-> The threshing floors will be full of grain,  
-> And the vats will overflow with new wine and oil.
+> The threshing floors will be filled with grain;
+> the vats will overflow with new wine and oil.
 
 ## Joel 2:25
 
-> “Then I will compensate you for the years  
-> That the swarming locust has eaten,  
-> The creeping locust, the stripping locust, and the gnawing locust—  
-> My great army which I sent among you.
+> “I will repay you for the years
+> the locusts have eaten—the great locust,
+> the young locust, the other locusts, and the locust swarm
+> —my great army that I sent among you.
 
 ## Joel 2:26
 
-> You will have plenty to eat and be satisfied,  
-> And you will praise the name of the Lord your God,  
-> Who has dealt wondrously with you;  
-> Then My people will never be put to shame.
+> You will have plenty to eat, until you are full,
+> and you will praise the name of the Lord your God,
+> who has worked wonders for you;
+> never again will my people be put to shame.
 
 ## Joel 2:27
 
-> So you will know that I am in the midst of Israel,  
-> And that I am the Lord your God  
-> And there is no other.  
-> And My people will never be put to shame.
+> Then you will know that I am in the midst of Israel,
+> that I am the Lord your God,
+> and there is no other;
+> never again will my people be put to shame.
 
 ## Joel 2:28
 
-> “It will come about after this  
-> That I will pour out My Spirit on all mankind;  
-> And your sons and daughters will prophesy,  
-> Your old men will have dreams,  
-> Your young men will see visions.
+> “And afterward,
+> I will pour out my Spirit on all people.
+> Your sons and daughters will prophesy,
+> your old men will dream dreams,
+> your young men will see visions.
 
 ## Joel 2:29
 
-> And even on the male and female servants  
-> I will pour out My Spirit in those days.
+> Even on my servants, both men and women,
+> I will pour out my Spirit in those days.
 
 ## Joel 2:30
 
-> I will display wonders in the sky and on the earth,  
-> Blood, fire, and columns of smoke.
+> I will show wonders in the heavens and on the earth,
+> blood and fire and columns of smoke.
 
 ## Joel 2:31
 
-> The sun will be turned into darkness,  
-> And the moon into blood,  
-> Before the great and awesome day of the Lord comes.
+> The sun will be turned to darkness
+> and the moon to blood
+> before the coming of the great and awesome day of the Lord.
 
 ## Joel 2:32
 
-> And it will come about that everyone who calls  
-> On the name of the Lord will be saved;  
-> For on Mount Zion and in Jerusalem  
-> There will be those who escape,  
-> Just as the Lord has said,  
-> Even among the survivors whom the Lord calls.
+> And everyone who calls
+> on the name of the Lord will be saved;
+> for on Mount Zion and in Jerusalem
+> there will be deliverance,
+> as the Lord has said,
+> even among the survivors whom the Lord calls.

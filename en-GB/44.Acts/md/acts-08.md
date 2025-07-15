@@ -2,103 +2,89 @@
 
 ## Acts 8:1
 
-Now Saul approved of putting Stephen to death.  
-And on that day a great persecution began against the church in Jerusalem,  
-and they were all scattered throughout the regions of Judea and Samaria, except for the apostles.
+And Saul consented to his death. On that day, a severe persecution arose against the church in Jerusalem, and all except the apostles were dispersed throughout the regions of Judea and Samaria.
 
 ## Acts 8:2
 
-Some devout men buried Stephen, and mourned loudly for him.
+Devout men buried Stephen and made great lamentation over him.
 
 ## Acts 8:3
 
-But Saul began ravaging the church, entering house after house;  
-and he would drag away men and women and put them in prison.
+But Saul was making havoc of the church, entering house after house, and dragging off men and women, committing them to prison.
 
 ---
 
 ## Acts 8:4
 
-Therefore, those who had been scattered went through places preaching the word.
+Therefore, those who were scattered went about preaching the word.
 
 ## Acts 8:5
 
-Philip went down to the city of Samaria and began proclaiming the Christ to them.
+Philip went down to a city of Samaria and began proclaiming the Christ to them.
 
 ## Acts 8:6
 
-The crowds were paying attention with one mind to what was being said by Philip,  
-as they heard and saw the signs which he was performing.
+The crowds paid close attention to what Philip said, as they heard him and saw the signs he performed.
 
 ## Acts 8:7
 
-For in the case of many who had unclean spirits, they were coming out of them shouting with a loud voice;  
-and many who had been paralysed or limping were healed.
+For many who had unclean spirits, crying out with loud voices, were coming out of them; and many who were paralysed or lame were healed.
 
 ## Acts 8:8
 
-So there was much rejoicing in that city.
+So there was much joy in that city.
 
 ---
 
 ## Acts 8:9
 
-Now a man named Simon had previously been practicing magic in the city  
-and astonishing the people of Samaria, claiming to be someone great;
+Now there was a man named Simon, who had previously practised sorcery in the city and amazed the people of Samaria, claiming that he was someone great.
 
 ## Acts 8:10
 
-and all the people, from small to great, were paying attention to him, saying,  
-“This man is the Power of God that is called Great.”
+All the people, from the least to the greatest, paid attention to him, saying, “This man is the Great Power of God.”
 
 ## Acts 8:11
 
-And they were paying attention to him because for a long time he had astounded them with his magic arts.
+They followed him because he had amazed them for a long time with his magic.
 
 ## Acts 8:12
 
-But when they believed Philip as he was proclaiming the good news about the kingdom of God  
-and the name of Jesus Christ, both men and women were being baptised.
+But when they believed Philip as he preached the good news about the kingdom of God and the name of Jesus Christ, they were baptised, both men and women.
 
 ## Acts 8:13
 
-Now even Simon himself believed;  
-and after being baptised, he continued on with Philip,  
-and as he observed signs and great miracles taking place, he was repeatedly amazed.
+Even Simon himself believed and, after being baptised, continued with Philip. He was amazed as he observed the signs and great miracles.
 
 ---
 
 ## Acts 8:14
 
-Now when the apostles in Jerusalem heard that Samaria had received the word of God,  
-they sent them Peter and John,
+When the apostles in Jerusalem heard that Samaria had accepted the word of God, they sent Peter and John to them.
 
 ## Acts 8:15
 
-who came down and prayed for them that they would receive the Holy Spirit.
+When they arrived, they prayed for them that they might receive the Holy Spirit.
 
 ## Acts 8:16
 
-For He had not yet fallen upon any of them; they had simply been baptised in the name of the Lord Jesus.
+For the Holy Spirit had not yet fallen upon any of them; they had only been baptised in the name of the Lord Jesus.
 
 ## Acts 8:17
 
-Then they began laying their hands on them, and they were receiving the Holy Spirit.
+Then Peter and John laid their hands on them, and they received the Holy Spirit.
 
 ## Acts 8:18
 
-Now when Simon saw that the Spirit was given through the laying on of the apostles’ hands,  
-he offered them money,
+When Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money,
 
 ## Acts 8:19
 
-saying,  
-“Give this authority to me as well, so that everyone on whom I lay my hands may receive the Holy Spirit.”
+saying, “Give me this authority as well, so that everyone on whom I lay my hands may receive the Holy Spirit.”
 
 ## Acts 8:20
 
-But Peter said to him,  
-“May your silver perish with you, because you thought you could acquire the gift of God with money!
+But Peter said to him, “May your money perish with you, because you thought you could obtain the gift of God with money!
 
 ## Acts 8:21
 
@@ -106,83 +92,73 @@ You have no part or share in this matter, for your heart is not right before God
 
 ## Acts 8:22
 
-Therefore, repent of this wickedness of yours, and pray to the Lord,  
-if possible, the intention of your heart will be forgiven you.
+Therefore, repent of this wickedness of yours and pray to the Lord, that, if possible, the intention of your heart may be forgiven.
 
 ## Acts 8:23
 
-For I see that you are in the gall of bitterness and in the bondage of unrighteousness.”
+For I see that you are in the gall of bitterness and in the bondage of iniquity.”
 
 ## Acts 8:24
 
-But Simon answered and said,  
-“Pray to the Lord for me yourselves, so that nothing of what you have said may come upon me.”
+Simon answered, “Pray to the Lord for me, so that nothing of what you have said may happen to me.”
 
 ---
 
 ## Acts 8:25
 
-So, after they had solemnly testified and spoken the word of the Lord,  
-they started back to Jerusalem, and were preaching the gospel to many villages of the Samaritans.
+After they had testified and spoken the word of the Lord, they returned to Jerusalem, preaching the gospel in many Samaritan villages.
 
 ---
 
 ## Acts 8:26
 
-But an angel of the Lord spoke to Philip, saying,  
-“Get ready and go south to the road that descends from Jerusalem to Gaza.” (This is a desert road.)
+An angel of the Lord spoke to Philip, saying, “Arise and go south to the road that goes down from Jerusalem to Gaza.” (This is a desert road.)
 
 ## Acts 8:27
 
-So he got ready and went; and there was an Ethiopian eunuch, a court official of Candace, queen of the Ethiopians,  
-who was in charge of all her treasure; and he had come to Jerusalem to worship,
+So he arose and went. There was an Ethiopian eunuch, a court official of Candace, queen of the Ethiopians, who was in charge of all her treasure. He had come to Jerusalem to worship,
 
 ## Acts 8:28
 
-and he was returning and sitting in his chariot, and was reading Isaiah the prophet.
+and was returning, sitting in his chariot, reading the prophet Isaiah.
 
 ## Acts 8:29
 
-Then the Spirit said to Philip, “Go up and join this chariot.”
+The Spirit said to Philip, “Go up and join this chariot.”
 
 ## Acts 8:30
 
-Philip ran up and heard him reading Isaiah the prophet, and said,  
-“Do you understand what you are reading?”
+Philip ran up and heard him reading Isaiah the prophet, and asked, “Do you understand what you are reading?”
 
 ## Acts 8:31
 
-And he said,  
-“Well, how could I, unless someone guides me?”  
-And he invited Philip to come up and sit with him.
+He replied, “How can I, unless someone guides me?” And he invited Philip to come up and sit with him.
 
 ## Acts 8:32
 
-Now the passage of Scripture which he was reading was this:
+Now the passage of Scripture he was reading was this:
 
-> “He was led like a sheep to slaughter;  
-> And like a lamb that is silent before its shearer,  
-> So He does not open His mouth.
+> “He was led as a sheep to the slaughter,
+> and as a lamb before its shearer is silent,
+> so he does not open his mouth.
 
 ## Acts 8:33
 
-> In humiliation His justice was taken away;  
-> Who will describe His generation?  
-> For His life is taken away from the earth.”
+> In his humiliation, justice was denied him.
+> Who can speak of his descendants?
+> For his life was taken from the earth.”
 
 ## Acts 8:34
 
-The eunuch answered Philip and said,  
-“Please tell me, of whom does the prophet say this? Of himself, or of someone else?”
+The eunuch asked Philip, “Please tell me, of whom does the prophet say this? Of himself, or of someone else?”
 
 ## Acts 8:35
 
-Then Philip opened his mouth, and beginning from this Scripture he preached Jesus to him.
+Then Philip opened his mouth, and beginning from this Scripture, he preached Jesus to him.
 
 ## Acts 8:36
 
-As they went along the road, they came to some water; and the eunuch _said_,  
-“Look! Water! What prevents me from being baptised?”
+As they travelled along the road, they came to some water, and the eunuch said, “Look, here is water. What prevents me from being baptised?”
 
 ## Acts 8:37
 
@@ -191,15 +167,12 @@ And he answered and said, “I believe that Jesus Christ is the Son of God.”]
 
 ## Acts 8:38
 
-And he ordered that the chariot stop; and they both went down into the water, Philip as well as the eunuch,  
-and he baptised him.
+And he commanded the chariot to stop. Both Philip and the eunuch went down into the water, and Philip baptised him.
 
 ## Acts 8:39
 
-When they came up out of the water, the Spirit of the Lord snatched Philip away;  
-and the eunuch no longer saw him, but went on his way rejoicing.
+When they came up out of the water, the Spirit of the Lord took Philip away, and the eunuch did not see him again, but went on his way rejoicing.
 
 ## Acts 8:40
 
-But Philip found himself at Azotus, and as he passed through,  
-he kept preaching the gospel to all the cities, until he came to Caesarea.
+Philip, however, found himself at Azotus, and as he passed through, he preached the gospel in all the towns until he reached Caesarea.

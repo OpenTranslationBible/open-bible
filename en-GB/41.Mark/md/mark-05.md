@@ -2,219 +2,186 @@
 
 ## Mark 5:1
 
-They came to the other side of the sea, into the region of the Gerasenes.
+They crossed over to the other side of the sea, into the region of the Gerasenes.
 
 ## Mark 5:2
 
-And when He got out of the boat, immediately a man from the tombs with an unclean spirit met Him.
+As Jesus got out of the boat, a man with an unclean spirit immediately came from the tombs to meet Him.
 
 ## Mark 5:3
 
-He lived among the tombs. And no one was able to bind him anymore, not even with a chain,
+This man lived among the tombs, and no one could bind him anymore, not even with chains.
 
 ## Mark 5:4
 
-because he had often been bound with shackles and chains, and the chains had been torn apart by him,  
-and the shackles broken in pieces, and no one was strong enough to subdue him.
+For he had often been bound with shackles and chains, but he tore the chains apart and broke the shackles; no one was strong enough to subdue him.
 
 ## Mark 5:5
 
-Constantly, night and day, he was screaming among the tombs and in the mountains,  
-and cutting himself with stones.
+Night and day among the tombs and in the hills, he would cry out and cut himself with stones.
 
 ---
 
 ## Mark 5:6
 
-Seeing Jesus from a distance, he ran up and bowed down before Him;
+When he saw Jesus from afar, he ran and bowed down before Him.
 
 ## Mark 5:7
 
-and shouting with a loud voice, he _said_,  
-“What business do You have with me, Jesus, Son of the Most High God?  
-I implore You by God, do not torment me!”
+He shouted with a loud voice, “What do you want with me, Jesus, Son of the Most High God? I implore you by God, do not torment me!”
 
 ## Mark 5:8
 
-For He had already been saying to him, “Come out of the man, you unclean spirit!”
+For Jesus had been saying to him, “Come out of this man, you unclean spirit!”
 
 ## Mark 5:9
 
-And He was asking him, “What is your name?”  
-And he _said to Him_, “My name is Legion, for we are many.”
+Then Jesus asked him, “What is your name?” And he replied, “My name is Legion, for we are many.”
 
 ## Mark 5:10
 
-And he begged Him earnestly not to send them out of the region.
+And he begged Jesus repeatedly not to send them out of the region.
 
 ---
 
 ## Mark 5:11
 
-Now there was a large herd of pigs feeding nearby on the mountain.
+A large herd of pigs was feeding on the nearby hillside.
 
 ## Mark 5:12
 
-And the demons begged Him, saying,  
-“Send us into the pigs so that we may enter them.”
+The demons pleaded with Jesus, “Send us into the pigs so that we may enter them.”
 
 ## Mark 5:13
 
-Jesus gave them permission. And coming out, the unclean spirits entered the pigs;  
-and the herd, about two thousand, rushed down the steep bank into the sea, and they drowned in the sea.
+He gave them permission, and the unclean spirits came out and went into the pigs. The herd, about two thousand in number, rushed down the steep bank into the sea and were drowned.
 
 ---
 
 ## Mark 5:14
 
-And their herdsmen ran away and reported it in the city and in the countryside.  
-And the people came to see what it was that had happened.
+Those tending the pigs ran off and reported this in the town and countryside, and the people came to see what had happened.
 
 ## Mark 5:15
 
-And they _came to Jesus_ and saw the man who had been demon-possessed sitting down,  
-clothed and in his right mind—the very man who had previously had the “Legion”; and they became frightened.
+When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, clothed and in his right mind; and they were afraid.
 
 ## Mark 5:16
 
-Those who had seen it described to them how it had happened to the demon-possessed man,  
-and all about the pigs.
+Those who had seen it described to the people what had happened to the demon-possessed man and about the pigs.
 
 ## Mark 5:17
 
-And they began to beg Him to leave their region.
+Then the people began to plead with Jesus to leave their region.
 
 ---
 
 ## Mark 5:18
 
-And as He was getting into the boat,  
-the man who had been demon-possessed was begging Him that he might accompany Him.
+As Jesus was getting into the boat, the man who had been demon-possessed begged to go with Him.
 
 ## Mark 5:19
 
-And He did not let him, but He _said to him_,  
-“Go home to your people and report to them what great things the Lord has done for you,  
-and how He had mercy on you.”
+Jesus did not let him, but said, “Go home to your own people and tell them what great things the Lord has done for you, and how He has had mercy on you.”
 
 ## Mark 5:20
 
-And he went away and began to proclaim in the Decapolis what great things Jesus had done for him;  
-and everyone was amazed.
+So the man went away and began to proclaim in the Decapolis what great things Jesus had done for him. And all the people were amazed.
 
 ---
 
 ## Mark 5:21
 
-When Jesus had crossed over again in the boat to the other side,  
-a large crowd gathered around Him; and He stayed by the seashore.
+When Jesus had crossed over again by boat to the other side, a large crowd gathered around Him while He was by the sea.
 
 ## Mark 5:22
 
-And one of the synagogue officials, named Jairus, _came_,  
-and upon seeing Him, _fell at His feet_
+Then one of the synagogue leaders, named Jairus, came, and when he saw Jesus, he fell at His feet.
 
 ## Mark 5:23
 
-and pleaded with Him earnestly, saying,  
-“My little daughter is at the point of death; please come and lay Your hands on her,  
-so that she will get well and live.”
+He pleaded earnestly with Him, “My little daughter is at the point of death. Please come and lay Your hands on her so that she will be healed and live.”
 
 ## Mark 5:24
 
-And He went off with him; and a large crowd was following Him and pressing in on Him.
+So Jesus went with him. A large crowd followed and pressed around Him.
 
 ---
 
 ## Mark 5:25
 
-A woman who had had a haemorrhage for twelve years,
+And a woman was there who had been subject to bleeding for twelve years.
 
 ## Mark 5:26
 
-and had endured much at the hands of many physicians,  
-and had spent all that she had and was not helped at all, but instead had become worse—
+She had suffered a great deal under the care of many doctors and had spent all she had, yet instead of getting better she grew worse.
 
 ## Mark 5:27
 
-after hearing about Jesus, she came up in the crowd behind Him and touched His cloak.
+When she heard about Jesus, she came up behind Him in the crowd and touched His cloak,
 
 ## Mark 5:28
 
-For she had been saying to herself,  
-“If I just touch His garments, I will get well.”
+because she thought, “If I just touch His clothes, I will be healed.”
 
 ## Mark 5:29
 
-And immediately the flow of her blood was dried up;  
-and she felt in her body that she was healed of her disease.
+Immediately her bleeding stopped and she felt in her body that she was freed from her suffering.
 
 ## Mark 5:30
 
-And immediately Jesus, perceiving in Himself that power from Him had gone out,  
-turned around in the crowd and said, “Who touched My garments?”
+At once Jesus realised that power had gone out from Him. He turned around in the crowd and asked, “Who touched My clothes?”
 
 ## Mark 5:31
 
-And His disciples _said to Him_,  
-“You see the crowd pressing in on You, and You say, ‘Who touched Me?’”
+“You see the people crowding against You,” His disciples answered, “and yet You can ask, ‘Who touched Me?’”
 
 ## Mark 5:32
 
-And He looked around to see the woman who had done this.
+But Jesus kept looking around to see who had done it.
 
 ## Mark 5:33
 
-But the woman, fearing and trembling, aware of what had happened to her,  
-came and fell down before Him and told Him the whole truth.
+Then the woman, knowing what had happened to her, came and fell at His feet and, trembling with fear, told Him the whole truth.
 
 ## Mark 5:34
 
-And He _said to her_,  
-“Daughter, your faith has made you well; go in peace and be cured of your disease.”
+He said to her, “Daughter, your faith has made you well. Go in peace and be freed from your suffering.”
 
 ---
 
 ## Mark 5:35
 
-While He was still speaking, people _came_ from the house of the synagogue official, saying,  
-“Your daughter has died; why bother the Teacher further?”
+While Jesus was still speaking, some people came from the house of Jairus, the synagogue leader. “Your daughter is dead,” they said. “Why bother the Teacher anymore?”
 
 ## Mark 5:36
 
-But Jesus, overhearing what was being spoken, _said to the synagogue official_,  
-“Do not be afraid, only believe.”
+Overhearing what they said, Jesus told him, “Do not be afraid; just believe.”
 
 ## Mark 5:37
 
-And He allowed no one to accompany Him except Peter, James, and John the brother of James.
+He did not let anyone follow Him except Peter, James, and John the brother of James.
 
 ## Mark 5:38
 
-They _came_ to the house of the synagogue official,  
-and He _saw a commotion_, and people loudly weeping and wailing.
+When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
 
 ## Mark 5:39
 
-And after entering, He _said to them_,  
-“Why are you making a commotion and weeping? The child has not died, but is asleep.”
+He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
 
 ## Mark 5:40
 
-And they began laughing at Him. But He sent them all out,  
-and _took along_ the child’s father and mother, and His own companions, and _entered the room_ where the child was.
+But they laughed at Him. After He put them all out, He took the child’s father and mother and the disciples who were with Him, and went in where the child was.
 
 ## Mark 5:41
 
-And taking the child by the hand, He _said to her_,  
-“Talitha, kum!” (which translated means, “Little girl, I say to you, get up!”).
+He took her by the hand and said to her, “Talitha koum!” (which means, “Little girl, I say to you, get up!”).
 
 ## Mark 5:42
 
-And immediately the girl got up and began to walk, for she was twelve years old.  
-And immediately they were completely astonished.
+Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.
 
 ## Mark 5:43
 
-And He gave them strict orders that no one was to know about this,  
-and He told them to give her something to eat.
+He gave strict orders not to let anyone know about this, and told them to give her something to eat.

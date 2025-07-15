@@ -1,134 +1,133 @@
 # Leviticus Chapter 23
 
 ## Leviticus 23:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 23:2
-“Speak to the Israelites and say: These are My appointed festivals, the sacred assemblies you are to proclaim at their appointed times.
+“Speak to the Israelites and say to them: ‘These are the Lord’s appointed times, which you shall proclaim as holy assemblies—My appointed festivals are these:
 
 ## Leviticus 23:3
-There are six days when you may work, but the seventh day is a sabbath of rest, a day of sacred assembly.
+For six days work may be done, but the seventh day is a Sabbath of complete rest, a holy assembly. You shall not do any work; it is a Sabbath to the Lord in all your dwellings.
 
 ## Leviticus 23:4
-These are the Lord’s appointed festivals, the sacred assemblies you are to proclaim at their appointed times:
+These are the Lord’s appointed times, holy assemblies, which you shall proclaim at the times appointed for them:
 
 ## Leviticus 23:5
-The Passover begins at twilight on the fourteenth day of the first month.
+In the first month, on the fourteenth day of the month at twilight, is the Lord’s Passover.
 
 ## Leviticus 23:6
-The Festival of Unleavened Bread starts on the fifteenth day and lasts seven days; eat bread made without yeast.
+On the fifteenth day of the same month is the Festival of Unleavened Bread to the Lord; for seven days you shall eat bread made without yeast.
 
 ## Leviticus 23:7
-Hold a sacred assembly on the first day and do no regular work.
+On the first day hold a holy assembly; you shall not do any regular work.
 
 ## Leviticus 23:8
-For seven days present food offerings to the Lord. On the seventh day, hold another sacred assembly and do no work.
+For seven days present an offering by fire to the Lord. On the seventh day hold a holy assembly; you shall not do any regular work.’”
 
 ## Leviticus 23:9
-The Lord said to Moses,
+Then the Lord spoke to Moses, saying,
 
 ## Leviticus 23:10
-“When you enter the land I am giving you and reap its harvest, bring the first sheaf of your harvest to the priest.
+“Speak to the Israelites and say to them: ‘When you enter the land which I am going to give you and you reap its harvest, bring to the priest a sheaf of the first grain you harvest.
 
 ## Leviticus 23:11
-He is to wave the sheaf before the Lord so it may be accepted. Do this the day after the Sabbath.
+He shall wave the sheaf before the Lord so it may be accepted on your behalf; the priest is to wave it on the day after the Sabbath.
 
 ## Leviticus 23:12
-On that day, sacrifice a year-old male lamb without defect as a burnt offering.
+On the day you wave the sheaf, you shall offer a male lamb a year old without defect as a burnt offering to the Lord,
 
 ## Leviticus 23:13
-With it present a grain offering and a drink offering.
+together with its grain offering of two-tenths of an ephah of the finest flour mixed with oil, an offering by fire to the Lord, a pleasing aroma, and its drink offering of a quarter of a hin of wine.
 
 ## Leviticus 23:14
-Do not eat any bread or new grain until this offering is presented.
+You shall not eat any bread, or roasted or new grain, until the very day you bring this offering to your God. This is to be a lasting ordinance for the generations to come, wherever you live.
 
 ## Leviticus 23:15
-From the day after the Sabbath, count seven full weeks.
+From the day after the Sabbath, the day you brought the sheaf of the wave offering, you shall count off seven full weeks.
 
 ## Leviticus 23:16
-On the fiftieth day, present a new grain offering to the Lord.
+Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord.
 
 ## Leviticus 23:17
-Bring two loaves made with yeast as a wave offering.
+From wherever you live, bring two loaves made of two-tenths of an ephah of the finest flour, baked with yeast, as a wave offering of firstfruits to the Lord.
 
 ## Leviticus 23:18
-Present with them seven male lambs, one young bull and two rams—all without defect.
+With this bread, present seven male lambs, each a year old and without defect, one young bull and two rams. They shall be a burnt offering to the Lord, with their grain offerings and drink offerings, an offering by fire, a pleasing aroma to the Lord.
 
 ## Leviticus 23:19
-Then sacrifice one male goat for a sin offering and two lambs for a fellowship offering.
+Then sacrifice one male goat for a sin offering and two lambs, each a year old, as a fellowship offering.
 
 ## Leviticus 23:20
-The priest is to wave them before the Lord. They are sacred and belong to the priest.
+The priest shall wave the two lambs before the Lord as a wave offering, together with the bread of the firstfruits. They are a sacred offering to the Lord for the priest.
 
 ## Leviticus 23:21
-On that same day, hold a sacred assembly and do no work. This is to be a lasting ordinance.
+On that same day you shall proclaim a holy assembly and do no regular work. This is to be a lasting ordinance for the generations to come, wherever you live.
 
 ## Leviticus 23:22
-When you reap the harvest, do not reap to the edges or gather the gleanings. Leave them for the poor and foreigner.
+When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest. Leave them for the poor and the foreigner residing among you. I am the Lord your God.’”
 
 ## Leviticus 23:23
-The Lord said to Moses,
+The Lord spoke to Moses again, saying,
 
 ## Leviticus 23:24
-“On the first day of the seventh month, have a day of sabbath rest, a sacred assembly commemorated with trumpet blasts.
+“Speak to the Israelites, saying, ‘On the first day of the seventh month you shall have a day of rest, a memorial proclaimed with trumpet blasts, a holy assembly.
 
 ## Leviticus 23:25
-Do no regular work and present a food offering.
+You shall not do any regular work, but you shall present an offering by fire to the Lord.’”
 
 ## Leviticus 23:26
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 23:27
-“The tenth day of the seventh month is the Day of Atonement. Hold a sacred assembly and deny yourselves.
+“On the tenth day of this seventh month is the Day of Atonement. Hold a holy assembly and humble yourselves, and present an offering by fire to the Lord.
 
 ## Leviticus 23:28
-Do not do any work, for it is a day of atonement.
+You shall not do any work on that day, for it is the Day of Atonement, to make atonement for you before the Lord your God.
 
 ## Leviticus 23:29
-Anyone who does not deny themselves must be cut off.
+Anyone who does not humble himself on that day must be cut off from his people.
 
 ## Leviticus 23:30
-I will destroy anyone who does any work on that day.
+I will destroy from among his people anyone who does any work on that day.
 
 ## Leviticus 23:31
-You shall do no work at all. This is to be a lasting ordinance.
+You shall do no work at all. This is to be a lasting ordinance for the generations to come, wherever you live.
 
 ## Leviticus 23:32
-It is a day of sabbath rest. Begin the evening before and observe it until the following evening.
+It is a Sabbath of complete rest for you, and you must humble yourselves. From the evening of the ninth day of the month until the following evening you shall observe your Sabbath.”
 
 ## Leviticus 23:33
-The Lord said to Moses,
+The Lord spoke to Moses again, saying,
 
 ## Leviticus 23:34
-“On the fifteenth day of the seventh month begins the Festival of Tabernacles. It lasts seven days.
+“Speak to the Israelites, saying, ‘On the fifteenth day of this seventh month is the Festival of Tabernacles for seven days to the Lord.
 
 ## Leviticus 23:35
-On the first day, hold a sacred assembly and do no regular work.
+On the first day is a holy assembly; you shall not do any regular work.
 
 ## Leviticus 23:36
-For seven days present food offerings. On the eighth day, hold another assembly and present an offering.
+For seven days you shall present an offering by fire to the Lord, and on the eighth day hold a holy assembly and present an offering by fire to the Lord. It is a closing special assembly; you shall not do any regular work.
 
 ## Leviticus 23:37
-These are the Lord’s appointed festivals, which you are to proclaim as sacred assemblies.
+These are the Lord’s appointed festivals, which you shall proclaim as holy assemblies for bringing offerings by fire to the Lord—burnt offerings and grain offerings, sacrifices and drink offerings, each day’s requirement on its own day—
 
 ## Leviticus 23:38
-These offerings are in addition to your regular sabbaths, gifts and vows.
+besides those of the Sabbaths of the Lord, and besides your gifts and all your vowed and voluntary offerings, which you give to the Lord.
 
 ## Leviticus 23:39
-On the fifteenth day of the seventh month, after the harvest, celebrate a festival to the Lord for seven days.
+On the fifteenth day of the seventh month, when you have gathered in the crops of the land, you shall celebrate the festival to the Lord for seven days; the first day is a day of rest, and the eighth day also is a day of rest.
 
 ## Leviticus 23:40
-Take branches from trees—palm, leafy, and poplars—and rejoice before the Lord.
+On the first day you shall take branches from luxuriant trees, from palms, willows and other leafy trees, and rejoice before the Lord your God for seven days.
 
 ## Leviticus 23:41
-Celebrate this festival annually. It is a lasting ordinance for all generations.
+Celebrate it as a festival to the Lord for seven days each year. This is to be a lasting ordinance for the generations to come; celebrate it in the seventh month.
 
 ## Leviticus 23:42
-Live in temporary shelters for seven days.
+Live in temporary shelters for seven days; all native-born Israelites shall live in such shelters,
 
 ## Leviticus 23:43
-This reminds you that I made the Israelites live in booths when I brought them out of Egypt. I am the Lord your God.
+so that your descendants may know that I had the Israelites live in temporary shelters when I brought them out of Egypt. I am the Lord your God.’”
 
 ## Leviticus 23:44
-So Moses announced to the Israelites the appointed festivals of the Lord.
-
+So Moses declared to the Israelites the appointed festivals of the Lord.

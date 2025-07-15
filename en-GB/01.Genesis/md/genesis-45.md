@@ -1,116 +1,85 @@
 # Genesis Chapter 45
 
 ## Genesis 45:1
-
-Then Joseph could not control himself in front of everyone standing before him, and he shouted, “Have everyone leave me!”  
-So there was no one with him when Joseph made himself known to his brothers.
+Then Joseph could no longer restrain himself before all those standing by him, and he called out, “Have everyone leave me!” So there was no one with Joseph when he revealed himself to his brothers.
 
 ## Genesis 45:2
-
-Then he wept so loudly that the Egyptians heard it, and the household of Pharaoh heard about it.
+He wept so loudly that the Egyptians heard it, and the news reached Pharaoh’s household.
 
 ## Genesis 45:3
-
-And Joseph said to his brothers, “I am Joseph! Is my father still alive?”  
-But his brothers could not answer him, for they were terrified in his presence.
+Joseph said to his brothers, “I am Joseph! Is my father still alive?” But his brothers were unable to answer him, for they were terrified in his presence.
 
 ## Genesis 45:4
-
-Then Joseph said to his brothers, “Please come closer to me.” And they came closer.  
-And he said, “I am your brother Joseph, whom you sold to Egypt.
+Then Joseph said to his brothers, “Please come closer to me.” When they had approached, he said, “I am your brother Joseph, whom you sold into Egypt.
 
 ## Genesis 45:5
-
-Now do not be distressed or angry with yourselves because you sold me here, for God sent me ahead of you to save lives.
+Now, do not be distressed or angry with yourselves for selling me here, because God sent me ahead of you to preserve life.
 
 ## Genesis 45:6
-
-For the famine has been in the land these two years, and there are still five years in which there will be neither plowing nor harvesting.
+For the famine has been in the land for two years, and there are still five years in which there will be no ploughing or harvesting.
 
 ## Genesis 45:7
-
-So God sent me ahead of you to ensure for you a remnant on the earth, and to keep you alive by a great deliverance.
+God sent me ahead of you to ensure a remnant on earth and to save your lives by a great deliverance.
 
 ## Genesis 45:8
-
-Now, therefore, it was not you who sent me here, but God; and He has made me a father to Pharaoh and lord of all his household, and ruler over all the land of Egypt.
+So it was not you who sent me here, but God. He has made me a father to Pharaoh, lord of all his household, and ruler over all Egypt.
 
 ## Genesis 45:9
-
-Hurry and go up to my father, and say to him, ‘This is what your son Joseph says: “God has made me lord of all Egypt; come down to me, do not delay.
+Hurry back to my father and say to him, ‘This is what your son Joseph says: God has made me lord of all Egypt. Come down to me; do not delay.
 
 ## Genesis 45:10
-
-You shall live in the land of Goshen, and you shall be near me, you and your children and your grandchildren, and your flocks, your herds, and all that you have.
+You shall live in the land of Goshen and be near me—you, your children and grandchildren, your flocks and herds, and all that you have.
 
 ## Genesis 45:11
-
-There I will also provide for you, for there are still five years of famine to come, and you and your household and all that you have would become impoverished.”’
+I will provide for you there, for there are still five years of famine to come, lest you and your household and all you have become destitute.’
 
 ## Genesis 45:12
-
-Behold, your eyes see, and the eyes of my brother Benjamin see, that it is my mouth which is speaking to you.
+Behold, your eyes and the eyes of my brother Benjamin see that it is I who am speaking to you.
 
 ## Genesis 45:13
-
-Now you must tell my father of all my splendor in Egypt, and all that you have seen; and you must hurry and bring my father down here.”
+Tell my father about all my honour in Egypt and about everything you have seen. And bring my father down here quickly.”
 
 ## Genesis 45:14
-
-Then he fell on his brother Benjamin’s neck and wept, and Benjamin wept on his neck.
+Then he embraced his brother Benjamin and wept, and Benjamin wept on his shoulder.
 
 ## Genesis 45:15
-
-And he kissed all his brothers and wept on them, and afterward his brothers talked with him.
+He kissed all his brothers and wept over them. Afterwards, his brothers talked with him.
 
 ## Genesis 45:16
-
-Now when the news was heard in Pharaoh’s house that Joseph’s brothers had come, it pleased Pharaoh and his servants.
+When the news reached Pharaoh’s house that Joseph’s brothers had come, it pleased Pharaoh and his servants.
 
 ## Genesis 45:17
-
-Then Pharaoh said to Joseph, “Say to your brothers, ‘Do this: load your animals and go to the land of Canaan,
+Pharaoh said to Joseph, “Tell your brothers, ‘Do this: Load your animals and return to the land of Canaan,
 
 ## Genesis 45:18
-
-And take your father and your households and come to me, and I will give you the best of the land of Egypt, and you will eat the fat of the land.’
+and bring your father and your households back to me. I will give you the best of the land of Egypt, and you shall enjoy the fat of the land.’
 
 ## Genesis 45:19
-
-Now you are ordered: ‘Do this, take wagons from the land of Egypt for your little ones and your wives, and bring your father and come.
+You are also instructed, ‘Do this: Take some wagons from Egypt for your little ones and your wives, and bring your father and come.
 
 ## Genesis 45:20
-
-Do not concern yourselves with your property, for the best of all the land of Egypt is yours.’”
+Do not worry about your belongings, for the best of all the land of Egypt is yours.’”
 
 ## Genesis 45:21
-
-Then the sons of Israel did so; and Joseph gave them wagons according to the command of Pharaoh, and gave them provisions for the journey.
+The sons of Israel did so. Joseph gave them wagons, as Pharaoh had commanded, and also provided them with provisions for the journey.
 
 ## Genesis 45:22
-
 To each of them he gave changes of garments, but to Benjamin he gave three hundred pieces of silver and five changes of garments.
 
 ## Genesis 45:23
-
-And to his father he sent the following: ten male donkeys loaded with the best things of Egypt, and ten female donkeys loaded with grain, bread, and sustenance for his father on the journey.
+To his father he sent the following: ten donkeys loaded with the best things of Egypt, and ten female donkeys loaded with grain, bread, and provisions for the journey.
 
 ## Genesis 45:24
-
-So he sent his brothers away, and as they departed, he said to them, “Do not quarrel on the journey.”
+He sent his brothers away, and as they departed, he said to them, “Do not quarrel on the way!”
 
 ## Genesis 45:25
-
-Then they went up from Egypt and came to the land of Canaan, to their father Jacob.
+They went up from Egypt and came to their father Jacob in the land of Canaan.
 
 ## Genesis 45:26
-
-And they told him, saying, “Joseph is still alive, and indeed he is ruler over all the land of Egypt!” But he was stunned, for he did not believe them.
+They told him, “Joseph is still alive, and indeed he is ruler over all Egypt.” Jacob was stunned, for he did not believe them.
 
 ## Genesis 45:27
-
-Yet when they told him all the words of Joseph that he had said to them, and when he saw the wagons that Joseph had sent to carry him, the spirit of their father Jacob revived.
+But when they recounted to him all the words Joseph had spoken to them, and when he saw the wagons Joseph had sent to carry him, the spirit of their father Jacob revived.
 
 ## Genesis 45:28
-
 Then Israel said, “It is enough; my son Joseph is still alive. I will go and see him before I die.”

@@ -2,148 +2,120 @@
 
 ## Mark 2:1
 
-When He had come back to Capernaum several days afterward, it was heard that He was at home.
+A few days later, when Jesus returned to Capernaum, it was reported that he was at home.
 
 ## Mark 2:2
 
-And many were gathered together, so that there was no longer room, not even near the door;  
-and He was speaking the word to them.
+A large crowd gathered, so much so that there was no room left, not even near the door, and he was speaking the word to them.
 
 ## Mark 2:3
 
-And some people _came_, bringing to Him a man who was paralysed, carried by four men.
+Some people came, bringing a paralysed man, carried by four of them, to Jesus.
 
 ## Mark 2:4
 
-And when they were unable to bring him to Jesus because of the crowd,  
-they removed the roof above Him; and after digging an opening,  
-they let down the mat on which the paralysed man was lying.
+Since they could not bring him to Jesus because of the crowd, they removed the roof above him, and after making an opening, they lowered the mat on which the paralysed man was lying.
 
 ## Mark 2:5
 
-And Jesus, seeing their faith, _said to the paralysed man_,  
-“Son, your sins are forgiven.”
+When Jesus saw their faith, he said to the paralysed man, “Son, your sins are forgiven.”
 
 ## Mark 2:6
 
-But some of the scribes were sitting there and thinking it over in their hearts,
+But some of the teachers of the law were sitting there, thinking to themselves,
 
 ## Mark 2:7
 
-“Why does this man speak that way? He is blaspheming!  
-Who can forgive sins except God alone?”
+“Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?”
 
 ## Mark 2:8
 
-Immediately Jesus, aware in His spirit that they were thinking that way within themselves,  
-_said to them_, “Why are you thinking about these things in your hearts?
+Immediately Jesus, aware in his spirit that they were thinking this way within themselves, said to them, “Why are you thinking these things in your hearts?
 
 ## Mark 2:9
 
-Which is easier, to say to the paralysed man, ‘Your sins are forgiven,’  
-or to say, ‘Get up, and pick up your mat and walk’?
+Which is easier: to say to this paralysed man, ‘Your sins are forgiven,’ or to say, ‘Get up, take your mat and walk’?
 
 ## Mark 2:10
 
-But so that you may know that the Son of Man has authority on earth to forgive sins”—  
-He _said to the paralysed man_,
+But so that you may know that the Son of Man has authority on earth to forgive sins”—he said to the paralysed man,
 
 ## Mark 2:11
 
-“I say to you, get up, pick up your mat, and go home.”
+“I say to you, get up, take your mat and go home.”
 
 ## Mark 2:12
 
-And he got up and immediately picked up the mat and went out in the sight of everyone,  
-so that they were all amazed and were glorifying God, saying,  
-“We have never seen anything like this!”
+And he got up, took his mat, and walked out in full view of them all. This amazed everyone, and they praised God, saying, “We have never seen anything like this!”
 
 ---
 
 ## Mark 2:13
 
-And He went out again by the seashore; and all the people were coming to Him, and He was teaching them.
+Once again Jesus went out by the lakeside. A large crowd came to him, and he began to teach them.
 
 ## Mark 2:14
 
-As He passed by, He saw Levi the son of Alphaeus sitting at the tax office,  
-and He _said to him_, “Follow Me!” And he got up and followed Him.
+As he passed by, he saw Levi son of Alphaeus sitting at the tax collector’s booth. “Follow me,” Jesus told him, and Levi got up and followed him.
 
 ---
 
 ## Mark 2:15
 
-And it _happened_ that He was reclining at the table in his house,  
-and many tax collectors and sinners were dining with Jesus and His disciples;  
-for there were many of them, and they were following Him.
+While Jesus was reclining at the table in Levi’s house, many tax collectors and sinners were dining with him and his disciples, for there were many who followed him.
 
 ## Mark 2:16
 
-When the scribes of the Pharisees saw that He was eating with the sinners and tax collectors,  
-they _said to His disciples_, “Why is He eating with tax collectors and sinners?”
+When the teachers of the law who were Pharisees saw him eating with the sinners and tax collectors, they asked his disciples, “Why does he eat with tax collectors and sinners?”
 
 ## Mark 2:17
 
-And hearing this, Jesus _said to them_,  
-“It is not those who are healthy who need a physician, but those who are sick;  
-I did not come to call the righteous, but sinners.”
+On hearing this, Jesus said to them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”
 
 ---
 
 ## Mark 2:18
 
-John’s disciples and the Pharisees were fasting; and they _came and said to Him_,  
-“Why do John’s disciples and the disciples of the Pharisees fast, but Your disciples do not fast?”
+Now John’s disciples and the Pharisees were fasting. Some people came and asked Jesus, “Why do John’s disciples and the disciples of the Pharisees fast, but your disciples do not?”
 
 ## Mark 2:19
 
-And Jesus _said to them_,  
-“While the groom is with them, the attendants of the groom cannot fast, can they?  
-So long as they have the groom with them, they cannot fast.
+Jesus answered, “Can the guests of the bridegroom fast while he is with them? As long as they have him with them, they cannot fast.
 
 ## Mark 2:20
 
-But the days will come when the groom is taken away from them, and then they will fast on that day.
+But the days will come when the bridegroom will be taken from them, and then they will fast on that day.
 
 ## Mark 2:21
 
-No one sews a patch of unshrunk cloth on an old garment;  
-otherwise, the patch pulls away from it, the new from the old, and a worse tear results.
+“No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse.
 
 ## Mark 2:22
 
-And no one puts new wine into old wineskins;  
-otherwise the wine will burst the skins, and the wine is lost, and the skins as well;  
-but one puts new wine into fresh wineskins.”
+And no one pours new wine into old wineskins. Otherwise, the wine will burst the skins, and both the wine and the wineskins will be ruined. No, they pour new wine into fresh wineskins.”
 
 ---
 
 ## Mark 2:23
 
-And it _happened_ that He was passing through the grainfields on the Sabbath,  
-and His disciples began to make their way along while picking the heads of grain.
+And it happened that Jesus was going through the grainfields on the Sabbath, and his disciples began to pick some heads of grain as they walked along.
 
 ## Mark 2:24
 
-And the Pharisees were saying to Him,  
-“Look, why are they doing what is not lawful on the Sabbath?”
+The Pharisees said to him, “Look, why are they doing what is not lawful on the Sabbath?”
 
 ## Mark 2:25
 
-And He _said to them_,  
-“Have you never read what David did when he was in need and he and his companions became hungry—
+He said to them, “Have you never read what David did when he was in need and he and his companions were hungry;
 
 ## Mark 2:26
 
-how he entered the house of God in the time of Abiathar the high priest,  
-and ate the consecrated bread, which is not lawful for anyone to eat except the priests,  
-and he also gave it to those who were with him?”
+how he entered the house of God in the time of Abiathar the high priest and ate the consecrated bread, which is lawful only for priests to eat, and he also gave some to his companions?”
 
 ## Mark 2:27
 
-Jesus _said to them_,  
-“The Sabbath was made for man, and not man for the Sabbath.
+Then he said to them, “The Sabbath was made for man, not man for the Sabbath.
 
 ## Mark 2:28
 
-So the Son of Man is Lord, even of the Sabbath.”
+So the Son of Man is Lord even of the Sabbath.”

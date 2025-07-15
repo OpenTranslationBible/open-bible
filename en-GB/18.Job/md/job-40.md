@@ -2,125 +2,125 @@
 
 ## Job 40:1
 
-Then the Lord responded to Job,
+Then the Lord addressed Job,
 
 ## Job 40:2
 
-> “Will the faultfinder contend with the Almighty?  
-> Let him who rebukes God give an answer.”
+> “Will the one who finds fault contend with the Almighty?
+> Let the one who challenges God respond.”
 
 ---
 
 ## Job 40:3
 
-Then Job answered the Lord and said,
+Then Job replied to the Lord,
 
 ## Job 40:4
 
-> “Behold, I am insignificant; what can I say in response to You?  
-> I put my hand over my mouth.
+> “Behold, I am of little account; how can I answer You?
+> I will place my hand over my mouth.
 
 ## Job 40:5
 
-> I have spoken once, and I will not reply;  
-> Or twice, and I will add nothing more.”
+> I have spoken once, and I will not reply;
+> twice, and I will add nothing further.”
 
 ---
 
 ## Job 40:6
 
-Then the Lord answered Job from the whirlwind and said,
+Then the Lord spoke to Job from the whirlwind,
 
 ## Job 40:7
 
-> “Now tighten the belt on your waist like a man;  
-> I will ask you, and you instruct Me.
+> “Prepare yourself like a man;
+> I will question you, and you shall inform me.
 
 ## Job 40:8
 
-> Will you really nullify My judgment?  
-> Will you condemn Me so that you may be justified?
+> Will you indeed annul my judgement?
+> Will you condemn me to justify yourself?
 
 ## Job 40:9
 
-> Or do you have an arm like God,  
-> And can you thunder with a voice like His?
+> Do you have an arm like God’s,
+> and can your voice thunder like His?
 
 ---
 
 ## Job 40:10
 
-> “Adorn yourself with pride and dignity,  
-> And clothe yourself with honour and majesty.
+> Adorn yourself with grandeur and dignity,
+> and clothe yourself with honour and majesty.
 
 ## Job 40:11
 
-> Let loose your fierce anger,  
-> And look at everyone who is arrogant, and humble him.
+> Release the fury of your wrath,
+> and look at all who are proud and humble them.
 
 ## Job 40:12
 
-> Look at everyone who is arrogant, and humble him,  
-> And trample down the wicked where they stand.
+> Look at all who are arrogant and bring them low,
+> and crush the wicked where they stand.
 
 ## Job 40:13
 
-> Hide them together in the dust;  
-> Imprison them in the hidden place.
+> Bury them in the dust together;
+> imprison them in the hidden place.
 
 ## Job 40:14
 
-> Then I will also confess to you,  
-> That your own right hand can save you.
+> Then I will acknowledge to you
+> that your own right hand can deliver you.
 
 ---
 
 ## Job 40:15
 
-> “Behold, Behemoth, which I made as well as you;  
-> He eats grass like an ox.
+> Behold, Behemoth, which I made along with you;
+> it eats grass like an ox.
 
 ## Job 40:16
 
-> Behold, his strength is in his hips,  
-> And his power in the muscles of his stomach.
+> See the strength in its loins,
+> and the power in the muscles of its belly.
 
 ## Job 40:17
 
-> He bends his tail like a cedar;  
-> The tendons of his thighs are knit together.
+> Its tail sways like a cedar;
+> the sinews of its thighs are closely bound.
 
 ## Job 40:18
 
-> His bones are tubes of bronze;  
-> His limbs are like bars of iron.
+> Its bones are like tubes of bronze,
+> its limbs like bars of iron.
 
 ## Job 40:19
 
-> He is the first of the ways of God;  
-> Let his Maker bring His sword near.
+> It is the foremost of the works of God;
+> its Maker can approach it with His sword.
 
 ## Job 40:20
 
-> Indeed the mountains bring him food,  
-> And all the animals of the field play there.
+> The mountains yield food for it,
+> and all the wild animals play nearby.
 
 ## Job 40:21
 
-> He lies down under the lotus plants,  
-> In the hiding place of the reeds and the marsh.
+> Under the lotus plants it lies,
+> hidden among the reeds in the marsh.
 
 ## Job 40:22
 
-> The lotus plants cover him with shade;  
-> The willows of the brook surround him.
+> The lotuses provide it with shade;
+> the willows of the brook surround it.
 
 ## Job 40:23
 
-> If a river rages, he is not alarmed;  
-> He is confident, though the Jordan rushes to his mouth.
+> Though a river rages, it is not alarmed;
+> it remains confident, even if the Jordan surges against its mouth.
 
 ## Job 40:24
 
-> Can anyone capture him when he is on watch,  
-> With barbs can anyone pierce his nose?
+> Can anyone capture it when it is alert,
+> or pierce its nose with snares?

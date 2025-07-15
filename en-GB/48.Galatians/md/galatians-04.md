@@ -2,87 +2,87 @@
 
 ## Galatians 4:1
 
-Now I say, as long as the heir is a child, he does not differ at all from a slave, though he is owner of everything,
+Now I say that as long as the heir is a child, he is no different from a slave, even though he is the owner of everything.
 
 ## Galatians 4:2
 
-But he is under guardians and managers until the date set by the father.
+He is under guardians and trustees until the time appointed by his father.
 
 ## Galatians 4:3
 
-So we too, when we were children, were held in bondage under the elementary principles of the world.
+In the same way, we also, when we were children, were in bondage under the basic principles of the world.
 
 ## Galatians 4:4
 
-But when the fullness of the time came, God sent His Son, born of a woman, born under the Law,
+But when the time had fully come, God sent forth His Son, born of a woman, born under the law,
 
 ## Galatians 4:5
 
-So that He might redeem those who were under the Law, that we might receive the adoption as sons and daughters.
+to redeem those under the law, so that we might receive adoption as sons and daughters.
 
 ## Galatians 4:6
 
-Because you are sons, God has sent the Spirit of His Son into our hearts, crying out, “Abba! Father!”
+Because you are sons, God sent the Spirit of His Son into our hearts, crying, “Abba, Father!”
 
 ## Galatians 4:7
 
-Therefore you are no longer a slave, but a son; and if a son, then an heir through God.
+So you are no longer a slave, but a son; and if a son, then an heir through God.
 
 ## Galatians 4:8
 
-However at that time, when you did not know God, you were slaves to those which by nature are not gods.
+Formerly, when you did not know God, you were enslaved to those who by nature are not gods.
 
 ## Galatians 4:9
 
-But now that you have come to know God, or rather to be known by God, how is it that you turn back again to the weak and worthless elementary principles, to which you want to be enslaved all over again?
+But now that you know God, or rather are known by God, how can you turn back again to the weak and worthless principles? Do you wish to be enslaved by them once more?
 
 ## Galatians 4:10
 
-You meticulously observe days and months and seasons and years.
+You are observing special days and months and seasons and years.
 
 ## Galatians 4:11
 
-I fear for you, that perhaps I have laboured over you in vain.
+I am afraid for you, that perhaps I have laboured over you in vain.
 
 ## Galatians 4:12
 
-I beg of you, brothers and sisters, become as I am, for I also have become as you are. You have done me no wrong;
+I entreat you, brothers and sisters, become like me, for I became like you. You have done me no wrong.
 
 ## Galatians 4:13
 
-But you know that it was because of a bodily illness that I preached the gospel to you the first time;
+You know that it was due to an illness that I first preached the gospel to you.
 
 ## Galatians 4:14
 
-And you did not despise that which was a trial to you in my bodily condition, nor express contempt, but you received me as an angel of God, as Christ Jesus Himself.
+Even though my condition was a trial to you, you did not despise or reject me, but you received me as an angel of God, as Christ Jesus himself.
 
 ## Galatians 4:15
 
-Where then is that sense of blessing you had? For I testify to you that, if possible, you would have torn out your eyes and given them to me.
+Where then is your sense of blessing? I testify that, if you could have done so, you would have plucked out your eyes and given them to me.
 
 ## Galatians 4:16
 
-So have I become your enemy by telling you the truth?
+Have I now become your enemy by telling you the truth?
 
 ## Galatians 4:17
 
-They eagerly seek you, not in a commendable way, but they want to shut you out so that you will seek them.
+They are zealous to win you over, but not for good. They want to isolate you, so that you may be zealous for them.
 
 ## Galatians 4:18
 
-But it is good always to be eagerly sought in a commendable way, and not only when I am present with you.
+It is good to be zealous, provided the purpose is good, and to be so always, not just when I am with you.
 
 ## Galatians 4:19
 
-My children, with whom I am again in labour until Christ is formed in you—
+My dear children, for whom I am again in the pains of childbirth until Christ is formed in you,
 
 ## Galatians 4:20
 
-But I could wish to be present with you now and to change my tone, because I am perplexed about you.
+how I wish I could be present with you now and change my tone, for I am perplexed about you.
 
 ## Galatians 4:21
 
-Tell me, you who want to be under the Law, do you not listen to the Law?
+Tell me, you who want to be under the law, do you not hear the law?
 
 ## Galatians 4:22
 
@@ -90,41 +90,41 @@ For it is written that Abraham had two sons, one by the slave woman and one by t
 
 ## Galatians 4:23
 
-But the son by the slave woman was born according to the flesh, and the son by the free woman through the promise.
+The son of the slave woman was born according to the flesh, but the son of the free woman was born through the promise.
 
 ## Galatians 4:24
 
-This is speaking allegorically, for these women are two covenants: one coming from Mount Sinai giving birth to children who are to be slaves; she is Hagar.
+These things are an allegory: the women represent two covenants. One is from Mount Sinai, bearing children for slavery; she is Hagar.
 
 ## Galatians 4:25
 
-Now this Hagar is Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children.
+Now Hagar stands for Mount Sinai in Arabia and corresponds to the present Jerusalem, for she is in slavery with her children.
 
 ## Galatians 4:26
 
-But the Jerusalem above is free; she is our mother.
+But the Jerusalem above is free, and she is our mother.
 
 ## Galatians 4:27
 
 For it is written:
 
-> “Rejoice, infertile one, you who do not give birth;  
-> Break forth and shout, you who are not in labour;  
-> For the children of the desolate one are more numerous  
-> Than those of the one who has a husband.”
+> “Rejoice, barren woman, you who do not bear;
+> break forth and shout, you who are not in labour;
+> for more are the children of the desolate
+> than of her who has a husband.”
 
 ## Galatians 4:28
 
-And you, brothers and sisters, like Isaac, are children of promise.
+Now you, brothers and sisters, like Isaac, are children of promise.
 
 ## Galatians 4:29
 
-But as at that time the son who was born according to the flesh persecuted the one who was born according to the Spirit, so it is even now.
+But just as then, the child born according to the flesh persecuted the one born according to the Spirit, so it is now.
 
 ## Galatians 4:30
 
-But what does the Scripture say? “Drive out the slave woman and her son, for the son of the slave woman shall not be an heir with the son of the free woman.”
+But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not share the inheritance with the son of the free woman.”
 
 ## Galatians 4:31
 
-So then, brothers and sisters, we are not children of a slave woman, but of the free woman.
+Therefore, brothers and sisters, we are not children of the slave woman, but of the free woman.

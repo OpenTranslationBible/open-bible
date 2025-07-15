@@ -1,126 +1,73 @@
 # Isaiah Chapter 33
 
-## Isaiah 33:1  
-Woe to you, destroyer,  
-While you were not destroyed;  
-And he who is treacherous, while others did not deal treacherously with him.  
-As soon as you finish destroying, you will be destroyed;  
-As soon as you stop dealing treacherously, others will deal treacherously with you.
+## Isaiah 33:1
+Woe to you, destroyer, who have not yet been destroyed; and to you, betrayer, who have not yet been betrayed! When you finish your destruction, you will be destroyed; when you cease your treachery, you will be betrayed.
 
-## Isaiah 33:2  
-Lord, be gracious to us; we have waited for You.  
-Be their strength every morning,  
-Our salvation also in the time of distress.
+## Isaiah 33:2
+Lord, be gracious to us; we have waited for you. Be our strength each morning, our salvation in times of distress.
 
-## Isaiah 33:3  
-At the sound of a roar, peoples flee;  
-At the lifting up of Yourself, nations scatter.
+## Isaiah 33:3
+At the sound of your tumult, peoples flee; when you rise up, nations scatter.
 
-## Isaiah 33:4  
-Your plunder is gathered as the caterpillar gathers;  
-Like an infestation of locusts, people storm it.
+## Isaiah 33:4
+Your plunder is gathered as locusts gather; like a swarm of locusts, people rush upon it.
 
-## Isaiah 33:5  
-The Lord is exalted, for He dwells on high;  
-He has filled Zion with justice and righteousness.
+## Isaiah 33:5
+The Lord is exalted, for he dwells on high; he has filled Zion with justice and righteousness.
 
-## Isaiah 33:6  
-And He will be the stability of your times,  
-A wealth of salvation, wisdom, and knowledge;  
-The fear of the Lord is his treasure.
+## Isaiah 33:6
+He will be the stability of your times, a wealth of salvation, wisdom, and knowledge; the fear of the Lord is the treasure.
 
-## Isaiah 33:7  
-Behold, their brave men cry out in the streets,  
-The ambassadors of peace weep bitterly.
+## Isaiah 33:7
+Look, their brave men cry aloud in the streets; the envoys of peace weep bitterly.
 
-## Isaiah 33:8  
-The highways are desolate,  
-The traveler has ceased,  
-He has broken the covenant,  
-He has despised the cities,  
-He has no regard for mankind.
+## Isaiah 33:8
+The highways lie waste, travellers have ceased. The covenant is broken, cities are despised, and there is no regard for mankind.
 
-## Isaiah 33:9  
-The land mourns and wastes away,  
-Lebanon is shamed and withers;  
-Sharon is like a desert plain,  
-And Bashan and Carmel lose their foliage.
+## Isaiah 33:9
+The land mourns and languishes, Lebanon is ashamed and withers; Sharon is like a desert, and Bashan and Carmel shed their leaves.
 
-## Isaiah 33:10  
-“Now I will arise,” says the Lord,  
-“Now I will be exalted, now I will be lifted up.
+## Isaiah 33:10
+“Now I will arise,” says the Lord. “Now I will be exalted; now I will be lifted up.
 
-## Isaiah 33:11  
-You have conceived chaff, you will give birth to stubble;  
-My breath will consume you like a fire.
+## Isaiah 33:11
+You conceive chaff, you give birth to stubble; my breath will consume you like fire.
 
-## Isaiah 33:12  
-The peoples will be burned to lime,  
-Like cut thorns which are burned in the fire.
+## Isaiah 33:12
+The peoples will be burned to lime, like cut thornbushes set ablaze.
 
-## Isaiah 33:13  
-You who are far away, hear what I have done;  
-And you who are near, acknowledge My might.”
+## Isaiah 33:13
+You who are far away, hear what I have done; and you who are near, acknowledge my might.
 
-## Isaiah 33:14  
-Sinners in Zion are terrified;  
-Trembling has seized the godless.  
-“Who among us can live with the consuming fire?  
-Who among us can live with everlasting burning?”
+## Isaiah 33:14
+The sinners in Zion are terrified; trembling grips the godless: “Who among us can dwell with the consuming fire? Who among us can dwell with everlasting burning?”
 
-## Isaiah 33:15  
-One who walks righteously and speaks with integrity,  
-One who rejects unjust gain,  
-And shakes his hands so that they hold no bribe;  
-One who stops his ears from hearing about bloodshed,  
-And shuts his eyes from looking at evil;
+## Isaiah 33:15
+Those who walk righteously and speak with integrity, who reject unjust gain and shake their hands free of bribes, who stop their ears from hearing of bloodshed and shut their eyes from seeing evil—
 
-## Isaiah 33:16  
-He will dwell on the heights,  
-His refuge will be the impregnable rock;  
-His bread will be given him,  
-His water will be sure.
+## Isaiah 33:16
+they will dwell on the heights, their refuge will be the impregnable rock; their bread will be supplied, and their water will be sure.
 
-## Isaiah 33:17  
-Your eyes will see the King in His beauty;  
-They will see a distant land.
+## Isaiah 33:17
+Your eyes will see the king in his beauty and behold a land that stretches afar.
 
-## Isaiah 33:18  
-Your heart will meditate on terror:  
-“Where is one who counts?  
-Where is one who weighs?  
-Where is one who counts the towers?”
+## Isaiah 33:18
+In your heart, you will ponder the former terror: “Where is the one who counts? Where is the one who weighs? Where is the one who counts the towers?”
 
-## Isaiah 33:19  
-You will no longer see a fierce people,  
-A people of unintelligible speech which no one comprehends,  
-Of a stammering tongue which no one understands.
+## Isaiah 33:19
+You will no longer see a fierce people, a people of unintelligible speech, whose language is incomprehensible.
 
-## Isaiah 33:20  
-Look at Zion, the city of our appointed feasts;  
-Your eyes will see Jerusalem,  
-A peaceful settlement, a tent that will not be pulled up;  
-Its stakes will never be pulled out,  
-Nor any of its ropes be torn apart.
+## Isaiah 33:20
+Look upon Zion, the city of our festivals; your eyes will see Jerusalem, a peaceful habitation, a tent that will not be moved; its stakes will never be pulled up, nor any of its ropes broken.
 
-## Isaiah 33:21  
-But there the majestic One, the Lord, will be for us  
-A place of rivers and wide canals  
-On which no boat with oars will go,  
-And on which no mighty ship will pass—
+## Isaiah 33:21
+There the Lord will be our majestic one, a place of broad rivers and streams, where no galley with oars will go, nor any mighty ship pass by.
 
-## Isaiah 33:22  
-For the Lord is our judge,  
-The Lord is our lawgiver,  
-The Lord is our king;  
-He will save us—
+## Isaiah 33:22
+For the Lord is our judge, the Lord is our lawgiver, the Lord is our king; he will save us.
 
-## Isaiah 33:23  
-Your sail is slack; it cannot hold the base of its mast firmly,  
-Nor spread out the sail.  
-Then the prey of an abundant spoil will be divided;  
-Those who limp will take the plunder.
+## Isaiah 33:23
+Your rigging hangs loose; it cannot hold the mast firm, nor spread the sail. Then an abundance of spoils will be divided, and even the lame will carry off plunder.
 
-## Isaiah 33:24  
-And no resident will say, “I am sick”;  
-The people who live there will be forgiven their wrongdoing.
+## Isaiah 33:24
+No inhabitant will say, “I am ill”; the people who dwell there will be forgiven their iniquity.

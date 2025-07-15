@@ -1,98 +1,97 @@
 # Numbers Chapter 18
 
 ## Numbers 18:1
-The Lord said to Aaron, “You, your sons, and your ancestral house will bear the responsibility for offences against the sanctuary. You and your sons alone are to bear the responsibility for offences connected with the priesthood.
+The Lord spoke to Aaron, saying, “You, your sons, and your family are to bear the responsibility for any offences associated with the sanctuary, and you and your sons alone are to bear the responsibility for any offences related to your priesthood.
 
 ## Numbers 18:2
-Bring your fellow Levites from your ancestral tribe to assist you and serve you while you and your sons minister before the tent of the covenant.
+Bring your fellow Levites, the tribe of your ancestors, to join you and assist you while you and your sons minister before the tent of the testimony.
 
 ## Numbers 18:3
-They are to be responsible to you and to the duties of the tent, but they must not go near the sanctuary or the altar, or both they and you will die.
+They shall be responsible to you and perform duties for the whole tent, but they must not approach the furnishings of the sanctuary or the altar, lest both they and you die.
 
 ## Numbers 18:4
-They are to join you and take care of the tent of meeting, doing all the work at the tent, and no outsider may come near you.
+They are to join you and take care of the duties of the tent of meeting, all the work at the tent, but no unauthorised person may come near you.
 
 ## Numbers 18:5
-You are to be responsible for the care of the sanctuary and the altar, so that wrath may never again fall on the Israelites.
+You shall be responsible for the duties of the sanctuary and the altar, so that no wrath will fall upon the Israelites again.
 
 ## Numbers 18:6
-I Myself have chosen your fellow Levites from among the Israelites as a gift to you, given to the Lord to do the work at the tent of meeting.
+I have selected your fellow Levites from among the Israelites as a gift to you, dedicated to the Lord, to perform the work at the tent of meeting.
 
 ## Numbers 18:7
-But only you and your sons may serve as priests in all matters of the altar and behind the curtain. I am giving you the service of the priesthood as a gift. Anyone else who comes near must be put to death.
+But only you and your sons shall serve as priests in relation to everything at the altar and inside the veil. I am giving you the priesthood as a gift. Anyone else who comes near shall be put to death.”
 
 ## Numbers 18:8
-The Lord said to Aaron, “I Myself have put you in charge of the offerings presented to Me. All the holy offerings the Israelites give to Me I give to you and your sons as your portion.
+Then the Lord said to Aaron, “I have put you in charge of my offerings; all the holy gifts the Israelites present to me, I give to you and your sons as your portion, a permanent share.
 
 ## Numbers 18:9
-You are to have a portion of the most holy offerings that are kept back from the fire. These are yours: every offering they bring—grain, sin, and guilt offerings—belongs to you and your sons.
+This shall be yours from the most holy offerings, kept from the fire; from all their gifts, whether grain, sin, or guilt offerings, they are most holy to you and your sons.
 
 ## Numbers 18:10
-Eat it as most holy; every male may eat it. Treat it as holy.
+Eat it as something most holy; every male shall eat it. Regard it as holy.
 
 ## Numbers 18:11
-This also is yours: the wave offerings the Israelites bring. You and your sons and daughters may eat it. Everyone in your household who is ceremonially clean may eat it.
+This also is yours: whatever is set aside from the gifts of all the wave offerings of the Israelites. I give them to you and your sons and daughters as a perpetual share. Everyone in your household who is ceremonially clean may eat it.
 
 ## Numbers 18:12
-I give you the best of the oil, new wine, and grain—the firstfruits they give to the Lord.
+I give you all the best of the fresh olive oil and all the best of the fresh wine and grain, the firstfruits they give to the Lord.
 
 ## Numbers 18:13
-All the first ripe produce from their land that they bring to the Lord is yours. Everyone in your household who is clean may eat it.
+The first ripe fruits of all that is in their land, which they bring to the Lord, shall be yours. Everyone in your household who is clean may eat it.
 
 ## Numbers 18:14
-Everything in Israel devoted to the Lord is yours.
+Everything devoted to the Lord in Israel shall be yours.
 
 ## Numbers 18:15
-Every firstborn male, whether human or animal, offered to the Lord is yours. But you must redeem every firstborn human and every unclean animal.
+The first offspring of every womb, both human and animal, that is offered to the Lord is yours. But you must redeem every firstborn son and the firstborn of unclean animals.
 
 ## Numbers 18:16
-Redeem them when they are a month old, for five shekels of silver, according to the sanctuary shekel.
+When they are a month old, you must redeem them at the redemption price of five shekels of silver, according to the sanctuary shekel, which is twenty gerahs.
 
 ## Numbers 18:17
-But you must not redeem the firstborn of a cow, sheep, or goat; they are holy. Splash their blood against the altar and burn their fat as a food offering.
+But the firstborn of a cow, a sheep, or a goat you shall not redeem; they are holy. Sprinkle their blood on the altar and burn their fat as a food offering, a pleasing aroma to the Lord.
 
 ## Numbers 18:18
-Their meat is yours, just as the breast of the wave offering and the right thigh are yours.
+Their meat shall be yours, just as the breast of the wave offering and the right thigh are yours.
 
 ## Numbers 18:19
-Whatever is set apart from the holy offerings the Israelites present to the Lord I give to you and your sons and daughters as a lasting covenant. It is a covenant of salt before the Lord.
+All the offerings of the holy gifts, which the Israelites present to the Lord, I give to you and your sons and daughters as a perpetual share. It is an everlasting covenant of salt before the Lord for both you and your descendants.
 
 ## Numbers 18:20
-The Lord said to Aaron, “You will have no inheritance in their land, nor will you have any share among them; I am your share and your inheritance.
+The Lord said to Aaron, “You shall have no inheritance in their land, nor own any portion among them; I am your portion and your inheritance among the Israelites.
 
 ## Numbers 18:21
-I give the Levites all the tithes in Israel as their inheritance in return for the work they do at the tent of meeting.
+To the Levites, I give all the tithes in Israel as their inheritance in return for the work they do while serving at the tent of meeting.
 
 ## Numbers 18:22
-The Israelites must no longer go near the tent of meeting, or they will bear the consequences and die.
+From now on, the Israelites must not approach the tent of meeting, or they will bear the consequences of their sin and will die.
 
 ## Numbers 18:23
-It is the Levites who are to do the work and bear the responsibility for offences. This is a lasting ordinance.
+Only the Levites shall perform the service of the tent of meeting and bear their own guilt. This is a lasting ordinance for the generations to come. They will have no inheritance among the Israelites.
 
 ## Numbers 18:24
-Instead, I give to the Levites the tithes that the Israelites present as an offering to the Lord. That is why I said they would have no inheritance.
+Instead, I give to the Levites as their inheritance the tithes that the Israelites present as an offering to the Lord. That is why I have said concerning them: ‘They shall have no inheritance among the Israelites.’”
 
 ## Numbers 18:25
-The Lord said to Moses,
+The Lord spoke to Moses,
 
 ## Numbers 18:26
-“Speak to the Levites and say to them: When you receive the tithe from the Israelites, you must present a tenth of that tithe as an offering to the Lord.
+“Speak to the Levites and say to them: ‘When you receive from the Israelites the tithe I give you as your inheritance, you must present a tenth of that tithe as the Lord’s offering.
 
 ## Numbers 18:27
-Your offering will be counted as grain from the threshing floor or juice from the winepress.
+Your offering will be credited to you as grain from the threshing floor or juice from the wine vat.
 
 ## Numbers 18:28
-You must present this portion to the Lord from everything given to you.
+In this way, you shall also present an offering to the Lord from all the tithes you receive from the Israelites. From these tithes, you must give the Lord’s portion to Aaron the priest.
 
 ## Numbers 18:29
-Offer the best and holiest part of it as the Lord’s portion.
+You must present as the Lord’s portion the best and holiest part of everything given to you.’
 
 ## Numbers 18:30
-Say to the Levites: When you present the best part, it will be credited to you as produce from the threshing floor.
+Say to them, ‘When you present the best part, it will be credited to you as the product of the threshing floor or the wine vat.
 
 ## Numbers 18:31
-You and your households may eat the rest anywhere, for it is your payment for your work.
+You and your households may eat the rest of it anywhere, for it is your wages for your work at the tent of meeting.
 
 ## Numbers 18:32
-By presenting the best part, you will not bear guilt. But you must not desecrate the holy offerings, or you will die.”
-
+By presenting the best part of it, you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.’”

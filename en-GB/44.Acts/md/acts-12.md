@@ -2,140 +2,110 @@
 
 ## Acts 12:1
 
-Now about that time Herod the king laid hands on some who belonged to the church, to do them harm.
+Around this time, King Herod laid hands on some members of the church, intending to harm them.
 
 ## Acts 12:2
 
-And he had James the brother of John executed with a sword.
+He had James, the brother of John, executed with the sword.
 
 ## Acts 12:3
 
-When he saw that it pleased the Jews, he proceeded to arrest Peter as well.  
-Now it was during the days of Unleavened Bread.
+Seeing that this pleased the Jews, he proceeded to arrest Peter as well. This took place during the Festival of Unleavened Bread.
 
 ## Acts 12:4
 
-When he had arrested him, he put him in prison,  
-turning him over to four squads of soldiers to guard him,  
-intending only after the Passover to bring him before the people.
+After arresting him, he put him in prison, assigning him to be guarded by four squads of soldiers. Herod planned to bring him out for public trial after the Passover.
 
 ## Acts 12:5
 
-So Peter was kept in the prison, but prayer for him was being made fervently by the church to God.
+Peter was kept in prison, but the church was fervently praying to God for him.
 
 ---
 
 ## Acts 12:6
 
-On the very night when Herod was about to bring him forward,  
-Peter was sleeping between two soldiers, bound with two chains,  
-and guards in front of the door were watching over the prison.
+The night before Herod was to bring him to trial, Peter was sleeping between two soldiers, bound with two chains, while guards stood at the entrance.
 
 ## Acts 12:7
 
-And behold, an angel of the Lord suddenly stood near, and a light shone in the cell;  
-and he struck Peter’s side and woke him, saying, “Get up quickly.” And his chains fell off his hands.
+Suddenly, an angel of the Lord appeared, and a light shone in the cell. He struck Peter on the side and woke him, saying, “Get up quickly.” The chains fell off Peter’s wrists.
 
 ## Acts 12:8
 
-And the angel said to him, “Put on your belt and strap on your sandals.”  
-And he did so.  
-And he _said to him_, “Wrap your cloak around you and follow me.”
+The angel instructed him, “Put on your belt and sandals.” Peter did so. Then he said, “Wrap your cloak around you and follow me.”
 
 ## Acts 12:9
 
-And he went out and continued to follow,  
-and yet he did not know that what was being done by the angel was real,  
-but thought he was seeing a vision.
+Peter followed him out of the prison, but he did not realise that what was happening was real; he thought he was seeing a vision.
 
 ## Acts 12:10
 
-Now when they had passed the first and second guard,  
-they came to the iron gate that leads into the city, which opened by itself;  
-and they went out and went along one street, and immediately the angel departed from him.
+They passed the first and second guards and came to the iron gate leading to the city, which opened by itself. They went through it and walked along one street, and suddenly the angel left him.
 
 ---
 
 ## Acts 12:11
 
-When Peter came to himself, he said,  
-“Now I know for sure that the Lord has sent His angel and rescued me from the hand of Herod  
-and from all that the Jewish people were expecting.”
+Peter came to himself and said, “Now I am certain that the Lord has sent his angel and rescued me from Herod’s grasp and from all that the Jewish people were expecting.”
 
 ## Acts 12:12
 
-And when he realised this, he went to the house of Mary, the mother of John, who was also called Mark,  
-where many were gathered together and were praying.
+When he realised this, he went to the house of Mary, the mother of John, also called Mark, where many people had gathered and were praying.
 
 ## Acts 12:13
 
-When he knocked at the door of the gate, a slave woman named Rhoda came to answer.
+Peter knocked at the outer entrance, and a servant girl named Rhoda came to answer.
 
 ## Acts 12:14
 
-When she recognised Peter’s voice, because of her joy she did not open the gate,  
-but ran in and announced that Peter was standing in front of the gate.
+Recognising Peter’s voice, she was so overjoyed that she ran back without opening it and exclaimed, “Peter is at the door!”
 
 ## Acts 12:15
 
-They said to her, “You are out of your mind!” But she kept insisting that it was so.  
-They said, “It is his angel.”
+They said to her, “You’re out of your mind.” But she kept insisting it was true. They said, “It must be his angel.”
 
 ## Acts 12:16
 
-But Peter continued knocking;  
-and when they opened the door, they saw him and were amazed.
+Peter continued knocking, and when they opened the door and saw him, they were astonished.
 
 ## Acts 12:17
 
-But motioning to them with his hand to be silent,  
-he described to them how the Lord had led him out of the prison.  
-And he said, “Report these things to James and the brothers.”  
-Then he left and went to another place.
+Peter motioned with his hand for them to be silent and explained how the Lord had brought him out of prison. “Tell these things to James and the brothers,” he said, and then he left for another place.
 
 ---
 
 ## Acts 12:18
 
-Now when day came, there was no small disturbance among the soldiers  
-as to what could have become of Peter.
+In the morning, there was no small commotion among the soldiers regarding what had become of Peter.
 
 ## Acts 12:19
 
-When Herod had searched for him and had not found him,  
-he examined the guards and ordered that they be led away to execution.  
-Then he went down from Judea to Caesarea, and stayed there.
+When Herod had searched for him and did not find him, he examined the guards and ordered their execution. Then he went down from Judea to Caesarea and stayed there.
 
 ---
 
 ## Acts 12:20
 
-Now he was very angry with the people of Tyre and Sidon;  
-and with one mind they came to him, and having won over Blastus, the king’s chamberlain,  
-they were asking for peace, because their country was supported with food from the king’s country.
+He was in conflict with the people of Tyre and Sidon. They came to him in unity, and after securing the support of Blastus, the king’s chamberlain, they sought peace because their region depended on the king’s country for food.
 
 ## Acts 12:21
 
-On an appointed day, after putting on his royal apparel,  
-Herod took his seat on the rostrum and began delivering an address to them.
+On the appointed day, Herod, wearing his royal robes, sat on his throne and delivered a public address.
 
 ## Acts 12:22
 
-The people repeatedly cried out,  
-“The voice of a god, and not of a man!”
+The people shouted, “This is the voice of a god, not of a man.”
 
 ## Acts 12:23
 
-And immediately an angel of the Lord struck him, because he did not give God the glory,  
-and he was eaten by worms and died.
+Immediately, because Herod did not give glory to God, an angel of the Lord struck him down, and he was eaten by worms and died.
 
 ---
 
 ## Acts 12:24
 
-But the word of the Lord continued to grow and to be multiplied.
+But the word of God continued to spread and flourish.
 
 ## Acts 12:25
 
-And Barnabas and Saul returned from Jerusalem when they had fulfilled their mission,  
-taking along with them John, who was also called Mark.
+Barnabas and Saul returned from Jerusalem when they had completed their mission, taking with them John, who was also called Mark.

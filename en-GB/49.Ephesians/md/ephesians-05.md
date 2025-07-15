@@ -2,59 +2,59 @@
 
 ## Ephesians 5:1
 
-Therefore be imitators of God, as beloved children;
+Be imitators of God, therefore, as dearly loved children;
 
 ## Ephesians 5:2
 
-And walk in love, just as Christ also loved us and gave Himself up for us, an offering and a sacrifice to God as a fragrant aroma.
+and walk in the way of love, just as Christ loved you and gave Himself up for us as a fragrant offering and sacrifice to God.
 
 ## Ephesians 5:3
 
-But sexual immorality, or any impurity or greed, must not even be mentioned among you, as is proper among saints;
+But among you there must not be even a hint of sexual immorality, or any kind of impurity, or greed, as is proper among God’s holy people;
 
 ## Ephesians 5:4
 
-And there must be no filthiness, or foolish talk, or vulgar joking, which are not fitting, but rather giving of thanks.
+nor should there be any obscenity, foolish talk, or coarse joking, which are out of place, but rather thanksgiving.
 
 ## Ephesians 5:5
 
-For this you know with certainty, that no sexually immoral or impure or greedy person, which means an idolater, has an inheritance in the kingdom of Christ and God.
+For of this you can be certain: no immoral, impure, or greedy person—such a person is an idolater—has any inheritance in the kingdom of Christ and God.
 
 ## Ephesians 5:6
 
-See that no one deceives you with empty words, for because of these things the wrath of God comes upon the sons of disobedience.
+Let no one deceive you with empty words, for because of such things the wrath of God comes upon the disobedient.
 
 ## Ephesians 5:7
 
-Therefore do not become partners with them;
+Therefore do not be partners with them;
 
 ## Ephesians 5:8
 
-For you were once darkness, but now you are light in the Lord; walk as children of light
+for you were once darkness, but now you are light in the Lord. Live as children of light
 
 ## Ephesians 5:9
 
-(For the fruit of the light consists in all goodness, righteousness, and truth),
+(for the fruit of the light consists of all goodness, righteousness, and truth),
 
 ## Ephesians 5:10
 
-As you try to learn what is pleasing to the Lord.
+and try to learn what pleases the Lord.
 
 ## Ephesians 5:11
 
-Do not participate in the useless deeds of darkness, but instead even expose them;
+Have nothing to do with the fruitless deeds of darkness, but rather expose them;
 
 ## Ephesians 5:12
 
-For it is disgraceful even to speak of the things which are done by them in secret.
+for it is shameful even to mention what the disobedient do in secret.
 
 ## Ephesians 5:13
 
-But all things become visible when they are exposed by the light, for everything that becomes visible is light.
+But everything exposed by the light becomes visible, for everything that is illuminated becomes a light.
 
 ## Ephesians 5:14
 
-For this reason it says,
+This is why it is said:
 
 > “Wake up, you who are sleeping,  
 > And arise from the dead,  
@@ -62,76 +62,76 @@ For this reason it says,
 
 ## Ephesians 5:15
 
-So then, be careful how you walk, not as unwise people but as wise,
+Be very careful, then, how you live—not as unwise but as wise,
 
 ## Ephesians 5:16
 
-Making the most of your time, because the days are evil.
+making the most of every opportunity, because the days are evil.
 
 ## Ephesians 5:17
 
-Therefore do not be foolish, but understand what the will of the Lord is.
+Therefore do not be foolish, but understand what the Lord’s will is.
 
 ## Ephesians 5:18
 
-And do not get drunk with wine, in which there is debauchery, but be filled with the Spirit,
+Do not get drunk on wine, which leads to debauchery, but be filled with the Spirit,
 
 ## Ephesians 5:19
 
-Speaking to one another in psalms and hymns and spiritual songs, singing and making melody with your hearts to the Lord;
+speaking to one another with psalms, hymns, and spiritual songs, singing and making music from your heart to the Lord,
 
 ## Ephesians 5:20
 
-Always giving thanks for all things in the name of our Lord Jesus Christ to our God and Father;
+always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.
 
 ## Ephesians 5:21
 
-And subject yourselves to one another in the fear of Christ.
+Submit to one another out of reverence for Christ.
 
 ## Ephesians 5:22
 
-Wives, subject yourselves to your own husbands, as to the Lord.
+Wives, submit yourselves to your own husbands, as to the Lord.
 
 ## Ephesians 5:23
 
-For the husband is the head of the wife, as Christ also is the head of the church, He Himself being the Saviour of the body.
+For the husband is the head of the wife, as Christ is the head of the church, his body, of which He is the Saviour.
 
 ## Ephesians 5:24
 
-But as the church is subject to Christ, so also the wives ought to be to their husbands in everything.
+Now as the church submits to Christ, so also wives should submit to their husbands in everything.
 
 ## Ephesians 5:25
 
-Husbands, love your wives, just as Christ also loved the church and gave Himself up for her,
+Husbands, love your wives, just as Christ loved the church and gave Himself up for her,
 
 ## Ephesians 5:26
 
-So that He might sanctify her, having cleansed her by the washing of water with the word,
+to make her holy, cleansing her by the washing with water through the word,
 
 ## Ephesians 5:27
 
-That He might present to Himself the church in all her glory, having no spot or wrinkle or any such thing; but that she would be holy and blameless.
+and to present her to Himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless.
 
 ## Ephesians 5:28
 
-So husbands also ought to love their own wives as their own bodies. He who loves his own wife loves himself;
+In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.
 
 ## Ephesians 5:29
 
-For no one ever hated his own flesh, but nourishes and cherishes it, just as Christ also does the church,
+After all, no one ever hated their own body, but they feed and care for it, just as Christ does the church—
 
 ## Ephesians 5:30
 
-Because we are parts of His body.
+for we are members of His body.
 
 ## Ephesians 5:31
 
-For this reason a man shall leave his father and his mother and be joined to his wife, and the two shall become one flesh.
+“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”
 
 ## Ephesians 5:32
 
-This mystery is great; but I am speaking with reference to Christ and the church.
+This is a profound mystery—but I am talking about Christ and the church.
 
 ## Ephesians 5:33
 
-Nevertheless, as for you individually, each husband is to love his own wife the same as himself, and the wife must see to it that she respects her husband.
+However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.

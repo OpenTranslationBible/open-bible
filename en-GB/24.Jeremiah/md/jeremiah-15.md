@@ -1,136 +1,64 @@
 # Jeremiah Chapter 15
 
-## Jeremiah 15:1  
-Then the Lord said to me, “Even if Moses and Samuel were to stand before Me,  
-My heart would not be with this people;  
-Send them away from My presence, and have them go!
+## Jeremiah 15:1
+Then the Lord said to me, “Even if Moses and Samuel were to stand before Me, My heart would not be inclined towards this people. Send them away from My presence and let them depart!
 
-## Jeremiah 15:2  
-And if they say to you, ‘Where should we go?’  
-Then you are to tell them, ‘This is what the Lord says:  
-“Those destined for death, to death;  
-And those destined for the sword, to the sword;  
-And those destined for famine, to famine;  
-And those destined for captivity, to captivity.”’
+## Jeremiah 15:2
+And when they ask you, ‘Where should we go?’ tell them, ‘This is what the Lord says: “Those destined for death, to death; those for the sword, to the sword; those for famine, to famine; those for captivity, to captivity.”’
 
-## Jeremiah 15:3  
-And I will appoint over them four kinds of doom,” declares the Lord:  
-“The sword to kill, the dogs to drag away,  
-The birds of the sky and the animals of the earth  
-To devour and destroy.
+## Jeremiah 15:3
+“I will appoint over them four kinds of doom,” declares the Lord: “the sword to slay, the dogs to drag away, and the birds of the sky and the wild animals to devour and destroy.
 
-## Jeremiah 15:4  
-I will turn them over to be an object of terror to all the kingdoms of the earth  
-Because of Manasseh, the son of Hezekiah, the king of Judah,  
-For what he did in Jerusalem.
+## Jeremiah 15:4
+I will make them an object of horror to all the kingdoms of the earth because of Manasseh, son of Hezekiah, king of Judah, for what he did in Jerusalem.
 
-## Jeremiah 15:5  
-Indeed, who will have pity on you, Jerusalem,  
-Or who will mourn for you,  
-Or who will turn aside to ask about your welfare?
+## Jeremiah 15:5
+“Who will have compassion on you, Jerusalem? Who will mourn for you? Who will turn aside to inquire about your welfare?
 
-## Jeremiah 15:6  
-You who have forsaken Me,” declares the Lord,  
-“You keep going backward.  
-So I will stretch out My hand against you and destroy you;  
-I am tired of relenting!
+## Jeremiah 15:6
+You have forsaken Me,” declares the Lord. “You keep backsliding. So I will stretch out My hand against you and destroy you; I am weary of relenting.
 
-## Jeremiah 15:7  
-I will scatter them with a winnowing fork  
-At the gates of the land;  
-I will bereave them of children,  
-I will destroy My people;  
-They did not repent of their ways.
+## Jeremiah 15:7
+I will winnow them with a winnowing fork at the gates of the land; I will bereave them of children and destroy My people, for they have not repented of their ways.
 
-## Jeremiah 15:8  
-Their widows will be more numerous before Me  
-Than the sand of the seas;  
-I will bring against them, against the mother of a young man,  
-A destroyer at noon;  
-I will suddenly bring down on her  
-Anguish and terrors.
+## Jeremiah 15:8
+I will make their widows more numerous than the sand of the seas. At midday I will bring a destroyer against the mother of a young man; suddenly I will bring down on them anguish and terror.
 
-## Jeremiah 15:9  
-She who gave birth to seven sons pines away;  
-Her breathing is labored.  
-Her sun has set while it was still day;  
-She has been ashamed and humiliated.  
-I will turn over their survivors to the sword  
-Before their enemies,” declares the Lord.
+## Jeremiah 15:9
+The mother of seven will grow faint and breathe her last. Her sun will set while it is still day; she will be disgraced and humiliated. I will give their survivors to the sword before their enemies,” declares the Lord.
 
----
+## Jeremiah 15:10
+Woe to me, my mother, that you have given birth to me, a man of strife and contention to all the land! I have neither lent nor borrowed, yet everyone curses me.
 
-## Jeremiah 15:10  
-Woe to me, my mother, that you have given birth to me  
-As a man of strife and a man of contention to all the land!  
-I have not lent, nor have people lent money to me,  
-Yet everyone curses me.
+## Jeremiah 15:11
+The Lord said, “I will surely deliver you for a good purpose; I will make your enemies plead with you in times of disaster and distress.
 
-## Jeremiah 15:11  
-The Lord said,  
-“Certainly I will set you free for purposes of good;  
-Certainly I will intercede for you  
-In a time of disaster and in a time of distress with the enemy.
+## Jeremiah 15:12
+“Can anyone break iron, iron from the north, or bronze?
 
-## Jeremiah 15:12  
-Can anyone smash iron,  
-Iron from the north, or bronze?
+## Jeremiah 15:13
+I will give your wealth and your treasures as plunder, without cost, because of all your sins throughout your borders.
 
-## Jeremiah 15:13  
-Your wealth and your treasures  
-I will give as plunder without cost,  
-For all your sins  
-And within all your borders.
+## Jeremiah 15:14
+I will make your enemies carry your possessions into a land you do not know, for a fire has been kindled in My anger, and it will burn against you.”
 
-## Jeremiah 15:14  
-Then I will make you serve your enemies  
-In a land that you do not know;  
-For a fire has been kindled in My anger,  
-It will burn upon you.”
+## Jeremiah 15:15
+You know, Lord; remember me and take notice of me. Avenge me on my persecutors. Do not take me away, in view of Your patience; consider how I suffer reproach for Your sake.
 
----
+## Jeremiah 15:16
+Your words were found, and I ate them; they were my joy and my heart’s delight, for I bear Your name, Lord God of hosts.
 
-## Jeremiah 15:15  
-You know, Lord;  
-Remember me, take notice of me,  
-And take vengeance for me on my persecutors.  
-Do not, in view of Your patience, take me away;  
-Know that for Your sake I endure reproach.
+## Jeremiah 15:17
+I did not sit in the company of revelers and celebrate. Because Your hand was upon me, I sat alone, for You filled me with indignation.
 
-## Jeremiah 15:16  
-Your words were found and I ate them,  
-And Your words became a joy to me and the delight of my heart;  
-For I have been called by Your name,  
-Lord God of armies.
+## Jeremiah 15:18
+Why is my pain unending and my wound incurable, refusing to be healed? Will You be to me like a deceptive stream, with waters that are unreliable?
 
-## Jeremiah 15:17  
-I did not sit in a circle of revelers and celebrate.  
-Because of Your hand upon me I sat alone,  
-For You filled me with indignation.
+## Jeremiah 15:19
+Therefore, this is what the Lord says: “If you return, I will restore you, that you may stand before Me; if you extract the precious from the worthless, you will be My spokesman. Let them turn to you, but you must not turn to them.
 
-## Jeremiah 15:18  
-Why has my pain been endless  
-And my wound incurable, refusing to be healed?  
-Will You indeed be to me like a deceptive stream  
-With water that is unreliable?
+## Jeremiah 15:20
+I will make you to this people a fortified wall of bronze; they will fight against you but will not prevail, for I am with you to save and deliver you,” declares the Lord.
 
-## Jeremiah 15:19  
-Therefore, this is what the Lord says:  
-“If you return, then I will restore you—  
-You will stand before Me;  
-And if you extract the precious from the worthless,  
-You will become My spokesman.  
-They, for their part, may turn to you,  
-But as for you, you must not turn to them.
-
-## Jeremiah 15:20  
-Then I will make you to this people  
-A fortified wall of bronze;  
-And though they fight against you,  
-They will not prevail over you;  
-For I am with you to save you  
-And rescue you,” declares the Lord.
-
-## Jeremiah 15:21  
-“So I will rescue you from the hand of the wicked,  
-And I will redeem you from the grasp of the violent.”
+## Jeremiah 15:21
+“I will rescue you from the hands of the wicked and redeem you from the grasp of the violent.”

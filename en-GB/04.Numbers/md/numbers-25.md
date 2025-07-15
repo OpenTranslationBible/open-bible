@@ -1,56 +1,55 @@
 # Numbers Chapter 25
 
 ## Numbers 25:1
-While Israel remained in the area of Shittim, the people began engaging in sexual immorality with the daughters of Moab.
+While Israel was staying at Shittim, the people began to engage in immorality with the daughters of Moab.
 
 ## Numbers 25:2
-These women invited the Israelites to join in their sacrificial feasts to their gods, and the people ate and bowed down to those deities.
+They invited the people to the sacrifices of their gods, and the Israelites ate and bowed down to these gods.
 
 ## Numbers 25:3
-In this way, Israel aligned themselves with the worship of Baal of Peor, and the Lord's wrath flared against them.
+Thus, Israel aligned themselves with Baal of Peor, and the Lord’s anger was kindled against Israel.
 
 ## Numbers 25:4
-Then the Lord said to Moses, “Take all the leaders of the people and have them executed in broad daylight before the Lord, so that My fierce anger may be turned away from Israel.”
+The Lord instructed Moses, “Take all the leaders of the people and execute them in broad daylight before the Lord, so that the Lord’s fierce anger may be turned away from Israel.”
 
 ## Numbers 25:5
-So Moses instructed the judges of Israel, “Each of you must put to death those among your people who have participated in the worship of Baal of Peor.”
+Moses then said to the judges of Israel, “Each of you must put to death those of your men who have aligned themselves with Baal of Peor.”
 
 ## Numbers 25:6
-Then behold, an Israelite man brought a Midianite woman into his family in full view of Moses and the whole assembly, while they were weeping at the entrance to the tent of meeting.
+Then, an Israelite man brought a Midianite woman to his family, in full view of Moses and the whole assembly of Israel, while they were weeping at the entrance of the tent of meeting.
 
 ## Numbers 25:7
-When Phinehas, son of Eleazar and grandson of Aaron the priest, saw this, he rose from the assembly, took a spear in his hand,
+When Phinehas son of Eleazar, the son of Aaron the priest, saw this, he rose from the assembly and took a spear in his hand.
 
 ## Numbers 25:8
-and followed them into the inner chamber. He pierced both the Israelite man and the woman through the stomach. So the plague that had come upon Israel was halted.
+He followed the Israelite into the inner room of the tent and drove the spear through both of them, the Israelite man and the woman, through her abdomen. Thus, the plague on the Israelites was stopped.
 
 ## Numbers 25:9
-Nevertheless, twenty-four thousand people had already perished in the plague.
+However, those who died from the plague numbered twenty-four thousand.
 
 ## Numbers 25:10
-Then the Lord said to Moses,
+Then the Lord spoke to Moses, saying,
 
 ## Numbers 25:11
-“Phinehas son of Eleazar, the son of Aaron the priest, has turned My anger away from the Israelites, for he was zealous with My zeal among them, so that I did not destroy them in My wrath.
+“Phinehas son of Eleazar, the son of Aaron the priest, has turned my wrath away from the Israelites, for he was zealous as I am among them, so I did not destroy the Israelites in my zeal.
 
 ## Numbers 25:12
-Therefore, say to him: I grant him My covenant of peace.
+Therefore, tell him that I am giving him my covenant of peace.
 
 ## Numbers 25:13
-It shall be for him and for his descendants after him a covenant of perpetual priesthood, because he acted with zeal for his God and made atonement for the Israelites.”
+It will be a covenant of an everlasting priesthood for him and his descendants, because he was zealous for the honour of his God and made atonement for the Israelites.”
 
 ## Numbers 25:14
-The name of the slain Israelite man was Zimri son of Salu, a leader of a Simeonite family.
+The name of the Israelite man who was killed with the Midianite woman was Zimri son of Salu, a leader of a family among the Simeonites.
 
 ## Numbers 25:15
-The name of the slain Midianite woman was Cozbi, daughter of Zur, a tribal chief of a Midianite clan.
+The name of the Midianite woman who was killed was Cozbi daughter of Zur, a tribal chief of a family in Midian.
 
 ## Numbers 25:16
-The Lord then said to Moses,
+Then the Lord spoke to Moses, saying,
 
 ## Numbers 25:17
-“Treat the Midianites as hostile and strike them down,
+“Treat the Midianites as enemies and attack them;
 
 ## Numbers 25:18
-for they have been adversaries to you through their deceit in the matter of Peor and in the affair of their daughter Cozbi, who was killed during the plague that came because of Peor.”
-
+for they have treated you as enemies with their deceit, in the incident involving Peor and their sister Cozbi, the daughter of a Midianite leader, who was killed on the day of the plague because of Peor.”

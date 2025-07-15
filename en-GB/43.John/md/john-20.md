@@ -2,165 +2,134 @@
 
 ## John 20:1
 
-Now on the first day of the week Mary Magdalene came early to the tomb, while it was still dark,  
-and _saw_ the stone already removed from the tomb.
+On the first day of the week, while it was still dark, Mary Magdalene came to the tomb and saw that the stone had been removed from the entrance.
 
 ## John 20:2
 
-So she ran and _came to Simon Peter and to the other disciple whom Jesus loved_, and _said to them_,  
-“They have taken the Lord from the tomb, and we do not know where they have put Him!”
+She ran to Simon Peter and the other disciple, the one Jesus loved, and said, “They have taken the Lord out of the tomb, and we do not know where they have put him!”
 
 ## John 20:3
 
-So Peter and the other disciple left, and they were going to the tomb.
+Then Peter and the other disciple set out for the tomb.
 
 ## John 20:4
 
-The two were running together;  
-and the other disciple ran ahead faster than Peter, and came to the tomb first;
+They were both running, but the other disciple outran Peter and reached the tomb first.
 
 ## John 20:5
 
-and he stooped to look in, and _saw_ the linen wrappings lying there; however, he did not go in.
+He bent down and looked in at the linen cloths lying there, but he did not go in.
 
 ## John 20:6
 
-So Simon Peter also _came_, following him, and he _entered the tomb_;  
-and he _looked at_ the linen wrappings lying there,
+Then Simon Peter came along behind him and went straight into the tomb. He saw the linen cloths lying there,
 
 ## John 20:7
 
-and the face-cloth which had been on His head, not lying with the linen wrappings,  
-but folded up in a place by itself.
+and the cloth that had been around Jesus’ head, not lying with the linen cloths but folded up in a place by itself.
 
 ## John 20:8
 
-So the other disciple who had first come to the tomb also entered then, and he saw and believed.
+Then the other disciple, who had reached the tomb first, also went inside. He saw and believed.
 
 ## John 20:9
 
-For they did not yet understand the Scripture, that He must rise from the dead.
+For they did not yet understand from Scripture that Jesus had to rise from the dead.
 
 ## John 20:10
 
-So the disciples went away again to their own homes.
+Then the disciples returned to their homes.
 
 ---
 
 ## John 20:11
 
-But Mary was standing outside the tomb, weeping;  
-so, as she wept, she stooped to look into the tomb;
+But Mary stood outside the tomb weeping. As she wept, she bent over to look into the tomb
 
 ## John 20:12
 
-and she _saw_ two angels in white sitting, one at the head and one at the feet,  
-where the body of Jesus had been lying.
+and saw two angels in white, seated where Jesus’ body had been, one at the head and the other at the foot.
 
 ## John 20:13
 
-And they _said to her_, “Woman, why are you weeping?”  
-She _said to them_, “Because they have taken away my Lord, and I do not know where they put Him.”
+They asked her, “Woman, why are you weeping?” She replied, “They have taken my Lord away, and I do not know where they have put him.”
 
 ## John 20:14
 
-When she had said this, she turned around and _saw_ Jesus standing there,  
-and yet she did not know that it was Jesus.
+At this, she turned around and saw Jesus standing there, but she did not realise that it was Jesus.
 
 ## John 20:15
 
-Jesus _said to her_, “Woman, why are you weeping? Whom are you seeking?”  
-Thinking that He was the gardener, she _said to Him_,  
-“Sir, if you have carried Him away, tell me where you put Him, and I will take Him away.”
+He asked her, “Woman, why are you weeping? Who are you looking for?” Thinking he was the gardener, she said, “Sir, if you have carried him away, tell me where you have put him, and I will take him away.”
 
 ## John 20:16
 
-Jesus _said to her_, “Mary!”  
-She turned and _said to Him_ in Hebrew, “Rabboni!” (which means, Teacher).
+Jesus said to her, “Mary.” She turned towards him and cried out in Hebrew, “Rabboni!” (which means “Teacher”).
 
 ## John 20:17
 
-Jesus _said to her_,  
-“Stop clinging to Me, for I have not yet ascended to the Father;  
-but go to My brothers and say to them,  
-‘I am ascending to My Father and your Father, and My God and your God.’”
+Jesus said, “Do not hold on to me, for I have not yet ascended to the Father. Go instead to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”
 
 ## John 20:18
 
-Mary Magdalene _came and announced to the disciples_,  
-“I have seen the Lord,” and that He had said these things to her.
+Mary Magdalene went to the disciples with the news, “I have seen the Lord!” And she told them that he had said these things to her.
 
 ---
 
 ## John 20:19
 
-Now when it was evening on that day, the first day of the week,  
-and when the doors were shut where the disciples were together due to fear of the Jews,  
-Jesus came and stood in their midst, and _said to them_, “Peace be to you.”
+On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jewish leaders, Jesus came and stood among them and said, “Peace be with you!”
 
 ## John 20:20
 
-And when He had said this, He showed them both His hands and His side.  
-The disciples then rejoiced when they saw the Lord.
+After he said this, he showed them his hands and his side. The disciples were overjoyed when they saw the Lord.
 
 ## John 20:21
 
-So Jesus _said to them again_, “Peace be to you;  
-just as the Father has sent Me, I also send you.”
+Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.”
 
 ## John 20:22
 
-And when He had said this, He breathed on them and _said to them_, “Receive the Holy Spirit.
+And with that he breathed on them and said, “Receive the Holy Spirit.
 
 ## John 20:23
 
-If you forgive the sins of any, their sins have been forgiven them;  
-if you retain the sins of any, they have been retained.”
+If you forgive anyone’s sins, their sins are forgiven; if you do not forgive them, they are not forgiven.”
 
 ---
 
 ## John 20:24
 
-But Thomas, one of the twelve, who was called Didymus, was not with them when Jesus came.
+Now Thomas, also known as Didymus, one of the Twelve, was not with the disciples when Jesus came.
 
 ## John 20:25
 
-So the other disciples were saying to him, “We have seen the Lord!”  
-But he said to them,  
-“Unless I see in His hands the imprint of the nails, and put my finger into the place of the nails,  
-and put my hand into His side, I will not believe.”
+So the other disciples told him, “We have seen the Lord!” But he said to them, “Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe.”
 
 ---
 
 ## John 20:26
 
-Eight days later His disciples were again inside, and Thomas was with them.  
-Jesus _came_, the doors having been shut, and stood in their midst and _said_, “Peace be to you.”
+A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!”
 
 ## John 20:27
 
-Then He _said to Thomas_,  
-“Place your finger here, and see My hands; and take your hand and put it into My side;  
-and do not continue in unbelief, but be a believer.”
+Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.”
 
 ## John 20:28
 
-Thomas answered and said to Him, “My Lord and my God!”
+Thomas said to him, “My Lord and my God!”
 
 ## John 20:29
 
-Jesus _said to him_,  
-“Because you have seen Me, have you now believed?  
-Blessed are they who did not see, and yet believed.”
+Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.”
 
 ---
 
 ## John 20:30
 
-So then, many other signs Jesus also performed in the presence of the disciples,  
-which are not written in this book;
+Jesus performed many other signs in the presence of his disciples, which are not recorded in this book.
 
 ## John 20:31
 
-but these have been written so that you may believe that Jesus is the Christ, the Son of God;  
-and that by believing you may have life in His name.
+But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.

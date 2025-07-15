@@ -1,104 +1,103 @@
 # Numbers Chapter 35
 
 ## Numbers 35:1
-On the plains of Moab by the Jordan across from Jericho, the Lord spoke to Moses, saying:
+The Lord spoke to Moses on the plains of Moab by the Jordan, opposite Jericho, saying,
 
 ## Numbers 35:2
-“Command the Israelites to give the Levites towns to live in from among the inheritance they possess. Also give the Levites surrounding pastureland for their livestock.
+“Instruct the Israelites to allocate to the Levites towns to reside in from the inheritance of their possessions. Also, provide them with pasturelands surrounding these towns.
 
 ## Numbers 35:3
-These towns will be theirs to live in, and the surrounding fields are for their animals.
+These towns will be for them to live in, and the pasturelands will be for their cattle, their equipment, and all their other animals.
 
 ## Numbers 35:4
-The pastureland around the towns shall extend a thousand cubits from the town wall in all directions.
+“The pasturelands around the towns you give to the Levites shall extend outward a thousand cubits from the town wall.
 
 ## Numbers 35:5
-Measure two thousand cubits outside the town on each side—east, south, west, and north—with the town in the center. This will be their grazing area.
+Measure two thousand cubits outside the town on the east, south, west, and north sides, with the town in the centre. This area will serve as pastureland for the towns.
 
 ## Numbers 35:6
-Among the towns you give the Levites, six are to be designated as cities of refuge, where someone who kills another unintentionally may flee. In addition, give them forty-two more towns.
+“Of the towns you give to the Levites, designate six as cities of refuge, where someone who has committed manslaughter may flee. In addition, provide forty-two other towns.
 
 ## Numbers 35:7
-In total, you are to give the Levites forty-eight towns, along with their surrounding pasturelands.
+In total, you must allocate forty-eight towns to the Levites, along with their pasturelands.
 
 ## Numbers 35:8
-The towns are to be taken from the larger tribes in greater number, and fewer from the smaller tribes, according to the inheritance each tribe receives.
+The towns you allocate to the Levites from the Israelites' land should be proportional to the inheritance of each tribe: take more towns from a tribe with a larger inheritance, and fewer from one with a smaller inheritance.”
 
 ## Numbers 35:9
-Then the Lord said to Moses:
+The Lord then spoke to Moses, saying,
 
 ## Numbers 35:10
-“Speak to the Israelites and say: When you cross the Jordan into Canaan,
+“Tell the Israelites: ‘When you cross the Jordan into the land of Canaan,
 
 ## Numbers 35:11
-select some towns to serve as cities of refuge, to which anyone who kills a person accidentally may flee.
+select towns to serve as cities of refuge, where someone who has killed another unintentionally may flee.
 
 ## Numbers 35:12
-They will serve as places of safety from the avenger of blood, so that the killer may not die before standing trial before the assembly.
+These cities will be a refuge from the avenger, so that the accused may not die before standing trial before the assembly.
 
 ## Numbers 35:13
-You must designate six cities of refuge.
+The six towns you provide will be your cities of refuge.
 
 ## Numbers 35:14
-Three must be located on the east side of the Jordan and three in Canaan proper.
+Allocate three cities on this side of the Jordan and three in the land of Canaan as cities of refuge.
 
 ## Numbers 35:15
-These six cities are for Israelites, foreigners, and temporary residents alike. Anyone who kills another unintentionally may flee there.
+These six cities will be a refuge for the Israelites, strangers, and foreigners residing among you, so that anyone who has killed another unintentionally may flee there.
 
 ## Numbers 35:16
-But if someone strikes another with an iron object so that the person dies, they are a murderer. The murderer must be put to death.
+“‘If someone strikes another with an iron object causing death, that person is a murderer; the murderer must be put to death.
 
 ## Numbers 35:17
-If they strike another with a stone capable of causing death, and the person dies, they are guilty.
+If someone strikes another with a stone in the hand, causing death, that person is a murderer; the murderer must be put to death.
 
 ## Numbers 35:18
-If they strike with a wooden object that could kill, and the victim dies, the assailant is a murderer and must be executed.
+Or if someone strikes another with a wooden object in the hand, causing death, that person is a murderer; the murderer must be put to death.
 
 ## Numbers 35:19
-The avenger of blood shall put the murderer to death upon encountering them.
+The avenger of blood is to execute the murderer; when the avenger encounters the murderer, the avenger shall put the murderer to death.
 
 ## Numbers 35:20
-If someone pushes another out of hatred or throws something at them with malicious intent, and the victim dies,
+If someone pushes another out of hatred, or throws something at them with malicious intent, resulting in death,
 
 ## Numbers 35:21
-or if they strike them with a hostile hand and the person dies, it is murder. The killer must be executed by the avenger of blood.
+or if someone strikes another with hostility, causing death, the perpetrator is a murderer and must be put to death. The avenger of blood shall execute the murderer when they meet.
 
 ## Numbers 35:22
-But if someone pushes another accidentally, without hostility, or throws something unintentionally,
+“‘However, if someone pushes another suddenly without hostility, or throws any object at them without malicious intent,
 
 ## Numbers 35:23
-or drops a stone without seeing the person, and the person dies though not an enemy nor intended target,
+or, without seeing them, drops a stone heavy enough to cause death, and the person dies, but there was no enmity and no harm intended,
 
 ## Numbers 35:24
-then the assembly must judge between the killer and the avenger of blood based on these laws.
+then the assembly shall judge between the accused and the avenger of blood according to these laws.
 
 ## Numbers 35:25
-If the assembly determines it was unintentional, they must protect the killer and send them back to the city of refuge.
+The assembly must protect the one accused of manslaughter from the avenger of blood and return the accused to the city of refuge to which they fled. The accused must remain there until the death of the high priest, who was anointed with the holy oil.
 
 ## Numbers 35:26
-If the killer ever leaves the city of refuge before the death of the high priest,
+“‘If the accused ever leaves the boundaries of the city of refuge to which they fled,
 
 ## Numbers 35:27
-and the avenger of blood finds and kills them outside the city, the avenger is not guilty.
+and the avenger of blood finds them outside the city, the avenger may kill the accused without being guilty of murder.
 
 ## Numbers 35:28
-The killer must stay in the city of refuge until the high priest dies; only then may they return home.
+The accused must remain in the city of refuge until the death of the high priest; only after the death of the high priest may they return to their property.
 
 ## Numbers 35:29
-These are legal requirements for all generations to come.
+“‘These regulations are to be a legal statute for you throughout your generations, wherever you live.
 
 ## Numbers 35:30
-Anyone convicted of murder must be executed based on the testimony of witnesses. No one is to be executed on the testimony of a single witness.
+“‘Anyone who kills another shall be put to death as a murderer only on the testimony of witnesses. No one is to be put to death on the testimony of just one witness.
 
 ## Numbers 35:31
-You must not accept a ransom for the life of a murderer condemned to die—they must be put to death.
+“‘Do not accept a ransom for the life of a murderer who deserves to die. They must be put to death.
 
 ## Numbers 35:32
-Do not accept payment to allow someone to flee a city of refuge and return home before the death of the high priest.
+“‘Do not accept a ransom for anyone who has fled to a city of refuge, allowing them to return and live on their own land before the death of the high priest.
 
 ## Numbers 35:33
-Do not defile the land where you are. Bloodshed defiles the land, and no atonement can be made for it except by the blood of the one who shed it.
+“‘Do not defile the land where you reside. Bloodshed defiles the land, and no atonement can be made for the land on which blood has been shed, except by the blood of the one who shed it.
 
 ## Numbers 35:34
-Do not pollute the land where you dwell, for I, the Lord, dwell among the Israelites.
-
+Do not defile the land where you dwell, where I also dwell, for I, the Lord, dwell among the Israelites.’”

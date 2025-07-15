@@ -1,121 +1,73 @@
 # Proverbs Chapter 18
 
 ## Proverbs 18:1
-
-One who separates himself seeks his own desire;  
-He quarrels against all sound wisdom.
+A person who isolates themselves seeks their own desires; they quarrel against all sound judgment.
 
 ## Proverbs 18:2
-
-A fool does not delight in understanding,  
-But only in revealing his own mind.
+Fools take no pleasure in understanding, but only in expressing their own thoughts.
 
 ## Proverbs 18:3
-
-When a wicked person comes, contempt also comes,  
-And with dishonour comes disgrace.
+When wickedness arrives, so does contempt, and with dishonour comes reproach.
 
 ## Proverbs 18:4
-
-The words of a person’s mouth are deep waters;  
-> The fountain of wisdom is a bubbling brook.
+The words from a person's mouth are deep waters; the wellspring of wisdom is a flowing brook.
 
 ## Proverbs 18:5
-
-To show partiality to the wicked is not good,  
-Nor to suppress the righteous in judgment.
+It is not good to show favouritism to the wicked or to deny justice to the righteous.
 
 ## Proverbs 18:6
-
-A fool’s lips bring strife,  
-And his mouth invites beatings.
+The lips of a fool bring them into conflict, and their mouth invites a beating.
 
 ## Proverbs 18:7
-
-A fool’s mouth is his ruin,  
-And his lips are the snare of his soul.
+A fool's mouth is their ruin, and their lips are a trap for their soul.
 
 ## Proverbs 18:8
-
-The words of a slanderer are like dainty morsels,  
-> And they go down into the innermost parts of the body.
+The words of a gossip are like choice morsels; they go down to the innermost parts.
 
 ## Proverbs 18:9
-
-One who is lazy in his work  
-Is brother to him who destroys.
+One who is slack in their work is a sibling to one who destroys.
 
 ## Proverbs 18:10
-
-The name of the Lord is a strong tower;  
-The righteous runs into it and is safe.
+The name of the Lord is a strong tower; the righteous run to it and find safety.
 
 ## Proverbs 18:11
-
-A rich person’s wealth is his strong city,  
-And like a high wall in his own imagination.
+The wealth of the rich is their fortified city; they perceive it as an unscalable wall.
 
 ## Proverbs 18:12
-
-Before destruction the heart of a person is haughty,  
-But humility goes before honour.
+Before destruction, a person's heart is proud, but humility precedes honour.
 
 ## Proverbs 18:13
-
-One who gives an answer before he hears,  
-It is foolishness and shame to him.
+To respond before listening is foolishness and brings shame.
 
 ## Proverbs 18:14
-
-The spirit of a person can endure his sickness,  
-But as for a broken spirit, who can bear it?
+The spirit of a person can sustain them in sickness, but a broken spirit who can endure?
 
 ## Proverbs 18:15
-
-The mind of the discerning acquires knowledge,  
-And the ear of the wise seeks knowledge.
+The discerning heart acquires knowledge, and the ears of the wise seek it out.
 
 ## Proverbs 18:16
-
-A person’s gift makes room for him  
-And brings him before great people.
+A gift paves the way for the giver and brings them before the great.
 
 ## Proverbs 18:17
-
-The first to plead his case seems right,  
-Until another comes and examines him.
+The first to present their case seems right, until another comes and examines them.
 
 ## Proverbs 18:18
-
-The cast lot puts an end to quarrels,  
-And decides between the mighty ones.
+Casting lots ends disputes and separates powerful opponents.
 
 ## Proverbs 18:19
-
-A brother who is offended is harder to be won than a strong city,  
-And quarrels are like the bars of a citadel.
+An offended brother is more unyielding than a fortified city, and disputes are like the barred gates of a citadel.
 
 ## Proverbs 18:20
-
-With the fruit of a person’s mouth his stomach will be satisfied;  
-He will be satisfied with the product of his lips.
+From the fruit of their mouth a person's stomach is filled; with the yield of their lips they are satisfied.
 
 ## Proverbs 18:21
-
-Death and life are in the power of the tongue,  
-And those who love it will eat its fruit.
+The tongue holds the power of life and death, and those who love it will eat its fruit.
 
 ## Proverbs 18:22
-
-He who finds a wife finds a good thing  
-And obtains favour from the Lord.
+Whoever finds a wife finds a good thing and receives favour from the Lord.
 
 ## Proverbs 18:23
-
-The poor man pleads for mercy,  
-But the rich man answers harshly.
+The poor plead for mercy, but the rich respond harshly.
 
 ## Proverbs 18:24
-
-A person of too many friends comes to ruin,  
-But there is a friend who sticks closer than a brother.
+One with too many friends may come to ruin, but there is a friend who sticks closer than a brother.

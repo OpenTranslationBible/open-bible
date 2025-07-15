@@ -1,113 +1,85 @@
 # Ezekiel Chapter 1
 
 ## Ezekiel 1:1
-
-Now it came about in the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the Chebar River, the heavens were opened and I saw visions of God.
+In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens were opened, and I saw visions of God.
 
 ## Ezekiel 1:2
-
-On the fifth of the month—in the fifth year of King Jehoiachin’s exile—
+On the fifth day of the month—it was the fifth year of King Jehoiachin's exile—
 
 ## Ezekiel 1:3
-
-The word of the Lord came expressly to Ezekiel the priest, son of Buzi, in the land of the Chaldeans by the Chebar River; and there the hand of the Lord came upon him.
+the word of the Lord came to Ezekiel the priest, son of Buzi, by the River Kebar in the land of the Chaldeans. There the hand of the Lord was upon him.
 
 ## Ezekiel 1:4
-
-As I looked, behold, a storm wind was coming from the north, a great cloud with fire flashing forth continually and a bright light surrounding it, and in its midst something like glowing metal in the midst of the fire.
+As I looked, I saw a stormy wind coming from the north, a great cloud with lightning flashing and a bright light surrounding it. In the centre of the fire was something like glowing metal.
 
 ## Ezekiel 1:5
-
-And within it were figures resembling four living beings. And this was their appearance: they had human form.
+In the fire were figures resembling four living creatures, and they had a human-like form.
 
 ## Ezekiel 1:6
-
-Each of them had four faces and four wings.
+Each had four faces and four wings.
 
 ## Ezekiel 1:7
-
-Their legs were straight, and their feet were like a calf’s hoof, and they sparkled like polished bronze.
+Their legs were straight, and their feet were like those of a calf, shining like polished bronze.
 
 ## Ezekiel 1:8
-
-Under their wings on their four sides were human hands. As for the faces and wings of the four of them,
+Under their wings on their four sides were human hands. All four had faces and wings.
 
 ## Ezekiel 1:9
-
-Their wings touched one another; their faces did not turn when they moved, each went straight forward.
+Their wings touched one another; they did not turn as they moved, each went straight forward.
 
 ## Ezekiel 1:10
-
-As for the form of their faces, each had the face of a man; all four had the face of a lion on the right, the face of a bull on the left, and all four had the face of an eagle.
+Their faces were like this: each had a human face, a lion's face on the right, an ox's face on the left, and an eagle's face.
 
 ## Ezekiel 1:11
-
-Such were their faces. Their wings were spread out above; each had two touching another being, and two covering their bodies.
+Such were their faces. Their wings were spread out above; each had two wings touching another creature and two covering their bodies.
 
 ## Ezekiel 1:12
-
-And each went straight forward; wherever the spirit was about to go, they would go, without turning as they went.
+Each went straight forward; wherever the spirit would go, they would go, without turning as they went.
 
 ## Ezekiel 1:13
-
-In the midst of the living beings there was something that looked like burning coals of fire, like torches moving back and forth among the living beings. The fire was bright, and lightning was flashing from the fire.
+The appearance of the living creatures was like burning coals of fire, like torches. Fire moved among the creatures, and lightning flashed from it.
 
 ## Ezekiel 1:14
-
-And the living beings ran back and forth like bolts of lightning.
+The creatures darted back and forth like flashes of lightning.
 
 ## Ezekiel 1:15
-
-Now as I looked at the living beings, behold, there was one wheel on the earth beside each of the living beings, for each of the four of them.
+As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.
 
 ## Ezekiel 1:16
-
-The appearance of the wheels and their workmanship was like the gleam of beryl, and all four of them had the same form. Their appearance and workmanship were as if one wheel were within another.
+The appearance of the wheels was like sparkling topaz, and all four looked alike. They seemed to be made like a wheel within a wheel.
 
 ## Ezekiel 1:17
-
-Whenever they moved, they went in any of their four directions without turning as they moved.
+When they moved, they went in any of the four directions without turning as they moved.
 
 ## Ezekiel 1:18
-
-Their rims were tall and awesome, and the rims of all four were full of eyes all around.
+Their rims were high and awesome, and the rims of all four were full of eyes all around.
 
 ## Ezekiel 1:19
-
-Whenever the living beings moved, the wheels moved with them. And whenever the living beings rose from the earth, the wheels also rose.
+When the living creatures moved, the wheels beside them moved; and when the creatures rose from the ground, the wheels rose also.
 
 ## Ezekiel 1:20
-
-Wherever the spirit was about to go, they would go in that direction, and the wheels would rise alongside them; for the spirit of the living beings was in the wheels.
+Wherever the spirit would go, they would go, and the wheels would rise along with them, for the spirit of the living creatures was in the wheels.
 
 ## Ezekiel 1:21
-
-When the living beings moved, the wheels moved; when the beings stood still, the wheels stood still; and when they rose from the earth, the wheels also rose, for the spirit of the living beings was in the wheels.
+When the creatures moved, the wheels moved; when they stood still, the wheels stood still; and when they rose from the ground, the wheels rose with them, for the spirit of the living creatures was in the wheels.
 
 ## Ezekiel 1:22
-
-Now over the heads of the living beings there was something like an expanse, like the awesome gleam of crystal, spread out over their heads.
+Above the heads of the living creatures was what looked like an expanse, sparkling like crystal, spread out over their heads.
 
 ## Ezekiel 1:23
-
-Under the expanse their wings were stretched out straight, one toward the other; each one also had two wings covering its body on the one side and on the other.
+Under the expanse, their wings were stretched out straight, one toward the other; each had two wings covering its body.
 
 ## Ezekiel 1:24
-
-I also heard the sound of their wings, like the sound of abundant waters as they went, like the voice of the Almighty, a sound of tumult like the sound of an army camp; whenever they stood still, they dropped their wings.
+When the creatures moved, I heard the sound of their wings, like the roar of rushing waters, like the voice of the Almighty, like the noise of an army. When they stood still, they lowered their wings.
 
 ## Ezekiel 1:25
-
-And a voice came from above the expanse that was over their heads; whenever they stood still, they dropped their wings.
+Then there came a voice from above the expanse over their heads as they stood with lowered wings.
 
 ## Ezekiel 1:26
-
-Now above the expanse that was over their heads there was something resembling a throne, like lapis lazuli in appearance; and on that which resembled a throne, high up, was a figure with the appearance of a man.
+Above the expanse over their heads was something like a throne, resembling lapis lazuli, and on the throne high above was a figure like that of a man.
 
 ## Ezekiel 1:27
-
-Then I saw something like glowing metal, as the appearance of fire all around within it, from the appearance of His waist and upward; and from the appearance of His waist and downward I saw something like fire, and there was a radiance around Him.
+I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and from there down he looked like fire, and brilliant light surrounded him.
 
 ## Ezekiel 1:28
-
-Like the appearance of the rainbow in the clouds on a rainy day, so was the appearance of the radiance around Him. Such was the appearance of the likeness of the glory of the Lord. And when I saw it, I fell on my face and heard a voice speaking.
+Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell facedown, and I heard the voice of one speaking.

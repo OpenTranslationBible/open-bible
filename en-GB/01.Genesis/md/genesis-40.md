@@ -1,120 +1,70 @@
 # Genesis Chapter 40
 
 ## Genesis 40:1
-
-Then it came about after these things, that the cupbearer and the baker for the king of Egypt offended their lord, the king of Egypt.
+Some time later, the cupbearer and the baker for the king of Egypt offended their lord, the king of Egypt.
 
 ## Genesis 40:2
-
-And Pharaoh was furious with his two officials, the chief cupbearer and the chief baker.
+Pharaoh was furious with his two officials, the chief cupbearer and the chief baker.
 
 ## Genesis 40:3
-
-So he put them in confinement in the house of the captain of the guard, in the prison, the same place where Joseph was imprisoned.
+He put them in custody in the house of the captain of the guard, in the same prison where Joseph was confined.
 
 ## Genesis 40:4
-
-And the captain of the guard put Joseph in charge of them, and he took care of them; and they were in confinement for some time.
+The captain of the guard assigned them to Joseph, and he attended to them; they were in custody for some time.
 
 ## Genesis 40:5
-
-Then the cupbearer and the baker for the king of Egypt, who were confined in prison, both had a dream the same night, each his own dream with its own interpretation.
+The cupbearer and the baker of the king of Egypt, who were confined in the prison, each had a dream the same night, and each dream had its own meaning.
 
 ## Genesis 40:6
-
-When Joseph came to them in the morning and saw them, behold, they were dejected.
+When Joseph came to them in the morning, he noticed that they were dejected.
 
 ## Genesis 40:7
-
-So he asked Pharaoh’s officials who were with him in confinement in his master’s house,
-
-> “Why are your faces so sad today?”
+So he asked Pharaoh’s officials who were in custody with him in his master’s house, “Why do you look so sad today?”
 
 ## Genesis 40:8
-
-And they said to him,
-
-> “We have had a dream, and there is no one to interpret it.”  
-> Then Joseph said to them,  
-> “Do interpretations not belong to God?  
-> Tell it to me, please.”
+They replied, “We have had dreams, and there is no one to interpret them.” Joseph said to them, “Do not interpretations belong to God? Tell me your dreams, please.”
 
 ## Genesis 40:9
-
-So the chief cupbearer told his dream to Joseph, and said to him,
-
-> “In my dream, behold, there was a vine in front of me;
+So the chief cupbearer recounted his dream to Joseph, saying, “In my dream, there was a vine in front of me,
 
 ## Genesis 40:10
-
-> And on the vine were three branches.  
-> And as it was budding, its blossoms came out, and its clusters produced ripe grapes.
+and on the vine were three branches. As it budded, its blossoms opened, and its clusters ripened into grapes.
 
 ## Genesis 40:11
-
-> Now Pharaoh’s cup was in my hand;  
-> so I took the grapes and squeezed them into Pharaoh’s cup,  
-> and I put the cup into Pharaoh’s hand.”
+Pharaoh’s cup was in my hand, and I took the grapes, squeezed them into Pharaoh’s cup, and placed the cup in his hand.”
 
 ## Genesis 40:12
-
-Then Joseph said to him,
-
-> “This is the interpretation of it:  
-> the three branches are three days;
+Joseph said to him, “This is the interpretation: the three branches are three days.
 
 ## Genesis 40:13
-
-> Within three more days Pharaoh will lift up your head and restore you to your office;  
-> and you will put Pharaoh’s cup into his hand as in your previous custom when you were his cupbearer.
+Within three days Pharaoh will lift up your head and restore you to your position, and you will put Pharaoh’s cup in his hand, just as you did when you were his cupbearer.
 
 ## Genesis 40:14
-
-> Only keep me in mind when it goes well for you,  
-> and please do me a kindness by mentioning me to Pharaoh,  
-> and get me out of this prison.
+But when it goes well with you, remember me and show me kindness; mention me to Pharaoh and get me out of this prison.
 
 ## Genesis 40:15
-
-> For I was in fact kidnapped from the land of the Hebrews,  
-> and even here I have done nothing that they should have put me into the dungeon.”
+I was forcibly taken from the land of the Hebrews, and even here I have done nothing to deserve being put in a dungeon.”
 
 ## Genesis 40:16
-
-When the chief baker saw that he had interpreted favourably, he said to Joseph,
-
-> “I also saw in my dream,  
-> and behold, there were three baskets of white bread on my head;
+When the chief baker saw that the interpretation was favourable, he said to Joseph, “I also had a dream: on my head were three baskets of bread.
 
 ## Genesis 40:17
-
-> And in the top basket there were all kinds of baked food for Pharaoh,  
-> and the birds were eating them out of the basket on my head.”
+In the top basket were all kinds of baked goods for Pharaoh, but the birds were eating them out of the basket on my head.”
 
 ## Genesis 40:18
-
-Then Joseph answered and said,
-
-> “This is the interpretation:  
-> the three baskets are three days;
+Joseph answered, “This is the interpretation: the three baskets are three days.
 
 ## Genesis 40:19
-
-> Within three more days Pharaoh will lift up your head from you and will hang you on a tree,  
-> and the birds will eat your flesh off you.”
+Within three days Pharaoh will lift off your head and hang you on a pole, and the birds will eat your flesh.”
 
 ## Genesis 40:20
-
-So it came about on the third day, which was Pharaoh’s birthday, that he held a feast for all his servants; and he lifted up the head of the chief cupbearer and the head of the chief baker among his servants.
+On the third day, which was Pharaoh’s birthday, he held a feast for all his officials. He lifted up the head of the chief cupbearer and the head of the chief baker in the presence of his officials:
 
 ## Genesis 40:21
-
-He restored the chief cupbearer to his office, and he put the cup into Pharaoh’s hand;
+He restored the chief cupbearer to his position, so that he once again put the cup into Pharaoh’s hand;
 
 ## Genesis 40:22
-
-But he hanged the chief baker, just as Joseph had interpreted to them.
+but he hanged the chief baker, just as Joseph had interpreted to them.
 
 ## Genesis 40:23
-
-Yet the chief cupbearer did not remember Joseph, but forgot him.
+Yet the chief cupbearer did not remember Joseph; he forgot him.

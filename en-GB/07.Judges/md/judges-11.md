@@ -2,184 +2,164 @@
 
 ## Judges 11:1
 
-Jephthah the Gileadite was a mighty warrior. His father was Gilead; his mother was a prostitute.
+Jephthah the Gileadite was a valiant warrior, but he was the son of a prostitute. Gilead was his father.
 
 ## Judges 11:2
 
-Gilead’s wife also bore him sons, and when they were grown, they drove Jephthah away. “You shall have no inheritance in our family,” they said, “because you are the son of another woman.”
+Gilead’s wife bore him sons, and when they were grown, they drove Jephthah away, saying, “You shall not share in our family inheritance, for you are the son of another woman.”
 
 ## Judges 11:3
 
-So Jephthah fled from his brothers and settled in the land of Tob, where a group of adventurers gathered around him and followed him.
-
----
+So Jephthah fled from his brothers and lived in the land of Tob, where a group of worthless men gathered around him and followed him.
 
 ## Judges 11:4
 
-Some time later, when the Ammonites were fighting against Israel,
+After some time, the Ammonites waged war against Israel.
 
 ## Judges 11:5
 
-the elders of Gilead went to get Jephthah from the land of Tob.
+When the Ammonites fought against Israel, the elders of Gilead went to bring Jephthah back from the land of Tob.
 
 ## Judges 11:6
 
-“Come,” they said, “be our commander, so we can fight the Ammonites.”
+They said to Jephthah, “Come and be our leader so that we can fight against the Ammonites.”
 
 ## Judges 11:7
 
-Jephthah said to them, “Didn’t you hate me and drive me from my father’s house? Why do you come to me now, when you’re in trouble?”
+Jephthah replied to the elders of Gilead, “Did you not hate me and drive me from my father’s house? Why do you come to me now when you are in distress?”
 
 ## Judges 11:8
 
-The elders of Gilead said to him, “Nevertheless, we are turning to you now. Come with us to fight the Ammonites, and you will be head over all who live in Gilead.”
+The elders of Gilead said to Jephthah, “For this reason we have returned to you now, that you may go with us to fight the Ammonites and become our leader over all the inhabitants of Gilead.”
 
 ## Judges 11:9
 
-Jephthah answered, “Suppose you take me back to fight the Ammonites, and the Lord gives them to me—will I really be your head?”
+Jephthah said to them, “If you bring me back to fight the Ammonites and the Lord delivers them to me, shall I indeed be your leader?”
 
 ## Judges 11:10
 
-The elders of Gilead replied, “The Lord is our witness; we will certainly do as you say.”
+The elders of Gilead answered, “The Lord is witness between us; we will do as you have said.”
 
 ## Judges 11:11
 
-So Jephthah went with the elders of Gilead, and the people made him head and commander over them.  
-And he repeated all his words before the Lord in Mizpah.
-
----
+So Jephthah went with the elders of Gilead, and the people made him head and commander over them. Jephthah repeated all his words before the Lord at Mizpah.
 
 ## Judges 11:12
 
-Then Jephthah sent messengers to the Ammonite king with the question: “What do you have against me that you have attacked my land?”
+Jephthah sent messengers to the king of the Ammonites, asking, “What conflict exists between us that you have come to fight against my land?”
 
 ## Judges 11:13
 
-The king of the Ammonites answered Jephthah’s messengers, “When Israel came up out of Egypt, they took away my land from the Arnon to the Jabbok, all the way to the Jordan. Now give it back peacefully.”
+The king of the Ammonites replied to Jephthah’s messengers, “When Israel came up from Egypt, they seized my land from the Arnon to the Jabbok and the Jordan. Now, return it peaceably.”
 
 ## Judges 11:14
 
-Jephthah sent back messengers to the Ammonite king,
+Jephthah sent messengers again to the king of the Ammonites,
 
 ## Judges 11:15
 
-saying: “This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
+saying, “This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
 
 ## Judges 11:16
 
-When they came up out of Egypt, Israel went through the wilderness to the Red Sea and on to Kadesh.
+When they came up from Egypt, Israel travelled through the wilderness to the Red Sea and then to Kadesh.
 
 ## Judges 11:17
 
-Then Israel sent messengers to the king of Edom, saying, ‘Give us permission to go through your country.’ But the king of Edom would not listen.  
-They sent also to the king of Moab, and he refused. So Israel stayed at Kadesh.
+Israel sent messengers to the king of Edom, asking, ‘Please let us pass through your land,’ but the king of Edom would not listen. They also sent to the king of Moab, but he refused. So Israel remained at Kadesh.
 
 ## Judges 11:18
 
-Next they travelled through the wilderness, skirted Edom and Moab, passed along the eastern side of the land of Moab, and camped on the far side of the Arnon.  
-They did not enter the territory of Moab, for the Arnon was its border.
+Then they journeyed through the wilderness, bypassing Edom and Moab, and came to the east of Moab, camping on the other side of the Arnon. They did not enter Moabite territory, for the Arnon was its border.
 
 ## Judges 11:19
 
-Then Israel sent messengers to Sihon king of the Amorites, who ruled in Heshbon, and said to him, ‘Let us pass through your country to our own place.’
+Israel sent messengers to Sihon, king of the Amorites, ruler of Heshbon, saying, ‘Please let us pass through your land to our place.’
 
 ## Judges 11:20
 
-But Sihon did not trust Israel to pass through his territory.  
-He mustered all his troops and encamped at Jahaz and fought with Israel.
+But Sihon did not trust Israel to pass through his territory. He gathered all his troops, camped at Jahaz, and fought with Israel.
 
 ## Judges 11:21
 
-Then the Lord, the God of Israel, gave Sihon and all his men into Israel’s hands, and they defeated them.  
-Israel took over all the land of the Amorites who lived in that country,
+The Lord, the God of Israel, delivered Sihon and all his people into Israel’s hands, and they defeated them. Israel took possession of all the land of the Amorites who inhabited that region.
 
 ## Judges 11:22
 
-capturing all of it from the Arnon to the Jabbok and from the desert to the Jordan.
+They captured all the territory from the Arnon to the Jabbok and from the wilderness to the Jordan.
 
 ---
 
 ## Judges 11:23
 
-“Now since the Lord, the God of Israel, has driven out the Amorites before His people Israel, what right have you to take it over?
+Now that the Lord, the God of Israel, has driven the Amorites out before His people Israel, should you then possess it?
 
 ## Judges 11:24
 
-Will you not take what your god Chemosh gives you? Likewise, whatever the Lord our God has given us, we will possess.
+Do you not possess what Chemosh your god gives you? Likewise, whatever the Lord our God has given us, we will possess.
 
 ## Judges 11:25
 
-Are you better than Balak son of Zippor, king of Moab? Did he ever quarrel with Israel or fight with them?
+Are you any better than Balak son of Zippor, king of Moab? Did he ever strive against Israel or wage war with them?
 
 ## Judges 11:26
 
-For three hundred years Israel occupied Heshbon, Aroer, the surrounding settlements and all the towns along the Arnon.  
-Why didn’t you retake them during that time?
+For three hundred years, Israel occupied Heshbon, Aroer, and the surrounding settlements, and all the towns along the Arnon. Why did you not reclaim them during that time?
 
 ## Judges 11:27
 
-I have not wronged you, but you are doing me wrong by waging war against me.  
-Let the Lord, the Judge, decide the dispute this day between the Israelites and the Ammonites.”
+I have not wronged you, but you are wronging me by waging war against me. Let the Lord, the Judge, decide the dispute today between the Israelites and the Ammonites.”
 
 ## Judges 11:28
 
-The king of Ammon, however, paid no attention to the message Jephthah sent him.
+The king of the Ammonites, however, ignored the message Jephthah sent him.
 
 ---
 
 ## Judges 11:29
 
-Then the Spirit of the Lord came on Jephthah.  
-He crossed Gilead and Manasseh, passed through Mizpah of Gilead, and advanced against the Ammonites.
+Then the Spirit of the Lord came upon Jephthah. He passed through Gilead and Manasseh, and through Mizpah of Gilead, advancing against the Ammonites.
 
 ## Judges 11:30
 
-And Jephthah made a vow to the Lord: “If You give the Ammonites into my hands,
+Jephthah made a vow to the Lord: “If You deliver the Ammonites into my hands,
 
 ## Judges 11:31
 
-whatever comes out of the door of my house to meet me when I return in triumph from the Ammonites will be the Lord’s, and I will offer it as a burnt offering.”
+then whatever comes out of the doors of my house to meet me when I return victorious from the Ammonites shall be the Lord’s, and I will offer it as a burnt offering.”
 
 ## Judges 11:32
 
-Then Jephthah went over to fight the Ammonites, and the Lord gave them into his hands.
+Jephthah crossed over to fight the Ammonites, and the Lord delivered them into his hands.
 
 ## Judges 11:33
 
-He devastated twenty towns from Aroer to the vicinity of Minnith, as far as Abel Keramim.  
-Thus Israel subdued Ammon.
-
----
+He struck them down from Aroer to the vicinity of Minnith, twenty towns, as far as Abel Keramim. Thus the Ammonites were subdued before the Israelites.
 
 ## Judges 11:34
 
-When Jephthah returned to his home in Mizpah, who should come out to meet him but his daughter, dancing to the sound of tambourines!  
-She was his only child. Except for her, he had neither son nor daughter.
+When Jephthah returned to his home in Mizpah, his daughter came out to meet him with tambourines and dancing. She was his only child; besides her, he had neither son nor daughter.
 
 ## Judges 11:35
 
-When he saw her, he tore his clothes and cried, “Oh no, my daughter! You have brought me down and I am devastated.  
-I have given my word to the Lord and cannot break it.”
+Upon seeing her, he tore his clothes and said, “Alas, my daughter! You have brought me low, and you are among those who trouble me, for I have given my word to the Lord, and I cannot retract it.”
 
 ## Judges 11:36
 
-“My father,” she replied, “you have given your word to the Lord.  
-Do to me just as you promised, now that the Lord has avenged you of your enemies, the Ammonites.
+She replied, “My father, you have given your word to the Lord; do to me as you have promised, since the Lord has avenged you of your enemies, the Ammonites.”
 
 ## Judges 11:37
 
-But grant me this one request,” she said. “Give me two months to roam the hills and weep with my friends, because I will never marry.”
+She then said to her father, “Grant me this request: allow me two months to roam the hills and weep with my friends because I will never marry.”
 
 ## Judges 11:38
 
-“You may go,” he said. And he let her go for two months.  
-She and her friends went into the hills and wept because she would never marry.
+He said, “Go.” So he sent her away for two months. She and her friends went into the hills and wept over her virginity.
 
 ## Judges 11:39
 
-After the two months, she returned to her father, and he did to her as he had vowed.  
-And she was a virgin. From this comes the Israelite tradition
+After two months, she returned to her father, and he did to her as he had vowed. And she was a virgin. From this arose a custom in Israel,
 
 ## Judges 11:40
 
-that each year the young women of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.
+that each year the daughters of Israel go out for four days to commemorate the daughter of Jephthah the Gileadite.

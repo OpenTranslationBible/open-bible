@@ -1,111 +1,82 @@
 # James Chapter 1
 
 ## James 1:1
-
-James, a bond-servant of God and of the Lord Jesus Christ,  
-To the twelve tribes who are dispersed abroad:  
-Greetings.
+James, a servant of God and of the Lord Jesus Christ, To the twelve tribes dispersed among the nations: Greetings.
 
 ## James 1:2
-
-Consider it all joy, my brothers and sisters, when you encounter various trials,
+Consider it pure joy, my brothers and sisters, whenever you encounter various trials,
 
 ## James 1:3
-
-knowing that the testing of your faith produces endurance.
+because you know that the testing of your faith produces endurance.
 
 ## James 1:4
-
-And let endurance have its perfect result, so that you may be perfect and complete, lacking in nothing.
+Let endurance have its perfect work, so that you may be mature and complete, lacking in nothing.
 
 ## James 1:5
-
-But if any of you lacks wisdom, let him ask of God, who gives to all generously and without reproach, and it will be given to him.
+If any of you lacks wisdom, let them ask God, who gives generously to all without reproach, and it will be given to them.
 
 ## James 1:6
-
-But he must ask in faith without doubting, for the one who doubts is like the surf of the sea, driven and tossed by the wind.
+But you must ask in faith, without doubting, because the one who doubts is like a wave of the sea, driven and tossed by the wind.
 
 ## James 1:7
-
-For that person ought not to expect that he will receive anything from the Lord,
+Such a person should not expect to receive anything from the Lord.
 
 ## James 1:8
-
-being a double-minded man, unstable in all his ways.
+They are double-minded and unstable in all their ways.
 
 ## James 1:9
-
-Now the brother or sister of humble circumstances is to glory in his high position;
+Believers in humble circumstances should take pride in their high position;
 
 ## James 1:10
-
-but the rich person is to glory in his humiliation, because like flowering grass he will pass away.
+but the rich should take pride in their humiliation, since they will pass away like a wild flower.
 
 ## James 1:11
-
-For the sun rises with its scorching heat and withers the grass, and its flower falls off and the beauty of its appearance is destroyed; so also the rich person in the midst of his pursuits will die out.
+For the sun rises with scorching heat and withers the grass; its flower falls and its beauty is destroyed. In the same way, the rich will fade away even while they go about their business.
 
 ## James 1:12
-
-Blessed is a man who perseveres under trial; for once he has been approved, he will receive the crown of life which the Lord has promised to those who love Him.
+Blessed is the one who perseveres under trial; for having stood the test, they will receive the crown of life that the Lord has promised to those who love Him.
 
 ## James 1:13
-
-No one is to say when he is tempted, “I am being tempted by God”; for God cannot be tempted by evil, and He Himself does not tempt anyone.
+When tempted, no one should say, “I am being tempted by God.” For God cannot be tempted by evil, nor does He tempt anyone;
 
 ## James 1:14
-
-But each one is tempted when he is carried away and enticed by his own lust.
+but each person is tempted when they are carried away and enticed by their own evil desire.
 
 ## James 1:15
-
-Then when lust has conceived, it gives birth to sin; and sin, when it has run its course, brings forth death.
+Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death.
 
 ## James 1:16
-
 Do not be deceived, my beloved brothers and sisters.
 
 ## James 1:17
-
-Every good thing given and every perfect gift is from above, coming down from the Father of lights, with whom there is no variation or shifting shadow.
+Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.
 
 ## James 1:18
-
-In the exercise of His will He gave us birth by the word of truth, so that we would be a kind of first fruits among His creatures.
+He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all He created.
 
 ## James 1:19
-
-You know this, my beloved brothers and sisters. Now everyone must be quick to hear, slow to speak, and slow to anger;
+My beloved brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak, and slow to become angry;
 
 ## James 1:20
-
-for a man’s anger does not bring about the righteousness of God.
+because human anger does not produce the righteousness that God desires.
 
 ## James 1:21
-
-Therefore, ridding yourselves of all filthiness and all that remains of wickedness, in humility receive the word implanted, which is able to save your souls.
+Therefore, get rid of all moral filth and the evil that is so prevalent, and humbly accept the word planted in you, which can save your souls.
 
 ## James 1:22
-
-But prove yourselves doers of the word, and not just hearers who deceive themselves.
+Do not merely listen to the word, and so deceive yourselves. Be doers of the word.
 
 ## James 1:23
-
-For if anyone is a hearer of the word and not a doer, he is like a man who looks at his natural face in a mirror;
+Anyone who listens to the word but does not do what it says is like someone who looks at their face in a mirror
 
 ## James 1:24
-
-for once he has looked at himself and gone away, he immediately forgets what kind of person he was.
+and, after looking at themselves, goes away and immediately forgets what they look like.
 
 ## James 1:25
-
-But one who has looked intently at the perfect law, the law of freedom, and has continued in it, not having become a forgetful hearer but an active doer, this person will be blessed in what he does.
+But whoever looks intently into the perfect law that gives freedom, and continues in it—not forgetting what they have heard, but doing it—they will be blessed in what they do.
 
 ## James 1:26
-
-If anyone thinks himself to be religious, yet does not bridle his tongue but deceives his own heart, this person’s religion is worthless.
+Those who consider themselves religious and yet do not keep a tight rein on their tongues deceive themselves, and their religion is worthless.
 
 ## James 1:27
-
-Pure and undefiled religion in the sight of our God and Father is this: to visit orphans and widows in their distress, and to keep oneself unstained by the world.
+Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself unpolluted by the world.

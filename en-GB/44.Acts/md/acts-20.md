@@ -2,194 +2,166 @@
 
 ## Acts 20:1
 
-After the uproar had ended, Paul sent for the disciples,  
-and when he had encouraged them and said farewell, he left to go to Macedonia.
+After the uproar had subsided, Paul summoned the disciples, and after encouraging them, he said farewell and departed for Macedonia.
 
 ## Acts 20:2
 
-When he had gone through those regions and had given them much encouragement, he came to Greece.
+He journeyed through those regions, offering much encouragement to the people, and eventually arrived in Greece.
 
 ## Acts 20:3
 
-And he spent three months there.  
-When a plot was formed against him by the Jews as he was about to set sail for Syria,  
-he decided to return through Macedonia.
+He remained there for three months. However, when a plot was laid against him by the Jews as he was about to sail for Syria, he resolved to return through Macedonia.
 
 ## Acts 20:4
 
-And he was accompanied by Sopater of Berea, the son of Pyrrhus, and by Aristarchus and Secundus of the Thessalonians,  
-and Gaius of Derbe, and Timothy, and Tychicus and Trophimus of Asia.
+He was accompanied by Sopater, son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from the province of Asia.
 
 ## Acts 20:5
 
-Now these had gone on ahead and were waiting for us at Troas.
+These men went on ahead and waited for us at Troas.
 
 ## Acts 20:6
 
-We sailed from Philippi after the days of Unleavened Bread,  
-and came to them at Troas within five days; and we stayed there for seven days.
+We sailed from Philippi after the Festival of Unleavened Bread, and five days later joined them at Troas, where we stayed for seven days.
 
 ---
 
 ## Acts 20:7
 
-On the first day of the week, when we were gathered together to break bread,  
-Paul began speaking to them, intending to leave the next day, and he prolonged his message until midnight.
+On the first day of the week, we gathered to break bread. Paul spoke to the people, and because he intended to leave the next day, he continued his message until midnight.
 
 ## Acts 20:8
 
-There were many lamps in the upstairs room where we were gathered together.
+There were many lamps in the upper room where we were assembled.
 
 ## Acts 20:9
 
-And a young man named Eutychus was sitting on the windowsill,  
-sinking into a deep sleep as Paul kept on talking;  
-and being overcome by sleep, he fell down from the third floor and was picked up dead.
+A young man named Eutychus was sitting on the window sill, falling into a deep sleep as Paul prolonged his discourse. Overcome by sleep, he fell from the third storey and was picked up dead.
 
 ## Acts 20:10
 
-But Paul went down and fell upon him, and after embracing him, he said,  
-“Do not be troubled, for he is still alive.”
+Paul went down, threw himself upon him, and embracing him, said, “Do not be alarmed, for he is alive.”
 
 ## Acts 20:11
 
-When Paul had gone back up and had broken the bread and eaten,  
-he talked with them a long while, until daybreak, and then left.
+Paul then went back upstairs, broke bread and ate. After conversing until daybreak, he departed.
 
 ## Acts 20:12
 
-They took away the boy alive, and were greatly comforted.
+The young man was taken home alive, and they were greatly comforted.
 
 ---
 
 ## Acts 20:13
 
-But we went on ahead to the ship and set sail for Assos, intending to take Paul on board there;  
-for so he had arranged it, intending himself to go by land.
+We went ahead to the ship and sailed to Assos, intending to take Paul on board there, for he had arranged to travel by land.
 
 ## Acts 20:14
 
-And when he met us at Assos, we took him on board and came to Mitylene.
+When he met us at Assos, we took him on board and proceeded to Mitylene.
 
 ## Acts 20:15
 
-Sailing from there, we arrived the following day opposite Chios;  
-and the next day we crossed over to Samos; and the day after that we came to Miletus.
+Sailing from there, we arrived the next day opposite Chios; the following day we crossed over to Samos, and the day after that we reached Miletus.
 
 ## Acts 20:16
 
-For Paul had decided to sail past Ephesus so that he would not have to lose time in Asia;  
-for he was hurrying, if it might be possible for him to be in Jerusalem on the day of Pentecost.
+Paul had decided to sail past Ephesus to avoid spending time in Asia, as he was hurrying to reach Jerusalem, if possible, by the day of Pentecost.
 
 ---
 
 ## Acts 20:17
 
-From Miletus he sent word to Ephesus and called to himself the elders of the church.
+From Miletus, he sent to Ephesus and summoned the elders of the church.
 
 ## Acts 20:18
 
-And when they came to him, he said to them,  
-“You yourselves know, from the first day that I set foot in Asia,  
-how I was with you the whole time,
+When they arrived, he said to them, “You know how I lived the entire time I was with you, from the first day I set foot in Asia.
 
 ## Acts 20:19
 
-serving the Lord with all humility and with tears and trials which came upon me through the plots of the Jews;
+I served the Lord with great humility and with tears, enduring the trials that came upon me through the plots of the Jews.
 
 ## Acts 20:20
 
-how I did not shrink from declaring to you anything that was beneficial,  
-and teaching you publicly and from house to house,
+I did not hesitate to proclaim anything that would be beneficial to you, teaching you publicly and from house to house.
 
 ## Acts 20:21
 
-solemnly testifying to both Jews and Greeks of repentance toward God and faith in our Lord Jesus.
+I solemnly testified to both Jews and Greeks about repentance towards God and faith in our Lord Jesus.
 
 ---
 
 ## Acts 20:22
 
-And now, behold, bound by the Spirit, I am on my way to Jerusalem,  
-not knowing what will happen to me there,
+“And now, compelled by the Spirit, I am on my way to Jerusalem, not knowing what will happen to me there,
 
 ## Acts 20:23
 
-except that the Holy Spirit solemnly testifies to me in every city, saying that chains and afflictions await me.
+except that the Holy Spirit warns me in every city that imprisonment and hardships await me.
 
 ## Acts 20:24
 
-But I do not consider my life of any account as dear to myself,  
-so that I may finish my course and the ministry which I received from the Lord Jesus,  
-to testify solemnly of the gospel of God’s grace.
+However, I consider my life worth nothing to me; my only aim is to finish the race and complete the ministry I received from the Lord Jesus, to testify to the gospel of God’s grace.
 
 ---
 
 ## Acts 20:25
 
-“And now behold, I know that all of you, among whom I went about preaching the kingdom,  
-will no longer see my face.
+“Now I know that none of you among whom I have preached the kingdom will see my face again.
 
 ## Acts 20:26
 
-Therefore, I testify to you this day that I am innocent of the blood of all people.
+Therefore, I declare to you today that I am innocent of the blood of any of you.
 
 ## Acts 20:27
 
-For I did not shrink from declaring to you the whole purpose of God.
+For I did not hesitate to proclaim to you the whole counsel of God.
 
 ## Acts 20:28
 
-Be on guard for yourselves and for all the flock,  
-among which the Holy Spirit has made you overseers,  
-to shepherd the church of God which He purchased with His own blood.
+Be on guard for yourselves and for all the flock of which the Holy Spirit has made you overseers. Shepherd the church of God, which He purchased with His own blood.
 
 ## Acts 20:29
 
-I know that after my departure savage wolves will come in among you, not sparing the flock;
+I know that after I leave, savage wolves will come in among you and will not spare the flock.
 
 ## Acts 20:30
 
-and from among your own selves men will arise, speaking perverse things  
-to draw away the disciples after them.
+Even from among your own number, men will arise and distort the truth to draw away disciples after them.
 
 ## Acts 20:31
 
-Therefore, be on the alert, remembering that night and day for a period of three years  
-I did not cease to admonish each one with tears.
+Therefore, be on your guard! Remember that for three years I never ceased to warn each of you night and day with tears.
 
 ---
 
 ## Acts 20:32
 
-And now I entrust you to God and to the word of His grace,  
-which is able to build you up and to give you the inheritance among all those who are sanctified.
+“Now I commit you to God and to the word of His grace, which can build you up and give you an inheritance among all those who are sanctified.
 
 ## Acts 20:33
 
-I have coveted no one’s silver or gold or clothes.
+I have not coveted anyone’s silver, gold, or clothing.
 
 ## Acts 20:34
 
-You yourselves know that these hands served my own needs and the men who were with me.
+You yourselves know that these hands have supplied my own needs and the needs of my companions.
 
 ## Acts 20:35
 
-In everything I showed you that by working hard in this way you must help the weak,  
-and remember the words of the Lord Jesus, that He Himself said,  
-‘It is more blessed to give than to receive.’”
+In everything I did, I showed you that by this kind of hard work we must help the weak, remembering the words of the Lord Jesus, who said, ‘It is more blessed to give than to receive.’”
 
 ---
 
 ## Acts 20:36
 
-When he had said these things, he knelt down and prayed with them all.
+When Paul had finished speaking, he knelt down and prayed with them all.
 
 ## Acts 20:37
 
-And they all began to weep aloud and embraced Paul, and repeatedly kissed him,
+They all wept as they embraced Paul and repeatedly kissed him.
 
 ## Acts 20:38
 
-grieving especially over the word which he had spoken, that they would not see his face again.  
-And they were accompanying him to the ship.
+What grieved them most was his statement that they would never see his face again. Then they accompanied him to the ship.

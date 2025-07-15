@@ -1,158 +1,79 @@
 # Isaiah Chapter 49
 
-## Isaiah 49:1  
-Listen to Me, you islands,  
-And pay attention, you peoples from afar.  
-The Lord called Me from the womb;  
-From the body of My mother He named Me.
+## Isaiah 49:1
+Listen to me, you islands; pay attention, you distant peoples: The Lord called me from the womb; from my mother's body he named me.
 
-## Isaiah 49:2  
-He has made My mouth like a sharp sword,  
-In the shadow of His hand He has concealed Me;  
-And He has also made Me a sharpened arrow,  
-He has hidden Me in His quiver.
+## Isaiah 49:2
+He made my mouth like a sharp sword, in the shadow of his hand he concealed me; he made me into a polished arrow and hid me in his quiver.
 
-## Isaiah 49:3  
-He said to Me, “You are My Servant, Israel,  
-In whom I will show My glory.”
+## Isaiah 49:3
+He said to me, “You are my servant, Israel, in whom I will show my glory.”
 
-## Isaiah 49:4  
-But I said, “I have labored in vain,  
-I have spent My strength for nothing and futility;  
-Nevertheless, the justice due to Me is with the Lord,  
-And My reward is with My God.”
+## Isaiah 49:4
+But I said, “I have laboured in vain; I have spent my strength for nothing and futility. Yet my vindication is with the Lord, and my reward is with my God.”
 
-## Isaiah 49:5  
-And now says the Lord, who formed Me from the womb to be His Servant,  
-To bring Jacob back to Him, so that Israel might be gathered to Him  
-(For I am honored in the sight of the Lord,  
-And My God is My strength),
+## Isaiah 49:5
+And now the Lord says— he who formed me in the womb to be his servant to bring Jacob back to him and gather Israel to himself, for I am honoured in the sight of the Lord and my God is my strength—
 
-## Isaiah 49:6  
-He says, “It is too small a thing that You should be My Servant  
-To raise up the tribes of Jacob and to restore the protected ones of Israel;  
-I will also make You a light of the nations  
-So that My salvation may reach to the end of the earth.”
+## Isaiah 49:6
+he says: “It is too small a thing for you to be my servant to restore the tribes of Jacob and bring back the preserved ones of Israel. I will also make you a light for the nations, that my salvation may reach to the ends of the earth.”
 
-## Isaiah 49:7  
-This is what the Lord, the Redeemer of Israel and its Holy One,  
-Says to the despised One,  
-To the One hated by the nation,  
-To the Servant of rulers:  
-“Kings will see and arise,  
-Princes will also bow down,  
-Because of the Lord who is faithful, the Holy One of Israel who has chosen You.”
+## Isaiah 49:7
+This is what the Lord says— the Redeemer and Holy One of Israel— to the one who is despised and abhorred by the nation, to the servant of rulers: “Kings will see and arise, princes will bow down, because of the Lord, who is faithful, the Holy One of Israel, who has chosen you.”
 
----
+## Isaiah 49:8
+This is what the Lord says: “In the time of my favour I will answer you, and in the day of salvation I will help you; I will keep you and make you a covenant for the people, to restore the land and to reassign its desolate inheritances,
 
-## Isaiah 49:8  
-This is what the Lord says:  
-“At a favorable time I answered You,  
-And on a day of salvation I helped You;  
-And I will watch over You and make You a covenant of the people,  
-To restore the land,  
-To give as inheritances the desolate hereditary lands;
+## Isaiah 49:9
+to say to the captives, ‘Come out,’ and to those in darkness, ‘Show yourselves.’ They will feed beside the roads and find pasture on all barren heights.
 
-## Isaiah 49:9  
-Saying to those who are bound, ‘Go free,’  
-To those who are in darkness, ‘Show yourselves.’  
-They will feed along the roads,  
-And their pastures will be on all bare heights.
+## Isaiah 49:10
+They will neither hunger nor thirst, nor will the scorching heat or sun beat down on them. He who has compassion on them will guide them and lead them beside springs of water.
 
-## Isaiah 49:10  
-They will not hunger or thirst,  
-Nor will the scorching heat or sun strike them down;  
-For He who has compassion on them will lead them,  
-And will guide them to springs of water.
+## Isaiah 49:11
+I will turn all my mountains into roads, and my highways will be raised up.
 
-## Isaiah 49:11  
-I will make all My mountains a road,  
-And My highways will be raised up.
+## Isaiah 49:12
+See, they will come from afar— some from the north, some from the west, and some from the land of Aswan.”
 
-## Isaiah 49:12  
-Behold, these will come from afar;  
-And behold, these will come from the north and from the west,  
-And these from the land of Aswan.”
+## Isaiah 49:13
+Shout for joy, you heavens; rejoice, you earth; break forth into singing, you mountains! For the Lord comforts his people and will have compassion on his afflicted ones.
 
-## Isaiah 49:13  
-Shout for joy, you heavens! And rejoice, you earth!  
-Break forth into joyful shouting, mountains!  
-For the Lord has comforted His people  
-And will have compassion on His afflicted.
+## Isaiah 49:14
+But Zion said, “The Lord has forsaken me, the Lord has forgotten me.”
 
----
+## Isaiah 49:15
+“Can a mother forget the baby at her breast and have no compassion on the child she has borne? Though she may forget, I will not forget you!
 
-## Isaiah 49:14  
-But Zion said, “The Lord has abandoned me,  
-And the Lord has forgotten me.”
+## Isaiah 49:16
+See, I have inscribed you on the palms of my hands; your walls are ever before me.
 
-## Isaiah 49:15  
-“Can a woman forget her nursing child  
-And have no compassion on the son of her womb?  
-Even if these forget, I will not forget you.
+## Isaiah 49:17
+Your children hasten back, and those who laid you waste will depart from you.
 
-## Isaiah 49:16  
-Behold, I have inscribed you on the palms of My hands;  
-Your walls are continually before Me.
+## Isaiah 49:18
+Lift up your eyes and look around; all your children gather and come to you. As surely as I live,” declares the Lord, “you will wear them all as ornaments; you will put them on, like a bride.
 
-## Isaiah 49:17  
-Your builders hurry;  
-Your destroyers and devastators  
-Will leave you.
+## Isaiah 49:19
+Though you were ruined and made desolate and your land laid waste, now you will be too cramped for your people, and those who swallowed you will be far away.
 
-## Isaiah 49:18  
-Raise your eyes and look around;  
-All of them gather together, they come to you.  
-As I live,” declares the Lord,  
-“You will assuredly put them all on as jewelry and bind them on as a bride.
+## Isaiah 49:20
+The children born during your bereavement will yet say in your hearing, ‘This place is too cramped for us; give us more space to live in.’
 
-## Isaiah 49:19  
-For your ruins and deserted places and your destroyed land—  
-Now you will certainly be too cramped for the inhabitants,  
-And those who swallowed you will be far away.
+## Isaiah 49:21
+Then you will say in your heart, ‘Who has borne me these? I was bereaved and barren; I was exiled and rejected. Who brought these up? I was left all alone, but these—where have they come from?’”
 
-## Isaiah 49:20  
-The children you lost will yet say in your ears,  
-‘The place is too cramped for me;  
-Make room for me that I may live here.’
+## Isaiah 49:22
+This is what the Sovereign Lord says: “See, I will beckon to the nations, I will lift up my banner to the peoples; they will bring your sons in their arms and carry your daughters on their shoulders.
 
-## Isaiah 49:21  
-Then you will say in your heart,  
-‘Who has fathered these for me,  
-Since I have been bereaved of my children and cannot have children,  
-And am an exile, and a wanderer?  
-And who has raised these?  
-Behold, I was left alone;  
-Where are these from?’”
+## Isaiah 49:23
+Kings will be your foster fathers, and their queens your nursing mothers. They will bow down before you with their faces to the ground; they will lick the dust at your feet. Then you will know that I am the Lord; those who hope in me will not be put to shame.”
 
-## Isaiah 49:22  
-This is what the Lord God says:  
-“Behold, I will lift up My hand to the nations  
-And set up My flag to the peoples;  
-And they will bring your sons in their arms,  
-And your daughters will be carried on their shoulders.
+## Isaiah 49:24
+Can plunder be taken from warriors, or captives be rescued from the fierce?
 
-## Isaiah 49:23  
-Kings will be your guardians,  
-And their princesses your nurses.  
-They will bow down to you with their faces to the ground  
-And lick the dust from your feet;  
-And you will know that I am the Lord;  
-Those who hopefully wait for Me will not be put to shame.
+## Isaiah 49:25
+But this is what the Lord says: “Yes, captives will be taken from warriors, and plunder retrieved from the fierce; I will contend with those who contend with you, and your children I will save.
 
-## Isaiah 49:24  
-Can the prey be taken from a mighty man,  
-Or the captives of a tyrant be rescued?”
-
-## Isaiah 49:25  
-Indeed, this is what the Lord says:  
-“Even the captives of a mighty man may be taken away,  
-And the prey of a tyrant may be rescued;  
-For I will contend with the one who contends with you,  
-And I will save your sons.
-
-## Isaiah 49:26  
-I will make your oppressors eat their own flesh,  
-And they will become drunk with their own blood as with sweet wine;  
-And all flesh will know that I, the Lord, am your Savior  
-And your Redeemer, the Mighty One of Jacob.”
+## Isaiah 49:26
+I will make your oppressors eat their own flesh; they will be drunk on their own blood, as with sweet wine. Then all mankind will know that I, the Lord, am your Saviour, your Redeemer, the Mighty One of Jacob.”

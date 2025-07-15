@@ -2,172 +2,155 @@
 
 ## Ezekiel 30:1
 
-The word of the Lord came again to me, saying,
+The word of the Lord came to me, saying:
 
 ## Ezekiel 30:2
 
-“Son of man, prophesy and say, ‘This is what the Lord God says:
+“Son of man, prophesy and declare: ‘This is what the Sovereign Lord says:
 
-> Wail,
-> “Woe to the day!”
+> “Wail,
+> ‘Alas for that day!’
 
 ## Ezekiel 30:3
 
-> For the day is near,  
-> Indeed, the day of the Lord is near;  
-> It will be a day of clouds,  
-> A time of doom for the nations.
+> For the day is near,
+> indeed, the day of the Lord is near;
+> a day of clouds,
+> a time of doom for the nations.
 
 ## Ezekiel 30:4
 
-> A sword will come upon Egypt,  
-> And there will be trembling in Cush;  
-> When the slain fall in Egypt,  
-> They take away her wealth,  
-> And her foundations are torn down.
+> A sword will come upon Egypt,
+> and there will be anguish in Cush.
+> When the slain fall in Egypt,
+> her wealth will be carried away,
+> and her foundations will be torn down.
 
 ## Ezekiel 30:5
 
-Cush, Put, Lud, all Arabia, Libya, and the people of the land that is in league will fall with them by the sword.”
+Cush, Put, Lud, all Arabia, Libya, and the people of the covenant land will fall by the sword along with Egypt.
 
 ## Ezekiel 30:6
 
-This is what the Lord says:
+‘This is what the Lord says:
 
-> “Indeed, those who support Egypt will fall,  
-> And the pride of her power will come down;  
-> From Migdol to Syene they will fall within her by the sword,”  
-> Declares the Lord God.
+> “The allies of Egypt will fall
+> and the pride of her power will be brought down.
+> From Migdol to Syene they will fall by the sword within her,”
+> declares the Sovereign Lord.
 
 ## Ezekiel 30:7
 
-> “They will be desolate  
-> In the midst of the desolated lands;  
-> And her cities will be  
-> In the midst of the devastated cities.
+> “They will be desolate
+> among desolate lands,
+> and their cities will lie
+> among devastated cities.
 
 ## Ezekiel 30:8
 
-> And they will know that I am the Lord,  
-> When I set a fire in Egypt  
-> And all her helpers are broken.
+> Then they will know that I am the Lord,
+> when I set fire to Egypt
+> and all her helpers are broken.
 
 ## Ezekiel 30:9
 
-On that day messengers will go out from Me in ships to frighten carefree Cush,  
-And trembling will come on them as on the day of Egypt;  
-For behold, it is coming!”
+On that day messengers will go out from me in ships to frighten Cush out of her complacency; trembling will seize them on the day of Egypt’s doom, for it is surely coming.
 
 ## Ezekiel 30:10
 
-This is what the Lord God says:
+‘This is what the Sovereign Lord says:
 
-> “I will also make the horde of Egypt cease  
-> By the hand of Nebuchadnezzar king of Babylon.
+> “I will put an end to the hordes of Egypt
+> by the hand of Nebuchadnezzar king of Babylon.
 
 ## Ezekiel 30:11
 
-> He and his people with him,  
-> The most ruthless of the nations,  
-> Will be brought in to destroy the land;  
-> And they will draw their swords against Egypt  
-> And fill the land with the slain.
+> He and his people with him,
+> the most ruthless of nations,
+> will be brought in to destroy the land.
+> They will draw their swords against Egypt
+> and fill the land with the slain.
 
 ## Ezekiel 30:12
 
-> Moreover, I will make the canals dry  
-> And sell the land into the hands of evil men.  
-> And I will make the land desolate,  
-> And everything that is in it,  
-> By the hand of strangers;
+> I will dry up the waters of the Nile
+> and sell the land into the hands of evil men;
+> by the hand of foreigners I will lay waste the land
+> and all that is in it.
 
-I, the Lord, have spoken.”
+I the Lord have spoken.
 
 ## Ezekiel 30:13
 
-This is what the Lord God says:
+‘This is what the Sovereign Lord says:
 
-> “I will also destroy the idols  
-> And make the images cease from Memphis.  
-> And there will no longer be a prince in the land of Egypt;  
-> And I will put fear in the land of Egypt.
+> “I will destroy the idols
+> and put an end to the images in Memphis.
+> There will no longer be a prince in Egypt,
+> and I will spread fear throughout the land.
 
 ## Ezekiel 30:14
 
-> So I will make Pathros desolate,  
-> Set a fire in Zoan,  
-> And execute judgments on Thebes.
+> I will lay waste Pathros,
+> set fire to Zoan,
+> and inflict punishment on Thebes.
 
 ## Ezekiel 30:15
 
-> I will pour out My wrath on Sin,  
-> The stronghold of Egypt;  
-> I will also eliminate the horde of Thebes.
+> I will pour out my wrath on Pelusium,
+> the stronghold of Egypt,
+> and eliminate the hordes of Thebes.
 
 ## Ezekiel 30:16
 
-> I will set a fire in Egypt;  
-> Sin will writhe in anguish,  
-> Thebes will be breached,  
-> And Memphis will have distresses daily.
+> I will set fire to Egypt;
+> Pelusium will writhe in agony,
+> Thebes will be breached,
+> and Memphis will be in constant distress.
 
 ## Ezekiel 30:17
 
-> The young men of On and of Pi-beseth  
-> Will fall by the sword,  
-> And the women will go into captivity.
+> The young men of Heliopolis and Bubastis
+> will fall by the sword,
+> and the women will go into captivity.
 
 ## Ezekiel 30:18
 
-> In Tehaphnehes the day will be dark  
-> When I break the yoke of Egypt there.  
-> Then the pride of her power will come to an end;  
-> A cloud will cover her,  
-> And her daughters will go into captivity.
+> Dark will be the day at Tahpanhes
+> when I break the yoke of Egypt;
+> there her proud strength will come to an end.
+> She will be covered with clouds,
+> and her daughters will go into captivity.
 
 ## Ezekiel 30:19
 
-> So I will execute judgments on Egypt,  
-> And they will know that I am the Lord.”
+> So I will execute judgments on Egypt,
+> and they will know that I am the Lord.’”
 
 ## Ezekiel 30:20
 
-Now in the eleventh year, in the first month, on the seventh of the month, the word of the Lord came to me, saying,
+In the eleventh year, in the first month on the seventh day, the word of the Lord came to me, saying:
 
 ## Ezekiel 30:21
 
-“Son of man, I have broken the arm of Pharaoh king of Egypt; and behold, it has not been bound up to heal by putting a bandage on it, to wrap it with splints so that it may be strong to wield the sword.”
+“Son of man, I have broken the arm of Pharaoh king of Egypt. It has not been bound up for healing or wrapped with a bandage, so that it may be strong enough to wield the sword.
 
 ## Ezekiel 30:22
 
-Therefore this is what the Lord God says:  
-“Behold, I am against Pharaoh king of Egypt,  
-And will break his arms, both the strong and the broken;  
-And I will make the sword fall from his hand.
+Therefore this is what the Sovereign Lord says: ‘Behold, I am against Pharaoh king of Egypt, and I will break both his arms, the strong one as well as the broken one, and make the sword fall from his hand.
 
 ## Ezekiel 30:23
 
-I will scatter the Egyptians among the nations  
-And disperse them among the lands.
+I will scatter the Egyptians among the nations and disperse them throughout the lands.
 
 ## Ezekiel 30:24
 
-For I will strengthen the arms of the king of Babylon  
-And put My sword in his hand;  
-And I will break the arms of Pharaoh,  
-So that he will groan before him  
-With the groanings of a wounded man.
+I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him like a mortally wounded man.
 
 ## Ezekiel 30:25
 
-So I will strengthen the arms of the king of Babylon,  
-But the arms of Pharaoh will fall.  
-Then they will know that I am the Lord,  
-When I put My sword into the hand of the king of Babylon  
-And he stretches it out against the land of Egypt.
+I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will fall limp. Then they will know that I am the Lord, when I put my sword into the hand of the king of Babylon and he brandishes it against the land of Egypt.
 
 ## Ezekiel 30:26
 
-When I scatter the Egyptians among the nations  
-And disperse them among the lands,  
-Then they will know that I am the Lord.”
+When I scatter the Egyptians among the nations and disperse them throughout the lands, then they will know that I am the Lord.’”

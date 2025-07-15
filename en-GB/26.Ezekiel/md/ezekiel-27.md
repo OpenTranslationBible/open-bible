@@ -2,212 +2,201 @@
 
 ## Ezekiel 27:1
 
-Moreover, the word of the Lord came to me, saying,
+The word of the Lord came to me, saying:
 
 ## Ezekiel 27:2
 
-“And you, son of man, take up a song of mourning over Tyre;
+“Son of man, raise a lamentation over Tyre.
 
 ## Ezekiel 27:3
 
-And say to Tyre, who lives at the entrance to the sea, merchant of the peoples to many coastlands, ‘This is what the Lord God says:
+Say to Tyre, who sits at the gateway to the sea, merchant of peoples to many coasts, ‘This is what the Sovereign Lord says:
 
-> “You, Tyre, have said,
-> ‘I am perfect in beauty.’
+> “‘You have declared, Tyre,
+> “I am perfect in beauty.”
 
 ## Ezekiel 27:4
 
-> Your borders are in the heart of the seas;  
-> Your builders have perfected your beauty.
+> Your domain is in the heart of the seas;
+> your builders have perfected your beauty.
 
 ## Ezekiel 27:5
 
-> They have made all your planks of juniper from Senir;  
-> They have taken a cedar from Lebanon  
+> They made all your timbers of juniper from Senir;
+> a cedar from Lebanon was taken
 > to make a mast for you.
 
 ## Ezekiel 27:6
 
-> Of oaks from Bashan  
-> they have made your oars;  
-> With ivory they have inlaid your deck of boxwood  
-> from the coastlands of Cyprus.
+> Of oaks from Bashan
+> they made your oars;
+> your deck was inlaid with ivory from boxwood
+> from the coasts of Cyprus.
 
 ## Ezekiel 27:7
 
-> Your sail was made of fine embroidered linen from Egypt  
-> So that it became your flag;  
-> Your awning was violet and purple  
-> From the coastlands of Elishah.
+> Your sail was of finely embroidered linen from Egypt,
+> serving as your ensign;
+> your awnings were of blue and purple
+> from the coasts of Elishah.
 
 ## Ezekiel 27:8
 
-> The inhabitants of Sidon and Arvad were your rowers;  
-> Your wise men, Tyre, were with you;  
-> They were your navigators.
+> The inhabitants of Sidon and Arvad were your oarsmen;
+> your wise men, Tyre, were aboard as your sailors.
 
 ## Ezekiel 27:9
 
-> The elders of Gebal and her wise men were with you
-> repairing your seams;  
+> The elders of Gebal and their skilled men were with you,
+> caulking your seams.
 > All the ships of the sea and their sailors
-> were with you to deal in your merchandise.
+> were with you to trade for your merchandise.
 
 ## Ezekiel 27:10
 
-> Persia, Lud, and Put
-> were in your army, your men of war.  
-> They hung shield and helmet in you;
-> they gave you splendour.
+> “‘Men of Persia, Lud, and Put
+> were in your army, your warriors.
+> They hung their shields and helmets on your walls,
+> bringing you splendour.
 
 ## Ezekiel 27:11
 
-> The sons of Arvad with
-> your army were on your walls all around, and
-> the Gammadim were in your towers.  
+> The men of Arvad and
+> your army were upon your walls all around,
+> and the Gammadim were in your towers.
 > They hung their shields on your walls all around;
 > they perfected your beauty.
 
 ## Ezekiel 27:12
 
-Tarshish was your customer because of the abundance of all kinds of wealth;  
-With silver, iron, tin, and lead they paid for your merchandise.
+“‘Tarshish traded with you because of your vast wealth of goods; they exchanged silver, iron, tin, and lead for your merchandise.
 
 ## Ezekiel 27:13
 
-Javan, Tubal, and Meshech, they were your traders;  
-With human lives and bronze utensils they paid for your merchandise.
+“‘Javan, Tubal, and Meshech were your merchants; they traded human lives and vessels of bronze for your wares.
 
 ## Ezekiel 27:14
 
-Those from Beth-togarmah gave horses, war horses, and mules for your merchandise.
+“‘Men of Beth Togarmah exchanged horses, war horses, and mules for your merchandise.
 
 ## Ezekiel 27:15
 
-The sons of Dedan were your traders.  
-Many coastlands were your market;  
-Ivory tusks and ebony they brought as your payment.
+“‘The men of Dedan were your traders; many coastlands were your market, and they paid you with ivory tusks and ebony.
 
 ## Ezekiel 27:16
 
-Aram was your customer because of the abundance of your goods;  
-They paid for your merchandise with emeralds, purple, embroidered work, fine linen, coral, and rubies.
+“‘Aram was your customer because of the abundance of your goods; they exchanged emeralds, purple fabric, embroidered cloth, fine linen, coral, and rubies for your wares.
 
 ## Ezekiel 27:17
 
-Judah and the land of Israel, they were your traders;  
-They traded wheat of Minnith, cakes, honey, oil, and balsam for your merchandise.
+“‘Judah and Israel traded with you; they exchanged wheat from Minnith, cakes, honey, oil, and balm for your merchandise.
 
 ## Ezekiel 27:18
 
-Damascus was your customer because of the abundance of your goods, because of the abundance of all kinds of wealth,  
-With the wine of Helbon and white wool.
+“‘Damascus traded with you because of your many products and great wealth of goods, offering wine from Helbon and wool from Zahar.
 
 ## Ezekiel 27:19
 
-Vedan and Javan paid for your merchandise from Uzal;  
-Wrought iron, cassia, and sweet cane were among your merchandise.
+Vedan and Javan from Uzal exchanged wrought iron, cassia, and calamus for your wares.
 
 ## Ezekiel 27:20
 
-Dedan traded with you in saddlecloths for riding.
+“‘Dedan traded in saddlecloths with you.
 
 ## Ezekiel 27:21
 
-Arabia and all the princes of Kedar, they were your customers for lambs, rams, and goats; for these they were your customers.
+“‘Arabia and all the princes of Kedar were your customers, trading in lambs, rams, and goats.
 
 ## Ezekiel 27:22
 
-The traders of Sheba and Raamah, they traded with you;  
-They paid for your merchandise with the best of all kinds of spices, and with all kinds of precious stones and gold.
+“‘The merchants of Sheba and Raamah traded with you; for your merchandise they exchanged the finest of all spices, precious stones, and gold.
 
 ## Ezekiel 27:23
 
-Haran, Canneh, Eden, the traders of Sheba, Asshur, and Chilmad traded with you.
+“‘Haran, Canneh, and Eden, and the merchants of Sheba, Asshur, and Chilmad traded with you.
 
 ## Ezekiel 27:24
 
-They traded with you in choice garments, in clothes of blue and embroidered work, and in carpets of many colours, and tightly wound cords, which were among your merchandise.
+In your marketplace they traded with you in choice garments, blue fabric, embroidered work, and multicoloured rugs with tightly twisted cords.
 
 ## Ezekiel 27:25
 
-> The ships of Tarshish  
-> were the carriers for your merchandise.  
-> And you were filled and very glorious  
-> In the heart of the seas.
+> “‘The ships of Tarshish were
+> your carriers for your merchandise.
+> You were filled with heavy cargo and were glorious
+> in the heart of the seas.
 
 ## Ezekiel 27:26
 
-> Your rowers have brought you into great waters;  
-> The east wind has broken you  
-> In the heart of the seas.
+> Your rowers have brought you into the great waters;
+> the east wind has broken you
+> to pieces in the heart of the seas.
 
 ## Ezekiel 27:27
 
-> Your wealth, your wares, your merchandise,  
-> Your seamen and your sailors,  
-> Your repairers of seams, your dealers in merchandise,  
-> And all your men of war who are in you,  
-> With all your crew that is in your midst,  
-> Will fall into the heart of the seas  
-> On the day of your overthrow.
+> Your wealth, merchandise, and wares,
+> your mariners, sailors, and shipwrights,
+> your merchants and all your warriors,
+> and all who are in you,
+> will fall into the heart of the seas
+> on the day of your shipwreck.
 
 ## Ezekiel 27:28
 
-> At the sound of the cry of your sailors  
-> The pasture lands will shake.
+> At the sound of the cry of your sailors,
+> the shorelands will shake.
 
 ## Ezekiel 27:29
 
-> And all who handle the oar,  
-> The sailors and all the navigators of the sea  
-> Will come down from their ships;  
-> They will stand on the land.
+> All who handle the oars
+> will abandon their ships;
+> the mariners and all the sailors
+> will stand on the shore.
 
 ## Ezekiel 27:30
 
-> And they will make their voice heard over you  
-> And will cry bitterly.  
-> They will throw dust on their heads,  
-> They will wallow in ashes.
+> They will raise their voices
+> and cry out bitterly over you;
+> they will throw dust on their heads
+> and roll in ashes.
 
 ## Ezekiel 27:31
 
-> Also they will make themselves bald for you  
-> And put on sackcloth;  
-> And they will weep for you in bitterness of soul  
-> With bitter mourning.
+> They will shave their heads because of you
+> and put on sackcloth.
+> They will weep for you in bitterness of soul
+> with bitter mourning.
 
 ## Ezekiel 27:32
 
-> Moreover, in their wailing they will take up a song of mourning for you  
-> And lament over you:  
-> ‘Who is like Tyre,  
-> Like her who is silent in the midst of the sea?
+> As they wail and mourn over you,
+> they will take up a lament for you and sing:
+> “Who is like Tyre,
+> now silent in the midst of the sea?”
 
 ## Ezekiel 27:33
 
-> When your merchandise went out from the seas,  
-> You satisfied many peoples;  
-> With the abundance of your wealth and your merchandise  
-> You enriched the kings of the earth.
+> When your merchandise went out on the seas,
+> you satisfied many nations;
+> with your great wealth and your wares
+> you enriched the kings of the earth.
 
 ## Ezekiel 27:34
 
-> Now that you are broken by the seas  
-> In the depths of the waters,  
-> Your merchandise and all your company  
-> Have fallen in the midst of you.
+> Now you are shattered by the seas
+> in the depths of the waters;
+> your wares and all your company
+> have gone down with you.
 
 ## Ezekiel 27:35
 
-> All the inhabitants of the coastlands  
-> Are appalled at you,  
-> And their kings are horribly afraid;  
-> They are troubled in countenance.
+> All who live in the coastlands
+> are appalled at you;
+> their kings shudder with horror,
+> their faces distorted with fear.
 
 ## Ezekiel 27:36
 
-> The merchants among the peoples hiss at you;  
-> You have become terrified,  
-> And you will cease to be forever.’”
+> The merchants among the peoples hiss at you;
+> you have come to a dreadful end
+> and will be no more.’”

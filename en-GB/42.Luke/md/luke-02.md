@@ -2,7 +2,7 @@
 
 ## Luke 2:1
 
-Now in those days a decree went out from Caesar Augustus, that a census be taken of all the inhabited earth.
+In those days, a decree went out from Caesar Augustus that a census should be conducted of the whole inhabited earth.
 
 ## Luke 2:2
 
@@ -10,16 +10,15 @@ This was the first census taken while Quirinius was governor of Syria.
 
 ## Luke 2:3
 
-And all the people were on their way to register for the census, each to his own city.
+And everyone went to register, each to their own city.
 
 ## Luke 2:4
 
-Now Joseph also went up from Galilee, from the city of Nazareth, to Judea,  
-to the city of David which is called Bethlehem, because he was of the house and family of David,
+Joseph also went up from Galilee, from the city of Nazareth, to Judea, to the city of David, called Bethlehem, because he was of the house and lineage of David,
 
 ## Luke 2:5
 
-in order to register, together with Mary, who was betrothed to him, and was pregnant.
+to register with Mary, who was betrothed to him and was expecting a child.
 
 ## Luke 2:6
 
@@ -27,231 +26,205 @@ While they were there, the time came for her to give birth.
 
 ## Luke 2:7
 
-And she gave birth to her firstborn son;  
-and she wrapped Him in cloths, and laid Him in a manger,  
-because there was no room for them in the inn.
+And she gave birth to her firstborn son, wrapped him in cloths, and laid him in a manger, because there was no room for them in the inn.
 
 ---
 
 ## Luke 2:8
 
-In the same region there were some shepherds staying out in the fields and keeping watch over their flock at night.
+In the same region, there were shepherds living out in the fields, keeping watch over their flocks by night.
 
 ## Luke 2:9
 
-And an angel of the Lord suddenly stood near them,  
-and the glory of the Lord shone around them; and they were terribly frightened.
+An angel of the Lord appeared to them, and the glory of the Lord shone around them, and they were greatly afraid.
 
 ## Luke 2:10
 
-And so the angel said to them,  
-“Do not be afraid, for behold, I bring you good news of great joy which will be for all the people;
+But the angel said to them, “Do not be afraid, for behold, I bring you good news of great joy which will be for all people.
 
 ## Luke 2:11
 
-for today in the city of David a Saviour has been born for you, who is Christ the Lord.
+For today, in the city of David, a Saviour has been born to you; he is Christ the Lord.
 
 ## Luke 2:12
 
-And this will be a sign for you:  
-you will find a baby wrapped in cloths and lying in a manger.”
+This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.”
 
 ## Luke 2:13
 
-And suddenly there appeared with the angel a multitude of the heavenly army of angels,  
-praising God and saying,
+And suddenly there appeared with the angel a multitude of the heavenly host praising God and saying,
 
 ## Luke 2:14
 
-> “Glory to God in the highest,  
-> And on earth peace among people with whom He is pleased.”
+> “Glory to God in the highest heaven,
+> and on earth peace among those with whom he is pleased.”
 
 ---
 
 ## Luke 2:15
 
-When the angels had departed from them into heaven, the shepherds began saying to one another,  
-“Let’s go straight to Bethlehem, then, and see this thing that has happened, which the Lord has made known to us.”
+When the angels had gone away from them into heaven, the shepherds said to one another, “Let us go to Bethlehem and see this thing that has happened, which the Lord has made known to us.”
 
 ## Luke 2:16
 
-And they came in a hurry and found their way to Mary and Joseph, and the baby as He lay in the manger.
+So they hurried and found Mary and Joseph, and the baby lying in the manger.
 
 ## Luke 2:17
 
-When they had seen Him, they made known the statement which had been told them about this Child.
+When they had seen him, they spread the word about what had been told them concerning this child.
 
 ## Luke 2:18
 
-And all who heard it were amazed about the things which were told them by the shepherds.
+And all who heard it were amazed at what the shepherds told them.
 
 ## Luke 2:19
 
-But Mary treasured all these things, pondering them in her heart.
+But Mary treasured up all these things, pondering them in her heart.
 
 ## Luke 2:20
 
-And the shepherds went back, glorifying and praising God for all that they had heard and seen, just as had been told them.
+The shepherds returned, glorifying and praising God for all they had heard and seen, just as they had been told.
 
 ---
 
 ## Luke 2:21
 
-And when eight days were completed so that it was time to circumcise Him,  
-He was also named Jesus, the name given by the angel before He was conceived in the womb.
+When eight days were completed for the circumcision of the child, he was named Jesus, the name given by the angel before he was conceived.
 
 ---
 
 ## Luke 2:22
 
-And when the days for their purification according to the Law of Moses were completed,  
-they brought Him up to Jerusalem to present Him to the Lord
+When the days for their purification according to the Law of Moses were completed, they brought him to Jerusalem to present him to the Lord
 
 ## Luke 2:23
 
-(as it is written in the Law of the Lord: “Every firstborn male that opens the womb shall be called holy to the Lord”),
+(as it is written in the Law of the Lord, “Every firstborn male shall be consecrated to the Lord”),
 
 ## Luke 2:24
 
-and to offer a sacrifice according to what has been stated in the Law of the Lord:  
-“a pair of turtledoves or two young doves.”
+and to offer a sacrifice according to what is said in the Law of the Lord: “a pair of turtle-doves or two young pigeons.”
 
 ---
 
 ## Luke 2:25
 
-And there was a man in Jerusalem whose name was Simeon;  
-and this man was righteous and devout, looking forward to the consolation of Israel;  
-and the Holy Spirit was upon him.
+Now there was a man in Jerusalem named Simeon, who was righteous and devout, waiting for the consolation of Israel, and the Holy Spirit was upon him.
 
 ## Luke 2:26
 
-And it had been revealed to him by the Holy Spirit that he would not see death  
-before he had seen the Lord’s Christ.
+It had been revealed to him by the Holy Spirit that he would not die before he had seen the Lord’s Christ.
 
 ## Luke 2:27
 
-And he came by the Spirit into the temple;  
-and when the parents brought in the child Jesus, to carry out for Him the custom of the Law,
+Moved by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required,
 
 ## Luke 2:28
 
-then he took Him in his arms, and blessed God, and said,
+Simeon took him in his arms and praised God, saying,
 
 ## Luke 2:29
 
-> “Now, Lord, You are letting Your bond-servant depart in peace,  
-> According to Your word;
+> “Lord, now you are letting your servant depart in peace,
+> according to your word;
 
 ## Luke 2:30
 
-> For my eyes have seen Your salvation,
+> for my eyes have seen your salvation,
 
 ## Luke 2:31
 
-> Which You have prepared in the presence of all the peoples:
+> which you have prepared in the sight of all peoples:
 
 ## Luke 2:32
 
-> A light for revelation for the Gentiles,  
-> And the glory of Your people Israel.”
+> a light for revelation to the Gentiles,
+> and the glory of your people Israel.”
 
 ---
 
 ## Luke 2:33
 
-And His father and mother were amazed at the things which were being said about Him.
+The child’s father and mother marvelled at what was said about him.
 
 ## Luke 2:34
 
-And Simeon blessed them and _said to His mother Mary_,  
-“Behold, this Child is appointed for the fall and rise of many in Israel, and as a sign to be opposed—
+Then Simeon blessed them and said to Mary, his mother, “This child is destined to cause the fall and rise of many in Israel, and to be a sign that will be opposed,
 
 ## Luke 2:35
 
-and a sword will pierce your own soul—to the end that thoughts from many hearts may be revealed.”
+so that the thoughts of many hearts will be revealed. And a sword will pierce your own soul too.”
 
 ---
 
 ## Luke 2:36
 
-And there was a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher.  
-She was advanced in years and had lived with her husband for seven years after her marriage,
+There was also a prophetess, Anna, the daughter of Phanuel, of the tribe of Asher. She was very old; she had lived with her husband for seven years after her marriage,
 
 ## Luke 2:37
 
-and then as a widow to the age of eighty-four.  
-She did not leave the temple grounds, serving night and day with fasts and prayers.
+and then had been a widow until she was eighty-four. She never left the temple but worshipped night and day, fasting and praying.
 
 ## Luke 2:38
 
-And at that very moment she came up and began giving thanks to God,  
-and continued to speak about Him to all those who were looking forward to the redemption of Jerusalem.
+Coming up to them at that very moment, she gave thanks to God and spoke about the child to all who were looking forward to the redemption of Jerusalem.
 
 ---
 
 ## Luke 2:39
 
-When they had completed everything according to the Law of the Lord,  
-they returned to Galilee, to their own city of Nazareth.
+When they had completed everything required by the Law of the Lord, they returned to Galilee, to their own city of Nazareth.
 
 ## Luke 2:40
 
-Now the Child continued to grow and to become strong, increasing in wisdom;  
-and the favour of God was upon Him.
+And the child grew and became strong, filled with wisdom, and the grace of God was upon him.
 
 ---
 
 ## Luke 2:41
 
-Now His parents went to Jerusalem every year at the Feast of the Passover.
+Every year, his parents went to Jerusalem for the Feast of the Passover.
 
 ## Luke 2:42
 
-And when He was twelve years old, they went up there according to the custom of the feast;
+When he was twelve years old, they went up to the festival, according to the custom.
 
 ## Luke 2:43
 
-and as they were returning, after spending the full number of days,  
-the boy Jesus stayed behind in Jerusalem. But His parents were unaware of it.
+After the festival was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.
 
 ## Luke 2:44
 
-Instead, they thought that He was in the caravan,  
-and went a day’s journey; and they began looking for Him among their relatives and acquaintances.
+Thinking he was in their company, they travelled for a day and then began looking for him among their relatives and friends.
 
 ## Luke 2:45
 
-And when they did not find Him, they returned to Jerusalem, looking for Him.
+When they did not find him, they returned to Jerusalem to look for him.
 
 ## Luke 2:46
 
-Then, after three days, they found Him in the temple,  
-sitting in the midst of the teachers, both listening to them and asking them questions.
+After three days, they found him in the temple courts, sitting among the teachers, listening to them and asking them questions.
 
 ## Luke 2:47
 
-And all who heard Him were amazed at His understanding and His answers.
+Everyone who heard him was amazed at his understanding and his answers.
 
 ## Luke 2:48
 
-When Joseph and Mary saw Him, they were bewildered; and His mother _said to Him_,  
-“Son, why have You treated us this way? Behold, Your father and I have been anxiously looking for You!”
+When his parents saw him, they were astonished. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.”
 
 ## Luke 2:49
 
-And He _said to them_,  
-“Why is it that you were looking for Me? Did you not know that I had to be in My Father’s house?”
+He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
 
 ## Luke 2:50
 
-And yet they on their part did not understand the statement which He had made to them.
+But they did not understand what he was saying to them.
 
 ## Luke 2:51
 
-And He went down with them and came to Nazareth, and He continued to be subject to them;  
-and His mother treasured all these things in her heart.
+Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart.
 
 ## Luke 2:52
 
-And Jesus kept increasing in wisdom and stature, and in favour with God and people.
+And Jesus grew in wisdom and stature, and in favour with God and people.

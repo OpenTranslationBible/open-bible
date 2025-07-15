@@ -1,92 +1,91 @@
 # Leviticus Chapter 18
 
 ## Leviticus 18:1
-The Lord said to Moses,
+The Lord spoke to Moses, saying,
 
 ## Leviticus 18:2
-“Speak to the Israelites and say: I am the Lord your God.
+“Speak to the Israelites and tell them: ‘I am the Lord your God.
 
 ## Leviticus 18:3
-You must not do as they do in Egypt, where you once lived, or as they do in Canaan, where I am bringing you. Do not follow their practices.
+You must not act as they do in the land of Egypt, where you once lived, nor should you behave as they do in the land of Canaan, where I am bringing you. Do not follow their customs.
 
 ## Leviticus 18:4
-You must obey My laws and be careful to follow My decrees. I am the Lord your God.
+You shall observe my judgments and keep my statutes, to live by them. I am the Lord your God.
 
 ## Leviticus 18:5
-Keep My statutes and judgments, for the person who obeys them will live by them. I am the Lord.
+Therefore, keep my statutes and my judgments, for the person who follows them will live by them. I am the Lord.
 
 ## Leviticus 18:6
-No one is to approach any close relative to have sexual relations. I am the Lord.
+‘None of you shall approach any close relative to have sexual relations. I am the Lord.
 
 ## Leviticus 18:7
-Do not dishonour your father by having sexual relations with your mother. She is your mother; do not have relations with her.
+You shall not uncover the nakedness of your father, which is the nakedness of your mother. She is your mother; do not uncover her nakedness.
 
 ## Leviticus 18:8
-Do not have sexual relations with your father’s wife; that would dishonour your father.
+You shall not uncover the nakedness of your father’s wife; it is your father’s nakedness.
 
 ## Leviticus 18:9
-Do not have sexual relations with your sister, whether your father’s daughter or your mother’s daughter, whether born at home or elsewhere.
+The nakedness of your sister, whether your father’s daughter or your mother’s daughter, whether born at home or elsewhere, you shall not uncover.
 
 ## Leviticus 18:10
-Do not have sexual relations with your son’s daughter or your daughter’s daughter; that would dishonour you.
+You shall not uncover the nakedness of your son’s daughter or your daughter’s daughter, for their nakedness is your own.
 
 ## Leviticus 18:11
-Do not have sexual relations with the daughter of your father’s wife—she is your sister.
+The nakedness of your father’s wife’s daughter, born to your father, she is your sister; you shall not uncover her nakedness.
 
 ## Leviticus 18:12
-Do not have sexual relations with your father’s sister; she is your father’s close relative.
+You shall not uncover the nakedness of your father’s sister; she is your father’s close relative.
 
 ## Leviticus 18:13
-Do not have sexual relations with your mother’s sister, because she is a close relative.
+You shall not uncover the nakedness of your mother’s sister, for she is your mother’s close relative.
 
 ## Leviticus 18:14
-Do not dishonour your father’s brother by approaching his wife.
+You shall not uncover the nakedness of your father’s brother by approaching his wife; she is your aunt.
 
 ## Leviticus 18:15
-Do not have sexual relations with your daughter-in-law; she is your son’s wife.
+You shall not uncover the nakedness of your daughter-in-law. She is your son’s wife; you shall not uncover her nakedness.
 
 ## Leviticus 18:16
-Do not have sexual relations with your brother’s wife; that would dishonour your brother.
+You shall not uncover the nakedness of your brother’s wife; it is your brother’s nakedness.
 
 ## Leviticus 18:17
-Do not have sexual relations with both a woman and her daughter or her granddaughter. That is wickedness.
+You shall not uncover the nakedness of a woman and her daughter, nor shall you take her son’s daughter or her daughter’s daughter to uncover their nakedness; they are close relatives. It is a wickedness.
 
 ## Leviticus 18:18
-Do not marry your wife’s sister while your wife is living, to cause rivalry between them.
+You shall not take your wife’s sister as a rival wife to uncover her nakedness while your wife is living.
 
 ## Leviticus 18:19
-Do not approach a woman to have sexual relations during her menstrual period.
+You shall not approach a woman to uncover her nakedness during her menstrual impurity.
 
 ## Leviticus 18:20
-Do not have sexual relations with your neighbour’s wife and defile yourself with her.
+You shall not have sexual relations with your neighbour’s wife, to become defiled with her.
 
 ## Leviticus 18:21
-Do not give any of your children to be sacrificed to Molek, for that profanes the name of your God.
+You shall not give any of your children to be sacrificed to Molech, nor shall you profane the name of your God. I am the Lord.
 
 ## Leviticus 18:22
-Do not have sexual relations with a man as one does with a woman; that is detestable.
+You shall not lie with a male as one lies with a female; it is an abomination.
 
 ## Leviticus 18:23
-Do not have sexual relations with an animal; that is perversion.
+You shall not have sexual relations with any animal to become defiled with it, nor shall any woman present herself to an animal to mate with it; it is a perversion.
 
 ## Leviticus 18:24
-Do not defile yourselves in these ways, for this is how the nations I am driving out became defiled.
+Do not defile yourselves by any of these things, for by all these the nations I am driving out before you have become defiled.
 
 ## Leviticus 18:25
-Even the land was defiled, and I punished it for its sin, and it vomited out its inhabitants.
+The land has become defiled, therefore I have punished it for its sin, and the land has vomited out its inhabitants.
 
 ## Leviticus 18:26
-But you must keep My laws and not do any of these detestable things—whether you are native-born or a foreigner living among you.
+But you must keep my statutes and my judgments, and do not commit any of these abominations, neither the native-born nor the foreigner residing among you.
 
 ## Leviticus 18:27
-All these things were done by the people who lived in the land before you, and the land became defiled.
+For all these abominations were committed by the people who lived in the land before you, and the land became defiled.
 
 ## Leviticus 18:28
-If you defile it, the land will vomit you out as it did the nations before you.
+So that the land does not vomit you out when you defile it, as it has vomited out the nations that were before you.
 
 ## Leviticus 18:29
-Anyone who does any of these detestable things must be cut off from their people.
+For anyone who commits any of these abominations, those persons must be cut off from among their people.
 
 ## Leviticus 18:30
-Keep My requirements and do not follow any of the detestable customs that were practiced before you. I am the Lord your God.
-
+Therefore, keep my requirements and do not follow any of the abominable customs that were practised before you, so that you do not defile yourselves with them. I am the Lord your God.’”

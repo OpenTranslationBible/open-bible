@@ -2,174 +2,146 @@
 
 ## John 16:1
 
-“These things I have spoken to you so that you will not be led into sin.
+“I have spoken these things to you so that you will not be led into sin.
 
 ## John 16:2
 
-They will ban you from the synagogue,  
-yet an hour is coming for everyone who kills you to think that he is offering a service to God.
+They will exclude you from the synagogue; indeed, a time is coming when anyone who kills you will think they are offering a service to God.
 
 ## John 16:3
 
-These things they will do because they have not known the Father nor Me.
+They will do these things because they have not known the Father or me.
 
 ## John 16:4
 
-But these things I have spoken to you, so that when their hour comes,  
-you may remember that I told you of them.  
-However, I did not say these things to you at the beginning, because I was with you.
+I have told you this so that when their time comes, you will remember that I warned you about them. I did not tell you this from the beginning because I was with you.
 
 ---
 
 ## John 16:5
 
-“But now I am going to Him who sent Me; and none of you asks Me, ‘Where are You going?’
+But now I am going to the one who sent me, and none of you asks me, ‘Where are you going?’
 
 ## John 16:6
 
-But because I have said these things to you, grief has filled your heart.
+Instead, because I have said these things, sorrow has filled your hearts.
 
 ## John 16:7
 
-But I tell you the truth: it is to your advantage that I am leaving;  
-for if I do not leave, the Helper will not come to you; but if I go, I will send Him to you.
+Nevertheless, I tell you the truth: it is to your advantage that I go away. For if I do not go, the Helper will not come to you; but if I go, I will send him to you.
 
 ## John 16:8
 
-And He, when He comes, will convict the world regarding sin, and righteousness, and judgment:
+And when he comes, he will convict the world concerning sin, righteousness, and judgement:
 
 ## John 16:9
 
-regarding sin, because they do not believe in Me;
+concerning sin, because they do not believe in me;
 
 ## John 16:10
 
-and regarding righteousness, because I am going to the Father and you no longer are going to see Me;
+concerning righteousness, because I am going to the Father and you will no longer see me;
 
 ## John 16:11
 
-and regarding judgment, because the ruler of this world has been judged.
+and concerning judgement, because the ruler of this world is judged.
 
 ---
 
 ## John 16:12
 
-“I have many more things to say to you, but you cannot bear them at the present time.
+“I have many more things to say to you, but you cannot bear them now.
 
 ## John 16:13
 
-But when He, the Spirit of truth, comes,  
-He will guide you into all the truth;  
-for He will not speak on His own, but whatever He hears, He will speak;  
-and He will disclose to you what is to come.
+But when the Spirit of truth comes, he will guide you into all the truth. He will not speak on his own; he will speak only what he hears, and he will disclose to you what is to come.
 
 ## John 16:14
 
-He will glorify Me, for He will take from Mine and will disclose it to you.
+He will glorify me because he will take from what is mine and will disclose it to you.
 
 ## John 16:15
 
-All things that the Father has are Mine;  
-this is why I said that He takes from Mine and will disclose it to you.
+All that belongs to the Father is mine. This is why I said the Spirit will take from what is mine and will disclose it to you.
 
 ---
 
 ## John 16:16
 
-“A little while, and you will no longer see Me; and again a little while, and you will see Me.”
+“In a little while, you will no longer see me; and again, in a little while, you will see me.”
 
 ## John 16:17
 
-So some of His disciples said to one another,  
-“What is this that He is telling us,  
-‘A little while, and you will not see Me; and again a little while, and you will see Me’;  
-and, ‘because I am going to the Father’?”
+At this, some of his disciples said to one another, “What does he mean by saying, ‘In a little while, you will no longer see me; and again, in a little while, you will see me,’ and ‘because I am going to the Father’?”
 
 ## John 16:18
 
-So they were saying, “What is this that He says, ‘A little while’?  
-We do not know what He is talking about.”
+They kept asking, “What does he mean by ‘a little while’? We do not understand what he is saying.”
 
 ---
 
 ## John 16:19
 
-Jesus knew that they wanted to question Him, and He said to them,  
-“Are you deliberating together about this, that I said,  
-‘A little while, and you will not see Me; and again a little while, and you will see Me’?
+Jesus knew they wanted to ask him about this, so he said to them, “Are you discussing among yourselves what I meant when I said, ‘In a little while, you will no longer see me, and again, in a little while, you will see me’?
 
 ## John 16:20
 
-Truly, truly I say to you that you will weep and mourn, but the world will rejoice;  
-you will grieve, but your grief will be turned into joy.
+Truly, truly I say to you, you will weep and mourn while the world rejoices. You will grieve, but your grief will turn to joy.
 
 ## John 16:21
 
-Whenever a woman is in labour, she has pain, because her hour has come;  
-but when she gives birth to the child, she no longer remembers the suffering,  
-because of the joy that a child has been born into the world.
+A woman in labour has pain because her time has come; but when her child is born, she forgets the anguish because of her joy that a child is born into the world.
 
 ## John 16:22
 
-Therefore you too have grief now;  
-but I will see you again, and your heart will rejoice, and no one is going to take your joy away from you.
+So it is with you: Now is your time of grief, but I will see you again and your hearts will rejoice, and no one will take away your joy.
 
 ---
 
 ## John 16:23
 
-And on that day you will not question Me about anything.  
-Truly, truly I say to you, if you ask the Father for anything in My name, He will give it to you.
+In that day, you will no longer ask me anything. Truly, truly I say to you, whatever you ask the Father in my name, he will give you.
 
 ## John 16:24
 
-Until now you have asked for nothing in My name; ask and you will receive, so that your joy may be made full.
+Until now, you have not asked for anything in my name. Ask and you will receive, so that your joy may be complete.
 
 ---
 
 ## John 16:25
 
-“These things I have spoken to you in figures of speech;  
-an hour is coming when I will no longer speak to you in figures,  
-but will tell you plainly about the Father.
+“I have spoken these things to you in figures of speech; a time is coming when I will no longer speak to you in figures of speech, but will tell you plainly about the Father.
 
 ## John 16:26
 
-On that day you will ask in My name,  
-and I am not saying to you that I will request of the Father on your behalf;
+On that day, you will ask in my name. I am not saying that I will ask the Father on your behalf.
 
 ## John 16:27
 
-for the Father Himself loves you, because you have loved Me, and have believed that I came forth from the Father.
+For the Father himself loves you, because you have loved me and have believed that I came from God.
 
 ## John 16:28
 
-I came forth from the Father and have come into the world;  
-again, I am leaving the world and going to the Father.”
+I came from the Father and have come into the world; now I am leaving the world and going back to the Father.”
 
 ---
 
 ## John 16:29
 
-His disciples _said_, “See, now You are speaking plainly and not using any figure of speech!
+Then his disciples said, “Now you are speaking plainly and not using figures of speech.
 
 ## John 16:30
 
-Now we know that You know all things, and that You have no need for anyone to question You;  
-this is why we believe that You came from God.”
+Now we see that you know all things and do not need anyone to question you. This makes us believe that you came from God.”
 
 ## John 16:31
 
-Jesus replied to them,  
-“Do you now believe?
+“Do you now believe?” Jesus replied.
 
 ## John 16:32
 
-Behold, an hour is coming, and has already come, for you to be scattered,  
-each to his own home, and to leave Me alone;  
-and yet I am not alone, because the Father is with Me.
+“Behold, a time is coming, and in fact has come, when you will be scattered, each to your own home. You will leave me all alone. Yet I am not alone, for my Father is with me.
 
 ## John 16:33
 
-These things I have spoken to you so that in Me you may have peace.  
-In the world you have tribulation, but take courage; I have overcome the world.”
+“I have told you these things so that in me you may have peace. In this world you will have tribulation. But take heart! I have overcome the world.”

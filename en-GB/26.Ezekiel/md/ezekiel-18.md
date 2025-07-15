@@ -1,129 +1,97 @@
 # Ezekiel Chapter 18
 
 ## Ezekiel 18:1
-
-Then the word of the Lord came to me, saying,
+The word of the Lord came to me, saying:
 
 ## Ezekiel 18:2
-
-“What do you mean by using this proverb about the land of Israel, saying, ‘The fathers eat sour grapes, but the children’s teeth are set on edge’?
+“What do you mean by repeating this proverb concerning the land of Israel: ‘The fathers eat sour grapes, and the children's teeth are set on edge’?
 
 ## Ezekiel 18:3
-
-As I live,” declares the Lord God, “you certainly are not going to use this proverb in Israel anymore.
+As surely as I live,” declares the Lord God, “you shall no longer use this proverb in Israel.
 
 ## Ezekiel 18:4
-
-Behold, all souls are Mine; the soul of the father as well as the soul of the son is Mine. The soul who sins will die.
+Behold, all souls are mine; the soul of the father as well as the soul of the son is mine. The soul who sins is the one who will die.
 
 ## Ezekiel 18:5
-
-But if a man is righteous and practices justice and righteousness,
+“But if a man is righteous and does what is just and right—
 
 ## Ezekiel 18:6
-
-If he does not eat at the mountain shrines or lift up his eyes to the idols of the house of Israel, or defile his neighbour’s wife or approach a woman during her menstrual period—
+if he does not eat at the mountain shrines or lift up his eyes to the idols of the house of Israel, does not defile his neighbour’s wife or approach a woman during her menstrual impurity—
 
 ## Ezekiel 18:7
-
-And if he does not oppress anyone, but restores to the debtor his pledge, does not commit robbery, but gives his bread to the hungry and covers the naked with clothing,
+if he does not oppress anyone, but restores to the debtor his pledge, does not commit robbery, but gives his bread to the hungry and covers the naked with clothing,
 
 ## Ezekiel 18:8
-
-If he does not lend money at interest or take increase, if he keeps his hand from injustice and executes true justice between people,
+if he does not lend at interest or take any profit, withholds his hand from injustice and executes true justice between one person and another,
 
 ## Ezekiel 18:9
-
-If he walks in My statutes and keeps My ordinances so as to deal faithfully—he is righteous and shall certainly live,” declares the Lord God.
+if he walks in my statutes and keeps my ordinances by acting faithfully—he is righteous; he shall surely live,” declares the Lord God.
 
 ## Ezekiel 18:10
-
-“However, he may have a violent son who sheds blood and commits any of these things to a brother,
+“If he fathers a son who is violent, a shedder of blood, who does any of these things—
 
 ## Ezekiel 18:11
-
-Though he himself did not do any of these things—he even eats at the mountain shrines, defiles his neighbour’s wife,
+though he himself did none of these things—who even eats at the mountain shrines, defiles his neighbour’s wife,
 
 ## Ezekiel 18:12
-
-Oppresses the poor and needy, commits robbery, does not restore a pledge, lifts up his eyes to the idols, and commits abomination,
+oppresses the poor and needy, commits robbery, does not restore the pledge, lifts up his eyes to the idols, commits abomination,
 
 ## Ezekiel 18:13
-
-Lends money at interest and takes increase—will he live? He will not live! He has committed all these abominations, he will surely be put to death; his blood will be on himself.
+lends at interest and takes profit; shall he then live? He shall not live! He has done all these abominations; he shall surely be put to death; his blood shall be upon himself.
 
 ## Ezekiel 18:14
-
-“Now behold, he has a son who observes all his father’s sins which he committed, and, seeing them, does not do likewise.
+“Now suppose this man has a son who sees all the sins that his father has done; he sees, and does not do likewise:
 
 ## Ezekiel 18:15
-
-He does not eat at the mountain shrines, does not lift up his eyes to the idols of the house of Israel, or defile his neighbour’s wife,
+he does not eat at the mountain shrines or lift up his eyes to the idols of the house of Israel, does not defile his neighbour’s wife,
 
 ## Ezekiel 18:16
-
-Or oppress anyone, or keep a pledge that has been given as security, or commit robbery, but he gives his bread to the hungry and covers the naked with clothing,
+does not oppress anyone, exacts no pledge, does not commit robbery, but gives his bread to the hungry and covers the naked with clothing,
 
 ## Ezekiel 18:17
-
-He keeps his hand from the poor, does not take interest or increase, but executes My ordinances and walks in My statutes—he will not die for his father’s guilt, he will certainly live.
+withholds his hand from wrong, takes no interest or profit, obeys my statutes and walks in my ordinances; he shall not die for his father’s iniquity; he shall surely live.
 
 ## Ezekiel 18:18
-
-As for his father, because he practiced extortion, robbed his brother, and did what is not good among his people, behold, he will die for his guilt.
+As for his father, because he practised extortion, robbed his brother, and did what is not good among his people, behold, he shall die for his iniquity.
 
 ## Ezekiel 18:19
-
-“Yet you say, ‘Why should the son not bear the punishment for the father’s guilt?’ When the son has practiced justice and righteousness, has kept all My statutes and done them, he shall certainly live.
+“Yet you say, ‘Why should not the son suffer for the iniquity of the father?’ When the son has done what is just and right, and has kept all my statutes and observed them, he shall surely live.
 
 ## Ezekiel 18:20
-
-The person who sins will die. A son will not bear the punishment for the father’s guilt, nor will a father bear the punishment for the son’s guilt; the righteousness of the righteous will be upon himself, and the wickedness of the wicked will be upon himself.
+The soul who sins shall die. The son shall not bear the iniquity of the father, nor shall the father bear the iniquity of the son. The righteousness of the righteous shall be upon himself, and the wickedness of the wicked shall be upon himself.
 
 ## Ezekiel 18:21
-
-“But if the wicked person turns from all his sins which he has committed and keeps all My statutes and practices justice and righteousness, he shall certainly live; he shall not die.
+“But if a wicked person turns away from all his sins that he has committed and keeps all my statutes and does what is just and right, he shall surely live; he shall not die.
 
 ## Ezekiel 18:22
-
-All his offenses which he has committed will not be remembered against him; because of his righteousness which he has practiced, he will live.
+None of the transgressions that he has committed shall be remembered against him; for the righteousness that he has done he shall live.
 
 ## Ezekiel 18:23
-
-Do I take any pleasure in the death of the wicked,” declares the Lord God, “rather than that he would turn from his ways and live?
+Do I take any pleasure in the death of the wicked,” declares the Lord God, “rather than that he should turn from his ways and live?
 
 ## Ezekiel 18:24
-
-But when a righteous person turns away from his righteousness, commits injustice, and does according to all the abominations that a wicked person does, will he live? All his righteous deeds which he has done will not be remembered; for his treachery and his sin which he has committed, he will die.
+“But when a righteous person turns away from his righteousness and commits iniquity and does the same abominations that the wicked person does, shall he live? None of the righteous deeds that he has done shall be remembered; for the treachery of which he is guilty and the sin he has committed, for them he shall die.
 
 ## Ezekiel 18:25
-
-“Yet you say, ‘The way of the Lord is not right.’ Hear now, house of Israel! Is My way not right? Is it not your ways that are not right?
+“Yet you say, ‘The way of the Lord is not just.’ Hear now, O house of Israel: Is my way not just? Is it not your ways that are not just?
 
 ## Ezekiel 18:26
-
-When a righteous person turns away from his righteousness and commits injustice, and dies because of it, it is for his injustice which he has committed that he dies.
+When a righteous person turns away from his righteousness and commits iniquity, he shall die for it; for the iniquity that he has committed he shall die.
 
 ## Ezekiel 18:27
-
-But when a wicked person turns away from his wickedness which he has committed and practices justice and righteousness, he will save his life.
+Again, when a wicked person turns away from the wickedness he has committed and does what is just and right, he shall save his life.
 
 ## Ezekiel 18:28
-
-Because he considered and turned away from all his offenses which he had committed, he shall certainly live; he shall not die.
+Because he considered and turned away from all the transgressions that he had committed, he shall surely live; he shall not die.
 
 ## Ezekiel 18:29
-
-But the house of Israel says, ‘The way of the Lord is not right.’ Are My ways not right, house of Israel? Is it not your ways that are not right?
+Yet the house of Israel says, ‘The way of the Lord is not just.’ O house of Israel, are my ways not just? Is it not your ways that are not just?
 
 ## Ezekiel 18:30
-
-“Therefore I will judge you, house of Israel, each according to his conduct,” declares the Lord God. “Repent and turn away from all your offenses, so that wrongdoing does not become a stumbling block to you.
+“Therefore I will judge you, O house of Israel, every one according to his ways,” declares the Lord God. “Repent and turn from all your transgressions, lest iniquity be your ruin.
 
 ## Ezekiel 18:31
-
-Hurl away from you all your offenses which you have committed and make yourselves a new heart and a new spirit! For why should you die, house of Israel?
+Cast away from you all the transgressions that you have committed, and make yourselves a new heart and a new spirit! Why will you die, O house of Israel?
 
 ## Ezekiel 18:32
-
-For I take no pleasure in the death of anyone who dies,” declares the Lord God. “Therefore, repent and live!”
+For I have no pleasure in the death of anyone,” declares the Lord God. “So turn, and live.”

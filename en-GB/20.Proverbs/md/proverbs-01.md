@@ -6,173 +6,154 @@ The proverbs of Solomon, son of David, king of Israel:
 
 ## Proverbs 1:2
 
-To know wisdom and instruction,  
-To discern the sayings of understanding,
+To gain wisdom and instruction, to discern words of understanding;
 
 ## Proverbs 1:3
 
-To receive instruction in wise behaviour,  
-Righteousness, justice, and integrity;
+To receive instruction in wise conduct, in righteousness, justice, and fairness;
 
 ## Proverbs 1:4
 
-To give prudence to the naive,  
-To the youth knowledge and discretion.
+To impart prudence to the simple, knowledge and discretion to the young;
 
 ## Proverbs 1:5
 
-A wise person will hear and increase in learning,  
-And a person of understanding will acquire wise counsel,
+Let the wise hear and increase their learning, and let those of understanding acquire guidance,
 
 ## Proverbs 1:6
 
-To understand a proverb and a saying,  
-The words of the wise and their riddles.
+To comprehend proverbs and parables, the sayings and enigmas of the wise.
 
 ## Proverbs 1:7
 
-The fear of the Lord is the beginning of knowledge;  
-Fools despise wisdom and instruction.
-
----
+The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.
 
 ## Proverbs 1:8
 
-Listen, my son, to your father's instruction,  
-And do not forsake your mother's teaching;
+Listen, my son, to your father’s instruction, and do not forsake your mother’s teaching;
 
 ## Proverbs 1:9
 
-For they are a graceful garland for your head  
-And necklaces for your neck.
+For they are a graceful garland for your head and pendants for your neck.
 
 ---
 
 ## Proverbs 1:10
 
-My son, if sinners entice you,  
-Do not consent.
+My son, if sinners entice you, do not consent.
 
 ## Proverbs 1:11
 
-If they say,  
-“Come with us,  
-> Let us lie in wait for blood,  
-> Let us ambush the innocent without cause;
+If they say, “Come with us,
+
+> let us lie in wait for blood,
+> let us ambush the innocent without reason;
 
 ## Proverbs 1:12
 
-Let us swallow them alive like Sheol,  
-> Whole, like those who go down to the pit;
+Let us swallow them alive like the grave,
+
+> and whole, like those who go down to the pit;
 
 ## Proverbs 1:13
 
-We will find all kinds of valuable possessions,  
-> We will fill our houses with plunder;
+We shall find all kinds of precious goods,
+
+> we shall fill our houses with plunder;
 
 ## Proverbs 1:14
 
-Throw in your lot with us;  
-> We will all have one money bag,”
+Throw in your lot with us,
+
+> we shall all share one purse”—
 
 ## Proverbs 1:15
 
-My son, do not walk on the path with them,  
-Keep your feet from their way.
+My son, do not walk in their way, keep your foot from their path,
 
 ## Proverbs 1:16
 
-For their feet run to evil,  
-And they are quick to shed blood.
+For their feet run to evil,
+and they are quick to shed blood.
 
 ## Proverbs 1:17
 
-Indeed, it is useless to spread the baited net  
-In the sight of any bird;
+How futile it is to spread a net in full view of all the birds!
 
 ## Proverbs 1:18
 
-But they lie in wait for their own blood,  
-They ambush their own lives.
+But these men lie in wait for their own blood; they set an ambush for their own lives.
 
 ## Proverbs 1:19
 
-Such are the ways of everyone who makes unjust gain;  
-It takes away the life of those who possess it.
+Such are the ways of everyone who is greedy for unjust gain; it takes away the life of its possessors.
 
 ---
 
 ## Proverbs 1:20
 
-Wisdom shouts in the street,  
-She raises her voice in the public square;
+Wisdom calls aloud in the street,
+she raises her voice in the public squares;
 
 ## Proverbs 1:21
 
-At the head of the noisy streets she cries out,  
-At the entrance of the gates in the city she declares her sayings:
+At the head of the bustling streets she cries out,
+at the entrance of the city gates she makes her speech:
 
 ## Proverbs 1:22
 
-“How long, you naive ones, will you love simplistic thinking?  
-> And how long will scoffers delight in their scoffing,  
-> And fools hate knowledge?
+“How long, you simple ones, will you love your simple ways?
+
+> How long will scoffers delight in scoffing
+> and fools hate knowledge?
 
 ## Proverbs 1:23
 
-Turn to my reproof,  
-> Behold, I will pour out my spirit on you;  
+Repent at my rebuke!
+
+> Then I will pour out my spirit upon you,
 > I will make my words known to you.
 
 ## Proverbs 1:24
 
-Because I called and you refused,  
-I stretched out my hand and no one paid attention;
+Because I have called and you refused, I have stretched out my hand and no one heeded;
 
 ## Proverbs 1:25
 
-And you neglected all my advice,  
-And did not want my rebuke;
+Since you ignored all my advice
+and would not accept my rebuke,
 
 ## Proverbs 1:26
 
-I also will laugh at your disaster;  
+I will also laugh at your calamity;
 I will mock when your dread comes,
 
 ---
 
 ## Proverbs 1:27
 
-When your dread comes like a storm,  
-And your disaster comes like a whirlwind,  
-When distress and anguish come upon you.
+When your dread comes like a storm and your calamity like a whirlwind, when distress and anguish come upon you.
 
 ## Proverbs 1:28
 
-Then they will call on me, but I will not answer;  
-They will seek me diligently but will not find me,
+Then they will call upon me, but I will not answer; they will seek me diligently but will not find me,
 
 ## Proverbs 1:29
 
-Because they hated knowledge,  
-And did not choose the fear of the Lord.
+Because they hated knowledge and did not choose the fear of the Lord.
 
 ## Proverbs 1:30
 
-They would not accept my advice,  
-They disdainfully rejected all my rebuke.
+They would not accept my advice and spurned all my rebuke.
 
 ## Proverbs 1:31
 
-So they shall eat of the fruit of their own way,  
-And be filled with their own schemes.
+Therefore they shall eat the fruit of their ways and be filled with the fruit of their schemes.
 
 ## Proverbs 1:32
 
-For the turning away of the naive will kill them,  
-And the complacency of fools will destroy them.
+For the waywardness of the simple will kill them, and the complacency of fools will destroy them;
 
 ## Proverbs 1:33
 
-But whoever listens to me will live securely,  
-And will be at ease from the dread of evil.
+But whoever listens to me will dwell securely and will be at ease, without fear of harm.”

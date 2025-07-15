@@ -1,33 +1,25 @@
 # Ezekiel Chapter 15
 
 ## Ezekiel 15:1
-
-Then the word of the Lord came to me, saying,
+The word of the Lord came to me, saying:
 
 ## Ezekiel 15:2
-
-“Son of man, how is the wood of the vine better than any wood of a branch which is among the trees of the forest?
+“Son of man, how is the wood of a vine superior to any branch from the trees in the forest?
 
 ## Ezekiel 15:3
-
-Can wood be taken from it to make anything, or can men take a peg from it on which to hang any object?
+Can wood be taken from it to make anything useful? Can even a peg be made from it to hang any item upon?
 
 ## Ezekiel 15:4
-
-If it has been put into the fire for fuel, and the fire has consumed both of its ends and its middle has been charred, is it useful for anything?
+If it is cast into the fire for fuel, and the fire devours both ends and chars the middle, is it then useful for anything?
 
 ## Ezekiel 15:5
-
-Behold, while it is intact, it is not made into anything; how much less, when the fire has consumed it and it is charred, can it still be made into anything!
+While it was whole, it was not made into anything. How much less can it be used for anything once it is consumed by fire and charred?
 
 ## Ezekiel 15:6
-
-Therefore, this is what the Lord God says: ‘Just as the wood of the vine among the trees of the forest, which I have given to the fire for fuel, so have I given up the inhabitants of Jerusalem;
+Therefore, this is what the Sovereign Lord says: Just as the wood of the vine among the trees of the forest is given to the fire for fuel, so will I treat the inhabitants of Jerusalem.
 
 ## Ezekiel 15:7
-
-And I will set My face against them. Though they have come out of the fire, yet the fire will consume them. Then you will know that I am the Lord, when I set My face against them.
+I will set my face against them. Though they have come out of the fire, the fire will still consume them. And you will know that I am the Lord when I set my face against them.
 
 ## Ezekiel 15:8
-
-So I will make the land desolate, because they have acted unfaithfully,’” declares the Lord God.
+I will make the land desolate because they have acted unfaithfully, declares the Sovereign Lord.”

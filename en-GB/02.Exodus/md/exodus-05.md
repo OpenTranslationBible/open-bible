@@ -1,71 +1,70 @@
 # Exodus Chapter 5
 
 ## Exodus 5:1
-Afterward Moses and Aaron went to Pharaoh and said, “This is what the Lord, the God of Israel, says: Let My people go, so that they may hold a festival to Me in the wilderness.”
+Afterwards, Moses and Aaron approached Pharaoh and said, “Thus says the Lord, the God of Israel: ‘Release My people so that they may hold a festival to Me in the wilderness.’”
 
 ## Exodus 5:2
-But Pharaoh said, “Who is the Lord, that I should obey His voice and let Israel go? I do not know the Lord, and I will not let Israel go.”
+Pharaoh responded, “Who is the Lord that I should heed His voice and let Israel go? I do not recognise the Lord, and furthermore, I will not release Israel.”
 
 ## Exodus 5:3
-Then they said, “The God of the Hebrews has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God, or He may strike us with plague or sword.”
+They replied, “The God of the Hebrews has met with us. Please allow us to journey three days into the wilderness to offer sacrifices to the Lord our God, lest He strike us with plague or the sword.”
 
 ## Exodus 5:4
-But the king of Egypt replied, “Moses and Aaron, why are you taking the people away from their labour? Get back to your work!”
+But the king of Egypt said to them, “Moses and Aaron, why do you distract the people from their tasks? Return to your labours!”
 
 ## Exodus 5:5
-Pharaoh also said, “Look, the people of the land are now numerous, and you are stopping them from their work.”
+Pharaoh continued, “Behold, the people of the land are now many, and you would have them cease from their labours!”
 
 ## Exodus 5:6
-That same day Pharaoh gave this order to the slave drivers and overseers in charge of the people:
+That same day, Pharaoh issued a command to the taskmasters and foremen in charge of the people:
 
 ## Exodus 5:7
-“You are no longer to provide straw for the people to make bricks, as you used to. Let them go and gather straw for themselves.
+“You shall no longer supply the people with straw for making bricks as before; let them gather straw for themselves.
 
 ## Exodus 5:8
-But require them to make the same number of bricks as before; do not reduce the quota. They are lazy; that is why they cry, ‘Let us go and sacrifice to our God.’
+But you must still require them to produce the same quota of bricks as previously; do not reduce it. They are idle, and that is why they cry out, ‘Let us go and sacrifice to our God.’
 
 ## Exodus 5:9
-Make the work harder for the men so they keep working and pay no attention to deceptive words.”
+Make the work more burdensome for the men so that they will continue working and pay no attention to falsehoods.”
 
 ## Exodus 5:10
-So the slave drivers and overseers went out and told the people, “This is what Pharaoh says: I will not give you any more straw.
+So the taskmasters and foremen went out and informed the people, “This is what Pharaoh says: ‘I will not provide you with straw.
 
 ## Exodus 5:11
-Go and gather your own straw wherever you can find it, but your workload will not be reduced.”
+Go and gather straw for yourselves wherever you can find it, but your workload will not be diminished in the slightest.’”
 
 ## Exodus 5:12
-So the people scattered throughout Egypt to gather stubble to use as straw.
+Thus, the people scattered throughout all of Egypt to collect stubble for straw.
 
 ## Exodus 5:13
-The slave drivers kept pressing them, saying, “Complete your work every day, just as when you had straw.”
+The taskmasters pressed them, saying, “Complete your daily work quota, just as when you had straw.”
 
 ## Exodus 5:14
-Pharaoh’s slave drivers beat the Israelite foremen they had appointed, demanding, “Why haven’t you met your quota of bricks yesterday or today, as before?”
+Pharaoh’s taskmasters beat the Israelite foremen they had appointed, demanding, “Why have you not fulfilled your quota of bricks either yesterday or today, as before?”
 
 ## Exodus 5:15
-Then the Israelite foremen went and appealed to Pharaoh: “Why have you treated your servants this way?
+Then the Israelite foremen went and pleaded with Pharaoh, “Why do you treat your servants this way?
 
 ## Exodus 5:16
-No straw is given to your servants, yet we are told, ‘Make bricks!’ Your servants are being beaten, but the fault lies with your own people.”
+Your servants are given no straw, yet they tell us, ‘Make bricks!’ And behold, your servants are being beaten, but the fault lies with your own people.”
 
 ## Exodus 5:17
-But Pharaoh said, “Lazy! You are lazy! That’s why you say, ‘Let us go and sacrifice to the Lord.’
+But Pharaoh said, “You are idle, very idle; that is why you say, ‘Let us go and sacrifice to the Lord.’
 
 ## Exodus 5:18
-Now get to work. You will not be given any straw, yet you must produce your full quota of bricks.”
+Now go and work; you will not be given any straw, yet you must deliver the full quota of bricks.”
 
 ## Exodus 5:19
-The Israelite foremen realised they were in trouble when they were told, “You must not reduce the daily number of bricks.”
+The Israelite foremen realised they were in a difficult situation when they were told, “You must not reduce your daily quota of bricks.”
 
 ## Exodus 5:20
-When they left Pharaoh, they found Moses and Aaron waiting to meet them,
+As they departed from Pharaoh, they encountered Moses and Aaron waiting for them.
 
 ## Exodus 5:21
-and they said, “May the Lord look on you and judge you! You have made us repulsive to Pharaoh and his officials and put a sword in their hand to kill us.”
+And they said to them, “May the Lord look upon you and judge you, for you have made us detestable in the eyes of Pharaoh and his officials, putting a sword in their hand to kill us.”
 
 ## Exodus 5:22
-Then Moses returned to the Lord and said, “Lord, why have You brought trouble on this people? Why did You send me?
+Moses returned to the Lord and said, “Lord, why have You brought trouble upon this people? Why did You send me?
 
 ## Exodus 5:23
-Ever since I went to Pharaoh to speak in Your name, he has brought more harm upon this people, and You have not delivered Your people at all.”
-
+Since I went to Pharaoh to speak in Your name, he has brought harm upon this people, and You have not delivered Your people at all.”

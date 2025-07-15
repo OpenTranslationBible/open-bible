@@ -2,62 +2,62 @@
 
 ## Hebrews 5:1
 
-For every high priest taken from among men is appointed on behalf of people in things pertaining to God, in order to offer both gifts and sacrifices for sins;
+Every high priest is chosen from among men and is appointed to act on behalf of people in matters relating to God, to offer both gifts and sacrifices for sins.
 
 ## Hebrews 5:2
 
-he can deal gently with the ignorant and misguided, since he himself also is clothed in weakness;
+He can deal gently with those who are ignorant and going astray, since he himself is also subject to weakness.
 
 ## Hebrews 5:3
 
-and because of it he is obligated to offer sacrifices for sins for himself, as well as for the people.
+Because of this, he is required to offer sacrifices for his own sins, as well as for the sins of the people.
 
 ## Hebrews 5:4
 
-And no one takes the honour for himself, but receives it when he is called by God, just as Aaron also was.
+And no one assumes this honour for himself, but he receives it when called by God, just as Aaron was.
 
 ## Hebrews 5:5
 
-So too Christ did not glorify Himself in becoming a high priest, but it was He who said to Him,
+Similarly, Christ did not glorify Himself by becoming a high priest, but it was God who said to Him,
 
-> “You are My Son,  
-> Today I have fathered You”;
+> “You are My Son;
+> today I have begotten You.”
 
 ## Hebrews 5:6
 
-just as He also says in another passage,
+And He says in another place,
 
-> “You are a priest forever  
-> According to the order of Melchizedek.”
+> “You are a priest forever,
+> according to the order of Melchizedek.”
 
 ## Hebrews 5:7
 
-In the days of His humanity, He offered up both prayers and pleas with loud crying and tears to the One able to save Him from death, and He was heard because of His devout behaviour.
+During the days of His earthly life, He offered up prayers and petitions with loud cries and tears to the One who could save Him from death, and He was heard because of His reverent submission.
 
 ## Hebrews 5:8
 
-Although He was a Son, He learned obedience from the things which He suffered.
+Although He was a Son, He learned obedience through what He suffered.
 
 ## Hebrews 5:9
 
-And having been perfected, He became the source of eternal salvation for all those who obey Him,
+And having been made perfect, He became the source of eternal salvation for all who obey Him,
 
 ## Hebrews 5:10
 
-being designated by God as High Priest according to the order of Melchizedek.
+being designated by God as a high priest in the order of Melchizedek.
 
 ## Hebrews 5:11
 
-Concerning him we have much to say, and it is difficult to explain, since you have become poor listeners.
+We have much to say about this, but it is hard to explain, since you have become slow to understand.
 
 ## Hebrews 5:12
 
-For though by this time you ought to be teachers, you have need again for someone to teach you the elementary principles of the actual words of God, and you have come to need milk and not solid food.
+For though by this time you ought to be teachers, you need someone to teach you again the basic principles of God’s word. You need milk, not solid food!
 
 ## Hebrews 5:13
 
-For everyone who partakes only of milk is unacquainted with the word of righteousness, for he is an infant.
+For anyone who lives on milk is unacquainted with the teaching about righteousness, for he is still an infant.
 
 ## Hebrews 5:14
 
-But solid food is for the mature, who because of practice have their senses trained to distinguish between good and evil.
+But solid food is for the mature, who through constant practice have trained themselves to discern good from evil.

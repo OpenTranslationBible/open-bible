@@ -1,253 +1,190 @@
 # Ezekiel Chapter 16
 
 ## Ezekiel 16:1
-
-Then the word of the Lord came to me, saying,
+The word of the Lord came to me, saying:
 
 ## Ezekiel 16:2
-
-“Son of man, make known to Jerusalem her abominations
+“Son of man, make known to Jerusalem her abominable practices.
 
 ## Ezekiel 16:3
-
-And say, ‘This is what the Lord God says to Jerusalem: “Your origin and your birth are from the land of the Canaanite, your father was an Amorite and your mother a Hittite.
+and say, ‘This is what the Sovereign Lord says to Jerusalem: Your origin and birth were in the land of the Canaanites; your father was an Amorite and your mother a Hittite.
 
 ## Ezekiel 16:4
-
-As for your birth, on the day you were born your navel cord was not cut, nor were you washed with water for cleansing; you were not rubbed with salt or wrapped in cloths.
+On the day you were born, your cord was not cut, nor were you washed with water to cleanse you; you were not rubbed with salt or wrapped in cloths.
 
 ## Ezekiel 16:5
-
-No eye looked with pity on you to do any of these things for you out of compassion; rather, you were thrown out into the open field, because you were abhorred on the day you were born.
+No one looked on you with pity or had compassion to do any of these things for you. Rather, you were thrown out into the open field, for you were despised on the day you were born.
 
 ## Ezekiel 16:6
-
-When I passed by you and saw you squirming in your blood, I said to you while you were in your blood, ‘Live!’ Yes, I said to you while you were in your blood, ‘Live!’
+“‘Then I passed by and saw you squirming in your blood, and I said to you in your blood, “Live!”
 
 ## Ezekiel 16:7
-
-I made you plentiful like plants of the field. Then you grew up, became tall, and reached the age for fine ornaments; your breasts were formed and your hair had grown. Yet you were naked and bare.
+I made you grow like a plant of the field. You grew up and developed, reaching the age for fine adornments; your breasts were formed and your hair had grown, but you were naked and bare.
 
 ## Ezekiel 16:8
-
-Then I passed by you and saw you, and behold, you were at the time for love; so I spread My garment over you and covered your nakedness. I also swore to you and entered into a covenant with you,” declares the Lord God, “so you became Mine.
+“‘Later I passed by, and when I saw you, you were at the age for love. I spread the corner of my garment over you and covered your nakedness. I gave you my solemn oath and entered into a covenant with you, declares the Sovereign Lord, and you became mine.
 
 ## Ezekiel 16:9
-
-Then I bathed you with water, washed off your blood from you, and anointed you with oil.
+“‘I bathed you with water and washed the blood from you and anointed you with oil.
 
 ## Ezekiel 16:10
-
-I also clothed you with embroidered cloth and put sandals of fine leather on your feet; I wrapped you with fine linen and covered you with silk.
+I clothed you with embroidered garments and put sandals of fine leather on you. I wrapped you in fine linen and covered you with silk.
 
 ## Ezekiel 16:11
-
-I adorned you with jewelry, put bracelets on your wrists, and a necklace around your neck.
+I adorned you with jewellery: I put bracelets on your wrists and a necklace around your neck,
 
 ## Ezekiel 16:12
-
-I also put a ring in your nose, earrings in your ears, and a beautiful crown on your head.
+and I put a ring on your nose, earrings on your ears, and a beautiful crown on your head.
 
 ## Ezekiel 16:13
-
-So you were adorned with gold and silver, and your clothing was fine linen, silk, and embroidered cloth. You ate fine flour, honey, and oil; so you became exceedingly beautiful and advanced to royalty.
+Thus you were adorned with gold and silver; your clothes were of fine linen, silk, and embroidered cloth. Your food was fine flour, honey, and olive oil. You became exceedingly beautiful and advanced to royalty.
 
 ## Ezekiel 16:14
-
-Then your fame spread among the nations because of your beauty, for it was perfect because of My splendour, which I bestowed on you,” declares the Lord God.
+Your fame spread among the nations on account of your beauty, for it was perfect because of the splendour I had bestowed on you, declares the Sovereign Lord.
 
 ## Ezekiel 16:15
-
-“But you trusted in your beauty and used your fame to become a prostitute. You lavished your obscene practices on every passer-by to whom it might be tempting.
+“‘But you trusted in your beauty and became unfaithful because of your fame. You lavished your favours on anyone who passed by, and your beauty became his.
 
 ## Ezekiel 16:16
-
-You took some of your clothes, made for yourself high places of various colours, and committed prostitution on them, which should not happen nor ever occur.
+You took some of your garments to make gaudy high places, where you carried on your prostitution. Such things should not happen, nor should they occur.
 
 ## Ezekiel 16:17
-
-You also took your beautiful jewellery made of My gold and My silver, which I had given you, and made for yourself male images so that you might commit prostitution with them.
+You also took the fine jewellery I gave you, made of my gold and silver, and you made male images and engaged in prostitution with them.
 
 ## Ezekiel 16:18
-
-Then you took your embroidered cloth and covered them, and offered My oil and My incense before them.
+And you took your embroidered clothes to put on them, and you offered my oil and incense before them.
 
 ## Ezekiel 16:19
-
-Also My bread which I gave you, fine flour, oil, and honey with which I fed you, you offered before them as a soothing aroma; so it happened,” declares the Lord God.
+Also the food I provided for you—the fine flour, olive oil, and honey I gave you to eat—you offered as a soothing aroma before them. That is what happened, declares the Sovereign Lord.
 
 ## Ezekiel 16:20
-
-“Moreover, you took your sons and daughters whom you had borne to Me and sacrificed them to idols to be devoured. Were your obscene practices not enough?
+“‘Moreover, you took your sons and daughters whom you bore to me and sacrificed them to idols to be devoured. Were your obscene practices not enough?
 
 ## Ezekiel 16:21
-
-You slaughtered My children and offered them to idols by making them pass through the fire.
+You slaughtered my children and offered them to idols by making them pass through the fire.
 
 ## Ezekiel 16:22
-
-And besides all your abominations and prostitution, you did not remember the days of your youth, when you were naked and bare and squirming in your blood.
+In all your abominable practices and your prostitution, you did not remember the days of your youth, when you were naked and bare, squirming in your blood.
 
 ## Ezekiel 16:23
-
-Then it came about after all your wickedness (‘Woe, woe to you!’ declares the Lord God),
+“‘Woe! Woe to you, declares the Sovereign Lord. In addition to all your wickedness,
 
 ## Ezekiel 16:24
-
-That you built yourself a shrine and made yourself a high place in every public square.
+you built a mound for yourself and made a high place in every public square.
 
 ## Ezekiel 16:25
-
-You built your high places at the beginning of every street and made your beauty abominable; and you spread your legs to every passer-by to multiply your obscene practice.
+At every street corner, you built your high places and degraded your beauty, spreading your legs with increasing promiscuity to every passer-by.
 
 ## Ezekiel 16:26
-
-You also committed prostitution with the Egyptians, your lustful neighbours, and multiplied your obscene practices to provoke Me to anger.
+You engaged in prostitution with the Egyptians, your lustful neighbours, and provoked me to anger with your increasing promiscuity.
 
 ## Ezekiel 16:27
-
-Therefore, behold, I have stretched out My hand against you and diminished your food supply, and I delivered you to the desire of those who hate you, the daughters of the Philistines, who are ashamed of your indecent conduct.
+So I stretched out my hand against you and reduced your territory; I gave you over to the greed of your enemies, the daughters of the Philistines, who were ashamed of your lewd conduct.
 
 ## Ezekiel 16:28
-
-You also committed prostitution with the Assyrians because you were not satisfied; you committed prostitution with them and still were not satisfied.
+You engaged in prostitution with the Assyrians too, because you were insatiable; and even after that, you still were not satisfied.
 
 ## Ezekiel 16:29
-
-You multiplied your obscene practices with the land of the merchants, Chaldea, and yet even with this you were not satisfied.”'
+Then you increased your promiscuity to include Babylonia, a land of merchants, but even with this, you were not satisfied.
 
 ## Ezekiel 16:30
-
-“How miserable is your heart,” declares the Lord God, “when you do all these things, the actions of a shameless prostitute!
+“‘How feverish is your heart, declares the Sovereign Lord, when you do all these things, acting like a brazen prostitute!
 
 ## Ezekiel 16:31
-
-When you built your shrine at the beginning of every street and made your high place in every public square, yet you were not like a prostitute, because you scorned payment.
+When you built your mounds at every street corner and made your high places in every public square, you were unlike a prostitute because you scorned payment.
 
 ## Ezekiel 16:32
-
-You adulterous wife, who takes strangers instead of her husband!
+“‘You adulterous wife, who prefers strangers to her own husband!
 
 ## Ezekiel 16:33
-
-Men give gifts to all prostitutes, but you give your gifts to all your lovers to bribe them to come to you from every direction for your obscene practices.
+All prostitutes receive gifts, but you give gifts to all your lovers, bribing them to come to you from everywhere for your obscene practices.
 
 ## Ezekiel 16:34
-
-So you are different from those women in your obscene practices, in that no one plays the prostitute as you do, because you give payment and no payment is given to you; so you are the opposite.”
+So in your prostitution, you are the opposite of others; no one runs after you for your favours. You are the very opposite, for you give payment and none is given to you.
 
 ## Ezekiel 16:35
-
-Therefore, prostitute, hear the word of the Lord.
+“‘Therefore, you prostitute, hear the word of the Lord!
 
 ## Ezekiel 16:36
-
-This is what the Lord God says: “Because your lewdness was poured out and your nakedness exposed through your obscene practices with your lovers and with all your detestable idols, and because of the blood of your children that you gave to them,
+This is what the Sovereign Lord says: Because your lewdness was poured out and your nakedness exposed in your promiscuity with your lovers and with all your detestable idols, and because of the blood of your children you gave to them,
 
 ## Ezekiel 16:37
-
-Therefore, behold, I am going to gather all your lovers whom you pleased, all those whom you loved and all whom you hated. So I will gather them against you from every direction and expose your nakedness to them so that they may see all your nakedness.
+therefore I am going to gather all your lovers, with whom you found pleasure, those you loved as well as those you hated. I will gather them against you from every direction and will expose your nakedness to them, so they may see all your nakedness.
 
 ## Ezekiel 16:38
-
-So I will judge you as women who commit adultery or shed blood are judged; and I will bring on you the blood of wrath and jealousy.
+I will judge you as women who commit adultery and shed blood are judged; I will bring upon you the blood vengeance of my wrath and jealousy.
 
 ## Ezekiel 16:39
-
-I will also hand you over to them, and they will tear down your shrines, demolish your high places, strip you of your clothing, take your beautiful jewellery, and leave you naked and bare.
+Then I will deliver you into the hands of your lovers, and they will tear down your mounds and destroy your high places. They will strip you of your clothes and take your fine jewellery and leave you naked and bare.
 
 ## Ezekiel 16:40
-
-They will incite a crowd against you, and they will stone you and cut you to pieces with their swords.
+They will incite a mob against you, who will stone you and hack you to pieces with their swords.
 
 ## Ezekiel 16:41
-
-They will burn your houses with fire and execute judgments on you in the sight of many women. Then I will put an end to your obscene practice, and you will no longer pay your lovers.
+They will burn down your houses and execute judgments on you in the sight of many women. I will put an end to your prostitution, and you will no longer pay your lovers.
 
 ## Ezekiel 16:42
-
-So I will satisfy My wrath against you, and My jealousy will leave you; I will be pacified and no longer be angry.
+Then my wrath against you will subside, and my jealousy will turn away from you; I will be calm and no longer angry.
 
 ## Ezekiel 16:43
-
-Because you have not remembered the days of your youth but have enraged Me by all these things, behold, I in turn will bring your conduct down on your own head,” declares the Lord God, “so that you will not commit this outrageous sin in addition to all your other abominations.
+“‘Because you did not remember the days of your youth but enraged me with all these things, I will surely bring down on your head what you have done, declares the Sovereign Lord. Did you not add lewdness to all your other abominable practices?
 
 ## Ezekiel 16:44
-
-Behold, everyone who quotes proverbs will quote this proverb against you, saying, ‘Like mother, like daughter.’
+“‘Everyone who quotes proverbs will quote this proverb about you: “Like mother, like daughter.”
 
 ## Ezekiel 16:45
-
-You are the daughter of your mother, who loathed her husband and children. You are also the sister of your sisters, who loathed their husbands and children. Your mother was a Hittite and your father an Amorite.
+You are the daughter of your mother, who loathed her husband and children; and you are the sister of your sisters, who loathed their husbands and children. Your mother was a Hittite and your father an Amorite.
 
 ## Ezekiel 16:46
-
-Now your older sister is Samaria, who lives north of you with her daughters; and your younger sister, who lives south of you, is Sodom with her daughters.
+Your elder sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom.
 
 ## Ezekiel 16:47
-
-Yet you have not merely walked in their ways or committed their abominations; but, as if that were too little, you acted more corruptly in all your conduct than they.
+You not only followed their ways and committed their abominations, but in all your ways you soon became more depraved than they.
 
 ## Ezekiel 16:48
-
-As I live,” declares the Lord God, “Sodom, your sister, and her daughters have not done as you and your daughters have done.
+As surely as I live, declares the Sovereign Lord, your sister Sodom and her daughters never did what you and your daughters have done.
 
 ## Ezekiel 16:49
-
-Behold, this was the guilt of your sister Sodom: arrogance, abundant food, and careless ease had been hers and her daughters’; yet she did not help the poor and needy.
+“‘Now this was the sin of your sister Sodom: She and her daughters were arrogant, overfed, and unconcerned; they did not help the poor and needy.
 
 ## Ezekiel 16:50
-
-So they were haughty and committed abominations before Me. Therefore I removed them when I saw it.
+They were haughty and did detestable things before me. Therefore I did away with them as you have seen.
 
 ## Ezekiel 16:51
-
-Furthermore, Samaria has not committed even half of your sins, for you have multiplied your abominations beyond theirs. So you have made your sisters appear righteous by all your abominations which you have committed.
+Samaria did not commit half the sins you did. You have done more abominable things than they, and have made your sisters seem righteous by all these things you have done.
 
 ## Ezekiel 16:52
-
-Also, bear your disgrace, in that you have made judgment favourable for your sisters. Because of your sins in which you acted more abominably than they, they are more in the right than you. So be ashamed also, and bear your disgrace, since you made your sisters appear righteous.
+Bear your disgrace, for you have furnished some justification for your sisters. Because your sins were more vile than theirs, they appear more righteous than you. So then, be ashamed and bear your disgrace, for you have made your sisters appear righteous.
 
 ## Ezekiel 16:53
-
-“Nevertheless, I will restore their captivity, the captivity of Sodom and her daughters, the captivity of Samaria and her daughters, and along with them your own captivity,
+“‘Nevertheless, I will restore the fortunes of Sodom and her daughters and of Samaria and her daughters, and your fortunes along with them,
 
 ## Ezekiel 16:54
-
-So that you will bear your disgrace and feel ashamed for all that you have done when you become a consolation to them.
+so that you may bear your disgrace and be ashamed of all you have done in giving them comfort.
 
 ## Ezekiel 16:55
-
-Your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state, and you with your daughters will also return to your former state.
+And your sisters, Sodom with her daughters and Samaria with her daughters, will return to what they were before; and you and your daughters will return to what you were before.
 
 ## Ezekiel 16:56
-
-As for your sister Sodom, was she not mentioned by your mouth in the day of your pride,
+You would not even mention your sister Sodom in the day of your pride,
 
 ## Ezekiel 16:57
-
-Before your wickedness was uncovered? So now you have become a disgrace to the daughters of Aram and all those around her, and to the daughters of the Philistines—those all around you who despise you.
+before your wickedness was uncovered. So now you are scorned by the daughters of Edom and all her neighbours and the daughters of the Philistines—all those around you who despise you.
 
 ## Ezekiel 16:58
-
-You have suffered the penalty of your outrageous sin and abominations,” the Lord declares.
+You will bear the consequences of your lewdness and your abominable practices, declares the Lord.
 
 ## Ezekiel 16:59
-
-For this is what the Lord God says: “I will also do with you as you have done, you who have despised the oath by breaking the covenant.
+“‘This is what the Sovereign Lord says: I will deal with you as you deserve, because you have despised my oath by breaking the covenant.
 
 ## Ezekiel 16:60
-
-Nevertheless, I will remember My covenant with you in the days of your youth, and I will establish an everlasting covenant with you.
+Yet I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you.
 
 ## Ezekiel 16:61
-
-Then you will remember your ways and be ashamed when you receive your sisters, both your older and your younger; and I will give them to you as daughters, but not because of your covenant.
+Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not on the basis of my covenant with you.
 
 ## Ezekiel 16:62
-
-So I will establish My covenant with you, and you will know that I am the Lord,
+So I will establish my covenant with you, and you will know that I am the Lord.
 
 ## Ezekiel 16:63
-
-So that you may remember and be ashamed, and never open your mouth again because of your disgrace, when I have forgiven you for all that you have done,” the Lord God declares.
+Then, when I have made atonement for you for all you have done, you will remember and be ashamed and never again open your mouth because of your humiliation, declares the Sovereign Lord.’”

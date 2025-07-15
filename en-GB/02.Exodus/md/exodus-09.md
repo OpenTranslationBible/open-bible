@@ -1,141 +1,106 @@
 # Exodus Chapter 9
 
 ## Exodus 9:1
-
-Then the Lord said to Moses, “Go to Pharaoh and speak to him, ‘This is what the Lord, the God of the Hebrews says: “Let My people go, so that they may serve Me.
+Then the Lord said to Moses, “Go to Pharaoh and tell him, ‘This is what the Lord, the God of the Hebrews, declares: “Release my people, so that they may serve me.”
 
 ## Exodus 9:2
-
-For if you refuse to let them go and continue to hold them,
+If you refuse to let them go and continue to restrain them,
 
 ## Exodus 9:3
-
-Behold, the hand of the Lord will come with a very severe plague on your livestock which are in the field, on the horses, the donkeys, the camels, the herds, and the flocks.
+behold, the hand of the Lord will bring a severe plague upon your livestock in the field—upon the horses, donkeys, camels, cattle, sheep, and goats.
 
 ## Exodus 9:4
-
-But the Lord will make a distinction between the livestock of Israel and the livestock of Egypt, so that nothing will die of all that belongs to the sons of Israel.”’”
+However, the Lord will make a distinction between the livestock of Israel and that of Egypt, so that no animal belonging to the Israelites will perish.’”
 
 ## Exodus 9:5
-
-And the Lord set a definite time, saying, “Tomorrow the Lord will do this thing in the land.”
+The Lord set a specific time, saying, “Tomorrow the Lord will carry out this action in the land.”
 
 ## Exodus 9:6
-
-So the Lord did this thing on the next day, and all the livestock of Egypt died; but not one of the livestock of the sons of Israel died.
+And the following day, the Lord did so: all the livestock of the Egyptians perished, but not a single animal belonging to the Israelites died.
 
 ## Exodus 9:7
-
-And Pharaoh sent men, and behold, not even one of the livestock of Israel had died. But the heart of Pharaoh was hardened, and he did not let the people go.
+Pharaoh sent men to investigate and discovered that not even one of the livestock of the Israelites had died. Yet Pharaoh's heart remained hardened, and he did not release the people.
 
 ## Exodus 9:8
-
-Then the Lord said to Moses and Aaron, “Take handfuls of soot from a kiln, and let Moses throw it toward the sky in the sight of Pharaoh.
+Then the Lord instructed Moses and Aaron, “Take handfuls of soot from a kiln, and let Moses throw it into the air in Pharaoh’s presence.
 
 ## Exodus 9:9
-
-And it will become fine dust over all the land of Egypt, and will turn into boils breaking out with sores on every person and animal throughout all the land of Egypt.”
+It will become fine dust over all the land of Egypt, causing boils to break out with sores on people and animals throughout the land.”
 
 ## Exodus 9:10
-
-So they took soot from a kiln and stood before Pharaoh; and Moses threw it toward the sky, and it became boils with sores breaking out on people and animals.
+So they took soot from a kiln and stood before Pharaoh. Moses tossed it into the air, and boils broke out with sores on people and animals.
 
 ## Exodus 9:11
-
 The magicians could not stand before Moses because of the boils, for the boils were on the magicians as well as on all the Egyptians.
 
 ## Exodus 9:12
-
-But the Lord hardened Pharaoh’s heart, and he did not listen to them, just as the Lord had spoken to Moses.
+But the Lord hardened Pharaoh’s heart, and he did not listen to Moses and Aaron, just as the Lord had foretold to Moses.
 
 ## Exodus 9:13
-
-Then the Lord said to Moses, “Get up early in the morning and stand before Pharaoh and say to him, ‘This is what the Lord, the God of the Hebrews says: “Let My people go, so that they may serve Me.
+Then the Lord said to Moses, “Rise early in the morning and stand before Pharaoh, and say to him, ‘This is what the Lord, the God of the Hebrews, declares: “Let my people go, so that they may serve me,
 
 ## Exodus 9:14
-
-For this time I am going to send all My plagues on you and your servants and your people, so that you may know that there is no one like Me in all the earth.
+or this time I will send the full force of my plagues against you, your officials, and your people, so that you may know that there is no one like me in all the earth.
 
 ## Exodus 9:15
-
-For if by now I had put forth My hand and struck you and your people with plague, you would then have been wiped out from the earth.
+For by now I could have stretched out my hand and struck you and your people with a plague that would have wiped you from the earth.
 
 ## Exodus 9:16
-
-But, indeed, for this reason I have allowed you to remain: to show you My power, and to proclaim My name throughout the earth.
+But I have allowed you to remain for this purpose: to show you my power and to have my name proclaimed throughout the earth.
 
 ## Exodus 9:17
-
-Still you exalt yourself against My people by not letting them go.
+You still exalt yourself against my people by not letting them go.
 
 ## Exodus 9:18
-
-Behold, about this time tomorrow, I will send a very heavy hail, such as has not been seen in Egypt from the day it was founded until now.
+Therefore, at this time tomorrow, I will send the worst hailstorm that has ever fallen on Egypt, from the day it was founded until now.
 
 ## Exodus 9:19
-
-So now, send word, bring your livestock and whatever you have in the field to safety. Every person and animal that is found in the field and is not brought home, when the hail comes down on them, will die.”’”
+Issue a command now to bring your livestock and everything you have in the field to a place of shelter, for the hail will fall on every person and animal that is found in the field and is not brought inside, and they will die.’”
 
 ## Exodus 9:20
-
-Everyone among the servants of Pharaoh who feared the word of the Lord hurried to bring his servants and his livestock into the houses;
+Those among Pharaoh’s officials who feared the word of the Lord hurried to bring their servants and their livestock indoors.
 
 ## Exodus 9:21
-
-But everyone who did not pay attention to the word of the Lord left his servants and his livestock in the field.
+But those who disregarded the word of the Lord left their servants and livestock in the field.
 
 ## Exodus 9:22
-
-Now the Lord said to Moses, “Reach out with your hand toward the sky, so that hail may fall on all the land of Egypt, on people, animals, and every plant of the field, throughout the land of Egypt.”
+Then the Lord said to Moses, “Stretch out your hand toward the sky, so that hail will fall across all of Egypt—on people, animals, and every plant in the fields of Egypt.”
 
 ## Exodus 9:23
-
-So Moses reached out with his staff toward the sky, and the Lord sent thunder and hail, and fire ran down to the earth. And the Lord rained hail on the land of Egypt.
+When Moses stretched out his staff toward the sky, the Lord sent thunder and hail, and fire ran down to the earth. Thus, the Lord rained hail upon the land of Egypt.
 
 ## Exodus 9:24
-
-So there was hail, and fire flashing continually in the midst of the hail, very severe, such as had not occurred in all the land of Egypt since it became a nation.
+There was hail, and fire flashing continuously amidst the hail, the heaviest storm Egypt had witnessed since it became a nation.
 
 ## Exodus 9:25
-
-The hail struck everything that was in the field through all the land of Egypt, both people and animals; the hail also struck every plant of the field and shattered every tree of the field.
+Throughout Egypt, the hail struck everything in the fields—both people and animals; it beat down every plant and shattered every tree.
 
 ## Exodus 9:26
-
-Only in the land of Goshen, where the sons of Israel were, there was no hail.
+The only place it did not hail was in the land of Goshen, where the Israelites resided.
 
 ## Exodus 9:27
-
-Then Pharaoh sent for Moses and Aaron and said to them, “I have sinned this time; the Lord is the righteous one, and I and my people are the wicked ones.
+Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said to them. “The Lord is in the right, and I and my people are in the wrong.
 
 ## Exodus 9:28
-
-Plead with the Lord, for there has been enough of God’s thunder and hail; and I will let you go, and you shall stay no longer.”
+Plead with the Lord, for there has been enough of God’s thunder and hail. I will let you go; you do not have to stay any longer.”
 
 ## Exodus 9:29
-
-Moses said to him, “As soon as I go out of the city, I will spread out my hands to the Lord; the thunder will cease and there will no longer be hail, so that you may know that the earth belongs to the Lord.
+Moses replied, “As soon as I leave the city, I will spread out my hands to the Lord; the thunder will cease and there will be no more hail, so that you may know that the earth is the Lord’s.
 
 ## Exodus 9:30
-
-But as for you and your servants, I know that you do not yet fear the Lord God.”
+But I know that you and your officials still do not fear the Lord God.”
 
 ## Exodus 9:31
-
-Now the flax and the barley were ruined, for the barley was in the ear and the flax was in bud.
+(The flax and barley were ruined, since the barley was in ear and the flax was in bloom.
 
 ## Exodus 9:32
-
-But the wheat and the spelt were not ruined, because they ripen late.
+But the wheat and spelt were not destroyed, because they ripen later.)
 
 ## Exodus 9:33
-
-So Moses left the city from his meeting with Pharaoh, and spread out his hands to the Lord; and the thunder and the hail ceased, and rain no longer poured on the earth.
+Then Moses left Pharaoh and went out of the city. He spread out his hands to the Lord; the thunder and hail ceased, and the rain no longer poured down on the earth.
 
 ## Exodus 9:34
-
-But when Pharaoh saw that the rain, the hail, and the thunder had ceased, he sinned again and hardened his heart, he and his servants.
+When Pharaoh saw that the rain, hail, and thunder had stopped, he sinned again: he and his officials hardened their hearts.
 
 ## Exodus 9:35
-
-So Pharaoh’s heart was hardened, and he did not let the sons of Israel go, just as the Lord had spoken through Moses.
+So Pharaoh’s heart was hardened, and he did not let the Israelites go, just as the Lord had spoken through Moses.

@@ -1,131 +1,130 @@
 # Exodus Chapter 28
 
 ## Exodus 28:1
-Bring your brother Aaron, along with his sons Nadab, Abihu, Eleazar, and Ithamar, so they may serve Me as priests.
+“Bring your brother Aaron to you, along with his sons Nadab, Abihu, Eleazar, and Ithamar, from among the Israelites, so that they may serve as priests to Me.
 
 ## Exodus 28:2
-Make sacred garments for Aaron to give him dignity and honour.
+Create sacred garments for your brother Aaron, for glory and beauty.
 
 ## Exodus 28:3
-Instruct all skilled workers whom I have given ability, that they are to make garments for Aaron to consecrate him as priest.
+Speak to all the skilled artisans whom I have endowed with wisdom, that they are to make Aaron's garments to consecrate him, so he may serve as priest to Me.
 
 ## Exodus 28:4
-These are the garments they shall make: a breastpiece, an ephod, a robe, a tunic with a woven pattern, a turban, and a sash. They are to make these garments for Aaron and his sons to serve Me as priests.
+These are the garments they shall make: a breastpiece, an ephod, a robe, a tunic of checkered work, a turban, and a sash. They shall make these holy garments for Aaron and his sons, so they may serve as priests to Me.
 
 ## Exodus 28:5
-They shall use gold, and blue, purple, and scarlet yarn, and fine linen.
+They shall use gold, violet, purple, scarlet yarn, and fine linen.
 
 ## Exodus 28:6
-Make the ephod of gold, blue, purple, and scarlet yarn, and fine linen, skillfully woven.
+“They shall make the ephod of gold, violet, purple, and scarlet yarn, and finely twisted linen, the work of skilled hands.
 
 ## Exodus 28:7
-It must have two shoulder pieces joined together at the two edges.
+It shall have two shoulder pieces attached to its two corners so that it can be fastened.
 
 ## Exodus 28:8
-Its waistband is to be made in the same style and attached, using the same materials as the ephod itself.
+The skilfully woven waistband shall be of the same workmanship, of gold, violet, purple, and scarlet yarn, and finely twisted linen.
 
 ## Exodus 28:9
-Take two onyx stones and engrave on them the names of the sons of Israel,
+“Take two onyx stones and engrave on them the names of the sons of Israel,
 
 ## Exodus 28:10
-six names on one stone and the other six on the second stone, in the order of birth.
+six names on one stone, and the remaining six on the other, according to their birth order.
 
 ## Exodus 28:11
-Engrave the stones like a seal and mount them in gold settings.
+Engrave the names of the sons of Israel on the two stones as a jeweller engraves a seal, and mount them in gold filigree settings.
 
 ## Exodus 28:12
-Attach the stones to the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron is to carry their names before the Lord on his shoulders.
+Attach the stones to the shoulder pieces of the ephod as memorial stones for the sons of Israel. Aaron shall bear their names on his shoulders as a memorial before the Lord.
 
 ## Exodus 28:13
-Make gold settings
+Make gold filigree settings
 
 ## Exodus 28:14
-and two braided chains of pure gold like cords, and fasten the chains to the settings.
+and two braided chains of pure gold, like a rope, and attach these chains to the settings.
 
 ## Exodus 28:15
-Make a breastpiece for making decisions, similar in workmanship to the ephod: gold, blue, purple, and scarlet yarn, and fine linen.
+“Fashion a breastpiece for making decisions, the work of skilled hands. Make it like the ephod: of gold, violet, purple, and scarlet yarn, and finely twisted linen.
 
 ## Exodus 28:16
-It is to be square, folded double, a span long and a span wide.
+It shall be square, a span long and a span wide, and folded double.
 
 ## Exodus 28:17
-Mount four rows of stones on it. The first row: carnelian, chrysolite, and beryl;
+Mount four rows of precious stones on it. The first row shall be ruby, topaz, and emerald;
 
 ## Exodus 28:18
-second row: turquoise, lapis lazuli, and emerald;
+the second row shall be turquoise, sapphire, and diamond;
 
 ## Exodus 28:19
-third row: jacinth, agate, and amethyst;
+the third row shall be jacinth, agate, and amethyst;
 
 ## Exodus 28:20
-fourth row: topaz, onyx, and jasper. Mount them in gold settings.
+and the fourth row shall be beryl, onyx, and jasper. Set them in gold filigree.
 
 ## Exodus 28:21
-Each of the twelve stones is to represent one of the tribes of Israel, engraved like a seal with the name of one tribe.
+There shall be twelve stones, one for each of the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.
 
 ## Exodus 28:22
-Make chains of pure gold, twisted like cords, for the breastpiece.
+“For the breastpiece, make braided chains of pure gold, like a rope.
 
 ## Exodus 28:23
-Make two gold rings for the breastpiece and attach them to its top corners.
+Make two gold rings for it and attach them to the two corners of the breastpiece.
 
 ## Exodus 28:24
-Fasten the two gold cords to the rings at the corners of the breastpiece,
+Attach the two gold chains to the rings at the corners of the breastpiece,
 
 ## Exodus 28:25
-and the other ends of the cords to the gold settings on the shoulder pieces of the ephod.
+and the other ends of the chains to the two settings, fastening them to the shoulder pieces of the ephod at the front.
 
 ## Exodus 28:26
-Make two more gold rings and attach them to the bottom corners of the breastpiece on the inside edge.
+Make two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod.
 
 ## Exodus 28:27
-Then make two more rings for the ephod and fasten them low on the front, near the seam just above the waistband.
+Make two more gold rings and attach them to the bottom of the shoulder pieces of the ephod, at the front, close to the seam above the waistband of the ephod.
 
 ## Exodus 28:28
-Tie the breastpiece securely with blue cord to the rings of the ephod, so it rests above the waistband and does not swing loose.
+The rings of the breastpiece are to be tied to the rings of the ephod with a violet cord, so that it is on the waistband and the breastpiece does not swing out from the ephod.
 
 ## Exodus 28:29
-Whenever Aaron enters the Holy Place, he will carry the names of the sons of Israel on the breastpiece over his heart, as a continual memorial before the Lord.
+Whenever Aaron enters the Holy Place, he shall bear the names of the sons of Israel on the breastpiece of decision over his heart as a continual memorial before the Lord.
 
 ## Exodus 28:30
-Place the Urim and Thummim in the breastpiece, so they will be over Aaron’s heart when he enters the Lord’s presence. He will always bear the means of decision for the Israelites over his heart.
+Place the Urim and Thummim in the breastpiece of decision, so they may be over Aaron’s heart whenever he enters the presence of the Lord. Thus Aaron shall always bear the means of making decisions for the Israelites over his heart before the Lord.
 
 ## Exodus 28:31
-Make the robe of the ephod entirely of blue cloth.
+“Make the robe of the ephod entirely of violet cloth,
 
 ## Exodus 28:32
-There must be an opening for the head in its centre, with a reinforced edge like a collar to prevent tearing.
+with an opening for the head in the centre. There shall be a woven edge like a collar around this opening, so that it will not tear.
 
 ## Exodus 28:33
-Make pomegranates of blue, purple, and scarlet yarn around the hem, with gold bells between them.
+Make pomegranates of violet, purple, and scarlet yarn around the hem of the robe, with gold bells between them.
 
 ## Exodus 28:34
-Alternate the gold bells and the pomegranates around the hem of the robe.
+A golden bell and a pomegranate, a golden bell and a pomegranate, all around the hem of the robe.
 
 ## Exodus 28:35
-Aaron must wear it when he ministers, so the sound of the bells will be heard as he enters and leaves the Holy Place before the Lord, and he will not die.
+Aaron must wear it when he ministers, so that the sound of the bells will be heard when he enters and leaves the Holy Place before the Lord, so that he will not die.
 
 ## Exodus 28:36
-Make a plate of pure gold and engrave on it like a seal: HOLY TO THE LORD.
+“Make a plate of pure gold and engrave on it, as on a seal: ‘Holy to the Lord.’
 
 ## Exodus 28:37
-Fasten it with a blue cord to the turban; it is to be worn on the front.
+Fasten a violet cord to it to attach it to the turban; it is to be on the front of the turban.
 
 ## Exodus 28:38
-It will be on Aaron’s forehead continually, so that he may bear the guilt connected with the sacred offerings. The offering will be acceptable to the Lord.
+It shall be on Aaron’s forehead, and Aaron shall bear the guilt involved in the sacred gifts the Israelites consecrate, whatever their gifts may be. It shall always be on his forehead, so that they may be acceptable before the Lord.
 
 ## Exodus 28:39
-Weave the tunic of fine linen, and make the turban also of fine linen. The sash is to be skillfully embroidered.
+“Weave the tunic of checkered work of fine linen, make a turban of fine linen, and a sash, the work of a weaver.
 
 ## Exodus 28:40
-Make tunics, sashes, and caps for Aaron’s sons, to give them dignity and honour.
+Make tunics, sashes, and caps for Aaron’s sons, for glory and beauty.
 
 ## Exodus 28:41
-After putting these garments on Aaron and his sons, anoint and ordain them, and consecrate them to serve Me as priests.
+After you put these garments on your brother Aaron and his sons, anoint, ordain, and consecrate them, so they may serve as priests to Me.
 
 ## Exodus 28:42
-Make linen undergarments covering from waist to thigh, to be worn whenever they enter the tent of meeting or approach the altar.
+Make linen undergarments to cover their nakedness, reaching from the waist to the thighs.
 
 ## Exodus 28:43
-These garments must always be worn, or they will bear guilt and die. This is a lasting ordinance for Aaron and his descendants.
-
+Aaron and his sons must wear them whenever they enter the tent of meeting or approach the altar to minister in the Holy Place, so that they do not incur guilt and die. This shall be a lasting ordinance for Aaron and his descendants.

@@ -2,135 +2,115 @@
 
 ## Acts 15:1
 
-Some men came down from Judea and began teaching the brothers,  
-“Unless you are circumcised according to the custom of Moses, you cannot be saved.”
+Some individuals came down from Judea to Antioch and began instructing the believers, “Unless you are circumcised according to the custom taught by Moses, you cannot be saved.”
 
 ## Acts 15:2
 
-And after Paul and Barnabas had a heated argument and debate with them,  
-the brothers determined that Paul and Barnabas and some others of them should go up to Jerusalem  
-to the apostles and elders concerning this issue.
+This led to a sharp dispute and debate between Paul and Barnabas and these individuals. Consequently, Paul and Barnabas, along with some other believers, were appointed to go up to Jerusalem to consult the apostles and elders about this matter.
 
 ## Acts 15:3
 
-Therefore, after being sent on their way by the church,  
-they were passing through both Phoenicia and Samaria,  
-describing in detail the conversion of the Gentiles,  
-and they were bringing great joy to all the brothers and sisters.
+The church sent them on their way, and as they travelled through Phoenicia and Samaria, they recounted in detail the conversion of the Gentiles, bringing great joy to all the believers.
 
 ## Acts 15:4
 
-When they arrived in Jerusalem, they were received by the church, the apostles, and the elders,  
-and they reported all that God had done with them.
+Upon their arrival in Jerusalem, they were welcomed by the church, the apostles, and the elders, and they reported all that God had accomplished through them.
 
 ## Acts 15:5
 
-But some of the sect of the Pharisees who had believed stood up, saying,  
-“It is necessary to circumcise them and to direct them to keep the Law of Moses.”
+However, some believers from the sect of the Pharisees stood up and declared, “The Gentiles must be circumcised and instructed to keep the law of Moses.”
 
 ---
 
 ## Acts 15:6
 
-The apostles and the elders came together to look into this matter.
+The apostles and elders convened to deliberate on this issue.
 
 ## Acts 15:7
 
-After there had been much debate, Peter stood up and said to them,  
-“Brothers, you know that in the early days God made a choice among you,  
-that by my mouth the Gentiles would hear the word of the gospel and believe.
+After much discussion, Peter rose and addressed them: “Brothers, you know that some time ago God made a choice among you that the Gentiles might hear the message of the gospel from my lips and believe.
 
 ## Acts 15:8
 
-And God, who knows the heart, testified to them giving them the Holy Spirit, just as He also did to us;
+God, who knows the heart, testified by giving them the Holy Spirit, just as He did to us.
 
 ## Acts 15:9
 
-and He made no distinction between us and them, cleansing their hearts by faith.
+He made no distinction between us and them, cleansing their hearts by faith.
 
 ## Acts 15:10
 
-Since this is the case, why are you putting God to the test  
-by placing upon the neck of the disciples a yoke that neither our forefathers nor we have been able to bear?
+So why are you testing God by placing on the necks of the disciples a yoke that neither our ancestors nor we have been able to bear?
 
 ## Acts 15:11
 
-But we believe that we are saved through the grace of the Lord Jesus, in the same way as they also are.”
+No, we believe it is through the grace of our Lord Jesus that we are saved, just as they are.”
 
 ---
 
 ## Acts 15:12
 
-All the people kept silent, and they were listening to Barnabas and Paul  
-as they were relating all the signs and wonders that God had done through them among the Gentiles.
+The entire assembly became silent as they listened to Barnabas and Paul describing the signs and wonders God had performed among the Gentiles through them.
 
 ## Acts 15:13
 
-After they stopped speaking, James responded, saying,  
-“Brothers, listen to me.
+When they finished, James spoke up: “Brothers, listen to me.
 
 ## Acts 15:14
 
-Simeon has described how God first concerned Himself about taking a people for His name from among the Gentiles.
+Simeon has explained how God first intervened to select a people for His name from among the Gentiles.
 
 ## Acts 15:15
 
-The words of the Prophets agree with this, just as it is written:
+The words of the prophets are in agreement with this, as it is written:
 
 ## Acts 15:16
 
-> ‘After these things I will return,  
-> And I will rebuild the fallen tent of David,  
-> And I will rebuild its ruins,  
-> And I will restore it,
+> ‘After this I will return
+> and rebuild David’s fallen tent.
+> Its ruins I will rebuild,
+> and I will restore it,
 
 ## Acts 15:17
 
-> So that the rest of mankind may seek the Lord,  
-> And all the Gentiles who are called by My name,’
+> so that the rest of mankind may seek the Lord,
+> including all the Gentiles who bear my name,’
 
 ## Acts 15:18
 
-> Says the Lord, who makes these things known from long ago.
+> says the Lord, who has made these things known from long ago.
 
 ---
 
 ## Acts 15:19
 
-Therefore, it is my judgment that we do not cause trouble for those from the Gentiles who are turning to God,
+Therefore, it is my judgement that we should not trouble the Gentiles who are turning to God,
 
 ## Acts 15:20
 
-but that we write to them that they abstain from things contaminated by idols,  
-from sexual immorality, from what has been strangled, and from blood.
+but instead we should write to them, instructing them to abstain from food polluted by idols, from sexual immorality, from the meat of strangled animals, and from blood.
 
 ## Acts 15:21
 
-For from ancient generations Moses has those who preach him in every city,  
-since he is read in the synagogues every Sabbath.”
+For the law of Moses has been preached in every city from ancient times and is read in the synagogues on every Sabbath.”
 
 ---
 
 ## Acts 15:22
 
-Then it seemed good to the apostles and the elders, with the whole church,  
-to choose men from among them to send to Antioch with Paul and Barnabas:  
-Judas who was called Barsabbas, and Silas, leading men among the brothers,
+Then it seemed good to the apostles and elders, with the whole church, to choose some of their own men and send them to Antioch with Paul and Barnabas. They selected Judas, called Barsabbas, and Silas, leading men among the believers.
 
 ## Acts 15:23
 
-and they sent this letter with them:  
-“The apostles and the brothers who are elders,  
-To the brothers and sisters in Antioch, Syria, and Cilicia who are from the Gentiles: Greetings.
+They sent the following letter with them: “The apostles and elders, your brothers, to the Gentile believers in Antioch, Syria, and Cilicia: Greetings.
 
 ## Acts 15:24
 
-Since we have heard that some of our number to whom we gave no instruction  
-have confused you by their teaching, upsetting your souls,
+We have heard that some went out from us without our authorisation and have disturbed you, unsettling your minds by what they said.
 
 ## Acts 15:25
 
-it seemed good to us, having become of one mind, to select men to send to you with our beloved Barnabas and Paul,
+So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul—
 
 ## Acts 15:26
 
@@ -138,36 +118,33 @@ men who have risked their lives for the name of our Lord Jesus Christ.
 
 ## Acts 15:27
 
-Therefore, we have sent Judas and Silas, who themselves will also report the same things by word of mouth.
+Therefore, we are sending Judas and Silas to confirm by word of mouth what we are writing.
 
 ## Acts 15:28
 
-For it seemed good to the Holy Spirit and to us  
-to lay upon you no greater burden than these essentials:
+It seemed good to the Holy Spirit and to us not to burden you with anything beyond these essential requirements:
 
 ## Acts 15:29
 
-that you abstain from things sacrificed to idols, from blood, from things strangled, and from sexual immorality;  
-if you keep yourselves free from such things, you will do well. Farewell.”
+You are to abstain from food sacrificed to idols, from blood, from the meat of strangled animals, and from sexual immorality. If you keep yourselves from these things, you will do well. Farewell.
 
 ---
 
 ## Acts 15:30
 
-So when they were sent away, they went down to Antioch;  
-and after gathering the congregation together, they delivered the letter.
+So the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter.
 
 ## Acts 15:31
 
-When they had read it, they rejoiced because of its encouragement.
+The people read it and rejoiced for its encouraging message.
 
 ## Acts 15:32
 
-Judas and Silas, also being prophets themselves, encouraged and strengthened the brothers and sisters with a lengthy message.
+Judas and Silas, who were also prophets, said much to encourage and strengthen the believers.
 
 ## Acts 15:33
 
-After they had spent time there, they were sent away from the brothers and sisters in peace to those who had sent them out.
+After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.
 
 ## Acts 15:34
 
@@ -175,33 +152,30 @@ After they had spent time there, they were sent away from the brothers and siste
 
 ## Acts 15:35
 
-But Paul and Barnabas stayed in Antioch, teaching and preaching the word of the Lord, with many others also.
+But Paul and Barnabas remained in Antioch, where they, along with many others, taught and preached the word of the Lord.
 
 ---
 
 ## Acts 15:36
 
-Now after some days Paul said to Barnabas,  
-“Let’s return and visit the brothers and sisters in every city in which we proclaimed the word of the Lord, and see how they are.”
+Some time later, Paul said to Barnabas, “Let us return and visit the believers in all the towns where we preached the word of the Lord and see how they are doing.”
 
 ## Acts 15:37
 
-Barnabas wanted to take John, called Mark, along with them also.
+Barnabas wanted to take John, also called Mark, with them.
 
 ## Acts 15:38
 
-But Paul was of the opinion that they should not take him along,  
-who had deserted them in Pamphylia and had not gone with them to the work.
+But Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work.
 
 ## Acts 15:39
 
-Now it turned into such a sharp disagreement that they separated from one another,  
-and Barnabas took Mark with him and sailed away to Cyprus.
+They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,
 
 ## Acts 15:40
 
-But Paul chose Silas and left after being entrusted by the brothers to the grace of the Lord.
+but Paul chose Silas and departed, commended by the believers to the grace of the Lord.
 
 ## Acts 15:41
 
-And he was travelling through Syria and Cilicia, strengthening the churches.
+He travelled through Syria and Cilicia, strengthening the churches.

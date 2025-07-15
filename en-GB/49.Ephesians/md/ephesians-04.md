@@ -2,132 +2,132 @@
 
 ## Ephesians 4:1
 
-Therefore I, the prisoner of the Lord, urge you to walk in a manner worthy of the calling with which you have been called,
+As a prisoner of the Lord, I urge you to conduct yourselves in a manner worthy of the calling you have received,
 
 ## Ephesians 4:2
 
-With all humility and gentleness, with patience, bearing with one another in love,
+with all humility and gentleness, with patience, bearing with one another in love.
 
 ## Ephesians 4:3
 
-Being diligent to keep the unity of the Spirit in the bond of peace.
+Make every effort to maintain the unity of the Spirit through the bond of peace.
 
 ## Ephesians 4:4
 
-There is one body and one Spirit, just as you also were called in one hope of your calling;
+There is one body and one Spirit, just as you were called to one hope when you were called;
 
 ## Ephesians 4:5
 
-One Lord, one faith, one baptism,
+one Lord, one faith, one baptism;
 
 ## Ephesians 4:6
 
-One God and Father of all who is over all and through all and in all.
+one God and Father of all, who is over all, through all, and in all.
 
 ## Ephesians 4:7
 
-But to each one of us grace was given according to the measure of Christ’s gift.
+But to each one of us grace has been given according to the measure of Christ’s gift.
 
 ## Ephesians 4:8
 
-Therefore it says,
+Therefore it says:
 
-> “When He ascended on high,  
-> He led captive the captives,  
-> And He gave gifts to people.”
+> “When he ascended on high,
+> he led captives in his train
+> and gave gifts to people.”
 
 ## Ephesians 4:9
 
-Now this expression, “He ascended,” what does it mean except that He also had descended into the lower parts of the earth?
+(Now this, “he ascended,” what does it mean but that he also descended to the lower, earthly regions?
 
 ## Ephesians 4:10
 
-He who descended is Himself also He who ascended far above all the heavens, so that He might fill all things.
+He who descended is the very one who ascended far above all the heavens, so that he might fill all things.)
 
 ## Ephesians 4:11
 
-And He gave some as apostles, some as prophets, some as evangelists, some as pastors and teachers,
+And he gave some to be apostles, some prophets, some evangelists, and some pastors and teachers,
 
 ## Ephesians 4:12
 
-For the equipping of the saints for the work of ministry, for the building up of the body of Christ;
+to equip the saints for the work of ministry, for building up the body of Christ,
 
 ## Ephesians 4:13
 
-Until we all attain to the unity of the faith, and of the knowledge of the Son of God, to a mature man, to the measure of the stature which belongs to the fullness of Christ.
+until we all reach unity in the faith and in the knowledge of the Son of God, to mature adulthood, to the full measure of the stature of Christ.
 
 ## Ephesians 4:14
 
-As a result, we are no longer to be children, tossed here and there by waves and carried about by every wind of doctrine, by the trickery of people, by craftiness in deceitful scheming;
+Then we will no longer be children, tossed to and fro by waves and carried about by every wind of doctrine, by the trickery of men, by craftiness in deceitful scheming.
 
 ## Ephesians 4:15
 
-But speaking the truth in love, we are to grow up in all aspects into Him who is the head, that is, Christ,
+Instead, speaking the truth in love, we will in all things grow up into him who is the head, that is, Christ.
 
 ## Ephesians 4:16
 
-From whom the whole body, being fitted and held together by what every joint supplies, according to the proper working of each individual part, causes the growth of the body for the building up of itself in love.
+From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.
 
 ## Ephesians 4:17
 
-So I say this, and affirm in the Lord, that you are to no longer walk just as the Gentiles also walk, in the futility of their minds,
+So I say this, and affirm in the Lord, that you must no longer live as the Gentiles do, in the futility of their thinking.
 
 ## Ephesians 4:18
 
-Being darkened in their understanding, excluded from the life of God, because of the ignorance that is in them, because of the hardness of their heart;
+They are darkened in their understanding and alienated from the life of God because of the ignorance that is in them, due to the hardness of their hearts.
 
 ## Ephesians 4:19
 
-And they, having become callous, have given themselves up to indecent behaviour for the practice of every kind of impurity with greediness.
+Having lost all sensitivity, they have given themselves over to sensuality, to indulge in every kind of impurity with greediness.
 
 ## Ephesians 4:20
 
-But you did not learn Christ in this way,
+But that is not the way you learned Christ,
 
 ## Ephesians 4:21
 
-If indeed you have heard Him and have been taught in Him, just as truth is in Jesus,
+if indeed you heard him and were taught in him, as the truth is in Jesus.
 
 ## Ephesians 4:22
 
-That, in reference to your former way of life, you are to rid yourselves of the old self, which is being corrupted in accordance with the lusts of deceit,
+You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires;
 
 ## Ephesians 4:23
 
-And that you are to be renewed in the spirit of your minds,
+to be renewed in the spirit of your minds;
 
 ## Ephesians 4:24
 
-And to put on the new self, which in the likeness of God has been created in righteousness and holiness of the truth.
+and to put on the new self, created to be like God in true righteousness and holiness.
 
 ## Ephesians 4:25
 
-Therefore, ridding yourselves of falsehood, speak truth each one of you with his neighbour, because we are parts of one another.
+Therefore, putting away falsehood, let each of you speak truthfully with his neighbour, for we are all members of one another.
 
 ## Ephesians 4:26
 
-Be angry, and yet do not sin; do not let the sun go down on your anger,
+“In your anger, do not sin”: Do not let the sun go down while you are still angry,
 
 ## Ephesians 4:27
 
-And do not give the devil an opportunity.
+and do not give the devil a foothold.
 
 ## Ephesians 4:28
 
-The one who steals must no longer steal; but rather he must labour, producing with his own hands what is good, so that he will have something to share with the one who has need.
+Anyone who has been stealing must steal no longer, but must labour, doing something useful with their own hands, so that they may have something to share with those in need.
 
 ## Ephesians 4:29
 
-Let no unwholesome word come out of your mouth, but only such a word as is good for edification according to the need of the moment, so that it will give grace to those who hear.
+Let no unwholesome talk come out of your mouths, but only what is helpful for building others up according to their needs, that it may benefit those who listen.
 
 ## Ephesians 4:30
 
-Do not grieve the Holy Spirit of God, by whom you were sealed for the day of redemption.
+And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption.
 
 ## Ephesians 4:31
 
-All bitterness, wrath, anger, clamour, and slander must be removed from you, along with all malice.
+Let all bitterness, wrath, anger, clamour, and slander be put away from you, along with all malice.
 
 ## Ephesians 4:32
 
-Be kind to one another, compassionate, forgiving each other, just as God in Christ also has forgiven you.
+Be kind and compassionate to one another, forgiving each other, just as God in Christ forgave you.

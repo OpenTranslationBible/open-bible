@@ -2,190 +2,161 @@
 
 ## John 6:1
 
-After these things Jesus went away to the other side of the Sea of Galilee (or Tiberias).
+After this, Jesus went to the other side of the Sea of Galilee, also known as the Sea of Tiberias.
 
 ## John 6:2
 
-A large crowd was following Him, because they were watching the signs which He was performing on those who were sick.
+A large crowd followed Him, because they witnessed the signs He performed on those who were ill.
 
 ## John 6:3
 
-But Jesus went up on the mountain, and there He sat with His disciples.
+Jesus went up onto a mountainside and sat down there with His disciples.
 
 ## John 6:4
 
-Now the Passover, the feast of the Jews, was near.
+The Jewish festival of Passover was approaching.
 
 ## John 6:5
 
-So Jesus, after raising His eyes and seeing that a large crowd was coming to Him, _said to Philip_,  
-“Where are we to buy bread so that these people may eat?”
+When Jesus looked up and saw a large crowd coming towards Him, He said to Philip, “Where can we buy bread for these people to eat?”
 
 ## John 6:6
 
-But He was saying this only to test him, for He Himself knew what He intended to do.
+He said this to test him, for He already knew what He was going to do.
 
 ## John 6:7
 
-Philip answered Him,  
-“Two hundred denarii worth of bread is not enough for them, for each to receive just a little!”
+Philip replied, “Two hundred denarii worth of bread wouldn’t be enough for each one to have a little.”
 
 ## John 6:8
 
-One of His disciples, Andrew, Simon Peter’s brother, _said to Him_,
+One of His disciples, Andrew, who was Simon Peter’s brother, said to Him,
 
 ## John 6:9
 
-“There is a boy here who has five barley loaves and two fish; but what are these for so many people?”
+“There is a boy here with five barley loaves and two fish, but what are they among so many?”
 
 ## John 6:10
 
-Jesus said, “Have the people recline to eat.”  
-Now there was plenty of grass in the place. So the men reclined, about five thousand in number.
+Jesus said, “Have the people sit down.” There was plenty of grass there, so they sat down, about five thousand men in number.
 
 ## John 6:11
 
-Jesus then took the loaves, and after giving thanks He distributed them to those who were reclining;  
-likewise also of the fish, as much as they wanted.
+Then Jesus took the loaves, gave thanks, and distributed them to those who were seated; He did the same with the fish, giving them as much as they wanted.
 
 ## John 6:12
 
-And when they had eaten their fill, He _said to His disciples_,  
-“Gather up the leftover pieces so that nothing will be lost.”
+When they had all eaten their fill, He said to His disciples, “Gather the fragments left over, so that nothing may be wasted.”
 
 ## John 6:13
 
-So they gathered them up, and filled twelve baskets with pieces from the five barley loaves  
-which were left over by those who had eaten.
+So they gathered them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten.
 
 ## John 6:14
 
-Therefore when the people saw the sign which He had performed, they said,  
-“This is truly the Prophet who is to come into the world.”
+When the people saw the sign He had performed, they said, “This is truly the Prophet who is to come into the world.”
 
 ---
 
 ## John 6:15
 
-So Jesus, aware that they intended to come and take Him by force to make Him king,  
-withdrew again to the mountain by Himself, alone.
+Knowing that they intended to come and take Him by force to make Him king, Jesus withdrew again to the mountain by Himself.
 
 ## John 6:16
 
-Now when evening came, His disciples went down to the sea,
+When evening came, His disciples went down to the sea,
 
 ## John 6:17
 
-and after getting into a boat, they started to cross the sea to Capernaum.  
-It had already become dark, and Jesus had not yet come to them.
+got into a boat, and set off across the sea to Capernaum. It was already dark, and Jesus had not yet joined them.
 
 ## John 6:18
 
-In addition, the sea began getting rough, because a strong wind was blowing.
+The sea became rough because a strong wind was blowing.
 
 ## John 6:19
 
-Then, when they had rowed about twenty-five or thirty stadia,  
-they _saw Jesus walking on the sea and coming near the boat; and they were frightened._
+When they had rowed about three or four miles, they saw Jesus walking on the sea and approaching the boat, and they were frightened.
 
 ## John 6:20
 
-But He _said to them_,  
-“It is I; do not be afraid.”
+But He said to them, “It is I; do not be afraid.”
 
 ## John 6:21
 
-So they were willing to take Him into the boat,  
-and immediately the boat was at the land to which they were going.
+Then they were willing to take Him into the boat, and immediately the boat reached the shore where they were heading.
 
 ---
 
 ## John 6:22
 
-The next day the crowd that stood on the other side of the sea saw that there was no other small boat there  
-except one, and that Jesus had not boarded that boat with His disciples, but that His disciples had gone away alone.
+The next day, the crowd that had stayed on the opposite shore realised that only one boat had been there, and that Jesus had not entered it with His disciples, who had gone away alone.
 
 ## John 6:23
 
-Other small boats came from Tiberias near to the place where they ate the bread  
-after the Lord had given thanks.
+Other boats from Tiberias came near the place where they had eaten the bread after the Lord had given thanks.
 
 ## John 6:24
 
-So when the crowd saw that Jesus was not there, nor His disciples,  
-they themselves got into the small boats and came to Capernaum, looking for Jesus.
+When the crowd realised neither Jesus nor His disciples were there, they got into the boats and went to Capernaum in search of Jesus.
 
 ---
 
 ## John 6:25
 
-And when they found Him on the other side of the sea, they said to Him,  
-“Rabbi, when did You get here?”
+When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You get here?”
 
 ## John 6:26
 
-Jesus answered them and said,  
-“Truly, truly I say to you, you seek Me not because you saw signs,  
-but because you ate some of the loaves and were filled.
+Jesus answered, “Truly, truly, I say to you, you are looking for Me not because you saw the signs, but because you ate the loaves and were filled.
 
 ## John 6:27
 
-Do not work for the food that perishes, but for the food that lasts for eternal life,  
-which the Son of Man will give you; for on Him the Father, God, has set His seal.”
+Do not work for food that perishes, but for food that endures to eternal life, which the Son of Man will give you. For on Him, God the Father has set His seal.”
 
 ## John 6:28
 
-Therefore they said to Him,  
-“What are we to do, so that we may accomplish the works of God?”
+Then they asked Him, “What must we do to perform the works God requires?”
 
 ## John 6:29
 
-Jesus answered and said to them,  
-“This is the work of God, that you believe in Him whom He has sent.”
+Jesus answered, “The work of God is this: to believe in the One He has sent.”
 
 ---
 
 ## John 6:30
 
-So they said to Him,  
-“What then are You doing as a sign, so that we may see, and believe You? What work are You performing?
+So they asked Him, “What sign will You give that we may see it and believe You? What work will You do?
 
 ## John 6:31
 
-Our fathers ate the manna in the wilderness; as it is written:  
-‘He gave them bread out of heaven to eat.’”
+Our ancestors ate the manna in the wilderness; as it is written: ‘He gave them bread from heaven to eat.’”
 
 ## John 6:32
 
-Jesus then said to them,  
-“Truly, truly I say to you, it is not Moses who has given you the bread out of heaven,  
-but it is My Father who gives you the true bread out of heaven.
+Jesus said to them, “Truly, truly, I say to you, it was not Moses who gave you the bread from heaven, but My Father who gives you the true bread from heaven.
 
 ## John 6:33
 
-For the bread of God is that which comes down out of heaven and gives life to the world.”
+For the bread of God is that which comes down from heaven and gives life to the world.”
 
 ## John 6:34
 
-Then they said to Him,  
-“Lord, always give us this bread.”
+They said to Him, “Lord, always give us this bread.”
 
 ---
 
 ## John 6:35
 
-Jesus said to them,  
-“I am the bread of life; the one who comes to Me will not be hungry,  
-and the one who believes in Me will never be thirsty.
+Jesus declared, “I am the bread of life. Whoever comes to Me shall never hunger, and whoever believes in Me shall never thirst.
 
 ## John 6:36
 
-But I said to you that you have indeed seen Me, and yet you do not believe.
+But as I told you, you have seen Me, and yet you do not believe.
 
 ## John 6:37
 
-Everything that the Father gives Me will come to Me,  
-and the one who comes to Me I certainly will not cast out.
+All that the Father gives Me will come to Me, and whoever comes to Me I will never drive away.
 
 ## John 6:38
 
@@ -193,49 +164,41 @@ For I have come down from heaven, not to do My own will, but the will of Him who
 
 ## John 6:39
 
-And this is the will of Him who sent Me,  
-that of everything that He has given Me I will lose nothing, but will raise it up on the last day.
+And this is the will of Him who sent Me, that I shall lose none of all those He has given Me, but raise them up at the last day.
 
 ## John 6:40
 
-For this is the will of My Father,  
-that everyone who sees the Son and believes in Him will have eternal life,  
-and I Myself will raise him up on the last day.”
+For My Father’s will is that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise them up at the last day.”
 
 ---
 
 ## John 6:41
 
-So then the Jews were complaining about Him because He said, “I am the bread that came down out of heaven.”
+At this, the Jews began to grumble about Him because He said, “I am the bread that came down from heaven.”
 
 ## John 6:42
 
-And they were saying,  
-“Is this not Jesus, the son of Joseph, whose father and mother we know?  
-How does He now say, ‘I have come down out of heaven’?”
+They said, “Is this not Jesus, the son of Joseph, whose father and mother we know? How can He now say, ‘I have come down from heaven’?”
 
 ## John 6:43
 
-Jesus answered and said to them,  
-“Stop complaining among yourselves.
+Jesus answered, “Stop grumbling among yourselves.
 
 ## John 6:44
 
-No one can come to Me unless the Father who sent Me draws him;  
-and I will raise him up on the last day.
+No one can come to Me unless the Father who sent Me draws them, and I will raise them up at the last day.
 
 ## John 6:45
 
-It is written in the Prophets: ‘And they shall all be taught by God.’  
-Everyone who has heard and learned from the Father comes to Me.
+It is written in the Prophets: ‘They will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me.
 
 ## John 6:46
 
-Not that anyone has seen the Father, except the One who is from God; He has seen the Father.
+No one has seen the Father except the One who is from God; only He has seen the Father.
 
 ## John 6:47
 
-Truly, truly I say to you, the one who believes has eternal life.
+Truly, truly, I say to you, whoever believes has eternal life.
 
 ## John 6:48
 
@@ -243,115 +206,98 @@ I am the bread of life.
 
 ## John 6:49
 
-Your fathers ate the manna in the wilderness, and they died.
+Your ancestors ate the manna in the wilderness, and they died.
 
 ## John 6:50
 
-This is the bread that comes down out of heaven, so that anyone may eat from it and not die.
+But here is the bread that comes down from heaven, which anyone may eat and not die.
 
 ## John 6:51
 
-I am the living bread that came down out of heaven;  
-if anyone eats from this bread, he will live forever;  
-and the bread which I will give for the life of the world also is My flesh.”
+I am the living bread that came down from heaven. If anyone eats of this bread, they will live forever. This bread is My flesh, which I will give for the life of the world.”
 
 ---
 
 ## John 6:52
 
-Then the Jews began to argue with one another, saying,  
-“How can this man give us His flesh to eat?”
+Then the Jews began to argue sharply among themselves, “How can this man give us His flesh to eat?”
 
 ## John 6:53
 
-So Jesus said to them,  
-“Truly, truly I say to you, unless you eat the flesh of the Son of Man and drink His blood,  
-you have no life in yourselves.
+Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.
 
 ## John 6:54
 
-The one who eats My flesh and drinks My blood has eternal life,  
-and I will raise him up on the last day.
+Whoever eats My flesh and drinks My blood has eternal life, and I will raise them up at the last day.
 
 ## John 6:55
 
-For My flesh is true food, and My blood is true drink.
+For My flesh is true food and My blood is true drink.
 
 ## John 6:56
 
-The one who eats My flesh and drinks My blood remains in Me, and I in him.
+Whoever eats My flesh and drinks My blood remains in Me, and I in them.
 
 ## John 6:57
 
-Just as the living Father sent Me, and I live because of the Father,  
-the one who eats Me, he also will live because of Me.
+Just as the living Father sent Me and I live because of the Father, so the one who feeds on Me will live because of Me.
 
 ## John 6:58
 
-This is the bread that came down out of heaven, not as the fathers ate and died;  
-the one who eats this bread will live forever.”
+This is the bread that came down from heaven. Your ancestors ate manna and died, but whoever feeds on this bread will live forever.”
 
 ## John 6:59
 
-These things He said in the synagogue as He taught in Capernaum.
+He said this while teaching in the synagogue in Capernaum.
 
 ---
 
 ## John 6:60
 
-So then many of His disciples, when they heard this, said,  
-“This statement is very unpleasant; who can listen to it?”
+On hearing it, many of His disciples said, “This is a hard teaching. Who can accept it?”
 
 ## John 6:61
 
-But Jesus, aware that His disciples were complaining about this, said to them,  
-“Is this offensive to you?
+Aware that His disciples were grumbling about this, Jesus said to them, “Does this offend you?
 
 ## John 6:62
 
-What then if you see the Son of Man ascending to where He was before?
+Then what if you see the Son of Man ascend to where He was before!
 
 ## John 6:63
 
-It is the Spirit who gives life; the flesh provides no benefit;  
-the words that I have spoken to you are spirit, and are life.
+The Spirit gives life; the flesh counts for nothing. The words I have spoken to you are spirit and life.
 
 ## John 6:64
 
-But there are some of you who do not believe.”  
-For Jesus knew from the beginning who they were who did not believe,  
-and who it was who would betray Him.
+Yet there are some of you who do not believe.” For Jesus knew from the beginning who did not believe and who would betray Him.
 
 ## John 6:65
 
-And He was saying,  
-“For this reason I have told you that no one can come to Me unless it has been granted him from the Father.”
+He went on to say, “This is why I told you that no one can come to Me unless the Father has enabled them.”
 
 ---
 
 ## John 6:66
 
-As a result of this many of His disciples left, and would no longer walk with Him.
+From this time many of His disciples turned back and no longer followed Him.
 
 ## John 6:67
 
-So Jesus said to the twelve,  
-“You do not want to leave also, do you?”
+“You do not want to leave too, do you?” Jesus asked the Twelve.
 
 ## John 6:68
 
-Simon Peter answered Him,  
-“Lord, to whom shall we go? You have words of eternal life.
+Simon Peter answered Him, “Lord, to whom shall we go? You have the words of eternal life.
 
 ## John 6:69
 
-And we have already believed and have come to know that You are the Holy One of God.”
+We have come to believe and to know that You are the Holy One of God.”
 
 ## John 6:70
 
-Jesus answered them,  
-“Did I Myself not choose you, the twelve? And yet one of you is a devil.”
+Then Jesus replied, “Did I not choose you, the Twelve? Yet one of you is a devil!”
 
 ## John 6:71
 
-Now He meant Judas the son of Simon Iscariot; for he, one of the twelve, was going to betray Him.
+He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray Him.

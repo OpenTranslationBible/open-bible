@@ -1,98 +1,73 @@
 # Ezekiel Chapter 17
 
 ## Ezekiel 17:1
-
-Then the word of the Lord came to me, saying,
+The word of the Lord came to me, saying:
 
 ## Ezekiel 17:2
-
-“Son of man, ask a riddle and present a parable to the house of Israel,
+“Son of man, pose a riddle and present it as a parable to the Israelites.
 
 ## Ezekiel 17:3
-
-And say, ‘This is what the Lord God says:  
-“A great eagle with great wings, long pinions, and a full plumage of many colours came to Lebanon and took the top of the cedar.
+Say to them, ‘This is what the Sovereign Lord says: A mighty eagle with large wings, long feathers, and a full plumage of diverse colours came to Lebanon and took the top of a cedar.
 
 ## Ezekiel 17:4
-
-He plucked off the topmost of its young twigs and brought it to a land of merchants; he set it in a city of traders.
+He snapped off the topmost of its young twigs and carried it to a land of merchants; he planted it in a city of traders.
 
 ## Ezekiel 17:5
-
-He also took some of the seed of the land and planted it in fertile soil. He placed it beside abundant waters; he set it like a willow.
+He also took a seedling from the land and placed it in fertile soil, a meadow by abundant waters; he set it like a willow.
 
 ## Ezekiel 17:6
-
-Then it sprouted and became a low, spreading vine with its branches turned toward him, but its roots remained under it. So it became a vine and produced branches and sent out shoots.
+It sprouted and became a low, spreading vine. Its branches turned towards him, but its roots remained beneath it. Thus it became a vine, producing branches and sending out leafy boughs.
 
 ## Ezekiel 17:7
-
-But there was another great eagle with great wings and many feathers; and behold, this vine bent its roots toward him and stretched its branches toward him from the beds where it was planted, so that he might water it.
+But there was another great eagle with large wings and much plumage. The vine now sent out its roots towards him and stretched its branches towards him from the bed where it was planted, seeking water.
 
 ## Ezekiel 17:8
-
-It was planted in good soil beside abundant waters, so that it would produce branches, bear fruit, and become a splendid vine.”’
+It had been planted in good soil by abundant waters, so that it might produce branches, bear fruit, and become a splendid vine.’
 
 ## Ezekiel 17:9
-
-Say, ‘This is what the Lord God says: “Will it thrive? Will he not pull up its roots and cut off its fruit so that it withers—so that all its sprouting leaves wither? And neither by great strength nor by many people can it be raised from its roots again.
+Say to them, ‘This is what the Sovereign Lord says: Will it thrive? Will it not be uprooted and stripped of its fruit so that it withers? All its new growth will wither. It will not require a strong arm or many people to pull it up by the roots.
 
 ## Ezekiel 17:10
-
-Though it is planted, will it thrive? Will it not wither completely when the east wind strikes it? It will wither on the beds where it grew.”’”
+Though it is planted, will it thrive? Will it not completely wither when the east wind strikes it—wither in the bed where it grew?’”
 
 ## Ezekiel 17:11
-
-Moreover, the word of the Lord came to me, saying,
+Then the word of the Lord came to me, saying:
 
 ## Ezekiel 17:12
-
-“Say now to the rebellious house, ‘Do you not know what these things mean?’ Say, ‘Behold, the king of Babylon came to Jerusalem, took its king and leaders, and brought them to him in Babylon.
+“Say to this rebellious house, ‘Do you not know what these things mean?’ Say: ‘The king of Babylon came to Jerusalem and took its king and nobles, bringing them to Babylon.
 
 ## Ezekiel 17:13
-
-He took one of the royal family and made a covenant with him, putting him under oath. He also took away the mighty of the land,
+He took a member of the royal family and made a covenant with him, putting him under oath. He also carried away the leading men of the land,
 
 ## Ezekiel 17:14
-
-So that the kingdom would be humbled, not exalting itself, but keeping his covenant so that it might continue.
+so that the kingdom would be humbled, not exalting itself, but maintaining the covenant to survive.
 
 ## Ezekiel 17:15
-
-But he rebelled against him by sending his messengers to Egypt so that they might give him horses and many troops. Will he succeed? Will he who does such things escape? Can he indeed break the covenant and still escape?
+But he rebelled against him by sending his envoys to Egypt for horses and a large army. Will he succeed? Can he break the covenant and escape?
 
 ## Ezekiel 17:16
-
-As I live,’ declares the Lord God, ‘He shall die in Babylon, in the place of the king who put him on the throne, whose oath he despised and whose covenant he broke.
+As surely as I live, declares the Sovereign Lord, he shall die in Babylon, in the land of the king who put him on the throne, whose oath he despised and whose covenant he broke.
 
 ## Ezekiel 17:17
-
-Pharaoh with his mighty army and great company will not help him in the war, when ramps are cast up and siege walls built to eliminate many lives.
+Pharaoh with his mighty army and great horde will not assist him in war, when ramps are built and siege works erected to destroy many lives.
 
 ## Ezekiel 17:18
-
-Now he despised the oath by breaking the covenant, and behold, he gave his hand in pledge, yet did all these things—he shall not escape.’”
+He despised the oath by breaking the covenant. Despite giving his hand in pledge, he did all these things; he shall not escape.
 
 ## Ezekiel 17:19
-
-Therefore, this is what the Lord God says: “As I live, surely My oath which he despised and My covenant which he broke, I will bring it upon his head.
+Therefore, this is what the Sovereign Lord says: As surely as I live, I will repay him for despising my oath and breaking my covenant.
 
 ## Ezekiel 17:20
-
-I will spread My net over him, and he will be caught in My trap. Then I will bring him to Babylon and enter into judgment with him there regarding the unfaithfulness which he committed against Me.
+I will spread my net for him, and he will be ensnared in my trap. I will bring him to Babylon and execute judgment on him there for being unfaithful to me.
 
 ## Ezekiel 17:21
-
-All the choice men in all his troops will fall by the sword, and the survivors will be scattered to every wind; and you will know that I, the Lord, have spoken.”
+All his choice troops will fall by the sword, and the survivors will be scattered to every wind. Then you will know that I, the Lord, have spoken.
 
 ## Ezekiel 17:22
-
-This is what the Lord God says: “I will also take a sprig from the lofty top of the cedar and plant it; I will pluck from the topmost of its young twigs a tender one and plant it on a high and lofty mountain.
+This is what the Sovereign Lord says: I myself will take a sprig from the lofty top of a cedar and plant it; I will break off a tender shoot from its topmost branches and plant it on a high and lofty mountain.
 
 ## Ezekiel 17:23
-
-On the high mountain of Israel I will plant it, so that it may bear branches and produce fruit and become a stately cedar. And birds of every kind will nest under it; they will nest in the shade of its branches.
+On the mountain heights of Israel I will plant it, so that it may produce branches and bear fruit and become a magnificent cedar. Birds of every kind will nest under it; they will find shelter in the shade of its branches.
 
 ## Ezekiel 17:24
-
-All the trees of the field will know that I am the Lord; I bring down the high tree, exalt the low tree, dry up the green tree, and make the dry tree flourish. I am the Lord; I have spoken, and I will perform it.”
+All the trees of the field will know that I, the Lord, bring down the tall tree and make the low tree grow tall. I dry up the green tree and make the dry tree flourish. I, the Lord, have spoken, and I will do it.”

@@ -2,200 +2,171 @@
 
 ## Matthew 5:1
 
-Now when Jesus saw the crowds, He went up on the mountain;  
-and after He sat down, His disciples came to Him.
+When Jesus observed the crowds, He ascended a mountainside and sat down. His disciples approached Him,
 
 ## Matthew 5:2
 
-And He opened His mouth and began to teach them, saying:
+and He began to instruct them, saying:
 
 ## Matthew 5:3
 
 > “Blessed are the poor in spirit,
-> for theirs is the kingdom of heaven.
+> for the kingdom of heaven is theirs.
 
 ## Matthew 5:4
 
 > Blessed are those who mourn,
-> for they will be comforted.
+> for they shall receive comfort.
 
 ## Matthew 5:5
 
 > Blessed are the gentle,
-> for they will inherit the earth.
+> for they shall inherit the earth.
 
 ## Matthew 5:6
 
 > Blessed are those who hunger and thirst for righteousness,
-> for they will be satisfied.
+> for they shall be satisfied.
 
 ## Matthew 5:7
 
 > Blessed are the merciful,
-> for they will receive mercy.
+> for they shall obtain mercy.
 
 ## Matthew 5:8
 
 > Blessed are the pure in heart,
-> for they will see God.
+> for they shall see God.
 
 ## Matthew 5:9
 
 > Blessed are the peacemakers,
-> for they will be called sons of God.
+> for they shall be called the children of God.
 
 ## Matthew 5:10
 
-> Blessed are those who have been persecuted for the sake of righteousness,
-> for theirs is the kingdom of heaven.
+> Blessed are those who are persecuted for the sake of righteousness,
+> for the kingdom of heaven is theirs.
 
 ## Matthew 5:11
 
-Blessed are you when people insult you and persecute you,  
-and falsely say all kinds of evil against you because of Me.
+Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me.
 
 ## Matthew 5:12
 
-Rejoice and be glad, for your reward in heaven is great;  
-for in the same way they persecuted the prophets who were before you.
+Rejoice and be glad, for your reward in heaven is great; for in the same way they persecuted the prophets who were before you.
 
 ---
 
 ## Matthew 5:13
 
-You are the salt of the earth; but if the salt has become tasteless,  
-how can it be made salty again?  
-It is no longer good for anything, except to be thrown out and trampled underfoot by people.
+You are the salt of the earth. But if the salt loses its flavour, how can it be made salty again? It is no longer good for anything, except to be thrown out and trampled underfoot by others.
 
 ## Matthew 5:14
 
-You are the light of the world.  
-A city set on a hill cannot be hidden;
+You are the light of the world. A city set on a hill cannot be hidden.
 
 ## Matthew 5:15
 
-nor do people light a lamp and put it under a basket, but on the lampstand,  
-and it gives light to all who are in the house.
+Nor do people light a lamp and place it under a basket, but on a stand, and it gives light to all in the house.
 
 ## Matthew 5:16
 
-Your light must shine before people in such a way that they may see your good works,  
-and glorify your Father who is in heaven.
+In the same way, let your light shine before others, so that they may see your good works and glorify your Father in heaven.
 
 ---
 
 ## Matthew 5:17
 
-Do not presume that I came to abolish the Law or the Prophets;  
-I did not come to abolish, but to fulfil.
+Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfil them.
 
 ## Matthew 5:18
 
-For truly I say to you, until heaven and earth pass away,  
-not the smallest letter or stroke of a letter shall pass from the Law, until all is accomplished.
+For truly I say to you, until heaven and earth pass away, not the smallest letter, not the least stroke of a pen, will disappear from the Law until everything is accomplished.
 
 ## Matthew 5:19
 
-Therefore, whoever nullifies one of the least of these commandments, and teaches others to do the same,  
-shall be called least in the kingdom of heaven;  
-but whoever keeps them and teaches them, he shall be called great in the kingdom of heaven.
+Therefore, whoever sets aside one of the least of these commandments and teaches others to do the same will be called least in the kingdom of heaven, but whoever practices and teaches these commands will be called great in the kingdom of heaven.
 
 ## Matthew 5:20
 
-For I say to you that unless your righteousness far surpasses that of the scribes and Pharisees,  
-you will not enter the kingdom of heaven.
+For I say to you, unless your righteousness exceeds that of the scribes and Pharisees, you will certainly not enter the kingdom of heaven.
 
 ---
 
 ## Matthew 5:21
 
-You have heard that the ancients were told, ‘You shall not murder,’  
-and ‘Whoever commits murder shall be liable to the court.’
+You have heard that it was said to those of old, ‘You shall not murder, and anyone who murders will be subject to judgment.’
 
 ## Matthew 5:22
 
-But I say to you that everyone who is angry with his brother shall be guilty before the court;  
-and whoever says to his brother, ‘You good-for-nothing,’ shall be guilty before the supreme court;  
-and whoever says, ‘You fool,’ shall be guilty enough to go into the fiery hell.
+But I say to you, anyone who is angry with a brother or sister will be subject to judgment. Again, anyone who says to a brother or sister, ‘Raca,’ will be answerable to the court. And anyone who says, ‘You fool!’ will be in danger of the fiery hell.
 
 ## Matthew 5:23
 
-Therefore, if you are presenting your offering at the altar,  
-and there you remember that your brother has something against you,
+Therefore, if you are presenting your offering at the altar and there remember that your brother or sister has something against you,
 
 ## Matthew 5:24
 
-leave your offering there before the altar and go;  
-first be reconciled to your brother, and then come and present your offering.
+leave your offering there in front of the altar. First, be reconciled to them; then come and present your offering.
 
 ## Matthew 5:25
 
-Come to terms quickly with your opponent at law while you are with him on the way,  
-so that your opponent does not hand you over to the judge,  
-and the judge to the officer, and you be thrown into prison.
+Settle matters quickly with your adversary who is taking you to court. Do it while you are still on the way, or your adversary may hand you over to the judge, and the judge may hand you over to the officer, and you may be thrown into prison.
 
 ## Matthew 5:26
 
-Truly I say to you, you will not come out of there until you have paid up the last quadrans.
+Truly I say to you, you will not get out until you have paid the last penny.
 
 ---
 
 ## Matthew 5:27
 
-You have heard that it was said, ‘You shall not commit adultery’;
+You have heard that it was said, ‘You shall not commit adultery.’
 
 ## Matthew 5:28
 
-but I say to you that everyone who looks at a woman with lust for her  
-has already committed adultery with her in his heart.
+But I say to you, anyone who looks at a woman with lust has already committed adultery with her in his heart.
 
 ## Matthew 5:29
 
-Now if your right eye is causing you to sin, tear it out and throw it away from you;  
-for it is better for you to lose one of the parts of your body,  
-than for your whole body to be thrown into hell.
+If your right eye causes you to sin, gouge it out and throw it away. It is better for you to lose one part of your body than for your whole body to be thrown into hell.
 
 ## Matthew 5:30
 
-And if your right hand is causing you to sin, cut it off and throw it away from you;  
-for it is better for you to lose one of the parts of your body,  
-than for your whole body to go into hell.
+And if your right hand causes you to sin, cut it off and throw it away. It is better for you to lose one part of your body than for your whole body to go into hell.
 
 ---
 
 ## Matthew 5:31
 
-Now it was said, ‘Whoever sends his wife away is to give her a certificate of divorce’;
+It has been said, ‘Anyone who divorces his wife must give her a certificate of divorce.’
 
 ## Matthew 5:32
 
-but I say to you that everyone who divorces his wife, except for the reason of sexual immorality,  
-makes her commit adultery; and whoever marries a divorced woman commits adultery.
+But I say to you, anyone who divorces his wife, except for sexual immorality, makes her commit adultery, and anyone who marries a divorced woman commits adultery.
 
 ---
 
 ## Matthew 5:33
 
-Again, you have heard that the ancients were told,  
-‘You shall not make false vows, but shall fulfil your vows to the Lord.’
+Again, you have heard that it was said to those of old, ‘Do not break your oath, but fulfil your vows to the Lord.’
 
 ## Matthew 5:34
 
-But I say to you, take no oath at all, neither by heaven, for it is the throne of God,
+But I say to you, do not swear at all: neither by heaven, for it is God’s throne;
 
 ## Matthew 5:35
 
-nor by the earth, for it is the footstool of His feet,  
-nor by Jerusalem, for it is the city of the great King.
+nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King.
 
 ## Matthew 5:36
 
-Nor shall you take an oath by your head, for you cannot make a single hair white or black.
+And do not swear by your head, for you cannot make even one hair white or black.
 
 ## Matthew 5:37
 
-But make sure your statement is, ‘Yes, yes’ or ‘No, no’;  
-anything beyond these is of evil origin.
+Let your statement be, ‘Yes, yes’ or ‘No, no’; anything beyond this is from the evil one.
 
 ---
 
@@ -205,26 +176,25 @@ You have heard that it was said, ‘Eye for eye, and tooth for tooth.’
 
 ## Matthew 5:39
 
-But I say to you, do not show opposition against an evil person;  
-but whoever slaps you on your right cheek, turn the other toward him also.
+But I say to you, do not resist an evil person. If anyone slaps you on the right cheek, turn to them the other cheek also.
 
 ## Matthew 5:40
 
-And if anyone wants to sue you and take your tunic, let him have your cloak also.
+And if anyone wants to sue you and take your shirt, let them have your coat as well.
 
 ## Matthew 5:41
 
-Whoever forces you to go one mile, go with him two.
+If anyone forces you to go one mile, go with them two miles.
 
 ## Matthew 5:42
 
-Give to him who asks of you, and do not turn away from him who wants to borrow from you.
+Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
 
 ---
 
 ## Matthew 5:43
 
-You have heard that it was said, ‘You shall love your neighbour and hate your enemy.’
+You have heard that it was said, ‘Love your neighbour and hate your enemy.’
 
 ## Matthew 5:44
 
@@ -232,20 +202,16 @@ But I say to you, love your enemies and pray for those who persecute you,
 
 ## Matthew 5:45
 
-so that you may prove yourselves to be sons of your Father who is in heaven;  
-for He causes His sun to rise on the evil and the good,  
-and sends rain on the righteous and the unrighteous.
+that you may be children of your Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
 
 ## Matthew 5:46
 
-For if you love those who love you, what reward do you have?  
-Even the tax collectors, do they not do the same?
+If you love those who love you, what reward will you get? Do not even the tax collectors do the same?
 
 ## Matthew 5:47
 
-And if you greet only your brothers and sisters, what more are you doing than others?  
-Even the Gentiles, do they not do the same?
+And if you greet only your own people, what are you doing more than others? Do not even the Gentiles do the same?
 
 ## Matthew 5:48
 
-Therefore, you shall be perfect, as your heavenly Father is perfect.
+Be perfect, therefore, as your heavenly Father is perfect.
