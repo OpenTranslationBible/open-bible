@@ -19,7 +19,7 @@ We did not yield to them for even a moment, so that the truth of the gospel migh
 Regarding those of high esteem—whatever they were makes no difference to me; God does not show partiality—they added nothing to my message.
 
 ## Galatians 2:7
-On the contrary, they saw that I had been entrusted with the gospel for the uncircumcised, just as Peter was for the circumcised.
+Instead, they recognized that I had been given the responsibility of sharing the gospel with the uncircumcised, just as Peter was with the circumcised.
 
 ## Galatians 2:8
 For the same God who worked through Peter as an apostle to the circumcised was also at work in me for the Gentiles.

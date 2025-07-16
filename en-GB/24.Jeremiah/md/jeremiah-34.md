@@ -10,7 +10,7 @@ The message came to Jeremiah from the Lord while Nebuchadnezzar, king of Babylon
 You will not escape from his grasp but will certainly be captured and handed over to him. You will see the king of Babylon with your own eyes, and he will converse with you face to face, and you will be taken to Babylon.
 
 ## Jeremiah 34:4
-Yet hear the word of the Lord, Zedekiah king of Judah! This is what the Lord says concerning you: You will not die by the sword;
+However, listen to the word of the Lord, Zedekiah king of Judah! The Lord has spoken concerning you: You will not meet your end by the sword;
 
 ## Jeremiah 34:5
 you will die peacefully. As spices were burned for your ancestors, the former kings before you, so they will burn spices for you and lament, “Alas, my lord!” I have spoken this word, declares the Lord.’”
@@ -34,7 +34,7 @@ All the officials and people who had entered into this covenant agreed to releas
 However, they later changed their minds and took back the slaves they had liberated, forcing them into servitude once more.
 
 ## Jeremiah 34:12
-Then the word of the Lord came to Jeremiah:
+Subsequently, the word of the Lord was delivered to Jeremiah:
 
 ## Jeremiah 34:13
 “This is what the Lord, the God of Israel, says: I made a covenant with your ancestors when I brought them out of Egypt, out of the house of bondage, saying,

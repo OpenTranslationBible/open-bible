@@ -14,7 +14,7 @@ When they heard him speaking to them in the Hebrew dialect, they became even mor
 
 ## Acts 22:4
 
-I persecuted this Way to the death, binding and putting both men and women into prisons,
+I pursued this Way relentlessly, binding and putting both men and women into prisons,
 
 ## Acts 22:5
 
@@ -24,7 +24,7 @@ as the high priest and all the Council of the elders can testify. I also receive
 
 ## Acts 22:6
 
-“But it happened that as I was on my way, approaching Damascus at about noon, a very bright light suddenly flashed from heaven all around me,
+“But as I was on my journey, nearing Damascus around noon, a very bright light from heaven suddenly surrounded me,
 
 ## Acts 22:7
 
@@ -50,11 +50,11 @@ Since I could not see because of the brightness of that light, I was led by the 
 
 ## Acts 22:12
 
-“Now a certain Ananias, a man who was devout by the standard of the law and well spoken of by all the Jews who lived there,
+“Now a certain Ananias, a man who was devout by the law's standards and well spoken of by all the Jews who lived there,
 
 ## Acts 22:13
 
-came to me, and standing nearby he said to me, ‘Brother Saul, receive your sight!’ And at that very moment I looked up at him.
+came to me, and standing nearby he said to me, ‘Brother Saul, receive your sight!’ And at that moment I looked up at him.
 
 ## Acts 22:14
 
@@ -62,7 +62,7 @@ And he said, ‘The God of our ancestors has appointed you to know his will and 
 
 ## Acts 22:15
 
-For you will be a witness for him to all people of what you have seen and heard.
+For you will testify for him to all people about what you have seen and heard.
 
 ## Acts 22:16
 
@@ -72,15 +72,15 @@ Now why do you delay? Get up, be baptised, and wash away your sins by calling on
 
 ## Acts 22:17
 
-“It happened when I returned to Jerusalem and was praying in the temple, that I fell into a trance,
+“When I returned to Jerusalem and was praying in the temple, I fell into a trance,
 
 ## Acts 22:18
 
-and I saw him saying to me, ‘Hurry and get out of Jerusalem quickly, because they will not accept your testimony about me.’
+and I saw him saying to me, ‘Hurry and leave Jerusalem quickly, because they will not accept your testimony about me.’
 
 ## Acts 22:19
 
-And I said, ‘Lord, they themselves understand that in one synagogue after another I used to imprison and beat those who believed in you.
+And I said, ‘Lord, they themselves know that in one synagogue after another I used to imprison and beat those who believed in you.
 
 ## Acts 22:20
 
@@ -94,7 +94,7 @@ And he said to me, ‘Go! For I will send you far away to the Gentiles.’”
 
 ## Acts 22:22
 
-They listened to him up to this statement, and then they raised their voices and said, “Away with such a man from the earth, for he should not be allowed to live!”
+They listened to him up to this point, and then they raised their voices and said, “Away with such a man from the earth, for he should not be allowed to live!”
 
 ## Acts 22:23
 
@@ -118,7 +118,7 @@ The commander came and said to Paul, “Tell me, are you a Roman?” And he said
 
 ## Acts 22:28
 
-The commander answered, “I acquired this citizenship for a large sum of money.” And Paul said, “But I was actually born a citizen.”
+The commander replied, “I acquired this citizenship for a large sum of money.” And Paul said, “But I was actually born a citizen.”
 
 ## Acts 22:29
 
@@ -128,4 +128,4 @@ Therefore, those who were about to interrogate him immediately backed away from 
 
 ## Acts 22:30
 
-Now on the next day, wanting to know for certain why Paul had been accused by the Jews, he released him and ordered the chief priests and all the Council to assemble, and he brought Paul down and placed him before them.
+On the next day, wanting to know for certain why Paul had been accused by the Jews, he released him and ordered the chief priests and all the Council to assemble, and he brought Paul down and placed him before them.

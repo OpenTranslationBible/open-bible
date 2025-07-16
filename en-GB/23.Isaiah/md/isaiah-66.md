@@ -28,7 +28,7 @@ Who has ever heard of such things? Who has ever seen things like this? Can a lan
 Do I bring to the moment of birth and not give delivery?” says the Lord. “Or do I close up the womb when I bring to delivery?” says your God.
 
 ## Isaiah 66:10
-“Be joyful with Jerusalem and rejoice for her, all you who love her; be exceedingly glad with her, all you who mourn over her,
+“Celebrate with Jerusalem and be glad for her, all you who love her; be filled with joy with her, all you who mourn over her,
 
 ## Isaiah 66:11
 so that you may nurse and be satisfied at her comforting breasts; you will drink deeply and delight in her abundant breasts.”
@@ -46,7 +46,7 @@ When you see this, your heart will rejoice, and your bones will flourish like th
 For behold, the Lord will come with fire, and his chariots like a whirlwind, to render his anger with fury, and his rebuke with flames of fire.
 
 ## Isaiah 66:16
-For with fire and with his sword the Lord will execute judgment on all people, and many will be those slain by the Lord.
+For with fire and with his sword the Lord will bring judgment upon all people, and many will fall by the hand of the Lord.
 
 ## Isaiah 66:17
 “Those who sanctify and purify themselves to go into the gardens, following one in the centre, who eat pig’s flesh, detestable things, and mice, will meet their end together,” declares the Lord.

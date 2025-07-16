@@ -31,7 +31,7 @@ Should I not punish them for these things?” declares the Lord. “Should I not
 I will take up a weeping and wailing for the mountains and a lament for the pastures of the wilderness, because they are desolate and untravelled, and the sound of livestock is not heard. The birds of the sky and the animals have fled; they are gone.
 
 ## Jeremiah 9:11
-I will make Jerusalem a heap of ruins, a haunt of jackals; and I will lay waste the towns of Judah so that no one can live there.”
+I will turn Jerusalem into a desolate place, a dwelling for wild animals; and I will devastate the towns of Judah so that no one can inhabit them.”
 
 ## Jeremiah 9:12
 Who is wise enough to understand this? Who has been instructed by the Lord and can declare it? Why has the land been destroyed and laid waste like a desert that no one can cross?
@@ -67,10 +67,10 @@ For death has come up through our windows and has entered our fortresses; it has
 Say, “This is what the Lord declares: ‘The corpses will lie like dung on the open field, like cut grain behind the reaper, with no one to gather them.’”
 
 ## Jeremiah 9:23
-This is what the Lord says: “Let not the wise boast of their wisdom or the strong boast of their strength or the rich boast of their riches,
+This is what the Lord says: “Let not the wise take pride in their wisdom or the strong in their strength or the rich in their wealth,
 
 ## Jeremiah 9:24
-but let the one who boasts boast about this: that they have the understanding to know me, that I am the Lord who exercises kindness, justice, and righteousness on earth, for in these I delight,” declares the Lord.
+but let the one who takes pride take pride in this: that they have the understanding to know me, that I am the Lord who exercises kindness, justice, and righteousness on earth, for in these I delight,” declares the Lord.
 
 ## Jeremiah 9:25
 “Behold, the days are coming,” declares the Lord, “when I will punish all who are circumcised only in the flesh—

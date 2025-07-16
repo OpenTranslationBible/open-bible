@@ -58,7 +58,7 @@ They shall wear linen turbans on their heads and linen undergarments around thei
 When they go out into the outer court to the people, they shall take off the garments they have been ministering in and leave them in the sacred rooms, and put on other clothes, so that they do not transfer holiness to the people with their garments.
 
 ## Ezekiel 44:20
-They must not shave their heads or let their hair grow long, but must keep the hair of their heads trimmed.
+They must not shave their heads or let their hair grow long, but must keep their hair neatly trimmed.
 
 ## Ezekiel 44:21
 No priest shall drink wine when he enters the inner court.
@@ -67,7 +67,7 @@ No priest shall drink wine when he enters the inner court.
 They shall not marry a widow or a divorced woman; they may marry only virgins from the descendants of Israel or a widow who is the widow of a priest.
 
 ## Ezekiel 44:23
-They are to teach my people the difference between the holy and the common, and show them how to distinguish between the unclean and the clean.
+They are to instruct my people on the distinction between the sacred and the ordinary, and guide them in recognizing the difference between the unclean and the clean.
 
 ## Ezekiel 44:24
 In any dispute, the priests are to serve as judges and decide it according to my ordinances. They are to keep my laws and my statutes for all my appointed festivals, and they are to keep my Sabbaths holy.
@@ -76,7 +76,7 @@ In any dispute, the priests are to serve as judges and decide it according to my
 A priest must not defile himself by going near a dead person; however, if the dead person was his father, mother, son, daughter, brother, or unmarried sister, then he may defile himself.
 
 ## Ezekiel 44:26
-After he is cleansed, he must wait seven days.
+After his purification, he must wait seven days.
 
 ## Ezekiel 44:27
 On the day he goes into the sanctuary, to the inner court to minister in the sanctuary, he is to offer a sin offering for himself, declares the Sovereign Lord.

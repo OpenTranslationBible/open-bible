@@ -67,16 +67,16 @@ So Jacob’s gifts went ahead of him, while he stayed in the camp that night.
 That night Jacob arose, took his two wives, his two female servants, and his eleven sons, and crossed the ford of the Jabbok.
 
 ## Genesis 32:23
-After he had sent them across the stream, he sent over all his possessions.
+Once he had sent them across the stream, he also sent over all his belongings.
 
 ## Genesis 32:24
 Jacob was left alone, and a man wrestled with him until daybreak.
 
 ## Genesis 32:25
-When the man saw that he could not overpower him, he touched the socket of Jacob’s hip, so that his hip was wrenched as he wrestled with the man.
+When the man realized he could not prevail against him, he touched the socket of Jacob’s hip, causing it to be wrenched as they wrestled.
 
 ## Genesis 32:26
-Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not let you go unless you bless me.”
+Then the man said, “Let me go, for it is daybreak.” But Jacob replied, “I will not release you unless you bless me.”
 
 ## Genesis 32:27
 The man asked him, “What is your name?” “Jacob,” he replied.
@@ -94,4 +94,4 @@ So Jacob named the place Peniel, saying, “It is because I saw God face to face
 The sun rose upon him as he passed Peniel, and he was limping because of his hip.
 
 ## Genesis 32:32
-Therefore, to this day, the Israelites do not eat the tendon attached to the socket of the hip, because the socket of Jacob’s hip was touched near the tendon.
+For this reason, to this day, the Israelites refrain from eating the tendon attached to the hip socket, because Jacob’s hip was touched near the tendon.

@@ -25,7 +25,7 @@ He said to me, “Son of man, this is the place of My throne and the place for t
 By placing their threshold next to My threshold and their doorposts beside My doorposts, with only a wall between Me and them, they defiled My holy name by their abominations. So I consumed them in My anger.
 
 ## Ezekiel 43:9
-Now let them remove their prostitution and the corpses of their kings far from Me, and I will dwell among them forever.
+Let them put away their acts of unfaithfulness and the remains of their kings far from Me, and I will dwell among them forever.
 
 ## Ezekiel 43:10
 “As for you, son of man, describe the temple to the house of Israel, so that they may be ashamed of their sins, and let them measure the plan.

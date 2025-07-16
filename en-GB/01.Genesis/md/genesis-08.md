@@ -10,25 +10,25 @@ The fountains of the deep and the floodgates of the heavens were closed, and the
 The waters receded steadily from the earth, and by the end of one hundred and fifty days, the waters had decreased.
 
 ## Genesis 8:4
-On the seventeenth day of the seventh month, the ark came to rest on the mountains of Ararat.
+On the seventeenth day of the seventh month, the ark settled on the mountains of Ararat.
 
 ## Genesis 8:5
 The waters continued to decrease until the tenth month, and on the first day of the tenth month, the tops of the mountains became visible.
 
 ## Genesis 8:6
-After forty days, Noah opened the window of the ark that he had made.
+After forty days, Noah opened the window of the ark he had constructed.
 
 ## Genesis 8:7
 He sent out a raven, and it flew back and forth until the waters had dried up from the earth.
 
 ## Genesis 8:8
-Then he sent out a dove to see if the waters had receded from the surface of the ground.
+Then he sent out a dove to determine if the waters had receded from the surface of the ground.
 
 ## Genesis 8:9
 But the dove found no place to rest its foot, so it returned to him in the ark, for the waters were still over the surface of the earth. He reached out his hand, took the dove, and brought it back into the ark.
 
 ## Genesis 8:10
-He waited another seven days and again sent the dove out from the ark.
+He waited another seven days and sent the dove out from the ark once more.
 
 ## Genesis 8:11
 The dove returned to him in the evening, and there in its beak was a freshly plucked olive leaf. So Noah knew that the waters had receded from the earth.
@@ -46,7 +46,7 @@ By the twenty-seventh day of the second month, the earth was completely dry.
 Then God spoke to Noah, saying,
 
 ## Genesis 8:16
-“Come out of the ark, you and your wife, your sons, and your sons’ wives with you.
+“Leave the ark, you and your wife, your sons, and your sons’ wives with you.
 
 ## Genesis 8:17
 Bring out every living creature that is with you—the birds, the animals, and every creature that moves on the ground—so they may breed abundantly on the earth, and be fruitful and multiply.”
@@ -64,4 +64,4 @@ Then Noah built an altar to the Lord and took some of every clean animal and bir
 The Lord smelled the pleasing aroma and said to Himself, “Never again will I curse the ground because of humans, even though every inclination of the human heart is evil from youth. Nor will I ever again destroy every living creature as I have done.
 
 ## Genesis 8:22
-As long as the earth endures, seedtime and harvest, cold and heat, summer and winter, day and night will never cease.”
+While the earth remains, seedtime and harvest, cold and heat, summer and winter, day and night will not cease.”

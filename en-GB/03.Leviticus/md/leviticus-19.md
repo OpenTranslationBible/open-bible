@@ -19,13 +19,13 @@ When you offer a sacrifice of fellowship offerings to the Lord, you must offer i
 It shall be eaten on the day you offer it, or on the next day; anything left over until the third day must be burned with fire.
 
 ## Leviticus 19:7
-If any of it is eaten on the third day, it is impure and will not be accepted.
+If any of it is consumed on the third day, it is considered impure and will not be accepted.
 
 ## Leviticus 19:8
 Anyone who eats it will bear the consequences of his guilt, for he has profaned what is holy to the Lord; that person shall be cut off from his people.
 
 ## Leviticus 19:9
-When you reap the harvest of your land, do not reap to the very edges of your field or gather the gleanings of your harvest.
+When you gather the harvest of your land, do not harvest to the very edges of your field or collect the gleanings of your harvest.
 
 ## Leviticus 19:10
 Do not go over your vineyard again or gather the fallen grapes. Leave them for the poor and the foreigner. I am the Lord your God.
@@ -37,13 +37,13 @@ You shall not steal, nor lie, nor deceive one another.
 You shall not swear falsely by my name, thereby profaning the name of your God. I am the Lord.
 
 ## Leviticus 19:13
-Do not defraud or rob your neighbour. Do not hold back the wages of a hired worker overnight.
+Do not cheat or rob your neighbour. Do not withhold the wages of a hired worker overnight.
 
 ## Leviticus 19:14
 Do not curse the deaf or put a stumbling block before the blind, but fear your God. I am the Lord.
 
 ## Leviticus 19:15
-Do not pervert justice; do not show partiality to the poor or favouritism to the great, but judge your neighbour fairly.
+Do not distort justice; do not show partiality to the poor or favoritism to the great, but judge your neighbour fairly.
 
 ## Leviticus 19:16
 Do not go about spreading slander among your people. Do not do anything that endangers your neighbour’s life. I am the Lord.
@@ -52,7 +52,7 @@ Do not go about spreading slander among your people. Do not do anything that end
 Do not hate your fellow countryman in your heart. Rebuke your neighbour frankly so you will not share in his guilt.
 
 ## Leviticus 19:18
-Do not seek revenge or bear a grudge against anyone among your people, but love your neighbour as yourself. I am the Lord.
+Do not seek revenge or hold a grudge against anyone among your people, but love your neighbour as yourself. I am the Lord.
 
 ## Leviticus 19:19
 Keep my decrees. Do not breed different kinds of animals. Do not plant your field with two kinds of seed. Do not wear clothing woven of two kinds of material.
@@ -79,7 +79,7 @@ But in the fifth year you may eat its fruit, so that its yield may increase for 
 You shall not eat any meat with the blood still in it. You shall not practise divination or seek omens.
 
 ## Leviticus 19:27
-Do not cut the hair at the sides of your head or clip off the edges of your beard.
+Do not trim the hair at the sides of your head or clip off the edges of your beard.
 
 ## Leviticus 19:28
 Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the Lord.
@@ -88,7 +88,7 @@ Do not cut your bodies for the dead or put tattoo marks on yourselves. I am the 
 Do not degrade your daughter by making her a prostitute, or the land will turn to prostitution and be filled with wickedness.
 
 ## Leviticus 19:30
-Observe my Sabbaths and have reverence for my sanctuary. I am the Lord.
+Observe my Sabbaths and show reverence for my sanctuary. I am the Lord.
 
 ## Leviticus 19:31
 Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the Lord your God.
@@ -106,7 +106,7 @@ The foreigner residing among you must be treated as your native-born. Love him a
 Do not use dishonest standards when measuring length, weight or quantity.
 
 ## Leviticus 19:36
-Use honest scales and honest weights, an honest ephah and an honest hin. I am the Lord your God, who brought you out of Egypt.
+Use accurate scales and honest weights, an honest ephah and an honest hin. I am the Lord your God, who brought you out of Egypt.
 
 ## Leviticus 19:37
 Keep all my decrees and all my laws and follow them. I am the Lord.’”

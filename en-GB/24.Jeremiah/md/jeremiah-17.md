@@ -48,7 +48,7 @@ Like a partridge that hatches eggs it did not lay, so is one who amasses wealth 
 
 ## Jeremiah 17:12
 
-A glorious throne, exalted from the beginning, is the place of our sanctuary.
+A glorious throne, established from the beginning, is where our sanctuary resides.
 
 ## Jeremiah 17:13
 
@@ -68,7 +68,7 @@ I have not hastened away from being your shepherd; you know I have not desired t
 
 ## Jeremiah 17:17
 
-Do not be a terror to me; you are my refuge in the day of calamity.
+Do not be a dread to me; you are my refuge in times of trouble.
 
 ## Jeremiah 17:18
 

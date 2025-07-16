@@ -46,7 +46,7 @@ from the tribe of Naphtali, Nahbi son of Vophsi;
 from the tribe of Gad, Geuel son of Machi.
 
 ## Numbers 13:16
-These are the names of the men Moses sent to explore the land. But Moses gave Hoshea son of Nun the name Joshua.
+These are the men Moses sent to explore the land. Moses also gave Hoshea son of Nun the name Joshua.
 
 ## Numbers 13:17
 When Moses sent them to explore the land of Canaan, he instructed them, “Go up through the Negev and then into the hill country.
@@ -73,7 +73,7 @@ When they reached the Valley of Eshcol, they cut off a branch bearing a single c
 That place was called the Valley of Eshcol because of the cluster of grapes the Israelites cut off there.
 
 ## Numbers 13:25
-At the end of forty days, they returned from exploring the land.
+After forty days, they returned from exploring the land.
 
 ## Numbers 13:26
 They came back to Moses and Aaron and the whole Israelite community at Kadesh in the wilderness of Paran. There they reported to them and to the whole assembly and showed them the fruit of the land.

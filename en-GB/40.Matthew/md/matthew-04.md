@@ -2,7 +2,7 @@
 
 ## Matthew 4:1
 
-Then Jesus was led by the Spirit into the wilderness to be tempted by the devil.
+Then Jesus was guided by the Spirit into the wilderness to face temptation by the devil.
 
 ## Matthew 4:2
 
@@ -30,7 +30,7 @@ Jesus responded, “It is also written: ‘Do not put the Lord your God to the t
 
 ## Matthew 4:8
 
-Again, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendour.
+Once more, the devil took him to a very high mountain and showed him all the kingdoms of the world and their splendour.
 
 ## Matthew 4:9
 
@@ -38,11 +38,11 @@ He said to him, “I will give you all these things if you will fall down and wo
 
 ## Matthew 4:10
 
-Then Jesus said to him, “Go away, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’”
+Then Jesus said to him, “Depart from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’”
 
 ## Matthew 4:11
 
-Then the devil left him, and behold, angels came and ministered to him.
+At that moment, the devil left him, and behold, angels came and attended to him.
 
 ---
 
@@ -60,7 +60,7 @@ to fulfil what was spoken through the prophet Isaiah:
 
 ## Matthew 4:15
 
-“The land of Zebulun and the land of Naphtali, the Way of the Sea, beyond the Jordan, Galilee of the Gentiles—
+“The land of Zebulun and the land of Naphtali, the region along the sea, beyond the Jordan, Galilee of the Gentiles—
 
 ## Matthew 4:16
 
@@ -78,7 +78,7 @@ As Jesus was walking by the Sea of Galilee, he saw two brothers, Simon who is ca
 
 ## Matthew 4:19
 
-And he said to them, “Follow me, and I will make you fishers of people.”
+And he said to them, “Follow me, and I will make you fishers of men.”
 
 ## Matthew 4:20
 
@@ -86,7 +86,7 @@ Immediately, they left their nets and followed him.
 
 ## Matthew 4:21
 
-Going on from there, he saw two other brothers, James the son of Zebedee, and his brother John, in the boat with their father Zebedee, mending their nets; and he called them.
+Continuing on, he saw two other brothers, James the son of Zebedee, and his brother John, in the boat with their father Zebedee, mending their nets; and he called them.
 
 ## Matthew 4:22
 
@@ -104,4 +104,4 @@ News about him spread throughout Syria, and they brought to him all who were ill
 
 ## Matthew 4:25
 
-Large crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.
+Great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.

@@ -13,7 +13,7 @@ Hear, O Israel, and be diligent to obey so that it may go well with you and that
 Hear, O Israel: The Lord our God, the Lord is one.
 
 ## Deuteronomy 6:5
-You shall love the Lord your God with all your heart, with all your soul, and with all your strength.
+You are to love the Lord your God with all your heart, with all your soul, and with all your might.
 
 ## Deuteronomy 6:6
 These commandments that I am giving you today are to be upon your hearts.
@@ -37,7 +37,7 @@ houses filled with all sorts of good things you did not provide, wells you did n
 be careful not to forget the Lord, who brought you out of Egypt, out of the land of slavery.
 
 ## Deuteronomy 6:13
-Fear the Lord your God, serve Him only, and take your oaths in His name.
+Revere the Lord your God, serve Him only, and make your oaths in His name.
 
 ## Deuteronomy 6:14
 Do not follow other gods, any of the gods of the peoples around you;
@@ -46,7 +46,7 @@ Do not follow other gods, any of the gods of the peoples around you;
 for the Lord your God, who is among you, is a jealous God; otherwise, the anger of the Lord your God will be kindled against you, and He will wipe you off the face of the earth.
 
 ## Deuteronomy 6:16
-Do not put the Lord your God to the test as you did at Massah.
+Do not test the Lord your God as you did at Massah.
 
 ## Deuteronomy 6:17
 Be sure to keep the commandments of the Lord your God and the decrees and statutes He has given you.
@@ -55,19 +55,19 @@ Be sure to keep the commandments of the Lord your God and the decrees and statut
 Do what is right and good in the sight of the Lord, so that it may go well with you and that you may go in and take possession of the good land the Lord promised on oath to your ancestors,
 
 ## Deuteronomy 6:19
-by driving out all your enemies from before you, as the Lord has spoken.
+by removing all your enemies from before you, as the Lord has spoken.
 
 ## Deuteronomy 6:20
 In the future, when your son asks you, “What is the meaning of the statutes, decrees, and laws which the Lord our God has commanded you?”
 
 ## Deuteronomy 6:21
-tell him: “We were slaves of Pharaoh in Egypt, but the Lord brought us out of Egypt with a mighty hand.
+tell him: “We were servants of Pharaoh in Egypt, but the Lord delivered us from Egypt with a mighty hand.
 
 ## Deuteronomy 6:22
 Before our eyes, the Lord performed great and terrible signs and wonders against Egypt, Pharaoh, and all his household.
 
 ## Deuteronomy 6:23
-But He brought us out from there to bring us in and give us the land He promised on oath to our ancestors.
+Yet He brought us out from there to bring us in and give us the land He promised on oath to our ancestors.
 
 ## Deuteronomy 6:24
 The Lord commanded us to follow all these statutes and to fear the Lord our God, for our good always and for our survival, as it is today.

@@ -55,7 +55,7 @@ You must not eat in your own towns the tithe of your grain, new wine, or olive o
 Instead, you are to eat them in the presence of the Lord your God at the place the Lord your God will choose—you, your sons and daughters, your male and female servants, and the Levites from your towns—and you shall rejoice in all your undertakings.
 
 ## Deuteronomy 12:19
-Be careful not to neglect the Levites as long as you live in your land.
+Be mindful to support the Levites as long as you live in your land.
 
 ## Deuteronomy 12:20
 When the Lord your God enlarges your territory as he has promised, and you crave meat and say, “I would like some meat,” then you may eat as much of it as you desire.
@@ -64,7 +64,7 @@ When the Lord your God enlarges your territory as he has promised, and you crave
 If the place where the Lord your God chooses to put his Name is too far from you, you may slaughter animals from your herds and flocks the Lord has given you, as I have commanded you, and you may eat in your own towns as much as you desire.
 
 ## Deuteronomy 12:22
-Eat them as you would gazelle or deer. Both the ceremonially unclean and the clean may eat.
+Consume them as you would gazelle or deer. Both the ceremonially unclean and the clean may partake.
 
 ## Deuteronomy 12:23
 But be sure you do not consume the blood, for the blood is the life, and you must not eat the life with the meat.
@@ -73,25 +73,25 @@ But be sure you do not consume the blood, for the blood is the life, and you mus
 You must not consume the blood; pour it out on the ground like water.
 
 ## Deuteronomy 12:25
-Do not eat it, so that it may go well with you and your children after you, because you will be doing what is right in the eyes of the Lord.
+Refrain from eating it, so that it may be well with you and your children after you, because you will be doing what is right in the sight of the Lord.
 
 ## Deuteronomy 12:26
-But take your consecrated things and whatever you have vowed to give, and go to the place the Lord will choose.
+But take your consecrated things and your vowed offerings, and go to the place the Lord will choose.
 
 ## Deuteronomy 12:27
-Present your burnt offerings on the altar of the Lord your God, both the meat and the blood. The blood of your sacrifices must be poured beside the altar of the Lord your God, but you may eat the meat.
+Present your burnt offerings on the altar of the Lord your God, both the meat and the blood. The blood of your sacrifices must be poured beside the altar of the Lord your God, but you may consume the meat.
 
 ## Deuteronomy 12:28
-Be careful to obey all these regulations I am giving you, so that it may always go well with you and your children after you, because you will be doing what is good and right in the eyes of the Lord your God.
+Be diligent to obey all these regulations I am giving you, so that it may always be well with you and your children after you, because you will be doing what is good and right in the sight of the Lord your God.
 
 ## Deuteronomy 12:29
-The Lord your God will cut off before you the nations you are about to invade and dispossess. But when you have driven them out and settled in their land,
+The Lord your God will remove the nations you are about to invade and dispossess. But when you have driven them out and settled in their land,
 
 ## Deuteronomy 12:30
 be careful not to be ensnared by inquiring about their gods, saying, “How do these nations serve their gods? We will do the same.”
 
 ## Deuteronomy 12:31
-You must not worship the Lord your God in their way, because in worshipping their gods, they do all kinds of detestable things the Lord hates. They even burn their sons and daughters in the fire as sacrifices to their gods.
+You must not worship the Lord your God in their manner, because in worshipping their gods, they do all kinds of detestable things the Lord hates. They even burn their sons and daughters in the fire as sacrifices to their gods.
 
 ## Deuteronomy 12:32
-See that you do all I command you; do not add to it or take away from it.
+Ensure that you do all I command you; do not add to it or take away from it.

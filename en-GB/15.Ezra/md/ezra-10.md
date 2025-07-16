@@ -62,7 +62,7 @@ Let our leaders act on behalf of the whole assembly, and let everyone in our tow
 
 ## Ezra 10:15
 
-Only Jonathan son of Asahel and Jahzeiah son of Tikvah opposed this, with Meshullam and Shabbethai the Levite supporting them.
+Jonathan son of Asahel and Jahzeiah son of Tikvah were the only ones who opposed this, with Meshullam and Shabbethai the Levite supporting them.
 
 ## Ezra 10:16
 
@@ -70,7 +70,7 @@ So the exiles did as proposed. Ezra the priest selected men who were heads of fa
 
 ## Ezra 10:17
 
-and by the first day of the first month they finished dealing with all the men who had married foreign women.
+and by the first day of the first month they completed addressing all the men who had married foreign women.
 
 ## Ezra 10:18
 
@@ -94,7 +94,7 @@ From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad,
 
 ## Ezra 10:23
 
-Among the Levites: Jozabad, Shimei, Kelaiah (that is, Kelita), Pethahiah, Judah, and Eliezer.
+Among the Levites: Jozabad, Shimei, Kelaiah (also known as Kelita), Pethahiah, Judah, and Eliezer.
 
 ## Ezra 10:24
 
@@ -178,4 +178,4 @@ From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, an
 
 ## Ezra 10:44
 
-All these had married foreign women, and some of them had children by these wives.
+All these had married foreign women, and some of them had children with these wives.

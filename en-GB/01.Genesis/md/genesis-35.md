@@ -25,7 +25,7 @@ He built an altar there and named the place El-bethel, because it was there that
 Now Deborah, Rebekah’s nurse, passed away and was buried beneath the oak below Bethel; it was named Allon-bacuth.
 
 ## Genesis 35:9
-God appeared to Jacob again after he returned from Paddan-aram, and He blessed him.
+God once more revealed Himself to Jacob after his return from Paddan-aram, and He blessed him.
 
 ## Genesis 35:10
 God said to him, “Your name is Jacob, but you shall no longer be called Jacob; Israel shall be your name.” Thus He named him Israel.
@@ -43,7 +43,7 @@ Then God departed from him at the place where He had spoken with him.
 Jacob set up a stone pillar at the place where God had spoken with him, and he poured out a drink offering on it and also poured oil on it.
 
 ## Genesis 35:15
-Jacob named the place where God had spoken with him Bethel.
+Jacob called the place where God had spoken with him Bethel.
 
 ## Genesis 35:16
 Then they departed from Bethel. When they were still some distance from Ephrath, Rachel went into labour and experienced severe difficulties.
@@ -67,7 +67,7 @@ Israel journeyed on and pitched his tent beyond the tower of Eder.
 While Israel was residing in that land, Reuben went and lay with his father’s concubine Bilhah, and Israel heard of it. Now Jacob had twelve sons:
 
 ## Genesis 35:23
-The sons of Leah were Reuben, Jacob’s firstborn, and Simeon, Levi, Judah, Issachar, and Zebulun.
+Leah's sons were Reuben, Jacob’s firstborn, and Simeon, Levi, Judah, Issachar, and Zebulun.
 
 ## Genesis 35:24
 The sons of Rachel were Joseph and Benjamin.
@@ -82,7 +82,7 @@ The sons of Leah’s maidservant Zilpah were Gad and Asher. These were the sons 
 Jacob came to his father Isaac at Mamre, near Kiriath-arba (that is, Hebron), where Abraham and Isaac had stayed.
 
 ## Genesis 35:28
-Isaac lived for one hundred and eighty years.
+Isaac reached the age of one hundred and eighty years.
 
 ## Genesis 35:29
 Then he breathed his last and died, and was gathered to his people, old and full of years. His sons Esau and Jacob buried him.

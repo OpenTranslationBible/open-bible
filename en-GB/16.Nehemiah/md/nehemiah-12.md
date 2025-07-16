@@ -32,7 +32,7 @@ Sallu, Amok, Hilkiah, and Jedaiah. These were the leaders of the priests and the
 
 ## Nehemiah 12:8
 
-The Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who was in charge of the songs of thanksgiving, he and his brothers.
+Among the Levites were Jeshua, Binnui, Kadmiel, Sherebiah, Judah, and Mattaniah, who, along with his brothers, was responsible for the songs of thanksgiving.
 
 ## Nehemiah 12:9
 
@@ -48,7 +48,7 @@ Joiada the father of Jonathan, and Jonathan the father of Jaddua.
 
 ## Nehemiah 12:12
 
-In the days of Joiakim, these were the heads of the priestly families: of Seraiah’s family, Meraiah; of Jeremiah’s, Hananiah;
+During the time of Joiakim, these were the heads of the priestly families: of Seraiah’s family, Meraiah; of Jeremiah’s, Hananiah;
 
 ## Nehemiah 12:13
 
@@ -116,7 +116,7 @@ The sons of the singers gathered together from the region around Jerusalem, and 
 
 ## Nehemiah 12:29
 
-from Beth-gilgal, and from the fields of Geba and Azmaveth, for the singers had built villages for themselves around Jerusalem.
+from Beth-gilgal, and from the fields of Geba and Azmaveth, for the singers had established villages for themselves around Jerusalem.
 
 ## Nehemiah 12:30
 
@@ -160,7 +160,7 @@ over the Gate of Ephraim, the Jeshanah Gate, the Fish Gate, the Tower of Hananel
 
 ## Nehemiah 12:40
 
-The two choirs that gave thanks then took their places in the house of God; so did I, together with half the officials,
+The two choirs that offered thanks then took their places in the house of God; I also took my place there, along with half the officials,
 
 ## Nehemiah 12:41
 

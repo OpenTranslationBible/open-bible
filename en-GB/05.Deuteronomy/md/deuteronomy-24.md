@@ -58,7 +58,7 @@ Remember that you were slaves in Egypt and that the Lord your God redeemed you f
 When you harvest in your field and forget a sheaf, do not return to get it. Leave it for the foreigner, the fatherless, and the widow, so that the Lord your God may bless you in all the work of your hands.
 
 ## Deuteronomy 24:20
-When you beat the olives from your trees, do not go over the branches a second time. Leave what remains for the foreigner, the fatherless, and the widow.
+When you gather olives from your trees, do not go over the branches a second time. Leave what remains for the foreigner, the fatherless, and the widow.
 
 ## Deuteronomy 24:21
 When you gather the grapes from your vineyard, do not go over the vines again. Leave what remains for the foreigner, the fatherless, and the widow.

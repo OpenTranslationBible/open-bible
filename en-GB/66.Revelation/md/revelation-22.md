@@ -43,7 +43,7 @@ I am the Alpha and the Omega, the First and the Last, the Beginning and the End.
 Blessed are those who wash their robes, so that they may have the right to the tree of life and may enter the city through the gates.
 
 ## Revelation 22:15
-Outside are the dogs, the sorcerers, the sexually immoral, the murderers, the idolaters, and everyone who loves and practices falsehood.
+Outside are those who engage in sorcery, immorality, murder, idolatry, and all who love and practice deceit.
 
 ## Revelation 22:16
 “I, Jesus, have sent My angel to testify to you of these things for the churches. I am the Root and the Offspring of David, the bright Morning Star.”
@@ -55,10 +55,10 @@ The Spirit and the bride say, “Come.” And let the one who hears say, “Come
 I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to that person the plagues described in this book.
 
 ## Revelation 22:19
-And if anyone takes away from the words of the book of this prophecy, God will take away that person's share in the tree of life and in the Holy City, which are described in this book.
+And if anyone removes from the words of the book of this prophecy, God will remove that person's share in the tree of life and in the Holy City, which are described in this book.
 
 ## Revelation 22:20
-He who testifies to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus.
+The one who bears witness to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus.
 
 ## Revelation 22:21
 The grace of the Lord Jesus be with all. Amen.

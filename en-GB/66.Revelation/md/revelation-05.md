@@ -66,4 +66,4 @@ And I heard every creature in heaven, on earth, under the earth, and on the sea,
 
 ## Revelation 5:14
 
-The four living creatures said, “Amen,” and the elders fell down and worshipped.
+The four living creatures affirmed with “Amen,” and the elders bowed down and worshipped.

@@ -28,7 +28,7 @@ Like binding a stone in a sling, so is giving honour to a fool.
 Like a thornbush in the hand of a drunkard is a proverb in the mouth of fools.
 
 ## Proverbs 26:10
-Like an archer who wounds at random is one who hires a fool or any passer-by.
+As an archer who shoots aimlessly is one who hires a fool or any passer-by.
 
 ## Proverbs 26:11
 As a dog returns to its vomit, so a fool repeats his folly.
@@ -40,7 +40,7 @@ Do you see someone who is wise in their own eyes? There is more hope for a fool 
 A sluggard says, “There is a lion in the road, a lion in the streets!”
 
 ## Proverbs 26:14
-As a door turns on its hinges, so a sluggard turns on his bed.
+As a door swings on its hinges, so a sluggard turns on his bed.
 
 ## Proverbs 26:15
 A sluggard buries his hand in the dish; he is too weary to bring it back to his mouth.
@@ -58,7 +58,7 @@ Like a madman who shoots flaming arrows and death,
 is one who deceives a neighbour and says, “I was only joking!”
 
 ## Proverbs 26:20
-Without wood a fire goes out; without a gossip, a quarrel dies down.
+Without wood, a fire goes out; without a gossip, a quarrel subsides.
 
 ## Proverbs 26:21
 As charcoal to embers and wood to fire, so is a contentious person to kindle strife.
@@ -70,16 +70,16 @@ The words of a gossip are like choice morsels; they go down to the innermost par
 Like an earthenware vessel coated with silver dross are fervent lips with an evil heart.
 
 ## Proverbs 26:24
-Enemies disguise themselves with their lips, but in their hearts they harbour deceit.
+Those who are enemies disguise their intentions with their lips, but in their hearts they harbour deceit.
 
 ## Proverbs 26:25
 Though their speech is charming, do not believe them, for seven abominations fill their heart.
 
 ## Proverbs 26:26
-Their malice may be concealed by deception, but their wickedness will be exposed in the assembly.
+Their malice may be hidden by deception, but their wickedness will be revealed in the assembly.
 
 ## Proverbs 26:27
 Whoever digs a pit will fall into it; if someone rolls a stone, it will roll back on them.
 
 ## Proverbs 26:28
-A lying tongue hates those it crushes, and a flattering mouth works ruin.
+A deceitful tongue despises those it harms, and a flattering mouth leads to ruin.

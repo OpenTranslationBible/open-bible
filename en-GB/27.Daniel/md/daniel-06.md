@@ -25,7 +25,7 @@ The royal administrators, prefects, satraps, advisers, and governors have all ag
 Now, O king, issue the decree and sign it so that it cannot be altered, according to the law of the Medes and Persians, which cannot be repealed.”
 
 ## Daniel 6:9
-Therefore, King Darius signed the written decree.
+Thus, King Darius put his signature on the written decree.
 
 ## Daniel 6:10
 When Daniel knew that the decree had been signed, he went to his house, where he had windows in his upper room open towards Jerusalem. He knelt down three times a day, praying and giving thanks before his God, as he had done previously.

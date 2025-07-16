@@ -46,7 +46,7 @@ I was in the Spirit on the Lord’s Day, and I heard behind me a loud voice like
 
 ## Revelation 1:11
 
-saying, “Write on a scroll what you see and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.”
+instructing me to write what I see on a scroll and send it to the seven churches: to Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, and Laodicea.
 
 ## Revelation 1:12
 
@@ -70,7 +70,7 @@ In His right hand He held seven stars, and out of His mouth came a sharp, double
 
 ## Revelation 1:17
 
-When I saw Him, I fell at His feet as though dead. Then He placed His right hand on me and said: “Do not be afraid. I am the First and the Last,
+Upon seeing Him, I fell at His feet as if lifeless. Then He placed His right hand on me and said: “Do not be afraid. I am the First and the Last,
 
 ## Revelation 1:18
 
@@ -82,4 +82,4 @@ Write, therefore, what you have seen, what is now, and what will take place afte
 
 ## Revelation 1:20
 
-The mystery of the seven stars that you saw in My right hand and of the seven golden lampstands is this: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.
+Regarding the seven stars you saw in My right hand and the seven golden lampstands: The seven stars are the angels of the seven churches, and the seven lampstands are the seven churches.

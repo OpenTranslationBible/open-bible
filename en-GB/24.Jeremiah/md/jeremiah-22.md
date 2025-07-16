@@ -44,7 +44,7 @@ Do not weep for the dead king or mourn his loss; rather, weep bitterly for him w
 
 ## Jeremiah 22:11
 
-For this is what the Lord says about Shallum son of Josiah, who succeeded his father as king of Judah but has gone from this place: “He will never return.
+This is what the Lord declares regarding Shallum son of Josiah, who succeeded his father as king of Judah but has departed: “He will never return.
 
 ## Jeremiah 22:12
 
@@ -72,7 +72,7 @@ He defended the cause of the poor and needy, and so all went well. Is this not w
 
 ## Jeremiah 22:18
 
-Therefore this is what the Lord says about Jehoiakim son of Josiah, king of Judah: “They will not mourn for him: ‘Alas, my brother! Alas, my sister!’ They will not mourn for him: ‘Alas, my master! Alas, his splendour!’
+Thus says the Lord concerning Jehoiakim son of Josiah, king of Judah: “They will not mourn for him: ‘Alas, my brother! Alas, my sister!’ They will not mourn for him: ‘Alas, my master! Alas, his splendour!’
 
 ## Jeremiah 22:19
 
@@ -80,7 +80,7 @@ He will have the burial of a donkey—dragged away and thrown outside the gates 
 
 ## Jeremiah 22:20
 
-“Go up to Lebanon and cry out, let your voice be heard in Bashan, cry out from Abarim, for all your allies are crushed.
+“Ascend to Lebanon and cry out, let your voice be heard in Bashan, call out from Abarim, for all your allies are crushed.
 
 ## Jeremiah 22:21
 

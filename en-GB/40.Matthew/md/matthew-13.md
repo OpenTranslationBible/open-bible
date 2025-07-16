@@ -40,7 +40,7 @@ He who has ears, let him hear.”
 
 ## Matthew 13:10
 
-The disciples came to him and asked, “Why do you speak to the people in parables?”
+The disciples approached him and inquired, “Why do you use parables when speaking to the people?”
 
 ## Matthew 13:11
 
@@ -81,13 +81,13 @@ But blessed are your eyes, for they see; and your ears, for they hear.
 
 ## Matthew 13:17
 
-For truly I say to you, many prophets and righteous people longed to see what you see and did not see it, and to hear what you hear and did not hear it.
+For I assure you, many prophets and righteous people desired to see what you see and did not see it, and to hear what you hear and did not hear it.
 
 ---
 
 ## Matthew 13:18
 
-“Listen then to the parable of the sower.
+“Now hear the explanation of the parable of the sower.
 
 ## Matthew 13:19
 
@@ -117,7 +117,7 @@ He presented another parable to them, saying, “The kingdom of heaven is like a
 
 ## Matthew 13:25
 
-But while everyone was sleeping, his enemy came and sowed weeds among the wheat, and went away.
+But while everyone was asleep, his enemy came and sowed weeds among the wheat, and went away.
 
 ## Matthew 13:26
 
@@ -143,7 +143,7 @@ Let both grow together until the harvest. At the time of harvest, I will say to 
 
 ## Matthew 13:31
 
-He told them another parable: “The kingdom of heaven is like a mustard seed, which a man took and planted in his field.
+He shared with them another parable: “The kingdom of heaven is like a mustard seed, which a man took and planted in his field.
 
 ## Matthew 13:32
 
@@ -221,7 +221,7 @@ When it was full, they pulled it up on the shore, and sat down and collected the
 
 ## Matthew 13:49
 
-This is how it will be at the end of the age. The angels will come and separate the wicked from the righteous
+This is what will occur at the end of the age. The angels will come and separate the wicked from the righteous
 
 ## Matthew 13:50
 
@@ -241,7 +241,7 @@ And he said to them, “Therefore every scribe who has become a disciple in the 
 
 ## Matthew 13:53
 
-When Jesus had finished these parables, he departed from there.
+After Jesus had finished these parables, he moved on from there.
 
 ## Matthew 13:54
 
@@ -253,7 +253,7 @@ Coming to his hometown, he began teaching the people in their synagogue, and the
 
 ## Matthew 13:56
 
-And are not all his sisters with us? Where then did this man get all these things?”
+And are not all his sisters among us? So where did this man acquire all these things?”
 
 ## Matthew 13:57
 
@@ -261,4 +261,4 @@ And they took offence at him. But Jesus said to them, “A prophet is not withou
 
 ## Matthew 13:58
 
-And he did not do many miracles there because of their lack of faith.
+And he did not perform many miracles there due to their lack of faith.

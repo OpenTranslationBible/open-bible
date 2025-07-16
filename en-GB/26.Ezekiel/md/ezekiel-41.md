@@ -40,7 +40,7 @@ The building facing the temple courtyard on the west side was seventy cubits wid
 He measured the temple, which was a hundred cubits long, and the courtyard and building with its walls were also a hundred cubits long.
 
 ## Ezekiel 41:14
-The width of the temple courtyard on the east, including the front of the temple, was a hundred cubits.
+The eastern side of the temple courtyard, including the front of the temple, measured a hundred cubits.
 
 ## Ezekiel 41:15
 He measured the length of the building facing the courtyard at the rear of the temple, including its galleries on each side; it was a hundred cubits. This included the main hall, the inner sanctuary, and the portico facing the courtyard.

@@ -16,7 +16,7 @@ When the days of mourning were completed, Joseph spoke to Pharaoh’s household,
 ‘My father made me swear an oath, saying, “Behold, I am about to die; in the grave I prepared for myself in the land of Canaan, you shall bury me there.” Now let me go up and bury my father; then I will return.’”
 
 ## Genesis 50:6
-Pharaoh said, “Go up and bury your father, as he made you swear to do.”
+Pharaoh replied, “Go and bury your father, as he made you swear.”
 
 ## Genesis 50:7
 So Joseph went up to bury his father. With him went all of Pharaoh’s officials, the elders of his household, and all the elders of Egypt,
@@ -34,7 +34,7 @@ When they reached the threshing floor of Atad, beyond the Jordan, they mourned w
 When the Canaanites who lived there saw the mourning at the threshing floor of Atad, they said, “This is a solemn mourning for the Egyptians.” Therefore, the place was named Abel Mizraim, which is beyond the Jordan.
 
 ## Genesis 50:12
-Thus Jacob’s sons did for him as he had commanded them:
+So Jacob’s sons did for him as he had instructed them:
 
 ## Genesis 50:13
 They carried him to the land of Canaan and buried him in the cave in the field of Machpelah, opposite Mamre, which Abraham had bought along with the field as a burial site from Ephron the Hittite.
@@ -58,7 +58,7 @@ Then his brothers also came and bowed down before him, saying, “Behold, we are
 But Joseph said to them, “Do not be afraid, for am I in the place of God?
 
 ## Genesis 50:20
-You intended to harm me, but God intended it for good, to accomplish what is now being done, the saving of many lives.
+You intended to harm me, but God used it for good, to accomplish what is now being done, the saving of many lives.
 
 ## Genesis 50:21
 So then, do not be afraid. I will provide for you and your little ones.” And he comforted them and spoke kindly to them.
@@ -76,4 +76,4 @@ Joseph said to his brothers, “I am about to die, but God will surely come to y
 Then Joseph made the sons of Israel swear an oath, saying, “God will surely come to your aid, and you must carry my bones up from this place.”
 
 ## Genesis 50:26
-So Joseph died at the age of a hundred and ten, and after they embalmed him, he was placed in a coffin in Egypt.
+So Joseph passed away at the age of a hundred and ten, and after they embalmed him, he was placed in a coffin in Egypt.

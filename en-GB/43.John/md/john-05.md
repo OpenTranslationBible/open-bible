@@ -18,7 +18,7 @@ In these colonnades lay a multitude of those who were sick, blind, lame, or para
 
 ## John 5:5
 
-One man was there who had been an invalid for thirty-eight years.
+There was a man there who had been unable to walk for thirty-eight years.
 
 ## John 5:6
 
@@ -44,11 +44,11 @@ So the Jewish leaders said to the man who had been healed, “It is the Sabbath;
 
 ## John 5:11
 
-But he replied, “The man who made me well said to me, ‘Pick up your mat and walk.’”
+But he replied, “The one who healed me told me, ‘Pick up your mat and walk.’”
 
 ## John 5:12
 
-They asked him, “Who is the man who told you to pick it up and walk?”
+They asked him, “Who is the person who instructed you to pick it up and walk?”
 
 ## John 5:13
 
@@ -114,11 +114,11 @@ For just as the Father has life in himself, so he has granted the Son also to ha
 
 ## John 5:27
 
-And he has given him authority to execute judgement, because he is the Son of Man.
+And he has given him the authority to carry out judgement, because he is the Son of Man.
 
 ## John 5:28
 
-Do not be amazed at this, for a time is coming when all who are in their graves will hear his voice
+Do not be surprised at this, for a time is coming when all who are in their graves will hear his voice
 
 ## John 5:29
 
@@ -132,11 +132,11 @@ By myself I can do nothing; I judge only as I hear, and my judgement is just, fo
 
 ## John 5:31
 
-“If I testify about myself, my testimony is not valid.
+“If I testify about myself, my testimony is not considered valid.
 
 ## John 5:32
 
-There is another who testifies in my favour, and I know that his testimony about me is true.
+There is another who testifies in my favour, and I am confident that his testimony about me is true.
 
 ---
 
@@ -146,11 +146,11 @@ You have sent to John, and he has testified to the truth.
 
 ## John 5:34
 
-Not that I accept human testimony, but I mention it that you may be saved.
+Not that I rely on human testimony, but I mention it so that you may be saved.
 
 ## John 5:35
 
-John was a lamp that burned and gave light, and you chose for a time to enjoy his light.
+John was a lamp that burned and gave light, and you chose for a time to enjoy his illumination.
 
 ## John 5:36
 
@@ -160,7 +160,7 @@ But I have a testimony greater than that of John. For the works that the Father 
 
 ## John 5:37
 
-And the Father who sent me has himself testified concerning me. You have never heard his voice nor seen his form,
+And the Father who sent me has himself testified concerning me. You have neither heard his voice nor seen his form,
 
 ## John 5:38
 
@@ -178,11 +178,11 @@ yet you refuse to come to me to have life.
 
 ## John 5:41
 
-I do not accept glory from people,
+I do not seek glory from people,
 
 ## John 5:42
 
-but I know you. I know that you do not have the love of God in your hearts.
+but I know you. I understand that you do not have the love of God within you.
 
 ## John 5:43
 
@@ -190,7 +190,7 @@ I have come in my Father’s name, and you do not accept me; but if someone else
 
 ## John 5:44
 
-How can you believe, since you accept glory from one another but do not seek the glory that comes from the only God?
+How can you believe, since you seek approval from one another but do not seek the glory that comes from the only God?
 
 ## John 5:45
 

@@ -36,7 +36,7 @@ The lands included the hill country, the lowlands, the Arabah, the mountain slop
 
 ## Joshua 12:9
 
-the king of Jericho, one; the king of Ai (near Bethel), one;
+the ruler of Jericho, one; the ruler of Ai (near Bethel), one;
 
 ## Joshua 12:10
 

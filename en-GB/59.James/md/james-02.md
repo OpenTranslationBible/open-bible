@@ -40,10 +40,10 @@ So speak and act as those who are to be judged by the law that gives freedom.
 For judgment without mercy will be shown to anyone who has not been merciful. Mercy triumphs over judgment.
 
 ## James 2:14
-What good is it, my brothers and sisters, if someone claims to have faith but has no deeds? Can such faith save them?
+What benefit is there, my brothers and sisters, if someone professes to have faith but lacks deeds? Can that kind of faith save them?
 
 ## James 2:15
-If a brother or sister is without clothing and in need of daily food,
+If a brother or sister lacks clothing and daily food,
 
 ## James 2:16
 and one of you says to them, “Go in peace; keep warm and well fed,” but does nothing about their physical needs, what good is it?
@@ -55,7 +55,7 @@ In the same way, faith by itself, if it is not accompanied by works, is dead.
 But someone might say, “You have faith and I have works.” Show me your faith without works, and I will show you my faith by my works.
 
 ## James 2:19
-You believe that there is one God. Good! Even the demons believe that—and shudder.
+You acknowledge that there is one God. Well done! Even the demons acknowledge that—and tremble.
 
 ## James 2:20
 You foolish person, do you want evidence that faith without works is useless?
@@ -64,7 +64,7 @@ You foolish person, do you want evidence that faith without works is useless?
 Was not our father Abraham justified by works when he offered his son Isaac on the altar?
 
 ## James 2:22
-You see that his faith and his actions were working together, and his faith was made complete by what he did.
+You see that his faith and his actions were in harmony, and his faith was brought to completion by what he did.
 
 ## James 2:23
 And the scripture was fulfilled that says, “Abraham believed God, and it was credited to him as righteousness,” and he was called a friend of God.
@@ -76,4 +76,4 @@ You see that a person is justified by what they do and not by faith alone.
 In the same way, was not Rahab the prostitute justified by works when she received the messengers and sent them off by a different route?
 
 ## James 2:26
-As the body without the spirit is dead, so faith without works is dead.
+Just as the body without the spirit is lifeless, so faith without works is lifeless.

@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 16
 
 ## Deuteronomy 16:1
-Observe the month of Abib and celebrate the Passover to the Lord your God, for in the month of Abib, the Lord your God brought you out of Egypt by night.
+Keep the month of Abib and honor the Passover to the Lord your God, for it was in the month of Abib that the Lord your God led you out of Egypt by night.
 
 ## Deuteronomy 16:2
 Sacrifice the Passover to the Lord your God from your flock or herd, at the place the Lord chooses to establish His name.
@@ -25,10 +25,10 @@ Roast and eat it at the place the Lord your God will choose. Then in the morning
 For six days eat unleavened bread, and on the seventh day hold a solemn assembly to the Lord your God; do no work.
 
 ## Deuteronomy 16:9
-Count off seven weeks from the time you begin to put the sickle to the standing grain.
+Begin counting seven weeks from the time you start to harvest the standing grain.
 
 ## Deuteronomy 16:10
-Then celebrate the Festival of Weeks to the Lord your God by giving a freewill offering in proportion to the blessings the Lord your God has given you.
+Then observe the Festival of Weeks to the Lord your God by presenting a freewill offering in accordance with the blessings the Lord your God has given you.
 
 ## Deuteronomy 16:11
 Rejoice before the Lord your God—you, your sons and daughters, your male and female servants, the Levites in your towns, and the foreigners, the fatherless, and the widows living among you, at the place the Lord your God will choose to establish His name.
@@ -40,7 +40,7 @@ Remember that you were slaves in Egypt, and carefully follow these decrees.
 Celebrate the Festival of Booths for seven days after you have gathered the produce of your threshing floor and your winepress.
 
 ## Deuteronomy 16:14
-Be joyful at your festival—you, your sons and daughters, your male and female servants, and the Levites, the foreigners, the fatherless, and the widows who live in your towns.
+Rejoice at your festival—you, your sons and daughters, your male and female servants, and the Levites, the foreigners, the fatherless, and the widows who live in your towns.
 
 ## Deuteronomy 16:15
 For seven days celebrate the festival to the Lord your God at the place the Lord will choose. The Lord your God will bless you in all your harvest and in all the work of your hands, and your joy will be complete.

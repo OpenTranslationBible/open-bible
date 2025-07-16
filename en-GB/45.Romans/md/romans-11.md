@@ -2,7 +2,7 @@
 
 ## Romans 11:1
 
-I ask then, has God rejected His people? Absolutely not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin.
+I ask, then, has God cast away His people? Certainly not! For I too am an Israelite, a descendant of Abraham, from the tribe of Benjamin.
 
 ## Romans 11:2
 
@@ -66,7 +66,7 @@ if somehow I might provoke my own people to jealousy and save some of them.
 
 ## Romans 11:15
 
-For if their rejection brought reconciliation to the world, what will their acceptance be but life from the dead?
+For if their rejection led to the reconciliation of the world, what will their acceptance be but life from the dead?
 
 ## Romans 11:16
 
@@ -82,7 +82,7 @@ do not boast over those branches. If you do, remember that it is not you who sup
 
 ## Romans 11:19
 
-You will say then, “Branches were broken off so that I could be grafted in.”
+You might say, “Branches were broken off so that I could be grafted in.”
 
 ## Romans 11:20
 
@@ -98,7 +98,7 @@ Consider therefore the kindness and severity of God: severity to those who fell,
 
 ## Romans 11:23
 
-And if they do not persist in unbelief, they will be grafted in, for God is able to graft them in again.
+And if they do not continue in unbelief, they will be grafted in, for God is able to graft them in again.
 
 ## Romans 11:24
 
@@ -106,7 +106,7 @@ For if you were cut from an olive tree that is wild by nature, and contrary to n
 
 ## Romans 11:25
 
-I do not want you to be ignorant of this mystery, brothers and sisters, so that you may not be conceited: Israel has experienced a hardening in part until the full number of the Gentiles has come in,
+I do not want you to be unaware of this mystery, brothers and sisters, so that you may not be conceited: Israel has experienced a partial hardening until the full number of the Gentiles has come in,
 
 ## Romans 11:26
 
@@ -122,11 +122,11 @@ and in this way all Israel will be saved. As it is written:
 
 ## Romans 11:28
 
-As far as the gospel is concerned, they are enemies for your sake; but as far as election is concerned, they are loved on account of the patriarchs,
+As far as the gospel is concerned, they are adversaries for your benefit; but as far as election is concerned, they are loved on account of the patriarchs,
 
 ## Romans 11:29
 
-for God’s gifts and His call are irrevocable.
+for God’s gifts and His call are unchangeable.
 
 ## Romans 11:30
 
@@ -134,11 +134,11 @@ Just as you who were once disobedient to God have now received mercy as a result
 
 ## Romans 11:31
 
-so they too have now become disobedient in order that they too may now receive mercy as a result of God’s mercy to you.
+so they too have now become disobedient so that they too may now receive mercy as a result of God’s mercy to you.
 
 ## Romans 11:32
 
-For God has bound everyone over to disobedience so that He may have mercy on them all.
+For God has allowed everyone to be disobedient so that He may have mercy on them all.
 
 ## Romans 11:33
 

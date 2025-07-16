@@ -2,7 +2,7 @@
 
 ## Ezekiel 26:1
 
-In the eleventh year, on the first day of the month, the word of the Lord came to me, saying:
+In the eleventh year, on the first day of the month, the message from the Lord came to me:
 
 ## Ezekiel 26:2
 
@@ -34,7 +34,7 @@ He will ravage your settlements on the mainland with the sword; he will set up s
 
 ## Ezekiel 26:9
 
-He will direct the blows of his battering rams against your walls and demolish your towers with his weapons.
+He will strike your walls with his battering rams and demolish your towers with his weapons.
 
 ## Ezekiel 26:10
 
@@ -54,7 +54,7 @@ I will put an end to your noisy songs, and the sound of your harps will be heard
 
 ## Ezekiel 26:14
 
-I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I the Lord have spoken, declares the Sovereign Lord.
+I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I, the Lord, have spoken, declares the Sovereign Lord.
 
 ## Ezekiel 26:15
 
@@ -92,4 +92,4 @@ then I will bring you down with those who go down to the pit, to the people of o
 
 ## Ezekiel 26:21
 
-I will bring you to a horrible end and you will be no more. You will be sought, but you will never again be found, declares the Sovereign Lord.
+I will bring you to a dreadful end, and you will be no more. You will be sought, but you will never again be found, declares the Sovereign Lord.

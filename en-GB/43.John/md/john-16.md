@@ -10,17 +10,17 @@ They will exclude you from the synagogue; indeed, a time is coming when anyone w
 
 ## John 16:3
 
-They will do these things because they have not known the Father or me.
+They will do these things because they have not recognized the Father or me.
 
 ## John 16:4
 
-I have told you this so that when their time comes, you will remember that I warned you about them. I did not tell you this from the beginning because I was with you.
+I have informed you of this so that when their time comes, you will remember that I mentioned it to you. I did not tell you this from the beginning because I was with you.
 
 ---
 
 ## John 16:5
 
-But now I am going to the one who sent me, and none of you asks me, ‘Where are you going?’
+But now I am going to the One who sent me, and none of you asks me, ‘Where are you going?’
 
 ## John 16:6
 
@@ -40,7 +40,7 @@ concerning sin, because they do not believe in me;
 
 ## John 16:10
 
-concerning righteousness, because I am going to the Father and you will no longer see me;
+concerning righteousness, because I am returning to the Father and you will no longer see me;
 
 ## John 16:11
 
@@ -50,7 +50,7 @@ and concerning judgement, because the ruler of this world is judged.
 
 ## John 16:12
 
-“I have many more things to say to you, but you cannot bear them now.
+“I have much more to share with you, but you cannot bear it now.
 
 ## John 16:13
 
@@ -122,7 +122,7 @@ For the Father himself loves you, because you have loved me and have believed th
 
 ## John 16:28
 
-I came from the Father and have come into the world; now I am leaving the world and going back to the Father.”
+I came from the Father and have come into the world; now I am departing from the world and returning to the Father.”
 
 ---
 

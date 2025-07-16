@@ -46,7 +46,7 @@ Nebuchadnezzar said to them, “Is it true, Shadrach, Meshach, and Abednego, tha
 Now, if you are ready, when you hear the sound of the horn, flute, lyre, trigon, harp, bagpipe, and all kinds of music, to fall down and worship the image I have made, very well. But if you do not worship, you shall be immediately cast into a blazing furnace. And what god will be able to deliver you from my hands?”
 
 ## Daniel 3:16
-Shadrach, Meshach, and Abednego answered the king, “O Nebuchadnezzar, we have no need to answer you in this matter.
+Shadrach, Meshach, and Abednego replied to the king, “O Nebuchadnezzar, we do not need to defend ourselves in this matter.
 
 ## Daniel 3:17
 If we are thrown into the blazing furnace, the God we serve is able to deliver us from it, and he will deliver us from your hand, O king.
@@ -64,7 +64,7 @@ He commanded some of the strongest soldiers in his army to bind Shadrach, Meshac
 So these men, wearing their trousers, robes, turbans, and other garments, were bound and thrown into the blazing furnace.
 
 ## Daniel 3:22
-The king’s command was so urgent and the furnace so hot that the flames of the fire killed the soldiers who took up Shadrach, Meshach, and Abednego,
+The king’s command was so pressing and the furnace so hot that the flames of the fire killed the soldiers who took up Shadrach, Meshach, and Abednego,
 
 ## Daniel 3:23
 and these three men, Shadrach, Meshach, and Abednego, fell bound into the blazing furnace.

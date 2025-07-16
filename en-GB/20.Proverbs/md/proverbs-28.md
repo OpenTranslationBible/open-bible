@@ -48,7 +48,7 @@ The rich are wise in their own eyes, but the poor with understanding sees throug
 
 ## Proverbs 28:12
 
-When the righteous triumph, there is great glory; but when the wicked rise, people hide themselves.
+When the righteous succeed, there is great celebration; but when the wicked come to power, people conceal themselves.
 
 ## Proverbs 28:13
 
@@ -114,4 +114,4 @@ Those who give to the poor will lack nothing, but those who shut their eyes to t
 
 ## Proverbs 28:28
 
-When the wicked rise, people hide themselves; but when they perish, the righteous increase.
+When the wicked come to power, people conceal themselves; but when they are gone, the righteous flourish.

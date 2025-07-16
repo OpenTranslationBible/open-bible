@@ -1,7 +1,7 @@
 # Ezekiel Chapter 6
 
 ## Ezekiel 6:1
-The word of the Lord came to me, saying:
+The message from the Lord reached me:
 
 ## Ezekiel 6:2
 “Son of man, turn your face towards the mountains of Israel and prophesy against them.

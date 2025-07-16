@@ -40,7 +40,7 @@ From the sons of Benjamin: Sallu son of Meshullam, son of Joed, son of Pedaiah, 
 
 ## Nehemiah 11:8
 
-and his followers, Gabbai and Sallai—928 men.
+and those with him, Gabbai and Sallai—928 men.
 
 ## Nehemiah 11:9
 
@@ -48,7 +48,7 @@ Joel son of Zikri was their chief officer, and Judah son of Hassenuah was second
 
 ## Nehemiah 11:10
 
-From the priests: Jedaiah son of Joiarib, Jakin;
+Among the priests were Jedaiah son of Joiarib, and Jakin;
 
 ## Nehemiah 11:11
 
@@ -68,7 +68,7 @@ and their brethren, valiant warriors—128. Their chief officer was Zabdiel son 
 
 ## Nehemiah 11:15
 
-From the Levites: Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
+Among the Levites were Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
 
 ## Nehemiah 11:16
 
@@ -80,7 +80,7 @@ Mattaniah son of Mika, son of Zabdi, son of Asaph, the leader who began the than
 
 ## Nehemiah 11:18
 
-The Levites in the holy city totalled 284.
+The total number of Levites in the holy city was 284.
 
 ## Nehemiah 11:19
 

@@ -28,7 +28,7 @@ The joy of the tambourines ceases, the noise of the revelers ends, the joy of th
 They do not drink wine with song; strong drink is bitter to those who consume it.
 
 ## Isaiah 24:10
-The city of chaos is broken down; every house is shut up so that none may enter.
+The chaotic city is in ruins; every house is sealed so that none may enter.
 
 ## Isaiah 24:11
 There is an outcry for wine in the streets; all joy turns to gloom, the joy of the earth is banished.
@@ -43,7 +43,7 @@ Thus it shall be in the midst of the earth among the nations, as when an olive t
 They lift up their voices, they sing for joy; they shout from the west about the Lord’s majesty.
 
 ## Isaiah 24:15
-Therefore, glorify the Lord in the east, the name of the Lord, the God of Israel, in the coastlands of the sea.
+Therefore, honor the Lord in the east, the name of the Lord, the God of Israel, in the coastlands of the sea.
 
 ## Isaiah 24:16
 From the ends of the earth we hear songs: “Glory to the Righteous One.” But I say, “I am undone! I am undone! Woe to me! The treacherous deal treacherously, and the treacherous deal very treacherously.”
@@ -55,7 +55,7 @@ Terror, pit, and snare await you, O inhabitant of the earth.
 He who flees the sound of terror will fall into the pit, and he who climbs out of the pit will be caught in the snare; for the windows of heaven are opened, and the foundations of the earth tremble.
 
 ## Isaiah 24:19
-The earth is utterly broken, the earth is split apart, the earth is violently shaken.
+The earth is completely shattered, the earth is split apart, the earth is violently shaken.
 
 ## Isaiah 24:20
 The earth staggers like a drunkard, it sways like a hut; its transgression lies heavy upon it, and it falls, never to rise again.

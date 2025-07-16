@@ -79,7 +79,7 @@ As she was being brought out, she sent a message to her father-in-law, saying, �
 Judah recognised them and said, “She is more righteous than I, since I did not give her to my son Shelah.” And he did not have relations with her again.
 
 ## Genesis 38:27
-When the time came for her to give birth, there were twins in her womb.
+When it was time for her to give birth, she was carrying twins.
 
 ## Genesis 38:28
 While she was giving birth, one of them put out his hand, and the midwife tied a scarlet thread on his wrist, saying, “This one came out first.”

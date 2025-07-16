@@ -19,13 +19,13 @@ He predestined us for adoption to sonship through Jesus Christ, according to the
 to the praise of the glory of His grace, which He has freely given us in the Beloved.
 
 ## Ephesians 1:7
-In Him we have redemption through His blood, the forgiveness of sins, according to the riches of His grace
+Through Him, we have redemption by His sacrifice, the forgiveness of sins, in line with the riches of His grace
 
 ## Ephesians 1:8
 which He lavished on us. With all wisdom and insight,
 
 ## Ephesians 1:9
-He made known to us the mystery of His will according to His good pleasure, which He purposed in Christ,
+He revealed to us the mystery of His will, as it pleased Him, which He intended in Christ,
 
 ## Ephesians 1:10
 to be put into effect when the times reach their fulfilment—to bring unity to all things in heaven and on earth under Christ.
@@ -34,7 +34,7 @@ to be put into effect when the times reach their fulfilment—to bring unity to 
 In Him we have also obtained an inheritance, having been predestined according to the purpose of Him who works all things in accordance with the plan of His will,
 
 ## Ephesians 1:12
-so that we, who were the first to hope in Christ, might be to the praise of His glory.
+so that we, who were the first to place our hope in Christ, might be to the praise of His glory.
 
 ## Ephesians 1:13
 In Him, you also, when you heard the message of truth, the gospel of your salvation, and believed, you were sealed in Him with the promised Holy Spirit,
@@ -55,7 +55,7 @@ I keep asking that the God of our Lord Jesus Christ, the Father of glory, may gi
 I pray that the eyes of your heart may be enlightened, so that you may know the hope to which He has called you, the riches of His glorious inheritance in His holy people,
 
 ## Ephesians 1:19
-and His incomparably great power for us who believe. That power is the same as the mighty strength
+and His exceedingly great power for us who believe. That power is the same as the mighty strength
 
 ## Ephesians 1:20
 He exerted when He raised Christ from the dead and seated Him at His right hand in the heavenly places,
@@ -67,4 +67,4 @@ far above all rule and authority, power and dominion, and every name that is inv
 And He placed all things under His feet and appointed Him to be head over everything for the church,
 
 ## Ephesians 1:23
-which is His body, the fullness of Him who fills everything in every way.
+which is His body, the completeness of Him who fills all in every way.

@@ -50,7 +50,7 @@ Jesus said to them, “Come and have breakfast.” None of the disciples dared t
 
 ## John 21:13
 
-Jesus came, took the bread and gave it to them, and did the same with the fish.
+Jesus approached, took the bread, and distributed it to them, and likewise with the fish.
 
 ## John 21:14
 

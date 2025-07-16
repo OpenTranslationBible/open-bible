@@ -34,7 +34,7 @@ Now the son of an Israelite woman and an Egyptian father went out among the Isra
 The son of the Israelite woman blasphemed the Name and cursed. So they brought him to Moses. (His mother’s name was Shelomith, the daughter of Dibri, of the tribe of Dan.)
 
 ## Leviticus 24:12
-They put him in custody until the will of the Lord should be made clear to them.
+They held him in custody until they could discern the Lord's will regarding him.
 
 ## Leviticus 24:13
 Then the Lord spoke to Moses, saying,

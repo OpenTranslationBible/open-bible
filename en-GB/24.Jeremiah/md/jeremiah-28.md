@@ -4,7 +4,7 @@
 In the same year, at the start of Zedekiah king of Judah's reign, in the fourth year, in the fifth month, Hananiah the prophet, son of Azzur, from Gibeon, spoke to me in the house of the Lord in the presence of the priests and all the people, saying:
 
 ## Jeremiah 28:2
-“This is what the Lord of Hosts, the God of Israel, says: ‘I have broken the yoke of the king of Babylon.
+“This is what the Lord of Hosts, the God of Israel, declares: ‘I have shattered the yoke of the king of Babylon.
 
 ## Jeremiah 28:3
 Within two years I will restore to this place all the articles of the Lord's house that Nebuchadnezzar king of Babylon took from here and brought to Babylon.
@@ -28,7 +28,7 @@ The prophets who came before you and me from ancient times prophesied against ma
 But the prophet who prophesies peace will be recognised as truly sent by the Lord only if his prediction comes to pass.”
 
 ## Jeremiah 28:10
-Then Hananiah the prophet took the yoke from the neck of Jeremiah the prophet and broke it.
+Then Hananiah the prophet removed the yoke from the neck of Jeremiah the prophet and broke it.
 
 ## Jeremiah 28:11
 And Hananiah spoke in the presence of all the people, saying, “This is what the Lord says: ‘In the same way, within two years I will break the yoke of Nebuchadnezzar king of Babylon from the neck of all the nations.’” At this, Jeremiah the prophet went on his way.

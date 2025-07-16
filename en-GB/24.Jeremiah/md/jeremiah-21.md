@@ -40,7 +40,7 @@ Whoever remains in this city will die by the sword, famine, or plague; but whoev
 
 ## Jeremiah 21:10
 
-For I have set My face against this city for harm and not for good, declares the Lord. It will be handed over to the king of Babylon, and he will burn it with fire.’
+For I have determined to bring adversity upon this city and not prosperity, declares the Lord. It will be handed over to the king of Babylon, and he will burn it with fire.’
 
 ## Jeremiah 21:11
 

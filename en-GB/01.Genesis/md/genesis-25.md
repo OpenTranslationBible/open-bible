@@ -10,7 +10,7 @@ She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
 Jokshan became the father of Sheba and Dedan. The descendants of Dedan were the Asshurim, Letushim, and Leummim.
 
 ## Genesis 25:4
-The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. All these were the descendants of Keturah.
+The sons of Midian were Ephah, Epher, Hanoch, Abida, and Eldaah. These were all the descendants of Keturah.
 
 ## Genesis 25:5
 Abraham gave all he possessed to Isaac.
@@ -70,7 +70,7 @@ The children struggled together within her, and she said, “If it is so, why am
 The Lord said to her, “Two nations are in your womb, and two peoples will be separated from your body; one people will be stronger than the other, and the elder will serve the younger.”
 
 ## Genesis 25:24
-When the time came for her to give birth, there were twins in her womb.
+When her time to give birth was complete, she had twins.
 
 ## Genesis 25:25
 The first came out red, all over like a hairy garment; and they named him Esau.
@@ -94,7 +94,7 @@ He said to Jacob, “Please let me have some of that red stew, for I am exhauste
 Jacob said, “First sell me your birthright.”
 
 ## Genesis 25:32
-Esau said, “Look, I am about to die; what good is the birthright to me?”
+Esau said, “I am at the point of death; what use is the birthright to me?”
 
 ## Genesis 25:33
 Jacob said, “Swear to me first.” So he swore an oath to him, selling his birthright to Jacob.

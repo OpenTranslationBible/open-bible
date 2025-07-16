@@ -18,7 +18,7 @@ Since they could not bring him to Jesus because of the crowd, they removed the r
 
 ## Mark 2:5
 
-When Jesus saw their faith, he said to the paralysed man, “Son, your sins are forgiven.”
+When Jesus observed their faith, he said to the paralysed man, “Son, your sins are forgiven.”
 
 ## Mark 2:6
 
@@ -26,7 +26,7 @@ But some of the teachers of the law were sitting there, thinking to themselves,
 
 ## Mark 2:7
 
-“Why does this man speak like that? He is blaspheming! Who can forgive sins but God alone?”
+“Why does he speak in this manner? He is blaspheming! Who can forgive sins but God alone?”
 
 ## Mark 2:8
 
@@ -66,11 +66,11 @@ While Jesus was reclining at the table in Levi’s house, many tax collectors an
 
 ## Mark 2:16
 
-When the teachers of the law who were Pharisees saw him eating with the sinners and tax collectors, they asked his disciples, “Why does he eat with tax collectors and sinners?”
+When the teachers of the law who were Pharisees saw him eating with those considered sinners and tax collectors, they asked his disciples, “Why does he eat with tax collectors and sinners?”
 
 ## Mark 2:17
 
-On hearing this, Jesus said to them, “It is not the healthy who need a doctor, but the sick. I have not come to call the righteous, but sinners.”
+On hearing this, Jesus said to them, “It is not those who are well who need a doctor, but those who are sick. I have not come to call the righteous, but sinners.”
 
 ---
 
@@ -88,7 +88,7 @@ But the days will come when the bridegroom will be taken from them, and then the
 
 ## Mark 2:21
 
-“No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, making the tear worse.
+“No one sews a patch of unshrunk cloth on an old garment. Otherwise, the new piece will pull away from the old, worsening the tear.
 
 ## Mark 2:22
 
@@ -106,7 +106,7 @@ The Pharisees said to him, “Look, why are they doing what is not lawful on the
 
 ## Mark 2:25
 
-He said to them, “Have you never read what David did when he was in need and he and his companions were hungry;
+He said to them, “Have you never read what David did when he was in need and his companions were hungry;
 
 ## Mark 2:26
 

@@ -25,7 +25,7 @@ On the first day hold a holy assembly; you shall not do any regular work.
 For seven days present an offering by fire to the Lord. On the seventh day hold a holy assembly; you shall not do any regular work.’”
 
 ## Leviticus 23:9
-Then the Lord spoke to Moses, saying,
+The Lord addressed Moses, saying,
 
 ## Leviticus 23:10
 “Speak to the Israelites and say to them: ‘When you enter the land which I am going to give you and you reap its harvest, bring to the priest a sheaf of the first grain you harvest.
@@ -46,10 +46,10 @@ You shall not eat any bread, or roasted or new grain, until the very day you bri
 From the day after the Sabbath, the day you brought the sheaf of the wave offering, you shall count off seven full weeks.
 
 ## Leviticus 23:16
-Count off fifty days up to the day after the seventh Sabbath, and then present an offering of new grain to the Lord.
+Count fifty days until the day after the seventh Sabbath, and then present an offering of new grain to the Lord.
 
 ## Leviticus 23:17
-From wherever you live, bring two loaves made of two-tenths of an ephah of the finest flour, baked with yeast, as a wave offering of firstfruits to the Lord.
+From your dwellings, bring two loaves made of two-tenths of an ephah of the finest flour, baked with yeast, as a wave offering of firstfruits to the Lord.
 
 ## Leviticus 23:18
 With this bread, present seven male lambs, each a year old and without defect, one young bull and two rams. They shall be a burnt offering to the Lord, with their grain offerings and drink offerings, an offering by fire, a pleasing aroma to the Lord.
@@ -76,7 +76,7 @@ The Lord spoke to Moses again, saying,
 You shall not do any regular work, but you shall present an offering by fire to the Lord.’”
 
 ## Leviticus 23:26
-The Lord spoke to Moses, saying,
+The Lord addressed Moses, saying,
 
 ## Leviticus 23:27
 “On the tenth day of this seventh month is the Day of Atonement. Hold a holy assembly and humble yourselves, and present an offering by fire to the Lord.
@@ -91,7 +91,7 @@ Anyone who does not humble himself on that day must be cut off from his people.
 I will destroy from among his people anyone who does any work on that day.
 
 ## Leviticus 23:31
-You shall do no work at all. This is to be a lasting ordinance for the generations to come, wherever you live.
+You shall refrain from all work. This is to be a lasting ordinance for the generations to come, wherever you live.
 
 ## Leviticus 23:32
 It is a Sabbath of complete rest for you, and you must humble yourselves. From the evening of the ninth day of the month until the following evening you shall observe your Sabbath.”

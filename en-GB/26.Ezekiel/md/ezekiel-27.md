@@ -2,7 +2,7 @@
 
 ## Ezekiel 27:1
 
-The word of the Lord came to me, saying:
+A message from the Lord came to me:
 
 ## Ezekiel 27:2
 

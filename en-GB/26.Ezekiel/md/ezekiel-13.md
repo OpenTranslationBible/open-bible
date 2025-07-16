@@ -7,7 +7,7 @@ The word of the Lord came to me, saying:
 “Son of man, prophesy against the prophets of Israel who are prophesying. Say to those who prophesy from their own inspiration: ‘Listen to the word of the Lord!
 
 ## Ezekiel 13:3
-This is what the Sovereign Lord says: Woe to the foolish prophets who follow their own spirit and have seen nothing!
+This is what the Sovereign Lord declares: Woe to the foolish prophets who follow their own spirit and have seen nothing!
 
 ## Ezekiel 13:4
 Your prophets, Israel, are like jackals among the ruins.
@@ -19,7 +19,7 @@ You have not gone up to the breaches in the wall, nor built a wall around the ho
 Their visions are deceitful and their divinations a lie. They say, “The Lord declares,” when the Lord has not sent them, yet they expect their words to be fulfilled.
 
 ## Ezekiel 13:7
-Have you not seen false visions and uttered lying divinations when you say, “The Lord declares,” though I have not spoken?
+Have you not witnessed false visions and spoken lying divinations when you say, “The Lord declares,” though I have not spoken?
 
 ## Ezekiel 13:8
 Therefore this is what the Sovereign Lord says: Because you have spoken falsely and seen lies, I am against you, declares the Sovereign Lord.
@@ -34,10 +34,10 @@ Because they have led my people astray, saying, “Peace,” when there is no pe
 therefore tell those who cover it with whitewash that it will fall. Torrential rain will come, and I will send hailstones hurtling down, and a violent wind will break out.
 
 ## Ezekiel 13:12
-When the wall collapses, will people not ask you, “Where is the whitewash you covered it with?”
+When the wall collapses, will people not inquire, “Where is the whitewash you covered it with?”
 
 ## Ezekiel 13:13
-Therefore this is what the Sovereign Lord says: In my wrath I will unleash a violent wind, and in my anger hailstones and torrents of rain will fall with destructive fury.
+Therefore this is what the Sovereign Lord declares: In my wrath I will unleash a violent wind, and in my anger hailstones and torrents of rain will fall with destructive fury.
 
 ## Ezekiel 13:14
 I will tear down the wall you have covered with whitewash and level it to the ground so that its foundation will be exposed. When it falls, you will perish within it; and you will know that I am the Lord.
@@ -52,16 +52,16 @@ those prophets of Israel who prophesied to Jerusalem and saw visions of peace fo
 Now, son of man, set your face against the daughters of your people who prophesy from their own imagination. Prophesy against them
 
 ## Ezekiel 13:18
-and say, ‘This is what the Sovereign Lord says: Woe to the women who sew magic charms on all wrists and make veils for heads of every height to ensnare souls. Will you ensnare the lives of my people but preserve your own?
+and say, ‘This is what the Sovereign Lord declares: Woe to the women who sew magic charms on all wrists and make veils for heads of every height to ensnare souls. Will you ensnare the lives of my people but preserve your own?
 
 ## Ezekiel 13:19
 For a few handfuls of barley and scraps of bread, you have profaned me among my people, putting to death those who should not die and keeping alive those who should not live, by lying to my people who listen to lies.
 
 ## Ezekiel 13:20
-Therefore this is what the Sovereign Lord says: I am against your magic charms with which you ensnare people like birds, and I will tear them from your arms; I will set free the people that you ensnare like birds.
+Therefore this is what the Sovereign Lord declares: I am against your magic charms with which you ensnare people like birds, and I will tear them from your arms; I will set free the people that you ensnare like birds.
 
 ## Ezekiel 13:21
-I will tear off your veils and save my people from your hands, and they will no longer fall prey to your power. Then you will know that I am the Lord.
+I will remove your veils and rescue my people from your hands, and they will no longer fall prey to your power. Then you will know that I am the Lord.
 
 ## Ezekiel 13:22
 Because you have disheartened the righteous with your lies, when I had brought them no grief, and because you have encouraged the wicked not to turn from their evil ways and save their lives,

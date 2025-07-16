@@ -30,7 +30,7 @@ So the Lord said, “I will wipe out humankind whom I have created from the face
 
 ## Genesis 6:8
 
-But Noah found favour in the eyes of the Lord.
+However, Noah was favored by the Lord.
 
 ## Genesis 6:9
 
@@ -38,7 +38,7 @@ This is the account of Noah and his family. Noah was a righteous man, blameless 
 
 ## Genesis 6:10
 
-Noah became the father of three sons: Shem, Ham, and Japheth.
+Noah fathered three sons: Shem, Ham, and Japheth.
 
 ## Genesis 6:11
 
@@ -70,7 +70,7 @@ Behold, I am bringing floodwaters upon the earth to destroy all flesh in which t
 
 ## Genesis 6:18
 
-But I will establish My covenant with you, and you shall enter the ark—you, your sons, your wife, and your sons’ wives with you.
+Yet, I will establish My covenant with you, and you shall enter the ark—you, your sons, your wife, and your sons’ wives with you.
 
 ## Genesis 6:19
 
@@ -86,4 +86,4 @@ You are to take every kind of food that is to be eaten and store it away as prov
 
 ## Genesis 6:22
 
-Noah did everything just as God commanded him.
+Noah carried out all that God commanded him.

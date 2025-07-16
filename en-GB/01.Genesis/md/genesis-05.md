@@ -22,7 +22,7 @@ So all the days that Adam lived were 930 years, and then he died.
 
 ## Genesis 5:6
 
-When Seth had lived 105 years, he became the father of Enosh.
+When Seth reached 105 years, he fathered Enosh.
 
 ## Genesis 5:7
 
@@ -34,7 +34,7 @@ So all the days of Seth were 912 years, and then he died.
 
 ## Genesis 5:9
 
-When Enosh had lived 90 years, he became the father of Kenan.
+When Enosh reached 90 years, he fathered Kenan.
 
 ## Genesis 5:10
 
@@ -46,7 +46,7 @@ So all the days of Enosh were 905 years, and then he died.
 
 ## Genesis 5:12
 
-When Kenan had lived 70 years, he became the father of Mahalalel.
+When Kenan reached 70 years, he fathered Mahalalel.
 
 ## Genesis 5:13
 
@@ -58,7 +58,7 @@ So all the days of Kenan were 910 years, and then he died.
 
 ## Genesis 5:15
 
-When Mahalalel had lived 65 years, he became the father of Jared.
+When Mahalalel reached 65 years, he fathered Jared.
 
 ## Genesis 5:16
 
@@ -70,7 +70,7 @@ So all the days of Mahalalel were 895 years, and then he died.
 
 ## Genesis 5:18
 
-When Jared had lived 162 years, he became the father of Enoch.
+When Jared reached 162 years, he fathered Enoch.
 
 ## Genesis 5:19
 
@@ -82,15 +82,15 @@ So all the days of Jared were 962 years, and then he died.
 
 ## Genesis 5:21
 
-When Enoch had lived 65 years, he became the father of Methuselah.
+When Enoch reached 65 years, he fathered Methuselah.
 
 ## Genesis 5:22
 
-After he became the father of Methuselah, Enoch walked with God for 300 years and had other sons and daughters.
+After he became the father of Methuselah, Enoch lived closely with God for 300 years and had other sons and daughters.
 
 ## Genesis 5:23
 
-So all the days of Enoch were 365 years.
+Thus, Enoch's total lifespan was 365 years.
 
 ## Genesis 5:24
 
@@ -98,7 +98,7 @@ Enoch walked with God; and he was no more, for God took him.
 
 ## Genesis 5:25
 
-When Methuselah had lived 187 years, he became the father of Lamech.
+When Methuselah reached 187 years, he fathered Lamech.
 
 ## Genesis 5:26
 
@@ -110,7 +110,7 @@ So all the days of Methuselah were 969 years, and then he died.
 
 ## Genesis 5:28
 
-When Lamech had lived 182 years, he fathered a son.
+When Lamech reached 182 years, he fathered a son.
 
 ## Genesis 5:29
 

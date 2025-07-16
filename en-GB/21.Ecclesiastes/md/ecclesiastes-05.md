@@ -19,7 +19,7 @@ It is better not to vow than to make a vow and not fulfil it.
 Do not let your mouth lead you into sin, and do not say before the messenger of God that it was a mistake. Why should God be angry at your words and destroy the work of your hands?
 
 ## Ecclesiastes 5:7
-For in many dreams and in many words there is emptiness. Rather, fear God.
+For in many dreams and many words, there is futility. Instead, stand in awe of God.
 
 ## Ecclesiastes 5:8
 If you see the oppression of the poor and the denial of justice and rights in a province, do not be astonished at the matter; for one official is watched by a higher one, and there are higher officials over them.
@@ -40,7 +40,7 @@ The sleep of the labourer is sweet, whether he eats little or much, but the abun
 There is a grievous evil I have seen under the sun: wealth hoarded to the detriment of its owner,
 
 ## Ecclesiastes 5:14
-or wealth lost through some misfortune, so that when they have children, there is nothing left for them to inherit.
+or wealth lost through unfortunate circumstances, leaving nothing for their children to inherit.
 
 ## Ecclesiastes 5:15
 As one comes naked from their mother's womb, so they will depart as they came. They will take nothing from their toil that they can carry in their hands.

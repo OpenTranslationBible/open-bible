@@ -86,7 +86,7 @@ When people say to you, “Consult mediums and spiritists who whisper and mutter
 
 ## Isaiah 8:20
 
-To the law and to the testimony! If they do not speak according to this word, it is because they have no dawn.
+Look to the law and the testimony! If they do not speak in alignment with this word, it is because they lack light.
 
 ## Isaiah 8:21
 

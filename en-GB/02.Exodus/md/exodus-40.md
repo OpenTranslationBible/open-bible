@@ -16,7 +16,7 @@ Bring in the table and arrange its items. Then bring in the lampstand and set up
 Place the gold altar of incense in front of the ark of the covenant, and hang the curtain at the entrance to the tabernacle.
 
 ## Exodus 40:6
-Place the altar of burnt offering in front of the entrance to the tabernacle, the tent of meeting.
+Position the altar of burnt offering before the entrance to the tabernacle, the tent of meeting.
 
 ## Exodus 40:7
 Set the basin between the tent of meeting and the altar, and fill it with water.
@@ -31,16 +31,16 @@ Take the anointing oil and anoint the tabernacle and everything within it; conse
 Anoint the altar of burnt offering and all its utensils; consecrate the altar, and it shall be most holy.
 
 ## Exodus 40:11
-Anoint the basin and its stand, and consecrate them.
+Anoint the basin and its stand, dedicating them.
 
 ## Exodus 40:12
-Bring Aaron and his sons to the entrance of the tent of meeting and wash them with water.
+Bring Aaron and his sons to the entrance of the tent of meeting and cleanse them with water.
 
 ## Exodus 40:13
 Dress Aaron in the sacred garments, anoint him, and consecrate him so that he may serve as a priest to Me.
 
 ## Exodus 40:14
-Bring his sons and dress them in tunics.
+Present his sons and clothe them in tunics.
 
 ## Exodus 40:15
 Anoint them as you anointed their father, so they may serve as priests to Me. Their anointing shall be for a perpetual priesthood throughout their generations.”
@@ -49,7 +49,7 @@ Anoint them as you anointed their father, so they may serve as priests to Me. Th
 Moses did everything just as the Lord had commanded him.
 
 ## Exodus 40:17
-In the first month of the second year, on the first day of the month, the tabernacle was erected.
+In the first month of the second year, on the first day, the tabernacle was set up.
 
 ## Exodus 40:18
 Moses set up the tabernacle, laid its bases, erected its frames, inserted its crossbars, and set up its posts.
@@ -58,7 +58,7 @@ Moses set up the tabernacle, laid its bases, erected its frames, inserted its cr
 He spread the tent over the tabernacle and put the covering over the tent, as the Lord had commanded him.
 
 ## Exodus 40:20
-He took the tablets of the covenant law and placed them in the ark, attached the poles to the ark, and put the atonement cover over it.
+He took the tablets of the covenant law and placed them in the ark, attached the poles to the ark, and covered it with the atonement cover.
 
 ## Exodus 40:21
 He brought the ark into the tabernacle, hung the shielding curtain, and screened off the ark of the covenant, as the Lord had commanded him.
@@ -70,7 +70,7 @@ He placed the table in the tent of meeting on the north side of the tabernacle, 
 He set the bread in order upon it before the Lord, as the Lord had commanded him.
 
 ## Exodus 40:24
-He placed the lampstand in the tent of meeting opposite the table on the south side of the tabernacle.
+He positioned the lampstand in the tent of meeting opposite the table on the south side of the tabernacle.
 
 ## Exodus 40:25
 He set up the lamps before the Lord, as the Lord had commanded him.

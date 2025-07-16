@@ -46,7 +46,7 @@ The banner of the camp of Judah set out first, by their divisions, with Nahshon 
 Nethanel son of Zuar was over the division of the tribe of Issachar,
 
 ## Numbers 10:16
-and Eliab son of Helon was over the division of the tribe of Zebulun.
+Eliab son of Helon led the division of the tribe of Zebulun.
 
 ## Numbers 10:17
 Then the tabernacle was dismantled, and the Gershonites and Merarites, who carried it, set out.
@@ -58,7 +58,7 @@ The banner of the camp of Reuben set out next, by their divisions, with Elizur s
 Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,
 
 ## Numbers 10:20
-and Eliasaph son of Deuel was over the division of the tribe of Gad.
+Eliasaph son of Deuel led the division of the tribe of Gad.
 
 ## Numbers 10:21
 Then the Kohathites set out, carrying the holy objects. The tabernacle was to be set up before their arrival.
@@ -76,13 +76,13 @@ and Abidan son of Gideoni was over the division of the tribe of Benjamin.
 Finally, the banner of the camp of Dan, which formed the rear guard for all the camps, set out by their divisions, with Ahiezer son of Ammishaddai in command.
 
 ## Numbers 10:26
-Pagiel son of Ochran was over the division of the tribe of Asher,
+Pagiel son of Ochran led the division of the tribe of Asher,
 
 ## Numbers 10:27
-and Ahira son of Enan was over the division of the tribe of Naphtali.
+Ahira son of Enan led the division of the tribe of Naphtali.
 
 ## Numbers 10:28
-This was the order of march for the Israelite divisions as they set out.
+This was the marching order for the Israelite divisions as they set out.
 
 ## Numbers 10:29
 Moses said to Hobab son of Reuel the Midianite, Moses’ father-in-law, “We are setting out to the place which the Lord has promised to give us. Come with us and we will treat you well, for the Lord has promised good things to Israel.”
@@ -91,7 +91,7 @@ Moses said to Hobab son of Reuel the Midianite, Moses’ father-in-law, “We ar
 He replied, “I will not go; I am returning to my own land and my own people.”
 
 ## Numbers 10:31
-But Moses said, “Please do not leave us. You know where we should camp in the wilderness, and you can be our eyes.
+Moses urged, “Please do not leave us. You know where we should camp in the wilderness, and you can be our guide.
 
 ## Numbers 10:32
 If you come with us, we will share with you whatever good things the Lord grants us.”
@@ -106,4 +106,4 @@ The cloud of the Lord was over them by day when they set out from the camp.
 Whenever the ark set out, Moses said, “Rise up, Lord! May your enemies be scattered and your foes flee before you.”
 
 ## Numbers 10:36
-Whenever it came to rest, he said, “Return, Lord, to the countless thousands of Israel.”
+Whenever it came to rest, he said, “Return, Lord, to the many thousands of Israel.”

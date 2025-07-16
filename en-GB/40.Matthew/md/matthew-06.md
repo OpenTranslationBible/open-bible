@@ -14,7 +14,7 @@ But when you give to the needy, do not let your left hand know what your right h
 
 ## Matthew 6:4
 
-so that your giving may be in secret. Then your Father, who sees what is done in secret, will reward you.
+so that your giving may remain private. Then your Father, who observes what is done quietly, will reward you.
 
 ---
 
@@ -24,7 +24,7 @@ so that your giving may be in secret. Then your Father, who sees what is done in
 
 ## Matthew 6:6
 
-But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your Father, who sees what is done in secret, will reward you.
+But when you pray, go into your room, close the door, and pray to your Father, who is unseen. Then your Father, who observes what is done quietly, will reward you.
 
 ## Matthew 6:7
 
@@ -71,7 +71,7 @@ For if you forgive others when they sin against you, your heavenly Father will a
 
 ## Matthew 6:15
 
-But if you do not forgive others their sins, your Father will not forgive your sins.
+But if you do not forgive others, your Father will not forgive you either.
 
 ---
 
@@ -85,7 +85,7 @@ But when you fast, anoint your head and wash your face,
 
 ## Matthew 6:18
 
-so that it will not be obvious to others that you are fasting, but only to your Father, who is unseen; and your Father, who sees what is done in secret, will reward you.
+so that your fasting is not obvious to others, but only to your Father, who is unseen; and your Father, who observes what is done quietly, will reward you.
 
 ---
 
@@ -95,7 +95,7 @@ so that it will not be obvious to others that you are fasting, but only to your 
 
 ## Matthew 6:20
 
-But store up for yourselves treasures in heaven, where neither moth nor rust destroys, and where thieves do not break in and steal.
+Instead, gather treasures in heaven, where moth and rust do not destroy, and where thieves do not break in and steal.
 
 ## Matthew 6:21
 
@@ -105,11 +105,11 @@ For where your treasure is, there your heart will be also.
 
 ## Matthew 6:22
 
-“The eye is the lamp of the body. If your eyes are healthy, your whole body will be full of light.
+“The eye is the lamp of the body. If your eyes are clear, your whole body will be full of light.
 
 ## Matthew 6:23
 
-But if your eyes are unhealthy, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
+But if your eyes are not clear, your whole body will be full of darkness. If then the light within you is darkness, how great is that darkness!
 
 ## Matthew 6:24
 
@@ -119,11 +119,11 @@ But if your eyes are unhealthy, your whole body will be full of darkness. If the
 
 ## Matthew 6:25
 
-“For this reason, I tell you, do not worry about your life, what you will eat or drink; or about your body, what you will wear. Is not life more than food, and the body more than clothing?
+“For this reason, I tell you, do not worry about your life, what you will eat or drink, or about your body, what you will wear. Is not life more than food, and the body more than clothing?
 
 ## Matthew 6:26
 
-Look at the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
+Observe the birds of the air; they do not sow or reap or store away in barns, and yet your heavenly Father feeds them. Are you not much more valuable than they?
 
 ## Matthew 6:27
 
@@ -153,8 +153,8 @@ For the pagans eagerly seek all these things, and your heavenly Father knows tha
 
 ## Matthew 6:33
 
-But seek first His kingdom and His righteousness, and all these things will be given to you as well.
+But seek first His kingdom and His righteousness, and all these things will be provided to you as well.
 
 ## Matthew 6:34
 
-Therefore, do not worry about tomorrow, for tomorrow will worry about itself. Each day has enough trouble of its own.
+Therefore, do not worry about tomorrow, for tomorrow will take care of itself. Each day has enough trouble of its own.

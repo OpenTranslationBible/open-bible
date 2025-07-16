@@ -58,7 +58,7 @@ I have become the laughingstock of all my people; they mock me in song all day l
 
 ## Lamentations 3:15
 
-He has filled me with bitterness and made me drink wormwood.
+He has filled me with bitterness and given me wormwood to drink.
 
 ## Lamentations 3:16
 
@@ -84,7 +84,7 @@ My soul remembers them well and is downcast within me.
 
 ## Lamentations 3:21
 
-Yet this I call to mind, and therefore I have hope:
+Yet I recall this to mind, and therefore I have hope:
 
 ## Lamentations 3:22
 
@@ -92,7 +92,7 @@ The Lord’s mercies are indeed unending, for His compassions never fail.
 
 ## Lamentations 3:23
 
-They are renewed every morning; great is Your faithfulness.
+They are renewed every morning; Your faithfulness is great.
 
 ## Lamentations 3:24
 
@@ -100,11 +100,11 @@ They are renewed every morning; great is Your faithfulness.
 
 ## Lamentations 3:25
 
-The Lord is good to those who hope in Him, to the person who seeks Him.
+The Lord shows goodness to those who place their hope in Him, to the person who seeks Him.
 
 ## Lamentations 3:26
 
-It is good to wait quietly for the salvation of the Lord.
+It is beneficial to wait quietly for the Lord's salvation.
 
 ## Lamentations 3:27
 
@@ -132,7 +132,7 @@ Though He causes grief, He will show compassion, according to His abundant mercy
 
 ## Lamentations 3:33
 
-For He does not willingly afflict or grieve the children of men.
+For He does not bring affliction or grief willingly to the children of men.
 
 ## Lamentations 3:34
 
@@ -152,7 +152,7 @@ Who can speak and have it happen unless the Lord has commanded it?
 
 ## Lamentations 3:38
 
-Is it not from the mouth of the Most High that both adversity and good proceed?
+Does not both adversity and good come from the mouth of the Most High?
 
 ## Lamentations 3:39
 
@@ -160,7 +160,7 @@ Why should any living person complain when punished for their sins?
 
 ## Lamentations 3:40
 
-Let us examine and probe our ways, and let us return to the Lord.
+Let us examine and test our ways, and let us return to the Lord.
 
 ## Lamentations 3:41
 
@@ -196,7 +196,7 @@ Streams of tears flow from my eyes because of the destruction of the daughter of
 
 ## Lamentations 3:49
 
-My eyes will flow unceasingly, without relief,
+My eyes will flow unceasingly, without pause,
 
 ## Lamentations 3:50
 
@@ -208,11 +208,11 @@ What I see brings grief to my soul because of all the daughters of my city.
 
 ## Lamentations 3:52
 
-Those who were my enemies without cause hunted me like a bird.
+Those who were my enemies without cause pursued me like a bird.
 
 ## Lamentations 3:53
 
-They tried to end my life in a pit and threw stones at me;
+They tried to end my life in a pit and hurled stones at me;
 
 ## Lamentations 3:54
 

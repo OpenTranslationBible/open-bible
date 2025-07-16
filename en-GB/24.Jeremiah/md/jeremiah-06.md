@@ -31,7 +31,7 @@ This is what the Lord of Hosts says: ‘Let them glean the remnant of Israel as 
 To whom can I speak and give warning, that they may hear? Their ears are closed and they cannot listen. The word of the Lord is offensive to them; they take no pleasure in it.
 
 ## Jeremiah 6:11
-But I am full of the wrath of the Lord, and I cannot hold it in. ‘Pour it out on the children in the street and on the young men gathered together; both husband and wife will be caught in it, and the old, those weighed down with years.
+Yet I am overwhelmed with the Lord's anger, unable to contain it. ‘Pour it out on the children in the street and on the young men gathered together; both husband and wife will be caught in it, and the old, those weighed down with years.
 
 ## Jeremiah 6:12
 Their houses will be turned over to others, along with their fields and their wives, when I stretch out my hand against the inhabitants of the land,’ declares the Lord.
@@ -40,7 +40,7 @@ Their houses will be turned over to others, along with their fields and their wi
 ‘From the least to the greatest, everyone is greedy for gain; prophets and priests alike, all practice deceit.
 
 ## Jeremiah 6:14
-They dress the wound of my people as though it were not serious. ‘Peace, peace,’ they say, when there is no peace.
+They treat the wound of my people as though it were not serious. ‘Peace, peace,’ they say, when there is no peace.
 
 ## Jeremiah 6:15
 Are they ashamed of their detestable conduct? No, they have no shame at all; they do not even know how to blush. Therefore, they will fall among the fallen; they will be brought down when I punish them,’ says the Lord.
@@ -49,10 +49,10 @@ Are they ashamed of their detestable conduct? No, they have no shame at all; the
 This is what the Lord says: ‘Stand at the crossroads and look; ask for the ancient paths, where the good way is, and walk in it, and you will find rest for your souls. But you said, ‘We will not walk in it.’
 
 ## Jeremiah 6:17
-I appointed watchmen over you and said, ‘Listen to the sound of the trumpet!’ But you said, ‘We will not listen.’
+I appointed watchmen over you and said, ‘Listen to the sound of the trumpet!’ But you said, ‘We refuse to listen.’
 
 ## Jeremiah 6:18
-Therefore hear, you nations, and know, you congregation, what is among them.
+Therefore hear, you nations, and understand, you congregation, what is among them.
 
 ## Jeremiah 6:19
 Hear, earth: I am bringing disaster on this people, the fruit of their schemes, because they have not listened to my words and have rejected my law.
@@ -70,16 +70,16 @@ This is what the Lord says: ‘Behold, an army is coming from the land of the no
 They are armed with bow and spear; they are cruel and show no mercy. Their voice roars like the sea as they ride on horses, arrayed as a man for battle against you, Daughter Zion.’
 
 ## Jeremiah 6:24
-We have heard reports about them, and our hands hang limp. Anguish has gripped us, pain like that of a woman in labour.
+We have heard reports about them, and our hands are weak. Anguish has gripped us, pain like that of a woman in labor.
 
 ## Jeremiah 6:25
-Do not go out to the fields or walk on the roads, for the enemy has a sword, and there is terror on every side.
+Avoid going out to the fields or walking on the roads, for the enemy has a sword, and there is terror on every side.
 
 ## Jeremiah 6:26
 Put on sackcloth, my people, and roll in ashes; mourn with bitter wailing as for an only son, for suddenly the destroyer will come upon us.
 
 ## Jeremiah 6:27
-‘I have made you a tester of metals and my people the ore, that you may observe and test their ways.
+‘I have made you a tester of metals and my people the ore, that you may observe and examine their ways.
 
 ## Jeremiah 6:28
 They are all stubbornly rebellious, going about as slanderers. They are bronze and iron; they all act corruptly.
@@ -88,4 +88,4 @@ They are all stubbornly rebellious, going about as slanderers. They are bronze a
 The bellows blow fiercely to burn away the lead with fire, but the refining goes on in vain; the wicked are not purged out.
 
 ## Jeremiah 6:30
-They are called rejected silver, because the Lord has rejected them.”
+They are called rejected silver, because the Lord has turned away from them.”

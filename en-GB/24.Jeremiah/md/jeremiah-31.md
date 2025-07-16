@@ -1,7 +1,7 @@
 # Jeremiah Chapter 31
 
 ## Jeremiah 31:1
-“At that time,” declares the Lord, “I will be the God of all the families of Israel, and they shall be my people.”
+"In those days," declares the Lord, "I will be the God of all the families of Israel, and they shall be my people."
 
 ## Jeremiah 31:2
 This is what the Lord says: “The people who survived the sword found grace in the wilderness; I came to give rest to Israel.”
@@ -28,7 +28,7 @@ This is what the Lord says: “Sing with joy for Jacob; shout for the foremost o
 “They will come with weeping; by pleading I will bring them. I will lead them beside streams of water on a straight path where they will not stumble, for I am a father to Israel, and Ephraim is my firstborn.”
 
 ## Jeremiah 31:10
-“Hear the word of the Lord, you nations; proclaim it in distant coastlands: ‘He who scattered Israel will gather them and will watch over his flock like a shepherd.’”
+"Listen to the word of the Lord, you nations; announce it in distant coastlands: ‘He who scattered Israel will gather them and will watch over his flock like a shepherd.’"
 
 ## Jeremiah 31:11
 “For the Lord will ransom Jacob and redeem them from the hand of those stronger than they.”
@@ -46,7 +46,7 @@ This is what the Lord says: “Sing with joy for Jacob; shout for the foremost o
 This is what the Lord says: “A voice is heard in Ramah, lamentation and bitter weeping, Rachel weeping for her children, refusing to be comforted, because they are no more.”
 
 ## Jeremiah 31:16
-This is what the Lord says: “Restrain your voice from weeping and your eyes from tears, for your work will be rewarded,” declares the Lord. “They will return from the land of the enemy.”
+This is what the Lord says: “Hold back your voice from weeping and your eyes from tears, for your work will be rewarded,” declares the Lord. “They will return from the land of the enemy.”
 
 ## Jeremiah 31:17
 “So there is hope for your future,” declares the Lord. “Your children will return to their own land.”
@@ -70,7 +70,7 @@ This is what the Lord says: “Restrain your voice from weeping and your eyes fr
 This is what the Lord Almighty, the God of Israel, says: “When I restore their fortunes, the people in the land of Judah and in its towns will once again use these words: ‘The Lord bless you, O place of righteousness, O holy hill!’”
 
 ## Jeremiah 31:24
-“People will live together in Judah and all its towns—farmers and those who move about with their flocks.”
+“The inhabitants of Judah and all its towns will live together—farmers and those who move about with their flocks.”
 
 ## Jeremiah 31:25
 “For I will refresh the weary and satisfy the faint.”
@@ -91,7 +91,7 @@ At this I awoke and looked around; my sleep had been pleasant to me.
 “Instead, everyone will die for their own sin; whoever eats sour grapes—their own teeth will be set on edge.”
 
 ## Jeremiah 31:31
-“Behold, the days are coming,” declares the Lord, “when I will make a new covenant with the house of Israel and the house of Judah.”
+“Behold, the days are coming,” declares the Lord, “when I will establish a new covenant with the house of Israel and the house of Judah.”
 
 ## Jeremiah 31:32
 “It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,” declares the Lord.
@@ -118,4 +118,4 @@ This is what the Lord says: “Only if the heavens above can be measured and the
 “The measuring line will go out straight to the hill of Gareb and then turn to Goah.”
 
 ## Jeremiah 31:40
-“The whole valley where dead bodies and ashes are thrown, and all the terraces out to the Kidron Valley on the east as far as the corner of the Horse Gate, will be holy to the Lord. The city will never again be uprooted or demolished.”
+“The entire valley where dead bodies and ashes are thrown, and all the terraces out to the Kidron Valley on the east as far as the corner of the Horse Gate, will be holy to the Lord. The city will never again be uprooted or demolished.”

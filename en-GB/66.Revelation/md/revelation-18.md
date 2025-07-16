@@ -72,7 +72,7 @@ cargo of gold, silver, precious stones, and pearls; fine linen, purple, silk, an
 
 ## Revelation 18:13
 
-cinnamon, spice, incense, myrrh, frankincense, wine, olive oil, fine flour, wheat, cattle, sheep, horses, carriages, and human beings sold as slaves.
+aromatic spices, perfumes, and incense; wine, olive oil, fine flour, and wheat; livestock and carriages, and people traded as slaves.
 
 ## Revelation 18:14
 

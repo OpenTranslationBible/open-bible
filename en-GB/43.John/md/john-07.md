@@ -18,7 +18,7 @@ For no one acts in secret if he desires to be known publicly. If you are doing t
 
 ## John 7:5
 
-For even his own brothers did not believe in him.
+Even his own brothers did not yet have faith in him.
 
 ## John 7:6
 
@@ -78,7 +78,7 @@ He who speaks from himself seeks his own glory, but he who seeks the glory of th
 
 ## John 7:19
 
-Did not Moses give you the law? Yet none of you keeps the law. Why are you trying to kill me?”
+Moses gave you the law, yet none of you keeps it. Why are you trying to kill me?”
 
 ## John 7:20
 
@@ -112,7 +112,7 @@ Yet here he is, speaking publicly, and they are saying nothing to him. Could it 
 
 ## John 7:27
 
-But we know where this man is from; when the Messiah comes, no one will know where he is from.”
+But we know where this man is from; when the Messiah comes, his origin will be unknown.”
 
 ## John 7:28
 
@@ -124,7 +124,7 @@ but I know him because I am from him and he sent me.”
 
 ## John 7:30
 
-At this they tried to seize him, but no one laid a hand on him, because his hour had not yet come.
+At this they tried to seize him, but no one laid a hand on him, for his time had not yet arrived.
 
 ## John 7:31
 
@@ -134,7 +134,7 @@ Yet many in the crowd believed in him. They said, “When the Messiah comes, wil
 
 ## John 7:32
 
-The Pharisees heard the crowd whispering these things about him, and the chief priests and the Pharisees sent officers to arrest him.
+The Pharisees heard the crowd whispering these things about Jesus, and the chief priests and the Pharisees sent officers to arrest him.
 
 ## John 7:33
 
@@ -164,7 +164,7 @@ Whoever believes in me, as the Scripture has said, rivers of living water will f
 
 ## John 7:39
 
-By this he meant the Spirit, whom those who believed in him were later to receive. Up to that time, the Spirit had not been given, since Jesus had not yet been glorified.
+By this he referred to the Spirit, whom those who believed in him were later to receive. Up to that time, the Spirit had not been given, since Jesus had not yet been glorified.
 
 ---
 
@@ -182,7 +182,7 @@ Does not Scripture say that the Messiah will come from David’s descendants and
 
 ## John 7:43
 
-Thus the people were divided because of Jesus.
+Thus the people were divided in their opinions about Jesus.
 
 ## John 7:44
 
@@ -200,11 +200,11 @@ The officers answered, “No one ever spoke the way this man does.”
 
 ## John 7:47
 
-“You mean he has deceived you also?” the Pharisees retorted.
+“Are you saying he has deceived you also?” the Pharisees retorted.
 
 ## John 7:48
 
-“Have any of the rulers or of the Pharisees believed in him?
+“Have any of the rulers or of the Pharisees put their faith in him?
 
 ## John 7:49
 

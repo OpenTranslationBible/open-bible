@@ -10,7 +10,7 @@ they waged war against Bera king of Sodom, Birsha king of Gomorrah, Shinab king 
 All these latter kings allied themselves in the Valley of Siddim (which is the Salt Sea).
 
 ## Genesis 14:4
-For twelve years they had served Kedorlaomer, but in the thirteenth year they rebelled.
+For twelve years they were subject to Kedorlaomer, but in the thirteenth year they revolted.
 
 ## Genesis 14:5
 In the fourteenth year, Kedorlaomer and the kings with him went out and defeated the Rephaim in Ashteroth Karnaim, the Zuzim in Ham, and the Emim in Shaveh Kiriathaim,
@@ -58,10 +58,10 @@ Then Melchizedek king of Salem brought out bread and wine; he was a priest of Go
 He blessed Abram, saying, “Blessed be Abram by God Most High, Creator of heaven and earth.
 
 ## Genesis 14:20
-And blessed be God Most High, who has delivered your enemies into your hand.” Then Abram gave him a tenth of everything.
+And praised be God Most High, who has handed your enemies over to you.” Then Abram gave him a tenth of everything.
 
 ## Genesis 14:21
-The king of Sodom said to Abram, “Give me the people and keep the goods for yourself.”
+The king of Sodom said to Abram, “Return the people to me and keep the goods for yourself.”
 
 ## Genesis 14:22
 But Abram said to the king of Sodom, “I have sworn an oath to the Lord, God Most High, Creator of heaven and earth,

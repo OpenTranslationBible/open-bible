@@ -46,7 +46,7 @@ They were scorched by the fierce heat, and they blasphemed the name of God, who 
 
 ## Revelation 16:10
 
-The fifth angel poured out his bowl on the throne of the beast, and its kingdom was plunged into darkness; people gnawed their tongues in agony
+The fifth angel poured out his bowl on the throne of the beast, and its kingdom was cast into darkness; people gnawed their tongues in agony
 
 ## Revelation 16:11
 
@@ -70,7 +70,7 @@ These are demonic spirits performing signs, going out to the kings of the whole 
 
 ## Revelation 16:16
 
-Then they gathered the kings together to the place that in Hebrew is called Armageddon.
+Then they assembled the kings at the place that in Hebrew is called Armageddon.
 
 ## Revelation 16:17
 

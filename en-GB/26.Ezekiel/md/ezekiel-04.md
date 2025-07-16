@@ -34,7 +34,7 @@ The food you eat shall be weighed, twenty shekels a day; you shall eat it at set
 The water you drink shall be a sixth of a hin by measure; you shall drink it at set times.
 
 ## Ezekiel 4:12
-You shall eat it as a barley cake, having baked it in their sight over human dung.”
+You shall eat it as a barley cake, having baked it in their sight over an unusual fuel.”
 
 ## Ezekiel 4:13
 The Lord said, “In this manner the sons of Israel will eat their bread defiled among the nations where I will scatter them.”

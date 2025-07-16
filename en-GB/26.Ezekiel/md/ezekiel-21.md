@@ -1,13 +1,13 @@
 # Ezekiel Chapter 21
 
 ## Ezekiel 21:1
-The word of the Lord came to me, saying:
+The message from the Lord came to me:
 
 ## Ezekiel 21:2
 “Son of man, turn your face towards Jerusalem and prophesy against the sanctuaries; prophesy against the land of Israel,
 
 ## Ezekiel 21:3
-and say to the land of Israel: ‘This is what the Lord says: Behold, I am against you, and I will draw my sword from its sheath and cut off both the righteous and the wicked from you.
+and say to the land of Israel: ‘This is what the Lord declares: Behold, I am against you, and I will draw my sword from its sheath and cut off both the righteous and the wicked from you.
 
 ## Ezekiel 21:4
 Since I am going to cut off both the righteous and the wicked, my sword will be drawn against everyone from south to north.
@@ -22,10 +22,10 @@ Therefore, son of man, groan with a broken heart and bitter grief; groan in thei
 And when they ask you, ‘Why are you groaning?’ you shall say, ‘Because of the news that is coming. Every heart will melt, all hands will become weak, every spirit will faint, and all knees will become as water. Behold, it is coming, and it will happen,’ declares the Sovereign Lord.”
 
 ## Ezekiel 21:8
-The word of the Lord came to me, saying:
+The message from the Lord came to me:
 
 ## Ezekiel 21:9
-“Son of man, prophesy and say, ‘This is what the Lord says: A sword, a sword, sharpened and polished—
+“Son of man, prophesy and declare, ‘This is what the Lord declares: A sword, a sword, sharpened and polished—
 
 ## Ezekiel 21:10
 sharpened for slaughter, polished to flash like lightning! Shall we rejoice in the sceptre of my son? The sword despises every such rod.
@@ -52,7 +52,7 @@ Turn to the right, you sword; then turn to the left, wherever your blade is dire
 I too will clap my hands, and I will satisfy my wrath. I, the Lord, have spoken.”
 
 ## Ezekiel 21:18
-The word of the Lord came to me, saying:
+The message from the Lord came to me:
 
 ## Ezekiel 21:19
 “Son of man, mark out two paths for the sword of the king of Babylon to take, both starting from the same land. Make a signpost at the head of the road to the city.
@@ -82,7 +82,7 @@ this is what the Sovereign Lord says: Remove the turban and take off the crown. 
 A ruin, a ruin, a ruin I will make it! This will not be restored until he comes to whom it rightfully belongs; to him I will give it.’
 
 ## Ezekiel 21:28
-“And you, son of man, prophesy and say, ‘This is what the Sovereign Lord says concerning the Ammonites and their insults: A sword, a sword, drawn for slaughter, polished to consume and flash like lightning—
+“And you, son of man, prophesy and declare, ‘This is what the Sovereign Lord says concerning the Ammonites and their insults: A sword, a sword, drawn for slaughter, polished to consume and flash like lightning—
 
 ## Ezekiel 21:29
 while they see false visions for you, while they divine lies for you—to place you on the necks of the wicked who are to be slain, whose day has come, at the time of the final punishment.

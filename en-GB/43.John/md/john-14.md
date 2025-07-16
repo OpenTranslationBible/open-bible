@@ -22,7 +22,7 @@ Thomas said to him, “Lord, we do not know where you are going, so how can we k
 
 ## John 14:6
 
-Jesus said to him, “I am the way, the truth, and the life. No one comes to the Father except through me.
+Jesus replied, “I am the way, the truth, and the life. No one comes to the Father except through me.
 
 ## John 14:7
 
@@ -44,7 +44,7 @@ Do you not believe that I am in the Father and the Father is in me? The words I 
 
 ## John 14:11
 
-Believe me when I say that I am in the Father and the Father is in me; or at least believe on the evidence of the works themselves.
+Trust me when I say that I am in the Father and the Father is in me; or at least believe because of the works themselves.
 
 ## John 14:12
 
@@ -52,7 +52,7 @@ Truly, truly I say to you, whoever believes in me will do the works I have been 
 
 ## John 14:13
 
-And whatever you ask in my name, I will do, so that the Father may be glorified in the Son.
+And whatever you request in my name, I will do, so that the Father may be honored in the Son.
 
 ## John 14:14
 
@@ -66,7 +66,7 @@ If you ask me anything in my name, I will do it.
 
 ## John 14:16
 
-And I will ask the Father, and he will give you another Helper, to be with you forever—
+And I will ask the Father, and he will provide you with another Helper, to be with you forever—
 
 ## John 14:17
 
@@ -82,7 +82,7 @@ In a little while, the world will not see me anymore, but you will see me. Becau
 
 ## John 14:20
 
-On that day you will realise that I am in my Father, and you are in me, and I am in you.
+On that day you will understand that I am in my Father, and you are in me, and I am in you.
 
 ## John 14:21
 
@@ -106,7 +106,7 @@ Anyone who does not love me will not obey my teaching. The words you hear are no
 
 ## John 14:25
 
-“I have spoken these things to you while I am still with you.
+“I have shared these things with you while I am still with you.
 
 ## John 14:26
 
@@ -122,7 +122,7 @@ You heard me say, ‘I am going away and I am coming back to you.’ If you love
 
 ## John 14:29
 
-I have told you now before it happens, so that when it does happen you may believe.
+I have informed you now before it happens, so that when it does happen you may believe.
 
 ## John 14:30
 
@@ -130,4 +130,4 @@ I will not say much more to you, for the ruler of this world is coming. He has n
 
 ## John 14:31
 
-but he comes so that the world may learn that I love the Father and do exactly what my Father has commanded me. “Come now; let us leave.
+but he comes so that the world may understand that I love the Father and do exactly what my Father has commanded me. “Come now; let us leave.

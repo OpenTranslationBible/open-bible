@@ -87,7 +87,7 @@ The way of the wicked is like deep darkness; they do not know what makes them st
 
 ## Proverbs 4:20
 
-My son, attend to my words; incline your ear to my sayings.
+My son, pay attention to my words; listen closely to my sayings.
 
 ## Proverbs 4:21
 
@@ -99,7 +99,7 @@ For they are life to those who find them and health to the whole body.
 
 ## Proverbs 4:23
 
-Guard your heart above all else, for it is the source of life.
+Protect your heart with all diligence, for it is the wellspring of life.
 
 ## Proverbs 4:24
 

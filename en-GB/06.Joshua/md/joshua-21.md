@@ -74,7 +74,7 @@ From the tribe of Benjamin, they gave Gibeon, Geba,
 
 ## Joshua 21:18
 
-Anathoth, and Almon, together with their pasturelands—four towns.
+Anathoth and Almon, along with their pasturelands—four towns.
 
 ## Joshua 21:19
 
@@ -94,7 +94,7 @@ Kibzaim and Beth Horon, with their pasturelands—four towns.
 
 ## Joshua 21:23
 
-From the tribe of Dan, they received Eltekeh, Gibbethon,
+From the tribe of Dan, they were given Eltekeh, Gibbethon,
 
 ## Joshua 21:24
 
@@ -114,7 +114,7 @@ The Gershonite clans of the Levites were given: from the half-tribe of Manasseh,
 
 ## Joshua 21:28
 
-From the tribe of Issachar, they received Kishion, Daberath,
+From the tribe of Issachar, they were given Kishion, Daberath,
 
 ## Joshua 21:29
 
@@ -122,7 +122,7 @@ Jarmuth, and En Gannim, with their pasturelands—four towns;
 
 ## Joshua 21:30
 
-From the tribe of Asher, they received Mishal, Abdon,
+From the tribe of Asher, they were given Mishal, Abdon,
 
 ## Joshua 21:31
 
@@ -148,7 +148,7 @@ Dimnah, and Nahalal, with their pasturelands—four towns;
 
 ## Joshua 21:36
 
-From the tribe of Reuben, they received Bezer, Jahaz,
+From the tribe of Reuben, they were given Bezer, Jahaz,
 
 ## Joshua 21:37
 

@@ -22,7 +22,7 @@ The rabbit, although it chews the cud, does not have a split hoof; it is unclean
 And the pig, though it has a split hoof completely divided, does not chew the cud; it is unclean for you.
 
 ## Leviticus 11:8
-You must not eat their meat or touch their carcasses; they are unclean for you.
+You are not to consume their meat or handle their carcasses; they are considered unclean for you.
 
 ## Leviticus 11:9
 “‘Of all the creatures living in the water, you may eat any that have fins and scales.
@@ -49,10 +49,10 @@ every kind of raven,
 the ostrich, the owl, the seagull, and any kind of hawk,
 
 ## Leviticus 11:17
-the little owl, the cormorant, and the great owl,
+the small owl, the cormorant, and the large owl,
 
 ## Leviticus 11:18
-the white owl, the pelican, and the carrion vulture,
+the barn owl, the pelican, and the carrion vulture,
 
 ## Leviticus 11:19
 the stork, any kind of heron, the hoopoe, and the bat.
@@ -64,7 +64,7 @@ the stork, any kind of heron, the hoopoe, and the bat.
 However, among the flying insects that walk on all fours you may eat those that have jointed legs for hopping on the ground.
 
 ## Leviticus 11:22
-Of these you may eat any kind of locust, katydid, cricket, or grasshopper.
+Of these, you are permitted to eat any kind of locust, katydid, cricket, or grasshopper.
 
 ## Leviticus 11:23
 But all other flying insects that have four legs are to be regarded as detestable.
@@ -97,7 +97,7 @@ Of all those that move along the ground, these are unclean for you. Whoever touc
 When one of them dies and falls on something, that article, whatever its use, will be unclean, whether it is made of wood, cloth, hide, or sackcloth. It must be put in water; it will be unclean until evening, and then it will be clean.
 
 ## Leviticus 11:33
-If one of them falls into a clay pot, everything in it will be unclean, and you must break the pot.
+If one of them falls into a clay pot, everything in it will be unclean, and the pot must be broken.
 
 ## Leviticus 11:34
 Any food you are allowed to eat that has come into contact with water from any such pot is unclean, and any liquid that is drunk from such a pot is unclean.
@@ -112,7 +112,7 @@ A spring, however, or a cistern for collecting water remains clean, but anyone w
 If a carcass falls on any seeds that are to be planted, they remain clean.
 
 ## Leviticus 11:38
-But if water has been put on the seed and a carcass falls on it, it is unclean for you.
+But if water has been put on the seed and a carcass falls on it, it becomes unclean for you.
 
 ## Leviticus 11:39
 “‘If an animal that you are allowed to eat dies, anyone who touches its carcass will be unclean until evening.
@@ -127,10 +127,10 @@ Anyone who eats some of its carcass must wash their clothes, and they will be un
 You are not to eat any creature that moves along the ground, whether it moves on its belly or walks on all fours or on many feet; it is detestable.
 
 ## Leviticus 11:43
-Do not defile yourselves by any of these creatures. Do not make yourselves unclean by means of them or be made unclean by them.
+Do not make yourselves impure by any of these creatures. Do not make yourselves unclean by means of them or be made unclean by them.
 
 ## Leviticus 11:44
-I am the Lord your God; consecrate yourselves and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground.
+I am the Lord your God; set yourselves apart and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground.
 
 ## Leviticus 11:45
 I am the Lord, who brought you up out of Egypt to be your God; therefore be holy, because I am holy.

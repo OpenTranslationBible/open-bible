@@ -40,7 +40,7 @@ Did I conceive all these people? Did I give birth to them, that you should say t
 Where am I to find meat to give to all these people? They keep wailing to me, ‘Give us meat to eat!’
 
 ## Numbers 11:14
-I cannot carry all these people by myself; the burden is too heavy for me.
+I am unable to bear the responsibility of all these people alone; it is too overwhelming for me.
 
 ## Numbers 11:15
 If this is how you are going to treat me, please kill me now—if I have found favour in your eyes—and do not let me see my own ruin.”
@@ -82,10 +82,10 @@ However, two men had remained in the camp; one was named Eldad and the other Med
 A young man ran and reported to Moses, “Eldad and Medad are prophesying in the camp.”
 
 ## Numbers 11:28
-Joshua son of Nun, who had been Moses’ aide since youth, spoke up and said, “Moses, my lord, stop them!”
+Joshua son of Nun, who had been Moses’ assistant from his youth, spoke up and said, “Moses, my lord, stop them!”
 
 ## Numbers 11:29
-But Moses replied, “Are you jealous for my sake? I wish that all the Lord’s people were prophets and that the Lord would put his Spirit on them!”
+But Moses replied, “Are you concerned on my behalf? I wish that all the Lord’s people were prophets and that the Lord would put his Spirit on them!”
 
 ## Numbers 11:30
 Then Moses and the elders of Israel returned to the camp.

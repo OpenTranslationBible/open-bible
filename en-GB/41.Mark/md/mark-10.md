@@ -48,7 +48,7 @@ He said to them, “Whoever divorces his wife and marries another woman commits 
 
 ## Mark 10:12
 
-and if she divorces her husband and marries another man, she commits adultery.”
+and if a woman divorces her husband and marries another man, she commits adultery.”
 
 ---
 
@@ -62,11 +62,11 @@ When Jesus saw this, He was indignant and said to them, “Let the children come
 
 ## Mark 10:15
 
-Truly I tell you, whoever does not receive the kingdom of God like a little child will never enter it.”
+I assure you, whoever does not receive the kingdom of God with the heart of a child will never enter it.”
 
 ## Mark 10:16
 
-And He took the children in His arms, placed His hands on them, and blessed them.
+And He embraced the children, placed His hands on them, and blessed them.
 
 ---
 
@@ -84,7 +84,7 @@ You know the commandments: ‘Do not murder, do not commit adultery, do not stea
 
 ## Mark 10:20
 
-He said to Him, “Teacher, I have kept all these from my youth.”
+He said to Him, “Teacher, I have observed all these from my youth.”
 
 ## Mark 10:21
 
@@ -102,7 +102,7 @@ Jesus looked around and said to His disciples, “How difficult it is for those 
 
 ## Mark 10:24
 
-The disciples were amazed at His words. But Jesus said again, “Children, how hard it is to enter the kingdom of God!
+The disciples were amazed at His words. But Jesus said again, “Children, how challenging it is to enter the kingdom of God!
 
 ## Mark 10:25
 
@@ -160,7 +160,7 @@ Then James and John, the sons of Zebedee, came to Him and said, “Teacher, we w
 
 ## Mark 10:37
 
-They replied, “Let one of us sit at Your right and the other at Your left in Your glory.”
+They replied, “Allow one of us to sit at Your right and the other at Your left in Your glory.”
 
 ## Mark 10:38
 
@@ -168,7 +168,7 @@ Jesus said to them, “You do not know what you are asking. Can you drink the cu
 
 ## Mark 10:39
 
-“We can,” they answered. Jesus said to them, “You will drink the cup I drink and be baptised with the baptism I am baptised with,
+“We can,” they answered. Jesus said to them, “You will indeed drink the cup I drink and be baptised with the baptism I am baptised with,
 
 ## Mark 10:40
 
@@ -178,11 +178,11 @@ but to sit at My right or left is not for Me to grant. These places belong to th
 
 ## Mark 10:41
 
-When the ten heard about this, they became indignant with James and John.
+When the ten heard about this, they became upset with James and John.
 
 ## Mark 10:42
 
-Jesus called them together and said, “You know that those who are regarded as rulers of the Gentiles lord it over them, and their high officials exercise authority over them.
+Jesus called them together and said, “You know that those who are regarded as rulers of the Gentiles dominate them, and their high officials exercise authority over them.
 
 ## Mark 10:43
 
@@ -216,11 +216,11 @@ Jesus stopped and said, “Call him.” So they called to the blind man, “Take
 
 ## Mark 10:50
 
-Throwing his cloak aside, he jumped up and came to Jesus.
+Casting aside his cloak, he sprang up and came to Jesus.
 
 ## Mark 10:51
 
-“What do you want Me to do for you?” Jesus asked him. The blind man said, “Rabbi, I want to see.”
+“What do you want Me to do for you?” Jesus asked him. The blind man said, “Rabbi, I wish to see.”
 
 ## Mark 10:52
 

@@ -25,7 +25,7 @@ The Lord spoke to Moses, saying,
 “Take the staff, and you and your brother Aaron gather the assembly. Speak to the rock before their eyes, and it will yield its water. You will bring forth water from the rock for the community and their livestock to drink.”
 
 ## Numbers 20:9
-So Moses took the staff from before the Lord, just as he had commanded him.
+Moses took the staff from the presence of the Lord, as he was instructed.
 
 ## Numbers 20:10
 Moses and Aaron gathered the assembly in front of the rock, and he said to them, “Listen, you rebels, must we bring water for you out of this rock?”
@@ -79,7 +79,7 @@ Take Aaron and his son Eleazar and bring them up Mount Hor.
 Remove Aaron’s garments and put them on his son Eleazar, for Aaron will be gathered to his people and will die there.”
 
 ## Numbers 20:27
-Moses did as the Lord commanded: they went up Mount Hor in the sight of the whole community.
+Moses followed the Lord's instructions: they ascended Mount Hor in the sight of the whole community.
 
 ## Numbers 20:28
 Moses removed Aaron’s garments and put them on his son Eleazar. Aaron died there on the mountain top. Then Moses and Eleazar came down from the mountain.

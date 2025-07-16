@@ -14,7 +14,7 @@ Make every effort to maintain the unity of the Spirit through the bond of peace.
 
 ## Ephesians 4:4
 
-There is one body and one Spirit, just as you were called to one hope when you were called;
+There is one body and one Spirit, just as you were called to a single hope at the time of your calling;
 
 ## Ephesians 4:5
 
@@ -22,7 +22,7 @@ one Lord, one faith, one baptism;
 
 ## Ephesians 4:6
 
-one God and Father of all, who is over all, through all, and in all.
+one God and Father of all, who reigns over all, works through all, and is in all.
 
 ## Ephesians 4:7
 
@@ -66,7 +66,7 @@ Instead, speaking the truth in love, we will in all things grow up into him who 
 
 ## Ephesians 4:16
 
-From him the whole body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part does its work.
+From him the entire body, joined and held together by every supporting ligament, grows and builds itself up in love, as each part fulfills its role.
 
 ## Ephesians 4:17
 
@@ -82,7 +82,7 @@ Having lost all sensitivity, they have given themselves over to sensuality, to i
 
 ## Ephesians 4:20
 
-But that is not the way you learned Christ,
+But this is not the way you came to know Christ,
 
 ## Ephesians 4:21
 
@@ -90,11 +90,11 @@ if indeed you heard him and were taught in him, as the truth is in Jesus.
 
 ## Ephesians 4:22
 
-You were taught, with regard to your former way of life, to put off your old self, which is being corrupted by its deceitful desires;
+You were instructed, concerning your former way of life, to discard your old self, which is being corrupted by its deceitful desires;
 
 ## Ephesians 4:23
 
-to be renewed in the spirit of your minds;
+to be renewed in the attitude of your minds;
 
 ## Ephesians 4:24
 
@@ -106,11 +106,11 @@ Therefore, putting away falsehood, let each of you speak truthfully with his nei
 
 ## Ephesians 4:26
 
-“In your anger, do not sin”: Do not let the sun go down while you are still angry,
+“In your anger, do not sin”: Do not let the sun set while you are still angry,
 
 ## Ephesians 4:27
 
-and do not give the devil a foothold.
+and do not give the devil an opportunity.
 
 ## Ephesians 4:28
 
@@ -122,7 +122,7 @@ Let no unwholesome talk come out of your mouths, but only what is helpful for bu
 
 ## Ephesians 4:30
 
-And do not grieve the Holy Spirit of God, with whom you were sealed for the day of redemption.
+And do not cause sorrow to the Holy Spirit of God, with whom you were sealed for the day of redemption.
 
 ## Ephesians 4:31
 

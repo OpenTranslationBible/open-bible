@@ -50,7 +50,7 @@ No discipline seems pleasant at the time, but painful. Yet later on, it yields a
 
 ## Hebrews 12:12
 
-Therefore, strengthen your weak hands and feeble knees.
+Therefore, strengthen your weary hands and weak knees.
 
 ## Hebrews 12:13
 
@@ -58,7 +58,7 @@ Make straight paths for your feet, so that the lame may not be disabled, but rat
 
 ## Hebrews 12:14
 
-Pursue peace with everyone, and holiness, without which no one will see the Lord.
+Strive for peace with everyone, and for the holiness without which no one will see the Lord.
 
 ## Hebrews 12:15
 
@@ -86,7 +86,7 @@ because they could not bear the command: “If even an animal touches the mounta
 
 ## Hebrews 12:21
 
-The sight was so terrifying that Moses said, “I am trembling with fear.”
+The appearance was so frightening that Moses said, “I am trembling with fear.”
 
 ## Hebrews 12:22
 
@@ -98,7 +98,7 @@ to the general assembly and church of the firstborn, whose names are written in 
 
 ## Hebrews 12:24
 
-to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks a better word than the blood of Abel.
+to Jesus, the mediator of a new covenant, and to the sprinkled blood that speaks more graciously than the blood of Abel.
 
 ## Hebrews 12:25
 
@@ -114,7 +114,7 @@ The phrase “once more” indicates the removal of what can be shaken—that is
 
 ## Hebrews 12:28
 
-Therefore, since we are receiving a kingdom that cannot be shaken, let us be thankful, and so worship God acceptably with reverence and awe,
+Therefore, since we are receiving a kingdom that cannot be shaken, let us be grateful, and thus worship God acceptably with reverence and awe,
 
 ## Hebrews 12:29
 

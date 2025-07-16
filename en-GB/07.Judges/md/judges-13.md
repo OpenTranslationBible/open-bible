@@ -72,7 +72,7 @@ Manoah asked the angel of the Lord, “What is your name, so that we may honour 
 
 ## Judges 13:18
 
-He replied, “Why do you ask my name? It is beyond understanding.”
+He replied, “Why do you ask my name? It is a mystery.”
 
 ## Judges 13:19
 

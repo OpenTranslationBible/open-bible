@@ -70,7 +70,7 @@ He took the elders of the town and disciplined the men of Succoth with desert th
 
 ## Judges 8:17
 
-He also tore down the tower of Penuel and killed the men of the city.
+He also brought down the tower of Penuel and dealt with the men of the city.
 
 ## Judges 8:18
 
@@ -90,7 +90,7 @@ Zebah and Zalmunna said, “Rise yourself and strike us; for as the man is, so i
 
 ## Judges 8:22
 
-The Israelites said to Gideon, “Rule over us—you, your son, and your grandson—because you have saved us from the hand of Midian.”
+The Israelites said to Gideon, “Lead us—you, your son, and your grandson—because you have saved us from the hand of Midian.”
 
 ## Judges 8:23
 
@@ -110,13 +110,13 @@ The weight of the gold earrings he requested was seventeen hundred shekels, not 
 
 ## Judges 8:27
 
-Gideon made the gold into an ephod, which he placed in Ophrah, his town. All Israel prostituted themselves by worshipping it there, and it became a snare to Gideon and his family.
+Gideon fashioned the gold into an ephod, which he placed in Ophrah, his town. All Israel was led astray by worshipping it there, and it became a trap to Gideon and his family.
 
 ---
 
 ## Judges 8:28
 
-Thus Midian was subdued before the Israelites and did not raise its head again. During Gideon’s lifetime, the land had peace for forty years.
+Thus Midian was subdued before the Israelites and did not rise again. During Gideon’s lifetime, the land enjoyed peace for forty years.
 
 ## Judges 8:29
 
@@ -132,11 +132,11 @@ His concubine, who lived in Shechem, also bore him a son, whom he named Abimelec
 
 ## Judges 8:32
 
-Gideon son of Joash died at a good old age and was buried in the tomb of his father Joash in Ophrah of the Abiezrites.
+Gideon son of Joash passed away at a good old age and was laid to rest in the tomb of his father Joash in Ophrah of the Abiezrites.
 
 ## Judges 8:33
 
-As soon as Gideon died, the Israelites again prostituted themselves to the Baals and set up Baal-Berith as their god.
+As soon as Gideon died, the Israelites again turned to the Baals and set up Baal-Berith as their god.
 
 ## Judges 8:34
 

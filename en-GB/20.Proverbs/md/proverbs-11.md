@@ -64,7 +64,7 @@ The Lord detests those with perverse hearts, but He delights in the blameless.
 Rest assured, the wicked will not go unpunished, but the righteous will be delivered.
 
 ## Proverbs 11:22
-Like a gold ring in a pig’s snout is a beautiful woman who lacks discretion.
+As a gold ring in the snout of a pig, so is a beautiful woman who lacks discretion.
 
 ## Proverbs 11:23
 The desires of the righteous end in good, but the expectations of the wicked result in wrath.

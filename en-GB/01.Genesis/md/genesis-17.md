@@ -7,7 +7,7 @@ When Abram was ninety-nine years old, the Lord appeared to him and said, “I am
 I will establish My covenant between Me and you, and I will multiply your descendants greatly.”
 
 ## Genesis 17:3
-Abram fell on his face, and God spoke with him, saying,
+Abram bowed low to the ground, and God spoke with him, saying,
 
 ## Genesis 17:4
 “As for Me, this is My covenant with you: You shall be the father of a multitude of nations.
@@ -49,7 +49,7 @@ Then God said to Abraham, “As for Sarai your wife, you shall not call her Sara
 I will bless her, and indeed I will give you a son by her. I will bless her, and she shall be a mother of nations; kings of peoples shall come from her.”
 
 ## Genesis 17:17
-Then Abraham fell on his face and laughed, and said in his heart, “Shall a child be born to a man who is a hundred years old? And shall Sarah, who is ninety years old, bear a child?”
+Then Abraham bowed down and laughed, pondering in his heart, “Can a child be born to a man who is a hundred years old? And can Sarah, who is ninety years old, bear a child?”
 
 ## Genesis 17:18
 And Abraham said to God, “Oh that Ishmael might live under Your blessing!”
@@ -61,22 +61,22 @@ But God said, “No, but your wife Sarah shall bear you a son, and you shall cal
 As for Ishmael, I have heard you; I will bless him and make him fruitful and multiply him greatly. He shall father twelve princes, and I will make him into a great nation.
 
 ## Genesis 17:21
-But I will establish My covenant with Isaac, whom Sarah shall bear to you at this time next year.”
+However, I will establish My covenant with Isaac, whom Sarah shall bear to you at this time next year.”
 
 ## Genesis 17:22
-When He had finished speaking with Abraham, God went up from him.
+After finishing His conversation with Abraham, God ascended from him.
 
 ## Genesis 17:23
 Then Abraham took his son Ishmael and all those born in his house or bought with his money, every male among the men of Abraham’s household, and circumcised them on that very day, as God had instructed him.
 
 ## Genesis 17:24
-Now Abraham was ninety-nine years old when he was circumcised in the flesh of his foreskin.
+At the age of ninety-nine, Abraham was circumcised in the flesh of his foreskin.
 
 ## Genesis 17:25
 And his son Ishmael was thirteen years old when he was circumcised in the flesh of his foreskin.
 
 ## Genesis 17:26
-On that very day Abraham and his son Ishmael were circumcised.
+That same day, Abraham and his son Ishmael underwent circumcision.
 
 ## Genesis 17:27
 And all the men of his household, those born in the house or bought with money from a foreigner, were circumcised with him.

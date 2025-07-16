@@ -40,7 +40,7 @@ An angel of the Lord appeared to them, and the glory of the Lord shone around th
 
 ## Luke 2:10
 
-But the angel said to them, “Do not be afraid, for behold, I bring you good news of great joy which will be for all people.
+But the angel reassured them, “Fear not, for I bring you good news of great joy for all people.
 
 ## Luke 2:11
 
@@ -48,11 +48,11 @@ For today, in the city of David, a Saviour has been born to you; he is Christ th
 
 ## Luke 2:12
 
-This will be a sign to you: You will find a baby wrapped in cloths and lying in a manger.”
+This will be your sign: You will find a baby wrapped in cloths and lying in a manger.”
 
 ## Luke 2:13
 
-And suddenly there appeared with the angel a multitude of the heavenly host praising God and saying,
+And suddenly, along with the angel, there was a multitude of the heavenly host praising God and saying,
 
 ## Luke 2:14
 
@@ -79,7 +79,7 @@ And all who heard it were amazed at what the shepherds told them.
 
 ## Luke 2:19
 
-But Mary treasured up all these things, pondering them in her heart.
+But Mary kept all these things in her heart, reflecting on them.
 
 ## Luke 2:20
 
@@ -117,7 +117,7 @@ It had been revealed to him by the Holy Spirit that he would not die before he h
 
 ## Luke 2:27
 
-Moved by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required,
+Guided by the Spirit, he went into the temple courts. When the parents brought in the child Jesus to do for him what the custom of the Law required,
 
 ## Luke 2:28
 
@@ -145,7 +145,7 @@ Simeon took him in his arms and praised God, saying,
 
 ## Luke 2:33
 
-The child’s father and mother marvelled at what was said about him.
+The child’s father and mother were amazed at what was said about him.
 
 ## Luke 2:34
 
@@ -153,7 +153,7 @@ Then Simeon blessed them and said to Mary, his mother, “This child is destined
 
 ## Luke 2:35
 
-so that the thoughts of many hearts will be revealed. And a sword will pierce your own soul too.”
+so that the thoughts of many hearts will be revealed. And a sword will pierce your own soul as well.”
 
 ---
 
@@ -167,7 +167,7 @@ and then had been a widow until she was eighty-four. She never left the temple b
 
 ## Luke 2:38
 
-Coming up to them at that very moment, she gave thanks to God and spoke about the child to all who were looking forward to the redemption of Jerusalem.
+Approaching them at that very moment, she gave thanks to God and spoke about the child to all who were anticipating the redemption of Jerusalem.
 
 ---
 
@@ -187,11 +187,11 @@ Every year, his parents went to Jerusalem for the Feast of the Passover.
 
 ## Luke 2:42
 
-When he was twelve years old, they went up to the festival, according to the custom.
+When he was twelve years old, they went up to the festival as was their custom.
 
 ## Luke 2:43
 
-After the festival was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.
+After the festival concluded, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it.
 
 ## Luke 2:44
 
@@ -203,15 +203,15 @@ When they did not find him, they returned to Jerusalem to look for him.
 
 ## Luke 2:46
 
-After three days, they found him in the temple courts, sitting among the teachers, listening to them and asking them questions.
+After three days, they discovered him in the temple courts, sitting among the teachers, listening to them and asking them questions.
 
 ## Luke 2:47
 
-Everyone who heard him was amazed at his understanding and his answers.
+Everyone who heard him was astonished at his understanding and his answers.
 
 ## Luke 2:48
 
-When his parents saw him, they were astonished. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.”
+When his parents saw him, they were amazed. His mother said to him, “Son, why have you treated us like this? Your father and I have been anxiously searching for you.”
 
 ## Luke 2:49
 
@@ -219,11 +219,11 @@ He said to them, “Why were you searching for me? Did you not know that I must 
 
 ## Luke 2:50
 
-But they did not understand what he was saying to them.
+Yet they did not comprehend what he was saying to them.
 
 ## Luke 2:51
 
-Then he went down to Nazareth with them and was obedient to them. But his mother treasured all these things in her heart.
+Then he went down to Nazareth with them and was obedient to them. Meanwhile, his mother kept all these things in her heart.
 
 ## Luke 2:52
 

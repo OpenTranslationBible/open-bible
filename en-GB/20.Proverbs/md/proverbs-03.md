@@ -18,7 +18,7 @@ Thus you will find favour and a good reputation in the sight of God and man.
 
 ## Proverbs 3:5
 
-Trust in the Lord with all your heart and do not rely on your own understanding.
+Place your trust fully in the Lord and avoid depending solely on your own understanding.
 
 ## Proverbs 3:6
 
@@ -30,11 +30,11 @@ Do not be wise in your own eyes; fear the Lord and turn away from evil.
 
 ## Proverbs 3:8
 
-This will bring healing to your body and refreshment to your bones.
+This will bring health to your body and nourishment to your bones.
 
 ## Proverbs 3:9
 
-Honour the Lord with your wealth, and with the firstfruits of all your produce;
+Give honour to the Lord with your wealth, and with the firstfruits of all your produce;
 
 ## Proverbs 3:10
 
@@ -144,7 +144,7 @@ For the devious are detestable to the Lord, but He is intimate with the upright.
 
 ## Proverbs 3:33
 
-The Lord’s curse is on the house of the wicked, but He blesses the home of the righteous.
+The Lord’s curse is upon the dwelling of the wicked, but He blesses the home of the righteous.
 
 ## Proverbs 3:34
 

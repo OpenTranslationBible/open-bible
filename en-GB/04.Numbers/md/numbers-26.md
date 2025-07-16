@@ -97,7 +97,7 @@ from Asriel, the family of the Asrielites; from Shechem, the family of the Shech
 from Shemida, the family of the Shemidaites; from Hepher, the family of the Hepherites.
 
 ## Numbers 26:33
-Now Zelophehad, the son of Hepher, had no sons, only daughters; and the names of the daughters of Zelophehad were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
+Zelophehad, the son of Hepher, had no sons, only daughters; and the names of Zelophehad's daughters were Mahlah, Noah, Hoglah, Milcah, and Tirzah.
 
 ## Numbers 26:34
 These were the families of Manasseh, and those counted were 52,700.
@@ -154,7 +154,7 @@ These were the families of Naphtali by their families, and those counted were 45
 The total number of the Israelites counted was 601,730.
 
 ## Numbers 26:52
-Then the Lord spoke to Moses, saying,
+The Lord then instructed Moses,
 
 ## Numbers 26:53
 “The land shall be divided among them as an inheritance according to the number of names.
@@ -166,7 +166,7 @@ To a larger group give a larger inheritance, and to a smaller group a smaller on
 Ensure that the land is distributed by lot. What each group inherits will be according to the names of their ancestral tribes.
 
 ## Numbers 26:56
-Each inheritance is to be distributed by lot among the larger and smaller groups.”
+The inheritance is to be distributed by lot among the larger and smaller groups.
 
 ## Numbers 26:57
 These were the Levites who were counted by their families: from Gershon, the family of the Gershonites; from Kohath, the family of the Kohathites; from Merari, the family of the Merarites.
@@ -178,7 +178,7 @@ These also were Levite families: the family of the Libnites, the family of the H
 The name of Amram’s wife was Jochebed, a daughter of Levi, who was born to the Levites in Egypt. To Amram she bore Aaron, Moses, and their sister Miriam.
 
 ## Numbers 26:60
-To Aaron were born Nadab and Abihu, Eleazar and Ithamar.
+Aaron's sons were Nadab and Abihu, Eleazar and Ithamar.
 
 ## Numbers 26:61
 But Nadab and Abihu died when they offered unauthorised fire before the Lord.
@@ -187,7 +187,7 @@ But Nadab and Abihu died when they offered unauthorised fire before the Lord.
 All the male Levites from a month old and upwards numbered 23,000. They were not counted among the other Israelites because they received no inheritance among them.
 
 ## Numbers 26:63
-These are the ones counted by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan opposite Jericho.
+These are the ones recorded by Moses and Eleazar the priest when they counted the Israelites on the plains of Moab by the Jordan opposite Jericho.
 
 ## Numbers 26:64
 Among these, there was not a man of those who were counted by Moses and Aaron the priest when they counted the Israelites in the wilderness of Sinai.

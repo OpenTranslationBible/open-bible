@@ -60,7 +60,7 @@ However, I confess that I worship the God of our ancestors in accordance with th
 
 ## Acts 24:15
 
-and I have the same hope in God as these men themselves have, that there will be a resurrection of both the righteous and the wicked.
+and I share the hope in God that there will be a resurrection of both the righteous and the wicked.
 
 ## Acts 24:16
 

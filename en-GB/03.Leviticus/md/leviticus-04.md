@@ -13,7 +13,7 @@ if the anointed priest sins, bringing guilt upon the people, he must present to 
 He shall bring the bull to the entrance of the tent of meeting before the Lord, lay his hand on its head, and slaughter it there before the Lord.
 
 ## Leviticus 4:5
-The anointed priest shall then take some of the bull’s blood and bring it into the tent of meeting.
+The anointed priest is to take some of the bull’s blood and carry it into the tent of meeting.
 
 ## Leviticus 4:6
 He is to dip his finger in the blood and sprinkle it seven times before the Lord, in front of the veil of the sanctuary.

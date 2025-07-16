@@ -72,7 +72,7 @@ As it is written:
 
 ## Romans 3:16
 
-> ruin and misery are in their ways,
+> destruction and distress are in their paths,
 
 ## Romans 3:17
 
@@ -116,11 +116,11 @@ he did this to demonstrate his righteousness at the present time, so that he mig
 
 ## Romans 3:27
 
-Where, then, is boasting? It is excluded. By what kind of law? Of works? No, but by a law of faith.
+What place, then, is there for boasting? It is ruled out. By what kind of law? By a law of works? No, but by the law of faith.
 
 ## Romans 3:28
 
-For we maintain that a person is justified by faith apart from the works of the law.
+For we hold that a person is justified by faith, independent of the works of the law.
 
 ## Romans 3:29
 

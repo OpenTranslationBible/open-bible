@@ -4,7 +4,7 @@
 Then Jacob called his sons and said, “Gather together so that I may tell you what will happen to you in the days to come.
 
 ## Genesis 49:2
-“Assemble and listen, sons of Jacob; listen to Israel your father.
+“Come together and hear, sons of Jacob; give heed to Israel, your father.
 
 ## Genesis 49:3
 “Reuben, you are my firstborn, my might and the beginning of my strength, excelling in dignity and power.
@@ -22,7 +22,7 @@ Let my soul not enter their council; let my glory not be united with their assem
 Cursed be their anger, for it is fierce, and their wrath, for it is cruel! I will scatter them in Jacob and disperse them in Israel.
 
 ## Genesis 49:8
-“Judah, your brothers shall praise you; your hand shall be on the neck of your enemies; your father’s sons shall bow down to you.
+“Judah, your brothers will honor you; your hand will be on the neck of your enemies; your father’s sons will bow down to you.
 
 ## Genesis 49:9
 Judah is a lion’s cub; from the prey, my son, you have gone up. He crouches and lies down like a lion, and like a lioness—who dares to rouse him?
@@ -61,7 +61,7 @@ Dan shall be a serpent by the roadside, a viper along the path, that bites the h
 “Asher’s food shall be rich, and he shall provide royal delicacies.
 
 ## Genesis 49:21
-“Naphtali is a doe let loose; he utters beautiful words.
+“Naphtali is a free doe; he speaks with grace.
 
 ## Genesis 49:22
 “Joseph is a fruitful vine, a fruitful vine by a spring; its branches run over a wall.

@@ -16,7 +16,7 @@ Create a grating for it, a bronze network, and make four bronze rings at the fou
 Place it under the ledge of the altar so that the network reaches halfway up the altar.
 
 ## Exodus 27:6
-Make poles of acacia wood for the altar and overlay them with bronze.
+Prepare poles of acacia wood for the altar and cover them with bronze.
 
 ## Exodus 27:7
 Insert the poles into the rings so that they are on the two sides of the altar when it is carried.

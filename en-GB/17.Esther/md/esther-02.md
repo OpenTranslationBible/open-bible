@@ -90,7 +90,7 @@ Esther had not revealed her family background or her people, just as Mordecai ha
 
 ## Esther 2:21
 
-During the time Mordecai was sitting at the king’s gate, Bigthana and Teresh, two of the king’s officers who guarded the doorway, became angry and conspired to assassinate King Xerxes.
+While Mordecai was at the king’s gate, Bigthana and Teresh, two of the king’s officers who guarded the entrance, became angry and plotted to harm King Xerxes.
 
 ## Esther 2:22
 

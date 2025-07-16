@@ -22,7 +22,7 @@ Knowing this, that our old self was crucified with him, so that the body of sin 
 For anyone who has died has been freed from sin.
 
 ## Romans 6:8
-Now if we have died with Christ, we believe that we shall also live with him.
+If we have shared in Christ's death, we believe that we will also share in his life.
 
 ## Romans 6:9
 Knowing that Christ, having been raised from the dead, is never to die again; death no longer has dominion over him.
@@ -31,10 +31,10 @@ Knowing that Christ, having been raised from the dead, is never to die again; de
 The death he died, he died to sin once for all; but the life he lives, he lives to God.
 
 ## Romans 6:11
-So you too, consider yourselves dead to sin but alive to God in Christ Jesus.
+In the same way, consider yourselves dead to sin but alive to God in Christ Jesus.
 
 ## Romans 6:12
-Therefore do not let sin reign in your mortal body so that you obey its desires.
+Therefore, do not allow sin to rule in your mortal body, making you obey its desires.
 
 ## Romans 6:13
 Do not offer any part of yourself to sin as an instrument of unrighteousness, but rather offer yourselves to God as those who have been brought from death to life, and offer every part of yourself to him as an instrument of righteousness.
@@ -43,7 +43,7 @@ Do not offer any part of yourself to sin as an instrument of unrighteousness, bu
 For sin shall not be your master, because you are not under law, but under grace.
 
 ## Romans 6:15
-What then? Shall we sin because we are not under law but under grace? Certainly not!
+What then? Should we sin because we are not under law but under grace? Absolutely not!
 
 ## Romans 6:16
 Do you not know that when you offer yourselves to someone as obedient slaves, you are slaves of the one you obey, whether of sin leading to death, or of obedience leading to righteousness?
@@ -52,7 +52,7 @@ Do you not know that when you offer yourselves to someone as obedient slaves, yo
 But thanks be to God that, though you were slaves to sin, you have become obedient from the heart to the form of teaching to which you were entrusted.
 
 ## Romans 6:18
-You have been set free from sin and have become slaves to righteousness.
+You have been liberated from sin and have become servants of righteousness.
 
 ## Romans 6:19
 I speak in human terms because of the weakness of your flesh. Just as you used to offer the parts of your body as slaves to impurity and to ever-increasing lawlessness, so now offer them as slaves to righteousness leading to sanctification.
@@ -64,7 +64,7 @@ For when you were slaves to sin, you were free from the control of righteousness
 What benefit did you reap at that time from the things you are now ashamed of? For the end of those things is death.
 
 ## Romans 6:22
-But now that you have been set free from sin and have become slaves to God, the benefit you reap leads to sanctification, and the result is eternal life.
+But now that you have been set free from sin and have become servants of God, the benefit you reap leads to sanctification, and the result is eternal life.
 
 ## Romans 6:23
 For the wages of sin is death, but the gift of God is eternal life in Christ Jesus our Lord.

@@ -93,7 +93,7 @@ After further threats, they released them, finding no way to punish them because
 
 ## Acts 4:22
 
-For the man who was miraculously healed was over forty years old.
+For the man who had been healed was over forty years old.
 
 ---
 
@@ -120,7 +120,7 @@ You spoke by the Holy Spirit through the mouth of your servant, our father David
 
 ## Acts 4:27
 
-Indeed, Herod and Pontius Pilate met together with the Gentiles and the people of Israel in this city to conspire against your holy servant Jesus, whom you anointed.
+Truly, Herod and Pontius Pilate, along with the Gentiles and the people of Israel, gathered in this city to act against your holy servant Jesus, whom you anointed.
 
 ## Acts 4:28
 
@@ -128,7 +128,7 @@ They carried out what your power and will had decided beforehand should happen.
 
 ## Acts 4:29
 
-Now, Lord, consider their threats and enable your servants to speak your word with great boldness,
+And now, Lord, take note of their threats and grant your servants the ability to speak your word with great boldness,
 
 ## Acts 4:30
 
@@ -158,7 +158,7 @@ and laid them at the apostles’ feet, and they were distributed to anyone who h
 
 ## Acts 4:36
 
-Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”),
+Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”), 
 
 ## Acts 4:37
 

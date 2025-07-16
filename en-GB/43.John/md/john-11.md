@@ -2,7 +2,7 @@
 
 ## John 11:1
 
-Now a man named Lazarus was ill. He was from Bethany, the village of Mary and her sister Martha.
+There was a man named Lazarus who was sick. He was from Bethany, the village of Mary and her sister Martha.
 
 ## John 11:2
 
@@ -32,7 +32,7 @@ and then He said to His disciples, “Let us return to Judea.”
 
 ## John 11:8
 
-“But Rabbi,” they said, “a short while ago the Jews there tried to stone You, and yet You are going back?”
+“But Teacher,” they said, “not long ago the people there tried to stone You, and yet You are going back?”
 
 ## John 11:9
 
@@ -40,13 +40,13 @@ Jesus answered, “Are there not twelve hours of daylight? Anyone who walks in t
 
 ## John 11:10
 
-It is when a person walks at night that they stumble, for they have no light.”
+It is when someone walks at night that they stumble, for they have no light.”
 
 ---
 
 ## John 11:11
 
-After He had said this, He went on to tell them, “Our friend Lazarus has fallen asleep; but I am going there to wake him up.”
+After He had said this, He continued, “Our friend Lazarus has fallen asleep; but I am going there to awaken him.”
 
 ## John 11:12
 
@@ -72,15 +72,15 @@ Then Thomas, also known as Didymus, said to the rest of the disciples, “Let us
 
 ## John 11:17
 
-On His arrival, Jesus found that Lazarus had already been in the tomb for four days.
+Upon His arrival, Jesus found that Lazarus had already been in the tomb for four days.
 
 ## John 11:18
 
-Now Bethany was less than two miles from Jerusalem,
+Bethany was less than two miles from Jerusalem,
 
 ## John 11:19
 
-and many Jews had come to Martha and Mary to comfort them in the loss of their brother.
+and many Jews had come to Martha and Mary to console them concerning their brother.
 
 ## John 11:20
 
@@ -92,7 +92,7 @@ When Martha heard that Jesus was coming, she went out to meet Him, but Mary stay
 
 ## John 11:22
 
-But I know that even now God will give You whatever You ask.”
+But I know that even now God will grant You whatever You ask.”
 
 ## John 11:23
 
@@ -100,7 +100,7 @@ Jesus said to her, “Your brother will rise again.”
 
 ## John 11:24
 
-Martha answered, “I know he will rise again in the resurrection at the last day.”
+Martha replied, “I know he will rise again in the resurrection at the last day.”
 
 ## John 11:25
 
@@ -166,7 +166,7 @@ Jesus, once more deeply moved, came to the tomb. It was a cave with a stone laid
 
 ## John 11:39
 
-“Take away the stone,” He said. “But, Lord,” said Martha, the sister of the dead man, “by this time there is a bad odour, for he has been there four days.”
+“Take away the stone,” He said. “But, Lord,” said Martha, the sister of the deceased, “by this time there is a bad odor, for he has been there four days.”
 
 ## John 11:40
 
@@ -186,7 +186,7 @@ When He had said this, Jesus called in a loud voice, “Lazarus, come out!”
 
 ## John 11:44
 
-The dead man came out, his hands and feet wrapped with strips of linen, and a cloth around his face. Jesus said to them, “Take off the grave clothes and let him go.”
+The man who had died came out, his hands and feet wrapped with strips of linen, and a cloth around his face. Jesus said to them, “Take off the grave clothes and let him go.”
 
 ---
 
@@ -214,7 +214,7 @@ Then one of them, named Caiaphas, who was high priest that year, spoke up, “Yo
 
 ## John 11:50
 
-You do not realise that it is better for you that one man die for the people than that the whole nation perish.”
+You do not realize that it is better for you that one man die for the people than that the whole nation perish.”
 
 ## John 11:51
 
@@ -232,7 +232,7 @@ So from that day on they plotted to take His life.
 
 ## John 11:54
 
-Therefore Jesus no longer moved about publicly among the people of Judea. Instead He withdrew to a region near the wilderness, to a village called Ephraim, where He stayed with His disciples.
+Therefore Jesus no longer moved about publicly among the people of Judea. Instead, He withdrew to a region near the wilderness, to a village called Ephraim, where He stayed with His disciples.
 
 ## John 11:55
 

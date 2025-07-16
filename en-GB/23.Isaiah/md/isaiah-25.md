@@ -7,7 +7,7 @@ Lord, you are my God; I will exalt you and give thanks to your name, for you hav
 You have turned the city into a heap, the fortified city into a ruin; the palace of foreigners is no longer a city, it will never be rebuilt.
 
 ## Isaiah 25:3
-Therefore, strong peoples will glorify you; cities of ruthless nations will revere you.
+As a result, strong peoples will honor you; cities of ruthless nations will hold you in awe.
 
 ## Isaiah 25:4
 For you have been a stronghold for the poor, a refuge for the needy in their distress, a shelter from the storm and a shade from the heat; for the breath of the ruthless is like a storm against a wall.

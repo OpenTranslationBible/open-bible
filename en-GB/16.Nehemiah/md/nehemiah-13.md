@@ -60,7 +60,7 @@ I appointed Shelemiah the priest, Zadok the scribe, and a Levite named Pedaiah t
 
 ## Nehemiah 13:14
 
-Remember me for this, my God, and do not blot out what I have so faithfully done for the house of my God and its services.
+Remember me for this, my God, and do not erase what I have so faithfully done for the house of my God and its services.
 
 ## Nehemiah 13:15
 
@@ -86,7 +86,7 @@ As evening shadows fell on the gates of Jerusalem before the Sabbath, I ordered 
 
 ## Nehemiah 13:20
 
-Once or twice the merchants and sellers of all kinds of goods spent the night outside Jerusalem.
+On a few occasions, the merchants and sellers of various goods stayed the night outside Jerusalem.
 
 ## Nehemiah 13:21
 
@@ -98,11 +98,11 @@ Then I commanded the Levites to purify themselves and to guard the gates in orde
 
 ## Nehemiah 13:23
 
-Moreover, in those days I saw men of Judah who had married women from Ashdod, Ammon, and Moab.
+Furthermore, in those days I saw men of Judah who had married women from Ashdod, Ammon, and Moab.
 
 ## Nehemiah 13:24
 
-Half of their children spoke the language of Ashdod or the language of one of the other peoples, and did not know how to speak the language of Judah.
+Half of their children spoke the language of Ashdod or the language of one of the other peoples, and were not fluent in the language of Judah.
 
 ## Nehemiah 13:25
 
@@ -132,4 +132,4 @@ So I purified the priests and the Levites of everything foreign, and assigned du
 
 ## Nehemiah 13:31
 
-I also made provision for contributions of wood at designated times, and for the firstfruits. Remember me with favour, my God.
+I also arranged for contributions of wood at designated times, and for the firstfruits. Remember me with kindness, my God.

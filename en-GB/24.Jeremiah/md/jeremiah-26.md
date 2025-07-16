@@ -10,7 +10,7 @@ At the start of Jehoiakim's reign, son of Josiah, king of Judah, this word came 
 Perhaps they will listen and each person will turn from their evil way. Then I will relent from the disaster I intend to bring upon them due to the evil of their deeds.
 
 ## Jeremiah 26:4
-Say to them, ‘This is what the Lord says: If you do not listen to me and follow my law, which I have set before you,
+Tell them, ‘This is what the Lord declares: If you do not listen to me and follow my law, which I have set before you,
 
 ## Jeremiah 26:5
 and if you do not heed the words of my servants the prophets, whom I have sent to you persistently, though you have not listened,

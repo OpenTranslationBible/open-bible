@@ -55,7 +55,7 @@ Therefore, Jesus also suffered outside the city gate to sanctify the people thro
 
 ## Hebrews 13:13
 
-Let us then go to Him outside the camp, bearing the disgrace He bore.
+Let us, therefore, approach Him outside the camp, sharing in the reproach He endured.
 
 ## Hebrews 13:14
 
@@ -67,7 +67,7 @@ Through Him, therefore, let us continually offer up a sacrifice of praise to God
 
 ## Hebrews 13:16
 
-And do not forget to do good and to share with others, for with such sacrifices God is pleased.
+Remember to do good and to share with others, for such sacrifices are pleasing to God.
 
 ## Hebrews 13:17
 

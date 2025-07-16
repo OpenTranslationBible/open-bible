@@ -46,10 +46,10 @@ But she carried her prostitution further. She saw men portrayed on a wall, image
 with belts around their waists and flowing turbans on their heads; all of them looked like Babylonian officers, natives of Chaldea.
 
 ## Ezekiel 23:16
-As soon as she saw them, she lusted after them and sent messengers to them in Chaldea.
+When she saw them, she desired them and sent messengers to them in Chaldea.
 
 ## Ezekiel 23:17
-Then the Babylonians came to her, to the bed of love, and in their lust they defiled her. After she had been defiled by them, she turned away from them in disgust.
+Then the Babylonians came to her, and in their desire they defiled her. After she had been defiled by them, she turned away from them in disgust.
 
 ## Ezekiel 23:18
 She exposed her obscene practices and her nakedness; therefore, I turned away from her in disgust, just as I had turned away from her sister.
@@ -67,7 +67,7 @@ So you longed for the lewdness of your youth, when in Egypt your bosom was cares
 “Therefore, Oholibah, this is what the Sovereign Lord says: I will incite your lovers against you, those you turned away from in disgust, and I will bring them against you from every side—
 
 ## Ezekiel 23:23
-the Babylonians and all the Chaldeans, the men of Pekod and Shoa and Koa, and all the Assyrians with them, handsome young men, all of them governors and commanders, chariot officers and men of high rank, all mounted on horses.
+the Babylonians and all the Chaldeans, the men of Pekod and Shoa and Koa, and all the Assyrians with them, all of them governors and commanders, chariot officers and men of high rank, all mounted on horses.
 
 ## Ezekiel 23:24
 They will come against you with weapons, chariots and wagons, and with a multitude of people; they will set themselves against you on every side with large and small shields and with helmets. I will commit judgment to them, and they will judge you according to their customs.
@@ -76,7 +76,7 @@ They will come against you with weapons, chariots and wagons, and with a multitu
 I will direct my jealous anger against you, and they will deal with you in wrath. They will cut off your noses and your ears, and those who remain will fall by the sword. They will take away your sons and daughters, and those who remain will be consumed by fire.
 
 ## Ezekiel 23:26
-They will also strip you of your clothes and take your fine jewellery.
+They will also take away your garments and seize your fine jewellery.
 
 ## Ezekiel 23:27
 So I will put an end to your lewdness and prostitution brought from Egypt. You will not look on these things with longing or remember Egypt anymore.
@@ -109,7 +109,7 @@ Therefore, this is what the Sovereign Lord says: Because you have forgotten me a
 Moreover, the Lord said to me: “Son of man, will you judge Oholah and Oholibah? Then confront them with their detestable practices,
 
 ## Ezekiel 23:37
-for they have committed adultery and blood is on their hands. They committed adultery with their idols; they even sacrificed their children, whom they bore to me, as food for them.
+for they have committed adultery and blood is on their hands. They were unfaithful with their idols; they even sacrificed their children, whom they bore to me, as food for them.
 
 ## Ezekiel 23:38
 They have also done this to me: At that same time, they defiled my sanctuary and desecrated my Sabbaths.
@@ -142,7 +142,7 @@ For this is what the Sovereign Lord says: Bring a mob against them and give them
 The mob will stone them and cut them down with their swords; they will kill their sons and daughters and burn their houses.
 
 ## Ezekiel 23:48
-So I will put an end to lewdness in the land, that all women may take warning and not imitate you.
+Thus, I will bring an end to lewdness in the land, that all women may take warning and not imitate you.
 
 ## Ezekiel 23:49
-You will suffer the penalty for your lewdness and bear the consequences of your sins of idolatry. Then you will know that I am the Sovereign Lord.”
+You will bear the penalty for your lewdness and the consequences of your idolatrous acts. Then you will know that I am the Sovereign Lord.”

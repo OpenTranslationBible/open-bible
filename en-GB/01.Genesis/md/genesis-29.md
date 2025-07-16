@@ -49,7 +49,7 @@ Then Laban said to Jacob, “Because you are my relative, should you work for me
 Laban had two daughters; the elder was named Leah, and the younger was named Rachel.
 
 ## Genesis 29:17
-Leah had tender eyes, but Rachel was shapely and beautiful.
+Leah had gentle eyes, while Rachel was lovely in form and appearance.
 
 ## Genesis 29:18
 Jacob was in love with Rachel and said, “I will serve you seven years for your younger daughter Rachel.”
@@ -64,7 +64,7 @@ Jacob served seven years for Rachel, but they seemed like only a few days to him
 Then Jacob said to Laban, “Give me my wife, for my time is fulfilled, that I may be with her.”
 
 ## Genesis 29:22
-So Laban gathered all the people of the place and held a feast.
+So Laban gathered the people of the place and prepared a feast.
 
 ## Genesis 29:23
 But when evening came, he took his daughter Leah and brought her to Jacob, and Jacob was with her.

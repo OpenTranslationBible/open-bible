@@ -42,7 +42,7 @@ But what did you go out to see? A prophet? Yes, I tell you, and more than a prop
 
 ## Matthew 11:10
 
-This is the one about whom it is written: ‘Behold, I am sending my messenger ahead of you, who will prepare your way before you.’
+This is the one spoken of in the scriptures: ‘Look, I am sending my messenger ahead of you, who will prepare your way before you.’
 
 ## Matthew 11:11
 
@@ -123,7 +123,7 @@ All things have been entrusted to me by my Father. No one knows the Son except t
 
 ## Matthew 11:28
 
-“Come to me, all you who are weary and burdened, and I will give you rest.
+“Come to me, all you who are tired and carrying heavy burdens, and I will give you rest.
 
 ## Matthew 11:29
 

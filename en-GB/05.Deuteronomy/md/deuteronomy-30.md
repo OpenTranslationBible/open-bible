@@ -22,13 +22,13 @@ Moreover, the Lord your God will circumcise your heart and the hearts of your de
 The Lord your God will inflict all these curses on your enemies who hate and persecute you.
 
 ## Deuteronomy 30:8
-You will again obey the Lord and follow all His commands I am giving you today.
+You will once more listen to the Lord and carry out all His commands I am giving you today.
 
 ## Deuteronomy 30:9
 Then the Lord your God will make you abundantly prosperous in all the work of your hands, in the fruit of your womb, the offspring of your livestock, and the crops of your land. The Lord will again rejoice over you for good, just as He rejoiced over your ancestors,
 
 ## Deuteronomy 30:10
-if you obey the Lord your God and keep His commands and decrees that are written in this Book of the Law, and turn to the Lord your God with all your heart and with all your soul.
+if you heed the Lord your God and uphold His commands and decrees that are written in this Book of the Law, and turn to the Lord your God with all your heart and with all your soul.
 
 ## Deuteronomy 30:11
 For this commandment I am giving you today is not too difficult for you or beyond your reach.

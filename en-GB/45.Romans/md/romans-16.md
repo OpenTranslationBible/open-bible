@@ -2,7 +2,7 @@
 
 ## Romans 16:1
 
-I commend to you our sister Phoebe, a servant of the church at Cenchreae.
+I introduce to you our sister Phoebe, a servant of the church at Cenchreae.
 
 ## Romans 16:2
 
@@ -10,7 +10,7 @@ I ask you to receive her in the Lord in a manner worthy of the saints and to ass
 
 ## Romans 16:3
 
-Greet Priscilla and Aquila, my fellow workers in Christ Jesus.
+Extend greetings to Priscilla and Aquila, my fellow workers in Christ Jesus.
 
 ## Romans 16:4
 
@@ -34,7 +34,7 @@ Greet Ampliatus, my beloved in the Lord.
 
 ## Romans 16:9
 
-Greet Urbanus, our fellow worker in Christ, and my dear friend Stachys.
+Extend greetings to Urbanus, our fellow worker in Christ, and my dear friend Stachys.
 
 ## Romans 16:10
 
@@ -54,7 +54,7 @@ Greet Rufus, chosen in the Lord, and his mother, who has been a mother to me as 
 
 ## Romans 16:14
 
-Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters with them.
+Extend greetings to Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers and sisters with them.
 
 ## Romans 16:15
 
@@ -62,7 +62,7 @@ Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints 
 
 ## Romans 16:16
 
-Greet one another with a holy kiss. All the churches of Christ send their greetings.
+Greet one another with a sacred kiss. All the churches of Christ send their greetings.
 
 ## Romans 16:17
 

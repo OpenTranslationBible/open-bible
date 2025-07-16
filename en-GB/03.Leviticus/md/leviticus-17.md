@@ -22,7 +22,7 @@ The priest shall sprinkle the blood on the altar of the Lord at the entrance to 
 They must no longer offer their sacrifices to the goat demons, with whom they have been unfaithful. This is to be a lasting ordinance for them and for future generations.’
 
 ## Leviticus 17:8
-“Say to them: ‘Any Israelite or any foreigner residing among them who offers a burnt offering or sacrifice
+“Tell them: ‘Any Israelite or any foreigner living among them who presents a burnt offering or sacrifice
 
 ## Leviticus 17:9
 and does not bring it to the entrance of the tent of meeting to offer it to the Lord must be cut off from their people.

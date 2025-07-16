@@ -26,7 +26,7 @@ But so that you may know that the Son of Man has authority on earth to forgive s
 
 ## Matthew 9:7
 
-And the man got up and went home.
+The man arose and returned to his house.
 
 ## Matthew 9:8
 
@@ -48,7 +48,7 @@ When the Pharisees saw this, they asked his disciples, “Why does your teacher 
 
 ## Matthew 9:12
 
-On hearing this, Jesus said, “It is not the healthy who need a doctor, but the sick.
+Upon hearing this, Jesus remarked, “It is not those who are well who need a doctor, but those who are unwell.
 
 ## Matthew 9:13
 
@@ -80,7 +80,7 @@ While he was speaking, a synagogue leader approached and knelt before him, sayin
 
 ## Matthew 9:19
 
-Jesus rose and followed him, and so did his disciples.
+Jesus got up and went with him, along with his disciples.
 
 ## Matthew 9:20
 
@@ -104,7 +104,7 @@ he said, “Go away; the girl is not dead but asleep.” And they laughed at him
 
 ## Matthew 9:25
 
-After the crowd had been put outside, he went in and took the girl by the hand, and she got up.
+Once the crowd had been sent outside, he went in, took the girl by the hand, and she arose.
 
 ## Matthew 9:26
 
@@ -130,7 +130,7 @@ and their sight was restored. Jesus sternly warned them, “See that no one know
 
 ## Matthew 9:31
 
-But they went out and spread the news about him throughout that region.
+However, they went out and spread the news about him throughout that region.
 
 ---
 
@@ -144,7 +144,7 @@ When the demon was driven out, the mute man spoke. The crowds were amazed and sa
 
 ## Matthew 9:34
 
-But the Pharisees said, “He drives out demons by the prince of demons.”
+But the Pharisees remarked, “He drives out demons by the ruler of demons.”
 
 ---
 
@@ -154,7 +154,7 @@ Jesus travelled through all the towns and villages, teaching in their synagogues
 
 ## Matthew 9:36
 
-When he saw the crowds, he had compassion on them, because they were harassed and helpless, like sheep without a shepherd.
+When he saw the crowds, he was moved with compassion for them, because they were troubled and helpless, like sheep without a shepherd.
 
 ## Matthew 9:37
 

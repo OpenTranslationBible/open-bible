@@ -37,7 +37,7 @@ On that day the mourning in Jerusalem will be as great as the mourning of Hadad 
 The land will mourn, every family by itself, with their wives by themselves: the family of the house of David by itself and their wives by themselves; the family of the house of Nathan by itself and their wives by themselves;
 
 ## Zechariah 12:13
-the family of the house of Levi by itself and their wives by themselves; the family of Shimei by itself and their wives by themselves;
+the descendants of Levi will mourn separately, each family and their wives apart; the descendants of Shimei will also mourn separately, each family and their wives apart;
 
 ## Zechariah 12:14
 and all the remaining families, every family by itself, and their wives by themselves.

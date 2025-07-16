@@ -28,7 +28,7 @@ Do not eat the bread of a begrudging host, nor desire his delicacies;
 
 ## Proverbs 23:7
 
-for as he thinks in his heart, so is he. He says to you, “Eat and drink,” but his heart is not with you.
+for just as he thinks within himself, so he is. He says to you, “Eat and drink,” but his heart is not truly with you.
 
 ## Proverbs 23:8
 
@@ -44,11 +44,11 @@ Do not move an ancient boundary stone or encroach upon the fields of the fatherl
 
 ## Proverbs 23:11
 
-for their Redeemer is mighty; he will plead their cause against you.
+for their Defender is strong; he will take up their cause against you.
 
 ## Proverbs 23:12
 
-Apply your heart to instruction and your ears to words of knowledge.
+Commit yourself to instruction and listen to words of knowledge.
 
 ## Proverbs 23:13
 
@@ -64,7 +64,7 @@ My son, if your heart is wise, then my heart will be glad indeed;
 
 ## Proverbs 23:16
 
-my inmost being will rejoice when your lips speak what is right.
+my deepest being will rejoice when your lips speak what is right.
 
 ## Proverbs 23:17
 
@@ -72,7 +72,7 @@ Do not let your heart envy sinners, but always be zealous for the fear of the Lo
 
 ## Proverbs 23:18
 
-There is surely a future hope for you, and your hope will not be cut off.
+Surely there is a future hope for you, and your hope will not be cut off.
 
 ## Proverbs 23:19
 
@@ -88,7 +88,7 @@ for drunkards and gluttons will come to poverty, and drowsiness will clothe them
 
 ## Proverbs 23:22
 
-Listen to your father, who gave you life, and do not despise your mother when she is old.
+Pay attention to your father, who gave you life, and do not despise your mother when she is old.
 
 ## Proverbs 23:23
 
@@ -124,15 +124,15 @@ Those who linger long over wine, who go to sample mixed wine.
 
 ## Proverbs 23:31
 
-Do not gaze at wine when it is red, when it sparkles in the cup, when it goes down smoothly;
+Do not be captivated by wine when it is red, when it sparkles in the cup, when it goes down smoothly;
 
 ## Proverbs 23:32
 
-in the end it bites like a serpent and stings like a viper.
+for in the end it bites like a serpent and stings like a viper.
 
 ## Proverbs 23:33
 
-Your eyes will see strange things, and your mind will utter perverse things.
+Your eyes will see peculiar things, and your mind will speak distorted things.
 
 ## Proverbs 23:34
 

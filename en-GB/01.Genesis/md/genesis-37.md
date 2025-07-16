@@ -106,4 +106,4 @@ Jacob tore his clothes, put on sackcloth, and mourned for his son for many days.
 All his sons and daughters came to comfort him, but he refused to be comforted. “No,” he said, “I will go down to the grave mourning for my son.” So his father wept for him.
 
 ## Genesis 37:36
-Meanwhile, the Midianites sold Joseph in Egypt to Potiphar, one of Pharaoh’s officials, the captain of the guard.
+In Egypt, the Midianites sold Joseph to Potiphar, a high-ranking official of Pharaoh, who was the captain of the guard.

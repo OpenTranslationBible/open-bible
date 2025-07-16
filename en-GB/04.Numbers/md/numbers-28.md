@@ -10,7 +10,7 @@ The Lord spoke to Moses, saying,
 Say to them: ‘This is the offering by fire you are to present to the Lord: two male lambs a year old without defect, as a continual burnt offering each day.
 
 ## Numbers 28:4
-Offer one lamb in the morning and the other at twilight;
+Present one lamb in the morning and the other at twilight;
 
 ## Numbers 28:5
 along with a grain offering of a tenth of an ephah of the finest flour mixed with a quarter of a hin of pure oil.
@@ -34,10 +34,10 @@ This is the burnt offering for every Sabbath, in addition to the regular burnt o
 “‘At the beginning of each month, present to the Lord a burnt offering of two young bulls, one ram, and seven male lambs a year old, all without defect.
 
 ## Numbers 28:12
-With each bull there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, a grain offering of two-tenths of an ephah of fine flour mixed with oil;
+For each bull, there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; for the ram, a grain offering of two-tenths of an ephah of fine flour mixed with oil;
 
 ## Numbers 28:13
-and with each lamb, a grain offering of a tenth of an ephah of fine flour mixed with oil. This is for a burnt offering, a pleasing aroma, an offering by fire to the Lord.
+and for each lamb, a grain offering of a tenth of an ephah of fine flour mixed with oil. This is for a burnt offering, a pleasing aroma, an offering by fire to the Lord.
 
 ## Numbers 28:14
 With each bull there is to be a drink offering of half a hin of wine; with the ram, a third of a hin; and with each lamb, a quarter of a hin. This is the monthly burnt offering to be made at each new moon throughout the year.
@@ -58,16 +58,16 @@ On the first day hold a sacred assembly and do no labourious work.
 Present to the Lord an offering by fire, a burnt offering of two young bulls, one ram, and seven male lambs a year old, all without defect.
 
 ## Numbers 28:20
-With each bull offer a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths;
+For each bull, prepare a grain offering of three-tenths of an ephah of the finest flour mixed with oil; for the ram, two-tenths;
 
 ## Numbers 28:21
-and with each of the seven lambs, one-tenth.
+and for each of the seven lambs, one-tenth.
 
 ## Numbers 28:22
 Include one male goat as a sin offering to make atonement for you.
 
 ## Numbers 28:23
-Offer these in addition to the regular morning burnt offering.
+Present these offerings in addition to the regular morning burnt offering.
 
 ## Numbers 28:24
 In this manner present the food offering every day for seven days as a pleasing aroma to the Lord; it is to be offered in addition to the regular burnt offering and its drink offering.
@@ -82,10 +82,10 @@ On the seventh day hold a sacred assembly and do no labourious work.
 Present a burnt offering of two young bulls, one ram, and seven male lambs a year old as a pleasing aroma to the Lord.
 
 ## Numbers 28:28
-With each bull there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; with the ram, two-tenths;
+For each bull, there is to be a grain offering of three-tenths of an ephah of the finest flour mixed with oil; for the ram, two-tenths;
 
 ## Numbers 28:29
-and with each of the seven lambs, one-tenth.
+and for each of the seven lambs, one-tenth.
 
 ## Numbers 28:30
 Include one male goat to make atonement for you.

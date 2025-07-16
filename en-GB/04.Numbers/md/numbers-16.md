@@ -46,19 +46,19 @@ Moreover, you have not brought us into a land flowing with milk and honey, nor g
 Then Moses became very angry and said to the Lord, “Do not regard their offering. I have not taken one donkey from them, nor have I wronged any of them.”
 
 ## Numbers 16:16
-Moses said to Korah, “You and all your followers are to appear before the Lord tomorrow—you and they and Aaron.
+Moses instructed Korah, “You and all your followers are to stand before the Lord tomorrow—you, they, and Aaron.
 
 ## Numbers 16:17
-Each man is to take his censer and put incense in it—250 censers in all—and present it before the Lord. You and Aaron are to present your censers also.”
+Each man is to take his censer and put incense in it—250 censers in all—and bring it before the Lord. You and Aaron are to bring your censers as well.”
 
 ## Numbers 16:18
 So each of them took his censer, put fire in it, and placed incense on it, and stood with Moses and Aaron at the entrance to the tent of meeting.
 
 ## Numbers 16:19
-When Korah had gathered all his followers in opposition to them at the entrance to the tent of meeting, the glory of the Lord appeared to the entire assembly.
+When Korah had gathered all his followers in opposition at the entrance to the tent of meeting, the glory of the Lord appeared to the entire assembly.
 
 ## Numbers 16:20
-Then the Lord spoke to Moses and Aaron, saying,
+Then the Lord addressed Moses and Aaron, saying,
 
 ## Numbers 16:21
 “Separate yourselves from this assembly so I may consume them instantly.”
@@ -91,10 +91,10 @@ If these men die a natural death, or if they suffer the fate of all mankind, the
 But if the Lord creates something entirely new, and the earth opens its mouth and swallows them with all that belongs to them, and they go down alive into Sheol, then you will know that these men have shown contempt for the Lord.”
 
 ## Numbers 16:31
-As soon as he finished speaking all these words, the ground beneath them split open,
+As soon as he finished speaking, the ground beneath them split open,
 
 ## Numbers 16:32
-and the earth opened its mouth and swallowed them and their households, and all those associated with Korah, together with their possessions.
+and the earth opened its mouth and engulfed them and their households, and all those associated with Korah, along with their possessions.
 
 ## Numbers 16:33
 They went down alive into Sheol with all that belonged to them; the earth closed over them, and they perished from the midst of the assembly.
@@ -103,7 +103,7 @@ They went down alive into Sheol with all that belonged to them; the earth closed
 At their cries, all the Israelites around them fled, shouting, “The earth might swallow us too!”
 
 ## Numbers 16:35
-And fire came out from the Lord and consumed the 250 men who were offering the incense.
+And fire came forth from the Lord and consumed the 250 men who were offering the incense.
 
 ## Numbers 16:36
 Then the Lord spoke to Moses,
@@ -145,7 +145,7 @@ So Aaron did as Moses said, and ran into the midst of the assembly. The plague h
 He stood between the living and the dead, and the plague was halted.
 
 ## Numbers 16:49
-But 14,700 people died from the plague, in addition to those who had died because of Korah.
+But 14,700 people perished from the plague, in addition to those who had died because of Korah.
 
 ## Numbers 16:50
 Then Aaron returned to Moses at the entrance to the tent of meeting, for the plague had been stopped.

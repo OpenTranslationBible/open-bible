@@ -30,7 +30,7 @@ As they drank wine at the banquet, the king asked Esther, “What is your petiti
 
 ## Esther 5:7
 
-Esther replied, “My petition and my request is this:
+Esther responded, “Here is my petition and my request:
 
 ## Esther 5:8
 

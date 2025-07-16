@@ -30,7 +30,7 @@ Without any dispute, the lesser is blessed by the greater.
 
 ## Hebrews 7:8
 
-In this case, mortal men receive tithes, but in that case, one receives them, of whom it is witnessed that he lives on.
+In this instance, mortal men receive tithes, but in that instance, one receives them, of whom it is testified that he continues to live.
 
 ## Hebrews 7:9
 
@@ -73,7 +73,7 @@ For it is attested of Him:
 
 ## Hebrews 7:18
 
-The former regulation is set aside because it was weak and useless.
+The previous regulation is set aside because it was weak and ineffective.
 
 ## Hebrews 7:19
 
@@ -81,7 +81,7 @@ The former regulation is set aside because it was weak and useless.
 
 ## Hebrews 7:20
 
-And it was not without an oath!
+And it was indeed accompanied by an oath!
 
 ## Hebrews 7:21
 
@@ -105,7 +105,7 @@ but because Jesus lives forever, He holds His priesthood permanently.
 
 ## Hebrews 7:25
 
-Therefore, He is able to save completely those who come to God through Him, because He always lives to intercede for them.
+Therefore, He is able to save fully those who come to God through Him, because He always lives to intercede for them.
 
 ## Hebrews 7:26
 
@@ -113,7 +113,7 @@ For it was fitting for us to have such a high priest, holy, innocent, undefiled,
 
 ## Hebrews 7:27
 
-Unlike the other high priests, He does not need to offer sacrifices day after day, first for His own sins, and then for the sins of the people. He sacrificed for their sins once for all when He offered Himself.
+Unlike the other high priests, He does not need to offer sacrifices day after day, first for His own sins, and then for the sins of the people. He offered the sacrifice for their sins once for all when He gave Himself.
 
 ## Hebrews 7:28
 

@@ -19,7 +19,7 @@ Then Isaiah said to Hezekiah, “Hear the word of the Lord of Hosts:
 ‘Behold, the days are coming when everything in your palace, and all that your forefathers have stored up until this day, will be carried off to Babylon. Nothing will be left,’ says the Lord.
 
 ## Isaiah 39:7
-‘And some of your descendants, your own flesh and blood who will be born to you, will be taken away, and they will become eunuchs in the palace of the king of Babylon.’”
+‘And some of your descendants, your own flesh and blood who will be born to you, will be taken away, and they will serve in the palace of the king of Babylon.’”
 
 ## Isaiah 39:8
 Then Hezekiah said to Isaiah, “The word of the Lord you have spoken is good.” For he thought, “There will be peace and security in my days.”

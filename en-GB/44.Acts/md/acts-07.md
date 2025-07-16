@@ -90,7 +90,7 @@ When he was set outside, Pharaoh’s daughter took him and raised him as her own
 
 ## Acts 7:22
 
-Moses was educated in all the wisdom of the Egyptians and was powerful in his words and deeds.
+Moses was taught in all the wisdom of the Egyptians and was influential in his words and actions.
 
 ## Acts 7:23
 
@@ -114,7 +114,7 @@ But the one who was injuring his neighbour pushed him aside, saying, ‘Who made
 
 ## Acts 7:28
 
-Do you intend to kill me as you killed the Egyptian yesterday?’
+Are you planning to kill me as you did the Egyptian yesterday?’
 
 ## Acts 7:29
 
@@ -132,11 +132,11 @@ When Moses saw it, he marvelled at the sight. As he approached to observe more c
 
 ## Acts 7:32
 
-‘I am the God of your fathers, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
+‘I am the God of your ancestors, the God of Abraham, Isaac, and Jacob.’ Moses trembled with fear and did not dare to look.
 
 ## Acts 7:33
 
-Then the Lord said to him, ‘Take off your sandals, for the place where you are standing is holy ground.
+Then the Lord instructed him, ‘Remove your sandals, for the place where you are standing is holy ground.
 
 ## Acts 7:34
 
@@ -158,11 +158,11 @@ He led them out, performing wonders and signs in Egypt, at the Red Sea, and for 
 
 ## Acts 7:38
 
-He was in the assembly in the wilderness with the angel who spoke to him on Mount Sinai, and with our ancestors; and he received living words to pass on to us.
+He was with the congregation in the wilderness, with the angel who spoke to him on Mount Sinai, and with our ancestors; and he received living words to pass on to us.
 
 ## Acts 7:39
 
-“But our ancestors refused to obey him. Instead, they rejected him and in their hearts turned back to Egypt.
+“But our ancestors refused to obey him. Instead, they rejected him and in their hearts longed to return to Egypt.
 
 ## Acts 7:40
 
@@ -206,7 +206,7 @@ But it was Solomon who built a house for Him.
 
 ## Acts 7:48
 
-However, the Most High does not dwell in houses made by human hands. As the prophet says:
+Yet, the Most High does not dwell in houses made by human hands. As the prophet says:
 
 ## Acts 7:49
 
@@ -241,7 +241,7 @@ When the members of the Sanhedrin heard this, they were enraged and gnashed thei
 
 ## Acts 7:55
 
-But Stephen, full of the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.
+But Stephen, filled with the Holy Spirit, looked up to heaven and saw the glory of God, and Jesus standing at the right hand of God.
 
 ## Acts 7:56
 

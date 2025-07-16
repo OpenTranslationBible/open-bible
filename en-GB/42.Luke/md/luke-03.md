@@ -49,7 +49,7 @@ The axe is already at the root of the trees, and every tree that does not produc
 
 ## Luke 3:10
 
-“What should we do then?” the crowd asked.
+The crowd asked, “What should we do?”
 
 ## Luke 3:11
 
@@ -57,7 +57,7 @@ John answered, “Anyone who has two tunics should share with the one who has no
 
 ## Luke 3:12
 
-Even tax collectors came to be baptised. “Teacher,” they asked, “what should we do?”
+Tax collectors also came to be baptised. “Teacher,” they asked, “what should we do?”
 
 ## Luke 3:13
 
@@ -79,7 +79,7 @@ John answered them all, “I baptise you with water. But one who is mightier tha
 
 ## Luke 3:17
 
-His winnowing fork is in His hand to thoroughly clear His threshing floor and to gather the wheat into His barn, but He will burn up the chaff with unquenchable fire.”
+With His winnowing fork in hand, He will thoroughly clear His threshing floor, gathering the wheat into His barn, while the chaff will be burned with unquenchable fire.”
 
 ## Luke 3:18
 
@@ -93,13 +93,13 @@ But when Herod the tetrarch was rebuked by John because of Herodias, his brother
 
 ## Luke 3:20
 
-Herod added this to them all: he locked John up in prison.
+Herod added this to his wrongdoings: he locked John up in prison.
 
 ---
 
 ## Luke 3:21
 
-When all the people were being baptised, Jesus was baptised too. And as He was praying, heaven was opened,
+When all the people were being baptised, Jesus was baptised as well. And as He was praying, heaven was opened,
 
 ## Luke 3:22
 

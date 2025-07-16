@@ -67,7 +67,7 @@
 “Exclusive of the property of the Levites and the property of the city, which are in the centre of that which belongs to the prince, everything between the border of Judah and the border of Benjamin shall belong to the prince.
 
 ## Ezekiel 48:23
-“As for the rest of the tribes: from the east side to the west side, Benjamin shall have one portion.
+“For the remaining tribes, from the east side to the west side, Benjamin shall have one portion.
 
 ## Ezekiel 48:24
 “Beside the territory of Benjamin, from east to west, Simeon shall have one portion.

@@ -34,7 +34,7 @@ When Simon Peter saw this, he fell at Jesus’ knees and said, “Depart from me
 
 ## Luke 5:9
 
-For he and all his companions were astonished at the catch of fish they had taken,
+For he and all his companions were amazed at the catch of fish they had taken,
 
 ## Luke 5:10
 
@@ -42,7 +42,7 @@ and so were James and John, the sons of Zebedee, who were partners with Simon. T
 
 ## Luke 5:11
 
-So they brought their boats to land, left everything, and followed him.
+So they brought their boats to land, left everything behind, and followed him.
 
 ---
 
@@ -82,7 +82,7 @@ Unable to find a way through the crowd, they went up on the roof and lowered him
 
 ## Luke 5:20
 
-Seeing their faith, Jesus said, “Friend, your sins are forgiven.”
+Observing their faith, Jesus said, “Friend, your sins are forgiven.”
 
 ## Luke 5:21
 
@@ -116,7 +116,7 @@ After this, Jesus went out and saw a tax collector named Levi sitting at his tax
 
 ## Luke 5:28
 
-and Levi got up, left everything, and followed him.
+and Levi arose, left everything behind, and followed him.
 
 ## Luke 5:29
 
@@ -128,7 +128,7 @@ The Pharisees and their scribes grumbled to his disciples, “Why do you eat and
 
 ## Luke 5:31
 
-Jesus answered them, “It is not the healthy who need a doctor, but the sick.
+Jesus answered them, “It is not those who are well who need a doctor, but those who are sick.
 
 ## Luke 5:32
 
@@ -146,7 +146,7 @@ Jesus replied, “Can you make the friends of the bridegroom fast while he is wi
 
 ## Luke 5:35
 
-But the time will come when the bridegroom will be taken from them; in those days they will fast.”
+But the time will come when the bridegroom is taken from them; in those days they will fast.”
 
 ## Luke 5:36
 
@@ -158,7 +158,7 @@ And no one pours new wine into old wineskins. Otherwise, the new wine will burst
 
 ## Luke 5:38
 
-No, new wine must be poured into new wineskins.
+Instead, new wine must be poured into fresh wineskins.
 
 ## Luke 5:39
 

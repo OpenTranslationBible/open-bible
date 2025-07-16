@@ -14,7 +14,7 @@ Jesus replied, “Neither this man nor his parents sinned; but this happened so 
 
 ## John 9:4
 
-We must do the works of Him who sent Me while it is day. Night is coming, when no one can work.
+We must carry out the tasks of Him who sent Me while it is still day. Night is approaching, when no one can work.
 
 ## John 9:5
 
@@ -40,7 +40,7 @@ Some said, “This is he.” Others said, “No, but he looks like him.” But h
 
 ## John 9:10
 
-“How then were your eyes opened?” they asked.
+“How were your eyes opened?” they asked.
 
 ## John 9:11
 
@@ -54,7 +54,7 @@ They asked him, “Where is this man?” He said, “I do not know.”
 
 ## John 9:13
 
-They brought the man who had been blind to the Pharisees.
+They took the man who had been blind to the Pharisees.
 
 ## John 9:14
 
@@ -80,7 +80,7 @@ The Jewish leaders did not believe that he had been blind and had received his s
 
 ## John 9:19
 
-They asked them, “Is this your son, who you say was born blind? How is it that now he can see?”
+They asked them, “Is this your son, who you claim was born blind? How is it that now he can see?”
 
 ## John 9:20
 
@@ -114,7 +114,7 @@ Then they asked him, “What did He do to you? How did He open your eyes?”
 
 ## John 9:27
 
-He answered, “I have told you already and you did not listen. Why do you want to hear it again? Do you want to become His disciples too?”
+He answered, “I have told you already and you did not listen. Why do you wish to hear it again? Do you want to become His disciples too?”
 
 ## John 9:28
 
@@ -130,11 +130,11 @@ The man answered, “Now that is remarkable! You do not know where He comes from
 
 ## John 9:31
 
-We know that God does not listen to sinners. He listens to the godly person who does His will.
+We understand that God does not listen to sinners. He listens to the devout person who does His will.
 
 ## John 9:32
 
-Nobody has ever heard of opening the eyes of a man born blind.
+It has never been heard that anyone opened the eyes of a man born blind.
 
 ## John 9:33
 
@@ -142,13 +142,13 @@ If this man were not from God, He could do nothing.”
 
 ## John 9:34
 
-To this they replied, “You were steeped in sin at birth; how dare you lecture us!” And they threw him out.
+To this they replied, “You were born entirely in sin; how dare you lecture us!” And they cast him out.
 
 ---
 
 ## John 9:35
 
-Jesus heard that they had thrown him out, and when He found him, He said, “Do you believe in the Son of Man?”
+Jesus heard that they had cast him out, and when He found him, He said, “Do you believe in the Son of Man?”
 
 ## John 9:36
 
@@ -156,7 +156,7 @@ Jesus heard that they had thrown him out, and when He found him, He said, “Do 
 
 ## John 9:37
 
-Jesus said, “You have now seen Him; in fact, He is the one speaking with you.”
+Jesus said, “You have now seen Him; indeed, He is the one speaking with you.”
 
 ## John 9:38
 
@@ -170,7 +170,7 @@ Jesus said, “For judgment I have come into this world, so that the blind will 
 
 ## John 9:40
 
-Some Pharisees who were with Him heard Him say this and asked, “What? Are we blind too?”
+Some Pharisees who were with Him heard Him say this and asked, “What? Are we also blind?”
 
 ## John 9:41
 

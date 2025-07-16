@@ -25,16 +25,16 @@ but it was your own eyes that saw all the great works the Lord has done.
 Therefore, observe all the commandments I am giving you today, so that you may have the strength to go in and take possession of the land you are crossing the Jordan to possess,
 
 ## Deuteronomy 11:9
-and so that you may live long in the land the Lord swore to your ancestors to give them and their descendants, a land flowing with milk and honey.
+and so that you may have a long life in the land the Lord promised to your ancestors and their descendants, a land abundant with milk and honey.
 
 ## Deuteronomy 11:10
 For the land you are entering to take possession of is not like the land of Egypt, from which you came, where you sowed your seed and watered it by foot as in a vegetable garden.
 
 ## Deuteronomy 11:11
-But the land you are crossing the Jordan to take possession of is a land of hills and valleys that drinks rain from heaven.
+But the land you are crossing the Jordan to take possession of is a land of hills and valleys that receives rain from heaven.
 
 ## Deuteronomy 11:12
-It is a land the Lord your God cares for; the eyes of the Lord your God are continually on it from the beginning of the year to its end.
+It is a land the Lord your God watches over; His eyes are continually upon it from the start of the year to its end.
 
 ## Deuteronomy 11:13
 And it shall come to pass, if you faithfully obey the commandments I am giving you today, to love the Lord your God and to serve Him with all your heart and all your soul,
@@ -58,16 +58,16 @@ Therefore, take these words of mine to heart and soul; tie them as symbols on yo
 Teach them to your children, speaking of them when you sit at home and when you walk along the road, when you lie down and when you get up.
 
 ## Deuteronomy 11:20
-Write them on the doorposts of your houses and on your gates,
+Inscribe them on the doorframes of your houses and on your gates,
 
 ## Deuteronomy 11:21
-so that your days and the days of your children may be many in the land the Lord swore to give your ancestors, as many as the days that the heavens are above the earth.
+so that your days and the days of your children may be numerous in the land the Lord promised to give your ancestors, as numerous as the days that the heavens are above the earth.
 
 ## Deuteronomy 11:22
 If you carefully observe all this commandment I am giving you to follow—to love the Lord your God, to walk in all His ways and to hold fast to Him—
 
 ## Deuteronomy 11:23
-then the Lord will drive out all these nations before you, and you will dispossess nations greater and mightier than you.
+then the Lord will drive out all these nations before you, and you will take possession of nations greater and mightier than you.
 
 ## Deuteronomy 11:24
 Every place where you set your foot will be yours: your territory will extend from the wilderness to Lebanon, and from the river Euphrates to the western sea.

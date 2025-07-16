@@ -19,7 +19,7 @@ Whether they listen or not—for they are a rebellious house—they will know th
 As for you, son of man, do not be afraid of them or their words. Do not fear, even though thistles and thorns surround you and you dwell among scorpions. Do not be dismayed by their words or their presence, for they are a rebellious house.
 
 ## Ezekiel 2:7
-You shall speak My words to them, whether they listen or not, for they are rebellious.
+You are to deliver My message to them, regardless of whether they choose to listen, for they are rebellious.
 
 ## Ezekiel 2:8
 But you, son of man, hear what I say to you; do not be rebellious like that rebellious house. Open your mouth and eat what I provide for you.”

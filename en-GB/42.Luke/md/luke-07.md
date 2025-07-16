@@ -38,7 +38,7 @@ When Jesus heard this, He was amazed at him, and turning to the crowd following 
 
 ## Luke 7:10
 
-When those who had been sent returned to the house, they found the servant in good health.
+When the messengers returned to the house, they found the servant restored to health.
 
 ---
 
@@ -60,7 +60,7 @@ Then He went up and touched the bier, and the bearers stood still. He said, “Y
 
 ## Luke 7:15
 
-The dead man sat up and began to speak, and Jesus gave him back to his mother.
+The man who had died sat up and began to speak, and Jesus returned him to his mother.
 
 ## Luke 7:16
 
@@ -68,7 +68,7 @@ They were all filled with awe and glorified God. “A great prophet has appeared
 
 ## Luke 7:17
 
-This news about Jesus spread throughout Judea and the surrounding region.
+This account of Jesus spread throughout Judea and the surrounding region.
 
 ---
 
@@ -108,7 +108,7 @@ If not, what did you go out to see? A man dressed in fine clothes? No, those who
 
 ## Luke 7:26
 
-But what did you go out to see? A prophet? Yes, I tell you, and more than a prophet.
+But what did you go out to see? A prophet? Yes, I tell you, and even more than a prophet.
 
 ## Luke 7:27
 
@@ -141,12 +141,12 @@ They are like children sitting in the marketplace and calling to one another:
 
 > ‘We played the flute for you,
 > and you did not dance;
-> we sang a dirge, a
-> nd you did not weep.’
+> we sang a dirge,
+> and you did not weep.’
 
 ## Luke 7:33
 
-For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He has a demon.’
+For John the Baptist came neither eating bread nor drinking wine, and you say, ‘He is possessed.’
 
 ## Luke 7:34
 
@@ -172,7 +172,7 @@ Standing behind Him at His feet weeping, she began to wet His feet with her tear
 
 ## Luke 7:39
 
-When the Pharisee who had invited Him saw this, he said to himself, “If this man were a prophet, He would know who is touching Him and what kind of woman she is—that she is a sinner.”
+When the Pharisee who had invited Him saw this, he thought to himself, “If this man were a prophet, He would know who is touching Him and what kind of woman she is—that she is a sinner.”
 
 ## Luke 7:40
 
@@ -192,7 +192,7 @@ Simon answered, “I suppose the one who had the larger debt forgiven.” “You
 
 ## Luke 7:44
 
-Then turning towards the woman, He said to Simon, “Do you see this woman? I entered your house; you gave Me no water for My feet, but she has wet My feet with her tears and wiped them with her hair.
+Then turning towards the woman, He said to Simon, “Do you see this woman? I entered your house; you provided no water for My feet, but she has wet My feet with her tears and wiped them with her hair.
 
 ## Luke 7:45
 
@@ -212,7 +212,7 @@ Then Jesus said to her, “Your sins are forgiven.”
 
 ## Luke 7:49
 
-The other guests began to say among themselves, “Who is this who even forgives sins?”
+The other guests began to wonder among themselves, “Who is this who even forgives sins?”
 
 ## Luke 7:50
 

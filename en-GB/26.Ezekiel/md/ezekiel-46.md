@@ -64,10 +64,10 @@ He said to me, “This is the place where the priests shall cook the guilt offer
 Then he brought me to the outer court and led me around to its four corners, and I saw in each corner another court.
 
 ## Ezekiel 46:22
-In the four corners of the outer court were enclosed courts, forty cubits long and thirty cubits wide; each of the courts in the four corners was the same size.
+In each of the four corners of the outer court were enclosed courts, each measuring forty cubits long and thirty cubits wide; all the courts in the four corners were of equal size.
 
 ## Ezekiel 46:23
-Around the inside of each of the four courts was a ledge of stone, with places for fire built all around under the ledge.
+Within each of the four courts was a stone ledge, with places for fire constructed all around beneath the ledge.
 
 ## Ezekiel 46:24
 He said to me, “These are the kitchens where those who minister at the temple shall cook the sacrifices of the people.”

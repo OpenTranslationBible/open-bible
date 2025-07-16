@@ -120,7 +120,7 @@ A perverse person stirs up conflict, and a slanderer separates close friends.
 
 ## Proverbs 16:29
 
-A violent person entices their neighbour and leads them down a path that is not good.
+A violent person entices their neighbour and leads them onto a harmful path.
 
 ## Proverbs 16:30
 

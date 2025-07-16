@@ -2,7 +2,7 @@
 
 ## Acts 25:1
 
-Three days after arriving in the province, Festus went up to Jerusalem from Caesarea.
+A few days after arriving in the province, Festus traveled to Jerusalem from Caesarea.
 
 ## Acts 25:2
 
@@ -78,7 +78,7 @@ When his accusers stood up, they did not charge him with any of the crimes I had
 
 ## Acts 25:19
 
-Instead, they had some points of dispute with him about their own religion and about a dead man named Jesus, whom Paul claimed was alive.
+Rather, they had some points of dispute with him about their own beliefs and about Jesus, who had died and whom Paul asserted was alive.
 
 ## Acts 25:20
 

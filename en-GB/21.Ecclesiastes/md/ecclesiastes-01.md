@@ -10,7 +10,7 @@ The words of the Teacher, the son of David, king in Jerusalem.
 What do people gain from all their work at which they toil under the sun?
 
 ## Ecclesiastes 1:4
-Generations come and generations go, but the earth remains forever.
+Generations come and go, yet the earth remains unchanged through time.
 
 ## Ecclesiastes 1:5
 The sun rises and the sun sets, and hurries back to its place where it rises again.
@@ -34,7 +34,7 @@ Is there anything of which one can say, “Look! This is something new”? It ha
 There is no remembrance of former things, nor will there be any remembrance of later things by those who come after.
 
 ## Ecclesiastes 1:12
-I, the Teacher, have been king over Israel in Jerusalem.
+I, the Teacher, have served as king over Israel in Jerusalem.
 
 ## Ecclesiastes 1:13
 I applied my mind to seek and explore by wisdom all that is done under heaven. It is a burdensome task God has given to the sons of men.

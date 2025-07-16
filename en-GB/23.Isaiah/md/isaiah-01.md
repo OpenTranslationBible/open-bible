@@ -46,7 +46,7 @@ Your new moon festivals and your appointed feasts My soul hates; they have becom
 When you spread out your hands in prayer, I will hide My eyes from you; even though you make many prayers, I will not listen. Your hands are full of blood.
 
 ## Isaiah 1:16
-Wash yourselves, make yourselves clean. Remove the evil of your deeds from My sight. Cease to do evil,
+Cleanse yourselves, purify your actions. Remove the evil of your deeds from My sight. Cease to do evil,
 
 ## Isaiah 1:17
 Learn to do good; seek justice, correct the oppressor; defend the fatherless, plead for the widow.
@@ -61,7 +61,7 @@ If you are willing and obedient, you shall eat the good of the land;
 but if you refuse and rebel, you shall be devoured by the sword.” For the mouth of the Lord has spoken.
 
 ## Isaiah 1:21
-How the faithful city has become a harlot! She who was full of justice! Righteousness once lodged in her, but now murderers.
+How the faithful city has become unfaithful! She who was full of justice! Righteousness once lodged in her, but now murderers.
 
 ## Isaiah 1:22
 Your silver has become dross, your wine mixed with water.
@@ -82,7 +82,7 @@ I will restore your judges as at the first, and your counsellors as at the begin
 Zion shall be redeemed with justice, and her repentant ones with righteousness.
 
 ## Isaiah 1:28
-But rebels and sinners shall be broken together, and those who forsake the Lord shall be consumed.
+But those who rebel and sin shall be broken together, and those who forsake the Lord shall be consumed.
 
 ## Isaiah 1:29
 For they shall be ashamed of the oaks which you have desired, and you shall be embarrassed by the gardens that you have chosen.

@@ -108,7 +108,7 @@ Now we are in your hands. Do to us whatever you think is good and right.”
 
 ## Joshua 9:26
 
-So Joshua saved them from the Israelites, and they did not kill them.
+So Joshua spared them from the Israelites, and they were not put to death.
 
 ## Joshua 9:27
 

@@ -64,7 +64,7 @@ Then the Lord said, “The outcry against Sodom and Gomorrah is indeed great, an
 I will go down now and see if what they have done is as bad as the outcry that has reached me. If not, I will know.”
 
 ## Genesis 18:22
-The men turned away and went towards Sodom, but Abraham remained standing before the Lord.
+The men turned and headed towards Sodom, while Abraham remained in the presence of the Lord.
 
 ## Genesis 18:23
 Abraham approached Him and said, “Will you indeed sweep away the righteous with the wicked?
@@ -97,4 +97,4 @@ Abraham said, “Now that I have been so bold as to speak to the Lord, suppose t
 Then he said, “May the Lord not be angry, but let me speak just once more; suppose ten are found there?” He answered, “For the sake of ten, I will not destroy it.”
 
 ## Genesis 18:33
-When the Lord had finished speaking with Abraham, He departed, and Abraham returned to his place.
+When the Lord had finished speaking with Abraham, He went on His way, and Abraham returned to his place.

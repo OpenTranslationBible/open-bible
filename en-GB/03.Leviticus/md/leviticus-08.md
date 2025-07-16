@@ -52,13 +52,13 @@ He took all the fat surrounding the internal organs, the long lobe of the liver,
 But the bull, with its hide, flesh, and intestines, he burned outside the camp, as the Lord commanded Moses.
 
 ## Leviticus 8:18
-He then presented the ram for the burnt offering, and Aaron and his sons laid their hands on its head.
+He then brought forward the ram for the burnt offering, and Aaron and his sons laid their hands on its head.
 
 ## Leviticus 8:19
 Moses slaughtered the ram and sprinkled the blood around the altar.
 
 ## Leviticus 8:20
-He cut the ram into pieces and burned the head, the pieces, and the fat.
+He divided the ram into parts and burned the head, the pieces, and the fat.
 
 ## Leviticus 8:21
 After washing the internal organs and the legs with water, he burned the whole ram on the altar. It was a burnt offering, a pleasing aroma, an offering by fire to the Lord, as the Lord commanded Moses.
@@ -100,10 +100,10 @@ Burn the remainder of the meat and bread.
 Do not leave the entrance to the tent of meeting for seven days, until the period of your ordination is completed, for your ordination will last seven days.
 
 ## Leviticus 8:34
-What has been done today was commanded by the Lord to make atonement for you.
+What has been done today was directed by the Lord to make atonement for you.
 
 ## Leviticus 8:35
 You must remain at the entrance to the tent of meeting day and night for seven days and perform your duty to the Lord, so that you will not die; for that is what I have been commanded.”
 
 ## Leviticus 8:36
-Thus Aaron and his sons did all the things which the Lord had commanded through Moses.
+Thus Aaron and his sons carried out all the instructions that the Lord had given through Moses.

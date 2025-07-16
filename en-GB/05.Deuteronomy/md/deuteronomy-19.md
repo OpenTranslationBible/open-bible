@@ -19,7 +19,7 @@ For example, if a man goes with his neighbour into the forest to cut wood, and a
 Otherwise, the avenger of blood might pursue him in anger, overtake him if the distance is too far, and kill him, even though he was not deserving of death because he did not harbour hatred beforehand.
 
 ## Deuteronomy 19:7
-This is why I command you to set aside three cities for yourselves.
+Therefore, I instruct you to establish three cities for yourselves.
 
 ## Deuteronomy 19:8
 If the Lord your God enlarges your territory, as He swore to your ancestors, and gives you all the land He promised,
@@ -58,7 +58,7 @@ The judges must conduct a thorough investigation, and if the witness is proven t
 then you shall do to the false witness as he intended to do to his brother. You must purge the evil from among you.
 
 ## Deuteronomy 19:20
-The rest of the people will hear of this and be afraid, and never again will such an evil thing be done among you.
+The people will hear of this and be afraid, ensuring that such an evil thing is not repeated among you.
 
 ## Deuteronomy 19:21
 Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.

@@ -37,7 +37,7 @@ All who are enraged against you will be ashamed and disgraced; those who contend
 Though you search for your adversaries, you will not find them. Those who war against you will be as nothing and non-existent.
 
 ## Isaiah 41:13
-For I am the Lord your God who takes hold of your right hand and says to you, ‘Do not fear; I will help you.’
+For I am the Lord your God, holding your right hand, and I say to you, ‘Do not fear; I will help you.’
 
 ## Isaiah 41:14
 Do not be afraid, you worm Jacob, little Israel, for I myself will help you,” declares the Lord, your Redeemer, the Holy One of Israel.
@@ -58,16 +58,16 @@ I will make rivers flow on barren heights, and springs in the valleys. I will tu
 I will place the cedar in the wilderness, the acacia, the myrtle, and the olive tree. I will set the juniper in the desert, together with the elm and the cypress,
 
 ## Isaiah 41:20
-so that people may see and know, may consider and understand, that the hand of the Lord has done this, that the Holy One of Israel has created it.
+so that people may observe and recognize, may ponder and comprehend, that the hand of the Lord has done this, that the Holy One of Israel has created it.
 
 ## Isaiah 41:21
-“Present your case,” says the Lord. “Bring forth your arguments,” says the King of Jacob.
+“State your case,” says the Lord. “Present your arguments,” says the King of Jacob.
 
 ## Isaiah 41:22
 Let them bring them forward and declare to us what is going to happen. Tell us what the former things were, so that we may consider them and know their outcome. Or declare to us the things to come,
 
 ## Isaiah 41:23
-tell us what the future holds, so we may know that you are gods. Do something, whether good or bad, so that we will be dismayed and filled with fear.
+reveal what the future holds, so we may know that you are gods. Perform something, whether good or bad, so that we will be astonished and filled with awe.
 
 ## Isaiah 41:24
 But you are less than nothing, and your works are utterly worthless; whoever chooses you is an abomination.
@@ -85,4 +85,4 @@ I was the first to say to Zion, ‘Look, here they are!’ I gave to Jerusalem a
 But when I look, there is no one, no counsellor among them, who, if I ask, can give an answer.
 
 ## Isaiah 41:29
-See, they are all false! Their deeds amount to nothing; their images are but wind and confusion.
+See, they are all deceptive! Their deeds amount to nothing; their images are but wind and confusion.

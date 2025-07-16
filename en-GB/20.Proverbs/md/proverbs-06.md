@@ -28,7 +28,7 @@ Save yourself like a gazelle from the hunter's hand,
 
 ## Proverbs 6:6
 
-Go to the ant, you lazy one; observe its ways and be wise!
+Consider the ant, you lazy one; watch its ways and gain wisdom!
 
 ## Proverbs 6:7
 
@@ -143,7 +143,7 @@ So is the one who goes in to his neighbour's wife; whoever touches her will not 
 
 ## Proverbs 6:30
 
-People do not despise a thief if he steals to satisfy his hunger when he is starving;
+A thief is not despised if he steals to satisfy his hunger when he is starving;
 
 ## Proverbs 6:31
 
@@ -165,4 +165,4 @@ For jealousy enrages a man, and he will show no mercy on the day of vengeance.
 
 ## Proverbs 6:35
 
-He will not accept any compensation; he will refuse a bribe, however great it is.
+He will not accept any compensation; no matter how great the bribe, he will refuse it.

@@ -28,11 +28,11 @@ And he said to him, “I will give you all their authority and splendour; it has
 
 ## Luke 4:7
 
-If you worship me, it will all be yours.”
+If you bow down to me, everything will be yours.”
 
 ## Luke 4:8
 
-Jesus answered, “It is written: ‘Worship the Lord your God and serve him only.’”
+Jesus responded, “It is written: ‘Worship the Lord your God and serve Him only.’”
 
 ---
 
@@ -50,11 +50,11 @@ and, ‘They will lift you up in their hands, so that you will not strike your f
 
 ## Luke 4:12
 
-Jesus answered, “It is said: ‘Do not put the Lord your God to the test.’”
+Jesus replied, “It is said: ‘Do not put the Lord your God to the test.’”
 
 ## Luke 4:13
 
-When the devil had finished every temptation, he left him until an opportune time.
+When the devil had finished all the temptations, he departed from him until a more suitable time.
 
 ---
 
@@ -74,7 +74,7 @@ He went to Nazareth, where he had been brought up, and on the Sabbath he entered
 
 ## Luke 4:17
 
-and the scroll of the prophet Isaiah was handed to him. Unrolling it, he found the place where it is written:
+and the scroll of the prophet Isaiah was given to him. Unrolling it, he located the place where it is written:
 
 ## Luke 4:18
 
@@ -90,7 +90,7 @@ Then he rolled up the scroll, gave it back to the attendant and sat down. The ey
 
 ## Luke 4:21
 
-He began by saying to them, “Today this scripture is fulfilled in your hearing.”
+He began by saying to them, “Today this scripture is fulfilled as you listen.”
 
 ## Luke 4:22
 
@@ -102,7 +102,7 @@ Jesus said to them, “Surely you will quote this proverb to me: ‘Physician, h
 
 ## Luke 4:24
 
-“Truly I tell you,” he continued, “no prophet is accepted in his hometown.
+“Truly I tell you,” he continued, “no prophet is accepted in his own town.
 
 ## Luke 4:25
 
@@ -110,7 +110,7 @@ I assure you that there were many widows in Israel in Elijah’s time, when the 
 
 ## Luke 4:26
 
-Yet Elijah was not sent to any of them, but to a widow in Zarephath in the region of Sidon.
+Yet Elijah was sent to none of them, but to a widow in Zarephath in the region of Sidon.
 
 ## Luke 4:27
 
@@ -118,21 +118,21 @@ And there were many in Israel with leprosy in the time of Elisha the prophet, ye
 
 ## Luke 4:28
 
-All the people in the synagogue were furious when they heard this.
+All the people in the synagogue were enraged when they heard this.
 
 ## Luke 4:29
 
-They got up, drove him out of the town, and took him to the brow of the hill on which the town was built, in order to throw him off the cliff.
+They got up, drove him out of the town, and took him to the edge of the hill on which the town was built, intending to throw him off the cliff.
 
 ## Luke 4:30
 
-But he walked right through the crowd and went on his way.
+But he passed through the crowd and went on his way.
 
 ---
 
 ## Luke 4:31
 
-Then he went down to Capernaum, a town in Galilee, and on the Sabbath he taught the people.
+Then he traveled to Capernaum, a town in Galilee, and on the Sabbath he taught the people.
 
 ## Luke 4:32
 
@@ -140,7 +140,7 @@ They were amazed at his teaching, because his message was delivered with authori
 
 ## Luke 4:33
 
-In the synagogue there was a man possessed by a demon, an impure spirit. He cried out at the top of his voice,
+In the synagogue there was a man possessed by a demon, an impure spirit. He cried out loudly,
 
 ## Luke 4:34
 
@@ -152,7 +152,7 @@ Jesus rebuked him, saying, “Be quiet and come out of him!” Then the demon th
 
 ## Luke 4:36
 
-All the people were amazed and said to each other, “What words these are! With authority and power he gives orders to impure spirits and they come out!”
+All the people were amazed and said to each other, “What words these are! With authority and power he commands impure spirits and they come out!”
 
 ## Luke 4:37
 
@@ -162,11 +162,11 @@ And the news about him spread throughout the surrounding area.
 
 ## Luke 4:38
 
-Jesus left the synagogue and went to the home of Simon. Now Simon’s mother-in-law was suffering from a high fever, and they asked Jesus to help her.
+Jesus left the synagogue and went to the home of Simon. Now Simon’s mother-in-law was suffering from a high fever, and they requested Jesus to help her.
 
 ## Luke 4:39
 
-So he stood over her and rebuked the fever, and it left her. She got up at once and began to wait on them.
+So he stood over her and rebuked the fever, and it left her. She got up at once and began to serve them.
 
 ## Luke 4:40
 
@@ -180,11 +180,11 @@ Demons also came out of many people, shouting, “You are the Son of God!” But
 
 ## Luke 4:42
 
-At daybreak, Jesus went out to a solitary place. The people were looking for him and when they came to where he was, they tried to keep him from leaving them.
+At daybreak, Jesus went out to a solitary place. The people were searching for him and when they came to where he was, they tried to prevent him from leaving them.
 
 ## Luke 4:43
 
-But he said, “I must proclaim the good news of the kingdom of God to the other towns also, because that is why I was sent.”
+But he said, “I must proclaim the good news of the kingdom of God to the other towns as well, because that is why I was sent.”
 
 ## Luke 4:44
 

@@ -19,7 +19,7 @@ Above the ark were the cherubim of glory, overshadowing the atonement cover. How
 When everything was arranged in this manner, the priests regularly entered the outer room to perform their duties.
 
 ## Hebrews 9:7
-But only the high priest entered the inner room, and that only once a year, and never without blood, which he offered for himself and for the sins the people had committed in ignorance.
+Yet, it was only the high priest who went into the inner room, and he did so just once a year, always bringing blood, which he offered for himself and for the sins the people had unknowingly committed.
 
 ## Hebrews 9:8
 The Holy Spirit was indicating that the way into the Most Holy Place had not yet been revealed while the first tabernacle was still standing.
@@ -58,7 +58,7 @@ This is why even the first covenant was not inaugurated without blood.
 When Moses had proclaimed every commandment of the law to all the people, he took the blood of calves and goats, with water, scarlet wool, and hyssop, and sprinkled the scroll and all the people.
 
 ## Hebrews 9:20
-He said, “This is the blood of the covenant, which God has commanded you to keep.”
+He declared, “This represents the blood of the covenant, which God has commanded you to uphold.”
 
 ## Hebrews 9:21
 In the same way, he sprinkled with the blood both the tabernacle and all the vessels used in its ceremonies.

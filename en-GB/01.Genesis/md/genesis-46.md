@@ -25,7 +25,7 @@ His sons and grandsons, his daughters and granddaughters—all his descendants h
 These are the names of the sons of Israel who went to Egypt, Jacob and his sons: Reuben, Jacob’s firstborn.
 
 ## Genesis 46:9
-The sons of Reuben: Hanoch, Pallu, Hezron, and Carmi.
+Reuben's sons were Hanoch, Pallu, Hezron, and Carmi.
 
 ## Genesis 46:10
 The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
@@ -58,13 +58,13 @@ These were the children born to Jacob by Zilpah, whom Laban had given to his dau
 The sons of Jacob’s wife Rachel: Joseph and Benjamin.
 
 ## Genesis 46:20
-In Egypt, Manasseh and Ephraim were born to Joseph by Asenath, daughter of Potiphera, priest of On.
+In Egypt, Joseph had two sons, Manasseh and Ephraim, with Asenath, daughter of Potiphera, priest of On.
 
 ## Genesis 46:21
 The sons of Benjamin: Bela, Becher, Ashbel, Gera, Naaman, Ehi, Rosh, Muppim, Huppim, and Ard.
 
 ## Genesis 46:22
-These were the sons of Rachel who were born to Jacob—fourteen in all.
+These were the children of Rachel who were born to Jacob—fourteen in total.
 
 ## Genesis 46:23
 The son of Dan: Hushim.
@@ -97,7 +97,7 @@ Joseph said to his brothers and to his father’s household, “I will go up and
 The men are shepherds; they have tended livestock, and they have brought along their flocks, herds, and everything they own.’
 
 ## Genesis 46:33
-When Pharaoh calls you in and asks, ‘What is your occupation?’
+When Pharaoh summons you and inquires, ‘What is your occupation?’
 
 ## Genesis 46:34
 you should say, ‘Your servants have tended livestock from our youth until now, as did our fathers.’ This will allow you to settle in the region of Goshen, for all shepherds are detestable to the Egyptians.”

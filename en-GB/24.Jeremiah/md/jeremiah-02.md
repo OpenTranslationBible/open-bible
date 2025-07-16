@@ -13,7 +13,7 @@ Israel was holy to the Lord, the firstfruits of his harvest. All who devoured he
 Hear the word of the Lord, you descendants of Jacob, all the families of the house of Israel.
 
 ## Jeremiah 2:5
-This is what the Lord says: “What fault did your ancestors find in me, that they strayed so far from me? They followed worthless idols and became worthless themselves.
+This is what the Lord says: “What did your ancestors find lacking in me, that they wandered so far from me? They pursued worthless idols and became worthless themselves.
 
 ## Jeremiah 2:6
 They did not say, ‘Where is the Lord who brought us up out of Egypt, who led us through the barren wilderness, through a land of deserts and pits, a land of drought and deep darkness, a land where no one travels and no one lives?’
@@ -34,22 +34,22 @@ Cross over to the coastlands of Kittim and see, send to Kedar and observe closel
 Has a nation ever changed its gods, even though they are not gods at all? But my people have exchanged their glorious God for that which is worthless.
 
 ## Jeremiah 2:12
-Be appalled at this, you heavens, and shudder with great horror,” declares the Lord.
+Be astonished at this, you heavens, and tremble with great fear,” declares the Lord.
 
 ## Jeremiah 2:13
 “For my people have committed two sins: They have forsaken me, the fountain of living waters, and have dug their own cisterns, broken cisterns that cannot hold water.
 
 ## Jeremiah 2:14
-Is Israel a servant, a slave by birth? Why then has he become plunder?
+Is Israel a servant, born into slavery? Why then has he become plunder?
 
 ## Jeremiah 2:15
 Lions have roared at him, they have roared loudly. They have laid waste his land; his towns are burned and deserted.
 
 ## Jeremiah 2:16
-Also, the men of Memphis and Tahpanhes have cracked your skull.
+Also, the men of Memphis and Tahpanhes have caused you harm.
 
 ## Jeremiah 2:17
-Have you not brought this on yourselves by forsaking the Lord your God when he led you in the way?
+Is it not you who have brought this upon yourselves by abandoning the Lord your God when he led you in the way?
 
 ## Jeremiah 2:18
 Now why go to Egypt to drink the waters of the Nile? And why go to Assyria to drink the waters of the Euphrates?
@@ -58,7 +58,7 @@ Now why go to Egypt to drink the waters of the Nile? And why go to Assyria to dr
 Your wickedness will correct you, and your backsliding will rebuke you. Consider then and realise how evil and bitter it is for you to forsake the Lord your God and have no awe of me,” declares the Lord, the God of armies.
 
 ## Jeremiah 2:20
-“Long ago you broke off your yoke and tore off your bonds; you said, ‘I will not serve you!’ Indeed, on every high hill and under every spreading tree you lay down as a prostitute.
+“Long ago you broke off your yoke and tore off your bonds; you said, ‘I will not serve you!’ Indeed, on every high hill and under every spreading tree you lay down as one unfaithful.
 
 ## Jeremiah 2:21
 I had planted you like a choice vine, a completely faithful seed. How then did you turn against me into a corrupt, wild vine?
@@ -85,7 +85,7 @@ They say to wood, ‘You are my father,’ and to stone, ‘You gave me birth.�
 Where then are the gods you made for yourselves? Let them arise if they can save you in your time of trouble! For you, Judah, have as many gods as you have towns.
 
 ## Jeremiah 2:29
-“Why do you bring charges against me? You have all rebelled against me,” declares the Lord.
+“Why do you bring accusations against me? You have all rebelled against me,” declares the Lord.
 
 ## Jeremiah 2:30
 “In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravenous lion.
@@ -97,7 +97,7 @@ Where then are the gods you made for yourselves? Let them arise if they can save
 Does a young woman forget her jewellery, a bride her wedding ornaments? Yet my people have forgotten me, days without number.
 
 ## Jeremiah 2:33
-How skilled you are at pursuing love! Even the worst of women can learn from your ways.
+How adept you are at pursuing love! Even the worst of women can learn from your ways.
 
 ## Jeremiah 2:34
 On your clothes is found the lifeblood of the innocent poor, though you did not catch them breaking in. Yet in spite of all this
@@ -106,7 +106,7 @@ On your clothes is found the lifeblood of the innocent poor, though you did not 
 you say, ‘I am innocent; surely his anger is turned away from me.’ But I will pass judgment on you because you say, ‘I have not sinned.’
 
 ## Jeremiah 2:36
-Why do you go about so much, changing your ways? You will be disappointed by Egypt as you were by Assyria.
+Why do you wander so much, changing your ways? You will be disappointed by Egypt as you were by Assyria.
 
 ## Jeremiah 2:37
 You will also leave that place with your hands on your head, for the Lord has rejected those you trust; you will not prosper with them.

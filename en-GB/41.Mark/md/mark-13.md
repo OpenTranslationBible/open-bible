@@ -42,7 +42,7 @@ For nation will rise against nation, and kingdom against kingdom. There will be 
 
 ## Mark 13:10
 
-And the gospel must first be proclaimed to all nations.
+And the good news must first reach all nations.
 
 ## Mark 13:11
 
@@ -90,7 +90,7 @@ If the Lord had not curtailed those days, no life would be saved; but for the sa
 
 ## Mark 13:21
 
-At that time, if anyone says to you, ‘Look, here is the Messiah!’ or, ‘Look, there He is!’ do not believe it.
+If anyone tells you during that time, ‘Look, here is the Messiah!’ or, ‘Look, there He is!’ do not believe it.
 
 ## Mark 13:22
 

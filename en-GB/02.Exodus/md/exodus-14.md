@@ -7,7 +7,7 @@ Now the Lord spoke to Moses,
 “Tell the Israelites to turn back and camp near Pi-hahiroth, between Migdol and the sea; you shall camp opposite Baal-zephon, by the sea.
 
 ## Exodus 14:3
-For Pharaoh will say of the Israelites, ‘They are wandering aimlessly in the land; the wilderness has shut them in.’
+For Pharaoh will say of the Israelites, ‘They are lost in the land; the wilderness has trapped them.’
 
 ## Exodus 14:4
 And I will harden Pharaoh’s heart, and he will pursue them; and I will gain glory for myself through Pharaoh and all his army, and the Egyptians will know that I am the Lord.” And they did so.
@@ -19,10 +19,10 @@ When the king of Egypt was informed that the people had fled, Pharaoh and his of
 So he had his chariot prepared and took his people with him.
 
 ## Exodus 14:7
-He took six hundred of the best chariots, along with all the other chariots of Egypt, with officers over all of them.
+He took six hundred select chariots, along with all the other chariots of Egypt, with officers over all of them.
 
 ## Exodus 14:8
-The Lord hardened the heart of Pharaoh, king of Egypt, so that he pursued the Israelites, who were marching out boldly.
+The Lord made Pharaoh, king of Egypt, determined, so that he pursued the Israelites, who were marching out boldly.
 
 ## Exodus 14:9
 The Egyptians pursued them with all Pharaoh’s horses and chariots, his horsemen and troops, and overtook them as they camped by the sea, near Pi-hahiroth, opposite Baal-zephon.
@@ -46,10 +46,10 @@ The Lord will fight for you; you need only to be silent.”
 Then the Lord said to Moses, “Why are you crying out to me? Tell the Israelites to move forward.
 
 ## Exodus 14:16
-Raise your staff and stretch out your hand over the sea to divide the water, so that the Israelites can go through the sea on dry ground.
+Lift your staff and stretch out your hand over the sea to part the water, so that the Israelites can pass through the sea on dry ground.
 
 ## Exodus 14:17
-I will harden the hearts of the Egyptians so that they will go in after them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen.
+I will make the Egyptians determined so that they will follow them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen.
 
 ## Exodus 14:18
 The Egyptians will know that I am the Lord when I gain glory through Pharaoh, his chariots and his horsemen.”
@@ -61,16 +61,16 @@ Then the angel of God, who had been travelling in front of Israel’s army, move
 coming between the camp of Egypt and the camp of Israel. Throughout the night the cloud brought darkness to one side and light to the other; so neither went near the other all night long.
 
 ## Exodus 14:21
-Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land. The waters were divided,
+Then Moses stretched out his hand over the sea, and all that night the Lord drove the sea back with a strong east wind and turned it into dry land. The waters were parted,
 
 ## Exodus 14:22
-and the Israelites went through the sea on dry ground, with a wall of water on their right and on their left.
+and the Israelites passed through the sea on dry ground, with a wall of water on their right and on their left.
 
 ## Exodus 14:23
 The Egyptians pursued them, and all Pharaoh’s horses, chariots and horsemen followed them into the sea.
 
 ## Exodus 14:24
-During the last watch of the night, the Lord looked down from the pillar of fire and cloud at the Egyptian army and threw it into confusion.
+During the last watch of the night, the Lord looked down from the pillar of fire and cloud at the Egyptian army and caused confusion among them.
 
 ## Exodus 14:25
 He jammed the wheels of their chariots so that they had difficulty driving. And the Egyptians said, “Let us flee from the Israelites! The Lord is fighting for them against Egypt.”
@@ -82,13 +82,13 @@ Then the Lord said to Moses, “Stretch out your hand over the sea so that the w
 So Moses stretched out his hand over the sea, and at daybreak the sea returned to its place. The Egyptians were fleeing towards it, and the Lord swept them into the sea.
 
 ## Exodus 14:28
-The water flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had followed the Israelites into the sea. Not one of them survived.
+The water flowed back and covered the chariots and horsemen—the entire army of Pharaoh that had followed the Israelites into the sea. None of them survived.
 
 ## Exodus 14:29
-But the Israelites went through the sea on dry ground, with a wall of water on their right and on their left.
+But the Israelites passed through the sea on dry ground, with a wall of water on their right and on their left.
 
 ## Exodus 14:30
-That day the Lord saved Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore.
+That day the Lord delivered Israel from the hands of the Egyptians, and Israel saw the Egyptians lying dead on the shore.
 
 ## Exodus 14:31
 When the Israelites saw the mighty hand of the Lord displayed against the Egyptians, the people feared the Lord and put their trust in him and in Moses his servant.

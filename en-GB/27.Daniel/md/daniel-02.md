@@ -55,7 +55,7 @@ Daniel returned to his house and informed his friends Hananiah, Mishael, and Aza
 urging them to seek mercy from the God of heaven concerning this mystery, so that he and his friends might not perish with the rest of the wise men of Babylon.
 
 ## Daniel 2:19
-During the night, the mystery was revealed to Daniel in a vision. Then Daniel praised the God of heaven
+In a vision during the night, the mystery was made known to Daniel. Then Daniel praised the God of heaven
 
 ## Daniel 2:20
 and said: “Blessed be the name of God forever and ever, for wisdom and power belong to Him.
@@ -64,7 +64,7 @@ and said: “Blessed be the name of God forever and ever, for wisdom and power b
 He changes times and seasons; He removes kings and establishes them. He gives wisdom to the wise and knowledge to those who have understanding.
 
 ## Daniel 2:22
-He reveals deep and hidden things; He knows what lies in darkness, and light dwells with Him.
+He uncovers profound and hidden things; He knows what is in the darkness, and light is with Him.
 
 ## Daniel 2:23
 I thank and praise You, God of my ancestors: You have given me wisdom and power, and You have made known to me what we asked of You; You have made known to us the king’s matter.”
@@ -91,13 +91,13 @@ As Your Majesty lay there, your mind turned to things to come, and the revealer 
 As for me, this mystery has been revealed to me not because I have greater wisdom than anyone else alive, but so that Your Majesty may know the interpretation and understand the thoughts of your mind.
 
 ## Daniel 2:31
-Your Majesty looked, and there before you stood a large statue—an enormous, dazzling statue, awesome in appearance.
+Your Majesty observed, and there before you stood a large statue—an enormous, dazzling statue, impressive in appearance.
 
 ## Daniel 2:32
 The head of the statue was made of fine gold, its chest and arms of silver, its belly and thighs of bronze,
 
 ## Daniel 2:33
-its legs of iron, and its feet partly of iron and partly of clay.
+its legs of iron, and its feet a combination of iron and clay.
 
 ## Daniel 2:34
 While you were watching, a stone was cut out, but not by human hands. It struck the statue on its feet of iron and clay and crushed them.
@@ -106,16 +106,16 @@ While you were watching, a stone was cut out, but not by human hands. It struck 
 Then the iron, the clay, the bronze, the silver, and the gold were broken to pieces and became like chaff on a summer threshing floor. The wind swept them away without leaving a trace. But the stone that struck the statue became a great mountain and filled the whole earth.
 
 ## Daniel 2:36
-This was the dream, and now we will interpret it to the king.
+This was the dream, and now we will explain it to the king.
 
 ## Daniel 2:37
 Your Majesty, you are the king of kings. The God of heaven has given you dominion, power, strength, and glory;
 
 ## Daniel 2:38
-in your hands He has placed all mankind and the beasts of the field and the birds in the sky. Wherever they live, He has made you ruler over them all. You are that head of gold.
+He has placed all people, the beasts of the field, and the birds of the sky under your authority. Wherever they dwell, He has made you ruler over them all. You are that head of gold.
 
 ## Daniel 2:39
-After you, another kingdom will arise, inferior to yours. Next, a third kingdom, one of bronze, will rule over the whole earth.
+Following you, another kingdom will arise, inferior to yours. Then, a third kingdom, one of bronze, will rule over the whole earth.
 
 ## Daniel 2:40
 Finally, there will be a fourth kingdom, strong as iron—for iron breaks and smashes everything—and as iron crushes all things, so it will crush and break all the others.
@@ -124,13 +124,13 @@ Finally, there will be a fourth kingdom, strong as iron—for iron breaks and sm
 Just as you saw that the feet and toes were partly of clay and partly of iron, so this will be a divided kingdom; yet it will have some of the strength of iron in it, even as you saw iron mixed with clay.
 
 ## Daniel 2:42
-As the toes were partly iron and partly clay, so this kingdom will be partly strong and partly brittle.
+As the toes were partly iron and partly clay, so this kingdom will be partly strong and partly fragile.
 
 ## Daniel 2:43
 And just as you saw the iron mixed with clay, so the people will be a mixture and will not remain united, any more than iron mixes with clay.
 
 ## Daniel 2:44
-In the time of those kings, the God of heaven will set up a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever.
+During the reign of those kings, the God of heaven will establish a kingdom that will never be destroyed, nor will it be left to another people. It will crush all those kingdoms and bring them to an end, but it will itself endure forever.
 
 ## Daniel 2:45
 This is the meaning of the vision of the stone cut out of a mountain, but not by human hands—a stone that broke the iron, the bronze, the clay, the silver, and the gold to pieces. The great God has shown the king what will take place in the future. The dream is true, and its interpretation is reliable.”
@@ -139,7 +139,7 @@ This is the meaning of the vision of the stone cut out of a mountain, but not by
 Then King Nebuchadnezzar fell prostrate before Daniel and honoured him, and he ordered that an offering and incense be presented to him.
 
 ## Daniel 2:47
-The king said to Daniel, “Surely your God is the God of gods and the Lord of kings and a revealer of mysteries, for you were able to reveal this mystery.”
+The king said to Daniel, “Truly, your God is the God of gods and the Lord of kings and a revealer of mysteries, for you were able to disclose this mystery.”
 
 ## Daniel 2:48
 Then the king promoted Daniel and gave him many great gifts. He made him ruler over the entire province of Babylon and placed him in charge of all its wise men.

@@ -25,7 +25,7 @@ Then he brought me to the entrance of the court, and I looked and saw a hole in 
 He said to me, “Son of man, now dig through the wall.” So I dug through the wall and found an entrance.
 
 ## Ezekiel 8:9
-And he said to me, “Go in and see the wicked and detestable things they are doing here.”
+And he said to me, “Enter and observe the wicked and detestable acts they are committing here.”
 
 ## Ezekiel 8:10
 So I went in and looked, and I saw portrayed all over the walls all kinds of crawling things and unclean animals, and all the idols of the house of Israel.
@@ -46,7 +46,7 @@ Then he brought me to the entrance of the north gate of the house of the Lord, a
 He said to me, “Do you see this, son of man? You will see even greater abominations than these.”
 
 ## Ezekiel 8:16
-He then brought me into the inner court of the house of the Lord, and there at the entrance to the temple, between the portico and the altar, were about twenty-five men. With their backs towards the temple of the Lord and their faces towards the east, they were bowing down to the sun in the east.
+He then led me into the inner court of the house of the Lord, and there at the entrance to the temple, between the portico and the altar, were about twenty-five men. With their backs turned to the temple of the Lord and their faces towards the east, they were bowing down to the sun in the east.
 
 ## Ezekiel 8:17
 He said to me, “Have you seen this, son of man? Is it a trivial matter for the house of Judah to commit the detestable things they are doing here? Must they also fill the land with violence and continually provoke me to anger? Look at them putting the branch to their nose!

@@ -31,7 +31,7 @@ that he may sell me the cave of Machpelah, which belongs to him and is at the en
 Ephron was sitting among the Hittites, and he replied to Abraham in the hearing of all the Hittites who had come to the gate of his city, saying,
 
 ## Genesis 23:11
-“No, my lord, listen to me. I give you the field, and I give you the cave that is in it. In the presence of my people, I give it to you. Bury your dead.”
+“No, my lord, please hear me. I am giving you the field, and also the cave that is in it. In the presence of my people, I grant it to you. Bury your dead.”
 
 ## Genesis 23:12
 Abraham again bowed down before the people of the land.

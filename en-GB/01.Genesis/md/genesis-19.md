@@ -52,7 +52,7 @@ But he hesitated, so the men seized his hand and the hands of his wife and his t
 When they had brought them outside, one of them said, “Flee for your life! Do not look back or stop anywhere in the plain. Escape to the mountains or you will be swept away.”
 
 ## Genesis 19:18
-But Lot said to them, “Oh no, my lords!
+But Lot said to them, “Please, my lords, not so!
 
 ## Genesis 19:19
 Your servant has found favour in your sight, and you have shown great kindness to me by saving my life. But I cannot flee to the mountains, for the disaster will overtake me and I will die.
@@ -61,13 +61,13 @@ Your servant has found favour in your sight, and you have shown great kindness t
 Look, here is a town near enough to flee to, and it is small. Please, let me escape there—is it not small?—so that my life may be spared.”
 
 ## Genesis 19:21
-He said to him, “Very well, I will grant this request too; I will not overthrow the town you speak of.
+He replied to him, “I will also grant this request; I will not destroy the town you speak of.
 
 ## Genesis 19:22
 But hurry, escape there, for I cannot do anything until you reach it.” Therefore the town was called Zoar.
 
 ## Genesis 19:23
-The sun had risen over the land when Lot reached Zoar.
+By the time Lot reached Zoar, the sun had risen over the land.
 
 ## Genesis 19:24
 Then the Lord rained down brimstone and fire on Sodom and Gomorrah—from the Lord out of the heavens.
@@ -76,13 +76,13 @@ Then the Lord rained down brimstone and fire on Sodom and Gomorrah—from the Lo
 He overthrew those cities and all the plain, all the inhabitants of the cities, and what grew on the ground.
 
 ## Genesis 19:26
-But Lot’s wife looked back from behind him, and she became a pillar of salt.
+However, Lot’s wife looked back, and she became a pillar of salt.
 
 ## Genesis 19:27
-Early in the morning, Abraham went to the place where he had stood before the Lord.
+Early in the morning, Abraham returned to the place where he had stood before the Lord.
 
 ## Genesis 19:28
-He looked down toward Sodom and Gomorrah, toward all the land of the plain, and he saw dense smoke rising from the land, like smoke from a furnace.
+He gazed down toward Sodom and Gomorrah, toward all the land of the plain, and he saw dense smoke rising from the land, like smoke from a furnace.
 
 ## Genesis 19:29
 So it was that when God destroyed the cities of the plain, He remembered Abraham, and sent Lot out of the midst of the overthrow, when He overthrew the cities where Lot had lived.

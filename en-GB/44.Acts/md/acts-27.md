@@ -78,7 +78,7 @@ The next day, as we were being violently tossed by the storm, they began to thro
 
 ## Acts 27:19
 
-On the third day, they threw the ship’s tackle overboard with their own hands.
+On the third day, they discarded the ship’s tackle with their own hands.
 
 ## Acts 27:20
 
@@ -92,23 +92,23 @@ After they had gone a long time without food, Paul stood up among them and said,
 
 ## Acts 27:22
 
-But now I urge you to keep up your courage, because not one of you will be lost; only the ship will be destroyed.
+But now I encourage you to take heart, because not one of you will be lost; only the ship will be destroyed.
 
 ## Acts 27:23
 
-Last night an angel of the God to whom I belong and whom I serve stood beside me
+Last night an angel of the God to whom I belong and whom I serve appeared to me
 
 ## Acts 27:24
 
-and said, ‘Do not be afraid, Paul. You must stand trial before Caesar, and God has graciously given you the lives of all who sail with you.’
+and said, ‘Do not be afraid, Paul. You must stand trial before Caesar, and God has graciously granted you the lives of all who sail with you.’
 
 ## Acts 27:25
 
-So keep up your courage, men, for I have faith in God that it will happen just as he told me.
+So take heart, men, for I have faith in God that it will happen just as he told me.
 
 ## Acts 27:26
 
-Nevertheless, we must run aground on some island.”
+Nonetheless, we must run aground on some island.”
 
 ---
 
@@ -130,7 +130,7 @@ The sailors attempted to escape from the ship and had lowered the ship’s boat 
 
 ## Acts 27:31
 
-Then Paul said to the centurion and the soldiers, “Unless these men stay with the ship, you cannot be saved.”
+Then Paul said to the centurion and the soldiers, “Unless these men remain with the ship, you cannot be saved.”
 
 ## Acts 27:32
 
@@ -140,7 +140,7 @@ So the soldiers cut the ropes that held the ship’s boat and let it drift away.
 
 ## Acts 27:33
 
-Just before dawn, Paul urged them all to eat. “For the last fourteen days,” he said, “you have been in constant suspense and have gone without food—you haven’t eaten anything.
+Just before dawn, Paul encouraged them all to eat. “For the last fourteen days,” he said, “you have been in constant suspense and have gone without food—you haven’t eaten anything.
 
 ## Acts 27:34
 
@@ -156,7 +156,7 @@ They were all encouraged and took some food themselves.
 
 ## Acts 27:37
 
-Altogether there were 276 of us on board.
+In total, there were 276 of us on board.
 
 ## Acts 27:38
 
@@ -166,7 +166,7 @@ When they had eaten as much as they wanted, they lightened the ship by throwing 
 
 ## Acts 27:39
 
-When daylight came, they did not recognise the land, but they saw a bay with a sandy beach, where they decided to run the ship aground if they could.
+When daylight came, they did not recognise the land, but they saw a bay with a sandy beach, where they planned to run the ship aground if they could.
 
 ## Acts 27:40
 
@@ -178,7 +178,7 @@ But the ship struck a sandbar and ran aground. The bow stuck fast and would not 
 
 ## Acts 27:42
 
-The soldiers planned to kill the prisoners to prevent any of them from swimming away and escaping.
+The soldiers intended to kill the prisoners to prevent any of them from swimming away and escaping.
 
 ## Acts 27:43
 

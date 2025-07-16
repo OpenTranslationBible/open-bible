@@ -34,7 +34,7 @@ For it is: Order on order, order on order, line on line, line on line, a little 
 Indeed, with stammering lips and a foreign tongue, God will speak to this people,
 
 ## Isaiah 28:12
-to whom he said, “This is the resting place, let the weary rest,” and, “This is the place of repose,” but they would not listen.
+to whom he declared, “This is the resting place; let the weary find rest,” and, “This is the place of repose,” but they would not listen.
 
 ## Isaiah 28:13
 So the word of the Lord to them will be: Order on order, order on order, line on line, line on line, a little here, a little there, so that they may go and fall backward, be broken, snared, and captured.
@@ -67,7 +67,7 @@ For the Lord will rise up as he did at Mount Perazim, he will be stirred as in t
 Now stop your mocking, or your shackles will be made heavier; for I have heard from the Lord God of hosts of decisive destruction upon the whole land.
 
 ## Isaiah 28:23
-Listen and hear my voice; pay attention and hear my words.
+Listen and hear my voice; be attentive and heed my words.
 
 ## Isaiah 28:24
 Does the farmer plough continually to plant seed? Does he continually turn and break up his ground?
@@ -76,7 +76,7 @@ Does the farmer plough continually to plant seed? Does he continually turn and b
 When he has levelled its surface, does he not sow dill and scatter cumin, and plant wheat in rows, barley in its place, and rye in its area?
 
 ## Isaiah 28:26
-His God instructs him and teaches him the right way.
+God instructs him and guides him in the right way.
 
 ## Isaiah 28:27
 Dill is not threshed with a sledge, nor is the cartwheel driven over cumin; but dill is beaten out with a rod, and cumin with a stick.

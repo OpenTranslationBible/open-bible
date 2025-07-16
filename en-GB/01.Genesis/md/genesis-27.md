@@ -19,7 +19,7 @@ Now Rebekah was listening as Isaac spoke to his son Esau. So when Esau went to t
 Rebekah said to her son Jacob, “Behold, I overheard your father speak to your brother Esau, saying,
 
 ## Genesis 27:7
-‘Bring me some game and prepare a delicious meal for me, so that I may eat and bless you in the presence of the Lord before my death.’
+‘Bring me some game and prepare a delightful meal for me, so that I may eat and bless you in the presence of the Lord before my death.’
 
 ## Genesis 27:8
 Now, my son, listen carefully to what I command you:
@@ -31,7 +31,7 @@ Go to the flock and bring me two choice young goats, so that I may prepare them 
 Then take it to your father to eat, so that he may bless you before his death.”
 
 ## Genesis 27:11
-Jacob said to Rebekah his mother, “But my brother Esau is a hairy man while I have smooth skin.
+Jacob said to Rebekah his mother, “But my brother Esau is a hairy man while I have smooth skin.”
 
 ## Genesis 27:12
 Perhaps my father will touch me, and I will seem to him like a deceiver, and I will bring upon myself a curse rather than a blessing.”
@@ -46,7 +46,7 @@ So he went and got them and brought them to his mother, and she prepared a delic
 Then Rebekah took the best garments of her elder son Esau, which were with her in the house, and put them on her younger son Jacob.
 
 ## Genesis 27:16
-She also covered his hands and the smooth part of his neck with the goatskins.
+She also covered his hands and the smooth part of his neck with the skins of the goats.
 
 ## Genesis 27:17
 Then she handed to her son Jacob the delicious meal and the bread she had made.
@@ -64,13 +64,13 @@ Isaac asked his son, “How did you find it so quickly, my son?” And he replie
 Then Isaac said to Jacob, “Please come near, so that I may feel you, my son, to know whether you really are my son Esau or not.”
 
 ## Genesis 27:22
-Jacob went close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are the hands of Esau.”
+Jacob went close to his father Isaac, who touched him and said, “The voice is the voice of Jacob, but the hands are those of Esau.”
 
 ## Genesis 27:23
 He did not recognise him, for his hands were hairy like those of his brother Esau; so he blessed him.
 
 ## Genesis 27:24
-“Are you really my son Esau?” he asked. “I am,” he replied.
+“Are you truly my son Esau?” he asked. “I am,” he replied.
 
 ## Genesis 27:25
 Then he said, “Bring it to me, and I will eat of my son’s game, that I may bless you.” And he brought it to him, and he ate; he also brought him wine and he drank.
@@ -130,7 +130,7 @@ When the words of her elder son Esau were reported to Rebekah, she sent for her 
 Now then, my son, obey my voice and flee at once to my brother Laban in Haran.
 
 ## Genesis 27:44
-Stay with him for a while until your brother’s fury subsides.
+Stay with him for a time until your brother’s anger subsides.
 
 ## Genesis 27:45
 When your brother is no longer angry with you and forgets what you did to him, I will send word for you to come back from there. Why should I lose both of you in one day?”

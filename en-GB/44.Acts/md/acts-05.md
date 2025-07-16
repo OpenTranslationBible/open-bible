@@ -44,7 +44,7 @@ Immediately she fell down at his feet and died. The young men came in, found her
 
 ## Acts 5:11
 
-Great fear seized the whole church and all who heard about these events.
+A profound sense of awe came over the whole church and all who heard about these events.
 
 ---
 
@@ -84,7 +84,7 @@ But during the night, an angel of the Lord opened the prison doors and led them 
 
 ## Acts 5:20
 
-“Go, stand in the temple courts,” he said, “and tell the people all about this new life.”
+“Go, stand in the temple courts,” he said, “and share with the people about this new life.”
 
 ## Acts 5:21
 
@@ -114,7 +114,7 @@ At that, the captain went with his officers and brought the apostles back withou
 
 ## Acts 5:27
 
-The apostles were brought in and made to appear before the Sanhedrin to be questioned by the high priest.
+The apostles were brought in and presented before the Sanhedrin to be questioned by the high priest.
 
 ## Acts 5:28
 
@@ -122,7 +122,7 @@ The apostles were brought in and made to appear before the Sanhedrin to be quest
 
 ## Acts 5:29
 
-Peter and the other apostles replied, “We must obey God rather than human beings!
+Peter and the other apostles replied, “We must follow God rather than human beings!
 
 ## Acts 5:30
 
@@ -140,7 +140,7 @@ We are witnesses of these things, and so is the Holy Spirit, whom God has given 
 
 ## Acts 5:33
 
-When they heard this, they were furious and wanted to put them to death.
+When they heard this, they were enraged and wanted to put them to death.
 
 ## Acts 5:34
 
@@ -152,7 +152,7 @@ Then he addressed the Sanhedrin, “Men of Israel, consider carefully what you i
 
 ## Acts 5:36
 
-Some time ago Theudas appeared, claiming to be somebody, and about four hundred men rallied to him. He was killed, all his followers were dispersed, and it all came to nothing.
+Some time ago Theudas appeared, claiming to be someone significant, and about four hundred men rallied to him. He was killed, all his followers were dispersed, and it all came to nothing.
 
 ## Acts 5:37
 
@@ -160,7 +160,7 @@ After him, Judas the Galilean appeared in the days of the census and led a band 
 
 ## Acts 5:38
 
-Therefore, in the present case, I advise you: Leave these men alone! Let them go! For if their purpose or activity is of human origin, it will fail.
+Therefore, in the present situation, I advise you: Leave these men alone! Let them go! For if their purpose or activity is of human origin, it will fail.
 
 ## Acts 5:39
 
@@ -178,4 +178,4 @@ The apostles left the Sanhedrin, rejoicing that they had been counted worthy to 
 
 ## Acts 5:42
 
-Day after day, in the temple courts and from house to house, they never stopped teaching and proclaiming the good news that Jesus is the Messiah.
+Day after day, in the temple courts and from house to house, they continued teaching and proclaiming the good news that Jesus is the Messiah.

@@ -7,7 +7,7 @@
 Behold, darkness covers the earth and deep darkness the peoples, but the Lord rises upon you, and His glory appears over you.
 
 ## Isaiah 60:3
-Nations will come to your light, and kings to the brightness of your dawn.
+Nations will be drawn to your light, and rulers to the radiance of your dawn.
 
 ## Isaiah 60:4
 “Lift up your eyes and look around; they all gather and come to you. Your sons will come from afar, and your daughters will be carried on the hip.
@@ -34,7 +34,7 @@ Surely the coastlands look to me; the ships of Tarshish are in the lead, bringin
 Your gates will always stand open; they will not be shut day or night, so that people may bring you the wealth of the nations, with their kings led in procession.
 
 ## Isaiah 60:12
-For the nation or kingdom that will not serve you will perish; it will be utterly ruined.
+For any nation or kingdom that does not serve you will perish; it will be completely destroyed.
 
 ## Isaiah 60:13
 The glory of Lebanon will come to you, the juniper, the fir, and the cypress together, to beautify My sanctuary; and I will make the place of My feet glorious.
@@ -46,7 +46,7 @@ The sons of those who oppressed you will come bowing before you; all who despise
 “Although you have been forsaken and hated, with no one passing through, I will make you an everlasting pride, a joy from generation to generation.
 
 ## Isaiah 60:16
-You will drink the milk of nations and be nursed at royal breasts; then you will know that I, the Lord, am your Saviour, your Redeemer, the Mighty One of Jacob.
+You will partake of the abundance of nations and be sustained by royal provisions; then you will know that I, the Lord, am your Saviour, your Redeemer, the Mighty One of Jacob.
 
 ## Isaiah 60:17
 Instead of bronze I will bring gold, and silver in place of iron; instead of wood I will bring bronze, and iron in place of stones. I will make peace your governor and righteousness your overseer.

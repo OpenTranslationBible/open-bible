@@ -50,7 +50,7 @@ The Levites calmed all the people, saying, “Be still, for this is a holy day. 
 
 ## Nehemiah 8:12
 
-Then all the people went away to eat and drink, to send portions of food, and to celebrate with great joy, because they now understood the words that had been made known to them.
+Then all the people departed to eat and drink, to share portions of food, and to celebrate with great joy, because they now understood the words that had been explained to them.
 
 ---
 

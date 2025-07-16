@@ -19,7 +19,7 @@ The Lord is exalted, for he dwells on high; he has filled Zion with justice and 
 He will be the stability of your times, a wealth of salvation, wisdom, and knowledge; the fear of the Lord is the treasure.
 
 ## Isaiah 33:7
-Look, their brave men cry aloud in the streets; the envoys of peace weep bitterly.
+Behold, their courageous men cry out in the streets; the messengers of peace weep bitterly.
 
 ## Isaiah 33:8
 The highways lie waste, travellers have ceased. The covenant is broken, cities are despised, and there is no regard for mankind.
@@ -28,7 +28,7 @@ The highways lie waste, travellers have ceased. The covenant is broken, cities a
 The land mourns and languishes, Lebanon is ashamed and withers; Sharon is like a desert, and Bashan and Carmel shed their leaves.
 
 ## Isaiah 33:10
-“Now I will arise,” says the Lord. “Now I will be exalted; now I will be lifted up.
+“Now I will take action,” says the Lord. “Now I will be exalted; now I will be lifted up.
 
 ## Isaiah 33:11
 You conceive chaff, you give birth to stubble; my breath will consume you like fire.

@@ -25,7 +25,7 @@ Therefore, when Christ came into the world, he said:
 
 ## Hebrews 10:6
 
-with burnt offerings and sin offerings you were not pleased.
+with burnt offerings and sin offerings you found no delight.
 
 ## Hebrews 10:7
 
@@ -47,7 +47,7 @@ And by that will, we have been sanctified through the offering of the body of Je
 
 ## Hebrews 10:11
 
-Day after day every priest stands and performs his religious duties; again and again he offers the same sacrifices, which can never take away sins.
+Day after day every priest stands and performs his religious duties; repeatedly he offers the same sacrifices, which can never take away sins.
 
 ## Hebrews 10:12
 
@@ -55,15 +55,15 @@ But this priest, having offered one sacrifice for sins for all time, sat down at
 
 ## Hebrews 10:13
 
-waiting from that time onward until his enemies are made a footstool for his feet.
+awaiting the time when his enemies are made a footstool for his feet.
 
 ## Hebrews 10:14
 
-For by one offering he has perfected for all time those who are being sanctified.
+For with one offering he has perfected forever those who are being sanctified.
 
 ## Hebrews 10:15
 
-The Holy Spirit also testifies to us about this. First he says:
+The Holy Spirit also bears witness to us regarding this. First he says:
 
 ## Hebrews 10:16
 
@@ -85,7 +85,7 @@ Now where there is forgiveness of these, an offering for sin is no longer necess
 
 ## Hebrews 10:19
 
-Therefore, brothers and sisters, since we have confidence to enter the Most Holy Place by the blood of Jesus,
+Therefore, dear friends, since we have confidence to enter the Most Holy Place by the blood of Jesus,
 
 ## Hebrews 10:20
 
@@ -109,7 +109,7 @@ And let us consider how to spur one another on towards love and good deeds,
 
 ## Hebrews 10:25
 
-not giving up meeting together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.
+not neglecting to meet together, as some are in the habit of doing, but encouraging one another—and all the more as you see the Day approaching.
 
 ## Hebrews 10:26
 
@@ -121,7 +121,7 @@ but only a fearful expectation of judgment and of a raging fire that will consum
 
 ## Hebrews 10:28
 
-Anyone who rejected the law of Moses died without mercy on the testimony of two or three witnesses.
+Anyone who disregarded the law of Moses died without mercy on the testimony of two or three witnesses.
 
 ## Hebrews 10:29
 
@@ -133,7 +133,7 @@ For we know him who said, “Vengeance is mine; I will repay,” and again, “T
 
 ## Hebrews 10:31
 
-It is a dreadful thing to fall into the hands of the living God.
+It is a fearful thing to fall into the hands of the living God.
 
 ## Hebrews 10:32
 
@@ -157,7 +157,7 @@ For you need to persevere so that when you have done the will of God, you may re
 
 ## Hebrews 10:37
 
-For in just a little while, he who is coming will come and will not delay.
+For in just a little while, the one who is coming will come and will not delay.
 
 ## Hebrews 10:38
 
@@ -165,4 +165,4 @@ But my righteous one will live by faith. And I take no pleasure in the one who s
 
 ## Hebrews 10:39
 
-But we are not of those who shrink back and are destroyed, but of those who have faith and preserve their souls.
+But we are not among those who shrink back and are destroyed, but among those who have faith and preserve their souls.

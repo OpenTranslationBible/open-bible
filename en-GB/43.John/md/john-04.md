@@ -40,7 +40,7 @@ The Samaritan woman said to Him, “How can You, a Jew, ask me, a Samaritan woma
 
 ## John 4:10
 
-Jesus answered her, “If you knew the gift of God and who it is that asks you for a drink, you would have asked Him, and He would have given you living water.”
+Jesus replied to her, “If you were aware of the gift of God and who it is that is asking you for a drink, you would have asked Him, and He would have provided you with living water.”
 
 ## John 4:11
 
@@ -66,11 +66,11 @@ The woman said to Him, “Sir, give me this water so that I will not get thirsty
 
 ## John 4:16
 
-He said to her, “Go, call your husband and come back.”
+He instructed her, “Go, call your husband and return.”
 
 ## John 4:17
 
-“I have no husband,” she replied. Jesus said to her, “You are right when you say you have no husband.
+“I have no husband,” she replied. Jesus said to her, “You are correct when you say you have no husband.
 
 ## John 4:18
 
@@ -90,7 +90,7 @@ Jesus said to her, “Believe me, woman, a time is coming when you will worship 
 
 ## John 4:22
 
-You Samaritans worship what you do not know; we worship what we do know, for salvation is from the Jews.
+You Samaritans worship what you do not understand; we worship what we know, for salvation is from the Jews.
 
 ## John 4:23
 
@@ -102,7 +102,7 @@ God is spirit, and His worshippers must worship in spirit and truth.”
 
 ## John 4:25
 
-The woman said, “I know that Messiah” (called Christ) “is coming. When He comes, He will explain everything to us.”
+The woman said, “I know that the Messiah” (called Christ) “is coming. When He comes, He will explain everything to us.”
 
 ## John 4:26
 
@@ -130,7 +130,7 @@ They left the town and made their way towards Him.
 
 ## John 4:31
 
-Meanwhile His disciples urged Him, “Rabbi, eat something.”
+Meanwhile His disciples urged Him, “Rabbi, please eat something.”
 
 ## John 4:32
 
@@ -142,7 +142,7 @@ Then His disciples said to each other, “Could someone have brought Him food?�
 
 ## John 4:34
 
-“My food,” said Jesus, “is to do the will of Him who sent Me and to finish His work.
+“My food,” said Jesus, “is to do the will of the One who sent Me and to complete His work.
 
 ## John 4:35
 
@@ -154,11 +154,11 @@ Even now the one who reaps draws a wage and gathers fruit for eternal life, so t
 
 ## John 4:37
 
-Thus the saying ‘One sows and another reaps’ is true.
+Thus the saying ‘One sows and another reaps’ holds true.
 
 ## John 4:38
 
-I sent you to reap what you have not worked for. Others have done the hard work, and you have reaped the benefits of their labour.”
+I sent you to reap what you have not worked for. Others have done the hard work, and you have benefited from their labour.”
 
 ---
 
@@ -168,7 +168,7 @@ Many of the Samaritans from that town believed in Him because of the woman’s t
 
 ## John 4:40
 
-So when the Samaritans came to Him, they urged Him to stay with them, and He stayed two days.
+So when the Samaritans came to Him, they urged Him to stay with them, and He remained for two days.
 
 ## John 4:41
 
@@ -176,13 +176,13 @@ And because of His words many more became believers.
 
 ## John 4:42
 
-They said to the woman, “We no longer believe just because of what you said; now we have heard for ourselves, and we know that this man really is the Saviour of the world.”
+They said to the woman, “We no longer believe just because of what you said; now we have heard for ourselves, and we know that this man truly is the Saviour of the world.”
 
 ---
 
 ## John 4:43
 
-After the two days He left for Galilee.
+After the two days, He departed for Galilee.
 
 ## John 4:44
 
@@ -200,7 +200,7 @@ Once more He visited Cana in Galilee, where He had turned the water into wine. A
 
 ## John 4:47
 
-When this man heard that Jesus had arrived in Galilee from Judea, he went to Him and begged Him to come and heal his son, who was close to death.
+When this man heard that Jesus had arrived in Galilee from Judea, he went to Him and pleaded with Him to come and heal his son, who was close to death.
 
 ## John 4:48
 
@@ -208,7 +208,7 @@ Then Jesus said to him, “Unless you people see signs and wonders, you will nev
 
 ## John 4:49
 
-The royal official said, “Sir, come down before my child dies.”
+The royal official implored, “Sir, come down before my child dies.”
 
 ## John 4:50
 

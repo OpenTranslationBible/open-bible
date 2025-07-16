@@ -100,4 +100,4 @@ On that day, God subdued Jabin, the king of Canaan, before the Israelites.
 
 ## Judges 4:24
 
-And the hand of the Israelites pressed harder and harder against Jabin, king of Canaan, until they destroyed him.
+The Israelites continued to gain strength against Jabin, king of Canaan, until they overcame him completely.

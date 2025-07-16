@@ -28,7 +28,7 @@ Ebed-Melek went out from the palace and spoke to the king, saying,
 “My lord the king, these men have acted wickedly in all they have done to Jeremiah the prophet. They have thrown him into a cistern, where he will die because of the famine, for there is no more bread in the city.”
 
 ## Jeremiah 38:10
-Then the king commanded Ebed-Melek the Cushite, “Take thirty men from here with you and lift Jeremiah the prophet out of the cistern before he dies.”
+Then the king instructed Ebed-Melek the Cushite, “Take thirty men from here with you and bring Jeremiah the prophet up from the cistern before he perishes.”
 
 ## Jeremiah 38:11
 So Ebed-Melek took the men with him and went to a room under the treasury in the palace. He took some worn-out clothes and rags from there and let them down with ropes to Jeremiah in the cistern.
@@ -37,7 +37,7 @@ So Ebed-Melek took the men with him and went to a room under the treasury in the
 Ebed-Melek the Cushite said to Jeremiah, “Put these worn-out clothes and rags under your arms to pad the ropes.” And Jeremiah did so,
 
 ## Jeremiah 38:13
-and they pulled him up with the ropes and lifted him out of the cistern. And Jeremiah remained in the courtyard of the guard.
+and they pulled him up with the ropes and brought him out of the cistern. Jeremiah remained in the courtyard of the guard.
 
 ## Jeremiah 38:14
 Then King Zedekiah sent for Jeremiah the prophet and had him brought to the third entrance to the house of the Lord. The king said to Jeremiah, “I am going to ask you something; do not hide anything from me.”
@@ -70,7 +70,7 @@ But if you refuse to surrender, this is what the Lord has revealed to me:
 “All your wives and children will be brought out to the Chaldeans. You yourself will not escape from their hands, but will be captured by the king of Babylon; and this city will be burned down.”
 
 ## Jeremiah 38:24
-Then Zedekiah said to Jeremiah, “Do not let anyone know about this conversation, or you may die.
+Then Zedekiah said to Jeremiah, “Do not let anyone know about this conversation, or you may be at risk.
 
 ## Jeremiah 38:25
 If the officials hear that I talked with you and come to you and say, ‘Tell us what you said to the king and what the king said to you; do not hide it from us or we will kill you,’

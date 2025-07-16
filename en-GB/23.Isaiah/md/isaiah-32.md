@@ -7,7 +7,7 @@ Observe, a king will govern with righteousness, and officials will administer ju
 Each will serve as a shelter from the wind and a refuge from the storm, akin to streams of water in a dry land and the shade of a vast rock in a parched region.
 
 ## Isaiah 32:3
-Then the eyes of those who see will not be closed, and the ears of those who hear will pay attention.
+At that time, those who see will have their eyes open, and those who hear will listen attentively.
 
 ## Isaiah 32:4
 The mind of the hasty will comprehend knowledge, and the tongue of the stammerers will speak fluently and clearly.
@@ -34,7 +34,7 @@ In a little more than a year, you who feel secure will be troubled; the grape ha
 Tremble, you complacent women; be troubled, you daughters who feel at ease! Remove your fine garments and put on sackcloth.
 
 ## Isaiah 32:12
-Beat your breasts for the pleasant fields, for the fruitful vines,
+Mourn for the pleasant fields, for the fruitful vines,
 
 ## Isaiah 32:13
 and for the land of my people, overgrown with thorns and briars— yes, mourn for all the joyous houses and the jubilant city.

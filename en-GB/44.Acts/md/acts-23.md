@@ -46,17 +46,17 @@ The dissension became so intense that the commander feared Paul might be torn ap
 
 ## Acts 23:11
 
-The following night, the Lord stood near Paul and said, “Take courage! As you have testified about me in Jerusalem, so you must also testify in Rome.”
+That night, the Lord appeared to Paul and said, “Be encouraged! Just as you have testified about me in Jerusalem, you must also testify in Rome.”
 
 ---
 
 ## Acts 23:12
 
-The next morning, some Jews formed a conspiracy and bound themselves with an oath not to eat or drink until they had killed Paul.
+The following morning, a group of Jews devised a plan and took an oath not to eat or drink until they had killed Paul.
 
 ## Acts 23:13
 
-More than forty men were involved in this plot.
+Over forty men participated in this scheme.
 
 ## Acts 23:14
 

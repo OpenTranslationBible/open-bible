@@ -10,7 +10,7 @@ Take the millstones and grind flour; remove your veil, lift up your skirts, unco
 Your nakedness will be revealed, and your shame will be exposed. I will take vengeance and will spare no one.”
 
 ## Isaiah 47:4
-Our Redeemer, the Lord of Hosts is His name, the Holy One of Israel.
+Our Redeemer, the Lord of Hosts is His name, the Sacred One of Israel.
 
 ## Isaiah 47:5
 “Sit in silence and enter into darkness, Daughter of the Chaldeans; for you will no longer be called the queen of kingdoms.

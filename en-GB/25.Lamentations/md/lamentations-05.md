@@ -49,10 +49,10 @@ The joy of our hearts has vanished; our dancing has turned into mourning.
 The crown has fallen from our head. Woe to us, for we have sinned!
 
 ## Lamentations 5:17
-Because of this our hearts are faint, because of these things our eyes grow dim;
+For this reason, our hearts are weak; and because of these events, our eyes grow dim;
 
 ## Lamentations 5:18
-for Mount Zion, which lies desolate, with jackals prowling over it.
+for Mount Zion is desolate, with wild animals roaming over it.
 
 ## Lamentations 5:19
 You, O Lord, reign forever; your throne endures through all generations.
@@ -61,7 +61,7 @@ You, O Lord, reign forever; your throne endures through all generations.
 Why do you forget us perpetually? Why do you forsake us for so long?
 
 ## Lamentations 5:21
-Restore us to yourself, O Lord, that we may return; renew our days as of old,
+Bring us back to you, O Lord, so we may return; renew our days as they once were,
 
 ## Lamentations 5:22
 unless you have utterly rejected us and are exceedingly angry with us.

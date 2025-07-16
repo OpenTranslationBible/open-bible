@@ -19,16 +19,16 @@ Take the garments and dress Aaron with the tunic, the robe of the ephod, the eph
 Set the turban on his head and attach the holy emblem to the turban.
 
 ## Exodus 29:7
-Take the anointing oil and pour it on his head to anoint him.
+Take the anointing oil and apply it on his head to consecrate him.
 
 ## Exodus 29:8
-Bring his sons and dress them in tunics.
+Bring his sons and clothe them in tunics.
 
 ## Exodus 29:9
 Wrap sashes around Aaron and his sons and fit caps on them. The priesthood shall be theirs by a lasting ordinance. Thus you shall ordain Aaron and his sons.
 
 ## Exodus 29:10
-“Bring the bull to the front of the tent of meeting, and Aaron and his sons shall lay their hands on its head.
+“Lead the bull to the front of the tent of meeting, and Aaron and his sons shall place their hands on its head.
 
 ## Exodus 29:11
 Slaughter the bull before the Lord at the entrance of the tent of meeting.
@@ -43,7 +43,7 @@ Take all the fat that covers the entrails, the long lobe of the liver, and the t
 But burn the bull’s flesh, its hide, and its refuse outside the camp. It is a sin offering.
 
 ## Exodus 29:15
-“Take one of the rams, and Aaron and his sons shall lay their hands on its head.
+“Select one of the rams, and Aaron and his sons shall place their hands on its head.
 
 ## Exodus 29:16
 Slaughter the ram and take its blood and sprinkle it around on the altar.
@@ -55,7 +55,7 @@ Cut the ram into pieces and wash the entrails and legs, putting them with its he
 Then burn the whole ram on the altar. It is a burnt offering to the Lord, a soothing aroma, an offering by fire to the Lord.
 
 ## Exodus 29:19
-“Take the other ram, and Aaron and his sons shall lay their hands on its head.
+“Take the other ram, and Aaron and his sons shall place their hands on its head.
 
 ## Exodus 29:20
 Slaughter the ram, take some of its blood and put it on the lobes of Aaron’s right ear and on the lobes of his sons’ right ears, on the thumbs of their right hands, and on the big toes of their right feet. Sprinkle the rest of the blood around on the altar.
@@ -103,7 +103,7 @@ They shall eat those things by which atonement was made at their ordination and 
 If any of the flesh of ordination or any bread remains until morning, you shall burn the remainder with fire; it shall not be eaten, because it is holy.
 
 ## Exodus 29:35
-“Do for Aaron and his sons everything I have commanded you, taking seven days to ordain them.
+“Carry out for Aaron and his sons everything I have commanded you, taking seven days to ordain them.
 
 ## Exodus 29:36
 Each day offer a bull as a sin offering for atonement, and purify the altar when you make atonement for it, and anoint it to consecrate it.
@@ -130,10 +130,10 @@ It shall be a continual burnt offering throughout your generations at the entran
 I will meet there with the Israelites, and it shall be consecrated by My glory.
 
 ## Exodus 29:44
-I will consecrate the tent of meeting and the altar; I will also consecrate Aaron and his sons to serve as priests to Me.
+I will sanctify the tent of meeting and the altar; I will also set apart Aaron and his sons to serve as priests to Me.
 
 ## Exodus 29:45
-I will dwell among the Israelites and be their God.
+I will reside among the Israelites and be their God.
 
 ## Exodus 29:46
 They shall know that I am the Lord their God, who brought them out of the land of Egypt so that I might dwell among them. I am the Lord their God.

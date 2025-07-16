@@ -58,7 +58,7 @@ This dream I, King Nebuchadnezzar, have seen. Now you, Belteshazzar, declare its
 Then Daniel, whose name is Belteshazzar, was dismayed for a moment, and his thoughts troubled him. The king spoke and said, “Belteshazzar, do not let the dream or its interpretation trouble you.” Belteshazzar answered, “My lord, if only the dream applied to your enemies and its interpretation to your adversaries!
 
 ## Daniel 4:20
-The tree that you saw, which grew and became strong, whose height reached to the heavens and was visible to all the earth,
+The tree you observed, which grew and became strong, reaching the heavens and visible across the earth,
 
 ## Daniel 4:21
 whose leaves were beautiful and its fruit abundant, and in which was food for all, under which the beasts of the field dwelt and upon whose branches the birds of the heavens had their habitation—

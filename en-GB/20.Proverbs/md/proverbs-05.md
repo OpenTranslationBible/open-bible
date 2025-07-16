@@ -14,7 +14,7 @@ For the lips of an adulterous woman drip honey, and her speech is smoother than 
 
 ## Proverbs 5:4
 
-but in the end she is as bitter as wormwood, sharp as a double-edged sword.
+but ultimately she is as bitter as wormwood, as sharp as a double-edged sword.
 
 ## Proverbs 5:5
 
@@ -28,7 +28,7 @@ She does not consider the path of life; her ways are unstable, and she does not 
 
 ## Proverbs 5:7
 
-Now then, my sons, listen to me, and do not turn away from the words of my mouth.
+Therefore, my sons, listen to me and do not turn away from my words.
 
 ## Proverbs 5:8
 
@@ -44,7 +44,7 @@ lest strangers be filled with your wealth, and your hard-earned possessions go t
 
 ## Proverbs 5:11
 
-and at the end of your life you will groan, when your flesh and body are consumed.
+and in the end, you will groan when your flesh and body are spent,
 
 ## Proverbs 5:12
 
@@ -52,7 +52,7 @@ You will say, “How I hated discipline, and my heart rejected correction!
 
 ## Proverbs 5:13
 
-I did not listen to the voice of my teachers, nor incline my ear to my instructors.
+I did not heed the voice of my teachers, nor did I listen to my instructors.
 
 ## Proverbs 5:14
 
@@ -70,7 +70,7 @@ Should your springs overflow into the streets, your streams of water in the publ
 
 ## Proverbs 5:17
 
-Let them be yours alone, and not shared with strangers.
+Let them be yours alone, not to be shared with strangers.
 
 ## Proverbs 5:18
 

@@ -134,7 +134,7 @@ Asher did not drive out the inhabitants of Acco, Sidon, Ahlab, Achzib, Helbah, A
 
 ## Judges 1:32
 
-The Asherites lived among the Canaanite inhabitants of the land because they did not drive them out.
+The Asherites dwelt among the Canaanite inhabitants of the land, as they did not drive them out.
 
 ## Judges 1:33
 

@@ -2,7 +2,7 @@
 
 ## Ezekiel 30:1
 
-The word of the Lord came to me, saying:
+The message from the Lord reached me:
 
 ## Ezekiel 30:2
 
@@ -129,7 +129,7 @@ I the Lord have spoken.
 
 ## Ezekiel 30:20
 
-In the eleventh year, in the first month on the seventh day, the word of the Lord came to me, saying:
+In the eleventh year, in the first month on the seventh day, the message from the Lord reached me:
 
 ## Ezekiel 30:21
 
@@ -145,7 +145,7 @@ I will scatter the Egyptians among the nations and disperse them throughout the 
 
 ## Ezekiel 30:24
 
-I will strengthen the arms of the king of Babylon and put my sword in his hand, but I will break the arms of Pharaoh, and he will groan before him like a mortally wounded man.
+I will empower the king of Babylon and place my sword in his hand, but I will break Pharaoh's arms, and he will groan before him as one who is gravely wounded.
 
 ## Ezekiel 30:25
 

@@ -64,7 +64,7 @@ It will be a sign and witness to the Lord of Hosts in the land of Egypt. When th
 So the Lord will make Himself known to the Egyptians, and on that day they will acknowledge the Lord. They will worship with sacrifices and offerings, and will make vows to the Lord and fulfil them.
 
 ## Isaiah 19:22
-The Lord will strike Egypt with a plague; He will strike them and heal them. They will turn to the Lord, and He will respond to their pleas and heal them.
+The Lord will bring affliction upon Egypt, but He will also bring healing. They will turn to the Lord, and He will respond to their pleas and restore them.
 
 ## Isaiah 19:23
 On that day there will be a highway from Egypt to Assyria. The Assyrians will go to Egypt and the Egyptians to Assyria; the Egyptians and Assyrians will worship together.

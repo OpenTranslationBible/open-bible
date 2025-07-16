@@ -46,7 +46,7 @@ Whoever has an ear, let them hear what the Spirit says to the churches.
 I know your deeds, that you are neither cold nor hot. I wish you were either cold or hot!
 
 ## Revelation 3:16
-So, because you are lukewarm—neither hot nor cold—I am about to spit you out of my mouth.
+Therefore, since you are lukewarm—neither hot nor cold—I am about to reject you.
 
 ## Revelation 3:17
 You say, ‘I am rich; I have acquired wealth and do not need anything.’ But you do not realise that you are wretched, pitiful, poor, blind, and naked.

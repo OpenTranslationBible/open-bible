@@ -37,7 +37,7 @@ I am still as strong today as I was on the day Moses sent me out; my strength no
 Now give me this hill country that the Lord promised me that day. You heard then that the Anakites were there, with large fortified cities, but with the Lord’s help, I will drive them out as He said.”
 
 ## Joshua 14:13
-So Joshua blessed Caleb son of Jephunneh and gave him Hebron as his inheritance.
+Joshua then blessed Caleb son of Jephunneh and granted him Hebron as his inheritance.
 
 ## Joshua 14:14
 Therefore, Hebron has belonged to Caleb son of Jephunneh the Kenizzite ever since, because he followed the Lord, the God of Israel, wholeheartedly.

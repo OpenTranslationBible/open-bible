@@ -16,7 +16,7 @@ Abel also brought an offering—fat portions from the firstborn of his flock. Th
 but He did not regard Cain and his offering. Cain became very angry, and his face fell.
 
 ## Genesis 4:6
-Then the Lord said to Cain, “Why are you angry? Why is your face downcast?
+The Lord asked Cain, “Why are you angry? Why is your face downcast?
 
 ## Genesis 4:7
 If you do what is right, will you not be accepted? But if you do not do what is right, sin is crouching at your door; it desires to have you, but you must master it.”
@@ -31,13 +31,13 @@ Then the Lord said to Cain, “Where is your brother Abel?” He replied, “I d
 The Lord said, “What have you done? Your brother’s blood cries out to me from the ground.
 
 ## Genesis 4:11
-Now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.
+As a result, you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand.
 
 ## Genesis 4:12
 When you work the ground, it will no longer yield its strength to you. You will be a wanderer and a drifter on the earth.”
 
 ## Genesis 4:13
-Cain said to the Lord, “My punishment is more than I can bear!
+Cain said to the Lord, “This punishment is more than I can bear!
 
 ## Genesis 4:14
 Today you have driven me from the land, and I will be hidden from your presence; I will be a wanderer and a drifter on the earth, and whoever finds me will kill me.”
@@ -46,13 +46,13 @@ Today you have driven me from the land, and I will be hidden from your presence;
 But the Lord said to him, “Not so; whoever kills Cain will suffer vengeance seven times over.” And the Lord placed a mark on Cain so that no one who found him would kill him.
 
 ## Genesis 4:16
-So Cain went out from the presence of the Lord and settled in the land of Nod, east of Eden.
+Cain departed from the presence of the Lord and settled in the land of Nod, east of Eden.
 
 ## Genesis 4:17
 Cain was intimate with his wife, and she conceived and gave birth to Enoch. Cain was building a city, and he named it after his son Enoch.
 
 ## Genesis 4:18
-To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.
+Enoch became the father of Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech.
 
 ## Genesis 4:19
 Lamech took two wives: one named Adah and the other Zillah.

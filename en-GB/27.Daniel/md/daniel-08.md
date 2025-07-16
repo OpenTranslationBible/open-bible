@@ -61,7 +61,7 @@ He said, “I will inform you of what will happen in the latter time of wrath, f
 The ram you saw with the two horns represents the kings of Media and Persia.
 
 ## Daniel 8:21
-The shaggy goat is the king of Greece, and the large horn between its eyes is the first king.
+The goat with a prominent horn between its eyes symbolizes the king of Greece, and the notable horn is the first king.
 
 ## Daniel 8:22
 The broken horn and the four horns that arose in its place represent four kingdoms that will emerge from his nation but will not have the same power.

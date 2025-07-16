@@ -6,7 +6,7 @@ On the third day, a wedding took place in Cana of Galilee, and the mother of Jes
 
 ## John 2:2
 
-Jesus and his disciples were also invited to the wedding.
+Jesus, along with his disciples, was invited to the wedding.
 
 ## John 2:3
 
@@ -26,7 +26,7 @@ Nearby stood six stone water jars, used for the Jewish rites of purification, ea
 
 ## John 2:7
 
-Jesus said to the servants, "Fill the jars with water," and they filled them to the brim.
+Jesus instructed the servants, "Fill the jars with water," and they filled them to the brim.
 
 ## John 2:8
 
@@ -48,7 +48,7 @@ This was the first of the signs Jesus performed in Cana of Galilee, revealing hi
 
 ## John 2:12
 
-After this, he went down to Capernaum with his mother, brothers, and disciples, and they stayed there for a few days.
+Following this, he traveled to Capernaum with his mother, brothers, and disciples, and they stayed there for a few days.
 
 ---
 
@@ -58,7 +58,7 @@ As the Jewish Passover approached, Jesus went up to Jerusalem.
 
 ## John 2:14
 
-In the temple courts, he found people selling cattle, sheep, and doves, and others sitting at tables exchanging money.
+In the temple courts, he observed people selling cattle, sheep, and doves, and others sitting at tables exchanging money.
 
 ## John 2:15
 
@@ -80,7 +80,7 @@ The Jews then questioned him, "What sign can you show us to prove your authority
 
 ## John 2:19
 
-Jesus answered, "Destroy this temple, and in three days I will raise it up."
+Jesus responded, "Destroy this temple, and in three days I will raise it up."
 
 ## John 2:20
 

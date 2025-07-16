@@ -96,7 +96,7 @@ The servant returned and reported this to his master. The owner of the house bec
 
 ## Luke 14:23
 
-Then the master told his servant, ‘Go out to the roads and country lanes and compel them to come in, so that my house will be full.
+Then the master instructed his servant, ‘Go out to the roads and country lanes and encourage them to come in, so that my house will be full.
 
 ## Luke 14:24
 
@@ -128,7 +128,7 @@ For if you lay the foundation and are unable to finish it, everyone who sees it 
 
 ## Luke 14:30
 
-saying, ‘This person began to build and was not able to finish.’
+saying, ‘This person began to build and could not complete it.’
 
 ## Luke 14:31
 
@@ -140,14 +140,14 @@ If he is not able, he will send a delegation while the other is still far off an
 
 ## Luke 14:33
 
-In the same way, those of you who do not give up everything you have cannot be My disciples.
+In the same way, those of you who do not relinquish all you possess cannot be My disciples.
 
 ---
 
 ## Luke 14:34
 
-“Salt is good, but if it loses its saltiness, how can it be made salty again?
+“Salt is good, but if it loses its flavour, how can it be made salty again?
 
 ## Luke 14:35
 
-It is fit neither for the soil nor for the manure heap; it is thrown out. Whoever has ears to hear, let them hear.”
+It is fit neither for the soil nor for the manure heap; it is thrown out. Let those who have ears to hear, listen.”

@@ -43,19 +43,19 @@ By night I went out through the Valley Gate towards the Dragon’s Spring and th
 Then I moved on towards the Fountain Gate and the King’s Pool, but there was no room for my mount to pass through.
 
 ## Nehemiah 2:15
-So I went up the valley by night, examining the wall. Finally, I turned back and re-entered through the Valley Gate.
+So I continued up the valley during the night, inspecting the wall. Finally, I returned and re-entered through the Valley Gate.
 
 ## Nehemiah 2:16
 The officials did not know where I had gone or what I was doing, because as yet I had said nothing to the Jews, the priests, the nobles, the officials, or the rest who were to do the work.
 
 ## Nehemiah 2:17
-Then I said to them, “You see the trouble we are in: Jerusalem lies in ruins, and its gates have been burned with fire. Come, let us rebuild the wall of Jerusalem, and we will no longer be in disgrace.”
+Then I said to them, “You can see the situation we are in: Jerusalem is in ruins, and its gates have been burned. Come, let us rebuild the wall of Jerusalem, so we will no longer be in disgrace.”
 
 ## Nehemiah 2:18
 I also told them about the gracious hand of my God upon me and what the king had said to me. They replied, “Let us arise and build.” So they set their hands to this good work.
 
 ## Nehemiah 2:19
-But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard about it, they mocked and ridiculed us. “What is this you are doing?” they asked. “Are you rebelling against the king?”
+But when Sanballat the Horonite, Tobiah the Ammonite official, and Geshem the Arab heard about it, they mocked and ridiculed us. “What are you doing?” they asked. “Are you rebelling against the king?”
 
 ## Nehemiah 2:20
 I answered them, saying, “The God of heaven will give us success. We, his servants, will start rebuilding, but as for you, you have no share, right, or historic claim in Jerusalem.”

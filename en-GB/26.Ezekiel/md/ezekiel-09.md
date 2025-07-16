@@ -38,8 +38,8 @@ Then He said to me, “The guilt of the house of Israel and Judah is exceedingly
 
 ## Ezekiel 9:10
 
-But as for Me, My eye will have no pity nor will I spare, but I will bring their conduct upon their heads.”
+Yet I will not show pity nor will I spare them, for I will bring their actions upon their own heads.”
 
 ## Ezekiel 9:11
 
-Then behold, the man clothed in linen, at whose waist was the scribe’s kit, reported, saying, “I have done just as You have commanded me.”
+Then behold, the man clothed in linen, with the scribe’s kit at his waist, reported, saying, “I have carried out all that You commanded me.”

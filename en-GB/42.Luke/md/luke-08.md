@@ -53,7 +53,7 @@ He replied, “To you it has been given to know the secrets of the kingdom of Go
 
 ## Luke 8:12
 
-Those along the path are the ones who hear, and then the devil comes and takes away the word from their hearts, so that they may not believe and be saved.
+Those along the path are those who hear, and then the adversary comes and removes the word from their hearts, preventing them from believing and being saved.
 
 ## Luke 8:13
 
@@ -61,11 +61,11 @@ Those on rocky ground are the ones who receive the word with joy when they hear 
 
 ## Luke 8:14
 
-The seed that fell among thorns stands for those who hear, but as they go on their way, they are choked by life’s worries, riches, and pleasures, and they do not mature.
+The seed that fell among thorns represents those who hear, but as they continue on their way, they are overwhelmed by life’s worries, riches, and pleasures, and they do not mature.
 
 ## Luke 8:15
 
-But the seed on good soil stands for those with a noble and good heart, who hear the word, retain it, and by persevering produce a crop.
+But the seed on good soil represents those with a noble and good heart, who hear the word, retain it, and through perseverance produce a crop.
 
 ---
 
@@ -79,7 +79,7 @@ For there is nothing hidden that will not be disclosed, and nothing concealed th
 
 ## Luke 8:18
 
-Therefore, consider carefully how you listen. Whoever has will be given more; whoever does not have, even what they think they have will be taken from them.”
+Therefore, be mindful of how you listen. Whoever has will be given more; whoever does not have, even what they think they possess will be taken from them.”
 
 ---
 
@@ -99,7 +99,7 @@ He replied, “My mother and brothers are those who hear God’s word and do it.
 
 ## Luke 8:22
 
-One day Jesus said to his disciples, “Let us go over to the other side of the lake.” So they got into a boat and set out.
+On a certain day, Jesus said to his disciples, “Let us cross to the other side of the lake.” So they got into a boat and set out.
 
 ## Luke 8:23
 
@@ -117,31 +117,31 @@ The disciples went and woke him, saying, “Master, Master, we’re going to dro
 
 ## Luke 8:26
 
-They sailed to the region of the Gerasenes, which is across the lake from Galilee.
+They traveled to the region of the Gerasenes, which is across the lake from Galilee.
 
 ## Luke 8:27
 
-When Jesus stepped ashore, he was met by a demon-possessed man from the town. For a long time, this man had not worn clothes or lived in a house, but had lived in the tombs.
+When Jesus stepped ashore, he was met by a man possessed by demons from the town. For a long time, this man had not worn clothes or lived in a house, but had lived in the tombs.
 
 ## Luke 8:28
 
-When he saw Jesus, he cried out and fell at his feet, shouting at the top of his voice, “What do you want with me, Jesus, Son of the Most High God? I beg you, don’t torture me!”
+When he saw Jesus, he cried out and fell at his feet, shouting loudly, “What do you want with me, Jesus, Son of the Most High God? I beg you, don’t torment me!”
 
 ## Luke 8:29
 
-For Jesus had commanded the impure spirit to come out of the man. Many times it had seized him, and though he was chained hand and foot and kept under guard, he had broken his chains and had been driven by the demon into solitary places.
+For Jesus had commanded the unclean spirit to come out of the man. Many times it had seized him, and though he was chained hand and foot and kept under guard, he had broken his chains and had been driven by the demon into solitary places.
 
 ## Luke 8:30
 
-Jesus asked him, “What is your name?” “Legion,” he replied, because many demons had gone into him.
+Jesus asked him, “What is your name?” “Legion,” he replied, because many demons had entered him.
 
 ## Luke 8:31
 
-And they begged Jesus repeatedly not to order them to go into the Abyss.
+And they pleaded with Jesus repeatedly not to send them into the Abyss.
 
 ## Luke 8:32
 
-A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into the pigs, and he gave them permission.
+A large herd of pigs was feeding there on the hillside. The demons begged Jesus to let them go into the pigs, and he allowed them.
 
 ## Luke 8:33
 
@@ -159,11 +159,11 @@ and the people went out to see what had happened. When they came to Jesus, they 
 
 ## Luke 8:36
 
-Those who had seen it told the people how the demon-possessed man had been cured.
+Those who had witnessed it told the people how the man possessed by demons had been healed.
 
 ## Luke 8:37
 
-Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overcome with fear. So he got into the boat and left.
+Then all the people of the region of the Gerasenes asked Jesus to leave them, because they were overwhelmed with fear. So he got into the boat and left.
 
 ## Luke 8:38
 
@@ -171,7 +171,7 @@ The man from whom the demons had gone out begged to go with him, but Jesus sent 
 
 ## Luke 8:39
 
-“Return home and tell how much God has done for you.” So the man went away and told all over town how much Jesus had done for him.
+“Return home and tell how much God has done for you.” So the man went away and proclaimed throughout the town how much Jesus had done for him.
 
 ---
 
@@ -189,7 +189,7 @@ because his only daughter, a girl of about twelve, was dying. As Jesus was on hi
 
 ## Luke 8:43
 
-And a woman was there who had been subject to bleeding for twelve years, but no one could heal her.
+And a woman was there who had been suffering from bleeding for twelve years, but no one could heal her.
 
 ## Luke 8:44
 
@@ -205,7 +205,7 @@ But Jesus said, “Someone touched me; I know that power has gone out from me.�
 
 ## Luke 8:47
 
-Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she told why she had touched him and how she had been instantly healed.
+Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she explained why she had touched him and how she had been instantly healed.
 
 ## Luke 8:48
 
@@ -215,11 +215,11 @@ Then he said to her, “Daughter, your faith has healed you. Go in peace.”
 
 ## Luke 8:49
 
-While Jesus was still speaking, someone came from the house of Jairus, the synagogue leader. “Your daughter is dead,” he said. “Don’t bother the teacher anymore.”
+While Jesus was still speaking, someone came from the house of Jairus, the synagogue leader. “Your daughter is dead,” he said. “Don’t trouble the teacher anymore.”
 
 ## Luke 8:50
 
-Hearing this, Jesus said to Jairus, “Don’t be afraid; just believe, and she will be healed.”
+Hearing this, Jesus said to Jairus, “Do not fear; just believe, and she will be healed.”
 
 ## Luke 8:51
 
@@ -243,4 +243,4 @@ Her spirit returned, and at once she stood up. Then Jesus told them to give her 
 
 ## Luke 8:56
 
-Her parents were astonished, but he ordered them not to tell anyone what had happened.
+Her parents were astonished, but he instructed them not to tell anyone what had happened.

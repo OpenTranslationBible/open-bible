@@ -10,7 +10,7 @@ and said to them, “Go into the village ahead of you, and as you enter it, you 
 
 ## Mark 11:3
 
-If anyone asks you, ‘Why are you doing this?’ say, ‘The Lord needs it and will send it back here shortly.’”
+If anyone questions you about this, say, ‘The Lord needs it and will return it soon.’”
 
 ## Mark 11:4
 
@@ -52,7 +52,7 @@ Jesus entered Jerusalem and went into the temple courts. After looking around at
 
 ## Mark 11:12
 
-The next day, as they were leaving Bethany, Jesus was hungry.
+The following day, as they were leaving Bethany, Jesus felt hungry.
 
 ## Mark 11:13
 
@@ -66,11 +66,11 @@ He said to the tree, “May no one ever eat fruit from you again.” And his dis
 
 ## Mark 11:15
 
-On reaching Jerusalem, Jesus entered the temple courts and began driving out those who were buying and selling there. He overturned the tables of the money changers and the benches of those selling doves,
+Upon arriving in Jerusalem, Jesus entered the temple courts and began to drive out those who were buying and selling. He overturned the tables of the money changers and the benches of those selling doves,
 
 ## Mark 11:16
 
-and would not allow anyone to carry merchandise through the temple courts.
+and he did not allow anyone to carry goods through the temple courts.
 
 ## Mark 11:17
 
@@ -78,11 +78,11 @@ As he taught them, he said, “Is it not written: ‘My house will be called a h
 
 ## Mark 11:18
 
-The chief priests and the teachers of the law heard this and began looking for a way to kill him, for they feared him, because the whole crowd was amazed at his teaching.
+The chief priests and the teachers of the law heard this and began seeking a way to eliminate him, for they feared him, because the whole crowd was amazed at his teaching.
 
 ## Mark 11:19
 
-When evening came, they left the city.
+When evening arrived, they left the city.
 
 ---
 
@@ -92,7 +92,7 @@ In the morning, as they went along, they saw the fig tree withered from the root
 
 ## Mark 11:21
 
-Peter remembered and said to Jesus, “Rabbi, look! The fig tree you cursed has withered!”
+Peter remembered and said to Jesus, “Rabbi, look! The fig tree you spoke against has withered!”
 
 ## Mark 11:22
 
@@ -104,11 +104,11 @@ Peter remembered and said to Jesus, “Rabbi, look! The fig tree you cursed has 
 
 ## Mark 11:24
 
-Therefore I tell you, whatever you ask for in prayer, believe that you have received it, and it will be yours.
+Therefore I tell you, whatever you request in prayer, believe that you have received it, and it will be yours.
 
 ## Mark 11:25
 
-And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may forgive you your sins.”
+And when you stand praying, if you hold anything against anyone, forgive them, so that your Father in heaven may also forgive your sins.”
 
 ## Mark 11:26
 
@@ -130,7 +130,7 @@ Jesus replied, “I will ask you one question. Answer me, and I will tell you by
 
 ## Mark 11:30
 
-John’s baptism—was it from heaven, or of human origin? Tell me!”
+Was John's baptism from heaven, or of human origin? Tell me!”
 
 ## Mark 11:31
 
@@ -138,7 +138,7 @@ They discussed it among themselves and said, “If we say, ‘From heaven,’ he
 
 ## Mark 11:32
 
-But if we say, ‘Of human origin’ …” They feared the people, for everyone held that John really was a prophet.
+But if we say, ‘Of human origin’…” They were afraid of the people, for everyone was convinced that John truly was a prophet.
 
 ## Mark 11:33
 

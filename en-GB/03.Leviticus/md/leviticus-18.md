@@ -4,7 +4,7 @@
 The Lord spoke to Moses, saying,
 
 ## Leviticus 18:2
-“Speak to the Israelites and tell them: ‘I am the Lord your God.
+“Address the Israelites and inform them: ‘I am the Lord your God.
 
 ## Leviticus 18:3
 You must not act as they do in the land of Egypt, where you once lived, nor should you behave as they do in the land of Canaan, where I am bringing you. Do not follow their customs.
@@ -31,7 +31,7 @@ The nakedness of your sister, whether your father’s daughter or your mother’
 You shall not uncover the nakedness of your son’s daughter or your daughter’s daughter, for their nakedness is your own.
 
 ## Leviticus 18:11
-The nakedness of your father’s wife’s daughter, born to your father, she is your sister; you shall not uncover her nakedness.
+The nakedness of your father's wife's daughter, who is your sister, you shall not uncover.
 
 ## Leviticus 18:12
 You shall not uncover the nakedness of your father’s sister; she is your father’s close relative.
@@ -40,7 +40,7 @@ You shall not uncover the nakedness of your father’s sister; she is your fathe
 You shall not uncover the nakedness of your mother’s sister, for she is your mother’s close relative.
 
 ## Leviticus 18:14
-You shall not uncover the nakedness of your father’s brother by approaching his wife; she is your aunt.
+You shall not uncover the nakedness of your father’s brother’s wife; she is your aunt.
 
 ## Leviticus 18:15
 You shall not uncover the nakedness of your daughter-in-law. She is your son’s wife; you shall not uncover her nakedness.
@@ -64,7 +64,7 @@ You shall not have sexual relations with your neighbour’s wife, to become defi
 You shall not give any of your children to be sacrificed to Molech, nor shall you profane the name of your God. I am the Lord.
 
 ## Leviticus 18:22
-You shall not lie with a male as one lies with a female; it is an abomination.
+You shall not engage in sexual relations with a male as one does with a female; it is an abomination.
 
 ## Leviticus 18:23
 You shall not have sexual relations with any animal to become defiled with it, nor shall any woman present herself to an animal to mate with it; it is a perversion.

@@ -54,7 +54,7 @@ The hired hand, who is not the shepherd and does not own the sheep, sees the wol
 
 ## John 10:13
 
-He flees because he is a hired hand and cares nothing for the sheep.
+He runs away because he is a hired hand and has no concern for the sheep.
 
 ## John 10:14
 
@@ -70,7 +70,7 @@ I have other sheep that are not of this fold. I must bring them also, and they w
 
 ## John 10:17
 
-For this reason, the Father loves me, because I lay down my life so that I may take it back.
+This is why the Father loves me, because I lay down my life so that I may take it back.
 
 ## John 10:18
 
@@ -110,7 +110,7 @@ Jesus answered, “I told you, and you do not believe. The works I do in my Fath
 
 ## John 10:26
 
-but you do not believe because you are not among my sheep.
+but you do not believe because you are not part of my flock.
 
 ## John 10:27
 
@@ -118,11 +118,11 @@ My sheep hear my voice; I know them, and they follow me.
 
 ## John 10:28
 
-I give them eternal life, and they shall never perish; no one will snatch them out of my hand.
+I give them eternal life, and they shall never perish; no one will take them from my hand.
 
 ## John 10:29
 
-My Father, who has given them to me, is greater than all; no one can snatch them out of the Father’s hand.
+My Father, who has given them to me, is greater than all; no one can take them from the Father’s hand.
 
 ## John 10:30
 
@@ -148,7 +148,7 @@ Jesus replied, “Is it not written in your Law, ‘I have said you are “gods�
 
 ## John 10:35
 
-If he called them ‘gods,’ to whom the word of God came—and Scripture cannot be broken—
+If he called them ‘gods,’ to whom the word of God came—and Scripture cannot be disregarded—
 
 ## John 10:36
 
@@ -164,7 +164,7 @@ But if I do them, even if you do not believe me, believe the works, so that you 
 
 ## John 10:39
 
-Again they tried to seize him, but he escaped their grasp.
+Once more they tried to seize him, but he slipped away from their grasp.
 
 ---
 

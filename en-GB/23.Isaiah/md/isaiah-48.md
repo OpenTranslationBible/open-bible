@@ -34,7 +34,7 @@ Behold, I have refined you, but not as silver; I have tested you in the furnace 
 For My own sake, for My own sake, I do this. How can My name be profaned? I will not give My glory to another.
 
 ## Isaiah 48:12
-“Listen to Me, Jacob, Israel whom I have called: I am He; I am the first, and I am the last.
+“Pay attention to Me, Jacob, Israel whom I have called: I am the One; I am the first, and I am the last.
 
 ## Isaiah 48:13
 My own hand laid the foundations of the earth, and My right hand spread out the heavens; when I call to them, they stand up together.
@@ -61,7 +61,7 @@ Your descendants would have been like the sand, your offspring like its numberle
 Leave Babylon, flee from the Chaldeans! Announce this with shouts of joy and proclaim it. Send it out to the ends of the earth; say, “The Lord has redeemed His servant Jacob.”
 
 ## Isaiah 48:21
-They did not thirst when He led them through the deserts; He made water flow for them from the rock; He split the rock and water gushed out.
+They did not suffer thirst when He guided them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.
 
 ## Isaiah 48:22
 “There is no peace for the wicked,” says the Lord.

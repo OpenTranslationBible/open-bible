@@ -2,7 +2,7 @@
 
 ## Nehemiah 1:1
 
-The words of Nehemiah, son of Hakaliah. In the month of Kislev, in the twentieth year, while I was in the citadel of Susa,
+These are the words of Nehemiah, son of Hakaliah. During the month of Kislev, in the twentieth year, while I was in the citadel of Susa,
 
 ## Nehemiah 1:2
 
@@ -24,7 +24,7 @@ I said, “O Lord, God of heaven, the great and awesome God, who keeps His coven
 
 ## Nehemiah 1:6
 
-let Your ear be attentive and Your eyes open to hear the prayer Your servant is praying before You day and night for Your servants, the people of Israel. I confess the sins we Israelites, including myself and my father's family, have committed against You.
+please listen closely and look upon the prayer Your servant is offering before You day and night for Your servants, the people of Israel. I confess the sins we Israelites, including myself and my father's family, have committed against You.
 
 ## Nehemiah 1:7
 
@@ -40,7 +40,7 @@ but if you return to Me and obey My commands, then even if your exiled people ar
 
 ## Nehemiah 1:10
 
-They are Your servants and Your people, whom You redeemed by Your great strength and Your mighty hand.
+They are Your servants and Your people, whom You have redeemed by Your great strength and Your mighty hand.
 
 ## Nehemiah 1:11
 

@@ -7,7 +7,7 @@ This is what the Lord says: “Where is your mother's certificate of divorce by 
 Why was there no one when I came? When I called, why did no one answer? Is my arm too short to redeem? Do I lack the power to rescue? By my rebuke, I dry up the sea, turning rivers into a desert; their fish rot for lack of water and perish from thirst.
 
 ## Isaiah 50:3
-I clothe the heavens with darkness and make sackcloth their covering.”
+I cover the heavens with darkness and use sackcloth as their covering.”
 
 ## Isaiah 50:4
 The Sovereign Lord has given me the tongue of the learned, so that I may know how to sustain the weary with a word. He awakens me morning by morning, awakens my ear to listen as one being taught.

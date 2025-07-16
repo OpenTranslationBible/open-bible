@@ -44,7 +44,7 @@ always in my prayers, asking that now at last by God’s will I may succeed in c
 
 ## Romans 1:11
 
-I long to see you so that I may impart to you some spiritual gift to make you strong—
+I am eager to see you so that I may share with you some spiritual gift to strengthen you—
 
 ## Romans 1:12
 
@@ -56,7 +56,7 @@ I do not want you to be unaware, brothers and sisters, that I have often planned
 
 ## Romans 1:14
 
-I am obligated both to Greeks and non-Greeks, both to the wise and the foolish.
+I have a duty to both Greeks and non-Greeks, both to the wise and the foolish.
 
 ## Romans 1:15
 
@@ -84,11 +84,11 @@ because what is known about God is plain to them, for God has made it plain to t
 
 ## Romans 1:20
 
-For since the creation of the world God’s invisible qualities—his eternal power and divine nature—have been clearly seen, being understood from what has been made, so that people are without excuse.
+For since the creation of the world, God’s invisible qualities—his eternal power and divine nature—have been clearly perceived, being understood from what has been made, so that people are without excuse.
 
 ## Romans 1:21
 
-For although they knew God, they neither glorified him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.
+For although they knew God, they neither honored him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.
 
 ## Romans 1:22
 
@@ -134,8 +134,8 @@ slanderers, God-haters, insolent, arrogant, and boastful; they invent ways of do
 
 ## Romans 1:31
 
-they have no understanding, no fidelity, no love, no mercy.
+they lack understanding, fidelity, love, and mercy.
 
 ## Romans 1:32
 
-Although they know God’s righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practise them.
+Although they know God’s righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.

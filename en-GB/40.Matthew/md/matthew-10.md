@@ -6,7 +6,7 @@ Jesus called together his twelve disciples and granted them authority over uncle
 
 ## Matthew 10:2
 
-These are the names of the twelve apostles: first, Simon, who is called Peter, and his brother Andrew; James, son of Zebedee, and his brother John;
+These are the twelve apostles: first, Simon, known as Peter, and his brother Andrew; James, son of Zebedee, and his brother John;
 
 ## Matthew 10:3
 
@@ -14,7 +14,7 @@ Philip and Bartholomew; Thomas and Matthew the tax collector; James, son of Alph
 
 ## Matthew 10:4
 
-Simon the Zealot, and Judas Iscariot, who also betrayed him.
+Simon the Zealot, and Judas Iscariot, who later betrayed him.
 
 ---
 
@@ -50,7 +50,7 @@ Whatever town or village you enter, search for someone worthy and stay at their 
 
 ## Matthew 10:12
 
-As you enter the house, give it your greeting.
+As you enter the house, offer your greeting.
 
 ## Matthew 10:13
 
@@ -84,13 +84,13 @@ But when they arrest you, do not worry about how or what you should say; for wha
 
 ## Matthew 10:20
 
-For it will not be you speaking, but the Spirit of your Father speaking through you.
+For it will not be you speaking, but the Spirit of your Father will speak through you.
 
 ---
 
 ## Matthew 10:21
 
-“Brother will betray brother to death, and a father his child; children will rise up against parents and have them put to death.
+“Brother will turn against brother to death, and a father against his child; children will rise up against parents and have them put to death.
 
 ## Matthew 10:22
 
@@ -98,7 +98,7 @@ You will be hated by everyone because of my name, but the one who stands firm to
 
 ## Matthew 10:23
 
-When you are persecuted in one place, flee to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.
+When you face persecution in one place, move to another. Truly I tell you, you will not finish going through the towns of Israel before the Son of Man comes.
 
 ---
 
@@ -126,25 +126,25 @@ Do not be afraid of those who kill the body but cannot kill the soul. Rather, fe
 
 ## Matthew 10:29
 
-Are not two sparrows sold for a penny? Yet not one of them will fall to the ground apart from your Father.
+Are not two sparrows sold for a small coin? Yet not one of them will fall to the ground apart from your Father.
 
 ## Matthew 10:30
 
-And even the very hairs of your head are all numbered.
+And even the very hairs of your head are all counted.
 
 ## Matthew 10:31
 
-So do not be afraid; you are worth more than many sparrows.
+So do not be afraid; you are more valuable than many sparrows.
 
 ---
 
 ## Matthew 10:32
 
-“Whoever acknowledges me before others, I will also acknowledge before my Father in heaven.
+“Whoever acknowledges me before others, I will acknowledge before my Father in heaven.
 
 ## Matthew 10:33
 
-But whoever disowns me before others, I will disown before my Father in heaven.
+But whoever denies me before others, I will deny before my Father in heaven.
 
 ---
 
@@ -176,7 +176,7 @@ Whoever does not take up their cross and follow me is not worthy of me.
 
 ## Matthew 10:39
 
-Whoever finds their life will lose it, and whoever loses their life for my sake will find it.
+Whoever seeks to preserve their life will lose it, and whoever loses their life for my sake will find it.
 
 ---
 
@@ -186,7 +186,7 @@ Whoever finds their life will lose it, and whoever loses their life for my sake 
 
 ## Matthew 10:41
 
-Whoever welcomes a prophet as a prophet will receive a prophet’s reward, and whoever welcomes a righteous person as a righteous person will receive a righteous person’s reward.
+Whoever receives a prophet because they are a prophet will receive a prophet’s reward, and whoever receives a righteous person because they are righteous will receive a righteous person’s reward.
 
 ## Matthew 10:42
 

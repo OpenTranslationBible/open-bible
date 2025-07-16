@@ -66,7 +66,7 @@ For if you remain silent at this time, relief and deliverance for the Jews will 
 
 ## Esther 4:15
 
-Then Esther sent this reply to Mordecai:
+Esther then replied to Mordecai:
 
 ## Esther 4:16
 

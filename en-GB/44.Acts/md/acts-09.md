@@ -56,11 +56,11 @@ Ananias replied, “Lord, I have heard from many about this man, how much harm h
 
 ## Acts 9:14
 
-And he has come here with authority from the chief priests to arrest all who call on your name.”
+And he has come here with the authority from the chief priests to capture all who call upon your name.”
 
 ## Acts 9:15
 
-But the Lord said to him, “Go, for he is a chosen instrument of mine to carry my name before the Gentiles, and kings, and the sons of Israel.
+But the Lord said to him, “Go, for he is a chosen instrument of mine to bring my name to the Gentiles, to kings, and to the people of Israel;
 
 ## Acts 9:16
 
@@ -82,7 +82,7 @@ and after taking food, he was strengthened. Saul spent several days with the dis
 
 ## Acts 9:20
 
-Immediately, he began to proclaim Jesus in the synagogues, saying, “He is the Son of God.”
+Without delay, he began to proclaim Jesus in the synagogues, declaring, “He is the Son of God.”
 
 ---
 
@@ -124,17 +124,17 @@ So Saul stayed with them, moving about freely in Jerusalem, speaking boldly in t
 
 ## Acts 9:29
 
-He conversed and debated with the Hellenistic Jews, but they attempted to kill him.
+He conversed and debated with the Hellenistic Jews, but they sought to kill him.
 
 ## Acts 9:30
 
-When the believers learned of this, they took him down to Caesarea and sent him off to Tarsus.
+When the believers learned of this, they took him down to Caesarea and sent him to Tarsus.
 
 ---
 
 ## Acts 9:31
 
-Then the church throughout Judea, Galilee, and Samaria enjoyed a time of peace and was strengthened. Living in the fear of the Lord and encouraged by the Holy Spirit, it increased in numbers.
+Then the church throughout Judea, Galilee, and Samaria enjoyed a time of peace and was strengthened. Living in reverence for the Lord and encouraged by the Holy Spirit, it grew in numbers.
 
 ---
 
@@ -162,7 +162,7 @@ In Joppa there was a disciple named Tabitha (which in Greek is Dorcas); she was 
 
 ## Acts 9:37
 
-About that time she became ill and died, and her body was washed and placed in an upstairs room.
+Around that time she became ill and died, and her body was washed and placed in an upstairs room.
 
 ## Acts 9:38
 
@@ -182,7 +182,7 @@ He took her by the hand and helped her to her feet. Then he called the saints an
 
 ## Acts 9:42
 
-This became known all over Joppa, and many believed in the Lord.
+This became known throughout Joppa, and many came to believe in the Lord.
 
 ## Acts 9:43
 

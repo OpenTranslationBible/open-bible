@@ -31,7 +31,7 @@ it was eight cubits deep, and its jambs were two cubits thick. The portico of th
 The east gate had three guardrooms on each side; they all had the same measurements, and the faces of the projecting walls on each side had the same measurements.
 
 ## Ezekiel 40:11
-Then he measured the width of the entrance of the gateway; it was ten cubits, and its length was thirteen cubits.
+He measured the width of the gateway entrance; it was ten cubits, and its length was thirteen cubits.
 
 ## Ezekiel 40:12
 In front of each guardroom was a barrier wall one cubit high, and the guardrooms were six cubits square.
@@ -67,7 +67,7 @@ Its guardrooms—three on each side—its side pillars and its portico had the s
 Its windows, its portico, and its palm tree decorations had the same measurements as those of the gate facing east. Seven steps led up to it, with its portico in front of them.
 
 ## Ezekiel 40:23
-There was a gate to the inner court facing the north gate, just as there was on the east. He measured from one gate to the opposite one; it was a hundred cubits.
+A gate to the inner court faced the north gate, similar to the one on the east. He measured from one gate to the opposite one; it was a hundred cubits.
 
 ## Ezekiel 40:24
 Then he led me to the south side, and behold, there was a gate facing south. He measured its side pillars and its portico, and they had the same measurements as the others.
@@ -79,7 +79,7 @@ The gateway and its portico had windows all around, like the other windows. It w
 There were seven steps leading up to it, and its portico was in front of them; it had palm tree decorations on its side pillars, one on each side.
 
 ## Ezekiel 40:27
-The inner court also had a gate facing south, and he measured from this gate to the outer gate on the south side; it was a hundred cubits.
+The inner court also had a gate facing south, and he measured from this gate to the outer gate on the south side; the distance was a hundred cubits.
 
 ## Ezekiel 40:28
 Then he brought me to the inner court through the south gate, and he measured the south gate; it had the same measurements as the others.
@@ -88,13 +88,13 @@ Then he brought me to the inner court through the south gate, and he measured th
 Its guardrooms, its side pillars, and its portico had the same measurements as the others. The gateway and its portico had windows all around. It was fifty cubits long and twenty-five cubits wide.
 
 ## Ezekiel 40:30
-The porticoes of the gateways around the inner court were twenty-five cubits wide and five cubits deep.
+The porticoes of the gateways around the inner court measured twenty-five cubits wide and five cubits deep.
 
 ## Ezekiel 40:31
 Its portico faced the outer court; palm trees decorated its side pillars, and eight steps led up to it.
 
 ## Ezekiel 40:32
-Then he brought me to the inner court on the east side, and he measured the gateway; it had the same measurements as the others.
+Then he brought me to the inner court on the east side, and he measured the gateway; it had the same dimensions as the others.
 
 ## Ezekiel 40:33
 Its guardrooms, its side pillars, and its portico had the same measurements as the others. The gateway and its portico had windows all around. It was fifty cubits long and twenty-five cubits wide.
@@ -103,7 +103,7 @@ Its guardrooms, its side pillars, and its portico had the same measurements as t
 Its portico faced the outer court; palm trees decorated the side pillars on each side, and eight steps led up to it.
 
 ## Ezekiel 40:35
-Then he brought me to the north gate and measured it. It had the same measurements as the others,
+Then he brought me to the north gate and measured it. It had the same dimensions as the others,
 
 ## Ezekiel 40:36
 as did its guardrooms, its side pillars, and its portico, and it had windows all around. It was fifty cubits long and twenty-five cubits wide.
@@ -115,7 +115,7 @@ Its portico faced the outer court; palm trees decorated the side pillars on each
 A chamber with a doorway was by the side pillars at the gates, where they rinsed the burnt offerings.
 
 ## Ezekiel 40:39
-In the portico of the gateway were two tables on each side, on which the burnt offerings, sin offerings, and guilt offerings were slaughtered.
+In the portico of the gateway were two tables on each side, used for the slaughter of burnt offerings, sin offerings, and guilt offerings.
 
 ## Ezekiel 40:40
 On the outer side, as one went up to the entrance of the north gateway, were two tables, and on the other side of the portico of the gate were two tables.
@@ -124,7 +124,7 @@ On the outer side, as one went up to the entrance of the north gateway, were two
 So there were four tables on one side of the gateway and four on the other—eight tables in total—on which the sacrifices were slaughtered.
 
 ## Ezekiel 40:42
-There were also four tables of dressed stone for the burnt offerings, each a cubit and a half long, a cubit and a half wide, and a cubit high. On them were placed the utensils for slaughtering the burnt offerings and the other sacrifices.
+There were also four tables of dressed stone for the burnt offerings, each a cubit and a half long, a cubit and a half wide, and a cubit high. On them were placed the utensils for preparing the burnt offerings and the other sacrifices.
 
 ## Ezekiel 40:43
 The double-pronged hooks, each a handbreadth long, were attached to the wall all around. The tables were for the flesh of the offerings.

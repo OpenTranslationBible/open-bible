@@ -10,7 +10,7 @@ Pilate questioned Him, “Are you the King of the Jews?” Jesus replied, “You
 
 ## Mark 15:3
 
-The chief priests began accusing Him of many things.
+The chief priests began to bring numerous accusations against Him.
 
 ## Mark 15:4
 
@@ -44,7 +44,7 @@ He knew it was out of envy that the chief priests had handed Jesus over.
 
 ## Mark 15:11
 
-But the chief priests stirred up the crowd to have Pilate release Barabbas instead.
+However, the chief priests influenced the crowd to have Pilate release Barabbas instead.
 
 ## Mark 15:12
 
@@ -66,7 +66,7 @@ To satisfy the crowd, Pilate released Barabbas to them. After having Jesus flogg
 
 ## Mark 15:16
 
-The soldiers led Jesus away into the palace, that is, the Praetorium, and called together the whole company of soldiers.
+The soldiers took Jesus into the palace, known as the Praetorium, and gathered the whole company of soldiers.
 
 ## Mark 15:17
 
@@ -92,7 +92,7 @@ They compelled a passer-by, Simon of Cyrene, the father of Alexander and Rufus, 
 
 ## Mark 15:22
 
-They brought Him to the place called Golgotha, which means Place of a Skull.
+They brought Him to the place called Golgotha, which is translated as the Place of a Skull.
 
 ## Mark 15:23
 
@@ -104,7 +104,7 @@ They crucified Him and divided His garments, casting lots to decide what each sh
 
 ## Mark 15:25
 
-It was the third hour when they crucified Him.
+It was about the third hour when they crucified Him.
 
 ## Mark 15:26
 
@@ -112,7 +112,7 @@ The inscription of the charge against Him read: THE KING OF THE JEWS.
 
 ## Mark 15:27
 
-They crucified two rebels with Him, one on His right and one on His left.
+They crucified two rebels alongside Him, one on His right and one on His left.
 
 ## Mark 15:28
 
@@ -138,7 +138,7 @@ Let this Christ, the King of Israel, come down now from the cross, that we may s
 
 ## Mark 15:33
 
-When the sixth hour came, darkness fell over the whole land until the ninth hour.
+When it was the sixth hour, darkness covered the whole land until the ninth hour.
 
 ## Mark 15:34
 
@@ -154,11 +154,11 @@ Someone ran, filled a sponge with sour wine, put it on a reed, and offered it to
 
 ## Mark 15:37
 
-With a loud cry, Jesus breathed His last.
+With a loud cry, Jesus released His spirit.
 
 ## Mark 15:38
 
-The curtain of the temple was torn in two from top to bottom.
+The curtain of the temple was split in two from top to bottom.
 
 ## Mark 15:39
 
@@ -172,7 +172,7 @@ Some women were watching from a distance. Among them were Mary Magdalene, Mary t
 
 ## Mark 15:41
 
-In Galilee, these women had followed Him and cared for His needs. Many other women who had come up with Him to Jerusalem were also there.
+These women had followed Him and provided for Him while in Galilee. Many other women who had accompanied Him to Jerusalem were also there.
 
 ## Mark 15:42
 

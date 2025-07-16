@@ -25,7 +25,7 @@ The angel of the Lord found Hagar by a spring in the wilderness; it was the spri
 He said, “Hagar, slave of Sarai, where have you come from, and where are you going?” She replied, “I am fleeing from my mistress Sarai.”
 
 ## Genesis 16:9
-The angel of the Lord said to her, “Return to your mistress and submit to her authority.”
+The angel of the Lord instructed her, “Go back to your mistress and accept her guidance.”
 
 ## Genesis 16:10
 The angel added, “I will greatly increase your descendants so that they will be too numerous to count.”
@@ -34,7 +34,7 @@ The angel added, “I will greatly increase your descendants so that they will b
 The angel of the Lord said further to her, “You are pregnant and will give birth to a son. You shall name him Ishmael, for the Lord has heard of your misery.
 
 ## Genesis 16:12
-He will be a wild donkey of a man; his hand will be against everyone, and everyone’s hand against him, and he will live in hostility towards all his brothers.”
+He will be like a wild donkey; his hand will be against everyone, and everyone’s hand against him, and he will live in opposition to all his brothers.”
 
 ## Genesis 16:13
 She called the name of the Lord who spoke to her, “You are the God who sees me,” for she said, “I have now seen the One who sees me.”
@@ -46,4 +46,4 @@ That is why the well was called Beer-lahai-roi; it is still there, between Kades
 Hagar bore Abram a son, and Abram named the son she bore Ishmael.
 
 ## Genesis 16:16
-Abram was eighty-six years old when Hagar bore Ishmael to him.
+Abram was eighty-six years old when Hagar gave birth to Ishmael.

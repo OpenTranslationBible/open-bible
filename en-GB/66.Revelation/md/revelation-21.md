@@ -1,7 +1,7 @@
 # Revelation Chapter 21
 
 ## Revelation 21:1
-Then I saw a new heaven and a new earth, for the first heaven and the first earth had passed away, and there was no longer any sea.
+I observed a renewed heaven and a renewed earth, for the first heaven and the first earth had passed away, and there was no longer any sea.
 
 ## Revelation 21:2
 I saw the holy city, the new Jerusalem, descending out of heaven from God, prepared as a bride adorned for her husband.
@@ -40,7 +40,7 @@ It had a great and high wall with twelve gates, and at the gates were twelve ang
 There were three gates on the east, three on the north, three on the south, and three on the west.
 
 ## Revelation 21:14
-The wall of the city had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
+The city's wall had twelve foundations, and on them were the names of the twelve apostles of the Lamb.
 
 ## Revelation 21:15
 The angel who spoke with me had a golden measuring rod to measure the city, its gates, and its wall.
@@ -58,25 +58,25 @@ The wall was made of jasper, and the city was of pure gold, like clear glass.
 The foundations of the city walls were adorned with every kind of precious stone. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
 
 ## Revelation 21:20
-the fifth sardonyx, the sixth sardius, the seventh chrysolite, the eighth beryl, the ninth topaz, the tenth chrysoprase, the eleventh jacinth, and the twelfth amethyst.
+the fifth was sardonyx, the sixth was sardius, the seventh was chrysolite, the eighth was beryl, the ninth was topaz, the tenth was chrysoprase, the eleventh was jacinth, and the twelfth was amethyst.
 
 ## Revelation 21:21
 The twelve gates were twelve pearls, each gate made of a single pearl. The main street of the city was pure gold, like transparent glass.
 
 ## Revelation 21:22
-I did not see a temple in the city, because the Lord God Almighty and the Lamb are its temple.
+I did not find a temple in the city, because the Lord God Almighty and the Lamb are its temple.
 
 ## Revelation 21:23
 The city does not need the sun or the moon to shine on it, for the glory of God illuminates it, and the Lamb is its lamp.
 
 ## Revelation 21:24
-The nations will walk by its light, and the kings of the earth will bring their splendour into it.
+The nations will walk by its light, and the kings of the earth will bring their glory into it.
 
 ## Revelation 21:25
-Its gates will never be shut by day, for there will be no night there.
+Its gates will always remain open during the day, for there will be no night there.
 
 ## Revelation 21:26
-The glory and honour of the nations will be brought into it.
+The honour and splendour of the nations will be brought into it.
 
 ## Revelation 21:27
 Nothing unclean will ever enter it, nor anyone who does what is shameful or deceitful, but only those whose names are written in the Lamb’s book of life.

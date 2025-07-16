@@ -76,7 +76,7 @@ For I will take you from among the nations, gather you from all the lands, and b
 I will sprinkle clean water upon you, and you will be clean; I will cleanse you from all your impurities and from all your idols.
 
 ## Ezekiel 36:26
-I will give you a new heart and put a new spirit within you; I will remove your heart of stone and give you a heart of flesh.
+I will grant you a renewed heart and instill a fresh spirit within you; I will take away your unyielding heart and provide you with a responsive heart.
 
 ## Ezekiel 36:27
 And I will put My Spirit within you and cause you to follow My decrees and be careful to observe My laws.

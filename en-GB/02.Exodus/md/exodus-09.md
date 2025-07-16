@@ -31,7 +31,7 @@ It will become fine dust over all the land of Egypt, causing boils to break out 
 So they took soot from a kiln and stood before Pharaoh. Moses tossed it into the air, and boils broke out with sores on people and animals.
 
 ## Exodus 9:11
-The magicians could not stand before Moses because of the boils, for the boils were on the magicians as well as on all the Egyptians.
+The magicians were unable to stand before Moses due to the boils, which afflicted them as well as all the Egyptians.
 
 ## Exodus 9:12
 But the Lord hardened Pharaoh’s heart, and he did not listen to Moses and Aaron, just as the Lord had foretold to Moses.
@@ -79,7 +79,7 @@ Throughout Egypt, the hail struck everything in the fields—both people and ani
 The only place it did not hail was in the land of Goshen, where the Israelites resided.
 
 ## Exodus 9:27
-Then Pharaoh summoned Moses and Aaron. “This time I have sinned,” he said to them. “The Lord is in the right, and I and my people are in the wrong.
+Then Pharaoh summoned Moses and Aaron. “I have sinned this time,” he said to them. “The Lord is in the right, and I and my people are in the wrong.
 
 ## Exodus 9:28
 Plead with the Lord, for there has been enough of God’s thunder and hail. I will let you go; you do not have to stay any longer.”
@@ -88,7 +88,7 @@ Plead with the Lord, for there has been enough of God’s thunder and hail. I wi
 Moses replied, “As soon as I leave the city, I will spread out my hands to the Lord; the thunder will cease and there will be no more hail, so that you may know that the earth is the Lord’s.
 
 ## Exodus 9:30
-But I know that you and your officials still do not fear the Lord God.”
+But I am aware that you and your officials still do not hold the Lord God in reverence.”
 
 ## Exodus 9:31
 (The flax and barley were ruined, since the barley was in ear and the flax was in bloom.

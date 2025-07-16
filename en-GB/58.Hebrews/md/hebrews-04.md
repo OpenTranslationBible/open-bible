@@ -41,7 +41,7 @@ For if Joshua had given them rest, God would not have spoken later about another
 
 ## Hebrews 4:9
 
-Consequently, there remains a Sabbath rest for the people of God.
+As a result, a Sabbath rest is still available for the people of God.
 
 ## Hebrews 4:10
 

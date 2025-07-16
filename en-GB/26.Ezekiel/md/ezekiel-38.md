@@ -1,7 +1,7 @@
 # Ezekiel Chapter 38
 
 ## Ezekiel 38:1
-The word of the Lord came to me, saying,
+The message from the Lord came to me, saying,
 
 ## Ezekiel 38:2
 “Son of man, set your face against Gog of the land of Magog, the chief prince of Meshek and Tubal, and prophesy against him,

@@ -64,13 +64,13 @@ until the Lord gives rest to your fellow Israelites as he has to you, and they t
 At that time I commanded Joshua, “Your eyes have seen all that the Lord your God has done to these two kings. The Lord will do the same to all the kingdoms into which you are going.
 
 ## Deuteronomy 3:22
-Do not be afraid of them; the Lord your God himself will fight for you.”
+Do not fear them; the Lord your God will fight on your behalf.”
 
 ## Deuteronomy 3:23
-At that time I pleaded with the Lord:
+At that time I earnestly sought the Lord:
 
 ## Deuteronomy 3:24
-“Sovereign Lord, you have begun to show to your servant your greatness and your strong hand. For what god is there in heaven or on earth who can do the deeds and mighty works you do?
+“Lord God, you have begun to reveal to your servant your greatness and your mighty hand. For what god is there in heaven or on earth who can perform the deeds and mighty works you do?
 
 ## Deuteronomy 3:25
 Please let me cross over and see the good land beyond the Jordan—that fine hill country and Lebanon.”
@@ -82,7 +82,7 @@ But the Lord was angry with me on account of you and would not listen to me. “
 Go up to the top of Pisgah and look west, north, south, and east. Look at the land with your own eyes, since you are not going to cross this Jordan.
 
 ## Deuteronomy 3:28
-But commission Joshua, and encourage and strengthen him, for he will lead this people across and will cause them to inherit the land that you will see.”
+But appoint Joshua, and encourage and strengthen him, for he will lead this people across and will enable them to inherit the land that you will see.”
 
 ## Deuteronomy 3:29
 So we stayed in the valley opposite Beth Peor.

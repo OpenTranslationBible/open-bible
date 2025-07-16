@@ -2,7 +2,7 @@
 
 ## Ezekiel 32:1
 
-In the twelfth year, in the twelfth month, on the first day of the month, the word of the Lord came to me, saying,
+In the twelfth year, in the twelfth month, on the first day of the month, the message from the Lord came to me, saying,
 
 ## Ezekiel 32:2
 
@@ -108,7 +108,7 @@ This is the lament they will chant for her. The daughters of the nations will ch
 
 ## Ezekiel 32:17
 
-In the twelfth year, on the fifteenth day of the month, the word of the Lord came to me, saying,
+In the twelfth year, on the fifteenth day of the month, the message from the Lord came to me, saying,
 
 ## Ezekiel 32:18
 
@@ -120,7 +120,7 @@ Say to them, ‘Whom do you surpass in beauty? Go down and be laid with the unci
 
 ## Ezekiel 32:20
 
-They will fall among those killed by the sword. The sword is drawn; let her be dragged off with all her hordes.
+They will be counted among those slain by the sword. The sword is drawn; let her be taken away with all her hordes.
 
 ## Ezekiel 32:21
 
@@ -128,7 +128,7 @@ The mighty leaders will speak of Egypt and her allies from within the realm of t
 
 ## Ezekiel 32:22
 
-“Assyria is there with her whole army; she is surrounded by the graves of all her slain, all who have fallen by the sword.
+“Assyria is there with her entire army; she is surrounded by the graves of all her slain, all who have fallen by the sword.
 
 ## Ezekiel 32:23
 
@@ -140,7 +140,7 @@ Their graves are in the depths of the pit, and her army lies around her grave. A
 
 ## Ezekiel 32:25
 
-A bed is made for her among the slain, with all her hordes around her grave. All of them are uncircumcised, killed by the sword. Because their terror had spread in the land of the living, they bear their shame with those who go down to the pit; they are laid among the slain.
+A resting place is made for her among the slain, with all her hordes around her grave. All of them are uncircumcised, killed by the sword. Because their terror had spread in the land of the living, they bear their shame with those who go down to the pit; they are laid among the slain.
 
 ## Ezekiel 32:26
 

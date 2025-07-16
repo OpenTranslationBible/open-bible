@@ -36,7 +36,7 @@ God, who knows the heart, testified by giving them the Holy Spirit, just as He d
 
 ## Acts 15:9
 
-He made no distinction between us and them, cleansing their hearts by faith.
+He showed no partiality between us and them, purifying their hearts through faith.
 
 ## Acts 15:10
 
@@ -44,7 +44,7 @@ So why are you testing God by placing on the necks of the disciples a yoke that 
 
 ## Acts 15:11
 
-No, we believe it is through the grace of our Lord Jesus that we are saved, just as they are.”
+Indeed, we are convinced that it is through the grace of our Lord Jesus that we are saved, in the same way as they are.”
 
 ---
 
@@ -62,7 +62,7 @@ Simeon has explained how God first intervened to select a people for His name fr
 
 ## Acts 15:15
 
-The words of the prophets are in agreement with this, as it is written:
+The message of the prophets aligns with this, as it is written:
 
 ## Acts 15:16
 
@@ -110,7 +110,7 @@ We have heard that some went out from us without our authorisation and have dist
 
 ## Acts 15:25
 
-So we all agreed to choose some men and send them to you with our dear friends Barnabas and Paul—
+Thus, we all agreed to select some men and send them to you with our dear friends Barnabas and Paul—
 
 ## Acts 15:26
 
@@ -118,7 +118,7 @@ men who have risked their lives for the name of our Lord Jesus Christ.
 
 ## Acts 15:27
 
-Therefore, we are sending Judas and Silas to confirm by word of mouth what we are writing.
+Therefore, we are sending Judas and Silas to confirm verbally what we are writing.
 
 ## Acts 15:28
 
@@ -132,7 +132,7 @@ You are to abstain from food sacrificed to idols, from blood, from the meat of s
 
 ## Acts 15:30
 
-So the men were sent off and went down to Antioch, where they gathered the church together and delivered the letter.
+So the men were dispatched and went down to Antioch, where they gathered the church together and delivered the letter.
 
 ## Acts 15:31
 
@@ -148,7 +148,7 @@ After spending some time there, they were sent off by the believers with the ble
 
 ## Acts 15:34
 
-[But it seemed good to Silas to remain there.]
+[However, Silas decided to remain there.]
 
 ## Acts 15:35
 
@@ -162,15 +162,15 @@ Some time later, Paul said to Barnabas, “Let us return and visit the believers
 
 ## Acts 15:37
 
-Barnabas wanted to take John, also called Mark, with them.
+Barnabas was inclined to take John, also called Mark, with them.
 
 ## Acts 15:38
 
-But Paul did not think it wise to take him, because he had deserted them in Pamphylia and had not continued with them in the work.
+But Paul did not think it prudent to take him, because he had left them in Pamphylia and had not continued with them in the work.
 
 ## Acts 15:39
 
-They had such a sharp disagreement that they parted company. Barnabas took Mark and sailed for Cyprus,
+Their disagreement was so intense that they parted ways. Barnabas took Mark and sailed for Cyprus,
 
 ## Acts 15:40
 

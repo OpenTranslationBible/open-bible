@@ -48,7 +48,7 @@ I say to you that many will come from the east and west and will recline at the 
 
 ## Matthew 8:12
 
-but the sons of the kingdom will be cast out into the outer darkness; in that place, there will be weeping and gnashing of teeth.”
+but those who were originally intended for the kingdom will be cast into the outer darkness; in that place, there will be weeping and gnashing of teeth.”
 
 ## Matthew 8:13
 
@@ -66,7 +66,7 @@ He touched her hand, and the fever left her; and she arose and began to serve Hi
 
 ## Matthew 8:16
 
-When evening came, they brought to Him many who were demon-possessed, and He cast out the spirits with a word and healed all who were ill.
+As evening approached, they brought to Him many who were troubled by demons, and He cast out the spirits with a word and healed all who were ill.
 
 ## Matthew 8:17
 
@@ -101,7 +101,7 @@ But Jesus said to him, “Follow Me, and let the dead bury their own dead.”
 
 ## Matthew 8:23
 
-When He got into the boat, His disciples followed Him.
+As He entered the boat, His disciples accompanied Him.
 
 ## Matthew 8:24
 
@@ -131,7 +131,7 @@ They cried out, “What do You want with us, Son of God? Have You come here to t
 
 ## Matthew 8:30
 
-Some distance from them, a large herd of pigs was feeding.
+Not far from them, a large herd of pigs was feeding.
 
 ## Matthew 8:31
 

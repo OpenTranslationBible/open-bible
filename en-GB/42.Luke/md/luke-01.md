@@ -6,7 +6,7 @@ Many have undertaken to compile an account of the things fulfilled among us,
 
 ## Luke 1:2
 
-just as they were handed down to us by those who from the beginning were eyewitnesses and servants of the word.
+as they were passed down to us by those who were eyewitnesses and servants of the word from the beginning.
 
 ## Luke 1:3
 
@@ -14,7 +14,7 @@ Therefore, having investigated everything carefully from the start, it seemed fi
 
 ## Luke 1:4
 
-so that you may know the certainty of the things you have been taught.
+so that you may have certainty concerning the things you have been taught.
 
 ---
 
@@ -28,7 +28,7 @@ They were both righteous in the sight of God, walking blamelessly in all the Lor
 
 ## Luke 1:7
 
-But they had no child, because Elizabeth was barren, and they were both advanced in years.
+But they were childless, as Elizabeth was unable to conceive, and they were both advanced in years.
 
 ---
 
@@ -38,7 +38,7 @@ Now it came about that while he was performing his priestly duties before God in
 
 ## Luke 1:9
 
-according to the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense.
+in accordance with the custom of the priesthood, he was chosen by lot to enter the temple of the Lord and burn incense.
 
 ## Luke 1:10
 
@@ -114,7 +114,7 @@ In the sixth month, God sent the angel Gabriel to a city in Galilee named Nazare
 
 ## Luke 1:27
 
-to a virgin betrothed to a man named Joseph, of the house of David. The virgin’s name was Mary.
+to a young woman engaged to a man named Joseph, of the house of David. The young woman’s name was Mary.
 
 ## Luke 1:28
 
@@ -134,7 +134,7 @@ You will conceive and give birth to a son, and you are to call him Jesus.
 
 ## Luke 1:32
 
-He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his father David,
+He will be great and will be called the Son of the Most High. The Lord God will give him the throne of his ancestor David,
 
 ## Luke 1:33
 
@@ -312,7 +312,7 @@ His father Zechariah was filled with the Holy Spirit and prophesied:
 
 ## Luke 1:73
 
-> the oath he swore to our father Abraham:
+> the promise he made to our father Abraham:
 
 ## Luke 1:74
 

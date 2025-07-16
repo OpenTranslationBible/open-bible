@@ -7,7 +7,7 @@
 I have stretched out my hands all day to a rebellious people, who walk in ways that are not good, following their own thoughts—
 
 ## Isaiah 65:3
-a people who continually provoke me to my face, offering sacrifices in gardens and burning incense on bricks;
+a people who constantly provoke me openly, offering sacrifices in gardens and burning incense on bricks;
 
 ## Isaiah 65:4
 who sit among the graves and spend the night in secret places; who eat the flesh of pigs, and whose pots contain the broth of unclean meat;
@@ -28,7 +28,7 @@ This is what the Lord says: “As when new wine is found in a cluster, and someo
 I will bring forth descendants from Jacob, and from Judah those who will inherit my mountains; my chosen ones will possess them, and there my servants will dwell.
 
 ## Isaiah 65:10
-Sharon will become a pasture for flocks, and the Valley of Achor a resting place for herds, for my people who seek me.
+Sharon will be a pasture for flocks, and the Valley of Achor a resting place for herds, for my people who seek me.
 
 ## Isaiah 65:11
 But as for you who abandon the Lord and forget my holy mountain, who set a table for Fortune and fill bowls of mixed wine for Destiny,
@@ -49,10 +49,10 @@ You will leave your name as a curse for my chosen ones, and the Sovereign Lord w
 Whoever invokes a blessing in the land will do so by the God of truth; whoever swears an oath in the land will swear by the God of truth. For the former troubles will be forgotten and hidden from my sight.
 
 ## Isaiah 65:17
-“For behold, I create new heavens and a new earth, and the former things will not be remembered or come to mind.
+“For indeed, I create new heavens and a new earth, and the former things will not be remembered or come to mind.
 
 ## Isaiah 65:18
-But be glad and rejoice forever in what I create; for behold, I create Jerusalem for rejoicing and her people for gladness.
+But be glad and rejoice forever in what I create; for indeed, I create Jerusalem for rejoicing and her people for gladness.
 
 ## Isaiah 65:19
 I will rejoice over Jerusalem and take delight in my people; the sound of weeping and of crying will no longer be heard in her.
@@ -61,7 +61,7 @@ I will rejoice over Jerusalem and take delight in my people; the sound of weepin
 No longer will there be in it an infant who lives only a few days, or an old person who does not live out his years; the one who dies at a hundred will be considered a mere youth, and the one who fails to reach a hundred will be thought accursed.
 
 ## Isaiah 65:21
-They will build houses and inhabit them; they will also plant vineyards and eat their fruit.
+They will build houses and live in them; they will also plant vineyards and enjoy their fruit.
 
 ## Isaiah 65:22
 They will not build and others inhabit, they will not plant and others eat; for as the days of a tree, so will be the days of my people, and my chosen ones will long enjoy the work of their hands.

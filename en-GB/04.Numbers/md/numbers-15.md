@@ -25,7 +25,7 @@ and for the drink offering you shall offer a third of a hin of wine, as a pleasi
 When you prepare a bull as a burnt offering or a sacrifice to fulfil a special vow, or as a fellowship offering to the Lord,
 
 ## Numbers 15:9
-then you shall offer with the bull a grain offering of three-tenths of an ephah of fine flour mixed with half a hin of oil,
+then you shall present with the bull a grain offering of three-tenths of an ephah of fine flour mixed with half a hin of oil,
 
 ## Numbers 15:10
 and you shall offer as the drink offering half a hin of wine, as an offering by fire, a pleasing aroma to the Lord.
@@ -79,7 +79,7 @@ The priest shall make atonement for the entire Israelite community, and they wil
 The whole Israelite community and the foreigners residing among them will be forgiven, for all the people were involved in the unintentional wrong.
 
 ## Numbers 15:27
-But if just one person sins unintentionally, that person must bring a year-old female goat for a sin offering.
+If an individual sins unintentionally, that person must bring a year-old female goat for a sin offering.
 
 ## Numbers 15:28
 The priest shall make atonement before the Lord for the one who erred by sinning unintentionally, and when atonement has been made, that person will be forgiven.
@@ -88,13 +88,13 @@ The priest shall make atonement before the Lord for the one who erred by sinning
 One law applies to everyone who sins unintentionally, whether a native-born Israelite or a foreigner residing among you.
 
 ## Numbers 15:30
-But anyone who sins defiantly, whether native-born or foreigner, blasphemes the Lord and must be cut off from the people of Israel.
+However, anyone who sins defiantly, whether native-born or foreigner, shows contempt for the Lord and must be separated from the people of Israel.
 
 ## Numbers 15:31
-Because they have despised the Lord’s word and broken His commands, they must surely be cut off; their guilt remains on them.’”
+Because they have rejected the Lord’s word and violated His commands, they must surely be separated; their guilt remains on them.’”
 
 ## Numbers 15:32
-While the Israelites were in the wilderness, they found a man gathering wood on the Sabbath day.
+While the Israelites were in the wilderness, they encountered a man gathering wood on the Sabbath day.
 
 ## Numbers 15:33
 Those who found him gathering wood brought him to Moses, Aaron, and the whole assembly,
@@ -106,7 +106,7 @@ and they kept him in custody, because it had not been decided what should be don
 Then the Lord said to Moses, “The man must be put to death; the whole assembly shall stone him outside the camp.”
 
 ## Numbers 15:36
-So the assembly took him outside the camp and stoned him to death, as the Lord commanded Moses.
+So the assembly took him outside the camp and executed him by stoning, as the Lord commanded Moses.
 
 ## Numbers 15:37
 The Lord spoke to Moses, saying,
@@ -115,10 +115,10 @@ The Lord spoke to Moses, saying,
 “Speak to the Israelites and tell them to make tassels on the corners of their garments throughout their generations, and to put a blue cord on each tassel.
 
 ## Numbers 15:39
-These tassels will be for you to look at and remember all the commands of the Lord, that you may obey them and not follow your own hearts and eyes, which lead you to prostitute yourselves.
+These tassels will be for you to look at and remember all the commands of the Lord, that you may obey them and not follow your own hearts and eyes, which lead you to stray.
 
 ## Numbers 15:40
-Then you will remember to obey all My commands and will be consecrated to your God.
+Then you will remember to obey all My commands and will be dedicated to your God.
 
 ## Numbers 15:41
 I am the Lord your God, who brought you out of Egypt to be your God. I am the Lord your God.”

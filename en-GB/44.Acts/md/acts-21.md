@@ -72,11 +72,11 @@ Some of the disciples from Caesarea also accompanied us, bringing us to the home
 
 ## Acts 21:17
 
-When we arrived in Jerusalem, the brothers and sisters welcomed us warmly.
+Upon our arrival in Jerusalem, the brothers and sisters gave us a warm welcome.
 
 ## Acts 21:18
 
-The next day, Paul went with us to see James, and all the elders were present.
+The following day, Paul went with us to meet James, and all the elders were present.
 
 ## Acts 21:19
 

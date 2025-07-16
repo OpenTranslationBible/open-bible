@@ -16,7 +16,7 @@ and an ox and a ram for peace offerings to sacrifice before the Lord, along with
 They brought what Moses had commanded to the front of the tent of meeting, and the whole assembly came near and stood before the Lord.
 
 ## Leviticus 9:6
-Moses said, “This is what the Lord has commanded you to do, so that the glory of the Lord may appear to you.”
+Moses explained, “This is the command of the Lord, so that His glory may be revealed to you.”
 
 ## Leviticus 9:7
 Moses said to Aaron, “Come to the altar and offer your sin offering and your burnt offering to make atonement for yourself and the people; then make the offering for the people to make atonement for them, as the Lord has commanded.”
@@ -31,7 +31,7 @@ His sons presented the blood to him, and he dipped his finger in the blood and p
 He burned the fat, kidneys, and the long lobe of the liver from the sin offering on the altar, as the Lord commanded Moses.
 
 ## Leviticus 9:11
-The flesh and the hide he burned outside the camp.
+He burned the flesh and the hide outside the camp.
 
 ## Leviticus 9:12
 He then slaughtered the burnt offering, and his sons handed him the blood, which he sprinkled around the altar.

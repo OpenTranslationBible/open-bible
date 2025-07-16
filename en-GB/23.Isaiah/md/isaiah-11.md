@@ -34,7 +34,7 @@ The nursing child will play by the cobra’s hole, and the weaned child will put
 
 ## Isaiah 11:9
 
-They will neither harm nor destroy on all my holy mountain, for the earth will be filled with the knowledge of the Lord as the waters cover the sea.
+They will not cause harm or destruction on all my holy mountain, for the earth will be filled with the knowledge of the Lord as the waters cover the sea.
 
 ---
 

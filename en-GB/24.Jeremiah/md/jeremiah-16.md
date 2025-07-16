@@ -1,13 +1,13 @@
 # Jeremiah Chapter 16
 
 ## Jeremiah 16:1
-The word of the Lord came to me, saying,
+A message from the Lord was given to me:
 
 ## Jeremiah 16:2
 “You shall not marry or have sons or daughters in this place.”
 
 ## Jeremiah 16:3
-For thus says the Lord concerning the sons and daughters born in this land, and concerning their mothers who bear them and their fathers who beget them in this land:
+For this is what the Lord says concerning the sons and daughters born in this land, and concerning their mothers who bear them and their fathers who beget them in this land:
 
 ## Jeremiah 16:4
 “They shall die of grievous diseases; they shall not be lamented or buried; they shall be as dung on the surface of the ground. They shall perish by the sword and by famine, and their corpses shall be food for the birds of the sky and the beasts of the earth.”
@@ -25,7 +25,7 @@ No one shall break bread in mourning for them, to comfort anyone for the dead, n
 “And do not enter the house of feasting, to sit with them to eat and drink.”
 
 ## Jeremiah 16:9
-For thus says the Lord of Hosts, the God of Israel: “Behold, I will cause to cease from this place, before your eyes and in your days, the voice of mirth and the voice of gladness, the voice of the bridegroom and the voice of the bride.
+For this is what the Lord of Hosts, the God of Israel, says: “I will bring an end to the sounds of joy and gladness, the voice of the bridegroom and the voice of the bride in this place, before your eyes and in your days.
 
 ## Jeremiah 16:10
 “And it shall come to pass, when you tell this people all these words, and they say to you, ‘Why has the Lord pronounced all this great disaster against us? What is our iniquity? What is our sin that we have committed against the Lord our God?’
@@ -49,7 +49,7 @@ but, ‘As the Lord lives, who brought the children of Israel from the land of t
 “Behold, I am sending for many fishermen,” declares the Lord, “and they shall catch them; and afterward I will send for many hunters, and they shall hunt them from every mountain and every hill, and from the clefts of the rocks.
 
 ## Jeremiah 16:17
-For my eyes are on all their ways; they are not hidden from my face, nor is their iniquity concealed from my eyes.
+For I am aware of all their ways; they are not hidden from me, nor is their iniquity concealed from my sight.
 
 ## Jeremiah 16:18
 I will repay them double for their iniquity and their sin, because they have defiled my land with the lifeless forms of their detestable idols, and have filled my inheritance with their abominations.”

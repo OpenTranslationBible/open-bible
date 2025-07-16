@@ -48,7 +48,7 @@ For God shows no partiality.
 
 ## Romans 2:12
 
-All who have sinned apart from the Law will also perish apart from the Law, and all who have sinned under the Law will be judged by the Law.
+All who have sinned without the Law will also perish without the Law, and all who have sinned under the Law will be judged by the Law.
 
 ## Romans 2:13
 
@@ -70,11 +70,11 @@ This will take place on the day when God judges people's secrets through Christ 
 
 ## Romans 2:17
 
-Now if you call yourself a Jew and rely on the Law and boast in God,
+Now if you identify as a Jew and rely on the Law and take pride in God,
 
 ## Romans 2:18
 
-if you know His will and approve of what is superior because you are instructed by the Law,
+if you understand His will and approve of what is superior because you are instructed by the Law,
 
 ## Romans 2:19
 
@@ -86,25 +86,25 @@ an instructor of the foolish, a teacher of infants, because you have in the Law 
 
 ## Romans 2:21
 
-you, then, who teach others, do you not teach yourself? You who preach against stealing, do you steal?
+you, then, who instruct others, do you not instruct yourself? You who preach against stealing, do you steal?
 
 ## Romans 2:22
 
-You who say that people should not commit adultery, do you commit adultery? You who abhor idols, do you rob temples?
+You who say that people should not commit adultery, do you commit adultery? You who detest idols, do you rob temples?
 
 ## Romans 2:23
 
-You who boast in the Law, do you dishonour God by breaking the Law?
+You who take pride in the Law, do you dishonour God by breaking the Law?
 
 ## Romans 2:24
 
-As it is written: "God's name is blasphemed among the Gentiles because of you."
+As it is written: "Because of you, God's name is blasphemed among the Gentiles."
 
 ---
 
 ## Romans 2:25
 
-Circumcision has value if you observe the Law, but if you break the Law, you have become as though you had not been circumcised.
+Circumcision has value if you observe the Law, but if you break the Law, it is as if you had not been circumcised.
 
 ## Romans 2:26
 
@@ -116,7 +116,7 @@ The one who is not circumcised physically and yet obeys the Law will condemn you
 
 ## Romans 2:28
 
-A person is not a Jew who is one only outwardly, nor is circumcision merely outward and physical.
+A person is not a Jew who is one only outwardly, nor is circumcision only outward and physical.
 
 ## Romans 2:29
 

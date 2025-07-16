@@ -26,11 +26,11 @@ Whoever regards a day as special does so for the Lord. Whoever eats, eats to the
 
 ## Romans 14:7
 
-For none of us lives for ourselves alone, and none of us dies for ourselves alone.
+For none of us lives solely for ourselves, and none of us dies solely for ourselves.
 
 ## Romans 14:8
 
-If we live, we live for the Lord; and if we die, we die for the Lord. So, whether we live or die, we belong to the Lord.
+If we live, we live for the Lord; and if we die, we die for the Lord. Therefore, in both life and death, we belong to the Lord.
 
 ## Romans 14:9
 
@@ -50,7 +50,7 @@ As it is written:
 
 ## Romans 14:12
 
-So then, each of us will give an account of ourselves to God.
+So then, each of us will give a personal account to God.
 
 ## Romans 14:13
 
@@ -66,11 +66,11 @@ If your brother or sister is distressed because of what you eat, you are no long
 
 ## Romans 14:16
 
-Therefore, do not let what you know is good be spoken of as evil.
+Therefore, do not let your good be spoken of as evil.
 
 ## Romans 14:17
 
-For the kingdom of God is not a matter of eating and drinking, but of righteousness, peace, and joy in the Holy Spirit.
+For the kingdom of God is not about eating and drinking, but about righteousness, peace, and joy in the Holy Spirit.
 
 ## Romans 14:18
 
@@ -82,7 +82,7 @@ Let us therefore pursue what leads to peace and mutual edification.
 
 ## Romans 14:20
 
-Do not destroy the work of God for the sake of food. All food is clean, but it is wrong for a person to eat anything that causes someone else to stumble.
+Do not undo the work of God for the sake of food. All food is clean, but it is wrong for a person to eat anything that causes someone else to stumble.
 
 ## Romans 14:21
 
@@ -94,4 +94,4 @@ So whatever you believe about these things, keep between yourself and God. Bless
 
 ## Romans 14:23
 
-But whoever has doubts is condemned if they eat, because their eating is not from faith; and everything that does not come from faith is sin.
+But whoever has doubts is condemned if they eat, because their eating is not from faith; and anything that does not come from faith is sin.

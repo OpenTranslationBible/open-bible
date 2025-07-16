@@ -10,7 +10,7 @@ Why do you spend money on what is not bread, and your labour on what does not sa
 Incline your ear and come to me; listen, that you may live. I will make an everlasting covenant with you, my faithful love promised to David.
 
 ## Isaiah 55:4
-Behold, I have made him a witness to the peoples, a leader and commander for the peoples.
+Look, I have appointed him as a witness to the nations, a leader and commander for the peoples.
 
 ## Isaiah 55:5
 Surely you will call nations you do not know, and nations that do not know you will hasten to you, because of the Lord your God, the Holy One of Israel, for he has glorified you.”
@@ -25,7 +25,7 @@ Let the wicked forsake their way and the unrighteous their thoughts. Let them re
 “For my thoughts are not your thoughts, neither are your ways my ways,” declares the Lord.
 
 ## Isaiah 55:9
-“As the heavens are higher than the earth, so are my ways higher than your ways and my thoughts than your thoughts.
+“For just as the heavens are higher than the earth, so my ways are higher than your ways and my thoughts than your thoughts.
 
 ## Isaiah 55:10
 For as the rain and the snow come down from heaven, and do not return there without watering the earth and making it sprout and flourish, providing seed for the sower and bread for the eater,

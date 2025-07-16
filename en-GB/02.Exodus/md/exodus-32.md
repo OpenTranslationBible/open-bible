@@ -7,7 +7,7 @@ When the people saw that Moses was delayed in coming down from the mountain, the
 Aaron said to them, “Remove the gold earrings that your wives, your sons, and your daughters are wearing, and bring them to me.”
 
 ## Exodus 32:3
-So all the people took off their gold earrings and brought them to Aaron.
+So all the people removed their gold earrings and brought them to Aaron.
 
 ## Exodus 32:4
 He took the gold from their hands and fashioned it with a tool into a cast metal calf. Then they said, “This is your god, Israel, who brought you up from the land of Egypt.”
@@ -37,7 +37,7 @@ But Moses sought the favour of the Lord his God, saying, “Lord, why does Your 
 Why should the Egyptians say, ‘He brought them out with evil intent, to kill them in the mountains and to wipe them off the face of the earth’? Turn from Your fierce anger; relent and do not bring disaster upon Your people.
 
 ## Exodus 32:13
-Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your own self: ‘I will make your descendants as numerous as the stars in the sky, and I will give your descendants all this land I promised them, and it will be their inheritance forever.’”
+Remember Your servants Abraham, Isaac, and Israel, to whom You swore by Your own self: ‘I will make your descendants as countless as the stars in the sky, and I will give your descendants all this land I promised them, and it will be their inheritance forever.’”
 
 ## Exodus 32:14
 So the Lord relented from the harm He had threatened to do to His people.
@@ -46,7 +46,7 @@ So the Lord relented from the harm He had threatened to do to His people.
 Moses turned and went down the mountain with the two tablets of the testimony in his hands. They were inscribed on both sides, front and back.
 
 ## Exodus 32:16
-The tablets were the work of God; the writing was the writing of God, engraved on the tablets.
+The tablets were crafted by God; the writing was God's own writing, engraved on the tablets.
 
 ## Exodus 32:17
 When Joshua heard the sound of the people shouting, he said to Moses, “There is the sound of war in the camp.”
@@ -88,7 +88,7 @@ The sons of Levi did as Moses commanded, and that day about three thousand of th
 Then Moses said, “Dedicate yourselves today to the Lord—for you have been against your own sons and brothers—so that He may bestow a blessing upon you today.”
 
 ## Exodus 32:30
-The next day Moses said to the people, “You have committed a great sin. But now I will go up to the Lord; perhaps I can make atonement for your sin.”
+The following day Moses said to the people, “You have committed a great sin. But now I will go up to the Lord; perhaps I can make amends for your sin.”
 
 ## Exodus 32:31
 So Moses returned to the Lord and said, “Oh, what a great sin these people have committed! They have made themselves a god of gold.
@@ -97,7 +97,7 @@ So Moses returned to the Lord and said, “Oh, what a great sin these people hav
 But now, if You will forgive their sin, please do so; but if not, please blot me out from the book You have written.”
 
 ## Exodus 32:33
-The Lord replied to Moses, “Whoever has sinned against Me, I will blot out of My book.
+The Lord replied to Moses, “Whoever has sinned against Me, I will remove from My book.
 
 ## Exodus 32:34
 Now go, lead the people to the place I told you about. Behold, My angel shall go before you. Nevertheless, on the day when I punish, I will punish them for their sin.”

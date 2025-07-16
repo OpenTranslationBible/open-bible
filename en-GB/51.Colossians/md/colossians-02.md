@@ -25,7 +25,7 @@ being rooted and built up in Him, and established in the faith as you were taugh
 See to it that no one takes you captive through empty and deceptive philosophy, which is based on human tradition and the elemental spiritual forces of the world, rather than on Christ.
 
 ## Colossians 2:9
-For in Him all the fullness of Deity dwells in bodily form,
+For in Him all the fullness of the divine nature lives in bodily form,
 
 ## Colossians 2:10
 and in Him you have been made complete. He is the head over every ruler and authority.
@@ -34,7 +34,7 @@ and in Him you have been made complete. He is the head over every ruler and auth
 In Him you were also circumcised with a circumcision not performed by human hands, by putting off the body of the flesh, by the circumcision of Christ,
 
 ## Colossians 2:12
-having been buried with Him in baptism, in which you were also raised with Him through faith in the powerful working of God, who raised Him from the dead.
+having been buried with Him in baptism, in which you were also raised with Him through faith in the powerful work of God, who raised Him from the dead.
 
 ## Colossians 2:13
 And when you were dead in your trespasses and the uncircumcision of your flesh, God made you alive together with Him, having forgiven us all our trespasses,
@@ -49,7 +49,7 @@ He disarmed the rulers and authorities and made a public spectacle of them, triu
 Therefore, let no one judge you in matters of food and drink, or with respect to a festival, a new moon, or a Sabbath day.
 
 ## Colossians 2:17
-These are a shadow of the things to come, but the substance belongs to Christ.
+These are a shadow of future things, but the reality is found in Christ.
 
 ## Colossians 2:18
 Let no one disqualify you, insisting on false humility and the worship of angels, dwelling on visions, puffed up without reason by their unspiritual mind,

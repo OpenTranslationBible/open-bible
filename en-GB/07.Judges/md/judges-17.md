@@ -22,7 +22,7 @@ Micah had a shrine, and he made an ephod and some household idols, and he consec
 
 ## Judges 17:6
 
-In those days there was no king in Israel; everyone did what was right in their own eyes.
+At that time, there was no king in Israel, and everyone acted according to their own judgment.
 
 ---
 
@@ -48,7 +48,7 @@ The Levite agreed to live with Micah, and the young man became like one of his s
 
 ## Judges 17:12
 
-Micah consecrated the Levite, and the young man became his priest and lived in Micah’s house.
+Micah appointed the Levite, and the young man served as his priest and lived in Micah’s house.
 
 ## Judges 17:13
 

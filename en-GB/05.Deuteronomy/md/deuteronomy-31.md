@@ -37,7 +37,7 @@ when all Israel comes to appear before the Lord your God at the place He will ch
 Gather the people—men, women, children, and the foreigners residing in your towns—so they may listen and learn to fear the Lord your God and carefully follow all the words of this law.
 
 ## Deuteronomy 31:13
-Their children, who do not know this law, must hear it and learn to fear the Lord your God as long as you live in the land you are crossing the Jordan to possess.”
+Their children, who are not familiar with this law, should hear it and learn to revere the Lord your God as long as you live in the land you are crossing the Jordan to possess.
 
 ## Deuteronomy 31:14
 The Lord said to Moses, “The time of your death is near. Call Joshua and present yourselves at the tent of meeting, where I will commission him.” So Moses and Joshua went and presented themselves at the tent of meeting.
@@ -64,7 +64,7 @@ When I bring them into the land flowing with milk and honey, the land I promised
 When many disasters and calamities come upon them, this song will testify against them, because it will not be forgotten by their descendants. I know what they are inclined to do, even before I bring them into the land I promised them on oath.”
 
 ## Deuteronomy 31:22
-So Moses wrote down this song that day and taught it to the Israelites.
+So Moses recorded this song that day and taught it to the Israelites.
 
 ## Deuteronomy 31:23
 The Lord commissioned Joshua son of Nun, saying, “Be strong and courageous, for you will bring the Israelites into the land I promised them on oath, and I will be with you.”
@@ -73,10 +73,10 @@ The Lord commissioned Joshua son of Nun, saying, “Be strong and courageous, fo
 After Moses finished writing the words of this law in a book from beginning to end,
 
 ## Deuteronomy 31:25
-he gave this command to the Levites who carried the ark of the covenant of the Lord:
+he instructed the Levites who carried the ark of the covenant of the Lord:
 
 ## Deuteronomy 31:26
-“Take this Book of the Law and place it beside the ark of the covenant of the Lord your God. There it will remain as a witness against you.
+“Take this Book of the Law and place it beside the ark of the covenant of the Lord your God. There it will remain as a testimony against you.
 
 ## Deuteronomy 31:27
 For I know how rebellious and stiff-necked you are. If you have been rebellious against the Lord while I am still alive with you, how much more will you rebel after my death?
@@ -88,4 +88,4 @@ Assemble all the elders of your tribes and your officials before me, so that I m
 For I know that after my death you will act corruptly and turn from the way I have commanded you. In days to come, disaster will fall on you because you will do evil in the sight of the Lord, provoking Him to anger by what your hands have made.”
 
 ## Deuteronomy 31:30
-And Moses recited the words of this song from beginning to end in the hearing of the whole assembly of Israel:
+And Moses recited the words of this song from start to finish in the hearing of the whole assembly of Israel:

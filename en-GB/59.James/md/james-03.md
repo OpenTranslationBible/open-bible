@@ -40,16 +40,16 @@ My brothers and sisters, can a fig tree produce olives, or a grapevine produce f
 Who among you is wise and understanding? Let them demonstrate it by their good conduct, through deeds done in the humility that wisdom brings.
 
 ## James 3:14
-But if you harbour bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth.
+But if you nurture bitter envy and selfish ambition in your hearts, do not boast about it or deny the truth.
 
 ## James 3:15
 Such wisdom does not come from above, but is earthly, unspiritual, and demonic.
 
 ## James 3:16
-For where there is envy and selfish ambition, there is disorder and every evil practice.
+For where envy and selfish ambition exist, there is disorder and every evil practice.
 
 ## James 3:17
 But the wisdom from above is first pure, then peace-loving, gentle, willing to yield, full of mercy and good fruits, impartial and sincere.
 
 ## James 3:18
-Peacemakers who sow in peace reap a harvest of righteousness.
+Those who promote peace sow seeds of peace and reap a harvest of righteousness.

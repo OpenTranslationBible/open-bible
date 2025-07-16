@@ -16,7 +16,7 @@ Be ashamed, Sidon, for the sea has spoken, the stronghold of the sea, saying, �
 When the news reaches Egypt, they will be in distress at the news of Tyre.
 
 ## Isaiah 23:6
-Cross over to Tarshish; wail, you inhabitants of the coast.
+Journey to Tarshish; lament, you inhabitants of the coast.
 
 ## Isaiah 23:7
 Is this your city of joy, whose origin is from ancient times, whose feet carried her to settle in distant lands?
@@ -40,7 +40,7 @@ He has declared, “You shall no longer exult, O crushed virgin daughter of Sido
 Look at the land of the Chaldeans—this is the people that was not; Assyria appointed it for desert creatures—they set up their siege towers, stripped its palaces, and made it a ruin.
 
 ## Isaiah 23:14
-Wail, you ships of Tarshish, for your stronghold is destroyed.
+Lament, you ships of Tarshish, for your stronghold is destroyed.
 
 ## Isaiah 23:15
 In that time Tyre will be forgotten for seventy years, like the days of one king. At the end of seventy years, it will happen to Tyre as in the song of the harlot:

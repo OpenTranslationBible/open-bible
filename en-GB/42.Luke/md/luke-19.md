@@ -34,7 +34,7 @@ But Zacchaeus stood and said to the Lord, “Look, Lord, I give half of my posse
 
 ## Luke 19:9
 
-Jesus said to him, “Today salvation has come to this house, because he too is a son of Abraham.
+Jesus responded, “Today, salvation has come to this house, for he also is a son of Abraham.
 
 ## Luke 19:10
 
@@ -88,7 +88,7 @@ for I was afraid of you, because you are a hard man. You take out what you did n
 
 ## Luke 19:22
 
-His master replied, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in and reaping what I did not sow?
+His master answered, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in and reaping what I did not sow?
 
 ## Luke 19:23
 
@@ -96,7 +96,7 @@ Why then did you not put my money on deposit, so that when I returned, I could h
 
 ## Luke 19:24
 
-Then he said to those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’
+Then he instructed those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’
 
 ## Luke 19:25
 
@@ -114,7 +114,7 @@ But those enemies of mine who did not want me to be king over them—bring them 
 
 ## Luke 19:28
 
-After Jesus had said this, he went on ahead, going up to Jerusalem.
+After saying this, Jesus went on ahead, going up to Jerusalem.
 
 ## Luke 19:29
 
@@ -126,11 +126,11 @@ saying, “Go to the village ahead of you, and as you enter it, you will find a 
 
 ## Luke 19:31
 
-If anyone asks you, ‘Why are you untying it?’ say, ‘The Lord needs it.’”
+If anyone asks you, ‘Why are you untying it?’ respond, ‘The Lord needs it.’”
 
 ## Luke 19:32
 
-Those who were sent went and found it just as he had told them.
+Those who were sent went and found it just as he had described to them.
 
 ## Luke 19:33
 
@@ -142,11 +142,11 @@ They replied, “The Lord needs it.”
 
 ## Luke 19:35
 
-They brought it to Jesus, threw their cloaks on the colt and put Jesus on it.
+They brought the colt to Jesus, placed their cloaks on it, and set Jesus on it.
 
 ## Luke 19:36
 
-As he went along, people spread their cloaks on the road.
+As he proceeded, people spread their cloaks on the road.
 
 ## Luke 19:37
 
@@ -158,7 +158,7 @@ saying, “Blessed is the King who comes in the name of the Lord! Peace in heave
 
 ## Luke 19:39
 
-Some of the Pharisees in the crowd said to Jesus, “Teacher, rebuke your disciples!”
+Some of the Pharisees in the crowd said to Jesus, “Teacher, instruct your disciples to be silent!”
 
 ## Luke 19:40
 
@@ -168,7 +168,7 @@ He replied, “I tell you, if they keep quiet, the stones will cry out.”
 
 ## Luke 19:41
 
-As he approached Jerusalem and saw the city, he wept over it
+As he drew near to Jerusalem and saw the city, he wept over it
 
 ## Luke 19:42
 
@@ -180,13 +180,13 @@ The days will come upon you when your enemies will build a barricade against you
 
 ## Luke 19:44
 
-They will dash you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognise the time of God’s coming to you.”
+They will bring you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of God’s visitation to you.”
 
 ---
 
 ## Luke 19:45
 
-When Jesus entered the temple courts, he began to drive out those who were selling,
+Upon entering the temple courts, Jesus began to drive out those who were selling,
 
 ## Luke 19:46
 
@@ -194,7 +194,7 @@ saying to them, “It is written, ‘My house will be a house of prayer’; but 
 
 ## Luke 19:47
 
-Every day he was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were trying to kill him.
+Each day he was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were seeking to kill him.
 
 ## Luke 19:48
 

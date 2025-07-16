@@ -46,13 +46,13 @@ Therefore, this is what the Lord God of Hosts says: “Because you have spoken t
 Behold, I am bringing a nation against you from afar, O house of Israel,” declares the Lord. “It is an ancient and enduring nation, a people whose language you do not know, nor can you understand what they say.
 
 ## Jeremiah 5:16
-Their quivers are like an open grave; all of them are mighty warriors.
+Their quivers are like a deep pit; all of them are valiant warriors.
 
 ## Jeremiah 5:17
 They will consume your harvest and your food; they will devour your sons and daughters; they will consume your flocks and herds; they will devour your vines and fig trees. They will demolish your fortified cities, in which you trust, with the sword.
 
 ## Jeremiah 5:18
-“Yet even in those days,” declares the Lord, “I will not make a complete destruction of you.
+“Even in those days,” declares the Lord, “I will not completely destroy you.
 
 ## Jeremiah 5:19
 And when the people ask, ‘Why has the Lord our God done all this to us?’ you shall say to them, ‘As you have forsaken Me and served foreign gods in your own land, so you will serve foreigners in a land not your own.’
@@ -67,7 +67,7 @@ Hear this, you senseless and foolish people, who have eyes but do not see, who h
 Do you not fear Me?” declares the Lord. “Do you not tremble in My presence? I have set the sand as a boundary for the sea, an everlasting barrier it cannot cross. Though the waves toss, they cannot prevail; though they roar, they cannot cross it.
 
 ## Jeremiah 5:23
-But this people has a stubborn and rebellious heart; they have turned aside and departed.
+But this people has a stubborn and defiant heart; they have turned aside and departed.
 
 ## Jeremiah 5:24
 They do not say in their hearts, ‘Let us fear the Lord our God, who gives the autumn and spring rains in season, who assures us of the regular weeks of harvest.’

@@ -58,10 +58,10 @@ Then Moses said, “Please, show me Your glory.”
 And the Lord said, “I will cause all My goodness to pass before you, and I will proclaim the name of the Lord before you. I will be gracious to whom I will be gracious, and will show compassion to whom I will show compassion.”
 
 ## Exodus 33:20
-But He said, “You cannot see My face, for no one may see Me and live.”
+But He said, “You are unable to see My face, for no one may see Me and live.”
 
 ## Exodus 33:21
-Then the Lord said, “There is a place near Me where you may stand on a rock.
+The Lord continued, “There is a place near Me where you may stand on a rock.
 
 ## Exodus 33:22
 When My glory passes by, I will place you in a cleft in the rock and cover you with My hand until I have passed by.

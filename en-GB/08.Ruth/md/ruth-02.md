@@ -68,7 +68,7 @@ Also, pull out some stalks for her from the bundles and leave them for her to gl
 
 ## Ruth 2:17
 
-So Ruth gleaned in the field until evening. Then she threshed the barley she had gathered, and it amounted to about an ephah.
+Ruth continued gleaning in the field until evening. Afterward, she threshed the barley she had gathered, which amounted to about an ephah.
 
 ## Ruth 2:18
 

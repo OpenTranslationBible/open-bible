@@ -10,7 +10,7 @@ Each of us should please our neighbour for their good, to build them up.
 
 ## Romans 15:3
 
-For even Christ did not please Himself, but as it is written: “The insults of those who insult you have fallen on me.”
+For even Christ did not seek His own pleasure, but as it is written: “The insults of those who insult you have fallen on me.”
 
 ## Romans 15:4
 
@@ -22,7 +22,7 @@ Now may the God who gives endurance and encouragement grant you to be of the sam
 
 ## Romans 15:6
 
-so that with one mind and one voice you may glorify the God and Father of our Lord Jesus Christ.
+so that with unity of mind and voice you may glorify the God and Father of our Lord Jesus Christ.
 
 ## Romans 15:7
 
@@ -77,7 +77,7 @@ to be a minister of Christ Jesus to the Gentiles, ministering as a priest the go
 
 ## Romans 15:17
 
-Therefore in Christ Jesus I have found reason for boasting in things pertaining to God.
+Therefore, in Christ Jesus I have found reason to take pride in things pertaining to God.
 
 ## Romans 15:18
 
@@ -89,7 +89,7 @@ through the power of signs and wonders, in the power of the Spirit; so from Jeru
 
 ## Romans 15:20
 
-And in this way I aspired to preach the gospel, not where Christ was already known by name, so that I would not build on another person’s foundation;
+And in this way I aspired to preach the gospel, not where Christ was already recognized, so that I would not build on another person’s foundation;
 
 ## Romans 15:21
 
@@ -100,7 +100,7 @@ but as it is written:
 
 ## Romans 15:22
 
-For this reason I have often been prevented from coming to you;
+This is why I have often been prevented from coming to you;
 
 ## Romans 15:23
 
@@ -116,7 +116,7 @@ But now, I am on my way to Jerusalem, serving the saints.
 
 ## Romans 15:26
 
-For Macedonia and Achaia were pleased to make a contribution for the poor among the saints in Jerusalem.
+For Macedonia and Achaia were delighted to make a contribution for the poor among the saints in Jerusalem.
 
 ## Romans 15:27
 
@@ -132,7 +132,7 @@ I know that when I come to you, I will come in the fullness of the blessing of C
 
 ## Romans 15:30
 
-I urge you, brothers and sisters, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me,
+I appeal to you, brothers and sisters, by our Lord Jesus Christ and by the love of the Spirit, to join me in my struggle by praying to God for me,
 
 ## Romans 15:31
 

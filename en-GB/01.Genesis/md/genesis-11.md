@@ -34,64 +34,64 @@ These are the generations of Shem. Shem was 100 years old when he became the fat
 Shem lived 500 years after he became the father of Arphaxad, and he had other sons and daughters.
 
 ## Genesis 11:12
-Arphaxad lived 35 years and became the father of Shelah.
+Arphaxad reached the age of 35 and fathered Shelah.
 
 ## Genesis 11:13
-After he became the father of Shelah, Arphaxad lived 403 years and had other sons and daughters.
+After fathering Shelah, Arphaxad lived 403 years and had other sons and daughters.
 
 ## Genesis 11:14
-Shelah lived 30 years and became the father of Eber.
+Shelah reached the age of 30 and fathered Eber.
 
 ## Genesis 11:15
-After he became the father of Eber, Shelah lived 403 years and had other sons and daughters.
+After fathering Eber, Shelah lived 403 years and had other sons and daughters.
 
 ## Genesis 11:16
-Eber lived 34 years and became the father of Peleg.
+Eber reached the age of 34 and fathered Peleg.
 
 ## Genesis 11:17
-After he became the father of Peleg, Eber lived 430 years and had other sons and daughters.
+After fathering Peleg, Eber lived 430 years and had other sons and daughters.
 
 ## Genesis 11:18
-Peleg lived 30 years and became the father of Reu.
+Peleg reached the age of 30 and fathered Reu.
 
 ## Genesis 11:19
-After he became the father of Reu, Peleg lived 209 years and had other sons and daughters.
+After fathering Reu, Peleg lived 209 years and had other sons and daughters.
 
 ## Genesis 11:20
-Reu lived 32 years and became the father of Serug.
+Reu reached the age of 32 and fathered Serug.
 
 ## Genesis 11:21
-After he became the father of Serug, Reu lived 207 years and had other sons and daughters.
+After fathering Serug, Reu lived 207 years and had other sons and daughters.
 
 ## Genesis 11:22
-Serug lived 30 years and became the father of Nahor.
+Serug reached the age of 30 and fathered Nahor.
 
 ## Genesis 11:23
-After he became the father of Nahor, Serug lived 200 years and had other sons and daughters.
+After fathering Nahor, Serug lived 200 years and had other sons and daughters.
 
 ## Genesis 11:24
-Nahor lived 29 years and became the father of Terah.
+Nahor reached the age of 29 and fathered Terah.
 
 ## Genesis 11:25
-After he became the father of Terah, Nahor lived 119 years and had other sons and daughters.
+After fathering Terah, Nahor lived 119 years and had other sons and daughters.
 
 ## Genesis 11:26
-Terah lived 70 years and became the father of Abram, Nahor, and Haran.
+Terah reached the age of 70 and fathered Abram, Nahor, and Haran.
 
 ## Genesis 11:27
-These are the generations of Terah. Terah became the father of Abram, Nahor, and Haran; and Haran became the father of Lot.
+These are the generations of Terah. Terah fathered Abram, Nahor, and Haran, and Haran fathered Lot.
 
 ## Genesis 11:28
-Haran died in the presence of his father Terah in the land of his birth, in Ur of the Chaldeans.
+Haran passed away during his father Terah's lifetime in the land of his birth, in Ur of the Chaldeans.
 
 ## Genesis 11:29
 Abram and Nahor took wives for themselves. Abram’s wife was named Sarai, and Nahor’s wife was named Milcah, the daughter of Haran, the father of both Milcah and Iscah.
 
 ## Genesis 11:30
-Sarai was barren; she had no child.
+Sarai was unable to have children; she had no child.
 
 ## Genesis 11:31
 Terah took his son Abram, his grandson Lot, son of Haran, and his daughter-in-law Sarai, Abram’s wife, and they set out from Ur of the Chaldeans to go to the land of Canaan. But when they reached Haran, they settled there.
 
 ## Genesis 11:32
-Terah lived 205 years, and he died in Haran.
+Terah lived to be 205 years old, and he passed away in Haran.

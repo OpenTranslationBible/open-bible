@@ -14,7 +14,7 @@ For behold, the days are coming,’ declares the Lord, ‘when I will restore th
 
 ## Jeremiah 30:4
 
-These are the words the Lord spoke concerning Israel and Judah:
+This is what the Lord communicated about Israel and Judah:
 
 ## Jeremiah 30:5
 
@@ -34,7 +34,7 @@ Alas, how dreadful that day will be! There is none like it. It is the time of Ja
 
 ## Jeremiah 30:9
 
-Instead, they shall serve the Lord their God and David their king, whom I will raise up for them.
+Rather, they will serve the Lord their God and David their king, whom I will raise up for them.
 
 ---
 
@@ -52,7 +52,7 @@ For I am with you,’ declares the Lord, ‘to save you. Though I will completel
 
 ## Jeremiah 30:13
 
-There is no one to plead your cause, no remedy for your sore, no healing for you.
+There is no one to advocate for you, no remedy for your sore, no healing for you.
 
 ## Jeremiah 30:14
 
@@ -68,7 +68,7 @@ Therefore, all who devour you will be devoured; all your adversaries, every one 
 
 ## Jeremiah 30:17
 
-But I will restore you to health and heal your wounds,’ declares the Lord, ‘because you are called an outcast, Zion for whom no one cares.’
+However, I will restore you to health and heal your wounds,’ declares the Lord, ‘because you are called an outcast, Zion for whom no one cares.’
 
 ## Jeremiah 30:18
 
@@ -80,7 +80,7 @@ From them will come songs of thanksgiving and the sound of rejoicing. I will mul
 
 ## Jeremiah 30:20
 
-Their children will be as in days of old, and their community will be established before Me; I will punish all who oppress them.
+Their children will thrive as in days of old, and their community will be established before Me; I will punish all who oppress them.
 
 ## Jeremiah 30:21
 

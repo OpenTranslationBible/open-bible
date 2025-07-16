@@ -25,10 +25,10 @@ I will recount the mercies of the Lord, and the praises of the Lord, according t
 For he said, “Surely they are my people, children who will not be false.” So he became their Saviour.
 
 ## Isaiah 63:9
-In all their distress he too was distressed, and the angel of his presence saved them. In his love and mercy he redeemed them; he lifted them up and carried them all the days of old.
+In all their suffering, he also suffered, and the angel of his presence delivered them. In his love and mercy, he redeemed them; he lifted them up and carried them throughout the days of old.
 
 ## Isaiah 63:10
-Yet they rebelled and grieved his Holy Spirit; so he turned and became their enemy, and he himself fought against them.
+Yet they rebelled and saddened his Holy Spirit; so he turned and became their adversary, and he himself contended against them.
 
 ## Isaiah 63:11
 Then his people remembered the days of old, the days of Moses. Where is he who brought them through the sea with the shepherd of his flock? Where is he who set his Holy Spirit among them,

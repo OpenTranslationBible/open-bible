@@ -36,11 +36,11 @@ By this my Father is glorified, that you bear much fruit and thus prove to be my
 
 ## John 15:9
 
-As the Father has loved me, so have I loved you. Remain in my love.
+Just as the Father has loved me, so have I loved you. Stay in my love.
 
 ## John 15:10
 
-If you keep my commandments, you will remain in my love, just as I have kept my Father’s commandments and remain in his love.
+If you follow my commandments, you will stay in my love, just as I have followed my Father’s commandments and stay in his love.
 
 ## John 15:11
 
@@ -54,7 +54,7 @@ This is my commandment: that you love one another as I have loved you.
 
 ## John 15:13
 
-Greater love has no one than this: to lay down one’s life for one’s friends.
+There is no greater love than this: to give up one’s life for one’s friends.
 
 ## John 15:14
 
@@ -76,7 +76,7 @@ This is my command: love one another.
 
 ## John 15:18
 
-If the world hates you, know that it hated me before it hated you.
+If the world hates you, remember that it hated me before it hated you.
 
 ## John 15:19
 
@@ -88,7 +88,7 @@ Remember the word I said to you: ‘A servant is not greater than his master.’
 
 ## John 15:21
 
-They will do all these things to you on account of my name, because they do not know the one who sent me.
+They will do all these things to you because of my name, as they do not know the one who sent me.
 
 ## John 15:22
 

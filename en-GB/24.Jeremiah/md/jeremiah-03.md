@@ -10,7 +10,7 @@ The Lord says, “If a man divorces his wife and she departs from him to become 
 As a result, the showers have been withheld, and there has been no spring rain. You have the boldness of a prostitute; you refuse to feel shame.
 
 ## Jeremiah 3:4
-Have you not just called out to me: ‘My Father, you are the friend of my youth,
+Have you not just called out to me: ‘My Father, you are the companion of my youth,
 
 ## Jeremiah 3:5
 will you be angry forever? Will your wrath persist to the end?’ This is what you say, but you continue to do all the evil you can.”
@@ -58,7 +58,7 @@ In those days the house of Judah will walk with the house of Israel, and togethe
 “I said, ‘How gladly would I treat you as sons and give you a pleasant land, the most beautiful inheritance of any nation.’ I thought you would call me ‘Father’ and not turn away from following me.
 
 ## Jeremiah 3:20
-But like a woman unfaithful to her husband, so you, Israel, have been unfaithful to me,” declares the Lord.
+But just as a woman is unfaithful to her husband, so you, Israel, have been unfaithful to me,” declares the Lord.
 
 ## Jeremiah 3:21
 A voice is heard on the barren heights, the weeping and pleading of the people of Israel, because they have perverted their ways and have forgotten the Lord their God.

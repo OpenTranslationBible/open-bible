@@ -6,7 +6,7 @@ Then some Pharisees and scribes came to Jesus from Jerusalem and asked,
 
 ## Matthew 15:2
 
-“Why do your disciples break the tradition of the elders? They do not wash their hands when they eat bread.”
+“Why do your disciples disregard the tradition of the elders? They do not wash their hands before they eat.”
 
 ## Matthew 15:3
 
@@ -22,7 +22,7 @@ But you say that if anyone declares to their father or mother, ‘Whatever help 
 
 ## Matthew 15:6
 
-they are not to honour their father or mother with it. Thus you nullify the word of God for the sake of your tradition.
+they are not to fulfill their duty to their father or mother with it. Thus you nullify the word of God for the sake of your tradition.
 
 ## Matthew 15:7
 
@@ -42,7 +42,7 @@ You hypocrites! Isaiah was right when he prophesied about you:
 
 ## Matthew 15:10
 
-Jesus called the crowd to him and said, “Listen and understand.
+Jesus gathered the crowd and said, “Listen and understand.
 
 ## Matthew 15:11
 
@@ -60,17 +60,17 @@ He replied, “Every plant that my heavenly Father has not planted will be uproo
 
 ## Matthew 15:14
 
-Leave them; they are blind guides. If the blind lead the blind, both will fall into a pit.”
+Let them be; they are blind guides. If the blind lead the blind, both will fall into a pit.”
 
 ---
 
 ## Matthew 15:15
 
-Peter said, “Explain the parable to us.”
+Peter said, “Help us understand the parable.”
 
 ## Matthew 15:16
 
-“Are you still so dull?” Jesus asked them.
+“Are you still lacking in understanding?” Jesus asked them.
 
 ## Matthew 15:17
 
@@ -82,7 +82,7 @@ But the things that come out of the mouth come from the heart, and these defile 
 
 ## Matthew 15:19
 
-For out of the heart come evil thoughts—murder, adultery, sexual immorality, theft, false testimony, slander.
+For out of the heart come evil thoughts—acts of murder, adultery, sexual immorality, theft, false testimony, slander.
 
 ## Matthew 15:20
 
@@ -108,11 +108,11 @@ He answered, “I was sent only to the lost sheep of the house of Israel.”
 
 ## Matthew 15:25
 
-The woman came and knelt before him. “Lord, help me!” she said.
+The woman came and bowed before him. “Lord, help me!” she said.
 
 ## Matthew 15:26
 
-He replied, “It is not right to take the children’s bread and throw it to the dogs.”
+He replied, “It is not right to take the children’s bread and give it to the dogs.”
 
 ## Matthew 15:27
 
@@ -120,21 +120,21 @@ He replied, “It is not right to take the children’s bread and throw it to th
 
 ## Matthew 15:28
 
-Then Jesus said to her, “Woman, you have great faith! Your request is granted.” And her daughter was healed at that moment.
+Then Jesus said to her, “Woman, your faith is great! Your request is granted.” And her daughter was healed at that moment.
 
 ---
 
 ## Matthew 15:29
 
-Jesus left there and went along the Sea of Galilee. Then he went up on a mountainside and sat down.
+Jesus departed from there and traveled along the Sea of Galilee. Then he went up on a mountainside and sat down.
 
 ## Matthew 15:30
 
-Great crowds came to him, bringing the lame, the blind, the crippled, the mute and many others, and laid them at his feet; and he healed them.
+Large crowds came to him, bringing the lame, the blind, the crippled, the mute, and many others, and laid them at his feet; and he healed them.
 
 ## Matthew 15:31
 
-The people were amazed when they saw the mute speaking, the crippled made well, the lame walking and the blind seeing. And they glorified the God of Israel.
+The people were amazed when they saw the mute speaking, the crippled made well, the lame walking, and the blind seeing. And they glorified the God of Israel.
 
 ---
 
@@ -152,15 +152,15 @@ His disciples answered, “Where could we get enough bread in this desolate plac
 
 ## Matthew 15:35
 
-He directed the crowd to sit down on the ground.
+He instructed the crowd to sit down on the ground.
 
 ## Matthew 15:36
 
-Then he took the seven loaves and the fish, and when he had given thanks, he broke them and gave them to the disciples, and they in turn to the people.
+Then he took the seven loaves and the fish, and after giving thanks, he broke them and gave them to the disciples, and they in turn to the people.
 
 ## Matthew 15:37
 
-They all ate and were satisfied. Afterward the disciples picked up seven basketfuls of broken pieces that were left over.
+Everyone ate and was satisfied. Afterward, the disciples collected seven basketfuls of leftover pieces.
 
 ## Matthew 15:38
 

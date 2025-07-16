@@ -22,13 +22,13 @@ Then I said, “Alas, Sovereign Lord! I do not know how to speak, for I am a you
 But the Lord said to me, “Do not say, ‘I am too young,’ for you must go to everyone I send you to and speak whatever I command you.
 
 ## Jeremiah 1:8
-Do not be afraid of them, for I am with you to deliver you,” declares the Lord.
+Do not fear them, for I am with you to protect you,” declares the Lord.
 
 ## Jeremiah 1:9
-Then the Lord reached out His hand and touched my mouth and said to me, “I have put My words in your mouth.
+Then the Lord extended His hand and touched my mouth and said to me, “I have placed My words in your mouth.
 
 ## Jeremiah 1:10
-See, today I appoint you over nations and kingdoms to uproot and tear down, to destroy and overthrow, to build and to plant.”
+See, today I appoint you over nations and kingdoms to uproot and dismantle, to destroy and overthrow, to build and to plant.”
 
 ## Jeremiah 1:11
 The word of the Lord came to me, saying, “What do you see, Jeremiah?” And I replied, “I see the branch of an almond tree.”

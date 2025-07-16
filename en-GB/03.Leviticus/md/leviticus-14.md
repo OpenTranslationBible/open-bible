@@ -52,7 +52,7 @@ He shall dip his right forefinger into the oil in his palm and sprinkle some of 
 Some of the remaining oil in his palm the priest shall put on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand, and on the big toe of their right foot, on top of the blood of the guilt offering.
 
 ## Leviticus 14:18
-The rest of the oil in his palm the priest shall put on the head of the one to be cleansed and make atonement for them before the Lord.
+The remaining oil in his palm the priest shall place on the head of the one to be cleansed, making atonement for them before the Lord.
 
 ## Leviticus 14:19
 Then the priest shall offer the sin offering and make atonement for the one to be cleansed from their uncleanness. After that, he shall slaughter the burnt offering.
@@ -73,7 +73,7 @@ On the eighth day, they must bring them for their cleansing to the priest at the
 The priest shall take the lamb for the guilt offering, together with the log of oil, and wave them as a wave offering before the Lord.
 
 ## Leviticus 14:25
-He shall slaughter the lamb for the guilt offering and take some of its blood and put it on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand, and on the big toe of their right foot.
+He shall slaughter the lamb for the guilt offering and apply some of its blood to the lobe of the right ear of the one to be cleansed, on the thumb of their right hand, and on the big toe of their right foot.
 
 ## Leviticus 14:26
 The priest shall pour some of the oil into the palm of his left hand.
@@ -82,10 +82,10 @@ The priest shall pour some of the oil into the palm of his left hand.
 With his right forefinger, the priest shall sprinkle some of the oil from his palm seven times before the Lord.
 
 ## Leviticus 14:28
-Some of the oil in his palm he shall put on the same places he put the blood of the guilt offering—on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand, and on the big toe of their right foot.
+Some of the oil in his palm he shall apply to the same places he put the blood of the guilt offering—on the lobe of the right ear of the one to be cleansed, on the thumb of their right hand, and on the big toe of their right foot.
 
 ## Leviticus 14:29
-The rest of the oil in his palm the priest shall put on the head of the one to be cleansed, to make atonement for them before the Lord.
+The remaining oil in his palm the priest shall place on the head of the one to be cleansed, to make atonement for them before the Lord.
 
 ## Leviticus 14:30
 He shall then offer one of the turtledoves or young pigeons, whichever they can afford.
@@ -100,10 +100,10 @@ This is the law for anyone who has a defiling skin disease and cannot afford the
 The Lord also spoke to Moses and Aaron, saying:
 
 ## Leviticus 14:34
-“When you enter the land of Canaan, which I am giving you as your possession, and I put a spreading mould in a house in that land,
+“When you enter the land of Canaan, which I am giving you as your possession, and I allow a spreading mould in a house in that land,
 
 ## Leviticus 14:35
-the owner of the house must go and tell the priest, ‘I have seen something that looks like a defiling mould in my house.’
+the owner of the house must go and tell the priest, ‘I have noticed something that resembles a defiling mould in my house.’
 
 ## Leviticus 14:36
 The priest shall command that the house be emptied before he goes in to examine the mould, so that nothing in the house will be pronounced unclean. After this, the priest shall go in to inspect the house.
@@ -121,7 +121,7 @@ On the seventh day, the priest shall return to inspect the house. If the mould h
 he shall order that the contaminated stones be torn out and thrown into an unclean place outside the town.
 
 ## Leviticus 14:41
-He must have all the inside walls of the house scraped, and the material that is scraped off dumped into an unclean place outside the town.
+He must have all the inside walls of the house scraped, and the material that is scraped off taken to an unclean place outside the town.
 
 ## Leviticus 14:42
 Then they shall take other stones to replace these and take new clay and plaster the house.
@@ -133,7 +133,7 @@ If the defiling mould reappears in the house after the stones have been torn out
 the priest shall go and examine it, and if the mould has spread in the house, it is a persistent defiling mould; the house is unclean.
 
 ## Leviticus 14:45
-It must be torn down—its stones, timbers, and all the plaster—and taken out of the town to an unclean place.
+The house must be torn down—its stones, timbers, and all the plaster—and taken out of the town to an unclean place.
 
 ## Leviticus 14:46
 Anyone who goes into the house while it is closed up will be unclean until evening.
@@ -142,7 +142,7 @@ Anyone who goes into the house while it is closed up will be unclean until eveni
 Anyone who sleeps or eats in the house must wash their clothes.
 
 ## Leviticus 14:48
-But if the priest comes to examine it and the mould has not spread after the house has been plastered, he shall pronounce the house clean, because the defiling mould is gone.
+But if the priest comes to examine it and the mould has not spread after the house has been plastered, he shall declare the house clean, because the defiling mould is gone.
 
 ## Leviticus 14:49
 To purify the house, he shall take two birds, cedar wood, scarlet yarn, and hyssop.
@@ -154,7 +154,7 @@ He shall kill one of the birds over fresh water in a clay pot.
 Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them into the blood of the dead bird and the fresh water, and sprinkle the house seven times.
 
 ## Leviticus 14:52
-He shall purify the house with the bird’s blood, the fresh water, the live bird, the cedar wood, the hyssop, and the scarlet yarn.
+He shall purify the house using the bird’s blood, the fresh water, the live bird, the cedar wood, the hyssop, and the scarlet yarn.
 
 ## Leviticus 14:53
 Then he shall release the live bird in the open fields outside the town. In this way, he will make atonement for the house, and it will be clean.”

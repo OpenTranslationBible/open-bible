@@ -22,7 +22,7 @@ The Lord passed before him and proclaimed, “The Lord, the Lord God, compassion
 maintaining love to thousands, forgiving iniquity, transgression, and sin. Yet He will not leave the guilty unpunished, visiting the iniquity of the fathers on the children and grandchildren to the third and fourth generations.”
 
 ## Exodus 34:8
-Moses quickly bowed to the ground and worshipped.
+Moses immediately bowed to the ground in reverence.
 
 ## Exodus 34:9
 He said, “If I have found favour in Your sight, Lord, please let the Lord accompany us. Although this is a stubborn people, forgive our iniquity and our sin, and claim us as Your inheritance.”
@@ -40,7 +40,7 @@ Take care not to form a covenant with the inhabitants of the land you are enteri
 Instead, you shall demolish their altars, shatter their sacred stones, and cut down their Asherah poles.
 
 ## Exodus 34:14
-Do not worship any other god, for the Lord, whose name is Jealous, is a jealous God.
+Do not serve any other god, for the Lord, whose name is Jealous, is a God who desires exclusive devotion.
 
 ## Exodus 34:15
 Be cautious not to make a covenant with the inhabitants of the land; for when they engage in idolatry and sacrifice to their gods, they will invite you, and you will partake of their sacrifices.
@@ -58,7 +58,7 @@ Observe the Festival of Unleavened Bread. For seven days you shall eat unleavene
 The first offspring of every womb belongs to Me, including all the firstborn males of your livestock, whether cattle or sheep.
 
 ## Exodus 34:20
-Redeem the firstborn donkey with a lamb, but if you do not redeem it, break its neck. Redeem all your firstborn sons. No one is to appear before Me empty-handed.
+Redeem the firstborn donkey with a lamb, but if you do not redeem it, break its neck. Redeem all your firstborn sons. No one should come before Me without an offering.
 
 ## Exodus 34:21
 You shall labour for six days, but on the seventh day, you shall rest; even during the ploughing and harvest seasons, you must rest.
@@ -97,7 +97,7 @@ Moses called to them, and Aaron and all the leaders of the community returned to
 Afterwards, all the Israelites came near, and he relayed to them all the commands the Lord had given him on Mount Sinai.
 
 ## Exodus 34:33
-When Moses finished speaking with them, he covered his face with a veil.
+After Moses finished speaking with them, he placed a veil over his face.
 
 ## Exodus 34:34
 Whenever Moses entered the Lord’s presence to speak with Him, he removed the veil until he came out. When he came out and conveyed the commands to the Israelites,

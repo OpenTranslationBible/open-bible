@@ -10,7 +10,7 @@ If indeed Abraham was justified by works, he has something to boast about, but n
 
 ## Romans 4:3
 
-For what does Scripture say? “Abraham believed God, and it was credited to him as righteousness.”
+What does Scripture declare? “Abraham believed God, and it was accounted to him as righteousness.”
 
 ## Romans 4:4
 
@@ -61,11 +61,11 @@ For if those who rely on the law are heirs, then faith is made void and the prom
 
 ## Romans 4:15
 
-because the law brings wrath. And where there is no law, there is no transgression.
+because the law results in wrath. And where there is no law, there is no transgression.
 
 ## Romans 4:16
 
-Therefore, the promise comes by faith, so that it may be by grace and may be guaranteed to all Abraham’s offspring—not only to those who are of the law but also to those who have the faith of Abraham. He is the father of us all.
+Therefore, the promise is based on faith, so that it may rest on grace and be assured to all Abraham’s offspring—not only to those who are of the law but also to those who share the faith of Abraham. He is the father of us all.
 
 ## Romans 4:17
 
@@ -81,7 +81,7 @@ Without weakening in his faith, he considered his own body, now as good as dead 
 
 ## Romans 4:20
 
-Yet he did not waver through unbelief regarding the promise of God, but was strengthened in his faith and gave glory to God,
+Yet he did not hesitate through unbelief regarding God’s promise, but was strengthened in his faith and gave glory to God,
 
 ## Romans 4:21
 
@@ -101,4 +101,4 @@ but also for us, to whom it will be credited—for us who believe in Him who rai
 
 ## Romans 4:25
 
-He was delivered over to death for our sins and was raised to life for our justification.
+He was handed over to death for our sins and was raised to life for our justification.

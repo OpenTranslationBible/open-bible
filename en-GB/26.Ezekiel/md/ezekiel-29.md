@@ -94,4 +94,4 @@ I have given him Egypt as a reward for his efforts because he and his army acted
 
 ## Ezekiel 29:21
 
-“On that day I will make a horn sprout for the house of Israel, and I will open your mouth among them. Then they will know that I am the Lord.”
+“On that day, I will cause strength to arise for the house of Israel, and I will enable you to speak among them. Then they will know that I am the Lord.”

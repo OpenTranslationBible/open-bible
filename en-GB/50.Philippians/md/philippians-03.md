@@ -19,34 +19,34 @@ circumcised on the eighth day, of the people of Israel, of the tribe of Benjamin
 regarding zeal, persecuting the church; regarding righteousness based on the law, faultless.
 
 ## Philippians 3:7
-But whatever were gains to me, I now consider loss for the sake of Christ.
+Yet, whatever advantages I had, I now regard as loss for the sake of Christ.
 
 ## Philippians 3:8
 Indeed, I consider everything a loss because of the surpassing worth of knowing Christ Jesus my Lord, for whose sake I have lost all things. I consider them rubbish, that I may gain Christ
 
 ## Philippians 3:9
-and be found in him, not having a righteousness of my own that comes from the law, but that which is through faith in Christ—the righteousness that comes from God on the basis of faith.
+and be found in him, not having a righteousness of my own derived from the law, but that which is through faith in Christ—the righteousness that comes from God based on faith.
 
 ## Philippians 3:10
 I want to know Christ and the power of his resurrection and the fellowship of his sufferings, becoming like him in his death,
 
 ## Philippians 3:11
-and so, somehow, attaining to the resurrection from the dead.
+and so, in some way, attaining to the resurrection from the dead.
 
 ## Philippians 3:12
 Not that I have already obtained all this, or have already been made perfect, but I press on to take hold of that for which Christ Jesus took hold of me.
 
 ## Philippians 3:13
-Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: forgetting what is behind and straining towards what is ahead,
+Brothers and sisters, I do not consider myself yet to have taken hold of it. But one thing I do: forgetting what lies behind and striving towards what is ahead,
 
 ## Philippians 3:14
 I press on towards the goal to win the prize of the upward call of God in Christ Jesus.
 
 ## Philippians 3:15
-All of us, then, who are mature should take such a view of things. And if on some point you think differently, that too God will make clear to you.
+All of us, then, who are mature should take such a view of things. And if you think differently about anything, that too God will make clear to you.
 
 ## Philippians 3:16
-Only let us live up to what we have already attained.
+Let us continue to live up to what we have already attained.
 
 ## Philippians 3:17
 Join together in following my example, brothers and sisters, and observe those who live according to the pattern you have in us.

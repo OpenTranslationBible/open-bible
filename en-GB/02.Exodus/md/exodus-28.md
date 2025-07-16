@@ -55,7 +55,7 @@ Mount four rows of precious stones on it. The first row shall be ruby, topaz, an
 the second row shall be turquoise, sapphire, and diamond;
 
 ## Exodus 28:19
-the third row shall be jacinth, agate, and amethyst;
+the third row shall consist of jacinth, agate, and amethyst;
 
 ## Exodus 28:20
 and the fourth row shall be beryl, onyx, and jasper. Set them in gold filigree.
@@ -64,7 +64,7 @@ and the fourth row shall be beryl, onyx, and jasper. Set them in gold filigree.
 There shall be twelve stones, one for each of the names of the sons of Israel, each engraved like a seal with the name of one of the twelve tribes.
 
 ## Exodus 28:22
-“For the breastpiece, make braided chains of pure gold, like a rope.
+“For the breastpiece, craft braided chains of pure gold, resembling a rope.
 
 ## Exodus 28:23
 Make two gold rings for it and attach them to the two corners of the breastpiece.
@@ -76,7 +76,7 @@ Attach the two gold chains to the rings at the corners of the breastpiece,
 and the other ends of the chains to the two settings, fastening them to the shoulder pieces of the ephod at the front.
 
 ## Exodus 28:26
-Make two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod.
+Create two gold rings and attach them to the other two corners of the breastpiece on the inside edge next to the ephod.
 
 ## Exodus 28:27
 Make two more gold rings and attach them to the bottom of the shoulder pieces of the ephod, at the front, close to the seam above the waistband of the ephod.
@@ -106,7 +106,7 @@ A golden bell and a pomegranate, a golden bell and a pomegranate, all around the
 Aaron must wear it when he ministers, so that the sound of the bells will be heard when he enters and leaves the Holy Place before the Lord, so that he will not die.
 
 ## Exodus 28:36
-“Make a plate of pure gold and engrave on it, as on a seal: ‘Holy to the Lord.’
+“Craft a plate of pure gold and engrave on it, as on a seal: ‘Holy to the Lord.’
 
 ## Exodus 28:37
 Fasten a violet cord to it to attach it to the turban; it is to be on the front of the turban.

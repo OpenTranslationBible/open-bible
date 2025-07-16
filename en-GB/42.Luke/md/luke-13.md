@@ -42,11 +42,11 @@ If it bears fruit next year, well and good; but if not, then cut it down.’”
 
 ## Luke 13:10
 
-On a Sabbath, Jesus was teaching in one of the synagogues,
+One Sabbath, while Jesus was teaching in a synagogue,
 
 ## Luke 13:11
 
-and there was a woman who had been crippled by a spirit for eighteen years. She was bent over and could not straighten up at all.
+there was a woman who had been crippled by a spirit for eighteen years. She was bent over and could not straighten up at all.
 
 ## Luke 13:12
 
@@ -100,7 +100,7 @@ And He went through the towns and villages, teaching as He made His way to Jerus
 
 ## Luke 13:23
 
-Someone asked Him, “Lord, are only a few people going to be saved?” He said to them,
+Someone inquired of Him, “Lord, will only a few be saved?” He responded to them,
 
 ## Luke 13:24
 
@@ -148,8 +148,8 @@ Nevertheless, I must continue my journey today, tomorrow, and the next day—for
 
 ## Luke 13:34
 
-Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.
+O Jerusalem, Jerusalem, you who harm the prophets and stone those sent to you, how often I have desired to gather your children together, as a hen gathers her chicks under her wings, but you were not willing.
 
 ## Luke 13:35
 
-Look, your house is left to you desolate. I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord.’”
+Behold, your house is left to you desolate. I tell you, you will not see me again until you declare, ‘Blessed is he who comes in the name of the Lord.’”

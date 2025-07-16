@@ -104,7 +104,7 @@ Immediately, because Herod did not give glory to God, an angel of the Lord struc
 
 ## Acts 12:24
 
-But the word of God continued to spread and flourish.
+Yet, the message of God continued to grow and spread.
 
 ## Acts 12:25
 

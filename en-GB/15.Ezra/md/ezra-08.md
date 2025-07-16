@@ -4,7 +4,7 @@
 These are the heads of the families and the genealogical records of those who went up with me from Babylon during the reign of King Artaxerxes:
 
 ## Ezra 8:2
-of the descendants of Phinehas, Gershom; of the descendants of Ithamar, Daniel; of the descendants of David, Hattush;
+from the lineage of Phinehas, Gershom; from the lineage of Ithamar, Daniel; from the lineage of David, Hattush;
 
 ## Ezra 8:3
 of the descendants of Shekaniah, who was of the descendants of Parosh, Zechariah, and with him were listed 150 males;
@@ -70,7 +70,7 @@ I was embarrassed to request soldiers and horsemen from the king to protect us f
 So we fasted and entreated our God about this, and He listened to our plea.
 
 ## Ezra 8:24
-Then I set apart twelve of the leading priests: Sherebiah, Hashabiah, and with them ten of their brothers.
+Then I designated twelve of the leading priests: Sherebiah, Hashabiah, and with them ten of their brothers.
 
 ## Ezra 8:25
 I weighed out to them the silver, the gold, and the articles, the offering for the house of our God that the king, his advisers, his officials, and all Israel present had contributed.
@@ -100,7 +100,7 @@ So we arrived in Jerusalem and stayed there for three days.
 On the fourth day, in the house of our God, we weighed out the silver, the gold, and the sacred articles into the hands of Meremoth son of Uriah, the priest. Eleazar son of Phinehas was with him, and so were the Levites Jozabad son of Jeshua and Noadiah son of Binnui.
 
 ## Ezra 8:34
-Everything was accounted for by number and weight, and the entire weight was recorded at that time.
+Everything was verified by number and weight, and the entire weight was recorded at that time.
 
 ## Ezra 8:35
 Then the exiles who had returned from captivity offered burnt offerings to the God of Israel: twelve bulls for all Israel, ninety-six rams, seventy-seven male lambs, and twelve male goats as a sin offering. All this was a burnt offering to the Lord.

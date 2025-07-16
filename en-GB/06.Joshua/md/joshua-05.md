@@ -4,10 +4,10 @@
 When all the kings of the Amorites west of the Jordan and all the kings of the Canaanites by the sea heard how the Lord had dried up the waters of the Jordan before the Israelites until they had crossed over, their hearts melted in fear, and they lost all spirit to face the Israelites.
 
 ## Joshua 5:2
-At that time, the Lord said to Joshua, “Make flint knives and circumcise the Israelites again.”
+At that time, the Lord instructed Joshua, “Prepare flint knives and perform the circumcision on the Israelites once more.”
 
 ## Joshua 5:3
-So Joshua made flint knives and circumcised the Israelites at Gibeath Haaraloth.
+So Joshua prepared flint knives and carried out the circumcision of the Israelites at Gibeath Haaraloth.
 
 ## Joshua 5:4
 This is why Joshua circumcised them: all the males, the men of war who came out of Egypt, died in the wilderness on the journey after leaving Egypt.

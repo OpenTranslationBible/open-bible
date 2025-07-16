@@ -16,7 +16,7 @@ Why do you boast of your valleys, your valley so fruitful? Backsliding Daughter 
 Behold, I am going to bring terror upon you,” declares the Lord, the God of armies, “from all those around you; every one of you will be driven away, and no one will gather the fugitives.
 
 ## Jeremiah 49:6
-“Yet afterward, I will restore the fortunes of the Ammonites,” declares the Lord.
+“Yet afterward, I will bring back the prosperity of the Ammonites,” declares the Lord.
 
 ## Jeremiah 49:7
 Concerning Edom: This is what the Lord of armies says: “Is there no longer wisdom in Teman? Has counsel perished from the prudent? Has their wisdom decayed?
@@ -43,28 +43,28 @@ I have sworn by myself,” declares the Lord, “that Bozrah will become a ruin,
 I have heard a message from the Lord; an envoy was sent to the nations to say, “Assemble yourselves and come against her! Rise up for battle!”
 
 ## Jeremiah 49:15
-“For behold, I have made you small among the nations, despised among people.
+“For behold, I have made you insignificant among the nations, looked down upon by people.
 
 ## Jeremiah 49:16
 The terror you inspire and the arrogance of your heart have deceived you, you who live in the clefts of the rocks, who occupy the heights of the hill. Though you build your nest as high as the eagle’s, from there I will bring you down,” declares the Lord.
 
 ## Jeremiah 49:17
-“Edom will become an object of horror; all who pass by will be appalled and will scoff because of all its wounds.
+“Edom will become a place of dread; all who pass by will be appalled and will scoff because of all its wounds.
 
 ## Jeremiah 49:18
-As Sodom and Gomorrah were overthrown, along with their neighbouring towns,” says the Lord, “so no one will live there; no people will dwell in it.
+As Sodom and Gomorrah were overthrown, along with their neighboring towns,” says the Lord, “so no one will live there; no people will dwell in it.
 
 ## Jeremiah 49:19
 “Like a lion coming up from the thickets of the Jordan to a rich pastureland, I will chase Edom from its land in an instant. Who is the chosen one I will appoint for this? Who is like me and who can summon me into court? And what shepherd can stand against me?”
 
 ## Jeremiah 49:20
-Therefore, hear what the Lord has planned against Edom, what he has purposed against those who live in Teman: the young of the flock will be dragged away; their pasture will be appalled at their fate.
+Therefore, hear what the Lord has planned against Edom, what he has purposed against those who live in Teman: the young of the flock will be dragged away; their pasture will be shocked at their fate.
 
 ## Jeremiah 49:21
-At the sound of their fall the earth will tremble; their cry will resound to the Red Sea.
+At the sound of their fall the earth will tremble; their cry will echo to the Red Sea.
 
 ## Jeremiah 49:22
-Behold, an eagle will soar and swoop down, spreading its wings over Bozrah. In that day the hearts of Edom’s warriors will be like the heart of a woman in labour.
+Behold, an eagle will soar and swoop down, spreading its wings over Bozrah. In that day the hearts of Edom’s warriors will be like the heart of a woman in labor.
 
 ## Jeremiah 49:23
 Concerning Damascus: “Hamath and Arpad are dismayed, for they have heard bad news. They are disheartened, troubled like the restless sea.
@@ -79,10 +79,10 @@ How has the city of renown not been abandoned, the town in which I delight?
 Surely, her young men will fall in her streets; all her soldiers will be silenced in that day,” declares the Lord of armies.
 
 ## Jeremiah 49:27
-“I will set fire to the walls of Damascus; it will consume the fortresses of Ben-Hadad.”
+“I will set fire to the walls of Damascus; it will consume the strongholds of Ben-Hadad.”
 
 ## Jeremiah 49:28
-Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon attacked: This is what the Lord says: “Arise, and attack Kedar and destroy the people of the East.
+Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon attacked: This is what the Lord says: “Arise, and attack Kedar and devastate the people of the East.
 
 ## Jeremiah 49:29
 Their tents and their flocks will be taken; their shelters will be carried off with all their goods and camels. People will shout to them, ‘Terror on every side!’
@@ -109,10 +109,10 @@ This is what the Lord of armies says: “See, I will break the bow of Elam, the 
 I will bring against Elam the four winds from the four quarters of heaven; I will scatter them to the four winds, and there will not be a nation where Elam’s exiles do not go.
 
 ## Jeremiah 49:37
-I will shatter Elam before their foes, before those who want to kill them; I will bring disaster on them, even my fierce anger,” declares the Lord. “I will pursue them with the sword until I have made an end of them.
+I will shatter Elam before their foes, before those who seek their lives; I will bring disaster on them, even my fierce anger,” declares the Lord. “I will pursue them with the sword until I have made an end of them.
 
 ## Jeremiah 49:38
-I will set my throne in Elam and destroy her king and officials,” declares the Lord.
+I will establish my throne in Elam and destroy her king and officials,” declares the Lord.
 
 ## Jeremiah 49:39
-“Yet I will restore the fortunes of Elam in the last days,” declares the Lord.
+“Yet I will bring back the prosperity of Elam in the last days,” declares the Lord.

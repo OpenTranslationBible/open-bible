@@ -26,7 +26,7 @@ I looked into it and saw four-footed animals of the earth, wild beasts, reptiles
 
 ## Acts 11:7
 
-Then I heard a voice telling me, ‘Get up, Peter; kill and eat.’
+Then I heard a voice instructing me, ‘Arise, Peter; prepare and eat.’
 
 ## Acts 11:8
 
@@ -34,11 +34,11 @@ But I said, ‘Certainly not, Lord! Nothing impure or unclean has ever entered m
 
 ## Acts 11:9
 
-The voice spoke from heaven a second time, ‘Do not call anything impure that God has made clean.’
+The voice spoke from heaven again, ‘Do not consider anything impure that God has made clean.’
 
 ## Acts 11:10
 
-This happened three times, and then it was all pulled up to heaven again.
+This happened three times, and then it was all taken back to heaven.
 
 ## Acts 11:11
 
@@ -54,7 +54,7 @@ He told us how he had seen an angel in his house, saying, ‘Send to Joppa for S
 
 ## Acts 11:14
 
-He will bring you a message through which you and all your household will be saved.’
+He will bring you a message through which you and your entire household will find salvation.’
 
 ## Acts 11:15
 
@@ -62,7 +62,7 @@ As I began to speak, the Holy Spirit came upon them just as He had come upon us 
 
 ## Acts 11:16
 
-Then I remembered what the Lord had said: ‘John baptised with water, but you will be baptised with the Holy Spirit.’
+Then I remembered what the Lord had said: ‘John used water for baptism, but you will be baptized with the Holy Spirit.’
 
 ## Acts 11:17
 
@@ -84,11 +84,11 @@ But some of them, men from Cyprus and Cyrene, went to Antioch and began to speak
 
 ## Acts 11:21
 
-The hand of the Lord was with them, and a large number of people believed and turned to the Lord.
+The Lord's guidance was with them, and a large number of people believed and turned to the Lord.
 
 ## Acts 11:22
 
-News of this reached the ears of the church in Jerusalem, and they sent Barnabas to Antioch.
+Word of this reached the church in Jerusalem, and they sent Barnabas to Antioch.
 
 ## Acts 11:23
 
@@ -110,7 +110,7 @@ and when he found him, he brought him to Antioch. For a whole year Barnabas and 
 
 ## Acts 11:27
 
-During this time some prophets came down from Jerusalem to Antioch.
+At this time, some prophets came from Jerusalem to Antioch.
 
 ## Acts 11:28
 
@@ -122,4 +122,4 @@ The disciples, each according to their ability, decided to provide help for the 
 
 ## Acts 11:30
 
-This they did, sending their gift to the elders by Barnabas and Saul.
+They did this, sending their gift to the elders by the hands of Barnabas and Saul.

@@ -16,7 +16,7 @@ Pharaoh will not listen to you, so I will lay My hand on Egypt and bring out My 
 The Egyptians will know that I am the Lord when I stretch out My hand over Egypt and bring the Israelites out from among them.”
 
 ## Exodus 7:6
-Moses and Aaron did just as the Lord commanded them.
+Moses and Aaron carried out the Lord's instructions precisely.
 
 ## Exodus 7:7
 Moses was eighty years old, and Aaron was eighty-three, when they spoke to Pharaoh.
@@ -37,10 +37,10 @@ Pharaoh then summoned the wise men and sorcerers, and the Egyptian magicians did
 Each one threw down his staff, and they became serpents. But Aaron’s staff swallowed up their staffs.
 
 ## Exodus 7:13
-Yet Pharaoh’s heart was hardened, and he did not listen to them, just as the Lord had said.
+However, Pharaoh’s heart remained unyielding, and he did not listen to them, just as the Lord had said.
 
 ## Exodus 7:14
-Then the Lord said to Moses, “Pharaoh’s heart is stubborn; he refuses to let the people go.
+Then the Lord said to Moses, “Pharaoh’s heart is obstinate; he refuses to let the people go.
 
 ## Exodus 7:15
 Go to Pharaoh in the morning as he goes out to the water. Stand on the bank of the Nile to meet him, and take in your hand the staff that was turned into a serpent.

@@ -25,7 +25,7 @@ Remember the days of old, consider the years of many generations. Ask your fathe
 When the Most High gave to the nations their inheritance, when he divided mankind, he fixed the borders of the peoples according to the number of the children of Israel.
 
 ## Deuteronomy 32:9
-For the Lord’s portion is his people, Jacob his allotted heritage.
+For the Lord’s treasure is his people, Jacob is his chosen heritage.
 
 ## Deuteronomy 32:10
 He found him in a desert land, in the howling waste of the wilderness; he encircled him, he cared for him, he kept him as the apple of his eye.
@@ -34,7 +34,7 @@ He found him in a desert land, in the howling waste of the wilderness; he encirc
 Like an eagle that stirs up its nest, that hovers over its young, spreading out its wings, catching them, bearing them on its pinions,
 
 ## Deuteronomy 32:12
-the Lord alone guided him, and there was no foreign god with him.
+the Lord alone led him, and there was no foreign god with him.
 
 ## Deuteronomy 32:13
 He made him ride on the high places of the earth, and he ate the produce of the field; he made him suck honey out of the rock, and oil out of the flinty rock.
@@ -43,43 +43,43 @@ He made him ride on the high places of the earth, and he ate the produce of the 
 Curds from the herd, and milk from the flock, with fat of lambs, and rams of the breed of Bashan, and goats, with the finest of the wheat; and you drank wine from the blood of the grape.
 
 ## Deuteronomy 32:15
-But Jeshurun grew fat and kicked; you grew fat, stout, and sleek; then he forsook God who made him, and scoffed at the Rock of his salvation.
+But Jeshurun became prosperous and self-satisfied; you grew fat, stout, and sleek; then he abandoned God who made him, and ridiculed the Rock of his salvation.
 
 ## Deuteronomy 32:16
-They stirred him to jealousy with strange gods; with abominations they provoked him to anger.
+They provoked him to jealousy with foreign gods; with detestable acts they angered him.
 
 ## Deuteronomy 32:17
-They sacrificed to demons that were no gods, to gods they had never known, to new gods that had come recently, whom your fathers had never dreaded.
+They offered sacrifices to spirits that were not gods, to gods they had not known, to new gods that had recently appeared, whom your ancestors did not fear.
 
 ## Deuteronomy 32:18
-You were unmindful of the Rock that bore you, and you forgot the God who gave you birth.
+You neglected the Rock who fathered you, and you forgot the God who gave you life.
 
 ## Deuteronomy 32:19
-The Lord saw it and spurned them, because of the provocation of his sons and his daughters.
+The Lord saw it and rejected them, because of the provocation of his sons and his daughters.
 
 ## Deuteronomy 32:20
 And he said, ‘I will hide my face from them, I will see what their end will be; for they are a perverse generation, children in whom is no faithfulness.
 
 ## Deuteronomy 32:21
-They have made me jealous with what is no god; they have provoked me to anger with their idols. So I will make them jealous with those who are no people; I will provoke them to anger with a foolish nation.
+They have made me jealous with what is not a god; they have angered me with their idols. So I will make them envious with those who are not a people; I will provoke them with a senseless nation.
 
 ## Deuteronomy 32:22
 For a fire is kindled by my anger, and it burns to the depths of Sheol, devours the earth and its increase, and sets on fire the foundations of the mountains.
 
 ## Deuteronomy 32:23
-And I will heap disasters upon them; I will spend my arrows on them.
+And I will bring disasters upon them; I will exhaust my arrows on them.
 
 ## Deuteronomy 32:24
-They shall be wasted with hunger, and devoured by plague and poisonous pestilence; I will send the teeth of beasts against them, with the venom of things that crawl in the dust.
+They shall be wasted with hunger, and consumed by plague and bitter pestilence; I will send the teeth of beasts against them, with the venom of creatures that crawl in the dust.
 
 ## Deuteronomy 32:25
 Outside the sword shall bereave, and inside terror, for young man and virgin alike, the nursing child with the man of grey hairs.
 
 ## Deuteronomy 32:26
-I would have said, “I will scatter them afar, I will make the remembrance of them cease from among men,”
+I would have said, “I will scatter them afar, I will make the memory of them vanish from among men,”
 
 ## Deuteronomy 32:27
-had I not feared provocation by the enemy, lest their adversaries should misunderstand, lest they should say, “Our hand is triumphant, it was not the Lord who did all this.”’
+had I not feared the taunt of the enemy, lest their adversaries should misunderstand, lest they should say, “Our hand is triumphant, it was not the Lord who did all this.”’
 
 ## Deuteronomy 32:28
 For they are a nation void of counsel, and there is no understanding in them.
@@ -88,7 +88,7 @@ For they are a nation void of counsel, and there is no understanding in them.
 If they were wise, they would understand this; they would discern their latter end!
 
 ## Deuteronomy 32:30
-How could one have chased a thousand, and two have put ten thousand to flight, unless their Rock had sold them, and the Lord had given them up?
+How could one have chased a thousand, and two have put ten thousand to flight, unless their Rock had given them up, and the Lord had handed them over?
 
 ## Deuteronomy 32:31
 For their rock is not as our Rock; our enemies themselves being judges.
@@ -121,7 +121,7 @@ See now that I, even I, am he, and there is no god beside me; I kill and I make 
 For I lift up my hand to heaven and swear, As I live forever,
 
 ## Deuteronomy 32:41
-if I sharpen my flashing sword and my hand takes hold on judgement, I will take vengeance on my adversaries and will repay those who hate me.
+if I sharpen my gleaming sword and my hand takes hold on judgement, I will take vengeance on my adversaries and will repay those who hate me.
 
 ## Deuteronomy 32:42
 I will make my arrows drunk with blood, and my sword shall devour flesh— with the blood of the slain and the captives, from the long-haired heads of the enemy.’
@@ -136,22 +136,22 @@ Moses came and recited all the words of this song in the hearing of the people, 
 And when Moses had finished speaking all these words to all Israel,
 
 ## Deuteronomy 32:46
-he said to them, “Take to heart all the words by which I am warning you today, that you may command them to your children, that they may be careful to do all the words of this law.
+he said to them, “Take to heart all the words by which I am warning you today, that you may instruct them to your children, that they may be careful to follow all the words of this law.
 
 ## Deuteronomy 32:47
-For it is no empty word for you, but your very life, and by this word you shall live long in the land that you are going over the Jordan to possess.”
+For it is not an empty word for you, but your very life, and by this word you shall live long in the land that you are crossing the Jordan to possess.”
 
 ## Deuteronomy 32:48
-That very day the Lord spoke to Moses,
+On that very day the Lord spoke to Moses,
 
 ## Deuteronomy 32:49
-“Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I am giving to the people of Israel for a possession.
+“Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I am giving to the people of Israel as a possession.
 
 ## Deuteronomy 32:50
-And die on the mountain which you ascend, and be gathered to your people, as Aaron your brother died on Mount Hor and was gathered to his people,
+And die on the mountain which you ascend and be gathered to your people, as Aaron your brother died on Mount Hor and was gathered to his people,
 
 ## Deuteronomy 32:51
 because you broke faith with me in the midst of the people of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin, because you did not uphold me as holy in the midst of the people of Israel.
 
 ## Deuteronomy 32:52
-For you shall see the land before you, but you shall not go there, into the land that I am giving to the people of Israel.”
+For you shall see the land before you, but you shall not enter there, into the land that I am giving to the people of Israel.”

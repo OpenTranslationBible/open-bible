@@ -34,7 +34,7 @@ Moreover, He said to me, “Son of man, take into your heart all the words I sha
 Go now to your people in exile and speak to them. Say to them, ‘This is what the Sovereign Lord says,’ whether they listen or not.”
 
 ## Ezekiel 3:12
-Then the Spirit lifted me up, and I heard a great rumbling sound behind me: “Blessed be the glory of the Lord from His place!”
+Then the Spirit lifted me up, and I heard a great rumbling sound behind me: “May the glory of the Lord be praised from His place!”
 
 ## Ezekiel 3:13
 It was the sound of the wings of the living creatures touching one another and the sound of the wheels beside them, a great rumbling sound.
@@ -52,10 +52,10 @@ At the end of seven days, the word of the Lord came to me, saying,
 “Son of man, I have appointed you as a watchman for the house of Israel; so hear the word I speak and give them warning from Me.
 
 ## Ezekiel 3:18
-When I say to a wicked person, ‘You will surely die,’ and you do not warn them or speak out to dissuade them from their evil ways in order to save their life, that wicked person will die for their sin, and I will hold you accountable for their blood.
+When I declare to a wicked person, ‘You are destined to die,’ and you do not warn them or speak out to turn them from their evil ways to save their life, that wicked person will die for their sin, and I will hold you accountable for their blood.
 
 ## Ezekiel 3:19
-But if you do warn the wicked person and they do not turn from their wickedness or from their evil ways, they will die for their sin; but you will have saved yourself.
+But if you do warn the wicked person and they do not turn from their wickedness or from their evil ways, they will die for their sin; yet you will have rescued yourself.
 
 ## Ezekiel 3:20
 Again, when a righteous person turns from their righteousness and does evil, and I place an obstacle before them, they will die. Since you did not warn them, they will die for their sin, and their righteous deeds will not be remembered, but I will hold you accountable for their blood.

@@ -76,17 +76,17 @@ You will be hated by all because of my name.
 
 ## Luke 21:18
 
-Yet not a hair of your head will perish.
+Yet not a single hair on your head will be lost.
 
 ## Luke 21:19
 
-By standing firm, you will gain life.
+By remaining steadfast, you will secure your souls.
 
 ---
 
 ## Luke 21:20
 
-“When you see Jerusalem surrounded by armies, then know that its desolation is near.
+“When you see armies surrounding Jerusalem, then understand that its devastation is near.
 
 ## Luke 21:21
 
@@ -108,7 +108,7 @@ They will fall by the sword and be taken captive to all nations. Jerusalem will 
 
 ## Luke 21:25
 
-“There will be signs in the sun, moon, and stars. On the earth, nations will be in anguish and perplexity at the roaring and tossing of the sea.
+“There will be signs in the sun, moon, and stars. On the earth, nations will be in distress and confusion at the roaring and surging of the sea.
 
 ## Luke 21:26
 
@@ -116,7 +116,7 @@ People will faint from terror, apprehensive of what is coming on the world, for 
 
 ## Luke 21:27
 
-At that time, they will see the Son of Man coming in a cloud with power and great glory.
+At that time, they will witness the Son of Man arriving in a cloud with power and great glory.
 
 ## Luke 21:28
 
@@ -126,11 +126,11 @@ When these things begin to happen, stand up and lift up your heads, because your
 
 ## Luke 21:29
 
-He told them this parable: “Look at the fig tree and all the trees.
+He shared this parable with them: “Observe the fig tree and all the trees.
 
 ## Luke 21:30
 
-When they sprout leaves, you can see for yourselves and know that summer is near.
+When they begin to sprout leaves, you can see for yourselves and know that summer is approaching.
 
 ## Luke 21:31
 
@@ -162,7 +162,7 @@ Be always on the watch, and pray that you may have the strength to escape all th
 
 ## Luke 21:37
 
-Each day Jesus was teaching at the temple, and each evening he went out to spend the night on the hill called the Mount of Olives,
+Each day, Jesus was teaching at the temple, and each evening he went out to spend the night on the hill known as the Mount of Olives,
 
 ## Luke 21:38
 

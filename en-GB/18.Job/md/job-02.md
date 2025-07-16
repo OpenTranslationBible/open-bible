@@ -42,7 +42,7 @@ Then Job took a piece of broken pottery to scrape himself as he sat among the as
 
 ## Job 2:9
 
-His wife said to him, “Are you still maintaining your integrity? Curse God and die!”
+His wife said to him, “Are you still holding on to your integrity? Renounce God and pass away!”
 
 ## Job 2:10
 

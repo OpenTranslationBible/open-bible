@@ -36,7 +36,7 @@ He replied, “Moses permitted you to divorce your wives because of your hardnes
 
 ## Matthew 19:9
 
-I tell you, whoever divorces his wife, except for sexual immorality, and marries another, commits adultery.”
+I say to you, anyone who divorces his wife, except for unfaithfulness, and marries another, commits adultery.”
 
 ---
 
@@ -82,11 +82,11 @@ He replied, “Why do you ask me about what is good? There is only One who is go
 
 ## Matthew 19:19
 
-honour your father and mother, and love your neighbour as yourself.”
+respect your father and mother, and care for your neighbor as yourself.”
 
 ## Matthew 19:20
 
-The young man said to him, “All these I have kept. What do I still lack?”
+The young man said to him, “I have observed all these. What do I still lack?”
 
 ## Matthew 19:21
 
@@ -108,21 +108,21 @@ Again I tell you, it is easier for a camel to go through the eye of a needle tha
 
 ## Matthew 19:25
 
-When the disciples heard this, they were greatly astonished and asked, “Who then can be saved?”
+When the disciples heard this, they were utterly amazed and asked, “Who then can be saved?”
 
 ## Matthew 19:26
 
-Jesus looked at them and said, “With man this is impossible, but with God all things are possible.”
+Jesus looked at them and said, “For humans this is impossible, but with God all things are possible.”
 
 ---
 
 ## Matthew 19:27
 
-Peter answered him, “We have left everything to follow you! What then will there be for us?”
+Peter responded, “We have left everything to follow you! What then will there be for us?”
 
 ## Matthew 19:28
 
-Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, judging the twelve tribes of Israel.
+Jesus said to them, “Truly I tell you, in the renewal of all things, when the Son of Man sits on his glorious throne, you who have followed me will also sit on twelve thrones, governing the twelve tribes of Israel.
 
 ## Matthew 19:29
 

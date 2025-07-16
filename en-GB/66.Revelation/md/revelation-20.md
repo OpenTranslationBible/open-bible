@@ -40,7 +40,7 @@ I saw the dead, great and small, standing before the throne, and books were open
 The sea gave up the dead that were in it, and Death and Hades gave up the dead that were in them, and each person was judged according to their deeds.
 
 ## Revelation 20:14
-Then Death and Hades were thrown into the lake of fire. The lake of fire is the second death.
+Then Death and Hades were cast into the lake of fire. This lake of fire represents the second death.
 
 ## Revelation 20:15
-Anyone whose name was not found written in the book of life was thrown into the lake of fire.
+Anyone whose name was not found in the book of life was cast into the lake of fire.

@@ -37,7 +37,7 @@ As they moved, they went in any of the four directions without turning as they w
 Their entire bodies, including their backs, their hands, their wings, and the wheels, were covered with eyes all around.
 
 ## Ezekiel 10:13
-I heard the wheels being called “the whirling wheels.”
+I heard the wheels being referred to as “the whirling wheels.”
 
 ## Ezekiel 10:14
 Each of the cherubim had four faces: the first was the face of a cherub, the second the face of a human, the third the face of a lion, and the fourth the face of an eagle.

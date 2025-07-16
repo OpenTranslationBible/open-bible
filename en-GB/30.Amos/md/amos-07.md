@@ -55,7 +55,7 @@ Then Amaziah said to Amos, “Go away, seer! Flee to the land of Judah; earn you
 
 ## Amos 7:13
 
-But do not prophesy any more at Bethel, for it is the king’s sanctuary and a royal temple.”
+But refrain from prophesying any longer at Bethel, for it is the king’s sanctuary and a royal temple.”
 
 ## Amos 7:14
 
@@ -63,7 +63,7 @@ Amos replied to Amaziah, “I was not a prophet nor the son of a prophet, but a 
 
 ## Amos 7:15
 
-But the Lord took me from tending the flock and said to me, ‘Go, prophesy to My people Israel.’
+However, the Lord called me away from tending the flock and instructed me, ‘Go, prophesy to My people Israel.’
 
 ## Amos 7:16
 

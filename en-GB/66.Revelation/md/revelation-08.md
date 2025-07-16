@@ -10,7 +10,7 @@ And I saw the seven angels who stand before God, and seven trumpets were given t
 Another angel, holding a golden censer, came and stood at the altar. He was given much incense to offer, along with the prayers of all the saints, on the golden altar before the throne.
 
 ## Revelation 8:4
-The smoke of the incense, with the prayers of the saints, ascended before God from the angel's hand.
+The smoke of the incense, together with the prayers of the saints, rose up before God from the angel's hand.
 
 ## Revelation 8:5
 Then the angel took the censer, filled it with fire from the altar, and hurled it onto the earth; and there were peals of thunder, rumblings, flashes of lightning, and an earthquake.
@@ -25,7 +25,7 @@ The first angel sounded his trumpet, and there was hail and fire mixed with bloo
 The second angel sounded his trumpet, and something like a great mountain, burning with fire, was cast into the sea; and a third of the sea turned into blood,
 
 ## Revelation 8:9
-and a third of the living creatures in the sea died, and a third of the ships were destroyed.
+and a third of the sea creatures perished, and a third of the ships were destroyed.
 
 ## Revelation 8:10
 The third angel sounded his trumpet, and a great star, burning like a torch, fell from heaven onto a third of the rivers and on the springs of water—

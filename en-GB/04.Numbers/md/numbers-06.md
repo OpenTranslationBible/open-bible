@@ -73,10 +73,10 @@ The Lord spoke to Moses, saying,
 “‘“The Lord bless you and keep you;
 
 ## Numbers 6:25
-the Lord make His face shine upon you and be gracious to you;
+may the Lord let His face shine upon you and show you His favor;
 
 ## Numbers 6:26
-the Lord turn His face towards you and give you peace.”’
+may the Lord look upon you with kindness and grant you peace.”’
 
 ## Numbers 6:27
 “So they shall put My name on the Israelites, and I will bless them.”

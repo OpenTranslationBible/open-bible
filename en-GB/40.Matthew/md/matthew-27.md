@@ -84,7 +84,7 @@ While Pilate was sitting on the judgement seat, his wife sent him a message: “
 
 ## Matthew 27:20
 
-But the chief priests and the elders persuaded the crowd to ask for Barabbas and to have Jesus executed.
+However, the chief priests and the elders convinced the crowd to ask for Barabbas and to demand Jesus' execution.
 
 ## Matthew 27:21
 
@@ -96,7 +96,7 @@ Pilate asked, “What shall I do then with Jesus who is called the Messiah?” T
 
 ## Matthew 27:23
 
-“Why, what crime has He committed?” asked Pilate. But they shouted all the louder, “Crucify Him!”
+“Why, what crime has He committed?” asked Pilate. But they shouted even louder, “Crucify Him!”
 
 ## Matthew 27:24
 
@@ -104,11 +104,11 @@ When Pilate saw that he was getting nowhere, but that a riot was beginning, he t
 
 ## Matthew 27:25
 
-All the people answered, “His blood be on us and on our children!”
+All the people answered, “Let His blood be on us and on our children!”
 
 ## Matthew 27:26
 
-Then he released Barabbas to them. But he had Jesus flogged and handed Him over to be crucified.
+Then he released Barabbas to them. He had Jesus scourged and handed Him over to be crucified.
 
 ---
 
@@ -126,11 +126,11 @@ They twisted together a crown of thorns and set it on His head. They put a staff
 
 ## Matthew 27:30
 
-They spat on Him and took the staff and struck Him on the head again and again.
+They spat on Him and took the staff, striking Him on the head repeatedly.
 
 ## Matthew 27:31
 
-After they had mocked Him, they took off the robe and put His own clothes on Him. Then they led Him away to crucify Him.
+After mocking Him, they took off the robe and put His own clothes on Him. Then they led Him away to be crucified.
 
 ---
 
@@ -148,7 +148,7 @@ There they offered Jesus wine mixed with gall to drink; but after tasting it, He
 
 ## Matthew 27:35
 
-When they had crucified Him, they divided up His clothes by casting lots.
+After they had crucified Him, they divided His clothes by casting lots.
 
 ## Matthew 27:36
 
@@ -192,7 +192,7 @@ In the same way, the rebels who were crucified with Him also insulted Him.
 
 ## Matthew 27:45
 
-From noon until three in the afternoon, darkness came over all the land.
+From noon until three in the afternoon, darkness covered all the land.
 
 ## Matthew 27:46
 
@@ -212,7 +212,7 @@ The rest said, “Leave Him alone. Let us see if Elijah comes to save Him.”
 
 ## Matthew 27:50
 
-And when Jesus had cried out again in a loud voice, He gave up His spirit.
+And when Jesus had cried out again in a loud voice, He surrendered His spirit.
 
 ---
 
@@ -226,17 +226,17 @@ The tombs broke open, and the bodies of many holy people who had died were raise
 
 ## Matthew 27:53
 
-They came out of the tombs after Jesus’ resurrection and went into the holy city and appeared to many people.
+They emerged from the tombs after Jesus’ resurrection and went into the holy city, appearing to many people.
 
 ## Matthew 27:54
 
-When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified and exclaimed, “Surely He was the Son of God!”
+When the centurion and those with him who were guarding Jesus saw the earthquake and all that had happened, they were terrified and exclaimed, “Truly, He was the Son of God!”
 
 ---
 
 ## Matthew 27:55
 
-Many women were there, watching from a distance. They had followed Jesus from Galilee to care for His needs.
+Many women were there, watching from a distance. They had followed Jesus from Galilee to care for Him.
 
 ## Matthew 27:56
 
@@ -268,7 +268,7 @@ Mary Magdalene and the other Mary were sitting there opposite the tomb.
 
 ## Matthew 27:62
 
-The next day, the one after Preparation Day, the chief priests and the Pharisees went to Pilate.
+The following day, after the Preparation Day, the chief priests and the Pharisees went to Pilate.
 
 ## Matthew 27:63
 
@@ -276,7 +276,7 @@ They said, “Sir, we remember that while He was still alive, that deceiver said
 
 ## Matthew 27:64
 
-So give the order for the tomb to be made secure until the third day. Otherwise, His disciples may come and steal the body and tell the people that He has been raised from the dead. This last deception will be worse than the first.”
+So please order the tomb to be made secure until the third day. Otherwise, His disciples may come and steal the body and tell the people that He has been raised from the dead. This last deception will be worse than the first.”
 
 ## Matthew 27:65
 
@@ -284,4 +284,4 @@ Pilate said to them, “Take a guard; go, make the tomb as secure as you know ho
 
 ## Matthew 27:66
 
-So they went and made the tomb secure by putting a seal on the stone and posting the guard.
+So they went and secured the tomb by putting a seal on the stone and posting the guard.

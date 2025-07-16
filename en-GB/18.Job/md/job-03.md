@@ -2,7 +2,7 @@
 
 ## Job 3:1
 
-After this, Job opened his mouth and cursed the day he was born.
+Following these events, Job spoke and lamented the day of his birth.
 
 ## Job 3:2
 

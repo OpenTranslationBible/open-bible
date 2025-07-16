@@ -52,7 +52,7 @@ Jesus entered the temple courts and drove out all who were buying and selling th
 
 ## Matthew 21:13
 
-And he said to them, “It is written: ‘My house will be called a house of prayer,’ but you are making it a ‘den of robbers.’”
+And he told them, “It is written: ‘My house will be called a house of prayer,’ but you have made it a ‘den of robbers.’”
 
 ## Matthew 21:14
 
@@ -68,7 +68,7 @@ But when the chief priests and the scribes saw the wonderful things he did, and 
 
 ## Matthew 21:17
 
-And he left them and went out of the city to Bethany, where he spent the night.
+Then he left them and went out of the city to Bethany, where he spent the night.
 
 ---
 
@@ -122,7 +122,7 @@ So they answered Jesus, “We do not know.” Then he said, “Neither will I te
 
 ## Matthew 21:29
 
-‘I will not,’ he answered, but later he changed his mind and went.
+‘I will not,’ he answered, but afterward he reconsidered and went.
 
 ## Matthew 21:30
 
@@ -144,7 +144,7 @@ For John came to you in the way of righteousness, and you did not believe him, b
 
 ## Matthew 21:34
 
-When the harvest time approached, he sent his servants to the tenants to collect his fruit.
+When the time for harvest approached, he sent his servants to the tenants to collect his share of the produce.
 
 ## Matthew 21:35
 
@@ -156,7 +156,7 @@ He sent other servants, more than the first time, and the tenants treated them t
 
 ## Matthew 21:37
 
-Finally, he sent his son to them, thinking, ‘They will respect my son.’
+Finally, he sent his son to them, thinking, ‘They will show respect to my son.’
 
 ## Matthew 21:38
 
@@ -168,7 +168,7 @@ So they took him, threw him out of the vineyard, and killed him.
 
 ## Matthew 21:40
 
-Therefore, when the owner of the vineyard comes, what will he do to those tenants?”
+So, when the owner of the vineyard comes, what will he do to those tenants?”
 
 ## Matthew 21:41
 
@@ -176,11 +176,11 @@ They answered, “He will bring those wretches to a wretched end and lease the v
 
 ## Matthew 21:42
 
-Jesus said to them, “Have you never read in the Scriptures: ‘The stone the builders rejected has become the cornerstone; the Lord has done this, and it is marvellous in our eyes’?
+Jesus said to them, “Have you never read in the Scriptures: ‘The stone the builders rejected has become the cornerstone; the Lord has done this, and it is wonderful in our eyes’?
 
 ## Matthew 21:43
 
-Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will produce its fruit.
+Therefore I tell you that the kingdom of God will be taken away from you and given to a people who will yield its produce.
 
 ## Matthew 21:44
 

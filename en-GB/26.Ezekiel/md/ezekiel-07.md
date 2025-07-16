@@ -34,10 +34,10 @@ My eye will not show pity, nor will I spare you. I will repay you according to y
 Violence has arisen, a rod to punish the wicked. None of them shall remain, none of their multitude, none of their wealth, nor anything of value.
 
 ## Ezekiel 7:12
-The time has come, the day has arrived. Let not the buyer rejoice nor the seller mourn, for wrath is upon all their multitude.
+The moment has arrived, and the day is here. Let neither the buyer rejoice nor the seller grieve, for wrath is upon all their multitude.
 
 ## Ezekiel 7:13
-Indeed, the seller will not regain what he sold as long as they both live; for the vision regarding all their multitude will not be averted, nor will any of them maintain his life by his wrongdoing.
+Indeed, the seller will not regain what he sold during their lifetime; for the vision concerning all their multitude will not be averted, nor will any of them preserve his life by his wrongdoing.
 
 ## Ezekiel 7:14
 ‘They have blown the trumpet and made everything ready, but no one will go to battle, for My wrath is against all their multitude.
@@ -67,13 +67,13 @@ And I will hand it over to the foreigners as plunder, and to the wicked of the e
 I will turn My face away from them, and they will profane My treasure; robbers will enter and desecrate it.
 
 ## Ezekiel 7:23
-‘Prepare chains! For the land is full of bloodshed, and the city is full of violence.
+‘Prepare restraints! For the land is filled with bloodshed, and the city is full of violence.
 
 ## Ezekiel 7:24
 Therefore, I will bring the most wicked of nations to take possession of their houses. I will put an end to the pride of the mighty, and their sanctuaries will be desecrated.
 
 ## Ezekiel 7:25
-When terror comes, they will seek peace, but there will be none.
+When terror comes, they will seek peace, but it will not be found.
 
 ## Ezekiel 7:26
 Calamity upon calamity will come, and rumour upon rumour. They will seek a vision from a prophet, but the law will be lost from the priest, and counsel from the elders.

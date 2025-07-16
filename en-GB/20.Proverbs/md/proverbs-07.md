@@ -109,11 +109,11 @@ until an arrow pierces his liver;
 
 ## Proverbs 7:24
 
-Now therefore, my sons, listen to me, and pay attention to the words of my mouth.
+So now, my sons, listen to me, and give heed to what I say.
 
 ## Proverbs 7:25
 
-Do not let your heart turn aside to her ways, do not stray into her paths.
+Do not let your heart turn to her ways, do not wander into her paths.
 
 ## Proverbs 7:26
 

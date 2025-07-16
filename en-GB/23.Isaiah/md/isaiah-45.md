@@ -19,7 +19,7 @@ I am the Lord, and there is no other; besides me there is no God. I will strengt
 so that from the rising of the sun to its setting people may know there is none besides me. I am the Lord, and there is no other.
 
 ## Isaiah 45:7
-I form the light and create darkness, I bring prosperity and create disaster; I, the Lord, do all these things.
+I create light and form darkness, I bring prosperity and allow challenges; I, the Lord, do all these things.
 
 ## Isaiah 45:8
 Heavens above, rain down righteousness; let the clouds pour it down. Let the earth open wide, let salvation spring up, and let righteousness flourish with it; I, the Lord, have created it.
@@ -28,7 +28,7 @@ Heavens above, rain down righteousness; let the clouds pour it down. Let the ear
 Woe to those who quarrel with their Maker, those who are but potsherds among the potsherds on the ground. Does the clay say to the potter, ‘What are you making?’ Does your work say, ‘He has no hands’?
 
 ## Isaiah 45:10
-Woe to the one who says to a father, ‘What have you begotten?’ or to a mother, ‘What have you brought to birth?’
+Woe to those who question a father, ‘What have you begotten?’ or a mother, ‘What have you brought forth?’
 
 ## Isaiah 45:11
 This is what the Lord says—the Holy One of Israel, and its Maker: Concerning things to come, do you question me about my children, or give me orders about the work of my hands?
@@ -46,7 +46,7 @@ This is what the Lord says: The products of Egypt, the merchandise of Cush, and 
 Truly, you are a God who hides himself, the God and Saviour of Israel.
 
 ## Isaiah 45:16
-All the makers of idols will be put to shame and disgraced; they will go off into disgrace together.
+All those who craft idols will be put to shame and disgraced; they will depart together in dishonor.
 
 ## Isaiah 45:17
 But Israel will be saved by the Lord with an everlasting salvation; you will not be put to shame or disgraced for all eternity.
@@ -55,7 +55,7 @@ But Israel will be saved by the Lord with an everlasting salvation; you will not
 For this is what the Lord says—he who created the heavens, he is God; he who fashioned and made the earth, he established it; he did not create it to be empty, but formed it to be inhabited—he says: I am the Lord, and there is no other.
 
 ## Isaiah 45:19
-I have not spoken in secret, from somewhere in a land of darkness; I have not said to Jacob’s descendants, ‘Seek me in vain.’ I, the Lord, speak the truth; I declare what is right.
+I have not spoken in secret, from a hidden place in a land of darkness; I have not said to Jacob’s descendants, ‘Seek me in vain.’ I, the Lord, speak the truth; I declare what is right.
 
 ## Isaiah 45:20
 Gather together and come; assemble, you fugitives from the nations. Ignorant are those who carry about idols of wood and pray to gods that cannot save.

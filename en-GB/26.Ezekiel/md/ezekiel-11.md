@@ -64,7 +64,7 @@ Then they will follow my statutes and be careful to observe my ordinances. They 
 But for those whose hearts pursue their detestable things and abominations, I will bring their conduct down on their own heads, declares the Sovereign Lord.”
 
 ## Ezekiel 11:22
-Then the cherubim, with the wheels beside them, spread their wings, and the glory of the God of Israel was above them.
+At that moment, the cherubim, with the wheels beside them, extended their wings, and the glory of the God of Israel was above them.
 
 ## Ezekiel 11:23
 The glory of the Lord rose from within the city and stood over the mountain east of it.

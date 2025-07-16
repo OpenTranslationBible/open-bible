@@ -34,13 +34,13 @@ The Israelites moved on and encamped at Oboth.
 They set out from Oboth and camped at Iye-abarim, in the wilderness facing Moab toward the east.
 
 ## Numbers 21:12
-From there they moved on and camped in the Zered Valley.
+From there they continued and camped in the Zered Valley.
 
 ## Numbers 21:13
 They set out from there and camped on the other side of the Arnon, which is in the wilderness extending into Amorite territory; for the Arnon is the border of Moab, between Moab and the Amorites.
 
 ## Numbers 21:14
-Therefore it is said in the Book of the Wars of the Lord: “Waheb in Suphah, and the wadis of the Arnon,
+This is why it is mentioned in the Book of the Wars of the Lord: “Waheb in Suphah, and the wadis of the Arnon,
 
 ## Numbers 21:15
 and the slopes of the wadis that extend to the site of Ar and lie along the border of Moab.”
@@ -61,7 +61,7 @@ from Mattanah to Nahaliel, from Nahaliel to Bamoth,
 and from Bamoth to the valley in the land of Moab, at the top of Pisgah, which overlooks the wasteland.
 
 ## Numbers 21:21
-Israel sent messengers to Sihon king of the Amorites, saying,
+Israel sent envoys to Sihon king of the Amorites, saying,
 
 ## Numbers 21:22
 “Let us pass through your land. We will not turn aside into field or vineyard, nor drink water from any well. We will travel along the King’s Highway until we have passed through your territory.”

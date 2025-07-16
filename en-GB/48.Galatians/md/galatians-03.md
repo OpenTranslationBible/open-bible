@@ -25,7 +25,7 @@ Therefore, understand that those who are of faith are the children of Abraham.
 Scripture foresaw that God would justify the Gentiles by faith, and proclaimed the gospel beforehand to Abraham: “All nations will be blessed through you.”
 
 ## Galatians 3:9
-So then, those who are of faith are blessed along with Abraham, the man of faith.
+So then, those who have faith are blessed along with Abraham, who was a man of faith.
 
 ## Galatians 3:10
 For all who rely on the works of the law are under a curse, as it is written: “Cursed is everyone who does not continue in all things written in the Book of the Law, to do them.”
@@ -73,16 +73,16 @@ Before this faith came, we were held in custody under the law, locked up until t
 Thus the law was our guardian until Christ came, that we might be justified by faith.
 
 ## Galatians 3:25
-But now that faith has come, we are no longer under a guardian.
+But now that faith has arrived, we are no longer under a guardian.
 
 ## Galatians 3:26
 For in Christ Jesus you are all children of God through faith.
 
 ## Galatians 3:27
-For all of you who were baptised into Christ have clothed yourselves with Christ.
+For all of you who were baptised into Christ have embraced Christ.
 
 ## Galatians 3:28
 There is neither Jew nor Greek, slave nor free, male nor female, for you are all one in Christ Jesus.
 
 ## Galatians 3:29
-And if you belong to Christ, then you are Abraham’s seed, heirs according to the promise.
+And if you are in Christ, then you are Abraham’s seed, heirs according to the promise.

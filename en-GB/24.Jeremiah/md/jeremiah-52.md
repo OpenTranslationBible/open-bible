@@ -13,7 +13,7 @@ Due to the Lord’s anger, this occurred to Jerusalem and Judah, until He cast t
 In the ninth year of Zedekiah’s reign, on the tenth day of the tenth month, Nebuchadnezzar king of Babylon came with his entire army against Jerusalem. They encamped against it and built siege works all around.
 
 ## Jeremiah 52:5
-The city remained under siege until the eleventh year of King Zedekiah.
+The city was besieged until the eleventh year of King Zedekiah.
 
 ## Jeremiah 52:6
 By the ninth day of the fourth month, the famine in the city was so severe that there was no food for the people of the land.
@@ -61,7 +61,7 @@ The captain of the guard took the bowls, firepans, basins, pots, lampstands, pan
 The bronze from the two pillars, the sea, the twelve bronze bulls under it, and the stands, which King Solomon had made for the house of the Lord, was beyond measure.
 
 ## Jeremiah 52:21
-Each pillar was eighteen cubits high and twelve cubits in circumference; each was four fingers thick and hollow.
+Each pillar was eighteen cubits high and twelve cubits around; each was four fingers thick and hollow.
 
 ## Jeremiah 52:22
 A bronze capital was on top of each pillar; each capital was five cubits high, with latticework and pomegranates of bronze all around. The second pillar was similar, with pomegranates.
@@ -70,7 +70,7 @@ A bronze capital was on top of each pillar; each capital was five cubits high, w
 There were ninety-six pomegranates on the sides; in total, there were a hundred pomegranates above the surrounding latticework.
 
 ## Jeremiah 52:24
-The captain of the guard took Seraiah the chief priest, Zephaniah the second priest, and the three doorkeepers.
+The captain of the guard took Seraiah the chief priest, Zephaniah the second priest, along with the three doorkeepers.
 
 ## Jeremiah 52:25
 He also took from the city an officer in charge of the warriors, seven royal advisers, the scribe of the commander of the army who mustered the people of the land, and sixty men found in the city.
@@ -85,16 +85,16 @@ The king of Babylon struck them down and put them to death at Riblah in the land
 This is the number of people Nebuchadnezzar carried into exile: in the seventh year, 3,023 Jews;
 
 ## Jeremiah 52:29
-in the eighteenth year of Nebuchadnezzar, 832 persons from Jerusalem;
+in the eighteenth year of Nebuchadnezzar, 832 individuals from Jerusalem;
 
 ## Jeremiah 52:30
-in the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the guard took into exile 745 Jewish people; there were 4,600 people in all.
+in the twenty-third year of Nebuchadnezzar, Nebuzaradan the captain of the guard took into exile 745 Jewish people; the total was 4,600 people.
 
 ## Jeremiah 52:31
 In the thirty-seventh year of the exile of Jehoiachin king of Judah, in the twelfth month, on the twenty-fifth day of the month, Evil-merodach king of Babylon, in the first year of his reign, showed favour to Jehoiachin king of Judah and released him from prison.
 
 ## Jeremiah 52:32
-He spoke kindly to him and set his throne above the thrones of the kings who were with him in Babylon.
+He treated him with kindness and set his throne above the thrones of the other kings who were with him in Babylon.
 
 ## Jeremiah 52:33
 So Jehoiachin changed his prison clothes and dined regularly in the presence of the king for the rest of his life.

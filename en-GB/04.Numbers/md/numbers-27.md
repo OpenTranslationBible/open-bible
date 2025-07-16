@@ -37,7 +37,7 @@ If his father had no brothers, give his inheritance to the nearest relative in h
 The Lord said to Moses, “Go up this mountain in the Abarim Range and view the land I have given to the Israelites.
 
 ## Numbers 27:13
-After you have seen it, you too will be gathered to your people, as your brother Aaron was,
+Once you have seen it, you will join your ancestors, just as your brother Aaron did,
 
 ## Numbers 27:14
 because you rebelled against my command at the waters of Meribah in the Desert of Zin, failing to uphold my holiness before the Israelites.” (These are the waters of Meribah of Kadesh in the Desert of Zin.)

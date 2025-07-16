@@ -28,7 +28,7 @@ Rachel said, “With great wrestlings have I wrestled with my sister, and I have
 When Leah saw that she had ceased bearing children, she took her maid Zilpah and gave her to Jacob as a wife.
 
 ## Genesis 30:10
-And Leah’s maid Zilpah bore Jacob a son.
+And Leah’s maid Zilpah gave birth to a son for Jacob.
 
 ## Genesis 30:11
 Leah said, “What good fortune!” So she named him Gad.
@@ -55,7 +55,7 @@ God listened to Leah, and she conceived and bore Jacob a fifth son.
 Leah said, “God has rewarded me for giving my maid to my husband.” So she named him Issachar.
 
 ## Genesis 30:19
-Leah conceived again and bore Jacob a sixth son.
+Leah conceived again and gave birth to a sixth son for Jacob.
 
 ## Genesis 30:20
 Leah said, “God has endowed me with a good gift; now my husband will honour me, because I have borne him six sons.” So she named him Zebulun.
@@ -73,19 +73,19 @@ She conceived and bore a son, and said, “God has taken away my reproach.”
 She named him Joseph, saying, “May the Lord add to me another son.”
 
 ## Genesis 30:25
-After Rachel had given birth to Joseph, Jacob said to Laban, “Send me away, that I may go to my own place and to my own country.
+After Rachel had given birth to Joseph, Jacob said to Laban, “Allow me to leave, that I may go to my own place and to my own country.
 
 ## Genesis 30:26
-Give me my wives and my children for whom I have served you, and let me go; for you know the service which I have given you.”
+Return my wives and my children for whom I have served you, and let me go; for you know the service I have provided.”
 
 ## Genesis 30:27
-But Laban said to him, “If I have found favour in your eyes, please stay. I have learned by divination that the Lord has blessed me because of you.”
+But Laban said to him, “If I have found favour in your eyes, please stay. I have learned through experience that the Lord has blessed me because of you.”
 
 ## Genesis 30:28
 He said, “Name your wages, and I will pay them.”
 
 ## Genesis 30:29
-Jacob said to him, “You know how I have served you, and how your livestock have fared with me.
+Jacob said to him, “You are aware of how I have served you, and how your livestock have prospered under my care.
 
 ## Genesis 30:30
 For you had little before I came, and it has increased greatly, and the Lord has blessed you wherever I turned. But now, when shall I provide for my own household also?”
@@ -100,7 +100,7 @@ Let me pass through all your flock today, removing from it every speckled and sp
 So my honesty will answer for me later, when you come to check on my wages. Every one that is not speckled or spotted among the goats, or dark-coloured among the lambs, if found with me, will be considered stolen.”
 
 ## Genesis 30:34
-Laban said, “Agreed, let it be according to your word.”
+Laban said, “Agreed, let it be as you have said.”
 
 ## Genesis 30:35
 That same day he removed the streaked and spotted male goats, and all the speckled and spotted female goats, every one that had white on it, and all the dark-coloured lambs, and put them in the care of his sons.

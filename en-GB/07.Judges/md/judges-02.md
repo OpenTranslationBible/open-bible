@@ -66,7 +66,7 @@ Wherever they went, the hand of the Lord was against them to bring calamity, as 
 
 ## Judges 2:16
 
-Then the Lord raised up judges who delivered them from the hands of those who plundered them.
+Then the Lord appointed judges who rescued them from those who plundered them.
 
 ## Judges 2:17
 
@@ -90,10 +90,10 @@ I will no longer drive out before them any of the nations Joshua left when he di
 
 ## Judges 2:22
 
-I will use them to test Israel and see whether they will keep the way of the Lord and walk in it as their ancestors did.”
+I will use these nations to examine Israel and see whether they will keep the way of the Lord and walk in it as their ancestors did.”
 
 ---
 
 ## Judges 2:23
 
-So the Lord allowed those nations to remain, not driving them out quickly; and he did not hand them over to Joshua.
+Thus, the Lord allowed those nations to remain, not removing them swiftly; and he did not hand them over to Joshua.

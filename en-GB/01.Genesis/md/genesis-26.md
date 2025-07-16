@@ -55,7 +55,7 @@ So Isaac departed from there and camped in the Valley of Gerar, where he settled
 Isaac reopened the wells that had been dug in the days of Abraham, his father, which the Philistines had stopped up after Abraham died, and he gave them the same names his father had given them.
 
 ## Genesis 26:19
-Isaac’s servants dug in the valley and discovered a well of fresh water there.
+Isaac’s servants dug in the valley and found a spring of fresh water.
 
 ## Genesis 26:20
 But the herders of Gerar quarrelled with those of Isaac, saying, “The water is ours!” So he named the well Esek, because they disputed with him.
@@ -100,7 +100,7 @@ That same day, Isaac’s servants came and told him about the well they had dug.
 He called it Shibah; therefore, the name of the city is Beersheba to this day.
 
 ## Genesis 26:34
-When Esau was forty years old, he married Judith, daughter of Beeri the Hittite, and also Basemath, daughter of Elon the Hittite.
+When Esau was forty years old, he took Judith, daughter of Beeri the Hittite, and Basemath, daughter of Elon the Hittite, as his wives.
 
 ## Genesis 26:35
-They were a source of grief to Isaac and Rebekah.
+They brought sorrow to Isaac and Rebekah.

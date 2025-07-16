@@ -58,7 +58,7 @@ I will pursue them with the sword, famine, and plague, and will make them an obj
 because they have not listened to My words,” declares the Lord, “words that I sent to them again and again by My servants the prophets; and you exiles have not listened either,” declares the Lord.
 
 ## Jeremiah 29:20
-Therefore, hear the word of the Lord, all you exiles whom I have sent away from Jerusalem to Babylon.
+So, listen to the word of the Lord, all you exiles whom I have sent away from Jerusalem to Babylon.
 
 ## Jeremiah 29:21
 This is what the Lord of Hosts, the God of Israel, says concerning Ahab son of Kolaiah and Zedekiah son of Maaseiah, who are prophesying falsehoods to you in My name: “Behold, I will deliver them into the hand of Nebuchadnezzar king of Babylon, and he will slay them before your eyes.

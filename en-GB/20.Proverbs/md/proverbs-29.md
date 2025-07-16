@@ -54,7 +54,7 @@ The poor and the oppressor have this in common: the Lord gives light to the eyes
 
 ## Proverbs 29:14
 
-If a king judges the poor with fairness, his throne will be established for ever.
+When a king judges the poor with fairness, his reign will be firmly established.
 
 ---
 

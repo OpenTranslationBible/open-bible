@@ -10,7 +10,7 @@ And from the river, seven cows came up, well-fed and sleek, and they grazed in t
 Then seven other cows emerged after them from the Nile, ugly and thin, and they stood by the other cows on the riverbank.
 
 ## Genesis 41:4
-The thin, ugly cows devoured the seven well-fed, sleek cows. Then Pharaoh awoke.
+The thin, ugly cows consumed the seven well-fed, sleek cows. Then Pharaoh awoke.
 
 ## Genesis 41:5
 He fell asleep again and had a second dream: seven ears of grain, full and good, were growing on a single stalk.
@@ -58,7 +58,7 @@ when seven cows, fat and sleek, came up out of the river and grazed in the marsh
 Then seven other cows came up after them, poor, very ugly and thin, such as I had never seen in all the land of Egypt.
 
 ## Genesis 41:20
-The thin, ugly cows ate up the seven fat cows that came up first.
+The thin, ugly cows consumed the seven fat cows that came up first.
 
 ## Genesis 41:21
 But when they had eaten them, no one could tell that they had done so; they looked just as ugly as before. Then I awoke.
@@ -73,7 +73,7 @@ Then seven ears, withered, thin, and scorched by the east wind, sprouted after t
 The thin ears swallowed up the seven good ears. I told this to the magicians, but none could explain it to me.”
 
 ## Genesis 41:25
-Then Joseph said to Pharaoh, “The dreams of Pharaoh are one and the same. God has revealed to Pharaoh what He is about to do.
+Then Joseph said to Pharaoh, “Pharaoh's dreams are one and the same. God has revealed to Pharaoh what He intends to do.
 
 ## Genesis 41:26
 The seven good cows are seven years, and the seven good ears are seven years; it is one and the same dream.
@@ -82,19 +82,19 @@ The seven good cows are seven years, and the seven good ears are seven years; it
 The seven thin and ugly cows that came up after them are seven years, and so are the seven worthless ears scorched by the east wind: they are seven years of famine.
 
 ## Genesis 41:28
-It is just as I said to Pharaoh: God has shown Pharaoh what He is about to do.
+It is just as I said to Pharaoh: God has shown Pharaoh what He intends to do.
 
 ## Genesis 41:29
 Seven years of great abundance are coming throughout the land of Egypt,
 
 ## Genesis 41:30
-but seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will ravage the land.
+but seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will devastate the land.
 
 ## Genesis 41:31
 The abundance in the land will not be remembered because the famine that follows it will be so severe.
 
 ## Genesis 41:32
-The reason the dream was given to Pharaoh in two forms is that the matter has been firmly decided by God, and God will do it soon.
+The reason the dream was given to Pharaoh in two forms is that the matter has been firmly decided by God, and He will carry it out soon.
 
 ## Genesis 41:33
 Now let Pharaoh look for a discerning and wise man and put him in charge of the land of Egypt.
@@ -106,10 +106,10 @@ Let Pharaoh appoint overseers over the land and take a fifth of the harvest of E
 They should collect all the food of these good years that are coming and store up the grain under Pharaoh’s authority, to be kept in the cities for food.
 
 ## Genesis 41:36
-This food should be held in reserve for the country, to be used during the seven years of famine that will come upon Egypt, so that the country may not be ruined by the famine.”
+This food should be held in reserve for the country, to be used during the seven years of famine that will come upon Egypt, so that the country may not be devastated by the famine.”
 
 ## Genesis 41:37
-The plan seemed good to Pharaoh and to all his officials.
+The plan seemed favorable to Pharaoh and to all his officials.
 
 ## Genesis 41:38
 So Pharaoh asked them, “Can we find anyone like this man, one in whom is the spirit of God?”
@@ -121,7 +121,7 @@ Then Pharaoh said to Joseph, “Since God has made all this known to you, there 
 You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you.”
 
 ## Genesis 41:41
-So Pharaoh said to Joseph, “I hereby put you in charge of the whole land of Egypt.”
+So Pharaoh said to Joseph, “I hereby appoint you over the whole land of Egypt.”
 
 ## Genesis 41:42
 Then Pharaoh took his signet ring from his finger and put it on Joseph’s finger. He dressed him in robes of fine linen and put a gold chain around his neck.
@@ -136,7 +136,7 @@ Then Pharaoh said to Joseph, “I am Pharaoh, but without your word no one will 
 Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath, daughter of Potiphera, priest of On, to be his wife. And Joseph went throughout the land of Egypt.
 
 ## Genesis 41:46
-Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from Pharaoh’s presence and travelled throughout Egypt.
+Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from Pharaoh’s presence and traveled throughout Egypt.
 
 ## Genesis 41:47
 During the seven years of abundance, the land produced plentifully.

@@ -43,16 +43,16 @@ And the Lord said, “Now arise and cross over the Zered Valley.” So we crosse
 The time it took for us to come from Kadesh Barnea until we crossed over the Zered Valley was thirty-eight years, until that entire generation of fighting men had perished from the camp, as the Lord had sworn to them.
 
 ## Deuteronomy 2:15
-Indeed, the hand of the Lord was against them, to destroy them from within the camp until they all perished.
+Certainly, the Lord's power was against them, leading to their destruction within the camp until they all perished.
 
 ## Deuteronomy 2:16
-Now when the last of these fighting men among the people had died,
+When the last of these fighting men among the people had passed away,
 
 ## Deuteronomy 2:17
 the Lord spoke to me, saying,
 
 ## Deuteronomy 2:18
-“Today you are to pass by the region of Moab at Ar.
+“On this day, you are to pass by the region of Moab at Ar.
 
 ## Deuteronomy 2:19
 When you come opposite the Ammonites, do not harass them or provoke them to war, for I will not give you possession of any land belonging to the Ammonites. I have given it as a possession to the descendants of Lot.”
@@ -67,7 +67,7 @@ a people as great, numerous, and tall as the Anakites. The Lord destroyed them f
 The Lord had done the same for the descendants of Esau, who live in Seir, when He destroyed the Horites from before them. They dispossessed them and settled in their place, where they remain even to this day.
 
 ## Deuteronomy 2:23
-And as for the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor destroyed them and settled in their place.)
+Regarding the Avvites who lived in villages as far as Gaza, the Caphtorites coming out from Caphtor overcame them and settled in their place.
 
 ## Deuteronomy 2:24
 “Set out now and cross the Valley of Arnon. See, I have given into your hand Sihon the Amorite, king of Heshbon, and his country. Begin to take possession of it and engage him in battle.
@@ -79,7 +79,7 @@ This very day I will begin to put the dread and fear of you upon the faces of al
 From the wilderness of Kedemoth I sent messengers to Sihon king of Heshbon with words of peace, saying,
 
 ## Deuteronomy 2:27
-“Let us pass through your country. We will stay on the main road; we will not turn aside to the right or to the left.
+“We request to pass through your country. We will stay on the main road; we will not turn aside to the right or to the left.
 
 ## Deuteronomy 2:28
 You will sell us food for money so that we may eat, and give us water for money so that we may drink. Only let us pass through on foot—
@@ -94,7 +94,7 @@ But Sihon king of Heshbon was not willing for us to pass through his land; for t
 And the Lord said to me, “See, I have begun to deliver Sihon and his country over to you. Now begin to conquer and possess his land.”
 
 ## Deuteronomy 2:32
-Then Sihon came out with all his people to meet us in battle at Jahaz.
+Sihon then came out with all his people to meet us in battle at Jahaz.
 
 ## Deuteronomy 2:33
 And the Lord our God delivered him over to us, and we defeated him with his sons and all his people.
@@ -109,4 +109,4 @@ We took only the livestock and the plunder from the towns we had captured.
 From Aroer on the edge of the Valley of Arnon, and from the town in the valley, even as far as Gilead, there was no town too strong for us. The Lord our God gave us all of them.
 
 ## Deuteronomy 2:37
-But in accordance with the command of the Lord our God, you did not encroach on any of the land of the Ammonites, neither the land along the course of the Jabbok nor that around the towns in the hills.
+In obedience to the command of the Lord our God, you did not encroach on any of the land of the Ammonites, neither the land along the course of the Jabbok nor that around the towns in the hills.

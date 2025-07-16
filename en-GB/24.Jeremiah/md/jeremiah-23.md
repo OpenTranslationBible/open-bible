@@ -31,13 +31,13 @@ Concerning the prophets: My heart is broken within me, all my bones tremble. I a
 The land is full of adulterers; because of the curse, the land mourns and the pastures of the wilderness have dried up. Their course is evil and their strength is not right.
 
 ## Jeremiah 23:11
-“For both prophet and priest are defiled; even in my house I have found their wickedness,” declares the Lord.
+“For both prophet and priest are corrupted; even in my house I have found their wickedness,” declares the Lord.
 
 ## Jeremiah 23:12
 “Therefore their path will become slippery; they will be driven into the gloom and fall. I will bring disaster upon them in the year of their punishment,” declares the Lord.
 
 ## Jeremiah 23:13
-“Moreover, among the prophets of Samaria I saw an offensive thing: They prophesied by Baal and led my people Israel astray.
+“Moreover, among the prophets of Samaria I saw a distressing thing: They prophesied by Baal and led my people Israel astray.
 
 ## Jeremiah 23:14
 Also among the prophets of Jerusalem I have seen a horrible thing: They commit adultery and walk in deceit. They strengthen the hands of evildoers, so that no one turns back from his wickedness. They are all like Sodom to me; the people of Jerusalem are like Gomorrah.”
@@ -67,7 +67,7 @@ I did not send these prophets, yet they ran with their message; I did not speak 
 But if they had stood in my council, they would have proclaimed my words to my people and turned them back from their evil way and from their evil deeds.
 
 ## Jeremiah 23:23
-“Am I a God who is near,” declares the Lord, “and not a God far off?
+“Am I a God who is near,” declares the Lord, “and not also a God far off?
 
 ## Jeremiah 23:24
 Can anyone hide in secret places so that I cannot see them?” declares the Lord. “Do I not fill heaven and earth?” declares the Lord.
@@ -76,7 +76,7 @@ Can anyone hide in secret places so that I cannot see them?” declares the Lord
 “I have heard what the prophets say who prophesy lies in my name, saying, ‘I had a dream! I had a dream!’
 
 ## Jeremiah 23:26
-How long will this continue in the hearts of these lying prophets, who prophesy the delusions of their own minds?
+How long will this continue in the hearts of these deceitful prophets, who prophesy the illusions of their own minds?
 
 ## Jeremiah 23:27
 They think the dreams they tell one another will make my people forget my name, just as their ancestors forgot my name through Baal worship.
@@ -85,7 +85,7 @@ They think the dreams they tell one another will make my people forget my name, 
 Let the prophet who has a dream recount the dream, but let the one who has my word speak it faithfully. For what does straw have in common with grain?” declares the Lord.
 
 ## Jeremiah 23:29
-“Is not my word like fire,” declares the Lord, “and like a hammer that breaks a rock in pieces?
+“Is not my word like fire,” declares the Lord, “and like a hammer that shatters a rock?
 
 ## Jeremiah 23:30
 “Therefore,” declares the Lord, “I am against the prophets who steal words from one another supposedly from me.

@@ -13,7 +13,7 @@ A voice of one calling out: “In the wilderness prepare the way for the Lord; m
 Every valley shall be lifted up, and every mountain and hill made low; the uneven ground shall become level, and the rugged terrain a plain.
 
 ## Isaiah 40:5
-Then the glory of the Lord will be revealed, and all flesh will see it together. For the mouth of the Lord has spoken.”
+Then the majesty of the Lord will be unveiled, and all people will witness it together. For the mouth of the Lord has spoken.”
 
 ## Isaiah 40:6
 A voice says, “Cry out.” And I said, “What shall I cry?” All flesh is like grass, and all its loveliness is like the flowers of the field.
@@ -31,13 +31,13 @@ You who bring good news to Zion, go up on a high mountain. You who bring good ne
 Behold, the Sovereign Lord comes with power, and His arm rules for Him. Behold, His reward is with Him, and His recompense accompanies Him.
 
 ## Isaiah 40:11
-He tends His flock like a shepherd: He gathers the lambs in His arms and carries them close to His heart; He gently leads those that have young.
+He cares for His flock like a shepherd: He gathers the lambs in His arms and carries them close to His heart; He gently guides those that have young.
 
 ## Isaiah 40:12
 Who has measured the waters in the hollow of His hand, or with the breadth of His hand marked off the heavens? Who has held the dust of the earth in a basket, or weighed the mountains on the scales and the hills in a balance?
 
 ## Isaiah 40:13
-Who can fathom the Spirit of the Lord, or instruct the Lord as His counsellor?
+Who can comprehend the Spirit of the Lord, or serve as the Lord's advisor?
 
 ## Isaiah 40:14
 Whom did He consult to enlighten Him, and who taught Him the right way? Who was it that taught Him knowledge, or showed Him the path of understanding?
@@ -67,7 +67,7 @@ Do you not know? Have you not heard? Has it not been told to you from the beginn
 He sits enthroned above the circle of the earth, and its inhabitants are like grasshoppers. He stretches out the heavens like a canopy and spreads them out like a tent to live in.
 
 ## Isaiah 40:23
-He brings princes to naught and reduces the rulers of this world to nothing.
+He brings princes to insignificance and reduces the rulers of this world to nothing.
 
 ## Isaiah 40:24
 Scarcely are they planted, scarcely are they sown, scarcely do they take root in the ground, than He blows on them and they wither, and a whirlwind sweeps them away like chaff.
@@ -76,16 +76,16 @@ Scarcely are they planted, scarcely are they sown, scarcely do they take root in
 “To whom will you compare Me? Or who is My equal?” says the Holy One.
 
 ## Isaiah 40:26
-Lift up your eyes and look to the heavens: Who created all these? He who brings out the starry host one by one and calls forth each of them by name. Because of His great power and mighty strength, not one of them is missing.
+Lift up your eyes and look to the heavens: Who created all these? It is He who brings out the starry host one by one and calls forth each of them by name. Because of His great power and mighty strength, not one of them is missing.
 
 ## Isaiah 40:27
-Why do you complain, Jacob? Why do you say, Israel, “My way is hidden from the Lord; my cause is disregarded by my God”?
+Why do you complain, Jacob? Why do you say, Israel, “My way is concealed from the Lord; my cause is overlooked by my God”?
 
 ## Isaiah 40:28
-Do you not know? Have you not heard? The Lord is the everlasting God, the Creator of the ends of the earth. He will not grow tired or weary, and His understanding no one can fathom.
+Do you not know? Have you not heard? The Lord is the eternal God, the Creator of the ends of the earth. He will not grow tired or weary, and His understanding is beyond human reach.
 
 ## Isaiah 40:29
-He gives strength to the weary and increases the power of the weak.
+He provides strength to the weary and increases the power of the weak.
 
 ## Isaiah 40:30
 Even youths grow tired and weary, and vigorous young men stumble and fall;

@@ -19,7 +19,7 @@ I will set my face against that man and his family and cut them off from their p
 ‘If anyone turns to mediums and spiritists to prostitute themselves with them, I will set my face against that person and cut them off from their people.
 
 ## Leviticus 20:7
-Consecrate yourselves and be holy, for I am the Lord your God.
+Dedicate yourselves and be set apart, for I am the Lord your God.
 
 ## Leviticus 20:8
 Keep my statutes and practise them. I am the Lord, who sanctifies you.

@@ -32,7 +32,7 @@ In earlier times in Israel, for the redemption and transfer of property to be fi
 
 ## Ruth 4:8
 
-So the redeemer said to Boaz, “Buy it for yourself.” And he removed his sandal.
+The redeemer then told Boaz, “Purchase it yourself.” And he took off his sandal.
 
 ## Ruth 4:9
 
@@ -48,7 +48,7 @@ Then all the people at the gate and the elders said, “We are witnesses. May th
 
 ## Ruth 4:12
 
-Through the offspring the Lord gives you by this young woman, may your family be like that of Perez, whom Tamar bore to Judah.”
+May your family, through the children the Lord gives you by this young woman, be like that of Perez, whom Tamar bore to Judah.”
 
 ## Ruth 4:13
 
@@ -72,7 +72,7 @@ The neighbour women said, “Naomi has a son!” And they named him Obed. He was
 
 ## Ruth 4:18
 
-This, then, is the family line of Perez: Perez was the father of Hezron,
+Here is the family line of Perez: Perez was the father of Hezron,
 
 ## Ruth 4:19
 

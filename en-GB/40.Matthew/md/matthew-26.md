@@ -26,7 +26,7 @@ But they said, “Not during the festival, otherwise there might be a riot among
 
 ## Matthew 26:6
 
-While Jesus was in Bethany, at the house of Simon the Leper,
+While Jesus was in Bethany, at the home of Simon, known as the leper,
 
 ## Matthew 26:7
 
@@ -34,7 +34,7 @@ a woman approached him with an alabaster jar of very costly perfume, and she pou
 
 ## Matthew 26:8
 
-When the disciples saw this, they were indignant and said, “Why this waste?
+When the disciples saw this, they were upset and asked, “Why this waste?
 
 ## Matthew 26:9
 
@@ -50,17 +50,17 @@ For you will always have the poor with you, but you will not always have me.
 
 ## Matthew 26:12
 
-By pouring this perfume on my body, she has prepared me for burial.
+By pouring this perfume on my body, she has done it in preparation for my burial.
 
 ## Matthew 26:13
 
-Truly I say to you, wherever this gospel is proclaimed in the whole world, what she has done will also be told in memory of her.”
+Truly, I say to you, wherever this gospel is proclaimed throughout the world, what she has done will also be told in memory of her.”
 
 ---
 
 ## Matthew 26:14
 
-Then one of the Twelve, called Judas Iscariot, went to the chief priests
+Then Judas Iscariot, one of the Twelve, went to the chief priests
 
 ## Matthew 26:15
 
@@ -88,7 +88,7 @@ The disciples did as Jesus had instructed them and prepared the Passover.
 
 ## Matthew 26:20
 
-When evening came, Jesus was reclining at the table with the Twelve.
+When evening came, Jesus was reclining at the table with the twelve disciples.
 
 ## Matthew 26:21
 
@@ -143,7 +143,7 @@ Then Jesus said to them, “This night you will all fall away because of me, for
 
 ## Matthew 26:32
 
-But after I have been raised, I will go ahead of you to Galilee.”
+But after I have risen, I will go ahead of you to Galilee.”
 
 ## Matthew 26:33
 
@@ -161,7 +161,7 @@ Peter said to him, “Even if I have to die with you, I will not deny you!” Al
 
 ## Matthew 26:36
 
-Then Jesus came with them to a place called Gethsemane, and said to his disciples, “Sit here while I go over there and pray.”
+Then Jesus arrived with them at a place called Gethsemane, and told his disciples, “Sit here while I go over there and pray.”
 
 ## Matthew 26:37
 
@@ -169,7 +169,7 @@ He took Peter and the two sons of Zebedee with him, and began to be sorrowful an
 
 ## Matthew 26:38
 
-Then he said to them, “My soul is overwhelmed with sorrow to the point of death; stay here and keep watch with me.”
+Then he said to them, “My soul is deeply grieved, to the point of death; stay here and keep watch with me.”
 
 ## Matthew 26:39
 
@@ -197,7 +197,7 @@ He left them again, went away, and prayed a third time, saying the same thing on
 
 ## Matthew 26:45
 
-Then he came to the disciples and said to them, “Are you still sleeping and resting? Behold, the hour is at hand, and the Son of Man is being betrayed into the hands of sinners.
+Then he returned to the disciples and said to them, “Are you still sleeping and resting? Behold, the hour is at hand, and the Son of Man is being betrayed into the hands of sinners.
 
 ## Matthew 26:46
 
@@ -235,7 +235,7 @@ Do you think that I cannot appeal to my Father, and he will at once put at my di
 
 ## Matthew 26:54
 
-How then would the Scriptures be fulfilled, which say that it must happen this way?”
+If it were not so, how would the Scriptures be fulfilled, which say that it must happen this way?”
 
 ## Matthew 26:55
 
@@ -249,7 +249,7 @@ But all this has taken place so that the writings of the prophets might be fulfi
 
 ## Matthew 26:57
 
-Those who had arrested Jesus led him away to Caiaphas, the high priest, where the scribes and the elders were gathered together.
+Those who had arrested Jesus took him to Caiaphas, the high priest, where the scribes and the elders were gathered together.
 
 ## Matthew 26:58
 
@@ -257,7 +257,7 @@ But Peter followed him at a distance, right up to the courtyard of the high prie
 
 ## Matthew 26:59
 
-The chief priests and the whole Council were looking for false testimony against Jesus so that they could put him to death.
+The chief priests and the whole council were seeking false testimony against Jesus so that they could put him to death.
 
 ## Matthew 26:60
 

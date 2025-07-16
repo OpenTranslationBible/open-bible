@@ -82,7 +82,7 @@ Anyone who divorces his wife and marries another commits adultery, and anyone wh
 
 ## Luke 16:19
 
-There was a rich man who was dressed in purple and fine linen, and lived in luxury every day.
+There was a wealthy man who wore purple and fine linen, and enjoyed a luxurious life every day.
 
 ## Luke 16:20
 
@@ -90,7 +90,7 @@ At his gate was laid a poor man named Lazarus, covered with sores,
 
 ## Luke 16:21
 
-and longing to eat what fell from the rich man’s table. Even the dogs came and licked his sores.
+and desiring to eat what fell from the wealthy man's table. Even the dogs came and licked his sores.
 
 ## Luke 16:22
 
@@ -98,7 +98,7 @@ The time came when the poor man died and was carried by the angels to Abraham’
 
 ## Luke 16:23
 
-In Hades, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side.
+In the place of the dead, where he was in torment, he looked up and saw Abraham far away, with Lazarus by his side.
 
 ## Luke 16:24
 
@@ -114,7 +114,7 @@ And besides all this, between us and you a great chasm has been fixed, so that t
 
 ## Luke 16:27
 
-He said, ‘Then I beg you, father, to send him to my father’s house—
+He said, ‘Then I plead with you, father, to send him to my father’s house—
 
 ## Luke 16:28
 
@@ -126,7 +126,7 @@ But Abraham said, ‘They have Moses and the Prophets; let them listen to them.�
 
 ## Luke 16:30
 
-He said, ‘No, father Abraham, but if someone from the dead goes to them, they will repent.’
+He said, ‘No, father Abraham, but if someone from the dead visits them, they will repent.’
 
 ## Luke 16:31
 

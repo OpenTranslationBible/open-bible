@@ -14,7 +14,7 @@ For what the law was powerless to accomplish, weakened as it was by the flesh, G
 
 ## Romans 8:4
 
-so that the righteous requirement of the law might be fulfilled in us, who do not walk according to the flesh but according to the Spirit.
+so that the righteous requirement of the law might be fulfilled in us, who do not live according to the flesh but according to the Spirit.
 
 ## Romans 8:5
 
@@ -30,7 +30,7 @@ Because the mind set on the flesh is hostile to God; it does not submit to God's
 
 ## Romans 8:8
 
-Those who are in the realm of the flesh cannot please God.
+Those who live by the flesh cannot please God.
 
 ## Romans 8:9
 
@@ -70,11 +70,11 @@ And if we are children, then we are heirs—heirs of God and co-heirs with Chris
 
 ## Romans 8:18
 
-I consider that our present sufferings are not worth comparing with the glory that will be revealed in us.
+I consider that our current sufferings are not worth comparing with the glory that will be revealed in us.
 
 ## Romans 8:19
 
-For the creation waits in eager expectation for the children of God to be revealed.
+For the creation eagerly awaits the revealing of the children of God.
 
 ## Romans 8:20
 
@@ -82,7 +82,7 @@ For the creation was subjected to futility, not by its own choice, but by the wi
 
 ## Romans 8:21
 
-that the creation itself will be liberated from its bondage to decay and brought into the freedom and glory of the children of God.
+that the creation itself will be freed from its bondage to decay and brought into the freedom and glory of the children of God.
 
 ## Romans 8:22
 
@@ -106,7 +106,7 @@ In the same way, the Spirit helps us in our weakness. We do not know what we oug
 
 ## Romans 8:27
 
-And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God's people in accordance with the will of God.
+And He who searches our hearts knows the mind of the Spirit, because the Spirit intercedes for God's people in accordance with God's will.
 
 ## Romans 8:28
 
@@ -122,7 +122,7 @@ And those He predestined, He also called; those He called, He also justified; th
 
 ## Romans 8:31
 
-What then shall we say in response to these things? If God is for us, who can be against us?
+What then shall we say in response to these matters? If God is for us, who can be against us?
 
 ## Romans 8:32
 

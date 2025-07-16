@@ -28,7 +28,7 @@ They journeyed from Pi Hahiroth and passed through the midst of the sea into the
 They journeyed from Marah and came to Elim, where there were twelve springs and seventy palm trees, and they camped there.
 
 ## Numbers 33:10
-They journeyed from Elim and camped by the Red Sea.
+From Elim, they traveled and set up camp by the Red Sea.
 
 ## Numbers 33:11
 They journeyed from the Red Sea and camped in the Desert of Sin.
@@ -37,7 +37,7 @@ They journeyed from the Red Sea and camped in the Desert of Sin.
 They journeyed from the Desert of Sin and camped at Dophkah.
 
 ## Numbers 33:13
-They journeyed from Dophkah and camped at Alush.
+From Dophkah, they traveled and set up camp at Alush.
 
 ## Numbers 33:14
 They journeyed from Alush and camped at Rephidim, where there was no water for the people to drink.
@@ -52,7 +52,7 @@ They journeyed from the Desert of Sinai and camped at Kibroth Hattaavah.
 They journeyed from Kibroth Hattaavah and camped at Hazeroth.
 
 ## Numbers 33:18
-They journeyed from Hazeroth and camped at Rithmah.
+From Hazeroth, they traveled and set up camp at Rithmah.
 
 ## Numbers 33:19
 They journeyed from Rithmah and camped at Rimmon Perez.
@@ -61,34 +61,34 @@ They journeyed from Rithmah and camped at Rimmon Perez.
 They journeyed from Rimmon Perez and camped at Libnah.
 
 ## Numbers 33:21
-They journeyed from Libnah and camped at Rissah.
+From Libnah, they traveled and set up camp at Rissah.
 
 ## Numbers 33:22
-They journeyed from Rissah and camped at Kehelathah.
+From Rissah, they traveled and set up camp at Kehelathah.
 
 ## Numbers 33:23
-They journeyed from Kehelathah and camped at Mount Shepher.
+From Kehelathah, they traveled and set up camp at Mount Shepher.
 
 ## Numbers 33:24
-They journeyed from Mount Shepher and camped at Haradah.
+From Mount Shepher, they traveled and set up camp at Haradah.
 
 ## Numbers 33:25
-They journeyed from Haradah and camped at Makheloth.
+From Haradah, they traveled and set up camp at Makheloth.
 
 ## Numbers 33:26
-They journeyed from Makheloth and camped at Tahath.
+From Makheloth, they traveled and set up camp at Tahath.
 
 ## Numbers 33:27
-They journeyed from Tahath and camped at Terah.
+From Tahath, they traveled and set up camp at Terah.
 
 ## Numbers 33:28
-They journeyed from Terah and camped at Mithkah.
+From Terah, they traveled and set up camp at Mithkah.
 
 ## Numbers 33:29
-They journeyed from Mithkah and camped at Hashmonah.
+From Mithkah, they traveled and set up camp at Hashmonah.
 
 ## Numbers 33:30
-They journeyed from Hashmonah and camped at Moseroth.
+From Hashmonah, they traveled and set up camp at Moseroth.
 
 ## Numbers 33:31
 They journeyed from Moseroth and camped at Bene Jaakan.
@@ -100,7 +100,7 @@ They journeyed from Bene Jaakan and camped at Hor Haggidgad.
 They journeyed from Hor Haggidgad and camped at Jotbathah.
 
 ## Numbers 33:34
-They journeyed from Jotbathah and camped at Abronah.
+From Jotbathah, they traveled and set up camp at Abronah.
 
 ## Numbers 33:35
 They journeyed from Abronah and camped at Ezion Geber.
@@ -124,10 +124,10 @@ Now the Canaanite king of Arad, who lived in the Negev of Canaan, heard of the c
 They journeyed from Mount Hor and camped at Zalmonah.
 
 ## Numbers 33:42
-They journeyed from Zalmonah and camped at Punon.
+From Zalmonah, they traveled and set up camp at Punon.
 
 ## Numbers 33:43
-They journeyed from Punon and camped at Oboth.
+From Punon, they traveled and set up camp at Oboth.
 
 ## Numbers 33:44
 They journeyed from Oboth and camped at Iye Abarim, on the border of Moab.
@@ -145,13 +145,13 @@ They journeyed from Almon Diblathaim and camped in the mountains of Abarim, near
 They journeyed from the mountains of Abarim and camped on the plains of Moab by the Jordan across from Jericho.
 
 ## Numbers 33:49
-There on the plains of Moab they camped along the Jordan from Beth Jeshimoth to Abel Shittim.
+In the plains of Moab, they set up camp along the Jordan from Beth Jeshimoth to Abel Shittim.
 
 ## Numbers 33:50
 Then the Lord spoke to Moses on the plains of Moab by the Jordan across from Jericho, saying,
 
 ## Numbers 33:51
-“Speak to the Israelites and say to them: ‘When you cross the Jordan into the land of Canaan,
+“Speak to the Israelites and tell them: ‘When you cross the Jordan into the land of Canaan,
 
 ## Numbers 33:52
 you shall drive out all the inhabitants of the land from before you, destroy all their carved images, destroy all their cast idols, and demolish all their high places.

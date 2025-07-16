@@ -76,7 +76,7 @@ Then Peter and John laid their hands on them, and they received the Holy Spirit.
 
 ## Acts 8:18
 
-When Simon saw that the Spirit was given through the laying on of the apostles' hands, he offered them money,
+When Simon observed that the Spirit was given through the apostles' laying on of hands, he offered them money,
 
 ## Acts 8:19
 
@@ -88,7 +88,7 @@ But Peter said to him, “May your money perish with you, because you thought yo
 
 ## Acts 8:21
 
-You have no part or share in this matter, for your heart is not right before God.
+You have no share in this ministry, for your heart is not right before God.
 
 ## Acts 8:22
 
@@ -96,7 +96,7 @@ Therefore, repent of this wickedness of yours and pray to the Lord, that, if pos
 
 ## Acts 8:23
 
-For I see that you are in the gall of bitterness and in the bondage of iniquity.”
+For I see that you are filled with bitterness and held captive by sin.”
 
 ## Acts 8:24
 
@@ -154,7 +154,7 @@ The eunuch asked Philip, “Please tell me, of whom does the prophet say this? O
 
 ## Acts 8:35
 
-Then Philip opened his mouth, and beginning from this Scripture, he preached Jesus to him.
+Then Philip began to speak, and starting from this Scripture, he shared the message of Jesus with him.
 
 ## Acts 8:36
 

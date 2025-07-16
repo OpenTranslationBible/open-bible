@@ -118,7 +118,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:29
 
-> the men of Kiriath Jearim, Kephirah, and Beeroth, 743;
+> the people of Kiriath Jearim, Kephirah, and Beeroth, 743;
 
 ## Nehemiah 7:30
 
@@ -296,7 +296,7 @@ The whole assembly numbered 42,360,
 
 ## Nehemiah 7:67
 
-besides their 7,337 male and female slaves; and they also had 245 male and female singers.
+in addition to their 7,337 male and female servants; and they also had 245 singers, both male and female.
 
 ## Nehemiah 7:68
 

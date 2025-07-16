@@ -4,7 +4,7 @@
 In the seventh year, in the fifth month on the tenth day, some of the elders of Israel came to seek the Lord, and they sat before me.
 
 ## Ezekiel 20:2
-Then the word of the Lord came to me, saying:
+Then the message from the Lord came to me, saying:
 
 ## Ezekiel 20:3
 “Son of man, speak to the elders of Israel and say to them, ‘This is what the Lord God says: Have you come to inquire of me? As I live, declares the Lord God, I will not let you inquire of me.’
@@ -73,10 +73,10 @@ Also, I swore to them in the wilderness that I would disperse them among the nat
 because they had not obeyed my ordinances but had rejected my statutes and profaned my Sabbaths, and their eyes lusted after their parents’ idols.
 
 ## Ezekiel 20:25
-So I gave them statutes that were not good and ordinances by which they could not live;
+So I allowed them to follow statutes that were not beneficial and ordinances by which they could not thrive;
 
 ## Ezekiel 20:26
-I defiled them through their gifts—the sacrifice of every firstborn—that I might fill them with horror so they would know that I am the Lord.’
+I let them be defiled through their gifts—the sacrifice of every firstborn—that they might be filled with horror so they would know that I am the Lord.’
 
 ## Ezekiel 20:27
 “Therefore, son of man, speak to the house of Israel and say to them, ‘This is what the Lord God says: In this also your ancestors blasphemed me by being unfaithful to me:
@@ -85,7 +85,7 @@ I defiled them through their gifts—the sacrifice of every firstborn—that I m
 When I brought them into the land I had sworn to give them, they saw every high hill and leafy tree, and there they offered their sacrifices and presented their provoking offerings. There they made their soothing aroma and poured out their drink offerings.
 
 ## Ezekiel 20:29
-Then I said to them: What is this high place you go to?’” (It is called Bamah to this day.)
+Then I said to them: What is this elevated place you go to?’” (It is called Bamah to this day.)
 
 ## Ezekiel 20:30
 “Therefore say to the house of Israel: ‘This is what the Lord God says: Will you defile yourselves in the manner of your ancestors and pursue their detestable things?
@@ -103,7 +103,7 @@ As I live, declares the Lord God, with a mighty hand and an outstretched arm and
 I will bring you out from the peoples and gather you from the lands where you have been scattered, with a mighty hand and an outstretched arm and with wrath poured out.
 
 ## Ezekiel 20:35
-I will bring you into the wilderness of the peoples, and there I will enter into judgment with you face to face.
+I will bring you into the wilderness of the nations, and there I will enter into judgment with you directly.
 
 ## Ezekiel 20:36
 As I judged your ancestors in the wilderness of the land of Egypt, so I will judge you, declares the Lord God.
@@ -133,7 +133,7 @@ There you will remember your ways and all the deeds by which you have defiled yo
 You will know that I am the Lord, when I have dealt with you for my name’s sake, not according to your evil ways or your corrupt deeds, house of Israel, declares the Lord God.’”
 
 ## Ezekiel 20:45
-Now the word of the Lord came to me, saying:
+Then the message from the Lord came to me, saying:
 
 ## Ezekiel 20:46
 “Son of man, set your face toward the south; preach against the south and prophesy against the forest land of the Negev.
@@ -145,4 +145,4 @@ Say to the forest of the Negev: ‘Hear the word of the Lord. This is what the L
 And all mankind will see that I, the Lord, have kindled it; it will not be quenched.’”
 
 ## Ezekiel 20:49
-Then I said, “Oh, Lord God! They are saying of me, ‘Is he not just speaking in riddles?’”
+Then I said, “Oh, Lord God! They are saying of me, ‘Is he not just speaking in parables?’”

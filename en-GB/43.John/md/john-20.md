@@ -14,7 +14,7 @@ Then Peter and the other disciple set out for the tomb.
 
 ## John 20:4
 
-They were both running, but the other disciple outran Peter and reached the tomb first.
+They both ran, but the other disciple ran faster than Peter and reached the tomb first.
 
 ## John 20:5
 
@@ -48,7 +48,7 @@ But Mary stood outside the tomb weeping. As she wept, she bent over to look into
 
 ## John 20:12
 
-and saw two angels in white, seated where Jesus’ body had been, one at the head and the other at the foot.
+and saw two angels in white, sitting where Jesus’ body had been, one at the head and the other at the foot.
 
 ## John 20:13
 
@@ -68,17 +68,17 @@ Jesus said to her, “Mary.” She turned towards him and cried out in Hebrew, �
 
 ## John 20:17
 
-Jesus said, “Do not hold on to me, for I have not yet ascended to the Father. Go instead to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”
+Jesus said, “Do not cling to me, for I have not yet ascended to the Father. Go instead to my brothers and tell them, ‘I am ascending to my Father and your Father, to my God and your God.’”
 
 ## John 20:18
 
-Mary Magdalene went to the disciples with the news, “I have seen the Lord!” And she told them that he had said these things to her.
+Mary Magdalene went to the disciples with the message, “I have seen the Lord!” And she told them what he had said to her.
 
 ---
 
 ## John 20:19
 
-On the evening of that first day of the week, when the disciples were together, with the doors locked for fear of the Jewish leaders, Jesus came and stood among them and said, “Peace be with you!”
+On the evening of that first day of the week, when the disciples were together, with the doors locked due to fear of the Jewish leaders, Jesus came and stood among them and said, “Peace be with you!”
 
 ## John 20:20
 
@@ -86,21 +86,21 @@ After he said this, he showed them his hands and his side. The disciples were ov
 
 ## John 20:21
 
-Again Jesus said, “Peace be with you! As the Father has sent me, I am sending you.”
+Again Jesus said, “Peace be with you! Just as the Father has sent me, I am sending you.”
 
 ## John 20:22
 
-And with that he breathed on them and said, “Receive the Holy Spirit.
+With that, he breathed on them and said, “Receive the Holy Spirit.
 
 ## John 20:23
 
-If you forgive anyone’s sins, their sins are forgiven; if you do not forgive them, they are not forgiven.”
+If you forgive anyone’s sins, they are forgiven; if you do not forgive them, they are not forgiven.”
 
 ---
 
 ## John 20:24
 
-Now Thomas, also known as Didymus, one of the Twelve, was not with the disciples when Jesus came.
+Now Thomas, also called Didymus, one of the Twelve, was not with the disciples when Jesus came.
 
 ## John 20:25
 
@@ -110,11 +110,11 @@ So the other disciples told him, “We have seen the Lord!” But he said to the
 
 ## John 20:26
 
-A week later his disciples were in the house again, and Thomas was with them. Though the doors were locked, Jesus came and stood among them and said, “Peace be with you!”
+A week later his disciples were in the house again, and Thomas was with them. Although the doors were locked, Jesus came and stood among them and said, “Peace be with you!”
 
 ## John 20:27
 
-Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and put it into my side. Stop doubting and believe.”
+Then he said to Thomas, “Put your finger here; see my hands. Reach out your hand and place it into my side. Stop doubting and believe.”
 
 ## John 20:28
 
@@ -128,8 +128,8 @@ Then Jesus told him, “Because you have seen me, you have believed; blessed are
 
 ## John 20:30
 
-Jesus performed many other signs in the presence of his disciples, which are not recorded in this book.
+Jesus performed many other signs in the presence of his disciples, which are not written in this book.
 
 ## John 20:31
 
-But these are written that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.
+But these are recorded so that you may believe that Jesus is the Messiah, the Son of God, and that by believing you may have life in his name.

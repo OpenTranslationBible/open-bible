@@ -42,7 +42,7 @@ Would you thank the servant because he did what he was commanded to do?
 
 ## Luke 17:10
 
-So you also, when you have done everything you were told to do, should say, ‘We are unworthy servants; we have only done our duty.’”
+So you also, when you have completed all that was instructed, should say, ‘We are humble servants; we have only fulfilled our responsibility.’”
 
 ---
 
@@ -60,37 +60,37 @@ and called out in a loud voice, “Jesus, Master, have mercy on us!”
 
 ## Luke 17:14
 
-When He saw them, He said, “Go, show yourselves to the priests.” And as they went, they were cleansed.
+When He noticed them, He instructed, “Go, show yourselves to the priests.” And as they went, they were cleansed.
 
 ## Luke 17:15
 
-One of them, when he saw he was healed, came back, praising God in a loud voice.
+One of them, upon realizing he was healed, returned, glorifying God in a loud voice.
 
 ## Luke 17:16
 
-He threw himself at Jesus’ feet and thanked Him—and he was a Samaritan.
+He fell at Jesus’ feet and expressed his gratitude—and he was a Samaritan.
 
 ## Luke 17:17
 
-Jesus asked, “Were not all ten cleansed? Where are the other nine?
+Jesus inquired, “Were all ten not cleansed? Where are the other nine?
 
 ## Luke 17:18
 
-Has no one returned to give glory to God except this foreigner?”
+Is there no one here to honor God except this outsider?”
 
 ## Luke 17:19
 
-Then He said to him, “Rise and go; your faith has made you well.”
+Then He told him, “Stand up and continue on your way; your faith has restored you.”
 
 ---
 
 ## Luke 17:20
 
-Once, being asked by the Pharisees when the kingdom of God would come, Jesus replied, “The coming of the kingdom of God is not something that can be observed,
+Once, being asked by the Pharisees when the kingdom of God would come, Jesus replied, “The arrival of the kingdom of God is not something that can be observed,
 
 ## Luke 17:21
 
-nor will people say, ‘Here it is,’ or ‘There it is,’ because the kingdom of God is in your midst.”
+nor will people say, ‘Here it is,’ or ‘There it is,’ because the kingdom of God is among you.”
 
 ---
 
@@ -104,25 +104,25 @@ People will say to you, ‘Look, there he is!’ or ‘Here he is!’ Do not go 
 
 ## Luke 17:24
 
-For the Son of Man in His day will be like the lightning, which flashes and lights up the sky from one end to the other.
+For the Son of Man in His day will be like lightning, which flashes and illuminates the sky from one end to the other.
 
 ## Luke 17:25
 
-But first He must suffer many things and be rejected by this generation.
+But first He must endure many things and be rejected by this generation.
 
 ---
 
 ## Luke 17:26
 
-Just as it was in the days of Noah, so also will it be in the days of the Son of Man.
+Just as it was during the time of Noah, so it will be in the days of the Son of Man.
 
 ## Luke 17:27
 
-People were eating, drinking, marrying and being given in marriage up to the day Noah entered the ark. Then the flood came and destroyed them all.
+People were eating, drinking, marrying, and being given in marriage until the day Noah entered the ark. Then the flood came and destroyed them all.
 
 ## Luke 17:28
 
-It was the same in the days of Lot. People were eating and drinking, buying and selling, planting and building.
+It was similar in the days of Lot. People were eating and drinking, buying and selling, planting and building.
 
 ## Luke 17:29
 
@@ -144,7 +144,7 @@ Remember Lot’s wife!
 
 ## Luke 17:33
 
-Whoever tries to keep their life will lose it, and whoever loses their life will preserve it.
+Whoever seeks to preserve their life will lose it, and whoever loses their life will keep it.
 
 ---
 
@@ -164,4 +164,4 @@ Two women will be grinding grain together; one will be taken and the other left.
 
 ## Luke 17:37
 
-“Where, Lord?” they asked. He replied, “Where there is a dead body, there the vultures will gather.”
+“Where, Lord?” they asked. He replied, “Where there is a body, there the vultures will gather.”

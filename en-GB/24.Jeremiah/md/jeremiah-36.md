@@ -31,7 +31,7 @@ In the ninth month of the fifth year of Jehoiakim son of Josiah, king of Judah, 
 Then Baruch read from the scroll the words of Jeremiah to all the people in the house of the Lord, in the chamber of Gemariah son of Shaphan the scribe, in the upper courtyard, at the entrance of the New Gate of the Lord’s house.
 
 ## Jeremiah 36:11
-When Micaiah son of Gemariah, the son of Shaphan, heard all the words of the Lord from the scroll,
+When Micaiah son of Gemariah, the son of Shaphan, heard all the words from the scroll,
 
 ## Jeremiah 36:12
 he went down to the scribe’s chamber in the royal palace, where all the officials were sitting: Elishama the scribe, Delaiah son of Shemaiah, Elnathan son of Akbor, Gemariah son of Shaphan, Zedekiah son of Hananiah, and all the other officials.
@@ -55,7 +55,7 @@ They then asked Baruch, “Tell us, how did you come to write all this? Was it a
 “Yes,” Baruch replied, “he dictated all these words to me, and I wrote them with ink on the scroll.”
 
 ## Jeremiah 36:19
-Then the officials said to Baruch, “You and Jeremiah, go and hide. Do not let anyone know where you are.”
+Then the officials advised Baruch, “You and Jeremiah should find a safe place. Do not let anyone know where you are.”
 
 ## Jeremiah 36:20
 They placed the scroll in the chamber of Elishama the scribe and went to the king in the courtyard, reporting everything to him.
@@ -79,7 +79,7 @@ Even though Elnathan, Delaiah, and Gemariah urged the king not to burn the scrol
 Instead, the king commanded Jerahmeel, a son of the king, Seraiah son of Azriel, and Shelemiah son of Abdeel to seize Baruch the scribe and Jeremiah the prophet, but the Lord hid them.
 
 ## Jeremiah 36:27
-After the king burned the scroll containing the words that Baruch had written at Jeremiah’s dictation, the word of the Lord came to Jeremiah:
+After the king burned the scroll with the words that Baruch had written at Jeremiah’s dictation, the word of the Lord came to Jeremiah:
 
 ## Jeremiah 36:28
 “Take another scroll and write on it all the words that were on the first scroll, which Jehoiakim king of Judah burned.

@@ -7,7 +7,7 @@ On that day, this song will be sung in the land of Judah: “We have a strong ci
 Open the gates, that the righteous nation may enter, the nation that remains faithful.
 
 ## Isaiah 26:3
-You will keep in perfect peace those whose minds are steadfast, because they trust in you.
+You will maintain in complete peace those whose minds are unwavering, because they trust in you.
 
 ## Isaiah 26:4
 Trust in the Lord forever, for the Lord God is the eternal Rock.
@@ -34,10 +34,10 @@ Though compassion is shown to the wicked, they do not learn righteousness; they 
 Lord, your hand is lifted high, yet they do not see it. Let them see your zeal for your people and be put to shame; indeed, let the fire reserved for your enemies consume them.
 
 ## Isaiah 26:12
-Lord, you will establish peace for us, since you have also performed for us all our works.
+Lord, you will bring about peace for us, since you have also accomplished all our works for us.
 
 ## Isaiah 26:13
-Lord our God, other lords besides you have ruled over us, but your name alone do we honour.
+Lord our God, other rulers besides you have governed us, but we honour your name alone.
 
 ## Isaiah 26:14
 The dead will not live, the departed spirits will not rise; therefore you have punished and destroyed them, and you have wiped out all memory of them.

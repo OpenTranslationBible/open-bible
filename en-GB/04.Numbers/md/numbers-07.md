@@ -34,7 +34,7 @@ The leaders brought their offerings for the dedication of the altar when it was 
 The Lord instructed Moses, “Each day one leader shall bring his offering for the dedication of the altar.”
 
 ## Numbers 7:12
-The one who presented his offering on the first day was Nahshon son of Amminadab, of the tribe of Judah.
+On the first day, Nahshon son of Amminadab, of the tribe of Judah, presented his offering.
 
 ## Numbers 7:13
 His offering consisted of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;
@@ -49,7 +49,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:17
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nahshon son of Amminadab.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nahshon son of Amminadab.
 
 ## Numbers 7:18
 On the second day, Nethanel son of Zuar, leader of Issachar, presented his offering.
@@ -67,7 +67,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:23
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel son of Zuar.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel son of Zuar.
 
 ## Numbers 7:24
 On the third day, Eliab son of Helon, leader of the people of Zebulun, brought his offering.
@@ -85,7 +85,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:29
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab son of Helon.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab son of Helon.
 
 ## Numbers 7:30
 On the fourth day, Elizur son of Shedeur, leader of the people of Reuben, brought his offering.
@@ -103,7 +103,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:35
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur son of Shedeur.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur son of Shedeur.
 
 ## Numbers 7:36
 On the fifth day, Shelumiel son of Zurishaddai, leader of the people of Simeon, brought his offering.
@@ -121,7 +121,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:41
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel son of Zurishaddai.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel son of Zurishaddai.
 
 ## Numbers 7:42
 On the sixth day, Eliasaph son of Deuel, leader of the people of Gad, brought his offering.
@@ -139,7 +139,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:47
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph son of Deuel.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph son of Deuel.
 
 ## Numbers 7:48
 On the seventh day, Elishama son of Ammihud, leader of the people of Ephraim, brought his offering.
@@ -157,7 +157,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:53
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama son of Ammihud.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama son of Ammihud.
 
 ## Numbers 7:54
 On the eighth day, Gamaliel son of Pedahzur, leader of the people of Manasseh, brought his offering.
@@ -175,7 +175,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:59
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel son of Pedahzur.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel son of Pedahzur.
 
 ## Numbers 7:60
 On the ninth day, Abidan son of Gideoni, leader of the people of Benjamin, brought his offering.
@@ -193,7 +193,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:65
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan son of Gideoni.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan son of Gideoni.
 
 ## Numbers 7:66
 On the tenth day, Ahiezer son of Ammishaddai, leader of the people of Dan, brought his offering.
@@ -211,7 +211,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:71
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai.
 
 ## Numbers 7:72
 On the eleventh day, Pagiel son of Ochran, leader of the people of Asher, brought his offering.
@@ -229,7 +229,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:77
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel son of Ochran.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel son of Ochran.
 
 ## Numbers 7:78
 On the twelfth day, Ahira son of Enan, leader of the people of Naphtali, brought his offering.
@@ -247,7 +247,7 @@ one young bull, one ram, and one male lamb a year old for a burnt offering;
 one male goat for a sin offering;
 
 ## Numbers 7:83
-and for the sacrifice of peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira son of Enan.
+and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira son of Enan.
 
 ## Numbers 7:84
 These were the offerings of the Israelite leaders for the dedication of the altar when it was anointed: twelve silver dishes, twelve silver bowls, and twelve gold pans.
@@ -262,7 +262,7 @@ The twelve gold pans filled with incense weighed ten shekels each, according to 
 The total number of animals for the burnt offering came to twelve young bulls, twelve rams, and twelve male lambs a year old, along with their grain offering. Twelve male goats were used for the sin offering.
 
 ## Numbers 7:88
-The total number of animals for the sacrifice of peace offerings came to twenty-four oxen, sixty rams, sixty male goats, and sixty male lambs a year old. These were the offerings for the dedication of the altar after it was anointed.
+The total number of animals for the peace offerings came to twenty-four oxen, sixty rams, sixty male goats, and sixty male lambs a year old. These were the offerings for the dedication of the altar after it was anointed.
 
 ## Numbers 7:89
 When Moses entered the tent of meeting to speak with the Lord, he heard the voice speaking to him from above the atonement cover on the ark of the testimony, from between the two cherubim; thus the Lord spoke to him.

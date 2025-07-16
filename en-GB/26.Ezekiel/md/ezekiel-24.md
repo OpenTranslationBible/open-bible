@@ -2,7 +2,7 @@
 
 ## Ezekiel 24:1
 
-In the ninth year, in the tenth month, on the tenth day, the word of the Lord came to me, saying:
+In the ninth year, in the tenth month, on the tenth day, a message from the Lord reached me:
 
 ## Ezekiel 24:2
 
@@ -90,7 +90,7 @@ I, the Lord, have spoken. The time has come for me to act. I will not hold back;
 
 ## Ezekiel 24:15
 
-The word of the Lord came to me, saying:
+Another message from the Lord reached me:
 
 ## Ezekiel 24:16
 
@@ -110,7 +110,7 @@ Then the people asked me, “Will you not tell us what these things mean for us,
 
 ## Ezekiel 24:20
 
-So I said to them, “The word of the Lord came to me, saying:
+So I explained to them, “A message from the Lord reached me:
 
 ## Ezekiel 24:21
 
@@ -126,7 +126,7 @@ You will keep your turbans on your heads and your sandals on your feet. You will
 
 ## Ezekiel 24:24
 
-Ezekiel will be a sign to you; you will do just as he has done. When this happens, you will know that I am the Sovereign Lord.’
+Ezekiel will serve as a sign to you; you will act just as he has acted. When this occurs, you will recognize that I am the Sovereign Lord.’
 
 ## Ezekiel 24:25
 

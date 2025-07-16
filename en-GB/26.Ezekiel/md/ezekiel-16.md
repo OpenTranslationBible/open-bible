@@ -1,10 +1,10 @@
 # Ezekiel Chapter 16
 
 ## Ezekiel 16:1
-The word of the Lord came to me, saying:
+A message from the Lord came to me:
 
 ## Ezekiel 16:2
-“Son of man, make known to Jerusalem her abominable practices.
+“Human, inform Jerusalem of her detestable actions.
 
 ## Ezekiel 16:3
 and say, ‘This is what the Sovereign Lord says to Jerusalem: Your origin and birth were in the land of the Canaanites; your father was an Amorite and your mother a Hittite.
@@ -34,7 +34,7 @@ I clothed you with embroidered garments and put sandals of fine leather on you. 
 I adorned you with jewellery: I put bracelets on your wrists and a necklace around your neck,
 
 ## Ezekiel 16:12
-and I put a ring on your nose, earrings on your ears, and a beautiful crown on your head.
+and I placed a ring on your nose, earrings on your ears, and a beautiful crown on your head.
 
 ## Ezekiel 16:13
 Thus you were adorned with gold and silver; your clothes were of fine linen, silk, and embroidered cloth. Your food was fine flour, honey, and olive oil. You became exceedingly beautiful and advanced to royalty.
@@ -52,7 +52,7 @@ You took some of your garments to make gaudy high places, where you carried on y
 You also took the fine jewellery I gave you, made of my gold and silver, and you made male images and engaged in prostitution with them.
 
 ## Ezekiel 16:18
-And you took your embroidered clothes to put on them, and you offered my oil and incense before them.
+And you took your embroidered clothes to adorn them, and you offered my oil and incense before them.
 
 ## Ezekiel 16:19
 Also the food I provided for you—the fine flour, olive oil, and honey I gave you to eat—you offered as a soothing aroma before them. That is what happened, declares the Sovereign Lord.
@@ -82,7 +82,7 @@ You engaged in prostitution with the Egyptians, your lustful neighbours, and pro
 So I stretched out my hand against you and reduced your territory; I gave you over to the greed of your enemies, the daughters of the Philistines, who were ashamed of your lewd conduct.
 
 ## Ezekiel 16:28
-You engaged in prostitution with the Assyrians too, because you were insatiable; and even after that, you still were not satisfied.
+You also acted immorally with the Assyrians, because you were insatiable; and even after that, you still were not satisfied.
 
 ## Ezekiel 16:29
 Then you increased your promiscuity to include Babylonia, a land of merchants, but even with this, you were not satisfied.
@@ -100,7 +100,7 @@ When you built your mounds at every street corner and made your high places in e
 All prostitutes receive gifts, but you give gifts to all your lovers, bribing them to come to you from everywhere for your obscene practices.
 
 ## Ezekiel 16:34
-So in your prostitution, you are the opposite of others; no one runs after you for your favours. You are the very opposite, for you give payment and none is given to you.
+So in your prostitution, you are unlike others; no one runs after you for your favours. You are the very opposite, for you give payment and none is given to you.
 
 ## Ezekiel 16:35
 “‘Therefore, you prostitute, hear the word of the Lord!
@@ -130,7 +130,7 @@ Then my wrath against you will subside, and my jealousy will turn away from you;
 “‘Because you did not remember the days of your youth but enraged me with all these things, I will surely bring down on your head what you have done, declares the Sovereign Lord. Did you not add lewdness to all your other abominable practices?
 
 ## Ezekiel 16:44
-“‘Everyone who quotes proverbs will quote this proverb about you: “Like mother, like daughter.”
+“‘Everyone who quotes proverbs will say this about you: “Like mother, like daughter.”
 
 ## Ezekiel 16:45
 You are the daughter of your mother, who loathed her husband and children; and you are the sister of your sisters, who loathed their husbands and children. Your mother was a Hittite and your father an Amorite.

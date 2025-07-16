@@ -10,11 +10,11 @@ For I can testify that they have a zeal for God, but it is not according to know
 
 ## Romans 10:3
 
-For being ignorant of the righteousness of God and seeking to establish their own, they did not submit to God’s righteousness.
+For, lacking awareness of God's righteousness and attempting to establish their own, they did not submit to God's righteousness.
 
 ## Romans 10:4
 
-For Christ is the culmination of the law so that there may be righteousness for everyone who believes.
+For Christ is the fulfillment of the law so that righteousness may be available to everyone who believes.
 
 ## Romans 10:5
 
@@ -34,11 +34,11 @@ But what does it say? “The word is near you; it is in your mouth and in your h
 
 ## Romans 10:9
 
-If you confess with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
+If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
 
 ## Romans 10:10
 
-For with the heart one believes and is justified, and with the mouth one confesses and is saved.
+For with the heart one believes and is justified, and with the mouth one declares and is saved.
 
 ## Romans 10:11
 
@@ -58,7 +58,7 @@ How then can they call on the one they have not believed in? And how can they be
 
 ## Romans 10:15
 
-And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring good news!”
+And how can they preach unless they are sent? As it is written: “How beautiful are the feet of those who bring glad tidings!”
 
 ## Romans 10:16
 
@@ -66,7 +66,7 @@ But not all heeded the good news. For Isaiah says, “Lord, who has believed our
 
 ## Romans 10:17
 
-So faith comes from hearing, and hearing through the word of Christ.
+So faith comes from hearing, and hearing through the message of Christ.
 
 ## Romans 10:18
 

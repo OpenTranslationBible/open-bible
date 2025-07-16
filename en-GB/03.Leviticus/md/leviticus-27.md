@@ -88,7 +88,7 @@ If it is one of the unclean animals, it may be redeemed at its set value plus a 
 No person who is devoted to destruction may be ransomed; they must be put to death.
 
 ## Leviticus 27:30
-“‘A tithe of everything from the land, whether grain from the soil or fruit from the trees, belongs to the Lord; it is holy to the Lord.
+“‘A tenth of all produce from the land, whether grain from the soil or fruit from the trees, is consecrated to the Lord; it is holy to Him.
 
 ## Leviticus 27:31
 If anyone wishes to redeem any of their tithe, they must add a fifth to its value.
@@ -100,4 +100,4 @@ Every tenth animal of the herd and flock, whatever passes under the shepherd’s
 No one may choose between good and bad or make any substitution. If a substitution is made, both the original and the substitute shall become holy and cannot be redeemed.’”
 
 ## Leviticus 27:34
-These are the commands the Lord gave Moses for the Israelites on Mount Sinai.
+These are the instructions the Lord provided to Moses for the Israelites on Mount Sinai.

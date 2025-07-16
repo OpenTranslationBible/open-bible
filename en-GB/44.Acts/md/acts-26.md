@@ -58,7 +58,7 @@ At midday, O king, I saw a light from heaven, brighter than the sun, shining aro
 
 ## Acts 26:14
 
-We all fell to the ground, and I heard a voice speaking to me in the Hebrew language, ‘Saul, Saul, why are you persecuting me? It is hard for you to kick against the goads.’
+We all fell to the ground, and I heard a voice speaking to me in Hebrew, ‘Saul, Saul, why are you persecuting me? It is hard for you to resist the prods.’
 
 ## Acts 26:15
 
@@ -80,7 +80,7 @@ to open their eyes and turn them from darkness to light, and from the power of S
 
 ## Acts 26:19
 
-“So then, King Agrippa, I was not disobedient to the heavenly vision.
+“So then, King Agrippa, I was obedient to the vision from heaven.
 
 ## Acts 26:20
 
@@ -128,7 +128,7 @@ Paul replied, “Short time or long, I pray to God that not only you but all who
 
 ## Acts 26:30
 
-The king rose, and with him the governor and Bernice and those sitting with them.
+The king stood up, along with the governor, Bernice, and those seated with them.
 
 ## Acts 26:31
 
@@ -136,4 +136,4 @@ After they left the room, they began discussing among themselves, saying, “Thi
 
 ## Acts 26:32
 
-Agrippa said to Festus, “This man could have been set free if he had not appealed to Caesar.”
+Agrippa remarked to Festus, “This man could have been set free if he had not appealed to Caesar.”

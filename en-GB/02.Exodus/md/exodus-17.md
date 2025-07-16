@@ -43,7 +43,7 @@ Joshua defeated Amalek and his people with the sword.
 The Lord said to Moses, “Write this as a memorial in a book and recite it to Joshua, for I will utterly blot out the memory of Amalek from under heaven.”
 
 ## Exodus 17:15
-Moses built an altar and called it The Lord is My Banner.
+Moses constructed an altar and named it The Lord is My Banner.
 
 ## Exodus 17:16
 He declared, “Because the Lord has sworn, the Lord will have war against Amalek from generation to generation.”

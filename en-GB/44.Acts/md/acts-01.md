@@ -119,4 +119,4 @@ to take over this ministry and apostleship, which Judas left to go to his own pl
 
 ## Acts 1:26
 
-Then they cast lots, and the lot fell to Matthias; so he was added to the eleven apostles.
+Then they cast lots, and Matthias was chosen; thus he was added to the eleven apostles.

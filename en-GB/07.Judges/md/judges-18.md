@@ -64,7 +64,7 @@ So they turned aside and went to the house of the young Levite at Micah’s plac
 
 ## Judges 18:16
 
-The six hundred Danites, armed for battle, stood at the entrance of the gate.
+The six hundred Danites, ready for battle, stood at the entrance of the gate.
 
 ## Judges 18:17
 

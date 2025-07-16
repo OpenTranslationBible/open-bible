@@ -61,4 +61,4 @@ Therefore, this is what the Lord says: “If you return, I will restore you, tha
 I will make you to this people a fortified wall of bronze; they will fight against you but will not prevail, for I am with you to save and deliver you,” declares the Lord.
 
 ## Jeremiah 15:21
-“I will rescue you from the hands of the wicked and redeem you from the grasp of the violent.”
+“I will free you from the hands of the wicked and liberate you from the grasp of the violent.”

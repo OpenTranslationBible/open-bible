@@ -10,7 +10,7 @@ The man’s name was Elimelech, his wife was Naomi, and the names of his two son
 
 ## Ruth 1:3
 
-Then Elimelech, Naomi’s husband, died, and she was left with her two sons.
+Elimelech, Naomi’s husband, passed away, leaving her with her two sons.
 
 ## Ruth 1:4
 
@@ -40,7 +40,7 @@ May the Lord grant that each of you will find rest in the home of another husban
 
 ## Ruth 1:10
 
-They said to her, “We will return with you to your people.”
+They responded to her, “We will go back with you to your people.”
 
 ## Ruth 1:11
 
@@ -72,7 +72,7 @@ Where you die, I will die, and there I will be buried. May the Lord deal with me
 
 ## Ruth 1:18
 
-When Naomi realised that Ruth was determined to go with her, she stopped urging her.
+When Naomi saw that Ruth was determined to go with her, she ceased trying to persuade her.
 
 ## Ruth 1:19
 

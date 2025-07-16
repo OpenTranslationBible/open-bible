@@ -24,7 +24,7 @@ And He said to them, “The Son of Man is Lord of the Sabbath.”
 
 ## Luke 6:6
 
-On another Sabbath, He entered the synagogue and was teaching, and there was a man there whose right hand was withered.
+On another Sabbath, He went into the synagogue and was teaching, and there was a man there whose right hand was withered.
 
 ## Luke 6:7
 
@@ -144,7 +144,7 @@ If someone strikes you on one cheek, offer them the other also. If someone takes
 
 ## Luke 6:30
 
-Give to everyone who asks you, and if anyone takes what belongs to you, do not demand it back.
+Give to everyone who asks you, and if anyone takes what belongs to you, do not insist on getting it back.
 
 ## Luke 6:31
 
@@ -154,15 +154,15 @@ Do to others as you would have them do to you.
 
 ## Luke 6:32
 
-If you love those who love you, what credit is that to you? Even sinners love those who love them.
+If you love those who love you, what credit is that to you? Even those who are not righteous love those who love them.
 
 ## Luke 6:33
 
-And if you do good to those who do good to you, what credit is that to you? Even sinners do the same.
+And if you do good to those who do good to you, what credit is that to you? Even those who are not righteous do the same.
 
 ## Luke 6:34
 
-And if you lend to those from whom you expect repayment, what credit is that to you? Even sinners lend to sinners, expecting to be repaid in full.
+And if you lend to those from whom you expect repayment, what credit is that to you? Even those who are not righteous lend to others like themselves, expecting to be repaid in full.
 
 ## Luke 6:35
 
@@ -180,17 +180,17 @@ Be merciful, just as your Father is merciful.
 
 ## Luke 6:38
 
-Give, and it will be given to you. A good measure, pressed down, shaken together, and running over, will be poured into your lap. For with the measure you use, it will be measured to you.”
+Give, and it will be given to you. A generous measure, pressed down, shaken together, and overflowing, will be poured into your lap. For with the measure you use, it will be measured to you.”
 
 ---
 
 ## Luke 6:39
 
-He also told them this parable: “Can the blind lead the blind? Will they not both fall into a pit?
+He also shared this parable with them: “Can the blind lead the blind? Will they not both fall into a pit?
 
 ## Luke 6:40
 
-The student is not above the teacher, but everyone who is fully trained will be like their teacher.
+The student is not above the teacher, but everyone who is fully trained will become like their teacher.
 
 ## Luke 6:41
 
@@ -198,13 +198,13 @@ Why do you look at the speck in your brother’s eye and pay no attention to the
 
 ## Luke 6:42
 
-How can you say to your brother, ‘Brother, let me take the speck out of your eye,’ when you yourself fail to see the plank in your own eye? You hypocrite, first take the plank out of your eye, and then you will see clearly to remove the speck from your brother’s eye.
+How can you say to your brother, ‘Brother, let me take the speck out of your eye,’ when you yourself do not notice the plank in your own eye? You hypocrite, first take the plank out of your eye, and then you will see clearly to remove the speck from your brother’s eye.
 
 ---
 
 ## Luke 6:43
 
-No good tree bears bad fruit, nor does a bad tree bear good fruit.
+A good tree does not produce bad fruit, nor does a bad tree produce good fruit.
 
 ## Luke 6:44
 
