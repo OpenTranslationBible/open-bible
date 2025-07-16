@@ -19,7 +19,7 @@ Then the Levitical priests shall step forward, for the Lord your God has chosen 
 All the elders of the town nearest to the body shall wash their hands over the heifer whose neck was broken in the valley,
 
 ## Deuteronomy 21:7
-and they shall declare: “Our hands did not shed this blood, nor did our eyes see it done.
+and they shall proclaim: “Our hands did not shed this blood, nor did our eyes witness it.
 
 ## Deuteronomy 21:8
 Forgive, Lord, Your people Israel whom You have redeemed, and do not hold the guilt of innocent blood against Your people Israel.” Thus the guilt of bloodshed shall be forgiven them.
@@ -28,7 +28,7 @@ Forgive, Lord, Your people Israel whom You have redeemed, and do not hold the gu
 So you shall remove the guilt of innocent blood from among you, since you have done what is right in the eyes of the Lord.
 
 ## Deuteronomy 21:10
-When you go to war against your enemies and the Lord your God delivers them into your hands and you take captives,
+When you engage in battle against your enemies and the Lord your God gives them into your hands and you take captives,
 
 ## Deuteronomy 21:11
 if you see among the captives a beautiful woman and are attracted to her, you may take her as your wife.
@@ -55,10 +55,10 @@ He must acknowledge the firstborn, the son of the unloved wife, by giving him a 
 If a man has a stubborn and rebellious son who does not obey his father and mother and will not listen to them when they discipline him,
 
 ## Deuteronomy 21:19
-his father and mother shall take hold of him and bring him to the elders at the gate of his town.
+his father and mother shall take him and bring him to the elders at the entrance of his town.
 
 ## Deuteronomy 21:20
-They shall say to the elders, “This son of ours is stubborn and rebellious. He will not obey us. He is a glutton and a drunkard.”
+They shall tell the elders, “This son of ours is stubborn and rebellious. He will not obey us. He is a glutton and a drunkard.”
 
 ## Deuteronomy 21:21
 Then all the men of his town shall stone him to death. You must purge the evil from among you. All Israel will hear of it and be afraid.

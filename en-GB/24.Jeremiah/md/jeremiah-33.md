@@ -37,13 +37,13 @@ the sounds of joy and gladness, the voices of the bride and bridegroom, and the 
 “This is what the Lord Almighty says: ‘In this place, which is desolate and without people or animals, in all its towns there will again be pastures for shepherds to rest their flocks.
 
 ## Jeremiah 33:13
-In the towns of the hill country, of the western foothills, and of the Negev, in the territory of Benjamin, in the villages around Jerusalem and in the towns of Judah, flocks will again pass under the hand of the one who counts them,’ says the Lord.
+In the towns of the hill country, the western foothills, and the Negev, in the territory of Benjamin, in the villages around Jerusalem and in the towns of Judah, flocks will once more pass under the care of the one who counts them,’ says the Lord.
 
 ## Jeremiah 33:14
-‘The days are coming,’ declares the Lord, ‘when I will fulfil the good promise I made to the people of Israel and Judah.
+‘The time is coming,’ declares the Lord, ‘when I will fulfill the good promise I made to the people of Israel and Judah.
 
 ## Jeremiah 33:15
-In those days and at that time I will make a righteous Branch sprout from David’s line; He will do what is just and right in the land.
+During those days and at that time, I will cause a righteous Branch to emerge from David’s line; He will execute justice and righteousness in the land.
 
 ## Jeremiah 33:16
 In those days Judah will be saved and Jerusalem will live in safety. This is the name by which it will be called: The Lord Our Righteousness.’
@@ -55,7 +55,7 @@ For this is what the Lord says: ‘David will never lack a man to sit on the thr
 nor will the Levitical priests ever lack a man to stand before Me to offer burnt offerings, to burn grain offerings, and to present sacrifices continually.’”
 
 ## Jeremiah 33:19
-The word of the Lord came to Jeremiah, saying,
+The message from the Lord came to Jeremiah, saying,
 
 ## Jeremiah 33:20
 “This is what the Lord says: ‘If you can break My covenant with the day and My covenant with the night, so that day and night do not occur at their appointed times,
@@ -64,7 +64,7 @@ The word of the Lord came to Jeremiah, saying,
 then My covenant with David My servant—and My covenant with the Levites who are priests ministering before Me—can be broken, so that David will no longer have a descendant to reign on his throne.
 
 ## Jeremiah 33:22
-I will make the descendants of David My servant and the Levites who minister before Me as countless as the stars in the sky and as measureless as the sand on the seashore.’”
+I will make the descendants of David My servant and the Levites who minister before Me as numerous as the stars in the sky and as immeasurable as the sand on the seashore.’”
 
 ## Jeremiah 33:23
 The word of the Lord came to Jeremiah, saying,

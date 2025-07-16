@@ -40,4 +40,4 @@ But beyond this, my son, be warned: of making many books there is no end, and mu
 Now all has been heard; here is the conclusion of the matter: fear God and keep His commandments, for this is the duty of all people.
 
 ## Ecclesiastes 12:14
-For God will bring every deed into judgment, including every hidden thing, whether it is good or evil.
+For God will evaluate every action, including all that is hidden, whether it is good or bad.

@@ -7,7 +7,7 @@ Listen to me, you islands; pay attention, you distant peoples: The Lord called m
 He made my mouth like a sharp sword, in the shadow of his hand he concealed me; he made me into a polished arrow and hid me in his quiver.
 
 ## Isaiah 49:3
-He said to me, “You are my servant, Israel, in whom I will show my glory.”
+He said to me, “You are my servant, Israel, through whom I will display my glory.”
 
 ## Isaiah 49:4
 But I said, “I have laboured in vain; I have spent my strength for nothing and futility. Yet my vindication is with the Lord, and my reward is with my God.”
@@ -31,7 +31,7 @@ to say to the captives, ‘Come out,’ and to those in darkness, ‘Show yourse
 They will neither hunger nor thirst, nor will the scorching heat or sun beat down on them. He who has compassion on them will guide them and lead them beside springs of water.
 
 ## Isaiah 49:11
-I will turn all my mountains into roads, and my highways will be raised up.
+I will transform all my mountains into roads, and my highways will be elevated.
 
 ## Isaiah 49:12
 See, they will come from afar— some from the north, some from the west, and some from the land of Aswan.”
@@ -40,10 +40,10 @@ See, they will come from afar— some from the north, some from the west, and so
 Shout for joy, you heavens; rejoice, you earth; break forth into singing, you mountains! For the Lord comforts his people and will have compassion on his afflicted ones.
 
 ## Isaiah 49:14
-But Zion said, “The Lord has forsaken me, the Lord has forgotten me.”
+But Zion said, “The Lord has abandoned me, the Lord has forgotten me.”
 
 ## Isaiah 49:15
-“Can a mother forget the baby at her breast and have no compassion on the child she has borne? Though she may forget, I will not forget you!
+“Can a mother forget her nursing child and have no compassion on the child she has borne? Though she may forget, I will not forget you!
 
 ## Isaiah 49:16
 See, I have inscribed you on the palms of my hands; your walls are ever before me.
@@ -52,7 +52,7 @@ See, I have inscribed you on the palms of my hands; your walls are ever before m
 Your children hasten back, and those who laid you waste will depart from you.
 
 ## Isaiah 49:18
-Lift up your eyes and look around; all your children gather and come to you. As surely as I live,” declares the Lord, “you will wear them all as ornaments; you will put them on, like a bride.
+Raise your eyes and look around; all your children gather and come to you. As surely as I live,” declares the Lord, “you will wear them all as ornaments; you will adorn yourself with them, like a bride.
 
 ## Isaiah 49:19
 Though you were ruined and made desolate and your land laid waste, now you will be too cramped for your people, and those who swallowed you will be far away.
@@ -70,10 +70,10 @@ This is what the Sovereign Lord says: “See, I will beckon to the nations, I wi
 Kings will be your foster fathers, and their queens your nursing mothers. They will bow down before you with their faces to the ground; they will lick the dust at your feet. Then you will know that I am the Lord; those who hope in me will not be put to shame.”
 
 ## Isaiah 49:24
-Can plunder be taken from warriors, or captives be rescued from the fierce?
+Can spoils be taken from warriors, or captives be freed from the fierce?
 
 ## Isaiah 49:25
-But this is what the Lord says: “Yes, captives will be taken from warriors, and plunder retrieved from the fierce; I will contend with those who contend with you, and your children I will save.
+But this is what the Lord says: “Yes, captives can be taken from warriors, and plunder retrieved from the fierce; I will contend with those who contend with you, and your children I will save.
 
 ## Isaiah 49:26
 I will make your oppressors eat their own flesh; they will be drunk on their own blood, as with sweet wine. Then all mankind will know that I, the Lord, am your Saviour, your Redeemer, the Mighty One of Jacob.”

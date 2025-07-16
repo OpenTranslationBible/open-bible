@@ -49,7 +49,7 @@ They are worthless, objects of ridicule; at the time of their punishment, they w
 The Portion of Jacob is not like these; for he is the Maker of all things, and Israel is the tribe of his inheritance; the Lord of Hosts is his name.
 
 ## Jeremiah 10:17
-Gather up your belongings from the ground, you who live under siege.
+Collect your possessions, you who dwell under siege.
 
 ## Jeremiah 10:18
 For this is what the Lord says: “Behold, I will sling out the inhabitants of the land at this time, and I will bring distress upon them so that they may be captured.”
@@ -67,10 +67,10 @@ The shepherds are senseless and have not sought the Lord; therefore they do not 
 Listen! A report is coming— a great commotion from the land of the north! It will make the towns of Judah desolate, a haunt of jackals.
 
 ## Jeremiah 10:23
-I know, Lord, that a person’s way is not in himself, nor is it in a person who walks to direct his steps.
+I understand, Lord, that a person's path is not within their own control, nor is it for them to determine their steps.
 
 ## Jeremiah 10:24
-Correct me, Lord, but with justice; not in your anger, or you will reduce me to nothing.
+Discipline me, Lord, but with fairness; not in your anger, or I will be diminished.
 
 ## Jeremiah 10:25
 Pour out your wrath on the nations that do not acknowledge you, and on the families that do not call upon your name; for they have devoured Jacob, they have devoured him completely and laid waste his homeland.

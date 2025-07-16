@@ -66,7 +66,7 @@ Neither has Herod, for he sent him back to us; as you see, he has done nothing d
 
 ## Luke 23:16
 
-Therefore, I will punish him and then release him.”
+Therefore, I will discipline him and then release him.”
 
 ## Luke 23:17
 
@@ -74,7 +74,7 @@ Therefore, I will punish him and then release him.”
 
 ## Luke 23:18
 
-But the whole crowd shouted, “Away with this man! Release Barabbas to us!”
+But the whole crowd shouted, “Remove this man! Release Barabbas to us!”
 
 ## Luke 23:19
 
@@ -82,7 +82,7 @@ But the whole crowd shouted, “Away with this man! Release Barabbas to us!”
 
 ## Luke 23:20
 
-Wanting to release Jesus, Pilate addressed them again.
+Desiring to release Jesus, Pilate addressed them again.
 
 ## Luke 23:21
 
@@ -90,7 +90,7 @@ But they kept shouting, “Crucify him! Crucify him!”
 
 ## Luke 23:22
 
-For the third time he spoke to them: “Why? What crime has this man committed? I find no grounds for a death sentence. Therefore, I will punish him and release him.”
+For the third time he spoke to them: “Why? What crime has this man committed? I find no grounds for a death sentence. Therefore, I will discipline him and release him.”
 
 ## Luke 23:23
 
@@ -102,7 +102,7 @@ So Pilate decided to grant their demand.
 
 ## Luke 23:25
 
-He released the man who had been thrown into prison for insurrection and murder, the one they asked for, and surrendered Jesus to their will.
+He released the man who had been imprisoned for insurrection and murder, the one they asked for, and handed Jesus over to their will.
 
 ---
 
@@ -131,13 +131,13 @@ Then
 
 ## Luke 23:31
 
-For if people do these things when the tree is green, what will happen when it is dry?”
+For if people do these things when the tree is full of life, what will happen when it is withered?”
 
 ---
 
 ## Luke 23:32
 
-Two other men, both criminals, were also led out with him to be executed.
+Two others, both criminals, were also led out with him to face execution.
 
 ## Luke 23:33
 
@@ -223,7 +223,7 @@ who had not consented to their decision and action. He came from the Judean town
 
 ## Luke 23:52
 
-Going to Pilate, he asked for Jesus’ body.
+Approaching Pilate, he requested Jesus’ body.
 
 ## Luke 23:53
 

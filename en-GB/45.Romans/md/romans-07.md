@@ -25,7 +25,7 @@ What shall we say then? Is the law sinful? Certainly not! On the contrary, I wou
 But sin, taking the opportunity afforded by the commandment, produced in me every kind of coveting. For apart from the law, sin is dead.
 
 ## Romans 7:9
-Once I was alive apart from the law; but when the commandment came, sin sprang to life and I died.
+There was a time when I lived without the law; but when the commandment arrived, sin came alive and I died.
 
 ## Romans 7:10
 I found that the commandment, which was intended to bring life, actually brought death.
@@ -34,7 +34,7 @@ I found that the commandment, which was intended to bring life, actually brought
 For sin, taking the opportunity afforded by the commandment, deceived me, and through it, put me to death.
 
 ## Romans 7:12
-So then, the law is holy, and the commandment is holy, righteous, and good.
+Therefore, the law is holy, and the commandment is holy, righteous, and good.
 
 ## Romans 7:13
 Did that which is good, then, become death to me? By no means! Rather, it was sin, in order that it might be recognised as sin by bringing about my death through what is good, so that through the commandment sin might become utterly sinful.
@@ -43,34 +43,34 @@ Did that which is good, then, become death to me? By no means! Rather, it was si
 For we know that the law is spiritual, but I am unspiritual, sold as a slave to sin.
 
 ## Romans 7:15
-I do not understand what I do. For what I want to do, I do not do, but what I hate, I do.
+I am confused by my actions. For I do not do what I want to do, but rather what I detest.
 
 ## Romans 7:16
-And if I do what I do not want to do, I agree that the law is good.
+And if I act against my own desires, I acknowledge that the law is good.
 
 ## Romans 7:17
-As it is, it is no longer I myself who do it, but it is sin living in me.
+As it stands, it is no longer I who act, but the sin residing in me.
 
 ## Romans 7:18
 For I know that good itself does not dwell in me, that is, in my flesh. For I have the desire to do what is good, but I cannot carry it out.
 
 ## Romans 7:19
-For I do not do the good I want to do, but the evil I do not want to do—this I keep on doing.
+For I fail to do the good I wish to do, but instead, I continue doing the evil I do not wish to do.
 
 ## Romans 7:20
-Now if I do what I do not want to do, it is no longer I who do it, but it is sin living in me that does it.
+Now if I do what I do not want to do, it is no longer I who do it, but the sin residing in me that does it.
 
 ## Romans 7:21
 So I find this principle at work: Although I want to do good, evil is right there with me.
 
 ## Romans 7:22
-For in my inner being I delight in God’s law;
+For deep within, I take joy in God’s law;
 
 ## Romans 7:23
 but I see another law at work in me, waging war against the law of my mind and making me a prisoner of the law of sin at work within my body.
 
 ## Romans 7:24
-What a wretched man I am! Who will rescue me from this body that is subject to death?
+What a troubled person I am! Who will rescue me from this body that is subject to death?
 
 ## Romans 7:25
 Thanks be to God, who delivers me through Jesus Christ our Lord! So then, I myself in my mind am a slave to God’s law, but in my flesh a slave to the law of sin.

@@ -49,7 +49,7 @@ You shall speak to him and put the words in his mouth; I will be with both of yo
 He will speak to the people for you, and it will be as if he were your mouth and you were God to him.
 
 ## Exodus 4:17
-But take this staff in your hand so you can perform the signs with it.”
+But carry this staff in your hand to perform the signs.”
 
 ## Exodus 4:18
 Moses then returned to Jethro, his father-in-law, and said, “Please let me go back to my people in Egypt to see if they are still alive.” Jethro replied, “Go in peace.”
@@ -67,7 +67,7 @@ The Lord instructed Moses, “When you return to Egypt, perform before Pharaoh a
 Then you shall say to Pharaoh, ‘This is what the Lord says: Israel is my firstborn son,
 
 ## Exodus 4:23
-and I told you, “Let my son go, so he may worship me.” But you refused to let him go; so I will kill your firstborn son.’”
+and I have said to you, “Release my son, so he may worship me.” But you refused to let him go; therefore, I will take the life of your firstborn son.’”
 
 ## Exodus 4:24
 At a lodging place on the journey, the Lord met Moses and sought to kill him.

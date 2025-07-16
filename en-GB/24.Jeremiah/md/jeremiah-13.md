@@ -60,7 +60,7 @@ I will shatter them against each other, both parents and children alike,” decl
 
 ## Jeremiah 13:15
 
-Hear and give heed, do not be proud, for the Lord has spoken.
+Listen and pay attention, do not be arrogant, for the Lord has spoken.
 
 ## Jeremiah 13:16
 
@@ -92,11 +92,11 @@ And if you ask yourself, “Why has this happened to me?”— it is because of 
 
 ## Jeremiah 13:23
 
-Can an Ethiopian change his skin or a leopard its spots? Neither can you do good who are accustomed to doing evil.
+Is it possible for an Ethiopian to change his skin or a leopard its spots? In the same way, you who are accustomed to doing evil cannot do good.
 
 ## Jeremiah 13:24
 
-“I will scatter you like chaff driven by the desert wind.
+“I will disperse you like chaff blown by the desert wind.
 
 ## Jeremiah 13:25
 

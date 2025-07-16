@@ -46,7 +46,7 @@ But whenever raw flesh appears on them, they shall be unclean.
 When the priest sees the raw flesh, he shall declare them unclean; the raw flesh is unclean, it is leprosy.
 
 ## Leviticus 13:16
-If the raw flesh changes and turns white, they must go to the priest.
+If the raw flesh changes and becomes white, they must present themselves to the priest.
 
 ## Leviticus 13:17
 The priest shall examine them, and if the infected area has turned white, the priest shall pronounce them clean; they are clean.

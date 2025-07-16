@@ -13,7 +13,7 @@ Out of the smoke came locusts upon the earth, and they were given power like tha
 They were instructed not to harm the grass of the earth, nor any green thing, nor any tree, but only those people who did not have the seal of God on their foreheads.
 
 ## Revelation 9:5
-They were not allowed to kill them, but only to torment them for five months. The torment they inflicted was like that of a scorpion when it stings a person.
+They were permitted only to torment them for five months without causing death. The torment they inflicted was similar to a scorpion's sting.
 
 ## Revelation 9:6
 In those days, people will seek death but will not find it; they will long to die, but death will evade them.

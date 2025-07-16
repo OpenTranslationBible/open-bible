@@ -14,7 +14,7 @@ And this is eternal life: that they may know You, the only true God, and Jesus C
 
 ## John 17:4
 
-I have glorified You on the earth by completing the work You gave Me to do.
+I have honored You on the earth by finishing the work You assigned to Me.
 
 ## John 17:5
 
@@ -64,7 +64,7 @@ I have given them Your word, and the world has hated them because they are not o
 
 ## John 17:15
 
-I do not ask that You take them out of the world, but that You keep them from the evil one.
+I do not ask that You remove them from the world, but that You protect them from the evil one.
 
 ## John 17:16
 
@@ -90,15 +90,15 @@ And for their sake I sanctify Myself, so that they too may be truly sanctified.
 
 ## John 17:21
 
-that all of them may be one, Father, just as You are in Me and I am in You. May they also be in Us, so that the world may believe that You have sent Me.
+that all of them may be united, Father, just as You are in Me and I am in You. May they also be in Us, so that the world may believe that You have sent Me.
 
 ## John 17:22
 
-I have given them the glory that You gave Me, that they may be one as We are one—
+I have given them the glory that You gave Me, so that they may be united as We are one—
 
 ## John 17:23
 
-I in them and You in Me—so that they may be brought to complete unity. Then the world will know that You sent Me and have loved them even as You have loved Me.
+I in them and You in Me—so that they may be brought to complete unity. Then the world will know that You sent Me and have loved them just as You have loved Me.
 
 ---
 

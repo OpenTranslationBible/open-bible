@@ -31,7 +31,7 @@ So the servant placed his hand under the thigh of his master Abraham and swore a
 Then the servant took ten of his master’s camels and departed, taking with him a variety of good things from his master. He set out and went to Mesopotamia, to the city of Nahor.
 
 ## Genesis 24:11
-He made the camels kneel down outside the city by the well of water at evening time, the time when women go out to draw water.
+He settled the camels outside the city by the well of water at evening, the time when women typically go out to draw water.
 
 ## Genesis 24:12
 And he prayed, “Lord, God of my master Abraham, please grant me success today, and show kindness to my master Abraham.
@@ -49,7 +49,7 @@ Before he had finished praying, Rebekah came out with her jar on her shoulder. S
 The young woman was very beautiful, a virgin; no man had lain with her. She went down to the spring, filled her jar, and came up.
 
 ## Genesis 24:17
-The servant hurried to meet her and said, “Please give me a little water from your jar.”
+The servant quickly approached her and said, “Please give me a little water from your jar.”
 
 ## Genesis 24:18
 “Drink, my lord,” she said, and quickly lowered her jar to her hands and gave him a drink.
@@ -58,7 +58,7 @@ The servant hurried to meet her and said, “Please give me a little water from 
 After she had given him a drink, she said, “I will draw water for your camels too, until they have finished drinking.”
 
 ## Genesis 24:20
-So she quickly emptied her jar into the trough, ran back to the well to draw more water, and drew enough for all his camels.
+So she swiftly emptied her jar into the trough, ran back to the well to draw more water, and drew enough for all his camels.
 
 ## Genesis 24:21
 The man watched her closely in silence to see whether the Lord had made his journey successful or not.
@@ -67,7 +67,7 @@ The man watched her closely in silence to see whether the Lord had made his jour
 When the camels had finished drinking, the man took out a gold nose ring weighing a half-shekel, and two gold bracelets weighing ten shekels.
 
 ## Genesis 24:23
-Then he asked, “Whose daughter are you? Please tell me, is there room in your father’s house for us to spend the night?”
+Then he inquired, “Whose daughter are you? Please tell me, is there room in your father’s house for us to stay the night?”
 
 ## Genesis 24:24
 She replied, “I am the daughter of Bethuel, the son Milcah bore to Nahor.”
@@ -76,13 +76,13 @@ She replied, “I am the daughter of Bethuel, the son Milcah bore to Nahor.”
 And she added, “We have plenty of straw and feed, as well as room to spend the night.”
 
 ## Genesis 24:26
-Then the man bowed down and worshipped the Lord,
+Then the man knelt down and worshipped the Lord,
 
 ## Genesis 24:27
 saying, “Blessed be the Lord, the God of my master Abraham, who has not abandoned His kindness and faithfulness to my master. As for me, the Lord has led me on the journey to the house of my master’s relatives.”
 
 ## Genesis 24:28
-The young woman ran and told her mother’s household about these things.
+The young woman ran and informed her mother’s household about these things.
 
 ## Genesis 24:29
 Now Rebekah had a brother named Laban, and he ran out to the man at the spring.
@@ -91,7 +91,7 @@ Now Rebekah had a brother named Laban, and he ran out to the man at the spring.
 As soon as he saw the nose ring, and the bracelets on his sister’s arms, and heard Rebekah’s account of what the man said to her, he went out to the man and found him standing by the camels near the spring.
 
 ## Genesis 24:31
-“Come, you who are blessed by the Lord,” he said. “Why are you standing out here? I have prepared the house and a place for the camels.”
+“Come, you who are blessed by the Lord,” he said. “Why are you standing out here? I have arranged the house and a place for the camels.”
 
 ## Genesis 24:32
 So the man went to the house, and the camels were unloaded. Straw and feed were brought for the camels, and water to wash his feet and the feet of the men who were with him.
@@ -145,7 +145,7 @@ I asked her, ‘Whose daughter are you?’ She said, ‘The daughter of Bethuel,
 I bowed down and worshipped the Lord. I praised the Lord, the God of my master Abraham, who had led me on the right path to take the daughter of my master’s brother for his son.
 
 ## Genesis 24:49
-Now if you will show kindness and faithfulness to my master, tell me; and if not, tell me, so I may know which way to turn.”
+Now if you will show kindness and faithfulness to my master, tell me; and if not, let me know, so I may know which way to turn.”
 
 ## Genesis 24:50
 Laban and Bethuel answered, “This matter is from the Lord; we cannot speak to you good or bad.
@@ -187,7 +187,7 @@ Then Rebekah and her attendants got ready and mounted the camels and followed th
 Now Isaac had come from Beer Lahai Roi, for he was dwelling in the Negev.
 
 ## Genesis 24:63
-He went out to the field one evening to meditate, and as he looked up, he saw camels approaching.
+He went out to the field one evening to reflect, and as he looked up, he saw camels approaching.
 
 ## Genesis 24:64
 Rebekah also looked up and saw Isaac. She dismounted from her camel

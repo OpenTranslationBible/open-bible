@@ -84,7 +84,7 @@ See, Lord, how distressed I am! I am in torment within, and my heart is overturn
 
 ## Lamentations 1:21
 
-People have heard my groaning, but there is no one to comfort me. All my enemies have heard of my distress; they rejoice at what You have done. May You bring the day You have announced so they may become like me.
+My groaning is known to all, but there is no one to comfort me. All my enemies are aware of my distress; they rejoice at what You have done. May You bring the day You have announced so they may become like me.
 
 ## Lamentations 1:22
 

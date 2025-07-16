@@ -64,7 +64,7 @@ When Aaron has finished making atonement for the Holy Place, the tent of meeting
 He shall lay both hands on the head of the live goat and confess over it all the wickedness and rebellion of the Israelites—all their sins—and put them on the goat’s head. He shall send the goat away into the wilderness in the care of someone appointed for the task.
 
 ## Leviticus 16:22
-The goat will carry on itself all their sins to a remote place; and the man shall release it in the wilderness.
+The goat will bear upon itself all their sins to a distant place; and the man shall release it in the wilderness.
 
 ## Leviticus 16:23
 Then Aaron shall go into the tent of meeting and take off the linen garments he put on before he entered the Holy Place, and he shall leave them there.
@@ -73,7 +73,7 @@ Then Aaron shall go into the tent of meeting and take off the linen garments he 
 He shall bathe his body with water in a holy place and put on his regular garments. Then he shall come out and offer his burnt offering and the burnt offering of the people, to make atonement for himself and for the people.
 
 ## Leviticus 16:25
-He shall also burn the fat of the sin offering on the altar.
+He shall burn the fat of the sin offering on the altar.
 
 ## Leviticus 16:26
 The man who releases the goat as the scapegoat must wash his clothes and bathe his body with water; afterward, he may come into the camp.

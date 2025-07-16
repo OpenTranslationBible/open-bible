@@ -1,7 +1,7 @@
 # Genesis Chapter 43
 
 ## Genesis 43:1
-Now the famine was still severe in the land.
+The famine continued to be severe in the land.
 
 ## Genesis 43:2
 When they had consumed all the grain they had brought from Egypt, their father said to them, “Return and purchase a little more food for us.”
@@ -10,7 +10,7 @@ When they had consumed all the grain they had brought from Egypt, their father s
 Judah replied to him, “The man sternly warned us, ‘You shall not see my face unless your brother is with you.’
 
 ## Genesis 43:4
-If you send our brother with us, we will go down and buy food for you.
+If you allow our brother to accompany us, we will go down and buy food for you.
 
 ## Genesis 43:5
 But if you do not send him, we will not go down, for the man said to us, ‘You shall not see my face unless your brother is with you.’”
@@ -37,7 +37,7 @@ Then their father Israel said, “If it must be so, then do this: take some of t
 Take double the money with you, and return the money that was placed back in the mouths of your sacks. Perhaps it was an oversight.
 
 ## Genesis 43:13
-Take your brother also, and go back to the man at once.
+Take your brother as well, and return to the man without delay.
 
 ## Genesis 43:14
 And may God Almighty grant you compassion in the sight of the man, so that he will release your other brother and Benjamin to you. As for me, if I am bereaved, I am bereaved.”
@@ -100,4 +100,4 @@ They served him by himself, the brothers by themselves, and the Egyptians who at
 The men were seated before him in the order of their ages, from the firstborn to the youngest, and they looked at one another in astonishment.
 
 ## Genesis 43:34
-When portions were served to them from Joseph’s table, Benjamin’s portion was five times as much as anyone else’s. So they feasted and drank freely with him.
+When portions were served to them from Joseph’s table, Benjamin’s serving was five times larger than anyone else’s. So they feasted and drank freely with him.

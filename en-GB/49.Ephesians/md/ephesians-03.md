@@ -28,7 +28,7 @@ To me, who am less than the least of all the saints, this grace was given: to pr
 and to make plain to everyone the administration of this mystery, which for ages past was hidden in God, who created all things.
 
 ## Ephesians 3:10
-His intent was that now, through the church, the manifold wisdom of God should be made known to the rulers and authorities in the heavenly realms,
+His purpose was that now, through the church, the manifold wisdom of God would be revealed to the rulers and authorities in the heavenly realms,
 
 ## Ephesians 3:11
 in accordance with the eternal purpose that He accomplished in Christ Jesus our Lord.
@@ -46,7 +46,7 @@ For this reason I kneel before the Father,
 from whom every family in heaven and on earth derives its name,
 
 ## Ephesians 3:16
-I pray that out of His glorious riches He may strengthen you with power through His Spirit in your inner being,
+I pray that from His glorious riches He may empower you with strength through His Spirit in your inner being,
 
 ## Ephesians 3:17
 so that Christ may dwell in your hearts through faith; and I pray that you, being rooted and grounded in love,
@@ -55,10 +55,10 @@ so that Christ may dwell in your hearts through faith; and I pray that you, bein
 may have power, together with all the saints, to grasp how wide and long and high and deep is the love of Christ,
 
 ## Ephesians 3:19
-and to know this love that surpasses knowledge—that you may be filled to the measure of all the fullness of God.
+and to know this love that surpasses knowledge—that you may be filled with all the fullness of God.
 
 ## Ephesians 3:20
-Now to Him who is able to do immeasurably more than all we ask or imagine, according to His power that is at work within us,
+Now to Him who is able to accomplish far more than all we ask or imagine, according to His power that is at work within us,
 
 ## Ephesians 3:21
-to Him be glory in the church and in Christ Jesus throughout all generations, for ever and ever! Amen.
+to Him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.

@@ -7,7 +7,7 @@ In the first year of Darius the Mede, I arose to support and protect him.
 Now I will tell you the truth: Three more kings will arise in Persia, and then a fourth, who will be far richer than all of them. As soon as he becomes strong through his wealth, he will stir up the whole empire against the kingdom of Greece.
 
 ## Daniel 11:3
-Then a mighty king will arise, who will rule with great authority and do as he pleases.
+Then a powerful king will emerge, who will govern with significant authority and act according to his own desires.
 
 ## Daniel 11:4
 After he has arisen, his kingdom will be broken and divided towards the four winds of heaven, but not to his descendants, nor with the authority he wielded, because his sovereignty will be uprooted and given to others.
@@ -28,7 +28,7 @@ He will also seize their gods, their metal images, and their precious articles o
 Then the king of the North will invade the realm of the king of the South but will return to his own land.
 
 ## Daniel 11:10
-His sons will prepare for war and assemble a great army, which will sweep on like an irresistible flood and carry the battle as far as his fortress.
+His descendants will prepare for war and gather a great army, which will advance like an unstoppable flood and carry the battle as far as his fortress.
 
 ## Daniel 11:11
 Then the king of the South will march out in a rage and fight against the king of the North, who will raise a large multitude, but it will be handed over to the king of the South.
@@ -58,13 +58,13 @@ Then he will turn his attention to the coastlands and will capture many of them,
 After this, he will turn back towards the fortresses of his own land but will stumble and fall, and will not be found.
 
 ## Daniel 11:20
-His successor will send out a tax collector to maintain the royal splendour. In a few years, however, he will be destroyed, yet not in anger or in battle.
+His successor will send out an official to collect taxes to maintain the royal splendour. In a few years, however, he will be destroyed, yet not in anger or in battle.
 
 ## Daniel 11:21
-He will be succeeded by a despicable person who has not been given the honour of royalty. He will invade the kingdom when its people feel secure, and he will seize it through intrigue.
+He will be succeeded by a contemptible person who has not been given the honour of royalty. He will invade the kingdom when its people feel secure, and he will seize it through intrigue.
 
 ## Daniel 11:22
-Then an overwhelming army will be swept away before him; both it and a prince of the covenant will be destroyed.
+Then an overwhelming force will be swept away before him; both it and a prince of the covenant will be destroyed.
 
 ## Daniel 11:23
 After an alliance is made with him, he will act deceitfully, and with only a few people he will rise to power.
@@ -73,10 +73,10 @@ After an alliance is made with him, he will act deceitfully, and with only a few
 When the richest provinces feel secure, he will invade them and will achieve what neither his fathers nor his ancestors did. He will distribute plunder, spoils, and possessions among his followers. He will plot the overthrow of fortresses—but only for a time.
 
 ## Daniel 11:25
-With a large army he will stir up his strength and courage against the king of the South. The king of the South will wage war with a large and very powerful army, but he will not be able to stand because of the plots devised against him.
+With a large army he will muster his strength and courage against the king of the South. The king of the South will engage in battle with a large and very powerful army, but he will not be able to stand because of the plots devised against him.
 
 ## Daniel 11:26
-Those who eat from the king’s provisions will try to destroy him; his army will be swept away, and many will fall in battle.
+Those who share the king’s provisions will seek to destroy him; his army will be swept away, and many will fall in battle.
 
 ## Daniel 11:27
 The two kings, with their hearts bent on evil, will sit at the same table and lie to each other, but to no avail, because the end will still come at the appointed time.
@@ -85,7 +85,7 @@ The two kings, with their hearts bent on evil, will sit at the same table and li
 The king of the North will return to his own country with great wealth, but his heart will be set against the holy covenant. He will take action against it and then return to his own country.
 
 ## Daniel 11:29
-At the appointed time he will invade the South again, but this time the outcome will be different from what it was before.
+At the appointed time he will invade the South again, but this time the outcome will differ from what it was before.
 
 ## Daniel 11:30
 Ships of the western coastlands will oppose him, and he will lose heart. Then he will turn back and vent his fury against the holy covenant. He will return and show favour to those who forsake the holy covenant.
@@ -106,7 +106,7 @@ When they fall, they will receive a little help, and many who are not sincere wi
 Some of the wise will stumble, so that they may be refined, purified and made spotless until the time of the end, for it will still come at the appointed time.
 
 ## Daniel 11:36
-The king will do as he pleases. He will exalt and magnify himself above every god and will say unheard-of things against the God of gods. He will be successful until the time of wrath is completed, for what has been determined must take place.
+The king will act according to his own desires. He will exalt and magnify himself above every god and will say unheard-of things against the God of gods. He will be successful until the time of wrath is completed, for what has been determined must take place.
 
 ## Daniel 11:37
 He will show no regard for the gods of his ancestors or for the one desired by women, nor will he regard any god, but will exalt himself above them all.

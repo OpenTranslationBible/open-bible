@@ -13,19 +13,19 @@ Among them we all once lived in the passions of our flesh, carrying out the desi
 But God, being rich in mercy, because of His great love with which He loved us,
 
 ## Ephesians 2:5
-even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—
+even when we were spiritually lifeless in our transgressions, brought us to life with Christ—by grace you have been saved—
 
 ## Ephesians 2:6
 and raised us up with Him and seated us with Him in the heavenly realms in Christ Jesus,
 
 ## Ephesians 2:7
-so that in the coming ages He might show the immeasurable riches of His grace in kindness toward us in Christ Jesus.
+so that in the ages to come He might display the immeasurable riches of His grace, expressed in His kindness toward us in Christ Jesus.
 
 ## Ephesians 2:8
 For by grace you have been saved through faith, and this is not your own doing; it is the gift of God—
 
 ## Ephesians 2:9
-not a result of works, so that no one may boast.
+not as a result of works, so that no one can boast.
 
 ## Ephesians 2:10
 For we are His workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them.
@@ -40,13 +40,13 @@ remember that you were at that time separated from Christ, alienated from the co
 But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.
 
 ## Ephesians 2:14
-For He Himself is our peace, who has made us both one and has broken down in His flesh the dividing wall of hostility,
+For He Himself is our peace, who has united us and has removed the barrier of hostility through His sacrifice,
 
 ## Ephesians 2:15
-by abolishing the law of commandments expressed in ordinances, that He might create in Himself one new man in place of the two, so making peace,
+by setting aside the law of commandments contained in regulations, that He might create in Himself one new humanity out of the two, thus establishing peace,
 
 ## Ephesians 2:16
-and might reconcile us both to God in one body through the cross, thereby killing the hostility.
+and might reconcile us both to God in one body through the cross, thereby putting an end to the hostility.
 
 ## Ephesians 2:17
 And He came and preached peace to you who were far off and peace to those who were near.
@@ -55,13 +55,13 @@ And He came and preached peace to you who were far off and peace to those who we
 For through Him we both have access in one Spirit to the Father.
 
 ## Ephesians 2:19
-So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God,
+So then you are no longer foreigners and strangers, but you are fellow citizens with the saints and members of God's household,
 
 ## Ephesians 2:20
-built on the foundation of the apostles and prophets, Christ Jesus Himself being the cornerstone,
+built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone,
 
 ## Ephesians 2:21
-in whom the whole structure, being joined together, grows into a holy temple in the Lord.
+in whom the whole building, being joined together, rises to become a holy temple in the Lord.
 
 ## Ephesians 2:22
-In Him you also are being built together into a dwelling place for God by the Spirit.
+In Him you also are being built together to become a dwelling in which God lives by His Spirit.

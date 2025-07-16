@@ -10,7 +10,7 @@ The Lord spoke to Moses, saying,
 Moses said to the people, “Remember this day, the day you came out of Egypt, out of the house of slavery, for the Lord brought you out with a powerful hand. Do not eat anything containing yeast.
 
 ## Exodus 13:4
-Today, in the month of Abib, you are leaving.
+This day marks your departure in the month of Abib.
 
 ## Exodus 13:5
 When the Lord brings you into the land of the Canaanites, Hittites, Amorites, Hivites, and Jebusites, the land He swore to your ancestors to give you, a land flowing with milk and honey, you shall observe this rite in this month:
@@ -37,7 +37,7 @@ You must keep this ordinance at its appointed time year after year.
 you shall give over to the Lord the first offspring of every womb. All the firstborn males of your livestock belong to the Lord.
 
 ## Exodus 13:13
-Redeem with a lamb every firstborn donkey, but if you do not redeem it, break its neck. Redeem every firstborn among your sons.
+For every firstborn donkey, substitute a lamb, but if you do not substitute it, break its neck. Redeem every firstborn among your sons.
 
 ## Exodus 13:14
 In days to come, when your son asks you, ‘What does this mean?’ say to him, ‘With a powerful hand the Lord brought us out of Egypt, out of the house of slavery.
@@ -61,7 +61,7 @@ Moses took the bones of Joseph with him because Joseph had made the Israelites s
 After leaving Succoth, they camped at Etham on the edge of the wilderness.
 
 ## Exodus 13:21
-By day the Lord went ahead of them in a pillar of cloud to guide them on their way, and by night in a pillar of fire to give them light, so that they could travel by day or night.
+During the day, the Lord went ahead of them in a pillar of cloud to guide them, and by night in a pillar of fire to provide light, enabling them to travel by day or night.
 
 ## Exodus 13:22
 Neither the pillar of cloud by day nor the pillar of fire by night left its place from in front of the people.

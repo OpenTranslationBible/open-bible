@@ -22,7 +22,7 @@ When a plot was formed by both the Gentiles and Jews, along with their leaders, 
 
 ## Acts 14:6
 
-they became aware of it and fled to the cities of Lycaonia, Lystra, and Derbe, and the surrounding region.
+they learned of it and escaped to the cities of Lycaonia, Lystra, and Derbe, and the surrounding region.
 
 ## Acts 14:7
 
@@ -58,7 +58,7 @@ The priest of Zeus, whose temple was just outside the city, brought bulls and ga
 
 ## Acts 14:14
 
-But when the apostles Barnabas and Paul heard of this, they tore their clothes and rushed out into the crowd, shouting,
+Upon hearing this, the apostles Barnabas and Paul tore their clothes and rushed out into the crowd, shouting,
 
 ## Acts 14:15
 
@@ -104,7 +104,7 @@ Paul and Barnabas appointed elders for them in each church, and with prayer and 
 
 ## Acts 14:24
 
-They passed through Pisidia and came into Pamphylia.
+They traveled through Pisidia and came into Pamphylia.
 
 ## Acts 14:25
 
@@ -112,7 +112,7 @@ After proclaiming the word in Perga, they went down to Attalia.
 
 ## Acts 14:26
 
-From there, they sailed back to Antioch, where they had been entrusted to the grace of God for the work they had completed.
+From there, they returned by sea to Antioch, where they had been entrusted to the grace of God for the work they had completed.
 
 ## Acts 14:27
 

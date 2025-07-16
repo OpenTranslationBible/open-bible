@@ -16,7 +16,7 @@ Then the word of the Lord came to him, saying, “This man shall not be your hei
 He took him outside and said, “Look up at the heavens and count the stars, if you are able to count them.” Then he said to him, “So shall your descendants be.”
 
 ## Genesis 15:6
-Abram believed the Lord, and it was credited to him as righteousness.
+Abram trusted in the Lord, and it was accounted to him as righteousness.
 
 ## Genesis 15:7
 And He said to him, “I am the Lord, who brought you out of Ur of the Chaldeans to give you this land to possess.”
@@ -31,7 +31,7 @@ So the Lord said to him, “Bring me a three-year-old heifer, a three-year-old g
 Abram brought all these to Him, cut them in two, and arranged the halves opposite each other; but he did not cut the birds.
 
 ## Genesis 15:11
-Then birds of prey came down upon the carcasses, but Abram drove them away.
+Then birds of prey descended upon the carcasses, but Abram chased them away.
 
 ## Genesis 15:12
 As the sun was setting, Abram fell into a deep sleep, and a dreadful and great darkness came over him.

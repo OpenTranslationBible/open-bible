@@ -34,19 +34,19 @@ But Joshua had commanded the people, saying, “You shall not shout or let your 
 So he had the ark of the Lord carried around the city, circling it once. Then they returned to the camp and spent the night there.
 
 ## Joshua 6:12
-Joshua rose early in the morning, and the priests took up the ark of the Lord.
+Joshua rose early at dawn, and the priests took up the ark of the Lord.
 
 ## Joshua 6:13
 The seven priests carrying the seven trumpets of rams’ horns went on continually before the ark of the Lord, blowing the trumpets, and the armed men went ahead of them, and the rear guard followed the ark of the Lord, while the trumpets kept sounding.
 
 ## Joshua 6:14
-On the second day they marched around the city once and returned to the camp. They did this for six days.
+On the second day, they marched around the city once and went back to the camp. They did this for six days.
 
 ## Joshua 6:15
 On the seventh day, they rose early at dawn and marched around the city in the same manner seven times; only on that day did they march around the city seven times.
 
 ## Joshua 6:16
-At the seventh time, when the priests blew the trumpets, Joshua said to the people, “Shout! For the Lord has given you the city.
+At the seventh time, when the priests blew the trumpets, Joshua said to the people, “Shout! For the Lord has granted you the city.
 
 ## Joshua 6:17
 The city and all that is in it shall be devoted to the Lord; only Rahab the prostitute and all who are with her in her house shall be spared, because she hid the messengers we sent.

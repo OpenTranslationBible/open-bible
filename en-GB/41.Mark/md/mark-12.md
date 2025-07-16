@@ -6,11 +6,11 @@ Jesus began to speak to them in parables: “A man planted a vineyard. He put a 
 
 ## Mark 12:2
 
-At harvest time, he sent a servant to the tenants to collect from them some of the fruit of the vineyard.
+When the time came for the harvest, he sent a servant to the tenants to gather some of the vineyard's fruit from them.
 
 ## Mark 12:3
 
-But they seized him, beat him, and sent him away empty-handed.
+But they seized him, beat him, and sent him away with nothing.
 
 ## Mark 12:4
 
@@ -26,7 +26,7 @@ He had one left to send, a beloved son. He sent him last of all, saying, ‘They
 
 ## Mark 12:7
 
-But the tenants said to one another, ‘This is the heir. Come, let’s kill him, and the inheritance will be ours.’
+But the tenants said to one another, ‘This is the heir. Come, let us kill him, and the inheritance will be ours.’
 
 ## Mark 12:8
 
@@ -38,11 +38,11 @@ What then will the owner of the vineyard do? He will come and put the tenants to
 
 ## Mark 12:10
 
-Have you not read this Scripture: ‘The stone the builders rejected has become the cornerstone;
+Have you not read this Scripture: ‘The stone that the builders rejected has become the cornerstone;
 
 ## Mark 12:11
 
-the Lord has done this, and it is marvellous in our eyes’?”
+the Lord has done this, and it is wonderful in our eyes’?”
 
 ## Mark 12:12
 
@@ -52,7 +52,7 @@ Then the chief priests, the teachers of the law, and the elders looked for a way
 
 ## Mark 12:13
 
-Later they sent some of the Pharisees and Herodians to Jesus to catch him in his words.
+Later they sent some of the Pharisees and Herodians to Jesus to try to trap him in his words.
 
 ## Mark 12:14
 
@@ -68,7 +68,7 @@ They brought the coin, and he asked them, “Whose image is this? And whose insc
 
 ## Mark 12:17
 
-Then Jesus said to them, “Give back to Caesar what is Caesar’s and to God what is God’s.” And they were amazed at him.
+Then Jesus said to them, “Give back to Caesar what belongs to Caesar and to God what belongs to God.” And they were amazed at him.
 
 ---
 
@@ -90,7 +90,7 @@ The second one married the widow, but he also died, leaving no child. The same h
 
 ## Mark 12:22
 
-In fact, none of the seven left any children. Last of all, the woman died too.
+Indeed, none of the seven left any children. Last of all, the woman died too.
 
 ## Mark 12:23
 
@@ -116,7 +116,7 @@ He is not the God of the dead, but of the living. You are greatly mistaken!”
 
 ## Mark 12:28
 
-One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a good answer, he asked him, “Of all the commandments, which is the most important?”
+One of the teachers of the law came and heard them debating. Noticing that Jesus had given them a wise answer, he asked him, “Of all the commandments, which is the most important?”
 
 ## Mark 12:29
 
@@ -167,11 +167,11 @@ As he taught, Jesus said, “Watch out for the teachers of the law. They like to
 
 ## Mark 12:39
 
-and have the most important seats in the synagogues and the places of honour at banquets.
+and have the best seats in the synagogues and the places of honour at banquets.
 
 ## Mark 12:40
 
-They devour widows’ houses and for a show make lengthy prayers. These men will be punished most severely.”
+They consume widows’ houses and for a show make lengthy prayers. These men will be punished most severely.”
 
 ## Mark 12:41
 

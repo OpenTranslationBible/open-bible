@@ -22,7 +22,7 @@ Gaining wealth through a lying tongue is a fleeting vapour and a deadly trap.
 The violence of the wicked will carry them away, because they refuse to act justly.
 
 ## Proverbs 21:8
-The way of the guilty is crooked, but the conduct of the pure is upright.
+The path of the guilty is twisted, but the actions of the pure are straightforward.
 
 ## Proverbs 21:9
 Better to live on the corner of a roof than to share a house with a contentious woman.
@@ -61,7 +61,7 @@ Better to live in a desert than with a contentious and irritable woman.
 The wise store up precious treasure and oil, but the foolish consume it all.
 
 ## Proverbs 21:21
-Whoever pursues righteousness and love finds life, prosperity, and honour.
+Whoever seeks righteousness and love discovers life, prosperity, and honour.
 
 ## Proverbs 21:22
 A wise person can scale the city of the mighty and bring down the stronghold in which they trust.

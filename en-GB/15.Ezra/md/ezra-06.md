@@ -42,7 +42,7 @@ Whatever is needed—bulls, rams, and lambs for burnt offerings to the God of he
 
 ## Ezra 6:10
 
-so that they may offer sacrifices pleasing to the God of heaven and pray for the well-being of the king and his sons.
+so that they may offer sacrifices to the God of heaven and seek the well-being of the king and his sons.
 
 ## Ezra 6:11
 
@@ -78,7 +78,7 @@ They appointed the priests in their divisions and the Levites in their groups fo
 
 ## Ezra 6:19
 
-On the fourteenth day of the first month, the exiles celebrated the Passover.
+On the fourteenth day of the first month, the exiles observed the Passover.
 
 ## Ezra 6:20
 

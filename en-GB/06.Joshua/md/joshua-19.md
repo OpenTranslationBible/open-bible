@@ -6,7 +6,7 @@ The second lot fell to the tribe of Simeon according to their families; their in
 
 ## Joshua 19:2
 
-Their inheritance included Beersheba (or Sheba), Moladah,
+Their portion comprised Beersheba (or Sheba), Moladah,
 
 ## Joshua 19:3
 
@@ -186,11 +186,11 @@ Jehud, Bene Berak, and Gath Rimmon,
 
 ## Joshua 19:46
 
-Me Jarkon, and Rakkon, with the area facing Joppa.
+Me Jarkon and Rakkon, along with the region facing Joppa.
 
 ## Joshua 19:47
 
-When the territory of the Danites was lost to them, they went up and attacked Leshem, took it, put it to the sword, and occupied it. They settled in Leshem and named it Dan after their ancestor.
+After the Danites lost their territory, they went up and attacked Leshem, captured it, and settled there, renaming it Dan after their ancestor.
 
 ## Joshua 19:48
 
@@ -198,7 +198,7 @@ These towns and their villages were the inheritance of the tribe of Dan accordin
 
 ## Joshua 19:49
 
-When they had finished dividing the land into its allotted portions, the Israelites gave Joshua son of Nun an inheritance among them,
+Once the land had been divided into its portions, the Israelites granted Joshua son of Nun an inheritance among them,
 
 ## Joshua 19:50
 

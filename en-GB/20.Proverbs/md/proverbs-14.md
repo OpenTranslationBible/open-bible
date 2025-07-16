@@ -31,13 +31,13 @@ Fools make light of making amends for sin, but goodwill is found among the uprig
 The heart knows its own bitterness, and no stranger shares its joy.
 
 ## Proverbs 14:11
-The house of the wicked will be destroyed, but the tent of the upright will thrive.
+The dwelling of the wicked will be brought down, but the abode of the upright will flourish.
 
 ## Proverbs 14:12
 There is a way that seems right to a person, but in the end, it leads to death.
 
 ## Proverbs 14:13
-Even in laughter, the heart may ache, and the end of joy may be grief.
+Even when laughing, the heart may be in pain, and the conclusion of joy may be sorrow.
 
 ## Proverbs 14:14
 The faithless will be filled with their own ways, but a good person will be satisfied with theirs.
@@ -46,7 +46,7 @@ The faithless will be filled with their own ways, but a good person will be sati
 The simple believe anything, but the prudent consider their steps.
 
 ## Proverbs 14:16
-A wise person is cautious and turns away from evil, but a fool is arrogant and careless.
+A wise person is careful and avoids evil, but a fool is reckless and overconfident.
 
 ## Proverbs 14:17
 A quick-tempered person acts foolishly, and one who devises evil schemes is despised.
@@ -67,7 +67,7 @@ It is a sin to despise one's neighbour, but blessed is the one who is kind to th
 Do not those who plot evil go astray? But kindness and truth come to those who plan what is good.
 
 ## Proverbs 14:23
-In all hard work there is profit, but mere talk leads only to poverty.
+In all diligent work there is profit, but idle talk leads only to poverty.
 
 ## Proverbs 14:24
 The wealth of the wise is their crown, but the folly of fools is simply folly.
@@ -82,7 +82,7 @@ In the fear of the Lord there is strong confidence, and for their children it wi
 The fear of the Lord is a fountain of life, turning one away from the snares of death.
 
 ## Proverbs 14:28
-A large population is a king's glory, but without subjects a prince is ruined.
+A multitude of people is a king's honor, but without followers a prince is undone.
 
 ## Proverbs 14:29
 Whoever is slow to anger has great understanding, but one who is quick-tempered displays folly.

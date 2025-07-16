@@ -16,7 +16,7 @@ The scribes and the Pharisees brought a woman caught in adultery and placed her 
 
 ## John 8:4
 
-They said to Him, “Teacher, this woman was caught in the very act of adultery.
+They addressed Him, “Teacher, this woman was caught in the act of adultery.
 
 ## John 8:5
 
@@ -70,7 +70,7 @@ But even if I do judge, My judgement is true, because I am not alone; I stand wi
 
 ## John 8:17
 
-In your own Law, it is written that the testimony of two witnesses is true.
+In your Law, it is written that the testimony of two witnesses is true.
 
 ## John 8:18
 
@@ -82,13 +82,13 @@ Then they asked Him, “Where is Your Father?” Jesus replied, “You do not kn
 
 ## John 8:20
 
-He spoke these words while teaching in the temple courts near the place where the offerings were put. Yet no one seized Him, because His hour had not yet come.
+He spoke these words while teaching in the temple courts near the place where the offerings were put. Yet no one seized Him, because His time had not yet come.
 
 ---
 
 ## John 8:21
 
-Once more Jesus said to them, “I am going away, and you will look for Me, and you will die in your sin. Where I go, you cannot come.”
+Again Jesus said to them, “I am going away, and you will look for Me, and you will die in your sin. Where I go, you cannot come.”
 
 ## John 8:22
 
@@ -112,7 +112,7 @@ I told you that you would die in your sins; for unless you believe that I am He,
 
 ## John 8:27
 
-They did not understand that He was telling them about His Father.
+They did not understand that He was speaking to them about His Father.
 
 ## John 8:28
 
@@ -124,7 +124,7 @@ The one who sent Me is with Me; He has not left Me alone, for I always do what p
 
 ## John 8:30
 
-Even as He spoke, many believed in Him.
+As He spoke, many came to believe in Him.
 
 ---
 
@@ -138,7 +138,7 @@ Then you will know the truth, and the truth will set you free.”
 
 ## John 8:33
 
-They answered Him, “We are Abraham’s descendants and have never been slaves of anyone. How can you say that we shall be set free?”
+They responded, “We are Abraham’s descendants and have never been slaves of anyone. How can you say that we shall be set free?”
 
 ## John 8:34
 

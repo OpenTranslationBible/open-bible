@@ -18,7 +18,7 @@ Carry no purse, no bag, no sandals, and do not greet anyone along the road.
 
 ## Luke 10:5
 
-When you enter a house, first say, ‘Peace be to this house.’
+When you enter a house, begin by saying, ‘Peace be upon this house.’
 
 ## Luke 10:6
 
@@ -38,7 +38,7 @@ Heal the sick there and tell them, ‘The kingdom of God has come near to you.�
 
 ## Luke 10:10
 
-But when you enter a town and are not welcomed, go into its streets and say,
+However, if you enter a town and are not welcomed, go into its streets and declare,
 
 ## Luke 10:11
 
@@ -52,7 +52,7 @@ I tell you, it will be more tolerable on that day for Sodom than for that town.
 
 ## Luke 10:13
 
-“Woe to you, Chorazin! Woe to you, Bethsaida! For if the miracles that were performed in you had been performed in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
+“Alas for you, Chorazin! Alas for you, Bethsaida! For if the miracles done in you had been done in Tyre and Sidon, they would have repented long ago, sitting in sackcloth and ashes.
 
 ## Luke 10:14
 
@@ -70,7 +70,7 @@ And you, Capernaum, will you be lifted to the heavens? No, you will be brought d
 
 ## Luke 10:17
 
-The seventy-two returned with joy, saying, “Lord, even the demons submit to us in your name.”
+The seventy-two returned with joy, saying, “Lord, even the demons obey us in your name.”
 
 ## Luke 10:18
 
@@ -78,7 +78,7 @@ He said to them, “I saw Satan fall like lightning from heaven.
 
 ## Luke 10:19
 
-I have given you authority to trample on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.
+I have given you authority to tread on snakes and scorpions and to overcome all the power of the enemy; nothing will harm you.
 
 ## Luke 10:20
 
@@ -96,21 +96,21 @@ At that time, Jesus, full of joy through the Holy Spirit, said, “I praise you,
 
 ## Luke 10:23
 
-Then he turned to his disciples and said privately, “Blessed are the eyes that see what you see.
+Then he turned to his disciples and said privately, “Blessed are the eyes that witness what you see.
 
 ## Luke 10:24
 
-For I tell you that many prophets and kings wanted to see what you see but did not see it, and to hear what you hear but did not hear it.”
+For I tell you that many prophets and kings longed to see what you see but did not see it, and to hear what you hear but did not hear it.”
 
 ---
 
 ## Luke 10:25
 
-On one occasion, an expert in the law stood up to test Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”
+On one occasion, an expert in the law stood up to challenge Jesus. “Teacher,” he asked, “what must I do to inherit eternal life?”
 
 ## Luke 10:26
 
-“What is written in the Law?” he replied. “How do you read it?”
+“What is written in the Law?” he replied. “How do you interpret it?”
 
 ## Luke 10:27
 
@@ -128,7 +128,7 @@ But he wanted to justify himself, so he asked Jesus, “And who is my neighbour?
 
 ## Luke 10:30
 
-In reply, Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.
+In response, Jesus said: “A man was going down from Jerusalem to Jericho, when he was attacked by robbers. They stripped him of his clothes, beat him and went away, leaving him half dead.
 
 ## Luke 10:31
 
@@ -136,11 +136,11 @@ By chance, a priest was going down that road, and when he saw the man, he passed
 
 ## Luke 10:32
 
-So too, a Levite, when he came to the place and saw him, passed by on the other side.
+Similarly, a Levite, when he came to the place and saw him, passed by on the other side.
 
 ## Luke 10:33
 
-But a Samaritan, as he travelled, came where the man was; and when he saw him, he took pity on him.
+But a Samaritan, as he traveled, came where the man was; and when he saw him, he felt compassion for him.
 
 ## Luke 10:34
 
@@ -148,7 +148,7 @@ He went to him and bandaged his wounds, pouring on oil and wine. Then he put the
 
 ## Luke 10:35
 
-The next day he took out two denarii and gave them to the innkeeper. ‘Look after him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
+The next day he took out two denarii and gave them to the innkeeper. ‘Take care of him,’ he said, ‘and when I return, I will reimburse you for any extra expense you may have.’
 
 ## Luke 10:36
 
@@ -162,7 +162,7 @@ The expert in the law replied, “The one who showed mercy on him.” Jesus told
 
 ## Luke 10:38
 
-As Jesus and his disciples were on their way, he came to a village where a woman named Martha opened her home to him.
+As Jesus and his disciples were on their way, he came to a village where a woman named Martha welcomed him into her home.
 
 ## Luke 10:39
 

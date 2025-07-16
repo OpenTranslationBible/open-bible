@@ -28,11 +28,11 @@ You hypocrite, first remove the plank from your own eye, and then you will see c
 
 ## Matthew 7:7
 
-“Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you.
+“Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
 
 ## Matthew 7:8
 
-For everyone who asks receives; the one who seeks finds; and to the one who knocks, it shall be opened.
+For everyone who asks receives; the one who seeks finds; and to the one who knocks, it will be opened.
 
 ## Matthew 7:9
 
@@ -44,7 +44,7 @@ Or if he asks for a fish, would give him a snake?
 
 ## Matthew 7:11
 
-If you, then, being evil, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
+If you, then, though flawed, know how to give good gifts to your children, how much more will your Father in heaven give good things to those who ask Him!
 
 ---
 
@@ -64,7 +64,7 @@ But small is the gate and narrow the path that leads to life, and only a few fin
 
 ## Matthew 7:15
 
-“Beware of false prophets, who come to you in sheep’s clothing, but inwardly they are ravenous wolves.
+“Be cautious of false prophets, who come to you in sheep’s clothing, but are inwardly ravenous wolves.
 
 ## Matthew 7:16
 
@@ -72,7 +72,7 @@ By their fruits you will recognise them. Do people gather grapes from thorn bush
 
 ## Matthew 7:17
 
-In the same way, every good tree bears good fruit, but a bad tree bears bad fruit.
+Similarly, a good tree produces good fruit, but a bad tree produces bad fruit.
 
 ## Matthew 7:18
 
@@ -90,11 +90,11 @@ Thus, by their fruits you will recognise them.
 
 ## Matthew 7:21
 
-“Not everyone who says to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only the one who does the will of my Father who is in heaven.
+“Not everyone who calls out to me, ‘Lord, Lord,’ will enter the kingdom of heaven, but only those who do the will of my Father who is in heaven.
 
 ## Matthew 7:22
 
-Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name, and in your name cast out demons, and in your name perform many miracles?’
+Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name, and in your name drive out demons, and in your name perform many miracles?’
 
 ## Matthew 7:23
 

@@ -52,7 +52,7 @@ The Lord called you a thriving olive tree, beautiful in fruit and form. But with
 The Lord of hosts, who planted you, has decreed disaster for you, because the house of Israel and the house of Judah have done evil and provoked me by burning incense to Baal.
 
 ## Jeremiah 11:18
-Because the Lord revealed their plot to me, I knew it, for at that time he showed me what they were doing.
+Because the Lord made their plot known to me, I understood it, for at that time he showed me what they were doing.
 
 ## Jeremiah 11:19
 I was like a gentle lamb led to the slaughter; I did not realise that they had plotted against me, saying, “Let us destroy the tree with its fruit; let us cut him off from the land of the living, that his name be remembered no more.”
@@ -67,4 +67,4 @@ Therefore this is what the Lord says concerning the people of Anathoth who are s
 therefore, this is what the Lord of hosts says: “I will punish them. Their young men will die by the sword, their sons and daughters by famine.
 
 ## Jeremiah 11:23
-Not even a remnant will be left to them, because I will bring disaster on the people of Anathoth in the year of their punishment.”
+A remnant will not remain for them, because I will bring disaster on the people of Anathoth in the year of their punishment.”

@@ -2,7 +2,7 @@
 
 ## Ezekiel 28:1
 
-The word of the Lord came to me, saying,
+A message from the Lord came to me,
 
 ## Ezekiel 28:2
 
@@ -67,7 +67,7 @@ I have spoken, declares the Sovereign Lord.’”
 
 ## Ezekiel 28:11
 
-Again the word of the Lord came to me, saying,
+Once more, a message from the Lord came to me,
 
 ## Ezekiel 28:12
 
@@ -136,7 +136,7 @@ Again the word of the Lord came to me, saying,
 
 ## Ezekiel 28:20
 
-And the word of the Lord came to me, saying,
+A message from the Lord came to me,
 
 ## Ezekiel 28:21
 

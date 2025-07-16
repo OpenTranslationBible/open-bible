@@ -80,4 +80,4 @@ After this, Job lived for 140 years; he saw his children and their children to t
 
 ## Job 42:17
 
-And so Job died, an old man and full of years.
+Thus, Job passed away, having lived a long and full life.

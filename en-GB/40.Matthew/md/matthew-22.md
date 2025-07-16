@@ -30,7 +30,7 @@ The king was furious. He sent his army and destroyed those murderers and burned 
 
 ## Matthew 22:8
 
-Then he said to his servants, ‘The wedding feast is ready, but those invited were not worthy.
+Then he informed his servants, ‘The wedding feast is prepared, but those who were invited did not deserve it.
 
 ## Matthew 22:9
 
@@ -44,7 +44,7 @@ So the servants went out into the streets and gathered all they found, both bad 
 
 ## Matthew 22:11
 
-But when the king came in to see the guests, he noticed a man there who was not wearing wedding clothes.
+However, when the king entered to see the guests, he observed a man there who was not dressed in wedding attire.
 
 ## Matthew 22:12
 
@@ -78,7 +78,7 @@ But Jesus, aware of their malice, said, “Why are you testing me, you hypocrite
 
 ## Matthew 22:19
 
-Show me the coin used for the tax.” They brought him a denarius,
+Present to me the coin used for the tax.” They brought him a denarius,
 
 ## Matthew 22:20
 
@@ -96,7 +96,7 @@ When they heard this, they were amazed, and they left him and went away.
 
 ## Matthew 22:23
 
-That same day the Sadducees, who say there is no resurrection, came to him with a question.
+On that same day, the Sadducees, who deny the resurrection, approached him with a question.
 
 ## Matthew 22:24
 
@@ -142,11 +142,11 @@ When the crowds heard this, they were astonished at his teaching.
 
 ## Matthew 22:34
 
-When the Pharisees heard that Jesus had silenced the Sadducees, they gathered together.
+When the Pharisees learned that Jesus had silenced the Sadducees, they gathered together.
 
 ## Matthew 22:35
 
-One of them, an expert in the law, tested him with this question:
+One of them, a scholar of the law, tested him with this question:
 
 ## Matthew 22:36
 
@@ -166,7 +166,7 @@ And the second is like it: ‘You shall love your neighbour as yourself.’
 
 ## Matthew 22:40
 
-All the Law and the Prophets hang on these two commandments.”
+These two commandments are the foundation of all the Law and the Prophets.”
 
 ---
 
@@ -180,7 +180,7 @@ While the Pharisees were gathered together, Jesus asked them,
 
 ## Matthew 22:43
 
-He said to them, “How is it then that David, speaking by the Spirit, calls him ‘Lord’? For he says,
+He said to them, “Then how is it that David, inspired by the Spirit, calls him ‘Lord’? For he says,
 
 ## Matthew 22:44
 
@@ -191,8 +191,8 @@ He said to them, “How is it then that David, speaking by the Spirit, calls him
 
 ## Matthew 22:45
 
-If then David calls him ‘Lord,’ how can he be his son?”
+If David calls him ‘Lord,’ in what way can he be his son?”
 
 ## Matthew 22:46
 
-No one could say a word in reply, and from that day on no one dared to ask him any more questions.
+No one could respond with a word, and from that day on no one dared to question him further.

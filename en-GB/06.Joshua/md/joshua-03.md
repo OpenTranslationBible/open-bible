@@ -25,7 +25,7 @@ The Lord said to Joshua, “This day I will begin to exalt you in the sight of a
 You shall command the priests who carry the ark of the covenant, saying, ‘When you reach the edge of the waters of the Jordan, you shall stand still in the Jordan.’”
 
 ## Joshua 3:9
-Joshua said to the Israelites, “Come here and listen to the words of the Lord your God.”
+Joshua addressed the Israelites, “Gather around and hear the words of the Lord your God.”
 
 ## Joshua 3:10
 And Joshua said, “By this you shall know that the living God is among you, and that He will surely drive out before you the Canaanites, Hittites, Hivites, Perizzites, Girgashites, Amorites, and Jebusites.

@@ -24,7 +24,7 @@ The Jews struck down all their enemies with the sword, killing and destroying th
 
 ## Esther 9:6
 
-In the citadel of Susa, the Jews killed and destroyed five hundred men.
+Within the fortress of Susa, the Jews killed and destroyed five hundred men.
 
 ## Esther 9:7
 
@@ -40,7 +40,7 @@ Parmashta, Arisai, Aridai, and Vaizatha,
 
 ## Esther 9:10
 
-the ten sons of Haman, son of Hammedatha, the enemy of the Jews. But they did not lay their hands on the plunder.
+the ten sons of Haman, son of Hammedatha, who was an adversary of the Jews. However, they did not take any plunder.
 
 ---
 
@@ -132,7 +132,7 @@ And Mordecai sent letters to all the Jews in the 127 provinces of the kingdom of
 
 ## Esther 9:31
 
-to establish these days of Purim at their designated times, as Mordecai the Jew and Queen Esther had decreed for them, and as they had established for themselves and their descendants in regard to their times of fasting and lamentation.
+to establish these days of Purim at their designated times, as Mordecai the Jew and Queen Esther had decreed for them, and as they had set for themselves and their descendants regarding their times of fasting and lamentation.
 
 ## Esther 9:32
 

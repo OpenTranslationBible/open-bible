@@ -7,7 +7,7 @@ Joseph instructed the steward of his house, “Fill the men’s sacks with as mu
 Also, put my silver cup in the top of the youngest one’s sack, along with his money for the grain.” And the steward did as Joseph commanded.
 
 ## Genesis 44:3
-At dawn, the men were sent on their way with their donkeys.
+As morning broke, the men set off with their donkeys.
 
 ## Genesis 44:4
 They had just left the city and were not far off when Joseph said to his steward, “Go after those men immediately, and when you catch up with them, ask, ‘Why have you repaid good with evil?

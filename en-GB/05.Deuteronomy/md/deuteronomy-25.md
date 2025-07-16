@@ -10,7 +10,7 @@ If the guilty person is deserving of a beating, the judge shall make him lie dow
 The judge must not impose more than forty lashes, so that your fellow Israelite does not become contemptible in your eyes by being beaten excessively.
 
 ## Deuteronomy 25:4
-Do not muzzle an ox while it is treading out the grain.
+Do not prevent an ox from eating while it is working to thresh the grain.
 
 ## Deuteronomy 25:5
 If brothers are living together and one of them dies without a son, the widow must not marry outside the family. Her deceased husband’s brother shall marry her and perform the duty of a brother-in-law to her.
@@ -34,7 +34,7 @@ His family shall be known in Israel as The House of the Unsandaled.
 If two men are fighting and the wife of one intervenes to rescue her husband from his assailant, and she reaches out and seizes him by his private parts,
 
 ## Deuteronomy 25:12
-you shall cut off her hand. Show her no pity.
+you shall take appropriate action. Show no leniency.
 
 ## Deuteronomy 25:13
 Do not have differing weights in your bag—one heavy, one light.

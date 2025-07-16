@@ -10,7 +10,7 @@ Five of them were foolish, and five were wise.
 
 ## Matthew 25:3
 
-The foolish ones took their lamps but did not take any extra oil with them.
+The foolish ones took their lamps but did not bring any additional oil with them.
 
 ## Matthew 25:4
 
@@ -26,11 +26,11 @@ At midnight there was a shout: ‘Here is the bridegroom! Come out to meet him!�
 
 ## Matthew 25:7
 
-Then all the virgins got up and trimmed their lamps.
+Then all the virgins rose and prepared their lamps.
 
 ## Matthew 25:8
 
-The foolish ones said to the wise, ‘Give us some of your oil, for our lamps are going out.’
+The foolish ones said to the wise, ‘Share some of your oil with us, for our lamps are going out.’
 
 ## Matthew 25:9
 
@@ -46,11 +46,11 @@ Later, the other virgins also came, saying, ‘Lord, Lord, open the door for us.
 
 ## Matthew 25:12
 
-But he replied, ‘Truly I say to you, I do not know you.’
+But he replied, ‘Truly, I tell you, I do not recognize you.’
 
 ## Matthew 25:13
 
-Therefore, keep watch, because you do not know the day or the hour.
+Therefore, stay alert, because you do not know the day or the hour.
 
 ---
 
@@ -116,21 +116,21 @@ Therefore, take the talent from him and give it to the one who has ten talents.
 
 ## Matthew 25:29
 
-For whoever has will be given more, and they will have an abundance. Whoever does not have, even what they have will be taken from them.
+For whoever possesses will be given more, and they will have an abundance. Whoever does not possess, even what they have will be taken from them.
 
 ## Matthew 25:30
 
-And throw that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
+And cast that worthless servant outside, into the darkness, where there will be weeping and gnashing of teeth.’
 
 ---
 
 ## Matthew 25:31
 
-When the Son of Man comes in his glory, and all the angels with him, he will sit on his glorious throne.
+When the Son of Man arrives in his glory, and all the angels with him, he will sit on his majestic throne.
 
 ## Matthew 25:32
 
-All the nations will be gathered before him, and he will separate the people one from another as a shepherd separates the sheep from the goats.
+All the nations will be gathered before him, and he will separate the people one from another as a shepherd divides the sheep from the goats.
 
 ## Matthew 25:33
 
@@ -146,7 +146,7 @@ For I was hungry and you gave me something to eat, I was thirsty and you gave me
 
 ## Matthew 25:36
 
-I needed clothes and you clothed me, I was sick and you looked after me, I was in prison and you came to visit me.’
+I needed clothes and you provided for me, I was sick and you cared for me, I was in prison and you visited me.’
 
 ## Matthew 25:37
 
@@ -154,11 +154,11 @@ Then the righteous will answer him, ‘Lord, when did we see you hungry and feed
 
 ## Matthew 25:38
 
-When did we see you a stranger and invite you in, or needing clothes and clothe you?
+When did we see you a stranger and invite you in, or lacking clothes and provide for you?
 
 ## Matthew 25:39
 
-When did we see you sick or in prison and go to visit you?’
+When did we see you sick or in prison and visit you?’
 
 ## Matthew 25:40
 
@@ -174,11 +174,11 @@ For I was hungry and you gave me nothing to eat, I was thirsty and you gave me n
 
 ## Matthew 25:43
 
-I was a stranger and you did not invite me in, I needed clothes and you did not clothe me, I was sick and in prison and you did not look after me.’
+I was a stranger and you did not invite me in, I needed clothes and you did not provide for me, I was sick and in prison and you did not care for me.’
 
 ## Matthew 25:44
 
-They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or needing clothes or sick or in prison, and did not help you?’
+They also will answer, ‘Lord, when did we see you hungry or thirsty or a stranger or lacking clothes or sick or in prison, and did not help you?’
 
 ## Matthew 25:45
 

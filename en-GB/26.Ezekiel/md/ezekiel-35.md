@@ -1,7 +1,7 @@
 # Ezekiel Chapter 35
 
 ## Ezekiel 35:1
-The word of the Lord came to me, saying:
+The message from the Lord was given to me:
 
 ## Ezekiel 35:2
 “Son of man, set your face against Mount Seir and prophesy against it,

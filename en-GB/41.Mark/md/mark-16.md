@@ -26,7 +26,7 @@ He said to them, “Do not be astonished. You seek Jesus the Nazarene, who was c
 
 ## Mark 16:7
 
-But go, tell His disciples and Peter, ‘He is going ahead of you to Galilee; there you will see Him, just as He told you.’”
+But go, tell His disciples and Peter, ‘He is going ahead of you to Galilee; there you will meet Him, just as He told you.’”
 
 ## Mark 16:8
 
@@ -46,7 +46,7 @@ She went and informed those who had been with Him, while they were mourning and 
 
 ## Mark 16:11
 
-When they heard that He was alive and had been seen by her, they did not believe it.
+When they heard that He was alive and had been seen by her, they did not accept it as true.
 
 ---
 
@@ -70,7 +70,7 @@ And He said to them, “Go into all the world and proclaim the gospel to all cre
 
 ## Mark 16:16
 
-Whoever believes and is baptised will be saved, but whoever does not believe will be condemned.
+Those who believe and are baptised will be saved, but those who do not believe will face judgment.
 
 ## Mark 16:17
 

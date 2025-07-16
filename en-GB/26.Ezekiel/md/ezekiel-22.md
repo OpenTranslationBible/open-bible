@@ -1,7 +1,7 @@
 # Ezekiel Chapter 22
 
 ## Ezekiel 22:1
-The word of the Lord came to me, saying,
+The message from the Lord came to me, saying,
 
 ## Ezekiel 22:2
 “Son of man, will you judge, will you judge the city of bloodshed? Then inform her of all her abominations.
@@ -16,7 +16,7 @@ You have become guilty by the blood you have shed and defiled by the idols you h
 Those who are near and those who are far off will mock you, you city of ill repute, full of turmoil.
 
 ## Ezekiel 22:6
-“See how each of the princes of Israel who are in you uses his power to shed blood.
+“Observe how each of the princes of Israel within you uses his power to shed blood.
 
 ## Ezekiel 22:7
 In you they have treated father and mother with contempt; they have oppressed the foreigner, and mistreated the fatherless and the widow.
@@ -34,7 +34,7 @@ In you are those who uncover their father's nakedness; in you are those who viol
 In you one man commits abomination with his neighbour’s wife, another shamefully defiles his daughter-in-law, and another violates his sister, his own father’s daughter.
 
 ## Ezekiel 22:12
-In you are people who accept bribes to shed blood; you take interest and make a profit from the poor. You extort unjust gain from your neighbours. And you have forgotten me, declares the Sovereign Lord.
+In you are people who accept bribes to commit violence; you take interest and make a profit from the poor. You extort unjust gain from your neighbours. And you have forgotten me, declares the Sovereign Lord.
 
 ## Ezekiel 22:13
 “Behold, I will strike my hands together at your dishonest gain and the bloodshed in your midst.
@@ -49,7 +49,7 @@ I will scatter you among the nations and disperse you through the lands; and I w
 When you have been defiled in the sight of the nations, you will know that I am the Lord.’”
 
 ## Ezekiel 22:17
-Then the word of the Lord came to me, saying,
+Then the message from the Lord came to me, saying,
 
 ## Ezekiel 22:18
 “Son of man, the house of Israel has become dross to me; all of them are bronze, tin, iron, and lead left in the furnace. They are but the dross of silver.
@@ -64,13 +64,13 @@ As silver, bronze, iron, lead, and tin are gathered into a furnace to be melted 
 I will gather you and blow on you with the fire of my wrath, and you will be melted inside her.
 
 ## Ezekiel 22:22
-As silver is melted in a furnace, so you will be melted inside her, and you will know that I, the Lord, have poured out my wrath on you.’”
+Just as silver is melted in a furnace, so you will be melted inside her, and you will recognize that I, the Lord, have poured out my wrath on you.’”
 
 ## Ezekiel 22:23
-Again the word of the Lord came to me, saying,
+Again the message from the Lord came to me, saying,
 
 ## Ezekiel 22:24
-“Son of man, say to the land, ‘You are a land that has not been cleansed or rained on in the day of wrath.’
+“Son of man, declare to the land, ‘You are a land that has not been cleansed or rained on in the day of wrath.’
 
 ## Ezekiel 22:25
 There is a conspiracy of her princes within her like a roaring lion tearing its prey; they devour lives, take treasures and precious things, and make many widows within her.
@@ -82,13 +82,13 @@ Her priests have done violence to my law and profaned my holy things; they do no
 Her officials within her are like wolves tearing their prey; they shed blood and destroy lives to make dishonest gain.
 
 ## Ezekiel 22:28
-Her prophets whitewash these deeds for them by false visions and lying divinations. They say, ‘This is what the Sovereign Lord says’—when the Lord has not spoken.
+Her prophets cover up these deeds for them by false visions and deceptive divinations. They claim, ‘This is what the Sovereign Lord says’—when the Lord has not spoken.
 
 ## Ezekiel 22:29
-The people of the land practice extortion and commit robbery; they oppress the poor and needy and mistreat the foreigner, denying them justice.
+The people of the land engage in extortion and commit robbery; they oppress the poor and needy and mistreat the foreigner, denying them justice.
 
 ## Ezekiel 22:30
-I looked for someone among them who would build up the wall and stand before me in the gap on behalf of the land so I would not have to destroy it, but I found no one.
+I searched for someone among them who would build up the wall and stand before me in the gap on behalf of the land so I would not have to destroy it, but I found no one.
 
 ## Ezekiel 22:31
-So I will pour out my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign Lord.”
+Therefore, I will pour out my wrath on them and consume them with my fiery anger, bringing down on their own heads all they have done, declares the Sovereign Lord.”

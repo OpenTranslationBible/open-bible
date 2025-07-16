@@ -1,7 +1,7 @@
 # Isaiah Chapter 64
 
 ## Isaiah 64:1
-Oh, that you would tear open the heavens and come down, that the mountains might quake at your presence—
+If only you would open the heavens and come down, so that the mountains might tremble at your presence—
 
 ## Isaiah 64:2
 As fire kindles brushwood and causes water to boil, come down to make your name known to your adversaries, that the nations may tremble at your presence!
@@ -34,4 +34,4 @@ Your holy cities have become a wilderness; Zion has become a wasteland, Jerusale
 Our holy and beautiful temple, where our ancestors praised you, has been burned with fire, and all our treasured things have become a ruin.
 
 ## Isaiah 64:12
-Will you restrain yourself at these things, Lord? Will you keep silent and afflict us beyond measure?
+Will you hold back at these things, Lord? Will you remain silent and let us suffer beyond measure?

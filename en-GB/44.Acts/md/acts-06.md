@@ -34,7 +34,7 @@ The word of God continued to spread, and the number of disciples in Jerusalem in
 
 ## Acts 6:8
 
-Stephen, full of grace and power, was performing great wonders and signs among the people.
+Stephen, endowed with grace and power, was accomplishing significant wonders and signs among the people.
 
 ## Acts 6:9
 

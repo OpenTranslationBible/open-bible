@@ -28,7 +28,7 @@ Let no debt remain outstanding, except the continuing debt to love one another; 
 The commandments, “You shall not commit adultery,” “You shall not murder,” “You shall not steal,” “You shall not covet,” and any other commandment, are summed up in this saying: “Love your neighbour as yourself.”
 
 ## Romans 13:10
-Love does no harm to a neighbour; therefore love is the fulfilment of the law.
+Love brings no harm to a neighbour; thus, love is the fulfilment of the law.
 
 ## Romans 13:11
 And do this, understanding the present time: the hour has come for you to wake up from your sleep, for our salvation is nearer now than when we first believed.

@@ -50,11 +50,11 @@ and He began to instruct them, saying:
 
 ## Matthew 5:11
 
-Blessed are you when people insult you, persecute you, and falsely say all kinds of evil against you because of Me.
+Blessed are you when people insult you, persecute you, and falsely speak all kinds of evil against you because of Me.
 
 ## Matthew 5:12
 
-Rejoice and be glad, for your reward in heaven is great; for in the same way they persecuted the prophets who were before you.
+Be joyful and glad, for your reward in heaven is great; for in the same way they persecuted the prophets who were before you.
 
 ---
 
@@ -78,7 +78,7 @@ In the same way, let your light shine before others, so that they may see your g
 
 ## Matthew 5:17
 
-Do not think that I have come to abolish the Law or the Prophets; I have not come to abolish them but to fulfil them.
+Do not think that I have come to do away with the Law or the Prophets; I have not come to do away with them but to complete them.
 
 ## Matthew 5:18
 
@@ -140,7 +140,7 @@ And if your right hand causes you to sin, cut it off and throw it away. It is be
 
 ## Matthew 5:31
 
-It has been said, ‘Anyone who divorces his wife must give her a certificate of divorce.’
+It has been said, ‘Anyone who divorces his wife must provide her with a certificate of divorce.’
 
 ## Matthew 5:32
 
@@ -172,7 +172,7 @@ Let your statement be, ‘Yes, yes’ or ‘No, no’; anything beyond this is f
 
 ## Matthew 5:38
 
-You have heard that it was said, ‘Eye for eye, and tooth for tooth.’
+You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’
 
 ## Matthew 5:39
 
@@ -184,17 +184,17 @@ And if anyone wants to sue you and take your shirt, let them have your coat as w
 
 ## Matthew 5:41
 
-If anyone forces you to go one mile, go with them two miles.
+If anyone compels you to go one mile, go with them two miles.
 
 ## Matthew 5:42
 
-Give to the one who asks you, and do not turn away from the one who wants to borrow from you.
+Give to the one who asks you, and do not turn away from the one who wishes to borrow from you.
 
 ---
 
 ## Matthew 5:43
 
-You have heard that it was said, ‘Love your neighbour and hate your enemy.’
+You have heard that it was said, ‘Love your neighbour and hate your adversary.’
 
 ## Matthew 5:44
 
@@ -202,7 +202,7 @@ But I say to you, love your enemies and pray for those who persecute you,
 
 ## Matthew 5:45
 
-that you may be children of your Father in heaven. He causes His sun to rise on the evil and the good, and sends rain on the righteous and the unrighteous.
+so that you may be children of your Father in heaven. He causes His sun to rise on both the evil and the good, and sends rain on the righteous and the unrighteous.
 
 ## Matthew 5:46
 

@@ -1,7 +1,7 @@
 # Numbers Chapter 4
 
 ## Numbers 4:1
-The Lord spoke to Moses and Aaron, saying,
+The Lord communicated with Moses and Aaron, saying,
 
 ## Numbers 4:2
 “Take a census of the Kohathite branch of the Levites, by their families and their fathers’ households.
@@ -49,7 +49,7 @@ After Aaron and his sons have finished covering the holy objects and all the fur
 Eleazar, son of Aaron the priest, shall be in charge of the oil for the light, the fragrant incense, the regular grain offering, and the anointing oil. He shall oversee the entire tabernacle and everything in it, including its holy furnishings and articles.”
 
 ## Numbers 4:17
-The Lord spoke to Moses and Aaron, saying,
+The Lord communicated with Moses and Aaron, saying,
 
 ## Numbers 4:18
 “Ensure that the Kohathite tribal clans are not cut off from among the Levites.
@@ -61,7 +61,7 @@ To ensure they live and do not die when they approach the most holy things, do t
 But the Kohathites must not go in to look at the holy things even for a moment, or they will die.”
 
 ## Numbers 4:21
-The Lord spoke to Moses, saying,
+The Lord communicated with Moses, saying,
 
 ## Numbers 4:22
 “Take a census of the Gershonites also, by their families and their fathers’ households.
@@ -70,7 +70,7 @@ The Lord spoke to Moses, saying,
 Count all the men from thirty to fifty years old who are eligible to perform service in the work at the tent of meeting.
 
 ## Numbers 4:24
-This is the service of the Gershonite clans in their carrying and their other work:
+This is what the Gershonite clans are responsible for in their carrying and other duties:
 
 ## Numbers 4:25
 They shall carry the curtains of the tabernacle, the tent of meeting with its covering, and the outer covering of durable leather, and the curtain for the entrance to the tent of meeting,
@@ -97,7 +97,7 @@ This is their duty as part of all their service at the tent: they are to carry t
 as well as the posts of the surrounding courtyard with their bases, tent pegs, ropes, all their equipment, and everything related to their use. Assign to each man by name the specific items he is to carry.
 
 ## Numbers 4:33
-This is the service of the Merarite clans as they work at the tent of meeting under the direction of Ithamar, son of Aaron the priest.”
+This is what the Merarite clans are responsible for as they work at the tent of meeting under the direction of Ithamar, son of Aaron, the priest.
 
 ## Numbers 4:34
 Moses, Aaron, and the leaders of the community counted the Kohathites by their clans and their fathers’ households.
@@ -145,4 +145,4 @@ All the men from thirty to fifty years old who could enter to do the work of ser
 numbered 8,580.
 
 ## Numbers 4:49
-At the Lord’s command through Moses, each was assigned his work and told what to carry. Thus they were counted, as the Lord commanded Moses.
+At the Lord’s instruction through Moses, each was assigned his work and told what to carry. Thus they were counted, as the Lord directed Moses.

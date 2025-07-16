@@ -1,7 +1,7 @@
 # Ezekiel Chapter 12
 
 ## Ezekiel 12:1
-The word of the Lord came to me, saying,
+A message from the Lord reached me,
 
 ## Ezekiel 12:2
 “Son of man, you are living in the midst of a rebellious house. They have eyes to see but do not see, and ears to hear but do not hear, for they are a rebellious house.
@@ -13,7 +13,7 @@ Therefore, son of man, prepare your belongings for exile and go into exile by da
 Bring out your belongings by day in their sight, as baggage for exile. Then you shall go out at evening in their sight, as those going into exile.
 
 ## Ezekiel 12:5
-While they watch, dig through the wall and take your belongings out through it.
+In their presence, dig through the wall and take your belongings out through it.
 
 ## Ezekiel 12:6
 Load your belongings on your shoulder in their sight and carry them out in the dark. Cover your face so that you cannot see the land, for I have made you a sign to the house of Israel.”
@@ -22,7 +22,7 @@ Load your belongings on your shoulder in their sight and carry them out in the d
 So I did as I was commanded. By day I brought out my belongings, packed for exile. Then in the evening I dug through the wall with my hands. I went out in the dark, carrying my belongings on my shoulder while they watched.
 
 ## Ezekiel 12:8
-In the morning the word of the Lord came to me, saying,
+In the morning, another message from the Lord reached me,
 
 ## Ezekiel 12:9
 “Son of man, has not the house of Israel, that rebellious house, said to you, ‘What are you doing?’
@@ -43,13 +43,13 @@ I will spread my net for him, and he will be caught in my snare. I will bring hi
 I will scatter to the winds all who are around him—his staff and all his troops—and I will pursue them with a drawn sword.
 
 ## Ezekiel 12:15
-They will know that I am the Lord when I disperse them among the nations and scatter them through the countries.
+They will recognize that I am the Lord when I disperse them among the nations and scatter them through the countries.
 
 ## Ezekiel 12:16
 But I will spare a few of them from the sword, famine, and plague, so that they may tell of all their detestable practices among the nations where they go, and they will know that I am the Lord.”
 
 ## Ezekiel 12:17
-Moreover, the word of the Lord came to me, saying,
+Moreover, another message from the Lord reached me,
 
 ## Ezekiel 12:18
 “Son of man, eat your bread with trembling and drink your water with quivering and anxiety.
@@ -61,7 +61,7 @@ Then say to the people of the land, ‘This is what the Sovereign Lord says abou
 The inhabited towns will be laid waste, and the land will become desolate. Then you will know that I am the Lord.’”
 
 ## Ezekiel 12:21
-Then the word of the Lord came to me, saying,
+Then another message from the Lord reached me,
 
 ## Ezekiel 12:22
 “Son of man, what is this proverb you have in the land of Israel, saying, ‘The days go by and every vision comes to nothing’?
@@ -76,7 +76,7 @@ For there will be no more false visions or deceptive divinations among the house
 For I, the Lord, will speak whatever word I speak, and it will be fulfilled without delay. For in your days, you rebellious house, I will speak the word and perform it,’ declares the Sovereign Lord.”
 
 ## Ezekiel 12:26
-Furthermore, the word of the Lord came to me, saying,
+Additionally, another message from the Lord reached me,
 
 ## Ezekiel 12:27
 “Son of man, behold, the house of Israel is saying, ‘The vision he sees is for many years from now, and he prophesies about the distant future.’

@@ -54,7 +54,7 @@ then you no longer allow them to do anything for their father or mother.
 
 ## Mark 7:13
 
-Thus you nullify the word of God by your tradition that you have handed down. And you do many things like that.”
+In this way, you make void the word of God by your tradition that you have passed down. And you engage in many similar practices.”
 
 ---
 
@@ -64,7 +64,7 @@ Then Jesus called the crowd to Him again and said, “Listen to Me, all of you, 
 
 ## Mark 7:15
 
-Nothing outside a person can defile them by going into them; rather, it is what comes out of a person that defiles them.”
+Nothing external to a person can defile them by entering them. Rather, it is what emerges from a person that defiles them.”
 
 ## Mark 7:16
 
@@ -74,7 +74,7 @@ Nothing outside a person can defile them by going into them; rather, it is what 
 
 ## Mark 7:17
 
-When He had left the crowd and entered the house, His disciples questioned Him about the parable.
+After leaving the crowd and entering the house, His disciples asked Him about the parable.
 
 ## Mark 7:18
 
@@ -94,11 +94,11 @@ For from within, out of the heart of men, come evil thoughts: sexual immorality,
 
 ## Mark 7:22
 
-adultery, greed, malice, deceit, lewdness, envy, slander, arrogance, and folly.
+adultery, greed, wickedness, deceit, sensuality, envy, slander, pride, and foolishness.
 
 ## Mark 7:23
 
-All these evils come from inside and defile a person.”
+All these harmful things come from within and defile a person.”
 
 ---
 
@@ -128,7 +128,7 @@ Then He said to her, “For this answer, you may go; the demon has left your dau
 
 ## Mark 7:30
 
-She went home and found her child lying on the bed, and the demon gone.
+She went home and found her child lying on the bed, and the demon had departed.
 
 ---
 

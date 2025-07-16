@@ -70,7 +70,7 @@ One day, while Job’s sons and daughters were eating and drinking wine in their
 
 ## Job 1:14
 
-a messenger came to Job and said, “The oxen were ploughing and the donkeys were grazing nearby,
+a messenger arrived and reported to Job, “The oxen were ploughing and the donkeys were grazing nearby,
 
 ## Job 1:15
 

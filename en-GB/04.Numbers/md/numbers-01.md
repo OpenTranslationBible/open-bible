@@ -61,79 +61,79 @@ as the Lord had commanded Moses. So he counted them in the wilderness of Sinai.
 From the descendants of Reuben, Israel’s firstborn: All the men twenty years old or more who were able to serve in the army were listed by name, one by one, according to the records of their clans and families.
 
 ## Numbers 1:21
-The number from the tribe of Reuben was 46,500.
+The count from the tribe of Reuben was 46,500.
 
 ## Numbers 1:22
-From the descendants of Simeon: All the men twenty years old or more who were able to serve in the army were counted and listed by name, one by one, according to the records of their clans and families.
+From the descendants of Simeon: All the men twenty years old or more who were eligible for military service were counted and listed by name, one by one, according to the records of their clans and families.
 
 ## Numbers 1:23
-The number from the tribe of Simeon was 59,300.
+The count from the tribe of Simeon was 59,300.
 
 ## Numbers 1:24
-From the descendants of Gad: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Gad: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:25
-The number from the tribe of Gad was 45,650.
+The count from the tribe of Gad was 45,650.
 
 ## Numbers 1:26
-From the descendants of Judah: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Judah: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:27
-The number from the tribe of Judah was 74,600.
+The count from the tribe of Judah was 74,600.
 
 ## Numbers 1:28
-From the descendants of Issachar: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Issachar: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:29
-The number from the tribe of Issachar was 54,400.
+The count from the tribe of Issachar was 54,400.
 
 ## Numbers 1:30
-From the descendants of Zebulun: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Zebulun: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:31
-The number from the tribe of Zebulun was 57,400.
+The count from the tribe of Zebulun was 57,400.
 
 ## Numbers 1:32
-From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the sons of Joseph: From the descendants of Ephraim: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:33
-The number from the tribe of Ephraim was 40,500.
+The count from the tribe of Ephraim was 40,500.
 
 ## Numbers 1:34
-From the descendants of Manasseh: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Manasseh: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:35
-The number from the tribe of Manasseh was 32,200.
+The count from the tribe of Manasseh was 32,200.
 
 ## Numbers 1:36
-From the descendants of Benjamin: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Benjamin: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:37
-The number from the tribe of Benjamin was 35,400.
+The count from the tribe of Benjamin was 35,400.
 
 ## Numbers 1:38
-From the descendants of Dan: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Dan: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:39
-The number from the tribe of Dan was 62,700.
+The count from the tribe of Dan was 62,700.
 
 ## Numbers 1:40
-From the descendants of Asher: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Asher: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:41
-The number from the tribe of Asher was 41,500.
+The count from the tribe of Asher was 41,500.
 
 ## Numbers 1:42
-From the descendants of Naphtali: All the men twenty years old or more who were able to serve in the army were listed by name, according to the records of their clans and families.
+From the descendants of Naphtali: All the men twenty years old or more who were eligible for military service were listed by name, according to the records of their clans and families.
 
 ## Numbers 1:43
-The number from the tribe of Naphtali was 53,400.
+The count from the tribe of Naphtali was 53,400.
 
 ## Numbers 1:44
 These were the men counted by Moses and Aaron, with the leaders of Israel, twelve men, each representing his father’s household.
 
 ## Numbers 1:45
-All the Israelites twenty years old or more who were able to serve in Israel’s army were counted according to their families.
+All the Israelites twenty years old or more who were eligible for military service in Israel’s army were counted according to their families.
 
 ## Numbers 1:46
 The total number was 603,550.
@@ -145,7 +145,7 @@ The tribe of Levi, however, was not counted along with the others.
 For the Lord had spoken to Moses, saying,
 
 ## Numbers 1:49
-“You must not count the tribe of Levi or include them in the census of the other Israelites.
+“You are not to count the tribe of Levi or include them in the census of the other Israelites.
 
 ## Numbers 1:50
 Instead, appoint the Levites over the tabernacle of the testimony, over all its furnishings and everything that belongs to it. They are to carry the tabernacle and all its furnishings; they are to take care of it and camp around it.
@@ -160,4 +160,4 @@ The Israelites are to camp by their divisions, each man by his own camp, and eac
 But the Levites shall camp around the tabernacle of the testimony, so that there will be no divine wrath against the congregation of the Israelites. The Levites shall be responsible for the service to the tabernacle of the testimony.”
 
 ## Numbers 1:54
-The Israelites did all this just as the Lord commanded Moses.
+The Israelites did all this just as the Lord instructed Moses.

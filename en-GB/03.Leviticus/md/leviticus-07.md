@@ -1,7 +1,7 @@
 # Leviticus Chapter 7
 
 ## Leviticus 7:1
-‘These are the instructions for the guilt offering; it is most holy.
+‘These are the guidelines for the guilt offering; it is most sacred.
 
 ## Leviticus 7:2
 The guilt offering is to be slaughtered in the same place as the burnt offering, and its blood shall be sprinkled around the altar.
@@ -13,10 +13,10 @@ He shall offer all its fat: the fat tail and the fat that covers the internal or
 and the two kidneys with the fat on them near the loins, and the long lobe of the liver, which he shall remove with the kidneys.
 
 ## Leviticus 7:5
-The priest shall burn them on the altar as an offering by fire to the Lord; it is a guilt offering.
+The priest shall burn them on the altar as a fire offering to the Lord; it is a guilt offering.
 
 ## Leviticus 7:6
-Every male among the priests may eat it. It must be eaten in a holy place; it is most holy.
+Every male among the priests may eat it. It must be eaten in a holy place; it is most sacred.
 
 ## Leviticus 7:7
 The same rule applies to both the sin offering and the guilt offering: they belong to the priest who makes atonement with them.
@@ -25,13 +25,13 @@ The same rule applies to both the sin offering and the guilt offering: they belo
 The priest who presents a burnt offering for anyone shall have the hide of the burnt offering for himself.
 
 ## Leviticus 7:9
-Every grain offering baked in an oven or cooked in a pan or on a griddle belongs to the priest who offers it.
+Every grain offering baked in an oven or cooked in a pan or on a griddle is for the priest who offers it.
 
 ## Leviticus 7:10
 Every grain offering, whether mixed with oil or dry, belongs equally to all the sons of Aaron.
 
 ## Leviticus 7:11
-‘These are the instructions for the sacrifice of peace offerings that one may present to the Lord:
+‘These are the guidelines for the sacrifice of peace offerings that one may present to the Lord:
 
 ## Leviticus 7:12
 If he offers it as a thanksgiving, then along with the sacrifice of thanksgiving he shall offer unleavened cakes mixed with oil, unleavened wafers spread with oil, and cakes of fine flour well-kneaded and mixed with oil.
@@ -70,7 +70,7 @@ The Lord spoke to Moses, saying,
 “Speak to the Israelites, saying, ‘You shall not eat any of the fat of an ox, sheep, or goat.
 
 ## Leviticus 7:24
-The fat of an animal found dead or torn by wild animals may be used for any other purpose, but you must not eat it.
+The fat of an animal found dead or torn by wild animals may be used for other purposes, but you must not eat it.
 
 ## Leviticus 7:25
 Anyone who eats the fat of an animal from which an offering by fire may be presented to the Lord must be cut off from his people.
@@ -94,7 +94,7 @@ With his own hands he shall bring the offerings made by fire to the Lord; he sha
 The priest shall burn the fat on the altar, but the breast shall belong to Aaron and his sons.
 
 ## Leviticus 7:32
-You shall give the right thigh to the priest as a contribution from the sacrifices of your peace offerings.
+You are to give the right thigh to the priest as a contribution from the sacrifices of your peace offerings.
 
 ## Leviticus 7:33
 The son of Aaron who offers the blood and the fat of the peace offerings shall have the right thigh as his portion.
@@ -106,10 +106,10 @@ For I have taken the breast of the wave offering and the thigh of the contributi
 This is the portion of the offerings made by fire to the Lord that were allotted to Aaron and his sons on the day they were presented to serve the Lord as priests.
 
 ## Leviticus 7:36
-On the day they were anointed, the Lord commanded that the Israelites give this to them as their perpetual share for the generations to come.
+On the day they were anointed, the Lord instructed that the Israelites give this to them as their perpetual share for the generations to come.
 
 ## Leviticus 7:37
-These, then, are the instructions for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace offering,
+These, then, are the guidelines for the burnt offering, the grain offering, the sin offering, the guilt offering, the ordination offering, and the peace offering,
 
 ## Leviticus 7:38
-which the Lord commanded Moses on Mount Sinai on the day he commanded the Israelites to bring their offerings to the Lord in the wilderness of Sinai.
+which the Lord commanded Moses on Mount Sinai on the day he instructed the Israelites to bring their offerings to the Lord in the wilderness of Sinai.

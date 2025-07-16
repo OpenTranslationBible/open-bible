@@ -64,7 +64,7 @@ The Benjamites returned at that time, and they gave them the women of Jabesh-gil
 
 ## Judges 21:15
 
-The people grieved for Benjamin, because the Lord had made a gap in the tribes of Israel.
+The people mourned for Benjamin, as the Lord had allowed a void to occur among the tribes of Israel.
 
 ## Judges 21:16
 

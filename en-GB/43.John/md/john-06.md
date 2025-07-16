@@ -50,7 +50,7 @@ When they had all eaten their fill, He said to His disciples, “Gather the frag
 
 ## John 6:13
 
-So they gathered them and filled twelve baskets with the pieces of the five barley loaves left over by those who had eaten.
+So they collected them and filled twelve baskets with the remaining pieces of the five barley loaves.
 
 ## John 6:14
 
@@ -84,7 +84,7 @@ But He said to them, “It is I; do not be afraid.”
 
 ## John 6:21
 
-Then they were willing to take Him into the boat, and immediately the boat reached the shore where they were heading.
+Then they welcomed Him into the boat, and immediately the boat reached the shore where they were heading.
 
 ---
 
@@ -104,7 +104,7 @@ When the crowd realised neither Jesus nor His disciples were there, they got int
 
 ## John 6:25
 
-When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You get here?”
+When they found Him on the other side of the sea, they asked Him, “Rabbi, when did You arrive here?”
 
 ## John 6:26
 
@@ -120,7 +120,7 @@ Then they asked Him, “What must we do to perform the works God requires?”
 
 ## John 6:29
 
-Jesus answered, “The work of God is this: to believe in the One He has sent.”
+Jesus answered, “The work of God is to believe in the One He has sent.”
 
 ---
 
@@ -254,7 +254,7 @@ He said this while teaching in the synagogue in Capernaum.
 
 ## John 6:60
 
-On hearing it, many of His disciples said, “This is a hard teaching. Who can accept it?”
+On hearing it, many of His disciples said, “This is a difficult teaching. Who can accept it?”
 
 ## John 6:61
 
@@ -274,7 +274,7 @@ Yet there are some of you who do not believe.” For Jesus knew from the beginni
 
 ## John 6:65
 
-He went on to say, “This is why I told you that no one can come to Me unless the Father has enabled them.”
+He continued, “This is why I told you that no one can come to Me unless the Father has enabled them.”
 
 ---
 
@@ -300,4 +300,4 @@ Then Jesus replied, “Did I not choose you, the Twelve? Yet one of you is a dev
 
 ## John 6:71
 
-He meant Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray Him.
+He was referring to Judas, the son of Simon Iscariot, who, though one of the Twelve, was later to betray Him.

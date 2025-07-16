@@ -76,7 +76,7 @@ Instead, I give to the Levites as their inheritance the tithes that the Israelit
 The Lord spoke to Moses,
 
 ## Numbers 18:26
-“Speak to the Levites and say to them: ‘When you receive from the Israelites the tithe I give you as your inheritance, you must present a tenth of that tithe as the Lord’s offering.
+“Tell the Levites: ‘When you receive from the Israelites the tithe I give you as your inheritance, you must offer a tenth of that tithe as a contribution to the Lord.
 
 ## Numbers 18:27
 Your offering will be credited to you as grain from the threshing floor or juice from the wine vat.
@@ -85,13 +85,13 @@ Your offering will be credited to you as grain from the threshing floor or juice
 In this way, you shall also present an offering to the Lord from all the tithes you receive from the Israelites. From these tithes, you must give the Lord’s portion to Aaron the priest.
 
 ## Numbers 18:29
-You must present as the Lord’s portion the best and holiest part of everything given to you.’
+You are to offer the finest and most sacred part of everything given to you as the Lord’s portion.’
 
 ## Numbers 18:30
 Say to them, ‘When you present the best part, it will be credited to you as the product of the threshing floor or the wine vat.
 
 ## Numbers 18:31
-You and your households may eat the rest of it anywhere, for it is your wages for your work at the tent of meeting.
+You and your households may consume the remainder anywhere, for it is your compensation for your work at the tent of meeting.
 
 ## Numbers 18:32
-By presenting the best part of it, you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.’”
+By offering the best part, you will not be guilty in this matter; then you will not defile the holy offerings of the Israelites, and you will not die.’”

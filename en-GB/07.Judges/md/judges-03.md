@@ -18,7 +18,7 @@ They were left to test the Israelites to see if they would obey the Lord’s com
 
 ## Judges 3:5
 
-The Israelites lived among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
+The Israelites dwelt among the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites.
 
 ## Judges 3:6
 
@@ -70,7 +70,7 @@ Ehud made a double-edged sword about a cubit long, which he strapped to his righ
 
 ## Judges 3:17
 
-He presented the tribute to Eglon, king of Moab, who was a very fat man.
+He presented the tribute to Eglon, king of Moab, who was an exceedingly large man.
 
 ## Judges 3:18
 
@@ -86,7 +86,7 @@ Ehud approached him while he was sitting alone in the cool upper room and said, 
 
 ## Judges 3:21
 
-Ehud reached with his left hand, drew the sword from his right thigh, and plunged it into the king’s belly.
+Ehud reached with his left hand, drew the sword from his right thigh, and thrust it into the king’s abdomen.
 
 ## Judges 3:22
 
@@ -112,7 +112,7 @@ While they waited, Ehud escaped, passing by the stone images and fleeing to Seir
 
 ## Judges 3:27
 
-When he arrived there, he blew a trumpet in the hill country of Ephraim, and the Israelites went down with him from the hills, with him leading them.
+When he arrived there, he sounded a trumpet in the hill country of Ephraim, and the Israelites went down with him from the hills, with him leading them.
 
 ## Judges 3:28
 
@@ -128,4 +128,4 @@ That day Moab was subdued under the hand of Israel, and the land had peace for e
 
 ## Judges 3:31
 
-After Ehud came Shamgar son of Anath, who struck down six hundred Philistines with an oxgoad. He too saved Israel.
+After Ehud, Shamgar son of Anath arose, who struck down six hundred Philistines with an oxgoad. He also delivered Israel.

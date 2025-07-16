@@ -70,7 +70,7 @@ He is clothed in a robe dipped in blood, and His name is the Word of God.
 
 ## Revelation 19:14
 
-The armies of heaven, dressed in fine linen, white and clean, were following Him on white horses.
+The heavenly armies, arrayed in fine linen, pure and bright, were following Him on white horses.
 
 ## Revelation 19:15
 
@@ -78,7 +78,7 @@ From His mouth comes a sharp sword with which to strike down the nations, and He
 
 ## Revelation 19:16
 
-On His robe and on His thigh He has this name written: King of Kings and Lord of Lords.
+On His robe and on His thigh is inscribed this title: King of Kings and Lord of Lords.
 
 ## Revelation 19:17
 

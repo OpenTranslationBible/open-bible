@@ -55,19 +55,19 @@ So I loathed life, because the work done under the sun was grievous to me. All o
 I detested all the things I had toiled for under the sun, because I must leave them to the one who comes after me.
 
 ## Ecclesiastes 2:19
-And who knows whether that person will be wise or foolish? Yet they will have control over all the fruit of my toil into which I have poured my effort and skill under the sun. This too is meaningless.
+And who can tell if that person will be wise or foolish? Yet they will have authority over all the results of my toil into which I have poured my effort and skill under the sun. This too is futile.
 
 ## Ecclesiastes 2:20
-So my heart began to despair over all my toilsome labour under the sun.
+So my heart was filled with despair over all my laborious work under the sun.
 
 ## Ecclesiastes 2:21
-For a person may labour with wisdom, knowledge, and skill, and then they must leave all they own to another who has not toiled for it. This too is meaningless and a great misfortune.
+For a person may labour with wisdom, knowledge, and skill, and then they must leave all they own to another who has not toiled for it. This too is futile and a great misfortune.
 
 ## Ecclesiastes 2:22
 What do people gain from all their toil and anxious striving with which they labour under the sun?
 
 ## Ecclesiastes 2:23
-All their days their work is grief and pain; even at night their minds do not rest. This too is meaningless.
+All their days their work brings grief and pain; even at night their minds do not rest. This too is futile.
 
 ## Ecclesiastes 2:24
 There is nothing better for a person than to eat, drink, and find satisfaction in their toil. This too, I see, is from the hand of God,

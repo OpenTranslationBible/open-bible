@@ -56,7 +56,7 @@ Sing to the Lord, praise the Lord! For he rescues the life of the needy from the
 
 ## Jeremiah 20:14
 
-Cursed be the day I was born! May the day my mother bore me not be blessed!
+May the day of my birth be forgotten! May the day my mother gave birth to me not be celebrated!
 
 ## Jeremiah 20:15
 
@@ -64,12 +64,12 @@ Cursed be the man who brought my father the news, who made him very glad, saying
 
 ## Jeremiah 20:16
 
-May that man be like the towns the Lord overthrew without pity. May he hear wailing in the morning, a battle cry at noon.
+May that man be like the towns the Lord overthrew without mercy. May he hear cries of distress in the morning, and the sound of battle at noon.
 
 ## Jeremiah 20:17
 
-For he did not kill me in the womb, with my mother as my grave, her womb enlarged forever.
+For he did not end my life in the womb, with my mother as my grave, her womb enlarged forever.
 
 ## Jeremiah 20:18
 
-Why did I ever come out of the womb to see trouble and sorrow and to end my days in shame?
+Why did I come forth from the womb to see hardship and grief, and to end my days in disgrace?

@@ -10,7 +10,7 @@ through whom we have also gained access by faith into this grace in which we sta
 Not only this, but we also rejoice in our tribulations, knowing that tribulation produces perseverance;
 
 ## Romans 5:4
-and perseverance, proven character; and proven character, hope;
+and perseverance leads to proven character; and proven character fosters hope;
 
 ## Romans 5:5
 and hope does not put us to shame, because the love of God has been poured out into our hearts through the Holy Spirit who has been given to us.
@@ -22,10 +22,10 @@ For while we were still powerless, at the right time Christ died for the ungodly
 Very rarely will anyone die for a righteous person, though for a good person someone might dare to die.
 
 ## Romans 5:8
-But God demonstrates His own love for us in this: while we were still sinners, Christ died for us.
+But God shows His own love for us in this: while we were still sinners, Christ died for us.
 
 ## Romans 5:9
-Much more then, having now been justified by His blood, we shall be saved from the wrath of God through Him.
+Much more then, now that we have been justified by His blood, we shall be saved from God's wrath through Him.
 
 ## Romans 5:10
 For if, while we were enemies, we were reconciled to God through the death of His Son, much more, having been reconciled, shall we be saved by His life.
@@ -37,7 +37,7 @@ And not only this, but we also rejoice in God through our Lord Jesus Christ, thr
 Therefore, just as through one man sin entered the world, and death through sin, and in this way death spread to all people, because all sinned—
 
 ## Romans 5:13
-For until the law, sin was in the world, but sin is not counted against anyone when there is no law.
+For before the law, sin was in the world, but sin is not counted against anyone when there is no law.
 
 ## Romans 5:14
 Nevertheless, death reigned from the time of Adam to Moses, even over those who did not sin in the likeness of Adam’s transgression, who is a pattern of the one to come.
@@ -55,10 +55,10 @@ For if by the trespass of the one man, death reigned through that one man, much 
 So then, just as through one trespass the result was condemnation for all people, so also through one act of righteousness the result was justification and life for all people.
 
 ## Romans 5:19
-For just as through the disobedience of the one man the many were made sinners, so also through the obedience of the one man the many will be made righteous.
+For just as through the disobedience of one man the many were made sinners, so also through the obedience of one man the many will be made righteous.
 
 ## Romans 5:20
-The law was brought in so that the trespass might increase; but where sin increased, grace increased all the more,
+The law was introduced so that the trespass might increase; but where sin increased, grace increased all the more,
 
 ## Romans 5:21
-so that, just as sin reigned in death, so also grace might reign through righteousness to bring eternal life through Jesus Christ our Lord.
+so that, just as sin reigned in death, grace might also reign through righteousness to bring eternal life through Jesus Christ our Lord.

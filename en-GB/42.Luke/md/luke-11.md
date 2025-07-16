@@ -41,7 +41,7 @@ I tell you, even if he will not rise and give him anything because he is his fri
 
 ## Luke 11:9
 
-“So I say to you: Ask, and it shall be given to you; seek, and you shall find; knock, and it shall be opened to you.
+“So I tell you: Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
 
 ## Luke 11:10
 
@@ -49,7 +49,7 @@ For everyone who asks receives; the one who seeks finds; and to the one who knoc
 
 ## Luke 11:11
 
-Which of you fathers, if your son asks for a fish, will give him a snake instead?
+Which of you fathers, if your son requests a fish, will hand him a snake instead?
 
 ## Luke 11:12
 
@@ -87,11 +87,11 @@ If I drive out demons by Beelzebul, by whom do your followers drive them out? Th
 
 ## Luke 11:20
 
-But if I drive out demons by the finger of God, then the kingdom of God has come upon you.
+But if I expel demons by the power of God, then the kingdom of God has come upon you.
 
 ## Luke 11:21
 
-When a strong man, fully armed, guards his own house, his possessions are secure.
+When a strong man, fully armed, guards his own house, his belongings are secure.
 
 ## Luke 11:22
 
@@ -141,7 +141,7 @@ The Queen of the South will rise at the judgment with the people of this generat
 
 ## Luke 11:32
 
-The men of Nineveh will stand up at the judgment with this generation and condemn it, because they repented at the preaching of Jonah; and behold, something greater than Jonah is here.
+The people of Nineveh will stand at the judgment with this generation and condemn it, because they repented at the preaching of Jonah; and behold, something greater than Jonah is here.
 
 ---
 
@@ -177,7 +177,7 @@ Then the Lord said to him, “Now you Pharisees clean the outside of the cup and
 
 ## Luke 11:40
 
-You foolish ones! Did not He who made the outside make the inside also?
+You unwise ones! Did not He who made the outside make the inside also?
 
 ## Luke 11:41
 
@@ -225,7 +225,7 @@ so that the blood of all the prophets, shed since the foundation of the world, m
 
 ## Luke 11:51
 
-from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Yes, I tell you, it will be charged against this generation.
+from the blood of Abel to the blood of Zechariah, who was killed between the altar and the sanctuary. Truly, I tell you, it will be charged against this generation.
 
 ## Luke 11:52
 

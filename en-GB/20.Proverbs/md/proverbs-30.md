@@ -50,7 +50,7 @@ There are those who curse their fathers and do not bless their mothers;
 
 ## Proverbs 30:12
 
-those who are pure in their own eyes and yet are not cleansed of their filth;
+those who consider themselves pure but have not been cleansed from their wrongdoing;
 
 ## Proverbs 30:13
 
@@ -64,7 +64,7 @@ those whose teeth are like swords and whose jaws are set with knives to devour t
 
 ## Proverbs 30:15
 
-The leech has two daughters: ‘Give! Give!’ they cry. There are three things that are never satisfied, four that never say, ‘Enough!’:
+The leech has two daughters, crying out, ‘Give! Give!’ There are three things that are never satisfied, four that never say, ‘Enough!’:
 
 ## Proverbs 30:16
 
@@ -82,7 +82,7 @@ There are three things that are too wonderful for me, four that I do not underst
 
 ## Proverbs 30:19
 
-the way of an eagle in the sky, the way of a snake on a rock, the way of a ship on the high seas, and the way of a man with a young woman.
+the flight of an eagle in the sky, the movement of a snake on a rock, the course of a ship on the high seas, and the way of a man with a young woman.
 
 ## Proverbs 30:20
 
@@ -108,25 +108,25 @@ Four things on earth are small, yet they are exceedingly wise:
 
 ## Proverbs 30:25
 
-Ants are creatures of little strength, yet they store up their food in the summer;
+Ants, though small and weak, store up their food in the summer;
 
 ## Proverbs 30:26
 
-Hyraxes are creatures of little power, yet they make their home in the crags;
+Hyraxes, though not powerful, make their home in the crags;
 
 ## Proverbs 30:27
 
-Locusts have no king, yet they advance together in ranks;
+Locusts, having no king, advance together in ranks;
 
 ## Proverbs 30:28
 
-A lizard can be caught with the hand, yet it is found in kings’ palaces.
+A lizard, easily caught by hand, yet found in kings’ palaces.
 
 ---
 
 ## Proverbs 30:29
 
-There are three things that are stately in their stride, four that move with stately bearing:
+There are three things that are stately in their stride, four that move with noble bearing:
 
 ## Proverbs 30:30
 
@@ -134,7 +134,7 @@ A lion, mighty among beasts, who retreats before nothing;
 
 ## Proverbs 30:31
 
-A strutting rooster, a he-goat, and a king secure against revolt.
+A proud rooster, a he-goat, and a king secure against revolt.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Isaiah 2:1
 
-The vision that Isaiah son of Amoz saw concerning Judah and Jerusalem.
+The message that Isaiah son of Amoz received about Judah and Jerusalem.
 
 ## Isaiah 2:2
 
@@ -58,7 +58,7 @@ against all the towering mountains and all the high hills,
 
 ## Isaiah 2:15
 
-against every high tower and every fortified wall,
+against every lofty tower and every strong wall,
 
 ## Isaiah 2:16
 

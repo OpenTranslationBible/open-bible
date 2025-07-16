@@ -36,15 +36,15 @@ Guarding the paths of justice and watching over the way of His faithful ones.
 
 ## Proverbs 2:9
 
-Then you will discern what is right and just and fair—every good path.
+Then you will perceive what is right and just and fair—every good path.
 
 ## Proverbs 2:10
 
-For wisdom will enter your heart, and knowledge will be delightful to your soul.
+For wisdom will fill your heart, and knowledge will bring joy to your soul.
 
 ## Proverbs 2:11
 
-Discretion will watch over you, and understanding will guard you.
+Discretion will protect you, and understanding will watch over you.
 
 ---
 
@@ -94,4 +94,4 @@ For the upright will live in the land, and the blameless will remain in it;
 
 ## Proverbs 2:22
 
-But the wicked will be cut off from the land, and the treacherous will be torn away from it.
+But the wicked will be removed from the land, and the treacherous will be uprooted from it.

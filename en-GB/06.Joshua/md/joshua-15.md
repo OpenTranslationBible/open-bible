@@ -136,7 +136,7 @@ Lebaoth, Shilhim, Ain, and Rimmon—a total of twenty-nine cities and their vill
 
 ## Joshua 15:33
 
-In the lowland: Eshtaol, Zorah, and Ashnah,
+In the Shephelah: Eshtaol, Zorah, and Ashnah,
 
 ## Joshua 15:34
 
@@ -148,7 +148,7 @@ Jarmuth, Adullam, Socoh, and Azekah,
 
 ## Joshua 15:36
 
-Shaaraim, Adithaim, Gederah, and Gederothaim—fourteen cities and their villages.
+Shaaraim, Adithaim, Gederah, and Gederothaim—fourteen cities along with their villages.
 
 ---
 
@@ -194,7 +194,7 @@ Ekron, with its towns and villages;
 
 ## Joshua 15:46
 
-west of Ekron, all that were in the vicinity of Ashdod, together with their villages;
+to the west of Ekron, all the areas near Ashdod, along with their villages;
 
 ## Joshua 15:47
 
@@ -204,7 +204,7 @@ Ashdod, its towns and villages; Gaza, its towns and villages, as far as the broo
 
 ## Joshua 15:48
 
-In the hill country: Shamir, Jattir, and Socoh,
+In the mountainous region: Shamir, Jattir, and Socoh,
 
 ## Joshua 15:49
 
@@ -216,7 +216,7 @@ Anab, Eshtemoh, and Anim,
 
 ## Joshua 15:51
 
-Goshen, Holon, and Giloh—eleven cities and their villages.
+Goshen, Holon, and Giloh—eleven cities along with their villages.
 
 ---
 
@@ -244,7 +244,7 @@ Jezreel, Jokdeam, and Zanoah,
 
 ## Joshua 15:57
 
-Kain, Gibeah, and Timnah—ten cities and their villages.
+Kain, Gibeah, and Timnah—ten cities along with their villages.
 
 ## Joshua 15:58
 

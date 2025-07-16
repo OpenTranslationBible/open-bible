@@ -6,7 +6,7 @@ Do not boast about tomorrow, for you do not know what a day may bring forth.
 
 ## Proverbs 27:2
 
-Let another person praise you, and not your own mouth; a stranger, and not your own lips.
+Let someone else praise you, and not your own mouth; an outsider, and not your own lips.
 
 ## Proverbs 27:3
 
@@ -18,11 +18,11 @@ Anger is cruel and wrath is overwhelming, but who can stand against jealousy?
 
 ## Proverbs 27:5
 
-Better is open rebuke than love that is concealed.
+Open rebuke is better than hidden love.
 
 ## Proverbs 27:6
 
-Faithful are the wounds of a friend, but the kisses of an enemy are deceitful.
+The wounds of a friend can be trusted, but the kisses of an enemy are deceitful.
 
 ## Proverbs 27:7
 
@@ -60,7 +60,7 @@ If anyone blesses their neighbour with a loud voice early in the morning, it wil
 
 ## Proverbs 27:15
 
-A continual dripping on a rainy day and a quarrelsome wife are alike.
+A continual dripping on a rainy day is like a quarrelsome wife.
 
 ## Proverbs 27:16
 

@@ -28,7 +28,7 @@ Pardon me, Lord. What can I say now that Israel has turned its back before its e
 The Canaanites and all the inhabitants of the land will hear of this, and they will surround us and wipe out our name from the earth. What then will you do for your great name?”
 
 ## Joshua 7:10
-The Lord said to Joshua, “Get up! Why have you fallen on your face?
+The Lord addressed Joshua, saying, “Rise up! Why are you lying on your face?
 
 ## Joshua 7:11
 Israel has sinned; they have violated my covenant, which I commanded them. They have taken some of the things set apart for destruction; they have stolen, lied, and put them among their own belongings.
@@ -55,7 +55,7 @@ The clans of Judah came forward, and the Zerahites were selected. He had the cla
 Joshua had his household come forward man by man, and Achan, son of Carmi, son of Zabdi, son of Zerah, from the tribe of Judah, was selected.
 
 ## Joshua 7:19
-Then Joshua said to Achan, “My son, give glory to the Lord, the God of Israel, and honour him. Tell me what you have done; do not hide it from me.”
+Then Joshua addressed Achan, “My son, give praise to the Lord, the God of Israel, and honour him. Tell me what you have done; do not hide it from me.”
 
 ## Joshua 7:20
 Achan replied, “Indeed, I have sinned against the Lord, the God of Israel. This is what I did:

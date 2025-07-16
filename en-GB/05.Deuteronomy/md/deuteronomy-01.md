@@ -10,13 +10,13 @@ It is an eleven-day journey from Horeb by way of Mount Seir to Kadesh Barnea.
 In the fortieth year, on the first day of the eleventh month, Moses spoke to the Israelites, in accordance with all that the Lord had commanded him to declare to them,
 
 ## Deuteronomy 1:4
-after he had defeated Sihon king of the Amorites, who lived in Heshbon, and Og king of Bashan, who lived in Ashtaroth and Edrei.
+after he had overcome Sihon king of the Amorites, who resided in Heshbon, and Og king of Bashan, who lived in Ashtaroth and Edrei.
 
 ## Deuteronomy 1:5
-Across the Jordan in the land of Moab, Moses began to explain this law, saying,
+On the other side of the Jordan in the land of Moab, Moses began to clarify this law, saying,
 
 ## Deuteronomy 1:6
-“The Lord our God said to us at Horeb, ‘You have stayed long enough at this mountain.
+“The Lord our God spoke to us at Horeb, ‘You have remained at this mountain long enough.
 
 ## Deuteronomy 1:7
 Turn and set out on your journey, and go to the hill country of the Amorites, and to all their neighbours in the Arabah, in the hill country, in the lowlands, in the Negev, by the seacoast, the land of the Canaanites, and Lebanon, as far as the great river, the Euphrates.
@@ -94,7 +94,7 @@ The Lord your God, who goes before you, will fight for you, just as He did for y
 and in the wilderness where you saw how the Lord your God carried you, as a father carries his son, all the way you went until you reached this place.’
 
 ## Deuteronomy 1:32
-Yet in spite of this, you did not trust the Lord your God,
+Yet, despite this, you did not trust the Lord your God,
 
 ## Deuteronomy 1:33
 who went ahead of you on your journey, to seek out places for you to camp, in fire by night and in a cloud by day, to show you the way you should go.
@@ -106,7 +106,7 @@ When the Lord heard what you said, He was angry and swore an oath:
 ‘Not one of this evil generation shall see the good land I swore to give your ancestors,
 
 ## Deuteronomy 1:36
-except Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land he set his feet on, because he followed the Lord wholeheartedly.’
+except for Caleb son of Jephunneh. He will see it, and I will give him and his descendants the land he set his feet on, because he followed the Lord with complete devotion.’
 
 ## Deuteronomy 1:37
 The Lord was also angry with me because of you, saying, ‘You shall not enter it, either.

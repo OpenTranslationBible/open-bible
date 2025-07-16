@@ -36,7 +36,7 @@ Peter said to Him, “You shall never wash my feet!” Jesus answered, “If I d
 
 ## John 13:9
 
-Simon Peter said to Him, “Lord, not only my feet, but also my hands and my head!”
+Simon Peter said to Him, “Lord, wash not only my feet, but also my hands and my head!”
 
 ## John 13:10
 
@@ -62,7 +62,7 @@ If I, your Lord and Teacher, have washed your feet, you also ought to wash one a
 
 ## John 13:15
 
-I have set you an example that you should do as I have done for you.
+I have provided you with an example, so that you should do as I have done for you.
 
 ## John 13:16
 
@@ -132,11 +132,11 @@ After receiving the piece of bread, Judas went out immediately. And it was night
 
 ## John 13:31
 
-When he had gone out, Jesus said, “Now is the Son of Man glorified, and God is glorified in Him.
+After he had gone out, Jesus said, “Now the Son of Man is glorified, and God is glorified in Him.
 
 ## John 13:32
 
-If God is glorified in Him, God will also glorify Him in Himself, and will glorify Him immediately.
+If God is honored in Him, God will also honor Him in Himself, and will do so immediately.
 
 ## John 13:33
 

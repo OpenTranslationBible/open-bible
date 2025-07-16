@@ -42,7 +42,7 @@ That night the Lord said to Gideon, “Arise, go down against the camp, for I ha
 
 ## Judges 7:10
 
-If you are afraid to attack, go down to the camp with your servant Purah
+If you feel hesitant to attack, go down to the camp with your servant Purah
 
 ## Judges 7:11
 

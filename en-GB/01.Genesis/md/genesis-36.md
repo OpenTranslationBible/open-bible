@@ -7,10 +7,10 @@ These are the records of the lineage of Esau (also known as Edom).
 Esau took his wives from the daughters of Canaan: Adah, the daughter of Elon the Hittite, and Oholibamah, the daughter of Anah and granddaughter of Zibeon the Hivite—
 
 ## Genesis 36:3
-and Basemath, the daughter of Ishmael and sister of Nebaioth.
+and Basemath, the daughter of Ishmael and sibling of Nebaioth.
 
 ## Genesis 36:4
-Adah bore Eliphaz to Esau, and Basemath bore Reuel,
+Adah gave birth to Eliphaz for Esau, and Basemath gave birth to Reuel.
 
 ## Genesis 36:5
 and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.
@@ -55,10 +55,10 @@ The sons of Reuel, Esau’s son: chiefs Nahath, Zerah, Shammah, and Mizzah. Thes
 The sons of Esau’s wife Oholibamah: chiefs Jeush, Jalam, and Korah. These were the chiefs descended from Esau’s wife Oholibamah, the daughter of Anah.
 
 ## Genesis 36:19
-These were the sons of Esau (that is, Edom), and these were their chiefs.
+These were the descendants of Esau, also known as Edom, and these were their chiefs.
 
 ## Genesis 36:20
-These were the sons of Seir the Horite, who were living in the region: Lotan, Shobal, Zibeon, Anah,
+These were the descendants of Seir the Horite, who were residing in the region: Lotan, Shobal, Zibeon, Anah,
 
 ## Genesis 36:21
 Dishon, Ezer, and Dishan. These were the Horite chiefs, the sons of Seir in the land of Edom.
@@ -67,7 +67,7 @@ Dishon, Ezer, and Dishan. These were the Horite chiefs, the sons of Seir in the 
 The sons of Lotan were Hori and Homam; and Timna was Lotan’s sister.
 
 ## Genesis 36:23
-These were the sons of Shobal: Alvan, Manahath, Ebal, Shepho, and Onam.
+The descendants of Shobal were Alvan, Manahath, Ebal, Shepho, and Onam.
 
 ## Genesis 36:24
 These were the sons of Zibeon: Aiah and Anah. This is the Anah who discovered the hot springs in the wilderness while he was pasturing the donkeys of his father Zibeon.
@@ -79,10 +79,10 @@ These were the children of Anah: Dishon and Oholibamah, the daughter of Anah.
 These were the sons of Dishon: Hemdan, Eshban, Ithran, and Keran.
 
 ## Genesis 36:27
-These were the sons of Ezer: Bilhan, Zaavan, and Akan.
+The descendants of Ezer were Bilhan, Zaavan, and Akan.
 
 ## Genesis 36:28
-These were the sons of Dishan: Uz and Aran.
+The descendants of Dishan were Uz and Aran.
 
 ## Genesis 36:29
 These were the Horite chiefs: Lotan, Shobal, Zibeon, Anah,
@@ -100,16 +100,16 @@ Bela, the son of Beor, reigned in Edom, and the name of his city was Dinhabah.
 When Bela died, Jobab, the son of Zerah from Bozrah, succeeded him as king.
 
 ## Genesis 36:34
-When Jobab died, Husham from the land of the Temanites succeeded him as king.
+When Jobab died, Husham from the territory of the Temanites took over as king.
 
 ## Genesis 36:35
 When Husham died, Hadad, the son of Bedad, who defeated Midian in the country of Moab, succeeded him as king; his city was named Avith.
 
 ## Genesis 36:36
-When Hadad died, Samlah from Masrekah succeeded him as king.
+When Hadad died, Samlah from Masrekah took over as king.
 
 ## Genesis 36:37
-When Samlah died, Shaul from Rehoboth on the river succeeded him as king.
+When Samlah died, Shaul from Rehoboth by the river became king.
 
 ## Genesis 36:38
 When Shaul died, Baal-Hanan, the son of Akbor, succeeded him as king.

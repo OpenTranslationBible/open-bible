@@ -10,7 +10,7 @@ This is what the Lord says— he who made you and formed you in the womb, who wi
 
 ## Isaiah 44:3
 
-For I will pour water on the thirsty land, and streams on the dry ground; I will pour out my Spirit on your offspring, and my blessing on your descendants.
+For I will pour water upon the parched land, and streams upon the dry ground; I will pour out my Spirit on your offspring, and my blessing on your descendants.
 
 ## Isaiah 44:4
 
@@ -68,7 +68,7 @@ Half of the wood he burns in the fire; over it he prepares his meal, he roasts m
 
 ## Isaiah 44:17
 
-From the rest he makes a god, his idol; he bows down to it and worships. He prays to it and says, “Save me! You are my god!”
+From the remainder he creates a god, his idol; he bows down to it and worships. He prays to it and says, “Rescue me! You are my god!”
 
 ## Isaiah 44:18
 
@@ -88,7 +88,7 @@ He feeds on ashes; a deceived heart has misled him. He cannot save himself, nor 
 
 ## Isaiah 44:22
 
-I have swept away your transgressions like a cloud, and your sins like a mist. Return to me, for I have redeemed you.”
+I have wiped away your transgressions like a cloud, and your sins like a mist. Return to me, for I have redeemed you.”
 
 ## Isaiah 44:23
 
@@ -100,7 +100,7 @@ This is what the Lord says— your Redeemer, who formed you from the womb: I am 
 
 ## Isaiah 44:25
 
-who foils the signs of false prophets and makes fools of diviners, who overthrows the learning of the wise and turns it into nonsense,
+who frustrates the signs of false prophets and makes fools of diviners, who overthrows the learning of the wise and turns it into nonsense,
 
 ## Isaiah 44:26
 
@@ -108,8 +108,8 @@ who confirms the word of his servant and carries out the purpose of his messenge
 
 ## Isaiah 44:27
 
-who says to the watery deep, ‘Be dry, and I will dry up your streams,’
+who commands the watery deep, ‘Be dry, and I will dry up your streams,’
 
 ## Isaiah 44:28
 
-who says of Cyrus, ‘He is my shepherd and will accomplish all that I please; he will say of Jerusalem, “Let it be rebuilt,” and of the temple, “Let its foundations be laid.”’
+who speaks of Cyrus, ‘He is my shepherd and will accomplish all that I desire; he will say of Jerusalem, “Let it be rebuilt,” and of the temple, “Let its foundations be laid.”’

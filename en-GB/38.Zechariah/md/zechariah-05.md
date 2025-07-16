@@ -28,7 +28,7 @@ He said, “This is Wickedness,” and he pushed her back into the basket and ca
 Then I looked up and saw two women coming out with the wind in their wings; they had wings like those of a stork, and they lifted the basket between the earth and the heavens.
 
 ## Zechariah 5:10
-I asked the angel who was speaking with me, “Where are they taking the basket?”
+I inquired of the angel who was speaking with me, “Where are they carrying the basket?”
 
 ## Zechariah 5:11
 He replied, “To build a house for it in the land of Shinar; and when it is ready, it will be set there on its own base.”

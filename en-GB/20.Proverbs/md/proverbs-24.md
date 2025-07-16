@@ -72,7 +72,7 @@ Do not rejoice when your enemy falls, and do not let your heart be glad when the
 
 ## Proverbs 24:18
 
-or the Lord will see and disapprove and turn his wrath away from them.
+lest the Lord take notice and turn his attention away from them.
 
 ## Proverbs 24:19
 
@@ -96,7 +96,7 @@ These also are sayings of the wise: Showing partiality in judgement is not good.
 
 ## Proverbs 24:24
 
-Whoever says to the wicked, “You are innocent,” will be cursed by peoples and denounced by nations.
+Whoever declares the wicked to be innocent will be cursed by peoples and denounced by nations.
 
 ## Proverbs 24:25
 

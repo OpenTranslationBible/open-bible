@@ -73,7 +73,7 @@ If you do this and God so commands, you will be able to endure, and all these pe
 Moses listened to his father-in-law and did everything he suggested.
 
 ## Exodus 18:25
-He chose capable men from all Israel and made them leaders of the people, officials over thousands, hundreds, fifties, and tens.
+He selected capable men from all Israel and appointed them as leaders of the people, officials over thousands, hundreds, fifties, and tens.
 
 ## Exodus 18:26
 They judged the people at all times. They brought the difficult cases to Moses, but decided the simple ones themselves.

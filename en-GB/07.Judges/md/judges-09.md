@@ -32,7 +32,7 @@ When Jotham was informed, he went and stood on the top of Mount Gerizim and shou
 
 ## Judges 9:8
 
-Once the trees went forth to anoint a king over them, and they said to the olive tree, 'Reign over us!'
+The trees once set out to appoint a king over themselves, and they said to the olive tree, 'Rule over us!'
 
 ## Judges 9:9
 
@@ -64,7 +64,7 @@ The bramble said to the trees, 'If you are truly anointing me as king over you, 
 
 ## Judges 9:16
 
-"Now then, if you have acted with honesty and integrity in making Abimelech king, and if you have dealt well with Jerubbaal and his house, and have dealt with him as he deserved—
+"So now, if you have acted with honesty and integrity in making Abimelech king, and if you have dealt well with Jerubbaal and his house, and have treated him as he deserved—
 
 ## Judges 9:17
 
@@ -92,7 +92,7 @@ Abimelech ruled over Israel for three years.
 
 ## Judges 9:23
 
-Then God sent an evil spirit between Abimelech and the leaders of Shechem, and the leaders of Shechem dealt treacherously with Abimelech,
+Then God sent a spirit of discord between Abimelech and the leaders of Shechem, and the leaders of Shechem dealt treacherously with Abimelech,
 
 ## Judges 9:24
 
@@ -144,7 +144,7 @@ Now Gaal, the son of Ebed, went out and stood at the entrance of the city gate, 
 
 ## Judges 9:36
 
-When Gaal saw them, he said to Zebul, "Look, people are coming down from the tops of the mountains!" Zebul replied, "You mistake the shadows of the mountains for men."
+When Gaal saw them, he said to Zebul, "Look, people are coming down from the tops of the mountains!" Zebul replied, "You are mistaking the shadows of the mountains for men."
 
 ## Judges 9:37
 
@@ -160,7 +160,7 @@ So Gaal went out in the sight of the leaders of Shechem and fought Abimelech.
 
 ## Judges 9:40
 
-Abimelech chased him, and he fled before him, and many fell wounded up to the entrance of the gate.
+Abimelech pursued him, and he fled before him, and many fell wounded up to the entrance of the gate.
 
 ## Judges 9:41
 

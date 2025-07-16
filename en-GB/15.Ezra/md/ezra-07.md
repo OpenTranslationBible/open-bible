@@ -88,7 +88,7 @@ And the rest of the needs for the house of your God, which you may have to provi
 
 ## Ezra 7:22
 
-up to a hundred talents of silver, a hundred cors of wheat, a hundred baths of wine, a hundred baths of olive oil, and salt without limit.
+up to one hundred talents of silver, one hundred cors of wheat, one hundred baths of wine, one hundred baths of olive oil, and salt without measure.
 
 ## Ezra 7:23
 
@@ -104,7 +104,7 @@ We also inform you that it is not permitted to impose tax, tribute, or toll on a
 
 ## Ezra 7:26
 
-Whoever does not obey the law of your God and the law of the king must surely be punished by death, banishment, confiscation of property, or imprisonment.”
+Whoever does not obey the law of your God and the law of the king is to be punished by death, banishment, confiscation of property, or imprisonment as deemed necessary.”
 
 ## Ezra 7:27
 

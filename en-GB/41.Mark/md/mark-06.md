@@ -22,7 +22,7 @@ He could not perform any miracles there, except that he laid his hands on a few 
 
 ## Mark 6:6
 
-He was amazed at their unbelief. Then he went around the villages teaching.
+He was taken aback by their lack of faith. Then he continued teaching throughout the villages.
 
 ---
 
@@ -48,7 +48,7 @@ If any place does not welcome you or listen to you, as you leave, shake the dust
 
 ## Mark 6:12
 
-They went out and preached that people should repent.
+They went out and proclaimed that people should change their ways.
 
 ## Mark 6:13
 
@@ -128,15 +128,15 @@ When John’s disciples heard of this, they came and took his body and laid it i
 
 ## Mark 6:30
 
-The apostles gathered around Jesus and reported to him all they had done and taught.
+The apostles gathered around Jesus and shared with him all they had done and taught.
 
 ## Mark 6:31
 
-Then, because so many people were coming and going that they did not even have time to eat, he said to them, “Come away by yourselves to a secluded place and rest a while.”
+Then, because so many people were coming and going that they did not even have time to eat, he said to them, “Come away by yourselves to a quiet place and rest a while.”
 
 ## Mark 6:32
 
-So they went away by themselves in a boat to a solitary place.
+So they departed by themselves in a boat to a secluded area.
 
 ## Mark 6:33
 
@@ -144,7 +144,7 @@ But many saw them leaving and recognised them, and they ran on foot from all the
 
 ## Mark 6:34
 
-When Jesus landed and saw a large crowd, he had compassion on them, because they were like sheep without a shepherd. So he began teaching them many things.
+When Jesus landed and saw a large crowd, he felt compassion for them, because they were like sheep without a shepherd. So he began to teach them many things.
 
 ---
 
@@ -162,7 +162,7 @@ But he replied, “You give them something to eat.” They said to him, “Shoul
 
 ## Mark 6:38
 
-He asked them, “How many loaves do you have? Go and see.” When they found out, they said, “Five, and two fish.”
+He asked them, “How many loaves do you have? Go and find out.” When they found out, they said, “Five, and two fish.”
 
 ## Mark 6:39
 
@@ -196,11 +196,11 @@ Immediately, Jesus made his disciples get into the boat and go ahead of him to t
 
 ## Mark 6:46
 
-After leaving them, he went up on a mountainside to pray.
+After sending them away, he went up on a mountainside to pray.
 
 ## Mark 6:47
 
-When evening came, the boat was in the middle of the sea, and he was alone on the land.
+When evening came, the boat was in the middle of the sea, and he was alone on the shore.
 
 ## Mark 6:48
 
@@ -220,7 +220,7 @@ Then he got into the boat with them, and the wind ceased. They were utterly asto
 
 ## Mark 6:52
 
-for they had not understood about the loaves; their hearts were hardened.
+for they had not grasped the significance of the loaves; their hearts were hardened.
 
 ---
 
@@ -230,7 +230,7 @@ When they had crossed over, they came to land at Gennesaret and anchored there.
 
 ## Mark 6:54
 
-As soon as they got out of the boat, people recognised Jesus.
+Upon disembarking, people immediately recognised Jesus.
 
 ## Mark 6:55
 

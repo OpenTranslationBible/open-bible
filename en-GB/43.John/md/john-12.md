@@ -14,7 +14,7 @@ Mary took a pound of very costly perfume made of pure nard, anointed Jesus' feet
 
 ## John 12:4
 
-But Judas Iscariot, one of his disciples who was going to betray him, said,
+However, Judas Iscariot, one of his disciples who intended to betray him, remarked,
 
 ## John 12:5
 
@@ -30,7 +30,7 @@ Jesus replied, “Leave her alone. It was meant that she should keep this perfum
 
 ## John 12:8
 
-You will always have the poor with you, but you will not always have me.”
+You will always have those in need with you, but you will not always have me.”
 
 ---
 
@@ -40,7 +40,7 @@ A large crowd of Jews found out that Jesus was there, and they came not only bec
 
 ## John 12:10
 
-So the chief priests planned to kill Lazarus as well,
+So the chief priests made plans to kill Lazarus as well,
 
 ## John 12:11
 
@@ -80,17 +80,17 @@ The crowd that was with him when he called Lazarus out of the tomb and raised hi
 
 ## John 12:18
 
-Many people, because they had heard that he had performed this sign, went out to meet him.
+Many people, having heard about this miraculous sign, went out to meet him.
 
 ## John 12:19
 
-So the Pharisees said to one another, “See, this is getting us nowhere. Look how the whole world has gone after him!”
+So the Pharisees said to one another, “See, this is getting us nowhere. Look how everyone has gone after him!”
 
 ---
 
 ## John 12:20
 
-Now there were some Greeks among those who went up to worship at the feast.
+Now there were some Greeks among those who went up to worship during the feast.
 
 ## John 12:21
 
@@ -102,7 +102,7 @@ Philip went to tell Andrew; Andrew and Philip went and told Jesus.
 
 ## John 12:23
 
-Jesus replied, “The hour has come for the Son of Man to be glorified.
+Jesus answered, “The time has come for the Son of Man to be glorified.
 
 ## John 12:24
 
@@ -110,7 +110,7 @@ Truly, truly I say to you, unless a grain of wheat falls into the earth and dies
 
 ## John 12:25
 
-Anyone who loves their life will lose it, while anyone who hates their life in this world will keep it for eternal life.
+Anyone who cherishes their life will lose it, while anyone who disregards their life in this world will keep it for eternal life.
 
 ## John 12:26
 
@@ -120,11 +120,11 @@ If anyone serves me, they must follow me; and where I am, there my servant will 
 
 ## John 12:27
 
-“Now my soul is troubled, and what shall I say? ‘Father, save me from this hour’? No, it was for this very reason I came to this hour.
+“Now my soul is troubled, and what shall I say? ‘Father, save me from this hour’? No, it was for this very purpose I came to this hour.
 
 ## John 12:28
 
-Father, glorify your name.” Then a voice came from heaven, “I have glorified it, and will glorify it again.”
+Father, glorify your name.” Then a voice came from heaven, “I have glorified it and will glorify it again.”
 
 ## John 12:29
 
@@ -158,7 +158,7 @@ Then Jesus said to them, “You are going to have the light just a little while 
 
 ## John 12:36
 
-Believe in the light while you have the light, so that you may become children of light.” When he had finished speaking, Jesus left and hid himself from them.
+Trust in the light while you have the light, so that you may become children of light.” When he had finished speaking, Jesus left and hid himself from them.
 
 ---
 
@@ -197,7 +197,7 @@ Yet at the same time many even among the leaders believed in him. But because of
 
 ## John 12:43
 
-for they loved human praise more than praise from God.
+for they valued human praise more than praise from God.
 
 ---
 

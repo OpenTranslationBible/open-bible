@@ -18,7 +18,7 @@ For he had often been bound with shackles and chains, but he tore the chains apa
 
 ## Mark 5:5
 
-Night and day among the tombs and in the hills, he would cry out and cut himself with stones.
+Day and night among the tombs and in the hills, he would cry out and harm himself with stones.
 
 ---
 
@@ -46,7 +46,7 @@ And he begged Jesus repeatedly not to send them out of the region.
 
 ## Mark 5:11
 
-A large herd of pigs was feeding on the nearby hillside.
+A large group of pigs was feeding on the nearby hillside.
 
 ## Mark 5:12
 
@@ -64,7 +64,7 @@ Those tending the pigs ran off and reported this in the town and countryside, an
 
 ## Mark 5:15
 
-When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, clothed and in his right mind; and they were afraid.
+When they came to Jesus, they saw the man who had been possessed by the legion of demons, sitting there, clothed and in his right mind; and they were filled with awe.
 
 ## Mark 5:16
 
@@ -72,13 +72,13 @@ Those who had seen it described to the people what had happened to the demon-pos
 
 ## Mark 5:17
 
-Then the people began to plead with Jesus to leave their region.
+Then the people began to urge Jesus to leave their region.
 
 ---
 
 ## Mark 5:18
 
-As Jesus was getting into the boat, the man who had been demon-possessed begged to go with Him.
+As Jesus was getting into the boat, the man who had been freed from the demons begged to go with Him.
 
 ## Mark 5:19
 
@@ -110,11 +110,11 @@ So Jesus went with him. A large crowd followed and pressed around Him.
 
 ## Mark 5:25
 
-And a woman was there who had been subject to bleeding for twelve years.
+And there was a woman who had been suffering from bleeding for twelve years.
 
 ## Mark 5:26
 
-She had suffered a great deal under the care of many doctors and had spent all she had, yet instead of getting better she grew worse.
+She had endured much under many doctors and had spent all she had, yet instead of improving, she grew worse.
 
 ## Mark 5:27
 
@@ -152,7 +152,7 @@ He said to her, “Daughter, your faith has made you well. Go in peace and be fr
 
 ## Mark 5:35
 
-While Jesus was still speaking, some people came from the house of Jairus, the synagogue leader. “Your daughter is dead,” they said. “Why bother the Teacher anymore?”
+While Jesus was still speaking, some people came from the house of Jairus, the synagogue leader. “Your daughter is dead,” they said. “Why trouble the Teacher any further?”
 
 ## Mark 5:36
 
@@ -160,11 +160,11 @@ Overhearing what they said, Jesus told him, “Do not be afraid; just believe.�
 
 ## Mark 5:37
 
-He did not let anyone follow Him except Peter, James, and John the brother of James.
+He did not allow anyone to follow Him except Peter, James, and John the brother of James.
 
 ## Mark 5:38
 
-When they came to the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
+When they arrived at the home of the synagogue leader, Jesus saw a commotion, with people crying and wailing loudly.
 
 ## Mark 5:39
 

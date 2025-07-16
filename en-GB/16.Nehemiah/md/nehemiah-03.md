@@ -58,7 +58,7 @@ Next to him, their fellow Levites under Binnui son of Henadad, official of the o
 Next to him, Ezer son of Jeshua, official of Mizpah, repaired another section opposite the ascent to the armoury at the angle.
 
 ## Nehemiah 3:20
-Next to him, Baruch son of Zabbai zealously repaired another section, from the angle to the entrance of the house of Eliashib the high priest.
+Beside him, Baruch son of Zabbai earnestly repaired another section, from the angle to the entrance of the house of Eliashib the high priest.
 
 ## Nehemiah 3:21
 Next to him, Meremoth son of Uriah, the son of Hakkoz, repaired another section, from the entrance of Eliashib’s house to its end.
@@ -70,7 +70,7 @@ The priests from the surrounding region made repairs next to him.
 Beyond them, Benjamin and Hasshub made repairs in front of their house, with Azariah son of Maaseiah, the son of Ananiah, repairing beside his house.
 
 ## Nehemiah 3:24
-Next to him, Binnui son of Henadad repaired another section, from Azariah’s house to the angle and the corner.
+Beside him, Binnui son of Henadad repaired another section, from Azariah’s house to the angle and the corner.
 
 ## Nehemiah 3:25
 Palal son of Uzai worked opposite the angle and the tower projecting from the upper palace near the court of the guard. Next to him, Pedaiah son of Parosh made repairs.
@@ -79,19 +79,19 @@ Palal son of Uzai worked opposite the angle and the tower projecting from the up
 The temple servants living on the hill of Ophel made repairs up to a point opposite the Water Gate towards the east and the projecting tower.
 
 ## Nehemiah 3:27
-Next to them, the men of Tekoa repaired another section from the great projecting tower to the wall of Ophel.
+Beside them, the men of Tekoa repaired another section, from the large projecting tower to the wall of Ophel.
 
 ## Nehemiah 3:28
-Above the Horse Gate, the priests made repairs, each in front of his own house.
+Above the Horse Gate, the priests repaired, each in front of his own house.
 
 ## Nehemiah 3:29
 Next to them, Zadok son of Immer made repairs opposite his house, with Shemaiah son of Shekaniah, the guard at the East Gate, making repairs next to him.
 
 ## Nehemiah 3:30
-Next to him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.
+Beside him, Hananiah son of Shelemiah, and Hanun, the sixth son of Zalaph, repaired another section. Next to them, Meshullam son of Berekiah made repairs opposite his living quarters.
 
 ## Nehemiah 3:31
-Next to him, Malkijah, one of the goldsmiths, made repairs as far as the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner.
+Next to him, Malkijah, one of the goldsmiths, made repairs up to the house of the temple servants and the merchants, opposite the Inspection Gate, and as far as the room above the corner.
 
 ## Nehemiah 3:32
 Between the room above the corner and the Sheep Gate, the goldsmiths and merchants made repairs.

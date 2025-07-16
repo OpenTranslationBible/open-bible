@@ -2,7 +2,7 @@
 
 ## Matthew 20:1
 
-“For the kingdom of heaven is like a landowner who went out early in the morning to hire labourers for his vineyard.
+“For the kingdom of heaven can be compared to a landowner who went out early in the morning to hire workers for his vineyard.
 
 ## Matthew 20:2
 
@@ -64,13 +64,13 @@ Is it not lawful for me to do what I wish with my own money? Or is your eye envi
 
 ## Matthew 20:16
 
-Thus, the last will be first, and the first will be last.”
+In this way, the last will be first, and the first will be last.”
 
 ---
 
 ## Matthew 20:17
 
-As Jesus was going up to Jerusalem, he took the twelve disciples aside and on the way he said to them,
+As Jesus was on his way to Jerusalem, he took the twelve disciples aside and said to them,
 
 ## Matthew 20:18
 
@@ -100,7 +100,7 @@ He said to them, “You will indeed drink from my cup, but to sit at my right or
 
 ## Matthew 20:24
 
-When the ten heard about this, they were indignant with the two brothers.
+When the ten heard about this, they were upset with the two brothers.
 
 ## Matthew 20:25
 
@@ -112,7 +112,7 @@ It shall not be so among you. Whoever wants to become great among you must be yo
 
 ## Matthew 20:27
 
-and whoever wants to be first must be your slave—
+and whoever wants to be first must be your servant—
 
 ## Matthew 20:28
 
@@ -134,7 +134,7 @@ The crowd rebuked them and told them to be quiet, but they shouted all the more,
 
 ## Matthew 20:32
 
-Jesus stopped and called them. “What do you want me to do for you?” he asked.
+Jesus stopped and called them over. “What do you want me to do for you?” he asked.
 
 ## Matthew 20:33
 

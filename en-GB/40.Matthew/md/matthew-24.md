@@ -28,7 +28,7 @@ You will hear of wars and rumours of wars; see that you are not alarmed. Such th
 
 ## Matthew 24:7
 
-Nation will rise against nation, and kingdom against kingdom. There will be famines and earthquakes in various places.
+Nations will rise against each other, and kingdoms will clash. There will be famines and earthquakes in various places.
 
 ## Matthew 24:8
 
@@ -72,15 +72,15 @@ then let those who are in Judea flee to the mountains.
 
 ## Matthew 24:17
 
-Let no one on the housetop go down to take anything out of the house.
+Those on the housetop should not go down to take anything out of the house.
 
 ## Matthew 24:18
 
-Let no one in the field go back to get their cloak.
+Those in the field should not go back to get their cloak.
 
 ## Matthew 24:19
 
-How dreadful it will be in those days for pregnant women and nursing mothers!
+It will be distressing in those days for pregnant women and nursing mothers!
 
 ## Matthew 24:20
 
@@ -102,11 +102,11 @@ At that time if anyone says to you, ‘Look, here is the Messiah!’ or, ‘Ther
 
 ## Matthew 24:24
 
-For false messiahs and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect.
+For impostors claiming to be the Messiah and false prophets will appear and perform great signs and wonders to deceive, if possible, even the elect.
 
 ## Matthew 24:25
 
-See, I have told you in advance.
+Remember, I have told you beforehand.
 
 ## Matthew 24:26
 
@@ -114,7 +114,7 @@ So if anyone tells you, ‘There He is, out in the wilderness,’ do not go out;
 
 ## Matthew 24:27
 
-For as lightning that comes from the east is visible even in the west, so will be the coming of the Son of Man.
+For just as lightning comes from the east and is visible even in the west, so will be the coming of the Son of Man.
 
 ## Matthew 24:28
 
@@ -137,7 +137,7 @@ Then will appear the sign of the Son of Man in heaven. Then all the peoples of t
 
 ## Matthew 24:31
 
-And He will send His angels with a loud trumpet call, and they will gather His elect from the four winds, from one end of the heavens to the other.
+And He will send His angels with a loud trumpet call, and they will gather His chosen ones from the four winds, from one end of the heavens to the other.
 
 ---
 
@@ -151,7 +151,7 @@ In the same way, when you see all these things, you know that it is near, right 
 
 ## Matthew 24:34
 
-Truly I tell you, this generation will certainly not pass away until all these things have happened.
+Truly I tell you, this generation will certainly not pass away until all these things have occurred.
 
 ## Matthew 24:35
 
@@ -161,7 +161,7 @@ Heaven and earth will pass away, but My words will never pass away.
 
 ## Matthew 24:36
 
-“But about that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
+“But concerning that day or hour no one knows, not even the angels in heaven, nor the Son, but only the Father.
 
 ## Matthew 24:37
 
@@ -173,7 +173,7 @@ For in the days before the flood, people were eating and drinking, marrying and 
 
 ## Matthew 24:39
 
-and they knew nothing about what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man.
+and they were unaware of what would happen until the flood came and took them all away. That is how it will be at the coming of the Son of Man.
 
 ## Matthew 24:40
 
@@ -201,7 +201,7 @@ So you also must be ready, because the Son of Man will come at an hour when you 
 
 ## Matthew 24:45
 
-“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to give them their food at the proper time?
+“Who then is the faithful and wise servant, whom the master has put in charge of the servants in his household to provide them their food at the proper time?
 
 ## Matthew 24:46
 
@@ -213,11 +213,11 @@ Truly I tell you, he will put him in charge of all his possessions.
 
 ## Matthew 24:48
 
-But suppose that servant is wicked and says to himself, ‘My master is staying away a long time,’
+But suppose that servant is wicked and says to himself, ‘My master is delayed,’
 
 ## Matthew 24:49
 
-and he then begins to beat his fellow servants and to eat and drink with drunkards.
+and he then begins to mistreat his fellow servants and to eat and drink with drunkards.
 
 ## Matthew 24:50
 

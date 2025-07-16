@@ -10,7 +10,7 @@ The first chariot was drawn by red horses, the second by black horses,
 the third by white horses, and the fourth by strong dappled horses.
 
 ## Zechariah 6:4
-I asked the angel who was conversing with me, “What are these, my lord?”
+I inquired of the angel who was speaking with me, “What are these, my lord?”
 
 ## Zechariah 6:5
 The angel replied, “These are the four spirits of heaven, setting out after standing before the Lord of all the earth.

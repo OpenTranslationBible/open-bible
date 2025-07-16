@@ -31,7 +31,7 @@ Argue your case with your neighbour, and do not betray another’s confidence,
 lest the one who hears it put you to shame, and your reputation be ruined.
 
 ## Proverbs 25:11
-Like apples of gold in settings of silver is a word spoken at the right time.
+A word fitly spoken is like golden apples in silver settings.
 
 ## Proverbs 25:12
 Like a gold earring or a fine gold ornament is a wise rebuke to a listening ear.
@@ -40,10 +40,10 @@ Like a gold earring or a fine gold ornament is a wise rebuke to a listening ear.
 Like the coolness of snow at harvest time is a faithful messenger to those who send him; he refreshes the soul of his master.
 
 ## Proverbs 25:14
-Like clouds and wind without rain is one who boasts of gifts never given.
+One who boasts of gifts never given is like clouds and wind without rain.
 
 ## Proverbs 25:15
-Through patience a ruler can be persuaded, and a gentle tongue can break a bone.
+With patience, a ruler may be persuaded, and a gentle tongue can break a bone.
 
 ## Proverbs 25:16
 If you find honey, eat only what you need, lest you have too much and vomit.
@@ -61,10 +61,10 @@ Like a bad tooth or a lame foot is reliance on the unfaithful in times of troubl
 Like one who takes away a garment on a cold day, or vinegar on soda, is one who sings songs to a heavy heart.
 
 ## Proverbs 25:21
-If your enemy is hungry, give him food to eat; if he is thirsty, give him water to drink.
+If your enemy is hungry, provide him with food; if he is thirsty, give him water to drink.
 
 ## Proverbs 25:22
-In doing this, you will heap burning coals on his head, and the Lord will reward you.
+By doing this, you will heap burning coals on his head, and the Lord will reward you.
 
 ## Proverbs 25:23
 As the north wind brings rain, so a sly tongue brings an angry face.
@@ -73,7 +73,7 @@ As the north wind brings rain, so a sly tongue brings an angry face.
 Better to live on a corner of the roof than to share a house with a quarrelsome woman.
 
 ## Proverbs 25:25
-Like cold water to a weary soul is good news from a distant land.
+Good news from a distant land is like cold water to a weary soul.
 
 ## Proverbs 25:26
 Like a muddied spring or a polluted well are the righteous who give way before the wicked.

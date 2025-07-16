@@ -31,10 +31,10 @@ It was square and folded double, a span in length and width.
 They mounted four rows of precious stones on it. The first row was ruby, topaz, and emerald;
 
 ## Exodus 39:11
-the second row was turquoise, sapphire, and diamond;
+the second row was turquoise, sapphire, and a clear gem;
 
 ## Exodus 39:12
-the third row was jacinth, agate, and amethyst;
+the third row was jacinth, agate, and a purple stone;
 
 ## Exodus 39:13
 the fourth row was beryl, onyx, and jasper. These were set in gold filigree settings.
@@ -43,7 +43,7 @@ the fourth row was beryl, onyx, and jasper. These were set in gold filigree sett
 There were twelve stones, each engraved like a seal with the name of one of the twelve tribes of Israel.
 
 ## Exodus 39:15
-For the breastpiece, they made chains of pure gold, twisted like cords.
+For the breastpiece, they fashioned chains of pure gold, twisted like cords.
 
 ## Exodus 39:16
 They crafted two gold filigree settings and two gold rings, and fastened the rings to the two corners of the breastpiece.
@@ -55,7 +55,7 @@ The two gold chains were attached to the rings at the corners of the breastpiece
 The other ends of the chains were fastened to the two settings, attaching them to the shoulder pieces of the ephod at the front.
 
 ## Exodus 39:19
-They made two gold rings and attached them to the other two corners of the breastpiece, on the inside edge next to the ephod.
+They made two gold rings and attached them to the other two corners of the breastpiece, on the inner edge next to the ephod.
 
 ## Exodus 39:20
 They also made two more gold rings and attached them to the bottom of the shoulder pieces of the ephod, at the front, near the seam above the waistband.
@@ -103,7 +103,7 @@ They brought the tabernacle to Moses: the tent and all its furnishings, its clas
 the covering of ram skins dyed red, the covering of fine leather, and the shielding curtain;
 
 ## Exodus 39:35
-the ark of the covenant law with its poles and the atonement cover;
+the ark of the covenant with its poles and the atonement cover;
 
 ## Exodus 39:36
 the table with all its articles and the bread of the Presence;
@@ -121,10 +121,10 @@ the bronze altar with its bronze grating, its poles, and all its utensils; the b
 the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard; the ropes and tent pegs for the courtyard; all the equipment for the service of the tabernacle, the tent of meeting;
 
 ## Exodus 39:41
-and the woven garments worn for ministering in the sanctuary, both the sacred garments for Aaron the priest and the garments for his sons when serving as priests.
+and the woven garments used for ministering in the sanctuary, both the sacred garments for Aaron the priest and the garments for his sons when serving as priests.
 
 ## Exodus 39:42
 The Israelites had done all the work just as the Lord had commanded Moses.
 
 ## Exodus 39:43
-Moses inspected the work and saw that they had done it just as the Lord had commanded. So Moses blessed them.
+Moses reviewed the work and saw that they had done it just as the Lord had commanded. So Moses blessed them.

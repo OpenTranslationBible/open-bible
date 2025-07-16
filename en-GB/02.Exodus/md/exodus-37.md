@@ -55,10 +55,10 @@ He made the lampstand of pure gold, hammering out its base and shaft, with its f
 Six branches extended from its sides—three branches on one side and three on the other.
 
 ## Exodus 37:19
-Three cups shaped like almond flowers with buds and blossoms were on one branch, three on the next branch, and the same for all six branches extending from the lampstand.
+Each branch had three cups shaped like almond flowers with buds and blossoms, and this pattern was consistent for all six branches extending from the lampstand.
 
 ## Exodus 37:20
-And on the lampstand were four cups shaped like almond flowers with buds and blossoms.
+The lampstand itself featured four cups shaped like almond flowers with buds and blossoms.
 
 ## Exodus 37:21
 A bud was under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair—six branches in total.

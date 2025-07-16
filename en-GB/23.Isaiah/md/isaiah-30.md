@@ -31,7 +31,7 @@ For these are a rebellious people, deceitful children, children unwilling to lis
 They say to the seers, “See no more visions!” and to the prophets, “Do not prophesy the truth to us. Speak to us pleasant things, prophesy illusions.
 
 ## Isaiah 30:11
-Get out of the way, turn aside from the path, and stop confronting us with the Holy One of Israel!”
+Leave us alone, turn away from the path, and cease confronting us with the Holy One of Israel!”
 
 ## Isaiah 30:12
 Therefore this is what the Holy One of Israel says: “Since you have rejected this message and relied on oppression and deceit, and depended on them,
@@ -61,7 +61,7 @@ People of Zion, who dwell in Jerusalem, you will weep no more. How gracious he w
 Although the Lord gives you the bread of adversity and the water of affliction, your Teacher will no longer hide himself; your eyes will see your Teacher.
 
 ## Isaiah 30:21
-Whether you turn to the right or to the left, your ears will hear a voice behind you, saying, “This is the way; walk in it.”
+Wherever you turn, your ears will hear a voice behind you, saying, “This is the way; walk in it.”
 
 ## Isaiah 30:22
 Then you will desecrate your idols overlaid with silver and your images covered with gold; you will throw them away like a filthy thing and say to them, “Be gone!”

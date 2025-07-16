@@ -160,7 +160,7 @@ Since these facts are undeniable, you ought to remain calm and not act rashly.
 
 ## Acts 19:37
 
-You have brought these men here, though they have neither robbed temples nor blasphemed our goddess.
+You have brought these men here, though they have neither desecrated temples nor spoken against our goddess.
 
 ## Acts 19:38
 
@@ -176,4 +176,4 @@ For we are in danger of being charged with rioting because of today’s events, 
 
 ## Acts 19:41
 
-After he had said this, he dismissed the assembly.
+With these words, he dismissed the assembly.

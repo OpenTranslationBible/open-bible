@@ -22,13 +22,13 @@ violet, purple, and scarlet yarn, and fine linen; goats' hair;
 ram skins dyed red and another type of fine leather; acacia wood;
 
 ## Exodus 35:8
-olive oil for the light; spices for the anointing oil and for the fragrant incense;
+oil for the lamps; spices for the anointing oil and for the aromatic incense;
 
 ## Exodus 35:9
 and onyx stones and other gems to be set in the ephod and breastpiece.
 
 ## Exodus 35:10
-“All who are skilled among you are to come and make everything the Lord has commanded:
+“All who possess skills among you are invited to come and make everything the Lord has commanded:
 
 ## Exodus 35:11
 the tabernacle with its tent and its covering, its hooks, frames, crossbars, posts, and bases;
@@ -43,16 +43,16 @@ the table with its poles and all its utensils, and the bread of the Presence;
 the lampstand for the light with its accessories, lamps, and oil for the light;
 
 ## Exodus 35:15
-the altar of incense with its poles, the anointing oil and the fragrant incense; the curtain for the doorway at the entrance to the tabernacle;
+the altar of incense with its poles, the anointing oil and the aromatic incense; the curtain for the doorway at the entrance to the tabernacle;
 
 ## Exodus 35:16
 the altar of burnt offering with its bronze grating, its poles, and all its utensils; the basin with its stand;
 
 ## Exodus 35:17
-the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard;
+the courtyard drapes with its posts and bases, and the curtain for the entrance to the courtyard;
 
 ## Exodus 35:18
-the tent pegs for the tabernacle and for the courtyard, and their ropes;
+the tent pegs for the tabernacle and for the courtyard, and their cords;
 
 ## Exodus 35:19
 the woven garments worn for ministering in the sanctuary—the sacred garments for Aaron the priest and the garments for his sons when they serve as priests.”
@@ -82,7 +82,7 @@ And all the women whose hearts were stirred with skill spun the goats' hair.
 The leaders brought onyx stones and other gems to be set in the ephod and breastpiece;
 
 ## Exodus 35:28
-and the spices and olive oil for the light, for the anointing oil, and for the fragrant incense.
+and the spices and oil for the lamps, for the anointing oil, and for the aromatic incense.
 
 ## Exodus 35:29
 All the Israelite men and women whose hearts were willing brought to the Lord voluntary offerings for all the work the Lord through Moses had commanded them to do.
@@ -97,10 +97,10 @@ and he has filled him with the Spirit of God, with wisdom, understanding, knowle
 to create artistic designs for working in gold, silver, and bronze,
 
 ## Exodus 35:33
-to cut and set stones, to work in wood, and to engage in all kinds of artistic crafts.
+to cut and set stones, to work in wood, and to engage in all sorts of artistic crafts.
 
 ## Exodus 35:34
-He has also given both him and Oholiab son of Ahisamach, of the tribe of Dan, the ability to teach others.
+He has also granted both him and Oholiab, son of Ahisamach, of the tribe of Dan, the ability to instruct others.
 
 ## Exodus 35:35
 He has filled them with skill to perform all kinds of work as engravers, designers, embroiderers in violet, purple, and scarlet yarn, and fine linen, and weavers—all of them skilled workers and designers.

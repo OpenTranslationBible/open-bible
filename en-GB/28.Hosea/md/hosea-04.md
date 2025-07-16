@@ -40,7 +40,7 @@ My people consult their wooden idol, and their diviner’s rod speaks to them; a
 They sacrifice on the mountain tops and burn incense on the hills, under oak, poplar, and terebinth, because their shade is good. Therefore, your daughters turn to prostitution and your daughters-in-law to adultery.
 
 ## Hosea 4:14
-I will not punish your daughters when they turn to prostitution, nor your daughters-in-law when they commit adultery, because the men themselves consort with harlots and sacrifice with shrine prostitutes; a people without understanding will come to ruin.
+I will not hold your daughters accountable when they turn to prostitution, nor your daughters-in-law when they commit adultery, because the men themselves consort with harlots and sacrifice with shrine prostitutes; a people lacking understanding will come to ruin.
 
 ## Hosea 4:15
 Though you, Israel, commit adultery, let not Judah become guilty. Do not go to Gilgal, nor go up to Beth Aven, and do not swear, ‘As surely as the Lord lives!’

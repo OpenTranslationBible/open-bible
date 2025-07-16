@@ -31,7 +31,7 @@ A man who is clean shall gather up the ashes of the heifer and place them in a c
 The man who gathers the ashes must wash his clothes, and he will be unclean until evening. This shall be a lasting ordinance for the Israelites and the foreigners residing among them.
 
 ## Numbers 19:11
-Whoever touches a human corpse will be unclean for seven days.
+Anyone who comes into contact with a human corpse will be unclean for seven days.
 
 ## Numbers 19:12
 They must cleanse themselves with the water on the third day and on the seventh day; then they will be clean. If they do not purify themselves on the third and seventh days, they will not be clean.

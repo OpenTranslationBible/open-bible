@@ -1,7 +1,7 @@
 # Ezekiel Chapter 33
 
 ## Ezekiel 33:1
-The word of the Lord came to me, saying:
+The message from the Lord came to me, saying:
 
 ## Ezekiel 33:2
 “Son of man, speak to the sons of your people and say to them: ‘If I bring a sword upon a land, and the people of the land select one man from among them and appoint him as their watchman,
@@ -49,10 +49,10 @@ if he returns what he took in pledge for a loan, pays back what he has stolen, f
 None of the sins he has committed will be remembered against him. He has done what is just and right; he will surely live.
 
 ## Ezekiel 33:17
-“Yet your fellow citizens say, ‘The way of the Lord is not right,’ when it is their own way that is not right.
+“However, your fellow citizens claim, ‘The way of the Lord is not right,’ when it is their own way that is not right.
 
 ## Ezekiel 33:18
-When a righteous person turns from his righteousness and commits injustice, he will die for it.
+If a righteous person turns from his righteousness and does wrong, he will die for it.
 
 ## Ezekiel 33:19
 But when a wicked person turns away from his wickedness and does what is just and right, he will live by doing so.
@@ -67,7 +67,7 @@ Now in the twelfth year of our exile, on the fifth day of the tenth month, a man
 Now the hand of the Lord had been upon me in the evening before the man arrived, and He opened my mouth before the man came to me in the morning. So my mouth was opened and I was no longer silent.
 
 ## Ezekiel 33:23
-Then the word of the Lord came to me, saying:
+Then the message from the Lord came to me, saying:
 
 ## Ezekiel 33:24
 “Son of man, those living in the ruins in the land of Israel are saying, ‘Abraham was only one man, yet he possessed the land. But we are many; surely the land has been given to us as a possession.’

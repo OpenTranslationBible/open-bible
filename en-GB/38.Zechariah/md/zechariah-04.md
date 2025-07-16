@@ -22,7 +22,7 @@ So he said to me, “This is the word of the Lord to Zerubbabel: ‘Not by might
 ‘What are you, mighty mountain? Before Zerubbabel you will become level ground. He will bring forth the capstone with shouts of “Grace, grace to it!”’”
 
 ## Zechariah 4:8
-Then the word of the Lord came to me, saying,
+The message from the Lord came to me, saying,
 
 ## Zechariah 4:9
 “The hands of Zerubbabel have laid the foundation of this house; his hands will also complete it. Then you will know that the Lord of Hosts has sent me to you.

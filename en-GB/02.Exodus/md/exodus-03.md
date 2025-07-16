@@ -13,7 +13,7 @@ So Moses thought, “I will turn aside and see this remarkable sight—why the b
 When the Lord saw that he had turned aside to look, God called to him from within the bush, “Moses, Moses!” And Moses replied, “Here I am.”
 
 ## Exodus 3:5
-“Do not come any closer,” God said. “Take off your sandals, for the place where you are standing is holy ground.”
+“Do not come any closer,” God instructed. “Remove your sandals, for the place where you are standing is sacred ground.”
 
 ## Exodus 3:6
 Then He said, “I am the God of your father—the God of Abraham, the God of Isaac, and the God of Jacob.” At this, Moses hid his face, for he was afraid to look at God.
@@ -28,7 +28,7 @@ So I have come down to deliver them from the power of the Egyptians and to bring
 And now, behold, the cry of the Israelites has reached me, and I have seen how the Egyptians are oppressing them.
 
 ## Exodus 3:10
-So now, go. I am sending you to Pharaoh to bring My people, the Israelites, out of Egypt.”
+So now, proceed. I am commissioning you to Pharaoh to lead My people, the Israelites, out of Egypt.”
 
 ## Exodus 3:11
 But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”
@@ -43,25 +43,25 @@ Then Moses said to God, “Suppose I go to the Israelites and say to them, ‘Th
 God said to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: ‘I AM has sent me to you.’”
 
 ## Exodus 3:15
-God also said to Moses, “Say to the Israelites, ‘The Lord, the God of your fathers—the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you.’ This is My name forever, the name you shall call me from generation to generation.
+God also said to Moses, “Tell the Israelites, ‘The Lord, the God of your ancestors—the God of Abraham, the God of Isaac, and the God of Jacob—has sent me to you.’ This is My name forever, the name by which I am to be remembered from generation to generation.
 
 ## Exodus 3:16
-“Go, gather the elders of Israel and say to them, ‘The Lord, the God of your fathers—the God of Abraham, Isaac, and Jacob—appeared to me and said: I have watched over you and have seen what has been done to you in Egypt.
+“Go, gather the elders of Israel and say to them, ‘The Lord, the God of your ancestors—the God of Abraham, Isaac, and Jacob—appeared to me and said: I have watched over you and have seen what has been done to you in Egypt.
 
 ## Exodus 3:17
 And I have promised to bring you up out of your affliction in Egypt to the land of the Canaanites, Hittites, Amorites, Perizzites, Hivites, and Jebusites—a land flowing with milk and honey.’
 
 ## Exodus 3:18
-“The elders of Israel will listen to you. Then you and the elders are to go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has met with us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God.’
+“The elders of Israel will heed you. Then you and the elders are to go to the king of Egypt and say to him, ‘The Lord, the God of the Hebrews, has encountered us. Let us take a three-day journey into the wilderness to offer sacrifices to the Lord our God.’
 
 ## Exodus 3:19
-But I know that the king of Egypt will not let you go unless compelled by a mighty hand.
+But I am aware that the king of Egypt will not permit you to leave unless compelled by a powerful hand.
 
 ## Exodus 3:20
-So I will stretch out My hand and strike Egypt with all My wonders which I will perform in their midst. After that, he will let you go.
+So I will extend My hand and strike Egypt with all My wonders which I will perform in their midst. After that, he will let you go.
 
 ## Exodus 3:21
-“And I will make the Egyptians favourably disposed towards this people, so that when you leave you will not go empty-handed.
+“And I will cause the Egyptians to look favorably upon this people, so that when you leave you will not go empty-handed.
 
 ## Exodus 3:22
-Every woman is to ask her neighbour and any woman living in her house for articles of silver and gold and for clothing, which you will put on your sons and daughters. And so you will plunder the Egyptians.”
+Every woman is to request from her neighbor and any woman living in her house for articles of silver and gold and for clothing, which you will put on your sons and daughters. In this way, you will take the wealth of the Egyptians.”

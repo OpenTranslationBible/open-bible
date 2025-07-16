@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 15
 
 ## Deuteronomy 15:1
-At the end of every seven years, you shall grant a release of debts.
+At the conclusion of every seven years, you shall provide a remission of debts.
 
 ## Deuteronomy 15:2
 This is the manner of the release: every creditor shall forgive what he has lent to his neighbour; he shall not demand it from his fellow Israelite, for the Lord's time of release has been proclaimed.
@@ -37,7 +37,7 @@ For the poor will never cease to be in the land; therefore I command you to open
 If your fellow Hebrew, a man or a woman, is sold to you and serves you for six years, then in the seventh year you must let them go free.
 
 ## Deuteronomy 15:13
-And when you release them, do not send them away empty-handed.
+And when you set them free, do not send them away empty-handed.
 
 ## Deuteronomy 15:14
 Provide them generously from your flock, your threshing floor, and your winepress. Give to them as the Lord your God has blessed you.
@@ -67,4 +67,4 @@ If an animal has any defect, is lame or blind, or has any serious flaw, you must
 You may eat it within your towns. Both the ceremonially unclean and the clean may eat it, as if it were gazelle or deer.
 
 ## Deuteronomy 15:23
-But you must not eat the blood; pour it out on the ground like water.
+But you must not consume the blood; pour it out on the ground like water.

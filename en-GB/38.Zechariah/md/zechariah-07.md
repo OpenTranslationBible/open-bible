@@ -1,7 +1,7 @@
 # Zechariah Chapter 7
 
 ## Zechariah 7:1
-In the fourth year of King Darius, the word of the Lord came to Zechariah on the fourth day of the ninth month, the month of Kislev.
+During the fourth year of King Darius, a message from the Lord came to Zechariah on the fourth day of the ninth month, known as Kislev.
 
 ## Zechariah 7:2
 The people of Bethel sent Sharezer and Regem-Melek, along with their men, to seek the favour of the Lord,
@@ -37,7 +37,7 @@ But they refused to listen; they turned a stubborn shoulder and stopped their ea
 They made their hearts as hard as stone, so they would not hear the law or the words that the Lord Almighty had sent by His Spirit through the former prophets. Therefore, great wrath came from the Lord Almighty.
 
 ## Zechariah 7:13
-“‘When I called, they did not listen; so when they called, I would not listen,’ says the Lord Almighty.
+“‘When I called, they did not listen; therefore, when they called, I did not respond,’ says the Lord Almighty.
 
 ## Zechariah 7:14
 ‘I scattered them with a storm wind among all the nations they did not know. The land they left behind was so desolate that no one travelled through it. This is how they made the pleasant land desolate.’”

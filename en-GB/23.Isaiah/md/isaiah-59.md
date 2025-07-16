@@ -22,10 +22,10 @@ Their webs cannot become clothing, nor can they cover themselves with what they 
 Their feet run to evil, and they are quick to shed innocent blood. Their thoughts are thoughts of wrongdoing; devastation and destruction are in their paths.
 
 ## Isaiah 59:8
-They do not know the way of peace, and there is no justice in their tracks. They have made their paths crooked; whoever walks on them does not know peace.
+They are unfamiliar with the path of peace, and justice is absent from their ways. They have made their paths crooked; whoever walks on them does not find peace.
 
 ## Isaiah 59:9
-Therefore, justice is far from us, and righteousness does not reach us. We hope for light, but there is darkness; for brightness, but we walk in gloom.
+As a result, justice is distant from us, and righteousness does not reach us. We hope for light, but behold, there is darkness; for brightness, but we walk in gloom.
 
 ## Isaiah 59:10
 We grope along the wall like the blind, feeling our way like those without eyes. We stumble at midday as if it were twilight; among the strong, we are like the dead.

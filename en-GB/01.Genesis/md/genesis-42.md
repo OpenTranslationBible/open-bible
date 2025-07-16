@@ -22,13 +22,13 @@ Joseph was the governor of the land, the one who sold grain to all its people. W
 Upon seeing his brothers, Joseph recognised them, but he disguised himself and spoke harshly to them. “Where do you come from?” he asked. “From the land of Canaan,” they replied, “to buy food.”
 
 ## Genesis 42:8
-Although Joseph recognised his brothers, they did not recognise him.
+Joseph knew his brothers, but they did not recognise him.
 
 ## Genesis 42:9
 Joseph remembered the dreams he had about them and said, “You are spies! You have come to see where our land is unprotected.”
 
 ## Genesis 42:10
-“No, my lord,” they answered, “your servants have come to buy food.
+They responded, “No, my lord. We, your servants, have come to buy food.
 
 ## Genesis 42:11
 We are all sons of one man. We are honest men, not spies.”
@@ -49,13 +49,13 @@ This is how you will be tested: by the life of Pharaoh, you shall not leave this
 Send one of your number to get your brother; the rest of you will remain confined, so that your words may be tested to see if you are telling the truth. Otherwise, by the life of Pharaoh, you are spies!”
 
 ## Genesis 42:17
-And he put them all in custody for three days.
+And he had them all held in custody for three days.
 
 ## Genesis 42:18
 On the third day, Joseph said to them, “Do this and you will live, for I fear God:
 
 ## Genesis 42:19
-If you are honest men, let one of your brothers stay here in prison, while the rest of you go and take grain back for your starving households.
+If you are honest men, let one of your brothers stay here in confinement, while the rest of you go and take grain back for your hungry households.
 
 ## Genesis 42:20
 But you must bring your youngest brother to me, so that your words may be verified and you will not die.” And they agreed to do so.
@@ -67,7 +67,7 @@ They said to one another, “Surely we are being punished because of our brother
 Reuben responded, “Did I not tell you not to sin against the boy? But you would not listen! Now justice for his blood is required.”
 
 ## Genesis 42:23
-They did not realise that Joseph could understand them, since he was using an interpreter.
+They were unaware that Joseph could understand them, since he was using an interpreter.
 
 ## Genesis 42:24
 Joseph turned away from them and wept, but then returned and spoke to them again. He took Simeon from them and bound him before their eyes.
@@ -76,7 +76,7 @@ Joseph turned away from them and wept, but then returned and spoke to them again
 Joseph gave orders to fill their bags with grain, to put each man’s silver back in his sack, and to provide them with provisions for their journey. This was done for them.
 
 ## Genesis 42:26
-They loaded their grain on their donkeys and departed.
+They loaded their grain onto their donkeys and set out.
 
 ## Genesis 42:27
 At the place where they stopped for the night, one of them opened his sack to feed his donkey, and he saw his silver in the mouth of his sack.

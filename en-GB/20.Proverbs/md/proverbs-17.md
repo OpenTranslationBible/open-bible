@@ -16,7 +16,7 @@ An evildoer listens to deceitful lips; a liar heeds a harmful tongue.
 Whoever mocks the poor insults their Maker; whoever rejoices at calamity will not go unpunished.
 
 ## Proverbs 17:6
-Grandchildren are the crown of the elderly, and the glory of children is their parents.
+Grandchildren are the pride of the elderly, and the honor of children is found in their parents.
 
 ## Proverbs 17:7
 Eloquent speech is unfitting for a fool, much less lying lips for a leader.
@@ -49,7 +49,7 @@ Justifying the wicked and condemning the righteous are both detestable to the Lo
 Why should a fool have money to buy wisdom when he has no understanding?
 
 ## Proverbs 17:17
-A friend loves at all times, and a brother is born for a time of adversity.
+A friend loves at all times, and a sibling is there for times of adversity.
 
 ## Proverbs 17:18
 One lacking sense shakes hands in pledge and becomes surety for a neighbour.
@@ -73,7 +73,7 @@ A wicked person accepts a bribe in secret to pervert the course of justice.
 Wisdom is in the presence of one who has understanding, but the eyes of a fool wander to the ends of the earth.
 
 ## Proverbs 17:25
-A foolish son brings grief to his father and bitterness to the mother who bore him.
+A foolish son brings grief to his father and sorrow to the mother who gave him birth.
 
 ## Proverbs 17:26
 It is not good to punish the innocent, nor to flog the upright for their integrity.

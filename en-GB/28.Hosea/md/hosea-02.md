@@ -1,7 +1,7 @@
 # Hosea Chapter 2
 
 ## Hosea 2:1
-Say to your brothers, “My people,” and to your sisters, “My loved one.”
+Speak to your brothers, “My people,” and to your sisters, “My beloved.”
 
 ## Hosea 2:2
 “Contend with your mother, contend, for she is not my wife, and I am not her husband. Let her remove her infidelity from her face and her adultery from between her breasts.
@@ -46,7 +46,7 @@ I will punish her for the days she burned incense to the Baals; she adorned hers
 There I will give her back her vineyards, and make the Valley of Achor a door of hope. There she will respond as in the days of her youth, as in the day she came up from the land of Egypt.
 
 ## Hosea 2:16
-“In that day,” declares the Lord, “you will call me ‘my husband’; you will no longer call me ‘my master.’
+“At that time,” declares the Lord, “you will call me ‘my husband’; you will no longer call me ‘my master.’
 
 ## Hosea 2:17
 I will remove the names of the Baals from her lips; they will no longer be mentioned by their names.
@@ -55,13 +55,13 @@ I will remove the names of the Baals from her lips; they will no longer be menti
 On that day I will make a covenant for them with the beasts of the field, the birds of the sky, and the creatures that move along the ground. I will abolish bow, sword, and war from the land, so that all may lie down in safety.
 
 ## Hosea 2:19
-I will betroth you to me forever; I will betroth you in righteousness and justice, in love and compassion.
+I will pledge you to me forever; I will pledge you in righteousness and justice, in love and compassion.
 
 ## Hosea 2:20
-I will betroth you in faithfulness, and you will know the Lord.
+I will pledge you in faithfulness, and you will know the Lord.
 
 ## Hosea 2:21
-“In that day I will respond,” declares the Lord— “I will respond to the heavens, and they will respond to the earth;
+“At that time I will respond,” declares the Lord— “I will respond to the heavens, and they will respond to the earth;
 
 ## Hosea 2:22
 and the earth will respond to the grain, the new wine and the oil, and they will respond to Jezreel.

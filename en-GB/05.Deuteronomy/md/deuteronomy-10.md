@@ -40,7 +40,7 @@ And now, Israel, what does the Lord your God ask of you but to fear the Lord you
 and to observe the Lord’s commandments and decrees that I am giving you today for your benefit?
 
 ## Deuteronomy 10:14
-To the Lord your God belong the heavens, even the highest heavens, the earth and everything in it.
+The heavens, even the highest heavens, the earth and everything in it, belong to the Lord your God.
 
 ## Deuteronomy 10:15
 Yet the Lord set His affection on your ancestors and loved them, and He chose you, their descendants, above all the other nations, as it is today.
@@ -55,10 +55,10 @@ For the Lord your God is the God of gods and the Lord of lords, the great, might
 He defends the cause of the fatherless and the widow, and loves the foreigner residing among you, providing them with food and clothing.
 
 ## Deuteronomy 10:19
-And you are to love those who are foreigners, for you yourselves were foreigners in Egypt.
+Show love to those who are foreigners, for you yourselves were foreigners in Egypt.
 
 ## Deuteronomy 10:20
-Fear the Lord your God and serve Him. Hold fast to Him and take your oaths in His name.
+Revere the Lord your God and serve Him. Stay close to Him and make your oaths in His name.
 
 ## Deuteronomy 10:21
 He is your praise, and He is your God, who has performed for you those great and awesome wonders you witnessed with your own eyes.

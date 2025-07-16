@@ -34,7 +34,7 @@ In every case of illegal possession, whether it concerns an ox, a donkey, a shee
 an oath before the Lord shall be made by both parties that the neighbour did not lay hands on the other’s property. The owner must accept this and no restitution is required.
 
 ## Exodus 22:12
-But if the animal was stolen from the neighbour, restitution must be made to the owner.
+However, if the animal was taken by theft from the neighbour, the owner must be compensated.
 
 ## Exodus 22:13
 If it was torn to pieces by a wild animal, the neighbour must bring the remains as evidence and shall not be required to pay for the torn animal.
@@ -52,7 +52,7 @@ If the owner is with the animal, the borrower will not be required to pay. If th
 If her father refuses to give her to him, he must pay an amount equal to the dowry for virgins.
 
 ## Exodus 22:18
-“Do not allow a sorceress to live.
+“Do not permit a sorceress to continue living.
 
 ## Exodus 22:19
 “Anyone who has sexual relations with an animal shall be put to death.
@@ -76,19 +76,19 @@ My anger will be kindled, and I will kill you with the sword, and your wives sha
 “If you lend money to my people, to the needy among you, do not act as a creditor; charge no interest.
 
 ## Exodus 22:26
-If you take your neighbour’s cloak as a pledge, return it by sunset,
+If you take your neighbour’s cloak as a pledge, ensure it is returned by sunset,
 
 ## Exodus 22:27
 for it is their only covering, the cloak for their body. What else can they sleep in? When they cry out to me, I will listen, for I am compassionate.
 
 ## Exodus 22:28
-“Do not blaspheme God or curse the ruler of your people.
+“Do not speak against God or curse the leader of your people.
 
 ## Exodus 22:29
 “Do not hold back offerings from your granaries or your wine. You must give me the firstborn of your sons.
 
 ## Exodus 22:30
-Do the same with your cattle and your sheep. Let them stay with their mothers for seven days, but give them to me on the eighth day.
+Do likewise with your cattle and your sheep. Let them stay with their mothers for seven days, but present them to me on the eighth day.
 
 ## Exodus 22:31
 “You are to be holy people to me. Therefore, do not eat the meat of an animal torn by wild beasts; throw it to the dogs.

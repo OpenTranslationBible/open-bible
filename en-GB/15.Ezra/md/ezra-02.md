@@ -162,11 +162,11 @@ They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 
 ## Ezra 2:40
 
-> The Levites: the descendants of Jeshua and Kadmiel, of the line of Hodaviah, 74.
+> The Levites: the family of Jeshua and Kadmiel, from the line of Hodaviah, 74.
 
 ## Ezra 2:41
 
-> The musicians: the descendants of Asaph, 128.
+> The musicians: the family of Asaph, 128.
 
 ## Ezra 2:42
 
@@ -245,7 +245,7 @@ the descendants of Sotai, Hassophereth, Peruda,
 
 ## Ezra 2:58
 
-The temple servants and the descendants of the servants of Solomon totalled 392.
+The temple servants and the descendants of the servants of Solomon totaled 392.
 
 ## Ezra 2:59
 
@@ -253,7 +253,7 @@ These were the ones who came up from Tel Melah, Tel Harsha, Cherub, Addon, and I
 
 ## Ezra 2:60
 
-The descendants of Delaiah, Tobiah, and Nekoda, 652.
+The families of Delaiah, Tobiah, and Nekoda, 652.
 
 ## Ezra 2:61
 
@@ -265,11 +265,11 @@ And from among the priests:
 
 ## Ezra 2:62
 
-> These searched for their family records, but they could not find them, and so were excluded from the priesthood as unclean.
+> They searched for their family records but could not find them, and thus were excluded from the priesthood as unclean.
 
 ## Ezra 2:63
 
-> The governor ordered them not to eat any of the most sacred food until there was a priest ministering with the Urim and Thummim.
+> The governor instructed them not to partake of the most sacred food until there was a priest ministering with the Urim and Thummim.
 
 ---
 
@@ -293,14 +293,14 @@ They had 736 horses, 245 mules,
 
 ## Ezra 2:68
 
-When they arrived at the house of the Lord in Jerusalem, some of the heads of the families gave freewill offerings towards the rebuilding of the house of God on its site.
+Upon arriving at the house of the Lord in Jerusalem, some of the family heads gave voluntary offerings towards the rebuilding of the house of God on its site.
 
 ## Ezra 2:69
 
-According to their ability, they gave to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.
+In accordance with their ability, they contributed to the treasury for this work 61,000 darics of gold, 5,000 minas of silver, and 100 priestly garments.
 
 ---
 
 ## Ezra 2:70
 
-The priests, the Levites, the musicians, the gatekeepers, and the temple servants settled in their own towns, along with some of the other people, and the rest of the Israelites settled in their towns.
+The priests, the Levites, the musicians, the gatekeepers, and the temple servants settled in their own towns, along with some of the other people, while the rest of the Israelites settled in their towns.

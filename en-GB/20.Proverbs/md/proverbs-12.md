@@ -55,13 +55,13 @@ An honest witness speaks truthfully, but a false witness speaks deceit.
 Rash words pierce like swords, but the tongue of the wise brings healing.
 
 ## Proverbs 12:19
-Truthful lips endure forever, but a lying tongue lasts only a moment.
+Truthful speech is enduring, but deceitful words are short-lived.
 
 ## Proverbs 12:20
 Deceit is in the hearts of those who plot evil, but those who promote peace have joy.
 
 ## Proverbs 12:21
-No harm befalls the righteous, but the wicked are filled with trouble.
+The righteous encounter no lasting harm, but the wicked are filled with trouble.
 
 ## Proverbs 12:22
 The Lord detests lying lips, but He delights in those who are trustworthy.
@@ -73,10 +73,10 @@ The prudent keep their knowledge to themselves, but the heart of fools blurts ou
 Diligent hands will rule, but laziness leads to forced labour.
 
 ## Proverbs 12:25
-Anxiety weighs down the heart, but a kind word cheers it up.
+Anxiety burdens the heart, but a kind word lifts it up.
 
 ## Proverbs 12:26
-The righteous choose their friends carefully, but the way of the wicked leads them astray.
+The righteous are careful in choosing their friends, but the way of the wicked leads them astray.
 
 ## Proverbs 12:27
 The lazy do not roast their game, but the diligent make use of their resources.

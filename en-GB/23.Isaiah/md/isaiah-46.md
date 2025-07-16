@@ -16,7 +16,7 @@ Even to your old age and grey hairs I will be the same; I am he who will carry y
 “To whom will you liken me or make me equal? To whom will you compare me that we may be alike?
 
 ## Isaiah 46:6
-Some pour out gold from their bags and weigh out silver on the scales; they hire a goldsmith to make it into a god, and they bow down and worship it.
+Some take gold from their bags and measure out silver on the scales; they employ a goldsmith to fashion it into a deity, and they bow down and worship it.
 
 ## Isaiah 46:7
 They lift it to their shoulders and carry it; they set it in its place, and there it stands. It cannot move from its spot. Though one cries out to it, it cannot answer; it cannot save them from their distress.

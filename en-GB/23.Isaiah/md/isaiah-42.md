@@ -19,10 +19,10 @@ This is what God the Lord says, who created the heavens and stretched them out, 
 “I am the Lord; I have called you in righteousness, I will hold you by the hand and watch over you, and I will appoint you as a covenant to the people, a light to the nations,
 
 ## Isaiah 42:7
-to open blind eyes, to bring out prisoners from the dungeon, and those who dwell in darkness from the prison.
+to give sight to the blind, to free captives from confinement, and those who reside in darkness from their imprisonment.
 
 ## Isaiah 42:8
-I am the Lord; that is my name! I will not give my glory to another, nor my praise to idols.
+I am the Lord; this is my name! I will not share my glory with another, nor my praise with idols.
 
 ## Isaiah 42:9
 Behold, the former things have come to pass, and new things I declare; before they spring forth I announce them to you.”
@@ -52,13 +52,13 @@ I will lead the blind by ways they have not known, along unfamiliar paths I will
 They will be turned back and utterly shamed, those who trust in idols, who say to cast images, ‘You are our gods.’
 
 ## Isaiah 42:18
-Hear, you deaf; look, you blind, and see!
+Listen, you deaf; look, you blind, and see!
 
 ## Isaiah 42:19
 Who is blind but my servant, or so deaf as my messenger whom I send? Who is so blind as the one in covenant with me, or so blind as the servant of the Lord?
 
 ## Isaiah 42:20
-You have seen many things, but you do not retain them; your ears are open, but no one hears.
+You have seen many things, but you do not remember them; your ears are open, but no one listens.
 
 ## Isaiah 42:21
 The Lord was pleased, for his righteousness’ sake, to make his law great and glorious.
@@ -67,7 +67,7 @@ The Lord was pleased, for his righteousness’ sake, to make his law great and g
 But this is a people plundered and pillaged; all of them trapped in pits or hidden away in prisons. They have become plunder, with no one to rescue them; they have been made loot, with no one to say, “Send them back.”
 
 ## Isaiah 42:23
-Who among you will listen to this? Who will pay attention and listen in the time to come?
+Who among you will heed this? Who will pay attention and listen for the future?
 
 ## Isaiah 42:24
 Who gave Jacob up for spoil, and Israel to the plunderers? Was it not the Lord, against whom we have sinned? For they would not follow his ways, nor did they obey his law.

@@ -2,7 +2,7 @@
 
 ## Ezekiel 25:1
 
-The word of the Lord came to me, saying:
+The message from the Lord reached me:
 
 ## Ezekiel 25:2
 
@@ -40,7 +40,7 @@ therefore, behold, I will expose the flank of Moab, beginning with its frontier 
 
 ## Ezekiel 25:10
 
-I will give Moab along with the Ammonites to the people of the East as a possession, so that the Ammonites will not be remembered among the nations;
+I will deliver Moab along with the Ammonites to the people of the East as a possession, ensuring that the Ammonites are forgotten among the nations;
 
 ## Ezekiel 25:11
 
@@ -70,4 +70,4 @@ therefore this is what the Lord God says: Behold, I am about to stretch out my h
 
 ## Ezekiel 25:17
 
-I will execute great vengeance on them with wrathful rebukes; and they will know that I am the Lord, when I inflict my vengeance on them.’”
+I will carry out great vengeance on them with furious rebukes; and they will know that I am the Lord, when I bring my vengeance upon them.’”

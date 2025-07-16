@@ -32,7 +32,7 @@ Haman thought to himself, “Whom would the king wish to honour more than me?”
 
 ## Esther 6:7
 
-So Haman said to the king, “For the man whom the king wishes to honour,
+So Haman replied to the king, “For the individual whom the king desires to honour,
 
 ## Esther 6:8
 

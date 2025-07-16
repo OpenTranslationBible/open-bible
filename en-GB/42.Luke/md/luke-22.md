@@ -44,7 +44,7 @@ He replied, “As you enter the city, a man carrying a jar of water will meet yo
 
 ## Luke 22:11
 
-and say to the owner of the house, ‘The Teacher asks: Where is the guest room where I may eat the Passover with my disciples?’
+and say to the owner of the house, ‘The Teacher inquires: Where is the guest room for me to eat the Passover with my disciples?’
 
 ## Luke 22:12
 
@@ -66,7 +66,7 @@ He said to them, “I have eagerly desired to eat this Passover with you before 
 
 ## Luke 22:16
 
-For I say to you, I will not eat it again until it is fulfilled in the kingdom of God.”
+For I tell you, I will not partake of it again until it finds fulfillment in the kingdom of God.”
 
 ## Luke 22:17
 
@@ -88,7 +88,7 @@ In the same way, after supper, He took the cup, saying, “This cup is the new c
 
 ## Luke 22:21
 
-But behold, the hand of the one betraying me is with mine on the table.
+But see, the hand of the one betraying me is with mine on the table.
 
 ## Luke 22:22
 
@@ -122,7 +122,7 @@ You are those who have stood by me in my trials.
 
 ## Luke 22:29
 
-And I confer on you a kingdom, just as my Father conferred one on me,
+And I grant you a kingdom, just as my Father granted one to me,
 
 ## Luke 22:30
 
@@ -136,11 +136,11 @@ so that you may eat and drink at my table in my kingdom and sit on thrones, judg
 
 ## Luke 22:32
 
-But I have prayed for you, Simon, that your faith may not fail. And when you have turned back, strengthen your brothers.”
+But I have prayed for you, Simon, that your faith may not fail. And when you have returned, strengthen your brothers.”
 
 ## Luke 22:33
 
-But he replied, “Lord, I am ready to go with you to prison and to death.”
+But he replied, “Lord, I am ready to accompany you to prison and to death.”
 
 ## Luke 22:34
 
@@ -168,7 +168,7 @@ The disciples said, “See, Lord, here are two swords.” He replied, “That’
 
 ## Luke 22:39
 
-Jesus went out as usual to the Mount of Olives, and His disciples followed Him.
+Jesus went out as He usually did to the Mount of Olives, and His disciples followed Him.
 
 ## Luke 22:40
 
@@ -218,7 +218,7 @@ And one of them struck the servant of the high priest, cutting off his right ear
 
 ## Luke 22:51
 
-But Jesus answered, “No more of this!” And He touched the man’s ear and healed him.
+But Jesus responded, “No more of this!” And He touched the man’s ear and healed him.
 
 ## Luke 22:52
 
@@ -298,7 +298,7 @@ But from now on, the Son of Man will be seated at the right hand of the power of
 
 ## Luke 22:70
 
-They all asked, “Are you then the Son of God?” He replied, “You say that I am.”
+They all asked, “Are you then the Son of God?” He replied, “You say so.”
 
 ## Luke 22:71
 

@@ -25,7 +25,7 @@ I will also deliver you and this city from the hand of the king of Assyria. I wi
 I will make the shadow cast by the sun go back ten steps on the stairway of Ahaz.’” So the shadow went back the ten steps it had descended.
 
 ## Isaiah 38:9
-This is a writing of Hezekiah, king of Judah, after his illness and recovery:
+This is the account of Hezekiah, king of Judah, after he was ill and recovered:
 
 ## Isaiah 38:10
 I said, “In the middle of my days I must pass through the gates of Sheol and be deprived of the rest of my years.”
@@ -61,7 +61,7 @@ The living, the living—they give thanks to you, as I do today; parents tell th
 The Lord will save me, and we will sing with stringed instruments all the days of our lives in the house of the Lord.
 
 ## Isaiah 38:21
-Isaiah had said, “Prepare a poultice of figs and apply it to the boil, and he will recover.”
+Isaiah had instructed, “Prepare a poultice of figs and apply it to the boil, and he will recover.”
 
 ## Isaiah 38:22
 Hezekiah had asked, “What will be the sign that I will go up to the house of the Lord?”

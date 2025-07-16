@@ -29,7 +29,7 @@ But He gives us greater grace. This is why the Scripture says:
 
 ## James 4:7
 
-Therefore, submit yourselves to God. Resist the devil, and he will flee from you.
+So, place yourselves under God's authority. Stand against the devil, and he will flee from you.
 
 ## James 4:8
 
@@ -61,7 +61,7 @@ Yet you do not know what your life will be like tomorrow. You are a mist that ap
 
 ## James 4:15
 
-Instead, you ought to say, “If it is the Lord’s will, we will live and do this or that.”
+Rather, you should say, “If it is the Lord’s will, we will live and do this or that.”
 
 ## James 4:16
 

@@ -34,7 +34,7 @@ Compassionate women have boiled their own children; they became food for them du
 The Lord has exhausted His wrath, He has poured out His fierce anger. He kindled a fire in Zion that consumed its foundations.
 
 ## Lamentations 4:12
-The kings of the earth did not believe, nor did any of the inhabitants of the world, that the adversary and the enemy could enter the gates of Jerusalem.
+Neither the kings of the earth nor any of the world's inhabitants believed that the adversary and the enemy could enter the gates of Jerusalem.
 
 ## Lamentations 4:13
 This happened due to the sins of her prophets and the iniquities of her priests, who shed the blood of the righteous within her.

@@ -2,7 +2,7 @@
 
 ## Jeremiah 18:1
 
-The word that came to Jeremiah from the Lord, saying:
+The message that was given to Jeremiah from the Lord, saying:
 
 ## Jeremiah 18:2
 
@@ -68,7 +68,7 @@ Their land will become a desolation, an object of perpetual scorn; all who pass 
 
 ## Jeremiah 18:17
 
-Like an east wind, I will scatter them before the enemy; I will show them My back and not My face in the day of their calamity.’”
+Like a strong east wind, I will scatter them before the enemy; I will turn away from them and not show My face in the day of their calamity.
 
 ## Jeremiah 18:18
 

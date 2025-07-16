@@ -49,7 +49,7 @@ He kissed all his brothers and wept over them. Afterwards, his brothers talked w
 When the news reached Pharaoh’s house that Joseph’s brothers had come, it pleased Pharaoh and his servants.
 
 ## Genesis 45:17
-Pharaoh said to Joseph, “Tell your brothers, ‘Do this: Load your animals and return to the land of Canaan,
+Pharaoh instructed Joseph, “Tell your brothers, ‘Here is what you should do: Load your animals and return to the land of Canaan,
 
 ## Genesis 45:18
 and bring your father and your households back to me. I will give you the best of the land of Egypt, and you shall enjoy the fat of the land.’
@@ -64,7 +64,7 @@ Do not worry about your belongings, for the best of all the land of Egypt is you
 The sons of Israel did so. Joseph gave them wagons, as Pharaoh had commanded, and also provided them with provisions for the journey.
 
 ## Genesis 45:22
-To each of them he gave changes of garments, but to Benjamin he gave three hundred pieces of silver and five changes of garments.
+He gave each of them changes of garments, but to Benjamin, he gave three hundred pieces of silver and five changes of garments.
 
 ## Genesis 45:23
 To his father he sent the following: ten donkeys loaded with the best things of Egypt, and ten female donkeys loaded with grain, bread, and provisions for the journey.
@@ -82,4 +82,4 @@ They told him, “Joseph is still alive, and indeed he is ruler over all Egypt.�
 But when they recounted to him all the words Joseph had spoken to them, and when he saw the wagons Joseph had sent to carry him, the spirit of their father Jacob revived.
 
 ## Genesis 45:28
-Then Israel said, “It is enough; my son Joseph is still alive. I will go and see him before I die.”
+Then Israel declared, “This is enough; my son Joseph is still alive. I will go and see him before I die.”

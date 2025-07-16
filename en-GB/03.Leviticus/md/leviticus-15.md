@@ -10,7 +10,7 @@ The Lord spoke to Moses and Aaron, saying,
 This is his uncleanness in his discharge: whether his body allows its discharge to flow or obstructs it, it is his uncleanness.
 
 ## Leviticus 15:4
-Every bed on which the man with the discharge lies shall be unclean, and everything on which he sits shall be unclean.
+Any bed on which the man with the discharge lies becomes unclean, and anything he sits on is also unclean.
 
 ## Leviticus 15:5
 Anyone who touches his bed must wash their clothes and bathe in water and be unclean until evening.
@@ -58,7 +58,7 @@ If a man has sexual relations with a woman and there is an emission of semen, bo
 When a woman has a discharge, if her discharge is blood, she shall be in her menstrual impurity for seven days, and whoever touches her shall be unclean until evening.
 
 ## Leviticus 15:20
-Everything on which she lies during her menstrual impurity shall be unclean, and everything on which she sits shall be unclean.
+Anything she lies on during her menstrual impurity becomes unclean, and anything she sits on is also unclean.
 
 ## Leviticus 15:21
 Anyone who touches her bed must wash their clothes and bathe in water and be unclean until evening.

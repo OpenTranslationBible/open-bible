@@ -31,7 +31,7 @@ As we have said before, so now I say again: if anyone is preaching to you a gosp
 Am I now seeking the approval of people, or of God? Or am I trying to please people? If I were still trying to please people, I would not be a servant of Christ.
 
 ## Galatians 1:11
-I want you to know, brothers and sisters, that the gospel I preached is not of human origin.
+I want you to understand, dear friends, that the gospel I proclaimed is not derived from human sources.
 
 ## Galatians 1:12
 I did not receive it from any man, nor was I taught it; rather, I received it through a revelation from Jesus Christ.
@@ -55,7 +55,7 @@ nor did I go up to Jerusalem to those who were apostles before me, but I went in
 Then after three years, I went up to Jerusalem to get acquainted with Cephas and stayed with him for fifteen days.
 
 ## Galatians 1:19
-I saw none of the other apostles except James, the Lord’s brother.
+I met none of the other apostles except James, the Lord’s brother.
 
 ## Galatians 1:20
 I assure you before God that what I am writing to you is not a lie.
@@ -64,7 +64,7 @@ I assure you before God that what I am writing to you is not a lie.
 Then I went to the regions of Syria and Cilicia.
 
 ## Galatians 1:22
-I was still unknown by sight to the churches of Judea that are in Christ.
+I remained unknown by face to the churches of Judea that are in Christ.
 
 ## Galatians 1:23
 They only heard the report: “The man who once persecuted us is now preaching the faith he once tried to destroy.”

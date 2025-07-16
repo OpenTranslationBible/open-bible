@@ -24,7 +24,7 @@ As the disciples went across to the other side of the sea, they realised they ha
 
 ## Matthew 16:6
 
-Jesus said to them, “Watch out and be on your guard against the leaven of the Pharisees and Sadducees.”
+Jesus cautioned them, “Be careful and stay alert against the influence of the Pharisees and Sadducees.”
 
 ## Matthew 16:7
 
@@ -54,11 +54,11 @@ Then they understood that He was not telling them to beware of the leaven used i
 
 ## Matthew 16:13
 
-When Jesus came into the region of Caesarea Philippi, He asked His disciples, “Who do people say the Son of Man is?”
+When Jesus arrived in the region of Caesarea Philippi, He asked His disciples, “Who do people say the Son of Man is?”
 
 ## Matthew 16:14
 
-They replied, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.”
+They answered, “Some say John the Baptist; others say Elijah; and still others, Jeremiah or one of the prophets.”
 
 ## Matthew 16:15
 
@@ -70,11 +70,11 @@ Simon Peter answered, “You are the Christ, the Son of the living God.”
 
 ## Matthew 16:17
 
-Jesus replied, “Blessed are you, Simon son of Jonah, for this was not revealed to you by flesh and blood, but by My Father in heaven.
+Jesus replied, “Blessed are you, Simon son of Jonah, for this was not revealed to you by human means, but by My Father in heaven.
 
 ## Matthew 16:18
 
-And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not overcome it.
+And I tell you that you are Peter, and on this rock I will build My church, and the gates of Hades will not prevail against it.
 
 ## Matthew 16:19
 
@@ -106,7 +106,7 @@ Then Jesus said to His disciples, “If anyone wants to follow Me, he must deny 
 
 ## Matthew 16:25
 
-For whoever wants to save his life will lose it, but whoever loses his life for My sake will find it.
+For whoever desires to save his life will lose it, but whoever loses his life for My sake will find it.
 
 ## Matthew 16:26
 
@@ -114,8 +114,8 @@ What good will it be for someone to gain the whole world, yet forfeit his soul? 
 
 ## Matthew 16:27
 
-For the Son of Man is going to come in His Father’s glory with His angels, and then He will reward each person according to what they have done.
+For the Son of Man is going to come in His Father’s glory with His angels, and then He will reward each person according to their deeds.
 
 ## Matthew 16:28
 
-“Truly I tell you, some who are standing here will not taste death before they see the Son of Man coming in His kingdom.”
+“Truly I tell you, some who are standing here will not experience death before they see the Son of Man coming in His kingdom.”

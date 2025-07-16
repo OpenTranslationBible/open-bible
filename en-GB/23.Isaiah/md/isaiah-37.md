@@ -13,7 +13,7 @@ They said to him, “This is what Hezekiah says: ‘This day is one of distress,
 Perhaps the Lord your God will hear the words of the field commander, whom his master, the king of Assyria, has sent to mock the living God, and will rebuke the words which the Lord your God has heard. Therefore, pray for the remnant that remains.’”
 
 ## Isaiah 37:5
-So the servants of King Hezekiah went to Isaiah.
+The messengers of King Hezekiah went to Isaiah.
 
 ## Isaiah 37:6
 Isaiah said to them, “This is what you shall say to your master: ‘This is what the Lord says: Do not be afraid of the words you have heard, with which the servants of the king of Assyria have blasphemed me.
@@ -100,10 +100,10 @@ For out of Jerusalem will come a remnant, and out of Mount Zion a band of surviv
 “Therefore, this is what the Lord says concerning the king of Assyria: ‘He will not enter this city or shoot an arrow there. He will not come before it with a shield or build a siege ramp against it.
 
 ## Isaiah 37:34
-By the way that he came, he will return; he will not enter this city,’ declares the Lord.
+He will return by the same way he came; he will not enter this city,’ declares the Lord.
 
 ## Isaiah 37:35
-‘I will defend this city and save it, for my sake and for the sake of my servant David.’”
+‘I will protect this city and save it, for my sake and for the sake of my servant David.’”
 
 ## Isaiah 37:36
 Then the angel of the Lord went out and struck down 185,000 in the camp of the Assyrians. When the people arose early in the morning, behold, all these were dead bodies.

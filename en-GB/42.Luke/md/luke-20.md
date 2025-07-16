@@ -10,7 +10,7 @@ They spoke to Him, saying, “Tell us by what authority You are doing these thin
 
 ## Luke 20:3
 
-He answered them, “I will also ask you a question. Tell me:
+He responded to them, “I will also ask you something. Let me know:
 
 ## Luke 20:4
 
@@ -64,7 +64,7 @@ So they threw him out of the vineyard and killed him. What then will the owner o
 
 ## Luke 20:16
 
-He will come and kill those tenants and give the vineyard to others.” When the people heard this, they said, “God forbid!”
+He will come and deal with those tenants and give the vineyard to others.” When the people heard this, they said, “May it never be!”
 
 ## Luke 20:17
 
@@ -75,7 +75,7 @@ Jesus looked directly at them and said, “Then what is the meaning of that whic
 
 ## Luke 20:18
 
-Everyone who falls on that stone will be broken to pieces; but on whomever it falls, it will crush him.”
+Everyone who stumbles over that stone will be broken; but on whomever it falls, it will crush him.”
 
 ## Luke 20:19
 
@@ -123,7 +123,7 @@ Some of the Sadducees, who say there is no resurrection, came to Him with a ques
 
 ## Luke 20:29
 
-Now there were seven brothers. The first one married a woman and died childless.
+Now there were seven brothers. The first one married a woman and died without children.
 
 ## Luke 20:30
 
@@ -131,7 +131,7 @@ The second
 
 ## Luke 20:31
 
-and then the third married her, and in the same way the seven died, leaving no children.
+and then the third married her, and similarly, all seven died, leaving no children.
 
 ## Luke 20:32
 
@@ -139,7 +139,7 @@ Finally, the woman also died.
 
 ## Luke 20:33
 
-Now then, at the resurrection whose wife will she be, since the seven were married to her?”
+Now then, at the resurrection whose wife will she be, since all seven were married to her?”
 
 ## Luke 20:34
 
@@ -191,7 +191,7 @@ David calls Him ‘Lord.’ How then can He be his son?”
 
 ## Luke 20:45
 
-While all the people were listening, He said to His disciples,
+As all the people were listening, He said to His disciples,
 
 ## Luke 20:46
 

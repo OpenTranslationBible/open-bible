@@ -22,7 +22,7 @@ Therefore, keep the commandments of the Lord your God, to walk in His ways and t
 For the Lord your God is bringing you into a good land, a land with streams, fountains, and springs, flowing out in valleys and hills;
 
 ## Deuteronomy 8:8
-a land of wheat and barley, of vines, fig trees, and pomegranates, a land of olive oil and honey;
+a land rich with wheat and barley, vines, fig trees, and pomegranates, abundant in olive oil and honey;
 
 ## Deuteronomy 8:9
 a land where you will eat without scarcity, where you will lack nothing; a land whose stones are iron, and from whose hills you can extract copper.
@@ -37,7 +37,7 @@ Be careful not to forget the Lord your God by failing to keep His commandments, 
 otherwise, when you eat and are satisfied, and you build fine houses and live in them,
 
 ## Deuteronomy 8:13
-and when your herds and flocks grow large, and your silver and gold increase, and all you have is multiplied,
+and when your herds and flocks grow large, and your silver and gold increase, and all your possessions multiply,
 
 ## Deuteronomy 8:14
 then your heart will become proud and you will forget the Lord your God who brought you out of Egypt, out of the house of slavery.

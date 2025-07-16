@@ -7,7 +7,7 @@ Miriam and Aaron spoke against Moses on account of the Cushite woman he had marr
 They said, “Has the Lord spoken only through Moses? Has He not spoken through us as well?” And the Lord heard it.
 
 ## Numbers 12:3
-(Now Moses was a very humble man, more humble than anyone else on the face of the earth.)
+(Moses was an exceedingly humble man, more so than anyone else on the face of the earth.)
 
 ## Numbers 12:4
 Suddenly, the Lord said to Moses, Aaron, and Miriam, “Come out to the tent of meeting, all three of you.” So they went out.
@@ -37,7 +37,7 @@ Aaron said to Moses, “Oh, my lord, I beg you, do not hold this sin against us,
 Please, do not let her be like a stillborn infant whose flesh is half eaten away at birth.”
 
 ## Numbers 12:13
-So Moses cried out to the Lord, “Please, God, heal her!”
+So Moses earnestly pleaded with the Lord, “Please, God, heal her!”
 
 ## Numbers 12:14
 The Lord replied to Moses, “If her father had spit in her face, would she not be in disgrace for seven days? Confine her outside the camp for seven days; after that, she may be brought back.”

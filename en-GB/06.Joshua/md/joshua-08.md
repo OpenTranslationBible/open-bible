@@ -28,7 +28,7 @@ They will pursue us until we have drawn them away from the city, for they will s
 
 ## Joshua 8:7
 
-Then you shall rise from the ambush and seize the city, for the Lord your God will deliver it into your hand.
+Then you shall rise from your hiding place and take control of the city, for the Lord your God will give it into your hands.
 
 ## Joshua 8:8
 
@@ -104,7 +104,7 @@ When Israel had finished killing all the inhabitants of Ai in the fields and in 
 
 ## Joshua 8:25
 
-Twelve thousand men and women fell that day—all the people of Ai.
+On that day, twelve thousand men and women of Ai perished—all its people.
 
 ## Joshua 8:26
 
@@ -132,7 +132,7 @@ as Moses the servant of the Lord had commanded the Israelites, as it is written 
 
 ## Joshua 8:32
 
-There, in the presence of the Israelites, Joshua wrote on stones a copy of the Law of Moses.
+In the sight of the Israelites, Joshua inscribed on stones a copy of the law of Moses.
 
 ## Joshua 8:33
 
@@ -140,7 +140,7 @@ All Israel, with their elders, officials, and judges, stood on both sides of the
 
 ## Joshua 8:34
 
-Afterward, Joshua read all the words of the law—the blessings and the curses—just as it is written in the Book of the Law.
+Afterward, Joshua recited all the words of the law—the blessings and the curses—just as they are recorded in the Book of the Law.
 
 ## Joshua 8:35
 

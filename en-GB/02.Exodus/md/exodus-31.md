@@ -1,7 +1,7 @@
 # Exodus Chapter 31
 
 ## Exodus 31:1
-Then the Lord spoke to Moses, saying,
+The Lord communicated to Moses,
 
 ## Exodus 31:2
 “See, I have chosen Bezalel, son of Uri, the son of Hur, from the tribe of Judah.
@@ -34,7 +34,7 @@ and the woven garments, the sacred garments for Aaron the priest, and the garmen
 as well as the anointing oil and the fragrant incense for the Holy Place. They are to make them according to all that I have commanded you.”
 
 ## Exodus 31:12
-Then the Lord said to Moses,
+The Lord then said to Moses,
 
 ## Exodus 31:13
 “Speak to the Israelites, saying, ‘You must observe my Sabbaths. This is a sign between me and you for all generations, so that you may know that I am the Lord who makes you holy.

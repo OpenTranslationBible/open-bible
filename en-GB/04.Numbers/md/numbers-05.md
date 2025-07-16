@@ -34,7 +34,7 @@ Each person’s sacred gifts are their own, but whatever is given to the priest 
 The Lord spoke to Moses, saying,
 
 ## Numbers 5:12
-“Speak to the Israelites and say to them: ‘If a man’s wife goes astray and is unfaithful to him,
+“Tell the Israelites: ‘If a man’s wife strays and is unfaithful to him,
 
 ## Numbers 5:13
 and another man has sexual relations with her, and this is concealed from her husband and her impurity is undiscovered, with no witness against her and she has not been caught in the act,

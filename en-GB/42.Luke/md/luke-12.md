@@ -46,7 +46,7 @@ And everyone who speaks a word against the Son of Man will be forgiven, but whoe
 
 ## Luke 12:11
 
-When you are brought before synagogues, rulers, and authorities, do not worry about how you will defend yourselves or what you will say,
+When you are brought before synagogues, rulers, and authorities, do not be anxious about how to defend yourselves or what you will say,
 
 ## Luke 12:12
 
@@ -76,7 +76,7 @@ And he thought to himself, ‘What shall I do, since I have no place to store my
 
 ## Luke 12:18
 
-Then he said, ‘This is what I will do: I will tear down my barns and build larger ones, and there I will store all my grain and my goods.
+Then he said, ‘Here is what I will do: I will tear down my barns and build larger ones, and there I will store all my grain and my goods.
 
 ## Luke 12:19
 
@@ -84,7 +84,7 @@ And I will say to my soul, “You have many goods laid up for many years; take y
 
 ## Luke 12:20
 
-But God said to him, ‘You fool! This very night your soul is required of you; and now who will own what you have prepared?’
+But God said to him, ‘You fool! This very night your life will be demanded from you; and now who will own what you have prepared?’
 
 ## Luke 12:21
 
@@ -130,11 +130,11 @@ For all these things the nations of the world eagerly seek; and your Father know
 
 ## Luke 12:31
 
-But seek His kingdom, and these things will be added to you.
+But seek His kingdom, and these things will be given to you as well.
 
 ## Luke 12:32
 
-Do not be afraid, little flock, for your Father has been pleased to give you the kingdom.
+Do not be afraid, little flock, for your Father is pleased to give you the kingdom.
 
 ## Luke 12:33
 
@@ -148,7 +148,7 @@ For where your treasure is, there your heart will be also.
 
 ## Luke 12:35
 
-“Be dressed ready for service and keep your lamps burning,
+“Be ready for service and keep your lamps burning,
 
 ## Luke 12:36
 
@@ -208,7 +208,7 @@ But the one who does not know and does things deserving punishment will be beate
 
 ## Luke 12:49
 
-“I have come to bring fire on the earth, and how I wish it were already kindled!
+“I have come to cast fire on the earth, and how I wish it were already kindled!
 
 ## Luke 12:50
 
@@ -252,4 +252,4 @@ As you are going with your adversary to the magistrate, make an effort to be rec
 
 ## Luke 12:59
 
-I tell you, you will not get out until you have paid the very last penny.”
+I tell you, you will not be released until you have paid the last penny.”

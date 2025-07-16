@@ -28,13 +28,13 @@ When you build a new house, you must make a parapet for your roof, so that you w
 Do not sow your vineyard with two kinds of seed, or the whole yield, both the crop you plant and the fruit of the vineyard, will be defiled.
 
 ## Deuteronomy 22:10
-Do not plough with an ox and a donkey yoked together.
+Avoid ploughing with an ox and a donkey harnessed together.
 
 ## Deuteronomy 22:11
 Do not wear clothes made of wool and linen woven together.
 
 ## Deuteronomy 22:12
-Make tassels on the four corners of the cloak you wear.
+Attach tassels to the four corners of the cloak you wear.
 
 ## Deuteronomy 22:13
 If a man takes a wife and, after being with her, turns against her
@@ -52,7 +52,7 @@ The girl’s father shall say to the elders, “I gave my daughter to this man a
 Now he has accused her, saying, ‘I did not find your daughter to be a virgin.’ But here is the proof of my daughter’s virginity.” Then they shall display the cloth before the city elders,
 
 ## Deuteronomy 22:18
-and the elders shall take the man and punish him.
+and the elders shall take action against the man and discipline him.
 
 ## Deuteronomy 22:19
 They shall fine him a hundred shekels of silver and give them to the girl’s father, because this man has slandered an Israelite virgin. She shall remain his wife; he must not divorce her as long as he lives.

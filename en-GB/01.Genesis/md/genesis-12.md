@@ -16,16 +16,16 @@ So Abram departed as the Lord had instructed him, and Lot accompanied him. Abram
 He took his wife Sarai, his nephew Lot, all their possessions they had gathered, and the people they had acquired in Haran, and they set out for Canaan. When they arrived in Canaan,
 
 ## Genesis 12:6
-Abram travelled through the land as far as the site of the great tree of Moreh at Shechem. At that time, the Canaanites were in the land.
+Abram journeyed through the land to the site of the great tree of Moreh at Shechem. During that period, the Canaanites inhabited the land.
 
 ## Genesis 12:7
-The Lord appeared to Abram and said, “To your descendants I will give this land.” So he built an altar there to the Lord, who had appeared to him.
+The Lord appeared to Abram and said, “To your descendants I will give this land.” So he built an altar there to the Lord, who had revealed Himself to him.
 
 ## Genesis 12:8
 From there, he moved on to the hill country east of Bethel and pitched his tent, with Bethel on the west and Ai on the east. There he built an altar to the Lord and called upon the name of the Lord.
 
 ## Genesis 12:9
-Then Abram set out and continued towards the Negev.
+Then Abram set out and continued his journey towards the Negev.
 
 ## Genesis 12:10
 There was a famine in the land, so Abram went down to Egypt to live there for a while, because the famine was severe.
@@ -49,7 +49,7 @@ Pharaoh’s officials saw her and praised her to Pharaoh, and she was taken into
 He treated Abram well for her sake, and Abram acquired sheep, oxen, male donkeys, male and female servants, female donkeys, and camels.
 
 ## Genesis 12:17
-But the Lord struck Pharaoh and his household with severe plagues because of Sarai, Abram’s wife.
+But the Lord afflicted Pharaoh and his household with serious plagues because of Sarai, Abram’s wife.
 
 ## Genesis 12:18
 So Pharaoh summoned Abram and said, “What have you done to me? Why did you not tell me she was your wife?

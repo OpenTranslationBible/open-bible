@@ -46,7 +46,7 @@ Abraham named that place The Lord Will Provide. To this day it is said, “On th
 The angel of the Lord called to Abraham from heaven a second time
 
 ## Genesis 22:16
-and said, “By myself I have sworn, declares the Lord, because you have done this and have not withheld your son, your only son,
+and said, “I have sworn by myself, declares the Lord, because you have done this and have not withheld your son, your only son,
 
 ## Genesis 22:17
 I will surely bless you and greatly multiply your descendants like the stars of the heavens and the sand on the seashore. Your descendants will possess the gates of their enemies,

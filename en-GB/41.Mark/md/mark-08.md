@@ -38,7 +38,7 @@ There were about four thousand people present. After dismissing them,
 
 ## Mark 8:10
 
-He got into the boat with His disciples and went to the region of Dalmanutha.
+He boarded the boat with His disciples and traveled to the region of Dalmanutha.
 
 ---
 
@@ -52,7 +52,7 @@ Sighing deeply in His spirit, He said, “Why does this generation ask for a sig
 
 ## Mark 8:13
 
-Then He left them, got back into the boat and crossed to the other side.
+Then He left them, re-entered the boat, and crossed to the other side.
 
 ---
 
@@ -66,7 +66,7 @@ He cautioned them, saying, “Watch out for the leaven of the Pharisees and the 
 
 ## Mark 8:16
 
-They discussed this with one another and said, “It is because we have no bread.”
+They talked among themselves and concluded, “It is because we have no bread.”
 
 ## Mark 8:17
 
@@ -100,11 +100,11 @@ He took the blind man by the hand and led him outside the village. After spittin
 
 ## Mark 8:24
 
-He looked up and said, “I see people; they look like trees walking around.”
+He looked up and said, “I see people; they appear like trees walking around.”
 
 ## Mark 8:25
 
-Once more Jesus put His hands on the man's eyes. Then his eyes were opened, his sight was restored, and he saw everything clearly.
+Jesus placed His hands on the man's eyes again. Then his eyes were opened, his sight was restored, and he saw everything clearly.
 
 ## Mark 8:26
 
@@ -118,7 +118,7 @@ Jesus went out with His disciples to the villages around Caesarea Philippi. On t
 
 ## Mark 8:28
 
-They replied, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.”
+They answered, “Some say John the Baptist; others say Elijah; and still others, one of the prophets.”
 
 ## Mark 8:29
 
@@ -136,7 +136,7 @@ He then began to teach them that the Son of Man must suffer many things and be r
 
 ## Mark 8:32
 
-He spoke plainly about this, and Peter took Him aside and began to rebuke Him.
+He spoke openly about this, and Peter took Him aside and began to rebuke Him.
 
 ## Mark 8:33
 
@@ -154,12 +154,12 @@ For whoever wants to save his life will lose it, but whoever loses his life for 
 
 ## Mark 8:36
 
-What good is it for someone to gain the whole world, yet forfeit their soul?
+What benefit is it for someone to gain the whole world, yet lose their soul?
 
 ## Mark 8:37
 
-Or what can anyone give in exchange for their soul?
+Or what can anyone offer in exchange for their soul?
 
 ## Mark 8:38
 
-If anyone is ashamed of Me and My words in this adulterous and sinful generation, the Son of Man will be ashamed of them when He comes in His Father’s glory with the holy angels.”
+If anyone is ashamed of Me and My words in this unfaithful and sinful generation, the Son of Man will be ashamed of them when He comes in His Father’s glory with the holy angels.”

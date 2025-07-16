@@ -1,7 +1,7 @@
 # Genesis Chapter 34
 
 ## Genesis 34:1
-Now Dinah, the daughter of Leah, whom she had borne to Jacob, went out to see the daughters of the land.
+Dinah, the daughter of Leah, whom she had borne to Jacob, went out to visit the daughters of the land.
 
 ## Genesis 34:2
 When Shechem, the son of Hamor the Hivite, the prince of the land, saw her, he took her and lay with her, violating her.
@@ -31,7 +31,7 @@ Intermarry with us; give your daughters to us and take our daughters for yoursel
 You can live among us; the land is open to you. Dwell in it, trade in it, and acquire property in it.”
 
 ## Genesis 34:11
-Then Shechem said to Dinah’s father and brothers, “Let me find favour in your eyes, and I will give you whatever you ask.
+Shechem addressed Dinah’s father and brothers, “Grant me favor in your eyes, and I will give you whatever you ask.
 
 ## Genesis 34:12
 Set the bridal price and gift as high as you like, and I will pay whatever you ask me. Only give me the young woman as my wife.”
@@ -58,7 +58,7 @@ Their proposal seemed good to Hamor and his son Shechem.
 The young man, who was more respected than all his father’s household, did not delay in doing what they said, because he was delighted with Jacob’s daughter.
 
 ## Genesis 34:20
-So Hamor and his son Shechem went to the gate of their city to speak to the men of their city.
+So Hamor and his son Shechem went to the city gate to speak to the men of their city.
 
 ## Genesis 34:21
 “These men are friendly with us,” they said. “Let them dwell in the land and trade in it; the land is large enough for them. We can take their daughters as wives and give our daughters to them.
@@ -76,7 +76,7 @@ All who went out of the city gate agreed with Hamor and his son Shechem, and eve
 Three days later, while they were still in pain, two of Jacob’s sons, Simeon and Levi, Dinah’s brothers, took their swords and attacked the unsuspecting city, killing every male.
 
 ## Genesis 34:26
-They put Hamor and his son Shechem to the sword and took Dinah from Shechem’s house and left.
+They killed Hamor and his son Shechem with the sword and took Dinah from Shechem’s house and departed.
 
 ## Genesis 34:27
 Jacob’s sons came upon the slain and looted the city, because their sister had been defiled.
@@ -91,4 +91,4 @@ They carried off all their wealth and all their little ones and their wives, tak
 Then Jacob said to Simeon and Levi, “You have brought trouble on me by making me obnoxious to the inhabitants of the land, the Canaanites and Perizzites. We are few in number, and if they join forces against me and attack me, I and my household will be destroyed.”
 
 ## Genesis 34:31
-But they replied, “Should he have treated our sister like a prostitute?”
+But they replied, “Should he have treated our sister with such dishonor?”

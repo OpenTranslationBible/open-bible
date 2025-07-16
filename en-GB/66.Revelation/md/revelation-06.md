@@ -40,13 +40,13 @@ I watched as he opened the sixth seal. There was a great earthquake; the sun bec
 and the stars of the sky fell to the earth, as a fig tree sheds its unripe figs when shaken by a strong wind.
 
 ## Revelation 6:14
-The sky receded like a scroll being rolled up, and every mountain and island was moved from its place.
+The sky vanished like a scroll being rolled up, and every mountain and island was displaced.
 
 ## Revelation 6:15
 Then the kings of the earth, the nobles, the commanders, the rich, the powerful, and everyone else, both slave and free, hid in caves and among the rocks of the mountains.
 
 ## Revelation 6:16
-They called to the mountains and the rocks, “Fall on us and hide us from the face of Him who sits on the throne and from the wrath of the Lamb!
+They called to the mountains and the rocks, “Fall on us and conceal us from the presence of Him who sits on the throne and from the wrath of the Lamb!
 
 ## Revelation 6:17
-For the great day of Their wrath has come, and who can stand?”
+For the great day of Their anger has arrived, and who can withstand it?”

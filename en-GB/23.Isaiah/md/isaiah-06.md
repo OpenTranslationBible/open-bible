@@ -16,7 +16,7 @@ At the sound of their voices, the foundations of the thresholds shook, and the t
 Then I said, “Woe is me, for I am undone! For I am a man of unclean lips, and I dwell among a people of unclean lips; for my eyes have seen the King, the Lord of hosts.”
 
 ## Isaiah 6:6
-Then one of the seraphim flew to me with a live coal in his hand, which he had taken with tongs from the altar.
+Then one of the seraphim flew to me holding a live coal, which he had taken with tongs from the altar.
 
 ## Isaiah 6:7
 He touched my mouth with it and said, “See, this has touched your lips; your guilt is taken away and your sin is atoned for.”
@@ -25,7 +25,7 @@ He touched my mouth with it and said, “See, this has touched your lips; your g
 Then I heard the voice of the Lord saying, “Whom shall I send, and who will go for us?” And I said, “Here I am. Send me!”
 
 ## Isaiah 6:9
-He said, “Go and tell this people: ‘Keep on hearing, but do not understand; keep on seeing, but do not perceive.’
+He said, “Go and tell this people: ‘Keep on hearing, yet do not understand; keep on seeing, yet do not perceive.’
 
 ## Isaiah 6:10
 Make the heart of this people callous, make their ears heavy, and shut their eyes; lest they see with their eyes, hear with their ears, understand with their hearts, and turn and be healed.”

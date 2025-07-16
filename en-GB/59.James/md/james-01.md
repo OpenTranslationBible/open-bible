@@ -19,7 +19,7 @@ If any of you lacks wisdom, let them ask God, who gives generously to all withou
 But you must ask in faith, without doubting, because the one who doubts is like a wave of the sea, driven and tossed by the wind.
 
 ## James 1:7
-Such a person should not expect to receive anything from the Lord.
+Such individuals should not anticipate receiving anything from the Lord.
 
 ## James 1:8
 They are double-minded and unstable in all their ways.
@@ -46,10 +46,10 @@ but each person is tempted when they are carried away and enticed by their own e
 Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death.
 
 ## James 1:16
-Do not be deceived, my beloved brothers and sisters.
+Do not be misled, my beloved brothers and sisters.
 
 ## James 1:17
-Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows.
+Every good and perfect gift is from above, descending from the Father of the heavenly lights, who remains constant and unchanging.
 
 ## James 1:18
 He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all He created.
@@ -58,7 +58,7 @@ He chose to give us birth through the word of truth, that we might be a kind of 
 My beloved brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak, and slow to become angry;
 
 ## James 1:20
-because human anger does not produce the righteousness that God desires.
+because human anger does not achieve the righteousness that God desires.
 
 ## James 1:21
 Therefore, get rid of all moral filth and the evil that is so prevalent, and humbly accept the word planted in you, which can save your souls.
@@ -73,10 +73,10 @@ Anyone who listens to the word but does not do what it says is like someone who 
 and, after looking at themselves, goes away and immediately forgets what they look like.
 
 ## James 1:25
-But whoever looks intently into the perfect law that gives freedom, and continues in it—not forgetting what they have heard, but doing it—they will be blessed in what they do.
+But whoever looks intently into the perfect law that gives freedom, and continues in it—not forgetting what they have heard, but doing it—will find blessing in their actions.
 
 ## James 1:26
-Those who consider themselves religious and yet do not keep a tight rein on their tongues deceive themselves, and their religion is worthless.
+Those who consider themselves religious and yet do not keep a tight rein on their tongues deceive themselves, and their religion is without value.
 
 ## James 1:27
 Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself unpolluted by the world.

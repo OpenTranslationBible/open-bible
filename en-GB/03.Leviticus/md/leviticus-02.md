@@ -16,7 +16,7 @@ The remainder of the grain offering belongs to Aaron and his sons; it is a most 
 If your grain offering is prepared on a griddle, it shall be made of the finest flour mixed with oil, and without leaven.
 
 ## Leviticus 2:6
-Break it into pieces and pour oil on it; it is a grain offering.
+Divide it into pieces and pour oil on it; this constitutes a grain offering.
 
 ## Leviticus 2:7
 If your grain offering is cooked in a pan, it shall be made of the finest flour with oil.
@@ -40,10 +40,10 @@ You may bring them to the Lord as an offering of firstfruits, but they shall not
 Season all your grain offerings with salt. Do not leave the salt of the covenant of your God out of your grain offerings; with all your offerings, you shall offer salt.
 
 ## Leviticus 2:14
-‘If you bring a grain offering of firstfruits to the Lord, offer crushed heads of new grain roasted in the fire.
+‘If you present a grain offering of firstfruits to the Lord, offer crushed heads of new grain roasted in the fire.
 
 ## Leviticus 2:15
-Put oil and incense on it; it is a grain offering.
+Add oil and incense to it; this is a grain offering.
 
 ## Leviticus 2:16
 The priest shall burn the memorial portion of the crushed grain and the oil, together with all the incense, as an offering by fire to the Lord.

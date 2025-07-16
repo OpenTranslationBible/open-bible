@@ -100,7 +100,7 @@ We will cross over armed in the presence of the Lord into Canaan, but the proper
 So Moses assigned to the sons of Gad, the sons of Reuben, and the half-tribe of Manasseh son of Joseph, the kingdom of Sihon king of the Amorites and the kingdom of Og king of Bashan—the land with its cities and the surrounding territories.
 
 ## Numbers 32:34
-The sons of Gad built Dibon, Ataroth, Aroer,
+The descendants of Gad constructed Dibon, Ataroth, Aroer,
 
 ## Numbers 32:35
 Atroth-shophan, Jazer, Jogbehah,

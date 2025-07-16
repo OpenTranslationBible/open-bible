@@ -55,7 +55,7 @@ But you, beloved, remember the words spoken beforehand by the apostles of our Lo
 that they told you, “In the last times there will be scoffers following their own ungodly desires.”
 
 ## Jude 1:19
-These are the ones who cause divisions, worldly-minded, devoid of the Spirit.
+These are the ones who create divisions, focused on worldly matters, lacking the Spirit.
 
 ## Jude 1:20
 But you, beloved, by building yourselves up in your most holy faith, praying in the Holy Spirit,
@@ -64,7 +64,7 @@ But you, beloved, by building yourselves up in your most holy faith, praying in 
 keep yourselves in the love of God as you wait for the mercy of our Lord Jesus Christ to bring you to eternal life.
 
 ## Jude 1:22
-And have mercy on those who doubt;
+And show compassion to those who are uncertain;
 
 ## Jude 1:23
 save others by snatching them from the fire; to others show mercy, mixed with fear, hating even the clothing stained by corrupted flesh.

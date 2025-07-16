@@ -2,7 +2,7 @@
 
 ## John 19:1
 
-Then Pilate took Jesus and had Him scourged.
+Pilate then took Jesus and had Him whipped.
 
 ## John 19:2
 
@@ -30,7 +30,7 @@ The Jewish leaders answered, “We have a law, and by that law He ought to die, 
 
 ## John 19:8
 
-When Pilate heard this statement, he was even more afraid.
+Upon hearing this, Pilate became even more fearful.
 
 ## John 19:9
 
@@ -80,7 +80,7 @@ There they crucified Him, and with Him two others, one on each side, with Jesus 
 
 ## John 19:19
 
-Pilate also wrote an inscription and put it on the cross. It read: “JESUS OF NAZARETH, THE KING OF THE JEWS.”
+Pilate had an inscription written and placed on the cross. It read: “JESUS OF NAZARETH, THE KING OF THE JEWS.”
 
 ## John 19:20
 
@@ -108,15 +108,15 @@ They said to one another, “Let us not tear it, but cast lots to decide whose i
 
 ## John 19:25
 
-Near the cross of Jesus stood His mother, His mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
+Standing near the cross of Jesus were His mother, His mother’s sister, Mary the wife of Clopas, and Mary Magdalene.
 
 ## John 19:26
 
-When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, behold your son!”
+When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son!”
 
 ## John 19:27
 
-Then He said to the disciple, “Behold your mother!” From that hour, the disciple took her into his own home.
+Then He said to the disciple, “Here is your mother!” From that hour, the disciple took her into his own home.
 
 ---
 
@@ -156,7 +156,7 @@ He who saw it has testified, and his testimony is true; he knows that he tells t
 
 ## John 19:36
 
-These things happened so that the Scripture would be fulfilled: “Not one of His bones will be broken.”
+These events occurred to fulfil the Scripture: “Not one of His bones will be broken.”
 
 ## John 19:37
 
@@ -182,4 +182,4 @@ In the place where He was crucified there was a garden, and in the garden a new 
 
 ## John 19:42
 
-Because it was the Jewish day of Preparation and since the tomb was nearby, they laid Jesus there.
+Because it was the Jewish day of Preparation and the tomb was nearby, they laid Jesus there.

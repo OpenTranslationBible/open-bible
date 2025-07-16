@@ -13,7 +13,7 @@ The Lord is a warrior; the Lord is His name.
 Pharaoh’s chariots and his army He has thrown into the sea; the finest of Pharaoh’s officers are drowned in the Red Sea.
 
 ## Exodus 15:5
-The deep waters covered them; they sank to the depths like a stone.
+The deep waters enveloped them; they sank into the depths like a stone.
 
 ## Exodus 15:6
 Your right hand, Lord, is majestic in power; Your right hand, Lord, shatters the enemy.
@@ -31,7 +31,7 @@ The enemy said, ‘I will pursue, I will overtake, I will divide the spoils; I w
 But You blew with Your breath, and the sea covered them. They sank like lead in the mighty waters.
 
 ## Exodus 15:11
-Who among the gods is like You, Lord? Who is like You, majestic in holiness, awesome in glory, working wonders?
+Who is like You among the heavenly beings, Lord? Who is like You, majestic in holiness, awe-inspiring in glory, performing wonders?
 
 ## Exodus 15:12
 You stretched out Your right hand, and the earth swallowed them.
@@ -49,10 +49,10 @@ The chiefs of Edom are dismayed; the leaders of Moab, trembling grips them; all 
 Terror and dread fall upon them; by the power of Your arm, they are as still as a stone, until Your people pass by, Lord, until the people You have purchased pass by.
 
 ## Exodus 15:17
-You will bring them in and plant them on the mountain of Your inheritance, the place, Lord, You made for Your dwelling, the sanctuary, Lord, Your hands established.
+You will bring them in and establish them on the mountain of Your inheritance, the place, Lord, You made for Your dwelling, the sanctuary, Lord, Your hands have set up.
 
 ## Exodus 15:18
-The Lord shall reign for ever and ever.”
+The Lord will reign for all time.”
 
 ## Exodus 15:19
 When Pharaoh’s horses, chariots, and horsemen went into the sea, the Lord brought the waters of the sea back over them, but the Israelites walked on dry land through the midst of the sea.
@@ -67,10 +67,10 @@ And Miriam sang to them: “Sing to the Lord, for He is highly exalted; the hors
 Then Moses led Israel from the Red Sea, and they went into the wilderness of Shur. For three days they travelled in the wilderness without finding water.
 
 ## Exodus 15:23
-When they came to Marah, they could not drink its water because it was bitter. That is why the place is called Marah.
+When they reached Marah, they could not drink its water because it was bitter. (That is why the place is called Marah.)
 
 ## Exodus 15:24
-So the people grumbled against Moses, saying, “What are we to drink?”
+So the people complained to Moses, asking, “What are we to drink?”
 
 ## Exodus 15:25
 Then Moses cried out to the Lord, and the Lord showed him a piece of wood. He threw it into the water, and the water became sweet. There the Lord made a statute and an ordinance for them, and there He tested them.

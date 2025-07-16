@@ -34,7 +34,7 @@ Many will be purified, cleansed, and refined, but the wicked will continue to ac
 From the time that the regular sacrifice is abolished and the abomination that causes desolation is set up, there will be 1,290 days.
 
 ## Daniel 12:12
-Blessed is the one who waits for and reaches the end of the 1,335 days.
+Fortunate is the one who perseveres and reaches the conclusion of the 1,335 days.
 
 ## Daniel 12:13
 But as for you, go your way until the end. You will rest, and then at the end of the days you will rise to receive your allotted inheritance.”

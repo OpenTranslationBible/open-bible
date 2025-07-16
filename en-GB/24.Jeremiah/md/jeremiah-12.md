@@ -49,4 +49,4 @@ Yet after I have uprooted them, I will again have compassion and will bring each
 And if they truly learn the ways of my people and swear by my name, ‘As surely as the Lord lives’—just as they once taught my people to swear by Baal—then they will be established among my people.
 
 ## Jeremiah 12:17
-But if they do not listen, I will completely uproot and destroy that nation,” declares the Lord.
+But if they do not heed, I will thoroughly uproot and bring an end to that nation,” declares the Lord.

@@ -156,7 +156,7 @@ The Israelites had arranged with the ambush that they would send up a great clou
 
 ## Judges 20:39
 
-and then the Israelites would counterattack. The Benjamites had begun to inflict casualties on the Israelites (about thirty), and they said, “We are defeating them as in the first battle.”
+At that moment, the Israelites would launch their counterattack. The Benjamites had begun to inflict casualties on the Israelites (about thirty), and they said, “We are defeating them as in the first battle.”
 
 ## Judges 20:40
 
@@ -176,7 +176,7 @@ They surrounded the Benjamites, pursued them, and easily overran them in the vic
 
 ## Judges 20:44
 
-Eighteen thousand Benjamites fell, all of them valiant fighters.
+Eighteen thousand Benjamites fell, all of them brave warriors.
 
 ## Judges 20:45
 
@@ -184,7 +184,7 @@ As they turned and fled toward the wilderness to the rock of Rimmon, the Israeli
 
 ## Judges 20:46
 
-On that day, twenty-five thousand Benjamite swordsmen fell, all of them valiant fighters.
+On that day, twenty-five thousand Benjamite swordsmen fell, all of them courageous warriors.
 
 ## Judges 20:47
 

@@ -40,7 +40,7 @@ your mother will be greatly ashamed; she who bore you will be humiliated. She wi
 Because of the Lord’s wrath she will not be inhabited but will be utterly desolate. Everyone who passes by Babylon will be appalled and will scoff at all her wounds.
 
 ## Jeremiah 50:14
-“Take up your positions around Babylon, all you who draw the bow. Shoot at her, spare no arrows, for she has sinned against the Lord.
+“Encircle Babylon, all you who draw the bow. Shoot at her, do not hold back your arrows, for she has sinned against the Lord.
 
 ## Jeremiah 50:15
 Raise a shout against her on every side! She has surrendered, her towers have fallen, her walls have been torn down. This is the Lord’s vengeance; take vengeance on her; do to her as she has done to others.
@@ -61,16 +61,16 @@ And I will bring Israel back to their pasture, and they will graze on Carmel and
 In those days and at that time,” declares the Lord, “search will be made for Israel’s guilt, but there will be none, and for the sins of Judah, but none will be found, for I will forgive the remnant I spare.
 
 ## Jeremiah 50:21
-“Attack the land of Merathaim and those who live in Pekod. Pursue, kill and completely destroy them,” declares the Lord. “Do everything I have commanded you.
+“Advance against the land of Merathaim and those who live in Pekod. Pursue, strike, and completely destroy them,” declares the Lord. “Carry out everything I have commanded you.
 
 ## Jeremiah 50:22
 The sound of battle is in the land, the sound of great destruction!
 
 ## Jeremiah 50:23
-How the hammer of the whole earth has been cut off and broken! How Babylon has become an object of horror among the nations!
+How the mighty hammer of the whole earth has been cut off and broken! How Babylon has become a horror among the nations!
 
 ## Jeremiah 50:24
-I set a trap for you, Babylon, and you were caught before you knew it; you were found and captured because you opposed the Lord.
+I laid a snare for you, Babylon, and you were caught before you knew it; you were found and captured because you opposed the Lord.
 
 ## Jeremiah 50:25
 The Lord has opened His armoury and brought out the weapons of His wrath, for the Sovereign Lord of Hosts has work to do in the land of the Chaldeans.
@@ -82,7 +82,7 @@ Come against her from the farthest border. Open her storehouses; pile her up lik
 Put all her young bulls to the sword; let them go down to the slaughter! Woe to them, for their day has come, the time for them to be punished.
 
 ## Jeremiah 50:28
-Listen to the fugitives and refugees from Babylon declaring in Zion how the Lord our God has taken vengeance, vengeance for His temple.
+Hear the fugitives and refugees from Babylon proclaiming in Zion how the Lord our God has taken vengeance, vengeance for His temple.
 
 ## Jeremiah 50:29
 “Summon archers against Babylon, all those who draw the bow. Encamp all around her; let no one escape. Repay her according to her deeds; do to her as she has done. For she has defied the Lord, the Holy One of Israel.
@@ -121,7 +121,7 @@ A drought on her waters! They will dry up. For it is a land of idols, and they g
 As when God overthrew Sodom and Gomorrah with their neighbouring towns,” declares the Lord, “so no one will live there; no people will dwell in it.
 
 ## Jeremiah 50:41
-“Look! A people is coming from the north; a great nation and many kings are being stirred up from the ends of the earth.
+“Behold! A people is coming from the north; a great nation and many kings are being stirred up from the ends of the earth.
 
 ## Jeremiah 50:42
 They are armed with bows and javelins; they are cruel and without mercy. Their voice roars like the sea as they ride on horses; they come like men in battle formation against you, Daughter Babylon.

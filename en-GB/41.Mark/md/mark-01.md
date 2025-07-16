@@ -19,7 +19,7 @@ as it is written in the prophet Isaiah:
 
 ## Mark 1:4
 
-John the Baptist appeared in the wilderness, preaching a baptism of repentance for the forgiveness of sins.
+John the Baptist appeared in the wilderness, proclaiming a baptism of repentance for the forgiveness of sins.
 
 ## Mark 1:5
 
@@ -27,7 +27,7 @@ The entire Judean countryside and all the people of Jerusalem went out to him. C
 
 ## Mark 1:6
 
-John wore clothing made of camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.
+John was clothed in camel’s hair, with a leather belt around his waist, and he ate locusts and wild honey.
 
 ## Mark 1:7
 
@@ -41,7 +41,7 @@ I baptise you with water, but he will baptise you with the Holy Spirit.”
 
 ## Mark 1:9
 
-At that time, Jesus came from Nazareth in Galilee and was baptised by John in the Jordan.
+During that time, Jesus came from Nazareth in Galilee and was baptised by John in the Jordan.
 
 ## Mark 1:10
 
@@ -49,7 +49,7 @@ As soon as Jesus came up out of the water, he saw the heavens being opened and t
 
 ## Mark 1:11
 
-And a voice came from heaven: “You are my beloved Son; with you I am well pleased.”
+And a voice from heaven said, “You are my beloved Son; with you I am well pleased.”
 
 ---
 
@@ -59,7 +59,7 @@ Immediately the Spirit sent him out into the wilderness,
 
 ## Mark 1:13
 
-and he was in the wilderness for forty days, being tempted by Satan. He was with the wild animals, and angels attended him.
+and he was in the wilderness for forty days, facing temptations from Satan. He was with the wild animals, and angels attended him.
 
 ---
 
@@ -91,7 +91,7 @@ When he had gone a little farther, he saw James son of Zebedee and his brother J
 
 ## Mark 1:20
 
-Without delay he called them, and they left their father Zebedee in the boat with the hired men and followed him.
+He called them without delay, and they left their father Zebedee in the boat with the hired men and followed him.
 
 ---
 
@@ -131,11 +131,11 @@ Immediately the news about him spread throughout the whole region of Galilee.
 
 ## Mark 1:29
 
-As soon as they left the synagogue, they went with James and John to the home of Simon and Andrew.
+Upon leaving the synagogue, they went with James and John to the home of Simon and Andrew.
 
 ## Mark 1:30
 
-Simon’s mother-in-law was in bed with a fever, and they immediately told Jesus about her.
+Simon’s mother-in-law was in bed with a fever, and they promptly informed Jesus about her.
 
 ## Mark 1:31
 
@@ -145,7 +145,7 @@ So he went to her, took her by the hand and helped her up. The fever left her, a
 
 ## Mark 1:32
 
-That evening, after sunset, the people brought to Jesus all the sick and demon-possessed.
+That evening, after sunset, the people brought to Jesus all who were sick and those possessed by demons.
 
 ## Mark 1:33
 
@@ -159,15 +159,15 @@ and Jesus healed many who had various diseases. He also drove out many demons, b
 
 ## Mark 1:35
 
-Very early in the morning, while it was still dark, Jesus got up, left the house and went off to a solitary place, where he prayed.
+Very early in the morning, while it was still dark, Jesus got up, left the house and went to a solitary place, where he prayed.
 
 ## Mark 1:36
 
-Simon and his companions went to look for him,
+Simon and his companions went searching for him,
 
 ## Mark 1:37
 
-and when they found him, they exclaimed: “Everyone is looking for you!”
+and when they found him, they said, “Everyone is looking for you!”
 
 ## Mark 1:38
 
@@ -175,13 +175,13 @@ Jesus replied, “Let us go somewhere else—to the nearby villages—so I can p
 
 ## Mark 1:39
 
-So he went throughout Galilee, preaching in their synagogues and driving out demons.
+So he traveled throughout Galilee, preaching in their synagogues and driving out demons.
 
 ---
 
 ## Mark 1:40
 
-A man with leprosy came to him and begged him on his knees, “If you are willing, you can make me clean.”
+A man with leprosy approached him and pleaded on his knees, “If you are willing, you can make me clean.”
 
 ## Mark 1:41
 
@@ -189,11 +189,11 @@ Filled with compassion, Jesus reached out his hand and touched the man. “I am 
 
 ## Mark 1:42
 
-Immediately the leprosy left him and he was cleansed.
+Immediately the leprosy left him, and he was cleansed.
 
 ## Mark 1:43
 
-Jesus sent him away at once with a strong warning:
+Jesus sent him away at once with a stern warning:
 
 ## Mark 1:44
 
@@ -201,4 +201,4 @@ Jesus sent him away at once with a strong warning:
 
 ## Mark 1:45
 
-Instead he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in lonely places. Yet the people still came to him from everywhere.
+However, he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in secluded places. Yet the people still came to him from everywhere.

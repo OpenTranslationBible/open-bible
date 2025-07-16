@@ -31,13 +31,13 @@ Why are you like a confused person, like a warrior who cannot save? Yet you are 
 This is what the Lord says about this people: “They greatly love to wander; they do not restrain their feet. Therefore, the Lord does not accept them; now he will remember their wrongdoing and punish them for their sins.”
 
 ## Jeremiah 14:11
-Then the Lord said to me, “Do not pray for the well-being of this people.
+Then the Lord instructed me, “Do not intercede for the well-being of this people.
 
 ## Jeremiah 14:12
 Even though they fast, I will not listen to their cry; though they offer burnt offerings and grain offerings, I will not accept them. Instead, I will destroy them with the sword, famine, and plague.”
 
 ## Jeremiah 14:13
-But I said, “Alas, Sovereign Lord! The prophets keep telling them, ‘You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.’”
+But I responded, “Alas, Sovereign Lord! The prophets keep telling them, ‘You will not see the sword or suffer famine. Indeed, I will give you lasting peace in this place.’”
 
 ## Jeremiah 14:14
 Then the Lord said to me, “The prophets are prophesying falsehood in my name. I have not sent them, nor commanded them, nor spoken to them. They are prophesying to you false visions, divinations, futility, and the delusions of their own minds.
@@ -58,7 +58,7 @@ If I go out to the country, I see those slain by the sword; if I enter the city,
 Have you completely rejected Judah? Do you despise Zion? Why have you afflicted us so that we cannot be healed? We hoped for peace, but no good has come; for a time of healing, but there is only terror.
 
 ## Jeremiah 14:20
-We acknowledge our wickedness, Lord, and the guilt of our ancestors; we have indeed sinned against you.
+We confess our wrongdoing, Lord, and the guilt of our ancestors; we have indeed sinned against you.
 
 ## Jeremiah 14:21
 For the sake of your name, do not despise us; do not disgrace your glorious throne. Remember your covenant with us and do not annul it.

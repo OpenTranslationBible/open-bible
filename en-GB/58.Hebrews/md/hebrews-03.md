@@ -75,7 +75,7 @@ Who were they who heard and rebelled? Were they not all those led out of Egypt b
 
 ## Hebrews 3:17
 
-And with whom was he angry for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
+And with whom was God displeased for forty years? Was it not with those who sinned, whose bodies fell in the wilderness?
 
 ## Hebrews 3:18
 
@@ -83,4 +83,4 @@ And to whom did he swear that they would not enter his rest, if not to those who
 
 ## Hebrews 3:19
 
-So we see that they were not able to enter because of unbelief.
+So we understand that they were unable to enter because of unbelief.

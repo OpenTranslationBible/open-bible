@@ -44,11 +44,11 @@ For He had healed many, so that those with diseases were pressing forward to tou
 
 ## Mark 3:11
 
-Whenever the unclean spirits saw Him, they fell down before Him and cried out, “You are the Son of God.”
+Whenever the unclean spirits saw Him, they would fall down before Him and exclaim, “You are the Son of God.”
 
 ## Mark 3:12
 
-But He strictly ordered them not to make Him known.
+But He firmly instructed them not to reveal His identity.
 
 ---
 
@@ -66,11 +66,11 @@ and to have authority to cast out demons.
 
 ## Mark 3:16
 
-These are the twelve He appointed: Simon (to whom He gave the name Peter),
+These are the twelve He chose: Simon (to whom He gave the name Peter),
 
 ## Mark 3:17
 
-James, the son of Zebedee, and John, the brother of James (to them He gave the name Boanerges, which means “sons of thunder”),
+James, the son of Zebedee, and John, the brother of James (to whom He gave the name Boanerges, meaning “sons of thunder”),
 
 ## Mark 3:18
 
@@ -88,7 +88,7 @@ Then He went home, and once again a crowd gathered, so that He and His disciples
 
 ## Mark 3:21
 
-When His family heard about this, they went to take charge of Him, for they said, “He is out of His mind.”
+When His family heard about this, they sought to take charge of Him, saying, “He is out of His mind.”
 
 ---
 
@@ -110,7 +110,7 @@ If a house is divided against itself, that house cannot stand.
 
 ## Mark 3:26
 
-And if Satan opposes himself and is divided, he cannot stand; his end has come.
+And if Satan is in conflict with himself and is divided, he cannot endure; his end has come.
 
 ## Mark 3:27
 
@@ -122,7 +122,7 @@ Truly I tell you, people can be forgiven all their sins and whatever blasphemies
 
 ## Mark 3:29
 
-but whoever blasphemes against the Holy Spirit will never be forgiven; they are guilty of an eternal sin.”
+but whoever speaks against the Holy Spirit will never be forgiven; they are guilty of an unending sin.”
 
 ## Mark 3:30
 
@@ -140,7 +140,7 @@ A crowd was sitting around Him, and they said to Him, “Your mother and brother
 
 ## Mark 3:33
 
-“Who are My mother and My brothers?” He asked.
+“Who are considered My mother and My brothers?” He asked.
 
 ## Mark 3:34
 

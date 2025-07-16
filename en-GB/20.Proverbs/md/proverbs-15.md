@@ -25,13 +25,13 @@ The lips of the wise spread knowledge, but the hearts of fools are not right.
 The sacrifice of the wicked is detestable to the Lord, but the prayer of the upright delights Him.
 
 ## Proverbs 15:9
-The Lord detests the way of the wicked, but He loves those who pursue righteousness.
+The Lord finds the way of the wicked distasteful, but He loves those who follow righteousness.
 
 ## Proverbs 15:10
 Severe discipline awaits anyone who strays from the path; one who hates correction will die.
 
 ## Proverbs 15:11
-Sheol and Abaddon lie open before the Lord; how much more the hearts of mankind!
+Sheol and Abaddon lie open before the Lord; how much more so the hearts of mankind!
 
 ## Proverbs 15:12
 A mocker resents correction and will not seek the wise.
@@ -40,10 +40,10 @@ A mocker resents correction and will not seek the wise.
 A joyful heart makes a cheerful face, but a broken heart crushes the spirit.
 
 ## Proverbs 15:14
-The discerning heart seeks knowledge, but the mouth of fools feeds on folly.
+The discerning heart seeks knowledge, but the mouth of fools indulges in folly.
 
 ## Proverbs 15:15
-All the days of the oppressed are miserable, but a cheerful heart has a continual feast.
+All the days of the oppressed are difficult, but a cheerful heart enjoys a continual feast.
 
 ## Proverbs 15:16
 Better is a little with the fear of the Lord than great wealth with turmoil.
@@ -76,7 +76,7 @@ The path of life leads upwards for the prudent, to keep them from descending to 
 The Lord will tear down the house of the proud, but He will protect the boundary of the widow.
 
 ## Proverbs 15:26
-The Lord detests evil plans, but gracious words are pure.
+The Lord finds evil plans detestable, but gracious words are pure.
 
 ## Proverbs 15:27
 The greedy bring trouble to their household, but the one who hates bribes will live.

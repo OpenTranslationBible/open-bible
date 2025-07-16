@@ -68,7 +68,7 @@ As soon as the crowd saw Jesus, they were filled with wonder and ran to greet hi
 
 ## Mark 9:16
 
-He asked them, “What are you arguing with them about?”
+He inquired of them, “What is the dispute you are having with them?”
 
 ## Mark 9:17
 
@@ -112,15 +112,15 @@ The spirit shrieked, convulsed him violently, and departed. The boy appeared so 
 
 ## Mark 9:27
 
-But Jesus took him by the hand, raised him, and he stood up.
+But Jesus, taking him by the hand, helped him to his feet, and he stood up.
 
 ## Mark 9:28
 
-After Jesus had gone indoors, his disciples asked him privately, “Why couldn’t we drive it out?”
+After Jesus had gone indoors, his disciples asked him privately, “Why were we unable to drive it out?”
 
 ## Mark 9:29
 
-He replied, “This kind can come out only by prayer.”
+He replied, “This kind can come out only through prayer.”
 
 ---
 
@@ -156,7 +156,7 @@ He took a child, placed him among them, and taking him in his arms, he said to t
 
 ## Mark 9:37
 
-“Whoever welcomes one of these little children in my name welcomes me; and whoever welcomes me does not welcome me but the one who sent me.”
+“Whoever receives one of these little children in my name receives me; and whoever receives me does not receive me but the one who sent me.”
 
 ---
 
@@ -184,7 +184,7 @@ Truly I tell you, anyone who gives you a cup of water in my name because you bel
 
 ## Mark 9:43
 
-If your hand causes you to stumble, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out.
+If your hand leads you to stumble, cut it off. It is better for you to enter life maimed than with two hands to go into hell, where the fire never goes out.
 
 ## Mark 9:44
 
@@ -192,7 +192,7 @@ If your hand causes you to stumble, cut it off. It is better for you to enter li
 
 ## Mark 9:45
 
-And if your foot causes you to stumble, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell.
+And if your foot leads you to stumble, cut it off. It is better for you to enter life crippled than to have two feet and be thrown into hell.
 
 ## Mark 9:46
 
@@ -200,7 +200,7 @@ And if your foot causes you to stumble, cut it off. It is better for you to ente
 
 ## Mark 9:47
 
-And if your eye causes you to stumble, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
+And if your eye leads you to stumble, pluck it out. It is better for you to enter the kingdom of God with one eye than to have two eyes and be thrown into hell,
 
 ## Mark 9:48
 

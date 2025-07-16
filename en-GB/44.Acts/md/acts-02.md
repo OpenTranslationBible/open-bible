@@ -48,11 +48,11 @@ Cretans and Arabs—we hear them declaring the mighty works of God in our own to
 
 ## Acts 2:12
 
-Amazed and perplexed, they asked one another, “What does this mean?”
+In amazement and confusion, they asked one another, “What could this mean?”
 
 ## Acts 2:13
 
-But others mocked them and said, “They are full of new wine.”
+But others ridiculed them and said, “They have had too much new wine.”
 
 ---
 
@@ -111,7 +111,7 @@ This man was handed over to you by God’s deliberate plan and foreknowledge; an
 
 ## Acts 2:24
 
-But God raised him from the dead, freeing him from the agony of death, because it was impossible for death to keep its hold on him.
+Yet God raised him from the dead, releasing him from the agony of death, because it was impossible for death to maintain its hold on him.
 
 ## Acts 2:25
 
@@ -143,19 +143,19 @@ David said about him:
 
 ## Acts 2:30
 
-But he was a prophet and knew that God had promised him on oath that he would place one of his descendants on his throne.
+But he was a prophet and understood that God had sworn to him with an oath to place one of his descendants on his throne.
 
 ## Acts 2:31
 
-Seeing what was to come, he spoke of the resurrection of the Messiah, that he was not abandoned to the realm of the dead, nor did his body see decay.
+Foreseeing this, he spoke of the Messiah's resurrection, that he was not abandoned to the realm of the dead, nor did his body see decay.
 
 ## Acts 2:32
 
-God has raised this Jesus to life, and we are all witnesses of it.
+God has brought this Jesus back to life, and we are all witnesses of this fact.
 
 ## Acts 2:33
 
-Exalted to the right hand of God, he has received from the Father the promised Holy Spirit and has poured out what you now see and hear.
+Exalted to the right hand of God, he has received from the Father the promised Holy Spirit and has poured out what you now observe and hear.
 
 ## Acts 2:34
 
@@ -177,11 +177,11 @@ For David did not ascend to heaven, and yet he said,
 
 ## Acts 2:37
 
-When the people heard this, they were cut to the heart and said to Peter and the other apostles, “Brothers, what shall we do?”
+When the people heard this, they were deeply moved and said to Peter and the other apostles, “Brothers, what shall we do?”
 
 ## Acts 2:38
 
-Peter replied, “Repent and be baptised, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.
+Peter replied, “Turn back and be baptised, every one of you, in the name of Jesus Christ for the forgiveness of your sins. And you will receive the gift of the Holy Spirit.
 
 ## Acts 2:39
 
@@ -189,25 +189,25 @@ The promise is for you and your children and for all who are far off—for all w
 
 ## Acts 2:40
 
-With many other words he warned them; and he pleaded with them, “Save yourselves from this corrupt generation.”
+With many other words he warned them; and he urged them, “Save yourselves from this corrupt generation.”
 
 ## Acts 2:41
 
-Those who accepted his message were baptised, and about three thousand were added to their number that day.
+Those who embraced his message were baptised, and about three thousand were added to their number that day.
 
 ---
 
 ## Acts 2:42
 
-They devoted themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.
+They committed themselves to the apostles’ teaching and to fellowship, to the breaking of bread and to prayer.
 
 ## Acts 2:43
 
-Everyone was filled with awe at the many wonders and signs performed by the apostles.
+Everyone was filled with awe at the many wonders and signs done by the apostles.
 
 ## Acts 2:44
 
-All the believers were together and had everything in common.
+All the believers were together and shared everything in common.
 
 ## Acts 2:45
 

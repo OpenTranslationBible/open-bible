@@ -19,7 +19,7 @@ saying, ‘Turn now, each of you, from your evil ways and from the evil of your 
 and do not follow other gods to serve and worship them, and do not provoke me to anger with the work of your hands, then I will do you no harm.’
 
 ## Jeremiah 25:7
-Yet you have not listened to me,” declares the Lord, “in order to provoke me to anger with the work of your hands to your own harm.
+However, you have not heeded me,” declares the Lord, “and have provoked me to anger with the work of your hands, bringing harm upon yourselves.
 
 ## Jeremiah 25:8
 Therefore this is what the Lord Almighty says: ‘Because you have not obeyed my words,
@@ -40,7 +40,7 @@ But when the seventy years are completed, I will punish the king of Babylon and 
 I will bring upon that land all the words I have pronounced against it, all that is written in this book which Jeremiah has prophesied against all the nations.
 
 ## Jeremiah 25:14
-They themselves will be enslaved by many nations and great kings; I will repay them according to their deeds and the work of their hands.’”
+They will be subjugated by many nations and great kings; I will repay them according to their deeds and the work of their hands.’”
 
 ## Jeremiah 25:15
 For this is what the Lord, the God of Israel, said to me: “Take this cup of the wine of my wrath from my hand and make all the nations to whom I send you drink it.
@@ -49,7 +49,7 @@ For this is what the Lord, the God of Israel, said to me: “Take this cup of th
 When they drink it, they will stagger and go mad because of the sword I am sending among them.”
 
 ## Jeremiah 25:17
-So I took the cup from the Lord’s hand and made all the nations to whom he sent me drink it:
+So I took the cup from the Lord’s hand and gave it to all the nations to whom he sent me:
 
 ## Jeremiah 25:18
 Jerusalem and the towns of Judah, its kings and officials, to make them a ruin and an object of horror, scorn, and a curse, as it is today;
@@ -64,7 +64,7 @@ and all the foreign people there; all the kings of the land of Uz; all the kings
 Edom, Moab, and the sons of Ammon;
 
 ## Jeremiah 25:22
-all the kings of Tyre, all the kings of Sidon, and the kings of the coastlands across the sea;
+the rulers of Tyre, the rulers of Sidon, and the leaders of the coastlands across the sea;
 
 ## Jeremiah 25:23
 Dedan, Tema, Buz, and all who have the corners of their hair cut;
@@ -103,13 +103,13 @@ At that time those slain by the Lord will be everywhere—from one end of the ea
 Wail, you shepherds, and cry out; roll in the dust, you leaders of the flock. For your time to be slaughtered has come; you will fall like the finest of the rams.
 
 ## Jeremiah 25:35
-The shepherds will have nowhere to flee, the leaders of the flock no place to escape.
+The shepherds will find no refuge, the leaders of the flock no place to escape.
 
 ## Jeremiah 25:36
 Listen to the cry of the shepherds, the wailing of the leaders of the flock, for the Lord is destroying their pasture.
 
 ## Jeremiah 25:37
-The peaceful meadows will be laid waste because of the fierce anger of the Lord.
+The tranquil pastures will be laid waste because of the fierce anger of the Lord.
 
 ## Jeremiah 25:38
 Like a lion he has left his lair; for their land has become desolate because of the oppressing sword and because of the Lord’s fierce anger.

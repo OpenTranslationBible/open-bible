@@ -82,7 +82,7 @@ Use it to anoint the tent of meeting, the ark of the covenant,
 the table and all its utensils, the lampstand and its accessories, and the altar of incense,
 
 ## Exodus 30:28
-the altar of burnt offering and all its utensils, and the basin with its stand.
+the altar for burnt offerings with all its utensils, and the basin along with its stand.
 
 ## Exodus 30:29
 Consecrate them so that they may be most holy; whatever touches them will be holy.
@@ -109,7 +109,7 @@ and make a fragrant blend of incense, a skilled mixture, the work of a perfumer.
 Grind some of it to powder and place it in front of the ark of the covenant in the tent of meeting, where I will meet with you. It shall be most holy to you.
 
 ## Exodus 30:37
-Do not make any incense with this formula for yourselves; consider it holy to the Lord.
+Do not create any incense with this formula for personal use; regard it as holy to the Lord.
 
 ## Exodus 30:38
-Whoever makes incense like it to enjoy its fragrance must be cut off from their people.”
+Anyone who makes incense like it to enjoy its fragrance will be separated from their people.”

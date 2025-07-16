@@ -37,7 +37,7 @@ In those days, when Moses had grown up, he went out to his people and observed t
 He looked around and, seeing no one, he struck down the Egyptian and hid him in the sand.
 
 ## Exodus 2:13
-The next day, he went out and saw two Hebrews fighting. He asked the one in the wrong, “Why are you hitting your fellow Hebrew?”
+The following day, he went out and noticed two Hebrews in conflict. He asked the one in the wrong, “Why are you striking your fellow Hebrew?”
 
 ## Exodus 2:14
 The man retorted, “Who made you a ruler and judge over us? Are you planning to kill me as you killed the Egyptian?” Moses then feared and thought, “Surely the matter is known.”
@@ -58,19 +58,19 @@ When the girls returned to their father Reuel, he asked, “Why have you returne
 They replied, “An Egyptian rescued us from the shepherds; he even drew water for us and watered the flock.”
 
 ## Exodus 2:20
-“Where is he?” Reuel asked his daughters. “Why did you leave him? Invite him to have something to eat.”
+“Where is he?” Reuel asked his daughters. “Why did you leave him? Invite him to join us for a meal.”
 
 ## Exodus 2:21
-Moses agreed to stay with the man, who gave his daughter Zipporah to Moses in marriage.
+Moses agreed to stay with the man, who gave his daughter Zipporah to Moses as his wife.
 
 ## Exodus 2:22
-Zipporah gave birth to a son, and Moses named him Gershom, saying, “I have become a foreigner in a foreign land.”
+Zipporah gave birth to a son, and Moses named him Gershom, saying, “I have become a sojourner in a foreign land.”
 
 ## Exodus 2:23
 During that long period, the king of Egypt died. The Israelites groaned under their bondage and cried out, and their cry for help because of their slavery reached God.
 
 ## Exodus 2:24
-God heard their groaning and remembered His covenant with Abraham, Isaac, and Jacob.
+God heard their groaning and was mindful of His covenant with Abraham, Isaac, and Jacob.
 
 ## Exodus 2:25
 God looked on the Israelites and took notice of them.

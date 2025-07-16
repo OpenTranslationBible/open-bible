@@ -34,7 +34,7 @@ Still other seed fell on good soil. It grew, increased, and produced a crop, yie
 
 ## Mark 4:9
 
-Then He said, “Whoever has ears to hear, let them hear.”
+Then He said, “Whoever has ears to hear, let them listen.”
 
 ---
 
@@ -66,7 +66,7 @@ The sower sows the word.
 
 ## Mark 4:15
 
-Some people are like seed along the path where the word is sown. As soon as they hear it, Satan comes and takes away the word that was sown in them.
+Some are like seed along the path where the word is sown. As soon as they hear it, the adversary comes and takes away the word that was sown in them.
 
 ## Mark 4:16
 
@@ -100,7 +100,7 @@ For whatever is hidden is meant to be revealed, and whatever is concealed is mea
 
 ## Mark 4:23
 
-If anyone has ears to hear, let them hear.”
+If anyone has ears to hear, let them listen.”
 
 ## Mark 4:24
 

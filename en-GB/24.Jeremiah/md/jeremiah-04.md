@@ -34,7 +34,7 @@ Then I said, “Alas, Sovereign Lord! Surely You have utterly deceived this peop
 At that time, it will be said to this people and to Jerusalem, “A scorching wind from the barren heights in the desert blows towards My people, not to winnow or cleanse;
 
 ## Jeremiah 4:12
-a wind too strong for that comes from Me. Now I pronounce My judgments against them.”
+a wind too powerful for that comes from Me. Now I announce My judgments against them.”
 
 ## Jeremiah 4:13
 Behold, he advances like the clouds, his chariots are like a whirlwind, his horses swifter than eagles. Woe to us! We are ruined!
@@ -61,22 +61,22 @@ Oh, my anguish, my anguish! I writhe in pain. Oh, the agony of my heart! My hear
 Disaster upon disaster is proclaimed; the whole land is devastated. In an instant my tents are destroyed, my shelters in a moment.
 
 ## Jeremiah 4:21
-How long must I see the battle standard and hear the sound of the trumpet?
+How long must I witness the battle standard and hear the sound of the trumpet?
 
 ## Jeremiah 4:22
 “For My people are foolish; they do not know Me. They are senseless children; they have no understanding. They are skilled in doing evil; they do not know how to do good.”
 
 ## Jeremiah 4:23
-I looked at the earth, and it was formless and empty; and at the heavens, and their light was gone.
+I observed the earth, and it was formless and empty; and at the heavens, and their light was gone.
 
 ## Jeremiah 4:24
-I looked at the mountains, and they were quaking; all the hills were swaying.
+I observed the mountains, and they were quaking; all the hills were swaying.
 
 ## Jeremiah 4:25
-I looked, and there were no people; every bird in the sky had flown away.
+I observed, and there were no people; every bird in the sky had flown away.
 
 ## Jeremiah 4:26
-I looked, and the fruitful land was a desert; all its towns lay in ruins before the Lord, before His fierce anger.
+I observed, and the fruitful land was a desert; all its towns lay in ruins before the Lord, in the face of His fierce anger.
 
 ## Jeremiah 4:27
 For this is what the Lord says: “The whole land will be a desolation, yet I will not destroy it completely.

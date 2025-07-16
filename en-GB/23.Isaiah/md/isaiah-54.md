@@ -22,7 +22,7 @@ The Lord has called you back like a wife deserted and distressed in spirit, like
 “For a brief moment I abandoned you, but with great compassion I will gather you back.
 
 ## Isaiah 54:8
-In a surge of anger I hid my face from you for a moment, but with everlasting kindness I will have compassion on you,” says the Lord your Redeemer.
+In a moment of anger, I turned away from you, but with enduring kindness, I will show you compassion,” says the Lord your Redeemer.
 
 ## Isaiah 54:9
 “To me this is like the days of Noah, when I swore that the waters of Noah would never again flood the earth. So I have sworn not to be angry with you or rebuke you again.
@@ -37,7 +37,7 @@ Though the mountains be removed and the hills be shaken, yet my steadfast love f
 I will make your battlements of rubies, your gates of crystal, and all your walls of precious stones.
 
 ## Isaiah 54:13
-All your children will be taught by the Lord, and great will be their peace.
+All your children will be guided by the Lord, and their peace will be abundant.
 
 ## Isaiah 54:14
 In righteousness you will be established; you will be far from oppression, and you will not fear; terror will be far removed; it will not come near you.

@@ -30,11 +30,11 @@ The fear of the Lord is the beginning of knowledge; fools despise wisdom and ins
 
 ## Proverbs 1:8
 
-Listen, my son, to your father’s instruction, and do not forsake your mother’s teaching;
+Pay attention, my son, to your father’s guidance, and do not abandon your mother’s teaching;
 
 ## Proverbs 1:9
 
-For they are a graceful garland for your head and pendants for your neck.
+For they are like a beautiful crown for your head and ornaments for your neck.
 
 ---
 
@@ -86,7 +86,7 @@ But these men lie in wait for their own blood; they set an ambush for their own 
 
 ## Proverbs 1:19
 
-Such are the ways of everyone who is greedy for unjust gain; it takes away the life of its possessors.
+Such are the ways of everyone who is greedy for unjust gain; it takes away the life of those who pursue it.
 
 ---
 
@@ -152,7 +152,7 @@ Therefore they shall eat the fruit of their ways and be filled with the fruit of
 
 ## Proverbs 1:32
 
-For the waywardness of the simple will kill them, and the complacency of fools will destroy them;
+For the waywardness of the simple will lead to their downfall, and the complacency of fools will bring about their ruin;
 
 ## Proverbs 1:33
 

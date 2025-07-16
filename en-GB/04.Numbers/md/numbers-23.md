@@ -22,7 +22,7 @@ Balaam returned to Balak, who was standing beside his offering with all the Moab
 Balaam began his oracle: “Balak brought me from Aram, Moab's king from the eastern mountains, saying, ‘Come, curse Jacob for me; come, denounce Israel.’
 
 ## Numbers 23:8
-How can I curse those whom God has not cursed? How can I denounce those whom the Lord has not denounced?
+How can I speak against those whom God has not spoken against? How can I oppose those whom the Lord has not opposed?
 
 ## Numbers 23:9
 From the rocky peaks I see them, from the hills I observe them. Here is a people who live apart and do not count themselves among the nations.
@@ -58,13 +58,13 @@ Balaam delivered his message: “Arise, Balak, and listen; hear me, son of Zippo
 God is not a man, that He should lie, nor a son of man, that He should change His mind. Does He speak and not act? Does He promise and not fulfil?
 
 ## Numbers 23:20
-I have received a command to bless; He has blessed, and I cannot change it.
+I have received a directive to bless; He has given His blessing, and I cannot alter it.
 
 ## Numbers 23:21
 No misfortune is seen in Jacob, no misery in Israel. The Lord their God is with them; the shout of a king is among them.
 
 ## Numbers 23:22
-God brought them out of Egypt; they have the strength of a wild ox.
+God led them out of Egypt; they possess the strength of a mighty ox.
 
 ## Numbers 23:23
 There is no enchantment against Jacob, no divination against Israel. It will now be said of Jacob and Israel, ‘See what God has done!’
@@ -73,7 +73,7 @@ There is no enchantment against Jacob, no divination against Israel. It will now
 The people rise like a lioness; they rouse themselves like a lion that does not rest until it devours its prey and drinks the blood of the slain.”
 
 ## Numbers 23:25
-Balak said to Balaam, “Do not curse them at all, nor bless them at all!”
+Balak said to Balaam, “Refrain from cursing them or blessing them!”
 
 ## Numbers 23:26
 Balaam answered, “Did I not tell you that I must do whatever the Lord says?”
@@ -85,7 +85,7 @@ Balak said, “Come, let me take you to another place. Perhaps it will please Go
 Balak took Balaam to the top of Peor, overlooking the wasteland.
 
 ## Numbers 23:29
-Balaam said, “Build me seven altars here, and prepare seven bulls and seven rams for me.”
+Balaam said, “Construct seven altars here, and prepare seven bulls and seven rams for me.”
 
 ## Numbers 23:30
 Balak did as Balaam had instructed, offering a bull and a ram on each altar.

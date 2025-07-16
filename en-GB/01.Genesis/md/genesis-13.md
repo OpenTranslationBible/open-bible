@@ -4,7 +4,7 @@
 So Abram went up from Egypt to the Negev, with his wife and all his possessions, and Lot went with him.
 
 ## Genesis 13:2
-Abram was very wealthy in livestock, silver, and gold.
+Abram had great wealth in livestock, silver, and gold.
 
 ## Genesis 13:3
 He journeyed from the Negev as far as Bethel, to the place where his tent had been at the start, between Bethel and Ai,

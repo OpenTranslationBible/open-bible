@@ -61,7 +61,7 @@ Now, please stay here tonight as well, so that I may find out what else the Lord
 That night, God came to Balaam and said, “Since these men have come to call you, go with them, but only do what I tell you.”
 
 ## Numbers 22:21
-Balaam got up in the morning, saddled his donkey, and went with the Moabite officials.
+Balaam rose early, prepared his donkey, and accompanied the Moabite officials.
 
 ## Numbers 22:22
 But God was angry when he went, and the angel of the Lord stood in the road to oppose him. Balaam was riding his donkey, and his two servants were with him.
@@ -79,13 +79,13 @@ When the donkey saw the angel of the Lord, it pressed against the wall, crushing
 The angel of the Lord moved on further and stood in a narrow place where there was no room to turn, either to the right or to the left.
 
 ## Numbers 22:27
-When the donkey saw the angel of the Lord, it lay down under Balaam, and he was angry and beat it with his staff.
+Seeing the angel of the Lord, the donkey lay down under Balaam, causing him to become angry and strike it with his staff.
 
 ## Numbers 22:28
-Then the Lord opened the donkey’s mouth, and it said to Balaam, “What have I done to you to make you beat me these three times?”
+Then the Lord enabled the donkey to speak, and it said to Balaam, “What have I done to you to make you strike me these three times?”
 
 ## Numbers 22:29
-Balaam answered the donkey, “You have made a fool of me! If only I had a sword in my hand, I would kill you right now.”
+Balaam replied to the donkey, “You have embarrassed me! If only I had a sword in my hand, I would have killed you by now.”
 
 ## Numbers 22:30
 The donkey said to Balaam, “Am I not your own donkey, which you have ridden all your life to this day? Have I ever been in the habit of doing this to you?” “No,” he replied.
@@ -94,7 +94,7 @@ The donkey said to Balaam, “Am I not your own donkey, which you have ridden al
 Then the Lord opened Balaam’s eyes, and he saw the angel of the Lord standing in the road with his sword drawn. So he bowed low and fell facedown.
 
 ## Numbers 22:32
-The angel of the Lord asked him, “Why have you beaten your donkey these three times? I have come here to oppose you because your path is a reckless one before me.
+The angel of the Lord asked him, “Why have you struck your donkey these three times? I have come here to oppose you because your path is a reckless one before me.
 
 ## Numbers 22:33
 The donkey saw me and turned away from me these three times. If it had not turned away, I would certainly have killed you by now, but I would have spared it.”
@@ -103,7 +103,7 @@ The donkey saw me and turned away from me these three times. If it had not turne
 Balaam said to the angel of the Lord, “I have sinned. I did not realise you were standing in the road to oppose me. If you are displeased, I will go back.”
 
 ## Numbers 22:35
-The angel of the Lord said to Balaam, “Go with the men, but speak only what I tell you.” So Balaam went with Balak’s officials.
+The angel of the Lord said to Balaam, “Go with the men, but speak only what I tell you.” So Balaam continued with Balak’s officials.
 
 ## Numbers 22:36
 When Balak heard that Balaam was coming, he went out to meet him at the Moabite town on the Arnon border, at the edge of his territory.
@@ -118,7 +118,7 @@ Balaam replied, “Well, I have come to you now. But can I say just anything? I 
 Then Balaam went with Balak to Kiriath Huzoth.
 
 ## Numbers 22:40
-Balak sacrificed cattle and sheep, and gave some to Balaam and the officials who were with him.
+Balak offered cattle and sheep, and shared them with Balaam and the officials who were with him.
 
 ## Numbers 22:41
 The next morning, Balak took Balaam up to the high places of Baal, and from there he could see part of the Israelite camp.

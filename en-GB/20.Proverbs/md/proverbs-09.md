@@ -46,7 +46,7 @@ Instruct the wise and they will grow wiser still;
 
 ## Proverbs 9:10
 
-The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.
+Reverence for the Lord is the foundation of wisdom, and understanding comes from knowing the Holy One.
 
 ## Proverbs 9:11
 

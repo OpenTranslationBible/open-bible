@@ -13,7 +13,7 @@ Behold, I will rebuke your descendants, and I will spread dung on your faces, th
 Then you will know that I have sent you this command so that my covenant with Levi may continue,” says the Lord of Hosts.
 
 ## Malachi 2:5
-“My covenant with him was one of life and peace, and I gave them to him as an object of reverence; so he revered me and stood in awe of my name.
+“My covenant with him was one of life and peace, and I granted them to him as a sign of reverence; thus he revered me and stood in awe of my name.
 
 ## Malachi 2:6
 True instruction was in his mouth, and no injustice was found on his lips. He walked with me in peace and uprightness, and turned many from wrongdoing.
@@ -43,7 +43,7 @@ And this is another thing you do: you flood the Lord’s altar with tears, weepi
 You ask, “Why?” It is because the Lord is a witness between you and the wife of your youth. You have been unfaithful to her, though she is your partner, the wife of your marriage covenant.
 
 ## Malachi 2:15
-Has not the one God made you? You belong to him in body and spirit. And what does the one God seek? Godly offspring. So be on your guard, and do not be unfaithful to the wife of your youth.
+Did not the one God create you? You belong to him in body and spirit. And what does the one God desire? Godly offspring. So be on your guard, and do not be unfaithful to the wife of your youth.
 
 ## Malachi 2:16
 “For I hate divorce,” says the Lord, the God of Israel, “and the one who covers his garment with violence,” says the Lord of Hosts. So be on your guard, and do not be unfaithful.

@@ -10,11 +10,11 @@ Behold, a severe earthquake occurred, for an angel of the Lord descended from he
 
 ## Matthew 28:3
 
-His appearance was like lightning, and his clothing was as white as snow.
+His appearance was dazzling like lightning, and his clothing was as bright as snow.
 
 ## Matthew 28:4
 
-The guards were so afraid of him that they shook and became like dead men.
+The guards were so terrified of him that they trembled and appeared lifeless.
 
 ---
 
@@ -82,7 +82,7 @@ Then Jesus approached and spoke to them, saying, “All authority in heaven and 
 
 ## Matthew 28:19
 
-Therefore, go and make disciples of all nations, baptising them in the name of the Father and of the Son and of the Holy Spirit,
+Therefore, go and make disciples of all nations, baptizing them in the name of the Father, the Son, and the Holy Spirit,
 
 ## Matthew 28:20
 

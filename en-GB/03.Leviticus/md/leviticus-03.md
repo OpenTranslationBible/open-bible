@@ -31,7 +31,7 @@ From the peace offering you shall bring an offering by fire to the Lord: its fat
 and the two kidneys with the fat on them near the loins, and the lobe of the liver, which you shall remove with the kidneys.
 
 ## Leviticus 3:11
-The priest shall offer it up in smoke on the altar as food, an offering by fire to the Lord.
+The priest shall burn it on the altar as nourishment, an offering by fire to the Lord.
 
 ## Leviticus 3:12
 If your offering is a goat, you shall present it before the Lord,
@@ -46,7 +46,7 @@ From it you shall present your offering as an offering by fire to the Lord: the 
 and the two kidneys with the fat on them near the loins, and the lobe of the liver, which you shall remove with the kidneys.
 
 ## Leviticus 3:16
-The priest shall offer them up in smoke on the altar as food, an offering by fire, a pleasing aroma. All the fat is the Lord’s.
+The priest shall burn them on the altar as nourishment, an offering by fire, a pleasing aroma. All the fat is the Lord’s.
 
 ## Leviticus 3:17
 This is a lasting ordinance for all your generations wherever you live: you shall not eat any fat or any blood.’

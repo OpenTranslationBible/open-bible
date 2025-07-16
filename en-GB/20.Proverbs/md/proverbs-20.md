@@ -25,7 +25,7 @@ The righteous walk in integrity; blessed are their children after them.
 A king who sits on the throne of judgement winnows out all evil with his eyes.
 
 ## Proverbs 20:9
-Who can say, “I have cleansed my heart; I am pure from my sin”?
+Who can claim, “I have purified my heart; I am free from my sin”?
 
 ## Proverbs 20:10
 Differing weights and differing measures— both are detestable to the Lord.
@@ -34,7 +34,7 @@ Differing weights and differing measures— both are detestable to the Lord.
 Even a child is known by their actions, whether their conduct is pure and right.
 
 ## Proverbs 20:12
-Ears that hear and eyes that see— the Lord has made them both.
+The ability to hear and see— both are crafted by the Lord.
 
 ## Proverbs 20:13
 Do not love sleep, or you will grow poor; open your eyes, and you will have food to spare.
@@ -64,16 +64,16 @@ If someone curses their father or mother, their lamp will be snuffed out in dark
 An inheritance claimed hastily will not be blessed in the end.
 
 ## Proverbs 20:22
-Do not say, “I will repay evil”; wait for the Lord, and he will deliver you.
+Do not declare, “I will repay evil”; instead, wait for the Lord, and he will deliver you.
 
 ## Proverbs 20:23
 Differing weights are an abomination to the Lord, and dishonest scales are not good.
 
 ## Proverbs 20:24
-A person’s steps are directed by the Lord; how then can anyone understand their own way?
+The Lord directs a person’s steps; how then can anyone fully understand their own path?
 
 ## Proverbs 20:25
-It is a trap to dedicate something rashly and only later to consider one’s vows.
+It is risky to dedicate something impulsively and only later reflect on one’s vows.
 
 ## Proverbs 20:26
 A wise king winnows out the wicked and drives the threshing wheel over them.

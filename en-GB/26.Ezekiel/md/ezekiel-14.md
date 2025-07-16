@@ -4,7 +4,7 @@
 Some elders of Israel approached me and sat down before me.
 
 ## Ezekiel 14:2
-And the word of the Lord came to me, saying:
+And the message from the Lord was given to me:
 
 ## Ezekiel 14:3
 “Son of man, these men have set up idols in their hearts and placed a stumbling block of wrongdoing before their faces. Should I allow them to consult me at all?
@@ -34,7 +34,7 @@ They will bear their punishment—the prophet will be as guilty as the one who c
 Then the house of Israel will no longer stray from me, nor will they defile themselves with all their offences. They will be my people, and I will be their God, declares the Lord God.”
 
 ## Ezekiel 14:12
-Then the word of the Lord came to me, saying:
+And the message from the Lord was given to me:
 
 ## Ezekiel 14:13
 “Son of man, if a country sins against me by being unfaithful and I stretch out my hand against it to destroy its food supply and send famine upon it and eliminate both human and animal life,

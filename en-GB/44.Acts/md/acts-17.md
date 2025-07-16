@@ -30,7 +30,7 @@ and Jason has welcomed them. They are all acting against Caesar’s decrees, say
 
 ## Acts 17:8
 
-The crowd and the city officials were stirred up when they heard these things.
+The crowd and the city officials were unsettled when they heard these things.
 
 ## Acts 17:9
 
@@ -104,7 +104,7 @@ The God who made the world and everything in it, being Lord of heaven and earth,
 
 ## Acts 17:25
 
-Nor is he served by human hands, as though he needed anything, since he himself gives to all people life and breath and all things.
+Nor is he served by human hands, as if he needed anything, since he himself provides everyone with life and breath and all things.
 
 ## Acts 17:26
 
@@ -116,7 +116,7 @@ so that they would seek God, if perhaps they might feel their way towards him an
 
 ## Acts 17:28
 
-For in him we live and move and have our being, as even some of your own poets have said, ‘For we are also his offspring.’
+For in him we live and move and exist, as even some of your own poets have said, ‘For we are also his offspring.’
 
 ## Acts 17:29
 
@@ -124,7 +124,7 @@ Therefore, since we are God’s offspring, we ought not to think that the divine
 
 ## Acts 17:30
 
-In the past, God overlooked such ignorance, but now he commands all people everywhere to repent,
+In the past, God overlooked such ignorance, but now he calls all people everywhere to repent,
 
 ## Acts 17:31
 

@@ -52,7 +52,7 @@ no longer as a slave, but more than a slave, a beloved brother, especially to me
 If you consider me a partner, accept him as you would accept me.
 
 ## Philemon 1:18
-If he has wronged you in any way or owes you anything, charge it to me.
+If he has caused you any harm or owes you anything, consider it my responsibility.
 
 ## Philemon 1:19
 I, Paul, write this with my own hand—I will repay it—not to mention that you owe me even your own self.
@@ -61,16 +61,16 @@ I, Paul, write this with my own hand—I will repay it—not to mention that you
 Yes, brother, let me have some benefit from you in the Lord; refresh my heart in Christ.
 
 ## Philemon 1:21
-Confident of your obedience, I write to you, knowing that you will do even more than I ask.
+Trusting in your willingness to comply, I write to you, knowing that you will do even more than I ask.
 
 ## Philemon 1:22
 At the same time, prepare a guest room for me, for I hope to be restored to you through your prayers.
 
 ## Philemon 1:23
-Epaphras, my fellow prisoner in Christ Jesus, sends you greetings.
+Epaphras, who is in prison with me for Christ Jesus, sends you greetings.
 
 ## Philemon 1:24
-As do Mark, Aristarchus, Demas, and Luke, my fellow workers.
+As do Mark, Aristarchus, Demas, and Luke, who are my fellow workers.
 
 ## Philemon 1:25
 The grace of the Lord Jesus Christ be with your spirit.

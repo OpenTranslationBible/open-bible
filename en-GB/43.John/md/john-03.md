@@ -26,7 +26,7 @@ That which is born of the flesh is flesh, and that which is born of the Spirit i
 
 ## John 3:7
 
-Do not be surprised that I said to you, ‘You must be born again.’
+Do not be amazed that I said to you, ‘You must experience a new birth.’
 
 ## John 3:8
 
@@ -48,19 +48,19 @@ Truly, truly, I say to you, we speak of what we know, and we testify to what we 
 
 ## John 3:12
 
-If I have told you earthly things and you do not believe, how will you believe if I tell you heavenly things?
+If I have spoken to you of earthly matters and you do not believe, how will you believe if I speak of heavenly matters?
 
 ## John 3:13
 
-No one has ascended into heaven except the one who descended from heaven—the Son of Man.
+No one has gone up to heaven except the One who came down from heaven—the Son of Man.
 
 ## John 3:14
 
-Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up,
+Just as Moses lifted up the serpent in the wilderness, so must the Son of Man be elevated,
 
 ## John 3:15
 
-that everyone who believes may have eternal life in Him.
+so that everyone who believes may have eternal life through Him.
 
 ---
 
@@ -82,11 +82,11 @@ This is the judgement: Light has come into the world, but people loved darkness 
 
 ## John 3:20
 
-Everyone who does evil hates the light and will not come into the light for fear that their deeds will be exposed.
+Those who do evil avoid the light, fearing their deeds will be revealed.
 
 ## John 3:21
 
-But whoever lives by the truth comes into the light, so that it may be seen plainly that what they have done has been done in the sight of God.
+But whoever practices the truth comes into the light, so that it may be evident that what they have done has been done in the sight of God.
 
 ---
 
@@ -118,21 +118,21 @@ John replied, “A person can receive only what is given them from heaven.
 
 ## John 3:28
 
-You yourselves can testify that I said, ‘I am not the Messiah but am sent ahead of Him.’
+You can confirm that I said, ‘I am not the Messiah but am sent ahead of Him.’
 
 ## John 3:29
 
-The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him and is full of joy when he hears the bridegroom’s voice. That joy is mine, and it is now complete.
+The bride belongs to the bridegroom. The friend who attends the bridegroom waits and listens for him and is filled with joy when he hears the bridegroom’s voice. That joy is mine, and it is now complete.
 
 ## John 3:30
 
-He must become greater; I must become less.
+He must increase; I must decrease.
 
 ---
 
 ## John 3:31
 
-The one who comes from above is above all; the one who is from the earth belongs to the earth and speaks as one from the earth. The one who comes from heaven is above all.
+The one who comes from above is supreme; the one who is from the earth belongs to the earth and speaks from an earthly perspective. The one who comes from heaven is supreme.
 
 ## John 3:32
 
@@ -144,12 +144,12 @@ Whoever has accepted His testimony has certified that God is truthful.
 
 ## John 3:34
 
-For the one whom God has sent speaks the words of God, for God gives the Spirit without limit.
+For the one whom God has sent speaks the words of God, for God gives the Spirit without measure.
 
 ## John 3:35
 
-The Father loves the Son and has placed everything in His hands.
+The Father loves the Son and has entrusted everything to His hands.
 
 ## John 3:36
 
-Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God’s wrath remains on them.
+Whoever believes in the Son has eternal life, but whoever rejects the Son will not see life, for God’s displeasure remains on them.

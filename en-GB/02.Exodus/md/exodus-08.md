@@ -10,7 +10,7 @@ But if you refuse to let them go, I will bring a plague of frogs upon your entir
 The Nile will teem with frogs, which will come up and enter your palace, your bedroom, and your bed, and into the houses of your officials and your people, and into your ovens and kneading troughs.
 
 ## Exodus 8:4
-The frogs will come up on you, your people, and all your officials.’”
+The frogs will invade you, your people, and all your officials.’”
 
 ## Exodus 8:5
 Then the Lord said to Moses, “Instruct Aaron, ‘Stretch out your hand with your staff over the rivers, streams, and ponds, and make frogs come up on the land of Egypt.’”
@@ -55,7 +55,7 @@ They did this, and when Aaron stretched out his hand with the staff and struck t
 The magicians tried to produce gnats by their secret arts, but they could not. There were gnats on people and animals everywhere.
 
 ## Exodus 8:19
-The magicians said to Pharaoh, “This is the finger of God.” But Pharaoh’s heart was hard, and he would not listen, just as the Lord had said.
+The magicians said to Pharaoh, “This is the work of God.” But Pharaoh’s heart was stubborn, and he would not listen, just as the Lord had said.
 
 ## Exodus 8:20
 Then the Lord said to Moses, “Rise early in the morning and confront Pharaoh as he goes to the river and say to him, ‘This is what the Lord says: Let my people go, so that they may serve me.
@@ -67,19 +67,19 @@ If you refuse to let my people go, I will send swarms of flies on you, your offi
 But on that day I will set apart the land of Goshen, where my people live, so that no swarms of flies will be there, so that you will know that I, the Lord, am in this land.
 
 ## Exodus 8:23
-I will make a distinction between my people and your people. This sign will occur tomorrow.’”
+I will show a difference between my people and your people. This sign will happen tomorrow.’”
 
 ## Exodus 8:24
 And the Lord did so. Dense swarms of flies came into Pharaoh’s palace and into the houses of his officials; throughout Egypt, the land was ruined by the flies.
 
 ## Exodus 8:25
-Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God here in the land.”
+Then Pharaoh summoned Moses and Aaron and said, “Go, sacrifice to your God here in this land.”
 
 ## Exodus 8:26
 But Moses said, “That would not be right. The sacrifices we offer the Lord our God would be detestable to the Egyptians. If we offer sacrifices that are detestable in their eyes, will they not stone us?
 
 ## Exodus 8:27
-We must take a three-day journey into the wilderness to offer sacrifices to the Lord our God, as He commands us.”
+We must take a three-day journey into the wilderness to offer sacrifices to the Lord our God, as He has directed us.”
 
 ## Exodus 8:28
 Pharaoh said, “I will let you go to offer sacrifices to the Lord your God in the wilderness, but you must not go very far. Now pray for me.”
@@ -88,10 +88,10 @@ Pharaoh said, “I will let you go to offer sacrifices to the Lord your God in t
 Moses answered, “As soon as I leave you, I will pray to the Lord, and tomorrow the flies will depart from Pharaoh, his officials, and his people. Only let Pharaoh be sure not to act deceitfully again by not letting the people go to offer sacrifices to the Lord.”
 
 ## Exodus 8:30
-Then Moses left Pharaoh and prayed to the Lord,
+Moses then departed from Pharaoh and prayed to the Lord,
 
 ## Exodus 8:31
 and the Lord did as Moses asked. The flies left Pharaoh, his officials, and his people; not a fly remained.
 
 ## Exodus 8:32
-But Pharaoh hardened his heart this time also, and he did not let the people go.
+Yet Pharaoh hardened his heart once more, and he did not let the people go.

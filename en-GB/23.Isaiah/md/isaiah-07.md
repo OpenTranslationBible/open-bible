@@ -42,11 +42,11 @@ The Lord spoke again to Ahaz,
 
 ## Isaiah 7:11
 
-“Ask the Lord your God for a sign, whether in the deepest depths or in the highest heights.”
+“Seek a sign from the Lord your God, whether from the depths below or the heights above.”
 
 ## Isaiah 7:12
 
-But Ahaz replied, “I will not ask; I will not put the Lord to the test.”
+But Ahaz replied, “I will not seek a sign. I will not test the Lord.”
 
 ## Isaiah 7:13
 
@@ -54,7 +54,7 @@ Then Isaiah said, “Hear now, O house of David! Is it not enough to try the pat
 
 ## Isaiah 7:14
 
-Therefore the Lord himself will give you a sign: Behold, the virgin shall conceive and bear a son, and shall call his name Immanuel.
+Therefore the Lord himself will provide you with a sign: Behold, the young woman shall conceive and bear a son, and shall call his name Immanuel.
 
 ## Isaiah 7:15
 
@@ -84,7 +84,7 @@ On that day, the Lord will use a razor hired from beyond the Euphrates—the kin
 
 ## Isaiah 7:21
 
-On that day, a person will keep alive a young cow and two sheep.
+On that day, a person will sustain a young cow and two sheep.
 
 ## Isaiah 7:22
 

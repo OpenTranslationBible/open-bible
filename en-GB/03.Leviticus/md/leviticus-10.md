@@ -22,7 +22,7 @@ Moses said to Aaron and his sons Eleazar and Ithamar, “Do not let your hair be
 Do not leave the entrance of the tent of meeting, or you will die, for the Lord’s anointing oil is upon you.” So they did according to Moses’ instructions.
 
 ## Leviticus 10:8
-Then the Lord spoke to Aaron, saying,
+The Lord addressed Aaron, saying,
 
 ## Leviticus 10:9
 “You and your sons must not drink wine or other fermented drink when you enter the tent of meeting, lest you die. This is a perpetual statute for your generations,

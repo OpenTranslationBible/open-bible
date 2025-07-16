@@ -22,7 +22,7 @@ Now send men to Joppa to bring back a man named Simon, who is also called Peter.
 
 ## Acts 10:6
 
-He is staying with Simon the tanner, whose house is by the sea.”
+He is lodging with Simon the tanner, whose house is located by the sea.”
 
 ## Acts 10:7
 
@@ -30,7 +30,7 @@ When the angel who spoke to him had departed, he summoned two of his servants an
 
 ## Acts 10:8
 
-After explaining everything to them, he sent them to Joppa.
+After providing them with all the necessary details, he sent them to Joppa.
 
 ---
 
@@ -40,11 +40,11 @@ The following day, as they were on their journey and approaching the city, Peter
 
 ## Acts 10:10
 
-He became hungry and wanted something to eat, and while the meal was being prepared, he fell into a trance.
+He felt hungry and desired something to eat, and while the meal was being prepared, he fell into a trance.
 
 ## Acts 10:11
 
-He saw heaven opened and something like a large sheet being let down to earth by its four corners.
+He saw the heavens opened and something resembling a large sheet being lowered to earth by its four corners.
 
 ## Acts 10:12
 
@@ -52,7 +52,7 @@ In it were all kinds of four-footed animals, as well as reptiles and birds.
 
 ## Acts 10:13
 
-Then a voice said to him, “Get up, Peter. Kill and eat.”
+Then a voice said to him, “Arise, Peter; kill and eat.”
 
 ## Acts 10:14
 
@@ -64,7 +64,7 @@ The voice spoke to him again, “What God has made clean, do not call impure.”
 
 ## Acts 10:16
 
-This happened three times, and immediately the sheet was taken back to heaven.
+This occurred three times, and immediately the sheet was taken back to heaven.
 
 ---
 
@@ -88,7 +88,7 @@ Get up, go downstairs, and accompany them without hesitation, for I have sent th
 
 ## Acts 10:21
 
-Peter went down to the men and said, “I am the one you are looking for. Why have you come?”
+Peter went down to the men and said, “I am the one you are seeking. What is the reason for your visit?”
 
 ## Acts 10:22
 
@@ -102,7 +102,7 @@ So Peter invited them in and gave them lodging. The next day, he got ready and w
 
 ## Acts 10:24
 
-The following day, he arrived in Caesarea. Cornelius was expecting them and had called together his relatives and close friends.
+The following day, he arrived in Caesarea. Cornelius was anticipating their arrival and had gathered his relatives and close friends.
 
 ## Acts 10:25
 
@@ -110,19 +110,19 @@ As Peter entered, Cornelius met him and fell at his feet in reverence.
 
 ## Acts 10:26
 
-But Peter helped him up, saying, “Stand up; I am only a man myself.”
+But Peter helped him up, saying, “Stand up. I am merely a man myself.”
 
 ## Acts 10:27
 
-While talking with him, Peter went inside and found a large gathering of people.
+While conversing with him, Peter went inside and found a large gathering of people.
 
 ## Acts 10:28
 
-He said to them, “You are well aware that it is against our law for a Jew to associate with or visit a Gentile. But God has shown me that I should not call anyone impure or unclean.
+He said to them: “You are aware that it is against our law for a Jew to associate with or visit a Gentile. But God has shown me that I should not call anyone impure or unclean.
 
 ## Acts 10:29
 
-So when I was sent for, I came without raising any objection. May I ask why you sent for me?”
+So when I was sent for, I came without raising any objection. May I inquire as to the reason you sent for me?”
 
 ---
 
@@ -150,11 +150,11 @@ Then Peter began to speak: “I now truly understand that God shows no partialit
 
 ## Acts 10:35
 
-but accepts from every nation the one who fears Him and does what is right.
+but welcomes from every nation the one who fears Him and does what is right.
 
 ## Acts 10:36
 
-You know the message God sent to the people of Israel, announcing the good news of peace through Jesus Christ, who is Lord of all.
+You are aware of the message God sent to the people of Israel, proclaiming the good news of peace through Jesus Christ, who is Lord of all.
 
 ## Acts 10:37
 
@@ -204,4 +204,4 @@ For they heard them speaking in tongues and praising God. Then Peter said,
 
 ## Acts 10:48
 
-So he ordered that they be baptised in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.
+So he directed that they be baptised in the name of Jesus Christ. Then they asked Peter to stay with them for a few days.

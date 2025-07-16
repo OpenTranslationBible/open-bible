@@ -26,7 +26,7 @@ Because you are sons, God sent the Spirit of His Son into our hearts, crying, �
 
 ## Galatians 4:7
 
-So you are no longer a slave, but a son; and if a son, then an heir through God.
+Therefore, you are no longer a slave, but a child; and if a child, then an heir through God.
 
 ## Galatians 4:8
 
@@ -74,7 +74,7 @@ It is good to be zealous, provided the purpose is good, and to be so always, not
 
 ## Galatians 4:19
 
-My dear children, for whom I am again in the pains of childbirth until Christ is formed in you,
+My beloved children, for whom I am again in the pains of childbirth until Christ is formed in you,
 
 ## Galatians 4:20
 
@@ -86,11 +86,11 @@ Tell me, you who want to be under the law, do you not hear the law?
 
 ## Galatians 4:22
 
-For it is written that Abraham had two sons, one by the slave woman and one by the free woman.
+For it is written that Abraham had two sons, one by the servant woman and one by the free woman.
 
 ## Galatians 4:23
 
-The son of the slave woman was born according to the flesh, but the son of the free woman was born through the promise.
+The son of the servant woman was born according to the flesh, but the son of the free woman was born through the promise.
 
 ## Galatians 4:24
 
@@ -115,7 +115,7 @@ For it is written:
 
 ## Galatians 4:28
 
-Now you, brothers and sisters, like Isaac, are children of promise.
+Now you, brothers and sisters, like Isaac, are children of the promise.
 
 ## Galatians 4:29
 
@@ -123,8 +123,8 @@ But just as then, the child born according to the flesh persecuted the one born 
 
 ## Galatians 4:30
 
-But what does the Scripture say? “Cast out the slave woman and her son, for the son of the slave woman shall not share the inheritance with the son of the free woman.”
+But what does the Scripture say? “Cast out the servant woman and her son, for the son of the servant woman shall not share the inheritance with the son of the free woman.”
 
 ## Galatians 4:31
 
-Therefore, brothers and sisters, we are not children of the slave woman, but of the free woman.
+So then, brothers and sisters, we are not children of the servant woman, but of the free woman.

@@ -7,10 +7,10 @@ Then the Lord said to Moses, “Go to Pharaoh, for I have hardened his heart and
 that you may recount to your sons and grandsons how I made a mockery of the Egyptians and how I performed my signs among them, so that you may know that I am the Lord.”
 
 ## Exodus 10:3
-So Moses and Aaron went to Pharaoh and said to him, “This is what the Lord, the God of the Hebrews, says: ‘How long will you refuse to humble yourself before me? Let my people go, so that they may serve me.
+So Moses and Aaron approached Pharaoh and conveyed the message: “This is what the Lord, the God of the Hebrews, declares: ‘How long will you refuse to humble yourself before me? Allow my people to go, so that they may serve me.
 
 ## Exodus 10:4
-For if you refuse to let my people go, behold, tomorrow I will bring locusts into your territory.
+For if you continue to refuse to let my people go, take note, tomorrow I will bring locusts into your territory.
 
 ## Exodus 10:5
 They will cover the surface of the land so that no one will be able to see it. They will devour what is left to you after the hail, including every tree that grows in your fields.
@@ -58,7 +58,7 @@ Then Moses left Pharaoh and pleaded with the Lord.
 So the Lord changed the wind to a very strong west wind, which picked up the locusts and drove them into the Red Sea. Not a single locust was left in all the territory of Egypt.
 
 ## Exodus 10:20
-But the Lord hardened Pharaoh’s heart, and he did not let the Israelites go.
+Yet the Lord made Pharaoh’s heart stubborn, and he did not allow the Israelites to leave.
 
 ## Exodus 10:21
 Then the Lord said to Moses, “Stretch out your hand toward the sky, so that darkness spreads over the land of Egypt—a darkness that can be felt.”
@@ -79,10 +79,10 @@ But Moses said, “You must also let us have sacrifices and burnt offerings to p
 Our livestock too must go with us; not a hoof shall be left behind. We must take some of them to serve the Lord our God, and until we arrive there, we do not know what we shall use to serve the Lord.”
 
 ## Exodus 10:27
-But the Lord hardened Pharaoh’s heart, and he was not willing to let them go.
+However, the Lord made Pharaoh’s heart stubborn, and he was not willing to let them go.
 
 ## Exodus 10:28
 Then Pharaoh said to Moses, “Get away from me! Be sure you do not see my face again, for on the day you see my face, you shall die.”
 
 ## Exodus 10:29
-Moses said, “You have spoken correctly; I shall never see your face again!”
+Moses replied, “You have spoken truly; I shall never see your face again!”

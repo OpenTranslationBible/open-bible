@@ -13,7 +13,7 @@ You will be blessed in the city and blessed in the countryside.
 Blessed will be the fruit of your womb, the produce of your ground, and the offspring of your livestock—the young of your herds and the lambs of your flocks.
 
 ## Deuteronomy 28:5
-Your basket and your kneading bowl will be blessed.
+Your basket and your kneading bowl will be favored.
 
 ## Deuteronomy 28:6
 You will be blessed when you come in and blessed when you go out.
@@ -31,10 +31,10 @@ The Lord will establish you as His holy people, as He swore to you, if you keep 
 Then all the peoples of the earth will see that you are called by the name of the Lord, and they will fear you.
 
 ## Deuteronomy 28:11
-The Lord will grant you abundant prosperity—in the fruit of your womb, the young of your livestock, and the crops of your ground—in the land He swore to your ancestors to give you.
+The Lord will grant you great prosperity—in the fruit of your womb, the young of your livestock, and the crops of your ground—in the land He swore to your ancestors to give you.
 
 ## Deuteronomy 28:12
-The Lord will open the heavens, the storehouse of His bounty, to send rain on your land in season and to bless all the work of your hands. You will lend to many nations but will borrow from none.
+The Lord will open the heavens, the storehouse of His abundance, to send rain on your land in season and to bless all the work of your hands. You will lend to many nations but will borrow from none.
 
 ## Deuteronomy 28:13
 The Lord will make you the head and not the tail. If you pay attention to the commands of the Lord your God that I give you this day and follow them carefully, you will always be at the top, never at the bottom.
@@ -49,7 +49,7 @@ However, if you do not obey the Lord your God and do not carefully follow all Hi
 You will be cursed in the city and cursed in the countryside.
 
 ## Deuteronomy 28:17
-Your basket and your kneading bowl will be cursed.
+Your basket and your kneading bowl will be afflicted.
 
 ## Deuteronomy 28:18
 The fruit of your womb will be cursed, and the produce of your ground, the newborn of your herds, and the offspring of your flocks.
@@ -79,13 +79,13 @@ The Lord will cause you to be defeated before your enemies. You will go out one 
 Your carcasses will be food for all the birds of the sky and the wild animals, and there will be no one to frighten them away.
 
 ## Deuteronomy 28:27
-The Lord will afflict you with the boils of Egypt, with tumours, festering sores, and the itch, from which you cannot be healed.
+The Lord will afflict you with the boils of Egypt, with tumors, festering sores, and the itch, from which you cannot be healed.
 
 ## Deuteronomy 28:28
 The Lord will afflict you with madness, blindness, and confusion of mind.
 
 ## Deuteronomy 28:29
-At midday you will grope about like a blind person in the dark. You will be unsuccessful in everything you do; day after day you will be oppressed and robbed, with no one to rescue you.
+At midday you will stumble about like a blind person in the dark. You will be unsuccessful in everything you do; day after day you will be oppressed and robbed, with no one to rescue you.
 
 ## Deuteronomy 28:30
 You will be pledged to be married to a woman, but another will violate her. You will build a house, but you will not live in it. You will plant a vineyard, but you will not enjoy its fruit.
@@ -94,22 +94,22 @@ You will be pledged to be married to a woman, but another will violate her. You 
 Your ox will be slaughtered before your eyes, but you will eat none of it. Your donkey will be forcibly taken from you and will not be returned. Your sheep will be given to your enemies, and no one will rescue them.
 
 ## Deuteronomy 28:32
-Your sons and daughters will be given to another nation, and you will wear out your eyes watching for them day after day, powerless to lift a hand.
+Your sons and daughters will be given to another nation, and you will wear out your eyes watching for them day after day, unable to lift a hand.
 
 ## Deuteronomy 28:33
-A people that you do not know will eat what your land and labour produce, and you will have nothing but cruel oppression all your days.
+A people that you do not know will consume what your land and labor produce, and you will endure nothing but harsh oppression all your days.
 
 ## Deuteronomy 28:34
-The sights you see will drive you mad.
+The things you witness will drive you to madness.
 
 ## Deuteronomy 28:35
 The Lord will afflict your knees and legs with painful boils that cannot be healed, spreading from the soles of your feet to the top of your head.
 
 ## Deuteronomy 28:36
-The Lord will drive you and the king you set over you to a nation unknown to you or your ancestors. There you will worship other gods, gods of wood and stone.
+The Lord will drive you and the king you set over you to a nation unfamiliar to you or your ancestors. There you will worship other gods, gods of wood and stone.
 
 ## Deuteronomy 28:37
-You will become a thing of horror, a byword, and an object of ridicule among all the peoples where the Lord will drive you.
+You will become a symbol of horror, a byword, and an object of ridicule among all the peoples where the Lord will drive you.
 
 ## Deuteronomy 28:38
 You will sow much seed in the field but will harvest little, because locusts will devour it.
@@ -124,7 +124,7 @@ You will have olive trees throughout your country but will not use the oil, beca
 You will have sons and daughters but will not keep them, because they will go into captivity.
 
 ## Deuteronomy 28:42
-Swarms of locusts will take over all your trees and the crops of your land.
+Swarms of locusts will consume all your trees and the crops of your land.
 
 ## Deuteronomy 28:43
 The foreigners who reside among you will rise above you higher and higher, but you will sink lower and lower.
@@ -136,13 +136,13 @@ They will lend to you, but you will not lend to them. They will be the head, but
 All these curses will come upon you. They will pursue you and overtake you until you are destroyed, because you did not obey the Lord your God and observe the commands and decrees He gave you.
 
 ## Deuteronomy 28:46
-They will be a sign and a wonder to you and your descendants forever.
+They will be a sign and a wonder to you and your descendants for all time.
 
 ## Deuteronomy 28:47
-Because you did not serve the Lord your God joyfully and gladly in the time of prosperity,
+Because you did not serve the Lord your God with joy and gladness in the time of prosperity,
 
 ## Deuteronomy 28:48
-therefore in hunger and thirst, in nakedness and dire poverty, you will serve the enemies the Lord sends against you. He will put an iron yoke on your neck until He has destroyed you.
+therefore in hunger and thirst, in nakedness and dire poverty, you will serve the enemies the Lord sends against you. He will place a heavy yoke on your neck until He has destroyed you.
 
 ## Deuteronomy 28:49
 The Lord will bring a nation against you from far away, from the ends of the earth, like an eagle swooping down, a nation whose language you will not understand,
@@ -151,7 +151,7 @@ The Lord will bring a nation against you from far away, from the ends of the ear
 a fierce-looking nation without respect for the old or pity for the young.
 
 ## Deuteronomy 28:51
-They will devour the young of your livestock and the crops of your land until you are destroyed. They will leave you no grain, new wine, or olive oil, nor any calves of your herds or lambs of your flocks until you are ruined.
+They will consume the young of your livestock and the crops of your land until you are destroyed. They will leave you no grain, new wine, or olive oil, nor any calves of your herds or lambs of your flocks until you are ruined.
 
 ## Deuteronomy 28:52
 They will lay siege to all the cities throughout your land until the high fortified walls in which you trust fall down. They will besiege all the cities throughout the land the Lord your God is giving you.
@@ -175,7 +175,7 @@ the afterbirth from her womb and the children she bears. For in her dire need sh
 If you do not carefully follow all the words of this law, which are written in this book, and do not revere this glorious and awesome name—the Lord your God—
 
 ## Deuteronomy 28:59
-the Lord will send fearful plagues on you and your descendants, harsh and prolonged disasters, and severe and lingering illnesses.
+the Lord will send dreadful plagues on you and your descendants, harsh and prolonged disasters, and severe and lingering illnesses.
 
 ## Deuteronomy 28:60
 He will bring upon you all the diseases of Egypt that you dreaded, and they will cling to you.
@@ -187,7 +187,7 @@ The Lord will also bring upon you every kind of sickness and disaster not record
 You who were as numerous as the stars in the sky will be left but few in number, because you did not obey the Lord your God.
 
 ## Deuteronomy 28:63
-Just as it pleased the Lord to make you prosper and increase in number, so it will please Him to ruin and destroy you. You will be uprooted from the land you are entering to possess.
+Just as it pleased the Lord to make you prosper and increase in number, so it will please Him to bring you to ruin and destruction. You will be uprooted from the land you are entering to possess.
 
 ## Deuteronomy 28:64
 Then the Lord will scatter you among all nations, from one end of the earth to the other. There you will worship other gods—gods of wood and stone, which neither you nor your ancestors have known.

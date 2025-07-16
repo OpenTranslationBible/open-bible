@@ -43,7 +43,7 @@ But if a priest’s daughter becomes a widow or is divorced and has no children,
 If anyone eats a sacred offering unintentionally, they must make restitution to the priest for the offering and add a fifth of its value to it.
 
 ## Leviticus 22:15
-The priests must not desecrate the sacred offerings the Israelites present to the Lord
+The priests must ensure that the sacred offerings presented by the Israelites to the Lord are treated with respect
 
 ## Leviticus 22:16
 by allowing them to eat the sacred offerings and thereby bring upon them guilt requiring restitution. I am the Lord who makes them holy.’”
@@ -82,10 +82,10 @@ The Lord spoke to Moses, saying,
 “When a calf, lamb, or goat is born, it is to remain with its mother for seven days. From the eighth day on, it will be acceptable as a food offering presented to the Lord.
 
 ## Leviticus 22:28
-Do not slaughter a cow or a sheep and its young on the same day.
+Refrain from slaughtering a cow or a sheep along with its young on the same day.
 
 ## Leviticus 22:29
-“When you sacrifice a thank offering to the Lord, sacrifice it in such a way that it will be accepted on your behalf.
+“When you offer a thank offering to the Lord, do so in a manner that ensures it will be accepted on your behalf.
 
 ## Leviticus 22:30
 It must be eaten on the same day; do not leave any of it till morning. I am the Lord.
@@ -97,4 +97,4 @@ It must be eaten on the same day; do not leave any of it till morning. I am the 
 Do not profane My holy name, for I must be acknowledged as holy by the Israelites. I am the Lord who makes you holy,
 
 ## Leviticus 22:33
-and who brought you out of Egypt to be your God. I am the Lord.”
+and who delivered you from Egypt to be your God. I am the Lord.”

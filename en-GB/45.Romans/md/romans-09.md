@@ -54,7 +54,7 @@ As it is written: “Jacob I loved, but Esau I hated.”
 
 ## Romans 9:14
 
-What shall we say then? Is there injustice with God? Certainly not!
+What are we to conclude? Is there any injustice with God? Absolutely not!
 
 ## Romans 9:15
 
@@ -85,7 +85,7 @@ But who are you, a mere human, to talk back to God? Shall what is formed say to 
 
 ## Romans 9:21
 
-Does not the potter have the right to make out of the same lump of clay some pottery for special purposes and some for common use?
+Does the potter not have the authority to shape from the same lump of clay some pottery for special purposes and some for common use?
 
 ## Romans 9:22
 
@@ -97,7 +97,7 @@ What if He did this to make known the riches of His glory upon the objects of Hi
 
 ## Romans 9:24
 
-even us, whom He also called, not only from the Jews but also from the Gentiles?
+including us, whom He also called, not only from the Jews but also from the Gentiles?
 
 ## Romans 9:25
 
@@ -135,11 +135,11 @@ And just as Isaiah said previously:
 
 ## Romans 9:30
 
-What shall we say then? That the Gentiles, who did not pursue righteousness, have attained righteousness, a righteousness that is by faith;
+What are we to conclude? That the Gentiles, who did not pursue righteousness, have attained righteousness, a righteousness that is by faith;
 
 ## Romans 9:31
 
-but Israel, pursuing a law of righteousness, did not arrive at that law.
+but Israel, in pursuit of a law of righteousness, did not reach that law.
 
 ## Romans 9:32
 

@@ -1,7 +1,7 @@
 # Jeremiah Chapter 46
 
 ## Jeremiah 46:1
-This is the word of the Lord that came to Jeremiah the prophet concerning the nations:
+This is the message from the Lord that came to Jeremiah the prophet concerning the nations:
 
 ## Jeremiah 46:2
 Concerning Egypt: This is the message about the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah, king of Judah:
@@ -19,7 +19,7 @@ Why do I see them terrified, retreating, with their warriors defeated? They flee
 “The swift cannot flee nor the warrior escape. In the north by the River Euphrates they have stumbled and fallen.
 
 ## Jeremiah 46:7
-Who is this that rises like the Nile, like rivers of surging waters?
+Who is this that rises like the Nile, like rivers of turbulent waters?
 
 ## Jeremiah 46:8
 Egypt rises like the Nile, like rivers whose waters surge. She says, ‘I will rise and cover the earth; I will destroy cities and their inhabitants.’
@@ -37,10 +37,10 @@ For that day belongs to the Lord, the Lord Almighty—a day of vengeance, to ave
 The nations have heard of your shame; your cries fill the earth. One warrior has stumbled over another; both have fallen down together.”
 
 ## Jeremiah 46:13
-This is the message the Lord spoke to Jeremiah the prophet about the coming of Nebuchadnezzar king of Babylon to attack Egypt:
+This is the message the Lord gave to Jeremiah the prophet about the arrival of Nebuchadnezzar king of Babylon to attack Egypt:
 
 ## Jeremiah 46:14
-“Announce this in Egypt, and proclaim it in Migdol; proclaim it also in Memphis and Tahpanhes: ‘Take your positions and get ready, for the sword devours those around you.’
+“Announce this in Egypt, and proclaim it in Migdol; declare it also in Memphis and Tahpanhes: ‘Take your positions and prepare, for the sword devours those around you.’
 
 ## Jeremiah 46:15
 Why have your warriors been laid low? They cannot stand, for the Lord has thrust them down.
@@ -58,10 +58,10 @@ There they will exclaim, ‘Pharaoh king of Egypt is nothing but a loud noise; h
 Pack your belongings for exile, you who live in Egypt, for Memphis will become a desolation, laid waste without inhabitant.
 
 ## Jeremiah 46:20
-Egypt is a beautiful heifer, but a gadfly is coming against her from the north.
+Egypt is like a beautiful heifer, but a gadfly is coming against her from the north.
 
 ## Jeremiah 46:21
-The mercenaries in her ranks are like fattened calves. They too will turn and flee together, they will not stand their ground, for the day of disaster is coming upon them, the time for them to be punished.
+The mercenaries in her ranks are like well-fed calves. They too will turn and flee together, they will not stand their ground, for the day of disaster is coming upon them, the time for them to be punished.
 
 ## Jeremiah 46:22
 Her sound will move along like a fleeing serpent as the enemy advances in force; they will come against her with axes, like men who cut down trees.
@@ -70,10 +70,10 @@ Her sound will move along like a fleeing serpent as the enemy advances in force;
 They will chop down her forest,” declares the Lord, “dense though it be. They are more numerous than locusts, they cannot be counted.
 
 ## Jeremiah 46:24
-Daughter Egypt will be put to shame, given into the hands of the people of the north.”
+Daughter Egypt will be put to shame, delivered into the hands of the people of the north.”
 
 ## Jeremiah 46:25
-The Lord Almighty, the God of Israel, says: “I am about to bring punishment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.
+The Lord Almighty, the God of Israel, says: “I am about to bring judgment on Amon god of Thebes, on Pharaoh, on Egypt and her gods and her kings, and on those who rely on Pharaoh.
 
 ## Jeremiah 46:26
 I will give them into the hands of those who seek their lives—Nebuchadnezzar king of Babylon and his officers. Later, however, Egypt will be inhabited as in times past,” declares the Lord.
@@ -82,4 +82,4 @@ I will give them into the hands of those who seek their lives—Nebuchadnezzar k
 “But as for you, Jacob my servant, do not be afraid, nor be dismayed, Israel. I will surely save you from far away, and your descendants from the land of their captivity. Jacob will return and have peace and security, with no one making him afraid.
 
 ## Jeremiah 46:28
-Do not be afraid, Jacob my servant, for I am with you,” declares the Lord. “Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only in due measure; I will not let you go entirely unpunished.”
+Do not fear, Jacob my servant, for I am with you,” declares the Lord. “Though I completely destroy all the nations among which I scatter you, I will not completely destroy you. I will discipline you but only in due measure; I will not let you go entirely unpunished.”

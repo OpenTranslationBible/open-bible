@@ -19,13 +19,13 @@ There is an evil I have seen under the sun, like an error that arises from a rul
 Foolishness is placed in many high positions, while the rich sit in humble places.
 
 ## Ecclesiastes 10:7
-I have seen slaves on horseback, while princes walk on foot like slaves.
+I have observed servants riding on horses, while princes walk on foot like servants.
 
 ## Ecclesiastes 10:8
 Whoever digs a pit may fall into it, and whoever breaks through a wall may be bitten by a serpent.
 
 ## Ecclesiastes 10:9
-Whoever quarries stones may be hurt by them, and whoever splits logs may be endangered by them.
+Whoever quarries stones may be injured by them, and whoever splits logs may be at risk from them.
 
 ## Ecclesiastes 10:10
 If the axe is dull and its edge unsharpened, more strength is needed, but wisdom brings success.
@@ -52,7 +52,7 @@ Woe to the land whose king is a servant, and whose princes feast in the morning.
 Blessed is the land whose king is of noble birth, and whose princes eat at the proper time—for strength and not for drunkenness.
 
 ## Ecclesiastes 10:18
-Through laziness, the rafters sag; because of idle hands, the house leaks.
+Due to laziness, the rafters sag; because of idle hands, the house leaks.
 
 ## Ecclesiastes 10:19
 A feast is made for laughter, wine makes life joyful, and money is the answer to everything.

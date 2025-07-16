@@ -61,19 +61,19 @@ They made a covering for the tent of ram skins dyed red, and over that a coverin
 They constructed upright frames of acacia wood for the tabernacle.
 
 ## Exodus 36:21
-Each frame was ten cubits long and a cubit and a half wide,
+Each frame measured ten cubits in length and a cubit and a half in width,
 
 ## Exodus 36:22
 with two tenons parallel to each other. All the frames of the tabernacle were made in this manner.
 
 ## Exodus 36:23
-They made twenty frames for the south side of the tabernacle
+They crafted twenty frames for the southern side of the tabernacle
 
 ## Exodus 36:24
 and forty silver bases to go under them—two bases for each frame, one under each tenon.
 
 ## Exodus 36:25
-For the north side of the tabernacle, they made twenty frames
+For the northern side of the tabernacle, they crafted twenty frames
 
 ## Exodus 36:26
 and forty silver bases—two under each frame.
@@ -82,7 +82,7 @@ and forty silver bases—two under each frame.
 They made six frames for the west end of the tabernacle,
 
 ## Exodus 36:28
-and two frames were made for the corners of the tabernacle at the far end.
+and two frames were constructed for the corners of the tabernacle at the far end.
 
 ## Exodus 36:29
 These frames were double from the bottom to the top and fitted into a single ring; both were made alike.
@@ -91,7 +91,7 @@ These frames were double from the bottom to the top and fitted into a single rin
 Thus, there were eight frames and sixteen silver bases—two under each frame.
 
 ## Exodus 36:31
-They also made crossbars of acacia wood: five for the frames on one side of the tabernacle,
+They also fashioned crossbars of acacia wood: five for the frames on one side of the tabernacle,
 
 ## Exodus 36:32
 five for those on the other side, and five for the frames at the west end of the tabernacle.

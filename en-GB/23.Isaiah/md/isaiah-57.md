@@ -19,7 +19,7 @@ You burn with lust among the oaks and under every luxuriant tree; you slaughter 
 Among the smooth stones of the ravines is your portion; they are your lot. Yes, to them you have poured out drink offerings and offered grain offerings. Should I relent concerning these things?
 
 ## Isaiah 57:7
-You have made your bed on a high and lofty hill; there you went up to offer your sacrifices.
+You have set up your resting place on a high and elevated hill; there you ascended to present your sacrifices.
 
 ## Isaiah 57:8
 Behind your doors and doorposts you have placed your pagan symbols. Forsaking me, you uncovered your bed, you climbed into it and opened it wide; you made a pact with those whose beds you love, and you gazed upon their nakedness.
@@ -55,7 +55,7 @@ Because of the iniquity of his unjust gain I was angry and struck him; I hid my 
 I have seen his ways, but I will heal him; I will guide him and restore comfort to him and to his mourners,
 
 ## Isaiah 57:19
-creating praise on their lips. Peace, peace, to those far and near,” says the Lord. “And I will heal them.”
+bringing forth praise on their lips. Peace, peace, to those far and near,” says the Lord. “And I will heal them.”
 
 ## Isaiah 57:20
 But the wicked are like the tossing sea, which cannot rest, whose waters cast up mire and mud.

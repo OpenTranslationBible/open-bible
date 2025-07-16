@@ -80,7 +80,7 @@ And it was reported to Joshua, “The five kings have been found hidden in the c
 
 ## Joshua 10:18
 
-So Joshua said, “Roll large stones against the mouth of the cave, and post men by it to guard them.
+Joshua instructed, “Roll large stones against the mouth of the cave, and post men by it to guard them.
 
 ## Joshua 10:19
 
@@ -96,11 +96,11 @@ all the people returned safely to Joshua in the camp at Makkedah, and no one utt
 
 ## Joshua 10:22
 
-Then Joshua said, “Open the mouth of the cave and bring those five kings out to me.”
+Joshua commanded, “Open the mouth of the cave and bring those five kings out to me.”
 
 ## Joshua 10:23
 
-So they brought the five kings out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
+So the five kings were brought out of the cave—the kings of Jerusalem, Hebron, Jarmuth, Lachish, and Eglon.
 
 ## Joshua 10:24
 
@@ -152,7 +152,7 @@ They captured it that same day and struck it with the sword, utterly destroying 
 
 ## Joshua 10:36
 
-Then Joshua and all Israel with him went up from Eglon to Hebron and attacked it.
+Afterward, Joshua and all Israel with him went up from Eglon to Hebron and attacked it.
 
 ## Joshua 10:37
 
@@ -172,7 +172,7 @@ So Joshua conquered the whole region, including the hill country, the Negev, the
 
 ## Joshua 10:41
 
-Joshua subdued them from Kadesh Barnea to Gaza and from the whole region of Goshen to Gibeon.
+Joshua subdued the area from Kadesh Barnea to Gaza and from the whole region of Goshen to Gibeon.
 
 ## Joshua 10:42
 
@@ -180,4 +180,4 @@ All these kings and their lands Joshua captured in one campaign, because the Lor
 
 ## Joshua 10:43
 
-Then Joshua and all Israel with him returned to the camp at Gilgal.
+Afterward, Joshua and all Israel with him returned to the camp at Gilgal.

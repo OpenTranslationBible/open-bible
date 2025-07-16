@@ -22,7 +22,7 @@ And without faith, it is impossible to please God, for whoever comes to Him must
 By faith Noah, being warned by God about things not yet seen, in reverent fear constructed an ark for the saving of his household. By this, he condemned the world and became an heir of the righteousness that comes by faith.
 
 ## Hebrews 11:8
-By faith Abraham obeyed when he was called to go out to a place he was to receive as an inheritance. He went out, not knowing where he was going.
+By faith Abraham obeyed when he was called to go to a place he would later receive as an inheritance. He set out, not knowing his destination.
 
 ## Hebrews 11:9
 By faith he lived as a foreigner in the land of promise, as in a strange country, dwelling in tents with Isaac and Jacob, heirs with him of the same promise.
@@ -40,22 +40,22 @@ Therefore from one man, and him as good as dead, were born descendants as numero
 These all died in faith, not having received the promises, but having seen them and greeted them from afar, acknowledging that they were strangers and exiles on the earth.
 
 ## Hebrews 11:14
-For those who say such things make it clear that they are seeking a homeland.
+For those who express such things make it evident that they are seeking a homeland.
 
 ## Hebrews 11:15
 If they had been thinking of the land they had left, they would have had opportunity to return.
 
 ## Hebrews 11:16
-But as it is, they desire a better country, that is, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them.
+But as it is, they long for a better country, a heavenly one. Therefore God is not ashamed to be called their God, for He has prepared a city for them.
 
 ## Hebrews 11:17
-By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises was offering up his only son.
+By faith Abraham, when he was tested, offered up Isaac, and he who had received the promises was in the act of offering his only son.
 
 ## Hebrews 11:18
 It was he to whom it was said, “Through Isaac shall your offspring be named.”
 
 ## Hebrews 11:19
-He considered that God was able even to raise him from the dead, from which, figuratively speaking, he did receive him back.
+He reasoned that God could raise the dead, and figuratively speaking, he did receive him back.
 
 ## Hebrews 11:20
 By faith Isaac blessed Jacob and Esau concerning things to come.
@@ -64,19 +64,19 @@ By faith Isaac blessed Jacob and Esau concerning things to come.
 By faith Jacob, when dying, blessed each of the sons of Joseph, bowing in worship over the head of his staff.
 
 ## Hebrews 11:22
-By faith Joseph, at the end of his life, made mention of the exodus of the Israelites and gave directions concerning his bones.
+By faith Joseph, nearing the end of his life, spoke of the exodus of the Israelites and gave instructions about his bones.
 
 ## Hebrews 11:23
-By faith Moses, when he was born, was hidden for three months by his parents, because they saw he was a beautiful child, and they were not afraid of the king’s edict.
+By faith Moses, when he was born, was hidden for three months by his parents, because they saw he was a special child, and they were not afraid of the king’s decree.
 
 ## Hebrews 11:24
 By faith Moses, when he had grown up, refused to be called the son of Pharaoh’s daughter.
 
 ## Hebrews 11:25
-Choosing rather to be mistreated with the people of God than to enjoy the fleeting pleasures of sin.
+Choosing instead to endure mistreatment with the people of God rather than enjoy the fleeting pleasures of sin.
 
 ## Hebrews 11:26
-He considered the reproach of Christ greater wealth than the treasures of Egypt, for he was looking to the reward.
+He regarded disgrace for the sake of Christ as of greater value than the treasures of Egypt, for he was looking ahead to his reward.
 
 ## Hebrews 11:27
 By faith he left Egypt, not fearing the king’s anger, for he persevered as seeing Him who is invisible.
@@ -100,7 +100,7 @@ And what more shall I say? For time would fail me to tell of Gideon, Barak, Sams
 who through faith conquered kingdoms, enforced justice, obtained promises, shut the mouths of lions,
 
 ## Hebrews 11:34
-quenched the power of fire, escaped the edge of the sword, were made strong out of weakness, became mighty in war, put foreign armies to flight.
+extinguished the fury of flames, escaped the edge of the sword, were made strong out of weakness, became mighty in war, put foreign armies to flight.
 
 ## Hebrews 11:35
 Women received back their dead by resurrection. Some were tortured, refusing to accept release, so that they might rise again to a better life.
@@ -118,4 +118,4 @@ of whom the world was not worthy—wandering in deserts and mountains, and in ca
 And all these, though commended through their faith, did not receive what was promised,
 
 ## Hebrews 11:40
-since God had provided something better for us, that apart from us they should not be made perfect.
+since God had provided something better for us, that apart from us they would not be made perfect.

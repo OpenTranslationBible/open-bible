@@ -58,4 +58,4 @@ saying,
 
 ## Jonah 2:10
 
-Then the Lord commanded the fish, and it vomited Jonah onto dry land.
+Then the Lord spoke to the fish, and it released Jonah onto dry land.

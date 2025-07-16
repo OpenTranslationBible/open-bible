@@ -16,7 +16,7 @@ When Christ, who is your life, is revealed, then you also will be revealed with 
 Therefore, consider the parts of your earthly nature as dead to sexual immorality, impurity, passion, evil desires, and greed, which is idolatry.
 
 ## Colossians 3:6
-Because of these, the wrath of God is coming upon the disobedient.
+Because of these, the wrath of God is approaching those who are disobedient.
 
 ## Colossians 3:7
 You once walked in these ways, in the life you used to live.
@@ -40,10 +40,10 @@ As God’s chosen people, holy and dearly loved, clothe yourselves with compassi
 Bear with each other and forgive one another if any of you has a complaint against someone. Forgive as the Lord forgave you.
 
 ## Colossians 3:14
-And over all these virtues put on love, which binds them all together in perfect unity.
+And above all these virtues, embrace love, which unites them all in perfect harmony.
 
 ## Colossians 3:15
-Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful.
+Let the peace of Christ govern your hearts, for as members of one body you were called to peace. And cultivate thankfulness.
 
 ## Colossians 3:16
 Let the word of Christ dwell among you richly, with all wisdom teaching and admonishing one another with psalms, hymns, and spiritual songs, singing with gratitude in your hearts to God.
@@ -52,7 +52,7 @@ Let the word of Christ dwell among you richly, with all wisdom teaching and admo
 Whatever you do, in word or deed, do it all in the name of the Lord Jesus, giving thanks to God the Father through him.
 
 ## Colossians 3:18
-Wives, submit to your husbands, as is fitting in the Lord.
+Wives, align with your husbands, as is appropriate in the Lord.
 
 ## Colossians 3:19
 Husbands, love your wives and do not be harsh with them.
@@ -67,7 +67,7 @@ Fathers, do not provoke your children, or they may become discouraged.
 Slaves, obey your earthly masters in everything, not only when their eye is on you and to curry their favour, but with sincerity of heart, fearing the Lord.
 
 ## Colossians 3:23
-Whatever you do, work at it with all your heart, as working for the Lord, not for human masters,
+In whatever you do, apply yourself wholeheartedly, as if working for the Lord, not merely for human supervisors,
 
 ## Colossians 3:24
 knowing that you will receive an inheritance from the Lord as a reward. It is the Lord Christ you are serving.

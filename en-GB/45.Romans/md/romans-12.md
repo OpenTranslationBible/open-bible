@@ -18,7 +18,7 @@ Just as we have many parts in one body, and these parts do not all have the same
 
 ## Romans 12:5
 
-so in Christ we, though many, form one body, and each member belongs to all the others.
+in the same way, we are united in Christ as one body, and each member is connected to all the others.
 
 ## Romans 12:6
 
@@ -70,7 +70,7 @@ Do not repay anyone evil for evil. Be careful to do what is right in the sight o
 
 ## Romans 12:18
 
-If it is possible, as far as it depends on you, live at peace with everyone.
+As much as it is within your power, strive to live at peace with everyone.
 
 ## Romans 12:19
 

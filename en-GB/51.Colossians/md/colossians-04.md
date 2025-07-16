@@ -43,13 +43,13 @@ I testify for him that he has a deep concern for you and for those in Laodicea a
 Luke, the beloved physician, and Demas send greetings.
 
 ## Colossians 4:15
-Give my greetings to the brothers and sisters at Laodicea, and to Nympha and the church in her house.
+Extend my greetings to the brothers and sisters at Laodicea, and to Nympha and the church that meets in her house.
 
 ## Colossians 4:16
 After this letter has been read among you, ensure it is also read in the church of the Laodiceans and that you in turn read the letter from Laodicea.
 
 ## Colossians 4:17
-Tell Archippus: “See to it that you complete the ministry you have received in the Lord.”
+Encourage Archippus to fulfill the ministry he has received in the Lord.
 
 ## Colossians 4:18
 I, Paul, write this greeting in my own hand. Remember my imprisonment. Grace be with you.

@@ -19,13 +19,13 @@ For through the Spirit, by faith, we eagerly await the hope of righteousness.
 In Christ Jesus, neither circumcision nor uncircumcision has any significance. What matters is faith expressing itself through love.
 
 ## Galatians 5:7
-You were running well. Who hindered you from following the truth?
+You were running well. Who prevented you from obeying the truth?
 
 ## Galatians 5:8
-This persuasion does not come from the one who calls you.
+This influence does not come from the one who calls you.
 
 ## Galatians 5:9
-A little yeast works through the whole batch of dough.
+A small amount of yeast affects the whole batch of dough.
 
 ## Galatians 5:10
 I have confidence in the Lord that you will not adopt any other view. But the one who is causing you confusion will bear the penalty, whoever he is.
@@ -67,10 +67,10 @@ envy, drunkenness, orgies, and the like. I warn you, as I have before, that thos
 But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
 
 ## Galatians 5:23
-gentleness, and self-control. Against such things there is no law.
+gentleness, and self-control. There is no law against such things.
 
 ## Galatians 5:24
-Those who belong to Christ Jesus have crucified the flesh with its passions and desires.
+Those who belong to Christ Jesus have put to death the flesh with its passions and desires.
 
 ## Galatians 5:25
 Since we live by the Spirit, let us also keep in step with the Spirit.

@@ -48,11 +48,11 @@ In the same way, I tell you, there is joy in the presence of the angels of God o
 
 ## Luke 15:11
 
-And He said, “A man had two sons.
+Then He shared, “There was a man who had two sons.
 
 ## Luke 15:12
 
-The younger one said to his father, ‘Father, give me my share of the estate.’ So he divided his property between them.
+The younger son requested from his father, ‘Father, give me my portion of the inheritance.’ So he divided his property between them.
 
 ## Luke 15:13
 
@@ -68,11 +68,11 @@ So he went and hired himself out to a citizen of that country, who sent him into
 
 ## Luke 15:16
 
-He longed to fill his stomach with the pods that the pigs were eating, but no one gave him anything.
+He desired to fill his stomach with the pods that the pigs were eating, but no one provided him with anything.
 
 ## Luke 15:17
 
-When he came to his senses, he said, ‘How many of my father’s hired servants have food to spare, and here I am starving to death!
+When he realized his situation, he said, ‘How many of my father’s hired servants have food to spare, and here I am perishing with hunger!
 
 ## Luke 15:18
 
@@ -80,7 +80,7 @@ I will arise and go to my father and say to him: Father, I have sinned against h
 
 ## Luke 15:19
 
-I am no longer worthy to be called your son; make me like one of your hired servants.’
+I am no longer worthy to be called your son; treat me as one of your hired servants.’
 
 ## Luke 15:20
 
@@ -92,7 +92,7 @@ The son said to him, ‘Father, I have sinned against heaven and against you. I 
 
 ## Luke 15:22
 
-But the father said to his servants, ‘Quickly, bring out the best robe and put it on him; put a ring on his finger and sandals on his feet.
+But the father told his servants, ‘Quickly, bring out the best robe and put it on him; place a ring on his finger and sandals on his feet.
 
 ## Luke 15:23
 
@@ -114,7 +114,7 @@ So he called one of the servants and asked what was happening.
 
 ## Luke 15:27
 
-‘Your brother has come,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’
+‘Your brother has returned,’ he replied, ‘and your father has killed the fattened calf because he has him back safe and sound.’
 
 ## Luke 15:28
 

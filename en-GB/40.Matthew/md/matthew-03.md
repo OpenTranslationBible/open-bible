@@ -42,7 +42,7 @@ The axe is already at the root of the trees, and every tree that does not bear g
 
 ## Matthew 3:11
 
-“I baptise you with water for repentance. But after me comes one who is more powerful than I, whose sandals I am not worthy to carry. He will baptise you with the Holy Spirit and fire.
+“I baptise you with water as a sign of repentance. But after me comes one who is mightier than I, whose sandals I am not worthy to carry. He will baptise you with the Holy Spirit and fire.
 
 ## Matthew 3:12
 
@@ -52,7 +52,7 @@ His winnowing fork is in his hand, and he will thoroughly clear his threshing fl
 
 ## Matthew 3:13
 
-Then Jesus came from Galilee to the Jordan, to be baptised by John.
+Then Jesus came from Galilee to the Jordan to be baptised by John.
 
 ## Matthew 3:14
 

@@ -16,7 +16,7 @@ The day after Gedaliah’s assassination, before anyone knew of it,
 eighty men came from Shechem, Shiloh, and Samaria with their beards shaved, clothes torn, and bodies gashed, bringing grain offerings and incense to the house of the Lord.
 
 ## Jeremiah 41:6
-Ishmael son of Nethaniah went out from Mizpah to meet them, weeping as he went. When he met them, he said, “Come to Gedaliah son of Ahikam.”
+Ishmael son of Nethaniah departed from Mizpah to meet them, weeping as he approached. Upon meeting them, he said, “Come to Gedaliah son of Ahikam.”
 
 ## Jeremiah 41:7
 As soon as they entered the city, Ishmael son of Nethaniah and the men with him slaughtered them and threw them into a cistern.
@@ -43,7 +43,7 @@ When all the people with Ishmael saw Johanan son of Kareah and the commanders of
 All the people whom Ishmael had taken captive from Mizpah turned and went over to Johanan son of Kareah.
 
 ## Jeremiah 41:15
-But Ishmael son of Nethaniah escaped from Johanan with eight men and fled to the Ammonites.
+However, Ishmael son of Nethaniah managed to escape from Johanan with eight men and fled to the Ammonites.
 
 ## Jeremiah 41:16
 Then Johanan son of Kareah and all the commanders of the forces with him took from Mizpah all the remnant of the people whom he had recovered from Ishmael son of Nethaniah, after he had killed Gedaliah son of Ahikam—the soldiers, women, children, and court officials whom he had brought back from Gibeon.

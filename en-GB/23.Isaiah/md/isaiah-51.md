@@ -43,7 +43,7 @@ that you forget the Lord your Maker, who stretched out the heavens and laid the 
 The exiled will soon be set free; they will not die in their dungeon, nor will they lack bread.
 
 ## Isaiah 51:15
-For I am the Lord your God, who stirs up the sea so that its waves roar—the Lord of Hosts is his name.
+For I am the Lord your God, who stirs the sea to make its waves roar—the Lord Almighty is His name.
 
 ## Isaiah 51:16
 I have placed my words in your mouth and covered you with the shadow of my hand, to establish the heavens, to lay the foundations of the earth, and to say to Zion, ‘You are my people.’”

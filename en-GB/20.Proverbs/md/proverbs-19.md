@@ -14,11 +14,11 @@ A person’s own folly leads to ruin, yet his heart rages against the Lord.
 
 ## Proverbs 19:4
 
-Wealth attracts many friends, but a poor person is separated from his friend.
+Wealth brings many companions, but a poor person finds himself distanced from friends.
 
 ## Proverbs 19:5
 
-A false witness will not go unpunished, and whoever pours out lies will not escape.
+A false witness will not go unpunished, and whoever spreads lies will not escape.
 
 ## Proverbs 19:6
 
@@ -34,7 +34,7 @@ The one who acquires wisdom loves his own soul; the one who cherishes understand
 
 ## Proverbs 19:9
 
-A false witness will not go unpunished, and whoever pours out lies will perish.
+A false witness will not go unpunished, and whoever spreads lies will meet their end.
 
 ## Proverbs 19:10
 
@@ -82,7 +82,7 @@ Listen to advice and accept discipline, so that you may be wise for the rest of 
 
 ## Proverbs 19:21
 
-Many are the plans in a person’s heart, but it is the Lord’s purpose that prevails.
+Many are the plans in a person’s heart, but it is the Lord’s purpose that will stand.
 
 ## Proverbs 19:22
 
@@ -90,7 +90,7 @@ What is desirable in a person is his kindness; it is better to be poor than a li
 
 ## Proverbs 19:23
 
-The fear of the Lord leads to life; then one rests content, untouched by trouble.
+Reverence for the Lord leads to life; then one rests content, untouched by trouble.
 
 ## Proverbs 19:24
 
@@ -106,7 +106,7 @@ He who robs his father and drives out his mother is a shameful and disgraceful s
 
 ## Proverbs 19:27
 
-Stop listening to instruction, my son, and you will stray from the words of knowledge.
+If you stop listening to instruction, my son, you will stray from the words of knowledge.
 
 ## Proverbs 19:28
 
@@ -114,4 +114,4 @@ A worthless witness mocks at justice, and the mouth of the wicked gulps down wro
 
 ## Proverbs 19:29
 
-Judgments are prepared for mockers, and beatings for the backs of fools.
+Judgments are ready for mockers, and blows for the backs of fools.

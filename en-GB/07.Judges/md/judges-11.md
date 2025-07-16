@@ -22,7 +22,7 @@ When the Ammonites fought against Israel, the elders of Gilead went to bring Jep
 
 ## Judges 11:6
 
-They said to Jephthah, “Come and be our leader so that we can fight against the Ammonites.”
+They approached Jephthah, saying, “Come and lead us in battle against the Ammonites.”
 
 ## Judges 11:7
 
@@ -58,7 +58,7 @@ Jephthah sent messengers again to the king of the Ammonites,
 
 ## Judges 11:15
 
-saying, “This is what Jephthah says: Israel did not take the land of Moab or the land of the Ammonites.
+stating, “This is what Jephthah declares: Israel did not take the land of Moab or the land of the Ammonites.
 
 ## Judges 11:16
 

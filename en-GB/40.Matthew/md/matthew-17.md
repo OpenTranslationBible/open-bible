@@ -22,7 +22,7 @@ While he was still speaking, a bright cloud enveloped them, and a voice from the
 
 ## Matthew 17:6
 
-When the disciples heard this, they fell face down to the ground, terrified.
+Upon hearing this, the disciples were so afraid that they fell to the ground.
 
 ## Matthew 17:7
 
@@ -74,13 +74,13 @@ Jesus answered, “You unbelieving and perverse generation, how long shall I sta
 
 ## Matthew 17:18
 
-Jesus rebuked the demon, and it came out of the boy, and he was healed at that moment.
+Jesus commanded the demon to leave, and it departed from the boy, who was healed instantly.
 
 ---
 
 ## Matthew 17:19
 
-Then the disciples came to Jesus privately and asked, “Why couldn’t we drive it out?”
+Later, the disciples approached Jesus in private and asked, “Why were we unable to drive it out?”
 
 ## Matthew 17:20
 
@@ -98,7 +98,7 @@ While they were gathering in Galilee, Jesus said to them, “The Son of Man is g
 
 ## Matthew 17:23
 
-They will kill Him, and on the third day He will be raised to life.” And the disciples were filled with grief.
+They will put Him to death, and on the third day He will rise again.” And the disciples were deeply saddened.
 
 ---
 

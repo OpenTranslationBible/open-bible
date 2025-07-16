@@ -6,7 +6,7 @@ Paul travelled to Derbe and then to Lystra, where there was a disciple named Tim
 
 ## Acts 16:2
 
-The brothers and sisters in Lystra and Iconium spoke well of him.
+The believers in Lystra and Iconium spoke highly of him.
 
 ## Acts 16:3
 
@@ -108,7 +108,7 @@ Upon receiving such orders, he put them in the inner cell and fastened their fee
 
 ## Acts 16:25
 
-About midnight, Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.
+Around midnight, Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.
 
 ## Acts 16:26
 
@@ -130,7 +130,7 @@ The jailer called for lights, rushed in, and trembling with fear, fell before Pa
 
 ## Acts 16:30
 
-He then brought them out and asked, “Sirs, what must I do to be saved?”
+He then brought them out and asked, “Gentlemen, what must I do to be saved?”
 
 ## Acts 16:31
 
@@ -168,7 +168,7 @@ The officers reported these words to the magistrates, and they were alarmed when
 
 ## Acts 16:39
 
-They came to appease them and escorted them from the prison, requesting them to leave the city.
+They came to placate them and escorted them from the prison, requesting them to leave the city.
 
 ## Acts 16:40
 

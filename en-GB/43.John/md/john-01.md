@@ -14,7 +14,7 @@ All things came into being through him, and without him not one thing was made t
 
 ## John 1:4
 
-In him was life, and that life was the light of all mankind.
+In him was life, and that life was the light for all people.
 
 ## John 1:5
 
@@ -24,7 +24,7 @@ The light shines in the darkness, and the darkness has not overcome it.
 
 ## John 1:6
 
-There was a man sent from God; his name was John.
+A man was sent from God; his name was John.
 
 ## John 1:7
 
@@ -42,11 +42,11 @@ The true light that gives light to every person was coming into the world.
 
 ## John 1:10
 
-He was in the world, and though the world was made through him, the world did not recognise him.
+He was in the world, and although the world was made through him, the world did not recognize him.
 
 ## John 1:11
 
-He came to his own, but his own did not accept him.
+He came to his own, but his own did not welcome him.
 
 ## John 1:12
 
@@ -108,11 +108,11 @@ Now the messengers had been sent from the Pharisees.
 
 ## John 1:25
 
-They questioned him, “Why then do you baptise if you are not the Messiah, nor Elijah, nor the Prophet?”
+They questioned him, “Why then do you baptize if you are not the Messiah, nor Elijah, nor the Prophet?”
 
 ## John 1:26
 
-John answered, “I baptise with water, but among you stands one you do not know.
+John answered, “I baptize with water, but among you stands one you do not know.
 
 ## John 1:27
 
@@ -120,7 +120,7 @@ He is the one who comes after me, the straps of whose sandals I am not worthy to
 
 ## John 1:28
 
-This happened at Bethany beyond the Jordan, where John was baptising.
+This happened at Bethany beyond the Jordan, where John was baptizing.
 
 ---
 
@@ -134,7 +134,7 @@ This is the one I meant when I said, ‘A man who comes after me has surpassed m
 
 ## John 1:31
 
-I myself did not know him, but the reason I came baptising with water was that he might be revealed to Israel.”
+I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel.”
 
 ## John 1:32
 
@@ -142,7 +142,7 @@ Then John gave this testimony: “I saw the Spirit come down from heaven as a do
 
 ## John 1:33
 
-And I myself did not know him, but the one who sent me to baptise with water told me, ‘The man on whom you see the Spirit come down and remain is the one who will baptise with the Holy Spirit.’
+And I myself did not know him, but the one who sent me to baptize with water told me, ‘The man on whom you see the Spirit come down and remain is the one who will baptize with the Holy Spirit.’
 
 ## John 1:34
 
@@ -160,7 +160,7 @@ When he saw Jesus passing by, he said, “Behold, the Lamb of God!”
 
 ## John 1:37
 
-When the two disciples heard him say this, they followed Jesus.
+Upon hearing this, the two disciples followed Jesus.
 
 ## John 1:38
 
@@ -180,13 +180,13 @@ The first thing Andrew did was to find his brother Simon and tell him, “We hav
 
 ## John 1:42
 
-And he brought him to Jesus. Jesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter).
+He brought him to Jesus. Jesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter).
 
 ---
 
 ## John 1:43
 
-The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, “Follow me.”
+The next day Jesus decided to go to Galilee. Finding Philip, he said to him, “Follow me.”
 
 ## John 1:44
 

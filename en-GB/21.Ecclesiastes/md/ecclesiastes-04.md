@@ -25,7 +25,7 @@ Again, I observed something futile under the sun:
 There was a man who was alone, without a son or brother. There was no end to his toil, yet his eyes were not satisfied with wealth. "For whom am I toiling," he asked, "and depriving myself of enjoyment?" This too is vanity, and a miserable task.
 
 ## Ecclesiastes 4:9
-Two are better than one because they have a good return for their labour:
+Two are more effective than one, as they have a good return for their efforts:
 
 ## Ecclesiastes 4:10
 If one falls, the other can lift him up. But pity anyone who falls and has no one to help them up.

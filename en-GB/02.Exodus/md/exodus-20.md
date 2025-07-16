@@ -16,7 +16,7 @@ And God spoke all these words, saying,
 You shall not bow down to them or serve them; for I, the Lord your God, am a jealous God, visiting the iniquity of the fathers on the children to the third and fourth generation of those who hate me,
 
 ## Exodus 20:6
-but showing mercy to thousands, to those who love me and keep my commandments.
+but extending kindness to thousands who love me and follow my commandments.
 
 ## Exodus 20:7
 “You shall not take the name of the Lord your God in vain, for the Lord will not hold anyone guiltless who misuses his name.
@@ -25,13 +25,13 @@ but showing mercy to thousands, to those who love me and keep my commandments.
 “Remember the Sabbath day, to keep it holy.
 
 ## Exodus 20:9
-For six days you shall labour and do all your work,
+For six days you are to work and complete all your tasks,
 
 ## Exodus 20:10
 but the seventh day is a Sabbath to the Lord your God. On it you shall not do any work, neither you, nor your son or daughter, nor your male or female servant, nor your cattle, nor the foreigner residing in your towns.
 
 ## Exodus 20:11
-For in six days the Lord made the heavens and the earth, the sea, and all that is in them, but he rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.
+For in six days the Lord created the heavens and the earth, the sea, and everything in them, and then rested on the seventh day. Therefore the Lord blessed the Sabbath day and made it holy.
 
 ## Exodus 20:12
 “Honour your father and your mother, so that your days may be long in the land the Lord your God is giving you.
@@ -46,10 +46,10 @@ For in six days the Lord made the heavens and the earth, the sea, and all that i
 “You shall not steal.
 
 ## Exodus 20:16
-“You shall not bear false witness against your neighbour.
+“You shall not give false testimony against your neighbour.
 
 ## Exodus 20:17
-“You shall not covet your neighbour’s house. You shall not covet your neighbour’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbour.”
+“You shall not desire your neighbour’s house. You shall not desire your neighbour’s wife, or his male or female servant, his ox or donkey, or anything that belongs to your neighbour.”
 
 ## Exodus 20:18
 When all the people saw the thunder and the lightning flashes, and heard the sound of the trumpet, and saw the mountain in smoke, they trembled and stood at a distance.
@@ -61,10 +61,10 @@ And they said to Moses, “Speak to us yourself and we will listen; but do not l
 Moses said to the people, “Do not be afraid; for God has come to test you, so that the fear of him will be with you to keep you from sinning.”
 
 ## Exodus 20:21
-So the people stood at a distance, while Moses approached the thick darkness where God was.
+So the people remained at a distance, while Moses approached the thick darkness where God was.
 
 ## Exodus 20:22
-Then the Lord said to Moses, “Tell the Israelites this: ‘You have seen for yourselves that I have spoken to you from heaven.
+The Lord then instructed Moses, “Tell the Israelites this: ‘You have witnessed that I have spoken to you from heaven.
 
 ## Exodus 20:23
 Do not make any gods to be alongside me; gods of silver or gods of gold, you shall not make for yourselves.

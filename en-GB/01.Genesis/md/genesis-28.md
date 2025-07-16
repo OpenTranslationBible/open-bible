@@ -19,10 +19,10 @@ Then Isaac sent Jacob away, and he journeyed to Paddan Aram, to Laban, son of Be
 Now Esau observed that Isaac had blessed Jacob and sent him to Paddan Aram to find a wife there, and that he had instructed him, “Do not marry a Canaanite woman,”
 
 ## Genesis 28:7
-and that Jacob had obeyed his father and mother and had gone to Paddan Aram.
+and that Jacob had listened to his father and mother and had gone to Paddan Aram.
 
 ## Genesis 28:8
-Esau then realised how displeasing the Canaanite women were to his father Isaac;
+Esau then understood how displeasing the Canaanite women were to his father Isaac;
 
 ## Genesis 28:9
 so he went to Ishmael and married Mahalath, the sister of Nebaioth and daughter of Ishmael, Abraham's son, in addition to the wives he already had.
@@ -49,7 +49,7 @@ I am with you and will watch over you wherever you go, and I will bring you back
 Jacob awoke from his sleep and said, “Surely the Lord is in this place, and I was unaware of it.”
 
 ## Genesis 28:17
-He was afraid and said, “How awesome is this place! This is none other than the house of God; this is the gate of heaven.”
+He was in awe and said, “How incredible is this place! This is none other than the house of God; this is the gate of heaven.”
 
 ## Genesis 28:18
 Early the next morning, Jacob took the stone he had used as a pillow, set it up as a pillar, and poured oil on top of it.
@@ -61,7 +61,7 @@ He named that place Bethel, though previously the city was called Luz.
 Then Jacob made a vow, saying, “If God will be with me and watch over me on this journey I am taking, and provide me with food to eat and clothes to wear,
 
 ## Genesis 28:21
-so that I return safely to my father's household, then the Lord will be my God.
+so that I return safely to my father's home, then the Lord will be my God.
 
 ## Genesis 28:22
-And this stone that I have set up as a pillar will be God's house, and of all that you give me, I will give you a tenth.”
+And this stone that I have set up as a pillar will be a house for God, and of all that you give me, I will give you a tenth.”

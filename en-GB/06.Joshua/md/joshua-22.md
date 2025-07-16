@@ -90,7 +90,7 @@ Then the Reubenites, Gadites, and the half-tribe of Manasseh replied to the head
 
 ## Joshua 22:22
 
-“The Mighty One, God, the Lord! The Mighty One, God, the Lord! He knows, and let Israel know. If this has been in rebellion or disobedience to the Lord, do not spare us this day.
+“The Mighty One, God, the Lord! He knows, and let Israel know. If this has been in rebellion or disobedience to the Lord, do not spare us this day.
 
 ## Joshua 22:23
 
@@ -98,7 +98,7 @@ If we have built our own altar to turn away from the Lord, or to offer burnt off
 
 ## Joshua 22:24
 
-No! We did it out of fear that in the future your descendants might say to ours, ‘What have you to do with the Lord, the God of Israel?
+No! We did it out of concern that in the future your descendants might say to ours, ‘What have you to do with the Lord, the God of Israel?
 
 ## Joshua 22:25
 
@@ -106,11 +106,11 @@ For the Lord has made the Jordan a boundary between us and you, you Reubenites a
 
 ## Joshua 22:26
 
-That is why we said, ‘Let us get ready and build an altar—but not for burnt offerings or sacrifices.
+That is why we said, ‘Let us prepare and build an altar—but not for burnt offerings or sacrifices.
 
 ## Joshua 22:27
 
-On the contrary, it is to be a witness between us and you and the generations that follow, that we will worship the Lord at His sanctuary with our burnt offerings, sacrifices, and fellowship offerings. Then in the future, your descendants will not be able to say to ours, ‘You have no share in the Lord.’
+Instead, it is to be a witness between us and you and the generations that follow, that we will worship the Lord at His sanctuary with our burnt offerings, sacrifices, and fellowship offerings. Then in the future, your descendants will not be able to say to ours, ‘You have no share in the Lord.’
 
 ## Joshua 22:28
 
@@ -132,7 +132,7 @@ And Phinehas, son of Eleazar, the priest, said to the Reubenites, Gadites, and M
 
 ## Joshua 22:32
 
-Then Phinehas, son of Eleazar, the priest, and the leaders returned to Canaan from their meeting with the Reubenites and Gadites in Gilead and reported to the Israelites.
+Then Phinehas, son of Eleazar, the priest, and the leaders returned to Canaan from their meeting with the Reubenites and Gadites in Gilead and reported back to the Israelites.
 
 ## Joshua 22:33
 

@@ -1,7 +1,7 @@
 # Zechariah Chapter 3
 
 ## Zechariah 3:1
-Then he showed me Joshua the high priest standing before the angel of the Lord, with Satan standing at his right side to accuse him.
+Then he revealed to me Joshua the high priest standing before the angel of the Lord, with Satan positioned at his right side to bring accusations against him.
 
 ## Zechariah 3:2
 The Lord said to Satan, “The Lord rebuke you, Satan! The Lord, who has chosen Jerusalem, rebuke you! Is this not a brand plucked from the fire?”
@@ -16,7 +16,7 @@ The angel said to those who were standing before him, “Remove his filthy garme
 Then I said, “Place a clean turban on his head.” So they placed a clean turban on his head and clothed him, while the angel of the Lord stood by.
 
 ## Zechariah 3:6
-The angel of the Lord gave this charge to Joshua:
+The angel of the Lord delivered this command to Joshua:
 
 ## Zechariah 3:7
 “This is what the Lord of hosts says: ‘If you will walk in my ways and keep my charge, then you will govern my house and have charge of my courts, and I will give you access among these who stand here.

@@ -52,10 +52,10 @@ The Lord spoke to Moses, saying,
 “These are the names of the men who shall assign the land to you as an inheritance: Eleazar the priest and Joshua son of Nun.
 
 ## Numbers 34:18
-And appoint one leader from each tribe to help assign the land.
+Appoint a leader from each tribe to assist in the allocation of the land.
 
 ## Numbers 34:19
-These are their names: from the tribe of Judah, Caleb son of Jephunneh;
+The names are as follows: from the tribe of Judah, Caleb son of Jephunneh;
 
 ## Numbers 34:20
 from the tribe of Simeon, Shemuel son of Ammihud;

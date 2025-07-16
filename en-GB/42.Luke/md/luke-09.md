@@ -6,7 +6,7 @@ When Jesus called the Twelve together, He bestowed upon them power and authority
 
 ## Luke 9:2
 
-He sent them out to proclaim the kingdom of God and to heal the sick.
+He sent them to announce the kingdom of God and to cure the sick.
 
 ## Luke 9:3
 
@@ -62,7 +62,7 @@ He replied, “You give them something to eat.” They answered, “We have only
 
 ## Luke 9:15
 
-The disciples did so, and everyone sat down.
+The disciples complied, and everyone sat down.
 
 ## Luke 9:16
 
@@ -104,7 +104,7 @@ Then He said to them all, “If anyone wishes to follow Me, he must deny himself
 
 ## Luke 9:24
 
-“For whoever wishes to save his life will lose it, but whoever loses his life for My sake will save it.”
+“For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it.”
 
 ## Luke 9:25
 
@@ -112,29 +112,29 @@ Then He said to them all, “If anyone wishes to follow Me, he must deny himself
 
 ## Luke 9:26
 
-“Whoever is ashamed of Me and My words, the Son of Man will be ashamed of them when He comes in His glory and in the glory of the Father and of the holy angels.”
+“Whoever is ashamed of Me and My words, the Son of Man will also be ashamed of them when He comes in His glory and in the glory of the Father and of the holy angels.”
 
 ## Luke 9:27
 
-“Truly I tell you, some who are standing here will not taste death before they see the kingdom of God.”
+“Truly I tell you, some who are standing here will not experience death before they see the kingdom of God.”
 
 ---
 
 ## Luke 9:28
 
-About eight days after Jesus said this, He took Peter, John, and James with Him and went up onto a mountain to pray.
+About eight days after Jesus spoke these words, He took Peter, John, and James with Him and went up onto a mountain to pray.
 
 ## Luke 9:29
 
-As He was praying, the appearance of His face changed, and His clothes became as bright as a flash of lightning.
+As He was praying, the appearance of His face changed, and His clothes became dazzling white.
 
 ## Luke 9:30
 
-Two men, Moses and Elijah, appeared in glorious splendour, talking with Jesus.
+Two men, Moses and Elijah, appeared in radiant glory, conversing with Jesus.
 
 ## Luke 9:31
 
-They spoke about His departure, which He was about to bring to fulfilment at Jerusalem.
+They discussed His departure, which He was about to accomplish at Jerusalem.
 
 ## Luke 9:32
 
@@ -146,7 +146,7 @@ As the men were leaving Jesus, Peter said to Him, “Master, it is good for us t
 
 ## Luke 9:34
 
-While he was speaking, a cloud appeared and covered them, and they were afraid as they entered the cloud.
+While he was speaking, a cloud appeared and enveloped them, and they were afraid as they entered the cloud.
 
 ## Luke 9:35
 
@@ -164,15 +164,15 @@ The next day, when they came down from the mountain, a large crowd met Him.
 
 ## Luke 9:38
 
-A man in the crowd called out, “Teacher, I beg You to look at my son, for he is my only child.”
+A man in the crowd called out, “Teacher, I implore You to look at my son, for he is my only child.”
 
 ## Luke 9:39
 
-“A spirit seizes him and he suddenly screams; it throws him into convulsions so that he foams at the mouth. It scarcely ever leaves him and is destroying him.”
+“A spirit seizes him and he suddenly screams; it throws him into convulsions so that he foams at the mouth. It scarcely ever leaves him and is harming him.”
 
 ## Luke 9:40
 
-“I begged Your disciples to drive it out, but they could not.”
+“I asked Your disciples to drive it out, but they could not.”
 
 ## Luke 9:41
 
@@ -180,15 +180,15 @@ Jesus answered, “You unbelieving and perverse generation, how long shall I sta
 
 ## Luke 9:42
 
-Even while the boy was coming, the demon threw him to the ground in a convulsion. But Jesus rebuked the impure spirit, healed the boy, and gave him back to his father.
+Even while the boy was coming, the demon threw him to the ground in a convulsion. But Jesus rebuked the impure spirit, healed the boy, and returned him to his father.
 
 ## Luke 9:43
 
-And they were all amazed at the greatness of God. While everyone was marvelling at all that Jesus did, He said to His disciples,
+And they were all amazed at the greatness of God. While everyone was marveling at all that Jesus did, He said to His disciples,
 
 ## Luke 9:44
 
-“Listen carefully to what I am about to tell you: The Son of Man is going to be delivered into the hands of men.”
+“Listen carefully to what I am about to tell you: The Son of Man is going to be handed over to men.”
 
 ## Luke 9:45
 
@@ -198,11 +198,11 @@ But they did not understand what this meant. It was hidden from them, so that th
 
 ## Luke 9:46
 
-An argument started among the disciples as to which of them would be the greatest.
+A dispute arose among the disciples as to which of them would be the greatest.
 
 ## Luke 9:47
 
-Jesus, knowing their thoughts, took a little child and had him stand beside Him.
+Jesus, aware of their thoughts, took a little child and had him stand beside Him.
 
 ## Luke 9:48
 
@@ -222,7 +222,7 @@ Then He said to them, “Whoever welcomes this little child in My name welcomes 
 
 ## Luke 9:51
 
-As the time approached for Him to be taken up to heaven, Jesus resolutely set out for Jerusalem.
+As the time approached for Him to be taken up to heaven, Jesus steadfastly set out for Jerusalem.
 
 ## Luke 9:52
 
@@ -242,7 +242,7 @@ But Jesus turned and rebuked them.
 
 ## Luke 9:56
 
-Then He and His disciples went to another village.
+Then He and His disciples moved on to another village.
 
 ---
 
@@ -260,7 +260,7 @@ He said to another man, “Follow Me.” But he replied, “Lord, first let me g
 
 ## Luke 9:60
 
-Jesus said to him, “Let the dead bury their own dead, but you go and proclaim the kingdom of God.”
+Jesus said to him, “Let the dead bury their own dead, but you go and announce the kingdom of God.”
 
 ## Luke 9:61
 

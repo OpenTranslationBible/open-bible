@@ -10,7 +10,7 @@ While tasting the wine, Belshazzar commanded to bring the gold and silver vessel
 Thus, they brought the gold vessels that had been taken from the temple of God in Jerusalem, and the king and his nobles, his wives, and his concubines drank from them.
 
 ## Daniel 5:4
-As they drank the wine, they praised the gods of gold and silver, of bronze, iron, wood, and stone.
+As they drank the wine, they offered praise to the gods of gold and silver, of bronze, iron, wood, and stone.
 
 ## Daniel 5:5
 Suddenly, the fingers of a human hand appeared and began writing on the plaster of the wall, near the lampstand in the king’s palace, and the king saw the hand as it wrote.
@@ -70,10 +70,10 @@ But you, Belshazzar, his son, have not humbled your heart, though you knew all t
 Instead, you have set yourself against the Lord of heaven. You had the vessels from His temple brought to you, and you and your nobles, your wives, and your concubines drank wine from them. You praised the gods of silver and gold, of bronze, iron, wood, and stone, which cannot see or hear or understand. But you did not honour the God who holds in His hand your life and all your ways.
 
 ## Daniel 5:24
-Therefore, He sent the hand that wrote the inscription.
+Thus, He sent the hand that inscribed the message.
 
 ## Daniel 5:25
-This is the inscription that was written: Mene, Mene, Tekel, Parsin.
+Here is the message that was inscribed: Mene, Mene, Tekel, Parsin.
 
 ## Daniel 5:26
 This is what these words mean: Mene: God has numbered your kingdom and brought it to an end.
@@ -85,10 +85,10 @@ Tekel: You have been weighed on the scales and found wanting.
 Peres: Your kingdom is divided and given to the Medes and Persians.
 
 ## Daniel 5:29
-Then, at Belshazzar’s command, Daniel was clothed in purple, a gold chain was placed around his neck, and he was proclaimed the third highest ruler in the kingdom.
+Following Belshazzar’s command, Daniel was adorned in purple, a gold chain was placed around his neck, and he was declared the third highest ruler in the kingdom.
 
 ## Daniel 5:30
-That very night Belshazzar, the Chaldean king, was slain.
+That very night, Belshazzar, the Chaldean king, met his end.
 
 ## Daniel 5:31
-And Darius the Mede took over the kingdom, at the age of sixty-two.
+And Darius the Mede assumed control of the kingdom, at the age of sixty-two.

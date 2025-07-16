@@ -46,7 +46,7 @@ Then Joshua commanded the officers of the people,
 
 ## Joshua 1:12
 
-To the Reubenites, the Gadites, and the half-tribe of Manasseh, Joshua said,
+Joshua addressed the Reubenites, the Gadites, and the half-tribe of Manasseh,
 
 ## Joshua 1:13
 

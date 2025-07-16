@@ -12,7 +12,7 @@ and he said to his servants, “This is John the Baptist; he has been raised fro
 
 ## Matthew 14:3
 
-For Herod had arrested John, bound him, and put him in prison because of Herodias, the wife of his brother Philip.
+For Herod had taken John into custody, bound him, and placed him in prison due to Herodias, the wife of his brother Philip.
 
 ## Matthew 14:4
 
@@ -30,11 +30,11 @@ But when Herod’s birthday came, the daughter of Herodias danced before the gue
 
 ## Matthew 14:7
 
-that he promised with an oath to give her whatever she asked.
+that he vowed to give her whatever she requested.
 
 ## Matthew 14:8
 
-Prompted by her mother, she said, “Give me here on a platter the head of John the Baptist.”
+Encouraged by her mother, she said, “Give me here on a platter the head of John the Baptist.”
 
 ## Matthew 14:9
 
@@ -60,7 +60,7 @@ When Jesus heard about John, He withdrew by boat to a secluded place by Himself.
 
 ## Matthew 14:14
 
-When He came ashore, He saw a large crowd, and felt compassion for them and healed their sick.
+When He came ashore, He saw a large crowd, felt compassion for them, and healed their sick.
 
 ---
 
@@ -74,7 +74,7 @@ But Jesus said to them, “They do not need to go away; you give them something 
 
 ## Matthew 14:17
 
-They said to Him, “We have here only five loaves and two fish.”
+They responded, “We have here only five loaves and two fish.”
 
 ## Matthew 14:18
 
@@ -90,13 +90,13 @@ They all ate and were satisfied, and the disciples picked up twelve baskets full
 
 ## Matthew 14:21
 
-The number of those who ate was about five thousand men, besides women and children.
+Those who ate were about five thousand men, in addition to women and children.
 
 ---
 
 ## Matthew 14:22
 
-Immediately Jesus made the disciples get into the boat and go on ahead of Him to the other side, while He dismissed the crowd.
+Immediately Jesus instructed the disciples to get into the boat and go on ahead of Him to the other side, while He dismissed the crowd.
 
 ## Matthew 14:23
 
@@ -116,7 +116,7 @@ When the disciples saw Him walking on the sea, they were terrified, and said, �
 
 ## Matthew 14:27
 
-But immediately Jesus spoke to them, saying, “Take courage! It is I; do not be afraid.”
+But Jesus immediately reassured them, saying, “Take courage! It is I; do not be afraid.”
 
 ## Matthew 14:28
 
@@ -128,15 +128,15 @@ And He said, “Come.” Then Peter got down out of the boat, walked on the wate
 
 ## Matthew 14:30
 
-But when he saw the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!”
+But when he noticed the wind, he was afraid and, beginning to sink, cried out, “Lord, save me!”
 
 ## Matthew 14:31
 
-Immediately Jesus reached out His hand and caught him. “You of little faith,” He said, “why did you doubt?”
+Jesus immediately reached out His hand and caught him. “You of little faith,” He said, “why did you doubt?”
 
 ## Matthew 14:32
 
-When they climbed into the boat, the wind died down.
+When they climbed into the boat, the wind ceased.
 
 ## Matthew 14:33
 
@@ -146,7 +146,7 @@ Then those who were in the boat worshipped Him, saying, “Truly you are the Son
 
 ## Matthew 14:34
 
-When they had crossed over, they landed at Gennesaret.
+Once they had crossed over, they arrived at Gennesaret.
 
 ## Matthew 14:35
 

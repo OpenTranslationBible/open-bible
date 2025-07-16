@@ -31,7 +31,7 @@ This is what the Lord of hosts says: “Let your hands be strong, you who hear t
 Before those days, there were no wages for people or hire for animals. No one could go about their business safely because of their enemies, for I had set everyone against their neighbour.
 
 ## Zechariah 8:11
-But now I will not treat the remnant of this people as in the former days,” declares the Lord of hosts.
+However, I will now treat the remnant of this people differently than in the past,” declares the Lord of hosts.
 
 ## Zechariah 8:12
 “For the seed will be prosperous: the vine will yield its fruit, the land will produce its crops, and the heavens will give their dew. I will give all these things as an inheritance to the remnant of this people.

@@ -13,13 +13,13 @@ Inscribe on them all the words of this law when you have crossed over, so that y
 When you cross the Jordan, set up these stones on Mount Ebal, as I command you today, and coat them with plaster.
 
 ## Deuteronomy 27:5
-Build there an altar to the Lord your God, an altar of stones; do not use any iron tool on them.
+Construct an altar to the Lord your God there, made of stones, and refrain from using any iron tool on them.
 
 ## Deuteronomy 27:6
 Construct the altar of the Lord your God with uncut stones and offer burnt offerings on it to the Lord your God.
 
 ## Deuteronomy 27:7
-Sacrifice fellowship offerings there, eating them and rejoicing in the presence of the Lord your God.
+Present fellowship offerings there, partaking in them and rejoicing in the presence of the Lord your God.
 
 ## Deuteronomy 27:8
 Write very clearly all the words of this law on the stones you have set up.
@@ -34,7 +34,7 @@ Obey the Lord your God and follow His commands and decrees that I am giving you 
 Moses also instructed the people on that day, saying:
 
 ## Deuteronomy 27:12
-“When you have crossed the Jordan, these tribes shall stand on Mount Gerizim to bless the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
+“When you have crossed the Jordan, these tribes shall stand on Mount Gerizim to pronounce blessings upon the people: Simeon, Levi, Judah, Issachar, Joseph, and Benjamin.
 
 ## Deuteronomy 27:13
 And for the curse, these tribes shall stand on Mount Ebal: Reuben, Gad, Asher, Zebulun, Dan, and Naphtali.
@@ -55,16 +55,16 @@ The Levites shall then proclaim to all the people of Israel in a loud voice:
 ‘Cursed is anyone who misleads a blind person on the road.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:19
-‘Cursed is anyone who withholds justice from the foreigner, the fatherless, or the widow.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who denies justice to the foreigner, the fatherless, or the widow.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:20
-‘Cursed is anyone who sleeps with his father’s wife, for he dishonours his father’s bed.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who sleeps with his father’s wife, for he brings dishonor to his father’s bed.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:21
-‘Cursed is anyone who has sexual relations with any animal.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who engages in relations with any animal.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:22
-‘Cursed is anyone who sleeps with his sister, the daughter of his father or the daughter of his mother.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who sleeps with his sister, whether the daughter of his father or the daughter of his mother.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:23
 ‘Cursed is anyone who sleeps with his mother-in-law.’ Then all the people shall say, ‘Amen.’
@@ -76,4 +76,4 @@ The Levites shall then proclaim to all the people of Israel in a loud voice:
 ‘Cursed is anyone who accepts a bribe to harm an innocent person.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:26
-‘Cursed is anyone who does not uphold the words of this law by carrying them out.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who fails to uphold the words of this law by carrying them out.’ Then all the people shall say, ‘Amen.’

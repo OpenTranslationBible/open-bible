@@ -31,7 +31,7 @@ Gedaliah son of Ahikam, the son of Shaphan, assured them and their men, saying, 
 As for me, I will stay at Mizpah to represent you before the Babylonians who come to us, but you are to gather wine, summer fruit, and olive oil, and store them in your jars, and live in the towns you have taken over.”
 
 ## Jeremiah 40:11
-When all the Jews in Moab, Ammon, Edom, and all the other countries heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, as governor over them,
+When the Jews who were in Moab, Ammon, Edom, and all the surrounding countries heard that the king of Babylon had left a remnant in Judah and had appointed Gedaliah son of Ahikam, the son of Shaphan, as governor over them,
 
 ## Jeremiah 40:12
 they all returned to the land of Judah, to Gedaliah at Mizpah, from all the countries where they had been scattered. And they gathered an abundance of wine and summer fruit.

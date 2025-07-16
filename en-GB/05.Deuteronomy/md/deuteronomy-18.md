@@ -4,7 +4,7 @@
 The Levitical priests, indeed the entire tribe of Levi, shall have no portion or inheritance with Israel; they will live on the offerings made by fire to the Lord, for that is their inheritance.
 
 ## Deuteronomy 18:2
-They shall have no inheritance among their fellow Israelites; the Lord is their inheritance, as He promised them.
+They shall not have an inheritance among their fellow Israelites; the Lord is their portion, as He promised them.
 
 ## Deuteronomy 18:3
 This is the portion due to the priests from the people who offer a sacrifice, be it an ox or a sheep: the shoulder, the two cheeks, and the stomach.
@@ -31,7 +31,7 @@ When you enter the land the Lord your God is giving you, do not learn to imitate
 Let no one be found among you who makes his son or daughter pass through the fire, who practises divination, or sorcery, interprets omens, or engages in witchcraft,
 
 ## Deuteronomy 18:11
-or casts spells, or who is a medium or spiritist, or who consults the dead.
+or performs enchantments, or who is a medium or spiritist, or who seeks guidance from the dead.
 
 ## Deuteronomy 18:12
 For whoever does these things is detestable to the Lord; and because of these detestable practices, the Lord your God will drive out those nations before you.
@@ -43,13 +43,13 @@ You must be blameless before the Lord your God.
 The nations you will dispossess listen to soothsayers and diviners, but as for you, the Lord your God has not permitted you to do so.
 
 ## Deuteronomy 18:15
-The Lord your God will raise up for you a prophet like me from among you, from your fellow Israelites; you must listen to him.
+The Lord your God will appoint for you a prophet like me from among you, from your fellow Israelites; you must heed him.
 
 ## Deuteronomy 18:16
 This is in accordance with what you asked of the Lord your God at Horeb on the day of the assembly, when you said, “Let us not hear the voice of the Lord our God nor see this great fire anymore, or we will die.”
 
 ## Deuteronomy 18:17
-The Lord said to me, “They have spoken well.
+The Lord said to me, “Their words are good.
 
 ## Deuteronomy 18:18
 I will raise up for them a prophet like you from among their fellow Israelites, and I will put my words in his mouth, and he will speak to them everything I command him.

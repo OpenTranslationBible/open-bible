@@ -13,7 +13,7 @@ Abraham named his son Isaac, the son whom Sarah had borne to him.
 Abraham circumcised his son Isaac when he was eight days old, following God's command.
 
 ## Genesis 21:5
-Abraham was one hundred years old when his son Isaac was born to him.
+Abraham was a century old when his son Isaac came into the world.
 
 ## Genesis 21:6
 Sarah declared, “God has brought me laughter, and everyone who hears will share in my joy.”
@@ -22,7 +22,7 @@ Sarah declared, “God has brought me laughter, and everyone who hears will shar
 She also said, “Who would have told Abraham that Sarah would nurse children? Yet I have given him a son in his old age.”
 
 ## Genesis 21:8
-The child grew and was weaned, and Abraham held a great feast on the day Isaac was weaned.
+The child grew and was weaned, and Abraham celebrated with a great feast on the day Isaac was weaned.
 
 ## Genesis 21:9
 Sarah observed the son of Hagar the Egyptian, whom she had borne to Abraham, mocking.
@@ -82,7 +82,7 @@ Abimelech replied, “I do not know who has done this. You did not inform me, an
 So Abraham took sheep and cattle and gave them to Abimelech, and the two men made a covenant.
 
 ## Genesis 21:28
-Abraham set apart seven ewe lambs from the flock.
+Abraham selected seven ewe lambs from the flock.
 
 ## Genesis 21:29
 Abimelech asked Abraham, “What is the significance of these seven ewe lambs you have set apart?”
@@ -97,7 +97,7 @@ Therefore, that place was called Beersheba, because there the two of them swore 
 After making a covenant at Beersheba, Abimelech and Phicol, the commander of his army, returned to the land of the Philistines.
 
 ## Genesis 21:33
-Abraham planted a tamarisk tree in Beersheba, and there he called on the name of the Lord, the Everlasting God.
+Abraham established a tamarisk tree in Beersheba, and there he invoked the name of the Lord, the Everlasting God.
 
 ## Genesis 21:34
 And Abraham resided in the land of the Philistines for a long period.

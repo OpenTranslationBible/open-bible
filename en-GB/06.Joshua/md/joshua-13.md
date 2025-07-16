@@ -28,7 +28,7 @@ With the other half-tribe, the Reubenites and the Gadites received their inherit
 from Aroer, which is on the edge of the Valley of the Arnon, with the city in the middle of the valley, and all the plain of Medeba as far as Dibon;
 
 ## Joshua 13:10
-and all the cities of Sihon king of the Amorites, who reigned in Heshbon, as far as the border of the Ammonites;
+and all the cities of Sihon king of the Amorites, who reigned in Heshbon, extending to the border of the Ammonites;
 
 ## Joshua 13:11
 and Gilead, and the territory of the Geshurites and Maacathites, and all Mount Hermon, and all Bashan as far as Salecah;
@@ -49,7 +49,7 @@ So Moses gave an inheritance to the tribe of the sons of Reuben according to the
 Their territory was from Aroer, which is on the edge of the Valley of the Arnon, with the city in the middle of the valley, and all the plain by Medeba;
 
 ## Joshua 13:17
-Heshbon and all its cities which are on the plain: Dibon, Bamoth-baal, Beth-baal-meon,
+Heshbon and its surrounding cities on the plain: Dibon, Bamoth-baal, Beth-baal-meon,
 
 ## Joshua 13:18
 Jahaz, Kedemoth, Mephaath,
@@ -61,7 +61,7 @@ Kiriathaim, Sibmah, Zereth-shahar on the hill of the valley,
 Beth-peor, the slopes of Pisgah, Beth-jeshimoth,
 
 ## Joshua 13:21
-all the cities of the plain, and all the kingdom of Sihon king of the Amorites, who reigned in Heshbon, whom Moses struck with the leaders of Midian, Evi, Rekem, Zur, Hur, and Reba, the leaders of Sihon, who lived in the land.
+all the cities of the plain, and the entire kingdom of Sihon king of the Amorites, who reigned in Heshbon, whom Moses struck with the leaders of Midian, Evi, Rekem, Zur, Hur, and Reba, the leaders of Sihon, who lived in the land.
 
 ## Joshua 13:22
 The Israelites also killed Balaam son of Beor, who practised divination, with the sword among the rest of their dead.
@@ -73,28 +73,28 @@ The border of the Reubenites was the Jordan. This was the inheritance of the son
 Moses also gave an inheritance to the tribe of Gad, to the sons of Gad according to their families.
 
 ## Joshua 13:25
-Their territory was Jazer and all the cities of Gilead, and half the land of the sons of Ammon, as far as Aroer, which is opposite Rabbah;
+Their territory included Jazer and the cities of Gilead, and half the land of the sons of Ammon, reaching to Aroer, which is opposite Rabbah;
 
 ## Joshua 13:26
-and from Heshbon as far as Ramath-mizpeh and Betonim, and from Mahanaim as far as the border of Debir;
+and from Heshbon extending to Ramath-mizpeh and Betonim, and from Mahanaim to the border of Debir;
 
 ## Joshua 13:27
-and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, the rest of the kingdom of Sihon king of Heshbon, with the Jordan as a border, as far as the lower end of the Sea of Chinnereth beyond the Jordan to the east.
+and in the valley, Beth-haram, Beth-nimrah, Succoth, and Zaphon, the remaining part of the kingdom of Sihon king of Heshbon, with the Jordan as a border, reaching to the lower end of the Sea of Chinnereth beyond the Jordan to the east.
 
 ## Joshua 13:28
-This is the inheritance of the sons of Gad according to their families, the cities and their villages.
+This is the inheritance of the sons of Gad according to their families, including the cities and their villages.
 
 ## Joshua 13:29
 Moses also gave an inheritance to the half-tribe of Manasseh; it was for the half-tribe of the sons of Manasseh according to their families.
 
 ## Joshua 13:30
-Their territory was from Mahanaim, all Bashan, all the kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, sixty cities;
+Their territory extended from Mahanaim, including all Bashan, the entire kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, totaling sixty cities;
 
 ## Joshua 13:31
 also half of Gilead, with Ashtaroth and Edrei, the cities of the kingdom of Og in Bashan, were for the sons of Machir son of Manasseh, for half of the sons of Machir according to their families.
 
 ## Joshua 13:32
-These are the territories which Moses apportioned as an inheritance in the plains of Moab, beyond the Jordan at Jericho to the east.
+These are the territories which Moses distributed as an inheritance in the plains of Moab, beyond the Jordan at Jericho to the east.
 
 ## Joshua 13:33
 But to the tribe of Levi, Moses did not give an inheritance; the Lord, the God of Israel, is their inheritance, as He had promised them.

@@ -44,11 +44,11 @@ Inside was a man with a withered hand. They asked Jesus, “Is it lawful to heal
 
 ## Matthew 12:11
 
-He said to them, “If any of you has a sheep and it falls into a pit on the Sabbath, will you not take hold of it and lift it out?
+He asked them, “If any of you has a sheep and it falls into a pit on the Sabbath, wouldn't you take hold of it and lift it out?
 
 ## Matthew 12:12
 
-How much more valuable is a person than a sheep! Therefore, it is lawful to do good on the Sabbath.”
+How much more valuable is a person than a sheep! Therefore, doing good on the Sabbath is lawful.”
 
 ## Matthew 12:13
 
@@ -70,7 +70,7 @@ and He warned them not to reveal who He was.
 
 ## Matthew 12:17
 
-This was to fulfil what had been spoken through the prophet Isaiah:
+This was to fulfill what was spoken through the prophet Isaiah:
 
 ## Matthew 12:18
 
@@ -92,7 +92,7 @@ This was to fulfil what had been spoken through the prophet Isaiah:
 
 ## Matthew 12:21
 
-> In His name the nations will put their hope.”
+> In His name, the nations will place their hope.”
 
 ---
 
@@ -114,7 +114,7 @@ Knowing their thoughts, Jesus said to them, “Every kingdom divided against its
 
 ## Matthew 12:26
 
-If Satan drives out Satan, he is divided against himself. How then can his kingdom stand?
+If Satan is casting out Satan, he is divided against himself. How then can his kingdom stand?
 
 ## Matthew 12:27
 
@@ -146,7 +146,7 @@ Anyone who speaks a word against the Son of Man will be forgiven, but anyone who
 
 ## Matthew 12:33
 
-Make a tree good and its fruit will be good, or make a tree bad and its fruit will be bad, for a tree is recognised by its fruit.
+Cultivate a tree to be good, and its fruit will be good; or let a tree be bad, and its fruit will be bad, for a tree is recognised by its fruit.
 
 ## Matthew 12:34
 
@@ -168,7 +168,7 @@ For by your words you will be justified, and by your words you will be condemned
 
 ## Matthew 12:38
 
-Then some of the scribes and Pharisees said to Him, “Teacher, we want to see a sign from You.”
+Then some of the scribes and Pharisees approached Him, saying, “Teacher, we want to see a sign from You.”
 
 ## Matthew 12:39
 
@@ -208,7 +208,7 @@ While He was still speaking to the crowd, His mother and brothers stood outside,
 
 ## Matthew 12:47
 
-Someone told Him, “Your mother and brothers are standing outside, wanting to speak to You.”
+Someone informed Him, “Your mother and brothers are standing outside, wanting to speak to You.”
 
 ## Matthew 12:48
 
@@ -216,7 +216,7 @@ He replied to the one who told Him, “Who is My mother, and who are My brothers
 
 ## Matthew 12:49
 
-Pointing to His disciples, He said, “Here are My mother and My brothers.
+Gesturing towards His disciples, He said, “Here are My mother and My brothers.
 
 ## Matthew 12:50
 

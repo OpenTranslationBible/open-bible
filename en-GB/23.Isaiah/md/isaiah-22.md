@@ -58,13 +58,13 @@ and wrap you up tightly like a ball, to be thrown into a vast country; there you
 I will remove you from your office, and you will be pulled down from your position.
 
 ## Isaiah 22:20
-In that day, I will summon my servant, Eliakim son of Hilkiah.
+On that day, I will call for my servant, Eliakim son of Hilkiah.
 
 ## Isaiah 22:21
 I will clothe him with your robe and fasten your sash securely around him, and I will hand your authority over to him. He will be a father to the inhabitants of Jerusalem and to the house of Judah.
 
 ## Isaiah 22:22
-I will place on his shoulder the key to the house of David; what he opens, no one can shut, and what he shuts, no one can open.
+I will set upon his shoulder the key to the house of David; what he opens, no one can shut, and what he shuts, no one can open.
 
 ## Isaiah 22:23
 I will drive him like a peg into a firm place; he will become a throne of honour for his father’s house.

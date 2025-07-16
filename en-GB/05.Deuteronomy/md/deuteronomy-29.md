@@ -43,7 +43,7 @@ to establish you today as His people, so that He may be your God, as He promised
 It is not only with you that I am making this covenant and this oath,
 
 ## Deuteronomy 29:15
-but also with those who are standing here with us today in the presence of the Lord our God and with those who are not here today.
+but also with those who are here with us today in the presence of the Lord our God, as well as those who are not present today.
 
 ## Deuteronomy 29:16
 You are aware of how we lived in Egypt and how we passed through the nations on the way here.
@@ -61,7 +61,7 @@ When such a person hears the words of this oath and blesses themselves, thinking
 The Lord will not be willing to forgive them; His anger and zeal will burn against them. Every curse written in this book will fall upon them, and the Lord will blot out their names from under heaven.
 
 ## Deuteronomy 29:21
-The Lord will single them out from all the tribes of Israel for disaster, according to all the curses of the covenant written in this Book of the Law.
+The Lord will set them apart from all the tribes of Israel for calamity, in accordance with all the curses of the covenant written in this Book of the Law.
 
 ## Deuteronomy 29:22
 Future generations—your descendants who rise up after you and foreigners from distant lands—will see the calamities that have befallen the land and the diseases with which the Lord has afflicted it.
@@ -70,7 +70,7 @@ Future generations—your descendants who rise up after you and foreigners from 
 The whole land will be a burning waste of salt and sulphur—nothing sown, nothing sprouting, no vegetation growing on it. It will be like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the Lord overthrew in fierce anger.
 
 ## Deuteronomy 29:24
-All the nations will ask: ‘Why has the Lord done this to this land? Why this great outburst of anger?’
+All the nations will inquire, ‘Why has the Lord done this to this land? Why this great intensity of anger?’
 
 ## Deuteronomy 29:25
 And the answer will be: ‘It is because this people abandoned the covenant of the Lord, the God of their ancestors, which He made with them when He brought them out of Egypt.

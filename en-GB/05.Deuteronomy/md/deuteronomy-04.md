@@ -31,7 +31,7 @@ Only be careful, and watch over yourselves diligently, so that you do not forget
 Remember the day you stood before the Lord your God at Horeb, when He said to me, “Assemble the people before me to hear my words so that they may learn to revere me all the days they live on the earth and may teach them to their children.”
 
 ## Deuteronomy 4:11
-You came near and stood at the foot of the mountain, while it blazed with fire to the very heavens, with black clouds and deep darkness.
+You approached and stood at the base of the mountain, which was ablaze with fire reaching to the heavens, surrounded by black clouds and deep darkness.
 
 ## Deuteronomy 4:12
 Then the Lord spoke to you from the midst of the fire; you heard the sound of words but saw no form—there was only a voice.
@@ -64,28 +64,28 @@ But as for you, the Lord took you and brought you out of the iron-smelting furna
 The Lord was angry with me because of you, and He swore that I would not cross the Jordan and enter the good land the Lord your God is giving you as your inheritance.
 
 ## Deuteronomy 4:22
-I will die in this land; I will not cross the Jordan; but you are about to cross over and take possession of that good land.
+I will remain in this land; I will not cross the Jordan; but you are about to cross over and take possession of that good land.
 
 ## Deuteronomy 4:23
-Be careful not to forget the covenant of the Lord your God that He made with you; do not make for yourselves an idol in the form of anything the Lord your God has forbidden.
+Be diligent not to forget the covenant of the Lord your God that He made with you; do not create an idol in any form that the Lord your God has forbidden.
 
 ## Deuteronomy 4:24
 For the Lord your God is a consuming fire, a jealous God.
 
 ## Deuteronomy 4:25
-After you have had children and grandchildren and have lived in the land a long time—if you then become corrupt and make any kind of idol, doing evil in the eyes of the Lord your God and arousing His anger,
+After you have had children and grandchildren and have lived in the land a long time—if you then become corrupt and create any kind of idol, doing what is evil in the eyes of the Lord your God and provoking His anger,
 
 ## Deuteronomy 4:26
 I call the heavens and the earth as witnesses against you today that you will quickly perish from the land that you are crossing the Jordan to possess. You will not live there long but will certainly be destroyed.
 
 ## Deuteronomy 4:27
-The Lord will scatter you among the peoples, and only a few of you will survive among the nations to which the Lord will drive you.
+The Lord will disperse you among the peoples, and only a few of you will remain among the nations to which the Lord will drive you.
 
 ## Deuteronomy 4:28
-There you will worship man-made gods of wood and stone, which cannot see or hear or eat or smell.
+There you will serve gods made by human hands, of wood and stone, which cannot see or hear or eat or smell.
 
 ## Deuteronomy 4:29
-But if from there you seek the Lord your God, you will find Him if you seek Him with all your heart and with all your soul.
+But if from there you seek the Lord your God, you will find Him if you search for Him with all your heart and with all your soul.
 
 ## Deuteronomy 4:30
 When you are in distress and all these things have happened to you, then in later days you will return to the Lord your God and obey His voice.
@@ -97,16 +97,16 @@ For the Lord your God is a compassionate God; He will not abandon or destroy you
 Ask now about the former days, long before your time, from the day God created humankind on the earth; ask from one end of the heavens to the other. Has anything so great as this ever happened, or has anything like it ever been heard of?
 
 ## Deuteronomy 4:33
-Has any other people heard the voice of God speaking out of fire, as you have, and lived?
+Has any other people heard the voice of God speaking out of fire, as you have, and survived?
 
 ## Deuteronomy 4:34
 Has any god ever attempted to take for Himself one nation out of another nation, by trials, by signs and wonders, by war, by a mighty hand and an outstretched arm, or by great and awesome deeds, like all the things the Lord your God did for you in Egypt before your very eyes?
 
 ## Deuteronomy 4:35
-You were shown these things so that you might know that the Lord is God; besides Him there is no other.
+You were shown these things so that you might know that the Lord is God; apart from Him there is no other.
 
 ## Deuteronomy 4:36
-From heaven He made you hear His voice to discipline you. On earth He showed you His great fire, and you heard His words from out of the fire.
+From heaven He made you hear His voice to instruct you. On earth He showed you His great fire, and you heard His words from out of the fire.
 
 ## Deuteronomy 4:37
 Because He loved your ancestors and chose their descendants after them, He brought you out of Egypt by His Presence and His great strength,
@@ -115,22 +115,22 @@ Because He loved your ancestors and chose their descendants after them, He broug
 to drive out before you nations greater and mightier than you and to bring you into their land to give it to you for your inheritance, as it is today.
 
 ## Deuteronomy 4:39
-Acknowledge and take to heart this day that the Lord is God in heaven above and on the earth below. There is no other.
+Recognize and take to heart this day that the Lord is God in heaven above and on the earth below. There is no other.
 
 ## Deuteronomy 4:40
 Keep His statutes and commandments, which I am giving you today, so that it may go well with you and your children after you and that you may live long in the land the Lord your God gives you for all time.
 
 ## Deuteronomy 4:41
-Then Moses set apart three cities east of the Jordan,
+Then Moses designated three cities east of the Jordan,
 
 ## Deuteronomy 4:42
-to which anyone who had killed a person could flee if they had unintentionally killed a neighbour without malice aforethought. They could flee into one of these cities and save their life.
+to which anyone who had killed a person could flee if they had unintentionally killed a neighbour without prior intent. They could flee into one of these cities and preserve their life.
 
 ## Deuteronomy 4:43
-The cities were these: Bezer in the wilderness plateau, for the Reubenites; Ramoth in Gilead, for the Gadites; and Golan in Bashan, for the Manassites.
+The cities were as follows: Bezer in the wilderness plateau, for the Reubenites; Ramoth in Gilead, for the Gadites; and Golan in Bashan, for the Manassites.
 
 ## Deuteronomy 4:44
-This is the law Moses set before the Israelites.
+This is the law Moses presented to the Israelites.
 
 ## Deuteronomy 4:45
 These are the testimonies, statutes, and ordinances Moses gave them when they came out of Egypt
@@ -142,7 +142,7 @@ and were in the valley near Beth Peor east of the Jordan, in the land of Sihon k
 They took possession of his land and the land of Og king of Bashan, the two Amorite kings east of the Jordan.
 
 ## Deuteronomy 4:48
-This land extended from Aroer on the rim of the Arnon Gorge to Mount Sirion (that is, Hermon),
+This land extended from Aroer on the edge of the Arnon Gorge to Mount Sirion (that is, Hermon),
 
 ## Deuteronomy 4:49
 and included all the Arabah east of the Jordan, as far as the Sea of the Arabah, below the slopes of Pisgah.

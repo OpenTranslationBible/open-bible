@@ -4,7 +4,7 @@
 In the thirtieth year, on the fifth day of the fourth month, while I was among the exiles by the River Kebar, the heavens were opened, and I saw visions of God.
 
 ## Ezekiel 1:2
-On the fifth day of the month—it was the fifth year of King Jehoiachin's exile—
+On the fifth day of the month, during the fifth year of King Jehoiachin's exile,
 
 ## Ezekiel 1:3
 the word of the Lord came to Ezekiel the priest, son of Buzi, by the River Kebar in the land of the Chaldeans. There the hand of the Lord was upon him.
@@ -43,13 +43,13 @@ The appearance of the living creatures was like burning coals of fire, like torc
 The creatures darted back and forth like flashes of lightning.
 
 ## Ezekiel 1:15
-As I looked at the living creatures, I saw a wheel on the ground beside each creature with its four faces.
+As I observed the living creatures, I noticed a wheel on the ground beside each creature with its four faces.
 
 ## Ezekiel 1:16
 The appearance of the wheels was like sparkling topaz, and all four looked alike. They seemed to be made like a wheel within a wheel.
 
 ## Ezekiel 1:17
-When they moved, they went in any of the four directions without turning as they moved.
+When they moved, they went in any of the four directions without needing to turn as they moved.
 
 ## Ezekiel 1:18
 Their rims were high and awesome, and the rims of all four were full of eyes all around.
@@ -82,4 +82,4 @@ Above the expanse over their heads was something like a throne, resembling lapis
 I saw that from what appeared to be his waist up he looked like glowing metal, as if full of fire, and from there down he looked like fire, and brilliant light surrounded him.
 
 ## Ezekiel 1:28
-Like the appearance of a rainbow in the clouds on a rainy day, so was the radiance around him. This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell facedown, and I heard the voice of one speaking.
+The radiance around him was like the appearance of a rainbow in the clouds on a rainy day. This was the appearance of the likeness of the glory of the Lord. When I saw it, I fell facedown, and I heard the voice of one speaking.

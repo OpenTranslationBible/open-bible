@@ -52,7 +52,7 @@ When the Sidonians, Amalekites, and Maonites oppressed you, you cried out to Me,
 
 ## Judges 10:13
 
-Yet you have forsaken Me and served other gods; therefore, I will no longer save you.
+But you have turned away from Me and served other gods; as a result, I will not rescue you anymore.
 
 ## Judges 10:14
 

@@ -14,7 +14,7 @@ Seeing Peter and John about to enter the temple courts, he asked them for alms.
 
 ## Acts 3:4
 
-Peter, along with John, looked at him intently and said, “Look at us!”
+Peter, together with John, fixed his gaze on him and said, “Look at us.”
 
 ## Acts 3:5
 
@@ -86,7 +86,7 @@ and that He may send the Messiah, who has been appointed for you, even Jesus.
 
 ## Acts 3:21
 
-Heaven must receive Him until the time comes for God to restore everything, as He promised long ago through His holy prophets.
+Heaven must welcome Him until the time comes for God to restore everything, as He promised long ago through His holy prophets.
 
 ---
 
@@ -100,7 +100,7 @@ Anyone who does not listen to that prophet will be completely cut off from among
 
 ## Acts 3:24
 
-Indeed, beginning with Samuel, all the prophets who have spoken have foretold these days.
+Truly, starting with Samuel, all the prophets who have spoken have announced these days.
 
 ## Acts 3:25
 

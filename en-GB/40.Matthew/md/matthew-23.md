@@ -22,7 +22,7 @@ All their actions are done to be seen by others: they make their phylacteries br
 
 ## Matthew 23:6
 
-they love the place of honour at banquets and the most important seats in the synagogues;
+they delight in the places of distinction at banquets and the best seats in the synagogues;
 
 ## Matthew 23:7
 
@@ -80,7 +80,7 @@ You blind men! Which is more important: the gift, or the altar that makes the gi
 
 ## Matthew 23:20
 
-Therefore, anyone who swears by the altar swears by it and by everything on it.
+Therefore, anyone who swears by the altar is swearing by it and by everything on it.
 
 ## Matthew 23:21
 
@@ -102,7 +102,7 @@ You blind guides! You strain out a gnat but swallow a camel.
 
 ## Matthew 23:25
 
-“Woe to you, scribes and Pharisees, hypocrites! You clean the outside of the cup and dish, but inside they are full of greed and self-indulgence.
+“Woe to you, scribes and Pharisees, hypocrites! You cleanse the outside of the cup and dish, but inside they are full of greed and self-indulgence.
 
 ## Matthew 23:26
 
@@ -130,11 +130,11 @@ Thus you testify against yourselves that you are descendants of those who murder
 
 ## Matthew 23:32
 
-Go ahead, then, and complete what your ancestors started!
+So then, fulfill what your ancestors began!
 
 ## Matthew 23:33
 
-You snakes! You brood of vipers! How will you escape being condemned to hell?
+You serpents! You brood of vipers! How will you escape being sentenced to hell?
 
 ## Matthew 23:34
 
@@ -142,17 +142,17 @@ Therefore, I am sending you prophets, sages, and scribes. Some of them you will 
 
 ## Matthew 23:35
 
-And so upon you will come all the righteous blood that has been shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you murdered between the temple and the altar.
+And so upon you will come all the righteous blood that has been shed on earth, from the blood of righteous Abel to the blood of Zechariah son of Berekiah, whom you killed between the temple and the altar.
 
 ## Matthew 23:36
 
-Truly I say to you, all this will come upon this generation.
+Truly, I tell you, all this will fall upon this generation.
 
 ---
 
 ## Matthew 23:37
 
-“Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have longed to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.
+“Jerusalem, Jerusalem, you who kill the prophets and stone those sent to you, how often I have desired to gather your children together, as a hen gathers her chicks under her wings, and you were not willing.
 
 ## Matthew 23:38
 

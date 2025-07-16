@@ -4,7 +4,7 @@
 ‘Do not create idols or set up a carved image or a memorial stone for yourselves, nor place a figured stone in your land to bow down to it; for I am the Lord your God.
 
 ## Leviticus 26:2
-You shall observe My Sabbaths and revere My sanctuary; I am the Lord.
+You shall keep My Sabbaths and hold My sanctuary in reverence; I am the Lord.
 
 ## Leviticus 26:3
 If you walk in My statutes and are diligent to obey My commandments,
@@ -19,7 +19,7 @@ Your threshing will extend until grape harvest, and the grape harvest will last 
 I will grant peace in the land so that you may lie down with no one to make you afraid. I will also remove harmful beasts from the land, and no sword will pass through your territory.
 
 ## Leviticus 26:7
-You will pursue your enemies, and they will fall before you by the sword.
+You will chase your enemies, and they will fall before you by the sword.
 
 ## Leviticus 26:8
 Five of you will chase a hundred, and a hundred of you will put ten thousand to flight, and your enemies will fall before you by the sword.
@@ -28,13 +28,13 @@ Five of you will chase a hundred, and a hundred of you will put ten thousand to 
 I will turn towards you and make you fruitful and multiply you, and I will uphold My covenant with you.
 
 ## Leviticus 26:10
-You will eat the old supply and clear out the old because of the new.
+You will consume the old supply and make way for the new.
 
 ## Leviticus 26:11
 I will set My dwelling among you, and My soul will not reject you.
 
 ## Leviticus 26:12
-I will walk among you and be your God, and you shall be My people.
+I will walk among you and be your God, and you will be My people.
 
 ## Leviticus 26:13
 I am the Lord your God, who brought you out of the land of Egypt so that you would no longer be slaves; I broke the bars of your yoke and enabled you to walk with heads held high.
@@ -85,7 +85,7 @@ When I cut off your supply of bread, ten women will bake your bread in a single 
 then I will act with furious hostility against you, and I will punish you sevenfold for your sins.
 
 ## Leviticus 26:29
-You will eat the flesh of your sons and the flesh of your daughters.
+You will consume the flesh of your sons and the flesh of your daughters.
 
 ## Leviticus 26:30
 I will destroy your high places, cut down your incense altars, and pile your remains on the lifeless forms of your idols, for My soul will loathe you.

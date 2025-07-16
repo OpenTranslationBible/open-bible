@@ -46,7 +46,7 @@ and if you say, ‘No, we will go to Egypt, where we will not see war, hear the 
 then listen to the word of the Lord, you remnant of Judah. This is what the Lord of Hosts, the God of Israel, says: ‘If you are determined to go to Egypt and settle there,
 
 ## Jeremiah 42:16
-then the sword you fear will overtake you there, and the famine you dread will follow you into Egypt, and there you will die.
+then the sword you fear will find you there, and the famine you dread will reach you in Egypt, and there you will perish.
 
 ## Jeremiah 42:17
 Indeed, all who are resolved to go to Egypt to reside there will die by the sword, famine, and plague; not one will survive or escape the disaster I will bring upon them.’

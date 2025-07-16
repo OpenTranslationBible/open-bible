@@ -16,7 +16,7 @@ Listen, a roar on the mountains, like that of a vast multitude! Hear the uproar 
 They come from distant lands, from the farthest horizons— the Lord and the weapons of his indignation— to devastate the whole land.
 
 ## Isaiah 13:6
-Wail, for the day of the Lord is near; it will come as destruction from the Almighty.
+Cry out, for the day of the Lord is near; it will arrive as devastation from the Almighty.
 
 ## Isaiah 13:7
 Therefore, all hands will hang limp, every heart will melt.
@@ -37,7 +37,7 @@ I will punish the world for its evil, and the wicked for their iniquity. I will 
 I will make people rarer than pure gold, more scarce than the gold of Ophir.
 
 ## Isaiah 13:13
-Therefore I will make the heavens tremble, and the earth will be shaken from its place at the wrath of the Lord of hosts, in the day of his burning anger.
+Thus, I will cause the heavens to tremble, and the earth will be moved from its place at the wrath of the Lord of hosts, in the day of his burning anger.
 
 ## Isaiah 13:14
 It will be like a hunted gazelle, or like sheep with no one to gather them; each will turn to his own people, each will flee to his native land.

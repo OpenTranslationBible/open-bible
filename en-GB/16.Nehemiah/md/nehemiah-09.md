@@ -70,7 +70,7 @@ They refused to listen and did not remember the wondrous deeds you performed amo
 
 ## Nehemiah 9:18
 
-Even when they made for themselves a calf of cast metal and said, ‘This is your god who brought you up from Egypt,’ and committed great blasphemies,
+Even when they fashioned a calf from molten metal and declared, ‘This is your god who brought you up from Egypt,’ and committed great blasphemies,
 
 ## Nehemiah 9:19
 

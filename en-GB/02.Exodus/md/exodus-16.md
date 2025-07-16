@@ -16,7 +16,7 @@ Then the Lord said to Moses, “Behold, I will rain down bread from heaven for y
 On the sixth day, they are to prepare what they bring in, and it will be twice as much as they gather on the other days.”
 
 ## Exodus 16:6
-So Moses and Aaron said to all the Israelites, “In the evening, you will know that it was the Lord who brought you out of Egypt,
+So Moses and Aaron informed all the Israelites, “In the evening, you will realize that it was the Lord who brought you out of Egypt,
 
 ## Exodus 16:7
 and in the morning, you will see the glory of the Lord, for He has heard your complaints against Him. Who are we, that you should grumble against us?”
@@ -37,7 +37,7 @@ The Lord spoke to Moses, saying,
 “I have heard the grumblings of the Israelites. Speak to them, saying, ‘At twilight you shall eat meat, and in the morning you shall be filled with bread. Then you will know that I am the Lord your God.’”
 
 ## Exodus 16:13
-That evening, quail came and covered the camp, and in the morning there was a layer of dew around the camp.
+That evening, quail arrived and covered the camp, and in the morning there was a layer of dew around the camp.
 
 ## Exodus 16:14
 When the dew evaporated, behold, on the surface of the wilderness there was a fine, flake-like substance, as fine as frost on the ground.
@@ -46,7 +46,7 @@ When the dew evaporated, behold, on the surface of the wilderness there was a fi
 When the Israelites saw it, they asked one another, “What is it?” For they did not know what it was. Moses said to them, “It is the bread that the Lord has given you to eat.
 
 ## Exodus 16:16
-This is what the Lord has commanded: ‘Everyone is to gather as much as they need. Take an omer for each person you have in your tent.’”
+This is what the Lord has commanded: ‘Everyone is to gather according to their needs. Take an omer for each person you have in your tent.’”
 
 ## Exodus 16:17
 The Israelites did as they were instructed; some gathered much, some little.
@@ -55,13 +55,13 @@ The Israelites did as they were instructed; some gathered much, some little.
 When they measured it by the omer, the one who gathered much did not have too much, and the one who gathered little did not have too little. Each person gathered as much as they needed.
 
 ## Exodus 16:19
-Then Moses said to them, “No one is to keep any of it until morning.”
+Then Moses said to them, “No one should keep any of it until morning.”
 
 ## Exodus 16:20
 However, they did not listen to Moses; some kept part of it until morning, and it bred worms and stank. So Moses was angry with them.
 
 ## Exodus 16:21
-Each morning, everyone gathered as much as they needed, and when the sun grew hot, it melted away.
+Each morning, everyone gathered according to their needs, and when the sun grew hot, it melted away.
 
 ## Exodus 16:22
 On the sixth day, they gathered twice as much—two omers for each person—and all the leaders of the congregation came and reported this to Moses.
@@ -76,7 +76,7 @@ So they saved it until morning, as Moses instructed, and it did not stink nor wa
 Moses said, “Eat it today, because today is a Sabbath to the Lord. You will not find any of it on the ground today.
 
 ## Exodus 16:26
-Six days you are to gather it, but on the seventh day, the Sabbath, there will not be any.”
+For six days you are to gather it, but on the seventh day, the Sabbath, there will not be any.”
 
 ## Exodus 16:27
 Nevertheless, some of the people went out on the seventh day to gather it, but they found none.
@@ -94,10 +94,10 @@ So the people rested on the seventh day.
 The Israelites called the bread manna. It was white like coriander seed and tasted like wafers made with honey.
 
 ## Exodus 16:32
-Moses said, “This is what the Lord has commanded: ‘Take an omer of manna and keep it for the generations to come, so they can see the bread I gave you to eat in the wilderness when I brought you out of Egypt.’”
+Moses said, “This is what the Lord has commanded: ‘Take an omer of manna and keep it for future generations, so they can see the bread I gave you to eat in the wilderness when I brought you out of Egypt.’”
 
 ## Exodus 16:33
-So Moses said to Aaron, “Take a jar and put an omer of manna in it. Then place it before the Lord to be kept for the generations to come.”
+So Moses instructed Aaron, “Take a jar and put an omer of manna in it. Then place it before the Lord to be kept for future generations.”
 
 ## Exodus 16:34
 As the Lord commanded Moses, Aaron placed it before the Testimony, to be preserved.

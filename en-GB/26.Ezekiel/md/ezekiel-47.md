@@ -31,7 +31,7 @@ Every living creature that swarms wherever the river flows will live. There will
 Fishermen will stand along the shore; from En Gedi to En Eglaim there will be places for spreading nets. The fish will be of many kinds, like the fish of the Great Sea.
 
 ## Ezekiel 47:11
-But the swamps and marshes will not become fresh; they will be left for salt.
+However, the swamps and marshes will remain salty; they will be reserved for salt.
 
 ## Ezekiel 47:12
 On the banks of the river, on both sides, will grow all kinds of trees for food. Their leaves will not wither, nor will their fruit fail. They will bear fruit every month because the water from the sanctuary flows to them. Their fruit will be for food and their leaves for healing.”
@@ -61,10 +61,10 @@ The boundary will extend from the sea to Hazar Enan, at the border of Damascus, 
 “On the west side, the Great Sea will be the boundary to a point opposite Lebo Hamath. This is the western boundary.
 
 ## Ezekiel 47:21
-“You are to distribute this land among yourselves according to the tribes of Israel.
+“You are to allocate this land among yourselves according to the tribes of Israel.
 
 ## Ezekiel 47:22
 You are to allot it as an inheritance for yourselves and for the foreigners residing among you who have children. You are to consider them as native-born Israelites; they shall share an inheritance with you among the tribes of Israel.
 
 ## Ezekiel 47:23
-In whatever tribe a foreigner resides, there you are to give them their inheritance,” declares the Sovereign Lord.
+In whichever tribe a foreigner resides, there you are to grant them their inheritance,” declares the Sovereign Lord.

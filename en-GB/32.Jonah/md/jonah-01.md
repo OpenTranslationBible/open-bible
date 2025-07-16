@@ -64,7 +64,7 @@ So they picked up Jonah and threw him into the sea, and the sea ceased its ragin
 
 ## Jonah 1:16
 
-Then the men greatly feared the Lord, and they offered a sacrifice to the Lord and made vows.
+Then the men were filled with a profound reverence for the Lord, and they offered a sacrifice to Him and made vows.
 
 ## Jonah 1:17
 

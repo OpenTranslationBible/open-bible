@@ -22,7 +22,7 @@ They answered Him, “Jesus of Nazareth.” Jesus said to them, “I am He.” J
 
 ## John 18:6
 
-When Jesus said, “I am He,” they drew back and fell to the ground.
+When Jesus declared, “I am He,” they stepped back and fell to the ground.
 
 ## John 18:7
 
@@ -114,7 +114,7 @@ One of the high priest’s servants, a relative of the man whose ear Peter had c
 
 ## John 18:27
 
-Peter denied it again, and immediately a rooster crowed.
+Peter denied it again, and at that moment a rooster crowed.
 
 ---
 
@@ -128,7 +128,7 @@ Pilate therefore went out to them and asked, “What accusation do you bring aga
 
 ## John 18:30
 
-They answered, “If He were not a criminal, we would not have handed Him over to you.”
+They answered, “If He were not guilty, we would not have handed Him over to you.”
 
 ## John 18:31
 
@@ -154,7 +154,7 @@ Pilate replied, “Am I a Jew? Your own nation and the chief priests have handed
 
 ## John 18:36
 
-Jesus said, “My kingdom is not of this world. If it were, My servants would fight to prevent My arrest by the Jewish leaders. But now My kingdom is from another place.”
+Jesus said, “My kingdom is not of this world. If it were, My servants would fight to prevent My arrest by the Jewish leaders. But My kingdom is from another place.”
 
 ## John 18:37
 

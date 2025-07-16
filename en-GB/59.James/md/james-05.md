@@ -49,7 +49,7 @@ And the prayer of faith will restore the one who is ill, and the Lord will raise
 Therefore, confess your sins to one another and pray for one another, that you may be healed. The prayer of a righteous person is powerful and effective.
 
 ## James 5:17
-Elijah was a man with a nature like ours, and he prayed earnestly that it would not rain, and it did not rain on the land for three years and six months.
+Elijah was a human being like us, and he prayed earnestly that it would not rain, and it did not rain on the land for three years and six months.
 
 ## James 5:18
 Then he prayed again, and the heavens gave rain, and the earth produced its crops.

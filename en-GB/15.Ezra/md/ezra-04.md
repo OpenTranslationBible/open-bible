@@ -32,7 +32,7 @@ And in the days of Artaxerxes, Bishlam, Mithredath, Tabeel, and the rest of thei
 
 ## Ezra 4:8
 
-Rehum the commander and Shimshai the scribe wrote a letter against Jerusalem to King Artaxerxes, as follows:
+Rehum the commander and Shimshai the scribe composed a letter concerning Jerusalem to King Artaxerxes, stating:
 
 ## Ezra 4:9
 

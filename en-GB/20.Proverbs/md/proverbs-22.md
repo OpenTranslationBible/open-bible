@@ -26,7 +26,7 @@ Train a child in the way he should go, and even when he is old he will not depar
 
 ## Proverbs 22:7
 
-The rich rule over the poor, and the borrower is servant to the lender.
+Those with wealth have authority over those with less, and those who borrow are in a position of service to their lenders.
 
 ## Proverbs 22:8
 
@@ -34,7 +34,7 @@ Whoever sows injustice will reap calamity, and the rod of their fury will be bro
 
 ## Proverbs 22:9
 
-The generous will be blessed, for they share their food with the poor.
+Those who are generous will be blessed, for they share their provisions with those in need.
 
 ## Proverbs 22:10
 
@@ -50,7 +50,7 @@ The eyes of the Lord watch over knowledge, but He overthrows the words of the un
 
 ## Proverbs 22:13
 
-The sluggard says, “There is a lion outside! I will be killed in the streets!”
+The lazy person says, “There is a lion outside! I will be killed in the streets!”
 
 ## Proverbs 22:14
 
@@ -80,7 +80,7 @@ So that your trust may be in the Lord, I instruct you today, even you.
 
 ## Proverbs 22:20
 
-Have I not written for you thirty sayings of counsel and knowledge,
+Have I not provided you with numerous sayings of counsel and knowledge,
 
 ## Proverbs 22:21
 
@@ -92,7 +92,7 @@ Do not exploit the poor because they are poor, nor crush the needy in the gate,
 
 ## Proverbs 22:23
 
-for the Lord will take up their case and will exact life for life.
+for the Lord will take up their cause and will bring about justice.
 
 ---
 

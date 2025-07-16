@@ -14,7 +14,7 @@ On the day the Lord grants you rest from your suffering, turmoil, and the harsh 
 
 ## Isaiah 14:4
 
-you will take up this taunt against the king of Babylon: “How the oppressor has ceased, how his fury has ended!”
+you will recite this saying against the king of Babylon: “How the oppressor has ceased, how his fury has ended!”
 
 ## Isaiah 14:5
 
@@ -46,7 +46,7 @@ Your pomp and the sound of your harps have been brought down to the grave; maggo
 
 ## Isaiah 14:12
 
-How you have fallen from heaven, morning star, son of the dawn! You have been cast down to the earth, you who once laid low the nations!
+How you have fallen from heaven, shining one, son of the dawn! You have been cast down to the earth, you who once laid low the nations!
 
 ## Isaiah 14:13
 
@@ -54,7 +54,7 @@ You said in your heart, “I will ascend to the heavens; I will raise my throne 
 
 ## Isaiah 14:14
 
-I will ascend above the tops of the clouds; I will make myself like the Most High.”
+I will rise above the clouds; I will make myself like the Most High.”
 
 ## Isaiah 14:15
 
@@ -70,7 +70,7 @@ who made the world a wilderness, who overthrew its cities and did not let his ca
 
 ## Isaiah 14:18
 
-All the kings of the nations lie in state, each in his own tomb.
+All the rulers of the nations rest in honor, each in his own tomb.
 
 ## Isaiah 14:19
 

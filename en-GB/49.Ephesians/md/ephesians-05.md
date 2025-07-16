@@ -26,11 +26,11 @@ Let no one deceive you with empty words, for because of such things the wrath of
 
 ## Ephesians 5:7
 
-Therefore do not be partners with them;
+Therefore, avoid being partners with them;
 
 ## Ephesians 5:8
 
-for you were once darkness, but now you are light in the Lord. Live as children of light
+for you were once in darkness, but now you are light in the Lord. Live as children of light,
 
 ## Ephesians 5:9
 
@@ -42,7 +42,7 @@ and try to learn what pleases the Lord.
 
 ## Ephesians 5:11
 
-Have nothing to do with the fruitless deeds of darkness, but rather expose them;
+Do not engage in the fruitless deeds of darkness, but rather expose them;
 
 ## Ephesians 5:12
 
@@ -62,15 +62,15 @@ This is why it is said:
 
 ## Ephesians 5:15
 
-Be very careful, then, how you live—not as unwise but as wise,
+Be very careful, then, how you live—acting wisely,
 
 ## Ephesians 5:16
 
-making the most of every opportunity, because the days are evil.
+making the most of every opportunity, because the times are challenging.
 
 ## Ephesians 5:17
 
-Therefore do not be foolish, but understand what the Lord’s will is.
+Therefore, do not be foolish, but seek to understand what the Lord’s will is.
 
 ## Ephesians 5:18
 
@@ -82,11 +82,11 @@ speaking to one another with psalms, hymns, and spiritual songs, singing and mak
 
 ## Ephesians 5:20
 
-always giving thanks to God the Father for everything, in the name of our Lord Jesus Christ.
+always expressing gratitude to God the Father for everything, in the name of our Lord Jesus Christ.
 
 ## Ephesians 5:21
 
-Submit to one another out of reverence for Christ.
+Show mutual submission out of reverence for Christ.
 
 ## Ephesians 5:22
 
@@ -94,11 +94,11 @@ Wives, submit yourselves to your own husbands, as to the Lord.
 
 ## Ephesians 5:23
 
-For the husband is the head of the wife, as Christ is the head of the church, his body, of which He is the Saviour.
+For the husband is the leader of the wife as Christ is the leader of the church, his body, of which He is the Saviour.
 
 ## Ephesians 5:24
 
-Now as the church submits to Christ, so also wives should submit to their husbands in everything.
+Now as the church submits to Christ, so also wives should submit to their husbands in all things.
 
 ## Ephesians 5:25
 
@@ -106,7 +106,7 @@ Husbands, love your wives, just as Christ loved the church and gave Himself up f
 
 ## Ephesians 5:26
 
-to make her holy, cleansing her by the washing with water through the word,
+to sanctify her, cleansing her by the washing with water through the word,
 
 ## Ephesians 5:27
 
@@ -126,12 +126,12 @@ for we are members of His body.
 
 ## Ephesians 5:31
 
-“For this reason a man will leave his father and mother and be united to his wife, and the two will become one flesh.”
+“For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.”
 
 ## Ephesians 5:32
 
-This is a profound mystery—but I am talking about Christ and the church.
+This is a profound mystery—but I am referring to Christ and the church.
 
 ## Ephesians 5:33
 
-However, each one of you also must love his wife as he loves himself, and the wife must respect her husband.
+However, each one of you must also love his wife as he loves himself, and the wife must respect her husband.

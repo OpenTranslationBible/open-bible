@@ -4,7 +4,7 @@
 Brothers and sisters, if anyone is caught in any wrongdoing, you who are guided by the Spirit should restore that person with a spirit of gentleness. But be careful, lest you too be tempted.
 
 ## Galatians 6:2
-Bear one another’s burdens, and in this way, you will fulfil the law of Christ.
+Help carry each other’s burdens, and in doing so, you will fulfill the law of Christ.
 
 ## Galatians 6:3
 If anyone thinks they are something when they are nothing, they are deceiving themselves.
@@ -25,13 +25,13 @@ Do not be deceived, God is not mocked; for whatever a person sows, that they wil
 For the one who sows to please their own flesh will reap destruction from the flesh, but the one who sows to please the Spirit will reap eternal life from the Spirit.
 
 ## Galatians 6:9
-Let us not become weary in doing good, for at the proper time, we will reap a harvest if we do not give up.
+Let us not grow weary in doing good, for at the right time, we will reap a harvest if we do not give up.
 
 ## Galatians 6:10
 Therefore, as we have the opportunity, let us do good to all people, especially to those who belong to the household of faith.
 
 ## Galatians 6:11
-See what large letters I use as I write to you with my own hand!
+Notice the large letters I use as I write to you with my own hand!
 
 ## Galatians 6:12
 Those who want to make a good impression in the flesh are trying to compel you to be circumcised, only to avoid persecution for the cross of Christ.
@@ -40,7 +40,7 @@ Those who want to make a good impression in the flesh are trying to compel you t
 For even those who are circumcised do not keep the law themselves, yet they want you to be circumcised so they can boast about your flesh.
 
 ## Galatians 6:14
-But far be it from me to boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
+But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
 
 ## Galatians 6:15
 For neither circumcision nor uncircumcision means anything; what matters is a new creation.
@@ -52,4 +52,4 @@ Peace and mercy to all who follow this rule, and upon the Israel of God.
 From now on, let no one cause me trouble, for I bear on my body the marks of Jesus.
 
 ## Galatians 6:18
-The grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.
+May the grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.

@@ -43,7 +43,7 @@ When the Lord your God delivers it into your hands, you shall strike down all th
 However, the women, children, livestock, and everything else in the city, all its spoils, you may take as plunder for yourselves; and you shall use the plunder the Lord your God has given you from your enemies.
 
 ## Deuteronomy 20:15
-This is how you are to treat all the cities that are at a distance from you and do not belong to the nations nearby.
+This is the approach you should take with all the cities that are far from you and do not belong to the nearby nations.
 
 ## Deuteronomy 20:16
 But in the cities of the nations that the Lord your God is giving you as an inheritance, you shall not leave anything that breathes alive.

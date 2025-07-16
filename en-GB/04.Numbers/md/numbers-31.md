@@ -4,7 +4,7 @@
 The Lord spoke to Moses, saying,
 
 ## Numbers 31:2
-“Take vengeance on the Midianites for the children of Israel; afterward you shall be gathered to your people.”
+“Seek justice on the Midianites for the children of Israel; afterward you will be gathered to your people.”
 
 ## Numbers 31:3
 Moses addressed the people, “Arm some of your men for the war, so that they may go against Midian to execute the Lord’s vengeance.
@@ -49,7 +49,7 @@ He said to them, “Have you spared all the women?
 Behold, they were the ones who, on Balaam’s advice, caused the Israelites to be unfaithful to the Lord at Peor, so that a plague struck the Lord’s people.
 
 ## Numbers 31:17
-Now therefore, kill every male among the little ones, and kill every woman who has known a man intimately.
+Now therefore, put to death every male among the little ones, and every woman who has known a man intimately.
 
 ## Numbers 31:18
 But all the girls who have not known a man intimately, keep alive for yourselves.
@@ -64,7 +64,7 @@ Purify every garment, every article of leather, everything made of goats’ hair
 Then Eleazar the priest said to the soldiers who had gone to battle, “This is the statute of the law which the Lord commanded Moses:
 
 ## Numbers 31:22
-Only the gold, silver, bronze, iron, tin, and lead,
+The gold, silver, bronze, iron, tin, and lead,
 
 ## Numbers 31:23
 everything that can withstand fire, you shall pass through the fire, and it will be clean. It must also be purified with the water of cleansing. But whatever cannot withstand fire must be passed through the water.
@@ -91,7 +91,7 @@ take it from their half and give it to Eleazar the priest as an offering to the 
 From the Israelites’ half, take one out of every fifty of the persons, cattle, donkeys, sheep, and other animals, and give them to the Levites who perform the duty of the tabernacle of the Lord.”
 
 ## Numbers 31:31
-Moses and Eleazar the priest did as the Lord commanded Moses.
+Moses and Eleazar the priest carried out the Lord’s instructions to Moses.
 
 ## Numbers 31:32
 The spoils remaining from the plunder which the men of war had taken were 675,000 sheep,
@@ -109,19 +109,19 @@ and 32,000 women who had not known a man intimately.
 The half share of those who went to war was: 337,500 sheep,
 
 ## Numbers 31:37
-of which the Lord’s tribute was 675;
+from which the Lord’s tribute was 675;
 
 ## Numbers 31:38
-36,000 cattle, of which the Lord’s tribute was 72;
+36,000 cattle, from which the Lord’s tribute was 72;
 
 ## Numbers 31:39
-30,500 donkeys, of which the Lord’s tribute was 61;
+30,500 donkeys, from which the Lord’s tribute was 61;
 
 ## Numbers 31:40
-16,000 people, of whom the Lord’s tribute was 32.
+16,000 people, from whom the Lord’s tribute was 32.
 
 ## Numbers 31:41
-Moses gave the tribute, which was the Lord’s offering, to Eleazar the priest, as the Lord commanded Moses.
+Moses gave the tribute, which was the Lord’s offering, to Eleazar the priest, following the Lord’s command to Moses.
 
 ## Numbers 31:42
 As for the Israelites’ half, which Moses separated from the men who had gone to war—
@@ -145,7 +145,7 @@ From the Israelites’ half, Moses took one out of every fifty, both of people a
 Then the officers who were over the units of the army, the commanders of thousands and the commanders of hundreds, approached Moses,
 
 ## Numbers 31:49
-and said to him, “Your servants have counted the soldiers under our command, and not one is missing.
+and said to him, “Your servants have counted the soldiers under our command, and none is missing.
 
 ## Numbers 31:50
 So we have brought as an offering to the Lord what each man found, articles of gold—armlets, bracelets, signet rings, earrings, and necklaces—to make atonement for ourselves before the Lord.”
@@ -157,7 +157,7 @@ Moses and Eleazar the priest accepted from them the gold, all the crafted articl
 All the gold of the offering that they offered to the Lord, from the commanders of thousands and commanders of hundreds, weighed 16,750 shekels.
 
 ## Numbers 31:53
-Each soldier had taken plunder for himself.
+Each soldier had taken his own share of plunder.
 
 ## Numbers 31:54
 Moses and Eleazar the priest accepted the gold from the commanders of thousands and of hundreds and brought it to the tent of meeting as a memorial for the Israelites before the Lord.

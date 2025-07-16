@@ -40,7 +40,7 @@ But days are coming,” declares the Lord, “when I will send those who tip ves
 Then Moab will be ashamed of Chemosh, as the house of Israel was ashamed when they trusted in Bethel.
 
 ## Jeremiah 48:14
-How can you say, ‘We are warriors, men valiant in battle’?
+How can you claim, ‘We are warriors, men valiant in battle’?
 
 ## Jeremiah 48:15
 Moab will be destroyed and her towns invaded; her finest young men will go down in the slaughter,” declares the King, whose name is the Lord of Hosts.
@@ -58,7 +58,7 @@ Come down from your glory and sit on the parched ground, you inhabitants of Daug
 Stand by the road and watch, you who live in Aroer. Ask the man fleeing and the woman escaping, ‘What has happened?’
 
 ## Jeremiah 48:20
-Moab is disgraced, for she is shattered. Wail and cry out! Announce by the Arnon that Moab is destroyed.
+Moab is disgraced, for she is shattered. Wail and cry out! Proclaim by the Arnon that Moab is destroyed.
 
 ## Jeremiah 48:21
 Judgement has come to the plateau— to Holon, Jahzah and Mephaath,
@@ -70,7 +70,7 @@ to Dibon, Nebo and Beth Diblathaim,
 to Kiriathaim, Beth Gamul and Beth Meon,
 
 ## Jeremiah 48:24
-to Kerioth and Bozrah— to all the towns of Moab, far and near.
+to Kerioth and Bozrah— to all the towns of Moab, both near and far.
 
 ## Jeremiah 48:25
 Moab’s horn is cut off; her arm is broken,” declares the Lord.
@@ -91,13 +91,13 @@ We have heard of Moab’s pride—how great is her arrogance!— of her insolenc
 I know her insolence,” declares the Lord, “but it is futile; her boasts accomplish nothing.
 
 ## Jeremiah 48:31
-Therefore I wail over Moab, for all Moab I cry out, I moan for the people of Kir Hareseth.
+Therefore I lament over Moab, for all Moab I cry out, I moan for the people of Kir Hareseth.
 
 ## Jeremiah 48:32
 I weep for you, as Jazer weeps, you vines of Sibmah. Your branches spread across the sea; they reached as far as Jazer. The destroyer has fallen on your ripened fruit and grapes.
 
 ## Jeremiah 48:33
-Joy and gladness are gone from the orchards and fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy. Although there are shouts, they are not shouts of joy.
+Joy and gladness have vanished from the orchards and fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy. Although there are shouts, they are not shouts of joy.
 
 ## Jeremiah 48:34
 The sound of their cry rises from Heshbon to Elealeh and Jahaz, from Zoar as far as Horonaim and Eglath Shelishiyah, for even the waters of Nimrim are dried up.
@@ -121,7 +121,7 @@ On all the roofs in Moab and in the public squares there is nothing but mourning
 This is what the Lord says: “Behold, an eagle is swooping down, spreading its wings over Moab.
 
 ## Jeremiah 48:41
-Kerioth will be captured and the strongholds taken. In that day the hearts of Moab’s warriors will be like the heart of a woman in labour.
+Kerioth will be captured and the strongholds taken. In that day the hearts of Moab’s warriors will be like the heart of a woman in labor.
 
 ## Jeremiah 48:42
 Moab will be destroyed as a nation because she defied the Lord.
@@ -133,7 +133,7 @@ Terror, pit, and snare await you, people of Moab,” declares the Lord.
 “Whoever flees from the terror will fall into a pit, and whoever climbs out of the pit will be caught in a snare; for I will bring on Moab the year of her punishment,” declares the Lord.
 
 ## Jeremiah 48:45
-“In the shadow of Heshbon the fugitives stand helpless, for a fire has gone out from Heshbon, a blaze from the midst of Sihon; it burns the foreheads of Moab, the skulls of the noisy boasters.
+“In the shadow of Heshbon the fugitives stand helpless, for a fire has gone out from Heshbon, a blaze from the midst of Sihon; it burns the foreheads of Moab, the skulls of the loud boasters.
 
 ## Jeremiah 48:46
 Woe to you, Moab! The people of Chemosh are destroyed; your sons are taken into exile and your daughters into captivity.

@@ -79,7 +79,7 @@ The bars of your gates will be iron and bronze, and your strength will equal you
 “There is no one like the God of Jeshurun, who rides across the heavens to your help and on the clouds in his majesty.
 
 ## Deuteronomy 33:27
-The eternal God is your refuge, and underneath are the everlasting arms. He will drive out your enemies before you, saying, ‘Destroy them!’
+The everlasting God is your shelter, and beneath you are his eternal arms. He will drive out your enemies before you, declaring, ‘Overcome them!’
 
 ## Deuteronomy 33:28
 So Israel will dwell in safety; Jacob will dwell secure in a land of grain and new wine, where the heavens drop dew.

@@ -40,7 +40,7 @@ Here is the endurance of the saints who keep the commandments of God and their f
 And I heard a voice from heaven saying, “Write: ‘Blessed are the dead who die in the Lord from now on.’” “Yes,” says the Spirit, “so that they may rest from their labours, for their deeds follow with them.”
 
 ## Revelation 14:14
-Then I looked, and behold, a white cloud, and sitting on the cloud was one like a son of man, with a golden crown on His head and a sharp sickle in His hand.
+Then I looked, and behold, a white cloud, and seated on the cloud was someone resembling a son of man, with a golden crown on His head and a sharp sickle in His hand.
 
 ## Revelation 14:15
 And another angel came out of the temple, calling with a loud voice to Him who sat on the cloud, “Put in Your sickle and reap, for the time to reap has come, because the harvest of the earth is ripe.”
@@ -52,7 +52,7 @@ So He who sat on the cloud swung His sickle over the earth, and the earth was re
 And another angel came out of the temple in heaven, and he also had a sharp sickle.
 
 ## Revelation 14:18
-Then another angel, the one who has authority over fire, came out from the altar, and he called with a loud voice to him who had the sharp sickle, saying, “Put in your sharp sickle and gather the clusters from the vine of the earth, because her grapes are ripe.”
+Then another angel, the one with authority over fire, emerged from the altar, and he called with a loud voice to the one who had the sharp sickle, saying, “Put in your sharp sickle and gather the clusters from the vine of the earth, because her grapes are ripe.”
 
 ## Revelation 14:19
 So the angel swung his sickle to the earth and gathered the clusters from the vine of the earth, and threw them into the great winepress of God's wrath.

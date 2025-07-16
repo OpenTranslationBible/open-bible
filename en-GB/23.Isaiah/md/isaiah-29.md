@@ -64,7 +64,7 @@ For the ruthless shall come to an end, and the mockers shall be finished, and al
 those who make a man an offender by a word, and lay a snare for him who reproves in the gate, and with false testimony turn aside the just.
 
 ## Isaiah 29:22
-Therefore, thus says the Lord, who redeemed Abraham, concerning the house of Jacob: “Jacob shall not now be ashamed, nor shall his face now grow pale.
+Therefore, this is what the Lord, who redeemed Abraham, says about the house of Jacob: “Jacob shall no longer be ashamed, nor shall his face grow pale.
 
 ## Isaiah 29:23
 But when he sees his children, the work of my hands, in his midst, they shall sanctify my name; they shall sanctify the Holy One of Jacob and stand in awe of the God of Israel.

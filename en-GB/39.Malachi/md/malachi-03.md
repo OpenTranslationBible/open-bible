@@ -10,7 +10,7 @@
 He shall sit as a refiner and purifier of silver, and he shall purify the sons of Levi and refine them as gold and silver, that they may offer unto the Lord an offering in righteousness.
 
 ## Malachi 3:4
-Then shall the offering of Judah and Jerusalem be pleasant unto the Lord, as in the days of old, and as in former years.
+Then the offering of Judah and Jerusalem will be pleasing to the Lord, as it was in ancient times and in former years.
 
 ## Malachi 3:5
 "And I will come near to you for judgment; and I will be a swift witness against the sorcerers, against the adulterers, against false swearers, and against those who oppress the hireling in his wages, the widow, and the fatherless, and that turn aside the stranger from his right, and fear not me," says the Lord of Hosts.
@@ -25,7 +25,7 @@ From the days of your fathers you have turned away from my ordinances and have n
 "Will a man rob God? Yet you have robbed me. But you say, 'Wherein have we robbed you?' In tithes and offerings.
 
 ## Malachi 3:9
-You are cursed with a curse, for you have robbed me, even this whole nation.
+You are under a curse, for you have robbed me, even this whole nation.
 
 ## Malachi 3:10
 Bring all the tithes into the storehouse, that there may be food in my house, and prove me now herewith," says the Lord of Hosts, "if I will not open the windows of heaven for you and pour out a blessing, that there shall not be room enough to receive it.
@@ -43,7 +43,7 @@ And I will rebuke the devourer for your sakes, and he shall not destroy the frui
 You have said, 'It is vain to serve God, and what profit is it that we have kept his ordinance and that we have walked mournfully before the Lord of Hosts?
 
 ## Malachi 3:15
-And now we call the proud happy; yea, they that work wickedness are set up; yea, they that tempt God are even delivered.'"
+And now we consider the proud to be fortunate; indeed, those who do evil are exalted, and those who challenge God escape.'"
 
 ## Malachi 3:16
 Then those who feared the Lord spoke often one to another, and the Lord hearkened and heard, and a book of remembrance was written before him for those who feared the Lord and thought upon his name.

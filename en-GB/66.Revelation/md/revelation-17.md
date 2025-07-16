@@ -48,7 +48,7 @@ The beast which was, and is not, is also an eighth king, and belongs to the seve
 
 ## Revelation 17:12
 
-The ten horns you saw are ten kings who have not yet received a kingdom, but they will receive authority as kings with the beast for one hour.
+The ten horns you saw represent ten kings who have not yet received their kingdoms, but they will be granted authority as kings alongside the beast for a brief period.
 
 ## Revelation 17:13
 

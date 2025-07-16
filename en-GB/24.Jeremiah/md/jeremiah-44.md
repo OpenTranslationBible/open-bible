@@ -46,7 +46,7 @@ None of the remnant of Judah who have gone to live in Egypt will escape or survi
 Then all the men who knew that their wives were burning sacrifices to other gods, along with all the women standing by—a large assembly—and all the people living in Pathros in the land of Egypt, responded to Jeremiah,
 
 ## Jeremiah 44:16
-“We will not listen to the message you have spoken to us in the name of the Lord!
+“We will not heed the message you have spoken to us in the name of the Lord!
 
 ## Jeremiah 44:17
 We will certainly carry out every word that has proceeded from our mouths, by burning sacrifices to the queen of heaven and pouring out drink offerings to her, just as we, our ancestors, our kings, and our leaders did in the towns of Judah and the streets of Jerusalem. At that time, we had plenty of food, were well off, and saw no misfortune.
@@ -70,7 +70,7 @@ The Lord could no longer endure your wicked actions and the detestable things yo
 Because you have burned sacrifices and sinned against the Lord and have not obeyed Him or followed His law, His statutes, or His testimonies, this disaster has come upon you, as you now see.”
 
 ## Jeremiah 44:24
-Then Jeremiah said to all the people, including all the women, “Hear the word of the Lord, all Judah who are in the land of Egypt.
+Then Jeremiah said to all the people, including all the women, “Listen to the word of the Lord, all Judah who are in the land of Egypt.
 
 ## Jeremiah 44:25
 This is what the Lord of Hosts, the God of Israel, says: You and your wives have spoken with your mouths and fulfilled it with your hands, saying, ‘We will certainly perform our vows to burn sacrifices to the queen of heaven and pour out drink offerings to her.’ By all means, fulfil your vows and perform them!

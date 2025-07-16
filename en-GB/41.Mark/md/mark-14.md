@@ -24,7 +24,7 @@ It could have been sold for more than three hundred denarii and the money given 
 
 ## Mark 14:6
 
-But Jesus said, “Leave her alone. Why are you bothering her? She has done a good deed for me.
+But Jesus said, “Let her be. Why are you troubling her? She has done a kind act for me.
 
 ## Mark 14:7
 
@@ -32,7 +32,7 @@ You will always have the poor with you, and you can help them whenever you wish.
 
 ## Mark 14:8
 
-She did what she could; she poured perfume on my body beforehand to prepare for my burial.
+She has done what she could; she has anointed my body beforehand for burial.
 
 ## Mark 14:9
 
@@ -42,7 +42,7 @@ Truly I say to you, wherever the gospel is proclaimed throughout the world, what
 
 ## Mark 14:10
 
-Then Judas Iscariot, one of the Twelve, went to the chief priests to betray Jesus to them.
+Then Judas Iscariot, one of the Twelve, went to the chief priests to hand Jesus over to them.
 
 ## Mark 14:11
 
@@ -68,13 +68,13 @@ He will show you a large upper room, furnished and ready. Prepare for us there.�
 
 ## Mark 14:16
 
-The disciples left, went into the city and found things just as Jesus had told them. So they prepared the Passover.
+The disciples left, went into the city and found everything just as Jesus had told them. So they prepared the Passover meal.
 
 ---
 
 ## Mark 14:17
 
-When evening came, Jesus arrived with the Twelve.
+When evening came, Jesus arrived with the group of twelve.
 
 ## Mark 14:18
 
@@ -96,7 +96,7 @@ The Son of Man will go just as it is written about him. But woe to that man who 
 
 ## Mark 14:22
 
-While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this is my body.”
+While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this represents my body.”
 
 ## Mark 14:23
 
@@ -147,7 +147,7 @@ They went to a place called Gethsemane, and Jesus said to his disciples, “Sit 
 
 ## Mark 14:33
 
-He took Peter, James and John along with him, and he began to be deeply distressed and troubled.
+He took Peter, James, and John along with him, and he began to be deeply distressed and troubled.
 
 ## Mark 14:34
 
@@ -233,7 +233,7 @@ he fled naked, leaving his garment behind.
 
 ## Mark 14:53
 
-They took Jesus to the high priest, and all the chief priests, the elders and the teachers of the law came together.
+They took Jesus to the high priest, and all the chief priests, the elders, and the teachers of the law came together.
 
 ## Mark 14:54
 

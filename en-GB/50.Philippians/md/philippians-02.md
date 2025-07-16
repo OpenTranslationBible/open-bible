@@ -6,7 +6,7 @@ Therefore if there is any encouragement from being united with Christ, if any co
 
 ## Philippians 2:2
 
-make my joy complete by being of the same mind, maintaining the same love, united in spirit, intent on one purpose.
+make my joy complete by being of one mind, sharing the same love, united in spirit, and focused on a single purpose.
 
 ## Philippians 2:3
 
@@ -66,11 +66,11 @@ Do everything without complaining or arguing,
 
 ## Philippians 2:15
 
-so that you may become blameless and pure, children of God without fault in a warped and crooked generation. Then you will shine among them like stars in the sky,
+so that you may become blameless and pure, as God's children without fault in a distorted and perverse generation. Then you will shine among them like stars in the sky,
 
 ## Philippians 2:16
 
-as you hold firmly to the word of life. And then I will be able to boast on the day of Christ that I did not run or labour in vain.
+as you hold firmly to the word of life. And then I will be able to take pride on the day of Christ that I did not run or labour in vain.
 
 ## Philippians 2:17
 
@@ -90,7 +90,7 @@ For I have no one else of kindred spirit who will genuinely care for your welfar
 
 ## Philippians 2:21
 
-For they all seek after their own interests, not those of Christ Jesus.
+For they all pursue their own interests, rather than those of Christ Jesus.
 
 ## Philippians 2:22
 
@@ -98,7 +98,7 @@ But you know of his proven character, that he served with me in the work of the 
 
 ## Philippians 2:23
 
-Therefore I hope to send him immediately, as soon as I see how things go with me;
+Therefore I hope to send him promptly, as soon as I see how things go with me;
 
 ## Philippians 2:24
 
@@ -122,7 +122,7 @@ Therefore I am all the more eager to send him, so that when you see him again yo
 
 ## Philippians 2:29
 
-Receive him then in the Lord with all joy, and hold people like him in high regard,
+Welcome him then in the Lord with all joy, and hold people like him in high regard,
 
 ## Philippians 2:30
 

@@ -1,7 +1,7 @@
 # Malachi Chapter 1
 
 ## Malachi 1:1
-The oracle of the word of the Lord to Israel through Malachi:
+The message of the Lord's word to Israel through Malachi:
 
 ## Malachi 1:2
 “I have loved you,” says the Lord. But you question, “How have you loved us?” “Was Esau not Jacob’s brother?” declares the Lord. “Yet I have loved Jacob;

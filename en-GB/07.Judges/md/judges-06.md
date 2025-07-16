@@ -28,7 +28,7 @@ Midian brought Israel to such poverty that the Israelites cried out to the Lord 
 
 ## Judges 6:7
 
-When the Israelites cried out to the Lord because of Midian,
+As the Israelites cried out to the Lord due to Midian's oppression,
 
 ## Judges 6:8
 
@@ -50,7 +50,7 @@ The angel of the Lord came and sat under the oak in Ophrah that belonged to Joas
 
 ## Judges 6:12
 
-The angel of the Lord appeared to Gideon and said, “The Lord is with you, mighty warrior.”
+The angel of the Lord appeared to Gideon and said, “The Lord is with you, valiant warrior.”
 
 ## Judges 6:13
 
@@ -66,7 +66,7 @@ Gideon said, “Pardon me, my lord, but how can I save Israel? My clan is the we
 
 ## Judges 6:16
 
-The Lord answered, “I will be with you, and you will strike down all the Midianites, leaving none alive.”
+The Lord assured him, “I will be with you, and you will strike down all the Midianites, leaving none.”
 
 ## Judges 6:17
 
@@ -82,7 +82,7 @@ Gideon went inside, prepared a young goat, and from an ephah of flour made unlea
 
 ## Judges 6:20
 
-The angel of God said to him, “Take the meat and the unleavened bread, place them on this rock, and pour out the broth.” And Gideon did so.
+The angel of God instructed him, “Take the meat and the unleavened bread, place them on this rock, and pour out the broth.” And Gideon did so.
 
 ## Judges 6:21
 
@@ -90,7 +90,7 @@ Then the angel of the Lord touched the meat and the unleavened bread with the ti
 
 ## Judges 6:22
 
-When Gideon realised that it was the angel of the Lord, he exclaimed, “Alas, Sovereign Lord! I have seen the angel of the Lord face to face!”
+When Gideon understood that it was the angel of the Lord, he exclaimed, “Alas, Sovereign Lord! I have seen the angel of the Lord face to face!”
 
 ## Judges 6:23
 
@@ -114,7 +114,7 @@ So Gideon took ten of his servants and did as the Lord had commanded. But becaus
 
 ## Judges 6:28
 
-In the morning, when the people of the town got up, there was Baal’s altar, demolished, with the Asherah pole beside it cut down and the second bull sacrificed on the newly built altar.
+In the morning, when the people of the town got up, they found Baal’s altar demolished, with the Asherah pole beside it cut down and the second bull sacrificed on the newly built altar.
 
 ## Judges 6:29
 
@@ -158,8 +158,8 @@ And it was so. Gideon rose early the next day; he squeezed the fleece and wrung 
 
 ## Judges 6:39
 
-Then Gideon said to God, “Do not be angry with me. Let me make just one more request. Allow me one more test with the fleece, but this time make the fleece dry and let the ground be covered with dew.”
+Then Gideon said to God, “Please do not be angry with me. Let me make just one more request. Allow me one more test with the fleece, but this time let the fleece remain dry and let the ground be covered with dew.”
 
 ## Judges 6:40
 
-That night God did so. Only the fleece was dry; all the ground was covered with dew.
+That night God did as requested. Only the fleece was dry; all the ground was covered with dew.

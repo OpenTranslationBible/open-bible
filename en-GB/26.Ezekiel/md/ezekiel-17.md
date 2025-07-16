@@ -1,7 +1,7 @@
 # Ezekiel Chapter 17
 
 ## Ezekiel 17:1
-The word of the Lord came to me, saying:
+A message from the Lord came to me:
 
 ## Ezekiel 17:2
 “Son of man, pose a riddle and present it as a parable to the Israelites.
@@ -31,7 +31,7 @@ Say to them, ‘This is what the Sovereign Lord says: Will it thrive? Will it no
 Though it is planted, will it thrive? Will it not completely wither when the east wind strikes it—wither in the bed where it grew?’”
 
 ## Ezekiel 17:11
-Then the word of the Lord came to me, saying:
+Later, a message from the Lord came to me:
 
 ## Ezekiel 17:12
 “Say to this rebellious house, ‘Do you not know what these things mean?’ Say: ‘The king of Babylon came to Jerusalem and took its king and nobles, bringing them to Babylon.
@@ -55,7 +55,7 @@ Pharaoh with his mighty army and great horde will not assist him in war, when ra
 He despised the oath by breaking the covenant. Despite giving his hand in pledge, he did all these things; he shall not escape.
 
 ## Ezekiel 17:19
-Therefore, this is what the Sovereign Lord says: As surely as I live, I will repay him for despising my oath and breaking my covenant.
+Therefore, this is what the Sovereign Lord declares: As surely as I live, I will repay him for disregarding my oath and breaking my covenant.
 
 ## Ezekiel 17:20
 I will spread my net for him, and he will be ensnared in my trap. I will bring him to Babylon and execute judgment on him there for being unfaithful to me.

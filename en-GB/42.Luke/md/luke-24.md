@@ -34,11 +34,11 @@ Then they remembered His words.
 
 ## Luke 24:9
 
-When they returned from the tomb, they reported all these things to the eleven and to all the others.
+Upon returning from the tomb, they shared all these things with the eleven and with everyone else.
 
 ## Luke 24:10
 
-It was Mary Magdalene, Joanna, Mary the mother of James, and the other women with them who told this to the apostles.
+Mary Magdalene, Joanna, Mary the mother of James, and the other women with them conveyed this to the apostles.
 
 ## Luke 24:11
 
@@ -96,7 +96,7 @@ and did not find His body. They came saying they had seen a vision of angels, wh
 
 ## Luke 24:24
 
-Then some of those who were with us went to the tomb and found it just as the women had said, but they did not see Him.”
+Then some of those with us went to the tomb and found it just as the women had described, but they did not see Him.”
 
 ## Luke 24:25
 
@@ -108,7 +108,7 @@ Was it not necessary for the Christ to suffer these things and then enter into H
 
 ## Luke 24:27
 
-And beginning with Moses and all the Prophets, He explained to them what was said in all the Scriptures concerning Himself.
+And starting with Moses and all the Prophets, He clarified to them what was mentioned in all the Scriptures about Himself.
 
 ---
 
@@ -122,7 +122,7 @@ But they urged Him strongly, saying, “Stay with us, for it is nearly evening; 
 
 ## Luke 24:30
 
-When He was at the table with them, He took bread, gave thanks, broke it, and began to give it to them.
+While at the table with them, He took bread, gave thanks, broke it, and began to share it with them.
 
 ## Luke 24:31
 
@@ -130,7 +130,7 @@ Then their eyes were opened and they recognised Him, and He vanished from their 
 
 ## Luke 24:32
 
-They asked each other, “Were not our hearts burning within us while He talked with us on the road and opened the Scriptures to us?”
+They asked each other, “Were not our hearts burning within us while He talked with us on the road and revealed the Scriptures to us?”
 
 ## Luke 24:33
 
@@ -156,7 +156,7 @@ They were startled and frightened, thinking they saw a spirit.
 
 ## Luke 24:38
 
-He said to them, “Why are you troubled, and why do doubts arise in your hearts?
+He said to them, “Why are you troubled, and why do doubts come into your hearts?
 
 ## Luke 24:39
 
@@ -190,11 +190,11 @@ Then He opened their minds so they could understand the Scriptures.
 
 ## Luke 24:46
 
-He told them, “This is what is written: The Messiah will suffer and rise from the dead on the third day,
+He told them, “This is what is written: The Messiah will endure suffering and rise from the dead on the third day,
 
 ## Luke 24:47
 
-and repentance for the forgiveness of sins will be preached in His name to all nations, beginning at Jerusalem.
+and repentance for the forgiveness of sins will be proclaimed in His name to all nations, starting at Jerusalem.
 
 ## Luke 24:48
 
@@ -212,7 +212,7 @@ When He had led them out as far as Bethany, He lifted up His hands and blessed t
 
 ## Luke 24:51
 
-While He was blessing them, He parted from them and was carried up into heaven.
+As He was blessing them, He departed from them and was carried up into heaven.
 
 ## Luke 24:52
 
@@ -220,4 +220,4 @@ After worshipping Him, they returned to Jerusalem with great joy,
 
 ## Luke 24:53
 
-and they stayed continually at the temple, praising God.
+and they remained continually at the temple, praising God.

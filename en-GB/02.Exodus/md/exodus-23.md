@@ -19,7 +19,7 @@ If you see the donkey of someone who hates you lying under its burden, do not le
 “Do not deny justice to your needy people in their lawsuits.
 
 ## Exodus 23:7
-Keep far from a false charge, and do not kill the innocent or the righteous, for I will not acquit the guilty.
+Avoid any false accusation, and do not harm the innocent or the righteous, for I will not declare the guilty as innocent.
 
 ## Exodus 23:8
 “Do not accept a bribe, for a bribe blinds the clear-sighted and corrupts the words of the righteous.
@@ -73,7 +73,7 @@ My angel will go before you and bring you into the land of the Amorites, Hittite
 You shall not bow down to their gods or serve them or follow their practices. You must demolish them and break their sacred stones to pieces.
 
 ## Exodus 23:25
-Worship the Lord your God, and his blessing will be on your food and water. I will take away sickness from among you,
+Serve the Lord your God, and his blessing will be upon your food and water. I will remove sickness from among you,
 
 ## Exodus 23:26
 and none will miscarry or be barren in your land. I will give you a full lifespan.
@@ -88,7 +88,7 @@ I will send hornets ahead of you to drive the Hivites, Canaanites, and Hittites 
 I will not drive them out before you in a single year, lest the land become desolate and the wild animals too numerous for you.
 
 ## Exodus 23:30
-Little by little I will drive them out before you, until you have increased enough to take possession of the land.
+Gradually, I will drive them out before you, until you have increased enough to take possession of the land.
 
 ## Exodus 23:31
 “I will establish your borders from the Red Sea to the Mediterranean Sea, and from the desert to the Euphrates River. I will deliver the inhabitants of the land into your hand, and you will drive them out before you.

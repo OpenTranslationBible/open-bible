@@ -4,7 +4,7 @@
 Therefore, my dear brothers and sisters, whom I love and long for, my joy and crown, stand firm in the Lord in this manner, my beloved friends.
 
 ## Philippians 4:2
-I urge Euodia and I urge Syntyche to agree in the Lord.
+I encourage Euodia and Syntyche to find harmony in the Lord.
 
 ## Philippians 4:3
 Yes, I ask you, my true companion, to help these women who have struggled alongside me in the cause of the gospel, together with Clement and the rest of my fellow workers, whose names are in the book of life.
@@ -19,7 +19,7 @@ Let your gentleness be known to everyone. The Lord is near.
 Do not be anxious about anything, but in every situation, by prayer and supplication with thanksgiving, present your requests to God.
 
 ## Philippians 4:7
-And the peace of God, which surpasses all understanding, will guard your hearts and minds in Christ Jesus.
+And the peace of God, which is beyond all understanding, will protect your hearts and minds in Christ Jesus.
 
 ## Philippians 4:8
 Finally, brothers and sisters, whatever is true, whatever is honourable, whatever is right, whatever is pure, whatever is lovely, whatever is commendable—if anything is excellent or worthy of praise—think about these things.
@@ -64,7 +64,7 @@ To our God and Father be glory for ever and ever. Amen.
 Greet all the saints in Christ Jesus. The brothers and sisters who are with me send their greetings.
 
 ## Philippians 4:22
-All the saints send you greetings, especially those who belong to Caesar’s household.
+All the saints send you greetings, especially those from Caesar’s household.
 
 ## Philippians 4:23
-The grace of the Lord Jesus Christ be with your spirit. Amen.
+May the grace of the Lord Jesus Christ be with your spirit. Amen.

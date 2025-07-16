@@ -64,11 +64,11 @@ Now, therefore, fear the Lord and serve Him with all faithfulness. Throw away th
 
 ## Joshua 24:15
 
-But if serving the Lord seems undesirable to you, then choose for yourselves this day whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the Lord.”
+But if serving the Lord does not appeal to you, then choose today whom you will serve, whether the gods your ancestors served beyond the Euphrates, or the gods of the Amorites, in whose land you are living. But as for me and my household, we will serve the Lord.”
 
 ## Joshua 24:16
 
-Then the people answered, “Far be it from us to forsake the Lord to serve other gods!
+Then the people answered, “We would never abandon the Lord to serve other gods!
 
 ## Joshua 24:17
 
@@ -82,11 +82,11 @@ The Lord drove out before us all the nations, including the Amorites, who lived 
 
 ## Joshua 24:19
 
-Joshua said to the people, “You are not able to serve the Lord. He is a holy God; He is a jealous God. He will not forgive your rebellion and your sins.
+Joshua said to the people, “You may find it difficult to serve the Lord. He is a holy God; He is a zealous God. He will not overlook your rebellion and your sins.
 
 ## Joshua 24:20
 
-If you forsake the Lord and serve foreign gods, He will turn and bring disaster on you and make an end of you, after He has been good to you.”
+If you turn away from the Lord and serve other gods, He will bring disaster upon you and bring an end to you, after He has been good to you.”
 
 ---
 
@@ -100,15 +100,15 @@ Then Joshua said, “You are witnesses against yourselves that you have chosen t
 
 ## Joshua 24:23
 
-“Now then,” said Joshua, “throw away the foreign gods that are among you and yield your hearts to the Lord, the God of Israel.”
+“Now then,” said Joshua, “get rid of the foreign gods that are among you and direct your hearts to the Lord, the God of Israel.”
 
 ## Joshua 24:24
 
-And the people said to Joshua, “We will serve the Lord our God and obey His voice.”
+And the people said to Joshua, “We will serve the Lord our God and listen to His voice.”
 
 ## Joshua 24:25
 
-On that day Joshua made a covenant for the people, and there at Shechem he reaffirmed for them decrees and laws.
+On that day Joshua established a covenant for the people, and there at Shechem he reaffirmed for them decrees and laws.
 
 ## Joshua 24:26
 
@@ -116,11 +116,11 @@ And Joshua recorded these things in the Book of the Law of God. Then he took a l
 
 ## Joshua 24:27
 
-“See!” he said to all the people. “This stone will be a witness against us. It has heard all the words the Lord has said to us. It will be a witness against you if you are untrue to your God.”
+“See!” he said to all the people. “This stone will be a witness against us. It has heard all the words the Lord has said to us. It will testify against you if you are untrue to your God.”
 
 ## Joshua 24:28
 
-Then Joshua dismissed the people, each to their own inheritance.
+Then Joshua sent the people away, each to their own inheritance.
 
 ---
 
@@ -130,11 +130,11 @@ After these things, Joshua son of Nun, the servant of the Lord, died at the age 
 
 ## Joshua 24:30
 
-And they buried him in the land of his inheritance, at Timnath Serah in the hill country of Ephraim, north of Mount Gaash.
+And they laid him to rest in the land of his inheritance, at Timnath Serah in the hill country of Ephraim, north of Mount Gaash.
 
 ## Joshua 24:31
 
-Israel served the Lord throughout the lifetime of Joshua and of the elders who outlived him and who had experienced everything the Lord had done for Israel.
+Israel served the Lord throughout the lifetime of Joshua and of the elders who outlived him and who had witnessed all the works the Lord had done for Israel.
 
 ## Joshua 24:32
 
@@ -142,4 +142,4 @@ And Joseph’s bones, which the Israelites had brought up from Egypt, were burie
 
 ## Joshua 24:33
 
-And Eleazar son of Aaron died and was buried at Gibeah, which had been allotted to his son Phinehas in the hill country of Ephraim.
+And Eleazar son of Aaron died and was buried at Gibeah, which had been given to his son Phinehas in the hill country of Ephraim.

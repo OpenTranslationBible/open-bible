@@ -14,7 +14,7 @@ And there was a widow in that city who kept coming to him with the plea, ‘Gran
 
 ## Luke 18:4
 
-For a while he was unwilling, but later he said to himself, ‘Even though I do not fear God nor respect any person,
+For a time he was unwilling, but later he said to himself, ‘Even though I do not fear God nor respect any person,
 
 ## Luke 18:5
 
@@ -66,7 +66,7 @@ People were also bringing infants to Him for Him to touch them. But when the dis
 
 ## Luke 18:16
 
-But Jesus called the children to Him and said, “Let the little children come to Me, and do not hinder them, for the kingdom of God belongs to such as these.
+But Jesus called the children to Him and said, “Allow the little children to come to Me, and do not hinder them, for the kingdom of God belongs to such as these.
 
 ## Luke 18:17
 
@@ -106,11 +106,11 @@ Jesus looked at him and said, “How hard it is for the wealthy to enter the kin
 
 ## Luke 18:25
 
-Indeed, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”
+Truly, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”
 
 ## Luke 18:26
 
-Those who heard this asked, “Who then can be saved?”
+Those listening asked, “Who then can be saved?”
 
 ## Luke 18:27
 
@@ -120,7 +120,7 @@ Jesus replied, “The things that are impossible with people are possible with G
 
 ## Luke 18:28
 
-Peter said to Him, “We have left all we had to follow You!”
+Peter said to Him, “We have left everything we had to follow You!”
 
 ## Luke 18:29
 
@@ -138,7 +138,7 @@ Jesus took the Twelve aside and said to them, “We are going up to Jerusalem, a
 
 ## Luke 18:32
 
-He will be handed over to the Gentiles. They will mock Him, insult Him, and spit on Him;
+He will be delivered to the Gentiles. They will mock Him, insult Him, and spit on Him;
 
 ## Luke 18:33
 
@@ -164,7 +164,7 @@ They told him, “Jesus of Nazareth is passing by.”
 
 ## Luke 18:38
 
-He called out, “Jesus, Son of David, have mercy on me!”
+He cried out, “Jesus, Son of David, have mercy on me!”
 
 ## Luke 18:39
 
@@ -172,7 +172,7 @@ Those who led the way sternly told him to be quiet, but he shouted all the more,
 
 ## Luke 18:40
 
-Jesus stopped and ordered the man to be brought to Him. When he came near, Jesus asked him,
+Jesus stopped and instructed that the man be brought to Him. When he came near, Jesus asked him,
 
 ## Luke 18:41
 

@@ -14,7 +14,7 @@ He remained there for three months. However, when a plot was laid against him by
 
 ## Acts 20:4
 
-He was accompanied by Sopater, son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, and Tychicus and Trophimus from the province of Asia.
+He traveled with Sopater, son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, along with Tychicus and Trophimus from the province of Asia.
 
 ## Acts 20:5
 
@@ -32,7 +32,7 @@ On the first day of the week, we gathered to break bread. Paul spoke to the peop
 
 ## Acts 20:8
 
-There were many lamps in the upper room where we were assembled.
+The upper room where we were assembled was well-lit with many lamps.
 
 ## Acts 20:9
 
@@ -94,7 +94,7 @@ I solemnly testified to both Jews and Greeks about repentance towards God and fa
 
 ## Acts 20:22
 
-“And now, compelled by the Spirit, I am on my way to Jerusalem, not knowing what will happen to me there,
+“And now, led by the Spirit, I am on my way to Jerusalem, uncertain of what will happen to me there,
 
 ## Acts 20:23
 
@@ -112,11 +112,11 @@ However, I consider my life worth nothing to me; my only aim is to finish the ra
 
 ## Acts 20:26
 
-Therefore, I declare to you today that I am innocent of the blood of any of you.
+Therefore, I declare to you today that I am free from the responsibility for any of you.
 
 ## Acts 20:27
 
-For I did not hesitate to proclaim to you the whole counsel of God.
+For I did not hesitate to proclaim to you the entire plan of God.
 
 ## Acts 20:28
 
@@ -124,7 +124,7 @@ Be on guard for yourselves and for all the flock of which the Holy Spirit has ma
 
 ## Acts 20:29
 
-I know that after I leave, savage wolves will come in among you and will not spare the flock.
+I know that after I leave, fierce wolves will come in among you and will not spare the flock.
 
 ## Acts 20:30
 
@@ -138,7 +138,7 @@ Therefore, be on your guard! Remember that for three years I never ceased to war
 
 ## Acts 20:32
 
-“Now I commit you to God and to the word of His grace, which can build you up and give you an inheritance among all those who are sanctified.
+“Now I entrust you to God and to the word of His grace, which can build you up and give you an inheritance among all those who are sanctified.
 
 ## Acts 20:33
 
@@ -164,4 +164,4 @@ They all wept as they embraced Paul and repeatedly kissed him.
 
 ## Acts 20:38
 
-What grieved them most was his statement that they would never see his face again. Then they accompanied him to the ship.
+Their greatest sorrow was his statement that they would never see his face again. Then they accompanied him to the ship.

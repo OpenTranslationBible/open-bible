@@ -10,7 +10,7 @@ to speak evil of no one, to avoid quarrelling, to be gentle, showing perfect cou
 For we ourselves were once foolish, disobedient, deceived, enslaved by various passions and pleasures, living in malice and envy, hateful, detesting one another.
 
 ## Titus 3:4
-But when the kindness and love of God our Saviour appeared,
+Yet, when the kindness and love of God our Saviour was revealed,
 
 ## Titus 3:5
 He saved us, not because of deeds done by us in righteousness, but according to His mercy, through the washing of regeneration and renewal by the Holy Spirit,

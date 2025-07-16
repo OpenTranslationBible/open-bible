@@ -28,7 +28,7 @@ And I will bring you to the land I swore to give to Abraham, Isaac, and Jacob; I
 Moses relayed this to the Israelites, but they did not listen to him because of their despondency and harsh labour.
 
 ## Exodus 6:10
-Then the Lord spoke to Moses, saying,
+The Lord instructed Moses,
 
 ## Exodus 6:11
 “Go, tell Pharaoh king of Egypt to let the Israelites go out of his land.”
@@ -49,16 +49,16 @@ The sons of Simeon were Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul the son of
 These were the names of the sons of Levi according to their generations: Gershon, Kohath, and Merari. Levi lived 137 years.
 
 ## Exodus 6:17
-The sons of Gershon, by their clans, were Libni and Shimei.
+Gershon's sons, according to their clans, were Libni and Shimei.
 
 ## Exodus 6:18
 The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
 
 ## Exodus 6:19
-The sons of Merari were Mahli and Mushi. These were the clans of Levi according to their records.
+Merari's sons were Mahli and Mushi. These were the clans of Levi according to their records.
 
 ## Exodus 6:20
-Amram married his father’s sister Jochebed, and she bore him Aaron and Moses. Amram lived 137 years.
+Amram took his father's sister Jochebed as his wife, and she bore him Aaron and Moses. Amram lived 137 years.
 
 ## Exodus 6:21
 The sons of Izhar were Korah, Nepheg, and Zichri.
@@ -67,25 +67,25 @@ The sons of Izhar were Korah, Nepheg, and Zichri.
 The sons of Uzziel were Mishael, Elzaphan, and Sithri.
 
 ## Exodus 6:23
-Aaron married Elisheba, daughter of Amminadab and sister of Nahshon, and she bore him Nadab and Abihu, Eleazar and Ithamar.
+Aaron took Elisheba, daughter of Amminadab and sister of Nahshon, as his wife, and she bore him Nadab and Abihu, Eleazar and Ithamar.
 
 ## Exodus 6:24
-The sons of Korah were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
+Korah's sons were Assir, Elkanah, and Abiasaph. These were the Korahite clans.
 
 ## Exodus 6:25
-Eleazar, son of Aaron, married one of the daughters of Putiel, and she bore him Phinehas. These were the heads of the Levite families, clan by clan.
+Eleazar, son of Aaron, took one of the daughters of Putiel as his wife, and she bore him Phinehas. These were the heads of the Levite families, clan by clan.
 
 ## Exodus 6:26
-It was this Aaron and Moses to whom the Lord said, “Bring the Israelites out of Egypt by their divisions.”
+It was this Aaron and Moses whom the Lord instructed to bring the Israelites out of Egypt by their divisions.
 
 ## Exodus 6:27
-They were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt—this same Moses and Aaron.
+These were the ones who spoke to Pharaoh king of Egypt about bringing the Israelites out of Egypt—this same Moses and Aaron.
 
 ## Exodus 6:28
 It came to pass on the day when the Lord spoke to Moses in Egypt,
 
 ## Exodus 6:29
-that the Lord spoke to Moses, saying, “I am the Lord; speak to Pharaoh king of Egypt all that I say to you.”
+that the Lord instructed Moses, saying, “I am the Lord; convey to Pharaoh king of Egypt all that I say to you.”
 
 ## Exodus 6:30
 But Moses said before the Lord, “Behold, I am unskilled in speech; how then will Pharaoh listen to me?”

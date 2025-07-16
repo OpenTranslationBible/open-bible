@@ -74,7 +74,7 @@ The God of the people of Israel chose our ancestors and made the people prosper 
 
 ## Acts 13:18
 
-For about forty years He endured their conduct in the wilderness.
+For about forty years, He cared for them in the wilderness.
 
 ## Acts 13:19
 
@@ -94,7 +94,7 @@ After removing him, He raised up David to be their king. God testified concernin
 
 ## Acts 13:23
 
-From this man’s descendants God has brought to Israel the Saviour Jesus, as He promised.
+From David's descendants, God brought forth Jesus as the Saviour for Israel, just as He had promised.
 
 ## Acts 13:24
 
@@ -112,7 +112,7 @@ As John was completing his work, he said: ‘Who do you suppose I am? I am not H
 
 ## Acts 13:27
 
-The people of Jerusalem and their rulers did not recognise Jesus, yet in condemning Him they fulfilled the words of the prophets that are read every Sabbath.
+The people of Jerusalem and their rulers did not recognise Jesus, yet in condemning Him, they fulfilled the words of the prophets that are read every Sabbath.
 
 ## Acts 13:28
 
@@ -155,11 +155,11 @@ So it is also stated elsewhere:
 
 ## Acts 13:36
 
-“Now when David had served God’s purpose in his own generation, he fell asleep; he was buried with his ancestors and his body decayed.
+“Now when David had served God’s purpose in his own generation, he passed away; he was buried with his ancestors and his body decayed.
 
 ## Acts 13:37
 
-But the one whom God raised from the dead did not see decay.
+But the one whom God raised from the dead did not experience decay.
 
 ## Acts 13:38
 
@@ -171,7 +171,7 @@ Through Him everyone who believes is set free from every sin, a justification yo
 
 ## Acts 13:40
 
-Take care that what the prophets have said does not happen to you:
+Be careful that what the prophets have said does not happen to you:
 
 ## Acts 13:41
 
@@ -185,7 +185,7 @@ Take care that what the prophets have said does not happen to you:
 
 ## Acts 13:42
 
-As Paul and Barnabas were leaving the synagogue, the people invited them to speak further about these things on the next Sabbath.
+As Paul and Barnabas were leaving the synagogue, the people invited them to speak more about these things on the following Sabbath.
 
 ## Acts 13:43
 
@@ -195,7 +195,7 @@ When the congregation was dismissed, many of the Jews and devout converts to Jud
 
 ## Acts 13:44
 
-On the next Sabbath almost the whole city gathered to hear the word of the Lord.
+On the following Sabbath, nearly the whole city gathered to hear the word of the Lord.
 
 ## Acts 13:45
 
@@ -218,7 +218,7 @@ When the Gentiles heard this, they were glad and honoured the word of the Lord; 
 
 ## Acts 13:49
 
-The word of the Lord spread through the whole region.
+The message of the Lord spread throughout the entire region.
 
 ## Acts 13:50
 

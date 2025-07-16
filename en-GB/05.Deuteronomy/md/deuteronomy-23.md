@@ -34,7 +34,7 @@ If there is a man among you who is unclean due to a nocturnal emission, he must 
 But when evening comes, he shall wash himself with water, and at sunset he may return to the camp.
 
 ## Deuteronomy 23:12
-Designate a place outside the camp where you can go to relieve yourself.
+Set aside a location outside the camp for personal needs.
 
 ## Deuteronomy 23:13
 Have a spade among your equipment, and when you relieve yourself, dig a hole and cover up your excrement.

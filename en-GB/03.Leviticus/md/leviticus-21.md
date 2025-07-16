@@ -64,10 +64,10 @@ or who is a hunchback or a dwarf, or who has a defect in his eye, or has festeri
 No descendant of Aaron the priest who has any defect is to come near to present the offerings by fire to the Lord. He has a defect; he must not come near to offer the food of his God.
 
 ## Leviticus 21:22
-He may eat the food of his God, both of the most holy and of the holy,
+He is permitted to partake of the food of his God, including both the most sacred and the holy portions,
 
 ## Leviticus 21:23
 but because of his defect, he must not approach the veil or come near the altar, lest he profane my sanctuaries. I am the Lord, who sanctifies them.’”
 
 ## Leviticus 21:24
-Thus Moses spoke to Aaron and to his sons and to all the Israelites.
+Moses then communicated these instructions to Aaron, his sons, and all the Israelites.

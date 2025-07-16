@@ -46,7 +46,7 @@ In times of prosperity be joyful, but in times of adversity consider: God has ma
 In my fleeting life, I have seen both: the righteous perishing in their righteousness, and the wicked living long in their wickedness.
 
 ## Ecclesiastes 7:16
-Do not be overly righteous, nor be overly wise— why should you destroy yourself?
+Do not be excessively righteous, nor be overly wise— why should you bring trouble upon yourself?
 
 ## Ecclesiastes 7:17
 Do not be overly wicked, and do not be foolish— why should you die before your time?
@@ -58,13 +58,13 @@ It is good to grasp one and not let go of the other. Whoever fears God will avoi
 Wisdom gives strength to a wise person more than ten rulers in a city.
 
 ## Ecclesiastes 7:20
-Indeed, there is no one on earth who is righteous, no one who does what is right and never sins.
+Truly, there is no one on earth who is perfectly righteous, no one who always does what is right and never sins.
 
 ## Ecclesiastes 7:21
-Do not pay attention to every word people say, or you may hear your servant cursing you—
+Do not pay close attention to every word people say, or you might hear your servant speaking ill of you—
 
 ## Ecclesiastes 7:22
-for you know in your heart that many times you yourself have cursed others.
+for you know in your heart that you have also spoken ill of others many times.
 
 ## Ecclesiastes 7:23
 I applied all this to wisdom and said, “I will be wise”— but it was beyond me.
@@ -76,13 +76,13 @@ What exists is distant and deep— who can discover it?
 So I turned my mind to understand, to explore and to search out wisdom and the scheme of things, and to understand the folly of wickedness and the madness of folly.
 
 ## Ecclesiastes 7:26
-I find more bitter than death the woman who is a snare, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will ensnare.
+I find more bitter than death the woman who ensnares, whose heart is a trap and whose hands are chains. The man who pleases God will escape her, but the sinner she will capture.
 
 ## Ecclesiastes 7:27
 “Behold,” says the Teacher, “this is what I have discovered: Adding one thing to another to find an explanation—
 
 ## Ecclesiastes 7:28
-while I was still searching but not finding— I found one upright man among a thousand, but not one upright woman among them all.
+while I was still searching but not finding— I found one upright man among a thousand, but not a single upright woman among them all.
 
 ## Ecclesiastes 7:29
 This only have I found: God created mankind upright, but they have sought out many schemes.”

@@ -129,7 +129,7 @@ saying,
 
 ## Acts 28:28
 
-“Therefore, let it be known to you that this salvation of God has been sent to the Gentiles, and they will listen!”
+“Therefore, understand that this salvation of God has been sent to the Gentiles, and they will listen.”
 
 ---
 

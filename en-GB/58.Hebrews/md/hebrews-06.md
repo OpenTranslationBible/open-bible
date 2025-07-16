@@ -43,7 +43,7 @@ When God made His promise to Abraham, since He could swear by no one greater, He
 saying, “Surely I will bless you and multiply you greatly.”
 
 ## Hebrews 6:15
-And so, after waiting patiently, Abraham obtained the promise.
+Thus, after Abraham had patiently endured, he received what was promised.
 
 ## Hebrews 6:16
 People swear by someone greater than themselves, and the oath serves as confirmation to end all disputes.

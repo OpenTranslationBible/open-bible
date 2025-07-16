@@ -58,7 +58,7 @@ It happened that when the priests carrying the ark of the covenant of the Lord c
 On the tenth day of the first month, the people came up from the Jordan and camped at Gilgal on the eastern border of Jericho.
 
 ## Joshua 4:20
-Joshua set up at Gilgal the twelve stones they had taken from the Jordan.
+At Gilgal, Joshua erected the twelve stones they had taken from the Jordan.
 
 ## Joshua 4:21
 He addressed the Israelites, “In the future, when your descendants ask their fathers, ‘What do these stones mean?’

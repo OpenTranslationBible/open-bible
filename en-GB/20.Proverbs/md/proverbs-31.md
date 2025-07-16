@@ -6,7 +6,7 @@ The sayings of King Lemuel, an inspired message his mother imparted to him:
 
 ## Proverbs 31:2
 
-What, my son? What, son of my womb? What, son of my vows?
+How shall I address you, my son? How shall I address you, child of my womb? How shall I address you, child of my vows?
 
 ## Proverbs 31:3
 
@@ -32,7 +32,7 @@ Let them drink and forget their poverty, and remember their trouble no more.
 
 ## Proverbs 31:8
 
-Speak up for those who cannot speak for themselves, for the rights of all who are destitute.
+Advocate for those who cannot speak for themselves, for the rights of all who are destitute.
 
 ## Proverbs 31:9
 
@@ -58,7 +58,7 @@ She seeks wool and flax, and works with eager hands.
 
 ## Proverbs 31:14
 
-She is like the merchant ships, bringing her food from afar.
+She is like a fleet of merchant ships, bringing her food from afar.
 
 ## Proverbs 31:15
 
@@ -66,7 +66,7 @@ She rises while it is still night, and provides food for her household, and port
 
 ## Proverbs 31:16
 
-She considers a field and buys it; from her earnings she plants a vineyard.
+She evaluates a field and purchases it; with her earnings she plants a vineyard.
 
 ## Proverbs 31:17
 
@@ -82,7 +82,7 @@ She lays her hands to the distaff, and her hands hold the spindle.
 
 ## Proverbs 31:20
 
-She opens her arms to the poor, and extends her hands to the needy.
+She reaches out to the poor and extends her hands to the needy.
 
 ## Proverbs 31:21
 
@@ -98,7 +98,7 @@ Her husband is respected at the city gates, where he takes his seat among the el
 
 ## Proverbs 31:24
 
-She makes linen garments and sells them, and supplies the merchants with sashes.
+She crafts linen garments and sells them, and provides the merchants with sashes.
 
 ## Proverbs 31:25
 
@@ -118,11 +118,11 @@ Her children arise and call her blessed; her husband also, and he praises her:
 
 ## Proverbs 31:29
 
-“Many women do noble things, but you surpass them all.”
+“Many women do noble things, but you excel them all.”
 
 ## Proverbs 31:30
 
-Charm is deceptive, and beauty is fleeting; but a woman who fears the Lord is to be praised.
+Charm can be misleading, and beauty does not last; but a woman who reveres the Lord is to be praised.
 
 ## Proverbs 31:31
 

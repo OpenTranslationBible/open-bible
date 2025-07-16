@@ -22,7 +22,7 @@ I will attach tendons to you, grow flesh upon you, cover you with skin, and put 
 So I prophesied as I was commanded. As I was prophesying, there was a sound, a rattling, and the bones came together, bone to its bone.
 
 ## Ezekiel 37:8
-I looked, and tendons and flesh appeared on them, and skin covered them; but there was no breath in them.
+I observed that tendons and flesh formed on them, and skin covered them; however, there was still no breath in them.
 
 ## Ezekiel 37:9
 Then He said to me, “Prophesy to the breath, prophesy, son of man, and say to it, ‘This is what the Sovereign Lord says: Come from the four winds, breath, and breathe into these slain, that they may live.’”
@@ -37,7 +37,7 @@ Then He said to me, “Son of man, these bones represent the whole house of Isra
 Therefore prophesy and say to them: ‘This is what the Sovereign Lord says: My people, I am going to open your graves and bring you up from them; I will return you to the land of Israel.
 
 ## Ezekiel 37:13
-Then you, my people, will know that I am the Lord, when I open your graves and bring you up from them.
+Then you will recognize that I am the Lord, when I open your graves and bring you up from them.
 
 ## Ezekiel 37:14
 I will put my Spirit within you, and you shall live, and I will settle you in your own land. Then you will know that I, the Lord, have spoken and have done it,’ declares the Lord.”
@@ -70,7 +70,7 @@ I will make them one nation in the land, on the mountains of Israel; and there w
 They will no longer defile themselves with their idols, or with their detestable things, or with any of their sins. I will save them from all their backslidings in which they have sinned, and will cleanse them. They will be My people, and I will be their God.
 
 ## Ezekiel 37:24
-“My servant David will be king over them, and they will all have one shepherd. They will follow My laws and be careful to keep My decrees.
+“My servant David will be king over them, and they will all have one shepherd. They will follow My laws and be diligent in keeping My decrees.
 
 ## Ezekiel 37:25
 They will dwell in the land I gave to My servant Jacob, where your ancestors lived. They, their children, and their children’s children will live there forever, and My servant David will be their prince forever.
@@ -82,4 +82,4 @@ I will make a covenant of peace with them; it will be an everlasting covenant. I
 My dwelling place will be with them; I will be their God, and they will be My people.
 
 ## Ezekiel 37:28
-Then the nations will know that I, the Lord, make Israel holy, when My sanctuary is among them forever.’”
+Then the nations will understand that I, the Lord, make Israel holy, when My sanctuary is among them forever.’”
