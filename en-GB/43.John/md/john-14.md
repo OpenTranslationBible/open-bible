@@ -18,7 +18,7 @@ And you know the way to where I am going.”
 
 ## John 14:5
 
-Thomas said to him, “Lord, we do not know where you are going, so how can we know the way?”
+Thomas said to him, “Lord, we do not understand where you are heading, so how can we know the way?”
 
 ## John 14:6
 
@@ -52,7 +52,7 @@ Truly, truly I say to you, whoever believes in me will do the works I have been 
 
 ## John 14:13
 
-And whatever you request in my name, I will do, so that the Father may be honored in the Son.
+And whatever you request in my name, I will do, so that the Father may be honoured in the Son.
 
 ## John 14:14
 
@@ -70,7 +70,7 @@ And I will ask the Father, and he will provide you with another Helper, to be wi
 
 ## John 14:17
 
-the Spirit of truth. The world cannot accept him, because it neither sees him nor knows him. But you know him, for he lives with you and will be in you.
+the Spirit of truth. The world cannot accept him, because it neither perceives him nor recognises him. But you know him, for he lives with you and will be in you.
 
 ## John 14:18
 
@@ -118,7 +118,7 @@ Peace I leave with you; my peace I give to you. I do not give to you as the worl
 
 ## John 14:28
 
-You heard me say, ‘I am going away and I am coming back to you.’ If you loved me, you would be glad that I am going to the Father, for the Father is greater than I.
+You heard me say, ‘I am going away and I am returning to you.’ If you loved me, you would rejoice that I am going to the Father, for the Father is greater than I.
 
 ## John 14:29
 

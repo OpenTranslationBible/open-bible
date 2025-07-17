@@ -112,7 +112,7 @@ Standing near the cross of Jesus were His mother, His mother’s sister, Mary th
 
 ## John 19:26
 
-When Jesus saw His mother and the disciple whom He loved standing nearby, He said to His mother, “Woman, here is your son!”
+When Jesus noticed His mother and the disciple whom He loved standing nearby, He said to His mother, “Dear woman, here is your son!”
 
 ## John 19:27
 

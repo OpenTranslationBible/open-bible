@@ -146,7 +146,7 @@ Jesus took him aside, away from the crowd, and put His fingers into the man’s 
 
 ## Mark 7:34
 
-He looked up to heaven and with a deep sigh said to him, “Ephphatha!” (which means “Be opened!”).
+He looked upward, sighed deeply, and said to him, “Ephphatha!” (which means “Be opened!”).
 
 ## Mark 7:35
 

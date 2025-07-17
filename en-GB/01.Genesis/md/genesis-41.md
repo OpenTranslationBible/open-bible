@@ -91,7 +91,7 @@ Seven years of great abundance are coming throughout the land of Egypt,
 but seven years of famine will follow them. Then all the abundance in Egypt will be forgotten, and the famine will devastate the land.
 
 ## Genesis 41:31
-The abundance in the land will not be remembered because the famine that follows it will be so severe.
+The prosperity in the land will fade from memory because the famine that follows it will be extremely severe.
 
 ## Genesis 41:32
 The reason the dream was given to Pharaoh in two forms is that the matter has been firmly decided by God, and He will carry it out soon.
@@ -109,40 +109,40 @@ They should collect all the food of these good years that are coming and store u
 This food should be held in reserve for the country, to be used during the seven years of famine that will come upon Egypt, so that the country may not be devastated by the famine.”
 
 ## Genesis 41:37
-The plan seemed favorable to Pharaoh and to all his officials.
+The plan seemed favourable to Pharaoh and to all his officials.
 
 ## Genesis 41:38
-So Pharaoh asked them, “Can we find anyone like this man, one in whom is the spirit of God?”
+So Pharaoh asked them, “Can we find anyone like this man, one who possesses the spirit of God?”
 
 ## Genesis 41:39
-Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as discerning and wise as you.
+Then Pharaoh said to Joseph, “Since God has made all this known to you, there is no one as insightful and wise as you.
 
 ## Genesis 41:40
-You shall be in charge of my palace, and all my people are to submit to your orders. Only with respect to the throne will I be greater than you.”
+You shall oversee my palace, and all my people will follow your commands. Only in regard to the throne will I be greater than you.”
 
 ## Genesis 41:41
 So Pharaoh said to Joseph, “I hereby appoint you over the whole land of Egypt.”
 
 ## Genesis 41:42
-Then Pharaoh took his signet ring from his finger and put it on Joseph’s finger. He dressed him in robes of fine linen and put a gold chain around his neck.
+Then Pharaoh took his signet ring from his finger and placed it on Joseph’s finger. He dressed him in robes of fine linen and adorned him with a gold chain around his neck.
 
 ## Genesis 41:43
 He had him ride in his second chariot, and people shouted before him, “Bow the knee!” Thus he put him in charge of the whole land of Egypt.
 
 ## Genesis 41:44
-Then Pharaoh said to Joseph, “I am Pharaoh, but without your word no one will lift hand or foot in all Egypt.”
+Then Pharaoh said to Joseph, “I am Pharaoh, but without your word, no one will lift hand or foot in all Egypt.”
 
 ## Genesis 41:45
-Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath, daughter of Potiphera, priest of On, to be his wife. And Joseph went throughout the land of Egypt.
+Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath, daughter of Potiphera, priest of On, to be his wife. And Joseph journeyed throughout the land of Egypt.
 
 ## Genesis 41:46
-Joseph was thirty years old when he entered the service of Pharaoh king of Egypt. And Joseph went out from Pharaoh’s presence and traveled throughout Egypt.
+Joseph was thirty years old when he began serving Pharaoh, the king of Egypt. And Joseph went out from Pharaoh’s presence and travelled throughout Egypt.
 
 ## Genesis 41:47
 During the seven years of abundance, the land produced plentifully.
 
 ## Genesis 41:48
-Joseph collected all the food produced in those seven years of abundance in Egypt and stored it in the cities. In each city, he put the food grown in the fields surrounding it.
+Joseph gathered all the food produced in those seven years of abundance in Egypt and stored it in the cities. In each city, he placed the food grown in the fields surrounding it.
 
 ## Genesis 41:49
 Joseph stored up huge quantities of grain, like the sand of the sea; it was so much that he stopped measuring it because it was beyond measure.
@@ -151,16 +151,16 @@ Joseph stored up huge quantities of grain, like the sand of the sea; it was so m
 Before the years of famine came, two sons were born to Joseph by Asenath, daughter of Potiphera, priest of On.
 
 ## Genesis 41:51
-Joseph named his firstborn Manasseh and said, “It is because God has made me forget all my trouble and all my father’s household.”
+Joseph named his firstborn Manasseh and said, “It is because God has made me forget all my hardship and all my father’s household.”
 
 ## Genesis 41:52
-The second son he named Ephraim and said, “It is because God has made me fruitful in the land of my suffering.”
+The second son he named Ephraim and said, “It is because God has made me fruitful in the land of my affliction.”
 
 ## Genesis 41:53
-The seven years of abundance in Egypt came to an end,
+The seven years of abundance in Egypt concluded,
 
 ## Genesis 41:54
-and the seven years of famine began, just as Joseph had said. There was famine in all the other lands, but in the whole land of Egypt, there was food.
+and the seven years of famine began, just as Joseph had foretold. There was famine in all the other lands, but in the entire land of Egypt, there was food.
 
 ## Genesis 41:55
 When all Egypt began to feel the famine, the people cried to Pharaoh for food. Then Pharaoh told all the Egyptians, “Go to Joseph and do what he tells you.”

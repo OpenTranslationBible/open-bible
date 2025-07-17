@@ -100,19 +100,19 @@ When one of them dies and falls on something, that article, whatever its use, wi
 If one of them falls into a clay pot, everything in it will be unclean, and the pot must be broken.
 
 ## Leviticus 11:34
-Any food you are allowed to eat that has come into contact with water from any such pot is unclean, and any liquid that is drunk from such a pot is unclean.
+Any food you are permitted to eat that has come into contact with water from any such pot is impure, and any liquid that is drunk from such a pot is impure.
 
 ## Leviticus 11:35
-Anything that one of their carcasses falls on becomes unclean; an oven or cooking pot must be broken up. They are unclean, and you are to regard them as unclean.
+Anything that one of their carcasses falls on becomes impure; an oven or cooking pot must be broken up. They are impure, and you are to regard them as impure.
 
 ## Leviticus 11:36
-A spring, however, or a cistern for collecting water remains clean, but anyone who touches one of these carcasses is unclean.
+A spring, however, or a cistern for collecting water remains pure, but anyone who touches one of these carcasses is impure.
 
 ## Leviticus 11:37
-If a carcass falls on any seeds that are to be planted, they remain clean.
+If a carcass falls on any seeds that are to be planted, they remain pure.
 
 ## Leviticus 11:38
-But if water has been put on the seed and a carcass falls on it, it becomes unclean for you.
+But if water has been put on the seed and a carcass falls on it, it becomes impure for you.
 
 ## Leviticus 11:39
 “‘If an animal that you are allowed to eat dies, anyone who touches its carcass will be unclean until evening.
@@ -133,10 +133,10 @@ Do not make yourselves impure by any of these creatures. Do not make yourselves 
 I am the Lord your God; set yourselves apart and be holy, because I am holy. Do not make yourselves unclean by any creature that moves along the ground.
 
 ## Leviticus 11:45
-I am the Lord, who brought you up out of Egypt to be your God; therefore be holy, because I am holy.
+I am the Lord, who brought you out of Egypt to be your God; therefore be holy, because I am holy.
 
 ## Leviticus 11:46
 “‘These are the regulations concerning animals, birds, every living thing that moves about in the water, and every creature that moves along the ground.
 
 ## Leviticus 11:47
-You must distinguish between the unclean and the clean, between living creatures that may be eaten and those that may not be eaten.’”
+You must distinguish between the impure and the pure, between living creatures that may be eaten and those that may not be eaten.’”

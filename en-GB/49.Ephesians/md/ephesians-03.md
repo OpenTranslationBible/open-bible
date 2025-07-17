@@ -61,4 +61,4 @@ and to know this love that surpasses knowledge—that you may be filled with all
 Now to Him who is able to accomplish far more than all we ask or imagine, according to His power that is at work within us,
 
 ## Ephesians 3:21
-to Him be glory in the church and in Christ Jesus throughout all generations, forever and ever. Amen.
+to Him be honour in the church and in Christ Jesus across all generations, for ever and ever. Amen.

@@ -62,7 +62,7 @@ Be on guard against him yourself too, for he vigorously opposed our teaching.
 
 ## 2 Timothy 4:16
 
-At my first defense no one supported me, but all deserted me; may it not be counted against them.
+At my first defence no one supported me, but all deserted me; may it not be counted against them.
 
 ## 2 Timothy 4:17
 

@@ -76,7 +76,7 @@ Then Zedekiah said to Jeremiah, “Do not let anyone know about this conversatio
 If the officials hear that I talked with you and come to you and say, ‘Tell us what you said to the king and what the king said to you; do not hide it from us or we will kill you,’
 
 ## Jeremiah 38:26
-then tell them, ‘I was pleading with the king not to send me back to Jonathan’s house to die there.’”
+then say to them, ‘I was requesting the king not to send me back to Jonathan’s house to die there.’”
 
 ## Jeremiah 38:27
 All the officials did come to Jeremiah and questioned him, and he reported to them in accordance with all these words which the king had commanded. So they stopped speaking with him, for no one had overheard the conversation.

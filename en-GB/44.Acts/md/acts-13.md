@@ -112,15 +112,15 @@ As John was completing his work, he said: ‘Who do you suppose I am? I am not H
 
 ## Acts 13:27
 
-The people of Jerusalem and their rulers did not recognise Jesus, yet in condemning Him, they fulfilled the words of the prophets that are read every Sabbath.
+The people of Jerusalem and their rulers did not recognise Jesus, yet in condemning Him, they brought to fulfilment the words of the prophets that are read every Sabbath.
 
 ## Acts 13:28
 
-Though they found no grounds for a death sentence, they asked Pilate to have Him executed.
+Though they found no grounds for a death sentence, they requested Pilate to have Him executed.
 
 ## Acts 13:29
 
-When they had carried out all that was written about Him, they took Him down from the cross and laid Him in a tomb.
+When they had completed all that was written about Him, they took Him down from the cross and laid Him in a tomb.
 
 ## Acts 13:30
 
@@ -199,7 +199,7 @@ On the following Sabbath, nearly the whole city gathered to hear the word of the
 
 ## Acts 13:45
 
-When the Jews saw the crowds, they were filled with jealousy. They began to contradict what Paul was saying and heaped abuse on him.
+When the Jewish leaders saw the crowds, they were filled with jealousy. They began to contradict what Paul was saying and spoke abusively against him.
 
 ## Acts 13:46
 
@@ -214,7 +214,7 @@ For this is what the Lord has commanded us:
 
 ## Acts 13:48
 
-When the Gentiles heard this, they were glad and honoured the word of the Lord; and all who were appointed for eternal life believed.
+When the Gentiles heard this, they were glad and honoured the word of the Lord; and all who were destined for eternal life believed.
 
 ## Acts 13:49
 

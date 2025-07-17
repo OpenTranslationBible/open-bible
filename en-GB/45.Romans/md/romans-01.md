@@ -88,7 +88,7 @@ For since the creation of the world, God’s invisible qualities—his eternal p
 
 ## Romans 1:21
 
-For although they knew God, they neither honored him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.
+For although they knew God, they neither honoured him as God nor gave thanks to him, but their thinking became futile and their foolish hearts were darkened.
 
 ## Romans 1:22
 
@@ -126,11 +126,11 @@ Furthermore, just as they did not think it worthwhile to retain the knowledge of
 
 ## Romans 1:29
 
-They have become filled with every kind of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips,
+They have become filled with all manner of wickedness, evil, greed, and depravity. They are full of envy, murder, strife, deceit, and malice. They are gossips,
 
 ## Romans 1:30
 
-slanderers, God-haters, insolent, arrogant, and boastful; they invent ways of doing evil; they disobey their parents;
+slanderers, those who despise God, insolent, arrogant, and boastful; they invent ways of doing evil; they disobey their parents;
 
 ## Romans 1:31
 
@@ -138,4 +138,4 @@ they lack understanding, fidelity, love, and mercy.
 
 ## Romans 1:32
 
-Although they know God’s righteous decree that those who do such things deserve death, they not only continue to do these very things but also approve of those who practice them.
+Although they are aware of God’s righteous decree that those who engage in such actions deserve death, they not only continue to do these very things but also approve of those who practice them.

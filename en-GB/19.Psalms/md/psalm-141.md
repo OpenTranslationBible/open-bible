@@ -52,7 +52,7 @@
 ## Psalm 141:8
 
 > For my eyes are toward You, God the Lord;  
-> In You I take refuge, do not leave my soul defenseless.
+> In You I take refuge, do not leave my soul defenceless.
 
 ## Psalm 141:9
 

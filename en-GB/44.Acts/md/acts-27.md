@@ -96,7 +96,7 @@ But now I encourage you to take heart, because not one of you will be lost; only
 
 ## Acts 27:23
 
-Last night an angel of the God to whom I belong and whom I serve appeared to me
+An angel of the God to whom I belong and whom I serve came to me during the night
 
 ## Acts 27:24
 
@@ -144,15 +144,15 @@ Just before dawn, Paul encouraged them all to eat. “For the last fourteen days
 
 ## Acts 27:34
 
-Now I urge you to take some food. You need it to survive. Not one of you will lose a single hair from his head.”
+Now I urge you to take some food. It is necessary for your survival. Not one of you will lose even a single hair from your head.”
 
 ## Acts 27:35
 
-After he said this, he took some bread and gave thanks to God in front of them all. Then he broke it and began to eat.
+After saying this, he took some bread and offered thanks to God in front of them all. Then he broke it and began to eat.
 
 ## Acts 27:36
 
-They were all encouraged and took some food themselves.
+They all felt encouraged and also took some food.
 
 ## Acts 27:37
 
@@ -174,7 +174,7 @@ Casting off the anchors, they left them in the sea and at the same time untied t
 
 ## Acts 27:41
 
-But the ship struck a sandbar and ran aground. The bow stuck fast and would not move, and the stern was broken to pieces by the pounding of the surf.
+However, the ship struck a sandbar and became grounded. The bow stuck fast and would not move, and the stern was shattered by the pounding of the surf.
 
 ## Acts 27:42
 

@@ -152,7 +152,7 @@ After they had crucified Him, they divided His clothes by casting lots.
 
 ## Matthew 27:36
 
-And sitting down, they kept watch over Him there.
+And sitting down, they kept watch over Him.
 
 ## Matthew 27:37
 
@@ -162,15 +162,15 @@ Above His head, they placed the written charge against Him: THIS IS JESUS, THE K
 
 ## Matthew 27:38
 
-Two rebels were crucified with Him, one on His right and one on His left.
+Two criminals were crucified with Him, one on His right and one on His left.
 
 ## Matthew 27:39
 
-Those who passed by hurled insults at Him, shaking their heads
+Those who passed by insulted Him, shaking their heads
 
 ## Matthew 27:40
 
-and saying, “You who are going to destroy the temple and rebuild it in three days, save yourself! If you are the Son of God, come down from the cross!”
+and saying, “You who claim to destroy the temple and rebuild it in three days, save Yourself! If You are the Son of God, come down from the cross!”
 
 ## Matthew 27:41
 
@@ -182,11 +182,11 @@ In the same way, the chief priests, along with the scribes and elders, mocked Hi
 
 ## Matthew 27:43
 
-He trusts in God; let God rescue Him now if He delights in Him, for He said, ‘I am the Son of God.’”
+He trusts in God; let God rescue Him now if He takes pleasure in Him, for He said, ‘I am the Son of God.’”
 
 ## Matthew 27:44
 
-In the same way, the rebels who were crucified with Him also insulted Him.
+In the same way, the criminals who were crucified with Him also insulted Him.
 
 ---
 
@@ -196,7 +196,7 @@ From noon until three in the afternoon, darkness covered all the land.
 
 ## Matthew 27:46
 
-About three in the afternoon, Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”
+Around three in the afternoon, Jesus cried out in a loud voice, “Eli, Eli, lema sabachthani?” which means, “My God, my God, why have you forsaken me?”
 
 ## Matthew 27:47
 
@@ -262,7 +262,7 @@ and placed it in his own new tomb that he had cut out of the rock. He rolled a l
 
 ## Matthew 27:61
 
-Mary Magdalene and the other Mary were sitting there opposite the tomb.
+Mary Magdalene and the other Mary were sitting there across from the tomb.
 
 ---
 

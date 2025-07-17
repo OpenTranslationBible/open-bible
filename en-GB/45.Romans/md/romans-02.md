@@ -48,7 +48,7 @@ For God shows no partiality.
 
 ## Romans 2:12
 
-All who have sinned without the Law will also perish without the Law, and all who have sinned under the Law will be judged by the Law.
+Everyone who has sinned without the Law will also face destruction without the Law, and everyone who has sinned under the Law will be judged by the Law.
 
 ## Romans 2:13
 
@@ -112,7 +112,7 @@ So if those who are not circumcised keep the Law's requirements, will they not b
 
 ## Romans 2:27
 
-The one who is not circumcised physically and yet obeys the Law will condemn you who, even though you have the written code and circumcision, are a lawbreaker.
+The person who is not physically circumcised and yet obeys the Law will judge you who, despite having the written code and circumcision, are a lawbreaker.
 
 ## Romans 2:28
 

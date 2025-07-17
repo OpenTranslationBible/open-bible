@@ -1,215 +1,175 @@
 {
-    "book": "2 Chronicles",
-    "chapter": 10,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Then Rehoboam went to Shechem, for all Israel had come to Shechem to make him king."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "When Jeroboam the son of Nebat heard about it (for he was in Egypt where he had fled from the presence of King Solomon), Jeroboam returned from Egypt."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "So they sent word and summoned him. When Jeroboam and all Israel came, they spoke to Rehoboam, saying,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "“Your father made our yoke hard; now therefore, lighten the hard labor imposed by your father and his heavy yoke which he put on us, and we will serve you.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "But he said to them, “Return to me again in three days.” So the people departed."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Then King Rehoboam consulted with the elders who had served his father Solomon while he was still alive, saying, “How do you advise me to answer this people?”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "They spoke to him, saying, “If you will be kind to this people and please them and speak pleasant words to them, then they will be your servants always.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "But he abandoned the advice of the elders which they had given him, and consulted with the young men who grew up with him and served him."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "So he said to them, “What advice do you give, that we should answer this people who have spoken to me, saying, ‘Lighten the yoke which your father put on us’?”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Then the young men who grew up with him spoke to him, saying, “This is what you should say to the people who spoke to you, saying, ‘Your father made our yoke heavy, but you make it lighter for us!’ You shall say to them, ‘My little finger is thicker than my father’s waist!"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Now then, my father loaded you with a heavy yoke, but I will add to your yoke; my father disciplined you with whips, but I will discipline you with scorpions.’”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "So Jeroboam and all the people came to Rehoboam on the third day, just as the king had directed, saying, “Return to me on the third day.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "And the king answered them harshly, and King Rehoboam abandoned the advice of the elders."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "He spoke to them according to the advice of the young men, saying, “My father made your yoke heavy, but I will add to it; my father disciplined you with whips, but I will discipline you with scorpions.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "So the king did not listen to the people, because it was a turn of events from God so that the Lord would establish His word, which He had spoken through Ahijah the Shilonite to Jeroboam the son of Nebat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "When all Israel saw that the king had not listened to them, the people answered the king, saying,",
-                "> “What share do we have in David?",
-                "> We have no inheritance in the son of Jesse.",
-                "> Every man to your tents, Israel!",
-                "> Now look after your own house, David!”",
-                "So all Israel departed to their tents."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "But as for the sons of Israel who lived in the cities of Judah, Rehoboam reigned over them."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Then King Rehoboam sent Hadoram, who was in charge of the forced labor, and the sons of Israel stoned him to death. And King Rehoboam hurried to mount his chariot to flee to Jerusalem."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "So Israel has been in rebellion against the house of David to this day."
-            ]
-        }
-    ]
+  "book": "2 Chronicles",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Then Rehoboam went to Shechem, for all Israel had come to Shechem to make him king."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "When Jeroboam the son of Nebat heard about it (for he was in Egypt where he had fled from the presence of King Solomon), Jeroboam returned from Egypt."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "So they sent word and summoned him. When Jeroboam and all Israel came, they spoke to Rehoboam, saying,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "“Your father made our yoke hard; now therefore, lighten the hard labour imposed by your father and his heavy yoke which he put on us, and we will serve you.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": ["But he said to them, “Return to me again in three days.” So the people departed."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Then King Rehoboam consulted with the elders who had served his father Solomon while he was still alive, saying, “How do you advise me to answer this people?”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "They spoke to him, saying, “If you will be kind to this people and please them and speak pleasant words to them, then they will be your servants always.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "But he abandoned the advice of the elders which they had given him, and consulted with the young men who grew up with him and served him."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "So he said to them, “What advice do you give, that we should answer this people who have spoken to me, saying, ‘Lighten the yoke which your father put on us’?”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Then the young men who grew up with him spoke to him, saying, “This is what you should say to the people who spoke to you, saying, ‘Your father made our yoke heavy, but you make it lighter for us!’ You shall say to them, ‘My little finger is thicker than my father’s waist!"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Now then, my father loaded you with a heavy yoke, but I will add to your yoke; my father disciplined you with whips, but I will discipline you with scorpions.’”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "So Jeroboam and all the people came to Rehoboam on the third day, just as the king had directed, saying, “Return to me on the third day.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "And the king answered them harshly, and King Rehoboam abandoned the advice of the elders."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "He spoke to them according to the advice of the young men, saying, “My father made your yoke heavy, but I will add to it; my father disciplined you with whips, but I will discipline you with scorpions.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "So the king did not listen to the people, because it was a turn of events from God so that the Lord would establish His word, which He had spoken through Ahijah the Shilonite to Jeroboam the son of Nebat."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "When all Israel saw that the king had not listened to them, the people answered the king, saying,",
+        "> “What share do we have in David?",
+        "> We have no inheritance in the son of Jesse.",
+        "> Every man to your tents, Israel!",
+        "> Now look after your own house, David!”",
+        "So all Israel departed to their tents."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "But as for the sons of Israel who lived in the cities of Judah, Rehoboam reigned over them."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Then King Rehoboam sent Hadoram, who was in charge of the forced labour, and the sons of Israel stoned him to death. And King Rehoboam hurried to mount his chariot to flee to Jerusalem."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": ["So Israel has been in rebellion against the house of David to this day."]
+    }
+  ]
 }

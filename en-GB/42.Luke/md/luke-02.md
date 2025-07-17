@@ -145,7 +145,7 @@ Simeon took him in his arms and praised God, saying,
 
 ## Luke 2:33
 
-The child’s father and mother were amazed at what was said about him.
+The child's parents were in awe of what was spoken about him.
 
 ## Luke 2:34
 
@@ -207,7 +207,7 @@ After three days, they discovered him in the temple courts, sitting among the te
 
 ## Luke 2:47
 
-Everyone who heard him was astonished at his understanding and his answers.
+All who heard him were impressed by his understanding and his answers.
 
 ## Luke 2:48
 

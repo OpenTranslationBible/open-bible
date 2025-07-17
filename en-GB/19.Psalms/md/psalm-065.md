@@ -15,7 +15,7 @@
 ## Psalm 65:3
 
 > Wrongdoings prevail against me;  
-> As for our offenses, You forgive them.
+> As for our offences, You forgive them.
 
 ## Psalm 65:4
 

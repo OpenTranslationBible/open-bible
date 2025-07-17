@@ -98,7 +98,7 @@ Among the Levites: Jozabad, Shimei, Kelaiah (also known as Kelita), Pethahiah, J
 
 ## Ezra 10:24
 
-From the musicians: Eliashib. From the gatekeepers: Shallum, Telem, and Uri.
+Eliashib was among those who served in the musical roles. Shallum, Telem, and Uri were among those who served as gatekeepers.
 
 ## Ezra 10:25
 

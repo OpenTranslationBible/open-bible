@@ -180,7 +180,7 @@ The days will come upon you when your enemies will build a barricade against you
 
 ## Luke 19:44
 
-They will bring you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognize the time of God’s visitation to you.”
+They will bring you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not Recognise the time of God’s visitation to you.”
 
 ---
 

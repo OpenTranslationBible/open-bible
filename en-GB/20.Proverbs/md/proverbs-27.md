@@ -6,7 +6,7 @@ Do not boast about tomorrow, for you do not know what a day may bring forth.
 
 ## Proverbs 27:2
 
-Let someone else praise you, and not your own mouth; an outsider, and not your own lips.
+Allow others to praise you, and not your own mouth; let it be a stranger, and not your own lips.
 
 ## Proverbs 27:3
 
@@ -18,7 +18,7 @@ Anger is cruel and wrath is overwhelming, but who can stand against jealousy?
 
 ## Proverbs 27:5
 
-Open rebuke is better than hidden love.
+An open reprimand is better than love that is concealed.
 
 ## Proverbs 27:6
 

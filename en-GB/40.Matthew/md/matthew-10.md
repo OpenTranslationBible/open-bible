@@ -168,11 +168,11 @@ For I have come to
 
 ## Matthew 10:37
 
-“Anyone who loves their father or mother more than me is not worthy of me; anyone who loves their son or daughter more than me is not worthy of me.
+“If anyone loves their father or mother more than me, they are not deserving of me; if anyone loves their son or daughter more than me, they are not deserving of me.
 
 ## Matthew 10:38
 
-Whoever does not take up their cross and follow me is not worthy of me.
+Whoever does not take up their cross and follow me is not fit for me.
 
 ## Matthew 10:39
 
@@ -190,4 +190,4 @@ Whoever receives a prophet because they are a prophet will receive a prophet’s
 
 ## Matthew 10:42
 
-And if anyone gives even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not lose their reward.”
+And if anyone offers even a cup of cold water to one of these little ones who is my disciple, truly I tell you, that person will certainly not miss their reward.”

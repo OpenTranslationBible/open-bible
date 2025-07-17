@@ -19,10 +19,10 @@ Your threshing will extend until grape harvest, and the grape harvest will last 
 I will grant peace in the land so that you may lie down with no one to make you afraid. I will also remove harmful beasts from the land, and no sword will pass through your territory.
 
 ## Leviticus 26:7
-You will chase your enemies, and they will fall before you by the sword.
+You will pursue your enemies, and they will be defeated before you by the sword.
 
 ## Leviticus 26:8
-Five of you will chase a hundred, and a hundred of you will put ten thousand to flight, and your enemies will fall before you by the sword.
+Five of you will chase a hundred, and a hundred of you will put ten thousand to flight, and your enemies will be overcome before you by the sword.
 
 ## Leviticus 26:9
 I will turn towards you and make you fruitful and multiply you, and I will uphold My covenant with you.

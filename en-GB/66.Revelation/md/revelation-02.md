@@ -49,7 +49,7 @@ Similarly, you also have those who adhere to the teaching of the Nicolaitans.
 Repent therefore! Otherwise, I will come to you quickly and fight against them with the sword of my mouth.
 
 ## Revelation 2:17
-Let those who have ears listen to what the Spirit says to the churches. To the one who overcomes, I will give some of the hidden manna. I will also give that person a white stone with a new name written on it, known only to the one who receives it.
+Let those who have ears listen to what the Spirit says to the churches. To the one who overcomes, I will give some of the hidden manna. I will also provide that person with a white stone with a new name written on it, known only to the one who receives it.
 
 ## Revelation 2:18
 “To the angel of the church in Thyatira write: These are the words of the Son of God, whose eyes are like blazing fire and whose feet are like polished bronze.
@@ -73,7 +73,7 @@ I will bring judgment upon her children. Then all the churches will know that I 
 Now I say to the rest of you in Thyatira, to you who do not hold to her teaching and have not learned what some call Satan’s deep secrets, I will not impose any other burden on you,
 
 ## Revelation 2:25
-except to hold on to what you have until I come.
+but continue to hold on to what you have until I come.
 
 ## Revelation 2:26
 To the one who overcomes and does my will to the end, I will give authority over the nations—
@@ -82,7 +82,7 @@ To the one who overcomes and does my will to the end, I will give authority over
 that one ‘will rule them with a rod of iron and will dash them to pieces like pottery’—just as I have received authority from my Father.
 
 ## Revelation 2:28
-I will also give that one the morning star.
+I will also bestow upon that person the morning star.
 
 ## Revelation 2:29
 Let those who have ears listen to what the Spirit says to the churches.

@@ -40,7 +40,7 @@ and Rechab and his brother Baanah escaped.
 
 Now when they came into the house, as he was lying on his bed in his bedroom,  
 they struck and killed him and beheaded him.  
-And they took his head and traveled by way of the Arabah all night.
+And they took his head and travelled by way of the Arabah all night.
 
 ## 2 Samuel 4:8
 

@@ -68,7 +68,7 @@ All the prophets were prophesying this as well, saying, “Go up to Ramoth-gilea
 
 ## 2 Chronicles 18:12
 
-Then the messenger who went to summon Micaiah spoke to him, saying, “Behold, the words of the prophets are unanimously favorable to the king. So please let your word be like one of them, and speak favorably.”
+Then the messenger who went to summon Micaiah spoke to him, saying, “Behold, the words of the prophets are unanimously favourable to the king. So please let your word be like one of them, and speak favourably.”
 
 ---
 

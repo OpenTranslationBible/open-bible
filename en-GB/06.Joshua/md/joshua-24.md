@@ -96,7 +96,7 @@ But the people said to Joshua, “No! We will serve the Lord.”
 
 ## Joshua 24:22
 
-Then Joshua said, “You are witnesses against yourselves that you have chosen to serve the Lord.” “Yes, we are witnesses,” they replied.
+Then Joshua said, “You acknowledge that you are witnesses to your own decision to serve the Lord.” “Yes, we are witnesses,” they replied.
 
 ## Joshua 24:23
 

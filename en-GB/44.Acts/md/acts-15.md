@@ -144,7 +144,7 @@ Judas and Silas, who were also prophets, said much to encourage and strengthen t
 
 ## Acts 15:33
 
-After spending some time there, they were sent off by the believers with the blessing of peace to return to those who had sent them.
+After they had spent some time there, the believers sent them off with a blessing of peace to return to those who had sent them.
 
 ## Acts 15:34
 

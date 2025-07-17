@@ -35,7 +35,7 @@ And he proclaimed, “After me comes one more powerful than I, whose sandal stra
 
 ## Mark 1:8
 
-I baptise you with water, but he will baptise you with the Holy Spirit.”
+I baptise you with water, but he will immerse you in the Holy Spirit.”
 
 ---
 
@@ -69,7 +69,7 @@ After John was arrested, Jesus went into Galilee, proclaiming the gospel of God.
 
 ## Mark 1:15
 
-“The time is fulfilled,” he said. “The kingdom of God has come near. Repent and believe in the gospel!”
+“The time is complete,” he said. “The kingdom of God is near. Turn and believe in the gospel!”
 
 ---
 
@@ -109,7 +109,7 @@ Just then a man in their synagogue who was possessed by an unclean spirit cried 
 
 ## Mark 1:24
 
-“What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
+“What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
 
 ## Mark 1:25
 
@@ -153,7 +153,7 @@ The whole town gathered at the door,
 
 ## Mark 1:34
 
-and Jesus healed many who had various diseases. He also drove out many demons, but he would not let the demons speak because they knew who he was.
+and Jesus healed many who had various diseases. He also drove out many demons, but he would not let the demons speak because they recognised him.
 
 ---
 
@@ -163,19 +163,19 @@ Very early in the morning, while it was still dark, Jesus got up, left the house
 
 ## Mark 1:36
 
-Simon and his companions went searching for him,
+Simon and his companions went to look for him,
 
 ## Mark 1:37
 
-and when they found him, they said, “Everyone is looking for you!”
+and when they found him, they said, “Everyone is searching for you!”
 
 ## Mark 1:38
 
-Jesus replied, “Let us go somewhere else—to the nearby villages—so I can preach there also. That is why I have come.”
+Jesus replied, “Let us go to another place—to the nearby villages—so I can preach there also. That is why I have come.”
 
 ## Mark 1:39
 
-So he traveled throughout Galilee, preaching in their synagogues and driving out demons.
+So he journeyed throughout Galilee, preaching in their synagogues and casting out demons.
 
 ---
 

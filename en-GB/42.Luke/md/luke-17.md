@@ -126,11 +126,11 @@ It was similar in the days of Lot. People were eating and drinking, buying and s
 
 ## Luke 17:29
 
-But the day Lot left Sodom, fire and sulphur rained down from heaven and destroyed them all.
+Yet, on the day Lot departed from Sodom, fire and sulphur descended from heaven and destroyed them all.
 
 ## Luke 17:30
 
-It will be just like this on the day the Son of Man is revealed.
+In the same way, it will be when the Son of Man is revealed.
 
 ---
 
@@ -150,7 +150,7 @@ Whoever seeks to preserve their life will lose it, and whoever loses their life 
 
 ## Luke 17:34
 
-I tell you, on that night two people will be in one bed; one will be taken and the other left.
+I tell you, on that night two people will be in one bed; one will be taken and the other left behind.
 
 ## Luke 17:35
 

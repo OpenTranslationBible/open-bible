@@ -40,7 +40,7 @@ This precious value, then, is for you who believe; but for unbelievers,
 
 and,
 
-> “A stone of stumbling and a rock of offense”;  
+> “A stone of stumbling and a rock of offence”;  
 > for they stumble because they are disobedient to the word, and to this they were also appointed.
 
 ## 1 Peter 2:9

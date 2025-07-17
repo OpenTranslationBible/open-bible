@@ -204,7 +204,7 @@ How can you say to your brother, ‘Brother, let me take the speck out of your e
 
 ## Luke 6:43
 
-A good tree does not produce bad fruit, nor does a bad tree produce good fruit.
+A healthy tree does not yield poor fruit, nor does a diseased tree yield good fruit.
 
 ## Luke 6:44
 

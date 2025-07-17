@@ -70,11 +70,11 @@ But even if I do judge, My judgement is true, because I am not alone; I stand wi
 
 ## John 8:17
 
-In your Law, it is written that the testimony of two witnesses is true.
+In your Law, it is stated that the testimony of two witnesses is true.
 
 ## John 8:18
 
-I am one who testifies for Myself; My other witness is the Father who sent Me.”
+I am one who bears witness about Myself; My other witness is the Father who sent Me.”
 
 ## John 8:19
 
@@ -96,7 +96,7 @@ This made the Jews ask, “Will He kill Himself, since He says, ‘Where I go, y
 
 ## John 8:23
 
-But He continued, “You are from below; I am from above. You are of this world; I am not of this world.
+But He continued, “You are from the earthly realm; I am from above. You belong to this world; I do not belong to this world.
 
 ## John 8:24
 
@@ -104,7 +104,7 @@ I told you that you would die in your sins; for unless you believe that I am He,
 
 ## John 8:25
 
-“Who are You?” they asked. “Just what I have been telling you from the beginning,” Jesus replied.
+“Who are You?” they asked. “I am exactly who I have been telling you from the beginning,” Jesus replied.
 
 ## John 8:26
 
@@ -142,11 +142,11 @@ They responded, “We are Abraham’s descendants and have never been slaves of 
 
 ## John 8:34
 
-Jesus replied, “Very truly I tell you, everyone who sins is a slave to sin.
+Jesus replied, “Truly, truly I tell you, everyone who sins is a slave to sin.
 
 ## John 8:35
 
-Now a slave has no permanent place in the family, but a son belongs to it forever.
+Now a slave does not have a permanent place in the family, but a son belongs to it forever.
 
 ## John 8:36
 
@@ -164,11 +164,11 @@ I am telling you what I have seen in the Father’s presence, and you are doing 
 
 ## John 8:39
 
-“Abraham is our father,” they answered. “If you were Abraham’s children,” said Jesus, “then you would do what Abraham did.
+“Abraham is our father,” they answered. “If you were truly Abraham’s children,” said Jesus, “then you would do what Abraham did.
 
 ## John 8:40
 
-As it is, you are looking for a way to kill Me, a man who has told you the truth that I heard from God. Abraham did not do such things.
+As it is, you are seeking to kill Me, a man who has told you the truth that I heard from God. Abraham did not do such things.
 
 ## John 8:41
 
@@ -214,7 +214,7 @@ I am not seeking glory for Myself; but there is one who seeks it, and He is the 
 
 ## John 8:51
 
-Very truly I tell you, whoever obeys My word will never see death.”
+Truly, truly I tell you, whoever obeys My word will never see death.”
 
 ## John 8:52
 
@@ -242,7 +242,7 @@ Your father Abraham rejoiced at the thought of seeing My day; he saw it and was 
 
 ## John 8:58
 
-“Very truly I tell you,” Jesus answered, “before Abraham was born, I am!”
+“Truly, truly I tell you,” Jesus answered, “before Abraham was born, I am!”
 
 ## John 8:59
 

@@ -154,7 +154,7 @@ Again, you have heard that it was said to those of old, ‘Do not break your oat
 
 ## Matthew 5:34
 
-But I say to you, do not swear at all: neither by heaven, for it is God’s throne;
+But I tell you, do not make any oaths: not by heaven, for it is God’s throne;
 
 ## Matthew 5:35
 
@@ -162,7 +162,7 @@ nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city 
 
 ## Matthew 5:36
 
-And do not swear by your head, for you cannot make even one hair white or black.
+And do not make an oath by your head, for you cannot make even one hair white or black.
 
 ## Matthew 5:37
 

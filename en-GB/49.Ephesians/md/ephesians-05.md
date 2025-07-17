@@ -34,7 +34,7 @@ for you were once in darkness, but now you are light in the Lord. Live as childr
 
 ## Ephesians 5:9
 
-(for the fruit of the light consists of all goodness, righteousness, and truth),
+(for the fruit of the light is found in all that is good, righteous, and true),
 
 ## Ephesians 5:10
 
@@ -110,11 +110,11 @@ to sanctify her, cleansing her by the washing with water through the word,
 
 ## Ephesians 5:27
 
-and to present her to Himself as a radiant church, without stain or wrinkle or any other blemish, but holy and blameless.
+and to present her to Himself as a glorious church, free from stain, wrinkle, or any other blemish, but holy and blameless.
 
 ## Ephesians 5:28
 
-In this same way, husbands ought to love their wives as their own bodies. He who loves his wife loves himself.
+In this same way, husbands should love their wives as they love their own bodies. He who loves his wife loves himself.
 
 ## Ephesians 5:29
 
@@ -122,7 +122,7 @@ After all, no one ever hated their own body, but they feed and care for it, just
 
 ## Ephesians 5:30
 
-for we are members of His body.
+for we are parts of His body.
 
 ## Ephesians 5:31
 

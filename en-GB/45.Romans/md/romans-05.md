@@ -22,7 +22,7 @@ For while we were still powerless, at the right time Christ died for the ungodly
 Very rarely will anyone die for a righteous person, though for a good person someone might dare to die.
 
 ## Romans 5:8
-But God shows His own love for us in this: while we were still sinners, Christ died for us.
+But God demonstrates His love for us in this way: while we were still sinners, Christ died for us.
 
 ## Romans 5:9
 Much more then, now that we have been justified by His blood, we shall be saved from God's wrath through Him.

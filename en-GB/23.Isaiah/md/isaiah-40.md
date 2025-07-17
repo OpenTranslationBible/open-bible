@@ -34,7 +34,7 @@ Behold, the Sovereign Lord comes with power, and His arm rules for Him. Behold, 
 He cares for His flock like a shepherd: He gathers the lambs in His arms and carries them close to His heart; He gently guides those that have young.
 
 ## Isaiah 40:12
-Who has measured the waters in the hollow of His hand, or with the breadth of His hand marked off the heavens? Who has held the dust of the earth in a basket, or weighed the mountains on the scales and the hills in a balance?
+Who has gauged the waters in the hollow of His hand, or with the span of His hand set the heavens in place? Who has gathered the dust of the earth in a measure, or weighed the mountains on the scales and the hills in a balance?
 
 ## Isaiah 40:13
 Who can comprehend the Spirit of the Lord, or serve as the Lord's advisor?
@@ -73,7 +73,7 @@ He brings princes to insignificance and reduces the rulers of this world to noth
 Scarcely are they planted, scarcely are they sown, scarcely do they take root in the ground, than He blows on them and they wither, and a whirlwind sweeps them away like chaff.
 
 ## Isaiah 40:25
-“To whom will you compare Me? Or who is My equal?” says the Holy One.
+“To whom can you compare Me? Or who is My equal?” says the Holy One.
 
 ## Isaiah 40:26
 Lift up your eyes and look to the heavens: Who created all these? It is He who brings out the starry host one by one and calls forth each of them by name. Because of His great power and mighty strength, not one of them is missing.

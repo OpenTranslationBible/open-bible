@@ -78,7 +78,7 @@ And I tell you that you are Peter, and on this rock I will build My church, and 
 
 ## Matthew 16:19
 
-I will give you the keys of the kingdom of heaven; whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.”
+I will entrust you with the authority of the kingdom of heaven; what you bind on earth will be bound in heaven, and what you loose on earth will be loosed in heaven.”
 
 ## Matthew 16:20
 
@@ -106,7 +106,7 @@ Then Jesus said to His disciples, “If anyone wants to follow Me, he must deny 
 
 ## Matthew 16:25
 
-For whoever desires to save his life will lose it, but whoever loses his life for My sake will find it.
+For whoever seeks to preserve his life will lose it, but whoever gives up his life for My sake will discover it.
 
 ## Matthew 16:26
 

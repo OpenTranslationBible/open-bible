@@ -106,16 +106,16 @@ the covering of ram skins dyed red, the covering of fine leather, and the shield
 the ark of the covenant with its poles and the atonement cover;
 
 ## Exodus 39:36
-the table with all its articles and the bread of the Presence;
+the table with all its implements and the bread of the Presence;
 
 ## Exodus 39:37
 the pure gold lampstand with its lamps in a row and all its accessories, and the olive oil for the light;
 
 ## Exodus 39:38
-the gold altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent;
+the golden altar, the anointing oil, the fragrant incense, and the curtain for the entrance to the tent;
 
 ## Exodus 39:39
-the bronze altar with its bronze grating, its poles, and all its utensils; the basin with its stand;
+the bronze altar with its bronze grating, its poles and all its implements; the basin with its stand;
 
 ## Exodus 39:40
 the curtains of the courtyard with its posts and bases, and the curtain for the entrance to the courtyard; the ropes and tent pegs for the courtyard; all the equipment for the service of the tabernacle, the tent of meeting;

@@ -34,7 +34,7 @@ Immediately Jesus, aware in his spirit that they were thinking this way within t
 
 ## Mark 2:9
 
-Which is easier: to say to this paralysed man, ‘Your sins are forgiven,’ or to say, ‘Get up, take your mat and walk’?
+Which do you think is simpler: to say to this paralysed man, ‘Your sins are forgiven,’ or to say, ‘Get up, take your mat and walk’?
 
 ## Mark 2:10
 

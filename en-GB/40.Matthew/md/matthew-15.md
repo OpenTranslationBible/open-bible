@@ -86,7 +86,7 @@ For out of the heart come evil thoughts—acts of murder, adultery, sexual immor
 
 ## Matthew 15:20
 
-These are what defile a person; but eating with unwashed hands does not defile them.”
+These are what truly defile a person; however, eating with unwashed hands does not make them unclean.”
 
 ---
 
@@ -126,7 +126,7 @@ Then Jesus said to her, “Woman, your faith is great! Your request is granted.�
 
 ## Matthew 15:29
 
-Jesus departed from there and traveled along the Sea of Galilee. Then he went up on a mountainside and sat down.
+Jesus departed from there and travelled along the Sea of Galilee. Then he went up on a mountainside and sat down.
 
 ## Matthew 15:30
 
@@ -148,11 +148,11 @@ His disciples answered, “Where could we get enough bread in this desolate plac
 
 ## Matthew 15:34
 
-“How many loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”
+“What quantity of loaves do you have?” Jesus asked. “Seven,” they replied, “and a few small fish.”
 
 ## Matthew 15:35
 
-He instructed the crowd to sit down on the ground.
+He directed the crowd to be seated on the ground.
 
 ## Matthew 15:36
 
@@ -164,7 +164,7 @@ Everyone ate and was satisfied. Afterward, the disciples collected seven basketf
 
 ## Matthew 15:38
 
-The number of those who ate was four thousand men, besides women and children.
+Those who ate numbered four thousand men, along with women and children.
 
 ## Matthew 15:39
 

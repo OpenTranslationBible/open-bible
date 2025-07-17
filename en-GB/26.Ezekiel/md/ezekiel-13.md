@@ -46,7 +46,7 @@ I will tear down the wall you have covered with whitewash and level it to the gr
 So I will expend my wrath against the wall and against those who covered it with whitewash. I will say to you, “The wall is gone and so are those who whitewashed it,
 
 ## Ezekiel 13:16
-those prophets of Israel who prophesied to Jerusalem and saw visions of peace for her when there was no peace,” declares the Sovereign Lord.
+those prophets of Israel who spoke of peace for Jerusalem when there was no peace,” declares the Sovereign Lord.
 
 ## Ezekiel 13:17
 Now, son of man, set your face against the daughters of your people who prophesy from their own imagination. Prophesy against them

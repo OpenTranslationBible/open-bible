@@ -176,4 +176,4 @@ For we are in danger of being charged with rioting because of today’s events, 
 
 ## Acts 19:41
 
-With these words, he dismissed the assembly.
+Having spoken in this manner, he brought the assembly to a close.

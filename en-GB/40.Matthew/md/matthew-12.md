@@ -70,7 +70,7 @@ and He warned them not to reveal who He was.
 
 ## Matthew 12:17
 
-This was to fulfill what was spoken through the prophet Isaiah:
+This was done to accomplish what had been spoken through the prophet Isaiah:
 
 ## Matthew 12:18
 
@@ -122,7 +122,7 @@ And if I drive out demons by Beelzebul, by whom do your sons drive them out? The
 
 ## Matthew 12:28
 
-But if I drive out demons by the Spirit of God, then the kingdom of God has come upon you.
+But if I expel demons by the Spirit of God, then indeed the kingdom of God has come upon you.
 
 ## Matthew 12:29
 
@@ -140,7 +140,7 @@ Therefore I tell you, every kind of sin and blasphemy can be forgiven, but blasp
 
 ## Matthew 12:32
 
-Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, either in this age or in the age to come.
+Anyone who speaks a word against the Son of Man will be forgiven, but anyone who speaks against the Holy Spirit will not be forgiven, neither in this age nor in the one to come.
 
 ---
 
@@ -150,7 +150,7 @@ Cultivate a tree to be good, and its fruit will be good; or let a tree be bad, a
 
 ## Matthew 12:34
 
-You brood of vipers, how can you who are evil say anything good? For the mouth speaks what the heart is full of.
+You brood of vipers, how can you, being evil, say anything good? For the mouth speaks what the heart is full of.
 
 ## Matthew 12:35
 
@@ -198,7 +198,7 @@ Then it says, ‘I will return to my house from which I came.’ When it arrives
 
 ## Matthew 12:45
 
-Then it goes and takes with it seven other spirits more wicked than itself, and they go in and live there. And the final condition of that person is worse than the first. That is how it will be with this wicked generation.”
+Then it goes and takes with it seven other spirits more wicked than itself, and they enter and dwell there. And the final condition of that person is worse than the first. This is how it will be with this wicked generation.”
 
 ---
 

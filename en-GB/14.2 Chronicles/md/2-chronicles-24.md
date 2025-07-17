@@ -80,7 +80,7 @@ And they hired masons and carpenters to restore the house of the Lord, and also 
 
 ## 2 Chronicles 24:13
 
-So the workmen labored, and the restoration work progressed in their hands,  
+So the workmen laboured, and the restoration work progressed in their hands,  
 and they restored the house of God according to its specifications, and strengthened it.
 
 ---

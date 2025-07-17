@@ -48,7 +48,7 @@ This was the first of the signs Jesus performed in Cana of Galilee, revealing hi
 
 ## John 2:12
 
-Following this, he traveled to Capernaum with his mother, brothers, and disciples, and they stayed there for a few days.
+Following this, he travelled to Capernaum with his mother, brothers, and disciples, and they stayed there for a few days.
 
 ---
 

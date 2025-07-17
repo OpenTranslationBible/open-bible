@@ -94,7 +94,7 @@ With that, he breathed on them and said, “Receive the Holy Spirit.
 
 ## John 20:23
 
-If you forgive anyone’s sins, they are forgiven; if you do not forgive them, they are not forgiven.”
+If you forgive the sins of anyone, they are forgiven; if you withhold forgiveness from anyone, it is withheld.”
 
 ---
 
@@ -104,7 +104,7 @@ Now Thomas, also called Didymus, one of the Twelve, was not with the disciples w
 
 ## John 20:25
 
-So the other disciples told him, “We have seen the Lord!” But he said to them, “Unless I see the nail marks in his hands and put my finger where the nails were, and put my hand into his side, I will not believe.”
+So the other disciples informed him, “We have seen the Lord!” But he replied, “Unless I see the marks of the nails in his hands and place my finger where the nails were, and put my hand into his side, I will not believe.”
 
 ---
 
@@ -122,13 +122,13 @@ Thomas said to him, “My Lord and my God!”
 
 ## John 20:29
 
-Then Jesus told him, “Because you have seen me, you have believed; blessed are those who have not seen and yet have believed.”
+Then Jesus told him, “You have believed because you have seen me; blessed are those who have not seen and yet have believed.”
 
 ---
 
 ## John 20:30
 
-Jesus performed many other signs in the presence of his disciples, which are not written in this book.
+Jesus performed many other signs in the presence of his disciples, which are not recorded in this book.
 
 ## John 20:31
 

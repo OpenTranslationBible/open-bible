@@ -30,7 +30,7 @@ Do not be wise in your own eyes; fear the Lord and turn away from evil.
 
 ## Proverbs 3:8
 
-This will bring health to your body and nourishment to your bones.
+This will bring well-being to your body and refreshment to your bones.
 
 ## Proverbs 3:9
 

@@ -30,7 +30,7 @@ And war broke out in heaven, Michael and his angels fought against the dragon, a
 
 ## Revelation 12:8
 
-But they did not prevail, and there was no longer any place for them in heaven.
+Yet they were not victorious, and their place in heaven was no more.
 
 ## Revelation 12:9
 

@@ -46,7 +46,7 @@ And the whole assembly of the people were in prayer outside at the hour of incen
 
 ## Luke 1:11
 
-Then an angel of the Lord appeared to him, standing at the right side of the altar of incense.
+Then an angel of the Lord appeared to him, positioned at the right side of the altar of incense.
 
 ## Luke 1:12
 
@@ -88,7 +88,7 @@ And now you will be silent and unable to speak until the day these things happen
 
 ## Luke 1:21
 
-Meanwhile, the people were waiting for Zechariah and wondering why he stayed so long in the temple.
+Meanwhile, the people were waiting for Zechariah and wondering about his delay in the temple.
 
 ## Luke 1:22
 
@@ -96,7 +96,7 @@ When he came out, he could not speak to them. They realised he had seen a vision
 
 ## Luke 1:23
 
-When his time of service was completed, he returned home.
+When his period of service was completed, he returned home.
 
 ## Luke 1:24
 
@@ -118,7 +118,7 @@ to a young woman engaged to a man named Joseph, of the house of David. The young
 
 ## Luke 1:28
 
-The angel went to her and said, “Greetings, you who are highly favoured! The Lord is with you.”
+The angel approached her and said, “Greetings, you who are greatly favoured! The Lord is with you.”
 
 ## Luke 1:29
 
@@ -130,7 +130,7 @@ The angel said to her, “Do not be afraid, Mary; you have found favour with God
 
 ## Luke 1:31
 
-You will conceive and give birth to a son, and you are to call him Jesus.
+You will conceive and give birth to a son, and you shall call him Jesus.
 
 ## Luke 1:32
 
@@ -138,11 +138,11 @@ He will be great and will be called the Son of the Most High. The Lord God will 
 
 ## Luke 1:33
 
-and he will reign over Jacob’s descendants forever; his kingdom will never end.”
+and he will reign over Jacob’s descendants forever; his kingdom will have no end.”
 
 ## Luke 1:34
 
-“How will this be,” Mary asked the angel, “since I am a virgin?”
+“How will this happen,” Mary asked the angel, “since I am a virgin?”
 
 ## Luke 1:35
 
@@ -168,7 +168,7 @@ At that time Mary set out and hurried to a town in the hill country of Judea,
 
 ## Luke 1:40
 
-where she entered Zechariah’s house and greeted Elizabeth.
+where she entered the house of Zechariah and greeted Elizabeth.
 
 ## Luke 1:41
 
@@ -180,7 +180,7 @@ In a loud voice she exclaimed, “Blessed are you among women, and blessed is th
 
 ## Luke 1:43
 
-But why am I so favoured, that the mother of my Lord should come to me?
+But why am I so honoured, that the mother of my Lord should come to me?
 
 ## Luke 1:44
 
@@ -194,7 +194,7 @@ Blessed is she who believed that the Lord would fulfil his promises to her!”
 
 ## Luke 1:46
 
-And Mary said: “My soul glorifies the Lord,
+And Mary said, “My soul magnifies the Lord,
 
 ## Luke 1:47
 
@@ -242,7 +242,7 @@ Mary stayed with Elizabeth for about three months and then returned home.
 
 ## Luke 1:57
 
-When the time came for Elizabeth to have her baby, she gave birth to a son.
+When the time arrived for Elizabeth to have her baby, she gave birth to a son.
 
 ## Luke 1:58
 
@@ -250,7 +250,7 @@ Her neighbours and relatives heard that the Lord had shown her great mercy, and 
 
 ## Luke 1:59
 
-On the eighth day they came to circumcise the child, and they were going to name him after his father Zechariah,
+On the eighth day they came to circumcise the child, and they were intending to name him after his father Zechariah,
 
 ## Luke 1:60
 
@@ -274,7 +274,7 @@ Immediately his mouth was opened and his tongue set free, and he began to speak,
 
 ## Luke 1:65
 
-All the neighbours were filled with awe, and throughout the hill country of Judea people were talking about all these things.
+All the neighbours were filled with awe, and throughout the hill country of Judea people were discussing all these things.
 
 ## Luke 1:66
 

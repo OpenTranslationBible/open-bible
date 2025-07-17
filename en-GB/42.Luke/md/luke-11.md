@@ -45,7 +45,7 @@ I tell you, even if he will not rise and give him anything because he is his fri
 
 ## Luke 11:10
 
-For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door will be opened.
+For everyone who asks receives; the one who seeks finds; and to the one who knocks, the door shall be opened.
 
 ## Luke 11:11
 
@@ -229,7 +229,7 @@ from the blood of Abel to the blood of Zechariah, who was killed between the alt
 
 ## Luke 11:52
 
-“Woe to you experts in the law, for you have taken away the key of knowledge. You did not enter yourselves, and you hindered those who were entering.”
+“Woe to you experts in the law, for you have taken away the key of knowledge. You did not enter yourselves, and you obstructed those who were entering.”
 
 ---
 

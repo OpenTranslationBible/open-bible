@@ -30,7 +30,7 @@ But the tenants said to one another, ‘This is the heir. Come, let us kill him,
 
 ## Mark 12:8
 
-So they took him, killed him, and threw him out of the vineyard.
+So they took him, ended his life, and cast him out of the vineyard.
 
 ## Mark 12:9
 
@@ -64,7 +64,7 @@ Should we pay or shouldn’t we?” But Jesus, knowing their hypocrisy, said, �
 
 ## Mark 12:16
 
-They brought the coin, and he asked them, “Whose image is this? And whose inscription?” “Caesar’s,” they replied.
+They presented the coin, and he asked them, “Whose likeness is this? And whose inscription?” “Caesar’s,” they replied.
 
 ## Mark 12:17
 
@@ -78,7 +78,7 @@ Then some Sadducees, who say there is no resurrection, came to him with a questi
 
 ## Mark 12:19
 
-“Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother.
+“Teacher,” they said, “Moses wrote for us that if a man’s brother passes away and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother.
 
 ## Mark 12:20
 
@@ -106,7 +106,7 @@ When the dead rise, they will neither marry nor be given in marriage; they will 
 
 ## Mark 12:26
 
-Now about the dead rising—have you not read in the Book of Moses, in the account of the burning bush, how God said to him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
+Now concerning the rising of the dead—have you not read in the Book of Moses, in the account of the burning bush, how God said to him, ‘I am the God of Abraham, the God of Isaac, and the God of Jacob’?
 
 ## Mark 12:27
 
@@ -175,15 +175,15 @@ They consume widows’ houses and for a show make lengthy prayers. These men wil
 
 ## Mark 12:41
 
-Jesus sat down opposite the place where the offerings were put and watched the crowd putting their money into the temple treasury. Many rich people threw in large amounts.
+Jesus sat down opposite the place where the offerings were put and observed the crowd putting their money into the temple treasury. Many rich people contributed large amounts.
 
 ## Mark 12:42
 
-But a poor widow came and put in two very small copper coins, worth only a few pence.
+But a poor widow came and placed in two very small copper coins, worth only a few pence.
 
 ## Mark 12:43
 
-Calling his disciples to him, Jesus said, “Truly I tell you, this poor widow has put more into the treasury than all the others.
+Calling his disciples to him, Jesus said, “Truly I tell you, this poor widow has contributed more to the treasury than all the others.
 
 ## Mark 12:44
 

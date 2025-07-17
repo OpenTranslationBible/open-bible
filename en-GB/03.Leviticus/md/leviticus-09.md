@@ -31,7 +31,7 @@ His sons presented the blood to him, and he dipped his finger in the blood and p
 He burned the fat, kidneys, and the long lobe of the liver from the sin offering on the altar, as the Lord commanded Moses.
 
 ## Leviticus 9:11
-He burned the flesh and the hide outside the camp.
+He took the flesh and the hide outside the camp.
 
 ## Leviticus 9:12
 He then slaughtered the burnt offering, and his sons handed him the blood, which he sprinkled around the altar.

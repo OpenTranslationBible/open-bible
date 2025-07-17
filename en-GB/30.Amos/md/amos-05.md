@@ -75,7 +75,7 @@ For this is what the Lord says to the house of Israel:
 
 ## Amos 5:12
 
-> For I know how numerous your offenses are and how great your sins.
+> For I know how numerous your offences are and how great your sins.
 > You oppress the righteous, accept bribes,
 > and turn aside the needy in the gate.
 

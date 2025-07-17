@@ -76,7 +76,7 @@ Throughout the land that you hold as a possession, you must ensure the redemptio
 “‘If one of your fellow Israelites becomes poor and sells some of their property, their nearest relative is to come and reclaim what they have sold.
 
 ## Leviticus 25:26
-If, however, there is no one to redeem it for them but later on they prosper and acquire sufficient means to redeem it themselves,
+If there is no one to redeem it for them, yet later they prosper and acquire enough means to redeem it themselves,
 
 ## Leviticus 25:27
 they are to calculate the value for the years since they sold it and refund the balance to the one to whom they sold it; they can then return to their property.
@@ -91,7 +91,7 @@ But if they do not acquire the means to repay, what was sold will remain with th
 If it is not redeemed before a full year has passed, the house in the walled city shall belong permanently to the buyer and their descendants. It is not to be returned in the Jubilee.
 
 ## Leviticus 25:31
-But houses in villages without walls around them are to be considered as belonging to the open country. They can be redeemed, and they are to be returned in the Jubilee.
+However, houses in villages without walls around them are to be regarded as part of the open country. They can be redeemed, and they are to be returned in the Jubilee.
 
 ## Leviticus 25:32
 “‘The Levites have the perpetual right to redeem their houses in the Levitical towns, which they possess.
@@ -100,7 +100,7 @@ But houses in villages without walls around them are to be considered as belongi
 So the property of the Levites is redeemable—that is, a house sold in any town they hold—and is to be returned in the Jubilee, because the houses in the towns of the Levites are their possession among the Israelites.
 
 ## Leviticus 25:34
-But the pastureland belonging to their towns must not be sold; it is their permanent possession.
+Yet the pastureland belonging to their towns must remain unsold; it is their lasting possession.
 
 ## Leviticus 25:35
 “‘If any of your fellow Israelites become poor and are unable to support themselves among you, assist them as you would a foreigner and guest, so they can continue to live among you.
@@ -124,7 +124,7 @@ They are to be treated as hired workers or temporary residents among you; they a
 Then they and their children are to be released, and they will return to their own clans and to the property of their ancestors.
 
 ## Leviticus 25:42
-Because the Israelites are my servants, whom I brought out of Egypt, they must not be sold as slaves.
+For the Israelites are my servants, whom I brought out of Egypt, they must not be sold as slaves.
 
 ## Leviticus 25:43
 Do not rule over them with harshness, but fear your God.
@@ -142,7 +142,7 @@ You can bequeath them to your children as inherited property and can make them s
 “‘If a foreigner residing among you becomes prosperous and any of your fellow Israelites become poor and sell themselves to the foreigner or to a member of the foreigner’s clan,
 
 ## Leviticus 25:48
-they retain the right of redemption after they have sold themselves. One of their relatives may redeem them:
+they retain the right of redemption after they have sold themselves. A relative may redeem them:
 
 ## Leviticus 25:49
 An uncle or a cousin or any blood relative in their clan may redeem them. Or if they prosper, they may redeem themselves.
@@ -163,4 +163,4 @@ They are to be treated as workers hired from year to year; you must ensure that 
 “‘Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee,
 
 ## Leviticus 25:55
-for the Israelites belong to me as servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.
+for the Israelites are my servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.

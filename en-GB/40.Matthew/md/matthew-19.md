@@ -82,7 +82,7 @@ He replied, “Why do you ask me about what is good? There is only One who is go
 
 ## Matthew 19:19
 
-respect your father and mother, and care for your neighbor as yourself.”
+respect your father and mother, and care for your neighbour as yourself.”
 
 ## Matthew 19:20
 

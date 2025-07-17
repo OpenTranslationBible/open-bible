@@ -55,7 +55,7 @@ These are the sons of Levi by their names: Gershon, Kohath, and Merari.
 These are the sons of Gershon by their families: Libni and Shimei.
 
 ## Numbers 3:19
-The sons of Kohath by their families were Amram, Izhar, Hebron, and Uzziel.
+The descendants of Kohath by their families included Amram, Izhar, Hebron, and Uzziel.
 
 ## Numbers 3:20
 The sons of Merari by their families were Mahli and Mushi. These are the families of the Levites according to their fathers’ households.
@@ -85,7 +85,7 @@ From Kohath came the families of the Amramites, the Izharites, the Hebronites, a
 In the counting of every male from a month old and upward, there were 8,600, responsible for the duties of the sanctuary.
 
 ## Numbers 3:29
-The families of the sons of Kohath were to camp on the south side of the tabernacle.
+The families of Kohath's descendants were to camp on the southern side of the tabernacle.
 
 ## Numbers 3:30
 The leader of the fathers’ households of the Kohathite families was Elizaphan the son of Uzziel.
@@ -109,7 +109,7 @@ The leader of the fathers’ households of the families of Merari was Zuriel the
 The duties assigned to the sons of Merari included the framework of the tabernacle, its bars, its pillars, its bases, all its equipment, and all the service concerning them,
 
 ## Numbers 3:37
-and the pillars around the courtyard with their bases, their pegs, and their ropes.
+and the pillars around the courtyard with their bases, their pegs, and their cords.
 
 ## Numbers 3:38
 Those who were to camp in front of the tabernacle eastward, in front of the tent of meeting toward the sunrise, were Moses and Aaron and his sons, performing the duties of the sanctuary for the obligation of the sons of Israel; but the layman coming near was to be put to death.
@@ -121,7 +121,7 @@ All the numbered men of the Levites, whom Moses and Aaron counted at the command
 Then the Lord instructed Moses, “Count every firstborn male of the sons of Israel from a month old and upward, and make a list of their names.
 
 ## Numbers 3:41
-And you shall take the Levites for Me—I am the Lord—instead of all the firstborn among the sons of Israel; and the cattle of the Levites in place of all the firstborn among the cattle of the sons of Israel.”
+And you shall take the Levites for Me—I am the Lord—in exchange for all the firstborn among the sons of Israel; and the cattle of the Levites in substitution for all the firstborn among the cattle of the sons of Israel.”
 
 ## Numbers 3:42
 So Moses counted all the firstborn among the sons of Israel, just as the Lord had instructed him.
@@ -133,16 +133,16 @@ And all the firstborn males, by the number of names from a month old and upward,
 Then the Lord spoke to Moses, saying,
 
 ## Numbers 3:45
-“Take the Levites in place of all the firstborn among the sons of Israel, and the cattle of the Levites in place of their cattle. And the Levites shall be Mine; I am the Lord.
+“Take the Levites in substitution for all the firstborn among the sons of Israel, and the cattle of the Levites in place of their cattle. And the Levites shall be Mine; I am the Lord.
 
 ## Numbers 3:46
 And as a redemption price for the 273 of the firstborn of the sons of Israel who exceed the number of the Levites,
 
 ## Numbers 3:47
-you shall take five shekels apiece, per head; you shall take them in terms of the shekel of the sanctuary (the shekel is twenty gerahs),
+you shall collect five shekels for each individual; you shall take them according to the shekel of the sanctuary (the shekel is twenty gerahs),
 
 ## Numbers 3:48
-and you shall give the money, the redemption price of those who are in excess among them, to Aaron and to his sons.”
+and you shall hand over the money, the redemption price of those who are in excess among them, to Aaron and to his sons.”
 
 ## Numbers 3:49
 So Moses collected the redemption money from those who exceeded the number of those redeemed by the Levites;

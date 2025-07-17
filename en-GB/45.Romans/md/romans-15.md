@@ -89,7 +89,7 @@ through the power of signs and wonders, in the power of the Spirit; so from Jeru
 
 ## Romans 15:20
 
-And in this way I aspired to preach the gospel, not where Christ was already recognized, so that I would not build on another person’s foundation;
+And in this way I aspired to preach the gospel, not where Christ was already recognised, so that I would not build on another person’s foundation;
 
 ## Romans 15:21
 

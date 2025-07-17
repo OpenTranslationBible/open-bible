@@ -72,7 +72,7 @@ He desired to fill his stomach with the pods that the pigs were eating, but no o
 
 ## Luke 15:17
 
-When he realized his situation, he said, ‘How many of my father’s hired servants have food to spare, and here I am perishing with hunger!
+When he realised his situation, he said, ‘How many of my father’s hired servants have food to spare, and here I am perishing with hunger!
 
 ## Luke 15:18
 
@@ -88,7 +88,7 @@ So he arose and went to his father. But while he was still a long way off, his f
 
 ## Luke 15:21
 
-The son said to him, ‘Father, I have sinned against heaven and against you. I am no longer worthy to be called your son.’
+The son addressed him, ‘Father, I have done wrong against heaven and against you. I am no longer worthy to be called your son.’
 
 ## Luke 15:22
 
@@ -118,7 +118,7 @@ So he called one of the servants and asked what was happening.
 
 ## Luke 15:28
 
-The older brother became angry and refused to go in. So his father went out and pleaded with him.
+The older brother was upset and would not go in. So his father went out and entreated him.
 
 ## Luke 15:29
 
@@ -134,4 +134,4 @@ But when this son of yours returns, who has squandered your property with prosti
 
 ## Luke 15:32
 
-But we had to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”
+But it was necessary to celebrate and be glad, because this brother of yours was dead and is alive again; he was lost and is found.’”

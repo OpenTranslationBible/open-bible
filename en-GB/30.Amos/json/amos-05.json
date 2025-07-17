@@ -1,222 +1,214 @@
 {
-    "book": "Amos",
-    "chapter": 5,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Hear this word, O house of Israel, this lament I raise against you:"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> “Fallen is Virgin Israel,",
-                "> she shall rise no more.",
-                "> She lies forsaken on her land;",
-                "> there is no one to lift her up.”"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> For this is what the Sovereign Lord says to Israel:",
-                "> “The city that sends out a thousand",
-                "> will have a hundred left,",
-                "> and the one that sends out a hundred",
-                "> will have ten left.”"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "For this is what the Lord says to the house of Israel:",
-                "> “Seek me, and you shall live."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Do not seek Bethel,",
-                "> do not go to Gilgal,",
-                "> and do not cross over to Beersheba;",
-                "> for Gilgal shall surely go into exile,",
-                "> and Bethel shall be reduced to nothing.”"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Seek the Lord, and live,",
-                "> lest he break out like fire in the house of Joseph,",
-                "> and it devour, with none to quench it for Bethel."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> There are those who turn justice into bitterness",
-                "> and cast righteousness to the ground."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> He who made the Pleiades and Orion,",
-                "> who turns deep darkness into morning",
-                "> and darkens day into night,",
-                "> who summons the waters of the sea",
-                "> and pours them out over the face of the earth",
-                "> — the Lord is his name."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> He brings sudden destruction upon the stronghold,",
-                "> and ruin comes upon the fortified city."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> They hate the one who reproves in the gate",
-                "> and despise the one who speaks the truth."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Therefore, because you impose heavy rent on the poor",
-                "> and take a levy of grain from them,",
-                "> though you have built houses of hewn stone,",
-                "> you shall not dwell in them;",
-                "> though you have planted delightful vineyards,",
-                "> you shall not drink their wine."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> For I know how numerous your offenses are and how great your sins.",
-                "> You oppress the righteous, accept bribes,",
-                "> and turn aside the needy in the gate."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Therefore, the prudent keep silent at such a time,",
-                "> for it is an evil time."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Seek good and not evil, that you may live;",
-                "> and so the Lord God Almighty will be with you,",
-                "> just as you say."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Hate evil, love good,",
-                "> and establish justice in the gate.",
-                "> Perhaps the Lord God Almighty",
-                "> will be gracious to the remnant of Joseph."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Therefore, this is what the Lord, the Lord God Almighty, says:",
-                "> “There will be wailing in all the streets",
-                "> and cries of anguish in every public square.",
-                "> The farmers will be called to mourn,",
-                "> and the professional mourners to lamentation."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> There will be wailing in all the vineyards,",
-                "> for I will pass through your midst,” says the Lord."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Woe to you who long for the day of the Lord!",
-                "> Why do you desire the day of the Lord?",
-                "> It will be darkness, not light."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> It will be as if a man fled from a lion",
-                "> only to meet a bear,",
-                "> or as if he entered his house and leaned his hand on the wall",
-                "> only to be bitten by a snake."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Will not the day of the Lord be darkness, not",
-                "> light— pitch-dark, without a glimmer of brightness?"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> “I hate, I despise your festivals;",
-                "> your assemblies are a stench to me."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Even though you bring me burnt offerings and grain offerings,",
-                "> I will not accept them.",
-                "> I will not regard the peace offerings of your fattened animals."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> Take away from me the noise of your songs;",
-                "> I will not listen to the melody of your harps."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "> But let justice roll on like a river,",
-                "> and righteousness like an ever-flowing stream."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "> “Did you bring me sacrifices and offerings",
-                "> during the forty years in the wilderness, O house of Israel?"
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "> You have carried Sikkuth your king and Kiyyun your idols,",
-                "> the star of your gods that you made for yourselves."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "> Therefore I will send you into exile beyond Damascus,”",
-                "says the Lord, whose name is God Almighty."
-            ]
-        }
-    ]
+  "book": "Amos",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Hear this word, O house of Israel, this lament I raise against you:"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> “Fallen is Virgin Israel,",
+        "> she shall rise no more.",
+        "> She lies forsaken on her land;",
+        "> there is no one to lift her up.”"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> For this is what the Sovereign Lord says to Israel:",
+        "> “The city that sends out a thousand",
+        "> will have a hundred left,",
+        "> and the one that sends out a hundred",
+        "> will have ten left.”"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "For this is what the Lord says to the house of Israel:",
+        "> “Seek me, and you shall live."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Do not seek Bethel,",
+        "> do not go to Gilgal,",
+        "> and do not cross over to Beersheba;",
+        "> for Gilgal shall surely go into exile,",
+        "> and Bethel shall be reduced to nothing.”"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Seek the Lord, and live,",
+        "> lest he break out like fire in the house of Joseph,",
+        "> and it devour, with none to quench it for Bethel."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> There are those who turn justice into bitterness",
+        "> and cast righteousness to the ground."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> He who made the Pleiades and Orion,",
+        "> who turns deep darkness into morning",
+        "> and darkens day into night,",
+        "> who summons the waters of the sea",
+        "> and pours them out over the face of the earth",
+        "> — the Lord is his name."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> He brings sudden destruction upon the stronghold,",
+        "> and ruin comes upon the fortified city."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> They hate the one who reproves in the gate",
+        "> and despise the one who speaks the truth."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Therefore, because you impose heavy rent on the poor",
+        "> and take a levy of grain from them,",
+        "> though you have built houses of hewn stone,",
+        "> you shall not dwell in them;",
+        "> though you have planted delightful vineyards,",
+        "> you shall not drink their wine."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> For I know how numerous your offences are and how great your sins.",
+        "> You oppress the righteous, accept bribes,",
+        "> and turn aside the needy in the gate."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["> Therefore, the prudent keep silent at such a time,", "> for it is an evil time."]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Seek good and not evil, that you may live;",
+        "> and so the Lord God Almighty will be with you,",
+        "> just as you say."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Hate evil, love good,",
+        "> and establish justice in the gate.",
+        "> Perhaps the Lord God Almighty",
+        "> will be gracious to the remnant of Joseph."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Therefore, this is what the Lord, the Lord God Almighty, says:",
+        "> “There will be wailing in all the streets",
+        "> and cries of anguish in every public square.",
+        "> The farmers will be called to mourn,",
+        "> and the professional mourners to lamentation."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> There will be wailing in all the vineyards,",
+        "> for I will pass through your midst,” says the Lord."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Woe to you who long for the day of the Lord!",
+        "> Why do you desire the day of the Lord?",
+        "> It will be darkness, not light."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> It will be as if a man fled from a lion",
+        "> only to meet a bear,",
+        "> or as if he entered his house and leaned his hand on the wall",
+        "> only to be bitten by a snake."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Will not the day of the Lord be darkness, not",
+        "> light— pitch-dark, without a glimmer of brightness?"
+      ]
+    },
+    {
+      "verse": 21,
+      "text": ["> “I hate, I despise your festivals;", "> your assemblies are a stench to me."]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "> Even though you bring me burnt offerings and grain offerings,",
+        "> I will not accept them.",
+        "> I will not regard the peace offerings of your fattened animals."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> Take away from me the noise of your songs;",
+        "> I will not listen to the melody of your harps."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "> But let justice roll on like a river,",
+        "> and righteousness like an ever-flowing stream."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "> “Did you bring me sacrifices and offerings",
+        "> during the forty years in the wilderness, O house of Israel?"
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "> You have carried Sikkuth your king and Kiyyun your idols,",
+        "> the star of your gods that you made for yourselves."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "> Therefore I will send you into exile beyond Damascus,”",
+        "says the Lord, whose name is God Almighty."
+      ]
+    }
+  ]
 }

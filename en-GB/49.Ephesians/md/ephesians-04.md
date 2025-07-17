@@ -98,7 +98,7 @@ to be renewed in the attitude of your minds;
 
 ## Ephesians 4:24
 
-and to put on the new self, created to be like God in true righteousness and holiness.
+and to embrace the new self, fashioned to reflect God's true righteousness and holiness.
 
 ## Ephesians 4:25
 
@@ -110,7 +110,7 @@ Therefore, putting away falsehood, let each of you speak truthfully with his nei
 
 ## Ephesians 4:27
 
-and do not give the devil an opportunity.
+and do not allow the devil a foothold.
 
 ## Ephesians 4:28
 

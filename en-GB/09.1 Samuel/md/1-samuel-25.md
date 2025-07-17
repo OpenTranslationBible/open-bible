@@ -150,7 +150,7 @@ be given to the young men who accompany my lord.
 
 ## 1 Samuel 25:28
 
-Please forgive the offense of your slave;  
+Please forgive the offence of your slave;  
 for the Lord will certainly make for my lord an enduring house,  
 because my lord is fighting the battles of the Lord,  
 and evil will not be found in you all your days.

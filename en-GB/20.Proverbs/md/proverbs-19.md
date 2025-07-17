@@ -106,7 +106,7 @@ He who robs his father and drives out his mother is a shameful and disgraceful s
 
 ## Proverbs 19:27
 
-If you stop listening to instruction, my son, you will stray from the words of knowledge.
+If you cease to heed instruction, you will stray from the words of knowledge.
 
 ## Proverbs 19:28
 

@@ -58,7 +58,7 @@ The wall was made of jasper, and the city was of pure gold, like clear glass.
 The foundations of the city walls were adorned with every kind of precious stone. The first foundation was jasper, the second sapphire, the third chalcedony, the fourth emerald,
 
 ## Revelation 21:20
-the fifth was sardonyx, the sixth was sardius, the seventh was chrysolite, the eighth was beryl, the ninth was topaz, the tenth was chrysoprase, the eleventh was jacinth, and the twelfth was amethyst.
+the fifth was onyx, the sixth was carnelian, the seventh was chrysolite, the eighth was beryl, the ninth was topaz, the tenth was chrysoprase, the eleventh was jacinth, and the twelfth was amethyst.
 
 ## Revelation 21:21
 The twelve gates were twelve pearls, each gate made of a single pearl. The main street of the city was pure gold, like transparent glass.

@@ -185,7 +185,7 @@ Peter replied, “Turn back and be baptised, every one of you, in the name of Je
 
 ## Acts 2:39
 
-The promise is for you and your children and for all who are far off—for all whom the Lord our God will call.”
+This promise is for you and your children and for all who are distant—for all whom the Lord our God will call.”
 
 ## Acts 2:40
 
@@ -211,12 +211,12 @@ All the believers were together and shared everything in common.
 
 ## Acts 2:45
 
-They sold property and possessions to give to anyone who had need.
+They sold their property and possessions to provide for anyone who was in need.
 
 ## Acts 2:46
 
-Every day they continued to meet together in the temple courts. They broke bread in their homes and ate together with glad and sincere hearts,
+Every day they continued to meet together in the temple courts. They shared meals in their homes and ate together with glad and sincere hearts,
 
 ## Acts 2:47
 
-praising God and enjoying the favour of all the people. And the Lord added to their number daily those who were being saved.
+praising God and enjoying the goodwill of all the people. And the Lord added to their number daily those who were being saved.

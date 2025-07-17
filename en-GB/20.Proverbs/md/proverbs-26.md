@@ -79,7 +79,7 @@ Though their speech is charming, do not believe them, for seven abominations fil
 Their malice may be hidden by deception, but their wickedness will be revealed in the assembly.
 
 ## Proverbs 26:27
-Whoever digs a pit will fall into it; if someone rolls a stone, it will roll back on them.
+Whoever digs a pit will fall into it; if someone rolls a stone, it will return upon them.
 
 ## Proverbs 26:28
 A deceitful tongue despises those it harms, and a flattering mouth leads to ruin.

@@ -13,7 +13,7 @@ You will be blessed in the city and blessed in the countryside.
 Blessed will be the fruit of your womb, the produce of your ground, and the offspring of your livestock—the young of your herds and the lambs of your flocks.
 
 ## Deuteronomy 28:5
-Your basket and your kneading bowl will be favored.
+Your basket and your kneading bowl will be favoured.
 
 ## Deuteronomy 28:6
 You will be blessed when you come in and blessed when you go out.
@@ -91,13 +91,13 @@ At midday you will stumble about like a blind person in the dark. You will be un
 You will be pledged to be married to a woman, but another will violate her. You will build a house, but you will not live in it. You will plant a vineyard, but you will not enjoy its fruit.
 
 ## Deuteronomy 28:31
-Your ox will be slaughtered before your eyes, but you will eat none of it. Your donkey will be forcibly taken from you and will not be returned. Your sheep will be given to your enemies, and no one will rescue them.
+Your ox will be slaughtered before your eyes, but you will eat none of it. Your donkey will be taken by force and will not be returned. Your sheep will be given to your enemies, and no one will rescue them.
 
 ## Deuteronomy 28:32
 Your sons and daughters will be given to another nation, and you will wear out your eyes watching for them day after day, unable to lift a hand.
 
 ## Deuteronomy 28:33
-A people that you do not know will consume what your land and labor produce, and you will endure nothing but harsh oppression all your days.
+A people that you do not know will consume what your land and labour produce, and you will endure nothing but harsh oppression all your days.
 
 ## Deuteronomy 28:34
 The things you witness will drive you to madness.
@@ -127,10 +127,10 @@ You will have sons and daughters but will not keep them, because they will go in
 Swarms of locusts will consume all your trees and the crops of your land.
 
 ## Deuteronomy 28:43
-The foreigners who reside among you will rise above you higher and higher, but you will sink lower and lower.
+The foreigners who reside among you will rise higher and higher above you, but you will descend lower and lower.
 
 ## Deuteronomy 28:44
-They will lend to you, but you will not lend to them. They will be the head, but you will be the tail.
+They will lend to you, but you will not lend to them. They will be the leaders, and you will follow.
 
 ## Deuteronomy 28:45
 All these curses will come upon you. They will pursue you and overtake you until you are destroyed, because you did not obey the Lord your God and observe the commands and decrees He gave you.
@@ -145,10 +145,10 @@ Because you did not serve the Lord your God with joy and gladness in the time of
 therefore in hunger and thirst, in nakedness and dire poverty, you will serve the enemies the Lord sends against you. He will place a heavy yoke on your neck until He has destroyed you.
 
 ## Deuteronomy 28:49
-The Lord will bring a nation against you from far away, from the ends of the earth, like an eagle swooping down, a nation whose language you will not understand,
+The Lord will bring a nation against you from a distant place, from the ends of the earth, like an eagle swooping down, a nation whose language you will not understand,
 
 ## Deuteronomy 28:50
-a fierce-looking nation without respect for the old or pity for the young.
+a fierce-looking nation without respect for the elderly or pity for the young.
 
 ## Deuteronomy 28:51
 They will consume the young of your livestock and the crops of your land until you are destroyed. They will leave you no grain, new wine, or olive oil, nor any calves of your herds or lambs of your flocks until you are ruined.
@@ -172,7 +172,7 @@ The most gentle and sensitive woman among you—so delicate and tender that she 
 the afterbirth from her womb and the children she bears. For in her dire need she intends to eat them secretly because of the suffering your enemy will inflict on you during the siege of your cities.
 
 ## Deuteronomy 28:58
-If you do not carefully follow all the words of this law, which are written in this book, and do not revere this glorious and awesome name—the Lord your God—
+If you do not carefully follow all the words of this law, which are written in this book, and do not hold in reverence this glorious and awesome name—the Lord your God—
 
 ## Deuteronomy 28:59
 the Lord will send dreadful plagues on you and your descendants, harsh and prolonged disasters, and severe and lingering illnesses.
@@ -184,7 +184,7 @@ He will bring upon you all the diseases of Egypt that you dreaded, and they will
 The Lord will also bring upon you every kind of sickness and disaster not recorded in this Book of the Law, until you are destroyed.
 
 ## Deuteronomy 28:62
-You who were as numerous as the stars in the sky will be left but few in number, because you did not obey the Lord your God.
+You who were as numerous as the stars in the sky will be left with only a few, because you did not obey the Lord your God.
 
 ## Deuteronomy 28:63
 Just as it pleased the Lord to make you prosper and increase in number, so it will please Him to bring you to ruin and destruction. You will be uprooted from the land you are entering to possess.
@@ -193,7 +193,7 @@ Just as it pleased the Lord to make you prosper and increase in number, so it wi
 Then the Lord will scatter you among all nations, from one end of the earth to the other. There you will worship other gods—gods of wood and stone, which neither you nor your ancestors have known.
 
 ## Deuteronomy 28:65
-Among those nations you will find no repose, no resting place for the sole of your foot. There the Lord will give you an anxious mind, eyes weary with longing, and a despairing heart.
+Among those nations you will find no rest, no place of repose for the sole of your foot. There the Lord will give you an anxious mind, eyes weary with longing, and a despairing heart.
 
 ## Deuteronomy 28:66
 You will live in constant suspense, filled with dread both night and day, never sure of your life.
@@ -202,4 +202,4 @@ You will live in constant suspense, filled with dread both night and day, never 
 In the morning you will say, “If only it were evening!” and in the evening, “If only it were morning!”—because of the terror that will fill your hearts and the sights that your eyes will see.
 
 ## Deuteronomy 28:68
-The Lord will send you back in ships to Egypt on a journey I said you should never make again. There you will offer yourselves for sale to your enemies as male and female slaves, but no one will buy you.
+The Lord will send you back in ships to Egypt on a journey I said you should never make again. There you will offer yourselves for sale to your enemies as male and female servants, but no one will buy you.

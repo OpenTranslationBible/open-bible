@@ -62,7 +62,7 @@ And He died for all, so that those who live would no longer live for themselves,
 
 ## 2 Corinthians 5:16
 
-Therefore from now on we recognize no one by the flesh; even though we have known Christ by the flesh, yet now we know Him in this way no longer.
+Therefore from now on we Recognise no one by the flesh; even though we have known Christ by the flesh, yet now we know Him in this way no longer.
 
 ## 2 Corinthians 5:17
 

@@ -46,7 +46,7 @@ Do not follow other gods, any of the gods of the peoples around you;
 for the Lord your God, who is among you, is a jealous God; otherwise, the anger of the Lord your God will be kindled against you, and He will wipe you off the face of the earth.
 
 ## Deuteronomy 6:16
-Do not test the Lord your God as you did at Massah.
+Do not put the Lord your God to the test as you did at Massah.
 
 ## Deuteronomy 6:17
 Be sure to keep the commandments of the Lord your God and the decrees and statutes He has given you.

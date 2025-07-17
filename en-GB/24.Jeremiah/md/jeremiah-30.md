@@ -34,7 +34,7 @@ Alas, how dreadful that day will be! There is none like it. It is the time of Ja
 
 ## Jeremiah 30:9
 
-Rather, they will serve the Lord their God and David their king, whom I will raise up for them.
+They will instead serve the Lord their God and David their king, whom I will raise up for them.
 
 ---
 

@@ -104,4 +104,4 @@ News about him spread throughout Syria, and they brought to him all who were ill
 
 ## Matthew 4:25
 
-Great crowds followed him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.
+Large multitudes came after him from Galilee, the Decapolis, Jerusalem, Judea, and from beyond the Jordan.

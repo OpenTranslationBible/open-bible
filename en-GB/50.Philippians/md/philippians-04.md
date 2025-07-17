@@ -67,4 +67,4 @@ Greet all the saints in Christ Jesus. The brothers and sisters who are with me s
 All the saints send you greetings, especially those from Caesar’s household.
 
 ## Philippians 4:23
-May the grace of the Lord Jesus Christ be with your spirit. Amen.
+May the gracious favour of the Lord Jesus Christ be with your spirit.

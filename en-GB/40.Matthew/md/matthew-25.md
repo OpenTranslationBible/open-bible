@@ -46,7 +46,7 @@ Later, the other virgins also came, saying, ‘Lord, Lord, open the door for us.
 
 ## Matthew 25:12
 
-But he replied, ‘Truly, I tell you, I do not recognize you.’
+But he replied, ‘Truly, I tell you, I do not recognise you.’
 
 ## Matthew 25:13
 
@@ -166,7 +166,7 @@ The King will reply, ‘Truly I say to you, whatever you did for one of the leas
 
 ## Matthew 25:41
 
-Then he will say to those on his left, ‘Depart from me, you who are cursed, into the eternal fire prepared for the devil and his angels.
+Then he will say to those on his left, ‘Leave me, you who are accursed, and enter the everlasting fire prepared for the devil and his angels.
 
 ## Matthew 25:42
 
@@ -186,4 +186,4 @@ He will reply, ‘Truly I say to you, whatever you did not do for one of the lea
 
 ## Matthew 25:46
 
-Then they will go away to eternal punishment, but the righteous to eternal life.”
+Then they will go away to everlasting punishment, but the righteous to everlasting life.”

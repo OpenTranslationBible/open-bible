@@ -108,7 +108,7 @@ Upon receiving such orders, he put them in the inner cell and fastened their fee
 
 ## Acts 16:25
 
-Around midnight, Paul and Silas were praying and singing hymns to God, and the other prisoners were listening to them.
+Around midnight, Paul and Silas were engaged in prayer and singing hymns to God, while the other prisoners listened to them.
 
 ## Acts 16:26
 

@@ -44,7 +44,7 @@ They responded to her, “We will go back with you to your people.”
 
 ## Ruth 1:11
 
-But Naomi said, “Return home, my daughters. Why would you come with me? Am I going to have any more sons who could become your husbands?
+But Naomi said, “Return home, my daughters. Why would you come with me? Am I likely to have more sons who could become your husbands?
 
 ## Ruth 1:12
 

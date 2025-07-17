@@ -175,7 +175,7 @@ Then they said, “Let us call the young woman and ask her.”
 So they called Rebekah and asked her, “Will you go with this man?” She said, “I will go.”
 
 ## Genesis 24:59
-So they sent their sister Rebekah on her way, along with her nurse and Abraham’s servant and his men.
+So they sent Rebekah, their sister, on her journey, along with her nurse and Abraham’s servant and his men.
 
 ## Genesis 24:60
 And they blessed Rebekah and said to her, “Our sister, may you become thousands of ten thousands; may your descendants possess the gates of those who hate them.”

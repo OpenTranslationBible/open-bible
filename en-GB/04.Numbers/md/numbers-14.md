@@ -22,7 +22,7 @@ Joshua, son of Nun, and Caleb, son of Jephunneh, who were among those who had ex
 and they said to the entire assembly of the Israelites, “The land we passed through and explored is exceedingly good.
 
 ## Numbers 14:8
-If the Lord finds favor with us, He will lead us into this land, a land flowing with milk and honey, and give it to us.
+If the Lord finds favour with us, He will lead us into this land, a land flowing with milk and honey, and give it to us.
 
 ## Numbers 14:9
 Only do not rebel against the Lord. Do not be afraid of the people of the land, for they will be our prey. Their protection is gone, and the Lord is with us. Do not fear them.”
@@ -43,7 +43,7 @@ Moses said to the Lord, “Then the Egyptians will hear of it! By Your power You
 And they will tell the inhabitants of this land. They have heard that You, Lord, are with these people and that You, Lord, have been seen face to face, that Your cloud stays over them, and that You go before them in a pillar of cloud by day and a pillar of fire by night.
 
 ## Numbers 14:15
-If You put all these people to death, leaving none alive, the nations who have heard this report about You will say,
+If You bring about the demise of all these people, the nations who have heard this report about You will say,
 
 ## Numbers 14:16
 ‘The Lord was not able to bring these people into the land He promised them on oath, so He destroyed them in the wilderness.’
@@ -55,7 +55,7 @@ If You put all these people to death, leaving none alive, the nations who have h
 ‘The Lord is slow to anger, abounding in love and forgiving sin and rebellion. Yet He does not leave the guilty unpunished; He holds the children accountable for the sin of the parents to the third and fourth generation.’
 
 ## Numbers 14:19
-In accordance with Your great love, forgive the sin of these people, just as You have pardoned them from the time they left Egypt until now.”
+In accordance with Your great love, forgive the wrongdoing of these people, just as You have pardoned them from the time they left Egypt until now.”
 
 ## Numbers 14:20
 The Lord replied, “I have pardoned them, as you requested.
@@ -67,7 +67,7 @@ Nevertheless, as surely as I live and as the glory of the Lord fills the whole e
 not one of those who witnessed My glory and the signs I performed in Egypt and in the wilderness, yet disobeyed Me and tested Me ten times—
 
 ## Numbers 14:23
-not one of them will ever see the land I promised on oath to their ancestors. No one who has treated Me with contempt will ever see it.
+not one of them will ever see the land I promised on oath to their ancestors. Those who have shown contempt for Me will not see it.
 
 ## Numbers 14:24
 But because My servant Caleb has a different spirit and follows Me wholeheartedly, I will bring him into the land he explored, and his descendants will inherit it.
@@ -82,7 +82,7 @@ The Lord said to Moses and Aaron:
 “How long will this wicked community grumble against Me? I have heard the complaints of these discontented Israelites.
 
 ## Numbers 14:28
-So tell them, ‘As surely as I live, declares the Lord, I will do to you the very thing I heard you say:
+So tell them, ‘As surely as I live, declares the Lord, I will do to you just as you have spoken:
 
 ## Numbers 14:29
 In this wilderness your bodies will fall—every one of you twenty years old or more who was counted in the census and who has complained against Me.
@@ -91,16 +91,16 @@ In this wilderness your bodies will fall—every one of you twenty years old or 
 Not one of you will enter the land I swore with uplifted hand to make your home, except Caleb, son of Jephunneh, and Joshua, son of Nun.
 
 ## Numbers 14:31
-As for your children that you said would be taken as plunder, I will bring them in to enjoy the land you have rejected.
+As for your children whom you said would be taken as plunder, I will bring them in to enjoy the land you have rejected.
 
 ## Numbers 14:32
 But as for you, your bodies will fall in this wilderness.
 
 ## Numbers 14:33
-Your children will be shepherds here for forty years, suffering for your unfaithfulness, until the last of your bodies lies in the wilderness.
+Your children will be shepherds here for forty years, enduring the consequences of your unfaithfulness, until the last of your bodies lies in the wilderness.
 
 ## Numbers 14:34
-For forty years—one year for each of the forty days you explored the land—you will suffer for your sins and know what it is like to have Me against you.’
+For forty years—one year for each of the forty days you explored the land—you will bear the consequences of your sins and know what it is like to have Me against you.’
 
 ## Numbers 14:35
 I, the Lord, have spoken, and I will surely do these things to this whole wicked community, which has banded together against Me. They will meet their end in this wilderness; here they will die.”
@@ -118,7 +118,7 @@ Of the men who went to explore the land, only Joshua, son of Nun, and Caleb, son
 When Moses reported this to all the Israelites, they mourned greatly.
 
 ## Numbers 14:40
-Early the next morning they set out for the highest point in the hill country, saying, “Now we are ready to go up to the land the Lord promised. Surely we have sinned!”
+Early the next morning they set out for the highest point in the hill country, saying, “Now we are ready to go up to the land the Lord promised. Indeed, we have sinned!”
 
 ## Numbers 14:41
 But Moses said, “Why are you disobeying the Lord’s command? This will not succeed!

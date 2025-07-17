@@ -68,7 +68,7 @@ and their brethren, valiant warriors—128. Their chief officer was Zabdiel son 
 
 ## Nehemiah 11:15
 
-Among the Levites were Shemaiah son of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
+Among the Levites were Shemaiah, descendant of Hasshub, son of Azrikam, son of Hashabiah, son of Bunni;
 
 ## Nehemiah 11:16
 
@@ -80,7 +80,7 @@ Mattaniah son of Mika, son of Zabdi, son of Asaph, the leader who began the than
 
 ## Nehemiah 11:18
 
-The total number of Levites in the holy city was 284.
+The Levites residing in the holy city numbered 284.
 
 ## Nehemiah 11:19
 

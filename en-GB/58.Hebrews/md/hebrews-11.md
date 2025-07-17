@@ -103,7 +103,7 @@ who through faith conquered kingdoms, enforced justice, obtained promises, shut 
 extinguished the fury of flames, escaped the edge of the sword, were made strong out of weakness, became mighty in war, put foreign armies to flight.
 
 ## Hebrews 11:35
-Women received back their dead by resurrection. Some were tortured, refusing to accept release, so that they might rise again to a better life.
+Women received back their dead through resurrection. Some were tortured, choosing not to accept release, so that they might attain a better resurrection.
 
 ## Hebrews 11:36
 Others suffered mocking and flogging, and even chains and imprisonment.
@@ -115,7 +115,7 @@ They were stoned, they were sawn in two, they were killed with the sword. They w
 of whom the world was not worthy—wandering in deserts and mountains, and in caves and holes in the ground.
 
 ## Hebrews 11:39
-And all these, though commended through their faith, did not receive what was promised,
+And all these, though they were praised for their faith, did not receive what was promised,
 
 ## Hebrews 11:40
 since God had provided something better for us, that apart from us they would not be made perfect.

@@ -10,7 +10,7 @@ They will exclude you from the synagogue; indeed, a time is coming when anyone w
 
 ## John 16:3
 
-They will do these things because they have not recognized the Father or me.
+They will do these things because they have not recognised the Father or me.
 
 ## John 16:4
 
@@ -20,7 +20,7 @@ I have informed you of this so that when their time comes, you will remember tha
 
 ## John 16:5
 
-But now I am going to the One who sent me, and none of you asks me, ‘Where are you going?’
+However, I am now returning to the One who sent me, and none of you asks me, ‘Where are you going?’
 
 ## John 16:6
 

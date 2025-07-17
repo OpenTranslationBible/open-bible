@@ -61,7 +61,7 @@ You witnessed with your own eyes the great trials, the signs and wonders, the mi
 Furthermore, the Lord your God will send the hornet among them until even the survivors who hide from you have perished.
 
 ## Deuteronomy 7:21
-Do not be terrified by them, for the Lord your God, who is among you, is a great and awesome God.
+Do not be dismayed by them, for the Lord your God, who is with you, is a mighty and awe-inspiring God.
 
 ## Deuteronomy 7:22
 The Lord your God will drive out those nations before you, little by little. You will not be able to eliminate them all at once, or the wild animals will become too numerous for you.
@@ -76,4 +76,4 @@ He will hand their kings over to you, and you will wipe out their names from und
 The carved images of their gods you are to burn in the fire. Do not covet the silver and gold on them, nor take it for yourselves, or you will be ensnared by it, for it is detestable to the Lord your God.
 
 ## Deuteronomy 7:26
-Do not bring a detestable thing into your house, or you, like it, will be set apart for destruction. Regard it as vile and utterly detest it, for it is set apart for destruction.
+Do not bring anything abhorrent into your house, or you, like it, will become set apart for destruction. Consider it as vile and utterly reject it, for it is set apart for destruction.

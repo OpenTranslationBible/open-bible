@@ -40,7 +40,7 @@ A large crowd of Jews found out that Jesus was there, and they came not only bec
 
 ## John 12:10
 
-So the chief priests made plans to kill Lazarus as well,
+Therefore, the chief priests also plotted to put Lazarus to death,
 
 ## John 12:11
 
@@ -124,7 +124,7 @@ If anyone serves me, they must follow me; and where I am, there my servant will 
 
 ## John 12:28
 
-Father, glorify your name.” Then a voice came from heaven, “I have glorified it and will glorify it again.”
+Father, glorify your name.” Then a voice came from heaven, “I have glorified it and will glorify it once more.”
 
 ## John 12:29
 
@@ -132,7 +132,7 @@ The crowd that stood there and heard it said it had thundered; others said, “A
 
 ## John 12:30
 
-Jesus said, “This voice was for your benefit, not mine.
+Jesus said, “This voice came for your benefit, not mine.
 
 ## John 12:31
 
@@ -150,7 +150,7 @@ He said this to indicate the kind of death he was going to die.
 
 ## John 12:34
 
-The crowd spoke up, “We have heard from the Law that the Messiah will remain forever, so how can you say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”
+The crowd responded, “We have heard from the Law that the Messiah will remain forever, so how can you say, ‘The Son of Man must be lifted up’? Who is this ‘Son of Man’?”
 
 ## John 12:35
 
@@ -164,7 +164,7 @@ Trust in the light while you have the light, so that you may become children of 
 
 ## John 12:37
 
-Even after Jesus had performed so many signs in their presence, they still would not believe in him.
+Even though Jesus had performed so many signs in their presence, they still would not believe in him.
 
 ## John 12:38
 
@@ -193,7 +193,7 @@ Isaiah said this because he saw Jesus’ glory and spoke about him.
 
 ## John 12:42
 
-Yet at the same time many even among the leaders believed in him. But because of the Pharisees, they would not openly acknowledge their faith for fear they would be put out of the synagogue;
+Nevertheless, many even among the leaders believed in him. But because of the Pharisees, they would not openly acknowledge their faith for fear they would be put out of the synagogue;
 
 ## John 12:43
 
@@ -203,7 +203,7 @@ for they valued human praise more than praise from God.
 
 ## John 12:44
 
-Then Jesus cried out, “Whoever believes in me does not believe in me only, but in the one who sent me.
+Then Jesus cried out, “Whoever believes in me does not believe in me alone, but in the one who sent me.
 
 ## John 12:45
 
@@ -211,7 +211,7 @@ The one who looks at me is seeing the one who sent me.
 
 ## John 12:46
 
-I have come into the world as a light, so that no one who believes in me should stay in darkness.
+I have come into the world as a light, so that no one who believes in me should remain in darkness.
 
 ## John 12:47
 
@@ -223,7 +223,7 @@ There is a judge for the one who rejects me and does not accept my words; the ve
 
 ## John 12:49
 
-For I did not speak on my own, but the Father who sent me commanded me to say all that I have spoken.
+For I did not speak on my own, but the Father who sent me instructed me to say all that I have spoken.
 
 ## John 12:50
 

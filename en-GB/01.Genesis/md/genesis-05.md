@@ -86,7 +86,7 @@ When Enoch reached 65 years, he fathered Methuselah.
 
 ## Genesis 5:22
 
-After he became the father of Methuselah, Enoch lived closely with God for 300 years and had other sons and daughters.
+After he became the father of Methuselah, Enoch walked closely with God for 300 years and had other sons and daughters.
 
 ## Genesis 5:23
 

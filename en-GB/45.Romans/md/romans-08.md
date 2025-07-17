@@ -86,7 +86,7 @@ that the creation itself will be freed from its bondage to decay and brought int
 
 ## Romans 8:22
 
-We know that the whole creation has been groaning as in the pains of childbirth right up to the present time.
+We understand that the entire creation has been groaning in the pains of childbirth up to this very moment.
 
 ## Romans 8:23
 
@@ -110,7 +110,7 @@ And He who searches our hearts knows the mind of the Spirit, because the Spirit 
 
 ## Romans 8:28
 
-And we know that in all things God works for the good of those who love Him, who have been called according to His purpose.
+And we are assured that in all things God works for the benefit of those who love Him, who have been called according to His purpose.
 
 ## Romans 8:29
 
@@ -126,15 +126,15 @@ What then shall we say in response to these matters? If God is for us, who can b
 
 ## Romans 8:32
 
-He who did not spare His own Son, but gave Him up for us all—how will He not also, along with Him, graciously give us all things?
+He who did not withhold His own Son, but offered Him for us all—how will He not also, along with Him, graciously provide us with all things?
 
 ## Romans 8:33
 
-Who will bring any charge against those whom God has chosen? It is God who justifies.
+Who will bring any accusation against those whom God has chosen? It is God who justifies.
 
 ## Romans 8:34
 
-Who then is the one who condemns? No one. Christ Jesus who died—more than that, who was raised to life—is at the right hand of God and is also interceding for us.
+Who then is the one who condemns? No one. Christ Jesus who died—and more than that, who was raised to life—is at the right hand of God and is also interceding for us.
 
 ## Romans 8:35
 
@@ -157,4 +157,4 @@ For I am convinced that neither death nor life, neither angels nor principalitie
 
 ## Romans 8:39
 
-neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is in Christ Jesus our Lord.
+neither height nor depth, nor anything else in all creation, will be able to separate us from the love of God that is found in Christ Jesus our Lord.

@@ -46,7 +46,7 @@ Stand firm then, with the belt of truth fastened around your waist, and the brea
 and with your feet prepared with the readiness that comes from the gospel of peace.
 
 ## Ephesians 6:16
-In addition to all this, take up the shield of faith, with which you can extinguish all the flaming arrows of the evil one.
+Besides all this, hold up the shield of faith, which enables you to quench all the fiery darts of the evil one.
 
 ## Ephesians 6:17
 Take the helmet of salvation and the sword of the Spirit, which is the word of God.

@@ -1,168 +1,162 @@
 {
-    "book": "1 Corinthians",
-    "chapter": 9,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "If I am not an apostle to others, at least I am to you; for you are the seal of my apostleship in the Lord."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "My defense to those who examine me is this:"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Do we not have a right to eat and drink?"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Do we not have a right to take along a believing wife, even as the rest of the apostles, the brothers of the Lord, and Cephas?"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Or do only Barnabas and I have no right to refrain from working?"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Who at any time serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? Or who tends a flock and does not consume the milk of the flock?"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "I am not speaking these things according to human judgement, am I? Or does the Law not also say these things?"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "For it is written in the Law of Moses: “You shall not muzzle the ox while it is threshing.” God is not concerned about oxen, is He?"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Or is He speaking entirely for our sake? Yes, it was written for our sake, because the ploughman ought to plough in hope, and the thresher to thresh in hope of sharing the crops."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "If we sowed spiritual things in you, is it too much if we reap material things from you?"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "If others share the right over you, do we not more? Nevertheless, we did not use this right, but we endure all things so that we will cause no hindrance to the gospel of Christ."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Do you not know that those who perform sacred services eat the food of the temple, and those who attend regularly to the altar have their share from the altar?"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "So also the Lord directed those who proclaim the gospel to get their living from the gospel."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "But I have used none of these rights, and I am not writing these things so that it will be done so in my case; for it would be better for me to die than have anyone make my boast an empty one."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "For if I preach the gospel, I have nothing to boast about, for I am under compulsion; for woe to me if I do not preach the gospel!"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "For if I do this voluntarily, I have a reward; but if against my will, I have been entrusted with a commission."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "What, then, is my reward? That, when I preach the gospel, I may offer the gospel without charge, so as not to make full use of my right in the gospel."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "For though I am free from all people, I have made myself a slave to all, so that I may gain more."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "To the Jews I became as a Jew, so that I might gain Jews; to those who are under the Law, as under the Law though not being under the Law myself, so that I might gain those who are under the Law;"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "To those who are without the Law, as without the Law, though not being without the law of God but under the law of Christ, so that I might gain those who are without the Law."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "To the weak I became weak, that I might gain the weak; I have become all things to all people, so that I may by all means save some."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "I do all things for the sake of the gospel, so that I may become a fellow partaker of it."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Do you not know that those who run in a race all run, but only one receives the prize? Run in such a way that you may win."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Everyone who competes in the games exercises self-control in all things. So they do it to obtain a perishable crown, but we an imperishable."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Therefore I do not run aimlessly; Nor do I flail my arms like a boxer beating nothing but air."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Instead I strictly discipline my body and make it my slave, so that after I have preached to others, I don't become disqualified."
-            ]
-        }
-    ]
+  "book": "1 Corinthians",
+  "chapter": 9,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "If I am not an apostle to others, at least I am to you; for you are the seal of my apostleship in the Lord."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": ["My defence to those who examine me is this:"]
+    },
+    {
+      "verse": 4,
+      "text": ["Do we not have a right to eat and drink?"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Do we not have a right to take along a believing wife, even as the rest of the apostles, the brothers of the Lord, and Cephas?"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": ["Or do only Barnabas and I have no right to refrain from working?"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Who at any time serves as a soldier at his own expense? Who plants a vineyard and does not eat its fruit? Or who tends a flock and does not consume the milk of the flock?"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "I am not speaking these things according to human judgement, am I? Or does the Law not also say these things?"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "For it is written in the Law of Moses: “You shall not muzzle the ox while it is threshing.” God is not concerned about oxen, is He?"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Or is He speaking entirely for our sake? Yes, it was written for our sake, because the ploughman ought to plough in hope, and the thresher to thresh in hope of sharing the crops."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "If we sowed spiritual things in you, is it too much if we reap material things from you?"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "If others share the right over you, do we not more? Nevertheless, we did not use this right, but we endure all things so that we will cause no hindrance to the gospel of Christ."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Do you not know that those who perform sacred services eat the food of the temple, and those who attend regularly to the altar have their share from the altar?"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "So also the Lord directed those who proclaim the gospel to get their living from the gospel."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "But I have used none of these rights, and I am not writing these things so that it will be done so in my case; for it would be better for me to die than have anyone make my boast an empty one."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "For if I preach the gospel, I have nothing to boast about, for I am under compulsion; for woe to me if I do not preach the gospel!"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "For if I do this voluntarily, I have a reward; but if against my will, I have been entrusted with a commission."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "What, then, is my reward? That, when I preach the gospel, I may offer the gospel without charge, so as not to make full use of my right in the gospel."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "For though I am free from all people, I have made myself a slave to all, so that I may gain more."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "To the Jews I became as a Jew, so that I might gain Jews; to those who are under the Law, as under the Law though not being under the Law myself, so that I might gain those who are under the Law;"
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "To those who are without the Law, as without the Law, though not being without the law of God but under the law of Christ, so that I might gain those who are without the Law."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "To the weak I became weak, that I might gain the weak; I have become all things to all people, so that I may by all means save some."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "I do all things for the sake of the gospel, so that I may become a fellow partaker of it."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Do you not know that those who run in a race all run, but only one receives the prize? Run in such a way that you may win."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Everyone who competes in the games exercises self-control in all things. So they do it to obtain a perishable crown, but we an imperishable."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Therefore I do not run aimlessly; Nor do I flail my arms like a boxer beating nothing but air."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Instead I strictly discipline my body and make it my slave, so that after I have preached to others, I don't become disqualified."
+      ]
+    }
+  ]
 }

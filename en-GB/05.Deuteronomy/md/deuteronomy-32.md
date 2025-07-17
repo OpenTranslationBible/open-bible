@@ -148,7 +148,7 @@ On that very day the Lord spoke to Moses,
 “Go up this mountain of the Abarim, Mount Nebo, which is in the land of Moab, opposite Jericho, and view the land of Canaan, which I am giving to the people of Israel as a possession.
 
 ## Deuteronomy 32:50
-And die on the mountain which you ascend and be gathered to your people, as Aaron your brother died on Mount Hor and was gathered to his people,
+And you shall pass away on the mountain you ascend and be gathered to your people, just as Aaron your brother passed away on Mount Hor and was gathered to his people,
 
 ## Deuteronomy 32:51
 because you broke faith with me in the midst of the people of Israel at the waters of Meribah-Kadesh, in the wilderness of Zin, because you did not uphold me as holy in the midst of the people of Israel.

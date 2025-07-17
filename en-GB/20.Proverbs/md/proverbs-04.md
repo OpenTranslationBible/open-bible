@@ -87,7 +87,7 @@ The way of the wicked is like deep darkness; they do not know what makes them st
 
 ## Proverbs 4:20
 
-My son, pay attention to my words; listen closely to my sayings.
+My son, heed my words; listen carefully to my sayings.
 
 ## Proverbs 4:21
 

@@ -116,7 +116,7 @@ so that they would seek God, if perhaps they might feel their way towards him an
 
 ## Acts 17:28
 
-For in him we live and move and exist, as even some of your own poets have said, ‘For we are also his offspring.’
+For through him we live, move, and have our being, as even some of your own poets have said, ‘For we are indeed his offspring.’
 
 ## Acts 17:29
 

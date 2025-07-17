@@ -34,7 +34,7 @@ But what does it say? “The word is near you; it is in your mouth and in your h
 
 ## Romans 10:9
 
-If you declare with your mouth, “Jesus is Lord,” and believe in your heart that God raised him from the dead, you will be saved.
+If you acknowledge with your mouth, “Jesus is Lord,” and have faith in your heart that God raised him from the dead, you will be saved.
 
 ## Romans 10:10
 

@@ -94,7 +94,7 @@ Thus, by their fruits you will recognise them.
 
 ## Matthew 7:22
 
-Many will say to me on that day, ‘Lord, Lord, did we not prophesy in your name, and in your name drive out demons, and in your name perform many miracles?’
+On that day, many will say to me, ‘Lord, Lord, did we not prophesy in your name, drive out demons, and perform many miracles in your name?’
 
 ## Matthew 7:23
 

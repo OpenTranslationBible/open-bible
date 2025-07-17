@@ -82,7 +82,7 @@ But Moses said, “That would not be right. The sacrifices we offer the Lord our
 We must take a three-day journey into the wilderness to offer sacrifices to the Lord our God, as He has directed us.”
 
 ## Exodus 8:28
-Pharaoh said, “I will let you go to offer sacrifices to the Lord your God in the wilderness, but you must not go very far. Now pray for me.”
+Pharaoh said, “I will permit you to go and offer sacrifices to the Lord your God in the wilderness, but you must not go too far. Now, please pray for me.”
 
 ## Exodus 8:29
 Moses answered, “As soon as I leave you, I will pray to the Lord, and tomorrow the flies will depart from Pharaoh, his officials, and his people. Only let Pharaoh be sure not to act deceitfully again by not letting the people go to offer sacrifices to the Lord.”

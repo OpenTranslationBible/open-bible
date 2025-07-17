@@ -72,7 +72,7 @@ The neighbour women said, “Naomi has a son!” And they named him Obed. He was
 
 ## Ruth 4:18
 
-Here is the family line of Perez: Perez was the father of Hezron,
+This is the lineage of Perez: Perez was the father of Hezron,
 
 ## Ruth 4:19
 

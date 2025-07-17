@@ -157,7 +157,7 @@ For you need to persevere so that when you have done the will of God, you may re
 
 ## Hebrews 10:37
 
-For in just a little while, the one who is coming will come and will not delay.
+For in a very short time, the one who is coming will arrive and will not delay.
 
 ## Hebrews 10:38
 

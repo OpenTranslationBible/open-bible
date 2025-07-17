@@ -116,7 +116,7 @@ They crucified two rebels alongside Him, one on His right and one on His left.
 
 ## Mark 15:28
 
-[And the Scripture was fulfilled which says, “And He was numbered with transgressors.”]
+[This fulfilled the Scripture that says, “And He was counted among the lawless.”]
 
 ## Mark 15:29
 

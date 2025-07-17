@@ -58,10 +58,10 @@ And you took your embroidered clothes to adorn them, and you offered my oil and 
 Also the food I provided for you—the fine flour, olive oil, and honey I gave you to eat—you offered as a soothing aroma before them. That is what happened, declares the Sovereign Lord.
 
 ## Ezekiel 16:20
-“‘Moreover, you took your sons and daughters whom you bore to me and sacrificed them to idols to be devoured. Were your obscene practices not enough?
+“‘Moreover, you took your sons and daughters whom you bore to me and sacrificed them to idols to be consumed. Were your obscene practices not enough?
 
 ## Ezekiel 16:21
-You slaughtered my children and offered them to idols by making them pass through the fire.
+You put my children to death and offered them to idols by passing them through the fire.
 
 ## Ezekiel 16:22
 In all your abominable practices and your prostitution, you did not remember the days of your youth, when you were naked and bare, squirming in your blood.
@@ -85,7 +85,7 @@ So I stretched out my hand against you and reduced your territory; I gave you ov
 You also acted immorally with the Assyrians, because you were insatiable; and even after that, you still were not satisfied.
 
 ## Ezekiel 16:29
-Then you increased your promiscuity to include Babylonia, a land of merchants, but even with this, you were not satisfied.
+Then you expanded your promiscuity to include Babylonia, a land of merchants, but even with this, you were not content.
 
 ## Ezekiel 16:30
 “‘How feverish is your heart, declares the Sovereign Lord, when you do all these things, acting like a brazen prostitute!
@@ -148,7 +148,7 @@ As surely as I live, declares the Sovereign Lord, your sister Sodom and her daug
 “‘Now this was the sin of your sister Sodom: She and her daughters were arrogant, overfed, and unconcerned; they did not help the poor and needy.
 
 ## Ezekiel 16:50
-They were haughty and did detestable things before me. Therefore I did away with them as you have seen.
+They were proud and did detestable things before me. Therefore I did away with them as you have seen.
 
 ## Ezekiel 16:51
 Samaria did not commit half the sins you did. You have done more abominable things than they, and have made your sisters seem righteous by all these things you have done.
@@ -175,7 +175,7 @@ before your wickedness was uncovered. So now you are scorned by the daughters of
 You will bear the consequences of your lewdness and your abominable practices, declares the Lord.
 
 ## Ezekiel 16:59
-“‘This is what the Sovereign Lord says: I will deal with you as you deserve, because you have despised my oath by breaking the covenant.
+“‘This is what the Sovereign Lord says: I will deal with you according to your actions, because you have despised my oath by breaking the covenant.
 
 ## Ezekiel 16:60
 Yet I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you.

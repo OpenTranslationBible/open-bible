@@ -119,7 +119,7 @@ This is the one about whom it is written:
 
 ## Luke 7:28
 
-I tell you, among those born of women there is no one greater than John; yet the one who is least in the kingdom of God is greater than he.”
+I tell you, among those born of women there is no one greater than John; yet even the least in the kingdom of God is greater than he.”
 
 ## Luke 7:29
 
@@ -200,7 +200,7 @@ You did not give Me a kiss, but she has not stopped kissing My feet since I came
 
 ## Luke 7:46
 
-You did not anoint My head with oil, but she has anointed My feet with perfume.
+You did not anoint My head with oil, but she has poured perfume on My feet.
 
 ## Luke 7:47
 

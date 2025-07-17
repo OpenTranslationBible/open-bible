@@ -40,7 +40,7 @@ Those who want to make a good impression in the flesh are trying to compel you t
 For even those who are circumcised do not keep the law themselves, yet they want you to be circumcised so they can boast about your flesh.
 
 ## Galatians 6:14
-But may I never boast except in the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
+However, I will never take pride in anything except the cross of our Lord Jesus Christ, through which the world has been crucified to me, and I to the world.
 
 ## Galatians 6:15
 For neither circumcision nor uncircumcision means anything; what matters is a new creation.
