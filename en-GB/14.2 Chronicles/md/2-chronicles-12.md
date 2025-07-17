@@ -2,25 +2,25 @@
 
 ## 2 Chronicles 12:1
 
-When the kingdom of Rehoboam was established and strong, he and all Israel with him abandoned the Law of the Lord.
+When Rehoboam's kingdom was established and became strong, he and all Israel with him turned away from the law of the Lord.
 
 ---
 
 ## 2 Chronicles 12:2
 
-And it came about in King Rehoboam’s fifth year, because they had been unfaithful to the Lord, that Shishak king of Egypt came up against Jerusalem
+In the fifth year of King Rehoboam's reign, because they had been unfaithful to the Lord, Shishak, king of Egypt, advanced against Jerusalem.
 
 ---
 
 ## 2 Chronicles 12:3
 
-with 1,200 chariots, 60,000 horsemen, and people without number who came with him from Egypt: the Lubim, the Sukkiim, and the Ethiopians.
+He came with 1,200 chariots, 60,000 horsemen, and countless people who accompanied him from Egypt: the Lubim, the Sukkiim, and the Ethiopians.
 
 ---
 
 ## 2 Chronicles 12:4
 
-He captured the fortified cities of Judah and came as far as Jerusalem.
+He captured the fortified cities of Judah and advanced as far as Jerusalem.
 
 ---
 
@@ -32,7 +32,7 @@ Then Shemaiah the prophet came to Rehoboam and the leaders of Judah who had gath
 
 ## 2 Chronicles 12:6
 
-So the leaders of Israel and the king humbled themselves and said, “The Lord is righteous.”
+Therefore, the leaders of Israel and the king humbled themselves and declared, “The Lord is righteous.”
 
 ---
 
@@ -44,7 +44,7 @@ When the Lord saw that they humbled themselves, the word of the Lord came to She
 
 ## 2 Chronicles 12:8
 
-But they will become his slaves, so that they may learn the difference between My service and the service of the kingdoms of the countries.”
+However, they will serve him, so that they may understand the difference between serving Me and serving the kingdoms of other lands.”
 
 ---
 
@@ -80,16 +80,16 @@ So King Rehoboam grew strong in Jerusalem and reigned. Now Rehoboam was forty-on
 
 ## 2 Chronicles 12:14
 
-He did evil because he did not set his heart to seek the Lord.
+He acted wickedly because he did not set his heart to seek the Lord.
 
 ---
 
 ## 2 Chronicles 12:15
 
-Now the acts of Rehoboam, from the first to the last, are they not written in the records of Shemaiah the prophet and of Iddo the seer, according to genealogical enrollment? And there were wars between Rehoboam and Jeroboam continually.
+Are not the acts of Rehoboam, from the first to the last, recorded in the writings of Shemaiah the prophet and of Iddo the seer, according to genealogical records? And there were constant wars between Rehoboam and Jeroboam.
 
 ---
 
 ## 2 Chronicles 12:16
 
-And Rehoboam lay down with his fathers and was buried in the city of David; and his son Abijah became king in his place.
+Rehoboam rested with his ancestors and was buried in the city of David; and his son Abijah succeeded him as king.

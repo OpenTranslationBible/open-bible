@@ -2,7 +2,7 @@
 
 ## 1 Samuel 5:1
 
-After the Philistines had captured the ark of God, they brought it from Ebenezer to Ashdod.
+Once the Philistines had seized the ark of God, they transported it from Ebenezer to Ashdod.
 
 ## 1 Samuel 5:2
 

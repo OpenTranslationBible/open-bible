@@ -2,7 +2,7 @@
 
 ## 1 Samuel 8:1
 
-When Samuel grew old, he appointed his sons as judges over Israel.
+As Samuel advanced in years, he designated his sons as judges over Israel.
 
 ## 1 Samuel 8:2
 
@@ -54,7 +54,7 @@ He will appoint commanders of thousands and of fifties, and others to plough his
 
 ## 1 Samuel 8:13
 
-He will take your daughters to be perfumers, cooks, and bakers.
+He will take your daughters to work as perfumers, cooks, and bakers.
 
 ## 1 Samuel 8:14
 
@@ -70,7 +70,7 @@ He will take your male and female servants, the best of your cattle and donkeys,
 
 ## 1 Samuel 8:17
 
-He will take a tenth of your flocks, and you yourselves will become his servants.
+He will take a tenth of your flocks, and you will find yourselves serving him.
 
 ## 1 Samuel 8:18
 
@@ -88,7 +88,7 @@ Then we will be like all the other nations, with a king to lead us and go out be
 
 ## 1 Samuel 8:21
 
-When Samuel heard all that the people said, he repeated it before the Lord.
+When Samuel heard all that the people said, he conveyed it to the Lord.
 
 ## 1 Samuel 8:22
 

@@ -39,7 +39,7 @@ When it was reported to Saul that David had come to Keilah, Saul said,
 
 ## 1 Samuel 23:8
 
-So Saul summoned all the people for war, to go down to Keilah to besiege David and his men.
+So Saul gathered all the people to go down to Keilah, intending to besiege David and his men.
 
 ## 1 Samuel 23:9
 
@@ -81,7 +81,7 @@ while David was in the wilderness of Ziph, at Horesh.
 
 ## 1 Samuel 23:16
 
-And Jonathan, Saul’s son, set out and went to David at Horesh, and encouraged him in God.
+And Jonathan, Saul’s son, went to David at Horesh and strengthened his faith in God.
 
 ## 1 Samuel 23:17
 
@@ -109,7 +109,7 @@ and our part shall be to hand him over to the king.”
 
 ## 1 Samuel 23:21
 
-Saul said, “May you be blessed of the Lord, for you have had compassion on me.
+Saul said, “May you be blessed by the Lord, for you have shown kindness to me.
 
 ## 1 Samuel 23:22
 
@@ -153,4 +153,4 @@ therefore they called that place the Rock of Escape.
 
 ## 1 Samuel 23:29
 
-And David went up from there and stayed in the strongholds of Engedi.
+And David departed from there and stayed in the strongholds of Engedi.

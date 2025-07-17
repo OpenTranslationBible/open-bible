@@ -2,25 +2,25 @@
 
 ## 2 Chronicles 24:1
 
-Joash was seven years old when he became king, and he reigned for forty years in Jerusalem; and his mother’s name was Zibiah from Beersheba.
+Joash was seven years old when he began his reign, and he ruled for forty years in Jerusalem; his mother was Zibiah from Beersheba.
 
 ---
 
 ## 2 Chronicles 24:2
 
-Joash did what was right in the sight of the Lord all the days of Jehoiada the priest.
+Joash acted rightly in the eyes of the Lord throughout the lifetime of Jehoiada the priest.
 
 ---
 
 ## 2 Chronicles 24:3
 
-Jehoiada took two wives for him, and he fathered sons and daughters.
+Jehoiada arranged two marriages for him, and he became the father of sons and daughters.
 
 ---
 
 ## 2 Chronicles 24:4
 
-Now it came about after this that Joash decided to restore the house of the Lord.
+After these events, Joash resolved to restore the temple of the Lord.
 
 ---
 
@@ -41,13 +41,13 @@ So the king summoned Jehoiada the chief priest and said to him,
 
 ## 2 Chronicles 24:7
 
-For the sons of the wicked Athaliah had broken into the house of God, and even used the holy things of the house of the Lord for the Baals.
+For the sons of the wicked Athaliah had broken into the temple of God, and even used the sacred items of the house of the Lord for the Baals.
 
 ---
 
 ## 2 Chronicles 24:8
 
-So the king commanded, and they made a chest and set it outside by the gate of the house of the Lord.
+So the king commanded, and they constructed a chest and placed it outside by the gate of the temple of the Lord.
 
 ---
 
@@ -107,7 +107,7 @@ And they buried him in the city of David among the kings, because he had done we
 
 ## 2 Chronicles 24:17
 
-But after the death of Jehoiada, the officials of Judah came and bowed down to the king, and the king listened to them.
+However, after Jehoiada's death, the officials of Judah came and bowed down to the king, and the king heeded their advice.
 
 ---
 
@@ -134,7 +134,7 @@ Then the Spirit of God came on Zechariah the son of Jehoiada the priest; and he 
 
 ## 2 Chronicles 24:21
 
-So they conspired against him, and at the command of the king they stoned him to death in the courtyard of the house of the Lord.
+So they plotted against him, and by the king's command, they stoned him to death in the courtyard of the temple of the Lord.
 
 ---
 

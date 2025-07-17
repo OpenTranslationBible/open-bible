@@ -225,7 +225,7 @@ The Lord highly exalted Solomon in the sight of all Israel,
 
 ## 1 Chronicles 29:26
 
-Now David the son of Jesse reigned over all Israel.
+David, the son of Jesse, reigned over all Israel.
 
 ---
 

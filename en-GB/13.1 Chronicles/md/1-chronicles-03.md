@@ -115,7 +115,7 @@ The sons of Jeconiah, the prisoner, were:
 
 ## 1 Chronicles 3:18
 
-> and Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.
+> along with Malchiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, and Nedabiah.
 
 ---
 
@@ -130,7 +130,7 @@ The sons of Pedaiah were:
 
 ## 1 Chronicles 3:20
 
-> and Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five in all.
+> together with Hashubah, Ohel, Berechiah, Hasadiah, and Jushab-hesed—five in total.
 
 ---
 

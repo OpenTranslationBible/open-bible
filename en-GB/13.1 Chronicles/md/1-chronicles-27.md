@@ -20,7 +20,7 @@ Jashobeam the son of Zabdiel was over the first division for the first month;
 
 ## 1 Chronicles 27:3
 
-He was from the sons of Perez, and was chief of all the commanders of the army for the first month.
+He was a descendant of Perez and led all the commanders of the army for the first month.
 
 ---
 

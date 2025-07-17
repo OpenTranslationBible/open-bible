@@ -220,4 +220,4 @@ and Jehoahaz his son became king in his place.
 
 ## 2 Kings 10:36
 
-Now the time which Jehu reigned over Israel in Samaria was twenty-eight years.
+Jehu's reign over Israel in Samaria lasted for twenty-eight years.

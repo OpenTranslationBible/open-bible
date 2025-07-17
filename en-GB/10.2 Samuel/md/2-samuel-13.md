@@ -119,7 +119,7 @@ So Tamar stayed and lived in her brother Absalom’s house, desolate.
 
 ## 2 Samuel 13:21
 
-Now when King David heard about all these matters, he became very angry.
+When King David heard about all these matters, he was filled with anger.
 
 ## 2 Samuel 13:22
 

@@ -2,11 +2,11 @@
 
 ## 1 Timothy 5:1
 
-Do not sharply rebuke an older man, but rather appeal to him as a father, to the younger men as brothers,
+Do not harshly correct an older man, but rather encourage him as you would a father, and the younger men as brothers,
 
 ## 1 Timothy 5:2
 
-to the older women as mothers, and to the younger women as sisters, in all purity.
+the older women as mothers, and the younger women as sisters, with complete purity.
 
 ## 1 Timothy 5:3
 
@@ -22,11 +22,11 @@ Now she who is truly a widow and has been left alone has set her hope on God, an
 
 ## 1 Timothy 5:6
 
-But she who indulges herself in luxury is dead even while she lives.
+But the one who lives in self-indulgence is as good as dead, even while she lives.
 
 ## 1 Timothy 5:7
 
-Give these instructions as well, so that they may be above reproach.
+Provide these instructions as well, so that they may be above reproach.
 
 ## 1 Timothy 5:8
 
@@ -34,7 +34,7 @@ But if anyone does not provide for his own, and especially for those of his hous
 
 ## 1 Timothy 5:9
 
-A widow is to be put on the list only if she is not less than sixty years old, having been the wife of one man,
+A widow should be put on the list only if she is at least sixty years old and has been the wife of one man,
 
 ## 1 Timothy 5:10
 
@@ -54,7 +54,7 @@ At the same time they also learn to be idle, going around from house to house; a
 
 ## 1 Timothy 5:14
 
-Therefore, I want younger widows to get married, have children, manage their households, and give the enemy no opportunity for reproach;
+Therefore, I desire younger widows to marry, have children, manage their households, and give the enemy no opportunity for reproach;
 
 ## 1 Timothy 5:15
 
@@ -74,7 +74,7 @@ For the Scripture says, “You shall not muzzle the ox while it is threshing,”
 
 ## 1 Timothy 5:19
 
-Do not accept an accusation against an elder, except on the basis of two or three witnesses.
+Do not entertain an accusation against an elder unless it is confirmed by two or three witnesses.
 
 ## 1 Timothy 5:20
 
@@ -82,20 +82,20 @@ Those who continue in sin, rebuke in the presence of all, so that the rest also 
 
 ## 1 Timothy 5:21
 
-I solemnly exhort you in the presence of God and of Christ Jesus and of His chosen angels, to maintain these principles without bias, doing nothing in a spirit of partiality.
+I earnestly urge you in the presence of God and of Christ Jesus and of His chosen angels, to uphold these principles without bias, doing nothing in a spirit of partiality.
 
 ## 1 Timothy 5:22
 
-Do not lay hands upon anyone too quickly, and thereby share responsibility for the sins of others; keep yourself free from sin.
+Do not hastily lay hands upon anyone and thereby share in the sins of others; keep yourself free from sin.
 
 ## 1 Timothy 5:23
 
-Do not go on drinking only water, but use a little wine for the sake of your stomach and your frequent ailments.
+Do not limit yourself to drinking only water, but use a little wine for the sake of your stomach and your frequent ailments.
 
 ## 1 Timothy 5:24
 
-The sins of some people are quite evident, going before them to judgment; for others, their sins follow after.
+The sins of some people are quite evident, preceding them to judgment; for others, their sins follow after.
 
 ## 1 Timothy 5:25
 
-Likewise also, deeds that are good are quite evident, and those which are otherwise cannot be concealed.
+In the same way, deeds that are good are quite evident, and those which are otherwise cannot be concealed.

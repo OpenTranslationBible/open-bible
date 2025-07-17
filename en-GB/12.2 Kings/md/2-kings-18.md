@@ -199,7 +199,7 @@ But do not listen to Hezekiah, for he misleads you by saying,
 
 ## 2 Kings 18:33
 
-Has any of the gods of the nations actually saved his land from the hand of the king of Assyria?
+Have any of the gods of the nations been able to rescue their land from the hand of the king of Assyria?
 
 ## 2 Kings 18:34
 

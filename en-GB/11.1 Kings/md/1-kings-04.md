@@ -2,7 +2,7 @@
 
 ## 1 Kings 4:1
 
-Now King Solomon was king over all Israel.
+King Solomon reigned over all Israel.
 
 ## 1 Kings 4:2
 
@@ -48,11 +48,11 @@ Ben-deker, in Makaz and Shaalbim, and Beth-shemesh, and Elon-beth-hanan;
 
 ## 1 Kings 4:10
 
-Ben-hesed, in Arubboth (Socoh was his, and all the land of Hepher);
+Ben-hesed, in Arubboth (Socoh belonged to him, along with all the land of Hepher);
 
 ## 1 Kings 4:11
 
-Ben-abinadab, in all the height of Dor (Taphath the daughter of Solomon was his wife);
+Ben-abinadab, in all the height of Dor (Taphath, the daughter of Solomon, was his wife);
 
 ## 1 Kings 4:12
 
@@ -100,7 +100,7 @@ they were eating, drinking, and rejoicing.
 
 ## 1 Kings 4:21
 
-Now Solomon ruled over all the kingdoms  
+Solomon ruled over all the kingdoms  
 from the River to the land of the Philistines and to the border of Egypt;  
 they brought tribute and served Solomon all the days of his life.
 

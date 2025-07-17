@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 33:1
 
-Manasseh was twelve years old when he became king, and he reigned for fifty-five years in Jerusalem.
+Manasseh was twelve years old when he ascended to the throne, and he ruled for fifty-five years in Jerusalem.
 
 ## 2 Chronicles 33:2
 
@@ -15,11 +15,11 @@ he also erected altars for the Baals and made Asherim, and he worshiped all the 
 
 ## 2 Chronicles 33:4
 
-He built altars in the house of the Lord, of which the Lord had said, “My name shall be in Jerusalem forever.”
+He constructed altars in the house of the Lord, about which the Lord had declared, “My name shall be in Jerusalem forever.”
 
 ## 2 Chronicles 33:5
 
-He built altars for all the heavenly lights in the two courtyards of the house of the Lord.
+He made altars for all the heavenly lights in the two courtyards of the house of the Lord.
 
 ## 2 Chronicles 33:6
 
@@ -49,7 +49,7 @@ So Manasseh misled Judah and the inhabitants of Jerusalem to do more evil than t
 
 ## 2 Chronicles 33:10
 
-So the Lord spoke to Manasseh and his people, but they paid no attention.
+So the Lord communicated with Manasseh and his people, but they disregarded Him.
 
 ## 2 Chronicles 33:11
 
@@ -58,7 +58,7 @@ and they captured Manasseh with hooks, bound him with bronze chains, and led him
 
 ## 2 Chronicles 33:12
 
-When he was in distress, he appeased the Lord his God and humbled himself greatly before the God of his fathers.
+When he was in distress, he sought to appease the Lord his God and humbled himself greatly before the God of his fathers.
 
 ## 2 Chronicles 33:13
 
@@ -112,7 +112,7 @@ and his son Amon became king in his place.
 
 ## 2 Chronicles 33:21
 
-Amon was twenty-two years old when he became king, and he reigned for two years in Jerusalem.
+Amon was twenty-two years old when he ascended to the throne, and he ruled for two years in Jerusalem.
 
 ## 2 Chronicles 33:22
 
@@ -126,7 +126,7 @@ but Amon multiplied his guilt.
 
 ## 2 Chronicles 33:24
 
-Finally his servants conspired against him and put him to death in his own house.
+Ultimately, his servants conspired against him and put him to death in his own house.
 
 ## 2 Chronicles 33:25
 

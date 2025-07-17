@@ -122,7 +122,7 @@ and made him king in place of his father Amaziah.
 
 ## 2 Kings 14:22
 
-He built Elath and restored it to Judah after the king lay down with his fathers.
+He built Elath and brought it back to Judah after the king had passed away.
 
 ---
 

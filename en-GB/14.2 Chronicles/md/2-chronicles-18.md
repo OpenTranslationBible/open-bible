@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 18:1
 
-Now Jehoshaphat had great riches and honor; and he allied himself by marriage with Ahab.
+Jehoshaphat possessed abundant wealth and honour; and he formed a marriage alliance with Ahab.
 
 ---
 
@@ -14,13 +14,13 @@ Some years later he went down to Ahab in Samaria. And Ahab slaughtered many shee
 
 ## 2 Chronicles 18:3
 
-Ahab king of Israel said to Jehoshaphat king of Judah, “Will you go with me against Ramoth-gilead?” And he said to him, “I am as you are, and my people as your people, and we will be with you in the battle.”
+Ahab, king of Israel, asked Jehoshaphat, king of Judah, “Will you join me in battle against Ramoth-gilead?” And he replied, “I am as you are, and my people as your people, and we will stand with you in the battle.”
 
 ---
 
 ## 2 Chronicles 18:4
 
-However, Jehoshaphat said to the king of Israel, “Please request the word of the Lord first.”
+Jehoshaphat, however, said to the king of Israel, “Let us first seek the counsel of the Lord.”
 
 ---
 
@@ -56,7 +56,7 @@ Now the king of Israel and Jehoshaphat king of Judah were sitting each on his th
 
 ## 2 Chronicles 18:10
 
-Then Zedekiah the son of Chenaanah made horns of iron for himself and said, “This is what the Lord says: ‘With these you will gore the Arameans until they are destroyed!’”
+Then Zedekiah the son of Chenaanah crafted horns of iron for himself and declared, “This is what the Lord says: ‘With these you will gore the Arameans until they are vanquished!’”
 
 ---
 
@@ -74,7 +74,7 @@ Then the messenger who went to summon Micaiah spoke to him, saying, “Behold, t
 
 ## 2 Chronicles 18:13
 
-But Micaiah said, “As the Lord lives, whatever my God says, I will speak it.”
+But Micaiah said, “As surely as the Lord lives, I will speak whatever my God says.”
 
 ---
 
@@ -116,7 +116,7 @@ And the Lord said, ‘Who will entice Ahab king of Israel to go up and fall at R
 
 ## 2 Chronicles 18:20
 
-Then a spirit came forward and stood before the Lord and said, ‘I will entice him.’ And the Lord said to him, ‘How?’
+Then a spirit came forward and stood before the Lord and said, ‘I will persuade him.’ And the Lord said to him, ‘In what way?’
 
 ---
 
@@ -158,13 +158,13 @@ and say, ‘This is what the king says: “Put this man in prison, and feed him 
 
 ## 2 Chronicles 18:27
 
-But Micaiah said, “If you actually return safely, the Lord has not spoken by me.” And he said, “Listen, all you people!”
+But Micaiah said, “If you indeed return safely, the Lord has not spoken by me.” And he said, “Listen, all you people!”
 
 ---
 
 ## 2 Chronicles 18:28
 
-So the king of Israel and Jehoshaphat king of Judah went up against Ramoth-gilead.
+Thus, the king of Israel and Jehoshaphat, king of Judah, proceeded to Ramoth-gilead.
 
 ---
 
@@ -188,13 +188,13 @@ So when the captains of the chariots saw Jehoshaphat, they said, “It is the ki
 
 ## 2 Chronicles 18:32
 
-When the captains of the chariots saw that it was not the king of Israel, they turned back from pursuing him.
+When the captains of the chariots realised it was not the king of Israel, they turned back from pursuing him.
 
 ---
 
 ## 2 Chronicles 18:33
 
-Now a man drew his bow at random and struck the king of Israel in a joint of the armor.  
+Now a man drew his bow at random and struck the king of Israel in a joint of the armour.  
 So he said to the driver of the chariot, “Turn around and take me out of the battle, for I am severely wounded.”
 
 ---

@@ -2,7 +2,7 @@
 
 ## 2 Samuel 6:1
 
-Now David again gathered all the chosen men of Israel, thirty thousand.
+David once more assembled all the selected men of Israel, thirty thousand.
 
 ## 2 Samuel 6:2
 

@@ -95,13 +95,13 @@ Elishama, Eliada, and Eliphelet.
 
 ## 2 Samuel 5:17
 
-Now when the Philistines heard that they had anointed David king over Israel,  
+When the Philistines heard that they had anointed David king over Israel,  
 all the Philistines went up to search for David.  
 And David heard about it and went down to the stronghold.
 
 ## 2 Samuel 5:18
 
-Now the Philistines came and overran the valley of Rephaim.
+The Philistines came and spread out in the valley of Rephaim.
 
 ## 2 Samuel 5:19
 
@@ -126,8 +126,8 @@ so David and his men carried them away.
 
 ## 2 Samuel 5:22
 
-Now the Philistines came up once again  
-and overran the valley of Rephaim.
+The Philistines came up once again  
+and spread out in the valley of Rephaim.
 
 ## 2 Samuel 5:23
 

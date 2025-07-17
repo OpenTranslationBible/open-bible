@@ -241,7 +241,7 @@ and I will give Israel to you.
 
 ## 1 Kings 11:39
 
-So I will oppress the descendants of David for this, but not always.’”
+So I will afflict the descendants of David for this, but not forever.’”
 
 ---
 
@@ -260,7 +260,7 @@ are they not written in the Book of the Acts of Solomon?
 
 ## 1 Kings 11:42
 
-So the time that Solomon reigned in Jerusalem over all Israel was forty years.
+Thus, Solomon reigned in Jerusalem over all Israel for forty years.
 
 ## 1 Kings 11:43
 

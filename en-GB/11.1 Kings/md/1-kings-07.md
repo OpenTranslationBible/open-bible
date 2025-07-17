@@ -71,7 +71,7 @@ like the inner courtyard of the house of the Lord, and the porch of the house.
 
 ## 1 Kings 7:13
 
-Now King Solomon sent word and had Hiram brought from Tyre.
+At this time, King Solomon sent for Hiram to come from Tyre.
 
 ## 1 Kings 7:14
 
@@ -248,11 +248,11 @@ two rows of pomegranates for each latticework to cover the two bowls of the capi
 
 ## 1 Kings 7:43
 
-and the ten stands with the ten basins on the stands;
+as well as the ten stands with their ten basins;
 
 ## 1 Kings 7:44
 
-and the one Sea and the twelve oxen under the Sea;
+and the large basin, known as the Sea, and the twelve oxen beneath it;
 
 ## 1 Kings 7:45
 

@@ -29,7 +29,7 @@ Why then would you sin against innocent blood by putting David to death without 
 
 ## 1 Samuel 19:6
 
-Saul listened to the voice of Jonathan, and Saul vowed, “As the Lord lives, David shall not be put to death.”
+Saul heeded Jonathan’s words and made an oath, “As surely as the Lord lives, David shall not be put to death.”
 
 ## 1 Samuel 19:7
 

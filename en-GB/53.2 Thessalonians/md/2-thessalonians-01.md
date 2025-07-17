@@ -15,15 +15,15 @@ We ought always to give thanks to God for you, brothers and sisters, as is fitti
 
 ## 2 Thessalonians 1:4
 
-Therefore, we ourselves speak proudly of you among the churches of God for your perseverance and faith in the midst of all your persecutions and afflictions which you endure.
+Thus, we speak highly of you among the churches of God for your perseverance and faith during all your persecutions and afflictions which you endure.
 
 ## 2 Thessalonians 1:5
 
-This is a plain indication of God’s righteous judgment, so that you will be considered worthy of the kingdom of God, for which indeed you are suffering.
+This clearly shows God’s righteous judgment, so that you may be deemed worthy of the kingdom of God, for which indeed you are suffering.
 
 ## 2 Thessalonians 1:6
 
-For after all, it is only right for God to repay with affliction those who afflict you,
+For it is just for God to bring affliction upon those who trouble you,
 
 ## 2 Thessalonians 1:7
 
@@ -31,11 +31,11 @@ and to give relief to you who are afflicted, along with us, when the Lord Jesus 
 
 ## 2 Thessalonians 1:8
 
-dealing out retribution to those who do not know God, and to those who do not obey the gospel of our Lord Jesus.
+bringing justice to those who do not know God and to those who do not follow the gospel of our Lord Jesus.
 
 ## 2 Thessalonians 1:9
 
-These people will pay the penalty of eternal destruction, away from the presence of the Lord and from the glory of His power,
+These individuals will face the consequence of eternal destruction, separated from the presence of the Lord and from the glory of His power,
 
 ## 2 Thessalonians 1:10
 
@@ -47,4 +47,4 @@ To this end we also pray for you always, that our God will consider you worthy o
 
 ## 2 Thessalonians 1:12
 
-so that the name of our Lord Jesus will be glorified in you, and you in Him, according to the grace of our God and the Lord Jesus Christ.
+so that the name of our Lord Jesus may be glorified in you, and you in Him, through the grace of our God and the Lord Jesus Christ.

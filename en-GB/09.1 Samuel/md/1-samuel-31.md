@@ -60,7 +60,7 @@ and they fastened his body to the wall of Beth-shan.
 
 ## 1 Samuel 31:11
 
-Now when the inhabitants of Jabesh-gilead heard what the Philistines had done to Saul,
+When the inhabitants of Jabesh-gilead learned about what the Philistines had done to Saul,
 
 ## 1 Samuel 31:12
 

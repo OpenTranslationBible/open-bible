@@ -10,7 +10,7 @@ Saul and the men of Israel gathered and camped in the Valley of Elah, and formed
 
 ## 1 Samuel 17:3
 
-The Philistines stood on the mountain on one side, while Israel stood on the mountain on the other side, with the valley between them.
+The Philistines positioned themselves on one hill, while Israel took their stand on the opposite hill, with the valley lying between them.
 
 ## 1 Samuel 17:4
 
@@ -22,7 +22,7 @@ He had a bronze helmet on his head, and he wore scale armour which weighed five 
 
 ## 1 Samuel 17:6
 
-He also had bronze greaves on his legs and a bronze javelin slung between his shoulders.
+He also wore bronze leg armour and carried a bronze javelin slung across his shoulders.
 
 ## 1 Samuel 17:7
 
@@ -34,7 +34,7 @@ He stood and shouted to the ranks of Israel and said to them, “Why do you come
 
 ## 1 Samuel 17:9
 
-If he is able to fight me and kill me, then we will become your servants; but if I prevail against him and kill him, then you shall become our servants and serve us.”
+If he is able to fight me and defeat me, then we will become your servants; but if I overcome him and kill him, then you shall become our servants and serve us.”
 
 ## 1 Samuel 17:10
 
@@ -56,7 +56,7 @@ The three oldest sons of Jesse had followed Saul to the battle. The names of his
 
 ## 1 Samuel 17:14
 
-David was the youngest. Now the three oldest followed Saul,
+David was the youngest. The three eldest had gone after Saul,
 
 ## 1 Samuel 17:15
 
@@ -64,7 +64,7 @@ but David went back and forth from Saul to tend his father’s flock in Bethlehe
 
 ## 1 Samuel 17:16
 
-For forty days the Philistine came forward every morning and evening and took his stand.
+For forty days the Philistine came forward each morning and evening and took his stand.
 
 ---
 
@@ -87,7 +87,7 @@ He came to the encampment as the army was going out to the battle line shouting 
 
 ## 1 Samuel 17:21
 
-Israel and the Philistines drew up in battle array, army against army.
+Israel and the Philistines were drawn up in battle formation, army against army.
 
 ## 1 Samuel 17:22
 
@@ -121,7 +121,7 @@ Now Eliab his oldest brother heard when he spoke to the men; and Eliab’s anger
 
 ## 1 Samuel 17:29
 
-But David said, “What have I done now? Was it not just a question?”
+But David said, “What have I done now? Was it not merely a question?”
 
 ## 1 Samuel 17:30
 
@@ -191,7 +191,7 @@ And the Philistine cursed David by his gods.
 
 ## 1 Samuel 17:44
 
-The Philistine also said to David, “Come to me, and I will give your flesh to the birds of the sky and the beasts of the field.”
+The Philistine also said to David, “Come to me, and I will give your flesh to the birds of the sky and the wild animals of the field.”
 
 ---
 
@@ -272,7 +272,7 @@ The king said, “Inquire whose son the youth is.”
 
 ## 1 Samuel 17:57
 
-So when David returned from killing the Philistine, Abner took him and brought him before Saul with the Philistine’s head in his hand.
+So when David returned from defeating the Philistine, Abner took him and brought him before Saul with the Philistine’s head in his hand.
 
 ## 1 Samuel 17:58
 

@@ -2,13 +2,13 @@
 
 ## 2 Chronicles 8:1
 
-Now it came about at the end of the twenty years in which Solomon had built the house of the Lord and his own house,
+At the conclusion of the twenty years during which Solomon constructed the house of the Lord and his own residence,
 
 ---
 
 ## 2 Chronicles 8:2
 
-that he built the cities which Huram had given to him, and settled the sons of Israel there.
+he established the cities that Huram had given to him, and settled the sons of Israel there.
 
 ---
 
@@ -20,7 +20,7 @@ Then Solomon went to Hamath-zobah and captured it.
 
 ## 2 Chronicles 8:4
 
-He built Tadmor in the wilderness and all the storage cities which he had built in Hamath.
+He developed Tadmor in the wilderness and all the storage cities he had established in Hamath.
 
 ---
 
@@ -38,7 +38,7 @@ and Baalath and all the storage cities that Solomon had, and all the cities for 
 
 ## 2 Chronicles 8:7
 
-All of the people who were left of the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, who were not of Israel—
+All the remaining people of the Hittites, the Amorites, the Perizzites, the Hivites, and the Jebusites, who were not of Israel—
 
 ---
 
@@ -56,7 +56,7 @@ But Solomon did not make slaves from the sons of Israel for his work; they were 
 
 ## 2 Chronicles 8:10
 
-These were the chief officers of King Solomon, two hundred and fifty who ruled over the people.
+These were the principal officers of King Solomon, two hundred and fifty who governed the people.
 
 ---
 
@@ -68,7 +68,7 @@ Then Solomon brought Pharaoh’s daughter up from the city of David to the house
 
 ## 2 Chronicles 8:12
 
-Then Solomon offered burnt offerings to the Lord on the altar of the Lord which he had built in front of the porch;
+Solomon then made burnt offerings to the Lord on the altar of the Lord which he had constructed in front of the porch;
 
 ---
 
@@ -86,7 +86,7 @@ Now according to the ordinance of his father David, he appointed the divisions o
 
 ## 2 Chronicles 8:15
 
-And they did not deviate from the commandment of the king to the priests and Levites in any matter, or regarding the storehouses.
+And they adhered faithfully to the king's command to the priests and Levites in every matter, including the storehouses.
 
 ---
 
@@ -98,7 +98,7 @@ So all the work of Solomon was carried out from the day of the foundation of the
 
 ## 2 Chronicles 8:17
 
-Then Solomon went to Ezion-geber and to Eloth on the seashore in the land of Edom.
+Solomon then travelled to Ezion-geber and to Eloth on the seashore in the land of Edom.
 
 ---
 

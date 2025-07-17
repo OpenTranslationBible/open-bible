@@ -110,7 +110,7 @@ and Lower Beth-horon,
 
 ## 1 Kings 9:18
 
-Baalath and Tamar in the wilderness, in the land of Judah,
+Baalath and Tamar in the wilderness region of Judah,
 
 ## 1 Kings 9:19
 

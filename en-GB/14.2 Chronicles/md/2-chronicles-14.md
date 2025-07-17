@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 14:1
 
-So Abijah lay down with his fathers, and they buried him in the city of David; and his son Asa became king in his place. The land was undisturbed for ten years during his days.
+Abijah passed away and was laid to rest in the city of David; his son Asa succeeded him as king. The land experienced peace for ten years during his reign.
 
 ---
 
@@ -14,31 +14,31 @@ Asa did what was good and right in the sight of the Lord his God,
 
 ## 2 Chronicles 14:3
 
-for he removed the foreign altars and high places, tore down the memorial stones, cut down the Asherim,
+for he eliminated the foreign altars and high places, dismantled the memorial stones, and cut down the Asherim,
 
 ---
 
 ## 2 Chronicles 14:4
 
-and commanded Judah to seek the Lord God of their fathers, and to comply with the Law and the commandment.
+and instructed Judah to seek the Lord God of their ancestors and to follow the Law and the commandment.
 
 ---
 
 ## 2 Chronicles 14:5
 
-He also removed the high places and the incense altars from all the cities of Judah. And the kingdom was quiet under him.
+He also removed the high places and the incense altars from all the cities of Judah, and the kingdom enjoyed peace under his rule.
 
 ---
 
 ## 2 Chronicles 14:6
 
-He built fortified cities in Judah, since the land was undisturbed, and there was no one at war with him during those years, because the Lord had given him rest.
+He constructed fortified cities in Judah, as the land was at peace, and there was no conflict during those years, for the Lord had granted him rest.
 
 ---
 
 ## 2 Chronicles 14:7
 
-For he said to Judah, “Let’s build these cities and surround them with walls and towers, gates and bars. The land is still ours because we have sought the Lord our God; we have sought Him, and He has given us rest on every side.” So they built and prospered.
+For he said to Judah, “Let us build these cities and encircle them with walls and towers, gates and bars. The land remains ours because we have sought the Lord our God; we have sought Him, and He has granted us peace on every side.” So they built and prospered.
 
 ---
 
@@ -56,7 +56,7 @@ Now Zerah the Ethiopian went out against them with an army of a million men and 
 
 ## 2 Chronicles 14:10
 
-So Asa went out to meet him, and they drew up in battle formation in the Valley of Zephathah at Mareshah.
+Asa went out to confront him, and they arranged themselves in battle formation in the Valley of Zephathah at Mareshah.
 
 ---
 
@@ -68,7 +68,7 @@ Then Asa called to the Lord his God and said, “Lord, there is no one besides Y
 
 ## 2 Chronicles 14:12
 
-So the Lord routed the Ethiopians before Asa and before Judah, and the Ethiopians fled.
+The Lord defeated the Ethiopians before Asa and Judah, and the Ethiopians fled.
 
 ---
 

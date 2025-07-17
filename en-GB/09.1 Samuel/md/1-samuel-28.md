@@ -24,7 +24,7 @@ and Saul gathered all Israel together, and they camped in Gilboa.
 
 ## 1 Samuel 28:5
 
-When Saul saw the camp of the Philistines, he was afraid and his heart trembled greatly.
+When Saul observed the Philistine camp, he was filled with fear and his heart trembled intensely.
 
 ## 1 Samuel 28:6
 
@@ -87,7 +87,7 @@ Therefore I have called you, so that you may let me know what I should do.”
 
 ## 1 Samuel 28:16
 
-Samuel said, “Why then do you ask me, since the Lord has left you and has become your enemy?
+Samuel said, “Why then do you ask me, since the Lord has left you and is now opposed to you?
 
 ## 1 Samuel 28:17
 

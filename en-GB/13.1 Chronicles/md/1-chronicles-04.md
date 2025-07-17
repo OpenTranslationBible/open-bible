@@ -241,7 +241,7 @@ but his brothers did not have many sons,
 
 ## 1 Chronicles 4:28
 
-They lived in Beersheba, Moladah, and Hazar-shual,
+They resided in Beersheba, Moladah, and Hazar-shual,
 
 ## 1 Chronicles 4:29
 
@@ -277,7 +277,7 @@ and all their settlements which were around these cities as far as Baal.
 
 ## 1 Chronicles 4:34
 
-Meshobab and Jamlech and Joshah the son of Amaziah,
+Meshobab, Jamlech, and Joshah the son of Amaziah,
 
 ## 1 Chronicles 4:35
 
@@ -285,7 +285,7 @@ and Joel and Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel,
 
 ## 1 Chronicles 4:36
 
-and Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah,
+and Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, and Benaiah,
 
 ## 1 Chronicles 4:37
 

@@ -48,7 +48,7 @@ Jonathan said, “Far be it from you! For if I indeed learn that my father has d
 
 ## 1 Samuel 20:10
 
-Then David said to Jonathan, “Who will inform me if your father answers you harshly?”
+Then David asked Jonathan, “How will I know if your father responds to you harshly?”
 
 ## 1 Samuel 20:11
 
@@ -78,7 +78,7 @@ not even when the Lord eliminates every one of the enemies of David from the fac
 
 ## 1 Samuel 20:16
 
-So Jonathan made a covenant with the house of David, saying, “May the Lord demand it from the hands of David’s enemies.”
+So Jonathan made a covenant with the house of David, saying, “May the Lord call David’s enemies to account.”
 
 ## 1 Samuel 20:17
 
@@ -98,7 +98,7 @@ and you shall stay beside the stone Ezel.
 
 ## 1 Samuel 20:20
 
-And I will shoot three arrows to the side as though I shot at a target.
+And I will shoot three arrows to the side, as if aiming at a target.
 
 ## 1 Samuel 20:21
 
@@ -160,11 +160,11 @@ Now then, send someone and bring him to me, for he is doomed to die!”
 
 ## 1 Samuel 20:32
 
-But Jonathan replied to his father Saul and said to him, “Why must he be put to death? What has he done?”
+But Jonathan replied to his father Saul and asked, “Why should he be put to death? What has he done?”
 
 ## 1 Samuel 20:33
 
-Then Saul hurled his spear at him to strike him down; so Jonathan knew that his father had decided to put David to death.
+Then Saul hurled his spear at him to strike him down; so Jonathan knew that his father was determined to put David to death.
 
 ## 1 Samuel 20:34
 
@@ -195,11 +195,11 @@ And Jonathan’s boy picked up the arrow and came to his master.
 
 ## 1 Samuel 20:39
 
-But the boy did not know anything; only Jonathan and David knew the matter.
+But the boy was unaware of anything; only Jonathan and David understood the matter.
 
 ## 1 Samuel 20:40
 
-Then Jonathan gave his weapons to his boy and said to him, “Go, bring them to the city.”
+Then Jonathan handed his weapons to his boy and instructed him, “Go, take them to the city.”
 
 ## 1 Samuel 20:41
 

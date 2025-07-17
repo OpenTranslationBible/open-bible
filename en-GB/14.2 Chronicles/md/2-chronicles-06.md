@@ -278,7 +278,7 @@ and the house which I have built for Your name,
 
 ## 2 Chronicles 6:35
 
-then hear from heaven their prayer and their pleading, and maintain their cause.
+then hear from heaven their prayer and their pleading, and uphold their cause.
 
 ---
 
@@ -311,14 +311,14 @@ and toward the house which I have built for Your name,
 ## 2 Chronicles 6:39
 
 then hear from heaven, from Your dwelling place, their prayer and their pleadings,  
-and maintain their cause,  
+and uphold their cause,  
 and forgive Your people who have sinned against You.
 
 ---
 
 ## 2 Chronicles 6:40
 
-Now, my God, please, let Your eyes be open and Your ears attentive to the prayer offered in this place.
+Now, my God, let Your eyes be open and Your ears attentive to the prayer offered in this place.
 
 ---
 

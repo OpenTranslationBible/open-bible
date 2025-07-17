@@ -127,4 +127,4 @@ And he said,
 
 ## 2 Kings 7:20
 
-And so it happened to him, for the people trampled on him at the gate, and he died.
+And indeed, this is what occurred to him: the people trampled on him at the gate, and he died.

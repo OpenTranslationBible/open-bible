@@ -60,7 +60,7 @@ than the nations whom the Lord destroyed before the sons of Israel.
 
 ## 2 Kings 21:10
 
-Now the Lord spoke through His servants the prophets, saying,
+The Lord conveyed His message through His servants the prophets, saying,
 
 ## 2 Kings 21:11
 

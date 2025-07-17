@@ -12,7 +12,7 @@ And I have directed the young men to a certain place.
 
 ## 1 Samuel 21:3
 
-Now then, what do you have on hand? Give me five loaves of bread, or whatever can be found.”
+So, what provisions do you have available? Give me five loaves of bread, or whatever can be found.”
 
 ## 1 Samuel 21:4
 
@@ -50,7 +50,7 @@ And David said, “There is none like it; give it to me.”
 
 ## 1 Samuel 21:10
 
-Then David arose and fled that day from Saul, and went to Achish king of Gath.
+Then David got up and escaped that day from Saul, and went to Achish king of Gath.
 
 ## 1 Samuel 21:11
 
@@ -62,7 +62,7 @@ But the servants of Achish said to him,
 
 ## 1 Samuel 21:12
 
-David took these words to heart and greatly feared Achish king of Gath.
+David pondered these words and became very afraid of Achish king of Gath.
 
 ## 1 Samuel 21:13
 

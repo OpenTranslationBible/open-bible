@@ -230,7 +230,7 @@ However, King David said to Ornan,
 
 ## 1 Chronicles 21:25
 
-So David gave Ornan six hundred shekels of gold by weight for the site.
+So David paid Ornan six hundred shekels of gold by weight for the site.
 
 ---
 

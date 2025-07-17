@@ -30,7 +30,7 @@ Then he consecrated Jesse and his sons and invited them to the sacrifice.
 
 ## 1 Samuel 16:6
 
-When they entered, he looked at Eliab and thought, “Surely the Lord’s anointed is before Him.”
+As they arrived, he observed Eliab and thought, “Surely the Lord’s anointed stands here before Him.”
 
 ## 1 Samuel 16:7
 
@@ -97,7 +97,7 @@ he shall play, and you will be well.”
 
 ## 1 Samuel 16:17
 
-So Saul said to his servants, “Provide for me now a man who can play well and bring him to me.”
+So Saul instructed his servants, “Find me someone who can play well and bring him to me.”
 
 ## 1 Samuel 16:18
 
@@ -110,7 +110,7 @@ and the Lord is with him.”
 
 ## 1 Samuel 16:19
 
-So Saul sent messengers to Jesse and said, “Send me your son David, who is with the flock.”
+So Saul sent messengers to Jesse with the request, “Send me your son David, who is with the flock.”
 
 ## 1 Samuel 16:20
 

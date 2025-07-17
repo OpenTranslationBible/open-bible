@@ -18,7 +18,7 @@ until I know what God will do for me.”
 
 ## 1 Samuel 22:4
 
-Then he left them with the king of Moab; and they stayed with him all the time that David was in the stronghold.
+He entrusted them to the king of Moab; and they remained with him for as long as David was in the stronghold.
 
 ## 1 Samuel 22:5
 
@@ -89,7 +89,7 @@ for your servant knows nothing at all of this whole affair.”
 
 ## 1 Samuel 22:16
 
-But the king said, “You shall certainly die, Ahimelech, you and all your father’s household!”
+But the king declared, “Ahimelech, you and all your father’s household shall surely die!”
 
 ## 1 Samuel 22:17
 
@@ -113,11 +113,11 @@ both men and women, children and infants; also oxen, donkeys, and sheep he struc
 
 ## 1 Samuel 22:20
 
-But one son of Ahimelech the son of Ahitub, named Abiathar, escaped and fled after David.
+However, one son of Ahimelech, the son of Ahitub, named Abiathar, managed to escape and fled to David.
 
 ## 1 Samuel 22:21
 
-Abiathar informed David that Saul had killed the priests of the Lord.
+Abiathar told David that Saul had slain the priests of the Lord.
 
 ## 1 Samuel 22:22
 

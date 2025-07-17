@@ -41,11 +41,11 @@ and the tithe of sacred gifts which were consecrated to the Lord their God, and 
 
 ## 2 Chronicles 31:7
 
-In the third month they began to make the heaps, and they finished them by the seventh month.
+They commenced gathering the heaps in the third month and completed them by the seventh month.
 
 ## 2 Chronicles 31:8
 
-When Hezekiah and the rulers came and saw the heaps, they blessed the Lord and His people Israel.
+When Hezekiah and the rulers came and observed the heaps, they praised the Lord and His people Israel.
 
 ---
 
@@ -64,7 +64,7 @@ for the Lord has blessed His people, and this great quantity is left over.”
 
 ## 2 Chronicles 31:11
 
-Then Hezekiah commanded them to prepare rooms in the house of the Lord, and they prepared them.
+Then Hezekiah instructed them to prepare chambers in the house of the Lord, and they made them ready.
 
 ## 2 Chronicles 31:12
 

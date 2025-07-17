@@ -8,7 +8,7 @@ Grace to you and peace.
 
 ## 1 Thessalonians 1:2
 
-We always give thanks to God for all of you, making mention of you in our prayers;
+We continually express our gratitude to God for all of you, remembering you in our prayers;
 
 ## 1 Thessalonians 1:3
 
@@ -16,7 +16,7 @@ constantly keeping in mind your work of faith, labour of love, and perseverance 
 
 ## 1 Thessalonians 1:4
 
-knowing, brothers and sisters beloved by God, His choice of you;
+being aware, dear brothers and sisters loved by God, of His selection of you;
 
 ## 1 Thessalonians 1:5
 
@@ -24,7 +24,7 @@ for our gospel did not come to you in word only, but also in power and in the Ho
 
 ## 1 Thessalonians 1:6
 
-You also became imitators of us and of the Lord, having received the word during great affliction with the joy of the Holy Spirit,
+You became followers of us and of the Lord, having embraced the word amidst great affliction with the joy of the Holy Spirit,
 
 ## 1 Thessalonians 1:7
 
@@ -32,12 +32,12 @@ so that you became an example to all the believers in Macedonia and Achaia.
 
 ## 1 Thessalonians 1:8
 
-For the word of the Lord has sounded forth from you, not only in Macedonia and Achaia, but in every place the news of your faith toward God has gone out, so that we have no need to say anything.
+For the word of the Lord has echoed from you, not only in Macedonia and Achaia, but in every place your faith in God has become known, so that we have no need to say anything.
 
 ## 1 Thessalonians 1:9
 
-For they themselves report about us as to the kind of reception we had with you, and how you turned to God from idols to serve a living and true God,
+For they themselves recount to us the kind of welcome we received from you, and how you turned to God from idols to serve the living and true God,
 
 ## 1 Thessalonians 1:10
 
-and to wait for His Son from heaven, whom He raised from the dead—Jesus, who rescues us from the wrath to come.
+and to wait for His Son from heaven, whom He raised from the dead—Jesus, who rescues us from the coming wrath.

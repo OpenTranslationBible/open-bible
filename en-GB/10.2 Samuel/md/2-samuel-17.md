@@ -19,7 +19,7 @@ then all the people will be at peace.”
 
 ## 2 Samuel 17:4
 
-And the advice seemed right in the eyes of Absalom and all the elders of Israel.
+Absalom and all the elders of Israel found the advice agreeable.
 
 ---
 

@@ -14,15 +14,15 @@ Your adornment must not be the external—braiding the hair, wearing gold jewell
 
 ## 1 Peter 3:4
 
-but it should be the hidden person of the heart, with the imperishable quality of a gentle and quiet spirit, which is precious in the sight of God.
+but let it be the inner self, with the enduring beauty of a gentle and quiet spirit, which is valuable in God's eyes.
 
 ## 1 Peter 3:5
 
-For in this way the holy women of former times, who hoped in God, also used to adorn themselves, being subject to their own husbands,
+For in this manner, the holy women of the past, who placed their hope in God, used to adorn themselves, being supportive to their own husbands,
 
 ## 1 Peter 3:6
 
-just as Sarah obeyed Abraham, calling him lord; and you have proved to be her children if you do what is right without being frightened by any fear.
+just as Sarah obeyed Abraham, calling him lord; and you have become her children if you do what is right without giving way to fear.
 
 ## 1 Peter 3:7
 
@@ -30,19 +30,19 @@ You husbands in the same way, live with your wives in an understanding way, as w
 
 ## 1 Peter 3:8
 
-To sum up, all of you be harmonious, sympathetic, loving, compassionate, and humble;
+Finally, all of you be harmonious, sympathetic, loving, compassionate, and humble;
 
 ## 1 Peter 3:9
 
-not returning evil for evil or insult for insult, but giving a blessing instead; for you were called for the very purpose that you would inherit a blessing.
+not returning evil for evil or insult for insult, but offering a blessing instead; for you were called for this very purpose, that you might inherit a blessing.
 
 ## 1 Peter 3:10
 
 For,
 
-> “The one who desires life,
+> “The one who desires life,  
 > to love and see good days,  
-> Must keep his tongue from evil
+> Must keep his tongue from evil  
 > and his lips from speaking deceit.
 
 ## 1 Peter 3:11
@@ -58,11 +58,11 @@ For,
 
 ## 1 Peter 3:13
 
-And who is there to harm you if you prove zealous for what is good?
+And who is there to harm you if you are eager to do good?
 
 ## 1 Peter 3:14
 
-But even if you should suffer for the sake of righteousness, you are blessed. And do not fear their intimidation, and do not be in dread,
+But even if you should suffer for doing what is right, you are blessed. Do not fear their threats, nor be troubled,
 
 ## 1 Peter 3:15
 
@@ -74,24 +74,24 @@ and keep a good conscience so that in the thing in which you are slandered, thos
 
 ## 1 Peter 3:17
 
-For it is better, if God should will it so, that you suffer for doing what is right rather than for doing what is wrong.
+For it is better, if it is God's will, that you suffer for doing good rather than for doing evil.
 
 ## 1 Peter 3:18
 
-For Christ also suffered for sins once for all time, the just for the unjust, so that He might bring us to God, having been put to death in the flesh, but made alive in the spirit;
+For Christ also suffered for sins once for all, the righteous for the unrighteous, to bring you to God. He was put to death in the body but made alive in the spirit;
 
 ## 1 Peter 3:19
 
-in which He also went and made proclamation to the spirits in prison,
+in which He went and made proclamation to the spirits in confinement,
 
 ## 1 Peter 3:20
 
-who once were disobedient, when the patience of God kept waiting in the days of Noah, during the construction of the ark, in which a few, that is, eight persons, were brought safely through the water.
+who were disobedient long ago, when God waited patiently in the days of Noah while the ark was being built. In it only a few people, eight in all, were saved through water.
 
 ## 1 Peter 3:21
 
-Corresponding to that, baptism now saves you—not the removal of dirt from the flesh, but an appeal to God for a good conscience—through the resurrection of Jesus Christ,
+And this water symbolises baptism that now saves you also—not the removal of dirt from the body but the pledge of a clear conscience toward God. It saves you by the resurrection of Jesus Christ,
 
 ## 1 Peter 3:22
 
-who is at the right hand of God, having gone into heaven, after angels and authorities and powers had been subjected to Him.
+who has ascended into heaven and is at the right hand of God—with angels, authorities, and powers made subject to Him.

@@ -370,7 +370,7 @@ they gave twelve cities from the tribes of Reuben, Gad, and Zebulun.
 
 ## 1 Chronicles 6:64
 
-So the sons of Israel gave the Levites the cities with their pasture lands.
+Thus, the Israelites provided the Levites with the cities and their pasture lands.
 
 ---
 
@@ -402,7 +402,7 @@ They gave them the cities of refuge:
 
 ## 1 Chronicles 6:69
 
-> Aijalon with its pasture lands, and Gath-rimmon with its pasture lands;
+> Aijalon with its grazing areas, and Gath-rimmon with its grazing areas;
 
 ---
 

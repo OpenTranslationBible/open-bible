@@ -84,7 +84,7 @@ Then she turned and went to her own land, she and her servants.
 
 ## 1 Kings 10:14
 
-Now the weight of gold that came to Solomon in one year was six hundred and sixty-six talents of gold,
+The amount of gold that came to Solomon in one year was six hundred and sixty-six talents of gold,
 
 ## 1 Kings 10:15
 

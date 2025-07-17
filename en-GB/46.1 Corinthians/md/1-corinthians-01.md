@@ -2,7 +2,7 @@
 
 ## 1 Corinthians 1:1
 
-Paul, called as an apostle of Jesus Christ by the will of God, and Sosthenes our brother,
+Paul, appointed as an apostle of Jesus Christ by God's will, and Sosthenes our brother,
 
 ## 1 Corinthians 1:2
 
@@ -14,23 +14,23 @@ Grace to you and peace from God our Father and the Lord Jesus Christ.
 
 ## 1 Corinthians 1:4
 
-I thank my God always concerning you for the grace of God which was given you in Christ Jesus,
+I continually thank my God for you because of the grace of God given to you in Christ Jesus,
 
 ## 1 Corinthians 1:5
 
-That in everything you were enriched in Him, in all speech and all knowledge,
+That in every respect you were enriched in Him, in all speech and all knowledge,
 
 ## 1 Corinthians 1:6
 
-Just as the testimony concerning Christ was confirmed in you,
+Just as the testimony about Christ was confirmed among you,
 
 ## 1 Corinthians 1:7
 
-So that you are not lacking in any gift, as you eagerly await the revelation of our Lord Jesus Christ,
+So that you do not lack any spiritual gift as you eagerly await the revealing of our Lord Jesus Christ,
 
 ## 1 Corinthians 1:8
 
-Who will also confirm you to the end, blameless on the day of our Lord Jesus Christ.
+Who will also sustain you to the end, blameless on the day of our Lord Jesus Christ.
 
 ## 1 Corinthians 1:9
 
@@ -42,7 +42,7 @@ Now I urge you, brothers and sisters, by the name of our Lord Jesus Christ, that
 
 ## 1 Corinthians 1:11
 
-For I have been informed concerning you, my brothers and sisters, by Chloe’s people, that there are quarrels among you.
+For I have been informed about you, my brothers and sisters, by Chloe’s people, that there are quarrels among you.
 
 ## 1 Corinthians 1:12
 
@@ -66,11 +66,11 @@ But I did baptise the household of Stephanas also; beyond that, I do not know wh
 
 ## 1 Corinthians 1:17
 
-For Christ did not send me to baptise, but to preach the gospel, not in cleverness of speech, so that the cross of Christ would not be made void.
+For Christ did not send me to baptise, but to preach the gospel, not with eloquent wisdom, so that the cross of Christ would not be made void.
 
 ## 1 Corinthians 1:18
 
-For the word of the cross is foolishness to those who are perishing, but to us who are being saved it is the power of God.
+For the message of the cross is foolishness to those who are perishing, but to us who are being saved, it is the power of God.
 
 ## 1 Corinthians 1:19
 
@@ -81,27 +81,27 @@ For it is written:
 
 ## 1 Corinthians 1:20
 
-Where is the wise person? Where is the scribe? Where is the debater of this age? Has God not made foolish the wisdom of the world?
+Where is the wise person? Where is the scribe? Where is the debater of this age? Has God not shown the wisdom of the world to be foolish?
 
 ## 1 Corinthians 1:21
 
-For since in the wisdom of God the world through its wisdom did not come to know God, God was pleased through the foolishness of the message preached to save those who believe.
+For since in God's wisdom the world through its wisdom did not come to know God, God was pleased through the perceived foolishness of the message preached to save those who believe.
 
 ## 1 Corinthians 1:22
 
-For indeed Jews ask for signs, and Greeks search for wisdom;
+For indeed Jews ask for signs, and Greeks seek wisdom;
 
 ## 1 Corinthians 1:23
 
-But we preach Christ crucified, to Jews a stumbling block, and to Gentiles foolishness,
+But we declare Christ crucified, an obstacle to Jews and folly to Gentiles,
 
 ## 1 Corinthians 1:24
 
-But to those who are the called, both Jews and Greeks, Christ the power of God and the wisdom of God.
+But to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
 
 ## 1 Corinthians 1:25
 
-For the foolishness of God is wiser than mankind, and the weakness of God is stronger than mankind.
+For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength.
 
 ## 1 Corinthians 1:26
 
@@ -125,4 +125,4 @@ But it is due to Him that you are in Christ Jesus, who became to us wisdom from 
 
 ## 1 Corinthians 1:31
 
-So that, just as it is written: “Let the one who boasts, boast in the Lord.”
+So that, as it is written: “Let the one who boasts, boast in the Lord.”

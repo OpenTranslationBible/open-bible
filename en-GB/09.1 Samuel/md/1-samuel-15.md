@@ -55,7 +55,7 @@ Samuel rose early in the morning to meet Saul; and it was reported to Samuel, sa
 
 ## 1 Samuel 15:13
 
-Samuel came to Saul, and Saul said to him, “Blessed are you of the Lord! I have carried out the command of the Lord.”
+When Samuel reached Saul, Saul greeted him, saying, “May you be blessed by the Lord! I have fulfilled the Lord's command.”
 
 ## 1 Samuel 15:14
 
@@ -63,7 +63,7 @@ But Samuel said, “Then what is this bleating of the sheep in my ears, and the 
 
 ## 1 Samuel 15:15
 
-Saul said, “They have brought them from the Amalekites, for the people spared the best of the sheep and oxen to sacrifice to the Lord your God; but the rest we have completely destroyed.”
+Saul replied, “They were brought from the Amalekites, for the people spared the best of the sheep and oxen to offer as a sacrifice to the Lord your God; but the rest we have completely destroyed.”
 
 ---
 
@@ -74,15 +74,15 @@ And he said to him, “Speak.”
 
 ## 1 Samuel 15:17
 
-Samuel said, “Is it not true, though you were little in your own eyes, you were made the head of the tribes of Israel? And the Lord anointed you king over Israel,
+Samuel said, “Though you considered yourself insignificant, were you not made the leader of the tribes of Israel? And the Lord anointed you king over Israel,
 
 ## 1 Samuel 15:18
 
-and the Lord sent you on a mission and said, ‘Go and utterly destroy the sinners, the Amalekites, and fight against them until they are exterminated.’
+and the Lord sent you on a mission, instructing you to ‘Go and completely destroy the sinful Amalekites, and fight against them until they are no more.’
 
 ## 1 Samuel 15:19
 
-Why then did you not obey the voice of the Lord, but rushed upon the spoil and did what was evil in the sight of the Lord?”
+Why then did you not obey the voice of the Lord, but instead seized the plunder and did what was wrong in the sight of the Lord?”
 
 ## 1 Samuel 15:20
 
@@ -114,7 +114,7 @@ Samuel said,
 
 ## 1 Samuel 15:24
 
-Then Saul said to Samuel, “I have sinned; I have indeed transgressed the command of the Lord and your words, because I feared the people and listened to their voice.
+Then Saul said to Samuel, “I have sinned; I have indeed disobeyed the command of the Lord and your words, because I feared the people and listened to their voice.
 
 ## 1 Samuel 15:25
 
@@ -134,7 +134,7 @@ So Samuel said to him, “The Lord has torn the kingdom of Israel from you today
 
 ## 1 Samuel 15:29
 
-Also the Glory of Israel will not lie or change His mind; for He is not a man, that He should change His mind.”
+Moreover, the Glory of Israel will not deceive or change His mind; for He is not a man that He should change His mind.”
 
 ---
 
@@ -157,11 +157,11 @@ But Samuel said,
 
 > “As your sword has made women childless,  
 > So shall your mother be childless among women.”  
-> And Samuel hacked Agag to pieces before the Lord at Gilgal.
+> And Samuel executed Agag before the Lord at Gilgal.
 
 ## 1 Samuel 15:34
 
-Then Samuel went to Ramah, but Saul went up to his house at Gibeah of Saul.
+Then Samuel went to Ramah, while Saul went up to his house at Gibeah of Saul.
 
 ## 1 Samuel 15:35
 

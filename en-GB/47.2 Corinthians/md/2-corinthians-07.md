@@ -2,31 +2,31 @@
 
 ## 2 Corinthians 7:1
 
-Therefore, having these promises, beloved, let us cleanse ourselves from all defilement of flesh and spirit, perfecting holiness in the fear of God.
+Therefore, since we have these promises, dear friends, let us purify ourselves from everything that contaminates body and spirit, striving for holiness out of reverence for God.
 
 ## 2 Corinthians 7:2
 
-Make room for us in your hearts; we wronged no one, we corrupted no one, we took advantage of no one.
+Open your hearts to us. We have wronged no one, corrupted no one, and taken advantage of no one.
 
 ## 2 Corinthians 7:3
 
-I do not speak to condemn you, for I have said before that you are in our hearts, to die together and to live together.
+I am not saying this to condemn you, for I have mentioned before that you are in our hearts, to share both death and life together.
 
 ## 2 Corinthians 7:4
 
-Great is my confidence in you; great is my boasting on your behalf. I am filled with comfort; I am overflowing with joy in all our affliction.
+My confidence in you is great; my pride in you is immense. I am filled with comfort; I am overflowing with joy despite all our troubles.
 
 ## 2 Corinthians 7:5
 
-For even when we came into Macedonia, our flesh had no rest, but we were afflicted on every side: conflicts on the outside, fears within.
+For even when we arrived in Macedonia, we found no rest for our bodies, but we were troubled on every side: conflicts on the outside, fears within.
 
 ## 2 Corinthians 7:6
 
-But God, who comforts the discouraged, comforted us by the arrival of Titus;
+But God, who encourages the downcast, encouraged us by the coming of Titus;
 
 ## 2 Corinthians 7:7
 
-And not only by his arrival, but also by the comfort with which he was comforted among you, as he reported to us your longing, your mourning, your zeal for me; so that I rejoiced even more.
+And not only by his coming, but also by the encouragement he received from you, as he told us about your longing, your mourning, your enthusiasm for me; so that I was even more joyful.
 
 ## 2 Corinthians 7:8
 
@@ -34,15 +34,15 @@ For though I caused you sorrow by my letter, I do not regret it; though I did re
 
 ## 2 Corinthians 7:9
 
-I now rejoice, not that you were made sorrowful, but that you were made sorrowful to the point of repentance; for you were made sorrowful according to the will of God, so that you suffered no loss from us.
+I now rejoice, not because you were made sorrowful, but because your sorrow led to repentance; for you were made sorrowful in a way that aligns with God's will, so that you suffered no loss from us.
 
 ## 2 Corinthians 7:10
 
-For the sorrow that is according to the will of God produces a repentance without regret, leading to salvation, but the sorrow of the world produces death.
+For the sorrow that aligns with God's will brings a repentance that leads to salvation and leaves no regret, but worldly sorrow brings death.
 
 ## 2 Corinthians 7:11
 
-For behold what earnestness this very thing—this godly sorrow—has produced in you: what vindication of yourselves, what indignation, what fear, what longing, what zeal, what punishment of wrong! In everything you demonstrated yourselves to be innocent in the matter.
+For behold what earnestness this very thing—this godly sorrow—has produced in you: what vindication of yourselves, what indignation, what fear, what longing, what zeal, what correction of wrong! In everything you demonstrated yourselves to be innocent in the matter.
 
 ## 2 Corinthians 7:12
 
@@ -58,8 +58,8 @@ For if I have boasted to him about you in anything, I was not put to shame; but 
 
 ## 2 Corinthians 7:15
 
-His affection abounds all the more toward you, as he remembers the obedience of you all, how you received him with fear and trembling.
+His affection for you grows all the more, as he remembers the obedience of you all, how you received him with respect and humility.
 
 ## 2 Corinthians 7:16
 
-I rejoice that in everything I have confidence in you.
+I am glad that in everything I have confidence in you.

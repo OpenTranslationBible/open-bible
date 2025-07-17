@@ -98,7 +98,7 @@ But the bronze altar shall be for me to inquire by.”
 
 ## 2 Kings 16:16
 
-So Uriah the priest did everything just as King Ahaz commanded.
+So Uriah the priest carried out all that King Ahaz instructed.
 
 ---
 

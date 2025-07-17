@@ -38,7 +38,7 @@ and found them to be 300,000 choice men, able to go to war and handle spear and 
 
 ## 2 Chronicles 25:6
 
-He also hired a hundred thousand valiant warriors from Israel for a hundred talents of silver.
+He also engaged a hundred thousand brave warriors from Israel for a hundred talents of silver.
 
 ---
 
@@ -158,7 +158,7 @@ So Joash king of Israel went up, and he and Amaziah king of Judah faced each oth
 
 ## 2 Chronicles 25:22
 
-And Judah was defeated by Israel, and they fled, every man to his tent.
+And Judah was overcome by Israel, and they fled, each man to his tent.
 
 ---
 
@@ -179,13 +179,13 @@ and the treasures of the king’s house, the hostages as well, and returned to S
 
 ## 2 Chronicles 25:25
 
-And Amaziah the son of Joash, king of Judah, lived for fifteen years after the death of Joash son of Jehoahaz, king of Israel.
+And Amaziah, the son of Joash, king of Judah, continued to live for fifteen years after the death of Joash, son of Jehoahaz, king of Israel.
 
 ---
 
 ## 2 Chronicles 25:26
 
-Now the rest of the acts of Amaziah, from the first to the last, behold, are they not written in the Book of the Kings of Judah and Israel?
+Now the remainder of the acts of Amaziah, from the first to the last, behold, are they not written in the Book of the Kings of Judah and Israel?
 
 ---
 

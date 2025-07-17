@@ -7,7 +7,7 @@ and encamped against the fortified cities, and intended to break into them for h
 
 ## 2 Chronicles 32:2
 
-Now when Hezekiah saw that Sennacherib had come and that he intended to wage war against Jerusalem,
+When Hezekiah realised that Sennacherib had come and planned to make war against Jerusalem,
 
 ## 2 Chronicles 32:3
 
@@ -27,7 +27,7 @@ and built another outside wall and strengthened the Millo in the city of David, 
 
 ## 2 Chronicles 32:6
 
-He appointed military officers over the people and gathered them to him in the square at the city gate, and spoke encouragingly to them, saying,
+Hezekiah appointed military officers over the people, gathered them to him in the square at the city gate, and spoke to them with encouragement, saying,
 
 ## 2 Chronicles 32:7
 
@@ -112,7 +112,7 @@ the work of human hands.
 
 ## 2 Chronicles 32:20
 
-But King Hezekiah and Isaiah the prophet, the son of Amoz, prayed about this and cried out to heaven.
+However, King Hezekiah and Isaiah the prophet, the son of Amoz, prayed about this and cried out to heaven.
 
 ## 2 Chronicles 32:21
 
@@ -153,7 +153,7 @@ so that the wrath of the Lord did not come on them in the days of Hezekiah.
 
 ## 2 Chronicles 32:27
 
-Now Hezekiah had immense riches and honor; and he made for himself treasuries for silver, gold, precious stones, spices, shields, and all kinds of valuable articles,
+Hezekiah possessed immense riches and honour; and he made for himself treasuries for silver, gold, precious stones, spices, shields, and all kinds of valuable articles,
 
 ## 2 Chronicles 32:28
 
@@ -187,5 +187,5 @@ in the Book of the Kings of Judah and Israel.
 ## 2 Chronicles 32:33
 
 So Hezekiah lay down with his fathers, and they buried him in the upper section of the tombs of the sons of David;  
-and all Judah and the inhabitants of Jerusalem honored him at his death.  
+and all Judah and the inhabitants of Jerusalem honoured him at his death.  
 And his son Manasseh became king in his place.

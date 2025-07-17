@@ -2,64 +2,64 @@
 
 ## 1 Timothy 4:1
 
-But the Spirit explicitly says that in later times some will fall away from the faith, paying attention to deceitful spirits and teachings of demons,
+Yet the Spirit clearly indicates that in later times some will depart from the faith, giving heed to misleading spirits and doctrines of evil,
 
 ## 1 Timothy 4:2
 
-by means of the hypocrisy of liars seared in their own conscience as with a branding iron,
+through the insincerity of those who speak falsehoods, their consciences being as if branded with a hot iron,
 
 ## 1 Timothy 4:3
 
-who forbid marriage and advocate abstaining from foods which God has created to be gratefully shared in by those who believe and know the truth.
+who prohibit marriage and advocate abstaining from foods which God has created to be received with gratitude by those who believe and know the truth.
 
 ## 1 Timothy 4:4
 
-For everything created by God is good, and nothing is to be rejected if it is received with gratitude;
+For everything God has created is good, and nothing is to be refused if it is received with thankfulness;
 
 ## 1 Timothy 4:5
 
-for it is sanctified by means of the word of God and prayer.
+for it is sanctified through the word of God and prayer.
 
 ## 1 Timothy 4:6
 
-In pointing out these things to the brothers and sisters, you will be a good servant of Christ Jesus, constantly nourished on the words of the faith and of the good doctrine which you have been following.
+By reminding the brothers and sisters of these things, you will be a good servant of Christ Jesus, continually nourished by the words of faith and the sound teaching which you have been following.
 
 ## 1 Timothy 4:7
 
-But stay away from worthless stories that are typical of old women, and discipline yourself for the purpose of godliness;
+But avoid pointless tales typical of old women, and train yourself for the purpose of godliness;
 
 ## 1 Timothy 4:8
 
-for bodily training is just slightly beneficial, but godliness is beneficial for all things, since it holds promise for the present life and also for the life to come.
+for physical training has some value, but godliness is valuable in every way, as it holds promise for both the present life and the life to come.
 
 ## 1 Timothy 4:9
 
-It is a trustworthy statement, deserving full acceptance.
+This is a statement worthy of full acceptance.
 
 ## 1 Timothy 4:10
 
-For it is for this we labour and strive, because we have set our hope on the living God, who is the Saviour of all mankind, especially of believers.
+For it is for this we labour and strive, because we have set our hope on the living God, who is the Saviour of all people, especially of those who believe.
 
 ## 1 Timothy 4:11
 
-Prescribe and teach these things.
+Command and teach these things.
 
 ## 1 Timothy 4:12
 
-Let no one look down on your youthfulness, but show yourself as a model for those who believe, in speech, conduct, love, faith, and purity.
+Let no one look down on your youth, but be an example for those who believe, in speech, conduct, love, faith, and purity.
 
 ## 1 Timothy 4:13
 
-Until I come, give your attention to the public reading, to exhortation, and to teaching.
+Until I come, devote yourself to the public reading, to exhortation, and to teaching.
 
 ## 1 Timothy 4:14
 
-Do not neglect the spiritual gift within you, which was granted to you through prophecy with the laying on of hands by the council of elders.
+Do not neglect the spiritual gift within you, which was given to you through prophecy with the laying on of hands by the council of elders.
 
 ## 1 Timothy 4:15
 
-Take pains with these things; be absorbed in them, so that your progress will be evident to all.
+Be diligent in these matters; immerse yourself in them, so that your progress may be evident to all.
 
 ## 1 Timothy 4:16
 
-Pay close attention to yourself and to the teaching; persevere in these things, for as you do this you will save both yourself and those who hear you.
+Watch your life and doctrine closely; persevere in them, for by doing so you will ensure salvation both for yourself and for those who listen to you.

@@ -84,7 +84,7 @@ Then he made the courtyard of the priests, and the great courtyard and doors for
 
 ## 2 Chronicles 4:10
 
-He set the Sea on the right side of the house toward the southeast.
+He positioned the Sea on the right side of the house, towards the southeast.
 
 ---
 
@@ -113,7 +113,7 @@ Huram also made the pails, the shovels, and the bowls.
 
 ## 2 Chronicles 4:14
 
-He also made the stands and he made the basins on the stands,
+He also crafted the stands and the basins that were placed on them,
 
 ---
 
@@ -163,7 +163,7 @@ Solomon also made all the things that were in the house of God:
 
 ## 2 Chronicles 4:21
 
-> the flowers, the lamps, and the tongs of gold, of purest gold;
+> the blossoms, the lamps, and the tongs of gold, of the finest gold;
 
 ---
 

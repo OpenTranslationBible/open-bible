@@ -7,7 +7,7 @@ And his mother’s name was Abijah, the daughter of Zechariah.
 
 ## 2 Chronicles 29:2
 
-He did what was right in the sight of the Lord, in accordance with everything that his father David had done.
+He acted righteously in the eyes of the Lord, following the example set by his ancestor David.
 
 ---
 
@@ -17,7 +17,7 @@ In the first year of his reign, in the first month, he opened the doors of the h
 
 ## 2 Chronicles 29:4
 
-He brought in the priests and the Levites and gathered them into the public square on the east.
+He summoned the priests and the Levites and gathered them in the public square on the east side.
 
 ## 2 Chronicles 29:5
 
@@ -41,11 +41,11 @@ and He has made them an object of terror, horror, and hissing, as you see with y
 
 ## 2 Chronicles 29:9
 
-For behold, our fathers have fallen by the sword, and our sons, our daughters, and our wives are in captivity because of this.
+For indeed, our fathers have fallen by the sword, and our sons, our daughters, and our wives are in captivity because of this.
 
 ## 2 Chronicles 29:10
 
-Now it is in my heart to make a covenant with the Lord God of Israel, so that His burning anger may turn away from us.
+Now I am determined to make a covenant with the Lord God of Israel, so that His fierce anger may turn away from us.
 
 ## 2 Chronicles 29:11
 
@@ -56,7 +56,7 @@ and to be His ministers and burn incense.”
 
 ## 2 Chronicles 29:12
 
-> Then the Levites arose: Mahath the son of Amasai and Joel the son of Azariah
+> Then the Levites arose: Mahath the son of Amasai and Joel the son of Azariah  
 > from the sons of the Kohathites;  
 > and from the sons of Merari, Kish the son of Abdi and Azariah the son of Jehallelel;  
 > and from the Gershonites, Joah the son of Zimmah and Eden the son of Joah;
@@ -107,7 +107,7 @@ we have prepared and consecrated; and behold, they are before the altar of the L
 
 ## 2 Chronicles 29:20
 
-Then King Hezekiah got up early and assembled the princes of the city and went up to the house of the Lord.
+Then King Hezekiah rose early and gathered the princes of the city, and went up to the house of the Lord.
 
 ## 2 Chronicles 29:21
 
@@ -140,7 +140,7 @@ for the command was from the Lord through His prophets.
 
 ## 2 Chronicles 29:26
 
-And the Levites stood with the musical instruments of David, and the priests with the trumpets.
+And the Levites stood with the instruments of David, and the priests with the trumpets.
 
 ---
 
@@ -159,7 +159,7 @@ and the singers sang, and the trumpets sounded; all this continued until the bur
 
 ## 2 Chronicles 29:29
 
-Now at the completion of the burnt offerings, the king and all who were present with him bowed down and worshiped.
+When the burnt offerings were completed, the king and all who were present with him bowed down and worshiped.
 
 ## 2 Chronicles 29:30
 
@@ -183,7 +183,7 @@ all these were for a burnt offering to the Lord.
 
 ## 2 Chronicles 29:33
 
-And the consecrated offerings were six hundred bulls and three thousand sheep.
+And the offerings set apart were six hundred bulls and three thousand sheep.
 
 ## 2 Chronicles 29:34
 

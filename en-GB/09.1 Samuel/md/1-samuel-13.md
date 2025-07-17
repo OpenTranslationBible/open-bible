@@ -36,7 +36,7 @@ He waited seven days, according to the appointed time set by Samuel. But Samuel 
 
 ## 1 Samuel 13:9
 
-So Saul said, “Bring to me the burnt offering and the peace offerings.” And he offered the burnt offering.
+Saul then instructed, “Bring the burnt offering and the peace offerings to me.” And he proceeded to present the burnt offering.
 
 ## 1 Samuel 13:10
 
@@ -49,7 +49,7 @@ And Saul replied, “When I saw that the people were scattering from me, and tha
 
 ## 1 Samuel 13:12
 
-I said, ‘Now the Philistines will come down against me at Gilgal, and I have not sought the favour of the Lord.’ So I forced myself and offered the burnt offering.”
+I thought, ‘The Philistines will soon descend upon me at Gilgal, and I have not sought the Lord’s favour.’ So I felt compelled to offer the burnt offering.”
 
 ## 1 Samuel 13:13
 
@@ -81,7 +81,7 @@ another company turned toward Beth-horon; and another company turned toward the 
 
 ## 1 Samuel 13:19
 
-Now no blacksmith could be found in all the land of Israel, for the Philistines said, “Otherwise the Hebrews will make swords or spears.”
+At that time, no blacksmith could be found throughout the land of Israel, for the Philistines had said, “Otherwise the Hebrews might make swords or spears.”
 
 ## 1 Samuel 13:20
 

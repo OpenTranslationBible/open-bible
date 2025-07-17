@@ -97,7 +97,7 @@ But the king left behind ten concubines to keep the house.
 
 ## 2 Samuel 15:17
 
-And the king went out, and all the people with him, and they stopped at the last house.
+And the king departed with all the people accompanying him, and they paused at the last house.
 
 ## 2 Samuel 15:18
 
@@ -170,7 +170,7 @@ until word comes from you to inform me.”
 
 ## 2 Samuel 15:29
 
-So Zadok and Abiathar returned the ark of God to Jerusalem, and remained there.
+So Zadok and Abiathar took the Ark of God back to Jerusalem and stayed there.
 
 ---
 

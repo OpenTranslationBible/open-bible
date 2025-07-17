@@ -6,7 +6,7 @@ For it is unnecessary for me to write to you about this service to the saints;
 
 ## 2 Corinthians 9:2
 
-For I know your readiness, of which I boast about you to the Macedonians, namely, that Achaia has been prepared since last year, and your zeal has stirred up most of them.
+For I am aware of your eagerness, which I have mentioned to the Macedonians, saying that Achaia has been ready since last year, and your enthusiasm has inspired most of them.
 
 ## 2 Corinthians 9:3
 
@@ -22,15 +22,15 @@ So I considered it necessary to urge the brothers that they go on ahead to you a
 
 ## 2 Corinthians 9:6
 
-Now I say this: the one who sows sparingly will also reap sparingly, and the one who sows generously will also reap generously.
+Now I say this: whoever sows sparingly will also reap sparingly, and whoever sows generously will also reap generously.
 
 ## 2 Corinthians 9:7
 
-Each one must do just as he has decided in his heart, not reluctantly or under compulsion, for God loves a cheerful giver.
+Each person should give as they have decided in their heart, not reluctantly or under compulsion, for God loves a cheerful giver.
 
 ## 2 Corinthians 9:8
 
-And God is able to make all grace overflow to you, so that, always having all sufficiency in everything, you may have an abundance for every good deed;
+And God is able to make all grace abound to you, so that, always having all sufficiency in everything, you may excel in every good deed;
 
 ## 2 Corinthians 9:9
 
@@ -41,15 +41,15 @@ As it is written:
 
 ## 2 Corinthians 9:10
 
-Now He who supplies seed to the sower and bread for food will supply and multiply your seed for sowing and increase the harvest of your righteousness;
+Now He who provides seed to the sower and bread for food will provide and multiply your seed for sowing and enhance the harvest of your righteousness;
 
 ## 2 Corinthians 9:11
 
-You will be enriched in everything for all liberality, which through us is producing thanksgiving to God.
+You will be enriched in every way for all generosity, which through us results in thanksgiving to God.
 
 ## 2 Corinthians 9:12
 
-For the ministry of this service is not only fully supplying the needs of the saints, but is also overflowing through many thanksgivings to God.
+For the ministry of this service is not only fully meeting the needs of the saints, but is also overflowing through many thanksgivings to God.
 
 ## 2 Corinthians 9:13
 
@@ -57,7 +57,7 @@ Because of the proof given by this ministry, they will glorify God for your obed
 
 ## 2 Corinthians 9:14
 
-While they also, by prayer on your behalf, yearn for you because of the surpassing grace of God in you.
+While they also, through prayer for you, long for you because of the extraordinary grace of God in you.
 
 ## 2 Corinthians 9:15
 

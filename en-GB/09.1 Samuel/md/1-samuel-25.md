@@ -47,7 +47,7 @@ Please give whatever you find at hand to your servants and to your son David.’
 
 ## 1 Samuel 25:9
 
-When David’s young men came, they spoke to Nabal according to all these words in the name of David; then they waited.
+When David’s young men arrived, they relayed all these words to Nabal on behalf of David; then they awaited his response.
 
 ## 1 Samuel 25:10
 
@@ -84,7 +84,7 @@ as long as we went with them, while we were in the fields.
 
 ## 1 Samuel 25:16
 
-They were a wall to us both by night and by day, all the time we were with them tending the sheep.
+They protected us both by night and by day, all the time we were with them tending the sheep.
 
 ## 1 Samuel 25:17
 

@@ -8,7 +8,7 @@ camped against it, and built a siege wall all around it.
 
 ## 2 Kings 25:2
 
-So the city came under siege until the eleventh year of King Zedekiah.
+Thus, the city remained besieged until the eleventh year of King Zedekiah.
 
 ## 2 Kings 25:3
 

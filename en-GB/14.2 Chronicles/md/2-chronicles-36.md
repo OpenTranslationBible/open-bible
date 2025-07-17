@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 36:1
 
-Then the people of the land took Jehoahaz the son of Josiah and made him king in his father’s place in Jerusalem.
+The people of the land chose Jehoahaz, the son of Josiah, and established him as king in place of his father in Jerusalem.
 
 ---
 
@@ -28,7 +28,7 @@ And he did evil in the sight of the Lord his God.
 
 ## 2 Chronicles 36:6
 
-Nebuchadnezzar king of Babylon came up against him and bound him with bronze chains to take him to Babylon.
+Nebuchadnezzar, the king of Babylon, came against him and bound him with bronze chains to take him to Babylon.
 
 ## 2 Chronicles 36:7
 
@@ -60,7 +60,7 @@ and he made his relative Zedekiah king over Judah and Jerusalem.
 
 ## 2 Chronicles 36:11
 
-Zedekiah was twenty-one years old when he became king, and he reigned for eleven years in Jerusalem.
+Zedekiah, at the age of twenty-one, became king and reigned for eleven years in Jerusalem.
 
 ## 2 Chronicles 36:12
 

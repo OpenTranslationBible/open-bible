@@ -86,7 +86,7 @@ They put his armour in the house of their gods,
 
 ## 1 Chronicles 10:11
 
-When all Jabesh-gilead heard everything that the Philistines had done to Saul,
+When the people of Jabesh-gilead heard all that the Philistines had done to Saul,
 
 ---
 

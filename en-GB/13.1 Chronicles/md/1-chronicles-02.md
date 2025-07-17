@@ -80,7 +80,7 @@ Ram fathered Amminadab, and Amminadab fathered Nahshon,
 
 ## 1 Chronicles 2:11
 
-Nahshon fathered Salma, and Salma fathered Boaz.
+Nahshon was the father of Salma, and Salma was the father of Boaz.
 
 ---
 
@@ -162,7 +162,7 @@ Afterward Hezron went in to the daughter of Machir the father of Gilead,
 
 ## 1 Chronicles 2:22
 
-Segub fathered Jair, who had twenty-three cities in the land of Gilead.
+Segub was the father of Jair, who possessed twenty-three cities in the land of Gilead.
 
 ---
 
@@ -296,11 +296,11 @@ Obed fathered Jehu, and Jehu fathered Azariah,
 
 ## 1 Chronicles 2:39
 
-Azariah fathered Helez, and Helez fathered Eleasah,
+Azariah was the father of Helez, and Helez was the father of Eleasah,
 
 ## 1 Chronicles 2:40
 
-Eleasah fathered Sismai, and Sismai fathered Shallum,
+Eleasah was the father of Sismai, and Sismai was the father of Shallum,
 
 ## 1 Chronicles 2:41
 

@@ -112,7 +112,7 @@ These are the ones who crossed the Jordan in the first month when it was overflo
 
 ## 1 Chronicles 12:16
 
-Then some of the sons of Benjamin and Judah came to the stronghold to David.
+Then some from the tribes of Benjamin and Judah joined David at the stronghold.
 
 ---
 

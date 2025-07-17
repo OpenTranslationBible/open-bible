@@ -8,7 +8,7 @@ And Isaiah the prophet, the son of Amoz, came to him and said to him,
 
 ## 2 Kings 20:2
 
-Then he turned his face to the wall and prayed to the Lord, saying,
+At this, he turned towards the wall and prayed to the Lord, saying,
 
 ## 2 Kings 20:3
 

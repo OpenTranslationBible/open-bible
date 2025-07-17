@@ -24,7 +24,7 @@ So Elijah went.
 
 ## 2 Kings 1:5
 
-When the messengers returned to the king, he asked them, “Why have you come back?”
+Upon the messengers' return, the king inquired, “Why have you come back?”
 
 ## 2 Kings 1:6
 
@@ -35,7 +35,7 @@ Therefore you shall not leave the bed you are lying on. You will surely die.’�
 
 ## 2 Kings 1:7
 
-The king asked them, “What kind of man was it who came to meet you and told you this?”
+The king then questioned them, “What kind of man was it who came to meet you and told you this?”
 
 ## 2 Kings 1:8
 

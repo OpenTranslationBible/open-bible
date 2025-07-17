@@ -22,7 +22,7 @@ Now Mesha king of Moab was a sheep breeder, and he used to pay the king of Israe
 
 ## 2 Kings 3:5
 
-But after Ahab died, the king of Moab rebelled against the king of Israel.
+However, following the death of Ahab, the king of Moab rose in rebellion against the king of Israel.
 
 ## 2 Kings 3:6
 

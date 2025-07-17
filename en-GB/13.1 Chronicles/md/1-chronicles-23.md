@@ -127,7 +127,7 @@ The sons of Moses were:
 
 ## 1 Chronicles 23:16
 
-The son of Gershom was Shebuel the chief.
+Gershom's son was Shebuel, who served as chief.
 
 ---
 

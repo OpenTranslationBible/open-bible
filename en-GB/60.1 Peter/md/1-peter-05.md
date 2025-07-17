@@ -2,15 +2,15 @@
 
 ## 1 Peter 5:1
 
-Therefore, I urge elders among you, as your fellow elder and a witness of the sufferings of Christ, and one who is also a fellow partaker of the glory that is to be revealed:
+So, I appeal to the elders among you, as a fellow elder and a witness to the sufferings of Christ, and also as one who shares in the glory that is to be revealed:
 
 ## 1 Peter 5:2
 
-shepherd the flock of God among you, exercising oversight not under compulsion, but voluntarily, according to the will of God; and not with greed, but with eagerness;
+tend to the flock of God in your care, providing oversight willingly, in accordance with God's will; and not for dishonest gain, but with enthusiasm;
 
 ## 1 Peter 5:3
 
-nor yet as domineering over those assigned to your care, but by proving to be examples to the flock.
+not by lording it over those entrusted to you, but by being examples to the flock.
 
 ## 1 Peter 5:4
 
@@ -25,35 +25,35 @@ You younger men, likewise, be subject to your elders; and all of you, clothe you
 
 ## 1 Peter 5:6
 
-Therefore humble yourselves under the mighty hand of God, so that He may exalt you at the proper time,
+So humble yourselves under the mighty hand of God, that He may lift you up at the right time,
 
 ## 1 Peter 5:7
 
-having cast all your anxiety on Him, because He cares about you.
+casting all your worries on Him, because He cares for you.
 
 ## 1 Peter 5:8
 
-Be of sober spirit, be on the alert. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour.
+Be alert and vigilant. Your adversary, the devil, prowls around like a roaring lion, seeking someone to devour.
 
 ## 1 Peter 5:9
 
-So resist him, firm in your faith, knowing that the same experiences of suffering are being accomplished by your brothers and sisters who are in the world.
+Resist him, standing firm in your faith, knowing that your brothers and sisters throughout the world are undergoing the same kinds of suffering.
 
 ## 1 Peter 5:10
 
-After you have suffered for a little while, the God of all grace, who called you to His eternal glory in Christ, will Himself perfect, confirm, strengthen, and establish you.
+After you have suffered for a short time, the God of all grace, who called you to His eternal glory in Christ, will Himself restore, confirm, strengthen, and establish you.
 
 ## 1 Peter 5:11
 
-To Him be dominion forever and ever. Amen.
+To Him be the dominion forever and ever. Amen.
 
 ## 1 Peter 5:12
 
-Through Silvanus, our faithful brother (for so I regard him), I have written to you briefly, to encourage you and to testify that this is the true grace of God. Stand firm in it!
+Through Silvanus, our faithful brother (as I consider him), I have written to you briefly, to encourage you and to testify that this is the true grace of God. Stand firm in it!
 
 ## 1 Peter 5:13
 
-She who is in Babylon, chosen together with you, sends you greetings, and so does my son, Mark.
+The church in Babylon, chosen together with you, sends you greetings, and so does my son, Mark.
 
 ## 1 Peter 5:14
 

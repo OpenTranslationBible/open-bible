@@ -2,7 +2,7 @@
 
 ## 1 Samuel 6:1
 
-The ark of the Lord remained in Philistine territory for seven months.
+The Ark of the Lord was kept in Philistine territory for seven months.
 
 ## 1 Samuel 6:2
 

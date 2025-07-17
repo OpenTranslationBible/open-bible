@@ -2,15 +2,15 @@
 
 ## 1 Samuel 18:1
 
-Now it came about, when he had finished speaking to Saul, that the soul of Jonathan was knit to the soul of David, and Jonathan loved him as himself.
+After he had finished speaking to Saul, Jonathan became deeply connected to David, so that Jonathan was devoted to him; as if to his own soul.
 
 ## 1 Samuel 18:2
 
-Saul took him that day and did not let him return to his father’s house.
+Saul took him that day and did not allow him to return to his father’s house.
 
 ## 1 Samuel 18:3
 
-Then Jonathan made a covenant with David because he loved him as himself.
+Then Jonathan made a covenant with David and he was devoted to him; as if to his own soul.
 
 ## 1 Samuel 18:4
 
@@ -45,15 +45,15 @@ So Saul watched David with suspicion from that day on.
 
 ## 1 Samuel 18:10
 
-Now it came about the next day that an evil spirit from God came forcefully upon Saul, and he raved in the midst of the house, while David was playing the harp with his hand, as usual. And Saul had a spear in his hand.
+The following day, an evil spirit from God came forcefully upon Saul, and he raved in the midst of the house, while David was playing the harp with his hand, as usual. And Saul had a spear in his hand.
 
 ## 1 Samuel 18:11
 
-Then Saul hurled the spear, for he thought, “I will pin David to the wall.” But David escaped from his presence twice.
+Then Saul hurled the spear, intending to pin David to the wall. But David managed to escape from his presence on two occasions.
 
 ## 1 Samuel 18:12
 
-Now Saul was afraid of David, because the Lord was with him but had departed from Saul.
+Saul was fearful of David, because the Lord was with him, but had departed from Saul.
 
 ## 1 Samuel 18:13
 
@@ -61,7 +61,7 @@ So Saul removed him from his presence and appointed him as a commander of a thou
 
 ## 1 Samuel 18:14
 
-David was successful in all his ways, and the Lord was with him.
+David was successful in all his endeavours, and the Lord was with him.
 
 ## 1 Samuel 18:15
 
@@ -69,7 +69,7 @@ When Saul saw that he was very successful, he feared him.
 
 ## 1 Samuel 18:16
 
-But all Israel and Judah loved David, for he would go out to battle and return before them.
+But all Israel and Judah loved David, for he would lead them into battle and return before them.
 
 ---
 
@@ -79,7 +79,7 @@ Then Saul said to David, “Here is my older daughter Merab; I will give her to 
 
 ## 1 Samuel 18:18
 
-But David said to Saul, “Who am I, and what is my life or my father’s family in Israel, that I should be the king’s son-in-law?”
+But David said to Saul, “Who am I, and what is my life or my father’s family in Israel, that I should become the king’s son-in-law?”
 
 ## 1 Samuel 18:19
 
@@ -125,12 +125,12 @@ David set out and went, he and his men, and struck down two hundred men among th
 
 ## 1 Samuel 18:28
 
-When Saul saw and knew that the Lord was with David, and that Michal, Saul’s daughter, loved him,
+When Saul observed and understood that the Lord was with David, and that Michal, Saul’s daughter, loved him,
 
 ## 1 Samuel 18:29
 
-Saul was even more afraid of David. So Saul was David’s enemy continually.
+Saul's fear of David increased. Thus, Saul remained David's adversary continually.
 
 ## 1 Samuel 18:30
 
-Then the commanders of the Philistines went out to battle, and it came about, as often as they went out, that David was more successful than all the servants o
+Then the commanders of the Philistines went out to battle, and it came about, as often as they went out, that David was more successful than all the servants of Saul.

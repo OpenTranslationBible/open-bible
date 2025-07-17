@@ -191,14 +191,14 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:26
 
-> The sons of Merari: Mahli and Mushi;  
+> The descendants of Merari included Mahli and Mushi;  
 > the sons of Jaaziah: Beno.
 
 ---
 
 ## 1 Chronicles 24:27
 
-> The sons of Merari by Jaaziah: Beno, Shoham, Zaccur, and Ibri.
+> The descendants of Merari through Jaaziah were Beno, Shoham, Zaccur, and Ibri.
 
 ---
 
@@ -210,7 +210,7 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:29
 
-> Of Kish: the son of Kish, Jerahmeel.
+> Of Kish: Jerahmeel, son of Kish.
 
 ---
 

@@ -127,7 +127,7 @@ So he said to them, “Why do you do such things? For I keep hearing about your 
 
 ## 1 Samuel 2:24
 
-No, my sons; the report I hear spreading among the Lord’s people is not good.
+My sons, the report I hear spreading among the Lord’s people is troubling.
 
 ## 1 Samuel 2:25
 

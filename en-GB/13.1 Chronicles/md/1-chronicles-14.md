@@ -57,7 +57,7 @@ all the Philistines went up in search of David;
 
 ## 1 Chronicles 14:9
 
-Now the Philistines had come and carried out a raid in the Valley of Rephaim.
+At that time, the Philistines came and launched a raid in the Valley of Rephaim.
 
 ---
 

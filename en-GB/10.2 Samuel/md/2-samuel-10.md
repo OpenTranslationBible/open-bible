@@ -41,7 +41,7 @@ and the men of Tob with twelve thousand men.
 
 ## 2 Samuel 10:7
 
-When David heard of it, he sent Joab and all the army, the mighty men.
+Upon learning of this, David dispatched Joab and the entire army, the valiant warriors.
 
 ## 2 Samuel 10:8
 

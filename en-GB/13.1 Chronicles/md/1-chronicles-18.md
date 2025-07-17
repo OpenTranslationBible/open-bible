@@ -68,7 +68,7 @@ David took very much bronze,
 
 ## 1 Chronicles 18:9
 
-When Tou king of Hamath heard that David had defeated all the army of Hadadezer king of Zobah,
+Upon hearing of David's victory over the entire army of Hadadezer king of Zobah,
 
 ---
 
@@ -93,7 +93,7 @@ King David also dedicated these to the Lord,
 
 ## 1 Chronicles 18:12
 
-Moreover Abishai the son of Zeruiah defeated eighteen thousand Edomites in the Valley of Salt.
+Abishai the son of Zeruiah achieved victory over eighteen thousand Edomites in the Valley of Salt.
 
 ---
 

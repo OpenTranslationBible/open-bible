@@ -18,7 +18,7 @@ Now the first who lived in their possessions in their cities were:
 
 ## 1 Chronicles 9:3
 
-Some of the sons of Judah, of the sons of Benjamin, and of the sons of Ephraim and Manasseh lived in Jerusalem:
+Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ---
 
@@ -43,7 +43,7 @@ Some of the sons of Judah, of the sons of Benjamin, and of the sons of Ephraim a
 
 ## 1 Chronicles 9:7
 
-> From the sons of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah,
+> Among the descendants of Benjamin: Sallu the son of Meshullam, the son of Hodaviah, the son of Hassenuah,
 
 ## 1 Chronicles 9:8
 
@@ -140,7 +140,7 @@ and the Lord was with him.
 
 ## 1 Chronicles 9:21
 
-Zechariah the son of Meshelemiah was gatekeeper of the entrance of the tent of meeting.
+Zechariah, son of Meshelemiah, served as gatekeeper at the entrance of the tent of meeting.
 
 ---
 
@@ -171,7 +171,7 @@ The gatekeepers were on the four sides:
 
 ## 1 Chronicles 9:25
 
-Their relatives in their settlements were to come in every seven days from time to time to be with them;
+Their relatives from their settlements would join them every seven days periodically;
 
 ---
 
@@ -207,7 +207,7 @@ and over the fine flour, the wine, the oil, the frankincense, and the spices.
 
 ## 1 Chronicles 9:30
 
-Some of the sons of the priests prepared the mixing of the spices.
+Certain descendants of the priests were tasked with preparing the mixture of the spices.
 
 ---
 

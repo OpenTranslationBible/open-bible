@@ -52,7 +52,7 @@ So the men of Naboth’s city—the elders and nobles who lived there—did exac
 
 ## 1 Kings 21:12
 
-They proclaimed a fast and seated Naboth in a prominent place among the people.
+They announced a fast and placed Naboth in a notable position among the people.
 
 ## 1 Kings 21:13
 
@@ -82,7 +82,7 @@ Then the word of the Lord came to Elijah the Tishbite:
 
 ## 1 Kings 21:18
 
-“Go down to meet Ahab king of Israel, who rules in Samaria. He is now in Naboth’s vineyard, where he has gone to take possession of it.
+“Go to meet Ahab king of Israel, who reigns in Samaria. He is now in Naboth’s vineyard, where he has gone to claim it.
 
 ## 1 Kings 21:19
 
@@ -115,7 +115,7 @@ Dogs will eat anyone belonging to Ahab who dies in the city, and the birds will 
 
 ## 1 Kings 21:25
 
-There was never anyone like Ahab, who sold himself to do evil in the eyes of the Lord, urged on by Jezebel his wife.
+There was no one like Ahab, who sold himself to do evil in the sight of the Lord, influenced by Jezebel his wife.
 
 ## 1 Kings 21:26
 

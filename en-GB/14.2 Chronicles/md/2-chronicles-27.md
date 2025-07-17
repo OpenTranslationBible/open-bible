@@ -17,7 +17,7 @@ But the people continued acting corruptly.
 
 ## 2 Chronicles 27:3
 
-He built the upper gate of the house of the Lord, and he built extensively the wall of Ophel.
+He constructed the upper gate of the house of the Lord, and he significantly fortified the wall of Ophel.
 
 ---
 
@@ -50,7 +50,7 @@ Now the rest of the acts of Jotham, and all his wars and his conduct, behold, th
 
 ## 2 Chronicles 27:8
 
-He was twenty-five years old when he became king, and he reigned for sixteen years in Jerusalem.
+At the age of twenty-five, he became king, and he ruled for sixteen years in Jerusalem.
 
 ---
 

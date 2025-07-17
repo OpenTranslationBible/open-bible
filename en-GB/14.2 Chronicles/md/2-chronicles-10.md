@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 10:1
 
-Then Rehoboam went to Shechem, for all Israel had come to Shechem to make him king.
+Rehoboam travelled to Shechem, as all Israel had gathered there to proclaim him king.
 
 ---
 
@@ -14,7 +14,7 @@ When Jeroboam the son of Nebat heard about it (for he was in Egypt where he had 
 
 ## 2 Chronicles 10:3
 
-So they sent word and summoned him. When Jeroboam and all Israel came, they spoke to Rehoboam, saying,
+They sent for him, and when Jeroboam and all Israel arrived, they addressed Rehoboam, saying,
 
 ---
 
@@ -68,7 +68,7 @@ Now then, my father loaded you with a heavy yoke, but I will add to your yoke; m
 
 ## 2 Chronicles 10:12
 
-So Jeroboam and all the people came to Rehoboam on the third day, just as the king had directed, saying, “Return to me on the third day.”
+Jeroboam and all the people returned to Rehoboam on the third day, as the king had instructed, saying, “Return to me on the third day.”
 
 ---
 
@@ -80,7 +80,7 @@ And the king answered them harshly, and King Rehoboam abandoned the advice of th
 
 ## 2 Chronicles 10:14
 
-He spoke to them according to the advice of the young men, saying, “My father made your yoke heavy, but I will add to it; my father disciplined you with whips, but I will discipline you with scorpions.”
+He addressed them following the counsel of the young men, saying, “My father made your yoke heavy, but I will add to it; my father disciplined you with whips, but I will discipline you with scorpions.”
 
 ---
 
@@ -105,7 +105,7 @@ So all Israel departed to their tents.
 
 ## 2 Chronicles 10:17
 
-But as for the sons of Israel who lived in the cities of Judah, Rehoboam reigned over them.
+However, Rehoboam continued to reign over the Israelites who lived in the cities of Judah.
 
 ---
 

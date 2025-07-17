@@ -51,7 +51,7 @@ The men of Israel rushed out from Mizpah and pursued the Philistines, striking t
 
 ## 1 Samuel 7:12
 
-Then Samuel took a stone and set it up between Mizpah and Shen. He named it Ebenezer, saying, “Thus far the Lord has helped us.”
+Samuel then set up a stone between Mizpah and Shen, calling it Ebenezer, and declared, “Up to this point, the Lord has aided us.”
 
 ---
 

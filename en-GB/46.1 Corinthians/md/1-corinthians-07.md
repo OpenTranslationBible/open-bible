@@ -2,7 +2,7 @@
 
 ## 1 Corinthians 7:1
 
-Now concerning the things about which you wrote: it is good for a man not to touch a woman.
+Now regarding the matters you wrote about: it is commendable for a man to refrain from intimate relations with a woman.
 
 ## 1 Corinthians 7:2
 
@@ -10,55 +10,55 @@ But because of sexual immorality, each man is to have his own wife, and each wom
 
 ## 1 Corinthians 7:3
 
-The husband must fulfill his duty to his wife, and likewise the wife also to her husband.
+The husband should meet his obligations to his wife, and likewise the wife to her husband.
 
 ## 1 Corinthians 7:4
 
-The wife does not have authority over her own body, but the husband does; and likewise the husband also does not have authority over his own body, but the wife does.
+The wife does not have sole authority over her own body, but the husband shares it; and likewise, the husband does not have sole authority over his own body, but the wife shares it.
 
 ## 1 Corinthians 7:5
 
-Stop depriving one another, except by agreement for a time so that you may devote yourselves to prayer, and come together again so that Satan will not tempt you because of your lack of self-control.
+Do not withhold yourselves from one another, except by mutual consent for a time, so that you may dedicate yourselves to prayer, and then come together again so that Satan will not tempt you due to your lack of self-control.
 
 ## 1 Corinthians 7:6
 
-But I say this as a concession, not as a command.
+I say this as a suggestion, not as a directive.
 
 ## 1 Corinthians 7:7
 
-Yet I wish that all men were even as I myself am. However, each has his own gift from God, one in this way, and another in that.
+I wish that all people were as I am. However, each person has their own gift from God, one of one kind and one of another.
 
 ## 1 Corinthians 7:8
 
-But I say to the unmarried and to widows that it is good for them if they remain even as I am.
+But I say to the unmarried and to widows that it is good for them if they remain as I am.
 
 ## 1 Corinthians 7:9
 
-But if they do not have self-control, let them marry; for it is better to marry than to burn with passion.
+But if they cannot exercise self-control, they should marry; for it is better to marry than to be consumed with passion.
 
 ## 1 Corinthians 7:10
 
-But to the married I give instructions, not I, but the Lord, that the wife is not to leave her husband
+To the married, I give this instruction, not I, but the Lord: a wife should not separate from her husband
 
 ## 1 Corinthians 7:11
 
-(But if she does leave, she must remain unmarried, or else be reconciled to her husband), and that the husband is not to divorce his wife.
+(But if she does separate, she must remain unmarried or else be reconciled to her husband), and a husband should not divorce his wife.
 
 ## 1 Corinthians 7:12
 
-But to the rest I say, not the Lord, that if any brother has an unbelieving wife and she consents to live with him, he must not divorce her.
+To the rest I say, not the Lord, that if any brother has a wife who is not a believer and she is willing to live with him, he should not divorce her.
 
 ## 1 Corinthians 7:13
 
-And if any woman has an unbelieving husband, and he consents to live with her, she must not divorce her husband.
+And if any woman has a husband who is not a believer, and he is willing to live with her, she should not divorce her husband.
 
 ## 1 Corinthians 7:14
 
-For the unbelieving husband is sanctified through his wife, and the unbelieving wife is sanctified through the believing husband; for otherwise your children are unclean, but now they are holy.
+For the unbelieving husband is consecrated through his wife, and the unbelieving wife is consecrated through the believing husband; otherwise, your children would be unclean, but now they are holy.
 
 ## 1 Corinthians 7:15
 
-Yet if the unbelieving one leaves, let him leave; the brother or the sister is not under bondage in such cases, but God has called us to peace.
+If the unbelieving partner chooses to leave, let them do so; the brother or sister is not bound in such circumstances, but God has called us to live in peace.
 
 ## 1 Corinthians 7:16
 
@@ -66,96 +66,96 @@ For how do you know, wife, whether you will save your husband? Or how do you kno
 
 ## 1 Corinthians 7:17
 
-Only, as the Lord has assigned to each one, as God has called each, in this way let him walk. And so I direct in all the churches.
+Nevertheless, as the Lord has assigned to each one, as God has called each, let them live in this way. This is my rule in all the churches.
 
 ## 1 Corinthians 7:18
 
-Was any man called when he was already circumcised? He is not to become uncircumcised. Has anyone been called in uncircumcision? He is not to be circumcised.
+Was anyone called while circumcised? He should not seek to remove the marks of circumcision. Was anyone called while uncircumcised? He should not seek circumcision.
 
 ## 1 Corinthians 7:19
 
-Circumcision is nothing, and uncircumcision is nothing, but what matters is the keeping of the commandments of God.
+The physical state of circumcision or uncircumcision is of no consequence, but what truly matters is keeping the commandments of God.
 
 ## 1 Corinthians 7:20
 
-Each person is to remain in that condition in which he was called.
+Each person should remain in the state in which they were called.
 
 ## 1 Corinthians 7:21
 
-Were you called as a slave? Do not let it concern you. But if you also have an opportunity to become free, take advantage of that.
+Were you called as a slave? Do not let it trouble you. But if you can gain your freedom, take the opportunity.
 
 ## 1 Corinthians 7:22
 
-For the one who was called in the Lord as a slave is the Lord’s freed person; likewise the one who was called as free is Christ’s slave.
+For the one who was called in the Lord while a slave is the Lord’s freed person; similarly, the one who was called while free is Christ’s servant.
 
 ## 1 Corinthians 7:23
 
-You were bought for a price; do not become slaves of people.
+You were purchased at a cost; therefore, do not become enslaved by people.
 
 ## 1 Corinthians 7:24
 
-Brothers and sisters, each one is to remain with God in that condition in which he was called.
+Brothers and sisters, each one should remain with God in the state in which they were called.
 
 ## 1 Corinthians 7:25
 
-Now concerning virgins, I have no command of the Lord, but I give an opinion as one who by the mercy of the Lord is trustworthy.
+Now regarding those who are unmarried, I have no command from the Lord, but I offer my opinion as one who, by the Lord’s mercy, is trustworthy.
 
 ## 1 Corinthians 7:26
 
-I think, then, that this is good in view of the present distress, that it is good for a person to remain as he is.
+I think, then, that it is good, in view of the present crisis, for a person to remain as they are.
 
 ## 1 Corinthians 7:27
 
-Are you bound to a wife? Do not seek to be released. Are you released from a wife? Do not seek a wife.
+Are you bound to a wife? Do not seek to be released. Are you free from a wife? Do not seek a wife.
 
 ## 1 Corinthians 7:28
 
-But if you do marry, you have not sinned; and if a virgin marries, she has not sinned. Yet such people will have trouble in this life, and I am trying to spare you.
+But if you do marry, you have not sinned; and if a virgin marries, she has not sinned. However, such individuals will face difficulties in this life, and I wish to spare you that.
 
 ## 1 Corinthians 7:29
 
-But this I say, brothers and sisters: the time has been shortened, so that from now on those who have wives should be as though they had none,
+But this I say, brothers and sisters: the time is short, so that from now on those who have wives should live as though they had none,
 
 ## 1 Corinthians 7:30
 
-And those who weep, as though they did not weep; and those who rejoice, as though they did not rejoice; and those who buy, as though they did not possess;
+And those who mourn, as though they did not mourn; and those who are joyful, as though they were not; and those who buy, as though they did not own anything;
 
 ## 1 Corinthians 7:31
 
-And those who use the world, as though they did not make full use of it; for the form of this world is passing away.
+And those who use the world, as though they did not fully engage with it; for the present form of this world is passing away.
 
 ## 1 Corinthians 7:32
 
-But I want you to be free from concern. The unmarried man is concerned about the things of the Lord, how he may please the Lord;
+I want you to be free from concerns. The unmarried man is focused on the Lord’s affairs, how he may please the Lord;
 
 ## 1 Corinthians 7:33
 
-But the married man is concerned about the things of the world, how he may please his wife,
+But the married man is concerned about worldly matters, how he may please his wife,
 
 ## 1 Corinthians 7:34
 
-And his interests are divided. The woman who is unmarried, and the virgin, is concerned about the things of the Lord, so that she may be holy both in body and spirit; but one who is married is concerned about the things of the world, how she may please her husband.
+And his interests are divided. The unmarried woman, and the virgin, is focused on the Lord’s affairs, that she may be holy in both body and spirit; but the married woman is concerned about worldly matters, how she may please her husband.
 
 ## 1 Corinthians 7:35
 
-I say this for your own benefit, not to put a restraint on you, but to promote what is proper, and to secure undistracted devotion to the Lord.
+I say this for your own benefit, not to impose a restriction on you, but to promote what is proper and to secure undistracted devotion to the Lord.
 
 ## 1 Corinthians 7:36
 
-But if anyone thinks that he is acting dishonourably toward his virgin, if she is past her youth and it ought to be so, let him do what he wishes, he is not sinning; they should marry.
+But if anyone thinks he is not behaving properly towards his betrothed, if she is past the age of marriage and it seems necessary, let him do as he wishes, he is not sinning; they should marry.
 
 ## 1 Corinthians 7:37
 
-But the one who stands firm in his heart, not under compulsion, but has authority over his own will, and has decided this in his own heart, to keep his own virgin, will do well.
+But the one who stands firm in his heart, not under compulsion, but has control over his own will, and has decided in his own heart to keep his betrothed, will do well.
 
 ## 1 Corinthians 7:38
 
-So then, both the one who gives his own virgin in marriage does well, and the one who does not give her in marriage will do better.
+So then, the one who gives his betrothed in marriage does well, and the one who does not give her in marriage will do even better.
 
 ## 1 Corinthians 7:39
 
-A wife is bound as long as her husband lives; but if her husband has died, she is free to be married to whom she wishes, only in the Lord.
+A wife is committed to her husband as long as he lives; but if her husband passes away, she is free to marry anyone she wishes, only in the Lord.
 
 ## 1 Corinthians 7:40
 
-But in my opinion she is happier if she remains as she is; and I think that I also have the Spirit of God.
+In my opinion, she is happier if she remains as she is; and I believe that I also have the Spirit of God.

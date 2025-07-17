@@ -15,31 +15,31 @@ Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies an
 
 ## 2 Corinthians 1:4
 
-Who comforts us in all our affliction so that we will be able to comfort those who are in any affliction with the comfort with which we ourselves are comforted by God.
+Who consoles us in all our troubles, enabling us to console those in any trouble with the comfort we ourselves receive from God.
 
 ## 2 Corinthians 1:5
 
-For just as the sufferings of Christ are ours in abundance, so also our comfort is abundant through Christ.
+For just as we share abundantly in the sufferings of Christ, so through Christ our comfort overflows.
 
 ## 2 Corinthians 1:6
 
-But if we are afflicted, it is for your comfort and salvation; or if we are comforted, it is for your comfort, which is effective in the patient enduring of the same sufferings which we also suffer;
+But if we face troubles, it is for your comfort and salvation; or if we are comforted, it is for your comfort, which helps you patiently endure the same sufferings we experience;
 
 ## 2 Corinthians 1:7
 
-And our hope for you is firmly grounded, knowing that as you are sharers of our sufferings, so also you are sharers of our comfort.
+And our hope for you is unwavering, knowing that as you partake in our sufferings, so also you partake in our comfort.
 
 ## 2 Corinthians 1:8
 
-For we do not want you to be unaware, brothers and sisters, of our affliction which occurred in Asia, that we were burdened excessively, beyond our strength, so that we despaired even of life.
+For we do not want you to be uninformed, brothers and sisters, about the troubles we faced in Asia, where we were burdened beyond our ability to endure, so much so that we despaired even of life.
 
 ## 2 Corinthians 1:9
 
-Indeed, we had the sentence of death within ourselves, so that we would not trust in ourselves, but in God who raises the dead;
+Indeed, we felt we had received the sentence of death, so that we might not rely on ourselves but on God, who raises the dead;
 
 ## 2 Corinthians 1:10
 
-Who rescued us from so great a danger of death, and will rescue us, He on whom we have set our hope. And He will yet deliver us,
+Who delivered us from such a perilous danger of death, and will continue to deliver us. On Him we have set our hope, and He will yet deliver us,
 
 ## 2 Corinthians 1:11
 
@@ -47,7 +47,7 @@ If you also join in helping us through your prayers, so that thanks may be given
 
 ## 2 Corinthians 1:12
 
-For our pride is this, the testimony of our conscience, that in holiness and godly sincerity, not in fleshly wisdom but in the grace of God, we have conducted ourselves in the world, and especially toward you.
+For our pride is this, the testimony of our conscience, that in holiness and godly sincerity, not in worldly wisdom but in the grace of God, we have conducted ourselves in the world, and especially toward you.
 
 ## 2 Corinthians 1:13
 
@@ -59,7 +59,7 @@ Just as you also partially did understand us, that we are your reason for pride 
 
 ## 2 Corinthians 1:15
 
-In this confidence I intended at first to come to you, so that you might twice receive a blessing;
+In this confidence I initially intended to visit you, so that you might be blessed twice;
 
 ## 2 Corinthians 1:16
 
@@ -67,32 +67,32 @@ That is, to pass your way into Macedonia, and again from Macedonia to come to yo
 
 ## 2 Corinthians 1:17
 
-Therefore, I was not vacillating when I intended to do this, was I? Or what I decide, do I decide according to the flesh, so that with me there will be “Yes, yes” and “No, no” at the same time?
+Therefore, I was not indecisive when I intended to do this, was I? Or what I plan, do I plan according to human standards, so that with me there will be both “Yes, yes” and “No, no”?
 
 ## 2 Corinthians 1:18
 
-But as God is faithful, our word to you is not “Yes and no.”
+But as God is faithful, our message to you is not a mixture of “Yes and no.”
 
 ## 2 Corinthians 1:19
 
-For the Son of God, Christ Jesus, who was preached among you by us—by me and Silvanus and Timothy—was not “Yes and no,” but has been “Yes” in Him.
+For the Son of God, Christ Jesus, who was proclaimed among you by us—by me and Silvanus and Timothy—was not a mixture of “Yes and no,” but has always been “Yes” in Him.
 
 ## 2 Corinthians 1:20
 
-For as many as the promises of God are, in Him they are “Yes”; therefore through Him also is our “Amen” to the glory of God through us.
+For all the promises of God find their “Yes” in Him; therefore through Him we utter our “Amen” to the glory of God.
 
 ## 2 Corinthians 1:21
 
-Now He who establishes us with you in Christ and anointed us is God,
+It is God who establishes both us and you in Christ. He has anointed us,
 
 ## 2 Corinthians 1:22
 
-Who also sealed us and gave us the Spirit in our hearts as a pledge.
+Who also set His seal of ownership on us and put His Spirit in our hearts as a guarantee.
 
 ## 2 Corinthians 1:23
 
-But I call God as witness to my soul, that it was to spare you that I did not come again to Corinth.
+But I call God as my witness, that it was to spare you that I did not return to Corinth.
 
 ## 2 Corinthians 1:24
 
-Not that we lord it over your faith, but are workers with you for your joy; for in your faith you are standing firm.
+Not that we have dominion over your faith, but we work with you for your joy; for by faith you stand firm.

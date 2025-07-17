@@ -6,7 +6,7 @@ For three years there was no war between Aram and Israel.
 
 ## 1 Kings 22:2
 
-But in the third year, Jehoshaphat king of Judah went down to see the king of Israel.
+However, during the third year, Jehoshaphat, the king of Judah, visited the king of Israel.
 
 ## 1 Kings 22:3
 
@@ -101,7 +101,7 @@ One suggested this, and another that.
 
 ## 1 Kings 22:21
 
-Then a spirit came forward, stood before the Lord, and said, ‘I will entice him.’
+Then a spirit approached the Lord and said, ‘I will entice him.’
 
 ## 1 Kings 22:22
 
@@ -123,7 +123,7 @@ He said, “Which way did the spirit of the Lord go from me to speak to you?”
 
 ## 1 Kings 22:25
 
-Micaiah replied, “You will find out on the day you go to hide in an inner room.”
+Micaiah replied, “You will discover this on the day you go to hide in an inner room.”
 
 ## 1 Kings 22:26
 
@@ -142,7 +142,7 @@ And he added, “Take note, all you people!”
 
 ## 1 Kings 22:29
 
-So the king of Israel and Jehoshaphat king of Judah went up to Ramoth-gilead.
+Therefore, the king of Israel and Jehoshaphat, king of Judah, proceeded to Ramoth-gilead.
 
 ## 1 Kings 22:30
 
@@ -151,7 +151,7 @@ So the king of Israel disguised himself and went into battle.
 
 ## 1 Kings 22:31
 
-Now the king of Aram had ordered his thirty-two chariot commanders, “Do not fight with anyone, small or great, except the king of Israel.”
+Meanwhile, the king of Aram had instructed his thirty-two chariot commanders, “Do not engage with anyone, small or great, except the king of Israel.”
 
 ## 1 Kings 22:32
 
@@ -179,7 +179,7 @@ At sunset, a cry went throughout the army: “Every man to his own city, and eve
 
 ## 1 Kings 22:37
 
-So the king died and was brought to Samaria, and they buried him there.
+Thus, the king died and was taken to Samaria, where they buried him.
 
 ## 1 Kings 22:38
 
@@ -193,17 +193,17 @@ Now the rest of the acts of Ahab, and all he did—the ivory palace he built and
 
 ## 1 Kings 22:40
 
-Ahab rested with his ancestors, and his son Ahaziah became king in his place.
+Ahab was laid to rest with his ancestors, and his son Ahaziah succeeded him as king.
 
 ---
 
 ## 1 Kings 22:41
 
-Jehoshaphat son of Asa became king over Judah in the fourth year of Ahab king of Israel.
+Jehoshaphat, son of Asa, began his reign over Judah in the fourth year of Ahab, king of Israel.
 
 ## 1 Kings 22:42
 
-Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem for twenty-five years. His mother’s name was Azubah daughter of Shilhi.
+Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem for twenty-five years. His mother’s name was Azubah, daughter of Shilhi.
 
 ## 1 Kings 22:43
 
@@ -234,20 +234,20 @@ Jehoshaphat built ships of Tarshish to sail for Ophir for gold, but they never s
 
 ## 1 Kings 22:49
 
-At that time, Ahaziah son of Ahab said to Jehoshaphat, “Let my men sail with yours,” but Jehoshaphat refused.
+During this period, Ahaziah, son of Ahab, proposed to Jehoshaphat, “Let my men sail with yours,” but Jehoshaphat declined.
 
 ---
 
 ## 1 Kings 22:50
 
-Jehoshaphat rested with his ancestors and was buried with them in the city of his father David.  
-And his son Jehoram became king in his place.
+Jehoshaphat was laid to rest with his ancestors and was buried with them in the city of his father David.  
+And his son Jehoram succeeded him as king.
 
 ---
 
 ## 1 Kings 22:51
 
-Ahaziah son of Ahab became king of Israel in Samaria in the seventeenth year of Jehoshaphat king of Judah, and he reigned over Israel for two years.
+Ahaziah, son of Ahab, began his reign over Israel in Samaria during the seventeenth year of Jehoshaphat, king of Judah, and he ruled over Israel for two years.
 
 ## 1 Kings 22:52
 

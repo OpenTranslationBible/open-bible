@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 20:1
 
-Now it came about after this that the sons of Moab and the sons of Ammon, together with some of the Meunites, came to make war against Jehoshaphat.
+After these events, the sons of Moab and the sons of Ammon, along with some of the Meunites, came to wage war against Jehoshaphat.
 
 ---
 
@@ -30,7 +30,7 @@ they even came from all the cities of Judah to seek the Lord.
 
 ## 2 Chronicles 20:5
 
-Then Jehoshaphat stood in the assembly of Judah and Jerusalem, in the house of the Lord in front of the new courtyard,
+Jehoshaphat then stood in the assembly of Judah and Jerusalem, in the house of the Lord before the new courtyard,
 
 ---
 
@@ -52,7 +52,7 @@ and give it to the descendants of Your friend Abraham forever?
 
 ## 2 Chronicles 20:8
 
-They have lived in it, and have built You a sanctuary in it for Your name, saying,
+They have settled in it and have constructed a sanctuary for Your Name, saying,
 
 ---
 
@@ -73,7 +73,7 @@ whom You did not let Israel invade when they came out of the land of Egypt (for 
 
 ## 2 Chronicles 20:11
 
-see how they are rewarding us, by coming to drive us out from Your possession, which You have given us as an inheritance.
+see how they are repaying us by coming to drive us out from Your possession, which You have given us as an inheritance.
 
 ---
 
@@ -87,7 +87,7 @@ nor do we know what to do, but our eyes are on You.”
 
 ## 2 Chronicles 20:13
 
-All Judah was standing before the Lord, with their infants, their wives, and their children.
+All Judah stood before the Lord, with their infants, their wives, and their children.
 
 ---
 
@@ -153,7 +153,7 @@ Put your trust in His prophets, and succeed.”
 When he had consulted with the people, he appointed those who sang to the Lord and those who praised Him in holy attire,  
 as they went out before the army and said,
 
-> “Give thanks to the Lord,
+> “Give thanks to the Lord,  
 > for His faithfulness is everlasting.”
 
 ---
@@ -212,7 +212,7 @@ They came to Jerusalem with harps, lyres, and trumpets, to the house of the Lord
 
 ## 2 Chronicles 20:29
 
-And the dread of God was on all the kingdoms of the lands when they heard that the Lord had fought against the enemies of Israel.
+And the fear of God was on all the kingdoms of the lands when they heard that the Lord had fought against the enemies of Israel.
 
 ---
 

@@ -8,7 +8,7 @@ And he came to him and said,
 
 ## 2 Samuel 12:2
 
-The rich man had a great many flocks and herds.
+The wealthy man possessed numerous flocks and herds.
 
 ## 2 Samuel 12:3
 
@@ -159,7 +159,7 @@ and He sent word through Nathan the prophet, and he named him Jedidiah, for the 
 
 ## 2 Samuel 12:26
 
-Now Joab fought against Rabbah of the sons of Ammon, and captured the royal city.
+At that time, Joab engaged in battle against Rabbah of the Ammonites and seized the royal city.
 
 ## 2 Samuel 12:27
 

@@ -114,7 +114,7 @@ Then they returned to Samaria.
 
 ## 2 Chronicles 28:16
 
-At that time King Ahaz sent word to the kings of Assyria for help.
+During that period, King Ahaz reached out to the kings of Assyria for assistance.
 
 ---
 

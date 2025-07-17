@@ -199,7 +199,7 @@ and he hammered gold on the cherubim and on the palm trees.
 
 ## 1 Kings 6:33
 
-So also he made for the entrance of the nave four-sided doorposts of olive wood,
+Likewise, he crafted four-sided doorposts of olive wood for the entrance of the nave,
 
 ## 1 Kings 6:34
 

@@ -39,7 +39,7 @@ So the messengers went and told the men of Jabesh, and they were glad.
 
 ## 1 Samuel 11:10
 
-Then the men of Jabesh said, “Tomorrow we will come out to you, and you may do to us whatever seems good to you.”
+Then the men of Jabesh said, “Tomorrow we will present ourselves to you, and you may do to us whatever you find appropriate.”
 
 ---
 
@@ -59,7 +59,7 @@ But Saul said, “No one shall be put to death this day, for today the Lord has 
 
 ## 1 Samuel 11:14
 
-Then Samuel said to the people, “Come, let us go to Gilgal and renew the kingdom there.”
+Samuel then addressed the people, “Come, let us go to Gilgal to renew the kingdom there.”
 
 ## 1 Samuel 11:15
 

@@ -10,15 +10,15 @@ I previously said when present the second time, and though now absent I say in a
 
 ## 2 Corinthians 13:3
 
-Since you are seeking proof of the Christ who speaks in me, who is not weak toward you, but mighty in you.
+Since you are looking for evidence of Christ speaking through me, who is not weak among you, but powerful within you.
 
 ## 2 Corinthians 13:4
 
-For indeed He was crucified because of weakness, yet He lives because of the power of God. For we also are weak in Him, yet we will live with Him because of the power of God directed toward you.
+For indeed He was crucified in weakness, yet He lives by the power of God. We too are weak in Him, yet we will live with Him by the power of God directed toward you.
 
 ## 2 Corinthians 13:5
 
-Test yourselves to see if you are in the faith; examine yourselves! Or do you not Recognise this about yourselves, that Jesus Christ is in you—unless indeed you fail the test?
+Test yourselves to see if you are in the faith; examine yourselves! Or do you not recognise this about yourselves, that Jesus Christ is in you—unless indeed you fail the test?
 
 ## 2 Corinthians 13:6
 
@@ -38,11 +38,11 @@ For we rejoice when we ourselves are weak but you are strong; this we also pray 
 
 ## 2 Corinthians 13:10
 
-For this reason I am writing these things while absent, so that when present I need not use severity, in accordance with the authority which the Lord gave me for building up, and not for tearing down.
+For this reason I am writing these things while absent, so that when present I need not be severe, in line with the authority which the Lord gave me for building up, and not for tearing down.
 
 ## 2 Corinthians 13:11
 
-Finally, brothers and sisters, rejoice, mend your ways, be comforted, be like-minded, live in peace; and the God of love and peace will be with you.
+Finally, brothers and sisters, rejoice, aim for restoration, be encouraged, be of one mind, live in peace; and the God of love and peace will be with you.
 
 ## 2 Corinthians 13:12
 

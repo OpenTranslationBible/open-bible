@@ -171,7 +171,7 @@ and buried him in his grave with his fathers in the city of David.
 
 ## 2 Kings 9:29
 
-Now in the eleventh year of Joram the son of Ahab, Ahaziah became king over Judah.
+In the eleventh year of Joram, son of Ahab, Ahaziah became king over Judah.
 
 ---
 

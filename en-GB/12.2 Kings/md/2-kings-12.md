@@ -80,7 +80,7 @@ any vessels of gold or silver, from the money that was brought into the house of
 
 ## 2 Kings 12:14
 
-for they gave it to the workmen, and they repaired the house of the Lord with it.
+for they allocated it to the workmen, who used it to restore the house of the Lord.
 
 ## 2 Kings 12:15
 

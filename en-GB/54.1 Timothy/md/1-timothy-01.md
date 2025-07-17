@@ -18,15 +18,15 @@ nor to pay attention to myths and endless genealogies, which give rise to useles
 
 ## 1 Timothy 1:5
 
-But the goal of our instruction is love from a pure heart, from a good conscience, and from a sincere faith.
+The aim of our instruction is love that comes from a pure heart, a good conscience, and a sincere faith.
 
 ## 1 Timothy 1:6
 
-Some people have strayed from these things and have turned aside to fruitless discussion,
+Some individuals have deviated from these principles and have turned to meaningless discussions,
 
 ## 1 Timothy 1:7
 
-wanting to be teachers of the Law, even though they do not understand either what they are saying or the matters about which they make confident assertions.
+desiring to be teachers of the Law, though they do not comprehend what they are saying or the subjects about which they make confident claims.
 
 ## 1 Timothy 1:8
 
@@ -38,15 +38,15 @@ realising the fact that law is not made for a righteous person, but for those wh
 
 ## 1 Timothy 1:10
 
-for the sexually immoral, homosexuals, slave traders, liars, perjurers, and whatever else is contrary to sound teaching,
+for those who engage in immoral acts, those who exploit others, liars, perjurers, and whatever else is contrary to sound teaching,
 
 ## 1 Timothy 1:11
 
-according to the glorious gospel of the blessed God, with which I have been entrusted.
+in line with the glorious gospel of the blessed God, which has been entrusted to me.
 
 ## 1 Timothy 1:12
 
-I thank Christ Jesus our Lord, who has strengthened me, because He considered me faithful, putting me into service,
+I am grateful to Christ Jesus our Lord, who has given me strength, because He considered me faithful, appointing me to His service,
 
 ## 1 Timothy 1:13
 
@@ -54,15 +54,15 @@ even though I was previously a blasphemer, a persecutor, and a violent aggressor
 
 ## 1 Timothy 1:14
 
-and the grace of our Lord was more than abundant, with the faith and love which are found in Christ Jesus.
+and the grace of our Lord was exceedingly abundant, with the faith and love that are in Christ Jesus.
 
 ## 1 Timothy 1:15
 
-It is a trustworthy statement, deserving full acceptance, that Christ Jesus came into the world to save sinners, among whom I am foremost.
+It is a trustworthy statement, deserving full acceptance, that Christ Jesus came into the world to save sinners, of whom I am the foremost.
 
 ## 1 Timothy 1:16
 
-Yet for this reason I found mercy, so that in me as the foremost sinner Jesus Christ might demonstrate His perfect patience as an example for those who would believe in Him for eternal life.
+Yet for this reason I was shown mercy, so that in me, the foremost sinner, Jesus Christ might display His perfect patience as an example for those who would believe in Him for eternal life.
 
 ## 1 Timothy 1:17
 
@@ -74,8 +74,8 @@ This command I entrust to you, Timothy, my son, in accordance with the prophecie
 
 ## 1 Timothy 1:19
 
-keeping faith and a good conscience, which some have rejected and suffered shipwreck in regard to their faith.
+maintaining faith and a good conscience, which some have rejected and thus have suffered shipwreck in regard to their faith.
 
 ## 1 Timothy 1:20
 
-Among these are Hymenaeus and Alexander, whom I have handed over to Satan, so that they will be taught not to blaspheme.
+Among these are Hymenaeus and Alexander, whom I have handed over to Satan, so that they may learn not to blaspheme.

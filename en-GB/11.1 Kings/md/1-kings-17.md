@@ -8,7 +8,7 @@ there shall certainly be neither dew nor rain during these years, except by my w
 
 ## 1 Kings 17:2
 
-Then the word of the Lord came to him, saying,
+Then a message from the Lord came to him, saying,
 
 ## 1 Kings 17:3
 
@@ -40,7 +40,7 @@ because there was no rain in the land.
 
 ## 1 Kings 17:8
 
-Then the word of the Lord came to him, saying,
+Then a message from the Lord came to him, saying,
 
 ## 1 Kings 17:9
 

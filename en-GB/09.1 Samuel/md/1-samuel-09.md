@@ -77,7 +77,7 @@ When Samuel saw Saul, the Lord said to him, “Behold, this is the man of whom I
 
 ## 1 Samuel 9:18
 
-Then Saul approached Samuel in the gate and said, “Please tell me where the seer’s house is.”
+Saul went up to Samuel at the entrance and asked, “Could you please show me the way to the seer’s house?”
 
 ## 1 Samuel 9:19
 
@@ -110,7 +110,7 @@ So Saul ate with Samuel that day.
 
 ## 1 Samuel 9:25
 
-When they came down from the high place into the city, Samuel spoke with Saul on the roof.
+After they descended from the high place into the city, Samuel conversed with Saul on the rooftop.
 
 ## 1 Samuel 9:26
 

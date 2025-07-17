@@ -161,7 +161,7 @@ She was a woman of beautiful appearance.
 
 ## 2 Samuel 14:28
 
-Now Absalom lived two full years in Jerusalem, and did not see the king’s face.
+Absalom remained in Jerusalem for two complete years without seeing the king’s face.
 
 ## 2 Samuel 14:29
 

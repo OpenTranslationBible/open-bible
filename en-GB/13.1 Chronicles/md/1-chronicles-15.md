@@ -34,37 +34,37 @@ David gathered together the sons of Aaron and the Levites:
 
 ## 1 Chronicles 15:5
 
-> Of the sons of Kohath: Uriel the chief, and 120 of his relatives;
+> From the descendants of Kohath: Uriel the leader, along with 120 of his kin;
 
 ---
 
 ## 1 Chronicles 15:6
 
-> Of the sons of Merari: Asaiah the chief, and 220 of his relatives;
+> From the descendants of Merari: Asaiah the leader, along with 220 of his kin;
 
 ---
 
 ## 1 Chronicles 15:7
 
-> Of the sons of Gershom: Joel the chief, and 130 of his relatives;
+> From the descendants of Gershom: Joel the leader, along with 130 of his kin;
 
 ---
 
 ## 1 Chronicles 15:8
 
-> Of the sons of Elizaphan: Shemaiah the chief, and 200 of his relatives;
+> From the descendants of Elizaphan: Shemaiah the leader, along with 200 of his kin;
 
 ---
 
 ## 1 Chronicles 15:9
 
-> Of the sons of Hebron: Eliel the chief, and 80 of his relatives;
+> From the descendants of Hebron: Eliel the leader, along with 80 of his kin;
 
 ---
 
 ## 1 Chronicles 15:10
 
-> Of the sons of Uzziel: Amminadab the chief, and 112 of his relatives.
+> From the descendants of Uzziel: Amminadab the leader, along with 112 of his kin.
 
 ---
 
@@ -173,7 +173,7 @@ Chenaniah, chief of the Levites, was in charge of the singing;
 
 ## 1 Chronicles 15:23
 
-And Berechiah and Elkanah were gatekeepers for the ark.
+And Berechiah and Elkanah served as gatekeepers for the ark.
 
 ---
 

@@ -14,7 +14,7 @@ Here I am. Testify against me before the Lord and before His anointed: Whose ox 
 
 ## 1 Samuel 12:4
 
-And they said, “You have not defrauded us or oppressed us or taken anything from any man’s hand.”
+And they replied, “You have not wronged us, nor oppressed us, nor taken anything from anyone’s hand.”
 
 ## 1 Samuel 12:5
 
@@ -37,7 +37,7 @@ When Jacob went into Egypt and your fathers cried out to the Lord, then the Lord
 
 ## 1 Samuel 12:9
 
-But they forgot the Lord their God, so He sold them into the hand of Sisera, commander of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
+But they forgot the Lord their God, and so He allowed them to fall into the hand of Sisera, commander of the army of Hazor, and into the hand of the Philistines, and into the hand of the king of Moab, and they fought against them.
 
 ## 1 Samuel 12:10
 
@@ -67,7 +67,7 @@ But if you will not obey the voice of the Lord, and rebel against the command of
 
 ## 1 Samuel 12:16
 
-Now therefore stand still and see this great thing which the Lord will do before your eyes.
+Now therefore stand still and observe this great thing, which the Lord will perform before your eyes.
 
 ## 1 Samuel 12:17
 
@@ -97,11 +97,11 @@ For the Lord will not abandon His people for His great name’s sake, because it
 
 ## 1 Samuel 12:23
 
-Moreover as for me, far be it from me that I should sin against the Lord by ceasing to pray for you; but I will instruct you in the good and right way.
+As for me, I would never sin against the Lord by ceasing to pray for you; instead, I will guide you in the good and right way.
 
 ## 1 Samuel 12:24
 
-Only fear the Lord and serve Him in truth with all your heart; for consider what great things He has done for you.
+Fear the Lord and serve Him faithfully with all your heart; for consider what great things He has done for you.
 
 ## 1 Samuel 12:25
 

@@ -79,7 +79,7 @@ but he did not go down to his house.
 
 ## 2 Samuel 11:14
 
-Now in the morning David wrote a letter to Joab and sent it by the hand of Uriah.
+In the morning, David wrote a letter to Joab and sent it with Uriah.
 
 ## 2 Samuel 11:15
 

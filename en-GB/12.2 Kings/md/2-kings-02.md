@@ -2,7 +2,7 @@
 
 ## 2 Kings 2:1
 
-When the Lord was about to take Elijah up to heaven in a whirlwind, Elijah and Elisha were on their way from Gilgal.
+As the time approached for the Lord to take Elijah up to heaven in a whirlwind, Elijah and Elisha were travelling from Gilgal.
 
 ## 2 Kings 2:2
 
@@ -38,7 +38,7 @@ So the two of them walked on.
 
 ## 2 Kings 2:7
 
-Fifty men from the company of the prophets went and stood at a distance, facing the place where Elijah and Elisha had stopped at the Jordan.
+Fifty men from the company of the prophets went and stood at a distance, observing the place where Elijah and Elisha had paused at the Jordan.
 
 ## 2 Kings 2:8
 
@@ -127,7 +127,7 @@ Never again will it cause death or make the land barren.”
 
 ## 2 Kings 2:22
 
-And the water has remained pure to this day, according to the word Elisha had spoken.
+And the water has remained pure to this day, just as Elisha had declared.
 
 ---
 

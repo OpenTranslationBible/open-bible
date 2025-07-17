@@ -62,7 +62,7 @@ When our enemies heard that we were aware of their plot and that God had thwarte
 
 ## Nehemiah 4:16
 
-From that day forward, half of my men worked on the construction, while the other half were equipped with spears, shields, bows, and armor. The officers stationed themselves behind all the people of Judah.
+From that day forward, half of my men worked on the construction, while the other half were equipped with spears, shields, bows, and armour. The officers stationed themselves behind all the people of Judah.
 
 ## Nehemiah 4:17
 

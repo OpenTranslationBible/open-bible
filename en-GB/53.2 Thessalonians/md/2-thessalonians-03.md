@@ -2,7 +2,7 @@
 
 ## 2 Thessalonians 3:1
 
-Finally, brothers and sisters, pray for us that the word of the Lord will spread rapidly and be glorified, just as it was also with you;
+Finally, dear friends, pray for us that the word of the Lord may spread swiftly and be honoured, just as it was with you;
 
 ## 2 Thessalonians 3:2
 
@@ -10,63 +10,63 @@ and that we will be rescued from perverse and evil people; for not all have fait
 
 ## 2 Thessalonians 3:3
 
-But the Lord is faithful, and He will strengthen and protect you from the evil one.
+Yet the Lord is faithful, and He will strengthen and guard you from the evil one.
 
 ## 2 Thessalonians 3:4
 
-We have confidence in the Lord concerning you, that you are doing, and will continue to do, what we command.
+We have confidence in the Lord regarding you, that you are doing and will continue to do what we instruct.
 
 ## 2 Thessalonians 3:5
 
-May the Lord direct your hearts to the love of God and to the perseverance of Christ.
+May the Lord guide your hearts towards the love of God and the endurance of Christ.
 
 ## 2 Thessalonians 3:6
 
-Now we command you, brothers and sisters, in the name of our Lord Jesus Christ, that you keep away from every brother or sister who leads a disorderly life and not one in accordance with the tradition which you received from us.
+Now we instruct you, dear friends, in the name of our Lord Jesus Christ, to keep away from every believer who leads a disorderly life and not one in accordance with the tradition you received from us.
 
 ## 2 Thessalonians 3:7
 
-For you yourselves know how you ought to follow our example, because we did not act in an undisciplined way among you,
+For you yourselves know how you ought to follow our example, because we did not behave in an undisciplined manner among you,
 
 ## 2 Thessalonians 3:8
 
-nor did we eat anyone’s bread without paying for it, but with labour and hardship we kept working night and day so that we would not be a burden to any of you;
+nor did we eat anyone’s bread without paying for it, but with labour and hardship we worked night and day so that we would not be a burden to any of you;
 
 ## 2 Thessalonians 3:9
 
-not because we do not have the right to this, but in order to offer ourselves as a model for you, so that you would follow our example.
+not because we lack the right to such support, but in order to present ourselves as an example for you to imitate.
 
 ## 2 Thessalonians 3:10
 
-For even when we were with you, we used to give you this order: if anyone is not willing to work, then he is not to eat, either.
+For even when we were with you, we gave you this instruction: if anyone is unwilling to work, they should not eat.
 
 ## 2 Thessalonians 3:11
 
-For we hear that some among you are leading an undisciplined life, doing no work at all, but acting like busybodies.
+For we hear that some among you are living in a disorderly manner, doing no work at all, but being busybodies.
 
 ## 2 Thessalonians 3:12
 
-Now we command and exhort such people in the Lord Jesus Christ to work peacefully and eat their own bread.
+Now we command and urge such individuals in the Lord Jesus Christ to work quietly and eat their own bread.
 
 ## 2 Thessalonians 3:13
 
-But as for you, brothers and sisters, do not grow weary of doing good.
+But as for you, dear friends, do not become weary in doing good.
 
 ## 2 Thessalonians 3:14
 
-If anyone does not obey our instruction in this letter, take special note of that person so as not to associate with him, so that he will be put to shame.
+If anyone does not comply with our instructions in this letter, take special note of that person and do not associate with them, so that they may feel ashamed.
 
 ## 2 Thessalonians 3:15
 
-And yet do not regard him as an enemy, but admonish him as a brother.
+Yet do not consider them as an enemy, but warn them as a sibling.
 
 ## 2 Thessalonians 3:16
 
-Now may the Lord of peace Himself continually grant you peace in every circumstance. The Lord be with you all!
+Now may the Lord of peace Himself continually grant you peace in every situation. The Lord be with you all!
 
 ## 2 Thessalonians 3:17
 
-I, Paul, write this greeting with my own hand, and this is a distinguishing mark in every letter; this is the way I write.
+I, Paul, write this greeting with my own hand, and this is a distinguishing mark in every letter; this is how I write.
 
 ## 2 Thessalonians 3:18
 

@@ -61,7 +61,7 @@ and all the men of Judah who were servants of the king.
 
 ## 1 Kings 1:10
 
-But he did not invite Nathan the prophet, Benaiah, the mighty men, or Solomon his brother.
+Yet, Nathan the prophet, Benaiah, the mighty men, and Solomon his brother were not invited.
 
 ---
 
@@ -287,7 +287,7 @@ This is the noise that you have heard.
 
 ## 1 Kings 1:46
 
-Also Solomon has taken his seat on the throne of the kingdom.
+Furthermore, Solomon now sits on the throne of the kingdom.
 
 ## 1 Kings 1:47
 

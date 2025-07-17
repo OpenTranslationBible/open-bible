@@ -6,7 +6,7 @@ Now concerning food sacrificed to idols, we know that we all have knowledge. Kno
 
 ## 1 Corinthians 8:2
 
-If anyone thinks that he knows anything, he has not yet known as he ought to know;
+If anyone believes he possesses knowledge, he does not yet know as he should;
 
 ## 1 Corinthians 8:3
 
@@ -14,7 +14,7 @@ But if anyone loves God, he is known by Him.
 
 ## 1 Corinthians 8:4
 
-Therefore, concerning the eating of food sacrificed to idols, we know that an idol is nothing at all in the world, and that there is no God but one.
+Therefore, regarding the eating of food offered to idols, we understand that an idol is insignificant in the world, and that there is no God but one.
 
 ## 1 Corinthians 8:5
 
@@ -26,15 +26,15 @@ Yet for us there is only one God, the Father, from whom are all things, and we e
 
 ## 1 Corinthians 8:7
 
-However, not all people have this knowledge; but some, being accustomed to the idol until now, eat food as if it were sacrificed to an idol, and their conscience, being weak, is defiled.
+Nevertheless, not everyone possesses this understanding; some, being accustomed to the idol until now, eat food as if it were offered to an idol, and their conscience, being weak, is defiled.
 
 ## 1 Corinthians 8:8
 
-Now food will not bring us close to God; we are neither the worse if we do not eat, nor the better if we do eat.
+Food does not bring us closer to God; we are neither worse off if we do not eat, nor better if we do eat.
 
 ## 1 Corinthians 8:9
 
-But take care that this freedom of yours does not somehow become a stumbling block to the weak.
+But be careful that this freedom of yours does not somehow become a stumbling block to those who are weak.
 
 ## 1 Corinthians 8:10
 
@@ -42,12 +42,12 @@ For if someone sees you, the one who has knowledge, dining in an idol’s temple
 
 ## 1 Corinthians 8:11
 
-For through your knowledge the one who is weak is ruined, the brother or sister for whose sake Christ died.
+For through your knowledge the one who is weak is harmed, the brother or sister for whom Christ died.
 
 ## 1 Corinthians 8:12
 
-And so, by sinning against the brothers and sisters and wounding their conscience when it is weak, you sin against Christ.
+Thus, by sinning against the brothers and sisters and injuring their conscience when it is weak, you sin against Christ.
 
 ## 1 Corinthians 8:13
 
-Therefore, if food causes my brother to sin, I will never eat meat again, so that I will not cause my brother to sin.
+Therefore, if food leads my brother to stumble, I will never eat meat again, so that I will not cause my brother to fall.

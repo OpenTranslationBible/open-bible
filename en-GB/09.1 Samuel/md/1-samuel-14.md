@@ -18,7 +18,7 @@ Now between the passes by which Jonathan sought to go over to the Philistine gar
 
 ## 1 Samuel 14:5
 
-The one crag rose on the north opposite Michmash, and the other on the south opposite Geba.
+One crag rose on the north facing Michmash, and the other on the south facing Geba.
 
 ## 1 Samuel 14:6
 
@@ -34,7 +34,7 @@ Then Jonathan said, “Now we will cross over to the men and show ourselves to t
 
 ## 1 Samuel 14:9
 
-If they say to us, ‘Wait until we come to you,’ then we will stand still in our place and not go up to them.
+If they say to us, ‘Wait until we come to you,’ then we will remain where we are and not go up to them.
 
 ## 1 Samuel 14:10
 
@@ -95,7 +95,7 @@ And all the men of Israel who had hidden in the hill country of Ephraim heard th
 
 ## 1 Samuel 14:23
 
-So the Lord saved Israel that day, and the battle passed beyond Beth-aven.
+Thus the Lord delivered Israel that day, and the battle moved beyond Beth-aven.
 
 ---
 
@@ -105,7 +105,7 @@ Now the men of Israel were hard pressed that day, for Saul had laid an oath on t
 
 ## 1 Samuel 14:25
 
-Now all the people of the land entered the forest, and there was honey on the ground.
+Then all the people of the land entered the forest, and there was honey on the ground.
 
 ## 1 Samuel 14:26
 
@@ -125,7 +125,7 @@ Then Jonathan said, “My father has troubled the land. See how my eyes have bri
 
 ## 1 Samuel 14:30
 
-How much better if the people had eaten freely today of the spoil of their enemies which they found! For now the slaughter among the Philistines has not been great.”
+How much better it would have been if the people had eaten freely today from the spoil of their enemies which they found! For now the slaughter among the Philistines has not been significant.”
 
 ---
 
@@ -158,7 +158,7 @@ Then Saul said, “Let us go down after the Philistines by night and plunder the
 
 ## 1 Samuel 14:37
 
-And Saul inquired of God, “Shall I go down after the Philistines? Will You give them into the hand of Israel?” But He did not answer him that day.
+And Saul inquired of God, “Shall I go down after the Philistines? Will You deliver them into the hand of Israel?” But He did not answer him that day.
 
 ## 1 Samuel 14:38
 

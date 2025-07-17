@@ -14,15 +14,15 @@ My defence to those who examine me is this:
 
 ## 1 Corinthians 9:4
 
-Do we not have a right to eat and drink?
+Do we not have the liberty to eat and drink?
 
 ## 1 Corinthians 9:5
 
-Do we not have a right to take along a believing wife, even as the rest of the apostles, the brothers of the Lord, and Cephas?
+Do we not have the right to take along a believing wife, even as the rest of the apostles, the brothers of the Lord, and Cephas?
 
 ## 1 Corinthians 9:6
 
-Or do only Barnabas and I have no right to refrain from working?
+Or is it only Barnabas and I who are without the right to refrain from working?
 
 ## 1 Corinthians 9:7
 
@@ -34,7 +34,7 @@ I am not speaking these things according to human judgement, am I? Or does the L
 
 ## 1 Corinthians 9:9
 
-For it is written in the Law of Moses: “You shall not muzzle the ox while it is threshing.” God is not concerned about oxen, is He?
+For it is written in the Law of Moses: “You shall not muzzle the ox while it is threshing.” Is God concerned only about oxen?
 
 ## 1 Corinthians 9:10
 
@@ -42,19 +42,19 @@ Or is He speaking entirely for our sake? Yes, it was written for our sake, becau
 
 ## 1 Corinthians 9:11
 
-If we sowed spiritual things in you, is it too much if we reap material things from you?
+If we have shared spiritual blessings with you, is it too much to expect material support from you?
 
 ## 1 Corinthians 9:12
 
-If others share the right over you, do we not more? Nevertheless, we did not use this right, but we endure all things so that we will cause no hindrance to the gospel of Christ.
+If others share this right over you, do we not have even more? Nevertheless, we did not make use of this right, but we endure all things so that we will cause no hindrance to the gospel of Christ.
 
 ## 1 Corinthians 9:13
 
-Do you not know that those who perform sacred services eat the food of the temple, and those who attend regularly to the altar have their share from the altar?
+Do you not know that those who perform sacred services eat the offerings of the temple, and those who attend regularly to the altar partake of what is offered on the altar?
 
 ## 1 Corinthians 9:14
 
-So also the Lord directed those who proclaim the gospel to get their living from the gospel.
+In the same way, the Lord commanded that those who proclaim the gospel should earn their living from the gospel.
 
 ## 1 Corinthians 9:15
 
@@ -62,7 +62,7 @@ But I have used none of these rights, and I am not writing these things so that 
 
 ## 1 Corinthians 9:16
 
-For if I preach the gospel, I have nothing to boast about, for I am under compulsion; for woe to me if I do not preach the gospel!
+For if I preach the gospel, I have nothing to boast about, for I am compelled to do so; indeed, woe to me if I do not preach the gospel!
 
 ## 1 Corinthians 9:17
 
@@ -70,11 +70,11 @@ For if I do this voluntarily, I have a reward; but if against my will, I have be
 
 ## 1 Corinthians 9:18
 
-What, then, is my reward? That, when I preach the gospel, I may offer the gospel without charge, so as not to make full use of my right in the gospel.
+What, then, is my reward? That, when I preach the gospel, I may offer it without charge, so as not to make full use of my right in the gospel.
 
 ## 1 Corinthians 9:19
 
-For though I am free from all people, I have made myself a slave to all, so that I may gain more.
+For though I am free from all people, I have made myself a servant to all, so that I may gain more.
 
 ## 1 Corinthians 9:20
 
@@ -86,15 +86,15 @@ To those who are without the Law, as without the Law, though not being without t
 
 ## 1 Corinthians 9:22
 
-To the weak I became weak, that I might gain the weak; I have become all things to all people, so that I may by all means save some.
+To the weak I became as weak, that I might gain the weak; I have become all things to all people, so that I may by all means save some.
 
 ## 1 Corinthians 9:23
 
-I do all things for the sake of the gospel, so that I may become a fellow partaker of it.
+I do everything for the sake of the gospel, so that I may share in its blessings.
 
 ## 1 Corinthians 9:24
 
-Do you not know that those who run in a race all run, but only one receives the prize? Run in such a way that you may win.
+Do you not know that in a race all the runners compete, but only one receives the prize? Run in such a way that you may win.
 
 ## 1 Corinthians 9:25
 

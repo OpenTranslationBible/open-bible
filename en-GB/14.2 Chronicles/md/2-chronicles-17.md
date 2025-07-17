@@ -14,19 +14,19 @@ He placed troops in all the fortified cities of Judah, and stationed garrisons i
 
 ## 2 Chronicles 17:3
 
-And the Lord was with Jehoshaphat because he followed the example of his father David’s earlier days and did not seek the Baals,
+The Lord was with Jehoshaphat because he followed the ways of his ancestor David in his earlier days and did not pursue the Baals,
 
 ---
 
 ## 2 Chronicles 17:4
 
-but sought the God of his father, followed His commandments, and did not act as Israel did.
+but sought the God of his father, adhered to His commandments, and did not behave as Israel did.
 
 ---
 
 ## 2 Chronicles 17:5
 
-So the Lord established the kingdom in his control, and all Judah gave tribute to Jehoshaphat, and he had great riches and honor.
+Thus, the Lord firmly established the kingdom under his rule, and all Judah brought gifts to Jehoshaphat, and he enjoyed great wealth and honour.
 
 ---
 
@@ -69,13 +69,13 @@ The Arabs also brought him flocks, seven thousand seven hundred rams and seven t
 
 ## 2 Chronicles 17:12
 
-So Jehoshaphat grew greater and greater, and he built fortresses and storage cities in Judah.
+Jehoshaphat continued to grow in power, and he built fortresses and storage cities in Judah.
 
 ---
 
 ## 2 Chronicles 17:13
 
-He had large supplies in the cities of Judah, and warriors, valiant mighty men, in Jerusalem.
+He had abundant supplies in the cities of Judah, and warriors, valiant men of strength, in Jerusalem.
 
 ---
 
@@ -95,22 +95,22 @@ This was their muster according to their fathers’ households:
 
 ## 2 Chronicles 17:16
 
-> and next to him, Amasiah the son of Zichri, who volunteered for the Lord, and with him 200,000 valiant warriors;
+> and next to him, Amasiah the son of Zichri, who willingly offered himself for the Lord, and with him 200,000 valiant warriors;
 
 ---
 
 ## 2 Chronicles 17:17
 
-> and of Benjamin: Eliada, a valiant warrior, and with him 200,000 armed with bow and shield;
+> and of Benjamin: Eliada, a valiant warrior, and with him 200,000 equipped with bow and shield;
 
 ---
 
 ## 2 Chronicles 17:18
 
-> and next to him, Jehozabad, and with him 180,000 equipped for war.
+> and next to him, Jehozabad, and with him 180,000 prepared for war.
 
 ---
 
 ## 2 Chronicles 17:19
 
-These are the ones who served the king, apart from those whom the king put in the fortified cities throughout Judah.
+These are the ones who served the king, in addition to those whom the king stationed in the fortified cities throughout Judah.

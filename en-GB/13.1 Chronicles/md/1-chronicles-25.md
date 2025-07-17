@@ -138,25 +138,25 @@ The first lot for Asaph fell to Joseph,
 
 ## 1 Chronicles 25:20
 
-> the thirteenth to Shubael, his sons and his relatives, twelve;
+> the thirteenth to Shubael, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:21
 
-> the fourteenth to Mattithiah, his sons and his relatives, twelve;
+> the fourteenth to Mattithiah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:22
 
-> the fifteenth to Jeremoth, his sons and his relatives, twelve;
+> the fifteenth to Jeremoth, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:23
 
-> the sixteenth to Hananiah, his sons and his relatives, twelve;
+> the sixteenth to Hananiah, along with his sons and relatives, twelve;
 
 ---
 
@@ -168,40 +168,40 @@ The first lot for Asaph fell to Joseph,
 
 ## 1 Chronicles 25:25
 
-> the eighteenth to Hanani, his sons and his relatives, twelve;
+> the eighteenth to Hanani, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:26
 
-> the nineteenth to Mallothi, his sons and his relatives, twelve;
+> the nineteenth to Mallothi, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:27
 
-> the twentieth to Eliathah, his sons and his relatives, twelve;
+> the twentieth to Eliathah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:28
 
-> the twenty-first to Hothir, his sons and his relatives, twelve;
+> the twenty-first to Hothir, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:29
 
-> the twenty-second to Giddalti, his sons and his relatives, twelve;
+> the twenty-second to Giddalti, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:30
 
-> the twenty-third to Mahazioth, his sons and his relatives, twelve;
+> the twenty-third to Mahazioth, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:31
 
-> the twenty-fourth to Romamti-ezer, his sons and his relatives, twelve.
+> the twenty-fourth to Romamti-ezer, along with his sons and relatives, twelve.

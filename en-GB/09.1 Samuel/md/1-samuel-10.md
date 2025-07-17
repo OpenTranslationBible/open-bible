@@ -73,7 +73,7 @@ Saul said to his uncle, â€œHe told us plainly that the donkeys had been found.â€
 
 ## 1 Samuel 10:17
 
-Then Samuel called the people together to the Lord at Mizpah.
+Then Samuel summoned the people to gather before the Lord at Mizpah.
 
 ## 1 Samuel 10:18
 
@@ -112,7 +112,7 @@ Then Samuel told the people the regulations of the kingship and wrote them in a 
 
 ## 1 Samuel 10:26
 
-Saul also went to his house in Gibeah; and the valiant men whose hearts God had touched went with him.
+Saul returned to his home in Gibeah, accompanied by the valiant men whose hearts God had touched.
 
 ## 1 Samuel 10:27
 

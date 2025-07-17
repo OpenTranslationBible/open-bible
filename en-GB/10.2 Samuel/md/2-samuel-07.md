@@ -19,7 +19,7 @@ Nathan said to the king,
 
 ## 2 Samuel 7:4
 
-But in the same night, the word of the Lord came to Nathan, saying,
+However, that night, the word of the Lord came to Nathan, saying,
 
 ## 2 Samuel 7:5
 

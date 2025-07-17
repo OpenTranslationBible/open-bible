@@ -2,13 +2,13 @@
 
 ## 2 Chronicles 21:1
 
-Then Jehoshaphat lay down with his fathers and was buried with his fathers in the city of David, and his son Jehoram became king in his place.
+Jehoshaphat passed away and was laid to rest with his ancestors in the city of David, and his son Jehoram succeeded him as king.
 
 ---
 
 ## 2 Chronicles 21:2
 
-He had brothers, the sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azaryahu, Michael, and Shephatiah; all these were the sons of Jehoshaphat king of Israel.
+Jehoram had brothers, the sons of Jehoshaphat: Azariah, Jehiel, Zechariah, Azaryahu, Michael, and Shephatiah. All these were the sons of Jehoshaphat, king of Israel.
 
 ---
 
@@ -26,19 +26,19 @@ Now when Jehoram had taken over the kingdom of his father and gathered strength 
 
 ## 2 Chronicles 21:5
 
-Jehoram was thirty-two years old when he became king, and he reigned for eight years in Jerusalem.
+Jehoram was thirty-two years old when he began his reign, and he ruled for eight years in Jerusalem.
 
 ---
 
 ## 2 Chronicles 21:6
 
-He walked in the way of the kings of Israel, just as the house of Ahab did (for Ahab’s daughter was his wife), and he did evil in the sight of the Lord.
+He followed the practices of the kings of Israel, just as the house of Ahab did (for Ahab’s daughter was his wife), and he did what was evil in the eyes of the Lord.
 
 ---
 
 ## 2 Chronicles 21:7
 
-Yet the Lord was not willing to destroy the house of David because of the covenant which He had made with David, and since He had promised to give a lamp to him and his sons forever.
+Yet the Lord chose not to destroy the house of David because of the covenant He had made with David, and since He had promised to maintain a lamp for him and his sons forever.
 
 ---
 
@@ -76,7 +76,7 @@ Then a letter came to him from Elijah the prophet, saying,
 
 ## 2 Chronicles 21:13
 
-but have walked in the way of the kings of Israel, and have caused Judah and the inhabitants of Jerusalem to prostitute themselves as the house of Ahab did, and you have also killed your brothers, your own family, who were better than you,
+but have followed the practices of the kings of Israel, and have caused Judah and the inhabitants of Jerusalem to prostitute themselves as the house of Ahab did, and you have also killed your brothers, your own family, who were better than you,
 
 ---
 
@@ -94,7 +94,7 @@ and you will suffer great pain from a disease of your intestines, until your int
 
 ## 2 Chronicles 21:16
 
-Then the Lord stirred up against Jehoram the spirit of the Philistines and the Arabs who bordered the Ethiopians;
+Then the Lord incited against Jehoram the spirit of the Philistines and the Arabs who bordered the Ethiopians;
 
 ---
 
@@ -118,5 +118,5 @@ Now it came about in the course of time, at the end of two years, that his intes
 
 ## 2 Chronicles 21:20
 
-He was thirty-two years old when he became king, and he reigned in Jerusalem for eight years; and he departed with no one’s regret.  
+He was thirty-two years old when he began his reign, and he ruled in Jerusalem for eight years; and he departed with no one’s regret.  
 And they buried him in the city of David, but not in the tombs of the kings.

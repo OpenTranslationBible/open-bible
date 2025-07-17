@@ -2,31 +2,31 @@
 
 ## 1 Peter 2:1
 
-Therefore, rid yourselves of all malice, all deceit, hypocrisy, envy, and all slander,
+So, put away all malice, deceit, hypocrisy, envy, and every kind of slander,
 
 ## 1 Peter 2:2
 
-and like newborn babies, long for the pure milk of the word, so that by it you may grow in respect to salvation,
+and like newborn infants, crave pure spiritual milk, so that by it you may grow up in your salvation,
 
 ## 1 Peter 2:3
 
-if you have tasted the kindness of the Lord.
+if you have experienced the goodness of the Lord.
 
 ## 1 Peter 2:4
 
-And coming to Him as to a living stone which has been rejected by people, but is choice and precious in the sight of God,
+And as you come to Him, a living stone rejected by people but chosen and precious in God's sight,
 
 ## 1 Peter 2:5
 
-you also, as living stones, are being built up as a spiritual house for a holy priesthood, to offer spiritual sacrifices that are acceptable to God through Jesus Christ.
+you also, like living stones, are being constructed into a spiritual house to become a holy priesthood, presenting spiritual sacrifices that are acceptable to God through Jesus Christ.
 
 ## 1 Peter 2:6
 
 For this is contained in Scripture:
 
-> “Behold, I am laying in Zion a choice stone,
+> “Behold, I am laying in Zion a choice stone,  
 > a precious cornerstone,  
-> And the one who believes in Him
+> And the one who believes in Him  
 > will not be put to shame.”
 
 ## 1 Peter 2:7
@@ -49,11 +49,11 @@ But you are a chosen people, a royal priesthood, a holy nation, a people for God
 
 ## 1 Peter 2:10
 
-for you once were not a people, but now you are the people of God; you had not received mercy, but now you have received mercy.
+for you were once not a people, but now you are the people of God; you had not received mercy, but now you have received mercy.
 
 ## 1 Peter 2:11
 
-Beloved, I urge you as foreigners and strangers to abstain from fleshly lusts, which wage war against the soul.
+Beloved, I urge you, as strangers and pilgrims, to refrain from sinful desires, which wage war against your soul.
 
 ## 1 Peter 2:12
 
@@ -61,19 +61,19 @@ Keep your behaviour excellent among the Gentiles, so that in the thing in which 
 
 ## 1 Peter 2:13
 
-Submit yourselves for the Lord’s sake to every human institution, whether to a king as the one in authority,
+Submit yourselves for the Lord’s sake to every human authority, whether to the king as the supreme authority,
 
 ## 1 Peter 2:14
 
-or to governors as sent by him for the punishment of evildoers and the praise of those who do right.
+or to governors, who are sent by him to bring justice to those who do wrong and to praise those who do right.
 
 ## 1 Peter 2:15
 
-For such is the will of God, that by doing right you silence the ignorance of foolish people.
+For it is God’s will that by doing good you should silence the unwise talk of uninformed people.
 
 ## 1 Peter 2:16
 
-Act as free people, and do not use your freedom as a covering for evil, but use it as bond-servants of God.
+Live as free people, but do not use your freedom as a cover-up for evil; live as servants of God.
 
 ## 1 Peter 2:17
 
@@ -81,11 +81,11 @@ Honour all people, love the brotherhood, fear God, honour the king.
 
 ## 1 Peter 2:18
 
-Servants, be subject to your masters with all respect, not only to those who are good and gentle, but also to those who are harsh.
+Servants, submit yourselves to your masters with all respect, not only to those who are good and gentle, but also to those who are harsh.
 
 ## 1 Peter 2:19
 
-For this finds favour, if for the sake of conscience toward God a person endures grief when suffering unjustly.
+For it is praiseworthy if someone endures the pain of unjust suffering because they are mindful of God.
 
 ## 1 Peter 2:20
 
@@ -93,21 +93,21 @@ For what credit is there if, when you sin and are harshly treated, you endure it
 
 ## 1 Peter 2:21
 
-For you have been called for this purpose, because Christ also suffered for you, leaving you an example, so that you would follow in His steps,
+For to this you were called, because Christ also suffered for you, leaving you an example, that you should follow in His steps,
 
 ## 1 Peter 2:22
 
-> He who committed no sin,
+> He who committed no sin,  
 > nor was any deceit found in His mouth;
 
 ## 1 Peter 2:23
 
-and while being abusively insulted, He did not insult in return; while suffering, He did not threaten, but kept entrusting Himself to Him who judges righteously;
+and while being insulted, He did not retaliate; while suffering, He made no threats, but entrusted Himself to Him who judges justly;
 
 ## 1 Peter 2:24
 
-and He Himself brought our sins in His body up on the cross, so that we might die to sin and live for righteousness; by His wounds you were healed.
+and He Himself bore our sins in His body on the cross, so that we might die to sins and live for righteousness; by His wounds you have been healed.
 
 ## 1 Peter 2:25
 
-For you were continually straying like sheep, but now you have returned to the Shepherd and Guardian of your souls.
+For you were like sheep that had gone astray, but now you have returned to the Shepherd and Overseer of your souls.

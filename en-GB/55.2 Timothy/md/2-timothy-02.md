@@ -6,23 +6,23 @@ You therefore, my son, be strong in the grace that is in Christ Jesus.
 
 ## 2 Timothy 2:2
 
-The things which you have heard from me in the presence of many witnesses, entrust these to faithful people who will be able to teach others also.
+What you have heard from me in the company of many witnesses, entrust to reliable individuals who will be able to teach others as well.
 
 ## 2 Timothy 2:3
 
-Suffer hardship with me, as a good soldier of Christ Jesus.
+Endure difficulties with me, like a dedicated soldier of Christ Jesus.
 
 ## 2 Timothy 2:4
 
-No soldier in active service entangles himself in the affairs of everyday life, so that he may please the one who enlisted him.
+No soldier actively serving gets entangled in the concerns of daily life, so that he may satisfy the one who enlisted him.
 
 ## 2 Timothy 2:5
 
-And if someone likewise competes as an athlete, he is not crowned as victor unless he competes according to the rules.
+And if someone competes as an athlete, he is not crowned as victor unless he competes according to the rules.
 
 ## 2 Timothy 2:6
 
-The hardworking farmer ought to be the first to receive his share of the crops.
+The diligent farmer should be the first to partake of the harvest.
 
 ## 2 Timothy 2:7
 
@@ -30,15 +30,15 @@ Consider what I say, for the Lord will give you understanding in everything.
 
 ## 2 Timothy 2:8
 
-Remember Jesus Christ, risen from the dead, descendant of David, according to my gospel,
+Remember Jesus Christ, raised from the dead, a descendant of David, as proclaimed in my gospel,
 
 ## 2 Timothy 2:9
 
-for which I suffer hardship even to imprisonment as a criminal; but the word of God is not imprisoned.
+for which I endure suffering even to the point of imprisonment as a criminal; yet the word of God is not bound.
 
 ## 2 Timothy 2:10
 
-For this reason I endure all things for the sake of those who are chosen, so that they also may obtain the salvation which is in Christ Jesus and with it eternal glory.
+For this reason I persevere in all things for the sake of those who are chosen, so that they too may obtain the salvation that is in Christ Jesus, along with eternal glory.
 
 ## 2 Timothy 2:11
 
@@ -62,15 +62,15 @@ The statement is trustworthy:
 
 ## 2 Timothy 2:14
 
-Remind them of these things, and solemnly exhort them in the presence of God not to dispute about words, which is useless and leads to the ruin of the listeners.
+Remind them of these things, and earnestly urge them before God not to argue about words, which is pointless and leads to the downfall of the listeners.
 
 ## 2 Timothy 2:15
 
-Be diligent to present yourself approved to God as a worker who does not need to be ashamed, accurately handling the word of truth.
+Make every effort to present yourself approved to God as a worker who does not need to be ashamed, correctly handling the word of truth.
 
 ## 2 Timothy 2:16
 
-But avoid worldly and empty chatter, for it will lead to further ungodliness,
+But avoid irreverent and empty talk, for it will lead to further ungodliness,
 
 ## 2 Timothy 2:17
 
@@ -78,36 +78,36 @@ and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,
 
 ## 2 Timothy 2:18
 
-who have gone astray from the truth, claiming that the resurrection has already taken place, and they are jeopardising the faith of some.
+who have strayed from the truth, asserting that the resurrection has already occurred, and they are undermining the faith of some.
 
 ## 2 Timothy 2:19
 
-Nevertheless, the firm foundation of God stands, having this seal: “The Lord knows those who are His;” and, “Everyone who names the name of the Lord is to keep away from wickedness.”
+Yet, the solid foundation of God stands firm, bearing this seal: “The Lord knows those who are His;” and, “Everyone who calls on the name of the Lord must turn away from wickedness.”
 
 ## 2 Timothy 2:20
 
-Now in a large house there are not only gold and silver implements, but also implements of wood and earthenware, and some are for honour, while others are for dishonour.
+Now in a large house there are not only gold and silver vessels, but also vessels of wood and clay, and some are for honour, while others are for dishonour.
 
 ## 2 Timothy 2:21
 
-Therefore, if anyone cleanses himself from these things, he will be an implement for honour, sanctified, useful to the Master, prepared for every good work.
+Therefore, if anyone cleanses himself from these things, he will be a vessel for honour, sanctified, useful to the Master, prepared for every good work.
 
 ## 2 Timothy 2:22
 
-Now flee from youthful lusts and pursue righteousness, faith, love, and peace with those who call on the Lord from a pure heart.
+Now flee from youthful desires and pursue righteousness, faith, love, and peace with those who call on the Lord from a pure heart.
 
 ## 2 Timothy 2:23
 
-But refuse foolish and ignorant speculations, knowing that they produce quarrels.
+But reject foolish and uninformed debates, knowing that they breed quarrels.
 
 ## 2 Timothy 2:24
 
-The Lord’s bond-servant must not be quarrelsome, but be kind to all, skilful in teaching, patient when wronged,
+The Lord’s servant must not be quarrelsome, but be kind to everyone, skilled in teaching, patient when wronged,
 
 ## 2 Timothy 2:25
 
-with gentleness correcting those who are in opposition, if perhaps God may grant them repentance leading to the knowledge of the truth,
+gently correcting those who oppose, if perhaps God may grant them repentance leading to the knowledge of the truth,
 
 ## 2 Timothy 2:26
 
-and they may come to their senses and escape from the snare of the devil, having been held captive by him to do his will.
+and they may come to their senses and escape from the trap of the devil, having been held captive by him to do his will.

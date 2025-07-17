@@ -145,7 +145,7 @@ they shall share alike.”
 
 ## 1 Samuel 30:25
 
-So it has been from that day forward, that he made it a statute and an ordinance for Israel to this day.
+From that day onwards, it was established as a statute and an ordinance for Israel.
 
 ---
 

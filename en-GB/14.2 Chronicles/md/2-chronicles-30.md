@@ -8,7 +8,7 @@ to celebrate the Passover to the Lord God of Israel.
 
 ## 2 Chronicles 30:2
 
-For the king and his officials and all the assembly in Jerusalem had decided to celebrate the Passover in the second month,
+For the king, his officials, and all the assembly in Jerusalem had resolved to observe the Passover in the second month,
 
 ## 2 Chronicles 30:3
 
@@ -63,7 +63,7 @@ but they laughed at them with scorn and mocked them.
 
 ## 2 Chronicles 30:11
 
-Nevertheless, some men from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem.
+However, some men from Asher, Manasseh, and Zebulun humbled themselves and came to Jerusalem.
 
 ## 2 Chronicles 30:12
 

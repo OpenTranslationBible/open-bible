@@ -2,15 +2,15 @@
 
 ## 2 Corinthians 8:1
 
-Now, brothers and sisters, we make known to you the grace of God which has been given in the churches of Macedonia,
+Dear brothers and sisters, we wish to share with you the grace of God that has been bestowed upon the churches of Macedonia,
 
 ## 2 Corinthians 8:2
 
-That in a great ordeal of affliction their abundance of joy and their deep poverty overflowed in the wealth of their liberality.
+That during a severe trial of affliction, their abundant joy and profound poverty overflowed into a wealth of generosity.
 
 ## 2 Corinthians 8:3
 
-For I testify that according to their ability, and beyond their ability, they gave voluntarily,
+For I can testify that according to their means, and even beyond their means, they gave willingly,
 
 ## 2 Corinthians 8:4
 
@@ -18,11 +18,11 @@ Begging us with much urging for the favour of participation in the support of th
 
 ## 2 Corinthians 8:5
 
-And this, not as we had expected, but they first gave themselves to the Lord and to us by the will of God.
+And this, beyond what we had anticipated, for they first dedicated themselves to the Lord and to us in accordance with God's will.
 
 ## 2 Corinthians 8:6
 
-So we urged Titus that as he had previously made a beginning, so he would also complete in you this gracious work as well.
+So we encouraged Titus that as he had previously initiated this, he would also bring to completion this gracious work among you.
 
 ## 2 Corinthians 8:7
 
@@ -30,7 +30,7 @@ But just as you excel in everything—in faith, word, knowledge, in all earnestn
 
 ## 2 Corinthians 8:8
 
-I am not saying this as a command, but as proving through the earnestness of others the sincerity of your love as well.
+I am not issuing this as a command, but as a means to test the sincerity of your love through the earnestness of others.
 
 ## 2 Corinthians 8:9
 
@@ -38,7 +38,7 @@ For you know the grace of our Lord Jesus Christ, that though He was rich, yet fo
 
 ## 2 Corinthians 8:10
 
-I give my opinion in this matter, for this is to your advantage, you who were the first to begin a year ago not only to do this, but also to desire to do it.
+I offer my opinion in this matter, for it is to your benefit, you who were the first to begin a year ago not only to do this, but also to desire to do it.
 
 ## 2 Corinthians 8:11
 
@@ -46,51 +46,51 @@ But now finish doing it also, so that just as there was the willingness to do it
 
 ## 2 Corinthians 8:12
 
-For if the willingness is present, it is acceptable according to what a person has, not according to what he does not have.
+For if the willingness is there, it is acceptable according to what a person has, not according to what they do not have.
 
 ## 2 Corinthians 8:13
 
-For this is not for the relief of others and for your hardship, but by way of equality—
+For this is not intended to ease others and burden you, but as a matter of fairness—
 
 ## 2 Corinthians 8:14
 
-At this present time your abundance will serve as assistance for their need, so that their abundance also may serve as assistance for your need, so that there may be equality;
+At this present time your abundance will meet their need, so that their abundance may also meet your need, leading to fairness;
 
 ## 2 Corinthians 8:15
 
-As it is written: “The one who had gathered much did not have too much, and the one who had gathered little did not have too little.”
+As the scripture says: “The one who collected much did not have too much, and the one who collected little did not have too little.”
 
 ## 2 Corinthians 8:16
 
-But thanks be to God who puts the same earnestness on your behalf in the heart of Titus.
+But thanks be to God who instills the same earnestness for you in the heart of Titus.
 
 ## 2 Corinthians 8:17
 
-For he not only accepted our appeal, but being himself very earnest, he has gone out to you of his own accord.
+For he not only accepted our request, but being very earnest himself, he has gone to you willingly.
 
 ## 2 Corinthians 8:18
 
-We have sent along with him the brother whose fame in the things of the gospel has spread through all the churches;
+We have sent along with him the brother whose reputation in the matters of the gospel has spread throughout all the churches;
 
 ## 2 Corinthians 8:19
 
-And not only that, but he has also been appointed by the churches to travel with us in this gracious work, which is being administered by us for the glory of the Lord Himself, and to show our readiness,
+And not only that, but he has also been appointed by the churches to travel with us in this gracious work, which is being managed by us for the glory of the Lord Himself, and to demonstrate our readiness,
 
 ## 2 Corinthians 8:20
 
-Taking precaution so that no one will discredit us in our administration of this generous gift;
+Taking care so that no one will discredit us in our handling of this generous gift;
 
 ## 2 Corinthians 8:21
 
-For we have regard for what is honourable, not only in the sight of the Lord, but also in the sight of people.
+For we are concerned with what is honourable, not only in the sight of the Lord, but also in the sight of people.
 
 ## 2 Corinthians 8:22
 
-We have sent with them our brother, whom we have often tested and found diligent in many things, but now even more diligent because of his great confidence in you.
+We have sent with them our brother, whom we have often tested and found diligent in many things, but now even more so due to his great confidence in you.
 
 ## 2 Corinthians 8:23
 
-As for Titus, he is my partner and fellow worker among you; as for our brothers, they are messengers of the churches, a glory to Christ.
+Regarding Titus, he is my partner and fellow worker among you; as for our brothers, they are messengers of the churches, a glory to Christ.
 
 ## 2 Corinthians 8:24
 

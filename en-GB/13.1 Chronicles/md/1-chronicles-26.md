@@ -182,7 +182,7 @@ Of the Amramites, the Izharites, the Hebronites, and the Uzzielites—
 
 ## 1 Chronicles 26:24
 
-Shebuel the son of Gershom, the son of Moses, was officer over the treasures.
+Shebuel, a descendant of Gershom and Moses, was in charge of the treasures.
 
 ---
 

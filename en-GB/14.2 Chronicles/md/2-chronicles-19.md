@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 19:1
 
-Then Jehoshaphat the king of Judah returned in safety to his house in Jerusalem.
+Jehoshaphat, the king of Judah, returned safely to his house in Jerusalem.
 
 ---
 
@@ -34,7 +34,7 @@ He appointed judges in the land in all the fortified cities of Judah, city by ci
 
 ## 2 Chronicles 19:6
 
-He said to the judges, “Consider what you are doing, for you do not judge for mankind but for the Lord, who is with you when you render judgment.
+He addressed the judges, saying, “Be mindful of your actions, for you do not judge for mankind but for the Lord, who is with you in your judgments.
 
 ---
 

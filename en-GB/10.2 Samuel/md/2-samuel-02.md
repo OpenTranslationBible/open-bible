@@ -10,7 +10,7 @@ And He said, “To Hebron.”
 
 ## 2 Samuel 2:2
 
-So David went up there, and his two wives also, Ahinoam the Jezreelitess and Abigail the widow of Nabal the Carmelite.
+So David went up there, accompanied by his two wives: Ahinoam of Jezreel and Abigail, who had been the wife of Nabal the Carmelite.
 
 ## 2 Samuel 2:3
 

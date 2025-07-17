@@ -160,10 +160,10 @@ And they made them a custom in Israel; behold, they are written in the Lamentati
 
 ## 2 Chronicles 35:26
 
-Now the rest of the acts of Josiah and his deeds of devotion as written in the Law of the Lord,
+The remainder of Josiah’s acts and his deeds of devotion, as recorded in the Law of the Lord,
 
 ---
 
 ## 2 Chronicles 35:27
 
-and his acts, the first to the last, behold, they are written in the Book of the Kings of Israel and Judah.
+and his acts, from beginning to end, are indeed written in the Book of the Kings of Israel and Judah.

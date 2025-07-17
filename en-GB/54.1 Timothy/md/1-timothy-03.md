@@ -2,7 +2,7 @@
 
 ## 1 Timothy 3:1
 
-It is a trustworthy statement: if any man aspires to the office of overseer, it is a fine work he desires to do.
+This saying is trustworthy: if anyone aspires to the role of overseer, he desires a noble task.
 
 ## 1 Timothy 3:2
 
@@ -10,11 +10,11 @@ An overseer, then, must be above reproach, the husband of one wife, temperate, s
 
 ## 1 Timothy 3:3
 
-not overindulging in wine, not a bully, but gentle, not contentious, free from the love of money.
+not given to excessive drinking, not violent but gentle, not argumentative, free from the love of money.
 
 ## 1 Timothy 3:4
 
-He must be one who manages his own household well, keeping his children under control with all dignity
+He must be one who manages his own household well, keeping his children respectful with all dignity
 
 ## 1 Timothy 3:5
 
@@ -22,39 +22,39 @@ He must be one who manages his own household well, keeping his children under co
 
 ## 1 Timothy 3:6
 
-and not a new convert, so that he will not become conceited and fall into condemnation incurred by the devil.
+and not a recent convert, so that he will not become conceited and fall into the judgment brought by the devil.
 
 ## 1 Timothy 3:7
 
-And he must have a good reputation with those outside the church, so that he will not fall into disgrace and the snare of the devil.
+Moreover, he must have a good reputation with those outside the church, so that he will not fall into disgrace and the trap of the devil.
 
 ## 1 Timothy 3:8
 
-Deacons likewise must be men of dignity, not insincere, not prone to drink much wine, not greedy for money,
+Deacons likewise must be dignified, not insincere, not given to much wine, not greedy for dishonest gain,
 
 ## 1 Timothy 3:9
 
-but holding to the mystery of the faith with a clear conscience.
+but adhering to the mystery of the faith with a sincere conscience.
 
 ## 1 Timothy 3:10
 
-These men must also first be tested; then have them serve as deacons if they are beyond reproach.
+These individuals must also first be tested; then let them serve as deacons if they are found beyond reproach.
 
 ## 1 Timothy 3:11
 
-Women must likewise be dignified, not malicious gossips, but temperate, faithful in all things.
+Women must likewise be dignified, not slanderers, but temperate, faithful in all things.
 
 ## 1 Timothy 3:12
 
-Deacons must be husbands of one wife, and good managers of their children and their own households.
+Deacons should be faithful to one wife, and effective managers of their children and their own households.
 
 ## 1 Timothy 3:13
 
-For those who have served well as deacons obtain for themselves a high standing and great confidence in the faith that is in Christ Jesus.
+For those who have served well as deacons gain for themselves a high standing and great confidence in the faith that is in Christ Jesus.
 
 ## 1 Timothy 3:14
 
-I am writing these things to you, hoping to come to you before long;
+I am writing these things to you, hoping to visit you soon;
 
 ## 1 Timothy 3:15
 

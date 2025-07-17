@@ -114,7 +114,7 @@ She said to him, “Pardon me, my lord. As surely as you live, my lord, I am the
 
 ## 1 Samuel 1:27
 
-I prayed for this child, and the Lord has granted me what I asked of Him.
+I prayed for this child, and the Lord has granted my request.
 
 ## 1 Samuel 1:28
 

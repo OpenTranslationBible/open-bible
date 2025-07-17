@@ -97,7 +97,7 @@ and hear the words of Sennacherib, which he has sent to taunt the living God.
 
 ## 2 Kings 19:17
 
-Truly, Lord, the kings of Assyria have laid waste the nations and their lands,
+Indeed, Lord, the kings of Assyria have devastated the nations and their lands,
 
 ## 2 Kings 19:18
 

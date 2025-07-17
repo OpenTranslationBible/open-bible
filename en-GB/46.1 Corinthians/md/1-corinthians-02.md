@@ -2,11 +2,11 @@
 
 ## 1 Corinthians 2:1
 
-And when I came to you, brothers and sisters, I did not come as someone superior in speaking ability or wisdom, as I proclaimed to you the testimony of God.
+When I came to you, brothers and sisters, I did not arrive with superior speaking skills or wisdom, as I shared with you the testimony of God.
 
 ## 1 Corinthians 2:2
 
-For I determined to know nothing among you except Jesus Christ, and Him crucified.
+For I decided to focus on nothing among you except Jesus Christ, and Him crucified.
 
 ## 1 Corinthians 2:3
 
@@ -14,11 +14,11 @@ I also was with you in weakness, and fear, and in much trembling,
 
 ## 1 Corinthians 2:4
 
-And my message and my preaching were not in persuasive words of wisdom, but in demonstration of the Spirit and of power,
+And my message and my preaching were not with persuasive words of wisdom, but with a demonstration of the Spirit and of power,
 
 ## 1 Corinthians 2:5
 
-So that your faith would not rest on the wisdom of mankind, but on the power of God.
+So that your faith would not rely on human wisdom, but on the power of God.
 
 ## 1 Corinthians 2:6
 
@@ -26,11 +26,11 @@ Yet we do speak wisdom among those who are mature—a wisdom, however, not of th
 
 ## 1 Corinthians 2:7
 
-But we speak God’s wisdom in a mystery, the hidden wisdom which God predestined before the ages to our glory;
+But we speak of God’s wisdom in a mystery, the hidden wisdom which God determined before the ages for our glory;
 
 ## 1 Corinthians 2:8
 
-The wisdom which none of the rulers of this age has understood; for if they had understood it, they would not have crucified the Lord of glory.
+This wisdom was not understood by any of the rulers of this age; for if they had comprehended it, they would not have crucified the Lord of glory.
 
 ## 1 Corinthians 2:9
 
@@ -42,27 +42,27 @@ But just as it is written:
 
 ## 1 Corinthians 2:10
 
-For to us God revealed them through the Spirit; for the Spirit searches all things, even the depths of God.
+For God revealed these things to us through the Spirit; for the Spirit explores all things, even the depths of God.
 
 ## 1 Corinthians 2:11
 
-For who among people knows the thoughts of a person except the spirit of the person that is in him? So also the thoughts of God no one knows, except the Spirit of God.
+For who among people knows the thoughts of a person except the spirit of the person within? In the same way, the thoughts of God are known by no one except the Spirit of God.
 
 ## 1 Corinthians 2:12
 
-Now we have not received the spirit of the world, but the Spirit who is from God, so that we may know the things freely given to us by God.
+Now we have not received the spirit of the world, but the Spirit who is from God, so that we may understand the things freely given to us by God.
 
 ## 1 Corinthians 2:13
 
-We also speak these things, not in words taught by human wisdom, but in those taught by the Spirit, combining spiritual thoughts with spiritual words.
+We also express these things, not in words taught by human wisdom, but in those taught by the Spirit, uniting spiritual thoughts with spiritual words.
 
 ## 1 Corinthians 2:14
 
-But a natural person does not accept the things of the Spirit of God, for they are foolishness to him; and he cannot understand them, because they are spiritually discerned.
+But a natural person does not accept the things of the Spirit of God, for they seem foolish to him; and he cannot understand them, because they are spiritually discerned.
 
 ## 1 Corinthians 2:15
 
-But the one who is spiritual discerns all things, yet he himself is discerned by no one.
+But the one who is spiritual evaluates all things, yet he himself is evaluated by no one.
 
 ## 1 Corinthians 2:16
 

@@ -2,7 +2,7 @@
 
 ## 1 Corinthians 16:1
 
-Now concerning the collection for the saints, as I directed the churches of Galatia, so you are to do as well.
+Regarding the collection for the believers, as I instructed the churches of Galatia, you should do likewise.
 
 ## 1 Corinthians 16:2
 
@@ -10,15 +10,15 @@ On the first day of every week, each of you is to set aside and save, as he may 
 
 ## 1 Corinthians 16:3
 
-When I arrive, whomever you approve, I will send them with letters to take your gift to Jerusalem;
+When I arrive, those whom you approve, I will send with letters to deliver your gift to Jerusalem;
 
 ## 1 Corinthians 16:4
 
-And if it is appropriate for me to go also, they will go with me.
+And if it seems suitable for me to go also, they will accompany me.
 
 ## 1 Corinthians 16:5
 
-But I will come to you after I go through Macedonia, for I am going through Macedonia;
+I will come to you after passing through Macedonia, for I am travelling through Macedonia;
 
 ## 1 Corinthians 16:6
 
@@ -26,19 +26,19 @@ And perhaps I will stay with you, or even spend the winter, so that you may send
 
 ## 1 Corinthians 16:7
 
-For I do not want to see you now just in passing; for I hope to remain with you for some time, if the Lord permits.
+For I do not wish to see you now only briefly; I hope to remain with you for some time, if the Lord allows.
 
 ## 1 Corinthians 16:8
 
-But I will remain in Ephesus until Pentecost;
+But I will stay in Ephesus until Pentecost;
 
 ## 1 Corinthians 16:9
 
-For a wide door for effective service has opened to me, and there are many adversaries.
+For a great opportunity for effective work has opened to me, and there are many opponents.
 
 ## 1 Corinthians 16:10
 
-Now if Timothy comes, see that he has nothing to fear while he is with you, for he is doing the Lord’s work, as I also am.
+Now if Timothy comes, ensure that he has nothing to fear while he is with you, for he is doing the Lord’s work, as I also am.
 
 ## 1 Corinthians 16:11
 
@@ -50,7 +50,7 @@ Now concerning our brother Apollos, I strongly encouraged him to come to you wit
 
 ## 1 Corinthians 16:13
 
-Be on the alert, stand firm in the faith, act like men, be strong.
+Be watchful, stand firm in the faith, be courageous, be strong.
 
 ## 1 Corinthians 16:14
 
@@ -66,27 +66,27 @@ That you also be in subjection to such people and to everyone who helps in the w
 
 ## 1 Corinthians 16:17
 
-I rejoice over the coming of Stephanas, Fortunatus, and Achaicus, because they have supplied what was lacking on your part.
+I am glad about the arrival of Stephanas, Fortunatus, and Achaicus, because they have supplied what was lacking on your part.
 
 ## 1 Corinthians 16:18
 
-For they have refreshed my spirit and yours. Therefore, acknowledge such men.
+For they have refreshed my spirit and yours. Therefore, recognise such individuals.
 
 ## 1 Corinthians 16:19
 
-The churches of Asia greet you. Aquila and Prisca greet you heartily in the Lord, with the church that is in their house.
+The churches of Asia send you greetings. Aquila and Prisca warmly greet you in the Lord, along with the church that meets in their house.
 
 ## 1 Corinthians 16:20
 
-All the brothers and sisters greet you. Greet one another with a holy kiss.
+All the believers send you greetings. Embrace one another with a holy kiss.
 
 ## 1 Corinthians 16:21
 
-The greeting is in my own hand—that of Paul.
+I, Paul, write this greeting with my own hand.
 
 ## 1 Corinthians 16:22
 
-If anyone does not love the Lord, he is to be accursed. Maranatha!
+If anyone does not love the Lord, let them be under a curse. Maranatha!
 
 ## 1 Corinthians 16:23
 

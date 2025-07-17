@@ -8,7 +8,7 @@ Now when the queen of Sheba heard the fame of Solomon, she came to Jerusalem to 
 
 ## 2 Chronicles 9:2
 
-Solomon answered all her questions; nothing was hidden from Solomon which he did not explain to her.
+Solomon addressed all her inquiries; there was nothing that Solomon did not clarify for her.
 
 ---
 
@@ -26,7 +26,7 @@ the food at his table, the seating of his servants, the service of his ministers
 
 ## 2 Chronicles 9:5
 
-Then she said to the king, “It was a true report which I heard in my own land about your words and your wisdom.
+Then she said to the king, “The report I heard in my own land about your words and your wisdom was indeed true.
 
 ---
 
@@ -38,7 +38,7 @@ But I did not believe the report until I came and my eyes had seen it. And behol
 
 ## 2 Chronicles 9:7
 
-How blessed are your men, how blessed are these your servants who stand before you continually and hear your wisdom.
+How fortunate are your men, how fortunate are these your servants who stand before you continually and hear your wisdom.
 
 ---
 
@@ -74,31 +74,31 @@ King Solomon gave to the queen of Sheba everything she desired, whatever she ask
 
 ## 2 Chronicles 9:13
 
-Now the weight of gold that came to Solomon in one year was 666 talents of gold,
+Now the amount of gold that came to Solomon in one year was 666 talents of gold,
 
 ---
 
 ## 2 Chronicles 9:14
 
-besides what the traders and merchants brought; and all the kings of Arabia and the governors of the country brought gold and silver to Solomon.
+in addition to what the traders and merchants brought; and all the kings of Arabia and the governors of the country brought gold and silver to Solomon.
 
 ---
 
 ## 2 Chronicles 9:15
 
-King Solomon made two hundred large shields of beaten gold, using six hundred shekels of beaten gold on each large shield.
+King Solomon crafted two hundred large shields of beaten gold, using six hundred shekels of beaten gold on each large shield.
 
 ---
 
 ## 2 Chronicles 9:16
 
-He made three hundred shields of beaten gold, using three hundred shekels of gold on each shield; and the king put them in the house of the forest of Lebanon.
+He crafted three hundred shields of beaten gold, using three hundred shekels of gold on each shield; and the king placed them in the house of the forest of Lebanon.
 
 ---
 
 ## 2 Chronicles 9:17
 
-The king also made a great throne of ivory and overlaid it with pure gold.
+The king also fashioned a great throne of ivory and overlaid it with pure gold.
 
 ---
 
@@ -128,13 +128,13 @@ For the king’s ships went to Tarshish with the servants of Huram; once every t
 
 ## 2 Chronicles 9:22
 
-So King Solomon became greater than all the kings of the earth in wealth and wisdom.
+Thus King Solomon surpassed all the kings of the earth in wealth and wisdom.
 
 ---
 
 ## 2 Chronicles 9:23
 
-And all the kings of the earth were seeking the presence of Solomon, to hear his wisdom which God had put in his heart.
+And all the kings of the earth sought the presence of Solomon, to hear the wisdom which God had placed in his heart.
 
 ---
 
@@ -164,7 +164,7 @@ The king made silver as common as stones in Jerusalem, and he made cedars as ple
 
 ## 2 Chronicles 9:28
 
-And they were bringing horses for Solomon from Egypt and from all countries.
+And horses were brought for Solomon from Egypt and from all countries.
 
 ---
 

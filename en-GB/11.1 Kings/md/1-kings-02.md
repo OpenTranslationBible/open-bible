@@ -127,7 +127,7 @@ And the king said to her, “Ask, my mother, for I will not refuse you.”
 
 ## 1 Kings 2:21
 
-So she said, “Let Abishag the Shunammite be given to Adonijah your brother as a wife.”
+So she said, “Allow Abishag the Shunammite to be given to Adonijah your brother as his wife.”
 
 ## 1 Kings 2:22
 

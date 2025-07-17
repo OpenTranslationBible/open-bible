@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 34:1
 
-Josiah was eight years old when he became king, and he reigned for thirty-one years in Jerusalem.
+Josiah was eight years old when he ascended to the throne, and he ruled for thirty-one years in Jerusalem.
 
 ## 2 Chronicles 34:2
 
@@ -25,11 +25,11 @@ and scattered it on the graves of those who had sacrificed to them.
 
 ## 2 Chronicles 34:5
 
-Then he burned the bones of the priests on their altars and purged Judah and Jerusalem.
+He then burned the bones of the priests on their altars and cleansed Judah and Jerusalem.
 
 ## 2 Chronicles 34:6
 
-And in the cities of Manasseh, Ephraim, Simeon, even as far as Naphtali, in their surrounding ruins,
+In the cities of Manasseh, Ephraim, Simeon, and as far as Naphtali, in their surrounding ruins,
 
 ## 2 Chronicles 34:7
 
@@ -176,7 +176,7 @@ So they brought back word to the king.
 
 ## 2 Chronicles 34:29
 
-Then the king sent word and gathered all the elders of Judah and Jerusalem.
+The king then sent word and assembled all the elders of Judah and Jerusalem.
 
 ## 2 Chronicles 34:30
 

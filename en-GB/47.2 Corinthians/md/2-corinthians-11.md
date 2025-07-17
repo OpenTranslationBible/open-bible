@@ -2,11 +2,11 @@
 
 ## 2 Corinthians 11:1
 
-I wish that you would bear with me in a little foolishness; but indeed you are bearing with me.
+I hope you will bear with me in a bit of foolishness; indeed, you are already doing so.
 
 ## 2 Corinthians 11:2
 
-For I am jealous for you with a godly jealousy; for I betrothed you to one husband, to present you as a pure virgin to Christ.
+For I am deeply concerned for you with a godly concern; for I have pledged you to one husband, to present you as a pure bride to Christ.
 
 ## 2 Corinthians 11:3
 
@@ -18,23 +18,23 @@ For if one comes and preaches another Jesus whom we have not preached, or you re
 
 ## 2 Corinthians 11:5
 
-For I consider myself not in the least inferior to the most eminent apostles.
+For I do not consider myself in any way inferior to these most eminent apostles.
 
 ## 2 Corinthians 11:6
 
-But even if I am unskilled in speech, yet I am not so in knowledge; in fact, in every way we have made this evident to you in all things.
+But even if I lack skill in speaking, I am not lacking in knowledge; in fact, in every way we have made this clear to you in all things.
 
 ## 2 Corinthians 11:7
 
-Or did I commit a sin by humbling myself so that you might be exalted, because I preached the gospel of God to you without charge?
+Or did I commit a wrong by lowering myself so that you might be elevated, because I preached the gospel of God to you free of charge?
 
 ## 2 Corinthians 11:8
 
-I robbed other churches by taking wages from them to serve you;
+I took support from other churches, accepting their aid to serve you;
 
 ## 2 Corinthians 11:9
 
-And when I was present with you and was in need, I was not a burden to anyone; for when the brothers came from Macedonia they fully supplied my need, and in everything I kept myself from being a burden to you, and will continue to do so.
+And when I was with you and in need, I did not burden anyone; for when the brothers came from Macedonia, they fully supplied my need, and in everything I kept myself from being a burden to you, and will continue to do so.
 
 ## 2 Corinthians 11:10
 
@@ -50,15 +50,15 @@ But what I am doing I will continue to do, so that I may eliminate the opportuni
 
 ## 2 Corinthians 11:13
 
-For such men are false apostles, deceitful workers, disguising themselves as apostles of Christ.
+For such men are false apostles, deceitful workers, masquerading as apostles of Christ.
 
 ## 2 Corinthians 11:14
 
-No wonder, for even Satan disguises himself as an angel of light.
+No wonder, for even Satan masquerades as an angel of light.
 
 ## 2 Corinthians 11:15
 
-Therefore it is not surprising if his servants also disguise themselves as servants of righteousness, whose end will be according to their deeds.
+Therefore it is not surprising if his servants also masquerade as servants of righteousness, whose end will be according to their deeds.
 
 ## 2 Corinthians 11:16
 
@@ -66,23 +66,23 @@ Again I say, let no one think me foolish; but if you do, accept me even as fooli
 
 ## 2 Corinthians 11:17
 
-What I am saying, I am not saying as the Lord would, but as in foolishness, in this confidence of boasting.
+What I am saying, I do not say as the Lord would, but rather in a spirit of foolishness, with this confidence of boasting.
 
 ## 2 Corinthians 11:18
 
-Since many boast according to the flesh, I will boast also.
+Since many boast according to worldly standards, I will boast also.
 
 ## 2 Corinthians 11:19
 
-For you, being so wise, tolerate the foolish gladly.
+For you, being so wise, endure the foolish gladly.
 
 ## 2 Corinthians 11:20
 
-For you tolerate it if anyone enslaves you, consumes you, takes advantage of you, exalts himself, or hits you in the face.
+For you tolerate it if anyone enslaves you, consumes you, takes advantage of you, exalts himself, or strikes you in the face.
 
 ## 2 Corinthians 11:21
 
-To my shame I must say that we have been weak by comparison. But in whatever respect anyone else is bold—I am speaking in foolishness—I too am bold.
+To my regret, I must admit that we have been weak by comparison. But in whatever respect anyone else is bold—I am speaking in foolishness—I too am bold.
 
 ## 2 Corinthians 11:22
 
@@ -90,11 +90,11 @@ Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of
 
 ## 2 Corinthians 11:23
 
-Are they servants of Christ?—I am speaking as if insane—I more so: in far more labours, in far more imprisonments, beaten times without number, often in danger of death.
+Are they servants of Christ?—I speak as if out of my mind—I more so: in far more labours, in far more imprisonments, beaten times without number, often in danger of death.
 
 ## 2 Corinthians 11:24
 
-Five times I received from the Jews thirty-nine lashes.
+Five times I received from the Jewish authorities the forty lashes minus one.
 
 ## 2 Corinthians 11:25
 
@@ -102,7 +102,7 @@ Three times I was beaten with rods, once I was stoned, three times I was shipwre
 
 ## 2 Corinthians 11:26
 
-I have been on frequent journeys, in dangers from rivers, dangers from robbers, dangers from my countrymen, dangers from the Gentiles, dangers in the city, dangers in the wilderness, dangers at sea, dangers among false brothers;
+I have been on frequent journeys, in dangers from rivers, dangers from robbers, dangers from my own people, dangers from the Gentiles, dangers in the city, dangers in the wilderness, dangers at sea, dangers among false brothers;
 
 ## 2 Corinthians 11:27
 
@@ -110,15 +110,15 @@ I have been in labour and hardship, through many sleepless nights, in hunger and
 
 ## 2 Corinthians 11:28
 
-Apart from such external things, there is the daily pressure on me of concern for all the churches.
+Apart from such external matters, there is the daily pressure on me of concern for all the churches.
 
 ## 2 Corinthians 11:29
 
-Who is weak without my being weak? Who is led into sin without my intense concern?
+Who is weak without my sharing in that weakness? Who is led into sin without my intense concern?
 
 ## 2 Corinthians 11:30
 
-If I have to boast, I will boast of what pertains to my weakness.
+If I must boast, I will boast of the things that show my weakness.
 
 ## 2 Corinthians 11:31
 
@@ -126,8 +126,8 @@ The God and Father of the Lord Jesus, He who is blessed forever, knows that I am
 
 ## 2 Corinthians 11:32
 
-In Damascus, the ethnarch under Aretas the king was guarding the city of the Damascenes in order to seize me,
+In Damascus, the governor under King Aretas was guarding the city of the Damascenes to capture me,
 
 ## 2 Corinthians 11:33
 
-And I was let down in a basket through a window in the wall, and so escaped his hands.
+and I was let down in a basket through a window in the wall, and thus escaped his hands.

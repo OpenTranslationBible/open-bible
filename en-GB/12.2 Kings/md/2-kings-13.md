@@ -133,7 +133,7 @@ And when the man touched the bones of Elisha, he revived and stood up on his fee
 
 ## 2 Kings 13:22
 
-Now Hazael king of Aram had oppressed Israel all the days of Jehoahaz.
+During the time of Jehoahaz, Hazael king of Aram had oppressed Israel.
 
 ## 2 Kings 13:23
 
@@ -143,7 +143,7 @@ and would not destroy them or cast them from His presence until now.
 
 ## 2 Kings 13:24
 
-When Hazael king of Aram died, his son Ben-hadad became king in his place.
+Upon the death of Hazael king of Aram, his son Ben-hadad succeeded him as king.
 
 ## 2 Kings 13:25
 

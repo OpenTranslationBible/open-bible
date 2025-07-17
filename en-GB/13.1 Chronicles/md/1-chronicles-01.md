@@ -93,8 +93,8 @@ and the Arvadite, the Zemarite, and the Hamathite.
 
 The sons of Shem were:
 
-> Elam, Asshur, Arpachshad, Lud, Aram,
-> The sons of Aram were
+> Elam, Asshur, Arpachshad, Lud, Aram,  
+> The sons of Aram were  
 > Uz, Hul, Gether, and Meshech.
 
 ## 1 Chronicles 1:18
@@ -278,7 +278,7 @@ When Hadad died, Samlah of Masrekah became king in his place.
 
 ## 1 Chronicles 1:48
 
-When Samlah died, Shaul of Rehoboth by the River became king in his place.
+Upon Samlah's death, Shaul from Rehoboth by the River succeeded him as king.
 
 ## 1 Chronicles 1:49
 

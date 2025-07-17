@@ -29,13 +29,13 @@ Then Abijah stood on Mount Zemaraim, which is in the hill country of Ephraim, an
 
 ## 2 Chronicles 13:5
 
-Do you not know that the Lord God of Israel gave the rule over Israel forever to David and his sons by a covenant of salt?
+Are you not aware that the Lord God of Israel granted the kingship over Israel to David and his descendants forever through a binding covenant?
 
 ---
 
 ## 2 Chronicles 13:6
 
-Yet Jeroboam the son of Nebat, the servant of Solomon the son of David, rose up and rebelled against his master,
+However, Jeroboam son of Nebat, who had served Solomon son of David, rose up and rebelled against his lord,
 
 ---
 

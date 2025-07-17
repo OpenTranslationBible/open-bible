@@ -8,7 +8,7 @@ In the thirty-sixth year of Asa’s reign, Baasha king of Israel came up against
 
 ## 2 Chronicles 16:2
 
-Then Asa brought out silver and gold from the treasuries of the house of the Lord and the king’s house, and sent them to Ben-hadad king of Aram, who lived in Damascus, saying,
+Asa took silver and gold from the treasuries of the house of the Lord and the king’s house, and sent them to Ben-hadad king of Aram, who resided in Damascus, with this message,
 
 ---
 
@@ -32,7 +32,7 @@ When Baasha heard about it, he stopped fortifying Ramah and abandoned his work.
 
 ## 2 Chronicles 16:6
 
-Then King Asa brought all Judah, and they carried away the stones of Ramah and its timber with which Baasha had been building, and with them he fortified Geba and Mizpah.
+King Asa then gathered all Judah, and they took away the stones of Ramah and its timber with which Baasha had been building, and with these materials he fortified Geba and Mizpah.
 
 ---
 
@@ -68,7 +68,7 @@ And Asa oppressed some of the people at the same time.
 
 ## 2 Chronicles 16:11
 
-Now, the acts of Asa from the first to the last, behold, they are written in the Book of the Kings of Judah and Israel.
+The deeds of Asa, from beginning to end, are recorded in the Book of the Kings of Judah and Israel.
 
 ---
 

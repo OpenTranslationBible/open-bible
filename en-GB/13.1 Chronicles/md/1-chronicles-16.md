@@ -43,7 +43,7 @@ He appointed some of the Levites as ministers before the ark of the Lord,
 
 ## 1 Chronicles 16:6
 
-> and Benaiah and Jahaziel the priests blew trumpets continually before the ark of the covenant of God.
+> and Benaiah and Jahaziel the priests sounded trumpets continually before the ark of the covenant of God.
 
 ---
 

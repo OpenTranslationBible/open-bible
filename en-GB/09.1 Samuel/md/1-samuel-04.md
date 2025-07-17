@@ -10,7 +10,7 @@ Now the Israelites went out to fight against the Philistines. They camped at Ebe
 
 ## 1 Samuel 4:2
 
-The Philistines deployed their forces to meet Israel, and as the battle spread, Israel was defeated by the Philistines, who killed about four thousand men on the battlefield.
+The Philistines arranged their forces to confront Israel, and as the battle unfolded, Israel was overcome by the Philistines, who killed about four thousand men on the battlefield.
 
 ## 1 Samuel 4:3
 

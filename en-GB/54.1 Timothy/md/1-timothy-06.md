@@ -6,59 +6,59 @@ All who are under the yoke as slaves are to regard their own masters as worthy o
 
 ## 1 Timothy 6:2
 
-Those who have believers as their masters must not be disrespectful to them because they are brothers or sisters, but must serve them all the more, because those who partake of the benefit are believers and beloved. Teach and preach these principles.
+Those who have believers as their masters should not be disrespectful to them because they are brothers or sisters. Instead, they should serve them even better, since those who benefit from their service are believers and beloved. Teach and preach these principles.
 
 ## 1 Timothy 6:3
 
-If anyone advocates a different doctrine and does not agree with sound words, those of our Lord Jesus Christ, and with the doctrine conforming to godliness,
+If anyone promotes a different doctrine and does not agree with sound words, those of our Lord Jesus Christ, and with the doctrine that aligns with godliness,
 
 ## 1 Timothy 6:4
 
-he is conceited and understands nothing; but he has a sick craving for controversial questions and disputes about words, from which come envy, strife, abusive language, evil suspicions,
+he is conceited and understands nothing; but he has an unhealthy craving for controversial questions and disputes about words, from which come envy, strife, abusive language, evil suspicions,
 
 ## 1 Timothy 6:5
 
-and constant friction between people of depraved mind and deprived of the truth, who suppose that godliness is a means of gain.
+and constant friction between people of corrupt mind and deprived of the truth, who think that godliness is a means to gain.
 
 ## 1 Timothy 6:6
 
-But godliness actually is a means of great gain when accompanied by contentment.
+But godliness indeed is a source of great gain when accompanied by contentment.
 
 ## 1 Timothy 6:7
 
-For we have brought nothing into the world, so we cannot take anything out of it, either.
+For we have brought nothing into the world, so we cannot take anything out of it.
 
 ## 1 Timothy 6:8
 
-If we have food and covering, with these we shall be content.
+If we have food and clothing, with these we shall be content.
 
 ## 1 Timothy 6:9
 
-But those who want to get rich fall into temptation and a trap, and many foolish and harmful desires which plunge people into ruin and destruction.
+But those who desire to be rich fall into temptation and a snare, and many foolish and harmful desires which plunge people into ruin and destruction.
 
 ## 1 Timothy 6:10
 
-For the love of money is a root of all sorts of evil, and some by longing for it have wandered away from the faith and pierced themselves with many griefs.
+For the love of money is a root of all kinds of evil, and some by longing for it have wandered away from the faith and pierced themselves with many sorrows.
 
 ## 1 Timothy 6:11
 
-But flee from these things, you man of God, and pursue righteousness, godliness, faith, love, perseverance, and gentleness.
+But avoid these things, you man of God, and pursue righteousness, godliness, faith, love, perseverance, and gentleness.
 
 ## 1 Timothy 6:12
 
-Fight the good fight of faith; take hold of the eternal life to which you were called, and for which you made the good confession in the presence of many witnesses.
+Engage in the noble struggle of faith; embrace the eternal life to which you were called, and for which you made the good confession in the presence of many witnesses.
 
 ## 1 Timothy 6:13
 
-I direct you in the presence of God, who gives life to all things, and of Christ Jesus, who testified the good confession before Pontius Pilate,
+I charge you in the presence of God, who gives life to all things, and of Christ Jesus, who made the good confession before Pontius Pilate,
 
 ## 1 Timothy 6:14
 
-that you keep the commandment without fault or reproach until the appearing of our Lord Jesus Christ,
+that you keep the commandment without blemish or blame until the appearing of our Lord Jesus Christ,
 
 ## 1 Timothy 6:15
 
-which He will bring about at the proper time—He who is the blessed and only Sovereign, the King of kings and Lord of lords,
+which He will reveal at the appointed time—He who is the blessed and only Sovereign, the King of kings and Lord of lords,
 
 ## 1 Timothy 6:16
 
@@ -66,19 +66,19 @@ who alone possesses immortality and dwells in unapproachable light, whom no one 
 
 ## 1 Timothy 6:17
 
-Instruct those who are rich in this present world not to be conceited or to set their hope on the uncertainty of riches, but on God, who richly supplies us with all things to enjoy.
+Instruct those who are rich in this present world not to be arrogant or to set their hope on the uncertainty of riches, but on God, who richly provides us with all things to enjoy.
 
 ## 1 Timothy 6:18
 
-Instruct them to do good, to be rich in good works, to be generous and ready to share,
+Guide them to perform good deeds, to be abundant in good works, to be generous and willing to share,
 
 ## 1 Timothy 6:19
 
-storing up for themselves the treasure of a good foundation for the future, so that they may take hold of that which is truly life.
+storing up for themselves the treasure of a good foundation for the future, so that they may take hold of what is truly life.
 
 ## 1 Timothy 6:20
 
-Timothy, protect what has been entrusted to you, avoiding worldly, empty chatter and the opposing arguments of what is falsely called “knowledge”—
+Timothy, guard what has been entrusted to you, avoiding worldly, empty chatter and the opposing arguments of what is falsely called "knowledge"—
 
 ## 1 Timothy 6:21
 
