@@ -14,7 +14,7 @@ And God said, “Let there be light,” and there was light.
 
 ## Genesis 1:4
 
-God observed that the light was good, and He distinguished the light from the darkness.
+God saw that the light was good, and He distinguished the light from the darkness.
 
 ## Genesis 1:5
 
