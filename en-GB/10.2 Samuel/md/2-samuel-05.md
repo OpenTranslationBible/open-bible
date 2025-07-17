@@ -101,7 +101,7 @@ And David heard about it and went down to the stronghold.
 
 ## 2 Samuel 5:18
 
-The Philistines came and spread out in the valley of Rephaim.
+The Philistines advanced and spread throughout the valley of Rephaim.
 
 ## 2 Samuel 5:19
 
@@ -127,7 +127,7 @@ so David and his men carried them away.
 ## 2 Samuel 5:22
 
 The Philistines came up once again  
-and spread out in the valley of Rephaim.
+and spread throughout the valley of Rephaim.
 
 ## 2 Samuel 5:23
 

@@ -176,7 +176,7 @@ When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabe
 
 ## Luke 1:42
 
-In a loud voice she exclaimed, “Blessed are you among women, and blessed is the child you will bear!
+With a loud voice she exclaimed, “You are blessed among women, and blessed is the child you will bear!
 
 ## Luke 1:43
 
@@ -184,7 +184,7 @@ But why am I so honoured, that the mother of my Lord should come to me?
 
 ## Luke 1:44
 
-As soon as the sound of your greeting reached my ears, the baby in my womb leaped for joy.
+For as soon as your greeting reached my ears, the baby in my womb leaped for joy.
 
 ## Luke 1:45
 
@@ -202,7 +202,7 @@ and my spirit rejoices in God my Saviour,
 
 ## Luke 1:48
 
-for he has been mindful of the humble state of his servant. From now on all generations will call me blessed,
+for he has noticed the humble state of his servant. From now on all generations will call me blessed,
 
 ## Luke 1:49
 
@@ -210,11 +210,11 @@ for the Mighty One has done great things for me—holy is his name.
 
 ## Luke 1:50
 
-His mercy extends to those who fear him, from generation to generation.
+His mercy is upon those who fear him, from generation to generation.
 
 ## Luke 1:51
 
-He has performed mighty deeds with his arm; he has scattered those who are proud in their inmost thoughts.
+He has shown strength with his arm; he has scattered those who are proud in their inmost thoughts.
 
 ## Luke 1:52
 
@@ -246,7 +246,7 @@ When the time arrived for Elizabeth to have her baby, she gave birth to a son.
 
 ## Luke 1:58
 
-Her neighbours and relatives heard that the Lord had shown her great mercy, and they shared her joy.
+Her neighbours and relatives heard that the Lord had shown her great mercy, and they joined in her joy.
 
 ## Luke 1:59
 
@@ -262,11 +262,11 @@ They said to her, “There is no one among your relatives who has that name.”
 
 ## Luke 1:62
 
-Then they made signs to his father, to find out what he would like to name the child.
+Then they gestured to his father, to find out what he would like to name the child.
 
 ## Luke 1:63
 
-He asked for a writing tablet, and to everyone’s astonishment he wrote, “His name is John.”
+He asked for a writing tablet, and to everyone’s surprise he wrote, “His name is John.”
 
 ## Luke 1:64
 

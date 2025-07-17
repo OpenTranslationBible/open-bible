@@ -45,7 +45,7 @@ After you have suffered for a short time, the God of all grace, who called you t
 
 ## 1 Peter 5:11
 
-To Him be the dominion forever and ever. Amen.
+To Him be all power, for all eternity. Amen.
 
 ## 1 Peter 5:12
 

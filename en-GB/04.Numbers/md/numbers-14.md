@@ -88,7 +88,7 @@ So tell them, ‘As surely as I live, declares the Lord, I will do to you just a
 In this wilderness your bodies will fall—every one of you twenty years old or more who was counted in the census and who has complained against Me.
 
 ## Numbers 14:30
-Not one of you will enter the land I swore with uplifted hand to make your home, except Caleb, son of Jephunneh, and Joshua, son of Nun.
+None of you will enter the land I swore to make your home, except for Caleb, son of Jephunneh, and Joshua, son of Nun.
 
 ## Numbers 14:31
 As for your children whom you said would be taken as plunder, I will bring them in to enjoy the land you have rejected.
@@ -103,7 +103,7 @@ Your children will be shepherds here for forty years, enduring the consequences 
 For forty years—one year for each of the forty days you explored the land—you will bear the consequences of your sins and know what it is like to have Me against you.’
 
 ## Numbers 14:35
-I, the Lord, have spoken, and I will surely do these things to this whole wicked community, which has banded together against Me. They will meet their end in this wilderness; here they will die.”
+I, the Lord, have spoken, and I will surely do these things to this entire rebellious community, which has banded together against Me. They will meet their end in this wilderness; here they will perish.”
 
 ## Numbers 14:36
 So the men Moses had sent to explore the land, who returned and made the whole community grumble against him by spreading a negative report about it—
@@ -112,7 +112,7 @@ So the men Moses had sent to explore the land, who returned and made the whole c
 these men who were responsible for spreading the negative report about the land were struck down and died of a plague before the Lord.
 
 ## Numbers 14:38
-Of the men who went to explore the land, only Joshua, son of Nun, and Caleb, son of Jephunneh, survived.
+Of the men who went to explore the land, only Joshua, son of Nun, and Caleb, son of Jephunneh, remained alive.
 
 ## Numbers 14:39
 When Moses reported this to all the Israelites, they mourned greatly.
@@ -121,16 +121,16 @@ When Moses reported this to all the Israelites, they mourned greatly.
 Early the next morning they set out for the highest point in the hill country, saying, “Now we are ready to go up to the land the Lord promised. Indeed, we have sinned!”
 
 ## Numbers 14:41
-But Moses said, “Why are you disobeying the Lord’s command? This will not succeed!
+But Moses said, “Why are you going against the Lord’s command? This will not succeed!
 
 ## Numbers 14:42
 Do not go up, because the Lord is not with you. You will be defeated by your enemies,
 
 ## Numbers 14:43
-for the Amalekites and the Canaanites will face you there. Because you have turned away from the Lord, He will not be with you and you will fall by the sword.”
+for the Amalekites and the Canaanites will face you there. Because you have turned away from the Lord, He will not be with you, and you will fall by the sword.”
 
 ## Numbers 14:44
-Nevertheless, in their presumption they went up towards the highest point in the hill country, though neither Moses nor the ark of the Lord’s covenant moved from the camp.
+Nevertheless, in their presumption they went up towards the highest point in the hill country, though neither Moses nor the ark of the Lord’s covenant departed from the camp.
 
 ## Numbers 14:45
 Then the Amalekites and the Canaanites who lived in that hill country came down and attacked them and scattered them as far as Hormah.

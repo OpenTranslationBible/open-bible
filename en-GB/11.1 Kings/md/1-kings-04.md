@@ -52,7 +52,7 @@ Ben-hesed, in Arubboth (Socoh belonged to him, along with all the land of Hepher
 
 ## 1 Kings 4:11
 
-Ben-abinadab, in all the height of Dor (Taphath, the daughter of Solomon, was his wife);
+Ben-abinadab, in the entire region of Dor (Taphath, the daughter of Solomon, was his wife);
 
 ## 1 Kings 4:12
 

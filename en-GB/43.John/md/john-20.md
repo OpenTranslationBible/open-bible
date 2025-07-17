@@ -128,7 +128,7 @@ Then Jesus told him, “You have believed because you have seen me; blessed are 
 
 ## John 20:30
 
-Jesus performed many other signs in the presence of his disciples, which are not recorded in this book.
+Jesus did many other miraculous signs in the presence of his disciples, which are not written in this book.
 
 ## John 20:31
 

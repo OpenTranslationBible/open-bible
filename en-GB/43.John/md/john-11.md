@@ -88,7 +88,7 @@ When Martha heard that Jesus was coming, she went out to meet Him, while Mary re
 
 ## John 11:21
 
-“Lord,” Martha said to Jesus, “if You had been here, my brother would not have died.
+“Lord,” Martha said to Jesus, “had You been here, I know my brother would not have died.
 
 ## John 11:22
 
@@ -104,7 +104,7 @@ Martha replied, “I know he will rise again in the resurrection at the last day
 
 ## John 11:25
 
-Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even though they die;
+Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even if they die;
 
 ## John 11:26
 
@@ -126,7 +126,7 @@ When Mary heard this, she got up quickly and went to Him.
 
 ## John 11:30
 
-Now Jesus had not yet entered the village, but was still at the place where Martha had met Him.
+Jesus had not yet entered the village, but remained at the place where Martha had met Him.
 
 ## John 11:31
 
@@ -134,7 +134,7 @@ When the Jews who had been with Mary in the house, comforting her, noticed how q
 
 ## John 11:32
 
-When Mary reached the place where Jesus was and saw Him, she fell at His feet and said, “Lord, if You had been here, my brother would not have died.”
+When Mary reached the place where Jesus was and saw Him, she fell at His feet. “Lord”, she said “had You been here, I know my brother would not have died.”
 
 ---
 

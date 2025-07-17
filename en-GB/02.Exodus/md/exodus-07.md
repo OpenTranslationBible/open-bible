@@ -54,7 +54,7 @@ However, Pharaoh’s heart remained unyielding, and he did not listen to them, j
 
 ## Exodus 7:14
 
-Then the Lord said to Moses, “Pharaoh’s heart is stubborn; he refuses to let the people go.
+Then the Lord said to Moses, “Pharaoh’s heart is obstinate; he refuses to let the people go.
 
 ## Exodus 7:15
 

@@ -50,7 +50,7 @@ We do not dare to classify or compare ourselves with some who commend themselves
 
 ## 2 Corinthians 10:13
 
-We, however, will not boast beyond proper limits, but will confine our boasting to the sphere of service God himself has assigned to us, a sphere that also includes you.
+We, however, will not boast beyond what is proper, we will limit our boasting to that which God himself has designated for us: and that also includes you.
 
 ## 2 Corinthians 10:14
 
@@ -66,7 +66,7 @@ so that we can preach the gospel in the regions beyond you. For we do not wish t
 
 ## 2 Corinthians 10:17
 
-But, “Let the one who boasts, boast in the Lord.”
+But, “Let he who boasts, boast in the Lord.”
 
 ## 2 Corinthians 10:18
 

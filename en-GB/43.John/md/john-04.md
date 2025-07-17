@@ -228,4 +228,4 @@ Then the father realised this was the precise moment Jesus had told him, “Your
 
 ## John 4:54
 
-This was the second sign Jesus performed after coming from Judea to Galilee.
+This was the second miraculous sign Jesus performed after coming from Judea to Galilee.

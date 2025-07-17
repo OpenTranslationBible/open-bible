@@ -143,7 +143,7 @@ But Peter insisted emphatically, “Even if I must die with you, I will never di
 
 ## Mark 14:32
 
-They went to a place called Gethsemane, and Jesus said to his disciples, “Sit here while I pray.”
+They arrived at a place called Gethsemane, and Jesus instructed his disciples, “Sit here while I pray.”
 
 ## Mark 14:33
 
@@ -171,7 +171,7 @@ Watch and pray so that you will not fall into temptation. The spirit is willing,
 
 ## Mark 14:39
 
-Once more he went away and prayed the same thing.
+Once more he went away and prayed in the same manner.
 
 ## Mark 14:40
 
@@ -183,7 +183,7 @@ Returning the third time, he said to them, “Are you still sleeping and resting
 
 ## Mark 14:42
 
-Rise! Let us go! Here comes my betrayer!”
+Arise! Let us go! Here comes my betrayer!”
 
 ---
 
@@ -193,7 +193,7 @@ Just as he was speaking, Judas, one of the Twelve, appeared. With him was a crow
 
 ## Mark 14:44
 
-Now the betrayer had arranged a signal with them: “The one I kiss is the man; arrest him and lead him away under guard.”
+The betrayer had arranged a signal with them: “The one I kiss is the man; arrest him and lead him away under guard.”
 
 ## Mark 14:45
 
@@ -201,11 +201,11 @@ Going directly to Jesus, Judas said, “Rabbi!” and kissed him.
 
 ## Mark 14:46
 
-The men seized Jesus and arrested him.
+The men seized Jesus and took him into custody.
 
 ## Mark 14:47
 
-Then one of those standing near drew his sword and struck the servant of the high priest, cutting off his ear.
+Then one of those standing near drew his sword and struck the servant of the high priest, injuring his ear.
 
 ## Mark 14:48
 
@@ -243,7 +243,7 @@ Peter followed him at a distance, right into the courtyard of the high priest. T
 
 ## Mark 14:55
 
-The chief priests and the whole Sanhedrin were looking for evidence against Jesus so that they could put him to death, but they did not find any.
+The chief priests and the whole Sanhedrin were seeking evidence against Jesus to put him to death, but they did not find any.
 
 ## Mark 14:56
 

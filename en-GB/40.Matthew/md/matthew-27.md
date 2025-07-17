@@ -156,7 +156,7 @@ And sitting down, they kept watch over Him.
 
 ## Matthew 27:37
 
-Above His head, they placed the written charge against Him: THIS IS JESUS, THE KING OF THE JEWS.
+Above Him, they placed the written accusation: THIS IS JESUS, THE KING OF THE JEWS.
 
 ---
 
@@ -262,7 +262,7 @@ and placed it in his own new tomb that he had cut out of the rock. He rolled a l
 
 ## Matthew 27:61
 
-Mary Magdalene and the other Mary were sitting there across from the tomb.
+Mary Magdalene and the other Mary were seated there opposite the tomb.
 
 ---
 

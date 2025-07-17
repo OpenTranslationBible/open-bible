@@ -114,7 +114,7 @@ At this point, I awoke and looked around, and my sleep had been pleasant to me.
 
 ## Jeremiah 31:29
 
-“In those days people will no longer say, ‘The parents have eaten sour grapes, and the children’s teeth are set on edge.’
+“In those days, it will no longer be said, ‘The parents have eaten sour grapes, and the children’s teeth are set on edge.’
 
 ## Jeremiah 31:30
 

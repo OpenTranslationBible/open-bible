@@ -126,7 +126,7 @@ And I confer upon you a kingdom, just as my Father has conferred one upon me,
 
 ## Luke 22:30
 
-so that you may eat and drink at my table in my kingdom and sit on thrones, judging the twelve tribes of Israel.
+so that you may dine at my table in my kingdom and take your places on thrones, overseeing the twelve tribes of Israel.
 
 ---
 
@@ -176,11 +176,11 @@ Upon reaching the place, He said to them, “Pray that you will not fall into te
 
 ## Luke 22:41
 
-He withdrew about a stone’s throw beyond them, knelt down, and prayed,
+He withdrew a short distance beyond them, knelt down, and prayed,
 
 ## Luke 22:42
 
-“Father, if you are willing, take this cup from me; yet not my will, but yours be done.”
+“Father, if you are willing, remove this cup from me; nevertheless, not my will, but yours be done.”
 
 ## Luke 22:43
 
@@ -206,7 +206,7 @@ While He was still speaking, a crowd came up, and the man called Judas, one of t
 
 ## Luke 22:48
 
-but Jesus asked him, “Judas, are you betraying the Son of Man with a kiss?”
+but Jesus asked him, “Judas, are you handing over the Son of Man with a kiss?”
 
 ## Luke 22:49
 
@@ -214,7 +214,7 @@ When those around Him saw what was going to happen, they said, “Lord, should w
 
 ## Luke 22:50
 
-And one of them struck the servant of the high priest, cutting off his right ear.
+And one of them struck the servant of the high priest, severing his right ear.
 
 ## Luke 22:51
 
@@ -248,7 +248,7 @@ But he denied it, saying, “Woman, I do not know Him.”
 
 ## Luke 22:58
 
-A little later someone else saw him and said, “You also are one of them.” “Man, I am not!” Peter replied.
+A little later someone else saw him and said, “You also are one of them.” “Sir, I am not!” Peter replied.
 
 ## Luke 22:59
 
@@ -256,7 +256,7 @@ About an hour later another insisted, “Certainly this fellow was with Him, for
 
 ## Luke 22:60
 
-Peter replied, “Man, I do not know what you are talking about!” Just as he was speaking, the rooster crowed.
+Peter replied, “Sir, I do not know what you are talking about!” Just as he was speaking, the rooster crowed.
 
 ## Luke 22:61
 
@@ -272,7 +272,7 @@ The men who were guarding Jesus began to mock and beat Him.
 
 ## Luke 22:64
 
-They blindfolded Him and demanded, “Prophesy! Who hit you?”
+They blindfolded Him and demanded, “Prophesy! Who struck you?”
 
 ## Luke 22:65
 
@@ -302,4 +302,4 @@ They all asked, “Are you then the Son of God?” He replied, “You say so.”
 
 ## Luke 22:71
 
-Then they said, “Why do we need any more testimony? We have heard it from His own lips.”
+Then they said, “Why do we need any further testimony? We have heard it from His own lips.”

@@ -82,7 +82,7 @@ Then some Sadducees, who say there is no resurrection, came to him with a questi
 
 ## Mark 12:20
 
-Now there were seven brothers. The first one married and died without leaving any children.
+There were seven brothers. The first one married and died without leaving any children.
 
 ## Mark 12:21
 
@@ -94,7 +94,7 @@ Indeed, none of the seven left any children. Last of all, the woman died too.
 
 ## Mark 12:23
 
-At the resurrection, whose wife will she be, since the seven were married to her?”
+In the resurrection, whose wife will she be, since all seven were married to her?”
 
 ## Mark 12:24
 
@@ -102,7 +102,7 @@ Jesus replied, “Are you not mistaken because you do not know the Scriptures or
 
 ## Mark 12:25
 
-When the dead rise, they will neither marry nor be given in marriage; they will be like the angels in heaven.
+When the dead are raised, they will neither marry nor be given in marriage; they will be like the angels in heaven.
 
 ## Mark 12:26
 

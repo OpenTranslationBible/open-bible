@@ -74,13 +74,13 @@ They entered into a covenant to seek the Lord God of their fathers with all thei
 
 ## 2 Chronicles 15:13
 
-and whoever would not seek the Lord God of Israel was to be put to death, whether small or great, man or woman.
+and those who did not seek the Lord God of Israel faced severe consequences, regardless of their status or gender.
 
 ---
 
 ## 2 Chronicles 15:14
 
-Moreover, they made an oath to the Lord with a loud voice, with shouting, with trumpets, and with horns.
+Furthermore, they made a solemn oath to the Lord with a loud voice, accompanied by shouting, trumpets, and horns.
 
 ---
 
@@ -110,4 +110,4 @@ And he brought into the house of God the holy things of his father and his own h
 
 ## 2 Chronicles 15:19
 
-And there was no war until the thirty-fifth year of Asa’s reign.
+And there was peace until the thirty-fifth year of Asa’s reign.

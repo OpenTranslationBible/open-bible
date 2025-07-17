@@ -182,7 +182,7 @@ These are the testimonies, statutes, and ordinances Moses gave them when they ca
 
 ## Deuteronomy 4:46
 
-and were in the valley near Beth Peor, east of the Jordan, in the land of Sihon king of the Amorites, who reigned in Heshbon and was defeated by Moses and the Israelites as they came out of Egypt.
+and were situated in the valley near Beth Peor, east of the Jordan, in the territory of Sihon king of the Amorites, who reigned in Heshbon and was defeated by Moses and the Israelites as they came out of Egypt.
 
 ## Deuteronomy 4:47
 

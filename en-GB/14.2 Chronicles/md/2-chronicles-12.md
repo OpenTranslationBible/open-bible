@@ -20,7 +20,7 @@ He came with 1,200 chariots, 60,000 horsemen, and countless people who accompani
 
 ## 2 Chronicles 12:4
 
-He captured the fortified cities of Judah and advanced as far as Jerusalem.
+He seized the fortified cities of Judah and proceeded towards Jerusalem.
 
 ---
 

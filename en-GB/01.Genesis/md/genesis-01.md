@@ -50,7 +50,7 @@ The land brought forth vegetation: plants bearing seed according to their kinds 
 
 ## Genesis 1:13
 
-And there was evening, and there was morning—the third day.
+And so, with evening and morning, there concluded the third day, .
 
 ## Genesis 1:14
 
@@ -74,7 +74,7 @@ to govern the day and the night, and to separate the light from the darkness. An
 
 ## Genesis 1:19
 
-And there was evening, and there was morning—the fourth day.
+And so, with evening and morning, there concluded the fourth day.
 
 ## Genesis 1:20
 
@@ -90,7 +90,7 @@ God blessed them, saying, “Be fruitful and multiply, and fill the waters in th
 
 ## Genesis 1:23
 
-And there was evening, and there was morning—the fifth day.
+And so, with evening and morning, there concluded the fifth day.
 
 ## Genesis 1:24
 
@@ -106,7 +106,7 @@ Then God said, “Let us make mankind in our image, in our likeness, so that the
 
 ## Genesis 1:27
 
-So God created mankind in His own image, in the image of God He created them; male and female He created them.
+So God fashioned mankind in His own image, in the image of God He created them; male and female He created them.
 
 ## Genesis 1:28
 
@@ -114,12 +114,12 @@ God blessed them and said to them, “Be fruitful and increase in number; fill t
 
 ## Genesis 1:29
 
-Then God said, “I give you every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.
+Then God said, “I provide you with every seed-bearing plant on the face of the whole earth and every tree that has fruit with seed in it. They will be yours for food.
 
 ## Genesis 1:30
 
-And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I give every green plant for food.” And it was so.
+And to all the beasts of the earth and all the birds in the sky and all the creatures that move along the ground—everything that has the breath of life in it—I provide every green plant for food.” And it was so.
 
 ## Genesis 1:31
 
-God saw all that He had made, and it was very good. And there was evening, and there was morning—the sixth day.
+God saw all that He had made, and it was exceedingly good. Thus concluded the sixth day, with evening and morning.

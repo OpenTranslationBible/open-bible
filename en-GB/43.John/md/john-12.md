@@ -175,7 +175,7 @@ This was to fulfil the word of Isaiah the prophet:
 
 ## John 12:39
 
-For this reason, they could not believe, because, as Isaiah says elsewhere:
+They were unable to believe for this reason, as Isaiah says elsewhere:
 
 ## John 12:40
 
@@ -207,7 +207,7 @@ Then Jesus cried out, “Whoever believes in me does not believe in me alone, bu
 
 ## John 12:45
 
-The one who looks at me is seeing the one who sent me.
+You who sees me, sees the one who sent me.
 
 ## John 12:46
 
@@ -215,11 +215,11 @@ I have come into the world as a light, so that no one who believes in me should 
 
 ## John 12:47
 
-“If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save the world.
+“If anyone hears my words but does not keep them, I do not judge that person. For I did not come to judge the world, but to save it.
 
 ## John 12:48
 
-There is a judge for the one who rejects me and does not accept my words; the very words I have spoken will condemn them at the last day.
+But there is a judge for the one who rejects me and does not accept my words; the very words I have spoken will be their judge at the last day.
 
 ## John 12:49
 
@@ -227,4 +227,4 @@ For I did not speak on my own, but the Father who sent me instructed me to say a
 
 ## John 12:50
 
-I know that his command leads to eternal life. So whatever I say is just what the Father has told me to say.”
+I know that his command leads to eternal life. So whatever I say is precisely what the Father has told me to say.”

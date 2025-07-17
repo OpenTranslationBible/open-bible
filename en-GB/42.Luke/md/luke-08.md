@@ -197,7 +197,7 @@ She approached from behind and touched the edge of his cloak, and immediately he
 
 ## Luke 8:45
 
-“Who touched me?” Jesus asked. When they all denied it, Peter said, “Master, the people are crowding and pressing against you.”
+“Who touched me?” Jesus inquired. When they all denied it, Peter remarked, “Master, the people are crowding and pressing against you.”
 
 ## Luke 8:46
 
@@ -227,7 +227,7 @@ When he arrived at the house of Jairus, he allowed only Peter, John, and James, 
 
 ## Luke 8:52
 
-Meanwhile, all the people were wailing and mourning for her. “Stop wailing,” Jesus said. “She is not dead but asleep.”
+Meanwhile, all the people were lamenting and mourning for her. “Cease your weeping,” Jesus said. “She is not dead but asleep.”
 
 ## Luke 8:53
 

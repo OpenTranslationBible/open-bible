@@ -122,7 +122,7 @@ Observe my Sabbaths and show reverence for my sanctuary. I am the Lord.
 
 ## Leviticus 19:31
 
-Do not turn to mediums or seek out spiritists, for you will be defiled by them. I am the Lord your God.
+Do not turn to those who claim to communicate with spirits or seek out those who consult the dead, for you will be defiled by them. I am the Lord your God.
 
 ## Leviticus 19:32
 

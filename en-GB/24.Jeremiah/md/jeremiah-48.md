@@ -100,7 +100,7 @@ I weep for you, as Jazer weeps, you vines of Sibmah. Your branches spread across
 Joy and gladness have vanished from the orchards and fields of Moab. I have stopped the flow of wine from the presses; no one treads them with shouts of joy. Although there are shouts, they are not shouts of joy.
 
 ## Jeremiah 48:34
-The sound of their cry rises from Heshbon to Elealeh and Jahaz, from Zoar as far as Horonaim and Eglath Shelishiyah, for even the waters of Nimrim are dried up.
+The lamentation echoes from Heshbon to Elealeh and Jahaz, from Zoar as far as Horonaim and Eglath Shelishiyah, for even the waters of Nimrim are dried up.
 
 ## Jeremiah 48:35
 In Moab I will bring an end to those who make offerings on the high places and burn incense to their gods,” declares the Lord.
@@ -121,7 +121,7 @@ On all the roofs in Moab and in the public squares there is nothing but mourning
 This is what the Lord says: “Behold, an eagle is swooping down, spreading its wings over Moab.
 
 ## Jeremiah 48:41
-Kerioth will be captured and the strongholds taken. In that day the hearts of Moab’s warriors will be like the heart of a woman in labour.
+Kerioth will be seized and the strongholds overtaken. In that day the hearts of Moab’s warriors will be as anxious as a woman in labour.
 
 ## Jeremiah 48:42
 Moab will be brought to ruin as a nation because she defied the Lord.

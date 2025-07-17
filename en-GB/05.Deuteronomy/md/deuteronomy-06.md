@@ -62,7 +62,7 @@ for the Lord your God, who is among you, is a jealous God; otherwise, the anger 
 
 ## Deuteronomy 6:16
 
-Do not put the Lord your God to the test as you did at Massah.
+Do not test the Lord your God, like you did at Massah.
 
 ## Deuteronomy 6:17
 

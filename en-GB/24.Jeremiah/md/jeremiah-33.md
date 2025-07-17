@@ -55,7 +55,7 @@ For this is what the Lord says: ‘David will never lack a man to sit on the thr
 nor will the Levitical priests ever lack a man to stand before Me to offer burnt offerings, to burn grain offerings, and to present sacrifices continually.’”
 
 ## Jeremiah 33:19
-The message from the Lord came to Jeremiah, saying,
+The Lord's message came to Jeremiah, saying,
 
 ## Jeremiah 33:20
 “This is what the Lord says: ‘If you can break My covenant with the day and My covenant with the night, so that day and night do not occur at their appointed times,
@@ -76,4 +76,4 @@ The word of the Lord came to Jeremiah, saying,
 This is what the Lord says: ‘If I have not set My covenant with day and night and established the laws of heaven and earth,
 
 ## Jeremiah 33:26
-then I will reject the descendants of Jacob and David My servant and will not choose one of his sons to rule over the descendants of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.’”
+then I will disregard the descendants of Jacob and David My servant and will not choose one of his sons to rule over the descendants of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.’”

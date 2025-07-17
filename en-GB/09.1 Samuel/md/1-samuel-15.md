@@ -86,7 +86,7 @@ Why then did you not obey the voice of the Lord, but instead seized the plunder 
 
 ## 1 Samuel 15:20
 
-Then Saul said to Samuel, “I did obey the voice of the Lord, and went on the mission on which the Lord sent me, and have brought back Agag the king of Amalek, and have utterly destroyed the Amalekites.
+Then Saul said to Samuel, “I have indeed followed the voice of the Lord, and went on the mission on which the Lord sent me, and have brought back Agag the king of Amalek, and have utterly destroyed the Amalekites.
 
 ## 1 Samuel 15:21
 

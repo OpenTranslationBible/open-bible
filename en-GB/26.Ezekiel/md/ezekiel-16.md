@@ -136,7 +136,7 @@ Then my wrath against you will subside, and my jealousy will turn away from you;
 You are the daughter of your mother, who loathed her husband and children; and you are the sister of your sisters, who loathed their husbands and children. Your mother was a Hittite and your father an Amorite.
 
 ## Ezekiel 16:46
-Your elder sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom.
+Your older sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom.
 
 ## Ezekiel 16:47
 You not only followed their ways and committed their abominations, but in all your ways you soon became more depraved than they.
@@ -154,7 +154,7 @@ They were proud and did detestable things before me. Therefore I did away with t
 Samaria did not commit half the sins you did. You have done more abominable things than they, and have made your sisters seem righteous by all these things you have done.
 
 ## Ezekiel 16:52
-Bear your disgrace, for you have furnished some justification for your sisters. Because your sins were more vile than theirs, they appear more righteous than you. So then, be ashamed and bear your disgrace, for you have made your sisters appear righteous.
+Bear your shame, for you have provided some justification for your sisters. Because your sins were more vile than theirs, they appear more righteous than you. So then, be ashamed and bear your disgrace, for you have made your sisters appear righteous.
 
 ## Ezekiel 16:53
 “‘Nevertheless, I will restore the fortunes of Sodom and her daughters and of Samaria and her daughters, and your fortunes along with them,
@@ -163,10 +163,10 @@ Bear your disgrace, for you have furnished some justification for your sisters. 
 so that you may bear your disgrace and be ashamed of all you have done in giving them comfort.
 
 ## Ezekiel 16:55
-And your sisters, Sodom with her daughters and Samaria with her daughters, will return to what they were before; and you and your daughters will return to what you were before.
+And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state; and you and your daughters will return to your former state.
 
 ## Ezekiel 16:56
-You would not even mention your sister Sodom in the day of your pride,
+You would not even mention your sister Sodom in the time of your pride,
 
 ## Ezekiel 16:57
 before your wickedness was uncovered. So now you are scorned by the daughters of Edom and all her neighbours and the daughters of the Philistines—all those around you who despise you.

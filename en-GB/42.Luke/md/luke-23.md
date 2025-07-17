@@ -161,7 +161,7 @@ and saying, “If you are the king of the Jews, save yourself.”
 
 ## Luke 23:38
 
-There was a written notice above him, which read: THIS IS THE KING OF THE JEWS.
+Above him was a sign stating: THIS IS THE KING OF THE JEWS.
 
 ---
 
@@ -197,7 +197,7 @@ for the sun ceased to shine. And the curtain of the temple was torn in two.
 
 ## Luke 23:46
 
-Jesus called out with a loud voice, “Father, into your hands I commit my spirit.” When he had said this, he breathed his last.
+Jesus called out loudly, “Father, into your hands I commit my spirit.” Having said this, he breathed his last.
 
 ## Luke 23:47
 
@@ -227,7 +227,7 @@ Approaching Pilate, he requested Jesus’ body.
 
 ## Luke 23:53
 
-Then he took it down, wrapped it in linen cloth, and placed it in a tomb cut in the rock, one in which no one had yet been laid.
+Then he took it down, wrapped it in linen cloth, and laid it in a tomb cut in the rock, one that had never been used.
 
 ## Luke 23:54
 

@@ -289,7 +289,7 @@ what do you think?” They answered, “He is worthy of death!”
 
 ## Matthew 26:67
 
-Then they spat in his face and struck him with their fists; others slapped him
+Then they spat in his face, struck him with their fists, and others slapped him
 
 ## Matthew 26:68
 

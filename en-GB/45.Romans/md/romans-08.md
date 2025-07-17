@@ -118,7 +118,7 @@ For those God foreknew He also predestined to be conformed to the image of His S
 
 ## Romans 8:30
 
-And those He predestined, He also called; those He called, He also justified; those He justified, He also glorified.
+And those He predestined, He also called; those He called, He also justified; those He justified, He also honoured with glory.
 
 ## Romans 8:31
 

@@ -14,7 +14,7 @@ But the one who prophesies speaks to people for their strengthening, encourageme
 
 ## 1 Corinthians 14:4
 
-The one who speaks in a tongue edifies himself, but the one who prophesies edifies the church.
+The one who speaks in a tongue builds up himself, but the one who prophesies builds up the church.
 
 ## 1 Corinthians 14:5
 

@@ -181,7 +181,7 @@ It is sown a natural body, it is raised a spiritual body. If there is a natural 
 
 ## 1 Corinthians 15:45
 
-So it is written: “The first man, Adam, became a living being.” The last Adam became a life-giving spirit.
+As it is written: “The first man, Adam, became alive.” and the last Adam became a life-giving spirit.
 
 ## 1 Corinthians 15:46
 
@@ -189,7 +189,7 @@ However, the spiritual did not come first, but the natural, and then the spiritu
 
 ## 1 Corinthians 15:47
 
-The first man was from the earth, made of dust; the second man is from heaven.
+The first man was of the earth, formed from dust; the second man is of heaven.
 
 ## 1 Corinthians 15:48
 

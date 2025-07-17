@@ -130,7 +130,7 @@ Then Pharaoh took his signet ring from his finger and placed it on Joseph’s fi
 He had him ride in his second chariot, and people shouted before him, “Bow the knee!” Thus he put him in charge of the whole land of Egypt.
 
 ## Genesis 41:44
-Then Pharaoh said to Joseph, “I am Pharaoh, but without your word, no one will lift hand or foot in all Egypt.”
+Then Pharaoh declared to Joseph, “I am Pharaoh, yet without your consent, no one shall do anything in all Egypt.”
 
 ## Genesis 41:45
 Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath, daughter of Potiphera, priest of On, to be his wife. And Joseph journeyed throughout the land of Egypt.
@@ -139,7 +139,7 @@ Pharaoh gave Joseph the name Zaphenath-Paneah and gave him Asenath, daughter of 
 Joseph was thirty years old when he began serving Pharaoh, the king of Egypt. And Joseph went out from Pharaoh’s presence and travelled throughout Egypt.
 
 ## Genesis 41:47
-During the seven years of abundance, the land produced plentifully.
+Throughout the seven years of abundance, the land yielded generously.
 
 ## Genesis 41:48
 Joseph gathered all the food produced in those seven years of abundance in Egypt and stored it in the cities. In each city, he placed the food grown in the fields surrounding it.
@@ -148,7 +148,7 @@ Joseph gathered all the food produced in those seven years of abundance in Egypt
 Joseph stored up huge quantities of grain, like the sand of the sea; it was so much that he stopped measuring it because it was beyond measure.
 
 ## Genesis 41:50
-Before the years of famine came, two sons were born to Joseph by Asenath, daughter of Potiphera, priest of On.
+Before the years of famine arrived, Joseph had two sons with Asenath, daughter of Potiphera, priest of On.
 
 ## Genesis 41:51
 Joseph named his firstborn Manasseh and said, “It is because God has made me forget all my hardship and all my father’s household.”
@@ -163,10 +163,10 @@ The seven years of abundance in Egypt concluded,
 and the seven years of famine began, just as Joseph had foretold. There was famine in all the other lands, but in the entire land of Egypt, there was food.
 
 ## Genesis 41:55
-When all Egypt began to feel the famine, the people cried to Pharaoh for food. Then Pharaoh told all the Egyptians, “Go to Joseph and do what he tells you.”
+When all Egypt began to feel the famine, the people cried to Pharaoh for food. Then Pharaoh instructed all the Egyptians, “Go to Joseph and do what he tells you.”
 
 ## Genesis 41:56
-When the famine had spread over the whole country, Joseph opened all the storehouses and sold grain to the Egyptians, for the famine was severe throughout Egypt.
+As the famine spread across the entire country, Joseph opened all the storehouses and sold grain to the Egyptians, for the famine was severe throughout Egypt.
 
 ## Genesis 41:57
-And all the world came to Egypt to buy grain from Joseph, because the famine was severe everywhere.
+And people from all over the world came to Egypt to buy grain from Joseph, because the famine was severe everywhere.

@@ -198,11 +198,11 @@ It was also called Mizpah, because he said, “May the Lord watch over us when w
 
 ## Genesis 31:50
 
-If you mistreat my daughters or if you take any wives besides my daughters, even though no one is with us, remember that God is a witness between you and me.”
+If you treat my daughters poorly or take other wives besides them, even though no one is with us, remember that God is a witness between you and me.”
 
 ## Genesis 31:51
 
-Laban also said to Jacob, “Here is this heap, and here is this pillar I have set up between you and me.
+Laban continued to Jacob, “Here is this heap, and here is this pillar I have set up between you and me.
 
 ## Genesis 31:52
 
@@ -218,4 +218,4 @@ He made an offering there in the hill country and invited his relatives to a mea
 
 ## Genesis 31:55
 
-Early the next morning Laban kissed his grandchildren and his daughters and blessed them. Then he left and returned home.
+At dawn, Laban kissed his grandchildren and his daughters and blessed them. Then he departed and returned to his place.

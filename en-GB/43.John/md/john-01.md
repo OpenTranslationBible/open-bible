@@ -130,7 +130,7 @@ The next day John saw Jesus coming towards him and said, “Behold, the Lamb of 
 
 ## John 1:30
 
-This is the one I meant when I said, ‘A man who comes after me has surpassed me because he was before me.’
+This is the one I referred to when I said, ‘After me comes a man who surpasses me, because he existed before me.’
 
 ## John 1:31
 
@@ -206,7 +206,7 @@ When Jesus saw Nathanael approaching, he remarked, “Here truly is an Israelite
 
 ## John 1:48
 
-“How do you know me?” Nathanael asked. Jesus answered, “I saw you while you were still under the fig tree before Philip called you.”
+“How do you know me?” Nathanael asked. Jesus replied, “I could see you while you were still under the fig tree, just before Philip called you.”
 
 ## John 1:49
 

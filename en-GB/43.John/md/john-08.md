@@ -116,7 +116,7 @@ They did not understand that He was speaking to them about His Father.
 
 ## John 8:28
 
-So Jesus said, “When you have lifted up the Son of Man, then you will know that I am He and that I do nothing on My own but speak just what the Father has taught Me.
+So Jesus said, “When the Father has lifted up the Son of Man, then you will know and understand that I am He - and that I do nothing on My own, but speak only what the Father has taught Me.
 
 ## John 8:29
 
@@ -158,7 +158,7 @@ I know that you are Abraham’s descendants. Yet you are looking for a way to ki
 
 ## John 8:38
 
-I am telling you what I have seen in the Father’s presence, and you are doing what you have heard from your father.”
+I am sharing with you what I have seen in the Father’s presence, and you are doing what you have heard from your father.”
 
 ---
 
@@ -172,7 +172,7 @@ As it is, you are seeking to kill Me, a man who has told you the truth that I he
 
 ## John 8:41
 
-You are doing the works of your own father.” “We are not illegitimate children,” they protested. “The only Father we have is God Himself.”
+You are following the ways of your own father.” “We are not illegitimate children,” they protested. “The only Father we have is God Himself.”
 
 ## John 8:42
 
@@ -180,11 +180,11 @@ Jesus said to them, “If God were your Father, you would love Me, for I have co
 
 ## John 8:43
 
-Why is My language not clear to you? Because you are unable to hear what I say.
+Why is My language not clear to you? It is because you are unable to hear what I say.
 
 ## John 8:44
 
-You belong to your father, the devil, and you want to carry out your father’s desires. He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.
+You belong to your father, the devil, and you wish to carry out your father’s desires. He was a murderer from the beginning, not holding to the truth, for there is no truth in him. When he lies, he speaks his native language, for he is a liar and the father of lies.
 
 ## John 8:45
 
@@ -192,7 +192,7 @@ Yet because I tell the truth, you do not believe Me!
 
 ## John 8:46
 
-Can any of you prove Me guilty of sin? If I am telling the truth, why don’t you believe Me?
+Can any of you prove Me guilty of sin? If I am telling the truth, why do you not believe Me?
 
 ## John 8:47
 
@@ -202,7 +202,7 @@ Whoever belongs to God hears what God says. The reason you do not hear is that y
 
 ## John 8:48
 
-The Jews answered Him, “Aren’t we right in saying that you are a Samaritan and demon-possessed?”
+The Jews answered Him, “Aren’t we right in saying that you are a Samaritan and have a demon?”
 
 ## John 8:49
 
@@ -218,7 +218,7 @@ Truly, truly I tell you, whoever obeys My word will never see death.”
 
 ## John 8:52
 
-At this they exclaimed, “Now we know that you are demon-possessed! Abraham died and so did the prophets, yet you say that whoever obeys your word will never taste death.
+At this they exclaimed, “Now we know that you have a demon! Abraham died and so did the prophets, yet you say that whoever obeys your word will never taste death.
 
 ## John 8:53
 
@@ -246,4 +246,4 @@ Your father Abraham rejoiced at the thought of seeing My day; he saw it and was 
 
 ## John 8:59
 
-At this, they picked up stones to stone Him, but Jesus hid Himself, slipping away from the temple grounds.
+At this, they picked up stones to throw at Him, but Jesus hid Himself, slipping away from the temple grounds.

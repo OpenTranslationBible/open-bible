@@ -104,7 +104,7 @@ The king also fashioned a great throne of ivory and overlaid it with pure gold.
 
 ## 2 Chronicles 9:18
 
-There were six steps to the throne and a footstool in gold attached to the throne, and arms on each side of the seat, and two lions standing beside the arms.
+The throne had six steps, with a gold footstool attached to it, and arms on each side of the seat, with two lions standing beside the arms.
 
 ---
 
@@ -146,7 +146,7 @@ They were bringing, every man his gift: articles of silver and gold, garments, w
 
 ## 2 Chronicles 9:25
 
-Now Solomon had four thousand stalls for horses and chariots, and twelve thousand horsemen; and he stationed them in the chariot cities and with the king in Jerusalem.
+Solomon possessed four thousand stalls for horses and chariots, and twelve thousand horsemen; and he stationed them in the chariot cities and with the king in Jerusalem.
 
 ---
 

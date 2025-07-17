@@ -28,7 +28,7 @@ You became followers of us and of the Lord, having embraced the word amidst grea
 
 ## 1 Thessalonians 1:7
 
-so that you became an example to all the believers in Macedonia and Achaia.
+so that you served as a model to all the believers in Macedonia and Achaia.
 
 ## 1 Thessalonians 1:8
 

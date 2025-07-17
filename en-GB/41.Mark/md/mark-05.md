@@ -104,7 +104,7 @@ He pleaded earnestly with Him, “My little daughter is at the point of death. P
 
 ## Mark 5:24
 
-So Jesus went with him. A large crowd followed and pressed around Him.
+Thus, Jesus accompanied him. A large crowd followed closely and surrounded Him.
 
 ---
 
@@ -118,15 +118,15 @@ She had endured much under many doctors and had spent all she had, yet instead o
 
 ## Mark 5:27
 
-When she heard about Jesus, she came up behind Him in the crowd and touched His cloak,
+When she heard about Jesus, she approached Him from behind in the crowd and touched His cloak,
 
 ## Mark 5:28
 
-because she thought, “If I just touch His clothes, I will be healed.”
+thinking, “If I merely touch His clothes, I will be healed.”
 
 ## Mark 5:29
 
-Immediately her bleeding stopped and she felt in her body that she was freed from her suffering.
+Instantly, her bleeding ceased and she felt in her body that she was relieved from her suffering.
 
 ## Mark 5:30
 
@@ -134,11 +134,11 @@ At once Jesus realised that power had gone out from Him. He turned around in the
 
 ## Mark 5:31
 
-“You see the people crowding against You,” His disciples answered, “and yet You can ask, ‘Who touched Me?’”
+“You see the people pressing against You,” His disciples answered, “and yet You can ask, ‘Who touched Me?’”
 
 ## Mark 5:32
 
-But Jesus kept looking around to see who had done it.
+But Jesus continued to look around to identify who had done it.
 
 ## Mark 5:33
 
@@ -168,7 +168,7 @@ When they arrived at the home of the synagogue leader, Jesus saw a commotion, wi
 
 ## Mark 5:39
 
-He went in and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
+He entered and said to them, “Why all this commotion and wailing? The child is not dead but asleep.”
 
 ## Mark 5:40
 
@@ -176,12 +176,12 @@ But they laughed at Him. After He sent them all out, He took the child’s fathe
 
 ## Mark 5:41
 
-He took her by the hand and said to her, “Talitha koum!” (which means, “Little girl, I say to you, get up!”).
+He took her by the hand and said to her, “Talitha koum!” (which means, “Little girl, I say to you, arise!”).
 
 ## Mark 5:42
 
-Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished.
+Immediately the girl stood up and began to walk around (she was twelve years old). At this they were utterly amazed.
 
 ## Mark 5:43
 
-He gave strict orders not to let anyone know about this, and told them to give her something to eat.
+He gave strict orders not to let anyone know about this, and instructed them to give her something to eat.

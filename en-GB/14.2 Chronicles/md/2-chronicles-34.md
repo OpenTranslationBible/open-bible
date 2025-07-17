@@ -29,7 +29,7 @@ He then burned the bones of the priests on their altars and cleansed Judah and J
 
 ## 2 Chronicles 34:6
 
-In the cities of Manasseh, Ephraim, Simeon, and as far as Naphtali, in their surrounding ruins,
+In the cities of Manasseh, Ephraim, and Simeon, and as far as Naphtali, in their surrounding areas,
 
 ## 2 Chronicles 34:7
 

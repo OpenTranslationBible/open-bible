@@ -68,7 +68,7 @@ and from the spoil of Hadadezer, son of Rehob, king of Zobah.
 
 ## 2 Samuel 8:13
 
-Thus David gained renown when he returned from defeating eighteen thousand Arameans in the Valley of Salt.
+Thus David made a name for himself, when he returned from defeating eighteen thousand Arameans in the Valley of Salt.
 
 ## 2 Samuel 8:14
 

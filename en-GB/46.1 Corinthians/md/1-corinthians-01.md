@@ -125,4 +125,4 @@ But it is due to Him that you are in Christ Jesus, who became to us wisdom from 
 
 ## 1 Corinthians 1:31
 
-So that, as it is written: “Let the one who boasts, boast in the Lord.”
+Therefore, as scripture says: “Let he who boasts, boast in the Lord.”

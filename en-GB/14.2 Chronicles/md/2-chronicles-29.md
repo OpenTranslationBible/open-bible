@@ -140,7 +140,7 @@ for the command was from the Lord through His prophets.
 
 ## 2 Chronicles 29:26
 
-And the Levites stood with the instruments of David, and the priests with the trumpets.
+And the Levites took their places with the instruments of David, and the priests with the trumpets.
 
 ---
 

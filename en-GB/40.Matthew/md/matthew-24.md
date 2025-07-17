@@ -221,7 +221,7 @@ and he then begins to mistreat his fellow servants and to eat and drink with dru
 
 ## Matthew 24:50
 
-The master of that servant will come on a day when he does not expect him and at an hour he is not aware of.
+The master of that servant will arrive on a day when he is not expected and at an hour of which he is unaware.
 
 ## Matthew 24:51
 

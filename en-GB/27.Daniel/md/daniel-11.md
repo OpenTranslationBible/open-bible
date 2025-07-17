@@ -94,16 +94,16 @@ Ships from the western regions will oppose him, and he will lose heart. Then he 
 His armed forces will rise up to defile the temple fortress and will abolish the daily sacrifice. Then they will set up the abomination that causes desolation.
 
 ## Daniel 11:32
-With flattery he will corrupt those who have violated the covenant, but the people who know their God will firmly resist him.
+Through smooth words, he will lead astray those who have violated the covenant, but the people who know their God will stand firm and resist him.
 
 ## Daniel 11:33
-Those who are wise will instruct many, though for a time they will fall by the sword or be burned or captured or plundered.
+The wise among the people will impart knowledge to many, though for a time they will fall by the sword or be burned or captured or plundered.
 
 ## Daniel 11:34
-When they fall, they will receive a little help, and many who are not sincere will join them.
+When they fall, they will receive some assistance, and many who are not sincere will join them.
 
 ## Daniel 11:35
-Some of the wise will stumble, so that they may be refined, purified and made spotless until the time of the end, for it will still come at the appointed time.
+Some of the wise will stumble, so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time.
 
 ## Daniel 11:36
 The king will act according to his own desires. He will exalt and magnify himself above every god and will say unheard-of things against the God of gods. He will be successful until the time of wrath is completed, for what has been determined must take place.
@@ -121,7 +121,7 @@ He will attack the mightiest fortresses with the help of a foreign god and will 
 At the time of the end, the king of the South will engage him in battle, and the king of the North will storm out against him with chariots and cavalry and a great fleet of ships. He will invade many countries and sweep through them like a flood.
 
 ## Daniel 11:41
-He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab and the leaders of Ammon will be delivered from his hand.
+He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab, and the leaders of Ammon will be delivered from his hand.
 
 ## Daniel 11:42
 He will extend his power over many countries; Egypt will not escape.

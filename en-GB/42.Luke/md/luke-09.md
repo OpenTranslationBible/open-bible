@@ -184,7 +184,7 @@ Even while the boy was coming, the demon threw him to the ground in a convulsion
 
 ## Luke 9:43
 
-And they were all amazed at the greatness of God. While everyone was marvelling at all that Jesus did, He said to His disciples,
+And they were all in awe of the majesty of God. While everyone was marvelling at all that Jesus did, He addressed His disciples,
 
 ## Luke 9:44
 
@@ -206,13 +206,13 @@ Jesus, aware of their thoughts, took a little child and had him stand beside Him
 
 ## Luke 9:48
 
-Then He said to them, “Whoever welcomes this little child in My name welcomes Me; and whoever welcomes Me welcomes the one who sent Me. For it is the one who is least among you all who is the greatest.”
+Then He said to them, “Whoever receives this little child in My name receives Me; and whoever receives Me receives the one who sent Me. For it is the one who is least among you all who is the greatest.”
 
 ---
 
 ## Luke 9:49
 
-“Master,” said John, “we saw someone driving out demons in Your name and we tried to stop him, because he is not one of us.”
+“Master,” said John, “we saw someone driving out demons in Your name and we tried to stop him, because he was not part of our group.”
 
 ## Luke 9:50
 
@@ -230,11 +230,11 @@ He sent messengers on ahead, who went into a Samaritan village to prepare for Hi
 
 ## Luke 9:53
 
-but the people there did not welcome Him, because He was heading for Jerusalem.
+but the people there did not receive Him, because He was heading for Jerusalem.
 
 ## Luke 9:54
 
-When the disciples James and John saw this, they asked, “Lord, do You want us to call fire down from heaven to destroy them?”
+When the disciples James and John saw this, they asked, “Lord, do You want us to call fire down from heaven to consume them?”
 
 ## Luke 9:55
 
@@ -256,7 +256,7 @@ Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has n
 
 ## Luke 9:59
 
-He said to another man, “Follow Me.” But he replied, “Lord, first let me go and bury my father.”
+He said to another man, “Follow Me.” But he replied, “Lord, first let me go and lay my father to rest.”
 
 ## Luke 9:60
 
@@ -268,4 +268,4 @@ Still another said, “I will follow You, Lord; but first let me go back and bid
 
 ## Luke 9:62
 
-Jesus replied, “No one who puts a hand to the plough and looks back is fit for service in the kingdom of God.”
+Jesus replied, “No one who sets a hand to the plough and looks back is suitable for service in the kingdom of God.”

@@ -228,7 +228,7 @@ You heard my plea: “Do not turn a deaf ear to my cry for relief.”
 
 ## Lamentations 3:57
 
-You came near when I called You, and You said, “Do not fear.”
+You drew near when I called upon You, and You reassured me, “Do not fear.”
 
 ## Lamentations 3:58
 
@@ -244,7 +244,7 @@ You have seen all their vengeance, all their schemes against me.
 
 ## Lamentations 3:61
 
-Lord, You have heard their insults, all their plots against me—
+Lord, You have been aware of their insults, all their plots against me—
 
 ## Lamentations 3:62
 

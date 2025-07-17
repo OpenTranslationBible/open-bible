@@ -98,7 +98,7 @@ Five times I received from the Jewish authorities the forty lashes minus one.
 
 ## 2 Corinthians 11:25
 
-Three times I was beaten with rods, once I was stoned, three times I was shipwrecked, a night and a day I have spent adrift at sea.
+On three occasions I was beaten with rods, once I was stoned, and three times I was shipwrecked; I spent a night and a day adrift at sea.
 
 ## 2 Corinthians 11:26
 

@@ -157,7 +157,7 @@ Hezekiah possessed immense riches and honour; and he made for himself treasuries
 
 ## 2 Chronicles 32:28
 
-storehouses also for the produce of grain, wine, and oil, pens for all kinds of cattle, and sheepfolds for the flocks.
+He also constructed storage facilities for the harvest of grain, wine, and oil, along with shelters for various types of cattle and enclosures for the flocks.
 
 ## 2 Chronicles 32:29
 

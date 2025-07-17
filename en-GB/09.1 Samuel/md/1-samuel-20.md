@@ -78,7 +78,7 @@ not even when the Lord eliminates every one of the enemies of David from the fac
 
 ## 1 Samuel 20:16
 
-So Jonathan made a covenant with the house of David, saying, “May the Lord call David’s enemies to account.”
+So Jonathan made a covenant with the house of David, saying, “May the Lord hold David’s enemies accountable.”
 
 ## 1 Samuel 20:17
 
@@ -164,7 +164,7 @@ But Jonathan replied to his father Saul and asked, “Why should he be put to de
 
 ## 1 Samuel 20:33
 
-Then Saul hurled his spear at him to strike him down; so Jonathan knew that his father was determined to put David to death.
+Then Saul hurled his spear at him to strike him down; so Jonathan realised that his father was determined to put David to death.
 
 ## 1 Samuel 20:34
 

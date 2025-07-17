@@ -277,7 +277,7 @@ and all their settlements which were around these cities as far as Baal.
 
 ## 1 Chronicles 4:34
 
-Meshobab, Jamlech, and Joshah the son of Amaziah,
+Meshobab, Jamlech, and Joshah, fathered Amaziah,
 
 ## 1 Chronicles 4:35
 

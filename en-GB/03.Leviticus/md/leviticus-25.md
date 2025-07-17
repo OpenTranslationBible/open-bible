@@ -106,19 +106,19 @@ Yet the pastureland belonging to their towns must remain unsold; it is their las
 “‘If any of your fellow Israelites become poor and are unable to support themselves among you, assist them as you would a foreigner and guest, so they can continue to live among you.
 
 ## Leviticus 25:36
-Do not take interest or any profit from them, but fear your God, so that they may continue to live among you.
+Do not charge them interest or seek profit from them, but fear your God, so that they may continue to live among you.
 
 ## Leviticus 25:37
-You must not lend them money at interest or sell them food at a profit.
+You must not lend them money with interest or sell them food for profit.
 
 ## Leviticus 25:38
 I am the Lord your God, who brought you out of the land of Egypt to give you the land of Canaan and to be your God.
 
 ## Leviticus 25:39
-“‘If any of your fellow Israelites become poor and sell themselves to you, do not make them work as slaves.
+“‘If any of your fellow Israelites become poor and sell themselves to you, do not treat them as slaves.
 
 ## Leviticus 25:40
-They are to be treated as hired workers or temporary residents among you; they are to work for you until the Year of Jubilee.
+They are to be regarded as hired workers or temporary residents among you; they are to work for you until the Year of Jubilee.
 
 ## Leviticus 25:41
 Then they and their children are to be released, and they will return to their own clans and to the property of their ancestors.
@@ -145,7 +145,7 @@ You can bequeath them to your children as inherited property and can make them s
 they retain the right of redemption after they have sold themselves. A relative may redeem them:
 
 ## Leviticus 25:49
-An uncle or a cousin or any blood relative in their clan may redeem them. Or if they prosper, they may redeem themselves.
+An uncle, a cousin, or any close relative in their clan may redeem them. Or if they prosper, they may redeem themselves.
 
 ## Leviticus 25:50
 They and their buyer are to calculate the time from the year they sold themselves up to the Year of Jubilee. The price for their release is to be based on the rate paid to a hired worker for that number of years.

@@ -203,7 +203,7 @@ Jehoshaphat, son of Asa, began his reign over Judah in the fourth year of Ahab, 
 
 ## 1 Kings 22:42
 
-Jehoshaphat was thirty-five years old when he became king, and he reigned in Jerusalem for twenty-five years. His mother’s name was Azubah, daughter of Shilhi.
+Jehoshaphat was thirty-five years old when he became king, and he ruled in Jerusalem for twenty-five years. His mother’s name was Azubah, daughter of Shilhi.
 
 ## 1 Kings 22:43
 

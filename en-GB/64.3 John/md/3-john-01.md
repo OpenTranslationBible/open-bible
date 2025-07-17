@@ -27,7 +27,7 @@ and they have spoken of your love before the church. You will do well to send th
 
 ## 3 John 1:7
 
-For they went out for the sake of the Name, accepting nothing from the Gentiles.
+For they went out for the sake of the Name, accepting no assistance from the Gentiles.
 
 ## 3 John 1:8
 

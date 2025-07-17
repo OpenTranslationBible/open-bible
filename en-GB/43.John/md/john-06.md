@@ -186,7 +186,7 @@ Jesus answered, “Stop grumbling among yourselves.
 
 ## John 6:44
 
-No one can come to Me unless the Father who sent Me draws them, and I will raise them up at the last day.
+No one can come to Me unless the Father who sent Me, first calls them, and so I will raise them up at the last day.
 
 ## John 6:45
 
@@ -224,11 +224,11 @@ Then the Jews began to argue intensely among themselves, “How can this man giv
 
 ## John 6:53
 
-Jesus said to them, “Truly, truly I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.
+Jesus said to them, “Truly, truly I say to you, unless you eat of the flesh of the Son of Man and drink His blood, you can have no life in you.
 
 ## John 6:54
 
-Whoever eats My flesh and drinks My blood has eternal life, and I will raise them up at the last day.
+Moreover, whoever eats of My flesh and drinks My blood gains eternal life, and I will raise them up at the last day.
 
 ## John 6:55
 
@@ -236,7 +236,7 @@ For My flesh is true food and My blood is true drink.
 
 ## John 6:56
 
-Whoever eats My flesh and drinks My blood remains in Me, and I in them.
+Those who eat of My flesh and drink of My blood will remain in Me, and I in them.
 
 ## John 6:57
 
@@ -258,11 +258,11 @@ On hearing it, many of His disciples said, “This is a difficult teaching. Who 
 
 ## John 6:61
 
-Aware that His disciples were grumbling about this, Jesus said to them, “Does this offend you?
+Aware that His disciples were murmuring about this, Jesus said to them, “Does this offend you?
 
 ## John 6:62
 
-Then what if you see the Son of Man ascend to where He was before!
+Then what if you see the Son of Man ascend to where He was before?
 
 ## John 6:63
 
@@ -280,7 +280,7 @@ He continued, “This is why I told you that no one can come to Me unless the Fa
 
 ## John 6:66
 
-From this time many of His disciples turned back and no longer followed Him.
+From this point, many of His disciples turned back and no longer followed Him.
 
 ## John 6:67
 
@@ -292,7 +292,7 @@ Simon Peter answered Him, “Lord, to whom shall we go? You have the words of et
 
 ## John 6:69
 
-We have come to believe and to know that You are the Holy One of God.”
+We have come to believe and to understand that You are the Holy One of God.”
 
 ## John 6:70
 

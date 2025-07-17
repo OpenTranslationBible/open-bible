@@ -159,7 +159,7 @@ But in the account of the burning bush, even Moses demonstrated that the dead ri
 
 ## Luke 20:38
 
-He is not the God of the dead, but of the living, for to Him all are alive.”
+He is the God not of the dead, but of the living, for in His sight all are alive.”
 
 ## Luke 20:39
 
@@ -177,7 +177,7 @@ Then He said to them, “Why is it said that the Messiah is the son of David?
 
 ## Luke 20:42
 
-David himself declares in the Book of Psalms: ‘The Lord said to my Lord: “Sit at My right hand
+David himself states in the Book of Psalms: ‘The Lord said to my Lord: “Sit at My right hand
 
 ## Luke 20:43
 
@@ -185,7 +185,7 @@ until I make Your enemies a footstool for Your feet.”’
 
 ## Luke 20:44
 
-David calls Him ‘Lord.’ How then can He be his son?”
+David refers to Him as ‘Lord.’ How then can He be his son?”
 
 ---
 

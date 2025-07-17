@@ -99,7 +99,7 @@ While he was talking with them, behold, the champion, the Philistine from Gath n
 
 ## 1 Samuel 17:24
 
-When all the men of Israel saw the man, they fled from him and were greatly afraid.
+When all the men of Israel saw him, they retreated from him in great fear.
 
 ---
 
@@ -143,7 +143,7 @@ But Saul said to David, “You are not able to go against this Philistine to fig
 
 ## 1 Samuel 17:34
 
-But David said to Saul, “Your servant was tending his father’s sheep. When a lion or a bear came and took a lamb from the flock,
+But David said to Saul, “Your servant was looking after his father’s sheep. When a lion or a bear came and took a lamb from the flock,
 
 ## 1 Samuel 17:35
 
@@ -151,7 +151,7 @@ I went out after it and struck it, and rescued the lamb from its mouth. And when
 
 ## 1 Samuel 17:36
 
-Your servant has killed both the lion and the bear; and this uncircumcised Philistine will be like one of them, since he has defied the armies of the living God.”
+Your servant has overcome both the lion and the bear; and this uncircumcised Philistine will be like one of them, since he has defied the armies of the living God.”
 
 ## 1 Samuel 17:37
 

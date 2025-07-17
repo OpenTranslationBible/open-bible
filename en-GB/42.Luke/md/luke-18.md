@@ -138,7 +138,7 @@ Jesus took the Twelve aside and said to them, “We are going up to Jerusalem, a
 
 ## Luke 18:32
 
-He will be handed over to the Gentiles. They will mock Him, insult Him, and spit on Him;
+He will be delivered to the Gentiles. They will mock Him, treat Him with contempt, and spit on Him;
 
 ## Luke 18:33
 
@@ -164,7 +164,7 @@ They told him, “Jesus of Nazareth is passing by.”
 
 ## Luke 18:38
 
-He called out, “Jesus, Son of David, have mercy on me!”
+He cried out, “Jesus, Son of David, have mercy on me!”
 
 ## Luke 18:39
 

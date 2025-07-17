@@ -154,22 +154,22 @@ a fierce-looking nation without respect for the elderly or pity for the young.
 They will consume the young of your livestock and the crops of your land until you are destroyed. They will leave you no grain, new wine, or olive oil, nor any calves of your herds or lambs of your flocks until you are ruined.
 
 ## Deuteronomy 28:52
-They will lay siege to all the cities throughout your land until the high fortified walls in which you trust fall down. They will besiege all the cities throughout the land the Lord your God is giving you.
+They will besiege all your cities until your high fortified walls, in which you have placed your trust, fall. They will surround all the cities throughout the land the Lord your God is giving you.
 
 ## Deuteronomy 28:53
-Because of the suffering your enemy will inflict on you during the siege, you will eat the fruit of the womb, the flesh of the sons and daughters the Lord your God has given you.
+Because of the hardship your enemy will impose on you during the siege, you will resort to eating the fruit of your womb, the flesh of the sons and daughters the Lord your God has given you.
 
 ## Deuteronomy 28:54
-Even the most gentle and sensitive man among you will have no compassion on his own brother or the wife he loves or his surviving children,
+Even the most gentle and sensitive man among you will lose compassion for his own brother, the wife he loves, and his surviving children,
 
 ## Deuteronomy 28:55
-and he will not give to one of them any of the flesh of his children that he is eating. It will be all he has left because of the suffering your enemy will inflict on you during the siege of all your cities.
+and he will refuse to share any of the flesh of his children that he is consuming. It will be all he has left because of the hardship your enemy will impose on you during the siege of all your cities.
 
 ## Deuteronomy 28:56
 The most gentle and sensitive woman among you—so delicate and tender that she would not venture to touch the ground with the sole of her foot—will begrudge the husband she loves and her own son or daughter
 
 ## Deuteronomy 28:57
-the afterbirth from her womb and the children she bears. For in her dire need she intends to eat them secretly because of the suffering your enemy will inflict on you during the siege of your cities.
+the afterbirth from her womb and the children she bears. In her dire need, she intends to consume them secretly because of the hardship your enemy will impose on you during the siege of your cities.
 
 ## Deuteronomy 28:58
 If you do not carefully follow all the words of this law, which are written in this book, and do not hold in reverence this glorious and awesome name—the Lord your God—
@@ -190,16 +190,16 @@ You who were as numerous as the stars in the sky will be left with only a few, b
 Just as it pleased the Lord to make you prosper and increase in number, so it will please Him to bring you to ruin and destruction. You will be uprooted from the land you are entering to possess.
 
 ## Deuteronomy 28:64
-Then the Lord will scatter you among all nations, from one end of the earth to the other. There you will worship other gods—gods of wood and stone, which neither you nor your ancestors have known.
+Then the Lord will scatter you among all nations, from one end of the earth to the other. There you will serve other gods—gods of wood and stone, which neither you nor your ancestors have known.
 
 ## Deuteronomy 28:65
 Among those nations you will find no rest, no place of repose for the sole of your foot. There the Lord will give you an anxious mind, eyes weary with longing, and a despairing heart.
 
 ## Deuteronomy 28:66
-You will live in constant suspense, filled with dread both night and day, never sure of your life.
+You will live in constant uncertainty, filled with dread both night and day, never sure of your life.
 
 ## Deuteronomy 28:67
-In the morning you will say, “If only it were evening!” and in the evening, “If only it were morning!”—because of the terror that will fill your hearts and the sights that your eyes will see.
+In the morning you will say, “If only it were evening!” and in the evening, “If only it were morning!”—because of the terror that will grip your hearts and the sights that your eyes will witness.
 
 ## Deuteronomy 28:68
 The Lord will send you back in ships to Egypt on a journey I said you should never make again. There you will offer yourselves for sale to your enemies as male and female servants, but no one will buy you.

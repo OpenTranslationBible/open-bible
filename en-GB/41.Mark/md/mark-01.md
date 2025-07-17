@@ -109,7 +109,7 @@ Just then a man in their synagogue who was possessed by an unclean spirit cried 
 
 ## Mark 1:24
 
-“What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
+“What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
 
 ## Mark 1:25
 
@@ -163,7 +163,7 @@ Very early in the morning, while it was still dark, Jesus got up, left the house
 
 ## Mark 1:36
 
-Simon and his companions went to look for him,
+Simon and his companions searched for him,
 
 ## Mark 1:37
 
@@ -189,7 +189,7 @@ Filled with compassion, Jesus reached out his hand and touched the man. “I am 
 
 ## Mark 1:42
 
-Immediately the leprosy left him, and he was cleansed.
+At once the leprosy left him, and he was cleansed.
 
 ## Mark 1:43
 
@@ -197,7 +197,7 @@ Jesus sent him away at once with a stern warning:
 
 ## Mark 1:44
 
-“See that you don’t tell this to anyone. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.”
+“Ensure that you tell no one about this. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.”
 
 ## Mark 1:45
 

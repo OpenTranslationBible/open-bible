@@ -128,7 +128,7 @@ But God raised Him from the dead,
 
 ## Acts 13:31
 
-and for many days He was seen by those who had travelled with Him from Galilee to Jerusalem. They are now His witnesses to our people.
+and for many days He appeared to those who had accompanied Him from Galilee to Jerusalem. They are now His witnesses to our people.
 
 ## Acts 13:32
 
