@@ -1,7 +1,7 @@
 # Jeremiah Chapter 33
 
 ## Jeremiah 33:1
-The word of the Lord came to Jeremiah a second time while he was still confined in the courtyard of the guard, saying,
+The message from the Lord came to Jeremiah a second time while he was still confined in the courtyard of the guard, saying,
 
 ## Jeremiah 33:2
 “This is what the Lord says, He who made the earth, the Lord who formed it and established it—His name is the Lord:
@@ -73,7 +73,7 @@ The word of the Lord came to Jeremiah, saying,
 “Have you not noticed what these people are saying, ‘The Lord has rejected the two families He chose’? So they despise My people and no longer regard them as a nation.
 
 ## Jeremiah 33:25
-This is what the Lord says: ‘If I have not made My covenant with day and night and established the laws of heaven and earth,
+This is what the Lord says: ‘If I have not set My covenant with day and night and established the laws of heaven and earth,
 
 ## Jeremiah 33:26
 then I will reject the descendants of Jacob and David My servant and will not choose one of his sons to rule over the descendants of Abraham, Isaac, and Jacob. For I will restore their fortunes and have compassion on them.’”

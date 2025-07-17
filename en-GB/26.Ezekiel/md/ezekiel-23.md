@@ -61,7 +61,7 @@ Yet she multiplied her obscene practices, recalling the days of her youth, when 
 She lusted after her lovers, whose flesh was like that of donkeys and whose emission was like that of horses.
 
 ## Ezekiel 23:21
-So you longed for the lewdness of your youth, when in Egypt your bosom was caressed and your young breasts fondled.
+Thus, you yearned for the immorality of your youth, when in Egypt your bosom was caressed and your young breasts fondled.
 
 ## Ezekiel 23:22
 “Therefore, Oholibah, this is what the Sovereign Lord says: I will incite your lovers against you, those you turned away from in disgust, and I will bring them against you from every side—
@@ -82,7 +82,7 @@ They will also take away your garments and seize your fine jewellery.
 So I will put an end to your lewdness and prostitution brought from Egypt. You will not look on these things with longing or remember Egypt anymore.
 
 ## Ezekiel 23:28
-For this is what the Sovereign Lord says: I am about to deliver you into the hands of those you hate, to those you turned away from in disgust.
+For this is what the Sovereign Lord says: I am about to hand you over to those you despise, to those you turned away from in disgust.
 
 ## Ezekiel 23:29
 They will deal with you in hatred, take all your possessions, and leave you naked and bare. The shame of your prostitution will be exposed, and your lewdness and obscene practices
@@ -112,10 +112,10 @@ Moreover, the Lord said to me: “Son of man, will you judge Oholah and Oholibah
 for they have committed adultery and blood is on their hands. They were unfaithful with their idols; they even sacrificed their children, whom they bore to me, as food for them.
 
 ## Ezekiel 23:38
-They have also done this to me: At that same time, they defiled my sanctuary and desecrated my Sabbaths.
+They have also done this to me: At that same time, they defiled my sanctuary and violated my Sabbaths.
 
 ## Ezekiel 23:39
-On the very day they sacrificed their children to their idols, they entered my sanctuary and desecrated it. That is what they did in my house.
+On the very day they sacrificed their children to their idols, they entered my sanctuary and violated it. That is what they did in my house.
 
 ## Ezekiel 23:40
 Furthermore, they sent messengers for men who came from afar, and when they arrived, you bathed yourself for them, applied eye makeup and adorned yourself with jewellery.

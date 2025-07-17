@@ -13,7 +13,7 @@ A time to kill and a time to heal, a time to tear down and a time to build up,
 A time to weep and a time to laugh, a time to mourn and a time to dance,
 
 ## Ecclesiastes 3:5
-A time to scatter stones and a time to gather them, a time to embrace and a time to refrain from embracing,
+A time to disperse stones and a time to collect them, a time to embrace and a time to hold back from embracing,
 
 ## Ecclesiastes 3:6
 A time to search and a time to abandon the search, a time to keep and a time to discard,

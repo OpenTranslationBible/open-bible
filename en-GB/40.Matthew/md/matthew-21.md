@@ -68,7 +68,7 @@ But when the chief priests and the scribes saw the wonderful things he did, and 
 
 ## Matthew 21:17
 
-Then he left them and went out of the city to Bethany, where he spent the night.
+Afterwards, he departed from them and went out of the city to Bethany, where he stayed overnight.
 
 ---
 
@@ -144,11 +144,11 @@ For John came to you in the way of righteousness, and you did not believe him, b
 
 ## Matthew 21:34
 
-When the time for harvest approached, he sent his servants to the tenants to collect his share of the produce.
+When the time for harvest approached, he sent his servants to the tenants to gather his share of the produce.
 
 ## Matthew 21:35
 
-The tenants seized his servants; they beat one, killed another, and stoned a third.
+The tenants seized his servants; they mistreated one, killed another, and stoned a third.
 
 ## Matthew 21:36
 
@@ -184,7 +184,7 @@ Therefore I tell you that the kingdom of God will be taken away from you and giv
 
 ## Matthew 21:44
 
-Anyone who falls on this stone will be broken to pieces; anyone on whom it falls will be crushed.”
+Anyone who stumbles over this stone will be broken, and anyone it falls upon will be crushed.”
 
 ## Matthew 21:45
 

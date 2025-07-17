@@ -94,7 +94,7 @@ The next day, the crowd that had stayed on the opposite shore realised that only
 
 ## John 6:23
 
-Other boats from Tiberias came near the place where they had eaten the bread after the Lord had given thanks.
+Other boats from Tiberias came near the place where they had eaten the bread after the Lord had expressed gratitude.
 
 ## John 6:24
 
@@ -164,11 +164,11 @@ For I have come down from heaven, not to do My own will, but the will of Him who
 
 ## John 6:39
 
-And this is the will of Him who sent Me, that I shall lose none of all those He has given Me, but raise them up at the last day.
+And this is the purpose of Him who sent Me, that I shall not lose any of those He has given Me, but raise them up at the last day.
 
 ## John 6:40
 
-For My Father’s will is that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise them up at the last day.”
+For it is My Father’s desire that everyone who looks to the Son and believes in Him shall have eternal life, and I will raise them up at the last day.”
 
 ---
 
@@ -190,7 +190,7 @@ No one can come to Me unless the Father who sent Me draws them, and I will raise
 
 ## John 6:45
 
-It is written in the Prophets: ‘They will all be taught by God.’ Everyone who has heard the Father and learned from Him comes to Me.
+It is written in the Prophets: ‘They will all be instructed by God.’ Everyone who has heard the Father and learned from Him comes to Me.
 
 ## John 6:46
 
@@ -198,7 +198,7 @@ No one has seen the Father except the One who is from God; only He has seen the 
 
 ## John 6:47
 
-Truly, truly, I say to you, whoever believes has eternal life.
+Truly, truly, I say to you, whoever believes possesses eternal life.
 
 ## John 6:48
 
@@ -210,7 +210,7 @@ Your ancestors ate the manna in the wilderness, and they died.
 
 ## John 6:50
 
-But here is the bread that comes down from heaven, which anyone may eat and not die.
+But here is the bread that descends from heaven, which anyone may eat and not die.
 
 ## John 6:51
 
@@ -220,11 +220,11 @@ I am the living bread that came down from heaven. If anyone eats of this bread, 
 
 ## John 6:52
 
-Then the Jews began to argue sharply among themselves, “How can this man give us His flesh to eat?”
+Then the Jews began to argue intensely among themselves, “How can this man give us His flesh to eat?”
 
 ## John 6:53
 
-Jesus said to them, “Truly, truly, I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.
+Jesus said to them, “Truly, truly I say to you, unless you eat the flesh of the Son of Man and drink His blood, you have no life in you.
 
 ## John 6:54
 
@@ -248,7 +248,7 @@ This is the bread that came down from heaven. Your ancestors ate manna and died,
 
 ## John 6:59
 
-He said this while teaching in the synagogue in Capernaum.
+He expressed these teachings while instructing in the synagogue in Capernaum.
 
 ---
 
@@ -284,7 +284,7 @@ From this time many of His disciples turned back and no longer followed Him.
 
 ## John 6:67
 
-“You do not want to leave too, do you?” Jesus asked the Twelve.
+“You do not want to leave as well, do you?” Jesus asked the Twelve.
 
 ## John 6:68
 

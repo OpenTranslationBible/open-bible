@@ -98,7 +98,7 @@ If those days had not been shortened, no one would survive, but for the sake of 
 
 ## Matthew 24:23
 
-At that time if anyone says to you, ‘Look, here is the Messiah!’ or, ‘There He is!’ do not believe it.
+At that moment, if anyone claims, ‘Look, here is the Messiah!’ or, ‘There He is!’ do not believe it.
 
 ## Matthew 24:24
 
@@ -110,7 +110,7 @@ Remember, I have told you beforehand.
 
 ## Matthew 24:26
 
-So if anyone tells you, ‘There He is, out in the wilderness,’ do not go out; or, ‘Here He is, in the inner rooms,’ do not believe it.
+Therefore, if anyone tells you, ‘He is in the wilderness,’ do not go out; or, ‘He is in the inner rooms,’ do not believe it.
 
 ## Matthew 24:27
 
@@ -165,11 +165,11 @@ Heaven and earth will pass away, but My words will never pass away.
 
 ## Matthew 24:37
 
-As it was in the days of Noah, so it will be at the coming of the Son of Man.
+Just as it was in the days of Noah, so it will be at the coming of the Son of Man.
 
 ## Matthew 24:38
 
-For in the days before the flood, people were eating and drinking, marrying and giving in marriage, up to the day Noah entered the ark;
+For in the days leading up to the flood, people were eating and drinking, marrying and giving in marriage, until the day Noah entered the ark;
 
 ## Matthew 24:39
 
@@ -177,17 +177,17 @@ and they were unaware of what would happen until the flood came and took them al
 
 ## Matthew 24:40
 
-Two men will be in the field; one will be taken and the other left.
+Two men will be in the field; one will be taken and the other left behind.
 
 ## Matthew 24:41
 
-Two women will be grinding with a hand mill; one will be taken and the other left.
+Two women will be grinding with a hand mill; one will be taken and the other left behind.
 
 ---
 
 ## Matthew 24:42
 
-“Therefore keep watch, because you do not know on what day your Lord will come.
+“Therefore remain vigilant, because you do not know on what day your Lord will come.
 
 ## Matthew 24:43
 
@@ -195,7 +195,7 @@ But understand this: If the owner of the house had known at what time of night t
 
 ## Matthew 24:44
 
-So you also must be ready, because the Son of Man will come at an hour when you do not expect Him.
+So you also must be prepared, because the Son of Man will arrive at an hour when you do not expect Him.
 
 ---
 
@@ -205,11 +205,11 @@ So you also must be ready, because the Son of Man will come at an hour when you 
 
 ## Matthew 24:46
 
-It will be good for that servant whose master finds him doing so when he returns.
+Blessed is that servant whose master finds him doing so when he returns.
 
 ## Matthew 24:47
 
-Truly I tell you, he will put him in charge of all his possessions.
+Truly I tell you, he will appoint him over all his possessions.
 
 ## Matthew 24:48
 
@@ -225,4 +225,4 @@ The master of that servant will come on a day when he does not expect him and at
 
 ## Matthew 24:51
 
-He will cut him to pieces and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.
+He will punish him severely and assign him a place with the hypocrites, where there will be weeping and gnashing of teeth.

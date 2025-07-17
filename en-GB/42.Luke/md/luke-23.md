@@ -141,11 +141,11 @@ Two others, both criminals, were also led out with him to face execution.
 
 ## Luke 23:33
 
-When they came to the place called the Skull, they crucified him there, along with the criminals—one on his right, the other on his left.
+Upon reaching the place known as the Skull, they crucified him there with the criminals—one on his right, the other on his left.
 
 ## Luke 23:34
 
-Jesus said, “Father, forgive them, for they do not know what they are doing.” And they divided up his clothes by casting lots.
+Jesus said, “Father, forgive them, for they are unaware of their actions.” And they divided up his clothes by casting lots.
 
 ## Luke 23:35
 
@@ -167,15 +167,15 @@ There was a written notice above him, which read: THIS IS THE KING OF THE JEWS.
 
 ## Luke 23:39
 
-One of the criminals who hung there hurled insults at him: “Aren’t you the Messiah? Save yourself and us!”
+One of the criminals hanging there insulted him: “Aren’t you the Messiah? Save yourself and us!”
 
 ## Luke 23:40
 
-But the other criminal rebuked him. “Don’t you fear God,” he said, “since you are under the same sentence?
+But the other criminal admonished him. “Do you not fear God,” he said, “since you are under the same sentence?
 
 ## Luke 23:41
 
-We are punished justly, for we are getting what our deeds deserve. But this man has done nothing wrong.”
+We are punished justly, for we are receiving what our deeds deserve. But this man has done nothing wrong.”
 
 ## Luke 23:42
 
@@ -183,7 +183,7 @@ Then he said, “Jesus, remember me when you come into your kingdom.”
 
 ## Luke 23:43
 
-Jesus answered him, “Truly I tell you, today you will be with me in paradise.”
+Jesus replied to him, “Truly I tell you, today you will be with me in paradise.”
 
 ---
 
@@ -193,7 +193,7 @@ It was now about noon, and darkness came over the whole land until three in the 
 
 ## Luke 23:45
 
-for the sun stopped shining. And the curtain of the temple was torn in two.
+for the sun ceased to shine. And the curtain of the temple was torn in two.
 
 ## Luke 23:46
 
@@ -201,25 +201,25 @@ Jesus called out with a loud voice, “Father, into your hands I commit my spiri
 
 ## Luke 23:47
 
-The centurion, seeing what had happened, praised God and said, “Surely this was a righteous man.”
+The centurion, witnessing what had happened, praised God and said, “Surely this was a righteous man.”
 
 ## Luke 23:48
 
-When all the people who had gathered to witness this sight saw what took place, they beat their breasts and went away.
+When all the people who had gathered to witness this event saw what took place, they beat their breasts and went away.
 
 ## Luke 23:49
 
-But all those who knew him, including the women who had followed him from Galilee, stood at a distance, watching these things.
+But all those who knew him, including the women who had followed him from Galilee, stood at a distance, observing these things.
 
 ---
 
 ## Luke 23:50
 
-Now there was a man named Joseph, a member of the Council, a good and upright man,
+Now there was a man named Joseph, a member of the Council, who was good and upright,
 
 ## Luke 23:51
 
-who had not consented to their decision and action. He came from the Judean town of Arimathea and was waiting for the kingdom of God.
+who had not agreed with their decision and action. He came from the Judean town of Arimathea and was waiting for the kingdom of God.
 
 ## Luke 23:52
 
@@ -235,8 +235,8 @@ It was Preparation Day, and the Sabbath was about to begin.
 
 ## Luke 23:55
 
-The women who had come with Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it.
+The women who had accompanied Jesus from Galilee followed Joseph and saw the tomb and how his body was laid in it.
 
 ## Luke 23:56
 
-Then they went home and prepared spices and perfumes. But they rested on the Sabbath in obedience to the commandment.
+Then they went home and prepared spices and perfumes. But they rested on the Sabbath in accordance with the commandment.

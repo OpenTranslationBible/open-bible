@@ -64,7 +64,7 @@ For each bull, prepare a grain offering of three-tenths of an ephah of the fines
 and for each of the seven lambs, one-tenth.
 
 ## Numbers 28:22
-Include one male goat as a sin offering to make atonement for you.
+Present one male goat as a sin offering to provide atonement for you.
 
 ## Numbers 28:23
 Present these offerings in addition to the regular morning burnt offering.
@@ -88,7 +88,7 @@ For each bull, there is to be a grain offering of three-tenths of an ephah of th
 and for each of the seven lambs, one-tenth.
 
 ## Numbers 28:30
-Include one male goat to make atonement for you.
+Present one male goat to provide atonement for you.
 
 ## Numbers 28:31
 Offer these together with their drink offerings, in addition to the regular burnt offering and its grain offering. Ensure the animals are without defect.

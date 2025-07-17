@@ -31,7 +31,7 @@ Go to the flock and bring me two choice young goats, so that I may prepare them 
 Then take it to your father to eat, so that he may bless you before his death.”
 
 ## Genesis 27:11
-Jacob said to Rebekah his mother, “But my brother Esau is a hairy man while I have smooth skin.”
+Jacob said to his mother Rebekah, “But my brother Esau is a hairy man, and I have smooth skin.”
 
 ## Genesis 27:12
 Perhaps my father will touch me, and I will seem to him like a deceiver, and I will bring upon myself a curse rather than a blessing.”
@@ -76,7 +76,7 @@ He did not recognise him, for his hands were hairy like those of his brother Esa
 Then he said, “Bring it to me, and I will eat of my son’s game, that I may bless you.” And he brought it to him, and he ate; he also brought him wine and he drank.
 
 ## Genesis 27:26
-Then his father Isaac said to him, “Please come close and kiss me, my son.”
+Then his father Isaac said to him, “Please come near and give me a kiss, my son.”
 
 ## Genesis 27:27
 So he came close and kissed him; and when Isaac caught the smell of his garments, he blessed him and said, “See, the smell of my son is like the smell of a field which the Lord has blessed.

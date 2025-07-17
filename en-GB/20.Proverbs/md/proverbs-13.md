@@ -49,7 +49,7 @@ Good judgment gains favour, but the way of the treacherous leads to destruction.
 Every prudent person acts with knowledge, but a fool exposes their folly.
 
 ## Proverbs 13:17
-A wicked messenger falls into misfortune, but a trustworthy envoy brings healing.
+A wicked messenger encounters misfortune, but a trustworthy envoy brings healing.
 
 ## Proverbs 13:18
 Poverty and shame come to those who disregard discipline, but those who heed correction are honoured.

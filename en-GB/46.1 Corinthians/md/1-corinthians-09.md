@@ -10,7 +10,7 @@ If I am not an apostle to others, at least I am to you; for you are the seal of 
 
 ## 1 Corinthians 9:3
 
-My defense to those who examine me is this:
+My defence to those who examine me is this:
 
 ## 1 Corinthians 9:4
 

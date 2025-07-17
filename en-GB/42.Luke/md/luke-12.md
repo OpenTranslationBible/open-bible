@@ -130,11 +130,11 @@ For all these things the nations of the world eagerly seek; and your Father know
 
 ## Luke 12:31
 
-But seek His kingdom, and these things will be given to you as well.
+Instead, strive for His kingdom, and these things will be provided to you as well.
 
 ## Luke 12:32
 
-Do not be afraid, little flock, for your Father is pleased to give you the kingdom.
+Do not be afraid, little flock, for your Father delights in giving you the kingdom.
 
 ## Luke 12:33
 
@@ -208,7 +208,7 @@ But the one who does not know and does things deserving punishment will be beate
 
 ## Luke 12:49
 
-“I have come to cast fire on the earth, and how I wish it were already kindled!
+“I have come to bring fire upon the earth, and how I wish it were already kindled!
 
 ## Luke 12:50
 

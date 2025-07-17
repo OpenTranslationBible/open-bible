@@ -114,17 +114,17 @@ On one occasion, an expert in the law stood up to challenge Jesus. “Teacher,�
 
 ## Luke 10:27
 
-He answered, “‘Love the Lord your God with all your heart and with all your soul and with all your strength and with all your mind’; and, ‘Love your neighbour as yourself.’”
+He responded, “‘Love the Lord your God with all your heart, with all your soul, with all your strength, and with all your mind’; and, ‘Love your neighbour as yourself.’”
 
 ## Luke 10:28
 
-“You have answered correctly,” Jesus replied. “Do this and you will live.”
+“You have answered well,” Jesus replied. “Do this and you will live.”
 
 ---
 
 ## Luke 10:29
 
-But he wanted to justify himself, so he asked Jesus, “And who is my neighbour?”
+But seeking to justify himself, he asked Jesus, “And who is my neighbour?”
 
 ## Luke 10:30
 
@@ -140,7 +140,7 @@ Similarly, a Levite, when he came to the place and saw him, passed by on the oth
 
 ## Luke 10:33
 
-But a Samaritan, as he traveled, came where the man was; and when he saw him, he felt compassion for him.
+But a Samaritan, as he travelled, came where the man was; and when he saw him, he felt compassion for him.
 
 ## Luke 10:34
 
@@ -152,7 +152,7 @@ The next day he took out two denarii and gave them to the innkeeper. ‘Take car
 
 ## Luke 10:36
 
-“Which of these three do you think was a neighbour to the man who fell into the hands of robbers?”
+“Which of these three do you think proved to be a neighbour to the man who fell into the hands of robbers?”
 
 ## Luke 10:37
 
@@ -170,11 +170,11 @@ She had a sister called Mary, who sat at the Lord’s feet listening to his word
 
 ## Luke 10:40
 
-But Martha was distracted by all the preparations that had to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
+But Martha was preoccupied with all the preparations that needed to be made. She came to him and asked, “Lord, don’t you care that my sister has left me to do the work by myself? Tell her to help me!”
 
 ## Luke 10:41
 
-“Martha, Martha,” the Lord answered, “you are worried and upset about many things,
+“Martha, Martha,” the Lord answered, “you are anxious and troubled about many things,
 
 ## Luke 10:42
 

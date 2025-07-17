@@ -126,7 +126,7 @@ You will keep your turbans on your heads and your sandals on your feet. You will
 
 ## Ezekiel 24:24
 
-Ezekiel will serve as a sign to you; you will act just as he has acted. When this occurs, you will recognize that I am the Sovereign Lord.’
+Ezekiel will serve as a sign to you; you will act just as he has acted. When this occurs, you will Recognise that I am the Sovereign Lord.’
 
 ## Ezekiel 24:25
 

@@ -116,11 +116,11 @@ At that moment His disciples returned and were surprised to find Him talking wit
 
 ## John 4:28
 
-Then, leaving her water jar, the woman went back to the town and said to the people,
+The woman left her water jar and went back to the town, telling the people,
 
 ## John 4:29
 
-“Come, see a man who told me everything I ever did. Could this be the Messiah?”
+“Come, see a man who has told me everything I have ever done. Could this be the Messiah?”
 
 ## John 4:30
 
@@ -138,7 +138,7 @@ But He said to them, “I have food to eat that you do not know about.”
 
 ## John 4:33
 
-Then His disciples said to each other, “Could someone have brought Him food?”
+Upon hearing this, His disciples wondered among themselves, “Could someone have brought Him food?”
 
 ## John 4:34
 
@@ -164,7 +164,7 @@ I sent you to reap what you have not worked for. Others have done the hard work,
 
 ## John 4:39
 
-Many of the Samaritans from that town believed in Him because of the woman’s testimony, “He told me everything I ever did.”
+Many of the Samaritans from that town came to believe in Him because of the woman’s testimony, “He told me everything I ever did.”
 
 ## John 4:40
 
@@ -172,7 +172,7 @@ So when the Samaritans came to Him, they urged Him to stay with them, and He rem
 
 ## John 4:41
 
-And because of His words many more became believers.
+And through His words, many more came to believe.
 
 ## John 4:42
 
@@ -182,7 +182,7 @@ They said to the woman, “We no longer believe just because of what you said; n
 
 ## John 4:43
 
-After the two days, He departed for Galilee.
+After the two days, He set out for Galilee.
 
 ## John 4:44
 
@@ -224,7 +224,7 @@ He inquired of them the hour when his son got better, and they said to him, “Y
 
 ## John 4:53
 
-Then the father realised that this was the exact time at which Jesus had said to him, “Your son will live.” So he and his whole household believed.
+Then the father realised this was the precise moment Jesus had told him, “Your son will live.” So he and his entire household came to believe.
 
 ## John 4:54
 

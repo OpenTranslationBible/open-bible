@@ -200,7 +200,7 @@ After sending them away, he went up on a mountainside to pray.
 
 ## Mark 6:47
 
-When evening came, the boat was in the middle of the sea, and he was alone on the shore.
+As evening approached, the boat was in the middle of the sea, while he remained alone on the shore.
 
 ## Mark 6:48
 
@@ -208,7 +208,7 @@ Seeing them straining at the oars, because the wind was against them, shortly be
 
 ## Mark 6:49
 
-But when they saw him walking on the sea, they thought he was a ghost and cried out,
+But when they observed him walking on the sea, they thought it was a ghost and cried out,
 
 ## Mark 6:50
 

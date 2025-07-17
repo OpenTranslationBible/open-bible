@@ -79,7 +79,7 @@ Do not run until your feet are bare and your throat is dry. But you said, ‘It 
 “As a thief is disgraced when he is caught, so the house of Israel is disgraced— they, their kings, their officials, their priests, and their prophets.
 
 ## Jeremiah 2:27
-They say to wood, ‘You are my father,’ and to stone, ‘You gave me birth.’ They have turned their backs to me and not their faces; yet when they are in trouble, they say, ‘Come and save us!’
+They speak to wood, ‘You are my father,’ and to stone, ‘You gave me birth.’ They have turned their backs to me and not their faces; yet when they are in trouble, they call out, ‘Come and rescue us!’
 
 ## Jeremiah 2:28
 Where then are the gods you made for yourselves? Let them arise if they can save you in your time of trouble! For you, Judah, have as many gods as you have towns.
@@ -88,19 +88,19 @@ Where then are the gods you made for yourselves? Let them arise if they can save
 “Why do you bring accusations against me? You have all rebelled against me,” declares the Lord.
 
 ## Jeremiah 2:30
-“In vain I punished your people; they did not respond to correction. Your sword has devoured your prophets like a ravenous lion.
+“In vain I disciplined your people; they did not respond to correction. Your sword has devoured your prophets like a ravenous lion.
 
 ## Jeremiah 2:31
 “You generation, consider the word of the Lord: Have I been a desert to Israel or a land of thick darkness? Why do my people say, ‘We are free to roam; we will come to you no more’?
 
 ## Jeremiah 2:32
-Does a young woman forget her jewellery, a bride her wedding ornaments? Yet my people have forgotten me, days without number.
+Does a young woman forget her adornments, a bride her wedding ornaments? Yet my people have forgotten me, days without number.
 
 ## Jeremiah 2:33
 How adept you are at pursuing love! Even the worst of women can learn from your ways.
 
 ## Jeremiah 2:34
-On your clothes is found the lifeblood of the innocent poor, though you did not catch them breaking in. Yet in spite of all this
+On your clothes is found the lifeblood of the innocent poor, though you did not catch them breaking in. Nevertheless,
 
 ## Jeremiah 2:35
 you say, ‘I am innocent; surely his anger is turned away from me.’ But I will pass judgment on you because you say, ‘I have not sinned.’

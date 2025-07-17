@@ -107,17 +107,17 @@ As they sailed, he fell asleep. A squall came down on the lake, so that the boat
 
 ## Luke 8:24
 
-The disciples went and woke him, saying, “Master, Master, we’re going to drown!” He got up and rebuked the wind and the raging waters; the storm subsided, and all was calm.
+The disciples approached him and woke him, saying, “Master, Master, we’re in peril!” He arose and rebuked the wind and the turbulent waters; the storm subsided, and all was calm.
 
 ## Luke 8:25
 
-“Where is your faith?” he asked his disciples. In fear and amazement, they asked one another, “Who is this? He commands even the winds and the water, and they obey him.”
+“Where is your faith?” he asked his disciples. Filled with awe and wonder, they questioned one another, “Who is this? He commands even the winds and the water, and they obey him.”
 
 ---
 
 ## Luke 8:26
 
-They traveled to the region of the Gerasenes, which is across the lake from Galilee.
+They travelled to the region of the Gerasenes, which is across the lake from Galilee.
 
 ## Luke 8:27
 
@@ -133,7 +133,7 @@ For Jesus had commanded the unclean spirit to come out of the man. Many times it
 
 ## Luke 8:30
 
-Jesus asked him, “What is your name?” “Legion,” he replied, because many demons had entered him.
+Jesus inquired of him, “What is your name?” “Legion,” he responded, for many demons had entered him.
 
 ## Luke 8:31
 
@@ -145,21 +145,21 @@ A large herd of pigs was feeding there on the hillside. The demons begged Jesus 
 
 ## Luke 8:33
 
-When the demons came out of the man, they went into the pigs, and the herd rushed down the steep bank into the lake and was drowned.
+When the demons left the man, they entered the pigs, and the herd rushed down the steep bank into the lake and perished.
 
 ---
 
 ## Luke 8:34
 
-When those tending the pigs saw what had happened, they ran off and reported this in the town and countryside,
+When those tending the pigs observed what had occurred, they ran off and reported this in the town and countryside,
 
 ## Luke 8:35
 
-and the people went out to see what had happened. When they came to Jesus, they found the man from whom the demons had gone out, sitting at Jesus’ feet, dressed and in his right mind; and they were afraid.
+and the people went out to see what had happened. When they came to Jesus, they found the man from whom the demons had departed, sitting at Jesus’ feet, clothed and in his right mind; and they were afraid.
 
 ## Luke 8:36
 
-Those who had witnessed it told the people how the man possessed by demons had been healed.
+Those who had witnessed it informed the people how the man possessed by demons had been healed.
 
 ## Luke 8:37
 
@@ -167,7 +167,7 @@ Then all the people of the region of the Gerasenes asked Jesus to leave them, be
 
 ## Luke 8:38
 
-The man from whom the demons had gone out begged to go with him, but Jesus sent him away, saying,
+The man from whom the demons had departed pleaded to accompany him, but Jesus sent him away, saying,
 
 ## Luke 8:39
 
@@ -177,15 +177,15 @@ The man from whom the demons had gone out begged to go with him, but Jesus sent 
 
 ## Luke 8:40
 
-Now when Jesus returned, a crowd welcomed him, for they were all expecting him.
+Upon Jesus’ return, a crowd welcomed him, for they were all anticipating his arrival.
 
 ## Luke 8:41
 
-Then a man named Jairus, a synagogue leader, came and fell at Jesus’ feet, pleading with him to come to his house
+Then a man named Jairus, a synagogue leader, approached and fell at Jesus’ feet, earnestly requesting him to come to his house
 
 ## Luke 8:42
 
-because his only daughter, a girl of about twelve, was dying. As Jesus was on his way, the crowds almost crushed him.
+because his only daughter, a girl of about twelve, was dying. As Jesus was on his way, the crowds nearly crushed him.
 
 ## Luke 8:43
 
@@ -193,7 +193,7 @@ And a woman was there who had been suffering from bleeding for twelve years, but
 
 ## Luke 8:44
 
-She came up behind him and touched the edge of his cloak, and immediately her bleeding stopped.
+She approached from behind and touched the edge of his cloak, and immediately her bleeding ceased.
 
 ## Luke 8:45
 
@@ -205,11 +205,11 @@ But Jesus said, “Someone touched me; I know that power has gone out from me.�
 
 ## Luke 8:47
 
-Then the woman, seeing that she could not go unnoticed, came trembling and fell at his feet. In the presence of all the people, she explained why she had touched him and how she had been instantly healed.
+Then the woman, realising she could not remain unnoticed, came trembling and fell at his feet. In the presence of all the people, she explained why she had touched him and how she had been instantly healed.
 
 ## Luke 8:48
 
-Then he said to her, “Daughter, your faith has healed you. Go in peace.”
+Then he said to her, “Daughter, your faith has made you well. Go in peace.”
 
 ---
 
@@ -223,7 +223,7 @@ Hearing this, Jesus said to Jairus, “Do not fear; just believe, and she will b
 
 ## Luke 8:51
 
-When he arrived at the house of Jairus, he did not let anyone go in with him except Peter, John, and James, and the child’s father and mother.
+When he arrived at the house of Jairus, he allowed only Peter, John, and James, along with the child’s father and mother, to enter with him.
 
 ## Luke 8:52
 
@@ -235,11 +235,11 @@ They laughed at him, knowing that she was dead.
 
 ## Luke 8:54
 
-But he took her by the hand and said, “My child, get up!”
+But he took her by the hand and said, “My child, arise!”
 
 ## Luke 8:55
 
-Her spirit returned, and at once she stood up. Then Jesus told them to give her something to eat.
+Her spirit returned, and she immediately stood up. Then Jesus instructed them to give her something to eat.
 
 ## Luke 8:56
 

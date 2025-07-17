@@ -122,7 +122,7 @@ You are those who have stood by me in my trials.
 
 ## Luke 22:29
 
-And I grant you a kingdom, just as my Father granted one to me,
+And I confer upon you a kingdom, just as my Father has conferred one upon me,
 
 ## Luke 22:30
 
@@ -144,7 +144,7 @@ But he replied, “Lord, I am ready to accompany you to prison and to death.”
 
 ## Luke 22:34
 
-Jesus answered, “I tell you, Peter, before the rooster crows today, you will deny three times that you know me.”
+Jesus replied, “I tell you, Peter, before the rooster crows today, you will deny three times that you know me.”
 
 ---
 
@@ -154,7 +154,7 @@ Then Jesus asked them, “When I sent you without purse, bag, or sandals, did yo
 
 ## Luke 22:36
 
-He said to them, “But now, if you have a purse, take it, and also a bag; and if you don’t have a sword, sell your cloak and buy one.
+He said to them, “But now, if you have a purse, take it, and also a bag; and if you do not have a sword, sell your cloak and buy one.
 
 ## Luke 22:37
 
@@ -172,7 +172,7 @@ Jesus went out as He usually did to the Mount of Olives, and His disciples follo
 
 ## Luke 22:40
 
-On reaching the place, He said to them, “Pray that you will not fall into temptation.”
+Upon reaching the place, He said to them, “Pray that you will not fall into temptation.”
 
 ## Luke 22:41
 
@@ -192,7 +192,7 @@ And being in agony, He prayed more earnestly, and His sweat was like drops of bl
 
 ## Luke 22:45
 
-When He rose from prayer and went back to the disciples, He found them asleep, exhausted from sorrow.
+When He rose from prayer and went back to the disciples, He found them asleep, overwhelmed with sorrow.
 
 ## Luke 22:46
 
@@ -268,7 +268,7 @@ And he went outside and wept bitterly.
 
 ## Luke 22:63
 
-The men who were guarding Jesus began mocking and beating Him.
+The men who were guarding Jesus began to mock and beat Him.
 
 ## Luke 22:64
 

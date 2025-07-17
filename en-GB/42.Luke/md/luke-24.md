@@ -164,7 +164,7 @@ Look at My hands and My feet. It is I Myself! Touch Me and see; a spirit does no
 
 ## Luke 24:40
 
-When He had said this, He showed them His hands and His feet.
+After speaking, He displayed His hands and His feet to them.
 
 ## Luke 24:41
 
@@ -186,7 +186,7 @@ He said to them, “These are My words which I spoke to you while I was still wi
 
 ## Luke 24:45
 
-Then He opened their minds so they could understand the Scriptures.
+Then He enabled them to comprehend the Scriptures.
 
 ## Luke 24:46
 

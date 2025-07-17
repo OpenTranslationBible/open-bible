@@ -109,7 +109,7 @@ Yet their Redeemer is strong; the Lord of Hosts is His name. He will vigorously 
 A sword against her oracle priests! They will become fools. A sword against her warriors! They will be filled with terror.
 
 ## Jeremiah 50:37
-A sword against her horses and chariots and all the foreigners in her ranks! They will become weaklings. A sword against her treasures! They will be plundered.
+A sword against her horses and chariots and all the foreigners in her ranks! They will become feeble. A sword against her treasures! They will be plundered.
 
 ## Jeremiah 50:38
 A drought on her waters! They will dry up. For it is a land of idols, and they go mad with terror.

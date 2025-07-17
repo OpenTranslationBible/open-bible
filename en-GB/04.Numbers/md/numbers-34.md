@@ -58,10 +58,10 @@ Appoint a leader from each tribe to assist in the allocation of the land.
 The names are as follows: from the tribe of Judah, Caleb son of Jephunneh;
 
 ## Numbers 34:20
-from the tribe of Simeon, Shemuel son of Ammihud;
+from Simeon's tribe, Shemuel son of Ammihud;
 
 ## Numbers 34:21
-from the tribe of Benjamin, Elidad son of Kislon;
+from Benjamin's tribe, Elidad son of Kislon;
 
 ## Numbers 34:22
 from the tribe of Dan, a leader, Bukki son of Jogli;

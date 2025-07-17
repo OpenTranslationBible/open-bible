@@ -79,4 +79,4 @@ When terror comes, they will seek peace, but it will not be found.
 Calamity upon calamity will come, and rumour upon rumour. They will seek a vision from a prophet, but the law will be lost from the priest, and counsel from the elders.
 
 ## Ezekiel 7:27
-The king will mourn, the prince will be clothed with despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. Then they will know that I am the Lord.’”
+The king will lament, the prince will be enveloped in despair, and the hands of the people of the land will tremble. I will deal with them according to their conduct, and by their own standards I will judge them. Then they will know that I am the Lord.’”

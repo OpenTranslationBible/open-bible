@@ -130,7 +130,7 @@ There are three things that are stately in their stride, four that move with nob
 
 ## Proverbs 30:30
 
-A lion, mighty among beasts, who retreats before nothing;
+A lion, majestic among creatures, who retreats from nothing;
 
 ## Proverbs 30:31
 

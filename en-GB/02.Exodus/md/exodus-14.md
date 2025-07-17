@@ -52,7 +52,7 @@ Lift your staff and stretch out your hand over the sea to part the water, so tha
 I will make the Egyptians determined so that they will follow them. And I will gain glory through Pharaoh and all his army, through his chariots and his horsemen.
 
 ## Exodus 14:18
-The Egyptians will know that I am the Lord when I gain glory through Pharaoh, his chariots and his horsemen.”
+The Egyptians will come to understand that I am the Lord when I gain glory through Pharaoh, his chariots and his horsemen.”
 
 ## Exodus 14:19
 Then the angel of God, who had been travelling in front of Israel’s army, moved and went behind them; the pillar of cloud also moved from in front and stood behind them,

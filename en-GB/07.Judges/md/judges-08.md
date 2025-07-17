@@ -124,11 +124,11 @@ Jerub-Baal son of Joash went back to live in his own house.
 
 ## Judges 8:30
 
-He had seventy sons of his own, for he had many wives.
+He had seventy sons, as he had numerous wives.
 
 ## Judges 8:31
 
-His concubine, who lived in Shechem, also bore him a son, whom he named Abimelech.
+A son was also born to him by his concubine who resided in Shechem, and he named him Abimelech.
 
 ## Judges 8:32
 

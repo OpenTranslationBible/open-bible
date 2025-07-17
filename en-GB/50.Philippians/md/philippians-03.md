@@ -58,7 +58,7 @@ For, as I have often told you before and now tell you even with tears, many live
 Their end is destruction, their god is their stomach, and their glory is in their shame. Their mind is set on earthly things.
 
 ## Philippians 3:20
-But our citizenship is in heaven, and we eagerly await a Saviour from there, the Lord Jesus Christ,
+However, our true home is in heaven, and we eagerly anticipate the coming of a Saviour from there, the Lord Jesus Christ,
 
 ## Philippians 3:21
 who, by the power that enables him to bring everything under his control, will transform our lowly bodies to be like his glorious body.

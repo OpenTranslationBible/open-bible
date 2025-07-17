@@ -58,7 +58,7 @@ The Levites shall then proclaim to all the people of Israel in a loud voice:
 ‘Cursed is anyone who denies justice to the foreigner, the fatherless, or the widow.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:20
-‘Cursed is anyone who sleeps with his father’s wife, for he brings dishonor to his father’s bed.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who sleeps with his father’s wife, for he brings dishonour to his father’s bed.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:21
 ‘Cursed is anyone who engages in relations with any animal.’ Then all the people shall say, ‘Amen.’
@@ -67,7 +67,7 @@ The Levites shall then proclaim to all the people of Israel in a loud voice:
 ‘Cursed is anyone who sleeps with his sister, whether the daughter of his father or the daughter of his mother.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:23
-‘Cursed is anyone who sleeps with his mother-in-law.’ Then all the people shall say, ‘Amen.’
+‘Cursed is anyone who has improper relations with his mother-in-law.’ Then all the people shall say, ‘Amen.’
 
 ## Deuteronomy 27:24
 ‘Cursed is anyone who attacks their neighbour in secret.’ Then all the people shall say, ‘Amen.’

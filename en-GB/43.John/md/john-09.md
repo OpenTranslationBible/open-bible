@@ -152,7 +152,7 @@ Jesus heard that they had cast him out, and when He found him, He said, “Do yo
 
 ## John 9:36
 
-“Who is He, sir?” the man asked. “Tell me so that I may believe in Him.”
+The man asked, “Who is He, sir? Please tell me, so that I may believe in Him.”
 
 ## John 9:37
 
@@ -160,13 +160,13 @@ Jesus said, “You have now seen Him; indeed, He is the one speaking with you.�
 
 ## John 9:38
 
-Then the man said, “Lord, I believe,” and he worshipped Him.
+The man responded, “Lord, I believe,” and he honoured Him.
 
 ---
 
 ## John 9:39
 
-Jesus said, “For judgment I have come into this world, so that the blind will see and those who see will become blind.”
+Jesus said, “I have come into this world for judgment, so that those who are blind will see and those who see will become blind.”
 
 ## John 9:40
 
@@ -174,4 +174,4 @@ Some Pharisees who were with Him heard Him say this and asked, “What? Are we a
 
 ## John 9:41
 
-Jesus said, “If you were blind, you would not be guilty of sin; but now that you claim you can see, your guilt remains.
+Jesus said, “If you were blind, you would not be guilty of sin; but now that you assert you can see, your guilt remains.

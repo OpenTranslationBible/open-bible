@@ -72,7 +72,7 @@ Now why do you delay? Get up, be baptised, and wash away your sins by calling on
 
 ## Acts 22:17
 
-“When I returned to Jerusalem and was praying in the temple, I fell into a trance,
+“When I returned to Jerusalem and was praying in the temple, I fell into a vision,
 
 ## Acts 22:18
 
@@ -84,7 +84,7 @@ And I said, ‘Lord, they themselves know that in one synagogue after another I 
 
 ## Acts 22:20
 
-And when the blood of your witness Stephen was being shed, I also was standing nearby and approving, and watching over the cloaks of those who were killing him.’
+And when the blood of your martyr Stephen was being shed, I was there, giving my approval and watching over the garments of those who were executing him.’
 
 ## Acts 22:21
 
@@ -106,15 +106,15 @@ the commander ordered that he be brought into the barracks, saying that he was t
 
 ## Acts 22:25
 
-But when they stretched him out with straps, Paul said to the centurion who was standing by, “Is it lawful for you to flog a man who is a Roman and uncondemned?”
+But when they stretched him out with straps, Paul said to the centurion who was standing by, “Is it lawful for you to flog a Roman citizen who has not been condemned?”
 
 ## Acts 22:26
 
-When the centurion heard this, he went to the commander and told him, saying, “What are you about to do? For this man is a Roman.”
+When the centurion heard this, he approached the commander and reported, “What are you about to do? This man is a Roman citizen.”
 
 ## Acts 22:27
 
-The commander came and said to Paul, “Tell me, are you a Roman?” And he said, “Yes.”
+The commander came and asked Paul, “Tell me, are you a Roman citizen?” And he said, “Yes.”
 
 ## Acts 22:28
 
@@ -122,7 +122,7 @@ The commander replied, “I acquired this citizenship for a large sum of money.�
 
 ## Acts 22:29
 
-Therefore, those who were about to interrogate him immediately backed away from him; and the commander also was afraid when he found out that he was a Roman, and because he had put him in chains.
+Therefore, those who were about to interrogate him immediately backed away from him; and the commander also became fearful when he realised that Paul was a Roman citizen and that he had put him in chains.
 
 ---
 

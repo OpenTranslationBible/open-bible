@@ -40,7 +40,7 @@ See, they will come from afar— some from the north, some from the west, and so
 Shout for joy, you heavens; rejoice, you earth; break forth into singing, you mountains! For the Lord comforts his people and will have compassion on his afflicted ones.
 
 ## Isaiah 49:14
-But Zion said, “The Lord has abandoned me, the Lord has forgotten me.”
+But Zion lamented, “The Lord has left me; the Lord no longer remembers me.”
 
 ## Isaiah 49:15
 “Can a mother forget her nursing child and have no compassion on the child she has borne? Though she may forget, I will not forget you!

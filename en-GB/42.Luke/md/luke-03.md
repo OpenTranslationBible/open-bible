@@ -103,7 +103,7 @@ When all the people were being baptised, Jesus was baptised as well. And as He w
 
 ## Luke 3:22
 
-and the Holy Spirit descended on Him in bodily form like a dove. And a voice came from heaven: “You are My beloved Son; in You I am well pleased.”
+and the Holy Spirit descended upon Him in a bodily form resembling a dove. A voice came from heaven, saying, “You are My beloved Son; in You I find delight.”
 
 ---
 

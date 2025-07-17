@@ -94,7 +94,7 @@ He began by saying to them, “Today this scripture is fulfilled as you listen.�
 
 ## Luke 4:22
 
-All spoke well of him and were amazed at the gracious words that came from his lips. “Isn’t this Joseph’s son?” they asked.
+Everyone spoke well of him and marvelled at the gracious words that came from his lips. “Isn’t this Joseph’s son?” they asked.
 
 ## Luke 4:23
 
@@ -126,13 +126,13 @@ They got up, drove him out of the town, and took him to the edge of the hill on 
 
 ## Luke 4:30
 
-But he passed through the crowd and went on his way.
+But he moved through the crowd and continued on his way.
 
 ---
 
 ## Luke 4:31
 
-Then he traveled to Capernaum, a town in Galilee, and on the Sabbath he taught the people.
+Then he travelled to Capernaum, a town in Galilee, and on the Sabbath he taught the people.
 
 ## Luke 4:32
 
@@ -144,7 +144,7 @@ In the synagogue there was a man possessed by a demon, an impure spirit. He crie
 
 ## Luke 4:34
 
-“Leave us alone! What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
+“Let us be! What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
 
 ## Luke 4:35
 
@@ -156,13 +156,13 @@ All the people were amazed and said to each other, “What words these are! With
 
 ## Luke 4:37
 
-And the news about him spread throughout the surrounding area.
+And the news about him spread throughout the nearby region.
 
 ---
 
 ## Luke 4:38
 
-Jesus left the synagogue and went to the home of Simon. Now Simon’s mother-in-law was suffering from a high fever, and they requested Jesus to help her.
+Jesus left the synagogue and went to the home of Simon. Simon’s mother-in-law was suffering from a high fever, and they requested Jesus to help her.
 
 ## Luke 4:39
 

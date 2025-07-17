@@ -92,7 +92,7 @@ Heaven must welcome Him until the time comes for God to restore everything, as H
 
 ## Acts 3:22
 
-For Moses said, ‘The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything He tells you.
+For Moses declared, ‘The Lord your God will raise up for you a prophet like me from among your own people; you must listen to everything He tells you.
 
 ## Acts 3:23
 

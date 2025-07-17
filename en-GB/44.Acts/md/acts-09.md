@@ -152,7 +152,7 @@ There he found a man named Aeneas, who had been bedridden for eight years, as he
 
 ## Acts 9:35
 
-All those who lived in Lydda and Sharon saw him and turned to the Lord.
+The people of Lydda and Sharon saw him and turned to the Lord.
 
 ---
 

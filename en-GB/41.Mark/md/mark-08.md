@@ -38,7 +38,7 @@ There were about four thousand people present. After dismissing them,
 
 ## Mark 8:10
 
-He boarded the boat with His disciples and traveled to the region of Dalmanutha.
+He boarded the boat with His disciples and travelled to the region of Dalmanutha.
 
 ---
 

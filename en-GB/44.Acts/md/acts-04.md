@@ -158,8 +158,8 @@ and laid them at the apostles’ feet, and they were distributed to anyone who h
 
 ## Acts 4:36
 
-Joseph, a Levite from Cyprus, whom the apostles called Barnabas (which means “son of encouragement”), 
+Joseph, a Levite from Cyprus, known by the apostles as Barnabas (which translates to “son of encouragement”),
 
 ## Acts 4:37
 
-sold a field he owned, brought the money, and laid it at the apostles’ feet.
+sold a field he owned, brought the money, and placed it at the apostles’ feet.

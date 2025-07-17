@@ -91,13 +91,13 @@ Balaam replied to the donkey, “You have embarrassed me! If only I had a sword 
 The donkey said to Balaam, “Am I not your own donkey, which you have ridden all your life to this day? Have I ever been in the habit of doing this to you?” “No,” he replied.
 
 ## Numbers 22:31
-Then the Lord opened Balaam’s eyes, and he saw the angel of the Lord standing in the road with his sword drawn. So he bowed low and fell facedown.
+Then the Lord allowed Balaam to see clearly, and he perceived the angel of the Lord standing in the road with his sword drawn. So he bowed low and fell facedown.
 
 ## Numbers 22:32
 The angel of the Lord asked him, “Why have you struck your donkey these three times? I have come here to oppose you because your path is a reckless one before me.
 
 ## Numbers 22:33
-The donkey saw me and turned away from me these three times. If it had not turned away, I would certainly have killed you by now, but I would have spared it.”
+The donkey saw me and turned aside from me these three times. If it had not turned aside, I would certainly have taken your life by now, but I would have spared it.”
 
 ## Numbers 22:34
 Balaam said to the angel of the Lord, “I have sinned. I did not realise you were standing in the road to oppose me. If you are displeased, I will go back.”
@@ -106,7 +106,7 @@ Balaam said to the angel of the Lord, “I have sinned. I did not realise you we
 The angel of the Lord said to Balaam, “Go with the men, but speak only what I tell you.” So Balaam continued with Balak’s officials.
 
 ## Numbers 22:36
-When Balak heard that Balaam was coming, he went out to meet him at the Moabite town on the Arnon border, at the edge of his territory.
+Upon hearing of Balaam's approach, Balak went out to meet him at the Moabite town on the Arnon border, at the edge of his territory.
 
 ## Numbers 22:37
 Balak said to Balaam, “Did I not send you an urgent summons? Why did you not come to me? Am I really unable to reward you?”

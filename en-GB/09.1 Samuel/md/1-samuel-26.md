@@ -98,7 +98,7 @@ Now look and see where the king’s spear and the jug of water that were at his 
 
 ## 1 Samuel 26:17
 
-Then Saul recognized David’s voice and said,  
+Then Saul recognised David’s voice and said,  
 “Is this your voice, my son David?”  
 And David said, “It is my voice, my lord the king.”
 

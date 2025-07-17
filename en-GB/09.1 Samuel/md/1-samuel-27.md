@@ -63,7 +63,7 @@ or “Against the Negev of the Kenites.”
 
 And David did not leave a man or a woman alive, to bring to Gath,  
 saying, “Otherwise they will tell about us, saying, ‘This is what David has done.’”  
-So David practiced this behavior all the time he lived in the country of the Philistines.
+So David practiced this behaviour all the time he lived in the country of the Philistines.
 
 ## 1 Samuel 27:12
 

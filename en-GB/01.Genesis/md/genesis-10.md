@@ -16,7 +16,7 @@ Javan's descendants were Elishah, Tarshish, the Kittites, and the Rodanites.
 From these, the maritime peoples spread into their territories by their clans and languages, each within their nations.
 
 ## Genesis 10:6
-Ham's descendants were Cush, Egypt, Put, and Canaan.
+The descendants of Ham included Cush, Egypt, Put, and Canaan.
 
 ## Genesis 10:7
 Cush's offspring were Seba, Havilah, Sabtah, Raamah, and Sabteca; and Raamah's sons were Sheba and Dedan.

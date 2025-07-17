@@ -164,11 +164,11 @@ And the Father who sent me has himself testified concerning me. You have neither
 
 ## John 5:38
 
-nor does his word dwell in you, for you do not believe the one he sent.
+nor does his word remain in you, as you do not believe the one he sent.
 
 ## John 5:39
 
-You study the Scriptures diligently because you think that in them you have eternal life. These are the very Scriptures that testify about me,
+You diligently study the Scriptures because you think that in them you have eternal life. These are the very Scriptures that testify about me,
 
 ## John 5:40
 
@@ -186,7 +186,7 @@ but I know you. I understand that you do not have the love of God within you.
 
 ## John 5:43
 
-I have come in my Father’s name, and you do not accept me; but if someone else comes in his own name, you will accept him.
+I have come in my Father’s name, and you do not accept me. Yet if another comes in his own name, you will accept him.
 
 ## John 5:44
 
@@ -202,4 +202,4 @@ If you believed Moses, you would believe me, for he wrote about me.
 
 ## John 5:47
 
-But since you do not believe what he wrote, how will you believe what I say?”
+But if you do not believe what he wrote, how will you believe what I say?

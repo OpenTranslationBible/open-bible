@@ -67,7 +67,7 @@ The lips of the righteous nourish many, but those lacking sense perish.
 The blessing of the Lord brings wealth, without adding sorrow to it.
 
 ## Proverbs 10:23
-A fool finds pleasure in wicked schemes, but a person of understanding delights in wisdom.
+A foolish person finds joy in wicked schemes, but one who is wise delights in understanding.
 
 ## Proverbs 10:24
 What the wicked dread will overtake them, but the desires of the righteous will be granted.

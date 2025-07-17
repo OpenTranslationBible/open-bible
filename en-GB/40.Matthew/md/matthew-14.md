@@ -46,7 +46,7 @@ He sent orders and had John beheaded in the prison.
 
 ## Matthew 14:11
 
-His head was brought on a platter and given to the girl, and she took it to her mother.
+John's head was presented on a platter and given to the girl, who then took it to her mother.
 
 ## Matthew 14:12
 
@@ -140,7 +140,7 @@ When they climbed into the boat, the wind ceased.
 
 ## Matthew 14:33
 
-Then those who were in the boat worshipped Him, saying, “Truly you are the Son of God.”
+Then those who were in the boat honoured Him, saying, “Truly you are the Son of God.”
 
 ---
 

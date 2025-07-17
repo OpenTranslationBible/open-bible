@@ -40,7 +40,7 @@ This is what the Lord says: “Sing with joy for Jacob; shout for the foremost o
 “Then young women will rejoice in the dance, and young men and old as well. I will turn their mourning into joy; I will comfort them and give them joy instead of sorrow.”
 
 ## Jeremiah 31:14
-“I will satisfy the priests with abundance, and my people will be filled with my goodness,” declares the Lord.
+“I will provide the priests with plenty, and my people will be filled with my goodness,” declares the Lord.
 
 ## Jeremiah 31:15
 This is what the Lord says: “A voice is heard in Ramah, lamentation and bitter weeping, Rachel weeping for her children, refusing to be comforted, because they are no more.”
@@ -76,7 +76,7 @@ This is what the Lord Almighty, the God of Israel, says: “When I restore their
 “For I will refresh the weary and satisfy the faint.”
 
 ## Jeremiah 31:26
-At this I awoke and looked around; my sleep had been pleasant to me.
+At this point, I awoke and looked around, and my sleep had been pleasant to me.
 
 ## Jeremiah 31:27
 “Behold, the days are coming,” declares the Lord, “when I will sow the house of Israel and the house of Judah with the seed of people and animals.”
@@ -85,22 +85,22 @@ At this I awoke and looked around; my sleep had been pleasant to me.
 “Just as I watched over them to uproot and tear down, to overthrow, destroy and bring disaster, so I will watch over them to build and to plant,” declares the Lord.
 
 ## Jeremiah 31:29
-“In those days people will no longer say, ‘The parents have eaten sour grapes, and the children’s teeth are set on edge.’”
+“In those days people will no longer say, ‘The parents have eaten sour grapes, and the children’s teeth are set on edge.’
 
 ## Jeremiah 31:30
-“Instead, everyone will die for their own sin; whoever eats sour grapes—their own teeth will be set on edge.”
+“Instead, each person will die for their own sin; whoever eats sour grapes—their own teeth will be set on edge.”
 
 ## Jeremiah 31:31
 “Behold, the days are coming,” declares the Lord, “when I will establish a new covenant with the house of Israel and the house of Judah.”
 
 ## Jeremiah 31:32
-“It will not be like the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was a husband to them,” declares the Lord.
+“It will not resemble the covenant I made with their ancestors when I took them by the hand to lead them out of Egypt, because they broke my covenant, though I was like a husband to them,” declares the Lord.
 
 ## Jeremiah 31:33
 “For this is the covenant I will make with the house of Israel after those days,” declares the Lord: “I will put my law in their minds and write it on their hearts. I will be their God, and they will be my people.”
 
 ## Jeremiah 31:34
-“No longer will they teach their neighbour, or say to one another, ‘Know the Lord,’ because they will all know me, from the least of them to the greatest,” declares the Lord. “For I will forgive their wickedness and will remember their sins no more.”
+“No longer will they teach their neighbour, or say to one another, ‘Know the Lord,’ for they will all know me, from the least of them to the greatest,” declares the Lord. “For I will forgive their wickedness and will remember their sins no more.”
 
 ## Jeremiah 31:35
 This is what the Lord says, he who appoints the sun to shine by day, who decrees the moon and stars to shine by night, who stirs up the sea so that its waves roar—the Lord Almighty is his name:
@@ -109,7 +109,7 @@ This is what the Lord says, he who appoints the sun to shine by day, who decrees
 “Only if these decrees vanish from my sight,” declares the Lord, “will the descendants of Israel ever cease to be a nation before me.”
 
 ## Jeremiah 31:37
-This is what the Lord says: “Only if the heavens above can be measured and the foundations of the earth below be searched out will I reject all the descendants of Israel because of all they have done,” declares the Lord.
+This is what the Lord says: “Only if the heavens above can be measured and the foundations of the earth below be explored will I reject all the descendants of Israel because of all they have done,” declares the Lord.
 
 ## Jeremiah 31:38
 “Behold, the days are coming,” declares the Lord, “when the city will be rebuilt for the Lord from the Tower of Hananel to the Corner Gate.”

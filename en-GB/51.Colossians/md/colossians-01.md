@@ -79,7 +79,7 @@ I have become its servant by the task God assigned to me to present to you the w
 the mystery that has been hidden for ages and generations, but is now revealed to the Lord's people.
 
 ## Colossians 1:27
-To them God has chosen to make known among the Gentiles the glorious riches of this mystery, which is Christ in you, the hope of glory.
+To them, God has chosen to reveal among the Gentiles the glorious riches of this mystery, which is Christ within you, the hope of glory.
 
 ## Colossians 1:28
 He is the one we proclaim, warning and teaching everyone with all wisdom, so that we may present everyone fully mature in Christ.

@@ -85,7 +85,7 @@ You grumbled in your tents and said, ‘Because the Lord hates us, He has brough
 Where can we go? Our brothers have made our hearts melt, saying, “The people are stronger and taller than we are; the cities are large and fortified up to heaven. We even saw the Anakites there.”’
 
 ## Deuteronomy 1:29
-Then I said to you, ‘Do not be terrified or afraid of them.
+I encouraged you, saying, ‘Do not be terrified or fear them.
 
 ## Deuteronomy 1:30
 The Lord your God, who goes before you, will fight for you, just as He did for you in Egypt before your eyes,

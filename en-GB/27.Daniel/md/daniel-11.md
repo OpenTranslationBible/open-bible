@@ -61,7 +61,7 @@ After this, he will turn back towards the fortresses of his own land but will st
 His successor will send out an official to collect taxes to maintain the royal splendour. In a few years, however, he will be destroyed, yet not in anger or in battle.
 
 ## Daniel 11:21
-He will be succeeded by a contemptible person who has not been given the honour of royalty. He will invade the kingdom when its people feel secure, and he will seize it through intrigue.
+He will be succeeded by a person of low esteem who has not been granted the honour of royalty. He will invade the kingdom when its people feel secure, and he will seize it through cunning.
 
 ## Daniel 11:22
 Then an overwhelming force will be swept away before him; both it and a prince of the covenant will be destroyed.
@@ -82,16 +82,16 @@ Those who share the king’s provisions will seek to destroy him; his army will 
 The two kings, with their hearts bent on evil, will sit at the same table and lie to each other, but to no avail, because the end will still come at the appointed time.
 
 ## Daniel 11:28
-The king of the North will return to his own country with great wealth, but his heart will be set against the holy covenant. He will take action against it and then return to his own country.
+The king of the North will return to his own country with great wealth, but his heart will be set against the sacred covenant. He will take action against it and then return to his own country.
 
 ## Daniel 11:29
 At the appointed time he will invade the South again, but this time the outcome will differ from what it was before.
 
 ## Daniel 11:30
-Ships of the western coastlands will oppose him, and he will lose heart. Then he will turn back and vent his fury against the holy covenant. He will return and show favour to those who forsake the holy covenant.
+Ships from the western regions will oppose him, and he will lose heart. Then he will turn back and vent his fury against the sacred covenant. He will return and show favour to those who forsake the sacred covenant.
 
 ## Daniel 11:31
-His armed forces will rise up to desecrate the temple fortress and will abolish the daily sacrifice. Then they will set up the abomination that causes desolation.
+His armed forces will rise up to defile the temple fortress and will abolish the daily sacrifice. Then they will set up the abomination that causes desolation.
 
 ## Daniel 11:32
 With flattery he will corrupt those who have violated the covenant, but the people who know their God will firmly resist him.
@@ -118,7 +118,7 @@ Instead of them, he will honour a god of fortresses; a god unknown to his ancest
 He will attack the mightiest fortresses with the help of a foreign god and will greatly honour those who acknowledge him. He will make them rulers over many people and will distribute the land at a price.
 
 ## Daniel 11:40
-At the time of the end the king of the South will engage him in battle, and the king of the North will storm out against him with chariots and cavalry and a great fleet of ships. He will invade many countries and sweep through them like a flood.
+At the time of the end, the king of the South will engage him in battle, and the king of the North will storm out against him with chariots and cavalry and a great fleet of ships. He will invade many countries and sweep through them like a flood.
 
 ## Daniel 11:41
 He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab and the leaders of Ammon will be delivered from his hand.

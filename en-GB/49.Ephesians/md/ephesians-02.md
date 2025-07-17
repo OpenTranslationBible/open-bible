@@ -55,10 +55,10 @@ And He came and preached peace to you who were far off and peace to those who we
 For through Him we both have access in one Spirit to the Father.
 
 ## Ephesians 2:19
-So then you are no longer foreigners and strangers, but you are fellow citizens with the saints and members of God's household,
+Consequently, you are no longer outsiders and aliens, but are fellow citizens with the saints and members of God's household,
 
 ## Ephesians 2:20
-built on the foundation of the apostles and prophets, with Christ Jesus Himself as the cornerstone,
+established upon the foundation laid by the apostles and prophets, with Christ Jesus Himself as the cornerstone,
 
 ## Ephesians 2:21
 in whom the whole building, being joined together, rises to become a holy temple in the Lord.

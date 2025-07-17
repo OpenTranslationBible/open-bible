@@ -124,7 +124,7 @@ One of the sons of Joiada, son of Eliashib the high priest, was son-in-law to Sa
 
 ## Nehemiah 13:29
 
-Remember them, my God, because they have defiled the priesthood and the covenant of the priesthood and the Levites.
+Remember them, my God, for they have brought disgrace upon the priesthood and the covenant of the priesthood and the Levites.
 
 ## Nehemiah 13:30
 

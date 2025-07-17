@@ -64,7 +64,7 @@ Is it not lawful for me to do what I wish with my own money? Or is your eye envi
 
 ## Matthew 20:16
 
-In this way, the last will be first, and the first will be last.”
+So, those who are last will be first, and those who are first will be last.”
 
 ---
 

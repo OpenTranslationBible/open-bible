@@ -61,10 +61,10 @@ great in counsel and mighty in deed, whose eyes are open to all the ways of mank
 You performed signs and wonders in Egypt and have continued them to this day, in Israel and among all mankind, and have gained the renown that remains Yours.
 
 ## Jeremiah 32:21
-You brought Your people Israel out of Egypt with signs and wonders, by a mighty hand and an outstretched arm and with great terror.
+You delivered Your people Israel from Egypt with miraculous signs and wonders, by Your powerful hand and outstretched arm, and with awe-inspiring acts.
 
 ## Jeremiah 32:22
-You gave them this land You had sworn to give their ancestors, a land flowing with milk and honey.
+You gave them this land You had promised to their ancestors, a land rich and abundant.
 
 ## Jeremiah 32:23
 They came in and took possession of it, but they did not obey Your voice or follow Your law; they did not do what You commanded them to do. So You brought all this disaster upon them.
@@ -103,7 +103,7 @@ They have turned their backs to Me and not their faces; though I taught them aga
 They set up their detestable images in the house that bears My Name and defiled it.
 
 ## Jeremiah 32:35
-They built high places for Baal in the Valley of Ben Hinnom to sacrifice their sons and daughters to Molek, though I never commanded—nor did it enter My mind—that they should do such a detestable thing and so make Judah sin.
+They constructed high places for Baal in the Valley of Ben Hinnom to offer their sons and daughters to Molek, though I never commanded—nor did it enter My mind—that they should commit such an abomination and thus lead Judah into sin.
 
 ## Jeremiah 32:36
 Now therefore, this is what the Lord, the God of Israel, says concerning this city of which you say, ‘It has been handed over to the king of Babylon by sword, famine, and plague’:

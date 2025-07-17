@@ -58,13 +58,13 @@ Make two cherubim of gold; make them of hammered work at the two ends of the cov
 Make one cherub at one end and the other cherub at the other end; make the cherubim of one piece with the cover, at its two ends.
 
 ## Exodus 25:20
-The cherubim are to have their wings spread upward, overshadowing the cover with them. The cherubim are to face each other, looking toward the cover.
+The cherubim are to have their wings extended upwards, casting a shadow over the cover. They are to face one another, with their gaze directed towards the cover.
 
 ## Exodus 25:21
-Place the cover on top of the ark and put in the ark the tablets of the covenant law that I will give you.
+Set the cover on top of the ark and place inside the ark the tablets of the covenant law that I will provide to you.
 
 ## Exodus 25:22
-There, above the cover between the two cherubim that are over the ark of the covenant law, I will meet with you and give you all my commands for the Israelites.
+In that place, above the cover and between the two cherubim that are positioned over the ark of the covenant law, I will meet with you and impart all my instructions for the Israelites.
 
 ## Exodus 25:23
 “Construct a table of acacia wood—two cubits long, a cubit wide, and a cubit and a half high.
@@ -97,13 +97,13 @@ Place the bread of the Presence on this table to be before me at all times.
 Six branches are to extend from its sides—three on one side and three on the other.
 
 ## Exodus 25:33
-Three cups shaped like almond flowers with buds and blossoms are to be on one branch, three on the next branch, and the same for all six branches extending from the lampstand.
+Each branch is to have three cups shaped like almond flowers with buds and blossoms, and this design is to be consistent for all six branches extending from the lampstand.
 
 ## Exodus 25:34
-And on the lampstand there are to be four cups shaped like almond flowers with buds and blossoms.
+The lampstand itself is to have four cups shaped like almond flowers with buds and blossoms.
 
 ## Exodus 25:35
-One bud shall be under the first pair of branches extending from the lampstand, a second bud under the second pair, and a third bud under the third pair—six branches in all.
+A bud shall be positioned under the first pair of branches extending from the lampstand, another bud under the second pair, and a third bud under the third pair—making six branches in total.
 
 ## Exodus 25:36
 The buds and branches shall all be of one piece with the lampstand, crafted from pure gold.
@@ -115,7 +115,7 @@ Then make its seven lamps and set them up on it so that they illuminate the area
 Its wick trimmers and trays are to be crafted from pure gold.
 
 ## Exodus 25:39
-A talent of pure gold is to be used for the lampstand and all these accessories.
+A full talent of pure gold is to be utilised for the lampstand and all these accessories.
 
 ## Exodus 25:40
 See that you make them according to the pattern shown to you on the mountain.

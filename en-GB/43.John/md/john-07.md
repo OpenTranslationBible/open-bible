@@ -150,7 +150,7 @@ The Jews said to one another, “Where does this man intend to go that we cannot
 
 ## John 7:36
 
-What did he mean when he said, ‘You will look for me, but you will not find me,’ and ‘Where I am, you cannot come’?”
+What does he mean by saying, ‘You will look for me, but you will not find me,’ and ‘Where I am, you cannot come’?”
 
 ---
 
@@ -170,11 +170,11 @@ By this he referred to the Spirit, whom those who believed in him were later to 
 
 ## John 7:40
 
-On hearing his words, some of the people said, “Surely this man is the Prophet.”
+Upon hearing his words, some of the people remarked, “Surely this man is the Prophet.”
 
 ## John 7:41
 
-Others said, “He is the Messiah.” Still others asked, “How can the Messiah come from Galilee?
+Others said, “He is the Messiah.” Yet some questioned, “How can the Messiah come from Galilee?
 
 ## John 7:42
 
@@ -186,7 +186,7 @@ Thus the people were divided in their opinions about Jesus.
 
 ## John 7:44
 
-Some wanted to seize him, but no one laid a hand on him.
+Some wished to seize him, but no one laid a hand on him.
 
 ---
 

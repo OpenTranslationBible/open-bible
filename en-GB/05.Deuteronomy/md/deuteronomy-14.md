@@ -13,7 +13,7 @@ You shall not consume anything considered detestable.
 These are the animals you may eat: the ox, the sheep, the goat,
 
 ## Deuteronomy 14:5
-the deer, the gazelle, the roe deer, the wild goat, the ibex, the antelope, and the mountain sheep.
+the stag, the gazelle, the roebuck, the wild goat, the ibex, the antelope, and the mountain sheep.
 
 ## Deuteronomy 14:6
 You may eat any animal that has a divided hoof and chews the cud.
@@ -37,7 +37,7 @@ You may eat any clean bird.
 But these you shall not eat: the eagle, the vulture, and the buzzard,
 
 ## Deuteronomy 14:13
-the red kite, the black kite, any kind of falcon,
+the red kite, the black kite, any type of falcon,
 
 ## Deuteronomy 14:14
 any kind of raven,
@@ -85,4 +85,4 @@ And remember the Levites living in your towns, for they have no allotment or inh
 At the end of every three years, gather all the tithes of that year’s produce and store it in your towns,
 
 ## Deuteronomy 14:29
-so that the Levites (who have no allotment or inheritance of their own), and the foreigners, the fatherless, and the widows who live in your towns may come and eat and be satisfied, and so that the Lord your God may bless you in all the work of your hands.
+so that the Levites, who have no share or inheritance of their own, along with the foreigners, the fatherless, and the widows who reside in your towns, may come and eat and be satisfied. In this way, the Lord your God will bless you in all the work of your hands.

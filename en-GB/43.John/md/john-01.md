@@ -42,7 +42,7 @@ The true light that gives light to every person was coming into the world.
 
 ## John 1:10
 
-He was in the world, and although the world was made through him, the world did not recognize him.
+He was in the world, and although the world was made through him, the world did not recognise him.
 
 ## John 1:11
 
@@ -50,11 +50,11 @@ He came to his own, but his own did not welcome him.
 
 ## John 1:12
 
-Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—
+Yet to all who accepted him, to those who had faith in his name, he granted the privilege to become children of God—
 
 ## John 1:13
 
-children born not of natural descent, nor of human decision or a husband’s will, but born of God.
+children born not of natural descent, nor of human decision or a husband's desire, but born of God.
 
 ---
 
@@ -90,15 +90,15 @@ He confessed freely and did not deny, but confessed, “I am not the Messiah.”
 
 ## John 1:21
 
-They asked him, “Then who are you? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”
+They inquired, “Then who are you? Are you Elijah?” He replied, “I am not.” “Are you the Prophet?” He answered, “No.”
 
 ## John 1:22
 
-Finally they said, “Who are you? Give us an answer to take back to those who sent us. What do you say about yourself?”
+Eventually they said, “Who are you? Provide us with an answer to take back to those who sent us. What do you say about yourself?”
 
 ## John 1:23
 
-John replied in the words of Isaiah the prophet, “I am the voice of one calling in the wilderness, ‘Make straight the way for the Lord.’”
+John responded using the words of Isaiah the prophet, “I am the voice of one calling in the wilderness, ‘Prepare the way for the Lord.’”
 
 ---
 
@@ -116,7 +116,7 @@ John answered, “I baptize with water, but among you stands one you do not know
 
 ## John 1:27
 
-He is the one who comes after me, the straps of whose sandals I am not worthy to untie.”
+He is the one who comes after me, whose sandals I am not worthy to untie.”
 
 ## John 1:28
 
@@ -134,15 +134,15 @@ This is the one I meant when I said, ‘A man who comes after me has surpassed m
 
 ## John 1:31
 
-I myself did not know him, but the reason I came baptizing with water was that he might be revealed to Israel.”
+I myself did not recognise him, but the reason I came baptizing with water was that he might be revealed to Israel.”
 
 ## John 1:32
 
-Then John gave this testimony: “I saw the Spirit come down from heaven as a dove and remain on him.
+Then John gave this testimony: “I observed the Spirit descending from heaven like a dove and remaining on him.
 
 ## John 1:33
 
-And I myself did not know him, but the one who sent me to baptize with water told me, ‘The man on whom you see the Spirit come down and remain is the one who will baptize with the Holy Spirit.’
+And I myself did not recognise him, but the one who sent me to baptize with water told me, ‘The man on whom you see the Spirit descend and remain is the one who will baptize with the Holy Spirit.’
 
 ## John 1:34
 
@@ -190,19 +190,19 @@ The next day Jesus decided to go to Galilee. Finding Philip, he said to him, “
 
 ## John 1:44
 
-Philip, like Andrew and Peter, was from the town of Bethsaida.
+Philip, like Andrew and Peter, hailed from the town of Bethsaida.
 
 ## John 1:45
 
-Philip found Nathanael and told him, “We have found the one Moses wrote about in the Law, and about whom the prophets also wrote—Jesus of Nazareth, the son of Joseph.”
+Philip found Nathanael and informed him, “We have discovered the one Moses wrote about in the Law, and about whom the prophets also spoke—Jesus of Nazareth, the son of Joseph.”
 
 ## John 1:46
 
-“Nazareth! Can anything good come from there?” Nathanael asked. “Come and see,” said Philip.
+“Nazareth! Can anything good come from there?” Nathanael questioned. “Come and see,” Philip replied.
 
 ## John 1:47
 
-When Jesus saw Nathanael approaching, he said of him, “Here truly is an Israelite in whom there is no deceit.”
+When Jesus saw Nathanael approaching, he remarked, “Here truly is an Israelite in whom there is no deceit.”
 
 ## John 1:48
 
@@ -210,11 +210,11 @@ When Jesus saw Nathanael approaching, he said of him, “Here truly is an Israel
 
 ## John 1:49
 
-Then Nathanael declared, “Rabbi, you are the Son of God; you are the King of Israel.”
+Then Nathanael proclaimed, “Rabbi, you are the Son of God; you are the King of Israel.”
 
 ## John 1:50
 
-Jesus said, “You believe because I told you I saw you under the fig tree. You will see greater things than that.”
+Jesus said, “You believe because I told you I saw you under the fig tree. You will witness greater things than that.”
 
 ## John 1:51
 

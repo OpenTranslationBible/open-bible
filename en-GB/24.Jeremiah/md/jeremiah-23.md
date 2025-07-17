@@ -79,7 +79,7 @@ Can anyone hide in secret places so that I cannot see them?” declares the Lord
 How long will this continue in the hearts of these deceitful prophets, who prophesy the illusions of their own minds?
 
 ## Jeremiah 23:27
-They think the dreams they tell one another will make my people forget my name, just as their ancestors forgot my name through Baal worship.
+They believe that the dreams they share with each other will cause my people to forget my name, just as their ancestors did through Baal worship.
 
 ## Jeremiah 23:28
 Let the prophet who has a dream recount the dream, but let the one who has my word speak it faithfully. For what does straw have in common with grain?” declares the Lord.

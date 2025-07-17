@@ -32,7 +32,7 @@ You will always have the poor with you, and you can help them whenever you wish.
 
 ## Mark 14:8
 
-She has done what she could; she has anointed my body beforehand for burial.
+She has done what she could; she has anointed my body in preparation for burial.
 
 ## Mark 14:9
 
@@ -60,7 +60,7 @@ So he sent two of his disciples, saying to them, “Go into the city, and a man 
 
 ## Mark 14:14
 
-Say to the owner of the house he enters, ‘The Teacher asks: Where is my guest room, where I may eat the Passover with my disciples?’
+Say to the owner of the house he enters, ‘The Teacher asks: Where is my guest room, where I may share the Passover meal with my disciples?’
 
 ## Mark 14:15
 
@@ -82,11 +82,11 @@ While they were reclining at the table eating, Jesus said, “Truly I tell you, 
 
 ## Mark 14:19
 
-They were saddened, and one by one they said to him, “Surely you don’t mean me?”
+They were saddened, and one by one they said to him, “Surely it is not I?”
 
 ## Mark 14:20
 
-“It is one of the Twelve,” he replied, “one who dips bread into the bowl with me.
+“It is one of the Twelve,” he replied, “one who shares the bowl with me.
 
 ## Mark 14:21
 
@@ -96,23 +96,23 @@ The Son of Man will go just as it is written about him. But woe to that man who 
 
 ## Mark 14:22
 
-While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this represents my body.”
+While they were eating, Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this symbolises my body.”
 
 ## Mark 14:23
 
-Then he took a cup, and when he had given thanks, he gave it to them, and they all drank from it.
+Then he took a cup, and after giving thanks, he offered it to them, and they all drank from it.
 
 ## Mark 14:24
 
-“This is my blood of the covenant, which is poured out for many,” he said to them.
+“This represents my blood of the covenant, which is poured out for many,” he said to them.
 
 ## Mark 14:25
 
-“Truly I tell you, I will not drink again from the fruit of the vine until that day when I drink it new in the kingdom of God.”
+“Truly I tell you, I will not partake of the fruit of the vine again until that day when I drink it anew in the kingdom of God.”
 
 ## Mark 14:26
 
-When they had sung a hymn, they went out to the Mount of Olives.
+After singing a hymn, they went out to the Mount of Olives.
 
 ---
 
@@ -125,19 +125,19 @@ When they had sung a hymn, they went out to the Mount of Olives.
 
 ## Mark 14:28
 
-But after I have risen, I will go ahead of you into Galilee.”
+But after I have risen, I shall go before you into Galilee.”
 
 ## Mark 14:29
 
-Peter declared, “Even if all fall away, I will not.”
+Peter declared, “Even if everyone else falls away, I will not.”
 
 ## Mark 14:30
 
-“Truly I tell you,” Jesus answered, “today—yes, tonight—before the rooster crows twice you yourself will disown me three times.”
+“Truly I tell you,” Jesus answered, “today—yes, tonight—before the rooster crows twice, you will deny me three times.”
 
 ## Mark 14:31
 
-But Peter insisted emphatically, “Even if I have to die with you, I will not disown you.” And all the others said the same.
+But Peter insisted emphatically, “Even if I must die with you, I will never disown you.” And all the others said the same.
 
 ---
 
@@ -147,7 +147,7 @@ They went to a place called Gethsemane, and Jesus said to his disciples, “Sit 
 
 ## Mark 14:33
 
-He took Peter, James, and John along with him, and he began to be deeply distressed and troubled.
+He took Peter, James, and John with him, and he began to feel deeply distressed and troubled.
 
 ## Mark 14:34
 
@@ -155,19 +155,19 @@ He took Peter, James, and John along with him, and he began to be deeply distres
 
 ## Mark 14:35
 
-Going a little farther, he fell to the ground and prayed that if possible the hour might pass from him.
+Going a little farther, he fell to the ground and prayed that, if possible, the hour might pass from him.
 
 ## Mark 14:36
 
-“Abba, Father,” he said, “everything is possible for you. Take this cup from me. Yet not what I will, but what you will.”
+“Abba, Father,” he said, “all things are possible for you. Remove this cup from me. Yet not what I desire, but what you desire.”
 
 ## Mark 14:37
 
-Then he returned to his disciples and found them sleeping. “Simon,” he said to Peter, “are you asleep? Couldn’t you keep watch for one hour?
+Then he returned to his disciples and found them sleeping. “Simon,” he said to Peter, “are you asleep? Could you not keep watch for one hour?
 
 ## Mark 14:38
 
-Watch and pray so that you will not fall into temptation. The spirit is willing, but the flesh is weak.”
+Watch and pray so that you will not fall into temptation. The spirit is willing, but the body is weak.”
 
 ## Mark 14:39
 
@@ -179,7 +179,7 @@ When he came back, he again found them sleeping, because their eyes were heavy. 
 
 ## Mark 14:41
 
-Returning the third time, he said to them, “Are you still sleeping and resting? Enough! The hour has come. Look, the Son of Man is delivered into the hands of sinners.
+Returning the third time, he said to them, “Are you still sleeping and resting? Enough! The hour has come. Look, the Son of Man is handed over to sinners.
 
 ## Mark 14:42
 
@@ -189,7 +189,7 @@ Rise! Let us go! Here comes my betrayer!”
 
 ## Mark 14:43
 
-Just as he was speaking, Judas, one of the Twelve, appeared. With him was a crowd armed with swords and clubs, sent from the chief priests, the teachers of the law, and the elders.
+Just as he was speaking, Judas, one of the Twelve, appeared. With him was a crowd armed with swords and clubs, sent by the chief priests, the teachers of the law, and the elders.
 
 ## Mark 14:44
 
@@ -197,7 +197,7 @@ Now the betrayer had arranged a signal with them: “The one I kiss is the man; 
 
 ## Mark 14:45
 
-Going at once to Jesus, Judas said, “Rabbi!” and kissed him.
+Going directly to Jesus, Judas said, “Rabbi!” and kissed him.
 
 ## Mark 14:46
 
@@ -223,17 +223,17 @@ Then everyone deserted him and fled.
 
 ## Mark 14:51
 
-A young man, wearing nothing but a linen garment, was following Jesus. When they seized him,
+A young man, wearing only a linen garment, was following Jesus. When they seized him,
 
 ## Mark 14:52
 
-he fled naked, leaving his garment behind.
+he fled without his garment, leaving it behind.
 
 ---
 
 ## Mark 14:53
 
-They took Jesus to the high priest, and all the chief priests, the elders, and the teachers of the law came together.
+They took Jesus to the high priest, and all the chief priests, the elders, and the teachers of the law gathered together.
 
 ## Mark 14:54
 
@@ -279,7 +279,7 @@ The high priest tore his clothes. “Why do we need any more witnesses?” he as
 
 ## Mark 14:64
 
-“You have heard the blasphemy. What do you think?” They all condemned him as worthy of death.
+“You have heard the blasphemy. What do you think?” They all condemned him as deserving of death.
 
 ## Mark 14:65
 
@@ -313,4 +313,4 @@ He began to call down curses, and he swore to them, “I do not know this man yo
 
 ## Mark 14:72
 
-Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him: “Before the rooster crows twice you will disown me three times.” And he broke down and wept.
+Immediately the rooster crowed the second time. Then Peter remembered the word Jesus had spoken to him: “Before the rooster crows twice, you will deny me three times.” And he broke down and wept.

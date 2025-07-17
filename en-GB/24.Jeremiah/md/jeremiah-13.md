@@ -60,7 +60,7 @@ I will shatter them against each other, both parents and children alike,” decl
 
 ## Jeremiah 13:15
 
-Listen and pay attention, do not be arrogant, for the Lord has spoken.
+Hear and heed this, do not be proud, for the Lord has spoken.
 
 ## Jeremiah 13:16
 

@@ -88,7 +88,7 @@ The disciples did as Jesus had instructed them and prepared the Passover.
 
 ## Matthew 26:20
 
-When evening came, Jesus was reclining at the table with the twelve disciples.
+When evening arrived, Jesus was at the table with the twelve disciples.
 
 ## Matthew 26:21
 
@@ -143,7 +143,7 @@ Then Jesus said to them, “This night you will all fall away because of me, for
 
 ## Matthew 26:32
 
-But after I have risen, I will go ahead of you to Galilee.”
+However, once I have risen, I will go ahead of you to Galilee.”
 
 ## Matthew 26:33
 
@@ -243,7 +243,7 @@ At that time Jesus said to the crowds, “Have you come out with swords and club
 
 ## Matthew 26:56
 
-But all this has taken place so that the writings of the prophets might be fulfilled.” Then all the disciples deserted him and fled.
+But all this has occurred so that the writings of the prophets might be fulfilled.” Then all the disciples left him and fled.
 
 ---
 
@@ -323,4 +323,4 @@ Then he began to curse and swear, “I do not know the man!” Immediately a roo
 
 ## Matthew 26:75
 
-And Peter remembered the word Jesus had spoken: “Before the rooster crows, you will deny me three times.” And he went outside and wept bitterly.
+And Peter recalled the words Jesus had spoken: “Before the rooster crows, you will deny me three times.” And he went outside and wept bitterly.

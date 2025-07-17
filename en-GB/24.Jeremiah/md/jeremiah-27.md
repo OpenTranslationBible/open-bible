@@ -58,7 +58,7 @@ If they are indeed prophets and have the word of the Lord, let them plead with t
 For this is what the Lord of Hosts says concerning the pillars, the bronze Sea, the movable stands, and the other articles that are left in this city,
 
 ## Jeremiah 27:20
-which Nebuchadnezzar, king of Babylon, did not take when he exiled Jeconiah, son of Jehoiakim, king of Judah, from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem—
+which Nebuchadnezzar, king of Babylon, left behind when he exiled Jeconiah, son of Jehoiakim, king of Judah, from Jerusalem to Babylon, along with all the nobles of Judah and Jerusalem—
 
 ## Jeremiah 27:21
 Yes, this is what the Lord of Hosts, the God of Israel, says concerning the items remaining in the house of the Lord, the palace of the king of Judah, and in Jerusalem:

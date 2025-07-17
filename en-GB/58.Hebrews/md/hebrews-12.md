@@ -58,7 +58,7 @@ Make straight paths for your feet, so that the lame may not be disabled, but rat
 
 ## Hebrews 12:14
 
-Strive for peace with everyone, and for the holiness without which no one will see the Lord.
+Pursue peace with all people, and seek the holiness without which no one will see the Lord.
 
 ## Hebrews 12:15
 
@@ -106,7 +106,7 @@ See to it that you do not refuse him who speaks. For if they did not escape when
 
 ## Hebrews 12:26
 
-At that time his voice shook the earth, but now he has promised, “Once more I will shake not only the earth but also the heavens.”
+At that time his voice caused the earth to tremble, but now he has promised, “Once more I will shake not only the earth but also the heavens.”
 
 ## Hebrews 12:27
 

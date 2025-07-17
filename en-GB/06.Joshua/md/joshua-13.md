@@ -55,7 +55,7 @@ Heshbon and its surrounding cities on the plain: Dibon, Bamoth-baal, Beth-baal-m
 Jahaz, Kedemoth, Mephaath,
 
 ## Joshua 13:19
-Kiriathaim, Sibmah, Zereth-shahar on the hill of the valley,
+the towns of Kiriathaim, Sibmah, and Zereth-shahar situated on the hill of the valley,
 
 ## Joshua 13:20
 Beth-peor, the slopes of Pisgah, Beth-jeshimoth,
@@ -88,13 +88,13 @@ This is the inheritance of the sons of Gad according to their families, includin
 Moses also gave an inheritance to the half-tribe of Manasseh; it was for the half-tribe of the sons of Manasseh according to their families.
 
 ## Joshua 13:30
-Their territory extended from Mahanaim, including all Bashan, the entire kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, totaling sixty cities;
+Their territory extended from Mahanaim, including all Bashan, the entire kingdom of Og king of Bashan, and all the towns of Jair, which are in Bashan, totalling sixty cities;
 
 ## Joshua 13:31
 also half of Gilead, with Ashtaroth and Edrei, the cities of the kingdom of Og in Bashan, were for the sons of Machir son of Manasseh, for half of the sons of Machir according to their families.
 
 ## Joshua 13:32
-These are the territories which Moses distributed as an inheritance in the plains of Moab, beyond the Jordan at Jericho to the east.
+These are the lands which Moses allocated as an inheritance in the plains of Moab, east of the Jordan at Jericho.
 
 ## Joshua 13:33
 But to the tribe of Levi, Moses did not give an inheritance; the Lord, the God of Israel, is their inheritance, as He had promised them.

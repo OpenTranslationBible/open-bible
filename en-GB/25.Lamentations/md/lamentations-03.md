@@ -168,15 +168,15 @@ Let us lift up our hearts and hands to God in heaven;
 
 ## Lamentations 3:42
 
-We have sinned and rebelled, and You have not forgiven.
+We have sinned and rebelled, and You have withheld forgiveness.
 
 ## Lamentations 3:43
 
-You have covered Yourself with anger and pursued us; You have slain without pity.
+You have enveloped Yourself with anger and pursued us; You have slain without mercy.
 
 ## Lamentations 3:44
 
-You have veiled Yourself with a cloud so that no prayer can pass through.
+You have hidden Yourself with a cloud so that no prayer can pass through.
 
 ## Lamentations 3:45
 
@@ -184,7 +184,7 @@ You have made us scum and refuse among the peoples.
 
 ## Lamentations 3:46
 
-All our enemies have opened their mouths wide against us.
+All our enemies have spoken against us with open mouths.
 
 ## Lamentations 3:47
 
@@ -220,11 +220,11 @@ The waters closed over my head, and I thought I was cut off.
 
 ## Lamentations 3:55
 
-I called on Your name, Lord, from the depths of the pit.
+I called upon Your name, Lord, from the depths of the pit.
 
 ## Lamentations 3:56
 
-You heard my plea: “Do not close Your ears to my cry for relief.”
+You heard my plea: “Do not turn a deaf ear to my cry for relief.”
 
 ## Lamentations 3:57
 
@@ -232,11 +232,11 @@ You came near when I called You, and You said, “Do not fear.”
 
 ## Lamentations 3:58
 
-You, Lord, took up my case; You redeemed my life.
+You, Lord, took up my case; You restored my life.
 
 ## Lamentations 3:59
 
-Lord, You have seen the wrong done to me. Uphold my cause!
+Lord, You have seen the wrong done to me. Support my cause!
 
 ## Lamentations 3:60
 

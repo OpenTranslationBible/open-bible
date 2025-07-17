@@ -26,7 +26,7 @@ But the word of the Lord came to Shemaiah the man of God, saying,
 
 ## 2 Chronicles 11:5
 
-Rehoboam lived in Jerusalem and built cities for defense in Judah.
+Rehoboam lived in Jerusalem and built cities for defence in Judah.
 
 ---
 

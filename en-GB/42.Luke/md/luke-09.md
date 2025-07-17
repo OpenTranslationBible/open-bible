@@ -104,7 +104,7 @@ Then He said to them all, “If anyone wishes to follow Me, he must deny himself
 
 ## Luke 9:24
 
-“For whoever desires to save his life will lose it, but whoever loses his life for My sake will save it.”
+“For whoever seeks to preserve his life will lose it, but whoever gives up his life for My sake will find it.”
 
 ## Luke 9:25
 
@@ -126,7 +126,7 @@ About eight days after Jesus spoke these words, He took Peter, John, and James w
 
 ## Luke 9:29
 
-As He was praying, the appearance of His face changed, and His clothes became dazzling white.
+As He was praying, His face altered in appearance, and His clothes became brilliantly white.
 
 ## Luke 9:30
 
@@ -138,11 +138,11 @@ They discussed His departure, which He was about to accomplish at Jerusalem.
 
 ## Luke 9:32
 
-Peter and his companions were very sleepy, but when they became fully awake, they saw His glory and the two men standing with Him.
+Peter and his companions were quite sleepy, but when they were fully awake, they saw His glory and the two men standing with Him.
 
 ## Luke 9:33
 
-As the men were leaving Jesus, Peter said to Him, “Master, it is good for us to be here. Let us put up three shelters—one for You, one for Moses, and one for Elijah.” (He did not know what he was saying.)
+As the men were leaving Jesus, Peter said to Him, “Master, it is good for us to be here. Let us put up three shelters—one for You, one for Moses, and one for Elijah.” (He was unaware of what he was saying.)
 
 ## Luke 9:34
 
@@ -154,7 +154,7 @@ A voice came from the cloud, saying, “This is My Son, My Chosen One; listen to
 
 ## Luke 9:36
 
-When the voice had spoken, they found that Jesus was alone. The disciples kept this to themselves and did not tell anyone at that time what they had seen.
+When the voice had spoken, they found Jesus was alone. The disciples kept this to themselves and did not disclose to anyone at that time what they had witnessed.
 
 ---
 
@@ -184,15 +184,15 @@ Even while the boy was coming, the demon threw him to the ground in a convulsion
 
 ## Luke 9:43
 
-And they were all amazed at the greatness of God. While everyone was marveling at all that Jesus did, He said to His disciples,
+And they were all amazed at the greatness of God. While everyone was marvelling at all that Jesus did, He said to His disciples,
 
 ## Luke 9:44
 
-“Listen carefully to what I am about to tell you: The Son of Man is going to be handed over to men.”
+“Pay close attention to what I am about to tell you: The Son of Man is going to be handed over to men.”
 
 ## Luke 9:45
 
-But they did not understand what this meant. It was hidden from them, so that they did not grasp it, and they were afraid to ask Him about it.
+But they did not understand what this meant. It was hidden from them, so they did not grasp it, and they were afraid to ask Him about it.
 
 ---
 
@@ -216,7 +216,7 @@ Then He said to them, “Whoever welcomes this little child in My name welcomes 
 
 ## Luke 9:50
 
-“Do not stop him,” Jesus said, “for whoever is not against you is for you.”
+“Do not stop him,” Jesus said, “for whoever is not opposed to you is for you.”
 
 ---
 
@@ -252,7 +252,7 @@ As they were walking along the road, someone said to Him, “I will follow You w
 
 ## Luke 9:58
 
-Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has nowhere to lay His head.”
+Jesus replied, “Foxes have dens and birds have nests, but the Son of Man has nowhere to rest His head.”
 
 ## Luke 9:59
 
@@ -264,7 +264,7 @@ Jesus said to him, “Let the dead bury their own dead, but you go and announce 
 
 ## Luke 9:61
 
-Still another said, “I will follow You, Lord; but first let me go back and say goodbye to my family.”
+Still another said, “I will follow You, Lord; but first let me go back and bid farewell to my family.”
 
 ## Luke 9:62
 

@@ -119,7 +119,7 @@ Some of the Sadducees, who say there is no resurrection, came to Him with a ques
 
 ## Luke 20:28
 
-“Teacher,” they said, “Moses wrote for us that if a man’s brother dies and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother.
+“Teacher,” they said, “Moses instructed us that if a man’s brother dies and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother.
 
 ## Luke 20:29
 
@@ -143,7 +143,7 @@ Now then, at the resurrection whose wife will she be, since all seven were marri
 
 ## Luke 20:34
 
-Jesus replied, “The people of this age marry and are given in marriage.
+Jesus replied, “The people of this world marry and are given in marriage.
 
 ## Luke 20:35
 
@@ -155,7 +155,7 @@ and they can no longer die; for they are like the angels. They are God’s child
 
 ## Luke 20:37
 
-But in the account of the burning bush, even Moses showed that the dead rise, for he calls the Lord ‘the God of Abraham, and the God of Isaac, and the God of Jacob.’
+But in the account of the burning bush, even Moses demonstrated that the dead rise, for he refers to the Lord as ‘the God of Abraham, and the God of Isaac, and the God of Jacob.’
 
 ## Luke 20:38
 

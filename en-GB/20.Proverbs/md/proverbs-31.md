@@ -114,7 +114,7 @@ She watches over the affairs of her household, and does not eat the bread of idl
 
 ## Proverbs 31:28
 
-Her children arise and call her blessed; her husband also, and he praises her:
+Her children stand and bless her; her husband also praises her:
 
 ## Proverbs 31:29
 

@@ -35,7 +35,7 @@ Ahab went one way by himself, and Obadiah went another way by himself.
 ## 1 Kings 18:7
 
 Now as Obadiah was on the way, behold, Elijah met him,  
-and he recognized him and fell on his face and said,  
+and he recognised him and fell on his face and said,  
 “Is it you, Elijah my master?”
 
 ## 1 Kings 18:8

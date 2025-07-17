@@ -67,13 +67,13 @@ Judgement has come to the plateau— to Holon, Jahzah and Mephaath,
 to Dibon, Nebo and Beth Diblathaim,
 
 ## Jeremiah 48:23
-to Kiriathaim, Beth Gamul and Beth Meon,
+to the towns of Kiriathaim, Beth Gamul and Beth Meon,
 
 ## Jeremiah 48:24
 to Kerioth and Bozrah— to all the towns of Moab, both near and far.
 
 ## Jeremiah 48:25
-Moab’s horn is cut off; her arm is broken,” declares the Lord.
+Moab’s strength is cut off; her power is broken,” declares the Lord.
 
 ## Jeremiah 48:26
 “Make her drunk, for she has defied the Lord. Let Moab wallow in her vomit; let her become a laughingstock.
@@ -103,7 +103,7 @@ Joy and gladness have vanished from the orchards and fields of Moab. I have stop
 The sound of their cry rises from Heshbon to Elealeh and Jahaz, from Zoar as far as Horonaim and Eglath Shelishiyah, for even the waters of Nimrim are dried up.
 
 ## Jeremiah 48:35
-In Moab I will put an end to those who make offerings on the high places and burn incense to their gods,” declares the Lord.
+In Moab I will bring an end to those who make offerings on the high places and burn incense to their gods,” declares the Lord.
 
 ## Jeremiah 48:36
 “So my heart laments for Moab like the music of flutes; it laments like a pipe for the people of Kir Hareseth. The wealth they acquired is gone.
@@ -112,7 +112,7 @@ In Moab I will put an end to those who make offerings on the high places and bur
 Every head is shaved and every beard cut off; there are gashes on all the hands and sackcloth around the waists.
 
 ## Jeremiah 48:38
-On all the roofs in Moab and in the public squares there is nothing but mourning, for I have broken Moab like a jar that no one wants,” declares the Lord.
+On all the roofs in Moab and in the public squares there is nothing but mourning, for I have shattered Moab like a jar that no one desires,” declares the Lord.
 
 ## Jeremiah 48:39
 “How shattered she is! How they wail! How Moab turns her back in shame! Moab has become a laughingstock, an object of horror to all those around her.”
@@ -121,10 +121,10 @@ On all the roofs in Moab and in the public squares there is nothing but mourning
 This is what the Lord says: “Behold, an eagle is swooping down, spreading its wings over Moab.
 
 ## Jeremiah 48:41
-Kerioth will be captured and the strongholds taken. In that day the hearts of Moab’s warriors will be like the heart of a woman in labor.
+Kerioth will be captured and the strongholds taken. In that day the hearts of Moab’s warriors will be like the heart of a woman in labour.
 
 ## Jeremiah 48:42
-Moab will be destroyed as a nation because she defied the Lord.
+Moab will be brought to ruin as a nation because she defied the Lord.
 
 ## Jeremiah 48:43
 Terror, pit, and snare await you, people of Moab,” declares the Lord.
@@ -136,7 +136,7 @@ Terror, pit, and snare await you, people of Moab,” declares the Lord.
 “In the shadow of Heshbon the fugitives stand helpless, for a fire has gone out from Heshbon, a blaze from the midst of Sihon; it burns the foreheads of Moab, the skulls of the loud boasters.
 
 ## Jeremiah 48:46
-Woe to you, Moab! The people of Chemosh are destroyed; your sons are taken into exile and your daughters into captivity.
+Alas for you, Moab! The people of Chemosh are destroyed; your sons are taken into exile and your daughters into captivity.
 
 ## Jeremiah 48:47
 “Yet I will restore the fortunes of Moab in the latter days,” declares the Lord. Here ends the judgement on Moab.

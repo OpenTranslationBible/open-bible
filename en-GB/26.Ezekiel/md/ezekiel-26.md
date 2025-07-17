@@ -54,7 +54,7 @@ I will put an end to your noisy songs, and the sound of your harps will be heard
 
 ## Ezekiel 26:14
 
-I will make you a bare rock, and you will become a place to spread fishnets. You will never be rebuilt, for I, the Lord, have spoken, declares the Sovereign Lord.
+I will make you into a barren rock, and you will become a place for spreading fishing nets. You shall not be rebuilt, for I, the Lord, have spoken, declares the Sovereign Lord.
 
 ## Ezekiel 26:15
 

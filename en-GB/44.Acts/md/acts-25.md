@@ -2,7 +2,7 @@
 
 ## Acts 25:1
 
-A few days after arriving in the province, Festus traveled to Jerusalem from Caesarea.
+A few days after arriving in the province, Festus travelled to Jerusalem from Caesarea.
 
 ## Acts 25:2
 

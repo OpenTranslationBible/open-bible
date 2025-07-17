@@ -196,7 +196,7 @@ The Jewish believers who had come with Peter were amazed that the gift of the Ho
 
 ## Acts 10:46
 
-For they heard them speaking in tongues and praising God. Then Peter said,
+They heard them speaking in various languages and glorifying God. Then Peter said,
 
 ## Acts 10:47
 

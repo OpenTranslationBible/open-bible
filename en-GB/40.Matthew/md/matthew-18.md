@@ -18,7 +18,7 @@ Therefore, whoever humbles themselves like this child is the greatest in the kin
 
 ## Matthew 18:5
 
-And whoever welcomes a child like this in My name, welcomes Me.
+And whoever receives a child like this in My name, receives Me.
 
 ## Matthew 18:6
 
@@ -100,7 +100,7 @@ Jesus replied, “I tell you, not just seven times, but seventy-seven times.
 
 ## Matthew 18:23
 
-“For this reason, the kingdom of heaven can be compared to a king who wanted to settle accounts with his servants.
+“For this reason, the kingdom of heaven is like a king who decided to settle accounts with his servants.
 
 ## Matthew 18:24
 
@@ -148,4 +148,4 @@ In his anger, the master handed him over to the jailers to be tortured until he 
 
 ## Matthew 18:35
 
-“This is how My heavenly Father will treat each of you unless you forgive your brother or sister from your heart.”
+“In the same way, My heavenly Father will deal with each of you unless you forgive your brother or sister from your heart.”

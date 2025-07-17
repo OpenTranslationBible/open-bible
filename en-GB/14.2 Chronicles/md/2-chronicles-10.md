@@ -20,7 +20,7 @@ So they sent word and summoned him. When Jeroboam and all Israel came, they spok
 
 ## 2 Chronicles 10:4
 
-“Your father made our yoke hard; now therefore, lighten the hard labor imposed by your father and his heavy yoke which he put on us, and we will serve you.”
+“Your father made our yoke hard; now therefore, lighten the hard labour imposed by your father and his heavy yoke which he put on us, and we will serve you.”
 
 ---
 
@@ -111,7 +111,7 @@ But as for the sons of Israel who lived in the cities of Judah, Rehoboam reigned
 
 ## 2 Chronicles 10:18
 
-Then King Rehoboam sent Hadoram, who was in charge of the forced labor, and the sons of Israel stoned him to death. And King Rehoboam hurried to mount his chariot to flee to Jerusalem.
+Then King Rehoboam sent Hadoram, who was in charge of the forced labour, and the sons of Israel stoned him to death. And King Rehoboam hurried to mount his chariot to flee to Jerusalem.
 
 ---
 

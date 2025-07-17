@@ -14,7 +14,7 @@ He remained there for three months. However, when a plot was laid against him by
 
 ## Acts 20:4
 
-He traveled with Sopater, son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, along with Tychicus and Trophimus from the province of Asia.
+He travelled with Sopater, son of Pyrrhus from Berea, Aristarchus and Secundus from Thessalonica, Gaius from Derbe, Timothy, along with Tychicus and Trophimus from the province of Asia.
 
 ## Acts 20:5
 

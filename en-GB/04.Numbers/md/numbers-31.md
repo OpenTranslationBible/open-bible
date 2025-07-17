@@ -64,7 +64,7 @@ Purify every garment, every article of leather, everything made of goats’ hair
 Then Eleazar the priest said to the soldiers who had gone to battle, “This is the statute of the law which the Lord commanded Moses:
 
 ## Numbers 31:22
-The gold, silver, bronze, iron, tin, and lead,
+The metals such as gold, silver, bronze, iron, tin, and lead,
 
 ## Numbers 31:23
 everything that can withstand fire, you shall pass through the fire, and it will be clean. It must also be purified with the water of cleansing. But whatever cannot withstand fire must be passed through the water.

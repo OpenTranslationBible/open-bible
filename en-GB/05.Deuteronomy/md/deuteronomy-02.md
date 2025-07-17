@@ -85,7 +85,7 @@ From the wilderness of Kedemoth I sent messengers to Sihon king of Heshbon with 
 You will sell us food for money so that we may eat, and give us water for money so that we may drink. Only let us pass through on foot—
 
 ## Deuteronomy 2:29
-as the descendants of Esau, who live in Seir, and the Moabites, who live in Ar, did for us—until we cross the Jordan into the land the Lord our God is giving us.”
+just as the descendants of Esau in Seir and the Moabites in Ar allowed us—until we cross the Jordan into the land the Lord our God is giving us.”
 
 ## Deuteronomy 2:30
 But Sihon king of Heshbon was not willing for us to pass through his land; for the Lord your God had hardened his spirit and made his heart obstinate, in order to hand him over to you, as he is today.

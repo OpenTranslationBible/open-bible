@@ -134,7 +134,7 @@ Was John's baptism from heaven, or of human origin? Tell me!”
 
 ## Mark 11:31
 
-They discussed it among themselves and said, “If we say, ‘From heaven,’ he will ask, ‘Then why didn’t you believe him?’
+They conferred among themselves, saying, “If we say, ‘From heaven,’ he will ask, ‘Then why didn’t you believe him?’
 
 ## Mark 11:32
 

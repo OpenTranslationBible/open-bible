@@ -48,7 +48,7 @@ He said to them, “Whoever divorces his wife and marries another woman commits 
 
 ## Mark 10:12
 
-and if a woman divorces her husband and marries another man, she commits adultery.”
+and if a woman separates from her husband and marries another man, she is considered to have committed adultery.”
 
 ---
 
@@ -110,11 +110,11 @@ It is easier for a camel to pass through the eye of a needle than for a rich per
 
 ## Mark 10:26
 
-They were even more astonished and said to one another, “Who then can be saved?”
+They were even more astonished and said to one another, “Who then is able to be saved?”
 
 ## Mark 10:27
 
-Jesus looked at them and said, “With man it is impossible, but not with God; for all things are possible with God.”
+Jesus looked at them and said, “With man it is impossible, but not with God; for with God, all things are possible.”
 
 ---
 
@@ -172,7 +172,7 @@ Jesus said to them, “You do not know what you are asking. Can you drink the cu
 
 ## Mark 10:40
 
-but to sit at My right or left is not for Me to grant. These places belong to those for whom they have been prepared.”
+but to sit at My right or left is not for Me to grant. These places are reserved for those for whom they have been prepared.”
 
 ---
 
@@ -204,11 +204,11 @@ Then they came to Jericho. As Jesus and His disciples, together with a large cro
 
 ## Mark 10:47
 
-When he heard that it was Jesus of Nazareth, he began to shout, “Jesus, Son of David, have mercy on me!”
+Upon hearing that it was Jesus of Nazareth, he began to shout, “Jesus, Son of David, have mercy on me!”
 
 ## Mark 10:48
 
-Many rebuked him and told him to be quiet, but he shouted all the more, “Son of David, have mercy on me!”
+Many rebuked him and told him to be quiet, but he cried out even more, “Son of David, have mercy on me!”
 
 ## Mark 10:49
 

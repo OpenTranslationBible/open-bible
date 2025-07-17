@@ -110,7 +110,7 @@ Jesus answered, “I told you, and you do not believe. The works I do in my Fath
 
 ## John 10:26
 
-but you do not believe because you are not part of my flock.
+but you do not believe because you do not belong to my flock.
 
 ## John 10:27
 

@@ -52,7 +52,7 @@ The terror you inspire and the arrogance of your heart have deceived you, you wh
 “Edom will become a place of dread; all who pass by will be appalled and will scoff because of all its wounds.
 
 ## Jeremiah 49:18
-As Sodom and Gomorrah were overthrown, along with their neighboring towns,” says the Lord, “so no one will live there; no people will dwell in it.
+As Sodom and Gomorrah and their neighbouring towns were overthrown,” says the Lord, “so no one will reside there; no people will settle in it.
 
 ## Jeremiah 49:19
 “Like a lion coming up from the thickets of the Jordan to a rich pastureland, I will chase Edom from its land in an instant. Who is the chosen one I will appoint for this? Who is like me and who can summon me into court? And what shepherd can stand against me?”
@@ -64,10 +64,10 @@ Therefore, hear what the Lord has planned against Edom, what he has purposed aga
 At the sound of their fall the earth will tremble; their cry will echo to the Red Sea.
 
 ## Jeremiah 49:22
-Behold, an eagle will soar and swoop down, spreading its wings over Bozrah. In that day the hearts of Edom’s warriors will be like the heart of a woman in labor.
+Behold, an eagle will soar and swoop down, spreading its wings over Bozrah. In that day the hearts of Edom’s warriors will be like the heart of a woman in labour.
 
 ## Jeremiah 49:23
-Concerning Damascus: “Hamath and Arpad are dismayed, for they have heard bad news. They are disheartened, troubled like the restless sea.
+Concerning Damascus: “Hamath and Arpad are dismayed, for they have heard distressing news. They are disheartened, troubled like the restless sea.
 
 ## Jeremiah 49:24
 Damascus has become feeble; she has turned to flee and panic has gripped her; anguish and pain have seized her, pain like that of a woman in childbirth.
@@ -85,19 +85,19 @@ Surely, her young men will fall in her streets; all her soldiers will be silence
 Concerning Kedar and the kingdoms of Hazor, which Nebuchadnezzar king of Babylon attacked: This is what the Lord says: “Arise, and attack Kedar and devastate the people of the East.
 
 ## Jeremiah 49:29
-Their tents and their flocks will be taken; their shelters will be carried off with all their goods and camels. People will shout to them, ‘Terror on every side!’
+Their tents and their flocks will be taken; their shelters will be carried off with all their goods and camels. People will cry out to them, ‘Terror all around!’
 
 ## Jeremiah 49:30
 “Flee quickly away! Stay in deep caves, you inhabitants of Hazor,” declares the Lord. “Nebuchadnezzar king of Babylon has plotted against you; he has devised a plan against you.
 
 ## Jeremiah 49:31
-“Arise and attack a nation at ease, which lives in confidence,” declares the Lord, “a nation that has neither gates nor bars; its people live far from danger.
+“Arise and attack a nation at ease, which lives in security,” declares the Lord, “a nation that has neither gates nor bars; its people live far from danger.
 
 ## Jeremiah 49:32
 Their camels will become plunder, and their large herds will be spoils of war. I will scatter to the winds those who cut the corners of their hair and will bring disaster on them from every side,” declares the Lord.
 
 ## Jeremiah 49:33
-“Hazor will become a haunt of jackals, a desolate place forever. No one will live there; no people will dwell in it.”
+“Hazor will become a haunt of jackals, a desolate place forever. No one will reside there; no people will settle in it.”
 
 ## Jeremiah 49:34
 The word of the Lord that came to Jeremiah the prophet concerning Elam, at the beginning of the reign of Zedekiah king of Judah:
@@ -106,7 +106,7 @@ The word of the Lord that came to Jeremiah the prophet concerning Elam, at the b
 This is what the Lord of armies says: “See, I will break the bow of Elam, the mainstay of their might.
 
 ## Jeremiah 49:36
-I will bring against Elam the four winds from the four quarters of heaven; I will scatter them to the four winds, and there will not be a nation where Elam’s exiles do not go.
+I will bring against Elam the four winds from every direction; I will scatter them to the winds, and there will not be a nation where Elam’s exiles do not go.
 
 ## Jeremiah 49:37
 I will shatter Elam before their foes, before those who seek their lives; I will bring disaster on them, even my fierce anger,” declares the Lord. “I will pursue them with the sword until I have made an end of them.

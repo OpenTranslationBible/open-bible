@@ -115,7 +115,7 @@ He shall examine the mould on the walls, and if it has greenish or reddish depre
 the priest shall go out of the house and close it up for seven days.
 
 ## Leviticus 14:39
-On the seventh day, the priest shall return to inspect the house. If the mould has spread on the walls,
+On the seventh day, the priest shall return to re-examine the house. If the mould has spread on the walls,
 
 ## Leviticus 14:40
 he shall order that the contaminated stones be torn out and thrown into an unclean place outside the town.
@@ -127,7 +127,7 @@ He must have all the inside walls of the house scraped, and the material that is
 Then they shall take other stones to replace these and take new clay and plaster the house.
 
 ## Leviticus 14:43
-If the defiling mould reappears in the house after the stones have been torn out and the house scraped and plastered,
+If the defiling mould appears again in the house after the stones have been removed and the house scraped and plastered,
 
 ## Leviticus 14:44
 the priest shall go and examine it, and if the mould has spread in the house, it is a persistent defiling mould; the house is unclean.
@@ -139,7 +139,7 @@ The house must be torn down—its stones, timbers, and all the plaster—and tak
 Anyone who goes into the house while it is closed up will be unclean until evening.
 
 ## Leviticus 14:47
-Anyone who sleeps or eats in the house must wash their clothes.
+Anyone who sleeps or eats in the house must cleanse their garments.
 
 ## Leviticus 14:48
 But if the priest comes to examine it and the mould has not spread after the house has been plastered, he shall declare the house clean, because the defiling mould is gone.
@@ -148,7 +148,7 @@ But if the priest comes to examine it and the mould has not spread after the hou
 To purify the house, he shall take two birds, cedar wood, scarlet yarn, and hyssop.
 
 ## Leviticus 14:50
-He shall kill one of the birds over fresh water in a clay pot.
+He shall put one of the birds to death over fresh water in a clay pot.
 
 ## Leviticus 14:51
 Then he shall take the cedar wood, the hyssop, the scarlet yarn, and the live bird, dip them into the blood of the dead bird and the fresh water, and sprinkle the house seven times.
@@ -163,7 +163,7 @@ Then he shall release the live bird in the open fields outside the town. In this
 This is the law for any defiling skin disease, for a sore,
 
 ## Leviticus 14:55
-for defiling moulds in fabric or in a house,
+for harmful moulds in fabric or in a dwelling,
 
 ## Leviticus 14:56
 and for a swelling, a rash, or a shiny spot,

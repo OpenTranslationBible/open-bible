@@ -158,7 +158,7 @@ And no one pours new wine into old wineskins. Otherwise, the new wine will burst
 
 ## Luke 5:38
 
-Instead, new wine must be poured into fresh wineskins.
+Instead, new wine must be placed into fresh wineskins.
 
 ## Luke 5:39
 

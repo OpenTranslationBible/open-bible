@@ -170,7 +170,7 @@ hear and forgive.
 
 ## 2 Chronicles 6:22
 
-If a person sins against his neighbor and is required to take an oath,  
+If a person sins against his neighbour and is required to take an oath,  
 and he comes and takes an oath before Your altar in this house,
 
 ---

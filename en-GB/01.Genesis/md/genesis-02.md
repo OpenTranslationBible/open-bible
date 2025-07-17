@@ -14,7 +14,7 @@ Then God blessed the seventh day and made it holy, because on it He rested from 
 
 ## Genesis 2:4
 
-These are the generations of the heavens and the earth when they were created, at the time when the Lord God made the earth and the heavens.
+These are the accounts of the heavens and the earth as they were created, at the time when the Lord God made the earth and the heavens.
 
 ## Genesis 2:5
 
@@ -90,7 +90,7 @@ Then the Lord God fashioned a woman from the rib He had taken out of the man, an
 
 ## Genesis 2:23
 
-The man said, “This is now bone of my bones and flesh of my flesh; she shall be called ‘woman,’ because she was taken out of man.”
+The man said, “Here, at last, is bone of my bones and flesh of my flesh; she shall be called ‘woman,’ because she was taken out of man.”
 
 ## Genesis 2:24
 

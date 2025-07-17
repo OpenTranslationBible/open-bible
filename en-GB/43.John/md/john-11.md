@@ -54,19 +54,19 @@ His disciples replied, “Lord, if he sleeps, he will recover.”
 
 ## John 11:13
 
-Jesus had been speaking of his death, but His disciples thought He meant natural sleep.
+Jesus had been speaking of his passing, but His disciples thought He referred to natural sleep.
 
 ## John 11:14
 
-So He told them plainly, “Lazarus is dead,
+So He told them clearly, “Lazarus has died,
 
 ## John 11:15
 
-and for your sake I am glad I was not there, so that you may believe. But let us go to him.”
+and for your sake I am pleased I was not there, so that you may believe. But let us go to him.”
 
 ## John 11:16
 
-Then Thomas, also known as Didymus, said to the rest of the disciples, “Let us also go, that we may die with Him.”
+Then Thomas, also known as Didymus, said to the rest of the disciples, “Let us also go, that we may face death with Him.”
 
 ---
 
@@ -76,7 +76,7 @@ Upon His arrival, Jesus found that Lazarus had already been in the tomb for four
 
 ## John 11:18
 
-Bethany was less than two miles from Jerusalem,
+Bethany was only a short distance from Jerusalem,
 
 ## John 11:19
 
@@ -84,7 +84,7 @@ and many Jews had come to Martha and Mary to console them concerning their broth
 
 ## John 11:20
 
-When Martha heard that Jesus was coming, she went out to meet Him, but Mary stayed at home.
+When Martha heard that Jesus was coming, she went out to meet Him, while Mary remained at home.
 
 ## John 11:21
 
@@ -104,7 +104,7 @@ Martha replied, “I know he will rise again in the resurrection at the last day
 
 ## John 11:25
 
-Jesus said to her, “I am the resurrection and the life. The one who believes in Me will live, even though they die;
+Jesus said to her, “I am the resurrection and the life. Whoever believes in Me will live, even though they die;
 
 ## John 11:26
 
@@ -130,7 +130,7 @@ Now Jesus had not yet entered the village, but was still at the place where Mart
 
 ## John 11:31
 
-When the Jews who had been with Mary in the house, comforting her, noticed how quickly she got up and went out, they followed her, supposing she was going to the tomb to mourn there.
+When the Jews who had been with Mary in the house, comforting her, noticed how quickly she got up and went out, they followed her, thinking she was going to the tomb to mourn there.
 
 ## John 11:32
 
@@ -166,7 +166,7 @@ Jesus, once more deeply moved, came to the tomb. It was a cave with a stone laid
 
 ## John 11:39
 
-“Take away the stone,” He said. “But, Lord,” said Martha, the sister of the deceased, “by this time there is a bad odor, for he has been there four days.”
+“Take away the stone,” He said. “But, Lord,” said Martha, the sister of the deceased, “by this time there is a bad odour, for he has been there four days.”
 
 ## John 11:40
 
@@ -202,11 +202,11 @@ But some of them went to the Pharisees and told them what Jesus had done.
 
 ## John 11:47
 
-Then the chief priests and the Pharisees called a meeting of the Sanhedrin. “What are we accomplishing?” they asked. “Here is this man performing many signs.
+Then the chief priests and the Pharisees called a meeting of the Sanhedrin. “What are we achieving?” they asked. “Here is this man performing many signs.
 
 ## John 11:48
 
-If we let Him go on like this, everyone will believe in Him, and then the Romans will come and take away both our temple and our nation.”
+If we allow Him to continue, everyone will believe in Him, and then the Romans will come and take away both our temple and our nation.”
 
 ## John 11:49
 
@@ -214,7 +214,7 @@ Then one of them, named Caiaphas, who was high priest that year, spoke up, “Yo
 
 ## John 11:50
 
-You do not realize that it is better for you that one man die for the people than that the whole nation perish.”
+You do not understand that it is better for you that one man die for the people than that the whole nation perish.”
 
 ## John 11:51
 
@@ -226,7 +226,7 @@ and not only for that nation but also for the scattered children of God, to brin
 
 ## John 11:53
 
-So from that day on they plotted to take His life.
+So from that day on they plotted to end His life.
 
 ---
 
@@ -236,11 +236,11 @@ Therefore Jesus no longer moved about publicly among the people of Judea. Instea
 
 ## John 11:55
 
-When it was almost time for the Jewish Passover, many went up from the country to Jerusalem for their ceremonial cleansing before the Passover.
+When it was nearly time for the Jewish Passover, many went up from the countryside to Jerusalem for their ceremonial cleansing before the Passover.
 
 ## John 11:56
 
-They kept looking for Jesus, and as they stood in the temple courts they asked one another, “What do you think? Isn’t He coming to the festival at all?”
+They kept looking for Jesus, and as they stood in the temple courts they asked one another, “What do you think? Is He coming to the festival at all?”
 
 ## John 11:57
 

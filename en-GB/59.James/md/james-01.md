@@ -46,13 +46,13 @@ but each person is tempted when they are carried away and enticed by their own e
 Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, brings forth death.
 
 ## James 1:16
-Do not be misled, my beloved brothers and sisters.
+Do not be led astray, my dear brothers and sisters.
 
 ## James 1:17
 Every good and perfect gift is from above, descending from the Father of the heavenly lights, who remains constant and unchanging.
 
 ## James 1:18
-He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all He created.
+By His own will, He brought us forth through the word of truth, so that we might be a kind of firstfruits of all He created.
 
 ## James 1:19
 My beloved brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak, and slow to become angry;

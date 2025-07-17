@@ -43,7 +43,7 @@ Do not offer any part of yourself to sin as an instrument of unrighteousness, bu
 For sin shall not be your master, because you are not under law, but under grace.
 
 ## Romans 6:15
-What then? Should we sin because we are not under law but under grace? Absolutely not!
+What should we conclude? Shall we sin because we are not under law but under grace? Certainly not!
 
 ## Romans 6:16
 Do you not know that when you offer yourselves to someone as obedient slaves, you are slaves of the one you obey, whether of sin leading to death, or of obedience leading to righteousness?

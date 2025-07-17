@@ -52,7 +52,7 @@ His winnowing fork is in his hand, and he will thoroughly clear his threshing fl
 
 ## Matthew 3:13
 
-Then Jesus came from Galilee to the Jordan to be baptised by John.
+At that time, Jesus travelled from Galilee to the Jordan to be baptised by John.
 
 ## Matthew 3:14
 

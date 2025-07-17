@@ -1,7 +1,7 @@
 # Jeremiah Chapter 46
 
 ## Jeremiah 46:1
-This is the message from the Lord that came to Jeremiah the prophet concerning the nations:
+This is the word of the Lord that reached Jeremiah the prophet regarding the nations:
 
 ## Jeremiah 46:2
 Concerning Egypt: This is the message about the army of Pharaoh Necho king of Egypt, which was defeated at Carchemish on the Euphrates River by Nebuchadnezzar king of Babylon in the fourth year of Jehoiakim son of Josiah, king of Judah:
@@ -37,7 +37,7 @@ For that day belongs to the Lord, the Lord Almighty—a day of vengeance, to ave
 The nations have heard of your shame; your cries fill the earth. One warrior has stumbled over another; both have fallen down together.”
 
 ## Jeremiah 46:13
-This is the message the Lord gave to Jeremiah the prophet about the arrival of Nebuchadnezzar king of Babylon to attack Egypt:
+This is the word the Lord gave to Jeremiah the prophet about the arrival of Nebuchadnezzar king of Babylon to attack Egypt:
 
 ## Jeremiah 46:14
 “Announce this in Egypt, and proclaim it in Migdol; declare it also in Memphis and Tahpanhes: ‘Take your positions and prepare, for the sword devours those around you.’
@@ -67,7 +67,7 @@ The mercenaries in her ranks are like well-fed calves. They too will turn and fl
 Her sound will move along like a fleeing serpent as the enemy advances in force; they will come against her with axes, like men who cut down trees.
 
 ## Jeremiah 46:23
-They will chop down her forest,” declares the Lord, “dense though it be. They are more numerous than locusts, they cannot be counted.
+They will fell her forest,” says the Lord, “dense though it be. They are more numerous than locusts, they cannot be counted.
 
 ## Jeremiah 46:24
 Daughter Egypt will be put to shame, delivered into the hands of the people of the north.”

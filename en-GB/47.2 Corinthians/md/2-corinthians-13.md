@@ -18,11 +18,11 @@ For indeed He was crucified because of weakness, yet He lives because of the pow
 
 ## 2 Corinthians 13:5
 
-Test yourselves to see if you are in the faith; examine yourselves! Or do you not recognize this about yourselves, that Jesus Christ is in you—unless indeed you fail the test?
+Test yourselves to see if you are in the faith; examine yourselves! Or do you not Recognise this about yourselves, that Jesus Christ is in you—unless indeed you fail the test?
 
 ## 2 Corinthians 13:6
 
-But I expect that you will realize that we ourselves do not fail the test.
+But I expect that you will realise that we ourselves do not fail the test.
 
 ## 2 Corinthians 13:7
 

@@ -119,7 +119,7 @@ But if your eyes are not clear, your whole body will be full of darkness. If the
 
 ## Matthew 6:25
 
-“For this reason, I tell you, do not worry about your life, what you will eat or drink, or about your body, what you will wear. Is not life more than food, and the body more than clothing?
+“That is why I say to you, do not be anxious about your life, what you will eat or drink, or about your body, what you will wear. Is not life more than food, and the body more than clothing?
 
 ## Matthew 6:26
 
@@ -127,7 +127,7 @@ Observe the birds of the air; they do not sow or reap or store away in barns, an
 
 ## Matthew 6:27
 
-Can any one of you by worrying add a single hour to your life?
+Can any of you, by worrying, extend your life by even a single hour?
 
 ## Matthew 6:28
 
@@ -139,13 +139,13 @@ yet I tell you, not even Solomon in all his splendour was dressed like one of th
 
 ## Matthew 6:30
 
-If that is how God clothes the grass of the field, which is here today and tomorrow is thrown into the fire, will He not much more clothe you—you of little faith?
+If that is how God clothes the grass of the field, which is here today and tomorrow is cast into the fire, will He not much more clothe you—you of little faith?
 
 ---
 
 ## Matthew 6:31
 
-So do not worry, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’
+So do not be anxious, saying, ‘What shall we eat?’ or ‘What shall we drink?’ or ‘What shall we wear?’
 
 ## Matthew 6:32
 
@@ -157,4 +157,4 @@ But seek first His kingdom and His righteousness, and all these things will be p
 
 ## Matthew 6:34
 
-Therefore, do not worry about tomorrow, for tomorrow will take care of itself. Each day has enough trouble of its own.
+Therefore, do not be anxious about tomorrow, for tomorrow will take care of itself. Each day has enough trouble of its own.

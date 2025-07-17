@@ -8,66 +8,41 @@ In the twelfth year, in the twelfth month, on the first day of the month, the me
 
 “Son of man, raise a lamentation over Pharaoh king of Egypt and say to him:
 
-‘You likened yourself to a lion among the nations,
-yet you are like a monster in the seas;
-you thrash about in your rivers,
-muddying the waters with your feet
-and fouling their streams.’
+‘You likened yourself to a lion among the nations, yet you are like a monster in the seas; you thrash about in your rivers, muddying the waters with your feet and fouling their streams.’
 
 ## Ezekiel 32:3
 
 This is what the Sovereign Lord says:
 
-> ‘I will spread my net over you
-> with a multitude of peoples,
-> and they will haul you up in my net.
+> ‘I will spread my net over you > with a multitude of peoples, > and they will haul you up in my net.
 
 ## Ezekiel 32:4
 
-> I will throw you on the land
-> and cast you on the open field.
-> I will cause all the birds of the sky to settle on you,
-> and all the wild animals to gorge themselves on you.
+> I will throw you on the land > and cast you on the open field. > I will cause all the birds of the sky to settle on you, > and all the wild animals to gorge themselves on you.
 
 ## Ezekiel 32:5
 
-> I will lay your flesh on the mountains
-> and fill the valleys with your remains.
+> I will lay your flesh on the mountains > and fill the valleys with your remains.
 
 ## Ezekiel 32:6
 
-> I will drench the land with your flowing blood
-> as far as the mountains,
-> and the ravines will be filled with your flesh.
+> I will drench the land with your flowing blood > as far as the mountains, > and the ravines will be filled with your flesh.
 
 ## Ezekiel 32:7
 
-> When I extinguish you,
-> I will cover the heavens and darken their stars;
-> I will cover the sun with a cloud,
-> and the moon will not give its light.
+> When I extinguish you, > I will cover the heavens and darken their stars; > I will cover the sun with a cloud, > and the moon will not give its light.
 
 ## Ezekiel 32:8
 
-> All the shining lights in the heavens
-> I will darken over you,
-> and I will bring darkness over your land,’
-> declares the Sovereign Lord.
+> All the shining lights in the heavens > I will darken over you, > and I will bring darkness over your land,’ > declares the Sovereign Lord.
 
 ## Ezekiel 32:9
 
-> ‘I will trouble the hearts of many peoples
-> when I bring about your destruction among the nations,
-> into lands you have not known.
+> ‘I will trouble the hearts of many peoples > when I bring about your destruction among the nations, > into lands you have not known.
 
 ## Ezekiel 32:10
 
-> I will make many peoples appalled at you,
-> and their kings will shudder with horror because of you
-> when I brandish my sword before them.
-> On the day of your downfall,
-> each of them will tremble
-> every moment for his life.’
+> I will make many peoples appalled at you, > and their kings will shudder with horror because of you > when I brandish my sword before them. > On the day of your downfall, > each of them will tremble > every moment for his life.’
 
 ## Ezekiel 32:11
 
@@ -77,30 +52,19 @@ For this is what the Sovereign Lord says:
 
 ## Ezekiel 32:12
 
-> I will cause your hordes to fall
-> by the swords of mighty warriors,
-> the most ruthless of nations.
-> They will shatter the pride of Egypt,
-> and all her hordes will be overthrown.
+> I will cause your hordes to fall > by the swords of mighty warriors, > the most ruthless of nations. > They will shatter the pride of Egypt, > and all her hordes will be overthrown.
 
 ## Ezekiel 32:13
 
-> I will destroy all her cattle from beside many waters,
-> so that neither man’s foot
-> nor the hoofs of animals will muddy them anymore.
+> I will destroy all her cattle from beside many waters, > so that neither man’s foot > nor the hoofs of animals will muddy them anymore.
 
 ## Ezekiel 32:14
 
-> Then I will let her waters settle
-> and make her streams flow like oil,’
-> declares the Sovereign Lord.
+> Then I will let her waters settle > and make her streams flow like oil,’ > declares the Sovereign Lord.
 
 ## Ezekiel 32:15
 
-> ‘When I make the land of Egypt desolate
-> and strip it of all that fills it,
-> when I strike down all who dwell there,
-> then they will know that I am the Lord.’
+> ‘When I make the land of Egypt desolate > and strip it of all that fills it, > when I strike down all who dwell there, > then they will know that I am the Lord.’
 
 ## Ezekiel 32:16
 
@@ -132,11 +96,11 @@ The mighty leaders will speak of Egypt and her allies from within the realm of t
 
 ## Ezekiel 32:23
 
-Their graves are in the depths of the pit, and her army lies around her grave. All who had spread terror in the land of the living are slain, fallen by the sword.
+Their graves are deep within the pit, and her army lies around her grave. All who had spread terror in the land of the living have been slain, fallen by the sword.
 
 ## Ezekiel 32:24
 
-“Elam is there, with all her hordes around her grave. All of them are slain, fallen by the sword. All who had spread terror in the land of the living went down uncircumcised to the earth below. They bear their shame with those who go down to the pit.
+“Elam is there, with all her hordes around her grave. All of them are slain, fallen by the sword. All who had spread terror in the land of the living descended uncircumcised to the earth below. They bear their shame with those who go down to the pit.
 
 ## Ezekiel 32:25
 

@@ -92,11 +92,11 @@ So the man went away and began to proclaim in the Decapolis what great things Je
 
 ## Mark 5:21
 
-When Jesus had crossed over again by boat to the other side, a large crowd gathered around Him while He was by the sea.
+After Jesus had crossed over again by boat to the other side, a large crowd gathered around Him while He was by the sea.
 
 ## Mark 5:22
 
-Then one of the synagogue leaders, named Jairus, came, and when he saw Jesus, he fell at His feet.
+Then one of the synagogue leaders, named Jairus, approached, and when he saw Jesus, he fell at His feet.
 
 ## Mark 5:23
 
@@ -142,7 +142,7 @@ But Jesus kept looking around to see who had done it.
 
 ## Mark 5:33
 
-Then the woman, knowing what had happened to her, came and fell at His feet and, trembling with fear, told Him the whole truth.
+Then the woman, aware of what had happened to her, came and fell at His feet and, trembling with fear, told Him the whole truth.
 
 ## Mark 5:34
 
@@ -160,7 +160,7 @@ Overhearing what they said, Jesus told him, “Do not be afraid; just believe.�
 
 ## Mark 5:37
 
-He did not allow anyone to follow Him except Peter, James, and John the brother of James.
+He did not permit anyone to follow Him except Peter, James, and John the brother of James.
 
 ## Mark 5:38
 
@@ -172,7 +172,7 @@ He went in and said to them, “Why all this commotion and wailing? The child is
 
 ## Mark 5:40
 
-But they laughed at Him. After He put them all out, He took the child’s father and mother and the disciples who were with Him, and went in where the child was.
+But they laughed at Him. After He sent them all out, He took the child’s father and mother and the disciples who were with Him, and went in where the child was.
 
 ## Mark 5:41
 

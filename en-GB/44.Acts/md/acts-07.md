@@ -206,7 +206,7 @@ But it was Solomon who built a house for Him.
 
 ## Acts 7:48
 
-Yet, the Most High does not dwell in houses made by human hands. As the prophet says:
+Nevertheless, the Most High does not reside in structures made by human hands. As the prophet says:
 
 ## Acts 7:49
 

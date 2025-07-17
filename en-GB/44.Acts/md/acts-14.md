@@ -104,7 +104,7 @@ Paul and Barnabas appointed elders for them in each church, and with prayer and 
 
 ## Acts 14:24
 
-They traveled through Pisidia and came into Pamphylia.
+They travelled through Pisidia and came into Pamphylia.
 
 ## Acts 14:25
 

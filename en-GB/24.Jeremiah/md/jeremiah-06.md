@@ -70,13 +70,13 @@ This is what the Lord says: ‘Behold, an army is coming from the land of the no
 They are armed with bow and spear; they are cruel and show no mercy. Their voice roars like the sea as they ride on horses, arrayed as a man for battle against you, Daughter Zion.’
 
 ## Jeremiah 6:24
-We have heard reports about them, and our hands are weak. Anguish has gripped us, pain like that of a woman in labor.
+We have heard reports about them, and our hands are weak. Anguish has gripped us, pain like that of a woman in labour.
 
 ## Jeremiah 6:25
 Avoid going out to the fields or walking on the roads, for the enemy has a sword, and there is terror on every side.
 
 ## Jeremiah 6:26
-Put on sackcloth, my people, and roll in ashes; mourn with bitter wailing as for an only son, for suddenly the destroyer will come upon us.
+Dress in sackcloth and cover yourselves in ashes; lament with deep mourning as for an only son, for suddenly the destroyer will come upon us.
 
 ## Jeremiah 6:27
 ‘I have made you a tester of metals and my people the ore, that you may observe and examine their ways.
@@ -85,7 +85,7 @@ Put on sackcloth, my people, and roll in ashes; mourn with bitter wailing as for
 They are all stubbornly rebellious, going about as slanderers. They are bronze and iron; they all act corruptly.
 
 ## Jeremiah 6:29
-The bellows blow fiercely to burn away the lead with fire, but the refining goes on in vain; the wicked are not purged out.
+The bellows blow fiercely to remove the lead with fire, but the refining is in vain; the wicked are not removed.
 
 ## Jeremiah 6:30
 They are called rejected silver, because the Lord has turned away from them.”
