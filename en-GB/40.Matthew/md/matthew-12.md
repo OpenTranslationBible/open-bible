@@ -75,9 +75,9 @@ This was done to accomplish what had been spoken through the prophet Isaiah:
 ## Matthew 12:18
 
 > “Behold, My Servant whom I have chosen,
-> My Beloved in whom My soul delights;
-> I will put My Spirit upon Him,
-> and He will proclaim justice to the nations.
+> My beloved chosen one in whom My soul delights;
+> I have put my Spirit upon him,
+> he shall bring forth justice to the nations.
 
 ## Matthew 12:19
 

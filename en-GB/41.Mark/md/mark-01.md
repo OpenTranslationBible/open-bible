@@ -8,14 +8,14 @@ The beginning of the gospel about Jesus Christ, the Son of God,
 
 as it is written in the prophet Isaiah:
 
-> “Behold, I am sending My messenger ahead of You,
+> “Behold, I will send my messenger ahead of you,
 > who will prepare Your way;
 
 ## Mark 1:3
 
-> A voice of one calling in the wilderness,
-> ‘Prepare the way for the Lord,
-> make His paths straight!’”
+> A voice of one calling in the wilderness:
+> ‘Prepare the way for the Lord;
+> make straight in the desert a highway for our God’”
 
 ## Mark 1:4
 

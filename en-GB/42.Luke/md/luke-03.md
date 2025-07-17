@@ -16,16 +16,16 @@ He went into all the region around the Jordan, preaching a baptism of repentance
 
 As it is written in the book of the words of Isaiah the prophet:
 
-> “The voice of one calling in the wilderness,
-> ‘Prepare the way for the Lord,
-> make His paths straight.
+> “A voice of one calling out in the wilderness:
+> ‘Prepare the way for the Lord;
+> make straight in the desert a highway for our God.
 
 ## Luke 3:5
 
-> Every valley shall be filled,
+> Every valley shall be lifted up,
 > and every mountain and hill made low.
-> The crooked shall become straight,
-> and the rough ways smooth.
+> the uneven ground shall become level,
+> and the rugged terrain a plain.
 
 ## Luke 3:6
 

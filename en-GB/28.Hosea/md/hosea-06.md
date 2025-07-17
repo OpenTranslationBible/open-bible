@@ -34,7 +34,7 @@
 
 ## Hosea 6:6
 
-> For I desire loyalty rather than sacrifice,  
+> For I desire mercy rather than sacrifice,  
 > And the knowledge of God rather than burnt offerings.
 
 ## Hosea 6:7

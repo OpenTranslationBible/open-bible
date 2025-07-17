@@ -38,9 +38,9 @@
 
 ## Micah 7:6
 
-> For son disavows father,  
-> Daughter rises up against her mother,  
-> Daughter-in-law against her mother-in-law;  
+> To set a son against his father,  
+> a daughter against her mother,  
+> and daughter-in-law against her mother-in-law;  
 > A person’s enemies are the people of his own household.
 
 ## Micah 7:7

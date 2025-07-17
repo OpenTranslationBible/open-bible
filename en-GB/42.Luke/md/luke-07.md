@@ -114,8 +114,8 @@ But what did you go out to see? A prophet? Yes, I tell you, and even more than a
 
 This is the one about whom it is written:
 
-> ‘Behold, I am sending My messenger ahead of You,
-> who will prepare Your way before You.’
+> ‘Behold, I will send my messenger ahead of you,
+> who will prepare your way before you.’
 
 ## Luke 7:28
 

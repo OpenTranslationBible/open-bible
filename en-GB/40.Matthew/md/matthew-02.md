@@ -72,7 +72,7 @@ Then what was spoken through the prophet Jeremiah was fulfilled:
 
 ## Matthew 2:18
 
-“A voice was heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.”
+“A voice is heard in Ramah, weeping and great mourning, Rachel weeping for her children and refusing to be comforted, because they are no more.”
 
 ---
 

@@ -1,154 +1,156 @@
 {
-  "book": "Jeremiah",
-  "chapter": 3,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "The Lord says, “If a man divorces his wife and she departs from him to become another man's wife, should he return to her again? Would not the land be thoroughly defiled? Yet you have acted as a harlot with numerous lovers; would you return to me?” declares the Lord."
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "“Look up to the barren heights and consider: is there any place you have not been violated? You have waited by the roadsides for lovers, like a nomad in the desert, and you have polluted the land with your prostitution and wickedness."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "As a result, the showers have been withheld, and there has been no spring rain. You have the boldness of a prostitute; you refuse to feel shame."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": ["Have you not just called out to me: ‘My Father, you are the friend of my youth,"]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "will you be angry forever? Will your wrath persist to the end?’ This is what you say, but you continue to do all the evil you can.”"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "During the days of King Josiah, the Lord said to me, “Have you seen what faithless Israel has done? She has gone up on every high hill and under every spreading tree and committed adultery there."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "I thought, ‘After she has done all this, she will return to me,’ but she did not return, and her unfaithful sister Judah saw it."
-      ]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "I gave faithless Israel her certificate of divorce and sent her away because of her adulteries. Yet her unfaithful sister Judah was not afraid; she also went and committed adultery."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "Because of her casual immorality, she defiled the land and committed adultery with stone and wood."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Despite all this, her unfaithful sister Judah did not return to me with all her heart, but only in pretence,” declares the Lord."
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "And the Lord said to me, “Faithless Israel is more righteous than unfaithful Judah."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "Go and proclaim this message toward the north: ‘Return, faithless Israel,’ declares the Lord, ‘I will not remain angry with you, for I am gracious,’ declares the Lord, ‘I will not be angry forever."
-      ]
-    },
-    {
-      "verse": 13,
-      "text": [
-        "Only acknowledge your guilt— that you have rebelled against the Lord your God, scattered your favours to foreign gods under every spreading tree, and have not obeyed my voice,’ declares the Lord."
-      ]
-    },
-    {
-      "verse": 14,
-      "text": [
-        "“Return, faithless people,” declares the Lord, “for I am your master. I will take you—one from a city and two from a family—and bring you to Zion."
-      ]
-    },
-    {
-      "verse": 15,
-      "text": [
-        "Then I will give you shepherds after my own heart, who will guide you with knowledge and understanding."
-      ]
-    },
-    {
-      "verse": 16,
-      "text": [
-        "In those days, when you have multiplied and increased in the land,” declares the Lord, “they will no longer say, ‘The ark of the covenant of the Lord.’ It will not come to mind, nor will they remember it or miss it, nor will it be made again."
-      ]
-    },
-    {
-      "verse": 17,
-      "text": [
-        "At that time, Jerusalem will be called The Throne of the Lord, and all nations will gather in Jerusalem to honour the name of the Lord. They will no longer follow the stubbornness of their evil hearts."
-      ]
-    },
-    {
-      "verse": 18,
-      "text": [
-        "In those days the house of Judah will walk with the house of Israel, and together they will come from the land of the north to the land I gave your ancestors as an inheritance."
-      ]
-    },
-    {
-      "verse": 19,
-      "text": [
-        "“I said, ‘How gladly would I treat you as sons and give you a pleasant land, the most beautiful inheritance of any nation.’ I thought you would call me ‘Father’ and not turn away from following me."
-      ]
-    },
-    {
-      "verse": 20,
-      "text": [
-        "But like a woman unfaithful to her husband, so you, Israel, have been unfaithful to me,” declares the Lord."
-      ]
-    },
-    {
-      "verse": 21,
-      "text": [
-        "A voice is heard on the barren heights, the weeping and pleading of the people of Israel, because they have perverted their ways and have forgotten the Lord their God."
-      ]
-    },
-    {
-      "verse": 22,
-      "text": [
-        "“Return, faithless people; I will heal your backsliding.” “Yes, we will come to you, for you are the Lord our God."
-      ]
-    },
-    {
-      "verse": 23,
-      "text": [
-        "Surely the commotion on the hills and mountains is a deception; truly in the Lord our God is the salvation of Israel."
-      ]
-    },
-    {
-      "verse": 24,
-      "text": [
-        "From our youth, shameful gods have consumed the fruits of our ancestors’ labour—their flocks and herds, their sons and daughters."
-      ]
-    },
-    {
-      "verse": 25,
-      "text": [
-        "Let us lie down in our shame, and let our disgrace cover us. We have sinned against the Lord our God, both we and our ancestors; from our youth to this day we have not obeyed the voice of the Lord our God.”"
-      ]
-    }
-  ]
+    "book": "Jeremiah",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "The Lord says, “If a man divorces his wife and she departs from him to become another man's wife, should he return to her again? Would not the land be thoroughly defiled? Yet you have acted as a harlot with numerous lovers; would you return to me?” declares the Lord."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Look up to the barren heights and consider: is there any place you have not been violated? You have waited by the roadsides for lovers, like a nomad in the desert, and you have polluted the land with your prostitution and wickedness."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "As a result, the showers have been withheld, and there has been no spring rain. You have the boldness of a prostitute; you refuse to feel shame."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Have you not just called out to me: ‘My Father, you are the companion of my youth,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "will you be angry forever? Will your wrath persist to the end?’ This is what you say, but you continue to do all the evil you can.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "During the days of King Josiah, the Lord said to me, “Have you seen what faithless Israel has done? She has gone up on every high hill and under every spreading tree and committed adultery there."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "I thought, ‘After she has done all this, she will return to me,’ but she did not return, and her unfaithful sister Judah saw it."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "I gave faithless Israel her certificate of divorce and sent her away because of her adulteries. Yet her unfaithful sister Judah was not afraid; she also went and committed adultery."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Because of her casual immorality, she defiled the land and committed adultery with stone and wood."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Despite all this, her unfaithful sister Judah did not return to me with all her heart, but only in pretence,” declares the Lord."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "And the Lord said to me, “Faithless Israel is more righteous than unfaithful Judah."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Go and proclaim this message toward the north: ‘Return, faithless Israel,’ declares the Lord, ‘I will not remain angry with you, for I am gracious,’ declares the Lord, ‘I will not be angry forever."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Only acknowledge your guilt— that you have rebelled against the Lord your God, scattered your favours to foreign gods under every spreading tree, and have not obeyed my voice,’ declares the Lord."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "“Return, faithless people,” declares the Lord, “for I am your master. I will take you—one from a city and two from a family—and bring you to Zion."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Then I will give you shepherds after my own heart, who will guide you with knowledge and understanding."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "In those days, when you have multiplied and increased in the land,” declares the Lord, “they will no longer say, ‘The ark of the covenant of the Lord.’ It will not come to mind, nor will they remember it or miss it, nor will it be made again."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "At that time, Jerusalem will be called The Throne of the Lord, and all nations will gather in Jerusalem to honour the name of the Lord. They will no longer follow the stubbornness of their evil hearts."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "In those days the house of Judah will walk with the house of Israel, and together they will come from the land of the north to the land I gave your ancestors as an inheritance."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "“I said, ‘How gladly would I treat you as sons and give you a pleasant land, the most beautiful inheritance of any nation.’ I thought you would call me ‘Father’ and not turn away from following me."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "But just as a woman is unfaithful to her husband, so you, Israel, have been unfaithful to me,” declares the Lord."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "A voice is heard on the barren heights, the weeping and pleading of the people of Israel, because they have perverted their ways and have forgotten the Lord their God."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "“Return, faithless people; I will heal your backsliding.” “Yes, we will come to you, for you are the Lord our God."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Surely the commotion on the hills and mountains is a deception; truly in the Lord our God is the salvation of Israel."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "From our youth, shameful gods have consumed the fruits of our ancestors’ labour—their flocks and herds, their sons and daughters."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Let us lie down in our shame, and let our disgrace cover us. We have sinned against the Lord our God, both we and our ancestors; from our youth to this day we have not obeyed the voice of the Lord our God.”"
+            ]
+        }
+    ]
 }

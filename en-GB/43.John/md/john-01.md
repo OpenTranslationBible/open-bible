@@ -98,7 +98,7 @@ Eventually they said, “Who are you? Provide us with an answer to take back to 
 
 ## John 1:23
 
-John responded using the words of Isaiah the prophet, “I am the voice of one calling in the wilderness, ‘Prepare the way for the Lord.’”
+John responded using the words of Isaiah the prophet, “I am the voice of one calling out in the wilderness: ‘Prepare the way for the Lord’”
 
 ---
 

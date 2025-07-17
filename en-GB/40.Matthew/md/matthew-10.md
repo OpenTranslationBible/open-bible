@@ -156,7 +156,7 @@ But whoever denies me before others, I will deny before my Father in heaven.
 
 For I have come to
 
-> set a man against his father,
+> set a son against his father,
 > a daughter against her mother,
 > and a daughter-in-law against her mother-in-law;
 

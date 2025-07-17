@@ -1,102 +1,104 @@
 {
-  "book": "1 Samuel",
-  "chapter": 27,
-  "verses": [
-    {
-      "verse": 1,
-      "text": [
-        "Then David said to himself,",
-        "“Now I will perish one day by the hand of Saul.",
-        "There is nothing better for me than to escape to the land of the Philistines,",
-        "so that Saul will despair of searching for me any longer within the borders of Israel,",
-        "and I will escape from his hand.”"
-      ]
-    },
-    {
-      "verse": 2,
-      "text": [
-        "So David set out and went over, he and the six hundred men who were with him,",
-        "to Achish the son of Maoch, king of Gath."
-      ]
-    },
-    {
-      "verse": 3,
-      "text": [
-        "And David lived with Achish in Gath, he and his men, each with his household—",
-        "David with his two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel."
-      ]
-    },
-    {
-      "verse": 4,
-      "text": [
-        "Now when Saul was informed that David had fled to Gath, he no longer searched for him."
-      ]
-    },
-    {
-      "verse": 5,
-      "text": [
-        "Then David said to Achish,",
-        "“If now I have found favour in your sight,",
-        "let them give me a place in one of the country towns, so that I may live there.",
-        "For why should your servant live in the royal city with you?”"
-      ]
-    },
-    {
-      "verse": 6,
-      "text": [
-        "So Achish gave him Ziklag that day;",
-        "therefore Ziklag has belonged to the kings of Judah to this day."
-      ]
-    },
-    {
-      "verse": 7,
-      "text": [
-        "Now the time that David lived in the country of the Philistines was a year and four months."
-      ]
-    },
-    {
-      "text": ["---"]
-    },
-    {
-      "verse": 8,
-      "text": [
-        "Now David and his men went up and raided the Geshurites, the Girzites, and the Amalekites;",
-        "for they were the inhabitants of the land from ancient times,",
-        "as you come to Shur, even as far as the land of Egypt."
-      ]
-    },
-    {
-      "verse": 9,
-      "text": [
-        "And David attacked the land and did not leave a man or a woman alive,",
-        "but took the sheep, the cattle, the donkeys, the camels, and the clothing.",
-        "Then he returned and came to Achish."
-      ]
-    },
-    {
-      "verse": 10,
-      "text": [
-        "Now Achish would say, “Where have you carried out a raid today?”",
-        "And David would say, “Against the Negev of Judah,”",
-        "or “Against the Negev of the Jerahmeelites,”",
-        "or “Against the Negev of the Kenites.”"
-      ]
-    },
-    {
-      "verse": 11,
-      "text": [
-        "And David did not leave a man or a woman alive, to bring to Gath,",
-        "saying, “Otherwise they will tell about us, saying, ‘This is what David has done.’”",
-        "So David practiced this behaviour all the time he lived in the country of the Philistines."
-      ]
-    },
-    {
-      "verse": 12,
-      "text": [
-        "So Achish trusted David, saying,",
-        "“He has certainly made himself repulsive to his people Israel;",
-        "therefore he will be my servant forever.”"
-      ]
-    }
-  ]
+    "book": "1 Samuel",
+    "chapter": 27,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Then David said to himself,",
+                "“Now I will perish one day by the hand of Saul.",
+                "There is nothing better for me than to escape to the land of the Philistines,",
+                "so that Saul will despair of searching for me any longer within the borders of Israel,",
+                "and I will escape from his hand.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "So David set out and went over, he and the six hundred men who were with him,",
+                "to Achish the son of Maoch, king of Gath."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "And David lived with Achish in Gath, he and his men, each with his household—",
+                "David with his two wives, Ahinoam of Jezreel and Abigail the widow of Nabal of Carmel."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Now when Saul was informed that David had fled to Gath, he no longer searched for him."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then David said to Achish,",
+                "“If now I have found favour in your sight,",
+                "let them give me a place in one of the country towns, so that I may live there.",
+                "For why should your servant live in the royal city with you?”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "So Achish gave him Ziklag that day;",
+                "therefore Ziklag has belonged to the kings of Judah to this day."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Now the time that David lived in the country of the Philistines was a year and four months."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Now David and his men went up and raided the Geshurites, the Girzites, and the Amalekites;",
+                "for they were the inhabitants of the land from ancient times,",
+                "as you come to Shur, even as far as the land of Egypt."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "And David attacked the land and did not leave a man or a woman alive,",
+                "but took the sheep, the cattle, the donkeys, the camels, and the clothing.",
+                "Then he returned and came to Achish."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Now Achish would say, “Where have you carried out a raid today?”",
+                "And David would say, “Against the Negev of Judah,”",
+                "or “Against the Negev of the Jerahmeelites,”",
+                "or “Against the Negev of the Kenites.”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "And David did not leave a man or a woman alive, to bring to Gath,",
+                "saying, “Otherwise they will tell about us, saying, ‘This is what David has done.’”",
+                "So David practiced this behaviour all the time he lived in the country of the Philistines."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "So Achish trusted David, saying,",
+                "“He has certainly made himself repulsive to his people Israel;",
+                "therefore he will be my servant forever.”"
+            ]
+        }
+    ]
 }

@@ -1,11 +1,11 @@
 {
-    "book": "Proverbs",
-    "chapter": 13,
+    "book": "",
+    "chapter": 0,
     "verses": [
         {
             "verse": 1,
             "text": [
-                "A wise son heeds his father’s discipline, but a scoffer does not listen to rebuke."
+                "A wise son listens to his father’s guidance, but a scoffer does not pay attention to correction."
             ]
         },
         {
@@ -35,7 +35,7 @@
         {
             "verse": 6,
             "text": [
-                "Righteousness guards the person of integrity, but wickedness overthrows the sinner."
+                "Righteousness protects the person of integrity, but wickedness overthrows the sinner."
             ]
         },
         {
@@ -53,7 +53,7 @@
         {
             "verse": 9,
             "text": [
-                "The light of the righteous shines brightly, but the lamp of the wicked is extinguished."
+                "The light of the righteous shines brightly, but the lamp of the wicked is put out."
             ]
         },
         {
@@ -101,7 +101,7 @@
         {
             "verse": 17,
             "text": [
-                "A wicked messenger falls into trouble, but a trustworthy envoy brings healing."
+                "A wicked messenger encounters misfortune, but a trustworthy envoy brings healing."
             ]
         },
         {
@@ -119,7 +119,7 @@
         {
             "verse": 20,
             "text": [
-                "Walk with the wise and become wise, for a companion of fools suffers harm."
+                "Keep company with the wise and become wise, for a companion of fools suffers harm."
             ]
         },
         {
@@ -149,7 +149,7 @@
         {
             "verse": 25,
             "text": [
-                "The righteous eat to their heart's content, but the stomach of the wicked goes hungry."
+                "The righteous eat to their heart's content, but the stomach of the wicked remains hungry."
             ]
         }
     ]

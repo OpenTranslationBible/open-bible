@@ -14,7 +14,7 @@ The tempter approached him and said, “If you are the Son of God, command these
 
 ## Matthew 4:4
 
-But Jesus replied, “It is written: ‘Man shall not live on bread alone, but on every word that proceeds from the mouth of God.’”
+But Jesus replied, “It is written: ‘Man does not live by bread alone, but by every word that proceeds from the mouth of the Lord.’”
 
 ## Matthew 4:5
 
@@ -38,7 +38,7 @@ He said to him, “I will give you all these things if you will fall down and wo
 
 ## Matthew 4:10
 
-Then Jesus said to him, “Depart from me, Satan! For it is written: ‘Worship the Lord your God, and serve him only.’”
+Then Jesus said to him, “Depart from me, Satan! For it is written: ‘Worship the Lord your God, and serve Him only.’”
 
 ## Matthew 4:11
 

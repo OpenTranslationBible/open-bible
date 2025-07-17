@@ -10,7 +10,7 @@ and proclaiming, “Repent, for the kingdom of heaven is near.”
 
 ## Matthew 3:3
 
-This is the one mentioned by the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make his paths straight.’”
+This is the one mentioned by the prophet Isaiah: “A voice of one calling in the wilderness, ‘Prepare the way for the Lord, make straight in the desert a highway for our God.’”
 
 ## Matthew 3:4
 

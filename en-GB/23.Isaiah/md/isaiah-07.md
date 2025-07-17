@@ -54,7 +54,7 @@ Then Isaiah said, “Hear now, O house of David! Is it not enough to try the pat
 
 ## Isaiah 7:14
 
-Therefore the Lord himself will provide you with a sign: Behold, the young woman shall conceive and bear a son, and shall call his name Immanuel.
+Therefore the Lord himself will provide you with a sign: Behold, the young virgin shall conceive and bear a son, and shall call his name Immanuel.
 
 ## Isaiah 7:15
 
