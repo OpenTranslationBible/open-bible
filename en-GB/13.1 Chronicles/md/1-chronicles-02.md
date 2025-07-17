@@ -296,11 +296,11 @@ Obed fathered Jehu, and Jehu fathered Azariah,
 
 ## 1 Chronicles 2:39
 
-Azariah fathered Helez, and Helez fathered Eleasah,
+Azariah became the father of Helez, and Helez became the father of Eleasah,
 
 ## 1 Chronicles 2:40
 
-Eleasah fathered Sismai, and Sismai fathered Shallum,
+Eleasah became the father of Sismai, and Sismai became the father of Shallum,
 
 ## 1 Chronicles 2:41
 

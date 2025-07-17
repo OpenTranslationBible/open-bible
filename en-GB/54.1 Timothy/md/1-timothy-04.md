@@ -18,7 +18,7 @@ For everything God has created is good, and nothing is to be refused if it is re
 
 ## 1 Timothy 4:5
 
-for it is made holy by the word of God and prayer.
+for it is sanctified by God's word and prayer.
 
 ## 1 Timothy 4:6
 

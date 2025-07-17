@@ -58,7 +58,7 @@ and wrap you up tightly like a ball, to be thrown into a vast country; there you
 I will remove you from your office, and you will be pulled down from your position.
 
 ## Isaiah 22:20
-In that day, I will summon my servant, Eliakim son of Hilkiah.
+On that day, I will call for my servant, Eliakim son of Hilkiah.
 
 ## Isaiah 22:21
 I will clothe him with your robe and fasten your sash securely around him, and I will hand your authority over to him. He will be a father to the inhabitants of Jerusalem and to the house of Judah.

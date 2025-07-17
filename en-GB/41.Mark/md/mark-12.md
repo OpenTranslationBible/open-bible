@@ -110,7 +110,7 @@ Now concerning the rising of the dead—have you not read in the Book of Moses, 
 
 ## Mark 12:27
 
-He is not the God of the dead, but of the living. You are greatly mistaken!”
+He is the God of the living, not of the dead. You are indeed mistaken!”
 
 ---
 
@@ -120,11 +120,11 @@ One of the teachers of the law came and heard them debating. Noticing that Jesus
 
 ## Mark 12:29
 
-“The most important one,” answered Jesus, “is this: ‘Hear, O Israel: The Lord our God, the Lord is one.
+“The foremost one,” answered Jesus, “is this: ‘Hear, O Israel: The Lord our God is one Lord.
 
 ## Mark 12:30
 
-Love the Lord your God with all your heart and with all your soul and with all your mind and with all your strength.’
+Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’
 
 ## Mark 12:31
 
@@ -136,11 +136,11 @@ The second is this: ‘Love your neighbour as yourself.’ There is no commandme
 
 ## Mark 12:33
 
-To love him with all your heart, with all your understanding and with all your strength, and to love your neighbour as yourself is more important than all burnt offerings and sacrifices.”
+To love him with all your heart, with all your understanding, and with all your strength, and to love your neighbour as yourself is more important than all burnt offerings and sacrifices.”
 
 ## Mark 12:34
 
-When Jesus saw that he had answered wisely, he said to him, “You are not far from the kingdom of God.” And from then on, no one dared ask him any more questions.
+When Jesus saw that he had answered wisely, he said to him, “You are not far from the kingdom of God.” And from that time on, no one dared ask him any more questions.
 
 ---
 
@@ -187,4 +187,4 @@ Calling his disciples to him, Jesus said, “Truly I tell you, this poor widow h
 
 ## Mark 12:44
 
-They all gave out of their wealth; but she, out of her poverty, put in everything—all she had to live on.”
+They all gave out of their abundance; but she, out of her poverty, put in everything—all she had to live on.”

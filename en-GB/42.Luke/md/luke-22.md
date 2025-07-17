@@ -180,7 +180,7 @@ He withdrew a short distance beyond them, knelt down, and prayed,
 
 ## Luke 22:42
 
-“Father, if you are willing, remove this cup from me; nevertheless, not my will, but yours be done.”
+“Father, if it is your will, take this cup from me; yet not my will, but yours be done.”
 
 ## Luke 22:43
 
@@ -196,7 +196,7 @@ When He rose from prayer and went back to the disciples, He found them asleep, o
 
 ## Luke 22:46
 
-“Why are you sleeping?” He asked them. “Get up and pray so that you will not fall into temptation.”
+“Why are you sleeping?” He asked them. “Rise and pray so that you will not fall into temptation.”
 
 ---
 
@@ -206,7 +206,7 @@ While He was still speaking, a crowd came up, and the man called Judas, one of t
 
 ## Luke 22:48
 
-but Jesus asked him, “Judas, are you handing over the Son of Man with a kiss?”
+but Jesus asked him, “Judas, are you betraying the Son of Man with a kiss?”
 
 ## Luke 22:49
 
@@ -222,11 +222,11 @@ But Jesus responded, “No more of this!” And He touched the man’s ear and h
 
 ## Luke 22:52
 
-Then Jesus said to the chief priests, the officers of the temple guard, and the elders who had come for Him, “Am I leading a rebellion, that you have come with swords and clubs?
+Then Jesus said to the chief priests, the officers of the temple guard, and the elders who had come for Him, “Have you come out with swords and clubs as if I were leading a rebellion?
 
 ## Luke 22:53
 
-Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour—when darkness reigns.”
+Every day I was with you in the temple courts, and you did not lay a hand on me. But this is your hour —when darkness has its way.”
 
 ---
 

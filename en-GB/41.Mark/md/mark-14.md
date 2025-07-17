@@ -151,7 +151,7 @@ He took Peter, James, and John with him, and he began to feel deeply distressed 
 
 ## Mark 14:34
 
-“My soul is overwhelmed with sorrow to the point of death,” he said to them. “Stay here and keep watch.”
+“My soul is deeply grieved, even to the point of death,” he said to them. “Stay here and keep watch.”
 
 ## Mark 14:35
 
@@ -175,7 +175,7 @@ Once more he went away and prayed in the same manner.
 
 ## Mark 14:40
 
-When he came back, he again found them sleeping, because their eyes were heavy. They did not know what to say to him.
+When he came back, he again found them sleeping, because their eyes were heavy. They were at a loss for words.
 
 ## Mark 14:41
 
@@ -237,7 +237,7 @@ They took Jesus to the high priest, and all the chief priests, the elders, and t
 
 ## Mark 14:54
 
-Peter followed him at a distance, right into the courtyard of the high priest. There he sat with the guards and warmed himself at the fire.
+Peter followed him at a distance, right into the courtyard of the high priest. There he sat with the guards and warmed himself by the fire.
 
 ---
 
@@ -247,7 +247,7 @@ The chief priests and the whole Sanhedrin were seeking evidence against Jesus to
 
 ## Mark 14:56
 
-Many testified falsely against him, but their statements did not agree.
+Many gave false testimony against him, but their statements did not agree.
 
 ## Mark 14:57
 

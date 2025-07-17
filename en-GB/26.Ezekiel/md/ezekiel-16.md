@@ -136,7 +136,7 @@ Then my wrath against you will subside, and my jealousy will turn away from you;
 You are the daughter of your mother, who loathed her husband and children; and you are the sister of your sisters, who loathed their husbands and children. Your mother was a Hittite and your father an Amorite.
 
 ## Ezekiel 16:46
-Your older sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom.
+Your elder sister was Samaria, who lived to the north of you with her daughters; and your younger sister, who lived to the south of you with her daughters, was Sodom.
 
 ## Ezekiel 16:47
 You not only followed their ways and committed their abominations, but in all your ways you soon became more depraved than they.
@@ -160,7 +160,7 @@ Bear your shame, for you have provided some justification for your sisters. Beca
 “‘Nevertheless, I will restore the fortunes of Sodom and her daughters and of Samaria and her daughters, and your fortunes along with them,
 
 ## Ezekiel 16:54
-so that you may bear your disgrace and be ashamed of all you have done in giving them comfort.
+so that you may bear your disgrace and be ashamed of all you have done in offering them solace.
 
 ## Ezekiel 16:55
 And your sisters, Sodom with her daughters and Samaria with her daughters, will return to their former state; and you and your daughters will return to your former state.
@@ -178,10 +178,10 @@ You will bear the consequences of your lewdness and your abominable practices, d
 “‘This is what the Sovereign Lord says: I will deal with you according to your actions, because you have despised my oath by breaking the covenant.
 
 ## Ezekiel 16:60
-Yet I will remember the covenant I made with you in the days of your youth, and I will establish an everlasting covenant with you.
+Yet I will remember the covenant I made with you in your youth, and I will establish an everlasting covenant with you.
 
 ## Ezekiel 16:61
-Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not on the basis of my covenant with you.
+Then you will remember your ways and be ashamed when you receive your sisters, both those who are older than you and those who are younger. I will give them to you as daughters, but not because of my covenant with you.
 
 ## Ezekiel 16:62
 So I will establish my covenant with you, and you will know that I am the Lord.

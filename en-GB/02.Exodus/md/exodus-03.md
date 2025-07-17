@@ -54,7 +54,7 @@ Then Moses said to God, “Suppose I go to the Israelites and say to them, ‘Th
 
 ## Exodus 3:14
 
-God replied to Moses, “I AM WHO I AM. This is what you are to say to the Israelites: ‘I AM has sent me to you.’”
+God said to Moses, “I AM WHO I AM. This is what you are to tell the Israelites: ‘I AM has sent me to you.’”
 
 ## Exodus 3:15
 

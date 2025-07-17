@@ -218,19 +218,19 @@ He has shown strength with his arm; he has scattered those who are proud in thei
 
 ## Luke 1:52
 
-He has brought down rulers from their thrones but has lifted up the humble.
+He has deposed the mighty from their thrones and has exalted the humble.
 
 ## Luke 1:53
 
-He has filled the hungry with good things but has sent the rich away empty.
+He has satisfied the hungry with good things and sent the rich away empty-handed.
 
 ## Luke 1:54
 
-He has helped his servant Israel, remembering to be merciful
+He has come to the aid of his servant Israel, remembering his mercy
 
 ## Luke 1:55
 
-to Abraham and his descendants forever, just as he promised our ancestors.”
+to Abraham and his descendants forever, just as he promised our forefathers.”
 
 ---
 
@@ -254,11 +254,11 @@ On the eighth day they came to circumcise the child, and they were intending to 
 
 ## Luke 1:60
 
-but his mother spoke up and said, “No! He is to be called John.”
+but his mother responded, “No! He is to be called John.”
 
 ## Luke 1:61
 
-They said to her, “There is no one among your relatives who has that name.”
+They said to her, “None of your relatives has that name.”
 
 ## Luke 1:62
 
@@ -278,7 +278,7 @@ All the neighbours were filled with awe, and throughout the hill country of Jude
 
 ## Luke 1:66
 
-Everyone who heard this wondered about it, asking, “What then is this child going to be?” For the Lord’s hand was with him.
+Everyone who heard this wondered about it, asking, “What then is this child destined to be?” For the Lord’s hand was with him.
 
 ---
 

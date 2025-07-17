@@ -67,7 +67,7 @@ then My covenant with David My servant—and My covenant with the Levites who ar
 I will make the descendants of David My servant and the Levites who minister before Me as numerous as the stars in the sky and as immeasurable as the sand on the seashore.’”
 
 ## Jeremiah 33:23
-The word of the Lord came to Jeremiah, saying,
+The word from the Lord came to Jeremiah, saying,
 
 ## Jeremiah 33:24
 “Have you not noticed what these people are saying, ‘The Lord has rejected the two families He chose’? So they despise My people and no longer regard them as a nation.

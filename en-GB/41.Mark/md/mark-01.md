@@ -109,7 +109,7 @@ Just then a man in their synagogue who was possessed by an unclean spirit cried 
 
 ## Mark 1:24
 
-“What do you want with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
+“What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
 
 ## Mark 1:25
 
@@ -163,7 +163,7 @@ Very early in the morning, while it was still dark, Jesus got up, left the house
 
 ## Mark 1:36
 
-Simon and his companions searched for him,
+Simon and his companions went looking for him,
 
 ## Mark 1:37
 

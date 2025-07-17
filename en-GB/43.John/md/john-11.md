@@ -108,11 +108,11 @@ Jesus said to her, “I am the resurrection and the life. Whoever believes in Me
 
 ## John 11:26
 
-and whoever lives by believing in Me will never die. Do you believe this?”
+and whoever lives by having faith in Me will never truly die. Do you believe this?”
 
 ## John 11:27
 
-“Yes, Lord,” she replied, “I believe that You are the Messiah, the Son of God, who is to come into the world.”
+“Yes, Lord,” she replied, “I believe that You are the Messiah, the Son of God, who was destined to come into the world.”
 
 ---
 
@@ -210,7 +210,7 @@ If we allow Him to continue, everyone will believe in Him, and then the Romans w
 
 ## John 11:49
 
-Then one of them, named Caiaphas, who was high priest that year, spoke up, “You know nothing at all!
+Then one of them, named Caiaphas, who was high priest that year, spoke up, “You are unaware of what is necessary!
 
 ## John 11:50
 
@@ -222,7 +222,7 @@ He did not say this on his own, but as high priest that year he prophesied that 
 
 ## John 11:52
 
-and not only for that nation but also for the scattered children of God, to bring them together and make them one.
+and not only for that nation but also for the scattered children of God, to bring them together and unite them as one.
 
 ## John 11:53
 

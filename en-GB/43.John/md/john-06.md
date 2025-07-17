@@ -244,7 +244,7 @@ Just as the living Father sent Me and I live because of the Father, so the one w
 
 ## John 6:58
 
-This is the bread that came down from heaven. Your ancestors ate manna and died, but whoever feeds on this bread will live forever.”
+This is the bread that has come down from heaven. Your ancestors ate manna and died, but whoever feeds on this bread will live forever.”
 
 ## John 6:59
 
@@ -262,7 +262,7 @@ Aware that His disciples were murmuring about this, Jesus said to them, “Does 
 
 ## John 6:62
 
-Then what if you see the Son of Man ascend to where He was before?
+What if you were to see the Son of Man ascend to where He was before?
 
 ## John 6:63
 

@@ -151,16 +151,16 @@ An uncle, a cousin, or any close relative in their clan may redeem them. Or if t
 They and their buyer are to calculate the time from the year they sold themselves up to the Year of Jubilee. The price for their release is to be based on the rate paid to a hired worker for that number of years.
 
 ## Leviticus 25:51
-If many years remain, they must pay for their redemption a larger share of the price paid for them.
+If there are many years remaining, they must pay a larger portion of the price for their redemption.
 
 ## Leviticus 25:52
-If only a few years remain until the Year of Jubilee, they are to compute that and pay for their redemption accordingly.
+If only a few years are left until the Year of Jubilee, they are to calculate that and pay for their redemption accordingly.
 
 ## Leviticus 25:53
 They are to be treated as workers hired from year to year; you must ensure that those to whom they owe service do not rule over them with harshness.
 
 ## Leviticus 25:54
-“‘Even if someone is not redeemed in any of these ways, they and their children are to be released in the Year of Jubilee,
+“‘Even if someone is not redeemed in these ways, they and their children are to be released in the Year of Jubilee,
 
 ## Leviticus 25:55
 for the Israelites are my servants. They are my servants, whom I brought out of Egypt. I am the Lord your God.

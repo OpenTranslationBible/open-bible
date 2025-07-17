@@ -120,7 +120,7 @@ So Jesus said, “When the Father has lifted up the Son of Man, then you will kn
 
 ## John 8:29
 
-The one who sent Me is with Me; He has not left Me alone, for I always do what pleases Him.”
+The one who sent Me is with Me; He has not left Me alone, for I always do what is pleasing to Him.”
 
 ## John 8:30
 
@@ -176,7 +176,7 @@ You are following the ways of your own father.” “We are not illegitimate chi
 
 ## John 8:42
 
-Jesus said to them, “If God were your Father, you would love Me, for I have come here from God. I have not come on My own; God sent Me.
+Jesus said to them, “If God were your Father, you would love Me, for I have come from God. I have not come on My own; God sent Me.
 
 ## John 8:43
 
@@ -206,7 +206,7 @@ The Jews answered Him, “Aren’t we right in saying that you are a Samaritan a
 
 ## John 8:49
 
-“I am not possessed by a demon,” said Jesus, “but I honour My Father and you dishonour Me.
+“I am not under the influence of a demon,” said Jesus, “but I honour My Father and you dishonour Me.
 
 ## John 8:50
 

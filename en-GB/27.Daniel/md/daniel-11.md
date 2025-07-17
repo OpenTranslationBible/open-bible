@@ -103,34 +103,34 @@ The wise among the people will impart knowledge to many, though for a time they 
 When they fall, they will receive some assistance, and many who are not sincere will join them.
 
 ## Daniel 11:35
-Some of the wise will stumble, so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time.
+Some of the wise will falter, so that they may be refined, purified, and made spotless until the time of the end, for it will still come at the appointed time.
 
 ## Daniel 11:36
 The king will act according to his own desires. He will exalt and magnify himself above every god and will say unheard-of things against the God of gods. He will be successful until the time of wrath is completed, for what has been determined must take place.
 
 ## Daniel 11:37
-He will show no regard for the gods of his ancestors or for the one desired by women, nor will he regard any god, but will exalt himself above them all.
+He will show no regard for the deities of his ancestors or for the one cherished by women, nor will he regard any god, but will exalt himself above them all.
 
 ## Daniel 11:38
-Instead of them, he will honour a god of fortresses; a god unknown to his ancestors he will honour with gold and silver, with precious stones and costly gifts.
+Instead of them, he will honour a god of fortresses; a deity unknown to his ancestors he will honour with gold and silver, with precious stones and costly gifts.
 
 ## Daniel 11:39
-He will attack the mightiest fortresses with the help of a foreign god and will greatly honour those who acknowledge him. He will make them rulers over many people and will distribute the land at a price.
+He will attack the mightiest fortresses with the help of a foreign god and will greatly honour those who acknowledge him. He will make them rulers over many people and will distribute the land at a cost.
 
 ## Daniel 11:40
 At the time of the end, the king of the South will engage him in battle, and the king of the North will storm out against him with chariots and cavalry and a great fleet of ships. He will invade many countries and sweep through them like a flood.
 
 ## Daniel 11:41
-He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab, and the leaders of Ammon will be delivered from his hand.
+He will also invade the Beautiful Land. Many countries will fall, but Edom, Moab, and the leaders of Ammon will escape his grasp.
 
 ## Daniel 11:42
 He will extend his power over many countries; Egypt will not escape.
 
 ## Daniel 11:43
-He will gain control of the treasures of gold and silver and all the riches of Egypt, with the Libyans and Cushites in submission.
+He will gain control of the treasures of gold and silver and all the riches of Egypt, with the Libyans and Cushites following in submission.
 
 ## Daniel 11:44
 But reports from the east and the north will alarm him, and he will set out in a great rage to destroy and annihilate many.
 
 ## Daniel 11:45
-He will pitch his royal tents between the seas at the beautiful holy mountain. Yet he will come to his end, and no one will help him.
+He will pitch his royal tents between the seas at the beautiful holy mountain. Yet he will come to his end, and no one will assist him.

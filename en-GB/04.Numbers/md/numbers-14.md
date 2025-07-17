@@ -94,7 +94,7 @@ None of you will enter the land I swore to make your home, except for Caleb, son
 As for your children whom you said would be taken as plunder, I will bring them in to enjoy the land you have rejected.
 
 ## Numbers 14:32
-But as for you, your bodies will fall in this wilderness.
+However, your bodies will meet their end in this wilderness.
 
 ## Numbers 14:33
 Your children will be shepherds here for forty years, enduring the consequences of your unfaithfulness, until the last of your bodies lies in the wilderness.
@@ -124,10 +124,10 @@ Early the next morning they set out for the highest point in the hill country, s
 But Moses said, “Why are you going against the Lord’s command? This will not succeed!
 
 ## Numbers 14:42
-Do not go up, because the Lord is not with you. You will be defeated by your enemies,
+Do not proceed, for the Lord is not with you. You will face defeat at the hands of your enemies,
 
 ## Numbers 14:43
-for the Amalekites and the Canaanites will face you there. Because you have turned away from the Lord, He will not be with you, and you will fall by the sword.”
+for the Amalekites and the Canaanites will confront you there. Since you have turned away from the Lord, He will not support you, and you will fall by the sword.”
 
 ## Numbers 14:44
 Nevertheless, in their presumption they went up towards the highest point in the hill country, though neither Moses nor the ark of the Lord’s covenant departed from the camp.

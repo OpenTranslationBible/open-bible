@@ -14,7 +14,7 @@ and Basemath, the daughter of Ishmael the sister of Nebaioth.
 
 ## Genesis 36:4
 
-Adah gave birth to Eliphaz for Esau, and Basemath gave birth to Reuel.
+Adah bore Eliphaz to Esau, Basemath bore Reuel.
 
 ## Genesis 36:5
 
