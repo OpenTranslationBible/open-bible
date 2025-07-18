@@ -1,4 +1,4 @@
-> # Ezra Chapter 2
+# Ezra Chapter 2
 
 ## Ezra 2:1
 

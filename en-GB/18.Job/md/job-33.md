@@ -1,4 +1,4 @@
-> # Job Chapter 33
+# Job Chapter 33
 
 ## Job 33:1
 

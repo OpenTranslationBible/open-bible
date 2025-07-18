@@ -164,7 +164,7 @@ They told him, “Jesus of Nazareth is passing by.”
 
 ## Luke 18:38
 
-He called out, “Jesus, Son of David, have mercy on me!”
+He called out, “Jesus, Son of David, please have mercy on me!”
 
 ## Luke 18:39
 

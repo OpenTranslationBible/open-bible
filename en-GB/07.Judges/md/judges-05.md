@@ -1,4 +1,4 @@
-> # Judges Chapter 5
+# Judges Chapter 5
 
 ## Judges 5:1
 

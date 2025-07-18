@@ -124,19 +124,19 @@ One of the teachers of the law came and heard them debating. Noticing that Jesus
 
 ## Mark 12:30
 
-Love the Lord your God with all your heart, with all your soul, with all your mind, and with all your strength.’
+Love the Lord your God with all of your heart, with all of your soul, with all of your mind, and with all of your strength.’
 
 ## Mark 12:31
 
-The second is this: ‘Love your neighbour as yourself.’ There is no commandment greater than these.”
+The second is: ‘Love your neighbour as yourself.’ No other commandments are greater than these.”
 
 ## Mark 12:32
 
-“Well said, teacher,” the man replied. “You are right in saying that God is one and there is no other but him.
+“Well said, teacher,” the man agreed. “For you are indeed right to say that God is one and there is no other but him.
 
 ## Mark 12:33
 
-To love him with all your heart, with all your understanding, and with all your strength, and to love your neighbour as yourself is more important than all burnt offerings and sacrifices.”
+You are right to say love him with all your heart, with all your understanding, and with all your strength, and you are right to say loving your neighbour as yourself is more important than all burnt offerings and sacrifices.”
 
 ## Mark 12:34
 
@@ -146,7 +146,7 @@ When Jesus saw that he had answered wisely, he said to him, “You are not far f
 
 ## Mark 12:35
 
-While Jesus was teaching in the temple courts, he asked, “Why do the teachers of the law say that the Messiah is the son of David?
+While he was teaching in the temple courts, Jesus asked, “Why is it the teachers of the law say that the Messiah is the son of David?
 
 ## Mark 12:36
 
@@ -159,7 +159,7 @@ David himself, speaking by the Holy Spirit, declared:
 
 ## Mark 12:37
 
-David himself calls him ‘Lord.’ How then can he be his son?” The large crowd listened to him with delight.
+If David himself calls him ‘Lord.’ How then can he be his son?” The large crowd listened to him delighted.
 
 ## Mark 12:38
 

@@ -118,7 +118,7 @@ and whoever lives by having faith in Me will never truly die. Do you believe thi
 
 ## John 11:28
 
-After she had said this, she went back and called her sister Mary aside. “The Teacher is here,” she said, “and is asking for you.”
+After saying this, she went back and called her sister Mary aside. “The Teacher is here,” she said, “and is asking for you.”
 
 ## John 11:29
 
@@ -140,11 +140,11 @@ When Mary reached the place where Jesus was and saw Him, she fell at His feet. �
 
 ## John 11:33
 
-When Jesus saw her weeping, and the Jews who had come along with her also weeping, He was deeply moved in spirit and troubled.
+When Jesus saw her weeping, and the Jews who had come along with her also weeping, He was deeply moved in spirit and distressed.
 
 ## John 11:34
 
-“Where have you laid him?” He asked. “Come and see, Lord,” they replied.
+“Where have you placed him?” He asked. “Come and see, Lord,” they replied.
 
 ## John 11:35
 
@@ -162,7 +162,7 @@ But some of them said, “Could not He who opened the eyes of the blind man have
 
 ## John 11:38
 
-Jesus, once more deeply moved, came to the tomb. It was a cave with a stone laid across the entrance.
+Jesus, once again deeply moved, came to the tomb. It was a cave with a stone laid across the entrance.
 
 ## John 11:39
 
@@ -170,19 +170,19 @@ Jesus, once more deeply moved, came to the tomb. It was a cave with a stone laid
 
 ## John 11:40
 
-Then Jesus said, “Did I not tell you that if you believe, you will see the glory of God?”
+Then Jesus said, “Did I not tell you that if you have faith, you will see the glory of God?”
 
 ## John 11:41
 
-So they took away the stone. Then Jesus looked up and said, “Father, I thank You that You have heard Me.
+Then they took away the stone. At this, Jesus looked up and said, “Father, I thank You that You have heard Me.
 
 ## John 11:42
 
-I knew that You always hear Me, but I said this for the benefit of the people standing here, that they may believe that You sent Me.”
+I know that You always hear Me, but I say this for the benefit of the people standing here, that they may believe that You sent Me.”
 
 ## John 11:43
 
-When He had said this, Jesus called in a loud voice, “Lazarus, come out!”
+After saying this, Jesus called in a loud voice, “Lazarus, come out!”
 
 ## John 11:44
 
@@ -192,7 +192,7 @@ The man who had died came out, his hands and feet wrapped with strips of linen, 
 
 ## John 11:45
 
-Therefore many of the Jews who had come to visit Mary, and had seen what Jesus did, believed in Him.
+As a result, many of the Jews who had come to visit Mary, and had seen what Jesus did, believed in Him.
 
 ## John 11:46
 
@@ -218,7 +218,7 @@ You do not understand that it is better for you that one man die for the people 
 
 ## John 11:51
 
-He did not say this on his own, but as high priest that year he prophesied that Jesus would die for the Jewish nation,
+He did not say this on his own, in fact, as high priest he had already prophesied that year that Jesus would die for the Jewish nation,
 
 ## John 11:52
 
@@ -232,7 +232,7 @@ So from that day on they plotted to end His life.
 
 ## John 11:54
 
-Therefore Jesus no longer moved about publicly among the people of Judea. Instead, He withdrew to a region near the wilderness, to a village called Ephraim, where He stayed with His disciples.
+Consequently, Jesus no longer moved about publicly among the people of Judea. Instead, He withdrew to a region near the wilderness, to a village called Ephraim, where He stayed with His disciples.
 
 ## John 11:55
 

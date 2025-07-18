@@ -226,7 +226,7 @@ He has satisfied the hungry with good things and sent the rich away empty-handed
 
 ## Luke 1:54
 
-He has come to the aid of his servant Israel, remembering his mercy
+He has come to the aid of his servant Israel, and remembered his mercy
 
 ## Luke 1:55
 
@@ -258,7 +258,7 @@ but his mother responded, “No! He is to be called John.”
 
 ## Luke 1:61
 
-They said to her, “None of your relatives has that name.”
+They said to her, “But none of your relatives have that name.”
 
 ## Luke 1:62
 

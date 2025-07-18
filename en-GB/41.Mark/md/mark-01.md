@@ -109,7 +109,7 @@ Just then a man in their synagogue who was possessed by an unclean spirit cried 
 
 ## Mark 1:24
 
-“What have you to do with us, Jesus of Nazareth? Have you come to destroy us? I know who you are—the Holy One of God!”
+“What do you have to do with us, Jesus of Nazareth? Have you come to destroy us? I know you —you are the Holy One of God!”
 
 ## Mark 1:25
 

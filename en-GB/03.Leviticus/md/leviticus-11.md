@@ -118,7 +118,7 @@ Anyone who picks up their carcasses must wash their clothes, and they will be un
 
 ## Leviticus 11:30
 
-the gecko, the crocodile, the lizard, the sand reptile, and the chameleon.
+so too the gecko, the monitor lizard, the common lizard, the skink, and the chameleon.
 
 ## Leviticus 11:31
 

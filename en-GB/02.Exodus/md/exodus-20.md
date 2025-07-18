@@ -62,7 +62,7 @@ For in six days the Lord created the heavens and the earth, the sea, and everyth
 
 ## Exodus 20:16
 
-“You shall not bear false witness against your neighbour.
+“You shall not bear false witness against any neighbour.
 
 ## Exodus 20:17
 

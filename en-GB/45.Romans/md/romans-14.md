@@ -1,4 +1,4 @@
-## Romans Chapter 14
+# Romans Chapter 14
 
 ## Romans 14:1
 
@@ -66,7 +66,7 @@ If your brother or sister is distressed because of what you eat, you are no long
 
 ## Romans 14:16
 
-So, ensure that your good actions are not misrepresented as wrong.
+To, ensure that your good actions are not called out by others as wrong.
 
 ## Romans 14:17
 

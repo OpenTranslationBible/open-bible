@@ -206,7 +206,7 @@ While He was still speaking, a crowd came up, and the man called Judas, one of t
 
 ## Luke 22:48
 
-but Jesus asked him, “Judas, are you betraying the Son of Man with a kiss?”
+but Jesus asked him, “Judas, do you come to betray the Son of Man with a kiss?”
 
 ## Luke 22:49
 
@@ -240,7 +240,7 @@ When they had kindled a fire in the middle of the courtyard and sat down togethe
 
 ## Luke 22:56
 
-A servant girl saw him seated there in the firelight. She looked closely at him and said, “This man was with Him.”
+A servant girl saw him seated there in the firelight. She looked at him intently and exclaimed, “This man was with Him.”
 
 ## Luke 22:57
 

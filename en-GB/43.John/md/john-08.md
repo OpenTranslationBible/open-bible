@@ -196,7 +196,7 @@ Can any of you prove Me guilty of sin? If I am telling the truth, why do you not
 
 ## John 8:47
 
-Whoever belongs to God hears what God says. The reason you do not hear is that you do not belong to God.”
+Whoever is of God hears the words of God. The reason you do not hear is that you are not of God.”
 
 ---
 
@@ -210,7 +210,7 @@ The Jews answered Him, “Aren’t we right in saying that you are a Samaritan a
 
 ## John 8:50
 
-I am not seeking glory for Myself; but there is one who seeks it, and He is the judge.
+But I do not seek my own glory; because there is one who does seek it, and He is the judge.
 
 ## John 8:51
 
@@ -226,19 +226,19 @@ Are you greater than our father Abraham? He died, and so did the prophets. Who d
 
 ## John 8:54
 
-Jesus replied, “If I glorify Myself, My glory means nothing. My Father, whom you claim as your God, is the one who glorifies Me.
+Jesus replied, “If I glorify Myself, My glory means nothing. It is my Father, whom you claim as your God, who glorifies Me.
 
 ## John 8:55
 
-Though you do not know Him, I know Him. If I said I did not, I would be a liar like you, but I do know Him and obey His word.
+Though you do not know Him, I know Him. If I said I did not, I would be untruthful like you, but I do know Him and I obey His word.
 
 ## John 8:56
 
-Your father Abraham rejoiced at the thought of seeing My day; he saw it and was glad.”
+Your father Abraham was overjoyed at the prospect of seeing My day; he saw it and was glad.”
 
 ## John 8:57
 
-“You are not yet fifty years old,” they said to Him, “and you have seen Abraham!”
+“You are not even fifty years old,” they said to Him, “and say you have seen Abraham!”
 
 ## John 8:58
 

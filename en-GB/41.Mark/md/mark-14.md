@@ -155,7 +155,7 @@ He took Peter, James, and John with him, and he began to feel deeply distressed 
 
 ## Mark 14:35
 
-Going a little farther, he fell to the ground and prayed that, if possible, the hour might pass from him.
+Going on a little further, he fell to the ground and prayed, so that if possible, the hour might pass from him.
 
 ## Mark 14:36
 
@@ -209,11 +209,11 @@ Then one of those standing near drew his sword and struck the servant of the hig
 
 ## Mark 14:48
 
-“Am I leading a rebellion,” said Jesus, “that you have come out with swords and clubs to capture me?
+“Am I leading a revolt,” said Jesus, “that you have come out with swords and clubs to arrest me?
 
 ## Mark 14:49
 
-Every day I was with you, teaching in the temple courts, and you did not arrest me. But the Scriptures must be fulfilled.”
+When I was with you every day, teaching in the temple courts, you did not arrest me. Yet the Scriptures must be fulfilled.”
 
 ## Mark 14:50
 
@@ -247,53 +247,53 @@ The chief priests and the whole Sanhedrin were seeking evidence against Jesus to
 
 ## Mark 14:56
 
-Many gave false testimony against him, but their statements did not agree.
+Many bore false witness against him, but their testimonies did not align.
 
 ## Mark 14:57
 
-Then some stood up and gave this false testimony against him:
+Then some stood up and presented this false testimony against him:
 
 ## Mark 14:58
 
-“We heard him say, ‘I will destroy this temple made with human hands and in three days will build another, not made with hands.’”
+“We heard him say, ‘I will destroy this temple made with human hands and in three days will build another, that will not made with human hands.’”
 
 ## Mark 14:59
 
-Yet even then their testimony did not agree.
+Yet even then their testimonies could not agree.
 
 ## Mark 14:60
 
-Then the high priest stood up before them and asked Jesus, “Are you not going to answer? What is this testimony that these men are bringing against you?”
+Then the high priest stood up to interrogate Jesus, “Are you not going to respond? What of this testimony these men are bringing against you?”
 
 ## Mark 14:61
 
-But Jesus remained silent and gave no answer. Again the high priest asked him, “Are you the Messiah, the Son of the Blessed One?”
+But Jesus remained silent and did not reply. Again the high priest asked him, “Are you the Messiah, the Son of the Blessed One?”
 
 ## Mark 14:62
 
-“I am,” said Jesus. “And you will see the Son of Man sitting at the right hand of the Mighty One and coming on the clouds of heaven.”
+“I am,” said Jesus. “And you will see the Son of Man seated at the right hand of the Mighty One and coming on the clouds of heaven.”
 
 ## Mark 14:63
 
-The high priest tore his clothes. “Why do we need any more witnesses?” he asked.
+At this, the high priest tore his garments. “Why do we need any more witnesses?” he asked.
 
 ## Mark 14:64
 
-“You have heard the blasphemy. What do you think?” They all condemned him as deserving of death.
+“You have heard the blasphemy. What is your decision?” They all condemned him as deserving of death.
 
 ## Mark 14:65
 
-Then some began to spit at him; they blindfolded him, struck him with their fists, and said, “Prophesy!” And the guards took him and beat him.
+Then some among them spat at him; then they blindfolded him, struck him with their fists, and said, “Prophesy!” And the guards took him and beat him.
 
 ---
 
 ## Mark 14:66
 
-While Peter was below in the courtyard, one of the servant girls of the high priest came by.
+While Peter was below in the courtyard, one of the high priest's servant girls came by.
 
 ## Mark 14:67
 
-When she saw Peter warming himself, she looked closely at him. “You also were with that Nazarene, Jesus,” she said.
+When she saw Peter warming himself by the fire, she stared at him. “You also were with that Nazarene, Jesus,” she said.
 
 ## Mark 14:68
 
@@ -301,11 +301,11 @@ But he denied it. “I neither know nor understand what you are talking about,�
 
 ## Mark 14:69
 
-When the servant girl saw him there, she said again to those standing around, “This fellow is one of them.”
+When the servant girl saw him there, she said again to those standing around, “This man is one of them.”
 
 ## Mark 14:70
 
-Again he denied it. After a little while, those standing near said to Peter, “Surely you are one of them, for you are a Galilean.”
+Again Peter denied it. Only a little while later, those standing amongst him said to him, “Surely you are one of them, for you are a Galilean.”
 
 ## Mark 14:71
 
