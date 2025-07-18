@@ -52,39 +52,39 @@ During the time of Joiakim, these were the heads of the priestly families: of Se
 
 ## Nehemiah 12:13
 
-of Ezra’s, Meshullam; of Amariah’s, Jehohanan;
+Meshullam of Ezra, Jehohanan of Amariah
 
 ## Nehemiah 12:14
 
-of Malluchi’s, Jonathan; of Shebaniah’s, Joseph;
+Jonathan of Malluchi, Joseph of Shebaniah,
 
 ## Nehemiah 12:15
 
-of Harim’s, Adna; of Meraioth’s, Helkai;
+Adna of Harim, Helkai of Meraioth,
 
 ## Nehemiah 12:16
 
-of Iddo’s, Zechariah; of Ginnethon’s, Meshullam;
+Zechariah of Iddo, Meshullam of Ginnethon,
 
 ## Nehemiah 12:17
 
-of Abijah’s, Zichri; of Miniamin’s and of Moadiah’s, Piltai;
+Zichri of Abijah, Piltai of Moadiah, of the land of Miniamin,
 
 ## Nehemiah 12:18
 
-of Bilgah’s, Shammua; of Shemaiah’s, Jehonathan;
+Shammua of Bilgah, Jehonathan of Shemaiah,
 
 ## Nehemiah 12:19
 
-of Joiarib’s, Mattenai; of Jedaiah’s, Uzzi;
+Mattenai of Joiarib, Uzzi of Jedaiah,
 
 ## Nehemiah 12:20
 
-of Sallai’s, Kallai; of Amok’s, Eber;
+Kallai of Sallai, Eber of Amok,
 
 ## Nehemiah 12:21
 
-of Hilkiah’s, Hashabiah; of Jedaiah’s, Nethanel.
+Hashabiah of Hilkiah, and Nethanel of Jedaiah.
 
 ## Nehemiah 12:22
 
