@@ -1,6 +1,6 @@
 # This is the open bible license
 
-Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)[https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1]
+Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
 # Deed
 
