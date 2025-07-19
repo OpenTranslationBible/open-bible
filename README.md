@@ -28,6 +28,10 @@ You do not have to comply with the license for elements of the material in the p
 
 No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
 
+## Current Languages
+
+### British English
+
 en-GB
 
 ```bash
@@ -98,6 +102,8 @@ en-GB
     mkdir "65.Jude"
     mkdir "66.Revelation"
 ```
+
+### Indian Hindi
 
 hi-IN
 
@@ -170,14 +176,7 @@ hi-IN
     mkdir "66.प्रकाशितवाक्य"
 ```
 
-```
-for i in $(seq -w 1 31); do
-  echo "./sh/translate.sh \"../open-bible/en-GB/20.Proverbs/md/proverbs-$i.md\" > \"../open-bible/hi-IN/20.नीतिवचन/md/नीतिवचन-$i.md\""
-done
-for i in $(seq -w 1 150); do
-  echo "./sh/translate.sh \"../open-bible/en-GB/19.Psalms/md/psalm-$i.md\" > \"../open-bible/hi-IN/19.भजन संहिता/md/भजन संहिता-$i.md\""
-done
-```
+### Persian Farsi
 
 fa-IR
 
