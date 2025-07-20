@@ -1,99 +1,102 @@
-# Psalm 77
+# Psalm 78
 
-### For the music director; according to Jeduthun. A Psalm of Asaph.
+### A Maskil of Asaph.
 
-## Psalm 77:1
+## Psalm 78:1
 
-> My voice rises to God, and I will cry aloud;  
-> My voice rises to God, and He will hear me.
+> Listen, my people, to my instruction;  
+> Incline your ears to the words of my mouth.
 
-## Psalm 77:2
+## Psalm 78:2
 
-> In the day of my trouble I sought the Lord;  
-> In the night my hand was stretched out without weariness;  
-> My soul refused to be comforted.
+> I will open my mouth in a parable;  
+> I will tell riddles of old,
 
-## Psalm 77:3
+## Psalm 78:3
 
-> When I remember God, then I am restless;  
-> When I sigh, then my spirit feels weak.
+> Which we have heard and known,  
+> And our fathers have told us.
 
-> Selah
+## Psalm 78:4
 
-## Psalm 77:4
-
-> You have held my eyelids open;  
-> I am so troubled that I cannot speak.
-
-## Psalm 77:5
-
-> I have considered the days of old,  
-> The years of long ago.
-
-## Psalm 77:6
-
-> I will remember my song in the night;  
-> I will meditate with my heart,  
-> And my spirit ponders:
-
-## Psalm 77:7
-
-> Will the Lord reject forever?  
-> And will He never be favourable again?
-
-## Psalm 77:8
-
-> Has His favour ceased forever?  
-> Has His promise come to an end forever?
+> We will not conceal them from their children,  
+> But we will tell the generation to come the praises of the Lord,  
+> And His power and His wondrous works that He has done.
 
 ---
 
-## Psalm 77:9
+## Psalm 78:5
 
-> Has God forgotten to be gracious,  
-> Or has He in anger withdrawn His compassion?
+> For He established a testimony in Jacob,  
+> And appointed a law in Israel,  
+> Which He commanded our fathers  
+> That they were to teach them to their children,
 
-> Selah
+## Psalm 78:6
 
-## Psalm 77:10
+> So that the generation to come would know, the children yet to be born,  
+> That they would arise and tell them to their children,
 
-> Then I said, “It is my grief,  
-> That the right hand of the Most High has changed.”
+## Psalm 78:7
 
-## Psalm 77:11
+> So that they would put their confidence in God  
+> And not forget the works of God,  
+> But comply with His commandments,
 
-> I shall remember the deeds of the Lord;  
-> Surely I will remember Your wonders of old.
+## Psalm 78:8
 
-## Psalm 77:12
-
-> I will meditate on all Your work,  
-> And on Your deeds with thanksgiving.
-
-## Psalm 77:13
-
-> Your way, God, is holy;  
-> What god is great like our God?
-
-## Psalm 77:14
-
-> You are the God who works wonders;  
-> You have made known Your strength among the peoples.
-
-## Psalm 77:15
-
-> You have by Your power redeemed Your people,  
-> The sons of Jacob and Joseph.
-
-> Selah
-
-## Psalm 77:16
-
-> The waters saw You, God;  
-> The waters saw You, they were in anguish;  
-> The ocean depths also trembled.
+> And not be like their fathers,  
+> A stubborn and rebellious generation,  
+> A generation that did not prepare its heart,  
+> And whose spirit was not faithful to God.
 
 ---
+
+## Psalm 78:9
+
+> The sons of Ephraim were archers equipped with bows,  
+> Yet they turned back on the day of battle.
+
+## Psalm 78:10
+
+> They did not keep the covenant of God  
+> And refused to walk in His Law;
+
+## Psalm 78:11
+
+> They forgot His deeds  
+> And His miracles that He had shown them.
+
+## Psalm 78:12
+
+> He performed wonders before their fathers  
+> In the land of Egypt, in the field of Zoan.
+
+---
+
+## Psalm 78:13
+
+> He divided the sea and caused them to pass through,  
+> And He made the waters stand up like a heap.
+
+## Psalm 78:14
+
+> Then He led them with the cloud by day,  
+> And all the night with a light of fire.
+
+## Psalm 78:15
+
+> He split the rocks in the wilderness  
+> And gave them plenty to drink like the ocean depths.
+
+## Psalm 78:16
+
+> He brought forth streams from the rock  
+> And made waters run down like rivers.
+
+---
+
+[Psalm 78 continues to verse 72; due to its length, would you like me to continue with **verses 17–72** now in Markdown, or pause here and pick up from verse 17 in the next message?]
 
 ## Psalm 78:17
 
@@ -116,6 +119,8 @@
 > And streams were overflowing;  
 > Can He also give bread?  
 > Will He provide meat for His people?”
+
+---
 
 ## Psalm 78:21
 
@@ -142,6 +147,8 @@
 
 > Man ate the bread of angels;  
 > He sent them food in abundance.
+
+---
 
 ## Psalm 78:26
 
@@ -196,6 +203,8 @@
 > And they remembered that God was their rock,  
 > And the Most High God their Redeemer.
 
+---
+
 ## Psalm 78:36
 
 > But they flattered Him with their mouth  
@@ -239,6 +248,8 @@
 > When He performed His signs in Egypt  
 > And His marvels in the field of Zoan,
 
+---
+
 ## Psalm 78:44
 
 > And turned their rivers to blood,  
@@ -264,6 +275,8 @@
 > He turned their livestock over to the hailstones,  
 > And their herds to bolts of lightning.
 
+---
+
 ## Psalm 78:49
 
 > He sent His burning anger upon them,  
@@ -280,6 +293,8 @@
 
 > And struck all the firstborn in Egypt,  
 > The first and best of their vigour in the tents of Ham.
+
+---
 
 ## Psalm 78:52
 
@@ -323,6 +338,8 @@
 
 > When God heard them, He was filled with wrath  
 > And He utterly rejected Israel;
+
+---
 
 ## Psalm 78:60
 
@@ -370,6 +387,8 @@
 
 > But chose the tribe of Judah,  
 > Mount Zion, which He loved.
+
+---
 
 ## Psalm 78:69
 

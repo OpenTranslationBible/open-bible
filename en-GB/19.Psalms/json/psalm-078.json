@@ -1,69 +1,77 @@
 {
     "book": "Psalm",
-    "chapter": 77,
+    "chapter": 78,
     "verses": [
         {
             "text": [
-                "For the music director; according to Jeduthun. A Psalm of Asaph."
+                "A Maskil of Asaph."
             ]
         },
         {
             "verse": 1,
             "text": [
-                "> My voice rises to God, and I will cry aloud;",
-                "> My voice rises to God, and He will hear me."
+                "> Listen, my people, to my instruction;",
+                "> Incline your ears to the words of my mouth."
             ]
         },
         {
             "verse": 2,
             "text": [
-                "> In the day of my trouble I sought the Lord;",
-                "> In the night my hand was stretched out without weariness;",
-                "> My soul refused to be comforted."
+                "> I will open my mouth in a parable;",
+                "> I will tell riddles of old,"
             ]
         },
         {
             "verse": 3,
             "text": [
-                "> When I remember God, then I am restless;",
-                "> When I sigh, then my spirit feels weak.",
-                "> Selah"
+                "> Which we have heard and known,",
+                "> And our fathers have told us."
             ]
         },
         {
             "verse": 4,
             "text": [
-                "> You have held my eyelids open;",
-                "> I am so troubled that I cannot speak."
+                "> We will not conceal them from their children,",
+                "> But we will tell the generation to come the praises of the Lord,",
+                "> And His power and His wondrous works that He has done."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
             "verse": 5,
             "text": [
-                "> I have considered the days of old,",
-                "> The years of long ago."
+                "> For He established a testimony in Jacob,",
+                "> And appointed a law in Israel,",
+                "> Which He commanded our fathers",
+                "> That they were to teach them to their children,"
             ]
         },
         {
             "verse": 6,
             "text": [
-                "> I will remember my song in the night;",
-                "> I will meditate with my heart,",
-                "> And my spirit ponders:"
+                "> So that the generation to come would know, the children yet to be born,",
+                "> That they would arise and tell them to their children,"
             ]
         },
         {
             "verse": 7,
             "text": [
-                "> Will the Lord reject forever?",
-                "> And will He never be favourable again?"
+                "> So that they would put their confidence in God",
+                "> And not forget the works of God,",
+                "> But comply with His commandments,"
             ]
         },
         {
             "verse": 8,
             "text": [
-                "> Has His favour ceased forever?",
-                "> Has His promise come to an end forever?"
+                "> And not be like their fathers,",
+                "> A stubborn and rebellious generation,",
+                "> A generation that did not prepare its heart,",
+                "> And whose spirit was not faithful to God."
             ]
         },
         {
@@ -74,65 +82,65 @@
         {
             "verse": 9,
             "text": [
-                "> Has God forgotten to be gracious,",
-                "> Or has He in anger withdrawn His compassion?",
-                "> Selah"
+                "> The sons of Ephraim were archers equipped with bows,",
+                "> Yet they turned back on the day of battle."
             ]
         },
         {
             "verse": 10,
             "text": [
-                "> Then I said, “It is my grief,",
-                "> That the right hand of the Most High has changed.”"
+                "> They did not keep the covenant of God",
+                "> And refused to walk in His Law;"
             ]
         },
         {
             "verse": 11,
             "text": [
-                "> I shall remember the deeds of the Lord;",
-                "> Surely I will remember Your wonders of old."
+                "> They forgot His deeds",
+                "> And His miracles that He had shown them."
             ]
         },
         {
             "verse": 12,
             "text": [
-                "> I will meditate on all Your work,",
-                "> And on Your deeds with thanksgiving."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Your way, God, is holy;",
-                "> What god is great like our God?"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> You are the God who works wonders;",
-                "> You have made known Your strength among the peoples."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> You have by Your power redeemed Your people,",
-                "> The sons of Jacob and Joseph.",
-                "> Selah"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> The waters saw You, God;",
-                "> The waters saw You, they were in anguish;",
-                "> The ocean depths also trembled."
+                "> He performed wonders before their fathers",
+                "> In the land of Egypt, in the field of Zoan."
             ]
         },
         {
             "text": [
                 "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> He divided the sea and caused them to pass through,",
+                "> And He made the waters stand up like a heap."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Then He led them with the cloud by day,",
+                "> And all the night with a light of fire."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> He split the rocks in the wilderness",
+                "> And gave them plenty to drink like the ocean depths."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> He brought forth streams from the rock",
+                "> And made waters run down like rivers.",
+                "---",
+                "[Psalm 78 continues to verse 72; due to its length, would you like me to continue with ",
+                " now in Markdown, or pause here and pick up from verse 17 in the next message?]"
             ]
         },
         {
@@ -163,6 +171,11 @@
                 "> And streams were overflowing;",
                 "> Can He also give bread?",
                 "> Will He provide meat for His people?”"
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -199,6 +212,11 @@
             "text": [
                 "> Man ate the bread of angels;",
                 "> He sent them food in abundance."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -278,6 +296,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 36,
             "text": [
                 "> But they flattered Him with their mouth",
@@ -340,6 +363,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 44,
             "text": [
                 "> And turned their rivers to blood,",
@@ -375,6 +403,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 49,
             "text": [
                 "> He sent His burning anger upon them,",
@@ -395,6 +428,11 @@
             "text": [
                 "> And struck all the firstborn in Egypt,",
                 "> The first and best of their vigour in the tents of Ham."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -457,6 +495,11 @@
             "text": [
                 "> When God heard them, He was filled with wrath",
                 "> And He utterly rejected Israel;"
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -525,6 +568,11 @@
             "text": [
                 "> But chose the tribe of Judah,",
                 "> Mount Zion, which He loved."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
