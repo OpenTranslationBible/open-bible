@@ -2,7 +2,7 @@
 
 ## 2 Kings 1:1
 
-After Ahab’s death, Moab rebelled against Israel.
+Following the passing of Ahab, Moab rose up against Israel.
 
 ## 2 Kings 1:2
 

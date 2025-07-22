@@ -13,13 +13,13 @@ He cast him into the Abyss, shut it, and sealed it over him, to prevent him from
 I saw thrones, and those seated on them were given authority to judge. I saw the souls of those who had been beheaded for their testimony of Jesus and the word of God, and those who had not worshipped the beast or its image nor received its mark on their foreheads or hands. They came to life and reigned with Christ for a thousand years.
 
 ## Revelation 20:5
-The rest of the dead did not come to life until the thousand years were completed. This is the first resurrection.
+The remainder of the dead did not come to life until the thousand years were fulfilled. This marks the first resurrection.
 
 ## Revelation 20:6
 Blessed and holy are those who share in the first resurrection. The second death has no authority over them, but they will be priests of God and of Christ, and will reign with Him for a thousand years.
 
 ## Revelation 20:7
-When the thousand years are completed, Satan will be released from his prison,
+Once the thousand years have concluded, Satan will be released from his prison,
 
 ## Revelation 20:8
 and will go out to deceive the nations in the four corners of the earth, Gog and Magog, to gather them for battle. Their number is like the sand on the seashore.

@@ -85,4 +85,4 @@ Go up to the top of Pisgah and look west, north, south, and east. Look at the la
 But appoint Joshua, and encourage and strengthen him, for he will lead this people across and will enable them to inherit the land that you will see.”
 
 ## Deuteronomy 3:29
-So we stayed in the valley opposite Beth Peor.
+Thus, we remained in the valley opposite Beth Peor.

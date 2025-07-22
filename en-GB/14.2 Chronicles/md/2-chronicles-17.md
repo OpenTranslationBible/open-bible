@@ -38,7 +38,7 @@ And he took great pride in the ways of the Lord, and again removed the high plac
 
 ## 2 Chronicles 17:7
 
-Then in the third year of his reign he sent his officials, Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah, to teach in the cities of Judah;
+In the third year of his reign, he sent his officials—Ben-hail, Obadiah, Zechariah, Nethanel, and Micaiah—to provide instruction in the cities of Judah;
 
 ---
 

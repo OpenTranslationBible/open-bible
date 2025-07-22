@@ -2,7 +2,7 @@
 
 ## Proverbs 28:1
 
-The wicked flee when no one pursues, but the righteous are as bold as a lion.
+The wicked run away even though no one is chasing, but the righteous stand as confident as a lion.
 
 ## Proverbs 28:2
 

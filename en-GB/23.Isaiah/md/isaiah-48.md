@@ -28,7 +28,7 @@ You have neither heard nor understood; from of old your ear has not been open. I
 For the sake of My name I delay My wrath; for My praise I restrain it for you, so as not to cut you off.
 
 ## Isaiah 48:10
-Behold, I have refined you, but not as silver; I have tested you in the furnace of affliction.
+See, I have refined you, though not as silver; I have tested you in the furnace of affliction.
 
 ## Isaiah 48:11
 For My own sake, for My own sake, I do this. How can My name be profaned? I will not give My glory to another.

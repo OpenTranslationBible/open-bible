@@ -14,7 +14,7 @@ For I passed on to you as of utmost importance what I also received, that Christ
 
 ## 1 Corinthians 15:4
 
-And that He was buried, and that He was raised on the third day in accordance with the Scriptures,
+and that He was laid to rest, and on the third day He was raised, as foretold by the Scriptures,
 
 ## 1 Corinthians 15:5
 
@@ -50,7 +50,7 @@ Now if Christ is proclaimed as raised from the dead, how can some among you say 
 
 ## 1 Corinthians 15:13
 
-But if there is no resurrection of the dead, then not even Christ has been raised;
+But if there is no resurrection of the dead, then Christ Himself has not been raised;
 
 ## 1 Corinthians 15:14
 
@@ -66,7 +66,7 @@ For if the dead are not brought back to life, then not even Christ has been rais
 
 ## 1 Corinthians 15:17
 
-And if Christ has not been raised, your faith is futile; you are still in your sins.
+And if Christ has not been raised, your faith is in vain; you remain in your sins.
 
 ## 1 Corinthians 15:18
 
@@ -86,7 +86,7 @@ For since death came through a man, the resurrection of the dead also comes thro
 
 ## 1 Corinthians 15:22
 
-For as in Adam all die, so also in Christ all will be made alive.
+For just as all die in Adam, so in Christ all will be brought to life.
 
 ## 1 Corinthians 15:23
 

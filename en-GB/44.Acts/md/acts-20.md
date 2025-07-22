@@ -18,7 +18,7 @@ He travelled with Sopater, son of Pyrrhus from Berea, Aristarchus and Secundus f
 
 ## Acts 20:5
 
-These men went on ahead and waited for us at Troas.
+These men proceeded ahead and awaited our arrival at Troas.
 
 ## Acts 20:6
 

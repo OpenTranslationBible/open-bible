@@ -142,7 +142,7 @@ Therefore Jesus said, “I am with you for only a short time, and then I am goin
 
 ## John 7:34
 
-You will look for me, but you will not find me; and where I am, you cannot come.”
+You will search for me, but you will not find me; and where I am, you are unable to come.”
 
 ## John 7:35
 
@@ -150,7 +150,7 @@ The Jews said to one another, “Where does this man intend to go that we cannot
 
 ## John 7:36
 
-What does he mean by saying, ‘You will look for me, but you will not find me,’ and ‘Where I am, you cannot come’?”
+What does he mean by saying, ‘You will search for me, but you will not find me,’ and ‘Where I am, you are unable to come’?”
 
 ---
 
@@ -226,4 +226,4 @@ They replied, “Are you from Galilee too? Look into it, and you will find that 
 
 ## John 7:53
 
-[And everyone went to his home.]
+[And each one returned to his home.]

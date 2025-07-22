@@ -52,13 +52,13 @@ and he said, “When you assist the Hebrew women in childbirth and observe them 
 However, the midwives feared God and did not do as the king of Egypt commanded them, but let the boys live.
 
 ## Exodus 1:18
-So the king of Egypt summoned the midwives and said to them, “Why have you done this, and allowed the boys to live?”
+The king of Egypt called for the midwives and asked them, “Why have you acted in this way and allowed the boys to live?”
 
 ## Exodus 1:19
 The midwives replied to Pharaoh, “Because the Hebrew women are not like the Egyptian women; they are vigorous and give birth before the midwives arrive.”
 
 ## Exodus 1:20
-So God dealt well with the midwives, and the people multiplied and grew very strong.
+Therefore, God was kind to the midwives, and the people multiplied and grew very strong.
 
 ## Exodus 1:21
 And because the midwives feared God, He provided them with families of their own.

@@ -19,7 +19,7 @@ How lovely are your tents, Jacob, your dwelling places, Israel!
 Like valleys they extend, like gardens beside a river, like aloes planted by the Lord, like cedars beside the waters.
 
 ## Numbers 24:7
-Water shall flow from his buckets, and his seed shall be in many waters; his king shall be higher than Agag, and his kingdom shall be exalted.
+Abundant water shall flow from his vessels, and his descendants shall be numerous; his king shall be greater than Agag, and his kingdom shall be lifted high.
 
 ## Numbers 24:8
 God brings him out of Egypt; he has the strength of a wild ox. He will consume the nations that are his enemies, and will break their bones and pierce them with his arrows.

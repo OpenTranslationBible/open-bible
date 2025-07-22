@@ -34,7 +34,7 @@ Bind them as a sign on your hands and let them be as frontlets between your eyes
 
 ## Deuteronomy 6:9
 
-Write them on the doorframes of your houses and on your gates.
+Inscribe them on the doorframes of your houses and on your gates.
 
 ## Deuteronomy 6:10
 

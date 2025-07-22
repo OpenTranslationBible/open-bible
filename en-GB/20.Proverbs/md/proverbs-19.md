@@ -38,7 +38,7 @@ A false witness will not go unpunished, and whoever spreads lies will meet their
 
 ## Proverbs 19:10
 
-Luxury is not fitting for a fool; much less for a slave to rule over princes.
+Opulence is not suitable for a fool; even less so for a servant to govern over nobles.
 
 ## Proverbs 19:11
 
@@ -54,7 +54,7 @@ A foolish child is a father’s ruin, and the quarrels of a wife are like a cons
 
 ## Proverbs 19:14
 
-House and wealth are inherited from parents, but a prudent wife is from the Lord.
+Property and riches are passed down from parents, but a wise wife is from the Lord.
 
 ## Proverbs 19:15
 
@@ -94,7 +94,7 @@ Reverence for the Lord leads to life; then one rests content, untouched by troub
 
 ## Proverbs 19:24
 
-The sluggard buries his hand in the dish and will not even bring it back to his mouth.
+The sluggard buries his hand in the bowl but will not even bring it back to his mouth.
 
 ## Proverbs 19:25
 

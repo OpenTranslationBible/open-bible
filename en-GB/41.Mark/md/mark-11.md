@@ -96,7 +96,7 @@ Peter remembered and said to Jesus, “Rabbi, look! The fig tree you spoke again
 
 ## Mark 11:22
 
-“Have faith in God,” Jesus answered.
+Jesus said, “Place your trust in God.”
 
 ## Mark 11:23
 
@@ -126,7 +126,7 @@ and asked, “By what authority are you doing these things, and who gave you thi
 
 ## Mark 11:29
 
-Jesus replied, “I will ask you one question. Answer me, and I will tell you by what authority I am doing these things.
+Jesus responded, “I will pose one question to you. Answer me, and I will tell you by what authority I am doing these things.
 
 ## Mark 11:30
 

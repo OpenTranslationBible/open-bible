@@ -43,7 +43,7 @@ He cast four gold rings for the table and fastened them to the four corners wher
 The rings were positioned close to the rim to hold the poles for carrying the table.
 
 ## Exodus 37:15
-He made the poles of acacia wood and overlaid them with gold to carry the table.
+He crafted the poles from acacia wood, overlaying them with gold, for the purpose of carrying the table.
 
 ## Exodus 37:16
 He crafted from pure gold the utensils for the table—its plates, dishes, bowls, and pitchers for pouring out drink offerings.

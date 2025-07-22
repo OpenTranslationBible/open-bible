@@ -22,7 +22,7 @@ not to many peoples of incomprehensible speech or difficult language, whose word
 But the house of Israel will not be willing to listen to you, for they are not willing to listen to Me; all the Israelites are stubborn and obstinate.
 
 ## Ezekiel 3:8
-Behold, I have made your face as hard as their faces, and your forehead as hard as their foreheads.
+See, I have made your face as unyielding as theirs, and your forehead as unyielding as theirs.
 
 ## Ezekiel 3:9
 Like the hardest stone, harder than flint, I have made your forehead. Do not be afraid of them or be dismayed by them, though they are a rebellious house.”
@@ -46,7 +46,7 @@ So the Spirit lifted me up and took me away, and I went in bitterness and in the
 I came to the exiles who lived by the Kebar River at Tel-abib, and I sat among them for seven days, deeply distressed.
 
 ## Ezekiel 3:16
-At the end of seven days, the word of the Lord came to me, saying,
+After seven days, the word of the Lord came to me, saying,
 
 ## Ezekiel 3:17
 “Son of man, I have appointed you as a watchman for the house of Israel; so hear the word I speak and give them warning from Me.

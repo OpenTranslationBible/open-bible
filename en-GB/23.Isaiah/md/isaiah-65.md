@@ -70,7 +70,7 @@ They will not build and others inhabit, they will not plant and others eat; for 
 They will not labour in vain, nor bear children doomed to misfortune; for they will be a people blessed by the Lord, they and their descendants with them.
 
 ## Isaiah 65:24
-Before they call, I will answer; while they are still speaking, I will hear.
+Even before they call, I will respond; while they are still speaking, I will attend to them.
 
 ## Isaiah 65:25
 The wolf and the lamb will graze together, and the lion will eat straw like the ox, and dust will be the serpent’s food. They will do no harm nor destroy on all my holy mountain,” says the Lord.

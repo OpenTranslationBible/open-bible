@@ -1,7 +1,7 @@
 # Ephesians Chapter 3
 
 ## Ephesians 3:1
-For this reason I, Paul, the prisoner of Christ Jesus for the sake of you Gentiles—
+Because of this, I, Paul, who am held captive for Christ Jesus on behalf of you Gentiles—
 
 ## Ephesians 3:2
 Surely you have heard of the stewardship of God’s grace that was given to me for you;
@@ -43,7 +43,7 @@ Therefore I ask you not to be discouraged because of my sufferings for you, whic
 For this reason I kneel before the Father,
 
 ## Ephesians 3:15
-from whom every family in heaven and on earth derives its name,
+from whom every family in heaven and on earth takes its name,
 
 ## Ephesians 3:16
 I pray that from His glorious riches He may empower you with strength through His Spirit in your inner being,

@@ -158,7 +158,7 @@ But I tell you, do not make any oaths: not by heaven, for it is God’s throne;
 
 ## Matthew 5:35
 
-nor by the earth, for it is His footstool; nor by Jerusalem, for it is the city of the great King.
+nor by the earth, for it is His resting place; nor by Jerusalem, for it is the city of the great King.
 
 ## Matthew 5:36
 

@@ -114,7 +114,7 @@ how he entered the house of God in the time of Abiathar the high priest and ate 
 
 ## Mark 2:27
 
-Then he said to them, “The Sabbath was made for man, not man for the Sabbath.
+Finally he replied, “The Sabbath was created for man, not man for the Sabbath.
 
 ## Mark 2:28
 

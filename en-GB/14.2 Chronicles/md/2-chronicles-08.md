@@ -14,7 +14,7 @@ he established the cities that Huram had given to him, and settled the sons of I
 
 ## 2 Chronicles 8:3
 
-Then Solomon went to Hamath-zobah and captured it.
+Solomon proceeded to Hamath-zobah and took control of it.
 
 ---
 

@@ -48,7 +48,7 @@ If you have not been faithful with worldly wealth, who will entrust true riches 
 
 ## Luke 16:12
 
-And if you have not been faithful with what belongs to another, who will give you what is your own?
+And if you have not been trustworthy with what belongs to someone else, who will give you what is truly yours?
 
 ## Luke 16:13
 

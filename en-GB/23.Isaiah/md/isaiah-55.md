@@ -22,7 +22,7 @@ Seek the Lord while he may be found; call upon him while he is near.
 Let the wicked forsake their way and the unrighteous their thoughts. Let them return to the Lord, and he will have compassion on them, and to our God, for he will abundantly pardon.
 
 ## Isaiah 55:8
-“For my thoughts are not your thoughts, neither are your ways my ways,” declares the Lord.
+“For my thoughts are not the same as your thoughts, nor are your ways like my ways,” declares the Lord.
 
 ## Isaiah 55:9
 “For just as the heavens are higher than the earth, so my ways are higher than your ways and my thoughts than your thoughts.

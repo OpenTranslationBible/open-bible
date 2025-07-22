@@ -184,7 +184,7 @@ He withdrew a short distance beyond them, knelt down, and prayed,
 
 ## Luke 22:43
 
-[An angel from heaven appeared to Him and strengthened Him.]
+[He was visited by a heavenly messenger who gave Him strength.]
 
 ## Luke 22:44
 
@@ -236,7 +236,7 @@ Then they seized Him, led Him away, and took Him into the house of the high prie
 
 ## Luke 22:55
 
-When they had kindled a fire in the middle of the courtyard and sat down together, Peter sat among them.
+When a fire was kindled in the middle of the courtyard and they sat down together, Peter sat among them.
 
 ## Luke 22:56
 
@@ -276,7 +276,7 @@ They blindfolded Him and demanded, “Prophesy! Who struck you?”
 
 ## Luke 22:65
 
-And they said many other insulting things to Him.
+And they uttered many other offensive remarks to Him.
 
 ---
 

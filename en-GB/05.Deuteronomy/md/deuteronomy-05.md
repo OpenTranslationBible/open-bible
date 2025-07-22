@@ -98,7 +98,7 @@ And you said, ‘The Lord our God has shown us His glory and His majesty, and we
 
 ## Deuteronomy 5:25
 
-But now, why should we die? This great fire will consume us, and we will die if we hear the voice of the Lord our God any longer.
+Yet now, why should we risk our lives? This great fire will consume us, and we fear that we will perish if we continue to hear the voice of the Lord our God.
 
 ## Deuteronomy 5:26
 

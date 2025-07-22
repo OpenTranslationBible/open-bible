@@ -62,7 +62,7 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ## 1 Chronicles 9:10
 
-> From the priests: Jedaiah, Jehoiarib, Jachin,
+> Among the priests were Jedaiah, Jehoiarib, and Jachin,
 
 ---
 

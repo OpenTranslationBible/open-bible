@@ -6,7 +6,7 @@ When Rachel observed that she was not bearing children for Jacob, she became env
 
 ## Genesis 30:2
 
-Jacob's anger was kindled against Rachel, and he said, “Am I in the place of God, who has withheld from you the fruit of the womb?”
+Jacob was became angry with Rachel and said, “Am I in the place of God, who has withheld from you the blessing of children?”
 
 ## Genesis 30:3
 
@@ -18,7 +18,7 @@ So she gave him her maid Bilhah as a wife, and Jacob went in to her.
 
 ## Genesis 30:5
 
-Bilhah conceived and bore Jacob a son.
+Bilhah became pregnant and gave birth to a son for Jacob.
 
 ## Genesis 30:6
 
@@ -66,7 +66,7 @@ When Jacob came in from the fields in the evening, Leah went out to meet him and
 
 ## Genesis 30:17
 
-God listened to Leah, and she conceived and bore Jacob a fifth son.
+God listened to Leah, and she became pregnant and gave birth to a fifth son for Jacob.
 
 ## Genesis 30:18
 
@@ -82,7 +82,7 @@ Leah said, “God has endowed me with a good gift; now my husband will honour me
 
 ## Genesis 30:21
 
-Afterwards she bore a daughter and named her Dinah.
+Afterwards she had a daughter and she named her Dinah.
 
 ## Genesis 30:22
 

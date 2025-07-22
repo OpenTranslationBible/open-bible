@@ -193,11 +193,11 @@ The Son of Man will send out his angels, and they will gather out of his kingdom
 
 ## Matthew 13:42
 
-They will throw them into the blazing furnace, where there will be weeping and gnashing of teeth.
+They will cast them into the blazing furnace, where there will be sorrow and grinding of teeth.
 
 ## Matthew 13:43
 
-Then the righteous will shine like the sun in the kingdom of their Father. He who has ears, let him hear.
+Then the righteous will shine brightly like the sun in the kingdom of their Father. Let those who have ears listen.
 
 ## Matthew 13:44
 
@@ -205,7 +205,7 @@ Then the righteous will shine like the sun in the kingdom of their Father. He wh
 
 ## Matthew 13:45
 
-“Again, the kingdom of heaven is like a merchant seeking fine pearls.
+“Again, the kingdom of heaven is like a merchant in search of fine pearls.
 
 ## Matthew 13:46
 
@@ -225,7 +225,7 @@ This is what will occur at the end of the age. The angels will come and separate
 
 ## Matthew 13:50
 
-and throw them into the furnace of fire, where there will be weeping and gnashing of teeth.
+and cast them into the furnace of fire, where there will be sorrow and grinding of teeth.
 
 ---
 

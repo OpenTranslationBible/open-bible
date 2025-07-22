@@ -18,7 +18,7 @@ He entered the house of God, took the consecrated bread, and ate what is only la
 
 ## Luke 6:5
 
-And He said to them, “The Son of Man is Lord of the Sabbath.”
+And He told them, “The Son of Man is master of the Sabbath.”
 
 ---
 
@@ -58,7 +58,7 @@ When morning came, He called His disciples to Him and chose twelve of them, whom
 
 ## Luke 6:14
 
-Simon (whom He named Peter), his brother Andrew, James, John, Philip, Bartholomew,
+Simon (whom He called Peter), his brother Andrew, James, John, Philip, Bartholomew,
 
 ## Luke 6:15
 
@@ -66,7 +66,7 @@ Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot,
 
 ## Luke 6:16
 
-Judas son of James, and Judas Iscariot, who became a traitor.
+Judas son of James, and Judas Iscariot, who later betrayed Him.
 
 ---
 
@@ -218,7 +218,7 @@ A good person brings good things out of the good stored up in their heart, and a
 
 ## Luke 6:46
 
-“Why do you call me, ‘Lord, Lord,’ and do not do what I say?
+“Why do you address me as ‘Lord, Lord,’ and yet do not follow my instructions?
 
 ## Luke 6:47
 

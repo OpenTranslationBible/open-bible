@@ -48,43 +48,43 @@ Joiada the father of Jonathan, and Jonathan the father of Jaddua.
 
 ## Nehemiah 12:12
 
-During the time of Joiakim, these were the heads of the priestly families: of Seraiah’s family, Meraiah; of Jeremiah’s, Hananiah;
+During the time of Joiakim, these were the heads of the priestly families: from Seraiah’s family, Meraiah; from Jeremiah’s, Hananiah;
 
 ## Nehemiah 12:13
 
-Meshullam of Ezra, Jehohanan of Amariah
+From Ezra’s family, Meshullam; from Amariah’s, Jehohanan;
 
 ## Nehemiah 12:14
 
-Jonathan of Malluchi, Joseph of Shebaniah,
+From Malluchi’s, Jonathan; from Shebaniah’s, Joseph;
 
 ## Nehemiah 12:15
 
-Adna of Harim, Helkai of Meraioth,
+From Harim’s, Adna; from Meraioth’s, Helkai;
 
 ## Nehemiah 12:16
 
-Zechariah of Iddo, Meshullam of Ginnethon,
+From Iddo’s, Zechariah; from Ginnethon’s, Meshullam;
 
 ## Nehemiah 12:17
 
-Zichri of Abijah, Piltai of Moadiah, of the land of Miniamin,
+From Abijah’s, Zichri; from Moadiah’s, Piltai, of the land of Miniamin;
 
 ## Nehemiah 12:18
 
-Shammua of Bilgah, Jehonathan of Shemaiah,
+From Bilgah’s, Shammua; from Shemaiah’s, Jehonathan;
 
 ## Nehemiah 12:19
 
-Mattenai of Joiarib, Uzzi of Jedaiah,
+From Joiarib’s, Mattenai; from Jedaiah’s, Uzzi;
 
 ## Nehemiah 12:20
 
-Kallai of Sallai, Eber of Amok,
+From Sallai’s, Kallai; from Amok’s, Eber;
 
 ## Nehemiah 12:21
 
-Hashabiah of Hilkiah, and Nethanel of Jedaiah.
+From Hilkiah’s, Hashabiah; from Jedaiah’s, Nethanel.
 
 ## Nehemiah 12:22
 

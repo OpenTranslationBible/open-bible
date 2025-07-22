@@ -156,7 +156,7 @@ Then James and John, the sons of Zebedee, came to Him and said, “Teacher, we w
 
 ## Mark 10:36
 
-“What do you want Me to do for you?” He asked.
+“What is it that you wish Me to do for you?” He asked.
 
 ## Mark 10:37
 
@@ -220,7 +220,7 @@ Casting aside his cloak, he sprang up and came to Jesus.
 
 ## Mark 10:51
 
-“What do you want Me to do for you?” Jesus asked him. The blind man said, “Rabbi, I wish to see.”
+“What is it you wish Me to do for you?” Jesus asked him. The blind man said, “Rabbi, I wish to see.”
 
 ## Mark 10:52
 

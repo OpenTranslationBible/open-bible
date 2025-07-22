@@ -78,61 +78,61 @@ The first lot for Asaph fell to Joseph,
 
 ## 1 Chronicles 25:10
 
-> the third to Zaccur, his sons and his relatives, twelve;
+> the third lot fell to Zaccur, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:11
 
-> the fourth to Izri, his sons and his relatives, twelve;
+> the fourth lot fell to Izri, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:12
 
-> the fifth to Nethaniah, his sons and his relatives, twelve;
+> the fifth lot fell to Nethaniah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:13
 
-> the sixth to Bukkiah, his sons and his relatives, twelve;
+> the sixth lot fell to Bukkiah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:14
 
-> the seventh to Jesharelah, his sons and his relatives, twelve;
+> the seventh lot fell to Jesharelah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:15
 
-> the eighth to Jeshaiah, his sons and his relatives, twelve;
+> the eighth lot fell to Jeshaiah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:16
 
-> the ninth to Mattaniah, his sons and his relatives, twelve;
+> the ninth lot fell to Mattaniah, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:17
 
-> the tenth to Shimei, his sons and his relatives, twelve;
+> the tenth lot fell to Shimei, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:18
 
-> the eleventh to Azarel, his sons and his relatives, twelve;
+> the eleventh lot fell to Azarel, along with his sons and relatives, twelve;
 
 ---
 
 ## 1 Chronicles 25:19
 
-> the twelfth to Hashabiah, his sons and his relatives, twelve;
+> the twelfth lot fell to Hashabiah, along with his sons and relatives, twelve;
 
 ---
 

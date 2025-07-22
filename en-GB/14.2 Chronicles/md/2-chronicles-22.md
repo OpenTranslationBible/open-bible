@@ -18,14 +18,14 @@ And his mother’s name was Athaliah, the granddaughter of Omri.
 ## 2 Chronicles 22:3
 
 He also walked in the ways of the house of Ahab,  
-for his mother was his counselor to act wickedly.
+for his mother was his counsellor to act wickedly.
 
 ---
 
 ## 2 Chronicles 22:4
 
 And he did evil in the sight of the Lord like the house of Ahab,  
-for they were his counselors after the death of his father, to his destruction.
+for they were his counsellors after the death of his father, to his destruction.
 
 ---
 

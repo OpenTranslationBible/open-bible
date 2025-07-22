@@ -86,7 +86,7 @@ You cannot drink the cup of the Lord and the cup of demons; you cannot partake o
 
 ## 1 Corinthians 10:22
 
-Or do we provoke the Lord to jealousy? We are not stronger than He, are we?
+Or will we we provoke the Lord's patience? Surely, we are not stronger than Him.
 
 ## 1 Corinthians 10:23
 

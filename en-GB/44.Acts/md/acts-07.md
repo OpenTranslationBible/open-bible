@@ -217,7 +217,7 @@ Nevertheless, the Most High does not reside in structures made by human hands. A
 
 ## Acts 7:50
 
-> Has not My hand made all these things?’
+> Did not My hand make all these things?’
 
 ---
 
@@ -227,7 +227,7 @@ Nevertheless, the Most High does not reside in structures made by human hands. A
 
 ## Acts 7:52
 
-Which of the prophets did your ancestors not persecute? They killed those who foretold the coming of the Righteous One, and now you have become His betrayers and murderers—
+Which of the prophets did your ancestors ever fail to persecute? They killed those who announced the coming of the Righteous One, and now you have become His betrayers and murderers—
 
 ## Acts 7:53
 

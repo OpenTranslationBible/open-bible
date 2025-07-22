@@ -91,7 +91,7 @@ My son, heed my words; listen carefully to my sayings.
 
 ## Proverbs 4:21
 
-Do not let them out of your sight; keep them within your heart.
+Keep them always in your sight; hold them close within your heart.
 
 ## Proverbs 4:22
 

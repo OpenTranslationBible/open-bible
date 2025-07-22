@@ -43,7 +43,7 @@ then he said, “Behold, I have come to do your will.” He takes away the first
 
 ## Hebrews 10:10
 
-And by that will, we have been sanctified through the offering of the body of Jesus Christ once for all.
+And by that will, we have been made holy through the offering of the body of Jesus Christ once for all time.
 
 ## Hebrews 10:11
 

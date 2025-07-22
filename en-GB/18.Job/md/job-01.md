@@ -109,4 +109,4 @@ He said,
 
 ## Job 1:22
 
-In all this, Job did not sin or blame God.
+Throughout all these events, Job did not sin or accuse God of wrongdoing.

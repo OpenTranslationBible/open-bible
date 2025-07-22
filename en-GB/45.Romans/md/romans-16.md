@@ -106,4 +106,4 @@ but now revealed and made known through the prophetic writings by the command of
 
 ## Romans 16:27
 
-to the only wise God be glory forever through Jesus Christ! Amen.
+To the one true God, wise and deserving of glory forever through Jesus Christ. Amen.

@@ -42,7 +42,7 @@ These were born to him in Jerusalem:
 
 ## 1 Chronicles 3:8
 
-> Elishama, Eliada, and Eliphelet—nine in all.
+> Elishama, Eliada, and Eliphelet—making a total of nine.
 
 ---
 

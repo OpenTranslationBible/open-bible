@@ -50,7 +50,7 @@ Our mouth has spoken freely to you, Corinthians, our heart is opened wide.
 
 ## 2 Corinthians 6:12
 
-You are not restrained by us, but you are restrained in your own affections.
+It is not us who limit you, but rather your own affections that constrain you.
 
 ## 2 Corinthians 6:13
 

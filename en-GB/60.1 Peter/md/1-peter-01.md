@@ -20,7 +20,7 @@ to receive an inheritance that is imperishable, undefiled, and unfading, kept in
 
 ## 1 Peter 1:5
 
-who are protected by the power of God through faith for a salvation ready to be revealed in the last time.
+who, through faith, are safeguarded by the power of God for a salvation that is ready to be revealed at the last time.
 
 ## 1 Peter 1:6
 

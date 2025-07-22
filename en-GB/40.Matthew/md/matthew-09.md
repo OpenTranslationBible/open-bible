@@ -44,7 +44,7 @@ Later, as Jesus was reclining at the table in the house, many tax collectors and
 
 ## Matthew 9:11
 
-When the Pharisees saw this, they asked his disciples, “Why does your teacher eat with tax collectors and sinners?”
+Observing this, the Pharisees questioned his disciples, “Why does your teacher share meals with tax collectors and sinners?”
 
 ## Matthew 9:12
 

@@ -217,7 +217,7 @@ are they not written in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 15:37
 
-In those days the Lord began to send Rezin king of Aram and Pekah son of Remaliah against Judah.
+At that time, the Lord initiated the sending of Rezin king of Aram and Pekah son of Remaliah against Judah.
 
 ## 2 Kings 15:38
 

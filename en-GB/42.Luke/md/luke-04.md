@@ -42,7 +42,7 @@ The devil brought him to Jerusalem and had him stand on the pinnacle of the temp
 
 ## Luke 4:10
 
-for it is written: ‘He will command his angels concerning you to protect you,’
+because it is written: ‘He will command his angels to watch over you,’
 
 ## Luke 4:11
 

@@ -66,7 +66,7 @@ mighty men of valour, men trained for war,
 
 ## 1 Chronicles 12:9
 
-> Ezer was the first, Obadiah the second, Eliab the third,
+> Ezer was the leader, Obadiah followed, Eliab was third,
 
 ---
 
@@ -90,7 +90,7 @@ mighty men of valour, men trained for war,
 
 ## 1 Chronicles 12:13
 
-> Jeremiah the tenth, Machbannai the eleventh.
+> Jeremiah the tenth, and Machbannai the eleventh.
 
 ---
 

@@ -242,7 +242,7 @@ and she went after the messengers of David and became his wife.
 
 ## 1 Samuel 25:43
 
-David had also taken Ahinoam of Jezreel, and they both became his wives.
+David also took Ahinoam of Jezreel, and she became his wife alongside Abigail.
 
 ## 1 Samuel 25:44
 

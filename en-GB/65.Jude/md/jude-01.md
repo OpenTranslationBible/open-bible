@@ -1,7 +1,7 @@
 # Jude Chapter 1
 
 ## Jude 1:1
-Jude, a servant of Jesus Christ and brother of James, To those who are called, beloved in God the Father, and kept for Jesus Christ:
+Jude, a servant of Jesus Christ and brother of James, to those who are called, cherished by God the Father, and preserved for Jesus Christ:
 
 ## Jude 1:2
 May mercy, peace, and love be yours in abundance.

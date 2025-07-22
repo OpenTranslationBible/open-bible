@@ -36,7 +36,7 @@ How is it that each of us hears them in our native language?
 
 ## Acts 2:9
 
-Parthians, Medes, and Elamites; residents of Mesopotamia, Judea, and Cappadocia, Pontus and Asia,
+People from Parthia, Media, and Elam; those living in Mesopotamia, Judea, and Cappadocia, Pontus and Asia,
 
 ## Acts 2:10
 

@@ -130,7 +130,7 @@ Come, let us make our father drink wine, and we will lie with him, that we may p
 
 ## Genesis 19:33
 
-So they made their father drink wine that night, and the firstborn went in and lay with her father; he did not know when she lay down or when she arose.
+Therefore, they gave their father wine to drink that night, and the firstborn went in and lay with her father; he was unaware of when she lay down or when she arose.
 
 ## Genesis 19:34
 

@@ -76,7 +76,7 @@ Thus the law was our guardian until Christ came, that we might be justified by f
 But now that faith has arrived, we are no longer under a guardian.
 
 ## Galatians 3:26
-For in Christ Jesus you are all children of God through faith.
+For through faith, you are all children of God in Christ Jesus.
 
 ## Galatians 3:27
 For all of you who were baptised into Christ have embraced Christ.

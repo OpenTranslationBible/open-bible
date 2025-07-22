@@ -226,7 +226,7 @@ But the Jewish leaders incited the devout women of high standing and the leading
 
 ## Acts 13:51
 
-So they shook the dust off their feet in protest against them and went to Iconium.
+So they shook the dust from their feet as a testimony against them and proceeded to Iconium.
 
 ## Acts 13:52
 

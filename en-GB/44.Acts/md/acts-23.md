@@ -14,7 +14,7 @@ Paul responded, “God will strike you, you whitewashed wall! You sit there to j
 
 ## Acts 23:4
 
-Those standing nearby said, “Do you dare to insult God’s high priest?”
+Those nearby said, “Do you dare to speak against God’s high priest?”
 
 ## Acts 23:5
 

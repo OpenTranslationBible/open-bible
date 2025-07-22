@@ -74,7 +74,7 @@ He answered, “Go and triumph, for the Lord will give it into the hand of the k
 
 ## 1 Kings 22:16
 
-But the king said to him, “How many times must I make you swear to tell me nothing but the truth in the name of the Lord?”
+The king then asked him, “How many times must I insist that you speak nothing but the truth in the name of the Lord?”
 
 ## 1 Kings 22:17
 

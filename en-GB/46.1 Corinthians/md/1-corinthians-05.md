@@ -34,7 +34,7 @@ Therefore, let us keep the festival, not with the old leaven, nor with the leave
 
 ## 1 Corinthians 5:9
 
-I wrote to you in my letter not to associate with sexually immoral people;
+In my previous letter, I advised you not to associate with those who are sexually immoral;
 
 ## 1 Corinthians 5:10
 

@@ -7,7 +7,7 @@ To those who have received a faith of the same kind as ours, by the righteousnes
 
 ## 2 Peter 1:2
 
-Grace and peace be multiplied to you in the knowledge of God and of Jesus our Lord,
+May grace and peace abound to you through the knowledge of God and of Jesus our Lord,
 
 ## 2 Peter 1:3
 

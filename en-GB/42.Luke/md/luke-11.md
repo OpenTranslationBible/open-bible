@@ -57,7 +57,7 @@ Or if he asks for an egg, will offer him a scorpion?
 
 ## Luke 11:13
 
-If you then, being evil, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!”
+If you then, though you are flawed, know how to give good gifts to your children, how much more will your heavenly Father give the Holy Spirit to those who ask Him!”
 
 ---
 

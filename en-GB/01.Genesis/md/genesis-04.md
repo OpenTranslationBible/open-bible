@@ -70,7 +70,7 @@ Zillah also gave birth to Tubal-Cain, who forged all kinds of tools out of bronz
 Lamech said to his wives, “Adah and Zillah, listen to me; wives of Lamech, hear my words. I have killed a man for wounding me, a young man for striking me.
 
 ## Genesis 4:24
-If Cain is avenged seven times, then Lamech seventy-seven times.”
+If Cain is avenged seven times, then Lamech will be avenged seventy-seven times.”
 
 ## Genesis 4:25
 Adam was intimate with his wife again, and she gave birth to a son and named him Seth, saying, “God has granted me another child in place of Abel, since Cain killed him.”

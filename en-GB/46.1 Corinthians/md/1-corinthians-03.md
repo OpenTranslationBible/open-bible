@@ -78,7 +78,7 @@ For the wisdom of this world is seen as foolishness in God’s sight. As it is w
 
 ## 1 Corinthians 3:20
 
-And again, “The Lord knows that the thoughts of the wise are futile.”
+Moreover, it is said, “The Lord is aware that the thoughts of the wise are in vain.”
 
 ## 1 Corinthians 3:21
 
@@ -86,7 +86,7 @@ So then, let there be no more boasting about human leaders! All things are yours
 
 ## 1 Corinthians 3:22
 
-Whether Paul or Apollos or Cephas or the world or life or death or the present or the future—all are yours,
+Whether it be Paul, Apollos, Cephas, the world, life, death, the present, or the future—all are yours,
 
 ## 1 Corinthians 3:23
 

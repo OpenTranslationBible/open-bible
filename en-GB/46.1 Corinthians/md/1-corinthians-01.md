@@ -34,7 +34,7 @@ Who will also sustain you to the end, blameless on the day of our Lord Jesus Chr
 
 ## 1 Corinthians 1:9
 
-God is faithful, through whom you were called into fellowship with His Son, Jesus Christ our Lord.
+God, who is faithful, has called you into fellowship with His Son, Jesus Christ our Lord.
 
 ## 1 Corinthians 1:10
 
@@ -101,7 +101,7 @@ But to those who are called, both Jews and Greeks, Christ the power of God and t
 
 ## 1 Corinthians 1:25
 
-For God's foolishness is wiser than human wisdom, and God's weakness is stronger than human strength.
+For what seems foolish in God is wiser than human wisdom, and what seems weak in God is stronger than human strength.
 
 ## 1 Corinthians 1:26
 

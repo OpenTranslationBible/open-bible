@@ -19,7 +19,7 @@ When the Lamb opened the third seal, I heard the third living creature say, “C
 Then I heard what seemed to be a voice among the four living creatures, saying, “A quart of wheat for a denarius, and three quarts of barley for a denarius; and do not harm the oil and the wine.”
 
 ## Revelation 6:7
-When the Lamb opened the fourth seal, I heard the voice of the fourth living creature say, “Come!”
+As the Lamb opened the fourth seal, I heard the fourth living creature's voice say, “Come!”
 
 ## Revelation 6:8
 I looked, and there was a pale horse! Its rider was named Death, and Hades followed closely behind him. They were given authority over a fourth of the earth, to kill with sword, famine, plague, and by the wild beasts of the earth.

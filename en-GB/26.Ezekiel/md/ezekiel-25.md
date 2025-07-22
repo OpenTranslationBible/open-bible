@@ -6,11 +6,11 @@ The message from the Lord reached me:
 
 ## Ezekiel 25:2
 
-“Son of man, set your face against the Ammonites and prophesy against them,
+“Son of man, turn towards the Ammonites and prophesy this against them,
 
 ## Ezekiel 25:3
 
-and say to them, ‘Hear the word of the Lord God. This is what the Lord God says: Because you said “Aha!” over my sanctuary when it was desecrated, and over the land of Israel when it was laid waste, and over the people of Judah when they went into exile,
+say to them: ‘Hear the word of the Lord God. This is what the Lord God says: Because you said “Aha!” over my sanctuary when it was desecrated, and over the land of Israel when it was laid waste, and over the people of Judah when they went into exile,
 
 ## Ezekiel 25:4
 

@@ -106,7 +106,7 @@ So the Lord let him alone. At that time she said “bridegroom of blood,” refe
 
 ## Exodus 4:27
 
-The Lord said to Aaron, “Go into the wilderness to meet Moses.” So he went and met him at the mountain of God and kissed him.
+The Lord instructed Aaron, “Go into the wilderness to meet Moses.” So he went and met him at the mountain of God and greeted him warmly.
 
 ## Exodus 4:28
 

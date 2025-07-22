@@ -37,7 +37,7 @@ He again designates a certain day, calling it “Today,” speaking through Davi
 
 ## Hebrews 4:8
 
-For if Joshua had given them rest, God would not have spoken later about another day.
+For if Joshua had provided them with rest, God would not have mentioned another day later on.
 
 ## Hebrews 4:9
 

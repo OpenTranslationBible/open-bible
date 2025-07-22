@@ -32,7 +32,7 @@ and I fell to the ground and heard a voice saying to me, ‘Saul, Saul, why are 
 
 ## Acts 22:8
 
-And I answered, ‘Who are you, Lord?’ And he said to me, ‘I am Jesus of Nazareth, whom you are persecuting.’
+I inquired, ‘Who are you, Lord?’ The reply came, ‘I am Jesus of Nazareth, whom you are persecuting.’
 
 ## Acts 22:9
 

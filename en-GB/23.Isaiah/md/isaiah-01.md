@@ -64,7 +64,7 @@ but if you refuse and rebel, you shall be devoured by the sword.” For the mout
 How the faithful city has become unfaithful! She who was full of justice! Righteousness once lodged in her, but now murderers.
 
 ## Isaiah 1:22
-Your silver has become dross, your wine mixed with water.
+Your silver has become tarnished, and your wine is diluted with water.
 
 ## Isaiah 1:23
 Your rulers are rebels and companions of thieves; everyone loves bribes and pursues rewards. They do not defend the fatherless, nor does the widow’s case come before them.

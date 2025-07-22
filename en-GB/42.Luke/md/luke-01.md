@@ -172,7 +172,7 @@ where she entered the house of Zechariah and greeted Elizabeth.
 
 ## Luke 1:41
 
-When Elizabeth heard Mary’s greeting, the baby leaped in her womb, and Elizabeth was filled with the Holy Spirit.
+Upon hearing Mary’s greeting, the baby moved within her, and Elizabeth was filled with the Holy Spirit.
 
 ## Luke 1:42
 
@@ -198,7 +198,7 @@ And Mary said, “My soul magnifies the Lord,
 
 ## Luke 1:47
 
-and my spirit rejoices in God my Saviour,
+and my spirit is glad in God my Saviour,
 
 ## Luke 1:48
 
@@ -270,7 +270,7 @@ He asked for a writing tablet, and to everyone’s surprise he wrote, “His nam
 
 ## Luke 1:64
 
-Immediately his mouth was opened and his tongue set free, and he began to speak, praising God.
+At once his mouth was opened and his speech restored, and he began to speak, praising God.
 
 ## Luke 1:65
 

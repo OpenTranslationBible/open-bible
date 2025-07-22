@@ -79,7 +79,7 @@ And with whom was God displeased for forty years? Was it not with those who sinn
 
 ## Hebrews 3:18
 
-And to whom did he swear that they would not enter his rest, if not to those who were disobedient?
+And to whom did he declare that they would not enter his rest, if not to those who were disobedient?
 
 ## Hebrews 3:19
 

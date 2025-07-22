@@ -22,7 +22,7 @@ to register with Mary, who was betrothed to him and was expecting a child.
 
 ## Luke 2:6
 
-While they were there, the time came for her to give birth.
+While they were there, the time arrived for her to deliver her child.
 
 ## Luke 2:7
 
@@ -75,7 +75,7 @@ When they had seen him, they spread the word about what had been told them conce
 
 ## Luke 2:18
 
-And all who heard it were amazed at what the shepherds told them.
+And all who heard it were astonished at what the shepherds told them.
 
 ## Luke 2:19
 
@@ -215,7 +215,7 @@ When his parents saw him, they were amazed. His mother said to him, “Son, why 
 
 ## Luke 2:49
 
-He said to them, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
+He replied, “Why were you searching for me? Did you not know that I must be in my Father’s house?”
 
 ## Luke 2:50
 

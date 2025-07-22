@@ -13,7 +13,7 @@ And they sang a new song before the throne and before the four living creatures 
 These are the ones who have not defiled themselves with women, for they are celibate. They follow the Lamb wherever He goes. They have been purchased from among mankind as firstfruits to God and to the Lamb.
 
 ## Revelation 14:5
-No lie was found in their mouths; they are blameless.
+No falsehood was found in their mouths; they are without fault.
 
 ## Revelation 14:6
 Then I saw another angel flying in midheaven, having an eternal gospel to proclaim to those who dwell on the earth—to every nation, tribe, language, and people.

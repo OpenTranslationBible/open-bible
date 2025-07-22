@@ -2,7 +2,7 @@
 
 ## 1 Kings 14:1
 
-At that time Abijah the son of Jeroboam became sick.
+During that period, Abijah, the son of Jeroboam, fell ill.
 
 ## 1 Kings 14:2
 

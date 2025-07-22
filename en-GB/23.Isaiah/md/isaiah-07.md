@@ -30,7 +30,7 @@ Thus says the Sovereign Lord: “‘It shall not stand, nor shall it come to pas
 
 ## Isaiah 7:8
 
-For the head of Aram is Damascus, and the head of Damascus is Rezin. Within sixty-five years, Ephraim will be shattered, no longer a people.
+For Damascus is the capital of Aram, and Rezin is the leader of Damascus. Within sixty-five years, Ephraim will be shattered, no longer a people.
 
 ## Isaiah 7:9
 

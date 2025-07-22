@@ -1,7 +1,7 @@
 # Leviticus Chapter 1
 
 ## Leviticus 1:1
-The Lord summoned Moses and spoke to him from the tent of meeting, saying,
+The Lord called to Moses and addressed him from the tent of meeting:
 
 ## Leviticus 1:2
 “Speak to the Israelites and say to them, ‘When any of you brings an offering to the Lord, you shall bring your offering from the livestock, either from the herd or the flock.

@@ -34,7 +34,7 @@ I appeal to you for my son Onesimus, whom I have begotten in my imprisonment.
 He was formerly useless to you, but now he is useful both to you and to me.
 
 ## Philemon 1:12
-I am sending him back to you, sending my very heart.
+I am sending him back to you, sending a part of my own heart.
 
 ## Philemon 1:13
 I would have liked to keep him with me, so that he might serve me on your behalf during my imprisonment for the gospel.
@@ -46,7 +46,7 @@ But I did not want to do anything without your consent, so that your goodness wo
 Perhaps for this reason he was separated from you for a while, that you might have him back forever—
 
 ## Philemon 1:16
-no longer as a slave, but more than a slave, a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.
+no longer merely as a servant, but more than that, a beloved brother, especially to me, but how much more to you, both in the flesh and in the Lord.
 
 ## Philemon 1:17
 If you consider me a partner, accept him as you would accept me.

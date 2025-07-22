@@ -126,7 +126,7 @@ This happened at Bethany beyond the Jordan, where John was baptizing.
 
 ## John 1:29
 
-The next day John saw Jesus coming towards him and said, “Behold, the Lamb of God, who takes away the sin of the world!
+The following day John saw Jesus coming towards him and said, “Behold, the Lamb of God, who takes away the sin of the world!
 
 ## John 1:30
 
@@ -152,7 +152,7 @@ I have seen and I testify that this is the Son of God.”
 
 ## John 1:35
 
-The next day John was there again with two of his disciples.
+The subsequent day, John was present again with two of his disciples.
 
 ## John 1:36
 

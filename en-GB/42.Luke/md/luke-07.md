@@ -154,7 +154,7 @@ The Son of Man came eating and drinking, and you say, ‘Look, a glutton and a d
 
 ## Luke 7:35
 
-Yet wisdom is justified by all her children.”
+Yet wisdom is proven right by all her children.”
 
 ---
 

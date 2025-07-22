@@ -2,7 +2,7 @@
 
 ## Matthew 14:1
 
-At that time Herod the tetrarch heard the news about Jesus,
+During that period, Herod the tetrarch became aware of the news concerning Jesus,
 
 ## Matthew 14:2
 

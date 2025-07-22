@@ -43,7 +43,7 @@ They set out for the first time at the Lord’s command through Moses.
 The banner of the camp of Judah set out first, by their divisions, with Nahshon son of Amminadab in command.
 
 ## Numbers 10:15
-Nethanel son of Zuar was over the division of the tribe of Issachar,
+Nethanel son of Zuar led the division of the tribe of Issachar,
 
 ## Numbers 10:16
 Eliab son of Helon led the division of the tribe of Zebulun.
@@ -55,7 +55,7 @@ Then the tabernacle was dismantled, and the Gershonites and Merarites, who carri
 The banner of the camp of Reuben set out next, by their divisions, with Elizur son of Shedeur in command.
 
 ## Numbers 10:19
-Shelumiel son of Zurishaddai was over the division of the tribe of Simeon,
+Shelumiel son of Zurishaddai led the division of the tribe of Simeon,
 
 ## Numbers 10:20
 Eliasaph son of Deuel led the division of the tribe of Gad.
@@ -70,7 +70,7 @@ The banner of the camp of Ephraim set out next, by their divisions, with Elisham
 Gamaliel son of Pedahzur was over the division of the tribe of Manasseh,
 
 ## Numbers 10:24
-and Abidan son of Gideoni was over the division of the tribe of Benjamin.
+and Abidan son of Gideoni led the division of the tribe of Benjamin.
 
 ## Numbers 10:25
 Finally, the banner of the camp of Dan, which formed the rear guard for all the camps, set out by their divisions, with Ahiezer son of Ammishaddai in command.

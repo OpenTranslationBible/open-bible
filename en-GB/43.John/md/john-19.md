@@ -130,7 +130,7 @@ A jar full of sour wine was there; so they put a sponge full of the sour wine on
 
 ## John 19:30
 
-When Jesus had received the sour wine, He said, “It is finished!” And He bowed His head and gave up His spirit.
+After receiving the sour wine, Jesus declared, “It is finished!” Then He bowed His head and surrendered His spirit.
 
 ---
 

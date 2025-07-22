@@ -160,7 +160,7 @@ When the voice had spoken, they found Jesus was alone. The disciples kept this t
 
 ## Luke 9:37
 
-The next day, when they came down from the mountain, a large crowd met Him.
+The following day, as they descended from the mountain, a large crowd approached Him.
 
 ## Luke 9:38
 

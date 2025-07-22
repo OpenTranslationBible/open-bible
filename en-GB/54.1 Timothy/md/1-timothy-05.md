@@ -10,7 +10,7 @@ the older women as mothers, and the younger women as sisters, with complete puri
 
 ## 1 Timothy 5:3
 
-Honour widows who are truly widows;
+Show respect to widows who are truly in need;
 
 ## 1 Timothy 5:4
 
@@ -30,7 +30,7 @@ Provide these instructions as well, so that they may be above reproach.
 
 ## 1 Timothy 5:8
 
-But if anyone does not provide for his own, and especially for those of his household, he has denied the faith and is worse than an unbeliever.
+However, if anyone fails to care for his own, and especially for those of his household, he has denied the faith and is worse than one without belief.
 
 ## 1 Timothy 5:9
 

@@ -80,7 +80,7 @@ It was cold, and the servants and officers stood around a charcoal fire they had
 
 ## John 18:19
 
-The high priest then questioned Jesus about His disciples and His teaching.
+The high priest inquired of Jesus regarding His disciples and His teachings.
 
 ## John 18:20
 

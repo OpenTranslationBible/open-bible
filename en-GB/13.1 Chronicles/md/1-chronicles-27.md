@@ -200,7 +200,7 @@ Now over the king’s storehouses was Azmaveth the son of Adiel.
 
 ## 1 Chronicles 27:26
 
-> and over those who did the work of the field for tilling the soil was Ezri the son of Chelub;
+> and Ezri the son of Chelub was in charge of those who worked the fields for cultivating the soil;
 
 ---
 

@@ -61,7 +61,7 @@ He reasoned that God could raise the dead, and figuratively speaking, he did rec
 By faith Isaac blessed Jacob and Esau concerning things to come.
 
 ## Hebrews 11:21
-By faith Jacob, when dying, blessed each of the sons of Joseph, bowing in worship over the head of his staff.
+By faith Jacob, as he was dying, blessed each of the sons of Joseph, bowing in worship over the head of his staff.
 
 ## Hebrews 11:22
 By faith Joseph, nearing the end of his life, spoke of the exodus of the Israelites and gave instructions about his bones.

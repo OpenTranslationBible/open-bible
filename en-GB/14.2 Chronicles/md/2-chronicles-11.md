@@ -14,7 +14,7 @@ But the word of the Lord came to Shemaiah the man of God, saying,
 
 ## 2 Chronicles 11:3
 
-“Speak to Rehoboam the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin, saying,
+“Convey this message to Rehoboam, the son of Solomon, king of Judah, and to all Israel in Judah and Benjamin:
 
 ---
 

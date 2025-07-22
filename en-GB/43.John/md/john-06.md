@@ -72,7 +72,7 @@ got into a boat, and set off across the sea to Capernaum. It was already dark, a
 
 ## John 6:18
 
-The sea became rough because a strong wind was blowing.
+The sea became turbulent due to a strong wind.
 
 ## John 6:19
 
@@ -182,7 +182,7 @@ They said, “Is this not Jesus, the son of Joseph, whose father and mother we k
 
 ## John 6:43
 
-Jesus answered, “Stop grumbling among yourselves.
+Jesus answered, “Cease your murmuring among yourselves.
 
 ## John 6:44
 
@@ -194,7 +194,7 @@ It is written in the Prophets: ‘They will all be instructed by God.’ Everyon
 
 ## John 6:46
 
-No one has seen the Father except the One who is from God; only He has seen the Father.
+No one has seen the Father except the One who is from God; He alone has seen the Father.
 
 ## John 6:47
 

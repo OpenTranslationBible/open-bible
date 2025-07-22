@@ -82,7 +82,7 @@ How futile it is to spread a net in full view of all the birds!
 
 ## Proverbs 1:18
 
-But these men lie in wait for their own blood; they set an ambush for their own lives.
+But these men are setting a trap for themselves; they ambush their own lives.
 
 ## Proverbs 1:19
 

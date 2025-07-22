@@ -106,7 +106,7 @@ and held a feast for all his servants.
 
 ## 1 Kings 3:16
 
-Then two women who were prostitutes came to the king and stood before him.
+Then two prostitute women came to the king and stood before him.
 
 ## 1 Kings 3:17
 

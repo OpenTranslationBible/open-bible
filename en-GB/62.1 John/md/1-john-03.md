@@ -42,7 +42,7 @@ By this the children of God and the children of the devil are evident: anyone wh
 
 ## 1 John 3:11
 
-For this is the message you have heard from the beginning, that we should love one another;
+For this is the message you have heard right from the start: that we should love one another;
 
 ## 1 John 3:12
 

@@ -80,13 +80,13 @@ Ram fathered Amminadab, and Amminadab fathered Nahshon,
 
 ## 1 Chronicles 2:11
 
-Nahshon was the father of Salma, and Salma was the father of Boaz.
+Nahshon became the father of Salma, who in turn became the father of Boaz.
 
 ---
 
 ## 1 Chronicles 2:12
 
-Boaz fathered Obed, and Obed fathered Jesse.
+Boaz became the father of Obed, and Obed became the father of Jesse.
 
 ---
 

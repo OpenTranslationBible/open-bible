@@ -90,7 +90,7 @@ So you will walk in the ways of good people and keep to the paths of the righteo
 
 ## Proverbs 2:21
 
-For the upright will live in the land, and the blameless will remain in it;
+For those who are upright will inhabit the land, and those who are blameless will dwell in it;
 
 ## Proverbs 2:22
 

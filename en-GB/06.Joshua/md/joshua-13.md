@@ -42,7 +42,7 @@ and all the cities of Sihon king of the Amorites, who reigned in Heshbon, extend
 
 ## Joshua 13:11
 
-and Gilead, and the territory of the Geshurites and Maacathites, and all Mount Hermon, and all Bashan as far as Salecah;
+including Gilead, the lands of the Geshurites and Maacathites, all Mount Hermon, and all Bashan as far as Salecah;
 
 ## Joshua 13:12
 
@@ -58,7 +58,7 @@ Only to the tribe of Levi he did not give an inheritance; the offerings by fire 
 
 ## Joshua 13:15
 
-So Moses gave an inheritance to the tribe of the sons of Reuben according to their families:
+Thus, Moses allocated an inheritance to the tribe of the sons of Reuben according to their families:
 
 ## Joshua 13:16
 
@@ -94,7 +94,7 @@ The border of the Reubenites was the Jordan. This was the inheritance of the son
 
 ## Joshua 13:24
 
-Moses also gave an inheritance to the tribe of Gad, to the sons of Gad according to their families.
+Moses granted an inheritance to the tribe of Gad, to the sons of Gad, according to their families.
 
 ## Joshua 13:25
 

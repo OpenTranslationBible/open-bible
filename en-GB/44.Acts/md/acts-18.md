@@ -68,7 +68,7 @@ but since it concerns questions about words and names and your own law, see to i
 
 ## Acts 18:16
 
-And he drove them from the tribunal.
+And he dismissed them from the tribunal.
 
 ## Acts 18:17
 
@@ -110,7 +110,7 @@ Meanwhile, a Jew named Apollos, a native of Alexandria and an eloquent man, arri
 
 ## Acts 18:25
 
-He had been instructed in the way of the Lord and, being fervent in spirit, he spoke and taught accurately the things concerning Jesus, though he knew only the baptism of John.
+He had received instruction in the teachings of the Lord and, being fervent in spirit, he spoke and taught accurately the things concerning Jesus, though he knew only the baptism of John.
 
 ## Acts 18:26
 

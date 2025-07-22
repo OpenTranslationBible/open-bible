@@ -46,7 +46,7 @@ In their presence, I instructed Baruch, saying,
 For this is what the Lord of hosts, the God of Israel, says: Houses, fields, and vineyards will once more be acquired in this land.’
 
 ## Jeremiah 32:16
-After I had given the deed of purchase to Baruch son of Neriah, I prayed to the Lord, saying,
+Once I had handed the deed of purchase to Baruch son of Neriah, I prayed to the Lord, saying,
 
 ## Jeremiah 32:17
 ‘Ah, Sovereign Lord, You have made the heavens and the earth by Your great power and outstretched arm. Nothing is too difficult for You,

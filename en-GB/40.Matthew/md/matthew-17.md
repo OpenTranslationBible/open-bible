@@ -26,7 +26,7 @@ Upon hearing this, the disciples were so afraid that they fell to the ground.
 
 ## Matthew 17:7
 
-But Jesus came and touched them, saying, “Get up, and do not be afraid.”
+Then Jesus approached them, touched them, and said, “Rise, and do not be afraid.”
 
 ## Matthew 17:8
 

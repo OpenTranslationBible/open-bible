@@ -124,7 +124,7 @@ the curtains of the courtyard with its posts and bases, and the curtain for the 
 and the woven garments used for ministering in the sanctuary, both the sacred garments for Aaron the priest and the garments for his sons when serving as priests.
 
 ## Exodus 39:42
-The Israelites had done all the work just as the Lord had commanded Moses.
+The Israelites completed all the tasks precisely as the Lord had instructed Moses.
 
 ## Exodus 39:43
 Moses reviewed the work and saw that they had done it just as the Lord had commanded. So Moses blessed them.

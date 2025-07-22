@@ -22,7 +22,7 @@ Or have you not read in the Law that the priests in the temple desecrate the Sab
 
 ## Matthew 12:6
 
-But I tell you that something greater than the temple is here.
+However, I say to you, something greater than the temple is present.
 
 ## Matthew 12:7
 

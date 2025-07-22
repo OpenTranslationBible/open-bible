@@ -58,7 +58,7 @@ A hot-tempered person stirs up conflict, but one slow to anger calms a dispute.
 The way of the sluggard is like a hedge of thorns, but the path of the upright is a highway.
 
 ## Proverbs 15:20
-A wise son brings joy to his father, but a foolish man despises his mother.
+A wise child brings joy to their father, but a foolish person shows disregard for their mother.
 
 ## Proverbs 15:21
 Foolishness brings joy to one who lacks sense, but a person of understanding walks a straight path.

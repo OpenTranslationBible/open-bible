@@ -73,7 +73,7 @@ As Jehudi read three or four columns, the king cut them off with a scribe’s kn
 The king and all his servants who heard all these words did not show fear, nor did they tear their garments.
 
 ## Jeremiah 36:25
-Even though Elnathan, Delaiah, and Gemariah urged the king not to burn the scroll, he would not listen to them.
+Although Elnathan, Delaiah, and Gemariah implored the king not to burn the scroll, he refused to heed their words.
 
 ## Jeremiah 36:26
 Instead, the king commanded Jerahmeel, a son of the king, Seraiah son of Azriel, and Shelemiah son of Abdeel to seize Baruch the scribe and Jeremiah the prophet, but the Lord hid them.

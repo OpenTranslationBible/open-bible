@@ -176,7 +176,7 @@ and made it a latrine to this day.
 
 ## 2 Kings 10:28
 
-Thus Jehu eradicated Baal from Israel.
+In this way, Jehu removed Baal from Israel.
 
 ## 2 Kings 10:29
 

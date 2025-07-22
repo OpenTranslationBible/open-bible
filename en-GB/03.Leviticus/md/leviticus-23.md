@@ -13,7 +13,7 @@ For six days work may be done, but the seventh day is a Sabbath of complete rest
 These are the Lord’s appointed times, holy assemblies, which you shall proclaim at the times appointed for them:
 
 ## Leviticus 23:5
-In the first month, on the fourteenth day of the month at twilight, is the Lord’s Passover.
+On the fourteenth day of the first month at twilight, the Lord's Passover is observed.
 
 ## Leviticus 23:6
 On the fifteenth day of the same month is the Festival of Unleavened Bread to the Lord; for seven days you shall eat bread made without yeast.

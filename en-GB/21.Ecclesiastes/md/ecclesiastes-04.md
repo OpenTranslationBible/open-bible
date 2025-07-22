@@ -13,7 +13,7 @@ Yet better than both is the one who has never been born, who has not witnessed t
 I noticed that all labour and all achievement stem from one person's rivalry with another. This too is vanity, a pursuit of the wind.
 
 ## Ecclesiastes 4:5
-The fool folds his hands and consumes his own flesh.
+The fool sits idly and brings ruin upon himself.
 
 ## Ecclesiastes 4:6
 Better is one handful with tranquillity than two handfuls with toil and chasing after the wind.

@@ -86,7 +86,7 @@ the flight of an eagle in the sky, the movement of a snake on a rock, the course
 
 ## Proverbs 30:20
 
-This is the way of an adulterous woman: she eats and wipes her mouth and says, ‘I have done no wrong.’
+Such is the behaviour of an unfaithful woman: she eats the food, and then cleans her mouth so she can state: ‘I have done nothing wrong.’
 
 ## Proverbs 30:21
 

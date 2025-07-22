@@ -68,7 +68,7 @@ She is more precious than jewels, and nothing you desire can compare with her.
 
 ## Proverbs 3:16
 
-Long life is in her right hand; in her left hand are riches and honour.
+A long life accompanies her in one hand; in the other are wealth and honour.
 
 ## Proverbs 3:17
 
@@ -118,7 +118,7 @@ for the Lord will be your confidence and will keep your foot from being caught.
 
 ## Proverbs 3:27
 
-Do not withhold good from those to whom it is due, when it is in your power to act.
+Do not hold back good from those who deserve it, when it is within your power to help.
 
 ## Proverbs 3:28
 
@@ -136,7 +136,7 @@ Do not contend with anyone without cause, if they have done you no harm.
 
 ## Proverbs 3:31
 
-Do not envy the violent, and do not choose any of their ways.
+Do not be envious of those who are violent, and do not choose any of their ways.
 
 ## Proverbs 3:32
 

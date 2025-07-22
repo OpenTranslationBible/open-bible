@@ -89,7 +89,7 @@ being fully persuaded that God had the power to do what He had promised.
 
 ## Romans 4:22
 
-This is why “it was credited to him as righteousness.”
+This is the reason “it was credited to him as righteousness.”
 
 ## Romans 4:23
 

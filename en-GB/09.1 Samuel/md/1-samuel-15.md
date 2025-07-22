@@ -2,7 +2,7 @@
 
 ## 1 Samuel 15:1
 
-Samuel said to Saul, “The Lord sent me to anoint you king over His people Israel; now therefore, listen to the words of the Lord.
+Samuel addressed Saul, “The Lord has sent me to anoint you as king over His people Israel; now, therefore, heed the words of the Lord.
 
 ## 1 Samuel 15:2
 
@@ -42,7 +42,7 @@ But Saul and the people spared Agag, and the best of the sheep, the oxen, the fa
 
 ## 1 Samuel 15:10
 
-Then the word of the Lord came to Samuel, saying,
+Then a message from the Lord came to Samuel, saying,
 
 ## 1 Samuel 15:11
 
@@ -122,7 +122,7 @@ Now therefore, please pardon my sin and return with me, so that I may worship th
 
 ## 1 Samuel 15:26
 
-But Samuel said to Saul, “I will not return with you; for you have rejected the word of the Lord, and the Lord has rejected you from being king over Israel.”
+But Samuel responded to Saul, “I will not return with you; for you have rejected the word of the Lord, and the Lord has rejected you from being king over Israel.”
 
 ## 1 Samuel 15:27
 

@@ -6,7 +6,7 @@ And Saul consented to his death. On that day, a severe persecution arose against
 
 ## Acts 8:2
 
-Devout men buried Stephen and made great lamentation over him.
+Faithful men laid Stephen to rest and mourned deeply for him.
 
 ## Acts 8:3
 

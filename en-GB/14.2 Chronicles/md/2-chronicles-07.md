@@ -121,7 +121,7 @@ and I will forgive their sin and will heal their land.
 
 ## 2 Chronicles 7:15
 
-Now My eyes will be open and My ears attentive to the prayer offered in this place.
+Henceforth, My eyes shall be open and My ears attentive to the prayers made in this place.
 
 ---
 

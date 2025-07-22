@@ -131,7 +131,7 @@ How much better it would have been if the people had eaten freely today from the
 
 ## 1 Samuel 14:31
 
-They struck down the Philistines that day from Michmash to Aijalon, and the people were very faint.
+That day, they defeated the Philistines from Michmash to Aijalon, and the people were exceedingly weary.
 
 ## 1 Samuel 14:32
 
@@ -195,7 +195,7 @@ But the people said to Saul, “Shall Jonathan die, who has brought about this g
 
 ## 1 Samuel 14:46
 
-Then Saul withdrew from pursuing the Philistines, and the Philistines went to their own place.
+Then Saul ceased pursuing the Philistines, and the Philistines returned to their own place.
 
 ---
 

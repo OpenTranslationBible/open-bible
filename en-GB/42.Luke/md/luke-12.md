@@ -42,7 +42,7 @@ But whoever denies Me before others will be denied before the angels of God.
 
 ## Luke 12:10
 
-And everyone who speaks a word against the Son of Man will be forgiven, but whoever blasphemes against the Holy Spirit will not be forgiven.
+And anyone who speaks against the Son of Man will be forgiven, but whoever speaks against the Holy Spirit will not be forgiven.
 
 ## Luke 12:11
 
@@ -168,7 +168,7 @@ But be sure of this: if the owner of the house had known at what hour the thief 
 
 ## Luke 12:40
 
-You also must be ready, for the Son of Man is coming at an hour you do not expect.”
+You must also be prepared, for the Son of Man is coming at an unexpected hour.”
 
 ---
 
@@ -186,7 +186,7 @@ Blessed is that servant whom his master finds doing so when he returns.
 
 ## Luke 12:44
 
-Truly I tell you, he will put him in charge of all his possessions.
+Truly I tell you, he will entrust him with all his possessions.
 
 ## Luke 12:45
 

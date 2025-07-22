@@ -67,7 +67,7 @@ From Gershon came the families of the Libnites and the Shimeites; these were the
 Their numbered men, in the counting of every male from a month old and upward, were 7,500.
 
 ## Numbers 3:23
-The families of the Gershonites were to camp behind the tabernacle westward.
+The Gershonite families were to set up their camp westward, behind the tabernacle.
 
 ## Numbers 3:24
 The leader of the fathers’ households of the Gershonites was Eliasaph the son of Lael.

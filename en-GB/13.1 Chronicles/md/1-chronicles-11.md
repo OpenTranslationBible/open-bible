@@ -309,7 +309,7 @@ Now the mighty men of the armies were:
 
 ## 1 Chronicles 11:42
 
-> Adina the son of Shiza the Reubenite, a chief of the Reubenites, and thirty with him,
+> Adina the son of Shiza the Reubenite, a leader among the Reubenites, along with thirty others,
 
 ## 1 Chronicles 11:43
 

@@ -64,7 +64,7 @@ Moab is disgraced, for she is shattered. Wail and cry out! Proclaim by the Arnon
 Judgement has come to the plateau— to Holon, Jahzah and Mephaath,
 
 ## Jeremiah 48:22
-to Dibon, Nebo and Beth Diblathaim,
+to the cities of Dibon, Nebo and Beth Diblathaim,
 
 ## Jeremiah 48:23
 to the towns of Kiriathaim, Beth Gamul and Beth Meon,

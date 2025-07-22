@@ -72,7 +72,7 @@ from Mount Halak, which rises toward Seir, to Baal-gad in the Valley of Lebanon 
 
 ## Joshua 11:18
 
-Joshua waged war with all these kings for a long time.
+Joshua engaged in conflict with all these kings for an extended period.
 
 ## Joshua 11:19
 

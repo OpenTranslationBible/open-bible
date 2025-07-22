@@ -26,7 +26,7 @@ they are not to fulfill their duty to their father or mother with it. Thus you n
 
 ## Matthew 15:7
 
-You hypocrites! Isaiah was right when he prophesied about you:
+You pretenders! Isaiah was correct when he prophesied about you:
 
 ## Matthew 15:8
 

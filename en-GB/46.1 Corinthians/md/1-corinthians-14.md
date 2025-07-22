@@ -100,11 +100,11 @@ Therefore if the whole church gathers together and everyone speaks in tongues, a
 
 ## 1 Corinthians 14:24
 
-But if all prophesy, and an unbeliever or outsider enters, he is convicted by all, he is called to account by all;
+But if everyone prophesies, and an unbeliever or outsider enters, they are convinced by all, they are called to account by all;
 
 ## 1 Corinthians 14:25
 
-The secrets of his heart are revealed; and so he will fall on his face and worship God, declaring that God is truly among you.
+The secrets of their heart are revealed; and so they will fall on their face and worship God, declaring that God is truly among you.
 
 ## 1 Corinthians 14:26
 
@@ -148,7 +148,7 @@ If they wish to learn anything, let them ask their own husbands at home; for it 
 
 ## 1 Corinthians 14:36
 
-Or did the word of God originate with you? Or are you the only ones it has reached?
+Was it from you that the word of God originated? Or are you the only ones it has reached?
 
 ## 1 Corinthians 14:37
 

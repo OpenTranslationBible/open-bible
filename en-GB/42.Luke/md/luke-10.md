@@ -64,7 +64,7 @@ And you, Capernaum, will you be lifted to the heavens? No, you will be brought d
 
 ## Luke 10:16
 
-“Whoever listens to you listens to me; whoever rejects you rejects me; and whoever rejects me rejects the one who sent me.”
+“Those who listen to you are listening to me; those who reject you are rejecting me; and those who reject me are rejecting the one who sent me.”
 
 ---
 

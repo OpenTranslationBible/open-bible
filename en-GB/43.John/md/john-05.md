@@ -30,7 +30,7 @@ The sick man answered, “Sir, I have no one to help me into the pool when the w
 
 ## John 5:8
 
-Jesus said to him, “Get up, pick up your mat and walk.”
+Jesus said to him, “Rise, take up your mat and walk.”
 
 ## John 5:9
 
@@ -110,7 +110,7 @@ Truly, truly, I say to you, a time is coming and has now come when the dead will
 
 ## John 5:26
 
-For just as the Father has life in himself, so he has granted the Son also to have life in himself.
+For just as the Father has life in himself, so he has also granted the Son to have life in himself.
 
 ## John 5:27
 
@@ -142,7 +142,7 @@ There is another who testifies in my favour, and I am confident that his testimo
 
 ## John 5:33
 
-You have sent to John, and he has testified to the truth.
+You have sent to John, and he has borne witness to the truth.
 
 ## John 5:34
 
@@ -202,4 +202,4 @@ If you believed Moses, you would believe me, for he wrote about me.
 
 ## John 5:47
 
-But if you do not believe what he wrote, how will you believe what I say?
+But if you do not believe what he wrote, how will you trust in what I say?

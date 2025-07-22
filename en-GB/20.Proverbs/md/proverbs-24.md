@@ -104,7 +104,7 @@ But it will go well with those who convict the guilty, and a rich blessing will 
 
 ## Proverbs 24:26
 
-An honest answer is like a kiss on the lips.
+An honest sincere response is as pleasing as a gentle kiss.
 
 ## Proverbs 24:27
 

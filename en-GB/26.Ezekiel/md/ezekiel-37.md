@@ -106,7 +106,7 @@ I will make a covenant of peace with them; it will be an everlasting covenant. I
 
 ## Ezekiel 37:27
 
-My dwelling place will be with them; I will be their God, and they will be My people.
+I will live among them; I will be their God, and they will be My people.
 
 ## Ezekiel 37:28
 

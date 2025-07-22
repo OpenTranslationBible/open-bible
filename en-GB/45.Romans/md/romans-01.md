@@ -2,7 +2,7 @@
 
 ## Romans 1:1
 
-Paul, a servant of Christ Jesus, called to be an apostle, set apart for the gospel of God—
+Paul, a devoted follower of Christ Jesus, appointed as an apostle, designated for the gospel of God—
 
 ## Romans 1:2
 

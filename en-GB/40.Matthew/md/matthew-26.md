@@ -78,7 +78,7 @@ On the first day of the Festival of Unleavened Bread, the disciples came to Jesu
 
 ## Matthew 26:18
 
-He said, “Go into the city to a certain man and say to him, ‘The Teacher says: My time is near; I will keep the Passover at your house with my disciples.’”
+He instructed them, “Go into the city and find a certain man. Tell him, ‘The Teacher says: My time is near; I am to share the Passover at your house with my disciples.’”
 
 ## Matthew 26:19
 
@@ -126,7 +126,7 @@ for this is my blood of the covenant, which is poured out for many for the forgi
 
 ## Matthew 26:29
 
-But I say to you, I will not drink of this fruit of the vine from now on until that day when I drink it new with you in my Father’s kingdom.”
+But I tell you, I will not drink from this fruit of the vine again until that day when I drink it anew with you in my Father’s kingdom.”
 
 ## Matthew 26:30
 
@@ -303,7 +303,7 @@ Now Peter was sitting outside in the courtyard, and a servant girl came to him a
 
 ## Matthew 26:70
 
-But he denied it before them all, saying, “I do not know what you are talking about.”
+But he denied it in front of everyone, saying, “I do not know what you mean.”
 
 ## Matthew 26:71
 

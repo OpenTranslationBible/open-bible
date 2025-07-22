@@ -26,7 +26,7 @@ The diligent farmer should be the first to partake of the harvest.
 
 ## 2 Timothy 2:7
 
-Consider what I say, for the Lord will give you understanding in everything.
+Reflect on what I say, and the Lord will grant you insight into all things.
 
 ## 2 Timothy 2:8
 

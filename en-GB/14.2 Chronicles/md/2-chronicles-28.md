@@ -24,7 +24,7 @@ whom the Lord had driven out before the sons of Israel.
 
 ## 2 Chronicles 28:4
 
-He sacrificed and burned incense on the high places, on the hills, and under every green tree.
+He offered sacrifices and burned incense at the high places, on the hills, and beneath every green tree.
 
 ---
 
@@ -140,7 +140,7 @@ for he had brought about a lack of restraint in Judah, and was very unfaithful t
 
 ## 2 Chronicles 28:20
 
-So Tilgath-pilneser king of Assyria came against him and afflicted him instead of strengthening him.
+So Tilgath-pilneser king of Assyria came against him and oppressed him rather than supporting him.
 
 ---
 

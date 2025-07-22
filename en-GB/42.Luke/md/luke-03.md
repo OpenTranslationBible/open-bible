@@ -6,7 +6,7 @@ In the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was g
 
 ## Luke 3:2
 
-during the high priesthood of Annas and Caiaphas, the word of God came to John, the son of Zechariah, in the wilderness.
+at the time when Annas and Caiaphas were high priests, the word of God came to John, the son of Zechariah, in the wilderness.
 
 ## Luke 3:3
 

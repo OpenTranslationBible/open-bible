@@ -102,27 +102,27 @@ Eliashib was among those who served in the musical roles. Shallum, Telem, and Ur
 
 ## Ezra 10:25
 
-And among the other Israelites: From the descendants of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
+And among the other Israelites: From the lineage of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
 
 ## Ezra 10:26
 
-From the descendants of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+From the lineage of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
 
 ## Ezra 10:27
 
-From the descendants of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+From the lineage of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
 
 ## Ezra 10:28
 
-From the descendants of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
+From the lineage of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
 
 ## Ezra 10:29
 
-From the descendants of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
+From the family of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
 
 ## Ezra 10:30
 
-From the descendants of Pahath-Moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
+From the family of Pahath-Moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
 
 ## Ezra 10:31
 

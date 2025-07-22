@@ -28,7 +28,7 @@ These are the names of the sons of Israel who went to Egypt, Jacob and his sons:
 Reuben's sons were Hanoch, Pallu, Hezron, and Carmi.
 
 ## Genesis 46:10
-The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, the son of a Canaanite woman.
+The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, whose mother was a Canaanite.
 
 ## Genesis 46:11
 The sons of Levi: Gershon, Kohath, and Merari.

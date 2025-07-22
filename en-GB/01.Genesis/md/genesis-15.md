@@ -74,7 +74,7 @@ On that day, the Lord made a covenant with Abram, saying, “To your descendants
 
 ## Genesis 15:19
 
-the land of the Kenites, Kenizzites, Kadmonites,
+the territory of the Kenites, Kenizzites, Kadmonites,
 
 ## Genesis 15:20
 

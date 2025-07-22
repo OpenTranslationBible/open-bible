@@ -122,7 +122,7 @@ If I must boast, I will boast of the things that show my weakness.
 
 ## 2 Corinthians 11:31
 
-The God and Father of the Lord Jesus, He who is blessed forever, knows that I am not lying.
+The God and Father of our Lord Jesus, who is eternally blessed, knows that I am not lying.
 
 ## 2 Corinthians 11:32
 

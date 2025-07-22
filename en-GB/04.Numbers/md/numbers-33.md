@@ -210,7 +210,7 @@ you shall drive out all the inhabitants of the land from before you, destroy all
 
 ## Numbers 33:53
 
-You shall take possession of the land and settle in it, for I have given you the land to possess.
+You shall own the land and make it your home, for I have granted you the land to dwell in.
 
 ## Numbers 33:54
 

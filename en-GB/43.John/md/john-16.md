@@ -104,7 +104,7 @@ In that day, you will no longer ask me anything. Truly, truly I say to you, what
 
 ## John 16:24
 
-Until now, you have not asked for anything in my name. Ask and you will receive, so that your joy may be complete.
+Up to this point, you have not asked for anything in my name. Ask in my name and you will receive, that your joy may be fulfilled.
 
 ---
 
@@ -136,7 +136,7 @@ Now we see that you know all things and do not need anyone to question you. This
 
 ## John 16:31
 
-“Do you now believe?” Jesus replied.
+Jesus responded, “Do you believe now?”
 
 ## John 16:32
 

@@ -2,7 +2,7 @@
 
 ## 1 Kings 4:1
 
-King Solomon reigned over all Israel.
+King Solomon governed all of Israel.
 
 ## 1 Kings 4:2
 
@@ -44,7 +44,7 @@ Ben-hur, in the hill country of Ephraim;
 
 ## 1 Kings 4:9
 
-Ben-deker, in Makaz and Shaalbim, and Beth-shemesh, and Elon-beth-hanan;
+Ben-deker, in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;
 
 ## 1 Kings 4:10
 
@@ -148,7 +148,7 @@ to the place where it was needed, each according to his charge.
 
 ## 1 Kings 4:29
 
-Now God gave Solomon wisdom and very great discernment  
+God granted Solomon wisdom and very great discernment  
 and breadth of understanding, like the sand that is on the seashore.
 
 ## 1 Kings 4:30

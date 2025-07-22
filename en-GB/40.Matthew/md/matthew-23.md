@@ -126,7 +126,7 @@ And you say, ‘If we had lived in the days of our ancestors, we would not have 
 
 ## Matthew 23:31
 
-Thus you testify against yourselves that you are descendants of those who murdered the prophets.
+In saying this, you acknowledge that you are descendants of those who murdered the prophets.
 
 ## Matthew 23:32
 

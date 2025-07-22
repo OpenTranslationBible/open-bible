@@ -58,7 +58,7 @@ Rash words pierce like swords, but the tongue of the wise brings healing.
 Truthful speech is enduring, but deceitful words are short-lived.
 
 ## Proverbs 12:20
-Deceit is in the hearts of those who plot evil, but those who promote peace have joy.
+Those who harbour deceit in their hearts plot evil, but those who promote peace experience joy.
 
 ## Proverbs 12:21
 The righteous encounter no lasting harm, but the wicked are filled with trouble.

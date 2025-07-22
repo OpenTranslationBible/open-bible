@@ -34,7 +34,7 @@ I am not issuing this as a command, but as a means to test the sincerity of your
 
 ## 2 Corinthians 8:9
 
-For you know the grace of our Lord Jesus Christ, that though He was rich, yet for your sake He became poor, so that you through His poverty might become rich.
+For you are aware of the grace of our Lord Jesus Christ, that although He was rich, for your benefit He embraced poverty, so that by His poverty you might become rich.
 
 ## 2 Corinthians 8:10
 

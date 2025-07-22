@@ -14,7 +14,7 @@ And if I go and prepare a place for you, I will return and take you to be with m
 
 ## John 14:4
 
-And you know the way to where I am going.”
+And you are aware of the path to the place I am going.”
 
 ## John 14:5
 

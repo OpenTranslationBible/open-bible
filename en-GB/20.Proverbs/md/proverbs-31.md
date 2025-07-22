@@ -50,7 +50,7 @@ Her husband has full confidence in her, and he will have no lack of gain.
 
 ## Proverbs 31:12
 
-She brings him good, not harm, all the days of her life.
+She brings him good and not harm, throughout her life.
 
 ## Proverbs 31:13
 
@@ -110,7 +110,7 @@ She opens her mouth with wisdom, and the teaching of kindness is on her tongue.
 
 ## Proverbs 31:27
 
-She watches over the affairs of her household, and does not eat the bread of idleness.
+She oversees the activities of her household, and does not partake in idleness.
 
 ## Proverbs 31:28
 

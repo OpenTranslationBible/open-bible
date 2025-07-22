@@ -106,4 +106,4 @@ may the Lord look upon you with kindness and grant you peace.”’
 
 ## Numbers 6:27
 
-“So they shall put My name on the Israelites, and I will bless them.”
+“In this way, they shall invoke My name upon the Israelites, and I will bless them.”

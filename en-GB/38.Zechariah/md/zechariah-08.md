@@ -1,7 +1,7 @@
 # Zechariah Chapter 8
 
 ## Zechariah 8:1
-The word of the Lord of hosts came to me, saying,
+A message from the Lord of hosts was given to me:
 
 ## Zechariah 8:2
 This is what the Lord of hosts says: “I am exceedingly jealous for Zion; I am burning with great jealousy for her.”
@@ -52,7 +52,7 @@ These are the things you shall do: speak the truth to each other, and render tru
 do not plot evil against each other, and do not love perjury. I hate all these things,” declares the Lord.
 
 ## Zechariah 8:18
-The word of the Lord of hosts came to me, saying,
+A message from the Lord of hosts was given to me:
 
 ## Zechariah 8:19
 This is what the Lord of hosts says: “The fasts of the fourth, fifth, seventh, and tenth months will become joyful and glad occasions and happy festivals for the house of Judah. Therefore, love truth and peace.”

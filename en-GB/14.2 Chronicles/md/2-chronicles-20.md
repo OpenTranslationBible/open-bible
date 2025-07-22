@@ -206,7 +206,7 @@ returning to Jerusalem with joy, for the Lord had made them rejoice over their e
 
 ## 2 Chronicles 20:28
 
-They came to Jerusalem with harps, lyres, and trumpets, to the house of the Lord.
+They entered Jerusalem with harps, lyres, and trumpets, proceeding to the house of the Lord.
 
 ---
 

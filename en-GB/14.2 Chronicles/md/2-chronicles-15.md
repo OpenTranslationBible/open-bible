@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 15:1
 
-Now the Spirit of God came on Azariah the son of Oded,
+The Spirit of God descended upon Azariah, the son of Oded,
 
 ---
 
@@ -32,7 +32,7 @@ During those times, there was no peace for those who went out or came in, becaus
 
 ## 2 Chronicles 15:6
 
-Nation was crushed by nation, and city by city, for God troubled them with every kind of distress.
+Nation clashed against nation, and city against city, for God troubled them with various kinds of distress.
 
 ---
 
@@ -56,7 +56,7 @@ And he gathered all Judah and Benjamin, and those from Ephraim, Manasseh, and Si
 
 ## 2 Chronicles 15:10
 
-So they assembled at Jerusalem in the third month of the fifteenth year of Asa’s reign.
+Thus, they gathered at Jerusalem in the third month of the fifteenth year of Asa’s reign.
 
 ---
 

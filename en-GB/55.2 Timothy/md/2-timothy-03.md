@@ -14,7 +14,7 @@ unloving, irreconcilable, malicious gossips, lacking self-control, brutal, hater
 
 ## 2 Timothy 3:4
 
-treacherous, reckless, conceited, lovers of pleasure rather than lovers of God,
+traitorous, rash, full of themselves, preferring pleasure over devotion to God,
 
 ## 2 Timothy 3:5
 

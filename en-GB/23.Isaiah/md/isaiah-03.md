@@ -102,7 +102,7 @@ And it shall come to pass that instead of fragrance there will be a stench; inst
 
 ## Isaiah 3:25
 
-Your men shall fall by the sword, and your warriors in battle.
+Your men shall meet their fate by the sword, and your warriors shall fall in battle.
 
 ## Isaiah 3:26
 

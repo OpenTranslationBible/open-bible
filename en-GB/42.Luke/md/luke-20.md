@@ -22,7 +22,7 @@ They reasoned among themselves, saying, “If we say, ‘From heaven,’ He will
 
 ## Luke 20:6
 
-But if we say, ‘From men,’ all the people will stone us, for they are convinced that John was a prophet.”
+However, if we claim, ‘From men,’ the people will stone us, for they are convinced that John was a prophet.”
 
 ## Luke 20:7
 

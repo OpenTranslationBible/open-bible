@@ -52,7 +52,7 @@ Outside are those who engage in sorcery, immorality, murder, idolatry, and all w
 The Spirit and the bride say, “Come.” And let the one who hears say, “Come.” Let the one who is thirsty come; let the one who desires take the water of life freely.
 
 ## Revelation 22:18
-I warn everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to that person the plagues described in this book.
+I caution everyone who hears the words of the prophecy of this book: if anyone adds to them, God will add to that person the plagues described in this book.
 
 ## Revelation 22:19
 And if anyone removes from the words of the book of this prophecy, God will remove that person's share in the tree of life and in the Holy City, which are described in this book.

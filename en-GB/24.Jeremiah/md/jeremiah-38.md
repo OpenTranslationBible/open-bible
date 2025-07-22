@@ -61,7 +61,7 @@ King Zedekiah said to Jeremiah, “I am afraid of the Jews who have gone over to
 Jeremiah replied, “They will not hand you over. Obey the Lord by doing what I tell you, so that it may go well with you and you may live.
 
 ## Jeremiah 38:21
-But if you refuse to surrender, this is what the Lord has revealed to me:
+However, if you choose not to surrender, the Lord has shown me this:
 
 ## Jeremiah 38:22
 ‘Behold, all the women left in the palace of the king of Judah will be brought out to the officials of the king of Babylon. Those women will say to you: “Your close friends have misled and overpowered you. Your feet are sunk in the mud; they have deserted you.”

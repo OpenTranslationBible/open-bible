@@ -134,7 +134,7 @@ All the nations will be gathered before him, and he will separate the people one
 
 ## Matthew 25:33
 
-He will put the sheep on his right and the goats on his left.
+He will place the sheep on his right side and the goats on his left.
 
 ## Matthew 25:34
 

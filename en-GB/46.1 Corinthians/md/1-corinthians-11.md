@@ -2,7 +2,7 @@
 
 ## 1 Corinthians 11:1
 
-Be imitators of me, just as I also am of Christ.
+Follow my example, just as I follow the example of Christ.
 
 ## 1 Corinthians 11:2
 
@@ -30,7 +30,7 @@ A man ought not to cover his head, since he is the image and glory of God; but t
 
 ## 1 Corinthians 11:8
 
-For man does not originate from woman, but woman from man;
+For man does not come from woman, but woman comes from man;
 
 ## 1 Corinthians 11:9
 
@@ -42,7 +42,7 @@ Therefore, a woman ought to have a sign of authority on her head, because of the
 
 ## 1 Corinthians 11:11
 
-Nevertheless, in the Lord, woman is not independent of man, nor is man independent of woman.
+However, in the Lord, woman is not separate from man, nor is man separate from woman.
 
 ## 1 Corinthians 11:12
 

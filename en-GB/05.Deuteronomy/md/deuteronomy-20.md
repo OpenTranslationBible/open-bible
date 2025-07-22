@@ -10,7 +10,7 @@ As you are about to engage in battle, the priest shall come forward and speak to
 He shall say: “Listen, Israel, today you are going into battle against your enemies. Do not be fainthearted or afraid; do not panic or be terrified of them.
 
 ## Deuteronomy 20:4
-For the Lord your God is the one who goes with you to fight for you against your enemies, to give you victory.”
+For the Lord your God accompanies you to fight on your behalf against your enemies, ensuring your triumph.”
 
 ## Deuteronomy 20:5
 The officers shall then speak to the people, saying, “Has anyone built a new house and not yet dedicated it? Let him go back to his house, lest he die in battle and another man dedicate it.

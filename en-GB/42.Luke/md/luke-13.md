@@ -104,7 +104,7 @@ Someone inquired of Him, “Lord, will only a few be saved?” He responded to t
 
 ## Luke 13:24
 
-“Strive to enter through the narrow door, for many, I tell you, will try to enter and will not be able.
+“Make every effort to enter through the narrow door, for I tell you many will try but not be able.
 
 ## Luke 13:25
 

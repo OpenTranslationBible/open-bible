@@ -74,7 +74,7 @@ If I rebuild what I have destroyed, I prove myself to be a transgressor.
 
 ## Galatians 2:19
 
-For through the law I died to the law, so that I might live for God.
+For by the law, I have died to the law, so that I might live for God.
 
 ## Galatians 2:20
 

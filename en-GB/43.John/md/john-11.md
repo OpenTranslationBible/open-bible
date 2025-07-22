@@ -122,7 +122,7 @@ After saying this, she went back and called her sister Mary aside. “The Teache
 
 ## John 11:29
 
-When Mary heard this, she got up quickly and went to Him.
+Upon hearing this, Mary rose quickly and went to Him.
 
 ## John 11:30
 

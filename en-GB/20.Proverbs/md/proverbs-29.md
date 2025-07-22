@@ -2,7 +2,7 @@
 
 ## Proverbs 29:1
 
-One who is often reproved yet remains stubborn will suddenly be broken beyond healing.
+A person who frequently receives correction yet remains obstinate will suddenly face consequences beyond remedy.
 
 ## Proverbs 29:2
 

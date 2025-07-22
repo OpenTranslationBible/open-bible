@@ -44,7 +44,7 @@ He boarded the boat with His disciples and travelled to the region of Dalmanutha
 
 ## Mark 8:11
 
-The Pharisees came and began to argue with Him, asking Him for a sign from heaven, to test Him.
+The Pharisees approached and began to question Him, seeking a sign from heaven to challenge Him.
 
 ## Mark 8:12
 

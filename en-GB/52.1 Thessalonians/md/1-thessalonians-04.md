@@ -6,11 +6,11 @@ Finally then, brothers and sisters, we ask and urge you in the Lord Jesus, that 
 
 ## 1 Thessalonians 4:2
 
-For you know what instructions we gave you by the authority of the Lord Jesus.
+For you are aware of the instruction we provided you through the authority of the Lord Jesus.
 
 ## 1 Thessalonians 4:3
 
-For this is the will of God, your sanctification: that you abstain from sexual immorality;
+For this is God's desire for you, your sanctification: that you refrain from sexual immorality;
 
 ## 1 Thessalonians 4:4
 

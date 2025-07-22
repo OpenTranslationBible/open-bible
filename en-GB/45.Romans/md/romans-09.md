@@ -77,7 +77,7 @@ Therefore, He has mercy on whom He wants to have mercy, and He hardens whom He w
 
 ## Romans 9:19
 
-You will say to me then, “Why does He still find fault? For who can resist His will?”
+You might then ask, “Why does He still find fault? For who can oppose His will?”
 
 ## Romans 9:20
 

@@ -2,7 +2,7 @@
 
 ## 1 John 4:1
 
-Beloved, do not believe every spirit, but test the spirits to see whether they are from God, because many false prophets have gone out into the world.
+Dear friends, do not trust every spirit, but examine the spirits to determine if they are from God, for many false prophets have gone out into the world.
 
 ## 1 John 4:2
 
@@ -30,7 +30,7 @@ Dear friends, let us love each other, for love is from God; and everyone who lov
 
 ## 1 John 4:8
 
-The one who does not love does not know God, because God is love.
+Anyone who does not love does not know God, because God is love.
 
 ## 1 John 4:9
 

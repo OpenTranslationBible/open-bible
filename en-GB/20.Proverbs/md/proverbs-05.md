@@ -62,7 +62,7 @@ I was almost in complete ruin in the midst of the assembly and congregation.”
 
 ## Proverbs 5:15
 
-Drink water from your own cistern, and fresh water from your own well.
+Only drink water from your own storage jars, and only draw your fresh water from your own wells.
 
 ## Proverbs 5:16
 

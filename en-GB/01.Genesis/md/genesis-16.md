@@ -46,4 +46,4 @@ That is why the well was called Beer-lahai-roi; it is still there, between Kades
 Hagar bore Abram a son, and Abram named the son she bore Ishmael.
 
 ## Genesis 16:16
-Abram was eighty-six years old when Hagar gave birth to Ishmael.
+Abram was eighty-six years of age when Hagar gave birth to Ishmael.

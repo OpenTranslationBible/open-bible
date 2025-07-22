@@ -78,7 +78,7 @@ When Ahab heard that Naboth was dead, he got up and went down to take possession
 
 ## 1 Kings 21:17
 
-Then the word of the Lord came to Elijah the Tishbite:
+The word of the Lord came to Elijah the Tishbite and it was:
 
 ## 1 Kings 21:18
 
@@ -130,7 +130,7 @@ He lay in sackcloth and went about quietly and humbly.
 
 ## 1 Kings 21:28
 
-Then the word of the Lord came to Elijah the Tishbite:
+The message of the Lord came to Elijah the Tishbite:
 
 ## 1 Kings 21:29
 

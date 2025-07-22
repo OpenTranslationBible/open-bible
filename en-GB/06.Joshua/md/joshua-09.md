@@ -12,7 +12,7 @@ they gathered together with a single purpose: to fight against Joshua and Israel
 
 ## Joshua 9:3
 
-But when the inhabitants of Gibeon heard what Joshua had done to Jericho and Ai,
+However, when the inhabitants of Gibeon learned of Joshua's actions towards Jericho and Ai,
 
 ## Joshua 9:4
 

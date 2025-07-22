@@ -2,7 +2,7 @@
 
 ## 1 Kings 16:1
 
-Now the word of the Lord came to Jehu the son of Hanani against Baasha, saying,
+The message from the Lord was delivered to Jehu the son of Hanani concerning Baasha, saying,
 
 ## 1 Kings 16:2
 
@@ -93,7 +93,7 @@ So all Israel made Omri, the commander of the army, king over Israel that day in
 
 ## 1 Kings 16:17
 
-Then Omri and all Israel with him went up from Gibbethon and besieged Tirzah.
+Omri and all Israel with him advanced from Gibbethon and laid siege to Tirzah.
 
 ## 1 Kings 16:18
 

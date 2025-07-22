@@ -78,7 +78,7 @@ Do not quench the Spirit,
 
 ## 1 Thessalonians 5:20
 
-do not treat prophecies with contempt.
+do not contemptuously disregard prophecies.
 
 ## 1 Thessalonians 5:21
 

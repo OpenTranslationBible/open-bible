@@ -1,7 +1,7 @@
 # Ephesians Chapter 2
 
 ## Ephesians 2:1
-And you were dead in your trespasses and sins,
+And you were spiritually lifeless in your transgressions and sins,
 
 ## Ephesians 2:2
 in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the children of disobedience.
@@ -34,7 +34,7 @@ For we are His workmanship, created in Christ Jesus for good works, which God pr
 Therefore, remember that formerly you, the Gentiles in the flesh, who are called “the uncircumcised” by those who call themselves “the circumcised” (which is done in the body by human hands)—
 
 ## Ephesians 2:12
-remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world.
+remember that you were at that time distanced from Christ, excluded from the commonwealth of Israel, and unfamiliar with the covenants of promise, without hope and without God in the world.
 
 ## Ephesians 2:13
 But now in Christ Jesus you who once were far off have been brought near by the blood of Christ.
@@ -49,7 +49,7 @@ by setting aside the law of commandments contained in regulations, that He might
 and might reconcile us both to God in one body through the cross, thereby putting an end to the hostility.
 
 ## Ephesians 2:17
-And He came and preached peace to you who were far off and peace to those who were near.
+And He came and proclaimed peace to you who were distant and peace to those who were near.
 
 ## Ephesians 2:18
 For through Him we both have access in one Spirit to the Father.

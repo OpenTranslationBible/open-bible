@@ -6,7 +6,7 @@ In the days of Ahasuerus, the Ahasuerus who reigned over 127 provinces from Indi
 
 ## Esther 1:2
 
-in those days when King Ahasuerus sat on his royal throne in the citadel of Susa,
+during the time when King Ahasuerus was seated on his royal throne in the fortress of Susa,
 
 ## Esther 1:3
 

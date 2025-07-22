@@ -64,7 +64,7 @@ And he said, ‘I will hide my face from them, I will see what their end will be
 They have made me jealous with what is not a god; they have angered me with their idols. So I will make them envious with those who are not a people; I will provoke them with a senseless nation.
 
 ## Deuteronomy 32:22
-For a fire is kindled by my anger, and it burns to the depths of Sheol, devours the earth and its increase, and sets on fire the foundations of the mountains.
+For a fire is ignited by my anger, and it burns to the depths of the grave, consuming the earth and its yield, and setting ablaze the foundations of the mountains.
 
 ## Deuteronomy 32:23
 And I will bring disasters upon them; I will exhaust my arrows on them.
@@ -85,7 +85,7 @@ had I not feared the taunt of the enemy, lest their adversaries should misunders
 For they are a nation void of counsel, and there is no understanding in them.
 
 ## Deuteronomy 32:29
-If they were wise, they would understand this; they would discern their latter end!
+If they possessed wisdom, they would comprehend this; they would discern their ultimate fate!
 
 ## Deuteronomy 32:30
 How could one have chased a thousand, and two have put ten thousand to flight, unless their Rock had given them up, and the Lord had handed them over?
@@ -94,19 +94,19 @@ How could one have chased a thousand, and two have put ten thousand to flight, u
 For their rock is not as our Rock; our enemies themselves being judges.
 
 ## Deuteronomy 32:32
-For their vine comes from the vine of Sodom and from the fields of Gomorrah; their grapes are grapes of poison, their clusters are bitter.
+For their vine is from the vine of Sodom and from the fields of Gomorrah; their grapes are grapes of poison, their clusters are bitter.
 
 ## Deuteronomy 32:33
-Their wine is the poison of serpents and the cruel venom of asps.
+Their wine is like the poison of serpents and the cruel venom of asps.
 
 ## Deuteronomy 32:34
 ‘Is not this laid up in store with me, sealed up in my treasuries?
 
 ## Deuteronomy 32:35
-Vengeance is mine, and recompense, for the time when their foot shall slip; for the day of their calamity is at hand, and their doom comes swiftly.’
+Vengeance belongs to me, and repayment, for the time when their foot shall slip; for the day of their calamity is near, and their doom approaches swiftly.’
 
 ## Deuteronomy 32:36
-For the Lord will vindicate his people and have compassion on his servants, when he sees that their power is gone, and there is none remaining, bond or free.
+For the Lord will vindicate his people and show compassion on his servants, when he sees that their strength is gone, and there is none remaining, bond or free.
 
 ## Deuteronomy 32:37
 Then he will say, ‘Where are their gods, the rock in which they took refuge,
@@ -115,10 +115,10 @@ Then he will say, ‘Where are their gods, the rock in which they took refuge,
 who ate the fat of their sacrifices and drank the wine of their drink offering? Let them rise up and help you, let them be your protection!
 
 ## Deuteronomy 32:39
-See now that I, even I, am he, and there is no god beside me; I kill and I make alive; I wound and I heal; and there is none that can deliver out of my hand.
+Observe now that I, even I, am he, and there is no god beside me; I bring death and give life; I wound and I heal; and there is none that can deliver out of my hand.
 
 ## Deuteronomy 32:40
-For I lift up my hand to heaven and swear, As I live forever,
+For I lift up my hand to heaven and declare: As I live forever,
 
 ## Deuteronomy 32:41
 if I sharpen my gleaming sword and my hand takes hold on judgement, I will take vengeance on my adversaries and will repay those who hate me.
@@ -130,7 +130,7 @@ I will make my arrows drunk with blood, and my sword shall devour flesh— with 
 Rejoice, O nations, with his people; for he will avenge the blood of his servants, and will take vengeance on his adversaries, and will make atonement for his land and people.
 
 ## Deuteronomy 32:44
-Moses came and recited all the words of this song in the hearing of the people, he and Joshua the son of Nun.
+Moses came and spoke all the words of this song in the hearing of the people, he and Joshua the son of Nun.
 
 ## Deuteronomy 32:45
 And when Moses had finished speaking all these words to all Israel,

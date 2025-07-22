@@ -182,7 +182,7 @@ Whoever seeks to preserve their life will lose it, and whoever loses their life 
 
 ## Matthew 10:40
 
-“Anyone who welcomes you welcomes me, and anyone who welcomes me welcomes the one who sent me.
+“Anyone who receives you receives me, and anyone who receives me receives the one who sent me.
 
 ## Matthew 10:41
 

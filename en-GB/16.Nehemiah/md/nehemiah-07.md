@@ -114,7 +114,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:28
 
-> the men of Beth Azmaveth, 42;
+> the people of Beth Azmaveth, 42;
 
 ## Nehemiah 7:29
 
@@ -272,7 +272,7 @@ These were the ones who came up from Tel Melah, Tel Harsha, Cherub, Addon, and I
 
 ## Nehemiah 7:62
 
-the descendants of Delaiah, Tobiah, and Nekoda, 642.
+the families of Delaiah, Tobiah, and Nekoda, 642.
 
 ## Nehemiah 7:63
 

@@ -8,7 +8,7 @@ for Hiram had always been a friend to David.
 
 ## 1 Kings 5:2
 
-Then Solomon sent word to Hiram, saying,
+Solomon then messaged Hiram, saying,
 
 ## 1 Kings 5:3
 

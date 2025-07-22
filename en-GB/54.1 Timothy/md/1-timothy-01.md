@@ -30,7 +30,7 @@ desiring to be teachers of the Law, though they do not comprehend what they are 
 
 ## 1 Timothy 1:8
 
-But we know that the Law is good, if one uses it lawfully,
+Yet we understand that the Law is beneficial, provided it is used properly,
 
 ## 1 Timothy 1:9
 

@@ -19,10 +19,10 @@ when people fear heights and dangers in the streets; when the almond tree blosso
 Remember your Creator before the silver cord is severed, and the golden bowl is broken; before the pitcher is shattered at the spring, and the wheel is broken at the well,
 
 ## Ecclesiastes 12:7
-and the dust returns to the earth as it was, and the spirit returns to God who gave it.
+and the dust returns to the ground as it was, and the spirit goes back to God who gave it.
 
 ## Ecclesiastes 12:8
-“Vanity of vanities,” says the Teacher, “all is vanity!”
+“Utter futility,” says the Teacher, “all is futile!”
 
 ## Ecclesiastes 12:9
 In addition to being wise, the Teacher also imparted knowledge to the people. He pondered, searched out, and arranged many proverbs.

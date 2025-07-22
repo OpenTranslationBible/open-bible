@@ -10,7 +10,7 @@ But the one who enters by the gate is the shepherd of the sheep.
 
 ## John 10:3
 
-The gatekeeper opens the gate for him, and the sheep hear his voice. He calls his own sheep by name and leads them out.
+The gatekeeper allows him to enter, and the sheep come then they hear his voice. He calls his own sheep by name and they follow him.
 
 ## John 10:4
 
@@ -32,7 +32,7 @@ So Jesus said again, “Truly, truly I say to you, I am the gate for the sheep.
 
 ## John 10:8
 
-All who came before me are thieves and robbers, but the sheep did not listen to them.
+All who came before me were like thieves and robbers, but the sheep did not listen to them.
 
 ## John 10:9
 

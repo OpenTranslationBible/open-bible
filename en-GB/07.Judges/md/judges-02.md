@@ -86,7 +86,7 @@ Therefore, the Lord’s anger burned against Israel, and he said, “Because thi
 
 ## Judges 2:21
 
-I will no longer drive out before them any of the nations Joshua left when he died.
+I will cease to drive out any of the nations that Joshua left behind when he passed away.
 
 ## Judges 2:22
 

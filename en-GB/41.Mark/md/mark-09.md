@@ -24,7 +24,7 @@ Peter spoke to Jesus, “Rabbi, it is good for us to be here. Let us construct t
 
 ## Mark 9:6
 
-He did not know what to say, for they were terrified.
+Peter was at a loss for words, for they were filled with fear.
 
 ## Mark 9:7
 

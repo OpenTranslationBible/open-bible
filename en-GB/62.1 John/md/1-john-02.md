@@ -14,7 +14,7 @@ By this we understand that we have come to know Him, if we keep His commandments
 
 ## 1 John 2:4
 
-The one who says, “I have come to know Him,” and does not keep His commandments, is a liar, and the truth is not in him;
+Anyone who claims, “I have come to know Him,” yet does not keep His commandments, is deceiving themselves, and the truth is not in them;
 
 ## 1 John 2:5
 
@@ -91,7 +91,7 @@ They went out from us, but they were not truly of us; for if they had been of us
 
 ## 1 John 2:20
 
-But you have an anointing from the Holy One, and you all know.
+Yet you have received an anointing from the Holy One, and you are all aware.
 
 ## 1 John 2:21
 

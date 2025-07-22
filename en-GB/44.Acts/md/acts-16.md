@@ -138,7 +138,7 @@ They replied, “Believe in the Lord Jesus, and you will be saved, you and your 
 
 ## Acts 16:32
 
-They spoke the word of the Lord to him and to all who were in his house.
+They shared the message of the Lord with him and with all who were in his house.
 
 ## Acts 16:33
 

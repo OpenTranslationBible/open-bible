@@ -13,7 +13,7 @@ You and Aaron are to count all the men in Israel who are twenty years old or mor
 With you shall be a man from each tribe, each one the head of his family.
 
 ## Numbers 1:5
-These are the names of the men who shall assist you: from Reuben, Elizur son of Shedeur;
+Here are the names of the men who will assist you: from Reuben, Elizur son of Shedeur;
 
 ## Numbers 1:6
 from Simeon, Shelumiel son of Zurishaddai;
@@ -49,7 +49,7 @@ from Naphtali, Ahira son of Enan.
 These were the men appointed from the community, the leaders of their fathers’ tribes; they were the heads of the clans of Israel.
 
 ## Numbers 1:17
-Moses and Aaron took these men who had been designated by name,
+Moses and Aaron gathered these men who had been designated by name,
 
 ## Numbers 1:18
 and they assembled the whole congregation on the first day of the second month. They registered by ancestry in their families, by their fathers’ households, according to the number of names, from twenty years old and upward, one by one,
@@ -142,7 +142,7 @@ The total number was 603,550.
 The tribe of Levi, however, was not counted along with the others.
 
 ## Numbers 1:48
-For the Lord had spoken to Moses, saying,
+For the Lord had spoken to Moses, instructing him,
 
 ## Numbers 1:49
 “You are not to count the tribe of Levi or include them in the census of the other Israelites.

@@ -138,7 +138,7 @@ When they heard about the resurrection of the dead, some of them mocked, but oth
 
 ## Acts 17:33
 
-At that, Paul left the Council.
+With that, Paul departed from the Council.
 
 ## Acts 17:34
 

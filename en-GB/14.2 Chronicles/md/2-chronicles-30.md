@@ -67,7 +67,7 @@ However, some men from Asher, Manasseh, and Zebulun humbled themselves and came 
 
 ## 2 Chronicles 30:12
 
-The hand of God was also on Judah to give them one heart to do what the king and the officials commanded by the word of the Lord.
+God also moved the hearts of the people of Judah to unite them in following the commands of the king and the officials, in accordance with the word of the Lord.
 
 ---
 

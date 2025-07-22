@@ -94,7 +94,7 @@ After saying this, Jesus was troubled in spirit and testified, “Truly, truly I
 
 ## John 13:22
 
-The disciples looked at one another, uncertain of whom He was speaking.
+The disciples looked at each other, unsure of whom He was referring to.
 
 ## John 13:23
 

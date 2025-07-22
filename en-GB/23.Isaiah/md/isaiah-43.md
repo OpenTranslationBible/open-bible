@@ -16,7 +16,7 @@ Since you are precious in my sight, honoured and loved, I will give people in ex
 Do not be afraid, for I am with you; I will bring your offspring from the east and gather you from the west.
 
 ## Isaiah 43:6
-I will say to the north, ‘Give them up!’ and to the south, ‘Do not hold them back.’ Bring my sons from afar and my daughters from the ends of the earth—
+I will command the north to release them, and the south not to hold them back. Gather my sons from distant lands and my daughters from the farthest corners of the earth—
 
 ## Isaiah 43:7
 everyone who is called by my name, whom I created for my glory, whom I formed and made.”

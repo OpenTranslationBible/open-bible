@@ -281,7 +281,7 @@ Meshobab, Jamlech, and Joshah, fathered Amaziah,
 
 ## 1 Chronicles 4:35
 
-and Joel and Jehu the son of Joshibiah, the son of Seraiah, the son of Asiel,
+along with Joel and Jehu, descendant of Joshibiah, Seraiah, and Asiel,
 
 ## 1 Chronicles 4:36
 

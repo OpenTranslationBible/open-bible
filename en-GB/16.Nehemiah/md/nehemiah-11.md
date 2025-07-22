@@ -112,7 +112,7 @@ As for the villages with their fields, some of the people of Judah lived in Kiri
 
 ## Nehemiah 11:26
 
-in Jeshua, Moladah, and Beth Pelet,
+in the towns of Jeshua, Moladah, and Beth Pelet,
 
 ## Nehemiah 11:27
 

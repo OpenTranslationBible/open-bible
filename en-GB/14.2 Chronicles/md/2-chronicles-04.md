@@ -119,7 +119,7 @@ He also crafted the stands and the basins that were placed on them,
 
 ## 2 Chronicles 4:15
 
-> and the one Sea with the twelve oxen under it.
+> and the Sea along with the twelve oxen beneath it.
 
 ---
 

@@ -13,7 +13,7 @@ Then the Lord addressed Job,
 
 ## Job 40:3
 
-Then Job replied to the Lord,
+Then Job answered the Lord, and said,
 
 ## Job 40:4
 

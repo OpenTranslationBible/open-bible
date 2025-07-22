@@ -104,7 +104,7 @@ Then Jesus said to his disciples, “Truly I tell you, it is hard for a rich per
 
 ## Matthew 19:24
 
-Again I tell you, it is easier for a camel to go through the eye of a needle than for a rich person to enter the kingdom of God.”
+Moreover, it is easier for a camel to pass through the eye of a needle than for a rich person to enter the kingdom of God.”
 
 ## Matthew 19:25
 

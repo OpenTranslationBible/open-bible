@@ -76,7 +76,7 @@ Herod himself had ordered John’s arrest and had him bound and imprisoned becau
 
 ## Mark 6:18
 
-For John had been telling Herod, “It is not lawful for you to have your brother’s wife.”
+For John had been saying to Herod, “It is against the law for you to have your brother’s wife.”
 
 ## Mark 6:19
 
@@ -170,7 +170,7 @@ Then he directed them to have all the people sit down in groups on the green gra
 
 ## Mark 6:40
 
-So they sat down in groups of hundreds and fifties.
+So they sat down in organised groups.
 
 ## Mark 6:41
 

@@ -158,7 +158,7 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:21
 
-> Of Rehabiah: of the sons of Rehabiah, Isshiah the first.
+> Of Rehabiah, Isshiah was the first of his sons.
 
 ---
 

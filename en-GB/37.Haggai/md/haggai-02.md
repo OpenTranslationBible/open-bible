@@ -43,7 +43,7 @@ On the twenty-first day of the seventh month, the word of the Lord came through 
 
 ## Haggai 2:8
 
-> ‘The silver is mine and the gold is mine,’ declares the Lord of hosts.
+> ‘The silver and the gold belong to me,’ declares the Lord of hosts.
 
 ## Haggai 2:9
 

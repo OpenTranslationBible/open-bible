@@ -70,7 +70,7 @@ Trying to restrain her is like restraining the wind or grasping oil with the han
 
 ## Proverbs 27:17
 
-As iron sharpens iron, so one person sharpens another.
+Just as iron sharpens iron, so does one person sharpen another.
 
 ## Proverbs 27:18
 

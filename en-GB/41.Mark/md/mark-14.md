@@ -56,7 +56,7 @@ On the first day of the Festival of Unleavened Bread, when it was customary to s
 
 ## Mark 14:13
 
-So he sent two of his disciples, saying to them, “Go into the city, and a man carrying a jar of water will meet you. Follow him.
+So he instructed two of his disciples, saying to them, “Go into the city, and you will meet a man carrying a jar of water; follow him.
 
 ## Mark 14:14
 
@@ -112,7 +112,7 @@ Then he took a cup, and after giving thanks, he offered it to them, and they all
 
 ## Mark 14:26
 
-After singing a hymn, they went out to the Mount of Olives.
+After they sang a hymn, they went out to the Mount of Olives.
 
 ---
 
@@ -217,7 +217,7 @@ When I was with you every day, teaching in the temple courts, you did not arrest
 
 ## Mark 14:50
 
-Then everyone deserted him and fled.
+At that moment, all his followers left him and fled.
 
 ---
 

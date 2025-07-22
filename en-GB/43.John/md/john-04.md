@@ -28,11 +28,11 @@ Jacob’s well was there, and Jesus, weary from His journey, sat down by the wel
 
 ## John 4:7
 
-A Samaritan woman came to draw water, and Jesus said to her, “Give me a drink.”
+A Samaritan woman approached to draw water, and Jesus said to her, “Please give me a drink.”
 
 ## John 4:8
 
-(His disciples had gone into the town to buy food.)
+(His disciples had gone into the town to purchase food.)
 
 ## John 4:9
 

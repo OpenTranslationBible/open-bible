@@ -30,7 +30,7 @@ He has walled me in so I cannot escape; He has burdened me with chains.
 
 ## Lamentations 3:8
 
-Even when I cry out and call for help, He shuts out my prayer.
+Even when I cry out and call for help, my prayer is not heard.
 
 ## Lamentations 3:9
 
@@ -108,7 +108,7 @@ It is beneficial to wait quietly for the Lord's salvation.
 
 ## Lamentations 3:27
 
-It is good for a man to bear the yoke in his youth.
+It is advantageous for a man to bear the yoke in his youth.
 
 ## Lamentations 3:28
 
@@ -124,7 +124,7 @@ Let him offer his cheek to the one who strikes him, and let him be filled with d
 
 ## Lamentations 3:31
 
-For the Lord will not cast off forever.
+For the Lord will not reject forever.
 
 ## Lamentations 3:32
 

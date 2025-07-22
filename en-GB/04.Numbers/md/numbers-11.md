@@ -79,7 +79,7 @@ Then the Lord came down in the cloud and spoke to him, and took some of the Spir
 However, two men had remained in the camp; one was named Eldad and the other Medad. The Spirit also rested on them, and they prophesied in the camp.
 
 ## Numbers 11:27
-A young man ran and reported to Moses, “Eldad and Medad are prophesying in the camp.”
+A young man hurried to Moses and informed him, “Eldad and Medad are prophesying in the camp.”
 
 ## Numbers 11:28
 Joshua son of Nun, who had been Moses’ assistant from his youth, spoke up and said, “Moses, my lord, stop them!”
@@ -88,7 +88,7 @@ Joshua son of Nun, who had been Moses’ assistant from his youth, spoke up and 
 But Moses replied, “Are you concerned on my behalf? I wish that all the Lord’s people were prophets and that the Lord would put his Spirit on them!”
 
 ## Numbers 11:30
-Then Moses and the elders of Israel returned to the camp.
+Afterwards, Moses and the elders of Israel returned to the camp.
 
 ## Numbers 11:31
 A wind went out from the Lord and brought quail from the sea, and let them fall beside the camp, about a day’s journey on this side and a day’s journey on the other side, all around the camp, about two cubits deep on the ground.

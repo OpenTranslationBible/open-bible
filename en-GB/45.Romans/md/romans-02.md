@@ -52,7 +52,7 @@ Everyone who has sinned without the Law will also face destruction without the L
 
 ## Romans 2:13
 
-For it is not the hearers of the Law who are righteous in God's sight, but the doers of the Law who will be justified.
+For it is not those who merely hear the Law who are righteous in God's sight, but those who act upon the Law will be justified.
 
 ## Romans 2:14
 

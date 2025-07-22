@@ -1,7 +1,7 @@
 # Romans Chapter 5
 
 ## Romans 5:1
-Therefore, having been justified by faith, we have peace with God through our Lord Jesus Christ,
+Thus, being justified by faith, we enjoy peace with God through our Lord Jesus Christ,
 
 ## Romans 5:2
 through whom we have also gained access by faith into this grace in which we stand; and we rejoice in the hope of the glory of God.

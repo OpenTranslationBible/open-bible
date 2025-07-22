@@ -28,7 +28,7 @@ to bring up the ark of the Lord to its place which he had prepared for it.
 
 ## 1 Chronicles 15:4
 
-David gathered together the sons of Aaron and the Levites:
+David called together the sons of Aaron and the Levites:
 
 ---
 

@@ -104,7 +104,7 @@ Amaziah the son of Joash, king of Judah, lived fifteen years after the death of 
 
 ## 2 Kings 14:18
 
-Now the rest of the acts of Amaziah, are they not written in the Book of the Chronicles of the Kings of Judah?
+As for the other events of Amaziah's reign, are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 14:19
 

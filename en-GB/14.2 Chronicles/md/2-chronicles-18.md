@@ -146,7 +146,7 @@ Micaiah said, “Behold, you are going to see on that day when you go from one i
 
 ## 2 Chronicles 18:25
 
-Then the king of Israel said, “Take Micaiah and return him to Amon the governor of the city, and to Joash the king’s son,
+Then the king of Israel commanded, “Take Micaiah back to Amon the governor of the city, and to Joash the king’s son,
 
 ---
 

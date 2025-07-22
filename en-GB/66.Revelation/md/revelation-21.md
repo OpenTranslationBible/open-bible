@@ -38,7 +38,7 @@ Then one of the seven angels who had the seven bowls full of the seven last plag
 
 ## Revelation 21:10
 
-And he carried me away in the Spirit to a great and high mountain, and showed me the holy city, Jerusalem, coming down out of heaven from God.
+And he took me away in the Spirit to a great and high mountain, where he showed me the holy city, Jerusalem, descending from heaven from God.
 
 ## Revelation 21:11
 
@@ -50,7 +50,7 @@ It had a great and high wall with twelve gates, and at the gates were twelve ang
 
 ## Revelation 21:13
 
-There were three gates on the east, three on the north, three on the south, and three on the west.
+There were three gates on each side: east, north, south, and west.
 
 ## Revelation 21:14
 

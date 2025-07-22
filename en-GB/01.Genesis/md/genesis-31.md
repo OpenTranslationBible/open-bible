@@ -30,7 +30,7 @@ Yet your father has cheated me and changed my wages ten times, but God did not a
 
 ## Genesis 31:8
 
-If he said, ‘The speckled shall be your wages,’ then all the flock bore speckled; and if he said, ‘The striped shall be your wages,’ then all the flock bore striped.
+Whenever he said, ‘Take the speckled as your wages,’ then all the flock were born speckled; and whenever he said, ‘Take the striped as your wages,’ then all the flock were born striped.
 
 ## Genesis 31:9
 
@@ -66,7 +66,7 @@ Certainly, all the wealth that God has taken from our father belongs to us and o
 
 ## Genesis 31:17
 
-Then Jacob put his children and his wives on camels;
+Then Jacob prepared his children and his wives to journey on camels;
 
 ## Genesis 31:18
 

@@ -112,7 +112,7 @@ Then the anger of the Lord burned against Amaziah, and He sent him a prophet who
 ## 2 Chronicles 25:16
 
 As he was speaking to him, the king said,  
-“Have we appointed you as a royal counselor? Stop! Why should you be struck down?”  
+“Who appointed you as a royal counsellor? Stop speaking! Or you will be struck down!”  
 Then the prophet stopped and said,  
 “I know that God has planned to destroy you, because you have done this and have not listened to my counsel.”
 
@@ -199,4 +199,4 @@ but they sent men to Lachish after him, and they killed him there.
 
 ## 2 Chronicles 25:28
 
-Then they brought him on horses and buried him with his fathers in the city of Judah.
+Afterwards, they brought him back on horses and laid him to rest with his ancestors in the city of Judah.

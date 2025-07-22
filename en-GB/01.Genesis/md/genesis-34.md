@@ -70,7 +70,7 @@ But if you will not agree to be circumcised, we will take our sister and go.”
 
 ## Genesis 34:18
 
-Their proposal seemed good to Hamor and his son Shechem.
+Hamor and his son Shechem found the proposal agreeable.
 
 ## Genesis 34:19
 

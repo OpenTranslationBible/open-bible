@@ -134,7 +134,7 @@ To the Jews who had believed Him, Jesus said, “If you hold to My teaching, you
 
 ## John 8:32
 
-Then you will know the truth, and the truth will set you free.”
+Then you will come to know the truth, and the truth shall set you free.”
 
 ## John 8:33
 
@@ -222,7 +222,7 @@ At this they exclaimed, “Now we know that you have a demon! Abraham died and s
 
 ## John 8:53
 
-Are you greater than our father Abraham? He died, and so did the prophets. Who do you think you are?”
+Are you more important than our father Abraham? Even he passed away and died, and so did all the prophets. So who do you claim to be?”
 
 ## John 8:54
 

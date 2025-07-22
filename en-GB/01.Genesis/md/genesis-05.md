@@ -26,7 +26,7 @@ When Seth reached 105 years, he fathered Enosh.
 
 ## Genesis 5:7
 
-After he became the father of Enosh, Seth lived 807 years and had other sons and daughters.
+Following the birth of Enosh, Seth lived 807 years and had other sons and daughters.
 
 ## Genesis 5:8
 
@@ -38,7 +38,7 @@ When Enosh reached 90 years, he fathered Kenan.
 
 ## Genesis 5:10
 
-After he became the father of Kenan, Enosh lived 815 years and had other sons and daughters.
+Following the birth of Kenan, Enosh lived 815 years and had other sons and daughters.
 
 ## Genesis 5:11
 
@@ -50,7 +50,7 @@ When Kenan reached 70 years, he fathered Mahalalel.
 
 ## Genesis 5:13
 
-After he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters.
+Following the birth of Mahalalel, Kenan lived 840 years and had other sons and daughters.
 
 ## Genesis 5:14
 
@@ -62,7 +62,7 @@ When Mahalalel reached 65 years, he fathered Jared.
 
 ## Genesis 5:16
 
-After he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters.
+Following the birth of Jared, Mahalalel lived 830 years and had other sons and daughters.
 
 ## Genesis 5:17
 
@@ -74,7 +74,7 @@ When Jared reached 162 years, he fathered Enoch.
 
 ## Genesis 5:19
 
-After he became the father of Enoch, Jared lived 800 years and had other sons and daughters.
+Following the birth of Enoch, Jared lived 800 years and had other sons and daughters.
 
 ## Genesis 5:20
 
@@ -102,7 +102,7 @@ When Methuselah reached 187 years, he fathered Lamech.
 
 ## Genesis 5:26
 
-After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters.
+Following the birth of Lamech, Methuselah lived 782 years and had other sons and daughters.
 
 ## Genesis 5:27
 

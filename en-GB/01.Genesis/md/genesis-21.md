@@ -55,7 +55,7 @@ God heard the boy's cries, and the angel of God called to Hagar from heaven, “
 Arise, lift up the boy, and hold him by the hand, for I will make him into a great nation.”
 
 ## Genesis 21:19
-Then God opened her eyes, and she saw a well of water. She went and filled the skin with water and gave the boy a drink.
+God enabled her to see a well of water. She went and filled the skin with water and gave the boy a drink.
 
 ## Genesis 21:20
 God was with the boy as he grew up. He lived in the wilderness and became an archer.
@@ -64,7 +64,7 @@ God was with the boy as he grew up. He lived in the wilderness and became an arc
 He lived in the wilderness of Paran, and his mother found him a wife from Egypt.
 
 ## Genesis 21:22
-At that time, Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you in all that you do.
+During that period, Abimelech and Phicol, the commander of his army, said to Abraham, “God is with you in all your endeavours.
 
 ## Genesis 21:23
 Now swear to me here before God that you will not deceive me or my descendants. Show the same kindness to me and the land where you reside as I have shown to you.”

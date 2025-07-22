@@ -26,7 +26,7 @@ If anyone does not remain in me, they are like a branch that is thrown away and 
 
 ## John 15:7
 
-If you remain in me and my words remain in you, ask whatever you wish, and it will be done for you.
+If you stay in me and my words stay in you, ask for whatever you wish, and it will be done for you.
 
 ## John 15:8
 
@@ -58,7 +58,7 @@ There is no greater love than this: to give up one’s life for one’s friends.
 
 ## John 15:14
 
-You are my friends if you do what I command.
+You are my friends when you do what I command.
 
 ## John 15:15
 

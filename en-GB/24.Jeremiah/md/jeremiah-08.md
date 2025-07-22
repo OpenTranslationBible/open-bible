@@ -60,7 +60,7 @@ Why do we sit still? Assemble yourselves, let us flee to the fortified cities an
 
 ## Jeremiah 8:15
 
-We looked for peace, but no good came; for a time of healing, but behold, terror!
+We hoped for peace, but no good came; we hoped for a time of healing, but we behold terror!
 
 ## Jeremiah 8:16
 

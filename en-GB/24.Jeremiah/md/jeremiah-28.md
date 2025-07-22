@@ -13,7 +13,7 @@ Within two years I will restore to this place all the articles of the Lord's hou
 I will also bring back to this place Jeconiah son of Jehoiakim, king of Judah, and all the exiles of Judah who went to Babylon,’ declares the Lord, ‘for I will break the yoke of the king of Babylon.’”
 
 ## Jeremiah 28:5
-Then the prophet Jeremiah spoke to the prophet Hananiah in the presence of the priests and all the people who were standing in the house of the Lord,
+Jeremiah the prophet addressed Hananiah the prophet in the presence of the priests and all the people who were gathered in the house of the Lord,
 
 ## Jeremiah 28:6
 and said, “Amen! May the Lord do so! May the Lord fulfil the words you have prophesied by bringing back the articles of the Lord’s house and all the exiles from Babylon to this place.

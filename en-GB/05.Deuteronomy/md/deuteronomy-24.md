@@ -25,7 +25,7 @@ If anyone is found kidnapping a fellow Israelite and treating them as merchandis
 Be very careful in cases of defiling skin diseases to do exactly as the Levitical priests instruct you. Follow carefully what I have commanded them.
 
 ## Deuteronomy 24:9
-Remember what the Lord your God did to Miriam on your journey out of Egypt.
+Recall what happened to Miriam by the Lord your God during your journey out of Egypt.
 
 ## Deuteronomy 24:10
 When you make a loan of any kind to your neighbour, do not enter their house to collect the pledge.

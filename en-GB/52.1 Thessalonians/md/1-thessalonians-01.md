@@ -40,4 +40,4 @@ For they themselves recount to us the kind of welcome we received from you, and 
 
 ## 1 Thessalonians 1:10
 
-and to wait for His Son from heaven, whom He raised from the dead—Jesus, who rescues us from the coming wrath.
+and to await His Son from heaven, whom He raised from the dead—Jesus, who delivers us from the impending wrath.

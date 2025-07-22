@@ -254,7 +254,7 @@ He went to Pilate and asked for Jesus’ body, and Pilate ordered that it be giv
 
 ## Matthew 27:59
 
-Joseph took the body, wrapped it in a clean linen cloth,
+Joseph took possession of the body, wrapping it in a clean linen cloth,
 
 ## Matthew 27:60
 

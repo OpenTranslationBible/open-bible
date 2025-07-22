@@ -62,7 +62,7 @@ until the Lord gives them rest, as He has given you, and they too have taken pos
 
 ## Joshua 1:16
 
-They answered Joshua, “All that you have commanded us we will do, and wherever you send us we will go.
+They responded to Joshua, “We will do all that you have instructed us, and we will go wherever you send us.
 
 ## Joshua 1:17
 

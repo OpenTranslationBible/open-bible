@@ -28,7 +28,7 @@ Offer the second lamb at twilight with the same type of grain offering and drink
 “‘On the Sabbath day, make an offering of two male lambs a year old without defect, with two-tenths of an ephah of fine flour mixed with oil as a grain offering, and its drink offering.
 
 ## Numbers 28:10
-This is the burnt offering for every Sabbath, in addition to the regular burnt offering and its drink offering.
+This is the burnt offering for each Sabbath, alongside the regular burnt offering and its drink offering.
 
 ## Numbers 28:11
 “‘At the beginning of each month, present to the Lord a burnt offering of two young bulls, one ram, and seven male lambs a year old, all without defect.

@@ -80,4 +80,4 @@ calling to those who pass by, who are going straight on their way,
 
 ## Proverbs 9:18
 
-But they do not know that the dead are there, that her guests are in the depths of Sheol.
+Yet they are unaware that the dead reside there, that her guests are in the depths of the grave.

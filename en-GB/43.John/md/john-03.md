@@ -36,7 +36,7 @@ The wind blows where it wishes, and you hear its sound, but you do not know wher
 
 ## John 3:9
 
-“How can this be?” Nicodemus asked.
+“How is this possible?” Nicodemus inquired.
 
 ## John 3:10
 
@@ -70,7 +70,7 @@ For God so loved the world that He gave His only Son, that whoever believes in H
 
 ## John 3:17
 
-For God did not send His Son into the world to condemn the world, but to save the world through Him.
+For God did not send His Son into the world to pass judgement on the world, but to bring salvation to the world through Him.
 
 ## John 3:18
 
@@ -100,7 +100,7 @@ Now John was also baptising at Aenon near Salim, because there was plenty of wat
 
 ## John 3:24
 
-(This was before John was put in prison.)
+(This occurred before John was imprisoned.)
 
 ---
 
@@ -126,7 +126,7 @@ The bride belongs to the bridegroom. The friend who attends the bridegroom waits
 
 ## John 3:30
 
-He must increase; I must decrease.
+He must become greater; I must become less.
 
 ---
 

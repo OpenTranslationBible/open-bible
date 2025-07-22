@@ -24,7 +24,7 @@ But they insisted, “He stirs up the people, teaching throughout Judea, startin
 
 ## Luke 23:6
 
-When Pilate heard this, he asked if the man was a Galilean.
+Upon hearing this, Pilate inquired whether the man was a Galilean.
 
 ## Luke 23:7
 
@@ -54,7 +54,7 @@ That day Herod and Pilate became friends; previously, they had been enemies.
 
 ## Luke 23:13
 
-Pilate called together the chief priests, the rulers, and the people,
+Pilate gathered the chief priests, the rulers, and the people,
 
 ## Luke 23:14
 
@@ -86,7 +86,7 @@ Desiring to release Jesus, Pilate addressed them again.
 
 ## Luke 23:21
 
-But they kept shouting, “Crucify him! Crucify him!”
+But they continued to shout, “Crucify him! Crucify him!”
 
 ## Luke 23:22
 
@@ -98,7 +98,7 @@ But they were insistent, with loud shouts demanding that he be crucified, and th
 
 ## Luke 23:24
 
-So Pilate decided to grant their demand.
+Thus, Pilate decided to grant their demand.
 
 ## Luke 23:25
 
@@ -231,7 +231,7 @@ Then he took it down, wrapped it in linen cloth, and laid it in a tomb cut in th
 
 ## Luke 23:54
 
-It was Preparation Day, and the Sabbath was about to begin.
+It was the day of preparation, and the Sabbath was about to begin.
 
 ## Luke 23:55
 

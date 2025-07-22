@@ -54,7 +54,7 @@ In the six hundred and first year, on the first day of the first month, the wate
 
 ## Genesis 8:14
 
-By the twenty-seventh day of the second month, the earth was completely dry.
+By the twenty-seventh day of the second month, the earth was thoroughly dry.
 
 ## Genesis 8:15
 
@@ -70,7 +70,7 @@ Bring out every living creature that is with you—the birds, the animals, and e
 
 ## Genesis 8:18
 
-So Noah went out with his sons, his wife, and his sons’ wives.
+Thus, Noah departed with his sons, his wife, and his sons’ wives.
 
 ## Genesis 8:19
 

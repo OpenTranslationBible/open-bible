@@ -38,7 +38,7 @@ Still other seed fell on good soil. It grew up and produced a crop a hundred tim
 
 ## Luke 8:9
 
-His disciples asked him what this parable meant.
+His disciples inquired about the meaning of this parable.
 
 ## Luke 8:10
 
@@ -89,7 +89,7 @@ Now Jesus’ mother and brothers came to see him, but they could not get near hi
 
 ## Luke 8:20
 
-Someone told him, “Your mother and brothers are standing outside, wanting to see you.”
+Someone informed him, “Your mother and brothers are standing outside, desiring to see you.”
 
 ## Luke 8:21
 
@@ -201,7 +201,7 @@ She approached from behind and touched the edge of his cloak, and immediately he
 
 ## Luke 8:46
 
-But Jesus said, “Someone touched me; I know that power has gone out from me.”
+But Jesus said, “Someone has touched me; I know that power has gone out from me.”
 
 ## Luke 8:47
 

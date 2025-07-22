@@ -11,7 +11,7 @@ Then Solomon began to build the house of the Lord in Jerusalem on Mount Moriah,
 
 ## 2 Chronicles 3:2
 
-He began to build on the second day in the second month of the fourth year of his reign.
+He commenced the construction on the second day of the second month in the fourth year of his reign.
 
 ---
 

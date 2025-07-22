@@ -13,7 +13,7 @@ and assemble the entire congregation at the entrance to the tent of meeting.”
 Moses did just as the Lord commanded him, and the congregation gathered at the entrance to the tent of meeting.
 
 ## Leviticus 8:5
-Moses said to the congregation, “This is what the Lord has commanded to be done.”
+Moses addressed the congregation, saying, “This is the command of the Lord to be fulfilled.”
 
 ## Leviticus 8:6
 Then Moses brought Aaron and his sons forward and washed them with water.

@@ -138,7 +138,7 @@ As they were untying the colt, its owners asked them, “Why are you untying the
 
 ## Luke 19:34
 
-They replied, “The Lord needs it.”
+They answered, “It is needed by the Lord.”
 
 ## Luke 19:35
 

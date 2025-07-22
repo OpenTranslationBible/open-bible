@@ -111,7 +111,7 @@ So they proposed two men: Joseph called Barsabbas (also known as Justus) and Mat
 
 ## Acts 1:24
 
-Then they prayed, “Lord, you know everyone’s heart. Show us which of these two you have chosen
+Then they prayed, “Lord, you who know the hearts of all, reveal to us which of these two you have chosen
 
 ## Acts 1:25
 

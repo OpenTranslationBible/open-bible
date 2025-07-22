@@ -58,7 +58,7 @@ Dan shall be a serpent by the roadside, a viper along the path, that bites the h
 “Gad shall be raided by a band of raiders, but he shall raid at their heels.
 
 ## Genesis 49:20
-“Asher’s food shall be rich, and he shall provide royal delicacies.
+“Asher’s food will be abundant, and he shall yield delicacies fit for royalty.
 
 ## Genesis 49:21
 “Naphtali is a free doe; he speaks with grace.

@@ -37,7 +37,7 @@ You conceive chaff, you give birth to stubble; my breath will consume you like f
 The peoples will be burned to lime, like cut thornbushes set ablaze.
 
 ## Isaiah 33:13
-You who are far away, hear what I have done; and you who are near, acknowledge my might.
+Those who are distant, listen to what I have done; and those who are near, recognise my power.
 
 ## Isaiah 33:14
 The sinners in Zion are terrified; trembling grips the godless: “Who among us can dwell with the consuming fire? Who among us can dwell with everlasting burning?”

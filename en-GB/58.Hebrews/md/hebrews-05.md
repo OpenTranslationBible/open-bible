@@ -40,7 +40,7 @@ Although He was a Son, He learned obedience through what He suffered.
 
 ## Hebrews 5:9
 
-And having been made perfect, He became the source of eternal salvation for all who obey Him,
+And having reached perfection, He became the source of eternal salvation for those who obey Him,
 
 ## Hebrews 5:10
 

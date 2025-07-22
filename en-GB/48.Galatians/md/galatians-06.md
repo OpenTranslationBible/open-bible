@@ -49,7 +49,7 @@ For neither circumcision nor uncircumcision means anything; what matters is a ne
 Peace and mercy to all who follow this rule, and upon the Israel of God.
 
 ## Galatians 6:17
-From now on, let no one cause me trouble, for I bear on my body the marks of Jesus.
+Henceforth, let no one trouble me, for I carry on my body the marks of Jesus.
 
 ## Galatians 6:18
-May the grace of our Lord Jesus Christ be with your spirit, brothers and sisters. Amen.
+May the grace of our Lord Jesus Christ be with your spirit, dear friends. Amen.

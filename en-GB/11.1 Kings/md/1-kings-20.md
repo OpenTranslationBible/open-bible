@@ -127,7 +127,7 @@ He agreed and did as they advised.
 
 ## 1 Kings 20:26
 
-In the spring, Ben-hadad mustered the Arameans and went up to Aphek to fight against Israel.
+When spring arrived, Ben-hadad gathered the Arameans and went up to Aphek to engage Israel in battle.
 
 ## 1 Kings 20:27
 

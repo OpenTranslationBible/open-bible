@@ -256,16 +256,16 @@ The sons of Ezer were:
 
 ## 1 Chronicles 1:43
 
-Now these are the kings who reigned in the land of Edom before any king reigned over the sons of Israel:  
+Now these are the kings who reigned in the land of Edom before any king ruled over the sons of Israel:  
 Bela the son of Beor, and the name of his city was Dinhabah.
 
 ## 1 Chronicles 1:44
 
-When Bela died, Jobab the son of Zerah of Bozrah became king in his place.
+Upon the death of Bela, Jobab the son of Zerah of Bozrah succeeded him as king.
 
 ## 1 Chronicles 1:45
 
-When Jobab died, Husham of the land of the Temanites became king in his place.
+After Jobab's death, Husham of the land of the Temanites took the throne.
 
 ## 1 Chronicles 1:46
 
@@ -282,7 +282,7 @@ Upon Samlah's death, Shaul from Rehoboth by the River succeeded him as king.
 
 ## 1 Chronicles 1:49
 
-When Shaul died, Baal-hanan the son of Achbor became king in his place.
+Following Shaul's death, Baal-hanan the son of Achbor took the throne.
 
 ## 1 Chronicles 1:50
 

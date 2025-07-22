@@ -1,7 +1,7 @@
 # Leviticus Chapter 4
 
 ## Leviticus 4:1
-The Lord spoke to Moses, saying,
+The Lord addressed Moses with these words,
 
 ## Leviticus 4:2
 “Speak to the Israelites and say: ‘If anyone sins unintentionally in any of the things the Lord has commanded not to be done, and commits any of them—
