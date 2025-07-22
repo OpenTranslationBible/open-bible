@@ -142,7 +142,7 @@ There is another who testifies in my favour, and I am confident that his testimo
 
 ## John 5:33
 
-You have sent messengers to John, and he has testified to the truth.
+You have sent messengers to John, and he has spoken to you of the truth.
 
 ## John 5:34
 

@@ -182,7 +182,7 @@ Eltekeh, Gibbethon, and Baalath,
 
 ## Joshua 19:45
 
-Jehud, Bene Berak, and Gath Rimmon,
+the cities of Jehud, Bene Berak, and Gath Rimmon,
 
 ## Joshua 19:46
 
