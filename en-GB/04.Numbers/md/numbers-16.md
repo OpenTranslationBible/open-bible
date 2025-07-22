@@ -90,7 +90,7 @@ But they fell on their faces and said, “O God, the God who gives breath to all
 
 ## Numbers 16:23
 
-Then the Lord spoke to Moses, and said
+And so the Lord spoke to Moses, saying
 
 ## Numbers 16:24
 
@@ -142,7 +142,7 @@ And fire came forth from the Lord and consumed the 250 men who were offering the
 
 ## Numbers 16:36
 
-Then the Lord spoke to Moses,
+And so the Lord spoke to Moses, saying
 
 ## Numbers 16:37
 
@@ -174,7 +174,7 @@ Then Moses and Aaron went to the front of the tent of meeting,
 
 ## Numbers 16:44
 
-and the Lord spoke to Moses, saying,
+And so the Lord spoke to Moses, saying
 
 ## Numbers 16:45
 

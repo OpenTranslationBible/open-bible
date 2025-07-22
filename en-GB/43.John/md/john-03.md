@@ -126,7 +126,7 @@ The bride belongs to the bridegroom. The friend who attends the bridegroom waits
 
 ## John 3:30
 
-He must become greater; I must become less.
+He must increase and become greater, while I must decrease.
 
 ---
 

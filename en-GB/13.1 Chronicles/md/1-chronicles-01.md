@@ -274,7 +274,7 @@ became king in his place; and the name of his city was Avith.
 
 ## 1 Chronicles 1:47
 
-When Hadad died, Samlah of Masrekah became king in his place.
+Upon Hadad's death, Samlah of Masrekah took the throne.
 
 ## 1 Chronicles 1:48
 

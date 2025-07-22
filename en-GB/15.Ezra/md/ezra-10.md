@@ -118,11 +118,11 @@ From the lineage of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
 
 ## Ezra 10:29
 
-From the family of Bani: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
+From Bani's family: Meshullam, Malluch, Adaiah, Jashub, Sheal, and Jeremoth.
 
 ## Ezra 10:30
 
-From the family of Pahath-Moab: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
+From Pahath-moab's family: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, and Manasseh.
 
 ## Ezra 10:31
 

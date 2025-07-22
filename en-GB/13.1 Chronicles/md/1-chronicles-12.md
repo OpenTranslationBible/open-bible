@@ -90,7 +90,7 @@ mighty men of valour, men trained for war,
 
 ## 1 Chronicles 12:13
 
-> Jeremiah the tenth, and Machbannai the eleventh.
+> Jeremiah the tenth, along with Machbannai the eleventh.
 
 ---
 

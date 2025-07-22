@@ -30,7 +30,7 @@ The sick man answered, “Sir, I have no one to help me into the pool when the w
 
 ## John 5:8
 
-Jesus said to him, “Rise, take up your mat and walk.”
+Jesus instructed him, “Stand up, pick up your mat, and walk.”
 
 ## John 5:9
 
@@ -142,7 +142,7 @@ There is another who testifies in my favour, and I am confident that his testimo
 
 ## John 5:33
 
-You have sent to John, and he has borne witness to the truth.
+You have sent messengers to John, and he has testified to the truth.
 
 ## John 5:34
 

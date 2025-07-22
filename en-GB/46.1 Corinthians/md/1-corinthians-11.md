@@ -2,7 +2,7 @@
 
 ## 1 Corinthians 11:1
 
-Follow my example, just as I follow the example of Christ.
+Imitate me therefore, just as I imitate Christ.
 
 ## 1 Corinthians 11:2
 

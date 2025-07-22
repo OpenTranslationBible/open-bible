@@ -18,7 +18,7 @@ So she gave him her maid Bilhah as a wife, and Jacob went in to her.
 
 ## Genesis 30:5
 
-Bilhah became pregnant and gave birth to a son for Jacob.
+Bilhah conceived and she bore a son to Jacob.
 
 ## Genesis 30:6
 

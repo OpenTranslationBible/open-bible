@@ -94,7 +94,7 @@ How could one have chased a thousand, and two have put ten thousand to flight, u
 For their rock is not as our Rock; our enemies themselves being judges.
 
 ## Deuteronomy 32:32
-For their vine is from the vine of Sodom and from the fields of Gomorrah; their grapes are grapes of poison, their clusters are bitter.
+For their vine is from the vine of Sodom and from the fields of Gomorrah; their grapes are like poison, their clusters are bitter.
 
 ## Deuteronomy 32:33
 Their wine is like the poison of serpents and the cruel venom of asps.
@@ -124,7 +124,7 @@ For I lift up my hand to heaven and declare: As I live forever,
 if I sharpen my gleaming sword and my hand takes hold on judgement, I will take vengeance on my adversaries and will repay those who hate me.
 
 ## Deuteronomy 32:42
-I will make my arrows drunk with blood, and my sword shall devour flesh— with the blood of the slain and the captives, from the long-haired heads of the enemy.’
+I will make my arrows soaked with blood, and my sword shall consume flesh— with the blood of the slain and the captives, from the long-haired heads of the enemy.’
 
 ## Deuteronomy 32:43
 Rejoice, O nations, with his people; for he will avenge the blood of his servants, and will take vengeance on his adversaries, and will make atonement for his land and people.

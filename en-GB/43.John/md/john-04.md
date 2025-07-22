@@ -32,7 +32,7 @@ A Samaritan woman approached to draw water, and Jesus said to her, “Please giv
 
 ## John 4:8
 
-(His disciples had gone into the town to purchase food.)
+(His disciples had gone into the town to buy provisions.)
 
 ## John 4:9
 

@@ -86,7 +86,7 @@ Desiring to release Jesus, Pilate addressed them again.
 
 ## Luke 23:21
 
-But they continued to shout, “Crucify him! Crucify him!”
+Yet they persisted, crying out, “Crucify him! Crucify him!”
 
 ## Luke 23:22
 
@@ -231,7 +231,7 @@ Then he took it down, wrapped it in linen cloth, and laid it in a tomb cut in th
 
 ## Luke 23:54
 
-It was the day of preparation, and the Sabbath was about to begin.
+It was the preparation day, and the Sabbath was drawing near.
 
 ## Luke 23:55
 

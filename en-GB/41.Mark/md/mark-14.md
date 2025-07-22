@@ -112,7 +112,7 @@ Then he took a cup, and after giving thanks, he offered it to them, and they all
 
 ## Mark 14:26
 
-After they sang a hymn, they went out to the Mount of Olives.
+After singing a hymn, they proceeded to the Mount of Olives.
 
 ---
 

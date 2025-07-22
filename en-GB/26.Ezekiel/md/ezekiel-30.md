@@ -141,7 +141,7 @@ Therefore this is what the Sovereign Lord says: ‘Behold, I am against Pharaoh 
 
 ## Ezekiel 30:23
 
-I will disperse the Egyptians among the nations and scatter them throughout the lands.
+I will cause the Egyptians to be scattered among the nations and I will disperse them throughout the lands.
 
 ## Ezekiel 30:24
 
@@ -153,4 +153,4 @@ I will strengthen the arms of the king of Babylon, but the arms of Pharaoh will 
 
 ## Ezekiel 30:26
 
-When I disperse the Egyptians among the nations and scatter them throughout the lands, then they will know that I am the Lord.’”
+When I scatter the Egyptians among the nations and disperse them throughout the lands, then they will know that I am the Lord.’”

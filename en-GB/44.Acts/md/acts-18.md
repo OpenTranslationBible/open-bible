@@ -68,7 +68,7 @@ but since it concerns questions about words and names and your own law, see to i
 
 ## Acts 18:16
 
-And he dismissed them from the tribunal.
+And with that, he sent them away from the tribunal.
 
 ## Acts 18:17
 
