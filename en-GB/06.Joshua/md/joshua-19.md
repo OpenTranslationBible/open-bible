@@ -10,15 +10,15 @@ Their portion comprised Beersheba (or Sheba), Moladah,
 
 ## Joshua 19:3
 
-Hazar Shual, Balah, and Ezem,
+Hazar Shual, Balah, and the settlement of Ezem,
 
 ## Joshua 19:4
 
-Eltolad, Bethul, and Hormah,
+Eltolad, Bethul, and the settlement of Hormah,
 
 ## Joshua 19:5
 
-Ziklag, Beth Markaboth, and Hazar Susah,
+Ziklag, Beth Markaboth, and the settlement of Hazar Susah,
 
 ## Joshua 19:6
 
