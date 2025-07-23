@@ -90,7 +90,7 @@ True enough. They were broken off because of unbelief, and you stand by faith. D
 
 ## Romans 11:21
 
-For if God did not spare the natural branches, He will not spare you either.
+Because if God did not spare even the natural branches, He will not spare you either.
 
 ## Romans 11:22
 

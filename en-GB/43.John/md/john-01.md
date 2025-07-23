@@ -18,7 +18,7 @@ In him was life, and that life was the light for all people.
 
 ## John 1:5
 
-The light shines in the darkness, and the darkness has not overcome it.
+The light shines so brightly in the darkness, that the darkness cannot overcome it.
 
 ---
 

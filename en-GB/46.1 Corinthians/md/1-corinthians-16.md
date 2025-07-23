@@ -1,3 +1,5 @@
+# 1 Corinthians Chapter 16
+
 ## 1 Corinthians 16:1
 
 Regarding the collection for the believers, as I instructed the churches of Galatia, you should do likewise.

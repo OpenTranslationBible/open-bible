@@ -66,7 +66,7 @@ He has broken my teeth with gravel; He has pressed me into the dust.
 
 ## Lamentations 3:17
 
-My soul is bereft of peace; I have forgotten what happiness is.
+My soul does not know any peace; and I have forgotten what happiness is.
 
 ## Lamentations 3:18
 
@@ -124,7 +124,7 @@ Let him offer his cheek to the one who strikes him, and let him be filled with d
 
 ## Lamentations 3:31
 
-For the Lord will not reject forever.
+But it is not the Lords will to reject forever.
 
 ## Lamentations 3:32
 
@@ -164,7 +164,7 @@ Let us examine and test our ways, and let us return to the Lord.
 
 ## Lamentations 3:41
 
-Let us lift up our hearts and hands to God in heaven;
+Let us lift up our hearts and lift up our hands to God in heaven;
 
 ## Lamentations 3:42
 

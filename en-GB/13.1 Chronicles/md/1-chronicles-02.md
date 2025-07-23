@@ -288,23 +288,23 @@ Attai became the father of Nathan, and Nathan fathered Zabad,
 
 ## 1 Chronicles 2:37
 
-Zabad fathered Ephlal, and Ephlal fathered Obed,
+Zabad was the father of Ephlal, and Ephlal fathered Obed,
 
 ## 1 Chronicles 2:38
 
-Obed fathered Jehu, and Jehu fathered Azariah,
+Obed was the father of Jehu, and Jehu fathered Azariah,
 
 ## 1 Chronicles 2:39
 
-Azariah fathered Helez, and Helez became the father of Eleasah,
+Azariah was the father of Helez, and Helez became the father of Eleasah,
 
 ## 1 Chronicles 2:40
 
-Eleasah fathered Sismai, and Sismai became the father of Shallum,
+Eleasah was the father of Sismai, and Sismai became the father of Shallum,
 
 ## 1 Chronicles 2:41
 
-Shallum fathered Jekamiah, and Jekamiah fathered Elishama.
+Shallum was the father of Jekamiah, and Jekamiah fathered Elishama.
 
 ---
 
