@@ -94,28 +94,28 @@ The cities of the tribe of Benjamin according to their clans were Jericho, Beth 
 
 ## Joshua 18:22
 
-Beth Arabah, Zemaraim, and Bethel,
+Beth Arabah, and Zemaraim, and the settlement of Bethel,
 
 ## Joshua 18:23
 
-Avvim, Parah, and Ophrah,
+Avvim, and Parah, and the settlement of Ophrah,
 
 ## Joshua 18:24
 
-Kephar Ammoni, Ophni, and Geba—twelve cities with their villages.
+Kephar Ammoni, and Ophni, and Geba —twelve towns with their villages.
 
 ## Joshua 18:25
 
-Gibeon, Ramah, and Beeroth,
+Gibeon, and Ramah, and the settlement of Beeroth,
 
 ## Joshua 18:26
 
-Mizpah, Kephirah, and Mozah,
+Mizpah, and Kephirah, and the settlement of Mozah,
 
 ## Joshua 18:27
 
-Rekem, Irpeel, and Taralah,
+Rekem, and Irpeel, and the settlement of Taralah,
 
 ## Joshua 18:28
 
-Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah, and Kiriath—fourteen cities with their villages. This was the inheritance of the tribe of Benjamin according to their clans.
+Zelah, Haeleph, the Jebusite city (that is, Jerusalem), Gibeah, and Kiriath —fourteen towns with their villages. This was the inheritance of the tribe of Benjamin according to their clans.

@@ -78,15 +78,15 @@ Their land encompassed Jezreel, Chesulloth, Shunem,
 
 ## Joshua 19:19
 
-Hapharaim, Shion, and Anaharath,
+Hapharaim, and Shion, and the settlement of Anaharath,
 
 ## Joshua 19:20
 
-Rabbith, Kishion, and Ebez,
+Rabbith, and Kishion, and the settlement of Ebez,
 
 ## Joshua 19:21
 
-Remeth, En Gannim, En Haddah, and Beth Pazzez.
+Remeth, En Gannim, En Haddah, and the settlement of Beth Pazzez.
 
 ## Joshua 19:22
 
@@ -146,11 +146,11 @@ The fortified towns were Ziddim, Zer, Hammath, Rakkath, and Kinnereth,
 
 ## Joshua 19:36
 
-Adamah, Ramah, and Hazor,
+Adamah, and Ramah, and the settlement of Hazor,
 
 ## Joshua 19:37
 
-Kedesh, Edrei, and En Hazor,
+Kedesh, and Edrei, and the settlement of En Hazor,
 
 ## Joshua 19:38
 
@@ -170,15 +170,15 @@ The territory of their inheritance included Zorah, Eshtaol, and Ir Shemesh,
 
 ## Joshua 19:42
 
-Shaalabbin, Aijalon, and Ithlah,
+Shaalabbin, and Aijalon, and the settlement of Ithlah,
 
 ## Joshua 19:43
 
-Elon, Timnah, and Ekron,
+Elon, and Timnah, and the settlement of Ekron,
 
 ## Joshua 19:44
 
-Eltekeh, Gibbethon, and Baalath,
+Eltekeh, and Gibbethon, and the settlement of Baalath,
 
 ## Joshua 19:45
 

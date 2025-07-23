@@ -30,19 +30,19 @@ And in Jerusalem he reigned thirty-three years.
 
 These were born to him in Jerusalem:
 
-> Shimea, Shobab, Nathan, and Solomon—four by Bath-shua the daughter of Ammiel—
+> Shimea, Shobab, Nathan, and Solomon —four by Bath-shua the daughter of Ammiel—
 
 ## 1 Chronicles 3:6
 
-> and Ibhar, Elishama, Eliphelet,
+> and Ibhar, Elishama, and Eliphelet, were born
 
 ## 1 Chronicles 3:7
 
-> Nogah, Nepheg, and Japhia,
+> Nogah, Nepheg, and Japhia, were born
 
 ## 1 Chronicles 3:8
 
-> Elishama, Eliada, and Eliphelet—making a total of nine.
+> Elishama, Eliada, and Eliphelet —making a total of nine.
 
 ---
 

@@ -86,19 +86,19 @@ This is the inheritance of the tribe of the descendants of Judah, according to t
 
 ## Joshua 15:21
 
-The southernmost cities of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, and Jagur,
+The southernmost towns and their villages of the tribe of Judah in the Negev toward the boundary of Edom were: Kabzeel, Eder, and Jagur,
 
 ## Joshua 15:22
 
-Kinah, Dimonah, and Adadah,
+Kinah, and Dimonah, and the settlement of Adadah,
 
 ## Joshua 15:23
 
-Kedesh, Hazor, and Ithnan,
+Kedesh, and Hazor, and the settlement of Ithnan,
 
 ## Joshua 15:24
 
-Ziph, Telem, and Bealoth,
+Ziph, and Telem, and the settlement of Bealoth,
 
 ## Joshua 15:25
 
@@ -106,85 +106,85 @@ Hazor-hadattah, Kerioth-hezron (that is, Hazor),
 
 ## Joshua 15:26
 
-Amam, Shema, and Moladah,
+Amam, and Shema, and the settlement of Moladah,
 
 ## Joshua 15:27
 
-Hazar-gaddah, Heshmon, and Beth-pelet,
+Hazar-gaddah, and Heshmon, and the settlement of Beth-pelet,
 
 ## Joshua 15:28
 
-Hazar-shual, Beersheba, and Biziothiah,
+Hazar-shual, and Beersheba, and the settlement of Biziothiah,
 
 ## Joshua 15:29
 
-Baalah, Iim, and Ezem,
+Baalah, and Iim, and the settlement of Ezem,
 
 ## Joshua 15:30
 
-Eltolad, Chesil, and Hormah,
+Eltolad, and Chesil, and the settlement of Hormah,
 
 ## Joshua 15:31
 
-Ziklag, Madmannah, and Sansannah,
+Ziklag, and, Madmannah and the settlement of Sansannah,
 
 ## Joshua 15:32
 
-Lebaoth, Shilhim, Ain, and Rimmon—a total of twenty-nine cities and their villages.
+Lebaoth, Shilhim, Ain, and Rimmon—a total of twenty -nine towns along with their villages.
 
 ---
 
 ## Joshua 15:33
 
-In the Shephelah: Eshtaol, Zorah, and Ashnah,
+In the Shephelah: Eshtaol, and Zorah, and the settlement of Ashnah,
 
 ## Joshua 15:34
 
-Zanoah, En-gannim, Tappuah, and Enam,
+Zanoah, and En-gannim, and Tappuah, and the settlement of Enam,
 
 ## Joshua 15:35
 
-Jarmuth, Adullam, Socoh, and Azekah,
+Jarmuth, and Adullam, and Socoh, and the settlement of Azekah,
 
 ## Joshua 15:36
 
-Shaaraim, Adithaim, Gederah, and Gederothaim—fourteen cities along with their villages.
+Shaaraim, Adithaim, Gederah, and Gederothaim —fourteen towns along with their villages.
 
 ---
 
 ## Joshua 15:37
 
-Zenan, Hadashah, and Migdal-gad,
+Zenan, and Hadashah, and the settlement of Migdal-gad,
 
 ## Joshua 15:38
 
-Dilean, Mizpeh, and Joktheel,
+Dilean, and Mizpeh, and the settlement of Joktheel,
 
 ## Joshua 15:39
 
-Lachish, Bozkath, and Eglon,
+Lachish, and Bozkath, and the settlement of Eglon,
 
 ## Joshua 15:40
 
-Cabbon, Lahmas, and Chitlish,
+Cabbon, and Lahmas, and the settlement of Chitlish,
 
 ## Joshua 15:41
 
-Gederoth, Beth-dagon, Naamah, and Makkedah—sixteen cities and their villages.
+Gederoth, Beth-dagon, Naamah, and Makkedah —sixteen towns along with their villages.
 
 ---
 
 ## Joshua 15:42
 
-Libnah, Ether, and Ashan,
+Libnah, and Ether, and the settlement of Ashan,
 
 ## Joshua 15:43
 
-Iphtah, Ashnah, and Nezib,
+Iphtah, and Ashnah, and the settlement of Nezib,
 
 ## Joshua 15:44
 
-Keilah, Achzib, and Mareshah—nine cities and their villages.
+Keilah, and Achzib, and Mareshah —nine towns along with their villages.
 
 ---
 
@@ -208,55 +208,55 @@ In the mountainous region: Shamir, Jattir, and Socoh,
 
 ## Joshua 15:49
 
-Dannah, Kiriath-sannah (that is, Debir),
+Dannah, and Kiriath-sannah (that is, Debir),
 
 ## Joshua 15:50
 
-Anab, Eshtemoh, and Anim,
+Anab, and Eshtemoh, and the settlement of Anim,
 
 ## Joshua 15:51
 
-Goshen, Holon, and Giloh—eleven cities along with their villages.
+Goshen, and Holon, and Giloh —eleven towns along with their villages.
 
 ---
 
 ## Joshua 15:52
 
-Arab, Dumah, and Eshan,
+Arab, Dumah, and the settlement of Eshan,
 
 ## Joshua 15:53
 
-Janum, Beth-tappuah, and Aphekah,
+Janum, Beth-tappuah, and the settlement of Aphekah,
 
 ## Joshua 15:54
 
-Humtah, Kiriath-arba (that is, Hebron), and Zior—nine cities and their villages.
+Humtah, Kiriath-arba (that is, Hebron), and Zior —nine towns along with their villages.
 
 ---
 
 ## Joshua 15:55
 
-Maon, Carmel, Ziph, and Juttah,
+Maon, and Carmel, and Ziph, and the settlement of Juttah,
 
 ## Joshua 15:56
 
-Jezreel, Jokdeam, and Zanoah,
+Jezreel, and Jokdeam, and the settlement of Zanoah,
 
 ## Joshua 15:57
 
-Kain, Gibeah, and Timnah—ten cities along with their villages.
+Kain, and Gibeah, and the settlement of Timnah —ten towns along with their villages.
 
 ## Joshua 15:58
 
-Halhul, Beth-zur, and Gedor,
+Halhul, and Beth-zur, and the settlement of Gedor,
 
 ## Joshua 15:59
 
-Maarath, Beth-anoth, and Eltekon—six cities and their villages.
+Maarath, Beth-anoth, and Eltekon —six towns along with their villages.
 
 ## Joshua 15:60
 
-Kiriath-baal (that is, Kiriath-jearim) and Rabbah—two cities and their villages.
+Kiriath-baal (that is, Kiriath-jearim) and Rabbah —two towns along with their villages.
 
 ## Joshua 15:61
 
@@ -264,7 +264,7 @@ In the desert region: Beth-arabah, Middin, and Secacah,
 
 ## Joshua 15:62
 
-Nibshan, the City of Salt, and Engedi—six cities and their villages.
+Nibshan, the City of Salt, and Engedi —six cities, towns along with their villagess.
 
 ## Joshua 15:63
 

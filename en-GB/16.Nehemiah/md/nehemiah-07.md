@@ -146,7 +146,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:36
 
-> the men of Jericho, 345;
+> the men of Jericho, numbering 345;
 
 ## Nehemiah 7:37
 
@@ -228,7 +228,7 @@ the line of Ziha, Hasupha, Tabbaoth,
 
 ## Nehemiah 7:52
 
-> Besai, Meunim, Nephushesim,
+> Besai, Meunim, and the temple servant Nephushesim,
 
 ## Nehemiah 7:53
 
@@ -258,7 +258,7 @@ Jaala, Darkon, Giddel,
 
 ## Nehemiah 7:59
 
-Shephatiah, Hattil, Pochereth-Hazzebaim, and Amon.
+Shephatiah, Hattil, Pochereth-Hazzebaim, and the temple servant Amon.
 
 ## Nehemiah 7:60
 
