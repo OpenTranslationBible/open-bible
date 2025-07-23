@@ -129,7 +129,7 @@ How much more severely do you think someone deserves to be punished who has tram
 
 ## Hebrews 10:30
 
-For we know him who said, “Vengeance is mine; I will repay,” and again, “The Lord will judge his people.”
+For we are aware of the one who said, “Vengeance belongs to me; I will repay,” and also, “The Lord will judge his people.”
 
 ## Hebrews 10:31
 

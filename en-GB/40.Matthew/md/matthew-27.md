@@ -6,7 +6,7 @@ When morning arrived, all the chief priests and the elders of the people gathere
 
 ## Matthew 27:2
 
-They bound Him, led Him away, and handed Him over to Pilate the governor.
+They tied Him with bonds, took Him away, and delivered Him to Pilate, the governor.
 
 ---
 
@@ -32,7 +32,7 @@ They decided to use the money to buy the potter’s field as a burial place for 
 
 ## Matthew 27:8
 
-For this reason, that field has been called the Field of Blood to this day.
+Therefore, that field has been known as the Field of Blood to this day.
 
 ## Matthew 27:9
 

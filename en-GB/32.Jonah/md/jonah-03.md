@@ -1,7 +1,7 @@
 # Jonah Chapter 3
 
 ## Jonah 3:1
-The word of the Lord came to Jonah a second time, saying,
+The message from the Lord reached Jonah once more,
 
 ## Jonah 3:2
 “Arise, go to the great city of Nineveh and deliver to it the message that I will give you.”

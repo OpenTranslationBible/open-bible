@@ -49,7 +49,7 @@ and with your feet prepared with the readiness that comes from the gospel of pea
 Besides all this, hold up the shield of faith, which enables you to quench all the fiery darts of the evil one.
 
 ## Ephesians 6:17
-Take the helmet of salvation and the sword of the Spirit, which is the word of God.
+Receive the helmet of salvation and the sword of the Spirit, which is the word of God.
 
 ## Ephesians 6:18
 Pray in the Spirit on all occasions with all kinds of prayers and requests. With this in mind, be alert and always keep on praying for all the saints.

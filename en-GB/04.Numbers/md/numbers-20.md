@@ -26,7 +26,7 @@ Moses and Aaron went from the assembly to the entrance of the tent of meeting an
 
 ## Numbers 20:7
 
-The Lord spoke to Moses, saying,
+The Lord then spoke to Moses, saying,
 
 ## Numbers 20:8
 
@@ -98,7 +98,7 @@ At Mount Hor, near the border of Edom, the Lord spoke to Moses and Aaron,
 
 ## Numbers 20:25
 
-Take Aaron and his son Eleazar and bring them up Mount Hor.
+Bring Aaron and his son Eleazar up the slopes of Mount Hor.
 
 ## Numbers 20:26
 

@@ -2,7 +2,7 @@
 
 ## Numbers 6:1
 
-The Lord spoke again to Moses, saying,
+The Lord then spoke to Moses once more, saying,
 
 ## Numbers 6:2
 
@@ -86,7 +86,7 @@ The priest shall then wave them as a wave offering before the Lord; they are hol
 
 ## Numbers 6:22
 
-The Lord spoke to Moses, saying,
+The Lord then spoke to Moses, saying,
 
 ## Numbers 6:23
 

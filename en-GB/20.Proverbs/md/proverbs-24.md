@@ -10,7 +10,7 @@ for their hearts devise violence, and their lips speak of trouble.
 
 ## Proverbs 24:3
 
-By wisdom a house is built, and by understanding it is established;
+Through wisdom a house finds its foundation, and through understanding it becomes firmly set;
 
 ## Proverbs 24:4
 

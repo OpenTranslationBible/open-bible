@@ -154,7 +154,7 @@ At the Lord’s command, Aaron the priest went up Mount Hor, where he died in th
 
 ## Numbers 33:39
 
-Aaron was one hundred and twenty-three years old when he died on Mount Hor.
+Aaron was one hundred and twenty-three years of age when he passed away on Mount Hor.
 
 ## Numbers 33:40
 

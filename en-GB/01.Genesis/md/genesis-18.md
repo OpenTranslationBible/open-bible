@@ -49,7 +49,7 @@ Sarah was afraid, so she denied it, saying, “I did not laugh.” But He said, 
 When the men rose up to leave, they looked down towards Sodom, and Abraham walked with them to see them on their way.
 
 ## Genesis 18:17
-The Lord said, “Shall I hide from Abraham what I am about to do?
+The Lord considered, “Shall I keep from Abraham what I am going to do?
 
 ## Genesis 18:18
 Since Abraham will surely become a great and powerful nation, and all nations on earth will be blessed through him.

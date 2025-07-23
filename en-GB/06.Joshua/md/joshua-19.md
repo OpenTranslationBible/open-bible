@@ -74,7 +74,7 @@ The fourth lot came out for the tribe of Issachar according to their families.
 
 ## Joshua 19:18
 
-Their territory included Jezreel, Chesulloth, Shunem,
+Their land encompassed Jezreel, Chesulloth, Shunem,
 
 ## Joshua 19:19
 

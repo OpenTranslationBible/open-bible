@@ -88,7 +88,7 @@ And when the blood of your martyr Stephen was being shed, I was there, giving my
 
 ## Acts 22:21
 
-And he said to me, ‘Go! For I will send you far away to the Gentiles.’”
+Then he said to me, ‘Go! For I am sending you far away to the Gentiles.’
 
 ---
 

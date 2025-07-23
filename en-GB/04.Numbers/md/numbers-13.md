@@ -42,7 +42,7 @@ from the tribe of Zebulun, Gaddiel son of Sodi;
 
 ## Numbers 13:11
 
-from the tribe of Manasseh (a tribe of Joseph), Gaddi son of Susi;
+from the tribe of Manasseh, which is part of Joseph, Gaddi son of Susi;
 
 ## Numbers 13:12
 
@@ -58,7 +58,7 @@ from the tribe of Naphtali, Nahbi son of Vophsi;
 
 ## Numbers 13:15
 
-from the tribe of Gad, Geuel son of Machi.
+from the tribe of Gad, Geuel, the son of Machi.
 
 ## Numbers 13:16
 

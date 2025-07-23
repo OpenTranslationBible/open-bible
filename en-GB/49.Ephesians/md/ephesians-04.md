@@ -50,7 +50,7 @@ And he gave some to be apostles, some prophets, some evangelists, and some pasto
 
 ## Ephesians 4:12
 
-to equip the saints for the work of ministry, for building up the body of Christ,
+to prepare God's people for service, for the strengthening of the body of Christ,
 
 ## Ephesians 4:13
 

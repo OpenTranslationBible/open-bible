@@ -38,7 +38,7 @@ Upon reaching land, they saw a charcoal fire with fish laid upon it, and bread.
 
 ## John 21:10
 
-Jesus said to them, “Bring some of the fish you have just caught.”
+Jesus instructed them, “Bring in those fish you have just caught.”
 
 ## John 21:11
 

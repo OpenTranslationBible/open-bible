@@ -103,7 +103,7 @@ When the days for their purification according to the Law of Moses were complete
 
 ## Luke 2:24
 
-and to offer a sacrifice according to what is said in the Law of the Lord: “a pair of turtle-doves or two young pigeons.”
+and to make an offering as required by the Law of the Lord: “a pair of turtle-doves or two young pigeons.”
 
 ---
 
@@ -121,7 +121,7 @@ Guided by the Spirit, he went into the temple courts. When the parents brought i
 
 ## Luke 2:28
 
-Simeon took him in his arms and praised God, saying,
+Simeon embraced him and praised God, saying,
 
 ## Luke 2:29
 

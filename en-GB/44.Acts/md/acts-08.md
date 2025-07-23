@@ -32,7 +32,7 @@ For many who had unclean spirits, crying out with loud voices, were coming out o
 
 ## Acts 8:8
 
-So there was much joy in that city.
+So as a result, there was great joy in that city.
 
 ---
 

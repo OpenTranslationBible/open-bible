@@ -10,11 +10,11 @@ For You have granted Him authority over all humanity, that He might give eternal
 
 ## John 17:3
 
-And this is eternal life: that they may know You, the only true God, and Jesus Christ, whom You have sent.
+And this is eternal life: to know You, the only true God, and Jesus Christ, whom You have sent.
 
 ## John 17:4
 
-I have honored You on the earth by finishing the work You assigned to Me.
+I have honoured You on the earth by finishing the work You assigned to Me.
 
 ## John 17:5
 
@@ -60,7 +60,7 @@ But now I am coming to You, and I speak these things in the world so that they m
 
 ## John 17:14
 
-I have given them Your word, and the world has hated them because they are not of the world, just as I am not of the world.
+I have delivered Your word to them, and the world has despised them because they do not belong to the world, just as I do not belong to the world.
 
 ## John 17:15
 

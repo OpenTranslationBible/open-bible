@@ -112,7 +112,7 @@ Once the owner of the house gets up and shuts the door, you will stand outside k
 
 ## Luke 13:26
 
-Then you will say, ‘We ate and drank with you, and you taught in our streets.’
+Then you will say, ‘We shared meals with you, and you taught among us.’
 
 ## Luke 13:27
 

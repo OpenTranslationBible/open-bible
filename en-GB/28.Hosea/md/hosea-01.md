@@ -7,7 +7,7 @@ The word of the Lord that came to Hosea son of Beeri during the days of Uzziah, 
 When the Lord began to speak through Hosea, He said to him, “Go, take for yourself a wife of infidelity and have children of infidelity, for the land is guilty of unfaithfulness in departing from the Lord.”
 
 ## Hosea 1:3
-So he went and took Gomer daughter of Diblaim, and she conceived and bore him a son.
+So Hosea went and married Gomer, the daughter of Diblaim, and she conceived and bore him a son.
 
 ## Hosea 1:4
 Then the Lord said to him, “Call him Jezreel, for soon I will punish the house of Jehu for the bloodshed at Jezreel, and I will bring an end to the kingdom of Israel.

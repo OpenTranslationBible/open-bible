@@ -1,5 +1,3 @@
-# 1 Corinthians Chapter 16
-
 ## 1 Corinthians 16:1
 
 Regarding the collection for the believers, as I instructed the churches of Galatia, you should do likewise.
@@ -22,7 +20,7 @@ I will come to you after passing through Macedonia, for I am travelling through 
 
 ## 1 Corinthians 16:6
 
-And perhaps I will stay with you, or even spend the winter, so that you may send me on my way wherever I go.
+And it is possible that I will stay with you, or even spend the winter, so that you may assist me on my journey, wherever I go.
 
 ## 1 Corinthians 16:7
 
@@ -82,7 +80,7 @@ All the believers send you greetings. Embrace one another with a holy kiss.
 
 ## 1 Corinthians 16:21
 
-I, Paul, write this greeting with my own hand.
+See this greeting is written by me, Paul, by my own hand.
 
 ## 1 Corinthians 16:22
 

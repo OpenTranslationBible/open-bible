@@ -128,7 +128,7 @@ Therefore, when I have completed this task and have put my seal on this fruit of
 
 ## Romans 15:29
 
-I know that when I come to you, I will come in the fullness of the blessing of Christ.
+I am confident that when I come to you, I will arrive with the full blessing of Christ.
 
 ## Romans 15:30
 

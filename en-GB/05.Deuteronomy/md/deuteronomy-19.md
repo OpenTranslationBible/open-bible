@@ -61,4 +61,4 @@ then you shall do to the false witness as he intended to do to his brother. You 
 The people will hear of this and be afraid, ensuring that such an evil thing is not repeated among you.
 
 ## Deuteronomy 19:21
-Show no pity: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
+Do not show mercy: life for life, eye for eye, tooth for tooth, hand for hand, foot for foot.

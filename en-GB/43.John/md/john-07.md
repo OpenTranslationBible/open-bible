@@ -34,7 +34,7 @@ You go up to the festival; I am not going up to this festival, because my time h
 
 ## John 7:9
 
-After saying this, he remained in Galilee.
+After he spoke these words, he stayed in Galilee.
 
 ---
 
@@ -120,7 +120,7 @@ Then Jesus, still teaching in the temple courts, cried out, “Yes, you know me,
 
 ## John 7:29
 
-but I know him because I am from him and he sent me.”
+but I am acquainted with him because I am from him, and he sent me.”
 
 ## John 7:30
 

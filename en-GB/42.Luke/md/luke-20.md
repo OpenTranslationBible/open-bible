@@ -52,7 +52,7 @@ He sent a third, and this one too they wounded and threw out.
 
 ## Luke 20:13
 
-Then the owner of the vineyard said, ‘What shall I do? I will send my beloved son; perhaps they will respect him.’
+Then the owner of the vineyard pondered, ‘What shall I do? I will send my dear son; perhaps they will show him respect.’
 
 ## Luke 20:14
 
@@ -97,7 +97,7 @@ Is it lawful for us to pay taxes to Caesar, or not?”
 
 ## Luke 20:23
 
-But He perceived their craftiness and said to them,
+But He, aware of their cunning, said to them,
 
 ## Luke 20:24
 
@@ -105,7 +105,7 @@ But He perceived their craftiness and said to them,
 
 ## Luke 20:25
 
-He said to them, “Then render to Caesar the things that are Caesar’s, and to God the things that are God’s.”
+He replied, “Then give back to Caesar what belongs to Caesar, and to God what belongs to God.”
 
 ## Luke 20:26
 

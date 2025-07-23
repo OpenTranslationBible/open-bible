@@ -30,7 +30,7 @@ As for you, be fruitful and multiply; increase greatly on the earth and multiply
 
 ## Genesis 9:8
 
-Then God spoke to Noah and to his sons with him, saying,
+God addressed Noah and his sons who were with him, saying,
 
 ## Genesis 9:9
 

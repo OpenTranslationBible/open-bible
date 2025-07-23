@@ -2,11 +2,11 @@
 
 ## Exodus 20:1
 
-And God spoke all these words, saying,
+And God declared all these words:
 
 ## Exodus 20:2
 
-“I am the Lord your God, who brought you out of the land of Egypt, out of the house of slavery.
+“I am the Lord your God, who delivered you from the land of Egypt, from the house of bondage.
 
 ## Exodus 20:3
 

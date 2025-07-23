@@ -252,7 +252,7 @@ In Gibeon Jeiel the father of Gibeon lived,
 
 ## 1 Chronicles 9:36
 
-His firstborn son was Abdon, then Zur, Kish, Baal, Ner, Nadab,
+His first son was Abdon, they were then followed by Zur, Kish, Baal, Ner, Nadab,
 
 ## 1 Chronicles 9:37
 

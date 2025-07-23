@@ -2,7 +2,7 @@
 
 ## 2 Timothy 2:1
 
-You therefore, my son, be strong in the grace that is in Christ Jesus.
+Therefore, my son, draw strength from the grace that is in Christ Jesus.
 
 ## 2 Timothy 2:2
 
@@ -74,7 +74,7 @@ But avoid irreverent and empty talk, for it will lead to further ungodliness,
 
 ## 2 Timothy 2:17
 
-and their talk will spread like gangrene. Among them are Hymenaeus and Philetus,
+and their talk will spread like a harmful infection. Among them are Hymenaeus and Philetus,
 
 ## 2 Timothy 2:18
 

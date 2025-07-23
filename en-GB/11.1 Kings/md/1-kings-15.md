@@ -86,7 +86,7 @@ silver, gold, and utensils.
 
 ## 1 Kings 15:16
 
-Now there was war between Asa and Baasha king of Israel all their days.
+There was ongoing conflict and war between Asa and Baasha king of Israel throughout their reigns.
 
 ## 1 Kings 15:17
 
@@ -187,7 +187,7 @@ are they not written in the Book of the Chronicles of the Kings of Israel?
 
 ## 1 Kings 15:32
 
-And there was war between Asa and Baasha king of Israel all their days.
+And there was continuous conflict between Asa and Baasha king of Israel throughout their reigns.
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## Ecclesiastes 1:1
 
-The words of the Teacher, the son of David, king in Jerusalem.
+The sayings of the Teacher, descendant of David, ruler in Jerusalem.
 
 ## Ecclesiastes 1:2
 

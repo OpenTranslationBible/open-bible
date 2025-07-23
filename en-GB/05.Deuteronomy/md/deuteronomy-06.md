@@ -14,7 +14,7 @@ Hear, O Israel, and be diligent to obey so that it may go well with you and that
 
 ## Deuteronomy 6:4
 
-Hear, O Israel: The Lord our God, the Lord is one.
+Hear, O Israel: Of the Lord our God, the Lord is one.
 
 ## Deuteronomy 6:5
 

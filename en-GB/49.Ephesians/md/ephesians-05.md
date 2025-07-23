@@ -102,7 +102,7 @@ Now as the church submits to Christ, so also wives should submit to their husban
 
 ## Ephesians 5:25
 
-Husbands, love your wives, just as Christ loved the church and gave Himself up for her,
+Husbands, cherish your wives, just as Christ cherished the church and offered Himself for her,
 
 ## Ephesians 5:26
 
@@ -126,7 +126,7 @@ for we are parts of His body.
 
 ## Ephesians 5:31
 
-“For this reason a man will leave his father and mother and be joined to his wife, and the two will become one flesh.”
+“For this reason a man will leave his father and mother and be united with his wife, and the two will become one flesh.”
 
 ## Ephesians 5:32
 

@@ -76,7 +76,7 @@ As it is written:
 
 ## Romans 3:17
 
-> and the way of peace they have not known.”
+> and they have not understood nor known the way of peace.”
 
 ## Romans 3:18
 

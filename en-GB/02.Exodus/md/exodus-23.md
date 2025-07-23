@@ -94,7 +94,7 @@ Gradually, I will drive them out before you, until you have increased enough to 
 “I will establish your borders from the Red Sea to the Mediterranean Sea, and from the desert to the Euphrates River. I will deliver the inhabitants of the land into your hand, and you will drive them out before you.
 
 ## Exodus 23:32
-You shall make no covenant with them or with their gods.
+You must not make agreements with them or with their gods.
 
 ## Exodus 23:33
 They must not dwell in your land, or they will cause you to sin against me, for the worship of their gods will surely be a snare to you.”

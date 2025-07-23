@@ -1,7 +1,7 @@
 # Exodus Chapter 1
 
 ## Exodus 1:1
-These are the names of the sons of Israel who came to Egypt with Jacob, each with his household:
+Here are the names of the sons of Israel who journeyed to Egypt with Jacob, each accompanied by his household:
 
 ## Exodus 1:2
 Reuben, Simeon, Levi, and Judah;

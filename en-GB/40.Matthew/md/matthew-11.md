@@ -127,7 +127,7 @@ All things have been entrusted to me by my Father. No one knows the Son except t
 
 ## Matthew 11:29
 
-Take my yoke upon you and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.
+Accept my guidance and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.
 
 ## Matthew 11:30
 

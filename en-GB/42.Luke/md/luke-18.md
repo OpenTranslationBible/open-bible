@@ -76,7 +76,7 @@ Truly I say to you, whoever does not receive the kingdom of God like a little ch
 
 ## Luke 18:18
 
-A certain ruler asked Him, “Good Teacher, what must I do to inherit eternal life?”
+A ruler approached Him with a question, “Good Teacher, what must I do to inherit eternal life?”
 
 ## Luke 18:19
 

@@ -214,4 +214,4 @@ And if you greet only your own people, what are you doing more than others? Do n
 
 ## Matthew 5:48
 
-Be perfect, therefore, as your heavenly Father is perfect.
+Therefore, strive to be as perfect just as your heavenly Father is perfect.

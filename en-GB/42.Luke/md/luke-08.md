@@ -231,7 +231,7 @@ Meanwhile, all the people were lamenting and mourning for her. “Cease your wee
 
 ## Luke 8:53
 
-They laughed at him, knowing that she was dead.
+They ridiculed him, being certain that she was dead.
 
 ## Luke 8:54
 

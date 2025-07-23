@@ -36,7 +36,7 @@ He instructed them to take nothing for their journey except a staff—no bread, 
 
 ## Mark 6:9
 
-but to wear sandals and not to put on two tunics.
+they were permitted to wear sandals but were not to put on two tunics.
 
 ## Mark 6:10
 

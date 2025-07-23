@@ -6,7 +6,7 @@ In the church at Antioch there were prophets and teachers: Barnabas, Simeon who 
 
 ## Acts 13:2
 
-While they were worshipping the Lord and fasting, the Holy Spirit said, “Set apart for me Barnabas and Saul for the work to which I have called them.”
+As they were worshipping and fasting, serving the Lord, the Holy Spirit spoke, “Set apart Barnabas and Saul for me, they are to do the work to which I have called them.”
 
 ## Acts 13:3
 

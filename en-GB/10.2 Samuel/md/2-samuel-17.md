@@ -164,7 +164,7 @@ who had gone in to Abigail the daughter of Nahash, sister of Zeruiah, Joab’s m
 
 ## 2 Samuel 17:26
 
-And Israel and Absalom camped in the land of Gilead.
+And Absalom and the Israelites set up camp in the land of Gilead.
 
 ---
 

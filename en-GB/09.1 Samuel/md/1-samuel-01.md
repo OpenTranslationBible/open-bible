@@ -18,7 +18,7 @@ Whenever Elkanah offered his sacrifice, he would give portions of the meat to hi
 
 ## 1 Samuel 1:5
 
-But to Hannah he gave a double portion, because he loved her, though the Lord had closed her womb.
+To Hannah, however, he gave her a double portion, for he loved her, even though the Lord had not granted her children.
 
 ## 1 Samuel 1:6
 

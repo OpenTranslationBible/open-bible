@@ -54,7 +54,7 @@ Then Elon the Zebulunite died and was buried at Aijalon in the land of Zebulun.
 
 ## Judges 12:13
 
-After him, Abdon son of Hillel, the Pirathonite, judged Israel.
+Following him, Abdon son of Hillel, the Pirathonite, judged Israel.
 
 ## Judges 12:14
 

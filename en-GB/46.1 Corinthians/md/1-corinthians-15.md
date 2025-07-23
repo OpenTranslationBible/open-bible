@@ -118,7 +118,7 @@ Otherwise, what will those do who are baptised for the dead? If the dead are not
 
 ## 1 Corinthians 15:30
 
-Why are we also in danger every hour?
+Why do we face danger every hour?
 
 ## 1 Corinthians 15:31
 
@@ -169,15 +169,15 @@ There is one splendour of the sun, another splendour of the moon, and another sp
 
 ## 1 Corinthians 15:42
 
-So it is with the resurrection of the dead. The body is sown perishable, it is raised imperishable;
+So it is with the resurrection of the dead. The body is planted perishable, it is raised imperishable;
 
 ## 1 Corinthians 15:43
 
-It is sown in dishonour, it is raised in glory; it is sown in weakness, it is raised in power;
+Though it is planted without honour, it is raised in glory; though it is planted in weakness, it is raised in power;
 
 ## 1 Corinthians 15:44
 
-It is sown a natural body, it is raised a spiritual body. If there is a natural body, there is also a spiritual body.
+Though it is planted as a natural body, it is raised as a spiritual body. If there exists a natural body, there too is a spiritual body.
 
 ## 1 Corinthians 15:45
 

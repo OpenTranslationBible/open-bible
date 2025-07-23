@@ -52,7 +52,7 @@ And someone from there answered and said, “But who is their father?” Therefo
 
 ## 1 Samuel 10:13
 
-When he had finished prophesying, he came to the high place.
+After finishing his prophesying, he went up to the high place.
 
 ---
 
@@ -63,7 +63,7 @@ And he said, “To look for the donkeys. When we saw that they were not to be fo
 
 ## 1 Samuel 10:15
 
-Saul’s uncle said, “Please tell me what Samuel said to you.”
+Saul’s uncle inquired, “Kindly tell me what Samuel said to you.”
 
 ## 1 Samuel 10:16
 

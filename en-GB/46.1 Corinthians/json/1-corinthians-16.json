@@ -1,6 +1,6 @@
 {
-    "book": "1 Corinthians",
-    "chapter": 16,
+    "book": "",
+    "chapter": 0,
     "verses": [
         {
             "verse": 1,
@@ -35,7 +35,7 @@
         {
             "verse": 6,
             "text": [
-                "And perhaps I will stay with you, or even spend the winter, so that you may send me on my way wherever I go."
+                "And it is possible that I will stay with you, or even spend the winter, so that you may assist me on my journey, wherever I go."
             ]
         },
         {
@@ -125,7 +125,7 @@
         {
             "verse": 21,
             "text": [
-                "I, Paul, write this greeting with my own hand."
+                "See this greeting is written by me, Paul, by my own hand."
             ]
         },
         {

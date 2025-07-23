@@ -13,7 +13,7 @@ And this we will do, if God allows.
 For it is impossible for those who have once been enlightened, who have tasted the heavenly gift and have become partakers of the Holy Spirit,
 
 ## Hebrews 6:5
-and have tasted the goodness of the word of God and the powers of the age to come,
+and have experienced the richness of God's word and the powers of the age to come,
 
 ## Hebrews 6:6
 and then have fallen away, to be restored again to repentance, since they are crucifying the Son of God all over again and subjecting Him to public disgrace.

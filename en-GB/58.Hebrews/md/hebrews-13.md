@@ -43,7 +43,7 @@ Do not be led astray by diverse and strange teachings; it is beneficial for the 
 
 ## Hebrews 13:10
 
-We have an altar from which those who serve the tabernacle have no right to eat.
+We have a sacred place from which those who serve the tabernacle are not permitted to partake.
 
 ## Hebrews 13:11
 

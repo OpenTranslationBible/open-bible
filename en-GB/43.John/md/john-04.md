@@ -134,7 +134,7 @@ Meanwhile His disciples urged Him, “Rabbi, please eat something.”
 
 ## John 4:32
 
-But He said to them, “I have food to eat that you do not know about.”
+But He responded to them, “I have food that you do not know about.”
 
 ## John 4:33
 

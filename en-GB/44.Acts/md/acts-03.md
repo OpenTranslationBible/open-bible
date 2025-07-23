@@ -108,4 +108,4 @@ You are the heirs of the prophets and of the covenant God made with your fathers
 
 ## Acts 3:26
 
-When God raised up His servant, He sent Him first to you to bless you by turning each of you from your wicked ways.”
+When God raised up His servant, He sent Him to you, first, to bless you by turning each of you away from your sinful ways.”

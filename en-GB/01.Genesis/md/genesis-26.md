@@ -97,7 +97,7 @@ Early the next morning, they exchanged oaths. Then Isaac sent them on their way,
 That same day, Isaac’s servants came and told him about the well they had dug. They said, “We have found water!”
 
 ## Genesis 26:33
-He called it Shibah; therefore, the name of the city is Beersheba to this day.
+He named it Shibah, and that is why the city is called Beersheba to this day.
 
 ## Genesis 26:34
 When Esau was forty years old, he took Judith, daughter of Beeri the Hittite, and Basemath, daughter of Elon the Hittite, as his wives.

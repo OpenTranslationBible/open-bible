@@ -1,7 +1,7 @@
 # Jeremiah Chapter 2
 
 ## Jeremiah 2:1
-The word of the Lord came to me, saying:
+A message from the Lord reached me:
 
 ## Jeremiah 2:2
 “Go and proclaim in the ears of Jerusalem: ‘This is what the Lord says: “I remember the devotion of your youth, your love as a bride, how you followed me through the wilderness, through a land not sown.

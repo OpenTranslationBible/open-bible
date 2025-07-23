@@ -1,7 +1,7 @@
 # Deuteronomy Chapter 33
 
 ## Deuteronomy 33:1
-This is the blessing with which Moses, the man of God, blessed the Israelites before his death.
+This is the blessing that Moses, the man of God, gave to the Israelites before he passed away.
 
 ## Deuteronomy 33:2
 He said: “The Lord came from Sinai and dawned upon them from Seir; he shone forth from Mount Paran. He came with myriads of holy ones; at his right hand there was flashing lightning for them.

@@ -142,7 +142,7 @@ and Eliezer had no other sons,
 
 ## 1 Chronicles 23:18
 
-The son of Izhar was Shelomith the chief.
+Izhar's son was Shelomith, who was the leader and chief.
 
 ---
 

@@ -118,7 +118,7 @@ He named him Noah, saying, “He will comfort us in our work and the toil of our
 
 ## Genesis 5:30
 
-After Noah was born, Lamech lived 595 years and had other sons and daughters.
+Lamech lived 595 years after Noah was born and had other sons and daughters.
 
 ## Genesis 5:31
 

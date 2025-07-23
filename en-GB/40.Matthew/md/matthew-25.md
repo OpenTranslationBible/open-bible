@@ -76,7 +76,7 @@ But the one who had received one talent went off, dug a hole in the ground, and 
 
 ## Matthew 25:19
 
-After a long time, the master of those servants returned and settled accounts with them.
+After a significant period, the master of those servants came back and settled accounts with them.
 
 ## Matthew 25:20
 

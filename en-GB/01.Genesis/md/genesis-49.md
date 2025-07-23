@@ -22,7 +22,7 @@ Let my soul not enter their council; let my glory not be united with their assem
 Cursed be their anger, for it is fierce, and their wrath, for it is cruel! I will scatter them in Jacob and disperse them in Israel.
 
 ## Genesis 49:8
-“Judah, your brothers will honor you; your hand will be on the neck of your enemies; your father’s sons will bow down to you.
+“Judah, your brothers will honour you; your hand will be on the neck of your enemies; your father’s sons will bow down to you.
 
 ## Genesis 49:9
 Judah is a lion’s cub; from the prey, my son, you have gone up. He crouches and lies down like a lion, and like a lioness—who dares to rouse him?
@@ -40,7 +40,7 @@ His eyes are darker than wine, and his teeth whiter than milk.
 “Zebulun shall dwell by the seashore and be a haven for ships; his border shall extend towards Sidon.
 
 ## Genesis 49:14
-“Issachar is a strong donkey, lying down between the sheepfolds.
+“Issachar is like a robust donkey, resting among the sheepfolds.
 
 ## Genesis 49:15
 When he saw that his resting place was good and that the land was pleasant, he bowed his shoulder to bear burdens and became a servant at forced labour.
@@ -91,7 +91,7 @@ Then he instructed them, saying, “I am about to be gathered to my people. Bury
 the cave in the field of Machpelah, near Mamre in Canaan, which Abraham bought along with the field from Ephron the Hittite as a burial site.
 
 ## Genesis 49:31
-There Abraham and his wife Sarah were buried, there Isaac and his wife Rebekah were buried, and there I buried Leah.
+There Abraham and his wife Sarah were laid to rest, there Isaac and his wife Rebekah were laid to rest, and there I laid Leah to rest.
 
 ## Genesis 49:32
 The field and the cave in it were purchased from the sons of Heth.”

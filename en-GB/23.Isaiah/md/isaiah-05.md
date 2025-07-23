@@ -88,7 +88,7 @@ Woe to those who call evil good and good evil, who substitute darkness for light
 
 ## Isaiah 5:21
 
-Woe to those who are wise in their own eyes and clever in their own sight.
+Woe to those who consider themselves wise and perceive themselves as clever.
 
 ## Isaiah 5:22
 

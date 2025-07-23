@@ -10,7 +10,7 @@ When they had consumed the vegetation of the land, I pleaded, “Lord God, forgi
 
 ## Amos 7:3
 
-The Lord relented concerning this. “It shall not be,” said the Lord.
+The Lord changed His mind about this. “It shall not happen,” said the Lord.
 
 ## Amos 7:4
 
@@ -22,7 +22,7 @@ Then I implored, “Lord God, cease! How can Jacob endure? He is so small!”
 
 ## Amos 7:6
 
-The Lord relented concerning this. “This too shall not be,” said the Lord God.
+The Lord changed His mind about this. “This too shall not happen,” said the Lord God.
 
 ## Amos 7:7
 

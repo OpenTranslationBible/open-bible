@@ -110,7 +110,7 @@ Rehoboam married Mahalath, the daughter of Jerimoth, son of David, and Abihail, 
 
 ## 2 Chronicles 11:19
 
-She bore him sons: Jeush, Shemariah, and Zaham.
+She gave birth to his sons: Jeush, Shemariah, and Zaham.
 
 ---
 

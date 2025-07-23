@@ -70,7 +70,7 @@ For Christ did not send me to baptise, but to preach the gospel, not with eloque
 
 ## 1 Corinthians 1:18
 
-For the message of the cross is foolishness to those who are perishing, but to us who are being saved, it is the power of God.
+For the message of the cross seems like foolishness to the lost, but to us who are being saved, it is the power of God.
 
 ## 1 Corinthians 1:19
 
@@ -97,7 +97,7 @@ But we declare Christ crucified, an obstacle to Jews and folly to Gentiles,
 
 ## 1 Corinthians 1:24
 
-But to those who are called, both Jews and Greeks, Christ the power of God and the wisdom of God.
+But to those who are called, both Jews and Greeks, Christ is the power and wisdom of God.
 
 ## 1 Corinthians 1:25
 

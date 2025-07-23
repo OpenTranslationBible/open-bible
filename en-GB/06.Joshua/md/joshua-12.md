@@ -92,7 +92,7 @@ the king of Kedesh, one; the king of Jokneam in Carmel, one;
 
 ## Joshua 12:23
 
-the king of Dor (in the heights of Dor), one; the king of Goiim in Gilgal, one;
+the king of Dor, situated on the heights of Dor, one; the king of Goiim at Gilgal, one;
 
 ## Joshua 12:24
 

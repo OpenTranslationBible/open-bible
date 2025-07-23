@@ -46,7 +46,7 @@ After burying his father, Joseph returned to Egypt, along with his brothers and 
 When Joseph’s brothers saw that their father was dead, they said, “What if Joseph holds a grudge against us and repays us for all the wrongs we did to him?”
 
 ## Genesis 50:16
-So they sent a message to Joseph, saying, “Your father gave this command before he died:
+Therefore, they sent word to Joseph, saying, “Your father gave this command before he died:
 
 ## Genesis 50:17
 ‘This is what you are to say to Joseph: I beg you, forgive the transgressions of your brothers and their sin, for they treated you badly.’ Now please forgive the transgressions of the servants of the God of your father.” Joseph wept when they spoke to him.

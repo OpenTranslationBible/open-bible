@@ -181,7 +181,7 @@ are they not written in the Book of the Chronicles of the Kings of Judah?
 
 ## 1 Kings 14:30
 
-And there was war between Rehoboam and Jeroboam continually.
+And conflict and war persisted between Rehoboam and Jeroboam throughout their reigns.
 
 ## 1 Kings 14:31
 

@@ -16,7 +16,7 @@ Blessed will be the fruit of your womb, the produce of your ground, and the offs
 Your basket and your kneading bowl will be favoured.
 
 ## Deuteronomy 28:6
-You will be blessed when you come in and blessed when you go out.
+You will receive blessings in your comings and goings.
 
 ## Deuteronomy 28:7
 The Lord will cause your enemies who rise up against you to be defeated before you. They will come at you from one direction but flee from you in seven.
@@ -55,7 +55,7 @@ Your basket and your kneading bowl will be afflicted.
 The fruit of your womb will be cursed, and the produce of your ground, the newborn of your herds, and the offspring of your flocks.
 
 ## Deuteronomy 28:19
-You will be cursed when you come in and cursed when you go out.
+You will encounter curses in your comings and goings.
 
 ## Deuteronomy 28:20
 The Lord will send on you curses, confusion, and rebuke in everything you undertake to do, until you are destroyed and come to sudden ruin on account of the evil you have done in forsaking Him.
@@ -82,7 +82,7 @@ Your carcasses will be food for all the birds of the sky and the wild animals, a
 The Lord will afflict you with the boils of Egypt, with tumors, festering sores, and the itch, from which you cannot be healed.
 
 ## Deuteronomy 28:28
-The Lord will afflict you with madness, blindness, and confusion of mind.
+The Lord will bring upon you madness, blindness, and bewilderment of mind.
 
 ## Deuteronomy 28:29
 At midday you will stumble about like a blind person in the dark. You will be unsuccessful in everything you do; day after day you will be oppressed and robbed, with no one to rescue you.

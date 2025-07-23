@@ -114,7 +114,7 @@ The king is aware of these matters, and I speak to him with confidence, as I am 
 
 ## Acts 26:27
 
-King Agrippa, do you believe the prophets? I know you do.”
+King Agrippa, do you accept the words of the prophets? I am aware that you do.”
 
 ## Acts 26:28
 

@@ -26,7 +26,7 @@ Then Esther summoned Hathach, one of the king’s eunuchs appointed to attend he
 
 ## Esther 4:6
 
-Hathach went out to Mordecai in the open square of the city in front of the king’s gate.
+Hathach went up to Mordecai in the main city square near the king’s gate.
 
 ## Esther 4:7
 

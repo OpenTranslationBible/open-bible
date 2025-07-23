@@ -76,7 +76,7 @@ Jesus inquired, “Were all ten not cleansed? Where are the other nine?
 
 ## Luke 17:18
 
-Is there no one here to honor God except this outsider?”
+Is there no one here to honour God except this outsider?”
 
 ## Luke 17:19
 

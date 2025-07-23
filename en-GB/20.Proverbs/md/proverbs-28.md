@@ -60,7 +60,7 @@ Blessed is the one who always fears God, but whoever hardens their heart falls i
 
 ## Proverbs 28:15
 
-Like a roaring lion or a charging bear is a wicked ruler over a poor people.
+A wicked ruler with power over a poor people is like a roaring lion or a charging bear.
 
 ## Proverbs 28:16
 

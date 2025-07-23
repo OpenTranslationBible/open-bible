@@ -70,7 +70,7 @@ who made the world a wilderness, who overthrew its cities and did not let his ca
 
 ## Isaiah 14:18
 
-All the rulers of the nations rest in honor, each in his own tomb.
+All the rulers of the nations rest in honour, each in his own tomb.
 
 ## Isaiah 14:19
 

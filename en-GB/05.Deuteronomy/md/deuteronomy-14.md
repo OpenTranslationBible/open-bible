@@ -52,7 +52,7 @@ the little owl, the great owl, the white owl,
 the pelican, the osprey, the cormorant,
 
 ## Deuteronomy 14:18
-the stork, any kind of heron, the hoopoe, and the bat.
+the stork, any variety of heron, the hoopoe, and the bat.
 
 ## Deuteronomy 14:19
 All flying insects are considered unclean for you; refrain from eating them.

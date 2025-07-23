@@ -76,7 +76,7 @@ If they refuse to listen to them, tell it to the church; and if they refuse to l
 
 ## Matthew 18:18
 
-“Truly I tell you, whatever you bind on earth will be bound in heaven, and whatever you loose on earth will be loosed in heaven.
+“Truly I tell you, whatever you bind on earth will be bound for you in heaven, and whatever you loose on earth will be loosed for you in heaven.
 
 ## Matthew 18:19
 

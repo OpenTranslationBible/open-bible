@@ -89,7 +89,7 @@ for he loved him as he loved his own life.
 
 ## 1 Samuel 20:18
 
-Then Jonathan said to him, “Tomorrow is the New Moon, and you will be missed, because your seat will be empty.
+Then Jonathan said to him, “It is the New Moon tomorrow, and you will be missed, for your seat will be empty.
 
 ## 1 Samuel 20:19
 

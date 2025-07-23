@@ -2,7 +2,7 @@
 
 ## Leviticus 14:1
 
-The Lord spoke to Moses, saying,
+The Lord then spoke to Moses, saying,
 
 ## Leviticus 14:2
 
@@ -130,7 +130,7 @@ This is the law for anyone who has a defiling skin disease and cannot afford the
 
 ## Leviticus 14:33
 
-The Lord also spoke to Moses and Aaron, saying:
+The Lord also addressed Moses and Aaron, saying:
 
 ## Leviticus 14:34
 

@@ -121,7 +121,7 @@ Then one of the people said, “Your father strictly charged the people with an 
 
 ## 1 Samuel 14:29
 
-Then Jonathan said, “My father has troubled the land. See how my eyes have brightened because I tasted a little of this honey.
+Then Jonathan remarked, “My father has brought trouble to the land. See how my eyes have brightened because I tasted a little of this honey.
 
 ## 1 Samuel 14:30
 
@@ -170,7 +170,7 @@ For as the Lord lives, who saves Israel, even if it is Jonathan my son, he shall
 
 ## 1 Samuel 14:40
 
-Then he said to all Israel, “You shall be on one side, and I and Jonathan my son will be on the other side.” And the people said to Saul, “Do what seems good to you.”
+Then he addressed all Israel, “You shall be on one side, and I and Jonathan my son will be on the other side.” And the people said to Saul, “Do what seems good to you.”
 
 ## 1 Samuel 14:41
 
@@ -209,11 +209,11 @@ He acted valiantly and struck the Amalekites, and delivered Israel from the hand
 
 ## 1 Samuel 14:49
 
-Now the sons of Saul were Jonathan, Ishvi, and Malchi-shua. And the names of his two daughters were these: the name of the firstborn was Merab, and the name of the younger, Michal.
+Saul's sons were Jonathan, Ishvi, and Malchi-shua. His two daughters were named Merab, the firstborn, and Michal, the younger.
 
 ## 1 Samuel 14:50
 
-And the name of Saul’s wife was Ahinoam the daughter of Ahimaaz. And the name of the commander of his army was Abner the son of Ner, Saul’s uncle.
+Ahinoam, daughter of Ahimaaz, was Saul’s wife. The commander of his army was Abner, son of Ner, who was Saul’s uncle.
 
 ## 1 Samuel 14:51
 

@@ -63,7 +63,7 @@ and they were attached to the house with timbers of cedar.
 
 ## 1 Kings 6:11
 
-Now the word of the Lord came to Solomon, saying,
+Then the Lord came to Solomon, saying,
 
 ## 1 Kings 6:12
 

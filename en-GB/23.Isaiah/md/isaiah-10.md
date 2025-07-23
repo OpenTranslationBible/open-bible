@@ -126,7 +126,7 @@ Cry out, daughter of Gallim! Listen, Laishah! Poor Anathoth!
 
 ## Isaiah 10:31
 
-Madmenah has fled; the inhabitants of Gebim have sought refuge.
+Madmenah has taken flight; the people of Gebim have found refuge.
 
 ## Isaiah 10:32
 

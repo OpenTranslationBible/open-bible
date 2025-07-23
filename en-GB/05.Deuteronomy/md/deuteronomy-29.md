@@ -22,7 +22,7 @@ You have not eaten bread nor drunk wine or other fermented drink, so that you mi
 When you arrived at this place, Sihon king of Heshbon and Og king of Bashan came out to fight against us, but we defeated them.
 
 ## Deuteronomy 29:8
-We took their land and gave it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.
+We took possession of their land and assigned it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.
 
 ## Deuteronomy 29:9
 Therefore, observe the terms of this covenant and carry them out, so that you may prosper in everything you do.

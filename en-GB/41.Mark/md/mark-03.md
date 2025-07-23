@@ -62,7 +62,7 @@ He appointed twelve, so that they might be with Him and that He might send them 
 
 ## Mark 3:15
 
-and to have authority to cast out demons.
+and to have full authority to drive out demons.
 
 ## Mark 3:16
 
@@ -106,7 +106,7 @@ If a kingdom is divided against itself, that kingdom cannot stand.
 
 ## Mark 3:25
 
-If a house is divided against itself, that house cannot stand.
+If a household is divided against itself, that house cannot last.
 
 ## Mark 3:26
 

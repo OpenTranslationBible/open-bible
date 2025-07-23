@@ -30,7 +30,7 @@ For their possessions were too numerous for them to live together; the land wher
 
 ## Genesis 36:8
 
-So Esau settled in the hill country of Seir; Esau is Edom.
+Thus, Esau made his home in the hill country of Seir; Esau is Edom.
 
 ## Genesis 36:9
 
@@ -38,7 +38,7 @@ These are the records of the lineage of Esau, the father of the Edomites, in the
 
 ## Genesis 36:10
 
-These are the names of Esau’s sons: Eliphaz, the son of Esau’s wife Adah, and Reuel, the son of Esau’s wife Basemath.
+Here are the names of Esau’s sons: Eliphaz, born to Esau’s wife Adah; and Reuel, born to Esau’s wife Basemath.
 
 ## Genesis 36:11
 
@@ -126,7 +126,7 @@ These were the kings who reigned in the land of Edom before any king reigned ove
 
 ## Genesis 36:32
 
-Bela, the son of Beor, reigned in Edom, and the name of his city was Dinhabah.
+Bela, son of Beor, ruled in Edom, and the name of his city was Dinhabah.
 
 ## Genesis 36:33
 

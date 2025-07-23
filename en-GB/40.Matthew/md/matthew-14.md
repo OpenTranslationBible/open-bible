@@ -16,7 +16,7 @@ For Herod had taken John into custody, bound him, and placed him in prison due t
 
 ## Matthew 14:4
 
-For John had been saying to him, “It is not lawful for you to have her.”
+For John had been telling him, “It is against the law for you to have her.”
 
 ## Matthew 14:5
 

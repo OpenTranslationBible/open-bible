@@ -50,7 +50,7 @@ Therefore, brothers and sisters, we have an obligation, but it is not to the fle
 
 ## Romans 8:13
 
-for if you live according to the flesh, you will die; but if by the Spirit you put to death the deeds of the body, you will live.
+for if you live by the flesh, you will face death; but if by the Spirit you put to death the deeds of the flesh, you will have life.
 
 ## Romans 8:14
 
@@ -62,7 +62,7 @@ For you did not receive a spirit of slavery leading to fear again, but you recei
 
 ## Romans 8:16
 
-The Spirit Himself testifies with our spirit that we are God's children.
+The Spirit Himself bears witness with our spirit that we are God's children.
 
 ## Romans 8:17
 

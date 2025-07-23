@@ -75,7 +75,7 @@ Is it not wheat harvest today? I will call upon the Lord, that He may send thund
 
 ## 1 Samuel 12:18
 
-So Samuel called upon the Lord, and the Lord sent thunder and rain that day; and all the people greatly feared the Lord and Samuel.
+And Samuel called upon the Lord, and the Lord sent thunder and rain that day; so all the people held the Lord and Samuel in great reverence.
 
 ---
 
@@ -105,4 +105,4 @@ Fear the Lord and serve Him faithfully with all your heart; for consider what gr
 
 ## 1 Samuel 12:25
 
-But if you still do wickedly, you shall be swept away, both you and your king.
+But if you continue in wickedness, both you and your king will face destruction.

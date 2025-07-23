@@ -94,7 +94,7 @@ Once he had sent them across the stream, he also sent over all his belongings.
 
 ## Genesis 32:24
 
-Jacob was left alone, and a man wrestled with him until daybreak.
+Jacob found himself alone, and a man engaged in a struggle with him until daybreak.
 
 ## Genesis 32:25
 

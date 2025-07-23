@@ -106,7 +106,7 @@ extinguished the fury of flames, escaped the edge of the sword, were made strong
 Women received back their dead through resurrection. Some were tortured, choosing not to accept release, so that they might attain a better resurrection.
 
 ## Hebrews 11:36
-Others suffered mocking and flogging, and even chains and imprisonment.
+Others endured ridicule and beatings, and even chains and imprisonment.
 
 ## Hebrews 11:37
 They were stoned, they were sawn in two, they were killed with the sword. They went about in sheepskins and goatskins, destitute, afflicted, mistreated—

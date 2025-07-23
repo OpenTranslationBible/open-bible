@@ -46,7 +46,7 @@ Present his sons and clothe them in tunics.
 Anoint them as you anointed their father, so they may serve as priests to Me. Their anointing shall be for a perpetual priesthood throughout their generations.”
 
 ## Exodus 40:16
-Moses did everything just as the Lord had commanded him.
+Moses carried out all the tasks exactly as the Lord had instructed him.
 
 ## Exodus 40:17
 In the first month of the second year, on the first day, the tabernacle was set up.

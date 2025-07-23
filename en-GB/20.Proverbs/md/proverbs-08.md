@@ -62,7 +62,7 @@ Sound advice is mine and true wisdom; I am understanding, strength is mine.
 
 ## Proverbs 8:15
 
-By me kings reign, and rulers decree what is just;
+Through me, kings exercise their rule, and rulers make their fair decrees;
 
 ## Proverbs 8:16
 

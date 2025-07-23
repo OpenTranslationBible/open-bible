@@ -28,7 +28,7 @@ and they worshipped and gave praise to the Lord, saying,
 
 ## 2 Chronicles 7:4
 
-Then the king and all the people offered sacrifice before the Lord.
+Then the king and all the people presented offerings and sacrifices before the Lord.
 
 ---
 

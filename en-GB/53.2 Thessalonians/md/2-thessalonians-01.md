@@ -7,7 +7,7 @@ To the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
 ## 2 Thessalonians 1:2
 
-Grace to you and peace from God the Father and the Lord Jesus Christ.
+May you receive grace and peace from God the Father and the Lord Jesus Christ.
 
 ## 2 Thessalonians 1:3
 

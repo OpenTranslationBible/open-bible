@@ -104,7 +104,7 @@ John responded using the words of Isaiah the prophet, “I am the voice of one c
 
 ## John 1:24
 
-Now the messengers had been sent from the Pharisees.
+Now messengers had been sent from the Pharisees to enquire of John.
 
 ## John 1:25
 

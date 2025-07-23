@@ -43,7 +43,7 @@ Where is the king of Hamath, the king of Arpad, or the kings of the city of Seph
 Hezekiah took the letter from the messengers and read it. Then he went up to the house of the Lord and spread it out before the Lord.
 
 ## Isaiah 37:15
-And Hezekiah prayed to the Lord, saying,
+And Hezekiah offered his prayer to the Lord:
 
 ## Isaiah 37:16
 “O Lord of hosts, God of Israel, who is enthroned above the cherubim, you alone are God over all the kingdoms of the earth. You have made heaven and earth.
@@ -52,7 +52,7 @@ And Hezekiah prayed to the Lord, saying,
 Incline your ear, O Lord, and hear; open your eyes, O Lord, and see; and listen to all the words Sennacherib has sent to mock the living God.
 
 ## Isaiah 37:18
-Truly, O Lord, the kings of Assyria have laid waste all the nations and their lands,
+Indeed, O Lord, the kings of Assyria have devastated all the nations and their lands,
 
 ## Isaiah 37:19
 and have cast their gods into the fire, for they were no gods, but the work of human hands, wood and stone. Thus they were destroyed.

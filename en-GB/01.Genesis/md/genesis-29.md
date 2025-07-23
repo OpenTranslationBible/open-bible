@@ -42,7 +42,7 @@ When Jacob saw Rachel, the daughter of his uncle Laban, and Laban’s sheep, he 
 
 ## Genesis 29:11
 
-Then Jacob kissed Rachel and wept aloud.
+Jacob then greeted Rachel with a kiss and wept openly.
 
 ## Genesis 29:12
 

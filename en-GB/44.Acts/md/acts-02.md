@@ -66,7 +66,7 @@ These people are not drunk, as you suppose, for it is only the third hour of the
 
 ## Acts 2:16
 
-No, this is what was spoken through the prophet Joel:
+Instead, this is what was foretold through the prophet Joel:
 
 ## Acts 2:17
 

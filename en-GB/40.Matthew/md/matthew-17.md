@@ -66,7 +66,7 @@ When they reached the crowd, a man approached Jesus, kneeling before Him.
 
 ## Matthew 17:16
 
-I brought him to your disciples, but they could not heal him.”
+I brought him to your disciples, but they were unable to heal him.”
 
 ## Matthew 17:17
 

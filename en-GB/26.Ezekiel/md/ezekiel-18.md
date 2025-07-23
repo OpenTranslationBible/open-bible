@@ -46,7 +46,7 @@ though he himself did none of these things—who even eats at the mountain shrin
 
 ## Ezekiel 18:12
 
-oppresses the poor and needy, commits robbery, does not restore the pledge, lifts up his eyes to the idols, commits abomination,
+he oppresses those in need, commits robbery, fails to return what was pledged, looks to idols, engages in detestable acts,
 
 ## Ezekiel 18:13
 

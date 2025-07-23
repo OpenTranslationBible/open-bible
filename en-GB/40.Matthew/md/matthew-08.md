@@ -28,7 +28,7 @@ Upon entering Capernaum, a centurion approached Him, seeking assistance.
 
 ## Matthew 8:7
 
-Jesus said to him, “I will come and heal him.”
+Jesus responded to him, “I will come to him and heal him.”
 
 ## Matthew 8:8
 
@@ -95,7 +95,7 @@ Another disciple said to Him, “Lord, allow me first to go and bury my father.�
 
 ## Matthew 8:22
 
-But Jesus said to him, “Follow Me, and let the dead bury their own dead.”
+But Jesus replied to him, “Follow Me, and let the dead take care of their own dead.”
 
 ---
 

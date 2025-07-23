@@ -134,7 +134,7 @@ Those who were sent went and found it just as he had described to them.
 
 ## Luke 19:33
 
-As they were untying the colt, its owners asked them, “Why are you untying the colt?”
+As they were untying the colt, the owners questioned them, “Why are you untying the colt?”
 
 ## Luke 19:34
 
@@ -180,7 +180,7 @@ The days will come upon you when your enemies will build a barricade against you
 
 ## Luke 19:44
 
-They will bring you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not Recognise the time of God’s visitation to you.”
+They will bring you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognise the time of God’s visitation to you.”
 
 ---
 

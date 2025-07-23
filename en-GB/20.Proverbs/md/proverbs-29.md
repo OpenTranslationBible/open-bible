@@ -50,7 +50,7 @@ If a ruler listens to falsehood, all his officials become corrupt.
 
 ## Proverbs 29:13
 
-The poor and the oppressor have this in common: the Lord gives light to the eyes of both.
+The poor and the tyrant share this: the Lord lights up the eyes of both.
 
 ## Proverbs 29:14
 

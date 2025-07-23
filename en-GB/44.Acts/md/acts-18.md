@@ -86,7 +86,7 @@ They arrived at Ephesus, where he left Priscilla and Aquila. He himself entered 
 
 ## Acts 18:20
 
-When they asked him to stay longer, he declined,
+Although they requested him to remain longer, he chose not to stay,
 
 ## Acts 18:21
 

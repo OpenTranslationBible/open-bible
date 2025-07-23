@@ -26,7 +26,7 @@ Therefore, let us not be like others, who are asleep, but let us remain alert an
 
 ## 1 Thessalonians 5:7
 
-For those who sleep, sleep at night, and those who are drunk, get drunk at night.
+For those who sleep, do so at night, and those who become drunk, do so at night.
 
 ## 1 Thessalonians 5:8
 

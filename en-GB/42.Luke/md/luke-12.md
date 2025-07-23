@@ -38,7 +38,7 @@ Indeed, even the hairs of your head are all numbered. Do not fear; you are worth
 
 ## Luke 12:9
 
-But whoever denies Me before others will be denied before the angels of God.
+But he who disowns Me before others will be disowned before the angels of God.
 
 ## Luke 12:10
 
@@ -56,7 +56,7 @@ for the Holy Spirit will teach you at that moment what you ought to say.”
 
 ## Luke 12:13
 
-Someone in the crowd said to Him, “Teacher, tell my brother to divide the inheritance with me.”
+A person in the crowd said to Him, “Teacher, instruct my brother to share the inheritance with me.”
 
 ## Luke 12:14
 
@@ -244,7 +244,7 @@ You hypocrites! You know how to interpret the appearance of the earth and the sk
 
 ## Luke 12:57
 
-“And why do you not judge for yourselves what is right?
+“And why do you not discern for yourselves what is right?
 
 ## Luke 12:58
 

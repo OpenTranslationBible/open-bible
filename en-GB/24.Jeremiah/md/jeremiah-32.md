@@ -76,7 +76,7 @@ See how the siege ramps are built up to take the city. Because of the sword, fam
 Yet You have said to me, Sovereign Lord, ‘Buy the field with silver and have the transaction witnessed,’ although the city has been handed over to the Babylonians.”
 
 ## Jeremiah 32:26
-Then the word of the Lord came to Jeremiah, saying,
+Afterwards, the word of the Lord came to Jeremiah, saying,
 
 ## Jeremiah 32:27
 “I am the Lord, the God of all mankind. Is anything too difficult for Me?

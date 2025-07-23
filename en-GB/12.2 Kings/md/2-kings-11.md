@@ -21,7 +21,7 @@ while Athaliah was reigning over the land.
 
 ## 2 Kings 11:4
 
-Now in the seventh year Jehoiada sent and brought the captains of hundreds of the Carites and of the guard,  
+In the seventh year, Jehoiada sent and brought the captains of hundreds of the Carites and of the guard,  
 and brought them into the house of the Lord.  
 Then he made a covenant with them, had them take an oath in the house of the Lord,  
 and showed them the king’s son.
@@ -129,4 +129,4 @@ for they had put Athaliah to death with the sword at the king’s house.
 
 ## 2 Kings 11:21
 
-Jehoash was seven years old when he became king.
+Jehoash was only seven years old when he was crowned king.

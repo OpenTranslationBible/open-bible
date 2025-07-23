@@ -124,7 +124,7 @@ He hanged the king of Ai on a tree until evening, and at sunset Joshua commanded
 
 ## Joshua 8:30
 
-Then Joshua built an altar to the Lord, the God of Israel, on Mount Ebal,
+Joshua then constructed an altar to the Lord, an alter to the God of Israel, built on Mount Ebal,
 
 ## Joshua 8:31
 

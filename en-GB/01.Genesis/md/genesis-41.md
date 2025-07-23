@@ -66,7 +66,7 @@ Joseph replied to Pharaoh, “It is not in me; God will give Pharaoh an answer o
 
 ## Genesis 41:17
 
-Then Pharaoh said to Joseph, “In my dream, I was standing on the bank of the Nile,
+Pharaoh recounted to Joseph, “In my dream, I was stood on the bank of the Nile,
 
 ## Genesis 41:18
 

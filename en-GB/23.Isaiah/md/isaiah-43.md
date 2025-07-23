@@ -19,7 +19,7 @@ Do not be afraid, for I am with you; I will bring your offspring from the east a
 I will command the north to release them, and the south not to hold them back. Gather my sons from distant lands and my daughters from the farthest corners of the earth—
 
 ## Isaiah 43:7
-everyone who is called by my name, whom I created for my glory, whom I formed and made.”
+all those who are called by my name, whom I created for my glory, whom I formed and made.”
 
 ## Isaiah 43:8
 Bring out the people who are blind, though they have eyes, and those who are deaf, though they have ears.

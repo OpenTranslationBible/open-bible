@@ -2,7 +2,7 @@
 
 ## Leviticus 19:1
 
-The Lord spoke to Moses, saying:
+The Lord then spoke to Moses, saying,
 
 ## Leviticus 19:2
 

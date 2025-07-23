@@ -42,7 +42,7 @@ Nor are you to be called leaders, for you have one Leader, the Christ.
 
 ## Matthew 23:11
 
-The greatest among you will be your servant.
+The one who is greatest among you shall be your servant.
 
 ## Matthew 23:12
 
@@ -98,7 +98,7 @@ And anyone who swears by heaven swears by the throne of God and by him who sits 
 
 ## Matthew 23:24
 
-You blind guides! You strain out a gnat but swallow a camel.
+You blind guides! You filter out a gnat while you swallow a camel.
 
 ## Matthew 23:25
 
@@ -160,4 +160,4 @@ Behold, your house is left to you desolate.
 
 ## Matthew 23:39
 
-For I tell you, you will not see me again until you say, ‘Blessed is he who comes in the name of the Lord.’”
+For I tell you, you will only see me again when you proclaim, ‘Blessed is he who comes in the name of the Lord.’”

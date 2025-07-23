@@ -22,11 +22,11 @@ But as for you, exercise self-control in all things, endure afflictions, do the 
 
 ## 2 Timothy 4:6
 
-For I am already being poured out as a drink offering, and the time of my departure has come.
+For I am already being offered, and the time for my departure is near.
 
 ## 2 Timothy 4:7
 
-I have fought the good fight, I have finished the course, I have kept the faith;
+I have striven to fight the good fight, I have completed the race, I have maintained the faith;
 
 ## 2 Timothy 4:8
 

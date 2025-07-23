@@ -10,7 +10,7 @@ The chief priests and the scribes were seeking a way to put Jesus to death, for 
 
 ## Luke 22:3
 
-Then Satan entered into Judas, called Iscariot, who was one of the Twelve.
+Then Satan influenced Judas, called Iscariot, who was one of the Twelve.
 
 ## Luke 22:4
 
@@ -62,7 +62,7 @@ When the hour came, He reclined at the table, and the apostles were with Him.
 
 ## Luke 22:15
 
-He said to them, “I have eagerly desired to eat this Passover with you before I suffer.
+He said to them, “I have longed to eat this Passover with you before I suffer.
 
 ## Luke 22:16
 
@@ -118,7 +118,7 @@ For who is greater, the one who reclines at the table or the one who serves? Is 
 
 ## Luke 22:28
 
-You are those who have stood by me in my trials.
+You are the ones who have remained with me in my trials.
 
 ## Luke 22:29
 
@@ -264,7 +264,7 @@ The Lord turned and looked straight at Peter. Then Peter remembered the word the
 
 ## Luke 22:62
 
-And he went outside and wept bitterly.
+And he left to go outside, weeping bitterly.
 
 ## Luke 22:63
 
@@ -290,7 +290,7 @@ At daybreak, the council of the elders of the people, both the chief priests and
 
 ## Luke 22:68
 
-and if I question you, you will not answer.
+and were I to inquire anything of you, you would not respond.
 
 ## Luke 22:69
 

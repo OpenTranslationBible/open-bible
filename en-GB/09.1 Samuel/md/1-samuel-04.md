@@ -49,7 +49,7 @@ So the Philistines fought, and Israel was defeated. Every man fled to his tent. 
 
 ## 1 Samuel 4:11
 
-The ark of God was captured, and Eli’s two sons, Hophni and Phinehas, died.
+The ark of God fell into enemy hands, and Eli’s two sons, Hophni and Phinehas, lost their lives.
 
 ---
 
@@ -78,7 +78,7 @@ Eli asked, “What happened, my son?”
 
 ## 1 Samuel 4:17
 
-The messenger replied, “Israel has fled before the Philistines, and there has been a great slaughter among the people. Your two sons, Hophni and Phinehas, are dead, and the ark of God has been captured.”
+The messenger replied, “Israel has fled before the Philistines, and there has been a great slaughter among the people. Your two sons, Hophni and Phinehas, are dead, and the ark of God has been taken.”
 
 ## 1 Samuel 4:18
 
@@ -88,7 +88,7 @@ When he mentioned the ark of God, Eli fell backward off his seat by the gate. Hi
 
 ## 1 Samuel 4:19
 
-Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and near the time of delivery. When she heard the news that the ark of God had been captured, and that her father-in-law and her husband were dead, she went into labour and gave birth, overcome by her pains.
+Now Eli’s daughter-in-law, the wife of Phinehas, was pregnant and near the time of delivery. When she heard the news that the ark of God had been taken, and that her father-in-law and her husband were dead, she went into labour and gave birth, overcome by her pains.
 
 ## 1 Samuel 4:20
 
@@ -96,7 +96,7 @@ As she was dying, the women standing by her said, “Don’t be afraid, you have
 
 ## 1 Samuel 4:21
 
-She named the boy Ichabod, saying, “The glory has departed from Israel,” because the ark of God had been captured and because of the deaths of her father-in-law and her husband.
+She named the boy Ichabod, saying, “The glory has departed from Israel,” because the ark of God had been taken and because of the deaths of her father-in-law and her husband.
 
 ## 1 Samuel 4:22
 

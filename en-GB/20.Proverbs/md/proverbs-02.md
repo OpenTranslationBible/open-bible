@@ -6,7 +6,7 @@ My son, if you accept my words and treasure my commandments within you,
 
 ## Proverbs 2:2
 
-Making your ear attentive to wisdom and inclining your heart to understanding—
+So listen closely to wisdom and open your heart to understanding—
 
 ## Proverbs 2:3
 
@@ -62,7 +62,7 @@ Who delight in doing wrong and rejoice in the perversity of evil,
 
 ## Proverbs 2:15
 
-Whose paths are crooked and who are devious in their ways.
+Whose ways are twisted and who are deceitful in their actions.
 
 ---
 

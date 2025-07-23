@@ -22,7 +22,7 @@ The angel said to me, “These words are trustworthy and true. The Lord, the God
 “Behold, I am coming soon! Blessed is the one who keeps the words of the prophecy of this book.”
 
 ## Revelation 22:8
-I, John, am the one who heard and saw these things. And when I heard and saw them, I fell down to worship at the feet of the angel who showed them to me.
+I, John, am the one who witnessed these things. And upon hearing and seeing them, I bowed down to worship at the feet of the angel who revealed them to me.
 
 ## Revelation 22:9
 But he said to me, “Do not do that! I am a fellow servant with you and your brothers the prophets, and with those who keep the words of this book. Worship God!”

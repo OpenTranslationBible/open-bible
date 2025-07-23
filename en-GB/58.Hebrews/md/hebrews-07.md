@@ -38,7 +38,7 @@ So to speak, through Abraham even Levi, who receives tithes, has paid tithes,
 
 ## Hebrews 7:10
 
-for he was still in the loins of his ancestor when Melchizedek met him.
+for he was not yet born, not yet produced of his ancestors when Melchizedek met him.
 
 ## Hebrews 7:11
 

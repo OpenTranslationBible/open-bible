@@ -40,7 +40,7 @@ Bakbukiah and Unni, their brothers, stood opposite them in their service divisio
 
 ## Nehemiah 12:10
 
-Jeshua was the father of Joiakim, Joiakim the father of Eliashib, Eliashib the father of Joiada,
+Jeshua became the father of Joiakim, Joiakim became the father of Eliashib, and Eliashib became the father of Joiada,
 
 ## Nehemiah 12:11
 

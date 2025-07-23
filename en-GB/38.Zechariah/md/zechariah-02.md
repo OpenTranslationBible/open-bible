@@ -34,7 +34,7 @@ I will surely wave my hand over them so that their slaves will plunder them. The
 “Many nations will join themselves to the Lord on that day and will become my people. I will dwell among you, and you will know that the Lord of Hosts has sent me to you.
 
 ## Zechariah 2:12
-The Lord will inherit Judah as His portion in the holy land and will again choose Jerusalem.
+The Lord will take possession of Judah as His share in the holy land and will once more choose Jerusalem.
 
 ## Zechariah 2:13
 Be silent before the Lord, all mankind, for He has roused Himself from His holy dwelling.”

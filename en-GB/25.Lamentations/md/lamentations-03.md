@@ -240,7 +240,7 @@ Lord, You have seen the wrong done to me. Support my cause!
 
 ## Lamentations 3:60
 
-You have seen all their vengeance, all their schemes against me.
+You have observed all their vengeance, all their schemes against me.
 
 ## Lamentations 3:61
 

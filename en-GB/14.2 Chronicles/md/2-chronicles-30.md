@@ -113,7 +113,7 @@ though not according to the purification rules of the sanctuary.”
 
 ## 2 Chronicles 30:20
 
-So the Lord heard Hezekiah and healed the people.
+So the Lord listened to Hezekiah and restored the people.
 
 ---
 

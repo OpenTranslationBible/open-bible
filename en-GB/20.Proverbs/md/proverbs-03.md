@@ -26,7 +26,7 @@ In all your ways, acknowledge Him, and He will make your paths straight.
 
 ## Proverbs 3:7
 
-Do not be wise in your own eyes; fear the Lord and turn away from evil.
+Do not consider yourself wise; fear the Lord and turn from from evil.
 
 ## Proverbs 3:8
 
@@ -64,7 +64,7 @@ for her profit is better than silver, and her yield better than gold.
 
 ## Proverbs 3:15
 
-She is more precious than jewels, and nothing you desire can compare with her.
+She is more valuable than jewels, and nothing you desire can equal her.
 
 ## Proverbs 3:16
 

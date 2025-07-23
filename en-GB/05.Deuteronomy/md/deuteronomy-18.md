@@ -37,7 +37,7 @@ or performs enchantments, or who is a medium or spiritist, or who seeks guidance
 For whoever does these things is detestable to the Lord; and because of these detestable practices, the Lord your God will drive out those nations before you.
 
 ## Deuteronomy 18:13
-You must be blameless before the Lord your God.
+You must conduct yourselves with complete integrity before the Lord your God.
 
 ## Deuteronomy 18:14
 The nations you will dispossess listen to soothsayers and diviners, but as for you, the Lord your God has not permitted you to do so.

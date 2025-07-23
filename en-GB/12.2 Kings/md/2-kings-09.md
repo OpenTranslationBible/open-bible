@@ -18,7 +18,7 @@ Then open the door and flee, and do not delay.”
 
 ## 2 Kings 9:4
 
-So the young man, the servant of the prophet, went to Ramoth-gilead.
+The young man, who served the prophet, made his way to Ramoth-gilead.
 
 ## 2 Kings 9:5
 

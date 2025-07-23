@@ -85,7 +85,7 @@ But Peter and John answered them, “Judge for yourselves whether it is right in
 
 ## Acts 4:20
 
-For we cannot stop speaking about what we have seen and heard.”
+For we are unable to stop telling everyone about what we have seen and heard.”
 
 ## Acts 4:21
 

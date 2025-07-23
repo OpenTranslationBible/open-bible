@@ -70,7 +70,7 @@ She evaluates a field and purchases it; with her earnings she plants a vineyard.
 
 ## Proverbs 31:17
 
-She girds herself with strength and makes her arms strong.
+She prepares herself with strength and fortifies her arms.
 
 ## Proverbs 31:18
 
@@ -106,7 +106,7 @@ Strength and dignity are her clothing, and she can laugh at the days to come.
 
 ## Proverbs 31:26
 
-She opens her mouth with wisdom, and the teaching of kindness is on her tongue.
+Her words are filled with wisdom, and she teaches kindness: it is ever present on her tongue.
 
 ## Proverbs 31:27
 

@@ -34,7 +34,7 @@ Then they heard the Lord God moving in the garden during the cool of the day, an
 
 ## Genesis 3:9
 
-But the Lord God called to the man, and said to him, “Where are you?”
+The Lord God called out to the man, asking, “Where are you?”
 
 ## Genesis 3:10
 

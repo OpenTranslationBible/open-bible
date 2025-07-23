@@ -168,7 +168,7 @@ At that time Mary set out and hurried to a town in the hill country of Judea,
 
 ## Luke 1:40
 
-where she entered the house of Zechariah and greeted Elizabeth.
+where she entered the home of Zechariah and greeted Elizabeth.
 
 ## Luke 1:41
 
@@ -236,7 +236,7 @@ to Abraham and his descendants forever, just as he promised our forefathers.”
 
 ## Luke 1:56
 
-Mary stayed with Elizabeth for about three months and then returned home.
+Mary remained with Elizabeth for about three months and then returned to her own home.
 
 ---
 
@@ -284,7 +284,7 @@ Everyone who heard this wondered about it, asking, “What then is this child de
 
 ## Luke 1:67
 
-His father Zechariah was filled with the Holy Spirit and prophesied:
+Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:68
 

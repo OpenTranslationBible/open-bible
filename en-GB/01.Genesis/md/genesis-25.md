@@ -122,7 +122,7 @@ He said to Jacob, “Please let me have some of that red stew, for I am exhauste
 
 ## Genesis 25:31
 
-Jacob said, “First sell me your birthright.”
+Jacob replied, “Sell me your birthright first.”
 
 ## Genesis 25:32
 

@@ -72,7 +72,7 @@ You will be betrayed even by parents, siblings, relatives, and friends, and some
 
 ## Luke 21:17
 
-You will be hated by all because of my name.
+You will be despised by everyone because of my name.
 
 ## Luke 21:18
 

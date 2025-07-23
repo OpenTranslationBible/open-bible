@@ -40,4 +40,4 @@ And I asked again, “What are these two olive branches beside the two golden pi
 He replied, “Do you not know what these are?” I said, “No, my lord.”
 
 ## Zechariah 4:14
-Then he said, “These are the two anointed ones who stand by the Lord of the whole earth.”
+Then he explained, “These are the two anointed ones who stand in the presence of the Lord of all the earth.”

@@ -62,7 +62,7 @@ They took palm branches and went out to meet him, shouting,
 
 ## John 12:14
 
-Jesus found a young donkey and sat on it, as it is written:
+Jesus found a young donkey and sat upon it, fulfilling what was written:
 
 ## John 12:15
 
@@ -140,7 +140,7 @@ Now is the time for judgment on this world; now the ruler of this world will be 
 
 ## John 12:32
 
-And I, when I am lifted up from the earth, will draw all people to myself.”
+And when I am lifted up from the earth, I will draw all people to me.”
 
 ## John 12:33
 

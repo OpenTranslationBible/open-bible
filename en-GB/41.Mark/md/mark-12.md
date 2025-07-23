@@ -38,7 +38,7 @@ What then will the owner of the vineyard do? He will come and put the tenants to
 
 ## Mark 12:10
 
-Have you not read this Scripture: ‘The stone that the builders rejected has become the cornerstone;
+Have you not read this passage of Scripture: ‘The stone that the builders rejected has become the cornerstone;
 
 ## Mark 12:11
 

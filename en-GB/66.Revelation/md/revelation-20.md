@@ -4,7 +4,7 @@
 I saw an angel descending from heaven, holding the key to the Abyss and a great chain in his hand.
 
 ## Revelation 20:2
-He seized the dragon, that ancient serpent, who is the devil and Satan, and bound him for a thousand years.
+He captured the dragon, that ancient serpent, known as the devil and Satan, and restrained him for a thousand years.
 
 ## Revelation 20:3
 He cast him into the Abyss, shut it, and sealed it over him, to prevent him from deceiving the nations any longer until the thousand years were fulfilled. After this, he must be released for a short period.

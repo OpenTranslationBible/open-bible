@@ -28,7 +28,7 @@ If we have shared in Christ's death, we believe that we will also share in his l
 Knowing that Christ, having been raised from the dead, is never to die again; death no longer has dominion over him.
 
 ## Romans 6:10
-The death he died, he died to sin once for all; but the life he lives, he lives to God.
+He died to sin once for all; but now he lives, and he lives to God.
 
 ## Romans 6:11
 In the same way, consider yourselves dead to sin but alive to God in Christ Jesus.

@@ -104,7 +104,7 @@ an unloved woman who gets married, and a servant who displaces her mistress.
 
 ## Proverbs 30:24
 
-Four things on earth are small, yet they are exceedingly wise:
+Four small creatures on earth are exceedingly wise:
 
 ## Proverbs 30:25
 

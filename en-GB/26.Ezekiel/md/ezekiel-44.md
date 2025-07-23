@@ -61,7 +61,7 @@ When they go out into the outer court to the people, they shall take off the gar
 They must not shave their heads or let their hair grow long, but must keep their hair neatly trimmed.
 
 ## Ezekiel 44:21
-No priest shall drink wine when he enters the inner court.
+Priests are not to consume wine when they enter the inner court.
 
 ## Ezekiel 44:22
 They shall not marry a widow or a divorced woman; they may marry only virgins from the descendants of Israel or a widow who is the widow of a priest.

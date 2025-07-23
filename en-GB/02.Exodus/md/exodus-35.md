@@ -37,7 +37,7 @@ the tabernacle with its tent and its covering, its hooks, frames, crossbars, pos
 the ark with its poles, the atonement cover, and the curtain that shields it;
 
 ## Exodus 35:13
-the table with its poles and all its utensils, and the bread of the Presence;
+the table with its poles and all its utensils, along with the bread that is set before the Lord;
 
 ## Exodus 35:14
 the lampstand for the light with its accessories, lamps, and oil for the light;

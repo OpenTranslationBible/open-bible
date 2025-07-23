@@ -260,7 +260,7 @@ Kiriath-baal (that is, Kiriath-jearim) and Rabbah—two cities and their village
 
 ## Joshua 15:61
 
-In the wilderness: Beth-arabah, Middin, and Secacah,
+In the desert region: Beth-arabah, Middin, and Secacah,
 
 ## Joshua 15:62
 

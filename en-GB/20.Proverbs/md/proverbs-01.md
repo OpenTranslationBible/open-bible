@@ -26,7 +26,7 @@ To comprehend proverbs and parables, the sayings and enigmas of the wise.
 
 ## Proverbs 1:7
 
-The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction.
+For the fear of the Lord is the start of all knowledge; those who are foolish hate wisdom and instruction.
 
 ## Proverbs 1:8
 
@@ -136,7 +136,7 @@ When your dread comes like a storm and your calamity like a whirlwind, when dist
 
 ## Proverbs 1:28
 
-Then they will call upon me, but I will not answer; they will seek me diligently but will not find me,
+They will call upon me, but I will not respond; they will seek me earnestly but will not find me,
 
 ## Proverbs 1:29
 

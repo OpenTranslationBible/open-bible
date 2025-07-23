@@ -14,7 +14,7 @@ Commit your actions to the Lord, and your plans will be established.
 
 ## Proverbs 16:4
 
-The Lord has made everything for its purpose, even the wicked for the day of trouble.
+The Lord has made everything for its own purpose, even the wicked for the day of trouble.
 
 ## Proverbs 16:5
 

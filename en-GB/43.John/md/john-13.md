@@ -24,7 +24,7 @@ He then poured water into a basin and began to wash the disciples’ feet, dryin
 
 ## John 13:6
 
-He came to Simon Peter, who said to Him, “Lord, are You going to wash my feet?”
+He approached Simon Peter, who asked Him, “Lord, do You intend to wash my feet?”
 
 ## John 13:7
 
@@ -54,7 +54,7 @@ After washing their feet, He put on His garments and reclined at the table again
 
 ## John 13:13
 
-You call Me ‘Teacher’ and ‘Lord’, and you are right, for so I am.
+You refer to Me as ‘Teacher’ and ‘Lord’, and you are right, for that is what I am.
 
 ## John 13:14
 
@@ -136,7 +136,7 @@ After he had gone out, Jesus said, “Now the Son of Man is glorified, and God i
 
 ## John 13:32
 
-If God is honored in Him, God will also honor Him in Himself, and will do so immediately.
+If God is honoured in Him, God will also honour Him in Himself, and will do so immediately.
 
 ## John 13:33
 
@@ -148,7 +148,7 @@ A new commandment I give to you: Love one another. As I have loved you, so you m
 
 ## John 13:35
 
-By this, everyone will know that you are My disciples, if you have love for one another.”
+It is by this, therefore, that everyone will know you are My disciples: that you have love for one another.”
 
 ---
 

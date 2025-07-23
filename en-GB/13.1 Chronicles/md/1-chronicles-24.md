@@ -171,7 +171,7 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:23
 
-> The sons of Hebron: Jeriah the first, Amariah the second, Jahaziel the third, Jekameam the fourth.
+> The sons of Hebron were: Jeriah who was the first, Amariah who was the second, Jahaziel who was the third, and Jekameam who was the fourth.
 
 ---
 

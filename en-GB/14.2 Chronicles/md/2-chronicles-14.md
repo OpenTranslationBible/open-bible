@@ -8,7 +8,7 @@ Abijah passed away and was laid to rest in the city of David; his son Asa succee
 
 ## 2 Chronicles 14:2
 
-Asa did what was good and right in the sight of the Lord his God,
+Asa acted in a manner that was both pleasing and righteous before the Lord God,
 
 ---
 

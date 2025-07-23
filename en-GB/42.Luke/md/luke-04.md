@@ -10,7 +10,7 @@ where for forty days he was tempted by the devil. He ate nothing during those da
 
 ## Luke 4:3
 
-The devil said to him, “If you are the Son of God, command this stone to become bread.”
+The devil challenged him, “If you are the Son of God, tell this stone to turn into bread.”
 
 ## Luke 4:4
 

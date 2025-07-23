@@ -138,7 +138,7 @@ So in your prostitution, you are unlike others; no one runs after you for your f
 
 ## Ezekiel 16:35
 
-“‘Therefore, you prostitute, hear the word of the Lord!
+“‘Therefore, hear the word of the Lord, you who have acted as a prostitute!
 
 ## Ezekiel 16:36
 

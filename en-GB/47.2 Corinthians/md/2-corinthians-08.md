@@ -94,4 +94,4 @@ Regarding Titus, he is my partner and fellow worker among you; as for our brothe
 
 ## 2 Corinthians 8:24
 
-Therefore, openly before the churches, show them the proof of your love and of our reason for boasting about you.
+Therefore, before all the churches, demonstrate to them the evidence of your love and the reason for our pride in you.

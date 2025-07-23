@@ -24,7 +24,7 @@ and said, ‘For this reason a man shall leave his father and mother and be unit
 
 ## Matthew 19:6
 
-So they are no longer two, but one flesh. Therefore, what God has joined together, let no one separate.”
+Thus, they are no longer two, but now one flesh. Therefore, what God has joined, let no one divide.”
 
 ## Matthew 19:7
 
@@ -130,4 +130,4 @@ And everyone who has left houses or brothers or sisters or father or mother or c
 
 ## Matthew 19:30
 
-But many who are first will be last, and many who are last will be first.
+Many who are first will become last, and many who are last will become first.

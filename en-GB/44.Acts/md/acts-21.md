@@ -36,7 +36,7 @@ The next day we left and went to Caesarea, where we entered the house of Philip 
 
 ## Acts 21:9
 
-He had four unmarried daughters who prophesied.
+He had four daughters who were not married, and they prophesied.
 
 ## Acts 21:10
 

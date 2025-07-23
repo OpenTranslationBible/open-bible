@@ -55,13 +55,13 @@ So I took the cup from the Lord’s hand and gave it to all the nations to whom 
 Jerusalem and the towns of Judah, its kings and officials, to make them a ruin and an object of horror, scorn, and a curse, as it is today;
 
 ## Jeremiah 25:19
-Pharaoh king of Egypt, his servants, his officials, and all his people;
+The ruler of Egypt, along with his servants, officials, and all his people;
 
 ## Jeremiah 25:20
 and all the foreign people there; all the kings of the land of Uz; all the kings of the land of the Philistines (those of Ashkelon, Gaza, Ekron, and the remnant of Ashdod);
 
 ## Jeremiah 25:21
-Edom, Moab, and the sons of Ammon;
+The people of Edom, Moab, and the descendants of Ammon;
 
 ## Jeremiah 25:22
 the rulers of Tyre, the rulers of Sidon, and the leaders of the coastlands across the sea;

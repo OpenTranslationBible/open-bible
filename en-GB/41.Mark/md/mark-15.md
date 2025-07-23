@@ -108,7 +108,7 @@ It was about the third hour when they crucified Him.
 
 ## Mark 15:26
 
-The inscription of the charge against Him read: THE KING OF THE JEWS.
+Above Him was written the charge against Him: THE KING OF THE JEWS.
 
 ## Mark 15:27
 
@@ -196,4 +196,4 @@ Joseph bought a linen cloth, took Him down, wrapped Him in the linen, and laid H
 
 ## Mark 15:47
 
-Mary Magdalene and Mary the mother of Joses saw where He was laid.
+Mary Magdalene and Mary the mother of Joses observed the place where He was laid.

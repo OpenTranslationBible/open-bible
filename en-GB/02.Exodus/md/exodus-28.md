@@ -25,7 +25,7 @@ It shall have two shoulder pieces attached to its two corners so that it can be 
 The skilfully woven waistband shall be of the same workmanship, of gold, violet, purple, and scarlet yarn, and finely twisted linen.
 
 ## Exodus 28:9
-“Take two onyx stones and engrave on them the names of the sons of Israel,
+“Select two onyx stones and inscribe them with the names of the sons of Israel,
 
 ## Exodus 28:10
 six names on one stone, and the remaining six on the other, according to their birth order.

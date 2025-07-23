@@ -24,7 +24,7 @@ These twelve Jesus sent out with the following instructions: “Do not go on a r
 
 ## Matthew 10:6
 
-but rather go to the lost sheep of the house of Israel.
+but instead, go to the lost sheep of Israel.
 
 ## Matthew 10:7
 

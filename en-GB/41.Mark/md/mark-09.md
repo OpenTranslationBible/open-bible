@@ -162,7 +162,7 @@ He took a child, placed him among them, and taking him in his arms, he said to t
 
 ## Mark 9:38
 
-John said to him, “Teacher, we saw someone casting out demons in your name, and we tried to stop him because he was not following us.”
+John said to him, “Teacher, we saw someone driving out demons in your name, and we tried to stop him because he was not one of us.”
 
 ## Mark 9:39
 

@@ -4,7 +4,7 @@
 Jude, a servant of Jesus Christ and brother of James, to those who are called, cherished by God the Father, and preserved for Jesus Christ:
 
 ## Jude 1:2
-May mercy, peace, and love be yours in abundance.
+May you be richly blessed with mercy, peace, and love.
 
 ## Jude 1:3
 Beloved, while I was eager to write to you about our shared salvation, I felt it necessary to urge you to earnestly contend for the faith that was once for all entrusted to the saints.

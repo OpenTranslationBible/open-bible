@@ -80,7 +80,7 @@ The two women went on until they came to Bethlehem. When they arrived in Bethleh
 
 ## Ruth 1:20
 
-She said to them, “Do not call me Naomi; call me Mara, for the Almighty has dealt very bitterly with me.
+She replied to them, “Do not call me Naomi; instead call me Mara, for the Almighty has dealt with me very bitterly.
 
 ## Ruth 1:21
 

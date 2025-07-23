@@ -30,7 +30,7 @@ But we have this treasure in earthen vessels, so that the surpassing greatness o
 
 ## 2 Corinthians 4:8
 
-We are afflicted in every way, but not crushed; perplexed, but not driven to despair;
+We face troubles on every side, but are not crushed; we are sometimes confused, but do not despair;
 
 ## 2 Corinthians 4:9
 
@@ -46,7 +46,7 @@ For we who live are continually being delivered to death for Jesus' sake, so tha
 
 ## 2 Corinthians 4:12
 
-So death is at work in us, but life in you.
+Thus, while death is at work in us, life is at work in you.
 
 ## 2 Corinthians 4:13
 

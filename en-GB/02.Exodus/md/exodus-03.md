@@ -42,7 +42,7 @@ So go now: I am commissioning you to Pharaoh to lead My people, the Israelites, 
 
 ## Exodus 3:11
 
-But Moses said to God, “Who am I that I should go to Pharaoh and bring the Israelites out of Egypt?”
+But Moses asked God, “Who am I to approach Pharaoh and lead the Israelites out of Egypt?”
 
 ## Exodus 3:12
 

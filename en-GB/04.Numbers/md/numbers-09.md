@@ -42,7 +42,7 @@ Then the Lord spoke to Moses and said,
 
 ## Numbers 9:11
 
-In the second month on the fourteenth day at twilight, they shall keep it; they shall eat it with unleavened bread and bitter herbs.
+On the fourteenth day of the second month, at twilight, they shall observe it; they shall partake of it with unleavened bread and bitter herbs.
 
 ## Numbers 9:12
 

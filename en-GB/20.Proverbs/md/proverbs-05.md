@@ -74,7 +74,7 @@ Let them be yours alone, not to be shared with strangers.
 
 ## Proverbs 5:18
 
-Let your fountain be blessed, and rejoice in the wife of your youth.
+May your source of joy be blessed, and find delight in the wife of your youth.
 
 ## Proverbs 5:19
 

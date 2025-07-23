@@ -134,7 +134,7 @@ God exalted him to his own right hand as Prince and Saviour, to give repentance 
 
 ## Acts 5:32
 
-We are witnesses of these things, and so is the Holy Spirit, whom God has given to those who obey him.”
+We testify to these matters, as does the Holy Spirit, whom God has given to those who obey him.”
 
 ---
 

@@ -49,7 +49,7 @@ and the slopes of the wadis that extend to the site of Ar and lie along the bord
 From there they continued to Beer, the well where the Lord said to Moses, “Gather the people together and I will give them water.”
 
 ## Numbers 21:17
-Then Israel sang this song: “Spring up, O well! Sing to it!
+Then Israel sang joyfully: “Spring up, O well! Let us sing to it!
 
 ## Numbers 21:18
 The well, which the leaders dug, which the nobles of the people hollowed out with sceptres and staffs.” Then they went from the wilderness to Mattanah,
@@ -91,7 +91,7 @@ Woe to you, Moab! You are ruined, people of Chemosh! He has given his sons as fu
 But we have shot them down; Heshbon is destroyed as far as Dibon, and we have laid waste as far as Nophah, which reaches to Medeba.”
 
 ## Numbers 21:31
-Thus Israel settled in the land of the Amorites.
+So Israel dwelt in the land of the Amorites.
 
 ## Numbers 21:32
 Moses sent spies to Jazer, and they captured its surrounding settlements and drove out the Amorites who were there.

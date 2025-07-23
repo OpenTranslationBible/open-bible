@@ -140,7 +140,7 @@ Moreover, you have many workmen with you:
 
 ## 1 Chronicles 22:17
 
-David also commanded all the leaders of Israel to help his son Solomon, saying,
+David instructed all the leaders of Israel to assist his son Solomon, saying,
 
 ---
 

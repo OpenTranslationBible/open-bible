@@ -122,7 +122,7 @@ When he had gone indoors, the blind men came to him, and he asked them, “Do yo
 
 ## Matthew 9:29
 
-Then he touched their eyes and said, “According to your faith let it be done to you”;
+Then he touched their eyes and said, “According to your faith, let it be done for you”;
 
 ## Matthew 9:30
 

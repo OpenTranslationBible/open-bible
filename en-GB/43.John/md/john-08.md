@@ -62,7 +62,7 @@ Jesus answered, “Even if I testify about Myself, My testimony is valid, for I 
 
 ## John 8:15
 
-You judge according to the flesh; I judge no one.
+You judge by the flesh, according to human standards; I do not judge anyone.
 
 ## John 8:16
 
@@ -150,7 +150,7 @@ Now a slave does not have a permanent place in the family, but a son belongs to 
 
 ## John 8:36
 
-So if the Son sets you free, you will be free indeed.
+So if the Son liberates you, you will be truly free.
 
 ## John 8:37
 
@@ -188,7 +188,7 @@ You belong to your father, the devil, and you wish to carry out your father’s 
 
 ## John 8:45
 
-Yet because I tell the truth, you do not believe Me!
+Yet because I speak the truth, you do not believe Me!
 
 ## John 8:46
 

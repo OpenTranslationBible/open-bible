@@ -26,7 +26,7 @@ Lot went out to them at the doorway and shut the door behind him,
 
 ## Genesis 19:7
 
-and said, “I beg you, my brothers, do not act so wickedly.
+and said, “I plead with you, my brothers, do not act so wickedly.
 
 ## Genesis 19:8
 

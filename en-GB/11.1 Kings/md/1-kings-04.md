@@ -75,7 +75,7 @@ Ahimaaz, in Naphtali (he also took Basemath, the daughter of Solomon, as a wife)
 
 ## 1 Kings 4:16
 
-Baana the son of Hushai, in Asher and Bealoth;
+Baana, the son of Hushai - responsible for Asher and Bealoth;
 
 ## 1 Kings 4:17
 
@@ -95,7 +95,7 @@ and there was one deputy who was over the land.
 
 ## 1 Kings 4:20
 
-Judah and Israel were as numerous as the sand that is on the seashore in abundance;  
+Judah and Israel were as numerous as the sand on the seashore in abundance;  
 they were eating, drinking, and rejoicing.
 
 ## 1 Kings 4:21

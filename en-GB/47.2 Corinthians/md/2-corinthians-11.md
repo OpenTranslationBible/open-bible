@@ -38,7 +38,7 @@ And when I was with you and in need, I did not burden anyone; for when the broth
 
 ## 2 Corinthians 11:10
 
-As the truth of Christ is in me, this boasting of mine will not be stopped in the regions of Achaia.
+With the truth of Christ within me, I declare that this boasting of mine will not be silenced in the regions of Achaia.
 
 ## 2 Corinthians 11:11
 

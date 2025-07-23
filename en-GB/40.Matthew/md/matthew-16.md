@@ -66,7 +66,7 @@ He said to them, “But what about you? Who do you say I am?”
 
 ## Matthew 16:16
 
-Simon Peter answered, “You are the Christ, the Son of the living God.”
+Simon Peter replied, “You are the Messiah, the Son of the living God.”
 
 ## Matthew 16:17
 

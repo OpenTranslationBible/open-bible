@@ -54,7 +54,7 @@ Therefore, one who speaks in a tongue should pray that they may interpret.
 
 ## 1 Corinthians 14:14
 
-For if I pray in a tongue, my spirit prays, but my mind is unproductive.
+For if I pray in a tongue, my spirit prays, but my mind is not fruitful.
 
 ## 1 Corinthians 14:15
 
@@ -132,11 +132,11 @@ For you can all prophesy one by one, so that all may learn and all may be encour
 
 ## 1 Corinthians 14:32
 
-And the spirits of prophets are subject to prophets;
+And the spirits of prophets are under the control of prophets;
 
 ## 1 Corinthians 14:33
 
-For God is not a God of confusion, but of peace. As in all the churches of the saints,
+For God is a God of peace, not disorder. As in all the churches of the saints,
 
 ## 1 Corinthians 14:34
 

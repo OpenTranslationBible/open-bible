@@ -25,7 +25,7 @@ We have not listened to Your servants the prophets, who spoke in Your name to ou
 Open shame belongs to us, Lord, to our kings, our leaders, and our ancestors, because we have sinned against You.
 
 ## Daniel 9:9
-To the Lord our God belong mercy and forgiveness, for we have rebelled against Him;
+Mercy and forgiveness are with the Lord our God, for we have rebelled against Him;
 
 ## Daniel 9:10
 and we have not obeyed the voice of the Lord our God, to walk in His teachings set before us through His servants the prophets.

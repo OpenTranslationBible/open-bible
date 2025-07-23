@@ -50,7 +50,7 @@ not by works but by Him who calls, she was told, “The older will serve the you
 
 ## Romans 9:13
 
-As it is written: “Jacob I loved, but Esau I hated.”
+As it is expressed in the Scriptures: “Jacob I loved, but Esau I did not favour.”
 
 ## Romans 9:14
 

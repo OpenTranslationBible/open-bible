@@ -132,7 +132,7 @@ I and the Father are one.”
 
 ## John 10:31
 
-The Jews picked up stones again to stone him.
+At this, the crowd picked up stones again to stone him.
 
 ## John 10:32
 
@@ -156,11 +156,11 @@ what about the one whom the Father set apart and sent into the world? Why then d
 
 ## John 10:37
 
-If I do not do the works of my Father, do not believe me.
+If I cannot do the works of my Father, do not believe me.
 
 ## John 10:38
 
-But if I do them, even if you do not believe me, believe the works, so that you may know and understand that the Father is in me, and I in the Father.”
+But if I do do them, even if you don't believe me, believe in the works, so that you may know and understand that the Father is in me, and I in the Father.”
 
 ## John 10:39
 

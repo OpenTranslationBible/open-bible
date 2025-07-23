@@ -182,7 +182,7 @@ He commanded us to preach to the people and to testify that He is the one appoin
 
 ## Acts 10:43
 
-All the prophets testify about Him that everyone who believes in Him receives forgiveness of sins through His name.”
+All the prophets bear witness about Him: they testify so that all who have faith in Him receive forgiveness of sins through His name.”
 
 ---
 

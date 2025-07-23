@@ -61,7 +61,7 @@ So Rachel died and was buried on the way to Ephrath (that is, Bethlehem).
 Jacob set up a pillar over her grave; it is the pillar of Rachel’s grave to this day.
 
 ## Genesis 35:21
-Israel journeyed on and pitched his tent beyond the tower of Eder.
+Israel continued his journey and set up his tent beyond the tower of Eder.
 
 ## Genesis 35:22
 While Israel was residing in that land, Reuben went and lay with his father’s concubine Bilhah, and Israel heard of it. Now Jacob had twelve sons:

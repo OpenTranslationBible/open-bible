@@ -37,7 +37,7 @@ One day he went into the house to perform his duties, and none of the household 
 She caught him by his garment and said, “Lie with me!” But he left his garment in her hand and fled outside.
 
 ## Genesis 39:13
-When she saw that he had left his garment in her hand and had fled outside,
+Realising that he had left his garment in her hand and had fled outside,
 
 ## Genesis 39:14
 she called to her household servants and said, “Look, this Hebrew has been brought to us to mock us! He came in to lie with me, but I screamed.

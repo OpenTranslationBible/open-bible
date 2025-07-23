@@ -36,7 +36,7 @@ During the days of His earthly life, He offered up prayers and petitions with lo
 
 ## Hebrews 5:8
 
-Although He was a Son, He learned obedience through what He suffered.
+Even though He was the Son, He learned obedience through the experiences He endured.
 
 ## Hebrews 5:9
 

@@ -48,7 +48,7 @@ But the fig tree replied, 'Should I give up my sweetness and my good fruit to wa
 
 ## Judges 9:12
 
-Then the trees said to the vine, 'You, come and reign over us!'
+The trees then spoke to the vine, saying, 'You, come and reign over us!'
 
 ## Judges 9:13
 

@@ -10,7 +10,7 @@ Set your minds on the things above, not on earthly matters.
 For you have died, and your life is now hidden with Christ in God.
 
 ## Colossians 3:4
-When Christ, who is your life, is revealed, then you also will be revealed with him in glory.
+When Christ, who is your life, appears, you too will appear with him in glory.
 
 ## Colossians 3:5
 Therefore, consider the parts of your earthly nature as dead to sexual immorality, impurity, passion, evil desires, and greed, which is idolatry.

@@ -74,7 +74,7 @@ the Spirit of truth. The world cannot accept him, because it neither perceives h
 
 ## John 14:18
 
-I will not leave you as orphans; I will come to you.
+I will not leave you alone without provision; I will come to you.
 
 ## John 14:19
 

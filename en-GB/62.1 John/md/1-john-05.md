@@ -46,7 +46,7 @@ And this is the testimony: God has granted us eternal life, and this life is in 
 
 ## 1 John 5:12
 
-Whoever has the Son has life; whoever does not have the Son of God does not have life.
+Those who have the Son possess life; those who do not have the Son of God do not possess life.
 
 ## 1 John 5:13
 

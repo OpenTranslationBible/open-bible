@@ -6,7 +6,7 @@ Dear friends, do not trust every spirit, but examine the spirits to determine if
 
 ## 1 John 4:2
 
-By this you know the Spirit of God: every spirit that confesses that Jesus Christ has come in the flesh is from God;
+This is how you can recognise the Spirit of God: every spirit that acknowledges Jesus Christ has come in the flesh is from God;
 
 ## 1 John 4:3
 
@@ -30,7 +30,7 @@ Dear friends, let us love each other, for love is from God; and everyone who lov
 
 ## 1 John 4:8
 
-Anyone who does not love does not know God, because God is love.
+Anyone who does not love has not come to know God, because God is love.
 
 ## 1 John 4:9
 

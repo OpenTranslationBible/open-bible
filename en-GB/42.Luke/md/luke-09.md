@@ -238,7 +238,7 @@ When the disciples James and John saw this, they asked, “Lord, do You want us 
 
 ## Luke 9:55
 
-But Jesus turned and rebuked them.
+But Jesus turned to them and rebuked them.
 
 ## Luke 9:56
 

@@ -431,7 +431,7 @@ From the tribe of Issachar:
 
 ## 1 Chronicles 6:73
 
-> Ramoth with its pasture lands, and Anem with its pasture lands;
+> Ramoth and its grazing lands, and Anem and its grazing lands;
 
 ---
 

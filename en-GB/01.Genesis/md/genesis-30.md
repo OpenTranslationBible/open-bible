@@ -14,7 +14,7 @@ Then she said, “Here is my maid Bilhah; go in to her, that she may bear childr
 
 ## Genesis 30:4
 
-So she gave him her maid Bilhah as a wife, and Jacob went in to her.
+So she presented her maid Bilhah to Jacob as a wife, and Jacob was with her.
 
 ## Genesis 30:5
 
@@ -26,7 +26,7 @@ Rachel said, “God has judged me, and has indeed heard my voice and given me a 
 
 ## Genesis 30:7
 
-Rachel’s maid Bilhah conceived again and bore Jacob a second son.
+Rachel’s maid Bilhah conceived once more and bore Jacob another son.
 
 ## Genesis 30:8
 
@@ -34,7 +34,7 @@ Rachel said, “With great wrestlings have I wrestled with my sister, and I have
 
 ## Genesis 30:9
 
-When Leah saw that she had ceased bearing children, she took her maid Zilpah and gave her to Jacob as a wife.
+When Leah saw that she was no longer bearing children, she took her maid Zilpah and gave her to Jacob as a wife.
 
 ## Genesis 30:10
 
@@ -46,7 +46,7 @@ Leah said, “What good fortune!” So she named him Gad.
 
 ## Genesis 30:12
 
-Leah’s maid Zilpah bore Jacob a second son.
+Leah’s maid Zilpah gave Jacob another son.
 
 ## Genesis 30:13
 
@@ -90,7 +90,7 @@ Then God remembered Rachel, and God listened to her and opened her womb.
 
 ## Genesis 30:23
 
-She conceived and bore a son, and said, “God has taken away my reproach.”
+She conceived and gave birth to a son, and said, “God has removed my shame.”
 
 ## Genesis 30:24
 

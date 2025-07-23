@@ -152,11 +152,11 @@ Jesus wept.
 
 ## John 11:36
 
-Then the Jews said, “See how He loved him!”
+Then those present remarked, “Observe how He cared for him!”
 
 ## John 11:37
 
-But some of them said, “Could not He who opened the eyes of the blind man have kept this man from dying?”
+Yet others questioned, “Could not the one who gave sight to the blind man have prevented this man's death?”
 
 ---
 

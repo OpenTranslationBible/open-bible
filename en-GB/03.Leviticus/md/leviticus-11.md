@@ -2,7 +2,7 @@
 
 ## Leviticus 11:1
 
-The Lord spoke to Moses and Aaron, saying to them,
+The Lord then spoke to Moses and Aaron, saying,
 
 ## Leviticus 11:2
 
@@ -74,7 +74,7 @@ the barn owl, the pelican, and the carrion vulture,
 
 ## Leviticus 11:19
 
-the stork, any kind of heron, the hoopoe, and the bat.
+the stork, any variety of heron, the hoopoe, and the bat.
 
 ## Leviticus 11:20
 

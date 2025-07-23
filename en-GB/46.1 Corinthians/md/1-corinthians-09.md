@@ -6,7 +6,7 @@ Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not 
 
 ## 1 Corinthians 9:2
 
-If I am not an apostle to others, at least I am to you; for you are the seal of my apostleship in the Lord.
+Even if I am not recognised as an apostle by others, surely I am by you; for you are the proof of my apostleship in the Lord.
 
 ## 1 Corinthians 9:3
 

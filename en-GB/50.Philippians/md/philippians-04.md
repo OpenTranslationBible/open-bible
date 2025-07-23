@@ -14,11 +14,11 @@ Yes, I ask you, my true companion, to help these women who have struggled alongs
 
 ## Philippians 4:4
 
-Rejoice in the Lord always. I will say it again: Rejoice!
+Always find joy in the Lord. I will repeat: Be joyful!
 
 ## Philippians 4:5
 
-Let your gentleness be known to everyone. The Lord is near.
+Let your gentle spirit be evident to everyone. The Lord is near.
 
 ## Philippians 4:6
 
@@ -78,7 +78,7 @@ And my God will give you all you need out of His glorious riches in Christ Jesus
 
 ## Philippians 4:20
 
-To our God and Father be glory for ever and ever. Amen.
+Glory be to our God and Father for ever and ever. Amen.
 
 ## Philippians 4:21
 

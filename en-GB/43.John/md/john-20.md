@@ -38,7 +38,7 @@ For they did not yet understand from Scripture that Jesus had to rise from the d
 
 ## John 20:10
 
-Then the disciples returned to their homes.
+Afterwards, the disciples went back to their own homes.
 
 ---
 

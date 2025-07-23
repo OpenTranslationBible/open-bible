@@ -284,7 +284,7 @@ Sheshan gave his daughter to Jarha his servant as a wife,
 
 ## 1 Chronicles 2:36
 
-Attai fathered Nathan, and Nathan fathered Zabad,
+Attai became the father of Nathan, and Nathan fathered Zabad,
 
 ## 1 Chronicles 2:37
 

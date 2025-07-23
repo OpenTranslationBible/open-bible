@@ -48,7 +48,7 @@ I am eager to see you so that I may share with you some spiritual gift to streng
 
 ## Romans 1:12
 
-that is, that we may be mutually encouraged by each other’s faith, both yours and mine.
+so that we may encourage one another by our faith, yours and mine.
 
 ## Romans 1:13
 

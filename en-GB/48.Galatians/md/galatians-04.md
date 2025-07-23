@@ -38,7 +38,7 @@ But now that you know God, or rather are known by God, how can you turn back aga
 
 ## Galatians 4:10
 
-You are observing special days and months and seasons and years.
+You are meticulously observing particular days, months, seasons, and years.
 
 ## Galatians 4:11
 
@@ -62,7 +62,7 @@ Where then is your sense of blessing? I testify that, if you could have done so,
 
 ## Galatians 4:16
 
-Have I now become your enemy by telling you the truth?
+Have I become your adversary by speaking the truth to you?
 
 ## Galatians 4:17
 
@@ -102,7 +102,7 @@ Now Hagar stands for Mount Sinai in Arabia and corresponds to the present Jerusa
 
 ## Galatians 4:26
 
-But the Jerusalem above is free, and she is our mother.
+But the Jerusalem that is above is free, and she is our spiritual mother.
 
 ## Galatians 4:27
 

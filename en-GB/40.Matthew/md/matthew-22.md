@@ -2,7 +2,7 @@
 
 ## Matthew 22:1
 
-Jesus spoke to them again in parables, saying:
+Jesus addressed them once more using parables, saying:
 
 ## Matthew 22:2
 
@@ -90,7 +90,7 @@ and he asked them, “Whose image and inscription is this?”
 
 ## Matthew 22:22
 
-When they heard this, they were amazed, and they left him and went away.
+Upon hearing this, they were astonished, and they left him and went away.
 
 ---
 

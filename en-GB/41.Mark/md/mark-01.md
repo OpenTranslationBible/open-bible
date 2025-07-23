@@ -149,7 +149,7 @@ That evening, after sunset, the people brought to Jesus all who were sick and th
 
 ## Mark 1:33
 
-The whole town gathered at the door,
+A large gathering of the town assembled at the door,
 
 ## Mark 1:34
 

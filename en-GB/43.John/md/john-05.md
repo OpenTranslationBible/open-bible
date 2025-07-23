@@ -172,7 +172,7 @@ You diligently study the Scriptures because you think that in them you have eter
 
 ## John 5:40
 
-yet you refuse to come to me to have life.
+yet you are unwilling to come to me to receive life.
 
 ---
 
@@ -198,7 +198,7 @@ Do not think I will accuse you before the Father. Your accuser is Moses, on whom
 
 ## John 5:46
 
-If you believed Moses, you would believe me, for he wrote about me.
+If you had faith in Moses, you would have faith in me, for he wrote about me.
 
 ## John 5:47
 

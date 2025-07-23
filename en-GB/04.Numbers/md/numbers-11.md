@@ -67,7 +67,7 @@ Moses said, “Here I am among six hundred thousand men on foot, and you say, �
 Would there be enough if flocks and herds were slaughtered for them? Would there be enough if all the fish in the sea were caught for them?”
 
 ## Numbers 11:23
-The Lord said to Moses, “Is the Lord’s power limited? Now you shall see whether my word will come true for you or not.”
+The Lord said to Moses, “Is there any limit to the Lord’s power? Now you shall see whether my word will come true for you or not.”
 
 ## Numbers 11:24
 So Moses went out and told the people what the Lord had said. He gathered seventy elders of the people and had them stand around the tent.

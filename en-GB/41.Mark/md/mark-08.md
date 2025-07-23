@@ -18,7 +18,7 @@ His disciples answered Him, “Where can anyone find enough bread here in this d
 
 ## Mark 8:5
 
-He asked them, “How many loaves do you have?” They said, “Seven.”
+He inquired of them, “What is the number of loaves you possess?” They said, “Seven.”
 
 ## Mark 8:6
 
@@ -86,7 +86,7 @@ When I broke the five loaves for the five thousand, how many baskets full of bro
 
 ## Mark 8:21
 
-He said to them, “Do you still not understand?”
+He asked them, “Are you still without understanding?”
 
 ---
 

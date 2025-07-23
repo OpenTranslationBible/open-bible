@@ -58,7 +58,7 @@ Therefore, my beloved, flee from idolatry.
 
 ## 1 Corinthians 10:15
 
-I speak as to sensible people; judge for yourselves what I say.
+I address you as wise individuals; consider what I say.
 
 ## 1 Corinthians 10:16
 
@@ -86,7 +86,7 @@ You cannot drink the cup of the Lord and the cup of demons; you cannot partake o
 
 ## 1 Corinthians 10:22
 
-Or will we we provoke the Lord's patience? Surely, we are not stronger than Him.
+Or will we provoke the Lord's patience? Surely, we are not stronger than Him.
 
 ## 1 Corinthians 10:23
 
@@ -122,7 +122,7 @@ If I partake with gratitude, why am I criticised for something I give thanks for
 
 ## 1 Corinthians 10:31
 
-So, whether you eat or drink, or whatever you do, do everything for the glory of God.
+Therefore, whatever you do, whether eating or drinking, do it all for the glory of God.
 
 ## 1 Corinthians 10:32
 

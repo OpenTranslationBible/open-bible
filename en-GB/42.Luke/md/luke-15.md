@@ -42,7 +42,7 @@ And when she finds it, she calls her friends and neighbours together, saying, �
 
 ## Luke 15:10
 
-In the same way, I tell you, there is joy in the presence of the angels of God over one sinner who repents.”
+Likewise, I tell you, there is joy among the angels of God over even one sinner who repents.”
 
 ---
 

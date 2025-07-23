@@ -59,7 +59,7 @@ But the house of Judah followed David.
 
 ## 2 Samuel 2:11
 
-The time that David was king in Hebron over the house of Judah was seven years and six months.
+David reigned in Hebron over the house of Judah for seven years and six months.
 
 ---
 

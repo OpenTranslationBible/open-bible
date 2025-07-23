@@ -189,7 +189,7 @@ Jesus replied to him, “Truly I tell you, today you will be with me in paradise
 
 ## Luke 23:44
 
-It was now about noon, and darkness came over the whole land until three in the afternoon,
+By about noon, darkness fell over the whole land until three in the afternoon,
 
 ## Luke 23:45
 

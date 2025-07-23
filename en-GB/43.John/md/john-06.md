@@ -130,7 +130,7 @@ So they asked Him, “What sign will You give that we may see it and believe You
 
 ## John 6:31
 
-Our ancestors ate the manna in the wilderness; as it is written: ‘He gave them bread from heaven to eat.’”
+Our forefathers ate manna in the desert; as it is written: ‘He provided them with bread from heaven to eat.’”
 
 ## John 6:32
 
@@ -138,7 +138,7 @@ Jesus said to them, “Truly, truly, I say to you, it was not Moses who gave you
 
 ## John 6:33
 
-For the bread of God is that which comes down from heaven and gives life to the world.”
+For the bread of God is that which descends from heaven and grants life to the world.”
 
 ## John 6:34
 
@@ -206,7 +206,7 @@ I am the bread of life.
 
 ## John 6:49
 
-Your ancestors ate the manna in the wilderness, and they died.
+Your forefathers ate the manna in the wilderness, and they died.
 
 ## John 6:50
 
@@ -240,11 +240,11 @@ Those who eat of My flesh and drink of My blood will remain in Me, and I in them
 
 ## John 6:57
 
-Just as the living Father sent Me and I live because of the Father, so the one who feeds on Me will live because of Me.
+Just as the living Father sent Me and I live because of the Father, so the one who partakes of Me will live because of Me.
 
 ## John 6:58
 
-This is the bread that has come down from heaven. Your ancestors ate manna and died, but whoever feeds on this bread will live forever.”
+This is the bread that has come down from heaven. Your forefathers ate manna and died, but whoever feeds on this bread will live forever.”
 
 ## John 6:59
 

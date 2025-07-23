@@ -92,7 +92,7 @@ When evening arrived, Jesus was at the table with the twelve disciples.
 
 ## Matthew 26:21
 
-And as they were eating, he said, “Truly I say to you, one of you will betray me.”
+And during the meal, he said, “Truly, I tell you, one of you will betray me.”
 
 ## Matthew 26:22
 
@@ -122,7 +122,7 @@ And he took a cup, and after giving thanks, he gave it to them, saying, “Drink
 
 ## Matthew 26:28
 
-for this is my blood of the covenant, which is poured out for many for the forgiveness of sins.
+for this represents my blood of the covenant, which is shed for many for the forgiveness of sins.
 
 ## Matthew 26:29
 
@@ -189,7 +189,7 @@ He went away again a second time and prayed, “My Father, if this cup cannot pa
 
 ## Matthew 26:43
 
-Again he came and found them sleeping, for their eyes were heavy.
+Once more, he returned and found them sleeping, for their eyes were heavy.
 
 ## Matthew 26:44
 

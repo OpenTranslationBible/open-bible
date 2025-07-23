@@ -6,7 +6,7 @@ I observed in the right hand of the one seated on the throne a scroll inscribed 
 
 ## Revelation 5:2
 
-And I saw a mighty angel proclaiming with a loud voice, “Who is worthy to open the scroll and break its seals?”
+Then I witnessed a powerful angel calling out with a strong voice, “Who is worthy to open the scroll and break its seals?”
 
 ## Revelation 5:3
 

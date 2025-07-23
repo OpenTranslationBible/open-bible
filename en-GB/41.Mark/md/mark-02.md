@@ -102,7 +102,7 @@ And it happened that Jesus was going through the grainfields on the Sabbath, and
 
 ## Mark 2:24
 
-The Pharisees said to him, “Look, why are they doing what is not lawful on the Sabbath?”
+The Pharisees questioned him, Tell us, why are they doing what is considered unlawful on the Sabbath?”
 
 ## Mark 2:25
 

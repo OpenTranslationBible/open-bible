@@ -18,11 +18,11 @@ He fell to the ground and heard a voice saying to him, “Saul, Saul, why are yo
 
 ## Acts 9:5
 
-He asked, “Who are you, Lord?” The reply came, “I am Jesus, whom you are persecuting.
+He inquired, “Who are you, Lord?” and He replied, “I am Jesus, whom you are persecuting.
 
 ## Acts 9:6
 
-Now get up and go into the city, and you will be told what you must do.”
+Rise and enter the city, and there you will be informed of what you are to do.”
 
 ## Acts 9:7
 
@@ -34,7 +34,7 @@ Saul got up from the ground, but though his eyes were open, he could see nothing
 
 ## Acts 9:9
 
-For three days he was without sight, and neither ate nor drank.
+For three days he remained blinded and did not eat or drink.
 
 ---
 
@@ -106,7 +106,7 @@ but their plot became known to Saul. They were watching the city gates day and n
 
 ## Acts 9:25
 
-But his disciples took him by night and let him down through an opening in the wall, lowering him in a basket.
+However, his followers took him by night and let him down through an opening in the wall, lowering him in a basket.
 
 ---
 

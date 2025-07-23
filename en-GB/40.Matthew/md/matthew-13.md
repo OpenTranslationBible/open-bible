@@ -22,11 +22,11 @@ Some fell on rocky places, where there was not much soil. They sprang up quickly
 
 ## Matthew 13:6
 
-But when the sun rose, they were scorched, and since they had no root, they withered away.
+But when the sun rose, they were scorched, and lacking roots, they withered away.
 
 ## Matthew 13:7
 
-Other seeds fell among thorns, and the thorns grew up and choked them.
+Other seeds fell among thorns, which grew up and suffocated them.
 
 ## Matthew 13:8
 
@@ -173,7 +173,7 @@ Then he left the crowds and went into the house. His disciples came to him and s
 
 ## Matthew 13:37
 
-He answered, “The one who sows the good seed is the Son of Man,
+He replied, “The one who plants the good seed is the Son of Man,
 
 ## Matthew 13:38
 

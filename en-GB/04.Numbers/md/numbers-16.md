@@ -170,7 +170,7 @@ When the assembly gathered in opposition to Moses and Aaron and turned toward th
 
 ## Numbers 16:43
 
-Then Moses and Aaron went to the front of the tent of meeting,
+Moses and Aaron approached the front of the tent of meeting,
 
 ## Numbers 16:44
 

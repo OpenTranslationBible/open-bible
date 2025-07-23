@@ -74,7 +74,7 @@ Then David said to God,
 
 ## 1 Chronicles 21:9
 
-The Lord spoke to Gad, David’s seer, saying,
+The Lord then gave a message to Gad, David’s seer,
 
 ---
 
@@ -230,7 +230,7 @@ However, King David said to Ornan,
 
 ## 1 Chronicles 21:25
 
-So David paid Ornan six hundred shekels of gold by weight for the site.
+So David paid Ornan six hundred shekels of gold by weight to buy the site.
 
 ---
 

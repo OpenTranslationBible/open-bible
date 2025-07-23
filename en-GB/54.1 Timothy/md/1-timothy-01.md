@@ -6,7 +6,7 @@ Paul, an apostle of Christ Jesus according to the commandment of God our Saviour
 
 ## 1 Timothy 1:2
 
-To Timothy, my true son in the faith: Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+To Timothy, my true son in the faith: May grace, mercy, and peace come to you from God the Father and Christ Jesus our Lord.
 
 ## 1 Timothy 1:3
 

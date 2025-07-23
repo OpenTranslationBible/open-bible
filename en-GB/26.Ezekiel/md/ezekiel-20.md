@@ -109,7 +109,7 @@ I will bring you into the wilderness of the nations, and there I will enter into
 As I judged your ancestors in the wilderness of the land of Egypt, so I will judge you, declares the Lord God.
 
 ## Ezekiel 20:37
-I will make you pass under the rod, and I will bring you into the bond of the covenant.
+I will make you pass under the shepherd's staff, and I will bring you into the bond of the covenant.
 
 ## Ezekiel 20:38
 I will purge from you the rebels and those who revolt against me. Although I will bring them out of the land where they reside, they will not enter the land of Israel. Then you will know that I am the Lord.

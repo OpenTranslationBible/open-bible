@@ -64,7 +64,7 @@ but like the Holy One who called you, be holy yourselves also in all your behavi
 
 ## 1 Peter 1:16
 
-for it is written: “You shall be holy, for I am holy.”
+for it is stated: “You shall be holy, for I am holy.”
 
 ## 1 Peter 1:17
 
@@ -84,7 +84,7 @@ For He was known before the foundation of the world, but has appeared in these l
 
 ## 1 Peter 1:21
 
-who through Him are believers in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.
+Through Him you have come to believe in God, who raised Him from the dead and gave Him glory, so that your faith and hope are in God.
 
 ## 1 Peter 1:22
 

@@ -114,7 +114,7 @@ All this came upon King Nebuchadnezzar.
 
 ## Daniel 4:29
 
-At the end of twelve months he was walking on the roof of the royal palace of Babylon.
+A year later, he was walking on the roof of the royal palace of Babylon.
 
 ## Daniel 4:30
 

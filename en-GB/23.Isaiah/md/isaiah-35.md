@@ -7,7 +7,7 @@ The wilderness and the parched land shall be glad; the desert will rejoice and b
 It will burst into bloom and rejoice with great joy and singing. The glory of Lebanon will be bestowed upon it, the splendour of Carmel and Sharon. They shall see the glory of the Lord, the majesty of our God.
 
 ## Isaiah 35:3
-Strengthen the weak hands, and make firm the feeble knees.
+Support those with weak hands, and steady the trembling knees.
 
 ## Isaiah 35:4
 Say to those with anxious hearts, “Be strong, do not fear; behold, your God will come with vengeance, with divine retribution. He will come to save you.”

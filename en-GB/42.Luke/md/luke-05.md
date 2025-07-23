@@ -94,7 +94,7 @@ Jesus, knowing their thoughts, asked, “Why are you thinking these things in yo
 
 ## Luke 5:23
 
-Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
+Which do you think is simpler: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
 
 ## Luke 5:24
 

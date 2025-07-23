@@ -136,7 +136,7 @@ The one who comes from above is supreme; the one who is from the earth belongs t
 
 ## John 3:32
 
-He testifies to what He has seen and heard, yet no one accepts His testimony.
+He bears witness to what He has seen and heard, but His testimony is not accepted by anyone.
 
 ## John 3:33
 

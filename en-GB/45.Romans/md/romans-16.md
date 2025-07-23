@@ -22,7 +22,7 @@ Greet also the church that meets at their house. Greet my dear friend Epenetus, 
 
 ## Romans 16:6
 
-Greet Mary, who has worked hard for you.
+Greet Mary, who has diligently laboured for you.
 
 ## Romans 16:7
 
@@ -78,7 +78,7 @@ Your obedience is known to all, and I rejoice over you; but I want you to be wis
 
 ## Romans 16:20
 
-The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus be with you.
+The God of peace will soon bring Satan under your feet. The grace of our Lord Jesus be with you.
 
 ## Romans 16:21
 

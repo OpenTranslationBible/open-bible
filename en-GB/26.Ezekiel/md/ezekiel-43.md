@@ -13,7 +13,7 @@ The vision I saw was like the vision I had seen when He came to destroy the city
 And the glory of the Lord entered the temple through the gate facing east.
 
 ## Ezekiel 43:5
-The Spirit lifted me up and brought me into the inner court, and behold, the glory of the Lord filled the temple.
+The Spirit carried me into the inner court, and behold, the glory of the Lord filled the temple.
 
 ## Ezekiel 43:6
 Then I heard someone speaking to me from inside the temple, while the man was standing beside me.

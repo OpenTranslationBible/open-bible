@@ -42,7 +42,7 @@ Suddenly Jesus met them and said, “Greetings!” They approached Him, took hol
 
 ## Matthew 28:10
 
-Then Jesus said to them, “Do not be afraid. Go and tell My brothers to go to Galilee; there they will see Me.”
+Jesus reassured them, “Do not be afraid. Go and inform My brothers to go to Galilee; there they will see Me.”
 
 ---
 
@@ -74,7 +74,7 @@ Then the eleven disciples went to Galilee, to the mountain where Jesus had direc
 
 ## Matthew 28:17
 
-When they saw Him, they worshipped Him; but some doubted.
+When they saw Him, they worshipped Him, though some still doubted.
 
 ## Matthew 28:18
 

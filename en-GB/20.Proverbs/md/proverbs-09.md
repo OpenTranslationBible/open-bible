@@ -68,7 +68,7 @@ She sits at the entrance of her house, on a seat in the high places of the city,
 
 ## Proverbs 9:15
 
-calling to those who pass by, who are going straight on their way,
+calling out to those who pass by, while they are going on their way,
 
 ## Proverbs 9:16
 

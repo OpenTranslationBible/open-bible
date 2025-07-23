@@ -110,4 +110,4 @@ He delivers and rescues, He works signs and wonders in heaven and on earth, He w
 
 ## Daniel 6:28
 
-So Daniel prospered during the reign of Darius and the reign of Cyrus the Persian.
+Thus, Daniel thrived during the reign of Darius and the rule of Cyrus the Persian.

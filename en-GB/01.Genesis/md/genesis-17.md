@@ -38,7 +38,7 @@ God said further to Abraham, “As for you, you shall keep My covenant, you and 
 
 ## Genesis 17:10
 
-This is My covenant which you shall keep, between Me and you and your descendants after you: every male among you shall be circumcised.
+This is the covenant you are to keep between Me and you and your descendants after you: every male among you is to be circumcised.
 
 ## Genesis 17:11
 
@@ -54,7 +54,7 @@ A slave born in your house or bought with your money shall be circumcised. Thus 
 
 ## Genesis 17:14
 
-Any uncircumcised male who is not circumcised in the flesh of his foreskin shall be cut off from his people; he has broken My covenant.”
+Any uncircumcised male who has not been circumcised in the flesh of his foreskin shall be separated from his people; he has broken My covenant.”
 
 ## Genesis 17:15
 
@@ -98,7 +98,7 @@ At the age of ninety-nine, Abraham was circumcised in the flesh of his foreskin.
 
 ## Genesis 17:25
 
-And his son Ishmael was thirteen years old when he was circumcised in the flesh of his foreskin.
+And his son Ishmael was thirteen years old when he underwent circumcision.
 
 ## Genesis 17:26
 

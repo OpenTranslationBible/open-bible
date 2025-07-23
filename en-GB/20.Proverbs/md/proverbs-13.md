@@ -46,7 +46,7 @@ Wealth obtained dishonestly dwindles, but whoever gathers little by little incre
 
 ## Proverbs 13:12
 
-Hope deferred makes the heart sick, but a desire fulfilled is a tree of life.
+Delayed hope can weigh heavily on the heart, but when a desire is fulfilled, it is like a tree of life.
 
 ## Proverbs 13:13
 

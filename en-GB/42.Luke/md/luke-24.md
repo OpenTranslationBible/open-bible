@@ -176,7 +176,7 @@ They gave Him a piece of broiled fish,
 
 ## Luke 24:43
 
-and He took it and ate it in their presence.
+and He took it and ate the fish in their presence.
 
 ---
 

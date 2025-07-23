@@ -99,7 +99,7 @@ Jehoshaphat being king of Judah, Jehoram the son of Jehoshaphat king of Judah be
 
 ## 2 Kings 8:17
 
-He was thirty-two years old when he became king, and he reigned for eight years in Jerusalem.
+He was thirty-two years old when he first sat on the throne, and his reign in Jerusalem lasted for eight years.
 
 ## 2 Kings 8:18
 

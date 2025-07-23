@@ -40,7 +40,7 @@ For though we are slaves, our God has not abandoned us in our bondage. He has ex
 
 ## Ezra 9:10
 
-“And now, our God, what shall we say after this? For we have forsaken Your commandments,
+“And now, our God, what can we say after this? For we have indeed forsaken Your commandments,
 
 ## Ezra 9:11
 

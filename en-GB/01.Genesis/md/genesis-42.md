@@ -70,7 +70,7 @@ And he had them all held in custody for three days.
 
 ## Genesis 42:18
 
-On the third day, Joseph said to them, “Do this and you will live, for I fear God:
+On the third day, Joseph addressed them, saying, “Do this and you shall live, for I hold reverence for God:
 
 ## Genesis 42:19
 

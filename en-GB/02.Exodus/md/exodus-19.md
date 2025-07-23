@@ -64,13 +64,13 @@ The Lord descended to the top of Mount Sinai and called Moses to the top of the 
 The Lord said to Moses, “Go down and warn the people not to force their way through to see the Lord, or many of them will perish.
 
 ## Exodus 19:22
-Even the priests, who approach the Lord, must consecrate themselves, or the Lord will break out against them.”
+Even the priests, who come near to the Lord, must purify themselves, or the Lord will act against them.”
 
 ## Exodus 19:23
 Moses said to the Lord, “The people cannot come up Mount Sinai, because you yourself warned us, ‘Set boundaries around the mountain and consecrate it.’”
 
 ## Exodus 19:24
-The Lord replied, “Go down and bring Aaron up with you. But do not let the priests and the people break through to come up to the Lord, or He will break out against them.”
+The Lord replied, “Go down and bring Aaron up with you. But do not let the priests and the people break through to come up to the Lord, or He will act against them.”
 
 ## Exodus 19:25
 So Moses went down to the people and informed them.

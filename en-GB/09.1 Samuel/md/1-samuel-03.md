@@ -32,7 +32,7 @@ But Eli replied, “I did not call you, my son. Go back and lie down.”
 
 ## 1 Samuel 3:7
 
-Now Samuel did not yet know the Lord, and the word of the Lord had not yet been revealed to him.
+Samuel hadn't yet met with the Lord, and the word of the Lord had not been disclosed to him.
 
 ## 1 Samuel 3:8
 

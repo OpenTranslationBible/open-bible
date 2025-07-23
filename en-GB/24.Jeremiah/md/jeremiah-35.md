@@ -34,7 +34,7 @@ We have lived in tents and have obeyed and done all that our forefather Jonadab 
 But when Nebuchadnezzar, king of Babylon, invaded the land, we said, ‘Come, let us go to Jerusalem to escape the armies of the Chaldeans and the Arameans.’ So we have remained in Jerusalem.”
 
 ## Jeremiah 35:12
-Then the word of the Lord came to Jeremiah, saying,
+The word of the Lord then came to Jeremiah, saying,
 
 ## Jeremiah 35:13
 “This is what the Lord of Hosts, the God of Israel, says: ‘Go and tell the people of Judah and the inhabitants of Jerusalem, “Will you not learn a lesson and listen to my words?” declares the Lord.
