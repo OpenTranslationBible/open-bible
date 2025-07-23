@@ -42,7 +42,7 @@ but glory, honour, and peace for everyone who does good: first for the Jew, then
 
 ## Romans 2:11
 
-For God shows no partiality.
+For God shows no favouritism.
 
 ---
 

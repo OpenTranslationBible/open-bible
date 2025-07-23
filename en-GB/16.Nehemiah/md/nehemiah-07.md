@@ -32,75 +32,75 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:8
 
-> the descendants of Parosh, 2,172;
+> the line of Parosh, numbered 2,172;
 
 ## Nehemiah 7:9
 
-> the descendants of Shephatiah, 372;
+> the line of Shephatiah, numbered 372;
 
 ## Nehemiah 7:10
 
-> the descendants of Arah, 652;
+> the line of Arah, numbered 652;
 
 ## Nehemiah 7:11
 
-> the descendants of Pahath-Moab, through the line of Jeshua and Joab, 2,818;
+> the line of Pahath-Moab, numbered through the line of Jeshua and Joab, 2,818;
 
 ## Nehemiah 7:12
 
-> the descendants of Elam, 1,254;
+> the line of Elam, numbered 1,254;
 
 ## Nehemiah 7:13
 
-> the descendants of Zattu, 845;
+> the line of Zattu, numbered 845;
 
 ## Nehemiah 7:14
 
-> the descendants of Zaccai, 760;
+> the line of Zaccai, numbered 760;
 
 ## Nehemiah 7:15
 
-> the descendants of Binnui, 648;
+> the line of Binnui, numbered 648;
 
 ## Nehemiah 7:16
 
-> the descendants of Bebai, 628;
+> the line of Bebai, numbered 628;
 
 ## Nehemiah 7:17
 
-> the descendants of Azgad, 2,322;
+> the line of Azgad, numbered 2,322;
 
 ## Nehemiah 7:18
 
-> the descendants of Adonikam, 667;
+> the line of Adonikam, numbered 667;
 
 ## Nehemiah 7:19
 
-> the descendants of Bigvai, 2,067;
+> the line of Bigvai, numbered 2,067;
 
 ## Nehemiah 7:20
 
-> the descendants of Adin, 655;
+> the line of Adin, numbered 655;
 
 ## Nehemiah 7:21
 
-> the descendants of Ater, through Hezekiah, 98;
+> the line of Ater, numbered through Hezekiah, 98;
 
 ## Nehemiah 7:22
 
-> the descendants of Hashum, 328;
+> the line of Hashum, numbered 328;
 
 ## Nehemiah 7:23
 
-> the descendants of Bezai, 324;
+> the line of Bezai, numbered 324;
 
 ## Nehemiah 7:24
 
-> the descendants of Hariph, 112;
+> the line of Hariph, numbered 112;
 
 ## Nehemiah 7:25
 
-> the descendants of Gibeon, 95;
+> the line of Gibeon, numbered 95;
 
 ---
 
@@ -138,11 +138,11 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:34
 
-> the descendants of the other Elam, 1,254;
+> the line of the other Elam, numbered 1,254;
 
 ## Nehemiah 7:35
 
-> the descendants of Harim, 320;
+> the line of Harim, numbered 320;
 
 ## Nehemiah 7:36
 
@@ -154,7 +154,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:38
 
-> the descendants of Senaah, 3,930.
+> the line of Senaah, numbered 3,930.
 
 ---
 
@@ -162,19 +162,19 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 The priests:
 
-> the descendants of Jedaiah, of the house of Jeshua, 973;
+> the line of Jedaiah, of the house of Jeshua, numbered 973;
 
 ## Nehemiah 7:40
 
-> the descendants of Immer, 1,052;
+> the line of Immer, numbered 1,052;
 
 ## Nehemiah 7:41
 
-> the descendants of Pashhur, 1,247;
+> the line of Pashhur, numbered 1,247;
 
 ## Nehemiah 7:42
 
-> the descendants of Harim, 1,017.
+> the line of Harim, numbered 1,017.
 
 ---
 
@@ -182,21 +182,21 @@ The priests:
 
 The Levites:
 
-> the descendants of Jeshua, through Kadmiel, through the line of Hodevah, 74.
+> the line of Jeshua, through Kadmiel, through the line of Hodevah, numbered 74.
 
 ## Nehemiah 7:44
 
 The singers:
 
-> the descendants of Asaph, 148.
+> the line of Asaph, numbered 148.
 
 ## Nehemiah 7:45
 
 The gatekeepers:
 
-> the descendants of
+> the line of
 > Shallum, Ater, Talmon, Akkub,
-> Hatita, and Shobai, 138.
+> Hatita, and Shobai, numbered 138.
 
 ---
 
@@ -204,7 +204,7 @@ The gatekeepers:
 
 The temple servants:
 
-the descendants of Ziha, Hasupha, Tabbaoth,
+the line of Ziha, Hasupha, Tabbaoth,
 
 ## Nehemiah 7:47
 

@@ -86,7 +86,7 @@ Instead, examine them all; hold on to what is good,
 
 ## 1 Thessalonians 5:22
 
-reject every kind of evil.
+reject every form of evil.
 
 ## 1 Thessalonians 5:23
 
