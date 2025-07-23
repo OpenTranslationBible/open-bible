@@ -127,11 +127,11 @@ Now there were seven brothers. The first one married a woman and died without ch
 
 ## Luke 20:30
 
-The second
+Then the second married her, and died
 
 ## Luke 20:31
 
-and then the third married her, and similarly, all seven died, leaving no children.
+and then the third married her, and died and so it was with all the other brothers, until all seven died, leaving no children.
 
 ## Luke 20:32
 

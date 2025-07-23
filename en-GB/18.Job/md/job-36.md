@@ -2,7 +2,7 @@
 
 ## Job 36:1
 
-Elihu continued and said:
+Elihu continued speaking and said:
 
 ## Job 36:2
 

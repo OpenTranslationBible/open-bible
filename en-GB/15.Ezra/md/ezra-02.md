@@ -10,101 +10,101 @@ They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 
 ## Ezra 2:3
 
-> the descendants of Parosh, 2,172;
+> the line of Parosh, numbered 2,172;
 
 ## Ezra 2:4
 
-> the descendants of Shephatiah, 372;
+> the line of Shephatiah, numbered 372;
 
 ## Ezra 2:5
 
-> the descendants of Arah, 775;
+> the line of Arah, numbered 775;
 
 ## Ezra 2:6
 
-> the descendants of Pahath-Moab, through the line of Jeshua and Joab, 2,812;
+> the line of Pahath-Moab, through the line of Jeshua and Joab, numbered 2,812;
 
 ## Ezra 2:7
 
-> the descendants of Elam, 1,254;
+> the line of Elam, numbered 1,254;
 
 ## Ezra 2:8
 
-> the descendants of Zattu, 945;
+> the line of Zattu, numbered 945;
 
 ## Ezra 2:9
 
-> the descendants of Zaccai, 760;
+> the line of Zaccai, numbered 760;
 
 ## Ezra 2:10
 
-> the descendants of Bani, 642;
+> the line of Bani, numbered 642;
 
 ## Ezra 2:11
 
-> the descendants of Bebai, 623;
+> the line of Bebai, numbered 623;
 
 ## Ezra 2:12
 
-> the descendants of Azgad, 1,222;
+> the line of Azgad, numbered 1,222;
 
 ## Ezra 2:13
 
-> the descendants of Adonikam, 666;
+> the line of Adonikam, numbered 666;
 
 ## Ezra 2:14
 
-> the descendants of Bigvai, 2,056;
+> the line of Bigvai, numbered 2,056;
 
 ## Ezra 2:15
 
-> the descendants of Adin, 454;
+> the line of Adin, numbered 454;
 
 ## Ezra 2:16
 
-> the descendants of Ater, through Hezekiah, 98;
+> the line of Ater, through Hezekiah, numbered 98;
 
 ## Ezra 2:17
 
-> the descendants of Bezai, 323;
+> the line of Bezai, numbered 323;
 
 ## Ezra 2:18
 
-> the descendants of Jorah, 112;
+> the line of Jorah, numbered 112;
 
 ## Ezra 2:19
 
-> the descendants of Hashum, 223;
+> the line of Hashum, numbered 223;
 
 ## Ezra 2:20
 
-> the descendants of Gibbar, 95;
+> the line of Gibbar, numbered 95;
 
 ---
 
 ## Ezra 2:21
 
-> the men of Bethlehem, 123;
+> the men of Bethlehem, numbered 123;
 
 ## Ezra 2:22
 
-> the men of Netophah, 56;
+> the men of Netophah, numbered 56;
 
 ## Ezra 2:23
 
-> the men of Anathoth, 128;
+> the men of Anathoth, numbered 128;
 
 ## Ezra 2:24
 
-> the descendants of Azmaveth, 42;
+> the line of Azmaveth, numbered 42;
 
 ## Ezra 2:25
 
-> the descendants of Kiriath Jearim, Chephirah, and Beeroth, 743;
+> the line of Kiriath Jearim, Chephirah, and Beeroth, 743;
 
 ## Ezra 2:26
 
-> the descendants of Ramah and Geba, 621;
+> the line of Ramah and Geba, numbered 621;
 
 ## Ezra 2:27
 
@@ -116,47 +116,47 @@ They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 
 ## Ezra 2:29
 
-> the descendants of Nebo, 52;
+> the line of Nebo, numbered 52;
 
 ## Ezra 2:30
 
-> the descendants of Magbish, 156;
+> the line of Magbish, numbered 156;
 
 ## Ezra 2:31
 
-> the descendants of the other Elam, 1,254;
+> the line of the other Elam, numbered 1,254;
 
 ## Ezra 2:32
 
-> the descendants of Harim, 320;
+> the line of Harim, numbered 320;
 
 ## Ezra 2:33
 
-> the descendants of Lod, Hadid, and Ono, 725;
+> the line of Lod, Hadid, and Ono, 725;
 
 ## Ezra 2:34
 
-> the men of Jericho, 345;
+> the men of Jericho, numbered 345;
 
 ## Ezra 2:35
 
-> the descendants of Senaah, 3,630.
+> the line of Senaah, numbered 3,630.
 
 ## Ezra 2:36
 
-> The priests: the descendants of Jedaiah, of the house of Jeshua, 973;
+> The priests: the line of Jedaiah, of the house of Jeshua, numbered 973;
 
 ## Ezra 2:37
 
-> the descendants of Immer, 1,052;
+> the line of Immer, numbered 1,052;
 
 ## Ezra 2:38
 
-> the descendants of Pashhur, 1,247;
+> the line of Pashhur, numbered 1,247;
 
 ## Ezra 2:39
 
-> the descendants of Harim, 1,017.
+> the line of Harim, numbered 1,017.
 
 ---
 
@@ -172,7 +172,7 @@ They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 
 The gatekeepers of the temple:
 
-> the descendants of Shallum, Ater, Talmon,
+> the line of Shallum, Ater, Talmon,
 > Akkub, Hatita, and Shobai, 139.
 
 ---
@@ -181,7 +181,7 @@ The gatekeepers of the temple:
 
 The temple servants:
 
-> the descendants of Ziha, Hasupha, Tabbaoth,
+> the line of Ziha, Hasupha, Tabbaoth,
 
 ## Ezra 2:44
 
@@ -275,7 +275,7 @@ And from among the priests:
 
 ## Ezra 2:64
 
-The whole assembly numbered 42,360,
+So, the whole assembly numbered 42,360,
 
 ## Ezra 2:65
 

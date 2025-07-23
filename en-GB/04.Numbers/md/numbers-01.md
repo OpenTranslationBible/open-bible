@@ -182,7 +182,7 @@ All the Israelites twenty years old or more who were eligible for military servi
 
 ## Numbers 1:46
 
-The total number was 603,550.
+Their total number was 603,550.
 
 ## Numbers 1:47
 

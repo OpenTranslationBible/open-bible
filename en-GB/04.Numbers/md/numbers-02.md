@@ -14,7 +14,7 @@ On the east side, towards the sunrise, shall be the divisions of the camp of Jud
 
 ## Numbers 2:4
 
-His division numbers 74,600.
+His company of men numbered 74,600.
 
 ## Numbers 2:5
 
@@ -22,7 +22,7 @@ Next to them shall camp the tribe of Issachar. The leader of the people of Issac
 
 ## Numbers 2:6
 
-His division numbers 54,400.
+His company of men numbered 54,400.
 
 ## Numbers 2:7
 
@@ -30,7 +30,7 @@ Following them shall be the tribe of Zebulun. The leader of the people of Zebulu
 
 ## Numbers 2:8
 
-His division numbers 57,400.
+His company of men numbered 57,400.
 
 ## Numbers 2:9
 
@@ -42,7 +42,7 @@ On the south side shall be the divisions of the camp of Reuben, under their flag
 
 ## Numbers 2:11
 
-His division numbers 46,500.
+His company of men numbered 46,500.
 
 ## Numbers 2:12
 
@@ -50,7 +50,7 @@ Next to them shall camp the tribe of Simeon. The leader of the people of Simeon 
 
 ## Numbers 2:13
 
-His division numbers 59,300.
+His company of men numbered 59,300.
 
 ## Numbers 2:14
 
@@ -58,7 +58,7 @@ Following them shall be the tribe of Gad. The leader of the people of Gad is Eli
 
 ## Numbers 2:15
 
-His division numbers 45,650.
+His company of men numbered 45,650.
 
 ## Numbers 2:16
 
@@ -74,7 +74,7 @@ On the west side shall be the divisions of the camp of Ephraim, under their flag
 
 ## Numbers 2:19
 
-His division numbers 40,500.
+His company of men numbered 40,500.
 
 ## Numbers 2:20
 
@@ -82,7 +82,7 @@ Next to them shall be the tribe of Manasseh. The leader of the people of Manasse
 
 ## Numbers 2:21
 
-His division numbers 32,200.
+His company of men numbered 32,200.
 
 ## Numbers 2:22
 
@@ -90,7 +90,7 @@ Following them shall be the tribe of Benjamin. The leader of the people of Benja
 
 ## Numbers 2:23
 
-His division numbers 35,400.
+His company of men numbered 35,400.
 
 ## Numbers 2:24
 
@@ -102,7 +102,7 @@ On the north side shall be the divisions of the camp of Dan, under their flag. T
 
 ## Numbers 2:26
 
-His division numbers 62,700.
+His company of men numbered 62,700.
 
 ## Numbers 2:27
 
@@ -110,7 +110,7 @@ Next to them shall camp the tribe of Asher. The leader of the people of Asher is
 
 ## Numbers 2:28
 
-His division numbers 41,500.
+His company of men numbered 41,500.
 
 ## Numbers 2:29
 
@@ -118,7 +118,7 @@ Following them shall be the tribe of Naphtali. The leader of the people of Napht
 
 ## Numbers 2:30
 
-His division numbers 53,400.
+His company of men numbered 53,400.
 
 ## Numbers 2:31
 

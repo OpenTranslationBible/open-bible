@@ -90,7 +90,7 @@ These were the children of Rachel who were born to Jacob—fourteen in total.
 
 ## Genesis 46:23
 
-The son of Dan: Hushim.
+The son of Dan was called Hushim.
 
 ## Genesis 46:24
 

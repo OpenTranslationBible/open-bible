@@ -2,7 +2,7 @@
 
 ## Numbers 4:1
 
-The Lord communicated with Moses and Aaron, saying,
+The Lord then spoke to Moses and Aaron, saying,
 
 ## Numbers 4:2
 
@@ -190,7 +190,7 @@ All the men from thirty to fifty years old who could enter to do the work of ser
 
 ## Numbers 4:48
 
-numbered 8,580.
+they numbered 8,580.
 
 ## Numbers 4:49
 

@@ -22,7 +22,7 @@ Moses brought their case before the Lord.
 
 ## Numbers 27:6
 
-The Lord spoke to Moses,
+The Lord then spoke to Moses, saying,
 
 ## Numbers 27:7
 
@@ -58,7 +58,7 @@ because you rebelled against my command at the waters of Meribah in the Desert o
 
 ## Numbers 27:15
 
-Moses spoke to the Lord,
+Moses then spoke to the Lord,
 
 ## Numbers 27:16
 
