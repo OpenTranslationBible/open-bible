@@ -2,7 +2,7 @@
 
 ## Jeremiah 30:1
 
-The word that came to Jeremiah from the Lord, saying:
+The message of the Lord was given to Jeremiah, saying:
 
 ## Jeremiah 30:2
 
@@ -88,7 +88,7 @@ Their leader will be one of their own, and their ruler will come from their mids
 
 ## Jeremiah 30:22
 
-‘So you will be My people, and I will be your God.’”
+‘Thus you shall be My people, and I shall be your God.’”
 
 ## Jeremiah 30:23
 

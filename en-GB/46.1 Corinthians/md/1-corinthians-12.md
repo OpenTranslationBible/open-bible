@@ -74,7 +74,7 @@ But now God has placed the parts, each one of them in the body, just as He inten
 
 ## 1 Corinthians 12:19
 
-If they were all one part, where would the body be?
+If all were a single part, where would the body be?
 
 ## 1 Corinthians 12:20
 

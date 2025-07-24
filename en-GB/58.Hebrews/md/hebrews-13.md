@@ -35,7 +35,7 @@ Remember your leaders who spoke the word of God to you. Reflect on the outcome o
 
 ## Hebrews 13:8
 
-Jesus Christ is the same yesterday, today, and forever.
+Jesus Christ is the same yesterday, today and forever.
 
 ## Hebrews 13:9
 
@@ -103,4 +103,4 @@ Greet all your leaders and all the saints. Those from Italy send you their greet
 
 ## Hebrews 13:25
 
-Grace be with you all.
+May grace be with each of you.

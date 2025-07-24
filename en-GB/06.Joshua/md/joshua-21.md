@@ -58,11 +58,11 @@ So they gave the city of Hebron to Aaron’s descendants. (a city of refuge for 
 
 ## Joshua 21:14
 
-Jattir, Eshtemoa,
+Jattir and Eshtemoa,
 
 ## Joshua 21:15
 
-Holon, Debir,
+Holon and Debir,
 
 ## Joshua 21:16
 

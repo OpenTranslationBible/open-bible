@@ -110,7 +110,7 @@ May God enlarge Japheth's territory, and may he reside in the tents of Shem; and
 
 ## Genesis 9:28
 
-Noah lived 350 years after the flood.
+Noah continued to live for 350 years following the flood.
 
 ## Genesis 9:29
 

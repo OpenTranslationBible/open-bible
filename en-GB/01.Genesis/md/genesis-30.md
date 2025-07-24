@@ -86,7 +86,7 @@ Afterwards she had a daughter and she named her Dinah.
 
 ## Genesis 30:22
 
-Then God remembered Rachel, and God listened to her and opened her womb.
+God took notice of Rachel, and God listened to her and allowed her to conceive.
 
 ## Genesis 30:23
 

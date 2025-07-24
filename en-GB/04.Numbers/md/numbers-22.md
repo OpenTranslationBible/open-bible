@@ -25,7 +25,7 @@ The elders of Moab and Midian departed, taking with them the fee for divination.
 Balaam said to them, “Spend the night here, and I will bring you back the answer the Lord gives me.” So the Moabite leaders stayed with him.
 
 ## Numbers 22:9
-God came to Balaam and asked, “Who are these men with you?”
+The Lord approached Balaam and inquired, “Who are these men with you?”
 
 ## Numbers 22:10
 Balaam replied to God, “Balak, son of Zippor, king of Moab, sent me this message:
@@ -115,7 +115,7 @@ Balak said to Balaam, “Did I not send you an urgent summons? Why did you not c
 Balaam replied, “Well, I have come to you now. But can I say just anything? I must speak only what God puts in my mouth.”
 
 ## Numbers 22:39
-Then Balaam went with Balak to Kiriath Huzoth.
+Balaam then accompanied Balak to Kiriath Huzoth.
 
 ## Numbers 22:40
 Balak offered cattle and sheep, and shared them with Balaam and the officials who were with him.

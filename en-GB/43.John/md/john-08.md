@@ -4,7 +4,7 @@
 
 ## John 8:1
 
-But Jesus went to the Mount of Olives.
+Jesus went to the Mount of Olives.
 
 ## John 8:2
 
@@ -32,7 +32,7 @@ When they persisted in questioning Him, He straightened up and said to them, “
 
 ## John 8:8
 
-And again He stooped down and wrote on the ground.
+Once more, He stooped down and wrote on the ground.
 
 ## John 8:9
 

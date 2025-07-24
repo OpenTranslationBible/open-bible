@@ -52,4 +52,4 @@ So I said, “Wisdom is better than strength.” Nevertheless, the wisdom of the
 The quiet words of the wise are to be heeded more than the shouts of a ruler among fools.
 
 ## Ecclesiastes 9:18
-Wisdom is better than weapons of war, but one sinner can destroy much good.
+Wisdom surpasses weapons of war, yet a single sinner can undo much good.

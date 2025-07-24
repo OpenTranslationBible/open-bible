@@ -6,23 +6,23 @@ These are the priests and Levites who came up with Zerubbabel son of Shealtiel, 
 
 ## Nehemiah 12:2
 
-Amariah, Malluch, Hattush,
+Amariah, Malluch, and Hattush,
 
 ## Nehemiah 12:3
 
-Shecaniah, Rehum, Meremoth,
+Shecaniah, Rehum, and Meremoth,
 
 ## Nehemiah 12:4
 
-Iddo, Ginnethon, Abijah,
+Iddo, Ginnethon, and Abijah,
 
 ## Nehemiah 12:5
 
-Mijamin, Maadiah, Bilgah,
+Mijamin, Maadiah, and Bilgah,
 
 ## Nehemiah 12:6
 
-Shemaiah, Joiarib, Jedaiah,
+Shemaiah, Joiarib, and Jedaiah,
 
 ## Nehemiah 12:7
 
@@ -44,7 +44,7 @@ Jeshua became the father of Joiakim, Joiakim became the father of Eliashib, and 
 
 ## Nehemiah 12:11
 
-Joiada the father of Jonathan, and Jonathan the father of Jaddua.
+Joiada became the father of Jonathan, and Jonathan became the father of Jaddua.
 
 ## Nehemiah 12:12
 
@@ -128,15 +128,15 @@ Then I had the leaders of Judah go up on top of the wall, and I appointed two la
 
 ## Nehemiah 12:32
 
-Hoshaiah and half of the leaders of Judah followed them,
+Hoshaiah, along with half of the leaders of Judah, followed them,
 
 ## Nehemiah 12:33
 
-along with Azariah, Ezra, Meshullam,
+together with Azariah, Ezra, and Meshullam,
 
 ## Nehemiah 12:34
 
-Judah, Benjamin, Shemaiah, Jeremiah,
+Judah, Benjamin, Shemaiah, and Jeremiah,
 
 ## Nehemiah 12:35
 

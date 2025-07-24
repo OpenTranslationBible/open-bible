@@ -50,7 +50,7 @@ For just as the woman comes from the man, so also the man is born through the wo
 
 ## 1 Corinthians 11:13
 
-Judge for yourselves: is it proper for a woman to pray to God with her head uncovered?
+Consider this for yourself: is it appropriate for a woman to pray to God with her head uncovered?
 
 ## 1 Corinthians 11:14
 
@@ -94,7 +94,7 @@ For I received from the Lord what I also passed on to you: that the Lord Jesus, 
 
 ## 1 Corinthians 11:24
 
-And when He had given thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”
+And after giving thanks, He broke it and said, “This is My body, which is for you; do this in remembrance of Me.”
 
 ## 1 Corinthians 11:25
 

@@ -70,7 +70,7 @@ To those selling doves, he said, "Take these things away! Do not make my Father'
 
 ## John 2:17
 
-His disciples remembered that it was written: "Zeal for your house will consume me."
+His disciples remembered the scripture: "Zeal for your house will consume me."
 
 ---
 
@@ -88,7 +88,7 @@ They responded, "It has taken forty-six years to build this temple, and you will
 
 ## John 2:21
 
-But he was speaking about the temple of his body.
+However, he was referring to the temple of his body.
 
 ## John 2:22
 

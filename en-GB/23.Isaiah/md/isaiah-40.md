@@ -2,7 +2,7 @@
 
 ## Isaiah 40:1
 
-“Comfort, comfort my people,” says your God.
+“Console and console my people,” says your God.
 
 ## Isaiah 40:2
 

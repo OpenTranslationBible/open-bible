@@ -46,7 +46,7 @@ And if your eye causes you to sin, gouge it out and throw it away. It is better 
 
 ## Matthew 18:11
 
-[For the Son of Man has come to save that which was lost.]
+[For the Son of Man has come to save the lost.]
 
 ## Matthew 18:12
 

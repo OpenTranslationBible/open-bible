@@ -52,7 +52,7 @@ Pilate asked them again, “What shall I do with the one you call the King of th
 
 ## Mark 15:13
 
-They shouted back, “Crucify Him!”
+They cried out, “Crucify Him!”
 
 ## Mark 15:14
 
@@ -124,7 +124,7 @@ Those passing by hurled insults at Him, shaking their heads and saying, “Ah! Y
 
 ## Mark 15:30
 
-save Yourself by coming down from the cross!”
+save Yourself, come down from the cross!”
 
 ## Mark 15:31
 

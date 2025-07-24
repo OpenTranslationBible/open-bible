@@ -54,7 +54,7 @@ He spent the night there and selected a gift for his brother Esau from what he h
 
 ## Genesis 32:14
 
-two hundred female goats and twenty male goats, two hundred ewes and twenty rams,
+two hundred she-goats and twenty he-goats, two hundred sheep and twenty rams,
 
 ## Genesis 32:15
 

@@ -114,7 +114,7 @@ Thus, we all agreed to select some men and send them to you with our dear friend
 
 ## Acts 15:26
 
-men who have risked their lives for the name of our Lord Jesus Christ.
+men who have already faced death for the name of our Lord Jesus Christ.
 
 ## Acts 15:27
 

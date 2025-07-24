@@ -110,7 +110,7 @@ Therefore, O king, let my counsel be acceptable to you: break off your sins by p
 
 ## Daniel 4:28
 
-All this came upon King Nebuchadnezzar.
+All these things befell King Nebuchadnezzar.
 
 ## Daniel 4:29
 

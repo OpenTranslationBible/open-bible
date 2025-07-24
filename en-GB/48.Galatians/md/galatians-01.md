@@ -13,7 +13,7 @@ Grace and peace to you from God the Father and our Lord Jesus Christ,
 who gave himself for our sins to deliver us from this present evil age, according to the will of our God and Father,
 
 ## Galatians 1:5
-to whom be glory forever and ever. Amen.
+to whom be glory for all eternity. Amen.
 
 ## Galatians 1:6
 I am surprised that you are so quickly deserting the one who called you by the grace of Christ, for a different gospel—
@@ -61,7 +61,7 @@ I met none of the other apostles except James, the Lord’s brother.
 I assure you before God that what I am writing to you is not a lie.
 
 ## Galatians 1:21
-Then I went to the regions of Syria and Cilicia.
+Afterwards, I travelled to the regions of Syria and Cilicia.
 
 ## Galatians 1:22
 I remained unknown by face to the churches of Judea that are in Christ.
@@ -70,4 +70,4 @@ I remained unknown by face to the churches of Judea that are in Christ.
 They only heard the report: “The man who once persecuted us is now preaching the faith he once tried to destroy.”
 
 ## Galatians 1:24
-And they glorified God because of me.
+And they praised God because of what had happened through me.

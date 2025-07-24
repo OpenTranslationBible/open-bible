@@ -70,7 +70,7 @@ Gershon's sons, according to their clans, were Libni and Shimei.
 
 ## Exodus 6:18
 
-The sons of Kohath were Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
+Kohath's descendants included Amram, Izhar, Hebron, and Uzziel. Kohath lived 133 years.
 
 ## Exodus 6:19
 
@@ -82,11 +82,11 @@ Amram took his father's sister Jochebed as his wife, and she bore him Aaron and 
 
 ## Exodus 6:21
 
-The sons of Izhar were Korah, Nepheg, and Zichri.
+Izhar's descendants were Korah, Nepheg, and Zichri.
 
 ## Exodus 6:22
 
-The sons of Uzziel were Mishael, Elzaphan, and Sithri.
+Uzziel's descendants were Mishael, Elzaphan, and Sithri.
 
 ## Exodus 6:23
 

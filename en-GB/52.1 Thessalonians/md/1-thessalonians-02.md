@@ -78,4 +78,4 @@ For who is our hope, or joy, or crown of pride? Is it not indeed you, in the pre
 
 ## 1 Thessalonians 2:20
 
-For you are our glory and joy.
+For you are indeed our pride and joy.

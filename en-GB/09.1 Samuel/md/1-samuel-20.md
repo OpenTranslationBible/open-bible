@@ -18,7 +18,7 @@ But truly, as the Lord lives and as you yourself live, there is hardly a step be
 
 ## 1 Samuel 20:4
 
-Then Jonathan said to David, “Whatever you say, I will do for you.”
+Then Jonathan assured David, “I will do whatever you request.”
 
 ## 1 Samuel 20:5
 

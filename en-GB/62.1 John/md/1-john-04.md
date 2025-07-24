@@ -42,7 +42,7 @@ This is love: not that we loved God, but that He loved us and sent His Son to be
 
 ## 1 John 4:11
 
-Beloved, if God so loved us, we also ought to love one another.
+Dear beloved, since God has loved us in such a way, we should also love one another.
 
 ## 1 John 4:12
 

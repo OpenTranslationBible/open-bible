@@ -92,7 +92,7 @@ The chief priests of the Jews said to Pilate, “Do not write, ‘The King of th
 
 ## John 19:22
 
-Pilate answered, “What I have written, I have written.”
+Pilate replied, “I have written, what I have written.”
 
 ---
 
@@ -144,7 +144,7 @@ The soldiers came and broke the legs of the first man and of the other who was c
 
 ## John 19:33
 
-But when they came to Jesus and saw that He was already dead, they did not break His legs.
+But, when they approached Jesus, on seeing that He was already dead, they did not break His legs.
 
 ## John 19:34
 

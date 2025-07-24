@@ -67,7 +67,7 @@ also the region of Argob, which is in Bashan—sixty great cities with walls and
 
 ## 1 Kings 4:14
 
-Ahinadab the son of Iddo, in Mahanaim;
+Ahinadab, son of Iddo, in Mahanaim;
 
 ## 1 Kings 4:15
 
@@ -79,11 +79,11 @@ Baana, the son of Hushai - responsible for Asher and Bealoth;
 
 ## 1 Kings 4:17
 
-Jehoshaphat the son of Paruah, in Issachar;
+Jehoshaphat, son of Paruah, in Issachar;
 
 ## 1 Kings 4:18
 
-Shimei the son of Ela, in Benjamin;
+Shimei, son of Ela, in Benjamin;
 
 ## 1 Kings 4:19
 

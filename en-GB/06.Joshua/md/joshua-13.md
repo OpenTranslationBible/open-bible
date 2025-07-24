@@ -70,7 +70,7 @@ Heshbon and its surrounding cities on the plain: Dibon, Bamoth-baal, Beth-baal-m
 
 ## Joshua 13:18
 
-Jahaz, Kedemoth, Mephaath,
+the towns of Jahaz, Kedemoth, and Mephaath,
 
 ## Joshua 13:19
 
@@ -78,7 +78,7 @@ the towns of Kiriathaim, Sibmah, and Zereth-shahar situated on the hill of the v
 
 ## Joshua 13:20
 
-Beth-peor, the slopes of Pisgah, and Beth-jeshimoth,
+the area of Beth-peor, the slopes of Pisgah, and Beth-jeshimoth,
 
 ## Joshua 13:21
 

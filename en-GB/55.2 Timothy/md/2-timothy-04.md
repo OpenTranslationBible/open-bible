@@ -34,7 +34,7 @@ In the future, there is laid up for me the crown of righteousness, which the Lor
 
 ## 2 Timothy 4:9
 
-Make every effort to come to me soon;
+Do your utmost to visit me soon;
 
 ## 2 Timothy 4:10
 
@@ -74,7 +74,7 @@ The Lord will deliver me from every evil deed, and will bring me safely to His h
 
 ## 2 Timothy 4:19
 
-Greet Prisca and Aquila, and the household of Onesiphorus.
+Extend greetings to Prisca and Aquila, and the household of Onesiphorus.
 
 ## 2 Timothy 4:20
 

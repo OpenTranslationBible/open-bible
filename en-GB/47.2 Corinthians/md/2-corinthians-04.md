@@ -10,7 +10,7 @@ But we have renounced the hidden things of shame, not walking in deceit nor alte
 
 ## 2 Corinthians 4:3
 
-And even if our gospel is veiled, it is veiled to those who are perishing,
+And even if our gospel is veiled, it is veiled only to those who are lost,
 
 ## 2 Corinthians 4:4
 
@@ -34,7 +34,7 @@ We face troubles on every side, but are not crushed; we are sometimes confused, 
 
 ## 2 Corinthians 4:9
 
-Persecuted, but not abandoned; struck down, but not destroyed;
+Persecuted, but not forsaken; knocked down, but not destroyed;
 
 ## 2 Corinthians 4:10
 

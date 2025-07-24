@@ -2,7 +2,7 @@
 
 ## Job 12:1
 
-Then Job answered,
+Then Job responded,
 
 ## Job 12:2
 

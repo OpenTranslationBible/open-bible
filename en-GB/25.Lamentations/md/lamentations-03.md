@@ -200,7 +200,7 @@ My eyes will flow unceasingly, without pause,
 
 ## Lamentations 3:50
 
-Until the Lord looks down from heaven and sees.
+Until the Lord looks down and sees from heaven.
 
 ## Lamentations 3:51
 

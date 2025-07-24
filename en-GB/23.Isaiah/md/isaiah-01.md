@@ -74,7 +74,7 @@ Learn to do good; seek justice, correct the oppressor; defend the fatherless, pl
 
 ## Isaiah 1:19
 
-If you are willing and obedient, you shall eat the good of the land;
+If you are ready and comply, you shall enjoy the bounty of the land;
 
 ## Isaiah 1:20
 

@@ -14,7 +14,7 @@ As he travelled and approached Damascus, suddenly a light from heaven shone arou
 
 ## Acts 9:4
 
-He fell to the ground and heard a voice saying to him, “Saul, Saul, why are you persecuting me?”
+He fell to the ground and heard a voice calling to him, “Saul, Saul, why are you persecuting me?”
 
 ## Acts 9:5
 
@@ -64,7 +64,7 @@ But the Lord said to him, “Go, for he is a chosen instrument of mine to bring 
 
 ## Acts 9:16
 
-I will show him how much he must suffer for my name.”
+I will reveal to him how much he is to endure for my name.”
 
 ---
 

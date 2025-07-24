@@ -28,7 +28,7 @@ Within the fortress of Susa, the Jews killed and destroyed five hundred men.
 
 ## Esther 9:7
 
-They also killed Parshandatha, Dalphon, Aspatha,
+Parshandatha, Dalphon, Aspatha,
 
 ## Esther 9:8
 

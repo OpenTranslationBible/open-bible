@@ -71,7 +71,7 @@ But the one who hates his brother or sister is in the darkness and walks in the 
 
 ## 1 John 2:15
 
-Do not love the world or the things in the world. If anyone loves the world, the love of the Father is not in him.
+Do not love the world or the things in it. If anyone is in love with the world, the love of the Father is not in them.
 
 ## 1 John 2:16
 

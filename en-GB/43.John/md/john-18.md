@@ -100,7 +100,7 @@ Jesus replied, “If I have spoken wrongly, testify to the wrong; but if rightly
 
 ## John 18:24
 
-Then Annas sent Him bound to Caiaphas the high priest.
+Annas then sent Him, still bound, to Caiaphas the high priest.
 
 ---
 

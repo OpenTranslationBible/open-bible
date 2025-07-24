@@ -22,15 +22,15 @@ Here are the names of the men who will assist you: from Reuben, Elizur son of Sh
 
 ## Numbers 1:6
 
-from Simeon, Shelumiel son of Zurishaddai;
+from the tribe of Simeon, Shelumiel, son of Zurishaddai;
 
 ## Numbers 1:7
 
-from Judah, Nahshon son of Amminadab;
+from the tribe of Judah, Nahshon, son of Amminadab;
 
 ## Numbers 1:8
 
-from Issachar, Nethanel son of Zuar;
+from the tribe of Issachar, Nethanel, son of Zuar;
 
 ## Numbers 1:9
 
@@ -42,11 +42,11 @@ out of the descendants of Joseph: from Ephraim, Elishama the son of Ammihud; fro
 
 ## Numbers 1:11
 
-from Benjamin, Abidan son of Gideoni;
+from the tribe of Benjamin, Abidan, son of Gideoni;
 
 ## Numbers 1:12
 
-from Dan, Ahiezer son of Ammishaddai;
+from the tribe of Dan, Ahiezer, son of Ammishaddai;
 
 ## Numbers 1:13
 
@@ -54,11 +54,11 @@ from the tribe of Asher, Pagiel, son of Ochran;
 
 ## Numbers 1:14
 
-from Gad, Eliasaph son of Deuel;
+from the tribe of Gad, Eliasaph, son of Deuel;
 
 ## Numbers 1:15
 
-from Naphtali, Ahira son of Enan.
+from the tribe of Naphtali, Ahira, son of Enan.
 
 ## Numbers 1:16
 

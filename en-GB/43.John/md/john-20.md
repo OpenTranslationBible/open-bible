@@ -118,7 +118,7 @@ Then he said to Thomas, “Put your finger here; see my hands. Reach out your ha
 
 ## John 20:28
 
-Thomas said to him, “My Lord and my God!”
+Thomas cried out to him, “You are my Lord and my God!”
 
 ## John 20:29
 

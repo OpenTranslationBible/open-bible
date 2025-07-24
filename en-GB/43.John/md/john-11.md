@@ -20,7 +20,7 @@ When Jesus heard this, He said, “This illness will not lead to death. No, it i
 
 ## John 11:5
 
-Now Jesus loved Martha and her sister and Lazarus.
+Jesus had a deep affection for Martha, her sister, and Lazarus.
 
 ## John 11:6
 
@@ -96,7 +96,7 @@ But I know that even now God will grant You whatever You ask.”
 
 ## John 11:23
 
-Jesus said to her, “Your brother will rise again.”
+Jesus assured her, “Your brother will be raised.”
 
 ## John 11:24
 
@@ -196,7 +196,7 @@ As a result, many of the Jews who had come to visit Mary, and had seen what Jesu
 
 ## John 11:46
 
-But some of them went to the Pharisees and told them what Jesus had done.
+However, some of them went to the Pharisees and informed them about what Jesus had done.
 
 ---
 

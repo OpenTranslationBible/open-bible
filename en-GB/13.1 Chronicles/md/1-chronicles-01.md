@@ -2,15 +2,15 @@
 
 ## 1 Chronicles 1:1
 
-Adam, Seth, Enosh,
+Adam, Seth, and Enosh,
 
 ## 1 Chronicles 1:2
 
-Kenan, Mahalalel, Jared,
+Kenan, Mahalalel, and Jared,
 
 ## 1 Chronicles 1:3
 
-Enoch, Methuselah, Lamech,
+Enoch, Methuselah, and Lamech,
 
 ## 1 Chronicles 1:4
 
@@ -117,11 +117,11 @@ Joktan fathered
 
 ## 1 Chronicles 1:21
 
-Hadoram, Uzal, Diklah,
+Hadoram, Uzal, and Diklah,
 
 ## 1 Chronicles 1:22
 
-Ebal, Abimael, Sheba,
+Ebal, Abimael, and Sheba,
 
 ## 1 Chronicles 1:23
 
@@ -132,15 +132,15 @@ All these were the sons of Joktan.
 
 ## 1 Chronicles 1:24
 
-> Shem, Arpachshad, Shelah,
+> Shem, Arpachshad, and Shelah,
 
 ## 1 Chronicles 1:25
 
-> Eber, Peleg, Reu,
+> Eber, Peleg, and Reu,
 
 ## 1 Chronicles 1:26
 
-> Serug, Nahor, Terah,
+> Serug, Nahor, and Terah,
 
 ## 1 Chronicles 1:27
 
@@ -157,11 +157,11 @@ All these were the sons of Joktan.
 
 These are their generations:
 
-> The firstborn of Ishmael was Nebaioth, then Kedar, Adbeel, Mibsam,
+> The firstborn of Ishmael was Nebaioth, then Kedar, Adbeel, and Mibsam,
 
 ## 1 Chronicles 1:30
 
-Mishma, Dumah, Massa, Hadad, Tema,
+Mishma, Dumah, Massa, Hadad, and Tema,
 
 ## 1 Chronicles 1:31
 
@@ -256,7 +256,7 @@ The sons of Ezer were:
 
 ## 1 Chronicles 1:43
 
-Now these are the kings who reigned in the land of Edom before any king ruled over the sons of Israel:  
+These are the kings who reigned in the land of Edom before any king ruled over the sons of Israel:  
 Bela the son of Beor, and the name of his city was Dinhabah.
 
 ## 1 Chronicles 1:44
@@ -296,17 +296,17 @@ and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mez
 
 Then Hadad died.  
 And the chiefs of Edom were:  
-chief Timna, chief Aliah, chief Jetheth,
+chief Timna, chief Aliah, and chief Jetheth,
 
 ## 1 Chronicles 1:52
 
-chief Oholibamah, chief Elah, chief Pinon,
+chief Oholibamah, chief Elah, and chief Pinon,
 
 ## 1 Chronicles 1:53
 
-chief Kenaz, chief Teman, chief Mibzar,
+chief Kenaz, chief Teman, and chief Mibzar,
 
 ## 1 Chronicles 1:54
 
-chief Magdiel, chief Iram.  
+chief Magdiel, and chief Iram.  
 These were the chiefs of Edom.

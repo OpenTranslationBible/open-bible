@@ -7,11 +7,11 @@ To the church of God which is at Corinth with all the saints who are throughout 
 
 ## 2 Corinthians 1:2
 
-Grace to you and peace from God our Father and the Lord Jesus Christ.
+May you receive grace and peace from God our Father and the Lord Jesus Christ.
 
 ## 2 Corinthians 1:3
 
-Blessed be the God and Father of our Lord Jesus Christ, the Father of mercies and God of all comfort,
+Praise be to the God and Father of our Lord Jesus Christ, the merciful Father and source of all comfort,
 
 ## 2 Corinthians 1:4
 

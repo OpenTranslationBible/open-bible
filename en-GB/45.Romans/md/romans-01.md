@@ -6,7 +6,7 @@ Paul, a devoted follower of Christ Jesus, appointed as an apostle, designated fo
 
 ## Romans 1:2
 
-which he promised beforehand through his prophets in the holy Scriptures,
+which he had promised long ago through his prophets in the holy Scriptures,
 
 ## Romans 1:3
 
@@ -92,7 +92,7 @@ For although they knew God, they neither honoured him as God nor gave thanks to 
 
 ## Romans 1:22
 
-Claiming to be wise, they became fools
+Though they claimed wisdom, they became foolish
 
 ## Romans 1:23
 

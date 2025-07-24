@@ -42,7 +42,7 @@ They only asked us to remember the poor, which was the very thing I was eager to
 
 ## Galatians 2:11
 
-But when Cephas came to Antioch, I opposed him to his face because he stood condemned.
+However, when Cephas came to Antioch, I spoke to him openly, for he was clearly in the wrong.
 
 ## Galatians 2:12
 

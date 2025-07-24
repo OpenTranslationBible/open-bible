@@ -64,7 +64,7 @@ You are the salt of the earth. But if the salt loses its flavour, how can it be 
 
 ## Matthew 5:14
 
-You are the light of the world. A city set on a hill cannot be hidden.
+You are the light of the whole world. A city situated on a hill cannot be hidden.
 
 ## Matthew 5:15
 
@@ -172,7 +172,7 @@ Let your statement be, ‘Yes, yes’ or ‘No, no’; anything beyond this is f
 
 ## Matthew 5:38
 
-You have heard that it was said, ‘An eye for an eye, and a tooth for a tooth.’
+You have heard the teaching, ‘An eye for an eye, and a tooth for a tooth.’
 
 ## Matthew 5:39
 
@@ -198,7 +198,7 @@ You have heard that it was said, ‘Love your neighbour and hate your adversary.
 
 ## Matthew 5:44
 
-But I say to you, love your enemies and pray for those who persecute you,
+But I say to you, demonstrate love to your enemies and pray for those who persecute you,
 
 ## Matthew 5:45
 

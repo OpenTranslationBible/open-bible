@@ -62,7 +62,7 @@ The joy of our hearts has vanished; our dancing has turned into mourning.
 
 ## Lamentations 5:16
 
-The crown has fallen from our head. Woe to us, for we have sinned!
+The crown has tumbled from our head. Alas for us, for we have sinned!
 
 ## Lamentations 5:17
 

@@ -31,7 +31,7 @@ Whoever walks in integrity walks securely, but whoever takes crooked paths will 
 He who winks maliciously causes grief, and those who talk foolishly will come to ruin.
 
 ## Proverbs 10:11
-The mouth of the righteous is a fountain of life, but the mouth of the wicked conceals violence.
+The words of the righteous are a source of life, but the speech of the wicked conceals harm.
 
 ## Proverbs 10:12
 Hatred stirs up conflict, but love covers all wrongs.

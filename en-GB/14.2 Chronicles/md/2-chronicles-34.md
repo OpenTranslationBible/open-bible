@@ -112,7 +112,7 @@ And Shaphan read from it in the presence of the king.
 
 ## 2 Chronicles 34:19
 
-When the king heard the words of the Law, he tore his clothes.
+Upon hearing the words of the Law, the king tore his clothes.
 
 ## 2 Chronicles 34:20
 

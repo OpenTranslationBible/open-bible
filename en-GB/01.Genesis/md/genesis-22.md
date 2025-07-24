@@ -43,7 +43,7 @@ Abraham looked up and saw a ram caught by its horns in a thicket. He went and to
 Abraham named that place The Lord Will Provide. To this day it is said, “On the mountain of the Lord it will be provided.”
 
 ## Genesis 22:15
-The angel of the Lord called to Abraham from heaven a second time
+The angel of the Lord called to Abraham from heaven once more
 
 ## Genesis 22:16
 and said, “I have sworn by myself, declares the Lord, because you have done this and have not withheld your son, your only son,
@@ -61,7 +61,7 @@ Then Abraham returned to his young men, and they set off together for Beersheba,
 After these things, Abraham was informed, “Milcah has also borne children to your brother Nahor:
 
 ## Genesis 22:21
-Uz the firstborn, Buz his brother, Kemuel, the father of Aram,
+Uz, the firstborn, Buz his brother, Kemuel, who is the father of Aram,
 
 ## Genesis 22:22
 Chesed, Hazo, Pildash, Jidlaph, and Bethuel.”

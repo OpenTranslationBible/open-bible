@@ -98,4 +98,4 @@ All the Egyptians dug along the Nile for water to drink, because they could not 
 
 ## Exodus 7:25
 
-Seven days passed after the Lord had struck the Nile.
+A week passed after the Lord had struck the Nile.

@@ -178,7 +178,7 @@ Taking the five loaves and the two fish, and looking up to heaven, he blessed th
 
 ## Mark 6:42
 
-They all ate and were satisfied,
+They all ate and were fully nourished,
 
 ## Mark 6:43
 

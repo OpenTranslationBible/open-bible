@@ -14,7 +14,7 @@ They say, ‘Is it not time to build houses? This city is the pot, and we are th
 
 ## Ezekiel 11:4
 
-Therefore, prophesy against them; prophesy, son of man.”
+Thus, speak prophesies against them; prophecy, son of man.”
 
 ## Ezekiel 11:5
 

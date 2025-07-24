@@ -50,7 +50,7 @@ Then you will call upon Me, approach me and pray to Me, and I will listen to you
 
 ## Jeremiah 29:13
 
-You will seek Me and find Me when you search for Me with all your heart.
+You will seek Me, and you shall find Me, when you choose to search for Me with all your heart.
 
 ## Jeremiah 29:14
 
@@ -58,7 +58,7 @@ I will let Myself be found by you,” declares the Lord, “and I will restore y
 
 ## Jeremiah 29:15
 
-Because you have said, “The Lord has raised up prophets for us in Babylon”—
+Because you have indeed said: “The Lord has raised up prophets for us in Babylon”—
 
 ## Jeremiah 29:16
 
@@ -118,7 +118,7 @@ Zephaniah the priest, however, read this letter to Jeremiah the prophet.
 
 ## Jeremiah 29:30
 
-Then the word of the Lord came to Jeremiah, saying,
+Then the message from the Lord came to Jeremiah, saying,
 
 ## Jeremiah 29:31
 

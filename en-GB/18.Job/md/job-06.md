@@ -2,7 +2,7 @@
 
 ## Job 6:1
 
-Then Job answered,
+Then Job responded,
 
 ## Job 6:2
 

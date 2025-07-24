@@ -118,7 +118,7 @@ And King Rehoboam made haste to mount his chariot to flee to Jerusalem.
 
 ## 1 Kings 12:19
 
-So Israel has been in rebellion against the house of David to this day.
+Thus, Israel has continued to resist the house of David to this day.
 
 ---
 
@@ -137,7 +137,7 @@ to fight against the house of Israel to restore the kingdom to Rehoboam the son 
 
 ## 1 Kings 12:22
 
-But the word of God came to Shemaiah the man of God, saying,
+However, the Lord's message came to Shemaiah, the man of God, saying,
 
 ## 1 Kings 12:23
 

@@ -56,7 +56,7 @@ And he told them, “It is written: ‘My house will be called a house of prayer
 
 ## Matthew 21:14
 
-The blind and the lame came to him in the temple, and he healed them.
+Those who were blind and those who were lame approached him in the temple, and he healed them.
 
 ## Matthew 21:15
 

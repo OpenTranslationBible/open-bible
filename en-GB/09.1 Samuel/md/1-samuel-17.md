@@ -42,7 +42,7 @@ The Philistine said, “I defy the battle lines of Israel this day. Give me a ma
 
 ## 1 Samuel 17:11
 
-When Saul and all Israel heard these words of the Philistine, they were dismayed and greatly afraid.
+When Saul and all Israel heard the Philistine's words, they were filled with dismay and great fear.
 
 ---
 

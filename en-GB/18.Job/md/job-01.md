@@ -6,7 +6,7 @@ In the land of Uz, there was a man named Job; this man was blameless and upright
 
 ## Job 1:2
 
-He had seven sons and three daughters.
+Job was blessed with seven sons and three daughters.
 
 ## Job 1:3
 

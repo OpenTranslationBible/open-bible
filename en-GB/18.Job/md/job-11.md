@@ -2,7 +2,7 @@
 
 ## Job 11:1
 
-Then Zophar the Naamathite answered:
+Zophar the Naamathite responded:
 
 ## Job 11:2
 

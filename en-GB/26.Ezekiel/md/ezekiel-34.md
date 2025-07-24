@@ -26,7 +26,7 @@ My flock wandered over all the mountains and on every high hill; they were scatt
 
 ## Ezekiel 34:7
 
-Therefore, you shepherds, hear the word of the Lord:
+Thus, you shepherds, listen to the word of the Lord:
 
 ## Ezekiel 34:8
 
@@ -34,7 +34,7 @@ As surely as I live, declares the Sovereign Lord, because my flock has become pl
 
 ## Ezekiel 34:9
 
-therefore, you shepherds, hear the word of the Lord:
+So, you shepherds, pay attention to the word of the Lord:
 
 ## Ezekiel 34:10
 

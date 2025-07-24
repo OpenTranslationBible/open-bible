@@ -34,7 +34,7 @@ He leapt to his feet and began to walk, and went with them into the temple court
 
 ## Acts 3:9
 
-All the people saw him walking and praising God;
+Everyone witnessed him walking about, praising God;
 
 ## Acts 3:10
 

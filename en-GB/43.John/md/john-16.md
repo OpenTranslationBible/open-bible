@@ -36,7 +36,7 @@ And when he comes, he will convict the world concerning sin, righteousness, and 
 
 ## John 16:9
 
-concerning sin, because they do not believe in me;
+concerning sin, because they do not have faith in me;
 
 ## John 16:10
 
@@ -118,7 +118,7 @@ On that day, you will ask in my name. I am not saying that I will ask the Father
 
 ## John 16:27
 
-For the Father himself loves you, because you have loved me and have believed that I came from God.
+The Father loves you, because you have loved me and believe that I came from God.
 
 ## John 16:28
 

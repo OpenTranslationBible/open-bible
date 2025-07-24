@@ -40,7 +40,7 @@ He also told this parable to some who were confident in their own righteousness 
 
 ## Luke 18:10
 
-“Two men went up to the temple to pray, one a Pharisee and the other a tax collector.
+“Two men went up to the temple to pray, one being a Pharisee and the other was a tax collector.
 
 ## Luke 18:11
 
@@ -160,7 +160,7 @@ When he heard the crowd going by, he inquired what was happening.
 
 ## Luke 18:37
 
-They told him, “Jesus of Nazareth is passing by.”
+They informed him, “Jesus of Nazareth is passing by.”
 
 ## Luke 18:38
 

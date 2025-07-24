@@ -40,7 +40,7 @@ to whom he declared, “This is the resting place; let the weary find rest,” a
 So the word of the Lord to them will be: Order on order, order on order, line on line, line on line, a little here, a little there, so that they may go and fall backward, be broken, snared, and captured.
 
 ## Isaiah 28:14
-Therefore, hear the word of the Lord, you scoffers who rule this people in Jerusalem.
+Therefore, listen to the word of the Lord, you who scoff and rule this people in Jerusalem.
 
 ## Isaiah 28:15
 Because you have said, “We have made a covenant with death, and with Sheol we have made an agreement. When the overwhelming scourge passes through, it will not reach us, for we have made falsehood our refuge and concealed ourselves with deception.”

@@ -13,7 +13,7 @@ At the sound of your tumult, peoples flee; when you rise up, nations scatter.
 Your plunder is gathered as locusts gather; like a swarm of locusts, people rush upon it.
 
 ## Isaiah 33:5
-The Lord is exalted, for he dwells on high; he has filled Zion with justice and righteousness.
+The Lord is lifted high, for He resides above; He has filled Zion with justice and righteousness.
 
 ## Isaiah 33:6
 He will be the stability of your times, a wealth of salvation, wisdom, and knowledge; the fear of the Lord is the treasure.
@@ -64,7 +64,7 @@ Look upon Zion, the city of our festivals; your eyes will see Jerusalem, a peace
 There the Lord will be our majestic one, a place of broad rivers and streams, where no galley with oars will go, nor any mighty ship pass by.
 
 ## Isaiah 33:22
-For the Lord is our judge, the Lord is our lawgiver, the Lord is our king; he will save us.
+For the Lord is our judge, the Lord is our lawgiver, the Lord is our king; he will deliver us.
 
 ## Isaiah 33:23
 Your rigging hangs loose; it cannot hold the mast firm, nor spread the sail. Then an abundance of spoils will be divided, and even the lame will carry off plunder.

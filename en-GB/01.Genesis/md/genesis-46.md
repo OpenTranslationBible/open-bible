@@ -34,7 +34,7 @@ These are the names of the sons of Israel who went to Egypt, Jacob and his sons:
 
 ## Genesis 46:9
 
-Reuben's sons were Hanoch, Pallu, Hezron, and Carmi.
+Reuben had sons named Hanoch, Pallu, Hezron, and Carmi.
 
 ## Genesis 46:10
 
@@ -42,7 +42,7 @@ The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, whose mother 
 
 ## Genesis 46:11
 
-The sons of Levi: Gershon, Kohath, and Merari.
+Levi's sons were Gershon, Kohath, and Merari.
 
 ## Genesis 46:12
 
@@ -54,7 +54,7 @@ The sons of Issachar: Tola, Puvvah, Iob, and Shimron.
 
 ## Genesis 46:14
 
-The sons of Zebulun: Sered, Elon, and Jahleel.
+Zebulun's sons were Sered, Elon, and Jahleel.
 
 ## Genesis 46:15
 
@@ -74,7 +74,7 @@ These were the children born to Jacob by Zilpah, whom Laban had given to his dau
 
 ## Genesis 46:19
 
-The sons of Jacob’s wife Rachel: Joseph and Benjamin.
+Rachel, Jacob’s wife, bore him Joseph and Benjamin.
 
 ## Genesis 46:20
 
@@ -94,7 +94,7 @@ The son of Dan was called Hushim.
 
 ## Genesis 46:24
 
-The sons of Naphtali: Jahzeel, Guni, Jezer, and Shillem.
+Naphtali's sons were Jahzeel, Guni, Jezer, and Shillem.
 
 ## Genesis 46:25
 

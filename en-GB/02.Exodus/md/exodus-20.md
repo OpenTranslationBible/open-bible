@@ -10,7 +10,7 @@ And God declared all these words:
 
 ## Exodus 20:3
 
-“You shall have no other gods before me.
+“You shall not have any other gods before me.
 
 ## Exodus 20:4
 
@@ -30,7 +30,7 @@ but extending kindness to thousands who love me and follow my commandments.
 
 ## Exodus 20:8
 
-“Remember the Sabbath day, to keep it holy.
+“Observe the Sabbath day, to keep it holy.
 
 ## Exodus 20:9
 
@@ -50,7 +50,7 @@ For in six days the Lord created the heavens and the earth, the sea, and everyth
 
 ## Exodus 20:13
 
-“You shall not murder.
+“You shall not commit murder.
 
 ## Exodus 20:14
 

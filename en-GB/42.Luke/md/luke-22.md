@@ -244,7 +244,7 @@ A servant girl saw him seated there in the firelight. She looked at him intently
 
 ## Luke 22:57
 
-But he denied it, saying, “Woman, I do not know Him.”
+But he replied, “I do not know Him, woman.”
 
 ## Luke 22:58
 
@@ -294,7 +294,7 @@ and were I to inquire anything of you, you would not respond.
 
 ## Luke 22:69
 
-But from now on, the Son of Man will be seated at the right hand of the power of God.”
+However, from this time forward, the Son of Man will be seated at the right hand of God’s power.”
 
 ## Luke 22:70
 

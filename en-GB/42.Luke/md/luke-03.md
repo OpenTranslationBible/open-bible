@@ -29,7 +29,7 @@ As it is written in the book of the words of Isaiah the prophet:
 
 ## Luke 3:6
 
-> And all flesh shall see the salvation of God.’”
+> And all of mankind shall witness the salvation of God.’”
 
 ---
 

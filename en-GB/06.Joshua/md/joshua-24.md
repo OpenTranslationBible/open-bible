@@ -92,7 +92,7 @@ If you turn away from the Lord and serve other gods, He will bring disaster upon
 
 ## Joshua 24:21
 
-But the people said to Joshua, “No! We will serve the Lord.”
+But the people were adamant to Joshua, “We are determined to serve the Lord.”
 
 ## Joshua 24:22
 

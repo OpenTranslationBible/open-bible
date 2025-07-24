@@ -18,7 +18,7 @@ But Jesus, knowing their thoughts, said, “Why do you harbour evil thoughts in 
 
 ## Matthew 9:5
 
-Which is easier: to say, ‘Your sins are forgiven,’ or to say, ‘Get up and walk’?
+What is simpler: to declare, ‘Your sins are forgiven,’ or to say, Get up and walk’?
 
 ## Matthew 9:6
 
@@ -158,7 +158,7 @@ When he saw the crowds, he was moved with compassion for them, because they were
 
 ## Matthew 9:37
 
-Then he said to his disciples, “The harvest is plentiful, but the workers are few.
+Then he said to his disciples, “The harvest is abundant, but the workers are few.
 
 ## Matthew 9:38
 

@@ -26,7 +26,7 @@ For You have forsaken Your people, the house of Jacob, because they are filled w
 
 ## Isaiah 2:7
 
-Their land is filled with silver and gold, and there is no end to their treasures. Their land is filled with horses, and there is no end to their chariots.
+Their land is abundant with silver and gold, and their treasures seem endless. Their land is filled with horses, and their chariots are countless.
 
 ## Isaiah 2:8
 

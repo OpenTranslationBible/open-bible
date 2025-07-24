@@ -154,7 +154,7 @@ Even Elizabeth your relative is going to have a child in her old age, and she wh
 
 ## Luke 1:37
 
-For nothing will be impossible with God.”
+For with God, nothing is impossible.”
 
 ## Luke 1:38
 
@@ -194,7 +194,7 @@ Blessed is she who believed that the Lord would fulfil his promises to her!”
 
 ## Luke 1:46
 
-And Mary said, “My soul magnifies the Lord,
+And Mary said, “My soul magnifies and glorifies the Lord,
 
 ## Luke 1:47
 
@@ -321,7 +321,7 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:75
 
-> in holiness and righteousness before him all our days.
+> in holiness and righteousness before him, throughout all the days of our lives.
 
 ## Luke 1:76
 

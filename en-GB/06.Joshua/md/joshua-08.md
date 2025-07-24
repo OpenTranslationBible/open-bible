@@ -96,7 +96,7 @@ The others came out of the city against them, so they were caught in the middle,
 
 ## Joshua 8:23
 
-But they captured the king of Ai alive and brought him to Joshua.
+However, they took the king of Ai alive and brought him to Joshua.
 
 ## Joshua 8:24
 
@@ -124,7 +124,7 @@ He hanged the king of Ai on a tree until evening, and at sunset Joshua commanded
 
 ## Joshua 8:30
 
-Joshua then constructed an altar to the Lord, an alter to the God of Israel, built on Mount Ebal,
+Joshua then constructed an altar to the Lord, an altar to the God of Israel, built on Mount Ebal,
 
 ## Joshua 8:31
 

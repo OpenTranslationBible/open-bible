@@ -357,7 +357,7 @@ from kneeling on his knees with his hands spread toward heaven.
 
 ## 1 Kings 8:55
 
-And he stood and blessed all the assembly of Israel with a loud voice, saying,
+And he rose and blessed all the assembly of Israel with a loud voice, saying,
 
 ## 1 Kings 8:56
 
@@ -399,7 +399,7 @@ to walk in His statutes and to keep His commandments, as on this day.”
 
 ## 1 Kings 8:62
 
-Then the king and all Israel with him offered sacrifice before the Lord.
+Then the king, along with all Israel, offered sacrifices before the Lord.
 
 ## 1 Kings 8:63
 

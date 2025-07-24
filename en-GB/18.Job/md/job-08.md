@@ -2,7 +2,7 @@
 
 ## Job 8:1
 
-Then Bildad the Shuhite answered,
+Bildad the Shuhite responded,
 
 ## Job 8:2
 

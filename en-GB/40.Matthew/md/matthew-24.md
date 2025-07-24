@@ -54,7 +54,7 @@ Because of the increase of lawlessness, the love of most will grow cold,
 
 ## Matthew 24:13
 
-but the one who endures to the end will be saved.
+but whoever endures to the end will find salvation.
 
 ## Matthew 24:14
 
@@ -68,7 +68,7 @@ And this gospel of the kingdom will be proclaimed in the whole world as a testim
 
 ## Matthew 24:16
 
-then let those who are in Judea flee to the mountains.
+at that time those who are in Judea should escape to the mountains.
 
 ## Matthew 24:17
 
@@ -155,7 +155,7 @@ Truly I tell you, this generation will certainly not pass away until all these t
 
 ## Matthew 24:35
 
-Heaven and earth will pass away, but My words will never pass away.
+Heaven and earth will pass away, yet My words will never pass away.
 
 ---
 

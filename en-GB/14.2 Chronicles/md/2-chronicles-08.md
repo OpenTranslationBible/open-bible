@@ -26,7 +26,7 @@ He developed Tadmor in the wilderness and all the storage cities he had establis
 
 ## 2 Chronicles 8:5
 
-He also built upper Beth-horon and lower Beth-horon, fortified cities with walls, gates, and bars;
+He constructed both Upper Beth-horon and Lower Beth-horon, which were fortified cities with walls, gates, and bars;
 
 ---
 

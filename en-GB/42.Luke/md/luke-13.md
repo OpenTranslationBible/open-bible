@@ -10,7 +10,7 @@ Jesus replied, “Do you suppose that these Galileans were greater sinners than 
 
 ## Luke 13:3
 
-I tell you, no! But unless you repent, you will all likewise perish.
+I assure you, they were not! However, unless you repent, you will all meet a similar end.
 
 ## Luke 13:4
 
@@ -18,7 +18,7 @@ Or those eighteen who were killed when the tower in Siloam fell on them—do you
 
 ## Luke 13:5
 
-I tell you, no! But unless you repent, you will all likewise perish.”
+I assure you, they were not! However, unless you repent, you will all meet a similar end.”
 
 ---
 

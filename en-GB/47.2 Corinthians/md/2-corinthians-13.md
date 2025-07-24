@@ -30,7 +30,7 @@ Now we pray to God that you do nothing wrong; not so that we appear to have pass
 
 ## 2 Corinthians 13:8
 
-For we cannot do anything against the truth, but only for the truth.
+For we are unable to do anything against the truth, we only work for the truth.
 
 ## 2 Corinthians 13:9
 
@@ -46,12 +46,12 @@ Finally, brothers and sisters, rejoice, aim for restoration, be encouraged, be o
 
 ## 2 Corinthians 13:12
 
-Greet one another with a holy kiss.
+Greet one another warmly with a holy kiss.
 
 ## 2 Corinthians 13:13
 
-All the saints greet you.
+All the believers send their greetings to you.
 
 ## 2 Corinthians 13:14
 
-The grace of the Lord Jesus Christ, and the love of God, and the fellowship of the Holy Spirit, be with you all.
+May the grace of our Lord Jesus Christ, the love of God, and the fellowship of the Holy Spirit be with you all, evermore.

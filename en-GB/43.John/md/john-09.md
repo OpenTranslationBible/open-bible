@@ -6,7 +6,7 @@ As Jesus went along, He saw a man who had been blind from birth.
 
 ## John 9:2
 
-His disciples asked Him, “Rabbi, who sinned, this man or his parents, that he was born blind?”
+The disciples asked of Him, “Teacher, who was it that sinned, this man or his parents, that he was born blind?”
 
 ## John 9:3
 
@@ -18,7 +18,7 @@ We must carry out the tasks of Him who sent Me while it is still day. Night is a
 
 ## John 9:5
 
-While I am in the world, I am the light of the world.”
+As long as I am in the world, I am the light of the world.”
 
 ---
 
@@ -110,7 +110,7 @@ He replied, “Whether He is a sinner or not, I do not know. One thing I do know
 
 ## John 9:26
 
-Then they asked him, “What did He do to you? How did He open your eyes?”
+Then they questioned him further, “What did He do to you? How did He open your eyes?”
 
 ## John 9:27
 
@@ -138,7 +138,7 @@ It has never been heard that anyone opened the eyes of a man born blind.
 
 ## John 9:33
 
-If this man were not from God, He could do nothing.”
+If this man were not from God, He would be unable to do anything.”
 
 ## John 9:34
 

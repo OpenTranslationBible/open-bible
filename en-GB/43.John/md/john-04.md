@@ -78,7 +78,7 @@ You have had five husbands, and the man you now have is not your husband. What y
 
 ## John 4:19
 
-The woman said to Him, “Sir, I perceive that You are a prophet.
+Amazed, the woman said to Him, “Sir, I see that You are a prophet.
 
 ## John 4:20
 

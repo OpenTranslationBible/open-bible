@@ -64,4 +64,4 @@ Leave Babylon, flee from the Chaldeans! Announce this with shouts of joy and pro
 They did not suffer thirst when He guided them through the deserts; He made water flow for them from the rock; He split the rock, and water gushed out.
 
 ## Isaiah 48:22
-“There is no peace for the wicked,” says the Lord.
+“The Lord says, ‘For the wicked, there is no peace.’”

@@ -14,11 +14,11 @@ and Basemath, the daughter of Ishmael the sister of Nebaioth.
 
 ## Genesis 36:4
 
-Adah bore Eliphaz to Esau, Basemath bore Reuel.
+Adah gave birth to Eliphaz for Esau, while Basemath gave birth to Reuel.
 
 ## Genesis 36:5
 
-and Oholibamah bore Jeush, Jalam, and Korah. These are the sons of Esau who were born to him in the land of Canaan.
+and Oholibamah gave birth to Jeush, Jalam, and Korah. These are the sons of Esau, who were born to him in the land of Canaan.
 
 ## Genesis 36:6
 
@@ -42,7 +42,7 @@ Here are the names of Esau’s sons: Eliphaz, born to Esau’s wife Adah; and Re
 
 ## Genesis 36:11
 
-The sons of Eliphaz were Teman, Omar, Zepho, Gatam, and Kenaz.
+Eliphaz's sons were Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ## Genesis 36:12
 

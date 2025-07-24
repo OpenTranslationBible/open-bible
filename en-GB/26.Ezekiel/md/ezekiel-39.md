@@ -46,7 +46,7 @@ On that day I will provide Gog a burial place in Israel, in the valley of those 
 
 ## Ezekiel 39:12
 
-For seven months the house of Israel will be burying them in order to cleanse the land.
+For a period of seven months, the house of Israel will bury them to purify the land.
 
 ## Ezekiel 39:13
 

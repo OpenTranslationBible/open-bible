@@ -70,4 +70,4 @@ After that, we who are alive and remain will be caught up together with them in 
 
 ## 1 Thessalonians 4:18
 
-Therefore, comfort one another with these words.
+Therefore, encourage one another with these words.

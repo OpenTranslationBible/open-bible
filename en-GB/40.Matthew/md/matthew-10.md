@@ -10,7 +10,7 @@ These are the twelve apostles: first, Simon, known as Peter, and his brother And
 
 ## Matthew 10:3
 
-Philip and Bartholomew; Thomas and Matthew the tax collector; James, son of Alphaeus, and Thaddaeus;
+Philip and Bartholomew; Thomas and Matthew, who was a tax collector; James, son of Alphaeus, and Thaddaeus;
 
 ## Matthew 10:4
 

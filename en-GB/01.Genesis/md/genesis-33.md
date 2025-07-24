@@ -46,7 +46,7 @@ Jacob said, “My lord knows the children are frail, and I must care for the nur
 Esau offered, “Let me leave some of my men with you.” But Jacob said, “Why do that? Let me find favour in the sight of my lord.”
 
 ## Genesis 33:16
-So Esau returned that day on his way to Seir.
+Esau then departed that day, continuing on his journey to Seir.
 
 ## Genesis 33:17
 Jacob, however, travelled to Succoth, where he built a house and shelters for his livestock. Hence, the place is called Succoth.

@@ -56,13 +56,13 @@ And whatever you request in my name, I will do, so that the Father may be honour
 
 ## John 14:14
 
-If you ask me anything in my name, I will do it.
+If you ask me any request in my name, I will fulfil it.
 
 ---
 
 ## John 14:15
 
-“If you love me, you will keep my commandments.
+“If you love me, you will obey my commands.
 
 ## John 14:16
 

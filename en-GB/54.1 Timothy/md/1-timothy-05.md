@@ -58,7 +58,7 @@ Therefore, I desire younger widows to marry, have children, manage their househo
 
 ## 1 Timothy 5:15
 
-for some have already turned away to follow Satan.
+for some have already strayed and now follow Satan.
 
 ## 1 Timothy 5:16
 

@@ -18,7 +18,7 @@ Why should our father's name vanish from his family because he had no son? Grant
 
 ## Numbers 27:5
 
-Moses brought their case before the Lord.
+Moses presented their case to the Lord.
 
 ## Numbers 27:6
 
@@ -38,7 +38,7 @@ But if there is no daughter, allocate his inheritance to his brothers.
 
 ## Numbers 27:10
 
-If he has no brothers, give his inheritance to his father's brothers.
+If he has no brothers, assign his inheritance to his father's brothers.
 
 ## Numbers 27:11
 

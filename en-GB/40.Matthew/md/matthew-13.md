@@ -34,7 +34,7 @@ But others fell on good soil and yielded a crop, some a hundred, some sixty, and
 
 ## Matthew 13:9
 
-He who has ears, let him hear.”
+To he who has ears: let him listen.”
 
 ---
 
@@ -77,7 +77,7 @@ In them is fulfilled the prophecy of Isaiah:
 
 ## Matthew 13:16
 
-But blessed are your eyes, for they see; and your ears, for they hear.
+But blessed are your eyes, for they see; and blessed are your ears, for they hear.
 
 ## Matthew 13:17
 
@@ -205,7 +205,7 @@ Then the righteous will shine brightly like the sun in the kingdom of their Fath
 
 ## Matthew 13:45
 
-“Again, the kingdom of heaven is like a merchant in search of fine pearls.
+“Similarly, the kingdom of heaven is like a merchant seeking fine pearls.
 
 ## Matthew 13:46
 

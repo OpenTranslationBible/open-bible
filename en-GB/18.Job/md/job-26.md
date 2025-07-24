@@ -2,7 +2,7 @@
 
 ## Job 26:1
 
-Then Job answered,
+Job responded,
 
 ## Job 26:2
 

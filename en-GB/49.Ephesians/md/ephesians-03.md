@@ -54,11 +54,11 @@ Therefore I ask you not to be discouraged because of my sufferings for you, whic
 
 ## Ephesians 3:14
 
-For this reason I bow my knees before the Father,
+Because of this, I kneel before the Father,
 
 ## Ephesians 3:15
 
-from whom every family in heaven and on earth get's their name,
+from whom every family in heaven and on earth gets their name,
 
 ## Ephesians 3:16
 

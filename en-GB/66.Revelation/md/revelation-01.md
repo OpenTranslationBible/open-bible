@@ -42,7 +42,7 @@ I, John, your brother and companion in the tribulation and kingdom and patient e
 
 ## Revelation 1:10
 
-I was in the Spirit on the Lord’s Day, and I heard behind me a loud voice like a trumpet,
+I was in the Spirit on the Lord’s Day, and I heard a loud voice behind me, resonant like a trumpet,
 
 ## Revelation 1:11
 

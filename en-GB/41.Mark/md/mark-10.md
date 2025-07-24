@@ -22,19 +22,19 @@ Jesus said to them, “It was due to the hardness of your hearts that he wrote y
 
 ## Mark 10:6
 
-But from the beginning of creation, God made them male and female.
+Yet, from the beginning of creation, God created them as male and female.
 
 ## Mark 10:7
 
-For this reason, a man shall leave his father and mother and be joined to his wife,
+Because of this, a man shall leave his father and mother and be united with his wife,
 
 ## Mark 10:8
 
-and the two shall become one flesh; so they are no longer two, but one flesh.
+and the two shall become one flesh; thus they are no longer two, but one.
 
 ## Mark 10:9
 
-Therefore, what God has joined together, let no one separate.”
+Therefore, what God has set together, let no one divide.”
 
 ---
 
@@ -132,7 +132,7 @@ who will not receive a hundred times as much in this present age: homes, brother
 
 ## Mark 10:31
 
-But many who are first will be last, and the last first.”
+But many who are first will become last, and the last will become first.”
 
 ---
 
@@ -194,7 +194,7 @@ and whoever wants to be first must be the slave of all.
 
 ## Mark 10:45
 
-For even the Son of Man did not come to be served, but to serve, and to give His life as a ransom for many.”
+For even the Son of Man came not to be served, but to serve, and to offer His life as a ransom for many.”
 
 ---
 

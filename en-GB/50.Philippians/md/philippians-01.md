@@ -6,11 +6,11 @@ Paul and Timothy, bond-servants of Christ Jesus, To all God's holy people in Chr
 
 ## Philippians 1:2
 
-Grace and peace to you from God our Father and the Lord Jesus Christ.
+May you receive grace and peace from God our Father and the Lord Jesus Christ.
 
 ## Philippians 1:3
 
-I thank my God every time I remember you,
+I thank my God every time I think of you,
 
 ## Philippians 1:4
 
@@ -18,7 +18,7 @@ always offering prayer with joy in my every prayer for all of you,
 
 ## Philippians 1:5
 
-because of your partnership in the gospel from the first day until now,
+due to your partnership in the gospel from the very first day until now,
 
 ## Philippians 1:6
 
@@ -82,7 +82,7 @@ I eagerly expect and hope that I will never be ashamed, but will have sufficient
 
 ## Philippians 1:21
 
-For to me, to live is Christ and to die is gain.
+For to me, to live is Christ, and to die is gain.
 
 ## Philippians 1:22
 

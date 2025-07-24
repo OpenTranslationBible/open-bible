@@ -14,7 +14,7 @@ They gathered together against Moses and Aaron and said to them, “You have gon
 
 ## Numbers 16:4
 
-When Moses heard this, he fell on his face.
+Upon hearing this, Moses prostrated himself.
 
 ## Numbers 16:5
 

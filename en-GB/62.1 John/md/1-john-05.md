@@ -10,7 +10,7 @@ This is how we know that we love the children of God: when we love God and obey 
 
 ## 1 John 5:3
 
-For this is the love of God, that we keep His commandments; and His commandments are not burdensome.
+For this is how we demonstrate our love of God: by keeping His commandments; and His commandments are not burdensome.
 
 ## 1 John 5:4
 
@@ -26,7 +26,7 @@ This is the One who came by water and blood, Jesus Christ; not with the water on
 
 ## 1 John 5:7
 
-For there are three that testify:
+For there are three that bear witness:
 
 ## 1 John 5:8
 
@@ -82,4 +82,4 @@ And we are aware that the Son of God has come and has provided us with understan
 
 ## 1 John 5:21
 
-Little children, guard yourselves from idols.
+Dear children, keep yourselves from idols.

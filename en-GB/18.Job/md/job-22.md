@@ -2,7 +2,7 @@
 
 ## Job 22:1
 
-Then Eliphaz the Temanite answered,
+Now Eliphaz the Temanite spoke,
 
 ## Job 22:2
 

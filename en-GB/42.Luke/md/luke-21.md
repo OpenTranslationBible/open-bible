@@ -42,7 +42,7 @@ When you hear of wars and uprisings, do not be alarmed. These things must happen
 
 ## Luke 21:10
 
-Then he said to them, “Nation will rise against nation, and kingdom against kingdom.
+He continued, “Nations will rise against each other, and kingdoms will clash.
 
 ## Luke 21:11
 
@@ -142,7 +142,7 @@ Truly I tell you, this generation will certainly not pass away until all these t
 
 ## Luke 21:33
 
-Heaven and earth will pass away, but my words will never pass away.
+Though heaven and earth may pass away, my words will never pass away.
 
 ---
 

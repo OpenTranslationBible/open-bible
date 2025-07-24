@@ -14,7 +14,7 @@ And I will give authority to my two witnesses, and they shall prophesy for 1,260
 
 ## Revelation 11:4
 
-These are the two olive trees and the two lampstands that stand before the Lord of the earth.
+These are the two olive trees and the two lampstands positioned before the Lord of the earth.
 
 ## Revelation 11:5
 

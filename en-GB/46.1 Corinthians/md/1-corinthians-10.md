@@ -54,7 +54,7 @@ No temptation has overtaken you except what is common to man; and God is faithfu
 
 ## 1 Corinthians 10:14
 
-Therefore, my beloved, flee from idolatry.
+Thus, my dear friends, avoid idolatry.
 
 ## 1 Corinthians 10:15
 
@@ -82,7 +82,7 @@ No, but I say that what the Gentiles sacrifice, they sacrifice to demons and not
 
 ## 1 Corinthians 10:21
 
-You cannot drink the cup of the Lord and the cup of demons; you cannot partake of the table of the Lord and the table of demons.
+You cannot share in the cup of the Lord and the cup of demons; you cannot partake of the table of the Lord and the table of demons.
 
 ## 1 Corinthians 10:22
 
@@ -102,7 +102,7 @@ Consume whatever is sold in the meat market without raising questions of conscie
 
 ## 1 Corinthians 10:26
 
-For the earth is the Lord’s, and everything in it.
+For the earth and everything in it belong to the Lord.
 
 ## 1 Corinthians 10:27
 

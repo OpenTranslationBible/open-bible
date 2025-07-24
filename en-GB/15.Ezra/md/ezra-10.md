@@ -82,15 +82,15 @@ They pledged to send away their wives, and for their guilt, they each presented 
 
 ## Ezra 10:20
 
-From the descendants of Immer: Hanani and Zebadiah.
+From the line of Immer: Hanani and Zebadiah.
 
 ## Ezra 10:21
 
-From the descendants of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
+From the line of Harim: Maaseiah, Elijah, Shemaiah, Jehiel, and Uzziah.
 
 ## Ezra 10:22
 
-From the descendants of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
+From the line of Pashhur: Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad, and Elasah.
 
 ## Ezra 10:23
 
@@ -102,19 +102,19 @@ Eliashib was among those who served in the musical roles. Shallum, Telem, and Ur
 
 ## Ezra 10:25
 
-And among the other Israelites: From the lineage of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
+And among the other Israelites: From the line of Parosh: Ramiah, Izziah, Malchijah, Mijamin, Eleazar, Malchijah, and Benaiah.
 
 ## Ezra 10:26
 
-From the lineage of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
+From the line of Elam: Mattaniah, Zechariah, Jehiel, Abdi, Jeremoth, and Elijah.
 
 ## Ezra 10:27
 
-From the lineage of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
+From the line of Zattu: Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, and Aziza.
 
 ## Ezra 10:28
 
-From the lineage of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
+From the line of Bebai: Jehohanan, Hananiah, Zabbai, and Athlai.
 
 ## Ezra 10:29
 
@@ -126,19 +126,19 @@ From Pahath-moab's family: Adna, Kelal, Benaiah, Maaseiah, Mattaniah, Bezalel, B
 
 ## Ezra 10:31
 
-From the descendants of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
+From the line of Harim: Eliezer, Isshijah, Malchijah, Shemaiah, Shimeon,
 
 ## Ezra 10:32
 
-Benjamin, Malluch, and Shemariah.
+Including Benjamin, Malluch, and Shemariah.
 
 ## Ezra 10:33
 
-From the descendants of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
+From the line of Hashum: Mattenai, Mattattah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
 
 ## Ezra 10:34
 
-From the descendants of Bani: Maadai, Amram, Uel,
+From the line of Bani: Maadai, Amram, Uel,
 
 ## Ezra 10:35
 
@@ -154,7 +154,7 @@ Mattaniah, Mattenai, and Jaasu.
 
 ## Ezra 10:38
 
-From the descendants of Binnui: Shimei,
+From the line of Binnui: Shimei,
 
 ## Ezra 10:39
 
@@ -174,7 +174,7 @@ Shallum, Amariah, and Joseph.
 
 ## Ezra 10:43
 
-From the descendants of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.
+From the line of Nebo: Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, and Benaiah.
 
 ## Ezra 10:44
 

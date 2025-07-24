@@ -2,7 +2,7 @@
 
 ## Luke 19:1
 
-Jesus entered Jericho and was passing through.
+Jesus came into Jericho and continued on his way through the city.
 
 ## Luke 19:2
 
@@ -38,7 +38,7 @@ Jesus responded, “Today, salvation has come to this house, for he also is a so
 
 ## Luke 19:10
 
-For the Son of Man came to seek and to save the lost.”
+For the Son of Man came to seek and save those who are lost.”
 
 ---
 

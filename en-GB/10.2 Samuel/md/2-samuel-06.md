@@ -130,4 +130,4 @@ but with the female slaves of whom you spoke, with them I shall be held in honou
 
 ## 2 Samuel 6:23
 
-And Michal the daughter of Saul had no child to the day of her death.
+And Michal, the daughter of Saul, remained childless throughout her life.

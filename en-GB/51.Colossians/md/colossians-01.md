@@ -1,7 +1,7 @@
 # Colossians Chapter 1
 
 ## Colossians 1:1
-Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,
+Paul, a messenger of Christ Jesus through God's will, along with Timothy our brother,
 
 ## Colossians 1:2
 To the holy and faithful brothers and sisters in Christ at Colossae: Grace and peace to you from God our Father.
@@ -40,7 +40,7 @@ giving thanks to the Father, who has qualified you to share in the inheritance o
 For he has rescued us from the dominion of darkness and transferred us into the kingdom of the Son he loves,
 
 ## Colossians 1:14
-in whom we have redemption, the forgiveness of sins.
+in whom we have redemption and forgiveness.
 
 ## Colossians 1:15
 The Son reflects the invisible God, the firstborn over all creation.
@@ -49,7 +49,7 @@ The Son reflects the invisible God, the firstborn over all creation.
 For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or dominions or rulers or authorities; all things have been created through him and for him.
 
 ## Colossians 1:17
-He is before all things, and in him all things hold together.
+He existed before all things, and by him all things are held together.
 
 ## Colossians 1:18
 And he is the head of the body, the church; he is the beginning and the firstborn from the dead, so that he might have supremacy in everything.

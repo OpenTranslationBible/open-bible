@@ -30,7 +30,7 @@ So they replied that they did not know where it was from.
 
 ## Luke 20:8
 
-And Jesus said to them, “Neither will I tell you by what authority I do these things.”
+Jesus replied, “Then neither will I tell you by what authority I do these things.”
 
 ---
 
@@ -60,7 +60,7 @@ But when the tenants saw him, they conferred among themselves, saying, ‘This i
 
 ## Luke 20:15
 
-So they threw him out of the vineyard and killed him. What then will the owner of the vineyard do to them?
+So they cast him out of the vineyard and killed him. What, then, will the owner of the vineyard do to them?
 
 ## Luke 20:16
 
@@ -93,7 +93,7 @@ The spies questioned Him, saying, “Teacher, we know that You speak and teach r
 
 ## Luke 20:22
 
-Is it lawful for us to pay taxes to Caesar, or not?”
+Is it right for us to pay taxes to Caesar, or not?”
 
 ## Luke 20:23
 
@@ -135,7 +135,7 @@ and then the third married her, and died and so it was with all the other brothe
 
 ## Luke 20:32
 
-Finally, the woman also died.
+Lastly, the woman, she also died.
 
 ## Luke 20:33
 
@@ -181,7 +181,7 @@ David himself states in the Book of Psalms: ‘The Lord said to my Lord: “Sit 
 
 ## Luke 20:43
 
-until I make Your enemies a footstool for Your feet.”’
+until I make Your enemies a footstool beneath Your feet.”’
 
 ## Luke 20:44
 

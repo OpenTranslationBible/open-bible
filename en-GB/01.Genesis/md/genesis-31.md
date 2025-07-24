@@ -22,7 +22,7 @@ He said to them, “I see that your father’s attitude toward me is not as it w
 
 ## Genesis 31:6
 
-You know that I have served your father with all my strength.
+You saw that I served your father dutifully with all my strength.
 
 ## Genesis 31:7
 
@@ -178,7 +178,7 @@ Come now, let us make a covenant, you and I, and let it serve as a witness betwe
 
 ## Genesis 31:45
 
-So Jacob took a stone and set it up as a pillar.
+So Jacob took a stone and stood it up as a pillar.
 
 ## Genesis 31:46
 

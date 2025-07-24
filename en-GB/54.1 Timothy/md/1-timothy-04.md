@@ -42,7 +42,7 @@ For it is for this we labour and strive, because we have set our hope on the liv
 
 ## 1 Timothy 4:11
 
-Command and teach these things.
+Instruct and teach others in these things.
 
 ## 1 Timothy 4:12
 

@@ -30,7 +30,7 @@ You shall not uncover the nakedness of your father, which is the nakedness of yo
 
 ## Leviticus 18:8
 
-You shall not uncover the nakedness of your father’s wife; it is your father’s nakedness.
+You shall not help undress your father's wife, it is as if you made your father naked.
 
 ## Leviticus 18:9
 
@@ -58,11 +58,11 @@ You shall not uncover the nakedness of your father’s brother’s wife; she is 
 
 ## Leviticus 18:15
 
-You shall not uncover the nakedness of your daughter-in-law. She is your son’s wife; you shall not uncover her nakedness.
+You shall not help undress your daughter-in-law, as she is your son's wife.
 
 ## Leviticus 18:16
 
-You shall not uncover the nakedness of your brother’s wife; it is your brother’s nakedness.
+You shall not help undress your brother's wife, as it would dishonour your brother.
 
 ## Leviticus 18:17
 

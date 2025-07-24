@@ -10,11 +10,11 @@ A time to be born and a time to pass away, a time to plant and a time to uproot 
 
 ## Ecclesiastes 3:3
 
-A time to kill and a time to heal, a time to tear down and a time to build up,
+A time to take life and a time to heal, a time to dismantle and a time to construct,
 
 ## Ecclesiastes 3:4
 
-A time to weep and a time to laugh, a time to mourn and a time to dance,
+A time to shed tears and a time to laugh, a time to grieve and a time to dance,
 
 ## Ecclesiastes 3:5
 
@@ -30,7 +30,7 @@ A time to rip off and a time to repair, a time to be hold your tongue and a time
 
 ## Ecclesiastes 3:8
 
-A time to love and a time to hate, a time for war and a time for peace.
+A time to love and a time to dislike, a time for conflict and a time for peace.
 
 ## Ecclesiastes 3:9
 

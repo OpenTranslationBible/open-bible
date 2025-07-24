@@ -16,7 +16,7 @@ I will make your descendants as numerous as the stars in the sky and will give t
 because Abraham obeyed me and kept my commandments, my statutes, and my laws.”
 
 ## Genesis 26:6
-So Isaac stayed in Gerar.
+Thus, Isaac remained in Gerar.
 
 ## Genesis 26:7
 When the men of the place asked about his wife, he said, “She is my sister,” for he feared to say, “She is my wife,” thinking, “The men of this place might kill me because of Rebekah, for she is beautiful.”
@@ -67,7 +67,7 @@ Then they dug another well, and they quarrelled over that one also; so he named 
 He moved on from there and dug another well, and they did not quarrel over it. He named it Rehoboth, saying, “Now the Lord has given us room, and we will flourish in the land.”
 
 ## Genesis 26:23
-From there he went up to Beersheba.
+From that place, he travelled to Beersheba.
 
 ## Genesis 26:24
 That night the Lord appeared to him and said, “I am the God of your father Abraham. Do not be afraid, for I am with you; I will bless you and multiply your descendants for the sake of my servant Abraham.”

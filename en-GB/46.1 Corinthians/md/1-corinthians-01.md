@@ -10,7 +10,7 @@ To the church of God which is in Corinth, to those who have been sanctified in C
 
 ## 1 Corinthians 1:3
 
-Grace to you and peace from God our Father and the Lord Jesus Christ.
+May you receive grace and peace from God our Father and the Lord Jesus Christ.
 
 ## 1 Corinthians 1:4
 

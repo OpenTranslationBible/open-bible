@@ -18,11 +18,11 @@ If you seek it as silver and search for it as for hidden treasure,
 
 ## Proverbs 2:5
 
-Then you will understand the fear of the Lord and discover the knowledge of God.
+Then you will grasp what it means to revere the Lord and find the knowledge of God.
 
 ## Proverbs 2:6
 
-For the Lord gives wisdom; from His mouth come knowledge and understanding.
+For the Lord grants wisdom; from His mouth flow knowledge and understanding.
 
 ## Proverbs 2:7
 

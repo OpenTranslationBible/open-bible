@@ -34,7 +34,7 @@ But Hamor spoke with them, saying, “The soul of my son Shechem longs for your 
 
 ## Genesis 34:9
 
-Intermarry with us; give your daughters to us and take our daughters for yourselves.
+Form alliances in marriage with us; offer your daughters to us and accept ours for yourselves.
 
 ## Genesis 34:10
 

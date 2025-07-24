@@ -62,7 +62,7 @@ The Lord blessed the latter part of Job’s life more than the beginning. He had
 
 ## Job 42:13
 
-He also had seven sons and three daughters.
+He was blessed with seven sons and three daughters.
 
 ## Job 42:14
 

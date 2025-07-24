@@ -118,7 +118,7 @@ Shall I not punish them for these things?” declares the Lord. “Shall I not a
 
 ## Jeremiah 5:30
 
-“An appalling and horrible thing has happened in the land:
+“A shocking and dreadful thing has occurred in the land:
 
 ## Jeremiah 5:31
 

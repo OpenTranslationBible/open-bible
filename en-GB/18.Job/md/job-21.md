@@ -2,7 +2,7 @@
 
 ## Job 21:1
 
-Then Job answered:
+Job responded:
 
 ## Job 21:2
 

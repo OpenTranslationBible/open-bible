@@ -6,7 +6,7 @@ When Jesus had finished these words, he departed from Galilee and went into the 
 
 ## Matthew 19:2
 
-Large crowds followed him, and he healed them there.
+A great number of people followed him, and he gave healing to them there.
 
 ---
 

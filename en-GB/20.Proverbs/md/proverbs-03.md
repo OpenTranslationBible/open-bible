@@ -22,7 +22,7 @@ Place your trust fully in the Lord and avoid depending solely on your own unders
 
 ## Proverbs 3:6
 
-In all your ways, acknowledge Him, and He will make your paths straight.
+In all your ways, acknowledge Him, and He will make your pathways straight.
 
 ## Proverbs 3:7
 
@@ -112,7 +112,7 @@ Do not fear sudden disaster, nor the ruin of the wicked when it comes;
 
 ## Proverbs 3:26
 
-for the Lord will be your confidence and will keep your foot from being caught.
+for the Lord will be your confidence and will prevent your foot from being ensnared.
 
 ---
 

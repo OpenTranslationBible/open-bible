@@ -64,7 +64,7 @@ But He replied, “Man, who appointed Me a judge or an arbitrator over you?”
 
 ## Luke 12:15
 
-Then He said to them, “Beware and be on your guard against every form of greed; for life does not consist in an abundance of possessions.”
+Then He said to them, “Beware and be on your guard against every form of greed; for life is not about collecting an abundance of possessions.”
 
 ## Luke 12:16
 
@@ -98,7 +98,7 @@ Then He said to His disciples, “For this reason I tell you, do not worry about
 
 ## Luke 12:23
 
-For life is more than food, and the body more than clothing.
+For life is not merely about food, nor the body solely about clothing.
 
 ## Luke 12:24
 
@@ -142,7 +142,7 @@ Sell your possessions and give to charity; provide purses for yourselves that do
 
 ## Luke 12:34
 
-For where your treasure is, there your heart will be also.
+For wherever your treasure is, there your heart will be also.
 
 ---
 
@@ -224,7 +224,7 @@ From now on there will be five in one household divided, three against two and t
 
 ## Luke 12:53
 
-They will be divided, father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.”
+They will be set against each other: father against son and son against father, mother against daughter and daughter against mother, mother-in-law against daughter-in-law and daughter-in-law against mother-in-law.”
 
 ---
 

@@ -132,7 +132,7 @@ I observed and took it to heart; I looked and received instruction.
 
 ## Proverbs 24:33
 
-A little sleep, a little slumber, a little folding of the hands to rest—
+A bit of sleep, a bit of slumber, a slight folding of the hands to rest—
 
 ## Proverbs 24:34
 

@@ -214,15 +214,15 @@ His daughter was Sheerah,
 
 Rephah was his son,
 
-> along with Resheph, Telah his son, Tahan his son,
+> along with Resheph, Telah who fathered, Tahan who fathered,
 
 ## 1 Chronicles 7:26
 
-> Ladan his son, Ammihud his son, Elishama his son,
+> Ladan who fathered, Ammihud who fathered, Elishama who fathered,
 
 ## 1 Chronicles 7:27
 
-> Nun his son, and Joshua his son.
+> Nun who fathered Joshua.
 
 ---
 

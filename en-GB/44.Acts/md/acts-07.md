@@ -202,7 +202,7 @@ who found favour with God and asked that he might provide a dwelling place for t
 
 ## Acts 7:47
 
-But it was Solomon who built a house for Him.
+Yet it was Solomon who built a house for Him.
 
 ## Acts 7:48
 
@@ -217,7 +217,7 @@ Nevertheless, the Most High does not reside in structures made by human hands. A
 
 ## Acts 7:50
 
-> Did not My hand make all these things?’
+> Was it not My hand that made all these things?’
 
 ---
 

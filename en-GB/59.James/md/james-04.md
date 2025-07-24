@@ -33,7 +33,7 @@ So, place yourselves under God's authority. Stand against the devil, and he will
 
 ## James 4:8
 
-Draw near to God and He will draw near to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
+Draw close to God, and He will draw close to you. Cleanse your hands, you sinners, and purify your hearts, you double-minded.
 
 ## James 4:9
 
@@ -41,7 +41,7 @@ Be afflicted, mourn, and weep. Let your laughter be turned to mourning and your 
 
 ## James 4:10
 
-Humble yourselves before the Lord, and He will exalt you.
+Humble yourselves in the presence of the Lord, and He will lift you up.
 
 ## James 4:11
 

@@ -100,7 +100,7 @@ They washed whenever they entered the tent of meeting or approached the altar, a
 Then Moses set up the courtyard around the tabernacle and altar, and hung the curtain at the entrance to the courtyard. Thus Moses completed the work.
 
 ## Exodus 40:34
-Then the cloud covered the tent of meeting, and the glory of the Lord filled the tabernacle.
+Then the cloud enveloped the tent of meeting, and the glory of the Lord filled the tabernacle.
 
 ## Exodus 40:35
 Moses was unable to enter the tent of meeting because the cloud had settled upon it, and the glory of the Lord filled the tabernacle.

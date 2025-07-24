@@ -50,7 +50,7 @@ and from the middle to the third.
 
 ## 1 Kings 6:9
 
-So he built the house and finished it;  
+Thus, he constructed the house and completed it;  
 and he covered the house with beams and planks of cedar.
 
 ## 1 Kings 6:10
@@ -83,7 +83,7 @@ and will not abandon My people Israel.”
 
 ## 1 Kings 6:14
 
-So Solomon built the house and finished it.
+Thus, Solomon constructed the house and completed it.
 
 ## 1 Kings 6:15
 
@@ -168,7 +168,7 @@ and their wings were touching one another in the centre of the house.
 
 ## 1 Kings 6:28
 
-He also overlaid the cherubim with gold.
+He also covered the cherubim with gold.
 
 ---
 

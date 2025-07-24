@@ -2,7 +2,7 @@
 
 ## Proverbs 1:1
 
-The proverbs of Solomon, son of David, king of Israel:
+The wise sayings of Solomon, son of David, ruler of Israel:
 
 ## Proverbs 1:2
 
@@ -40,7 +40,7 @@ For they are like a beautiful crown for your head and ornaments for your neck.
 
 ## Proverbs 1:10
 
-My son, if sinners entice you, do not consent.
+My son, if sinners try to lure you, do not follow.
 
 ## Proverbs 1:11
 
@@ -140,7 +140,7 @@ They will call upon me, but I will not respond; they will seek me earnestly but 
 
 ## Proverbs 1:29
 
-Because they hated knowledge and did not choose the fear of the Lord.
+Because they rejected wisdom and did not choose to fear the Lord.
 
 ## Proverbs 1:30
 

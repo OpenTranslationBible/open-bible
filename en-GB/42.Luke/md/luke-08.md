@@ -49,7 +49,7 @@ He replied, “To you it has been given to know the secrets of the kingdom of Go
 
 ## Luke 8:11
 
-“This is the meaning of the parable: The seed is the word of God.
+“The parable's meaning is this: The seed represents the word of God.
 
 ## Luke 8:12
 

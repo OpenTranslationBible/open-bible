@@ -61,4 +61,4 @@ bringing forth praise on their lips. Peace, peace, to those far and near,” say
 But the wicked are like the tossing sea, which cannot rest, whose waters cast up mire and mud.
 
 ## Isaiah 57:21
-“There is no peace,” says my God, “for the wicked.”
+“My God declares, ‘There is no peace for the wicked.’”

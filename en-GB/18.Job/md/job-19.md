@@ -2,7 +2,7 @@
 
 ## Job 19:1
 
-Then Job answered,
+Then Job responded,
 
 ## Job 19:2
 

@@ -80,7 +80,7 @@ Listen to the cry of my people from a distant land: “Is the Lord not in Zion? 
 
 ## Jeremiah 8:20
 
-“The harvest is past, the summer is ended, and we are not saved.”
+“The harvest season has passed, the summer is not over, and yet we have not been saved.”
 
 ## Jeremiah 8:21
 

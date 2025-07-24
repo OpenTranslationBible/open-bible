@@ -68,11 +68,11 @@ I do not ask that You remove them from the world, but that You protect them from
 
 ## John 17:16
 
-They are not of the world, just as I am not of the world.
+They do not belong to the world, just as I do not belong to the world.
 
 ## John 17:17
 
-Sanctify them by the truth; Your word is truth.
+Make them holy through the truth; Your word is truth.
 
 ## John 17:18
 

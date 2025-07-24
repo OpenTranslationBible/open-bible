@@ -7,7 +7,7 @@ Now it happened after many days that the word of the Lord came to Elijah in the 
 
 ## 1 Kings 18:2
 
-So Elijah went to show himself to Ahab. Now the famine was severe in Samaria.
+Thus, Elijah set out to present himself to Ahab. At that time, the famine was intense in Samaria.
 
 ## 1 Kings 18:3
 

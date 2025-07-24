@@ -117,4 +117,4 @@ Then King Rehoboam sent Hadoram, who was in charge of the forced labour, and the
 
 ## 2 Chronicles 10:19
 
-So Israel has been in rebellion against the house of David to this day.
+Thus, Israel has remained in opposition to the house of David up to the present time.

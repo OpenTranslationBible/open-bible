@@ -83,7 +83,7 @@ As Jesus walked beside the Sea of Galilee, he saw Simon and his brother Andrew c
 
 ## Mark 1:18
 
-Immediately they left their nets and followed him.
+Without hesitation, they immediately left their nets and followed him.
 
 ## Mark 1:19
 

@@ -42,7 +42,7 @@ With the truth of Christ within me, I declare that this boasting of mine will no
 
 ## 2 Corinthians 11:11
 
-Why? Because I do not love you? God knows I do!
+Is it because I do not love you? God knows the depth of my love for you.
 
 ## 2 Corinthians 11:12
 
@@ -86,7 +86,7 @@ To my regret, I must admit that we have been weak by comparison. But in whatever
 
 ## 2 Corinthians 11:22
 
-Are they Hebrews? So am I. Are they Israelites? So am I. Are they descendants of Abraham? So am I.
+Are they Hebrews? I am as well. Are they Israelites? I am as well. Are they descendants of Abraham? I am as well.
 
 ## 2 Corinthians 11:23
 

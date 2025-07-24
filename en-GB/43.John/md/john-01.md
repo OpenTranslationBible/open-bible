@@ -72,7 +72,7 @@ Out of his fullness we have all received grace upon grace.
 
 ## John 1:17
 
-For the law was given through Moses; grace and truth came through Jesus Christ.
+For just as the law was delivered through Moses; grace and truth were delivered through Jesus Christ.
 
 ## John 1:18
 

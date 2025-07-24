@@ -6,7 +6,7 @@
 
 ## Matthew 25:2
 
-Five of them were foolish, and five were wise.
+Five of them acted unwisely, and five acted wisely.
 
 ## Matthew 25:3
 
@@ -142,7 +142,7 @@ Then the King will say to those on his right, ‘Come, you who are blessed by my
 
 ## Matthew 25:35
 
-For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you invited me in,
+For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you welcomed me,
 
 ## Matthew 25:36
 
@@ -154,11 +154,11 @@ Then the righteous will answer him, ‘Lord, when did we see you hungry and feed
 
 ## Matthew 25:38
 
-When did we see you a stranger and invite you in, or lacking clothes and provide for you?
+When did we see you a stranger and welcome you, or lacking clothes and provide for you?
 
 ## Matthew 25:39
 
-When did we see you sick or in prison and visit you?’
+When did we see you unwell or in prison and visit you?’
 
 ## Matthew 25:40
 
@@ -166,7 +166,7 @@ The King will reply, ‘Truly I say to you, whatever you did for one of the leas
 
 ## Matthew 25:41
 
-Then he will say to those on his left, ‘Leave me, you who are accursed, and enter the everlasting fire prepared for the devil and his angels.
+Then he will say to those on his left, ‘Depart from me, you who are accursed, and enter the everlasting fire prepared for the devil and his angels.
 
 ## Matthew 25:42
 
@@ -174,7 +174,7 @@ For I was hungry and you gave me nothing to eat, I was thirsty and you gave me n
 
 ## Matthew 25:43
 
-I was a stranger and you did not invite me in, I needed clothes and you did not provide for me, I was sick and in prison and you did not care for me.’
+I was a stranger and you did not welcome me, I needed clothes and you did not provide for me, I was sick and in prison and you did not care for me.’
 
 ## Matthew 25:44
 

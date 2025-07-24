@@ -70,7 +70,7 @@ Truly, truly I say to you, no servant is greater than his master, nor is a messe
 
 ## John 13:17
 
-If you know these things, you are blessed if you do them.
+If you know these things, you will be blessed when you do them.
 
 ---
 

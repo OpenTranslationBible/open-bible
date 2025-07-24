@@ -10,7 +10,7 @@ down the middle of the city's street. On either side of the river was the tree o
 There will no longer be any curse. The throne of God and of the Lamb will be in the city, and His servants will serve Him.
 
 ## Revelation 22:4
-They will see His face, and His name will be on their foreheads.
+They will behold His face, and His name will be inscribed on their foreheads.
 
 ## Revelation 22:5
 There will no longer be any night. They will not need the light of a lamp or the light of the sun, for the Lord God will illuminate them. And they will reign for ever and ever.
@@ -61,4 +61,4 @@ And if anyone removes from the words of the book of this prophecy, God will remo
 The one who bears witness to these things says, “Yes, I am coming soon.” Amen. Come, Lord Jesus.
 
 ## Revelation 22:21
-The grace of the Lord Jesus be with all. Amen.
+May the grace of the Lord Jesus be with all. Amen.

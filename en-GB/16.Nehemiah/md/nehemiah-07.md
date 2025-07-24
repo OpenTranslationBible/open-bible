@@ -106,11 +106,11 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:26
 
-> the men of Bethlehem and Netophah, 188;
+> the people of Bethlehem and Netophah, 188;
 
 ## Nehemiah 7:27
 
-> the men of Anathoth, 128;
+> the people of Anathoth, 128;
 
 ## Nehemiah 7:28
 
@@ -122,19 +122,19 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:30
 
-> the men of Ramah and Geba, 621;
+> the people of Ramah and Geba, 621;
 
 ## Nehemiah 7:31
 
-> the men of Michmas, 122;
+> the people of Michmas, 122;
 
 ## Nehemiah 7:32
 
-> the men of Bethel and Ai, 123;
+> the people of Bethel and Ai, 123;
 
 ## Nehemiah 7:33
 
-> the men of the other Nebo, 52;
+> the people of the other Nebo, 52;
 
 ## Nehemiah 7:34
 
@@ -146,11 +146,11 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:36
 
-> the men of Jericho, numbering 345;
+> the people of Jericho, numbering 345;
 
 ## Nehemiah 7:37
 
-> the men of Lod, Hadid, and Ono, 721;
+> the people of Lod, Hadid, and Ono, 721;
 
 ## Nehemiah 7:38
 
@@ -208,57 +208,57 @@ the line of Ziha, Hasupha, Tabbaoth,
 
 ## Nehemiah 7:47
 
-> Keros, Sia, Padon,
+> the line of Keros, Sia, and Padon,
 
 ## Nehemiah 7:48
 
-> Lebana, Hagaba, Shalmai,
+> the line of Lebana, Hagaba, and Shalmai,
 
 ## Nehemiah 7:49
 
-> Hanan, Giddel, Gahar,
+> the line of Hanan, Giddel, and Gahar,
 
 ## Nehemiah 7:50
 
-> Reaiah, Rezin, Nekoda,
+> the line of Reaiah, Rezin, and Nekoda,
 
 ## Nehemiah 7:51
 
-> Gazzam, Uzza, Paseah,
+> the line of Gazzam, Uzza, and Paseah,
 
 ## Nehemiah 7:52
 
-> Besai, Meunim, and the temple servant Nephushesim,
+> the line of Besai, Meunim, and the temple servant Nephushesim,
 
 ## Nehemiah 7:53
 
-> Bakbuk, Hakupha, Harhur,
+> the line of Bakbuk, Hakupha, and Harhur,
 
 ## Nehemiah 7:54
 
-> Bazluth, Mehida, Harsha,
+> the line of Bazluth, Mehida, and Harsha,
 
 ## Nehemiah 7:55
 
-> Barkos, Sisera, Temah,
+> the line of Barkos, Sisera, and Temah,
 
 ## Nehemiah 7:56
 
-> Neziah, and Hatipha.
+> the line of Neziah, and Hatipha.
 
 ## Nehemiah 7:57
 
 The descendants of Solomon’s servants:
 
-the descendants of Sotai, Sophereth, Perida,
+the descendants of Sotai, Sophereth, and Perida,
 
 ## Nehemiah 7:58
 
-Jaala, Darkon, Giddel,
+the descendants of Jaala, Darkon, and Giddel,
 
 ## Nehemiah 7:59
 
-Shephatiah, Hattil, Pochereth-Hazzebaim, and the temple servant Amon.
+the descendants of Shephatiah, Hattil, Pochereth-Hazzebaim, and the temple servant Amon.
 
 ## Nehemiah 7:60
 
@@ -300,7 +300,7 @@ in addition to their 7,337 male and female servants; and they also had 245 singe
 
 ## Nehemiah 7:68
 
-They had 736 horses, 245 mules,
+They possessed 736 horses, 245 mules,
 
 ## Nehemiah 7:69
 

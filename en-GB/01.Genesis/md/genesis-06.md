@@ -38,7 +38,7 @@ This is the account of Noah and his family. Noah was a righteous man, blameless 
 
 ## Genesis 6:10
 
-Noah had three sons: Shem, Ham, and Japheth.
+Noah was the father of three sons: Shem, Ham, and Japheth.
 
 ## Genesis 6:11
 

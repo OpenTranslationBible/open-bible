@@ -76,7 +76,7 @@ Every place where you set your foot will be yours: your territory will extend fr
 No one will be able to stand against you; the Lord your God will put the fear and dread of you on all the land, as He has promised you.
 
 ## Deuteronomy 11:26
-See, I am setting before you today a blessing and a curse:
+Behold, I present to you today both a blessing and a curse:
 
 ## Deuteronomy 11:27
 the blessing if you obey the commandments of the Lord your God that I am giving you today;

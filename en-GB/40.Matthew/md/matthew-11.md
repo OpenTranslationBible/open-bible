@@ -54,7 +54,7 @@ From the days of John the Baptist until now, the kingdom of heaven has been subj
 
 ## Matthew 11:13
 
-For all the Prophets and the Law prophesied until John.
+For all the Prophets and the Law spoke of what was to come until John.
 
 ## Matthew 11:14
 
@@ -77,7 +77,7 @@ Whoever has ears to hear, let them hear.
 
 ## Matthew 11:18
 
-For John came neither eating nor drinking, and they say, ‘He has a demon.’
+For John came neither eating nor drinking, and they say, ‘He is possessed by a demon.’
 
 ## Matthew 11:19
 

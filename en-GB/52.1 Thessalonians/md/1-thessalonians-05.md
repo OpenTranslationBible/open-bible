@@ -66,7 +66,7 @@ Rejoice always,
 
 ## 1 Thessalonians 5:17
 
-pray continually,
+continually stay in prayer,
 
 ## 1 Thessalonians 5:18
 
@@ -102,7 +102,7 @@ Dear friends, pray for us.
 
 ## 1 Thessalonians 5:26
 
-Greet all the brothers and sisters with a holy kiss.
+Extend a warm greeting to all the brothers and sisters.
 
 ## 1 Thessalonians 5:27
 
@@ -110,4 +110,4 @@ I urge you before the Lord to have this letter read to all the brothers and sist
 
 ## 1 Thessalonians 5:28
 
-The grace of our Lord Jesus Christ be with you.
+May the grace of our Lord Jesus Christ be with you.

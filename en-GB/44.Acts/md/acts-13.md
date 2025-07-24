@@ -124,7 +124,7 @@ When they had completed all that was written about Him, they took Him down from 
 
 ## Acts 13:30
 
-But God raised Him from the dead,
+Yet God resurrected Him, from the dead
 
 ## Acts 13:31
 
@@ -230,4 +230,4 @@ So they shook the dust from their feet as a testimony against them and proceeded
 
 ## Acts 13:52
 
-And the disciples were filled with joy and with the Holy Spirit.
+And the disciples were filled with joy and the presence of the Holy Spirit.

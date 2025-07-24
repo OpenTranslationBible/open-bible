@@ -18,7 +18,7 @@ Jair had thirty sons who rode on thirty donkeys, and they possessed thirty towns
 
 ## Judges 10:5
 
-When Jair died, he was buried in Kamon.
+Upon Jair's passing, he was interred in Kamon.
 
 ---
 

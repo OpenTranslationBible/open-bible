@@ -72,7 +72,7 @@ I have adorned my bed with coverings, with coloured linens from Egypt.
 
 ## Proverbs 7:17
 
-I have perfumed my bed with myrrh, aloes, and cinnamon.
+I have scented my bed with myrrh, aloes, and cinnamon.
 
 ## Proverbs 7:18
 
@@ -80,7 +80,7 @@ Come, let us drink deeply of love until morning; let us delight ourselves with c
 
 ## Proverbs 7:19
 
-For my husband is not at home; he has gone on a long journey.
+For my husband is away; he has embarked on a long journey.
 
 ## Proverbs 7:20
 

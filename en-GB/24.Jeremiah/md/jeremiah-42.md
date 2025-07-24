@@ -19,7 +19,7 @@ Then they said to Jeremiah, “May the Lord be a true and faithful witness again
 Whether it is favourable or unfavourable, we will listen to the voice of the Lord our God, to whom we are sending you, so that it may go well with us when we obey the voice of the Lord our God.”
 
 ## Jeremiah 42:7
-At the end of ten days, the word of the Lord came to Jeremiah.
+After ten days had passed, the word of the Lord came to Jeremiah.
 
 ## Jeremiah 42:8
 So he called Johanan son of Kareah and all the commanders of the forces who were with him, and all the people from the least to the greatest.

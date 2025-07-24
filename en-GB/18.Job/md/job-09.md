@@ -2,7 +2,7 @@
 
 ## Job 9:1
 
-Then Job answered,
+Job responded,
 
 ## Job 9:2
 

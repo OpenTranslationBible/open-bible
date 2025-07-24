@@ -64,7 +64,7 @@ Knowing that they intended to come and take Him by force to make Him king, Jesus
 
 ## John 6:16
 
-When evening came, His disciples went down to the sea,
+As evening approached, His disciples went down to the sea,
 
 ## John 6:17
 
@@ -80,7 +80,7 @@ When they had rowed about three or four miles, they saw Jesus walking on the sea
 
 ## John 6:20
 
-But He said to them, “It is I; do not be afraid.”
+But He reassured them, “It is I; do not be afraid.”
 
 ## John 6:21
 
@@ -148,7 +148,7 @@ They said to Him, “Lord, always give us this bread.”
 
 ## John 6:35
 
-Jesus declared, “I am the bread of life. Whoever comes to Me shall never hunger, and whoever believes in Me shall never thirst.
+Jesus declared, “I am the bread of life. Whoever comes to me and believes in Me, shall not ever hunger, nor shall they thirst again.
 
 ## John 6:36
 
@@ -160,7 +160,7 @@ All that the Father gives Me will come to Me, and whoever comes to Me I will nev
 
 ## John 6:38
 
-For I have come down from heaven, not to do My own will, but the will of Him who sent Me.
+For I came down from heaven, not to do My own will, but to fulfil the will of Him who sent Me.
 
 ## John 6:39
 
@@ -232,7 +232,7 @@ Moreover, whoever eats of My flesh and drinks My blood gains eternal life, and I
 
 ## John 6:55
 
-For My flesh is true food and My blood is true drink.
+For My flesh is the true food, and My blood is the true drink.
 
 ## John 6:56
 
@@ -288,7 +288,7 @@ From this point, many of His disciples turned back and no longer followed Him.
 
 ## John 6:68
 
-Simon Peter answered Him, “Lord, to whom shall we go? You have the words of eternal life.
+Simon Peter answered Him, “Lord, to whom shall we turn? You have the words of eternal life.
 
 ## John 6:69
 

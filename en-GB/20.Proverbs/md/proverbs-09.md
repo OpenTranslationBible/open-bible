@@ -2,7 +2,7 @@
 
 ## Proverbs 9:1
 
-Wisdom has built her house; she has hewn out her seven pillars.
+Wisdom has constructed her dwelling; she has carved out her seven pillars.
 
 ## Proverbs 9:2
 

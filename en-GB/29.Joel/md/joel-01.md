@@ -2,7 +2,7 @@
 
 ## Joel 1:1
 
-The word of the Lord that came to Joel, son of Pethuel.
+Then the word of the Lord came to Joel, son of Pethuel.
 
 ## Joel 1:2
 

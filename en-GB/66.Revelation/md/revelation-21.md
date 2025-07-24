@@ -94,7 +94,7 @@ The city does not need the sun or the moon to shine on it, for the glory of God 
 
 ## Revelation 21:24
 
-The nations will walk by its light, and the kings of the earth will bring their glory into it.
+The nations will walk by its light, and the kings of the earth will bring their splendour into it.
 
 ## Revelation 21:25
 

@@ -6,7 +6,7 @@ Abraham took another wife, named Keturah.
 
 ## Genesis 25:2
 
-She bore him Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
+She gave birth to his offspring Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.
 
 ## Genesis 25:3
 
@@ -54,7 +54,7 @@ These are the names of the sons of Ishmael, listed by their names in the order o
 
 ## Genesis 25:14
 
-Mishma, Dumah, Massa,
+Mishma, Dumah, and Massa,
 
 ## Genesis 25:15
 

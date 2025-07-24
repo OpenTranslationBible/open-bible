@@ -204,7 +204,7 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:28
 
-> Of Mahli: Eleazar, who had no sons.
+> From Mahli: Eleazar, who did not have sons.
 
 ---
 

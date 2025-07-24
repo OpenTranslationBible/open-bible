@@ -116,7 +116,7 @@ Is this man Coniah a despised, shattered pot, an object no one wants? Why will h
 
 ## Jeremiah 22:29
 
-O land, land, land, hear the word of the Lord!
+O earth, O earth, O earth, hear the word of the Lord!
 
 ## Jeremiah 22:30
 

@@ -70,7 +70,7 @@ For the flesh desires what is against the Spirit, and the Spirit what is against
 
 ## Galatians 5:18
 
-But if you are led by the Spirit, you are not under the law.
+Yet if you are guided by the Spirit, you are not under the law.
 
 ## Galatians 5:19
 

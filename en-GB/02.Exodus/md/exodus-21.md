@@ -70,10 +70,10 @@ However, if the slave survives for a day or two, no vengeance shall be taken, fo
 But if there is serious injury, you shall give life for life,
 
 ## Exodus 21:24
-eye for eye, tooth for tooth, hand for hand, foot for foot,
+an eye for an eye, a tooth for a tooth, a hand for a hand, a foot for a foot,
 
 ## Exodus 21:25
-burn for burn, wound for wound, bruise for bruise.
+a burn for a burn, a wound for a wound, a bruise for a bruise.
 
 ## Exodus 21:26
 “If an owner strikes the eye of his male or female slave and destroys it, he must let the slave go free to compensate for the eye.

@@ -86,7 +86,7 @@ Nahshon became the father of Salma, who in turn became the father of Boaz.
 
 ## 1 Chronicles 2:12
 
-Boaz became the father of Obed, and Obed became the father of Jesse.
+Boaz was the father of Obed, who was the father of Jesse.
 
 ---
 
@@ -147,7 +147,7 @@ When Azubah died, Caleb married Ephrath,
 
 ## 1 Chronicles 2:20
 
-Hur fathered Uri, and Uri fathered Bezalel.
+Hur was the father of Uri, and Uri was the father of Bezalel.
 
 ---
 
@@ -357,7 +357,7 @@ The sons of Jahdai were:
 
 ## 1 Chronicles 2:48
 
-Maacah, Caleb’s concubine, bore Sheber and Tirhanah.
+Maacah, Caleb’s concubine, gave birth to Sheber and Tirhanah.
 
 ---
 

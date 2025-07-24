@@ -54,11 +54,11 @@ Contribute to the needs of the saints and practise hospitality.
 
 ## Romans 12:14
 
-Bless those who persecute you; bless and do not curse.
+Bless those who persecute you; bless, and do not curse.
 
 ## Romans 12:15
 
-Rejoice with those who rejoice; weep with those who weep.
+Share in the joy of those who rejoice; share in the sorrow of those who are sorrowful.
 
 ## Romans 12:16
 
@@ -86,4 +86,4 @@ On the contrary:
 
 ## Romans 12:21
 
-Do not be overcome by evil, but overcome evil with good.
+Do not let evil defeat you, but instead overcome evil by doing good.

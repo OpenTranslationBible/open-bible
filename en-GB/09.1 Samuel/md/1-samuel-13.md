@@ -97,4 +97,4 @@ So on the day of the battle, neither sword nor spear was found in the hand of an
 
 ## 1 Samuel 13:23
 
-And the garrison of the Philistines went out to the pass of Michmash.
+The garrison of the Philistines moved out to the pass of Michmash.

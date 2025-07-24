@@ -2,7 +2,7 @@
 
 ## Ezekiel 29:1
 
-In the tenth year, in the tenth month, on the twelfth day of the month, the word of the Lord came to me:
+In the tenth year, in the tenth month, on it's twelfth day, the word of the Lord was given to me:
 
 ## Ezekiel 29:2
 
@@ -78,7 +78,7 @@ Egypt will no longer be a source of confidence for the house of Israel, bringing
 
 ## Ezekiel 29:17
 
-In the twenty-seventh year, in the first month, on the first day of the month, the word of the Lord came to me:
+In the twenty-seventh year, in the first month, on it's first day, the word of the Lord was given to me:
 
 ## Ezekiel 29:18
 

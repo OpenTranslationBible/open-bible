@@ -34,7 +34,7 @@ Jephthah judged Israel for six years. Then Jephthah the Gileadite died and was b
 
 ## Judges 12:8
 
-After him, Ibzan of Bethlehem judged Israel.
+Following Jephthah, Ibzan of Bethlehem took up the role of judging Israel.
 
 ## Judges 12:9
 
@@ -42,7 +42,7 @@ He had thirty sons and thirty daughters. He gave his daughters in marriage outsi
 
 ## Judges 12:10
 
-Then Ibzan died and was buried in Bethlehem.
+Subsequently, Ibzan passed away and was laid to rest in Bethlehem.
 
 ## Judges 12:11
 
@@ -50,7 +50,7 @@ After him, Elon the Zebulunite judged Israel for ten years.
 
 ## Judges 12:12
 
-Then Elon the Zebulunite died and was buried at Aijalon in the land of Zebulun.
+Elon the Zebulunite eventually died and was interred at Aijalon in the land of Zebulun.
 
 ## Judges 12:13
 
@@ -58,7 +58,7 @@ Following him, Abdon son of Hillel, the Pirathonite, judged Israel.
 
 ## Judges 12:14
 
-He had forty sons and thirty grandsons who rode on seventy donkeys. He judged Israel for eight years.
+He had forty sons and thirty grandsons, who rode on seventy donkeys. Abdon served as a judge over Israel for eight years.
 
 ## Judges 12:15
 

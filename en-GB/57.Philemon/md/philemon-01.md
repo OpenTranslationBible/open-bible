@@ -7,7 +7,7 @@ Paul, a prisoner of Christ Jesus, and Timothy our brother, to Philemon our belov
 to Apphia our sister, and Archippus our fellow soldier, and to the church that meets in your house:
 
 ## Philemon 1:3
-Grace and peace to you from God our Father and the Lord Jesus Christ.
+May you receive grace and peace from God our Father and the Lord Jesus Christ.
 
 ## Philemon 1:4
 I always thank my God, making mention of you in my prayers,
@@ -73,4 +73,4 @@ Epaphras, who is in prison with me for Christ Jesus, sends you greetings.
 As do Mark, Aristarchus, Demas, and Luke, who are my fellow workers.
 
 ## Philemon 1:25
-The grace of the Lord Jesus Christ be with your spirit.
+May the grace of the Lord Jesus Christ be with your spirit.

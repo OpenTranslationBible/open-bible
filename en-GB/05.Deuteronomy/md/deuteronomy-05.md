@@ -6,7 +6,7 @@ Moses called together all Israel and said to them: “Hear, O Israel, the statut
 
 ## Deuteronomy 5:2
 
-The Lord our God made a covenant with us at Horeb.
+The Lord, our God, established a covenant with us at Horeb.
 
 ## Deuteronomy 5:3
 
@@ -66,7 +66,7 @@ Remember that you were slaves in Egypt and that the Lord your God brought you ou
 
 ## Deuteronomy 5:17
 
-‘You shall not murder.
+‘You shall not commit murder.
 
 ## Deuteronomy 5:18
 

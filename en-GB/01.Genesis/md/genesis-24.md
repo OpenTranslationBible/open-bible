@@ -100,7 +100,7 @@ So the man went to the house, and the camels were unloaded. Straw and feed were 
 Food was set before him, but he said, “I will not eat until I have told you what I have to say.” “Speak on,” Laban said.
 
 ## Genesis 24:34
-So he said, “I am Abraham’s servant.
+He began, “I am Abraham’s servant.
 
 ## Genesis 24:35
 The Lord has greatly blessed my master, and he has become wealthy. He has given him flocks and herds, silver and gold, male and female servants, and camels and donkeys.

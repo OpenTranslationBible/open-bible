@@ -2,7 +2,7 @@
 
 ## Job 23:1
 
-Then Job answered,
+Job responded,
 
 ## Job 23:2
 

@@ -68,7 +68,7 @@ Nothing external to a person can defile them by entering them. Rather, it is wha
 
 ## Mark 7:16
 
-[If anyone has ears to hear, let him hear.”]
+[Rhose who have ears to hear, let them hear.]
 
 ---
 

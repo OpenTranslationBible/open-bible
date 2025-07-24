@@ -61,7 +61,7 @@ But Michal, David’s wife, told him, “If you do not save your life tonight, t
 
 ## 1 Samuel 19:12
 
-So Michal let David down through a window, and he went and fled and escaped.
+So Michal helped David escape through a window, and he fled and got away.
 
 ## 1 Samuel 19:13
 

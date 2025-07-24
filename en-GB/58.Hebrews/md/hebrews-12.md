@@ -14,7 +14,7 @@ Consider him who endured such hostility from sinners, so that you will not grow 
 
 ## Hebrews 12:4
 
-In your struggle against sin, you have not yet resisted to the point of shedding your blood.
+In your struggle against sin, you have not yet resisted to the extent of shedding your blood.
 
 ## Hebrews 12:5
 

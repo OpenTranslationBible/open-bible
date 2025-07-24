@@ -26,7 +26,7 @@ Therefore, always being of good courage, and recognising that while we are at ho
 
 ## 2 Corinthians 5:7
 
-For we walk by faith, not by sight—
+For we walk guided by faith, not by what we see—
 
 ## 2 Corinthians 5:8
 

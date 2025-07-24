@@ -208,7 +208,7 @@ Therefore, I tell you, her many sins have been forgiven, as her great love has s
 
 ## Luke 7:48
 
-Then Jesus said to her, “Your sins are forgiven.”
+Then Jesus assured her, “Your sins are forgiven.”
 
 ## Luke 7:49
 
@@ -216,4 +216,4 @@ The other guests began to wonder among themselves, “Who is this who even forgi
 
 ## Luke 7:50
 
-And He said to the woman, “Your faith has saved you; go in peace.”
+And He told the woman, “Your faith has saved you; go forth in peace.”

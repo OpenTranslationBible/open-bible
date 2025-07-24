@@ -22,7 +22,7 @@ from Hezron, the family of the Hezronites; from Carmi, the family of the Carmite
 These were the families of the Reubenites, and those counted were 43,730.
 
 ## Numbers 26:8
-The son of Pallu was Eliab.
+Pallu's son was Eliab.
 
 ## Numbers 26:9
 The sons of Eliab were Nemuel, Dathan, and Abiram. These are the same Dathan and Abiram who were called by the assembly, who contended against Moses and Aaron in the company of Korah, when they contended against the Lord.
@@ -55,7 +55,7 @@ from Arod, the family of the Arodites; from Areli, the family of the Arelites.
 These were the families of the sons of Gad, and those counted were 40,500.
 
 ## Numbers 26:19
-The sons of Judah were Er and Onan, but Er and Onan died in the land of Canaan.
+Judah's sons were Er and Onan, but they died in the land of Canaan.
 
 ## Numbers 26:20
 The descendants of Judah by their families were: from Shelah, the family of the Shelanites; from Perez, the family of the Perezites; from Zerah, the family of the Zerahites.
@@ -136,7 +136,7 @@ The descendants of Asher by their families were: from Imnah, the family of the I
 From the descendants of Beriah: from Heber, the family of the Heberites; from Malchiel, the family of the Malchielites.
 
 ## Numbers 26:46
-And the name of the daughter of Asher was Serah.
+Asher had a daughter named Serah.
 
 ## Numbers 26:47
 These were the families of the sons of Asher, and those counted were 53,400.

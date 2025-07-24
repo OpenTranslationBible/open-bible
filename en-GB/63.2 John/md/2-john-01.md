@@ -11,7 +11,7 @@ because of the truth that abides in us and will remain with us always:
 
 ## 2 John 1:3
 
-Grace, mercy, and peace will be with us from God the Father and from Jesus Christ, the Son of the Father, in truth and love.
+Grace, mercy, and peace are ours from God the Father and from Jesus Christ, the Son of the Father, in truth and love.
 
 ## 2 John 1:4
 

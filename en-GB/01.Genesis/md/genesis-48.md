@@ -7,7 +7,7 @@ After these events, Joseph was informed, “Your father is unwell.” So he took
 When Jacob received the news, “Your son Joseph has come to you,” Israel gathered his strength and sat up in bed.
 
 ## Genesis 48:3
-Jacob said to Joseph, “God Almighty appeared to me at Luz in the land of Canaan and blessed me,
+Jacob spoke to Joseph, “God Almighty revealed Himself to me at Luz in the land of Canaan and bestowed His blessing upon me,
 
 ## Genesis 48:4
 saying to me, ‘I will make you fruitful and multiply your descendants. I will make you a multitude of peoples, and I will give this land to your descendants as an everlasting possession.’

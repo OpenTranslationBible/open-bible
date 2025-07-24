@@ -20,7 +20,7 @@ For before the child knows how to say ‘My father’ or ‘My mother,’ the ri
 
 ## Isaiah 8:5
 
-The Lord spoke to me again:
+The Lord addressed me once more:
 
 ## Isaiah 8:6
 

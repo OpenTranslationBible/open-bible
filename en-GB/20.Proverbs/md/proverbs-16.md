@@ -136,4 +136,4 @@ Better a patient person than a warrior, one who controls their spirit than one w
 
 ## Proverbs 16:33
 
-The lot is cast into the lap, but its every decision is from the Lord.
+The lot is cast into the lap, yet its every decision comes from the Lord.

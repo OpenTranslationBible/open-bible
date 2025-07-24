@@ -6,7 +6,7 @@ In those days, a decree went out from Caesar Augustus that a census should be co
 
 ## Luke 2:2
 
-This was the first census taken while Quirinius was governor of Syria.
+For this was the first census conducted during the time of Quirinius the governor of Syria.
 
 ## Luke 2:3
 

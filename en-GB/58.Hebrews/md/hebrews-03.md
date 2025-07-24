@@ -14,7 +14,7 @@ For Jesus has been deemed worthy of greater glory than Moses, just as the builde
 
 ## Hebrews 3:4
 
-For every house is built by someone, but the builder of all things is God.
+For every house is built by someone, but God is the creator of all things.
 
 ## Hebrews 3:5
 

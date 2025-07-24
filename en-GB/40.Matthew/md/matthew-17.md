@@ -88,7 +88,7 @@ He said to them, “Because of your little faith. Truly I tell you, if you have 
 
 ## Matthew 17:21
 
-[But this kind does not go out except by prayer and fasting.]
+[This kind can only be driven out by prayer and fasting.]
 
 ---
 

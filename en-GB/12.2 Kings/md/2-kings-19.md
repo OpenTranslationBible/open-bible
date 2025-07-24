@@ -26,7 +26,7 @@ Therefore, offer a prayer for the remnant that is left.’”
 
 ## 2 Kings 19:5
 
-So the servants of King Hezekiah came to Isaiah.
+Thus, King Hezekiah's servants approached Isaiah.
 
 ## 2 Kings 19:6
 

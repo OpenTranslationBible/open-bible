@@ -32,7 +32,7 @@ And when you pray, do not use thoughtless repetition like the pagans, for they t
 
 ## Matthew 6:8
 
-Do not be like them, for your Father knows what you need before you ask Him.
+Do not imitate them: your Father is aware of your needs even before you ask Him.
 
 ---
 
@@ -51,7 +51,7 @@ Do not be like them, for your Father knows what you need before you ask Him.
 
 ## Matthew 6:11
 
-> Give us today our daily bread.
+> Provide for us this day the sustenance we need.
 
 ## Matthew 6:12
 
@@ -81,7 +81,7 @@ But if you do not forgive others, your Father will not forgive you either.
 
 ## Matthew 6:17
 
-But when you fast, anoint your head and wash your face,
+But when you fast, take care of your appearance by anointing your head and washing your face,
 
 ## Matthew 6:18
 
@@ -99,7 +99,7 @@ Instead, gather treasures in heaven, where moth and rust do not destroy, and whe
 
 ## Matthew 6:21
 
-For where your treasure is, there your heart will be also.
+For wherever your treasure is, there your heart will be as well.
 
 ---
 

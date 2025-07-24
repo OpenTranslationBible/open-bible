@@ -46,7 +46,7 @@ Do not slander a servant to their master, or they will curse you, and you will b
 
 ## Proverbs 30:11
 
-There are those who curse their fathers and do not bless their mothers;
+Some curse their fathers and fail to bless their mothers;
 
 ## Proverbs 30:12
 

@@ -55,7 +55,7 @@ Then Israel sang joyfully: “Spring up, O well! Let us sing to it!
 The well, which the leaders dug, which the nobles of the people hollowed out with sceptres and staffs.” Then they went from the wilderness to Mattanah,
 
 ## Numbers 21:19
-from Mattanah to Nahaliel, from Nahaliel to Bamoth,
+from Mattanah they travelled to Nahaliel, and from Nahaliel they went to Bamoth,
 
 ## Numbers 21:20
 and from Bamoth to the valley in the land of Moab, at the top of Pisgah, which overlooks the wasteland.

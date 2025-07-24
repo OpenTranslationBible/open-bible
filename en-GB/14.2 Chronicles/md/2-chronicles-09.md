@@ -176,7 +176,7 @@ Now the rest of the acts of Solomon, from the beginning to the end, are they not
 
 ## 2 Chronicles 9:30
 
-Solomon reigned in Jerusalem over all Israel for forty years.
+Solomon's reign in Jerusalem over all Israel lasted for forty years.
 
 ---
 

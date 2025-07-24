@@ -110,7 +110,7 @@ Tekel: You have been weighed and measured on the scales and found wanting.
 
 ## Daniel 5:28
 
-Peres: Your kingdom is divided and given to the Medes and Persians.
+Peres: Your kingdom is divided and handed over to the Medes and Persians.
 
 ## Daniel 5:29
 

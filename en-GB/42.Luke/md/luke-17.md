@@ -20,7 +20,7 @@ Even if they sin against you seven times in a day and come back to you seven tim
 
 ## Luke 17:5
 
-The apostles said to the Lord, “Increase our faith!”
+The apostles implored the Lord, “Strengthen our faith!”
 
 ## Luke 17:6
 
@@ -140,7 +140,7 @@ On that day no one on the housetop, with possessions inside, should go down to g
 
 ## Luke 17:32
 
-Remember Lot’s wife!
+Do not forget the lesson of Lot’s wife!
 
 ## Luke 17:33
 
@@ -154,7 +154,7 @@ I tell you, on that night two people will be in one bed; one will be taken and t
 
 ## Luke 17:35
 
-Two women will be grinding grain together; one will be taken and the other left.
+Two women will be grinding grain together; one of them will be taken and the other will be left behind.
 
 ## Luke 17:36
 

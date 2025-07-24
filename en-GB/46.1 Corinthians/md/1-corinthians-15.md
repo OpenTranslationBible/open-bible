@@ -18,7 +18,7 @@ and that He was laid to rest, and on the third day He was raised, as foretold by
 
 ## 1 Corinthians 15:5
 
-And that He appeared to Cephas, then to the twelve.
+And that He appeared to Cephas, and then to the Twelve.
 
 ## 1 Corinthians 15:6
 
@@ -26,7 +26,7 @@ Following that, He appeared to more than five hundred believers at one time, mos
 
 ## 1 Corinthians 15:7
 
-Then He appeared to James, then to all the apostles;
+Afterwards, He appeared to James, and then to all the apostles;
 
 ## 1 Corinthians 15:8
 
@@ -98,7 +98,7 @@ Then comes the end, when He hands over the kingdom to our God and Father, after 
 
 ## 1 Corinthians 15:25
 
-For He must reign until He has put all His enemies under His feet.
+For He must reign until He has placed all His enemies under His feet.
 
 ## 1 Corinthians 15:26
 
@@ -227,11 +227,11 @@ But when this perishable is clothed with the imperishable, and this mortal with 
 
 ## 1 Corinthians 15:56
 
-The sting of death is sin, and the power of sin is the Law;
+The sting of death is sin, and the strength of sin is the Law;
 
 ## 1 Corinthians 15:57
 
-But thanks be to God, who gives us the victory through our Lord Jesus Christ.
+So, thanks be to God, who grants us the victory through our Lord Jesus Christ.
 
 ## 1 Corinthians 15:58
 

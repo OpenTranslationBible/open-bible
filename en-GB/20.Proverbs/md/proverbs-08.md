@@ -104,7 +104,7 @@ Before the ocean depths existed, I was brought forth, before there were springs 
 
 ## Proverbs 8:25
 
-before the mountains were settled, before the hills, I was brought forth;
+before the mountains were created, before the hills, I was brought forth;
 
 ## Proverbs 8:26
 

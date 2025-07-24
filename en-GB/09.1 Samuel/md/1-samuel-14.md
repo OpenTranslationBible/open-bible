@@ -217,7 +217,7 @@ Ahinoam, daughter of Ahimaaz, was Saul’s wife. The commander of his army was A
 
 ## 1 Samuel 14:51
 
-Kish was the father of Saul, and Ner the father of Abner was the son of Abiel.
+Saul was the son of Kish, and Ner, the father of Abner, was the son of Abiel.
 
 ## 1 Samuel 14:52
 

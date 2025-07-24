@@ -30,7 +30,7 @@ If you had understood what this means: ‘I desire mercy, not sacrifice,’ you 
 
 ## Matthew 12:8
 
-For the Son of Man is Lord of the Sabbath.”
+For the Son of Man holds authority over the Sabbath.”
 
 ---
 
@@ -130,7 +130,7 @@ Or how can anyone enter a strong man’s house and carry off his possessions unl
 
 ## Matthew 12:30
 
-Whoever is not with Me is against Me, and whoever does not gather with Me scatters.
+Whoever is not with Me is against Me, and whoever will not gather with Me scatters.
 
 ---
 
@@ -162,7 +162,7 @@ But I tell you that everyone will have to give account on the day of judgement f
 
 ## Matthew 12:37
 
-For by your words you will be justified, and by your words you will be condemned.”
+For by your words you will be judged innocent, and by your words you will be condemned.”
 
 ---
 
@@ -220,4 +220,4 @@ Gesturing towards His disciples, He said, “Here are My mother and My brothers.
 
 ## Matthew 12:50
 
-For whoever does the will of My Father in heaven is My brother and sister and mother.”
+For whoever does the will of My Father in heaven is truly My brother, sister, and mother.”

@@ -118,7 +118,7 @@ The governor’s soldiers took Jesus into the Praetorium and gathered the whole 
 
 ## Matthew 27:28
 
-They stripped Him and put a scarlet robe on Him.
+They stripped His garments and placed a scarlet robe upon Him.
 
 ## Matthew 27:29
 
@@ -140,7 +140,7 @@ As they were going out, they found a man from Cyrene named Simon, whom they forc
 
 ## Matthew 27:33
 
-They came to a place called Golgotha, which means the Place of the Skull.
+They arrived at a place called Golgotha, which is translated as "The Place of the Skull."
 
 ## Matthew 27:34
 
@@ -240,7 +240,7 @@ Many women were there, watching from a distance. They had followed Jesus from Ga
 
 ## Matthew 27:56
 
-Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of Zebedee’s sons.
+Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
 
 ---
 

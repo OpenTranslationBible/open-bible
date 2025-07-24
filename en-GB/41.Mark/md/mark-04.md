@@ -62,7 +62,7 @@ Then He said to them, “Do you not understand this parable? How then will you u
 
 ## Mark 4:14
 
-The sower sows the word.
+The sower spreads the word.
 
 ## Mark 4:15
 

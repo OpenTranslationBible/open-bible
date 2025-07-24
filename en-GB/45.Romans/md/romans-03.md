@@ -64,11 +64,11 @@ As it is written:
 
 ## Romans 3:14
 
-> “Their mouths are full of cursing and bitterness.”
+> “Their mouths are filled with curses and bitterness.”
 
 ## Romans 3:15
 
-> “Their feet are swift to shed blood;
+> “Their feet are quick to spill blood;
 
 ## Romans 3:16
 
@@ -80,7 +80,7 @@ As it is written:
 
 ## Romans 3:18
 
-> “There is no fear of God before their eyes.”
+> “They do not have reverence for God before their eyes.”
 
 ## Romans 3:19
 
@@ -100,7 +100,7 @@ This righteousness is given through faith in Jesus Christ to all who believe. Th
 
 ## Romans 3:23
 
-for all have sinned and fall short of the glory of God,
+for everyone has sinned and falls short of the glory of God,
 
 ## Romans 3:24
 
@@ -124,7 +124,7 @@ For we hold that a person is justified by faith, independent of the works of the
 
 ## Romans 3:29
 
-Or is God the God of Jews only? Is he not the God of Gentiles also? Yes, of Gentiles also,
+Or is God only the God of the Jews? Is he not also the God of the Gentiles? Indeed, of the Gentiles too,
 
 ## Romans 3:30
 

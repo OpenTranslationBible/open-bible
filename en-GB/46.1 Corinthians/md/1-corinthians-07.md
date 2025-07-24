@@ -62,7 +62,7 @@ If the unbelieving partner chooses to leave, let them do so; the brother or sist
 
 ## 1 Corinthians 7:16
 
-For how do you know, wife, whether you will save your husband? Or how do you know, husband, whether you will save your wife?
+For how can you be certain, wife, whether you will lead your husband to salvation? Or you, husband, whether you will lead your wife to the same?
 
 ## 1 Corinthians 7:17
 

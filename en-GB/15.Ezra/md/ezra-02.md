@@ -108,11 +108,11 @@ They came with Zerubbabel, Jeshua, Nehemiah, Seraiah, Reelaiah, Mordecai, Bilsha
 
 ## Ezra 2:27
 
-> the men of Michmas, 122;
+> those from Michmas, numbered 122;
 
 ## Ezra 2:28
 
-> the men of Bethel and Ai, 223;
+> those from Bethel and Ai, numbered 223;
 
 ## Ezra 2:29
 
@@ -185,43 +185,43 @@ The temple servants:
 
 ## Ezra 2:44
 
-> Keros, Siaha, Padon,
+> Keros, Siaha, and Padon,
 
 ## Ezra 2:45
 
-> Lebanah, Hagabah, Akkub,
+> Lebanah, Hagabah, and Akkub,
 
 ## Ezra 2:46
 
-> Hagab, Shalmai, Hanan,
+> Hagab, Shalmai, and Hanan,
 
 ## Ezra 2:47
 
-> Giddel, Gahar, Reaiah,
+> Giddel, Gahar, and Reaiah,
 
 ## Ezra 2:48
 
-> Rezin, Nekoda, Gazzam,
+> Rezin, Nekoda, and Gazzam,
 
 ## Ezra 2:49
 
-> Uzza, Paseah, Besai,
+> Uzza, Paseah, and Besai,
 
 ## Ezra 2:50
 
-> Asnah, Meunim, Nephusim,
+> Asnah, Meunim, and Nephusim,
 
 ## Ezra 2:51
 
-> Bakbuk, Hakupha, Harhur,
+> Bakbuk, Hakupha, and Harhur,
 
 ## Ezra 2:52
 
-> Bazluth, Mehida, Harsha,
+> Bazluth, Mehida, and Harsha,
 
 ## Ezra 2:53
 
-> Barkos, Sisera, Temah,
+> Barkos, Sisera, and Temah,
 
 ## Ezra 2:54
 
@@ -233,11 +233,11 @@ The temple servants:
 
 The descendants of the servants of Solomon:
 
-the descendants of Sotai, Hassophereth, Peruda,
+the descendants of Sotai, Hassophereth, and Peruda,
 
 ## Ezra 2:56
 
-> Jaala, Darkon, Giddel,
+> Jaala, Darkon, and Giddel,
 
 ## Ezra 2:57
 
@@ -283,7 +283,7 @@ besides their male and female slaves, who numbered 7,337; and they had 200 male 
 
 ## Ezra 2:66
 
-They had 736 horses, 245 mules,
+They possessed 736 horses, 245 mules,
 
 ## Ezra 2:67
 

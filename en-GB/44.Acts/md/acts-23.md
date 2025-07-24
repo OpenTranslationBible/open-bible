@@ -114,7 +114,7 @@ He wrote a letter with the following content:
 
 ## Acts 23:26
 
-“Claudius Lysias, to the most excellent Governor Felix: Greetings.
+“From Claudius Lysias, to the esteemed Governor Felix: Greetings.
 
 ## Acts 23:27
 

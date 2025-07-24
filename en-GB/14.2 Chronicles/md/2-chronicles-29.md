@@ -13,7 +13,7 @@ He acted righteously in the eyes of the Lord, following the example set by his a
 
 ## 2 Chronicles 29:3
 
-In the first year of his reign, in the first month, he opened the doors of the house of the Lord and repaired them.
+In the first month of the first year of his reign, he reopened the doors of the house of the Lord and restored them.
 
 ## 2 Chronicles 29:4
 

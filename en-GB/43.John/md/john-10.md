@@ -46,7 +46,7 @@ The thief comes only to steal, kill, and destroy; I have come so that they may h
 
 ## John 10:11
 
-“I am the good shepherd. The good shepherd lays down his life for the sheep.
+“I am the good shepherd. The good shepherd is willing to give his life for the sheep.
 
 ## John 10:12
 
@@ -58,11 +58,11 @@ He runs away because he is a hired hand and has no concern for the sheep.
 
 ## John 10:14
 
-“I am the good shepherd; I know my own, and my own know me—
+“I am the good shepherd; I recognise my own sheep, and my own sheep recognise me—
 
 ## John 10:15
 
-just as the Father knows me and I know the Father; and I lay down my life for the sheep.
+just as the Father knows me and I know the Father; and I am willing to give my life for the sheep.
 
 ## John 10:16
 
@@ -126,7 +126,7 @@ My Father, who has given them to me, is greater than all; no one can take them f
 
 ## John 10:30
 
-I and the Father are one.”
+The Father and I are one.”
 
 ---
 
@@ -178,4 +178,4 @@ Many people came to him and said, “Though John performed no sign, everything J
 
 ## John 10:42
 
-And in that place, many believed in Jesus.
+And in that place, many came to believe in Jesus.

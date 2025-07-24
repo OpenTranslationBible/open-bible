@@ -8,7 +8,7 @@ Upon Rehoboam's arrival in Jerusalem, he gathered the house of Judah and Benjami
 
 ## 2 Chronicles 11:2
 
-But the word of the Lord came to Shemaiah the man of God, saying,
+However, a message from the Lord came to Shemaiah, the man of God, saying,
 
 ---
 
@@ -26,37 +26,37 @@ But the word of the Lord came to Shemaiah the man of God, saying,
 
 ## 2 Chronicles 11:5
 
-Rehoboam lived in Jerusalem and built cities for defence in Judah.
+Rehoboam lived in Jerusalem and constructed cities for defence in Judah.
 
 ---
 
 ## 2 Chronicles 11:6
 
-He built Bethlehem, Etam, Tekoa,
+He established Bethlehem, Etam, and Tekoa,
 
 ---
 
 ## 2 Chronicles 11:7
 
-Beth-zur, Soco, Adullam,
+along with Beth-zur, Soco, and Adullam,
 
 ---
 
 ## 2 Chronicles 11:8
 
-Gath, Mareshah, Ziph,
+as well as Gath, Mareshah, and Ziph,
 
 ---
 
 ## 2 Chronicles 11:9
 
-Adoraim, Lachish, Azekah,
+and also Adoraim, Lachish, and Azekah,
 
 ---
 
 ## 2 Chronicles 11:10
 
-Zorah, Aijalon, and Hebron, which are fortified cities in Judah and in Benjamin.
+including Zorah, Aijalon, and Hebron, which were fortified cities in Judah and in Benjamin.
 
 ---
 

@@ -76,16 +76,16 @@ This is the lineage of Perez: Perez was the father of Hezron,
 
 ## Ruth 4:19
 
-Hezron was the father of Ram, Ram was the father of Amminadab,
+Hezron became the father of Ram, and Ram became the father of Amminadab,
 
 ## Ruth 4:20
 
-Amminadab was the father of Nahshon, Nahshon was the father of Salmon,
+Amminadab became the father of Nahshon, and Nahshon became the father of Salmon,
 
 ## Ruth 4:21
 
-Salmon was the father of Boaz, Boaz was the father of Obed,
+Salmon became the father of Boaz, and Boaz became the father of Obed,
 
 ## Ruth 4:22
 
-Obed was the father of Jesse, and Jesse was the father of David.
+Obed became the father of Jesse, and Jesse became the father of David.

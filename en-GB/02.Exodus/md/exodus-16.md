@@ -118,7 +118,7 @@ See, the Lord has given you the Sabbath; that is why on the sixth day He gives y
 
 ## Exodus 16:30
 
-So the people rested on the seventh day.
+Thus, the people observed rest on the seventh day.
 
 ## Exodus 16:31
 

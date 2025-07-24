@@ -62,7 +62,7 @@ Simon (whom He called Peter), his brother Andrew, James, John, Philip, Bartholom
 
 ## Luke 6:15
 
-Matthew, Thomas, James son of Alphaeus, Simon who was called the Zealot,
+Matthew, Thomas, James son of Alphaeus, Simon known as the Zealot,
 
 ## Luke 6:16
 
@@ -132,11 +132,11 @@ Rejoice on that day and leap for joy, for behold, your reward is great in heaven
 
 ## Luke 6:27
 
-“But I say to you who are listening: Love your enemies, do good to those who hate you,
+“But to those of you who are listening, I say: Love your enemies, and do good to those who hate you,
 
 ## Luke 6:28
 
-bless those who curse you, pray for those who mistreat you.
+speak well of those who curse you, and pray for those who mistreat you.
 
 ## Luke 6:29
 
@@ -170,13 +170,13 @@ But love your enemies, do good to them, and lend without expecting anything back
 
 ## Luke 6:36
 
-Be merciful, just as your Father is merciful.
+Show mercy, just as your Father shows mercy.
 
 ---
 
 ## Luke 6:37
 
-“Do not judge, and you will not be judged. Do not condemn, and you will not be condemned. Forgive, and you will be forgiven.
+“Refrain from judging, and you will not be judged. Refrain from condemning, and you will not be condemned. Forgive, and you will be forgiven.
 
 ## Luke 6:38
 

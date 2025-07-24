@@ -100,7 +100,7 @@ He was a good man, full of the Holy Spirit and faith, and a considerable number 
 
 ## Acts 11:25
 
-Then Barnabas went to Tarsus to look for Saul,
+Barnabas then travelled to Tarsus to find Saul,
 
 ## Acts 11:26
 

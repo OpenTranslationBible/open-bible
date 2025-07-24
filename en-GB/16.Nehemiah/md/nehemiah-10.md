@@ -8,27 +8,27 @@ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 ## Nehemiah 10:2
 
-> Seraiah, Azariah, Jeremiah,
+> Seraiah, Azariah, and Jeremiah,
 
 ## Nehemiah 10:3
 
-> Pashhur, Amariah, Malchijah,
+> Pashhur, Amariah, and Malchijah,
 
 ## Nehemiah 10:4
 
-> Hattush, Shebaniah, Malluch,
+> Hattush, Shebaniah, and Malluch,
 
 ## Nehemiah 10:5
 
-> Harim, Meremoth, Obadiah,
+> Harim, Meremoth, and Obadiah,
 
 ## Nehemiah 10:6
 
-> Daniel, Ginnethon, Baruch,
+> Daniel, Ginnethon, and Baruch,
 
 ## Nehemiah 10:7
 
-> Meshullam, Abijah, Mijamin,
+> Meshullam, Abijah, and Mijamin,
 
 ## Nehemiah 10:8
 
@@ -40,15 +40,15 @@ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 ## Nehemiah 10:10
 
-> together with their brethren: Shebaniah, Hodiah, Kelita, Pelaiah, Hanan,
+> together with their brethren: Shebaniah, Hodiah, Kelita, Pelaiah, and Hanan,
 
 ## Nehemiah 10:11
 
-> Mica, Rehob, Hashabiah,
+> Mica, Rehob, and Hashabiah,
 
 ## Nehemiah 10:12
 
-> Zaccur, Sherebiah, Shebaniah,
+> Zaccur, Sherebiah, and Shebaniah,
 
 ## Nehemiah 10:13
 
@@ -60,55 +60,55 @@ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 The leaders of the people:
 
-> Parosh, Pahath-moab, Elam, Zattu, Bani,
+> Parosh, Pahath-moab, Elam, Zattu, and Bani,
 
 ## Nehemiah 10:15
 
-> Bunni, Azgad, Bebai,
+> Bunni, Azgad, and Bebai,
 
 ## Nehemiah 10:16
 
-> Adonijah, Bigvai, Adin,
+> Adonijah, Bigvai, and Adin,
 
 ## Nehemiah 10:17
 
-> Ater, Hezekiah, Azzur,
+> Ater, Hezekiah, and Azzur,
 
 ## Nehemiah 10:18
 
-> Hodiah, Hashum, Bezai,
+> Hodiah, Hashum, and Bezai,
 
 ## Nehemiah 10:19
 
-> Hariph, Anathoth, Nebai,
+> Hariph, Anathoth, and Nebai,
 
 ## Nehemiah 10:20
 
-> Magpiash, Meshullam, Hezir,
+> Magpiash, Meshullam, and Hezir,
 
 ## Nehemiah 10:21
 
-> Meshezabel, Zadok, Jaddua,
+> Meshezabel, Zadok, and Jaddua,
 
 ## Nehemiah 10:22
 
-> Pelatiah, Hanan, Anaiah,
+> Pelatiah, Hanan, and Anaiah,
 
 ## Nehemiah 10:23
 
-> Hoshea, Hananiah, Hasshub,
+> Hoshea, Hananiah, and Hasshub,
 
 ## Nehemiah 10:24
 
-> Hallohesh, Pilha, Shobek,
+> Hallohesh, Pilha, and Shobek,
 
 ## Nehemiah 10:25
 
-> Rehum, Hashabnah, Maaseiah,
+> Rehum, Hashabnah, and Maaseiah,
 
 ## Nehemiah 10:26
 
-> Ahiah, Hanan, Anan,
+> Ahiah, Hanan, and Anan,
 
 ## Nehemiah 10:27
 

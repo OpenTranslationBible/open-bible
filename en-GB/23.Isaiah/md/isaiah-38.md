@@ -14,7 +14,7 @@ saying, “Remember, Lord, how I have walked before you with wholehearted devoti
 
 ## Isaiah 38:4
 
-Then the word of the Lord came to Isaiah,
+At that time, the message from the Lord reached Isaiah,
 
 ## Isaiah 38:5
 
@@ -70,7 +70,7 @@ Surely it was for my benefit that I suffered such bitterness. In your love, you 
 
 ## Isaiah 38:18
 
-For Sheol cannot thank you, death cannot praise you; those who go down to the pit cannot hope for your faithfulness.
+For the realm of the dead cannot thank you, nor can death praise you; those who descend to the grave cannot hope for your faithfulness.
 
 ## Isaiah 38:19
 

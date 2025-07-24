@@ -10,7 +10,7 @@ He added, “I have heard there is grain in Egypt. Go down there and buy some fo
 
 ## Genesis 42:3
 
-So ten of Joseph’s brothers went down to buy grain from Egypt.
+Thus, ten of Joseph’s brothers journeyed to Egypt to purchase grain.
 
 ## Genesis 42:4
 
@@ -122,7 +122,7 @@ When they returned to their father Jacob in the land of Canaan, they told him al
 
 ## Genesis 42:31
 
-But we said to him, ‘We are honest men; we are not spies.
+Yet we assured him, ‘We are honest men; we are not spies.
 
 ## Genesis 42:32
 

@@ -41,7 +41,7 @@ leaving neither name nor remnant on the earth for my husband.”
 
 ## 2 Samuel 14:8
 
-Then the king said to the woman, “Go to your house, and I will give orders concerning you.”
+Then the king said to the woman, “Return to your home, and I will issue instructions regarding your case.”
 
 ## 2 Samuel 14:9
 
@@ -133,7 +133,7 @@ my lord the king, because the king has done the request of his servant.”
 
 ## 2 Samuel 14:23
 
-So Joab arose and went to Geshur, and brought Absalom to Jerusalem.
+So Joab set out for Geshur and brought Absalom back to Jerusalem.
 
 ## 2 Samuel 14:24
 

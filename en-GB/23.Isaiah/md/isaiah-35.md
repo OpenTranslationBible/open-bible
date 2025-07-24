@@ -13,7 +13,7 @@ Support those with weak hands, and steady the trembling knees.
 Say to those with anxious hearts, “Be strong, do not fear; behold, your God will come with vengeance, with divine retribution. He will come to save you.”
 
 ## Isaiah 35:5
-Then the eyes of the blind shall be opened, and the ears of the deaf shall be unstopped.
+At that time, the eyes of the blind will be opened, and the ears of the deaf will be cleared.
 
 ## Isaiah 35:6
 Then the lame shall leap like a deer, and the tongue of the mute shall shout for joy. For waters shall gush forth in the wilderness, and streams in the desert.

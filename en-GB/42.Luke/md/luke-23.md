@@ -157,7 +157,7 @@ The soldiers also mocked him, offering him sour wine
 
 ## Luke 23:37
 
-and saying, “If you are the king of the Jews, save yourself.”
+and they joked, “If you are the king of the Jews, save yourself.”
 
 ## Luke 23:38
 
@@ -179,7 +179,7 @@ We are punished justly, for we are receiving what our deeds deserve. But this ma
 
 ## Luke 23:42
 
-Then he said, “Jesus, remember me when you come into your kingdom.”
+Then he pleaded, “Jesus, remember me when you enter your kingdom.”
 
 ## Luke 23:43
 

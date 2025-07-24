@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 13:1
 
-In the eighteenth year of King Jeroboam, Abijah became king over Judah.
+In the eighteenth year of King Jeroboam's reign, Abijah ascended to the throne of Judah.
 
 ---
 

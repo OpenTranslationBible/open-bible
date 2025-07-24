@@ -2,7 +2,7 @@
 
 ## Job 4:1
 
-Then Eliphaz the Temanite answered:
+Eliphaz the Temanite responded:
 
 ## Job 4:2
 

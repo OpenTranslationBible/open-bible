@@ -114,7 +114,7 @@ Collect a tribute for the Lord from the men of war who went to battle, one in fi
 
 ## Numbers 31:29
 
-take it from their half and give it to Eleazar the priest as an offering to the Lord.
+take it from their share, and present it to Eleazar the priest as a contribution to the Lord.
 
 ## Numbers 31:30
 
@@ -130,15 +130,15 @@ The spoils remaining from the plunder which the men of war had taken were 675,00
 
 ## Numbers 31:33
 
-72,000 cattle,
+seventy-two thousand cattle,
 
 ## Numbers 31:34
 
-61,000 donkeys,
+sixty-one thousand donkeys,
 
 ## Numbers 31:35
 
-and 32,000 women who had not known a man intimately.
+and thirty-two thousand women who had not known a man intimately.
 
 ## Numbers 31:36
 
@@ -150,15 +150,15 @@ from which the Lord’s tribute was 675;
 
 ## Numbers 31:38
 
-36,000 cattle, from which the Lord’s tribute was 72;
+thirty-six thousand cattle, from which the Lord’s tribute was 72;
 
 ## Numbers 31:39
 
-30,500 donkeys, from which the Lord’s tribute was 61;
+thirty thousand five hundred donkeys, from which the Lord’s tribute was 61;
 
 ## Numbers 31:40
 
-16,000 people, from whom the Lord’s tribute was 32.
+sixteen thousand people, from whom the Lord’s tribute was 32.
 
 ## Numbers 31:41
 
@@ -174,15 +174,15 @@ the congregation’s half was 337,500 sheep,
 
 ## Numbers 31:44
 
-36,000 cattle,
+thirty-six thousand cattle,
 
 ## Numbers 31:45
 
-30,500 donkeys,
+thirty thousand five hundred donkeys,
 
 ## Numbers 31:46
 
-and 16,000 people.
+and sixteen thousand people.
 
 ## Numbers 31:47
 

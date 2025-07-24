@@ -21,7 +21,7 @@ Then the word of the Lord came through Haggai the prophet, saying,
 
 ## Haggai 1:5
 
-Now this is what the Lord of Hosts says:
+This is what the Lord of Hosts says:
 
 > “Consider your ways.
 
@@ -82,4 +82,4 @@ So the Lord stirred up the spirit of Zerubbabel son of Shealtiel, governor of Ju
 
 ## Haggai 1:15
 
-on the twenty-fourth day of the sixth month, in the second year of King Darius.
+on the twenty-fourth day of the sixth month, during the second year of King Darius.

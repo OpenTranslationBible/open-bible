@@ -26,7 +26,7 @@ But the righteousness that is by faith speaks thus: “Do not say in your heart,
 
 ## Romans 10:7
 
-or “‘Who will descend into the abyss?’” (that is, to bring Christ up from the dead).
+or “‘Who will go down into the depths?’” (that is, to bring Christ up from the dead).
 
 ## Romans 10:8
 
@@ -50,7 +50,7 @@ For there is no distinction between Jew and Greek; the same Lord is Lord of all,
 
 ## Romans 10:13
 
-for “Everyone who calls on the name of the Lord will be saved.”
+for “Everyone who invokes the name of the Lord will be saved.”
 
 ## Romans 10:14
 

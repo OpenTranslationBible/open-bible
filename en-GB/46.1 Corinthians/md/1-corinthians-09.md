@@ -2,7 +2,7 @@
 
 ## 1 Corinthians 9:1
 
-Am I not free? Am I not an apostle? Have I not seen Jesus our Lord? Are you not my work in the Lord?
+Am I not free? Am I not an apostle? Have I not beheld Jesus, our Lord? Are you not the result of my labour in the Lord?
 
 ## 1 Corinthians 9:2
 

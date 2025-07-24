@@ -70,7 +70,7 @@ A quick-tempered person acts foolishly, and one who devises evil schemes is desp
 
 ## Proverbs 14:18
 
-The simple inherit folly, but the prudent are crowned with knowledge.
+The naive acquire foolishness, but those who are prudent are adorned with knowledge.
 
 ## Proverbs 14:19
 
@@ -134,7 +134,7 @@ Wisdom rests in the heart of the discerning, but even among fools, she is made k
 
 ## Proverbs 14:34
 
-Righteousness exalts a nation, but sin is a disgrace to any people.
+Righteousness exalts up a nation, but sin brings disgrace to any people.
 
 ## Proverbs 14:35
 

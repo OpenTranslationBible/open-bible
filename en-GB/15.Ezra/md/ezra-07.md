@@ -6,19 +6,19 @@ After these events, during the reign of Artaxerxes, king of Persia, Ezra went up
 
 ## Ezra 7:2
 
-the son of Shallum, the son of Zadok, the son of Ahitub,
+descendant of Shallum, descendant of Zadok, descendant of Ahitub,
 
 ## Ezra 7:3
 
-the son of Amariah, the son of Azariah, the son of Meraioth,
+descendant of Amariah, descendant of Azariah, descendant of Meraioth,
 
 ## Ezra 7:4
 
-the son of Zerahiah, the son of Uzzi, the son of Bukki,
+descendant of Zerahiah, descendant of Uzzi, descendant of Bukki,
 
 ## Ezra 7:5
 
-the son of Abishua, the son of Phinehas, the son of Eleazar, the son of Aaron the chief priest.
+descendant of Abishua, descendant of Phinehas, descendant of Eleazar, descendant of Aaron the chief priest.
 
 ## Ezra 7:6
 

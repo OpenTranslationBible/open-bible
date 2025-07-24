@@ -289,7 +289,7 @@ and Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, and Benaiah,
 
 ## 1 Chronicles 4:37
 
-and Ziza the son of Shiphi, the son of Allon, the son of Jedaiah, the son of Shimri, the son of Shemaiah—
+and Ziza, was the son of Shiphi, who was of Allon, who was of Jedaiah, who was of Shimri, who was of Shemaiah—
 
 ---
 

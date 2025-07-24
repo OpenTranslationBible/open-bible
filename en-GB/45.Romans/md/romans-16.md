@@ -30,7 +30,7 @@ Greet Andronicus and Junia, my fellow Jews and fellow prisoners; they are esteem
 
 ## Romans 16:8
 
-Greet Ampliatus, my beloved in the Lord.
+Send greetings to Ampliatus, who is dearly loved in the Lord.
 
 ## Romans 16:9
 
@@ -86,7 +86,7 @@ Timothy, my fellow worker, sends his greetings, as do Lucius, Jason, and Sosipat
 
 ## Romans 16:22
 
-I, Tertius, who wrote this letter, greet you in the Lord.
+I, Tertius, who have written this letter, send my greetings in the Lord.
 
 ## Romans 16:23
 
@@ -94,7 +94,7 @@ Gaius, who hosts me and the whole church, sends his greetings. Erastus, the city
 
 ## Romans 16:24
 
-[The grace of our Lord Jesus Christ be with you all. Amen]
+[May the grace of our Lord Jesus Christ be with you all.]
 
 ## Romans 16:25
 

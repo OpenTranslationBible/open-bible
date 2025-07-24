@@ -6,7 +6,7 @@ As a prisoner of the Lord, I urge you to conduct yourselves in a manner worthy o
 
 ## Ephesians 4:2
 
-with all humility and gentleness, with patience, bearing with one another in love.
+with complete humility and gentleness, with patience, supporting one another in love.
 
 ## Ephesians 4:3
 

@@ -85,7 +85,7 @@ The greedy bring trouble to their household, but the one who hates bribes will l
 The heart of the righteous considers how to answer, but the mouth of the wicked pours out evil.
 
 ## Proverbs 15:29
-The Lord is far from the wicked, but He hears the prayer of the righteous.
+The Lord keeps His distance from the wicked, but He hears the prayer of the righteous.
 
 ## Proverbs 15:30
 Bright eyes bring joy to the heart; good news refreshes the bones.

@@ -110,7 +110,7 @@ all Judah and Israel who were present, and the inhabitants of Jerusalem.
 
 ## 2 Chronicles 35:19
 
-In the eighteenth year of Josiah’s reign this Passover was celebrated.
+This Passover was celebrated during the eighteenth year of Josiah’s reign.
 
 ---
 

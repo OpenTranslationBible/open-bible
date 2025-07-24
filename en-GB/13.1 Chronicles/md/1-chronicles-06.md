@@ -115,11 +115,11 @@ The sons of Merari were:
 
 Of Gershom:
 
-> Libni his son, Jahath his son, Zimmah his son,
+> Libni who fathered, Jahath who fathered, Zimmah
 
 ## 1 Chronicles 6:21
 
-> Joah his son, Iddo his son, Zerah his son, Jeatherai his son.
+> Joah who fathered, Iddo who fathered, Zerah who fathered, Jeatherai
 
 ---
 
@@ -127,15 +127,15 @@ Of Gershom:
 
 The sons of Kohath were:
 
-> Amminadab his son, Korah his son, Assir his son,
+> Amminadab who fathered, Korah who fathered, Assir,
 
 ## 1 Chronicles 6:23
 
-> Elkanah his son, Ebiasaph his son, Assir his son,
+> Elkanah who fathered, Ebiasaph who fathered, Assir,
 
 ## 1 Chronicles 6:24
 
-> Tahath his son, Uriel his son, Uzziah his son, Shaul his son.
+> Tahath who fathered, Uriel who fathered, Uzziah who fathered, Shaul.
 
 ---
 
@@ -151,11 +151,11 @@ The sons of Elkanah were:
 
 Elkanah:
 
-> Elkanah his son, Zophai his son, Nahath his son,
+> Elkanah who fathered, Zophai who fathered, Nahath,
 
 ## 1 Chronicles 6:27
 
-> Eliab his son, Jeroham his son, Elkanah his son.
+> Eliab who fathered, Jeroham who fathered, Elkanah.
 
 ---
 
@@ -171,11 +171,11 @@ The sons of Samuel were:
 
 The sons of Merari were:
 
-> Mahli, Libni his son, Shimei his son, Uzzah his son,
+> Mahli, Libni who fathered, Shimei who fathered, Uzzah,
 
 ## 1 Chronicles 6:30
 
-> Shimea his son, Haggiah his son, Asaiah his son.
+> Shimea who fathered, Haggiah who fathered, Asaiah.
 
 ---
 
@@ -199,27 +199,27 @@ and they carried out their duties according to the order given them.
 These are those who served with their sons:  
 From the sons of the Kohathites:
 
-> Heman the singer, the son of Joel, the son of Samuel,
+> Heman the singer, whose father was Joel, whose father was Samuel,
 
 ## 1 Chronicles 6:34
 
-> the son of Elkanah, the son of Jeroham, the son of Eliel, the son of Toah,
+> whose father was Elkanah, whose father was Jeroham, whose father was Eliel, whose father was Toah,
 
 ## 1 Chronicles 6:35
 
-> the son of Zuph, the son of Elkanah, the son of Mahath, the son of Amasai,
+> whose father was Zuph, whose father was Elkanah, whose father was Mahath, whose father was Amasai,
 
 ## 1 Chronicles 6:36
 
-> the son of Elkanah, the son of Joel, the son of Azariah, the son of Zephaniah,
+> whose father was Elkanah, whose father was Joel, whose father was Azariah, whose father was Zephaniah,
 
 ## 1 Chronicles 6:37
 
-> the son of Tahath, the son of Assir, the son of Ebiasaph, the son of Korah,
+> whose father was Tahath, whose father was Assir, whose father was Ebiasaph, whose father was Korah,
 
 ## 1 Chronicles 6:38
 
-> the son of Izhar, the son of Kohath, the son of Levi, the son of Israel.
+> whose father was Izhar, whose father was Kohath, whose father was Levi, whose father was Israel.
 
 ---
 
@@ -227,23 +227,23 @@ From the sons of the Kohathites:
 
 Heman’s relative Asaph stood at his right hand,
 
-> Asaph the son of Berechiah, the son of Shimea,
+> Asaph whose father was Berechiah, whose father was Shimea,
 
 ## 1 Chronicles 6:40
 
-> the son of Michael, the son of Baaseiah, the son of Malchijah,
+> whose father was Michael, who was the father of Baaseiah, whose father was Malchijah,
 
 ## 1 Chronicles 6:41
 
-> the son of Ethni, the son of Zerah, the son of Adaiah,
+> whose father was Ethni, who was the father of Zerah, whose father was Adaiah,
 
 ## 1 Chronicles 6:42
 
-> the son of Ethan, the son of Zimmah, the son of Shimei,
+> whose father was Ethan, whose father was Zimmah, whose father was Shimei,
 
 ## 1 Chronicles 6:43
 
-> the son of Jahath, the son of Gershom, the son of Levi.
+> whose father was Jahath, who was the father of Gershom, whose father was Levi.
 
 ---
 
@@ -251,19 +251,19 @@ Heman’s relative Asaph stood at his right hand,
 
 On the left hand were their relatives,
 
-> the sons of Merari: Ethan the son of Kishi, the son of Abdi, the son of Malluch,
+> the sons of Merari: Ethan whose father was Kishi, who was the father of Abdi, whose father was Malluch,
 
 ## 1 Chronicles 6:45
 
-> the son of Hashabiah, the son of Amaziah, the son of Hilkiah,
+> whose father was Hashabiah, who was the father of Amaziah, whose father was Hilkiah,
 
 ## 1 Chronicles 6:46
 
-> the son of Amzi, the son of Bani, the son of Shemer,
+> whose father was Amzi, who was the father of Bani, whose father was Shemer,
 
 ## 1 Chronicles 6:47
 
-> the son of Mahli, the son of Mushi, the son of Merari, the son of Levi.
+> whose father was Mahli, who was the father of Mushi, whose father was Merari, whose father was Levi.
 
 ---
 
@@ -286,19 +286,19 @@ and to make atonement for Israel, according to all that Moses the servant of God
 
 These are the sons of Aaron:
 
-> Eleazar his son, Phinehas his son, Abishua his son,
+> Eleazar who fathered, Phinehas who fathered, Abishua who fathered,
 
 ## 1 Chronicles 6:51
 
-> Bukki his son, Uzzi his son, Zerahiah his son,
+> Bukki who fathered, Uzzi who fathered, Zerahiah who fathered,
 
 ## 1 Chronicles 6:52
 
-> Meraioth his son, Amariah his son, Ahitub his son,
+> Meraioth who fathered, Amariah who fathered, Ahitub who fathered,
 
 ## 1 Chronicles 6:53
 
-> Zadok his son, and Ahimaaz his son.
+> Zadok who fathered, and Ahimaaz.
 
 ---
 
@@ -317,7 +317,7 @@ They gave them Hebron in the land of Judah and its surrounding pasture lands,
 
 ## 1 Chronicles 6:56
 
-but the fields of the city and its villages, they gave to Caleb the son of Jephunneh.
+but the fields of the city and its villages, they gave to Caleb, son of Jephunneh.
 
 ---
 
@@ -329,11 +329,11 @@ To the sons of Aaron they gave the following cities of refuge:
 
 ## 1 Chronicles 6:58
 
-> Hilen with its pasture lands, Debir with its pasture lands,
+> Hilen with its grazing areas, Debir with its grazing areas,
 
 ## 1 Chronicles 6:59
 
-> Ashan with its pasture lands, and Beth-shemesh with its pasture lands.
+> Ashan with its grazing areas, and Beth-shemesh with its grazing areas.
 
 ---
 
@@ -398,7 +398,7 @@ They gave them the cities of refuge:
 
 ## 1 Chronicles 6:68
 
-> Jokmeam with its pasture lands, Beth-horon with its pasture lands,
+> Jokmeam with its grazing areas, Beth-horon with its grazing areas,
 
 ## 1 Chronicles 6:69
 
@@ -443,7 +443,7 @@ From the tribe of Asher:
 
 ## 1 Chronicles 6:75
 
-> Hukok with its pasture lands, and Rehob with its pasture lands;
+> Hukok with its grazing areas, and Rehob with its grazing areas;
 
 ---
 
@@ -472,7 +472,7 @@ And beyond the Jordan at Jericho, on the east side of the Jordan:
 
 ## 1 Chronicles 6:79
 
-> Kedemoth with its pasture lands, and Mephaath with its pasture lands;
+> Kedemoth with its grazing areas, and Mephaath with its grazing areas;
 
 ---
 
@@ -485,4 +485,4 @@ From the tribe of Gad:
 
 ## 1 Chronicles 6:81
 
-> Heshbon with its pasture lands, and Jazer with its pasture lands.
+> Heshbon with its grazing areas, and Jazer with its grazing areas.

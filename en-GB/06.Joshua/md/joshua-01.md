@@ -38,7 +38,7 @@ Have I not commanded you? Be strong and courageous. Do not be frightened or dism
 
 ## Joshua 1:10
 
-Then Joshua commanded the officers of the people,
+So Joshua commanded the officers of the people,
 
 ## Joshua 1:11
 

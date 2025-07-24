@@ -13,7 +13,7 @@ Then Isaiah the prophet came to King Hezekiah and asked, “What did these men s
 The prophet asked, “What did they see in your palace?” Hezekiah answered, “They have seen everything in my palace; there is nothing among my treasures that I did not show them.”
 
 ## Isaiah 39:5
-Then Isaiah said to Hezekiah, “Hear the word of the Lord of Hosts:
+Isaiah then addressed Hezekiah, saying, “Listen to the message from the Lord of Hosts:
 
 ## Isaiah 39:6
 ‘Behold, the days are coming when everything in your palace, and all that your forefathers have stored up until this day, will be carried off to Babylon. Nothing will be left,’ says the Lord.

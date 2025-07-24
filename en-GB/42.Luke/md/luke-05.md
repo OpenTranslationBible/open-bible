@@ -132,7 +132,7 @@ Jesus answered them, “It is not those who are well who need a doctor, but thos
 
 ## Luke 5:32
 
-I have not come to call the righteous, but sinners to repentance.”
+I have come, not to call the righteous, but to call sinners to repent.”
 
 ---
 

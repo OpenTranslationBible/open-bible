@@ -29,7 +29,7 @@ except in the matter of Uriah the Hittite.
 
 ## 1 Kings 15:6
 
-And there was war between Rehoboam and Jeroboam all the days of his life.
+And there was ongoing conflict between Rehoboam and Jeroboam throughout his life.
 
 ## 1 Kings 15:7
 

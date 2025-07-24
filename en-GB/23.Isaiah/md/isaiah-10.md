@@ -32,7 +32,7 @@ Yet this is not what he intends, nor does he plan it in his heart; his purpose i
 
 ## Isaiah 10:8
 
-For he says, “Are not my commanders all kings?”
+For he asserts, “Are not my commanders like kings?”
 
 ## Isaiah 10:9
 
@@ -86,7 +86,7 @@ On that day, the remnant of Israel, the survivors of the house of Jacob, will no
 
 ## Isaiah 10:21
 
-A remnant will return, the remnant of Jacob, to the Mighty God.
+A remnant of Jacob will return to the Mighty God.
 
 ## Isaiah 10:22
 

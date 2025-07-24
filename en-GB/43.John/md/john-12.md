@@ -187,7 +187,7 @@ They were unable to believe for this reason, as Isaiah says elsewhere:
 
 ## John 12:41
 
-Isaiah said this because he saw Jesus’ glory and spoke about him.
+Isaiah said this because he had seen Jesus’ glory and spoke about him.
 
 ---
 

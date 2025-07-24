@@ -10,7 +10,7 @@ So I acquired the garment as the Lord instructed, and wrapped it around my waist
 
 ## Jeremiah 13:3
 
-Then the word of the Lord came to me once more, saying,
+The word of the Lord then came to me again, saying,
 
 ## Jeremiah 13:4
 
@@ -30,7 +30,7 @@ So I went to the Euphrates and dug up the garment from the place where I had hid
 
 ## Jeremiah 13:8
 
-Then the word of the Lord came to me, saying,
+The word of the Lord then came to me , saying,
 
 ## Jeremiah 13:9
 

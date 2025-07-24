@@ -68,7 +68,7 @@ There was no day like that before or since, when the Lord listened to the voice 
 
 ## Joshua 10:15
 
-Then Joshua and all Israel with him returned to the camp at Gilgal.
+Joshua, along with all Israel, returned to the camp at Gilgal.
 
 ## Joshua 10:16
 
@@ -180,4 +180,4 @@ All these kings and their lands Joshua captured in one campaign, because the Lor
 
 ## Joshua 10:43
 
-Afterward, Joshua and all Israel with him returned to the camp at Gilgal.
+Afterwards, Joshua, along with all Israel, returned to the camp at Gilgal.

@@ -78,7 +78,7 @@ Andrew, Philip, Bartholomew, Matthew, Thomas, James, the son of Alphaeus, Thadda
 
 ## Mark 3:19
 
-and Judas Iscariot, who betrayed Him.
+and Judas Iscariot, who would later betray Him.
 
 ---
 

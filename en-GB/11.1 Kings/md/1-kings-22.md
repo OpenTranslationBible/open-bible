@@ -2,7 +2,7 @@
 
 ## 1 Kings 22:1
 
-For three years there was no war between Aram and Israel.
+For three years, Aram and Israel did not engage in conflict.
 
 ## 1 Kings 22:2
 
@@ -212,7 +212,7 @@ Yet the high places were not removed, and the people continued to offer sacrific
 
 ## 1 Kings 22:44
 
-Jehoshaphat also made peace with the king of Israel.
+Jehoshaphat maintained peaceful relations with the king of Israel.
 
 ---
 

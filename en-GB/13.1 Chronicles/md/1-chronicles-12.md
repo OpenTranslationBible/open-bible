@@ -37,19 +37,19 @@ The chief was Ahiezer, then Joash,
 
 ## 1 Chronicles 12:5
 
-> Eluzai, Jerimoth, Bealiah, Shemariah, Shephatiah the Haruphite,
+> Eluzai, Jerimoth, Bealiah, Shemariah, Shephatiah from Haruph,
 
 ---
 
 ## 1 Chronicles 12:6
 
-> Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, the Korahites,
+> Elkanah, Isshiah, Azarel, Joezer, and Jashobeam, from the Korahites,
 
 ---
 
 ## 1 Chronicles 12:7
 
-> and Joelah and Zebadiah, the sons of Jeroham of Gedor.
+> along with Joelah and Zebadiah, sons of Jeroham of Gedor.
 
 ---
 
@@ -72,25 +72,25 @@ mighty men of valour, men trained for war,
 
 ## 1 Chronicles 12:10
 
-> Mishmannah the fourth, Jeremiah the fifth,
+> Mishmannah was fourth, Jeremiah was fifth,
 
 ---
 
 ## 1 Chronicles 12:11
 
-> Attai the sixth, Eliel the seventh,
+> Attai was sixth, Eliel was seventh,
 
 ---
 
 ## 1 Chronicles 12:12
 
-> Johanan the eighth, Elzabad the ninth,
+> Johanan was eighth, Elzabad was ninth,
 
 ---
 
 ## 1 Chronicles 12:13
 
-> Jeremiah the tenth, along with Machbannai the eleventh.
+> Jeremiah was tenth, along with Machbannai the eleventh.
 
 ---
 

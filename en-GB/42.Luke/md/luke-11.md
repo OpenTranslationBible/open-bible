@@ -99,7 +99,7 @@ But when someone stronger attacks and overpowers him, he takes away the armour i
 
 ## Luke 11:23
 
-Whoever is not with Me is against Me, and whoever does not gather with Me scatters.
+Anyone who is not with Me is against Me, and anyone who does not gather with Me scatters.
 
 ---
 

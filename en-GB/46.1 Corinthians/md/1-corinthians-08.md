@@ -18,7 +18,7 @@ Therefore, regarding the eating of food offered to idols, we understand that an 
 
 ## 1 Corinthians 8:5
 
-For even if there are so-called gods, whether in heaven or on earth, as indeed there are many gods and many lords,
+For even if there are those called ‘gods’, whether in heaven or on earth, as indeed there are many ‘gods’ and many ‘lords’,
 
 ## 1 Corinthians 8:6
 

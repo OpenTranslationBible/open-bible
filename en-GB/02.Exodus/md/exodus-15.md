@@ -7,7 +7,7 @@ Then Moses and the children of Israel sang this song to the Lord, saying: “I w
 The Lord is my strength and my song; He has become my salvation. He is my God, and I will praise Him; my father’s God, and I will exalt Him.
 
 ## Exodus 15:3
-The Lord is a warrior; the Lord is His name.
+The Lord is mighty in battle; the Lord is His name.
 
 ## Exodus 15:4
 Pharaoh’s chariots and his army He has thrown into the sea; the finest of Pharaoh’s officers are drowned in the Red Sea.
@@ -28,13 +28,13 @@ At the blast of Your nostrils, the waters piled up. The surging waters stood up 
 The enemy said, ‘I will pursue, I will overtake, I will divide the spoils; I will gorge myself on them. I will draw my sword, and my hand will destroy them.’
 
 ## Exodus 15:10
-But You blew with Your breath, and the sea covered them. They sank like lead in the mighty waters.
+But with a breath from You, the sea covered them. They sank like lead in the mighty waters.
 
 ## Exodus 15:11
 Who is like You among the heavenly beings, Lord? Who is like You, majestic in holiness, awe-inspiring in glory, performing wonders?
 
 ## Exodus 15:12
-You stretched out Your right hand, and the earth swallowed them.
+You extended Your right hand, and the earth swallowed them.
 
 ## Exodus 15:13
 In Your unfailing love, You have led the people You have redeemed. In Your strength, You have guided them to Your holy dwelling.

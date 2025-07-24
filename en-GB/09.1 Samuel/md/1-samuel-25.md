@@ -211,7 +211,7 @@ and his heart died within him, and he became like a stone.
 
 ## 1 Samuel 25:38
 
-About ten days later, the Lord struck Nabal and he died.
+About ten days later, the Lord caused Nabal to pass away.
 
 ---
 

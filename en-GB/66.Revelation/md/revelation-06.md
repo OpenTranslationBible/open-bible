@@ -7,7 +7,7 @@ I observed as the Lamb opened one of the seven seals, and I heard one of the fou
 I looked, and there was a white horse! Its rider held a bow, and a crown was given to him, and he set out conquering and to conquer.
 
 ## Revelation 6:3
-When the Lamb opened the second seal, I heard the second living creature say, “Come!”
+As the Lamb opened the second seal, I heard the second living creature say, “Come!”
 
 ## Revelation 6:4
 Then another horse appeared, a fiery red one. Its rider was granted the power to take peace from the earth, so that people would kill each other; and a large sword was given to him.

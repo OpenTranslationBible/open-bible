@@ -70,7 +70,7 @@ As evening approached, the disciples came to Him and said, “This is a remote p
 
 ## Matthew 14:16
 
-But Jesus said to them, “They do not need to go away; you give them something to eat.”
+But Jesus replied, “There is no need for them to leave; you should give them something to eat.”
 
 ## Matthew 14:17
 
@@ -78,7 +78,7 @@ They responded, “We have here only five loaves and two fish.”
 
 ## Matthew 14:18
 
-And He said, “Bring them here to Me.”
+And He instructed, “Bring them to Me.”
 
 ## Matthew 14:19
 

@@ -130,7 +130,7 @@ But I tell you, I will not drink from this fruit of the vine again until that da
 
 ## Matthew 26:30
 
-After singing a hymn, they went out to the Mount of Olives.
+After they had sung a hymn, they went out to the Mount of Olives.
 
 ---
 
@@ -311,7 +311,7 @@ When he had gone out to the gateway, another servant girl saw him and said to th
 
 ## Matthew 26:72
 
-And again he denied it, with an oath: “I do not know the man.”
+And once more he denied it, swearing: “I do not know the man.”
 
 ## Matthew 26:73
 

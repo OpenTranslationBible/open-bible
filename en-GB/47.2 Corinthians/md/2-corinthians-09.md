@@ -61,4 +61,4 @@ While they also, through prayer for you, long for you because of the extraordina
 
 ## 2 Corinthians 9:15
 
-Thanks be to God for His indescribable gift!
+Praise be to God for His gift beyond words!

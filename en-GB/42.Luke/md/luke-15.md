@@ -12,7 +12,7 @@ And the Pharisees and the scribes were complaining, saying, “This man welcomes
 
 ## Luke 15:3
 
-So He told them this parable:
+Then He began to share this parable with them:
 
 ## Luke 15:4
 

@@ -10,7 +10,7 @@ They discovered the stone rolled away from the tomb,
 
 ## Luke 24:3
 
-but when they entered, they did not find the body of the Lord Jesus.
+yet upon entering, they could not find the body of the Lord Jesus.
 
 ## Luke 24:4
 
@@ -30,7 +30,7 @@ saying that the Son of Man must be delivered into the hands of sinful men, be cr
 
 ## Luke 24:8
 
-Then they remembered His words.
+At that moment, they recalled His words.
 
 ## Luke 24:9
 
@@ -172,7 +172,7 @@ While they still did not believe it because of joy and amazement, He asked them,
 
 ## Luke 24:42
 
-They gave Him a piece of broiled fish,
+They offered Him a piece of broiled fish,
 
 ## Luke 24:43
 
@@ -198,7 +198,7 @@ and repentance for the forgiveness of sins will be proclaimed in His name to all
 
 ## Luke 24:48
 
-You are witnesses of these things.
+You bear witness to these things.
 
 ## Luke 24:49
 

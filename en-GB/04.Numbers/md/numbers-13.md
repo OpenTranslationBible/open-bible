@@ -18,27 +18,27 @@ These were their names: from the tribe of Reuben, Shammua son of Zakkur;
 
 ## Numbers 13:5
 
-from the tribe of Simeon, Shaphat son of Hori;
+from Simeon's tribe, Shaphat, son of Hori;
 
 ## Numbers 13:6
 
-from the tribe of Judah, Caleb son of Jephunneh;
+from Judah's tribe, Caleb, son of Jephunneh;
 
 ## Numbers 13:7
 
-from the tribe of Issachar, Igal son of Joseph;
+from Issachar's tribe, Igal son of Joseph;
 
 ## Numbers 13:8
 
-from the tribe of Ephraim, Hoshea son of Nun;
+from Ephraim's tribe, Hoshea son of Nun;
 
 ## Numbers 13:9
 
-from the tribe of Benjamin, Palti son of Raphu;
+from Benjamin's tribe, Palti, son of Raphu;
 
 ## Numbers 13:10
 
-from the tribe of Zebulun, Gaddiel son of Sodi;
+from Zebulun's tribe, Gaddiel, son of Sodi;
 
 ## Numbers 13:11
 
@@ -46,19 +46,19 @@ from the tribe of Manasseh, which is part of Joseph, Gaddi son of Susi;
 
 ## Numbers 13:12
 
-from the tribe of Dan, Ammiel son of Gemalli;
+from Dan's tribe, Ammiel, son of Gemalli;
 
 ## Numbers 13:13
 
-from the tribe of Asher, Sethur son of Michael;
+from Asher's tribe, Sethur, son of Michael;
 
 ## Numbers 13:14
 
-from the tribe of Naphtali, Nahbi son of Vophsi;
+from Naphtali's tribe, Nahbi, son of Vophsi;
 
 ## Numbers 13:15
 
-from the tribe of Gad, Geuel, the son of Machi.
+from Gad's tribe, Geuel, the son of Machi.
 
 ## Numbers 13:16
 

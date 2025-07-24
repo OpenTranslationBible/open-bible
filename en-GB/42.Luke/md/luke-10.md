@@ -56,7 +56,7 @@ I tell you, it will be more tolerable on that day for Sodom than for that town.
 
 ## Luke 10:14
 
-But it will be more tolerable for Tyre and Sidon at the judgment than for you.
+Yet, it will be more bearable for Tyre and Sidon at the day of judgment than for you.
 
 ## Luke 10:15
 

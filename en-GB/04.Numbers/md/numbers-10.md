@@ -134,7 +134,7 @@ So they set out from the mountain of the Lord and travelled for three days. The 
 
 ## Numbers 10:34
 
-The cloud of the Lord was over them by day when they set out from the camp.
+The Lord's cloud was above them by day as they set out from the camp.
 
 ## Numbers 10:35
 

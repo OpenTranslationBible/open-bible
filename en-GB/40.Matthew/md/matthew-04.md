@@ -78,11 +78,11 @@ As Jesus was walking by the Sea of Galilee, he saw two brothers, Simon who is ca
 
 ## Matthew 4:19
 
-And he said to them, “Follow me, and I will make you fishers of men.”
+And Jesus said to them, “Come, follow me, and I will make you fishers of men.”
 
 ## Matthew 4:20
 
-Immediately, they left their nets and followed him.
+Then without delay, they left their nets and followed him.
 
 ## Matthew 4:21
 
@@ -90,7 +90,7 @@ Continuing on, he saw two other brothers, James the son of Zebedee, and his brot
 
 ## Matthew 4:22
 
-Immediately, they left the boat and their father, and followed him.
+Then without delay, they left the boat and their father, and followed him.
 
 ---
 

@@ -40,7 +40,7 @@ But the olive tree replied, 'Should I give up my oil, by which both gods and hum
 
 ## Judges 9:10
 
-Then the trees said to the fig tree, 'You, come and reign over us!'
+Then the trees addressed the fig tree, 'You, come and reign over us!'
 
 ## Judges 9:11
 
@@ -88,7 +88,7 @@ Then Jotham fled, escaping to Beer, and he lived there because he was afraid of 
 
 ## Judges 9:22
 
-Abimelech ruled over Israel for three years.
+Abimelech governed Israel for three years.
 
 ## Judges 9:23
 

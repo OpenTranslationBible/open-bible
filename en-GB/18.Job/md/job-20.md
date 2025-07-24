@@ -2,7 +2,7 @@
 
 ## Job 20:1
 
-Then Zophar the Naamathite answered,
+Zophar the Naamathite responded,
 
 ## Job 20:2
 

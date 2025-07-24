@@ -86,7 +86,7 @@ the headdresses, ankle chains, sashes, perfume bottles, and amulets,
 
 ## Isaiah 3:21
 
-the signet rings and nose rings,
+the rings of authority and adornments for the nose,
 
 ## Isaiah 3:22
 

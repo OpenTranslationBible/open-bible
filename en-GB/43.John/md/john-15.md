@@ -2,7 +2,7 @@
 
 ## John 15:1
 
-“I am the true vine, and my Father is the vinedresser.
+“I am the true vine, and my Father tends it.
 
 ## John 15:2
 
@@ -10,7 +10,7 @@ He removes every branch in me that does not bear fruit, and every branch that do
 
 ## John 15:3
 
-You are already clean because of the word I have spoken to you.
+You are made clean by of the word I have spoken to you.
 
 ## John 15:4
 
@@ -92,15 +92,15 @@ They will do all these things to you because of my name, as they do not know the
 
 ## John 15:22
 
-If I had not come and spoken to them, they would not be guilty of sin; but now they have no excuse for their sin.
+If I had not come and spoken to them, they would not know of their sin; but now they have no excuse for their sin.
 
 ## John 15:23
 
-Whoever hates me hates my Father also.
+Whoever hates me detests my Father also.
 
 ## John 15:24
 
-If I had not done among them the works which no one else did, they would not be guilty of sin; but now they have seen and hated both me and my Father.
+If I had not done the works which no other man has done among them, they would not know of their sin; but now they have seen they hate both me and my Father.
 
 ## John 15:25
 

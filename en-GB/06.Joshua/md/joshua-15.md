@@ -102,7 +102,7 @@ Ziph, and Telem, and the settlement of Bealoth,
 
 ## Joshua 15:25
 
-Hazor-hadattah, Kerioth-hezron (that is, Hazor),
+Hazor-hadattah, Kerioth-hezron (also known as Hazor),
 
 ## Joshua 15:26
 
@@ -130,7 +130,7 @@ Ziklag, and, Madmannah and the settlement of Sansannah,
 
 ## Joshua 15:32
 
-Lebaoth, Shilhim, Ain, and Rimmon—a total of twenty -nine towns along with their villages.
+Lebaoth, Shilhim, Ain, and Rimmon—a total of twenty-nine towns along with their villages.
 
 ---
 
@@ -190,7 +190,7 @@ Keilah, and Achzib, and Mareshah —nine towns along with their villages.
 
 ## Joshua 15:45
 
-Ekron, with its towns and villages;
+Ekron, along with its surrounding towns and villages;
 
 ## Joshua 15:46
 
@@ -264,7 +264,7 @@ In the desert region: Beth-arabah, Middin, and Secacah,
 
 ## Joshua 15:62
 
-Nibshan, the City of Salt, and Engedi —six cities, towns along with their villagess.
+Nibshan, the City of Salt, and Engedi —six cities, towns along with their villages.
 
 ## Joshua 15:63
 

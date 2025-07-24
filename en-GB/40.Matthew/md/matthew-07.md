@@ -28,7 +28,7 @@ You hypocrite, first remove the plank from your own eye, and then you will see c
 
 ## Matthew 7:7
 
-“Ask, and it will be given to you; seek, and you will find; knock, and it will be opened to you.
+“Ask, and it shall be given to you; seek, and you shall find; knock, and the door shall be opened to you.
 
 ## Matthew 7:8
 
@@ -76,11 +76,11 @@ Similarly, a good tree produces good fruit, but a bad tree produces bad fruit.
 
 ## Matthew 7:18
 
-A good tree cannot bear bad fruit, nor can a bad tree bear good fruit.
+A good tree does not produce bad fruit, nor can a bad tree give good fruit.
 
 ## Matthew 7:19
 
-Every tree that does not bear good fruit is cut down and thrown into the fire.
+Every tree that fails to produce good fruit is cut down and thrown into the fire.
 
 ## Matthew 7:20
 

@@ -56,7 +56,7 @@ Then the king told the attendants, ‘Bind him hand and foot, and throw him into
 
 ## Matthew 22:14
 
-For many are called, but few are chosen.
+For many receive the call, but few are chosen.
 
 ---
 
@@ -112,7 +112,7 @@ The same happened with the second and third brother, down to the seventh.
 
 ## Matthew 22:27
 
-Finally, the woman died.
+Eventually, the woman died.
 
 ## Matthew 22:28
 
@@ -132,11 +132,11 @@ But concerning the resurrection of the dead, have you not read what God said to 
 
 ## Matthew 22:32
 
-‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is not the God of the dead, but of the living.”
+‘I am the God of Abraham, the God of Isaac, and the God of Jacob’? He is the God of the living, not the dead.”
 
 ## Matthew 22:33
 
-When the crowds heard this, they were astonished at his teaching.
+When the crowds heard this, they were amazed at his teaching.
 
 ---
 
@@ -150,7 +150,7 @@ One of them, a scholar of the law, tested him with this question:
 
 ## Matthew 22:36
 
-“Teacher, which is the greatest commandment in the Law?”
+“Teacher, which commandment in the Law is the greatest?”
 
 ## Matthew 22:37
 
@@ -158,7 +158,7 @@ Jesus replied, “‘You shall love the Lord your God with all your heart, with 
 
 ## Matthew 22:38
 
-This is the first and greatest commandment.
+This is the foremost and greatest commandment.
 
 ## Matthew 22:39
 
@@ -172,7 +172,7 @@ These two commandments are the foundation of all the Law and the Prophets.”
 
 ## Matthew 22:41
 
-While the Pharisees were gathered together, Jesus asked them,
+As the Pharisees were gathered together, Jesus asked them,
 
 ## Matthew 22:42
 

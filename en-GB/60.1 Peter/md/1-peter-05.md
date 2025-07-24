@@ -14,7 +14,7 @@ not by lording it over those entrusted to you, but by being examples to the floc
 
 ## 1 Peter 5:4
 
-And when the Chief Shepherd appears, you will receive the unfading crown of glory.
+And when the Chief Shepherd is revealed, you will be awarded the unfading crown of glory.
 
 ## 1 Peter 5:5
 

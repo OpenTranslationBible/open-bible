@@ -22,7 +22,7 @@ Jesus answered, “Truly, truly, I say to you, unless one is born of water and t
 
 ## John 3:6
 
-That which is born of the flesh is flesh, and that which is born of the Spirit is spirit.
+Whatever is born of the flesh is flesh, and whatever is born of the Spirit is spirit.
 
 ## John 3:7
 

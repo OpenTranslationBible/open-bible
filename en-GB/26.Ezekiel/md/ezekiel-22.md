@@ -30,7 +30,7 @@ In you they have treated father and mother with contempt; they have oppressed th
 
 ## Ezekiel 22:8
 
-You have despised my holy things and profaned my Sabbaths.
+You have shown disdain for the holy things and violated my Sabbaths.
 
 ## Ezekiel 22:9
 

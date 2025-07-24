@@ -17,7 +17,7 @@ Meshelemiah had sons:
 
 ## 1 Chronicles 26:3
 
-> Elam the fifth, Jehohanan the sixth, Eliehoenai the seventh.
+> Elam was the fifth, Jehohanan the sixth, Eliehoenai the seventh.
 
 ---
 
@@ -176,7 +176,7 @@ The sons of Jehieli were:
 
 ## 1 Chronicles 26:23
 
-Of the Amramites, the Izharites, the Hebronites, and the Uzzielites—
+Of the descendants of Amram, Izhar, Hebron, and Uzziel—
 
 ---
 

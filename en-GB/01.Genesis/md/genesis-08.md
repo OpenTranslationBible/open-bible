@@ -58,7 +58,7 @@ By the twenty-seventh day of the second month, the earth was thoroughly dry.
 
 ## Genesis 8:15
 
-Then God spoke to Noah, saying,
+God then spoke to Noah, saying,
 
 ## Genesis 8:16
 

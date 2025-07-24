@@ -10,7 +10,7 @@ Thus, they approached Moses, Eleazar the priest, and the leaders of the communit
 
 ## Numbers 32:3
 
-“Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon—
+“The towns of Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, and Beon—
 
 ## Numbers 32:4
 
@@ -134,7 +134,7 @@ So Moses assigned to the sons of Gad, the sons of Reuben, and the half-tribe of 
 
 ## Numbers 32:34
 
-The descendants of Gad constructed Dibon, Ataroth, Aroer,
+The descendants of Gad constructed the towns of Dibon, Ataroth, Aroer,
 
 ## Numbers 32:35
 

@@ -116,7 +116,7 @@ So be vigilant; I have forewarned you of everything.
 
 ## Mark 13:26
 
-Then they will see the Son of Man coming in clouds with great power and glory.
+Then they will witness the Son of Man arriving in clouds with great power and glory.
 
 ## Mark 13:27
 
@@ -138,7 +138,7 @@ Truly I tell you, this generation will not pass away until all these things have
 
 ## Mark 13:31
 
-Heaven and earth will pass away, but My words will never pass away.
+Though heaven and earth may pass away, My words will never pass away.
 
 ---
 

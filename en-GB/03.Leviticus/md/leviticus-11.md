@@ -58,7 +58,7 @@ the red kite, any kind of falcon,
 
 ## Leviticus 11:15
 
-every kind of raven,
+all varieties of raven,
 
 ## Leviticus 11:16
 

@@ -31,7 +31,7 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ## 1 Chronicles 9:5
 
-> From the Shilonites: Asaiah the firstborn and his sons.
+> From the descendants of Shiloh: Asaiah the firstborn and his sons.
 
 ---
 
@@ -252,11 +252,11 @@ In Gibeon Jeiel the father of Gibeon lived,
 
 ## 1 Chronicles 9:36
 
-His first son was Abdon, they were then followed by Zur, Kish, Baal, Ner, Nadab,
+His first son was Abdon, followed by Zur, Kish, Baal, Ner, Nadab,
 
 ## 1 Chronicles 9:37
 
-Gedor, Ahio, Zechariah, and Mikloth.
+also Gedor, Ahio, Zechariah, and Mikloth.
 
 ---
 

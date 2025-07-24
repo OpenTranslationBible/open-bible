@@ -4,13 +4,13 @@
 Here are the names of the sons of Israel who journeyed to Egypt with Jacob, each accompanied by his household:
 
 ## Exodus 1:2
-Reuben, Simeon, Levi, and Judah;
+Reuben, Simeon, Levi, along with Judah;
 
 ## Exodus 1:3
-Issachar, Zebulun, and Benjamin;
+Issachar, Zebulun, together with Benjamin;
 
 ## Exodus 1:4
-Dan and Naphtali, Gad and Asher.
+Dan and Naphtali, along with Gad and Asher.
 
 ## Exodus 1:5
 The descendants of Jacob were seventy in total, but Joseph was already in Egypt.

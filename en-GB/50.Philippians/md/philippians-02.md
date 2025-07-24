@@ -62,7 +62,7 @@ for it is God who is at work in you, both to will and to act in order to fulfil 
 
 ## Philippians 2:14
 
-Do everything without complaining or arguing,
+Do everything without complaining or grumbling,
 
 ## Philippians 2:15
 

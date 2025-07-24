@@ -34,7 +34,7 @@ Now the one who plants and the one who waters have one purpose, and each will be
 
 ## 1 Corinthians 3:9
 
-For we are God’s co-workers; you are God’s field, God’s building.
+For we are fellow workers in God’s service; you are God’s field, God’s building.
 
 ## 1 Corinthians 3:10
 

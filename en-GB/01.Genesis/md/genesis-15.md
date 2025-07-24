@@ -78,8 +78,8 @@ the territory of the Kenites, Kenizzites, Kadmonites,
 
 ## Genesis 15:20
 
-Hittites, Perizzites, Rephaites,
+the Hittites, Perizzites, and Rephaites,
 
 ## Genesis 15:21
 
-Amorites, Canaanites, Girgashites, and Jebusites.”
+the Amorites, Canaanites, Girgashites, and Jebusites.”

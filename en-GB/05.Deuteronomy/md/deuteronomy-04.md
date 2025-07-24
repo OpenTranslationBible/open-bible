@@ -94,7 +94,7 @@ Be diligent not to forget the covenant of the Lord your God that He made with yo
 
 ## Deuteronomy 4:24
 
-For the Lord your God is a consuming fire, a jealous God.
+For the Lord your God is a devouring fire, a God who desires exclusive devotion.
 
 ## Deuteronomy 4:25
 

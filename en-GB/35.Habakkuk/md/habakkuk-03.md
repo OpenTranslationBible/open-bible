@@ -2,7 +2,7 @@
 
 ## Habakkuk 3:1
 
-A prayer of Habakkuk the prophet, according to Shigionoth.
+The prayer of supplication by Habakkuk the prophet, set to Shigionoth.
 
 ## Habakkuk 3:2
 

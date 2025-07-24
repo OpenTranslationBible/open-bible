@@ -18,7 +18,7 @@ But what was the divine response to him? “I have reserved for Myself seven tho
 
 ## Romans 11:5
 
-So too, at the present time there is a remnant chosen by grace.
+In the same way, at the present time there is a remnant selected by grace.
 
 ## Romans 11:6
 

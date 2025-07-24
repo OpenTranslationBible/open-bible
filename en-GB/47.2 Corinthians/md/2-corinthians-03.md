@@ -66,7 +66,7 @@ But whenever someone turns to the Lord, the veil is removed.
 
 ## 2 Corinthians 3:17
 
-Now the Lord is the Spirit, and where the Spirit of the Lord is, there is freedom.
+The Lord is the Spirit, and where the Spirit of the Lord resides, there is freedom.
 
 ## 2 Corinthians 3:18
 

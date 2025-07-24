@@ -28,7 +28,7 @@ and brought them back to the Lord, the God of their fathers.
 
 ## 2 Chronicles 19:5
 
-He appointed judges in the land in all the fortified cities of Judah, city by city.
+He established judges throughout the land in all the fortified cities of Judah, one city at a time.
 
 ---
 

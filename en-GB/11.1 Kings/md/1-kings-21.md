@@ -61,7 +61,7 @@ So they took him outside the city and stoned him to death.
 
 ## 1 Kings 21:14
 
-Then they sent word to Jezebel, “Naboth has been stoned to death.”
+Afterwards, they informed Jezebel, “Naboth has been stoned and is dead.”
 
 ---
 

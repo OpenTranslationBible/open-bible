@@ -46,7 +46,7 @@ Let the wilderness and its towns raise their voices, the settlements where Kedar
 
 ## Isaiah 42:12
 
-Let them give glory to the Lord and declare his praise in the coastlands.
+Let them give honour and glory to the Lord and proclaim his praise in the coastlands.
 
 ## Isaiah 42:13
 

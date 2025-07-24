@@ -37,7 +37,7 @@ Its branches were strong, fit for a ruler's sceptre. It towered high above the t
 But it was uprooted in fury and thrown to the ground. The east wind dried up its fruit; its strong branches were broken and withered, and fire consumed them.
 
 ## Ezekiel 19:13
-Now it is planted in the wilderness, in a dry and thirsty land.
+It is now situated in the wilderness, in a parched and thirsty land.
 
 ## Ezekiel 19:14
 Fire has emerged from its main branch and consumed its shoots and fruit. No strong branch is left in it, fit for a ruler's sceptre.' This is a lamentation and is to be used as a lamentation.

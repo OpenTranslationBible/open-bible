@@ -116,13 +116,13 @@ and whoever wants to be first must be your servant—
 
 ## Matthew 20:28
 
-just as the Son of Man did not come to be served, but to serve, and to give his life as a ransom for many.”
+for the Son of Man came not to be served, but to serve, and to offer his life as a ransom for many.”
 
 ---
 
 ## Matthew 20:29
 
-As they were leaving Jericho, a large crowd followed him.
+As they departed from Jericho, a large crowd accompanied him.
 
 ## Matthew 20:30
 

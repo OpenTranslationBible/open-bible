@@ -18,7 +18,7 @@ But the vessel he was crafting from the clay was flawed in the potter’s hand; 
 
 ## Jeremiah 18:5
 
-Then the word of the Lord came to me, saying:
+The word of the Lord then came to me, saying,
 
 ## Jeremiah 18:6
 

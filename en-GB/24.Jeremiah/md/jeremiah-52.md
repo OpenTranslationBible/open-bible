@@ -76,7 +76,7 @@ The captain of the guard took Seraiah the chief priest, Zephaniah the second pri
 He also took from the city an officer in charge of the warriors, seven royal advisers, the scribe of the commander of the army who mustered the people of the land, and sixty men found in the city.
 
 ## Jeremiah 52:26
-Nebuzaradan, the captain of the guard, took them and brought them to the king of Babylon at Riblah.
+Nebuzaradan, the captain of the guard, seized them and brought them to the king of Babylon at Riblah.
 
 ## Jeremiah 52:27
 The king of Babylon struck them down and put them to death at Riblah in the land of Hamath. Thus Judah went into exile from its land.

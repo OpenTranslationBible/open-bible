@@ -170,7 +170,7 @@ But Jesus said, “Do not stop him, for no one who does a miracle in my name can
 
 ## Mark 9:40
 
-For whoever is not against us is for us.
+For anyone who is not against us, is for us.
 
 ## Mark 9:41
 
@@ -211,7 +211,7 @@ where
 
 ## Mark 9:49
 
-For everyone will be salted with fire.
+For everyone will be refined with fire.
 
 ## Mark 9:50
 

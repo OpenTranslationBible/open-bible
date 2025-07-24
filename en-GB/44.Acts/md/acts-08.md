@@ -72,7 +72,7 @@ For the Holy Spirit had not yet fallen upon any of them; they had only been bapt
 
 ## Acts 8:17
 
-Then Peter and John laid their hands on them, and they received the Holy Spirit.
+So Peter and John lay their hands upon them, and they received the Holy Spirit.
 
 ## Acts 8:18
 
