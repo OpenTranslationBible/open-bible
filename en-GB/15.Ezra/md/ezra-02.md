@@ -225,7 +225,7 @@ The temple servants:
 
 ## Ezra 2:54
 
-> Neziah, and Hatipha.
+> Neziah, and also Hatipha.
 
 ---
 
@@ -241,7 +241,7 @@ the descendants of Sotai, Hassophereth, and Peruda,
 
 ## Ezra 2:57
 
-> Shephatiah, Hattil, Pokereth-Hazzebaim, and Ami.
+> Shephatiah, Hattil, and Pokereth-Hazzebaim, and Ami.
 
 ## Ezra 2:58
 
@@ -283,11 +283,11 @@ besides their male and female slaves, who numbered 7,337; and they had 200 male 
 
 ## Ezra 2:66
 
-They possessed 736 horses, 245 mules,
+They possessed 736 horses, and 245 mules,
 
 ## Ezra 2:67
 
-435 camels, and 6,720 donkeys.
+had 435 camels, and 6,720 donkeys.
 
 ---
 
