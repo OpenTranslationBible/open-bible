@@ -317,7 +317,7 @@ They gave them Hebron in the land of Judah and its surrounding pasture lands,
 
 ## 1 Chronicles 6:56
 
-but the fields of the city and its villages, they gave to Caleb, son of Jephunneh.
+but they gave the fields of the city and its villages to Caleb, son of Jephunneh.
 
 ---
 

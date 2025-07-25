@@ -18,7 +18,7 @@ Adah gave birth to Eliphaz for Esau, while Basemath gave birth to Reuel.
 
 ## Genesis 36:5
 
-and Oholibamah gave birth to Jeush, Jalam, and Korah. These are the sons of Esau, who were born to him in the land of Canaan.
+and Oholibamah gave birth to Jeush, Jalam, and Korah. These also are the sons of Esau, who were born to him in the land of Canaan.
 
 ## Genesis 36:6
 
@@ -42,7 +42,7 @@ Here are the names of Esau’s sons: Eliphaz, born to Esau’s wife Adah; and Re
 
 ## Genesis 36:11
 
-Eliphaz's sons were Teman, Omar, Zepho, Gatam, and Kenaz.
+Eliphaz's sons were named Teman, Omar, Zepho, Gatam, and Kenaz.
 
 ## Genesis 36:12
 
@@ -162,11 +162,11 @@ These were the names of the chiefs descended from Esau, according to their famil
 
 ## Genesis 36:41
 
-chief Oholibamah, chief Elah, chief Pinon,
+chief Oholibamah, chief Elah, and chief Pinon,
 
 ## Genesis 36:42
 
-chief Kenaz, chief Teman, chief Mibzar,
+chief Kenaz, chief Teman, and chief Mibzar,
 
 ## Genesis 36:43
 

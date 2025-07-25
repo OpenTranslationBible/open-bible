@@ -72,19 +72,19 @@ mighty men of valour, men trained for war,
 
 ## 1 Chronicles 12:10
 
-> Mishmannah was fourth, Jeremiah was fifth,
+> Mishmannah was the fourth, and Jeremiah was fifth,
 
 ---
 
 ## 1 Chronicles 12:11
 
-> Attai was sixth, Eliel was seventh,
+> Attai was the sixth, and Eliel was seventh,
 
 ---
 
 ## 1 Chronicles 12:12
 
-> Johanan was eighth, Elzabad was ninth,
+> Johanan was the eighth, and Elzabad was ninth,
 
 ---
 

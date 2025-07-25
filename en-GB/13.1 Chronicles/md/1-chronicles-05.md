@@ -35,7 +35,7 @@ The sons of Joel were:
 
 ## 1 Chronicles 5:5
 
-> Micah his son, Reaiah his son, Baal his son,
+> Micah his son, Reaiah was his son, Baal his son,
 
 ## 1 Chronicles 5:6
 

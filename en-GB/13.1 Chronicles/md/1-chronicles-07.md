@@ -303,7 +303,7 @@ The sons of Zophah were:
 
 ## 1 Chronicles 7:37
 
-> Bezer, Hod, Shamma, Shilshah, Ithran, and Beera.
+> Bezer, Hod, and Shamma, Shilshah, Ithran, and Beera.
 
 ---
 

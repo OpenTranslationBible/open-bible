@@ -18,7 +18,7 @@ Why should our father's name vanish from his family because he had no son? Grant
 
 ## Numbers 27:5
 
-Moses presented their case to the Lord.
+So Moses took their case to the Lord.
 
 ## Numbers 27:6
 

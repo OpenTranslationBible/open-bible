@@ -102,7 +102,7 @@ Ziph, and Telem, and the settlement of Bealoth,
 
 ## Joshua 15:25
 
-Hazor-hadattah, Kerioth-hezron (also known as Hazor),
+Hazor-hadattah, Kerioth-hezron (known as Hazor),
 
 ## Joshua 15:26
 

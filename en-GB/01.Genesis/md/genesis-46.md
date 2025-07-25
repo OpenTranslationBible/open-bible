@@ -42,7 +42,7 @@ The sons of Simeon: Jemuel, Jamin, Ohad, Jachin, Zohar, and Shaul, whose mother 
 
 ## Genesis 46:11
 
-Levi's sons were Gershon, Kohath, and Merari.
+Levi's sons were named Gershon, Kohath, and Merari.
 
 ## Genesis 46:12
 
@@ -54,7 +54,7 @@ The sons of Issachar: Tola, Puvvah, Iob, and Shimron.
 
 ## Genesis 46:14
 
-Zebulun's sons were Sered, Elon, and Jahleel.
+Zebulun's sons were named Sered, Elon, and Jahleel.
 
 ## Genesis 46:15
 
@@ -94,7 +94,7 @@ The son of Dan was called Hushim.
 
 ## Genesis 46:24
 
-Naphtali's sons were Jahzeel, Guni, Jezer, and Shillem.
+Naphtali's sons were named Jahzeel, Guni, Jezer, and Shillem.
 
 ## Genesis 46:25
 

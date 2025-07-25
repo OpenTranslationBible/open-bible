@@ -8,7 +8,7 @@ And Benjamin fathered:
 
 ## 1 Chronicles 8:2
 
-> Nohah the fourth, and Rapha the fifth.
+> Nohah was the fourth, and Rapha the fifth.
 
 ---
 
@@ -20,11 +20,11 @@ Bela had sons:
 
 ## 1 Chronicles 8:4
 
-> Abishua, Naaman, Ahoah,
+> Abishua, and Naaman, and Ahoah,
 
 ## 1 Chronicles 8:5
 
-> Gera, Shephuphan, and Huram.
+> Gera, and Shephuphan, and Huram.
 
 ---
 
@@ -89,67 +89,67 @@ The sons of Elpaal were:
 
 ## 1 Chronicles 8:14
 
-And Ahio, Shashak, and Jeremoth,
+Ahio, and Shashak, and Jeremoth,
 
 ## 1 Chronicles 8:15
 
-Zebadiah, Arad, Eder,
+and Zebadiah, Arad, Eder,
 
 ## 1 Chronicles 8:16
 
-Michael, Ishpah, and Joha were the sons of Beriah.
+Michael, and Ishpah, and Joha were the sons of Beriah.
 
 ---
 
 ## 1 Chronicles 8:17
 
-Zebadiah, Meshullam, Hizki, Heber,
+Zebadiah, and Meshullam, Hizki, Heber,
 
 ## 1 Chronicles 8:18
 
-Ishmerai, Izliah, and Jobab were the sons of Elpaal.
+Ishmerai, and Izliah, and Jobab were the sons of Elpaal.
 
 ---
 
 ## 1 Chronicles 8:19
 
-Jakim, Zichri, Zabdi,
+with Jakim, and Zichri, and Zabdi,
 
 ## 1 Chronicles 8:20
 
-Elienai, Zillethai, Eliel,
+Elienai, and Zillethai, and Eliel,
 
 ## 1 Chronicles 8:21
 
-Adaiah, Beraiah, and Shimrath were the sons of Shimei.
+Adaiah, and Beraiah, and Shimrath were the sons of Shimei.
 
 ---
 
 ## 1 Chronicles 8:22
 
-Ishpan, Eber, Eliel,
+Ishpan, and Eber, and Eliel,
 
 ## 1 Chronicles 8:23
 
-Abdon, Zichri, Hanan,
+Abdon, and Zichri, and Hanan,
 
 ## 1 Chronicles 8:24
 
-Hananiah, Elam, Anthothijah,
+Hananiah, and Elam, and Anthothijah,
 
 ## 1 Chronicles 8:25
 
-Iphdeiah, and Penuel were the sons of Shashak.
+Iphdeiah, Penuel the sons of Shashak.
 
 ---
 
 ## 1 Chronicles 8:26
 
-Shamsherai, Shehariah, Athaliah,
+Shamsherai, and Shehariah, and Athaliah,
 
 ## 1 Chronicles 8:27
 
-Jaareshiah, Elijah, and Zichri were the sons of Jeroham.
+Jaareshiah, and Elijah, and Zichri were the sons of Jeroham.
 
 ---
 
@@ -171,11 +171,11 @@ Now in Gibeon, Jeiel the father of Gibeon lived,
 
 ## 1 Chronicles 8:30
 
-His firstborn son was Abdon, then Zur, Kish, Baal, Nadab,
+His firstborn son was Abdon, who was followed by Zur, Kish, Baal, Nadab,
 
 ## 1 Chronicles 8:31
 
-Gedor, Ahio, and Zecher.
+Gedor, and Ahio, and Zecher.
 
 ---
 

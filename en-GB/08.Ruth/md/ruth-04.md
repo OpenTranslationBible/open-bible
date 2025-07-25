@@ -88,4 +88,4 @@ Salmon became the father of Boaz, and Boaz became the father of Obed,
 
 ## Ruth 4:22
 
-Obed became the father of Jesse, and Jesse became the father of David.
+Obed became the father of Jesse, and Jesse was the father of David.

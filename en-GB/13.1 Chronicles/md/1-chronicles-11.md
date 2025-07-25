@@ -235,7 +235,7 @@ Now the mighty men of the armies were:
 
 ## 1 Chronicles 11:27
 
-> Shammoth the Harorite, Helez the Pelonite,
+> Shammoth of Harod, and Helez the Pelonite,
 
 ## 1 Chronicles 11:28
 
@@ -334,4 +334,4 @@ Now the mighty men of the armies were:
 
 ## 1 Chronicles 11:47
 
-> Eliel, Obed, and Jaasiel the Mezobaite.
+> Eliel, and Obed, and Jaasiel the Mezobaite.

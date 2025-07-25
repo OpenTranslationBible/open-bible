@@ -44,7 +44,7 @@ Ben-hur, in the hill country of Ephraim;
 
 ## 1 Kings 4:9
 
-Ben-deker, in Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;
+Ben-deker, who was governor over Makaz, Shaalbim, Beth-shemesh, and Elon-beth-hanan;
 
 ## 1 Kings 4:10
 
@@ -67,7 +67,7 @@ also the region of Argob, which is in Bashan—sixty great cities with walls and
 
 ## 1 Kings 4:14
 
-Ahinadab, son of Iddo, in Mahanaim;
+Ahinadab, was the son of Iddo, in Mahanaim;
 
 ## 1 Kings 4:15
 
@@ -79,11 +79,11 @@ Baana, the son of Hushai - responsible for Asher and Bealoth;
 
 ## 1 Kings 4:17
 
-Jehoshaphat, son of Paruah, in Issachar;
+Jehoshaphat, was the son of Paruah, in Issachar;
 
 ## 1 Kings 4:18
 
-Shimei, son of Ela, in Benjamin;
+Shimei, was the son of Ela, in Benjamin;
 
 ## 1 Kings 4:19
 

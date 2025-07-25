@@ -147,7 +147,7 @@ When Azubah died, Caleb married Ephrath,
 
 ## 1 Chronicles 2:20
 
-Hur was the father of Uri, and Uri was the father of Bezalel.
+Hur was the father of Uri, and Uri fathered Bezalel.
 
 ---
 
@@ -357,7 +357,7 @@ The sons of Jahdai were:
 
 ## 1 Chronicles 2:48
 
-Maacah, Caleb’s concubine, gave birth to Sheber and Tirhanah.
+Maacah, the concubine of Caleb, bore Sheber and Tirhanah.
 
 ---
 

@@ -34,15 +34,15 @@ These were the names of the children born to him in Jerusalem:
 
 ## 1 Chronicles 14:5
 
-> Ibhar, Elishua, and Elpelet,
+> Ibhar, and Elishua, Elpelet,
 
 ## 1 Chronicles 14:6
 
-> Nogah, Nepheg, and Japhia,
+> Nogah, and Nepheg, Japhia,
 
 ## 1 Chronicles 14:7
 
-> Elishama, Beeliada, and Eliphelet.
+> Elishama, and Beeliada, Eliphelet.
 
 ---
 

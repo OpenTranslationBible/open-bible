@@ -85,11 +85,11 @@ Shammua, Shobab, Nathan, Solomon,
 
 ## 2 Samuel 5:15
 
-Ibhar, Elishua, Nepheg, Japhia,
+Ibhar, and Elishua, Nepheg, and Japhia,
 
 ## 2 Samuel 5:16
 
-Elishama, Eliada, and Eliphelet.
+and Elishama, Eliada, and Eliphelet.
 
 ---
 

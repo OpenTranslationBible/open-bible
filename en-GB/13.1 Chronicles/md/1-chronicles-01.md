@@ -117,7 +117,7 @@ Joktan fathered
 
 ## 1 Chronicles 1:21
 
-Hadoram, Uzal, and Diklah,
+Hadoram, and Uzal, and Diklah,
 
 ## 1 Chronicles 1:22
 

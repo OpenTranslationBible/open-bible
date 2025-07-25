@@ -130,11 +130,11 @@ The spoils remaining from the plunder which the men of war had taken were 675,00
 
 ## Numbers 31:33
 
-seventy-two thousand cattle,
+and seventy-two thousand head of cattle,
 
 ## Numbers 31:34
 
-sixty-one thousand donkeys,
+with sixty-one thousand donkeys,
 
 ## Numbers 31:35
 
@@ -174,15 +174,15 @@ the congregation’s half was 337,500 sheep,
 
 ## Numbers 31:44
 
-thirty-six thousand cattle,
+and thirty-six thousand head of cattle,
 
 ## Numbers 31:45
 
-thirty thousand five hundred donkeys,
+with thirty thousand five hundred donkeys,
 
 ## Numbers 31:46
 
-and sixteen thousand people.
+and a total of sixteen thousand people.
 
 ## Numbers 31:47
 

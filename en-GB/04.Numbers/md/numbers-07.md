@@ -62,7 +62,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:16
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:17
 
@@ -86,7 +86,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:22
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:23
 
@@ -110,7 +110,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:28
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:29
 
@@ -134,7 +134,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:34
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:35
 
@@ -158,7 +158,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:40
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:41
 
@@ -182,7 +182,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:46
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:47
 
@@ -206,7 +206,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:52
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:53
 
@@ -230,7 +230,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:58
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:59
 
@@ -254,7 +254,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:64
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:65
 
@@ -278,7 +278,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:70
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:71
 
@@ -302,7 +302,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:76
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:77
 
@@ -326,7 +326,7 @@ a young bull, a ram, and a male lamb a year old for a burnt offering;
 
 ## Numbers 7:82
 
-a male goat for a sin offering;
+a single male goat for a sin offering;
 
 ## Numbers 7:83
 

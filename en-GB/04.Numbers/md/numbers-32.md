@@ -138,7 +138,7 @@ The descendants of Gad constructed the towns of Dibon, Ataroth, Aroer,
 
 ## Numbers 32:35
 
-Atroth-shophan, Jazer, Jogbehah,
+Atroth-shophan, and Jazer, Jogbehah,
 
 ## Numbers 32:36
 

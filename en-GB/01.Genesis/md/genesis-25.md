@@ -54,11 +54,11 @@ These are the names of the sons of Ishmael, listed by their names in the order o
 
 ## Genesis 25:14
 
-Mishma, Dumah, and Massa,
+and Mishma, Dumah, and Massa,
 
 ## Genesis 25:15
 
-Hadad, Tema, Jetur, Naphish, and Kedemah.
+and Hadad, Tema, Jetur, Naphish, and Kedemah.
 
 ## Genesis 25:16
 
