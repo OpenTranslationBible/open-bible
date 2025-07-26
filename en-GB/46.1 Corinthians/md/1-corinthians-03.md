@@ -34,7 +34,7 @@ Now the one who plants and the one who waters have one purpose, and each will be
 
 ## 1 Corinthians 3:9
 
-For we are fellow workers in God’s service; you are God’s field, God’s building.
+For we are fellow workers in God’s service; you are God’s field, you are God’s building.
 
 ## 1 Corinthians 3:10
 
@@ -90,4 +90,4 @@ Whether it be Paul, Apollos, Cephas, the world, life, death, the present, or the
 
 ## 1 Corinthians 3:23
 
-And you belong to Christ, and Christ belongs to God.
+And you belong to Christ, just as Christ belongs to God.

@@ -4,7 +4,7 @@
 
 ## Psalm 87:1
 
-> His foundation is in the holy mountains.
+> His foundation is set in the holy mountains.
 
 ## Psalm 87:2
 

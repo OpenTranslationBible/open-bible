@@ -149,7 +149,7 @@ As it is written:
 
 ## Romans 8:37
 
-No, in all these things we are more than victorious through Him who loved us.
+No, in all these things we are made more than victorious through Him who loved us.
 
 ## Romans 8:38
 

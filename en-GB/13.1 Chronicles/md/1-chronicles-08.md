@@ -139,7 +139,7 @@ Hananiah, and Elam, and Anthothijah,
 
 ## 1 Chronicles 8:25
 
-Iphdeiah, Penuel the sons of Shashak.
+Iphdeiah, and Penuel -sons of Shashak.
 
 ---
 

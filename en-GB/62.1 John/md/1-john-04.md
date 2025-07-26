@@ -74,7 +74,7 @@ There is no fear in love, but perfect love casts out fear, because fear involves
 
 ## 1 John 4:19
 
-We love because He first loved us.
+We love Him only because He first loved us.
 
 ## 1 John 4:20
 

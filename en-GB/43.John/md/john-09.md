@@ -18,7 +18,7 @@ We must carry out the tasks of Him who sent Me while it is still day. Night is a
 
 ## John 9:5
 
-As long as I am in the world, I am the light of the world.”
+For while I am in the world, I am the light of the world.”
 
 ---
 

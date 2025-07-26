@@ -6,7 +6,7 @@ Paul, an apostle of Christ Jesus by the will of God, To the saints in Ephesus, w
 
 ## Ephesians 1:2
 
-Grace and peace to you from God our Father, and the Lord Jesus Christ.
+Grace to you and peace from God our Father, and our Lord Jesus Christ.
 
 ## Ephesians 1:3
 

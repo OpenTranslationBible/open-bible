@@ -142,15 +142,15 @@ From the line of Bani: Maadai, Amram, Uel,
 
 ## Ezra 10:35
 
-Benaiah, Bedeiah, Cheluhi,
+Benaiah, and Bedeiah, and Cheluhi,
 
 ## Ezra 10:36
 
-Vaniah, Meremoth, Eliashib,
+Vaniah, and Meremoth, and Eliashib,
 
 ## Ezra 10:37
 
-Mattaniah, Mattenai, and Jaasu.
+Mattaniah, and Mattenai, and Jaasu.
 
 ## Ezra 10:38
 
@@ -158,19 +158,19 @@ From the line of Binnui: Shimei,
 
 ## Ezra 10:39
 
-Shelemiah, Nathan, Adaiah,
+Shelemiah, and Nathan, and Adaiah,
 
 ## Ezra 10:40
 
-Machnadebai, Shashai, Sharai,
+Machnadebai, and Shashai, and Sharai,
 
 ## Ezra 10:41
 
-Azarel, Shelemiah, Shemariah,
+Azarel, and Shelemiah, and Shemariah,
 
 ## Ezra 10:42
 
-Shallum, Amariah, and Joseph.
+Shallum, and Amariah, and Joseph.
 
 ## Ezra 10:43
 

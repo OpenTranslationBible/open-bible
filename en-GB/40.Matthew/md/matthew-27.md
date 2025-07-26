@@ -240,7 +240,7 @@ Many women were there, watching from a distance. They had followed Jesus from Ga
 
 ## Matthew 27:56
 
-Among them were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
+Among their number were Mary Magdalene, Mary the mother of James and Joseph, and the mother of the sons of Zebedee.
 
 ---
 

@@ -106,35 +106,35 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:26
 
-> the people of Bethlehem and Netophah, 188;
+> the people of Bethlehem and Netophah, numbered 188;
 
 ## Nehemiah 7:27
 
-> the people of Anathoth, 128;
+> the people of Anathoth, numbered 128;
 
 ## Nehemiah 7:28
 
-> the people of Beth Azmaveth, 42;
+> the people of Beth Azmaveth, numbered 42;
 
 ## Nehemiah 7:29
 
-> the people of Kiriath Jearim, Kephirah, and Beeroth, 743;
+> the people of Kiriath Jearim, Kephirah, and Beeroth, numbered 743;
 
 ## Nehemiah 7:30
 
-> the people of Ramah and Geba, 621;
+> the people of Ramah and Geba, numbered 621;
 
 ## Nehemiah 7:31
 
-> the people of Michmas, 122;
+> the people of Michmas, numbered 122;
 
 ## Nehemiah 7:32
 
-> the people of Bethel and Ai, 123;
+> the people of Bethel and Ai, numbered 123;
 
 ## Nehemiah 7:33
 
-> the people of the other Nebo, 52;
+> the people of the other Nebo, numbered 52;
 
 ## Nehemiah 7:34
 
@@ -150,7 +150,7 @@ accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai,
 
 ## Nehemiah 7:37
 
-> the people of Lod, Hadid, and Ono, 721;
+> the people of Lod, Hadid, and Ono, numbered 721;
 
 ## Nehemiah 7:38
 
@@ -304,7 +304,7 @@ They possessed 736 horses, 245 mules,
 
 ## Nehemiah 7:69
 
-435 camels, and 6,720 donkeys.
+and had 435 camels, and 6,720 donkeys.
 
 ---
 

@@ -35,7 +35,7 @@ Remember your leaders who spoke the word of God to you. Reflect on the outcome o
 
 ## Hebrews 13:8
 
-Jesus Christ is the same yesterday, today and forever.
+Jesus Christ is always the same; yesterday, today and for all time.
 
 ## Hebrews 13:9
 

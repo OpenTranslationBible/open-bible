@@ -4,7 +4,7 @@
 
 ## John 8:1
 
-Jesus went to the Mount of Olives.
+Jesus went up to the Mount of Olives.
 
 ## John 8:2
 

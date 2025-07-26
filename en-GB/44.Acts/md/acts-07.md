@@ -217,7 +217,7 @@ Nevertheless, the Most High does not reside in structures made by human hands. A
 
 ## Acts 7:50
 
-> Was it not My hand that made all these things?’
+> Is it not My hand that made all these things?’
 
 ---
 

@@ -74,11 +74,11 @@ Wives, align with your husbands, as is appropriate in the Lord.
 
 ## Colossians 3:19
 
-Husbands, love your wives and do not be harsh with them.
+Husbands, love your wives and do not be mean to them.
 
 ## Colossians 3:20
 
-Children, heed your parents in everything, for this is pleasing to the Lord.
+Children, listen to your parents in everything, as this is pleasing to the Lord.
 
 ## Colossians 3:21
 

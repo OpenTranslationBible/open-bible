@@ -44,7 +44,7 @@
 
 ## Psalm 92:8
 
-> But You, Lord, are on high forever.
+> But You, Lord, are forever on high.
 
 ---
 

@@ -205,7 +205,7 @@
 
 ## Psalm 106:37
 
-> They even sacrificed their sons and their daughters to the demons,
+> For they even sacrificed their sons and their daughters to the demons,
 
 ## Psalm 106:38
 

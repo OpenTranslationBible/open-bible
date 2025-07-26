@@ -93,7 +93,7 @@ The spies questioned Him, saying, “Teacher, we know that You speak and teach r
 
 ## Luke 20:22
 
-Is it right for us to pay taxes to Caesar, or not?”
+Is it then right for us to pay taxes to Caesar?”
 
 ## Luke 20:23
 

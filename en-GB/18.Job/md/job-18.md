@@ -2,7 +2,7 @@
 
 ## Job 18:1
 
-Then Bildad the Shuhite replied:
+Then Bildad the Shuhite replied and said:
 
 ## Job 18:2
 

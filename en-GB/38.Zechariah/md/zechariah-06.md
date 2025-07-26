@@ -34,7 +34,7 @@ Then He called out to me, “Look, those heading to the north country have appea
 
 ## Zechariah 6:9
 
-Then the word of the Lord came to me, saying:
+The word of the Lord then came to me, saying:
 
 ## Zechariah 6:10
 

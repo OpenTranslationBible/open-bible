@@ -102,7 +102,7 @@ So He called them to Himself and began to speak to them in parables: “How can 
 
 ## Mark 3:24
 
-If a kingdom is divided against itself, that kingdom cannot stand.
+If any kingdom is divided against itself, that kingdom cannot stand.
 
 ## Mark 3:25
 

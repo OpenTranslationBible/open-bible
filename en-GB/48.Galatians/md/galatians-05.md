@@ -86,7 +86,7 @@ envy, drunkenness, orgies, and the like. I warn you, as I have before, that thos
 
 ## Galatians 5:22
 
-But the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
+For the fruit of the Spirit is love, joy, peace, patience, kindness, goodness, faithfulness,
 
 ## Galatians 5:23
 

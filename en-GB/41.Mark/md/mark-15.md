@@ -124,7 +124,7 @@ Those passing by hurled insults at Him, shaking their heads and saying, “Ah! Y
 
 ## Mark 15:30
 
-save Yourself, come down from the cross!”
+you should save Yourself, and come down from the cross!”
 
 ## Mark 15:31
 

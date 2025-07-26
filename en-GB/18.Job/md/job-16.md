@@ -2,7 +2,7 @@
 
 ## Job 16:1
 
-Job responded,
+Job responded, saying,
 
 ## Job 16:2
 

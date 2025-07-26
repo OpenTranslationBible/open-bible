@@ -131,4 +131,4 @@ Accept my guidance and learn from me, for I am gentle and humble in heart, and y
 
 ## Matthew 11:30
 
-For my yoke is easy and my burden is light.”
+For my yoke is easy, my burden is light.”

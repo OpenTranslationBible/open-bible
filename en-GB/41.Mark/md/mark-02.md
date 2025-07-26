@@ -118,4 +118,4 @@ Finally he replied, “The Sabbath was created for man, not man for the Sabbath.
 
 ## Mark 2:28
 
-Therefore, the Son of Man is also Lord of the Sabbath.”
+So, the Son of Man is also Lord of the Sabbath.”

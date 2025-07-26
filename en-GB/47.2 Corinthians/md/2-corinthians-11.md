@@ -118,7 +118,7 @@ Who is weak without my sharing in that weakness? Who is led into sin without my 
 
 ## 2 Corinthians 11:30
 
-If I must boast, I will boast of the things that show my weakness.
+If I must boast, I will boast of all the things that show my weakness.
 
 ## 2 Corinthians 11:31
 

@@ -38,7 +38,7 @@ Jesus responded, “Today, salvation has come to this house, for he also is a so
 
 ## Luke 19:10
 
-For the Son of Man came to seek and save those who are lost.”
+For the Son of Man came to seek and save the lost.”
 
 ---
 
@@ -154,7 +154,7 @@ When he came near the place where the road goes down the Mount of Olives, the wh
 
 ## Luke 19:38
 
-saying, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest!”
+they proclaimed, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest heaven!”
 
 ## Luke 19:39
 

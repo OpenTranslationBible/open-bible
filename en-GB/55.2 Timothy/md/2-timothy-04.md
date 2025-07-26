@@ -46,7 +46,7 @@ Only Luke is with me. Take Mark and bring him with you, for he is helpful to me 
 
 ## 2 Timothy 4:12
 
-I have sent Tychicus to Ephesus.
+As I have sent Tychicus to Ephesus.
 
 ## 2 Timothy 4:13
 

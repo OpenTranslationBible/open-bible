@@ -62,7 +62,7 @@ If you ask me any request in my name, I will fulfil it.
 
 ## John 14:15
 
-“If you love me, you will obey my commands.
+“For if you love me, you will obey my commands.
 
 ## John 14:16
 

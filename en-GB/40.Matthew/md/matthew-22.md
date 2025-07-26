@@ -136,7 +136,7 @@ But concerning the resurrection of the dead, have you not read what God said to 
 
 ## Matthew 22:33
 
-When the crowds heard this, they were amazed at his teaching.
+The crowds heard this and were amazed at his teaching.
 
 ---
 
@@ -150,7 +150,7 @@ One of them, a scholar of the law, tested him with this question:
 
 ## Matthew 22:36
 
-“Teacher, which commandment in the Law is the greatest?”
+“Teacher, which commandment is the greatest in the Law?”
 
 ## Matthew 22:37
 

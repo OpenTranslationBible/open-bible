@@ -32,7 +32,7 @@ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 ## Nehemiah 10:8
 
-> Maaziah, Bilgai, and Shemaiah. These were the priests.
+> Maaziah, Bilgai, and Shemaiah were the priests.
 
 ## Nehemiah 10:9
 
@@ -52,7 +52,7 @@ Nehemiah the governor, son of Hacaliah, and Zedekiah,
 
 ## Nehemiah 10:13
 
-> Hodiah, Bani, and Beninu.
+> Hodiah, and Bani, and Beninu.
 
 ---
 
@@ -112,7 +112,7 @@ The leaders of the people:
 
 ## Nehemiah 10:27
 
-> Malluch, Harim, and Baanah.
+> Malluch, and Harim, and Baanah.
 
 ---
 

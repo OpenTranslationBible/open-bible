@@ -60,7 +60,7 @@ But now I am coming to You, and I speak these things in the world so that they m
 
 ## John 17:14
 
-I have delivered Your word to them, and the world has despised them because they do not belong to the world, just as I do not belong to the world.
+I have delivered Your word to them, and the world has despised them because they do not belong to the world, as I do not belong to the world.
 
 ## John 17:15
 
@@ -68,7 +68,7 @@ I do not ask that You remove them from the world, but that You protect them from
 
 ## John 17:16
 
-They do not belong to the world, just as I do not belong to the world.
+They do not belong to the world, as I do not belong to the world.
 
 ## John 17:17
 

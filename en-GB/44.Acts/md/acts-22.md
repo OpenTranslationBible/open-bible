@@ -28,7 +28,7 @@ as the high priest and all the Council of the elders can testify. I also receive
 
 ## Acts 22:7
 
-and I fell to the ground and heard a voice saying to me, ‘Saul, Saul, why are you persecuting me?’
+then I fell to the ground and heard a voice that said, ‘Saul, Saul, why are you persecuting me?’
 
 ## Acts 22:8
 

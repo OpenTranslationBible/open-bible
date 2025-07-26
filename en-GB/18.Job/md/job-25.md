@@ -2,7 +2,7 @@
 
 ## Job 25:1
 
-Bildad the Shuhite responded,
+Bildad the Shuhite responded, saying,
 
 ## Job 25:2
 

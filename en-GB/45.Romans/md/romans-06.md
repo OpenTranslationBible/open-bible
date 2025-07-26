@@ -90,4 +90,4 @@ But now that you have been set free from sin and have become servants of God, th
 
 ## Romans 6:23
 
-For the wages of sin is death, but the gracious gift of God is eternal life in Christ Jesus our Lord.
+For the wages of sin is death, but that gracious gift of God is eternal life in Christ Jesus our Lord.

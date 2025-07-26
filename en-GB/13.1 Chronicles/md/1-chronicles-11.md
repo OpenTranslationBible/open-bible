@@ -334,4 +334,4 @@ Now the mighty men of the armies were:
 
 ## 1 Chronicles 11:47
 
-> Eliel, and Obed, and Jaasiel the Mezobaite.
+> and Eliel, and Obed, and Jaasiel the Mezobaite.

@@ -158,7 +158,7 @@ When he saw the crowds, he was moved with compassion for them, because they were
 
 ## Matthew 9:37
 
-Then he said to his disciples, “The harvest is abundant, but the workers are few.
+Then he told his disciples, “The harvest is plentiful, but the workers are few.
 
 ## Matthew 9:38
 

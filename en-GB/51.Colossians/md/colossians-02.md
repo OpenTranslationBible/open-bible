@@ -78,15 +78,15 @@ and not holding fast to the head, from whom the whole body, nourished and held t
 
 ## Colossians 2:20
 
-If you have died with Christ to the elemental spiritual forces of the world, why, as if you were still living in the world, do you submit to regulations:
+If you have died with Christ to the things of this world, why act as if you were still living in the world by submitting to its regulations?
 
 ## Colossians 2:21
 
-“Do not handle, do not taste, do not touch!”?
+“You must not handle, you must not taste, you must not touch!”?
 
 ## Colossians 2:22
 
-These are all destined to perish with use, based on human commands and teachings.
+These are concerning things destined to perish, and are based on human commands and teachings.
 
 ## Colossians 2:23
 

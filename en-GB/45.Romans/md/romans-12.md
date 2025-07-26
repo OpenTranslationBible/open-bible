@@ -54,7 +54,7 @@ Contribute to the needs of the saints and practise hospitality.
 
 ## Romans 12:14
 
-Bless those who persecute you; bless, and do not curse.
+Bless those who persecute you; bless them and do not curse.
 
 ## Romans 12:15
 

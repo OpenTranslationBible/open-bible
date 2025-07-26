@@ -170,7 +170,7 @@ But love your enemies, do good to them, and lend without expecting anything back
 
 ## Luke 6:36
 
-Show mercy, just as your Father shows mercy.
+Therefore show mercy, just as your Father shows mercy.
 
 ---
 

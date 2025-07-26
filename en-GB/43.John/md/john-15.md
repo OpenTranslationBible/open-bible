@@ -50,7 +50,7 @@ I have spoken these things to you so that my joy may be in you and that your joy
 
 ## John 15:12
 
-This is my commandment: that you love one another as I have loved you.
+For this is my command: that you love one another as I have loved you.
 
 ## John 15:13
 

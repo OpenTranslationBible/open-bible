@@ -232,7 +232,7 @@ Moreover, whoever eats of My flesh and drinks My blood gains eternal life, and I
 
 ## John 6:55
 
-For My flesh is the true food, and My blood is the true drink.
+For My flesh is the true food, and My blood is true drink.
 
 ## John 6:56
 

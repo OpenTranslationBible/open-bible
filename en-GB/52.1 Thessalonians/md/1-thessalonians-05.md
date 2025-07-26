@@ -62,7 +62,7 @@ Ensure that nobody repays wrong for wrong, but always strive to do what is good 
 
 ## 1 Thessalonians 5:16
 
-Rejoice always,
+Rejoice continually,
 
 ## 1 Thessalonians 5:17
 
@@ -74,7 +74,7 @@ express gratitude in all circumstances; for this is God’s will for you in Chri
 
 ## 1 Thessalonians 5:19
 
-Do not quench the Spirit,
+Do not attempt to extinguish the Spirit,
 
 ## 1 Thessalonians 5:20
 
@@ -110,4 +110,4 @@ I urge you before the Lord to have this letter read to all the brothers and sist
 
 ## 1 Thessalonians 5:28
 
-May the grace of our Lord Jesus Christ be with you.
+Let the grace of our Lord Jesus Christ be with you. Amen.

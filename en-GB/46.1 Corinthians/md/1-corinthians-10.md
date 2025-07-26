@@ -102,7 +102,7 @@ Consume whatever is sold in the meat market without raising questions of conscie
 
 ## 1 Corinthians 10:26
 
-For the earth and everything in it belong to the Lord.
+For the earth and everything in it belongs to the Lord.
 
 ## 1 Corinthians 10:27
 

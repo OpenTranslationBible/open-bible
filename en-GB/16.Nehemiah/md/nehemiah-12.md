@@ -136,7 +136,7 @@ together with Azariah, Ezra, and Meshullam,
 
 ## Nehemiah 12:34
 
-Judah, Benjamin, Shemaiah, and Jeremiah,
+Judah, and Benjamin, Shemaiah, and Jeremiah,
 
 ## Nehemiah 12:35
 

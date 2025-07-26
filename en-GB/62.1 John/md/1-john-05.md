@@ -26,7 +26,7 @@ This is the One who came by water and blood, Jesus Christ; not with the water on
 
 ## 1 John 5:7
 
-For there are three that bear witness:
+For there are these three that bear witness:
 
 ## 1 John 5:8
 
@@ -82,4 +82,4 @@ And we are aware that the Son of God has come and has provided us with understan
 
 ## 1 John 5:21
 
-Dear children, keep yourselves from idols.
+So, dear children, keep yourselves from idols.

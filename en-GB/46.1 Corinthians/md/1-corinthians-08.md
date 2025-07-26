@@ -10,7 +10,7 @@ If anyone believes he possesses knowledge, he does not yet know as he should;
 
 ## 1 Corinthians 8:3
 
-But if anyone loves God, he is known by Him.
+But whoever loves God, is known by Him.
 
 ## 1 Corinthians 8:4
 

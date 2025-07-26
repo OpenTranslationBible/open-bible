@@ -18,7 +18,7 @@ and that He was laid to rest, and on the third day He was raised, as foretold by
 
 ## 1 Corinthians 15:5
 
-And that He appeared to Cephas, and then to the Twelve.
+For He appeared to Cephas, and then to the Twelve.
 
 ## 1 Corinthians 15:6
 
@@ -227,7 +227,7 @@ But when this perishable is clothed with the imperishable, and this mortal with 
 
 ## 1 Corinthians 15:56
 
-The sting of death is sin, and the strength of sin is the Law;
+Fot the sting of death is sin, and the power of sin is the Law;
 
 ## 1 Corinthians 15:57
 

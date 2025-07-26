@@ -37,7 +37,7 @@
 
 ## Psalm 29:7
 
-> The voice of the Lord divides flames of fire.
+> The voice of the Lord divides forks of fire.
 
 ## Psalm 29:8
 

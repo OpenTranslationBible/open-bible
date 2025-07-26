@@ -28,7 +28,7 @@
 
 ## Psalm 126:5
 
-> Those who sow in tears shall reap with joyful shouting.
+> Those who sow tears shall reap with joyful shouting.
 
 ## Psalm 126:6
 

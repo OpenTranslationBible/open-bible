@@ -32,11 +32,11 @@ Parshandatha, Dalphon, Aspatha,
 
 ## Esther 9:8
 
-Poratha, Adalia, Aridatha,
+Poratha, Adalia, and Aridatha,
 
 ## Esther 9:9
 
-Parmashta, Arisai, Aridai, and Vaizatha,
+Parmashta, and Arisai, Aridai, and Vaizatha,
 
 ## Esther 9:10
 

@@ -122,7 +122,7 @@ Truly I say to you, you will not get out until you have paid the last penny.
 
 ## Matthew 5:27
 
-You have heard that it was said, ‘You shall not commit adultery.’
+You have heard it was said, ‘You shall not commit adultery.’
 
 ## Matthew 5:28
 

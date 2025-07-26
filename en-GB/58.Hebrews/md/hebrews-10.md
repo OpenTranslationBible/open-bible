@@ -93,7 +93,7 @@ by a new and living way opened for us through the veil, that is, his flesh,
 
 ## Hebrews 10:21
 
-and since we have a high priest over the house of God,
+and we have a great high priest over the house of God,
 
 ## Hebrews 10:22
 
@@ -133,7 +133,7 @@ For we are aware of the one who said, â€œVengeance belongs to me; I will repay,â
 
 ## Hebrews 10:31
 
-It is a dreadful thing to fall into the hands of the living God.
+It is a dreadful and terrible thing to fall into the hands of the living God.
 
 ## Hebrews 10:32
 

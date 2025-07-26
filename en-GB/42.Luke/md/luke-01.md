@@ -154,7 +154,7 @@ Even Elizabeth your relative is going to have a child in her old age, and she wh
 
 ## Luke 1:37
 
-For with God, nothing is impossible.”
+For with God, nothing remains impossible.”
 
 ## Luke 1:38
 

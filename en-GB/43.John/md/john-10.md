@@ -114,7 +114,7 @@ but you do not believe because you do not belong to my flock.
 
 ## John 10:27
 
-My sheep hear my voice; I know them, and they follow me.
+For my sheep hear my voice; I know them, and they follow me.
 
 ## John 10:28
 

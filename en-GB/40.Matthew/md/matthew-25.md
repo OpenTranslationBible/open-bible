@@ -142,7 +142,7 @@ Then the King will say to those on his right, ‘Come, you who are blessed by my
 
 ## Matthew 25:35
 
-For I was hungry and you gave me something to eat, I was thirsty and you gave me something to drink, I was a stranger and you welcomed me,
+For when I was hungry and you gave me something to eat, when I was thirsty and you gave me something to drink, and when I was a stranger and you welcomed me,
 
 ## Matthew 25:36
 
@@ -150,7 +150,7 @@ I needed clothes and you provided for me, I was sick and you cared for me, I was
 
 ## Matthew 25:37
 
-Then the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?
+Yet the righteous will answer him, ‘Lord, when did we see you hungry and feed you, or thirsty and give you something to drink?
 
 ## Matthew 25:38
 
@@ -170,11 +170,11 @@ Then he will say to those on his left, ‘Depart from me, you who are accursed, 
 
 ## Matthew 25:42
 
-For I was hungry and you gave me nothing to eat, I was thirsty and you gave me nothing to drink,
+For when I was hungry you gave me nothing to eat, when I was thirsty and you gave me nothing to drink,
 
 ## Matthew 25:43
 
-I was a stranger and you did not welcome me, I needed clothes and you did not provide for me, I was sick and in prison and you did not care for me.’
+When I was a stranger and you did not welcome me, when I needed clothes and you did not provide for me, when I was sick and in prison and you did not care for me.’
 
 ## Matthew 25:44
 

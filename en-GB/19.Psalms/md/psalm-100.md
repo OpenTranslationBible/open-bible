@@ -4,7 +4,7 @@
 
 ## Psalm 100:1
 
-> Shout joyfully to the Lord, all the earth.
+> Shout with joy to the Lord, all the earth.
 
 ## Psalm 100:2
 

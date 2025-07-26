@@ -118,4 +118,4 @@ Therefore, since we are receiving a kingdom that cannot be shaken, let us be gra
 
 ## Hebrews 12:29
 
-for our God is a consuming fire.
+for our God is an all consuming fire.

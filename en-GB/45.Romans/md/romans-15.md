@@ -144,4 +144,4 @@ so that I may come to you with joy by the will of God and be refreshed in your c
 
 ## Romans 15:33
 
-May the God of peace be with you all. Amen.
+So now may the God of peace be with you all. Amen.

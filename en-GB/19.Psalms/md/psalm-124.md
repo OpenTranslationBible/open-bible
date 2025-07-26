@@ -24,7 +24,7 @@
 
 ## Psalm 124:5
 
-> Then the raging waters would have swept over our soul.”
+> and the raging waters would have swept over our soul.”
 
 ---
 

@@ -130,7 +130,7 @@ Simeon embraced him and praised God, saying,
 
 ## Luke 2:30
 
-> for my eyes have seen your salvation,
+> for my own eyes have seen your salvation,
 
 ## Luke 2:31
 

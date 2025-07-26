@@ -54,7 +54,7 @@ Be watchful, stand firm in the faith, be courageous, be strong.
 
 ## 1 Corinthians 16:14
 
-Let everything you do be done in love.
+Ensure everything you do is done in love.
 
 ## 1 Corinthians 16:15
 
@@ -90,7 +90,7 @@ If anyone does not love the Lord, let them be under a curse. Maranatha!
 
 ## 1 Corinthians 16:23
 
-May the grace of the Lord Jesus be with you.
+May the grace of the Lord Jesus remain with you.
 
 ## 1 Corinthians 16:24
 

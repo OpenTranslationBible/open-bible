@@ -18,7 +18,7 @@ There is one body and one Spirit, just as you were called to a single hope at th
 
 ## Ephesians 4:5
 
-one Lord, one faith, one baptism;
+one Lord, one faith, and one baptism;
 
 ## Ephesians 4:6
 

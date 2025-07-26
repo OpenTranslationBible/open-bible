@@ -10,7 +10,7 @@ May you receive grace and peace from God our Father and the Lord Jesus Christ.
 
 ## Philippians 1:3
 
-I thank my God every time I think of you,
+I thank my God every time I think of you in prayer,
 
 ## Philippians 1:4
 
@@ -82,7 +82,7 @@ I eagerly expect and hope that I will never be ashamed, but will have sufficient
 
 ## Philippians 1:21
 
-For to me, to live is Christ, and to die is gain.
+For to me, to live is Christ, and death is gain.
 
 ## Philippians 1:22
 

@@ -120,4 +120,4 @@
 
 ## Psalm 72:20
 
-> The prayers of David the son of Jesse are ended.
+> The prayers of David the son of Jesse are at an end.

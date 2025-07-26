@@ -70,4 +70,4 @@ I, Paul, write this greeting with my own hand, and this is a distinguishing mark
 
 ## 2 Thessalonians 3:18
 
-May the grace of our Lord Jesus Christ be with you all.
+Let the grace of our Lord Jesus Christ be with you all. Amen.
