@@ -5,7 +5,7 @@
 ## Psalm 127:1
 
 > Unless the Lord builds the house,  
-> They labour in vain who build it;  
+> They who build it labour in vain;  
 > Unless the Lord guards the city,  
 > The watchman stays awake in vain.
 
@@ -30,6 +30,6 @@
 
 ## Psalm 127:5
 
-> Fortunate is the person whose quiver is filled with them;  
+> Blessed is the man whose quiver is filled;
 > They will not be put to shame  
 > When they engage with their adversaries at the gate.

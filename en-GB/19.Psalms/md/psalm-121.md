@@ -33,7 +33,7 @@
 
 ## Psalm 121:6
 
-> The sun will not harm you by day,  
+> And the sun will not harm you by day,  
 > Nor the moon by night.
 
 ---

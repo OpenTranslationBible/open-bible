@@ -367,7 +367,7 @@
 ## Psalm 119:67
 
 > Before I was afflicted, I went astray,  
-> But now I keep Your word.
+> But now I always keep Your word.
 
 ## Psalm 119:68
 
@@ -504,7 +504,7 @@
 ## Psalm 119:92
 
 > Had Your Law not been my delight,  
-> I would have perished in my affliction.
+> I would have perished of my affliction.
 
 ## Psalm 119:93
 
@@ -576,7 +576,7 @@
 
 ## Psalm 119:105
 
-> Your word serves as a lamp for my feet  
+> Your word is as a lamp for my feet  
 > And a light on my path.
 
 ## Psalm 119:106
