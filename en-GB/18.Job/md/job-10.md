@@ -2,9 +2,9 @@
 
 ## Job 10:1
 
-> “My soul loathes my life;  
-> I will express my complaint freely;  
-> I will speak in the bitterness of my soul.
+> “In grief I loathe my life;  
+> so I will express my complaint freely;  
+> and I will speak in the bitterness of my soul.
 
 ## Job 10:2
 
@@ -24,7 +24,7 @@
 
 ## Job 10:5
 
-> Are Your days like those of a mortal,  
+> Are Your days those of a mortal,  
 > Or Your years like those of a man,
 
 ## Job 10:6
@@ -42,7 +42,7 @@
 ## Job 10:8
 
 > ‘Your hands fashioned me and made me,  
-> Yet would You now destroy me?
+> Yet would You now turn to destroy me?
 
 ## Job 10:9
 
