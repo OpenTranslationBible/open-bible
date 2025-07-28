@@ -42,7 +42,7 @@
 
 ## Psalm 64:7
 
-> But God will send an arrow upon them;  
+> But God will send an arrow into them;  
 > Suddenly they will be struck.
 
 ## Psalm 64:8

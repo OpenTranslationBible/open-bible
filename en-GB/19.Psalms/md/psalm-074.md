@@ -22,7 +22,7 @@
 
 ## Psalm 74:4
 
-> Your adversaries have clamoured in the heart of Your meeting place;  
+> Your enemies roar in the heart of Your meeting place;  
 > They have set up their own emblems as symbols.
 
 ## Psalm 74:5
