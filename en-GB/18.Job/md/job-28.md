@@ -143,6 +143,6 @@
 
 ## Job 28:28
 
-> And to humanity He said,  
+> And to all of mankind He said,  
 > ‘Behold, the fear of the Lord, that is wisdom;  
 > And to turn away from evil is understanding.’”
