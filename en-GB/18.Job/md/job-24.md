@@ -48,7 +48,7 @@
 
 ## Job 24:10
 
-> They compel the poor to go about without clothing,  
+> They cause the poor to go about without clothing,  
 > And they take away the sheaves from the hungry.
 
 ## Job 24:11
