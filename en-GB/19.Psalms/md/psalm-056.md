@@ -23,7 +23,7 @@
 
 > In God, whose word I praise,  
 > In God I have placed my trust; I shall not be afraid.  
-> What can mere humans do to me?
+> What can mere mortals do to me?
 
 ---
 
