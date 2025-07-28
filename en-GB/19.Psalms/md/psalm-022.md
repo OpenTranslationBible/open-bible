@@ -33,7 +33,7 @@
 
 ## Psalm 22:6
 
-> But I am like a worm, not a human,  
+> But I am like a worm, not a man,  
 > A reproach among people and despised by the populace.
 
 ## Psalm 22:7
@@ -50,7 +50,7 @@
 
 ## Psalm 22:9
 
-> Yet You are the One who brought me forth from the womb;  
+> Yet it was You, the One who brought me forth from the womb;  
 > You made me trust while on my mother’s breasts.
 
 ## Psalm 22:10
@@ -80,7 +80,7 @@
 ## Psalm 22:14
 
 > I am poured out like water,  
-> And all my bones feel disjointed;  
+> And all my bones are out of their joints;  
 > My heart is like wax;  
 > It has melted within me.
 
@@ -95,7 +95,7 @@
 ## Psalm 22:16
 
 > For dogs have surrounded me;  
-> A group of evildoers has encircled me;  
+> A pack of dogs has encircled me;  
 > They have pierced my hands and my feet.
 
 ## Psalm 22:17
@@ -112,8 +112,8 @@
 
 ## Psalm 22:19
 
-> But You, Lord, do not be distant;  
-> You who are my help, hasten to my aid.
+> But You, Lord, do not be far away;  
+> You who are my help, rush to my aid.
 
 ## Psalm 22:20
 
