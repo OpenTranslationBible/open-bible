@@ -8,13 +8,13 @@ Give thanks to the Lord, He is good,
 
 ## Psalm 136:2
 
-Give thanks to the God of gods,
+Give thanks to Him, the God of gods,
 
 > His love endures forever.
 
 ## Psalm 136:3
 
-Give thanks to the Lord of lords,
+Give thanks to Him, the Lord of lords,
 
 > His love endures forever.
 

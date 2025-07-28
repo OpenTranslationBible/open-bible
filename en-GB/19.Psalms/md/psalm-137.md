@@ -4,7 +4,7 @@
 
 > By the rivers of Babylon,  
 > There we sat and wept,  
-> As we recalled Zion.
+> And we remembered Zion.
 
 ## Psalm 137:2
 
@@ -53,5 +53,5 @@
 
 ## Psalm 137:9
 
-> Blessed will be the one who seizes and dashes your children  
-> Against the rock.
+> Blessed is he then, who seizes your children  
+> to dash them upon the rocks you stained.
