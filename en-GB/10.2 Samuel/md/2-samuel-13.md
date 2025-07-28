@@ -223,4 +223,4 @@ So Absalom had fled and gone to Geshur, and he was there for three years.
 ## 2 Samuel 13:39
 
 And King David's heart longed to go out to Absalom;  
-for he found comfort regarding Amnon, since he was dead.
+and he was in anguish over the death of his son Amnon.
