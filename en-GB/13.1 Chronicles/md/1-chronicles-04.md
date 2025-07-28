@@ -10,10 +10,10 @@ Judah's sons included:
 
 ## 1 Chronicles 4:2
 
-Reaiah, the son of Shobal, was the father of Jahath,
+Shobal's son Reaiah, was the father of Jahath,
 
 > and Jahath was the father of Ahumai and Lahad.  
-> These were the families of the Zorathites.
+> These were the line of the Zorathites.
 
 ---
 
@@ -96,7 +96,7 @@ Chelub, the brother of Shuhah, was the father of Mehir,
 
 ## 1 Chronicles 4:12
 
-Eshton was the father of Beth-rapha, Paseah, and Tehinnah, the father of Ir-nahash.
+Beth-rapha was the son of Eshton, as was Paseah, and Tehinnah, the father of Ir-nahash.
 
 > These were the men of Recah.
 
@@ -122,7 +122,7 @@ Meonothai was the father of Ophrah,
 
 ## 1 Chronicles 4:15
 
-The sons of Caleb, the son of Jephunneh, were:
+Caleb was the son of Jephunneh, his sons were:
 
 > Iru, Elah, and Naam;  
 > and the son of Elah was Kenaz.
@@ -214,9 +214,9 @@ The sons of Simeon included:
 
 ## 1 Chronicles 4:25
 
-> Shallum his son,  
+> his son Shallum,  
 > Mibsam his son,  
-> Mishma his son.
+> and Mishma his son.
 
 ---
 
@@ -224,18 +224,18 @@ The sons of Simeon included:
 
 The sons of Mishma were:
 
-> Hammuel his son,  
+> his son Hammuel,  
 > Zaccur his son,  
-> Shimei his son.
+> and Shimei his son.
 
 ---
 
 ## 1 Chronicles 4:27
 
 Now Shimei had sixteen sons and six daughters,  
-but his brothers did not have many sons,
+but his brothers did not have that many sons,
 
-> nor did all their family multiply like the sons of Judah.
+> nor did all their family multiply like the line of Judah.
 
 ---
 
