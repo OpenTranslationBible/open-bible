@@ -3,7 +3,7 @@
 ## 2 Kings 16:1
 
 In the seventeenth year of Pekah son of Remaliah,  
-Ahaz son of Jotham, king of Judah, ascended to the throne.
+Ahaz son of Jotham, king of Judah, was made king.
 
 ## 2 Kings 16:2
 
