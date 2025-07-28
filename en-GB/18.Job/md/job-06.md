@@ -141,8 +141,8 @@ Then Job responded, saying
 
 ## Job 6:27
 
-> You would even gamble for the fatherless
-> and trade away your friend.
+> You would even gamble over an orphan
+> and bargain away your friend.
 
 ---
 
