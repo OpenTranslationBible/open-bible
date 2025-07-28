@@ -270,9 +270,9 @@ Mikloth fathered Shimeam.
 
 ## 1 Chronicles 9:39
 
-Ner was the progenitor of Kish, and Kish was the progenitor of Saul;
+Ner was father to Kish, and Kish was father to Saul;
 
-> Saul was the progenitor of Jonathan, Malchi-shua, Abinadab, and Eshbaal.
+> Saul was father to Jonathan, Malchi-shua, Abinadab, and Eshbaal.
 
 ---
 
@@ -280,7 +280,7 @@ Ner was the progenitor of Kish, and Kish was the progenitor of Saul;
 
 Jonathan's son was Merib-baal,
 
-> and Merib-baal was the progenitor of Micah.
+> and Merib-baal was father to Micah.
 
 ---
 
@@ -294,16 +294,16 @@ Micah's sons included:
 
 ## 1 Chronicles 9:42
 
-Ahaz was the progenitor of Jarah,
+Ahaz was father to Jarah,
 
-> and Jarah was the progenitor of Alemeth, Azmaveth, and Zimri;  
-> and Zimri was the progenitor of Moza;
+> and Jarah was father to Alemeth, Azmaveth, and Zimri;  
+> and Zimri was father to Moza;
 
 ---
 
 ## 1 Chronicles 9:43
 
-Moza was the progenitor of Binea,
+Moza was father to Binea,
 
 > and his son was Rephaiah,  
 > his son was Eleasah,  

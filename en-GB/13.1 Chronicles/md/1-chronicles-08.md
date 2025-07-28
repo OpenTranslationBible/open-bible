@@ -2,7 +2,7 @@
 
 ## 1 Chronicles 8:1
 
-Benjamin was the progenitor of:
+Benjamin was father to:
 
 > Bela his firstborn, Ashbel the second, Aharah the third,
 
@@ -191,7 +191,7 @@ Mikloth was the father of Shimeah.
 
 Ner was the ancestor of Kish,
 
-> Kish was the progenitor of Saul,  
+> Kish was father to Saul,  
 > Saul was the father of Jonathan, Malchi-shua, Abinadab, and Eshbaal.
 
 ---
@@ -200,7 +200,7 @@ Ner was the ancestor of Kish,
 
 Jonathan's son was Merib-baal,
 
-> and Merib-baal was the progenitor of Micah.
+> and Merib-baal was father to Micah.
 
 ---
 
@@ -223,7 +223,7 @@ Ahaz was the father of Jehoaddah,
 
 ## 1 Chronicles 8:37
 
-Moza was the progenitor of Binea;  
+Moza was father to Binea;  
 Raphah was his son,
 
 > Eleasah his son,  

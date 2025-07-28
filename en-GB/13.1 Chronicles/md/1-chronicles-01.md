@@ -71,7 +71,7 @@ Mizraim was the ancestor of the people of
 
 ## 1 Chronicles 1:13
 
-Canaan was the progenitor of
+Canaan was father to
 
 > Sidon, his firstborn, and Heth,
 
@@ -99,8 +99,8 @@ The sons of Shem included:
 
 ## 1 Chronicles 1:18
 
-Arpachshad was the progenitor of Shelah,  
-and Shelah was the progenitor of Eber.
+Arpachshad was father to Shelah,  
+and Shelah was father to Eber.
 
 ## 1 Chronicles 1:19
 
