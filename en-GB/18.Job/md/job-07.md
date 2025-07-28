@@ -7,7 +7,7 @@
 
 ## Job 7:2
 
-> Just as a servant longs for the shade,  
+> Just as a bond servant longs for the shade,  
 > And like a labourer who eagerly awaits his wages,
 
 ## Job 7:3
