@@ -191,7 +191,7 @@ Then on that day David first designated this song of thanksgiving to the Lord
 ## 1 Chronicles 16:27
 
 > Splendour and majesty are before Him,  
-> Strength and joy are in His dwelling.
+> Strength and joy are in His place of dwelling.
 
 ---
 
