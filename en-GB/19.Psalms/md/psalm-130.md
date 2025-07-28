@@ -16,8 +16,8 @@
 
 ## Psalm 130:3
 
-> If You, Lord, were to mark iniquities,  
-> Lord, who could endure?
+> If You, Lord, were to mark our iniquities,  
+> Lord, who could stand?
 
 ## Psalm 130:4
 
