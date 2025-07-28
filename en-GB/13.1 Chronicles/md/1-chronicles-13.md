@@ -86,7 +86,7 @@ so He struck him down because he had put out his hand toward the ark;
 
 ## 1 Chronicles 13:11
 
-David was displeased because of the Lord’s outburst against Uzza;
+David was indignant because of the Lord’s outburst against Uzza;
 
 > and he named that place Perez-uzza, a name it retains to this day.
 

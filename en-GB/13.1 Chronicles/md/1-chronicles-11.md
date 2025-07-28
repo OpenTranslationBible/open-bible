@@ -250,7 +250,7 @@ Now the mighty men of the armies included:
 ## 1 Chronicles 11:30
 
 > Maharai from Netophah,  
-> Heled, son of Baanah from Netophah,
+> and Heled, son of Baanah also from Netophah,
 
 ## 1 Chronicles 11:31
 
@@ -265,7 +265,7 @@ Now the mighty men of the armies included:
 ## 1 Chronicles 11:33
 
 > Azmaveth from Bahurim,  
-> Eliahba from Shaalbon,
+> and Eliahba the Shaalbonite,
 
 ## 1 Chronicles 11:34
 
@@ -289,8 +289,8 @@ Now the mighty men of the armies included:
 
 ## 1 Chronicles 11:38
 
-> Joel, the brother of Nathan,  
-> Mibhar, son of Hagri,
+> Joel, who was the brother of Nathan,  
+> and Mibhar, son of Hagri,
 
 ## 1 Chronicles 11:39
 
@@ -300,12 +300,12 @@ Now the mighty men of the armies included:
 ## 1 Chronicles 11:40
 
 > Ira, the Ithrite,  
-> Gareb, the Ithrite,
+> and also Gareb, the Ithrite,
 
 ## 1 Chronicles 11:41
 
 > Uriah the Hittite,  
-> Zabad, son of Ahlai,
+> and Zabad, son of Ahlai,
 
 ## 1 Chronicles 11:42
 
@@ -313,8 +313,8 @@ Now the mighty men of the armies included:
 
 ## 1 Chronicles 11:43
 
-> Hanan, son of Maacah,  
-> and Joshaphat the Mithnite,
+> Hanan, the son of Maacah,  
+> and also Joshaphat the Mithnite,
 
 ## 1 Chronicles 11:44
 
@@ -323,14 +323,14 @@ Now the mighty men of the armies included:
 
 ## 1 Chronicles 11:45
 
-> Jediael, son of Shimri,  
-> and Joha, his brother, the Tizite,
+> Jediael, the son of Shimri,  
+> and also Joha, his brother, the Tizite,
 
 ## 1 Chronicles 11:46
 
 > Eliel the Mahavite,  
-> and Jeribai and Joshaviah, sons of Elnaam,  
-> and Ithmah the Moabite,
+> and also Jeribai and Joshaviah, sons of Elnaam,  
+> and Ithmah of Moab,
 
 ## 1 Chronicles 11:47
 
