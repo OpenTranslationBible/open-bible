@@ -69,6 +69,6 @@ shall I not now require his blood from your hands and eliminate you from the ear
 
 ## 2 Samuel 4:12
 
-Then on David order the young men executed them and severed their hands and feet,  
+Then on David's order the young men executed them and severed their hands and feet,  
 and displayed them beside the pool in Hebron.  
 However, they took the head of Ish-bosheth and laid it to rest in the grave of Abner in Hebron.
