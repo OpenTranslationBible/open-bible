@@ -164,7 +164,7 @@ but David did not know it.
 
 So when Abner returned to Hebron, Joab took him aside into the middle of the gate to speak with him privately,  
 and there he struck him in the stomach,  
-so that he died because of the blood of Asahel his brother.
+so he died as a result of the blood of Asahel his brother.
 
 ---
 
