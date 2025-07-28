@@ -125,7 +125,7 @@ and he ordered that the people of Judah be taught this song of the bow — it is
 ## 2 Samuel 1:25
 
 > How the mighty have fallen in battle!  
-> Jonathan lies lifeless upon your heights.
+> Jonathan lies, his body lifeless upon your heights.
 
 ## 2 Samuel 1:26
 
