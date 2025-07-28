@@ -33,7 +33,7 @@
 
 ## Psalm 113:6
 
-> Who humbles Himself to observe  
+> Who humbles Himself to behold  
 > The things in heaven and on earth?
 
 ---

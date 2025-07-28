@@ -2,7 +2,7 @@
 
 ## Psalm 116:1
 
-> I hold affection for the Lord, for He listens  
+> I love the Lord, for He listens  
 > To my voice and my supplications.
 
 ## Psalm 116:2
@@ -82,7 +82,7 @@
 ## Psalm 116:14
 
 > I will keep my promises to the Lord  
-> Before all His people.
+> In the assembly of His people.
 
 ---
 
@@ -107,7 +107,7 @@
 ## Psalm 116:18
 
 > I will keep my promises to the Lord  
-> Before all His people,
+> In the assembly of His people.
 
 ## Psalm 116:19
 
