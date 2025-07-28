@@ -43,7 +43,7 @@
 > The Lord Almighty is with us;  
 > The God of Jacob is our stronghold.
 
-> \_Selah
+> Selah
 
 ---
 
