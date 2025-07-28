@@ -30,7 +30,7 @@
 > For He established a testimony in Jacob,  
 > And set a law in Israel,  
 > Which He instructed our ancestors  
-> That they should teach to their children,
+> So they could teach to their children,
 
 ## Psalm 78:6
 

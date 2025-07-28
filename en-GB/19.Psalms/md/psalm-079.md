@@ -27,7 +27,7 @@
 
 ## Psalm 79:5
 
-> How long, Lord? Will Your anger endure without end?  
+> How long, Lord? Will Your anger stay forever?  
 > Will Your zealousness burn like fire?
 
 ## Psalm 79:6
