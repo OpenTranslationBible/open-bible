@@ -12,7 +12,7 @@
 
 ## Psalm 14:2
 
-> The Lord gazes from heaven upon humanity  
+> The Lord gazes from heaven upon the realms of men  
 > To see if there are any who are wise,  
 > Who seek after God.
 
