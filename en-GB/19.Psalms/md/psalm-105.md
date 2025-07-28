@@ -178,7 +178,7 @@
 ## Psalm 105:34
 
 > He spoke, and locusts came,  
-> And countless grasshoppers,
+> And countless grasshoppers beyond number,
 
 ## Psalm 105:35
 
