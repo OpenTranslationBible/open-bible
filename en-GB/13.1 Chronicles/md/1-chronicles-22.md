@@ -104,7 +104,8 @@ David said to Solomon,
 
 ## 1 Chronicles 22:13
 
-> Then you will find success if you are diligent to follow the statutes and the ordinances  
+> Then you will prosper and have success,
+> if you are diligent and follow the statutes and the ordinances  
 > which the Lord commanded Moses concerning Israel.  
 > Be strong and courageous, do not fear or be dismayed.
 
