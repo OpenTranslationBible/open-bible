@@ -60,7 +60,7 @@ Then Job again took up his discourse and said,
 
 ## Job 27:12
 
-> Behold, all of you have observed it;  
+> Behold, all of you have now seen it;  
 > Why then do you speak of empty nonsense?
 
 ---
