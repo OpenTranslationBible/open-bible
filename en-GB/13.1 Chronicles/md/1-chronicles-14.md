@@ -84,7 +84,7 @@ And David said,
 
 ## 1 Chronicles 14:12
 
-They left their idols there;
+They left the idols of their gods there;
 
 > so David commanded that they be burned with fire.
 
