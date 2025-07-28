@@ -19,30 +19,30 @@
 
 ## Job 10:4
 
-> Do You perceive with human eyes,  
-> Or do You observe as mortals do?
+> Do You have eyes like a man,  
+> Or do You see as mankind sees?
 
 ## Job 10:5
 
 > Are Your days like those of a mortal,  
-> Or Your years like those of a human,
+> Or Your years like those of a man,
 
 ## Job 10:6
 
-> That You should examine my faults  
-> And investigate my transgressions?
+> That You should search after my faults  
+> And probe after my every sin?
 
 ## Job 10:7
 
-> By Your knowledge, I am indeed not guilty,  
-> Yet there is no one to save me from Your hand.
+> Though you know I am not guilty,  
+> And there is no one who can save me from Your hand.
 
 ---
 
 ## Job 10:8
 
-> ‘Your hands fashioned me and made me altogether,  
-> Yet would You destroy me?
+> ‘Your hands fashioned me and made me,  
+> Yet would You now destroy me?
 
 ## Job 10:9
 
