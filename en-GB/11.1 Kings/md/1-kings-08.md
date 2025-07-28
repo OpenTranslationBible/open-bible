@@ -109,13 +109,13 @@ to construct a house for the name of the Lord, the God of Israel.
 ## 1 Kings 8:18
 
 But the Lord said to my father David,  
-‘Because it was in your heart to build a house for My name, you have done well to have this desire.
+‘I saw it was in your heart to build a house for My name, and you have done well to have this desire.
 
 ## 1 Kings 8:19
 
-However, you shall not build the house,  
-but your son who will be born to you,  
-he will build the house for My name.’
+But, you shall not build the house,  
+for a son who will be born to you,  
+and he will build the house for My name.’
 
 ## 1 Kings 8:20
 
