@@ -30,7 +30,7 @@
 
 ## Psalm 106:5
 
-> That I may witness the well-being of Your chosen ones,  
+> That I may witness the prosperity of Your chosen ones,  
 > That I may share in the joy of Your nation,  
 > That I may take pride in Your inheritance.
 
