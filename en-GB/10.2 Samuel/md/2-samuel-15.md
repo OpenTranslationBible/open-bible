@@ -50,14 +50,14 @@ For your servant made a vow while I was living at Geshur in Aram, saying,
 
 ## 2 Samuel 15:9
 
-And the king said to him, “Go in peace.”  
-So he arose and went to Hebron.
+And the king replied, “Go safely.”  
+So he got up and went to Hebron.
 
 ## 2 Samuel 15:10
 
-But Absalom sent spies throughout all the tribes of Israel, saying,  
+However, Absalom sent messengers throughout all the tribes of Israel, instructing them,  
 “As soon as you hear the sound of the trumpet,  
-then you shall say, ‘Absalom is king in Hebron!’”
+then you shall proclaim, ‘Absalom reigns in Hebron!’”
 
 ## 2 Samuel 15:11
 
@@ -67,16 +67,16 @@ they went in innocence, knowing nothing.
 ## 2 Samuel 15:12
 
 And while Absalom was offering the sacrifices,  
-he sent for Ahithophel the Gilonite, David’s counsellor, from his city Giloh.  
-And the conspiracy grew strong,  
-and the people with Absalom kept increasing.
+he summoned Ahithophel the Gilonite, David’s counsellor, from his city Giloh.  
+And the conspiracy gained strength,  
+and the people with Absalom continued to increase.
 
 ---
 
 ## 2 Samuel 15:13
 
 Then a messenger came to David, saying,  
-“The hearts of the men of Israel are with Absalom.”
+“The loyalty of the men of Israel has turned to Absalom.”
 
 ## 2 Samuel 15:14
 
@@ -159,14 +159,14 @@ behold, here I am; let Him do to me what seems good to Him.”
 ## 2 Samuel 15:27
 
 The king also said to Zadok the priest,  
-“Are you not a seer? Return to the city in peace,  
+“Are you not a seer? Go back to the city safely,  
 and your two sons with you,  
 Ahimaaz your son and Jonathan the son of Abiathar.
 
 ## 2 Samuel 15:28
 
 See, I will wait at the fords of the wilderness  
-until word comes from you to inform me.”
+until you send word to inform me.”
 
 ## 2 Samuel 15:29
 
@@ -212,11 +212,11 @@ So whatever you hear from the king’s house, you shall report to Zadok and Abia
 
 ## 2 Samuel 15:36
 
-Behold, their two sons are with them there, Ahimaaz, Zadok’s son,  
-and Jonathan, Abiathar’s son;  
-and by them you shall send to me everything you hear.”
+Look, their two sons are there with them, Ahimaaz, the son of Zadok,  
+and Jonathan, the son of Abiathar;  
+and through them you shall send to me everything you hear.”
 
 ## 2 Samuel 15:37
 
-So Hushai, David’s friend, came into the city  
-just as Absalom was entering Jerusalem.
+So Hushai, David’s friend, entered the city  
+just as Absalom was arriving in Jerusalem.

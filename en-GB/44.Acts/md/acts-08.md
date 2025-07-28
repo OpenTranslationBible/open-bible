@@ -162,8 +162,7 @@ As they travelled along the road, they came to some water, and the eunuch said, 
 
 ## Acts 8:37
 
-[And Philip said, “If you believe with all your heart, you may.”
-And he answered and said, “I believe that Jesus Christ is the Son of God.”]
+[This verse is traditionally included in some manuscripts: "Philip said, 'If you believe with all your heart, you may.' And he answered, 'I believe that Jesus Christ is the Son of God.'"]
 
 ## Acts 8:38
 

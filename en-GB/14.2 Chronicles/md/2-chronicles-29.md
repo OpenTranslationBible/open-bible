@@ -2,8 +2,8 @@
 
 ## 2 Chronicles 29:1
 
-Hezekiah became king when he was twenty-five years old, and he reigned for twenty-nine years in Jerusalem.  
-And his mother’s name was Abijah, the daughter of Zechariah.
+Hezekiah ascended to the throne at the age of twenty-five, and he ruled for twenty-nine years in Jerusalem.  
+His mother was named Abijah, the daughter of Zechariah.
 
 ## 2 Chronicles 29:2
 
@@ -31,8 +31,8 @@ and have abandoned Him and turned their faces away from the dwelling place of th
 
 ## 2 Chronicles 29:7
 
-They have also shut the doors of the porch and put out the lamps,  
-and have not burned incense or offered burnt offerings in the holy place to the God of Israel.
+They have also closed the doors of the porch and extinguished the lamps,  
+and have not burned incense or made burnt offerings in the holy place to the God of Israel.
 
 ## 2 Chronicles 29:8
 
@@ -50,26 +50,26 @@ Now I am determined to make a covenant with the Lord God of Israel, so that His 
 ## 2 Chronicles 29:11
 
 My sons, do not be negligent now, for the Lord has chosen you to stand before Him, to serve Him,  
-and to be His ministers and burn incense.”
+and to be His ministers and offer incense.”
 
 ---
 
 ## 2 Chronicles 29:12
 
-> Then the Levites arose: Mahath the son of Amasai and Joel the son of Azariah  
+> Then the Levites arose: Mahath, son of Amasai, and Joel, son of Azariah,  
 > from the sons of the Kohathites;  
-> and from the sons of Merari, Kish the son of Abdi and Azariah the son of Jehallelel;  
-> and from the Gershonites, Joah the son of Zimmah and Eden the son of Joah;
+> and from the sons of Merari, Kish, son of Abdi, and Azariah, son of Jehallelel;  
+> and from the Gershonites, Joah, son of Zimmah, and Eden, son of Joah;
 
 ## 2 Chronicles 29:13
 
-> and from the sons of Elizaphan, Shimri and Jeiel;  
-> and from the sons of Asaph, Zechariah and Mattaniah;
+> from the descendants of Elizaphan, Shimri and Jeiel;  
+> from the descendants of Asaph, Zechariah and Mattaniah;
 
 ## 2 Chronicles 29:14
 
-> and from the sons of Heman, Jehiel and Shimei;  
-> and from the sons of Jeduthun, Shemaiah and Uzziel.
+> from the descendants of Heman, Jehiel and Shimei;  
+> from the descendants of Jeduthun, Shemaiah and Uzziel.
 
 ---
 
@@ -100,7 +100,7 @@ and the table of the bread of the Presence with all its utensils.
 
 ## 2 Chronicles 29:19
 
-Moreover, all the utensils which King Ahaz had discarded during his reign in his unfaithfulness,  
+Furthermore, all the utensils which King Ahaz had discarded during his reign in his unfaithfulness,  
 we have prepared and consecrated; and behold, they are before the altar of the Lord.”
 
 ---
@@ -112,18 +112,18 @@ Then King Hezekiah rose early and gathered the princes of the city, and went up 
 ## 2 Chronicles 29:21
 
 They brought seven bulls, seven rams, seven lambs, and seven male goats as a sin offering for the kingdom, the sanctuary, and Judah.  
-And he ordered the priests, the sons of Aaron, to offer them on the altar of the Lord.
+And he instructed the priests, the sons of Aaron, to offer them on the altar of the Lord.
 
 ## 2 Chronicles 29:22
 
 So they slaughtered the bulls, and the priests took the blood and sprinkled it on the altar.  
-They also slaughtered the rams and sprinkled the blood on the altar;  
-then they slaughtered the lambs and sprinkled the blood on the altar.
+They did likewise with the rams and sprinkled the blood on the altar;  
+then they did the same with the lambs and sprinkled the blood on the altar.
 
 ## 2 Chronicles 29:23
 
-Then they brought the male goats of the sin offering before the king and the assembly,  
-and they laid their hands on them.
+Then they brought the male goats for the sin offering before the king and the assembly,  
+and they placed their hands on them.
 
 ## 2 Chronicles 29:24
 
@@ -135,7 +135,7 @@ because the king ordered the burnt offering and the sin offering for all Israel.
 ## 2 Chronicles 29:25
 
 He then stationed the Levites in the house of the Lord with cymbals, harps, and lyres,  
-according to the command of David and of Gad the king’s seer, and of Nathan the prophet;  
+in accordance with the command of David and of Gad, the king’s seer, and of Nathan the prophet;  
 for the command was from the Lord through His prophets.
 
 ## 2 Chronicles 29:26
@@ -147,7 +147,7 @@ And the Levites took their places with the instruments of David, and the priests
 ## 2 Chronicles 29:27
 
 Then Hezekiah gave the order to offer the burnt offering on the altar.  
-And when the burnt offering began, the song to the Lord also began with the trumpets,  
+And as the burnt offering began, the song to the Lord also commenced with the trumpets,  
 accompanied by the instruments of David, king of Israel.
 
 ## 2 Chronicles 29:28
@@ -163,7 +163,7 @@ When the burnt offerings were completed, the king and all who were present with 
 
 ## 2 Chronicles 29:30
 
-Moreover, King Hezekiah and the officials ordered the Levites to sing praises to the Lord with the words of David and Asaph the seer.  
+Moreover, King Hezekiah and the officials instructed the Levites to sing praises to the Lord with the words of David and Asaph the seer.  
 So they sang praises with joy, and bowed down and worshiped.
 
 ---
@@ -178,7 +178,7 @@ So the assembly brought sacrifices and thanksgiving offerings, and all who were 
 
 ## 2 Chronicles 29:32
 
-The number of the burnt offerings which the assembly brought was seventy bulls, a hundred rams, and two hundred lambs;  
+The assembly brought seventy bulls, a hundred rams, and two hundred lambs as burnt offerings;  
 all these were for a burnt offering to the Lord.
 
 ## 2 Chronicles 29:33
@@ -198,9 +198,9 @@ There were also many burnt offerings with the fat of the peace offerings and wit
 
 ---
 
-So the service of the house of the Lord was established again.
+Thus, the service of the house of the Lord was re-established.
 
 ## 2 Chronicles 29:36
 
 Then Hezekiah and all the people rejoiced over what God had prepared for the people,  
-because the thing came about suddenly.
+because it happened so suddenly.

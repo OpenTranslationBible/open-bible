@@ -10,30 +10,30 @@
 
 ## Psalm 31:2
 
-> Incline Your ear to me, rescue me quickly;  
-> Be a rock of strength for me,  
-> A stronghold to save me.
+> Turn Your ear to me, deliver me without delay;  
+> Be a steadfast rock for me,  
+> A fortress to protect me.
 
 ## Psalm 31:3
 
-> For You are my rock and my fortress;  
-> For the sake of Your name You will lead me and guide me.
+> For You are my rock and my stronghold;  
+> For the sake of Your name, You will lead and guide me.
 
 ## Psalm 31:4
 
-> You will pull me out of the net which they have secretly laid for me,  
+> You will free me from the net they have secretly set for me,  
 > For You are my strength.
 
 ## Psalm 31:5
 
-> Into Your hand I entrust my spirit;  
-> You have redeemed me, Lord, God of truth.
+> Into Your hand I commit my spirit;  
+> You have redeemed me, Lord, faithful God.
 
 ---
 
 ## Psalm 31:6
 
-> I hate those who devote themselves to worthless idols,  
+> I reject those who cling to worthless idols,  
 > But I trust in the Lord.
 
 ## Psalm 31:7
@@ -51,15 +51,15 @@
 
 ## Psalm 31:9
 
-> Be gracious to me, Lord, for I am in distress;  
-> My eye is wasted away from grief, my soul and my body too.
+> Show me kindness, Lord, for I am in distress;  
+> My eyes are worn out from grief, my soul and my body as well.
 
 ## Psalm 31:10
 
-> For my life is spent with sorrow  
+> For my life is consumed with sorrow  
 > And my years with sighing;  
 > My strength has failed because of my guilt,  
-> And my body has wasted away.
+> And my body has withered away.
 
 ## Psalm 31:11
 
@@ -70,8 +70,8 @@
 
 ## Psalm 31:12
 
-> I am forgotten like a dead person, out of mind;  
-> I am like a broken vessel.
+> I am forgotten like someone who is dead, out of mind;  
+> I am like a shattered vessel.
 
 ## Psalm 31:13
 
@@ -84,18 +84,18 @@
 
 ## Psalm 31:14
 
-> But as for me, I trust in You, Lord,  
-> I say, “You are my God.”
+> Yet I trust in You, Lord,  
+> I declare, “You are my God.”
 
 ## Psalm 31:15
 
 > My times are in Your hand;  
-> Rescue me from the hand of my enemies and from those who persecute me.
+> Deliver me from the grasp of my enemies and from those who pursue me.
 
 ## Psalm 31:16
 
-> Make Your face shine upon Your servant;  
-> Save me in Your faithfulness.
+> Let Your face shine upon Your servant;  
+> Save me through Your faithfulness.
 
 ## Psalm 31:17
 
@@ -104,7 +104,7 @@
 
 ## Psalm 31:18
 
-> Let the lying lips be speechless,  
+> Let the deceitful lips be silenced,  
 > Which speak arrogantly against the righteous  
 > With pride and contempt.
 
@@ -112,15 +112,15 @@
 
 ## Psalm 31:19
 
-> How great is Your goodness,  
-> Which You have stored up for those who fear You,  
-> Which You have performed for those who take refuge in You,  
-> Before the sons of mankind!
+> How abundant is Your goodness,  
+> Which You have reserved for those who fear You,  
+> Which You have accomplished for those who seek refuge in You,  
+> In the sight of humanity!
 
 ## Psalm 31:20
 
-> You hide them in the secret place of Your presence from the conspiracies of mankind;  
-> You keep them secretly in a shelter from the strife of tongues.
+> You hide them in the shelter of Your presence from the schemes of people;  
+> You keep them safe in a refuge from the strife of tongues.
 
 ---
 
@@ -131,20 +131,20 @@
 
 ## Psalm 31:22
 
-> As for me, I said in my alarm,  
-> “I am cut off from Your eyes!”  
-> Nevertheless You heard the sound of my pleadings  
+> In my alarm, I said,  
+> “I am cut off from Your sight!”  
+> Yet You heard the sound of my pleadings  
 > When I called to You for help.
 
 ---
 
 ## Psalm 31:23
 
-> Love the Lord, all His godly ones!  
-> The Lord watches over the faithful  
+> Love the Lord, all His faithful ones!  
+> The Lord preserves the loyal  
 > But fully repays the one who acts arrogantly.
 
 ## Psalm 31:24
 
-> Be strong and let your heart take courage,  
-> All you who wait for the Lord.
+> Be strong and let your heart be courageous,  
+> All you who hope in the Lord.

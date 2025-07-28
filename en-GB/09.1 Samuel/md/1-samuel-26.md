@@ -2,13 +2,13 @@
 
 ## 1 Samuel 26:1
 
-Then the Ziphites came to Saul at Gibeah, saying,  
+The Ziphites approached Saul at Gibeah and said,  
 “Is David not keeping himself hidden on the hill of Hachilah, which is opposite Jeshimon?”
 
 ## 1 Samuel 26:2
 
-So Saul set out and went down to the wilderness of Ziph,  
-taking with him three thousand chosen men of Israel,  
+Saul then set out and journeyed to the wilderness of Ziph,  
+bringing with him three thousand chosen men of Israel,  
 to search for David in the wilderness of Ziph.
 
 ## 1 Samuel 26:3
@@ -30,9 +30,9 @@ Now Saul was lying in the inner circle of the camp, and the people were camped a
 
 ## 1 Samuel 26:6
 
-Then David said to Ahimelech the Hittite and to Abishai the son of Zeruiah, Joab’s brother, saying,  
-“Who will go down with me to Saul in the camp?”  
-And Abishai said, “I will go down with you.”
+David spoke to Ahimelech the Hittite and to Abishai the son of Zeruiah, Joab’s brother, asking,  
+“Who will accompany me to Saul in the camp?”  
+And Abishai replied, “I will go down with you.”
 
 ## 1 Samuel 26:7
 
@@ -48,18 +48,18 @@ now then, please let me strike him with the spear to the ground with one thrust,
 
 ## 1 Samuel 26:9
 
-But David said to Abishai,  
-“Do not kill him, for who can reach out with his hand against the Lord’s anointed and remain innocent?”
+But David replied to Abishai,  
+“Do not kill him, for who can reach out against the Lord’s anointed and remain innocent?”
 
 ## 1 Samuel 26:10
 
 David also said,  
-“As the Lord lives, the Lord certainly will strike him, or his day will come that he dies,  
+“As the Lord lives, the Lord will surely strike him, or his day will come when he dies,  
 or he will go down in battle and perish.
 
 ## 1 Samuel 26:11
 
-The Lord forbid that I would reach out with my hand against the Lord’s anointed!  
+The Lord forbid that I would reach out against the Lord’s anointed!  
 But now, please take the spear that is at his head and the jug of water, and let us go.”
 
 ## 1 Samuel 26:12
@@ -83,10 +83,10 @@ Then Abner answered, “Who are you who calls to the king?”
 
 ## 1 Samuel 26:15
 
-So David said to Abner,  
+So David addressed Abner,  
 “Are you not a man? And who is like you in Israel?  
-Why then have you not guarded your lord the king?  
-For one of the people came to destroy the king your lord.
+Why then have you not protected your lord the king?  
+For one of the people came to harm the king your lord.
 
 ## 1 Samuel 26:16
 
@@ -117,7 +117,7 @@ for they have driven me out today so that I would have no share in the inheritan
 
 ## 1 Samuel 26:20
 
-Now then, do not let my blood fall to the ground away from the presence of the Lord,  
+Therefore, do not let my blood fall to the ground away from the presence of the Lord,  
 for the king of Israel has come out to search for a single flea,  
 just as one hunts a partridge in the mountains.”
 
@@ -139,8 +139,8 @@ Now have one of the young men come over and take it.
 ## 1 Samuel 26:23
 
 And the Lord will repay each man for his righteousness and his faithfulness;  
-for the Lord handed you over to me today,  
-but I refused to reach out with my hand against the Lord’s anointed.
+for the Lord delivered you into my hands today,  
+but I refused to reach out against the Lord’s anointed.
 
 ## 1 Samuel 26:24
 

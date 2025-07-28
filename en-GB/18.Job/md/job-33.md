@@ -148,8 +148,8 @@
 
 ## Job 33:28
 
-> He has redeemed my soul from going down to the pit,
-> and my life shall see the light.’
+> He has delivered my soul from descending into the pit,
+> and my life shall behold the light.’
 
 ---
 
@@ -166,15 +166,15 @@
 
 ## Job 33:31
 
-> “Pay attention, Job, and listen to me;
-> be silent, and I will speak.
+> “Listen carefully, Job, and hear me;
+> remain silent, and I will speak.
 
 ## Job 33:32
 
-> If you have anything to say, answer me;
-> speak, for I desire to justify you.
+> If you have anything to say, respond to me;
+> speak, for I wish to justify you.
 
 ## Job 33:33
 
-> But if not, then listen to me;
-> keep silent, and I will teach you wisdom.”
+> But if not, then heed my words;
+> stay silent, and I will impart wisdom to you.”

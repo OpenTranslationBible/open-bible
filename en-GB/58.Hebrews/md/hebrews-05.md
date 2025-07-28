@@ -25,7 +25,7 @@ Similarly, Christ did not glorify Himself by becoming a high priest, but it was 
 
 ## Hebrews 5:6
 
-And He says in another place,
+He also declares elsewhere,
 
 > “You are a priest forever,
 > according to the order of Melchizedek.”

@@ -2,27 +2,27 @@
 
 ## Song of Solomon 3:1
 
-On my bed night after night I sought him  
-Whom my soul loves;  
+Upon my bed, night after night, I searched for him  
+Whom my soul cherishes;  
 I sought him but did not find him.
 
 ## Song of Solomon 3:2
 
-I must arise now and go around in the city;  
+I must arise now and go about the city;  
 In the streets and in the public squares.  
-I must seek him whom my soul loves.”  
-I sought him but did not find him.
+I must seek him whom my soul cherishes.”  
+I searched for him but did not find him.
 
 ## Song of Solomon 3:3
 
-The watchmen who make the rounds in the city found me,  
-And I said,  
-“Have you seen him whom my soul loves?”
+The watchmen who patrol the city found me,  
+And I asked,  
+“Have you seen him whom my soul cherishes?”
 
 ## Song of Solomon 3:4
 
-Hardly had I left them  
-When I found him whom my soul loves;  
+Scarcely had I passed them  
+When I found him whom my soul cherishes;  
 I held on to him and would not let him go  
 Until I had brought him to my mother’s house,  
 And into the room of her who conceived me.
@@ -66,10 +66,10 @@ From the timber of Lebanon.
 
 ## Song of Solomon 3:10
 
-He made its posts of silver,  
+He crafted its posts of silver,  
 Its back of gold,  
 And its seat of purple fabric,  
-With its interior lovingly inlaid  
+With its interior lovingly adorned  
 By the daughters of Jerusalem.
 
 ---
@@ -77,7 +77,7 @@ By the daughters of Jerusalem.
 ## Song of Solomon 3:11
 
 Go out, you daughters of Zion,  
-And look at King Solomon with the crown  
-With which his mother has crowned him  
+And behold King Solomon with the crown  
+With which his mother crowned him  
 On the day of his wedding,  
-And on the day of the joy of his heart.
+And on the day of his heart’s delight.

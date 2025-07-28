@@ -2,8 +2,8 @@
 
 ## 2 Chronicles 27:1
 
-Jotham was twenty-five years old when he became king, and he reigned for sixteen years in Jerusalem.  
-And his mother’s name was Jerushah, the daughter of Zadok.
+Jotham was twenty-five years old when he began his reign, and he ruled for sixteen years in Jerusalem.  
+His mother was named Jerushah, the daughter of Zadok.
 
 ---
 
@@ -50,11 +50,11 @@ Now the rest of the acts of Jotham, and all his wars and his conduct, behold, th
 
 ## 2 Chronicles 27:8
 
-At the age of twenty-five, he became king, and he ruled for sixteen years in Jerusalem.
+At the age of twenty-five, he began his reign, and he ruled for sixteen years in Jerusalem.
 
 ---
 
 ## 2 Chronicles 27:9
 
-And Jotham lay down with his fathers, and they buried him in the city of David;  
-and his son Ahaz became king in his place.
+Jotham rested with his ancestors, and they buried him in the city of David;  
+his son Ahaz succeeded him as king.

@@ -29,12 +29,12 @@ to count the people of Israel.
 ## 2 Samuel 24:5
 
 They crossed the Jordan and camped in Aroer,  
-on the right side of the city that is in the middle of the valley of Gad and toward Jazer.
+on the right side of the city that is in the centre of the Valley of Gad and toward Jazer.
 
 ## 2 Samuel 24:6
 
 Then they came to Gilead and to the land of Tahtim-hodshi,  
-and they came to Dan-jaan and around to Sidon.
+and they came to Dan-jaan and circled around to Sidon.
 
 ## 2 Samuel 24:7
 
@@ -43,8 +43,8 @@ and they went out to the south of Judah, to Beersheba.
 
 ## 2 Samuel 24:8
 
-So when they had gone about through the whole land,  
-they came to Jerusalem at the end of nine months and twenty days.
+So after they had travelled through the entire land,  
+they arrived in Jerusalem at the end of nine months and twenty days.
 
 ## 2 Samuel 24:9
 
@@ -64,8 +64,8 @@ for I have acted very foolishly.”
 
 ## 2 Samuel 24:11
 
-When David got up in the morning,  
-the word of the Lord came to the prophet Gad, David’s seer, saying,
+When David awoke in the morning,  
+a message from the Lord came to the prophet Gad, David’s seer, saying,
 
 ## 2 Samuel 24:12
 
@@ -85,7 +85,7 @@ Now consider and see what answer I shall return to Him who sent me.”
 
 Then David said to Gad,  
 “I am in great distress.  
-Let us now fall into the hand of the Lord,  
+Let us fall into the hand of the Lord,  
 for His mercies are great;  
 but do not let me fall into human hands.”
 
@@ -93,8 +93,8 @@ but do not let me fall into human hands.”
 
 ## 2 Samuel 24:15
 
-So the Lord sent a plague upon Israel from the morning until the appointed time,  
-and seventy thousand men of the people from Dan to Beersheba died.
+So the Lord sent a plague upon Israel from the morning until the designated time,  
+and seventy thousand men of the people from Dan to Beersheba perished.
 
 ## 2 Samuel 24:16
 
@@ -116,7 +116,7 @@ Please let Your hand be against me and my father’s house!”
 ## 2 Samuel 24:18
 
 So Gad came to David that day and said to him,  
-“Go up, erect an altar to the Lord on the threshing floor of Araunah the Jebusite.”
+“Go up, build an altar to the Lord on the threshing floor of Araunah the Jebusite.”
 
 ## 2 Samuel 24:19
 
@@ -140,13 +140,13 @@ so that the plague may be halted from the people.”
 ## 2 Samuel 24:22
 
 Araunah said to David,  
-“Let my lord the king take and offer up what is good in his sight.  
+“Let my lord the king take and offer up what seems good to him.  
 Look, the oxen for the burnt offering,  
 the threshing sledges, and the yokes of the oxen for the wood.
 
 ## 2 Samuel 24:23
 
-Everything, O king, Araunah gives to the king.”  
+All this, O king, Araunah freely gives to the king.”  
 And Araunah said to the king,  
 “May the Lord your God accept you.”
 
@@ -155,7 +155,7 @@ And Araunah said to the king,
 However, the king said to Araunah,  
 “No, but I will certainly buy it from you for a price;  
 for I will not offer burnt offerings to the Lord my God that cost me nothing.”  
-So David bought the threshing floor and the oxen for fifty shekels of silver.
+So David purchased the threshing floor and the oxen for fifty shekels of silver.
 
 ## 2 Samuel 24:25
 

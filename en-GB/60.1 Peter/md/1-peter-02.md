@@ -22,16 +22,16 @@ you also, like living stones, are being constructed into a spiritual house to be
 
 ## 1 Peter 2:6
 
-For this is contained in Scripture:
+For it is stated in Scripture:
 
-> “Behold, I am laying in Zion a choice stone,  
+> “See, I am placing in Zion a chosen stone,  
 > a precious cornerstone,  
-> And the one who believes in Him  
-> will not be put to shame.”
+> And whoever believes in Him  
+> will not be disappointed.”
 
 ## 1 Peter 2:7
 
-This precious value, then, is for you who believe; but for unbelievers,
+This precious value, then, is for you who believe; but for those who do not believe,
 
 > “A stone which the builders rejected,  
 > This became the chief cornerstone,”
@@ -97,8 +97,8 @@ For to this you were called, because Christ also suffered for you, leaving you a
 
 ## 1 Peter 2:22
 
-> He who committed no sin,  
-> nor was any deceit found in His mouth;
+> He who did no wrong,  
+> nor was any falsehood found in His mouth;
 
 ## 1 Peter 2:23
 

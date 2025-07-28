@@ -11,68 +11,68 @@
 
 ## Psalm 21:2
 
-> You have given him his heart’s desire,  
-> And You have not withheld the request of his lips.
+> You have granted him his heart’s desire,  
+> And You have not denied the request of his lips.
 
 > Selah
 
 ## Psalm 21:3
 
-> For You meet him with the blessings of good things;  
-> You set a crown of pure gold on his head.
+> For You welcome him with the blessings of good things;  
+> You place a crown of pure gold upon his head.
 
 ## Psalm 21:4
 
-> He asked for life from You, You gave it to him,  
-> Length of days forever and ever.
+> He asked You for life, and You granted it to him,  
+> Length of days for all time.
 
 ## Psalm 21:5
 
 > His glory is great through Your salvation,  
-> Splendour and majesty You place upon him.
+> Splendour and majesty You bestow upon him.
 
 ## Psalm 21:6
 
-> For You make him most blessed forever;  
-> You make him joyful with the joy of Your presence.
+> For You make him exceedingly blessed forever;  
+> You fill him with joy in Your presence.
 
 ## Psalm 21:7
 
-> For the king trusts in the Lord,  
-> And through the faithfulness of the Most High he will not be shaken.
+> For the king has faith in the Lord,  
+> And through the steadfastness of the Most High he will remain unshaken.
 
 ---
 
 ## Psalm 21:8
 
-> Your hand will find all your enemies;  
-> Your right hand will find those who hate you.
+> Your hand will reach all your enemies;  
+> Your right hand will seize those who bear hatred towards you.
 
 ## Psalm 21:9
 
-> You will make them as a fiery oven in the time of your anger;  
-> The Lord will swallow them up in His wrath,  
-> And fire will devour them.
+> You will make them like a blazing furnace in the time of your anger;  
+> The Lord will consume them in His wrath,  
+> And fire will engulf them.
 
 ## Psalm 21:10
 
-> You will eliminate their descendants from the earth,  
-> And their children from among the sons of mankind.
+> You will remove their descendants from the earth,  
+> And their offspring from among the children of mankind.
 
 ## Psalm 21:11
 
-> Though they intended evil against You  
-> And devised a plot,  
-> They will not succeed.
+> Though they plotted evil against You  
+> And devised a scheme,  
+> They will not prevail.
 
 ## Psalm 21:12
 
-> For You will make them turn their back;  
-> You will take aim at their faces with Your bowstrings.
+> For You will make them retreat;  
+> You will aim at their faces with Your bowstrings.
 
 ---
 
 ## Psalm 21:13
 
-> Be exalted, Lord, in Your strength;  
-> We will sing and praise Your power.
+> Be lifted high, Lord, in Your strength;  
+> We will sing and praise Your might.

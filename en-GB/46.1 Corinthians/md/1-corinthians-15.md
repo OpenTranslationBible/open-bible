@@ -222,12 +222,12 @@ But when this perishable is clothed with the imperishable, and this mortal with 
 
 ## 1 Corinthians 15:55
 
-> Where, O death, is your victory?  
-> Where, O death, is your sting?”
+> O death, where is your victory?  
+> O death, where is your sting?”
 
 ## 1 Corinthians 15:56
 
-Fot the sting of death is sin, and the power of sin is the Law;
+For the sting of death is sin, and the power of sin is the Law;
 
 ## 1 Corinthians 15:57
 

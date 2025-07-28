@@ -41,8 +41,8 @@ Speak a parable to this rebellious house and say to them: ‘This is what the So
 
 ## Ezekiel 24:7
 
-> For her blood is in her midst;
-> she placed it on the bare rock;
+> For her blood remains within her;
+> she exposed it on the bare rock;
 > she did not pour it on the ground
 > to cover it with dust.
 
@@ -126,7 +126,7 @@ You will keep your turbans on your heads and your sandals on your feet. You will
 
 ## Ezekiel 24:24
 
-Ezekiel will serve as a sign to you; you will act just as he has acted. When this occurs, you will Recognise that I am the Sovereign Lord.’
+Ezekiel will serve as a sign to you; you will act just as he has acted. When this occurs, you will recognise that I am the Sovereign Lord.’
 
 ## Ezekiel 24:25
 

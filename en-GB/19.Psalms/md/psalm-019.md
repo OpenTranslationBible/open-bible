@@ -9,76 +9,76 @@
 
 ## Psalm 19:2
 
-> Day to day pours forth speech,  
-> And night to night reveals knowledge.
+> Each day brings forth speech,  
+> And each night unveils knowledge.
 
 ## Psalm 19:3
 
-> There is no speech, nor are there words;  
-> Their voice is not heard.
+> They do not speak, nor do they use words;  
+> Their voice remains unheard.
 
 ## Psalm 19:4
 
-> Their line has gone out into all the earth,  
+> Their message has gone out into all the earth,  
 > And their words to the end of the world.  
-> In them He has placed a tent for the sun,
+> In them He has set a dwelling for the sun,
 
 ## Psalm 19:5
 
-> Which is like a groom coming out of his chamber;  
-> It rejoices like a strong person to run his course.
+> Which is like a bridegroom emerging from his chamber;  
+> It delights like a strong runner to follow its path.
 
 ## Psalm 19:6
 
 > Its rising is from one end of the heavens,  
 > And its circuit to the other end of them;  
-> And there is nothing hidden from its heat.
+> And nothing is hidden from its warmth.
 
 ---
 
 ## Psalm 19:7
 
-> The Law of the Lord is perfect, restoring the soul;  
-> The testimony of the Lord is sure, making wise the simple.
+> The Law of the Lord is flawless, reviving the soul;  
+> The testimony of the Lord is certain, imparting wisdom to the simple.
 
 ## Psalm 19:8
 
-> The precepts of the Lord are right, rejoicing the heart;  
-> The commandment of the Lord is pure, enlightening the eyes.
+> The precepts of the Lord are just, bringing joy to the heart;  
+> The commandment of the Lord is clear, giving light to the eyes.
 
 ## Psalm 19:9
 
-> The fear of the Lord is clean, enduring forever;  
-> The judgments of the Lord are true; they are righteous altogether.
+> The reverence for the Lord is pure, lasting forever;  
+> The judgments of the Lord are trustworthy; they are altogether righteous.
 
 ---
 
 ## Psalm 19:10
 
-> They are more desirable than gold, yes, than much pure gold;  
-> Sweeter also than honey and drippings of the honeycomb.
+> They are more precious than gold, even much fine gold;  
+> Sweeter also than honey and the drippings of the honeycomb.
 
 ## Psalm 19:11
 
-> Moreover, Your servant is warned by them;  
-> In keeping them there is great reward.
+> Furthermore, Your servant is enlightened by them;  
+> In observing them there is great reward.
 
 ## Psalm 19:12
 
-> Who can discern his errors?  
-> Acquit me of hidden faults.
+> Who can recognize his own errors?  
+> Cleanse me from hidden faults.
 
 ## Psalm 19:13
 
-> Also keep Your servant back from presumptuous sins;  
-> Let them not rule over me;  
-> Then I will be innocent,  
-> And I will be blameless of great wrongdoing.
+> Also restrain Your servant from wilful sins;  
+> Let them not dominate me;  
+> Then I will be blameless,  
+> And free from great transgression.
 
 ---
 
 ## Psalm 19:14
 
 > May the words of my mouth and the meditation of my heart  
-> Be acceptable in Your sight,  
+> Be pleasing in Your sight,  
 > Lord, my rock and my Redeemer.

@@ -2,7 +2,7 @@
 
 ## 1 Chronicles 4:1
 
-The sons of Judah were:
+Judah's sons included:
 
 > Perez, Hezron, Carmi, Hur, and Shobal.
 
@@ -10,34 +10,34 @@ The sons of Judah were:
 
 ## 1 Chronicles 4:2
 
-Reaiah the son of Shobal fathered Jahath,
+Reaiah, the son of Shobal, was the father of Jahath,
 
-> and Jahath fathered Ahumai and Lahad.  
+> and Jahath was the father of Ahumai and Lahad.  
 > These were the families of the Zorathites.
 
 ---
 
 ## 1 Chronicles 4:3
 
-These were the sons of Etam:
+These were the descendants of Etam:
 
 > Jezreel, Ishma, and Idbash;  
-> and the name of their sister was Hazzelelponi.
+> and their sister was named Hazzelelponi.
 
 ---
 
 ## 1 Chronicles 4:4
 
 Penuel was the father of Gedor,  
-and Ezer the father of Hushah.
+and Ezer was the father of Hushah.
 
-> These were the sons of Hur, the firstborn of Ephrathah, the father of Bethlehem.
+> These were the descendants of Hur, the firstborn of Ephrathah, who was the father of Bethlehem.
 
 ---
 
 ## 1 Chronicles 4:5
 
-Ashhur the father of Tekoa had two wives:
+Ashhur, who was the father of Tekoa, had two wives:
 
 > Helah and Naarah.
 
@@ -45,7 +45,7 @@ Ashhur the father of Tekoa had two wives:
 
 ## 1 Chronicles 4:6
 
-Naarah bore him:
+Naarah bore:
 
 > Ahuzzam, Hepher, Temeni, and Haahashtari.  
 > These were the sons of Naarah.
@@ -54,7 +54,7 @@ Naarah bore him:
 
 ## 1 Chronicles 4:7
 
-The sons of Helah were:
+The sons of Helah included:
 
 > Zereth, Izhar, and Ethnan.
 
@@ -62,8 +62,8 @@ The sons of Helah were:
 
 ## 1 Chronicles 4:8
 
-Koz fathered Anub and Zobebah,  
-and the families of Aharhel the son of Harum.
+Koz was the father of Anub and Zobebah,  
+and the families of Aharhel, the son of Harum.
 
 ---
 
@@ -88,7 +88,7 @@ Now Jabez called on the God of Israel, saying,
 
 ## 1 Chronicles 4:11
 
-Chelub the brother of Shuhah fathered Mehir,
+Chelub, the brother of Shuhah, was the father of Mehir,
 
 > who was the father of Eshton.
 
@@ -96,7 +96,7 @@ Chelub the brother of Shuhah fathered Mehir,
 
 ## 1 Chronicles 4:12
 
-Eshton fathered Beth-rapha, Paseah, and Tehinnah the father of Ir-nahash.
+Eshton was the father of Beth-rapha, Paseah, and Tehinnah, the father of Ir-nahash.
 
 > These were the men of Recah.
 
@@ -104,7 +104,7 @@ Eshton fathered Beth-rapha, Paseah, and Tehinnah the father of Ir-nahash.
 
 ## 1 Chronicles 4:13
 
-The sons of Kenaz were:
+The sons of Kenaz included:
 
 > Othniel and Seraiah.  
 > And the son of Othniel was Hathath.
@@ -113,16 +113,16 @@ The sons of Kenaz were:
 
 ## 1 Chronicles 4:14
 
-Meonothai fathered Ophrah,
+Meonothai was the father of Ophrah,
 
-> and Seraiah fathered Joab, the father of Ge-harashim,  
+> and Seraiah was the father of Joab, the father of Ge-harashim,  
 > for they were craftsmen.
 
 ---
 
 ## 1 Chronicles 4:15
 
-The sons of Caleb the son of Jephunneh were:
+The sons of Caleb, the son of Jephunneh, were:
 
 > Iru, Elah, and Naam;  
 > and the son of Elah was Kenaz.
@@ -131,7 +131,7 @@ The sons of Caleb the son of Jephunneh were:
 
 ## 1 Chronicles 4:16
 
-The sons of Jehallelel were:
+The sons of Jehallelel included:
 
 > Ziph, Ziphah, Tiria, and Asarel.
 
@@ -142,18 +142,18 @@ The sons of Jehallelel were:
 The sons of Ezrah were:
 
 > Jether, Mered, Epher, and Jalon.  
-> And these are the sons of Bithiah the daughter of Pharaoh,  
+> And these are the sons of Bithiah, the daughter of Pharaoh,  
 > whom Mered took:
 
-> She conceived and bore Miriam, Shammai, and Ishbah the father of Eshtemoa.
+> She conceived and bore Miriam, Shammai, and Ishbah, the father of Eshtemoa.
 
 ---
 
 ## 1 Chronicles 4:18
 
-His Jewish wife bore Jered the father of Gedor,  
-Heber the father of Soco,  
-and Jekuthiel the father of Zanoah.
+His Jewish wife bore Jered, the father of Gedor,  
+Heber, the father of Soco,  
+and Jekuthiel, the father of Zanoah.
 
 > These were the sons of Bithiah, the daughter of Pharaoh, whom Mered had taken.
 
@@ -170,7 +170,7 @@ The sons of the wife of Hodiah, the sister of Naham, were:
 
 ## 1 Chronicles 4:20
 
-The sons of Shimon were:
+The sons of Shimon included:
 
 > Amnon, Rinnah, Benhanan, and Tilon.  
 > And the sons of Ishi were:
@@ -181,10 +181,10 @@ The sons of Shimon were:
 
 ## 1 Chronicles 4:21
 
-The sons of Shelah the son of Judah were:
+The sons of Shelah, the son of Judah, were:
 
-> Er the father of Lecah,  
-> Laadah the father of Mareshah,  
+> Er, the father of Lecah,  
+> Laadah, the father of Mareshah,  
 > and the families of the house of the linen workers at Beth-ashbea;
 
 ---
@@ -200,13 +200,13 @@ The sons of Shelah the son of Judah were:
 ## 1 Chronicles 4:23
 
 These were the potters and the inhabitants of Netaim and Gederah;  
-they lived there with the king for his work.
+they resided there with the king for his work.
 
 ---
 
 ## 1 Chronicles 4:24
 
-The sons of Simeon were:
+The sons of Simeon included:
 
 > Nemuel, Jamin, Jarib, Zerah, and Shaul;
 
@@ -261,7 +261,7 @@ in Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim.
 
 ## 1 Chronicles 4:32
 
-Their villages were:
+Their villages included:
 
 > Etam, Ain, Rimmon, Tochen, and Ashan—five cities—
 
@@ -295,14 +295,14 @@ and Ziza, was the son of Shiphi, who was of Allon, who was of Jedaiah, who was o
 
 ## 1 Chronicles 4:38
 
-these mentioned by name were leaders in their families;  
+those mentioned by name were leaders in their families;  
 and their fathers’ houses increased greatly.
 
 ---
 
 ## 1 Chronicles 4:39
 
-They went to the entrance of Gedor, to the east side of the valley,  
+They travelled to the entrance of Gedor, to the east side of the valley,  
 to seek pasture for their flocks.
 
 ---
@@ -318,7 +318,7 @@ and the land was spacious, quiet, and peaceful;
 
 ## 1 Chronicles 4:41
 
-Now these who came listed by name in the days of Hezekiah king of Judah  
+Now those who came listed by name in the days of Hezekiah, king of Judah,  
 attacked their tents and the Meunites who were found there,  
 and they utterly destroyed them to this day,  
 and lived in their place, because there was pasture there for their flocks.
@@ -327,12 +327,12 @@ and lived in their place, because there was pasture there for their flocks.
 
 ## 1 Chronicles 4:42
 
-From them, from the sons of Simeon, five hundred men went to Mount Seir,  
+From them, from the descendants of Simeon, five hundred men went to Mount Seir,  
 with Pelatiah, Neariah, Rephaiah, and Uzziel, the sons of Ishi, as their leaders.
 
 ---
 
 ## 1 Chronicles 4:43
 
-They destroyed the remnant of the Amalekites who escaped,  
+They destroyed the remnant of the Amalekites who had escaped,  
 and have lived there to this day.

@@ -44,13 +44,11 @@ Have the same mindset among yourselves as was in Christ Jesus:
 
 ## Philippians 2:10
 
-> so that at the name of Jesus every knee should bow,
-> in heaven and on earth and under the earth,
+> so that at the name of Jesus every knee should bend, in the heavenly realms, on earth, and beneath the earth,
 
 ## Philippians 2:11
 
-> and every tongue should confess that Jesus Christ is Lord,
-> to the glory of God the Father.
+> and every tongue should declare that Jesus Christ is Lord, bringing glory to God the Father.
 
 ## Philippians 2:12
 

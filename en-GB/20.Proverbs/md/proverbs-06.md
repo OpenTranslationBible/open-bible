@@ -44,9 +44,9 @@ How long will you lie there, you lazy one? When will you arise from your sleep?
 
 ## Proverbs 6:10
 
-A little sleep, a little slumber,
+A brief sleep, a short slumber,
 
-> a little folding of the hands to rest—
+> a slight folding of the hands to rest—
 
 ## Proverbs 6:11
 
@@ -80,13 +80,13 @@ There are six things the Lord hates, seven that are an abomination to Him:
 
 ## Proverbs 6:17
 
-> haughty eyes, a lying tongue,
-> and hands that shed innocent blood,
+> proud eyes, a deceitful tongue,
+> and hands that spill innocent blood,
 
 ## Proverbs 6:18
 
-> a heart that devises wicked schemes,
-> feet that are quick to rush into evil,
+> a heart that plans wicked schemes,
+> feet that are swift to rush into evil,
 
 ## Proverbs 6:19
 

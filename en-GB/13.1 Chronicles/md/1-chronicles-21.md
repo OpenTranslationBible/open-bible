@@ -2,9 +2,9 @@
 
 ## 1 Chronicles 21:1
 
-Then Satan stood up against Israel
+Satan rose against Israel
 
-> and incited David to count Israel.
+> and prompted David to count the people of Israel.
 
 ---
 
@@ -56,9 +56,9 @@ But he did not count Levi and Benjamin among them,
 
 ## 1 Chronicles 21:7
 
-Now God was displeased with this thing,
+God was displeased with this action,
 
-> so He struck Israel.
+> so He brought trouble upon Israel.
 
 ---
 
@@ -113,7 +113,7 @@ So Gad came to David and said to him,
 David said to Gad,
 
 > “I am in great distress;  
-> please let me fall into the hand of the Lord,  
+> let me fall into the hands of the Lord,  
 > for His mercies are very great.  
 > But do not let me fall into human hands.”
 
@@ -162,15 +162,15 @@ David said to God,
 
 ## 1 Chronicles 21:18
 
-Then the angel of the Lord commanded Gad to say to David
+Then the angel of the Lord instructed Gad to tell David
 
-> that David should go up and build an altar to the Lord on the threshing floor of Ornan the Jebusite.
+> that he should go up and build an altar to the Lord on the threshing floor of Ornan the Jebusite.
 
 ---
 
 ## 1 Chronicles 21:19
 
-So David went up at the word of Gad,
+So David went up at Gad's instruction,
 
 > which he spoke in the name of the Lord.
 
@@ -178,20 +178,20 @@ So David went up at the word of Gad,
 
 ## 1 Chronicles 21:20
 
-Now Ornan turned back and saw the angel,  
+Ornan turned back and saw the angel,  
 and his four sons who were with him hid themselves.
 
-> And Ornan was threshing wheat.
+> Ornan was threshing wheat.
 
 ---
 
 ## 1 Chronicles 21:21
 
-As David came to Ornan,
+As David approached Ornan,
 
 > Ornan looked and saw David,  
 > and went out from the threshing floor,  
-> and prostrated himself to David with his face to the ground.
+> and bowed down to David with his face to the ground.
 
 ---
 
@@ -239,7 +239,7 @@ So David paid Ornan six hundred shekels of gold by weight to buy the site.
 Then David built an altar to the Lord there,
 
 > and offered burnt offerings and peace offerings.  
-> And he called to the Lord, and He answered him with fire from heaven on the altar of burnt offering.
+> He called to the Lord, and He answered him with fire from heaven on the altar of burnt offering.
 
 ---
 
@@ -253,7 +253,7 @@ Then the Lord commanded the angel,
 
 ## 1 Chronicles 21:28
 
-At that time, when David saw that the Lord had answered him on the threshing floor of Ornan the Jebusite,
+When David realised that the Lord had responded to him at the threshing floor of Ornan the Jebusite,
 
 > he offered sacrifice there.
 
@@ -261,14 +261,12 @@ At that time, when David saw that the Lord had answered him on the threshing flo
 
 ## 1 Chronicles 21:29
 
-Now the tabernacle of the Lord, which Moses had made in the wilderness,
-
-> and the altar of burnt offering were at that time on the high place at Gibeon.
+At that time, the tabernacle of the Lord, constructed by Moses in the wilderness, along with the altar of burnt offering, was located on the high place at Gibeon.
 
 ---
 
 ## 1 Chronicles 21:30
 
-But David could not go before it to inquire of God,
+But David was unable to go before it to inquire of God,
 
-> for he was terrified by the sword of the angel of the Lord.
+> because he was afraid of the sword of the angel of the Lord.

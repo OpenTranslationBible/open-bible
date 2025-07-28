@@ -2,32 +2,32 @@
 
 ## Psalm 148:1
 
-> Praise the Lord!
+> Honour the Lord!  
 
-> Praise the Lord from the heavens;  
-> Praise Him in the heights!
+> Glorify the Lord from the heavens;  
+> Celebrate Him in the heights!
 
 ## Psalm 148:2
 
-> Praise Him, all His angels;  
-> Praise Him, all His heavenly armies!
+> Extol Him, all His angels;  
+> Laud Him, all His heavenly hosts!
 
 ## Psalm 148:3
 
-> Praise Him, sun and moon;  
-> Praise Him, all stars of light!
+> Acclaim Him, sun and moon;  
+> Praise Him, all shining stars!
 
 ## Psalm 148:4
 
-> Praise Him, highest heavens,  
-> And the waters that are above the heavens!
+> Exalt Him, highest heavens,  
+> And the waters that are above the skies!
 
 ---
 
 ## Psalm 148:5
 
-> Let them praise the name of the Lord,  
-> For He commanded, and they were created.
+> Let them honour the name of the Lord,  
+> For He commanded, and they came into being.
 
 ## Psalm 148:6
 
@@ -38,45 +38,45 @@
 
 ## Psalm 148:7
 
-> Praise the Lord from the earth,  
-> Sea monsters and all the ocean depths;
+> Glorify the Lord from the earth,  
+> Sea creatures and all the ocean depths;
 
 ## Psalm 148:8
 
-> Fire and hail, snow and clouds;  
-> Stormy wind, fulfilling His word;
+> Fire and hail, snow and mist;  
+> Stormy wind, carrying out His word;
 
 ## Psalm 148:9
 
-> Mountains and all hills;  
-> Fruit trees and all cedars;
+> The towering mountains and gentle hills;  
+> Fruit-bearing trees and majestic cedars;
 
 ## Psalm 148:10
 
-> Animals and all cattle;  
-> Crawling things and winged birds;
+> Animals and all livestock;  
+> Creeping things and flying birds;
 
 ## Psalm 148:11
 
-> Kings of the earth and all peoples;  
-> Rulers and all judges of the earth;
+> Monarchs of the earth and all peoples;  
+> Leaders and all judges of the earth;
 
 ## Psalm 148:12
 
-> Both young men and virgins;  
-> Old men and children.
+> Both young men and maidens;  
+> Elders and children.
 
 ---
 
 ## Psalm 148:13
 
-> Let them praise the name of the Lord,  
+> Let them honour the name of the Lord,  
 > For His name alone is exalted;  
-> His majesty is above earth and heaven.
+> His splendour is above earth and heaven.
 
 ## Psalm 148:14
 
-> And He has lifted up a horn for His people,  
-> Praise for all His godly ones,  
-> For the sons of Israel, a people near to Him.  
-> Praise the Lord!
+> And He has raised a horn for His people,  
+> Praise for all His faithful ones,  
+> For the children of Israel, a people close to Him.  
+> Honour the Lord!

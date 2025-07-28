@@ -50,7 +50,7 @@ and serve the Lord your God, so that His burning anger may turn away from you.
 ## 2 Chronicles 30:9
 
 For if you return to the Lord,  
-your brothers and your sons will find compassion before those who led them captive and will return to this land.  
+your brothers and your sons will find mercy from those who took them captive and will return to this land.  
 For the Lord your God is gracious and compassionate,  
 and will not turn His face away from you if you return to Him.”
 
@@ -58,8 +58,8 @@ and will not turn His face away from you if you return to Him.”
 
 ## 2 Chronicles 30:10
 
-So the couriers passed from city to city through the country of Ephraim and Manasseh, and as far as Zebulun,  
-but they laughed at them with scorn and mocked them.
+So the couriers passed from city to city through the territory of Ephraim and Manasseh, and as far as Zebulun,  
+but they were met with ridicule and mockery.
 
 ## 2 Chronicles 30:11
 
@@ -73,13 +73,13 @@ God also moved the hearts of the people of Judah to unite them in following the 
 
 ## 2 Chronicles 30:13
 
-Now many people were gathered at Jerusalem to celebrate the Feast of Unleavened Bread in the second month,  
+Now a great multitude gathered at Jerusalem to celebrate the Feast of Unleavened Bread in the second month,  
 a very large assembly.
 
 ## 2 Chronicles 30:14
 
-They got up and removed the altars which were in Jerusalem;  
-they also removed all the incense altars and threw them into the brook Kidron.
+They rose and removed the altars which were in Jerusalem;  
+they also took away all the incense altars and cast them into the brook Kidron.
 
 ---
 
@@ -108,7 +108,7 @@ For Hezekiah prayed for them, saying,
 
 ## 2 Chronicles 30:19
 
-everyone who prepares his heart to seek God, the Lord God of his fathers,  
+everyone who sets his heart to seek God, the Lord God of his fathers,  
 though not according to the purification rules of the sanctuary.”
 
 ## 2 Chronicles 30:20
@@ -127,14 +127,14 @@ and the Levites and the priests praised the Lord day after day with loud instrum
 ## 2 Chronicles 30:22
 
 Then Hezekiah spoke encouragingly to all the Levites who showed good insight in the things of the Lord.  
-So they ate for the appointed seven days, sacrificing peace offerings and giving thanks to the Lord God of their fathers.
+So they ate for the appointed seven days, offering peace offerings and giving thanks to the Lord God of their fathers.
 
 ---
 
 ## 2 Chronicles 30:23
 
-Then the whole assembly decided to celebrate the feast another seven days,  
-so they celebrated the seven days with joy.
+Then the whole assembly decided to celebrate the feast for another seven days,  
+so they celebrated the additional seven days with joy.
 
 ## 2 Chronicles 30:24
 
@@ -144,15 +144,14 @@ and a large number of priests consecrated themselves.
 
 ## 2 Chronicles 30:25
 
-All the assembly of Judah rejoiced, with the priests and the Levites and all the assembly that came from Israel,  
-both the strangers who came from the land of Israel and those living in Judah.
+The entire assembly of Judah rejoiced, along with the priests, the Levites, and all who had come from Israel, including the foreigners from the land of Israel and those residing in Judah.
 
 ## 2 Chronicles 30:26
 
 So there was great joy in Jerusalem,  
-because there was nothing like this in Jerusalem since the days of Solomon the son of David, king of Israel.
+because such an event had not occurred in Jerusalem since the days of Solomon the son of David, king of Israel.
 
 ## 2 Chronicles 30:27
 
 Then the Levitical priests stood and blessed the people;  
-and their voice was heard, and their prayer came to His holy dwelling place, to heaven.
+and their voice was heard, and their prayer reached His holy dwelling place, to heaven.

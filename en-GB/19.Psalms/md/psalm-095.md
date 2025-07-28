@@ -2,42 +2,42 @@
 
 ## Psalm 95:1
 
-> Come, let’s sing for joy to the Lord,  
-> Let’s shout joyfully to the rock of our salvation.
+> Come, let us sing with joy to the Lord,  
+> Let us shout with gladness to the rock of our salvation.
 
 ## Psalm 95:2
 
-> Let’s come before His presence with a song of thanksgiving,  
-> Let’s shout joyfully to Him in songs with instruments.
+> Let us approach His presence with a song of gratitude,  
+> Let us joyfully praise Him with music.
 
 ---
 
 ## Psalm 95:3
 
-> For the Lord is a great God  
-> And a great King above all gods,
+> For the Lord is indeed a great God  
+> And a mighty King above all gods,
 
 ## Psalm 95:4
 
-> In whose hand are the depths of the earth,  
-> The peaks of the mountains are also His.
+> In His hand are the depths of the earth,  
+> The peaks of the mountains belong to Him as well.
 
 ## Psalm 95:5
 
-> The sea is His, for it was He who made it,  
-> And His hands formed the dry land.
+> The sea is His, for He created it,  
+> And His hands shaped the dry land.
 
 ---
 
 ## Psalm 95:6
 
-> Come, let’s worship and bow down,  
-> Let’s kneel before the Lord our Maker.
+> Come, let us worship and bow down,  
+> Let us kneel before the Lord, our Creator.
 
 ## Psalm 95:7
 
 > For He is our God,  
-> And we are the people of His pasture and the sheep of His hand.
+> And we are His people, the flock He tends.
 
 ---
 
@@ -46,20 +46,20 @@
 ## Psalm 95:8
 
 > Do not harden your hearts as at Meribah,  
-> As on the day of Massah in the wilderness,
+> Like on the day at Massah in the wilderness,
 
 ## Psalm 95:9
 
-> When your fathers put Me to the test,  
-> They tested Me, though they had seen My work.
+> When your ancestors tested Me,  
+> They tried Me, though they had seen My deeds.
 
 ## Psalm 95:10
 
-> For forty years I loathed that generation,  
-> And said they are a people who err in their heart,  
-> And they do not know My ways.
+> For forty years I was grieved with that generation,  
+> And said they are a people who go astray in their heart,  
+> And they have not understood My ways.
 
 ## Psalm 95:11
 
-> Therefore I swore in My anger,  
-> They certainly shall not enter My rest.
+> Therefore I declared in My wrath,  
+> They shall certainly not enter My rest.

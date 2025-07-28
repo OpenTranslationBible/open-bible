@@ -8,8 +8,8 @@
 
 ## Psalm 139:2
 
-> You know when I sit down and when I get up;  
-> You understand my thought from far away.
+> You are aware of when I sit down and when I rise up;  
+> You perceive my thoughts from a distance.
 
 ## Psalm 139:3
 
@@ -18,62 +18,62 @@
 
 ## Psalm 139:4
 
-> Even before there is a word on my tongue,  
-> Behold, Lord, You know it all.
+> Even before a word is on my tongue,  
+> Behold, Lord, You know it completely.
 
 ## Psalm 139:5
 
-> You have encircled me behind and in front,  
-> And placed Your hand upon me.
+> You have surrounded me from behind and in front,  
+> And laid Your hand upon me.
 
 ## Psalm 139:6
 
-> Such knowledge is too wonderful for me;  
-> It is too high, I cannot comprehend it.
+> Such knowledge is beyond my understanding;  
+> It is so lofty, I cannot grasp it.
 
 ---
 
 ## Psalm 139:7
 
-> Where can I go from Your Spirit?  
-> Or where can I flee from Your presence?
+> Where could I go from Your Spirit?  
+> Or where could I escape from Your presence?
 
 ## Psalm 139:8
 
 > If I ascend to heaven, You are there;  
-> If I make my bed in Sheol, behold, You are there.
+> If I lie down in Sheol, behold, You are there.
 
 ## Psalm 139:9
 
 > If I take up the wings of the dawn,  
-> And dwell in the remotest part of the sea,
+> And dwell in the farthest part of the sea,
 
 ## Psalm 139:10
 
 > Even there Your hand will lead me,  
-> And Your right hand will take hold of me.
+> And Your right hand will securely hold me.
 
 ## Psalm 139:11
 
-> If I say, “Surely darkness will overwhelm me,  
-> And the light around me will be night,”
+> If I say, “Surely darkness will cover me,  
+> And the light around me will become night,”
 
 ## Psalm 139:12
 
 > Even darkness is not dark to You,  
-> And the night is as bright as the day.  
-> Darkness and light are alike to You.
+> And the night shines like the day.  
+> Darkness and light are both alike to You.
 
 ---
 
 ## Psalm 139:13
 
-> For You created my innermost parts;  
-> You wove me in my mother’s womb.
+> For You formed my innermost being;  
+> You knit me together in my mother’s womb.
 
 ## Psalm 139:14
 
-> I will give thanks to You, because I am fearfully and wonderfully made;  
+> I will thank You, for I am fearfully and wonderfully made;  
 > Wonderful are Your works,  
 > And my soul knows it very well.
 
@@ -85,49 +85,49 @@
 
 ## Psalm 139:16
 
-> Your eyes have seen my formless substance;  
+> Your eyes saw my unformed body;  
 > And in Your book were written  
-> All the days that were ordained for me,  
-> When as yet there was not one of them.
+> All the days that were planned for me,  
+> When none of them had yet come to be.
 
 ## Psalm 139:17
 
-> How precious also are Your thoughts for me, God!  
+> How treasured are Your thoughts to me, God!  
 > How vast is the sum of them!
 
 ## Psalm 139:18
 
-> Were I to count them, they would outnumber the sand.  
+> If I were to count them, they would outnumber the grains of sand.  
 > When I awake, I am still with You.
 
 ---
 
 ## Psalm 139:19
 
-> If only You would put the wicked to death, God;  
-> Leave me, you men of bloodshed.
+> If only You would slay the wicked, God;  
+> Depart from me, you men of bloodshed.
 
 ## Psalm 139:20
 
-> For they speak against You wickedly,  
-> And Your enemies take Your name in vain.
+> For they speak against You with malice,  
+> And Your adversaries misuse Your name.
 
 ## Psalm 139:21
 
 > Do I not hate those who hate You, Lord?  
-> And do I not loathe those who rise up against You?
+> And do I not despise those who rise up against You?
 
 ## Psalm 139:22
 
-> I hate them with the utmost hatred;  
-> They have become my enemies.
+> I hate them with complete hatred;  
+> They have become my foes.
 
 ## Psalm 139:23
 
-> Search me, God, and know my heart;  
-> Put me to the test and know my anxious thoughts;
+> Examine me, God, and know my heart;  
+> Test me and know my anxious thoughts;
 
 ## Psalm 139:24
 
-> And see if there is any hurtful way in me,  
-> And lead me in the everlasting way.
+> And see if there is any offensive way in me,  
+> And lead me in the way everlasting.

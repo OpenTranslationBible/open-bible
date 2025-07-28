@@ -9,9 +9,9 @@
 
 ## Psalm 125:2
 
-> As the mountains surround Jerusalem,  
-> So the Lord surrounds His people  
-> From this time and forever.
+> Just as the mountains encircle Jerusalem,  
+> So the Lord encircles His people  
+> Now and for all time.
 
 ---
 
@@ -24,11 +24,11 @@
 
 ## Psalm 125:4
 
-> Do good, Lord, to those who are good,  
+> Show kindness, Lord, to those who are good,  
 > And to those who are upright in their hearts.
 
 ## Psalm 125:5
 
-> But as for those who turn aside to their crooked ways,  
-> The Lord will lead them away with those who practice injustice.  
-> Peace be upon Israel.
+> But for those who turn aside to their crooked ways,  
+> The Lord will guide them away with those who practice injustice.  
+> May peace be upon Israel.

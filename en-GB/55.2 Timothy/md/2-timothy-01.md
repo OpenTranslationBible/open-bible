@@ -6,8 +6,8 @@ Paul, an apostle of Christ Jesus by God's will, in line with the promise of life
 
 ## 2 Timothy 1:2
 
-To Timothy, my beloved son:  
-Grace, mercy, and peace from God the Father and Christ Jesus our Lord.
+To Timothy, my dear child:  
+May you receive grace, mercy, and peace from God the Father and Christ Jesus our Lord.
 
 ## 2 Timothy 1:3
 

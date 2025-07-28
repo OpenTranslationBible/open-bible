@@ -6,9 +6,9 @@
 
 ## Judges 5:2
 
-> “When leaders lead in Israel,
-> when the people willingly offer themselves,
-> bless the Lord!
+> “When leaders arise in Israel,
+> when the people offer themselves willingly,
+> praise the Lord!
 
 ## Judges 5:3
 
@@ -73,7 +73,7 @@
 
 > “Awake, awake, Deborah!
 > Awake, awake, sing a song!
-> Arise, Barak, and lead away your captives, son of Abinoam.
+> Arise, Barak, and lead your captives away, son of Abinoam.
 
 ## Judges 5:13
 
@@ -116,15 +116,15 @@
 
 ## Judges 5:19
 
-> “Kings came, they fought,
-> the kings of Canaan fought at Taanach,
+> “Kings came and fought,
+> the kings of Canaan battled at Taanach,
 > by the waters of Megiddo;
 > they took no plunder of silver.
 
 ## Judges 5:20
 
-> From the heavens, the stars fought,
-> from their courses, they fought against Sisera.
+> From the heavens, the stars joined the battle,
+> from their paths, they fought against Sisera.
 
 ## Judges 5:21
 
@@ -140,8 +140,8 @@
 
 > ‘Curse Meroz,’ said the angel of the Lord.
 > ‘Curse its inhabitants bitterly,
-> because they did not come to the help of the Lord,
-> to the help of the Lord against the mighty.’
+> because they did not come to the aid of the Lord,
+> to the aid of the Lord against the mighty.’
 
 ---
 
@@ -154,7 +154,7 @@
 ## Judges 5:25
 
 > He asked for water, and she gave him milk;
-> in a magnificent bowl, she brought him curds.
+> in a fine bowl, she brought him curds.
 
 ## Judges 5:26
 
@@ -168,7 +168,7 @@
 > At her feet he sank, he fell;
 > there he lay.
 > At her feet he sank, he fell;
-> where he sank, there he fell—dead.
+> where he sank, there he fell—lifeless.
 
 ---
 

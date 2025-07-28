@@ -2,34 +2,34 @@
 
 ## Job 14:1
 
-> “Man, who is born of a woman,  
-> Is short-lived and full of turmoil.
+> “Human beings, born of women,  
+> Have brief lives and are filled with trouble.
 
 ## Job 14:2
 
-> Like a flower he comes out and withers,  
-> He also flees like a shadow and does not remain.
+> Like a flower, they emerge and wither,  
+> They also flee like a shadow and do not endure.
 
 ## Job 14:3
 
-> You also open Your eyes on him  
-> And bring him into judgment with Yourself.
+> You also observe them closely  
+> And bring them into judgment with Yourself.
 
 ## Job 14:4
 
-> Who can make the clean out of the unclean?  
-> No one!
+> Who can bring purity from impurity?  
+> No one can!
 
 ## Job 14:5
 
-> Since his days are determined,  
-> The number of his months is with You;  
-> And You have set his limits so that he cannot pass.
+> Since their days are determined,  
+> The number of their months is known to You;  
+> And You have set their boundaries which they cannot exceed.
 
 ## Job 14:6
 
-> Look away from him so that he may rest,  
-> Until he fulfills his day like a hired worker.
+> Turn Your gaze from them so they may have rest,  
+> Until they complete their day like a hired labourer.
 
 ---
 
@@ -46,53 +46,53 @@
 
 ## Job 14:9
 
-> At the scent of water it will flourish  
-> And produce sprigs like a plant.
+> At the scent of water, it will thrive  
+> And send out branches like a young plant.
 
 ## Job 14:10
 
-> But a man dies and lies prostrate;  
-> A person passes away, and where is he?
+> But when a person dies and lies low,  
+> A person passes away, and where are they?
 
 ## Job 14:11
 
-> As water evaporates from the sea,  
-> And a river becomes parched and dried up,
+> As water vanishes from the sea,  
+> And a river becomes dry and parched,
 
 ## Job 14:12
 
-> So a man lies down and does not rise.  
-> Until the heavens no longer exist,  
-> He will not awake nor be woken from his sleep.
+> So people lie down and do not rise.  
+> Until the heavens are no more,  
+> They will not awaken nor be roused from their slumber.
 
 ---
 
 ## Job 14:13
 
 > “Oh that You would hide me in Sheol,  
-> That You would conceal me until Your wrath returns to You,  
-> That You would set a limit for me and remember me!
+> That You would conceal me until Your anger subsides,  
+> That You would set a time for me and remember me!
 
 ## Job 14:14
 
-> If a man dies, will he live again?  
-> All the days of my struggle I will wait  
-> Until my relief comes.
+> If a person dies, will they live again?  
+> All the days of my hardship I will wait  
+> Until my renewal comes.
 
 ## Job 14:15
 
 > You will call, and I will answer You;  
-> You will long for the work of Your hands.
+> You will yearn for the work of Your hands.
 
 ## Job 14:16
 
-> For now You number my steps,  
-> You do not observe my sin.
+> For now You count my steps,  
+> You do not watch over my sin.
 
 ## Job 14:17
 
-> My wrongdoing is sealed up in a bag,  
-> And You cover over my guilt.
+> My transgression is sealed up in a bag,  
+> And You cover over my iniquity.
 
 ---
 
@@ -103,21 +103,21 @@
 
 ## Job 14:19
 
-> Water wears away stones,  
-> Its torrents wash away the dust of the earth;  
-> So You destroy a man’s hope.
+> Water erodes stones,  
+> Its torrents wash away the soil of the earth;  
+> So You diminish a person's hope.
 
 ## Job 14:20
 
-> You forever overpower him and he departs;  
-> You change his appearance and send him away.
+> You continually overpower them and they depart;  
+> You alter their appearance and send them away.
 
 ## Job 14:21
 
-> His sons achieve honour, but he does not know it;  
-> Or they become insignificant, and he does not perceive it.
+> Their children attain honour, but they do not know it;  
+> Or they become insignificant, and they do not perceive it.
 
 ## Job 14:22
 
-> However, his body feels pain,  
-> And his soul mourns over it.”
+> However, their body feels pain,  
+> And their soul mourns over it.”

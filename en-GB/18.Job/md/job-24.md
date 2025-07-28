@@ -2,13 +2,13 @@
 
 ## Job 24:1
 
-> “Why are times not stored up by the Almighty,  
-> And why do those who know Him not see His days?
+> “Why are times not appointed by the Almighty,  
+> And why do those who know Him not perceive His days?
 
 ## Job 24:2
 
-> People remove landmarks;  
-> They seize and devour flocks.
+> People move boundary stones;  
+> They seize and consume flocks.
 
 ## Job 24:3
 
@@ -23,23 +23,23 @@
 ## Job 24:5
 
 > Behold, like wild donkeys in the wilderness  
-> They go out scavenging for food in their activity,  
-> As bread for their children in the desert.
+> They search for food in their activity,  
+> As sustenance for their children in the desert.
 
 ## Job 24:6
 
-> They harvest their feed in the field  
-> And glean the vineyard of the wicked.
+> They gather their fodder in the field  
+> And glean the vineyard of the unjust.
 
 ## Job 24:7
 
-> They spend the night naked, without clothing,  
+> They spend the night without clothing,  
 > And have no covering against the cold.
 
 ## Job 24:8
 
-> They are wet from the mountain rains,  
-> And they hug the rock for lack of a shelter.
+> They are drenched by the mountain rains,  
+> And they cling to the rock for lack of a shelter.
 
 ## Job 24:9
 
@@ -48,19 +48,19 @@
 
 ## Job 24:10
 
-> They cause the poor to go about naked without clothing,  
+> They compel the poor to go about without clothing,  
 > And they take away the sheaves from the hungry.
 
 ## Job 24:11
 
-> Within the walls they produce oil;  
-> They tread wine presses but go thirsty.
+> Within the walls they press oil;  
+> They tread wine presses but remain thirsty.
 
 ## Job 24:12
 
 > From the city people groan,  
 > And the souls of the wounded cry out;  
-> Yet God does not pay attention to the offence.
+> Yet God does not regard the wrongdoing.
 
 ---
 
@@ -72,19 +72,19 @@
 
 ## Job 24:14
 
-> The murderer arises at dawn;  
+> The murderer rises at dawn;  
 > He kills the poor and the needy,  
-> And at night he is like a thief.
+> And at night he behaves like a thief.
 
 ## Job 24:15
 
-> The eye of the adulterer watches for twilight,  
+> The eye of the adulterer waits for twilight,  
 > Saying, ‘No eye will see me.’  
 > And he disguises his face.
 
 ## Job 24:16
 
-> In the dark they dig into houses,  
+> In the dark they break into houses,  
 > They shut themselves up by day;  
 > They do not know the light.
 
@@ -114,7 +114,7 @@
 
 ## Job 24:21
 
-> He wrongs the infertile woman,  
+> He mistreats the childless woman,  
 > And does no good for the widow.
 
 ## Job 24:22
@@ -124,7 +124,7 @@
 
 ## Job 24:23
 
-> He provides them with security, and they are supported;  
+> He grants them security, and they are supported;  
 > And His eyes are on their ways.
 
 ## Job 24:24
@@ -137,5 +137,5 @@
 
 ## Job 24:25
 
-> Now if it is not so, who can prove me a liar,  
-> And make my speech worthless?”
+> Now if it is not so, who can prove me false,  
+> And make my words meaningless?”

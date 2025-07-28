@@ -17,23 +17,23 @@
 
 ## Psalm 39:3
 
-> My heart was hot within me,  
-> While I was musing the fire burned;  
+> My heart burned within me,  
+> While I was reflecting, the fire ignited;  
 > Then I spoke with my tongue:
 
 ---
 
 ## Psalm 39:4
 
-> “Lord, let me know my end,  
-> And what is the extent of my days;  
-> Let me know how transient I am.
+> “Lord, help me understand my end,  
+> And the measure of my days;  
+> Let me realise how fleeting I am.
 
 ## Psalm 39:5
 
-> Behold, You have made my days like hand widths,  
-> And my lifetime as nothing in Your sight;  
-> Certainly all mankind standing is a mere breath.
+> Behold, You have made my days as short as hand spans,  
+> And my lifetime is as nothing before You;  
+> Truly, all humanity is but a breath.
 
 > Selah
 
@@ -41,37 +41,37 @@
 
 ## Psalm 39:6
 
-> Certainly every person walks around as a fleeting shadow;  
-> They certainly make an uproar for nothing;  
-> He amasses riches and does not know who will gather them.
+> Truly, every person moves like a passing shadow;  
+> They make a commotion for no purpose;  
+> He gathers wealth, not knowing who will collect it.
 
 ---
 
 ## Psalm 39:7
 
-> And now, Lord, for what do I wait?  
-> My hope is in You.
+> And now, Lord, what am I to anticipate?  
+> My hope rests in You.
 
 ## Psalm 39:8
 
-> Save me from all my wrongdoings;  
-> Do not make me an object of reproach for the foolish.
+> Deliver me from all my transgressions;  
+> Do not let me be a scorn to the foolish.
 
 ## Psalm 39:9
 
-> I have become mute, I do not open my mouth,  
-> Because it is You who have done it.
+> I have become silent, I do not open my mouth,  
+> Because it is You who have acted.
 
 ## Psalm 39:10
 
-> Remove Your plague from me;  
-> Because of the opposition of Your hand I am finished.
+> Remove Your affliction from me;  
+> Because of the pressure of Your hand, I am undone.
 
 ## Psalm 39:11
 
-> With rebukes You punish a person for wrongdoing;  
-> You consume like a moth what is precious to him;  
-> Certainly all mankind is mere breath.
+> With rebukes You discipline a person for iniquity;  
+> You consume what is dear to him like a moth;  
+> Truly, all humanity is but a breath.
 
 > Selah
 
@@ -80,11 +80,11 @@
 ## Psalm 39:12
 
 > Hear my prayer, Lord, and listen to my cry for help;  
-> Do not be silent to my tears;  
+> Do not ignore my tears;  
 > For I am a stranger with You,  
-> A temporary resident like all my fathers.
+> A sojourner like all my ancestors.
 
 ## Psalm 39:13
 
-> Turn Your eye away from me, that I may become cheerful again  
+> Turn Your gaze from me, that I may find joy again  
 > Before I depart and am no more.

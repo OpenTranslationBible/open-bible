@@ -7,9 +7,9 @@ that Hezekiah the son of Ahaz, king of Judah, became king.
 
 ## 2 Kings 18:2
 
-He was twenty-five years old when he became king,  
-and he reigned twenty-nine years in Jerusalem.  
-And his mother’s name was Abi, the daughter of Zechariah.
+He was twenty-five years old when he began his reign,  
+and he ruled for twenty-nine years in Jerusalem.  
+His mother was Abi, the daughter of Zechariah.
 
 ## 2 Kings 18:3
 
@@ -25,32 +25,32 @@ and it was called Nehushtan.
 
 ## 2 Kings 18:5
 
-He trusted in the Lord, the God of Israel;  
-so that after him there was none like him among all the kings of Judah,  
-nor among those who were before him.
+He placed his trust in the Lord, the God of Israel;  
+there was no one like him among all the kings of Judah,  
+either before or after him.
 
 ## 2 Kings 18:6
 
-For he clung to the Lord;  
-he did not depart from following Him,  
-but kept His commandments, which the Lord had commanded Moses.
+For he held fast to the Lord;  
+he did not turn away from following Him,  
+but kept His commandments, which the Lord had given to Moses.
 
 ## 2 Kings 18:7
 
-And the Lord was with him; wherever he went he prospered.  
-And he rebelled against the king of Assyria and did not serve him.
+And the Lord was with him; wherever he went, he found success.  
+He also stood against the king of Assyria and did not serve him.
 
 ## 2 Kings 18:8
 
-He defeated the Philistines as far as Gaza and its territory,  
+He overcame the Philistines as far as Gaza and its territory,  
 from watchtower to fortified city.
 
 ---
 
 ## 2 Kings 18:9
 
-Now in the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel,  
-Shalmaneser king of Assyria came up against Samaria and besieged it.
+In the fourth year of King Hezekiah, which was the seventh year of Hoshea son of Elah king of Israel,  
+Shalmaneser king of Assyria advanced against Samaria and laid siege to it.
 
 ## 2 Kings 18:10
 
@@ -73,8 +73,8 @@ they neither listened nor obeyed.
 
 ## 2 Kings 18:13
 
-Now in the fourteenth year of King Hezekiah,  
-Sennacherib king of Assyria came up against all the fortified cities of Judah and seized them.
+In the fourteenth year of King Hezekiah,  
+Sennacherib king of Assyria advanced against all the fortified cities of Judah and captured them.
 
 ## 2 Kings 18:14
 
@@ -85,12 +85,12 @@ So the king of Assyria imposed on Hezekiah king of Judah a payment of three hund
 
 ## 2 Kings 18:15
 
-Hezekiah gave him all the silver that was found in the house of the Lord,  
+Hezekiah provided him with all the silver that was found in the house of the Lord,  
 and in the treasuries of the king’s house.
 
 ## 2 Kings 18:16
 
-At that time Hezekiah cut off the gold from the doors of the temple of the Lord,  
+At that time Hezekiah removed the gold from the doors of the temple of the Lord,  
 and from the doorposts which Hezekiah king of Judah had overlaid,  
 and gave it to the king of Assyria.
 
@@ -119,7 +119,7 @@ What is this confidence that you have?
 
 ## 2 Kings 18:20
 
-You say—but they are only empty words—"I have a plan and strength for the war."  
+You claim—but they are only empty words—"I have a plan and strength for the war."  
 Now on whom have you relied, that you have revolted against me?
 
 ## 2 Kings 18:21
@@ -148,7 +148,7 @@ and rely on Egypt for chariots and horsemen?
 
 ## 2 Kings 18:25
 
-Have I now come up without the Lord’s approval against this place to destroy it?  
+Have I now come up without the Lord’s consent against this place to destroy it?  
 The Lord said to me, “Go up against this land, and destroy it.”’”
 
 ---
@@ -156,7 +156,7 @@ The Lord said to me, “Go up against this land, and destroy it.”’”
 ## 2 Kings 18:26
 
 Then Eliakim the son of Hilkiah, and Shebnah and Joah, said to Rabshakeh,  
-“Speak now to your servants in Aramaic, for we understand it;  
+“Please speak to your servants in Aramaic, for we understand it;  
 and do not speak with us in Judean in the hearing of the people who are on the wall.”
 
 ## 2 Kings 18:27
@@ -164,7 +164,7 @@ and do not speak with us in Judean in the hearing of the people who are on the w
 But Rabshakeh said to them,  
 “Has my master sent me only to your master and to you to speak these words,  
 and not to the men who sit on the wall,  
-doomed to eat their own dung and drink their own urine with you?”
+who are doomed to eat their own dung and drink their own urine with you?”
 
 ## 2 Kings 18:28
 
@@ -174,7 +174,7 @@ Then Rabshakeh stood and called out with a loud voice in Judean, and said,
 ## 2 Kings 18:29
 
 This is what the king says:  
-‘Do not let Hezekiah deceive you, for he will not be able to save you from my hand.
+‘Do not let Hezekiah deceive you, for he will not be able to deliver you from my hand.
 
 ## 2 Kings 18:30
 
@@ -203,9 +203,9 @@ Have any of the gods of the nations been able to rescue their land from the hand
 
 ## 2 Kings 18:34
 
-Where are the gods of Hamath and Arpad?  
-Where are the gods of Sepharvaim, Hena, and Ivvah?  
-Have they saved Samaria from my hand?
+What has become of the gods of Hamath and Arpad?  
+What has become of the gods of Sepharvaim, Hena, and Ivvah?  
+Have they rescued Samaria from my hand?
 
 ## 2 Kings 18:35
 

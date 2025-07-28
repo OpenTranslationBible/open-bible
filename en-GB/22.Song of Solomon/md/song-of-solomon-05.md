@@ -14,12 +14,12 @@ Drink and become intoxicated with love.
 
 ## Song of Solomon 5:2
 
-I was asleep but my heart was awake.  
-A voice! My beloved was knocking:  
+I was asleep, yet my heart was awake.  
+I heard a voice! My beloved was at the door:  
 “Open to me, my sister, my darling,  
-My dove, my perfect one!  
-For my head is drenched with dew,  
-My locks with the damp of the night.”
+My dove, my flawless one!  
+For my head is soaked with dew,  
+My hair with the moisture of the night.”
 
 ## Song of Solomon 5:3
 
@@ -30,15 +30,15 @@ How can I dirty them again?”
 
 ## Song of Solomon 5:4
 
-My beloved extended his hand through the opening,  
-And my feelings were stirred for him.
+My beloved reached out his hand through the opening,  
+And my heart was moved for him.
 
 ## Song of Solomon 5:5
 
-I arose to open to my beloved;  
-And my hands dripped with myrrh,  
-And my fingers with drops of myrrh,  
-On the handles of the bolt.
+I rose to open to my beloved;  
+And my hands were covered with myrrh,  
+And my fingers with flowing myrrh,  
+Upon the handles of the bolt.
 
 ## Song of Solomon 5:6
 
@@ -50,9 +50,9 @@ I called him but he did not answer me.
 
 ## Song of Solomon 5:7
 
-The watchmen who make the rounds in the city found me,  
+The watchmen patrolling the city found me,  
 They struck me and wounded me;  
-The guards of the walls took my shawl away from me.
+The guards of the walls took my shawl from me.
 
 ## Song of Solomon 5:8
 
@@ -80,22 +80,22 @@ Outstanding among ten thousand.
 
 ## Song of Solomon 5:11
 
-His head is like gold, pure gold;  
-His locks are like clusters of dates  
-And black as a raven.
+His head is like refined gold;  
+His hair is like clusters of dates  
+And as dark as a raven.
 
 ## Song of Solomon 5:12
 
-His eyes are like doves beside streams of water,  
+His eyes are like doves by streams of water,  
 Bathed in milk,  
-And perched in their setting.
+And perfectly set.
 
 ## Song of Solomon 5:13
 
 His cheeks are like a garden bed of balsam,  
 Banks of fragrant herbs;  
 His lips are lilies  
-Dripping with drops of myrrh.
+Dripping with liquid myrrh.
 
 ## Song of Solomon 5:14
 
@@ -108,13 +108,12 @@ Inlaid with sapphires.
 
 His legs are pillars of alabaster  
 Set on pedestals of pure gold;  
-His appearance is like Lebanon,  
-Choice as the cedars.
+His appearance is majestic like Lebanon,  
+Select as the cedars.
 
 ## Song of Solomon 5:16
 
 His mouth is full of sweetness.  
-And he is wholly desirable.  
+And he is altogether lovely.  
 This is my beloved and this is my friend,  
 O daughters of Jerusalem.
-

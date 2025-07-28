@@ -14,7 +14,7 @@ What if some did not believe? Will their lack of faith nullify God’s faithfuln
 
 ## Romans 3:4
 
-Certainly not! Let God be true, and every person a liar, as it is written:
+Certainly not! Let God be true, and every person a liar, just as it is stated:
 
 > “So that you may be justified in your words
 > and prevail when you are judged.”
@@ -41,18 +41,18 @@ What then? Are we any better off? Not at all! For we have already charged that b
 
 ## Romans 3:10
 
-As it is written:
+As it is recorded:
 
-> “There is no one righteous, not even one;
+> “There is no one who is righteous, not even one;
 
 ## Romans 3:11
 
-> there is no one who understands;
-> there is no one who seeks God.
+> there is no one who truly understands;
+> there is no one who seeks after God.
 
 ## Romans 3:12
 
-> All have turned away, they have together become worthless;
+> All have turned away, they have together become unprofitable;
 > there is no one who does good,
 > not even one.”
 

@@ -2,8 +2,8 @@
 
 ## 3 John 1:1
 
-The elder,  
-To the beloved Gaius, whom I love in truth.
+From the elder,  
+To the dear Gaius, whom I truly love.
 
 ## 3 John 1:2
 

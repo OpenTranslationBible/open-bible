@@ -9,12 +9,11 @@
 
 ## Psalm 134:2
 
-> Lift up your hands to the sanctuary  
-> And bless the Lord.
+> Raise your hands towards the holy place  
+> And offer praise to the Lord.
 
 ---
 
 ## Psalm 134:3
 
-> May the Lord bless you from Zion,  
-> He who made heaven and earth.
+> May the Lord, the Creator of heaven and earth, bless you from Zion.

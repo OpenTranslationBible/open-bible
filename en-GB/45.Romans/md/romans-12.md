@@ -78,11 +78,7 @@ Do not take revenge, my dear friends, but leave room for God’s wrath, for it i
 
 ## Romans 12:20
 
-On the contrary:
-
-> “If your enemy is hungry, feed him;
-> if he is thirsty, give him something to drink.
-> In doing this, you will heap burning coals on his head.”
+Instead, if your enemy is hungry, provide him with food; if he is thirsty, offer him something to drink. By doing this, you will heap burning coals on his head.
 
 ## Romans 12:21
 

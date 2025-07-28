@@ -8,14 +8,14 @@
 
 ## Psalm 87:2
 
-> The Lord loves the gates of Zion  
-> More than all the other dwelling places of Jacob.
+> The Lord cherishes the gates of Zion  
+> More than all the other homes of Jacob.
 
 ---
 
 ## Psalm 87:3
 
-> Glorious things are spoken of you,  
+> Wonderful things are declared about you,  
 > City of God.
 
 > Selah
@@ -28,17 +28,17 @@
 
 ## Psalm 87:5
 
-> But of Zion it will be said, “This one and that one were born in her”;  
-> And the Most High Himself will establish her.
+> Yet of Zion it will be proclaimed, “This one and that one were born in her”;  
+> And the Most High Himself will uphold her.
 
 ## Psalm 87:6
 
-> The Lord will count when He registers the peoples:  
+> The Lord will take account when He records the peoples:  
 > “This one was born there.”
 
 > Selah
 
 ## Psalm 87:7
 
-> Then those who sing as well as those who play the flutes will say,  
-> “All my springs of joy are in you.”
+> Then those who sing, along with those who play the flutes, will proclaim,  
+> “All my sources of joy are in you.”

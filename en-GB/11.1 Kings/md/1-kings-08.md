@@ -2,57 +2,57 @@
 
 ## 1 Kings 8:1
 
-Then Solomon assembled the elders of Israel and all the heads of the tribes,  
-the leaders of the fathers’ households of the sons of Israel,  
+Then Solomon gathered the elders of Israel and all the heads of the tribes,  
+the leaders of the ancestral houses of the sons of Israel,  
 to King Solomon in Jerusalem,  
 to bring up the ark of the covenant of the Lord from the city of David, which is Zion.
 
 ## 1 Kings 8:2
 
-All the men of Israel assembled themselves before King Solomon  
-at the feast, in the month Ethanim, which is the seventh month.
+All the men of Israel gathered before King Solomon  
+at the feast, in the month of Ethanim, which is the seventh month.
 
 ## 1 Kings 8:3
 
-Then all the elders of Israel came,  
-and the priests took up the ark.
+Then all the elders of Israel arrived,  
+and the priests carried the ark.
 
 ## 1 Kings 8:4
 
 They brought up the ark of the Lord,  
-the tent of meeting, and all the holy utensils which were in the tent;  
-and the priests and the Levites brought them up.
+the tent of meeting, and all the sacred utensils which were in the tent;  
+and the priests and the Levites carried them up.
 
 ## 1 Kings 8:5
 
 And King Solomon and all the congregation of Israel,  
-who were assembled to him, were with him before the ark,  
-sacrificing so many sheep and oxen  
+who were gathered to him, were with him before the ark,  
+offering so many sheep and oxen  
 that they could not be counted or numbered.
 
 ## 1 Kings 8:6
 
-Then the priests brought the ark of the covenant of the Lord to its place,  
-into the inner sanctuary of the house,  
+Then the priests placed the ark of the covenant of the Lord in its position,  
+within the inner sanctuary of the house,  
 to the Most Holy Place,  
-under the wings of the cherubim.
+beneath the wings of the cherubim.
 
 ## 1 Kings 8:7
 
-For the cherubim spread their wings over the place of the ark,  
-and the cherubim made a covering over the ark and its poles from above.
+For the cherubim spread their wings over the location of the ark,  
+and the cherubim provided a covering over the ark and its poles from above.
 
 ## 1 Kings 8:8
 
 But the poles were so long  
 that the ends of the poles could be seen from the holy place in front of the inner sanctuary,  
 but they could not be seen outside;  
-they are there to this day.
+they remain there to this day.
 
 ## 1 Kings 8:9
 
 There was nothing in the ark except the two tablets of stone  
-which Moses put there at Horeb,  
+which Moses placed there at Horeb,  
 where the Lord made a covenant with the sons of Israel  
 when they came out of the land of Egypt.
 
@@ -60,12 +60,12 @@ when they came out of the land of Egypt.
 
 ## 1 Kings 8:10
 
-And when the priests came out of the holy place,  
+And when the priests exited the holy place,  
 the cloud filled the house of the Lord,
 
 ## 1 Kings 8:11
 
-so that the priests could not stand to minister because of the cloud,  
+so that the priests were unable to stand and minister due to the cloud,  
 for the glory of the Lord filled the house of the Lord.
 
 ---
@@ -73,19 +73,19 @@ for the glory of the Lord filled the house of the Lord.
 ## 1 Kings 8:12
 
 Then Solomon said,  
-“The Lord has said that He would dwell in the thick cloud.
+“The Lord has declared that He would dwell in the thick cloud.
 
 ## 1 Kings 8:13
 
-I have truly built You a lofty house,  
+I have indeed built You a magnificent house,  
 a place for Your dwelling forever.”
 
 ---
 
 ## 1 Kings 8:14
 
-Then the king turned around and blessed all the assembly of Israel,  
-while all the assembly of Israel was standing.
+Then the king turned to bless all the assembly of Israel,  
+while all the assembly of Israel stood.
 
 ## 1 Kings 8:15
 
@@ -104,16 +104,16 @@ but I chose David to be over My people Israel.’
 ## 1 Kings 8:17
 
 Now it was in the heart of my father David  
-to build a house for the name of the Lord, the God of Israel.
+to construct a house for the name of the Lord, the God of Israel.
 
 ## 1 Kings 8:18
 
 But the Lord said to my father David,  
-‘Because it was in your heart to build a house for My name, you did well that it was in your heart.
+‘Because it was in your heart to build a house for My name, you have done well to have this desire.
 
 ## 1 Kings 8:19
 
-Nevertheless, you shall not build the house,  
+However, you shall not build the house,  
 but your son who will be born to you,  
 he will build the house for My name.’
 
@@ -136,7 +136,7 @@ which He made with our fathers when He brought them out of the land of Egypt.”
 
 Then Solomon stood before the altar of the Lord  
 in the presence of all the assembly of Israel,  
-and spread out his hands toward heaven.
+and lifted his hands toward heaven.
 
 ## 1 Kings 8:23
 
@@ -169,20 +169,20 @@ which You have spoken to Your servant, my father David.
 
 ## 1 Kings 8:27
 
-But will God indeed dwell on the earth?  
-Behold, heaven and the highest heaven cannot contain You,  
+But can God truly dwell on the earth?  
+Behold, heaven and the highest heavens cannot contain You,  
 how much less this house which I have built!
 
 ## 1 Kings 8:28
 
-Nevertheless, turn Your attention to the prayer of Your servant  
+Yet, please turn Your attention to the prayer of Your servant  
 and to his plea, Lord my God,  
 to listen to the cry and to the prayer  
 which Your servant prays before You today,
 
 ## 1 Kings 8:29
 
-so that Your eyes may be open toward this house night and day,  
+so that Your eyes may be open toward this house day and night,  
 toward the place of which You have said, ‘My name shall be there,’  
 to listen to the prayer which Your servant will pray toward this place.
 
@@ -202,7 +202,7 @@ and he comes and swears before Your altar in this house,
 
 ## 1 Kings 8:32
 
-then hear in heaven and act and judge Your servants,  
+then hear in heaven and act, judging Your servants,  
 condemning the wicked by bringing his way on his own head,  
 and justifying the righteous by giving him according to his righteousness.
 
@@ -217,14 +217,14 @@ and plead with You in this house,
 
 ## 1 Kings 8:34
 
-then hear in heaven, and forgive the sin of Your people Israel,  
-and bring them back to the land which You gave to their fathers.
+then hear in heaven, forgive the sin of Your people Israel,  
+and restore them to the land which You gave to their fathers.
 
 ---
 
 ## 1 Kings 8:35
 
-When the heavens are shut up and there is no rain  
+When the skies are closed and there is no rain  
 because they have sinned against You,  
 and they pray toward this place and confess Your name  
 and turn from their sin when You afflict them,
@@ -287,14 +287,14 @@ and that they may know that this house which I have built is called by Your name
 ## 1 Kings 8:44
 
 When Your people go out to battle against their enemy,  
-by whatever way You shall send them,  
-and they pray to the Lord toward the city which You have chosen  
-and the house which I have built for Your name,
+by whatever way You send them,  
+and they pray to the Lord toward the city You have chosen  
+and the house I have built for Your name,
 
 ## 1 Kings 8:45
 
 then hear in heaven their prayer and their pleading,  
-and maintain their cause.
+and support their cause.
 
 ---
 
@@ -321,7 +321,7 @@ the city which You have chosen, and the house which I have built for Your name,
 ## 1 Kings 8:49
 
 then hear in heaven Your dwelling place their prayer and their pleading,  
-and maintain their cause,
+and support their cause,
 
 ## 1 Kings 8:50
 
@@ -369,7 +369,7 @@ which He promised through Moses His servant.
 ## 1 Kings 8:57
 
 May the Lord our God be with us, as He was with our fathers;  
-may He not leave us nor forsake us,
+may He not leave us nor abandon us,
 
 ## 1 Kings 8:58
 
@@ -382,13 +382,13 @@ which He commanded our fathers.
 
 And may these words of mine, with which I have pleaded before the Lord,  
 be near to the Lord our God day and night,  
-so that He may maintain the cause of His servant  
+so that He may support the cause of His servant  
 and the cause of His people Israel, as each day requires,
 
 ## 1 Kings 8:60
 
 so that all the peoples of the earth may know  
-that the Lord is God; there is no one else.
+that the Lord is God; there is none else.
 
 ## 1 Kings 8:61
 

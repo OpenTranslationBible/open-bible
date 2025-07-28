@@ -9,28 +9,28 @@
 
 ## Psalm 56:2
 
-> My enemies have trampled upon me all day long,  
-> For they are many who fight proudly against me.
+> My adversaries have pursued me throughout the day,  
+> For numerous are those who contend against me with pride.
 
 ---
 
 ## Psalm 56:3
 
-> When I am afraid,  
-> I will put my trust in You.
+> In times of fear,  
+> I will place my trust in You.
 
 ## Psalm 56:4
 
 > In God, whose word I praise,  
-> In God I have put my trust; I shall not be afraid.  
-> What can mere mortals do to me?
+> In God I have placed my trust; I shall not be afraid.  
+> What can mere humans do to me?
 
 ---
 
 ## Psalm 56:5
 
-> All day long they distort my words;  
-> All their thoughts are against me for evil.
+> Throughout the day they twist my words;  
+> All their schemes are against me for harm.
 
 ## Psalm 56:6
 
@@ -40,44 +40,44 @@
 
 ## Psalm 56:7
 
-> Because of their wickedness, will there be an escape for them?  
-> In anger make the peoples fall down, God!
+> Because of their wickedness, is there a way of escape for them?  
+> In Your anger, bring the nations down, God!
 
 ---
 
 ## Psalm 56:8
 
-> You have taken account of my miseries;  
-> Put my tears in Your bottle.  
-> Are they not in Your book?
+> You have noted my sufferings;  
+> Collect my tears in Your bottle.  
+> Are they not recorded in Your book?
 
 ## Psalm 56:9
 
-> Then my enemies will turn back on the day when I call;  
-> This I know, that God is for me.
+> Then my foes will retreat on the day I call;  
+> This I know, that God is with me.
 
 ---
 
 ## Psalm 56:10
 
 > In God, whose word I praise,  
-> In the Lord, whose word I praise,
+> In the Lord, whose message I honour,
 
 ## Psalm 56:11
 
-> In God I have put my trust, I shall not be afraid.  
-> What can mankind do to me?
+> In God I have placed my trust, I shall not be afraid.  
+> What can humanity do to me?
 
 ---
 
 ## Psalm 56:12
 
-> Your vows are binding upon me, God;  
-> I will render thanksgiving offerings to You.
+> Your promises are binding upon me, God;  
+> I will offer thanksgiving sacrifices to You.
 
 ## Psalm 56:13
 
-> For You have saved my soul from death,  
+> For You have rescued my soul from death,  
 > Indeed my feet from stumbling,  
 > So that I may walk before God  
-> In the light of the living.
+> In the brightness of life.

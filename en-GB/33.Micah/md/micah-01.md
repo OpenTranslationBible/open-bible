@@ -6,15 +6,15 @@ The word of the Lord which came to Micah of Moresheth in the days of Jotham, Aha
 
 ## Micah 1:2
 
-> Hear, you peoples, all of you;  
-> Listen carefully, earth and all it contains,  
-> And may the Lord God be a witness against you,  
-> The Lord from His holy temple.
+> Listen, all you peoples;  
+> Pay attention, earth and everything within it,  
+> And let the Lord God testify against you,  
+> The Lord from His sacred temple.
 
 ## Micah 1:3
 
-> For behold, the Lord is coming out of His place.  
-> He will come down and tread on the high places of the earth.
+> For see, the Lord is leaving His dwelling.  
+> He will descend and walk upon the high places of the earth.
 
 ## Micah 1:4
 
@@ -24,9 +24,9 @@ The word of the Lord which came to Micah of Moresheth in the days of Jotham, Aha
 
 ## Micah 1:5
 
-> All this is due to the wrongdoing of Jacob  
+> All this is because of the transgression of Jacob  
 > And the sins of the house of Israel.  
-> What is the wrongdoing of Jacob? Is it not Samaria?  
+> What is the transgression of Jacob? Is it not Samaria?  
 > What is the high place of Judah? Is it not Jerusalem?
 
 ## Micah 1:6
@@ -78,26 +78,25 @@ The word of the Lord which came to Micah of Moresheth in the days of Jotham, Aha
 
 ## Micah 1:13
 
-> Harness the chariot to the team of horses,  
-> You inhabitant of Lachish—  
-> She was the beginning of sin  
+> Prepare the chariot, you resident of Lachish—  
+> She was the start of sin  
 > To the daughter of Zion—  
 > Because in you were found  
-> The rebellious acts of Israel.
+> The rebellious deeds of Israel.
 
 ## Micah 1:14
 
-> Therefore you will give parting gifts  
-> On behalf of Moresheth-gath;  
-> The houses of Achzib will become a deception  
+> Therefore you will send farewell gifts  
+> For Moresheth-gath;  
+> The houses of Achzib will prove deceptive  
 > To the kings of Israel.
 
 ## Micah 1:15
 
-> Moreover, I will bring on you  
-> The one who takes possession,  
+> Furthermore, I will bring upon you  
+> The one who will take possession,  
 > You inhabitant of Mareshah.  
-> The glory of Israel will enter Adullam.
+> The glory of Israel will arrive at Adullam.
 
 ## Micah 1:16
 

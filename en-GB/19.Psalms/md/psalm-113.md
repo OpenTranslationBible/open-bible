@@ -11,45 +11,45 @@
 
 ## Psalm 113:2
 
-> Blessed be the name of the Lord  
-> From this time on and forever.
+> May the name of the Lord be honoured  
+> From this moment and for all time.
 
 ## Psalm 113:3
 
-> From the rising of the sun to its setting,  
-> The name of the Lord is to be praised.
+> From sunrise to sunset,  
+> The name of the Lord is worthy of praise.
 
 ---
 
 ## Psalm 113:4
 
-> The Lord is high above all nations;  
-> His glory is above the heavens.
+> The Lord is exalted above all nations;  
+> His splendour is beyond the heavens.
 
 ## Psalm 113:5
 
-> Who is like the Lord our God,  
-> Who is enthroned on high,
+> Who can compare to the Lord our God,  
+> Who is seated on high,
 
 ## Psalm 113:6
 
-> Who humbles Himself to behold  
-> The things that are in heaven and on the earth?
+> Who humbles Himself to observe  
+> The things in heaven and on earth?
 
 ---
 
 ## Psalm 113:7
 
-> He raises the poor from the dust,  
-> He lifts the needy from the garbage heap,
+> He lifts the poor from the dust,  
+> He raises the needy from the ash heap,
 
 ## Psalm 113:8
 
-> To seat them with noblemen,  
-> With the noblemen of His people.
+> To place them with princes,  
+> With the leaders of His people.
 
 ## Psalm 113:9
 
-> He has the infertile woman live in the house  
+> He grants the childless woman a home  
 > As a joyful mother of children.  
 > Praise the Lord!

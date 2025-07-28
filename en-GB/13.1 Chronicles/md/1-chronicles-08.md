@@ -2,7 +2,7 @@
 
 ## 1 Chronicles 8:1
 
-And Benjamin fathered:
+Benjamin was the progenitor of:
 
 > Bela his firstborn, Ashbel the second, Aharah the third,
 
@@ -14,7 +14,7 @@ And Benjamin fathered:
 
 ## 1 Chronicles 8:3
 
-Bela had sons:
+Bela's sons included:
 
 > Addar, Gera, Abihud,
 
@@ -30,43 +30,43 @@ Bela had sons:
 
 ## 1 Chronicles 8:6
 
-These are the sons of Ehud.  
-These are the heads of fathers’ households of the inhabitants of Geba,
+These are the descendants of Ehud.  
+They were the leaders of the families living in Geba,
 
-> and they carried them into exile to Manahath:
+> and they were taken into exile to Manahath:
 
 ---
 
 ## 1 Chronicles 8:7
 
-> namely, Naaman, Ahijah, and Gera—he carried them into exile.  
-> And he fathered Uzza and Ahihud.
+> namely, Naaman, Ahijah, and Gera—he led them into exile.  
+> And he was the father of Uzza and Ahihud.
 
 ---
 
 ## 1 Chronicles 8:8
 
-Shaharaim fathered children in the land of Moab  
+Shaharaim had children in the land of Moab  
 after he had sent away Hushim and Baara his wives.
 
 ---
 
 ## 1 Chronicles 8:9
 
-By Hodesh his wife he fathered:
+Through Hodesh his wife, he had:
 
 > Jobab, Zibia, Mesha, Malcam,
 
 ## 1 Chronicles 8:10
 
 > Jeuz, Sachia, and Mirmah.  
-> These were his sons, heads of fathers’ households.
+> These were his sons, leaders of their families.
 
 ---
 
 ## 1 Chronicles 8:11
 
-By Hushim he fathered:
+With Hushim, he fathered:
 
 > Abitub and Elpaal.
 
@@ -82,8 +82,8 @@ The sons of Elpaal were:
 
 ## 1 Chronicles 8:13
 
-> and Beriah and Shema, who were heads of fathers’ households  
-> of the inhabitants of Aijalon, who put to flight the inhabitants of Gath.
+> and Beriah and Shema, who were leaders of the families  
+> of the inhabitants of Aijalon, who drove away the inhabitants of Gath.
 
 ---
 
@@ -155,23 +155,23 @@ Jaareshiah, and Elijah, and Zichri were the sons of Jeroham.
 
 ## 1 Chronicles 8:28
 
-These were heads of fathers’ households according to their generations,
+These were leaders of families according to their generations,
 
-> chief men who lived in Jerusalem.
+> prominent men who lived in Jerusalem.
 
 ---
 
 ## 1 Chronicles 8:29
 
-Now in Gibeon, Jeiel the father of Gibeon lived,
+Now in Gibeon, Jeiel, the patriarch of Gibeon, lived,
 
-> and the name of his wife was Maacah.
+> and his wife's name was Maacah.
 
 ---
 
 ## 1 Chronicles 8:30
 
-His firstborn son was Abdon, who was followed by Zur, Kish, Baal, Nadab,
+His firstborn son was Abdon, followed by Zur, Kish, Baal, Nadab,
 
 ## 1 Chronicles 8:31
 
@@ -181,32 +181,32 @@ Gedor, and Ahio, and Zecher.
 
 ## 1 Chronicles 8:32
 
-Mikloth fathered Shimeah.
+Mikloth was the father of Shimeah.
 
-> They also lived with their relatives in Jerusalem opposite their other relatives.
+> They also resided with their relatives in Jerusalem opposite their other relatives.
 
 ---
 
 ## 1 Chronicles 8:33
 
-Ner fathered Kish,
+Ner was the ancestor of Kish,
 
-> Kish fathered Saul,  
-> Saul fathered Jonathan, Malchi-shua, Abinadab, and Eshbaal.
+> Kish was the progenitor of Saul,  
+> Saul was the father of Jonathan, Malchi-shua, Abinadab, and Eshbaal.
 
 ---
 
 ## 1 Chronicles 8:34
 
-The son of Jonathan was Merib-baal,
+Jonathan's son was Merib-baal,
 
-> and Merib-baal fathered Micah.
+> and Merib-baal was the progenitor of Micah.
 
 ---
 
 ## 1 Chronicles 8:35
 
-The sons of Micah were:
+The descendants of Micah were:
 
 > Pithon, Melech, Tarea, and Ahaz.
 
@@ -214,16 +214,16 @@ The sons of Micah were:
 
 ## 1 Chronicles 8:36
 
-Ahaz fathered Jehoaddah,
+Ahaz was the father of Jehoaddah,
 
-> and Jehoaddah fathered Alemeth, Azmaveth, and Zimri;  
-> and Zimri fathered Moza.
+> and Jehoaddah was the father of Alemeth, Azmaveth, and Zimri;  
+> and Zimri was the father of Moza.
 
 ---
 
 ## 1 Chronicles 8:37
 
-Moza fathered Binea;  
+Moza was the progenitor of Binea;  
 Raphah was his son,
 
 > Eleasah his son,  
@@ -236,13 +236,13 @@ Raphah was his son,
 Azel had six sons, and these are their names:
 
 > Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.  
-> All these were the sons of Azel.
+> All these were the descendants of Azel.
 
 ---
 
 ## 1 Chronicles 8:39
 
-The sons of Eshek his brother were:
+Eshek's sons included:
 
 > Ulam his firstborn, Jeush the second, and Eliphelet the third.
 
@@ -250,7 +250,7 @@ The sons of Eshek his brother were:
 
 ## 1 Chronicles 8:40
 
-The sons of Ulam were valiant warriors who drew the bow,
+The sons of Ulam were valiant warriors skilled in archery,
 
-> and they had many sons and grandsons, 150 of them.  
-> All these were among the sons of Benjamin.
+> and they had many sons and grandsons, 150 in total.  
+> All these were among the descendants of Benjamin.

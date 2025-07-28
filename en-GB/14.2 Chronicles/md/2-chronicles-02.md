@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 2:1
 
-Now Solomon decided to build a house for the name of the Lord,
+Solomon planned to construct a house for the name of the Lord,  
 
 > and a royal palace for himself.
 
@@ -40,17 +40,17 @@ Then Solomon sent word to Huram the king of Tyre, saying,
 
 ## 2 Chronicles 2:5
 
-> The house which I am about to build will be great,  
-> for our God is greater than all the gods.
+> The house I intend to build will be magnificent,  
+> for our God is greater than all other gods.
 
 ---
 
 ## 2 Chronicles 2:6
 
-> But who is able to build a house for Him,  
-> for the heavens and the highest heavens cannot contain Him?  
-> So who am I, that I should build a house for Him,  
-> except to burn incense before Him?
+> Yet, who is capable of building a house for Him,  
+> since the heavens and the highest heavens cannot contain Him?  
+> So who am I, that I should construct a house for Him,  
+> except as a place to offer incense before Him?
 
 ---
 
@@ -74,13 +74,13 @@ Then Solomon sent word to Huram the king of Tyre, saying,
 ## 2 Chronicles 2:9
 
 > to prepare timber in abundance for me,  
-> for the house which I am about to build will be great and wonderful.
+> for the house I plan to build will be grand and marvellous.
 
 ---
 
 ## 2 Chronicles 2:10
 
-> Now behold, I will give your servants, the woodsmen who cut the timber,
+> Behold, I will provide your servants, the woodsmen who cut the timber,
 
 > twenty thousand kors of crushed wheat,  
 > twenty thousand kors of barley,  
@@ -91,10 +91,10 @@ Then Solomon sent word to Huram the king of Tyre, saying,
 
 ## 2 Chronicles 2:11
 
-Then Huram, king of Tyre, answered in a letter sent to Solomon:
+Then Huram, king of Tyre, responded in a letter sent to Solomon:
 
-> “Because the Lord loves His people,  
-> He has made you king over them.”
+> “Because the Lord cherishes His people,  
+> He has appointed you as their king.”
 
 ---
 
@@ -112,7 +112,7 @@ Huram also said,
 
 ## 2 Chronicles 2:13
 
-> Now I am sending Huram-abi, a skilled man,  
+> I am now sending Huram-abi, a skilled man,  
 > endowed with understanding,
 
 ---

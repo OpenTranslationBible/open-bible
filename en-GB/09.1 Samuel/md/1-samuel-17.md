@@ -187,7 +187,7 @@ When the Philistine looked and saw David, he disdained him, for he was only a yo
 ## 1 Samuel 17:43
 
 The Philistine said to David, “Am I a dog, that you come to me with sticks?”  
-And the Philistine cursed David by his gods.
+And he cursed David by his gods.
 
 ## 1 Samuel 17:44
 

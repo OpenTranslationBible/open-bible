@@ -70,9 +70,9 @@ And the twenty-four elders, seated on their thrones before God, fell on their fa
 
 ## Revelation 11:17
 
-saying,
+They proclaimed,
 
-> “We give thanks to You, Lord God Almighty,
+> “We express our gratitude to You, Lord God Almighty,
 > the One who is and who was,
 > because You have taken Your great power
 > and have begun to reign.

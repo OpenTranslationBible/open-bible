@@ -2,18 +2,18 @@
 
 ## 1 Chronicles 24:1
 
-Now the divisions of the sons of Aaron were these:
+Here are the divisions of Aaron's sons:
 
-> The sons of Aaron were Nadab, Abihu, Eleazar, and Ithamar.
+> Aaron's sons were Nadab, Abihu, Eleazar, and Ithamar.
 
 ---
 
 ## 1 Chronicles 24:2
 
-But Nadab and Abihu died before their father,  
-and they had no sons.
+However, Nadab and Abihu passed away before their father,  
+and they had no children.
 
-> So Eleazar and Ithamar served as priests.
+> Thus, Eleazar and Ithamar served as priests.
 
 ---
 
@@ -55,7 +55,7 @@ wrote them down in the presence of the king, the officers, Zadok the priest, Ahi
 
 ## 1 Chronicles 24:7
 
-The first lot fell to Jehoiarib,
+The first lot was assigned to Jehoiarib,
 
 > the second to Jedaiah,
 
@@ -63,78 +63,78 @@ The first lot fell to Jehoiarib,
 
 ## 1 Chronicles 24:8
 
-> the third to Harim,  
-> the fourth to Seorim,
+> the third was given to Harim,  
+> the fourth was given to Seorim,
 
 ---
 
 ## 1 Chronicles 24:9
 
-> the fifth to Malchijah,  
-> the sixth to Mijamin,
+> the fifth was given to Malchijah,  
+> the sixth was given to Mijamin,
 
 ---
 
 ## 1 Chronicles 24:10
 
-> the seventh to Hakkoz,  
-> the eighth to Abijah,
+> the seventh was given to Hakkoz,  
+> the eighth was given to Abijah,
 
 ---
 
 ## 1 Chronicles 24:11
 
-> the ninth to Jeshua,  
-> the tenth to Shecaniah,
+> the ninth was given to Jeshua,  
+> the tenth was given to Shecaniah,
 
 ---
 
 ## 1 Chronicles 24:12
 
-> the eleventh to Eliashib,  
-> the twelfth to Jakim,
+> the eleventh was given to Eliashib,  
+> the twelfth was given to Jakim,
 
 ---
 
 ## 1 Chronicles 24:13
 
-> the thirteenth to Huppah,  
-> the fourteenth to Jeshebeab,
+> the thirteenth was given to Huppah,  
+> the fourteenth was given to Jeshebeab,
 
 ---
 
 ## 1 Chronicles 24:14
 
-> the fifteenth to Bilgah,  
-> the sixteenth to Immer,
+> the fifteenth was given to Bilgah,  
+> the sixteenth was given to Immer,
 
 ---
 
 ## 1 Chronicles 24:15
 
-> the seventeenth to Hezir,  
-> the eighteenth to Happizzez,
+> the seventeenth was given to Hezir,  
+> the eighteenth was given to Happizzez,
 
 ---
 
 ## 1 Chronicles 24:16
 
-> the nineteenth to Pethahiah,  
-> the twentieth to Jehezkel,
+> the nineteenth was given to Pethahiah,  
+> the twentieth was given to Jehezkel,
 
 ---
 
 ## 1 Chronicles 24:17
 
-> the twenty-first to Jachin,  
-> the twenty-second to Gamul,
+> the twenty-first was given to Jachin,  
+> the twenty-second was given to Gamul,
 
 ---
 
 ## 1 Chronicles 24:18
 
-> the twenty-third to Delaiah,  
-> the twenty-fourth to Maaziah.
+> the twenty-third was given to Delaiah,  
+> the twenty-fourth was given to Maaziah.
 
 ---
 
@@ -164,8 +164,8 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:22
 
-> Of the Izharites: Shelomoth;  
-> of the sons of Shelomoth: Jahath.
+> From the Izharites: Shelomoth;  
+> of Shelomoth's sons: Jahath.
 
 ---
 
@@ -177,15 +177,15 @@ Now of the rest of the sons of Levi:
 
 ## 1 Chronicles 24:24
 
-> Of the sons of Uzziel: Micah;  
-> of the sons of Micah: Shamir.
+> Of Uzziel's sons: Micah;  
+> of Micah's sons: Shamir.
 
 ---
 
 ## 1 Chronicles 24:25
 
 > The brother of Micah: Isshiah;  
-> of the sons of Isshiah: Zechariah.
+> of Isshiah's sons: Zechariah.
 
 ---
 

@@ -2,8 +2,8 @@
 
 ## 2 John 1:1
 
-The elder,  
-To the chosen lady and her children, whom I love in truth; and not only I, but also all who know the truth,
+From the elder,  
+To the chosen lady and her children, whom I truly love; and not only I, but also all who have come to know the truth,
 
 ## 2 John 1:2
 

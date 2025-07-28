@@ -86,5 +86,5 @@ Do your best to come before winter. Eubulus greets you, as do Pudens, Linus, Cla
 
 ## 2 Timothy 4:22
 
-The Lord be with your spirit.  
-Grace be with you.
+May the Lord be with your spirit.  
+May grace be with you.

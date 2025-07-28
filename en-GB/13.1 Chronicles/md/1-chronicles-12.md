@@ -11,16 +11,16 @@ while he was still restricted because of Saul the son of Kish;
 
 ## 1 Chronicles 12:2
 
-They were equipped with bows,
+They were skilled with bows,
 
-> using both the right hand and the left to sling stones and to shoot arrows from the bow;  
-> they were Saul’s kinsmen from Benjamin.
+> adept with both the right hand and the left to sling stones and to shoot arrows;  
+> they were Saul’s relatives from Benjamin.
 
 ---
 
 ## 1 Chronicles 12:3
 
-The chief was Ahiezer, then Joash,
+The leader was Ahiezer, followed by Joash,
 
 > the sons of Shemaah the Gibeathite;  
 > and Jeziel and Pelet, the sons of Azmaveth,  
@@ -30,8 +30,8 @@ The chief was Ahiezer, then Joash,
 
 ## 1 Chronicles 12:4
 
-> and Ishmaiah the Gibeonite, a mighty man among the thirty and over the thirty,  
-> then Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,
+> and Ishmaiah the Gibeonite, a valiant leader among the thirty, and over them.  
+> Then came Jeremiah, Jahaziel, Johanan, Jozabad the Gederathite,
 
 ---
 
@@ -96,9 +96,9 @@ mighty men of valour, men trained for war,
 
 ## 1 Chronicles 12:14
 
-These of the sons of Gad were captains of the army;
+These sons of Gad were leaders in the army;
 
-> he who was least was equal to a hundred, and the greatest to a thousand.
+> the least among them was as strong as a hundred, and the greatest as a thousand.
 
 ---
 
@@ -106,7 +106,7 @@ These of the sons of Gad were captains of the army;
 
 These are the ones who crossed the Jordan in the first month when it was overflowing all its banks,
 
-> and they put to flight all those in the valleys, to the east and to the west.
+> and they drove away all those in the valleys, to the east and to the west.
 
 ---
 
@@ -168,17 +168,17 @@ They helped David against the band of raiders,
 
 ## 1 Chronicles 12:22
 
-For day by day men came to David to help him,  
-until there was a great army, like the army of God.
+For day by day men came to David to support him,  
+until there was a great army, comparable to the army of God.
 
 ---
 
 ## 1 Chronicles 12:23
 
-Now these are the numbers of the divisions equipped for war,  
-who came to David at Hebron to turn the kingdom of Saul to him,
+Now these are the numbers of the divisions prepared for war,  
+who came to David at Hebron to transfer the kingdom of Saul to him,
 
-> according to the word of the Lord.
+> as the word of the Lord had declared.
 
 ---
 
@@ -202,13 +202,13 @@ From the sons of Simeon, mighty men of valour for war:
 
 From the sons of Levi:
 
-> 4,600.
+> numbering 4,600.
 
 ---
 
 ## 1 Chronicles 12:27
 
-Jehoiada was the leader of the house of Aaron,
+Jehoiada was the leader of Aaron's house,
 
 > and with him were 3,700.
 

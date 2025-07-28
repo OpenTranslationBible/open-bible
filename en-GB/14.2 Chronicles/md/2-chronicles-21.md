@@ -68,9 +68,9 @@ Moreover, he made high places in the mountains of Judah, and caused the inhabita
 
 ## 2 Chronicles 21:12
 
-Then a letter came to him from Elijah the prophet, saying,  
-“This is what the Lord, the God of your father David says:  
-‘Because you have not walked in the ways of your father Jehoshaphat and the ways of Asa king of Judah,
+Afterwards, a message came to him from Elijah the prophet, declaring,  
+“This is what the Lord, the God of your ancestor David, proclaims:  
+‘Because you have not followed the ways of your father Jehoshaphat and the ways of Asa king of Judah,
 
 ---
 

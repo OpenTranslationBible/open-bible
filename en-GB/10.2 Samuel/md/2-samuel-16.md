@@ -77,8 +77,8 @@ Leave him alone and let him curse, for the Lord has told him.
 
 ## 2 Samuel 16:12
 
-Perhaps the Lord will look on my affliction  
-and return good to me instead of his cursing this day.”
+Perhaps the Lord will notice my distress  
+and repay me with good instead of his cursing today.”
 
 ## 2 Samuel 16:13
 
@@ -106,7 +106,7 @@ Then Hushai the Archite, David’s friend, came to Absalom and said to him,
 ## 2 Samuel 16:17
 
 But Absalom said to Hushai,  
-“Is this your loyalty to your friend? Why did you not go with your friend?”
+“Is this how you show loyalty to your friend? Why did you not go with your friend?”
 
 ## 2 Samuel 16:18
 
@@ -125,7 +125,7 @@ As I have served your father, so I will serve you.”
 ## 2 Samuel 16:20
 
 Then Absalom said to Ahithophel,  
-“Give your advice. What shall we do?”
+“Advise us. What should we do?”
 
 ## 2 Samuel 16:21
 
@@ -136,7 +136,7 @@ Then the hands of all who are with you will be strengthened.”
 
 ## 2 Samuel 16:22
 
-So they pitched a tent for Absalom on the roof,  
+So they set up a tent for Absalom on the roof,  
 and Absalom went in to his father’s concubines in the sight of all Israel.
 
 ## 2 Samuel 16:23

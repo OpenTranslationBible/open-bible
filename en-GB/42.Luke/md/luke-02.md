@@ -125,8 +125,8 @@ Simeon embraced him and praised God, saying,
 
 ## Luke 2:29
 
-> “Lord, now you are letting your servant depart in peace,
-> according to your word;
+> “Lord, now you allow your servant to depart in peace,
+> in accordance with your promise;
 
 ## Luke 2:30
 
@@ -138,7 +138,7 @@ Simeon embraced him and praised God, saying,
 
 ## Luke 2:32
 
-> a light for revelation to the Gentiles,
+> a light to reveal your truth to the nations,
 > and the glory of your people Israel.”
 
 ---

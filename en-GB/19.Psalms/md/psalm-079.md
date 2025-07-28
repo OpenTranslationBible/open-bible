@@ -15,8 +15,8 @@
 
 ## Psalm 79:3
 
-> They have poured out their blood like water all around Jerusalem,  
-> And there was no one to bury them.
+> They have shed their blood like water all around Jerusalem,  
+> And there was no one to lay them to rest.
 
 ## Psalm 79:4
 
@@ -27,8 +27,8 @@
 
 ## Psalm 79:5
 
-> How long, Lord? Will You be angry forever?  
-> Will Your jealousy burn like fire?
+> How long, Lord? Will Your anger endure without end?  
+> Will Your zealousness burn like fire?
 
 ## Psalm 79:6
 
@@ -37,21 +37,21 @@
 
 ## Psalm 79:7
 
-> For they have devoured Jacob  
-> And laid waste his dwelling place.
+> For they have consumed Jacob  
+> And brought ruin to his dwelling place.
 
 ---
 
 ## Psalm 79:8
 
-> Do not hold us responsible for the guilty deeds of our forefathers;  
-> Let Your compassion come quickly to meet us,  
-> For we have become very low.
+> Do not hold us accountable for the wrongs of our ancestors;  
+> Let Your compassion swiftly meet us,  
+> For we have been brought very low.
 
 ## Psalm 79:9
 
-> Help us, God of our salvation, for the glory of Your name;  
-> And save us and forgive our sins for the sake of Your name.
+> Assist us, God of our salvation, for the honour of Your name;  
+> And deliver us and pardon our sins for the sake of Your name.
 
 ## Psalm 79:10
 
@@ -59,23 +59,23 @@
 
 ---
 
-> Let vengeance for the blood of Your servants which has been shed  
-> Be known among the nations in our sight.
+> Let the retribution for the blood of Your servants that has been shed  
+> Be made known among the nations before our eyes.
 
 ## Psalm 79:11
 
-> Let the groaning of the prisoner come before You;  
-> According to the greatness of Your power, let those who are doomed to die remain.
+> Let the lament of the prisoner come before You;  
+> According to the greatness of Your power, let those destined to die be spared.
 
 ## Psalm 79:12
 
-> And return to our neighbours seven times as much into their lap  
+> And return to our neighbours sevenfold into their lap  
 > Their taunts with which they have taunted You, Lord.
 
 ---
 
 ## Psalm 79:13
 
-> So we Your people and the sheep of Your pasture  
+> So we, Your people and the sheep of Your pasture,  
 > Will give thanks to You forever;  
-> To all generations we will tell of Your praise.
+> To all generations, we will proclaim Your praise.

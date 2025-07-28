@@ -186,8 +186,8 @@ He said to them, “Then how is it that David, inspired by the Spirit, calls him
 
 > ‘The Lord said to my Lord:
 > “Sit at my right hand
-> until I put your enemies
-> under your feet.”’
+> until I make your enemies
+> a footstool for your feet.”’
 
 ## Matthew 22:45
 

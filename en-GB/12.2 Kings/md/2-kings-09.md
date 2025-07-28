@@ -41,18 +41,18 @@ and the blood of all the servants of the Lord, at the hand of Jezebel.
 
 ## 2 Kings 9:8
 
-For the entire house of Ahab shall perish,  
-and I will eliminate from Ahab every male person, both slave and free in Israel.
+For the entire house of Ahab shall come to an end,  
+and I will cut off from Ahab every male, both bond and free in Israel.
 
 ## 2 Kings 9:9
 
-I will make the house of Ahab like the house of Jeroboam the son of Nebat,  
-and like the house of Baasha the son of Ahijah.
+I will bring the house of Ahab to ruin, as I did with the house of Jeroboam son of Nebat,  
+and the house of Baasha son of Ahijah.
 
 ## 2 Kings 9:10
 
-The dogs will eat Jezebel in the territory of Jezreel,  
-and no one will bury her.’”  
+The dogs will devour Jezebel in the territory of Jezreel,  
+and she will not be buried.’”  
 Then he opened the door and fled.
 
 ---
@@ -71,8 +71,8 @@ And he said, “This is what he said to me:
 
 ## 2 Kings 9:13
 
-Then they hurried, and each man took his garment and put it under him on the bare steps,  
-and blew the trumpet, saying, “Jehu is king!”
+Then they hurried, and each man took his garment and placed it under him on the bare steps,  
+and blew the trumpet, proclaiming, “Jehu is king!”
 
 ---
 
@@ -104,20 +104,20 @@ And Joram said, “Take a horseman and send him to meet them, and have him say, 
 
 ## 2 Kings 9:18
 
-So a horseman went to meet him and said, “Thus says the king, ‘Is it peace?’”  
-And Jehu said, “What have you to do with peace? Turn behind me.”  
-And the watchman reported, “The messenger came to them, but he did not return.”
+So a horseman went to meet him and said, “The king asks, ‘Is it peace?’”  
+And Jehu said, “What concern is peace to you? Fall in behind me.”  
+And the watchman reported, “The messenger reached them, but he did not return.”
 
 ## 2 Kings 9:19
 
 Then he sent out a second horseman, who came to them and said,  
-“Thus says the king, ‘Is it peace?’”  
-And Jehu answered, “What have you to do with peace? Turn behind me.”
+“The king asks, ‘Is it peace?’”  
+And Jehu answered, “What concern is peace to you? Fall in behind me.”
 
 ## 2 Kings 9:20
 
-And the watchman reported, “He came up to them, but he did not return.  
-And the driving is like the driving of Jehu the son of Nimshi, for he drives furiously.”
+And the watchman reported, “He reached them, but he did not return.  
+And the driving is like that of Jehu the son of Nimshi, for he drives with great intensity.”
 
 ---
 
@@ -130,8 +130,8 @@ and they went out to meet Jehu and found him in the property of Naboth the Jezre
 ## 2 Kings 9:22
 
 When Joram saw Jehu, he said, “Is it peace, Jehu?”  
-And he answered, “What peace,  
-so long as the harlotries of your mother Jezebel and her witchcrafts are so many?”
+And he answered, “How can there be peace,  
+as long as the harlotries of your mother Jezebel and her sorceries are so many?”
 
 ## 2 Kings 9:23
 
@@ -166,8 +166,8 @@ But he fled to Megiddo and died there.
 
 ## 2 Kings 9:28
 
-Then his servants carried him in a chariot to Jerusalem  
-and buried him in his grave with his fathers in the city of David.
+Then his servants transported him in a chariot to Jerusalem  
+and laid him to rest with his ancestors in the city of David.
 
 ## 2 Kings 9:29
 
@@ -200,7 +200,7 @@ and he trampled her underfoot.
 ## 2 Kings 9:34
 
 Then he went in and ate and drank, and he said,  
-“See now to this cursed woman and bury her, for she is a king’s daughter.”
+“Attend to this cursed woman and bury her, for she is a king’s daughter.”
 
 ## 2 Kings 9:35
 

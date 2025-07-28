@@ -148,7 +148,7 @@ When Jesus saw her weeping, and the Jews who had come along with her also weepin
 
 ## John 11:35
 
-Jesus wept.
+Jesus shed tears.
 
 ## John 11:36
 

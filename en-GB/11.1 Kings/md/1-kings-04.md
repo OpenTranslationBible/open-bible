@@ -7,27 +7,27 @@ King Solomon governed all of Israel.
 ## 1 Kings 4:2
 
 These were his officials:  
-Azariah the son of Zadok was the priest;
+Azariah, the son of Zadok, served as the priest;
 
 ## 1 Kings 4:3
 
-Elihoreph and Ahijah, the sons of Shisha, were scribes;  
-Jehoshaphat the son of Ahilud was the recorder;
+Elihoreph and Ahijah, the sons of Shisha, acted as scribes;  
+Jehoshaphat, the son of Ahilud, functioned as the recorder;
 
 ## 1 Kings 4:4
 
-Benaiah the son of Jehoiada was over the army;  
+Benaiah, the son of Jehoiada, commanded the army;  
 Zadok and Abiathar were priests;
 
 ## 1 Kings 4:5
 
-Azariah the son of Nathan was over the deputies;  
-Zabud the son of Nathan, a priest, was the king’s friend;
+Azariah, the son of Nathan, was over the deputies;  
+Zabud, the son of Nathan, a priest, was the king’s friend;
 
 ## 1 Kings 4:6
 
-Ahishar was over the household;  
-and Adoniram the son of Abda was over the forced labour.
+Ahishar managed the household;  
+and Adoniram, the son of Abda, was over the forced labour.
 
 ---
 
@@ -39,8 +39,7 @@ each man had to provide for a month in the year.
 
 ## 1 Kings 4:8
 
-These are their names:  
-Ben-hur, in the hill country of Ephraim;
+Their names included: Ben-hur, in the hill country of Ephraim;
 
 ## 1 Kings 4:9
 
@@ -56,9 +55,9 @@ Ben-abinadab, in the entire region of Dor (Taphath, the daughter of Solomon, was
 
 ## 1 Kings 4:12
 
-Baana the son of Ahilud, in Taanach and Megiddo, and all Beth-shean,  
+Baana, the son of Ahilud, in Taanach and Megiddo, and all Beth-shean,  
 which is beside Zarethan below Jezreel, from Beth-shean to Abel-meholah,  
-as far as the other side of Jokmeam;
+extending to the other side of Jokmeam;
 
 ## 1 Kings 4:13
 
@@ -87,7 +86,7 @@ Shimei, was the son of Ela, in Benjamin;
 
 ## 1 Kings 4:19
 
-Geber the son of Uri, in the land of Gilead,  
+Geber, the son of Uri, in the land of Gilead,  
 the country of Sihon king of the Amorites and of Og king of Bashan;  
 and there was one deputy who was over the land.
 
@@ -108,13 +107,13 @@ they brought tribute and served Solomon all the days of his life.
 
 ## 1 Kings 4:22
 
-Solomon’s provision for one day was thirty kors of fine flour,  
+Solomon’s daily provision included thirty kors of fine flour,  
 and sixty kors of meal,
 
 ## 1 Kings 4:23
 
 ten fat oxen, twenty pasture-fed oxen,  
-a hundred sheep besides deer, gazelles, roebucks, and fattened fowl.
+a hundred sheep, along with deer, gazelles, roebucks, and fattened fowl.
 
 ## 1 Kings 4:24
 
@@ -124,14 +123,14 @@ and he had peace on all sides around him.
 
 ## 1 Kings 4:25
 
-So Judah and Israel lived in safety, every man under his vine and his fig tree,  
-from Dan even to Beersheba, all the days of Solomon.
+So Judah and Israel lived in safety, each man under his vine and fig tree,  
+from Dan even to Beersheba, throughout the days of Solomon.
 
 ---
 
 ## 1 Kings 4:26
 
-Solomon had forty thousand stalls of horses for his chariots,  
+Solomon possessed forty thousand stalls of horses for his chariots,  
 and twelve thousand horsemen.
 
 ## 1 Kings 4:27
@@ -153,7 +152,7 @@ and breadth of understanding, like the sand that is on the seashore.
 
 ## 1 Kings 4:30
 
-Solomon’s wisdom surpassed the wisdom of all the people of the east,  
+Solomon’s wisdom exceeded the wisdom of all the people of the east,  
 and all the wisdom of Egypt.
 
 ## 1 Kings 4:31

@@ -2,9 +2,9 @@
 
 ## Hosea 13:1
 
-> When Ephraim spoke, there was trembling.  
-> He exalted himself in Israel,  
-> But he became guilty through Baal, and died.
+> When Ephraim spoke, there was fear.  
+> He raised himself up in Israel,  
+> But he became guilty through Baal, and perished.
 
 ## Hosea 13:2
 
@@ -16,8 +16,8 @@
 
 ## Hosea 13:3
 
-> Therefore they will be like the morning cloud  
-> And like dew which soon disappears,  
+> Therefore they will be like the morning mist  
+> And like dew which soon vanishes,  
 > Like chaff which is blown away from the threshing floor,  
 > And like smoke from a chimney.
 
@@ -30,19 +30,19 @@
 
 ## Hosea 13:5
 
-> I cared for you in the wilderness,  
+> I tended to you in the wilderness,  
 > In the land of drought.
 
 ## Hosea 13:6
 
-> As they had their pasture, they became satisfied,  
-> And being satisfied, their heart became proud;  
+> As they had their pasture, they became content,  
+> And being content, their heart grew proud;  
 > Therefore they forgot Me.
 
 ## Hosea 13:7
 
 > So I will be like a lion to them;  
-> Like a leopard I will lie in wait by the wayside.
+> Like a leopard I will watch by the wayside.
 
 ## Hosea 13:8
 
@@ -65,23 +65,22 @@
 
 ## Hosea 13:11
 
-> I gave you a king in My anger,  
-> And took him away in My wrath.
+> I granted you a king in My anger,  
+> And removed him in My wrath.
 
 ## Hosea 13:12
 
-> The guilt of Ephraim is wrapped up;  
+> The wrongdoing of Ephraim is wrapped up;  
 > His sin is stored up.
 
 ## Hosea 13:13
 
-> The pains of childbirth come upon him;  
-> He is not a wise son,  
-> For it is not the time that he should delay at the opening of the womb.
+> He is like a son who lacks wisdom,  
+> For he delays when it is time to be born.
 
 ## Hosea 13:14
 
-> Shall I ransom them from the power of Sheol?  
+> Shall I rescue them from the power of Sheol?  
 > Shall I redeem them from death?  
 > Death, where are your thorns?  
 > Sheol, where is your sting?  
@@ -89,7 +88,7 @@
 
 ## Hosea 13:15
 
-> Though he flourishes among the reeds,  
+> Though he thrives among the reeds,  
 > An east wind will come,  
 > The wind of the Lord coming up from the wilderness;  
 > And his fountain will become dry,  

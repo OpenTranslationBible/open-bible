@@ -197,7 +197,7 @@ And as soon as he left, a lion found him and killed him.
 
 ## 1 Kings 20:37
 
-Then he found another man and said, “Strike me, please.”  
+He then approached another man and requested, “Strike me, please.”  
 The man struck him and wounded him.
 
 ## 1 Kings 20:38

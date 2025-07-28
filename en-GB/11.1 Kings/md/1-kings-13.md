@@ -16,10 +16,10 @@ and human bones shall be burned on you.’”
 
 ## 1 Kings 13:3
 
-Then he gave a sign on the same day, saying,  
-“This is the sign which the Lord has spoken:  
-Behold, the altar shall be torn to pieces,  
-and the ashes which are on it shall be poured out.”
+Then he provided a sign that day, saying,  
+“This is the sign the Lord has declared:  
+Behold, the altar shall be broken apart,  
+and the ashes upon it shall be spilled out.”
 
 ## 1 Kings 13:4
 
@@ -46,25 +46,25 @@ and the king’s hand was restored to him, and it became as it was before.
 
 ## 1 Kings 13:7
 
-Then the king said to the man of God,  
+Then the king invited the man of God, saying,  
 “Come home with me and refresh yourself, and I will give you a gift.”
 
 ## 1 Kings 13:8
 
-But the man of God said to the king,  
-“If you were to give me half your house,  
+But the man of God replied to the king,  
+“Even if you were to offer me half your possessions,  
 I would not go with you,  
 nor would I eat bread or drink water in this place.
 
 ## 1 Kings 13:9
 
-For so it was commanded me by the word of the Lord, saying,  
+For I was instructed by the word of the Lord, saying,  
 ‘You shall not eat bread, nor drink water,  
 nor return by the way that you came.’”
 
 ## 1 Kings 13:10
 
-So he went another way  
+So he took a different path  
 and did not return by the way that he had come to Bethel.
 
 ---
@@ -90,26 +90,26 @@ So they saddled the donkey for him, and he mounted it.
 
 ## 1 Kings 13:14
 
-And he went after the man of God,  
+And he pursued the man of God,  
 and found him sitting under an oak.  
 And he said to him,  
 “Are you the man of God who came from Judah?”  
-And he said, “I am.”
+And he replied, “I am.”
 
 ## 1 Kings 13:15
 
-Then he said to him,  
+Then he invited him,  
 “Come home with me and eat bread.”
 
 ## 1 Kings 13:16
 
 But he said,  
-“I cannot return with you nor go with you,  
+“I am unable to return with you or accompany you,  
 nor will I eat bread or drink water with you in this place.
 
 ## 1 Kings 13:17
 
-For a command came to me by the word of the Lord:  
+For I received a command by the word of the Lord:  
 ‘You shall not eat bread nor drink water there;  
 do not return by going the way that you came.’”
 
@@ -124,8 +124,7 @@ But he lied to him.
 
 ## 1 Kings 13:19
 
-So he went back with him,  
-and ate bread in his house and drank water.
+Thus, he returned with him, and they shared a meal and drank water in his house.
 
 ---
 
@@ -136,10 +135,10 @@ that the word of the Lord came to the prophet who had brought him back;
 
 ## 1 Kings 13:21
 
-and he cried out to the man of God who came from Judah, saying,  
+and he proclaimed to the man of God who came from Judah, saying,  
 “This is what the Lord says:  
-‘Because you have disobeyed the command of the Lord,  
-and have not kept the commandment which the Lord your God commanded you,
+‘Because you have disobeyed the Lord's command,  
+and have not kept the commandment which the Lord your God instructed you,
 
 ## 1 Kings 13:22
 
@@ -177,7 +176,7 @@ and it has torn him and killed him, according to the word of the Lord which He s
 
 ## 1 Kings 13:27
 
-Then he spoke to his sons, saying,  
+Then he instructed his sons, saying,  
 “Saddle the donkey for me.”  
 So they saddled it.
 

@@ -9,246 +9,246 @@
 
 ## Psalm 37:2
 
-> For they will wither quickly like the grass,  
-> And decay like the green plants.
+> For they will soon fade like the grass,  
+> And wither like green plants.
 
 ---
 
 ## Psalm 37:3
 
-> Trust in the Lord and do good;  
-> Live in the land and cultivate faithfulness.
+> Place your trust in the Lord and do good;  
+> Dwell in the land and nurture faithfulness.
 
 ## Psalm 37:4
 
-> Delight yourself in the Lord;  
-> And He will give you the desires of your heart.
+> Find your joy in the Lord;  
+> And He will fulfil the desires of your heart.
 
 ---
 
 ## Psalm 37:5
 
-> Commit your way to the Lord,  
-> Trust also in Him, and He will do it.
+> Entrust your path to the Lord,  
+> Rely on Him, and He will act.
 
 ## Psalm 37:6
 
-> He will bring out your righteousness as the light,  
-> And your judgment as the noonday.
+> He will make your righteousness shine like the dawn,  
+> And your justice like the noonday sun.
 
 ---
 
 ## Psalm 37:7
 
-> Rest in the Lord and wait patiently for Him;  
-> Do not get upset because of one who is successful in his way,  
-> Because of the person who carries out wicked schemes.
+> Be still before the Lord and wait patiently for Him;  
+> Do not be troubled by those who succeed in their ways,  
+> By those who carry out wicked schemes.
 
 ---
 
 ## Psalm 37:8
 
-> Cease from anger and abandon wrath;  
-> Do not get upset, it leads only to evildoing.
+> Refrain from anger and forsake wrath;  
+> Do not be upset, it leads only to harm.
 
 ## Psalm 37:9
 
-> For evildoers will be eliminated,  
-> But those who wait for the Lord, they will inherit the land.
+> For evildoers will be cut off,  
+> But those who hope in the Lord will inherit the land.
 
 ---
 
 ## Psalm 37:10
 
-> Yet a little while and the wicked person will be no more;  
-> And you will look carefully for his place and he will not be there.
+> In a little while, the wicked will be no more;  
+> Though you look for them, they will not be found.
 
 ## Psalm 37:11
 
-> But the humble will inherit the land,  
-> And will delight themselves in abundant prosperity.
+> But the meek will inherit the land,  
+> And will enjoy abundant peace.
 
 ---
 
 ## Psalm 37:12
 
-> The wicked plots against the righteous,  
-> And gnashes at him with his teeth.
+> The wicked devise schemes against the righteous,  
+> And gnash their teeth at them.
 
 ## Psalm 37:13
 
-> The Lord laughs at him,  
-> For He sees that his day is coming.
+> The Lord laughs at the wicked,  
+> For He knows their day is coming.
 
 ---
 
 ## Psalm 37:14
 
-> The wicked have drawn the sword and bent their bow  
-> To take down the afflicted and the needy,  
-> To kill those who are upright in conduct.
+> The wicked prepare their weapons  
+> To bring down the poor and needy,  
+> To harm those who walk uprightly.
 
 ## Psalm 37:15
 
-> Their sword will enter their own heart,  
+> Their swords will pierce their own hearts,  
 > And their bows will be broken.
 
 ---
 
 ## Psalm 37:16
 
-> Better is the little of the righteous  
-> Than the abundance of many wicked.
+> A little that the righteous have  
+> Is better than the wealth of many wicked.
 
 ## Psalm 37:17
 
-> For the arms of the wicked will be broken,  
-> But the Lord sustains the righteous.
+> For the strength of the wicked will be broken,  
+> But the Lord supports the righteous.
 
 ---
 
 ## Psalm 37:18
 
-> The Lord knows the days of the blameless,  
-> And their inheritance will be forever.
+> The Lord watches over the days of the blameless,  
+> And their inheritance will endure forever.
 
 ## Psalm 37:19
 
-> They will not be ashamed in the time of evil,  
-> And in the days of famine they will have plenty.
+> They will not be put to shame in times of trouble,  
+> And in days of famine they will have abundance.
 
 ---
 
 ## Psalm 37:20
 
 > But the wicked will perish;  
-> And the enemies of the Lord will be like the glory of the pastures,  
-> They vanish—like smoke they vanish away.
+> The enemies of the Lord will vanish like the splendour of the meadows,  
+> They will disappear like smoke.
 
 ---
 
 ## Psalm 37:21
 
-> The wicked borrows and does not pay back,  
-> But the righteous is gracious and gives.
+> The wicked borrow and do not repay,  
+> But the righteous are generous and give.
 
 ## Psalm 37:22
 
-> For those blessed by Him will inherit the land,  
-> But those cursed by Him will be eliminated.
+> Those blessed by Him will inherit the land,  
+> But those cursed by Him will be cut off.
 
 ---
 
 ## Psalm 37:23
 
-> The steps of a man are established by the Lord,  
-> And He delights in his way.
+> The Lord makes firm the steps of the one who delights in Him;  
+> He takes pleasure in their way.
 
 ## Psalm 37:24
 
-> When he falls, he will not be hurled down,  
-> Because the Lord is the One who holds his hand.
+> Though they stumble, they will not fall,  
+> For the Lord upholds them with His hand.
 
 ---
 
 ## Psalm 37:25
 
-> I have been young and now I am old,  
-> Yet I have not seen the righteous forsaken  
-> Or his descendants begging for bread.
+> I was young and now I am old,  
+> Yet I have never seen the righteous forsaken  
+> Or their children begging for bread.
 
 ## Psalm 37:26
 
-> All day long he is gracious and lends,  
-> And his descendants are a blessing.
+> They are always generous and lend freely,  
+> And their children will be a blessing.
 
 ---
 
 ## Psalm 37:27
 
 > Turn from evil and do good,  
-> So that you will dwell forever.
+> So that you may dwell in the land forever.
 
 ## Psalm 37:28
 
 > For the Lord loves justice  
-> And does not abandon His godly ones;
+> And will not forsake His faithful ones;
 
 ---
 
-> They are protected forever,  
-> But the descendants of the wicked will be eliminated.
+> They will be protected forever,  
+> But the offspring of the wicked will be cut off.
 
 ## Psalm 37:29
 
 > The righteous will inherit the land  
-> And dwell in it forever.
+> And live in it perpetually.
 
 ---
 
 ## Psalm 37:30
 
-> The mouth of the righteous utters wisdom,  
-> And his tongue speaks justice.
+> The mouths of the righteous speak wisdom,  
+> And their tongues express what is just.
 
 ## Psalm 37:31
 
-> The Law of his God is in his heart;  
-> His steps do not slip.
+> The law of their God is in their hearts;  
+> Their steps do not falter.
 
 ---
 
 ## Psalm 37:32
 
-> The wicked spies upon the righteous  
-> And seeks to kill him.
+> The wicked lie in wait for the righteous,  
+> Seeking to take their lives.
 
 ## Psalm 37:33
 
-> The Lord will not leave him in his hand  
-> Or let him be condemned when he is judged.
+> But the Lord will not abandon them to the power of the wicked  
+> Or let them be condemned when brought to trial.
 
 ---
 
 ## Psalm 37:34
 
-> Wait for the Lord and keep His way,  
-> And He will exalt you to inherit the land;  
-> When the wicked are eliminated, you will see it.
+> Hope in the Lord and follow His path,  
+> And He will lift you up to inherit the land;  
+> When the wicked are destroyed, you will see it.
 
 ---
 
 ## Psalm 37:35
 
-> I have seen a wicked, violent person  
-> Spreading himself like a luxuriant tree in its native soil.
+> I have seen a wicked and ruthless person  
+> Flourishing like a luxuriant native tree.
 
 ## Psalm 37:36
 
-> Then he passed away, and behold, he was no more;  
-> I searched for him, but he could not be found.
+> But they soon passed away and were no more;  
+> Though I looked for them, they could not be found.
 
 ---
 
 ## Psalm 37:37
 
-> Observe the blameless one, and look at the upright;  
-> For the person of peace will have a future.
+> Consider the blameless, observe the upright;  
+> A future awaits those who pursue peace.
 
 ## Psalm 37:38
 
-> But wrongdoers will altogether be destroyed;  
-> The future of the wicked will be eliminated.
+> But all who sin will be destroyed;  
+> There will be no future for the wicked.
 
 ---
 
 ## Psalm 37:39
 
-> But the salvation of the righteous is from the Lord;  
-> He is their strength in time of trouble.
+> The salvation of the righteous comes from the Lord;  
+> He is their stronghold in times of trouble.
 
 ## Psalm 37:40
 
-> The Lord helps them and rescues them;  
+> The Lord helps them and delivers them;  
 > He rescues them from the wicked and saves them,  
-> Because they take refuge in Him.
+> Because they seek refuge in Him.

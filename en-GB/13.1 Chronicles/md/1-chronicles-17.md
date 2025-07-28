@@ -13,7 +13,7 @@ And it came about, when David lived in his house, that David said to Nathan the 
 
 Then Nathan said to David,
 
-> “Do all that is in your heart,  
+> “Proceed with what you have in mind,  
 > for God is with you.”
 
 ---
@@ -92,8 +92,8 @@ that the word of God came to Nathan, saying,
 
 ## 1 Chronicles 17:12
 
-> He shall build Me a house,  
-> and I will establish his throne forever.
+> He will construct a house for Me,  
+> and I will secure his throne for all time.
 
 ---
 
@@ -107,15 +107,15 @@ that the word of God came to Nathan, saying,
 
 ## 1 Chronicles 17:14
 
-> But I will settle him in My house and in My kingdom forever,  
-> and his throne shall be established forever.’”
+> But I will establish him in My house and in My kingdom for all time,  
+> and his throne shall be secured forever.’”
 
 ---
 
 ## 1 Chronicles 17:15
 
-According to all these words and according to all this vision,  
-so Nathan spoke to David.
+In accordance with all these words and this vision,  
+Nathan conveyed them to David.
 
 ---
 
@@ -152,7 +152,7 @@ Then David the king went in and sat before the Lord, and said,
 
 ## 1 Chronicles 17:20
 
-> Lord, there is none like You,  
+> Lord, there is no one like You,  
 > nor is there any God besides You,  
 > according to all that we have heard with our ears.
 
@@ -191,8 +191,8 @@ Then David the king went in and sat before the Lord, and said,
 
 ## 1 Chronicles 17:25
 
-> For You, my God, have revealed to Your servant that You will build him a house;  
-> therefore, Your servant has found courage to pray before You.
+> For You, my God, have disclosed to Your servant that You will build him a house;  
+> therefore, Your servant has found the courage to pray before You.
 
 ---
 

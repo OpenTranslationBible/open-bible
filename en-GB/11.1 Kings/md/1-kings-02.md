@@ -2,8 +2,8 @@
 
 ## 1 Kings 2:1
 
-Now the days of David drew near that he should die,  
-and he charged Solomon his son, saying,
+As the time of David's passing approached,  
+he gave instructions to Solomon his son, saying,
 
 ## 1 Kings 2:2
 
@@ -61,17 +61,17 @@ and you shall bring his grey hair down to the grave with blood.”
 
 ## 1 Kings 2:10
 
-So David rested with his fathers,  
+So David passed away and was laid to rest with his ancestors,  
 and was buried in the City of David.
 
 ## 1 Kings 2:11
 
-The time that David reigned over Israel was forty years.  
+David reigned over Israel for forty years.  
 He reigned seven years in Hebron and thirty-three years in Jerusalem.
 
 ## 1 Kings 2:12
 
-Then Solomon sat on the throne of his father David,  
+Solomon then ascended the throne of his father David,  
 and his kingdom was firmly established.
 
 ---
@@ -122,7 +122,7 @@ and she sat at his right hand.
 
 ## 1 Kings 2:20
 
-Then she said, “I am making one small request of you; do not refuse me.”  
+Then she said, “I have a small request of you; do not refuse me.”  
 And the king said to her, “Ask, my mother, for I will not refuse you.”
 
 ## 1 Kings 2:21
@@ -139,20 +139,20 @@ even for him, for Abiathar the priest, and for Joab the son of Zeruiah!”
 ## 1 Kings 2:23
 
 Then King Solomon swore by the Lord, saying,  
-“May God do so to me, and more also,  
+“May God deal with me, be it ever so severely,  
 if Adonijah has not spoken this word against his own life.
 
 ## 1 Kings 2:24
 
-Now therefore, as the Lord lives, who has established me  
-and set me on the throne of David my father,  
+Now therefore, as surely as the Lord lives, who has established me  
+and set me on the throne of my father David,  
 and who has made me a house as He promised—  
-surely Adonijah shall be put to death today.”
+Adonijah shall indeed be put to death today.”
 
 ## 1 Kings 2:25
 
 So King Solomon sent Benaiah the son of Jehoiada,  
-and he struck him down and he died.
+who struck him down, and he died.
 
 ---
 
@@ -251,8 +251,8 @@ So Shimei lived in Jerusalem for many days.
 
 ## 1 Kings 2:39
 
-But it came about at the end of three years,  
-that two of the servants of Shimei ran away to Achish son of Maacah, king of Gath.  
+But after three years,  
+two of Shimei's servants ran away to Achish son of Maacah, king of Gath.  
 And they told Shimei, saying, “Behold, your servants are in Gath.”
 
 ## 1 Kings 2:40
@@ -275,7 +275,7 @@ And you said to me, ‘The word I have heard is good.’
 
 ## 1 Kings 2:43
 
-Why then have you not kept the oath of the Lord  
+Why have you not kept the oath of the Lord  
 and the command that I gave you?”
 
 ## 1 Kings 2:44
@@ -287,10 +287,10 @@ therefore the Lord shall return your evil on your own head.
 ## 1 Kings 2:45
 
 But King Solomon shall be blessed,  
-and the throne of David shall be established before the Lord forever.”
+and the throne of David shall remain established before the Lord forever.”
 
 ## 1 Kings 2:46
 
 So the king gave command to Benaiah the son of Jehoiada,  
-and he went out and struck him down and he died.  
+and he went out and struck him down, and he died.  
 Thus the kingdom was established in the hand of Solomon.

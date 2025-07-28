@@ -2,7 +2,7 @@
 
 ## Amos 4:1
 
-> Hear this word, you cows of Bashan who are on the mountain of Samaria,  
+> Listen to this message, you well-fed women of Bashan who are on the mountain of Samaria,  
 > Who oppress the poor, who crush the needy,  
 > Who say to their husbands, “Bring now, that we may drink!”
 
@@ -22,52 +22,52 @@
 
 ## Amos 4:4
 
-> “Enter Bethel and do wrong,  
-> In Gilgal multiply wrongdoing!  
+> “Go to Bethel and commit transgressions,  
+> In Gilgal increase your transgressions!  
 > Bring your sacrifices every morning,  
 > Your tithes every three days.
 
 ## Amos 4:5
 
-> Offer a thanksgiving offering also from that which is leavened,  
+> Present a thanksgiving offering also from that which is leavened,  
 > And proclaim voluntary offerings, make them known.  
-> For so you love to do, you sons of Israel,”  
+> For this is what you love to do, you sons of Israel,”  
 > Declares the Lord God.
 
 ## Amos 4:6
 
-> “But I gave you also cleanness of teeth in all your cities,  
+> “But I also gave you empty stomachs in all your cities,  
 > And lack of bread in all your places,  
 > Yet you have not returned to Me,” declares the Lord.
 
 ## Amos 4:7
 
-> “Furthermore, I withheld the rain from you  
-> While there were still three months until harvest.  
-> Then I would send rain on one city,  
-> And on another city I would not send rain;  
-> One part would be rained on,  
-> While the part not rained on would dry up.
+> “Moreover, I held back the rain from you  
+> Even though there were still three months until harvest.  
+> I would send rain on one city,  
+> While another city would not receive rain;  
+> One part would be watered,  
+> While the part without rain would dry up.
 
 ## Amos 4:8
 
-> So two or three cities would stagger to another city to drink water,  
+> So two or three cities would wander to another city to drink water,  
 > But would not be satisfied;  
 > Yet you have not returned to Me,” declares the Lord.
 
 ## Amos 4:9
 
-> “I struck you with scorching wind and mildew;  
-> The caterpillar was devouring  
+> “I afflicted you with scorching wind and mildew;  
+> The caterpillar consumed  
 > Your many gardens and vineyards, fig trees and olive trees;  
 > Yet you have not returned to Me,” declares the Lord.
 
 ## Amos 4:10
 
 > “I sent a plague among you as in Egypt;  
-> I killed your young men with the sword,  
+> I struck down your young men with the sword,  
 > Along with your captured horses,  
-> And I made the stench of your camp rise up in your nostrils;  
+> And I caused the stench of your camp to rise up in your nostrils;  
 > Yet you have not returned to Me,” declares the Lord.
 
 ## Amos 4:11
@@ -78,14 +78,14 @@
 
 ## Amos 4:12
 
-> “Therefore so I will do to you, Israel;  
+> “Therefore this is what I will do to you, Israel;  
 > Because I will do this to you,  
 > Prepare to meet your God, Israel.”
 
 ## Amos 4:13
 
 > For behold, He who forms mountains and creates the wind,  
-> And declares to a person what are His thoughts,  
+> And reveals to a person what are His thoughts,  
 > He who makes dawn into darkness  
 > And treads on the high places of the earth,  
-> The Lord God of armies is His name.
+> The Lord God of hosts is His name.

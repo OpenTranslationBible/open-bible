@@ -9,8 +9,8 @@
 
 ## Psalm 46:2
 
-> Therefore we will not fear, though the earth shakes  
-> And the mountains slip into the heart of the sea;
+> Thus, we will not fear, even if the earth trembles  
+> And the mountains fall into the depths of the sea;
 
 ## Psalm 46:3
 
@@ -23,24 +23,24 @@
 
 ## Psalm 46:4
 
-> There is a river whose streams make the city of God happy,  
-> The holy dwelling places of the Most High.
+> There is a river whose streams bring joy to the city of God,  
+> The sacred dwelling places of the Most High.
 
 ## Psalm 46:5
 
-> God is in the midst of her, she will not be moved;  
-> God will help her when morning dawns.
+> God is within her, she will not be shaken;  
+> God will assist her at the break of day.
 
 ## Psalm 46:6
 
-> The nations made an uproar, the kingdoms tottered;  
-> He raised His voice, the earth quaked.
+> The nations were in turmoil, the kingdoms were shaken;  
+> He raised His voice, and the earth melted.
 
 ---
 
 ## Psalm 46:7
 
-> The Lord of armies is with us;  
+> The Lord Almighty is with us;  
 > The God of Jacob is our stronghold.
 
 > \_Selah
@@ -50,7 +50,7 @@
 ## Psalm 46:8
 
 > Come, behold the works of the Lord,  
-> Who has inflicted horrific events on the earth.
+> Who has brought astounding events upon the earth.
 
 ## Psalm 46:9
 
@@ -60,7 +60,7 @@
 
 ## Psalm 46:10
 
-> “Stop striving and know that I am God;  
+> “Be still and recognise that I am God;  
 > I will be exalted among the nations,  
 > I will be exalted on the earth.”
 
@@ -68,7 +68,7 @@
 
 ## Psalm 46:11
 
-> The Lord of armies is with us;  
+> The Lord Almighty is with us;  
 > The God of Jacob is our stronghold.
 
 > Selah

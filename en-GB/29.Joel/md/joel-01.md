@@ -13,9 +13,9 @@ Then the word of the Lord came to Joel, son of Pethuel.
 
 ## Joel 1:3
 
-> Tell your children about it,
-> and let your children tell their children,
-> and their children the next generation.
+> Share this with your children,
+> and let them share it with their children,
+> and their descendants with the following generation.
 
 ## Joel 1:4
 
@@ -105,12 +105,12 @@ Then the word of the Lord came to Joel, son of Pethuel.
 
 ## Joel 1:16
 
-> Has not the food been cut off before our eyes,
-> joy and gladness from the house of our God?
+> Is not the food removed before our eyes,
+> and joy and gladness from the house of our God?
 
 ## Joel 1:17
 
-> The seeds are shrivelled beneath the clods;
+> The seeds lie shrivelled beneath the soil;
 > the storehouses are in ruins,
 > the granaries have been broken down,
 > for the grain has dried up.

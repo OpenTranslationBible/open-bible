@@ -14,8 +14,8 @@
 
 ## Psalm 60:3
 
-> You have made Your people experience hardship;  
-> You have given us wine to drink that makes us stagger.
+> You have caused Your people to endure hardship;  
+> You have given us wine that causes us to stagger.
 
 ## Psalm 60:4
 
@@ -45,15 +45,15 @@
 
 ## Psalm 60:8
 
-> Moab is My washbowl;  
-> I will throw My sandal over Edom;  
-> Shout loud, Philistia, because of Me!”
+> Moab is My basin for washing;  
+> Over Edom I will cast My sandal;  
+> Philistia, shout aloud because of Me!”
 
 ---
 
 ## Psalm 60:9
 
-> Who will bring me into the fortified city?  
+> Who will guide me to the fortified city?  
 > Who will lead me to Edom?
 
 ## Psalm 60:10
@@ -68,5 +68,5 @@
 
 ## Psalm 60:12
 
-> Through God we will do valiantly,  
-> And it is He who will trample down our enemies.
+> Through God we will achieve victory,  
+> And it is He who will overcome our foes.

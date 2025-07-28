@@ -2,16 +2,16 @@
 
 ## 2 Chronicles 22:1
 
-Then the inhabitants of Jerusalem made Ahaziah, his youngest son, king in his place,  
-for the band of men who came with the Arabs to the camp had killed all the older sons.  
-So Ahaziah the son of Jehoram king of Judah became king.
+The people of Jerusalem appointed Ahaziah, his youngest son, as king in his place,  
+because the group of men who came with the Arabs to the camp had killed all the older sons.  
+Thus, Ahaziah, the son of Jehoram, king of Judah, became king.
 
 ---
 
 ## 2 Chronicles 22:2
 
-Ahaziah was twenty-two years old when he became king, and he reigned for one year in Jerusalem.  
-And his mother’s name was Athaliah, the granddaughter of Omri.
+Ahaziah was twenty-two years old when he ascended to the throne, and he ruled for one year in Jerusalem.  
+His mother was Athaliah, a descendant of Omri.
 
 ---
 
@@ -72,8 +72,8 @@ So there was no one of the house of Ahaziah to retain the power of the kingdom.
 
 ## 2 Chronicles 22:10
 
-Now when Athaliah the mother of Ahaziah saw that her son was dead,  
-she rose and eliminated all the royal children of the house of Judah.
+When Athaliah, the mother of Ahaziah, realised her son was dead,  
+she rose and destroyed all the royal children of the house of Judah.
 
 ---
 

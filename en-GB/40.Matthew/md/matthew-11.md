@@ -70,10 +70,10 @@ Whoever has ears to hear, let them hear.
 
 ## Matthew 11:17
 
-> ‘We played the flute for you,
+> ‘We played music for you,
 > and you did not dance;
-> we sang a dirge,
-> and you did not mourn.’
+> we sang a mournful song,
+> and you did not lament.’
 
 ## Matthew 11:18
 

@@ -9,43 +9,43 @@
 
 ## Psalm 78:2
 
-> I will open my mouth in a parable;  
-> I will tell riddles of old,
+> I will speak in parables;  
+> I will share ancient riddles,
 
 ## Psalm 78:3
 
 > Which we have heard and known,  
-> And our fathers have told us.
+> And which our ancestors have shared with us.
 
 ## Psalm 78:4
 
-> We will not conceal them from their children,  
-> But we will tell the generation to come the praises of the Lord,  
-> And His power and His wondrous works that He has done.
+> We will not hide them from their children,  
+> But we will declare to the next generation the praises of the Lord,  
+> And His power and the marvellous works He has accomplished.
 
 ---
 
 ## Psalm 78:5
 
 > For He established a testimony in Jacob,  
-> And appointed a law in Israel,  
-> Which He commanded our fathers  
-> That they were to teach them to their children,
+> And set a law in Israel,  
+> Which He instructed our ancestors  
+> That they should teach to their children,
 
 ## Psalm 78:6
 
-> So that the generation to come would know, the children yet to be born,  
-> That they would arise and tell them to their children,
+> So that the next generation would know, the children yet to be born,  
+> That they would rise and tell them to their children,
 
 ## Psalm 78:7
 
-> So that they would put their confidence in God  
-> And not forget the works of God,  
-> But comply with His commandments,
+> So that they would place their trust in God  
+> And not forget the deeds of God,  
+> But adhere to His commandments,
 
 ## Psalm 78:8
 
-> And not be like their fathers,  
+> And not be like their ancestors,  
 > A stubborn and rebellious generation,  
 > A generation that did not prepare its heart,  
 > And whose spirit was not faithful to God.
@@ -54,45 +54,45 @@
 
 ## Psalm 78:9
 
-> The sons of Ephraim were archers equipped with bows,  
-> Yet they turned back on the day of battle.
+> The sons of Ephraim, armed with bows,  
+> Yet retreated on the day of battle.
 
 ## Psalm 78:10
 
-> They did not keep the covenant of God  
-> And refused to walk in His Law;
+> They did not uphold the covenant of God  
+> And refused to follow His law;
 
 ## Psalm 78:11
 
 > They forgot His deeds  
-> And His miracles that He had shown them.
+> And the miracles He had shown them.
 
 ## Psalm 78:12
 
-> He performed wonders before their fathers  
-> In the land of Egypt, in the field of Zoan.
+> He performed wonders before their ancestors  
+> In the land of Egypt, in the fields of Zoan.
 
 ---
 
 ## Psalm 78:13
 
-> He divided the sea and caused them to pass through,  
-> And He made the waters stand up like a heap.
+> He divided the sea and led them through,  
+> And He made the waters stand up like a wall.
 
 ## Psalm 78:14
 
-> Then He led them with the cloud by day,  
-> And all the night with a light of fire.
+> Then He guided them with the cloud by day,  
+> And all night with a light of fire.
 
 ## Psalm 78:15
 
 > He split the rocks in the wilderness  
-> And gave them plenty to drink like the ocean depths.
+> And gave them abundant water like the ocean depths.
 
 ## Psalm 78:16
 
 > He brought forth streams from the rock  
-> And made waters run down like rivers.
+> And made waters flow down like rivers.
 
 ---
 
@@ -100,170 +100,170 @@
 
 ## Psalm 78:17
 
-> Yet they still continued to sin against Him,  
-> To rebel against the Most High in the desert.
+> Yet they continued to sin against Him,  
+> Rebelling against the Most High in the desert.
 
 ## Psalm 78:18
 
-> And they put God to the test in their heart  
-> By asking for food that suited their desire.
+> And they tested God in their hearts  
+> By demanding food to satisfy their cravings.
 
 ## Psalm 78:19
 
 > Then they spoke against God;  
-> They said, “Can God prepare a table in the wilderness?
+> They said, “Can God set a table in the wilderness?
 
 ## Psalm 78:20
 
 > Behold, He struck the rock so that waters gushed out,  
-> And streams were overflowing;  
-> Can He also give bread?  
-> Will He provide meat for His people?”
+> And streams overflowed;  
+> Can He also provide bread?  
+> Will He supply meat for His people?”
 
 ---
 
 ## Psalm 78:21
 
-> Therefore the Lord heard and was full of wrath;  
+> Therefore the Lord heard and was filled with wrath;  
 > And fire was kindled against Jacob,  
 > And anger also mounted against Israel,
 
 ## Psalm 78:22
 
 > Because they did not believe in God  
-> And did not trust in His salvation.
+> And did not trust in His deliverance.
 
 ## Psalm 78:23
 
-> Yet He commanded the clouds above  
-> And opened the doors of heaven;
+> Nevertheless, He commanded the skies above  
+> And opened the gates of heaven;
 
 ## Psalm 78:24
 
-> He rained down manna upon them to eat,  
+> He rained down manna for them to eat,  
 > And gave them food from heaven.
 
 ## Psalm 78:25
 
-> Man ate the bread of angels;  
-> He sent them food in abundance.
+> Humanity partook of the bread of angels;  
+> He provided them with food in abundance.
 
 ---
 
 ## Psalm 78:26
 
-> He made the east wind blow in the sky  
-> And by His power He directed the south wind.
+> He made the east wind blow in the heavens  
+> And by His power directed the south wind.
 
 ## Psalm 78:27
 
-> When He rained meat upon them like the dust,  
-> Even winged fowl like the sand of the seas,
+> He rained meat upon them like dust,  
+> Even winged birds like the sand of the seas,
 
 ## Psalm 78:28
 
-> He let them fall in the midst of their camp,  
+> He allowed them to fall in the midst of their camp,  
 > All around their dwellings.
 
 ## Psalm 78:29
 
-> So they ate and were well filled,  
-> And He satisfied their longing.
+> So they ate and were well satisfied,  
+> And He fulfilled their desire.
 
 ## Psalm 78:30
 
-> Yet before they had abandoned their longing,  
-> While their food was in their mouths,
+> Yet before they had satisfied their craving,  
+> While their food was still in their mouths,
 
 ## Psalm 78:31
 
 > The anger of God rose against them  
-> And killed some of their strongest ones,  
+> And struck down some of their strongest,  
 > And subdued the choice men of Israel.
 
 ---
 
 ## Psalm 78:32
 
-> In spite of all this they still sinned  
-> And did not believe in His wonderful works.
+> Despite all this, they continued to sin  
+> And did not believe in His marvellous works.
 
 ## Psalm 78:33
 
-> So He brought their days to an end in futility,  
+> So He ended their days in futility,  
 > And their years in sudden terror.
 
 ## Psalm 78:34
 
-> When He killed them, then they sought Him,  
-> And they returned and searched diligently for God;
+> When He struck them down, then they sought Him,  
+> And they returned and earnestly searched for God;
 
 ## Psalm 78:35
 
-> And they remembered that God was their rock,  
+> And they recalled that God was their rock,  
 > And the Most High God their Redeemer.
 
 ---
 
 ## Psalm 78:36
 
-> But they flattered Him with their mouth  
-> And lied to Him with their tongue.
+> But they flattered Him with their words  
+> And lied to Him with their tongues.
 
 ## Psalm 78:37
 
-> For their heart was not steadfast toward Him,  
-> Nor were they faithful in His covenant.
+> For their hearts were not steadfast toward Him,  
+> Nor were they faithful to His covenant.
 
 ## Psalm 78:38
 
-> But He, being compassionate, forgave their wrongdoing and did not destroy them;  
+> But He, being compassionate, forgave their iniquity and did not destroy them;  
 > And often He restrained His anger  
-> And did not stir up all His wrath.
+> And did not unleash all His wrath.
 
 ## Psalm 78:39
 
-> So He remembered that they were only flesh,  
-> A wind that passes and does not return.
+> So He remembered that they were mere flesh,  
+> A passing breeze that does not return.
 
 ---
 
 ## Psalm 78:40
 
-> How often they rebelled against Him in the wilderness  
+> How frequently they rebelled against Him in the wilderness,  
 > And grieved Him in the desert!
 
 ## Psalm 78:41
 
-> Again and again they tempted God,  
+> Time and again they tested God,  
 > And pained the Holy One of Israel.
 
 ## Psalm 78:42
 
 > They did not remember His power,  
-> The day when He redeemed them from the enemy,
+> The day when He redeemed them from the foe,
 
 ## Psalm 78:43
 
-> When He performed His signs in Egypt  
-> And His marvels in the field of Zoan,
+> When He displayed His signs in Egypt  
+> And His wonders in the fields of Zoan,
 
 ---
 
 ## Psalm 78:44
 
 > And turned their rivers to blood,  
-> And their streams, so that they could not drink.
+> And their streams, so they could not drink.
 
 ## Psalm 78:45
 
 > He sent swarms of flies among them that devoured them,  
-> And frogs that destroyed them.
+> And frogs that devastated them.
 
 ## Psalm 78:46
 
 > He also gave their crops to the grasshopper  
-> And the product of their labour to the locust.
+> And the produce of their labour to the locust.
 
 ## Psalm 78:47
 
@@ -281,58 +281,58 @@
 
 > He sent His burning anger upon them,  
 > Fury and indignation and trouble,  
-> A band of destroying angels.
+> A company of destroying angels.
 
 ## Psalm 78:50
 
-> He made a path for His anger;  
+> He cleared a path for His anger;  
 > He did not spare their souls from death,  
-> But turned their lives over to the plague,
+> But handed their lives over to the plague,
 
 ## Psalm 78:51
 
 > And struck all the firstborn in Egypt,  
-> The first and best of their vigour in the tents of Ham.
+> The first and best of their strength in the tents of Ham.
 
 ---
 
 ## Psalm 78:52
 
-> But He led His own people out like sheep,  
+> Yet He led His own people out like sheep,  
 > And guided them in the wilderness like a flock;
 
 ## Psalm 78:53
 
-> He led them safely, so that they did not fear;  
-> But the sea engulfed their enemies.
+> He led them safely, so they did not fear;  
+> But the sea overwhelmed their foes.
 
 ## Psalm 78:54
 
 > So He brought them to His holy land,  
-> To this hill country which His right hand had gained.
+> To this hill country which His right hand had won.
 
 ## Psalm 78:55
 
-> He also drove out the nations from them,  
-> And apportioned them as an inheritance by measurement,  
+> He also drove out the nations before them,  
+> And allotted them as an inheritance by measurement,  
 > And settled the tribes of Israel in their tents.
 
 ---
 
 ## Psalm 78:56
 
-> Yet they tempted and rebelled against the Most High God  
-> And did not keep His testimonies,
+> Yet they tested and rebelled against the Most High God  
+> And did not keep His decrees,
 
 ## Psalm 78:57
 
-> But turned back and acted treacherously like their fathers;  
-> They turned aside like a treacherous bow.
+> But turned back and acted deceitfully like their ancestors;  
+> They turned aside like a faulty bow.
 
 ## Psalm 78:58
 
 > For they provoked Him with their high places  
-> And moved Him to jealousy with their carved images.
+> And stirred Him to jealousy with their carved images.
 
 ## Psalm 78:59
 
@@ -344,22 +344,22 @@
 ## Psalm 78:60
 
 > So that He abandoned the dwelling place at Shiloh,  
-> The tent which He had pitched among people,
+> The tent He had set among people,
 
 ## Psalm 78:61
 
-> And gave up His strength to captivity,  
+> And gave His strength into captivity,  
 > And His glory into the hand of the enemy.
 
 ## Psalm 78:62
 
-> He also turned His people over to the sword,  
+> He also delivered His people to the sword,  
 > And was filled with wrath at His inheritance.
 
 ## Psalm 78:63
 
-> Fire devoured His young men,  
-> And His virgins had no wedding songs.
+> Fire consumed His young men,  
+> And His maidens had no wedding songs.
 
 ## Psalm 78:64
 
@@ -385,8 +385,8 @@
 
 ## Psalm 78:68
 
-> But chose the tribe of Judah,  
-> Mount Zion, which He loved.
+> But selected the tribe of Judah,  
+> Mount Zion, which He cherished.
 
 ---
 
@@ -398,15 +398,15 @@
 ## Psalm 78:70
 
 > He also chose His servant David,  
-> And took him from the sheepfolds;
+> And took him from tending the sheep;
 
 ## Psalm 78:71
 
-> From the care of the ewes with nursing lambs He brought him  
+> From caring for the ewes with nursing lambs He brought him  
 > To shepherd Jacob His people,  
 > And Israel His inheritance.
 
 ## Psalm 78:72
 
-> So he shepherded them according to the integrity of his heart,  
-> And guided them with his skilful hands.
+> So he shepherded them with integrity of heart,  
+> And guided them with skilful hands.

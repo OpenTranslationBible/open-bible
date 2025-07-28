@@ -34,7 +34,7 @@ And God is able to make all grace abound to you, so that, always having all suff
 
 ## 2 Corinthians 9:9
 
-As it is written:
+As the scripture says:
 
 > “He scattered abroad, he gave to the poor,  
 > His righteousness endures forever.”

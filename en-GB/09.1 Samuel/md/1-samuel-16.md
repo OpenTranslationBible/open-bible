@@ -73,16 +73,16 @@ And the Lord said, “Arise, anoint him; for this is he.”
 
 ## 1 Samuel 16:13
 
-Then Samuel took the horn of oil and anointed him in the midst of his brothers;  
-and the Spirit of the Lord came mightily upon David from that day forward.  
-And Samuel arose and went to Ramah.
+Then Samuel took the horn of oil and anointed him in the presence of his brothers;  
+and from that day onward, the Spirit of the Lord was powerfully with David.  
+And Samuel got up and went to Ramah.
 
 ---
 
 ## 1 Samuel 16:14
 
-Now the Spirit of the Lord departed from Saul,  
-and an evil spirit from the Lord tormented him.
+At that time, the Spirit of the Lord withdrew from Saul,  
+and a troubling spirit from the Lord began to distress him.
 
 ## 1 Samuel 16:15
 

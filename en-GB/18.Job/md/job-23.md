@@ -16,8 +16,8 @@ Job responded,
 
 ## Job 23:4
 
-> I would lay my case before Him
-> and fill my mouth with arguments.
+> I would present my case to Him
+> and speak with conviction.
 
 ## Job 23:5
 
@@ -31,8 +31,8 @@ Job responded,
 
 ## Job 23:7
 
-> There the upright could reason with Him,
-> and I would be delivered forever from my judge.
+> There the upright could engage with Him,
+> and I would be set free forever from my judge.
 
 ---
 

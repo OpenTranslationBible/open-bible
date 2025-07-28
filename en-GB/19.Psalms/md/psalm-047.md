@@ -11,18 +11,18 @@
 
 ## Psalm 47:2
 
-> For the Lord Most High is to be feared,  
+> For the Lord Most High is awe-inspiring,  
 > A great King over all the earth.
 
 ## Psalm 47:3
 
-> He subdues peoples under us  
-> And nations under our feet.
+> He brings peoples under our influence  
+> And nations beneath our feet.
 
 ## Psalm 47:4
 
-> He chooses our inheritance for us,  
-> The pride of Jacob whom He loves.
+> He selects our heritage for us,  
+> The pride of Jacob whom He cherishes.
 
 > Selah
 
@@ -30,29 +30,29 @@
 
 ## Psalm 47:5
 
-> God has ascended with a shout,  
+> God has ascended amidst joyful cries,  
 > The Lord, with the sound of a trumpet.
 
 ## Psalm 47:6
 
-> Sing praises to God, sing praises;  
-> Sing praises to our King, sing praises.
+> Offer praises to God, offer praises;  
+> Offer praises to our King, offer praises.
 
 ## Psalm 47:7
 
 > For God is the King of all the earth;  
-> Sing praises with a psalm of wisdom.
+> Offer praises with a psalm of insight.
 
 ---
 
 ## Psalm 47:8
 
-> God reigns over the nations,  
-> God sits on His holy throne.
+> God rules over the nations,  
+> God is seated on His holy throne.
 
 ## Psalm 47:9
 
-> The princes of the peoples have assembled  
+> The leaders of the peoples have gathered  
 > As the people of the God of Abraham,  
 > For the shields of the earth belong to God;  
 > He is highly exalted.

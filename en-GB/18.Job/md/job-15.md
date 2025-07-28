@@ -110,8 +110,8 @@ Then Eliphaz the Temanite spoke:
 
 ## Job 15:22
 
-> He does not expect to escape from darkness;
-> he is destined for the sword.
+> He does not anticipate freedom from darkness;
+> he is marked for the sword.
 
 ## Job 15:23
 
@@ -136,8 +136,8 @@ Then Eliphaz the Temanite spoke:
 
 ## Job 15:27
 
-> Though his face is covered with fat
-> and his waist bulges with flesh,
+> Even though his face is covered with fat
+> and his waist is full of flesh,
 
 ## Job 15:28
 
@@ -152,7 +152,7 @@ Then Eliphaz the Temanite spoke:
 
 ## Job 15:30
 
-> He will not escape the darkness;
+> He will not find refuge from the darkness;
 > a flame will wither his shoots,
 > and the breath of God’s mouth will carry him away.
 
@@ -168,7 +168,7 @@ Then Eliphaz the Temanite spoke:
 
 ## Job 15:33
 
-> He will be like a vine stripped of its unripe grapes,
+> He will be like a vine stripped of its immature grapes,
 > like an olive tree shedding its blossoms.
 
 ## Job 15:34

@@ -59,9 +59,9 @@ A pronouncement regarding Nineveh. The book of the vision of Nahum the Elkoshite
 
 ## Nahum 1:10
 
-> They will be entangled among thorns
-> and drunk from their wine;
-> they will be consumed
+> They will be caught in a tangle of thorns
+> and overcome by their drink;
+> they will be devoured
 > like dry stubble.
 
 ## Nahum 1:11

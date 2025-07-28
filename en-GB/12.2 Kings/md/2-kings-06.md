@@ -2,24 +2,24 @@
 
 ## 2 Kings 6:1
 
-Now the sons of the prophets said to Elisha,  
-“Behold now, the place where we are living in your presence is too cramped for us.
+The sons of the prophets approached Elisha, saying,  
+“See now, the place where we dwell under your guidance is too cramped for us.
 
 ## 2 Kings 6:2
 
-Please let us go to the Jordan, and each of us take from there a beam,  
-and let us make a place there for ourselves where we may live.”  
+Allow us to go to the Jordan, and each of us will take a beam from there,  
+and let us construct a place there for ourselves where we may reside.”  
 So he said, “Go.”
 
 ## 2 Kings 6:3
 
-Then one said, “Please be willing to go with your servants.”  
-And he answered, “I shall go.”
+Then one of them said, “Please accompany your servants.”  
+And he replied, “I shall go.”
 
 ## 2 Kings 6:4
 
 So he went with them;  
-and when they came to the Jordan, they cut down trees.
+and upon reaching the Jordan, they began cutting down trees.
 
 ## 2 Kings 6:5
 
@@ -28,9 +28,9 @@ And he cried out and said, “Oh, my master! It was borrowed!”
 
 ## 2 Kings 6:6
 
-Then the man of God said, “Where did it fall?”  
-And when he showed him the place,  
-he cut off a stick and threw it in there, and made the iron float.
+The man of God asked, “Where did it fall?”  
+And when he showed him the spot,  
+he cut off a stick and threw it there, causing the iron to float.
 
 ## 2 Kings 6:7
 
@@ -41,7 +41,7 @@ So he reached out his hand and took it.
 
 ## 2 Kings 6:8
 
-Now the king of Aram was warring against Israel,  
+The king of Aram was warring against Israel,  
 and he consulted with his servants, saying,  
 “At such and such a place shall be my camp.”
 
@@ -57,31 +57,31 @@ Thus he warned him, so that he guarded himself there more than once or twice.
 
 ## 2 Kings 6:11
 
-Now the heart of the king of Aram was enraged over this thing;  
+The heart of the king of Aram was enraged over this matter;  
 and he called his servants and said to them,  
 “Will you not tell me which of us is for the king of Israel?”
 
 ## 2 Kings 6:12
 
-One of his servants said,  
+One of his servants replied,  
 “No, my lord the king; but Elisha, the prophet who is in Israel,  
-tells the king of Israel the words that you speak in your bedroom.”
+informs the king of Israel of the words you speak in your bedroom.”
 
 ## 2 Kings 6:13
 
-So he said, “Go and see where he is, so that I may send men and take him.”  
-And it was told him, saying, “Behold, he is in Dothan.”
+So he said, “Go and see where he is, so that I may send men to capture him.”  
+And it was reported to him, saying, “Behold, he is in Dothan.”
 
 ## 2 Kings 6:14
 
-So he sent horses and chariots and a substantial army there,  
-and they came by night and surrounded the city.
+So he dispatched horses, chariots, and a substantial army there,  
+and they arrived by night and surrounded the city.
 
 ---
 
 ## 2 Kings 6:15
 
-Now when the attendant of the man of God had risen early and gone out,  
+When the attendant of the man of God rose early and went out,  
 behold, an army with horses and chariots was encircling the city.  
 And his servant said to him,  
 “Alas, my master! What are we to do?”
@@ -94,7 +94,7 @@ So he said,
 ## 2 Kings 6:17
 
 Then Elisha prayed and said,  
-“Lord, please open his eyes, so that he may see.”  
+“Lord, kindly open his eyes, so that he may see.”  
 And the Lord opened the servant’s eyes, and he saw;  
 and behold, the mountain was full of horses and chariots of fire all around Elisha.
 
@@ -109,8 +109,8 @@ So He struck them with blindness in accordance with the word of Elisha.
 ## 2 Kings 6:19
 
 Then Elisha said to them,  
-“This is not the way, nor is this the city. Follow me, and I will bring you to the man whom you seek.”  
-And he brought them to Samaria.
+“This is not the way, nor is this the city. Follow me, and I will lead you to the man whom you seek.”  
+And he guided them to Samaria.
 
 ## 2 Kings 6:20
 
@@ -128,19 +128,19 @@ Then the king of Israel, when he saw them, said to Elisha,
 
 But he said,  
 “You shall not kill them. Would you kill those you have taken captive with your sword and with your bow?  
-Set bread and water before them, so that they may eat and drink and go to their master.”
+Set bread and water before them, so that they may eat and drink and return to their master.”
 
 ## 2 Kings 6:23
 
 So he prepared a great feast for them; and when they had eaten and drunk, he sent them away,  
-and they went to their master.  
+and they returned to their master.  
 And the marauding bands of Arameans did not come again into the land of Israel.
 
 ---
 
 ## 2 Kings 6:24
 
-Now it came about after this, that Ben-hadad king of Aram gathered all his army,  
+After this, Ben-hadad king of Aram gathered all his army,  
 and went up and besieged Samaria.
 
 ## 2 Kings 6:25

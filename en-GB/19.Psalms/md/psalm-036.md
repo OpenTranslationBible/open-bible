@@ -16,56 +16,56 @@
 
 ## Psalm 36:3
 
-> The words of his mouth are wickedness and deceit;  
-> He has ceased to be wise and to do good.
+> His words are full of wickedness and deceit;  
+> He has abandoned wisdom and goodness.
 
 ## Psalm 36:4
 
-> He plans wickedness on his bed;  
-> He sets himself on a path that is not good;  
-> He does not reject evil.
+> He devises evil while on his bed;  
+> He chooses a path that is not good;  
+> He does not turn away from wrongdoing.
 
 ---
 
 ## Psalm 36:5
 
-> Your mercy, Lord, extends to the heavens,  
-> Your faithfulness reaches to the skies.
+> Your lovingkindness, Lord, reaches to the heavens,  
+> Your faithfulness extends to the skies.
 
 ## Psalm 36:6
 
-> Your righteousness is like the mountains of God;  
-> Your judgments are like the great deep.  
-> Lord, You protect mankind and animals.
+> Your righteousness is as majestic as the mountains;  
+> Your judgments are as profound as the great deep.  
+> Lord, You care for both humans and animals.
 
 ## Psalm 36:7
 
-> How precious is Your mercy, God!  
-> And the sons of mankind take refuge in the shadow of Your wings.
+> How invaluable is Your lovingkindness, God!  
+> And humanity finds shelter under the shadow of Your wings.
 
 ## Psalm 36:8
 
-> They drink their fill of the abundance of Your house;  
-> And You allow them to drink from the river of Your delights.
+> They are satisfied with the abundance of Your house;  
+> And You refresh them with the river of Your delights.
 
 ## Psalm 36:9
 
-> For with You is the fountain of life;  
-> In Your light we see light.
+> For with You is the source of life;  
+> In Your light, we perceive light.
 
 ---
 
 ## Psalm 36:10
 
-> Prolong Your mercy to those who know You,  
-> And Your righteousness to the upright of heart.
+> Continue Your lovingkindness to those who know You,  
+> And Your righteousness to those with upright hearts.
 
 ## Psalm 36:11
 
-> May the foot of pride not come upon me,  
-> And may the hand of the wicked not drive me away.
+> Let not the foot of arrogance overtake me,  
+> And let not the hand of the wicked force me away.
 
 ## Psalm 36:12
 
-> There the doers of wrongdoing have fallen;  
-> They have been thrust down and cannot rise.
+> There the wrongdoers have fallen;  
+> They have been cast down and cannot rise.

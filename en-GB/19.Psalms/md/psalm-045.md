@@ -12,9 +12,9 @@
 
 ## Psalm 45:2
 
-> You are the most handsome of the sons of mankind;  
-> Grace is poured upon Your lips;  
-> Therefore God has blessed You forever.
+> You are the fairest among the sons of men;  
+> Grace flows from Your lips;  
+> Therefore God has blessed You eternally.
 
 ---
 
@@ -25,15 +25,15 @@
 
 ## Psalm 45:4
 
-> And in Your majesty ride on victoriously,  
-> For the cause of truth, humility, and righteousness;  
-> Let Your right hand teach You awesome things.
+> And in Your majesty ride forth triumphantly,  
+> For the sake of truth, humility, and righteousness;  
+> Let Your right hand reveal marvellous things.
 
 ## Psalm 45:5
 
-> Your arrows are sharp;  
-> The peoples fall under You;  
-> Your arrows are in the heart of the King’s enemies.
+> Your arrows are keen;  
+> The nations fall beneath You;  
+> Your arrows pierce the heart of the King’s foes.
 
 ## Psalm 45:6
 
@@ -42,31 +42,31 @@
 
 ## Psalm 45:7
 
-> You have loved righteousness and hated wickedness;  
+> You cherish righteousness and detest wickedness;  
 > Therefore God, Your God, has anointed You  
-> With the oil of joy above Your companions.
+> With the oil of joy above Your peers.
 
 ## Psalm 45:8
 
-> All Your garments are fragrant with myrrh, aloes, and cassia;  
-> From ivory palaces stringed instruments have made You joyful.
+> All Your garments are scented with myrrh, aloes, and cassia;  
+> From ivory palaces, stringed instruments have delighted You.
 
 ## Psalm 45:9
 
-> Kings’ daughters are among Your noble women;  
-> At Your right hand stands the queen in gold from Ophir.
+> Daughters of kings are among Your noble women;  
+> At Your right hand stands the queen adorned in gold from Ophir.
 
 ---
 
 ## Psalm 45:10
 
-> Listen, daughter, look and incline your ear:  
-> Forget your people and your father’s house;
+> Hear, daughter, observe and incline your ear:  
+> Leave behind your people and your father’s house;
 
 ## Psalm 45:11
 
-> Then the King will crave your beauty.  
-> Because He is your Lord, bow down to Him.
+> Then the King will desire your beauty.  
+> Because He is your Lord, honour Him.
 
 ## Psalm 45:12
 
@@ -75,8 +75,8 @@
 
 ## Psalm 45:13
 
-> The King’s daughter is all glorious within;  
-> Her clothing is interwoven with gold.
+> The King’s daughter is resplendent within;  
+> Her attire is woven with gold.
 
 ## Psalm 45:14
 
@@ -85,15 +85,15 @@
 
 ## Psalm 45:15
 
-> They will be brought with joy and rejoicing;  
-> They will enter into the King’s palace.
+> They will be brought with gladness and joy;  
+> They will enter the King’s palace.
 
 ---
 
 ## Psalm 45:16
 
-> In place of your fathers will be your sons;  
-> You shall make them princes in all the earth.
+> In place of your fathers shall be your sons;  
+> You will appoint them as princes throughout the land.
 
 ---
 

@@ -2,8 +2,8 @@
 
 ## Job 17:1
 
-> “My spirit is broken, my days are extinguished,  
-> The grave is ready for me.
+> “My spirit is crushed, my days are extinguished,  
+> The grave awaits me.
 
 ## Job 17:2
 
@@ -31,45 +31,45 @@
 
 ## Job 17:6
 
-> But He has made me a proverb among the people,  
+> Yet He has made me a byword among the people,  
 > And I am one at whom people spit.
 
 ## Job 17:7
 
-> My eye has also become inexpressive because of grief,  
+> My eye has also grown dim because of grief,  
 > And all my body parts are like a shadow.
 
 ## Job 17:8
 
-> The upright will be appalled at this,  
-> And the innocent will stir himself up against the godless.
+> The upright will be astonished at this,  
+> And the innocent will rise up against the godless.
 
 ## Job 17:9
 
-> Nevertheless the righteous will hold to his way,  
-> And the one who has clean hands will grow stronger and stronger.
+> Nevertheless the righteous will remain steadfast in his way,  
+> And the one who has clean hands will become ever stronger.
 
 ---
 
 ## Job 17:10
 
-> But come again all of you now,  
+> Yet return, all of you, I pray,  
 > For I do not find a wise man among you.
 
 ## Job 17:11
 
-> My days are past, my plans are torn apart,  
-> The wishes of my heart.
+> My days are past, my plans are shattered,  
+> The desires of my heart.
 
 ## Job 17:12
 
-> They make night into day, saying,  
+> They turn night into day, saying,  
 > ‘The light is near,’ in the presence of darkness.
 
 ## Job 17:13
 
-> If I hope for Sheol as my home,  
-> I make my bed in the darkness;
+> If I look to Sheol as my home,  
+> I spread my bed in the darkness;
 
 ## Job 17:14
 
@@ -79,9 +79,9 @@
 ## Job 17:15
 
 > Where then is my hope?  
-> And who looks at my hope?
+> And who observes my hope?
 
 ## Job 17:16
 
-> Will it go down with me to Sheol?  
+> Will it descend with me to Sheol?  
 > Shall we together go down into the dust?”

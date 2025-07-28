@@ -2,15 +2,15 @@
 
 ## 2 Kings 21:1
 
-Manasseh was twelve years old when he became king,  
-and he reigned fifty-five years in Jerusalem.  
-And his mother’s name was Hephzibah.
+Manasseh was twelve years old when he began his reign,  
+and he ruled for fifty-five years in Jerusalem.  
+His mother was named Hephzibah.
 
 ## 2 Kings 21:2
 
-He did evil in the sight of the Lord,  
-in accordance with the abominations of the nations  
-whom the Lord dispossessed before the sons of Israel.
+He acted wickedly in the eyes of the Lord,  
+following the detestable practices of the nations  
+that the Lord had driven out before the Israelites.
 
 ## 2 Kings 21:3
 
@@ -21,9 +21,9 @@ and he bowed down to all the host of heaven and served them.
 
 ## 2 Kings 21:4
 
-He also built altars in the house of the Lord,  
-of which the Lord had said,  
-“In Jerusalem I will put My name.”
+He also constructed altars in the house of the Lord,  
+where the Lord had declared,  
+“In Jerusalem I will place My name.”
 
 ## 2 Kings 21:5
 
@@ -40,9 +40,9 @@ He did much evil in the sight of the Lord, provoking Him to anger.
 ## 2 Kings 21:7
 
 Then he put the carved image of Asherah  
-that he had made in the house of which the Lord had said to David and to his son Solomon,  
+that he had made in the house about which the Lord had spoken to David and to his son Solomon,  
 “In this house and in Jerusalem, which I have chosen from all the tribes of Israel,  
-I will put My name forever.
+I will place My name forever.
 
 ## 2 Kings 21:8
 
@@ -79,13 +79,13 @@ therefore this is what the Lord, the God of Israel, says:
 
 > And I will stretch over Jerusalem the measuring line of Samaria,  
 > and the plumb line of the house of Ahab,  
-> and I will wipe Jerusalem as one wipes a dish,  
+> and I will cleanse Jerusalem as one cleanses a dish,  
 > wiping it and turning it upside down.
 
 ## 2 Kings 21:14
 
-> And I will abandon the remnant of My inheritance  
-> and hand them over to their enemies,  
+> And I will forsake the remnant of My inheritance  
+> and deliver them into the hands of their enemies,  
 > and they will become as plunder and spoils to all their enemies,
 
 ## 2 Kings 21:15
@@ -106,57 +106,57 @@ in doing evil in the sight of the Lord.
 
 ## 2 Kings 21:17
 
-Now the rest of the acts of Manasseh and all that he did,  
-and his sin which he committed,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+Now the remainder of the acts of Manasseh and all that he did,  
+and the sin he committed,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 21:18
 
-And Manasseh lay down with his fathers  
+And Manasseh rested with his ancestors  
 and was buried in the garden of his own house, in the garden of Uzza,  
-and his son Amon became king in his place.
+and his son Amon succeeded him as king.
 
 ---
 
 ## 2 Kings 21:19
 
-Amon was twenty-two years old when he became king,  
-and he reigned two years in Jerusalem.  
-And his mother’s name was Meshullemeth the daughter of Haruz of Jotbah.
+Amon was twenty-two years old when he began his reign,  
+and he ruled for two years in Jerusalem.  
+His mother was Meshullemeth, the daughter of Haruz of Jotbah.
 
 ## 2 Kings 21:20
 
-He did evil in the sight of the Lord,  
+He acted wickedly in the eyes of the Lord,  
 just as his father Manasseh had done.
 
 ## 2 Kings 21:21
 
-For he walked in all the ways that his father had walked,  
+For he followed all the ways that his father had followed,  
 and served the idols that his father had served, and bowed down to them.
 
 ## 2 Kings 21:22
 
-So he abandoned the Lord, the God of his fathers,  
+So he forsook the Lord, the God of his ancestors,  
 and did not walk in the way of the Lord.
 
 ## 2 Kings 21:23
 
-And the servants of Amon conspired against him  
+And the servants of Amon plotted against him  
 and killed the king in his own house.
 
 ## 2 Kings 21:24
 
-Then the people of the land killed all those who had conspired against King Amon,  
-and the people of the land made his son Josiah king in his place.
+Then the people of the land dealt with those who had conspired against King Amon,  
+and they appointed his son Josiah as king in his place.
 
 ---
 
 ## 2 Kings 21:25
 
-Now the rest of the acts of Amon, which he did,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+Now the remainder of the acts of Amon, which he did,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 21:26
 
-And he was buried in his grave in the garden of Uzza,  
-and his son Josiah became king in his place.
+And he was buried in his tomb in the garden of Uzza,  
+and his son Josiah succeeded him as king.

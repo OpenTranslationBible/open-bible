@@ -149,9 +149,9 @@ For that reason he has not come to the king’s table.”
 
 ## 1 Samuel 20:30
 
-Then Saul’s anger burned against Jonathan and he said to him,  
-“You son of a perverse, rebellious woman!  
-Do I not know that you are choosing the son of Jesse to your own shame and to the shame of your mother’s nakedness?
+Then Saul’s anger flared against Jonathan and he said to him,  
+“You son of a wayward and rebellious woman!  
+Do I not know that you are choosing the son of Jesse to your own shame and to the shame of your mother’s disgrace?
 
 ## 1 Samuel 20:31
 

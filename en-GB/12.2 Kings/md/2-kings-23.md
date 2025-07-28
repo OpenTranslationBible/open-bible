@@ -2,8 +2,8 @@
 
 ## 2 Kings 23:1
 
-Then the king sent messengers,  
-and they gathered to him all the elders of Judah and Jerusalem.
+The king sent messengers,  
+and they assembled all the elders of Judah and Jerusalem to him.
 
 ## 2 Kings 23:2
 
@@ -61,13 +61,13 @@ which were on one’s left at the city gate.
 
 ## 2 Kings 23:9
 
-Nevertheless, the priests of the high places did not go up to the altar of the Lord in Jerusalem,  
+Yet the priests of the high places did not ascend to the altar of the Lord in Jerusalem,  
 but they ate unleavened bread among their brothers.
 
 ## 2 Kings 23:10
 
-He also defiled Topheth, which is in the Valley of the Son of Hinnom,  
-so that no one would make his son or his daughter pass through the fire for Molech.
+He also desecrated Topheth, located in the Valley of the Son of Hinnom,  
+to prevent anyone from making his son or daughter pass through the fire for Molech.
 
 ## 2 Kings 23:11
 
@@ -148,7 +148,7 @@ then he returned to Jerusalem.
 
 ## 2 Kings 23:21
 
-Then the king commanded all the people, saying,  
+The king commanded all the people, saying,  
 “Celebrate the Passover to the Lord your God  
 as it is written in this Book of the Covenant.”
 
@@ -160,8 +160,8 @@ nor in all the days of the kings of Israel and the kings of Judah.
 
 ## 2 Kings 23:23
 
-But in the eighteenth year of King Josiah,  
-this Passover was celebrated to the Lord in Jerusalem.
+However, in the eighteenth year of King Josiah,  
+this Passover was held to the Lord in Jerusalem.
 
 ---
 
@@ -199,8 +199,8 @@ and the temple of which I said, ‘My name shall be there.’”
 
 ## 2 Kings 23:28
 
-Now the rest of the acts of Josiah and all that he did,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+As for the rest of the acts of Josiah and all that he did,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 23:29
 
@@ -221,8 +221,8 @@ anointed him, and made him king in place of his father.
 ## 2 Kings 23:31
 
 Jehoahaz was twenty-three years old when he became king,  
-and he reigned three months in Jerusalem.  
-And his mother’s name was Hamutal the daughter of Jeremiah of Libnah.
+and he reigned for three months in Jerusalem.  
+His mother’s name was Hamutal, the daughter of Jeremiah of Libnah.
 
 ## 2 Kings 23:32
 
@@ -232,7 +232,7 @@ in accordance with all that his fathers had done.
 ## 2 Kings 23:33
 
 And Pharaoh Neco imprisoned him at Riblah in the land of Hamath,  
-so that he would not reign in Jerusalem;  
+preventing him from reigning in Jerusalem;  
 and he imposed on the land a fine of a hundred talents of silver and a talent of gold.
 
 ## 2 Kings 23:34
@@ -253,8 +253,8 @@ to give it to Pharaoh Neco.
 ## 2 Kings 23:36
 
 Jehoiakim was twenty-five years old when he became king,  
-and he reigned eleven years in Jerusalem.  
-And his mother’s name was Zebidah the daughter of Pedaiah of Rumah.
+and he reigned for eleven years in Jerusalem.  
+His mother’s name was Zebidah, the daughter of Pedaiah of Rumah.
 
 ## 2 Kings 23:37
 

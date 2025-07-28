@@ -37,13 +37,13 @@ For this is what the Lord says to the house of Israel:
 ## Amos 5:6
 
 > Seek the Lord, and live,
-> lest he break out like fire in the house of Joseph,
-> and it devour, with none to quench it for Bethel.
+> lest He unleash a fire upon the house of Joseph,
+> consuming it with no one to extinguish it for Bethel.
 
 ## Amos 5:7
 
-> There are those who turn justice into bitterness
-> and cast righteousness to the ground.
+> There are those who transform justice into bitterness
+> and throw righteousness to the ground.
 
 ## Amos 5:8
 
@@ -108,8 +108,8 @@ Therefore, this is what the Lord, the Lord God Almighty, says:
 
 ## Amos 5:17
 
-> There will be wailing in all the vineyards,
-> for I will pass through your midst,” says the Lord.
+> There will be lamentation in all the vineyards,
+> for I shall pass through your midst,” says the Lord.
 
 ## Amos 5:18
 
@@ -142,7 +142,7 @@ Therefore, this is what the Lord, the Lord God Almighty, says:
 
 ## Amos 5:23
 
-> Take away from me the noise of your songs;
+> Remove from me the noise of your songs;
 > I will not listen to the melody of your harps.
 
 ## Amos 5:24
@@ -164,4 +164,4 @@ Therefore, this is what the Lord, the Lord God Almighty, says:
 
 > Therefore I will send you into exile beyond Damascus,”
 
-says the Lord, whose name is God Almighty.
+declares the Lord, whose name is God Almighty.

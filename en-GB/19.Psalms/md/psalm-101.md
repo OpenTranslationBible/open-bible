@@ -9,26 +9,26 @@
 
 ## Psalm 101:2
 
-> I will carefully attend to the blameless way.  
-> When will You come to me?
+> I will strive to follow the path of integrity.  
+> When will You visit me?
 
 ---
 
-> I will walk within my house in the integrity of my heart.
+> I will conduct myself within my house with a sincere heart.
 
 ## Psalm 101:3
 
-> I will set no worthless thing before my eyes;
+> I will place nothing worthless before my eyes;
 
 ---
 
-> I hate the work of those who fall away;  
+> I despise the deeds of those who stray;  
 > It shall not cling to me.
 
 ## Psalm 101:4
 
-> A perverse heart shall leave me;  
-> I will know no evil.
+> A perverse heart shall depart from me;  
+> I will not engage in evil.
 
 ---
 
@@ -48,12 +48,12 @@
 
 ## Psalm 101:7
 
-> One who practices deceit shall not dwell within my house;  
-> One who speaks lies shall not maintain his position before me.
+> One who practices deceit shall not remain within my house;  
+> One who speaks lies shall not stand firm before me.
 
 ---
 
 ## Psalm 101:8
 
-> Every morning I will destroy all the wicked of the land,  
-> So as to eliminate from the city of the Lord all those who do injustice.
+> Every morning I will remove all the wicked of the land,  
+> So as to rid the city of the Lord of all those who commit injustice.

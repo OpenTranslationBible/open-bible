@@ -9,13 +9,12 @@ But David stayed behind in Jerusalem.
 
 ## 2 Samuel 11:2
 
-Now at evening time David got up from his bed and walked around on the roof of the king’s house,  
-and from the roof he saw a woman bathing;  
-and the woman was very beautiful in appearance.
+One evening, David rose from his bed and strolled on the roof of the king’s house.  
+From there, he saw a woman bathing, and she was very beautiful.
 
 ## 2 Samuel 11:3
 
-So David sent servants and inquired about the woman.  
+David sent servants to inquire about the woman.  
 And someone said,  
 “Is this not Bathsheba, the daughter of Eliam, the wife of Uriah the Hittite?”
 
@@ -34,7 +33,7 @@ so she sent word to David, and said, “I am pregnant.”
 
 ## 2 Samuel 11:6
 
-Then David sent to Joab, saying, “Send me Uriah the Hittite.”  
+David then sent a message to Joab, saying, “Send Uriah the Hittite to me.”  
 So Joab sent Uriah to David.
 
 ## 2 Samuel 11:7
@@ -43,12 +42,12 @@ When Uriah came to him, David asked about Joab’s well-being and the people’s
 
 ## 2 Samuel 11:8
 
-Then David said to Uriah, “Go down to your house, and wash your feet.”  
-So Uriah left the king’s house, and a gift from the king was sent after him.
+David said to Uriah, “Go down to your house, and refresh yourself.”  
+So Uriah left the king’s house, and a gift from the king followed him.
 
 ## 2 Samuel 11:9
 
-But Uriah slept at the entrance of the king’s house with all the servants of his lord,  
+However, Uriah slept at the entrance of the king’s house with all the servants of his lord,  
 and did not go down to his house.
 
 ## 2 Samuel 11:10
@@ -94,9 +93,9 @@ he assigned Uriah to the place where he knew there were valiant men.
 
 ## 2 Samuel 11:17
 
-And the men of the city went out and fought against Joab,  
+The men of the city went out and fought against Joab,  
 and some of the people among David’s servants fell;  
-and Uriah the Hittite also died.
+Uriah the Hittite also died.
 
 ## 2 Samuel 11:18
 
@@ -109,8 +108,8 @@ He commanded the messenger, saying,
 
 ## 2 Samuel 11:20
 
-and if it happens that the king’s wrath rises and he says to you,  
-‘Why did you go so near to the city to fight?  
+and if the king’s anger arises and he says to you,  
+‘Why did you approach the city so closely to fight?  
 Did you not know that they would shoot from the wall?
 
 ## 2 Samuel 11:21
@@ -130,8 +129,8 @@ So the messenger departed and came and told David everything that Joab had sent 
 ## 2 Samuel 11:23
 
 And the messenger said to David,  
-“The men prevailed against us and came out against us in the field,  
-but we pressed them as far as the entrance of the gate.
+“The men gained the upper hand against us and came out to us in the field,  
+but we drove them back to the entrance of the gate.
 
 ## 2 Samuel 11:24
 

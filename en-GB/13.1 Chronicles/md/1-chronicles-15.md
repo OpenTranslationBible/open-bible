@@ -2,33 +2,33 @@
 
 ## 1 Chronicles 15:1
 
-Now David built houses for himself in the city of David;  
-and he prepared a place for the ark of God,
+David constructed houses for himself in the city of David;  
+and he made ready a place for the ark of God,
 
-> and pitched a tent for it.
+> and set up a tent for it.
 
 ---
 
 ## 1 Chronicles 15:2
 
-Then David said,
+Then David declared,
 
-> “No one is to carry the ark of God except the Levites,  
-> for the Lord chose them to carry the ark of the Lord  
-> and to serve Him forever.”
+> “No one is to transport the ark of God except the Levites,  
+> for the Lord has chosen them to bear the ark of the Lord  
+> and to serve Him perpetually.”
 
 ---
 
 ## 1 Chronicles 15:3
 
-And David assembled all Israel at Jerusalem  
-to bring up the ark of the Lord to its place which he had prepared for it.
+David gathered all Israel at Jerusalem  
+to bring up the ark of the Lord to the location he had prepared for it.
 
 ---
 
 ## 1 Chronicles 15:4
 
-David called together the sons of Aaron and the Levites:
+David summoned the sons of Aaron and the Levites:
 
 ---
 
@@ -98,7 +98,7 @@ and said to them,
 
 ## 1 Chronicles 15:14
 
-So the priests and the Levites consecrated themselves  
+Thus, the priests and the Levites set themselves apart  
 to bring up the ark of the Lord God of Israel.
 
 ---
@@ -123,7 +123,7 @@ Then David spoke to the chiefs of the Levites
 
 ## 1 Chronicles 15:17
 
-So the Levites appointed:
+So the Levites selected:
 
 > Heman the son of Joel,  
 > and from his relatives Asaph the son of Berechiah,  
@@ -141,7 +141,7 @@ and with them their relatives of the second rank:
 
 ## 1 Chronicles 15:19
 
-So the singers, Heman, Asaph, and Ethan were appointed
+Thus, the singers, Heman, Asaph, and Ethan were appointed
 
 > to sound aloud cymbals of bronze;
 
@@ -151,7 +151,7 @@ So the singers, Heman, Asaph, and Ethan were appointed
 
 and Zechariah, Aziel, Shemiramoth, Jehiel, Unni, Eliab, Maaseiah, and Benaiah
 
-> with harps tuned to alamoth;
+> with harps set to the alamoth tuning;
 
 ---
 
@@ -165,9 +165,9 @@ and Mattithiah, Eliphelehu, Mikneiah, Obed-edom, Jeiel, and Azaziah
 
 ## 1 Chronicles 15:22
 
-Chenaniah, chief of the Levites, was in charge of the singing;
+Chenaniah, chief of the Levites, was responsible for the singing;
 
-> he gave instruction in singing because he was skillful.
+> he provided instruction in singing because he was skillful.
 
 ---
 
@@ -188,8 +188,8 @@ And the priests Shebaniah, Joshaphat, Nethanel, Amasai, Zechariah, Benaiah, and 
 
 ## 1 Chronicles 15:25
 
-So it was David, with the elders of Israel and the captains over thousands,  
-who went to bring up the ark of the covenant of the Lord
+Thus, David, with the elders of Israel and the captains over thousands,  
+went to bring up the ark of the covenant of the Lord
 
 > from the house of Obed-edom with joy.
 
@@ -197,15 +197,15 @@ who went to bring up the ark of the covenant of the Lord
 
 ## 1 Chronicles 15:26
 
-And because God was helping the Levites who were carrying the ark of the covenant of the Lord,
+And because God was aiding the Levites who were carrying the ark of the covenant of the Lord,
 
-> they sacrificed seven bulls and seven rams.
+> they offered seven bulls and seven rams.
 
 ---
 
 ## 1 Chronicles 15:27
 
-Now David was clothed with a robe of fine linen with all the Levites  
+Now David was dressed in a robe of fine linen along with all the Levites  
 who were carrying the ark, and the singers and Chenaniah the leader of the singing with the singers.
 
 > David also wore a linen ephod.

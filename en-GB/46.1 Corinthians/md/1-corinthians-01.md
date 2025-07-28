@@ -74,10 +74,10 @@ For the message of the cross seems like foolishness to the lost, but to us who a
 
 ## 1 Corinthians 1:19
 
-For it is written:
+For scripture says:
 
-> “I will destroy the wisdom of the wise,  
-> And the understanding of those who have understanding, I will confound.”
+> “I will bring to nothing the wisdom of the wise,  
+> And the understanding of the discerning I will thwart.”
 
 ## 1 Corinthians 1:20
 

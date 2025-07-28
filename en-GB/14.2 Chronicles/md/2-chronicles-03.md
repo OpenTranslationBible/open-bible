@@ -2,10 +2,10 @@
 
 ## 2 Chronicles 3:1
 
-Then Solomon began to build the house of the Lord in Jerusalem on Mount Moriah,
+Solomon initiated the construction of the house of the Lord in Jerusalem on Mount Moriah,
 
 > where the Lord had appeared to his father David,  
-> at the place that David had prepared on the threshing floor of Ornan the Jebusite.
+> at the location that David had prepared on the threshing floor of Ornan the Jebusite.
 
 ---
 
@@ -69,7 +69,7 @@ Then he made the Most Holy Place.
 
 ## 2 Chronicles 3:9
 
-The weight of the nails was fifty shekels of gold.
+The nails weighed fifty shekels of gold.
 
 > He also overlaid the upper rooms with gold.
 
@@ -101,15 +101,15 @@ The wingspan of the cherubim was twenty cubits:
 
 ## 2 Chronicles 3:13
 
-The wings of these cherubim extended twenty cubits,
+The cherubim's wings stretched twenty cubits,
 
-> and they stood on their feet facing the main room.
+> and they stood upright facing the main room.
 
 ---
 
 ## 2 Chronicles 3:14
 
-He made the veil of violet, purple, crimson, and fine linen,
+He crafted the veil of violet, purple, crimson, and fine linen,
 
 > and he worked cherubim into it.
 
@@ -117,7 +117,7 @@ He made the veil of violet, purple, crimson, and fine linen,
 
 ## 2 Chronicles 3:15
 
-He also made two pillars for the front of the house, thirty-five cubits high,
+He also fashioned two pillars for the front of the house, thirty-five cubits high,
 
 > and the capital on the top of each was five cubits.
 
@@ -125,7 +125,7 @@ He also made two pillars for the front of the house, thirty-five cubits high,
 
 ## 2 Chronicles 3:16
 
-He made chains in the inner sanctuary and placed them on the tops of the pillars,
+He created chains in the inner sanctuary and placed them on the tops of the pillars,
 
 > and he made one hundred pomegranates and placed them on the chains.
 

@@ -26,9 +26,9 @@ I saw the Lord standing beside the altar, and He said,
 
 ## Amos 9:4
 
-> And though they go into captivity before their enemies,  
-> From there I will command the sword and it will kill them,  
-> And I will set My eyes against them for harm and not for good.”
+> Even if they are led into captivity by their enemies,  
+> From there I will command the sword to bring about their end,  
+> And I will set My eyes against them for adversity and not for good.”
 
 ## Amos 9:5
 
@@ -40,10 +40,10 @@ I saw the Lord standing beside the altar, and He said,
 
 ## Amos 9:6
 
-> The One who builds His upper chambers in the heavens  
-> And has founded His vaulted dome over the earth,  
-> He who calls for the waters of the sea  
-> And pours them out on the face of the earth,  
+> The One who constructs His upper chambers in the heavens  
+> And establishes His arch over the earth,  
+> He who summons the waters of the sea  
+> And pours them out upon the surface of the earth,  
 > The Lord is His name.
 
 ## Amos 9:7
@@ -69,22 +69,22 @@ I saw the Lord standing beside the altar, and He said,
 
 ## Amos 9:10
 
-> All the sinners of My people will die by the sword,  
-> Those who say, ‘The catastrophe will not overtake or confront us.’
+> All the wrongdoers of My people will perish by the sword,  
+> Those who say, ‘The disaster will not overtake or confront us.’
 
 ## Amos 9:11
 
-On that day I will raise up the fallen shelter of David,
+In that day, I will restore the fallen shelter of David,
 
-> And wall up its gaps;  
-> I will also raise up its ruins  
+> And repair its breaches;  
+> I will also restore its ruins  
 > And rebuild it as in the days of old;
 
 ## Amos 9:12
 
-> So that they may possess the remnant of Edom  
-> And all the nations who are called by My name,”  
-> Declares the Lord who does this.
+> So that they may inherit the remnant of Edom  
+> And all the nations who bear My name,”  
+> Declares the Lord who accomplishes this.
 
 ## Amos 9:13
 
@@ -97,15 +97,15 @@ On that day I will raise up the fallen shelter of David,
 
 ## Amos 9:14
 
-> I will also restore the fortunes of My people Israel,  
-> And they will rebuild the desolated cities and live in them;  
+> I will also bring back the fortunes of My people Israel,  
+> And they will rebuild the desolated cities and inhabit them;  
 > They will also plant vineyards and drink their wine,  
 > And make gardens and eat their fruit.
 
 ## Amos 9:15
 
-> I will also plant them on their land,  
-> And they will not be uprooted again from their land  
+> I will also establish them in their land,  
+> And they shall not be removed again from the land  
 > Which I have given them,”
 
 Says the Lord your God.

@@ -59,10 +59,10 @@ women, sons, and daughters; and they took a great deal of plunder from them and 
 
 ## 2 Chronicles 28:9
 
-But a prophet of the Lord was there, whose name was Oded;  
-and he went out to meet the army which came to Samaria, and said to them,  
-“Behold, because the Lord, the God of your fathers, was angry with Judah,  
-He has handed them over to you, and you have killed them in a rage which has even reached heaven.
+However, a prophet of the Lord named Oded was present;  
+he approached the army returning to Samaria and said to them,  
+“See, because the Lord, the God of your ancestors, was displeased with Judah,  
+He has delivered them into your hands, and you have slain them in a fury that has reached up to heaven.
 
 ---
 
@@ -133,8 +133,8 @@ and had taken Beth-shemesh, Aijalon, Gederoth, Soco with its villages, Timnah wi
 
 ## 2 Chronicles 28:19
 
-For the Lord humbled Judah because of Ahaz king of Israel,  
-for he had brought about a lack of restraint in Judah, and was very unfaithful to the Lord.
+For the Lord brought Judah low because of Ahaz king of Israel,  
+for he had caused disorder in Judah, and was very unfaithful to the Lord.
 
 ---
 
@@ -176,15 +176,15 @@ and made altars for himself in every corner of Jerusalem.
 
 ## 2 Chronicles 28:25
 
-In every city of Judah he made high places to burn incense to other gods,  
-and provoked the Lord, the God of his fathers, to anger.
+Throughout every city of Judah he established high places to burn incense to other gods,  
+and incited the Lord, the God of his fathers, to anger.
 
 ---
 
 ## 2 Chronicles 28:26
 
-Now the rest of his acts and all his ways, from the first to the last,  
-behold, they are written in the Book of the Kings of Judah and Israel.
+Now the remainder of his acts and all his deeds, from the first to the last,  
+behold, they are recorded in the Book of the Kings of Judah and Israel.
 
 ---
 

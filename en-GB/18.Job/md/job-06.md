@@ -84,8 +84,8 @@ Then Job responded, saying
 
 ## Job 6:16
 
-> when darkened by thawing ice
-> and swollen with melting snow,
+> when they are darkened by thawing ice
+> and filled with melting snow,
 
 ## Job 6:17
 
@@ -94,8 +94,8 @@ Then Job responded, saying
 
 ## Job 6:18
 
-> The paths of their course wind along;
-> they go up into wasteland and perish.
+> Their paths meander;
+> they ascend into wasteland and are lost.
 
 ## Job 6:19
 
@@ -131,8 +131,8 @@ Then Job responded, saying
 
 ## Job 6:25
 
-> How painful are honest words!
-> But what do your arguments prove?
+> How difficult it is to hear honest words!
+> But what do your arguments establish?
 
 ## Job 6:26
 
@@ -141,8 +141,8 @@ Then Job responded, saying
 
 ## Job 6:27
 
-> You would even cast lots for the fatherless
-> and barter away your friend.
+> You would even gamble for the fatherless
+> and trade away your friend.
 
 ---
 

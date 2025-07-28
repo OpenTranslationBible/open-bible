@@ -2,8 +2,8 @@
 
 ## Psalm 43:1
 
-> Vindicate me, God, and plead my case against an ungodly nation;  
-> Save me from the deceitful and unjust person!
+> Defend me, God, and argue my case against a nation without godliness;  
+> Rescue me from the deceitful and unjust person!
 
 ## Psalm 43:2
 
@@ -12,21 +12,21 @@
 
 ## Psalm 43:3
 
-> Send out Your light and Your truth, they shall lead me;  
-> They shall bring me to Your holy hill  
+> Send forth Your light and Your truth, they shall guide me;  
+> They shall bring me to Your sacred hill  
 > And to Your dwelling places.
 
 ## Psalm 43:4
 
-> Then I will go to the altar of God,  
-> To God my exceeding joy;  
-> And I will praise You on the lyre, God, my God.
+> Then I will approach the altar of God,  
+> To God, my greatest joy;  
+> And I will praise You with the lyre, God, my God.
 
 ---
 
 ## Psalm 43:5
 
-> Why are you in despair, my soul?  
-> And why are you restless within me?  
-> Wait for God, for I will again praise Him  
+> Why are you downcast, my soul?  
+> And why are you unsettled within me?  
+> Hope in God, for I will yet praise Him  
 > For the help of His presence, my God.

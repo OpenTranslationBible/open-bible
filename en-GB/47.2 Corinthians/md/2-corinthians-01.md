@@ -2,8 +2,8 @@
 
 ## 2 Corinthians 1:1
 
-Paul, an apostle of Christ Jesus by the will of God, and Timothy our brother,  
-To the church of God which is at Corinth with all the saints who are throughout Achaia:
+From Paul, an apostle of Christ Jesus by God's will, and Timothy our brother,  
+To the church of God in Corinth, together with all the saints throughout Achaia:
 
 ## 2 Corinthians 1:2
 

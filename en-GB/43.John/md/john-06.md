@@ -148,7 +148,7 @@ They said to Him, “Lord, always give us this bread.”
 
 ## John 6:35
 
-Jesus declared, “I am the bread of life. Whoever comes to me and believes in Me, shall not ever hunger, nor shall they thirst again.
+Jesus declared, “I am the sustenance of life. Whoever comes to me and believes in Me, shall not ever hunger, nor shall they thirst again.
 
 ## John 6:36
 
@@ -202,7 +202,7 @@ Truly, truly, I say to you, whoever believes possesses eternal life.
 
 ## John 6:48
 
-I am the bread of life.
+I am the sustenance of life.
 
 ## John 6:49
 

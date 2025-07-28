@@ -2,7 +2,7 @@
 
 ## 1 Chronicles 6:1
 
-The sons of Levi were:
+The descendants of Levi included:
 
 > Gershon, Kohath, and Merari.
 
@@ -10,7 +10,7 @@ The sons of Levi were:
 
 ## 1 Chronicles 6:2
 
-The sons of Kohath were:
+Kohath's lineage comprised:
 
 > Amram, Izhar, Hebron, and Uzziel.
 
@@ -18,7 +18,7 @@ The sons of Kohath were:
 
 ## 1 Chronicles 6:3
 
-The children of Amram were:
+The offspring of Amram were:
 
 > Aaron, Moses, and Miriam.  
 > And the sons of Aaron were:  
@@ -80,7 +80,7 @@ And Jehozadak went along when the Lord took Judah and Jerusalem into exile by th
 
 ## 1 Chronicles 6:16
 
-The sons of Levi were:
+The descendants of Levi included:
 
 > Gershom, Kohath, and Merari.
 
@@ -88,7 +88,7 @@ The sons of Levi were:
 
 ## 1 Chronicles 6:17
 
-These are the names of the sons of Gershom:
+These are the sons of Gershom:
 
 > Libni and Shimei.
 
@@ -96,7 +96,7 @@ These are the names of the sons of Gershom:
 
 ## 1 Chronicles 6:18
 
-The sons of Kohath were:
+Kohath's lineage comprised:
 
 > Amram, Izhar, Hebron, and Uzziel.
 
@@ -125,7 +125,7 @@ Of Gershom:
 
 ## 1 Chronicles 6:22
 
-The sons of Kohath were:
+Kohath's lineage comprised:
 
 > Amminadab who fathered, Korah who fathered, Assir,
 
@@ -141,7 +141,7 @@ The sons of Kohath were:
 
 ## 1 Chronicles 6:25
 
-The sons of Elkanah were:
+The offspring of Elkanah were:
 
 > Amasai and Ahimoth.
 
@@ -161,7 +161,7 @@ Elkanah:
 
 ## 1 Chronicles 6:28
 
-The sons of Samuel were:
+The offspring of Samuel were:
 
 > Joel the firstborn, and Abijah the second.
 
@@ -181,8 +181,8 @@ The sons of Merari were:
 
 ## 1 Chronicles 6:31
 
-Now these are those whom David appointed over the service of song in the house of the Lord,  
-after the ark rested there.
+These are the ones whom David appointed over the service of song in the house of the Lord,  
+after the ark came to rest there.
 
 ---
 
@@ -276,7 +276,7 @@ of the house of God.
 
 ## 1 Chronicles 6:49
 
-But Aaron and his sons made offerings on the altar of burnt offering  
+However, Aaron and his sons made offerings on the altar of burnt offering  
 and on the altar of incense, for all the work of the Most Holy Place,  
 and to make atonement for Israel, according to all that Moses the servant of God had commanded.
 
@@ -323,7 +323,7 @@ but they gave the fields of the city and its villages to Caleb, son of Jephunneh
 
 ## 1 Chronicles 6:57
 
-To the sons of Aaron they gave the following cities of refuge:
+To the sons of Aaron they provided the following cities of refuge:
 
 > Hebron, Libnah with its pasture lands, Jattir, Eshtemoa with its pasture lands,
 
@@ -376,7 +376,7 @@ Thus, the Israelites provided the Levites with the cities and their pasture land
 
 ## 1 Chronicles 6:65
 
-They gave by lot from the tribe of the sons of Judah, the tribe of the sons of Simeon,  
+They allocated by lot from the tribe of the sons of Judah, the tribe of the sons of Simeon,  
 and the tribe of the sons of Benjamin,  
 these cities which are mentioned by name.
 
@@ -384,7 +384,7 @@ these cities which are mentioned by name.
 
 ## 1 Chronicles 6:66
 
-Now some of the families of the sons of Kohath had cities of their territory  
+Now some of the families of the sons of Kohath had cities of their inheritance  
 from the tribe of Ephraim.
 
 ---

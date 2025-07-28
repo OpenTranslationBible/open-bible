@@ -150,7 +150,7 @@ Behold, I will surely gather them from all the lands where I have driven them in
 
 ## Jeremiah 32:38
 
-They shall be My people, and I will be their God.
+They will belong to Me as My people, and I will be their God.
 
 ## Jeremiah 32:39
 

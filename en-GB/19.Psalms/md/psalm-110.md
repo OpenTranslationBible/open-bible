@@ -25,24 +25,24 @@
 
 ## Psalm 110:4
 
-> The Lord has sworn and will not change His mind,  
+> The Lord has made an unchangeable oath,  
 > “You are a priest forever  
-> According to the order of Melchizedek.”
+> In the manner of Melchizedek.”
 
 ---
 
 ## Psalm 110:5
 
-> The Lord is at Your right hand;  
-> He will shatter kings on the day of His wrath.
+> The Lord stands at Your right hand;  
+> He will crush kings on the day of His anger.
 
 ## Psalm 110:6
 
-> He will judge among the nations,  
-> He will fill them with corpses,  
-> He will shatter the chief men over a broad country.
+> He will execute judgement among the nations,  
+> Filling them with the fallen,  
+> He will crush the leaders over a vast land.
 
 ## Psalm 110:7
 
-> He will drink from the brook by the wayside;  
-> Therefore He will lift up His head.
+> He will refresh Himself from the brook by the path;  
+> Therefore He will hold His head high.

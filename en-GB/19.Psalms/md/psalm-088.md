@@ -9,20 +9,20 @@
 
 ## Psalm 88:2
 
-> Let my prayer come before You;  
-> Incline Your ear to my cry!
+> May my prayer reach You;  
+> Please listen to my plea!
 
 ---
 
 ## Psalm 88:3
 
-> For my soul has had enough troubles,  
-> And my life has approached Sheol.
+> For my soul is overwhelmed with troubles,  
+> And my life draws near to Sheol.
 
 ## Psalm 88:4
 
-> I am counted among those who go down to the pit;  
-> I have become like a man without strength,
+> I am regarded as one who descends to the pit;  
+> I have become like a person without strength,
 
 ## Psalm 88:5
 
@@ -35,19 +35,19 @@
 
 ## Psalm 88:6
 
-> You have put me in the lowest pit,  
+> You have placed me in the lowest pit,  
 > In dark places, in the depths.
 
 ## Psalm 88:7
 
-> Your wrath has rested upon me,  
-> And You have afflicted me with all Your waves.
+> Your wrath has weighed heavily upon me,  
+> And You have overwhelmed me with all Your waves.
 
 > Selah
 
 ## Psalm 88:8
 
-> You have removed my acquaintances far from me;  
+> You have distanced my acquaintances from me;  
 > You have made me an object of loathing to them;  
 > I am shut in and cannot go out.
 
@@ -62,19 +62,19 @@
 
 ## Psalm 88:10
 
-> Will You perform wonders for the dead?  
+> Will You work wonders for the dead?  
 > Or will the departed spirits rise and praise You?
 
 > Selah
 
 ## Psalm 88:11
 
-> Will Your mercy be declared in the grave,  
+> Will Your mercy be proclaimed in the grave,  
 > Your faithfulness in Abaddon?
 
 ## Psalm 88:12
 
-> Will Your wonders be made known in the darkness?  
+> Will Your wonders be revealed in the darkness?  
 > And Your righteousness in the land of forgetfulness?
 
 ---
@@ -82,31 +82,31 @@
 ## Psalm 88:13
 
 > But I, Lord, have cried out to You for help,  
-> And in the morning my prayer comes before You.
+> And in the morning my prayer reaches You.
 
 ## Psalm 88:14
 
-> Lord, why do You reject my soul?  
+> Lord, why do You turn away from my soul?  
 > Why do You hide Your face from me?
 
 ---
 
 ## Psalm 88:15
 
-> I was miserable and about to die from my youth on;  
-> I suffer Your terrors; I grow weary.
+> I have been afflicted and near death from my youth;  
+> I endure Your terrors; I grow weary.
 
 ## Psalm 88:16
 
-> Your burning anger has passed over me;  
-> Your terrors have destroyed me.
+> Your fierce anger has swept over me;  
+> Your terrors have undone me.
 
 ## Psalm 88:17
 
 > They have surrounded me like water all day long;  
-> They have encircled me altogether.
+> They have encircled me completely.
 
 ## Psalm 88:18
 
-> You have removed lover and friend far from me;  
-> My acquaintances are in darkness.
+> You have taken lover and friend far from me;  
+> My acquaintances dwell in darkness.

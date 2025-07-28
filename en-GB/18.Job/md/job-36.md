@@ -60,8 +60,8 @@ Elihu continued speaking and said:
 
 ## Job 36:12
 
-> But if they do not listen, they will perish by the sword
-> and die without knowledge.
+> Yet if they do not listen, they will meet their end by the sword
+> and pass away without understanding.
 
 ---
 
@@ -116,8 +116,8 @@ Elihu continued speaking and said:
 
 ## Job 36:22
 
-> Behold, God is exalted in His power;
-> who is a teacher like Him?
+> Behold, God is supreme in His power;
+> who can instruct like Him?
 
 ## Job 36:23
 

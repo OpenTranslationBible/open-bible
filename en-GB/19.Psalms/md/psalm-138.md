@@ -9,26 +9,26 @@
 
 ## Psalm 138:2
 
-> I will bow down toward Your holy temple  
-> And give thanks to Your name for Your mercy and Your truth;  
-> For You have made Your word great according to all Your name.
+> I will bow in reverence toward Your sacred temple  
+> And express gratitude to Your name for Your mercy and Your truth;  
+> For You have magnified Your word in accordance with all Your name.
 
 ## Psalm 138:3
 
-> On the day I called, You answered me;  
-> You made me bold with strength in my soul.
+> On the day I called, You responded to me;  
+> You infused my soul with courage and strength.
 
 ---
 
 ## Psalm 138:4
 
-> All the kings of the earth will give thanks to You, Lord,  
-> When they have heard the words of Your mouth.
+> All the kings of the earth shall express gratitude to You, Lord,  
+> When they have heard the words spoken by Your mouth.
 
 ## Psalm 138:5
 
-> And they will sing of the ways of the Lord,  
-> For great is the glory of the Lord.
+> And they shall sing of the paths of the Lord,  
+> For the glory of the Lord is indeed great.
 
 ---
 
@@ -40,12 +40,12 @@
 
 ## Psalm 138:7
 
-> Though I walk in the midst of trouble, You will revive me;  
-> You will reach out with Your hand against the wrath of my enemies,  
-> And Your right hand will save me.
+> Even though I walk amidst trouble, You will revive me;  
+> You will extend Your hand against the anger of my enemies,  
+> And Your right hand will deliver me.
 
 ## Psalm 138:8
 
-> The Lord will accomplish what concerns me;  
+> The Lord will fulfil His purpose for me;  
 > Your mercy, Lord, is everlasting;  
 > Do not abandon the works of Your hands.

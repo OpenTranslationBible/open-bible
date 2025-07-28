@@ -11,8 +11,8 @@
 
 ## Psalm 15:2
 
-> One who walks with integrity, practices righteousness,  
-> And speaks truth in his heart.
+> A person who lives with integrity, acts justly,  
+> And speaks truthfully from the heart.
 
 ## Psalm 15:3
 
@@ -28,9 +28,9 @@
 
 ## Psalm 15:5
 
-> He does not lend his money at interest,  
-> Nor does he take a bribe against the innocent.
+> He does not lend his money unfairly,  
+> Nor does he accept a bribe against the innocent.
 
 ---
 
-> One who does these things will never be shaken.
+> Whoever lives in this manner will remain steadfast.

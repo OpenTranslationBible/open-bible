@@ -9,30 +9,30 @@
 
 ## Psalm 13:2
 
-> How long am I to feel anxious in my soul,  
-> With grief in my heart all the day?  
-> How long will my enemy be exalted over me?
+> How long will I carry this concern in my soul,  
+> With sorrow in my heart throughout the day?  
+> How long will my enemy triumph over me?
 
 ---
 
 ## Psalm 13:3
 
-> Consider and answer me, O Lord my God;  
-> Enlighten my eyes, or I will sleep the sleep of death,
+> Look upon me and respond, O Lord my God;  
+> Brighten my eyes, lest I fall into the sleep of death,
 
 ## Psalm 13:4
 
-> And my enemy will say, “I have overcome him,”  
-> And my adversaries will rejoice when I am shaken.
+> And my enemy will declare, “I have prevailed against him,”  
+> And my adversaries will be glad when I am unsettled.
 
 ---
 
 ## Psalm 13:5
 
-> But I have trusted in Your faithfulness;  
-> My heart shall rejoice in Your salvation.
+> Yet I have placed my trust in Your steadfast love;  
+> My heart shall find joy in Your deliverance.
 
 ## Psalm 13:6
 
 > I will sing to the Lord,  
-> Because He has looked after me.
+> Because He has been gracious to me.

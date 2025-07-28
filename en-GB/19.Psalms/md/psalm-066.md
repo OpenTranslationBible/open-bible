@@ -8,19 +8,19 @@
 
 ## Psalm 66:2
 
-> Sing the glory of His name;  
-> Make His praise glorious.
+> Sing of the splendour of His name;  
+> Make His praise resound gloriously.
 
 ## Psalm 66:3
 
-> Say to God, “How awesome are Your works!  
-> Because of the greatness of Your power Your enemies will pretend to obey You.
+> Say to God, “How marvellous are Your works!  
+> Because of the greatness of Your power, Your enemies will feign obedience to You.
 
 ## Psalm 66:4
 
 > All the earth will worship You,  
 > And will sing praises to You;  
-> They will sing praises to Your name.”
+> They will celebrate Your name.”
 
 > Selah
 
@@ -28,8 +28,8 @@
 
 ## Psalm 66:5
 
-> Come and see the works of God,  
-> Who is awesome in His deeds toward the sons of mankind.
+> Come and witness the works of God,  
+> Who is wondrous in His deeds toward the children of mankind.
 
 ## Psalm 66:6
 
@@ -40,7 +40,7 @@
 ## Psalm 66:7
 
 > He rules by His might forever;  
-> His eyes keep watch on the nations;  
+> His eyes observe the nations;  
 > The rebellious shall not exalt themselves.
 
 > Selah
@@ -49,47 +49,47 @@
 
 ## Psalm 66:8
 
-> Bless our God, you peoples,  
-> And sound His praise abroad,
+> Praise our God, you peoples,  
+> And let His praise be heard far and wide,
 
 ## Psalm 66:9
 
-> Who keeps us in life,  
-> And does not allow our feet to slip.
+> Who preserves our lives,  
+> And does not let our feet stumble.
 
 ## Psalm 66:10
 
-> For You have put us to the test, God;  
+> For You have tested us, God;  
 > You have refined us as silver is refined.
 
 ## Psalm 66:11
 
 > You brought us into the net;  
-> You laid an oppressive burden upon us.
+> You placed a heavy burden upon us.
 
 ## Psalm 66:12
 
-> You made men ride over our heads;  
-> We went through fire and through water.  
-> Yet You brought us out into a place of abundance.
+> You allowed men to ride over our heads;  
+> We went through fire and water.  
+> Yet You brought us out to a place of abundance.
 
 ---
 
 ## Psalm 66:13
 
 > I shall come into Your house with burnt offerings;  
-> I shall pay You my vows,
+> I shall fulfil my vows to You,
 
 ## Psalm 66:14
 
-> Which my lips uttered  
-> And my mouth spoke when I was in distress.
+> Which my lips have spoken  
+> And my mouth declared when I was in distress.
 
 ## Psalm 66:15
 
-> I shall offer to You burnt offerings of fat animals,  
+> I shall offer to You burnt offerings of well-fed animals,  
 > With the smoke of rams;  
-> I shall make an offering of bulls with male goats.
+> I shall present an offering of bulls with male goats.
 
 > Selah
 
@@ -97,26 +97,26 @@
 
 ## Psalm 66:16
 
-> Come and hear, all who fear God,  
-> And I will tell of what He has done for my soul.
+> Come and listen, all who fear God,  
+> And I will recount what He has done for my soul.
 
 ## Psalm 66:17
 
-> I cried to Him with my mouth,  
-> And He was exalted with my tongue.
+> I cried out to Him with my mouth,  
+> And His praise was on my tongue.
 
 ## Psalm 66:18
 
-> If I regard wickedness in my heart,  
-> The Lord will not hear;
+> If I cherish wickedness in my heart,  
+> The Lord will not listen;
 
 ## Psalm 66:19
 
-> But God has heard;  
-> He has given attention to the sound of my prayer.
+> But God has listened;  
+> He has attended to the voice of my prayer.
 
 ## Psalm 66:20
 
 > Blessed be God,  
 > Who has not turned away my prayer,  
-> Nor His favour from me.
+> Nor withheld His favour from me.

@@ -2,9 +2,9 @@
 
 ## 2 Chronicles 1:1
 
-Now Solomon the son of David established himself securely over his kingdom,
+Solomon, the son of David, firmly established his rule over his kingdom,
 
-> and the Lord his God was with him and exalted him greatly.
+> for the Lord his God was with him and greatly exalted him.
 
 ---
 
@@ -19,18 +19,18 @@ Solomon spoke to all Israel,
 
 ## 2 Chronicles 1:3
 
-Then Solomon and all the assembly with him went to the high place which was at Gibeon,
+Solomon, along with all the assembly, went to the high place at Gibeon,
 
-> because God’s tent of meeting was there, which Moses the servant of the Lord had made in the wilderness.
+> because God’s tent of meeting was there, which Moses, the servant of the Lord, had constructed in the wilderness.
 
 ---
 
 ## 2 Chronicles 1:4
 
-However, David had brought up the ark of God from Kiriath-jearim
+David, however, had brought the ark of God up from Kiriath-jearim
 
 > to the place he had prepared for it,  
-> for he had pitched a tent for it in Jerusalem.
+> for he had set up a tent for it in Jerusalem.
 
 ---
 
@@ -45,15 +45,15 @@ Now the bronze altar which Bezalel the son of Uri, the son of Hur, had made,
 
 ## 2 Chronicles 1:6
 
-Solomon went up there before the Lord to the bronze altar which was at the tent of meeting,
+Solomon approached the bronze altar before the Lord, which was at the tent of meeting,
 
-> and offered a thousand burnt offerings on it.
+> and offered a thousand burnt offerings upon it.
 
 ---
 
 ## 2 Chronicles 1:7
 
-In that night God appeared to Solomon and said to him,
+During the night, God appeared to Solomon and said,
 
 > “Ask what I shall give you.”
 
@@ -70,16 +70,16 @@ Solomon said to God,
 
 ## 2 Chronicles 1:9
 
-> Now, Lord God, Your promise to my father David is fulfilled,  
+> And now, Lord God, Your promise to my father David is fulfilled,  
 > for You have made me king over a people as numerous as the dust of the earth.
 
 ---
 
 ## 2 Chronicles 1:10
 
-> Now give me wisdom and knowledge,  
-> so that I may go out and come in before this people,  
-> for who can rule this great people of Yours?”
+> Therefore, grant me wisdom and knowledge,  
+> so that I may lead this people,  
+> for who can govern this great people of Yours?”
 
 ---
 
@@ -106,10 +106,10 @@ Then God said to Solomon,
 
 ## 2 Chronicles 1:13
 
-So Solomon went from the high place which was at Gibeon,
+Solomon departed from the high place at Gibeon,
 
-> from the tent of meeting, to Jerusalem,  
-> and he reigned over Israel.
+> from the tent of meeting, and went to Jerusalem,  
+> where he reigned over Israel.
 
 ---
 
@@ -124,7 +124,7 @@ Solomon amassed chariots and horsemen.
 
 ## 2 Chronicles 1:15
 
-The king made silver and gold as plentiful in Jerusalem as stones,
+The king made silver and gold as common in Jerusalem as stones,
 
 > and he made cedars as plentiful as sycamores in the lowland.
 
@@ -140,7 +140,7 @@ Solomon’s horses were imported from Egypt and from Kue;
 
 ## 2 Chronicles 1:17
 
-They imported chariots from Egypt for six hundred shekels of silver apiece,
+They imported chariots from Egypt for six hundred shekels of silver each,
 
 > and horses for one hundred and fifty.  
-> And by the same means they exported them to all the kings of the Hittites and the kings of Aram.
+> And by the same means, they exported them to all the kings of the Hittites and the kings of Aram.

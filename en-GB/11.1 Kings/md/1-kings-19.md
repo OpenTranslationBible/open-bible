@@ -2,8 +2,8 @@
 
 ## 1 Kings 19:1
 
-Now Ahab told Jezebel everything that Elijah had done,  
-and how he had killed all the prophets with the sword.
+Ahab reported to Jezebel all that Elijah had accomplished,  
+including how he had slain all the prophets with the sword.
 
 ## 1 Kings 19:2
 
@@ -13,9 +13,9 @@ if by this time tomorrow I do not make your life like the life of one of them.�
 
 ## 1 Kings 19:3
 
-And he was afraid, and got up and ran for his life,  
-and came to Beersheba, which belongs to Judah,  
-and he left his servant there.
+Elijah, filled with fear, arose and fled for his life,  
+arriving at Beersheba, which belongs to Judah,  
+where he left his servant.
 
 ## 1 Kings 19:4
 
@@ -37,13 +37,13 @@ So he ate and drank, and lay down again.
 
 ## 1 Kings 19:7
 
-But the angel of the Lord came back a second time and touched him, and said,  
-“Arise, eat, because the journey is too long for you.”
+But the angel of the Lord returned a second time, touched him, and said,  
+“Arise, eat, for the journey is too much for you.”
 
 ## 1 Kings 19:8
 
-So he arose and ate and drank,  
-and he journeyed in the strength of that food for forty days and forty nights  
+So he got up, ate and drank,  
+and travelled in the strength of that food for forty days and forty nights  
 to Horeb, the mountain of God.
 
 ---
@@ -75,7 +75,7 @@ And after the wind, an earthquake; but the Lord was not in the earthquake.
 ## 1 Kings 19:12
 
 And after the earthquake, a fire; but the Lord was not in the fire.  
-And after the fire, a sound of a gentle blowing.
+And after the fire, the sound of a gentle whisper.
 
 ## 1 Kings 19:13
 
@@ -93,23 +93,23 @@ And I alone am left; and they sought to take my life.”
 
 ## 1 Kings 19:15
 
-The Lord said to him,  
-“Go, return on your way to the wilderness of Damascus,  
-and when you have arrived, you shall anoint Hazael king over Aram;
+The Lord instructed him,  
+“Go, return by the way you came to the wilderness of Damascus,  
+and when you arrive, you shall anoint Hazael as king over Aram;
 
 ## 1 Kings 19:16
 
-and Jehu the son of Nimshi you shall anoint king over Israel;  
+and Jehu the son of Nimshi you shall anoint as king over Israel;  
 and Elisha the son of Shaphat of Abel-meholah you shall anoint as prophet in your place.
 
 ## 1 Kings 19:17
 
-And it shall come about that the one who escapes from the sword of Hazael, Jehu shall put to death,  
-and the one who escapes from the sword of Jehu, Elisha shall put to death.
+And it shall be that whoever escapes from the sword of Hazael, Jehu will put to death,  
+and whoever escapes from the sword of Jehu, Elisha will put to death.
 
 ## 1 Kings 19:18
 
-Yet I will leave seven thousand in Israel,  
+Yet I will preserve seven thousand in Israel,  
 all the knees that have not bowed to Baal and every mouth that has not kissed him.”
 
 ---
@@ -123,9 +123,9 @@ And Elijah passed by him and threw his cloak on him.
 
 ## 1 Kings 19:20
 
-Then he left the oxen behind and ran after Elijah, and said,  
+Then he left the oxen and ran after Elijah, and said,  
 “Please let me kiss my father and my mother, then I will follow you.”  
-And he said to him, “Go back, for what have I done to you?”
+And Elijah replied, “Go back, for what have I done to you?”
 
 ## 1 Kings 19:21
 

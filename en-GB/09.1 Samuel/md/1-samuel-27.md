@@ -10,8 +10,8 @@ and I will escape from his hand.”
 
 ## 1 Samuel 27:2
 
-So David set out and went over, he and the six hundred men who were with him,  
-to Achish the son of Maoch, king of Gath.
+Thus, David departed with the six hundred men who accompanied him,  
+to Achish, the son of Maoch, king of Gath.
 
 ## 1 Samuel 27:3
 
@@ -31,8 +31,8 @@ For why should your servant live in the royal city with you?”
 
 ## 1 Samuel 27:6
 
-So Achish gave him Ziklag that day;  
-therefore Ziklag has belonged to the kings of Judah to this day.
+Achish then granted him Ziklag on that day;  
+as a result, Ziklag has belonged to the kings of Judah to this day.
 
 ## 1 Samuel 27:7
 

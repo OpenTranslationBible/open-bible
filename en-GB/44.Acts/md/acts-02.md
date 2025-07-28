@@ -78,9 +78,7 @@ Instead, this is what was foretold through the prophet Joel:
 
 ## Acts 2:18
 
-> Even on my servants, both men and women,
-> I will pour out my Spirit in those days,
-> and they will prophesy.
+> On my servants, both men and women, I will pour out my Spirit in those days, and they will prophesy.
 
 ## Acts 2:19
 
@@ -90,14 +88,14 @@ Instead, this is what was foretold through the prophet Joel:
 
 ## Acts 2:20
 
-> The sun will be turned to darkness
-> and the moon to blood
+> The sun will become dark
+> and the moon will turn to blood
 > before the coming of the great and glorious day of the Lord.
 
 ## Acts 2:21
 
-> And everyone who calls on the name of the Lord
-> will be saved.’
+> And everyone who calls upon the name of the Lord
+> will find salvation.’
 
 ---
 
@@ -115,7 +113,7 @@ Yet God raised him from the dead, releasing him from the agony of death, because
 
 ## Acts 2:25
 
-David said about him:
+David spoke concerning him:
 
 > ‘I saw the Lord always before me.
 > Because he is at my right hand, I will not be shaken.
@@ -132,7 +130,7 @@ David said about him:
 
 ## Acts 2:28
 
-> You have made known to me the paths of life;
+> You have revealed to me the paths of life;
 > you will fill me with joy in your presence.’
 
 ---

@@ -2,8 +2,8 @@
 
 ## 1 Kings 10:1
 
-Now when the queen of Sheba heard about the fame of Solomon concerning the name of the Lord,  
-she came to test him with difficult questions.
+When the queen of Sheba heard of Solomon's fame related to the name of the Lord,  
+she came to challenge him with profound questions.
 
 ## 1 Kings 10:2
 
@@ -13,8 +13,8 @@ When she came to Solomon, she spoke with him about all that was in her heart.
 
 ## 1 Kings 10:3
 
-Solomon answered all her questions;  
-nothing was hidden from the king which he did not explain to her.
+Solomon responded to all her inquiries;  
+nothing was concealed from the king that he did not clarify for her.
 
 ## 1 Kings 10:4
 
@@ -93,24 +93,24 @@ and all the kings of the Arabs and the governors of the land.
 
 ## 1 Kings 10:16
 
-King Solomon made two hundred large shields of beaten gold,  
-six hundred shekels of gold went into each shield.
+King Solomon crafted two hundred large shields of beaten gold,  
+six hundred shekels of gold were used for each shield.
 
 ## 1 Kings 10:17
 
-And he made three hundred shields of beaten gold,  
-three minas of gold went into each shield;  
-and the king put them in the House of the Forest of Lebanon.
+And he fashioned three hundred shields of beaten gold,  
+three minas of gold were used for each shield;  
+and the king placed them in the House of the Forest of Lebanon.
 
 ## 1 Kings 10:18
 
-Moreover, the king made a great throne of ivory  
-and overlaid it with refined gold.
+Furthermore, the king constructed a great throne of ivory  
+and covered it with refined gold.
 
 ## 1 Kings 10:19
 
-There were six steps to the throne and a round top to the throne at its rear,  
-and arms on each side of the seat,  
+There were six steps to the throne and a rounded top at its rear,  
+with arms on each side of the seat,  
 and two lions standing beside the arms.
 
 ## 1 Kings 10:20
@@ -138,8 +138,8 @@ So King Solomon became greater than all the kings of the earth in wealth and in 
 
 ## 1 Kings 10:24
 
-All the earth was seeking the presence of Solomon,  
-to hear his wisdom which God had put in his heart.
+The whole world sought an audience with Solomon,  
+to hear the wisdom that God had placed in his heart.
 
 ## 1 Kings 10:25
 

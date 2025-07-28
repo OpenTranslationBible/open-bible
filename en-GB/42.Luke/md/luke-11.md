@@ -13,7 +13,7 @@ He responded, “When you pray, say:
 
 ## Luke 11:3
 
-> Give us each day our daily bread.
+> Provide us with the sustenance we need each day.
 
 ## Luke 11:4
 

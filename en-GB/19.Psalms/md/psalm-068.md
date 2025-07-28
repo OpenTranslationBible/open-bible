@@ -22,20 +22,20 @@
 
 ## Psalm 68:4
 
-> Sing to God, sing praises to His name;  
-> Exalt Him who rides through the deserts,  
-> Whose name is the Lord, and be jubilant before Him.
+> Sing to God, offer praises to His name;  
+> Lift up the One who journeys through the deserts,  
+> Whose name is the Lord, and be joyful before Him.
 
 ## Psalm 68:5
 
-> A father of the fatherless and a judge for the widows,  
+> A protector of orphans and a defender of widows,  
 > Is God in His holy dwelling.
 
 ## Psalm 68:6
 
-> God makes a home for the lonely;  
+> God provides a home for those who are alone;  
 > He leads out the prisoners into prosperity,  
-> Only the rebellious live in parched lands.
+> But the rebellious dwell in a dry land.
 
 ---
 
@@ -48,149 +48,149 @@
 
 ## Psalm 68:8
 
-> The earth quaked;  
-> The heavens also dropped rain at the presence of God;  
-> Sinai itself quaked at the presence of God, the God of Israel.
+> The earth trembled;  
+> The heavens also poured rain at the presence of God;  
+> Sinai itself shook at the presence of God, the God of Israel.
 
 ## Psalm 68:9
 
-> You made plentiful rain fall, God;  
-> You confirmed Your inheritance when it was parched.
+> You sent abundant rain, God;  
+> You restored Your inheritance when it was weary.
 
 ## Psalm 68:10
 
-> Your creatures settled in it;  
-> In Your kindness You provided for the poor, God.
+> Your people settled in it;  
+> In Your goodness You provided for the needy, God.
 
 ---
 
 ## Psalm 68:11
 
-> The Lord gives the command;  
-> The women who proclaim good news are a great army:
+> The Lord delivers the message;  
+> The women who proclaim the tidings are a great host:
 
 ## Psalm 68:12
 
-> “Kings of armies flee, they flee,  
-> And she who remains at home will divide the spoils!”
+> “Kings of armies retreat, they retreat,  
+> And she who stays at home divides the plunder!”
 
 ## Psalm 68:13
 
-> When you lie down among the sheepfolds,  
+> When you rest among the sheepfolds,  
 > You are like the wings of a dove covered with silver,  
-> And its pinions with glistening gold.
+> And its feathers with shimmering gold.
 
 ## Psalm 68:14
 
-> When the Almighty scattered the kings there,  
-> It was snowing in Zalmon.
+> When the Almighty scattered kings there,  
+> It was as if it snowed on Zalmon.
 
 ---
 
 ## Psalm 68:15
 
-> The mountain of Bashan is a mountain of God;  
+> The mountain of Bashan is a majestic mountain;  
 > The mountain of Bashan is a mountain of many peaks.
 
 ## Psalm 68:16
 
-> Why do you look with envy, you mountains of many peaks,  
-> At the mountain God has desired as His dwelling?  
-> Indeed, the Lord will dwell there forever.
+> Why do you gaze with envy, you rugged mountains,  
+> At the mountain God has chosen for His dwelling?  
+> Indeed, the Lord will reside there forever.
 
 ## Psalm 68:17
 
-> The chariots of God are myriads, thousands upon thousands;  
-> The Lord is among them as at Sinai, in holiness.
+> The chariots of God are countless, thousands upon thousands;  
+> The Lord is among them as He was at Sinai, in holiness.
 
 ## Psalm 68:18
 
-> You have ascended on high, You have led captive Your captives;  
-> You have received gifts among people,  
-> Even among the rebellious as well,  
+> You have ascended on high, You have led captives in Your train;  
+> You have received gifts from people,  
+> Even from the rebellious,  
 > That the Lord God may dwell there.
 
 ---
 
 ## Psalm 68:19
 
-> Blessed be the Lord, who daily bears our burden,  
+> Praise be to the Lord, who daily carries our burdens,  
 > The God who is our salvation.
 
 > Selah
 
 ## Psalm 68:20
 
-> God is to us a God of salvation;  
-> And to God the Lord belong ways of escape from death.
+> Our God is a God who saves;  
+> To the Sovereign Lord belong ways of escape from death.
 
 ## Psalm 68:21
 
-> God certainly will shatter the heads of His enemies,  
-> The hairy head of one who goes about in his guilt.
+> God will surely crush the heads of His enemies,  
+> The hairy crown of those who persist in their sins.
 
 ## Psalm 68:22
 
-> The Lord said, “I will bring them back from Bashan.  
+> The Lord declared, “I will bring them back from Bashan.  
 > I will bring them back from the depths of the sea,
 
 ## Psalm 68:23
 
-> So that your foot may shatter them in blood,  
-> And the tongue of your dogs may have its portion from your enemies.”
+> So that your foot may wade in their blood,  
+> And the tongues of your dogs may have their share from the foes.”
 
 ---
 
 ## Psalm 68:24
 
-> They have seen Your procession, God,  
+> They have witnessed Your procession, God,  
 > The procession of my God, my King, into the sanctuary.
 
 ## Psalm 68:25
 
-> The singers went on, the musicians after them,  
-> In the midst of the young women beating tambourines.
+> The singers lead the way, the musicians follow after,  
+> Among the young women playing tambourines.
 
 ## Psalm 68:26
 
-> Bless God in the congregations,  
+> Bless God in the assemblies,  
 > The Lord, you who are from the fountain of Israel.
 
 ## Psalm 68:27
 
-> Benjamin, the youngest, is there, ruling them,  
-> The leaders of Judah in their group,  
-> The leaders of Zebulun, the leaders of Naphtali.
+> Benjamin, the youngest, is there, leading them,  
+> The princes of Judah in their throng,  
+> The princes of Zebulun, the princes of Naphtali.
 
 ---
 
 ## Psalm 68:28
 
-> Your God has commanded your strength;  
-> Show Yourself strong, God, You who acted in our behalf.
+> Your God has ordained your strength;  
+> Display Your power, God, You who have acted on our behalf.
 
 ## Psalm 68:29
 
-> Because of Your temple at Jerusalem  
-> Kings will bring gifts to You.
+> Because of Your temple in Jerusalem,  
+> Rulers will bring tribute to You.
 
 ## Psalm 68:30
 
-> Rebuke the animals in the reeds,  
-> The herd of bulls with the calves of the peoples,  
-> Trampling under foot the pieces of silver;  
-> He has scattered the peoples who delight in war.
+> Rebuke the beasts among the reeds,  
+> The herd of bulls with the calves of the nations,  
+> Trampling down the pieces of silver;  
+> He has scattered the nations who delight in conflict.
 
 ## Psalm 68:31
 
-> Gifts will be brought from Egypt;  
+> Envoys will come from Egypt;  
 > Cush will quickly stretch out her hands to God.
 
 ---
 
 ## Psalm 68:32
 
-> Sing to God, you kingdoms of the earth,  
+> Sing to God, all you kingdoms of the earth,  
 > Sing praises to the Lord,
 
 > Selah
@@ -202,12 +202,12 @@
 
 ## Psalm 68:34
 
-> Ascribe strength to God;  
-> His majesty is over Israel,  
+> Ascribe power to God;  
+> His splendour is over Israel,  
 > And His strength is in the skies.
 
 ## Psalm 68:35
 
-> God, You are awesome from Your sanctuary.  
+> God, You are awe-inspiring from Your sanctuary.  
 > The God of Israel Himself gives strength and power to the people.  
 > Blessed be God!

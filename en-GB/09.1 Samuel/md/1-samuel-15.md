@@ -105,8 +105,8 @@ Samuel said,
 
 ## 1 Samuel 15:23
 
-> For rebellion is as the sin of divination,  
-> And insubordination is as iniquity and idolatry.  
+> For rebellion is like the sin of divination,  
+> And stubbornness is like iniquity and idolatry.  
 > Because you have rejected the word of the Lord,  
 > He has also rejected you from being king.”
 
@@ -148,8 +148,8 @@ So Samuel returned after Saul, and Saul worshipped the Lord.
 
 ## 1 Samuel 15:32
 
-Then Samuel said, “Bring me Agag the king of the Amalekites.”  
-And Agag came to him cheerfully. And Agag said, “Surely the bitterness of death is past.”
+Then Samuel said, “Bring Agag, the king of the Amalekites, to me.”  
+And Agag approached him cheerfully, saying, “Surely the bitterness of death has passed.”
 
 ## 1 Samuel 15:33
 
@@ -166,4 +166,4 @@ Then Samuel went to Ramah, while Saul went up to his house at Gibeah of Saul.
 ## 1 Samuel 15:35
 
 Samuel did not see Saul again until the day of his death;  
-for Samuel grieved over Saul, and the Lord regretted that He had made Saul king over Israel.
+for Samuel grieved over Saul, and the Lord lamented that He had made Saul king over Israel.

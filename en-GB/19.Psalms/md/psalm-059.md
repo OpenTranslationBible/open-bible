@@ -9,27 +9,27 @@
 
 ## Psalm 59:2
 
-> Rescue me from those who practice injustice,  
-> And save me from men of bloodshed.
+> Deliver me from those who commit injustice,  
+> And save me from violent men.
 
 ---
 
 ## Psalm 59:3
 
-> For behold, they have set an ambush for my life;  
+> For behold, they have laid a trap for my life;  
 > Fierce men attack me,  
-> Not for my wrongdoing nor for my sin, Lord,
+> Not because of any wrongdoing or sin of mine, Lord,
 
 ## Psalm 59:4
 
-> For no guilt of mine, they run and take their stand against me.  
-> Stir Yourself to help me, and see!
+> Without any guilt on my part, they run and take their stand against me.  
+> Rouse Yourself to help me, and see!
 
 ## Psalm 59:5
 
-> You, Lord God of armies, the God of Israel,  
-> Awake to punish all the nations;  
-> Do not be gracious to any who deal treacherously in wrongdoing.
+> You, Lord God of hosts, the God of Israel,  
+> Awake to bring justice to all the nations;  
+> Show no favour to those who act treacherously in wrongdoing.
 
 > Selah
 
@@ -37,49 +37,49 @@
 
 ## Psalm 59:6
 
-> They return at evening, they howl like a dog,  
-> And prowl around the city.
+> They return at evening, they growl like a dog,  
+> And roam around the city.
 
 ## Psalm 59:7
 
-> Behold, they gush forth with their mouths;  
+> Behold, they spew out with their mouths;  
 > Swords are in their lips,  
 > For, they say, “Who hears?”
 
 ## Psalm 59:8
 
-> But You, Lord, laugh at them;  
-> You scoff at all the nations.
+> Yet You, Lord, find them laughable;  
+> You hold all the nations in derision.
 
 ---
 
 ## Psalm 59:9
 
-> Because of his strength I will watch for You,  
+> In His strength, I will keep watch for You,  
 > For God is my refuge.
 
 ## Psalm 59:10
 
-> My God in His faithfulness will meet me;  
-> God will let me look triumphantly upon my enemies.
+> My God in His faithfulness will come to me;  
+> God will let me look in triumph upon my enemies.
 
 ---
 
 ## Psalm 59:11
 
-> Do not kill them, or my people will forget;  
-> Scatter them by Your power, and bring them down,  
+> Do not destroy them, lest my people forget;  
+> Scatter them by Your power and bring them down,  
 > Lord, our shield.
 
 ## Psalm 59:12
 
-> On account of the sin of their mouths and the words of their lips,  
-> May they even be caught in their pride,  
-> And on account of curses and lies which they tell.
+> Because of the sin of their mouths and the words of their lips,  
+> May they be caught in their pride,  
+> And because of curses and lies which they speak.
 
 ## Psalm 59:13
 
-> Destroy them in wrath, destroy them so that they will no longer exist;  
+> Consume them in wrath, consume them so they will be no more;  
 > So that people may know that God rules in Jacob,  
 > To the ends of the earth.
 
@@ -89,20 +89,20 @@
 
 ## Psalm 59:14
 
-> They return at evening, they howl like a dog,  
-> And prowl around the city.
+> They return at evening, they growl like a dog,  
+> And roam around the city.
 
 ## Psalm 59:15
 
 > They wander about for food,  
-> And murmur if they are not satisfied.
+> And grumble if they are not satisfied.
 
 ## Psalm 59:16
 
 > But as for me, I will sing of Your strength;  
 > Yes, I will joyfully sing of Your mercy in the morning,  
 > For You have been my refuge  
-> And a place of refuge on the day of my distress.
+> And a place of shelter on the day of my distress.
 
 ---
 

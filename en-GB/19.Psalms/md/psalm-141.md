@@ -9,22 +9,22 @@
 
 ## Psalm 141:2
 
-> May my prayer be counted as incense before You;  
-> The raising of my hands as the evening offering.
+> Let my prayer rise before You like incense;  
+> The lifting up of my hands like the evening sacrifice.
 
 ---
 
 ## Psalm 141:3
 
-> Set a guard, Lord, over my mouth;  
-> Keep watch over the door of my lips.
+> Place a guard, Lord, at my mouth;  
+> Watch over the entrance of my lips.
 
 ## Psalm 141:4
 
-> Do not incline my heart to any evil thing,  
-> To practice deeds of wickedness  
-> With people who do wrong;  
-> And may I not taste their delicacies.
+> Do not let my heart be drawn to anything evil,  
+> To engage in acts of wickedness  
+> With those who commit wrong;  
+> And may I not partake in their delicacies.
 
 ---
 
@@ -56,10 +56,10 @@
 
 ## Psalm 141:9
 
-> Keep me from the jaws of the trap which they have set for me,  
+> Protect me from the jaws of the trap they have set for me,  
 > And from the snares of those who do evil.
 
 ## Psalm 141:10
 
-> May the wicked fall into their own nets,  
-> While I pass by safely.
+> Let the wicked fall into their own nets,  
+> While I pass by unharmed.

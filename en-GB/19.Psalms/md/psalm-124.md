@@ -9,13 +9,13 @@
 
 ## Psalm 124:2
 
-> “Had it not been the Lord who was on our side  
+> “If the Lord had not been on our side  
 > When people rose up against us,
 
 ## Psalm 124:3
 
-> Then they would have swallowed us alive,  
-> When their anger was kindled against us;
+> Then they would have devoured us completely,  
+> When their anger burned fiercely against us;
 
 ## Psalm 124:4
 
@@ -30,8 +30,8 @@
 
 ## Psalm 124:6
 
-> Blessed be the Lord,  
-> Who has not given us to be torn by their teeth.
+> Praised be the Lord,  
+> Who has not allowed us to be torn by their teeth.
 
 ## Psalm 124:7
 
@@ -40,5 +40,5 @@
 
 ## Psalm 124:8
 
-> Our help is in the name of the Lord,  
-> Who made heaven and earth.
+> Our aid is in the name of the Lord,  
+> Who created heaven and earth.

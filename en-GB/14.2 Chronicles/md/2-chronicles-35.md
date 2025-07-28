@@ -2,8 +2,8 @@
 
 ## 2 Chronicles 35:1
 
-Then Josiah celebrated the Passover to the Lord in Jerusalem,  
-and they slaughtered the Passover animals on the fourteenth day of the first month.
+Josiah observed the Passover for the Lord in Jerusalem,  
+and the Passover animals were sacrificed on the fourteenth day of the first month.
 
 ## 2 Chronicles 35:2
 
@@ -11,9 +11,9 @@ He appointed the priests to their duties and encouraged them in the service of t
 
 ## 2 Chronicles 35:3
 
-He also said to the Levites who taught all Israel and who were holy to the Lord,  
-“Put the holy ark in the house which Solomon the son of David, king of Israel, built;  
-it will be a burden on your shoulders no longer.  
+He instructed the Levites, who taught all Israel and were dedicated to the Lord,  
+“Place the holy ark in the house which Solomon, the son of David, king of Israel, built;  
+it will no longer be a burden on your shoulders.  
 Now serve the Lord your God and His people Israel.
 
 ## 2 Chronicles 35:4
@@ -56,12 +56,12 @@ the leaders of the Levites, provided for the Levites for the Passover offerings
 
 ## 2 Chronicles 35:10
 
-So the service was prepared, and the priests stood at their positions,  
+Thus the service was arranged, and the priests stood at their positions,  
 and the Levites by their divisions according to the king’s command.
 
 ## 2 Chronicles 35:11
 
-They slaughtered the Passover animals, and while the priests sprinkled the blood received from their hand,  
+They sacrificed the Passover animals, and while the priests sprinkled the blood they received,  
 the Levites skinned the animals.
 
 ## 2 Chronicles 35:12
@@ -77,9 +77,9 @@ and they boiled the holy things in pots, kettles, and pans, and carried them qui
 
 ## 2 Chronicles 35:14
 
-Afterward they prepared for themselves and for the priests,  
-because the priests, the sons of Aaron, were offering the burnt offerings and the fat until night.  
-So the Levites prepared for themselves and for the priests, the sons of Aaron.
+Afterward, they prepared for themselves and for the priests,  
+since the priests, the sons of Aaron, were occupied with offering the burnt offerings and the fat until night.  
+Thus, the Levites prepared for themselves and for the priests, the sons of Aaron.
 
 ---
 
@@ -94,31 +94,31 @@ They did not need to leave their service, because their countrymen the Levites p
 
 ## 2 Chronicles 35:16
 
-So all the service of the Lord was prepared on that day to celebrate the Passover,  
+Thus all the service of the Lord was arranged on that day to observe the Passover,  
 and to offer burnt offerings on the altar of the Lord according to the command of King Josiah.
 
 ## 2 Chronicles 35:17
 
-And the sons of Israel who were present celebrated the Passover at that time,  
+And the sons of Israel who were present observed the Passover at that time,  
 and the Feast of Unleavened Bread for seven days.
 
 ## 2 Chronicles 35:18
 
-There had not been celebrated a Passover like it in Israel since the days of Samuel the prophet;  
-nor had any of the kings of Israel celebrated such a Passover as Josiah did with the priests, the Levites,  
+There had not been a Passover like it in Israel since the days of Samuel the prophet;  
+nor had any of the kings of Israel observed such a Passover as Josiah did with the priests, the Levites,  
 all Judah and Israel who were present, and the inhabitants of Jerusalem.
 
 ## 2 Chronicles 35:19
 
-This Passover was celebrated during the eighteenth year of Josiah’s reign.
+This Passover was observed during the eighteenth year of Josiah’s reign.
 
 ---
 
 ## 2 Chronicles 35:20
 
-After all this, when Josiah had set the temple in order,  
-Neco king of Egypt came up to make war at Carchemish on the Euphrates,  
-and Josiah went out to engage him.
+Following all this, when Josiah had set the temple in order,  
+Neco king of Egypt came up to wage war at Carchemish on the Euphrates,  
+and Josiah went out to confront him.
 
 ## 2 Chronicles 35:21
 

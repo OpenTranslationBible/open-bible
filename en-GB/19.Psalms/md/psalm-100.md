@@ -8,23 +8,23 @@
 
 ## Psalm 100:2
 
-> Serve the Lord with jubilation;  
-> Come before Him with rejoicing.
+> Serve the Lord with gladness;  
+> Approach Him with joyful singing.
 
 ## Psalm 100:3
 
-> Know that the Lord Himself is God;  
-> It is He who has made us, and not we ourselves;  
-> We are His people and the sheep of His pasture.
+> Recognise that the Lord is indeed God;  
+> He is our Creator, and we did not create ourselves;  
+> We belong to Him, the flock under His care.
 
 ## Psalm 100:4
 
-> Enter His gates with thanksgiving,  
-> And His courtyards with praise.  
-> Give thanks to Him, bless His name.
+> Enter His gates with gratitude,  
+> And His courts with praise.  
+> Offer thanks to Him, honour His name.
 
 ## Psalm 100:5
 
 > For the Lord is good;  
-> His mercy is everlasting,  
-> And His faithfulness is to all generations.
+> His kindness endures forever,  
+> And His faithfulness continues through all generations.

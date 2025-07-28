@@ -2,40 +2,40 @@
 
 ## Habakkuk 2:1
 
-> I will stand at my guard post  
-> And station myself on the watchtower;  
-> And I will keep watch to see what He will say to me,  
-> And how I may reply when I am reprimanded.
+> I will take my stand at my guard post  
+> And position myself on the watchtower;  
+> I will watch to see what He will say to me,  
+> And how I should respond when I am corrected.
 
 ## Habakkuk 2:2
 
-Then the Lord answered me and said,
+Then the Lord replied to me and said,
 
-> “Write down the vision  
-> And inscribe it clearly on tablets,  
-> So that one who reads it may run.
+> “Record the vision  
+> And make it clear on tablets,  
+> So that anyone who reads it may run.
 
 ## Habakkuk 2:3
 
-> For the vision is yet for the appointed time;  
-> It hurries toward the goal and it will not fail.  
-> Though it delays, wait for it;  
-> For it will certainly come, it will not delay long.
+> For the vision awaits its appointed time;  
+> It hastens toward the goal and will not fail.  
+> Though it may delay, wait for it;  
+> For it will surely come, it will not be late.
 
 ## Habakkuk 2:4
 
-> “Behold, as for the impudent one,  
-> His soul is not right within him;  
-> But the righteous one will live by his faith.
+> “Behold, as for the proud one,  
+> His soul is not upright within him;  
+> But the righteous will live by his faith.
 
 ## Habakkuk 2:5
 
-> Furthermore, wine betrays an arrogant man,  
-> So that he does not achieve his objective.  
+> Moreover, wine deceives a proud man,  
+> So that he does not reach his goal.  
 > He enlarges his appetite like Sheol,  
-> And he is like death, never satisfied.  
+> And he is like death, never content.  
 > He also gathers to himself all the nations  
-> And collects to himself all the peoples.
+> And amasses to himself all the peoples.
 
 ## Habakkuk 2:6
 
@@ -48,61 +48,61 @@ Will all of these not take up a song of ridicule against him,
 
 ## Habakkuk 2:7
 
-> Will your creditors not rise up suddenly,  
+> Will those to whom you owe not rise up suddenly,  
 > And those who collect from you awaken?  
 > Indeed, you will become plunder for them.
 
 ## Habakkuk 2:8
 
-> Since you have looted many nations,  
-> All the rest of the peoples will loot you—  
+> Since you have plundered many nations,  
+> All the remaining peoples will plunder you—  
 > Because of human bloodshed and violence done to the land,  
 > To the town and all its inhabitants.
 
 ## Habakkuk 2:9
 
-> Woe to him who makes evil profit for his household,  
-> To put his nest on high,  
-> To be saved from the hand of catastrophe!
+> Woe to him who gains unjust profit for his household,  
+> To set his nest on high,  
+> To escape from the reach of disaster!
 
 ## Habakkuk 2:10
 
-> You have planned a shameful thing for your house  
-> By bringing many peoples to an end;  
+> You have devised a disgraceful plan for your house  
+> By bringing many peoples to ruin;  
 > So you are sinning against yourself.
 
 ## Habakkuk 2:11
 
 > For the stone will cry out from the wall,  
-> And the rafter will answer it from the framework.
+> And the beam will answer it from the framework.
 
 ## Habakkuk 2:12
 
 > Woe to him who builds a city with bloodshed,  
-> And founds a town with violence!
+> And establishes a town with violence!
 
 ## Habakkuk 2:13
 
-> Is it not indeed from the Lord of armies  
+> Is it not indeed from the Lord of hosts  
 > That peoples labour merely for fire,  
 > And nations become weary for nothing?
 
 ## Habakkuk 2:14
 
 > For the earth will be filled  
-> With the knowledge of the glory of the Lord,  
+> With the awareness of the Lord's glory,  
 > As the waters cover the sea.
 
 ## Habakkuk 2:15
 
 > Woe to him who makes his neighbour drink;  
-> To you who mix in your venom,  
+> To you who mix in your poison,  
 > Even to make your neighbours drunk  
-> So as to look at their nakedness!
+> So as to gaze upon their nakedness!
 
 ## Habakkuk 2:16
 
-> You will be filled with disgrace rather than honour.  
+> You will be filled with shame instead of honour.  
 > Drink, you yourself, and expose your own nakedness!  
 > The cup in the Lord’s right hand will come around to you,  
 > And utter disgrace will come upon your glory.
@@ -110,13 +110,13 @@ Will all of these not take up a song of ridicule against him,
 ## Habakkuk 2:17
 
 > For the violence done to Lebanon will overwhelm you,  
-> And the devastation of its animals by which you terrified them,  
+> And the destruction of its animals by which you terrified them,  
 > Because of human bloodshed and violence done to the land,  
 > To the town and all its inhabitants.
 
 ## Habakkuk 2:18
 
-> What benefit is a carved image when its maker has carved it,  
+> What value is a carved image when its maker has carved it,  
 > A cast metal image, a teacher of falsehood?  
 > For its maker trusts in his own handiwork  
 > When he fashions speechless idols.
@@ -125,11 +125,11 @@ Will all of these not take up a song of ridicule against him,
 
 > Woe to him who says to a piece of wood, ‘Awake!’  
 > To a mute stone, ‘Arise!’  
-> That is your teacher?  
+> Can that be your teacher?  
 > Behold, it is overlaid with gold and silver,  
 > Yet there is no breath at all inside it.
 
 ## Habakkuk 2:20
 
-> But the Lord is in His holy temple.  
-> Let all the earth be silent before Him.”
+> But the Lord resides in His holy temple.  
+> Let all the earth be still before Him.”

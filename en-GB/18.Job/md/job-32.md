@@ -92,8 +92,8 @@ So Elihu son of Barakel the Buzite declared:
 
 ## Job 32:18
 
-> For I am full of words,
-> and the spirit within me compels me.
+> For I am filled with words,
+> and the spirit within me urges me to speak.
 
 ## Job 32:19
 

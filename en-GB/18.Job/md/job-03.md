@@ -51,8 +51,8 @@ And he said:
 
 ## Job 3:10
 
-> because it did not shut the doors of my mother’s womb,
-> nor hide trouble from my eyes.
+> because it did not close the doors of my mother’s womb,
+> nor keep trouble away from my eyes.
 
 ---
 
@@ -68,7 +68,7 @@ And he said:
 
 ## Job 3:13
 
-> For now, I would be lying down in peace;
+> For now, I would be resting in peace;
 > I would be asleep and at rest,
 
 ## Job 3:14
@@ -78,7 +78,7 @@ And he said:
 
 ## Job 3:15
 
-> or with princes who had gold,
+> or with princes who possessed gold,
 > who filled their houses with silver.
 
 ## Job 3:16
@@ -88,18 +88,18 @@ And he said:
 
 ## Job 3:17
 
-> There the wicked cease from turmoil,
-> and there the weary are at rest.
+> There the wicked cease from their unrest,
+> and there the weary find rest.
 
 ## Job 3:18
 
 > The prisoners are at ease together;
-> they do not hear the voice of the taskmaster.
+> they do not hear the voice of the oppressor.
 
 ## Job 3:19
 
-> The small and the great are there,
-> and the slave is free from his master.
+> Both the humble and the mighty are there,
+> and the servant is liberated from his master.
 
 ---
 
@@ -120,8 +120,8 @@ And he said:
 
 ## Job 3:23
 
-> Why is light given to a man whose way is hidden,
-> whom God has hedged in?
+> Why is light given to a man whose path is concealed,
+> whom God has surrounded?
 
 ## Job 3:24
 

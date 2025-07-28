@@ -8,14 +8,14 @@
 
 ## Hosea 9:2
 
-> Threshing floor and wine press will not feed them,  
-> And the new wine will fail them.
+> The threshing floor and wine press will not sustain them,  
+> And the new wine will disappoint them.
 
 ## Hosea 9:3
 
-> They will not remain in the Lord’s land,  
+> They will not dwell in the Lord’s land,  
 > But Ephraim will return to Egypt,  
-> And in Assyria they will eat unclean food.
+> And in Assyria, they will consume impure food.
 
 ## Hosea 9:4
 
@@ -28,7 +28,7 @@
 
 ## Hosea 9:5
 
-> What will you do on the day of the appointed festival  
+> How will you fare on the day of the appointed festival  
 > And on the day of the feast of the Lord?
 
 ## Hosea 9:6
@@ -64,14 +64,14 @@
 
 ## Hosea 9:10
 
-> I found Israel like grapes in the wilderness;  
+> I discovered Israel like grapes in the wilderness;  
 > I saw your forefathers as the earliest fruit on the fig tree in its first season.  
-> But they came to Baal-peor and devoted themselves to shame,  
-> And they became as detestable as that which they loved.
+> But they went to Baal-peor and devoted themselves to disgrace,  
+> And they became as detestable as what they cherished.
 
 ## Hosea 9:11
 
-> As for Ephraim, their glory will fly away like a bird—  
+> As for Ephraim, their splendour will vanish like a bird—  
 > No birth, no pregnancy, and no conception!
 
 ## Hosea 9:12
@@ -84,7 +84,7 @@
 
 > Ephraim, as I have seen,  
 > Is planted in a pasture like Tyre;  
-> But Ephraim is going to bring out his children for slaughter.
+> But Ephraim is destined to bring out his children for destruction.
 
 ## Hosea 9:14
 
@@ -93,11 +93,11 @@
 
 ## Hosea 9:15
 
-> All their evil is at Gilgal;  
-> Indeed, I came to hate them there!  
+> All their wickedness is at Gilgal;  
+> Indeed, I came to despise them there!  
 > Because of the wickedness of their deeds  
 > I will drive them out of My house!  
-> I will no longer love them;  
+> I will no longer cherish them;  
 > All their leaders are rebels.
 
 ## Hosea 9:16
@@ -111,4 +111,4 @@
 
 > My God will reject them  
 > Because they have not listened to Him;  
-> And they will be wanderers among the nations.
+> And they will become wanderers among the nations.

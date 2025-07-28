@@ -11,26 +11,26 @@
 
 ## Psalm 48:2
 
-> Beautiful in elevation, the joy of the whole earth,  
-> Is Mount Zion in the far north,  
+> Majestic in its height, bringing joy to the whole earth,  
+> Is Mount Zion on the northern side,  
 > The city of the great King.
 
 ## Psalm 48:3
 
-> God in her palaces  
-> Has made Himself known as a stronghold.
+> God has revealed Himself as a refuge  
+> Within her palaces.
 
 ---
 
 ## Psalm 48:4
 
-> For, behold, the kings arrived,  
-> They passed by together.
+> Indeed, the kings gathered,  
+> They moved on together.
 
 ## Psalm 48:5
 
-> They saw it, then they were amazed;  
-> They were terrified, they fled in a hurry.
+> They observed it and were astounded;  
+> They were alarmed, they fled swiftly.
 
 ## Psalm 48:6
 
@@ -40,7 +40,7 @@
 ## Psalm 48:7
 
 > With the east wind  
-> You smash the ships of Tarshish.
+> You shatter the ships of Tarshish.
 
 ---
 
@@ -56,36 +56,35 @@
 
 ## Psalm 48:9
 
-> We have thought over Your mercy, God,  
+> We have reflected on Your mercy, God,  
 > In the midst of Your temple.
 
 ## Psalm 48:10
 
-> As is Your name, God,  
-> So is Your praise to the ends of the earth;  
+> As Your name is renowned, God,  
+> So is Your praise throughout the earth;  
 > Your right hand is full of righteousness.
 
 ## Psalm 48:11
 
-> Mount Zion shall be glad,  
-> The daughters of Judah shall rejoice  
+> Let Mount Zion be joyful,  
+> Let the daughters of Judah celebrate  
 > Because of Your judgments.
 
 ---
 
 ## Psalm 48:12
 
-> Walk around Zion and encircle her;  
+> Walk around Zion and go around her;  
 > Count her towers;
 
 ## Psalm 48:13
 
 > Consider her ramparts;  
-> Go through her palaces,  
+> Pass through her palaces,  
 > So that you may tell of it to the next generation.
 
 ## Psalm 48:14
 
-> For such is God,  
-> Our God forever and ever;  
-> He will lead us until death.
+> For this God is our God forever and ever;  
+> He will guide us even unto death.

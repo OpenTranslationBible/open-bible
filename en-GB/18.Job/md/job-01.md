@@ -100,7 +100,7 @@ At this, Job arose, tore his robe, and shaved his head. Then he fell to the grou
 
 ## Job 1:21
 
-He said,
+He declared,
 
 > “Naked I came from my mother’s womb,
 > and naked I shall return there.

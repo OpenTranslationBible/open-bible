@@ -2,9 +2,9 @@
 
 ## 1 Chronicles 9:1
 
-So all Israel was enrolled by genealogies,  
-and behold, they are written in the Book of the Kings of Israel.  
-And Judah was carried away into exile to Babylon for their unfaithfulness.
+Thus, all Israel was recorded in genealogies,  
+and indeed, they are documented in the Book of the Kings of Israel.  
+And Judah was taken into exile to Babylon due to their unfaithfulness.
 
 ---
 
@@ -24,8 +24,8 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ## 1 Chronicles 9:4
 
-> Uthai the son of Ammihud, the son of Omri, the son of Imri, the son of Bani,  
-> from the sons of Perez, the son of Judah.
+> Uthai, descendant of Ammihud, Omri, Imri, and Bani,  
+> from the lineage of Perez, son of Judah.
 
 ---
 
@@ -47,16 +47,16 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ## 1 Chronicles 9:8
 
-> and Ibneiah the son of Jeroham,  
-> and Elah the son of Uzzi, the son of Michri,  
-> and Meshullam the son of Shephatiah, the son of Reuel, the son of Ibnijah;
+> along with Ibneiah, descendant of Jeroham,  
+> and Elah, descendant of Uzzi and Michri,  
+> and Meshullam, descendant of Shephatiah, Reuel, and Ibnijah;
 
 ---
 
 ## 1 Chronicles 9:9
 
 > and their relatives according to their generations, 956.  
-> All these were heads of fathers’ households according to their fathers’ houses.
+> All these were leaders of their fathers’ households according to their family lines.
 
 ---
 
@@ -68,14 +68,14 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ## 1 Chronicles 9:11
 
-> and Azariah the son of Hilkiah, the son of Meshullam, the son of Zadok, the son of Meraioth, the son of Ahitub, chief officer of the house of God;
+> and Azariah, descendant of Hilkiah, Meshullam, Zadok, Meraioth, and Ahitub, chief officer of the house of God;
 
 ---
 
 ## 1 Chronicles 9:12
 
-> and Adaiah the son of Jeroham, the son of Pashhur, the son of Malchijah;  
-> and Maasai the son of Adiel, the son of Jahzerah, the son of Meshullam, the son of Meshillemith, the son of Immer;
+> and Adaiah, descendant of Jeroham, Pashhur, and Malchijah;  
+> and Maasai, descendant of Adiel, Jahzerah, Meshullam, Meshillemith, and Immer;
 
 ---
 
@@ -87,21 +87,21 @@ Some descendants of Judah, Benjamin, Ephraim, and Manasseh resided in Jerusalem:
 
 ## 1 Chronicles 9:14
 
-> From the Levites: Shemaiah the son of Hasshub, the son of Azrikam, the son of Hashabiah, from the sons of Merari;
+> From the Levites: Shemaiah, descendant of Hasshub, Azrikam, and Hashabiah, from the sons of Merari;
 
 ---
 
 ## 1 Chronicles 9:15
 
 > and Bakbakkar, Heresh, and Galal;  
-> and Mattaniah the son of Mica, the son of Zichri, the son of Asaph;
+> and Mattaniah, descendant of Mica, Zichri, and Asaph;
 
 ---
 
 ## 1 Chronicles 9:16
 
-> and Obadiah the son of Shemaiah, the son of Galal, the son of Jeduthun;  
-> and Berechiah the son of Asa, the son of Elkanah, who lived in the settlements of the Netophathites.
+> and Obadiah, descendant of Shemaiah, Galal, and Jeduthun;  
+> and Berechiah, descendant of Asa and Elkanah, who lived in the settlements of the Netophathites.
 
 ---
 
@@ -123,7 +123,7 @@ These were the gatekeepers for the camp of the sons of Levi.
 
 ## 1 Chronicles 9:19
 
-Shallum the son of Kore, the son of Ebiasaph, the son of Korah,  
+Shallum, descendant of Kore, Ebiasaph, and Korah,  
 and his relatives of his father’s household, the Korahites,  
 were over the work of the service, keepers of the thresholds of the tent.
 
@@ -133,7 +133,7 @@ were over the work of the service, keepers of the thresholds of the tent.
 
 ## 1 Chronicles 9:20
 
-Phinehas the son of Eleazar had been ruler over them previously,  
+Phinehas, descendant of Eleazar, had been ruler over them previously,  
 and the Lord was with him.
 
 ---
@@ -163,7 +163,7 @@ So they and their sons had oversight of the gates of the house of the Lord,
 
 ## 1 Chronicles 9:24
 
-The gatekeepers were on the four sides:
+The gatekeepers were stationed on all four sides:
 
 > to the east, west, north, and south.
 
@@ -221,22 +221,22 @@ Mattithiah, one of the Levites, who was the firstborn of Shallum the Korahite,
 
 ## 1 Chronicles 9:32
 
-Some of their relatives of the sons of the Kohathites  
-were over the showbread to prepare it every Sabbath.
+Some of their relatives from the sons of the Kohathites  
+were in charge of the showbread to prepare it every Sabbath.
 
 ---
 
 ## 1 Chronicles 9:33
 
-Now these are the singers, heads of fathers’ households of the Levites,  
-who lived in the chambers of the temple free from other service,  
+Now these are the singers, leaders of the fathers’ households of the Levites,  
+who lived in the chambers of the temple exempt from other service,  
 for they were engaged in their work day and night.
 
 ---
 
 ## 1 Chronicles 9:34
 
-These were heads of fathers’ households of the Levites  
+These were leaders of the fathers’ households of the Levites  
 according to their generations, chief men,  
 who lived in Jerusalem.
 
@@ -244,7 +244,7 @@ who lived in Jerusalem.
 
 ## 1 Chronicles 9:35
 
-In Gibeon Jeiel the father of Gibeon lived,
+In Gibeon, Jeiel the father of Gibeon lived,
 
 > and the name of his wife was Maacah.
 
@@ -270,23 +270,23 @@ Mikloth fathered Shimeam.
 
 ## 1 Chronicles 9:39
 
-Ner fathered Kish, and Kish fathered Saul;
+Ner was the progenitor of Kish, and Kish was the progenitor of Saul;
 
-> Saul fathered Jonathan, Malchi-shua, Abinadab, and Eshbaal.
+> Saul was the progenitor of Jonathan, Malchi-shua, Abinadab, and Eshbaal.
 
 ---
 
 ## 1 Chronicles 9:40
 
-The son of Jonathan was Merib-baal,
+Jonathan's son was Merib-baal,
 
-> and Merib-baal fathered Micah.
+> and Merib-baal was the progenitor of Micah.
 
 ---
 
 ## 1 Chronicles 9:41
 
-The sons of Micah were:
+Micah's sons included:
 
 > Pithon, Melech, Tahrea, and Ahaz.
 
@@ -294,16 +294,16 @@ The sons of Micah were:
 
 ## 1 Chronicles 9:42
 
-Ahaz fathered Jarah,
+Ahaz was the progenitor of Jarah,
 
-> and Jarah fathered Alemeth, Azmaveth, and Zimri;  
-> and Zimri fathered Moza;
+> and Jarah was the progenitor of Alemeth, Azmaveth, and Zimri;  
+> and Zimri was the progenitor of Moza;
 
 ---
 
 ## 1 Chronicles 9:43
 
-Moza fathered Binea,
+Moza was the progenitor of Binea,
 
 > and his son was Rephaiah,  
 > his son was Eleasah,  
@@ -313,7 +313,7 @@ Moza fathered Binea,
 
 ## 1 Chronicles 9:44
 
-Azel had six sons whose names were:
+Azel had six sons named:
 
 > Azrikam, Bocheru, Ishmael, Sheariah, Obadiah, and Hanan.  
 > These were the sons of Azel.

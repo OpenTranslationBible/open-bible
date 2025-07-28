@@ -2,7 +2,7 @@
 
 ## 1 Chronicles 11:1
 
-Then all Israel gathered to David at Hebron and said,
+Then all Israel came together to David at Hebron and said,
 
 > “Behold, we are your bone and your flesh.
 
@@ -20,7 +20,7 @@ Then all Israel gathered to David at Hebron and said,
 
 ## 1 Chronicles 11:3
 
-So all the elders of Israel came to the king at Hebron,  
+So all the elders of Israel gathered to the king at Hebron,  
 and David made a covenant with them in Hebron before the Lord;
 
 > and they anointed David king over Israel,  
@@ -40,8 +40,8 @@ and the Jebusites were the inhabitants of the land.
 The inhabitants of Jebus said to David,
 
 > “You shall not enter here.”  
-> Nevertheless David captured the stronghold of Zion,  
-> that is, the city of David.
+> However, David captured the stronghold of Zion,  
+> which is the city of David.
 
 ---
 
@@ -57,7 +57,7 @@ Now David had said,
 
 ## 1 Chronicles 11:7
 
-Then David lived in the stronghold;
+Then David resided in the stronghold;
 
 > therefore it was called the city of David.
 
@@ -73,7 +73,7 @@ He built the city all around, from the Millo and in every direction,
 
 ## 1 Chronicles 11:9
 
-David became greater and greater,
+David grew stronger and stronger,
 
 > for the Lord of hosts was with him.
 
@@ -81,8 +81,8 @@ David became greater and greater,
 
 ## 1 Chronicles 11:10
 
-Now these are the heads of the mighty men whom David had,  
-who gave him strong support in his kingdom, together with all Israel,  
+Now these are the leaders of the mighty men whom David had,  
+who provided him with strong support in his kingdom, along with all Israel,  
 to make him king according to the word of the Lord concerning Israel.
 
 ---
@@ -99,7 +99,7 @@ These are the leaders of David’s mighty men:
 
 ## 1 Chronicles 11:12
 
-After him was Eleazar the son of Dodo, the Ahohite,
+Following him was Eleazar the son of Dodo, the Ahohite,
 
 > who was one of the three mighty men.
 
@@ -126,8 +126,8 @@ and struck down the Philistines;
 
 ## 1 Chronicles 11:15
 
-Now three of the thirty chief men went down to the rock to David,  
-into the cave of Adullam,
+At that time, three of the thirty chief men went to David at the rock,  
+in the cave of Adullam,
 
 > while the army of the Philistines was camping in the Valley of Rephaim.
 
@@ -136,13 +136,13 @@ into the cave of Adullam,
 ## 1 Chronicles 11:16
 
 David was then in the stronghold,  
-while the garrison of the Philistines was then in Bethlehem.
+while the Philistine garrison was stationed in Bethlehem.
 
 ---
 
 ## 1 Chronicles 11:17
 
-David had a craving and said,
+David expressed a longing and said,
 
 > “Oh that someone would give me water to drink from the well of Bethlehem,  
 > which is by the gate!”
@@ -155,7 +155,7 @@ So the three broke through the camp of the Philistines
 and drew water from the well of Bethlehem which was by the gate,  
 and took it and brought it to David;
 
-> nevertheless, David would not drink it, but poured it out to the Lord;
+> yet, David would not drink it, but poured it out to the Lord;
 
 ---
 
@@ -211,7 +211,7 @@ He also killed an Egyptian, a man of great stature five cubits tall.
 
 ## 1 Chronicles 11:24
 
-These things Benaiah the son of Jehoiada did,
+These deeds Benaiah the son of Jehoiada accomplished,
 
 > and had a name as well as the three mighty men.
 
@@ -228,7 +228,7 @@ He was honoured among the thirty,
 
 ## 1 Chronicles 11:26
 
-Now the mighty men of the armies were:
+Now the mighty men of the armies included:
 
 > Asahel the brother of Joab,  
 > Elhanan the son of Dodo of Bethlehem,
@@ -239,58 +239,58 @@ Now the mighty men of the armies were:
 
 ## 1 Chronicles 11:28
 
-> Ira the son of Ikkesh the Tekoite,  
-> Abiezer the Anathothite,
+> Ira, son of Ikkesh the Tekoite,  
+> Abiezer from Anathoth,
 
 ## 1 Chronicles 11:29
 
-> Sibbecai the Hushathite,  
-> Ilai the Ahohite,
+> Sibbecai of Hushah,  
+> Ilai of Ahoh,
 
 ## 1 Chronicles 11:30
 
-> Maharai the Netophathite,  
-> Heled the son of Baanah the Netophathite,
+> Maharai from Netophah,  
+> Heled, son of Baanah from Netophah,
 
 ## 1 Chronicles 11:31
 
-> Ithai the son of Ribai of Gibeah of the sons of Benjamin,  
+> Ithai, son of Ribai from Gibeah of the sons of Benjamin,  
 > Benaiah the Pirathonite,
 
 ## 1 Chronicles 11:32
 
-> Hurai of the brooks of Gaash,  
+> Hurai from the streams of Gaash,  
 > Abiel the Arbathite,
 
 ## 1 Chronicles 11:33
 
-> Azmaveth the Baharumite,  
-> Eliahba the Shaalbonite,
+> Azmaveth from Bahurim,  
+> Eliahba from Shaalbon,
 
 ## 1 Chronicles 11:34
 
-> the sons of Hashem the Gizonite,  
-> Jonathan the son of Shagee the Hararite,
+> the sons of Hashem of Gizon,  
+> Jonathan, son of Shagee of Harar,
 
 ## 1 Chronicles 11:35
 
-> Ahiam the son of Sacar the Hararite,  
-> Eliphal the son of Ur,
+> Ahiam, son of Sacar of Harar,  
+> Eliphal, son of Ur,
 
 ## 1 Chronicles 11:36
 
-> Hepher the Mecherathite,  
+> Hepher of Mecherah,  
 > Ahijah the Pelonite,
 
 ## 1 Chronicles 11:37
 
-> Hezro the Carmelite,  
-> Naarai the son of Ezbai,
+> Hezro from Carmel,  
+> Naarai, son of Ezbai,
 
 ## 1 Chronicles 11:38
 
-> Joel the brother of Nathan,  
-> Mibhar the son of Hagri,
+> Joel, brother of Nathan,  
+> Mibhar, son of Hagri,
 
 ## 1 Chronicles 11:39
 
@@ -299,37 +299,37 @@ Now the mighty men of the armies were:
 
 ## 1 Chronicles 11:40
 
-> Ira the Ithrite,  
-> Gareb the Ithrite,
+> Ira, the Ithrite,  
+> Gareb, the Ithrite,
 
 ## 1 Chronicles 11:41
 
 > Uriah the Hittite,  
-> Zabad the son of Ahlai,
+> Zabad, son of Ahlai,
 
 ## 1 Chronicles 11:42
 
-> Adina the son of Shiza the Reubenite, a leader among the Reubenites, along with thirty others,
+> Adina, son of Shiza the Reubenite, a leader among the Reubenites, along with thirty others,
 
 ## 1 Chronicles 11:43
 
-> Hanan the son of Maacah,  
+> Hanan, son of Maacah,  
 > and Joshaphat the Mithnite,
 
 ## 1 Chronicles 11:44
 
 > Uzzia the Ashterathite,  
-> Shama and Jeiel the sons of Hotham the Aroerite,
+> Shama and Jeiel, sons of Hotham the Aroerite,
 
 ## 1 Chronicles 11:45
 
-> Jediael the son of Shimri,  
-> and Joha his brother, the Tizite,
+> Jediael, son of Shimri,  
+> and Joha, his brother, the Tizite,
 
 ## 1 Chronicles 11:46
 
 > Eliel the Mahavite,  
-> and Jeribai and Joshaviah, the sons of Elnaam,  
+> and Jeribai and Joshaviah, sons of Elnaam,  
 > and Ithmah the Moabite,
 
 ## 1 Chronicles 11:47

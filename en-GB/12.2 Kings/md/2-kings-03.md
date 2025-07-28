@@ -100,8 +100,8 @@ He will also deliver Moab into your hands.
 
 ## 2 Kings 3:19
 
-You will overthrow every fortified city and every major town.  
-You will cut down every good tree, stop up all the springs, and ruin every good field with stones.”
+You will conquer every fortified city and every major town.  
+You will fell every good tree, block up all the springs, and cover every good field with stones.
 
 ---
 

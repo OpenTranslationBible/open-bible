@@ -2,9 +2,9 @@
 
 ## 2 Kings 25:1
 
-Now in the ninth year of his reign, on the tenth day of the tenth month,  
-Nebuchadnezzar king of Babylon came, he and all his army, against Jerusalem,  
-camped against it, and built a siege wall all around it.
+In the ninth year of his reign, on the tenth day of the tenth month,  
+Nebuchadnezzar, the king of Babylon, arrived with his entire army against Jerusalem,  
+encamped around it, and constructed a siege wall all around it.
 
 ## 2 Kings 25:2
 
@@ -24,14 +24,14 @@ And they went by way of the Arabah.
 
 ## 2 Kings 25:5
 
-But the army of the Chaldeans pursued the king,  
-and overtook him in the plains of Jericho,  
+However, the army of the Chaldeans pursued the king,  
+and caught up with him in the plains of Jericho,  
 and all his army was scattered from him.
 
 ## 2 Kings 25:6
 
 Then they captured the king and brought him to the king of Babylon at Riblah,  
-and he passed sentence on him.
+where he was judged.
 
 ## 2 Kings 25:7
 
@@ -43,9 +43,9 @@ and brought him to Babylon.
 
 ## 2 Kings 25:8
 
-Now on the seventh day of the fifth month,  
-which was the nineteenth year of King Nebuchadnezzar, king of Babylon,  
-Nebuzaradan the captain of the guard, a servant of the king of Babylon, came to Jerusalem.
+On the seventh day of the fifth month,  
+in the nineteenth year of King Nebuchadnezzar of Babylon,  
+Nebuzaradan, the captain of the guard and servant of the king of Babylon, came to Jerusalem.
 
 ## 2 Kings 25:9
 
@@ -73,9 +73,9 @@ But the captain of the guard left some of the poorest of the land to be vinedres
 
 ## 2 Kings 25:13
 
-Now the bronze pillars which were in the house of the Lord,  
-and the stands and the bronze sea which were in the house of the Lord,  
-the Chaldeans broke in pieces and carried the bronze to Babylon.
+The bronze pillars which were in the house of the Lord,  
+along with the stands and the bronze sea,  
+were broken into pieces by the Chaldeans, who carried the bronze to Babylon.
 
 ## 2 Kings 25:14
 
@@ -117,8 +117,7 @@ and sixty men of the people of the land who were found in the city.
 
 ## 2 Kings 25:20
 
-Nebuzaradan the captain of the guard took them  
-and brought them to the king of Babylon at Riblah.
+Nebuzaradan, the captain of the guard, brought them to the king of Babylon at Riblah.
 
 ## 2 Kings 25:21
 
@@ -129,14 +128,14 @@ So Judah was taken into exile from its land.
 
 ## 2 Kings 25:22
 
-Now as for the people who were left in the land of Judah,  
-whom Nebuchadnezzar king of Babylon had left,  
+As for the people who were left in the land of Judah,  
+whom Nebuchadnezzar, king of Babylon, had left,  
 he appointed Gedaliah the son of Ahikam, the son of Shaphan, over them.
 
 ## 2 Kings 25:23
 
 When all the captains of the forces, they and their men, heard  
-that the king of Babylon had appointed Gedaliah governor,  
+that the king of Babylon had appointed Gedaliah as governor,  
 they came to Gedaliah at Mizpah,  
 namely Ishmael the son of Nethaniah,  
 Johanan the son of Kareah,  
@@ -165,10 +164,10 @@ for they were afraid of the Chaldeans.
 
 ## 2 Kings 25:27
 
-Now it came about in the thirty-seventh year of the exile of Jehoiachin king of Judah,  
+It came about in the thirty-seventh year of the exile of Jehoiachin, king of Judah,  
 on the twenty-seventh day of the twelfth month,  
-that Evil-merodach king of Babylon, in the year that he became king,  
-released Jehoiachin king of Judah from prison.
+that Evil-merodach, king of Babylon, in the year that he became king,  
+released Jehoiachin, king of Judah, from prison.
 
 ## 2 Kings 25:28
 
@@ -177,9 +176,9 @@ And he spoke kindly to him and set his throne above the thrones of the kings who
 ## 2 Kings 25:29
 
 So Jehoiachin changed his prison clothes,  
-and had his meals in the king’s presence regularly all the days of his life.
+and dined regularly in the king’s presence all the days of his life.
 
 ## 2 Kings 25:30
 
-And for his allowance, a regular allowance was given him by the king,  
-a portion for each day, all the days of his life.
+And for his sustenance, a regular allowance was given to him by the king,  
+a portion for each day, throughout his life.

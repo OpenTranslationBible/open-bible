@@ -10,8 +10,8 @@ and He began to instruct them, saying:
 
 ## Matthew 5:3
 
-> “Blessed are the poor in spirit,
-> for the kingdom of heaven is theirs.
+> “Fortunate are those who are humble in spirit,
+> for the kingdom of heaven belongs to them.
 
 ## Matthew 5:4
 
@@ -20,27 +20,27 @@ and He began to instruct them, saying:
 
 ## Matthew 5:5
 
-> Blessed are the gentle,
+> Fortunate are the meek,
 > for they shall inherit the earth.
 
 ## Matthew 5:6
 
-> Blessed are those who hunger and thirst for righteousness,
-> for they shall be satisfied.
+> Fortunate are those who long for righteousness,
+> for they shall be fulfilled.
 
 ## Matthew 5:7
 
-> Blessed are the merciful,
-> for they shall obtain mercy.
+> Fortunate are those who show mercy,
+> for they shall be shown mercy.
 
 ## Matthew 5:8
 
-> Blessed are the pure in heart,
+> Fortunate are those with a pure heart,
 > for they shall see God.
 
 ## Matthew 5:9
 
-> Blessed are the peacemakers,
+> Fortunate are those who make peace,
 > for they shall be called the children of God.
 
 ## Matthew 5:10

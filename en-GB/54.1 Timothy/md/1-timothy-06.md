@@ -82,5 +82,5 @@ Timothy, guard what has been entrusted to you, avoiding worldly, empty chatter a
 
 ## 1 Timothy 6:21
 
-which some have professed and thereby have gone astray from the faith.  
-Grace be with you.
+which some have professed and as a result have drifted away from the faith.  
+May grace be with you.

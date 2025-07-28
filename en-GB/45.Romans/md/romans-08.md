@@ -142,7 +142,7 @@ Who shall separate us from the love of Christ? Shall tribulation, or trouble, or
 
 ## Romans 8:36
 
-As it is written:
+As the scripture says:
 
 > “For your sake we face death all day long;
 > we are considered as sheep to be slaughtered.”

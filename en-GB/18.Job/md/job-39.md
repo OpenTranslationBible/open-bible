@@ -2,8 +2,8 @@
 
 ## Job 39:1
 
-> “Do you know the time the mountain goats give birth?  
-> Do you observe the calving of the deer?
+> “Are you aware of the moment the mountain goats give birth?  
+> Do you watch when the deer bring forth their young?
 
 ## Job 39:2
 
@@ -17,15 +17,15 @@
 
 ## Job 39:4
 
-> Their offspring become strong, they grow up in the open field;  
-> They leave and do not return to them.
+> Their offspring grow strong, maturing in the open field;  
+> They depart and do not return to them.
 
 ---
 
 ## Job 39:5
 
-> Who sent the wild donkey out free?  
-> And who opened the bonds of the swift donkey,
+> Who set the wild donkey free?  
+> And who released the swift donkey from its bonds,
 
 ## Job 39:6
 
@@ -34,13 +34,13 @@
 
 ## Job 39:7
 
-> He laughs at the turmoil of the city,  
+> He mocks the chaos of the city,  
 > He does not hear the shouting of the taskmaster.
 
 ## Job 39:8
 
-> He explores the mountains for his pasture,  
-> And searches after every green thing.
+> He roams the mountains for his pasture,  
+> And seeks out every green thing.
 
 ---
 
@@ -61,102 +61,102 @@
 
 ## Job 39:12
 
-> Will you have faith in him that he will return your grain,  
+> Will you rely on him to bring back your grain,  
 > And gather it from your threshing floor?
 
 ---
 
 ## Job 39:13
 
-> “The wings of the ostrich flap joyously,  
-> With the pinion and feathers of love,
+> “The wings of the ostrich wave joyfully,  
+> With the pinion and feathers of affection,
 
 ## Job 39:14
 
-> For she abandons her eggs to the earth,  
-> And warms them in the dust,
+> For she leaves her eggs on the ground,  
+> And lets them warm in the dust,
 
 ## Job 39:15
 
-> And she forgets that a foot may crush them,  
-> Or that a wild animal may trample them.
+> And she is unaware that a foot may crush them,  
+> Or that a wild animal might trample them.
 
 ## Job 39:16
 
-> She treats her young cruelly, as if they were not hers;  
-> Though her labour is for nothing, she is unconcerned,
+> She treats her young harshly, as if they were not hers;  
+> Though her labour is in vain, she is unconcerned,
 
 ## Job 39:17
 
-> Because God has made her forget wisdom,  
-> And has not given her a share of understanding.
+> Because God has deprived her of wisdom,  
+> And has not granted her a share of understanding.
 
 ## Job 39:18
 
-> When she rushes away on high,  
-> She laughs at the horse and his rider.
+> When she takes to flight,  
+> She mocks the horse and its rider.
 
 ---
 
 ## Job 39:19
 
-> “Do you give the horse his might?  
-> Do you clothe his neck with a mane?
+> “Do you endow the horse with strength?  
+> Do you adorn his neck with a flowing mane?
 
 ## Job 39:20
 
-> Do you make him leap like locusts?  
-> His majestic snorting is frightening.
+> Do you make him leap like a locust?  
+> His majestic snorting is terrifying.
 
 ## Job 39:21
 
-> He paws in the valley, and rejoices in his strength;  
-> He goes out to meet the battle.
+> He paws in the valley, exulting in his strength;  
+> He charges into the fray.
 
 ## Job 39:22
 
-> He laughs at fear and is not dismayed;  
+> He scoffs at fear and is undaunted;  
 > And he does not turn back from the sword.
 
 ## Job 39:23
 
-> The quiver rattles against him,  
+> The quiver clatters against him,  
 > The flashing spear and javelin.
 
 ## Job 39:24
 
 > He races over the ground with a roar and fury,  
-> And he does not stand still at the voice of the trumpet.
+> And he does not stand still at the sound of the trumpet.
 
 ## Job 39:25
 
-> As often as the trumpet sounds he says, ‘Aha!’  
-> And he senses the battle from afar,  
+> Whenever the trumpet sounds he exclaims, ‘Aha!’  
+> And he perceives the battle from afar,  
 > And the thunder of the captains and the war cry.
 
 ---
 
 ## Job 39:26
 
-> “Is it by your understanding that the hawk takes flight,  
+> “Is it through your wisdom that the hawk soars,  
 > Stretching his wings toward the south?
 
 ## Job 39:27
 
-> Is it at your command that the eagle flies high,  
+> Is it by your command that the eagle ascends,  
 > And makes his nest on high?
 
 ## Job 39:28
 
 > He dwells and spends his nights on the cliff,  
-> On the rocky cliff, an inaccessible place.
+> On the rocky crag, an inaccessible place.
 
 ## Job 39:29
 
-> From there he tracks food;  
-> His eyes look at it from afar.
+> From there he searches for prey;  
+> His eyes observe it from afar.
 
 ## Job 39:30
 
-> His young ones also lick up blood greedily;  
+> His young ones also feast on blood;  
 > And where the slain are, there he is.”

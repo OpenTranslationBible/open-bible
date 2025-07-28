@@ -9,8 +9,8 @@
 
 ## Micah 3:2
 
-> You who hate good and love evil,  
-> Who tear off their skin from them  
+> You who detest goodness and embrace wickedness,  
+> Who strip away their skin  
 > And their flesh from their bones,
 
 ## Micah 3:3
@@ -23,10 +23,10 @@
 
 ## Micah 3:4
 
-> Then they will cry out to the Lord,  
-> But He will not answer them.  
-> Instead, He will hide His face from them at that time  
-> Because they have practiced evil deeds.
+> Then they will call out to the Lord,  
+> But He will not respond to them.  
+> Instead, He will turn His face away from them at that time  
+> Because they have engaged in evil actions.
 
 ## Micah 3:5
 
@@ -40,7 +40,7 @@
 
 > Therefore it will be night for you—without vision,  
 > And darkness for you—without divination.  
-> The sun will go down on the prophets,  
+> The sun will set on the prophets,  
 > And the day will become dark over them.
 
 ## Micah 3:7
@@ -60,15 +60,15 @@
 
 ## Micah 3:9
 
-> Now hear this, you heads of the house of Jacob  
+> Now listen to this, you heads of the house of Jacob  
 > And rulers of the house of Israel,  
-> Who despise justice  
-> And twist everything that is straight,
+> Who scorn justice  
+> And distort what is upright,
 
 ## Micah 3:10
 
-> Who build Zion with bloodshed,  
-> And Jerusalem with malice.
+> Who construct Zion with violence,  
+> And Jerusalem with iniquity.
 
 ## Micah 3:11
 

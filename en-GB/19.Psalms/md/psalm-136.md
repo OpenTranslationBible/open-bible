@@ -2,19 +2,19 @@
 
 ## Psalm 136:1
 
-> Give thanks to the Lord, for He is good,
+> Offer gratitude to the Lord, for He is good,
 >
 > > His love endures forever.
 
 ## Psalm 136:2
 
-> Give thanks to the God of gods,
+> Offer gratitude to the God of gods,
 >
 > > His love endures forever.
 
 ## Psalm 136:3
 
-> Give thanks to the Lord of lords,
+> Offer gratitude to the Lord of lords,
 >
 > > His love endures forever.
 
@@ -22,7 +22,7 @@
 
 ## Psalm 136:4
 
-> To Him who alone does great wonders,
+> To Him who alone performs great wonders,
 >
 > > His love endures forever.
 
@@ -42,7 +42,7 @@
 
 > To Him who made the great lights,
 >
-> > His love endures forever.:
+> > His love endures forever.
 
 ## Psalm 136:8
 
@@ -100,7 +100,7 @@
 
 ## Psalm 136:16
 
-> To Him who led His people through the wilderness,
+> To Him who guided His people through the wilderness,
 >
 > > His love endures forever.
 
@@ -116,29 +116,29 @@
 
 > And brought death to mighty kings,
 >
-> > His love endures forever.:
+> > His love endures forever.
 
 ## Psalm 136:19
 
-> Sihon, king of the Amorites,
+> Sihon, the ruler of the Amorites,
 >
 > > His love endures forever.
 
 ## Psalm 136:20
 
-> And Og, king of Bashan,
+> And Og, the ruler of Bashan,
 >
 > > His love endures forever.
 
 ## Psalm 136:21
 
-> And gave their land as an inheritance,
+> And granted their land as a heritage,
 >
 > > His love endures forever.
 
 ## Psalm 136:22
 
-> An inheritance to His servant Israel,
+> A heritage to His servant Israel,
 >
 > > His love endures forever.
 
@@ -166,6 +166,6 @@
 
 ## Psalm 136:26
 
-> Give thanks to the God of heaven,
+> Offer gratitude to the God of heaven,
 >
 > > His love endures forever.

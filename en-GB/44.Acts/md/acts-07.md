@@ -212,7 +212,7 @@ Nevertheless, the Most High does not reside in structures made by human hands. A
 
 > ‘Heaven is My throne,
 > and the earth is My footstool.
-> What kind of house will you build for Me?’ says the Lord.
+> What kind of house will you construct for Me?’ says the Lord.
 > ‘Or where will My resting place be?
 
 ## Acts 7:50

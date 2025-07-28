@@ -33,8 +33,8 @@ Now Eliphaz the Temanite spoke,
 
 ## Job 22:7
 
-> You have not given water to the weary to drink,
-> and you have withheld bread from the hungry.
+> You have failed to provide water for the weary,
+> and you have denied bread to the hungry.
 
 ## Job 22:8
 
@@ -65,8 +65,8 @@ Now Eliphaz the Temanite spoke,
 
 ## Job 22:13
 
-> Yet you say, ‘What does God know?
-> Can He judge through the thick darkness?
+> Yet you question, ‘What does God know?
+> Can He judge through the dense darkness?
 
 ## Job 22:14
 
@@ -85,7 +85,7 @@ Now Eliphaz the Temanite spoke,
 
 ## Job 22:17
 
-> They said to God, ‘Depart from us!’
+> They told God, ‘Leave us alone!’
 > and ‘What can the Almighty do to them?’
 
 ## Job 22:18
@@ -112,8 +112,8 @@ Now Eliphaz the Temanite spoke,
 
 ## Job 22:22
 
-> Receive instruction from His mouth
-> and lay up His words in your heart.
+> Accept guidance from His mouth
+> and treasure His words in your heart.
 
 ## Job 22:23
 
@@ -132,12 +132,12 @@ Now Eliphaz the Temanite spoke,
 
 ## Job 22:26
 
-> For then you will delight in the Almighty
+> For then you will find joy in the Almighty
 > and lift up your face to God.
 
 ## Job 22:27
 
-> You will pray to Him, and He will hear you,
+> You will call upon Him, and He will answer you,
 > and you will fulfil your vows.
 
 ## Job 22:28

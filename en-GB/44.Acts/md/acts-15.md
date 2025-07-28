@@ -66,10 +66,9 @@ The message of the prophets aligns with this, as it is written:
 
 ## Acts 15:16
 
-> ‘After this I will return
-> and rebuild David’s fallen tent.
-> Its ruins I will rebuild,
-> and I will restore it,
+> ‘After this, I will return and restore the fallen house of David.
+> I will rebuild its ruins,
+> and I will set it up again,
 
 ## Acts 15:17
 

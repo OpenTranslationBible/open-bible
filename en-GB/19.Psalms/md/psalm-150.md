@@ -2,33 +2,33 @@
 
 ## Psalm 150:1
 
-> Praise the Lord!
+> Honour the Lord!
 
-> Praise God in His sanctuary;  
-> Praise Him in His mighty expanse.
+> Celebrate God in His holy place;  
+> Honour Him in His vast heavens.
 
 ## Psalm 150:2
 
-> Praise Him for His mighty deeds;  
-> Praise Him according to His excellent greatness.
+> Honour Him for His mighty acts;  
+> Celebrate Him for His supreme greatness.
 
 ## Psalm 150:3
 
-> Praise Him with trumpet sound;  
-> Praise Him with harp and lyre.
+> Honour Him with the sound of the trumpet;  
+> Celebrate Him with harp and lyre.
 
 ## Psalm 150:4
 
-> Praise Him with tambourine and dancing;  
-> Praise Him with stringed instruments and flute.
+> Honour Him with tambourine and dance;  
+> Celebrate Him with stringed instruments and flute.
 
 ## Psalm 150:5
 
-> Praise Him with loud cymbals;  
-> Praise Him with resounding cymbals.
+> Honour Him with loud cymbals;  
+> Celebrate Him with resounding cymbals.
 
 ## Psalm 150:6
 
-> Everything that has breath shall praise the Lord.
+> Let everything that has breath honour the Lord.
 
-> Praise the Lord!
+> Honour the Lord!

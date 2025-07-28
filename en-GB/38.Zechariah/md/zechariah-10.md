@@ -2,9 +2,9 @@
 
 ## Zechariah 10:1
 
-> Ask for rain from the Lord at the time of the spring rain—  
-> The Lord who makes the storm winds;  
-> And He will give them showers of rain, vegetation in the field to each person.
+> Request rain from the Lord during the springtime—  
+> The Lord who creates the storm winds;  
+> And He will provide them with showers of rain, vegetation in the field for each person.
 
 ## Zechariah 10:2
 
@@ -17,33 +17,33 @@
 
 ## Zechariah 10:3
 
-> “My anger is kindled against the shepherds,  
+> “My wrath is aroused against the shepherds,  
 > And I will punish the male goats;  
-> For the Lord of armies has visited His flock, the house of Judah,  
-> And will make them like His majestic horse in battle.
+> For the Lord of hosts has visited His flock, the house of Judah,  
+> And will transform them like His majestic horse in battle.
 
 ## Zechariah 10:4
 
-> From them will come the cornerstone,  
+> From them will arise the cornerstone,  
 > From them the tent peg,  
 > From them the bow of battle,  
-> From them every tyrant, all of them together.
+> From them every ruler, all of them together.
 
 ## Zechariah 10:5
 
-> And they will be like warriors,  
+> And they will resemble warriors,  
 > Trampling down the enemy in the mud of the streets in battle;  
-> And they will fight, because the Lord will be with them;  
+> And they will fight, for the Lord will be with them;  
 > And the riders on horses will be put to shame.
 
 ## Zechariah 10:6
 
-> And I will strengthen the house of Judah,  
-> And I will save the house of Joseph,  
-> And I will bring them back,  
-> Because I have had compassion on them;  
-> And they will be as though I had not rejected them,  
-> For I am the Lord their God and I will answer them.
+> And I will fortify the house of Judah,  
+> And I will deliver the house of Joseph,  
+> And I will restore them,  
+> Because I have shown compassion on them;  
+> And they will be as though I had not cast them off,  
+> For I am the Lord their God and I will respond to them.
 
 ## Zechariah 10:7
 
@@ -54,15 +54,15 @@
 
 ## Zechariah 10:8
 
-> I will whistle for them and gather them together,  
+> I will signal for them and gather them together,  
 > For I have redeemed them;  
 > And they will be as numerous as they were before.
 
 ## Zechariah 10:9
 
-> When I scatter them among the peoples,  
+> When I disperse them among the peoples,  
 > They will remember Me in distant countries,  
-> And they with their children will live and come back.
+> And they with their children will live and return.
 
 ## Zechariah 10:10
 
@@ -81,5 +81,5 @@
 
 ## Zechariah 10:12
 
-> And I will strengthen them in the Lord,  
+> And I will empower them in the Lord,  
 > And in His name they will walk,” declares the Lord.

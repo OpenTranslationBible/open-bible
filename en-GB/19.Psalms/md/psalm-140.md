@@ -9,8 +9,8 @@
 
 ## Psalm 140:2
 
-> Who devise evil things in their hearts;  
-> They continually stir up wars.
+> Who plot harmful schemes in their hearts;  
+> They are constantly inciting conflicts.
 
 ## Psalm 140:3
 
@@ -29,9 +29,9 @@
 
 ## Psalm 140:5
 
-> The proud have hidden a trap for me, and snares;  
-> They have spread a net at the wayside;  
-> They have set snares for me.
+> The arrogant have laid a trap for me, and snares;  
+> They have spread a net beside the path;  
+> They have set traps for me.
 
 > Selah
 
@@ -39,18 +39,18 @@
 
 ## Psalm 140:6
 
-> I said to the Lord, “You are my God;  
-> Listen, Lord, to the sound of my pleadings.”
+> I declared to the Lord, “You are my God;  
+> Hear, Lord, the sound of my supplications.”
 
 ## Psalm 140:7
 
-> God the Lord, the strength of my salvation,  
-> You have covered my head on the day of battle.
+> Sovereign Lord, the strength of my salvation,  
+> You have shielded my head on the day of battle.
 
 ## Psalm 140:8
 
 > Do not grant, Lord, the desires of the wicked;  
-> Do not bring about their evil planning, so that they are not exalted.
+> Do not let their wicked plans succeed, so that they are not exalted.
 
 > Selah
 
@@ -58,28 +58,28 @@
 
 ## Psalm 140:9
 
-> As for the head of those who surround me,  
-> May the harm of their lips cover them.
+> As for those who surround me,  
+> May their own words bring them harm.
 
 ## Psalm 140:10
 
 > May burning coals fall upon them;  
-> May they be cast into the fire,  
-> Into deep pits from which they cannot rise.
+> May they be thrown into the fire,  
+> Into deep pits from which they cannot escape.
 
 ## Psalm 140:11
 
 > May a slanderer not endure on the earth;  
-> May evil hunt a violent man to destruction.
+> May evil pursue a violent man to his ruin.
 
 ---
 
 ## Psalm 140:12
 
-> I know that the Lord will maintain the cause of the afflicted,  
-> And justice for the poor.
+> I am confident that the Lord will uphold the cause of the afflicted,  
+> And bring justice to the poor.
 
 ## Psalm 140:13
 
-> Certainly the righteous will give thanks to Your name;  
-> The upright will dwell in Your presence.
+> Surely the righteous will offer thanks to Your name;  
+> The upright will abide in Your presence.

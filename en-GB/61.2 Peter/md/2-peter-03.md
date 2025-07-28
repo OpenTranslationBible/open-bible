@@ -70,5 +70,5 @@ You therefore, beloved, knowing this beforehand, be on your guard so that you ar
 
 ## 2 Peter 3:18
 
-but grow in the grace and knowledge of our Lord and Saviour Jesus Christ.  
-To Him be the glory, both now and to the day of eternity. Amen.
+but continue to grow in the grace and knowledge of our Lord and Saviour Jesus Christ.  
+To Him be the glory, both now and forevermore. Amen.

@@ -106,8 +106,8 @@ Bildad the Shuhite responded,
 
 ## Job 8:21
 
-> He will yet fill your mouth with laughter
-> and your lips with shouts of joy.
+> He will once again bring laughter to your mouth
+> and joy to your lips.
 
 ## Job 8:22
 

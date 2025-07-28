@@ -9,13 +9,13 @@
 
 ## Psalm 35:2
 
-> Take hold of buckler and shield,  
-> And rise up as my help.
+> Grasp the shield and armour,  
+> And stand up to assist me.
 
 ## Psalm 35:3
 
-> Draw also the spear and the battle-axe to meet those who pursue me;  
-> Say to my soul, “I am your salvation.”
+> Draw the spear and javelin to face those who pursue me;  
+> Assure my soul, “I am your salvation.”
 
 ---
 
@@ -27,24 +27,24 @@
 ## Psalm 35:5
 
 > Let them be like chaff before the wind,  
-> With the angel of the Lord driving them on.
+> With the angel of the Lord driving them onward.
 
 ## Psalm 35:6
 
-> Let their way be dark and slippery,  
+> Let their path be dark and slippery,  
 > With the angel of the Lord pursuing them.
 
 ---
 
 ## Psalm 35:7
 
-> For they hid their net for me without cause;  
-> Without cause they dug a pit for my soul.
+> For they set their net for me without reason;  
+> Without reason they dug a pit for my soul.
 
 ## Psalm 35:8
 
 > Let destruction come upon him when he is unaware,  
-> And let the net he hid catch him;  
+> And let the net he hid ensnare him;  
 > Let him fall into that very destruction.
 
 ## Psalm 35:9
@@ -54,7 +54,7 @@
 
 ## Psalm 35:10
 
-> All my bones will say, “Lord, who is like You,  
+> All my bones will declare, “Lord, who is like You,  
 > Who rescues the afflicted from one who is too strong for him,  
 > And the afflicted and the poor from one who robs him?”
 
@@ -62,24 +62,24 @@
 
 ## Psalm 35:11
 
-> Malicious witnesses rise up;  
-> They ask me things that I do not know.
+> False witnesses rise up;  
+> They question me about things I do not know.
 
 ## Psalm 35:12
 
-> They repay me evil for good,  
-> To the bereavement of my soul.
+> They return harm for my good,  
+> Bringing grief to my soul.
 
 ## Psalm 35:13
 
-> But as for me, when they were sick, my clothing was sackcloth;  
+> But as for me, when they were sick, I wore sackcloth;  
 > I humbled my soul with fasting,  
-> But my prayer kept returning to me.
+> But my prayer returned unanswered.
 
 ## Psalm 35:14
 
 > I went about as though it were my friend or brother;  
-> I bowed down in mourning, like one who mourns for a mother.
+> I bowed down in mourning, like one who grieves for a mother.
 
 ## Psalm 35:15
 
@@ -89,7 +89,7 @@
 
 ## Psalm 35:16
 
-> Like godless jesters at a feast,  
+> Like irreverent jesters at a feast,  
 > They gnashed at me with their teeth.
 
 ---
@@ -98,51 +98,51 @@
 
 > Lord, how long will You look on?  
 > Rescue my soul from their ravages,  
-> My only life from the lions.
+> My precious life from the lions.
 
 ## Psalm 35:18
 
 > I will give You thanks in the great congregation;  
-> I will praise You among a mighty people.
+> I will praise You among a vast assembly.
 
 ## Psalm 35:19
 
-> Do not let those who are wrongfully my enemies rejoice over me;  
-> Nor let those who hate me for no reason wink maliciously.
+> Do not let those who are unjustly my enemies rejoice over me;  
+> Nor let those who hate me without cause wink maliciously.
 
 ## Psalm 35:20
 
-> For they do not speak peace,  
-> But they devise deceitful words against those who are quiet in the land.
+> For they do not speak of peace,  
+> But they devise deceitful words against those who live quietly in the land.
 
 ## Psalm 35:21
 
-> They opened their mouth wide against me;  
-> They said, “Aha, aha! Our eyes have seen it!”
+> They opened their mouths wide against me;  
+> They exclaimed, “Aha, aha! Our eyes have witnessed it!”
 
 ---
 
 ## Psalm 35:22
 
-> You have seen it, Lord, do not keep silent;  
-> Lord, do not be far from me.
+> You have seen it, Lord, do not remain silent;  
+> Lord, do not be distant from me.
 
 ## Psalm 35:23
 
-> Stir Yourself, and awake to my right  
+> Rouse Yourself, and awake to my right  
 > And to my cause, my God and my Lord.
 
 ## Psalm 35:24
 
 > Judge me, Lord my God, according to Your righteousness,  
-> And do not let them rejoice over me.
+> And prevent them from rejoicing over me.
 
 ---
 
 ## Psalm 35:25
 
 > Do not let them say in their heart, “Aha, our desire!”  
-> Do not let them say, “We have swallowed him up!”
+> Do not let them say, “We have consumed him!”
 
 ## Psalm 35:26
 
@@ -160,4 +160,4 @@
 ## Psalm 35:28
 
 > And my tongue shall proclaim Your righteousness  
-> And Your praise all day long.
+> And Your praise throughout the day.

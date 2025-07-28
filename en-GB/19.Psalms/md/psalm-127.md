@@ -20,16 +20,16 @@
 
 ## Psalm 127:3
 
-> Behold, children are a gift of the Lord,  
-> The fruit of the womb is a reward.
+> Observe, children are a blessing from the Lord,  
+> The fruit of the womb is a gracious reward.
 
 ## Psalm 127:4
 
-> Like arrows in the hand of a warrior,  
-> So are the children of one’s youth.
+> Just as arrows are in the hand of a warrior,  
+> So are the children born in one's youth.
 
 ## Psalm 127:5
 
-> Blessed is the man whose quiver is full of them;  
-> They will not be ashamed  
-> When they speak with their enemies in the gate.
+> Fortunate is the person whose quiver is filled with them;  
+> They will not be put to shame  
+> When they engage with their adversaries at the gate.

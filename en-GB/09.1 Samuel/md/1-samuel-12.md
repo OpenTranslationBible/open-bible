@@ -18,8 +18,8 @@ And they replied, “You have not wronged us, nor oppressed us, nor taken anythi
 
 ## 1 Samuel 12:5
 
-He said to them, “The Lord is witness against you, and His anointed is witness this day, that you have not found anything in my hand.”  
-And they said, “He is witness.”
+He addressed them, saying, “The Lord and His anointed are witnesses today that you have found nothing in my possession.”  
+And they responded, “He is witness.”
 
 ---
 

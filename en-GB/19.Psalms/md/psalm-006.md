@@ -9,53 +9,53 @@
 
 ## Psalm 6:2
 
-> Be gracious to me, Lord, for I am frail;  
-> Heal me, Lord, for my bones are horrified.
+> Show kindness to me, Lord, for I am weak;  
+> Heal me, Lord, for my bones are in distress.
 
 ## Psalm 6:3
 
-> And my soul is greatly horrified;  
+> And my soul is deeply troubled;  
 > But You, Lord—how long?
 
 ---
 
 ## Psalm 6:4
 
-> Return, Lord, rescue my soul;  
-> Save me because of Your mercy.
+> Return, Lord, deliver my soul;  
+> Save me because of Your loving kindness.
 
 ## Psalm 6:5
 
-> For there is no mention of You in death;  
-> In Sheol, who will praise You?
+> For there is no remembrance of You in death;  
+> In Sheol, who will give You praise?
 
 ---
 
 ## Psalm 6:6
 
-> I am weary with my sighing;
+> I am exhausted with my groaning;
 
-> Every night I make my bed swim,  
-> I flood my couch with my tears.
+> Every night I drench my bed,  
+> I soak my couch with my tears.
 
 ## Psalm 6:7
 
-> My eye has wasted away with grief;  
-> It has grown old because of all my enemies.
+> My eye has grown weak with sorrow;  
+> It has aged because of all my foes.
 
 ---
 
 ## Psalm 6:8
 
-> Leave me, all you who practice injustice,  
+> Depart from me, all you who commit injustice,  
 > For the Lord has heard the sound of my weeping.
 
 ## Psalm 6:9
 
-> The Lord has heard my pleading,  
-> The Lord receives my prayer.
+> The Lord has listened to my plea,  
+> The Lord accepts my prayer.
 
 ## Psalm 6:10
 
-> All my enemies will be put to shame and greatly horrified;  
+> All my enemies will be put to shame and greatly troubled;  
 > They shall turn back, they will suddenly be put to shame.

@@ -197,8 +197,8 @@ but I did not know what it was.”
 
 ## 2 Samuel 18:30
 
-Then the king said, “Turn aside and stand here.”  
-So he turned aside and stood still.
+The king instructed him, “Step aside and wait here.”  
+So he stepped aside and waited.
 
 ## 2 Samuel 18:31
 

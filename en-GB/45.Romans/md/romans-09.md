@@ -58,10 +58,10 @@ What are we to conclude? Is there any injustice with God? Absolutely not!
 
 ## Romans 9:15
 
-For He says to Moses,
+For He declared to Moses,
 
-> “I will have mercy on whom I have mercy,
-> and I will have compassion on whom I have compassion.”
+> “I will show mercy to whom I choose to show mercy,
+> and I will show compassion to whom I choose to show compassion.”
 
 ## Romans 9:16
 
@@ -114,7 +114,7 @@ As He says in Hosea:
 
 ## Romans 9:27
 
-Isaiah cries out concerning Israel:
+Isaiah declares regarding Israel:
 
 > “Though the number of the Israelites be like the sand by the sea,
 > only the remnant will be saved.
@@ -147,7 +147,7 @@ Why not? Because they pursued it not by faith, but as though it were by works. T
 
 ## Romans 9:33
 
-as it is written:
+as Scripture says:
 
 > “See, I lay in Zion a stone that causes people to stumble
 > and a rock that makes them fall,

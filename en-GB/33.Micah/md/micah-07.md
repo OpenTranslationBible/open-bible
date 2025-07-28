@@ -23,11 +23,11 @@
 
 ## Micah 7:4
 
-> The best of them is like a thorn bush,  
-> The most upright like a thorn hedge.  
-> The day when you post your watchmen,  
-> Your punishment is coming.  
-> Then their confusion will occur.
+> The finest among them is like a thorn bush,  
+> The most righteous like a thorn hedge.  
+> The day you appoint your watchmen,  
+> Your punishment is approaching.  
+> Then their bewilderment will arise.
 
 ## Micah 7:5
 
@@ -45,15 +45,15 @@
 
 ## Micah 7:7
 
-> But as for me, I will watch expectantly for the Lord;  
+> Yet as for me, I will look eagerly for the Lord;  
 > I will wait for the God of my salvation.  
-> My God will hear me.
+> My God will listen to me.
 
 ## Micah 7:8
 
-> Do not rejoice over me, enemy of mine.  
-> Though I fall I will rise;  
-> Though I live in darkness, the Lord is a light for me.
+> Do not celebrate over me, my adversary.  
+> Though I fall, I will rise again;  
+> Though I dwell in darkness, the Lord is my light.
 
 ## Micah 7:9
 
@@ -65,17 +65,17 @@
 
 ## Micah 7:10
 
-> Then my enemy will see,  
+> Then my adversary will see,  
 > And shame will cover her who said to me,  
 > “Where is the Lord your God?”  
 > My eyes will look at her;  
-> At that time she will be trampled down  
-> Like mud of the streets.
+> At that time she will be trodden down  
+> Like mud in the streets.
 
 ## Micah 7:11
 
-> It will be a day for building your walls.  
-> On that day your boundary will be extended.
+> It will be a time for constructing your walls.  
+> On that day your borders will be expanded.
 
 ## Micah 7:12
 
@@ -86,8 +86,8 @@
 
 ## Micah 7:13
 
-> And the earth will become a wasteland because of her inhabitants,  
-> On account of the fruit of their deeds.
+> And the earth will become desolate because of its inhabitants,  
+> Due to the result of their actions.
 
 ## Micah 7:14
 
@@ -100,8 +100,8 @@
 
 ## Micah 7:15
 
-> As in the days when you went out from the land of Egypt,  
-> I will show you miracles.
+> Just as when you came out from the land of Egypt,  
+> I will display wonders to you.
 
 ## Micah 7:16
 
@@ -121,15 +121,15 @@
 ## Micah 7:18
 
 > Who is a God like You,  
-> Who pardons wrongdoing  
-> And passes over a rebellious act of the remnant of His possession?  
-> He does not retain His anger forever,  
+> Who forgives wrongdoing  
+> And overlooks the rebellious acts of the remnant of His possession?  
+> He does not hold onto His anger forever,  
 > Because He delights in mercy.
 
 ## Micah 7:19
 
-> He will again take pity on us;  
-> He will trample on our wrongdoings.  
+> He will again show compassion to us;  
+> He will subdue our wrongdoings.  
 > Yes, You will cast all their sins  
 > Into the depths of the sea.
 

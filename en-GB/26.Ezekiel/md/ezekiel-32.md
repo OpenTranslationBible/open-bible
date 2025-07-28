@@ -46,7 +46,7 @@ This is what the Sovereign Lord says:
 
 ## Ezekiel 32:11
 
-For this is what the Sovereign Lord says:
+This is what the Sovereign Lord declares:
 
 > ‘The sword of the king of Babylon will come against you.
 
@@ -60,7 +60,7 @@ For this is what the Sovereign Lord says:
 
 ## Ezekiel 32:14
 
-> Then I will let her waters settle > and make her streams flow like oil,’ > declares the Sovereign Lord.
+> Then I will allow her waters to become calm > and make her streams flow smoothly,’ > declares the Sovereign Lord.
 
 ## Ezekiel 32:15
 

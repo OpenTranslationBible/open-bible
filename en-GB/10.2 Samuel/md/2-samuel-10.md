@@ -20,8 +20,8 @@ Has David not sent his servants to you in order to explore the city, to spy it o
 
 ## 2 Samuel 10:4
 
-So Hanun took David’s servants and shaved off half of their beards,  
-and cut off their garments in the middle as far as their hips, and sent them away.
+So Hanun seized David’s servants, shaved off half of their beards,  
+cut their garments at the waist, and sent them away.
 
 ## 2 Samuel 10:5
 
@@ -70,8 +70,8 @@ and may the Lord do what is good in His sight.”
 
 ## 2 Samuel 10:13
 
-So Joab and the people who were with him advanced to the battle against the Arameans,  
-and they fled from him.
+So Joab and the people who were with him moved forward to engage the Arameans in battle,  
+and they retreated from him.
 
 ## 2 Samuel 10:14
 

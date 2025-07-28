@@ -2,7 +2,7 @@
 
 ## Job 5:1
 
-> “Call now, is there anyone who will answer you?  
+> “Call now, is there anyone who will respond to you?  
 > And to which of the holy ones will you turn?
 
 ## Job 5:2
@@ -13,7 +13,7 @@
 ## Job 5:3
 
 > I have seen the fool taking root,  
-> And I cursed his home immediately.
+> And I promptly cursed his home.
 
 ## Job 5:4
 
@@ -29,7 +29,7 @@
 
 ## Job 5:6
 
-> For disaster does not come from the dust,  
+> For calamity does not arise from the dust,  
 > Nor does trouble sprout from the ground,
 
 ## Job 5:7
@@ -46,13 +46,13 @@
 
 ## Job 5:9
 
-> Who does great and unsearchable things,  
-> Wonders without number.
+> Who performs great and unfathomable deeds,  
+> Wonders beyond counting.
 
 ## Job 5:10
 
-> He gives rain on the earth,  
-> And sends water on the fields,
+> He provides rain on the earth,  
+> And sends water upon the fields,
 
 ## Job 5:11
 
@@ -61,13 +61,13 @@
 
 ## Job 5:12
 
-> He frustrates the schemes of the shrewd,  
-> So that their hands cannot attain success.
+> He thwarts the plans of the shrewd,  
+> So that their hands cannot achieve success.
 
 ## Job 5:13
 
-> He captures the wise by their own cleverness,  
-> And the advice of the cunning is quickly thwarted.
+> He ensnares the wise in their own cunning,  
+> And the counsel of the crafty is swiftly overturned.
 
 ## Job 5:14
 
@@ -76,8 +76,8 @@
 
 ## Job 5:15
 
-> But He saves from the sword of their mouth,  
-> And the poor from the hand of the strong.
+> But He rescues from the sword of their mouth,  
+> And the poor from the hand of the mighty.
 
 ## Job 5:16
 
@@ -88,12 +88,12 @@
 
 ## Job 5:17
 
-> “Behold, happy is the person whom God disciplines,  
+> “Behold, blessed is the person whom God corrects,  
 > So do not reject the discipline of the Almighty.
 
 ## Job 5:18
 
-> For He inflicts pain, and gives relief;  
+> For He causes pain and brings relief;  
 > He wounds, and His hands also heal.
 
 ## Job 5:19
@@ -103,7 +103,7 @@
 
 ## Job 5:20
 
-> In famine He will redeem you from death,  
+> In famine, He will rescue you from death,  
 > And in war, from the power of the sword.
 
 ## Job 5:21
@@ -113,30 +113,30 @@
 
 ## Job 5:22
 
-> You will laugh at violence and hunger,  
-> And you will not be afraid of wild animals.
+> You will laugh at destruction and hunger,  
+> And you will not fear the wild creatures.
 
 ## Job 5:23
 
-> For you will be in league with the stones of the field,  
+> For you will have an agreement with the stones of the field,  
 > And the animals of the field will be at peace with you.
 
 ## Job 5:24
 
 > You will know that your tent is secure,  
-> For you will visit your home and not find anything missing.
+> For you will visit your home and find nothing amiss.
 
 ## Job 5:25
 
-> You will also know that your descendants will be many,  
-> And your offspring as the grass of the earth.
+> You will also know that your descendants will be numerous,  
+> And your offspring as abundant as the grass of the earth.
 
 ## Job 5:26
 
-> You will come to the grave at a ripe age,  
-> Like the stacking of grain in its season.
+> You will come to the grave at a full age,  
+> Like a sheaf of grain gathered in its season.
 
 ## Job 5:27
 
-> Behold, we have examined this, and so it is;  
-> Hear it, and know for yourself.”
+> Behold, we have examined this, and it is true;  
+> Hear it, and understand it for yourself.”

@@ -23,7 +23,7 @@ Then King David rose to his feet and said,
 
 ## 1 Chronicles 28:3
 
-But God said to me,
+However, the Lord told me,
 
 > ‘You shall not build a house for My name,  
 > because you are a man of war and have shed blood.’
@@ -32,19 +32,19 @@ But God said to me,
 
 ## 1 Chronicles 28:4
 
-Yet, the Lord, the God of Israel, chose me from all the house of my father to be king over Israel forever.
+Nevertheless, the Lord, the God of Israel, selected me from all my father's family to be king over Israel perpetually.
 
-> For He has chosen Judah to be a leader,  
-> and in the house of Judah, my father’s house,  
-> and among the sons of my father He took pleasure in me to make me king over all Israel.
+> For He has chosen Judah to lead,  
+> and from the house of Judah, my father's family,  
+> and among my father's sons, He found delight in me to make me king over all Israel.
 
 ---
 
 ## 1 Chronicles 28:5
 
-And of all my sons (for the Lord has given me many sons),
+And among all my sons (for the Lord has blessed me with many),
 
-> He has chosen my son Solomon to sit on the throne of the kingdom of the Lord over Israel.
+> He has chosen my son Solomon to take the throne of the kingdom of the Lord over Israel.
 
 ---
 
@@ -52,15 +52,15 @@ And of all my sons (for the Lord has given me many sons),
 
 He said to me,
 
-> ‘Your son Solomon is the one who shall build My house and My courtyards;  
-> for I have chosen him to be a son to Me, and I will be a father to him.
+> ‘Your son Solomon is the one who shall construct My house and My courtyards;  
+> for I have chosen him to be a son to Me, and I will be a Father to him.
 
 ---
 
 ## 1 Chronicles 28:7
 
 > I will establish his kingdom forever  
-> if he resolutely performs My commandments and My ordinances,  
+> if he faithfully keeps My commandments and My ordinances,  
 > as is done now.’
 
 ---
@@ -78,18 +78,18 @@ and in the hearing of our God,
 
 ## 1 Chronicles 28:9
 
-As for you, my son Solomon, know the God of your father,
+As for you, my son Solomon, acknowledge the God of your father,
 
-> and serve Him wholeheartedly and with a willing mind;  
+> and serve Him with a whole heart and a willing mind;  
 > for the Lord searches all hearts, and understands every intent of the thoughts.  
 > If you seek Him, He will let you find Him;  
-> but if you forsake Him, He will reject you forever.
+> but if you abandon Him, He will reject you forever.
 
 ---
 
 ## 1 Chronicles 28:10
 
-> Consider now, for the Lord has chosen you to build a house for the sanctuary;  
+> Reflect now, for the Lord has chosen you to build a house for the sanctuary;  
 > be courageous and act.”
 
 ---
@@ -104,7 +104,7 @@ Then David gave his son Solomon the plan of the porch of the temple,
 
 ## 1 Chronicles 28:12
 
-and the plan of all that he had in mind,
+and the design of all that he had envisioned,
 
 > for the courtyards of the house of the Lord, and for all the surrounding rooms,  
 > for the storehouses of the house of God and for the storehouses of the dedicated things;
@@ -113,16 +113,16 @@ and the plan of all that he had in mind,
 
 ## 1 Chronicles 28:13
 
-> also for the divisions of the priests and the Levites,  
-> and for all the work of the service of the house of the Lord,  
-> and for all the utensils of service in the house of the Lord;
+> and concerning the divisions of the priests and the Levites,  
+> and the tasks involved in the service of the house of the Lord,  
+> and for all the utensils used in the service of the house of the Lord;
 
 ---
 
 ## 1 Chronicles 28:14
 
-> for the golden utensils, by weight of gold for all utensils for every service;  
-> for all the silver utensils, by weight of silver for all utensils for every service;
+> for the golden utensils, with the weight of gold for each utensil for every service;  
+> for all the silver utensils, with the weight of silver for each utensil for every service;
 
 ---
 
@@ -137,8 +137,8 @@ and the plan of all that he had in mind,
 
 ## 1 Chronicles 28:16
 
-> and the gold, by weight, for the tables of the showbread, for each table;  
-> and silver for the silver tables;
+> and the gold, measured for the tables of the showbread, for each table;  
+> and silver for the tables made of silver;
 
 ---
 
@@ -159,9 +159,9 @@ and the plan of all that he had in mind,
 
 ## 1 Chronicles 28:19
 
-> “All this,” said David,  
-> “the Lord made me understand in writing by His hand upon me,  
-> all the details of this pattern.”
+> “All these details,” said David,  
+> “the Lord made me understand through His guidance,  
+> all the intricacies of this design.”
 
 ---
 

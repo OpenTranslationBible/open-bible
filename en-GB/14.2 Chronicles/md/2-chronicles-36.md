@@ -24,7 +24,7 @@ But Neco took his brother Jehoahaz and brought him to Egypt.
 ## 2 Chronicles 36:5
 
 Jehoiakim was twenty-five years old when he became king, and he reigned for eleven years in Jerusalem.  
-And he did evil in the sight of the Lord his God.
+And he acted wickedly in the eyes of the Lord his God.
 
 ## 2 Chronicles 36:6
 
@@ -48,7 +48,7 @@ And his son Jehoiachin became king in his place.
 ## 2 Chronicles 36:9
 
 Jehoiachin was eight years old when he became king, and he reigned for three months and ten days in Jerusalem.  
-And he did evil in the sight of the Lord.
+And he acted wickedly in the eyes of the Lord.
 
 ## 2 Chronicles 36:10
 
@@ -64,19 +64,19 @@ Zedekiah, at the age of twenty-one, became king and reigned for eleven years in 
 
 ## 2 Chronicles 36:12
 
-He did evil in the sight of the Lord his God;  
-he did not humble himself before Jeremiah the prophet, who spoke for the Lord.
+He acted wickedly in the eyes of the Lord his God;  
+he did not humble himself before Jeremiah the prophet, who spoke on behalf of the Lord.
 
 ## 2 Chronicles 36:13
 
-He also rebelled against King Nebuchadnezzar, who had made him swear allegiance by God.  
-But he stiffened his neck and hardened his heart against turning to the Lord God of Israel.
+He also defied King Nebuchadnezzar, who had made him swear allegiance by God.  
+But he stiffened his neck and hardened his heart against returning to the Lord God of Israel.
 
 ## 2 Chronicles 36:14
 
-Furthermore, all the officials of the priests and the people were very unfaithful,  
-following all the abominations of the nations;  
-and they defiled the house of the Lord which He had sanctified in Jerusalem.
+Furthermore, all the officials of the priests and the people were exceedingly unfaithful,  
+following all the detestable practices of the nations;  
+and they defiled the house of the Lord which He had made holy in Jerusalem.
 
 ---
 
@@ -87,8 +87,8 @@ because He had compassion on His people and on His dwelling place;
 
 ## 2 Chronicles 36:16
 
-but they continually mocked the messengers of God, despised His words, and scoffed at His prophets,  
-until the wrath of the Lord rose against His people, until there was no remedy.
+but they persistently mocked the messengers of God, despised His words, and ridiculed His prophets,  
+until the anger of the Lord rose against His people, until there was no remedy.
 
 ## 2 Chronicles 36:17
 
@@ -99,14 +99,14 @@ He handed them all over to him.
 
 ## 2 Chronicles 36:18
 
-All the articles of the house of God, great and small, and the treasures of the house of the Lord,  
+All the articles of the house of God, both large and small, and the treasures of the house of the Lord,  
 and the treasures of the king and of his officers,  
-he brought them all to Babylon.
+he took them all to Babylon.
 
 ## 2 Chronicles 36:19
 
-Then they burned the house of God and tore down the wall of Jerusalem,  
-and burned all its palaces with fire, and destroyed all its valuable articles.
+Then they set fire to the house of God and tore down the wall of Jerusalem,  
+and burned all its palaces with fire, and ruined all its precious articles.
 
 ---
 
@@ -117,16 +117,16 @@ and they were servants to him and to his sons until the rule of the kingdom of P
 
 ## 2 Chronicles 36:21
 
-to fulfill the word of the Lord by the mouth of Jeremiah,  
+to bring to pass the word of the Lord spoken by Jeremiah,  
 until the land had enjoyed its Sabbaths.  
-All the days of its desolation it kept Sabbath until seventy years were complete.
+All the days of its desolation it observed rest until seventy years were complete.
 
 ---
 
 ## 2 Chronicles 36:22
 
 Now in the first year of Cyrus king of Persia—  
-in order to fulfill the word of the Lord by the mouth of Jeremiah—  
+in order to bring to pass the word of the Lord spoken by Jeremiah—  
 the Lord stirred up the spirit of Cyrus king of Persia,  
 so that he sent a proclamation throughout his kingdom, and also put it in writing, saying,
 

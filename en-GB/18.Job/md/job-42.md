@@ -6,8 +6,8 @@ Then Job responded to the Lord and said,
 
 ## Job 42:2
 
-> “I know that you can do all things,
-> and that no purpose of yours can be hindered.
+> “I am aware that you are capable of all things,
+> and that no plan of yours can be thwarted.
 
 ## Job 42:3
 
@@ -22,8 +22,8 @@ Then Job responded to the Lord and said,
 
 ## Job 42:5
 
-> My ears had heard of you,
-> but now my eyes have seen you;
+> I had heard of you by the hearing of the ear,
+> but now my eyes have witnessed you;
 
 ## Job 42:6
 

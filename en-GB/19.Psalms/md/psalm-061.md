@@ -11,43 +11,43 @@
 
 ## Psalm 61:2
 
-> From the end of the earth I call to You when my heart is faint;  
-> Lead me to the rock that is higher than I.
+> From the farthest reaches, I call to You when my heart is weary;  
+> Guide me to the rock that is higher than I.
 
 ## Psalm 61:3
 
-> For You have been a refuge for me,  
-> A tower of strength against the enemy.
+> For You have been my refuge,  
+> A strong tower against the adversary.
 
 ---
 
 ## Psalm 61:4
 
-> Let me dwell in Your tent forever;  
-> Let me take refuge in the shelter of Your wings.
+> May I reside in Your tent forever;  
+> Let me find safety in the shelter of Your wings.
 
 > Selah
 
 ## Psalm 61:5
 
-> For You have heard my vows, God;  
-> You have given me the inheritance of those who fear Your name.
+> For You have listened to my vows, God;  
+> You have granted me the heritage of those who revere Your name.
 
 ---
 
 ## Psalm 61:6
 
-> You will prolong the king’s life;  
-> His years will be like generations.
+> You will extend the king’s life;  
+> His years will span generations.
 
 ## Psalm 61:7
 
-> He will live forever before God;  
-> Appoint mercy and truth, that they may watch over him.
+> He will abide before God forever;  
+> Appoint mercy and truth, that they may guard him.
 
 ---
 
 ## Psalm 61:8
 
 > So I will sing praise to Your name forever,  
-> So that I may pay my vows day by day.
+> So that I may fulfil my vows day by day.

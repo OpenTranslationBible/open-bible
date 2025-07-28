@@ -66,10 +66,10 @@ who has become a priest not on the basis of a regulation as to his ancestry, but
 
 ## Hebrews 7:17
 
-For it is attested of Him:
+For it is declared about Him:
 
 > “You are a priest forever,
-> according to the order of Melchizedek.”
+> in the order of Melchizedek.”
 
 ## Hebrews 7:18
 

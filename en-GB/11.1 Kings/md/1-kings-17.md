@@ -12,28 +12,28 @@ Then a message from the Lord came to him, saying,
 
 ## 1 Kings 17:3
 
-“Go away from here and turn eastward,  
-and hide yourself by the brook Cherith, which is east of the Jordan.
+“Depart from here and head eastward,  
+and conceal yourself by the brook Cherith, which is east of the Jordan.
 
 ## 1 Kings 17:4
 
-And it shall be that you will drink from the brook,  
-and I have commanded the ravens to provide food for you there.”
+You shall drink from the brook,  
+and I have instructed the ravens to bring you food there.”
 
 ## 1 Kings 17:5
 
-So he went and did according to the word of the Lord,  
-for he went and lived by the brook Cherith, which is east of the Jordan.
+So he went and acted according to the word of the Lord,  
+for he went and resided by the brook Cherith, which is east of the Jordan.
 
 ## 1 Kings 17:6
 
-The ravens brought him bread and meat in the morning,  
+The ravens delivered bread and meat to him in the morning,  
 and bread and meat in the evening,  
 and he drank from the brook.
 
 ## 1 Kings 17:7
 
-But it happened after a while that the brook dried up,  
+After some time, the brook dried up,  
 because there was no rain in the land.
 
 ---
@@ -44,8 +44,8 @@ Then a message from the Lord came to him, saying,
 
 ## 1 Kings 17:9
 
-“Arise, go to Zarephath, which belongs to Sidon, and stay there.  
-Behold, I have commanded a widow there to provide food for you.”
+“Get up, go to Zarephath, which belongs to Sidon, and reside there.  
+Behold, I have instructed a widow there to provide you with food.”
 
 ## 1 Kings 17:10
 
@@ -65,7 +65,7 @@ But she said,
 “As the Lord your God lives,  
 I have no food, only a handful of flour in the bowl and a little oil in the jar.  
 And behold, I am gathering a few sticks so that I may go in and prepare it for me and my son,  
-so that we may eat it and die.”
+so that we may eat it and then die.”
 
 ## 1 Kings 17:13
 
@@ -83,14 +83,14 @@ until the day that the Lord provides rain on the face of the land.’”
 
 ## 1 Kings 17:15
 
-So she went and did everything in accordance with the word of Elijah,  
-and she and he and her household ate for many days.
+So she went and did as Elijah had said,  
+and she and he and her household had food for many days.
 
 ## 1 Kings 17:16
 
 The bowl of flour was not used up,  
 nor did the jar of oil become empty,  
-in accordance with the word of the Lord which He spoke through Elijah.
+just as the word of the Lord had spoken through Elijah.
 
 ---
 
@@ -126,7 +126,7 @@ and called to the Lord and said,
 
 ## 1 Kings 17:22
 
-And the Lord listened to the voice of Elijah,  
+And the Lord heeded Elijah's voice,  
 and the life of the boy returned to him and he revived.
 
 ## 1 Kings 17:23
@@ -138,5 +138,5 @@ and gave him to his mother; and Elijah said,
 ## 1 Kings 17:24
 
 Then the woman said to Elijah,  
-“Now I know that you are a man of God,  
-and that the word of the Lord in your mouth is truth.”
+“Now I am certain that you are a man of God,  
+and that the word of the Lord in your mouth is true.”

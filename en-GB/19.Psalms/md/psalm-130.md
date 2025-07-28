@@ -8,44 +8,44 @@
 
 ## Psalm 130:2
 
-> Lord, hear my voice!  
-> Let Your ears be attentive  
-> To the sound of my pleadings.
+> Lord, listen to my voice!  
+> May Your ears be attentive  
+> To the sound of my supplications.
 
 ---
 
 ## Psalm 130:3
 
-> If You, Lord, were to keep account of guilty deeds,  
-> Lord, who could stand?
+> If You, Lord, were to mark iniquities,  
+> Lord, who could endure?
 
 ## Psalm 130:4
 
-> But there is forgiveness with You,  
-> So that You may be revered.
+> But with You there is forgiveness,  
+> Therefore You are revered.
 
 ---
 
 ## Psalm 130:5
 
-> I wait for the Lord, my soul waits,  
-> And I wait for His word.
+> I wait for the Lord, my soul is patient,  
+> And I place my hope in His word.
 
 ## Psalm 130:6
 
-> My soul waits in hope for the Lord  
-> More than the watchmen for the morning;  
-> Yes, more than the watchmen for the morning.
+> My soul waits eagerly for the Lord  
+> More than the watchmen wait for the morning;  
+> Indeed, more than the watchmen for the morning.
 
 ---
 
 ## Psalm 130:7
 
-> Israel, wait for the Lord;  
-> For with the Lord there is mercy,  
-> And with Him is abundant redemption.
+> Israel, place your hope in the Lord;  
+> For with the Lord there is lovingkindness,  
+> And with Him is plentiful redemption.
 
 ## Psalm 130:8
 
-> And He will redeem Israel  
-> From all his guilty deeds.
+> And He will deliver Israel  
+> From all his iniquities.

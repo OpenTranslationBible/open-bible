@@ -111,94 +111,94 @@ and the Holy Spirit descended upon Him in a bodily form resembling a dove. A voi
 
 Now Jesus Himself was about thirty years old when He began His ministry. He was, as was supposed, the son of Joseph,
 
-> the son of Heli,
+> the descendant of Heli,
 
 ## Luke 3:24
 
-> the son of Matthat,
-> the son of Levi, the son of Melchi,
-> the son of Jannai, the son of Joseph,
+> the descendant of Matthat,
+> the descendant of Levi, the descendant of Melchi,
+> the descendant of Jannai, the descendant of Joseph,
 
 ## Luke 3:25
 
-> the son of Mattathias, the son of Amos,
-> the son of Nahum, the son of Esli,
-> the son of Naggai,
+> the descendant of Mattathias, the descendant of Amos,
+> the descendant of Nahum, the descendant of Esli,
+> the descendant of Naggai,
 
 ## Luke 3:26
 
-> the son of Maath,
-> the son of Mattathias, the son of Semein,
-> the son of Josech, the son of Joda,
+> the descendant of Maath,
+> the descendant of Mattathias, the descendant of Semein,
+> the descendant of Josech, the descendant of Joda,
 
 ## Luke 3:27
 
-> the son of Joanan, the son of Rhesa,
-> the son of Zerubbabel, the son of Shealtiel,
-> the son of Neri,
+> the descendant of Joanan, the descendant of Rhesa,
+> the descendant of Zerubbabel, the descendant of Shealtiel,
+> the descendant of Neri,
 
 ## Luke 3:28
 
-> the son of Melchi,
-> the son of Addi, the son of Cosam,
-> the son of Elmadam, the son of Er,
+> the descendant of Melchi,
+> the descendant of Addi, the descendant of Cosam,
+> the descendant of Elmadam, the descendant of Er,
 
 ## Luke 3:29
 
-> the son of Joshua, the son of Eliezer,
-> the son of Jorim, the son of Matthat,
-> the son of Levi,
+> the descendant of Joshua, the descendant of Eliezer,
+> the descendant of Jorim, the descendant of Matthat,
+> the descendant of Levi,
 
 ## Luke 3:30
 
-> the son of Simeon,
-> the son of Judah, the son of Joseph,
-> the son of Jonam, the son of Eliakim,
+> the descendant of Simeon,
+> the descendant of Judah, the descendant of Joseph,
+> the descendant of Jonam, the descendant of Eliakim,
 
 ## Luke 3:31
 
-> the son of Melea, the son of Menna,
-> the son of Mattatha, the son of Nathan,
-> the son of David,
+> the descendant of Melea, the descendant of Menna,
+> the descendant of Mattatha, the descendant of Nathan,
+> the descendant of David,
 
 ## Luke 3:32
 
-> the son of Jesse,
-> the son of Obed, the son of Boaz,
-> the son of Salmon, the son of Nahshon,
+> the descendant of Jesse,
+> the descendant of Obed, the descendant of Boaz,
+> the descendant of Salmon, the descendant of Nahshon,
 
 ## Luke 3:33
 
-> the son of Amminadab, the son of Admin, the son of Ram,
-> the son of Hezron, the son of Perez,
-> the son of Judah,
+> the descendant of Amminadab, the descendant of Admin, the descendant of Ram,
+> the descendant of Hezron, the descendant of Perez,
+> the descendant of Judah,
 
 ## Luke 3:34
 
-> the son of Jacob,
-> the son of Isaac, the son of Abraham,
-> the son of Terah, the son of Nahor,
+> the descendant of Jacob,
+> the descendant of Isaac, the descendant of Abraham,
+> the descendant of Terah, the descendant of Nahor,
 
 ## Luke 3:35
 
-> the son of Serug, the son of Reu,
-> the son of Peleg, the son of Eber,
-> the son of Shelah,
+> the descendant of Serug, the descendant of Reu,
+> the descendant of Peleg, the descendant of Eber,
+> the descendant of Shelah,
 
 ## Luke 3:36
 
-> the son of Cainan,
-> the son of Arphaxad, the son of Shem,
-> the son of Noah, the son of Lamech,
+> the descendant of Cainan,
+> the descendant of Arphaxad, the descendant of Shem,
+> the descendant of Noah, the descendant of Lamech,
 
 ## Luke 3:37
 
-> the son of Methuselah, the son of Enoch,
-> the son of Jared, the son of Mahalaleel,
-> the son of Kenan,
+> the descendant of Methuselah, the descendant of Enoch,
+> the descendant of Jared, the descendant of Mahalaleel,
+> the descendant of Kenan,
 
 ## Luke 3:38
 
-> the son of Enosh,
-> the son of Seth, the son of Adam,
-> the son of God.
+> the descendant of Enosh,
+> the descendant of Seth, the descendant of Adam,
+> the descendant of God.

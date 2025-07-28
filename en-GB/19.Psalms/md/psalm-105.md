@@ -2,29 +2,29 @@
 
 ## Psalm 105:1
 
-> Give thanks to the Lord, call upon His name;  
-> Make His deeds known among the peoples.
+> Offer gratitude to the Lord, call upon His name;  
+> Proclaim His deeds among the peoples.
 
 ## Psalm 105:2
 
-> Sing to Him, sing praises to Him;  
-> Tell of all His wonders.
+> Sing to Him, offer praises to Him;  
+> Declare all His wonders.
 
 ## Psalm 105:3
 
-> Boast in His holy name;  
+> Glory in His holy name;  
 > May the heart of those who seek the Lord be joyful.
 
 ## Psalm 105:4
 
 > Seek the Lord and His strength;  
-> Seek His face continually.
+> Pursue His presence continually.
 
 ---
 
 ## Psalm 105:5
 
-> Remember His wonders which He has done,  
+> Recall His wonders which He has performed,  
 > His marvels, and the judgments spoken by His mouth,
 
 ## Psalm 105:6
@@ -35,62 +35,62 @@
 ## Psalm 105:7
 
 > He is the Lord our God;  
-> His judgments are in all the earth.
+> His judgments are throughout the earth.
 
 ---
 
 ## Psalm 105:8
 
-> He has remembered His covenant forever,  
+> He has remembered His covenant eternally,  
 > The word which He commanded to a thousand generations,
 
 ## Psalm 105:9
 
-> The covenant which He made with Abraham,  
-> And His oath to Isaac.
+> The covenant which He established with Abraham,  
+> And His promise to Isaac.
 
 ## Psalm 105:10
 
-> Then He confirmed it to Jacob as a statute,  
+> Then He confirmed it to Jacob as a decree,  
 > To Israel as an everlasting covenant,
 
 ## Psalm 105:11
 
-> Saying, “To you I will give the land of Canaan  
-> As the portion of your inheritance.”
+> Declaring, “To you I will give the land of Canaan  
+> As your allotted inheritance.”
 
 ---
 
 ## Psalm 105:12
 
-> When they were only a few people in number,  
+> When they were but a few in number,  
 > Very few, and strangers in it,
 
 ## Psalm 105:13
 
-> And they wandered from nation to nation,  
+> And they moved from nation to nation,  
 > From one kingdom to another people,
 
 ## Psalm 105:14
 
 > He permitted no one to oppress them,  
-> And He rebuked kings for their sakes, saying,
+> And reproved kings on their behalf, declaring,
 
 ## Psalm 105:15
 
 > “Do not touch My anointed ones,  
-> And do not harm My prophets.”
+> And do no harm to My prophets.”
 
 ---
 
 ## Psalm 105:16
 
-> And He called for a famine upon the land;  
-> He broke the whole staff of bread.
+> And He summoned a famine upon the land;  
+> He broke the entire supply of bread.
 
 ## Psalm 105:17
 
-> He sent a man before them,  
+> He sent a man ahead of them,  
 > Joseph, who was sold as a slave.
 
 ## Psalm 105:18
@@ -100,22 +100,22 @@
 
 ## Psalm 105:19
 
-> Until the time that his word came to pass,  
-> The word of the Lord refined him.
+> Until the time his word was fulfilled,  
+> The word of the Lord tested him.
 
 ## Psalm 105:20
 
-> The king sent and released him,  
-> The ruler of peoples, and set him free.
+> The king sent for him and released him,  
+> The ruler of peoples set him free.
 
 ## Psalm 105:21
 
-> He made him lord of his house,  
+> He appointed him lord of his household,  
 > And ruler over all his possessions,
 
 ## Psalm 105:22
 
-> To imprison his rulers at will,  
+> To bind his officials at will,  
 > That he might teach his elders wisdom.
 
 ---
@@ -123,12 +123,12 @@
 ## Psalm 105:23
 
 > Israel also came into Egypt;  
-> So Jacob lived in the land of Ham.
+> So Jacob resided in the land of Ham.
 
 ## Psalm 105:24
 
 > And He made His people very fruitful,  
-> And made them stronger than their enemies.
+> And made them stronger than their adversaries.
 
 ## Psalm 105:25
 
@@ -137,75 +137,75 @@
 
 ## Psalm 105:26
 
-> He sent His servant Moses,  
+> He sent Moses, His servant,  
 > And Aaron, whom He had chosen.
 
 ## Psalm 105:27
 
-> They performed His wondrous acts among them,  
-> And miracles in the land of Ham.
+> They displayed His miraculous signs among them,  
+> And wonders in the land of Ham.
 
 ## Psalm 105:28
 
 > He sent darkness and made it dark;  
-> And they did not rebel against His words.
+> And they did not defy His commands.
 
 ## Psalm 105:29
 
 > He turned their waters into blood,  
-> And caused their fish to die.
+> And caused their fish to perish.
 
 ## Psalm 105:30
 
-> Their land swarmed with frogs  
+> Their land teemed with frogs  
 > Even in the chambers of their kings.
 
 ## Psalm 105:31
 
-> He spoke, and a swarm of flies came,  
-> And gnats in all their territory.
+> He spoke, and swarms of flies came,  
+> And gnats throughout their territory.
 
 ## Psalm 105:32
 
-> He gave them hail for rain,  
+> He gave them hail instead of rain,  
 > And flaming fire in their land.
 
 ## Psalm 105:33
 
-> He also struck their vines and their fig trees,  
-> And smashed the trees of their territory.
+> He also struck down their vines and their fig trees,  
+> And shattered the trees of their territory.
 
 ## Psalm 105:34
 
 > He spoke, and locusts came,  
-> And creeping locusts, beyond number,
+> And countless grasshoppers,
 
 ## Psalm 105:35
 
-> And they ate all the vegetation in their land,  
-> And ate the fruit of their ground.
+> And they devoured all the vegetation in their land,  
+> And consumed the fruit of their ground.
 
 ## Psalm 105:36
 
-> He also fatally struck all the firstborn in their land,  
-> The first fruits of all their virility.
+> He also struck down all the firstborn in their land,  
+> The first fruits of all their strength.
 
 ## Psalm 105:37
 
-> Then He brought the Israelites out with silver and gold,  
-> And among His tribes there was not one who stumbled.
+> Then He led the Israelites out with silver and gold,  
+> And among His tribes there was not one who faltered.
 
 ## Psalm 105:38
 
-> Egypt was glad when they departed,  
-> For the dread of them had fallen upon the Egyptians.
+> Egypt rejoiced when they departed,  
+> For fear of them had fallen upon the Egyptians.
 
 ---
 
 ## Psalm 105:39
 
-> He spread out a cloud as a covering,  
-> And fire to illumine by night.
+> He spread a cloud for a covering,  
+> And fire to give light by night.
 
 ## Psalm 105:40
 
@@ -214,15 +214,15 @@
 
 ## Psalm 105:41
 
-> He opened the rock and water flowed out;  
-> It ran in the dry places like a river.
+> He opened the rock and water gushed out;  
+> It flowed like a river in the desert.
 
 ---
 
 ## Psalm 105:42
 
-> For He remembered His holy word  
-> With His servant Abraham;
+> For He remembered His sacred promise  
+> To His servant Abraham;
 
 ## Psalm 105:43
 

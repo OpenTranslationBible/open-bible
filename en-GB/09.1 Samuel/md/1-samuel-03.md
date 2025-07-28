@@ -47,7 +47,7 @@ So Samuel went and lay down in his place.
 
 ## 1 Samuel 3:10
 
-The Lord came and stood there, calling as at the other times, “Samuel! Samuel!”  
+The Lord came and stood nearby, calling as He had done before, “Samuel! Samuel!”  
 Then Samuel said, “Speak, for Your servant is listening.”
 
 ---

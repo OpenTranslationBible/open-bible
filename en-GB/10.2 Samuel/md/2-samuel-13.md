@@ -12,8 +12,8 @@ for she was a virgin, and it seemed difficult to Amnon to do anything to her.
 
 ## 2 Samuel 13:3
 
-But Amnon had a friend whose name was Jonadab, the son of Shimeah, David’s brother;  
-and Jonadab was a very clever man.
+Amnon had a companion named Jonadab, the son of Shimeah, David’s brother;  
+and Jonadab was known for his cunning.
 
 ## 2 Samuel 13:4
 
@@ -41,8 +41,8 @@ Then David sent word to the house of Tamar, saying,
 
 ## 2 Samuel 13:8
 
-So Tamar went to her brother Amnon’s house, and he was lying down.  
-And she took dough, kneaded it, made cakes in his sight, and baked the cakes.
+So Tamar went to her brother Amnon’s house, where he was lying down.  
+She took dough, kneaded it, made cakes in his presence, and baked them.
 
 ## 2 Samuel 13:9
 
@@ -59,8 +59,8 @@ So Tamar took the cakes which she had made and brought them into the bedroom to 
 
 ## 2 Samuel 13:11
 
-When she brought them to him to eat, he took hold of her and said to her,  
-“Come, sleep with me, my sister.”
+When she brought them to him to eat, he seized her and said to her,  
+“Come, lie with me, my sister.”
 
 ## 2 Samuel 13:12
 
@@ -70,14 +70,14 @@ do not do this disgraceful sin!
 
 ## 2 Samuel 13:13
 
-As for me, where could I get rid of my shame?  
+As for me, where could I bear my shame?  
 And as for you, you will be like one of the fools in Israel.  
-Now then, please speak to the king, for he will not withhold me from you.”
+Now then, please speak to the king, for he will not refuse you.”
 
 ## 2 Samuel 13:14
 
 However, he would not listen to her;  
-since he was stronger than she, he violated her and slept with her.
+since he was stronger than she, he overpowered her and lay with her.
 
 ## 2 Samuel 13:15
 
@@ -88,13 +88,13 @@ So Amnon said to her, “Get up, go away!”
 ## 2 Samuel 13:16
 
 But she said to him,  
-“No, because this wrong in sending me away is greater than the other that you have done to me!”  
+“No, for this wrong in sending me away is even greater than what you have already done to me!”  
 Yet he would not listen to her.
 
 ## 2 Samuel 13:17
 
 Then he called his young man who attended him and said,  
-“Now throw this woman out of my presence, and lock the door behind her!”
+“Now remove this woman from my presence, and lock the door behind her!”
 
 ## 2 Samuel 13:18
 
@@ -123,8 +123,8 @@ When King David heard about all these matters, he was filled with anger.
 
 ## 2 Samuel 13:22
 
-But Absalom did not speak with Amnon either good or bad;  
-for Absalom hated Amnon because he had violated his sister Tamar.
+Absalom did not speak with Amnon either good or bad;  
+for Absalom harboured hatred towards Amnon because he had wronged his sister Tamar.
 
 ---
 
@@ -154,8 +154,8 @@ And the king said to him, “Why should he go with you?”
 
 ## 2 Samuel 13:27
 
-Nevertheless Absalom urged him,  
-so he let Amnon and all the king’s sons go with him.
+Nevertheless, Absalom persisted,  
+so he allowed Amnon and all the king’s sons to go with him.
 
 ## 2 Samuel 13:28
 
@@ -166,26 +166,26 @@ Do not fear; have I not myself commanded you? Be courageous and be valiant.”
 
 ## 2 Samuel 13:29
 
-And the servants of Absalom did to Amnon just as Absalom had commanded.  
+And the servants of Absalom acted upon his command concerning Amnon.  
 Then all the king’s sons got up and each mounted his mule and fled.
 
 ---
 
 ## 2 Samuel 13:30
 
-Now it was while they were on the way that the report came to David, saying,  
+While they were on the way, a report reached David, saying,  
 “Absalom has struck and killed all the king’s sons, and not one of them is left!”
 
 ## 2 Samuel 13:31
 
 Then the king stood up, tore his clothes, and lay on the ground;  
-and all his servants were standing by with clothes torn.
+and all his servants were standing by with their clothes torn.
 
 ## 2 Samuel 13:32
 
 But Jonadab, the son of Shimeah, David’s brother, responded,  
 “Do not let my lord assume that they have put to death all the young men, the king’s sons;  
-for only Amnon is dead, because Absalom has planned this since the day he violated his sister Tamar.
+for only Amnon is dead, because Absalom has planned this since the day he wronged his sister Tamar.
 
 ## 2 Samuel 13:33
 
@@ -207,13 +207,13 @@ Jonadab said to the king,
 
 As soon as he had finished speaking,  
 behold, the king’s sons came and raised their voices and wept;  
-and the king and all his servants also wept very profusely.
+and the king and all his servants also wept greatly.
 
 ---
 
 ## 2 Samuel 13:37
 
-Now Absalom had fled and gone to Talmai the son of Ammihud, the king of Geshur.  
+Meanwhile, Absalom had fled to Talmai the son of Ammihud, the king of Geshur.  
 And David mourned for his son every day.
 
 ## 2 Samuel 13:38
@@ -222,5 +222,5 @@ So Absalom had fled and gone to Geshur, and he was there for three years.
 
 ## 2 Samuel 13:39
 
-And the heart of King David longed to go out to Absalom;  
-for he was comforted regarding Amnon, since he was dead.
+And King David's heart longed to go out to Absalom;  
+for he found comfort regarding Amnon, since he was dead.

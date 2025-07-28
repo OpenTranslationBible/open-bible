@@ -2,15 +2,15 @@
 
 ## Zephaniah 3:1
 
-> Woe to her who is rebellious and defiled,  
-> The tyrannical city!
+> Alas for her who is rebellious and unclean,  
+> The oppressive city!
 
 ## Zephaniah 3:2
 
-> She obeyed no voice,  
-> She accepted no discipline.  
-> She did not trust in the Lord,  
-> She did not approach her God.
+> She listened to no voice,  
+> She accepted no correction.  
+> She did not place her trust in the Lord,  
+> She did not draw near to her God.
 
 ## Zephaniah 3:3
 
@@ -20,9 +20,9 @@
 
 ## Zephaniah 3:4
 
-> Her prophets are insolent, treacherous men;  
-> Her priests have profaned the sanctuary,  
-> They have done violence to the Law.
+> Her prophets are arrogant, deceitful men;  
+> Her priests have desecrated the sanctuary,  
+> They have violated the Law.
 
 ## Zephaniah 3:5
 
@@ -36,18 +36,18 @@
 
 ## Zephaniah 3:6
 
-> “I have eliminated nations;  
-> Their corner towers are deserted.  
-> I have laid waste their streets,  
+> “I have removed nations;  
+> Their corner towers stand abandoned.  
+> I have devastated their streets,  
 > With no one passing by;  
-> Their cities have been laid waste,  
+> Their cities lie in ruins,  
 > Without a person, without an inhabitant.
 
 ## Zephaniah 3:7
 
-> I said, ‘You will certainly fear Me,  
-> You will accept discipline.’  
-> So her dwelling place will not be eliminated  
+> I said, ‘You will surely fear Me,  
+> You will accept correction.’  
+> So her dwelling place will not be destroyed  
 > In accordance with everything I have appointed for her.  
 > Instead, they were eager to corrupt all their deeds.
 
@@ -59,17 +59,17 @@
 > To assemble kingdoms,  
 > To pour out on them My indignation,  
 > All My burning anger;  
-> For all the earth will be devoured  
+> For all the earth will be consumed  
 > By the fire of My zeal.
 
 ---
 
 ## Zephaniah 3:9
 
-> For then I will restore to the peoples  
-> Pure lips,  
+> For then I will grant to the peoples  
+> Pure speech,  
 > So that all of them may call on the name of the Lord,  
-> To serve Him shoulder to shoulder.
+> To serve Him together.
 
 ## Zephaniah 3:10
 
@@ -90,7 +90,7 @@
 
 > But I will leave among you  
 > A humble and lowly people,  
-> And they will take refuge in the name of the Lord.
+> And they will find refuge in the name of the Lord.
 
 ## Zephaniah 3:13
 
@@ -103,15 +103,15 @@
 
 ## Zephaniah 3:14
 
-> Shout for joy, daughter of Zion!  
+> Sing for joy, daughter of Zion!  
 > Shout in triumph, Israel!  
-> Rejoice and triumph with all your heart,  
+> Rejoice and exult with all your heart,  
 > Daughter of Jerusalem!
 
 ## Zephaniah 3:15
 
-> The Lord has taken away His judgments against you,  
-> He has cleared away your enemies.  
+> The Lord has lifted His judgments against you,  
+> He has driven away your enemies.  
 > The King of Israel, the Lord, is in your midst;  
 > You will no longer fear disaster.
 
@@ -119,15 +119,15 @@
 
 > On that day it will be said to Jerusalem:  
 > “Do not be afraid, Zion;  
-> Do not let your hands fall limp.
+> Do not let your hands grow weak.
 
 ## Zephaniah 3:17
 
 > The Lord your God is in your midst,  
-> A victorious warrior.  
-> He will rejoice over you with joy,  
-> He will be quiet in His love,  
-> He will rejoice over you with shouts of joy.
+> A mighty warrior who saves.  
+> He will rejoice over you with gladness,  
+> He will quiet you with His love,  
+> He will exult over you with joyful singing.
 
 ## Zephaniah 3:18
 
@@ -137,11 +137,11 @@
 
 ## Zephaniah 3:19
 
-> Behold, I am going to deal at that time  
-> With all your oppressors;  
-> I will save those who limp  
+> Behold, I am going to act at that time  
+> Against all your oppressors;  
+> I will save those who are lame  
 > And gather the scattered,  
-> And I will turn their shame into praise and fame  
+> And I will transform their shame into praise and renown  
 > In all the earth.
 
 ## Zephaniah 3:20

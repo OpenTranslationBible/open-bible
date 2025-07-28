@@ -9,20 +9,20 @@
 
 ## Psalm 30:2
 
-> Lord my God,  
-> I cried to You for help, and You healed me.
+> O Lord my God,  
+> I called to You for assistance, and You restored me.
 
 ## Psalm 30:3
 
-> Lord, You have brought up my soul from Sheol;  
-> You have kept me alive, that I would not go down to the pit.
+> Lord, You have raised my soul from Sheol;  
+> You have preserved my life, so that I would not descend to the pit.
 
 ---
 
 ## Psalm 30:4
 
-> Sing praise to the Lord, you His godly ones,  
-> And praise the mention of His holiness.
+> Offer praise to the Lord, you His faithful ones,  
+> And give thanks at the mention of His holiness.
 
 ## Psalm 30:5
 
@@ -36,7 +36,7 @@
 ## Psalm 30:6
 
 > Now as for me, I said in my prosperity,  
-> “I will never be moved.”
+> “I shall never be shaken.”
 
 ## Psalm 30:7
 
@@ -52,22 +52,22 @@
 
 ## Psalm 30:9
 
-> “What gain is there in my blood, if I go down to the pit?  
-> Will the dust praise You? Will it declare Your faithfulness?
+> “What benefit is there in my demise, if I descend to the pit?  
+> Will the dust give You praise? Will it proclaim Your faithfulness?
 
 ## Psalm 30:10
 
-> Hear, Lord, and be gracious to me;  
-> Lord, be my helper.”
+> Listen, Lord, and show me Your grace;  
+> Lord, be my support.”
 
 ---
 
 ## Psalm 30:11
 
-> You have turned my mourning into dancing for me;  
-> You have untied my sackcloth and encircled me with joy,
+> You have transformed my mourning into dancing;  
+> You have removed my sackcloth and surrounded me with joy,
 
 ## Psalm 30:12
 
-> That my soul may sing praise to You and not be silent.  
-> Lord my God, I will give thanks to You forever.
+> So that my soul may sing praise to You and not remain silent.  
+> O Lord my God, I will express my gratitude to You forever.

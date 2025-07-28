@@ -84,14 +84,14 @@ Again I ask: Did Israel not understand? First, Moses says,
 
 ## Romans 10:20
 
-And Isaiah boldly says,
+And Isaiah confidently declares,
 
 > “I was found by those who did not seek me;
 > I revealed myself to those who did not ask for me.”
 
 ## Romans 10:21
 
-But concerning Israel he says,
+But regarding Israel, he states,
 
-> “All day long I have held out my hands
+> “All day long I have extended my hands
 > to a disobedient and obstinate people.”

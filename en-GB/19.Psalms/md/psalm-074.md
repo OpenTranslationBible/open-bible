@@ -9,21 +9,21 @@
 
 ## Psalm 74:2
 
-> Remember Your congregation, which You purchased of old,  
-> Which You have redeemed to be the tribe of Your inheritance;  
-> And this Mount Zion, where You have dwelt.
+> Recall Your people, whom You acquired long ago,  
+> Whom You have reclaimed as the tribe of Your inheritance;  
+> And this Mount Zion, where You have resided.
 
 ## Psalm 74:3
 
-> Step toward the irreparable ruins;  
-> The enemy has damaged everything in the sanctuary.
+> Approach the desolate ruins;  
+> The enemy has laid waste to everything in the sanctuary.
 
 ---
 
 ## Psalm 74:4
 
-> Your adversaries have roared in the midst of Your meeting place;  
-> They have set up their own signs as signs.
+> Your adversaries have clamoured in the heart of Your meeting place;  
+> They have set up their own emblems as symbols.
 
 ## Psalm 74:5
 
@@ -37,13 +37,13 @@
 
 ## Psalm 74:7
 
-> They have burned Your sanctuary to the ground;  
-> They have defiled the dwelling place of Your name.
+> They have reduced Your sanctuary to ashes;  
+> They have desecrated the dwelling place of Your name.
 
 ## Psalm 74:8
 
 > They said in their heart, “Let’s completely subdue them.”  
-> They have burned all the meeting places of God in the land.
+> They have set fire to all the meeting places of God in the land.
 
 ---
 
@@ -51,7 +51,7 @@
 
 > We do not see our signs;  
 > There is no longer any prophet,  
-> Nor is there anyone among us who knows how long.
+> Nor is there anyone among us who knows the duration.
 
 ## Psalm 74:10
 
@@ -60,8 +60,8 @@
 
 ## Psalm 74:11
 
-> Why do You withdraw Your hand, even Your right hand?  
-> Extend it from Your chest and destroy them!
+> Why do You hold back Your hand, even Your right hand?  
+> Release it from Your bosom and bring justice!
 
 ---
 
@@ -74,28 +74,28 @@
 
 ## Psalm 74:13
 
-> You divided the sea by Your strength;  
-> You broke the heads of the sea monsters in the waters.
+> You parted the sea by Your strength;  
+> You shattered the heads of the sea creatures in the waters.
 
 ## Psalm 74:14
 
 > You crushed the heads of Leviathan;  
-> You gave him as food for the creatures of the wilderness.
+> You provided him as food for the creatures of the wilderness.
 
 ## Psalm 74:15
 
-> You broke open springs and torrents;  
-> You dried up ever-flowing streams.
+> You opened springs and torrents;  
+> You dried up perpetual streams.
 
 ## Psalm 74:16
 
 > Yours is the day, Yours also is the night;  
-> You have prepared the light and the sun.
+> You have set in place the light and the sun.
 
 ## Psalm 74:17
 
-> You have established all the boundaries of the earth;  
-> You have created summer and winter.
+> You have defined all the boundaries of the earth;  
+> You have fashioned summer and winter.
 
 ---
 
@@ -106,7 +106,7 @@
 
 ## Psalm 74:19
 
-> Do not give the soul of Your turtledove to the wild animal;  
+> Do not surrender the soul of Your turtledove to the wild beast;  
 > Do not forget the life of Your afflicted forever.
 
 ## Psalm 74:20
@@ -121,7 +121,7 @@
 
 ## Psalm 74:22
 
-> Arise, God, and plead Your own cause;  
+> Rise, God, and defend Your own cause;  
 > Remember how the foolish person taunts You all day long.
 
 ## Psalm 74:23

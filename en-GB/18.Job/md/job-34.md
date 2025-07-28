@@ -11,8 +11,8 @@ Then Elihu continued and spoke:
 
 ## Job 34:3
 
-> For the ear tests words
-> as the palate tastes food.
+> For just as the palate tastes food,
+> so the ear discerns words.
 
 ## Job 34:4
 
@@ -81,8 +81,8 @@ Then Elihu continued and spoke:
 
 ## Job 34:16
 
-> “If you have understanding, hear this;
-> listen to the sound of my words.
+> “If you are wise, pay attention to this;
+> heed the sound of my words.
 
 ## Job 34:17
 
@@ -91,13 +91,13 @@ Then Elihu continued and spoke:
 
 ## Job 34:18
 
-> Is He not the One who says to kings, ‘You are worthless,’
-> and to nobles, ‘You are wicked,’
+> Is He not the One who declares to kings, ‘You are of no account,’
+> and to nobles, ‘You are corrupt,’
 
 ## Job 34:19
 
 > who shows no partiality to princes
-> and does not favour the rich over the poor,
+> and does not favour the wealthy over the poor,
 > for they are all the work of His hands?
 
 ## Job 34:20
@@ -130,7 +130,7 @@ Then Elihu continued and spoke:
 
 ## Job 34:25
 
-> Because He takes note of their deeds,
+> Because He observes their actions,
 > He overthrows them in the night and they are crushed.
 
 ## Job 34:26
@@ -168,8 +168,8 @@ Then Elihu continued and spoke:
 
 ## Job 34:32
 
-> teach me what I do not see;
-> if I have done wrong, I will not do it again’?
+> show me what I do not see;
+> if I have done wrong, I will not repeat it’?
 
 ## Job 34:33
 
@@ -191,11 +191,11 @@ Then Elihu continued and spoke:
 
 ## Job 34:36
 
-> Oh, that Job might be tested to the utmost,
+> Oh, that Job might be thoroughly tested,
 > for answering like a wicked man!
 
 ## Job 34:37
 
 > For he adds rebellion to his sin;
 > he claps his hands among us
-> and multiplies his words against God.”
+> and increases his words against God.”
