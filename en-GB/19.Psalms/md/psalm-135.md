@@ -2,7 +2,7 @@
 
 ## Psalm 135:1
 
-> Honour the Lord!
+> Praise the Lord!
 
 > Honour the name of the Lord;  
 > Praise Him, you servants of the Lord,
@@ -16,7 +16,7 @@
 
 ## Psalm 135:3
 
-> Honour the Lord, for the Lord is good;  
+> Praise the Lord, for the Lord is good;  
 > Sing praises to His name, for it is delightful.
 
 ## Psalm 135:4
@@ -118,6 +118,6 @@
 
 ## Psalm 135:21
 
-> Blessed be the Lord from Zion,  
+> Blessed be the Lord, who comes from Zion,  
 > Who dwells in Jerusalem.  
-> Honour the Lord!
+> Praise the Lord!
