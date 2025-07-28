@@ -151,7 +151,7 @@
 ## Psalm 104:27
 
 > They all depend on You  
-> To provide them with their sustenance at the right time.
+> They wait for their food to be given in time.
 
 ## Psalm 104:28
 
