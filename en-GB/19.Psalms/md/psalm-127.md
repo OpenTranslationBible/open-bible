@@ -5,7 +5,7 @@
 ## Psalm 127:1
 
 > Unless the Lord builds the house,  
-> They who build it labour in vain;  
+> They who build it, labour in vain;  
 > Unless the Lord guards the city,  
 > The watchman stays awake in vain.
 
