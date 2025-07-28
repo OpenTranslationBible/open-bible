@@ -27,7 +27,7 @@ Then David got up and cut off the edge of Saul’s robe secretly.
 ## 1 Samuel 24:5
 
 But afterward, David felt no joy
-because he had cut off the edge of Saul’s robe.
+over the cutting off of the edge of Saul’s robe.
 
 ## 1 Samuel 24:6
 
