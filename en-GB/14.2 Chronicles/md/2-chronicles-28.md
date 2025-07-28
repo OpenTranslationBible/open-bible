@@ -183,7 +183,7 @@ and incited the Lord, the God of his fathers, to anger.
 
 ## 2 Chronicles 28:26
 
-Now the remainder of his acts and all his deeds, from the first to the last,  
+Regarding the remainder of his acts and all his deeds, from the first to the last,  
 behold, they are recorded in the Book of the Kings of Judah and Israel.
 
 ---
