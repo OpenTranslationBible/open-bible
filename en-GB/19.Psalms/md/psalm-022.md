@@ -95,7 +95,7 @@
 ## Psalm 22:16
 
 > For dogs have surrounded me;  
-> A pack of dogs has encircled me;  
+> Like a pack, evildoers encircle me;  
 > They have pierced my hands and my feet.
 
 ## Psalm 22:17
