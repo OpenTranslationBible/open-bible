@@ -46,7 +46,7 @@ These towns were for the descendants of Aaron, from the Kohathite clans of the L
 
 ## Joshua 21:11
 
-They gave them Kiriath Arba (that is, Hebron), with its surrounding pasturelands, in the hill country of Judah. (Arba was the ancestor of Anak.)
+They gave them Kiriath Arba (that is, Hebron), with its surrounding pasturelands, in the hill country of Judah. (Arba was the father of the line of Anak.)
 
 ## Joshua 21:12
 

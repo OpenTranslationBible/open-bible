@@ -189,7 +189,7 @@ Mikloth was the father of Shimeah.
 
 ## 1 Chronicles 8:33
 
-Ner was the ancestor of Kish,
+Ner was the father of the line of Kish,
 
 > Kish was father to Saul,  
 > Saul was the father of Jonathan, Malchi-shua, Abinadab, and Eshbaal.

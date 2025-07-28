@@ -61,7 +61,7 @@ Cush's sons were:
 
 ## 1 Chronicles 1:11
 
-Mizraim was the ancestor of the people of
+Mizraim was father to the line of
 
 > Lud, Anam, Lehab, Naphtuh,
 

@@ -90,7 +90,7 @@ Now Jabez called on the God of Israel, saying,
 
 Chelub, the brother of Shuhah, was the father of Mehir,
 
-> who was the ancestor of Eshton.
+> who fathered the line of Eshton.
 
 ---
 
