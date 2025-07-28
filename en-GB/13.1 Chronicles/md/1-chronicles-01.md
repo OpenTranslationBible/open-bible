@@ -111,7 +111,7 @@ Eber had two sons:
 
 ## 1 Chronicles 1:20
 
-Joktan was the father of
+Joktan's descendants included:
 
 > Almodad, Sheleph, Hazarmaveth, Jerah,
 
@@ -166,7 +166,7 @@ Mishma, Dumah, Massa, Hadad, and Tema,
 ## 1 Chronicles 1:31
 
 Jetur, Naphish, and Kedemah.  
-These were the sons of Ishmael.
+These were Ishmael's descendants.
 
 ---
 
@@ -189,9 +189,9 @@ Midian's sons were:
 
 ## 1 Chronicles 1:34
 
-Abraham was the father of Isaac.
+Abraham fathered Isaac.
 
-> The sons of Isaac were:  
+> Isaac's sons were:  
 > Esau and Israel.
 
 ---

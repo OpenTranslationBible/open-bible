@@ -207,7 +207,7 @@ Then Paul and Barnabas spoke out boldly: “It was necessary to speak the word o
 
 ## Acts 13:47
 
-For this is what the Lord has commanded us:
+For the Lord has instructed us:
 
 > ‘I have made you a light for the Gentiles,
 > that you may bring salvation to the ends of the earth.’”

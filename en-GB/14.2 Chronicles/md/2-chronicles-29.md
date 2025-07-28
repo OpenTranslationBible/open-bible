@@ -63,13 +63,13 @@ and to be His ministers and offer incense.”
 
 ## 2 Chronicles 29:13
 
-> from the descendants of Elizaphan, Shimri and Jeiel;  
-> from the descendants of Asaph, Zechariah and Mattaniah;
+> From the descendants of Elizaphan were Shimri and Jeiel;  
+> from the descendants of Asaph were Zechariah and Mattaniah;
 
 ## 2 Chronicles 29:14
 
-> from the descendants of Heman, Jehiel and Shimei;  
-> from the descendants of Jeduthun, Shemaiah and Uzziel.
+> From the descendants of Heman were Jehiel and Shimei;  
+> from the descendants of Jeduthun were Shemaiah and Uzziel.
 
 ---
 

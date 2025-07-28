@@ -289,7 +289,7 @@ Now the mighty men of the armies included:
 
 ## 1 Chronicles 11:38
 
-> Joel, brother of Nathan,  
+> Joel, the brother of Nathan,  
 > Mibhar, son of Hagri,
 
 ## 1 Chronicles 11:39
@@ -318,7 +318,7 @@ Now the mighty men of the armies included:
 
 ## 1 Chronicles 11:44
 
-> Uzzia the Ashterathite,  
+> Uzzia from Ashterath,  
 > Shama and Jeiel, sons of Hotham the Aroerite,
 
 ## 1 Chronicles 11:45

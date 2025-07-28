@@ -24,13 +24,13 @@ And I heard the number of those who were sealed: 144,000, sealed from all the tr
 
 ## Revelation 7:6
 
-> from the tribe of Asher, 12,000,
+> sealed from the tribe of Asher, 12,000,
 > from the tribe of Naphtali, 12,000,
 > from the tribe of Manasseh, 12,000,
 
 ## Revelation 7:7
 
-> from the tribe of Simeon, 12,000,
+> sealed from the tribe of Simeon, 12,000,
 > from the tribe of Levi, 12,000,
 > from the tribe of Issachar, 12,000,
 

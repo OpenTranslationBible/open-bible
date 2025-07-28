@@ -105,8 +105,8 @@
 
 ## Psalm 105:20
 
-> The king sent for him and released him,  
-> The ruler of peoples set him free.
+> The king called for him and set him free,  
+> The ruler of peoples released him.
 
 ## Psalm 105:21
 
@@ -137,8 +137,8 @@
 
 ## Psalm 105:26
 
-> He sent Moses, His servant,  
-> And Aaron, whom He had chosen.
+> He sent Moses, His chosen servant,  
+> And Aaron, whom He had selected.
 
 ## Psalm 105:27
 
@@ -204,24 +204,24 @@
 
 ## Psalm 105:39
 
-> He spread a cloud for a covering,  
-> And fire to give light by night.
+> He spread a cloud as a covering,  
+> And fire to illuminate the night.
 
 ## Psalm 105:40
 
 > They asked, and He brought quail,  
-> And satisfied them with the bread of heaven.
+> And provided them with the bread of heaven.
 
 ## Psalm 105:41
 
-> He opened the rock and water gushed out;  
-> It flowed like a river in the desert.
+> He opened the rock and water poured forth;  
+> It flowed like a river through the desert.
 
 ---
 
 ## Psalm 105:42
 
-> For He remembered His sacred promise  
+> For He remembered His sacred pledge  
 > To His servant Abraham;
 
 ## Psalm 105:43

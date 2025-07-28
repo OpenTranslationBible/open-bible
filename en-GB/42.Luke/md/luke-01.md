@@ -316,8 +316,8 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:74
 
-> to rescue us from the hand of our enemies,
-> and to enable us to serve him without fear
+> to deliver us from the hand of our enemies,
+> and to allow us to serve him without fear
 
 ## Luke 1:75
 

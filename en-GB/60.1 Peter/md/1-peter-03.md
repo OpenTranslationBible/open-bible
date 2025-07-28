@@ -47,8 +47,8 @@ For,
 
 ## 1 Peter 3:11
 
-> They must turn away from evil and do good;  
-> They must seek peace and pursue it.
+> They should turn away from evil and do good;  
+> They should seek peace and pursue it.
 
 ## 1 Peter 3:12
 

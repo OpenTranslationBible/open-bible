@@ -90,7 +90,7 @@ Now Jabez called on the God of Israel, saying,
 
 Chelub, the brother of Shuhah, was the father of Mehir,
 
-> who was the father of Eshton.
+> who was the ancestor of Eshton.
 
 ---
 
@@ -163,7 +163,7 @@ and Jekuthiel, the father of Zanoah.
 
 The sons of the wife of Hodiah, the sister of Naham, were:
 
-> the father of Keilah the Garmite,  
+> the ancestor of Keilah the Garmite,  
 > and Eshtemoa the Maacathite.
 
 ---

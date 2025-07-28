@@ -142,8 +142,8 @@
 
 ## Psalm 118:26
 
-> Blessed is the one who comes in the name of the Lord;  
-> We bless you from the house of the Lord.
+> Fortunate is the one who arrives in the name of the Lord;  
+> We extend our blessings from the house of the Lord.
 
 ## Psalm 118:27
 

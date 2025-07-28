@@ -207,8 +207,8 @@
 
 ## Psalm 107:39
 
-> When they become few and lowly  
-> Because of oppression, misery, and sorrow,
+> When they are reduced and brought low  
+> Due to oppression, misery, and sorrow,
 
 ## Psalm 107:40
 

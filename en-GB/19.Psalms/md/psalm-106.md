@@ -98,8 +98,8 @@
 
 ## Psalm 106:17
 
-> The earth opened and swallowed up Dathan,  
-> And engulfed the company of Abiram.
+> The ground opened and took in Dathan,  
+> And enveloped the assembly of Abiram.
 
 ## Psalm 106:18
 
@@ -183,7 +183,7 @@
 
 ## Psalm 106:33
 
-> Because they were rebellious against His Spirit,  
+> Because they defied His Spirit,  
 > He spoke rashly with his lips.
 
 ---
@@ -195,13 +195,13 @@
 
 ## Psalm 106:35
 
-> But they mingled with the nations  
+> But they mixed with the nations  
 > And adopted their customs,
 
 ## Psalm 106:36
 
-> And served their idols,  
-> Which became a snare to them.
+> And worshipped their idols,  
+> Which became a trap for them.
 
 ## Psalm 106:37
 

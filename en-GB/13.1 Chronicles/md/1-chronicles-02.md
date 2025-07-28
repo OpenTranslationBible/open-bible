@@ -357,7 +357,7 @@ Jahdai had sons:
 
 ## 1 Chronicles 2:48
 
-Maacah, Caleb's concubine, was the mother of Sheber and Tirhanah.
+Caleb's concubine Maacah gave birth to Sheber and Tirhanah.
 
 ---
 

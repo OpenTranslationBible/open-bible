@@ -267,7 +267,7 @@
 
 ## Psalm 78:47
 
-> He destroyed their vines with hailstones  
+> He ruined their vines with hail  
 > And their sycamore trees with frost.
 
 ## Psalm 78:48
@@ -380,7 +380,7 @@
 
 ## Psalm 78:67
 
-> He also rejected the tent of Joseph,  
+> He also turned away from the tent of Joseph,  
 > And did not choose the tribe of Ephraim,
 
 ## Psalm 78:68
@@ -392,8 +392,8 @@
 
 ## Psalm 78:69
 
-> And He built His sanctuary like the heights,  
-> Like the earth which He has established forever.
+> And He established His sanctuary like the heights,  
+> Like the earth which He has founded forever.
 
 ## Psalm 78:70
 

@@ -72,8 +72,8 @@
 
 ## Amos 4:11
 
-> “I overthrew you, as God overthrew Sodom and Gomorrah,  
-> And you were like a log snatched from a fire;  
+> “I brought destruction upon you, as God did to Sodom and Gomorrah,  
+> And you were like a brand plucked from the fire;  
 > Yet you have not returned to Me,” declares the Lord.
 
 ## Amos 4:12

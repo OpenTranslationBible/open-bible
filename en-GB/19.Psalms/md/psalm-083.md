@@ -60,8 +60,8 @@
 
 ## Psalm 83:11
 
-> Make their nobles like Oreb and Zeeb,  
-> And all their leaders like Zebah and Zalmunna,
+> Let their nobles be as Oreb and Zeeb,  
+> And their leaders as Zebah and Zalmunna,
 
 ## Psalm 83:12
 

@@ -153,10 +153,10 @@ For God has allowed everyone to be disobedient so that He may have mercy on them
 
 ## Romans 11:35
 
-> “Who has ever given to God,
-> that God should repay them?”
+> “Who has ever offered anything to God,
+> that God should return it to them?”
 
 ## Romans 11:36
 
-> For from Him and through Him and to Him are all things.
+> For all things are from Him, through Him, and for Him.
 > To Him be the glory forever! Amen.

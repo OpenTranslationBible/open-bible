@@ -93,10 +93,10 @@ Turning to His disciples, He said:
 
 ## Luke 6:21
 
-> Blessed are you who are hungry now,
-> for you will be satisfied.
-> Blessed are you who weep now,
-> for you will laugh.
+> Fortunate are you who are hungry now,
+> for you will be filled.
+> Fortunate are you who weep now,
+> for you will find joy.
 
 ## Luke 6:22
 

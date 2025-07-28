@@ -12,8 +12,8 @@ in front of the Rocks of the Wild Goats.
 
 ## 1 Samuel 24:3
 
-He arrived at the sheepfolds along the way, where there was a cave;  
-and Saul entered to attend to his needs.  
+He passed by the sheepfolds along the way, where there was a cave;  
+and Saul entered to relieve himself.  
 Now David and his men were sitting in the inner recesses of the cave.
 
 ## 1 Samuel 24:4
@@ -26,7 +26,7 @@ Then David got up and cut off the edge of Saul’s robe secretly.
 
 ## 1 Samuel 24:5
 
-But afterward, David felt remorse  
+But afterward, David felt no joy
 because he had cut off the edge of Saul’s robe.
 
 ## 1 Samuel 24:6

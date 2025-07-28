@@ -11,11 +11,11 @@ And David arose and went down to the wilderness of Paran.
 
 There was a man in Maon whose business was in Carmel;  
 and this man was exceedingly wealthy, owning three thousand sheep and a thousand goats.  
-It happened while he was shearing his sheep in Carmel—
+An occasion came to pass while he was shearing his sheep in Carmel—
 
 ## 1 Samuel 25:3
 
-The man’s name was Nabal, and his wife’s name was Abigail.  
+For the man’s name was Nabal, and his wife’s name was Abigail.  
 The woman was discerning and beautiful,  
 but the man was harsh and dishonest in his dealings, and he was a Calebite.
 

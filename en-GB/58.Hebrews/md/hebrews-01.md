@@ -63,14 +63,14 @@ He also declares,
 
 ## Hebrews 1:11
 
-> They will perish, but You remain;
-> they will all wear out like a garment.
+> They will pass away, but You remain;
+> they will all age like clothing.
 
 ## Hebrews 1:12
 
-> You will roll them up like a robe;
-> like a garment, they will be changed.
-> But You remain the same,
+> You will fold them up like a cloak;
+> like clothing, they will be altered.
+> But You remain unchanged,
 > and Your years will never end.”
 
 ## Hebrews 1:13

@@ -242,7 +242,7 @@
 ## Psalm 89:45
 
 > You have shortened the days of his youth;  
-> You have covered him with shame.
+> You have enveloped him in dishonour.
 
 > Selah
 
@@ -284,5 +284,5 @@
 
 ## Psalm 89:52
 
-> May the Lord be praised forever!  
+> May the Lord be glorified eternally!  
 > Amen and Amen.

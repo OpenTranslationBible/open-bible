@@ -124,7 +124,7 @@
 ## Judges 5:20
 
 > From the heavens, the stars joined the battle,
-> from their paths, they fought against Sisera.
+> from their heavenly paths, they fought against Sisera.
 
 ## Judges 5:21
 

@@ -73,8 +73,8 @@ Instead, this is what was foretold through the prophet Joel:
 > ‘In the last days,’ says God,
 > ‘I will pour out my Spirit on all people;
 > your sons and daughters will prophesy,
-> your young men will see visions, a
-> nd your old men will dream dreams.
+> your young men will see visions,
+> and your old men will dream dreams.
 
 ## Acts 2:18
 
@@ -120,8 +120,8 @@ David spoke concerning him:
 
 ## Acts 2:26
 
-> Therefore my heart is glad and my tongue rejoices;
-> my body also will rest in hope,
+> Therefore my heart is joyful and my tongue exults;
+> my body also will dwell securely,
 
 ## Acts 2:27
 
@@ -159,13 +159,13 @@ Exalted to the right hand of God, he has received from the Father the promised H
 
 For David did not ascend to heaven, and yet he said,
 
-> ‘The Lord said to my Lord:
+> ‘The Lord declared to my Lord:
 > “Sit at my right hand
 
 ## Acts 2:35
 
 > until I make your enemies
-> a footstool for your feet.”’
+> a resting place for your feet.”’
 
 ## Acts 2:36
 

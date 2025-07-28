@@ -191,8 +191,8 @@
 
 ## Psalm 69:34
 
-> Let heaven and earth praise Him,  
-> The seas and everything that moves in them.
+> Let the heavens and the earth extol Him,  
+> The seas and all that move within them.
 
 ## Psalm 69:35
 
