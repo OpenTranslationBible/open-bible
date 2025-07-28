@@ -44,7 +44,7 @@
 ## Psalm 112:8
 
 > His heart is resolute, he will not fear,  
-> But will observe his adversaries with satisfaction.
+> But will look upon his enemies with resolve.
 
 ## Psalm 112:9
 
