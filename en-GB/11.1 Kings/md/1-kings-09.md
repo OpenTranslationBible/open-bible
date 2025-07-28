@@ -27,7 +27,7 @@ and will keep My statutes and My ordinances,
 
 ## 1 Kings 9:5
 
-then I will establish the throne of your kingdom over Israel perpetually,  
+then I will establish the throne of your kingdom over Israel permanently,  
 just as I promised to your father David, saying,  
 ‘You shall always have a successor on the throne of Israel.’
 
