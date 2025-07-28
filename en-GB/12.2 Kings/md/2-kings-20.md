@@ -4,7 +4,7 @@
 
 During that time, Hezekiah fell gravely ill.  
 And Isaiah the prophet, the son of Amoz, visited him and said,  
-“This is what the Lord declares: ‘Prepare your affairs, for you will not recover; you shall pass away.’”
+“This is what the Lord declares: ‘Prepare your affairs, for you will not recover; you shall die and pass away.’”
 
 ## 2 Kings 20:2
 
