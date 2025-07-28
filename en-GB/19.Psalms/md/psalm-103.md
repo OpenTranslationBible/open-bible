@@ -59,7 +59,7 @@
 ## Psalm 103:11
 
 > For as high as the heavens are above the earth,  
-> So great is His mercy toward those who revere Him.
+> So great is His mercy toward those who fear Him.
 
 ## Psalm 103:12
 
@@ -71,7 +71,7 @@
 ## Psalm 103:13
 
 > Just as a father shows compassion to his children,  
-> So the Lord shows compassion to those who revere Him.
+> So the Lord shows compassion to those who fear Him.
 
 ## Psalm 103:14
 
@@ -91,7 +91,7 @@
 ## Psalm 103:17
 
 > But the mercy of the Lord is from everlasting to everlasting  
-> Upon those who revere Him,  
+> Upon those who fear Him,  
 > And His righteousness to the children’s children,
 
 ## Psalm 103:18
