@@ -4,11 +4,11 @@
 
 ## Psalm 139:1
 
-> Lord, You have searched me and known me.
+> Lord, You have searched me and know me.
 
 ## Psalm 139:2
 
-> You are aware of when I sit down and when I rise up;  
+> You know when I sit down and when I rise up;  
 > You perceive my thoughts from a distance.
 
 ## Psalm 139:3
@@ -23,7 +23,7 @@
 
 ## Psalm 139:5
 
-> You have surrounded me from behind and in front,  
+> You hem me in Lord, behind and in front,  
 > And laid Your hand upon me.
 
 ## Psalm 139:6
@@ -40,8 +40,8 @@
 
 ## Psalm 139:8
 
-> If I ascend to heaven, You are there;  
-> If I lie down in Sheol, behold, You are there.
+> If I go up to heaven, You are there;  
+> If I lie myself in the depths, You are there.
 
 ## Psalm 139:9
 
@@ -51,7 +51,7 @@
 ## Psalm 139:10
 
 > Even there Your hand will lead me,  
-> And Your right hand will securely hold me.
+> And Your right hand will hold me tight.
 
 ## Psalm 139:11
 
