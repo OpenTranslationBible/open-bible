@@ -79,7 +79,7 @@
 ## Job 17:15
 
 > Where then is my hope?  
-> And who observes my hope?
+> And who see any hope for me?
 
 ## Job 17:16
 
