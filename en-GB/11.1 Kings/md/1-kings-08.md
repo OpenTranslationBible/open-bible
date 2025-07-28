@@ -114,8 +114,8 @@ But the Lord said to my father David,
 ## 1 Kings 8:19
 
 But, you shall not build the house,  
-for a son who will be born to you,  
-and he will build the house for My name.’
+for your son who will be born to you,  
+will build the house for My name.’
 
 ## 1 Kings 8:20
 
