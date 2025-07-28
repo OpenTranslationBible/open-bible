@@ -59,7 +59,7 @@
 ## Psalm 103:11
 
 > For as high as the heavens are above the earth,  
-> So great is His mercy toward those who fear Him.
+> So great is His mercy towards those who fear Him.
 
 ## Psalm 103:12
 
