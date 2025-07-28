@@ -2,8 +2,8 @@
 
 ## 1 Chronicles 10:1
 
-The Philistines engaged in battle with Israel,  
-and the men of Israel retreated from the Philistines and were slain on Mount Gilboa.
+The Philistines went into battle with Israel,  
+and the men of Israel fled from the Philistines and were slain on Mount Gilboa.
 
 ---
 
