@@ -150,8 +150,8 @@ These were all the sons of Joktan.
 
 ## 1 Chronicles 1:28
 
-> The sons of Abraham were:  
-> Isaac and Ishmael.
+> Abraham's sons were:  
+> named Isaac and Ishmael.
 
 ## 1 Chronicles 1:29
 
@@ -198,9 +198,9 @@ Abraham fathered Isaac.
 
 ## 1 Chronicles 1:35
 
-The sons of Esau were:
+Esau's sons were:
 
-> Eliphaz, Reuel, Jeush, Jalam, and Korah.
+> Eliphaz, Reuel, and Jeush; Jalam, and Korah.
 
 ## 1 Chronicles 1:36
 
@@ -210,17 +210,17 @@ Eliphaz's sons were:
 
 ## 1 Chronicles 1:37
 
-The sons of Reuel were:
+Reuel's sons were:
 
-> Nahath, Zerah, Shammah, and Mizzah.
+> Nahath, and Zerah; Shammah, and Mizzah.
 
 ---
 
 ## 1 Chronicles 1:38
 
-The sons of Seir were:
+Seir's sons were:
 
-> Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
+> Lotan, Shobal, and Zibeon; Anah, Dishon, Ezer, and Dishan.
 
 ## 1 Chronicles 1:39
 
