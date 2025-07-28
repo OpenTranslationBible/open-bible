@@ -10,19 +10,19 @@
 ## Psalm 138:2
 
 > I will bow in reverence toward Your sacred temple  
-> And express gratitude to Your name for Your mercy and Your truth;  
+> And give thanks to Your name for Your mercy and Your truth;  
 > For You have magnified Your word in accordance with all Your name.
 
 ## Psalm 138:3
 
-> On the day I called, You responded to me;  
+> On the day I called, You heard me;  
 > You infused my soul with courage and strength.
 
 ---
 
 ## Psalm 138:4
 
-> All the kings of the earth shall express gratitude to You, Lord,  
+> All the kings of the earth shall give thanks to You, Lord,  
 > When they have heard the words spoken by Your mouth.
 
 ## Psalm 138:5
