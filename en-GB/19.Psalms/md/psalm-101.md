@@ -14,7 +14,7 @@
 
 ---
 
-> I will conduct myself within my house with a sincere heart.
+> I will walk within the halls of my house with a sincere heart.
 
 ## Psalm 101:3
 
