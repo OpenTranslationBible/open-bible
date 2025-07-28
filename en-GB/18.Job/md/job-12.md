@@ -48,7 +48,7 @@ Then Job responded, saying,
 
 ## Job 12:9
 
-> Who among all these does not recognise
+> Who among all these does not accept
 > that the hand of the Lord is responsible for this?
 
 ## Job 12:10
