@@ -83,7 +83,7 @@ Then Job again took up his discourse and said,
 ## Job 27:16
 
 > Though he heaps up silver like dust,  
-> And amasses garments as plentiful as clay,
+> And amasses fabrics as plentiful as clay,
 
 ## Job 27:17
 
