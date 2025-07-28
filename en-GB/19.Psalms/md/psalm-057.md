@@ -20,7 +20,7 @@
 
 > He will send from heaven and save me;  
 > He rebukes the one who tramples upon me.  
-> _Selah_  
+> Selah  
 > God will send His favour and His truth.
 
 ---
@@ -47,7 +47,7 @@
 > My soul is bowed down;  
 > They dug a pit before me;  
 > They themselves have fallen into it.  
-> _Selah_
+> Selah
 
 ---
 

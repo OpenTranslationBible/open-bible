@@ -112,7 +112,7 @@
 
 > God will hear and humble them—  
 > Even the one who sits enthroned from ancient times—  
-> _Selah_  
+> Selah  
 > Because they do not change,  
 > And do not fear God.
 
