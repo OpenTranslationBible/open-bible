@@ -9,7 +9,7 @@
 ## Job 10:2
 
 > I will ask God, ‘Do not condemn me;  
-> Help me understand why You challenge me.
+> Help me understand why You are accusing me.
 
 ## Job 10:3
 
