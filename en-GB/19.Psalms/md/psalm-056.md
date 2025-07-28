@@ -66,7 +66,7 @@
 ## Psalm 56:11
 
 > In God I have placed my trust, I shall not be afraid.  
-> What can humanity do to me?
+> What can the world do to me?
 
 ---
 
