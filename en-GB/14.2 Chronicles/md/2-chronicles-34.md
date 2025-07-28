@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 34:1
 
-Josiah was eight years old when he ascended to the throne, and he ruled for thirty-one years in Jerusalem.
+Josiah was eight years old when he began his reign, and he ruled for thirty-one years in Jerusalem.
 
 ## 2 Chronicles 34:2
 

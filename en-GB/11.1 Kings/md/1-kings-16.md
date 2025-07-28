@@ -129,7 +129,7 @@ So Tibni died, and Omri became king.
 ## 1 Kings 16:23
 
 In the thirty-first year of Asa king of Judah,  
-Omri ascended to the throne over Israel and reigned for twelve years;  
+Omri began his reign over Israel and reigned for twelve years;  
 he ruled six years at Tirzah.
 
 ## 1 Kings 16:24

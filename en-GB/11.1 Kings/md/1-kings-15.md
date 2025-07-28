@@ -3,7 +3,7 @@
 ## 1 Kings 15:1
 
 In the eighteenth year of King Jeroboam, son of Nebat,  
-Abijam ascended to the throne over Judah.
+Abijam began his reign over Judah.
 
 ## 1 Kings 15:2
 

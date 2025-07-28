@@ -10,7 +10,7 @@ Thus, Ahaziah, the son of Jehoram, king of Judah, became king.
 
 ## 2 Chronicles 22:2
 
-Ahaziah was twenty-two years old when he ascended to the throne, and he ruled for one year in Jerusalem.  
+Ahaziah was twenty-two years old when he began his reign, and he ruled for one year in Jerusalem.  
 His mother was Athaliah, a descendant of Omri.
 
 ---

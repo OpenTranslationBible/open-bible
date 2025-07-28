@@ -3,7 +3,7 @@
 ## 2 Kings 15:1
 
 During the twenty-seventh year of Jeroboam king of Israel,  
-Azariah son of Amaziah, king of Judah, ascended to the throne.
+Azariah son of Amaziah, king of Judah, began his reign.
 
 ## 2 Kings 15:2
 
@@ -191,7 +191,7 @@ indeed, they are recorded in the Book of the Chronicles of the Kings of Israel.
 ## 2 Kings 15:32
 
 During the second year of Pekah son of Remaliah king of Israel,  
-Jotham son of Uzziah king of Judah ascended to the throne.
+Jotham son of Uzziah king of Judah began his reign.
 
 ## 2 Kings 15:33
 

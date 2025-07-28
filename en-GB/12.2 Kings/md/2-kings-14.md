@@ -3,7 +3,7 @@
 ## 2 Kings 14:1
 
 During the second year of Joash, son of Jehoahaz, king of Israel,  
-Amaziah, son of Joash, king of Judah, ascended to the throne.
+Amaziah, son of Joash, king of Judah, began his reign.
 
 ## 2 Kings 14:2
 

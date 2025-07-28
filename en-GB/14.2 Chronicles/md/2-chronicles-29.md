@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 29:1
 
-Hezekiah ascended to the throne at the age of twenty-five, and he ruled for twenty-nine years in Jerusalem.  
+Hezekiah began his reign at the age of twenty-five, and he ruled for twenty-nine years in Jerusalem.  
 His mother was named Abijah, the daughter of Zechariah.
 
 ## 2 Chronicles 29:2

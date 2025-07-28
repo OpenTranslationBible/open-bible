@@ -3,7 +3,7 @@
 ## 2 Kings 13:1
 
 During the twenty-third year of Joash, son of Ahaziah, king of Judah,  
-Jehoahaz, son of Jehu, ascended to the throne over Israel in Samaria, and his reign lasted seventeen years.
+Jehoahaz, son of Jehu, began his reign over Israel in Samaria, and his reign lasted seventeen years.
 
 ## 2 Kings 13:2
 

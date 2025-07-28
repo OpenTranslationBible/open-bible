@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 33:1
 
-Manasseh was twelve years old when he ascended to the throne, and he ruled for fifty-five years in Jerusalem.
+Manasseh was twelve years old when he began his reign, and he ruled for fifty-five years in Jerusalem.
 
 ## 2 Chronicles 33:2
 
@@ -112,7 +112,7 @@ and his son Amon became king in his place.
 
 ## 2 Chronicles 33:21
 
-Amon was twenty-two years old when he ascended to the throne, and he ruled for two years in Jerusalem.
+Amon was twenty-two years old when he began his reign, and he ruled for two years in Jerusalem.
 
 ## 2 Chronicles 33:22
 
