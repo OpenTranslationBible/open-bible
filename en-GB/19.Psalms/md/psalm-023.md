@@ -9,28 +9,28 @@
 
 ## Psalm 23:2
 
-> He allows me to rest in lush meadows;  
-> He guides me beside tranquil waters.
+> He makes me lie down in the green pastures;  
+> He leads me beside quiet waters.
 
 ## Psalm 23:3
 
 > He refreshes my soul;  
-> He leads me along the right paths  
-> For the sake of His name.
+> He leads me along the paths of righteousness
+> For His name's sake.
 
 ## Psalm 23:4
 
-> Even though I walk through the darkest valley,  
-> I fear no harm, for You are with me;  
-> Your rod and Your staff, they bring me comfort.
+> Even though I walk through the valley of the shadow of death,  
+> I shall fear no evil, for You are with me;  
+> Your rod and Your staff, they comfort me.
 
 ---
 
 ## Psalm 23:5
 
-> You set a table before me in front of my adversaries;  
+> You set a table before me in the presence of my enemies;  
 > You have blessed my head with oil;  
-> My cup is abundantly full.
+> My cup is overflowing.
 
 ## Psalm 23:6
 
