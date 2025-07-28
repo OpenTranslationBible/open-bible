@@ -141,7 +141,7 @@
 
 > They will perish, but You remain;  
 > All of them will wear out like a garment;  
-> Like clothing You will change them, and they will be gone.
+> Like a ruined cloth You will change them, and they will be gone.
 
 ## Psalm 102:27
 
