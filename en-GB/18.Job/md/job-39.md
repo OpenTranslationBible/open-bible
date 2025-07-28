@@ -2,7 +2,7 @@
 
 ## Job 39:1
 
-> “Are you aware of the moment the mountain goats give birth?  
+> “Do you know the moment when the mountain goats give birth?  
 > Do you watch when the deer bring forth their young?
 
 ## Job 39:2
