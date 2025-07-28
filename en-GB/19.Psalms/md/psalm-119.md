@@ -102,7 +102,7 @@
 
 ## Psalm 119:19
 
-> I am a sojourner on the earth;  
+> I am a wanderer on the earth;  
 > Do not hide Your commandments from me.
 
 ## Psalm 119:20

@@ -82,7 +82,7 @@
 > Hear my prayer, Lord, and listen to my cry for help;  
 > Do not ignore my tears;  
 > For I am a stranger with You,  
-> A sojourner like all my ancestors.
+> A wanderer like all my ancestors.
 
 ## Psalm 39:13
 

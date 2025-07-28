@@ -80,7 +80,8 @@ Whoever possessed precious stones gave them to the treasury of the house of the 
 ## 1 Chronicles 29:9
 
 Then the people rejoiced because they had given so willingly,  
-for they made their offering to the Lord with a whole heart,  
+for they made their offering to the Lord with a whole heart,
+
 > and King David also rejoiced exceedingly.
 
 ---
@@ -131,7 +132,7 @@ and David said,
 
 ## 1 Chronicles 29:15
 
-> For we are strangers before You, and sojourners, as all our fathers were;  
+> For we are strangers before You, and wanderers, as all our fathers were;  
 > our days on the earth are like a shadow, without certainty.
 
 ---
