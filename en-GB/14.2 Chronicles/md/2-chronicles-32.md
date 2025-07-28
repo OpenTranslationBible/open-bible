@@ -36,7 +36,7 @@ for the One with us is greater than the one with him.
 
 ## 2 Chronicles 32:8
 
-With him is only human strength, but with us is the Lord our God,  
+With him is only a man's strength, but with us is the Lord our God,  
 to help us and to fight our battles.”  
 And the people relied on the words of Hezekiah king of Judah.
 
