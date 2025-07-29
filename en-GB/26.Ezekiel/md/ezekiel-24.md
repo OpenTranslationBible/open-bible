@@ -41,10 +41,10 @@ Speak a parable to this rebellious house and say to them: ‘This is what the So
 
 ## Ezekiel 24:7
 
-> For her blood remains within her;
-> she exposed it on the bare rock;
-> she did not pour it on the ground
-> to cover it with dust.
+> For the blood she spilled remains within her;
+> she spilled it upon the bare rock;
+> and did not pour it on the ground
+> nor cover it with dust.
 
 ## Ezekiel 24:8
 

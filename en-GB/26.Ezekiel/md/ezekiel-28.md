@@ -48,7 +48,7 @@ and your heart has become proud because of your wealth.
 ## Ezekiel 28:8
 
 > They will bring you down to the depths,
-> and you will meet a violent end
+> and you will die violently
 > in the heart of the seas.
 
 ## Ezekiel 28:9

@@ -60,8 +60,8 @@ On that day messengers will go out from me in ships to frighten Cush out of her 
 
 ‘This is what the Sovereign Lord declares:
 
-> “I will bring an end to the multitudes of Egypt
-> through Nebuchadnezzar king of Babylon.
+> “I will bring an end to the Egyptian multitude
+> and I will use Nebuchadnezzar, king of Babylon's, hand.
 
 ## Ezekiel 30:11
 
