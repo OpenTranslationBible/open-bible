@@ -36,9 +36,9 @@
 
 ## Hosea 5:6
 
-> They will approach with their flocks and herds  
+> They will take their flocks and herds  
 > To seek the Lord, yet they will not find Him;  
-> He has distanced Himself from them.
+> For he has distanced Himself from them.
 
 ## Hosea 5:7
 
