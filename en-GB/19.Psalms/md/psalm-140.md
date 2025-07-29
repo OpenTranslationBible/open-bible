@@ -9,8 +9,8 @@
 
 ## Psalm 140:2
 
-> Who plot harmful schemes in their hearts;  
-> They are constantly inciting conflicts.
+> Who plot evil schemes in their hearts;  
+> They are constantly stirring conflicts.
 
 ## Psalm 140:3
 
@@ -29,7 +29,7 @@
 
 ## Psalm 140:5
 
-> The arrogant have laid a trap for me, and snares;  
+> The proud have laid a trap for me, with snares;  
 > They have spread a net beside the path;  
 > They have set traps for me.
 
@@ -40,7 +40,7 @@
 ## Psalm 140:6
 
 > I declared to the Lord, “You are my God;  
-> Hear, Lord, the sound of my supplications.”
+> Hear, Lord, the sound of my plea.”
 
 ## Psalm 140:7
 
