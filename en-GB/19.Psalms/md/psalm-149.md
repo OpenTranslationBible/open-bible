@@ -2,7 +2,7 @@
 
 ## Psalm 149:1
 
-> Honour the Lord!
+> Praise the Lord!
 
 > Sing a fresh song to the Lord,  
 > And celebrate Him in the gathering of the faithful.
@@ -14,7 +14,7 @@
 
 ## Psalm 149:3
 
-> They shall honour His name with dancing;  
+> They shall praise His name with dancing;  
 > They shall sing to Him with tambourine and lyre.
 
 ## Psalm 149:4
@@ -48,4 +48,4 @@
 
 > To carry out the judgement decreed against them.  
 > This honour is for all His faithful ones.  
-> Honour the Lord!
+> Praise the Lord!

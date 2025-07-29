@@ -2,31 +2,31 @@
 
 ## Psalm 148:1
 
-> Honour the Lord!  
+> Praise the Lord!
 
 > Glorify the Lord from the heavens;  
-> Celebrate Him in the heights!
+> Praise Him in the heights!
 
 ## Psalm 148:2
 
-> Extol Him, all His angels;  
-> Laud Him, all His heavenly hosts!
+> Praise Him, all His angels;  
+> Glorify Him, all His heavenly hosts!
 
 ## Psalm 148:3
 
-> Acclaim Him, sun and moon;  
-> Praise Him, all shining stars!
+> Praise Him, sun and moon;  
+> Glorify Him, all shining stars!
 
 ## Psalm 148:4
 
-> Exalt Him, highest heavens,  
-> And the waters that are above the skies!
+> Praise Him, you highest heavens,  
+> And the waters above the heavens!
 
 ---
 
 ## Psalm 148:5
 
-> Let them honour the name of the Lord,  
+> Let them praise the name of the Lord,  
 > For He commanded, and they came into being.
 
 ## Psalm 148:6
@@ -58,19 +58,19 @@
 
 ## Psalm 148:11
 
-> Monarchs of the earth and all peoples;  
-> Leaders and all judges of the earth;
+> The Kings of the earth and all peoples;  
+> All who rule and all judge on the earth;
 
 ## Psalm 148:12
 
 > Both young men and maidens;  
-> Elders and children.
+> The old and the young.
 
 ---
 
 ## Psalm 148:13
 
-> Let them honour the name of the Lord,  
+> Let them praise the name of the Lord,  
 > For His name alone is exalted;  
 > His splendour is above earth and heaven.
 
@@ -79,4 +79,4 @@
 > And He has raised a horn for His people,  
 > Praise for all His faithful ones,  
 > For the children of Israel, a people close to Him.  
-> Honour the Lord!
+> Praise the Lord!
