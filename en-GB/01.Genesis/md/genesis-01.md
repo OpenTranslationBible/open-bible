@@ -38,7 +38,7 @@ And God said, “Let the waters under the sky be gathered to one place, and let 
 
 ## Genesis 1:10
 
-God named the dry ground “land,” and the gathered waters He named “seas.” And God observed that it was good.
+God named the dry ground “land,” and the gathered waters He named “seas.” And God saw that it was good.
 
 ## Genesis 1:11
 
@@ -46,7 +46,7 @@ Then God said, “Let the land produce vegetation: seed-bearing plants and trees
 
 ## Genesis 1:12
 
-The land brought forth vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God observed that it was good.
+The land brought forth vegetation: plants bearing seed according to their kinds and trees bearing fruit with seed in it according to their kinds. And God saw that it was good.
 
 ## Genesis 1:13
 
@@ -70,7 +70,7 @@ God set them in the expanse of the sky to give light on the earth,
 
 ## Genesis 1:18
 
-to govern the day and the night, and to separate the light from the darkness. And God observed that it was good.
+to govern the day and the night, and to separate the light from the darkness. And God saw that it was good.
 
 ## Genesis 1:19
 
@@ -82,7 +82,7 @@ And God said, “Let the waters teem with living creatures, and let birds fly ab
 
 ## Genesis 1:21
 
-So God created the great sea creatures and every living thing with which the waters teem and that moves about in it, according to their kinds, and every winged bird according to its kind. And God observed that it was good.
+So God created the great sea creatures and every living thing with which the waters teem and that moves about in it, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
 
 ## Genesis 1:22
 
@@ -98,7 +98,7 @@ And God said, “Let the land bring forth living creatures according to their ki
 
 ## Genesis 1:25
 
-God made the wild animals according to their kinds, the livestock according to their kinds, and all the creatures that move along the ground according to their kinds. And God observed that it was good.
+God made the wild animals according to their kinds, the livestock according to their kinds, and the creatures that move along the ground according to their kinds. And God saw that it was good.
 
 ## Genesis 1:26
 
