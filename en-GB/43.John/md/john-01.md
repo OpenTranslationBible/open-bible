@@ -2,11 +2,11 @@
 
 ## John 1:1
 
-At the start, the Word existed, and the Word was alongside God, and the Word was divine.
+In the beginning was the Word, and the Word was with God, and the Word was God.
 
 ## John 1:2
 
-He was present with God from the start.
+He was with God in the beginning.
 
 ## John 1:3
 

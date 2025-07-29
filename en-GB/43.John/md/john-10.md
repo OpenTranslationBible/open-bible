@@ -126,7 +126,7 @@ My Father, who has given them to me, is greater than all; no one can take them f
 
 ## John 10:30
 
-The Father and I are united.”
+The Father and I are one.”
 
 ---
 
