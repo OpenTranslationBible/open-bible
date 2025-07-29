@@ -11,7 +11,7 @@ The oracle that the prophet Habakkuk witnessed.
 
 ## Habakkuk 1:3
 
-> Why do you cause me to witness wrongdoing,
+> Why do you force me to look upon iniquity,
 > and why do you passively observe evil?
 > Destruction and violence are before me;
 > strife and contention arise.
@@ -71,9 +71,9 @@ The oracle that the prophet Habakkuk witnessed.
 
 ## Habakkuk 1:12
 
-> Are you not eternal,
+> Are you not from eternity,
 > O Lord my God, my Holy One?
-> We shall not perish.
+> You shall not perish.
 > O Lord, you have appointed them for judgement,
 > and you, O Rock, have established them for correction.
 

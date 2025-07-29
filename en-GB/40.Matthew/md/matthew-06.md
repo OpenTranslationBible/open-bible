@@ -41,27 +41,27 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 “Pray in this way:
 
 > ‘Our Father in heaven,
-> may Your name be revered,
+> hallowed be Your name,
 
 ## Matthew 6:10
 
-> Let Your kingdom come,
-> Let Your will be accomplished,
+> Your kingdom come,
+> Let Your will be done,
 > on earth as it is in heaven.
 
 ## Matthew 6:11
 
-> Provide for us this day the sustenance we need.
+> Grant us this day our daily bread.
 
 ## Matthew 6:12
 
-> And forgive us our wrongdoings,
-> as we also have forgiven those who wrong us.
+> And forgive us our sins,
+> as we forgive those who sin against us.
 
 ## Matthew 6:13
 
-> And do not lead us into temptation,
-> but rescue us from evil.’
+> And lead us not into temptation,
+> but deliver us from evil.’
 
 ---
 

@@ -113,7 +113,7 @@ The prayer of supplication by Habakkuk the prophet, set to Shigionoth.
 
 ## Habakkuk 3:18
 
-> nevertheless, I will find joy in the Lord,
+> yet, I will find joy in the Lord,
 > I will delight in God my Saviour.
 
 ## Habakkuk 3:19

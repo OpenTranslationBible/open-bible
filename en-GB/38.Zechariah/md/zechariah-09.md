@@ -4,7 +4,7 @@
 
 The message
 
-> Concerning the word of the Lord is directed towards the land of Hadrach, with Damascus as its resting place—  
+> The word of the Lord is directed towards the land of Hadrach, with Damascus as its resting place—  
 > For the eyes of humanity, especially all the tribes of Israel, are upon the Lord—
 
 ## Zechariah 9:2

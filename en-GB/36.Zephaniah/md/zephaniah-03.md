@@ -126,7 +126,7 @@
 > The Lord your God is in your midst,  
 > A mighty warrior who saves.  
 > He will rejoice over you with gladness,  
-> He will quiet you with His love,  
+> He will be quiet in His love,  
 > He will exult over you with joyful singing.
 
 ## Zephaniah 3:18

@@ -11,13 +11,13 @@
 
 Then the Lord replied to me and said,
 
-> “Record the vision  
-> And make it clear on tablets,  
+> “Write down this vision  
+> Scribe it clearly on tablets,  
 > So that anyone who reads it may run.
 
 ## Habakkuk 2:3
 
-> For the vision awaits its appointed time;  
+> For the vision will come to pass in its appointed time;  
 > It hastens toward the goal and will not fail.  
 > Though it may delay, wait for it;  
 > For it will surely come, it will not be late.

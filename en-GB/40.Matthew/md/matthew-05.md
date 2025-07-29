@@ -2,7 +2,7 @@
 
 ## Matthew 5:1
 
-When Jesus observed the crowds, He ascended a mountainside and sat down. His disciples approached Him,
+When Jesus saw the crowds, He ascended a mountainside and sat down. His disciples approached Him,
 
 ## Matthew 5:2
 
@@ -10,7 +10,7 @@ and He began to instruct them, saying:
 
 ## Matthew 5:3
 
-> “Fortunate are those who are humble in spirit,
+> “Blessed are those who are poor in spirit,
 > for the kingdom of heaven belongs to them.
 
 ## Matthew 5:4
@@ -20,27 +20,27 @@ and He began to instruct them, saying:
 
 ## Matthew 5:5
 
-> Fortunate are the meek,
-> for they shall inherit the earth.
+> Blessed are the meek,
+> they shall inherit the earth.
 
 ## Matthew 5:6
 
-> Fortunate are those who long for righteousness,
+> Blessed are those who long for righteousness,
 > for they shall be fulfilled.
 
 ## Matthew 5:7
 
-> Fortunate are those who show mercy,
+> Blessed are those who show mercy,
 > for they shall be shown mercy.
 
 ## Matthew 5:8
 
-> Fortunate are those with a pure heart,
+> Blessed are those with a pure heart,
 > for they shall see God.
 
 ## Matthew 5:9
 
-> Fortunate are those who make peace,
+> Blessed are those who make peace,
 > for they shall be called the children of God.
 
 ## Matthew 5:10

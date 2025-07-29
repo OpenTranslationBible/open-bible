@@ -2,7 +2,7 @@
 
 ## Zechariah 10:1
 
-> Request rain from the Lord during the springtime—  
+> Ask for rain from the Lord during the springtime—  
 > The Lord who creates the storm winds;  
 > And He will provide them with showers of rain, vegetation in the field for each person.
 
