@@ -41,7 +41,7 @@ Those who went ahead and those who followed were shouting,
 
 ## Mark 11:10
 
-> “Blessed is the arrival of the kingdom of our ancestor David!
+> “Blessed is the coming of the kingdom of David!
 > Hosanna in the highest!”
 
 ## Mark 11:11

@@ -288,8 +288,8 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:68
 
-> “Honour be to the Lord, the God of Israel,
-> for he has visited his people and brought them redemption.
+> “Praise be to the Lord, the God of Israel,
+> for he has come to his people and brought them redemption.
 
 ## Luke 1:69
 
@@ -302,8 +302,8 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:71
 
-> deliverance from our enemies
-> and from the hand of all who detest us—
+> to save us from our enemies
+> from the hand of all who detest us—
 
 ## Luke 1:72
 
@@ -316,8 +316,8 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:74
 
-> to deliver us from the hand of our enemies,
-> and to allow us to serve him without fear
+> to save us from the hand of our enemies,
+> so we may serve him without fear
 
 ## Luke 1:75
 

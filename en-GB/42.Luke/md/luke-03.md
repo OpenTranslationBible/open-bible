@@ -111,94 +111,94 @@ and the Holy Spirit descended upon Him in a bodily form resembling a dove. A voi
 
 Now Jesus Himself was about thirty years old when He began His ministry. He was, as was supposed, the son of Joseph,
 
-> the descendant of Heli,
+> whose father was Heli,
 
 ## Luke 3:24
 
-> the descendant of Matthat,
-> the descendant of Levi, the descendant of Melchi,
-> the descendant of Jannai, the descendant of Joseph,
+> the son of Matthat,
+> whose father was Levi, the son of Melchi,
+> whose father was Jannai, whose father was Joseph,
 
 ## Luke 3:25
 
-> the descendant of Mattathias, the descendant of Amos,
-> the descendant of Nahum, the descendant of Esli,
-> the descendant of Naggai,
+> whose father was Mattathias, whose father was Amos,
+> whose father was Nahum, whose father was Esli,
+> whose father was Naggai,
 
 ## Luke 3:26
 
-> the descendant of Maath,
-> the descendant of Mattathias, the descendant of Semein,
-> the descendant of Josech, the descendant of Joda,
+> whose father was Maath,
+> whose father was Mattathias, whose father was Semein,
+> whose father was Josech, whose father was Joda,
 
 ## Luke 3:27
 
-> the descendant of Joanan, the descendant of Rhesa,
-> the descendant of Zerubbabel, the descendant of Shealtiel,
-> the descendant of Neri,
+> whose father was Joanan, whose father was Rhesa,
+> whose father was Zerubbabel, whose father was Shealtiel,
+> whose father was Neri,
 
 ## Luke 3:28
 
-> the descendant of Melchi,
-> the descendant of Addi, the descendant of Cosam,
-> the descendant of Elmadam, the descendant of Er,
+> whose father was Melchi,
+> whose father was Addi, whose father was Cosam,
+> whose father was Elmadam, whose father was Er,
 
 ## Luke 3:29
 
-> the descendant of Joshua, the descendant of Eliezer,
-> the descendant of Jorim, the descendant of Matthat,
-> the descendant of Levi,
+> whose father was Joshua, whose father was Eliezer,
+> whose father was Jorim, whose father was Matthat,
+> whose father was Levi,
 
 ## Luke 3:30
 
-> the descendant of Simeon,
-> the descendant of Judah, the descendant of Joseph,
-> the descendant of Jonam, the descendant of Eliakim,
+> whose father was Simeon,
+> whose father was Judah, whose father was Joseph,
+> whose father was Jonam, whose father was Eliakim,
 
 ## Luke 3:31
 
-> the descendant of Melea, the descendant of Menna,
-> the descendant of Mattatha, the descendant of Nathan,
-> the descendant of David,
+> whose father was Melea, whose father was Menna,
+> whose father was Mattatha, whose father was Nathan,
+> whose father was David,
 
 ## Luke 3:32
 
-> the descendant of Jesse,
-> the descendant of Obed, the descendant of Boaz,
-> the descendant of Salmon, the descendant of Nahshon,
+> whose father was Jesse,
+> whose father was Obed, whose father was Boaz,
+> whose father was Salmon, whose father was Nahshon,
 
 ## Luke 3:33
 
-> the descendant of Amminadab, the descendant of Admin, the descendant of Ram,
-> the descendant of Hezron, the descendant of Perez,
-> the descendant of Judah,
+> whose father was Amminadab, whose father was Admin, whose father was Ram,
+> whose father was Hezron, whose father was Perez,
+> whose father was Judah,
 
 ## Luke 3:34
 
-> the descendant of Jacob,
-> the descendant of Isaac, the descendant of Abraham,
-> the descendant of Terah, the descendant of Nahor,
+> whose father was Jacob,
+> whose father was Isaac, whose father was Abraham,
+> whose father was Terah, whose father was Nahor,
 
 ## Luke 3:35
 
-> the descendant of Serug, the descendant of Reu,
-> the descendant of Peleg, the descendant of Eber,
-> the descendant of Shelah,
+> whose father was Serug, whose father was Reu,
+> whose father was Peleg, whose father was Eber,
+> whose father was Shelah,
 
 ## Luke 3:36
 
-> the descendant of Cainan,
-> the descendant of Arphaxad, the descendant of Shem,
-> the descendant of Noah, the descendant of Lamech,
+> whose father was Cainan,
+> whose father was Arphaxad, whose father was Shem,
+> whose father was Noah, whose father was Lamech,
 
 ## Luke 3:37
 
-> the descendant of Methuselah, the descendant of Enoch,
-> the descendant of Jared, the descendant of Mahalaleel,
-> the descendant of Kenan,
+> whose father was Methuselah, whose father was Enoch,
+> whose father was Jared, whose father was Mahalaleel,
+> whose father was Kenan,
 
 ## Luke 3:38
 
-> the descendant of Enosh,
-> the descendant of Seth, the descendant of Adam,
-> the descendant of God.
+> whose father was Enosh,
+> whose father was Seth, whose father was Adam,
+> whose father was God.
