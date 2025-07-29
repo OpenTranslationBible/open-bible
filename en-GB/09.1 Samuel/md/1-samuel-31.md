@@ -2,8 +2,8 @@
 
 ## 1 Samuel 31:1
 
-Now the Philistines were fighting against Israel,  
-and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa.
+The Philistines engaged in battle with Israel,  
+and the men of Israel retreated from the Philistines and were slain on Mount Gilboa.
 
 ## 1 Samuel 31:2
 
@@ -12,8 +12,8 @@ and the Philistines killed Jonathan, Abinadab, and Malchi-shua, the sons of Saul
 
 ## 1 Samuel 31:3
 
-The battle went heavily against Saul,  
-and the archers found him; and he was gravely wounded by the archers.
+The battle pressed hard against Saul,  
+and the archers located him; and he was severely wounded by them.
 
 ## 1 Samuel 31:4
 
@@ -47,9 +47,9 @@ they found Saul and his three sons fallen on Mount Gilboa.
 
 ## 1 Samuel 31:9
 
-They cut off his head and stripped off his weapons,  
+They removed his head and stripped off his weapons,  
 and sent them throughout the land of the Philistines,  
-to bring the good news to the house of their idols and to the people.
+to announce the news to the house of their idols and to the people.
 
 ## 1 Samuel 31:10
 
@@ -70,5 +70,5 @@ and they came to Jabesh and burned them there.
 
 ## 1 Samuel 31:13
 
-And they took their bones and buried them under the tamarisk tree in Jabesh,  
-and fasted for seven days.
+And they took their bones and laid them to rest under the tamarisk tree in Jabesh,  
+and observed a fast for seven days.

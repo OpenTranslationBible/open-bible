@@ -26,14 +26,14 @@ But Christ is faithful as a Son over God's house. And we are his house, if indee
 
 ## Hebrews 3:7
 
-Therefore, as the Holy Spirit says:
+Therefore, as the Holy Spirit expresses:
 
 > “Today, if you hear his voice,
 
 ## Hebrews 3:8
 
-> do not harden your hearts as in the rebellion,
-> during the day of testing in the wilderness,
+> do not harden your hearts as during the rebellion,
+> in the time of testing in the wilderness,
 
 ## Hebrews 3:9
 
@@ -67,7 +67,7 @@ For we have become partakers of Christ, if we hold our original conviction firml
 As it has been said:
 
 > “Today, if you hear his voice,
-> do not harden your hearts as in the rebellion.”
+> do not harden your hearts as during the rebellion.”
 
 ## Hebrews 3:16
 

@@ -72,8 +72,8 @@ Whoever has ears to hear, let them hear.
 
 > ‘We played the flute for you,
 > and you did not dance;
-> we sang a dirge,
-> and you did not mourn.’
+> we sang a mournful song,
+> yet you did not lament.’
 
 ## Matthew 11:18
 

@@ -36,9 +36,9 @@
 
 ## Hosea 5:6
 
-> They will go with their flocks and herds  
-> To seek the Lord, but they will not find Him;  
-> He has withdrawn from them.
+> They will take their flocks and herds  
+> To seek the Lord, yet they will not find Him;  
+> For he has distanced Himself from them.
 
 ## Hosea 5:7
 
@@ -48,10 +48,10 @@
 
 ## Hosea 5:8
 
-> Blow the horn in Gibeah,  
+> Sound the horn in Gibeah,  
 > The trumpet in Ramah.  
-> Sound an alarm at Beth-aven:  
-> “Behind you, Benjamin!”
+> Raise an alarm at Beth-aven:  
+> “Watch out, Benjamin!”
 
 ## Hosea 5:9
 
@@ -66,12 +66,12 @@
 ## Hosea 5:11
 
 > Ephraim is oppressed, crushed in judgment,  
-> Because he was determined to follow man’s command.
+> Because he was determined to follow human directives.
 
 ## Hosea 5:12
 
-> Therefore I am like a moth to Ephraim,  
-> And like rottenness to the house of Judah.
+> Therefore I am like decay to Ephraim,  
+> And like corrosion to the house of Judah.
 
 ## Hosea 5:13
 
@@ -84,10 +84,10 @@
 
 ## Hosea 5:14
 
-> For I will be like a lion to Ephraim,  
+> For I will be like a fierce lion to Ephraim,  
 > And like a young lion to the house of Judah.  
-> I, yes I, will tear to pieces and go away,  
-> I will carry away, and there will be no one to rescue.
+> I, yes I, will tear to pieces and depart,  
+> I will carry away, and there will be no one to deliver.
 
 ## Hosea 5:15
 

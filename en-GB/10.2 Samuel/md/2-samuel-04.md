@@ -69,6 +69,6 @@ shall I not now require his blood from your hands and eliminate you from the ear
 
 ## 2 Samuel 4:12
 
-Then David commanded the young men, and they killed them and cut off their hands and feet,  
-and hung them up beside the pool in Hebron.  
-But they took the head of Ish-bosheth and buried it in the grave of Abner in Hebron.
+Then on David's order the young men executed them and severed their hands and feet,  
+and displayed them beside the pool in Hebron.  
+However, they took the head of Ish-bosheth and laid it to rest in the grave of Abner in Hebron.

@@ -18,8 +18,8 @@ until the Lord put them under the soles of his feet.
 
 ## 1 Kings 5:4
 
-But now the Lord my God has given me rest on every side;  
-there is neither adversary nor misfortune.
+But now the Lord my God has granted me peace on every side;  
+there is neither adversary nor trouble.
 
 ## 1 Kings 5:5
 
@@ -40,9 +40,9 @@ For you know that there is no one among us who knows how to cut timber like the 
 
 ## 1 Kings 5:7
 
-When Hiram heard the words of Solomon, he rejoiced greatly and said,  
-“Blessed be the Lord today,  
-who has given to David a wise son over this great people.”
+When Hiram heard Solomon's message, he was exceedingly glad and said,  
+“Blessed be the Lord this day,  
+who has given to David a wise son to rule over this great people.”
 
 ## 1 Kings 5:8
 
@@ -53,11 +53,11 @@ I will do what you desire concerning the cedar timber and the cypress timber.
 ## 1 Kings 5:9
 
 My servants will bring them down from Lebanon to the sea;  
-and I will make them into rafts to go by sea to the place where you direct me,  
-and I will have them broken up there,  
+and I will make them into rafts to go by sea to the place you designate,  
+and I will have them dismantled there,  
 and you shall carry them away.  
-Then you shall accomplish my desire  
-by giving food to my household.”
+Then you shall fulfil my request  
+by providing food for my household.”
 
 ---
 
@@ -73,8 +73,8 @@ Solomon would give this to Hiram year by year.
 
 ## 1 Kings 5:12
 
-And the Lord gave wisdom to Solomon, just as He promised him;  
-and there was peace between Hiram and Solomon,  
+And the Lord endowed Solomon with wisdom, just as He promised him;  
+and there was harmony between Hiram and Solomon,  
 and the two of them made a covenant.
 
 ---

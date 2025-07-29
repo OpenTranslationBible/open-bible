@@ -6,23 +6,23 @@ Then Job again took up his discourse and said,
 
 ## Job 29:2
 
-> “Oh that I were as in months gone by,  
+> “If only I could be as in the months of old,  
 > As in the days when God watched over me;
 
 ## Job 29:3
 
-> When His lamp shone over my head,  
+> When His lamp shone above me,  
 > And by His light I walked through darkness;
 
 ## Job 29:4
 
 > Just as I was in the days of my youth,  
-> When the protection of God was over my tent;
+> When God's protection was over my tent;
 
 ## Job 29:5
 
 > When the Almighty was still with me,  
-> And my children were around me;
+> And my children surrounded me;
 
 ## Job 29:6
 
@@ -33,23 +33,23 @@ Then Job again took up his discourse and said,
 
 ## Job 29:7
 
-> When I went out to the gate of the city,  
+> When I went to the city gate,  
 > When I took my seat in the public square,
 
 ## Job 29:8
 
-> The young men saw me and hid,  
+> The young men saw me and withdrew,  
 > And the old men arose and stood.
 
 ## Job 29:9
 
-> The leaders stopped talking  
-> And put their hands on their mouths;
+> The leaders ceased speaking  
+> And placed their hands on their mouths;
 
 ## Job 29:10
 
 > The voices of the nobles were hushed,  
-> And their tongues stuck to their palates.
+> And their tongues clung to their palates.
 
 ## Job 29:11
 
@@ -58,40 +58,40 @@ Then Job again took up his discourse and said,
 
 ## Job 29:12
 
-> Because I saved the poor who cried for help,  
-> And the orphan who had no helper.
+> Because I delivered the poor who cried for help,  
+> And the orphan who had no supporter.
 
 ## Job 29:13
 
-> The blessing of the one who was about to perish came upon me,  
+> The blessing of the one who was perishing came upon me,  
 > And I made the widow’s heart sing for joy.
 
 ## Job 29:14
 
-> I put on righteousness, and it clothed me;  
+> I wore righteousness, and it clothed me;  
 > My justice was like a robe and a headband.
 
 ## Job 29:15
 
-> I was eyes to the blind,  
-> And feet to the lame.
+> I was a guide to the blind,  
+> And a support to the lame.
 
 ## Job 29:16
 
 > I was a father to the needy,  
-> And I investigated the case which I did not know.
+> And I examined the case I did not know.
 
 ## Job 29:17
 
-> I broke the jaws of the wicked,  
-> And rescued the prey from his teeth.
+> I shattered the jaws of the wicked,  
+> And rescued the prey from their teeth.
 
 ---
 
 ## Job 29:18
 
-> Then I thought, ‘I will die with my family,  
-> And I will multiply my days as the sand.
+> Then I thought, ‘I will die in my nest,  
+> And I will multiply my days like the sand.
 
 ## Job 29:19
 
@@ -100,7 +100,7 @@ Then Job again took up his discourse and said,
 
 ## Job 29:20
 
-> My glory is ever new with me,  
+> My glory is ever fresh with me,  
 > And my bow is renewed in my hand.’
 
 ---
@@ -108,17 +108,17 @@ Then Job again took up his discourse and said,
 ## Job 29:21
 
 > To me they listened and waited,  
-> And kept silent for my advice.
+> And remained silent for my advice.
 
 ## Job 29:22
 
 > After my words they did not speak again,  
-> And my speech dropped on them.
+> And my speech settled on them.
 
 ## Job 29:23
 
 > They waited for me as for the rain,  
-> And opened their mouths as for the late rain.
+> And opened their mouths as for the spring rain.
 
 ## Job 29:24
 
@@ -127,6 +127,6 @@ Then Job again took up his discourse and said,
 
 ## Job 29:25
 
-> I chose a way for them and sat as chief,  
-> And lived as a king among the troops,  
+> I determined their course and sat as chief,  
+> And dwelt as a king among the troops,  
 > As one who comforted the mourners.

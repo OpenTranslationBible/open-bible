@@ -11,9 +11,9 @@ Moreover, David and the commanders of the army set apart for the service some of
 
 ## 1 Chronicles 25:2
 
-> Of the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah;  
-> the sons of Asaph were under the direction of Asaph,  
-> who prophesied under the direction of the king.
+> From the sons of Asaph: Zaccur, Joseph, Nethaniah, and Asharelah;  
+> these sons were guided by Asaph,  
+> who prophesied under the guidance of the king.
 
 ---
 
@@ -34,20 +34,20 @@ Moreover, David and the commanders of the army set apart for the service some of
 
 ## 1 Chronicles 25:5
 
-All these were the sons of Heman the king’s seer,
+All these were the sons of Heman, the king’s seer,
 
-> to exalt him according to the words of God;  
-> for God gave fourteen sons and three daughters to Heman.
+> to honour him according to the words of God;  
+> for God granted Heman fourteen sons and three daughters.
 
 ---
 
 ## 1 Chronicles 25:6
 
-All of these were under the direction of their father
+All of these were under their father's guidance
 
 > to sing in the house of the Lord, with cymbals, harps, and lyres,  
 > for the service of the house of God.  
-> Asaph, Jeduthun, and Heman were under the direction of the king.
+> Asaph, Jeduthun, and Heman were under the king's direction.
 
 ---
 
@@ -62,9 +62,9 @@ with their relatives, all who were skillful, was
 
 ## 1 Chronicles 25:8
 
-They cast lots for their duties, all alike,
+They cast lots for their duties, all equally,
 
-> the small as well as the great, the teacher as well as the pupil.
+> the young as well as the old, the teacher as well as the student.
 
 ---
 

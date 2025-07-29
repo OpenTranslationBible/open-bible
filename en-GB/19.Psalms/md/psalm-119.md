@@ -4,42 +4,42 @@
 
 ## Psalm 119:1
 
-> Blessed are those whose way is blameless,  
-> Who walk in the Law of the Lord.
+> Joyful are those whose path is pure,  
+> Who follow the Law of the Lord.
 
 ## Psalm 119:2
 
-> Blessed are those who comply with His testimonies,  
+> Joyful are those who observe His testimonies,  
 > And seek Him with all their heart.
 
 ## Psalm 119:3
 
-> They also do no injustice;  
+> They also commit no wrong;  
 > They walk in His ways.
 
 ## Psalm 119:4
 
-> You have ordained Your precepts,  
+> You have established Your precepts,  
 > That we are to keep them diligently.
 
 ## Psalm 119:5
 
-> Oh that my ways may be established  
+> Oh that my ways may be steadfast  
 > To keep Your statutes!
 
 ## Psalm 119:6
 
 > Then I will not be ashamed  
-> When I look at all Your commandments.
+> When I consider all Your commandments.
 
 ## Psalm 119:7
 
-> I will give thanks to You with uprightness of heart,  
+> I will give thanks to You with sincerity of heart,  
 > When I learn Your righteous judgments.
 
 ## Psalm 119:8
 
-> I will keep Your statutes;  
+> I will uphold Your statutes;  
 > Do not utterly abandon me!
 
 ---
@@ -54,36 +54,36 @@
 ## Psalm 119:10
 
 > With all my heart I have sought You;  
-> Do not let me wander from Your commandments.
+> Do not let me drift from Your commandments.
 
 ## Psalm 119:11
 
-> I have treasured Your word in my heart,  
+> I have cherished Your word in my heart,  
 > So that I may not sin against You.
 
 ## Psalm 119:12
 
-> Blessed are You, Lord;  
+> Praised are You, Lord;  
 > Teach me Your statutes.
 
 ## Psalm 119:13
 
-> With my lips I have told of  
+> With my lips I have declared  
 > All the ordinances of Your mouth.
 
 ## Psalm 119:14
 
-> I have rejoiced in the way of Your testimonies,  
+> I have found joy in the way of Your testimonies,  
 > As much as in all riches.
 
 ## Psalm 119:15
 
-> I will meditate on Your precepts  
-> And regard Your ways.
+> I will reflect on Your precepts  
+> And consider Your ways.
 
 ## Psalm 119:16
 
-> I shall delight in Your statutes;  
+> I shall take pleasure in Your statutes;  
 > I will not forget Your word.
 
 ---
@@ -97,38 +97,38 @@
 
 ## Psalm 119:18
 
-> Open my eyes, that I may behold  
+> Open my eyes, that I may see  
 > Wonderful things from Your Law.
 
 ## Psalm 119:19
 
-> I am a stranger on the earth;  
+> I am a wanderer on the earth;  
 > Do not hide Your commandments from me.
 
 ## Psalm 119:20
 
-> My soul is crushed with longing  
+> My soul is overwhelmed with longing  
 > For Your ordinances at all times.
 
 ## Psalm 119:21
 
-> You rebuke the arrogant, the cursed,  
+> You rebuke the proud, the cursed,  
 > Who stray from Your commandments.
 
 ## Psalm 119:22
 
 > Take disgrace and contempt away from me,  
-> For I comply with Your testimonies.
+> For I observe Your testimonies.
 
 ## Psalm 119:23
 
 > Even though rulers sit and speak against me,  
-> Your servant meditates on Your statutes.
+> Your servant reflects on Your statutes.
 
 ## Psalm 119:24
 
 > Your testimonies also are my delight;  
-> They are my advisers.
+> They are my counsellors.
 
 ---
 
@@ -136,42 +136,42 @@
 
 ## Psalm 119:25
 
-> My soul clings to the dust;  
-> Revive me according to Your word.
+> My soul clings to the ground;  
+> Renew me according to Your word.
 
 ## Psalm 119:26
 
-> I have told of my ways, and You have answered me;  
+> I have recounted my ways, and You have responded to me;  
 > Teach me Your statutes.
 
 ## Psalm 119:27
 
-> Make me understand the way of Your precepts,  
+> Help me understand the way of Your precepts,  
 > So that I will meditate on Your wonders.
 
 ## Psalm 119:28
 
-> My soul weeps because of grief;  
+> My soul weeps because of sorrow;  
 > Strengthen me according to Your word.
 
 ## Psalm 119:29
 
-> Remove the false way from me,  
+> Remove the deceitful path from me,  
 > And graciously grant me Your Law.
 
 ## Psalm 119:30
 
-> I have chosen the faithful way;  
+> I have chosen the path of faithfulness;  
 > I have placed Your judgments before me.
 
 ## Psalm 119:31
 
 > I cling to Your testimonies;  
-> Lord, do not put me to shame!
+> Lord, do not let me be put to shame!
 
 ## Psalm 119:32
 
-> I shall run the way of Your commandments,  
+> I shall run the course of Your commandments,  
 > For You will enlarge my heart.
 
 ---
@@ -181,42 +181,42 @@
 ## Psalm 119:33
 
 > Teach me, the way of Your statutes, Lord,  
-> And I shall comply with it to the end.
+> And I shall observe it to the end.
 
 ## Psalm 119:34
 
-> Give me understanding, so that I may comply with Your Law  
+> Give me understanding, so that I may observe Your Law  
 > And keep it with all my heart.
 
 ## Psalm 119:35
 
-> Make me walk in the path of Your commandments,  
+> Guide me in the path of Your commandments,  
 > For I delight in it.
 
 ## Psalm 119:36
 
-> Incline my heart to Your testimonies,  
-> And not to dishonest gain.
+> Draw my heart towards Your testimonies,  
+> And not towards dishonest gain.
 
 ## Psalm 119:37
 
 > Turn my eyes away from looking at what is worthless,  
-> And revive me in Your ways.
+> And renew me in Your ways.
 
 ## Psalm 119:38
 
 > Establish Your word to Your servant,  
-> As that which produces reverence for You.
+> As that which inspires reverence for You.
 
 ## Psalm 119:39
 
-> Take away my disgrace which I dread,  
+> Remove my disgrace which I dread,  
 > For Your judgments are good.
 
 ## Psalm 119:40
 
 > Behold, I long for Your precepts;  
-> Revive me through Your righteousness.
+> Renew me through Your righteousness.
 
 ---
 
@@ -229,38 +229,38 @@
 
 ## Psalm 119:42
 
-> So that I will have an answer for one who taunts me,  
+> So that I will have a response for one who taunts me,  
 > For I trust in Your word.
 
 ## Psalm 119:43
 
-> And do not take the word of truth utterly out of my mouth,  
+> And do not take the word of truth completely out of my mouth,  
 > For I wait for Your judgments.
 
 ## Psalm 119:44
 
 > So I will keep Your Law continually,  
-> Forever and ever.
+> For all time.
 
 ## Psalm 119:45
 
-> And I will walk at liberty,  
+> And I will walk in freedom,  
 > For I seek Your precepts.
 
 ## Psalm 119:46
 
-> I will also speak of Your testimonies before kings,  
+> I will also declare Your testimonies before kings,  
 > And shall not be ashamed.
 
 ## Psalm 119:47
 
-> I will delight in Your commandments,  
+> I will take pleasure in Your commandments,  
 > Which I love.
 
 ## Psalm 119:48
 
 > And I shall lift up my hands to Your commandments, which I love;  
-> And I will meditate on Your statutes.
+> And I will reflect on Your statutes.
 
 ---
 
@@ -273,38 +273,38 @@
 
 ## Psalm 119:50
 
-> This is my comfort in my misery,  
-> That Your word has revived me.
+> This is my comfort in my affliction,  
+> That Your word has renewed me.
 
 ## Psalm 119:51
 
-> The arrogant utterly deride me,  
+> The proud utterly deride me,  
 > Yet I do not turn aside from Your Law.
 
 ## Psalm 119:52
 
 > I have remembered Your judgments from of old, Lord,  
-> And comfort myself.
+> And find comfort.
 
 ## Psalm 119:53
 
-> Burning indignation has seized me because of the wicked,  
+> Intense indignation has seized me because of the wicked,  
 > Who abandon Your Law.
 
 ## Psalm 119:54
 
 > Your statutes have been my songs  
-> In the house of my pilgrimage.
+> In the house of my journey.
 
 ## Psalm 119:55
 
-> Lord, I remember Your name in the night,  
+> Lord, I recall Your name in the night,  
 > And keep Your Law.
 
 ## Psalm 119:56
 
-> This has become mine,  
-> That I comply with Your precepts.
+> This has become my own,  
+> That I observe Your precepts.
 
 ---
 
@@ -322,17 +322,17 @@
 
 ## Psalm 119:59
 
-> I considered my ways  
-> And turned my feet to Your testimonies.
+> I reflected on my ways  
+> And turned my steps to Your testimonies.
 
 ## Psalm 119:60
 
 > I hurried and did not delay  
-> To keep Your commandments.
+> To follow Your commandments.
 
 ## Psalm 119:61
 
-> The snares of the wicked have surrounded me,  
+> The traps of the wicked have surrounded me,  
 > But I have not forgotten Your Law.
 
 ## Psalm 119:62
@@ -342,7 +342,7 @@
 
 ## Psalm 119:63
 
-> I am a companion to all those who fear You,  
+> I am a friend to all who fear You,  
 > And to those who keep Your precepts.
 
 ## Psalm 119:64
@@ -362,36 +362,36 @@
 ## Psalm 119:66
 
 > Teach me good discernment and knowledge,  
-> For I believe in Your commandments.
+> For I trust in Your commandments.
 
 ## Psalm 119:67
 
-> Before I was afflicted I went astray,  
-> But now I keep Your word.
+> Before I was afflicted, I went astray,  
+> But now I always keep Your word.
 
 ## Psalm 119:68
 
-> You are good and do good;  
+> You are good and do what is right;  
 > Teach me Your statutes.
 
 ## Psalm 119:69
 
-> The arrogant have forged a lie against me;  
-> With all my heart I will comply with Your precepts.
+> The proud have forged a lie against me;  
+> With all my heart I will observe Your precepts.
 
 ## Psalm 119:70
 
-> Their heart is insensitive, like fat,  
+> Their heart is unfeeling, like hardened fat,  
 > But I delight in Your Law.
 
 ## Psalm 119:71
 
-> It is good for me that I was afflicted,  
+> It is beneficial for me that I experienced hardship,  
 > So that I may learn Your statutes.
 
 ## Psalm 119:72
 
-> The Law of Your mouth is better to me  
+> The Law of Your mouth is more precious to me  
 > Than thousands of gold and silver pieces.
 
 ---
@@ -406,12 +406,12 @@
 ## Psalm 119:74
 
 > May those who fear You see me and be glad,  
-> Because I wait for Your word.
+> Because I hope in Your word.
 
 ## Psalm 119:75
 
 > I know, Lord, that Your judgments are righteous,  
-> And that You have afflicted me in faithfulness.
+> And that You have allowed me to face trials in faithfulness.
 
 ## Psalm 119:76
 
@@ -420,13 +420,13 @@
 
 ## Psalm 119:77
 
-> May Your compassion come to me so that I may live,  
+> May Your compassion come to me, granting me life,  
 > For Your Law is my delight.
 
 ## Psalm 119:78
 
-> May the arrogant be ashamed, for they wrong me with lies;  
-> But I shall meditate on Your precepts.
+> May the proud be ashamed, for they wrong me with lies;  
+> But I shall reflect on Your precepts.
 
 ## Psalm 119:79
 
@@ -435,7 +435,7 @@
 
 ## Psalm 119:80
 
-> May my heart be blameless in Your statutes,  
+> May my heart be steadfast in Your statutes,  
 > So that I will not be ashamed.
 
 ---
@@ -454,17 +454,17 @@
 
 ## Psalm 119:83
 
-> Though I have become like a wineskin in the smoke,  
+> Though I have become like a dried wineskin in the smoke,  
 > I do not forget Your statutes.
 
 ## Psalm 119:84
 
-> How many are the days of Your servant?  
-> When will You execute judgment on those who persecute me?
+> What is the measure of my days, Your servant?  
+> When will You bring justice to those who pursue me?
 
 ## Psalm 119:85
 
-> The arrogant have dug pits for me,  
+> The proud have dug pits for me,  
 > People who are not in accord with Your Law.
 
 ## Psalm 119:86
@@ -475,7 +475,7 @@
 ## Psalm 119:87
 
 > They almost destroyed me on earth,  
-> But as for me, I did not abandon Your precepts.
+> But I did not abandon Your precepts.
 
 ## Psalm 119:88
 
@@ -499,12 +499,12 @@
 ## Psalm 119:91
 
 > They stand this day by Your ordinances,  
-> For all things are Your servants.
+> For all things serve You.
 
 ## Psalm 119:92
 
-> If Your Law had not been my delight,  
-> Then I would have perished in my misery.
+> Had Your Law not been my delight,  
+> I would have perished of my affliction.
 
 ## Psalm 119:93
 
@@ -513,12 +513,12 @@
 
 ## Psalm 119:94
 
-> I am Yours, save me;  
+> I belong to You; deliver me,  
 > For I have sought Your precepts.
 
 ## Psalm 119:95
 
-> The wicked wait for me to destroy me;  
+> The wicked lie in wait to destroy me;  
 > I will diligently consider Your testimonies.
 
 ## Psalm 119:96
@@ -542,23 +542,23 @@
 
 ## Psalm 119:99
 
-> I have more insight than all my teachers,  
+> I possess more insight than all my teachers,  
 > For Your testimonies are my meditation.
 
 ## Psalm 119:100
 
 > I understand more than those who are old,  
-> Because I have complied with Your precepts.
+> Because I have observed Your precepts.
 
 ## Psalm 119:101
 
-> I have restrained my feet from every evil way,  
+> I have kept my feet from every evil way,  
 > So that I may keep Your word.
 
 ## Psalm 119:102
 
 > I have not turned aside from Your judgments,  
-> For You Yourself have taught me.
+> For You have instructed me.
 
 ## Psalm 119:103
 
@@ -567,7 +567,7 @@
 
 ## Psalm 119:104
 
-> From Your precepts I get understanding;  
+> From Your precepts I gain understanding;  
 > Therefore I hate every false way.
 
 ---
@@ -576,12 +576,12 @@
 
 ## Psalm 119:105
 
-> Your word is a lamp to my feet  
-> And a light to my path.
+> Your word is as a lamp for my feet  
+> And a light on my path.
 
 ## Psalm 119:106
 
-> I have sworn and I will confirm it,  
+> I have made an oath and will uphold it,  
 > That I will keep Your righteous judgments.
 
 ## Psalm 119:107
@@ -596,7 +596,7 @@
 
 ## Psalm 119:109
 
-> My life is continually in my hand,  
+> My life is constantly in my hand,  
 > Yet I do not forget Your Law.
 
 ## Psalm 119:110
@@ -606,12 +606,12 @@
 
 ## Psalm 119:111
 
-> I have inherited Your testimonies forever,  
+> I have received Your testimonies as an everlasting heritage,  
 > For they are the joy of my heart.
 
 ## Psalm 119:112
 
-> I have inclined my heart to perform Your statutes  
+> I have set my heart to perform Your statutes  
 > Forever, even to the end.
 
 ---
@@ -625,13 +625,13 @@
 
 ## Psalm 119:114
 
-> You are my hiding place and my shield;  
-> I wait for Your word.
+> You are my refuge and my shield;  
+> I hope in Your word.
 
 ## Psalm 119:115
 
-> Leave me, you evildoers,  
-> So that I may comply with the commandments of my God.
+> Depart from me, you evildoers,  
+> So that I may observe the commandments of my God.
 
 ## Psalm 119:116
 
@@ -650,8 +650,8 @@
 
 ## Psalm 119:119
 
-> You have removed all the wicked of the earth like impurities;  
-> Therefore I love Your testimonies.
+> You have removed all the wicked of the earth as an impurity;  
+> Therefore I love Your statutes.
 
 ## Psalm 119:120
 
@@ -670,7 +670,7 @@
 ## Psalm 119:122
 
 > Be a guarantor for Your servant for good;  
-> Do not let the arrogant oppress me.
+> Do not let the proud oppress me.
 
 ## Psalm 119:123
 
@@ -679,18 +679,18 @@
 
 ## Psalm 119:124
 
-> Deal with Your servant according to Your mercy,  
+> Treat Your servant with Your mercy,  
 > And teach me Your statutes.
 
 ## Psalm 119:125
 
-> I am Your servant; give me understanding,  
+> I am Your servant; grant me understanding,  
 > So that I may know Your testimonies.
 
 ## Psalm 119:126
 
 > It is time for the Lord to act,  
-> For they have broken Your Law.
+> For they have violated Your Law.
 
 ## Psalm 119:127
 
@@ -699,7 +699,7 @@
 
 ## Psalm 119:128
 
-> Therefore I carefully follow all Your precepts concerning everything,  
+> Therefore I follow all Your precepts with care,  
 > I hate every false way.
 
 ---
@@ -709,22 +709,22 @@
 ## Psalm 119:129
 
 > Your testimonies are wonderful;  
-> Therefore my soul complies with them.
+> Therefore my soul observes them.
 
 ## Psalm 119:130
 
-> The unfolding of Your words gives light;  
-> It gives understanding to the simple.
+> The revelation of Your words brings light;  
+> It imparts understanding to the simple.
 
 ## Psalm 119:131
 
-> I opened my mouth wide and panted,  
-> For I longed for Your commandments.
+> I opened my mouth wide with longing,  
+> For I yearned for Your commandments.
 
 ## Psalm 119:132
 
 > Turn to me and be gracious to me,  
-> As is right for those who love Your name.
+> As is fitting for those who love Your name.
 
 ## Psalm 119:133
 
@@ -733,12 +733,12 @@
 
 ## Psalm 119:134
 
-> Redeem me from oppression by man,  
+> Redeem me from human oppression,  
 > So that I may keep Your precepts.
 
 ## Psalm 119:135
 
-> Make Your face shine upon Your servant,  
+> Let Your face shine upon Your servant,  
 > And teach me Your statutes.
 
 ## Psalm 119:136
@@ -757,12 +757,12 @@
 
 ## Psalm 119:138
 
-> You have commanded Your testimonies in righteousness  
+> You have commanded Your testimonies with righteousness  
 > And in great faithfulness.
 
 ## Psalm 119:139
 
-> My zeal has consumed me,  
+> My fervour has overtaken me,  
 > Because my enemies have forgotten Your words.
 
 ## Psalm 119:140
@@ -777,18 +777,18 @@
 
 ## Psalm 119:142
 
-> Your righteousness is an everlasting righteousness,  
-> And Your Law is truth.
+> Your righteousness is eternally just,  
+> And Your Law is the essence of truth.
 
 ## Psalm 119:143
 
 > Trouble and anguish have found me,  
-> Yet Your commandments are my delight.
+> Yet Your commandments bring me joy.
 
 ## Psalm 119:144
 
 > Your testimonies are righteous forever;  
-> Give me understanding so that I may live.
+> Grant me understanding so that I may live.
 
 ---
 
@@ -797,11 +797,11 @@
 ## Psalm 119:145
 
 > I cried out with all my heart; answer me, Lord!  
-> I will comply with Your statutes.
+> I will observe Your statutes.
 
 ## Psalm 119:146
 
-> I cried to You; save me,  
+> I called to You; rescue me,  
 > And I shall keep Your testimonies.
 
 ## Psalm 119:147
@@ -821,8 +821,8 @@
 
 ## Psalm 119:150
 
-> Those who follow after wickedness approach;  
-> They are far from Your Law.
+> Those who pursue wickedness draw near;  
+> They are distant from Your Law.
 
 ## Psalm 119:151
 
@@ -831,8 +831,8 @@
 
 ## Psalm 119:152
 
-> Of old I have known from Your testimonies,  
-> That You have founded them forever.
+> Long ago I learned from Your testimonies,  
+> That You have established them forever.
 
 ---
 
@@ -850,7 +850,7 @@
 
 ## Psalm 119:155
 
-> Salvation is far from the wicked,  
+> Salvation is distant from the wicked,  
 > For they do not seek Your statutes.
 
 ## Psalm 119:156
@@ -860,12 +860,12 @@
 
 ## Psalm 119:157
 
-> Many are my persecutors and my enemies,  
+> Numerous are my persecutors and my enemies,  
 > Yet I do not turn aside from Your testimonies.
 
 ## Psalm 119:158
 
-> I see the treacherous and loathe them,  
+> I see the treacherous and feel disdain,  
 > Because they do not keep Your word.
 
 ## Psalm 119:159
@@ -875,7 +875,7 @@
 
 ## Psalm 119:160
 
-> The sum of Your word is truth,  
+> The entirety of Your word is truth,  
 > And every one of Your righteous judgments is everlasting.
 
 ---
@@ -884,22 +884,22 @@
 
 ## Psalm 119:161
 
-> Princes persecute me without cause,  
+> Princes pursue me without reason,  
 > But my heart stands in awe of Your words.
 
 ## Psalm 119:162
 
 > I rejoice at Your word,  
-> Like one who finds great spoil.
+> Like one who finds great treasure.
 
 ## Psalm 119:163
 
-> I hate and loathe falsehood,  
+> I detest and abhor falsehood,  
 > But I love Your Law.
 
 ## Psalm 119:164
 
-> Seven times a day I praise You  
+> I praise You throughout the day  
 > Because of Your righteous judgments.
 
 ## Psalm 119:165
@@ -910,16 +910,16 @@
 ## Psalm 119:166
 
 > I hope for Your salvation, Lord,  
-> And do Your commandments.
+> And follow Your commandments.
 
 ## Psalm 119:167
 
 > My soul keeps Your testimonies,  
-> And I love them exceedingly.
+> And I love them greatly.
 
 ## Psalm 119:168
 
-> I keep Your precepts and Your testimonies,  
+> I observe Your precepts and Your testimonies,  
 > For all my ways are before You.
 
 ---
@@ -938,7 +938,7 @@
 
 ## Psalm 119:171
 
-> Let my lips pour out praise,  
+> Let my lips overflow with praise,  
 > For You teach me Your statutes.
 
 ## Psalm 119:172
@@ -948,18 +948,18 @@
 
 ## Psalm 119:173
 
-> Let Your hand be ready to help me,  
+> Let Your hand be prepared to assist me,  
 > For I have chosen Your precepts.
 
 ## Psalm 119:174
 
-> I long for Your salvation, Lord,  
+> I yearn for Your salvation, Lord,  
 > And Your Law is my delight.
 
 ## Psalm 119:175
 
 > Let my soul live that it may praise You,  
-> And let Your ordinances help me.
+> And let Your ordinances assist me.
 
 ## Psalm 119:176
 

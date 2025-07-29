@@ -12,8 +12,8 @@ though not as the kings of Israel who were before him.
 
 ## 2 Kings 17:3
 
-Shalmaneser king of Assyria came up against him,  
-and Hoshea became his servant and paid him tribute.
+Shalmaneser, the king of Assyria, advanced against him,  
+and Hoshea became his vassal and rendered him tribute.
 
 ## 2 Kings 17:4
 
@@ -42,9 +42,9 @@ and they had feared other gods
 
 ## 2 Kings 17:8
 
-and walked in the customs of the nations  
+and followed the practices of the nations  
 whom the Lord had driven out before the sons of Israel,  
-and in the customs of the kings of Israel which they had introduced.
+and in the ways of the kings of Israel which they had introduced.
 
 ## 2 Kings 17:9
 
@@ -65,14 +65,14 @@ and they did evil things, provoking the Lord.
 
 ## 2 Kings 17:12
 
-They served idols, concerning which the Lord had said to them,  
+They served idols, about which the Lord had said to them,  
 “You shall not do this thing.”
 
 ## 2 Kings 17:13
 
-Yet the Lord warned Israel and Judah through all His prophets and every seer, saying,  
-“Turn from your evil ways and keep My commandments, My statutes  
-according to all the Law which I commanded your fathers,  
+Nevertheless, the Lord sent messages to Israel and Judah through all His prophets and every seer, saying,  
+“Turn from your evil ways and keep My commandments and statutes,  
+in accordance with all the Law which I commanded your fathers,  
 and which I sent to you through My servants the prophets.”
 
 ## 2 Kings 17:14
@@ -117,10 +117,10 @@ and handed them over to plunderers, until He had cast them from His sight.
 
 ## 2 Kings 17:21
 
-When He had torn Israel from the house of David,  
+When He had separated Israel from the house of David,  
 they made Jeroboam the son of Nebat king.  
-Then Jeroboam drove Israel away from following the Lord  
-and made them commit a great sin.
+Then Jeroboam led Israel away from following the Lord  
+and caused them to commit a great sin.
 
 ## 2 Kings 17:22
 
@@ -148,18 +148,18 @@ therefore the Lord sent lions among them that killed some of them.
 
 ## 2 Kings 17:26
 
-So they spoke to the king of Assyria, saying,  
+So they informed the king of Assyria, saying,  
 “The nations whom you have taken into exile and settled in the cities of Samaria  
-do not know the custom of the god of the land;  
+do not know the custom of the God of the land;  
 so He has sent lions among them, and behold, they are killing them,  
-because they do not know the custom of the god of the land.”
+because they do not know the custom of the God of the land.”
 
 ## 2 Kings 17:27
 
 Then the king of Assyria commanded, saying,  
 “Take one of the priests whom you took into exile from there,  
 and have him go and live there,  
-and let him teach them the custom of the god of the land.”
+and let him teach them the custom of the God of the land.”
 
 ## 2 Kings 17:28
 
@@ -177,21 +177,21 @@ every nation in their cities where they lived.
 
 ## 2 Kings 17:30
 
-The men of Babylon made Succoth-benoth,  
-the men of Cuth made Nergal,  
-the men of Hamath made Ashima,
+The people of Babylon crafted Succoth-benoth,  
+the people of Cuth fashioned Nergal,  
+the people of Hamath created Ashima,
 
 ## 2 Kings 17:31
 
-and the Avvites made Nibhaz and Tartak,  
-and the Sepharvites burned their children in the fire  
+and the Avvites devised Nibhaz and Tartak,  
+and the Sepharvites offered their children in the fire  
 to Adrammelech and Anammelech, the gods of Sepharvaim.
 
 ## 2 Kings 17:32
 
 They also feared the Lord,  
 and appointed from among themselves priests of the high places,  
-who acted for them in the houses of the high places.
+who served them in the houses of the high places.
 
 ## 2 Kings 17:33
 
@@ -214,7 +214,7 @@ with whom the Lord made a covenant and commanded them, saying,
 ## 2 Kings 17:36
 
 But the Lord, who brought you up from the land of Egypt with great power and with an outstretched arm,  
-Him you shall fear, and to Him you shall bow down, and to Him you shall sacrifice.
+Him you shall fear, and to Him you shall bow down, and to Him you shall offer sacrifices.
 
 ## 2 Kings 17:37
 
@@ -225,7 +225,7 @@ and you shall not fear other gods.
 ## 2 Kings 17:38
 
 And the covenant that I have made with you,  
-you shall not forget,  
+you shall remember,  
 nor shall you fear other gods.
 
 ## 2 Kings 17:39

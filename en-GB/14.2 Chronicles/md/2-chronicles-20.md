@@ -8,8 +8,8 @@ After these events, the sons of Moab and the sons of Ammon, along with some of t
 
 ## 2 Chronicles 20:2
 
-Then some came and reported to Jehoshaphat, saying,  
-“A great multitude is coming against you from beyond the sea, from Aram;  
+Messengers came and informed Jehoshaphat, saying,  
+“A vast army is approaching you from beyond the sea, from Aram;  
 and behold, they are in Hazazon-tamar (that is Engedi).”
 
 ---
@@ -23,8 +23,8 @@ and he proclaimed a fast throughout all Judah.
 
 ## 2 Chronicles 20:4
 
-So Judah gathered together to seek help from the Lord;  
-they even came from all the cities of Judah to seek the Lord.
+Thus, Judah assembled to seek help from the Lord;  
+people even came from all the cities of Judah to seek the Lord.
 
 ---
 
@@ -37,15 +37,15 @@ Jehoshaphat then stood in the assembly of Judah and Jerusalem, in the house of t
 ## 2 Chronicles 20:6
 
 and he said,  
-“Lord, God of our fathers, are You not God in the heavens?  
-And are You not ruler over all the kingdoms of the nations?  
-Power and might are in Your hand so that no one can stand against You.
+“Lord, God of our ancestors, are You not God in the heavens?  
+And do You not rule over all the kingdoms of the nations?  
+Power and might are in Your hand, and no one can withstand You.
 
 ---
 
 ## 2 Chronicles 20:7
 
-Did You not, our God, drive out the inhabitants of this land from Your people Israel,  
+Did You not, our God, expel the inhabitants of this land before Your people Israel,  
 and give it to the descendants of Your friend Abraham forever?
 
 ---
@@ -58,9 +58,9 @@ They have settled in it and have constructed a sanctuary for Your Name, saying,
 
 ## 2 Chronicles 20:9
 
-‘If disaster comes upon us, the sword or judgment, or plague or famine,  
+‘If disaster comes upon us, whether by sword, judgment, plague, or famine,  
 we will stand before this house and before You (for Your name is in this house),  
-and cry out to You in our distress, and You will hear and save us.’
+and cry out to You in our distress, and You will hear and deliver us.’
 
 ---
 
@@ -93,8 +93,7 @@ All Judah stood before the Lord, with their infants, their wives, and their chil
 
 ## 2 Chronicles 20:14
 
-Then in the midst of the assembly the Spirit of the Lord came upon Jahaziel the son of Zechariah,  
-the son of Benaiah, the son of Jeiel, the son of Mattaniah, the Levite of the sons of Asaph;
+Then, while the assembly was gathered, the Spirit of the Lord came upon Jahaziel, son of Zechariah, son of Benaiah, son of Jeiel, son of Mattaniah, a Levite of the sons of Asaph;
 
 ---
 
@@ -111,7 +110,7 @@ for the battle is not yours but God’s.
 ## 2 Chronicles 20:16
 
 Tomorrow, go down against them.  
-Behold, they will come up by the ascent of Ziz,  
+Behold, they will ascend by the ascent of Ziz,  
 and you will find them at the end of the valley in front of the wilderness of Jeruel.
 
 ---
@@ -119,7 +118,7 @@ and you will find them at the end of the valley in front of the wilderness of Je
 ## 2 Chronicles 20:17
 
 You need not fight in this battle; take your position,  
-stand and watch the salvation of the Lord in your behalf, Judah and Jerusalem.  
+stand firm and see the deliverance of the Lord on your behalf, Judah and Jerusalem.  
 Do not fear or be dismayed; tomorrow, go out to face them, for the Lord is with you.’”
 
 ---
@@ -133,7 +132,7 @@ and all Judah and the inhabitants of Jerusalem fell down before the Lord, worshi
 
 ## 2 Chronicles 20:19
 
-The Levites, from the sons of the Kohathites and from the sons of the Korahites,  
+The Levites, from the descendants of the Kohathites and the Korahites,  
 stood up to praise the Lord God of Israel with a very loud voice.
 
 ---
@@ -150,7 +149,7 @@ Put your trust in His prophets, and succeed.”
 
 ## 2 Chronicles 20:21
 
-When he had consulted with the people, he appointed those who sang to the Lord and those who praised Him in holy attire,  
+After consulting with the people, he appointed those who sang to the Lord and those who praised Him in holy attire,  
 as they went out before the army and said,
 
 > “Give thanks to the Lord,  
@@ -160,7 +159,7 @@ as they went out before the army and said,
 
 ## 2 Chronicles 20:22
 
-When they began singing and praising, the Lord set ambushes against the sons of Ammon, Moab, and Mount Seir,  
+As they began singing and praising, the Lord set ambushes against the sons of Ammon, Moab, and Mount Seir,  
 who had come against Judah; so they were struck down.
 
 ---
@@ -168,7 +167,7 @@ who had come against Judah; so they were struck down.
 ## 2 Chronicles 20:23
 
 For the sons of Ammon and Moab rose up against the inhabitants of Mount Seir, completely destroying them;  
-and when they had finished with the inhabitants of Seir, they helped to destroy one another.
+and when they had finished with the inhabitants of Seir, they turned on each other and destroyed one another.
 
 ---
 
@@ -182,10 +181,10 @@ and no one had escaped.
 
 ## 2 Chronicles 20:25
 
-When Jehoshaphat and his people came to take their spoils,  
+When Jehoshaphat and his people came to gather the spoils,  
 they found much among them, including goods, garments, and valuable things which they took for themselves,  
 more than they could carry.  
-And they were taking the spoils for three days because there was so much.
+And they were collecting the spoils for three days because there was so much.
 
 ---
 
@@ -219,15 +218,15 @@ And the fear of God was on all the kingdoms of the lands when they heard that th
 ## 2 Chronicles 20:30
 
 So the kingdom of Jehoshaphat was at peace,  
-for his God gave him rest on all sides.
+for his God granted him rest on all sides.
 
 ---
 
 ## 2 Chronicles 20:31
 
-Now Jehoshaphat reigned over Judah.  
-He was thirty-five years old when he became king, and he reigned in Jerusalem for twenty-five years.  
-And his mother’s name was Azubah the daughter of Shilhi.
+Jehoshaphat began his reign over Judah at the age of thirty-five.  
+He ruled in Jerusalem for twenty-five years.  
+His mother was Azubah, daughter of Shilhi.
 
 ---
 
@@ -247,7 +246,7 @@ the people still had not directed their hearts to the God of their fathers.
 
 ## 2 Chronicles 20:34
 
-Now the rest of the acts of Jehoshaphat, the first to the last,  
+Now the rest of the acts of Jehoshaphat, from the first to the last,  
 behold, they are written in the annals of Jehu the son of Hanani,  
 which is recorded in the Book of the Kings of Israel.
 
@@ -255,20 +254,20 @@ which is recorded in the Book of the Kings of Israel.
 
 ## 2 Chronicles 20:35
 
-After this Jehoshaphat king of Judah allied himself with Ahaziah king of Israel.  
-He acted wickedly in so doing.
+After this, Jehoshaphat king of Judah formed an alliance with Ahaziah king of Israel.  
+He acted wickedly in doing so.
 
 ---
 
 ## 2 Chronicles 20:36
 
-So he allied himself with him to make ships to go to Tarshish,  
-and they made the ships in Ezion-geber.
+Thus, he allied himself with him to make ships to go to Tarshish,  
+and they constructed the ships in Ezion-geber.
 
 ---
 
 ## 2 Chronicles 20:37
 
-Then Eliezer the son of Dodavahu of Mareshah prophesied against Jehoshaphat, saying,  
+Eliezer, son of Dodavahu of Mareshah, prophesied against Jehoshaphat, saying,  
 “Because you have allied yourself with Ahaziah, the Lord has destroyed your works.”  
-So the ships were broken and could not go to Tarshish.
+As a result, the ships were broken and could not go to Tarshish.

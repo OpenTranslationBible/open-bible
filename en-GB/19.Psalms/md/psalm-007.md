@@ -26,9 +26,9 @@
 
 ## Psalm 7:5
 
-> Let the enemy pursue my soul and overtake it;  
+> Allow the enemy to pursue my soul and overtake it;  
 > And let him trample my life to the ground  
-> And lay my glory in the dust.
+> And lay my honour in the dust.
 
 > Selah
 
@@ -36,68 +36,68 @@
 
 ## Psalm 7:6
 
-> Arise, Lord, in Your anger;  
-> Raise Yourself against the rage of my enemies,  
-> And stir Yourself for me;  
-> You have ordered judgment.
+> Rise, Lord, in Your anger;  
+> Stand against the fury of my enemies,  
+> And awaken for me;  
+> You have appointed judgment.
 
 ## Psalm 7:7
 
-> Let the assembly of the peoples encompass You,  
-> And return on high over it.
+> Let the gathering of the peoples surround You,  
+> And return to Your place on high.
 
 ## Psalm 7:8
 
 > The Lord judges the peoples;  
-> Vindicate me, Lord, according to my righteousness and my integrity that is in me.
+> Judge me, Lord, according to my righteousness and the integrity within me.
 
 ## Psalm 7:9
 
-> Please let the evil of the wicked come to an end, but establish the righteous;  
-> For the righteous God puts hearts and minds to the test.
+> Let the wickedness of the wicked come to an end, but establish the righteous;  
+> For the righteous God examines hearts and minds.
 
 ---
 
 ## Psalm 7:10
 
-> My shield is with God,  
-> Who saves the upright in heart.
+> My protection is with God,  
+> Who delivers those who are upright in heart.
 
 ## Psalm 7:11
 
-> God is a righteous judge,  
-> And a God who shows indignation every day.
+> God is a fair judge,  
+> And a God who expresses displeasure every day.
 
 ## Psalm 7:12
 
 > If one does not repent, He will sharpen His sword;  
-> He has bent His bow and taken aim.
+> He has bent His bow and made it ready.
 
 ## Psalm 7:13
 
-> He has also prepared deadly weapons for Himself;  
+> He has also prepared His deadly weapons;  
 > He makes His arrows fiery shafts.
 
 ---
 
 ## Psalm 7:14
 
-> Behold, an evil person is pregnant with injustice,  
-> And he conceives harm and gives birth to lies.
+> Behold, an evil person is filled with injustice,  
+> And he conceives harm and gives birth to falsehood.
 
 ## Psalm 7:15
 
-> He has dug a pit and hollowed it out,  
-> And has fallen into the hole which he made.
+> He has dug a pit and made it deep,  
+> And has fallen into the hole he created.
 
 ## Psalm 7:16
 
-> His harm will return on his own head,  
-> And his violence will descend on the top of his own head.
+> His harm will return upon his own head,  
+> And his violence will come down on his own crown.
 
 ---
 
 ## Psalm 7:17
 
-> I will give thanks to the Lord according to His righteousness  
+> I will thank the Lord for His righteousness  
 > And will sing praise to the name of the Lord Most High.

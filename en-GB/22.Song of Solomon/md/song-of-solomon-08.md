@@ -2,10 +2,10 @@
 
 ## Song of Solomon 8:1
 
-Oh that you were like a brother to me,  
-Who nursed at my mother’s breasts.  
+If only you were like a brother to me,  
+Who was nursed by my mother.  
 If I found you outdoors, I would kiss you;  
-No one would despise me, either.
+No one would look down on me.
 
 ## Song of Solomon 8:2
 
@@ -16,8 +16,8 @@ From the juice of my pomegranates.
 
 ## Song of Solomon 8:3
 
-His left hand is under my head,  
-And his right hand embraces me.
+His left hand supports my head,  
+And his right hand holds me close.
 
 ---
 
@@ -41,12 +41,12 @@ There she was in labour and gave birth to you.
 
 ## Song of Solomon 8:6
 
-Put me like a seal over your heart,  
-Like a seal on your arm.  
-For love is as strong as death,  
-Jealousy is as severe as Sheol;  
+Set me as a seal upon your heart,  
+As a seal upon your arm.  
+For love is as powerful as death,  
+Passion as relentless as the grave;  
 Its flashes are flashes of fire,  
-The very flame of the Lord.
+A divine flame.
 
 ## Song of Solomon 8:7
 
@@ -60,7 +60,7 @@ It would be utterly despised.
 ## Song of Solomon 8:8
 
 We have a little sister,  
-And she has no breasts;  
+And she has not yet matured;  
 What shall we do for our sister  
 On the day when she is spoken for?
 
@@ -75,32 +75,32 @@ We will barricade her with planks of cedar.
 
 ## Song of Solomon 8:10
 
-I was a wall, and my breasts were like towers;  
+I was a wall, and my stature was like towers;  
 Then I became in his eyes  
 As one who finds peace.
 
 ## Song of Solomon 8:11
 
 Solomon had a vineyard at Baal-hamon;  
-He entrusted the vineyard to caretakers.  
+He leased the vineyard to caretakers.  
 Each one was to bring a thousand shekels of silver for its fruit.
 
 ## Song of Solomon 8:12
 
 My very own vineyard is at my disposal;  
 The thousand shekels are for you, Solomon,  
-And two hundred are for those who take care of its fruit.
+And two hundred are for those who tend its fruit.
 
 ---
 
 ## Song of Solomon 8:13
 
-You who sit in the gardens,  
+You who dwell in the gardens,  
 My companions are listening for your voice—  
 Let me hear it!
 
 ## Song of Solomon 8:14
 
-Hurry, my beloved,  
-And be like a gazelle or a young stag  
-On the mountains of spices.
+Hasten, my beloved,  
+And be like a swift gazelle or a young stag  
+Upon the fragrant hills.

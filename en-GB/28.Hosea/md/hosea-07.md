@@ -12,14 +12,14 @@
 ## Hosea 7:2
 
 > And they do not consider in their hearts  
-> That I remember all their wickedness.  
+> That I am aware of all their wickedness.  
 > Now their deeds are all around them;  
-> They are before My face.
+> They are before My eyes.
 
 ## Hosea 7:3
 
-> With their wickedness they make the king happy,  
-> And the officials with their lies.
+> Through their wickedness they please the king,  
+> And the officials are pleased with their deceit.
 
 ## Hosea 7:4
 
@@ -42,10 +42,10 @@
 
 ## Hosea 7:7
 
-> All of them are hot like an oven,  
+> All of them are inflamed like an oven,  
 > And they consume their rulers;  
 > All their kings have fallen.  
-> None of them calls on Me.
+> None of them seeks Me.
 
 ## Hosea 7:8
 
@@ -61,13 +61,13 @@
 
 ## Hosea 7:10
 
-> Though the pride of Israel testifies against him,  
-> Yet they have not returned to the Lord their God,  
-> Nor have they sought Him, despite all this.
+> Although Israel's pride testifies against him,  
+> They have still not returned to the Lord their God,  
+> Nor have they sought Him, despite everything.
 
 ## Hosea 7:11
 
-> So Ephraim has become like a gullible dove, without sense;  
+> So Ephraim has become like a naive dove, lacking sense;  
 > They call to Egypt, they go to Assyria.
 
 ## Hosea 7:12
@@ -78,21 +78,21 @@
 
 ## Hosea 7:13
 
-> Woe to them, for they have strayed from Me!  
+> Woe to them, for they have wandered from Me!  
 > Destruction is theirs, for they have rebelled against Me!  
-> I would redeem them, but they have spoken lies against Me.
+> I would redeem them, but they have spoken falsehoods against Me.
 
 ## Hosea 7:14
 
 > And they do not cry to Me from their heart  
 > When they wail on their beds;  
-> For the sake of grain and new wine they assemble themselves,  
+> For the sake of grain and new wine they gather themselves,  
 > They turn away from Me.
 
 ## Hosea 7:15
 
 > Although I trained and strengthened their arms,  
-> Yet they devise evil against Me.
+> Yet they plot evil against Me.
 
 ## Hosea 7:16
 

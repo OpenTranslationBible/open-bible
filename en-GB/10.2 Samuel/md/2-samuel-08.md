@@ -2,7 +2,7 @@
 
 ## 2 Samuel 8:1
 
-Now after this it came about that David defeated the Philistines and subdued them;  
+Following these events, David defeated the Philistines and subdued them;  
 and David took control of the chief city from the hand of the Philistines.
 
 ## 2 Samuel 8:2
@@ -14,8 +14,8 @@ So the Moabites became servants to David, bringing tribute.
 
 ## 2 Samuel 8:3
 
-Then David defeated Hadadezer the son of Rehob, king of Zobah,  
-as he went to restore his power at the River Euphrates.
+David also defeated Hadadezer the son of Rehob, king of Zobah,  
+as he went to regain his power at the River Euphrates.
 
 ## 2 Samuel 8:4
 
@@ -35,13 +35,13 @@ And the Lord helped David wherever he went.
 
 ## 2 Samuel 8:7
 
-And David took the shields of gold which were carried by the servants of Hadadezer,  
+David took the gold shields carried by the servants of Hadadezer,  
 and brought them to Jerusalem.
 
 ## 2 Samuel 8:8
 
-From Betah and from Berothai, cities of Hadadezer,  
-King David took a very large amount of bronze.
+From Betah and Berothai, cities of Hadadezer,  
+King David acquired a very large amount of bronze.
 
 ---
 
@@ -58,13 +58,13 @@ and Joram brought articles of silver, gold, and bronze.
 
 ## 2 Samuel 8:11
 
-King David also dedicated these to the Lord,  
-along with the silver and gold that he had dedicated from all the nations which he had subdued:
+King David dedicated these to the Lord,  
+along with the silver and gold he had set apart from all the nations he had subdued:
 
 ## 2 Samuel 8:12
 
 from Aram, Moab, the Ammonites, the Philistines, Amalek,  
-and from the spoil of Hadadezer, son of Rehob, king of Zobah.
+and from the plunder of Hadadezer, son of Rehob, king of Zobah.
 
 ## 2 Samuel 8:13
 
@@ -80,8 +80,8 @@ And the Lord helped David wherever he went.
 
 ## 2 Samuel 8:15
 
-So David reigned over all Israel;  
-and David administered justice and righteousness for all his people.
+David reigned over all Israel;  
+and he administered justice and righteousness for all his people.
 
 ## 2 Samuel 8:16
 
@@ -90,8 +90,8 @@ and Jehoshaphat the son of Ahilud was secretary.
 
 ## 2 Samuel 8:17
 
-Zadok the son of Ahitub and Ahimelech the son of Abiathar were priests,  
-and Seraiah was scribe.
+Zadok the son of Ahitub and Ahimelech the son of Abiathar served as priests,  
+and Seraiah was the scribe.
 
 ## 2 Samuel 8:18
 

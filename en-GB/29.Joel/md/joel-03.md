@@ -2,8 +2,7 @@
 
 ## Joel 3:1
 
-> “In those days and at that time,
-> when I restore the fortunes of Judah and Jerusalem,
+> “In that period, when I bring back the prosperity of Judah and Jerusalem,
 
 ## Joel 3:2
 
@@ -51,7 +50,7 @@ I will sell your sons and daughters into the hands of the people of Judah, and t
 
 > Beat your ploughshares into swords
 > and your pruning hooks into spears.
-> Let the weakling say, “I am strong!”
+> Let the weak now say, “I am strong!”
 
 ## Joel 3:11
 
@@ -74,7 +73,7 @@ I will sell your sons and daughters into the hands of the people of Judah, and t
 
 ## Joel 3:14
 
-> Multitudes, multitudes in the valley of decision!
+> Crowds upon crowds congregate in the valley of decision!
 > For the day of the Lord is near in the valley of decision.
 
 ## Joel 3:15

@@ -18,19 +18,19 @@ And I heard the number of those who were sealed: 144,000, sealed from all the tr
 
 ## Revelation 7:5
 
-> from the tribe of Judah, 12,000 were sealed,
+> Sealed from the tribe of Judah, 12,000,
 > from the tribe of Reuben, 12,000,
 > from the tribe of Gad, 12,000,
 
 ## Revelation 7:6
 
-> from the tribe of Asher, 12,000,
+> sealed from the tribe of Asher, 12,000,
 > from the tribe of Naphtali, 12,000,
 > from the tribe of Manasseh, 12,000,
 
 ## Revelation 7:7
 
-> from the tribe of Simeon, 12,000,
+> sealed from the tribe of Simeon, 12,000,
 > from the tribe of Levi, 12,000,
 > from the tribe of Issachar, 12,000,
 
@@ -46,9 +46,9 @@ After these events, I looked, and there was a vast multitude that no one could c
 
 ## Revelation 7:10
 
-And they cried out in a loud voice,
+And they proclaimed with a loud voice,
 
-> “Salvation belongs to our God
+> “Salvation is belongs to our God
 > who sits on the throne,
 > and to the Lamb.”
 
@@ -88,6 +88,6 @@ I replied, “Sir, you know.” And he said to me, “These are the ones who hav
 
 ## Revelation 7:17
 
-> for the Lamb at the centre of the throne will be their shepherd,
-> and He will guide them to springs of the water of life;
+> for the Lamb in the midst of the throne will be their shepherd,
+> and He will lead them to springs of the water of life;
 > and God will wipe away every tear from their eyes.”

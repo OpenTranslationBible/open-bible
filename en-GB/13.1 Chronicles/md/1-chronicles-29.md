@@ -26,16 +26,16 @@ Now with all my ability I have provided for the house of my God:
 
 ## 1 Chronicles 29:3
 
-Moreover, in my delight in the house of my God,  
-the treasure I have of gold and silver I give to the house of my God,
+Furthermore, because I take great joy in the house of my God,  
+I have given my own treasure of gold and silver to the house of my God,
 
-> over and above all that I have already provided for the holy temple:
+> in addition to all that I have already provided for the holy temple:
 
 ---
 
 ## 1 Chronicles 29:4
 
-> namely, 3,000 talents of gold (of the gold of Ophir),  
+> specifically, 3,000 talents of gold (of the gold of Ophir),  
 > and 7,000 talents of refined silver,  
 > to overlay the walls of the buildings;
 
@@ -79,16 +79,16 @@ Whoever possessed precious stones gave them to the treasury of the house of the 
 
 ## 1 Chronicles 29:9
 
-Then the people rejoiced because they had offered so willingly,  
-for they made their offering to the Lord wholeheartedly,
+Then the people rejoiced because they had given so willingly,  
+for they made their offering to the Lord with a whole heart,
 
-> and King David also rejoiced greatly.
+> and King David also rejoiced exceedingly.
 
 ---
 
 ## 1 Chronicles 29:10
 
-So David blessed the Lord in the sight of all the assembly;  
+So David praised the Lord in the presence of all the assembly;  
 and David said,
 
 > “Blessed are You, Lord God of Israel our father,  
@@ -98,10 +98,10 @@ and David said,
 
 ## 1 Chronicles 29:11
 
-> Yours, Lord, is the greatness, the power, the glory, the victory, and the majesty,  
+> Yours, Lord, is the greatness, the power, the splendour, the triumph, and the majesty,  
 > indeed everything that is in the heavens and on the earth;  
 > Yours is the dominion, Lord,  
-> and You exalt Yourself as head over all.
+> and You lift Yourself as head over all.
 
 ---
 
@@ -116,7 +116,7 @@ and David said,
 
 ## 1 Chronicles 29:13
 
-> Now therefore, our God, we thank You,  
+> Therefore, our God, we express our gratitude to You,  
 > and praise Your glorious name.
 
 ---
@@ -124,7 +124,7 @@ and David said,
 ## 1 Chronicles 29:14
 
 > But who am I, and who are my people,  
-> that we should be able to offer as generously as this?  
+> that we should be able to offer so generously as this?  
 > For all things come from You,  
 > and from Your hand we have given to You.
 
@@ -132,21 +132,21 @@ and David said,
 
 ## 1 Chronicles 29:15
 
-> For we are strangers before You, and temporary residents, as all our fathers were;  
-> our days on the earth are like a shadow, and there is no hope.
+> For we are strangers before You, and wanderers, as all our fathers were;  
+> our days on the earth are like a shadow, without certainty.
 
 ---
 
 ## 1 Chronicles 29:16
 
-> Lord our God, all this abundance that we have provided to build You a house for Your holy name,  
-> it is from Your hand, and everything is Yours.
+> Lord our God, all this abundance that we have gathered to build a house for Your holy name,  
+> it comes from Your hand, and everything is Yours.
 
 ---
 
 ## 1 Chronicles 29:17
 
-> Since I know, my God, that You put the heart to the test, and delight in uprightness,  
+> Since I know, my God, that You test the heart and take pleasure in uprightness,  
 > I, in the integrity of my heart, have willingly offered all these things;  
 > so now with joy I have seen Your people, who are present here, make their offerings willingly to You.
 
@@ -156,32 +156,32 @@ and David said,
 
 > Lord, God of Abraham, Isaac, and Israel, our fathers,  
 > keep this forever in the intentions of the hearts of Your people,  
-> and direct their hearts to You;
+> and guide their hearts to You;
 
 ---
 
 ## 1 Chronicles 29:19
 
-> and give my son Solomon a perfect heart  
+> and give my son Solomon a devoted heart  
 > to keep Your commandments, Your testimonies, and Your statutes,  
-> and to do them all,  
+> and to carry them out,  
 > and to build the temple, for which I have made provision.”
 
 ---
 
 ## 1 Chronicles 29:20
 
-Then David said to all the assembly,
+Then David addressed all the assembly,
 
-> “Now bless the Lord your God.”  
-> And all the assembly blessed the Lord, the God of their fathers,  
+> “Now give praise to the Lord your God.”  
+> And all the assembly praised the Lord, the God of their fathers,  
 > and bowed down and paid homage to the Lord and the king.
 
 ---
 
 ## 1 Chronicles 29:21
 
-On the next day they made sacrifices to the Lord,
+On the following day they made sacrifices to the Lord,
 
 > and offered burnt offerings to the Lord:  
 > a thousand bulls, a thousand rams, and a thousand lambs,  
@@ -211,7 +211,7 @@ and he was successful,
 ## 1 Chronicles 29:24
 
 All the officials, the mighty men,  
-and also all the sons of King David pledged allegiance to King Solomon.
+and also all the sons of King David pledged their loyalty to King Solomon.
 
 ---
 
@@ -250,7 +250,7 @@ Then he died at a good old age, full of days, riches, and honour;
 
 Now the acts of King David, from the first to the last,
 
-> are written in the chronicles of Samuel the seer,  
+> are recorded in the chronicles of Samuel the seer,  
 > in the chronicles of Nathan the prophet,  
 > and in the chronicles of Gad the seer,
 

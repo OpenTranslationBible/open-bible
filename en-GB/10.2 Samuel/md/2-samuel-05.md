@@ -2,8 +2,8 @@
 
 ## 2 Samuel 5:1
 
-Then all the tribes of Israel came to David at Hebron and said,  
-“Behold, we are your bone and your flesh.
+Then all the tribes of Israel gathered to David at Hebron and said,  
+“Behold, we are of your own kin and flesh.
 
 ## 2 Samuel 5:2
 
@@ -20,8 +20,8 @@ and they anointed David king over Israel.
 
 ## 2 Samuel 5:4
 
-David was thirty years old when he began to reign,  
-and he reigned for forty years.
+David was thirty years old when he began his reign,  
+and he ruled for forty years.
 
 ## 2 Samuel 5:5
 
@@ -40,8 +40,8 @@ thinking, “David cannot enter here.”
 
 ## 2 Samuel 5:7
 
-Nevertheless, David captured the stronghold of Zion,  
-that is, the city of David.
+Yet, David captured the stronghold of Zion,  
+which is known as the city of David.
 
 ## 2 Samuel 5:8
 
@@ -64,9 +64,9 @@ for the Lord God of armies was with him.
 
 ## 2 Samuel 5:11
 
-Then Hiram king of Tyre sent messengers to David with cedar trees,  
-and carpenters and stonemasons;  
-and they built a house for David.
+Hiram, king of Tyre, sent messengers to David with cedar trees,  
+along with carpenters and stonemasons;  
+and they constructed a house for David.
 
 ## 2 Samuel 5:12
 
@@ -75,12 +75,12 @@ and that He had exalted his kingdom for the sake of His people Israel.
 
 ## 2 Samuel 5:13
 
-Meanwhile David took more concubines and wives from Jerusalem after he came from Hebron,  
-and more sons and daughters were born to David.
+Meanwhile, David took additional concubines and wives from Jerusalem after he came from Hebron,  
+and more sons and daughters were born to him.
 
 ## 2 Samuel 5:14
 
-Now these are the names of those who were born to him in Jerusalem:  
+The children born to him in Jerusalem were:  
 Shammua, Shobab, Nathan, Solomon,
 
 ## 2 Samuel 5:15
@@ -95,7 +95,7 @@ and Elishama, Eliada, and Eliphelet.
 
 ## 2 Samuel 5:17
 
-When the Philistines heard that they had anointed David king over Israel,  
+When the Philistines heard that David had been anointed king over Israel,  
 all the Philistines went up to search for David.  
 And David heard about it and went down to the stronghold.
 
@@ -105,22 +105,22 @@ The Philistines advanced and spread throughout the valley of Rephaim.
 
 ## 2 Samuel 5:19
 
-So David inquired of the Lord, saying,  
-“Shall I go up against the Philistines? Will You hand them over to me?”  
-And the Lord said to David,  
-“Go up, for I will certainly hand the Philistines over to you.”
+So David inquired of the Lord, asking,  
+“Shall I go up against the Philistines? Will You deliver them into my hand?”  
+And the Lord replied to David,  
+“Go up, for I will surely deliver the Philistines into your hand.”
 
 ## 2 Samuel 5:20
 
-So David came to Baal-perazim and defeated them there;  
-and he said,  
-“The Lord has broken through my enemies before me like the breakthrough of waters.”  
-Therefore he named that place Baal-perazim.
+So David went to Baal-perazim and defeated them there;  
+and he declared,  
+“The Lord has broken through my enemies before me like a breakthrough of waters.”  
+Therefore, he named that place Baal-perazim.
 
 ## 2 Samuel 5:21
 
-And the Philistines abandoned their idols there,  
-so David and his men carried them away.
+The Philistines left their idols there,  
+so David and his men took them away.
 
 ---
 

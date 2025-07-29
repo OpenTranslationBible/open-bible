@@ -39,10 +39,10 @@ I have been sent to you with a harsh message.
 
 ## 1 Kings 14:7
 
-Go, say to Jeroboam,  
-‘This is what the Lord, the God of Israel, says:  
-“Because I exalted you from among the people  
-and made you leader over My people Israel,
+Go, tell Jeroboam,  
+‘This is what the Lord, the God of Israel, declares:  
+“I raised you from among the people  
+and appointed you as leader over My people Israel,
 
 ## 1 Kings 14:8
 
@@ -53,26 +53,26 @@ to do only that which was right in My sight—
 
 ## 1 Kings 14:9
 
-you also have done more evil than all who were before you,  
-and you have gone and made for yourself other gods and cast metal images,  
-to provoke Me to anger, and have thrown Me behind your back—
+you have committed more evil than all who were before you,  
+and you have gone and created other gods and cast metal images,  
+provoking Me to anger, and have cast Me aside—
 
 ## 1 Kings 14:10
 
 therefore, behold, I am bringing disaster on the house of Jeroboam,  
 and will eliminate from Jeroboam every male person, both bond and free in Israel,  
-and I will sweep away the house of Jeroboam, as one sweeps away dung until it is all gone.
+and I will sweep away the house of Jeroboam, as one sweeps away refuse until it is all gone.
 
 ## 1 Kings 14:11
 
-Anyone belonging to Jeroboam who dies in the city, the dogs will eat,  
-and anyone who dies in the field, the birds of the sky will eat;  
+Those belonging to Jeroboam who die in the city, the dogs will consume,  
+and those who die in the field, the birds of the sky will consume;  
 for the Lord has spoken it.”’
 
 ## 1 Kings 14:12
 
-Now you, arise, go to your house.  
-When your feet enter the city, the child will die.
+Now you, arise, return to your house.  
+When your feet enter the city, the child will pass away.
 
 ## 1 Kings 14:13
 
@@ -102,7 +102,7 @@ which he committed and with which he misled Israel into sin.”
 ## 1 Kings 14:17
 
 Then Jeroboam’s wife arose and departed, and came to Tirzah.  
-As she was entering the threshold of the house, the child died.
+As she was crossing the threshold of the house, the child passed away.
 
 ## 1 Kings 14:18
 
@@ -113,23 +113,23 @@ in accordance with the word of the Lord, which He had spoken through His servant
 
 ## 1 Kings 14:19
 
-Now as for the rest of the acts of Jeroboam, how he made war and how he reigned,  
-behold, they are written in the Book of the Chronicles of the Kings of Israel.
+Now regarding the rest of the acts of Jeroboam, his wars and his reign,  
+behold, they are recorded in the Book of the Chronicles of the Kings of Israel.
 
 ## 1 Kings 14:20
 
-And the time that Jeroboam reigned was twenty-two years;  
-and he lay down with his fathers,  
-and his son Nadab reigned in his place.
+And the duration of Jeroboam's reign was twenty-two years;  
+and he rested with his ancestors,  
+and his son Nadab succeeded him as king.
 
 ---
 
 ## 1 Kings 14:21
 
-Now Rehoboam the son of Solomon reigned in Judah.  
+Now Rehoboam, the son of Solomon, reigned in Judah.  
 Rehoboam was forty-one years old when he became king,  
 and he reigned for seventeen years in Jerusalem,  
-the city which the Lord had chosen from all the tribes of Israel to put His name there.  
+the city which the Lord had chosen from all the tribes of Israel to place His name there.  
 And his mother’s name was Naamah the Ammonitess.
 
 ## 1 Kings 14:22
@@ -151,8 +151,7 @@ which the Lord dispossessed before the sons of Israel.
 
 ## 1 Kings 14:25
 
-Now it happened in the fifth year of King Rehoboam,  
-that Shishak the king of Egypt came up against Jerusalem.
+In the fifth year of King Rehoboam's reign, Shishak, the king of Egypt, advanced against Jerusalem.
 
 ## 1 Kings 14:26
 
@@ -163,9 +162,9 @@ he also took all the shields of gold which Solomon had made.
 
 ## 1 Kings 14:27
 
-So King Rehoboam made shields of bronze in their place,  
+So King Rehoboam made shields of bronze to replace them,  
 and entrusted them to the care of the commanders of the guard  
-who guarded the doorway of the king’s house.
+who protected the entrance to the king’s house.
 
 ## 1 Kings 14:28
 
@@ -176,8 +175,8 @@ the guards would carry them and bring them back into the guards’ room.
 
 ## 1 Kings 14:29
 
-Now as for the rest of the acts of Rehoboam and everything that he did,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+Now concerning the rest of the acts of Rehoboam and all that he did,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 1 Kings 14:30
 
@@ -185,7 +184,7 @@ And conflict and war persisted between Rehoboam and Jeroboam throughout their re
 
 ## 1 Kings 14:31
 
-And Rehoboam lay down with his fathers  
-and was buried with his fathers in the city of David.  
+And Rehoboam rested with his ancestors  
+and was buried with them in the city of David.  
 And his mother’s name was Naamah the Ammonitess.  
-And his son Abijam became king in his place.
+And his son Abijam succeeded him as king.

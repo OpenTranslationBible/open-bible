@@ -6,13 +6,13 @@ Then they told David, “Behold, the Philistines are fighting against Keilah and
 
 ## 1 Samuel 23:2
 
-So David inquired of the Lord, saying, “Shall I go and attack these Philistines?”  
-And the Lord said to David, “Go and attack the Philistines and save Keilah.”
+So David sought guidance from the Lord, asking, “Should I go and attack these Philistines?”  
+And the Lord replied to David, “Go, attack the Philistines and deliver Keilah.”
 
 ## 1 Samuel 23:3
 
-But David’s men said to him, “Behold, we are afraid here in Judah.  
-How much more then if we go to Keilah against the ranks of the Philistines?”
+But David’s men expressed their concern, saying, “We are already fearful here in Judah.  
+How much more if we go to Keilah against the ranks of the Philistines?”
 
 ## 1 Samuel 23:4
 
@@ -34,8 +34,8 @@ he came down with an ephod in his hand.
 
 ## 1 Samuel 23:7
 
-When it was reported to Saul that David had come to Keilah, Saul said,  
-“God has handed him over to me, for he shut himself in by entering a city with double gates and bars.”
+When it was reported to Saul that David had come to Keilah, Saul remarked,  
+“God has delivered him into my hands, for he has trapped himself by entering a city with double gates and bars.”
 
 ## 1 Samuel 23:8
 
@@ -43,7 +43,7 @@ So Saul gathered all the people to go down to Keilah, intending to besiege David
 
 ## 1 Samuel 23:9
 
-Now David knew that Saul was plotting evil against him;  
+Now David was aware of Saul’s scheme against him;  
 so he said to Abiathar the priest, “Bring the ephod here.”
 
 ## 1 Samuel 23:10
@@ -76,8 +76,8 @@ And Saul searched for him every day, but God did not hand him over to him.
 
 ## 1 Samuel 23:15
 
-Now David became aware that Saul had come out to seek his life,  
-while David was in the wilderness of Ziph, at Horesh.
+David realised that Saul had come out to seek his life,  
+while he was in the wilderness of Ziph, at Horesh.
 
 ## 1 Samuel 23:16
 
@@ -93,7 +93,7 @@ and Saul my father knows that also.”
 ## 1 Samuel 23:18
 
 So the two of them made a covenant before the Lord.  
-And David stayed at Horesh, while Jonathan went to his house.
+And David stayed at Horesh, while Jonathan returned to his home.
 
 ---
 
@@ -118,7 +118,7 @@ for I am told that he is very cunning.
 
 ## 1 Samuel 23:23
 
-So look and learn about all the hiding places where he hides himself, and return to me with certainty,  
+So observe and discover all the hiding places where he conceals himself, and return to me with certainty,  
 and I will go with you.  
 And if he is in the land, I will search him out among all the thousands of Judah.”
 
@@ -144,7 +144,7 @@ for Saul and his men were surrounding David and his men to seize them.
 ## 1 Samuel 23:27
 
 But a messenger came to Saul, saying, “Hurry and come,  
-for the Philistines have made a raid on the land!”
+for the Philistines have launched an attack on the land!”
 
 ## 1 Samuel 23:28
 

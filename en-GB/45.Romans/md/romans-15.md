@@ -41,19 +41,19 @@ and so that the Gentiles might glorify God for His mercy. As it is written:
 
 ## Romans 15:10
 
-Again it says,
+Furthermore, it is stated,
 
-> “Rejoice, you Gentiles, with His people.”
+> “Rejoice, you Gentiles, along with His people.”
 
 ## Romans 15:11
 
-And again,
+And it is also declared,
 
 > “Praise the Lord, all you Gentiles; let all the peoples extol Him.”
 
 ## Romans 15:12
 
-And again, Isaiah says,
+Moreover, Isaiah proclaims,
 
 > “The Root of Jesse will spring up,
 > one who will arise to rule over the nations;
@@ -93,9 +93,9 @@ And in this way I aspired to preach the gospel, not where Christ was already rec
 
 ## Romans 15:21
 
-but as it is written:
+but as Scripture says:
 
-> “Those who were not told about Him will see,
+> “Those who were not informed about Him will see,
 > and those who have not heard will understand.”
 
 ## Romans 15:22

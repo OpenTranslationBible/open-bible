@@ -70,7 +70,7 @@ As evening approached, they brought to Him many who were troubled by demons, and
 
 ## Matthew 8:17
 
-This was to fulfil what was spoken through the prophet Isaiah:
+This was to fulfil the words spoken by the prophet Isaiah:
 
 > “He took up our infirmities
 > and bore our diseases.”

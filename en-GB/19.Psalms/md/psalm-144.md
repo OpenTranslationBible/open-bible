@@ -19,77 +19,77 @@
 
 ## Psalm 144:3
 
-> Lord, what is man, that You look after him?  
-> Or a son of man, that You think of him?
+> Lord, what is man, that You care for him?  
+> Or the children of man, that You are mindful of them?
 
 ## Psalm 144:4
 
-> Man is like the breath;  
-> His days are like a passing shadow.
+> Man is like a breath;  
+> His days are like a fleeting shadow.
 
 ---
 
 ## Psalm 144:5
 
-> Bend down Your heavens, Lord, and come down;  
-> Touch the mountains, that they may smoke.
+> Lower Your heavens, Lord, and descend;  
+> Touch the mountains, so they may smoke.
 
 ## Psalm 144:6
 
-> Flash forth lightning and scatter them;  
-> Send out Your arrows and confuse them.
+> Send forth lightning and scatter them;  
+> Release Your arrows and disorient them.
 
 ## Psalm 144:7
 
-> Reach out with Your hand from on high;  
-> Rescue me and save me from great waters,  
-> From the hand of foreigners
+> Extend Your hand from above;  
+> Deliver me and save me from mighty waters,  
+> From the grasp of strangers
 
 ## Psalm 144:8
 
 > Whose mouths speak deceit,  
-> And whose right hand is a right hand of falsehood.
+> And whose right hand is a hand of falsehood.
 
 ---
 
 ## Psalm 144:9
 
-> God, I will sing a new song to You;  
-> On a harp of ten strings I will sing praises to You,
+> O God, I will sing a new song to You;  
+> With a harp of ten strings I will offer praises to You,
 
 ## Psalm 144:10
 
-> Who gives salvation to kings,  
-> Who rescues His servant David from the evil sword.
+> Who grants deliverance to kings,  
+> Who saves His servant David from the harmful sword.
 
 ## Psalm 144:11
 
-> Rescue me and save me from the hand of foreigners,  
+> Deliver me and save me from the grasp of strangers,  
 > Whose mouths speak deceit,  
-> And whose right hand is a right hand of falsehood.
+> And whose right hand is a hand of falsehood.
 
 ---
 
 ## Psalm 144:12
 
-> May our sons in their youth be like growing plants,  
+> May our sons in their youth be like thriving plants,  
 > And our daughters like corner pillars  
-> Fashioned for a palace.
+> Crafted for a palace.
 
 ## Psalm 144:13
 
 > May our granaries be full,  
 > Providing every kind of produce,  
-> May our flocks deliver thousands  
+> May our flocks bring forth thousands  
 > And ten thousands in our fields;
 
 ## Psalm 144:14
 
 > May our cattle be bred  
 > Without mishap and without loss,  
-> May there be no outcry in our streets!
+> May there be no distress in our streets!
 
 ## Psalm 144:15
 
-> Blessed are the people who are so situated;  
+> Blessed are the people who are in such a state;  
 > Blessed are the people whose God is the Lord!

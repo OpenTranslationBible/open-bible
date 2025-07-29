@@ -18,7 +18,7 @@ as people steal away who are humiliated when they flee in battle.
 
 ## 2 Samuel 19:4
 
-The king covered his face and cried out with a loud voice,  
+The king hid his face and lamented loudly,  
 “O my son Absalom, O Absalom, my son, my son!”
 
 ## 2 Samuel 19:5
@@ -73,7 +73,7 @@ since the word of all Israel has come to the king, to return him to his house?
 
 ## 2 Samuel 19:12
 
-You are my brothers; you are my bone and my flesh.  
+You are my kin; you are my own flesh and blood.  
 Why then should you be the last to bring back the king?’
 
 ## 2 Samuel 19:13
@@ -98,7 +98,7 @@ to escort the king over the Jordan.
 
 ## 2 Samuel 19:16
 
-Then Shimei the son of Gera, the Benjaminite who was from Bahurim,  
+Then Shimei son of Gera, the Benjaminite from Bahurim,  
 hurried and came down with the men of Judah to meet King David.
 
 ## 2 Samuel 19:17
@@ -202,9 +202,9 @@ and he went over the Jordan with the king, to escort him over the Jordan.
 
 ## 2 Samuel 19:32
 
-Barzillai was a very aged man, eighty years old,  
+Barzillai was an elderly man, eighty years old,  
 and he had provided the king with food while he stayed at Mahanaim,  
-for he was a very wealthy man.
+for he was a man of great wealth.
 
 ## 2 Samuel 19:33
 

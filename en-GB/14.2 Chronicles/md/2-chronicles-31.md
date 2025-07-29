@@ -36,8 +36,8 @@ and they brought in abundantly the tithe of everything.
 
 ## 2 Chronicles 31:6
 
-The sons of Israel and Judah who lived in the cities of Judah also brought in the tithe of oxen and sheep,  
-and the tithe of sacred gifts which were consecrated to the Lord their God, and placed them in heaps.
+The people of Israel and Judah residing in the cities of Judah also brought in the tithe of oxen and sheep,  
+and the tithe of sacred offerings dedicated to the Lord their God, and placed them in heaps.
 
 ## 2 Chronicles 31:7
 
@@ -58,7 +58,7 @@ Then Hezekiah questioned the priests and the Levites about the heaps.
 Azariah, the chief priest of the house of Zadok, said to him,  
 “Since the contributions began to be brought into the house of the Lord,  
 we have had enough to eat with plenty left over,  
-for the Lord has blessed His people, and this great quantity is left over.”
+for the Lord has blessed His people, and this abundance remains.”
 
 ---
 
@@ -75,7 +75,7 @@ and Conaniah the Levite was the officer in charge over them, and his brother Shi
 
 Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismachiah, Mahath, and Benaiah  
 were overseers under the authority of Conaniah and Shimei his brother by the appointment of King Hezekiah,  
-and Azariah was the chief officer of the house of God.
+and Azariah served as the chief officer of the house of God.
 
 ---
 
@@ -119,8 +119,8 @@ there were men who were designated by name to distribute portions to every male 
 
 ## 2 Chronicles 31:20
 
-This is what Hezekiah did throughout Judah;  
-and he did what was good, right, and true before the Lord his God.
+This was the practice of Hezekiah throughout Judah;  
+and he acted in a manner that was good, right, and true before the Lord his God.
 
 ## 2 Chronicles 31:21
 

@@ -21,8 +21,8 @@ But there is some good in you, for you have removed the Asherah poles from the l
 
 ## 2 Chronicles 19:4
 
-So Jehoshaphat lived in Jerusalem, and he went out again among the people from Beersheba to the hill country of Ephraim,  
-and brought them back to the Lord, the God of their fathers.
+Jehoshaphat resided in Jerusalem, and he went out once more among the people from Beersheba to the hill country of Ephraim,  
+and guided them back to the Lord, the God of their ancestors.
 
 ---
 
@@ -54,8 +54,8 @@ for the judgment of the Lord and to judge disputes among the inhabitants of Jeru
 
 ## 2 Chronicles 19:9
 
-Then he commanded them, saying,  
-“This is what you shall do in the fear of the Lord, faithfully and wholeheartedly.
+He instructed them, saying,  
+“This is how you shall act in the fear of the Lord, with faithfulness and sincerity.
 
 ---
 

@@ -2,9 +2,7 @@
 
 ## 1 Chronicles 13:1
 
-Then David consulted with the captains of the thousands and the hundreds,
-
-> even with every leader.
+David sought advice from the leaders of the thousands and hundreds, including every leader.
 
 ---
 
@@ -21,22 +19,22 @@ David said to all the assembly of Israel,
 
 ## 1 Chronicles 13:3
 
-> and let us bring back the ark of our God to us,  
-> for we did not seek it in the days of Saul.”
+> and let us return the ark of our God to us,  
+> for we did not seek it during the days of Saul.”
 
 ---
 
 ## 1 Chronicles 13:4
 
-Then all the assembly said that they would do so,
+Then all the assembly agreed to do so,
 
-> for the thing was right in the eyes of all the people.
+> for it was right in the eyes of all the people.
 
 ---
 
 ## 1 Chronicles 13:5
 
-So David assembled all Israel together,  
+So David gathered all Israel together,  
 from the Shihor of Egypt to the entrance of Hamath,
 
 > to bring the ark of God from Kiriath-jearim.
@@ -45,18 +43,18 @@ from the Shihor of Egypt to the entrance of Hamath,
 
 ## 1 Chronicles 13:6
 
-David and all Israel went up to Baalah, that is, to Kiriath-jearim which belongs to Judah,
+David and all Israel went up to Baalah, which is Kiriath-jearim in Judah,
 
 > to bring up from there the ark of God, the Lord who is enthroned above the cherubim,  
-> where His name is called.
+> where His name is invoked.
 
 ---
 
 ## 1 Chronicles 13:7
 
-They carried the ark of God on a new cart from the house of Abinadab,
+They transported the ark of God on a new cart from the house of Abinadab,
 
-> and Uzza and Ahio drove the cart.
+> with Uzza and Ahio guiding the cart.
 
 ---
 
@@ -64,7 +62,7 @@ They carried the ark of God on a new cart from the house of Abinadab,
 
 David and all Israel were celebrating before God with all their might,
 
-> even with songs and lyres, harps, tambourines, cymbals, and trumpets.
+> with songs and lyres, harps, tambourines, cymbals, and trumpets.
 
 ---
 
@@ -88,9 +86,9 @@ so He struck him down because he had put out his hand toward the ark;
 
 ## 1 Chronicles 13:11
 
-Then David became angry because of the Lord’s outburst against Uzza;
+David was indignant because of the Lord’s outburst against Uzza;
 
-> and he called that place Perez-uzza to this day.
+> and he named that place Perez-uzza, a name it retains to this day.
 
 ---
 

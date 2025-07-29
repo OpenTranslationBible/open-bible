@@ -9,43 +9,43 @@
 
 ## Psalm 12:2
 
-> They speak lies to one another;  
-> They speak with flattering lips and a double heart.
+> They speak deceitfully to one another;  
+> They use flattering lips and harbour duplicity in their hearts.
 
 ---
 
 ## Psalm 12:3
 
-> May the Lord cut off all flattering lips,  
-> The tongue that speaks great things;
+> May the Lord silence all flattering lips,  
+> The tongue that boasts of great things;
 
 ## Psalm 12:4
 
-> Who have said, “With our tongue we will prevail;  
-> Our lips are our own; who is lord over us?”
+> Those who have said, “With our words, we will succeed;  
+> Our lips belong to us; who can be master over us?”
 
 ---
 
 ## Psalm 12:5
 
-> “Because of the devastation of the poor, because of the groaning of the needy,  
+> “Because of the oppression of the poor, because of the sighing of the needy,  
 > Now I will arise,” says the Lord;  
-> “I will put him in the safety for which he longs.”
+> “I will place him in the safety he desires.”
 
 ---
 
 ## Psalm 12:6
 
 > The words of the Lord are pure words;  
-> Like silver refined in a furnace on the ground,  
-> Filtered seven times.
+> Like silver refined in a furnace on the earth,  
+> Purified seven times.
 
 ## Psalm 12:7
 
-> You, Lord, will keep them;  
-> You will protect him from this generation forever.
+> You, Lord, will preserve them;  
+> You will guard him from this generation perpetually.
 
 ## Psalm 12:8
 
-> The wicked strut about on every side,  
-> When vileness is exalted among the sons of mankind.
+> The wicked prowl on every side,  
+> When depravity is honoured among the sons of mankind.

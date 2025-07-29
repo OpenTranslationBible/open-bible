@@ -2,8 +2,8 @@
 
 ## 1 Kings 18:1
 
-Now it happened after many days that the word of the Lord came to Elijah in the third year, saying,  
-“Go, show yourself to Ahab, and I will send rain on the face of the earth.”
+After a long period, the word of the Lord came to Elijah in the third year, instructing him,  
+“Go, present yourself to Ahab, and I will bring rain upon the land.”
 
 ## 1 Kings 18:2
 
@@ -12,13 +12,13 @@ Thus, Elijah set out to present himself to Ahab. At that time, the famine was in
 ## 1 Kings 18:3
 
 And Ahab summoned Obadiah, who was in charge of the household.  
-(Obadiah feared the Lord greatly.
+(Obadiah greatly revered the Lord.
 
 ## 1 Kings 18:4
 
-For when Jezebel destroyed the prophets of the Lord,  
-Obadiah took a hundred prophets and hid them by fifties in a cave,  
-and provided them with bread and water.)
+For when Jezebel sought to destroy the prophets of the Lord,  
+Obadiah took a hundred prophets and hid them in groups of fifty in a cave,  
+and supplied them with bread and water.)
 
 ## 1 Kings 18:5
 
@@ -29,8 +29,8 @@ and not have to kill some of the livestock.”
 
 ## 1 Kings 18:6
 
-So they divided the land between them to survey it;  
-Ahab went one way by himself, and Obadiah went another way by himself.
+So they divided the land between them to explore it;  
+Ahab went one way on his own, and Obadiah went another way on his own.
 
 ## 1 Kings 18:7
 
@@ -41,43 +41,43 @@ and he recognised him and fell on his face and said,
 ## 1 Kings 18:8
 
 And he said to him,  
-“It is I. Go, say to your master, ‘Behold, Elijah is here.’”
+“Yes, it is I. Go, tell your master, ‘Behold, Elijah is here.’”
 
 ## 1 Kings 18:9
 
 But he said,  
-“What sin have I committed, that you are handing your servant over to Ahab to put me to death?
+“What wrong have I done, that you are delivering your servant to Ahab, to be put to death?
 
 ## 1 Kings 18:10
 
-As the Lord your God lives,  
+As surely as the Lord your God lives,  
 there is no nation or kingdom where my master has not sent to search for you;  
 and when they said, ‘He is not here,’  
 he made the kingdom or nation swear that they could not find you.
 
 ## 1 Kings 18:11
 
-And now you are saying,  
-‘Go, say to your master, “Behold, Elijah is here.”’
+And now you are telling me,  
+‘Go, tell your master, “Behold, Elijah is here.”’
 
 ## 1 Kings 18:12
 
 And it will come about when I leave you  
 that the Spirit of the Lord will carry you where I do not know,  
 so when I come and tell Ahab and he does not find you, he will kill me,  
-though I your servant have feared the Lord from my youth.
+though I your servant have revered the Lord from my youth.
 
 ## 1 Kings 18:13
 
 Has it not been reported to my master what I did  
 when Jezebel killed the prophets of the Lord,  
-that I hid a hundred prophets of the Lord by fifties in a cave,  
-and provided them with bread and water?
+that I hid a hundred prophets of the Lord in groups of fifty in a cave,  
+and supplied them with bread and water?
 
 ## 1 Kings 18:14
 
-Now you are saying,  
-‘Go, say to your master, “Behold, Elijah is here”’;  
+Now you are telling me,  
+‘Go, tell your master, “Behold, Elijah is here”’;  
 then he will kill me.”
 
 ## 1 Kings 18:15
@@ -94,12 +94,12 @@ and Ahab went to meet Elijah.
 ## 1 Kings 18:17
 
 When Ahab saw Elijah, Ahab said to him,  
-“Is this you, the cause of disaster for Israel?”
+“Is this you, the one who troubles Israel?”
 
 ## 1 Kings 18:18
 
-He said,  
-“I have not brought disaster to Israel, but you and your father’s house have,  
+He replied,  
+“I have not been the cause of trouble for Israel, but you and your father’s house have,  
 because you have abandoned the commandments of the Lord  
 and you have followed the Baals.
 
@@ -114,24 +114,24 @@ who eat at Jezebel’s table.”
 ## 1 Kings 18:20
 
 So Ahab sent orders among all the sons of Israel  
-and brought the prophets together at Mount Carmel.
+and gathered the prophets together at Mount Carmel.
 
 ## 1 Kings 18:21
 
 Then Elijah approached all the people and said,  
-“How long are you going to struggle between two choices?  
+“How long will you waver between two opinions?  
 If the Lord is God, follow Him; but if Baal, follow him.”  
 But the people did not answer him so much as a word.
 
 ## 1 Kings 18:22
 
 Then Elijah said to the people,  
-“I alone am left as a prophet of the Lord, while Baal’s prophets are 450 men.
+“I alone remain as a prophet of the Lord, while Baal’s prophets are 450 men.
 
 ## 1 Kings 18:23
 
-Now have them give us two oxen;  
-and let them choose the one ox for themselves and cut it up,  
+Now let them give us two oxen;  
+and let them choose one ox for themselves and cut it up,  
 and place it on the wood, but put no fire under it;  
 and I will prepare the other ox and lay it on the wood, and I will not put fire under it.
 
@@ -139,13 +139,13 @@ and I will prepare the other ox and lay it on the wood, and I will not put fire 
 
 Then you call on the name of your god, and I will call on the name of the Lord;  
 and the God who answers by fire, He is God.”  
-And all the people replied, “That is a good idea.”
+And all the people replied, “That is a good proposal.”
 
 ## 1 Kings 18:25
 
 So Elijah said to the prophets of Baal,  
-“Choose the one ox for yourselves and prepare it first, since there are many of you,  
-and call on the name of your god, but put no fire under the ox.”
+“Choose one ox for yourselves and prepare it first, since there are many of you,  
+and call on the name of your god, but put no fire under it.”
 
 ## 1 Kings 18:26
 
@@ -157,10 +157,10 @@ And they limped about the altar which they had made.
 
 ## 1 Kings 18:27
 
-At noon Elijah ridiculed them and said,  
+At noon Elijah mocked them and said,  
 “Call out with a loud voice, since he is a god;  
-undoubtedly he is attending to business, or is on the way, or is on a journey;  
-perhaps he is asleep and will wake up!”
+perhaps he is deep in thought, or is on the way, or is on a journey;  
+maybe he is asleep and will wake up!”
 
 ## 1 Kings 18:28
 
@@ -177,20 +177,20 @@ but there was no voice, no answer, and no attention was paid.
 
 ## 1 Kings 18:30
 
-Then Elijah said to all the people, “Come forward to me.”  
-So all the people came forward to him.  
-And he repaired the altar of the Lord which had been torn down.
+Then Elijah said to all the people, “Come near to me.”  
+So all the people came near to him.  
+And he restored the altar of the Lord which had been torn down.
 
 ## 1 Kings 18:31
 
 Then Elijah took twelve stones,  
-corresponding to the number of the tribes of the sons of Jacob,  
+representing the number of the tribes of the sons of Jacob,  
 to whom the word of the Lord had come, saying,  
 “Israel shall be your name.”
 
 ## 1 Kings 18:32
 
-And with the stones he built an altar in the name of the Lord;  
+And with the stones he constructed an altar in the name of the Lord;  
 and he made a trench around the altar, large enough to hold two measures of seed.
 
 ## 1 Kings 18:33
@@ -201,7 +201,7 @@ And he said,
 
 ## 1 Kings 18:34
 
-Then he said, “Do it a second time,” and they did it a second time.  
+Then he said, “Do it again,” and they did it again.  
 Then he said, “Do it a third time,” and they did it a third time.
 
 ## 1 Kings 18:35
@@ -219,9 +219,9 @@ and that I am Your servant, and that I have done all these things at Your word.
 
 ## 1 Kings 18:37
 
-Answer me, Lord, answer me,  
+Hear me, Lord, hear me,  
 so that this people may know that You, Lord, are God,  
-and that You have turned their heart back.”
+and that You have turned their hearts back.”
 
 ## 1 Kings 18:38
 
@@ -231,23 +231,23 @@ and it licked up the water that was in the trench.
 
 ## 1 Kings 18:39
 
-When all the people saw this, they fell on their faces;  
+When all the people witnessed this, they fell on their faces;  
 and they said,  
 “The Lord, He is God; the Lord, He is God!”
 
 ## 1 Kings 18:40
 
 Then Elijah said to them,  
-“Seize the prophets of Baal; do not let one of them escape.”  
-So they seized them; and Elijah brought them down to the brook Kishon,  
-and slaughtered them there.
+“Capture the prophets of Baal; do not let one of them escape.”  
+So they captured them; and Elijah brought them down to the brook Kishon,  
+and executed them there.
 
 ---
 
 ## 1 Kings 18:41
 
-Now Elijah said to Ahab,  
-“Go up, eat and drink; for there is the sound of the roar of a heavy shower.”
+Elijah then said to Ahab,  
+“Go up, eat and drink; for there is the sound of a mighty rainstorm.”
 
 ## 1 Kings 18:42
 
@@ -266,12 +266,12 @@ But he said, “Go back” seven times.
 And when he returned the seventh time, he said,  
 “Behold, a cloud as small as a person’s hand is coming up from the sea.”  
 And Elijah said, “Go up, say to Ahab, ‘Prepare your chariot and go down,  
-so that the heavy shower does not stop you.’”
+so that the heavy rain does not stop you.’”
 
 ## 1 Kings 18:45
 
 Meanwhile the sky became dark with clouds and wind,  
-and there was a heavy shower.  
+and there was a heavy rain.  
 And Ahab rode and went to Jezreel.
 
 ## 1 Kings 18:46

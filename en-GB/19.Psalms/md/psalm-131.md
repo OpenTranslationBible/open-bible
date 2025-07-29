@@ -10,8 +10,8 @@
 
 ## Psalm 131:2
 
-> I have certainly soothed and quieted my soul,  
-> Like a weaned child resting against his mother,  
+> I have indeed calmed and quieted my soul,  
+> Like a weaned child resting with its mother,  
 > My soul within me is like a weaned child.
 
 ---

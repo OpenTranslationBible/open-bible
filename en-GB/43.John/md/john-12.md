@@ -54,7 +54,7 @@ The next day the great crowd that had come for the feast heard that Jesus was on
 
 ## John 12:13
 
-They took palm branches and went out to meet him, shouting,
+They took palm branches and went out to meet him, crying out,
 
 > “Hosanna!
 > Blessed is he who comes in the name of the Lord!
@@ -168,7 +168,7 @@ Even though Jesus had performed so many signs in their presence, they still woul
 
 ## John 12:38
 
-This was to fulfil the word of Isaiah the prophet:
+This was to fulfil the words of Isaiah the prophet:
 
 > “Lord, who has believed our message
 > and to whom has the arm of the Lord been revealed?”
@@ -179,11 +179,11 @@ They were unable to believe for this reason, as Isaiah says elsewhere:
 
 ## John 12:40
 
-> “He has blinded their eyes
+> “He blinded their eyes
 > and hardened their hearts,
-> so they can neither see with their eyes,
+> so they can not see with their eyes,
 > nor understand with their hearts,
-> nor turn—and I would heal them.”
+> nor turn —and I would heal them.”
 
 ## John 12:41
 

@@ -28,15 +28,15 @@
 
 ## Psalm 17:5
 
-> My steps have held to Your paths.  
-> My feet have not slipped.
+> I have remained steadfast in Your ways.  
+> My feet have not faltered.
 
 ---
 
 ## Psalm 17:6
 
-> I have called upon You, for You will answer me, God;  
-> Incline Your ear to me, hear my speech.
+> I have called upon You, for You will respond to me, God;  
+> Incline Your ear to me, heed my words.
 
 ## Psalm 17:7
 
@@ -46,25 +46,25 @@
 
 ## Psalm 17:8
 
-> Keep me as the apple of the eye;  
-> Hide me in the shadow of Your wings
+> Guard me as the cherished one;  
+> Shelter me under the cover of Your wings
 
 ## Psalm 17:9
 
-> From the wicked who deal violently with me,  
-> My deadly enemies who surround me.
+> From the wicked who act violently against me,  
+> My mortal foes who encircle me.
 
 ---
 
 ## Psalm 17:10
 
-> They have closed their unfeeling hearts,  
-> With their mouths they speak proudly.
+> They have hardened their unfeeling hearts,  
+> With their mouths they speak arrogantly.
 
 ## Psalm 17:11
 
-> They have now surrounded us in our steps;  
-> They set their eyes to cast us down to the ground.
+> They have now encircled us in our steps;  
+> They set their eyes to bring us down to the ground.
 
 ## Psalm 17:12
 
@@ -75,8 +75,8 @@
 
 ## Psalm 17:13
 
-> Arise, Lord, confront him, make him bow down;  
-> Save my soul from the wicked with Your sword,
+> Arise, Lord, face him, bring him low;  
+> Deliver my soul from the wicked with Your sword,
 
 ## Psalm 17:14
 
@@ -90,5 +90,5 @@
 
 ## Psalm 17:15
 
-> As for me, I shall behold Your face in righteousness;  
-> I shall be satisfied with Your likeness when I awake.
+> As for me, I shall gaze upon Your face in righteousness;  
+> I shall be fulfilled with Your likeness when I awake.

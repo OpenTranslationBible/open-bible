@@ -58,10 +58,10 @@ On that day messengers will go out from me in ships to frighten Cush out of her 
 
 ## Ezekiel 30:10
 
-‘This is what the Sovereign Lord says:
+‘This is what the Sovereign Lord declares:
 
-> “I will put an end to the hordes of Egypt
-> by the hand of Nebuchadnezzar king of Babylon.
+> “I will bring an end to the Egyptian multitude
+> and I will use Nebuchadnezzar, king of Babylon's, hand.
 
 ## Ezekiel 30:11
 
@@ -112,7 +112,7 @@ I the Lord have spoken.
 
 > The young men of Heliopolis and Bubastis
 > will fall by the sword,
-> and the women will go into captivity.
+> and the women will be taken into captivity.
 
 ## Ezekiel 30:18
 
@@ -124,7 +124,7 @@ I the Lord have spoken.
 
 ## Ezekiel 30:19
 
-> So I will execute judgments on Egypt,
+> Thus I will bring judgments upon Egypt,
 > and they will know that I am the Lord.’”
 
 ## Ezekiel 30:20

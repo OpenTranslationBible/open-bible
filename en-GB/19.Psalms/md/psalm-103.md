@@ -9,13 +9,13 @@
 
 ## Psalm 103:2
 
-> Bless the Lord, my soul,  
-> And do not forget any of His benefits;
+> Praise the Lord, my soul,  
+> And remember all His benefits;
 
 ## Psalm 103:3
 
-> Who pardons all your guilt,  
-> Who heals all your diseases;
+> Who forgives all your iniquities,  
+> Who heals all your ailments;
 
 ## Psalm 103:4
 
@@ -24,104 +24,104 @@
 
 ## Psalm 103:5
 
-> Who satisfies your years with good things,  
+> Who fills your life with good things,  
 > So that your youth is renewed like the eagle.
 
 ---
 
 ## Psalm 103:6
 
-> The Lord performs righteous deeds  
-> And judgments for all who are oppressed.
+> The Lord executes righteous acts  
+> And justice for all who are oppressed.
 
 ---
 
 ## Psalm 103:7
 
-> He made known His ways to Moses,  
-> His deeds to the sons of Israel.
+> He revealed His ways to Moses,  
+> His deeds to the children of Israel.
 
 ## Psalm 103:8
 
 > The Lord is compassionate and gracious,  
-> Slow to anger and abounding in mercy.
+> Slow to anger and rich in mercy.
 
 ## Psalm 103:9
 
-> He will not always contend with us,  
-> Nor will He keep His anger forever.
+> He will not always accuse us,  
+> Nor will He harbour His anger forever.
 
 ## Psalm 103:10
 
-> He has not dealt with us according to our sins,  
-> Nor rewarded us according to our guilty deeds.
+> He has not treated us as our sins deserve,  
+> Nor repaid us according to our iniquities.
 
 ## Psalm 103:11
 
 > For as high as the heavens are above the earth,  
-> So great is His mercy toward those who fear Him.
+> So great is His mercy towards those who fear Him.
 
 ## Psalm 103:12
 
 > As far as the east is from the west,  
-> So far has He removed our wrongdoings from us.
+> So far has He taken away our transgressions from us.
 
 ---
 
 ## Psalm 103:13
 
-> Just as a father has compassion on his children,  
-> So the Lord has compassion on those who fear Him.
+> Just as a father shows compassion to his children,  
+> So the Lord shows compassion to those who fear Him.
 
 ## Psalm 103:14
 
-> For He Himself knows our form;  
-> He is mindful that we are nothing but dust.
+> For He understands our nature;  
+> He remembers that we are mere dust.
 
 ## Psalm 103:15
 
 > As for man, his days are like grass;  
-> Like a flower of the field, so he flourishes.
+> Like a flower of the field, so he blooms.
 
 ## Psalm 103:16
 
 > When the wind has passed over it, it is no more,  
-> And its place no longer knows about it.
+> And its place remembers it no longer.
 
 ## Psalm 103:17
 
 > But the mercy of the Lord is from everlasting to everlasting  
-> For those who fear Him,  
-> And His justice to the children’s children,
+> Upon those who fear Him,  
+> And His righteousness to the children’s children,
 
 ## Psalm 103:18
 
-> To those who keep His covenant  
-> And remember His precepts, so as to do them.
+> To those who uphold His covenant  
+> And remember His commandments to follow them.
 
 ---
 
 ## Psalm 103:19
 
-> The Lord has established His throne in the heavens,  
-> And His sovereignty rules over all.
+> The Lord has set His throne in the heavens,  
+> And His kingdom reigns over all.
 
 ---
 
 ## Psalm 103:20
 
-> Bless the Lord, you His angels,  
-> Mighty in strength, who perform His word,  
+> Praise the Lord, you His angels,  
+> Mighty in strength, who carry out His word,  
 > Obeying the voice of His word!
 
 ## Psalm 103:21
 
-> Bless the Lord, all you His hosts,  
+> Praise the Lord, all you His hosts,  
 > You who serve Him, doing His will.
 
 ## Psalm 103:22
 
-> Bless the Lord, all you works of His,  
+> Praise the Lord, all you works of His,  
 > In all places of His dominion;
 
-> Bless the Lord, my soul!
+> Praise the Lord, my soul!

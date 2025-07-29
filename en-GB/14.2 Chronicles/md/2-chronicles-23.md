@@ -11,8 +11,8 @@ and they entered into a covenant with him.
 
 ## 2 Chronicles 23:2
 
-They went throughout Judah and gathered the Levites from all the cities of Judah,  
-and the heads of the fathers’ households of Israel, and they came to Jerusalem.
+They travelled throughout Judah and assembled the Levites from all the cities of Judah,  
+along with the leaders of the families of Israel, and they gathered in Jerusalem.
 
 ---
 
@@ -26,9 +26,9 @@ And Jehoiada said to them,
 
 ## 2 Chronicles 23:4
 
-This is the thing which you shall do:  
-one third of you, of the priests and Levites who come in on the Sabbath,  
-shall be gatekeepers,
+This is what you are to do:  
+one third of you, the priests and Levites who come in on the Sabbath,  
+shall act as gatekeepers,
 
 ---
 
@@ -73,24 +73,24 @@ which had been King David’s, which were in the house of God.
 
 ## 2 Chronicles 23:10
 
-He stationed all the people, each man with his weapon in his hand,  
+He positioned all the people, each man with his weapon in his hand,  
 from the right side of the house to the left side of the house,  
-by the altar and by the house, around the king.
+by the altar and by the house, surrounding the king.
 
 ---
 
 ## 2 Chronicles 23:11
 
-Then they brought out the king’s son and put the crown on him, and gave him the testimony,  
-and made him king.  
-And Jehoiada and his sons anointed him and said, “Long live the king!”
+Then they brought out the king’s son and placed the crown upon him, and handed him the testimony,  
+and proclaimed him king.  
+And Jehoiada and his sons anointed him and declared, “Long live the king!”
 
 ---
 
 ## 2 Chronicles 23:12
 
-When Athaliah heard the noise of the people running and praising the king,  
-she came into the house of the Lord to the people.
+When Athaliah heard the noise of the people running and celebrating the king,  
+she entered the house of the Lord to the people.
 
 ---
 
@@ -115,14 +115,14 @@ For the priest said, “She is not to be put to death in the house of the Lord.�
 
 ## 2 Chronicles 23:15
 
-So they seized her, and when she arrived at the entrance of the Horse Gate of the king’s house,  
-they put her to death there.
+So they captured her, and when she reached the entrance of the Horse Gate of the king’s house,  
+they executed her there.
 
 ---
 
 ## 2 Chronicles 23:16
 
-Then Jehoiada made a covenant between himself and all the people and the king,  
+Then Jehoiada established a covenant between himself, all the people, and the king,  
 that they would be the Lord’s people.
 
 ---

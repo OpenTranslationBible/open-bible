@@ -13,13 +13,13 @@ and went with her household and stayed in the land of the Philistines for seven 
 
 ## 2 Kings 8:3
 
-At the end of seven years, the woman returned from the land of the Philistines;  
-and she went out to appeal to the king for her house and for her field.
+When the seven years had passed, the woman returned from the land of the Philistines;  
+and she went to make an appeal to the king for her house and her field.
 
 ## 2 Kings 8:4
 
-Now the king was talking with Gehazi, the servant of the man of God, saying,  
-“Please relate to me all the great things that Elisha has done.”
+At that time, the king was conversing with Gehazi, the servant of the man of God, saying,  
+“Please tell me all the remarkable things that Elisha has done.”
 
 ## 2 Kings 8:5
 
@@ -38,8 +38,8 @@ So the king appointed for her a certain officer, saying,
 
 ## 2 Kings 8:7
 
-Then Elisha came to Damascus.  
-Now Ben-hadad king of Aram was sick, and it was told him, saying,  
+Elisha arrived in Damascus.  
+At that time, Ben-hadad, the king of Aram, was ill, and he was informed, saying,  
 “The man of God has come here.”
 
 ## 2 Kings 8:8
@@ -87,7 +87,7 @@ And he said, “He told me that you would certainly recover.”
 
 ## 2 Kings 8:15
 
-But on the following day, he took the cover and dipped it in water and spread it over his face, so that he died.  
+Yet, on the next day, he took the cover, soaked it in water, and spread it over his face, causing his death.  
 And Hazael became king in his place.
 
 ---
@@ -136,15 +136,15 @@ are they not written in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 8:24
 
-So Joram slept with his fathers and was buried with his fathers in the city of David,  
-and Ahaziah his son became king in his place.
+So Joram rested with his ancestors and was buried with them in the city of David,  
+and Ahaziah his son succeeded him as king.
 
 ---
 
 ## 2 Kings 8:25
 
-In the twelfth year of Joram the son of Ahab king of Israel,  
-Ahaziah the son of Jehoram king of Judah began to reign.
+In the twelfth year of Joram, son of Ahab, king of Israel,  
+Ahaziah, son of Jehoram, king of Judah, began his reign.
 
 ## 2 Kings 8:26
 
@@ -154,8 +154,8 @@ His mother’s name was Athaliah, the granddaughter of Omri king of Israel.
 
 ## 2 Kings 8:27
 
-He walked in the way of the house of Ahab and did evil in the sight of the Lord,  
-like the house of Ahab had done, because he was a son-in-law of the house of Ahab.
+He followed the ways of the house of Ahab and did evil in the sight of the Lord,  
+similar to what the house of Ahab had done, because he was related by marriage to the house of Ahab.
 
 ## 2 Kings 8:28
 
@@ -164,6 +164,6 @@ and the Arameans wounded Joram.
 
 ## 2 Kings 8:29
 
-So King Joram returned to be healed in Jezreel of the wounds which the Arameans had inflicted on him at Ramah,  
+So King Joram returned to Jezreel to recover from the wounds inflicted by the Arameans at Ramah,  
 when he fought against Hazael king of Aram.  
-Then Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was sick.
+Then Ahaziah the son of Jehoram king of Judah went down to see Joram the son of Ahab in Jezreel, because he was unwell.

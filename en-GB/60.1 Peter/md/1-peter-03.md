@@ -40,21 +40,21 @@ not returning evil for evil or insult for insult, but offering a blessing instea
 
 For,
 
-> “The one who desires life,  
-> to love and see good days,  
-> Must keep his tongue from evil  
-> and his lips from speaking deceit.
+> “He who would love life  
+> and see good days,  
+> Must keep their tongue from evil  
+> and their lips from speaking deceit.
 
 ## 1 Peter 3:11
 
-> He must turn away from evil and do good;  
-> He must seek peace and pursue it.
+> They should turn away from evil and do good;  
+> They should seek peace and pursue it.
 
 ## 1 Peter 3:12
 
-> For the eyes of the Lord are toward the righteous,  
-> And His ears attend to their prayer,  
-> But the face of the Lord is against evildoers.”
+> For the Lord's eyes are upon the righteous,  
+> And His ears are attentive to their prayer,  
+> But the Lord's face is against those who do evil.”
 
 ## 1 Peter 3:13
 

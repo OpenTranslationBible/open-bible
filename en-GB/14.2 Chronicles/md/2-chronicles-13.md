@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 13:1
 
-In the eighteenth year of King Jeroboam's reign, Abijah ascended to the throne of Judah.
+In the eighteenth year of King Jeroboam's reign, Abijah began his reign of Judah.
 
 ---
 
@@ -22,8 +22,8 @@ while Jeroboam drew up in battle formation against him with eight hundred thousa
 
 ## 2 Chronicles 13:4
 
-Then Abijah stood on Mount Zemaraim, which is in the hill country of Ephraim, and said,  
-“Listen to me, Jeroboam and all Israel:
+Abijah took his stand on Mount Zemaraim, located in the hill country of Ephraim, and proclaimed,  
+“Hear me, Jeroboam and all Israel:
 
 ---
 
@@ -41,8 +41,8 @@ However, Jeroboam son of Nebat, who had served Solomon son of David, rose up and
 
 ## 2 Chronicles 13:7
 
-and worthless men gathered to him, wicked men, who proved too strong for Rehoboam, the son of Solomon,  
-when he was young and timid and could not hold his own against them.
+and men of low character gathered to him, unrighteous men, who proved too strong for Rehoboam, the son of Solomon,  
+when he was young and hesitant and could not withstand them.
 
 ---
 
@@ -87,8 +87,8 @@ Sons of Israel, do not fight against the Lord God of your fathers, for you will 
 
 ## 2 Chronicles 13:13
 
-But Jeroboam had set an ambush to come from the rear,  
-so that Israel was in front of Judah, and the ambush was behind them.
+However, Jeroboam had arranged an ambush to come from behind,  
+so that Israel was positioned in front of Judah, and the ambush was at their rear.
 
 ---
 
@@ -102,8 +102,7 @@ so they cried out to the Lord, and the priests blew the trumpets.
 ## 2 Chronicles 13:15
 
 Then the men of Judah raised a war cry,  
-and when the men of Judah raised the war cry,  
-God defeated Jeroboam and all Israel before Abijah and Judah.
+and as they did so, God defeated Jeroboam and all Israel before Abijah and Judah.
 
 ---
 
@@ -115,8 +114,8 @@ So the sons of Israel fled before Judah, and God handed them over to them.
 
 ## 2 Chronicles 13:17
 
-Abijah and his people defeated them with a great slaughter,  
-so that five hundred thousand chosen men of Israel fell slain.
+Abijah and his people struck them with a mighty blow,  
+so that five hundred thousand chosen men of Israel fell.
 
 ---
 
@@ -143,7 +142,7 @@ and the Lord struck him and he died.
 
 ## 2 Chronicles 13:21
 
-But Abijah became powerful;  
+But Abijah grew in strength;  
 and he took fourteen wives for himself and fathered twenty-two sons and sixteen daughters.
 
 ---

@@ -185,8 +185,8 @@ He said to them, “Then how is it that David, inspired by the Spirit, calls him
 ## Matthew 22:44
 
 > ‘The Lord said to my Lord:
-> “Sit at my right hand
-> until I put your enemies
+> “Sit by my right hand
+> until I place your enemies
 > under your feet.”’
 
 ## Matthew 22:45

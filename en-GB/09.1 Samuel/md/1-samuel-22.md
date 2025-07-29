@@ -2,8 +2,8 @@
 
 ## 1 Samuel 22:1
 
-So David departed from there and escaped to the cave of Adullam.  
-And when his brothers and all his father’s household heard about it, they went down there to him.
+David left that place and found refuge in the cave of Adullam.  
+When his brothers and all his father’s household learned of this, they went down to him there.
 
 ## 1 Samuel 22:2
 
@@ -43,25 +43,24 @@ Will he make you all commanders of thousands and commanders of hundreds?
 
 For all of you have conspired against me,  
 so that no one informs me when my son makes a covenant with the son of Jesse,  
-and none of you is concerned for me or informs me that my son has stirred up my servant against me,  
-to lie in ambush, as it is this day.”
+and none of you is concerned for me or informs me that my son has stirred up my servant against me, to lie in ambush, as it is this day.”
 
 ## 1 Samuel 22:9
 
 Then Doeg the Edomite, who was standing by the servants of Saul, said,  
-“I saw the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.
+“I witnessed the son of Jesse coming to Nob, to Ahimelech the son of Ahitub.
 
 ## 1 Samuel 22:10
 
-And he inquired of the Lord for him, gave him provisions,  
+He sought guidance from the Lord for him, provided him with supplies,  
 and gave him the sword of Goliath the Philistine.”
 
 ---
 
 ## 1 Samuel 22:11
 
-Then the king sent someone to summon Ahimelech the priest, the son of Ahitub, and all his father’s household,  
-the priests who were in Nob; and all of them came to the king.
+Then the king sent someone to call Ahimelech the priest, the son of Ahitub, and all his father’s household,  
+the priests who were in Nob; and they all came to the king.
 
 ## 1 Samuel 22:12
 
@@ -83,9 +82,9 @@ the king’s son-in-law, captain over your guard, and honoured in your house?
 
 ## 1 Samuel 22:15
 
-Did I just begin to inquire of God for him today? Far be it from me!  
-Do not let the king impute anything to his servant or to any of the household of my father,  
-for your servant knows nothing at all of this whole affair.”
+Was it only today that I began to inquire of God for him? Certainly not!  
+Do not let the king accuse your servant or any of my father’s household,  
+for your servant knows nothing at all of this entire matter.”
 
 ## 1 Samuel 22:16
 
@@ -122,9 +121,9 @@ Abiathar told David that Saul had slain the priests of the Lord.
 ## 1 Samuel 22:22
 
 Then David said to Abiathar,  
-“I knew on that day, when Doeg the Edomite was there,  
-that he would certainly tell Saul.  
-I myself have turned against every person in your father’s household.
+“I realised on that day, when Doeg the Edomite was present,  
+that he would certainly inform Saul.  
+I have brought harm upon every person in your father’s household.
 
 ## 1 Samuel 22:23
 

@@ -150,7 +150,7 @@ While he was teaching in the temple courts, Jesus asked, “Why is it the teache
 
 ## Mark 12:36
 
-David himself, speaking by the Holy Spirit, declared:
+David, speaking by the Holy Spirit, said:
 
 > ‘The Lord said to my Lord:
 > “Sit at my right hand

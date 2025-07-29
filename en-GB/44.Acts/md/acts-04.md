@@ -107,7 +107,7 @@ When they heard this, they raised their voices together to God and said, “Sove
 
 ## Acts 4:25
 
-You spoke by the Holy Spirit through the mouth of your servant, our father David:
+You spoke through the Holy Spirit by the mouth of your servant, our father David:
 
 > ‘Why do the nations rage
 > and the peoples plot in vain?

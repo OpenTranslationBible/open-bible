@@ -11,8 +11,8 @@
 
 ## Psalm 28:2
 
-> Hear the sound of my pleadings when I cry to You for help,  
-> When I raise my hands toward Your holy sanctuary.
+> Listen to my pleas when I cry out for Your help,  
+> When I lift my hands toward Your sacred sanctuary.
 
 ---
 
@@ -25,16 +25,16 @@
 
 ## Psalm 28:4
 
-> Give back to them according to their work  
-> And according to the evil of their practices;  
-> Give back to them according to the work of their hands;  
-> Repay them what is due them.
+> Repay them according to their deeds  
+> And according to the wickedness of their actions;  
+> Repay them for the work of their hands;  
+> Give them what they deserve.
 
 ---
 
 ## Psalm 28:5
 
-> Because they do not regard the works of the Lord  
+> Because they do not consider the works of the Lord  
 > Nor the deeds of His hands,  
 > He will tear them down and not build them up.
 
@@ -43,21 +43,21 @@
 ## Psalm 28:6
 
 > Blessed be the Lord,  
-> Because He has heard the sound of my pleading.
+> For He has listened to the voice of my pleas.
 
 ## Psalm 28:7
 
 > The Lord is my strength and my shield;  
 > My heart trusts in Him, and I am helped;  
-> Therefore my heart triumphs,  
+> Therefore my heart rejoices,  
 > And with my song I shall thank Him.
 
 ## Psalm 28:8
 
-> The Lord is their strength,  
-> And He is a refuge of salvation to His anointed.
+> The Lord is the strength of His people,  
+> And He is a stronghold of salvation for His anointed.
 
 ## Psalm 28:9
 
-> Save Your people and bless Your inheritance;  
-> Be their shepherd also, and carry them forever.
+> Deliver Your people and grant favour to Your heritage;  
+> Guide them and support them always.

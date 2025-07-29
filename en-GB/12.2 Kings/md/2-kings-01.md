@@ -52,8 +52,8 @@ He went up to Elijah, who was sitting on top of a hill, and said to him,
 
 ## 2 Kings 1:10
 
-Elijah answered the captain,  
-“If I am a man of God, may fire come down from heaven and consume you and your fifty men.”  
+Elijah responded to the captain,  
+“If I am a man of God, let fire come down from heaven and consume you and your fifty men.”  
 Then fire fell from heaven and consumed the captain and his men.
 
 ## 2 Kings 1:11
@@ -64,7 +64,7 @@ He said to Elijah, “Man of God, this is what the king says: ‘Come down at on
 ## 2 Kings 1:12
 
 Elijah replied,  
-“If I am a man of God, may fire come down from heaven and consume you and your fifty men.”  
+“If I am a man of God, let fire come down from heaven and consume you and your fifty men.”  
 Then the fire of God fell from heaven and consumed them.
 
 ---

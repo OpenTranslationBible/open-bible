@@ -9,28 +9,28 @@
 
 ## Psalm 24:2
 
-> For He has founded it upon the seas  
-> And established it upon the rivers.
+> For He has set it upon the seas  
+> And made it firm upon the waters.
 
 ---
 
 ## Psalm 24:3
 
-> Who may ascend onto the hill of the Lord?  
-> And who may stand in His holy place?
+> Who is permitted to ascend the hill of the Lord?  
+> And who is able to stand in His holy place?
 
 ## Psalm 24:4
 
-> One who has clean hands and a pure heart,  
-> Who has not lifted up his soul to deceit  
-> And has not sworn deceitfully.
+> The one with clean hands and a pure heart,  
+> Who has not turned his soul to falsehood  
+> And has not sworn falsely.
 
 ---
 
 ## Psalm 24:5
 
-> He will receive a blessing from the Lord  
-> And righteousness from the God of his salvation.
+> Such a person will receive a blessing from the Lord  
+> And righteousness from the God who saves him.
 
 ## Psalm 24:6
 
@@ -43,25 +43,25 @@
 
 ## Psalm 24:7
 
-> Lift up your heads, you gates,  
-> And be lifted up, you ancient doors,  
-> That the King of glory may come in!
+> Raise your heads, you gates,  
+> And rise up, you ancient doors,  
+> That the King of glory may enter!
 
 ## Psalm 24:8
 
 > Who is the King of glory?  
-> The Lord strong and mighty,  
-> The Lord mighty in battle.
+> The Lord, strong and mighty,  
+> The Lord, powerful in battle.
 
 ## Psalm 24:9
 
-> Lift up your heads, you gates,  
+> Raise your heads, you gates,  
 > And lift them up, you ancient doors,  
-> That the King of glory may come in!
+> That the King of glory may enter!
 
 ## Psalm 24:10
 
-> Who is this King of glory?  
-> The Lord of armies, He is the King of glory.
+> Who is this majestic King?  
+> The Lord of hosts, He is truly the King of glory.
 
 > Selah

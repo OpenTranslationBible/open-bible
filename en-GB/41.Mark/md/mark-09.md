@@ -207,7 +207,7 @@ And if your eye leads you to stumble, pluck it out. It is better for you to ente
 where
 
 > their worm does not die,
-> and the fire is not quenched.
+> and the fire is never put out.
 
 ## Mark 9:49
 

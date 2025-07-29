@@ -2,14 +2,13 @@
 
 ## 1 Kings 9:1
 
-Now it came about when Solomon had finished building the house of the Lord,  
+When Solomon had completed the construction of the house of the Lord,  
 and the king’s house,  
-and all that Solomon desired to do,
+and all that Solomon wished to accomplish,
 
 ## 1 Kings 9:2
 
-that the Lord appeared to Solomon a second time,  
-just as He had appeared to him at Gibeon.
+the Lord appeared to Solomon again, in the same manner as He had at Gibeon.
 
 ## 1 Kings 9:3
 
@@ -28,9 +27,9 @@ and will keep My statutes and My ordinances,
 
 ## 1 Kings 9:5
 
-then I will establish the throne of your kingdom over Israel forever,  
+then I will establish the throne of your kingdom over Israel permanently,  
 just as I promised to your father David, saying,  
-‘You shall not lack a man on the throne of Israel.’
+‘You shall always have a successor on the throne of Israel.’
 
 ## 1 Kings 9:6
 
@@ -63,15 +62,15 @@ therefore the Lord has brought all this adversity upon them.’”
 
 ## 1 Kings 9:10
 
-Now it came about at the end of twenty years,  
-in which Solomon had built the two houses,  
+At the end of twenty years,  
+during which Solomon had constructed the two houses,  
 the house of the Lord and the king’s house,
 
 ## 1 Kings 9:11
 
-Hiram king of Tyre had supplied Solomon with cedar and cypress timber and gold  
-according to all his desire,  
-then King Solomon gave Hiram twenty cities in the land of Galilee.
+since Hiram king of Tyre had supplied Solomon with cedar and cypress timber and gold  
+according to all his wishes,  
+King Solomon gave Hiram twenty cities in the land of Galilee.
 
 ## 1 Kings 9:12
 
@@ -105,7 +104,7 @@ and had given it as a dowry to his daughter, Solomon’s wife.
 
 ## 1 Kings 9:17
 
-So Solomon rebuilt Gezer,  
+Thus Solomon rebuilt Gezer,  
 and Lower Beth-horon,
 
 ## 1 Kings 9:18
@@ -123,7 +122,7 @@ and in all the land under his dominion.
 
 ## 1 Kings 9:20
 
-As for all the people who were left of the Amorites, the Hittites, the Perizzites,  
+Regarding the people who remained of the Amorites, the Hittites, the Perizzites,  
 the Hivites, and the Jebusites, who were not of the sons of Israel,
 
 ## 1 Kings 9:21
@@ -140,16 +139,16 @@ chariot commanders, and his horsemen.
 
 ## 1 Kings 9:23
 
-These were the chief officers who were over Solomon’s work, five hundred and fifty,  
-who ruled over the people doing the work.
+These were the chief officers who were over Solomon’s work, five hundred and fifty in number,  
+who supervised the people doing the work.
 
 ---
 
 ## 1 Kings 9:24
 
-As soon as Pharaoh’s daughter came up from the city of David to her house  
+When Pharaoh’s daughter came up from the city of David to her house  
 which Solomon had built for her,  
-then he built the Millo.
+he then constructed the Millo.
 
 ## 1 Kings 9:25
 
@@ -173,5 +172,5 @@ along with Solomon’s servants.
 
 ## 1 Kings 9:28
 
-They went to Ophir and took four hundred and twenty talents of gold from there,  
+They journeyed to Ophir and acquired four hundred and twenty talents of gold from there,  
 and brought it to King Solomon.

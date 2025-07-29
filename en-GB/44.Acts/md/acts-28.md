@@ -120,9 +120,9 @@ saying,
 
 ## Acts 28:27
 
-> For this people’s heart has become calloused;
-> they hardly hear with their ears,
-> and they have closed their eyes.
+> For the hearts of this people have grown dull;
+> they scarcely hear with their ears,
+> and they have shut their eyes.
 > Otherwise, they might see with their eyes,
 > hear with their ears, understand with their hearts and turn,
 > and I would heal them.’

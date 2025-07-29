@@ -2,15 +2,15 @@
 
 ## 1 Chronicles 10:1
 
-Now the Philistines fought against Israel,  
-and the men of Israel fled from before the Philistines and fell slain on Mount Gilboa.
+The Philistines went into battle with Israel,  
+and the men of Israel fled from the Philistines and were slain on Mount Gilboa.
 
 ---
 
 ## 1 Chronicles 10:2
 
-The Philistines closely pursued Saul and his sons,  
-and the Philistines struck down Jonathan, Abinadab, and Malchi-shua, the sons of Saul.
+The Philistines pursued Saul and his sons with determination,  
+and they struck down Jonathan, Abinadab, and Malchi-shua, the sons of Saul.
 
 ---
 
@@ -44,8 +44,8 @@ When his armour bearer saw that Saul was dead,
 
 ## 1 Chronicles 10:6
 
-So Saul died with his three sons,  
-and all those of his house died together.
+Thus, Saul perished with his three sons,  
+and all those of his house perished together.
 
 ---
 

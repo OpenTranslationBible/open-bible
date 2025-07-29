@@ -2,11 +2,11 @@
 
 ## 2 Samuel 2:1
 
-Then it came about afterward that David inquired of the Lord, saying,  
-“Shall I go up to one of the cities of Judah?”  
-And the Lord said to him, “Go up.”  
-So David said, “Where shall I go up?”  
-And He said, “To Hebron.”
+Afterward, David sought guidance from the Lord, asking,  
+“Should I go up to one of the cities of Judah?”  
+And the Lord replied, “Go up.”  
+David then asked, “To which city shall I go?”  
+And He answered, “To Hebron.”
 
 ## 2 Samuel 2:2
 
@@ -14,19 +14,19 @@ So David went up there, accompanied by his two wives: Ahinoam of Jezreel and Abi
 
 ## 2 Samuel 2:3
 
-And David brought up his men who were with him, each with his household,  
-and they settled in the cities of Hebron.
+David also led his men who were with him, each with his household,  
+and they settled in the towns of Hebron.
 
 ## 2 Samuel 2:4
 
-Then the men of Judah came, and there they anointed David king over the house of Judah.  
-And they told David, saying,  
+Then the men of Judah came and anointed David as king over the house of Judah there.  
+And they informed David, saying,  
 “It was the men of Jabesh-gilead who buried Saul.”
 
 ## 2 Samuel 2:5
 
 So David sent messengers to the men of Jabesh-gilead and said to them,  
-“May you be blessed of the Lord because you have shown this kindness to Saul your lord, and have buried him.
+“May you be blessed by the Lord for showing this kindness to Saul your lord and for burying him.
 
 ## 2 Samuel 2:6
 
@@ -43,8 +43,8 @@ and the house of Judah has anointed me king over them.”
 
 ## 2 Samuel 2:8
 
-But Abner the son of Ner, commander of Saul’s army,  
-had taken Ish-bosheth the son of Saul and brought him over to Mahanaim.
+However, Abner the son of Ner, commander of Saul’s army,  
+had taken Ish-bosheth, the son of Saul, and brought him to Mahanaim.
 
 ## 2 Samuel 2:9
 
@@ -55,7 +55,7 @@ even over all Israel.
 
 Ish-bosheth, Saul’s son, was forty years old when he became king over Israel,  
 and he reigned for two years.  
-But the house of Judah followed David.
+Yet the house of Judah followed David.
 
 ## 2 Samuel 2:11
 
@@ -65,12 +65,12 @@ David reigned in Hebron over the house of Judah for seven years and six months.
 
 ## 2 Samuel 2:12
 
-Now Abner the son of Ner went out from Mahanaim to Gibeon  
-with the servants of Ish-bosheth the son of Saul.
+Abner, the son of Ner, went out from Mahanaim to Gibeon  
+with the servants of Ish-bosheth, the son of Saul.
 
 ## 2 Samuel 2:13
 
-And Joab the son of Zeruiah and the servants of David also went out and met them  
+And Joab, the son of Zeruiah, and the servants of David also went out and met them  
 by the pool of Gibeon;  
 and they sat down, one group on one side of the pool and the other group on the other side.
 
@@ -82,7 +82,7 @@ And Joab said, “Let them arise.”
 
 ## 2 Samuel 2:15
 
-So they got up and came forward by count: twelve for Benjamin and Ish-bosheth the son of Saul,  
+So they got up and came forward by count: twelve for Benjamin and Ish-bosheth, the son of Saul,  
 and twelve from the servants of David.
 
 ## 2 Samuel 2:16
@@ -168,7 +168,7 @@ nor did they continue to fight.
 
 ## 2 Samuel 2:29
 
-Then Abner and his men went through the Arabah all that night,  
+Then Abner and his men travelled through the Arabah all that night,  
 crossed the Jordan, walked all morning, and came to Mahanaim.
 
 ## 2 Samuel 2:30
@@ -178,8 +178,8 @@ and when he had gathered all the people, nineteen of David’s servants were mis
 
 ## 2 Samuel 2:31
 
-But the servants of David had struck down many of Benjamin and Abner’s men,  
-so that three hundred and sixty men died.
+But David's servants had struck down many of Benjamin and Abner’s men,  
+resulting in the death of three hundred and sixty men.
 
 ## 2 Samuel 2:32
 

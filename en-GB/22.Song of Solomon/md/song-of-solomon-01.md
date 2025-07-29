@@ -9,13 +9,13 @@ The greatest of songs, attributed to Solomon.
 ## Song of Solomon 1:2
 
 May he kiss me with the kisses of his mouth!  
-For your love is better than wine.
+For your love is more delightful than wine.
 
 ## Song of Solomon 1:3
 
 Your oils have a pleasing fragrance,  
-Your name is like purified oil;  
-Therefore the young women love you.
+Your name is like refined oil;  
+Therefore the young women cherish you.
 
 ## Song of Solomon 1:4
 
@@ -37,19 +37,19 @@ Like the curtains of Solomon.
 
 ## Song of Solomon 1:6
 
-Do not stare at me because I am dark,  
+Do not gaze at me because I am darkened,  
 For the sun has tanned me.  
 My mother’s sons were angry with me;  
-They made me caretaker of the vineyards,  
-But I have not taken care of my own vineyard.
+They made me keeper of the vineyards,  
+But I have not tended my own vineyard.
 
 ---
 
 ## Song of Solomon 1:7
 
 Tell me, you whom my soul loves,  
-Where do you pasture your flock,  
-Where do you have it lie down at noon?  
+Where do you graze your flock,  
+Where do you have it rest at noon?  
 For why should I be like one who veils herself  
 Beside the flocks of your companions?
 
@@ -57,16 +57,16 @@ Beside the flocks of your companions?
 
 ## Song of Solomon 1:8
 
-If you yourself do not know,  
+If you are unsure,  
 Most beautiful among women,  
-Go out on the trail of the flock  
-And pasture your young goats  
-By the tents of the shepherds.
+Follow the tracks of the flock  
+And graze your young goats  
+Near the tents of the shepherds.
 
 ## Song of Solomon 1:9
 
 To me, my darling, you are like  
-My mare among the chariots of Pharaoh.
+My mare among Pharaoh's chariots.
 
 ## Song of Solomon 1:10
 
@@ -83,17 +83,17 @@ With beads of silver.
 ## Song of Solomon 1:12
 
 While the king was at his table,  
-My perfume gave forth its fragrance.
+My perfume spread its fragrance.
 
 ## Song of Solomon 1:13
 
 My beloved is to me a pouch of myrrh  
-Which lies all night between my breasts.
+Resting all night between my breasts.
 
 ## Song of Solomon 1:14
 
-My beloved is to me a cluster of henna blossoms  
-In the vineyards of Engedi.
+My beloved is to me like a cluster of henna blossoms  
+In the gardens of Engedi.
 
 ---
 
@@ -101,7 +101,7 @@ In the vineyards of Engedi.
 
 How beautiful you are, my darling,  
 How beautiful you are!  
-Your eyes are like doves.
+Your eyes resemble doves.
 
 ## Song of Solomon 1:16
 
@@ -111,5 +111,5 @@ Indeed, our couch is luxuriant!
 
 ## Song of Solomon 1:17
 
-The beams of our houses are cedars,  
-Our rafters, cypresses.
+The beams of our dwelling are cedars,  
+Our rafters are made of cypresses.

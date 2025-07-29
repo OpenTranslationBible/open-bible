@@ -11,152 +11,152 @@
 
 ## Psalm 73:2
 
-> But as for me, my feet came close to stumbling,  
-> My steps had almost slipped.
+> Yet my feet nearly stumbled,  
+> My steps almost slipped.
 
 ## Psalm 73:3
 
 > For I was envious of the arrogant  
-> As I saw the prosperity of the wicked.
+> When I observed the success of the wicked.
 
 ---
 
 ## Psalm 73:4
 
-> For there are no pains in their death,  
-> And their belly is fat.
+> For they seem to have no struggles in their death,  
+> And their bodies are well-nourished.
 
 ## Psalm 73:5
 
-> They are not in trouble like other people,  
-> Nor are they tormented together with the rest of mankind.
+> They do not face the troubles of others,  
+> Nor are they plagued like the rest of humanity.
 
 ## Psalm 73:6
 
-> Therefore arrogance is their necklace;  
-> The garment of violence covers them.
+> Therefore arrogance adorns them like a necklace;  
+> Violence clothes them like a garment.
 
 ## Psalm 73:7
 
-> Their eye bulges from fatness;  
+> Their eyes bulge with abundance;  
 > The imaginations of their heart overflow.
 
 ## Psalm 73:8
 
-> They mock and wickedly speak of oppression;  
-> They speak from on high.
+> They scoff and speak with malice;  
+> They speak with haughty intent.
 
 ## Psalm 73:9
 
-> They have set their mouth against the heavens,  
-> And their tongue parades through the earth.
+> They set their mouths against the heavens,  
+> And their tongues strut through the earth.
 
 ## Psalm 73:10
 
-> Therefore his people return here,  
-> And abundant waters are drunk by them.
+> Therefore their people turn to them,  
+> And they drink up waters in abundance.
 
 ## Psalm 73:11
 
-> They say, “How does God know?  
-> And is there knowledge with the Most High?”
+> They say, “How can God know?  
+> Is there knowledge with the Most High?”
 
 ---
 
 ## Psalm 73:12
 
 > Behold, these are the wicked;  
-> And always at ease, they have increased in wealth.
+> Always at ease, they increase in wealth.
 
 ---
 
 ## Psalm 73:13
 
-> Surely in vain I have kept my heart pure  
+> Surely I have kept my heart pure in vain  
 > And washed my hands in innocence;
 
 ## Psalm 73:14
 
-> For I have been stricken all day long,  
-> And punished every morning.
+> For I have been afflicted all day long,  
+> And chastened every morning.
 
 ---
 
 ## Psalm 73:15
 
-> If I had said, “I will speak this way,”  
-> Behold, I would have betrayed the generation of Your children.
+> If I had resolved to speak like this,  
+> Behold, I would have been unfaithful to Your children.
 
 ## Psalm 73:16
 
-> When I thought of understanding this,  
-> It was troublesome in my sight
+> When I tried to understand this,  
+> It was a burden to me
 
 ## Psalm 73:17
 
 > Until I entered the sanctuary of God;  
-> Then I perceived their end.
+> Then I understood their final destiny.
 
 ---
 
 ## Psalm 73:18
 
-> You indeed put them on slippery ground;  
-> You dropped them into ruin.
+> Surely You place them on slippery paths;  
+> You cast them down to ruin.
 
 ## Psalm 73:19
 
-> How they are destroyed in a moment!  
-> They are utterly swept away by sudden terrors!
+> How suddenly they are destroyed,  
+> Completely swept away by terrors!
 
 ## Psalm 73:20
 
-> Like a dream when one awakes, Lord,  
-> When stirred, You will despise their image.
+> Like a dream when one awakens, Lord,  
+> When You arise, You will despise their form.
 
 ---
 
 ## Psalm 73:21
 
-> When my heart was embittered  
-> And I was pierced within,
+> When my heart was grieved  
+> And my spirit was embittered,
 
 ## Psalm 73:22
 
-> Then I was stupid and ignorant;  
-> I was like an animal before You.
+> I was senseless and ignorant;  
+> I was like a brute beast before You.
 
 ---
 
 ## Psalm 73:23
 
-> Nevertheless I am continually with You;  
-> You have taken hold of my right hand.
+> Nevertheless, I am continually with You;  
+> You uphold me by my right hand.
 
 ## Psalm 73:24
 
-> You will guide me with Your plan,  
-> And afterward receive me to glory.
+> You lead me with Your wisdom,  
+> And afterward You will receive me into honour.
 
 ## Psalm 73:25
 
-> Whom do I have in heaven but You?  
-> And with You, I desire nothing on earth.
+> Whom have I in heaven but You?  
+> And on earth, I desire nothing besides You.
 
 ## Psalm 73:26
 
-> My flesh and my heart may fail,  
-> But God is the strength of my heart and my portion forever.
+> My flesh and my heart may falter,  
+> But God remains the strength of my heart and my portion forever.
 
 ---
 
 ## Psalm 73:27
 
-> For, behold, those who are far from You will perish;  
-> You have destroyed all those who are unfaithful to You.
+> For indeed, those who are far from You will perish;  
+> You destroy all who are unfaithful to You.
 
 ## Psalm 73:28
 
-> But as for me, the nearness of God is good for me;  
-> I have made the Lord God my refuge,  
-> So that I may tell of all Your works.
+> But as for me, it is good to be near God;  
+> I have made the Sovereign Lord my refuge,  
+> That I may tell of all Your deeds.

@@ -5,50 +5,50 @@
 ## Psalm 8:1
 
 > Lord, our Lord,  
-> How majestic is Your name in all the earth,  
+> How majestic is Your name across the earth,  
 > You who have displayed Your splendour above the heavens!
 
 ## Psalm 8:2
 
-> From the mouths of infants and nursing babies You have established strength  
-> Because of Your enemies,  
-> To do away with the enemy and the revengeful.
+> From the mouths of infants and nursing babies, You have ordained strength  
+> Because of Your adversaries,  
+> To silence the foe and the avenger.
 
 ## Psalm 8:3
 
-> When I consider Your heavens, the work of Your fingers,  
-> The moon and the stars, which You have set in place,
+> When I reflect on Your heavens, the work of Your hands,  
+> The moon and the stars, which You have positioned,
 
 ## Psalm 8:4
 
-> What is man that You think of him,  
-> And a son of man that You are concerned about him?
+> What is humanity that You are mindful of them,  
+> And a child of humankind that You care for them?
 
 ---
 
 ## Psalm 8:5
 
-> Yet You have made him a little lower than God,  
-> And You crown him with glory and majesty!
+> Yet You have made them a little lower than the divine,  
+> And You crown them with glory and honour!
 
 ## Psalm 8:6
 
-> You have him rule over the works of Your hands;  
-> You have put everything under his feet,
+> You have given them dominion over the works of Your hands;  
+> You have placed everything under their feet,
 
 ## Psalm 8:7
 
 > All sheep and oxen,  
-> And also the animals of the field,
+> And also the creatures of the field,
 
 ## Psalm 8:8
 
-> The birds of the sky, and the fish of the sea,  
-> Whatever passes through the paths of the seas.
+> The birds of the air, and the fish of the sea,  
+> Whatever travels the paths of the seas.
 
 ---
 
 ## Psalm 8:9
 
 > Lord, our Lord,  
-> How majestic is Your name in all the earth!
+> How majestic is Your name across the earth!

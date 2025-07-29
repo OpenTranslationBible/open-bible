@@ -16,8 +16,8 @@
 
 ## Hosea 12:3
 
-> In the womb he took his brother by the heel,  
-> And in his maturity he contended with God.
+> Even from the womb, he grasped his brother's heel,  
+> And as an adult, he struggled with God.
 
 ## Hosea 12:4
 
@@ -39,8 +39,8 @@
 
 ## Hosea 12:7
 
-> A merchant, in whose hands are fraudulent balances,  
-> Loves to exploit.
+> A trader, who uses dishonest scales,  
+> Delights in cheating.
 
 ## Hosea 12:8
 
@@ -57,14 +57,14 @@
 
 ## Hosea 12:10
 
-> I have also spoken to the prophets,  
-> And I provided many visions,  
-> And through the prophets I spoke in parables.
+> I have also communicated with the prophets,  
+> And granted many visions,  
+> And through the prophets I conveyed messages.
 
 ## Hosea 12:11
 
-> Is there injustice in Gilead?  
-> Certainly they are worthless.  
+> Is there wrongdoing in Gilead?  
+> Surely they are of no value.  
 > In Gilgal they sacrifice bulls,  
 > Yes, their altars are like stone heaps  
 > Beside the furrows of a field.
@@ -77,8 +77,8 @@
 
 ## Hosea 12:13
 
-> But by a prophet the Lord brought Israel up from Egypt,  
-> And by a prophet he was protected.
+> Yet it was through a prophet that the Lord led Israel up from Egypt,  
+> And by a prophet he was safeguarded.
 
 ## Hosea 12:14
 

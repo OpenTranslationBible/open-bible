@@ -14,7 +14,7 @@ Enoch, Methuselah, and Lamech,
 
 ## 1 Chronicles 1:4
 
-Noah, and his sons:
+Noah, along with his sons:
 
 > Shem, Ham, and Japheth.
 
@@ -22,19 +22,19 @@ Noah, and his sons:
 
 ## 1 Chronicles 1:5
 
-The sons of Japheth were:
+Japheth's sons included:
 
 > Gomer, Magog, Madai, Javan, Tubal, Meshech, and Tiras.
 
 ## 1 Chronicles 1:6
 
-The sons of Gomer were:
+Gomer's sons were:
 
 > Ashkenaz, Diphath, and Togarmah.
 
 ## 1 Chronicles 1:7
 
-The sons of Javan were:
+Javan's lineage included:
 
 > Elishah, Tarshish, Kittim, and Rodanim.
 
@@ -42,26 +42,26 @@ The sons of Javan were:
 
 ## 1 Chronicles 1:8
 
-The sons of Ham were:
+Ham's sons included:
 
 > Cush, Mizraim, Put, and Canaan.
 
 ## 1 Chronicles 1:9
 
-The sons of Cush were:
+Cush's sons were:
 
 > Seba, Havilah, Sabta, Raama, and Sabteca.  
-> And the sons of Raama were:  
+> And Raama's sons were:  
 > Sheba and Dedan.
 
 ## 1 Chronicles 1:10
 
-> Cush fathered Nimrod;  
-> he began to be a mighty one on the earth.
+> Cush was the father of Nimrod;  
+> he became a mighty figure on the earth.
 
 ## 1 Chronicles 1:11
 
-Mizraim fathered the people of
+Mizraim was father to the line of
 
 > Lud, Anam, Lehab, Naphtuh,
 
@@ -71,7 +71,7 @@ Mizraim fathered the people of
 
 ## 1 Chronicles 1:13
 
-Canaan fathered
+Canaan was father to
 
 > Sidon, his firstborn, and Heth,
 
@@ -91,7 +91,7 @@ and the Arvadite, the Zemarite, and the Hamathite.
 
 ## 1 Chronicles 1:17
 
-The sons of Shem were:
+The sons of Shem included:
 
 > Elam, Asshur, Arpachshad, Lud, Aram,  
 > The sons of Aram were  
@@ -99,19 +99,19 @@ The sons of Shem were:
 
 ## 1 Chronicles 1:18
 
-Arpachshad fathered Shelah,  
-and Shelah fathered Eber.
+Arpachshad was father to Shelah,  
+and Shelah was father to Eber.
 
 ## 1 Chronicles 1:19
 
-Two sons were born to Eber:
+Eber had two sons:
 
-> the name of the one was Peleg, for in his days the earth was divided;  
-> and his brother’s name was Joktan.
+> one was named Peleg, for in his days the earth was divided;  
+> and his brother was named Joktan.
 
 ## 1 Chronicles 1:20
 
-Joktan fathered
+Joktan's descendants included:
 
 > Almodad, Sheleph, Hazarmaveth, Jerah,
 
@@ -126,7 +126,7 @@ Ebal, Abimael, and Sheba,
 ## 1 Chronicles 1:23
 
 Ophir, Havilah, and Jobab.  
-All these were the sons of Joktan.
+These were all the sons of Joktan.
 
 ---
 
@@ -144,20 +144,20 @@ All these were the sons of Joktan.
 
 ## 1 Chronicles 1:27
 
-> and Abram — that is, Abraham.
+> and Abram, who is also known as Abraham.
 
 ---
 
 ## 1 Chronicles 1:28
 
-> The sons of Abraham were:  
-> Isaac and Ishmael.
+> Abraham's sons were:  
+> named Isaac and Ishmael.
 
 ## 1 Chronicles 1:29
 
 These are their generations:
 
-> The firstborn of Ishmael was Nebaioth, then Kedar, Adbeel, and Mibsam,
+> Ishmael's firstborn was Nebaioth, followed by Kedar, Adbeel, and Mibsam,
 
 ## 1 Chronicles 1:30
 
@@ -166,24 +166,24 @@ Mishma, Dumah, Massa, Hadad, and Tema,
 ## 1 Chronicles 1:31
 
 Jetur, Naphish, and Kedemah.  
-These were the sons of Ishmael.
+These were Ishmael's descendants.
 
 ---
 
 ## 1 Chronicles 1:32
 
-The sons of Keturah, Abraham’s concubine, to whom she gave birth:
+The sons of Keturah, Abraham’s concubine, whom she bore:
 
 > Zimran, Jokshan, Medan, Midian, Ishbak, and Shuah.  
-> The sons of Jokshan were:  
+> Jokshan's sons were:  
 > Sheba and Dedan.
 
 ## 1 Chronicles 1:33
 
-The sons of Midian were:
+Midian's sons were:
 
 > Ephah, Epher, Hanoch, Abida, and Eldaah.  
-> All these were the sons of Keturah.
+> These were all Keturah's sons.
 
 ---
 
@@ -191,90 +191,90 @@ The sons of Midian were:
 
 Abraham fathered Isaac.
 
-> The sons of Isaac were:  
+> Isaac's sons were:  
 > Esau and Israel.
 
 ---
 
 ## 1 Chronicles 1:35
 
-The sons of Esau were:
+Esau's sons were:
 
-> Eliphaz, Reuel, Jeush, Jalam, and Korah.
+> Eliphaz, Reuel, and Jeush; Jalam, and Korah.
 
 ## 1 Chronicles 1:36
 
-The sons of Eliphaz were:
+Eliphaz's sons were:
 
 > Teman, Omar, Zephi, Gatam, Kenaz, Timna, and Amalek.
 
 ## 1 Chronicles 1:37
 
-The sons of Reuel were:
+Reuel's sons were:
 
-> Nahath, Zerah, Shammah, and Mizzah.
+> Nahath, and Zerah; Shammah, and Mizzah.
 
 ---
 
 ## 1 Chronicles 1:38
 
-The sons of Seir were:
+Seir's sons were:
 
-> Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, and Dishan.
+> Lotan, Shobal, and Zibeon; Anah, Dishon, Ezer, and Dishan.
 
 ## 1 Chronicles 1:39
 
-The sons of Lotan were:
+Lotan's sons were:
 
 > Hori and Homam; and Timna was Lotan’s sister.
 
 ## 1 Chronicles 1:40
 
-The sons of Shobal were:
+Shobal's sons were:
 
 > Alian, Manahath, Ebal, Shephi, and Onam.  
-> And the sons of Zibeon were:  
+> And Zibeon's sons were:  
 > Aiah and Anah.
 
 ## 1 Chronicles 1:41
 
-The son of Anah was:
+Anah's son was:
 
 > Dishon.  
-> And the sons of Dishon were:  
+> And Dishon's sons were:  
 > Hamran, Eshban, Ithran, and Cheran.
 
 ## 1 Chronicles 1:42
 
-The sons of Ezer were:
+Ezer's sons were:
 
 > Bilhan, Zaavan, and Jaakan.  
-> The sons of Dishan were:  
+> Dishan's sons were:  
 > Uz and Aran.
 
 ---
 
 ## 1 Chronicles 1:43
 
-These are the kings who reigned in the land of Edom before any king ruled over the sons of Israel:  
-Bela the son of Beor, and the name of his city was Dinhabah.
+These are the kings who ruled in the land of Edom before any king reigned over the Israelites:  
+Bela the son of Beor, and his city was named Dinhabah.
 
 ## 1 Chronicles 1:44
 
-Upon the death of Bela, Jobab the son of Zerah of Bozrah succeeded him as king.
+Upon Bela's death, Jobab the son of Zerah from Bozrah succeeded him as king.
 
 ## 1 Chronicles 1:45
 
-After Jobab's death, Husham of the land of the Temanites took the throne.
+After Jobab's death, Husham from the land of the Temanites assumed the throne.
 
 ## 1 Chronicles 1:46
 
-When Husham died, Hadad the son of Bedad, who defeated Midian in the field of Moab,  
-became king in his place; and the name of his city was Avith.
+When Husham passed away, Hadad the son of Bedad, who defeated Midian in the territory of Moab,  
+became king; his city was named Avith.
 
 ## 1 Chronicles 1:47
 
-Upon Hadad's death, Samlah of Masrekah took the throne.
+Upon Hadad's death, Samlah from Masrekah took the throne.
 
 ## 1 Chronicles 1:48
 
@@ -286,9 +286,9 @@ Following Shaul's death, Baal-hanan the son of Achbor took the throne.
 
 ## 1 Chronicles 1:50
 
-When Baal-hanan died, Hadad became king in his place;  
-and the name of his city was Pai,  
-and his wife’s name was Mehetabel, the daughter of Matred, the daughter of Mezahab.
+When Baal-hanan passed away, Hadad became king;  
+his city was named Pai,  
+and his wife was Mehetabel, the daughter of Matred, the daughter of Mezahab.
 
 ---
 
@@ -309,4 +309,4 @@ chief Kenaz, chief Teman, and chief Mibzar,
 ## 1 Chronicles 1:54
 
 chief Magdiel, and chief Iram.  
-These were the chiefs of Edom.
+These were the leaders of Edom.

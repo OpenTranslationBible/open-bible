@@ -12,8 +12,8 @@
 
 ## Psalm 75:2
 
-> “When I select an appointed time,  
-> It is I who judge fairly.
+> “When I choose the right moment,  
+> It is I who judge with fairness.
 
 ## Psalm 75:3
 
@@ -24,25 +24,25 @@
 
 ## Psalm 75:4
 
-> I said to the boastful, ‘Do not boast,’  
-> And to the wicked, ‘Do not lift up the horn;
+> I said to the boastful, ‘Refrain from boasting,’  
+> And to the wicked, ‘Do not raise your horn;
 
 ## Psalm 75:5
 
-> Do not lift up your horn on high,  
-> Do not speak with insolent pride.’”
+> Do not raise your horn on high,  
+> Do not speak with arrogant pride.’”
 
 ---
 
 ## Psalm 75:6
 
-> For not from the east, nor from the west,  
-> Nor from the desert comes exaltation;
+> For exaltation does not come from the east, nor from the west,  
+> Nor from the desert;
 
 ## Psalm 75:7
 
 > But God is the Judge;  
-> He puts down one and exalts another.
+> He brings down one and raises up another.
 
 ## Psalm 75:8
 
@@ -54,10 +54,10 @@
 
 ## Psalm 75:9
 
-> But as for me, I will declare it forever;  
+> Yet I will proclaim it forever;  
 > I will sing praises to the God of Jacob.
 
 ## Psalm 75:10
 
 > And He will cut off all the horns of the wicked,  
-> But the horns of the righteous will be lifted up.
+> But the horns of the righteous will be exalted.

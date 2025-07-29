@@ -16,27 +16,27 @@
 
 ## Psalm 120:3
 
-> What will He give to you, and what more will He do to you,  
+> What will be given to you, and what more will be done to you,  
 > You deceitful tongue?
 
 ## Psalm 120:4
 
-> Sharp arrows of the warrior,  
-> With the burning coals of the broom tree!
+> Keen arrows of the warrior,  
+> Along with the glowing coals of the broom tree!
 
 ---
 
 ## Psalm 120:5
 
-> Woe to me, for I reside in Meshech,  
-> For I have settled among the tents of Kedar!
+> Alas for me, for I dwell in Meshech,  
+> And I have made my home among the tents of Kedar!
 
 ## Psalm 120:6
 
-> Too long has my soul had its dwelling  
-> With those who hate peace.
+> My soul has dwelt too long  
+> Among those who are against peace.
 
 ## Psalm 120:7
 
-> I am for peace, but when I speak,  
-> They are for war.
+> I seek peace, but when I speak,  
+> They pursue conflict.

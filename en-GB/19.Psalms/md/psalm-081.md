@@ -14,84 +14,84 @@
 
 ## Psalm 81:3
 
-> Blow the trumpet at the new moon,  
-> At the full moon, on our feast day.
+> Sound the trumpet at the new moon,  
+> At the full moon, on our day of celebration.
 
 ## Psalm 81:4
 
-> For it is a statute for Israel,  
-> An ordinance of the God of Jacob.
+> For it is a decree for Israel,  
+> A command of the God of Jacob.
 
 ## Psalm 81:5
 
-> He established it as a testimony in Joseph,  
-> When he went throughout the land of Egypt;
+> He set it up as a witness in Joseph,  
+> When he journeyed through the land of Egypt;
 
 ---
 
-> I heard a language I did not know:
+> I heard a language unfamiliar to me:
 
 ---
 
 ## Psalm 81:6
 
-> “I relieved his shoulder of the burden,  
-> His hands were freed from the basket.
+> “I took the burden from his shoulder,  
+> His hands were released from the basket.
 
 ## Psalm 81:7
 
-> You called in trouble and I rescued you;  
-> I answered you in the hiding place of thunder;  
-> I put you to the test at the waters of Meribah.
+> You called in distress and I delivered you;  
+> I answered you from the secret place of thunder;  
+> I tested you at the waters of Meribah.
 
 > Selah
 
 ## Psalm 81:8
 
-> Hear, My people, and I will admonish you;  
-> Israel, if you would listen to Me!
+> Listen, My people, and I will warn you;  
+> Israel, if you would heed My voice!
 
 ## Psalm 81:9
 
-> There shall be no strange god among you;  
-> Nor shall you worship a foreign god.
+> Let there be no foreign god among you;  
+> Nor shall you bow down to an alien god.
 
 ## Psalm 81:10
 
-> I, the Lord, am your God,  
-> Who brought you up from the land of Egypt;  
-> Open your mouth wide and I will fill it.
+> I am the Lord your God,  
+> Who led you out of the land of Egypt;  
+> Open your mouth wide, and I will satisfy you.
 
 ---
 
 ## Psalm 81:11
 
-> But My people did not listen to My voice,  
-> And Israel did not obey Me.
+> Yet My people did not heed My voice,  
+> And Israel did not follow Me.
 
 ## Psalm 81:12
 
-> So I gave them over to the stubbornness of their heart,  
-> To walk by their own plans.
+> So I let them follow the stubbornness of their heart,  
+> To pursue their own devices.
 
 ---
 
 ## Psalm 81:13
 
-> Oh that My people would listen to Me,  
-> That Israel would walk in My ways!
+> Oh, that My people would heed Me,  
+> That Israel would follow My paths!
 
 ## Psalm 81:14
 
-> I would quickly subdue their enemies  
+> I would swiftly defeat their foes  
 > And turn My hand against their adversaries.
 
 ## Psalm 81:15
 
-> Those who hate the Lord would pretend to obey Him,  
-> And their time of punishment would be forever.
+> Those who despise the Lord would feign obedience,  
+> And their punishment would be everlasting.
 
 ## Psalm 81:16
 
-> But I would feed you with the finest of the wheat,  
+> But I would provide you with the finest wheat,  
 > And with honey from the rock I would satisfy you.”

@@ -2,10 +2,10 @@
 
 ## 2 Chronicles 5:1
 
-So all the work that Solomon performed for the house of the Lord was finished.  
-And Solomon brought in the things that his father David had dedicated—  
+Thus, all the work that Solomon completed for the house of the Lord was accomplished.  
+And Solomon brought in the items that his father David had set apart—  
 the silver, the gold, and all the utensils—  
-and he put them in the treasuries of the house of God.
+and he placed them in the treasuries of the house of God.
 
 ---
 
@@ -20,15 +20,15 @@ to bring up the ark of the covenant of the Lord from the city of David, which is
 
 ## 2 Chronicles 5:3
 
-All the men of Israel assembled themselves before the king at the feast,  
-that is, in the seventh month.
+All the men of Israel gathered before the king at the feast,  
+which took place in the seventh month.
 
 ---
 
 ## 2 Chronicles 5:4
 
-Then all the elders of Israel came,  
-and the Levites picked up the ark.
+Then all the elders of Israel arrived,  
+and the Levites lifted the ark.
 
 ---
 
@@ -42,8 +42,8 @@ the Levitical priests brought them up.
 
 ## 2 Chronicles 5:6
 
-And King Solomon and all the congregation of Israel who were assembled with him before the ark  
-were sacrificing so many sheep and oxen  
+And King Solomon and all the congregation of Israel who were gathered with him before the ark  
+were offering so many sheep and oxen  
 that they could not be counted or numbered.
 
 ---
@@ -58,8 +58,8 @@ under the wings of the cherubim.
 
 ## 2 Chronicles 5:8
 
-For the cherubim spread their wings over the place of the ark,  
-so that the cherubim made a covering over the ark and its poles.
+For the cherubim extended their wings over the place of the ark,  
+so that the cherubim created a covering over the ark and its poles.
 
 ---
 
@@ -75,8 +75,8 @@ and they are there to this day.
 ## 2 Chronicles 5:10
 
 There was nothing in the ark except the two tablets  
-which Moses put there at Horeb,  
-where the Lord made a covenant with the sons of Israel,  
+which Moses placed there at Horeb,  
+where the Lord established a covenant with the sons of Israel,  
 when they came out of Egypt.
 
 ---
@@ -115,5 +115,5 @@ then the house, the house of the Lord, was filled with a cloud,
 
 ## 2 Chronicles 5:14
 
-so that the priests could not stand to minister because of the cloud,  
+so that the priests could not stand to minister due to the cloud,  
 for the glory of the Lord filled the house of God.

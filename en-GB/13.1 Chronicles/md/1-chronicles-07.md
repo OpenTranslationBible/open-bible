@@ -30,9 +30,9 @@ And the sons of Izrahiah were:
 
 ## 1 Chronicles 7:4
 
-And with them by their generations, according to their fathers’ households, were thirty-six thousand troops of the army for war,
+Together with their descendants, according to their fathers' households, they had thirty-six thousand troops for battle,
 
-> for they had many wives and sons.
+> as they had many wives and sons.
 
 ---
 
@@ -65,10 +65,10 @@ The sons of Bela were:
 
 ## 1 Chronicles 7:8
 
-The sons of Becher were:
+Becher's sons included:
 
 > Zemirah, Joash, Eliezer, Elioenai, Omri, Jeremoth, Abijah, Anathoth, and Alemeth.  
-> All these were the sons of Becher.
+> These were all the sons of Becher.
 
 ---
 
@@ -83,8 +83,8 @@ heads of their fathers’ households, mighty men of valour—
 
 ## 1 Chronicles 7:10
 
-The son of Jediael was Bilhan.  
-And the sons of Bilhan were:
+Jediael's son was Bilhan.  
+And Bilhan's sons were:
 
 > Jeush, Benjamin, Ehud, Chenaanah, Zethan, Tarshish, and Ahishahar.
 
@@ -101,9 +101,9 @@ All these were sons of Jediael,
 
 ## 1 Chronicles 7:12
 
-Shuppim and Huppim were the sons of Ir;
+Shuppim and Huppim were sons of Ir;
 
-> Hushim was the son of Aher.
+> Hushim was a descendant of Aher.
 
 ---
 
@@ -128,18 +128,18 @@ The sons of Manasseh were:
 
 Machir took a wife for Huppim and Shuppim,
 
-> whose sister’s name was Maacah.  
-> And the name of the second was Zelophehad,  
+> and their sister was named Maacah.  
+> The second was named Zelophehad,  
 > and Zelophehad had daughters.
 
 ---
 
 ## 1 Chronicles 7:16
 
-Maacah the wife of Machir bore a son,
+Maacah, the wife of Machir, bore a son,
 
-> and she named him Peresh;  
-> and the name of his brother was Sheresh.  
+> whom she named Peresh;  
+> and his brother was Sheresh.  
 > His sons were:
 
 > Ulam and Rakem.
@@ -148,15 +148,15 @@ Maacah the wife of Machir bore a son,
 
 ## 1 Chronicles 7:17
 
-The son of Ulam was Bedan.
+Ulam's son was Bedan.
 
-> These were the sons of Gilead, the son of Machir, the son of Manasseh.
+> These were the descendants of Gilead, the son of Machir, the son of Manasseh.
 
 ---
 
 ## 1 Chronicles 7:18
 
-His sister Hammolecheth gave birth to:
+Hammolecheth, his sister, became the mother of:
 
 > Ishhod, Abiezer, and Mahlah.
 
@@ -164,7 +164,7 @@ His sister Hammolecheth gave birth to:
 
 ## 1 Chronicles 7:19
 
-The sons of Shemida were:
+The descendants of Shemida included:
 
 > Ahian, Shechem, Likhi, and Aniam.
 
@@ -188,17 +188,17 @@ The sons of Ephraim were:
 
 ## 1 Chronicles 7:22
 
-Their father Ephraim mourned many days,
+Their father Ephraim mourned for many days,
 
-> and his relatives came to comfort him.
+> and his relatives came to console him.
 
 ---
 
 ## 1 Chronicles 7:23
 
-Then he went in to his wife, and she conceived and gave birth to a son,
+Then he went to his wife, and she conceived and bore a son,
 
-> and he named him Beriah, because misfortune had come upon his house.
+> whom he named Beriah, because misfortune had come upon his house.
 
 ---
 
@@ -206,7 +206,7 @@ Then he went in to his wife, and she conceived and gave birth to a son,
 
 His daughter was Sheerah,
 
-> who built Lower and Upper Beth-horon, and Uzzen-sheerah.
+> who established Lower and Upper Beth-horon, and Uzzen-sheerah.
 
 ---
 
@@ -250,7 +250,7 @@ And along the borders of the sons of Manasseh:
 The sons of Asher were:
 
 > Imnah, Ishvah, Ishvi, and Beriah,  
-> and Serah their sister.
+> and their sister Serah.
 
 ---
 
@@ -258,30 +258,30 @@ The sons of Asher were:
 
 The sons of Beriah were:
 
-> Heber and Malchiel, who was the father of Birzaith.
+> Heber and Malchiel, who became the father of Birzaith.
 
 ---
 
 ## 1 Chronicles 7:32
 
-Heber fathered:
+Heber's children were:
 
-> Japhlet, Shomer, Hotham, and Shua their sister.
+> Japhlet, Shomer, Hotham, and their sister Shua.
 
 ---
 
 ## 1 Chronicles 7:33
 
-The sons of Japhlet were:
+Japhlet's sons were:
 
 > Pasach, Bimhal, and Ashvath.  
-> These were the sons of Japhlet.
+> These were Japhlet's descendants.
 
 ---
 
 ## 1 Chronicles 7:34
 
-The sons of Shemer were:
+Shemer's sons were:
 
 > Ahi, Rohgah, Jehubbah, and Aram.
 
@@ -289,7 +289,7 @@ The sons of Shemer were:
 
 ## 1 Chronicles 7:35
 
-The sons of his brother Helem were:
+The sons of his brother Helem included:
 
 > Zophah, Imna, Shelesh, and Amal.
 
@@ -297,7 +297,7 @@ The sons of his brother Helem were:
 
 ## 1 Chronicles 7:36
 
-The sons of Zophah were:
+Zophah's sons included:
 
 > Suah, Harnepher, Shual, Beri, Imrah,
 
@@ -309,7 +309,7 @@ The sons of Zophah were:
 
 ## 1 Chronicles 7:38
 
-The sons of Jether were:
+Jether's sons included:
 
 > Jephunneh, Pispa, and Ara.
 
@@ -317,7 +317,7 @@ The sons of Jether were:
 
 ## 1 Chronicles 7:39
 
-The sons of Ulla were:
+Ulla's sons included:
 
 > Arah, Hanniel, and Rizia.
 

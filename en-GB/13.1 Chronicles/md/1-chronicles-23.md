@@ -2,16 +2,14 @@
 
 ## 1 Chronicles 23:1
 
-Now when David reached old age,  
-he made his son Solomon king over Israel.
+In his later years, David appointed his son Solomon as king over Israel.
 
 ---
 
 ## 1 Chronicles 23:2
 
-And he gathered together all the leaders of Israel
-
-> with the priests and the Levites.
+And he assembled all the leaders of Israel,  
+including the priests and the Levites.
 
 ---
 
@@ -25,23 +23,23 @@ The Levites were numbered from thirty years old and upward,
 
 ## 1 Chronicles 23:4
 
-Of these, twenty-four thousand were to oversee the work of the house of the Lord;
+Among them, twenty-four thousand were to oversee the work of the house of the Lord;
 
-> and six thousand were officers and judges,
+> and six thousand served as officers and judges,
 
 ---
 
 ## 1 Chronicles 23:5
 
 > and four thousand were gatekeepers,  
-> and four thousand were praising the Lord with the instruments  
-> which David made for giving praise.
+> and four thousand were dedicated to praising the Lord with the instruments  
+> which David crafted for worship.
 
 ---
 
 ## 1 Chronicles 23:6
 
-David divided them into divisions according to the sons of Levi:
+David organised them into divisions according to the sons of Levi:
 
 > Gershon, Kohath, and Merari.
 
@@ -49,7 +47,7 @@ David divided them into divisions according to the sons of Levi:
 
 ## 1 Chronicles 23:7
 
-Of the Gershonites:
+From the descendants of Gershon:
 
 > Ladan and Shimei.
 
@@ -74,7 +72,7 @@ The sons of Shimei were:
 
 ## 1 Chronicles 23:10
 
-The sons of Shimei were:
+Shimei's sons included:
 
 > Jahath, Zina, Jeush, and Beriah.  
 > These four were the sons of Shimei.
@@ -112,14 +110,14 @@ The sons of Amram were:
 
 ## 1 Chronicles 23:14
 
-But as for Moses the man of God,  
-his sons were named among the tribe of Levi.
+As for Moses, the man of God,  
+his sons were recognised among the tribe of Levi.
 
 ---
 
 ## 1 Chronicles 23:15
 
-The sons of Moses were:
+The descendants of Moses were:
 
 > Gershom and Eliezer.
 
@@ -136,7 +134,7 @@ Gershom's son was Shebuel, who served as chief.
 The son of Eliezer was Rehabiah the chief;  
 and Eliezer had no other sons,
 
-> but the sons of Rehabiah were very many.
+> yet the sons of Rehabiah were numerous.
 
 ---
 
@@ -148,7 +146,7 @@ Izhar's son was Shelomith, who was the leader and chief.
 
 ## 1 Chronicles 23:19
 
-The sons of Hebron were:
+Hebron's sons were:
 
 > Jeriah the first, Amariah the second, Jahaziel the third, and Jekameam the fourth.
 
@@ -156,7 +154,7 @@ The sons of Hebron were:
 
 ## 1 Chronicles 23:20
 
-The sons of Uzziel were:
+Uzziel's sons were:
 
 > Micah the first and Isshiah the second.
 
@@ -164,7 +162,7 @@ The sons of Uzziel were:
 
 ## 1 Chronicles 23:21
 
-The sons of Merari were:
+The descendants of Merari were:
 
 > Mahli and Mushi.  
 > The sons of Mahli were:
@@ -202,23 +200,23 @@ according to the number of names by their individual headcount,
 
 ## 1 Chronicles 23:25
 
-For David said,
+For David declared,
 
-> “The Lord God of Israel has given rest to His people,  
-> and He dwells in Jerusalem forever.
+> “The Lord God of Israel has granted peace to His people,  
+> and He resides in Jerusalem forever.
 
 ---
 
 ## 1 Chronicles 23:26
 
-> Also, the Levites will no longer need to carry the tabernacle  
+> Furthermore, the Levites will no longer need to carry the tabernacle  
 > and all its utensils for its service.”
 
 ---
 
 ## 1 Chronicles 23:27
 
-For by the last words of David,
+According to the final instructions of David,
 
 > the sons of Levi were counted from twenty years old and upward.
 
@@ -226,7 +224,7 @@ For by the last words of David,
 
 ## 1 Chronicles 23:28
 
-For their office is to assist the sons of Aaron with the service of the house of the Lord,
+Their duty is to assist the sons of Aaron with the service of the house of the Lord,
 
 > in the courtyards and in the rooms,  
 > and in the purification of all holy things,  
@@ -253,9 +251,9 @@ They are to stand every morning to give thanks and to praise the Lord,
 
 ## 1 Chronicles 23:31
 
-> and to offer all burnt offerings to the Lord,  
+> and to present all burnt offerings to the Lord,  
 > on the Sabbaths, the new moons, and the appointed festivals,  
-> in the number determined by the ordinance concerning them,  
+> in the number specified by the ordinance concerning them,  
 > continually before the Lord.
 
 ---

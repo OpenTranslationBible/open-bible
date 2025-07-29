@@ -12,8 +12,8 @@
 
 ## Psalm 63:2
 
-> So have I seen You in the sanctuary,  
-> To see Your power and glory.
+> Thus have I beheld You in the sanctuary,  
+> To witness Your power and glory.
 
 ## Psalm 63:3
 
@@ -22,45 +22,45 @@
 
 ## Psalm 63:4
 
-> So I will bless You as long as I live;  
-> I will lift up my hands in Your name.
+> Therefore, I will bless You throughout my life;  
+> I will raise my hands in Your name.
 
 ## Psalm 63:5
 
-> My soul is satisfied as with fat and fatness,  
+> My soul is fulfilled as with rich food,  
 > And my mouth offers praises with joyful lips.
 
 ---
 
 ## Psalm 63:6
 
-> When I remember You on my bed,  
-> I meditate on You in the night watches,
+> As I think of You upon my bed,  
+> I reflect on You during the night watches,
 
 ## Psalm 63:7
 
-> For You have been my help,  
-> And in the shadow of Your wings I sing for joy.
+> For You have been my support,  
+> And under the shelter of Your wings, I sing for joy.
 
 ## Psalm 63:8
 
-> My soul clings to You;  
-> Your right hand takes hold of me.
+> My soul holds fast to You;  
+> Your right hand upholds me.
 
 ---
 
 ## Psalm 63:9
 
-> But those who seek my life to destroy it  
-> Will go into the depths of the earth.
+> Yet those who seek to harm my life  
+> Will descend into the depths of the earth.
 
 ## Psalm 63:10
 
-> They will be turned over to the power of the sword;  
-> They will be prey for foxes.
+> They will be delivered to the power of the sword;  
+> They will become prey for foxes.
 
 ## Psalm 63:11
 
-> But the king will rejoice in God;  
-> Everyone who swears by Him will boast,  
-> For the mouths of those who speak lies will be stopped.
+> However, the king will find joy in God;  
+> Everyone who swears by Him will exult,  
+> For the mouths of those who speak falsehoods will be silenced.

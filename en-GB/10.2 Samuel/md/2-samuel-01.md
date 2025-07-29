@@ -32,8 +32,8 @@ When he turned and saw me, he called to me, and I said, ‘Here I am.’
 
 ## 2 Samuel 1:8
 
-He asked me, ‘Who are you?’  
-I answered him, ‘I am an Amalekite.’
+He inquired, ‘Who are you?’  
+I replied, ‘I am an Amalekite.’
 
 ## 2 Samuel 1:9
 
@@ -125,7 +125,7 @@ and he ordered that the people of Judah be taught this song of the bow — it is
 ## 2 Samuel 1:25
 
 > How the mighty have fallen in battle!  
-> Jonathan lies slain on your heights.
+> Jonathan lies, his body lifeless upon your heights.
 
 ## 2 Samuel 1:26
 

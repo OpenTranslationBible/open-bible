@@ -2,15 +2,15 @@
 
 ## 2 Chronicles 7:1
 
-Now when Solomon had finished praying,  
-fire came down from heaven and consumed the burnt offering and the sacrifices,  
+When Solomon concluded his prayer,  
+fire descended from heaven and consumed the burnt offering and the sacrifices,  
 and the glory of the Lord filled the house.
 
 ---
 
 ## 2 Chronicles 7:2
 
-And the priests could not enter the house of the Lord  
+And the priests were unable to enter the house of the Lord  
 because the glory of the Lord filled the Lord’s house.
 
 ---
@@ -35,7 +35,7 @@ Then the king and all the people presented offerings and sacrifices before the L
 ## 2 Chronicles 7:5
 
 King Solomon offered a sacrifice of twenty-two thousand oxen and 120,000 sheep.  
-So the king and all the people dedicated the house of God.
+Thus, the king and all the people dedicated the house of God.
 
 ---
 
@@ -97,14 +97,14 @@ in the house of the Lord and in his palace.
 ## 2 Chronicles 7:12
 
 Then the Lord appeared to Solomon at night and said to him,  
-“I have heard your prayer and have chosen this place for Myself as a house of sacrifice.
+“I have heard your prayer and have chosen this place for Myself as a house of offerings.
 
 ---
 
 ## 2 Chronicles 7:13
 
-If I shut up the heavens so that there is no rain,  
-or if I command the locust to devour the land,  
+If I close the heavens so that there is no rain,  
+or if I command the locust to consume the land,  
 or if I send a plague among My people,
 
 ---
@@ -115,7 +115,7 @@ and My people who are called by My name humble themselves,
 and pray and seek My face,  
 and turn from their wicked ways,  
 then I will hear from heaven,  
-and I will forgive their sin and will heal their land.
+and I will forgive their sin and will restore their land.
 
 ---
 
@@ -127,9 +127,9 @@ Henceforth, My eyes shall be open and My ears attentive to the prayers made in t
 
 ## 2 Chronicles 7:16
 
-For now I have chosen and consecrated this house  
-so that My name may be there forever,  
-and My eyes and My heart will be there always.
+For the present time, I have chosen and consecrated this house  
+so that My name may reside there perpetually,  
+and My eyes and My heart will remain there continually.
 
 ---
 
@@ -143,14 +143,14 @@ and keep My statutes and My ordinances,
 
 ## 2 Chronicles 7:18
 
-then I will establish your royal throne as I covenanted with your father David, saying,  
+then I will establish your royal throne as I promised your father David, saying,  
 ‘You shall not lack a man to be ruler in Israel.’
 
 ---
 
 ## 2 Chronicles 7:19
 
-But if you turn away and abandon My statutes and My commandments  
+However, should you turn away and abandon My statutes and My commandments  
 which I have set before you,  
 and go and serve other gods and worship them,
 
@@ -158,9 +158,9 @@ and go and serve other gods and worship them,
 
 ## 2 Chronicles 7:20
 
-then I will uproot you from My land which I have given you,  
+then I will remove you from My land which I have given you,  
 and this house which I have consecrated for My name  
-I will cast out of My sight,  
+I will discard from My presence,  
 and I will make it a proverb and an object of scorn among all peoples.
 
 ---

@@ -8,9 +8,9 @@ Now the creditor has come to take my two children to be his slaves.”
 
 ## 2 Kings 4:2
 
-Elisha said to her,  
-“What shall I do for you? Tell me, what do you have in the house?”  
-And she said,  
+Elisha responded to her,  
+“How can I assist you? Please tell me, what do you have in your house?”  
+And she replied,  
 “Your maidservant has nothing in the house except a jar of oil.”
 
 ## 2 Kings 4:3
@@ -36,9 +36,9 @@ Then the oil stopped.
 
 ## 2 Kings 4:7
 
-So she came and told the man of God.  
-And he said,  
-“Go, sell the oil and pay your debt, and you and your sons can live on the rest.”
+So she came and informed the man of God.  
+And he instructed her,  
+“Go, sell the oil and settle your debt, and you and your sons can live on the remainder.”
 
 ---
 
@@ -112,7 +112,7 @@ And he said to his servant, “Carry him to his mother.”
 ## 2 Kings 4:20
 
 When he had carried him and brought him to his mother, he sat on her lap until noon,  
-and then he died.
+and then he passed away.
 
 ## 2 Kings 4:21
 
@@ -158,7 +158,7 @@ and the Lord has hidden it from me and has not informed me.”
 ## 2 Kings 4:28
 
 Then she said,  
-“Did I ask for a son from my lord? Did I not say, ‘Do not deceive me’?”
+“Did I ask for a son from my lord? Did I not say, ‘Do not mislead me’?”
 
 ---
 
@@ -221,8 +221,8 @@ And she picked up her son and went out.
 ## 2 Kings 4:38
 
 When Elisha returned to Gilgal, there was a famine in the land.  
-As the sons of the prophets were sitting before him, he said to his servant,  
-“Put on the large pot and boil stew for the sons of the prophets.”
+As the sons of the prophets were sitting before him, he instructed his servant,  
+“Put on the large pot and prepare stew for the sons of the prophets.”
 
 ## 2 Kings 4:39
 
@@ -263,5 +263,5 @@ for this is what the Lord says:
 
 ## 2 Kings 4:44
 
-So he set it before them, and they ate and had some left over,  
+So he set it before them, and they ate and had some remaining,  
 according to the word of the Lord.

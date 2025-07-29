@@ -36,8 +36,8 @@ Job responded:
 
 ## Job 21:8
 
-> Their children are established in their presence,
-> their offspring before their eyes.
+> Their children thrive around them,
+> their offspring are before their eyes.
 
 ## Job 21:9
 
@@ -46,8 +46,8 @@ Job responded:
 
 ## Job 21:10
 
-> Their bulls breed without fail;
-> their cows calve and do not miscarry.
+> Their bulls breed successfully;
+> their cows calve and do not lose their young.
 
 ## Job 21:11
 
@@ -126,12 +126,12 @@ Job responded:
 
 ## Job 21:25
 
-> Another dies in bitterness of soul,
+> Another dies with a troubled soul,
 > never having enjoyed anything good.
 
 ## Job 21:26
 
-> Side by side they lie in the dust,
+> Together they lie in the dust,
 > and worms cover them both.
 
 ## Job 21:27

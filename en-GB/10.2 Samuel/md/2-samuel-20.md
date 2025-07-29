@@ -29,9 +29,9 @@ living as widows.
 
 ## 2 Samuel 20:4
 
-Then the king said to Amasa,  
-“Assemble the men of Judah for me within three days,  
-and be present here yourself.”
+Then the king instructed Amasa,  
+“Gather the men of Judah for me within three days,  
+and ensure you are present here yourself.”
 
 ## 2 Samuel 20:5
 
@@ -61,8 +61,8 @@ and as he stepped forward, it fell out.
 
 ## 2 Samuel 20:9
 
-And Joab said to Amasa,  
-“Is it well with you, my brother?”  
+And Joab greeted Amasa,  
+“Is all well with you, my brother?”  
 And Joab took Amasa by the beard with his right hand to kiss him.
 
 ## 2 Samuel 20:10
@@ -109,7 +109,7 @@ and all the people who were with Joab were battering the wall to bring it down.
 ## 2 Samuel 20:16
 
 Then a wise woman called from the city,  
-“Hear, hear! Please tell Joab, ‘Come here that I may speak with you.’”
+“Listen, listen! Please tell Joab, ‘Come here that I may speak with you.’”
 
 ## 2 Samuel 20:17
 

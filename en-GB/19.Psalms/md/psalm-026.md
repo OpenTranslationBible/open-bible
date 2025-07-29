@@ -9,61 +9,61 @@
 
 ## Psalm 26:2
 
-> Examine me, Lord, and put me to the test;  
-> Refine my mind and my heart.
+> Search me, Lord, and try my heart;  
+> Purify my thoughts and my soul.
 
 ## Psalm 26:3
 
-> For Your goodness is before my eyes,  
-> And I have walked in Your truth.
+> For Your steadfast love is before my eyes,  
+> And I have followed Your truth.
 
 ---
 
 ## Psalm 26:4
 
-> I do not sit with deceitful people,  
-> Nor will I go with pretenders.
+> I do not associate with deceitful people,  
+> Nor will I join with pretenders.
 
 ## Psalm 26:5
 
-> I hate the assembly of evildoers,  
+> I detest the gathering of evildoers,  
 > And I will not sit with the wicked.
 
 ## Psalm 26:6
 
-> I will wash my hands in innocence,  
-> And I will go around Your altar, Lord,
+> I will cleanse my hands in innocence,  
+> And I will encircle Your altar, Lord,
 
 ## Psalm 26:7
 
-> That I may proclaim with the voice of thanksgiving  
-> And declare all Your wonders.
+> So that I may proclaim with a voice of gratitude  
+> And declare all Your marvellous deeds.
 
 ---
 
 ## Psalm 26:8
 
-> Lord, I love the dwelling of Your house,  
-> And the place where Your glory remains.
+> Lord, I cherish the abode of Your house,  
+> And the place where Your glory dwells.
 
 ## Psalm 26:9
 
-> Do not take my soul away with sinners,  
-> Nor my life with men of bloodshed,
+> Do not gather my soul with sinners,  
+> Nor my life with those who shed blood,
 
 ## Psalm 26:10
 
-> In whose hands is a wicked scheme,  
+> In whose hands are wicked schemes,  
 > And whose right hand is full of bribes.
 
 ## Psalm 26:11
 
 > But as for me, I will walk in my integrity;  
-> Redeem me, and be gracious to me.
+> Rescue me, and show me Your favour.
 
 ---
 
 ## Psalm 26:12
 
-> My foot stands on level ground;  
-> In the congregations I will bless the Lord.
+> My foot stands on solid ground;  
+> In the congregations, I will praise the Lord.

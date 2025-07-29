@@ -118,7 +118,7 @@ After singing a hymn, they proceeded to the Mount of Olives.
 
 ## Mark 14:27
 
-“You will all fall away,” Jesus told them, “for it is written:
+“You will all stumble,” Jesus told them, “for it is written:
 
 > ‘I will strike the shepherd,
 > and the sheep will be scattered.’

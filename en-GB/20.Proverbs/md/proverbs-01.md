@@ -44,10 +44,10 @@ My son, if sinners try to lure you, do not follow.
 
 ## Proverbs 1:11
 
-If they say, “Come with us,
+If they say, “Join us,
 
-> let us lie in wait for blood,
-> let us ambush the innocent without reason;
+> let us wait in secret for blood,
+> let us ambush the innocent without cause;
 
 ## Proverbs 1:12
 
@@ -73,8 +73,8 @@ My son, do not walk in their way, keep your foot from their path,
 
 ## Proverbs 1:16
 
-For their feet run to evil,
-and they are quick to shed blood.
+For they are swift to pursue wrongdoing,
+and they hasten to shed blood.
 
 ## Proverbs 1:17
 
@@ -125,8 +125,8 @@ and would not accept my rebuke,
 
 ## Proverbs 1:26
 
-I will also laugh at your calamity;
-I will mock when your dread comes,
+I will also smile at your calamity;
+I will respond with mirth when your dread comes,
 
 ---
 

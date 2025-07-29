@@ -8,10 +8,10 @@ so that I may show him kindness for Jonathan’s sake?”
 
 ## 2 Samuel 9:2
 
-Now there was a servant of the house of Saul whose name was Ziba,  
-and they summoned him to David.  
-And the king said to him, “Are you Ziba?”  
-And he said, “I am your servant.”
+There was a servant from Saul's household named Ziba,  
+who was brought before David.  
+The king asked him, “Are you Ziba?”  
+And he replied, “I am your servant.”
 
 ## 2 Samuel 9:3
 
@@ -24,9 +24,9 @@ who is crippled in both feet.”
 
 ## 2 Samuel 9:4
 
-So the king said to him, “Where is he?”  
-And Ziba said to the king,  
-“Behold, he is in the house of Machir the son of Ammiel, in Lo-debar.”
+The king inquired, “Where is he?”  
+And Ziba replied to the king,  
+“He is in the house of Machir, the son of Ammiel, in Lo-debar.”
 
 ## 2 Samuel 9:5
 
@@ -34,10 +34,10 @@ Then King David sent messengers and brought him from the house of Machir the son
 
 ## 2 Samuel 9:6
 
-Mephibosheth, the son of Jonathan, the son of Saul, came to David  
-and fell on his face and prostrated himself.  
+Mephibosheth, Jonathan's son and Saul's grandson, came to David  
+and bowed down, prostrating himself.  
 And David said, “Mephibosheth!”  
-And he said, “Here is your servant!”
+And he answered, “Here is your servant!”
 
 ## 2 Samuel 9:7
 
@@ -56,17 +56,16 @@ And he prostrated himself and said,
 
 ## 2 Samuel 9:9
 
-Then the king summoned Saul’s servant Ziba and said to him,  
-“All that belonged to Saul and to all his house  
-I have given to your master’s grandson.
+The king then called for Ziba, Saul’s servant, and told him,  
+“I have given to your master’s grandson all that belonged to Saul and his family.
 
 ## 2 Samuel 9:10
 
-You and your sons and your servants shall cultivate the land for him,  
-and you shall bring in the produce  
+You, your sons, and your servants shall work the land for him,  
+and bring in the harvest  
 so that your master’s grandson may have food;  
-nevertheless, Mephibosheth, your master’s grandson, shall eat at my table regularly.”  
-Now Ziba had fifteen sons and twenty servants.
+however, Mephibosheth, your master’s grandson, shall eat at my table regularly.”  
+Ziba had fifteen sons and twenty servants.
 
 ## 2 Samuel 9:11
 
@@ -76,8 +75,8 @@ So Mephibosheth ate at David’s table, like one of the king’s sons.
 
 ## 2 Samuel 9:12
 
-Mephibosheth had a young son whose name was Mica.  
-And all who lived in the house of Ziba were servants to Mephibosheth.
+Mephibosheth had a young son named Mica.  
+And all who lived in Ziba's household were servants to Mephibosheth.
 
 ## 2 Samuel 9:13
 

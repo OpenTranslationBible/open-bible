@@ -2,59 +2,59 @@
 
 ## Hosea 8:1
 
-> Put the trumpet to your lips!  
-> Like an eagle the enemy comes against the house of the Lord,  
-> Because they have violated My covenant  
-> And rebelled against My Law.
+> Sound the trumpet!  
+> Like an eagle, the enemy comes against the house of the Lord,  
+> Because they have broken My covenant  
+> And defied My Law.
 
 ## Hosea 8:2
 
-> They cry out to Me,  
-> “My God, we of Israel know You!”
+> They call out to Me,  
+> “O God, we of Israel recognise You!”
 
 ## Hosea 8:3
 
-> Israel has rejected the good;  
-> The enemy will pursue him.
+> Israel has turned away from what is good;  
+> The enemy will chase him.
 
 ## Hosea 8:4
 
-> They have set up kings, but not by Me;  
-> They have appointed officials, but I did not know them.  
-> With their silver and gold they have made idols for themselves,  
-> So that they will be eliminated.
+> They have set up kings, but not by My authority;  
+> They have appointed officials, but I was not consulted.  
+> With their silver and gold, they have crafted idols for themselves,  
+> So that they will be removed.
 
 ## Hosea 8:5
 
-> He has rejected your calf, Samaria, saying,  
+> He has rejected your calf, Samaria, declaring,  
 > “My anger burns against them!”  
-> How long will they be incapable of innocence?
+> How long will they be unable to remain innocent?
 
 ## Hosea 8:6
 
 > For from Israel comes even this!  
 > A craftsman made it, so it is not God;  
-> Surely the calf of Samaria will be broken to pieces.
+> Surely the calf of Samaria will be shattered.
 
 ## Hosea 8:7
 
 > For they sow the wind  
-> And they harvest the whirlwind.  
+> And they reap the whirlwind.  
 > The standing grain has no kernels;  
 > It yields no grain.  
-> If it were to yield, strangers would swallow it.
+> If it were to yield, strangers would consume it.
 
 ## Hosea 8:8
 
-> Israel has been swallowed up;  
+> Israel has been consumed;  
 > They are now among the nations  
-> Like a vessel in which no one delights.
+> Like a vessel in which no one takes pleasure.
 
 ## Hosea 8:9
 
 > For they have gone up to Assyria,  
-> Like a wild donkey all alone;  
-> Ephraim has paid fees for lovers.
+> Like a solitary wild donkey;  
+> Ephraim has hired lovers.
 
 ## Hosea 8:10
 
@@ -65,13 +65,13 @@
 
 ## Hosea 8:11
 
-> Since Ephraim has multiplied altars for sin,  
-> They have become altars of sinning for him.
+> As Ephraim has increased altars for sin,  
+> They have become altars of sin for him.
 
 ## Hosea 8:12
 
-> Though I wrote for him ten thousand precepts of My Law,  
-> They are regarded as a strange thing.
+> Though I wrote for him countless teachings of My Law,  
+> They are viewed as something foreign.
 
 ## Hosea 8:13
 

@@ -31,8 +31,8 @@ If they spare us, we will live; and if they kill us, we will die.”
 
 ## 2 Kings 7:5
 
-So they got up at twilight to go to the camp of the Arameans.  
-When they came to the outskirts of the camp of the Arameans, behold, there was no one there.
+So they arose at twilight to head towards the camp of the Arameans.  
+When they reached the edge of the camp of the Arameans, behold, there was no one there.
 
 ## 2 Kings 7:6
 
@@ -90,8 +90,8 @@ and let us send them and see.”
 
 ## 2 Kings 7:14
 
-So they took two chariots with horses,  
-and the king sent them after the army of the Arameans, saying, “Go and see.”
+So they prepared two chariots with horses,  
+and the king dispatched them after the army of the Arameans, instructing, “Go and see.”
 
 ## 2 Kings 7:15
 
@@ -103,9 +103,9 @@ Then the messengers returned and told the king.
 
 ## 2 Kings 7:16
 
-So the people went out and plundered the camp of the Arameans.  
-Then a measure of fine flour was sold for a shekel, and two measures of barley for a shekel,  
-according to the word of the Lord.
+So the people ventured out and looted the camp of the Arameans.  
+Consequently, a measure of fine flour was sold for a shekel, and two measures of barley for a shekel,  
+in accordance with the word of the Lord.
 
 ## 2 Kings 7:17
 

@@ -14,31 +14,31 @@
 
 ## Psalm 92:3
 
-> With the ten-stringed lute and with the harp,  
-> With resounding music on the lyre.
+> With harmonious sounds of the lute and harp,  
+> With melodious music on the lyre.
 
 ---
 
 ## Psalm 92:4
 
-> For You, Lord, have made me joyful by what You have done,  
-> I will sing for joy over the works of Your hands.
+> For You, Lord, have filled me with joy through Your deeds,  
+> I will sing with joy over the works of Your hands.
 
 ## Psalm 92:5
 
-> How great are Your works, Lord!  
-> Your thoughts are very deep.
+> How magnificent are Your works, Lord!  
+> Your thoughts are profoundly deep.
 
 ## Psalm 92:6
 
-> A stupid person has no knowledge,  
-> Nor does a foolish person understand this:
+> An unwise person lacks knowledge,  
+> Nor does a senseless person comprehend this:
 
 ## Psalm 92:7
 
 > When the wicked sprouted up like grass  
 > And all who did injustice flourished,  
-> It was only that they might be destroyed forevermore.
+> It was only that they might be destroyed eternally.
 
 ---
 
@@ -50,36 +50,36 @@
 
 ## Psalm 92:9
 
-> For behold, Your enemies, Lord,  
-> For behold, Your enemies will perish;  
+> For indeed, Your enemies, Lord,  
+> For indeed, Your enemies will perish;  
 > All who do injustice will be scattered.
 
 ## Psalm 92:10
 
-> But You have exalted my horn like that of the wild ox;  
+> But You have lifted my horn like that of the wild ox;  
 > I have been anointed with fresh oil.
 
 ## Psalm 92:11
 
-> And my eye has looked at my enemies,  
+> And my eyes have seen the downfall of my enemies,  
 > My ears hear of the evildoers who rise up against me.
 
 ---
 
 ## Psalm 92:12
 
-> The righteous person will flourish like the palm tree,  
-> He will grow like a cedar in Lebanon.
+> The righteous will thrive like the palm tree,  
+> They will grow like a cedar in Lebanon.
 
 ## Psalm 92:13
 
-> Planted in the house of the Lord,  
-> They will flourish in the courtyards of our God.
+> Rooted in the house of the Lord,  
+> They will flourish in the courts of our God.
 
 ## Psalm 92:14
 
-> They will still yield fruit in advanced age;  
-> They will be full of sap and very green,
+> They will still bear fruit in their later years;  
+> They will be full of vitality and very green,
 
 ## Psalm 92:15
 

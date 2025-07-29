@@ -2,13 +2,13 @@
 
 ## Job 30:1
 
-> “But now those younger than I mock me,  
-> Whose fathers I disdained to put with the dogs of my flock.
+> “But now those younger than I ridicule me,  
+> Whose fathers I would not have placed with the dogs of my flock.
 
 ## Job 30:2
 
-> Indeed, what good was the strength of their hands to me?  
-> Vigor had perished from them.
+> Indeed, what benefit was the strength of their hands to me?  
+> Their vigour had departed from them.
 
 ## Job 30:3
 
@@ -17,7 +17,7 @@
 
 ## Job 30:4
 
-> Who pluck saltweed by the bushes,  
+> Who gather saltweed by the bushes,  
 > And whose food is the root of the broom shrub.
 
 ## Job 30:5
@@ -27,13 +27,13 @@
 
 ## Job 30:6
 
-> So that they dwell in dreadful valleys,  
+> So that they dwell in desolate valleys,  
 > In holes of the earth and of the rocks.
 
 ## Job 30:7
 
-> Among the bushes they cry out;  
-> Under the weeds they are gathered together.
+> Among the bushes they wail;  
+> Under the weeds they huddle together.
 
 ## Job 30:8
 
@@ -44,17 +44,17 @@
 
 ## Job 30:9
 
-> And now I have become their taunt,  
+> And now I have become their ridicule,  
 > And I have become a byword to them.
 
 ## Job 30:10
 
-> They loathe me and stand aloof from me,  
+> They detest me and keep their distance from me,  
 > And they do not refrain from spitting in my face.
 
 ## Job 30:11
 
-> Because He has untied His bowstring and afflicted me,  
+> Because He has loosened His bowstring and afflicted me,  
 > They have cast off restraint in my presence.
 
 ## Job 30:12
@@ -64,14 +64,14 @@
 
 ## Job 30:13
 
-> They break up my path,  
-> They profit from my destruction;  
-> No one restrains them.
+> They disrupt my path,  
+> They gain from my downfall;  
+> No one holds them back.
 
 ## Job 30:14
 
-> As through a wide breach they come;  
-> Amid the storm they roll on.
+> They come upon me like a breach in the wall;  
+> They advance in the storm.
 
 ## Job 30:15
 
@@ -84,33 +84,33 @@
 ## Job 30:16
 
 > And now my soul is poured out within me;  
-> Days of misery have seized me.
+> Days of suffering have overtaken me.
 
 ## Job 30:17
 
 > At night it pierces my bones within me,  
-> And my gnawing pains do not rest.
+> And my relentless pains do not rest.
 
 ## Job 30:18
 
 > By a great force my garment is distorted;  
-> It ties me up like the collar of my coat.
+> It binds me like the collar of my coat.
 
 ## Job 30:19
 
-> He has thrown me into the mud,  
-> And I have become like dust and ashes.
+> He has thrown me into the mire,  
+> And I am reduced to dust and ashes.
 
 ---
 
 ## Job 30:20
 
-> I cry out to You for help, but You do not answer me;  
-> I stand up, and You turn Your attention against me.
+> I cry out to You for help, yet You do not respond;  
+> I stand up, and You turn Your gaze against me.
 
 ## Job 30:21
 
-> You have become cruel to me;  
+> You have become harsh to me;  
 > With the strength of Your hand You persecute me.
 
 ## Job 30:22
@@ -132,35 +132,35 @@
 
 ## Job 30:25
 
-> Have I not wept for the one whose life is hard?  
+> Have I not wept for the one in distress?  
 > Was my soul not grieved for the needy?
 
 ## Job 30:26
 
-> When I expected good, evil came;  
+> When I hoped for good, evil came;  
 > When I waited for light, darkness came.
 
 ## Job 30:27
 
 > My internal organs are in turmoil and are never still;  
-> Days of misery confront me.
+> Days of suffering confront me.
 
 ## Job 30:28
 
-> I go about mourning without comfort;  
-> I stand up in the assembly and cry out for help.
+> I wander about in mourning without solace;  
+> I stand up in the assembly and plead for help.
 
 ## Job 30:29
 
-> I have become a brother to jackals,  
-> And a companion of ostriches.
+> I have become akin to jackals,  
+> And a companion to ostriches.
 
 ## Job 30:30
 
-> My skin turns black on me,  
-> And my bones burn with fever.
+> My skin has turned dark upon me,  
+> And my bones are burning with fever.
 
 ## Job 30:31
 
-> Therefore my harp is turned to mourning,  
-> And my flute to the sound of those who weep.
+> Thus my harp is tuned to mourning,  
+> And my flute to the sound of lamentation.

@@ -8,8 +8,8 @@ but the house of Saul grew weaker and weaker.
 
 ## 2 Samuel 3:2
 
-Sons were born to David in Hebron:  
-his firstborn was Amnon, by Ahinoam the Jezreelitess;
+David had sons born to him in Hebron:  
+his firstborn was Amnon, by Ahinoam the Jezreelite;
 
 ## 2 Samuel 3:3
 
@@ -18,26 +18,26 @@ and the third, Absalom the son of Maacah, the daughter of Talmai, king of Geshur
 
 ## 2 Samuel 3:4
 
-and the fourth, Adonijah the son of Haggith;  
-and the fifth, Shephatiah the son of Abital;
+and the fourth, Adonijah, son of Haggith;  
+and the fifth, Shephatiah, son of Abital;
 
 ## 2 Samuel 3:5
 
 and the sixth, Ithream, by Eglah, David’s wife.  
-These were born to David in Hebron.
+These children were born to David in Hebron.
 
 ---
 
 ## 2 Samuel 3:6
 
-Now it happened that while there was war between the house of Saul and the house of David,  
-Abner was strengthening himself in the house of Saul.
+During the time of conflict between the house of Saul and the house of David,  
+Abner was gaining influence in the house of Saul.
 
 ## 2 Samuel 3:7
 
-Now Saul had a concubine whose name was Rizpah, the daughter of Aiah;  
+Saul had a concubine named Rizpah, the daughter of Aiah;  
 and Ish-bosheth said to Abner,  
-“Why have you gone in to my father’s concubine?”
+“Why have you been with my father’s concubine?”
 
 ## 2 Samuel 3:8
 
@@ -54,9 +54,9 @@ if as the Lord has sworn to David, I do not do so for him:
 
 ## 2 Samuel 3:10
 
-to transfer the kingdom from the house of Saul,  
+to shift the kingdom from the house of Saul,  
 and to establish the throne of David over Israel and over Judah,  
-from Dan even to Beersheba!”
+from Dan to Beersheba!”
 
 ## 2 Samuel 3:11
 
@@ -82,7 +82,7 @@ you shall not see my face unless you first bring Michal, Saul’s daughter, when
 ## 2 Samuel 3:14
 
 So David sent messengers to Ish-bosheth, Saul’s son, saying,  
-“Give me my wife Michal,  
+“Return my wife Michal,  
 whom I betrothed to myself for a hundred foreskins of the Philistines.”
 
 ## 2 Samuel 3:15
@@ -99,25 +99,25 @@ Then Abner said to him, “Go, return.” So he returned.
 
 ## 2 Samuel 3:17
 
-Now Abner had a consultation with the elders of Israel, saying,  
-“In times past you were seeking for David to be king over you.
+Abner spoke with the elders of Israel, saying,  
+“In times past you sought for David to be king over you.
 
 ## 2 Samuel 3:18
 
-Now then, do it! For the Lord has spoken of David, saying,  
+Now then, act upon it! For the Lord has spoken of David, saying,  
 ‘By the hand of My servant David I will save My people Israel  
-from the hand of the Philistines and from the hand of all their enemies.’”
+from the hand of the Philistines and from all their enemies.’”
 
 ## 2 Samuel 3:19
 
 Abner also spoke in the hearing of Benjamin;  
-and in addition Abner went to speak to David in Hebron  
+and in addition, Abner went to speak to David in Hebron  
 everything that was good in the sight of Israel and in the sight of all the house of Benjamin.
 
 ## 2 Samuel 3:20
 
 Then Abner and twenty men with him came to David at Hebron.  
-And David held a feast for Abner and the men who were with him.
+And David prepared a feast for Abner and the men who were with him.
 
 ## 2 Samuel 3:21
 
@@ -142,9 +142,9 @@ they informed Joab, saying,
 
 ## 2 Samuel 3:24
 
-Then Joab came to the king and said,  
-“What have you done? Behold, Abner came to you.  
-Why then have you sent him away, and he is already gone?
+Then Joab approached the king and asked,  
+“What have you done? Abner came to you.  
+Why then have you sent him away, and he has already departed?
 
 ## 2 Samuel 3:25
 
@@ -163,8 +163,8 @@ but David did not know it.
 ## 2 Samuel 3:27
 
 So when Abner returned to Hebron, Joab took him aside into the middle of the gate to speak with him privately,  
-and there he struck him in the belly,  
-so that he died on account of the blood of Asahel his brother.
+and there he struck him in the stomach,  
+so he died as a result of the blood of Asahel his brother.
 
 ---
 
@@ -175,35 +175,35 @@ Afterward, when David heard about it, he said,
 
 ## 2 Samuel 3:29
 
-May it fall on the head of Joab and on all his father’s house,  
+May the consequences fall on Joab and all his father’s house,  
 and may there not fail from the house of Joab  
-one who has a discharge, or who is a leper,  
+one who has a discharge, or who is afflicted with leprosy,  
 or who takes hold of a distaff, or who falls by the sword, or who lacks bread.”
 
 ## 2 Samuel 3:30
 
-So Joab and Abishai his brother killed Abner,  
-because he had put their brother Asahel to death in the battle at Gibeon.
+Thus, Joab and Abishai his brother were responsible for Abner's death,  
+because he had killed their brother Asahel during the battle at Gibeon.
 
 ---
 
 ## 2 Samuel 3:31
 
-Then David said to Joab and to all the people who were with him,  
+Then David instructed Joab and all the people who were with him,  
 “Tear your clothes and put on sackcloth, and mourn before Abner.”  
 And King David walked behind the bier.
 
 ## 2 Samuel 3:32
 
-They buried Abner in Hebron;  
-and the king raised his voice and wept at the grave of Abner,  
+They laid Abner to rest in Hebron;  
+and the king raised his voice and wept at Abner's grave,  
 and all the people wept.
 
 ## 2 Samuel 3:33
 
 And the king sang a song of mourning for Abner and said,
 
-> “Should Abner die as a fool dies?
+> “Should Abner meet his end as a fool does?
 
 ## 2 Samuel 3:34
 
@@ -224,7 +224,7 @@ if I taste bread or anything else before the sun goes down.”
 ## 2 Samuel 3:36
 
 All the people took note of it, and it pleased them,  
-just as everything the king did pleased all the people.
+just as everything the king did was pleasing to all the people.
 
 ## 2 Samuel 3:37
 
@@ -234,7 +234,7 @@ that it had not been the will of the king to put Abner the son of Ner to death.
 ## 2 Samuel 3:38
 
 Then the king said to his servants,  
-“Do you not know that a leader and a great man has fallen in Israel this day?
+“Are you not aware that a leader and a great man has fallen in Israel this day?
 
 ## 2 Samuel 3:39
 

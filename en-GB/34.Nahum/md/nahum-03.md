@@ -2,8 +2,8 @@
 
 ## Nahum 3:1
 
-> Woe to the bloody city, completely full of lies and pillage;  
-> Her prey does not leave.
+> Alas for the city of bloodshed, filled with deceit and plunder;  
+> Her prey never departs.
 
 ## Nahum 3:2
 
@@ -36,8 +36,8 @@
 
 ## Nahum 3:6
 
-> I will throw filth on you  
-> And declare you worthless,  
+> I will heap disgrace upon you  
+> And make you contemptible,  
 > And set you up as a spectacle.
 
 ## Nahum 3:7
@@ -72,18 +72,18 @@
 
 ## Nahum 3:11
 
-> You too will become drunk,  
-> You will be hidden.  
-> You too will search for a refuge from the enemy.
+> You too will be overcome,  
+> You will be concealed.  
+> You too will seek shelter from the enemy.
 
 ## Nahum 3:12
 
-> All your fortifications are fig trees with ripe fruit—  
-> When shaken, they fall into the eater’s mouth.
+> All your fortifications are like fig trees with ripe fruit—  
+> When shaken, they fall into the mouth of the eater.
 
 ## Nahum 3:13
 
-> Behold, your people are women in your midst!  
+> Behold, your soldiers are like women!  
 > The gates of your land are opened wide to your enemies;  
 > Fire consumes your gate bars.
 

@@ -79,18 +79,18 @@ Then Bildad the Shuhite replied and said:
 
 ## Job 18:16
 
-> His roots dry up below,
-> and his branches wither above.
+> His roots wither below,
+> and his branches fade above.
 
 ## Job 18:17
 
-> His memory perishes from the earth,
-> and he has no name in the land.
+> His memory fades from the earth,
+> and he leaves no name in the land.
 
 ## Job 18:18
 
-> He is driven from light into darkness
-> and banished from the world.
+> He is cast from light into darkness
+> and removed from the world.
 
 ## Job 18:19
 
@@ -99,8 +99,8 @@ Then Bildad the Shuhite replied and said:
 
 ## Job 18:20
 
-> Those in the west are appalled at his fate,
-> and those in the east are seized with horror.
+> Those in the west are dismayed at his fate,
+> and those in the east are filled with dread.
 
 ## Job 18:21
 

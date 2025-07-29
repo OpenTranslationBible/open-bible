@@ -16,13 +16,13 @@
 
 ## Psalm 32:3
 
-> When I kept silent about my sin, my body wasted away  
-> Through my groaning all day long.
+> When I kept silent about my wrongdoing, my body grew weak  
+> Through my constant groaning.
 
 ## Psalm 32:4
 
 > For day and night Your hand was heavy upon me;  
-> My vitality failed as with the dry heat of summer.
+> My strength was drained as in the heat of summer.
 
 > Selah
 
@@ -30,9 +30,9 @@
 
 ## Psalm 32:5
 
-> I acknowledged my sin to You,  
-> And I did not hide my guilt;  
-> I said, “I will confess my wrongdoings to the Lord”;  
+> I acknowledged my wrongdoing to You,  
+> And I did not conceal my guilt;  
+> I said, “I will confess my transgressions to the Lord”;  
 > And You forgave the guilt of my sin.
 
 > Selah
@@ -41,13 +41,13 @@
 
 ## Psalm 32:6
 
-> Therefore, let everyone who is godly pray to You in a time when You may be found;  
-> Certainly in a flood of great waters, they will not reach him.
+> Therefore, let everyone who is godly pray to You while You may be found;  
+> Surely in a flood of great waters, they will not reach him.
 
 ## Psalm 32:7
 
-> You are my hiding place;  
-> You keep me from trouble;  
+> You are my refuge;  
+> You protect me from trouble;  
 > You surround me with songs of deliverance.
 
 > Selah
@@ -56,23 +56,23 @@
 
 ## Psalm 32:8
 
-> I will instruct you and teach you in the way which you should go;  
-> I will advise you with My eye upon you.
+> I will guide you and teach you in the way you should go;  
+> I will counsel you with My watchful eye upon you.
 
 ## Psalm 32:9
 
-> Do not be like the horse or like the mule, which have no understanding,  
-> Whose trappings include bit and bridle to hold them in check,  
+> Do not be like the horse or the mule, which lack understanding,  
+> Whose gear includes bit and bridle to restrain them,  
 > Otherwise they will not come near to you.
 
 ## Psalm 32:10
 
 > The sorrows of the wicked are many,  
-> But the one who trusts in the Lord, goodness will surround him.
+> But the one who trusts in the Lord will be surrounded by goodness.
 
 ---
 
 ## Psalm 32:11
 
-> Be glad in the Lord and rejoice, you righteous ones,  
+> Be joyful in the Lord and rejoice, you righteous ones,  
 > And shout for joy, all you who are upright in heart.

@@ -60,8 +60,8 @@ Zophar the Naamathite responded,
 
 ## Job 20:12
 
-> “Though evil tastes sweet in his mouth
-> and he conceals it under his tongue,
+> “Though wrongdoing is sweet in his mouth
+> and he hides it under his tongue,
 
 ## Job 20:13
 
@@ -81,8 +81,8 @@ Zophar the Naamathite responded,
 
 ## Job 20:16
 
-> He will suck the poison of cobras;
-> the viper's tongue will slay him.
+> He will draw in the venom of cobras;
+> the viper's tongue will bring him down.
 
 ## Job 20:17
 
@@ -138,7 +138,7 @@ Zophar the Naamathite responded,
 
 ## Job 20:27
 
-> The heavens will reveal his iniquity,
+> The heavens will expose his wrongdoing,
 > and the earth will rise up against him.
 
 ## Job 20:28

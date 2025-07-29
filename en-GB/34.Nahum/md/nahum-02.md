@@ -17,11 +17,11 @@
 
 ## Nahum 2:3
 
-> The shields of his warriors are dyed red,  
-> The warriors are dressed in scarlet,  
-> The chariots are fitted with flashing steel  
-> When he is prepared to march,  
-> And the juniper spears are brandished.
+> The shields of his warriors are crimson,  
+> The soldiers are clothed in scarlet,  
+> The chariots gleam with flashing metal  
+> As he prepares to advance,  
+> And the spears of juniper are brandished.
 
 ## Nahum 2:4
 
@@ -39,8 +39,8 @@
 
 ## Nahum 2:6
 
-> The gates of the rivers are opened,  
-> And the palace sways back and forth.
+> The river gates are thrown open,  
+> And the palace trembles.
 
 ## Nahum 2:7
 
@@ -51,17 +51,17 @@
 
 ## Nahum 2:8
 
-> Though Nineveh was like a pool of water throughout her days,  
+> Although Nineveh was like a pool of water in her days,  
 > Now they are fleeing;  
 > “Stop, stop,”  
 > But no one turns back.
 
 ## Nahum 2:9
 
-> Plunder the silver,  
-> Plunder the gold!  
+> Seize the silver,  
+> Seize the gold!  
 > For there is no end to the treasure—  
-> Wealth from every kind of desirable object.
+> Riches from every kind of desirable object.
 
 ## Nahum 2:10
 
@@ -72,15 +72,15 @@
 
 ## Nahum 2:11
 
-> Where is the den of the lions  
-> And the feeding place of the young lions,  
-> Where the lion, lioness, and lion’s cub prowled,  
+> Where is the lions' den  
+> And the feeding ground of the young lions,  
+> Where the lion, lioness, and lion’s cub roamed,  
 > With nothing to disturb them?
 
 ## Nahum 2:12
 
 > The lion tore enough for his cubs,  
-> Killed enough for his lionesses,  
+> Killed sufficiently for his lionesses,  
 > And filled his lairs with prey  
 > And his dens with torn flesh.
 

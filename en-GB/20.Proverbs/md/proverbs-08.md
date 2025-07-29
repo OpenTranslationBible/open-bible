@@ -132,8 +132,8 @@ Then I was beside Him, as a master craftsman; I was His delight day after day,
 
 ## Proverbs 8:31
 
-> rejoicing in His whole world
-> and delighting in mankind.
+> finding joy in His creation
+> and taking pleasure in humanity.
 
 ---
 

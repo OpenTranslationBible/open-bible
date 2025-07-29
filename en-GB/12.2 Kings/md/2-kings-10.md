@@ -44,10 +44,10 @@ and put their heads in baskets and sent them to him at Jezreel.
 
 ## 2 Kings 10:8
 
-When the messenger came and told him, saying,  
+When the messenger arrived and reported,  
 “They have brought the heads of the king’s sons,”  
-he said,  
-“Put them in two heaps at the entrance of the gate until morning.”
+he instructed,  
+“Arrange them in two heaps at the entrance of the gate until morning.”
 
 ---
 
@@ -73,14 +73,14 @@ until he left him without a survivor.
 
 ## 2 Kings 10:12
 
-Then he arose and departed, and went to Samaria.  
-On the way, while he was at Beth-eked of the shepherds,
+Then he set out and journeyed to Samaria.  
+On his way, while he was at Beth-eked of the shepherds,
 
 ## 2 Kings 10:13
 
-Jehu met the relatives of Ahaziah king of Judah and said,  
+Jehu encountered the relatives of Ahaziah king of Judah and asked,  
 “Who are you?”  
-And they answered,  
+And they replied,  
 “We are the relatives of Ahaziah,  
 and we have come down to greet the sons of the king and the sons of the queen mother.”
 
@@ -94,17 +94,17 @@ and he left none of them alive.
 
 ## 2 Kings 10:15
 
-Now when he had departed from there, he met Jehonadab the son of Rechab coming to meet him;  
-and he greeted him and said to him,  
-“Is your heart right, as my heart is with your heart?”  
+Now as he departed from there, he met Jehonadab the son of Rechab coming to meet him;  
+and he greeted him and asked,  
+“Is your heart true, as my heart is with your heart?”  
 And Jehonadab answered, “It is.”  
 Jehu said, “If it is, give me your hand.”  
-And he gave him his hand, and he took him up to him into the chariot.
+And he gave him his hand, and he took him up into the chariot.
 
 ## 2 Kings 10:16
 
 And he said,  
-“Come with me and see my zeal for the Lord.”  
+“Come with me and witness my zeal for the Lord.”  
 So he had him ride in his chariot.
 
 ## 2 Kings 10:17
@@ -117,7 +117,7 @@ until he had eliminated them, according to the word of the Lord which He spoke t
 ## 2 Kings 10:18
 
 Then Jehu gathered all the people and said to them,  
-“Ahab served Baal a little; Jehu will serve him much.
+“Ahab served Baal a little; Jehu will serve him greatly.
 
 ## 2 Kings 10:19
 
@@ -210,13 +210,13 @@ from Aroer, which is by the valley of the Arnon, even Gilead and Bashan.
 
 ## 2 Kings 10:34
 
-Now the rest of the acts of Jehu and all that he did, and all his might,  
-are they not written in the Book of the Chronicles of the Kings of Israel?
+Now the remainder of Jehu's deeds, all that he accomplished, and all his might,  
+are they not recorded in the Book of the Chronicles of the Kings of Israel?
 
 ## 2 Kings 10:35
 
-And Jehu slept with his fathers, and they buried him in Samaria;  
-and Jehoahaz his son became king in his place.
+And Jehu rested with his ancestors, and they buried him in Samaria;  
+and Jehoahaz his son succeeded him as king.
 
 ## 2 Kings 10:36
 

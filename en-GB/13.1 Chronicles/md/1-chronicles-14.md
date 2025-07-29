@@ -20,9 +20,9 @@ And David realised that the Lord had established him as king over Israel,
 
 ## 1 Chronicles 14:3
 
-Then David took more wives in Jerusalem,
+In Jerusalem, David took additional wives,
 
-> and David fathered more sons and daughters.
+> and he became the father of more sons and daughters.
 
 ---
 
@@ -48,10 +48,10 @@ These were the names of the children born to him in Jerusalem:
 
 ## 1 Chronicles 14:8
 
-When the Philistines heard that David had been anointed king over all Israel,  
-all the Philistines went up in search of David;
+Upon hearing that David had been anointed king over all Israel,  
+the Philistines gathered to seek him;
 
-> and David heard of it and went out against them.
+> and when David learned of this, he went out to meet them.
 
 ---
 
@@ -74,7 +74,7 @@ Then David inquired of God, saying,
 
 ## 1 Chronicles 14:11
 
-So they came up to Baal-perazim, and David defeated them there.  
+So they came up to Baal-perazim, where David achieved victory over them.  
 And David said,
 
 > “God has broken through my enemies by my hand, like the breakthrough of waters.”  
@@ -84,9 +84,9 @@ And David said,
 
 ## 1 Chronicles 14:12
 
-They abandoned their gods there;
+They left the idols of their gods there;
 
-> so David gave the order and they were burned with fire.
+> so David commanded that they be burned with fire.
 
 ---
 
@@ -124,6 +124,6 @@ David did just as God had commanded him,
 
 ## 1 Chronicles 14:17
 
-Then the fame of David went out into all the lands;
+David's renown spread throughout all the lands;
 
-> and the Lord brought the fear of him on all the nations.
+> and the Lord instilled a reverence for him among all the nations.

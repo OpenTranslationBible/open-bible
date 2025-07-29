@@ -15,8 +15,8 @@ he decided with his officers and his warriors to block off the water supply from
 
 ## 2 Chronicles 32:4
 
-So many people assembled and stopped up all the springs and the stream which flowed through the region, saying,  
-“Why should the kings of Assyria come and find abundant water?”
+Therefore, a large assembly gathered and blocked all the springs and the stream that flowed through the land, saying,  
+“Why should the kings of Assyria come and find an abundance of water?”
 
 ## 2 Chronicles 32:5
 
@@ -31,12 +31,12 @@ Hezekiah appointed military officers over the people, gathered them to him in th
 
 ## 2 Chronicles 32:7
 
-“Be strong and courageous, do not fear or be dismayed because of the king of Assyria nor because of all the multitude that is with him;  
+“Be strong and courageous. Do not be afraid or discouraged because of the king of Assyria nor because of all the multitude that is with him;  
 for the One with us is greater than the one with him.
 
 ## 2 Chronicles 32:8
 
-With him is only an arm of flesh, but with us is the Lord our God,  
+With him is only a man's strength, but with us is the Lord our God,  
 to help us and to fight our battles.”  
 And the people relied on the words of Hezekiah king of Judah.
 
@@ -57,7 +57,7 @@ against Hezekiah king of Judah and against all Judah who were in Jerusalem, sayi
 
 ## 2 Chronicles 32:11
 
-Is Hezekiah not misleading you to give yourselves over to die by hunger and by thirst, saying,  
+Is Hezekiah not deceiving you to surrender yourselves to die by hunger and by thirst, saying,  
 “The Lord our God will save us from the hand of the king of Assyria”?
 
 ## 2 Chronicles 32:12
@@ -100,8 +100,8 @@ so the God of Hezekiah will not save His people from my hand.”
 
 ## 2 Chronicles 32:18
 
-They called this out with a loud voice in the language of Judah to the people of Jerusalem who were on the wall,  
-to frighten and terrify them, so that they might take the city.
+They shouted this with a loud voice in the language of Judah to the people of Jerusalem who were on the wall,  
+to frighten and terrify them, so that they might capture the city.
 
 ## 2 Chronicles 32:19
 
@@ -124,7 +124,7 @@ And when he had entered the temple of his god, some of his own children killed h
 
 ## 2 Chronicles 32:22
 
-So the Lord saved Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria,  
+Thus, the Lord delivered Hezekiah and the inhabitants of Jerusalem from the hand of Sennacherib the king of Assyria,  
 and from the hand of all others, and guided them on every side.
 
 ## 2 Chronicles 32:23
@@ -136,18 +136,18 @@ so that he was exalted in the sight of all the nations thereafter.
 
 ## 2 Chronicles 32:24
 
-In those days Hezekiah became mortally ill; and he prayed to the Lord,  
+In those days Hezekiah became seriously ill; and he prayed to the Lord,  
 and the Lord spoke to him and gave him a sign.
 
 ## 2 Chronicles 32:25
 
-But Hezekiah gave no return for the benefit he received, because his heart was proud;  
+But Hezekiah did not respond appropriately to the benefit he received, because his heart was proud;  
 therefore wrath came on him and on Judah and Jerusalem.
 
 ## 2 Chronicles 32:26
 
-However, Hezekiah humbled the pride of his heart, both he and the inhabitants of Jerusalem,  
-so that the wrath of the Lord did not come on them in the days of Hezekiah.
+Nevertheless, Hezekiah and the inhabitants of Jerusalem humbled themselves,  
+and thus the wrath of the Lord did not come upon them during Hezekiah's lifetime.
 
 ---
 
@@ -168,7 +168,7 @@ because God had given him very great wealth.
 
 It was Hezekiah who stopped the upper outlet of the waters of Gihon  
 and directed them to the west side of the city of David.  
-And Hezekiah was successful in everything that he did.
+And Hezekiah succeeded in everything that he did.
 
 ## 2 Chronicles 32:31
 
@@ -181,7 +181,7 @@ God left him alone only to test him, so that He might know everything that was i
 ## 2 Chronicles 32:32
 
 Now the rest of the acts of Hezekiah and his deeds of devotion, behold,  
-they are written in the vision of Isaiah the prophet, the son of Amoz,  
+they are recorded in the vision of Isaiah the prophet, the son of Amoz,  
 in the Book of the Kings of Judah and Israel.
 
 ## 2 Chronicles 32:33

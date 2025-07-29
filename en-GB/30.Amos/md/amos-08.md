@@ -66,9 +66,9 @@ The Lord has sworn by the pride of Jacob:
 
 ## Amos 8:12
 
-> People will stagger from sea to sea
-> and wander from north to east,
-> searching for the word of the Lord,
+> People will roam from sea to sea
+> and journey from north to east,
+> seeking the word of the Lord,
 > but they will not find it.
 
 ## Amos 8:13

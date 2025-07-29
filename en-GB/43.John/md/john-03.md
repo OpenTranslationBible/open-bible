@@ -70,7 +70,7 @@ For God so loved the world that He gave His only Son, that whoever believes in H
 
 ## John 3:17
 
-For God did not send His Son into the world to pass judgement on the world, but to bring salvation to the world through Him.
+For God did not send His Son into the world to pass judgement on the world, but to save the world through Him.
 
 ## John 3:18
 

@@ -8,16 +8,16 @@ and from the hand of Saul.
 
 ## 2 Samuel 22:2
 
-He said:
+He declared:
 
-> “The Lord is my rock and my fortress and my deliverer;
+> “The Lord is my rock, my fortress, and my deliverer;
 
 ## 2 Samuel 22:3
 
-> My God, my rock, in whom I take refuge,  
+> My God, my rock, in whom I find safety,  
 > My shield and the horn of my salvation,  
 > My stronghold and my refuge;  
-> My saviour, you save me from violence.
+> My saviour, you protect me from harm.
 
 ## 2 Samuel 22:4
 
@@ -28,12 +28,12 @@ He said:
 
 ## 2 Samuel 22:5
 
-> For the waves of death encompassed me,  
-> The torrents of destruction overwhelmed me;
+> For the waves of death surrounded me,  
+> The torrents of destruction swept over me;
 
 ## 2 Samuel 22:6
 
-> The cords of Sheol surrounded me;  
+> The cords of Sheol encircled me;  
 > The snares of death confronted me.
 
 ## 2 Samuel 22:7
@@ -41,7 +41,7 @@ He said:
 > In my distress I called upon the Lord,  
 > Yes, I called to my God;  
 > From His temple He heard my voice,  
-> And my cry for help came into His ears.
+> And my cry for help reached His ears.
 
 ---
 
@@ -59,38 +59,38 @@ He said:
 
 ## 2 Samuel 22:10
 
-> He bowed the heavens also, and came down  
-> With thick darkness under His feet.
+> He bent the heavens and descended  
+> With thick darkness beneath His feet.
 
 ## 2 Samuel 22:11
 
-> He rode on a cherub and flew;  
-> He appeared on the wings of the wind.
+> He rode upon a cherub and flew;  
+> He soared on the wings of the wind.
 
 ## 2 Samuel 22:12
 
-> He made darkness canopies around Him,  
-> A mass of waters, thick clouds of the sky.
+> He made darkness His canopy around Him,  
+> A gathering of waters, thick clouds of the sky.
 
 ## 2 Samuel 22:13
 
-> From the brightness before Him  
-> Coals of fire were kindled.
+> From the radiance before Him  
+> Coals of fire were ignited.
 
 ## 2 Samuel 22:14
 
 > The Lord thundered from heaven,  
-> And the Most High uttered His voice.
+> And the Most High raised His voice.
 
 ## 2 Samuel 22:15
 
-> He sent out arrows and scattered them,  
-> Lightning, and routed them.
+> He sent forth arrows and scattered them,  
+> Lightning, and put them to flight.
 
 ## 2 Samuel 22:16
 
-> Then the channels of the sea appeared,  
-> The foundations of the world were laid bare  
+> Then the channels of the sea were revealed,  
+> The foundations of the world were uncovered  
 > By the rebuke of the Lord,  
 > At the blast of the breath of His nostrils.
 
@@ -103,18 +103,18 @@ He said:
 
 ## 2 Samuel 22:18
 
-> He delivered me from my strong enemy,  
-> From those who hated me, for they were too mighty for me.
+> He rescued me from my powerful enemy,  
+> From those who hated me, for they were too strong for me.
 
 ## 2 Samuel 22:19
 
-> They confronted me in the day of my disaster,  
+> They confronted me in my time of calamity,  
 > But the Lord was my support.
 
 ## 2 Samuel 22:20
 
-> He brought me out into a broad place;  
-> He rescued me, because He delighted in me.
+> He brought me out into a spacious place;  
+> He saved me, because He delighted in me.
 
 ---
 
@@ -125,8 +125,8 @@ He said:
 
 ## 2 Samuel 22:22
 
-> For I have kept the ways of the Lord,  
-> And have not acted wickedly against my God.
+> For I have followed the ways of the Lord,  
+> And have not turned away from my God.
 
 ## 2 Samuel 22:23
 
@@ -157,8 +157,8 @@ He said:
 
 ## 2 Samuel 22:28
 
-> And You save an afflicted people,  
-> But Your eyes are on the haughty, whom You bring down.
+> And You save a humble people,  
+> But Your eyes are on the proud, whom You bring down.
 
 ---
 
@@ -169,61 +169,61 @@ He said:
 
 ## 2 Samuel 22:30
 
-> For by You I can run at a troop of warriors;  
+> For by You I can charge against a troop;  
 > By my God I can leap over a wall.
 
 ## 2 Samuel 22:31
 
-> As for God, His way is blameless;  
+> As for God, His way is perfect;  
 > The word of the Lord is pure;  
 > He is a shield to all who take refuge in Him.
 
 ## 2 Samuel 22:32
 
-> For who is God, except the Lord?  
-> And who is a rock, except our God?
+> For who is God, if not the Lord?  
+> And who is a rock, if not our God?
 
 ## 2 Samuel 22:33
 
-> God is my strong fortress;  
-> And He makes my way blameless.
+> God is my stronghold;  
+> And He makes my path straight.
 
 ## 2 Samuel 22:34
 
-> He makes my feet like deer’s feet,  
+> He makes my feet like the feet of deer,  
 > And sets me on high places.
 
 ## 2 Samuel 22:35
 
-> He trains my hands for battle,  
+> He prepares my hands for battle,  
 > So that my arms can bend a bow of bronze.
 
 ## 2 Samuel 22:36
 
 > You have also given me the shield of Your salvation,  
-> And Your help makes me great.
+> And Your support makes me great.
 
 ## 2 Samuel 22:37
 
-> You enlarge my steps under me,  
+> You broaden my path beneath me,  
 > And my feet have not slipped.
 
 ---
 
 ## 2 Samuel 22:38
 
-> I pursued my enemies and destroyed them,  
-> And I did not turn back until they were consumed.
+> I pursued my enemies and defeated them,  
+> And I did not turn back until they were destroyed.
 
 ## 2 Samuel 22:39
 
-> I have devoured them and shattered them,  
+> I have consumed them and shattered them,  
 > So that they did not rise;  
 > They fell under my feet.
 
 ## 2 Samuel 22:40
 
-> For You have girded me with strength for battle;  
+> For You have equipped me with strength for battle;  
 > You have subdued under me those who rose up against me.
 
 ## 2 Samuel 22:41
@@ -238,48 +238,48 @@ He said:
 
 ## 2 Samuel 22:43
 
-> Then I pulverised them like the dust of the earth;  
-> I crushed them and stamped them like the mud of the streets.
+> Then I crushed them like the dust of the earth;  
+> I pulverised them and stamped them like the mud of the streets.
 
 ---
 
 ## 2 Samuel 22:44
 
-> You have rescued me from the contentions of my people;  
+> You have rescued me from the disputes of my people;  
 > You have kept me as head of the nations;  
 > A people I have not known serve me.
 
 ## 2 Samuel 22:45
 
-> Foreigners pretend obedience to me;  
+> Foreigners feign obedience to me;  
 > As soon as they hear, they obey me.
 
 ## 2 Samuel 22:46
 
 > Foreigners lose heart,  
-> And come trembling out of their fortresses.
+> And come trembling out of their strongholds.
 
 ---
 
 ## 2 Samuel 22:47
 
 > The Lord lives, and blessed be my rock;  
-> And exalted be my God, the rock of my salvation,
+> And exalted be my God, the foundation of my salvation,
 
 ## 2 Samuel 22:48
 
-> The God who executes vengeance for me,  
+> The God who brings vengeance for me,  
 > And brings down peoples under me,
 
 ## 2 Samuel 22:49
 
-> Who also brings me out from my enemies;  
+> Who also delivers me from my enemies;  
 > You even lift me above those who rise up against me;  
-> You rescue me from the violent man.
+> You save me from the violent man.
 
 ## 2 Samuel 22:50
 
-> Therefore I will give thanks to You, Lord, among the nations,  
+> Therefore I will express my gratitude to You, Lord, among the nations,  
 > And I will sing praises to Your name.
 
 ## 2 Samuel 22:51

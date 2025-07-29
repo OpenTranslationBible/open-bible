@@ -73,12 +73,12 @@ Instead, this is what was foretold through the prophet Joel:
 > ‘In the last days,’ says God,
 > ‘I will pour out my Spirit on all people;
 > your sons and daughters will prophesy,
-> your young men will see visions, a
-> nd your old men will dream dreams.
+> your young men will see visions,
+> and your old men will dream dreams.
 
 ## Acts 2:18
 
-> Even on my servants, both men and women,
+> On my servants, both men and women,
 > I will pour out my Spirit in those days,
 > and they will prophesy.
 
@@ -90,14 +90,14 @@ Instead, this is what was foretold through the prophet Joel:
 
 ## Acts 2:20
 
-> The sun will be turned to darkness
-> and the moon to blood
+> The sun will become dark
+> and the moon will turn to blood
 > before the coming of the great and glorious day of the Lord.
 
 ## Acts 2:21
 
-> And everyone who calls on the name of the Lord
-> will be saved.’
+> And everyone who calls upon the name of the Lord
+> will find salvation.’
 
 ---
 
@@ -115,15 +115,15 @@ Yet God raised him from the dead, releasing him from the agony of death, because
 
 ## Acts 2:25
 
-David said about him:
+David spoke concerning him:
 
 > ‘I saw the Lord always before me.
 > Because he is at my right hand, I will not be shaken.
 
 ## Acts 2:26
 
-> Therefore my heart is glad and my tongue rejoices;
-> my body also will rest in hope,
+> Therefore my heart is joyful and my tongue exults;
+> and my body will rest in hope,
 
 ## Acts 2:27
 
@@ -132,7 +132,7 @@ David said about him:
 
 ## Acts 2:28
 
-> You have made known to me the paths of life;
+> You have revealed to me the paths of life;
 > you will fill me with joy in your presence.’
 
 ---
@@ -161,13 +161,13 @@ Exalted to the right hand of God, he has received from the Father the promised H
 
 For David did not ascend to heaven, and yet he said,
 
-> ‘The Lord said to my Lord:
+> ‘The Lord declared to my Lord:
 > “Sit at my right hand
 
 ## Acts 2:35
 
-> until I make your enemies
-> a footstool for your feet.”’
+> until I place your enemies
+> under your feet.”’
 
 ## Acts 2:36
 

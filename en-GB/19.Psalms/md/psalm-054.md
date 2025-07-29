@@ -9,16 +9,16 @@
 
 ## Psalm 54:2
 
-> Hear my prayer, God;  
-> Listen to the words of my mouth.
+> Attend to my prayer, God;  
+> Give ear to the words I speak.
 
 ---
 
 ## Psalm 54:3
 
-> For strangers have risen against me,  
-> And violent men have sought my life;  
-> They have not set God before them.
+> For outsiders have risen against me,  
+> And ruthless men have sought my life;  
+> They have not placed God before them.
 
 > Selah
 
@@ -26,24 +26,24 @@
 
 ## Psalm 54:4
 
-> Behold, God is my helper;  
-> The Lord is the sustainer of my soul.
+> Indeed, God is my helper;  
+> The Lord is the upholder of my soul.
 
 ---
 
 ## Psalm 54:5
 
-> He will pay back the evil to my enemies;  
-> Destroy them in Your faithfulness.
+> He will repay the evil to my enemies;  
+> In Your faithfulness, bring them down.
 
 ---
 
 ## Psalm 54:6
 
-> Willingly I will sacrifice to You;  
-> I will praise Your name, Lord, for it is good.
+> Freely I will offer sacrifices to You;  
+> I will extol Your name, Lord, for it is good.
 
 ## Psalm 54:7
 
-> For He has saved me from all trouble,  
-> And my eye has looked with satisfaction upon my enemies.
+> For He has delivered me from all distress,  
+> And my eye has gazed with satisfaction upon my foes.

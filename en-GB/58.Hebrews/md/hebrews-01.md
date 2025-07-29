@@ -18,7 +18,7 @@ Thus, He became as much superior to the angels as the name He has inherited is m
 
 ## Hebrews 1:5
 
-For to which of the angels did God ever say,
+For to which of the angels did God ever declare,
 
 > “You are My Son; today
 > I have become Your Father”?
@@ -30,7 +30,7 @@ Or again,
 
 ## Hebrews 1:6
 
-And again, when God brings His firstborn into the world, He says,
+And once more, when God introduces His firstborn into the world, He proclaims,
 
 > “Let all God's angels worship Him.”
 
@@ -56,26 +56,26 @@ But about the Son, He says,
 
 ## Hebrews 1:10
 
-He also says,
+He also declares,
 
-> “In the beginning, Lord, You laid the foundations of the earth,
+> “In the beginning, Lord, You established the foundations of the earth,
 > and the heavens are the work of Your hands.
 
 ## Hebrews 1:11
 
-> They will perish, but You remain;
-> they will all wear out like a garment.
+> They will pass away, but You remain;
+> they will all age like clothing.
 
 ## Hebrews 1:12
 
-> You will roll them up like a robe;
-> like a garment, they will be changed.
-> But You remain the same,
+> You will fold them up like a cloak;
+> like clothing, they will be altered.
+> But You remain unchanged,
 > and Your years will never end.”
 
 ## Hebrews 1:13
 
-To which of the angels did God ever say,
+To which of the angels did God ever declare,
 
 > “Sit at My right hand
 > until I make Your enemies

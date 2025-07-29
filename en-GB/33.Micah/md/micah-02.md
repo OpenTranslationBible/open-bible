@@ -2,10 +2,10 @@
 
 ## Micah 2:1
 
-> Woe to those who devise wrongdoing,  
-> Who practice evil on their beds!  
-> When morning comes, they do it,  
-> Because it is in the power of their hands.
+> Alas for those who plan mischief,  
+> Who plot evil while in bed!  
+> When dawn arrives, they carry it out,  
+> Because it is within their power to do so.
 
 ## Micah 2:2
 
@@ -38,9 +38,9 @@
 
 ## Micah 2:6
 
-> ‘Do not prophesy,’ so they prophesy.  
-> But if they do not prophesy about these things,  
-> Insults will not be turned back.”
+> ‘Do not prophesy,’ they say.  
+> Yet if they refrain from prophesying about these matters,  
+> Your disgrace will not be turned back.”
 
 ## Micah 2:7
 
@@ -52,9 +52,9 @@
 
 ## Micah 2:8
 
-> Recently My people have arisen as an enemy—  
-> You strip the robe off the garment  
-> From unsuspecting passers-by,  
+> Lately, My people have risen as enemies—  
+> You strip the robe from the clothes  
+> Of unsuspecting passers-by,  
 > From those returned from war.
 
 ## Micah 2:9
@@ -73,8 +73,8 @@
 
 ## Micah 2:11
 
-> If someone walking after wind and falsehood had lied and said,  
-> “I will prophesy to you about wine and liquor,”  
+> If someone walking after the wind, were to lie and say,  
+> “I will prophesy to you about wine and strong drink,”  
 > He would become a prophet to this people.
 
 ## Micah 2:12
@@ -87,7 +87,7 @@
 
 ## Micah 2:13
 
-> The one who breaks through goes up before them;  
+> The one who opens the way goes up before them;  
 > They break through, pass through the gate, and go out by it.  
-> So their king passes on before them,  
-> And the Lord at their head.
+> So their king advances before them,  
+> And the Lord leads them.”

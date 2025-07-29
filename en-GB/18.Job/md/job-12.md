@@ -48,8 +48,8 @@ Then Job responded, saying,
 
 ## Job 12:9
 
-> Who among all these does not know
-> that the hand of the Lord has done this?
+> Who among all these does not accept
+> that the hand of the Lord is responsible for this?
 
 ## Job 12:10
 
@@ -63,8 +63,8 @@ Then Job responded, saying,
 
 ## Job 12:12
 
-> Wisdom is with the aged,
-> and with long life comes understanding.
+> Wisdom is found with the aged,
+> and understanding comes with long life.
 
 ---
 

@@ -52,10 +52,10 @@ For whoever has, more will be given, and they will have an abundance. Whoever do
 
 ## Matthew 13:13
 
-This is why I speak to them in parables: because
+The reason I speak to them in parables is that
 
-> seeing they do not see,
-> and hearing they do not hear,
+> although they look, they do not see;
+> although they hear, they do not listen;
 > nor do they understand.
 
 ## Matthew 13:14

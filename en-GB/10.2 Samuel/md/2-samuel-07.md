@@ -2,12 +2,12 @@
 
 ## 2 Samuel 7:1
 
-Now it came about, when the king lived in his house,  
-and the Lord had given him rest on every side from all his enemies,
+Once the king was settled in his house,  
+and the Lord had granted him peace from all his enemies on every side,
 
 ## 2 Samuel 7:2
 
-that the king said to Nathan the prophet,  
+the king said to Nathan the prophet,  
 “See now, I live in a house of cedar, but the ark of God dwells within tent curtains.”
 
 ## 2 Samuel 7:3
@@ -23,9 +23,9 @@ However, that night, the word of the Lord came to Nathan, saying,
 
 ## 2 Samuel 7:5
 
-“Go and say to My servant David,  
+“Go and tell My servant David,  
 ‘This is what the Lord says:  
-Should you build Me a house for My dwelling?
+Is it you who should build Me a house to dwell in?
 
 ## 2 Samuel 7:6
 
@@ -43,10 +43,10 @@ whom I commanded to shepherd My people Israel, saying,
 
 ## 2 Samuel 7:8
 
-Now then, this is what you shall say to My servant David:  
-‘This is what the Lord of armies says:  
-I Myself took you from the pasture, from following the sheep,  
-to be leader over My people Israel.
+Therefore, you shall say to My servant David:  
+‘This is what the Lord of hosts says:  
+I took you from the pasture, from tending the sheep,  
+to be ruler over My people Israel.
 
 ## 2 Samuel 7:9
 
@@ -63,19 +63,19 @@ nor will the wicked afflict them any more as previously,
 
 ## 2 Samuel 7:11
 
-even from the day that I appointed judges over My people Israel;  
-and I will give you rest from all your enemies.  
-The Lord also declares to you that the Lord will make a house for you.
+from the time I appointed judges over My people Israel;  
+and I will give you peace from all your enemies.  
+The Lord also declares to you that He will establish a house for you.
 
 ## 2 Samuel 7:12
 
-When your days are finished and you lie down with your fathers,  
+When your days are complete and you rest with your ancestors,  
 I will raise up your descendant after you, who will come from you, and I will establish his kingdom.
 
 ## 2 Samuel 7:13
 
-He shall build a house for My name,  
-and I will establish the throne of his kingdom forever.
+He will construct a house for My name,  
+and I will secure the throne of his kingdom for all time.
 
 ## 2 Samuel 7:14
 
@@ -89,13 +89,12 @@ as I took it away from Saul, whom I removed from you.
 
 ## 2 Samuel 7:16
 
-Your house and your kingdom shall endure before Me forever;  
-your throne shall be established forever.’”
+Your house and your kingdom shall stand firm before Me perpetually;  
+your throne shall be secured for all time.’”
 
 ## 2 Samuel 7:17
 
-In accordance with all these words and all this vision,  
-so Nathan spoke to David.
+Nathan relayed all these words and this vision to David.
 
 ---
 
@@ -112,17 +111,17 @@ And this is the custom of humanity, Lord God.
 
 ## 2 Samuel 7:20
 
-Again, what more can David say to You?  
+Moreover, what more can David say to You?  
 For You know Your servant, Lord God!
 
 ## 2 Samuel 7:21
 
-For the sake of Your word, and according to Your own heart,  
-You have done all this greatness, to let Your servant know.
+For the sake of Your promise, and according to Your own heart,  
+You have performed all this greatness, to let Your servant understand.
 
 ## 2 Samuel 7:22
 
-For this reason You are great, Lord God;  
+Therefore, You are great, Lord God;  
 for there is no one like You, and there is no God except You,  
 according to all that we have heard with our ears.
 
@@ -149,12 +148,12 @@ confirm it forever, and do just as You have spoken,
 ## 2 Samuel 7:26
 
 so that Your name may be great forever,  
-by saying, ‘The Lord of armies is God over Israel’;  
+by declaring, ‘The Lord of hosts is God over Israel’;  
 and may the house of Your servant David be established before You.
 
 ## 2 Samuel 7:27
 
-For You, Lord of armies, God of Israel, have given a revelation to Your servant, saying,  
+For You, Lord of hosts, God of Israel, have revealed to Your servant, saying,  
 ‘I will build you a house’;  
 therefore Your servant has found courage to pray this prayer to You.
 
@@ -162,11 +161,11 @@ therefore Your servant has found courage to pray this prayer to You.
 
 Now then, Lord God, You are God,  
 and Your words are truth,  
-and You have promised this good thing to Your servant.
+and You have pledged this good thing to Your servant.
 
 ## 2 Samuel 7:29
 
 And now, may it please You to bless the house of Your servant,  
-so that it may continue forever before You.  
+so that it may endure perpetually before You.  
 For You, Lord God, have spoken;  
-and with Your blessing may the house of Your servant be blessed forever.”
+and with Your blessing may the house of Your servant be blessed for all time.”

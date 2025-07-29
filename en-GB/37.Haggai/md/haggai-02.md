@@ -56,8 +56,8 @@ On the twenty-fourth day of the ninth month, in the second year of Darius, the w
 
 ## Haggai 2:11
 
-> “Thus says the Lord of hosts:
-> ‘Ask the priests for a ruling:
+> “This is what the Lord of hosts says:
+> ‘Consult the priests for guidance:
 
 ## Haggai 2:12
 
@@ -92,14 +92,14 @@ Then Haggai said,
 
 ## Haggai 2:16
 
-> When anyone came to a heap of twenty measures,
+> When anyone came to a heap expecting twenty measures,
 > there were only ten.
 > When anyone went to a wine vat to draw fifty measures,
 > there were only twenty.
 
 ## Haggai 2:17
 
-> I struck all the work of your hands
+> I afflicted all the work of your hands
 > with blight, mildew, and hail,
 > yet you did not return to me,’ declares the Lord.
 
@@ -123,8 +123,8 @@ The word of the Lord came to Haggai a second time on the twenty-fourth day of th
 
 ## Haggai 2:21
 
-> “Speak to Zerubbabel, governor of Judah, saying,
-> ‘I am going to shake the heavens and the earth.
+> “Address Zerubbabel, governor of Judah, with this message:
+> ‘I am soon to shake the heavens and the earth.
 
 ## Haggai 2:22
 

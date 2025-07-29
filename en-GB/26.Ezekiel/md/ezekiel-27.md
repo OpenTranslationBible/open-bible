@@ -148,7 +148,7 @@ In your marketplace they traded with you in choice garments, blue fabric, embroi
 
 ## Ezekiel 27:29
 
-> All who handle the oars
+> All those who manage the oars
 > will abandon their ships;
 > the mariners and all the sailors
 > will stand on the shore.
@@ -176,10 +176,10 @@ In your marketplace they traded with you in choice garments, blue fabric, embroi
 
 ## Ezekiel 27:33
 
-> When your merchandise went out on the seas,
-> you satisfied many nations;
+> When your merchandise sailed across the seas,
+> you brought great trade to many nations;
 > with your great wealth and your wares
-> you enriched the kings of the earth.
+> you brought prosperity to the kings of the earth.
 
 ## Ezekiel 27:34
 

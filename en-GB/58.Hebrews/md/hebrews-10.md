@@ -18,7 +18,7 @@ For the blood of bulls and goats cannot remove sins.
 
 ## Hebrews 10:5
 
-Therefore, when Christ came into the world, he said:
+Thus, when Christ entered the world, he declared:
 
 > “Sacrifice and offering you did not desire,
 > but a body you prepared for me;
@@ -74,7 +74,7 @@ The Holy Spirit also bears witness to us regarding this. First he says:
 
 ## Hebrews 10:17
 
-Then he adds:
+He then continues:
 
 > “Their sins and lawless acts
 > I will remember no more.”

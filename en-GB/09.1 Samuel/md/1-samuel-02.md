@@ -41,8 +41,8 @@ Then Hannah prayed and said:
 
 ## 1 Samuel 2:7
 
-> The Lord makes poor and makes rich;  
-> He brings low and He lifts up.
+> The Lord humbles and enriches;  
+> He lowers and He elevates.
 
 ## 1 Samuel 2:8
 

@@ -2,115 +2,115 @@
 
 ## Psalm 116:1
 
-> I love the Lord, because He hears  
-> My voice and my pleas.
+> I love the Lord, for He listens  
+> To my voice and my supplications.
 
 ## Psalm 116:2
 
-> Because He has inclined His ear to me,  
-> Therefore I will call upon Him as long as I live.
+> Since He has turned His ear towards me,  
+> I will therefore call upon Him throughout my days.
 
 ---
 
 ## Psalm 116:3
 
-> The snares of death encompassed me  
-> And the terrors of Sheol came upon me;  
-> I found distress and sorrow.
+> The traps of death surrounded me  
+> And the terrors of the grave overtook me;  
+> I encountered distress and sorrow.
 
 ## Psalm 116:4
 
-> Then I called upon the name of the Lord:  
-> “Please, Lord, save my life!”
+> Then I invoked the name of the Lord:  
+> “Please, Lord, preserve my life!”
 
 ---
 
 ## Psalm 116:5
 
-> Gracious is the Lord, and righteous;  
-> Yes, our God is compassionate.
+> The Lord is gracious and righteous;  
+> Indeed, our God is full of compassion.
 
 ## Psalm 116:6
 
-> The Lord watches over the naive;  
-> I was brought low, and He saved me.
+> The Lord protects the simple-hearted;  
+> I was brought low, and He delivered me.
 
 ---
 
 ## Psalm 116:7
 
-> Return to your rest, my soul,  
-> For the Lord has dealt generously with you.
+> Return to your peace, my soul,  
+> For the Lord has been generous to you.
 
 ## Psalm 116:8
 
 > For You have rescued my soul from death,  
-> My eyes from tears,  
-> My feet from stumbling.
+> My eyes from weeping,  
+> My feet from faltering.
 
 ## Psalm 116:9
 
-> I shall walk before the Lord  
-> In the land of the living.
+> I will walk before the Lord  
+> In the realm of the living.
 
 ---
 
 ## Psalm 116:10
 
-> I believed when I said,  
+> I trusted even when I said,  
 > “I am greatly afflicted.”
 
 ## Psalm 116:11
 
-> I said in my alarm,  
-> “All people are liars.”
+> I declared in my dismay,  
+> “All people are deceitful.”
 
 ---
 
 ## Psalm 116:12
 
-> What shall I repay to the Lord  
-> For all His benefits to me?
+> How can I repay the Lord  
+> For all His goodness to me?
 
 ---
 
 ## Psalm 116:13
 
-> I will lift up the cup of salvation,  
-> And call upon the name of the Lord.
+> I will raise the cup of salvation,  
+> And invoke the name of the Lord.
 
 ## Psalm 116:14
 
-> I will pay my vows to the Lord  
-> In the presence of all His people.
+> I will keep my promises to the Lord  
+> In the assembly of His people.
 
 ---
 
 ## Psalm 116:15
 
-> Precious in the sight of the Lord  
-> Is the death of His godly ones.
+> Precious in the eyes of the Lord  
+> Is the passing of His faithful ones.
 
 ## Psalm 116:16
 
-> Lord, I am indeed Your servant;  
-> I am Your servant, the son of Your female servant,  
-> You have untied my restraints.
+> Lord, I am truly Your servant;  
+> I am Your servant, the child of Your maidservant,  
+> You have freed me from my bonds.
 
 ---
 
 ## Psalm 116:17
 
-> To You I shall offer a sacrifice of thanksgiving,  
-> And call upon the name of the Lord.
+> To You I will offer a sacrifice of thanksgiving,  
+> And invoke the name of the Lord.
 
 ## Psalm 116:18
 
-> I will pay my vows to the Lord  
-> In the presence of all His people,
+> I will keep my promises to the Lord  
+> In the assembly of His people.
 
 ## Psalm 116:19
 
-> In the courtyards of the Lord’s house,  
+> In the courts of the Lord’s house,  
 > In the midst of you, Jerusalem.  
 > Praise the Lord!

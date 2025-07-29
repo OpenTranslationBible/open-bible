@@ -4,18 +4,18 @@
 
 ## Psalm 76:1
 
-> God is known in Judah;  
-> His name is great in Israel.
+> God is revered in Judah;  
+> His name holds great renown in Israel.
 
 ## Psalm 76:2
 
-> His tabernacle is in Salem;  
-> His dwelling place also is in Zion.
+> His sanctuary is in Salem;  
+> His abode is also in Zion.
 
 ## Psalm 76:3
 
-> There He broke the flaming arrows,  
-> The shield, the sword, and the weapons of war.
+> There He shattered the fiery arrows,  
+> The shield, the sword, and the implements of war.
 
 > Selah
 
@@ -28,47 +28,47 @@
 
 ## Psalm 76:5
 
-> The stout-hearted were plundered,  
-> They sank into sleep;  
-> And none of the warriors could use his hands.
+> The courageous were despoiled,  
+> They fell into slumber;  
+> And none of the warriors could wield his hands.
 
 ## Psalm 76:6
 
 > At Your rebuke, God of Jacob,  
-> Both rider and horse were cast into a dead sleep.
+> Both rider and horse were plunged into a deep sleep.
 
 ---
 
 ## Psalm 76:7
 
-> You, You indeed are to be feared,  
-> And who may stand in Your presence, once You are angry?
+> You, You indeed are to be revered,  
+> And who may stand in Your presence, when You are provoked?
 
 ## Psalm 76:8
 
-> You caused judgment to be heard from heaven;  
-> The earth feared and was still,
+> You made judgment resound from heaven;  
+> The earth trembled and was still,
 
 ## Psalm 76:9
 
-> When God arose to judgment,  
-> To save all the humble of the earth.
+> When God rose to execute judgment,  
+> To deliver all the humble of the earth.
 
 > Selah
 
 ## Psalm 76:10
 
-> For the wrath of mankind shall praise You;  
-> You will encircle Yourself with a remnant of wrath.
+> For the fury of mankind shall extol You;  
+> You will gird Yourself with the remainder of wrath.
 
 ---
 
 ## Psalm 76:11
 
 > Make vows to the Lord your God and fulfill them;  
-> All who are around Him are to bring gifts to Him who is to be feared.
+> All who are near Him are to present gifts to Him who is to be revered.
 
 ## Psalm 76:12
 
-> He will cut off the spirit of princes;  
-> He is feared by the kings of the earth.
+> He will humble the spirit of princes;  
+> He is revered by the kings of the earth.

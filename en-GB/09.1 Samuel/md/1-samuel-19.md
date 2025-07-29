@@ -16,16 +16,16 @@ I will go out and stand beside my father in the field where you are, and I will 
 
 ## 1 Samuel 19:4
 
-Then Jonathan spoke well of David to Saul his father and said to him,  
-“May the king not sin against his servant David, since he has not sinned against you,  
-and since his deeds have been very beneficial to you.
+Then Jonathan spoke favourably of David to Saul his father and said to him,  
+“May the king not act unjustly against his servant David, since he has not wronged you,  
+and since his actions have been very beneficial to you.
 
 ## 1 Samuel 19:5
 
 For he took his life in his hand and struck the Philistine,  
 and the Lord brought about a great victory for all Israel.  
 You saw it and rejoiced.  
-Why then would you sin against innocent blood by putting David to death without a cause?”
+Why then would you act against innocent blood by putting David to death without a cause?”
 
 ## 1 Samuel 19:6
 
@@ -98,9 +98,9 @@ It was reported to Saul, saying, “Behold, David is at Naioth in Ramah.”
 
 ## 1 Samuel 19:20
 
-Then Saul sent messengers to take David,  
-but when they saw the company of prophets prophesying with Samuel standing and presiding over them,  
-the Spirit of God came upon the messengers of Saul, and they also prophesied.
+Then Saul sent messengers to capture David,  
+but when they saw the company of prophets prophesying, with Samuel standing and leading them,  
+the Spirit of God came upon the messengers of Saul, and they too prophesied.
 
 ## 1 Samuel 19:21
 
@@ -115,8 +115,8 @@ Someone said, “Behold, they are at Naioth in Ramah.”
 
 ## 1 Samuel 19:23
 
-So he went there to Naioth in Ramah.  
-And the Spirit of God came upon him also, so that he went along prophesying continually until he came to Naioth in Ramah.
+So he went to Naioth in Ramah.  
+And the Spirit of God came upon him as well, so that he went along prophesying continually until he arrived at Naioth in Ramah.
 
 ## 1 Samuel 19:24
 

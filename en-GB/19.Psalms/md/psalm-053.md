@@ -12,28 +12,28 @@
 
 ## Psalm 53:2
 
-> God has looked down from heaven upon the sons of mankind  
-> To see if there is anyone who understands,  
+> God observed from heaven upon humanity  
+> To see if there is anyone who possesses understanding,  
 > Who seeks after God.
 
 ## Psalm 53:3
 
-> Every one of them has turned aside; together they have become corrupt;  
+> All have turned aside; together they have become corrupt;  
 > There is no one who does good, not even one.
 
 ---
 
 ## Psalm 53:4
 
-> Have the workers of injustice no knowledge,
+> Do the workers of injustice lack knowledge,
 
-> Who eat up My people like they ate bread,  
+> Who consume My people as they would bread,  
 > And have not called upon God?
 
 ## Psalm 53:5
 
-> They were in great fear there, where no fear had been;  
-> For God scattered the bones of him who encamped against you;  
+> They were in great fear where there was no cause for fear;  
+> For God scattered the bones of those who encamped against you;  
 > You put them to shame, because God had rejected them.
 
 ---

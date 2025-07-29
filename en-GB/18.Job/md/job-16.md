@@ -6,8 +6,8 @@ Job responded, saying,
 
 ## Job 16:2
 
-> “I have heard many things like these;
-> you are all miserable comforters!
+> “I have listened to much of this;
+> you are all ineffective comforters!
 
 ## Job 16:3
 
@@ -101,8 +101,8 @@ Job responded, saying,
 
 ## Job 16:19
 
-> Even now, my witness is in heaven;
-> my advocate is on high.
+> Yet, my witness is in the heavens;
+> my advocate resides on high.
 
 ## Job 16:20
 

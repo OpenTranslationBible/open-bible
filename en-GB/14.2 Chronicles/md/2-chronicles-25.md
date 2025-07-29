@@ -2,8 +2,8 @@
 
 ## 2 Chronicles 25:1
 
-Amaziah was twenty-five years old when he became king, and he reigned for twenty-nine years in Jerusalem.  
-And his mother’s name was Jehoaddan of Jerusalem.
+Amaziah was twenty-five years old when he began his reign, and he ruled for twenty-nine years in Jerusalem.  
+His mother was Jehoaddan of Jerusalem.
 
 ---
 
@@ -44,7 +44,7 @@ He also engaged a hundred thousand brave warriors from Israel for a hundred tale
 
 ## 2 Chronicles 25:7
 
-But a man of God came to him, saying,  
+However, a man of God came to him, saying,  
 “O king, do not let the army of Israel go with you,  
 for the Lord is not with Israel, nor with any of the sons of Ephraim.
 
@@ -62,7 +62,7 @@ for God has power to help and to bring down.”
 Amaziah said to the man of God,  
 “But what are we to do about the hundred talents which I have given to the troops of Israel?”  
 And the man of God answered,  
-“The Lord has much more to give you than this.”
+“The Lord has much more to provide you than this.”
 
 ---
 
@@ -83,7 +83,7 @@ and he went to the Valley of Salt and struck the sons of Seir, 10,000 of them.
 ## 2 Chronicles 25:12
 
 The sons of Judah also captured 10,000 alive and brought them to the top of the cliff,  
-and threw them down from the top of the cliff so that they were all dashed to pieces.
+and cast them down from the top of the cliff so that they were all dashed to pieces.
 
 ---
 
@@ -96,7 +96,7 @@ raided the cities of Judah from Samaria to Beth-horon, and struck 3,000 of them 
 
 ## 2 Chronicles 25:14
 
-Now after Amaziah came from slaughtering the Edomites,  
+After Amaziah returned from defeating the Edomites,  
 he brought the gods of the sons of Seir, set them up as his gods,  
 bowed down before them, and burned incense to them.
 
@@ -136,10 +136,10 @@ But a wild animal that was in Lebanon passed by and trampled the thorn bush.
 
 ## 2 Chronicles 25:19
 
-You said, ‘Behold, you have defeated Edom.’  
-And your heart has become proud in boasting.  
-Now stay at home; for why should you provoke trouble so that you, even you, would fall,  
-and Judah with you?”
+You have said, ‘See, you have conquered Edom.’  
+And your heart has become proud in your boasting.  
+Now remain at home; for why should you incite trouble that would lead to your downfall,  
+and that of Judah with you?”
 
 ---
 
@@ -166,7 +166,7 @@ And Judah was overcome by Israel, and they fled, each man to his tent.
 
 Then Joash king of Israel captured Amaziah king of Judah, the son of Joash, the son of Jehoahaz,  
 at Beth-shemesh, and brought him to Jerusalem,  
-and tore down the wall of Jerusalem from the Gate of Ephraim to the Corner Gate, 400 cubits.
+and tore down the wall of Jerusalem from the Gate of Ephraim to the Corner Gate, a distance of 400 cubits.
 
 ---
 

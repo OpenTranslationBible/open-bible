@@ -120,7 +120,7 @@ so wrath came upon Judah and Jerusalem for this guilt of theirs.
 
 ## 2 Chronicles 24:19
 
-Yet He sent prophets to them to bring them back to the Lord;  
+Nevertheless, prophets were sent to them to bring them back to the Lord;  
 though they testified against them, they would not listen.
 
 ---
@@ -148,7 +148,7 @@ but he killed his son. And as he was dying, he said,
 
 ## 2 Chronicles 24:23
 
-Now it happened at the turn of the year that the army of the Arameans came up against Joash,  
+At the beginning of the year, the army of the Arameans came up against Joash,  
 and they came to Judah and Jerusalem, destroyed all the officials of the people from among the people, and sent all their spoils to the king of Damascus.
 
 ---
@@ -170,7 +170,7 @@ and they murdered him on his bed. So he died, and they buried him in the city of
 
 ## 2 Chronicles 24:26
 
-Now these are those who conspired against him:  
+These were the ones who conspired against him:  
 Zabad the son of Shimeath the Ammonitess, and Jehozabad the son of Shimrith the Moabitess.
 
 ---

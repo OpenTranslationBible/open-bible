@@ -2,10 +2,10 @@
 
 ## 1 Kings 6:1
 
-Now it came about in the four hundred and eightieth year after the sons of Israel came out of the land of Egypt,  
-in the fourth year of Solomon’s reign over Israel,  
+In the four hundred and eightieth year after the sons of Israel departed from the land of Egypt,  
+during the fourth year of Solomon’s reign over Israel,  
 in the month of Ziv (which is the second month),  
-that he began to build the house of the Lord.
+he commenced the construction of the house of the Lord.
 
 ## 1 Kings 6:2
 
@@ -76,8 +76,8 @@ which I spoke to your father David.
 
 ## 1 Kings 6:13
 
-And I will dwell among the sons of Israel,  
-and will not abandon My people Israel.”
+And I will reside among the sons of Israel,  
+and will not forsake My people Israel.”
 
 ---
 
@@ -93,35 +93,35 @@ and he overlaid the floor of the house with boards of juniper.
 
 ## 1 Kings 6:16
 
-He also built twenty cubits on the rear part of the house with boards of cedar  
+He also constructed a section of twenty cubits at the rear of the house with boards of cedar  
 from the floor to the ceiling;  
-he built them for it on the inside as an inner sanctuary,  
-as the Most Holy Place.
+he built them on the inside as an inner sanctuary,  
+known as the Most Holy Place.
 
 ## 1 Kings 6:17
 
-The house, that is, the nave in front of the inner sanctuary,  
+The nave, which is the area in front of the inner sanctuary,  
 was forty cubits long.
 
 ## 1 Kings 6:18
 
-There was cedar inside the house,  
+The interior of the house was adorned with cedar,  
 carved in the shape of gourds and open flowers;  
 everything was cedar,  
-there was no stone visible.
+and no stone was visible.
 
 ## 1 Kings 6:19
 
-Then he prepared an inner sanctuary inside the house  
-in order to place there the ark of the covenant of the Lord.
+Then he prepared an inner sanctuary within the house  
+to place the ark of the covenant of the Lord.
 
 ## 1 Kings 6:20
 
-The inner sanctuary was twenty cubits in length,  
+The inner sanctuary measured twenty cubits in length,  
 twenty cubits in width,  
 and twenty cubits in height,  
 and he overlaid it with pure gold.  
-He also overlaid the altar with cedar.
+He also covered the altar with cedar.
 
 ## 1 Kings 6:21
 
@@ -139,7 +139,7 @@ He also overlaid the entire altar that was by the inner sanctuary with gold.
 
 ## 1 Kings 6:23
 
-Also in the inner sanctuary he made two cherubim of olive wood,  
+Within the inner sanctuary, he crafted two cherubim of olive wood,  
 each ten cubits high.
 
 ## 1 Kings 6:24
@@ -156,7 +156,7 @@ both cherubim were of the same size and shape.
 ## 1 Kings 6:26
 
 The height of one cherub was ten cubits,  
-and so was the other cherub.
+and the other cherub was the same height.
 
 ## 1 Kings 6:27
 
@@ -187,8 +187,8 @@ from the inner room to the outer room.
 
 ## 1 Kings 6:31
 
-For the entrance of the inner sanctuary he made doors of olive wood,  
-the lintel and five-sided doorposts.
+For the entrance of the inner sanctuary, he made doors of olive wood,  
+with the lintel and five-sided doorposts.
 
 ## 1 Kings 6:32
 
@@ -203,8 +203,8 @@ Likewise, he crafted four-sided doorposts of olive wood for the entrance of the 
 
 ## 1 Kings 6:34
 
-and two doors of cypress wood;  
-the two leaves of the one door turned on pivots,  
+and made two doors of cypress wood;  
+the two leaves of one door turned on pivots,  
 and the two leaves of the other door turned on pivots.
 
 ## 1 Kings 6:35
@@ -216,15 +216,14 @@ and overlaid them with gold evenly applied on the carved work.
 
 ## 1 Kings 6:36
 
-And he built the inner courtyard with three rows of cut stone  
+And he constructed the inner courtyard with three rows of cut stone  
 and a row of cedar beams.
 
 ---
 
 ## 1 Kings 6:37
 
-In the fourth year the foundation of the house of the Lord was laid,  
-in the month of Ziv.
+In the fourth year, during the month of Ziv, the foundation of the house of the Lord was laid.
 
 ## 1 Kings 6:38
 

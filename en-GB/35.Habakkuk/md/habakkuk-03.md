@@ -90,8 +90,8 @@ The prayer of supplication by Habakkuk the prophet, set to Shigionoth.
 
 ## Habakkuk 3:15
 
-> You trampled the sea with Your horses,
-> churning the great waters.
+> You rode over the sea with Your horses,
+> stirring the mighty waters.
 
 ## Habakkuk 3:16
 
@@ -113,8 +113,8 @@ The prayer of supplication by Habakkuk the prophet, set to Shigionoth.
 
 ## Habakkuk 3:18
 
-> yet I will rejoice in the Lord,
-> I will be joyful in God my Saviour.
+> yet, I will find joy in the Lord,
+> I will delight in God my Saviour.
 
 ## Habakkuk 3:19
 

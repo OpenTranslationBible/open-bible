@@ -143,15 +143,15 @@ He has fulfilled for us, their children, by raising Jesus. As it is written in t
 
 ## Acts 13:34
 
-God raised Him from the dead so that He will never be subject to decay. As God has said,
+God raised Him from the dead, ensuring He would never be subject to decay. As God has said,
 
-> ‘I will give you the holy and sure blessings promised to David.’
+> ‘I will grant you the holy and sure blessings promised to David.’
 
 ## Acts 13:35
 
 So it is also stated elsewhere:
 
-> ‘You will not let Your Holy One see decay.’
+> ‘You will not allow Your Holy One to ever decay.’
 
 ## Acts 13:36
 
@@ -176,7 +176,7 @@ Be careful that what the prophets have said does not happen to you:
 ## Acts 13:41
 
 > ‘Look, you scoffers,
-> wonder and perish,
+> look in wonder and vanish,
 > for I am going to do something in your days
 > that you would never believe,
 > even if someone told you.’”
@@ -207,7 +207,7 @@ Then Paul and Barnabas spoke out boldly: “It was necessary to speak the word o
 
 ## Acts 13:47
 
-For this is what the Lord has commanded us:
+For the Lord has instructed us:
 
 > ‘I have made you a light for the Gentiles,
 > that you may bring salvation to the ends of the earth.’”

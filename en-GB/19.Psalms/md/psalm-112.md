@@ -2,49 +2,49 @@
 
 ## Psalm 112:1
 
-> Praise the Lord!
+> Give praise to the Lord!
 
-> Blessed is a person who fears the Lord,  
-> Who greatly delights in His commandments.
+> Fortunate is the one who reveres the Lord,  
+> Who finds great joy in His commandments.
 
 ---
 
 ## Psalm 112:2
 
-> His descendants will be mighty on the earth;  
-> The generation of the upright will be blessed.
+> His descendants will be influential on the earth;  
+> The lineage of the upright will be favoured.
 
 ## Psalm 112:3
 
-> Wealth and riches are in his house,  
-> And his righteousness endures forever.
+> Wealth and riches reside in his home,  
+> And his righteousness lasts forever.
 
 ## Psalm 112:4
 
-> Light shines in the darkness for the upright;  
-> He is gracious, compassionate, and righteous.
+> Light dawns in the darkness for the upright;  
+> He is gracious, compassionate, and just.
 
 ## Psalm 112:5
 
-> It is well for a person who is gracious and lends;  
-> He will maintain his cause in judgment.
+> It goes well for a person who is generous and lends;  
+> He will uphold his cause in judgment.
 
 ---
 
 ## Psalm 112:6
 
-> For he will never be shaken;  
-> The righteous will be remembered forever.
+> For he will remain unshaken;  
+> The righteous will be remembered perpetually.
 
 ## Psalm 112:7
 
-> He will not fear bad news;  
+> He will not dread bad news;  
 > His heart is steadfast, trusting in the Lord.
 
 ## Psalm 112:8
 
-> His heart is firm, he will not fear,  
-> But will look with satisfaction on his enemies.
+> His heart is resolute, he will not fear,  
+> But will look upon his enemies with resolve.
 
 ## Psalm 112:9
 
@@ -56,6 +56,6 @@
 
 ## Psalm 112:10
 
-> The wicked will see it and be vexed,  
-> He will gnash his teeth and melt away;  
-> The desire of the wicked will perish.
+> The wicked will see it and be troubled,  
+> He will gnash his teeth and dissolve away;  
+> The longing of the wicked will come to nothing.

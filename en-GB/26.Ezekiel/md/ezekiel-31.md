@@ -42,10 +42,10 @@ In the eleventh year, during the third month, on the first day, the message from
 
 ## Ezekiel 31:8
 
-> The cedars in the garden of God could not rival it,
-> nor could the junipers equal its boughs,
+> The cedars in God's garden could not rival it,
+> nor could the junipers match its boughs,
 > nor could the plane trees compare with its branches—
-> no tree in the garden of God could match its beauty.
+> no tree in God's garden could equal its beauty.
 
 ## Ezekiel 31:9
 

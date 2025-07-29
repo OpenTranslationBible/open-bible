@@ -14,7 +14,7 @@ Then I will strike down the king alone,
 ## 2 Samuel 17:3
 
 and I will bring back all the people to you.  
-The return of everyone depends on the man you seek;  
+The return of everyone hinges on the man you seek;  
 then all the people will be at peace.”
 
 ## 2 Samuel 17:4
@@ -153,8 +153,8 @@ Thus he died and was buried in the tomb of his father.
 
 ## 2 Samuel 17:24
 
-Then David came to Mahanaim.  
-And Absalom crossed the Jordan, he and all the men of Israel with him.
+Then David reached Mahanaim.  
+And Absalom also crossed the Jordan, along with all the men of Israel.
 
 ## 2 Samuel 17:25
 

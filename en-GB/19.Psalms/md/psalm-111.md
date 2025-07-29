@@ -2,17 +2,17 @@
 
 ## Psalm 111:1
 
-> Praise the Lord!
+> Honour the Lord!
 
-> I will give thanks to the Lord with all my heart,  
-> In the company of the upright and in the assembly.
+> I will express my gratitude to the Lord wholeheartedly,  
+> Amongst the upright and within the gathering.
 
 ---
 
 ## Psalm 111:2
 
-> Great are the works of the Lord;  
-> They are studied by all who delight in them.
+> The works of the Lord are magnificent;  
+> They are explored by all who take pleasure in them.
 
 ## Psalm 111:3
 
@@ -21,41 +21,41 @@
 
 ## Psalm 111:4
 
-> He has caused His wonders to be remembered;  
+> He has ensured His wonders are remembered;  
 > The Lord is gracious and compassionate.
 
 ## Psalm 111:5
 
-> He has given food to those who fear Him;  
+> He provides sustenance to those who revere Him;  
 > He will remember His covenant forever.
 
 ---
 
 ## Psalm 111:6
 
-> He has made known to His people the power of His works,  
-> In giving them the inheritance of the nations.
+> He has revealed to His people the might of His works,  
+> By granting them the inheritance of the nations.
 
 ## Psalm 111:7
 
-> The works of His hands are truth and justice;  
-> All His precepts are trustworthy.
+> The deeds of His hands are truth and justice;  
+> All His precepts are reliable.
 
 ## Psalm 111:8
 
-> They are upheld forever and ever;  
-> They are performed in truth and uprightness.
+> They are steadfast for all time;  
+> They are carried out with truth and integrity.
 
 ## Psalm 111:9
 
-> He has sent redemption to His people;  
-> He has ordained His covenant forever;  
-> Holy and awesome is His name.
+> He has brought redemption to His people;  
+> He has established His covenant forever;  
+> Holy and awe-inspiring is His name.
 
 ---
 
 ## Psalm 111:10
 
-> The fear of the Lord is the beginning of wisdom;  
-> All those who follow His commandments have a good understanding;  
+> Reverence for the Lord is the beginning of wisdom;  
+> All those who adhere to His commandments possess good understanding;  
 > His praise endures forever.

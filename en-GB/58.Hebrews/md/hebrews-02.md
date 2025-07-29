@@ -60,13 +60,13 @@ saying,
 
 ## Hebrews 2:13
 
-And again,
+And further,
 
-> “I will put My trust in Him.”
+> “I will place My trust in Him.”
 
-And again,
+And also,
 
-> “Here am I, and the children God has given Me.”
+> “Here I am, along with the children God has given Me.”
 
 ## Hebrews 2:14
 

@@ -26,8 +26,8 @@ Job responded, saying,
 
 ## Job 9:6
 
-> He shakes the earth from its place,
-> and its pillars tremble.
+> He causes the earth to tremble from its place,
+> and its foundations quake.
 
 ## Job 9:7
 
@@ -41,7 +41,7 @@ Job responded, saying,
 
 ## Job 9:9
 
-> He is the Maker of the Bear and Orion, the Pleiades,
+> He is the Creator of the Bear and Orion, the Pleiades,
 > and the constellations of the south.
 
 ## Job 9:10
@@ -56,8 +56,8 @@ Job responded, saying,
 
 ## Job 9:12
 
-> If He snatches away, who can stop Him?
-> Who can say to Him, ‘What are You doing?’
+> If He takes away, who can hinder Him?
+> Who can ask Him, ‘What are You doing?’
 
 ## Job 9:13
 
@@ -68,8 +68,8 @@ Job responded, saying,
 
 ## Job 9:14
 
-> How then can I answer Him,
-> or choose my words with Him?
+> How then can I respond to Him,
+> or select my words with Him?
 
 ## Job 9:15
 
@@ -78,8 +78,8 @@ Job responded, saying,
 
 ## Job 9:16
 
-> If I called and He answered me,
-> I would not believe that He was listening to my voice.
+> If I called and He responded to me,
+> I would not believe that He was attentive to my voice.
 
 ## Job 9:17
 
@@ -127,7 +127,7 @@ Job responded, saying,
 ## Job 9:25
 
 > “My days are swifter than a runner;
-> they flee away, they see no good.
+> they hurry away, they see no good.
 
 ## Job 9:26
 
@@ -136,7 +136,7 @@ Job responded, saying,
 
 ## Job 9:27
 
-> If I say, ‘I will forget my complaint,
+> If I say, ‘I will put aside my complaint,
 > I will change my expression, and smile,’
 
 ## Job 9:28

@@ -10,14 +10,14 @@
 
 ## Psalm 11:2
 
-> For, behold, the wicked bend the bow,  
-> They have set their arrow on the string  
-> To shoot in darkness at the upright in heart.
+> For, observe, the wicked prepare their bow,  
+> They have readied their arrow on the string  
+> To shoot in the shadows at those upright in heart.
 
 ## Psalm 11:3
 
-> If the foundations are destroyed,  
-> What can the righteous do?”
+> If the very foundations are destroyed,  
+> What action can the righteous take?”
 
 ---
 
@@ -29,8 +29,8 @@
 
 ## Psalm 11:5
 
-> The Lord tests the righteous and the wicked,  
-> And His soul hates one who loves violence.
+> The Lord examines both the righteous and the wicked,  
+> And He deeply dislikes one who delights in violence.
 
 ## Psalm 11:6
 
@@ -41,5 +41,5 @@
 
 ## Psalm 11:7
 
-> For the Lord is righteous, He loves righteousness;  
-> The upright will see His face.
+> For the Lord is just, He cherishes righteousness;  
+> Those who are upright will behold His face.

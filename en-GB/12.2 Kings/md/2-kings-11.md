@@ -2,8 +2,8 @@
 
 ## 2 Kings 11:1
 
-When Athaliah the mother of Ahaziah saw that her son was dead,  
-she rose and destroyed all the royal offspring.
+When Athaliah, the mother of Ahaziah, realised her son had died,  
+she arose and destroyed all the royal descendants.
 
 ## 2 Kings 11:2
 
@@ -115,15 +115,15 @@ And the priest appointed officers over the house of the Lord.
 
 ## 2 Kings 11:19
 
-And he took the captains of hundreds and the Carites and the guards and all the people of the land,  
-and they brought the king down from the house of the Lord,  
-and came by way of the gate of the guards to the king’s house.  
-And he sat on the throne of the kings.
+And he gathered the captains of hundreds, the Carites, the guards, and all the people of the land,  
+and they escorted the king down from the house of the Lord,  
+coming by way of the gate of the guards to the king’s house.  
+There, he took his place on the royal throne.
 
 ## 2 Kings 11:20
 
-So all the people of the land rejoiced, and the city was quiet,  
-for they had put Athaliah to death with the sword at the king’s house.
+So all the people of the land rejoiced, and the city was peaceful,  
+for they had executed Athaliah with the sword at the king’s house.
 
 ---
 

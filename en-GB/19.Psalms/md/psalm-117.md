@@ -2,14 +2,14 @@
 
 ## Psalm 117:1
 
-> Praise the Lord, all nations;  
-> Sing His praises, all peoples!
+> Honour the Lord, all nations;  
+> Celebrate His name, all peoples!
 
 ## Psalm 117:2
 
-> For His mercy toward us is great,  
-> And the truth of the Lord is everlasting.
+> For His kindness toward us is immense,  
+> And the faithfulness of the Lord endures forever.
 
 ---
 
-> Praise the Lord!
+> Honour the Lord!

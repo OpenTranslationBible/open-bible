@@ -18,34 +18,34 @@ and Uzzah and Ahio, the sons of Abinadab, were leading the new cart.
 
 ## 2 Samuel 6:4
 
-So they brought it with the ark of God from the house of Abinadab, which was on the hill;  
-and Ahio was walking ahead of the ark.
+Thus they transported the ark of God from the house of Abinadab, which was on the hill,  
+with Ahio walking in front of the ark.
 
 ## 2 Samuel 6:5
 
-Meanwhile, David and all the house of Israel were celebrating before the Lord  
-with all kinds of instruments made of juniper wood, and with lyres, harps, tambourines, castanets, and cymbals.
+At the same time, David and all the house of Israel were celebrating before the Lord  
+with various instruments made of juniper wood, along with lyres, harps, tambourines, castanets, and cymbals.
 
 ---
 
 ## 2 Samuel 6:6
 
-But when they came to the threshing floor of Nacon,  
-Uzzah reached out toward the ark of God and took hold of it, because the oxen nearly overturned it.
+But as they reached the threshing floor of Nacon,  
+Uzzah extended his hand toward the ark of God and took hold of it, for the oxen had stumbled.
 
 ## 2 Samuel 6:7
 
-And the anger of the Lord burned against Uzzah, and God struck him there for his irreverence;  
-and he died there by the ark of God.
+And the Lord's anger was kindled against Uzzah, and God struck him there for his irreverence;  
+and he died there beside the ark of God.
 
 ## 2 Samuel 6:8
 
-Then David became angry because of the Lord’s outburst against Uzzah,  
+Then David was displeased because of the Lord’s outburst against Uzzah,  
 and that place has been called Perez-uzzah to this day.
 
 ## 2 Samuel 6:9
 
-So David was afraid of the Lord that day;  
+David was filled with fear of the Lord that day;  
 and he said, “How can the ark of the Lord come to me?”
 
 ## 2 Samuel 6:10
@@ -92,12 +92,12 @@ and she despised him in her heart.
 
 ## 2 Samuel 6:17
 
-So they brought in the ark of the Lord and set it in its place inside the tent which David had pitched for it,  
+Thus they placed the ark of the Lord in its designated spot inside the tent which David had set up for it,  
 and David offered burnt offerings and peace offerings before the Lord.
 
 ## 2 Samuel 6:18
 
-When David had finished offering the burnt offering and the peace offerings,  
+When David had completed the burnt offering and the peace offerings,  
 he blessed the people in the name of the Lord of armies.
 
 ## 2 Samuel 6:19

@@ -2,70 +2,70 @@
 
 ## Psalm 2:1
 
-> Why are the nations restless,  
-> And the peoples plotting in vain?
+> Why do the nations rage,  
+> And the peoples devise futile plans?
 
 ## Psalm 2:2
 
 > The kings of the earth take their stand,  
-> And the rulers conspire together  
-> Against the Lord and against His Anointed, saying,
+> And the rulers join forces  
+> Against the Lord and His Anointed, saying,
 
 ## Psalm 2:3
 
-> “Let’s tear their shackles apart,  
-> And throw their ropes away from us!”
+> “Let us break their chains,  
+> And cast their cords from us!”
 
 ---
 
 ## Psalm 2:4
 
-> He who sits in the heavens laughs,  
-> The Lord scoffs at them.
+> He who dwells in the heavens laughs,  
+> The Lord mocks them.
 
 ## Psalm 2:5
 
-> Then He will speak to them in His anger,  
-> And terrify them in His fury, saying,
+> Then He will address them in His anger,  
+> And alarm them in His wrath, saying,
 
 ## Psalm 2:6
 
-> “But as for Me, I have installed My King  
-> Upon Zion, My holy mountain.”
+> “Yet I have set My King  
+> On Zion, My sacred hill.”
 
 ---
 
 ## Psalm 2:7
 
-I will proclaim the decree of the Lord:
+I will declare the decree of the Lord:
 
 > He said to Me, “You are My Son,  
-> Today I have fathered You.
+> Today I have become Your Father.
 
 ## Psalm 2:8
 
-> Ask it of Me, and I will certainly give the nations as Your inheritance,  
-> And the ends of the earth as Your possession.
+> Request of Me, and I will surely grant the nations as Your inheritance,  
+> And the farthest parts of the earth as Your possession.
 
 ## Psalm 2:9
 
-> You shall break them with a rod of iron,  
-> You shall shatter them like earthenware.”
+> You shall crush them with a rod of iron,  
+> You shall dash them to pieces like pottery.”
 
 ---
 
 ## Psalm 2:10
 
-> Now then, you kings, use insight;  
-> Let yourselves be instructed, you judges of the earth.
+> Therefore, you kings, be wise;  
+> Be open to instruction, you judges of the earth.
 
 ## Psalm 2:11
 
-> Serve the Lord with reverence,  
-> And rejoice with trembling.
+> Worship the Lord with awe,  
+> And celebrate with trembling.
 
 ## Psalm 2:12
 
-> Kiss the Son, that He not be angry and you perish on the way,  
-> For His wrath may be kindled quickly.  
-> Blessed are all who take refuge in Him.
+> Honour the Son, lest He be angry and you perish in your path,  
+> For His wrath can ignite swiftly.  
+> Blessed are all who seek refuge in Him.

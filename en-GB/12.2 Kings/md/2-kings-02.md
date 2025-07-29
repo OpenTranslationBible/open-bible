@@ -116,7 +116,7 @@ The men of the city said to Elisha,
 
 ## 2 Kings 2:20
 
-He said, “Bring me a new bowl and put salt in it.”  
+Elisha instructed, “Fetch me a new bowl and place salt in it.”  
 So they brought it to him.
 
 ## 2 Kings 2:21

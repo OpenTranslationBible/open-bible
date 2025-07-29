@@ -2,8 +2,8 @@
 
 ## 1 Kings 12:1
 
-Then Rehoboam went to Shechem,  
-for all Israel had come to Shechem to make him king.
+Rehoboam travelled to Shechem,  
+for all Israel had gathered there to crown him king.
 
 ## 1 Kings 12:2
 
@@ -65,15 +65,15 @@ You shall say to them,
 
 ## 1 Kings 12:11
 
-Whereas my father loaded you with a heavy yoke, I will add to your yoke;  
+Although my father placed a heavy yoke upon you, I will increase it;  
 my father disciplined you with whips, but I will discipline you with scorpions.’”
 
 ---
 
 ## 1 Kings 12:12
 
-Then Jeroboam and all the people came to Rehoboam on the third day,  
-as the king had directed, saying, “Return to me on the third day.”
+Jeroboam and all the people returned to Rehoboam on the third day,  
+as the king had instructed, saying, “Return to me on the third day.”
 
 ## 1 Kings 12:13
 
@@ -82,7 +82,7 @@ for he had forsaken the advice of the elders which they had given him,
 
 ## 1 Kings 12:14
 
-and he spoke to them according to the advice of the young men, saying,  
+and he spoke to them following the counsel of the young men, saying,  
 “My father made your yoke heavy, but I will add to your yoke;  
 my father disciplined you with whips, but I will discipline you with scorpions.”
 
@@ -107,8 +107,8 @@ So Israel departed to their tents.
 
 ## 1 Kings 12:17
 
-But as for the sons of Israel who lived in the cities of Judah,  
-Rehoboam reigned over them.
+However, concerning the Israelites who lived in the cities of Judah,  
+Rehoboam continued to reign over them.
 
 ## 1 Kings 12:18
 
@@ -141,7 +141,7 @@ However, the Lord's message came to Shemaiah, the man of God, saying,
 
 ## 1 Kings 12:23
 
-“Speak to Rehoboam the son of Solomon, king of Judah,  
+“Convey to Rehoboam the son of Solomon, king of Judah,  
 and to all the house of Judah and Benjamin and to the rest of the people, saying,
 
 ## 1 Kings 12:24
@@ -154,24 +154,24 @@ So they listened to the word of the Lord, and returned and went their way, accor
 
 ## 1 Kings 12:25
 
-Then Jeroboam built Shechem in the hill country of Ephraim, and lived there.  
-And he went out from there and built Penuel.
+Jeroboam established Shechem in the hill country of Ephraim, and settled there.  
+He then went out and built Penuel.
 
 ## 1 Kings 12:26
 
-Jeroboam said in his heart,  
-“Now the kingdom will return to the house of David.
+Jeroboam thought to himself,  
+“Now the kingdom will revert to the house of David.
 
 ## 1 Kings 12:27
 
-If this people go up to offer sacrifices in the house of the Lord in Jerusalem,  
-then the heart of this people will return to their lord,  
+If these people continue to offer sacrifices in the house of the Lord in Jerusalem,  
+their hearts will turn back to their master,  
 to Rehoboam king of Judah;  
 and they will kill me and return to Rehoboam king of Judah.”
 
 ## 1 Kings 12:28
 
-So the king consulted,  
+So the king sought counsel,  
 and made two golden calves,  
 and he said to the people,  
 “It is too much for you to go up to Jerusalem;  
@@ -179,18 +179,18 @@ behold your gods, O Israel, who brought you up from the land of Egypt.”
 
 ## 1 Kings 12:29
 
-And he set one in Bethel,  
-and the other he put in Dan.
+He placed one in Bethel,  
+and the other he positioned in Dan.
 
 ## 1 Kings 12:30
 
-Now this thing became a sin,  
+This act led to sin,  
 for the people went to worship before the one as far as Dan.
 
 ## 1 Kings 12:31
 
-And he made houses on high places,  
-and made priests from among all the people who were not of the sons of Levi.
+And he constructed shrines on high places,  
+and appointed priests from among all the people who were not of the sons of Levi.
 
 ## 1 Kings 12:32
 

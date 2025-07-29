@@ -2,81 +2,81 @@
 
 ## Psalm 91:1
 
-> One who dwells in the shelter of the Most High  
-> Will lodge in the shadow of the Almighty.
+> Whoever resides in the refuge of the Most High  
+> Will rest in the shadow of the Almighty.
 
 ## Psalm 91:2
 
-> I will say to the Lord, “My refuge and my fortress,  
-> My God, in whom I trust!”
+> I will declare to the Lord, “You are my refuge and my fortress,  
+> My God, in whom I place my trust!”
 
 ---
 
 ## Psalm 91:3
 
-> For it is He who rescues you from the net of the trapper  
-> And from the deadly plague.
+> For He is the one who delivers you from the snare of the trapper  
+> And from the perilous plague.
 
 ## Psalm 91:4
 
-> He will cover you with His pinions,  
-> And under His wings you may take refuge;  
-> His faithfulness is a shield and wall.
+> He will shield you with His feathers,  
+> And beneath His wings you may find refuge;  
+> His faithfulness is a protective shield and barrier.
 
 ## Psalm 91:5
 
-> You will not be afraid of the terror by night,  
-> Or of the arrow that flies by day;
+> You need not fear the terror of the night,  
+> Nor the arrow that flies by day;
 
 ## Psalm 91:6
 
-> Of the plague that stalks in darkness,  
-> Or of the destruction that devastates at noon.
+> Nor the pestilence that prowls in darkness,  
+> Or the destruction that lays waste at noon.
 
 ## Psalm 91:7
 
-> A thousand may fall at your side  
+> Though a thousand may fall at your side  
 > And ten thousand at your right hand,  
-> But it shall not approach you.
+> It shall not come near you.
 
 ## Psalm 91:8
 
-> You will only look on with your eyes  
-> And see the retaliation against the wicked.
+> You will merely observe with your eyes  
+> And witness the recompense of the wicked.
 
 ---
 
 ## Psalm 91:9
 
-> For you have made the Lord, my refuge,  
-> The Most High, your dwelling place.
+> Since you have made the Lord your refuge,  
+> The Most High your dwelling place,
 
 ## Psalm 91:10
 
-> No evil will happen to you,  
-> Nor will any plague come near your tent.
+> No harm will overtake you,  
+> Nor will any plague come near your dwelling.
 
 ## Psalm 91:11
 
-> For He will give His angels orders concerning you,  
-> To protect you in all your ways.
+> For He will give His angels charge over you,  
+> To watch over you in all your ways.
 
 ## Psalm 91:12
 
-> On their hands they will lift you up,  
-> So that you do not strike your foot against a stone.
+> They will bear you up in their hands,  
+> So that you will not dash your foot against a stone.
 
 ## Psalm 91:13
 
-> You will walk upon the lion and cobra,  
-> You will trample the young lion and the serpent.
+> You will tread upon the lion and the cobra,  
+> You will trample the fierce lion and the serpent.
 
 ---
 
 ## Psalm 91:14
 
-> “Because he has loved Me, I will save him;  
-> I will set him securely on high, because he has known My name.
+> “Because he holds fast to Me in love, I will deliver him;  
+> I will set him on high, because he acknowledges My name.
 
 ## Psalm 91:15
 
@@ -86,5 +86,5 @@
 
 ## Psalm 91:16
 
-> I will satisfy him with a long life,  
-> And show him My salvation.”
+> I will bless him with a long life,  
+> And reveal to him My salvation.”

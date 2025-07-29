@@ -58,9 +58,9 @@ that I may not go and fight against the enemies of my lord the king?”
 
 ## 1 Samuel 29:9
 
-But Achish replied to David,  
-“I know that you are pleasing in my sight like an angel of God;  
-nevertheless, the commanders of the Philistines have said,  
+But Achish responded to David,  
+“I know that you are as pleasing to me as an angel of God;  
+however, the commanders of the Philistines have said,  
 ‘He must not go up with us to the battle.’
 
 ## 1 Samuel 29:10
@@ -70,5 +70,5 @@ and when you have arisen early in the morning and it becomes light, leave.”
 
 ## 1 Samuel 29:11
 
-So David got up early, he and his men, to leave in the morning to return to the land of the Philistines.  
-And the Philistines went up to Jezreel.
+So David and his men rose early in the morning to depart and return to the land of the Philistines.  
+Meanwhile, the Philistines went up to Jezreel.

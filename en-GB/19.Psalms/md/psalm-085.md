@@ -9,7 +9,7 @@
 
 ## Psalm 85:2
 
-> You forgave the guilt of Your people;  
+> You pardoned the wrongdoing of Your people;  
 > You covered all their sin.
 
 > Selah
@@ -17,61 +17,61 @@
 ## Psalm 85:3
 
 > You withdrew all Your fury;  
-> You turned away from Your burning anger.
+> You turned away from Your blazing wrath.
 
 ---
 
 ## Psalm 85:4
 
-> Restore us, God of our salvation,  
-> And cause Your indignation toward us to cease.
+> Renew us, God of our salvation,  
+> And let Your indignation toward us come to an end.
 
 ## Psalm 85:5
 
-> Will You be angry with us forever?  
-> Will You prolong Your anger to all generations?
+> Will You remain angry with us forever?  
+> Will Your anger extend to all generations?
 
 ## Psalm 85:6
 
-> Will You not revive us again,  
-> So that Your people may rejoice in You?
+> Will You not bring us to life again,  
+> So that Your people may find joy in You?
 
 ## Psalm 85:7
 
-> Show us Your mercy, Lord,  
+> Reveal Your mercy to us, Lord,  
 > And grant us Your salvation.
 
 ---
 
 ## Psalm 85:8
 
-> I will hear what God the Lord will say;  
-> For He will speak peace to His people, to His godly ones;  
-> And may they not turn back to foolishness.
+> I will listen to what God the Lord will say;  
+> For He will speak peace to His people, to His faithful ones;  
+> And may they not return to folly.
 
 ## Psalm 85:9
 
-> Certainly His salvation is near to those who fear Him,  
-> That glory may dwell in our land.
+> Surely His salvation is near to those who revere Him,  
+> That glory may reside in our land.
 
 ---
 
 ## Psalm 85:10
 
 > Mercy and truth have met together;  
-> Righteousness and peace have kissed each other.
+> Righteousness and peace have embraced each other.
 
 ## Psalm 85:11
 
-> Truth sprouts from the earth,  
-> And righteousness looks down from heaven.
+> Truth springs up from the earth,  
+> And righteousness gazes down from heaven.
 
 ## Psalm 85:12
 
-> Indeed, the Lord will give what is good,  
-> And our land will yield its produce.
+> Indeed, the Lord will provide what is good,  
+> And our land will yield its harvest.
 
 ## Psalm 85:13
 
-> Righteousness will go before Him  
-> And will make His footsteps into a way.
+> Righteousness will precede Him  
+> And will prepare a path for His steps.

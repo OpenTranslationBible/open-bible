@@ -2,12 +2,12 @@
 
 ## 1 Chronicles 20:1
 
-Then it happened in the spring, at the time when kings go out to battle,  
-that Joab led out the army and ravaged the land of the sons of Ammon,
+When spring arrived, during the season when kings typically go to war,  
+Joab led the army and devastated the land of the sons of Ammon,
 
-> and came and besieged Rabbah.  
-> But David stayed in Jerusalem.  
-> And Joab struck Rabbah and overthrew it.
+> and advanced to besiege Rabbah.  
+> Meanwhile, David remained in Jerusalem.  
+> Joab attacked Rabbah and conquered it.
 
 ---
 
@@ -42,10 +42,10 @@ Now it came about after this, that war broke out at Gezer with the Philistines;
 
 ## 1 Chronicles 20:5
 
-And there was war with the Philistines again,
+Once more, conflict arose with the Philistines,
 
-> and Elhanan the son of Jair struck down Lahmi the brother of Goliath the Gittite,  
-> the shaft of whose spear was like a weaver’s beam.
+> and Elhanan the son of Jair defeated Lahmi, the brother of Goliath the Gittite,  
+> whose spear shaft was like a weaver’s beam.
 
 ---
 
@@ -68,6 +68,6 @@ Jonathan the son of Shimea, David’s brother, struck him down.
 
 ## 1 Chronicles 20:8
 
-These were descended from the giants in Gath,
+These were the descendants of the giants in Gath,
 
-> and they fell by the hand of David and by the hand of his servants.
+> and they were defeated by David and his servants.

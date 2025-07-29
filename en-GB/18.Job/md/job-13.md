@@ -2,58 +2,58 @@
 
 ## Job 13:1
 
-> “Behold, my eye has seen all this,  
-> My ear has heard and understood it.
+> “See, my eye has witnessed all this,  
+> My ear has listened and comprehended it.
 
 ## Job 13:2
 
-> What you know, I also know;  
-> I am not inferior to you.
+> What you know, I also understand;  
+> I am not beneath you.
 
 ## Job 13:3
 
-> But I would speak to the Almighty,  
-> And I desire to argue with God.
+> Yet I wish to speak to the Almighty,  
+> And I long to reason with God.
 
 ## Job 13:4
 
-> But you smear me with lies;  
-> You are all worthless physicians.
+> But you cover me with falsehoods;  
+> You are all ineffective healers.
 
 ## Job 13:5
 
-> Oh that you would be completely silent,  
-> And that it would become your wisdom!
+> If only you would remain silent,  
+> That would indeed be your wisdom!
 
 ## Job 13:6
 
-> Please hear my argument,  
-> And listen to the contentions of my lips.
+> Kindly hear my plea,  
+> And attend to the arguments of my lips.
 
 ## Job 13:7
 
-> Will you speak unjustly for God,  
+> Will you speak unjustly on God's behalf,  
 > And speak deceitfully for Him?
 
 ## Job 13:8
 
-> Will you show partiality for Him?  
-> Will you contend for God?
+> Will you show favouritism for Him?  
+> Will you argue for God?
 
 ## Job 13:9
 
-> Will it go well when He examines you?  
-> Or will you deceive Him as one deceives a man?
+> Will it be well when He examines you?  
+> Or will you mislead Him as one misleads a man?
 
 ## Job 13:10
 
-> He will certainly punish you  
-> If you secretly show partiality.
+> He will surely correct you  
+> If you secretly show favouritism.
 
 ## Job 13:11
 
-> Will His majesty not terrify you,  
-> And the dread of Him fall on you?
+> Will His majesty not frighten you,  
+> And the fear of Him fall upon you?
 
 ## Job 13:12
 
@@ -65,82 +65,82 @@
 ## Job 13:13
 
 > “Be silent before me so that I may speak;  
-> Then let come upon me what may.
+> Then let whatever may come upon me.
 
 ## Job 13:14
 
-> Why should I take my flesh in my teeth,  
-> And put my life in my hands?
+> Why should I risk my life,  
+> And place my life in my own hands?
 
 ## Job 13:15
 
-> Though He slay me, I will hope in Him.  
-> Nevertheless, I will argue my ways before Him.
+> Though He may slay me, I will trust in Him.  
+> Nevertheless, I will present my case before Him.
 
 ## Job 13:16
 
-> This also will be my salvation,  
-> For a godless person cannot come before His presence.
+> This too will be my deliverance,  
+> For a godless person cannot stand before Him.
 
 ## Job 13:17
 
-> Listen carefully to my words,  
-> And let my declaration fill your ears.
+> Pay close attention to my words,  
+> And let my declaration reach your ears.
 
 ## Job 13:18
 
-> Behold now, I have prepared my case;  
-> I know that I will be vindicated.
+> See now, I have prepared my case;  
+> I am confident that I will be justified.
 
 ## Job 13:19
 
-> Who will contend with me?  
-> For then I would be silent and die.
+> Who will argue against me?  
+> For then I would be silent and perish.
 
 ---
 
 ## Job 13:20
 
 > “Only two things do not do to me,  
-> Then I will not hide from Your face:
+> Then I will not hide from Your presence:
 
 ## Job 13:21
 
-> Remove Your hand from me,  
-> And do not let the dread of You terrify me.
+> Withdraw Your hand from me,  
+> And do not let Your fear overwhelm me.
 
 ## Job 13:22
 
-> Then call, and I will answer;  
-> Or let me speak, then reply to me.
+> Then call, and I will respond;  
+> Or let me speak, then answer me.
 
 ## Job 13:23
 
-> How many are my guilty deeds and sins?  
-> Make known to me my wrongdoing and my sin.
+> How numerous are my transgressions and sins?  
+> Reveal to me my offences and my sin.
 
 ## Job 13:24
 
-> Why do You hide Your face  
-> And consider me Your enemy?
+> Why do You conceal Your face  
+> And regard me as Your adversary?
 
 ## Job 13:25
 
-> Will You scare away a scattered leaf?  
-> Or will You pursue the dry chaff?
+> Will You frighten a windblown leaf?  
+> Or will You chase after dry chaff?
 
 ## Job 13:26
 
-> For You write bitter things against me  
-> And make me inherit the guilt of my youth.
+> For You inscribe bitter things against me  
+> And make me bear the consequences of my youth.
 
 ## Job 13:27
 
-> You put my feet in the stocks  
-> And watch all my paths;  
-> You set a limit for the soles of my feet,
+> You confine my feet in shackles  
+> And observe all my paths;  
+> You set a boundary for the soles of my feet,
 
 ## Job 13:28
 
-> While I am decaying like a rotten thing,  
+> While I am wasting away like something decayed,  
 > Like a garment that is moth-eaten.

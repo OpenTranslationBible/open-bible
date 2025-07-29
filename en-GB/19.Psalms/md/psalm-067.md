@@ -11,37 +11,37 @@
 
 ## Psalm 67:2
 
-> That Your way may be known on the earth,  
-> Your salvation among all nations.
+> So that Your ways may be recognised across the earth,  
+> Your deliverance among all nations.
 
 ---
 
 ## Psalm 67:3
 
-> May the peoples praise You, God;  
-> May all the peoples praise You.
+> Let the peoples give You praise, God;  
+> Let all the peoples give You praise.
 
 ## Psalm 67:4
 
-> May the nations be glad and sing for joy;  
-> For You will judge the peoples with fairness  
-> And guide the nations on the earth.
+> Let the nations rejoice and sing with gladness;  
+> For You will judge the peoples with equity  
+> And lead the nations on the earth.
 
 > Selah
 
 ## Psalm 67:5
 
-> May the peoples praise You, God;  
-> May all the peoples praise You.
+> Let the peoples give You praise, God;  
+> Let all the peoples give You praise.
 
 ---
 
 ## Psalm 67:6
 
-> The earth has yielded its produce;  
-> God, our God, blesses us.
+> The earth has brought forth its harvest;  
+> God, our God, bestows His blessings upon us.
 
 ## Psalm 67:7
 
-> God blesses us,  
-> So that all the ends of the earth may fear Him.
+> God bestows His blessings upon us,  
+> So that all the ends of the earth may hold Him in reverence.

@@ -12,16 +12,16 @@ This is what the Lord God says concerning Edom—
 
 ## Obadiah 1:2
 
-> “Behold, I will make you small among the nations;  
-> You are greatly despised.
+> “Behold, I will make you insignificant among the nations;  
+> You are held in great contempt.
 
 ## Obadiah 1:3
 
-> The arrogance of your heart has deceived you,  
-> You who live in the clefts of the rock,  
-> In the loftiness of your dwelling place,  
+> The pride of your heart has led you astray,  
+> You who dwell in the crevices of the rock,  
+> In the height of your abode,  
 > Who say in your heart,  
-> ‘Who will bring me down to earth?’
+> ‘Who can bring me down to the ground?’
 
 ## Obadiah 1:4
 
@@ -55,9 +55,9 @@ This is what the Lord God says concerning Edom—
 
 ## Obadiah 1:8
 
-> Will I not on that day,” declares the Lord,  
-> “Eliminate wise men from Edom,  
-> And understanding from the mountain of Esau?
+> On that day,” declares the Lord,  
+> “I will remove wise men from Edom,  
+> And understanding from the mountain of Esau.
 
 ## Obadiah 1:9
 
@@ -67,9 +67,9 @@ This is what the Lord God says concerning Edom—
 
 ## Obadiah 1:10
 
-> Because of violence to your brother Jacob,  
+> Because of your violence against your brother Jacob,  
 > Shame will cover you,  
-> And you will be eliminated forever.
+> And you will be cut off forever.
 
 ## Obadiah 1:11
 
@@ -81,7 +81,7 @@ This is what the Lord God says concerning Edom—
 
 ## Obadiah 1:12
 
-> Do not gloat over your brother’s day,  
+> Do not exult over your brother’s day,  
 > The day of his misfortune.  
 > And do not rejoice over the sons of Judah  
 > On the day of their destruction;  
@@ -100,7 +100,7 @@ This is what the Lord God says concerning Edom—
 ## Obadiah 1:14
 
 > Do not stand at the crossroads  
-> To eliminate their survivors;  
+> To cut down their survivors;  
 > And do not hand over their refugees  
 > On the day of their distress.
 
@@ -108,8 +108,8 @@ This is what the Lord God says concerning Edom—
 
 > For the day of the Lord is near  
 > For all the nations!  
-> Just as you have done, it will be done to you.  
-> Your dealings will return on your own head.
+> As you have done, it will be done to you.  
+> Your deeds will return upon your own head.
 
 ## Obadiah 1:16
 
@@ -130,7 +130,7 @@ This is what the Lord God says concerning Edom—
 > Then the house of Jacob will be a fire,  
 > And the house of Joseph a flame;  
 > But the house of Esau will be like stubble.  
-> And they will set them on fire and consume them,  
+> And they will set them ablaze and consume them,  
 > So that there will be no survivor  
 > Of the house of Esau,”  
 > For the Lord has spoken.
@@ -144,13 +144,13 @@ This is what the Lord God says concerning Edom—
 
 ## Obadiah 1:20
 
-> And the exiles of this army of the sons of Israel,  
+> And the exiles of this army of the Israelites,  
 > Who are among the Canaanites as far as Zarephath,  
-> And the exiles of Jerusalem who are in Sepharad  
-> Will possess the cities of the Negev.
+> And the exiles of Jerusalem who are in Sepharad,  
+> Will take over the cities of the Negev.
 
 ## Obadiah 1:21
 
 > The deliverers will ascend Mount Zion  
 > To judge the mountain of Esau,  
-> And the kingdom will be the Lord’s.
+> And the kingdom will belong to the Lord.

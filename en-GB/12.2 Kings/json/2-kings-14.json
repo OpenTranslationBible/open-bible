@@ -1,248 +1,233 @@
 {
-    "book": "2 Kings",
-    "chapter": 14,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "In the second year of Joash the son of Jehoahaz, king of Israel,",
-                "Amaziah the son of Joash, king of Judah, became king."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "He was twenty-five years old when he became king,",
-                "and he reigned for twenty-nine years in Jerusalem.",
-                "And his mother’s name was Jehoaddin of Jerusalem."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "He did what was right in the sight of the Lord, yet not like his father David.",
-                "He did everything as his father Joash had done."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Only the high places were not taken away;",
-                "the people still sacrificed and burned incense on the high places."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Now it came about, as soon as the kingdom was firmly in his grasp,",
-                "that he killed his servants who had killed the king his father."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "But he did not put the sons of the murderers to death,",
-                "in accordance with what is written in the Book of the Law of Moses,",
-                "as the Lord commanded, saying,",
-                "“Fathers shall not be put to death for sons,",
-                "nor shall sons be put to death for fathers;",
-                "but each shall be put to death for his own sin.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "He killed ten thousand Edomites in the Valley of Salt,",
-                "and captured Sela in battle, and named it Joktheel, as it is to this day."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Then Amaziah sent messengers to Jehoash the son of Jehoahaz, son of Jehu, king of Israel, saying,",
-                "“Come, let us face one another in battle.”"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "But Jehoash king of Israel sent a message to Amaziah king of Judah, saying,",
-                "“The thorn bush that was in Lebanon sent word to the cedar that was in Lebanon, saying,",
-                "‘Give your daughter to my son as a wife.’",
-                "But a wild animal that was in Lebanon passed by and trampled the thorn bush."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "You have indeed defeated Edom, and your heart has become proud.",
-                "Enjoy your honour and stay in your house.",
-                "Why should you provoke trouble so that you fall, you and Judah with you?”"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "But Amaziah would not listen.",
-                "So Jehoash king of Israel went up,",
-                "and he and Amaziah king of Judah faced each other at Beth-shemesh, which belongs to Judah."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "And Judah was defeated by Israel,",
-                "and every man fled to his tent."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Then Jehoash king of Israel captured Amaziah king of Judah,",
-                "the son of Jehoash, the son of Ahaziah, at Beth-shemesh,",
-                "and came to Jerusalem and tore down the wall of Jerusalem from the Gate of Ephraim to the Corner Gate, four hundred cubits."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "And he took all the gold and silver and all the utensils",
-                "which were found in the house of the Lord and in the treasuries of the king’s house,",
-                "along with hostages, and returned to Samaria."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Now the rest of the acts of Jehoash which he did, and his might,",
-                "and how he fought with Amaziah king of Judah,",
-                "are they not written in the Book of the Chronicles of the Kings of Israel?"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "And Jehoash lay down with his fathers and was buried in Samaria with the kings of Israel,",
-                "and his son Jeroboam became king in his place."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Amaziah the son of Joash, king of Judah, continued to live on for fifteen years after the passing of Jehoash son of Jehoahaz, king of Israel."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "As for the other events of Amaziah's reign, are they not recorded in the Book of the Chronicles of the Kings of Judah?"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "And they conspired against him in Jerusalem, and he fled to Lachish.",
-                "But they sent men after him to Lachish, and they killed him there."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Then they brought him on horses, and he was buried in Jerusalem with his fathers in the city of David."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "And all the people of Judah took Azariah, who was sixteen years old,",
-                "and made him king in place of his father Amaziah."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "He built Elath and brought it back to Judah after the king had passed away."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "In the fifteenth year of Amaziah the son of Joash king of Judah,",
-                "Jeroboam the son of Joash king of Israel became king in Samaria,",
-                "and reigned for forty-one years."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "And he did evil in the sight of the Lord;",
-                "he did not turn away from all the sins of Jeroboam the son of Nebat,",
-                "who made Israel sin."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "He restored the border of Israel from the entrance of Hamath as far as the Sea of the Arabah,",
-                "in accordance with the word of the Lord, the God of Israel,",
-                "which He spoke through His servant Jonah the son of Amittai, the prophet,",
-                "who was from Gath-hepher."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "For the Lord saw the affliction of Israel, which was very bitter;",
-                "for there was neither bond nor free remaining,",
-                "nor was there any helper for Israel."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Yet the Lord did not say that He would wipe out the name of Israel from under heaven;",
-                "but He saved them by the hand of Jeroboam the son of Joash."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Now the rest of the acts of Jeroboam and all that he did,",
-                "his might, how he fought and how he recovered for Israel Damascus and Hamath, which had belonged to Judah,",
-                "are they not written in the Book of the Chronicles of the Kings of Israel?"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "And Jeroboam lay down with his fathers, with the kings of Israel,",
-                "and his son Zechariah became king in his place."
-            ]
-        }
-    ]
+  "book": "2 Kings",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "During the second year of Joash, son of Jehoahaz, king of Israel,",
+        "Amaziah, son of Joash, king of Judah, began his reign."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Amaziah was twenty-five years old when he began his reign,",
+        "and he ruled for twenty-nine years in Jerusalem.",
+        "His mother was Jehoaddin of Jerusalem."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "He did what was right in the sight of the Lord, though not as his ancestor David had done.",
+        "He followed the example set by his father Joash."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "However, the high places were not removed;",
+        "the people continued to offer sacrifices and burn incense there."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Once the kingdom was securely under his control,",
+        "he executed the servants who had assassinated his father, the king."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "But he did not put the children of the murderers to death,",
+        "in accordance with what is written in the Book of the Law of Moses,",
+        "as the Lord commanded, saying,",
+        "“Fathers shall not be put to death for sons,",
+        "nor shall sons be put to death for fathers;",
+        "but each shall be put to death for his own sin.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "He defeated ten thousand Edomites in the Valley of Salt,",
+        "captured Sela in battle, and named it Joktheel, as it remains to this day."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Then Amaziah sent messengers to Jehoash, son of Jehoahaz, son of Jehu, king of Israel, saying,",
+        "“Come, let us face one another in battle.”"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "But Jehoash, king of Israel, sent a message to Amaziah, king of Judah, saying,",
+        "“The thorn bush in Lebanon sent a message to the cedar in Lebanon, saying,",
+        "‘Give your daughter to my son as a wife.’",
+        "But a wild animal in Lebanon passed by and trampled the thorn bush."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "You have indeed defeated Edom, and your heart has become proud.",
+        "Enjoy your honour and stay in your house.",
+        "Why should you provoke trouble so that you fall, you and Judah with you?”"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Yet Amaziah did not heed the warning.",
+        "So Jehoash, king of Israel, advanced,",
+        "and he and Amaziah, king of Judah, confronted each other at Beth-shemesh, which is part of Judah."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": ["Judah was defeated by Israel,", "and every man fled to his own tent."]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Jehoash, king of Israel, captured Amaziah, king of Judah,",
+        "son of Jehoash, son of Ahaziah, at Beth-shemesh.",
+        "He then went to Jerusalem and demolished the wall of Jerusalem from the Gate of Ephraim to the Corner Gate, a distance of four hundred cubits."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "He took all the gold and silver and all the utensils",
+        "found in the house of the Lord and in the treasuries of the king’s house,",
+        "along with hostages, and returned to Samaria."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "The remaining acts of Jehoash, his might,",
+        "and how he fought with Amaziah, king of Judah,",
+        "are they not recorded in the Book of the Chronicles of the Kings of Israel?"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Jehoash rested with his ancestors and was buried in Samaria with the kings of Israel,",
+        "and his son Jeroboam succeeded him as king."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Amaziah, son of Joash, king of Judah, lived for fifteen more years after the death of Jehoash, son of Jehoahaz, king of Israel."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "As for the other events of Amaziah's reign, are they not recorded in the Book of the Chronicles of the Kings of Judah?"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "They conspired against him in Jerusalem, and he fled to Lachish.",
+        "But they sent men after him to Lachish, and they killed him there."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "They brought him back on horses, and he was buried in Jerusalem with his ancestors in the city of David."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "All the people of Judah took Azariah, who was sixteen years old,",
+        "and made him king in place of his father Amaziah."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": ["He rebuilt Elath and restored it to Judah after the king had passed away."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "In the fifteenth year of Amaziah, son of Joash, king of Judah,",
+        "Jeroboam, son of Joash, king of Israel, began his reign in Samaria,",
+        "and he ruled for forty-one years."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "He did evil in the sight of the Lord;",
+        "he did not turn away from all the sins of Jeroboam, son of Nebat,",
+        "who led Israel into sin."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "He restored the border of Israel from the entrance of Hamath to the Sea of the Arabah,",
+        "in accordance with the word of the Lord, the God of Israel,",
+        "which He spoke through His servant Jonah, son of Amittai, the prophet,",
+        "who was from Gath-hepher."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "For the Lord saw the affliction of Israel, which was very bitter;",
+        "for there was neither bond nor free remaining,",
+        "nor was there any helper for Israel."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Yet the Lord did not declare that He would erase the name of Israel from under heaven;",
+        "but He delivered them by the hand of Jeroboam, son of Joash."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "The remaining acts of Jeroboam, all that he accomplished,",
+        "his might, how he fought and how he recovered for Israel Damascus and Hamath, which had belonged to Judah,",
+        "are they not recorded in the Book of the Chronicles of the Kings of Israel?"
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Jeroboam rested with his ancestors, with the kings of Israel,",
+        "and his son Zechariah succeeded him as king."
+      ]
+    }
+  ]
 }

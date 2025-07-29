@@ -289,11 +289,11 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 ## Luke 1:68
 
 > “Praise be to the Lord, the God of Israel,
-> because he has come to his people and redeemed them.
+> for he has come to his people and brought them redemption.
 
 ## Luke 1:69
 
-> He has raised up a horn of salvation for us
+> He has raised a mighty saviour for us
 > in the house of his servant David,
 
 ## Luke 1:70
@@ -302,13 +302,13 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:71
 
-> salvation from our enemies
-> and from the hand of all who hate us—
+> to save us from our enemies
+> from the hand of all who detest us—
 
 ## Luke 1:72
 
-> to show mercy to our ancestors
-> and to remember his holy covenant,
+> to show kindness to our ancestors
+> and to remember his sacred covenant,
 
 ## Luke 1:73
 
@@ -316,8 +316,8 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 
 ## Luke 1:74
 
-> to rescue us from the hand of our enemies,
-> and to enable us to serve him without fear
+> to save us from the hand of our enemies,
+> so we may serve him without fear
 
 ## Luke 1:75
 
@@ -326,22 +326,22 @@ Zechariah, his father, was filled with the Holy Spirit and began to prophesy:
 ## Luke 1:76
 
 > And you, my child, will be called a prophet of the Most High;
-> for you will go on before the Lord to prepare the way for him,
+> for you will go on ahead of the Lord to prepare his way,
 
 ## Luke 1:77
 
-> to give his people the knowledge of salvation
+> to give his people the understanding of salvation
 > through the forgiveness of their sins,
 
 ## Luke 1:78
 
 > because of the tender mercy of our God,
-> by which the rising sun will come to us from heaven
+> by which the dawn from heaven will visit us
 
 ## Luke 1:79
 
-> to shine on those living in darkness and in the shadow of death,
-> to guide our feet into the path of peace.”
+> to shine on those dwelling in darkness and in the shadow of death,
+> to guide our feet into the way of peace.”
 
 ---
 

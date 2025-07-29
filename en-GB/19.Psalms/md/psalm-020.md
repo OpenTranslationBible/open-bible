@@ -9,13 +9,13 @@
 
 ## Psalm 20:2
 
-> May He send you help from the sanctuary,  
-> And support you from Zion!
+> May He send you assistance from the sanctuary,  
+> And uphold you from Zion!
 
 ## Psalm 20:3
 
-> May He remember all your meal offerings  
-> And accept your burnt offering!
+> May He remember all your offerings  
+> And regard your burnt sacrifices with favour!
 
 > Selah
 
@@ -39,9 +39,9 @@
 
 ## Psalm 20:6
 
-> Now I know that the Lord saves His anointed;  
-> He will answer him from His holy heaven  
-> With the saving strength of His right hand.
+> Now I am certain that the Lord delivers His anointed;  
+> He will respond to him from His holy heaven  
+> With the powerful strength of His right hand.
 
 ## Psalm 20:7
 
@@ -50,10 +50,10 @@
 
 ## Psalm 20:8
 
-> They have bowed down and fallen,  
-> But we have risen and stood upright.
+> They have collapsed and fallen,  
+> But we have risen and stand firm.
 
 ## Psalm 20:9
 
-> Save, Lord;  
-> May the King answer us on the day we call.
+> Deliver us, Lord;  
+> May the King respond to us on the day we call.

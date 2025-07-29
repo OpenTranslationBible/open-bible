@@ -2,8 +2,8 @@
 
 ## 2 Kings 13:1
 
-In the twenty-third year of Joash the son of Ahaziah, king of Judah,  
-Jehoahaz the son of Jehu became king over Israel at Samaria, and he reigned seventeen years.
+During the twenty-third year of Joash, son of Ahaziah, king of Judah,  
+Jehoahaz, son of Jehu, began his reign over Israel in Samaria, and his reign lasted seventeen years.
 
 ## 2 Kings 13:2
 
@@ -43,8 +43,8 @@ for the king of Aram had destroyed them and made them like the dust at threshing
 
 ## 2 Kings 13:8
 
-Now the rest of the acts of Jehoahaz and all that he did and his might,  
-are they not written in the Book of the Chronicles of the Kings of Israel?
+As for the other deeds of Jehoahaz, including all his accomplishments and his might,  
+are they not recorded in the Book of the Chronicles of the Kings of Israel?
 
 ## 2 Kings 13:9
 
@@ -90,10 +90,10 @@ So he took a bow and arrows for himself.
 
 ## 2 Kings 13:16
 
-Then he said to the king of Israel,  
-“Put your hand on the bow.”  
-And he put his hand on it,  
-and Elisha put his hands on the king’s hands.
+Then he instructed the king of Israel,  
+“Place your hand on the bow.”  
+And he placed his hand on it,  
+and Elisha placed his hands over the king’s hands.
 
 ## 2 Kings 13:17
 
@@ -106,7 +106,7 @@ for you will strike the Arameans at Aphek until you have destroyed them.”
 ## 2 Kings 13:18
 
 Then he said, “Take the arrows,” and he took them.  
-And he said to the king of Israel,  
+And he instructed the king of Israel,  
 “Strike the ground,” and he struck it three times and stopped.
 
 ## 2 Kings 13:19
@@ -125,9 +125,9 @@ Now bands of Moabites would invade the land in the spring of the year.
 
 ## 2 Kings 13:21
 
-And as they were burying a man, behold, they saw a marauding band;  
-and they threw the man into the grave of Elisha.  
-And when the man touched the bones of Elisha, he revived and stood up on his feet.
+While they were burying a man, they noticed a marauding band;  
+so they threw the man into the grave of Elisha.  
+Upon touching the bones of Elisha, the man revived and stood up on his feet.
 
 ---
 
@@ -137,9 +137,9 @@ During the time of Jehoahaz, Hazael king of Aram had oppressed Israel.
 
 ## 2 Kings 13:23
 
-But the Lord was gracious to them and had compassion on them and turned to them,  
+Yet the Lord was gracious to them and had compassion on them and turned to them,  
 because of His covenant with Abraham, Isaac, and Jacob,  
-and would not destroy them or cast them from His presence until now.
+and He would not destroy them or cast them from His presence up to this time.
 
 ## 2 Kings 13:24
 

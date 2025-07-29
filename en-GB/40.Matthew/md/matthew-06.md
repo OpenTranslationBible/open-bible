@@ -38,7 +38,7 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 
 ## Matthew 6:9
 
-“This, then, is how you should pray:
+“Pray in this way:
 
 > ‘Our Father in heaven,
 > hallowed be Your name,
@@ -46,22 +46,25 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 ## Matthew 6:10
 
 > Your kingdom come,
-> Your will be done,
+> Let Your will be done,
 > on earth as it is in heaven.
 
 ## Matthew 6:11
 
-> Provide for us this day the sustenance we need.
+> Grant us this day our daily bread.
 
 ## Matthew 6:12
 
-> And forgive us our debts,
-> as we also have forgiven our debtors.
+> And forgive us our sins,
+> as we forgive those who sin against us.
 
 ## Matthew 6:13
 
 > And lead us not into temptation,
 > but deliver us from evil.’
+
+> For Yours is the kingdom, the power, the glory,
+> for ever. Amen
 
 ---
 

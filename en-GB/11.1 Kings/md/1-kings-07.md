@@ -18,13 +18,13 @@ that were on the forty-five pillars, fifteen in each row.
 
 ## 1 Kings 7:4
 
-There were artistic window frames in three rows,  
-and window was opposite window in three tiers.
+There were decorative window frames in three rows,  
+and each window faced another window in three tiers.
 
 ## 1 Kings 7:5
 
 All the doorways and doorposts had squared artistic frames,  
-and window was opposite window in three tiers.
+and each window faced another window in three tiers.
 
 ## 1 Kings 7:6
 
@@ -65,7 +65,7 @@ and cedar.
 
 So the great courtyard all around had three rows of cut stone  
 and a row of cedar beams,  
-like the inner courtyard of the house of the Lord, and the porch of the house.
+similar to the inner courtyard of the house of the Lord, and the porch of the house.
 
 ---
 
@@ -166,7 +166,7 @@ they had borders, even borders between the frames;
 
 and on the borders which were between the frames were lions, oxen, and cherubim.  
 And on the frames there was a pedestal above,  
-and beneath the lions and oxen were wreaths of hanging work.
+and beneath the lions and oxen were wreaths of decorative work.
 
 ## 1 Kings 7:30
 
@@ -190,30 +190,30 @@ the height of a wheel was a cubit and a half.
 
 ## 1 Kings 7:33
 
-The workmanship of the wheels was like the workmanship of a chariot wheel.  
+The craftsmanship of the wheels was like that of a chariot wheel.  
 Their axles, their rims, their spokes, and their hubs were all cast.
 
 ## 1 Kings 7:34
 
 Now there were four supports at the four corners of each stand;  
-its supports were part of the stand itself.
+these supports were integral to the stand itself.
 
 ## 1 Kings 7:35
 
 On the top of the stand there was a circular form half a cubit high,  
-and on the top of the stand its stays and its borders were part of it.
+and on the top of the stand its stays and its borders were integral to it.
 
 ## 1 Kings 7:36
 
 And he engraved on the plates of its stays and on its borders,  
 cherubim, lions, and palm trees,  
-according to the clear space on each,  
+according to the available space on each,  
 with wreaths all around.
 
 ## 1 Kings 7:37
 
-He made the ten stands like this:  
-all of them had one casting, one measure, and one form.
+He made the ten stands in this manner:  
+all of them had a uniform casting, measure, and form.
 
 ---
 
@@ -261,8 +261,8 @@ All these utensils which Hiram made for King Solomon in the house of the Lord we
 
 ## 1 Kings 7:46
 
-On the plain of the Jordan the king cast them,  
-in the clay ground between Succoth and Zarethan.
+In the plain of the Jordan, the king cast them,  
+in the clay soil between Succoth and Zarethan.
 
 ## 1 Kings 7:47
 

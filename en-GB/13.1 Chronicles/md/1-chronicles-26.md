@@ -2,14 +2,14 @@
 
 ## 1 Chronicles 26:1
 
-For the divisions of the gatekeepers:  
-Of the Korahites, Meshelemiah the son of Kore, of the sons of Asaph.
+Regarding the divisions of the gatekeepers:  
+Among the Korahites, Meshelemiah, son of Kore, from the descendants of Asaph.
 
 ---
 
 ## 1 Chronicles 26:2
 
-Meshelemiah had sons:
+The sons of Meshelemiah were:
 
 > Zechariah the firstborn, Jediael the second, Zebadiah the third, Jathniel the fourth,
 
@@ -23,7 +23,7 @@ Meshelemiah had sons:
 
 ## 1 Chronicles 26:4
 
-Obed-edom had sons:
+The sons of Obed-edom were:
 
 > Shemaiah the firstborn, Jehozabad the second, Joah the third, Sacar the fourth, Nethanel the fifth,
 
@@ -32,7 +32,7 @@ Obed-edom had sons:
 ## 1 Chronicles 26:5
 
 > Ammiel the sixth, Issachar the seventh, Peullethai the eighth;  
-> for God had blessed him.
+> for the Lord had blessed him.
 
 ---
 
@@ -80,22 +80,22 @@ Also Hosah, one of the sons of Merari, had sons:
 ## 1 Chronicles 26:11
 
 > Hilkiah the second, Tebaliah the third, Zechariah the fourth.  
-> All the sons and relatives of Hosah were thirteen.
+> Altogether, the sons and relatives of Hosah were thirteen.
 
 ---
 
 ## 1 Chronicles 26:12
 
-To these divisions of the gatekeepers, the chief men, were given duties like their relatives,
+To these divisions of the gatekeepers, the leading men, were assigned duties similar to their relatives,
 
-> to minister in the house of the Lord.
+> to serve in the house of the Lord.
 
 ---
 
 ## 1 Chronicles 26:13
 
-They cast lots, the small and the great alike,  
-according to their fathers’ households, for every gate.
+They cast lots, both small and great alike,  
+according to their fathers’ households, for each gate.
 
 ---
 
@@ -120,24 +120,24 @@ For Obed-edom it was to the south,
 
 For Shuppim and Hosah it was to the west,
 
-> by the gate of Shallecheth on the ascending highway.  
+> by the gate of Shallecheth on the ascending road.  
 > Guard corresponded to guard.
 
 ---
 
 ## 1 Chronicles 26:17
 
-On the east there were six Levites,
+On the east there were six Levites assigned,
 
-> on the north four daily,  
-> on the south four daily,  
-> and at the storehouse two by two.
+> on the north four each day,  
+> on the south four each day,  
+> and at the storehouse two at a time.
 
 ---
 
 ## 1 Chronicles 26:18
 
-At the Parbar on the west there were four at the highway
+At the Parbar on the west there were four at the road
 
 > and two at the Parbar.
 

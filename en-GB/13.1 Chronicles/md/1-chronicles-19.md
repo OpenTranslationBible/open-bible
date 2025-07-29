@@ -2,21 +2,21 @@
 
 ## 1 Chronicles 19:1
 
-Now it came about after this,  
-that Nahash the king of the sons of Ammon died,
+Following these events,  
+Nahash, the king of the sons of Ammon, passed away,  
 
-> and his son became king in his place.
+> and his son succeeded him as king.
 
 ---
 
 ## 1 Chronicles 19:2
 
-Then David said,
+David resolved,
 
-> “I will show kindness to Hanun the son of Nahash,  
-> because his father showed kindness to me.”  
-> So David sent messengers to console him concerning his father.  
-> And David’s servants came into the land of the sons of Ammon to Hanun to console him.
+> “I will extend kindness to Hanun, the son of Nahash,  
+> as his father was kind to me.”  
+> Thus, David dispatched messengers to offer condolences regarding his father.  
+> David’s servants entered the land of the sons of Ammon to Hanun to express their sympathy.
 
 ---
 
@@ -69,9 +69,9 @@ And the sons of Ammon gathered together from their cities and came to the battle
 
 ## 1 Chronicles 19:8
 
-When David heard about it,
+Upon learning of this,
 
-> he sent Joab and all the army, the mighty men.
+> David sent Joab and the entire army, the mighty men.
 
 ---
 

@@ -6,7 +6,7 @@ The word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son o
 
 ## Zephaniah 1:2
 
-> “I will utterly sweep away everything
+> “I shall completely sweep away everything
 > from the face of the earth,” declares the Lord.
 
 ## Zephaniah 1:3
@@ -31,8 +31,8 @@ The word of the Lord that came to Zephaniah son of Cushi, son of Gedaliah, son o
 
 ## Zephaniah 1:6
 
-> those who have turned back from following the Lord
-> and have not sought the Lord nor inquired of him.”
+> those who have turned away from following the Lord
+> and have neither sought the Lord nor inquired of him.”
 
 ## Zephaniah 1:7
 

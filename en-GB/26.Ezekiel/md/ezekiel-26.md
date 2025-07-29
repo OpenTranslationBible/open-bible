@@ -77,10 +77,10 @@ They will take up a lament concerning you and say to you:
 
 ## Ezekiel 26:18
 
-> Now the coastlands tremble
-> on the day of your fall;
+> The coastlands now shudder
+> on the day of your downfall;
 > the islands in the sea
-> are terrified at your collapse.’
+> are in terror at your collapse.’
 
 ## Ezekiel 26:19
 

@@ -43,8 +43,8 @@ Then the Lord spoke to Job from the whirlwind,
 
 ## Job 40:9
 
-> Do you have an arm like God’s,
-> and can your voice thunder like His?
+> Do you possess strength like that of God,
+> and can your voice resound with power like His?
 
 ---
 
@@ -107,8 +107,8 @@ Then the Lord spoke to Job from the whirlwind,
 
 ## Job 40:21
 
-> Under the lotus plants it lies,
-> hidden among the reeds in the marsh.
+> Beneath the lotus plants it rests,
+> concealed among the reeds in the marsh.
 
 ## Job 40:22
 

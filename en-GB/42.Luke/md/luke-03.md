@@ -111,94 +111,94 @@ and the Holy Spirit descended upon Him in a bodily form resembling a dove. A voi
 
 Now Jesus Himself was about thirty years old when He began His ministry. He was, as was supposed, the son of Joseph,
 
-> the son of Heli,
+> whose father was Heli,
 
 ## Luke 3:24
 
 > the son of Matthat,
-> the son of Levi, the son of Melchi,
-> the son of Jannai, the son of Joseph,
+> whose father was Levi, the son of Melchi,
+> whose father was Jannai, whose father was Joseph,
 
 ## Luke 3:25
 
-> the son of Mattathias, the son of Amos,
-> the son of Nahum, the son of Esli,
-> the son of Naggai,
+> whose father was Mattathias, whose father was Amos,
+> whose father was Nahum, whose father was Esli,
+> whose father was Naggai,
 
 ## Luke 3:26
 
-> the son of Maath,
-> the son of Mattathias, the son of Semein,
-> the son of Josech, the son of Joda,
+> whose father was Maath,
+> whose father was Mattathias, whose father was Semein,
+> whose father was Josech, whose father was Joda,
 
 ## Luke 3:27
 
-> the son of Joanan, the son of Rhesa,
-> the son of Zerubbabel, the son of Shealtiel,
-> the son of Neri,
+> whose father was Joanan, whose father was Rhesa,
+> whose father was Zerubbabel, whose father was Shealtiel,
+> whose father was Neri,
 
 ## Luke 3:28
 
-> the son of Melchi,
-> the son of Addi, the son of Cosam,
-> the son of Elmadam, the son of Er,
+> whose father was Melchi,
+> whose father was Addi, whose father was Cosam,
+> whose father was Elmadam, whose father was Er,
 
 ## Luke 3:29
 
-> the son of Joshua, the son of Eliezer,
-> the son of Jorim, the son of Matthat,
-> the son of Levi,
+> whose father was Joshua, whose father was Eliezer,
+> whose father was Jorim, whose father was Matthat,
+> whose father was Levi,
 
 ## Luke 3:30
 
-> the son of Simeon,
-> the son of Judah, the son of Joseph,
-> the son of Jonam, the son of Eliakim,
+> whose father was Simeon,
+> whose father was Judah, whose father was Joseph,
+> whose father was Jonam, whose father was Eliakim,
 
 ## Luke 3:31
 
-> the son of Melea, the son of Menna,
-> the son of Mattatha, the son of Nathan,
-> the son of David,
+> whose father was Melea, whose father was Menna,
+> whose father was Mattatha, whose father was Nathan,
+> whose father was David,
 
 ## Luke 3:32
 
-> the son of Jesse,
-> the son of Obed, the son of Boaz,
-> the son of Salmon, the son of Nahshon,
+> whose father was Jesse,
+> whose father was Obed, whose father was Boaz,
+> whose father was Salmon, whose father was Nahshon,
 
 ## Luke 3:33
 
-> the son of Amminadab, the son of Admin, the son of Ram,
-> the son of Hezron, the son of Perez,
-> the son of Judah,
+> whose father was Amminadab, whose father was Admin, whose father was Ram,
+> whose father was Hezron, whose father was Perez,
+> whose father was Judah,
 
 ## Luke 3:34
 
-> the son of Jacob,
-> the son of Isaac, the son of Abraham,
-> the son of Terah, the son of Nahor,
+> whose father was Jacob,
+> whose father was Isaac, whose father was Abraham,
+> whose father was Terah, whose father was Nahor,
 
 ## Luke 3:35
 
-> the son of Serug, the son of Reu,
-> the son of Peleg, the son of Eber,
-> the son of Shelah,
+> whose father was Serug, whose father was Reu,
+> whose father was Peleg, whose father was Eber,
+> whose father was Shelah,
 
 ## Luke 3:36
 
-> the son of Cainan,
-> the son of Arphaxad, the son of Shem,
-> the son of Noah, the son of Lamech,
+> whose father was Cainan,
+> whose father was Arphaxad, whose father was Shem,
+> whose father was Noah, whose father was Lamech,
 
 ## Luke 3:37
 
-> the son of Methuselah, the son of Enoch,
-> the son of Jared, the son of Mahalaleel,
-> the son of Kenan,
+> whose father was Methuselah, whose father was Enoch,
+> whose father was Jared, whose father was Mahalaleel,
+> whose father was Kenan,
 
 ## Luke 3:38
 
-> the son of Enosh,
-> the son of Seth, the son of Adam,
-> the son of God.
+> whose father was Enosh,
+> whose father was Seth, whose father was Adam,
+> whose father was God.

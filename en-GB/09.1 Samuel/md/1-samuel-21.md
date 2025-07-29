@@ -2,8 +2,8 @@
 
 ## 1 Samuel 21:1
 
-Then David came to Nob, to Ahimelech the priest.  
-And Ahimelech came trembling to meet David and said to him, “Why are you alone, and no one with you?”
+David arrived at Nob, where Ahimelech the priest was.  
+Ahimelech, trembling, came to meet David and asked him, “Why are you alone, with no one accompanying you?”
 
 ## 1 Samuel 21:2
 
@@ -25,8 +25,8 @@ The vessels of the young men were holy, though it was an ordinary journey; how m
 
 ## 1 Samuel 21:6
 
-So the priest gave him the consecrated bread, for there was no bread there except the bread of the Presence,  
-which was removed from before the Lord in order to put hot bread in its place when it was taken away.
+Thus, the priest provided him with the consecrated bread, as there was no bread there except the bread of the Presence,  
+which was taken from before the Lord to replace it with hot bread when it was removed.
 
 ---
 
@@ -37,13 +37,13 @@ His name was Doeg the Edomite, the chief of Saul’s shepherds.
 
 ## 1 Samuel 21:8
 
-David said to Ahimelech, “Now is there no spear or sword on hand?  
-For I brought neither my sword nor my weapons with me, because the king’s matter was urgent.”
+David inquired of Ahimelech, “Is there a spear or sword available here?  
+I brought neither my sword nor my weapons with me, as the king’s matter was pressing.”
 
 ## 1 Samuel 21:9
 
-Then the priest said, “The sword of Goliath the Philistine, whom you killed in the Valley of Elah, behold, it is wrapped in a cloth behind the ephod.  
-If you would take it for yourself, take it, for there is no other except it here.”  
+The priest replied, “The sword of Goliath the Philistine, whom you defeated in the Valley of Elah, is here, wrapped in a cloth behind the ephod.  
+If you wish to take it, do so, for there is no other here.”  
 And David said, “There is none like it; give it to me.”
 
 ---

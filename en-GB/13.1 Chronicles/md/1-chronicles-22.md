@@ -2,7 +2,7 @@
 
 ## 1 Chronicles 22:1
 
-Then David said,
+At that time, David declared,
 
 > “This is the house of the Lord God,  
 > and this is the altar of burnt offering for Israel.”
@@ -27,7 +27,7 @@ David prepared large quantities of iron to make nails for the doors of the gates
 
 ## 1 Chronicles 22:4
 
-> and timbers of cedar beyond number;  
+> and cedar timbers in abundance;  
 > for the Sidonians and Tyrians brought large quantities of cedar timber to David.
 
 ---
@@ -46,9 +46,9 @@ David said,
 
 ## 1 Chronicles 22:6
 
-Then he called for his son Solomon
+He then summoned his son Solomon
 
-> and commanded him to build a house for the Lord God of Israel.
+> and instructed him to construct a house for the Lord God of Israel.
 
 ---
 
@@ -62,7 +62,7 @@ David said to Solomon,
 
 ## 1 Chronicles 22:8
 
-> But the word of the Lord came to me, saying,  
+> However, the word of the Lord came to me, saying,  
 > ‘You have shed much blood and have waged great wars;  
 > you shall not build a house for My name,  
 > because you have shed so much blood on the earth before Me.
@@ -71,18 +71,18 @@ David said to Solomon,
 
 ## 1 Chronicles 22:9
 
-> Behold, a son will be born to you, who shall be a man of rest;  
+> A son will be born to you, who shall be a man of peace;  
 > and I will give him rest from all his enemies on every side.  
 > For his name shall be Solomon,  
-> and I will give peace and quiet to Israel in his days.
+> and I will grant peace and quiet to Israel in his days.
 
 ---
 
 ## 1 Chronicles 22:10
 
-> He shall build a house for My name,  
-> and he shall be My son and I will be his Father;  
-> and I will establish the throne of his kingdom over Israel forever.’
+> He will construct a house for My name,  
+> and he will be My son and I will be his Father;  
+> and I will establish the throne of his kingdom over Israel for all time.’
 
 ---
 
@@ -104,9 +104,10 @@ David said to Solomon,
 
 ## 1 Chronicles 22:13
 
-> Then you will prosper, if you are careful to follow the statutes and the ordinances  
+> Then you will prosper and have success,
+> if you are diligent and follow the statutes and the ordinances  
 > which the Lord commanded Moses concerning Israel.  
-> Be strong and courageous, do not fear nor be dismayed.
+> Be strong and courageous, do not fear or be dismayed.
 
 ---
 
@@ -146,9 +147,9 @@ David instructed all the leaders of Israel to assist his son Solomon, saying,
 
 ## 1 Chronicles 22:18
 
-> “Is not the Lord your God with you?  
+> “Is the Lord your God not with you?  
 > And has He not given you rest on every side?  
-> For He has given the inhabitants of the land into my hand,  
+> For He has delivered the inhabitants of the land into my hand,  
 > and the land is subdued before the Lord and before His people.
 
 ---

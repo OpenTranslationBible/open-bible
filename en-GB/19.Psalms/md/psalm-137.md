@@ -3,18 +3,18 @@
 ## Psalm 137:1
 
 > By the rivers of Babylon,  
-> There we sat down and wept,  
-> When we remembered Zion.
+> There we sat and wept,  
+> And we remembered Zion.
 
 ## Psalm 137:2
 
-> Upon the willows in the midst of it  
-> We hung our harps.
+> On the willows in its midst  
+> We placed our harps.
 
 ## Psalm 137:3
 
-> For there our captors demanded of us songs,  
-> And our tormentors, mirth, saying,  
+> For there our captors asked us for songs,  
+> And our tormentors for joy, saying,  
 > “Sing us one of the songs of Zion!”
 
 ---
@@ -22,36 +22,36 @@
 ## Psalm 137:4
 
 > How can we sing the Lord’s song  
-> In a foreign land?
+> While in a foreign land?
 
 ## Psalm 137:5
 
 > If I forget you, Jerusalem,  
-> May my right hand forget its skill.
+> May my right hand lose its skill.
 
 ## Psalm 137:6
 
-> May my tongue cling to the roof of my mouth  
-> If I do not remember you,  
-> If I do not exalt Jerusalem  
-> Above my chief joy.
+> May my tongue adhere to the roof of my mouth  
+> If I fail to remember you,  
+> If I do not honour Jerusalem  
+> Above my greatest joy.
 
 ---
 
 ## Psalm 137:7
 
-> Remember, Lord, against the sons of Edom  
+> Recall, Lord, against the sons of Edom  
 > The day of Jerusalem,  
-> Those who said, “Lay it bare, lay it bare  
-> To its foundation!”
+> Those who said, “Tear it down, tear it down  
+> To its very foundation!”
 
 ## Psalm 137:8
 
 > Daughter of Babylon, you devastated one,  
 > Blessed will be the one who repays you  
-> With the retribution with which you have repaid us.
+> With the recompense you have given us.
 
 ## Psalm 137:9
 
-> Blessed will be the one who seizes and dashes your children  
-> Against the rock.
+> Blessed is he then, who would seize your children  
+> and throw them dashed on your rocks.

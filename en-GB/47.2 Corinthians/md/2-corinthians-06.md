@@ -66,7 +66,7 @@ Or what accord does Christ have with Belial, or what does a believer have in com
 
 ## 2 Corinthians 6:16
 
-Or what agreement does the temple of God have with idols? For we are the temple of the living God; just as God said:
+Or what agreement could be found between the temple of God and idols? We are the temple of the living God; as God has declared:
 
 > “I will dwell among them and walk among them;  
 > And I will be their God, and they shall be My people.
@@ -75,14 +75,14 @@ Or what agreement does the temple of God have with idols? For we are the temple 
 
 Therefore,
 
-> come out from their midst and be separate,” says the Lord.  
-> “And do not touch what is unclean;  
-> And I will welcome you.
+> come out from among them and be separate,” says the Lord.  
+> “And do not touch what is impure;  
+> And I will receive you.
 
 ## 2 Corinthians 6:18
 
 And
 
 > I will be a father to you,  
-> And you shall be sons and daughters to Me,”  
-> Says the Lord Almighty.
+> And you shall be My sons and daughters,”  
+> Declares the Lord Almighty.

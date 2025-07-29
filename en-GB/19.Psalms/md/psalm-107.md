@@ -9,12 +9,12 @@
 
 ## Psalm 107:2
 
-> The redeemed of the Lord shall say so,  
-> Those whom He has redeemed from the hand of the enemy
+> Let those redeemed by the Lord declare it,  
+> Those He has rescued from the hand of the adversary.
 
 ## Psalm 107:3
 
-> And gathered from the lands,  
+> And brought together from distant lands,  
 > From the east and from the west,  
 > From the north and from the south.
 
@@ -22,18 +22,18 @@
 
 ## Psalm 107:4
 
-> They wandered in the wilderness in a desert region;  
-> They did not find a way to an inhabited city.
+> They wandered in the wilderness, a desert region;  
+> They could not find a path to a city where they might dwell.
 
 ## Psalm 107:5
 
 > They were hungry and thirsty;  
-> Their souls felt weak within them.
+> Their souls grew faint within them.
 
 ## Psalm 107:6
 
 > Then they cried out to the Lord in their trouble;  
-> He rescued them from their distresses.
+> He delivered them from their distresses.
 
 ## Psalm 107:7
 
@@ -42,20 +42,20 @@
 
 ## Psalm 107:8
 
-> They shall give thanks to the Lord for His mercy,  
-> And for His wonders to the sons of mankind!
+> Let them give thanks to the Lord for His mercy,  
+> And for His marvellous deeds to the children of mankind!
 
 ## Psalm 107:9
 
 > For He has satisfied the thirsty soul,  
-> And He has filled the hungry soul with what is good.
+> And He has filled the hungry soul with good things.
 
 ---
 
 ## Psalm 107:10
 
-> There were those who lived in darkness and in the shadow of death,  
-> Prisoners in misery and chains,
+> There were those who dwelt in darkness and in the shadow of death,  
+> Prisoners in suffering and chains,
 
 ## Psalm 107:11
 
@@ -70,90 +70,90 @@
 ## Psalm 107:13
 
 > Then they cried out to the Lord in their trouble;  
-> He saved them from their distresses.
+> He rescued them from their distresses.
 
 ## Psalm 107:14
 
 > He brought them out of darkness and the shadow of death  
-> And broke their bands apart.
+> And broke their chains apart.
 
 ## Psalm 107:15
 
-> They shall give thanks to the Lord for His mercy,  
-> And for His wonders to the sons of mankind!
+> Let them give thanks to the Lord for His mercy,  
+> And for His marvellous deeds to the children of mankind!
 
 ## Psalm 107:16
 
 > For He has shattered gates of bronze,  
-> And cut off bars of iron.
+> And cut through bars of iron.
 
 ---
 
 ## Psalm 107:17
 
-> Fools, because of their rebellious way,  
-> And because of their guilty deeds, were afflicted.
+> Fools, because of their rebellious ways,  
+> And because of their wrongdoings, were afflicted.
 
 ## Psalm 107:18
 
 > Their souls loathed all kinds of food,  
-> And they came close to the gates of death.
+> And they drew near to the gates of death.
 
 ## Psalm 107:19
 
 > Then they cried out to the Lord in their trouble;  
-> He saved them from their distresses.
+> He rescued them from their distresses.
 
 ## Psalm 107:20
 
 > He sent His word and healed them,  
-> And saved them from their destruction.
+> And saved them from their ruin.
 
 ## Psalm 107:21
 
-> They shall give thanks to the Lord for His mercy,  
-> And for His wonders to the sons of mankind!
+> Let them give thanks to the Lord for His mercy,  
+> And for His marvellous deeds to the children of mankind!
 
 ## Psalm 107:22
 
-> They shall also offer sacrifices of thanksgiving,  
-> And tell of His works with joyful singing.
+> Let them also bring offerings of gratitude,  
+> And proclaim His works with joyful singing.
 
 ---
 
 ## Psalm 107:23
 
 > Those who go down to the sea in ships,  
-> Who do business on great waters,
+> Who conduct business on great waters,
 
 ## Psalm 107:24
 
-> They have seen the works of the Lord,  
+> They have witnessed the works of the Lord,  
 > And His wonders in the deep.
 
 ## Psalm 107:25
 
-> For He spoke and raised a stormy wind,  
+> For He spoke and stirred up a stormy wind,  
 > Which lifted the waves of the sea.
 
 ## Psalm 107:26
 
 > They rose up to the heavens, they went down to the depths;  
-> Their souls melted away in their misery.
+> Their courage melted away in their distress.
 
 ## Psalm 107:27
 
-> They reeled and staggered like a drunken person,  
+> They reeled and staggered like someone overcome with drink,  
 > And were at their wits’ end.
 
 ## Psalm 107:28
 
 > Then they cried out to the Lord in their trouble,  
-> And He brought them out of their distresses.
+> And He delivered them from their distresses.
 
 ## Psalm 107:29
 
-> He caused the storm to be still,  
+> He calmed the storm to a whisper,  
 > So that the waves of the sea were hushed.
 
 ## Psalm 107:30
@@ -163,71 +163,71 @@
 
 ## Psalm 107:31
 
-> They shall give thanks to the Lord for His mercy,  
-> And for His wonders to the sons of mankind!
+> Let them give thanks to the Lord for His mercy,  
+> And for His marvellous deeds to the children of mankind!
 
 ## Psalm 107:32
 
-> They shall also exalt Him in the congregation of the people,  
-> And praise Him at the seat of the elders.
+> Let them also exalt Him in the congregation of the people,  
+> And praise Him at the assembly of the elders.
 
 ---
 
 ## Psalm 107:33
 
 > He turns rivers into a wilderness,  
-> And springs of water into a thirsty ground;
+> And springs of water into parched ground;
 
 ## Psalm 107:34
 
-> A fruitful land into a salt waste,  
+> A fruitful land into a barren wasteland,  
 > Because of the wickedness of those who dwell in it.
 
 ## Psalm 107:35
 
-> He turns a wilderness into a pool of water,  
+> He transforms a wilderness into a pool of water,  
 > And a dry land into springs of water;
 
 ## Psalm 107:36
 
 > And He has the hungry live there,  
-> So that they may establish an inhabited city,
+> So that they may establish a city to dwell in,
 
 ## Psalm 107:37
 
-> And sow fields and plant vineyards,  
+> And cultivate fields and plant vineyards,  
 > And gather a fruitful harvest.
 
 ## Psalm 107:38
 
 > He also blesses them and they multiply greatly,  
-> And He does not let their cattle decrease.
+> And He does not let their cattle diminish.
 
 ---
 
 ## Psalm 107:39
 
-> When they become few and lowly  
-> Because of oppression, misery, and sorrow,
+> When they are reduced and brought low  
+> Due to oppression, misery, and sorrow,
 
 ## Psalm 107:40
 
 > He pours contempt upon noblemen  
-> And makes them wander in a pathless wasteland.
+> And makes them wander in a trackless wasteland.
 
 ## Psalm 107:41
 
-> But He sets the needy securely on high away from affliction,  
-> And makes his families like a flock.
+> But He sets the needy securely on high, away from affliction,  
+> And makes their families like a flock.
 
 ## Psalm 107:42
 
 > The upright see it and are glad;  
-> But all injustice shuts its mouth.
+> But all injustice is silenced.
 
 ---
 
 ## Psalm 107:43
 
-> Who is wise? He is to pay attention to these things,  
+> Who is wise? Let him pay attention to these things,  
 > And consider the mercy of the Lord.

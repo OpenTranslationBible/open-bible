@@ -9,8 +9,8 @@
 
 ## Psalm 3:2
 
-> Many are saying of my soul,  
-> “There is no salvation for him in God.”
+> Many are saying about me,  
+> “There is no deliverance for him through God.”
 
 > Selah
 
@@ -18,13 +18,13 @@
 
 ## Psalm 3:3
 
-> But You, Lord, are a shield around me,  
-> My glory, and the One who lifts my head.
+> Yet You, Lord, are a shield around me,  
+> My glory, and the One who lifts my head high.
 
 ## Psalm 3:4
 
-> I was crying out to the Lord with my voice,  
-> And He answered me from His holy mountain.
+> I called out to the Lord with my voice,  
+> And He responded to me from His sacred mountain.
 
 > Selah
 
@@ -33,26 +33,26 @@
 ## Psalm 3:5
 
 > I lay down and slept;  
-> I awoke, for the Lord sustains me.
+> I awoke, for the Lord upholds me.
 
 ## Psalm 3:6
 
-> I will not be afraid of ten thousands of people  
-> Who have set themselves against me all around.
+> I will not fear the multitudes of people  
+> Who have encircled me.
 
 ---
 
 ## Psalm 3:7
 
-> Arise, Lord; save me, my God!  
-> For You have struck all my enemies on the cheek;  
-> You have shattered the teeth of the wicked.
+> Rise up, Lord; deliver me, my God!  
+> For You have struck all my foes on the cheek;  
+> You have broken the teeth of the wicked.
 
 ---
 
 ## Psalm 3:8
 
-> Salvation belongs to the Lord;  
-> May Your blessing be upon Your people.
+> Deliverance is the Lord's;  
+> May Your blessing rest upon Your people.
 
 > Selah

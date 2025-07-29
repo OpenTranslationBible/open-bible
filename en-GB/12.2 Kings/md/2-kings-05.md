@@ -13,9 +13,9 @@ and she served Naaman’s wife.
 
 ## 2 Kings 5:3
 
-And she said to her mistress,  
-“If only my master were with the prophet who is in Samaria!  
-Then he would cure him of his leprosy.”
+And she spoke to her mistress,  
+“If only my master were with the prophet in Samaria!  
+He would surely heal him of his leprosy.”
 
 ## 2 Kings 5:4
 
@@ -24,9 +24,9 @@ So Naaman went in and told his master, saying,
 
 ## 2 Kings 5:5
 
-Then the king of Aram said,  
+Then the king of Aram replied,  
 “Go now, and I will send a letter to the king of Israel.”  
-So he departed and took with him ten talents of silver, six thousand shekels of gold, and ten changes of clothes.
+So he departed, taking with him ten talents of silver, six thousand shekels of gold, and ten changes of clothes.
 
 ## 2 Kings 5:6
 
@@ -54,9 +54,9 @@ So Naaman came with his horses and his chariot, and stood at the doorway of the 
 
 ## 2 Kings 5:10
 
-And Elisha sent a messenger to him, saying,  
+And Elisha sent a messenger to him, instructing,  
 “Go and wash in the Jordan seven times,  
-and your flesh shall be restored to you, and you shall be clean.”
+and your flesh will be restored to you, and you shall be clean.”
 
 ## 2 Kings 5:11
 
@@ -78,15 +78,15 @@ How much more then, when he says to you, ‘Wash, and be clean’?”
 
 ## 2 Kings 5:14
 
-So he went down and dipped himself seven times in the Jordan, according to the word of the man of God;  
-and his flesh was restored like the flesh of a little child, and he was clean.
+So he went down and immersed himself seven times in the Jordan, as instructed by the man of God;  
+and his flesh was restored like that of a young child, and he was clean.
 
 ---
 
 ## 2 Kings 5:15
 
 Then he returned to the man of God with all his company, and came and stood before him.  
-And he said,  
+And he declared,  
 “Behold now, I know that there is no God in all the earth, except in Israel;  
 so please accept a gift from your servant now.”
 
@@ -126,7 +126,7 @@ As the Lord lives, I will run after him and take something from him.”
 ## 2 Kings 5:21
 
 So Gehazi pursued Naaman.  
-When Naaman saw someone running after him, he came down from the chariot to meet him and said,  
+When Naaman saw someone running after him, he came down from the chariot to meet him and asked,  
 “Is everything well?”
 
 ## 2 Kings 5:22
@@ -151,9 +151,9 @@ and then sent the men away, and they departed.
 ## 2 Kings 5:25
 
 But he went in and stood before his master.  
-And Elisha said to him,  
+And Elisha asked him,  
 “Where have you been, Gehazi?”  
-And he said, “Your servant went nowhere.”
+And he replied, “Your servant went nowhere.”
 
 ## 2 Kings 5:26
 

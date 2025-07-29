@@ -2,9 +2,9 @@
 
 ## 2 Kings 12:1
 
-In the seventh year of Jehu, Jehoash became king,  
-and he reigned forty years in Jerusalem.  
-And his mother’s name was Zibiah of Beersheba.
+In the seventh year of Jehu, Jehoash began his reign,  
+and he ruled for forty years in Jerusalem.  
+His mother was Zibiah from Beersheba.
 
 ## 2 Kings 12:2
 
@@ -13,8 +13,8 @@ in which Jehoiada the priest instructed him.
 
 ## 2 Kings 12:3
 
-Only the high places were not taken away;  
-the people still sacrificed and burned incense on the high places.
+However, the high places were not removed;  
+the people continued to offer sacrifices and burn incense on them.
 
 ---
 
@@ -90,14 +90,14 @@ for they dealt faithfully.
 ## 2 Kings 12:16
 
 The money from the guilt offerings and the money from the sin offerings  
-was not brought into the house of the Lord; it belonged to the priests.
+was not brought into the house of the Lord; it was kept by the priests.
 
 ---
 
 ## 2 Kings 12:17
 
-Then Hazael king of Aram went up and fought against Gath and captured it,  
-and Hazael set his face to go up to Jerusalem.
+Then Hazael king of Aram advanced and fought against Gath and captured it,  
+and Hazael prepared to go up to Jerusalem.
 
 ## 2 Kings 12:18
 
@@ -110,8 +110,8 @@ and sent them to Hazael king of Aram. Then he withdrew from Jerusalem.
 
 ## 2 Kings 12:19
 
-Now the rest of the acts of Joash and all that he did,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+As for the other events of Joash's reign and all he accomplished,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 12:20
 
@@ -122,4 +122,4 @@ and struck Joash at the house of Millo, on the way down to Silla.
 
 For Jozacar the son of Shimeath and Jehozabad the son of Shomer, his servants, struck him and he died.  
 And they buried him with his fathers in the city of David,  
-and Amaziah his son became king in his place.
+and Amaziah his son succeeded him as king.

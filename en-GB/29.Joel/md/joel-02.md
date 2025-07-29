@@ -169,8 +169,8 @@ The Lord replied to his people:
 
 ## Joel 2:24
 
-> The threshing floors will be filled with grain;
-> the vats will overflow with new wine and oil.
+> The threshing floors will be brimming with grain;
+> the vats will be overflowing with new wine and oil.
 
 ## Joel 2:25
 
@@ -195,15 +195,15 @@ The Lord replied to his people:
 
 ## Joel 2:28
 
-> “And afterward,
-> I will pour out my Spirit on all people.
+> “And after this,
+> I will pour out my Spirit upon all people.
 > Your sons and daughters will prophesy,
 > your old men will dream dreams,
 > your young men will see visions.
 
 ## Joel 2:29
 
-> Even on my servants, both men and women,
+> Even upon my servants, both male and female,
 > I will pour out my Spirit in those days.
 
 ## Joel 2:30
@@ -219,7 +219,7 @@ The Lord replied to his people:
 
 ## Joel 2:32
 
-> And everyone who calls
+> And all who call
 > on the name of the Lord will be saved;
 > for on Mount Zion and in Jerusalem
 > there will be deliverance,

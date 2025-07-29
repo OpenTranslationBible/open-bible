@@ -15,35 +15,34 @@
 
 ## Hosea 14:3
 
-> Assyria will not save us,  
-> We will not ride on horses;  
-> Nor will we say again, ‘Our god’  
-> To the work of our hands;  
-> For in You the orphan finds mercy.”
+> Assyria cannot deliver us,  
+> We shall not rely on horses;  
+> Nor will we call the work of our hands, ‘Our god’;  
+> For in You the orphan finds compassion.”
 
 ## Hosea 14:4
 
-> I will heal their apostasy,  
-> I will love them freely,  
-> For My anger has turned away from them.
+> I will restore their faithfulness,  
+> I will love them without restraint,  
+> For My anger has departed from them.
 
 ## Hosea 14:5
 
-> I will be like the dew to Israel;  
-> He will blossom like the lily,  
-> And take root like the cedars of Lebanon.
+> I will be like the morning dew to Israel;  
+> He will flourish like the lily,  
+> Establishing roots like the cedars of Lebanon.
 
 ## Hosea 14:6
 
-> His shoots will sprout,  
-> And his beauty will be like the olive tree,  
-> And his fragrance like the cedars of Lebanon.
+> His branches will spread,  
+> And his splendour will be like the olive tree,  
+> And his scent like the cedars of Lebanon.
 
 ## Hosea 14:7
 
-> Those who live in his shadow  
-> Will again raise grain,  
-> And they will blossom like the vine.  
+> Those who dwell in his shade  
+> Will once more cultivate grain,  
+> And they will flourish like the vine.  
 > His fame will be like the wine of Lebanon.
 
 ## Hosea 14:8
@@ -55,8 +54,8 @@
 
 ## Hosea 14:9
 
-> Whoever is wise, let him understand these things;  
-> Whoever is discerning, let him know them.  
-> For the ways of the Lord are right,  
+> Whoever is wise, let him know these things;  
+> Whoever is discerning, let him recognise them.  
+> For the ways of the Lord are just,  
 > And the righteous will walk in them,  
 > But wrongdoers will stumble in them.

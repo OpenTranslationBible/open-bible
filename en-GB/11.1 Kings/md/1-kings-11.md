@@ -14,43 +14,43 @@ Solomon clung to these in love.
 
 ## 1 Kings 11:3
 
-He had seven hundred wives, princesses, and three hundred concubines,  
-and his wives turned his heart away.
+He had seven hundred wives of royal birth, and three hundred concubines,  
+and his wives influenced his heart.
 
 ## 1 Kings 11:4
 
 For when Solomon was old,  
-his wives turned his heart away after other gods;  
+his wives led his heart astray after other gods;  
 and his heart was not wholly devoted to the Lord his God,  
 as the heart of his father David had been.
 
 ## 1 Kings 11:5
 
-Solomon followed Ashtoreth the goddess of the Sidonians,  
-and Milcom the detestable idol of the Ammonites.
+Solomon pursued Ashtoreth, the goddess of the Sidonians,  
+and Milcom, the idol of the Ammonites.
 
 ## 1 Kings 11:6
 
-Solomon did what was evil in the sight of the Lord,  
-and did not follow the Lord fully,  
+Solomon acted in a way displeasing to the Lord,  
+and did not follow the Lord completely,  
 as David his father had done.
 
 ## 1 Kings 11:7
 
-Then Solomon built a high place for Chemosh the detestable idol of Moab,  
+Then Solomon built a high place for Chemosh, the idol of Moab,  
 on the mountain that is east of Jerusalem,  
-and for Molech the detestable idol of the sons of Ammon.
+and for Molech, the idol of the sons of Ammon.
 
 ## 1 Kings 11:8
 
-He did the same for all his foreign wives,  
-who burned incense and sacrificed to their gods.
+He did similarly for all his foreign wives,  
+who burned incense and offered sacrifices to their gods.
 
 ---
 
 ## 1 Kings 11:9
 
-Now the Lord was angry with Solomon  
+Now the Lord was displeased with Solomon  
 because his heart had turned away from the Lord, the God of Israel,  
 who had appeared to him twice,
 
@@ -74,7 +74,7 @@ but I will tear it away from the hand of your son.
 
 ## 1 Kings 11:13
 
-Yet I will not tear away all the kingdom,  
+Yet I will not remove the entire kingdom,  
 but I will give one tribe to your son,  
 for the sake of My servant David and for the sake of Jerusalem, which I have chosen.”
 
@@ -82,8 +82,8 @@ for the sake of My servant David and for the sake of Jerusalem, which I have cho
 
 ## 1 Kings 11:14
 
-Then the Lord raised up an adversary against Solomon,  
-Hadad the Edomite; he was of the royal line in Edom.
+Then the Lord brought forth an adversary against Solomon,  
+Hadad the Edomite; he was of the royal lineage in Edom.
 
 ## 1 Kings 11:15
 
@@ -94,7 +94,7 @@ he struck down every male in Edom.
 ## 1 Kings 11:16
 
 For Joab and all Israel stayed there for six months,  
-until he had eliminated every male in Edom.
+until he had dealt with every male in Edom.
 
 ## 1 Kings 11:17
 
@@ -106,7 +106,7 @@ while Hadad was still a young boy.
 
 They set out from Midian and came to Paran,  
 and they took men with them from Paran and came to Egypt,  
-to Pharaoh king of Egypt, who gave him a house, and assigned him food,  
+to Pharaoh king of Egypt, who provided him with a house, and assigned him food,  
 and gave him land.
 
 ## 1 Kings 11:19
@@ -136,7 +136,7 @@ And he said, “Nothing; nevertheless, you must surely let me go.”
 
 ## 1 Kings 11:23
 
-God also raised up another adversary to him,  
+God also raised up another adversary for him,  
 Rezon the son of Eliada, who had fled from his lord Hadadezer king of Zobah.
 
 ## 1 Kings 11:24
@@ -182,7 +182,7 @@ and the two of them were alone in the field.
 
 ## 1 Kings 11:30
 
-Then Ahijah took hold of the new cloak which was on him  
+Then Ahijah took hold of the new cloak he was wearing  
 and tore it into twelve pieces.
 
 ## 1 Kings 11:31
@@ -194,7 +194,7 @@ and give you ten tribes.
 
 ## 1 Kings 11:32
 
-But he shall have one tribe, for the sake of My servant David  
+But he shall retain one tribe, for the sake of My servant David  
 and for the sake of Jerusalem,  
 the city which I have chosen from all the tribes of Israel,
 
@@ -210,7 +210,7 @@ as his father David did.
 
 ## 1 Kings 11:34
 
-Nevertheless, I will not take the whole kingdom out of his hand,  
+Nevertheless, I will not take the entire kingdom out of his hand,  
 but I will make him ruler all the days of his life,  
 for the sake of My servant David whom I chose,  
 who kept My commandments and My statutes.
@@ -223,12 +223,12 @@ and give it to you—that is, ten tribes.
 ## 1 Kings 11:36
 
 But to his son I will give one tribe,  
-so that My servant David may always have a lamp before Me in Jerusalem,  
+so that My servant David may always have a light before Me in Jerusalem,  
 the city where I have chosen for Myself to put My name.
 
 ## 1 Kings 11:37
 
-However, I will take you, and you shall reign over all that you desire,  
+Yet, I will take you, and you shall rule over all that your heart desires,  
 and you shall be king over Israel.
 
 ## 1 Kings 11:38
@@ -255,8 +255,8 @@ and he stayed in Egypt until the death of Solomon.
 
 ## 1 Kings 11:41
 
-Now the rest of the acts of Solomon, and whatever he did, and his wisdom,  
-are they not written in the Book of the Acts of Solomon?
+Now the rest of Solomon's deeds, and all that he accomplished, and his wisdom,  
+are they not recorded in the Book of the Acts of Solomon?
 
 ## 1 Kings 11:42
 

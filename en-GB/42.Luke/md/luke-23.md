@@ -124,9 +124,9 @@ For the time will come when you will say, ‘Blessed are the barren, the wombs t
 
 ## Luke 23:30
 
-Then
+At that time,
 
-> they will say to the mountains, ‘Fall on us!’
+> they will call to the mountains, ‘Fall on us!’
 > and to the hills, ‘Cover us!’
 
 ## Luke 23:31

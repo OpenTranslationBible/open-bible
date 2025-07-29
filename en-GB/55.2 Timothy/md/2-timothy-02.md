@@ -42,23 +42,23 @@ For this reason I persevere in all things for the sake of those who are chosen, 
 
 ## 2 Timothy 2:11
 
-The statement is trustworthy:
+This saying is trustworthy:
 
-> For if we died with Him,
-> we will also live with Him;
+> For, if we have died with Him,
+> we shall also live with Him;
 
 ## 2 Timothy 2:12
 
-> If we endure,
-> we will also reign with Him;  
-> If we deny Him,
-> He also will deny us;
+> If we persevere,
+> we shall also reign with Him;  
+> If we disown Him,
+> He will disown us as well;
 
 ## 2 Timothy 2:13
 
-> If we are faithless,
+> If we are unfaithful,
 > He remains faithful,
-> for He cannot deny Himself.
+> for He cannot disown Himself.
 
 ## 2 Timothy 2:14
 

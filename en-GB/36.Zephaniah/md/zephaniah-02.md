@@ -2,15 +2,15 @@
 
 ## Zephaniah 2:1
 
-> Gather yourselves together, yes, join together,  
+> Gather yourselves, yes, come together,  
 > You nation without shame,
 
 ## Zephaniah 2:2
 
-> Before the decree takes effect—  
+> Before the decree is fulfilled—  
 > The day passes like chaff—  
-> Before the burning anger of the Lord comes upon you,  
-> Before the day of the Lord’s anger comes upon you.
+> Before the fierce anger of the Lord comes upon you,  
+> Before the day of the Lord’s wrath comes upon you.
 
 ## Zephaniah 2:3
 
@@ -32,16 +32,16 @@
 
 ## Zephaniah 2:5
 
-> Woe to the inhabitants of the seacoast,  
+> Alas for the inhabitants of the seacoast,  
 > The nation of the Cherethites!  
 > The word of the Lord is against you,  
 > Canaan, land of the Philistines;  
-> And I will eliminate you  
+> And I will remove you  
 > So that there will be no inhabitant.
 
 ## Zephaniah 2:6
 
-> So the seacoast will become grazing places,  
+> Thus, the seacoast will become grazing lands,  
 > With pastures for shepherds and folds for flocks.
 
 ## Zephaniah 2:7
@@ -57,9 +57,9 @@
 
 ## Zephaniah 2:8
 
-> “I have heard the taunting of Moab  
-> And the abusive speech of the sons of Ammon,  
-> With which they have taunted My people  
+> “I have heard the insults of Moab  
+> And the mocking words of the sons of Ammon,  
+> With which they have reviled My people  
 > And boasted against their territory.
 
 ## Zephaniah 2:9
@@ -76,7 +76,7 @@
 ## Zephaniah 2:10
 
 > This they will have in return for their arrogance,  
-> Because they have taunted and boasted  
+> Because they have reviled and boasted  
 > Against the people of the Lord of armies.
 
 ## Zephaniah 2:11
@@ -98,7 +98,7 @@
 ## Zephaniah 2:13
 
 > And He will stretch out His hand against the north  
-> And eliminate Assyria,  
+> And bring down Assyria,  
 > And He will make Nineveh a desolation,  
 > Parched like the wilderness.
 

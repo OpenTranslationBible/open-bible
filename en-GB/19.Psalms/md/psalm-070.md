@@ -16,8 +16,8 @@
 
 ## Psalm 70:3
 
-> May those who say, “Aha, aha!” be turned back  
-> Because of their shame.
+> May those who mock with “Aha, aha!” be turned back  
+> Due to their disgrace.
 
 ## Psalm 70:4
 

@@ -8,31 +8,31 @@
 
 ## Psalm 1:2
 
-> But his delight is in the Law of the Lord,  
-> And on His Law he meditates day and night.
+> Yet he finds joy in the Lord's Law,  
+> And he reflects on His Law both day and night.
 
 ## Psalm 1:3
 
-> He will be like a tree planted by streams of water,  
-> Which yields its fruit in its season,  
-> And its leaf does not wither;  
-> And in whatever he does, he prospers.
+> He is like a tree planted by streams of water,  
+> Which bears its fruit in its season,  
+> And its leaf remains green;  
+> And in all that he undertakes, he thrives.
 
 ---
 
 ## Psalm 1:4
 
-> The wicked are not so,  
-> But they are like chaff which the wind blows away.
+> The wicked are not like this,  
+> But they resemble chaff that the wind drives away.
 
 ## Psalm 1:5
 
-> Therefore the wicked will not stand in the judgment,  
-> Nor sinners in the assembly of the righteous.
+> Thus, the wicked will not endure in the judgment,  
+> Nor will sinners be found in the gathering of the righteous.
 
 ---
 
 ## Psalm 1:6
 
-> For the Lord knows the way of the righteous,  
-> But the way of the wicked will perish.
+> For the Lord is aware of the path of the righteous,  
+> But the path of the wicked leads to ruin.

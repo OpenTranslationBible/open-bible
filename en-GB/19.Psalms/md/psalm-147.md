@@ -4,103 +4,103 @@
 
 > Praise the Lord!
 
-> For it is good to sing praises to our God;  
-> For it is pleasant and praise is beautiful.
+> It is good to sing praises to our God;  
+> It is delightful, and such praise is lovely.
 
 ---
 
 ## Psalm 147:2
 
-> The Lord builds up Jerusalem;  
-> He gathers the outcasts of Israel.
+> The Lord restores Jerusalem;  
+> He gathers the exiles of Israel.
 
 ## Psalm 147:3
 
-> He heals the brokenhearted  
-> And binds up their wounds.
+> He mends the broken-hearted  
+> And heals their wounds.
 
 ## Psalm 147:4
 
-> He counts the number of the stars;  
-> He gives names to all of them.
+> He numbers the stars;  
+> He names each one.
 
 ## Psalm 147:5
 
-> Great is our Lord, and abundant in strength;  
-> His understanding is infinite.
+> Great is our Lord, and mighty in power;  
+> His understanding knows no bounds.
 
 ## Psalm 147:6
 
-> The Lord supports the afflicted;  
-> He brings the wicked down to the ground.
+> The Lord upholds the oppressed;  
+> He brings the wicked to the ground.
 
 ---
 
 ## Psalm 147:7
 
-> Sing to the Lord with thanksgiving;  
-> Sing praises to our God on the lyre,
+> Offer songs to the Lord with gratitude;  
+> Play music to our God on the lyre,
 
 ---
 
 ## Psalm 147:8
 
-> Who covers the heavens with clouds,  
-> Who provides rain for the earth,  
-> Who makes grass sprout on the mountains.
+> Who spreads clouds across the sky,  
+> Who sends rain upon the earth,  
+> Who causes grass to flourish on the mountains.
 
 ## Psalm 147:9
 
-> He gives animals their food,  
-> And to the young ravens that cry.
+> He provides food for the animals,  
+> And to the young ravens when they call.
 
 ---
 
 ## Psalm 147:10
 
-> He does not delight in the strength of the horse;  
-> He does not take pleasure in the legs of a man.
+> He finds no joy in the strength of the horse;  
+> He takes no pleasure in the legs of a man.
 
 ## Psalm 147:11
 
-> The Lord favours those who fear Him,  
-> Those who wait for His mercy.
+> The Lord delights in those who revere Him,  
+> Those who hope in His mercy.
 
 ---
 
 ## Psalm 147:12
 
 > Praise the Lord, Jerusalem!  
-> Praise your God, Zion!
+> Honour your God, Zion!
 
 ---
 
 ## Psalm 147:13
 
-> For He has strengthened the bars of your gates;  
-> He has blessed your sons among you.
+> For He has fortified the bars of your gates;  
+> He has blessed your children within you.
 
 ## Psalm 147:14
 
-> He makes peace in your borders;  
-> He satisfies you with the finest of the wheat.
+> He grants peace within your borders;  
+> He fills you with the finest wheat.
 
 ---
 
 ## Psalm 147:15
 
 > He sends His command to the earth;  
-> His word runs very swiftly.
+> His word moves swiftly.
 
 ## Psalm 147:16
 
-> He gives snow like wool;  
-> He scatters the frost like ashes.
+> He bestows snow like wool;  
+> He spreads frost like ashes.
 
 ## Psalm 147:17
 
-> He hurls His ice as fragments;  
-> Who can stand before His cold?
+> He casts His ice like fragments;  
+> Who can withstand His cold?
 
 ## Psalm 147:18
 
@@ -111,11 +111,11 @@
 
 ## Psalm 147:19
 
-> He declares His words to Jacob,  
-> His statutes and His judgments to Israel.
+> He reveals His words to Jacob,  
+> His statutes and judgments to Israel.
 
 ## Psalm 147:20
 
-> He has not dealt this way with any other nation;  
-> And as for His judgments, they have not known them.  
+> He has not acted this way with any other nation;  
+> And as for His judgments, they have not understood them.  
 > Praise the Lord!

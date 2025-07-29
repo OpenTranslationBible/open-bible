@@ -9,45 +9,45 @@
 
 ## Psalm 142:2
 
-> I pour out my complaint before Him;  
-> I declare my trouble before Him.
+> I pour out my distress before Him;  
+> I reveal my troubles to Him.
 
 ---
 
 ## Psalm 142:3
 
-> When my spirit felt weak within me,  
-> You knew my path.  
-> In the way where I walk  
-> They have hidden a trap for me.
+> When my spirit was overwhelmed within me,  
+> You were aware of my going.  
+> On the path where I walk  
+> They have set a snare for me.
 
 ## Psalm 142:4
 
-> Look to the right and see;  
-> For there is no one who regards me.  
+> Look to the right and observe;  
+> For there is no one who notices me.  
 > There is no escape for me;  
-> No one cares for my soul.
+> No one is concerned for my soul.
 
 ---
 
 ## Psalm 142:5
 
-> I cried out to You, Lord;  
-> I said, “You are my refuge,  
-> My portion in the land of the living.
+> I called out to You, Lord;  
+> I declared, “You are my refuge,  
+> My share in the land of the living.
 
 ---
 
 ## Psalm 142:6
 
-> Give Your attention to my cry,  
+> Listen to my cry,  
 > For I have been brought very low;  
-> Rescue me from my persecutors,  
-> For they are too strong for me.
+> Deliver me from my persecutors,  
+> For they are too powerful for me.
 
 ## Psalm 142:7
 
-> Bring my soul out of prison,  
+> Raise my soul up from sorrow,  
 > So that I may give thanks to Your name;  
-> The righteous will surround me,  
-> For You will look after me.”
+> The righteous will gather around me,  
+> For You will care for me.”

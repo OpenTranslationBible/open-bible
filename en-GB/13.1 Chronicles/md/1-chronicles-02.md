@@ -24,15 +24,15 @@ The sons of Judah were:
 
 ## 1 Chronicles 2:4
 
-Tamar his daughter-in-law bore him Perez and Zerah.
+Tamar, Judah's daughter-in-law, gave birth to Perez and Zerah.
 
-> Judah had five sons in all.
+> Judah had five sons in total.
 
 ---
 
 ## 1 Chronicles 2:5
 
-The sons of Perez were:
+Perez was the father of two sons:
 
 > Hezron and Hamul.
 
@@ -40,23 +40,23 @@ The sons of Perez were:
 
 ## 1 Chronicles 2:6
 
-The sons of Zerah were:
+Zerah's sons were:
 
-> Zimri, Ethan, Heman, Calcol, and Dara—five of them in all.
+> Zimri, Ethan, Heman, Calcol, and Dara—five in total.
 
 ---
 
 ## 1 Chronicles 2:7
 
-The son of Carmi was:
+Carmi's son was:
 
-> Achar, the troubler of Israel, who violated the ban.
+> Achar, who brought trouble to Israel by violating the ban.
 
 ---
 
 ## 1 Chronicles 2:8
 
-The son of Ethan was:
+Ethan had a son named:
 
 > Azariah.
 
@@ -64,7 +64,7 @@ The son of Ethan was:
 
 ## 1 Chronicles 2:9
 
-Now the sons of Hezron who were born to him were:
+Hezron had sons, who were:
 
 > Jerahmeel, Ram, and Chelubai.
 
@@ -99,13 +99,13 @@ Jesse fathered Eliab his firstborn,
 
 ## 1 Chronicles 2:14
 
-> Nethanel the fourth,  
-> Raddai the fifth,
+> Nethanel was the fourth,  
+> Raddai was the fifth,
 
 ## 1 Chronicles 2:15
 
-> Ozem the sixth,  
-> David the seventh.
+> Ozem was the sixth,  
+> David was the seventh.
 
 ---
 
@@ -114,7 +114,7 @@ Jesse fathered Eliab his firstborn,
 Their sisters were:
 
 > Zeruiah and Abigail.  
-> And the three sons of Zeruiah were:
+> Zeruiah had three sons:
 
 > Abshai, Joab, and Asahel.
 
@@ -122,15 +122,15 @@ Their sisters were:
 
 ## 1 Chronicles 2:17
 
-Abigail gave birth to Amasa,
+Abigail was the mother of Amasa,
 
-> and the father of Amasa was Jether the Ishmaelite.
+> and Amasa's father was Jether the Ishmaelite.
 
 ---
 
 ## 1 Chronicles 2:18
 
-Now Caleb the son of Hezron fathered children by Azubah his wife and by Jerioth;  
+Now Caleb, the son of Hezron, fathered children by Azubah his wife and by Jerioth;  
 and these were her sons:
 
 > Jesher, Shobab, and Ardon.
@@ -139,7 +139,7 @@ and these were her sons:
 
 ## 1 Chronicles 2:19
 
-When Azubah died, Caleb married Ephrath,
+When Azubah passed away, Caleb married Ephrath,
 
 > and she bore him Hur.
 
@@ -153,9 +153,9 @@ Hur was the father of Uri, and Uri fathered Bezalel.
 
 ## 1 Chronicles 2:21
 
-Afterward Hezron went in to the daughter of Machir the father of Gilead,
+Later, Hezron married the daughter of Machir, the father of Gilead,
 
-> whom he married when he was sixty years old;  
+> whom he wed at the age of sixty;  
 > and she bore him Segub.
 
 ---
@@ -176,8 +176,8 @@ All these were the descendants of Machir, the father of Gilead.
 
 ## 1 Chronicles 2:24
 
-After the death of Hezron in Caleb-ephrathah,  
-Abijah, the wife of Hezron, bore him Ashhur,
+After Hezron's death in Caleb-ephrathah,  
+Abijah, Hezron's wife, bore him Ashhur,
 
 > the father of Tekoa.
 
@@ -185,7 +185,7 @@ Abijah, the wife of Hezron, bore him Ashhur,
 
 ## 1 Chronicles 2:25
 
-Now the sons of Jerahmeel, the firstborn of Hezron, were:
+Now Jerahmeel, the firstborn of Hezron, had sons:
 
 > Ram the firstborn, then Bunah, Oren, Ozem, and Ahijah.
 
@@ -193,7 +193,7 @@ Now the sons of Jerahmeel, the firstborn of Hezron, were:
 
 ## 1 Chronicles 2:26
 
-Jerahmeel had another wife, whose name was Atarah;
+Jerahmeel had another wife, known as Atarah;
 
 > she was the mother of Onam.
 
@@ -201,7 +201,7 @@ Jerahmeel had another wife, whose name was Atarah;
 
 ## 1 Chronicles 2:27
 
-The sons of Ram, the firstborn of Jerahmeel, were:
+Ram, the firstborn of Jerahmeel, had sons:
 
 > Maaz, Jamin, and Eker.
 
@@ -209,10 +209,10 @@ The sons of Ram, the firstborn of Jerahmeel, were:
 
 ## 1 Chronicles 2:28
 
-The sons of Onam were:
+Onam's sons were:
 
 > Shammai and Jada.  
-> And the sons of Shammai were:
+> Shammai had sons:
 
 > Nadab and Abishur.
 
@@ -220,7 +220,7 @@ The sons of Onam were:
 
 ## 1 Chronicles 2:29
 
-The name of Abishur’s wife was Abihail,
+Abishur's wife was named Abihail,
 
 > and she bore him Ahban and Molid.
 
@@ -228,22 +228,22 @@ The name of Abishur’s wife was Abihail,
 
 ## 1 Chronicles 2:30
 
-The sons of Nadab were:
+Nadab's sons were:
 
 > Seled and Appaim.  
-> Seled died without sons.
+> Seled passed away without sons.
 
 ---
 
 ## 1 Chronicles 2:31
 
-The son of Appaim was:
+Appaim had a son named:
 
 > Ishi.  
-> And the son of Ishi was:
+> Ishi had a son named:
 
 > Sheshan.  
-> And the son of Sheshan was:
+> Sheshan had a son named:
 
 > Ahlai.
 
@@ -251,7 +251,7 @@ The son of Appaim was:
 
 ## 1 Chronicles 2:32
 
-The sons of Jada the brother of Shammai were:
+Jada, Shammai's brother, had sons:
 
 > Jether and Jonathan.  
 > Jether died without sons.
@@ -260,23 +260,23 @@ The sons of Jada the brother of Shammai were:
 
 ## 1 Chronicles 2:33
 
-The sons of Jonathan were:
+Jonathan's sons were:
 
 > Peleth and Zaza.  
-> These were the descendants of Jerahmeel.
+> These were among the descendants of Jerahmeel.
 
 ---
 
 ## 1 Chronicles 2:34
 
-Now Sheshan had no sons, only daughters.  
-And Sheshan had an Egyptian servant whose name was Jarha.
+Sheshan had no sons, only daughters.  
+Sheshan had an Egyptian servant named Jarha.
 
 ---
 
 ## 1 Chronicles 2:35
 
-Sheshan gave his daughter to Jarha his servant as a wife,
+Sheshan gave his daughter in marriage to Jarha, his servant,
 
 > and she bore him Attai.
 
@@ -310,16 +310,16 @@ Shallum was the father of Jekamiah, and Jekamiah fathered Elishama.
 
 ## 1 Chronicles 2:42
 
-Now the sons of Caleb the brother of Jerahmeel were:
+Caleb, the brother of Jerahmeel, had sons:
 
 > Mesha his firstborn, who was the father of Ziph;  
-> and the sons of Mareshah the father of Hebron.
+> and the sons of Mareshah, the father of Hebron.
 
 ---
 
 ## 1 Chronicles 2:43
 
-The sons of Hebron were:
+Hebron had sons:
 
 > Korah, Tappuah, Rekem, and Shema.
 
@@ -327,14 +327,14 @@ The sons of Hebron were:
 
 ## 1 Chronicles 2:44
 
-Shema fathered Raham, the father of Jorkeam;  
-and Rekem fathered Shammai.
+Shema was the father of Raham, who was the father of Jorkeam;  
+and Rekem was the father of Shammai.
 
 ---
 
 ## 1 Chronicles 2:45
 
-The son of Shammai was:
+Shammai's son was:
 
 > Maon, and Maon was the father of Bethzur.
 
@@ -343,13 +343,13 @@ The son of Shammai was:
 ## 1 Chronicles 2:46
 
 Ephah, Caleb’s concubine, bore Haran, Moza, and Gazez;  
-and Haran fathered Gazez.
+and Haran was the father of Gazez.
 
 ---
 
 ## 1 Chronicles 2:47
 
-The sons of Jahdai were:
+Jahdai had sons:
 
 > Regem, Jotham, Geshan, Pelet, Ephah, and Shaaph.
 
@@ -357,49 +357,49 @@ The sons of Jahdai were:
 
 ## 1 Chronicles 2:48
 
-Maacah, the concubine of Caleb, bore Sheber and Tirhanah.
+Caleb's concubine Maacah gave birth to Sheber and Tirhanah.
 
 ---
 
 ## 1 Chronicles 2:49
 
-She also bore Shaaph the father of Madmannah,  
-Sheva the father of Machbenah and the father of Gibea;  
-and the daughter of Caleb was Achsah.
+She also bore Shaaph, the father of Madmannah,  
+Sheva, the father of Machbenah and the father of Gibea;  
+and Caleb's daughter was Achsah.
 
 ---
 
 ## 1 Chronicles 2:50
 
-These were the sons of Caleb:  
-The sons of Hur, the firstborn of Ephrathah:
+These were Caleb's sons:  
+The sons of Hur, Ephrathah's firstborn:
 
-> Shobal the father of Kiriath-jearim,
+> Shobal, the father of Kiriath-jearim,
 
 ## 1 Chronicles 2:51
 
-> Salma the father of Bethlehem,  
-> and Hareph the father of Beth-gader.
+> Salma, who was the father of Bethlehem,  
+> and Hareph, who was the father of Beth-gader.
 
 ---
 
 ## 1 Chronicles 2:52
 
-Shobal the father of Kiriath-jearim had sons:
+Shobal, the father of Kiriath-jearim, had sons:
 
-> Haroeh, half of the Manahathites,
+> Haroeh and half of the Manahathites,
 
 ## 1 Chronicles 2:53
 
 > and the families of Kiriath-jearim:  
 > the Ithrites, the Puthites, the Shumathites, and the Mishraites.  
-> From these came the Zorathites and the Eshtaolites.
+> From these originated the Zorathites and the Eshtaolites.
 
 ---
 
 ## 1 Chronicles 2:54
 
-The sons of Salma were:
+Salma's sons were:
 
 > Bethlehem and the Netophathites,  
 > Atroth-beth-joab, and half of the Manahathites, the Zorites.

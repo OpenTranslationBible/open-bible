@@ -29,13 +29,13 @@ and the Lord was not willing to forgive.
 
 ## 2 Kings 24:5
 
-Now the rest of the acts of Jehoiakim and everything that he did,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+As for the other events of Jehoiakim's reign and all he accomplished,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 24:6
 
-So Jehoiakim lay down with his fathers,  
-and his son Jehoiachin became king in his place.
+So Jehoiakim rested with his ancestors,  
+and his son Jehoiachin succeeded him as king.
 
 ## 2 Kings 24:7
 
@@ -49,24 +49,24 @@ from the brook of Egypt to the river Euphrates.
 
 Jehoiachin was eighteen years old when he became king,  
 and he reigned three months in Jerusalem.  
-And his mother’s name was Nehushta, the daughter of Elnathan of Jerusalem.
+His mother was Nehushta, the daughter of Elnathan of Jerusalem.
 
 ## 2 Kings 24:9
 
-He did evil in the sight of the Lord,  
-in accordance with all that his father had done.
+He acted wickedly in the eyes of the Lord,  
+following the ways of his father.
 
 ---
 
 ## 2 Kings 24:10
 
-At that time the servants of Nebuchadnezzar king of Babylon went up to Jerusalem,  
-and the city came under siege.
+During that period, the servants of Nebuchadnezzar king of Babylon advanced to Jerusalem,  
+and the city was besieged.
 
 ## 2 Kings 24:11
 
-And Nebuchadnezzar king of Babylon came to the city,  
-while his servants were besieging it.
+Nebuchadnezzar king of Babylon himself arrived at the city,  
+while his servants were laying siege to it.
 
 ## 2 Kings 24:12
 
@@ -106,19 +106,19 @@ these the king of Babylon brought into exile to Babylon.
 
 ## 2 Kings 24:17
 
-Then the king of Babylon made his uncle Mattaniah king in his place,  
+Then the king of Babylon appointed Mattaniah, Jehoiachin's uncle, as king,  
 and changed his name to Zedekiah.
 
 ## 2 Kings 24:18
 
 Zedekiah was twenty-one years old when he became king,  
 and he reigned eleven years in Jerusalem.  
-And his mother’s name was Hamutal the daughter of Jeremiah of Libnah.
+His mother was Hamutal, the daughter of Jeremiah of Libnah.
 
 ## 2 Kings 24:19
 
-He did evil in the sight of the Lord,  
-in accordance with all that Jehoiakim had done.
+He acted wickedly in the eyes of the Lord,  
+following the ways of Jehoiakim.
 
 ## 2 Kings 24:20
 

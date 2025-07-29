@@ -28,9 +28,9 @@ but the king did not have relations with her.
 
 ## 1 Kings 1:5
 
-Then Adonijah the son of Haggith exalted himself, saying,  
+Adonijah, the son of Haggith, took it upon himself to declare,  
 “I will be king.”  
-And he prepared for himself chariots and horsemen  
+And he arranged for himself chariots and horsemen  
 and fifty men to run before him.
 
 ## 1 Kings 1:6
@@ -67,9 +67,9 @@ Yet, Nathan the prophet, Benaiah, the mighty men, and Solomon his brother were n
 
 ## 1 Kings 1:11
 
-Then Nathan spoke to Bathsheba the mother of Solomon, saying,  
-“Have you not heard that Adonijah the son of Haggith has become king,  
-and David our lord does not know it?
+Nathan approached Bathsheba, Solomon's mother, and said,  
+“Have you not heard that Adonijah, the son of Haggith, has declared himself king,  
+and David our lord is unaware of it?
 
 ## 1 Kings 1:12
 
@@ -174,7 +174,7 @@ and you have not informed your servants who should sit on the throne of my lord 
 
 ## 1 Kings 1:28
 
-Then King David answered and said,  
+King David responded,  
 “Call Bathsheba to me.”  
 So she came into the king’s presence and stood before the king.
 
@@ -194,7 +194,7 @@ I will indeed do so this day.”
 
 Then Bathsheba bowed with her face to the ground,  
 and prostrated herself before the king and said,  
-“May my lord King David live forever.”
+“May my lord King David have enduring life.”
 
 ---
 
@@ -206,8 +206,8 @@ So they came into the king’s presence.
 
 ## 1 Kings 1:33
 
-And the king said to them,  
-“Take with you the servants of your lord,  
+And the king instructed them,  
+“Take your lord’s servants with you,  
 and have my son Solomon ride on my own mule,  
 and bring him down to Gihon.
 
@@ -218,7 +218,7 @@ and blow the trumpet and say, ‘Long live King Solomon!’
 
 ## 1 Kings 1:35
 
-Then you shall come up after him,  
+Then you shall follow him up,  
 and he shall come and sit on my throne and be king in my place;  
 for I have appointed him to be ruler over Israel and Judah.”
 
@@ -231,7 +231,7 @@ And Benaiah the son of Jehoiada answered the king and said,
 
 Just as the Lord has been with my lord the king,  
 so may He be with Solomon,  
-and make his throne greater than the throne of my lord King David.”
+and elevate his throne beyond that of my lord King David.”
 
 ---
 
@@ -264,9 +264,9 @@ When Joab heard the sound of the trumpet, he said,
 
 ## 1 Kings 1:42
 
-While he was still speaking, behold, Jonathan the son of Abiathar the priest came,  
-and Adonijah said,  
-“Come in, for you are a worthy man and bring good news.”
+As he was still speaking, Jonathan, the son of Abiathar the priest, arrived.  
+And Adonijah said,  
+“Come in, for you are a worthy man and surely bring good news.”
 
 ## 1 Kings 1:43
 
@@ -291,9 +291,9 @@ Furthermore, Solomon now sits on the throne of the kingdom.
 
 ## 1 Kings 1:47
 
-Moreover, the king’s servants came to bless our lord King David, saying,  
-‘May your God make the name of Solomon better than your name,  
-and his throne greater than your throne.’  
+Additionally, the king’s servants came to bless our lord King David, saying,  
+‘May your God make Solomon's name more esteemed than yours,  
+and his throne greater than yours.’  
 And the king bowed himself on the bed.
 
 ## 1 Kings 1:48

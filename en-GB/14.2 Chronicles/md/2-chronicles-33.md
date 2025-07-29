@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 33:1
 
-Manasseh was twelve years old when he ascended to the throne, and he ruled for fifty-five years in Jerusalem.
+Manasseh was twelve years old when he began his reign, and he ruled for fifty-five years in Jerusalem.
 
 ## 2 Chronicles 33:2
 
@@ -53,8 +53,8 @@ So the Lord communicated with Manasseh and his people, but they disregarded Him.
 
 ## 2 Chronicles 33:11
 
-Therefore the Lord brought the commanders of the army of the king of Assyria against them,  
-and they captured Manasseh with hooks, bound him with bronze chains, and led him to Babylon.
+As a result, the Lord allowed the commanders of the army of the king of Assyria to come against them,  
+and they captured Manasseh with hooks, bound him with bronze chains, and took him to Babylon.
 
 ## 2 Chronicles 33:12
 
@@ -76,14 +76,14 @@ Then he put army commanders in all the fortified cities in Judah.
 
 ## 2 Chronicles 33:15
 
-He also removed the foreign gods and the idol from the house of the Lord,  
+He also took away the foreign gods and the idol from the house of the Lord,  
 as well as all the altars which he had built on the mountain of the house of the Lord and in Jerusalem,  
-and he threw them outside the city.
+and he cast them outside the city.
 
 ## 2 Chronicles 33:16
 
-He set up the altar of the Lord and sacrificed peace offerings and thanksgiving offerings on it;  
-and he ordered Judah to serve the Lord God of Israel.
+He restored the altar of the Lord and offered peace offerings and thanksgiving offerings on it;  
+and he instructed Judah to serve the Lord God of Israel.
 
 ## 2 Chronicles 33:17
 
@@ -93,7 +93,7 @@ Nevertheless, the people still sacrificed on the high places, although only to t
 
 ## 2 Chronicles 33:18
 
-Now the rest of the acts of Manasseh, even his prayer to his God,  
+Now the rest of the acts of Manasseh, including his prayer to his God,  
 and the words of the seers who spoke to him in the name of the Lord God of Israel,  
 behold, they are among the records of the kings of Israel.
 
@@ -112,12 +112,12 @@ and his son Amon became king in his place.
 
 ## 2 Chronicles 33:21
 
-Amon was twenty-two years old when he ascended to the throne, and he ruled for two years in Jerusalem.
+Amon was twenty-two years old when he began his reign, and he ruled for two years in Jerusalem.
 
 ## 2 Chronicles 33:22
 
 He did evil in the sight of the Lord, just as his father Manasseh had done.  
-And Amon sacrificed to all the carved images which his father Manasseh had made, and he served them.
+And Amon worshipped all the carved images which his father Manasseh had made, and he served them.
 
 ## 2 Chronicles 33:23
 
@@ -130,5 +130,5 @@ Ultimately, his servants conspired against him and put him to death in his own h
 
 ## 2 Chronicles 33:25
 
-But the people of the land killed all the conspirators against King Amon,  
+However, the people of the land struck down all the conspirators against King Amon,  
 and the people of the land made his son Josiah king in his place.

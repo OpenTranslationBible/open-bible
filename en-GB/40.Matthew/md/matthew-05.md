@@ -2,7 +2,7 @@
 
 ## Matthew 5:1
 
-When Jesus observed the crowds, He ascended a mountainside and sat down. His disciples approached Him,
+When Jesus saw the crowds, He ascended a mountainside and sat down. His disciples approached Him,
 
 ## Matthew 5:2
 
@@ -10,8 +10,8 @@ and He began to instruct them, saying:
 
 ## Matthew 5:3
 
-> “Blessed are the poor in spirit,
-> for the kingdom of heaven is theirs.
+> “Blessed are those who are poor in spirit,
+> for the kingdom of heaven belongs to them.
 
 ## Matthew 5:4
 
@@ -20,27 +20,27 @@ and He began to instruct them, saying:
 
 ## Matthew 5:5
 
-> Blessed are the gentle,
-> for they shall inherit the earth.
+> Blessed are the meek,
+> they shall inherit the earth.
 
 ## Matthew 5:6
 
-> Blessed are those who hunger and thirst for righteousness,
-> for they shall be satisfied.
+> Blessed are those who long for righteousness,
+> for they shall be fulfilled.
 
 ## Matthew 5:7
 
-> Blessed are the merciful,
-> for they shall obtain mercy.
+> Blessed are those who show mercy,
+> for they shall be shown mercy.
 
 ## Matthew 5:8
 
-> Blessed are the pure in heart,
+> Blessed are those with a pure heart,
 > for they shall see God.
 
 ## Matthew 5:9
 
-> Blessed are the peacemakers,
+> Blessed are those who make peace,
 > for they shall be called the children of God.
 
 ## Matthew 5:10

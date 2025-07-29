@@ -11,28 +11,28 @@ So that we may seek him with you?
 
 ## Song of Solomon 6:2
 
-My beloved has gone down to his garden,  
+My beloved has descended to his garden,  
 To the beds of balsam,  
-To pasture his flock in the gardens  
+To tend his flock in the gardens  
 And gather lilies.
 
 ## Song of Solomon 6:3
 
-I am my beloved’s and my beloved is mine,  
-He who pastures his flock among the lilies.
+I belong to my beloved, and my beloved belongs to me,  
+He who tends his flock among the lilies.
 
 ---
 
 ## Song of Solomon 6:4
 
-You are as beautiful as Tirzah, my darling,  
+You are as enchanting as Tirzah, my darling,  
 As lovely as Jerusalem,  
-As awesome as an army with banners.
+As majestic as an army with banners.
 
 ## Song of Solomon 6:5
 
 Turn your eyes away from me,  
-For they have confused me;  
+For they have overwhelmed me;  
 Your hair is like a flock of goats  
 That have descended from Gilead.
 
@@ -45,19 +45,19 @@ And not one among them has lost her young.
 
 ## Song of Solomon 6:7
 
-Your temples are like a slice of a pomegranate  
+Your temples are like the inner part of a pomegranate  
 Behind your veil.
 
 ## Song of Solomon 6:8
 
 There are sixty queens and eighty concubines,  
-And maidens without number;
+And maidens beyond counting;
 
 ## Song of Solomon 6:9
 
-But my dove, my perfect one, is unique:  
+But my dove, my perfect one, stands alone:  
 She is her mother’s only daughter;  
-She is the pure child of the one who gave birth to her.  
+She is the cherished child of the one who bore her.  
 The young women saw her and called her blessed,  
 The queens and the concubines also, and they praised her, saying,
 
@@ -65,23 +65,23 @@ The queens and the concubines also, and they praised her, saying,
 
 ## Song of Solomon 6:10
 
-“Who is this who looks like the dawn,  
+“Who is this who appears like the dawn,  
 As beautiful as the full moon,  
 As pure as the sun,  
-As awesome as an army with banners?”
+As majestic as an army with banners?”
 
 ---
 
 ## Song of Solomon 6:11
 
-I went down to the orchard of nut trees  
+I went down to the grove of nut trees  
 To see the blossoms of the valley,  
 To see whether the vine had budded  
 Or the pomegranates had bloomed.
 
 ## Song of Solomon 6:12
 
-Before I was aware, my soul put me  
+Before I was aware, my soul set me  
 Among the chariots of my noble people.
 
 ---

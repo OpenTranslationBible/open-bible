@@ -13,14 +13,14 @@
 
 ## Psalm 57:2
 
-> I will cry to God Most High,  
-> To God who accomplishes all things for me.
+> I will call out to God Most High,  
+> To God who fulfils His purpose for me.
 
 ## Psalm 57:3
 
 > He will send from heaven and save me;  
 > He rebukes the one who tramples upon me.  
-> _Selah_  
+> Selah  
 > God will send His favour and His truth.
 
 ---
@@ -36,48 +36,47 @@
 
 ## Psalm 57:5
 
-> Be exalted above the heavens, God;  
-> May Your glory be above all the earth.
+> Be lifted high above the heavens, God;  
+> May Your glory be over all the earth.
 
 ---
 
 ## Psalm 57:6
 
-> They have set a net for my steps;  
+> They have laid a snare for my steps;  
 > My soul is bowed down;  
 > They dug a pit before me;  
-> They themselves have fallen into the midst of it.
-
+> They themselves have fallen into it.  
 > Selah
 
 ---
 
 ## Psalm 57:7
 
-> My heart is steadfast, God, my heart is steadfast;  
-> I will sing, yes, I will sing praises!
+> My heart is unwavering, God, my heart is unwavering;  
+> I will sing, indeed, I will sing praises!
 
 ## Psalm 57:8
 
-> Awake, my glory!  
-> Awake, harp and lyre!  
-> I will awaken the dawn.
+> Arise, my soul!  
+> Arise, harp and lyre!  
+> I will awaken the morning light.
 
 ---
 
 ## Psalm 57:9
 
-> I will praise You, Lord, among the peoples;  
+> I will give thanks to You, Lord, among the peoples;  
 > I will sing praises to You among the nations.
 
 ## Psalm 57:10
 
-> For Your mercy is great to the heavens,  
+> For Your mercy reaches to the heavens,  
 > And Your truth to the clouds.
 
 ---
 
 ## Psalm 57:11
 
-> Be exalted above the heavens, God;  
-> May Your glory be above all the earth.
+> Be lifted high above the heavens, God;  
+> May Your glory be over all the earth.

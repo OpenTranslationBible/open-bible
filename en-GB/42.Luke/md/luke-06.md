@@ -86,17 +86,17 @@ and everyone was trying to touch Him, because power was coming from Him and heal
 
 ## Luke 6:20
 
-Looking at His disciples, He said:
+Turning to His disciples, He said:
 
-> “Blessed are you who are poor,
-> for yours is the kingdom of God.
+> “Blessed are you who are in poor,
+> because yours is the kingdom of God.
 
 ## Luke 6:21
 
-> Blessed are you who hunger now,
-> for you will be satisfied.
-> Blessed are you who weep now,
-> for you will laugh.
+> Fortunate are you who are hungry now,
+> for you will be filled.
+> Fortunate are you who weep now,
+> for you will find joy.
 
 ## Luke 6:22
 
@@ -113,7 +113,7 @@ Rejoice on that day and leap for joy, for behold, your reward is great in heaven
 
 ## Luke 6:24
 
-> But woe to you who are rich,
+> But woe to you who have wealth,
 > for you have already received your comfort.
 
 ## Luke 6:25
@@ -125,7 +125,7 @@ Rejoice on that day and leap for joy, for behold, your reward is great in heaven
 
 ## Luke 6:26
 
-> Woe to you when everyone speaks well of you,
+> Woe to you when everyone speaks highly of you,
 > for that is how their ancestors treated the false prophets.
 
 ---

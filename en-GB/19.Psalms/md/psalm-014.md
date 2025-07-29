@@ -12,40 +12,40 @@
 
 ## Psalm 14:2
 
-> The Lord has looked down from heaven upon the sons of mankind  
-> To see if there are any who understand,  
-> Who seek God.
+> The Lord gazes from heaven upon the realms of men  
+> To see if there are any who are wise,  
+> Who seek after God.
 
 ## Psalm 14:3
 
-> They have all turned aside, together they are corrupt;  
+> They have all turned away, together they have become corrupt;  
 > There is no one who does good, not even one.
 
 ---
 
 ## Psalm 14:4
 
-> Do all the workers of injustice not know,
+> Are the workers of injustice unaware,
 
-> Who devour my people as they eat bread,  
+> Who consume my people as they eat bread,  
 > And do not call upon the Lord?
 
 ---
 
 ## Psalm 14:5
 
-> There they are in great dread,  
-> For God is with the righteous generation.
+> There they are, filled with great fear,  
+> For God is with the generation of the righteous.
 
 ## Psalm 14:6
 
-> You would put to shame the plan of the poor,  
-> But the Lord is his refuge.
+> You seek to frustrate the plans of the poor,  
+> But the Lord is their refuge.
 
 ---
 
 ## Psalm 14:7
 
-> Oh, that the salvation of Israel would come out of Zion!  
-> When the Lord restores the fortunes of His people,  
+> Oh, that deliverance for Israel would come from Zion!  
+> When the Lord brings back the fortunes of His people,  
 > Jacob will rejoice, Israel will be glad.

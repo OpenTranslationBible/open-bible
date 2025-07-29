@@ -33,8 +33,8 @@ Then Elihu continued and spoke:
 
 ## Job 35:7
 
-> If you are righteous, what do you give Him,
-> or what does He receive from your hand?
+> If you are righteous, what can you offer Him,
+> or what does He want from your hand?
 
 ## Job 35:8
 

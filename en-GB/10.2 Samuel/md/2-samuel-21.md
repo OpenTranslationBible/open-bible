@@ -77,8 +77,8 @@ nor the wild animals by night.
 
 ## 2 Samuel 21:11
 
-When David was told what Rizpah the daughter of Aiah,  
-the concubine of Saul, had done,
+When David learned of the actions of Rizpah, the daughter of Aiah,  
+the concubine of Saul,
 
 ## 2 Samuel 21:12
 
@@ -89,8 +89,8 @@ on the day the Philistines killed Saul in Gilboa.
 
 ## 2 Samuel 21:13
 
-He brought up the bones of Saul and the bones of Jonathan his son from there,  
-and they gathered the bones of those who had been hanged.
+He retrieved the bones of Saul and Jonathan his son from there,  
+and they gathered the remains of those who had been executed.
 
 ## 2 Samuel 21:14
 
@@ -132,9 +132,9 @@ who was among the descendants of the giant.
 
 ## 2 Samuel 21:19
 
-And there was war with the Philistines again at Gob,  
-and Elhanan the son of Jaare-oregim the Bethlehemite killed Goliath the Gittite,  
-the shaft of whose spear was like a weaver’s beam.
+And once more there was conflict with the Philistines at Gob,  
+and Elhanan the son of Jaare-oregim the Bethlehemite struck down Goliath the Gittite,  
+whose spear shaft was like a weaver’s beam.
 
 ## 2 Samuel 21:20
 
@@ -146,10 +146,10 @@ and he also was descended from the giants.
 
 ## 2 Samuel 21:21
 
-When he defied Israel,  
-Jonathan the son of Shimei, David’s brother, struck him down.
+When he challenged Israel,  
+Jonathan the son of Shimei, David’s brother, defeated him.
 
 ## 2 Samuel 21:22
 
 These four were born to the giant in Gath,  
-and they fell by the hand of David and by the hand of his servants.
+and they were overcome by David and his servants.

@@ -45,8 +45,8 @@ And I will make him fall by the sword in his own land.’”
 
 ## 2 Kings 19:8
 
-Then Rabshakeh returned and found the king of Assyria fighting against Libnah,  
-for he had heard that the king had left Lachish.
+Rabshakeh returned to find the king of Assyria engaged in battle against Libnah,  
+for he had been informed that the king had left Lachish.
 
 ## 2 Kings 19:9
 
@@ -72,15 +72,15 @@ Gozan, Haran, Rezeph, and the sons of Eden who were in Telassar?
 
 ## 2 Kings 19:13
 
-Where is the king of Hamath, the king of Arpad,  
+What has become of the king of Hamath, the king of Arpad,  
 the king of the city of Sepharvaim, and of Hena and Ivvah?’”
 
 ---
 
 ## 2 Kings 19:14
 
-Then Hezekiah took the letter from the hand of the messengers and read it,  
-and he went up to the house of the Lord and spread it out before the Lord.
+Hezekiah received the letter from the messengers, read it,  
+and went up to the house of the Lord, spreading it out before the Lord.
 
 ## 2 Kings 19:15
 
@@ -107,7 +107,7 @@ So they have destroyed them.
 
 ## 2 Kings 19:19
 
-But now Lord our God, please save us from his hand,  
+But now, Lord our God, we ask You to save us from his hand,  
 so that all the kingdoms of the earth may know that You alone, Lord, are God.”
 
 ---
@@ -116,27 +116,25 @@ so that all the kingdoms of the earth may know that You alone, Lord, are God.”
 
 Then Isaiah the son of Amoz sent word to Hezekiah, saying,  
 “This is what the Lord, the God of Israel says:  
-‘Because you have prayed to Me about Sennacherib king of Assyria, I have heard you.’
+‘Because you have prayed to Me concerning Sennacherib king of Assyria, I have heard you.’
 
 ## 2 Kings 19:21
 
-This is the word that the Lord has spoken against him:
+This is the message that the Lord has spoken against him:
 
-> ‘She has despised you and mocked you,  
+> ‘She has scorned you and ridiculed you,  
 > The virgin daughter of Zion;  
-> She has shaken her head behind you,  
+> She has tossed her head at you,  
 > The daughter of Jerusalem!
 
 ## 2 Kings 19:22
 
-> Whom have you taunted and blasphemed?  
-> And against whom have you raised your voice,  
-> And haughtily raised your eyes?  
+> Against whom have you raised your voice and lifted your eyes in pride?  
 > Against the Holy One of Israel!
 
 ## 2 Kings 19:23
 
-> Through your messengers you have taunted the Lord, and you have said,  
+> Through your messengers you have defied the Lord, and you have said,  
 > “With my many chariots I came up to the heights of the mountains,  
 > To the remotest parts of Lebanon;  
 > And I cut down its tall cedars and its choice junipers.  
@@ -144,9 +142,9 @@ This is the word that the Lord has spoken against him:
 
 ## 2 Kings 19:24
 
-> I dug wells and drank foreign waters,  
+> I dug wells and drank waters from foreign lands,  
 > And with the soles of my feet I dried up  
-> All the streams of Egypt.”’
+> All the rivers of Egypt.”’
 
 ## 2 Kings 19:25
 
@@ -165,14 +163,14 @@ This is the word that the Lord has spoken against him:
 
 ## 2 Kings 19:27
 
-> But I know your sitting down,  
+> But I am aware of your sitting down,  
 > Your going out and your coming in,  
-> And your raging against Me.
+> And your rage against Me.
 
 ## 2 Kings 19:28
 
-> Because of your raging against Me,  
-> And because your arrogance has come up to My ears,  
+> Because of your rage against Me,  
+> And because your arrogance has reached My ears,  
 > I will put My hook in your nose  
 > And My bridle in your lips,  
 > And I will turn you back by the way that you came.
@@ -181,7 +179,7 @@ This is the word that the Lord has spoken against him:
 
 ## 2 Kings 19:29
 
-Then this shall be the sign for you:
+This will be the sign for you:
 
 > you will eat this year what grows of itself,  
 > in the second year what springs from the same,  
@@ -197,7 +195,7 @@ Then this shall be the sign for you:
 
 > For out of Jerusalem a remnant will go,  
 > and survivors out of Mount Zion.  
-> The zeal of the Lord will perform this.
+> The zeal of the Lord will accomplish this.
 
 ## 2 Kings 19:32
 
@@ -210,13 +208,13 @@ Therefore this is what the Lord says about the king of Assyria:
 
 ## 2 Kings 19:33
 
-> By the way that he came, by the same he will return,  
-> And he shall not come to this city,’ declares the Lord.
+> He will return by the route he came,  
+> and he shall not come to this city,’ declares the Lord.
 
 ## 2 Kings 19:34
 
-> ‘For I will protect this city to save it,  
-> For My own sake, and for My servant David’s sake.’”
+> ‘For I will protect this city and preserve it,  
+> for My own sake and for the sake of My servant David.’”
 
 ---
 

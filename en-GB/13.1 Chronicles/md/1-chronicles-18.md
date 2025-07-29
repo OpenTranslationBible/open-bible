@@ -10,9 +10,9 @@ Now after this it came about that David defeated the Philistines and subdued the
 
 ## 1 Chronicles 18:2
 
-And he defeated Moab,
+He overcame Moab,
 
-> and the Moabites became servants to David, bringing tribute.
+> and the Moabites became subjects to David, offering tribute.
 
 ---
 
@@ -42,16 +42,16 @@ David struck down twenty-two thousand men of the Arameans.
 
 ## 1 Chronicles 18:6
 
-Then David put garrisons among the Arameans of Damascus,
+Then David stationed garrisons among the Arameans of Damascus,
 
-> and the Arameans became servants to David, bringing tribute.  
-> And the Lord helped David wherever he went.
+> and the Arameans became subjects to David, offering tribute.  
+> And the Lord supported David in all his endeavours.
 
 ---
 
 ## 1 Chronicles 18:7
 
-And David took the shields of gold which were carried by the servants of Hadadezer,
+And David seized the shields of gold which were carried by the servants of Hadadezer,
 
 > and brought them to Jerusalem.
 
@@ -99,9 +99,9 @@ Abishai the son of Zeruiah achieved victory over eighteen thousand Edomites in t
 
 ## 1 Chronicles 18:13
 
-Then he put garrisons in Edom, and all the Edomites became servants to David.
+Then he stationed garrisons in Edom, and all the Edomites became subjects to David.
 
-> And the Lord helped David wherever he went.
+> And the Lord supported David in all his endeavours.
 
 ---
 
@@ -109,15 +109,15 @@ Then he put garrisons in Edom, and all the Edomites became servants to David.
 
 So David reigned over all Israel;
 
-> and he administered justice and righteousness for all his people.
+> and he ensured justice and righteousness for all his people.
 
 ---
 
 ## 1 Chronicles 18:15
 
-Joab the son of Zeruiah was over the army,
+Joab the son of Zeruiah was in charge of the army,
 
-> and Jehoshaphat the son of Ahilud was recorder;
+> and Jehoshaphat the son of Ahilud was the recorder;
 
 ---
 

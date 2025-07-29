@@ -27,7 +27,7 @@ Just as David also speaks of the blessedness of the person to whom God credits r
 ## Romans 4:7
 
 > “Blessed are those
-> whose transgressions are forgiven,
+> whose wrongdoings are forgiven,
 > whose sins are covered.
 
 ## Romans 4:8

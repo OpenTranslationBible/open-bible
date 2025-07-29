@@ -7,112 +7,112 @@
 
 ## Job 7:2
 
-> As a slave pants for the shade,  
-> And as a hired worker who eagerly waits for his wages,
+> Just as a bond servant longs for the shade,  
+> And like a labourer who eagerly awaits his wages,
 
 ## Job 7:3
 
-> So I am allotted worthless months,  
-> And nights of trouble are apportioned to me.
+> So I am given months of futility,  
+> And nights filled with trouble are assigned to me.
 
 ## Job 7:4
 
-> When I lie down I say, ‘When shall I arise?’  
-> But the night continues,  
-> And I am continually tossing until dawn.
+> When I lie down, I ask, ‘When will I get up?’  
+> But the night drags on,  
+> And I am restless until dawn.
 
 ## Job 7:5
 
-> My flesh is clothed with maggots and a crust of dirt,  
-> My skin hardens and oozes.
+> My flesh is covered with worms and clods of dust,  
+> My skin hardens and breaks out.
 
 ---
 
 ## Job 7:6
 
-> My days are swifter than a weaver’s shuttle,  
-> And they come to an end without hope.
+> My days pass more swiftly than a weaver’s shuttle,  
+> And they conclude without hope.
 
 ## Job 7:7
 
-> Remember that my life is a breath;  
-> My eye will not again see good.
+> Remember that my life is but a breath;  
+> My eye will not see good again.
 
 ## Job 7:8
 
-> The eye of him who sees me will no longer look at me;  
-> Your eyes will be on me, but I will not exist.
+> The eye of him who sees me will see me no more;  
+> Your eyes will be upon me, but I will be gone.
 
 ## Job 7:9
 
-> A cloud vanishes, and it is gone,  
-> So one who goes down to Sheol does not come up.
+> A cloud vanishes, and it is no more,  
+> So one who descends to Sheol does not return.
 
 ## Job 7:10
 
-> He will not return to his house again,  
-> Nor will his place recognise him anymore.
+> He will not come back to his house again,  
+> Nor will his place acknowledge him anymore.
 
 ---
 
 ## Job 7:11
 
-> “Therefore I will not restrain my mouth;  
-> I will speak in the anguish of my spirit,  
-> I will complain in the bitterness of my soul.
+> “Thus, I will not hold back my words;  
+> I will speak out in the distress of my spirit,  
+> I will express my sorrow in the bitterness of my soul.
 
 ## Job 7:12
 
-> Am I the sea, or the sea monster,  
-> That You set a guard over me?
+> Am I the sea, or a sea creature,  
+> That You place a guard over me?
 
 ## Job 7:13
 
-> If I say, ‘My bed will comfort me,  
-> My couch will ease my complaint,’
+> If I think, ‘My bed will comfort me,  
+> My couch will relieve my complaint,’
 
 ## Job 7:14
 
-> Then You frighten me with dreams  
-> And terrify me by visions,
+> Then You alarm me with dreams  
+> And terrify me with visions,
 
 ## Job 7:15
 
-> So that my soul would choose suffocation,  
-> Death rather than my pain.
+> So that my soul would prefer suffocation,  
+> Death rather than my suffering.
 
 ## Job 7:16
 
-> I waste away; I will not live forever.  
-> Leave me alone, for my days are only a breath.
+> I am wasting away; I will not live forever.  
+> Leave me be, for my days are but a breath.
 
 ---
 
 ## Job 7:17
 
-> What is man, that You exalt him,  
-> And that You are concerned about him,
+> What is man, that You honour him,  
+> And that You care for him,
 
 ## Job 7:18
 
-> That You examine him every morning  
-> And put him to the test every moment?
+> That You observe him every morning  
+> And test him at every moment?
 
 ## Job 7:19
 
-> Will You never look away from me,  
-> Nor leave me alone until I swallow my spittle?
+> Will You never turn Your gaze away from me,  
+> Nor leave me alone until I swallow my spit?
 
 ## Job 7:20
 
 > Have I sinned? What have I done to You,  
-> Watcher of mankind?  
-> Why have You set me as Your target,  
+> Keeper of mankind?  
+> Why have You made me Your target,  
 > So that I am a burden to myself?
 
 ## Job 7:21
 
-> Why then do You not pardon my wrongdoing  
-> And take away my guilt?  
+> Why then do You not forgive my transgression  
+> And take away my iniquity?  
 > For now I will lie down in the dust;  
-> And You will search for me, but I will not be.”
+> And You will search for me, but I will be no more.”

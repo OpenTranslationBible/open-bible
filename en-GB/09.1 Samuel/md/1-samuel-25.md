@@ -9,15 +9,15 @@ And David arose and went down to the wilderness of Paran.
 
 ## 1 Samuel 25:2
 
-Now there was a man in Maon whose business was in Carmel;  
-and the man was very rich, and he had three thousand sheep and a thousand goats.  
-And it came about while he was shearing his sheep in Carmel—
+There was a man in Maon whose business was in Carmel;  
+and this man was exceedingly wealthy, owning three thousand sheep and a thousand goats.  
+An occasion came to pass while he was shearing his sheep in Carmel—
 
 ## 1 Samuel 25:3
 
-Now the man’s name was Nabal, and his wife’s name was Abigail.  
-And the woman was intelligent and beautiful in appearance,  
-but the man was harsh and evil in his dealings, and he was a Calebite.
+For the man’s name was Nabal, and his wife’s name was Abigail.  
+The woman was discerning and beautiful,  
+but the man was harsh and dishonest in his dealings, and he was a Calebite.
 
 ## 1 Samuel 25:4
 
@@ -25,8 +25,8 @@ Then David heard in the wilderness that Nabal was shearing his sheep.
 
 ## 1 Samuel 25:5
 
-So David sent ten young men; and David said to the young men,  
-“Go up to Carmel, visit Nabal, and greet him in my name.
+David sent ten young men, instructing them,  
+“Go up to Carmel, visit Nabal, and extend greetings in my name.
 
 ## 1 Samuel 25:6
 
@@ -35,7 +35,7 @@ And this is what you shall say: ‘Peace to you, and peace to your house, and pe
 ## 1 Samuel 25:7
 
 Now I have heard that you have shearers.  
-Now your shepherds have been with us, and we did not insult them,  
+Your shepherds have been with us, and we did not insult them,  
 nor did they miss anything all the days they were in Carmel.
 
 ## 1 Samuel 25:8
@@ -51,13 +51,13 @@ When David’s young men arrived, they relayed all these words to Nabal on behal
 
 ## 1 Samuel 25:10
 
-But Nabal answered David’s servants and said,  
+But Nabal replied to David’s servants,  
 “Who is David? And who is the son of Jesse?  
-There are many servants today who are each breaking away from his master.
+There are many servants these days who are breaking away from their masters.
 
 ## 1 Samuel 25:11
 
-Shall I then take my bread and my water and my meat that I have slaughtered for my shearers,  
+Shall I then take my bread and my water and my meat that I have prepared for my shearers,  
 and give it to men whose origin I do not know?”
 
 ## 1 Samuel 25:12
@@ -105,8 +105,8 @@ But she did not tell her husband Nabal.
 
 ## 1 Samuel 25:20
 
-And it happened as she was riding on her donkey and coming down by the hidden part of the mountain,  
-that behold, David and his men were coming down toward her; so she met them.
+As she was riding on her donkey and coming down by the hidden part of the mountain,  
+David and his men were descending toward her; so she met them.
 
 ## 1 Samuel 25:21
 
@@ -138,15 +138,15 @@ But I, your slave, did not see the young men of my lord whom you sent.
 
 ## 1 Samuel 25:26
 
-Now then, my lord, as the Lord lives and as your soul lives,  
-since the Lord has restrained you from shedding blood,  
+Now then, my lord, as surely as the Lord lives and as you live,  
+since the Lord has kept you from shedding blood,  
 and from avenging yourself by your own hand,  
-now then, may your enemies and those who seek evil against my lord be like Nabal.
+may your enemies and those who seek harm against my lord be like Nabal.
 
 ## 1 Samuel 25:27
 
 And now, let this gift which your servant has brought to my lord  
-be given to the young men who accompany my lord.
+be given to the young men who are with my lord.
 
 ## 1 Samuel 25:28
 
@@ -163,8 +163,8 @@ but the lives of your enemies He will sling out as from the hollow of a sling.
 
 ## 1 Samuel 25:30
 
-And when the Lord does for my lord in accordance with all the good that He has spoken concerning you,  
-and appoints you ruler over Israel,
+And when the Lord fulfils for my lord all the good He has promised concerning you,  
+and appoints you leader over Israel,
 
 ## 1 Samuel 25:31
 

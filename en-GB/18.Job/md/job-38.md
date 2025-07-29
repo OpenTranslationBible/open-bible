@@ -89,8 +89,8 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:17
 
-> Have the gates of death been revealed to you?
-> Have you seen the gates of deep darkness?
+> Have the secrets of death been shown to you?
+> Have you seen the gates of the shadowy realm?
 
 ## Job 38:18
 
@@ -111,15 +111,15 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:21
 
-> Surely you know, for you were born then,
-> and the number of your days is great!
+> Surely you must know, for you were born by then,
+> and your days are many!
 
 ---
 
 ## Job 38:22
 
-> “Have you entered the storehouses of the snow
-> or seen the storehouses of the hail,
+> “Have you entered the treasuries of the snow
+> or seen the reserves of the hail,
 
 ## Job 38:23
 
@@ -138,8 +138,8 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:26
 
-> to water a land where no one lives,
-> an uninhabited desert,
+> to water a land that is uninhabited,
+> a deserted wilderness,
 
 ## Job 38:27
 
@@ -148,8 +148,8 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:28
 
-> Does the rain have a father?
-> Who fathers the drops of dew?
+> Does the rain have a source?
+> Who is the parent of the drops of dew?
 
 ## Job 38:29
 
@@ -175,24 +175,24 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:33
 
-> Do you know the ordinances of the heavens?
-> Can you set their dominion over the earth?
+> Are you familiar with the laws of the heavens?
+> Can you establish their rule over the earth?
 
 ---
 
 ## Job 38:34
 
-> “Can you raise your voice to the clouds
-> and cover yourself with a flood of water?
+> “Can you call to the clouds
+> and cover yourself with a deluge of water?
 
 ## Job 38:35
 
 > Do you send the lightning bolts on their way?
-> Do they report to you, ‘Here we are’?
+> Do they present themselves to you, saying, ‘Here we are’?
 
 ## Job 38:36
 
-> Who has put wisdom in the innermost being,
+> Who has placed wisdom within the heart,
 > or given understanding to the mind?
 
 ## Job 38:37
@@ -202,7 +202,7 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:38
 
-> when the dust hardens into a mass
+> when the dust becomes solid
 > and the clods stick together?
 
 ---
@@ -219,6 +219,6 @@ Then the Lord spoke to Job from the whirlwind and said:
 
 ## Job 38:41
 
-> Who provides food for the raven
+> Who provides sustenance for the raven
 > when its young cry out to God
-> and wander about for lack of food?
+> and wander about without food?

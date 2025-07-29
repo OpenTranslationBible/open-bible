@@ -90,7 +90,7 @@ While you are sowing during the eighth year, you will eat from the old produce a
 
 ## Leviticus 25:23
 
-“‘The land must not be sold permanently, because the land is mine and you reside in my land as sojourners and guests.
+“‘The land must not be sold permanently, because the land is mine and you reside in my land as wanderers and guests.
 
 ## Leviticus 25:24
 

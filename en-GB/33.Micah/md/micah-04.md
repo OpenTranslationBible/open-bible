@@ -2,12 +2,12 @@
 
 ## Micah 4:1
 
-And it will come about in the last days
+And it shall come to pass in the latter days
 
 > That the mountain of the house of the Lord  
-> Will be established as the chief of the mountains.  
-> It will be raised above the hills,  
-> And the peoples will stream to it.
+> Will be established as the foremost of the mountains.  
+> It will be elevated above the hills,  
+> And the peoples will flow to it.
 
 ## Micah 4:2
 
@@ -31,39 +31,39 @@ And many nations will come and say,
 
 ## Micah 4:4
 
-> Instead, each of them will sit under his vine  
-> And under his fig tree,  
+> Each one will sit under their vine  
+> And under their fig tree,  
 > With no one to make them afraid,  
-> Because the mouth of the Lord of armies has spoken.
+> For the mouth of the Lord of hosts has spoken.
 
 ## Micah 4:5
 
-> Though all the peoples walk,  
-> Each in the name of his god,  
-> As for us, we will walk  
+> Although all the peoples walk,  
+> Each in the name of their own god,  
+> We will walk  
 > In the name of the Lord our God forever and ever.
 
 ## Micah 4:6
 
-“On that day,” declares the Lord,
+“At that time,” declares the Lord,
 
-> “I will assemble those who limp  
-> And gather the scattered,  
-> Those whom I have afflicted.
+> “I will gather those who are lame  
+> And collect the dispersed,  
+> Those whom I have brought low.
 
 ## Micah 4:7
 
-> I will make those who limp a remnant,  
-> And those who have strayed a mighty nation,  
+> I will make those who are lame a remnant,  
+> And those who have wandered a mighty nation,  
 > And the Lord will reign over them on Mount Zion  
-> From now on and forever.
+> From this time forth and forevermore.
 
 ## Micah 4:8
 
 > As for you, tower of the flock,  
 > Hill of the daughter of Zion,  
-> To you it will come—  
-> Yes, the former dominion will come,  
+> To you it shall come—  
+> Indeed, the former dominion will return,  
 > The kingdom of the daughter of Jerusalem.
 
 ## Micah 4:9
@@ -75,32 +75,32 @@ And many nations will come and say,
 
 ## Micah 4:10
 
-> Writhe and scream, daughter of Zion,  
+> Writhe and cry out, daughter of Zion,  
 > Like a woman in childbirth;  
-> For now you will go out of the city,  
-> Live in the field,  
+> For now you will leave the city,  
+> Dwell in the field,  
 > And go to Babylon.  
-> There you will be rescued,  
+> There you will be delivered,  
 > There the Lord will redeem you  
 > From the hand of your enemies.
 
 ## Micah 4:11
 
-> And now many nations have been assembled against you  
+> And now many nations have gathered against you  
 > Who say, “Let her be defiled,  
 > And let our eyes gloat over Zion!”
 
 ## Micah 4:12
 
-> But they do not know the thoughts of the Lord,  
-> And they do not understand His plan;  
-> For He has gathered them like sheaves to the threshing floor.
+> But they do not know the mind of the Lord,  
+> And they do not understand His purpose;  
+> For He has gathered them together like sheaves to the threshing floor.
 
 ## Micah 4:13
 
 > Arise and thresh, daughter of Zion,  
 > For I will make your horn iron,  
 > And I will make your hooves bronze,  
-> So that you may pulverise many peoples,  
-> And dedicate to the Lord their unjust profit,  
+> So that you may crush many peoples,  
+> And dedicate to the Lord their unjust gain,  
 > And their wealth to the Lord of the whole earth.

@@ -3,7 +3,7 @@
 ## 2 Kings 16:1
 
 In the seventeenth year of Pekah son of Remaliah,  
-Ahaz son of Jotham, king of Judah, became king.
+Ahaz son of Jotham, king of Judah, began his reign.
 
 ## 2 Kings 16:2
 
@@ -19,8 +19,8 @@ according to the abominations of the nations whom the Lord had driven out from b
 
 ## 2 Kings 16:4
 
-He sacrificed and burned incense on the high places,  
-on the hills, and under every green tree.
+He offered sacrifices and burned incense at the high places,  
+on the hills, and beneath every green tree.
 
 ---
 
@@ -39,9 +39,9 @@ and the Arameans came to Elath and have lived there to this day.
 
 ## 2 Kings 16:7
 
-So Ahaz sent messengers to Tiglath-pileser king of Assyria, saying,  
-“I am your servant and your son; come up and save me from the hand of the king of Aram,  
-and from the hand of the king of Israel, who are rising up against me.”
+So Ahaz sent envoys to Tiglath-pileser king of Assyria, saying,  
+“I am your servant and your son; come to my aid against the king of Aram,  
+and the king of Israel, who are rising up against me.”
 
 ## 2 Kings 16:8
 
@@ -50,9 +50,9 @@ and in the treasuries of the king’s house, and sent it as a gift to the king o
 
 ## 2 Kings 16:9
 
-So the king of Assyria listened to him;  
+So the king of Assyria heeded his request;  
 and the king of Assyria went up against Damascus and captured it,  
-and led the people of it into exile to Kir, and put Rezin to death.
+and led its people into exile to Kir, and executed Rezin.
 
 ---
 
@@ -82,9 +82,9 @@ and poured out his drink offering and sprinkled the blood of his peace offerings
 ## 2 Kings 16:14
 
 And the bronze altar, which was before the Lord,  
-he brought from the front of the house,  
+he moved from the front of the house,  
 from between his altar and the house of the Lord,  
-and he put it on the north side of his altar.
+and he placed it on the north side of his altar.
 
 ## 2 Kings 16:15
 
@@ -119,8 +119,8 @@ because of the king of Assyria.
 
 ## 2 Kings 16:19
 
-Now the rest of the acts of Ahaz which he did,  
-are they not written in the Book of the Chronicles of the Kings of Judah?
+Now the remainder of the acts of Ahaz which he did,  
+are they not recorded in the Book of the Chronicles of the Kings of Judah?
 
 ## 2 Kings 16:20
 

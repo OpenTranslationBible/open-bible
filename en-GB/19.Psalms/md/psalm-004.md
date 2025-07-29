@@ -19,38 +19,38 @@
 
 ## Psalm 4:3
 
-> But know that the Lord has set apart the godly person for Himself;  
-> The Lord hears when I call to Him.
+> Yet understand that the Lord has chosen the faithful for Himself;  
+> The Lord listens when I call to Him.
 
 ---
 
 ## Psalm 4:4
 
-> Tremble, and do not sin;  
-> Meditate in your heart upon your bed, and be still.
+> Be in awe, and do not sin;  
+> Reflect quietly in your heart upon your bed, and be still.
 
 > Selah
 
 ## Psalm 4:5
 
-> Offer the sacrifices of righteousness,  
-> And trust in the Lord.
+> Present offerings of righteousness,  
+> And place your trust in the Lord.
 
 ---
 
 ## Psalm 4:6
 
-> Many are saying, “Who will show us anything good?”  
-> Lift up the light of Your face upon us, Lord!
+> Many are saying, “Who will show us any good?”  
+> Shine the light of Your face upon us, Lord!
 
 ## Psalm 4:7
 
-> You have put joy in my heart,  
-> More than when their grain and new wine are abundant.
+> You have filled my heart with joy,  
+> More than when their grain and new wine overflow.
 
 ---
 
 ## Psalm 4:8
 
-> In peace I will lie down and sleep,  
-> For You alone, Lord, have me dwell in safety.
+> I will lie down and sleep in peace,  
+> For You alone, Lord, provide me with safety.

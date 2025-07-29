@@ -9,14 +9,14 @@
 
 ## Psalm 40:2
 
-> He brought me up out of the pit of destruction, out of the mud;  
-> And He set my feet on a rock, making my footsteps firm.
+> He lifted me from the pit of ruin, out of the mire;  
+> And He set my feet upon a rock, making my steps secure.
 
 ## Psalm 40:3
 
-> He put a new song in my mouth, a song of praise to our God;  
-> Many will see and fear,  
-> And will trust in the Lord.
+> He placed a new song in my mouth, a hymn of praise to our God;  
+> Many will see and stand in awe,  
+> And will place their trust in the Lord.
 
 ---
 
@@ -27,36 +27,36 @@
 
 ## Psalm 40:5
 
-> Many, Lord my God, are the wonders which You have done,  
+> Numerous, Lord my God, are the wonders You have performed,  
 > And Your thoughts toward us;  
-> There is no one to compare with You.  
-> If I would declare and speak of them,  
-> They would be too numerous to count.
+> There is none to compare with You.  
+> If I were to declare and speak of them,  
+> They would be beyond counting.
 
 ---
 
 ## Psalm 40:6
 
-> You have not desired sacrifice and meal offering;  
+> You have not desired sacrifices and offerings;  
 > You have opened my ears;  
-> You have not required burnt offering and sin offering.
+> You have not required burnt offerings and sin offerings.
 
 ## Psalm 40:7
 
-> Then I said, “Behold, I have come;  
-> It is written of me in the scroll of the book.
+> Then I said, “Look, I have come;  
+> It is written about me in the scroll of the book.
 
 ## Psalm 40:8
 
-> I delight to do Your will, my God;  
+> I take joy in doing Your will, my God;  
 > Your Law is within my heart.”
 
 ---
 
 ## Psalm 40:9
 
-> I have proclaimed good news of righteousness in the great congregation;  
-> Behold, I will not restrain my lips, Lord, You know.
+> I have announced the good news of righteousness in the great assembly;  
+> Behold, I will not hold back my lips, Lord, You know.
 
 ## Psalm 40:10
 
@@ -69,7 +69,7 @@
 ## Psalm 40:11
 
 > You, Lord, will not withhold Your compassion from me;  
-> Your mercy and Your truth will continually watch over me.
+> Your mercy and Your truth will continually guard me.
 
 ## Psalm 40:12
 
@@ -80,8 +80,8 @@
 
 ## Psalm 40:13
 
-> Be pleased, Lord, to rescue me;  
-> Hurry, Lord, to help me.
+> Be pleased, Lord, to deliver me;  
+> Make haste, Lord, to assist me.
 
 ---
 
@@ -94,14 +94,14 @@
 
 ## Psalm 40:15
 
-> May those be appalled because of their shame  
+> May those be dismayed because of their shame  
 > Who say to me, “Aha, aha!”
 
 ## Psalm 40:16
 
 > May all who seek You rejoice and be glad in You;  
 > May those who love Your salvation continually say,  
-> “The Lord be exalted!”
+> “The Lord be magnified!”
 
 ---
 

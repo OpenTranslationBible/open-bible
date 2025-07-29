@@ -27,8 +27,8 @@ so he took the poor man’s ewe lamb and prepared it for the man who had come to
 
 ## 2 Samuel 12:5
 
-Then David’s anger burned greatly against the man, and he said to Nathan,  
-“As the Lord lives, the man who has done this certainly deserves to die!
+Then David was filled with intense anger against the man, and he said to Nathan,  
+“As the Lord lives, the man who has done this surely deserves to die!
 
 ## 2 Samuel 12:6
 
@@ -44,9 +44,9 @@ This is what the Lord, the God of Israel says:
 
 ## 2 Samuel 12:8
 
-I also gave you your master’s house and your master’s wives into your care,  
+I also entrusted you with your master’s house and his wives,  
 and I gave you the house of Israel and Judah;  
-and if that had been too little, I would have added to you many more things like these!
+and if that had been insufficient, I would have added to you many more blessings like these!
 
 ## 2 Samuel 12:9
 
@@ -64,14 +64,14 @@ and have taken the wife of Uriah the Hittite to be your wife.’
 ## 2 Samuel 12:11
 
 This is what the Lord says:  
-‘Behold, I am going to raise up evil against you from your own household;  
+‘Behold, I am going to bring adversity upon you from your own household;  
 I will even take your wives before your eyes and give them to your companion,  
-and he will sleep with your wives in broad daylight.
+and he will lie with your wives in broad daylight.
 
 ## 2 Samuel 12:12
 
 Indeed, you did it secretly,  
-but I will do this thing before all Israel, and in open daylight.’”
+but I will do this thing before all Israel, and in the open.’
 
 ---
 
@@ -80,7 +80,7 @@ but I will do this thing before all Israel, and in open daylight.’”
 Then David said to Nathan,  
 “I have sinned against the Lord.”  
 And Nathan said to David,  
-“The Lord also has allowed your sin to pass; you shall not die.
+“The Lord has also pardoned your sin; you shall not die.
 
 ## 2 Samuel 12:14
 
@@ -99,7 +99,7 @@ and David fasted and went and lay on the ground all night.
 
 ## 2 Samuel 12:17
 
-The elders of his household stood beside him in order to raise him up from the ground,  
+The elders of his household stood beside him to help him rise from the ground,  
 but he was unwilling and would not eat food with them.
 
 ## 2 Samuel 12:18
@@ -127,9 +127,9 @@ Then he came to his own house, and when he requested, they served him food and h
 ## 2 Samuel 12:21
 
 Then his servants said to him,  
-“What is this thing that you have done?  
+“What is this that you have done?  
 While the child was alive, you fasted and wept;  
-but when the child died, you got up and ate food.”
+but when the child passed away, you rose and ate food.”
 
 ## 2 Samuel 12:22
 
@@ -139,16 +139,16 @@ for I thought, ‘Who knows, the Lord may be gracious to me, and the child may l
 
 ## 2 Samuel 12:23
 
-But now he has died; why should I fast?  
+But now that he has passed away, why should I fast?  
 Can I bring him back again?  
-I am going to him, but he will not return to me.”
+I will go to him, but he will not return to me.”
 
 ---
 
 ## 2 Samuel 12:24
 
 Then David comforted his wife Bathsheba,  
-and went in to her and slept with her; and she gave birth to a son, and he named him Solomon.  
+and went to her and lay with her; she gave birth to a son, whom he named Solomon.  
 Now the Lord loved him,
 
 ## 2 Samuel 12:25
@@ -164,7 +164,7 @@ At that time, Joab engaged in battle against Rabbah of the Ammonites and seized 
 ## 2 Samuel 12:27
 
 Then Joab sent messengers to David and said,  
-“I have fought against Rabbah, I have even captured the city of waters.
+“I have fought against Rabbah, and I have even captured the city of waters.
 
 ## 2 Samuel 12:28
 

@@ -62,11 +62,11 @@ but in case I am delayed, I write so that you will know how one should conduct h
 
 ## 1 Timothy 3:16
 
-Beyond question, great is the mystery of godliness:
+Without question, the mystery of godliness is profound:
 
 > He who was revealed in the flesh,  
-> Was vindicated in the Spirit,  
+> Was justified in the Spirit,  
 > Seen by angels,  
 > Proclaimed among the nations,  
-> Believed on in the world,  
+> And believed in throughout the world,  
 > Taken up in glory.

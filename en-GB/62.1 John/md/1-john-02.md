@@ -47,7 +47,7 @@ But the one who hates his brother or sister is in the darkness and walks in the 
 ## 1 John 2:12
 
 > I am writing to you, little children,  
-> because your sins have been forgiven you on account of His name.
+> because your sins are forgiven through His name.
 
 ## 1 John 2:13
 

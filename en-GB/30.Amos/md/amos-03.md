@@ -70,8 +70,8 @@ This is what the Lord says:
 
 ## Amos 3:13
 
-> “Hear and testify against the house of Jacob,”
-> declares the Lord God, the God of hosts.
+> “Listen and bear witness against the house of Jacob,”
+> says the Lord God, the God of hosts.
 
 ## Amos 3:14
 

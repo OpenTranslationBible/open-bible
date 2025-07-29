@@ -2,10 +2,10 @@
 
 ## 1 Chronicles 3:1
 
-Now these were the sons of David who were born to him in Hebron:
+These are the sons of David who were born to him in Hebron:
 
-> The firstborn was Amnon, by Ahinoam the Jezreelitess;  
-> the second was Daniel, by Abigail the Carmelitess;
+> The firstborn was Amnon, by Ahinoam the Jezreelite;  
+> the second was Daniel, by Abigail the Carmelite;
 
 ## 1 Chronicles 3:2
 
@@ -21,16 +21,16 @@ Now these were the sons of David who were born to him in Hebron:
 
 ## 1 Chronicles 3:4
 
-Six were born to him in Hebron, and there he reigned seven years and six months.  
-And in Jerusalem he reigned thirty-three years.
+Six sons were born to him in Hebron, where he reigned for seven years and six months.  
+In Jerusalem, he reigned for thirty-three years.
 
 ---
 
 ## 1 Chronicles 3:5
 
-These were born to him in Jerusalem:
+These were his sons born in Jerusalem:
 
-> Shimea, Shobab, Nathan, and Solomon —four by Bath-shua the daughter of Ammiel—
+> Shimea, Shobab, Nathan, and Solomon—four by Bath-shua, daughter of Ammiel—
 
 ## 1 Chronicles 3:6
 
@@ -42,13 +42,13 @@ These were born to him in Jerusalem:
 
 ## 1 Chronicles 3:8
 
-> Elishama, Eliada, and Eliphelet —making a total of nine.
+> Elishama, Eliada, and Eliphelet—making a total of nine.
 
 ---
 
 ## 1 Chronicles 3:9
 
-All these were the sons of David, besides the sons of the concubines;
+All these were the sons of David, in addition to the sons of the concubines;
 
 > and Tamar was their sister.
 
@@ -56,34 +56,34 @@ All these were the sons of David, besides the sons of the concubines;
 
 ## 1 Chronicles 3:10
 
-Now Solomon’s son was Rehoboam,
+Rehoboam was the son of Solomon,
 
-> Abijah was his son,  
-> Asa his son,  
-> Jehoshaphat his son,
+> followed by Abijah,  
+> Asa,  
+> and Jehoshaphat,
 
 ## 1 Chronicles 3:11
 
-> Joram his son,  
-> Ahaziah his son,  
-> Joash his son,
+> Joram,  
+> Ahaziah,  
+> and Joash,
 
 ## 1 Chronicles 3:12
 
-> Amaziah his son,  
-> Azariah his son,  
-> Jotham his son,
+> Amaziah,  
+> Azariah,  
+> and Jotham,
 
 ## 1 Chronicles 3:13
 
-> Ahaz his son,  
-> Hezekiah his son,  
-> Manasseh his son,
+> Ahaz,  
+> Hezekiah,  
+> and Manasseh,
 
 ## 1 Chronicles 3:14
 
-> Amon his son,  
-> Josiah his son.
+> Amon,  
+> followed by Josiah.
 
 ---
 
@@ -100,7 +100,7 @@ The sons of Josiah were:
 
 ## 1 Chronicles 3:16
 
-The sons of Jehoiakim were:
+Jehoiakim's sons were:
 
 > Jeconiah his son,  
 > Zedekiah his son.
@@ -109,7 +109,7 @@ The sons of Jehoiakim were:
 
 ## 1 Chronicles 3:17
 
-The sons of Jeconiah, the prisoner, were:
+Jeconiah, who was taken captive, had sons:
 
 > Shealtiel his son,
 
@@ -121,12 +121,12 @@ The sons of Jeconiah, the prisoner, were:
 
 ## 1 Chronicles 3:19
 
-The sons of Pedaiah were:
+The sons of Pedaiah included:
 
 > Zerubbabel and Shimei.  
-> And the sons of Zerubbabel were:
+> Zerubbabel's children were:
 
-> Meshullam and Hananiah, and Shelomith was their sister;
+> Meshullam and Hananiah, with Shelomith as their sister;
 
 ## 1 Chronicles 3:20
 
@@ -157,14 +157,14 @@ The descendants of Shecaniah were:
 
 ## 1 Chronicles 3:23
 
-The sons of Neariah were:
+Neariah's sons were:
 
-> Elioenai, Hizkiah, and Azrikam—three in all.
+> Elioenai, Hizkiah, and Azrikam—three in total.
 
 ---
 
 ## 1 Chronicles 3:24
 
-The sons of Elioenai were:
+Elioenai's sons were:
 
-> Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in all.
+> Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah, and Anani—seven in total.

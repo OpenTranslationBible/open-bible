@@ -17,8 +17,8 @@ This is what the Lord says:
 
 ## Amos 2:3
 
-> I will also eliminate the judge from her midst  
-> And slay all her leaders with him,”  
+> I will remove the judge from among them  
+> And put an end to all her leaders with him,”  
 > Says the Lord.
 
 ## Amos 2:4
@@ -34,8 +34,8 @@ This is what the Lord says:
 
 ## Amos 2:5
 
-> So I will send fire upon Judah,  
-> And it will consume the citadels of Jerusalem.”
+> Therefore, I will send fire upon Judah,  
+> And it will devour the fortresses of Jerusalem.”
 
 ## Amos 2:6
 
@@ -56,39 +56,39 @@ This is what the Lord says:
 
 ## Amos 2:8
 
-> And on garments seized as pledges they stretch out beside every altar,  
-> And in the house of their God they drink the wine of those who have been fined.
+> And on garments taken as security they recline beside every altar,  
+> And in the house of their God they drink the wine of those who have been penalised.
 
 ## Amos 2:9
 
-> Yet it was I who destroyed the Amorite before them,  
-> Though his height was like the height of cedars,  
+> Yet it was I who removed the Amorite before them,  
+> Though his stature was like that of cedars,  
 > And he was as strong as the oaks;  
 > I also destroyed his fruit above and his roots below.
 
 ## Amos 2:10
 
 > And it was I who brought you up from the land of Egypt,  
-> And led you in the wilderness for forty years,  
+> And guided you in the wilderness for forty years,  
 > So that you might take possession of the land of the Amorite.
 
 ## Amos 2:11
 
-> Then I raised up some of your sons to be prophets,  
+> Then I appointed some of your sons to be prophets,  
 > And some of your young men to be Nazirites.  
 > Is this not so, you sons of Israel?”  
 > Declares the Lord.
 
 ## Amos 2:12
 
-> “But you made the Nazirites drink wine,  
+> “But you caused the Nazirites to drink wine,  
 > And you commanded the prophets, saying,  
 > ‘You shall not prophesy!’
 
 ## Amos 2:13
 
-> Behold, I am making a rut in the ground beneath you,  
-> Just as a wagon makes a rut when filled with sheaves.
+> Behold, I am pressing down upon you,  
+> Just as a wagon is pressed down when filled with sheaves.
 
 ## Amos 2:14
 
@@ -98,11 +98,11 @@ This is what the Lord says:
 
 ## Amos 2:15
 
-> The one who grasps the bow will not stand his ground,  
+> The archer will not stand firm,  
 > The swift of foot will not escape,  
-> Nor will the one who rides the horse save his life.
+> Nor will the horseman save his life.
 
 ## Amos 2:16
 
-> Even the bravest among the warriors will flee naked on that day,”  
+> Even the most courageous among the warriors will flee unclothed on that day,”  
 > Declares the Lord.

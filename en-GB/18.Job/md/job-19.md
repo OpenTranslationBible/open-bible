@@ -26,8 +26,8 @@ Then Job responded, saying,
 
 ## Job 19:6
 
-> then know that God has wronged me
-> and encircled me with His net.
+> then understand that I feel wronged by God
+> and surrounded by His net.
 
 ---
 
@@ -71,7 +71,7 @@ Then Job responded, saying,
 
 ## Job 19:14
 
-> My relatives have failed me;
+> Those who are related to me have let me down;
 > my close friends have forgotten me.
 
 ## Job 19:15
@@ -106,7 +106,7 @@ Then Job responded, saying,
 
 ## Job 19:21
 
-> “Have pity on me, my friends, have pity,
+> “Show me compassion, my friends, show compassion,
 > for the hand of God has struck me.
 
 ## Job 19:22
@@ -149,6 +149,6 @@ Then Job responded, saying,
 
 ## Job 19:29
 
-> then be afraid of the sword for yourselves,
-> for wrath brings the punishment of the sword,
-> so that you may know there is judgment.”
+> then be cautious of the sword for yourselves,
+> for wrath brings the consequences of the sword,
+> so that you may understand there is judgment.”

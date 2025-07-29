@@ -46,23 +46,23 @@ therefore the army of the king of Aram has escaped from your hand.
 
 ## 2 Chronicles 16:8
 
-Were not the Ethiopians and the Lubim an immense army with very many chariots and horsemen?  
-Yet because you relied on the Lord, He handed them over to you.
+Did not the Ethiopians and the Lubim possess a vast army with numerous chariots and horsemen?  
+Yet because you trusted in the Lord, He delivered them into your hands.
 
 ---
 
 ## 2 Chronicles 16:9
 
-For the eyes of the Lord roam throughout the earth, so that He may strongly support those whose heart is completely His.  
-You have acted foolishly in this; indeed, from now on you will have wars.”
+For the eyes of the Lord move throughout the earth, that He may strongly support those whose heart is fully His.  
+You have acted unwisely in this; indeed, from now on you will face wars.”
 
 ---
 
 ## 2 Chronicles 16:10
 
-Then Asa was angry with the seer and put him in prison,  
-for he was enraged at him for this.  
-And Asa oppressed some of the people at the same time.
+Then Asa was furious with the seer and placed him in prison,  
+for he was incensed at him for this.  
+And Asa also oppressed some of the people at that time.
 
 ---
 
@@ -74,8 +74,8 @@ The deeds of Asa, from beginning to end, are recorded in the Book of the Kings o
 
 ## 2 Chronicles 16:12
 
-In the thirty-ninth year of his reign, Asa became diseased in his feet. His disease was severe,  
-yet even in his disease he did not seek the Lord, but the physicians.
+In the thirty-ninth year of his reign, Asa suffered from a disease in his feet. His condition was severe,  
+yet even in his illness he did not seek the Lord, but turned to the physicians.
 
 ---
 

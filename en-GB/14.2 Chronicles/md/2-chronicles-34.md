@@ -2,7 +2,7 @@
 
 ## 2 Chronicles 34:1
 
-Josiah was eight years old when he ascended to the throne, and he ruled for thirty-one years in Jerusalem.
+Josiah was eight years old when he began his reign, and he ruled for thirty-one years in Jerusalem.
 
 ## 2 Chronicles 34:2
 
@@ -13,8 +13,8 @@ and did not turn aside to the right or to the left.
 
 ## 2 Chronicles 34:3
 
-For in the eighth year of his reign, while he was still a youth, he began to seek the God of his father David;  
-and in the twelfth year he began to purge Judah and Jerusalem of the high places, the Asherim, the carved images, and the cast metal images.
+In the eighth year of his reign, while he was still young, he began to seek the God of his ancestor David;  
+and in the twelfth year, he initiated the cleansing of Judah and Jerusalem from the high places, the Asherim, the carved images, and the cast metal images.
 
 ## 2 Chronicles 34:4
 
@@ -49,14 +49,14 @@ and Joah the son of Joahaz the recorder, to repair the house of the Lord his God
 
 ## 2 Chronicles 34:9
 
-They came to Hilkiah the high priest and delivered the money that was brought into the house of God,  
-which the Levites, the doorkeepers, had collected from Manasseh and Ephraim,  
+They approached Hilkiah the high priest and handed over the money that had been brought into the house of God,  
+which the Levites, the doorkeepers, had gathered from Manasseh and Ephraim,  
 and from all the remnant of Israel, and from all Judah and Benjamin and the inhabitants of Jerusalem.
 
 ## 2 Chronicles 34:10
 
-Then they gave it into the hands of the workmen who had the oversight of the house of the Lord,  
-and the workmen who were working in the house of the Lord used it to restore and repair the house.
+Then they entrusted it to the hands of the workmen who were overseeing the house of the Lord,  
+and the workmen who were labouring in the house of the Lord used it to restore and repair the house.
 
 ## 2 Chronicles 34:11
 
@@ -81,21 +81,21 @@ and some of the Levites were scribes, officials, and gatekeepers.
 
 ## 2 Chronicles 34:14
 
-When they were bringing out the money which had been brought into the house of the Lord,  
-Hilkiah the priest found the Book of the Law of the Lord given by Moses.
+As they were bringing out the money that had been brought into the house of the Lord,  
+Hilkiah the priest discovered the Book of the Law of the Lord given by Moses.
 
 ## 2 Chronicles 34:15
 
-Hilkiah responded and said to Shaphan the scribe,  
+Hilkiah addressed Shaphan the scribe,  
 “I have found the Book of the Law in the house of the Lord.”  
-And Hilkiah gave the book to Shaphan.
+And Hilkiah handed the book to Shaphan.
 
 ---
 
 ## 2 Chronicles 34:16
 
-Then Shaphan brought the book to the king and reported further word to the king, saying,  
-“Everything that was entrusted to your servants, they are doing.
+Then Shaphan brought the book to the king and conveyed additional information to the king, saying,  
+“Everything that was assigned to your servants, they are doing.
 
 ## 2 Chronicles 34:17
 
@@ -104,7 +104,7 @@ and have delivered it into the hands of the supervisors and the workmen.”
 
 ## 2 Chronicles 34:18
 
-Moreover, Shaphan the scribe told the king, saying,  
+Furthermore, Shaphan the scribe informed the king, saying,  
 “Hilkiah the priest gave me a book.”  
 And Shaphan read from it in the presence of the king.
 
@@ -116,7 +116,7 @@ Upon hearing the words of the Law, the king tore his clothes.
 
 ## 2 Chronicles 34:20
 
-Then the king commanded Hilkiah, Ahikam the son of Shaphan, Abdon the son of Micah,  
+Then the king instructed Hilkiah, Ahikam the son of Shaphan, Abdon the son of Micah,  
 Shaphan the scribe, and Asaiah the king’s servant, saying,
 
 ## 2 Chronicles 34:21
@@ -130,22 +130,22 @@ because our fathers have not kept the word of the Lord, to do everything that is
 
 ## 2 Chronicles 34:22
 
-So Hilkiah and those whom the king had told went to Huldah the prophetess,  
+So Hilkiah and those whom the king had appointed went to Huldah the prophetess,  
 the wife of Shallum the son of Tokhath, the son of Hasrah, keeper of the wardrobe  
-(now she lived in Jerusalem in the Second Quarter), and they spoke to her regarding this.
+(now she lived in Jerusalem in the Second Quarter), and they spoke to her about this matter.
 
 ---
 
 ## 2 Chronicles 34:23
 
 She said to them,  
-“This is what the Lord, the God of Israel says:  
+“This is what the Lord, the God of Israel, declares:  
 Tell the man who sent you to Me,
 
 ## 2 Chronicles 34:24
 
-‘This is what the Lord says:  
-Behold, I am bringing evil on this place and on its inhabitants,  
+‘This is what the Lord declares:  
+Behold, I am bringing calamity on this place and on its inhabitants,  
 all the curses written in the book which they have read in the presence of the king of Judah,
 
 ## 2 Chronicles 34:25
@@ -201,6 +201,6 @@ So the inhabitants of Jerusalem acted in accordance with the covenant of God, th
 
 ## 2 Chronicles 34:33
 
-Josiah removed all the abominations from all the lands belonging to the sons of Israel,  
-and made all who were present in Israel serve the Lord their God.  
-Throughout his lifetime they did not turn from following the Lord God of their fathers.
+Josiah eliminated all the detestable things from all the lands belonging to the sons of Israel,  
+and compelled all who were present in Israel to serve the Lord their God.  
+Throughout his lifetime, they did not turn from following the Lord God of their fathers.

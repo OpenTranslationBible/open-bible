@@ -12,8 +12,8 @@ Do not anoint yourself with oil, but act like a woman who has long been mourning
 
 ## 2 Samuel 14:3
 
-Then go to the king and speak to him in this manner.”  
-So Joab put the words in her mouth.
+Then approach the king and speak to him in this way.”  
+Joab instructed her on what to say.
 
 ## 2 Samuel 14:4
 
@@ -51,8 +51,8 @@ and may the king and his throne be guiltless.”
 
 ## 2 Samuel 14:10
 
-The king said, “If anyone says anything to you, bring him to me,  
-and he will not touch you again.”
+The king said, “If anyone troubles you, bring him to me,  
+and he will not bother you again.”
 
 ## 2 Samuel 14:11
 
@@ -63,7 +63,7 @@ And he said, “As the Lord lives, not a hair of your son shall fall to the grou
 
 ## 2 Samuel 14:12
 
-Then the woman said, “Please let your servant speak a word to my lord the king.”  
+Then the woman said, “Please allow your servant to speak a word to my lord the king.”  
 And he said, “Speak.”
 
 ## 2 Samuel 14:13
@@ -154,7 +154,7 @@ because it was heavy on him, and when he cut it, he weighed the hair of his head
 
 ## 2 Samuel 14:27
 
-To Absalom were born three sons and one daughter, whose name was Tamar.  
+Absalom had three sons and a daughter named Tamar.  
 She was a woman of beautiful appearance.
 
 ---
@@ -170,9 +170,9 @@ So he sent again a second time, but he still did not come.
 
 ## 2 Samuel 14:30
 
-Therefore he said to his servants,  
+Therefore he instructed his servants,  
 “See, Joab’s field is next to mine, and he has barley there; go and set it on fire.”  
-So Absalom’s servants set the field on fire.
+So Absalom’s servants set the field ablaze.
 
 ## 2 Samuel 14:31
 

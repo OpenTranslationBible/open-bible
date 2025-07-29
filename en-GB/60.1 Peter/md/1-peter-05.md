@@ -57,5 +57,5 @@ The church in Babylon, chosen together with you, sends you greetings, and so doe
 
 ## 1 Peter 5:14
 
-Greet one another with a kiss of love.  
-Peace be to you all who are in Christ.
+Extend warm greetings to one another with a gesture of love.  
+May peace be with all of you who are in Christ.

@@ -19,8 +19,7 @@ And Saul had removed the mediums and spiritists from the land.
 
 ## 1 Samuel 28:4
 
-So the Philistines assembled and came and camped in Shunem;  
-and Saul gathered all Israel together, and they camped in Gilboa.
+The Philistines gathered and set up camp in Shunem, while Saul assembled all Israel, and they encamped in Gilboa.
 
 ## 1 Samuel 28:5
 
@@ -32,8 +31,8 @@ So Saul inquired of the Lord, but the Lord did not answer him, either by dreams,
 
 ## 1 Samuel 28:7
 
-Then Saul said to his servants, “Find for me a woman who is a medium, so that I may go to her and inquire of her.”  
-And his servants said to him, “Behold, there is a woman who is a medium at En-dor.”
+Then Saul said to his servants, “Seek out a woman who is a medium, so that I may visit her and seek her counsel.”  
+And his servants replied, “Behold, there is a woman who is a medium at En-dor.”
 
 ## 1 Samuel 28:8
 
@@ -54,19 +53,19 @@ So Saul vowed to her by the Lord, saying,
 
 ## 1 Samuel 28:11
 
-Then the woman said, “Whom shall I bring up for you?”  
-And he said, “Bring up Samuel for me.”
+Then the woman asked, “Whom shall I summon for you?”  
+And he replied, “Call up Samuel for me.”
 
 ## 1 Samuel 28:12
 
-When the woman saw Samuel, she cried out with a loud voice;  
+When the woman saw Samuel, she cried out loudly;  
 and the woman spoke to Saul, saying,  
 “Why have you deceived me? For you are Saul!”
 
 ## 1 Samuel 28:13
 
-But the king said to her, “Do not be afraid; but what do you see?”  
-And the woman said to Saul, “I see a divine being coming up from the earth.”
+But the king said to her, “Do not be afraid; tell me what you see.”  
+And the woman said to Saul, “I see a divine being rising from the earth.”
 
 ## 1 Samuel 28:14
 
@@ -125,8 +124,7 @@ and let me set a piece of bread before you, so that you may eat and have strengt
 
 ## 1 Samuel 28:23
 
-But he refused and said, “I will not eat.”  
-However, his servants together with the woman urged him, and he listened to them.  
+But he refused, saying, “I will not eat.” However, his servants, along with the woman, persuaded him, and he heeded them.  
 So he got up from the ground and sat on the bed.
 
 ## 1 Samuel 28:24

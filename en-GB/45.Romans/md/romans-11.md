@@ -40,13 +40,13 @@ as it is written:
 
 And David says,
 
-> “May their table become a snare and a trap,
-> a stumbling block and a retribution for them.
+> “May their table become a trap and a snare,
+> a stumbling block and a recompense for them.
 
 ## Romans 11:10
 
 > May their eyes be darkened so they cannot see,
-> and their backs be bent forever.”
+> and their backs be bent continually.”
 
 ## Romans 11:11
 
@@ -118,7 +118,7 @@ and in this way all Israel will be saved. As it is written:
 ## Romans 11:27
 
 > And this is My covenant with them
-> when I take away their sins.”
+> when I remove their sins.”
 
 ## Romans 11:28
 
@@ -142,21 +142,21 @@ For God has allowed everyone to be disobedient so that He may have mercy on them
 
 ## Romans 11:33
 
-> Oh, the depth of the riches of the wisdom and knowledge of God!
-> How unsearchable His judgments,
-> and His paths beyond tracing out!
+> Oh, the depth of the riches of God’s wisdom and knowledge!
+> How unfathomable His judgments,
+> and His paths beyond understanding!
 
 ## Romans 11:34
 
-> “Who has known the mind of the Lord?
-> Or who has been His counsellor?”
+> “Who has comprehended the mind of the Lord?
+> Or who has been His advisor?”
 
 ## Romans 11:35
 
-> “Who has ever given to God,
-> that God should repay them?”
+> “Who has ever offered anything to God,
+> that God should return it to them?”
 
 ## Romans 11:36
 
-> For from Him and through Him and for Him are all things.
+> For all things are from Him, through Him, and for Him.
 > To Him be the glory forever! Amen.
