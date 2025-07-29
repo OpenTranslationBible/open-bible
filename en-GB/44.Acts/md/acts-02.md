@@ -78,7 +78,9 @@ Instead, this is what was foretold through the prophet Joel:
 
 ## Acts 2:18
 
-> On my servants, both men and women, I will pour out my Spirit in those days, and they will prophesy.
+> On my servants, both men and women,
+> I will pour out my Spirit in those days,
+> and they will prophesy.
 
 ## Acts 2:19
 
@@ -121,7 +123,7 @@ David spoke concerning him:
 ## Acts 2:26
 
 > Therefore my heart is joyful and my tongue exults;
-> my body also will dwell securely,
+> and my body will rest in hope,
 
 ## Acts 2:27
 
@@ -164,8 +166,8 @@ For David did not ascend to heaven, and yet he said,
 
 ## Acts 2:35
 
-> until I make your enemies
-> a resting place for your feet.”’
+> until I place your enemies
+> under your feet.”’
 
 ## Acts 2:36
 

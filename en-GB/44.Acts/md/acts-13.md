@@ -151,7 +151,7 @@ God raised Him from the dead, ensuring He would never be subject to decay. As Go
 
 So it is also stated elsewhere:
 
-> ‘You will not allow Your Holy One to see decay.’
+> ‘You will not allow Your Holy One to ever decay.’
 
 ## Acts 13:36
 
@@ -176,7 +176,7 @@ Be careful that what the prophets have said does not happen to you:
 ## Acts 13:41
 
 > ‘Look, you scoffers,
-> be amazed and vanish,
+> look in wonder and vanish,
 > for I am going to do something in your days
 > that you would never believe,
 > even if someone told you.’”

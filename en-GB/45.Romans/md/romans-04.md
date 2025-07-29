@@ -26,7 +26,7 @@ Just as David also speaks of the blessedness of the person to whom God credits r
 
 ## Romans 4:7
 
-> “Happy are those
+> “Blessed are those
 > whose wrongdoings are forgiven,
 > whose sins are covered.
 

@@ -41,7 +41,7 @@ What then? Are we any better off? Not at all! For we have already charged that b
 
 ## Romans 3:10
 
-As it is recorded:
+As it is written:
 
 > “There is no one who is righteous, not even one;
 
@@ -52,7 +52,7 @@ As it is recorded:
 
 ## Romans 3:12
 
-> All have turned away, they have together become unprofitable;
+> All have turned away, they have together become worthless;
 > there is no one who does good,
 > not even one.”
 
