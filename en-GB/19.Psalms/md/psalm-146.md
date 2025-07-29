@@ -2,13 +2,13 @@
 
 ## Psalm 146:1
 
-> Honour the Lord!  
+> Praise the Lord!
 
 > Honour the Lord, my soul!
 
 ## Psalm 146:2
 
-> I shall honour the Lord as long as I live;  
+> I shall praise the Lord as long as I live;  
 > I will sing to my God for as long as I exist.
 
 ## Psalm 146:3

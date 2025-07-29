@@ -2,10 +2,10 @@
 
 ## Psalm 147:1
 
-> Honour the Lord!
+> Praise the Lord!
 
-> For singing praises to our God is good;  
-> It is delightful, and praise is lovely.
+> It is good to sing praises to our God;  
+> It is delightful, and such praise is lovely.
 
 ---
 
@@ -16,7 +16,7 @@
 
 ## Psalm 147:3
 
-> He mends the brokenhearted  
+> He mends the broken-hearted  
 > And heals their wounds.
 
 ## Psalm 147:4
@@ -70,7 +70,7 @@
 
 ## Psalm 147:12
 
-> Honour the Lord, Jerusalem!  
+> Praise the Lord, Jerusalem!  
 > Honour your God, Zion!
 
 ---
@@ -118,4 +118,4 @@
 
 > He has not acted this way with any other nation;  
 > And as for His judgments, they have not understood them.  
-> Honour the Lord!
+> Praise the Lord!

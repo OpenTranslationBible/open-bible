@@ -19,13 +19,13 @@
 
 ## Psalm 144:3
 
-> Lord, what is humanity, that You care for them?  
+> Lord, what is man, that You care for him?  
 > Or the children of man, that You are mindful of them?
 
 ## Psalm 144:4
 
-> Humans are like a breath;  
-> Their days are like a fleeting shadow.
+> Man is like a breath;  
+> His days are like a fleeting shadow.
 
 ---
 
