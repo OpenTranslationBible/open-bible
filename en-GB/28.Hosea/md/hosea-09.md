@@ -64,10 +64,10 @@
 
 ## Hosea 9:10
 
-> I discovered Israel like grapes in the wilderness;  
-> I saw your forefathers as the earliest fruit on the fig tree in its first season.  
-> But they went to Baal-peor and devoted themselves to disgrace,  
-> And they became as detestable as what they cherished.
+> I found Israel like grapes in the wilderness;  
+> I valued your forefathers as the earliest fruit on the fig tree in its first season.  
+> But they went to Baal-peor to devot themselves to disgrace,  
+> And they became as detestable to me as all they cherished there.
 
 ## Hosea 9:11
 

@@ -20,9 +20,9 @@
 
 ## Hosea 11:4
 
-> I led them with human cords,  
+> I led them with the cords of man,
 > With bonds of love,  
-> And I was to them as one who eases the yoke from their jaws;  
+> I eased the yoke from their jaws;  
 > And I stooped down and fed them.
 
 ## Hosea 11:5
@@ -50,14 +50,14 @@
 > How can I make you like Admah?  
 > How can I treat you like Zeboiim?  
 > My heart is stirred within Me,  
-> All My compassions are ignited.
+> My compassion is overflowing.
 
 ## Hosea 11:9
 
 > I will not unleash My fierce anger;  
 > I will not destroy Ephraim again.  
 > For I am God and not a mortal,  
-> The Holy One among you,  
+> I am the The Holy One among you,  
 > And I will not come in fury.
 
 ## Hosea 11:10
@@ -75,7 +75,7 @@
 
 ## Hosea 11:12
 
-> Ephraim surrounds Me with falsehood,  
+> Ephraim surrounds Me with lies,  
 > And the house of Israel with deceit;  
 > Judah is also defiant against God,  
-> Even against the Holy One who is steadfast.
+> Even as I remain the Holy One who is faithful.
