@@ -63,6 +63,9 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 > And lead us not into temptation,
 > but deliver us from evil.’
 
+> For Yours is the kingdom, the power, the glory,
+> for ever. Amen
+
 ---
 
 ## Matthew 6:14

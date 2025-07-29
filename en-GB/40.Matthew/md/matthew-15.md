@@ -30,13 +30,13 @@ You pretenders! Isaiah was correct when he prophesied about you:
 
 ## Matthew 15:8
 
-> ‘These people speak honourably of me,
+> ‘These people honour me with their lips,
 > but their hearts are distant from me.
 
 ## Matthew 15:9
 
-> Their worship is futile;
-> their teachings are nothing more than human instructions.’
+> Their worship is in vain;
+> their teachings are nothing more than a man's instructions.’
 
 ---
 
