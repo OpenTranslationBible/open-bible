@@ -10,7 +10,7 @@
 
 ## Psalm 143:2
 
-> And do not bring Your servant to trial,  
+> And do not make Your servant stand trial,  
 > For no one alive is righteous before You.
 
 ## Psalm 143:3
