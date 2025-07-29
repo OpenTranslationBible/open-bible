@@ -53,5 +53,5 @@
 
 ## Psalm 137:9
 
-> Blessed is he then, who seizes your children  
-> to dash them upon the rocks you stained.
+> Blessed is he then, who would seize your children  
+> and throw them dashed on your rocks.

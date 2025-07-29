@@ -9,7 +9,7 @@
 
 ## Psalm 142:2
 
-> I express my distress before Him;  
+> I pour out my distress before Him;  
 > I reveal my troubles to Him.
 
 ---
@@ -17,7 +17,7 @@
 ## Psalm 142:3
 
 > When my spirit was overwhelmed within me,  
-> You were aware of my path.  
+> You were aware of my going.  
 > On the path where I walk  
 > They have set a snare for me.
 
@@ -47,7 +47,7 @@
 
 ## Psalm 142:7
 
-> Release my soul from confinement,  
+> Raise my soul up from sorrow,  
 > So that I may give thanks to Your name;  
 > The righteous will gather around me,  
 > For You will care for me.”
