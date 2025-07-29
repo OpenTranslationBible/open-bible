@@ -9,8 +9,8 @@
 
 ## Micah 3:2
 
-> You who detest goodness and embrace wickedness,  
-> Who strip away their skin  
+> You who hate goodness and love wickedness,  
+> Who tear away their skin  
 > And their flesh from their bones,
 
 ## Micah 3:3

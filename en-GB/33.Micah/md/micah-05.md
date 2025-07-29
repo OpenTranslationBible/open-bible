@@ -24,7 +24,7 @@
 
 ## Micah 5:4
 
-> And He will stand and guide His flock  
+> And He will stand to shepherd His flock  
 > In the strength of the Lord,  
 > In the majesty of the name of the Lord His God.  
 > And they will dwell securely,  

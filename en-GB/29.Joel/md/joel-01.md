@@ -13,8 +13,8 @@ Then the word of the Lord came to Joel, son of Pethuel.
 
 ## Joel 1:3
 
-> Share this with your children,
-> and let them share it with their children,
+> Repeat this with your children,
+> and let them tell it to their children,
 > and their descendants with the following generation.
 
 ## Joel 1:4
@@ -105,8 +105,8 @@ Then the word of the Lord came to Joel, son of Pethuel.
 
 ## Joel 1:16
 
-> Is not the food removed before our eyes,
-> and joy and gladness from the house of our God?
+> Is not the food cut off from us, before our eyes,
+> and joy and gladness cut off, from the house of our God?
 
 ## Joel 1:17
 

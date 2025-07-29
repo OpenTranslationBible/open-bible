@@ -92,9 +92,9 @@ And many nations will come and say,
 
 ## Micah 4:12
 
-> But they do not know the intentions of the Lord,  
+> But they do not know the mind of the Lord,  
 > And they do not understand His purpose;  
-> For He has brought them together like sheaves to the threshing floor.
+> For He has gathered them together like sheaves to the threshing floor.
 
 ## Micah 4:13
 

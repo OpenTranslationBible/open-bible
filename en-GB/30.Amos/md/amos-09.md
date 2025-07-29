@@ -69,8 +69,8 @@ I saw the Lord standing beside the altar, and He said,
 
 ## Amos 9:10
 
-> All the wrongdoers of My people will perish by the sword,  
-> Those who say, ‘The disaster will not overtake or confront us.’
+> All the sinners among My people will perish by the sword,  
+> Those who say, ‘The disaster will not overtake nor confront us.’
 
 ## Amos 9:11
 

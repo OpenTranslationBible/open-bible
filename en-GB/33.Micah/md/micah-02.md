@@ -3,7 +3,7 @@
 ## Micah 2:1
 
 > Alas for those who plan mischief,  
-> Who engage in wrongdoing while in bed!  
+> Who plot evil while in bed!  
 > When dawn arrives, they carry it out,  
 > Because it is within their power to do so.
 
@@ -40,7 +40,7 @@
 
 > ‘Do not prophesy,’ they say.  
 > Yet if they refrain from prophesying about these matters,  
-> Insults will not be turned back.”
+> Your disgrace will not be turned back.”
 
 ## Micah 2:7
 
@@ -52,8 +52,8 @@
 
 ## Micah 2:8
 
-> Lately, My people have risen as adversaries—  
-> You remove the robe from the garment  
+> Lately, My people have risen as enemies—  
+> You strip the robe from the clothes  
 > Of unsuspecting passers-by,  
 > From those returned from war.
 
@@ -73,7 +73,7 @@
 
 ## Micah 2:11
 
-> If someone pursuing emptiness and deceit were to lie and say,  
+> If someone walking after the wind, were to lie and say,  
 > “I will prophesy to you about wine and strong drink,”  
 > He would become a prophet to this people.
 

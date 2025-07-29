@@ -12,7 +12,7 @@ This is what the Lord God says concerning Edom—
 
 ## Obadiah 1:2
 
-> “See, I will make you insignificant among the nations;  
+> “Behold, I will make you insignificant among the nations;  
 > You are held in great contempt.
 
 ## Obadiah 1:3

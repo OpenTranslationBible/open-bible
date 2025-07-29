@@ -48,9 +48,9 @@ I will sell your sons and daughters into the hands of the people of Judah, and t
 
 ## Joel 3:10
 
-> Transform your ploughshares into swords
+> Beat your ploughshares into swords
 > and your pruning hooks into spears.
-> Let the weakling declare, “I am strong!”
+> Let the weak now say, “I am strong!”
 
 ## Joel 3:11
 
@@ -73,7 +73,7 @@ I will sell your sons and daughters into the hands of the people of Judah, and t
 
 ## Joel 3:14
 
-> Crowds upon crowds in the valley of decision!
+> Crowds upon crowds congregate in the valley of decision!
 > For the day of the Lord is near in the valley of decision.
 
 ## Joel 3:15
