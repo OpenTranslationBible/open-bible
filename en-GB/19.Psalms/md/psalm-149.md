@@ -5,7 +5,7 @@
 > Praise the Lord!
 
 > Sing a fresh song to the Lord,  
-> And celebrate Him in the gathering of the faithful.
+> And celebrate Him in the congregation of the faithful.
 
 ## Psalm 149:2
 

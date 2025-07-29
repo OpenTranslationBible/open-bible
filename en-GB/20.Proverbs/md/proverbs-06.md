@@ -44,7 +44,7 @@ How long will you lie there, you lazy one? When will you arise from your sleep?
 
 ## Proverbs 6:10
 
-A brief sleep, a short slumber,
+A brief sleep, a little slumber,
 
 > a slight folding of the hands to rest—
 
