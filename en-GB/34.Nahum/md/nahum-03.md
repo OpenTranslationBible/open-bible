@@ -83,7 +83,7 @@
 
 ## Nahum 3:13
 
-> Behold, your people are defenceless within you!  
+> Behold, your soldiers are like women!  
 > The gates of your land are opened wide to your enemies;  
 > Fire consumes your gate bars.
 

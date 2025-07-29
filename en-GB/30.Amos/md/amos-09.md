@@ -40,7 +40,7 @@ I saw the Lord standing beside the altar, and He said,
 
 ## Amos 9:6
 
-> The One who constructs His upper chambers in the heavens  
+> The One who makes His upper chambers in the heavens  
 > And establishes His arch over the earth,  
 > He who summons the waters of the sea  
 > And pours them out upon the surface of the earth,  

@@ -27,24 +27,24 @@ Hear now what the Lord is saying:
 
 ## Micah 6:5
 
-> My people, recall now  
-> What Balak king of Moab devised,  
-> And how Balaam son of Beor responded to him,  
-> And what occurred from Shittim to Gilgal,  
-> So that you might understand the righteous deeds of the Lord.”
+> My people, remember  
+> What Balak king of Moab planned,  
+> And how Balaam son of Beor answered to him,  
+> And all that occurred from Shittim to Gilgal,  
+> So that you might know the righteous deeds of the Lord.”
 
 ## Micah 6:6
 
-> With what shall I approach the Lord  
+> With what shall I come to the Lord  
 > And bow myself before the God on high?  
-> Shall I come to Him with burnt offerings,  
+> Shall I bring Him burnt offerings,  
 > With year-old calves?
 
 ## Micah 6:7
 
 > Does the Lord delight in thousands of rams,  
 > In ten thousand rivers of oil?  
-> Shall I offer my firstborn for my transgression,  
+> Shall I offer my firstborn for my sin,  
 > The fruit of my body for the sin of my soul?
 
 ## Micah 6:8
@@ -74,7 +74,7 @@ Hear now what the Lord is saying:
 ## Micah 6:12
 
 > For the wealthy of the city are full of violence,  
-> Her inhabitants speak falsehoods,  
+> Her inhabitants lie,  
 > And their tongue is deceitful in their mouth.
 
 ## Micah 6:13
@@ -84,10 +84,10 @@ Hear now what the Lord is saying:
 
 ## Micah 6:14
 
-> You will eat, but you will not be satisfied,  
-> And your emptiness will remain within you.  
-> You will try to secure valuables,  
-> But you will not save them all,  
+> You will eat, yet you will not be satisfied,  
+> And your filth will remain within you.  
+> When try to secure valuables,  
+> You will not save them all,  
 > And what you do save I will hand over to the sword.
 
 ## Micah 6:15
@@ -98,7 +98,7 @@ Hear now what the Lord is saying:
 
 ## Micah 6:16
 
-> The decrees of Omri  
+> The statutes of Omri  
 > And all the practices of the house of Ahab are upheld,  
 > And you follow their counsels.  
 > Therefore I will deliver you to ruin,  

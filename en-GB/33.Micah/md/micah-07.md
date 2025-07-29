@@ -87,7 +87,7 @@
 ## Micah 7:13
 
 > And the earth will become desolate because of its inhabitants,  
-> Due to the result of their actions.
+> On account of their evil deeds
 
 ## Micah 7:14
 
@@ -100,8 +100,8 @@
 
 ## Micah 7:15
 
-> Just as when you came out from the land of Egypt,  
-> I will display wonders to you.
+> Yet just as when you came out from the land of Egypt,  
+> So I will display my wonders to you.
 
 ## Micah 7:16
 
