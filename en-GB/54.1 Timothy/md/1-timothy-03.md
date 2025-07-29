@@ -62,11 +62,11 @@ but in case I am delayed, I write so that you will know how one should conduct h
 
 ## 1 Timothy 3:16
 
-Undoubtedly, the mystery of godliness is profound:
+Without question, the mystery of godliness is profound:
 
-> He who appeared in the flesh,  
+> He who was revealed in the flesh,  
 > Was justified in the Spirit,  
 > Seen by angels,  
 > Proclaimed among the nations,  
-> Believed in throughout the world,  
+> And believed in throughout the world,  
 > Taken up in glory.

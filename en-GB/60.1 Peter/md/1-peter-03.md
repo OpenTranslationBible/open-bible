@@ -40,7 +40,7 @@ not returning evil for evil or insult for insult, but offering a blessing instea
 
 For,
 
-> “Whoever wishes to enjoy life  
+> “He who would love life  
 > and see good days,  
 > Must keep their tongue from evil  
 > and their lips from speaking deceit.

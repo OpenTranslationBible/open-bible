@@ -66,7 +66,7 @@ Or what accord does Christ have with Belial, or what does a believer have in com
 
 ## 2 Corinthians 6:16
 
-Or what harmony exists between the temple of God and idols? For we are the temple of the living God; as God has declared:
+Or what agreement could be found between the temple of God and idols? We are the temple of the living God; as God has declared:
 
 > “I will dwell among them and walk among them;  
 > And I will be their God, and they shall be My people.

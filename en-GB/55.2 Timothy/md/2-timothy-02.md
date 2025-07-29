@@ -42,9 +42,9 @@ For this reason I persevere in all things for the sake of those who are chosen, 
 
 ## 2 Timothy 2:11
 
-This saying is reliable:
+This saying is trustworthy:
 
-> If we have died with Him,
+> For, if we have died with Him,
 > we shall also live with Him;
 
 ## 2 Timothy 2:12

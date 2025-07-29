@@ -27,7 +27,7 @@ For it is stated in Scripture:
 > “See, I am placing in Zion a chosen stone,  
 > a precious cornerstone,  
 > And whoever believes in Him  
-> will not be disappointed.”
+> will not be put to shame.”
 
 ## 1 Peter 2:7
 

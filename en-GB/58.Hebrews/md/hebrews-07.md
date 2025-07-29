@@ -69,7 +69,7 @@ who has become a priest not on the basis of a regulation as to his ancestry, but
 For it is declared about Him:
 
 > “You are a priest forever,
-> in the order of Melchizedek.”
+> of the order of Melchizedek.”
 
 ## Hebrews 7:18
 

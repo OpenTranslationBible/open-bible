@@ -41,9 +41,9 @@ What then? Are we any better off? Not at all! For we have already charged that b
 
 ## Romans 3:10
 
-As it is written:
+For it is written:
 
-> “There is no one who is righteous, not even one;
+> “There is no one righteous, not even one;
 
 ## Romans 3:11
 
@@ -52,7 +52,7 @@ As it is written:
 
 ## Romans 3:12
 
-> All have turned away, they have together become worthless;
+> All have turned away, they have become worthless;
 > there is no one who does good,
 > not even one.”
 

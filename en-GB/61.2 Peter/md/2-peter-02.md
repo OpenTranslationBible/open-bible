@@ -86,6 +86,10 @@ For it would be preferable for them not to have known the way of righteousness, 
 
 ## 2 Peter 2:22
 
-This is exemplified by the true proverb:  
-“A dog returns to its own vomit,”  
-and, “A sow, after washing, returns to wallowing in the mire.”
+This is shown by the true proverb:
+
+> “A dog returns to its own vomit,”
+
+and,
+
+> “A sow, after washing, returns to wallowing in the mire.”

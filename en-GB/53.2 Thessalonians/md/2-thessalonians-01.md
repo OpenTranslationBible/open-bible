@@ -3,7 +3,7 @@
 ## 2 Thessalonians 1:1
 
 From Paul, Silvanus, and Timothy,  
-to the church of the Thessalonians who are in God our Father and the Lord Jesus Christ:
+to the church of the Thessalonians, of God our Father and the Lord Jesus Christ:
 
 ## 2 Thessalonians 1:2
 

@@ -4,7 +4,7 @@
 
 From Paul, Silvanus, and Timothy,  
 To the church of the Thessalonians who are in God the Father and the Lord Jesus Christ:  
-May grace and peace be yours.
+Grace and peace be yours.
 
 ## 1 Thessalonians 1:2
 

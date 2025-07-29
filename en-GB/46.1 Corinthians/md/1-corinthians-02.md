@@ -68,6 +68,6 @@ But the one who is spiritual evaluates all things, yet he himself is evaluated b
 
 For
 
-> who has comprehended the mind of the Lord, so as to instruct Him?
+> who can know the mind of the Lord, so as to instruct Him?
 
 Yet we possess the mind of Christ.
