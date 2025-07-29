@@ -137,7 +137,7 @@ But the Pharisees and the experts in the law rejected God’s purpose for themse
 
 ## Luke 7:32
 
-They resemble children sitting in the marketplace and calling to each other:
+They are just like children sitting in the marketplace and calling to each other:
 
 > ‘We played the flute for you,
 > and you did not dance;

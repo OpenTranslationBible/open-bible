@@ -88,8 +88,8 @@ and everyone was trying to touch Him, because power was coming from Him and heal
 
 Turning to His disciples, He said:
 
-> “Blessed are you who are in need,
-> for yours is the kingdom of God.
+> “Blessed are you who are in poor,
+> because yours is the kingdom of God.
 
 ## Luke 6:21
 
@@ -113,7 +113,7 @@ Rejoice on that day and leap for joy, for behold, your reward is great in heaven
 
 ## Luke 6:24
 
-> But woe to you who are wealthy,
+> But woe to you who have wealth,
 > for you have already received your comfort.
 
 ## Luke 6:25

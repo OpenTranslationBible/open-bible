@@ -13,13 +13,14 @@ He responded, “When you pray, say:
 
 ## Luke 11:3
 
-> Provide us with the sustenance we need each day.
+> Give us today, our daily bread.
 
 ## Luke 11:4
 
 > And forgive us our sins,
-> for we also forgive everyone who is indebted to us.
-> And lead us not into temptation.’”
+> for we also forgive everyone who sinned against us.
+> And lead us not into temptation,
+> but deliver us from evil.’”
 
 ---
 
