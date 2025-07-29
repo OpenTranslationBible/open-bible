@@ -30,7 +30,7 @@
 
 > I will be like the morning dew to Israel;  
 > He will flourish like the lily,  
-> And establish roots like the cedars of Lebanon.
+> Establishing roots like the cedars of Lebanon.
 
 ## Hosea 14:6
 
@@ -43,7 +43,7 @@
 > Those who dwell in his shade  
 > Will once more cultivate grain,  
 > And they will flourish like the vine.  
-> His renown will be like the wine of Lebanon.
+> His fame will be like the wine of Lebanon.
 
 ## Hosea 14:8
 
@@ -54,7 +54,7 @@
 
 ## Hosea 14:9
 
-> Whoever is wise, let him comprehend these things;  
+> Whoever is wise, let him know these things;  
 > Whoever is discerning, let him recognise them.  
 > For the ways of the Lord are just,  
 > And the righteous will walk in them,  
