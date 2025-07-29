@@ -30,7 +30,7 @@ Then I heard another voice from heaven, saying,
 ## Revelation 18:5
 
 > for her sins have piled up to the heavens,
-> and God has taken note of her wrongdoings.
+> and God has remembered her iniquity.
 
 ## Revelation 18:6
 
@@ -136,5 +136,5 @@ Then a mighty angel picked up a stone like a large millstone and threw it into t
 
 ## Revelation 18:24
 
-> And within her was discovered the blood of prophets and of saints,
+> For within her was the blood of prophets and of saints,
 > and of all who have been slain on the earth.”

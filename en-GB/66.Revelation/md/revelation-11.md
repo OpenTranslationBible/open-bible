@@ -72,7 +72,7 @@ And the twenty-four elders, seated on their thrones before God, fell on their fa
 
 They proclaimed,
 
-> “We express our gratitude to You, Lord God Almighty,
+> “We give thanks to You, Lord God Almighty,
 > the One who is and who was,
 > because You have taken Your great power
 > and have begun to reign.

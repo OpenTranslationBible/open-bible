@@ -48,7 +48,7 @@ After these events, I looked, and there was a vast multitude that no one could c
 
 And they proclaimed with a loud voice,
 
-> “Salvation is attributed to our God
+> “Salvation is belongs to our God
 > who sits on the throne,
 > and to the Lamb.”
 
