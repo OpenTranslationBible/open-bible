@@ -36,6 +36,8 @@ God called the expanse “sky.” And there was evening, and there was morning�
 
 And God said, “Let the waters under the sky be gathered to one place, and let dry ground appear.” And it was so.
 
+---
+
 ## Genesis 1:10
 
 God named the dry ground “land,” and the gathered waters He named “seas.” And God saw that it was good.
@@ -50,7 +52,9 @@ The land brought forth vegetation: plants bearing seed according to their kinds 
 
 ## Genesis 1:13
 
-And so, with evening and morning, there concluded the third day, .
+And so, with evening and morning, there concluded the third day.
+
+---
 
 ## Genesis 1:14
 
@@ -106,7 +110,9 @@ Then God said, “Let us make mankind in our image, in our likeness, so that the
 
 ## Genesis 1:27
 
-So God fashioned mankind in His own image, in the image of God He created them; male and female He created them.
+> So God fashioned mankind in His own image,
+> in the image of God He created them;
+> male and female He created them.
 
 ## Genesis 1:28
 

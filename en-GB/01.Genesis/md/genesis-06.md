@@ -18,15 +18,15 @@ The Nephilim were on the earth in those days, and also afterwards, when the sons
 
 ## Genesis 6:5
 
-The Lord saw that the wickedness of humankind was great on the earth, and that every inclination of the thoughts of their hearts was only evil continually.
+The Lord saw that the wickedness of mankind was great on the earth, and that every inclination of the thoughts of their hearts was only evil continually.
 
 ## Genesis 6:6
 
-The Lord regretted that He had made humankind on the earth, and He was grieved in His heart.
+The Lord regretted that He had made mankind on the earth, and He was grieved in His heart.
 
 ## Genesis 6:7
 
-So the Lord said, “I will wipe out humankind whom I have created from the face of the earth, along with the animals, the birds, and the creatures that move on the ground, for I regret that I have made them.”
+So the Lord said, “I will wipe out mankind whom I have created from the face of the earth, along with the animals, the birds, and the creatures that move on the ground, for I regret that I have made them.”
 
 ## Genesis 6:8
 

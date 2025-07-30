@@ -22,7 +22,7 @@
 ## Psalm 8:4
 
 > What is humanity that You are mindful of them,  
-> And a child of humankind that You care for them?
+> And whats is a child of man that You care for him?
 
 ---
 

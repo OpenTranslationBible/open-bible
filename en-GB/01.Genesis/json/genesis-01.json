@@ -57,6 +57,11 @@
             ]
         },
         {
+            "text": [
+                "---"
+            ]
+        },
+        {
             "verse": 10,
             "text": [
                 "God named the dry ground “land,” and the gathered waters He named “seas.” And God saw that it was good."
@@ -77,7 +82,12 @@
         {
             "verse": 13,
             "text": [
-                "And so, with evening and morning, there concluded the third day, ."
+                "And so, with evening and morning, there concluded the third day."
+            ]
+        },
+        {
+            "text": [
+                "---"
             ]
         },
         {
@@ -161,7 +171,9 @@
         {
             "verse": 27,
             "text": [
-                "So God fashioned mankind in His own image, in the image of God He created them; male and female He created them."
+                "> So God fashioned mankind in His own image,",
+                "> in the image of God He created them;",
+                "> male and female He created them."
             ]
         },
         {

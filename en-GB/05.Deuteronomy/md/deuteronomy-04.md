@@ -126,7 +126,7 @@ For the Lord your God is a compassionate God; He will not abandon or destroy you
 
 ## Deuteronomy 4:32
 
-Ask now about the former days, long before your time, from the day God created humankind on the earth; ask from one end of the heavens to the other. Has anything so great as this ever happened, or has anything like it ever been heard of?
+Ask now about the former days, long before your time, from the day God created mankind on the earth; ask from one end of the heavens to the other. Has anything so great as this ever happened, or has anything like it ever been heard of?
 
 ## Deuteronomy 4:33
 
