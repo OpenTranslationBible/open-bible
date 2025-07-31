@@ -52,7 +52,7 @@ fa-IR
 
 The Open Translation Bible (OTB) is the world's first open source bible and was launched in July 2025. We are https://openbible.uk - The Open Translation Bible is not to be confused with other organisations or websites possessing similar sounding names. We are unaffiliated to any other organisation.
 
-We cross referenced over 1.3 million verse to ensure OTB is dissimilar to all in fact only 20 of our verses are the same as any other versions
+We cross referenced over 1.3 million verse to ensure OTB is dissimilar to all in fact only 18 of our verses are the same as _any_ other versions
 
 | short_name | avg_similarity |
 | ---------- | -------------- |
@@ -104,7 +104,7 @@ We cross referenced over 1.3 million verse to ensure OTB is dissimilar to all in
 | MSG        | 17.21%         |
 | PHILLIPS   | 16.44%         |
 
-only verses same as _any_ other english version out of 1.3 million
+only 18 verses same as _any_ other english version out of 1.3 million
 
 | Book        | Chapter | Verse |
 | ----------- | ------- | ----- |
@@ -120,7 +120,6 @@ only verses same as _any_ other english version out of 1.3 million
 | Deuteronomy | 5       | 17    |
 | Deuteronomy | 5       | 18    |
 | Deuteronomy | 5       | 19    |
-| Jeremiah    | 32      | 38    |
 | Luke        | 11      | 3     |
 | John        | 1       | 1     |
 | John        | 1       | 2     |
