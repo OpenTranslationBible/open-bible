@@ -1,0 +1,497 @@
+{
+    "book": "Nehemiah",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "When the wall was completed and the doors were set in place, I appointed the gatekeepers, the singers, and the Levites."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "I appointed my brother Hanani, and Hananiah the commander of the fortress, in charge of Jerusalem, for he was a trustworthy man who feared God more than many others."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "I instructed them, “Do not open the gates of Jerusalem until the sun is high. While the gatekeepers are still on duty, let them close and bolt the doors. Also, appoint guards from the inhabitants of Jerusalem, each at his station and in front of his own house.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "The city was large and spacious, but the population was small, and the houses had not been rebuilt."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Then my God put it into my heart to gather the nobles, the officials, and the common people for registration by families. I found the genealogical record of those who had first returned, and this is what I discovered:"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "These are the people of the province who returned from the captivity of the exiles whom Nebuchadnezzar, king of Babylon, had taken into exile. They returned to Jerusalem and Judah, each to his own town,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "accompanying Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispereth, Bigvai, Nehum, and Baanah. The list of the men of Israel:"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> the line of Parosh, numbered 2,172;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> the line of Shephatiah, numbered 372;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> the line of Arah, numbered 652;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> the line of Pahath-Moab, numbered through the line of Jeshua and Joab, 2,818;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> the line of Elam, numbered 1,254;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> the line of Zattu, numbered 845;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> the line of Zaccai, numbered 760;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> the line of Binnui, numbered 648;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> the line of Bebai, numbered 628;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> the line of Azgad, numbered 2,322;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> the line of Adonikam, numbered 667;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> the line of Bigvai, numbered 2,067;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> the line of Adin, numbered 655;"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> the line of Ater, numbered through Hezekiah, 98;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> the line of Hashum, numbered 328;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> the line of Bezai, numbered 324;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> the line of Hariph, numbered 112;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> the line of Gibeon, numbered 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> the people of Bethlehem and Netophah, numbered 188;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> the people of Anathoth, numbered 128;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> the people of Beth Azmaveth, numbered 42;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> the people of Kiriath Jearim, Kephirah, and Beeroth, numbered 743;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> the people of Ramah and Geba, numbered 621;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> the people of Michmas, numbered 122;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> the people of Bethel and Ai, numbered 123;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> the people of the other Nebo, numbered 52;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> the line of the other Elam, numbered 1,254;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> the line of Harim, numbered 320;"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> the people of Jericho, numbering 345;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> the people of Lod, Hadid, and Ono, numbered 721;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> the line of Senaah, numbered 3,930."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "The priests:",
+                "> the line of Jedaiah, of the house of Jeshua, numbered 973;"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> the line of Immer, numbered 1,052;"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> the line of Pashhur, numbered 1,247;"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> the line of Harim, numbered 1,017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "The Levites:",
+                "> the line of Jeshua, through Kadmiel, through the line of Hodevah, numbered 74."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "The singers:",
+                "> the line of Asaph, numbered 148."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "The gatekeepers:",
+                "> the line of",
+                "> Shallum, Ater, Talmon, Akkub,",
+                "> Hatita, and Shobai, numbered 138."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "The temple servants:",
+                "the line of Ziha, Hasupha, Tabbaoth,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> the line of Keros, Sia, and Padon,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> the line of Lebana, Hagaba, and Shalmai,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> the line of Hanan, Giddel, and Gahar,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> the line of Reaiah, Rezin, and Nekoda,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> the line of Gazzam, Uzza, and Paseah,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> the line of Besai, Meunim, and the temple servant Nephushesim,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> the line of Bakbuk, Hakupha, and Harhur,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> the line of Bazluth, Mehida, and Harsha,"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> the line of Barkos, Sisera, and Temah,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> the line of Neziah, and Hatipha."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "The descendants of Solomon’s servants:",
+                "the descendants of Sotai, Sophereth, and Perida,"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "the descendants of Jaala, Darkon, and Giddel,"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "the descendants of Shephatiah, Hattil, Pochereth-Hazzebaim, and the temple servant Amon."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "The temple servants and the descendants of Solomon’s servants totalled 392."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "These were the ones who came up from Tel Melah, Tel Harsha, Cherub, Addon, and Immer, but they could not prove their families or their descent, whether they were of Israel:"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "the families of Delaiah, Tobiah, and Nekoda, 642."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "And from among the priests: the descendants of Hobaiah, Hakkoz, and Barzillai, who had married a daughter of Barzillai the Gileadite and took that name."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "These searched for their family records, but they could not find them and were thus excluded from the priesthood as unclean."
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "The governor ordered them not to eat any of the most sacred food until a priest arose with Urim and Thummim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "The whole assembly numbered 42,360,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "in addition to their 7,337 male and female servants; and they also had 245 singers, both male and female."
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "They possessed 736 horses, 245 mules,"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "and had 435 camels, and 6,720 donkeys."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Some of the heads of the families contributed to the work. The governor gave to the treasury 1,000 gold drachmas, 50 bowls, and 530 garments for priests."
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "Some of the heads of the families gave to the treasury for the work 20,000 gold drachmas and 2,200 silver minas."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "The rest of the people gave 20,000 gold drachmas, 2,000 silver minas, and 67 garments for priests."
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "The priests, the Levites, the gatekeepers, the singers, some of the people, the temple servants, and all Israel settled in their towns. When the seventh month came, the Israelites were in their towns."
+            ]
+        }
+    ]
+}

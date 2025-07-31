@@ -1,0 +1,55 @@
+{
+    "book": "Psalm",
+    "chapter": 93,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> The Lord reigns, adorned in majesty;",
+                "> The Lord has wrapped Himself in strength.",
+                "> Truly, the world is firmly established; it shall not be moved."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Your throne has been established from ancient times;",
+                "> You are everlasting."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> The floods have risen, Lord,",
+                "> The floods have raised their voice,",
+                "> The floods lift up their crashing waves."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Beyond the sounds of many waters,",
+                "> Beyond the mighty breakers of the sea,",
+                "> The Lord on high is powerful."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Your decrees are thoroughly affirmed;",
+                "> Holiness adorns Your house,",
+                "> Lord, for all time."
+            ]
+        }
+    ]
+}

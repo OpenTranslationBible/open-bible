@@ -1,0 +1,61 @@
+{
+    "book": "Psalm",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Blessed is the man who does not walk in the counsel of the wicked,",
+                "> Nor stand in the path of sinners,",
+                "> Nor sit in the seat of scoffers!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Yet he finds joy in the Lord's Law,",
+                "> And he reflects on His Law both day and night."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> He is like a tree planted by streams of water,",
+                "> Which bears its fruit in its season,",
+                "> And its leaf remains green;",
+                "> And in all that he undertakes, he thrives."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> The wicked are not like this,",
+                "> But they resemble chaff that the wind drives away."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Thus, the wicked will not endure in the judgment,",
+                "> Nor will sinners be found in the gathering of the righteous."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> For the Lord is aware of the path of the righteous,",
+                "> But the path of the wicked leads to ruin."
+            ]
+        }
+    ]
+}

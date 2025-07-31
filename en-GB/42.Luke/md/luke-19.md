@@ -1,0 +1,201 @@
+# Luke Chapter 19
+
+## Luke 19:1
+
+Jesus came into Jericho and continued on his way through the city.
+
+## Luke 19:2
+
+There was a man named Zacchaeus; he was a chief tax collector and was wealthy.
+
+## Luke 19:3
+
+He was trying to see who Jesus was, but he could not because of the crowd, for he was short in stature.
+
+## Luke 19:4
+
+So he ran ahead and climbed a sycamore-fig tree to see him, as Jesus was about to pass that way.
+
+## Luke 19:5
+
+When Jesus reached the spot, he looked up and said, “Zacchaeus, hurry and come down, for today I must stay at your house.”
+
+## Luke 19:6
+
+So he hurried down and received him joyfully.
+
+## Luke 19:7
+
+When the people saw this, they all began to grumble, saying, “He has gone to be the guest of a sinner.”
+
+## Luke 19:8
+
+But Zacchaeus stood and said to the Lord, “Look, Lord, I give half of my possessions to the poor, and if I have defrauded anyone of anything, I will repay fourfold.”
+
+## Luke 19:9
+
+Jesus responded, “Today, salvation has come to this house, for he also is a son of Abraham.
+
+## Luke 19:10
+
+For the Son of Man came to seek and save the lost.”
+
+---
+
+## Luke 19:11
+
+As they were listening to this, he went on to tell them a parable, because he was near Jerusalem and they thought the kingdom of God was going to appear immediately.
+
+## Luke 19:12
+
+He said, “A man of noble birth went to a distant country to receive for himself a kingdom and then return.
+
+## Luke 19:13
+
+He called ten of his servants and gave them ten minas, and said, ‘Do business with this until I come back.’
+
+## Luke 19:14
+
+But his subjects hated him and sent a delegation after him, saying, ‘We do not want this man to be our king.’
+
+## Luke 19:15
+
+He was made king, however, and returned home. Then he summoned the servants to whom he had given the money, to find out what they had gained by trading.
+
+## Luke 19:16
+
+The first came and said, ‘Master, your mina has earned ten more.’
+
+## Luke 19:17
+
+He replied, ‘Well done, good servant! Because you have been faithful in a very small matter, take charge of ten cities.’
+
+## Luke 19:18
+
+The second came and said, ‘Your mina, master, has earned five more.’
+
+## Luke 19:19
+
+And he said, ‘You take charge of five cities.’
+
+## Luke 19:20
+
+Then another came and said, ‘Master, here is your mina; I kept it laid away in a cloth,
+
+## Luke 19:21
+
+for I was afraid of you, because you are a hard man. You take out what you did not put in and reap what you did not sow.’
+
+## Luke 19:22
+
+His master answered, ‘I will judge you by your own words, you wicked servant! You knew, did you, that I am a hard man, taking out what I did not put in and reaping what I did not sow?
+
+## Luke 19:23
+
+Why then did you not put my money on deposit, so that when I returned, I could have collected it with interest?’
+
+## Luke 19:24
+
+Then he instructed those standing by, ‘Take his mina away from him and give it to the one who has ten minas.’
+
+## Luke 19:25
+
+They said to him, ‘Master, he already has ten minas.’
+
+## Luke 19:26
+
+‘I tell you, to everyone who has, more will be given, but from the one who does not have, even what they have will be taken away.
+
+## Luke 19:27
+
+But those enemies of mine who did not want me to be king over them—bring them here and slay them in front of me.’”
+
+---
+
+## Luke 19:28
+
+After saying this, Jesus went on ahead, going up to Jerusalem.
+
+## Luke 19:29
+
+As he approached Bethphage and Bethany, near the Mount of Olives, he sent two of his disciples,
+
+## Luke 19:30
+
+saying, “Go to the village ahead of you, and as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here.
+
+## Luke 19:31
+
+If anyone asks you, ‘Why are you untying it?’ respond, ‘The Lord needs it.’”
+
+## Luke 19:32
+
+Those who were sent went and found it just as he had described to them.
+
+## Luke 19:33
+
+As they were untying the colt, the owners questioned them, “Why are you untying the colt?”
+
+## Luke 19:34
+
+They answered, “It is needed by the Lord.”
+
+## Luke 19:35
+
+They brought the colt to Jesus, placed their cloaks on it, and set Jesus on it.
+
+## Luke 19:36
+
+As he proceeded, people spread their cloaks on the road.
+
+## Luke 19:37
+
+When he came near the place where the road goes down the Mount of Olives, the whole crowd of disciples began to praise God joyfully in loud voices for all the miracles they had seen,
+
+## Luke 19:38
+
+they proclaimed, “Blessed is the King who comes in the name of the Lord! Peace in heaven and glory in the highest heaven!”
+
+## Luke 19:39
+
+Some of the Pharisees in the crowd said to Jesus, “Teacher, instruct your disciples to be silent!”
+
+## Luke 19:40
+
+He replied, “I tell you, if they keep quiet, the stones will cry out.”
+
+---
+
+## Luke 19:41
+
+As he drew near to Jerusalem and saw the city, he wept over it
+
+## Luke 19:42
+
+and said, “If you, even you, had known on this day what would bring you peace—but now it is hidden from your eyes.
+
+## Luke 19:43
+
+The days will come upon you when your enemies will build a barricade against you and encircle you and hem you in on every side.
+
+## Luke 19:44
+
+They will bring you to the ground, you and the children within your walls. They will not leave one stone on another, because you did not recognise the time of God’s visitation to you.”
+
+---
+
+## Luke 19:45
+
+Upon entering the temple courts, Jesus began to drive out those who were selling,
+
+## Luke 19:46
+
+saying to them, “It is written, ‘My house will be a house of prayer’; but you have made it a den of robbers.”
+
+## Luke 19:47
+
+Each day he was teaching at the temple. But the chief priests, the teachers of the law, and the leaders among the people were seeking to kill him.
+
+## Luke 19:48
+
+Yet they could not find any way to do it, because all the people were hanging on his words.

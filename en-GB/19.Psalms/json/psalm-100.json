@@ -1,0 +1,48 @@
+{
+    "book": "Psalm",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "A Psalm of thanksgiving."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Shout with joy to the Lord, all the earth."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Serve the Lord with gladness;",
+                "> Approach Him with joyful singing."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Recognise that the Lord is indeed God;",
+                "> He is our Creator, and we did not create ourselves;",
+                "> We belong to Him, the flock under His care."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Enter His gates with gratitude,",
+                "> And His courts with praise.",
+                "> Offer thanks to Him, honour His name."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> For the Lord is good;",
+                "> His kindness endures forever,",
+                "> And His faithfulness continues through all generations."
+            ]
+        }
+    ]
+}

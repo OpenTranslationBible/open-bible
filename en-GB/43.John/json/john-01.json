@@ -1,0 +1,352 @@
+{
+    "book": "John",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "In the beginning was the Word, and the Word was with God, and the Word was God."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "He was with God in the beginning."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "All things came into being through him, and without him not one thing was made that has been made."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "In him was life, and that life was the light for all people."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "The light shines so brightly in the darkness, that the darkness cannot overcome it."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "A man was sent from God; his name was John."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "He came as a witness to testify about the light, so that through him all might believe."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "He himself was not the light; he came only to bear witness to the light."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "The true light that gives light to every person was coming into the world."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "He was in the world, and although the world was made through him, the world did not recognise him."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "He came to his own, but his own did not welcome him."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Yet to all who accepted him, to those who had faith in his name, he granted the privilege to become children of God—"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "children born not of natural descent, nor of human decision or a husband's desire, but born of God."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "The Word became flesh and dwelt among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "John testified concerning him. He cried out, saying, “This is the one of whom I said, ‘He who comes after me has surpassed me because he was before me.’”"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Out of his fullness we have all received grace upon grace."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "For just as the law was delivered through Moses; grace and truth were delivered through Jesus Christ."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "No one has ever seen God, but the only Son, who is himself God and is in closest relationship with the Father, has made him known."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "This was John’s testimony when the Jewish leaders sent priests and Levites from Jerusalem to ask him, “Who are you?”"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "He confessed freely and did not deny, but confessed, “I am not the Messiah.”"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "They inquired, “Then who are you? Are you Elijah?” He replied, “I am not.” “Are you the Prophet?” He answered, “No.”"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Eventually they said, “Who are you? Provide us with an answer to take back to those who sent us. What do you say about yourself?”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "John responded using the words of Isaiah the prophet, “I am the voice of one calling out in the wilderness: ‘Prepare the way for the Lord’”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Now messengers had been sent from the Pharisees to enquire of John."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "They questioned him, “Why then do you baptize if you are not the Messiah, nor Elijah, nor the Prophet?”"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "John answered, “I baptize with water, but among you stands one you do not know."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "He is the one who comes after me, whose sandals I am not worthy to untie.”"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "This happened at Bethany beyond the Jordan, where John was baptizing."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "The following day John saw Jesus coming towards him and said, “Behold, the Lamb of God, who takes away the sin of the world!"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "This is the one I referred to when I said, ‘After me comes a man who surpasses me, because he existed before me.’"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "I myself did not recognise him, but the reason I came baptizing with water was that he might be revealed to Israel.”"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Then John gave this testimony: “I observed the Spirit descending from heaven like a dove and remaining on him."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "And I myself did not recognise him, but the one who sent me to baptize with water told me, ‘The man on whom you see the Spirit descend and remain is the one who will baptize with the Holy Spirit.’"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "I have seen and I testify that this is the Son of God.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "The subsequent day, John was present again with two of his disciples."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "When he saw Jesus passing by, he said, “Behold, the Lamb of God!”"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Upon hearing this, the two disciples followed Jesus."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Turning around, Jesus saw them following and asked, “What do you seek?” They said, “Rabbi” (which means Teacher), “where are you staying?”"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "“Come,” he replied, “and you will see.” So they went and saw where he was staying, and they spent that day with him. It was about the tenth hour."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Andrew, Simon Peter’s brother, was one of the two who heard what John had said and who followed Jesus."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (which is translated as Christ)."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "He brought him to Jesus. Jesus looked at him and said, “You are Simon son of John. You will be called Cephas” (which, when translated, is Peter)."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "The next day Jesus decided to go to Galilee. Finding Philip, he said to him, “Follow me.”"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Philip, like Andrew and Peter, hailed from the town of Bethsaida."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Philip found Nathanael and informed him, “We have discovered the one Moses wrote about in the Law, and about whom the prophets also spoke—Jesus of Nazareth, the son of Joseph.”"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "“Nazareth! Can anything good come from there?” Nathanael questioned. “Come and see,” Philip replied."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "When Jesus saw Nathanael approaching, he remarked, “Here truly is an Israelite in whom there is no deceit.”"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "“How do you know me?” Nathanael asked. Jesus replied, “I could see you while you were still under the fig tree, just before Philip called you.”"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Then Nathanael proclaimed, “Rabbi, you are the Son of God; you are the King of Israel.”"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Jesus said, “You believe because I told you I saw you under the fig tree. You will witness greater things than that.”"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "He then added, “Truly, truly, I say to you, you will see heaven open, and the angels of God ascending and descending on the Son of Man.”"
+            ]
+        }
+    ]
+}
