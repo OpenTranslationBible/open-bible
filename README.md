@@ -1,38 +1,16 @@
-# This is the Open Translation Bible license
+# This is the Open Translation Bible
 
 You can [Read the version in English](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible-X1a.pdf)
 
 Or [Visit our website](https://openbible.uk)
 
-# The Licence
+Or [Read The Licence](https://github.com/OpenTranslationBible/open-bible?tab=License-1-ov-file)
 
 Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
-# Deed
+## Open Translation Bible
 
-## You are free to:
-
-Share — copy and redistribute the material in any medium or format for any purpose, even commercially.
-Adapt — remix, transform, and build upon the material for any purpose, even commercially.
-
-The licensor cannot revoke these freedoms as long as you follow the license terms.
-
-Under the following terms:
-
-## Attribution
-
-— You must give appropriate credit , provide a link to the license, and indicate if changes were made . You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-
-## ShareAlike
-
-— If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
-No additional restrictions — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
-
-## Notices:
-
-You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation .
-
-No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+The Open Translation Bible (OTB) is the world's first open source bible and was launched in July 2025. We are https://openbible.uk - The Open Translation Bible is not to be confused with other organisations or websites possessing similar sounding names. We are unaffiliated to any other organisation.
 
 ## Current Languages
 
@@ -47,10 +25,6 @@ hi-IN
 ### Persian Farsi
 
 fa-IR
-
-## Open Translation Bible
-
-The Open Translation Bible (OTB) is the world's first open source bible and was launched in July 2025. We are https://openbible.uk - The Open Translation Bible is not to be confused with other organisations or websites possessing similar sounding names. We are unaffiliated to any other organisation.
 
 We cross referenced over 1.3 million verses to ensure OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
 
