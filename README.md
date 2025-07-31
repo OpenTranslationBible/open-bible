@@ -52,7 +52,7 @@ fa-IR
 
 The Open Translation Bible (OTB) is the world's first open source bible and was launched in July 2025. We are https://openbible.uk - The Open Translation Bible is not to be confused with other organisations or websites possessing similar sounding names. We are unaffiliated to any other organisation.
 
-We cross referenced over 1.3 million verse to ensure OTB is dissimilar to all in fact only 18 of our verses are the same as _any_ other versions
+We cross referenced over 1.3 million verse to ensure OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
 
 | short_name | avg_similarity |
 | ---------- | -------------- |
