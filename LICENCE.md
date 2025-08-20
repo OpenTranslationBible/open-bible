@@ -1,4 +1,4 @@
-# This is the open bible license
+# This is the Open Translation Bible (OTB) license
 
 Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
