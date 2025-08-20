@@ -1,6 +1,6 @@
 # This is the Open Translation Bible
 
-You can [Read the version in English](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible-X1a.pdf)
+You can [Read the version in English](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.en-GB.pdf) or [Read the version in Hindi](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.hi-IN.pdf)
 
 Or [Visit our website](https://openbible.uk)
 
