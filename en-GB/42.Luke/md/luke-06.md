@@ -148,7 +148,7 @@ Give to everyone who asks you, and if anyone takes what belongs to you, do not i
 
 ## Luke 6:31
 
-Do to each other as you would have it done to you.
+Do to others as you would want them to do to you.
 
 ---
 

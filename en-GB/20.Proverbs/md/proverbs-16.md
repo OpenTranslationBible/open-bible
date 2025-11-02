@@ -10,7 +10,7 @@ All a person’s ways are pure in their own eyes, but the Lord weighs the motive
 
 ## Proverbs 16:3
 
-Commit your actions to the Lord, and your plans will be established.
+Commit your actions to the Lord, and He will establish your plans.
 
 ## Proverbs 16:4
 

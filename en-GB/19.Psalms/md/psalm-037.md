@@ -21,7 +21,7 @@
 
 ## Psalm 37:4
 
-> Find your joy in the Lord;  
+> Delight yourself in the Lord;  
 > And He will fulfil the desires of your heart.
 
 ---

@@ -123,11 +123,11 @@ All things have been entrusted to me by my Father. No one knows the Son except t
 
 ## Matthew 11:28
 
-“Come to me, all you who are tired and carrying heavy burdens, and I will give you rest.
+“Come to me, all who are weary and carry heavy burdens, and I will give you rest.
 
 ## Matthew 11:29
 
-Accept my guidance and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.
+Take up my yoke and learn from me, for I am gentle and humble in heart, and you will find rest for your souls.
 
 ## Matthew 11:30
 

@@ -45,13 +45,13 @@ Do not imitate them: your Father is aware of your needs even before you ask Him.
 
 ## Matthew 6:10
 
-> Your kingdom come,
-> Let Your will be done,
+> Let Your kingdom come,
+> Your will be done,
 > on earth as it is in heaven.
 
 ## Matthew 6:11
 
-> Grant us this day our daily bread.
+> Give us this day our daily bread.
 
 ## Matthew 6:12
 

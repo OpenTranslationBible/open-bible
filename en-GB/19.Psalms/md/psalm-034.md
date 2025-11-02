@@ -97,7 +97,7 @@
 
 ## Psalm 34:18
 
-> The Lord is near to those who are brokenhearted  
+> The Lord is near to those who are broken-hearted  
 > And saves those who are crushed in spirit.
 
 ---

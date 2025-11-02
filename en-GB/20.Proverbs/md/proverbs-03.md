@@ -18,11 +18,11 @@ Thus you will find favour and a good reputation in the sight of God and man.
 
 ## Proverbs 3:5
 
-Place your trust fully in the Lord and avoid depending solely on your own understanding.
+Trust fully in the Lord, with all your heart and lean not on your own understanding.
 
 ## Proverbs 3:6
 
-In all your ways, acknowledge Him, and He will make your pathways straight.
+In all your ways acknowledge Him, and He shall make your paths straight.
 
 ## Proverbs 3:7
 
@@ -34,7 +34,7 @@ This will bring well-being to your body and refreshment to your bones.
 
 ## Proverbs 3:9
 
-Give honour to the Lord with your wealth, and with the firstfruits of all your produce;
+Give honour to the Lord with your wealth, and with the first-fruits of all your produce;
 
 ## Proverbs 3:10
 

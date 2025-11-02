@@ -42,11 +42,11 @@ For thus says the Lord: “When seventy years are completed for Babylon, I will 
 
 ## Jeremiah 29:11
 
-For I know the plans I have for you,” declares the Lord, “plans for your welfare and not for calamity, to give you a future and a hope.
+For I know the plans I have for you,” declares the Lord, “plans to prosper you and keep you from harm, to give you a future and a hope.
 
 ## Jeremiah 29:12
 
-Then you will call upon Me, approach me and pray to Me, and I will listen to you.
+Then you will call upon Me, come to me and pray, and I will listen to you.
 
 ## Jeremiah 29:13
 

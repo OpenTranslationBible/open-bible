@@ -40,7 +40,7 @@ and He began to instruct them, saying:
 
 ## Matthew 5:9
 
-> Blessed are those who make peace,
+> Blessed are those who are peacemakers,
 > for they shall be called the children of God.
 
 ## Matthew 5:10
@@ -64,7 +64,7 @@ You are the salt of the earth. But if the salt loses its flavour, how can it be 
 
 ## Matthew 5:14
 
-You are the light of the whole world. A city situated on a hill cannot be hidden.
+You are the light of the whole world. A city stood on a hill cannot be hidden.
 
 ## Matthew 5:15
 

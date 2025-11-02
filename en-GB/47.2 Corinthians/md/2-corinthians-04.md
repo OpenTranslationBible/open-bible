@@ -62,12 +62,12 @@ For all things are for your benefit, so that grace, having spread to more and mo
 
 ## 2 Corinthians 4:16
 
-Therefore we do not lose heart, but though our outer self is wasting away, yet our inner self is being renewed day by day.
+Therefore we do not lose heart, for though our outer self is wasting away, so our inner self is renewed day by day.
 
 ## 2 Corinthians 4:17
 
-For our momentary, light affliction is preparing for us an eternal weight of glory beyond all comparison,
+For our momentary light affliction, is producing for us an eternal weight of glory beyond comparison,
 
 ## 2 Corinthians 4:18
 
-While we focus not on the things which are seen, but on the things which are unseen; for the things which are seen are temporary, but the things which are unseen are eternal.
+While we look not on the things which are seen, but on the things which are unseen; for the things which are seen are temporary, but the things which are unseen are eternal.

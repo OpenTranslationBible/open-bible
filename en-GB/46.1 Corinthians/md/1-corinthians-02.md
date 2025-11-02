@@ -36,9 +36,9 @@ This wisdom was not understood by any of the rulers of this age; for if they had
 
 But just as it is written:
 
-> “Things which the eye has not seen and the ear has not heard,  
-> And which have not been conceived in the human heart,  
-> Are all that God has prepared for those who love Him.”
+> “The eye has not seen, the ear has not heard,  
+> and the mind has not conceived,  
+> all that God has prepared for those who love Him.”
 
 ## 1 Corinthians 2:10
 

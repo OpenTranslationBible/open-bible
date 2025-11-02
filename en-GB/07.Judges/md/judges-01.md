@@ -50,11 +50,11 @@ From there, they moved against the inhabitants of Debir (formerly called Kiriath
 
 ## Judges 1:12
 
-Caleb declared, “To the man who attacks and captures Kiriath Sepher, I will give my daughter Aksah as a wife.”
+Caleb declared, “To the man who attacks and captures Kiriath Sepher, I will give my daughter Achsah as a wife.”
 
 ## Judges 1:13
 
-Othniel, son of Kenaz, Caleb’s younger brother, captured it; so Caleb gave him his daughter Aksah in marriage.
+Othniel, son of Kenaz, Caleb’s younger brother, captured it; so Caleb gave him his daughter Achsah in marriage.
 
 ## Judges 1:14
 

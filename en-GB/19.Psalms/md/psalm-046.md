@@ -5,7 +5,7 @@
 ## Psalm 46:1
 
 > God is our refuge and strength,  
-> A very ready help in trouble.
+> A very present help in times of trouble.
 
 ## Psalm 46:2
 

@@ -2,7 +2,7 @@
 
 ## 2 Corinthians 5:1
 
-For we understand that if our earthly dwelling, which is our home, is dismantled, we have a building from God, a home not crafted by human hands, eternal in the heavens.
+For we know that if our earthly dwelling, which is our home, is dismantled, we have a building from God, a home not crafted by human hands, eternal in heaven.
 
 ## 2 Corinthians 5:2
 

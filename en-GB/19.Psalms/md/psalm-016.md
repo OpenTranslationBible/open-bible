@@ -63,4 +63,4 @@
 
 > You will show me the path of life;  
 > In Your presence is the fullness of joy;  
-> At Your right hand are pleasures forevermore.
+> At Your right hand are pleasures for evermore.
