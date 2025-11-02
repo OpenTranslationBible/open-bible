@@ -15,7 +15,7 @@ Praise be to the God and Father of our Lord Jesus Christ, the merciful Father an
 
 ## 2 Corinthians 1:4
 
-Who consoles us in all our troubles, enabling us to console those in any trouble with the comfort we ourselves receive from God.
+Who comforts us in all our troubles, enabling us to comfort those in trouble with the comfort we ourselves receive from God.
 
 ## 2 Corinthians 1:5
 

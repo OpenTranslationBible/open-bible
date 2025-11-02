@@ -51,8 +51,8 @@ Hear now what the Lord is saying:
 
 > He has shown you, mortal one, what is good;  
 > And what does the Lord ask of you  
-> But to act justly, to love mercy,  
-> And to walk humbly with your God?
+> Only to act justly, to love mercy,  
+> And to walk humbly with your God.
 
 ## Micah 6:9
 

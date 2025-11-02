@@ -18,15 +18,15 @@ Love is patient and kind; it is not envious, it does not boast, it is not proud.
 
 ## 1 Corinthians 13:5
 
-It does not behave rudely, it does not seek its own advantage; it is not easily angered, it keeps no record of wrongs,
+It is not rude, it is not self-seeking; it is not easily angered, it keeps no record of wrongs,
 
 ## 1 Corinthians 13:6
 
-It does not delight in wrongdoing, but rejoices with the truth;
+It does not delight in evil, but rejoices with the truth;
 
 ## 1 Corinthians 13:7
 
-It consistently protects, trusts, hopes, and perseveres.
+It always protects, always trusts, always hopes, and always perseveres.
 
 ## 1 Corinthians 13:8
 

@@ -4,12 +4,12 @@
 
 ## Psalm 121:1
 
-> I will raise my eyes to the mountains;  
+> I lift my eyes up to the mountains;  
 > From where will my help come?
 
 ## Psalm 121:2
 
-> My assistance is from the Lord,  
+> My help comes from the Lord,  
 > Creator of heaven and earth.
 
 ---

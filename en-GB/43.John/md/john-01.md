@@ -108,11 +108,11 @@ Now messengers had been sent from the Pharisees to enquire of John.
 
 ## John 1:25
 
-They questioned him, “Why then do you baptize if you are not the Messiah, nor Elijah, nor the Prophet?”
+They questioned him, “Why then do you baptise if you are not the Messiah, nor Elijah, nor the Prophet?”
 
 ## John 1:26
 
-John answered, “I baptize with water, but among you stands one you do not know.
+John answered, “I baptise with water, but among you stands one you do not know.
 
 ## John 1:27
 
@@ -120,7 +120,7 @@ He is the one who comes after me, whose sandals I am not worthy to untie.”
 
 ## John 1:28
 
-This happened at Bethany beyond the Jordan, where John was baptizing.
+This happened at Bethany beyond the Jordan, where John was baptising.
 
 ---
 
@@ -134,7 +134,7 @@ This is the one I referred to when I said, ‘After me comes a man who surpasses
 
 ## John 1:31
 
-I myself did not recognise him, but the reason I came baptizing with water was that he might be revealed to Israel.”
+I myself did not recognise him, but the reason I came baptising with water was that he might be revealed to Israel.”
 
 ## John 1:32
 
@@ -142,7 +142,7 @@ Then John gave this testimony: “I observed the Spirit descending from heaven l
 
 ## John 1:33
 
-And I myself did not recognise him, but the one who sent me to baptize with water told me, ‘The man on whom you see the Spirit descend and remain is the one who will baptize with the Holy Spirit.’
+And I myself did not recognise him, but the one who sent me to baptise with water told me, ‘The man on whom you see the Spirit descend and remain is the one who will baptise with the Holy Spirit.’
 
 ## John 1:34
 

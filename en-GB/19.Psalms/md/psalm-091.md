@@ -7,7 +7,7 @@
 
 ## Psalm 91:2
 
-> I will declare to the Lord, “You are my refuge and my fortress,  
+> I will declare of the Lord, “You are my refuge and my fortress,  
 > My God, in whom I place my trust!”
 
 ---

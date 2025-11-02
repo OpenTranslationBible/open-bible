@@ -82,7 +82,7 @@ Then Jesus approached and spoke to them, saying, “All authority in heaven and 
 
 ## Matthew 28:19
 
-Therefore, go and make disciples of all nations, baptizing them in the name of the Father, the Son, and the Holy Spirit,
+Therefore, go and make disciples of all nations, baptising them in the name of the Father, the Son, and the Holy Spirit,
 
 ## Matthew 28:20
 

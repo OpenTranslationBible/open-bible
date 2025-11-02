@@ -8,7 +8,7 @@
 
 ## Psalm 1:2
 
-> Yet he finds joy in the Lord's Law,  
+> Rather, he finds joy in the Lord's Law,  
 > And he reflects on His Law both day and night.
 
 ## Psalm 1:3

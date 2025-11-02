@@ -62,7 +62,7 @@ As I began to speak, the Holy Spirit came upon them just as He had come upon us 
 
 ## Acts 11:16
 
-Then I remembered what the Lord had said: ‘John used water for baptism, but you will be baptized with the Holy Spirit.’
+Then I remembered what the Lord had said: ‘John used water for baptism, but you will be baptised with the Holy Spirit.’
 
 ## Acts 11:17
 
