@@ -1,10 +1,57 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 125,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-125.md"
+                "En sang ved festreisene."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> De som stoler på Herren",
+                "> Er som Sion-fjellet, som ikke kan rokkes, men blir stående for alltid."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Likesom fjellene omgir Jerusalem,",
+                "> Slik omgir Herren sitt folk",
+                "> Nå og for alltid."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For ugudelighetens septer skal ikke hvile over de rettferdiges land,",
+                "> Slik at de rettferdige ikke rekker ut hendene for å gjøre urett."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vis godhet, Herre, mot dem som er gode,",
+                "> Og mot dem som er oppriktige i hjertet."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Men for dem som vender seg til sine krokete veier,",
+                "> Vil Herren føre dem bort med dem som praktiserer urettferdighet.",
+                "> Måtte fred være over Israel."
             ]
         }
     ]

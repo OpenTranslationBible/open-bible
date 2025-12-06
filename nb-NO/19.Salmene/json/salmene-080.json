@@ -1,10 +1,179 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 80,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-080.md"
+                "For sangmesteren; etter \"Liljer\", et vitnesbyrd. En salme av Asaf."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hør, Israels hyrde,",
+                "> Du som leder Josef som en flokk;",
+                "> Du som troner over kjerubene, la ditt lys skinne!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Vekk din kraft foran Efraim, Benjamin og Manasse,",
+                "> Og kom til vår redning!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Gud, før oss tilbake",
+                "> Og la ditt ansikt lyse over oss, så vi kan bli frelst."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Herre, hærskarenes Gud,",
+                "> Hvor lenge vil du være misfornøyd med ditt folks bønner?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Du har gitt dem tårenes brød,",
+                "> Og du har latt dem drikke rikelig med tårer."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Du gjør oss til en kilde til strid for våre naboer,",
+                "> Og våre fiender ler seg imellom."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Hærskarenes Gud, før oss tilbake",
+                "> Og la ditt ansikt lyse over oss, så vi kan bli frelst."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Du førte en vintre ut av Egypt;",
+                "> Du fortrengte nasjonene og plantet den."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Du forberedte jorden for den,",
+                "> Og den slo dype røtter og fylte landet."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Dens skygge dekket fjellene,",
+                "> Og dens grener nådde de mektige sedertrærne."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Den strakte sine grener til havet",
+                "> Og sine skudd til Eufrat-elven."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Hvorfor har du brutt ned dens murer,",
+                "> Slik at alle som går forbi plukker dens frukt?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Et villsvin fra skogen herjer den,",
+                "> Og alt som beveger seg på marken spiser av den."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Hærskarenes Gud, vennligst vend tilbake;",
+                "> Se ned fra himmelen og se, og ta vare på denne vintre,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Roten din høyre hånd har plantet,",
+                "> Og sønnen du har oppdratt for deg selv."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Den er fortært av ild, den er hugget ned;",
+                "> De omkommer ved din tilstedeværelses irettesettelse."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> La din hånd hvile på mannen ved din høyre hånd,",
+                "> På menneskesønnen du har gjort sterk for deg selv."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Da vil vi ikke vende oss bort fra deg;",
+                "> Gi oss liv, og vi vil påkalle ditt navn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Herre, hærskarenes Gud, før oss tilbake;",
+                "> La ditt ansikt lyse over oss, så vi kan bli frelst."
             ]
         }
     ]

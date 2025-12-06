@@ -1,10 +1,60 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 1,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-001.md"
+                "> Salig er den mann som ikke vandrer i ugudeliges råd,",
+                "> Eller står på synders vei,",
+                "> Eller sitter i spotteres sete!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Snarere finner han glede i Herrens lov,",
+                "> Og han grunner på Hans lov både dag og natt."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han er som et tre plantet ved bekker av vann,",
+                "> Som bærer sin frukt i sin tid,",
+                "> Og dets blad forblir grønt;",
+                "> Og i alt han foretar seg, trives han."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> De ugudelige er ikke slik,",
+                "> Men de ligner agner som vinden driver bort."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Derfor skal ikke de ugudelige bestå i dommen,",
+                "> Eller syndere finnes i de rettferdiges forsamling."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> For Herren kjenner de rettferdiges vei,",
+                "> Men de ugudeliges vei fører til undergang."
             ]
         }
     ]

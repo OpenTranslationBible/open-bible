@@ -1,10 +1,54 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 93,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-093.md"
+                "> Herren regjerer, kledd i majestet;",
+                "> Herren har kledd seg i styrke.",
+                "> Sannelig, verden er fast grunnlagt; den skal ikke rokkes."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Din trone er grunnlagt fra eldgamle tider;",
+                "> Du er evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Flommene har steget, Herre,",
+                "> Flommene har løftet sin røst,",
+                "> Flommene løfter sine brølende bølger."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Over lyden av mange vann,",
+                "> Over de mektige bølgene i havet,",
+                "> Er Herren i det høye mektig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Dine forskrifter er grundig bekreftet;",
+                "> Hellighet pryder ditt hus,",
+                "> Herre, for alltid."
             ]
         }
     ]

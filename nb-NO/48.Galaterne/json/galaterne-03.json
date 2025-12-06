@@ -1,10 +1,179 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Galaterne Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/48.Galatians\/md\/galatians-3.md"
+                "Dere uforstandige galatere! Hvem har kastet en trolldom på dere? For øynene deres ble Jesus Kristus levende fremstilt som korsfestet."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Jeg vil bare spørre dere om dette: Fikk dere Ånden ved lovgjerninger, eller ved å høre i tro?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Er dere så uforstandige? Etter å ha begynt ved Ånden, søker dere nå fullendelse ved kjødet?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Har dere gjennomgått så mye for ingenting—hvis det da virkelig var for ingenting?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Han som gir dere Ånden og gjør under blant dere, gjør han det ved lovgjerninger, eller ved å høre i tro?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Slik som Abraham trodde Gud, og det ble regnet ham til rettferdighet."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Derfor skal dere forstå at de som er av tro, de er Abrahams barn."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Skriften forutså at Gud ville rettferdiggjøre hedningene ved tro, og forkynte evangeliet på forhånd til Abraham: «I deg skal alle folkeslag velsignes.»"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Så blir da de som har tro, velsignet sammen med den troende Abraham."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "For alle som holder seg til lovgjerninger, er under forbannelse, for det står skrevet: «Forbannet er hver den som ikke blir ved alt det som er skrevet i lovens bok, så han gjør det.»"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Det er klart at ingen blir rettferdiggjort for Gud ved loven, for «den rettferdige skal leve ved tro.»"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Loven er ikke av tro; men «den som gjør det, skal leve ved det.»"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kristus kjøpte oss fri fra lovens forbannelse ved å bli en forbannelse for oss, for det står skrevet: «Forbannet er hver den som henger på et tre.»"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Han kjøpte oss fri for at Abrahams velsignelse skulle komme til hedningene i Kristus Jesus, for at vi skulle få Åndens løfte ved tro."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Brødre og søstre, jeg taler på menneskelig vis: Selv et menneskelig testamente, når det er stadfestet, kan ingen sette til side eller legge noe til."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Løftene ble gitt til Abraham og til hans ætt. Det står ikke «og til ættene,» som om det gjaldt mange, men som om det gjaldt én: «og til din ætt,» som er Kristus."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Dette sier jeg: Loven, som kom 430 år senere, kan ikke oppheve en pakt som tidligere var stadfestet av Gud, slik at løftet skulle bli gjort til intet."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "For hvis arven er av loven, er den ikke lenger av løftet; men Gud har gitt den til Abraham ved et løfte."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Hvorfor ble da loven gitt? Den ble lagt til for overtredelsenes skyld, inntil ætten skulle komme som løftet gjaldt, og den ble gitt ved engler ved en mellommanns hånd."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "En mellommann er ikke for én, men Gud er én."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Er da loven imot Guds løfter? Slett ikke! For hvis det var gitt en lov som kunne gi liv, da ville rettferdigheten virkelig være av loven."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Men Skriften har innesluttet alt under synd, for at løftet ved troen på Jesus Kristus skulle bli gitt til dem som tror."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Før troen kom, ble vi holdt i varetekt under loven, innesluttet til den tro som skulle åpenbares."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Slik ble loven vår vokter inntil Kristus kom, for at vi skulle bli rettferdiggjort ved tro."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Men nå som troen er kommet, er vi ikke lenger under en vokter."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "For dere er alle Guds barn ved troen på Jesus Kristus."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "For dere alle som ble døpt til Kristus, har ikledd dere Kristus."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Her er ikke jøde eller greker, her er ikke slave eller fri, her er ikke mann eller kvinne, for dere er alle én i Kristus Jesus."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Og hvis dere er i Kristus, da er dere Abrahams ætt, arvinger etter løftet."
             ]
         }
     ]

@@ -1,10 +1,120 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 65,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-065.md"
+                "Til sangmesteren. En salme av David. En sang."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Det skal være stillhet for deg, og lovprisning i Sion, Gud,",
+                "> Og løftet skal bli oppfylt for deg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Du som hører bønn,",
+                "> Til deg kommer alle mennesker."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Misgjerninger råder over meg;",
+                "> Når det gjelder våre overtredelser, tilgir du dem."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Salig er den du velger og lar komme nær til deg;",
+                "> Han skal bo i dine forgårder.",
+                "> Vi skal mettes med det gode i ditt hus,",
+                "> Ditt hellige tempel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ved underfulle gjerninger svarer du oss med rettferdighet,",
+                "> Gud for vår frelse,",
+                "> Du som er håpet for alle jordens ender og de fjerne hav;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Som grunnfester fjellene med sin styrke,",
+                "> Som er omringet med makt;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Som stiller havets brusen,",
+                "> Bølgenes brusen,",
+                "> Og folkenes uro."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> De som bor ved jordens ender, frykter for dine tegn;",
+                "> Du får morgenens og kveldens utganger til å juble."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Du besøker jorden og gjør den overstrømmende;",
+                "> Du beriker den rikelig;",
+                "> Guds bekk er full av vann;",
+                "> Du forbereder deres korn, for slik forbereder du jorden."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Du vanner dens furer rikelig,",
+                "> Du jevner dens rygger,",
+                "> Du mykner den med regnskurer,",
+                "> Du velsigner dens vekst."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Du har kronet året med din godhet,",
+                "> Og dine stier flyter over av overflod."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Ødemarkens beitemarker flyter over,",
+                "> Og høydene kler seg med glede."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Engene er smykket med flokker,",
+                "> Og dalene er dekket med korn;",
+                "> De roper av glede, ja, de synger."
             ]
         }
     ]

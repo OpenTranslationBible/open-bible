@@ -1,10 +1,55 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 127,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-127.md"
+                "En sang ved festreisene. Av Salomo."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hvis ikke Herren bygger huset,",
+                "> Arbeider bygningsmennene forgjeves;",
+                "> Hvis ikke Herren vokter byen,",
+                "> Våker vekteren forgjeves."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Det er forgjeves for dere å stå opp tidlig,",
+                "> Å sitte oppe sent,",
+                "> Å spise brødet av møysommelige anstrengelser;",
+                "> For Han gir sine elskede søvn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Se, barn er en gave fra Herren,",
+                "> Livets frukt er en nådig belønning."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Som piler i en krigers hånd,",
+                "> Slik er barn født i ens ungdom."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Salig er den mann som fyller sitt kogger;",
+                "> De skal ikke bli til skamme",
+                "> Når de møter sine fiender i porten."
             ]
         }
     ]

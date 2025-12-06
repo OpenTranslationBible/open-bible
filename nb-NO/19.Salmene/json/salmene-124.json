@@ -1,10 +1,70 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 124,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-124.md"
+                "En sang ved festreisene. Av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> «Hadde det ikke vært Herren som var med oss,»",
+                "> La Israel nå si,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> «Hvis Herren ikke hadde vært med oss",
+                "> Da mennesker reiste seg mot oss,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Da ville de ha slukt oss helt,",
+                "> Da deres vrede brant heftig mot oss;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Da ville vannet ha flommet over oss,",
+                "> Strømmen ville ha feid over vår sjel;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> og de rasende vannene ville ha feid over vår sjel.»"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Lovet være Herren,",
+                "> Som ikke har latt oss bli revet i stykker av deres tenner."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Vår sjel har unnsluppet som en fugl fra fuglefangerens snare;",
+                "> Snaren er brutt, og vi har unnsluppet."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Vår hjelp er i Herrens navn,",
+                "> Som skapte himmel og jord."
             ]
         }
     ]

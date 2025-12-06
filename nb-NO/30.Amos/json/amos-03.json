@@ -1,10 +1,120 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Amos Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/30.Amos\/md\/amos-3.md"
+                "Hør dette ordet som Herren har talt mot dere, Israels folk, mot hele familien som Han førte opp fra landet Egypt:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> \"Dere alene har jeg anerkjent blant alle jordens familier;",
+                "> derfor vil jeg straffe dere for alle deres misgjerninger.\""
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Kan to vandre sammen uten at de har avtalt å møtes?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Brøler en løve i skogen når den ikke har bytte?",
+                "> Knurrer en ung løve fra sitt hi uten at den har fanget noe?"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Faller en fugl i en snare på bakken når det ikke er noe åte for den?",
+                "> Springer en felle opp fra bakken når den ikke har fanget noe?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Hvis en trompet lyder i en by, skjelver ikke folket?",
+                "> Hvis en ulykke rammer en by, har ikke Herren forårsaket det?"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Sannelig, Herren Gud gjør ingenting",
+                "> uten å åpenbare sin hemmelige plan",
+                "> for sine tjenere profetene."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Løven har brølt—hvem vil ikke frykte?",
+                "> Herren Gud har talt—hvem kan annet enn å profetere?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Forkynn til festningene i Asdod og til festningene i landet Egypt:",
+                "> \"Samle dere på fjellene i Samaria",
+                "> og se den store uroen i henne",
+                "> og undertrykkelsen i hennes midte.\""
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> \"De vet ikke hvordan de skal gjøre det som er rett,\" erklærer Herren,",
+                "> \"de som lagrer opp vold og ødeleggelse i sine festninger.\""
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Derfor, dette er hva Den suverene Herren sier:",
+                "> \"En fiende skal omringe landet",
+                "> og rive ned deres forsvar,",
+                "> og deres festninger skal bli plyndret.\""
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Dette er hva Herren sier:",
+                "> \"Som en hyrde redder fra løvens munn",
+                "> to ben eller et stykke av et øre,",
+                "> slik skal Israels folk i Samaria bli reddet,",
+                "> med bare hjørnet av en seng og et stykke stoff fra en sofa.\""
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> \"Lytt og bær vitnesbyrd mot Jakobs hus,\"",
+                "> sier Herren Gud, hærskarenes Gud."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> \"For den dagen jeg straffer Israel for hennes overtredelser,",
+                "> vil jeg også ødelegge Betels altre;",
+                "> alterets horn skal kappes av",
+                "> og falle til jorden."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Jeg vil rive ned vinterhuset sammen med sommerhuset;",
+                "> husene prydet med elfenben skal gå til grunne,",
+                "> og de store husene skal ta slutt,\"",
+                "erklærer Herren."
             ]
         }
     ]

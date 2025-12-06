@@ -1,10 +1,192 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 94,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-094.md"
+                "> Herre, du Gud som bringer rettferdighet,",
+                "> Gud som bringer rettferdighet, åpenbar deg!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Reis deg, du jordens dommer,",
+                "> Gi de stolte deres rett."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hvor lenge, Herre, skal de onde—",
+                "> Hvor lenge skal de onde ha fremgang?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> De øser ut ord, de taler med arroganse;",
+                "> Alle som gjør urett, skryter."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> De undertrykker ditt folk, Herre,",
+                "> Og skader din arv."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> De tar livet av enken og den fremmede,",
+                "> Og dreper de farløse."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> De har sagt, “Herren ser ikke,",
+                "> Jakobs Gud legger ikke merke til det.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Legg merke til dette, dere uforstandige blant folket;",
+                "> Og når vil dere forstå, dere dårer?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Han som skapte øret, hører han ikke?",
+                "> Han som formet øyet, ser han ikke?"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Han som underviser nasjonene, vil han ikke rette,",
+                "> Han som gir menneskene kunnskap?"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Herren kjenner menneskenes tanker,",
+                "> At de bare er et flyktig pust."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Velsignet er den du retter, Herre,",
+                "> Og som du underviser fra din lov,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> For at du kan gi ham lindring fra trengselens dager,",
+                "> Inntil en grav er forberedt for de onde."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> For Herren vil ikke forlate sitt folk,",
+                "> Og han vil ikke oppgi sin arv."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> For rettferdighet vil igjen være rettferdig,",
+                "> Og alle de oppriktige av hjertet vil forfølge den."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Hvem vil reise seg for meg mot de onde?",
+                "> Hvem vil stå med meg mot dem som gjør urett?"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Hvis ikke Herren hadde vært min støtte,",
+                "> Ville min sjel snart ha bodd i stillhet."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Hvis jeg skulle si, “Min fot har sklidd,”",
+                "> Din barmhjertighet, Herre, vil opprettholde meg."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Når mine engstelige tanker øker i meg,",
+                "> Din trøst bringer glede til min sjel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Kan en ødeleggelsens trone være forbundet med deg,",
+                "> En som planlegger ugagn ved dekret?"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> De samler seg mot den rettferdiges liv",
+                "> Og dømmer den uskyldige til døden."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Men Herren har vært min tilflukt,",
+                "> Og min Gud klippen av min beskyttelse."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Han har gjengjeldt deres urett mot dem,",
+                "> Og han vil føre dem til undergang i deres ondskap;",
+                "> Herren vår Gud vil føre dem til undergang."
             ]
         }
     ]

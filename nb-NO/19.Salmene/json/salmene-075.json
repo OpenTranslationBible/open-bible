@@ -1,10 +1,98 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 75,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-075.md"
+                "Til sangmesteren; etter melodien \"Ødelegg ikke\". En salme av Asaf, en sang."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Vi takker deg, Gud, vi takker,",
+                "> For ditt navn er nær;",
+                "> Mennesker forteller om dine underfulle gjerninger."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> \"Når jeg velger det rette øyeblikket,",
+                "> Er det jeg som dømmer med rettferdighet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Jorden og alle som bor på den skjelver;",
+                "> Det er jeg som har fastsatt dens pilarer.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Jeg sa til de skrytende: 'Avstå fra å skryte,'",
+                "> Og til de ugudelige: 'Løft ikke ditt horn;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Løft ikke ditt horn høyt,",
+                "> Snakk ikke med arrogant stolthet.'\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> For opphøyelse kommer ikke fra øst, heller ikke fra vest,",
+                "> Heller ikke fra ørkenen;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Men Gud er dommeren;",
+                "> Han feller den ene og opphøyer den andre."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> For en kalk er i Herrens hånd, og vinen skummer;",
+                "> Den er godt blandet, og han skjenker av den;",
+                "> Sannelig må alle de ugudelige på jorden tømme og drikke dens bunnfall."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Likevel vil jeg forkynne det for alltid;",
+                "> Jeg vil synge lovsanger til Jakobs Gud."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Og han vil kutte av alle de ugudeliges horn,",
+                "> Men de rettferdiges horn vil bli opphøyet."
             ]
         }
     ]

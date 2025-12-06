@@ -1,10 +1,66 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 87,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-087.md"
+                "En salme av Korahs sønner. En sang."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hans grunnvoll er lagt på de hellige fjell."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Herren elsker Sions porter",
+                "> Mer enn alle Jakobs boliger."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Herlige ting er sagt om deg,",
+                "> Guds by.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> “Jeg vil nevne Rahab og Babylon blant dem som kjenner Meg;",
+                "> Se, Filistia og Tyrus med Kusj:",
+                "> ‘Denne ble født der.’”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Men om Sion skal det sies: “Denne og den ble født i henne”;",
+                "> Og Den Høyeste selv skal oppholde henne."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Herren vil føre opp når Han teller opp folkene:",
+                "> “Denne ble født der.”",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Da vil de som synger, sammen med de som spiller fløyter, proklamere,",
+                "> “Alle mine kilder til glede er i deg.”"
             ]
         }
     ]

@@ -1,10 +1,229 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 102,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-102.md"
+                "En bønn av den plaget når han er svak og utøser sin klage for Herren."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hør min bønn, Herre!",
+                "> Og la mitt rop om hjelp komme til deg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Skjul ikke ditt ansikt for meg på min nødens dag;",
+                "> Bøy ditt øre til meg;",
+                "> På den dagen jeg roper, svar meg raskt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For mine dager har forsvunnet som røyk,",
+                "> Og mine ben føles svidd som i en ildsted."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Mitt hjerte er slått og visnet som gress,",
+                "> Ja, jeg glemmer å spise mitt brød."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> På grunn av min intense stønning,",
+                "> Henger mine ben fast ved mitt kjøtt."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg er som en pelikan i ørkenen;",
+                "> Jeg har blitt som en ugle blant ruinene."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Jeg ligger våken,",
+                "> Jeg er som en ensom fugl på et hustak."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Mine fiender har hånet meg hele dagen;",
+                "> De som håner meg bruker mitt navn som en forbannelse."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> For jeg har spist aske som om det var brød,",
+                "> Og blandet min drikk med tårer"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> På grunn av din harme og din vrede;",
+                "> For du har plukket meg opp og kastet meg bort."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Mine dager er som en forlenget skygge,",
+                "> Og jeg visner bort som gress."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Men du, Herre, varer evig,",
+                "> Og ditt navn huskes gjennom alle generasjoner."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Du vil reise deg og ha barmhjertighet med Sion;",
+                "> For det er tid til å vise henne nåde,",
+                "> For den fastsatte tid er kommet."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Sannelig, dine tjenere setter pris på hennes steiner,",
+                "> Og har medfølelse med hennes støv."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Så nasjonene vil ære Herrens navn,",
+                "> Og alle jordens konger vil se din herlighet."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> For Herren har gjenoppbygd Sion;",
+                "> Han har åpenbart sin herlighet."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Han har hørt de fattiges bønn,",
+                "> Og har ikke oversett deres bønn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Dette vil bli nedskrevet for fremtidige generasjoner,",
+                "> Så et folk som ennå ikke er skapt kan prise Herren:"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> For han så ned fra sin hellige høyde;",
+                "> Fra himmelen observerte Herren jorden,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> For å lytte til fangens stønner,",
+                "> For å frigjøre dem som er dømt til døden,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Så folk kan forkynne Herrens navn i Sion,",
+                "> Og hans pris i Jerusalem,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Når folkene er samlet sammen,",
+                "> Og rikene, for å tilbe Herren."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Han har svekket min styrke underveis;",
+                "> Han har forkortet mine dager."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Jeg sier, “Min Gud, ta meg ikke bort midt i mine dager,",
+                "> Dine år strekker seg gjennom alle generasjoner."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> I tidligere tider grunnla du jordens fundament,",
+                "> Og himlene er skapt av dine hender."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> De vil forgå, men du forblir;",
+                "> Alle av dem vil slites ut som et plagg;",
+                "> Som en ødelagt klut vil du skifte dem, og de vil være borte."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Men du forblir uforandret,",
+                "> Og dine år vil aldri ta slutt."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Dine tjeneres barn vil bo trygt,",
+                "> Og deres etterkommere vil bli etablert for ditt åsyn.”"
             ]
         }
     ]

@@ -1,10 +1,54 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 15,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-015.md"
+                "En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, hvem kan bo i ditt telt?",
+                "> Hvem kan slå seg ned på ditt hellige fjell?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Den som lever med integritet, handler rettferdig,",
+                "> Og taler sannhet fra hjertet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han baktaler ikke med sin tunge,",
+                "> Gjør ikke ondt mot sin nabo,",
+                "> Og bringer ikke skam over sin venn;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> I hans øyne er en foraktelig person foraktet,",
+                "> Men han ærer dem som frykter Herren;",
+                "> Han avlegger en ed til egen skade, og endrer den ikke;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Han låner ikke ut sine penger urettferdig,",
+                "> Og tar ikke imot bestikkelser mot den uskyldige.",
+                "---",
+                "> Den som lever på denne måten vil forbli standhaftig."
             ]
         }
     ]

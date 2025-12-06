@@ -1,10 +1,158 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Høysangen Kapittel",
+    "chapter": 4,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/22.Song of Solomon\/md\/song-of-solomon-4.md"
+                "Hvor vakker du er, min kjæreste,",
+                "Hvor virkelig vakker du er!",
+                "Dine øyne ligner duer bak ditt slør;",
+                "Ditt hår flyter som en flokk med geiter",
+                "Som har kommet ned fra Gileads fjell."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Dine tenner er som en flokk med nyklipte sauer",
+                "Som har kommet opp fra vasken,",
+                "Alle bærer tvillinger,",
+                "Og ikke én blant dem har mistet sine lam."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Dine lepper er som en skarlagensrød tråd,",
+                "Og din munn er herlig.",
+                "Dine tinninger er som et stykke av et granateple",
+                "Bak ditt slør."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Din hals er som Davids tårn,",
+                "Bygget med lag av steiner",
+                "Hvor tusen skjold er hengt,",
+                "Alle krigernes runde skjold."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dine to bryster ligner to rådyrkalver,",
+                "Tvillinger av en gasell,",
+                "Som beiter blant liljene."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Inntil dagen puster sin kjølighet,",
+                "Når skyggene flykter,",
+                "Vil jeg gå min vei til myrraberget",
+                "Og til røkelseshaugen."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Du er fullstendig vakker, min kjæreste,",
+                "Og det er ingen feil ved deg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Bli med meg fra Libanon, min brud,",
+                "Måtte du komme med meg fra Libanon.",
+                "Stig ned fra toppen av Amana,",
+                "Fra toppen av Senir og Hermon,",
+                "Fra løvenes huler,",
+                "Fra leopardenes fjell."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Du har fanget mitt hjerte, min søster, min brud;",
+                "Du har fanget mitt hjerte med et enkelt blikk fra dine øyne,",
+                "Med en enkelt tråd av ditt halskjede."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Hvor herlig er din kjærlighet, min søster, min brud!",
+                "Hvor mye bedre er din kjærlighet enn vin,",
+                "Og duften av dine oljer enn alle slags balsamoljer!"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Dine lepper drypper av honning, min brud;",
+                "Honning og melk er under din tunge,",
+                "Og duften av dine klær er som duften av Libanon."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "En lukket hage er min søster, min brud,",
+                "En lukket brønn, en forseglet kilde."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Dine grener er som en frukthage av granatepler",
+                "Med herlige frukter,",
+                "Henna med nardusplanter,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Nardus og safran, krydderrør og kanel,",
+                "Med alle trær av røkelse,",
+                "Myrra og aloe, sammen med alle de fineste balsamoljer."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Du er som en hagekilde,",
+                "En brønn av friskt vann,",
+                "Og rennende bekker fra Libanon."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Våkn opp, nordavind,",
+                "Og kom, sønnavind;",
+                "La min hage puste ut duft,",
+                "La dens balsamoljer flyte.",
+                "Måtte min elskede komme inn i sin hage",
+                "Og spise dens herlige frukter!"
             ]
         }
     ]

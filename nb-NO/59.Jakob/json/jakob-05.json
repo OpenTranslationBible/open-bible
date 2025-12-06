@@ -1,10 +1,125 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Jakob Kapittel",
+    "chapter": 5,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/59.James\/md\/james-5.md"
+                "Nå, dere rike, lytt og klag over de ulykkene som skal komme over dere."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Deres rikdom har råtnet, og deres klær er blitt møllspist."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Deres gull og sølv har rustet, og rusten deres skal være et vitnesbyrd mot dere og fortære deres kjøtt som ild. Dere har samlet skatter i de siste dager."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Se, lønnen dere har holdt tilbake fra arbeiderne som høstet deres marker, roper mot dere; og ropene fra høstfolkene har nådd Herren, hærskarenes Herre."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dere har levd i luksus og nytelse på jorden; dere har gjort deres hjerter fete for slaktedagen."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dere har dømt og drept den rettferdige; han motsetter seg dere ikke."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Vær derfor tålmodige, brødre og søstre, inntil Herrens komme. Se hvordan bonden venter på jordens dyrebare grøde, tålmodig ventende på den tidlige og sene regn."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Dere må også være tålmodige og styrke deres hjerter, for Herrens komme er nær."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Klag ikke mot hverandre, brødre og søstre, så dere ikke blir dømt. Se, Dommeren står ved døren."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ta, som et eksempel på lidelse og tålmodighet, brødre og søstre, profetene som talte i Herrens navn."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Vi betrakter faktisk de som har holdt ut som velsignede. Dere har hørt om Jobs utholdenhet og har sett utfallet av Herrens handlinger, at Herren er full av medfølelse og barmhjertighet."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Fremfor alt, mine brødre og søstre, sverg ikke, verken ved himmelen eller ved jorden eller med noen annen ed. La deres \"Ja\" være ja, og deres \"Nei\" være nei, så dere ikke faller under dom."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Er noen blant dere lidende? La dem be. Er noen glade? La dem synge lovsanger."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Er noen blant dere syke? La dem kalle til seg menighetens eldste, og la dem be over dem, salve dem med olje i Herrens navn."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Og troens bønn vil gjenopprette den syke, og Herren vil reise dem opp; hvis de har begått synder, vil de bli tilgitt."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Bekjenn derfor deres synder for hverandre og be for hverandre, så dere kan bli helbredet. En rettferdig persons bønn er kraftig og virksom."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Elia var et menneske som oss, og han ba inderlig om at det ikke skulle regne, og det regnet ikke på jorden i tre år og seks måneder."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Så ba han igjen, og himmelen ga regn, og jorden ga sin grøde."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Mine brødre og søstre, hvis noen blant dere vandrer bort fra sannheten og noen bringer dem tilbake,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "husk dette: den som vender en synder fra hans villfarelses vei, vil redde hans sjel fra døden og dekke over en mengde synder."
             ]
         }
     ]

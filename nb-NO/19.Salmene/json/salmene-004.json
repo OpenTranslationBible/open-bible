@@ -1,10 +1,89 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 4,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-004.md"
+                "Til sangmesteren; med strenginstrumenter. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Svar meg når jeg roper, min rettferdighets Gud!",
+                "> Du har gitt meg rom i min nød;",
+                "> Vær nådig mot meg og hør min bønn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Dere menneskebarn, hvor lenge skal min ære bli vendt til skam?",
+                "> Hvor lenge vil dere elske det som er verdiløst og streve etter løgn?",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Men vit at Herren har utvalgt den trofaste for seg selv;",
+                "> Herren hører når jeg roper til ham."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vær i ærefrykt, og synd ikke;",
+                "> Tenk stille i deres hjerte på deres seng, og vær stille.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Bær fram rettferdige offer,",
+                "> Og sett deres lit til Herren."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Mange sier: “Hvem vil vise oss noe godt?”",
+                "> La lyset fra ditt ansikt skinne over oss, Herre!"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Du har fylt mitt hjerte med glede,",
+                "> Mer enn når deres korn og nye vin flommer over."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Jeg vil legge meg ned og sove i fred,",
+                "> For du alene, Herre, gir meg trygghet."
             ]
         }
     ]

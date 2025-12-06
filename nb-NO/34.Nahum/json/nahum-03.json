@@ -1,10 +1,173 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Nahum Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/34.Nahum\/md\/nahum-3.md"
+                "> Ve den blodige byen, full av løgn og plyndring;",
+                "> Byttet hennes viker aldri."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Lyden av pisken,",
+                "> Lyden av hjulenes bulder,",
+                "> Galloperende hester",
+                "> Og hoppende vogner!"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ryttere som angriper,",
+                "> Sverd som blinker, spyd som skinner,",
+                "> Mange drepte, en mengde lik,",
+                "> Og det er ingen ende på de døde kroppene—",
+                "> De snubler over de døde kroppene!"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Alt på grunn av den mange utuktige handlingen til skjøgen,",
+                "> Den sjarmerende, trollkvinnens elskerinne,",
+                "> Som selger nasjoner ved sin utukt,",
+                "> Og familier ved sine trolldomskunster."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> \"Se, jeg er imot deg,\" erklærer hærskarenes Herre;",
+                "> \"Og jeg vil løfte opp skjørtene dine over ansiktet ditt,",
+                "> Og vise din nakenhet for nasjonene,",
+                "> Og din skam for rikene."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg vil kaste skam over deg",
+                "> Og gjøre deg foraktet,",
+                "> Og sette deg opp som et skue."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Og det skal skje at alle som ser deg",
+                "> Vil vike unna deg og si,",
+                "> ‘Nineve er ødelagt!",
+                "> Hvem vil vise henne medfølelse?’",
+                "> Hvor skal jeg finne trøstere for deg?”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Er du bedre enn No-Amon,",
+                "> Som lå ved Nilens kanaler,",
+                "> Omgitt av vann,",
+                "> Hvis voll var havet,",
+                "> Hvis mur besto av havet?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Kusj var hennes styrke, også Egypt uten grenser.",
+                "> Put og Lubim var blant hennes hjelpere."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Likevel ble hun en flyktning,",
+                "> Hun gikk i fangenskap;",
+                "> Også hennes små barn ble knust i stykker",
+                "> Ved hodet av hver gate;",
+                "> De kastet lodd om hennes ærefulle menn,",
+                "> Og alle hennes store menn ble bundet med lenker."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Du også vil bli overvunnet,",
+                "> Du vil bli skjult.",
+                "> Du også vil søke ly fra fienden."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Alle dine festninger er som fikentrær med moden frukt—",
+                "> Når de ristes, faller de i munnen på den som eter."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Se, dine soldater er som kvinner!",
+                "> Portene til ditt land er vidåpne for dine fiender;",
+                "> Ild fortærer dine portstenger."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Hent vann til deg selv for beleiringen!",
+                "> Styrk dine festninger!",
+                "> Gå inn i leiren og tråkk mørtelen!",
+                "> Ta tak i teglformen!"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Der vil ilden fortære deg,",
+                "> Sverdet vil hugge deg ned;",
+                "> Det vil fortære deg som gresshoppen.",
+                "> Mangfoldiggjør deg som den krypende gresshoppen,",
+                "> Mangfoldiggjør deg som den vandrende gresshoppen."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Du har gjort dine handelsmenn mer tallrike enn himmelens stjerner—",
+                "> Den krypende gresshoppen kaster sin hud og flyr bort."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Dine hoffmenn er som gresshopper,",
+                "> Dine embetsmenn som en sverm av gresshopper",
+                "> Som slår leir i steinmurene på en kald dag—",
+                "> Solen stiger opp, og de flyr,",
+                "> Og stedet hvor de er, er ikke kjent."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Dine hyrder sover, Assyrias konge;",
+                "> Dine edle ligger nede.",
+                "> Ditt folk er spredt på fjellene,",
+                "> Og det er ingen som samler dem."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Det er ingen lindring for ditt fall,",
+                "> Ditt sår er uhelbredelig.",
+                "> Alle som hører om deg",
+                "> Vil klappe i hendene over deg,",
+                "> For over hvem har ikke din ondskap gått kontinuerlig?"
             ]
         }
     ]

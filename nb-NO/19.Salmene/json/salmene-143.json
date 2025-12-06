@@ -1,10 +1,114 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 143,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-143.md"
+                "En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hør min bønn, Herre,",
+                "> Lytt til mine bønner!",
+                "> Svar meg i din trofasthet, i din rettferdighet!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Og la ikke din tjener stå til rette,",
+                "> For ingen som lever er rettferdig for deg."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For fienden har forfulgt min sjel;",
+                "> Han har brakt mitt liv ned til jorden;",
+                "> Han har latt meg bo i mørket, som de lenge døde."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Derfor er min ånd kraftløs i meg;",
+                "> Mitt hjerte er forferdet i meg."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Jeg minnes de gamle dager;",
+                "> Jeg grunner på alle dine gjerninger;",
+                "> Jeg tenker på dine henders verk."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg rekker ut mine hender til deg;",
+                "> Min sjel tørster etter deg, som et uttørket land.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Svar meg raskt, Herre,",
+                "> Min ånd svikter;",
+                "> Skjul ikke ditt ansikt for meg,",
+                "> Ellers blir jeg lik dem som går ned i graven."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> La meg høre om din miskunn om morgenen,",
+                "> For jeg stoler på deg;",
+                "> Lær meg den veien jeg skal gå,",
+                "> For til deg løfter jeg min sjel."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Redd meg, Herre, fra mine fiender;",
+                "> Jeg søker ly hos deg."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Led meg til å gjøre din vilje,",
+                "> For du er min Gud;",
+                "> La din gode Ånd lede meg på jevnt land."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> For ditt navns skyld, Herre, gi meg liv.",
+                "> I din rettferdighet fri min sjel fra nød."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Og i din miskunn, overvinn mine fiender,",
+                "> Og ødelegg alle som undertrykker min sjel,",
+                "> For jeg er din tjener."
             ]
         }
     ]

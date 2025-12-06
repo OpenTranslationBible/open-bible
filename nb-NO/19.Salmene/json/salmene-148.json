@@ -1,10 +1,122 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 148,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-148.md"
+                "> Pris Herren!",
+                "> Lovsyng Herren fra himlene;",
+                "> Pris Ham i det høye!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Pris Ham, alle Hans engler;",
+                "> Lovsyng Ham, alle Hans himmelske hærskarer!"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Pris Ham, sol og måne;",
+                "> Lovsyng Ham, alle lysende stjerner!"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Pris Ham, dere høyeste himler,",
+                "> Og vannene over himlene!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> La dem prise Herrens navn,",
+                "> For Han befalte, og de ble til."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Han har grunnfestet dem for evig og alltid;",
+                "> Han har gitt en lov, og den skal ikke brytes."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Lovsyng Herren fra jorden,",
+                "> Sjøuhyrer og alle havdyp;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Ild og hagl, snø og tåke;",
+                "> Stormfull vind, som utfører Hans ord;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> De høye fjell og lave hauger;",
+                "> Frukttrær og majestetiske sedrer;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Dyr og alt buskap;",
+                "> Krypende skapninger og flygende fugler;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Jordens konger og alle folk;",
+                "> Alle som hersker og alle som dømmer på jorden;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Både unge menn og jomfruer;",
+                "> De gamle og de unge."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> La dem prise Herrens navn,",
+                "> For Hans navn alene er opphøyet;",
+                "> Hans prakt er over jord og himmel."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Og Han har oppreist et horn for sitt folk,",
+                "> Lovprisning for alle Hans trofaste,",
+                "> For Israels barn, et folk nær Ham.",
+                "> Pris Herren!"
             ]
         }
     ]

@@ -1,10 +1,125 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 41,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-041.md"
+                "Til sangmesteren. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Salig er den som tar seg av den hjelpeløse;",
+                "> Herren vil redde ham på en ulykkens dag."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Herren vil vokte ham og bevare hans liv,",
+                "> Og han skal regnes som velsignet på jorden;",
+                "> Og ikke overgi ham til hans fienders vilje."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Herren vil støtte ham på hans sykeseng;",
+                "> I hans sykdom vil Du gjenopprette ham til helse."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Men jeg sa: \"Herre, vis nåde mot meg;",
+                "> Helbred min sjel, for jeg har syndet mot Deg.\""
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Mine fiender taler ondt om meg,",
+                "> \"Når skal han dø, og hans navn forsvinne?\""
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Og når han kommer for å se meg, taler han usant;",
+                "> Hans hjerte bærer på ondskap;",
+                "> Når han går utenfor, sprer han det."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Alle som forakter meg hvisker sammen mot meg;",
+                "> De planlegger skade mot meg og sier,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> \"En alvorlig sykdom har grepet ham,",
+                "> Så når han legger seg ned, vil han ikke reise seg igjen.\""
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Selv min nære venn som jeg stolte på,",
+                "> Som delte mitt brød,",
+                "> Har vendt seg mot meg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Men Du, Herre, vis nåde mot meg og reis meg opp,",
+                "> Slik at jeg kan gjengjelde dem."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Ved dette vet jeg at Du er tilfreds med meg,",
+                "> Fordi min fiende ikke triumferer over meg."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Men for meg, Du opprettholder meg i min integritet,",
+                "> Og Du plasserer meg i Din nærhet for alltid."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Velsignet være Herren, Israels Gud,",
+                "> Fra evighet til evighet.",
+                "> Amen og Amen."
             ]
         }
     ]

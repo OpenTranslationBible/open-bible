@@ -1,10 +1,192 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 103,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-103.md"
+                "Av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Velsign Herren, min sjel,",
+                "> Og alt som er i meg, velsign Hans hellige navn."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Pris Herren, min sjel,",
+                "> Og husk alle Hans velgjerninger;"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han som tilgir all din misgjerning,",
+                "> Som helbreder alle dine plager;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Han som forløser ditt liv fra graven,",
+                "> Som kroner deg med nåde og barmhjertighet;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Han som fyller ditt liv med gode ting,",
+                "> Slik at din ungdom fornyes som ørnen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Herren utfører rettferdige gjerninger",
+                "> Og rettferdighet for alle undertrykte."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Han åpenbarte sine veier for Moses,",
+                "> Sine gjerninger for Israels barn."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Herren er barmhjertig og nådig,",
+                "> Sen til vrede og rik på miskunn."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Han vil ikke alltid anklage oss,",
+                "> Heller ikke vil Han bevare sin vrede for alltid."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Han har ikke behandlet oss etter våre synder,",
+                "> Heller ikke gjengjeldt oss etter våre misgjerninger."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> For så høyt som himmelen er over jorden,",
+                "> Så stor er Hans miskunn mot dem som frykter Ham."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Så langt som øst er fra vest,",
+                "> Så langt har Han tatt bort våre overtredelser fra oss."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Som en far viser medfølelse med sine barn,",
+                "> Slik viser Herren medfølelse med dem som frykter Ham."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> For Han forstår vår natur;",
+                "> Han husker at vi er støv."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Når det gjelder mennesket, er hans dager som gress;",
+                "> Som en markblomst blomstrer han."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Når vinden har blåst over den, er den borte,",
+                "> Og dens sted husker den ikke lenger."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Men Herrens miskunn er fra evighet til evighet",
+                "> Over dem som frykter Ham,",
+                "> Og Hans rettferdighet til barnas barn,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Til dem som holder Hans pakt",
+                "> Og husker Hans bud for å følge dem."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Herren har satt sin trone i himmelen,",
+                "> Og Hans rike hersker over alt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Pris Herren, dere Hans engler,",
+                "> Mektige i styrke, som utfører Hans ord,",
+                "> Som adlyder lyden av Hans ord!"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Pris Herren, alle dere Hans hærskarer,",
+                "> Dere som tjener Ham, gjør Hans vilje."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Pris Herren, alle Hans gjerninger,",
+                "> På alle steder av Hans herredømme;",
+                "> Pris Herren, min sjel!"
             ]
         }
     ]

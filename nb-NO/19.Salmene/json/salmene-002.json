@@ -1,10 +1,107 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 2,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-002.md"
+                "> Hvorfor raser folkeslagene,",
+                "> Og hvorfor planlegger folkene forgjeves planer?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Jordens konger reiser seg,",
+                "> Og herskerne slår seg sammen",
+                "> Mot Herren og Hans Salvede, og sier,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> “La oss sprenge deres lenker,",
+                "> Og kaste deres bånd fra oss!”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Han som bor i himmelen ler,",
+                "> Herren spotter dem."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Så vil Han tale til dem i Sin vrede,",
+                "> Og skremme dem i Sin harme, og si,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> “Likevel har Jeg innsatt Min Konge",
+                "> På Sion, Min hellige høyde.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Jeg vil forkynne Herrens dekret:",
+                "> Han sa til Meg, “Du er Min Sønn,",
+                "> I dag har Jeg blitt Din Far."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Be Meg, så vil Jeg gi Deg folkeslagene som Din arv,",
+                "> Og jordens ytterste ender som Din eiendom."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Du skal knuse dem med et jernsepter,",
+                "> Du skal slå dem i stykker som pottemakerens kar.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Derfor, dere konger, vær kloke;",
+                "> Vær åpne for veiledning, dere dommere på jorden."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Tilbe Herren med ærefrykt,",
+                "> Og feir med skjelving."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Ær Sønnen, for at Han ikke skal bli vred og dere gå til grunne på deres vei,",
+                "> For Hans vrede kan tennes raskt.",
+                "> Salige er alle som søker tilflukt i Ham."
             ]
         }
     ]

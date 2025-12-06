@@ -1,10 +1,155 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 10,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-010.md"
+                "> Hvorfor synes Du å være fjern, Herre?",
+                "> Hvorfor skjuler Du Deg i tider med nød?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> I sin arroganse forfølger de onde ivrig de trengende;",
+                "> La dem bli fanget i de planene de har lagt."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For den onde skryter av sitt hjertes begjær,",
+                "> Og den grådige forbanner og viser forakt for Herren."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Den onde, i sin stolthet, søker ikke Ham.",
+                "> Det er ikke rom for Gud i alle hans planer."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Hans veier lykkes til enhver tid;",
+                "> Likevel er Dine dommer utenfor hans rekkevidde;",
+                "> Når det gjelder alle hans fiender, håner han dem."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Han sier til seg selv, “Jeg skal ikke bli rystet;",
+                "> Gjennom alle generasjoner skal jeg ikke møte motgang.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Hans munn er full av forbannelser, svik og undertrykkelse;",
+                "> Under hans tunge er ondskap og urettferdighet."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Han venter i bakhold i landsbyene;",
+                "> Han dreper de uskyldige på skjulte steder;",
+                "> Hans øyne ser hemmelig etter de uheldige."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Han ligger i bakhold som en løve i sitt hi;",
+                "> Han venter på å gripe de trengende;",
+                "> Han griper de trengende når han trekker dem inn i sitt nett."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Han kryper sammen, han bøyer seg ned,",
+                "> Og de uheldige faller ved hans sterke."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Han sier til seg selv, “Gud har oversett;",
+                "> Han har skjult sitt ansikt; Han vil aldri legge merke til.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Reis Deg, Herre; Gud, løft Din hånd.",
+                "> Ikke overse de ydmyke."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Hvorfor har den onde vist forakt for Gud?",
+                "> Han har sagt til seg selv, “Du vil ikke holde meg til ansvar.”"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Du har sett det, for Du har merket skade og provokasjon for å ta det i Din hånd.",
+                "> Den uheldige betror seg til Deg;",
+                "> Du har vært den farløses hjelper."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Bryt makten til den onde og ugjerningsmannen,",
+                "> Søk ut hans ondskap til ingen gjenstår."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Herren regjerer som Konge for evig og alltid;",
+                "> Nasjoner har forsvunnet fra Hans land."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Herre, Du har hørt de ydmykes lengsel;",
+                "> Du vil styrke deres hjerte, Du vil bøye Ditt øre,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> For å støtte den farløse og den undertrykte,",
+                "> Slik at menneskeheten, som er av jorden, ikke lenger vil forårsake frykt."
             ]
         }
     ]

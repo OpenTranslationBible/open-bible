@@ -1,10 +1,118 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Rut Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/08.Ruth\/md\/ruth-3.md"
+                "Naomi, Ruts svigermor, sa til henne: «Min datter, skulle jeg ikke søke et trygt sted for deg, så det kan gå deg godt?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Nå er Boas, som du har arbeidet sammen med hans unge kvinner, en slektning av oss. Se, han vil kaste bygg i natt på treskeplassen."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Derfor, vask deg, salv deg, ta på deg dine beste klær, og gå ned til treskeplassen. Men gjør deg ikke kjent for mannen før han har spist og drukket."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Når han legger seg, merk deg stedet hvor han ligger. Så skal du gå, avdekke føttene hans, og legge deg ned; han vil fortelle deg hva du skal gjøre.»"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Rut svarte: «Jeg vil gjøre alt du sier.»"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Så gikk hun ned til treskeplassen og gjorde alt som hennes svigermor hadde instruert henne."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Etter at Boas hadde spist og drukket, og hans hjerte var lystig, gikk han for å legge seg ved enden av kornhaugen. Rut kom stille, avdekket føttene hans, og la seg ned."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Midt på natten ble mannen forskrekket og bøyde seg frem; det lå en kvinne ved føttene hans."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Han spurte: «Hvem er du?» Hun svarte: «Jeg er Rut, din tjenerinne. Bre ditt klede over din tjenerinne, for du er en løsningsmann.»"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Han sa: «Måtte Herren velsigne deg, min datter. Denne siste godhet er større enn den første, da du ikke har fulgt unge menn, enten rike eller fattige."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Nå, min datter, vær ikke redd. Jeg vil gjøre for deg alt du ber om, for alle folkene i min by vet at du er en kvinne av edel karakter."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Det er sant at jeg er en løsningsmann, men det er en annen som er nærmere beslektet enn jeg."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Bli her for natten, og om morgenen, hvis han ønsker å løse deg, godt; la ham løse deg. Men hvis han ikke er villig, så sant Herren lever, vil jeg løse deg. Ligg her til morgenen.»"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Så lå hun ved føttene hans til morgenen, men sto opp før noen kunne gjenkjennes; og han sa: «La det ikke bli kjent at en kvinne kom til treskeplassen.»"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Han sa: «Ta sjalet du har på deg og hold det ut.» Da hun holdt det, målte han seks mål bygg og la det på henne. Så gikk hun tilbake til byen."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Da Rut kom tilbake til sin svigermor, spurte Naomi: «Hvordan gikk det, min datter?» Rut fortalte henne alt Boas hadde gjort for henne."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Hun la til: «Han ga meg disse seks målene med bygg og sa: ‘Gå ikke tilbake til din svigermor med tomme hender.’»"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Naomi sa: «Vent, min datter, til du ser hvordan saken utvikler seg; for mannen vil ikke hvile før han har avgjort saken i dag.»"
             ]
         }
     ]

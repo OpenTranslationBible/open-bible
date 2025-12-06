@@ -1,10 +1,168 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Joel Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/29.Joel\/md\/joel-3.md"
+                "> \"I de dager, når jeg gjenoppretter Judas og Jerusalems velstand,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> vil jeg samle alle nasjonene",
+                "> og føre dem ned til Josjafats dal.",
+                "> Der vil jeg holde dom over dem",
+                "> på vegne av mitt folk og min arv, Israel,",
+                "> som de har spredt blant nasjonene",
+                "> og delt mitt land."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> De kastet lodd om mitt folk,",
+                "> byttet en gutt mot en prostituert,",
+                "> og solgte en jente for vin å drikke."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "\"Nå, hva er dere for meg, Tyrus, Sidon, og alle Filisterlandene? Betaler dere meg tilbake for noe? Hvis dere betaler meg tilbake, vil jeg raskt og snart vende deres gjengjeldelse tilbake på deres egne hoder."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "For dere tok mitt sølv og mitt gull og brakte mine fineste skatter til deres templer."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dere solgte Judas og Jerusalems folk til grekerne, for å fjerne dem langt fra deres hjemland."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "\"Se, jeg vil vekke dem fra stedene hvor dere solgte dem, og vende deres gjengjeldelse tilbake på deres egne hoder."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Jeg vil selge deres sønner og døtre til Judas folk, og de vil selge dem til sabeerne, et folk langt borte,\" for Herren har talt."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Forkynn dette blant nasjonene:",
+                "> Gjør dere klare til krig!",
+                "> Vekk opp krigerne!",
+                "> La alle soldatene komme frem og angripe."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Smi plogskjærene om til sverd",
+                "> og vingårdsknivene til spyd.",
+                "> La den svake nå si: \"Jeg er sterk!\""
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Kom raskt, alle dere omkringliggende nasjoner,",
+                "> og samle dere der.",
+                "> Herre, før ned dine krigere."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> La nasjonene vekkes",
+                "> og rykke frem til Josjafats dal,",
+                "> for der vil jeg sitte for å dømme",
+                "> alle de omkringliggende nasjonene."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Sving sigden, for høsten er moden.",
+                "> Kom, tråkk druene, for vinpressen er full",
+                "> og karene flyter over—så stor er deres ondskap!"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Folkemengder på folkemengder samles i avgjørelsens dal!",
+                "> For Herrens dag er nær i avgjørelsens dal."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Solen og månen vil bli formørket,",
+                "> og stjernene vil miste sin glans."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Herren vil brøle fra Sion",
+                "> og tordne fra Jerusalem;",
+                "> himlene og jorden vil skjelve.",
+                "> Men Herren vil være en tilflukt for sitt folk,",
+                "> en festning for Israels sønner."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> \"Da skal dere vite at jeg er Herren deres Gud,",
+                "> som bor på Sion, mitt hellige fjell.",
+                "> Jerusalem skal være hellig;",
+                "> aldri mer skal fremmede gå gjennom henne."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> \"På den dagen skal fjellene dryppe av søt vin,",
+                "> og åsene skal flyte av melk;",
+                "> alle Judas bekker skal renne med vann.",
+                "> En kilde skal strømme ut fra Herrens hus",
+                "> og vanne Sittims dal."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Men Egypt skal bli en ødemark,",
+                "> og Edom en øde villmark,",
+                "> på grunn av volden gjort mot Judas folk,",
+                "> i hvis land de utøste uskyldig blod."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Men Juda skal være bebodd for alltid,",
+                "> og Jerusalem gjennom alle generasjoner."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Skal jeg la deres uskyldige blod være uhevnet? Nei, det vil jeg ikke.\"",
+                "For Herren bor på Sion!"
             ]
         }
     ]

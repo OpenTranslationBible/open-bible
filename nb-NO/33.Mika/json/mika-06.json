@@ -1,10 +1,141 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Mika Kapittel",
+    "chapter": 6,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/33.Micah\/md\/micah-6.md"
+                "Hør nå hva Herren sier:",
+                "> “Reis deg, før din sak fram for fjellene,",
+                "> Og la høydene høre din røst.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Lytt, dere fjell, til Herrens anklage,",
+                "> Og dere evige grunnvoller av jorden,",
+                "> For Herren har en klage mot sitt folk,",
+                "> Og Han vil føre sak mot Israel."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Mitt folk, hva har jeg gjort mot deg,",
+                "> Og på hvilken måte har jeg tynget deg? Svar meg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Sannelig, jeg førte deg opp fra landet Egypt,",
+                "> Jeg frigjorde deg fra trellehuset,",
+                "> Og jeg sendte Moses, Aron og Mirjam foran deg."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Mitt folk, husk",
+                "> Hva Balak, kongen av Moab, planla,",
+                "> Og hvordan Bileam, Beors sønn, svarte ham,",
+                "> Og alt som skjedde fra Sjittim til Gilgal,",
+                "> Slik at du kan kjenne Herrens rettferdige gjerninger.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Med hva skal jeg komme til Herren",
+                "> Og bøye meg for Gud i det høye?",
+                "> Skal jeg komme til Ham med brennoffer,",
+                "> Med årsgamle kalver?"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Gleder Herren seg over tusenvis av værer,",
+                "> Over titusen elver av olje?",
+                "> Skal jeg gi min førstefødte for min synd,",
+                "> Min livsfrukt for min sjels synd?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Han har vist deg, menneske, hva som er godt;",
+                "> Og hva krever Herren av deg",
+                "> Bare å handle rettferdig, å elske barmhjertighet,",
+                "> Og å vandre ydmykt med din Gud."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Herrens røst roper til byen—",
+                "> Og det er klokt å frykte ditt navn:",
+                "> “Hør, du stamme. Hvem har fastsatt dens tid?"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Er det fortsatt noen i det onde huset,",
+                "> Med urettferdige skatter,",
+                "> Og et kort mål som er forbannet?"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Kan jeg tåle uærlige vekter,",
+                "> Og en pose med falske lodd?"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> For de rike i byen er fulle av vold,",
+                "> Dens innbyggere lyver,",
+                "> Og deres tunge er svikefull i deres munn."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Derfor vil jeg gjøre deg syk, slå deg ned,",
+                "> Gjøre deg øde på grunn av dine synder."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Du skal spise, men du vil ikke bli mett,",
+                "> Og din urenhet vil forbli i deg.",
+                "> Når du prøver å sikre verdier,",
+                "> Vil du ikke redde dem alle,",
+                "> Og det du redder vil jeg overgi til sverdet."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Du skal så, men du skal ikke høste.",
+                "> Du skal tråkke olivenpressen, men ikke salve deg med olje;",
+                "> Og tråkke druer, men du skal ikke drikke vin."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Omris lover",
+                "> Og alle praksisene til Ahabs hus blir opprettholdt,",
+                "> Og du følger deres råd.",
+                "> Derfor vil jeg overgi deg til ruin,",
+                "> Og dine innbyggere til hån,",
+                "> Og du skal tåle mitt folks spott.”"
             ]
         }
     ]

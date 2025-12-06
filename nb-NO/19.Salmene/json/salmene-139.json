@@ -1,10 +1,197 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 139,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-139.md"
+                "Til sangmesteren. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, Du har ransaket meg og kjenner meg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Du vet når jeg setter meg ned og når jeg reiser meg;",
+                "> Du forstår mine tanker langt borte fra."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Du gransker min sti og mitt leie,",
+                "> Og er fortrolig med alle mine veier."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Før et ord er på min tunge,",
+                "> Se, Herre, Du vet det fullt ut."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Du omgir meg bakfra og forfra,",
+                "> Og legger Din hånd på meg."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Slik kunnskap er for underfull for meg;",
+                "> Den er så høy at jeg ikke kan fatte den."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Hvor kan jeg gå fra Din Ånd?",
+                "> Eller hvor kan jeg flykte fra Ditt nærvær?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Om jeg stiger opp til himmelen, er Du der;",
+                "> Om jeg legger meg i dypet, er Du der."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Om jeg tar morgenrødens vinger,",
+                "> Og bor ved havets ytterste grense,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Selv der skal Din hånd lede meg,",
+                "> Og Din høyre hånd holde meg fast."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Om jeg sier: \"Sannelig, mørket skal dekke meg,",
+                "> Og lyset omkring meg bli natt,\""
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Selv mørket er ikke mørkt for Deg,",
+                "> Og natten lyser som dagen.",
+                "> Mørket og lyset er like for Deg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> For Du dannet mine innvoller;",
+                "> Du vevde meg sammen i min mors liv."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Jeg vil takke Deg, for jeg er skremmende og underfullt laget;",
+                "> Underfulle er Dine verk,",
+                "> Og min sjel vet det så vel."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Mine ben var ikke skjult for Deg",
+                "> Da jeg ble dannet i det skjulte,",
+                "> Og kunstferdig formet i jordens dyp."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Dine øyne så meg da jeg var et foster;",
+                "> Og i Din bok var de alle skrevet",
+                "> De dager som var fastsatt for meg,",
+                "> Da ingen av dem ennå var kommet."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Hvor dyrebare er Dine tanker for meg, Gud!",
+                "> Hvor stor er summen av dem!"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Om jeg skulle telle dem, ville de overgå sandkornene.",
+                "> Når jeg våkner, er jeg fortsatt hos Deg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Om Du bare ville drepe de onde, Gud;",
+                "> Gå bort fra meg, dere blodtørstige menn."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> For de taler mot Deg med ondskap,",
+                "> Og Dine motstandere misbruker Ditt navn."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Hater jeg ikke dem som hater Deg, Herre?",
+                "> Og forakter jeg ikke dem som reiser seg mot Deg?"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Jeg hater dem med fullkommen hat;",
+                "> De har blitt mine fiender."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Ransak meg, Gud, og kjenn mitt hjerte;",
+                "> Prøv meg og kjenn mine urolige tanker;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Og se om jeg er på en krenkende vei,",
+                "> Og led meg på den evige vei."
             ]
         }
     ]

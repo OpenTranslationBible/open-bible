@@ -1,10 +1,95 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "1 Timoteus kapittel",
+    "chapter": 2,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/54.1 Timothy\/md\/1-timothy-2.md"
+                "Til å begynne med oppfordrer jeg til at bønner, påkallelser, forbønner og takksigelser blir gjort for alle mennesker,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "inkludert konger og alle i posisjoner med myndighet, slik at vi kan leve et fredelig og stille liv i all gudsfrykt og verdighet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Dette er godt og akseptabelt i Guds, vår Frelsers, øyne,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "som ønsker at alle mennesker skal bli frelst og komme til å forstå sannheten."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "For det er én Gud, og én mellommann mellom Gud og mennesker, mennesket Kristus Jesus,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "som ga seg selv som en løsepenge for alle, vitnesbyrdet gitt til rett tid."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "For dette formål ble jeg utnevnt til en forkynner og en apostel (jeg taler sannheten, jeg lyver ikke), som en lærer for hedningene i tro og sannhet."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Derfor ønsker jeg at mennene på hvert sted skal be, løfte opp hellige hender, uten sinne og krangel."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "På samme måte vil jeg at kvinnene skal kle seg i passende klær, med beskjedenhet og diskresjon, ikke med flettet hår, gull, perler eller kostbare klær,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "men heller gjennom gode gjerninger, som passer for kvinner som bekjenner gudsfrykt."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "En kvinne skal lære i stillhet og med full respekt."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Men jeg tillater ikke en kvinne å undervise eller å ha myndighet over en mann; hun må være stille."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "For Adam ble formet først, og deretter Eva."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Og det var ikke Adam som ble bedratt, men kvinnen ble bedratt og ble en overtreder."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Likevel vil kvinner bli holdt trygge gjennom barnefødsel—hvis de fortsetter i tro, kjærlighet og hellighet, med selvkontroll."
             ]
         }
     ]

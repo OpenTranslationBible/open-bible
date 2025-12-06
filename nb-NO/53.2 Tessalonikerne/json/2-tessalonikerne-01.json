@@ -1,10 +1,78 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "2 Tessalonikerne Kapittel",
+    "chapter": 1,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/53.2 Thessalonians\/md\/2-thessalonians-1.md"
+                "Fra Paulus, Silvanus og Timoteus,",
+                "til menigheten i Tessalonika, av Gud vår Far og Herren Jesus Kristus:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Må dere motta nåde og fred fra Gud Faderen og Herren Jesus Kristus."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Vi bør alltid takke Gud for dere, brødre og søstre, som det er passende, fordi deres tro øker rikelig, og kjærligheten til hver og en av dere mot hverandre vokser stadig større."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Derfor taler vi høyt om dere blant Guds menigheter for deres utholdenhet og tro under alle deres forfølgelser og trengsler som dere utholder."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dette viser klart Guds rettferdige dom, slik at dere kan bli ansett som verdige til Guds rike, for hvilket dere faktisk lider."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "For det er rettferdig for Gud å bringe trengsel over dem som plager dere,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "og å gi lindring til dere som er plaget, sammen med oss, når Herren Jesus blir åpenbart fra himmelen med sine mektige engler i flammende ild,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "som bringer rettferdighet til dem som ikke kjenner Gud og til dem som ikke følger evangeliet om vår Herre Jesus."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Disse individene vil møte konsekvensen av evig ødeleggelse, adskilt fra Herrens nærvær og fra hans makts herlighet,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "når Han kommer for å bli herliggjort blant sine hellige på den dagen, og for å bli beundret blant alle som har trodd—fordi vårt vitnesbyrd til dere ble trodd."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Til dette formål ber vi også alltid for dere, at vår Gud vil anse dere verdige til deres kall, og oppfylle hvert ønske om godhet og troens verk med kraft,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "slik at navnet til vår Herre Jesus kan bli herliggjort i dere, og dere i Ham, gjennom nåden fra vår Gud og Herren Jesus Kristus."
             ]
         }
     ]

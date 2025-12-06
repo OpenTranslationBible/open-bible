@@ -1,10 +1,107 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "1 Timoteus Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/54.1 Timothy\/md\/1-timothy-3.md"
+                "Dette ordet er troverdig: om noen trakter etter tilsynsvervet, så ønsker han en edel gjerning."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "En tilsynsmann må da være ulastelig, én kvinnes mann, edruelig, sindig, høflig, gjestfri, i stand til å lære andre,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "ikke drikkfeldig, ikke voldelig, men mild, ikke stridslysten, fri for pengekjærhet."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Han må lede sitt eget hus godt og ha lydige barn med all verdighet"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "(for om noen ikke vet hvordan han skal lede sitt eget hus, hvordan kan han da ta seg av Guds menighet?);"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "og ikke en nyomvendt, for at han ikke skal bli hovmodig og falle under djevelens dom."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Han må også ha et godt vitnesbyrd fra dem utenfor menigheten, så han ikke faller i vanære og djevelens snare."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Likeså skal diakonene være verdige, ikke tvesinnede, ikke drikkfeldige, ikke griske etter uærlig vinning,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "men holde fast på troens mysterium med en ren samvittighet."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Disse må også først prøves; så kan de tjene som diakoner hvis de finnes ulastelige."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kvinner må likeså være verdige, ikke baktalere, men edruelige, trofaste i alle ting."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Diakonene skal være tro mot én kvinne og gode ledere for sine barn og sine egne hjem."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "For de som har tjent godt som diakoner, vinner seg selv en høy anseelse og stor frimodighet i troen på Kristus Jesus."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Jeg skriver dette til deg i håp om å komme snart;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "men hvis jeg blir forsinket, skriver jeg for at du skal vite hvordan man skal oppføre seg i Guds hus, som er den levende Guds menighet, sannhetens støtte og grunnvoll."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Uten tvil er gudsfryktens mysterium stort:",
+                "> Han som ble åpenbart i kjødet,",
+                "> Rettferdiggjort i Ånden,",
+                "> Sett av engler,",
+                "> Forkynt blant folkeslagene,",
+                "> Trodd i verden,",
+                "> Tatt opp i herlighet."
             ]
         }
     ]

@@ -1,10 +1,131 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "1 Johannes Kapittel",
+    "chapter": 5,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/62.1 John\/md\/1-john-5.md"
+                "Enhver som tror at Jesus er Kristus, er født av Gud, og den som elsker Faderen, elsker barnet som er født av Ham."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Dette er hvordan vi vet at vi elsker Guds barn: når vi elsker Gud og holder Hans bud."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "For dette er hvordan vi viser vår kjærlighet til Gud: ved å holde Hans bud; og Hans bud er ikke tunge."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "For enhver som er født av Gud, seirer over verden; og vår tro er seieren som har overvunnet verden."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Hvem er det som seirer over verden, uten den som tror at Jesus er Guds Sønn?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dette er Han som kom ved vann og blod, Jesus Kristus; ikke med vannet alene, men med vannet og blodet. Det er Ånden som vitner, fordi Ånden er sannheten."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "For det er disse tre som vitner:"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Ånden, vannet og blodet; og de tre er i harmoni."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Hvis vi aksepterer menneskers vitnesbyrd, er Guds vitnesbyrd større; for Guds vitnesbyrd er dette, at Han har vitnet om Sin Sønn."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Den som tror på Guds Sønn har vitnesbyrdet i seg; den som ikke tror Gud har gjort Ham til en løgner, fordi han ikke har trodd på vitnesbyrdet som Gud har gitt om Sin Sønn."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Og dette er vitnesbyrdet: Gud har gitt oss evig liv, og dette livet er i Hans Sønn."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "De som har Sønnen, har livet; de som ikke har Guds Sønn, har ikke livet."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Jeg har skrevet disse tingene til dere som tror på Guds Sønns navn, for at dere skal vite at dere har evig liv."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Dette er den tillit vi har til Ham, at hvis vi ber om noe etter Hans vilje, hører Han oss."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Og hvis vi vet at Han hører oss uansett hva vi ber om, vet vi at vi har de bønner vi har bedt Ham om."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Hvis noen ser sin bror eller søster begå en synd som ikke fører til død, skal han be, og Gud vil, for ham, gi liv til dem som begår synd som ikke fører til død. Det er synd som fører til død; jeg sier ikke at han skal be for den."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "All urett er synd, og det er synd som ikke fører til død."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Vi vet at ingen som er født av Gud fortsetter å synde; men Han som er født av Gud, holder ham, og den onde rører ham ikke."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Vi vet at vi tilhører Gud, og at hele verden ligger under den ondes makt."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Og vi er klar over at Guds Sønn er kommet og har gitt oss forståelse, slik at vi kan kjenne Ham som er sann; og vi er i Ham som er sann, i Hans Sønn Jesus Kristus. Dette er den sanne Gud og evig liv."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Så, kjære barn, hold dere borte fra avguder."
             ]
         }
     ]

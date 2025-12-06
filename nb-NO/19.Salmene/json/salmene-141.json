@@ -1,10 +1,104 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 141,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-141.md"
+                "En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre, jeg roper til deg; skynd deg til meg!",
+                "> Hør min røst når jeg roper til deg!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> La min bønn stige opp for deg som røkelse;",
+                "> Mine løftede hender som et kveldsoffer."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sett vakt, Herre, ved min munn;",
+                "> Vokt inngangen til mine lepper."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> La ikke mitt hjerte bli dratt mot noe ondt,",
+                "> Til å delta i ugudelige gjerninger",
+                "> Med dem som gjør urett;",
+                "> Og la meg ikke ta del i deres delikatesser."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> La den rettferdige slå meg, det er en godhet;",
+                "> La ham irettesette meg, det er olje for hodet;",
+                "> Mitt hode skal ikke avvise det,",
+                "> For fortsatt er min bønn mot deres onde gjerninger."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Deres dommere er kastet ned ved klippens sider,",
+                "> Og de skal høre mine ord, for de er behagelige."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Som når en pløyer og bryter opp jorden,",
+                "> Er våre ben blitt spredt ved inngangen til Sheol."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> For mine øyne er vendt mot deg, Gud Herren;",
+                "> Hos deg tar jeg tilflukt, la ikke min sjel være forsvarsløs."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Beskytt meg fra kjevene i fellen de har satt for meg,",
+                "> Og fra snarer av dem som gjør ondt."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> La de ugudelige falle i sine egne nett,",
+                "> Mens jeg går forbi uskadd."
             ]
         }
     ]

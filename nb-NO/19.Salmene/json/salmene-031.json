@@ -1,10 +1,223 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 31,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-031.md"
+                "For sangmesteren. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Til deg, Herre, har jeg tatt min tilflukt;",
+                "> La meg aldri bli til skamme;",
+                "> I din rettferdighet redd meg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Vend ditt øre til meg, fri meg uten forsinkelse;",
+                "> Vær en fast klippe for meg,",
+                "> En festning til å beskytte meg."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For du er min klippe og min borg;",
+                "> For ditt navns skyld vil du lede og veilede meg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Du vil fri meg fra nettet de i hemmelighet har satt for meg,",
+                "> For du er min styrke."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> I dine hender overgir jeg min ånd;",
+                "> Du har forløst meg, Herre, trofaste Gud."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg avviser dem som klamrer seg til verdiløse avguder,",
+                "> Men jeg stoler på Herren."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Jeg vil glede meg og være glad i din nåde,",
+                "> Fordi du har sett min elendighet;",
+                "> Du har kjent min sjels trengsler,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Og du har ikke overgitt meg i fiendens hånd;",
+                "> Du har satt mine føtter på et stort sted."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Vis meg godhet, Herre, for jeg er i nød;",
+                "> Mine øyne er utslitt av sorg, min sjel og min kropp også."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> For mitt liv er fortært av sorg",
+                "> Og mine år med sukk;",
+                "> Min styrke har sviktet på grunn av min skyld,",
+                "> Og min kropp har visnet bort."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> På grunn av alle mine motstandere har jeg blitt til skam,",
+                "> Særlig for mine naboer,",
+                "> Og en skrekk for mine bekjente;",
+                "> De som ser meg på gaten flykter fra meg."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Jeg er glemt som en død, ute av sinn;",
+                "> Jeg er som et knust kar."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> For jeg har hørt mange hviske,",
+                "> \"Terror på alle kanter!\"",
+                "> Mens de sammensverget seg mot meg,",
+                "> Planla de å ta mitt liv."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Men jeg stoler på deg, Herre,",
+                "> Jeg sier, \"Du er min Gud.\""
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Mine tider er i din hånd;",
+                "> Fri meg fra grepet til mine fiender og fra dem som forfølger meg."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> La ditt ansikt lyse over din tjener;",
+                "> Frels meg gjennom din trofasthet."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Herre, la meg ikke bli til skamme, for jeg kaller på deg;",
+                "> La de ugudelige bli til skamme, la dem tie i Sheol."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> La de svikefulle leppene bli tause,",
+                "> Som taler hovmodig mot de rettferdige",
+                "> Med stolthet og forakt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Hvor overflodsrik er din godhet,",
+                "> Som du har reservert for dem som frykter deg,",
+                "> Som du har utført for dem som søker tilflukt i deg,",
+                "> For menneskenes øyne!"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Du skjuler dem i ditt nærværs skjul fra menneskers planer;",
+                "> Du holder dem trygge i en tilflukt fra tungens strid."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Velsignet være Herren,",
+                "> For han har vist meg sin underfulle trofasthet i en beleiret by."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> I min forskrekkelse sa jeg,",
+                "> \"Jeg er avskåret fra ditt syn!\"",
+                "> Likevel hørte du lyden av mine bønner",
+                "> Da jeg ropte til deg om hjelp."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Elsk Herren, alle hans trofaste!",
+                "> Herren bevarer de lojale",
+                "> Men gir fullt igjen til den som handler hovmodig."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Vær sterke og la deres hjerte være modig,",
+                "> Alle dere som håper på Herren."
             ]
         }
     ]

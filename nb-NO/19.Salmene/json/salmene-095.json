@@ -1,10 +1,95 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 95,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-095.md"
+                "> Kom, la oss synge med glede for Herren,",
+                "> La oss rope med fryd til vår frelses klippe."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> La oss nærme oss Hans nærvær med en sang av takknemlighet,",
+                "> La oss lovprise Ham med glede og musikk."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For Herren er virkelig en stor Gud",
+                "> Og en mektig Konge over alle guder,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> I Hans hånd er jordens dyp,",
+                "> Fjellenes topper tilhører også Ham."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Havet er Hans, for Han skapte det,",
+                "> Og Hans hender formet det tørre land."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Kom, la oss tilbe og bøye oss ned,",
+                "> La oss knele for Herren, vår Skaper."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> For Han er vår Gud,",
+                "> Og vi er Hans folk, flokken Han leder.",
+                "---",
+                "> I dag, om dere hører Hans røst,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Forherd ikke deres hjerter som ved Meriba,",
+                "> Som på dagen ved Massa i ørkenen,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Da deres fedre satte Meg på prøve,",
+                "> De prøvde Meg, selv om de hadde sett Mine gjerninger."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> I førti år var Jeg harm på den generasjonen,",
+                "> Og sa de er et folk som farer vill i sitt hjerte,",
+                "> Og de har ikke forstått Mine veier."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Derfor erklærte Jeg i Min vrede,",
+                "> De skal sannelig ikke komme inn til Min hvile."
             ]
         }
     ]

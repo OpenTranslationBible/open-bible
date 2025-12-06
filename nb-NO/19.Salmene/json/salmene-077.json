@@ -1,10 +1,184 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 77,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-077.md"
+                "For sangmesteren; etter Jedutun. En salme av Asaf."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Min røst stiger opp til Gud, og jeg vil rope høyt;",
+                "> Min røst stiger opp til Gud, og Han vil høre meg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> I min nød søkte jeg Herren;",
+                "> Om natten var min hånd utstrakt uten å bli trett;",
+                "> Min sjel fant ingen trøst."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Når jeg tenker på Gud, blir jeg urolig;",
+                "> Når jeg sukker, blir min ånd kraftløs.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Du har holdt mine øyne fra å lukke seg;",
+                "> Jeg er så urolig at jeg ikke kan tale."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Jeg har tenkt på de gamle dager,",
+                "> Årene fra forgangne tider."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg vil minnes min sang om natten;",
+                "> Jeg vil grunne i mitt hjerte,",
+                "> Og min ånd reflekterer:"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Vil Herren forkaste for alltid?",
+                "> Og vil Han aldri vise nåde igjen?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Har Hans nåde opphørt for alltid?",
+                "> Har Hans løfte tatt slutt for alle tider?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Har Gud glemt å være nådig,",
+                "> Eller har Han i vrede holdt tilbake sin medfølelse?",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Da sa jeg: \"Dette er min sorg,",
+                "> At Den Høyestes høyre hånd har forandret seg.\""
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Jeg vil minnes Herrens gjerninger;",
+                "> Sannelig, jeg vil huske Dine underfulle verk fra gammel tid."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Jeg vil grunne på alle Dine gjerninger,",
+                "> Og på Dine verk med takknemlighet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Din vei, Gud, er hellig;",
+                "> Hvilken gud er stor som vår Gud?"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Du er Gud som gjør under;",
+                "> Du har åpenbart Din styrke blant folkene."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Ved Din kraft har Du forløst Ditt folk,",
+                "> Jakobs og Josefs etterkommere.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Vannene så Deg, Gud;",
+                "> Vannene så Deg og var i angst;",
+                "> Havdypene skalv også."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Skyene strømmet ut vann;",
+                "> Himmelen bruste;",
+                "> Dine piler fór frem og tilbake."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Lyden av Din torden var i virvelvinden;",
+                "> Lynet opplyste verden;",
+                "> Jorden skalv og rystet."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Din vei var gjennom havet,",
+                "> Og Din sti gjennom de mektige vannene,",
+                "> Og Dine fotspor var usett."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Du ledet Ditt folk som en flokk",
+                "> Ved hånden til Moses og Aron."
             ]
         }
     ]

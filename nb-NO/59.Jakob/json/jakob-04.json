@@ -1,10 +1,109 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Jakob Kapittel",
+    "chapter": 4,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/59.James\/md\/james-4.md"
+                "Hva er årsaken til strid og krangel blant dere? Kommer de ikke fra deres begjær som fører krig i deres lemmer?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Dere begjærer og har ikke, så dere begår mord. Dere misunner og kan ikke oppnå, så dere krangler og kjemper. Dere har ikke fordi dere ikke ber til Gud."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Når dere ber, får dere ikke, fordi dere ber med gale motiver, for at dere kan bruke det på deres lyster."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Dere utro mennesker, vet dere ikke at vennskap med verden er fiendskap mot Gud? Derfor, den som velger å være en venn av verden, blir en fiende av Gud."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Eller tror dere at Skriften taler uten grunn når den sier at Han nidkjært ønsker den ånd Han har latt bo i oss?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Men Han gir oss større nåde. Derfor sier Skriften:",
+                "> \"Gud står de stolte imot,",
+                "> men de ydmyke gir Han nåde.\""
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Så, underordne dere under Guds myndighet. Stå imot djevelen, og han vil flykte fra dere."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Kom nær til Gud, og Han vil komme nær til dere. Rens hendene, dere syndere, og rens hjertene, dere tvesinnede."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Vær bedrøvet, sørg og gråt. La latteren deres bli vendt til sorg og gleden til tungsinn."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Ydmyk dere for Herren, og Han vil løfte dere opp."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Brødre og søstre, tal ikke mot hverandre. Den som taler mot en bror eller søster eller dømmer dem, taler mot loven og dømmer den. Hvis du dømmer loven, er du ikke en lovens gjører, men en dommer over den."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Det er bare én Lovgiver og Dommer, Han som er i stand til å frelse og ødelegge. Men hvem er du som dømmer din neste?"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kom nå, dere som sier: \"I dag eller i morgen vil vi dra til den eller den byen, tilbringe et år der, drive handel og tjene penger.\""
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Men dere vet ikke hvordan livet deres vil være i morgen. Dere er en tåke som viser seg en liten stund og så forsvinner."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "I stedet burde dere si: \"Hvis Herren vil, skal vi leve og gjøre dette eller hint.\""
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Men som det står, skryter dere i deres arrogante planer. All slik skryt er ondt."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Derfor, hvis noen vet hva godt de burde gjøre og ikke gjør det, er det synd for dem."
             ]
         }
     ]

@@ -1,10 +1,83 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 14,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-014.md"
+                "Til sangmesteren. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Dåren sier i sitt hjerte: «Det er ingen Gud.»",
+                "> De er fordervet, de har gjort avskyelige gjerninger;",
+                "> Det er ingen som gjør godt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Herren skuer ned fra himmelen på menneskenes barn",
+                "> For å se om det er noen som er kloke,",
+                "> Som søker Gud."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> De har alle vendt seg bort, sammen er de blitt fordervet;",
+                "> Det er ingen som gjør godt, ikke en eneste."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Skjønner ikke de som gjør urett,",
+                "> De som fortærer mitt folk som de spiser brød,",
+                "> Og ikke påkaller Herren?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Der er de grepet av stor frykt,",
+                "> For Gud er med den rettferdiges slekt."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Dere søker å gjøre de fattiges planer til skamme,",
+                "> Men Herren er deres tilflukt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Å, at frelse for Israel ville komme fra Sion!",
+                "> Når Herren fører tilbake sitt folks fangenskap,",
+                "> Skal Jakob fryde seg, Israel skal glede seg."
             ]
         }
     ]

@@ -1,10 +1,93 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 112,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-112.md"
+                "> Lovpris Herren!",
+                "> Lykkelig er den som frykter Herren,",
+                "> Som finner stor glede i Hans bud."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Hans etterkommere vil være innflytelsesrike på jorden;",
+                "> De oppriktiges slekt vil bli favorisert."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Velstand og rikdom bor i hans hus,",
+                "> Og hans rettferdighet varer evig."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Lys bryter frem i mørket for de oppriktige;",
+                "> Han er nådig, medfølende og rettferdig."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Det går godt for en person som er generøs og låner ut;",
+                "> Han vil opprettholde sin sak i dommen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> For han vil forbli urokkelig;",
+                "> De rettferdige vil bli husket for alltid."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Han vil ikke frykte dårlige nyheter;",
+                "> Hans hjerte er stødig, og stoler på Herren."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Hans hjerte er fast, han vil ikke frykte,",
+                "> Men vil se på sine fiender med besluttsomhet."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Han har gitt fritt til de fattige,",
+                "> Hans rettferdighet varer evig;",
+                "> Hans horn vil bli opphøyd i ære."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> De onde vil se det og bli urolige,",
+                "> Han vil skjære tenner og gå i oppløsning;",
+                "> De ondes lengsel vil komme til ingenting."
             ]
         }
     ]

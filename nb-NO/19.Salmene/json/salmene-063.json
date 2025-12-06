@@ -1,10 +1,104 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 63,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-063.md"
+                "En salme av David, da han var i Juda-ørkenen."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Gud, Du er min Gud; jeg skal søke Deg;",
+                "> Min sjel tørster etter Deg, mitt kjød lengter etter Deg,",
+                "> I et tørt og utmattet land, hvor det ikke er vann."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Slik har jeg skuet Deg i helligdommen,",
+                "> For å se Din makt og herlighet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> For Din nåde er bedre enn livet,",
+                "> Mine lepper skal prise Deg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Derfor vil jeg velsigne Deg gjennom hele mitt liv;",
+                "> Jeg vil løfte mine hender i Ditt navn."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Min sjel blir mettet som med fete retter,",
+                "> Og min munn priser Deg med jublende lepper."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Når jeg tenker på Deg på mitt leie,",
+                "> Jeg grunner på Deg gjennom nattevaktene,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> For Du har vært min hjelp,",
+                "> Og under skyggen av Dine vinger synger jeg av glede."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Min sjel holder fast ved Deg;",
+                "> Din høyre hånd støtter meg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Men de som søker å skade mitt liv",
+                "> Skal fare ned i jordens dyp."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> De skal bli overgitt til sverdets makt;",
+                "> De skal bli til rov for rever."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Men kongen skal glede seg i Gud;",
+                "> Alle som sverger ved Ham skal juble,",
+                "> For munnen på dem som taler løgn skal bli lukket."
             ]
         }
     ]

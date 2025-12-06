@@ -1,10 +1,399 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 37,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-037.md"
+                "En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Bli ikke opprørt over ugjerningsmenn,",
+                "> Misunn ikke dem som gjør urett."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> For de skal snart visne som gresset,",
+                "> Og visne som grønne planter."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Sett din lit til Herren og gjør godt;",
+                "> Bo i landet og dyrk trofasthet."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Gled deg i Herren;",
+                "> Så skal han gi deg hva ditt hjerte ønsker."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Overgi din vei til Herren,",
+                "> Stol på ham, så skal han handle."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Han skal la din rettferdighet bryte fram som lyset,",
+                "> Og din rett som middagssolen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Vær stille for Herren og vent tålmodig på ham;",
+                "> Bli ikke urolig over dem som lykkes i sine veier,",
+                "> Over dem som utfører onde planer."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Avstå fra vrede og forlat harme;",
+                "> Bli ikke opprørt, det fører bare til det onde."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> For ugjerningsmenn skal utryddes,",
+                "> Men de som håper på Herren skal arve landet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Om en liten stund er de ugudelige ikke mer;",
+                "> Om du ser etter dem, skal de ikke finnes."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Men de saktmodige skal arve landet,",
+                "> Og glede seg over rik fred."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> De ugudelige legger planer mot de rettferdige,",
+                "> Og skjærer tenner mot dem."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Herren ler av de ugudelige,",
+                "> For han ser at deres dag kommer."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> De ugudelige spenner buen",
+                "> For å felle de fattige og trengende,",
+                "> For å drepe dem som vandrer rettskaffent."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Deres sverd skal trenge inn i deres eget hjerte,",
+                "> Og deres buer skal bli brutt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Det lille som den rettferdige har",
+                "> Er bedre enn de mange ugudeliges rikdom."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> For de ugudeliges styrke skal brytes,",
+                "> Men Herren støtter de rettferdige."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Herren kjenner de uskyldiges dager,",
+                "> Og deres arv skal vare evig."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> De skal ikke bli til skamme i onde tider,",
+                "> Og i hungersnødens dager skal de ha overflod."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Men de ugudelige skal gå til grunne;",
+                "> Herrens fiender skal forsvinne som markens prakt,",
+                "> De skal svinne bort som røk."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> De ugudelige låner og betaler ikke tilbake,",
+                "> Men de rettferdige er barmhjertige og gir."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> De som er velsignet av ham skal arve landet,",
+                "> Men de som er forbannet av ham skal utryddes."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Herren gjør den enes skritt faste som gleder seg i ham;",
+                "> Han har behag i hans vei."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Om han snubler, faller han ikke,",
+                "> For Herren støtter ham med sin hånd."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Jeg var ung og nå er jeg gammel,",
+                "> Men jeg har aldri sett den rettferdige forlatt",
+                "> Eller hans barn tigge om brød."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Han er alltid barmhjertig og låner ut,",
+                "> Og hans barn skal bli til velsignelse."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Vend deg bort fra det onde og gjør godt,",
+                "> Så skal du bo i landet for evig."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> For Herren elsker rett",
+                "> Og vil ikke forlate sine trofaste;",
+                "---",
+                "> De skal bli bevart for evig,",
+                "> Men de ugudeliges ætt skal utryddes."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> De rettferdige skal arve landet",
+                "> Og bo i det til evig tid."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> De rettferdiges munn taler visdom,",
+                "> Og deres tunge taler rett."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Deres Guds lov er i deres hjerter;",
+                "> Deres skritt vakler ikke."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> De ugudelige lurer på de rettferdige,",
+                "> For å ta deres liv."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Men Herren vil ikke overgi dem i de ugudeliges hånd",
+                "> Eller la dem bli dømt når de blir stilt for retten."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Håp på Herren og følg hans vei,",
+                "> Så skal han opphøye deg til å arve landet;",
+                "> Når de ugudelige blir ødelagt, skal du se det."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Jeg har sett en ugudelig og brutal person",
+                "> Blomstre som et frodig innfødt tre."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Men han gikk snart bort og var ikke mer;",
+                "> Om jeg lette etter ham, kunne han ikke finnes."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Akt på den uskyldige, se på den rettskafne;",
+                "> En framtid venter dem som søker fred."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Men alle som synder skal bli ødelagt;",
+                "> Det skal ikke være noen framtid for de ugudelige."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> De rettferdiges frelse kommer fra Herren;",
+                "> Han er deres styrke i trengselens tid."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Herren hjelper dem og redder dem;",
+                "> Han redder dem fra de ugudelige og frelser dem,",
+                "> Fordi de søker tilflukt hos ham."
             ]
         }
     ]

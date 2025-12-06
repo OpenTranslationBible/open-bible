@@ -1,10 +1,123 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Nahum Kapittel",
+    "chapter": 2,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/34.Nahum\/md\/nahum-2.md"
+                "> Den som sprer har kommet opp mot deg.",
+                "> Hold vakt over festningen,",
+                "> Vokt veien;",
+                "> Styrk ryggen din,",
+                "> Kall på all din styrke."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> For Herren vil gjenopprette Jakobs prakt",
+                "> Som Israels prakt,",
+                "> Selv om ødeleggere har lagt dem øde",
+                "> Og ødelagt deres vinstokker."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Skjoldene til hans krigere er skarlagenrøde,",
+                "> Soldatene er kledd i purpur,",
+                "> Vognene skinner med blinkende metall",
+                "> Når han forbereder seg til å rykke frem,",
+                "> Og spyd av einer blir svingt."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vognene raser vilt i gatene,",
+                "> De farer vilt på torgene;",
+                "> Deres utseende er som fakler,",
+                "> De farer hit og dit som lyn."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Han husker sine adelsmenn;",
+                "> De snubler i sin marsj,",
+                "> De skynder seg til hennes mur,",
+                "> Og skjermtaket er forberedt."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Elveportene blir kastet opp,",
+                "> Og palasset skjelver."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Det er bestemt:",
+                "> Hun er blitt avkledd, hun er blitt bortført,",
+                "> Og hennes slavekvinner stønner som lyden av duer,",
+                "> Slår seg for brystet."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Selv om Ninive var som en vannpytt i sine dager,",
+                "> Nå flykter de;",
+                "> “Stopp, stopp,”",
+                "> Men ingen vender tilbake."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Grip sølvet,",
+                "> Grip gullet!",
+                "> For det er ingen ende på skatten—",
+                "> Rikdommer fra alle slags ønskelige gjenstander."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Hun er tømt! Ja, hun er øde og ødelagt!",
+                "> Hjerter smelter og knær vakler!",
+                "> Skjelving er i alle lender!",
+                "> Alle ansikter har blitt bleke!"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Hvor er løvens hule",
+                "> Og beitemarken til de unge løvene,",
+                "> Hvor løven, løvinnen og løveungen streifet,",
+                "> Uten noe som forstyrret dem?"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Løven rev nok for sine unger,",
+                "> Drepte tilstrekkelig for sine løvinner,",
+                "> Og fylte sine huler med bytte",
+                "> Og sine hi med revet kjøtt."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> “Se, jeg er imot deg,” erklærer hærskarenes Herre.",
+                "> “Jeg vil brenne opp hennes vogner i røyk,",
+                "> Et sverd vil fortære dine unge løver;",
+                "> Jeg vil eliminere ditt bytte fra landet,",
+                "> Og ikke lenger skal dine budbringeres stemme bli hørt.”"
             ]
         }
     ]

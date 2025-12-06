@@ -1,10 +1,123 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 62,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-062.md"
+                "For sangmesteren; etter Jedutun. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Min sjel venter i stillhet på Gud alene;",
+                "> Fra ham kommer min frelse."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Han alene er min klippe og min frelse,",
+                "> Min borg; jeg skal ikke rokkes mye."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hvor lenge vil dere storme mot en mann,",
+                "> For å felle ham, alle sammen,",
+                "> Som en lutende vegg, som et vaklende gjerde?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> De har bare til hensikt å styrte ham fra hans høye stilling;",
+                "> De har behag i løgn;",
+                "> De velsigner med munnen,",
+                "> Men i sitt indre forbanner de.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Min sjel, forbli stille for Gud alene,",
+                "> For mitt håp kommer fra ham."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Han alene er min klippe og min frelse,",
+                "> Min tilflukt; jeg skal ikke rokkes."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Min frelse og min ære avhenger av Gud;",
+                "> Min sterke klippe, min tilflukt er i Gud."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Stol på ham til enhver tid, dere folk;",
+                "> Utøs deres hjerter for ham;",
+                "> Gud er vår tilflukt.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Mennesker av lav rang er bare et pust, og de av høy rang er en illusjon;",
+                "> På vektskålen stiger de opp.",
+                "> Sammen er de lettere enn luft."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Stol ikke på undertrykkelse,",
+                "> Og sett ikke forgjeves håp til ran;",
+                "> Om rikdom øker, sett ikke deres hjerte til det."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Gud har talt én gang;",
+                "> To ganger har jeg hørt dette:",
+                "> At styrke tilhører Gud;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Og trofast kjærlighet er din, Herre,",
+                "> For du lønner en person etter deres gjerninger."
             ]
         }
     ]

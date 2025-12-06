@@ -1,10 +1,131 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 56,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-056.md"
+                "For sangmesteren; etter \"Den stille due i det fjerne\". En miktam av David, da filisterne grep ham i Gat."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Vær meg nådig, Gud, for mennesker tramper på meg;",
+                "> Hele dagen kjemper de og undertrykker meg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Mine motstandere forfølger meg hele dagen,",
+                "> For mange er de som stolt kjemper mot meg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Når jeg er redd,",
+                "> Vil jeg sette min lit til deg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> I Gud, hvis ord jeg priser,",
+                "> I Gud har jeg satt min lit; jeg skal ikke frykte.",
+                "> Hva kan dødelige mennesker gjøre meg?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Hele dagen vrir de mine ord;",
+                "> Alle deres planer er mot meg for å skade."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> De angriper, de lurer,",
+                "> De vokter mine skritt,",
+                "> Som de har ventet for å ta mitt liv."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> På grunn av deres ondskap, er det en vei til flukt for dem?",
+                "> I din vrede, styrt nasjonene ned, Gud!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Du har merket deg mine lidelser;",
+                "> Samle mine tårer i din flaske.",
+                "> Er de ikke opptegnet i din bok?"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Da vil mine fiender trekke seg tilbake den dagen jeg roper;",
+                "> Dette vet jeg, at Gud er med meg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> I Gud, hvis ord jeg priser,",
+                "> I Herren, hvis budskap jeg ærer,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> I Gud har jeg satt min lit, jeg skal ikke frykte.",
+                "> Hva kan verden gjøre meg?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Dine løfter er bindende for meg, Gud;",
+                "> Jeg vil ofre takkeofre til deg."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> For du har reddet min sjel fra døden,",
+                "> Ja, mine føtter fra å snuble,",
+                "> Slik at jeg kan vandre for Gud",
+                "> I livets lys."
             ]
         }
     ]

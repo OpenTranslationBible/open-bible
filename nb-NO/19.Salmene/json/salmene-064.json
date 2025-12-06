@@ -1,10 +1,104 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 64,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-064.md"
+                "For sangmesteren. En salme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Hør min røst, Gud, i min klage;",
+                "> Beskytt mitt liv fra fiendens frykt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Skjul meg fra de ondes hemmelige planer,",
+                "> Fra uroen til dem som begår urett,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Som har skjerpet sine tunger som et sverd.",
+                "> De rettet harde ord som sine piler,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> For å slå uventet mot den uskyldige;",
+                "> Plutselig angriper de uten frykt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> De styrker sine onde planer;",
+                "> De diskuterer å legge feller i hemmelighet;",
+                "> De sier: \"Hvem kan oppfatte dem?\""
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> De planlegger urettferdigheter og sier,",
+                "> \"Vi er forberedt med en smart plan\";",
+                "> For en persons indre tanker og hjerte er dype."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Men Gud vil sende en pil inn i dem;",
+                "> Plutselig vil de bli rammet."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Så de vil bli gjort til å snuble;",
+                "> Deres egne tunger vil vende seg mot dem;",
+                "> Alle som ser dem vil riste på hodet."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Da vil alle mennesker bli fylt med ærefrykt,",
+                "> Og de vil forkynne Guds gjerninger,",
+                "> Og vil tenke over hva Han har oppnådd."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> De rettferdige vil glede seg i Herren og søke ly i Ham;",
+                "> Og alle de oppriktige av hjertet vil juble."
             ]
         }
     ]

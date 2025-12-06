@@ -1,10 +1,81 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 113,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-113.md"
+                "> Pris Herren!",
+                "---",
+                "> Pris, dere Herrens tjenere,",
+                "> Pris Herrens navn."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Måtte Herrens navn bli æret",
+                "> Fra dette øyeblikk og for all tid."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Fra soloppgang til solnedgang,",
+                "> Er Herrens navn verdig til å bli priste."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Herren er opphøyd over alle nasjoner;",
+                "> Hans prakt er utover himlene."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Hvem kan sammenlignes med Herren vår Gud,",
+                "> Som sitter høyt på tronen,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Som ydmyker seg for å se",
+                "> På tingene i himmelen og på jorden?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Han løfter de fattige fra støvet,",
+                "> Han reiser de trengende fra askehaugene,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> For å plassere dem med fyrster,",
+                "> Med lederne av sitt folk."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Han gir den barnløse kvinnen et hjem",
+                "> Som en glad mor til barn.",
+                "> Pris Herren!"
             ]
         }
     ]

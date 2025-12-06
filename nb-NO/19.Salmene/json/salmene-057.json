@@ -1,10 +1,132 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 57,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-057.md"
+                "For sangmesteren; etter melodien \"Ødelegg ikke\". En miktam av David, da han flyktet for Saul i hulen."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Vær meg nådig, Gud, vær meg nådig,",
+                "> For min sjel søker tilflukt hos deg;",
+                "> Og i skyggen av dine vinger vil jeg søke tilflukt",
+                "> Inntil ødeleggelsen går forbi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Jeg vil rope til Gud, Den Høyeste,",
+                "> Til Gud som fullfører sin hensikt for meg."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han vil sende fra himmelen og frelse meg;",
+                "> Han refser den som tråkker på meg.",
+                "> Sela",
+                "> Gud vil sende sin nåde og sin sannhet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Min sjel er blant løver;",
+                "> Jeg må legge meg blant dem som fortærer,",
+                "> Blant menneskesønner, hvis tenner er spyd og piler,",
+                "> Og deres tunge er et skarpt sverd."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Bli opphøyd over himlene, Gud;",
+                "> Må din herlighet være over hele jorden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> De har lagt en snare for mine skritt;",
+                "> Min sjel er nedbøyd;",
+                "> De gravde en grop foran meg;",
+                "> De har selv falt i den.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Mitt hjerte er urokkelig, Gud, mitt hjerte er urokkelig;",
+                "> Jeg vil synge, ja, jeg vil synge lovsanger!"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Stå opp, min sjel!",
+                "> Stå opp, harpe og lyre!",
+                "> Jeg vil vekke morgenlyset."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Jeg vil takke deg, Herre, blant folkene;",
+                "> Jeg vil synge lovsanger til deg blant nasjonene."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> For din miskunnhet rekker til himlene,",
+                "> Og din sannhet til skyene."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Bli opphøyd over himlene, Gud;",
+                "> Må din herlighet være over hele jorden."
             ]
         }
     ]

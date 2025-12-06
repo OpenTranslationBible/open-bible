@@ -1,10 +1,96 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "3 Johannes Kapittel",
+    "chapter": 1,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/64.3 John\/md\/3-john-1.md"
+                "Fra den eldste,",
+                "til den kjære Gaius, som jeg elsker i sannheten."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kjære venn, jeg ber om at du må ha fremgang på alle måter og være ved god helse, slik som din sjel har det godt."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "For jeg ble fylt med glede da brødrene kom og vitnet om din sannhet, spesielt hvordan du lever i sannheten."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Det er ingen større glede for meg enn å høre at mine barn lever i sannheten."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Kjære venn, du er trofast i det du gjør for brødrene og søstrene, selv om de er fremmede for deg;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "og de har talt om din kjærlighet foran menigheten. Du vil gjøre vel i å sende dem videre på en måte som ærer Gud."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "For de dro ut for Navnets skyld, uten å ta imot hjelp fra hedningene."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Derfor bør vi støtte slike mennesker, så vi kan være medarbeidere for sannheten."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Jeg skrev et brev til menigheten; men Diotrefes, som elsker å være den fremste blant dem, anerkjenner ikke vår autoritet."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Av denne grunn, hvis jeg kommer, vil jeg ta opp det han gjør, sprer ondsinnet sladder om oss; og ikke fornøyd med det, nekter han å ta imot brødrene, og han stopper også dem som vil gjøre det og kaster dem ut av menigheten."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kjære venn, ikke etterlign det som er ondt, men det som er godt. Den som gjør godt er fra Gud; den som gjør ondt har ikke sett Gud."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Demetrius har fått godt skussmål av alle, og av sannheten selv; vi taler også godt om ham, og du vet at vårt vitnesbyrd er pålitelig."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Jeg har mange ting å skrive til deg, men jeg foretrekker å ikke gjøre det med penn og blekk;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Jeg håper å besøke deg snart, og vi vil snakke ansikt til ansikt."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Fred være med deg. Vennene her sender sine hilsener. Hils vennene der ved navn."
             ]
         }
     ]

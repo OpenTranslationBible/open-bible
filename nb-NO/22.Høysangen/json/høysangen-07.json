@@ -1,10 +1,117 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Høysangen Kapittel",
+    "chapter": 7,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/22.Song of Solomon\/md\/song-of-solomon-7.md"
+                "Hvor vakre er dine føtter i sandaler,",
+                "Du datter av en fyrste!",
+                "Kurvene av dine hofter er som juveler,",
+                "Verket av en kunstners hender."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Din navle er et rundt beger",
+                "Som aldri mangler blandet vin;",
+                "Din mage er som en haug med hvete",
+                "Inngjerdet med liljer."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Dine to bryster er som milde rådyr,",
+                "Tvillinger av en gasell."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Din hals er grasiøs som et elfenbenstårn,",
+                "Dine øyne er som de rolige dammene i Hesjbon",
+                "Ved porten til Bat-Rabbim;",
+                "Din nese er så elegant som Libanons tårn,",
+                "Som ser mot Damaskus."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ditt hode er majestetisk som Karmel,",
+                "Og det flytende håret på ditt hode ligner purpurtråder;",
+                "Kongen er fortryllet av dine lokker."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Hvor skjønn og hvor behagelig du er,",
+                "Min elskede, med all din sjarm!"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Din skikkelse er som et palmetre,",
+                "Og dine bryster ligner dets klaser."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Jeg sa, “Jeg vil klatre opp i palmetreet,",
+                "Jeg vil gripe fatt i dets fruktstilker.”",
+                "Å, måtte dine bryster være som klaser av vintreet,",
+                "Og duften av din pust som epler,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Og din munn som den fineste vin!”",
+                "Den glir jevnt for min elskede,",
+                "Flyter forsiktig gjennom leppene til dem som hviler."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Jeg tilhører min elskede,",
+                "Og hans lengsel er etter meg."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Kom, min elskede, la oss dra ut på landet,",
+                "La oss tilbringe natten i landsbyene."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "La oss stå opp tidlig og gå til vingårdene;",
+                "La oss se om vintreet har knoppet",
+                "Og om dets blomster har åpnet seg,",
+                "Og om granateplene har blomstret.",
+                "Der vil jeg dele min kjærlighet med deg."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Alrunene har sluppet sin duft;",
+                "Og over våre dører er alle de utvalgte fruktene,",
+                "Både nye og gamle,",
+                "Som jeg har spart for deg, min elskede."
             ]
         }
     ]

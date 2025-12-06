@@ -1,109 +1,109 @@
-# John Chapter 2
+# Johannes Kapittel 2
 
-## John 2:1
+## Johannes 2:1
 
 På den tredje dagen var det et bryllup i Kana i Galilea, og Jesu mor var til stede.
 
-## John 2:2
+## Johannes 2:2
 
-Jesus og hans disipler var også invitert til bryllupet.
+Jesus, sammen med sine disipler, var invitert til bryllupet.
 
-## John 2:3
+## Johannes 2:3
 
 Da vinen tok slutt, sa Jesu mor til ham: "De har ingen vin."
 
-## John 2:4
+## Johannes 2:4
 
 Jesus svarte: "Kvinne, hva har dette med meg å gjøre? Min tid er ennå ikke kommet."
 
-## John 2:5
+## Johannes 2:5
 
-Hans mor sa til tjenerne: "Gjør hva han sier til dere."
+Hans mor instruerte tjenerne: "Gjør hva han sier til dere."
 
-## John 2:6
+## Johannes 2:6
 
-I nærheten stod seks steinkrukker, brukt til jødenes renselsesskikker, hver med plass til to eller tre mål.
+I nærheten stod seks vannkar av stein, brukt til jødenes renselsesskikker, hver med plass til to eller tre mål.
 
-## John 2:7
+## Johannes 2:7
 
-Jesus sa til tjenerne: "Fyll krukkene med vann," og de fylte dem til randen.
+Jesus instruerte tjenerne: "Fyll karene med vann," og de fylte dem til randen.
 
-## John 2:8
+## Johannes 2:8
 
-Så sa han til dem: "Øs nå opp og bær det til kjøkemesteren." Og de gjorde det.
+Så instruerte han dem: "Øs nå opp og bær det til kjøkemesteren." Og de gjorde det.
 
-## John 2:9
+## Johannes 2:9
 
 Kjøkemesteren smakte på vannet som var blitt til vin, uten å vite hvor det kom fra, men tjenerne som hadde øst opp vannet visste det. Han kalte på brudgommen
 
-## John 2:10
+## Johannes 2:10
 
-og sa: "Alle andre setter først fram den gode vinen, og når gjestene er blitt drukne, den dårligere; men du har gjemt den gode vinen til nå."
+og bemerket: "Alle serverer den beste vinen først, og når gjestene har drukket godt, så den dårligere vinen; men du har spart den beste vinen til nå."
 
-## John 2:11
+## Johannes 2:11
 
-Dette var det første av de tegn Jesus gjorde i Kana i Galilea, og åpenbarte sin herlighet; og hans disipler trodde på ham.
-
----
-
-## John 2:12
-
-Etter dette dro han ned til Kapernaum med sin mor, sine brødre og sine disipler, og de ble der noen få dager.
+Dette var det første av de tegnene Jesus gjorde i Kana i Galilea, og åpenbarte sin herlighet; og hans disipler trodde på ham.
 
 ---
 
-## John 2:13
+## Johannes 2:12
+
+Etter dette dro han til Kapernaum med sin mor, sine brødre og disipler, og de ble der noen dager.
+
+---
+
+## Johannes 2:13
 
 Da jødenes påske nærmet seg, dro Jesus opp til Jerusalem.
 
-## John 2:14
+## Johannes 2:14
 
-I tempelgården fant han dem som solgte okser, sauer og duer, og pengevekslerne som satt der.
+I tempelgårdene så han folk som solgte kveg, sauer og duer, og andre som satt ved bordene og vekslet penger.
 
-## John 2:15
+## Johannes 2:15
 
-Han laget en svepe av rep og drev dem alle ut av tempelgården, sammen med sauene og oksene; han spredte pengevekslernes mynter og veltet bordene deres.
+Han laget en svepe av tau og drev dem alle ut av tempelgårdene, sammen med sauene og kveget; han spredte mynter fra pengevekslerne og veltet bordene deres.
 
-## John 2:16
+## Johannes 2:16
 
-Til dem som solgte duer, sa han: "Ta dette bort! Gjør ikke min Fars hus til en handelsplass!"
+Til dem som solgte duer, sa han: "Ta disse tingene bort! Gjør ikke min Fars hus til et handelshus!"
 
-## John 2:17
+## Johannes 2:17
 
-Hans disipler husket at det står skrevet: "Nidkjærhet for ditt hus vil fortære meg."
+Hans disipler husket skriften: "Nidkjærhet for ditt hus vil fortære meg."
 
 ---
 
-## John 2:18
+## Johannes 2:18
 
-Jødene spurte ham da: "Hvilket tegn kan du vise oss som bevis på at du har myndighet til å gjøre dette?"
+Jødene spurte ham da: "Hvilket tegn kan du vise oss for å bevise din myndighet til å gjøre disse tingene?"
 
-## John 2:19
+## Johannes 2:19
 
-Jesus svarte: "Riv ned dette tempelet, så skal jeg reise det opp igjen på tre dager."
+Jesus svarte: "Riv ned dette tempelet, og på tre dager skal jeg reise det opp."
 
-## John 2:20
+## Johannes 2:20
 
 De svarte: "Det har tatt førtiseks år å bygge dette tempelet, og du vil reise det opp på tre dager?"
 
-## John 2:21
+## Johannes 2:21
 
-Men han talte om sitt legemes tempel.
+Men han refererte til tempelet i sin kropp.
 
-## John 2:22
+## Johannes 2:22
 
-Da han var oppstått fra de døde, husket hans disipler at han hadde sagt dette, og de trodde Skriften og de ord Jesus hadde sagt.
+Etter at han var oppstått fra de døde, husket hans disipler at han hadde sagt dette, og de trodde på Skriften og ordene Jesus hadde talt.
 
 ---
 
-## John 2:23
+## Johannes 2:23
 
-Mens han var i Jerusalem under påskefesten, så mange de tegnene han gjorde og trodde på hans navn.
+Mens han var i Jerusalem under påskefesten, så mange mennesker de tegnene han gjorde og trodde på hans navn.
 
-## John 2:24
+## Johannes 2:24
 
-Men Jesus betrodde seg ikke til dem, for han kjente alle.
+Men Jesus betrodde seg ikke til dem, for han kjente alle mennesker.
 
-## John 2:25
+## Johannes 2:25
 
-Han trengte ikke at noen skulle vitne om mennesket, for han visste selv hva som var i hvert menneske.
+Han trengte ikke at noen skulle vitne om menneskene, for han visste selv hva som var i hver enkelt.

@@ -12,15 +12,15 @@ Ved daggry viste Han seg igjen i tempelgårdene, hvor alle menneskene samlet seg
 
 ## Johannes 8:3
 
-De skriftlærde og fariseerne førte en kvinne grepet i hor og plasserte henne midt i gårdsplassen.
+De skriftlærde og fariseerne brakte en kvinne grepet i hor og plasserte henne midt i gårdsplassen.
 
 ## Johannes 8:4
 
-De sa til Ham, “Mester, denne kvinnen ble grepet på fersk gjerning i hor.
+De henvendte seg til Ham, “Lærer, denne kvinnen ble grepet i hor.
 
 ## Johannes 8:5
 
-I Loven befalte Moses oss å steine slike kvinner. Hva sier Du da?”
+I loven befalte Moses oss å steine slike kvinner. Hva sier Du da?”
 
 ## Johannes 8:6
 
@@ -36,7 +36,7 @@ Igjen bøyde Han seg ned og skrev på bakken.
 
 ## Johannes 8:9
 
-Da de hørte dette, begynte de å gå bort en etter en, fra de eldste først, til bare Jesus var igjen, med kvinnen stående der.
+Da de hørte dette, begynte de å gå bort en etter en, fra de eldste, til bare Jesus var igjen, med kvinnen stående der.
 
 ## Johannes 8:10
 
@@ -50,7 +50,7 @@ Da Jesus rettet seg opp, spurte Han henne, “Kvinne, hvor er de? Har ingen ford
 
 ## Johannes 8:12
 
-Jesus talte igjen til folket og sa, “Jeg er verdens lys. Den som følger Meg, skal ikke vandre i mørket, men ha livets lys.”
+Jesus talte igjen til folket og sa, “Jeg er verdens lys. Den som følger Meg skal ikke vandre i mørket, men ha livets lys.”
 
 ## Johannes 8:13
 
@@ -70,7 +70,7 @@ Men selv om Jeg dømmer, er Min dom sann, fordi Jeg ikke er alene; Jeg står med
 
 ## Johannes 8:17
 
-I deres Lov er det skrevet at vitnesbyrdet fra to vitner er sant.
+I deres lov er det skrevet at vitnesbyrdet fra to vitner er sant.
 
 ## Johannes 8:18
 
@@ -88,7 +88,7 @@ Han talte disse ordene mens Han underviste i tempelgårdene nær stedet hvor off
 
 ## Johannes 8:21
 
-Igjen sa Jesus til dem, “Jeg går bort, og dere vil lete etter Meg, og dere vil dø i deres synd. Dit Jeg går, kan dere ikke komme.”
+Igjen sa Jesus til dem, “Jeg går bort, og dere skal lete etter Meg, og dere skal dø i deres synd. Dit Jeg går, kan dere ikke komme.”
 
 ## Johannes 8:22
 
@@ -108,7 +108,7 @@ Jeg sa til dere at dere vil dø i deres synder; for hvis dere ikke tror at Jeg e
 
 ## Johannes 8:26
 
-“Jeg har mye å si i dom over dere. Men Han som sendte Meg er troverdig, og det Jeg har hørt fra Ham, forteller Jeg til verden.”
+“Jeg har mye å si i dom over dere. Men Han som sendte Meg er troverdig, og det Jeg har hørt fra Ham, forteller Jeg verden.”
 
 ## Johannes 8:27
 
@@ -116,11 +116,11 @@ De forsto ikke at Han talte til dem om Sin Far.
 
 ## Johannes 8:28
 
-Så Jesus sa, “Når Faderen har løftet opp Menneskesønnen, da skal dere vite og forstå at Jeg er Han - og at Jeg ikke gjør noe av Meg selv, men taler bare det Faderen har lært Meg.
+Så Jesus sa, “Når Faderen har løftet opp Menneskesønnen, da skal dere vite og forstå at Jeg er Han - og at Jeg ikke gjør noe på egen hånd, men taler bare det Faderen har lært Meg.
 
 ## Johannes 8:29
 
-Han som sendte Meg er med Meg; Han har ikke latt Meg være alene, for Jeg gjør alltid det som er til behag for Ham.”
+Han som sendte Meg er med Meg; Han har ikke latt Meg være alene, for Jeg gjør alltid det som behager Ham.”
 
 ## Johannes 8:30
 
@@ -130,7 +130,7 @@ Mens Han talte, kom mange til å tro på Ham.
 
 ## Johannes 8:31
 
-Til jødene som hadde trodd på Ham, sa Jesus, “Hvis dere holder fast ved Min lære, er dere virkelig Mine disipler.
+Til de jødene som hadde trodd Ham, sa Jesus, “Hvis dere holder fast ved Min lære, er dere virkelig Mine disipler.
 
 ## Johannes 8:32
 
@@ -138,11 +138,11 @@ Da skal dere kjenne sannheten, og sannheten skal sette dere fri.”
 
 ## Johannes 8:33
 
-De svarte, “Vi er Abrahams etterkommere og har aldri vært slaver av noen. Hvordan kan Du si at vi skal bli satt fri?”
+De svarte, “Vi er Abrahams etterkommere og har aldri vært slaver under noen. Hvordan kan Du si at vi skal bli satt fri?”
 
 ## Johannes 8:34
 
-Jesus svarte, “Sannelig, sannelig sier Jeg dere, hver den som synder er en slave av synden.
+Jesus svarte, “Sannelig, sannelig sier Jeg dere, enhver som synder er en slave av synd.
 
 ## Johannes 8:35
 
@@ -154,7 +154,7 @@ Så hvis Sønnen frigjør dere, vil dere virkelig være fri.
 
 ## Johannes 8:37
 
-Jeg vet at dere er Abrahams etterkommere. Likevel søker dere å drepe Meg, fordi Mitt ord ikke har plass i dere.
+Jeg vet at dere er Abrahams etterkommere. Likevel søker dere å drepe Meg, fordi Mitt ord ikke har noen plass i dere.
 
 ## Johannes 8:38
 
@@ -188,21 +188,21 @@ Dere tilhører deres far, djevelen, og dere ønsker å utføre deres fars ønske
 
 ## Johannes 8:45
 
-Men fordi Jeg taler sannheten, tror dere Meg ikke!
+Men fordi Jeg taler sannheten, tror dere ikke på Meg!
 
 ## Johannes 8:46
 
-Kan noen av dere bevise at Jeg er skyldig i synd? Hvis Jeg taler sannheten, hvorfor tror dere Meg ikke?
+Kan noen av dere bevise at Jeg er skyldig i synd? Hvis Jeg taler sannheten, hvorfor tror dere ikke på Meg?
 
 ## Johannes 8:47
 
-Den som er av Gud, hører Guds ord. Grunnen til at dere ikke hører, er at dere ikke er av Gud.”
+Den som er av Gud hører Guds ord. Grunnen til at dere ikke hører, er at dere ikke er av Gud.”
 
 ---
 
 ## Johannes 8:48
 
-Jødene svarte Ham, “Har vi ikke rett når vi sier at du er en samaritan og har en demon?”
+Jødene svarte Ham, “Har vi ikke rett når vi sier at Du er en samaritan og har en demon?”
 
 ## Johannes 8:49
 
@@ -214,15 +214,15 @@ Men Jeg søker ikke Min egen ære; for det er en som søker den, og Han er domme
 
 ## Johannes 8:51
 
-Sannelig, sannelig sier Jeg dere, den som adlyder Mitt ord, skal aldri se døden.”
+Sannelig, sannelig sier Jeg dere, den som adlyder Mitt ord skal aldri se døden.”
 
 ## Johannes 8:52
 
-Da utbrøt de, “Nå vet vi at du har en demon! Abraham døde, og det gjorde også profetene, men du sier at den som adlyder ditt ord, aldri skal smake døden.
+Da utbrøt de, “Nå vet vi at Du har en demon! Abraham døde, og det gjorde også profetene, men Du sier at den som adlyder Ditt ord aldri skal smake døden.
 
 ## Johannes 8:53
 
-Er du viktigere enn vår far Abraham? Selv han døde, og det gjorde alle profetene. Så hvem utgir du deg for å være?”
+Er Du viktigere enn vår far Abraham? Selv han døde, og det gjorde alle profetene. Så hvem hevder Du å være?”
 
 ## Johannes 8:54
 
@@ -230,7 +230,7 @@ Jesus svarte, “Hvis Jeg ærer Meg selv, betyr Min ære ingenting. Det er Min F
 
 ## Johannes 8:55
 
-Selv om dere ikke kjenner Ham, kjenner Jeg Ham. Hvis Jeg sa at Jeg ikke gjorde det, ville Jeg være usannferdig som dere, men Jeg kjenner Ham og adlyder Hans ord.
+Selv om dere ikke kjenner Ham, kjenner Jeg Ham. Hvis Jeg sa at Jeg ikke gjorde det, ville Jeg være uærlig som dere, men Jeg kjenner Ham og adlyder Hans ord.
 
 ## Johannes 8:56
 
@@ -238,7 +238,7 @@ Deres far Abraham gledet seg over utsikten til å se Min dag; han så den og var
 
 ## Johannes 8:57
 
-“Du er ikke engang femti år gammel,” sa de til Ham, “og du sier at du har sett Abraham!”
+“Du er ikke engang femti år gammel,” sa de til Ham, “og sier Du har sett Abraham!”
 
 ## Johannes 8:58
 
@@ -246,4 +246,4 @@ Deres far Abraham gledet seg over utsikten til å se Min dag; han så den og var
 
 ## Johannes 8:59
 
-Da tok de opp steiner for å kaste på Ham, men Jesus gjemte seg og forlot tempelområdet.
+Da tok de opp steiner for å kaste på Ham, men Jesus skjulte seg og forlot tempelområdet.

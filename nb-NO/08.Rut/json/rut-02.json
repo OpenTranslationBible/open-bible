@@ -1,10 +1,148 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Ruth Kapittel",
+    "chapter": 2,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/08.Ruth\/md\/ruth-2.md"
+                "Nå hadde Noomi en slektning på sin manns side, en mann med stor rikdom fra Elimeleks familie, som het Boas."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Og Rut moabittinnen sa til Noomi: «La meg gå ut på markene og sanke aks etter en i hvis øyne jeg kan finne nåde.» Noomi svarte: «Gå, min datter.»"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Så gikk hun ut, kom til en mark og begynte å sanke bak høstfolkene. Ved en tilfeldighet fant hun seg selv arbeide på en del av marken som tilhørte Boas, som var av Elimeleks familie."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Akkurat da kom Boas fra Betlehem og sa til høstfolkene: «Herren være med dere.» Og de svarte: «Herren velsigne deg.»"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Boas spurte sin oppsynsmann over høstfolkene: «Hvem tilhører denne unge kvinnen?»"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Oppsynsmannen svarte: «Hun er den unge moabittkvinnen som kom tilbake med Noomi fra Moabs land."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Hun spurte: ‘La meg få sanke og samle blant kornbåndene etter høstfolkene.’ Hun har vært her fra morgen til nå, bortsett fra en kort hvile i skjulet.»"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Da sa Boas til Rut: «Hør nøye etter, min datter. Gå ikke og sank på en annen mark, og gå ikke bort herfra. Hold deg nær mine unge kvinner."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Hold øye med marken de høster, og følg etter dem. Jeg har instruert de unge mennene om ikke å røre deg. Når du er tørst, gå og drikk av vannkrukkene som de unge mennene har fylt.»"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Da falt hun på sitt ansikt, bøyde seg til jorden og sa til ham: «Hvorfor har jeg funnet nåde i dine øyne, slik at du legger merke til meg, siden jeg er en fremmed?»"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Boas svarte: «Jeg har blitt fullt informert om alt du har gjort for din svigermor siden din manns død—hvordan du forlot din far og mor og ditt fødeland, og kom til et folk du ikke kjente før."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Måtte Herren belønne deg for dine gjerninger. Måtte du motta en full belønning fra Herren, Israels Gud, under hvis vinger du har søkt tilflukt.»"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Da sa hun: «Jeg har funnet nåde i dine øyne, min herre, for du har trøstet meg og talt vennlig til din tjener, selv om jeg ikke er som en av dine tjenestepiker.»"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Ved måltidet sa Boas til henne: «Kom hit og spis litt brød og dypp stykket ditt i eddiken.» Så satte hun seg ved siden av høstfolkene, og han tilbød henne ristet korn. Hun spiste til hun var mett og hadde noe til overs."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Da hun reiste seg for å sanke, instruerte Boas sine unge menn: «La henne sanke selv blant kornbåndene, og ikke fornærm henne."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Dra også ut noen strå for henne fra buntene og la dem ligge for henne å sanke, og irettesett henne ikke.»"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Rut fortsatte å sanke på marken til kvelden. Etterpå tresket hun bygget hun hadde samlet, som utgjorde omtrent en efa."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Hun bar det tilbake til byen, og hennes svigermor så hvor mye hun hadde sanket. Rut tok også frem og ga henne det hun hadde til overs etter at hun hadde spist nok."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Hennes svigermor spurte henne: «Hvor har du sanket i dag? Hvor har du arbeidet? Velsignet være den mannen som la merke til deg!» Så fortalte hun sin svigermor om mannen på hvis sted hun hadde arbeidet. «Navnet på mannen jeg arbeidet med i dag er Boas,» sa hun."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Noomi sa til sin svigerdatter: «Måtte han bli velsignet av Herren, som ikke har trukket sin godhet tilbake fra de levende og de døde.» Hun la til: «Den mannen er vår nære slektning; han er en av våre løsnere.»"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Da sa Rut moabittinnen: «Han sa til meg også: ‘Hold deg nær mine tjenere til de har fullført hele min innhøsting.’»"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Og Noomi sa til Rut, sin svigerdatter: «Det er godt, min datter, at du går ut med hans unge kvinner, så du ikke blir skadet på en annen mark.»"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Så holdt Rut seg nær de unge kvinnene til Boas for å sanke til slutten av bygg- og hvetehøsten. Og hun bodde med sin svigermor."
             ]
         }
     ]

@@ -1,10 +1,57 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 128,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-128.md"
+                "En sang ved festreisene."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Salig er hver den som frykter Herren,",
+                "> Som vandrer på hans veier."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Du skal spise frukten av dine henders arbeid;",
+                "> Du skal være lykkelig, og det skal gå deg vel."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Din hustru skal være som en fruktbar vintre innenfor ditt hjem,",
+                "> Dine barn som unge olivenskudd rundt ditt bord."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Se, slik skal en mann",
+                "> Som frykter Herren bli velsignet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Måtte Herren velsigne deg fra Sion,",
+                "> Og måtte du se Jerusalems velstand alle dine levedager."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Ja, måtte du se dine etterkommere.",
+                "> Fred være over Israel!"
             ]
         }
     ]

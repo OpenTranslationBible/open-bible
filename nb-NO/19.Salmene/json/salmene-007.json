@@ -1,10 +1,158 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 7,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-007.md"
+                "En Shiggaion av David, som han sang til Herren angående Kusj, en benjaminit."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Herre min Gud, hos deg har jeg tatt tilflukt;",
+                "> Frels meg fra alle som forfølger meg, og redd meg,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Ellers vil han rive min sjel som en løve,",
+                "> Dra meg bort, mens det ikke er noen som redder."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Herre min Gud, hvis jeg har gjort dette,",
+                "> Hvis det er urettferdighet i mine hender,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Hvis jeg har gjort ondt mot min allierte,",
+                "> Eller har plyndret min fiende uten grunn,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> La fienden forfølge min sjel og innhente den;",
+                "> Og la ham tråkke mitt liv til jorden",
+                "> Og legge min ære i støvet.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Reis deg, Herre, i din vrede;",
+                "> Stå mot mine fienders raseri,",
+                "> Og våkn for meg;",
+                "> Du har utnevnt dom."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> La folkets forsamling omringe deg,",
+                "> Og vend tilbake til din plass i det høye."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Herren dømmer folkene;",
+                "> Døm meg, Herre, etter min rettferdighet og den integriteten som er i meg."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> La de ondes ondskap ta slutt, men etabler de rettferdige;",
+                "> For den rettferdige Gud undersøker hjerter og sinn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Min beskyttelse er hos Gud,",
+                "> Som redder dem som er oppriktige av hjertet."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Gud er en rettferdig dommer,",
+                "> Og en Gud som uttrykker misnøye hver dag."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Hvis man ikke omvender seg, vil han skjerpe sitt sverd;",
+                "> Han har spent sin bue og gjort den klar."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Han har også forberedt sine dødelige våpen;",
+                "> Han gjør sine piler til brennende skaft."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Se, en ond person er fylt med urettferdighet,",
+                "> Og han unnfanger skade og føder løgn."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Han har gravd en grop og gjort den dyp,",
+                "> Og har falt i hullet han skapte."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Hans skade vil vende tilbake på hans eget hode,",
+                "> Og hans vold vil komme ned på hans egen krone."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Jeg vil takke Herren for hans rettferdighet",
+                "> Og vil synge lovsang til navnet til Herren Den Høyeste."
             ]
         }
     ]

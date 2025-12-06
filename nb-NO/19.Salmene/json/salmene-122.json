@@ -1,10 +1,84 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 122,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-122.md"
+                "En sang ved festreisene. Av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Jeg gledet meg da de sa til meg,",
+                "> “La oss gå til Herrens bolig.”"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Våre føtter står nå",
+                "> Innenfor dine porter, Jerusalem,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Jerusalem, som er bygd",
+                "> Som en by som er tett sammenføyd;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Dit stammer stiger opp, Herrens stammer—",
+                "> En forordning for Israel—",
+                "> For å takke Herrens navn."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> For dommerseter ble opprettet der,",
+                "> Setene til Davids hus."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Be om fred for Jerusalem:",
+                "> “Må de som elsker deg finne trygghet."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Må det være ro innenfor dine murer,",
+                "> Og velstand innenfor dine palasser.”"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> For mine brødres og venners skyld,",
+                "> Vil jeg nå si, “Må det være ro innenfor deg.”"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> For Herrens, vår Guds, hus skyld,",
+                "> Vil jeg søke ditt beste."
             ]
         }
     ]

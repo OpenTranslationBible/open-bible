@@ -10,55 +10,55 @@ Under kveldsmåltidet hadde djevelen allerede lagt inn i hjertet til Judas Iskar
 
 ## Johannes 13:3
 
-Jesus, klar over at Faderen hadde gitt alt i hans hender, og at han var kommet fra Gud og vendte tilbake til Gud,
+Jesus, som visste at Faderen hadde gitt alt i hans hender, og at han var kommet fra Gud og skulle gå tilbake til Gud,
 
 ## Johannes 13:4
 
-reiste seg fra måltidet, la av seg sine ytterklær, og tok et håndkle og bandt det rundt livet.
+reiste seg fra måltidet, la av seg ytterklærne og tok et håndkle og bandt det rundt livet.
 
 ## Johannes 13:5
 
-Deretter helte han vann i et fat og begynte å vaske disiplenes føtter, og tørket dem med håndkleet som var rundt ham.
+Deretter helte han vann i et fat og begynte å vaske disiplenes føtter og tørket dem med håndkleet som var bundet rundt ham.
 
 ---
 
 ## Johannes 13:6
 
-Han kom til Simon Peter, som spurte ham: «Herre, har du tenkt å vaske mine føtter?»
+Han kom til Simon Peter, som spurte ham: "Herre, har du tenkt å vaske mine føtter?"
 
 ## Johannes 13:7
 
-Jesus svarte: «Du forstår ikke nå hva jeg gjør, men du skal forstå det senere.»
+Jesus svarte: "Du forstår ikke nå hva jeg gjør, men du skal forstå det senere."
 
 ## Johannes 13:8
 
-Peter sa til ham: «Du skal aldri vaske mine føtter!» Jesus svarte: «Hvis jeg ikke vasker deg, har du ingen del med meg.»
+Peter sa til ham: "Du skal aldri vaske mine føtter!" Jesus svarte: "Hvis jeg ikke vasker deg, har du ingen del med meg."
 
 ## Johannes 13:9
 
-Simon Peter sa til ham: «Herre, vask ikke bare mine føtter, men også mine hender og mitt hode!»
+Simon Peter sa til ham: "Herre, vask ikke bare mine føtter, men også mine hender og mitt hode!"
 
 ## Johannes 13:10
 
-Jesus sa: «Den som har badet, trenger bare å vaske føttene; han er helt ren. Og dere er rene, men ikke alle.»
+Jesus sa: "Den som har badet, trenger bare å vaske føttene; han er helt ren. Og dere er rene, men ikke alle."
 
 ## Johannes 13:11
 
-For han visste hvem som kom til å forråde ham; derfor sa han: «Ikke alle av dere er rene.»
+For han visste hvem som skulle forråde ham; derfor sa han: "Ikke alle av dere er rene."
 
 ---
 
 ## Johannes 13:12
 
-Etter å ha vasket føttene deres, tok han på seg klærne og satte seg ved bordet igjen. Han sa til dem: «Forstår dere hva jeg har gjort for dere?
+Etter å ha vasket føttene deres, tok han på seg klærne og satte seg ved bordet igjen. Han sa til dem: "Forstår dere hva jeg har gjort for dere?
 
 ## Johannes 13:13
 
-Dere kaller meg ‘Lærer’ og ‘Herre’, og dere har rett, for det er det jeg er.
+Dere kaller meg ‘Mester’ og ‘Herre’, og dere har rett, for det er det jeg er.
 
 ## Johannes 13:14
 
-Hvis jeg, deres Herre og Lærer, har vasket deres føtter, bør også dere vaske hverandres føtter.
+Hvis jeg, deres Herre og Mester, har vasket deres føtter, bør også dere vaske hverandres føtter.
 
 ## Johannes 13:15
 
@@ -70,7 +70,7 @@ Sannelig, sannelig sier jeg dere, ingen tjener er større enn sin herre, og inge
 
 ## Johannes 13:17
 
-Hvis dere vet dette, vil dere bli velsignet når dere gjør det.
+Hvis dere vet dette, vil dere være velsignet når dere gjør det.
 
 ---
 
@@ -84,13 +84,13 @@ Jeg sier dere dette nå før det skjer, så når det skjer, kan dere tro at jeg 
 
 ## Johannes 13:20
 
-Sannelig, sannelig sier jeg dere, den som tar imot noen jeg sender, tar imot meg; og den som tar imot meg, tar imot ham som har sendt meg.»
+Sannelig, sannelig sier jeg dere, den som tar imot noen jeg sender, tar imot meg; og den som tar imot meg, tar imot ham som har sendt meg."
 
 ---
 
 ## Johannes 13:21
 
-Etter å ha sagt dette, ble Jesus urolig i ånden og vitnet: «Sannelig, sannelig sier jeg dere, en av dere vil forråde meg.»
+Etter å ha sagt dette, ble Jesus opprørt i ånden og vitnet: "Sannelig, sannelig sier jeg dere, en av dere vil forråde meg."
 
 ## Johannes 13:22
 
@@ -98,31 +98,31 @@ Disiplene så på hverandre, usikre på hvem han mente.
 
 ## Johannes 13:23
 
-En av hans disipler, han som Jesus elsket, lente seg mot ham.
+En av hans disipler, han som Jesus elsket, lå ved siden av ham.
 
 ## Johannes 13:24
 
-Simon Peter vinket til denne disippelen og sa: «Spør ham hvem det er han mener.»
+Simon Peter vinket til denne disippelen og sa: "Spør ham hvem det er han mener."
 
 ## Johannes 13:25
 
-Han lente seg tilbake mot Jesus og spurte: «Herre, hvem er det?»
+Han lente seg tilbake mot Jesus og spurte: "Herre, hvem er det?"
 
 ## Johannes 13:26
 
-Jesus svarte: «Det er den som jeg vil gi dette brødstykket etter at jeg har dyppet det.» Så, etter å ha dyppet brødstykket, ga han det til Judas, Simons sønn Iskariot.
+Jesus svarte: "Det er den jeg gir dette brødstykket etter at jeg har dyppet det." Deretter, etter å ha dyppet brødstykket, ga han det til Judas, Simons sønn Iskariot.
 
 ## Johannes 13:27
 
-Etter at Judas tok brødet, kom Satan inn i ham. Jesus sa til ham: «Det du skal gjøre, gjør det snart.»
+Etter at Judas hadde tatt brødet, kom Satan inn i ham. Jesus sa til ham: "Det du gjør, gjør det raskt."
 
 ## Johannes 13:28
 
-Ingen av dem ved måltidet forstod hvorfor han sa dette til ham.
+Ingen av dem ved måltidet forsto hvorfor han sa dette til ham.
 
 ## Johannes 13:29
 
-Noen trodde at, siden Judas hadde pengekassen, sa Jesus til ham å kjøpe det som trengtes til høytiden, eller å gi noe til de fattige.
+Noen trodde at, siden Judas hadde pengevesken, sa Jesus til ham å kjøpe det som trengtes til høytiden, eller å gi noe til de fattige.
 
 ## Johannes 13:30
 
@@ -132,7 +132,7 @@ Etter å ha mottatt brødstykket, gikk Judas straks ut. Og det var natt.
 
 ## Johannes 13:31
 
-Etter at han hadde gått ut, sa Jesus: «Nå er Menneskesønnen herliggjort, og Gud er herliggjort i ham.
+Etter at han hadde gått ut, sa Jesus: "Nå er Menneskesønnen herliggjort, og Gud er herliggjort i ham.
 
 ## Johannes 13:32
 
@@ -140,26 +140,26 @@ Hvis Gud er æret i ham, vil Gud også ære ham i seg selv, og vil gjøre det st
 
 ## Johannes 13:33
 
-Små barn, jeg er med dere bare en liten stund til. Dere vil lete etter meg, og som jeg sa til jødene, sier jeg nå til dere: Der jeg går, kan dere ikke komme.
+Små barn, jeg er hos dere bare en liten stund til. Dere vil lete etter meg, og slik jeg sa til jødene, sier jeg nå til dere: Der jeg går, kan dere ikke komme.
 
 ## Johannes 13:34
 
-Et nytt bud gir jeg dere: Elsk hverandre. Som jeg har elsket dere, skal dere også elske hverandre.
+Et nytt bud gir jeg dere: Elsk hverandre. Som jeg har elsket dere, skal dere elske hverandre.
 
 ## Johannes 13:35
 
-Det er ved dette alle vil vite at dere er mine disipler: at dere har kjærlighet til hverandre.»
+Det er ved dette, derfor, at alle vil vite at dere er mine disipler: at dere har kjærlighet til hverandre."
 
 ---
 
 ## Johannes 13:36
 
-Simon Peter sa til ham: «Herre, hvor går du?» Jesus svarte: «Der jeg går, kan du ikke følge meg nå, men du skal følge senere.»
+Simon Peter sa til ham: "Herre, hvor går du?" Jesus svarte: "Der jeg går, kan du ikke følge meg nå, men du skal følge senere."
 
 ## Johannes 13:37
 
-Peter sa til ham: «Herre, hvorfor kan jeg ikke følge deg nå? Jeg vil gi mitt liv for deg.»
+Peter sa til ham: "Herre, hvorfor kan jeg ikke følge deg nå? Jeg vil gi mitt liv for deg."
 
 ## Johannes 13:38
 
-Jesus svarte: «Vil du virkelig gi ditt liv for meg? Sannelig, sannelig sier jeg deg, før hanen galer, vil du fornekte meg tre ganger.»
+Jesus svarte: "Vil du virkelig gi ditt liv for meg? Sannelig, sannelig sier jeg deg, før hanen galer, vil du fornekte meg tre ganger."

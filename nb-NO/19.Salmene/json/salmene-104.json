@@ -1,10 +1,299 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 104,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-104.md"
+                "> Velsign Herren, min sjel!",
+                "> Herre min Gud, Du er meget stor;",
+                "> Du er kledd i prakt og majestet,"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Du hyller Deg i lys som i et kledebon,",
+                "> Du spenner ut himmelen som et telt."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Han bygger sine høye saler på vannene;",
+                "> Han bruker skyene som sin vogn;",
+                "> Han farer på vindens vinger;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Han gjør vindene til sine budbringere,",
+                "> Flammende ild til sine tjenere."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Han grunnla jorden på dens faste grunnvoll,",
+                "> Så den ikke skal rokkes i all evighet."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Du dekket den med dypet som med et klede;",
+                "> Vannene sto over fjellene."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Ved Din trussel flyktet de,",
+                "> Ved lyden av Din torden hastet de bort."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Fjellene steg opp, dalene sank ned",
+                "> Til det sted Du hadde fastsatt for dem."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Du satte en grense som de ikke skal overskride,",
+                "> Så de ikke skal vende tilbake for å oversvømme jorden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Han sender kilder ut i dalene;",
+                "> De renner mellom fjellene;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> De gir drikke til hvert dyr på marken;",
+                "> Ville esler slukker sin tørst."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Ved dem bor himmelens fugler;",
+                "> De synger blant grenene."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Han vanner fjellene fra sine høye saler;",
+                "> Jorden mettes med frukten av Hans verk."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Han lar gresset gro for buskapen,",
+                "> Og planter til menneskets nytte,",
+                "> Så de kan frembringe mat fra jorden,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Og vin, som gleder menneskets hjerte,",
+                "> Så ansiktet skinner av olje,",
+                "> Og mat, som styrker menneskets hjerte."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Herrens trær er godt vannet,",
+                "> Libanons sedrer som Han plantet,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Der fuglene bygger sine reder,",
+                "> Og storken, som har sitt hjem i furutrærne."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> De høye fjellene er for villgeitene;",
+                "> Klippene er tilflukt for fjellgrevlingen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Han skapte månen til å fastsette tider;",
+                "> Solen vet hvor den skal gå ned."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Du bringer mørke, og det blir natt,",
+                "> Da rører alle skogens dyr seg."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> De unge løvene brøler etter bytte,",
+                "> Og søker sin føde fra Gud."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Når solen står opp, trekker de seg tilbake,",
+                "> Og legger seg i sine huler."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Et menneske går ut til sitt arbeid",
+                "> Og til sin gjerning til kvelden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Herre, hvor mange er Dine verk!",
+                "> I visdom har Du skapt dem alle;",
+                "> Jorden er full av Dine skapninger."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Dette er havet, stort og vidt,",
+                "> Der det vrimler av utallige skapninger,",
+                "> Både små og store vesener."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Skipene seiler der,",
+                "> Og Leviatan, som Du har formet til å leke i det."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> De venter alle på Deg",
+                "> At Du skal gi dem mat i rette tid."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Du gir dem, de samler;",
+                "> Du åpner Din hånd, de mettes med gode ting."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Du skjuler Ditt ansikt, de forferdes;",
+                "> Du tar bort deres åndedrag, de dør",
+                "> Og vender tilbake til sitt støv."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Du sender ut Din Ånd, de blir til;",
+                "> Og Du fornyer jordens overflate."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Måtte Herrens herlighet vare evig;",
+                "> Måtte Herren glede seg over sine verk;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Han ser på jorden, og den skjelver;",
+                "> Han rører ved fjellene, og de ryker."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Jeg vil synge for Herren så lenge jeg lever;",
+                "> Jeg vil lovsynge min Gud så lenge jeg er til."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Måtte min meditasjon være til glede for Ham;",
+                "> Jeg skal glede meg i Herren."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Måtte syndere forsvinne fra jorden",
+                "> Og de ugudelige ikke mer finnes.",
+                "> Velsign Herren, min sjel.",
+                "> Pris Herren!"
             ]
         }
     ]

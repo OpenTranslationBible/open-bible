@@ -1,10 +1,167 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Jakob Kapittel",
+    "chapter": 1,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/59.James\/md\/james-1.md"
+                "Jakob, en tjener av Gud og av Herren Jesus Kristus, til de tolv stammer som er spredt blant nasjonene: Hilsen."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Anse det som bare glede, mine brødre og søstre, når dere møter forskjellige prøvelser,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "for dere forstår at prøvingen av deres tro skaper utholdenhet."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "La utholdenheten ha sin fullkomne virkning, så dere kan være modne og komplette, uten å mangle noe."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Hvis noen av dere mangler visdom, la dem be til Gud, som gir rikelig til alle uten bebreidelse, og det vil bli gitt dem."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Men dere må be i tro, uten å tvile, for den som tviler er som en bølge på havet, drevet og kastet av vinden."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Slike individer bør ikke forvente å motta noe fra Herren."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "De er tvesinnede og ustabile i alle sine veier."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Troende i ydmyke omstendigheter bør være stolte av sin høye posisjon;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "men de rike bør være stolte av sin ydmykelse, siden de vil visne bort som en vill blomst."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "For solen stiger opp med brennende hete og visner gresset; blomsten faller og dens skjønnhet ødelegges. På samme måte vil de rike forsvinne mens de driver med sine gjøremål."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Salig er den som holder ut under prøvelse; for etter å ha bestått prøven, vil de motta livets krone som Herren har lovet til dem som elsker Ham."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Når noen blir fristet, skal ingen si: \"Jeg blir fristet av Gud.\" For Gud kan ikke fristes av det onde, og Han frister heller ingen;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "men hver person blir fristet når de blir dratt bort og lokket av sitt eget onde begjær."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Deretter, når begjæret har unnfanget, føder det synd; og synden, når den er fullvoksen, bringer død."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "La dere ikke lede vill, mine kjære brødre og søstre."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Hver god og fullkommen gave er ovenfra, nedstigende fra himmellysenes Far, som forblir konstant og uforanderlig."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Ved sin egen vilje brakte Han oss frem gjennom sannhetens ord, så vi kunne være en slags førstegrøder av alt Han skapte."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Mine elskede brødre og søstre, merk dere dette: Alle bør være raske til å lytte, sene til å tale, og sene til å bli sinte;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "for menneskelig vrede oppnår ikke den rettferdigheten som Gud ønsker."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Derfor, kvitt dere med all moralsk urenhet og det onde som er så utbredt, og ta ydmykt imot ordet plantet i dere, som kan frelse deres sjeler."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Vær ikke bare hørere av ordet, og dermed bedra dere selv. Vær ordets gjørere."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Den som hører ordet men ikke gjør det, er som en som ser på sitt ansikt i et speil"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "og, etter å ha sett på seg selv, går bort og glemmer straks hvordan de ser ut."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Men den som ser nøye inn i den fullkomne lov som gir frihet, og fortsetter i den—ikke glemmer hva de har hørt, men gjør det—vil finne velsignelse i sine handlinger."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "De som anser seg selv som religiøse og likevel ikke holder et stramt grep om sin tunge, bedrar seg selv, og deres religion er uten verdi."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Religion som Gud vår Far aksepterer som ren og feilfri er denne: å ta seg av foreldreløse og enker i deres nød og å holde seg selv uforurenset av verden."
             ]
         }
     ]

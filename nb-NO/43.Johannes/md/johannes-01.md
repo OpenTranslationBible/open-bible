@@ -38,7 +38,7 @@ Han selv var ikke lyset; han kom bare for å vitne om lyset.
 
 ## Johannes 1:9
 
-Det sanne lys som gir lys til hvert menneske var i ferd med å komme inn i verden.
+Det sanne lys som gir lys til hvert menneske, var i ferd med å komme inn i verden.
 
 ## Johannes 1:10
 
@@ -60,11 +60,11 @@ barn født ikke av naturlig avstamning, heller ikke av menneskelig beslutning el
 
 ## Johannes 1:14
 
-Ordet ble kjød og tok bolig blant oss. Vi har sett hans herlighet, herligheten som den enbårne Sønn, som kom fra Faderen, full av nåde og sannhet.
+Ordet ble kjød og tok bolig blant oss. Vi har sett hans herlighet, herligheten til den enbårne Sønn, som kom fra Faderen, full av nåde og sannhet.
 
 ## Johannes 1:15
 
-Johannes vitnet om ham. Han ropte ut og sa: “Dette er han som jeg sa, ‘Han som kommer etter meg har gått forbi meg fordi han var før meg.’”
+Johannes vitnet om ham. Han ropte ut og sa: “Dette er han som jeg sa, ‘Han som kommer etter meg har overgått meg fordi han var før meg.’”
 
 ## Johannes 1:16
 
@@ -98,13 +98,13 @@ Til slutt sa de, “Hvem er du? Gi oss et svar å ta med tilbake til dem som sen
 
 ## Johannes 1:23
 
-Johannes svarte med ordene fra profeten Jesaja, “Jeg er røsten av en som roper i ørkenen: ‘Gjør Herrens vei klar’”
+Johannes svarte med ordene til profeten Jesaja, “Jeg er stemmen til en som roper i ørkenen: ‘Gjør Herrens vei klar’”
 
 ---
 
 ## Johannes 1:24
 
-Nå var det sendt bud fra fariseerne for å spørre Johannes.
+Nå hadde utsendinger blitt sendt fra fariseerne for å spørre Johannes.
 
 ## Johannes 1:25
 
@@ -116,7 +116,7 @@ Johannes svarte, “Jeg døper med vann, men blant dere står en dere ikke kjenn
 
 ## Johannes 1:27
 
-Han er den som kommer etter meg, hvis sandaler jeg ikke er verdig til å løse.”
+Han er den som kommer etter meg, hvis sandaler jeg ikke er verdig å løse.”
 
 ## Johannes 1:28
 
@@ -130,7 +130,7 @@ Dagen etter så Johannes Jesus komme mot seg og sa, “Se, Guds Lam, som tar bor
 
 ## Johannes 1:30
 
-Dette er han jeg siktet til da jeg sa, ‘Etter meg kommer en mann som går forbi meg, fordi han eksisterte før meg.’
+Dette er han jeg siktet til da jeg sa, ‘Etter meg kommer en mann som overgår meg, fordi han eksisterte før meg.’
 
 ## Johannes 1:31
 
@@ -138,21 +138,21 @@ Jeg selv kjente ham ikke, men grunnen til at jeg kom og døpte med vann var at h
 
 ## Johannes 1:32
 
-Så ga Johannes dette vitnesbyrdet: “Jeg så Ånden stige ned fra himmelen som en due og bli over ham.
+Da ga Johannes dette vitnesbyrdet: “Jeg så Ånden stige ned fra himmelen som en due og forbli over ham.
 
 ## Johannes 1:33
 
-Og jeg selv kjente ham ikke, men han som sendte meg for å døpe med vann sa til meg, ‘Den mann du ser Ånden stige ned og bli over er den som skal døpe med Den Hellige Ånd.’
+Og jeg selv kjente ham ikke, men han som sendte meg for å døpe med vann sa til meg, ‘Den mann du ser Ånden stige ned og forbli over, er den som skal døpe med Den Hellige Ånd.’
 
 ## Johannes 1:34
 
-Jeg har sett og jeg vitner om at dette er Guds Sønn.”
+Jeg har sett, og jeg vitner om at dette er Guds Sønn.”
 
 ---
 
 ## Johannes 1:35
 
-Neste dag var Johannes der igjen med to av sine disipler.
+Dagen etter var Johannes igjen til stede med to av sine disipler.
 
 ## Johannes 1:36
 
@@ -164,7 +164,7 @@ Da de to disiplene hørte dette, fulgte de Jesus.
 
 ## Johannes 1:38
 
-Da Jesus snudde seg og så dem følge etter, spurte han, “Hva søker dere?” De sa, “Rabbi” (som betyr Lærer), “hvor bor du?”
+Jesus snudde seg, så dem følge og spurte, “Hva søker dere?” De sa, “Rabbi” (som betyr Lærer), “hvor bor du?”
 
 ## Johannes 1:39
 
@@ -176,11 +176,11 @@ Andreas, Simon Peters bror, var en av de to som hørte hva Johannes hadde sagt o
 
 ## Johannes 1:41
 
-Det første Andreas gjorde var å finne sin bror Simon og fortelle ham, “Vi har funnet Messias” (som oversettes som Kristus).
+Det første Andreas gjorde var å finne sin bror Simon og si til ham, “Vi har funnet Messias” (som oversettes som Kristus).
 
 ## Johannes 1:42
 
-Han tok ham med til Jesus. Jesus så på ham og sa, “Du er Simon, Johannes’ sønn. Du skal kalles Kefas” (som, når det oversettes, er Peter).
+Han førte ham til Jesus. Jesus så på ham og sa, “Du er Simon, sønn av Johannes. Du skal kalles Kefas” (som, når det oversettes, er Peter).
 
 ---
 
@@ -194,7 +194,7 @@ Filip, som Andreas og Peter, kom fra byen Betsaida.
 
 ## Johannes 1:45
 
-Filip fant Natanael og informerte ham, “Vi har funnet ham som Moses skrev om i Loven, og som også profetene talte om—Jesus fra Nasaret, Josefs sønn.”
+Filip fant Natanael og informerte ham, “Vi har funnet ham som Moses skrev om i Loven, og som også profetene talte om—Jesus fra Nasaret, sønn av Josef.”
 
 ## Johannes 1:46
 
@@ -202,7 +202,7 @@ Filip fant Natanael og informerte ham, “Vi har funnet ham som Moses skrev om i
 
 ## Johannes 1:47
 
-Da Jesus så Natanael nærme seg, bemerket han, “Her er virkelig en israelitt i hvem det ikke er svik.”
+Da Jesus så Natanael komme, sa han, “Her er virkelig en israelitt i hvem det ikke er svik.”
 
 ## Johannes 1:48
 
@@ -214,8 +214,8 @@ Da erklærte Natanael, “Rabbi, du er Guds Sønn; du er Israels konge.”
 
 ## Johannes 1:50
 
-Jesus sa, “Du tror fordi jeg sa at jeg så deg under fikentreet. Du skal få se større ting enn det.”
+Jesus sa, “Du tror fordi jeg sa til deg at jeg så deg under fikentreet. Du skal få se større ting enn det.”
 
 ## Johannes 1:51
 
-Han la så til, “Sannelig, sannelig, jeg sier dere, dere skal se himmelen åpne seg, og Guds engler stige opp og ned over Menneskesønnen.”
+Han la deretter til, “Sannelig, sannelig, sier jeg dere, dere skal se himmelen åpen, og Guds engler stige opp og stige ned over Menneskesønnen.”

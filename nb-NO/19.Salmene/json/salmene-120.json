@@ -1,10 +1,69 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 120,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-120.md"
+                "En sang ved festreisene."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> I min nød ropte jeg til Herren,",
+                "> og han svarte meg."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Herre, frels min sjel fra løgnaktige lepper,",
+                "> fra en svikefull tunge."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hva skal gis deg, og hva mer skal gjøres mot deg,",
+                "> du svikefulle tunge?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Skarpe krigerpiler,",
+                "> sammen med glødende kull fra gyvelbusken!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ve meg, for jeg bor i Mesjek,",
+                "> og jeg har slått meg ned blant teltene i Kedar!"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Min sjel har bodd for lenge",
+                "> blant dem som er imot fred."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Jeg søker fred, men når jeg taler,",
+                "> søker de strid."
             ]
         }
     ]

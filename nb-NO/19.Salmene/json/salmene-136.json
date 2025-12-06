@@ -1,10 +1,222 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 136,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-136.md"
+                "Takk Herren, for han er god,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Takk ham, gudenes Gud,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Takk ham, herrenes Herre,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Han som alene gjør store under,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Han som skapte himlene med visdom,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Han som bredte ut jorden over vannene,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Han som skapte de store lysene,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Solen til å herske om dagen,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Månen og stjernene til å herske om natten,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Han som slo egypterne, det vil si deres førstefødte,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Og førte Israel ut fra deres midte,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Med sterk hånd og utstrakt arm,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Han som delte Rødehavet i deler,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Og førte Israel gjennom midten av det,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Men han styrtet Farao og hans hær i Rødehavet,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Han som ledet sitt folk gjennom ørkenen,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Han som slo store konger,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Og brakte død over mektige konger,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Sihon, herskeren over amorittene,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Og Og, herskeren over Basan,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Og ga deres land som arv,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "En arv til sin tjener Israel,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Han som husket oss i vår ringhet,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Og har reddet oss fra våre fiender,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Han som gir mat til alt kjød,",
+                "> Hans kjærlighet varer evig."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Gi takk til himmelens Gud,",
+                "> Hans kjærlighet varer evig."
             ]
         }
     ]

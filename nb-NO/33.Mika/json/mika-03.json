@@ -1,10 +1,115 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Mika Kapittel",
+    "chapter": 3,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/33.Micah\/md\/micah-3.md"
+                "> Og jeg sa,",
+                "> \"Hør nå, dere ledere av Jakob",
+                "> Og herskere over Israels hus.",
+                "> Er det ikke for dere å kjenne rettferdighet?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Dere som hater godhet og elsker ondskap,",
+                "> Som river bort deres hud",
+                "> Og deres kjøtt fra deres ben,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Som spiser mitt folks kjøtt,",
+                "> Flår huden av dem,",
+                "> Knuser deres ben,",
+                "> Og hakker dem opp som til gryten",
+                "> Og som kjøtt i en kjele!\""
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Da vil de rope til Herren,",
+                "> Men Han vil ikke svare dem.",
+                "> I stedet vil Han vende sitt ansikt bort fra dem på den tiden",
+                "> Fordi de har drevet med onde handlinger."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Dette er hva Herren sier om profetene som fører mitt folk vill:",
+                "> Når de har noe å bite med tennene,",
+                "> Roper de, \"Fred,\"",
+                "> Men mot den som ikke legger noe i deres munn",
+                "> Erklærer de hellig krig."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Derfor skal det bli natt for dere—uten syn,",
+                "> Og mørke for dere—uten spådom.",
+                "> Solen skal gå ned over profetene,",
+                "> Og dagen skal bli mørk over dem."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Seerne skal bli til skamme,",
+                "> Og spåmennene skal bli skamfulle.",
+                "> Ja, de skal alle dekke sine munner",
+                "> Fordi det ikke er noe svar fra Gud."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> På den annen side er jeg fylt med kraft—",
+                "> Med Herrens Ånd—",
+                "> Og med rettferdighet og mot",
+                "> For å forkynne Jakob hans ugjerning,",
+                "> Og Israel hans synd."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Nå hør dette, dere ledere av Jakobs hus",
+                "> Og herskere over Israels hus,",
+                "> Som forakter rettferdighet",
+                "> Og fordreier det som er rett,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Som bygger Sion med vold,",
+                "> Og Jerusalem med urett."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Hennes ledere avsier dom for bestikkelser,",
+                "> Hennes prester underviser for betaling,",
+                "> Og hennes profeter spår for penger.",
+                "> Likevel stoler de på Herren og sier,",
+                "> \"Er ikke Herren midt iblant oss?",
+                "> Katastrofe vil ikke komme over oss.\""
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Derfor, på grunn av dere",
+                "> Skal Sion bli pløyd som en åker,",
+                "> Jerusalem skal bli en ruinhaug,",
+                "> Og tempelberget skal bli til skogkledde høyder."
             ]
         }
     ]

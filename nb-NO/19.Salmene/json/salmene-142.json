@@ -1,10 +1,83 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 142,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-142.md"
+                "En læresalme av David. Da han var i hulen. En bønn."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Jeg roper med min stemme til Herren;",
+                "> Jeg ber med min stemme til Herren om nåde."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Jeg utøser min nød for Ham;",
+                "> Jeg forteller Ham om mine problemer."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Da min ånd var overveldet i meg,",
+                "> Visste Du om min vei.",
+                "> På stien hvor jeg går",
+                "> Har de satt en snare for meg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Se til høyre og merk deg;",
+                "> For det er ingen som legger merke til meg.",
+                "> Det er ingen utvei for meg;",
+                "> Ingen bryr seg om min sjel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Jeg ropte til Deg, Herre;",
+                "> Jeg erklærte: \"Du er min tilflukt,",
+                "> Min del i de levendes land."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Lytt til mitt rop,",
+                "> For jeg er blitt brakt meget lavt;",
+                "> Fri meg fra mine forfølgere,",
+                "> For de er for sterke for meg."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Løft min sjel opp fra sorg,",
+                "> Så jeg kan takke Ditt navn;",
+                "> De rettferdige vil samle seg omkring meg,",
+                "> For Du vil ta vare på meg.\""
             ]
         }
     ]

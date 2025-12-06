@@ -1,10 +1,217 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 55,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-055.md"
+                "For sangmesteren; med strengeinstrumenter. En læresalme av David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Lytt til min bønn, Gud;",
+                "> Og skjul deg ikke for min bønn."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Vend ditt øre til meg og svar meg;",
+                "> Jeg er urolig i min klage og svært bekymret,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> På grunn av fiendens stemme,",
+                "> På grunn av de ugudeliges undertrykkelse;",
+                "> For de legger byrder på meg",
+                "> Og i sinne bærer de nag mot meg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Mitt hjerte er dypt såret i meg,",
+                "> Og dødens redsler har grepet meg."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Frykt og skjelving har grepet meg,",
+                "> Og redsel har overveldet meg."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jeg sa: “Å, om jeg hadde vinger som en due!",
+                "> Jeg ville fly bort og finne hvile."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Se, jeg ville flykte langt bort,",
+                "> Jeg ville tilbringe natten i ørkenen.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Jeg ville skynde meg til mitt tilfluktssted",
+                "> Fra den stormfulle vinden og det voldsomme uværet.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Forvirr dem, Herre, del deres språk,",
+                "> For jeg har sett vold og strid i byen."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Dag og natt omringer de henne på hennes murer,",
+                "> Og urett og skade er innenfor henne."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Ødeleggelse er innenfor henne;",
+                "> Undertrykkelse og svik forlater ikke hennes gater."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> For det er ikke en fiende som håner meg, da kunne jeg bære det;",
+                "> Det er heller ikke en som forakter meg som har reist seg mot meg,",
+                "> Da kunne jeg skjule meg for ham."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Men det er du, en mann som er min like,",
+                "> Min venn og min fortrolige;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Vi som delte søt fellesskap sammen,",
+                "> Vandret i Guds hus blant mengden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Måtte døden komme over dem uventet;",
+                "> Måtte de fare levende ned til Sheol,",
+                "> For ondskap er i deres bolig, blant dem."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Men jeg vil kalle på Gud,",
+                "> Og Herren vil frelse meg."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Kveld og morgen og ved middag, vil jeg klage og sukke,",
+                "> Og Han vil høre min røst."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Han vil redde min sjel i fred fra kampen mot meg,",
+                "> For mange er de som står imot meg."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Gud vil høre og ydmyke dem—",
+                "> Selv den som sitter på tronen fra eldgamle tider—",
+                "> Sela",
+                "> Fordi de ikke forandrer seg,",
+                "> Og ikke frykter Gud."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Han har rakt ut sine hender mot dem som var i fred med ham;",
+                "> Han har brutt sin pakt."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Hans ord var glattere enn smør,",
+                "> Men hans hjerte var satt på krig;",
+                "> Hans ord var mykere enn olje,",
+                "> Men de var dragne sverd."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Kast din byrde på Herren og Han vil oppholde deg;",
+                "> Han vil aldri tillate at de rettferdige blir rokket."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Men Du, Gud, vil føre dem ned i ødeleggelsens grav;",
+                "> Menn av blod og svik skal ikke leve halvparten av sine dager.",
+                "> Men jeg vil sette min lit til Deg."
             ]
         }
     ]

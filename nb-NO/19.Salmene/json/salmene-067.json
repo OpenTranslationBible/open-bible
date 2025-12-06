@@ -1,10 +1,72 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 67,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-067.md"
+                "For sangmesteren; med strengeinstrumenter. En salme. En sang."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Gud være nådig mot oss og velsigne oss,",
+                "> Og la sitt ansikt lyse over oss—",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Så dine veier blir kjent på jorden,",
+                "> Din frelse blant alle folkeslag."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> La folkene prise deg, Gud;",
+                "> La alle folkene prise deg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> La nasjonene glede seg og synge av fryd;",
+                "> For du skal dømme folkene rettferdig",
+                "> Og lede nasjonene på jorden.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> La folkene prise deg, Gud;",
+                "> La alle folkene prise deg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Jorden har gitt sin grøde;",
+                "> Gud, vår Gud, velsigner oss."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Gud velsigner oss,",
+                "> Så alle jordens ender må frykte ham."
             ]
         }
     ]

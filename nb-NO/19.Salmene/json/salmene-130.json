@@ -1,10 +1,83 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 130,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-130.md"
+                "En sang ved festreisene."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Fra dypet har jeg ropt til deg, Herre."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Herre, hør min røst!",
+                "> Måtte dine ører være oppmerksomme",
+                "> På lyden av mine bønner."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hvis du, Herre, skulle merke våre misgjerninger,",
+                "> Herre, hvem kunne da bestå?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Men hos deg er tilgivelse,",
+                "> Derfor blir du fryktet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Jeg venter på Herren, min sjel er tålmodig,",
+                "> Og jeg setter mitt håp til hans ord."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Min sjel venter ivrig på Herren",
+                "> Mer enn vekterne venter på morgenen;",
+                "> Ja, mer enn vekterne på morgenen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Israel, sett ditt håp til Herren;",
+                "> For hos Herren er miskunn,",
+                "> Og hos ham er full forløsning."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Og han skal forløse Israel",
+                "> Fra alle hans misgjerninger."
             ]
         }
     ]

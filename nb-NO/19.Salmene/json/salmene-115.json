@@ -1,10 +1,160 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 115,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-115.md"
+                "> Ikke oss, Herre, ikke oss,",
+                "> men ditt navn skal ha æren,",
+                "> for din miskunn og din trofasthet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Hvorfor skal folkene si:",
+                "> «Hvor er deres Gud nå?»"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Vår Gud er i himmelen;",
+                "> Han gjør alt det Han vil."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Deres avguder er av sølv og gull,",
+                "> laget av menneskehender."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> De har munn, men taler ikke;",
+                "> de har øyne, men ser ikke;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> de har ører, men hører ikke;",
+                "> de har nese, men lukter ikke;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> de har hender, men føler ikke;",
+                "> de har føtter, men går ikke;",
+                "> de lager ingen lyd med strupen."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> De som lager dem, blir som dem,",
+                "> det samme gjør alle som stoler på dem."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Israel, stol på Herren;",
+                "> Han er deres hjelp og deres skjold."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Arons hus, stol på Herren;",
+                "> Han er deres hjelp og deres skjold."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Dere som frykter Herren, stol på Herren;",
+                "> Han er deres hjelp og deres skjold."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Herren husker oss og vil velsigne oss.",
+                "> Han vil velsigne Israels hus;",
+                "> Han vil velsigne Arons hus."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Han vil velsigne dem som frykter Herren,",
+                "> både små og store."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Måtte Herren la dere vokse,",
+                "> dere og deres barn."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Måtte dere bli begunstiget av Herren,",
+                "> skaperen av himmel og jord."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Himmelen tilhører Herren,",
+                "> men jorden har Han gitt til menneskene."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> De døde priser ikke Herren,",
+                "> heller ikke noen som går ned i stillheten;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Men vi vil velsigne Herren",
+                "> fra nå og for evig.",
+                "> Pris Herren!"
             ]
         }
     ]

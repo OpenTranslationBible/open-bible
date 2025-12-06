@@ -1,10 +1,35 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 134,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-134.md"
+                "En sang ved festreisene."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Se, velsign Herren, alle Herrens tjenere,",
+                "> Dere som tjener om natten i Herrens hus!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Løft hendene mot det hellige stedet",
+                "> Og gi Herren lovprisning."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Måtte Herren, himmelens og jordens skaper, velsigne deg fra Sion."
             ]
         }
     ]

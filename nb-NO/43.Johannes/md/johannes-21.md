@@ -2,19 +2,19 @@
 
 ## Johannes 21:1
 
-Etter disse hendelsene åpenbarte Jesus seg igjen for disiplene ved Tiberiassjøen, og det skjedde på denne måten:
+Etter disse hendelsene åpenbarte Jesus seg igjen for disiplene ved Tiberiassjøen, og Han gjorde det på denne måten:
 
 ## Johannes 21:2
 
-Simon Peter, Thomas som ble kalt Didymus, Natanael fra Kana i Galilea, Sebedeus-sønnene, og to andre disipler var sammen.
+Simon Peter, Thomas kalt Didymus, Natanael fra Kana i Galilea, Sebedeus' sønner, og to andre disipler var sammen.
 
 ## Johannes 21:3
 
-Simon Peter sa til dem: «Jeg går for å fiske.» De svarte: «Vi blir med deg.» Så de gikk ut og gikk ombord i båten, men den natten fanget de ingenting.
+Simon Peter sa til dem: «Jeg går og fisker.» De svarte: «Vi blir med deg.» Så de gikk ut og gikk om bord i båten, men den natten fanget de ingenting.
 
 ## Johannes 21:4
 
-Da det begynte å bli dag, sto Jesus på stranden, men disiplene kjente ikke igjen at det var Jesus.
+Da det begynte å lysne av dag, sto Jesus på stranden, men disiplene kjente ikke igjen at det var Jesus.
 
 ## Johannes 21:5
 
@@ -34,7 +34,7 @@ De andre disiplene fulgte i den lille båten, og dro garnet fullt av fisk, for d
 
 ## Johannes 21:9
 
-Da de kom i land, så de en kullild med fisk lagt på den, og brød.
+Da de kom til land, så de en kullild med fisk lagt på den, og brød.
 
 ## Johannes 21:10
 
@@ -42,47 +42,47 @@ Jesus instruerte dem: «Bring inn de fiskene dere nettopp har fanget.»
 
 ## Johannes 21:11
 
-Simon Peter gikk ombord og dro garnet i land, fullt av store fisker, 153 i alt; og til tross for antallet, var garnet ikke revet i stykker.
+Simon Peter gikk om bord og dro garnet i land, fullt av store fisker, 153 i alt; og til tross for antallet, ble ikke garnet revet i stykker.
 
 ## Johannes 21:12
 
-Jesus sa til dem: «Kom og spis frokost.» Ingen av disiplene våget å spørre ham: «Hvem er du?» for de visste at det var Herren.
+Jesus sa til dem: «Kom og spis frokost.» Ingen av disiplene våget å spørre Ham: «Hvem er du?» for de visste at det var Herren.
 
 ## Johannes 21:13
 
-Jesus kom nærmere, tok brødet, og delte det ut til dem, og likeså med fisken.
+Jesus nærmet seg, tok brødet og delte det ut til dem, og likeså med fisken.
 
 ## Johannes 21:14
 
-Dette var nå tredje gang Jesus viste seg for disiplene etter å ha blitt reist opp fra de døde.
+Dette var nå tredje gangen Jesus viste seg for disiplene etter å ha blitt reist opp fra de døde.
 
 ---
 
 ## Johannes 21:15
 
-Etter at de hadde spist, sa Jesus til Simon Peter: «Simon, sønn av Johannes, elsker du meg mer enn disse?» Han svarte: «Ja, Herre, du vet at jeg elsker deg.» Jesus sa: «Fø mine lam.»
+Etter at de hadde spist, sa Jesus til Simon Peter: «Simon, Johannes' sønn, elsker du meg mer enn disse?» Han svarte: «Ja, Herre, du vet at jeg elsker deg.» Jesus sa: «Fø mine lam.»
 
 ## Johannes 21:16
 
-Han spurte ham igjen: «Simon, sønn av Johannes, elsker du meg?» Han svarte: «Ja, Herre, du vet at jeg elsker deg.» Jesus sa: «Vokt mine sauer.»
+Han spurte ham igjen: «Simon, Johannes' sønn, elsker du meg?» Han svarte: «Ja, Herre, du vet at jeg elsker deg.» Jesus sa: «Vokt mine får.»
 
 ## Johannes 21:17
 
-Han spurte ham en tredje gang: «Simon, sønn av Johannes, elsker du meg?» Peter ble bedrøvet fordi Jesus spurte ham tredje gang: «Elsker du meg?» Han sa: «Herre, du vet alt; du vet at jeg elsker deg.» Jesus sa: «Fø mine sauer.
+Han spurte ham en tredje gang: «Simon, Johannes' sønn, elsker du meg?» Peter ble bedrøvet fordi Jesus spurte ham tredje gang: «Elsker du meg?» Han sa: «Herre, du vet alt; du vet at jeg elsker deg.» Jesus sa: «Fø mine får.
 
 ## Johannes 21:18
 
-Sannelig, sannelig sier jeg deg, da du var yngre, kledde du deg selv og gikk dit du ønsket; men når du blir gammel, vil du strekke ut hendene dine, og en annen vil kle deg og føre deg dit du ikke ønsker å gå.»
+Sannelig, sannelig sier jeg deg, da du var yngre, kledde du deg selv og gikk dit du ville; men når du blir gammel, skal du strekke ut hendene dine, og en annen skal kle deg og føre deg dit du ikke vil.»
 
 ## Johannes 21:19
 
-Dette sa han for å antyde hva slags død Peter skulle ære Gud med. Etter å ha sagt dette, sa han til ham: «Følg meg!»
+Dette sa Han for å betegne den slags død som Peter skulle ære Gud med. Etter å ha sagt dette, sa Han til ham: «Følg meg!»
 
 ---
 
 ## Johannes 21:20
 
-Peter snudde seg og så disippelen som Jesus elsket følge etter dem, den som hadde lent seg tilbake mot Jesus under måltidet og spurt: «Herre, hvem er det som skal forråde deg?»
+Peter vendte seg og så disippelen som Jesus elsket følge etter dem, han som hadde lent seg tilbake mot Jesus under måltidet og spurt: «Herre, hvem er det som skal forråde deg?»
 
 ## Johannes 21:21
 
@@ -104,4 +104,4 @@ Dette er disippelen som vitner om disse tingene og som skrev dem ned. Vi vet at 
 
 ## Johannes 21:25
 
-Det er mange andre ting som Jesus gjorde; hvis alle skulle skrives ned, antar jeg at selv hele verden ikke ville ha plass til bøkene som ville bli skrevet.
+Det er mange andre ting som Jesus gjorde; hvis hver enkelt ble skrevet ned, antar jeg at selv hele verden ikke ville ha plass til de bøkene som ville bli skrevet.

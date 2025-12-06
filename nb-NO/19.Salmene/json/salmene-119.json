@@ -1,10 +1,1452 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 119,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-119.md"
+                "א Alef"
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Salige er de hvis vei er ren,",
+                "> Som følger Herrens lov."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Salige er de som holder hans vitnesbyrd,",
+                "> Og søker ham av hele sitt hjerte."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> De gjør heller ikke urett;",
+                "> De vandrer på hans veier."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Du har gitt dine påbud,",
+                "> For at vi skal holde dem nøye."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Å, at mine veier måtte være faste",
+                "> Til å holde dine forskrifter!"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Da skal jeg ikke bli til skamme",
+                "> Når jeg ser på alle dine bud."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Jeg vil takke deg av et oppriktig hjerte,",
+                "> Når jeg lærer dine rettferdige dommer."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Jeg vil holde dine forskrifter;",
+                "> Forlat meg ikke helt!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ב Beth"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Hvordan kan en ung mann holde sin vei ren?",
+                "> Ved å holde den etter ditt ord."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Av hele mitt hjerte har jeg søkt deg;",
+                "> La meg ikke fare vill fra dine bud."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Jeg har gjemt ditt ord i mitt hjerte,",
+                "> Så jeg ikke skal synde mot deg."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Lovet være du, Herre;",
+                "> Lær meg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Med mine lepper har jeg forkynt",
+                "> Alle dommene fra din munn."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Jeg har funnet glede i dine vitnesbyrds vei,",
+                "> Likeså mye som i all rikdom."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Jeg vil tenke på dine påbud",
+                "> Og betrakte dine veier."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Jeg skal glede meg i dine forskrifter;",
+                "> Jeg vil ikke glemme ditt ord."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ג Gimel"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Gjør vel mot din tjener,",
+                "> Så jeg kan leve og holde ditt ord."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Åpne mine øyne, så jeg kan se",
+                "> Underfulle ting i din lov."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Jeg er en fremmed på jorden;",
+                "> Skjul ikke dine bud for meg."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Min sjel er overveldet av lengsel",
+                "> Etter dine dommer til enhver tid."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Du refser de stolte, de forbannede,",
+                "> Som farer vill fra dine bud."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Ta bort vanære og forakt fra meg,",
+                "> For jeg holder dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Selv om fyrster sitter og taler mot meg,",
+                "> Tenker din tjener på dine forskrifter."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Også dine vitnesbyrd er min glede;",
+                "> De er mine rådgivere."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ד Daleth"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Min sjel ligger nedtrykt til støvet;",
+                "> Forny meg etter ditt ord."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Jeg har fortalt om mine veier, og du har svart meg;",
+                "> Lær meg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Hjelp meg å forstå dine påbuds vei,",
+                "> Så jeg kan grunne på dine under."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Min sjel gråter av sorg;",
+                "> Styrk meg etter ditt ord."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Ta bort løgnens vei fra meg,",
+                "> Og gi meg nådig din lov."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Jeg har valgt trofasthetens vei;",
+                "> Jeg har satt dine dommer foran meg."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Jeg holder fast ved dine vitnesbyrd;",
+                "> Herre, la meg ikke bli til skamme!"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Jeg skal løpe dine buds vei,",
+                "> For du vil utvide mitt hjerte."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ה He"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Lær meg, Herre, dine forskrifters vei,",
+                "> Og jeg skal holde den til enden."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Gi meg forstand, så jeg kan holde din lov",
+                "> Og bevare den av hele mitt hjerte."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Led meg på dine buds sti,",
+                "> For jeg har min glede i den."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Bøy mitt hjerte mot dine vitnesbyrd,",
+                "> Og ikke mot uærlig vinning."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Vend mine øyne bort fra det som er verdiløst,",
+                "> Og forny meg i dine veier."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Stadfest ditt ord til din tjener,",
+                "> Som gir deg frykt."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Ta bort min vanære som jeg frykter,",
+                "> For dine dommer er gode."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Se, jeg lengter etter dine påbud;",
+                "> Forny meg ved din rettferdighet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ו Waw"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Må din nåde også komme til meg, Herre,",
+                "> Din frelse etter ditt ord;"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Så jeg kan svare den som håner meg,",
+                "> For jeg stoler på ditt ord."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> Ta ikke sannhetens ord helt bort fra min munn,",
+                "> For jeg venter på dine dommer."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Så jeg vil holde din lov alltid,",
+                "> For alle tider."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Og jeg vil vandre i frihet,",
+                "> For jeg søker dine påbud."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Jeg vil også tale om dine vitnesbyrd for konger,",
+                "> Og skal ikke bli til skamme."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Jeg vil glede meg i dine bud,",
+                "> Som jeg elsker."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Og jeg skal løfte mine hender til dine bud, som jeg elsker;",
+                "> Og jeg vil tenke på dine forskrifter."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ז Zayin"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Husk ordet til din tjener,",
+                "> Som du har gitt meg håp i."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Dette er min trøst i min lidelse,",
+                "> At ditt ord har fornyet meg."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> De stolte håner meg grundig,",
+                "> Men jeg viker ikke fra din lov."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Jeg har husket dine dommer fra gammel tid, Herre,",
+                "> Og finner trøst."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Intens harme har grepet meg på grunn av de onde,",
+                "> Som forlater din lov."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Dine forskrifter har vært mine sanger",
+                "> I mitt hjems hus."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> Herre, jeg minnes ditt navn om natten,",
+                "> Og holder din lov."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Dette har blitt mitt eget,",
+                "> At jeg holder dine påbud."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ח Heth"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "> Herren er min del;",
+                "> Jeg har lovet å holde dine ord."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "> Jeg søkte din nåde av hele mitt hjerte;",
+                "> Vær nådig mot meg etter ditt ord."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "> Jeg tenkte på mine veier",
+                "> Og vendte mine skritt til dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "> Jeg skyndte meg og nølte ikke",
+                "> Med å følge dine bud."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "> De ondes snarer har omringet meg,",
+                "> Men jeg har ikke glemt din lov."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "> Jeg står opp ved midnatt for å takke deg",
+                "> På grunn av dine rettferdige dommer."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "> Jeg er en venn til alle som frykter deg,",
+                "> Og til dem som holder dine påbud."
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "> Jorden er full av din nåde, Herre;",
+                "> Lær meg dine forskrifter."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ט Teth"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "> Du har gjort vel mot din tjener, Herre,",
+                "> Etter ditt ord."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "> Lær meg god dømmekraft og kunnskap,",
+                "> For jeg stoler på dine bud."
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "> Før jeg ble plaget, gikk jeg vill,",
+                "> Men nå holder jeg alltid ditt ord."
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "> Du er god og gjør det som er rett;",
+                "> Lær meg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "> De stolte har smidd en løgn mot meg;",
+                "> Av hele mitt hjerte vil jeg holde dine påbud."
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "> Deres hjerte er følelsesløst, som herdet fett,",
+                "> Men jeg gleder meg i din lov."
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "> Det er til nytte for meg at jeg opplevde vanskeligheter,",
+                "> Så jeg kan lære dine forskrifter."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "> Loven fra din munn er mer verdifull for meg",
+                "> Enn tusenvis av gull- og sølvstykker."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "י Yodh"
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "> Dine hender har skapt meg og formet meg;",
+                "> Gi meg forstand, så jeg kan lære dine bud."
+            ]
+        },
+        {
+            "verse": 74,
+            "text": [
+                "> Må de som frykter deg se meg og bli glade,",
+                "> Fordi jeg håper på ditt ord."
+            ]
+        },
+        {
+            "verse": 75,
+            "text": [
+                "> Jeg vet, Herre, at dine dommer er rettferdige,",
+                "> Og at du har latt meg møte prøvelser i trofasthet."
+            ]
+        },
+        {
+            "verse": 76,
+            "text": [
+                "> Må din nåde trøste meg,",
+                "> Etter ditt ord til din tjener."
+            ]
+        },
+        {
+            "verse": 77,
+            "text": [
+                "> Må din medfølelse komme til meg, gi meg liv,",
+                "> For din lov er min glede."
+            ]
+        },
+        {
+            "verse": 78,
+            "text": [
+                "> Må de stolte bli til skamme, for de gjør meg urett med løgner;",
+                "> Men jeg skal tenke på dine påbud."
+            ]
+        },
+        {
+            "verse": 79,
+            "text": [
+                "> Må de som frykter deg vende seg til meg,",
+                "> Og de som kjenner dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 80,
+            "text": [
+                "> Må mitt hjerte være fast i dine forskrifter,",
+                "> Så jeg ikke blir til skamme."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "כ Kaph"
+            ]
+        },
+        {
+            "verse": 81,
+            "text": [
+                "> Min sjel lengter etter din frelse;",
+                "> Jeg venter på ditt ord."
+            ]
+        },
+        {
+            "verse": 82,
+            "text": [
+                "> Mine øyne svikter av lengsel etter ditt ord,",
+                "> Mens jeg sier: \"Når vil du trøste meg?\""
+            ]
+        },
+        {
+            "verse": 83,
+            "text": [
+                "> Selv om jeg har blitt som en tørket skinnflaske i røyken,",
+                "> Glemmer jeg ikke dine forskrifter."
+            ]
+        },
+        {
+            "verse": 84,
+            "text": [
+                "> Hva er målet for mine dager, din tjener?",
+                "> Når vil du bringe rettferdighet til dem som forfølger meg?"
+            ]
+        },
+        {
+            "verse": 85,
+            "text": [
+                "> De stolte har gravd groper for meg,",
+                "> Folk som ikke er i samsvar med din lov."
+            ]
+        },
+        {
+            "verse": 86,
+            "text": [
+                "> Alle dine bud er trofaste;",
+                "> De har forfulgt meg med løgner; hjelp meg!"
+            ]
+        },
+        {
+            "verse": 87,
+            "text": [
+                "> De holdt på å ødelegge meg på jorden,",
+                "> Men jeg forlot ikke dine påbud."
+            ]
+        },
+        {
+            "verse": 88,
+            "text": [
+                "> Gi meg liv etter din nåde,",
+                "> Så jeg kan holde vitnesbyrdet fra din munn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ל Lamedh"
+            ]
+        },
+        {
+            "verse": 89,
+            "text": [
+                "> For alltid, Herre,",
+                "> Står ditt ord i himmelen."
+            ]
+        },
+        {
+            "verse": 90,
+            "text": [
+                "> Din trofasthet varer gjennom generasjoner;",
+                "> Du grunnla jorden, og den står."
+            ]
+        },
+        {
+            "verse": 91,
+            "text": [
+                "> De står denne dag ved dine dommer,",
+                "> For alle ting tjener deg."
+            ]
+        },
+        {
+            "verse": 92,
+            "text": [
+                "> Hadde ikke din lov vært min glede,",
+                "> Ville jeg ha omkommet i min lidelse."
+            ]
+        },
+        {
+            "verse": 93,
+            "text": [
+                "> Jeg vil aldri glemme dine påbud,",
+                "> For ved dem har du gitt meg liv."
+            ]
+        },
+        {
+            "verse": 94,
+            "text": [
+                "> Jeg tilhører deg; frels meg,",
+                "> For jeg har søkt dine påbud."
+            ]
+        },
+        {
+            "verse": 95,
+            "text": [
+                "> De onde ligger på lur for å ødelegge meg;",
+                "> Jeg vil nøye betrakte dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 96,
+            "text": [
+                "> Jeg har sett en grense for all fullkommenhet;",
+                "> Ditt bud er overmåte bredt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "מ Mem"
+            ]
+        },
+        {
+            "verse": 97,
+            "text": [
+                "> Hvor jeg elsker din lov!",
+                "> Den er min meditasjon hele dagen."
+            ]
+        },
+        {
+            "verse": 98,
+            "text": [
+                "> Dine bud gjør meg klokere enn mine fiender,",
+                "> For de er alltid mine."
+            ]
+        },
+        {
+            "verse": 99,
+            "text": [
+                "> Jeg har mer innsikt enn alle mine lærere,",
+                "> For dine vitnesbyrd er min meditasjon."
+            ]
+        },
+        {
+            "verse": 100,
+            "text": [
+                "> Jeg forstår mer enn de gamle,",
+                "> Fordi jeg har holdt dine påbud."
+            ]
+        },
+        {
+            "verse": 101,
+            "text": [
+                "> Jeg har holdt mine føtter fra hver ond vei,",
+                "> Så jeg kan holde ditt ord."
+            ]
+        },
+        {
+            "verse": 102,
+            "text": [
+                "> Jeg har ikke vendt meg bort fra dine dommer,",
+                "> For du har lært meg."
+            ]
+        },
+        {
+            "verse": 103,
+            "text": [
+                "> Hvor søte er dine ord for min smak!",
+                "> Ja, søtere enn honning for min munn!"
+            ]
+        },
+        {
+            "verse": 104,
+            "text": [
+                "> Fra dine påbud får jeg forståelse;",
+                "> Derfor hater jeg hver falsk vei."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "נ Nun"
+            ]
+        },
+        {
+            "verse": 105,
+            "text": [
+                "> Ditt ord er som en lampe for min fot",
+                "> Og et lys på min sti."
+            ]
+        },
+        {
+            "verse": 106,
+            "text": [
+                "> Jeg har avlagt en ed og vil holde den,",
+                "> At jeg vil holde dine rettferdige dommer."
+            ]
+        },
+        {
+            "verse": 107,
+            "text": [
+                "> Jeg er overmåte plaget;",
+                "> Gi meg liv, Herre, etter ditt ord."
+            ]
+        },
+        {
+            "verse": 108,
+            "text": [
+                "> Vennligst godta de frivillige ofrene fra min munn, Herre,",
+                "> Og lær meg dine dommer."
+            ]
+        },
+        {
+            "verse": 109,
+            "text": [
+                "> Mitt liv er stadig i min hånd,",
+                "> Likevel glemmer jeg ikke din lov."
+            ]
+        },
+        {
+            "verse": 110,
+            "text": [
+                "> De onde har satt en felle for meg,",
+                "> Likevel har jeg ikke vandret bort fra dine påbud."
+            ]
+        },
+        {
+            "verse": 111,
+            "text": [
+                "> Jeg har mottatt dine vitnesbyrd som en evig arv,",
+                "> For de er mitt hjertes glede."
+            ]
+        },
+        {
+            "verse": 112,
+            "text": [
+                "> Jeg har satt mitt hjerte til å utføre dine forskrifter",
+                "> For alltid, til og med til enden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ס Samekh"
+            ]
+        },
+        {
+            "verse": 113,
+            "text": [
+                "> Jeg hater dem som er tvesinnet,",
+                "> Men jeg elsker din lov."
+            ]
+        },
+        {
+            "verse": 114,
+            "text": [
+                "> Du er min tilflukt og mitt skjold;",
+                "> Jeg håper på ditt ord."
+            ]
+        },
+        {
+            "verse": 115,
+            "text": [
+                "> Gå bort fra meg, dere onde,",
+                "> Så jeg kan holde min Guds bud."
+            ]
+        },
+        {
+            "verse": 116,
+            "text": [
+                "> Støtt meg etter ditt ord, så jeg kan leve;",
+                "> Og la meg ikke bli til skamme i mitt håp."
+            ]
+        },
+        {
+            "verse": 117,
+            "text": [
+                "> Hold meg oppe så jeg kan være trygg,",
+                "> At jeg kan ha respekt for dine forskrifter alltid."
+            ]
+        },
+        {
+            "verse": 118,
+            "text": [
+                "> Du har forkastet alle som farer vill fra dine forskrifter,",
+                "> For deres falskhet er verdiløs."
+            ]
+        },
+        {
+            "verse": 119,
+            "text": [
+                "> Du har fjernet alle de onde på jorden som en urenhet;",
+                "> Derfor elsker jeg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 120,
+            "text": [
+                "> Mitt kjød skjelver av frykt for deg,",
+                "> Og jeg er redd for dine dommer."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ע Ayin"
+            ]
+        },
+        {
+            "verse": 121,
+            "text": [
+                "> Jeg har gjort rettferdighet og rett;",
+                "> Forlat meg ikke til mine undertrykkere."
+            ]
+        },
+        {
+            "verse": 122,
+            "text": [
+                "> Vær en garant for din tjener til det gode;",
+                "> La ikke de stolte undertrykke meg."
+            ]
+        },
+        {
+            "verse": 123,
+            "text": [
+                "> Mine øyne svikter av lengsel etter din frelse,",
+                "> Og etter ditt rettferdige ord."
+            ]
+        },
+        {
+            "verse": 124,
+            "text": [
+                "> Behandle din tjener med din nåde,",
+                "> Og lær meg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 125,
+            "text": [
+                "> Jeg er din tjener; gi meg forstand,",
+                "> Så jeg kan kjenne dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 126,
+            "text": [
+                "> Det er tid for Herren å handle,",
+                "> For de har brutt din lov."
+            ]
+        },
+        {
+            "verse": 127,
+            "text": [
+                "> Derfor elsker jeg dine bud",
+                "> Mer enn gull, ja, mer enn rent gull."
+            ]
+        },
+        {
+            "verse": 128,
+            "text": [
+                "> Derfor følger jeg alle dine påbud med omhu,",
+                "> Jeg hater hver falsk vei."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "פ Pe"
+            ]
+        },
+        {
+            "verse": 129,
+            "text": [
+                "> Dine vitnesbyrd er underfulle;",
+                "> Derfor holder min sjel dem."
+            ]
+        },
+        {
+            "verse": 130,
+            "text": [
+                "> Åpenbaringen av dine ord gir lys;",
+                "> Den gir de enfoldige forstand."
+            ]
+        },
+        {
+            "verse": 131,
+            "text": [
+                "> Jeg åpnet min munn vidt med lengsel,",
+                "> For jeg lengtet etter dine bud."
+            ]
+        },
+        {
+            "verse": 132,
+            "text": [
+                "> Vend deg til meg og vær nådig mot meg,",
+                "> Som det passer seg for dem som elsker ditt navn."
+            ]
+        },
+        {
+            "verse": 133,
+            "text": [
+                "> Stadfest mine skritt i ditt ord,",
+                "> Og la ikke noe galt ha makt over meg."
+            ]
+        },
+        {
+            "verse": 134,
+            "text": [
+                "> Løs meg fra menneskelig undertrykkelse,",
+                "> Så jeg kan holde dine påbud."
+            ]
+        },
+        {
+            "verse": 135,
+            "text": [
+                "> La ditt ansikt lyse over din tjener,",
+                "> Og lær meg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 136,
+            "text": [
+                "> Mine øyne feller tårer i strømmer,",
+                "> Fordi de ikke holder din lov."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "צ Tsadhe"
+            ]
+        },
+        {
+            "verse": 137,
+            "text": [
+                "> Du er rettferdig, Herre,",
+                "> Og dine dommer er rettferdige."
+            ]
+        },
+        {
+            "verse": 138,
+            "text": [
+                "> Du har befalt dine vitnesbyrd med rettferdighet",
+                "> Og i stor trofasthet."
+            ]
+        },
+        {
+            "verse": 139,
+            "text": [
+                "> Min iver har overveldet meg,",
+                "> Fordi mine fiender har glemt dine ord."
+            ]
+        },
+        {
+            "verse": 140,
+            "text": [
+                "> Ditt ord er meget rent,",
+                "> Derfor elsker din tjener det."
+            ]
+        },
+        {
+            "verse": 141,
+            "text": [
+                "> Jeg er ubetydelig og foraktet,",
+                "> Likevel glemmer jeg ikke dine påbud."
+            ]
+        },
+        {
+            "verse": 142,
+            "text": [
+                "> Din rettferdighet er evig rettferdig,",
+                "> Og din lov er essensen av sannhet."
+            ]
+        },
+        {
+            "verse": 143,
+            "text": [
+                "> Trengsel og angst har funnet meg,",
+                "> Likevel gir dine bud meg glede."
+            ]
+        },
+        {
+            "verse": 144,
+            "text": [
+                "> Dine vitnesbyrd er rettferdige for alltid;",
+                "> Gi meg forstand så jeg kan leve."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ק Qoph"
+            ]
+        },
+        {
+            "verse": 145,
+            "text": [
+                "> Jeg ropte av hele mitt hjerte; svar meg, Herre!",
+                "> Jeg vil holde dine forskrifter."
+            ]
+        },
+        {
+            "verse": 146,
+            "text": [
+                "> Jeg ropte til deg; redd meg,",
+                "> Og jeg skal holde dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 147,
+            "text": [
+                "> Jeg står opp før daggry og roper om hjelp;",
+                "> Jeg venter på dine ord."
+            ]
+        },
+        {
+            "verse": 148,
+            "text": [
+                "> Mine øyne venter på nattevaktene,",
+                "> Så jeg kan grunne på ditt ord."
+            ]
+        },
+        {
+            "verse": 149,
+            "text": [
+                "> Hør min stemme etter din nåde;",
+                "> Gi meg liv, Herre, etter dine dommer."
+            ]
+        },
+        {
+            "verse": 150,
+            "text": [
+                "> De som forfølger ondskap nærmer seg;",
+                "> De er fjerne fra din lov."
+            ]
+        },
+        {
+            "verse": 151,
+            "text": [
+                "> Likevel er du nær, Herre,",
+                "> Og alle dine bud er sannhet."
+            ]
+        },
+        {
+            "verse": 152,
+            "text": [
+                "> For lenge siden lærte jeg av dine vitnesbyrd,",
+                "> At du har grunnfestet dem for alltid."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ר Resh"
+            ]
+        },
+        {
+            "verse": 153,
+            "text": [
+                "> Se min lidelse og redd meg,",
+                "> For jeg glemmer ikke din lov."
+            ]
+        },
+        {
+            "verse": 154,
+            "text": [
+                "> Før min sak og gjenløs meg;",
+                "> Gi meg liv etter ditt ord."
+            ]
+        },
+        {
+            "verse": 155,
+            "text": [
+                "> Frelsen er fjern fra de onde,",
+                "> For de søker ikke dine forskrifter."
+            ]
+        },
+        {
+            "verse": 156,
+            "text": [
+                "> Stor er din nåde, Herre;",
+                "> Gi meg liv etter dine dommer."
+            ]
+        },
+        {
+            "verse": 157,
+            "text": [
+                "> Mange er mine forfølgere og mine fiender,",
+                "> Likevel viker jeg ikke fra dine vitnesbyrd."
+            ]
+        },
+        {
+            "verse": 158,
+            "text": [
+                "> Jeg ser de troløse og føler forakt,",
+                "> Fordi de ikke holder ditt ord."
+            ]
+        },
+        {
+            "verse": 159,
+            "text": [
+                "> Se hvordan jeg elsker dine påbud;",
+                "> Gi meg liv, Herre, etter din nåde."
+            ]
+        },
+        {
+            "verse": 160,
+            "text": [
+                "> Hele ditt ord er sannhet,",
+                "> Og hver av dine rettferdige dommer er evigvarende."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ש Sin og Shin"
+            ]
+        },
+        {
+            "verse": 161,
+            "text": [
+                "> Fyrster forfølger meg uten grunn,",
+                "> Men mitt hjerte står i ærefrykt for dine ord."
+            ]
+        },
+        {
+            "verse": 162,
+            "text": [
+                "> Jeg gleder meg over ditt ord,",
+                "> Som en som finner stor skatt."
+            ]
+        },
+        {
+            "verse": 163,
+            "text": [
+                "> Jeg avskyr og avhorrer falskhet,",
+                "> Men jeg elsker din lov."
+            ]
+        },
+        {
+            "verse": 164,
+            "text": [
+                "> Jeg priser deg hele dagen",
+                "> På grunn av dine rettferdige dommer."
+            ]
+        },
+        {
+            "verse": 165,
+            "text": [
+                "> De som elsker din lov har stor fred,",
+                "> Og ingenting får dem til å snuble."
+            ]
+        },
+        {
+            "verse": 166,
+            "text": [
+                "> Jeg håper på din frelse, Herre,",
+                "> Og følger dine bud."
+            ]
+        },
+        {
+            "verse": 167,
+            "text": [
+                "> Min sjel holder dine vitnesbyrd,",
+                "> Og jeg elsker dem høyt."
+            ]
+        },
+        {
+            "verse": 168,
+            "text": [
+                "> Jeg holder dine påbud og dine vitnesbyrd,",
+                "> For alle mine veier er foran deg."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "text": [
+                "ת Taw"
+            ]
+        },
+        {
+            "verse": 169,
+            "text": [
+                "> La mitt rop komme for deg, Herre;",
+                "> Gi meg forstand etter ditt ord."
+            ]
+        },
+        {
+            "verse": 170,
+            "text": [
+                "> La min bønn komme for deg;",
+                "> Frels meg etter ditt ord."
+            ]
+        },
+        {
+            "verse": 171,
+            "text": [
+                "> La mine lepper flyte over av lovprisning,",
+                "> For du lærer meg dine forskrifter."
+            ]
+        },
+        {
+            "verse": 172,
+            "text": [
+                "> La min tunge synge om ditt ord,",
+                "> For alle dine bud er rettferdighet."
+            ]
+        },
+        {
+            "verse": 173,
+            "text": [
+                "> La din hånd være klar til å hjelpe meg,",
+                "> For jeg har valgt dine påbud."
+            ]
+        },
+        {
+            "verse": 174,
+            "text": [
+                "> Jeg lengter etter din frelse, Herre,",
+                "> Og din lov er min glede."
+            ]
+        },
+        {
+            "verse": 175,
+            "text": [
+                "> La min sjel leve så den kan prise deg,",
+                "> Og la dine dommer hjelpe meg."
+            ]
+        },
+        {
+            "verse": 176,
+            "text": [
+                "> Jeg har vandret omkring som et bortkommet får; søk din tjener,",
+                "> For jeg glemmer ikke dine bud."
             ]
         }
     ]

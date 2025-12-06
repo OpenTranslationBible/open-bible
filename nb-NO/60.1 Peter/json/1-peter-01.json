@@ -1,10 +1,162 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "1 Peter Kapittel",
+    "chapter": 1,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/60.1 Peter\/md\/1-peter-1.md"
+                "Fra Peter, en apostel av Jesus Kristus,",
+                "Til de som lever som fremmede, spredt rundt i Pontus, Galatia, Kappadokia, Asia og Bitynia, som er utvalgt"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "i samsvar med Gud Faders forutviten, ved Åndens helliggjørende verk, til å adlyde Jesus Kristus og bli renset ved Hans blod:",
+                "Må nåde og fred bli rikelig gitt dere."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Lovet være Gud, vår Herre Jesu Kristi Far, som i sin store barmhjertighet har gitt oss ny fødsel til et levende håp ved Jesu Kristi oppstandelse fra de døde,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "til å motta en arv som er uforgjengelig, ubesmittet og uvisnelig, bevart i himmelen for dere,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "som ved tro blir bevart av Guds kraft til en frelse som er klar til å bli åpenbart i den siste tid."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "I dette jubler dere stort, selv om dere nå for en kort tid, om nødvendig, har blitt plaget av ulike prøvelser,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "slik at beviset på deres tro, som er mer verdifullt enn gull som forgår selv om det prøves ved ild, kan bli funnet å resultere i lovprisning, ære og herlighet ved Jesu Kristi åpenbarelse;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "og selv om dere ikke har sett Ham, elsker dere Ham, og selv om dere ikke ser Ham nå, men tror på Ham, jubler dere stort med en glede uten ord og full av herlighet,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "og oppnår deres sjelers frelse som resultatet av deres tro."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Om denne frelsen har profetene, som forutsa den nåde som skulle komme til dere, gjort nøye undersøkelser og forespørsler,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "og søkte å vite hvilken tid eller hva slags tid Kristi Ånd i dem indikerte da Han forutsa Kristi lidelser og de herligheter som skulle følge."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Det ble åpenbart for dem at de ikke tjente seg selv, men dere, i disse saker som nå er blitt kunngjort for dere gjennom dem som forkynte evangeliet for dere ved Den Hellige Ånd sendt fra himmelen—ting som engler lengter etter å se inn i."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Derfor, forbered deres sinn for handling, forbli edru i ånden, sett deres håp fullt ut på den nåde som skal bli gitt dere ved Jesu Kristi åpenbarelse."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Som lydige barn, ikke tilpass dere de tidligere begjær som var deres i deres uvitenhet,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "men som Den Hellige som kalte dere, vær også hellige i all deres oppførsel;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "for det er sagt: “Dere skal være hellige, for jeg er hellig.”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Hvis dere påkaller som Far den som upartisk dømmer etter hver enkelts gjerning, oppfør dere med ærefrykt i løpet av deres opphold på jorden;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "og innse at dere ikke ble forløst med forgjengelige ting som sølv eller gull fra deres fåfengte livsførsel arvet fra deres forfedre,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "men med dyrebart blod, som av et lam uten lyte og plett, Kristi blod."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "For Han var kjent før verdens grunnleggelse, men har vist seg i disse siste tider for deres skyld"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Gjennom Ham har dere kommet til å tro på Gud, som oppreiste Ham fra de døde og ga Ham herlighet, slik at deres tro og håp er i Gud."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Siden dere har renset deres sjeler ved lydighet mot sannheten for en oppriktig kjærlighet til brødrene og søstrene, elsk hverandre inderlig fra hjertet,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "for dere er blitt født på ny, ikke av forgjengelig sæd, men uforgjengelig, ved Guds levende og varige ord."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "For,",
+                "> “All menneskehet er som gress,",
+                "> Og all dens prakt er som gressets blomst.",
+                "> Gresset visner,",
+                "> Og blomsten faller av,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Men Herrens ord forblir til evig tid.”",
+                "Og dette er det ordet som ble forkynt for dere."
             ]
         }
     ]

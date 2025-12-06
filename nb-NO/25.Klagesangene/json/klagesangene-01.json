@@ -1,10 +1,142 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Klagesangene Kapittel",
+    "chapter": 1,
     "verses": [
         {
+            "verse": 1,
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/25.Lamentations\/md\/lamentations-1.md"
+                "Hvor ensom sitter byen, en gang full av folk! Hun har blitt som en enke, en gang stor blant nasjonene. Hun som var en prinsesse blant provinsene har blitt en tjener."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Hun gråter bittert om natten, hennes tårer på kinnene. Hun har ingen til å trøste seg blant alle sine elskere. Alle hennes venner har handlet forrædersk mot henne; de har blitt hennes fiender."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Juda har gått i eksil, lider nød og hard trelldom. Hun bor blant nasjonene, men finner ingen hvileplass. Alle hennes forfølgere har innhentet henne midt i hennes nød."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Veiene til Sion sørger, for ingen kommer til hennes bestemte høytider. Alle hennes porter er øde; hennes prester sukker, hennes unge kvinner er urolige, og hun selv er i bitter angst."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Hennes motstandere har blitt hennes herrer, hennes fiender lever i ro. Herren har ført sorg over henne på grunn av hennes mange overtredelser. Hennes barn har gått i fangenskap, ført bort av fienden."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "All prakt har forlatt Datter Sion. Hennes ledere er som hjorter som ikke finner beite; de har flyktet uten styrke foran forfølgeren."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "I dagene med hennes nød og hjemløshet, husker Jerusalem alle skattene som var hennes i gamle dager. Da hennes folk falt i fiendens hender, var det ingen som hjalp henne. Hennes motstandere så henne og lo av hennes fall."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Jerusalem har syndet stort og har blitt uren. Alle som æret henne forakter henne, for de har sett hennes nakenhet; hun selv sukker og vender seg bort."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Hennes urenhet klamrer seg til hennes klær; hun tenkte ikke på sin fremtid. Hennes fall var forbløffende; det var ingen til å trøste henne. \"Se, Herre, på min nød, for fienden har seiret.\""
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Motstanderen har lagt hendene på alle hennes dyrebare ting; hun har sett nasjonene gå inn i hennes helligdom—de Du forbød å komme inn i Din forsamling."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Alle hennes folk sukker mens de leter etter brød; de har byttet sine skatter for mat for å holde seg i live. \"Se, Herre, og vurder, for jeg er foraktet.\""
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "\"Er det ingenting for dere, alle som går forbi? Se og se om det er noen sorg som min sorg, som Herren har påført meg på dagen for Hans voldsomme vrede."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Fra det høye sendte Han ild inn i mine ben, og den seiret over dem. Han spredte et nett for mine føtter og vendte meg tilbake. Han har gjort meg øde, svak hele dagen."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Åket av mine overtredelser er bundet av Hans hånd; de er vevd sammen. De har kommet over min nakke; Han har tappet min styrke. Herren har overgitt meg til dem jeg ikke kan motstå."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Herren har forkastet alle mine mektige menn; Han har kalt en hær mot meg for å knuse mine unge menn. Herren har tråkket som i en vinpresse Jomfru Datter av Juda."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "For disse tingene gråter jeg; mine øyne flyter over av tårer. Det er ingen nær til å trøste meg, ingen til å gjenopprette min ånd. Mine barn er fattige fordi fienden har seiret.\""
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Sion strekker ut sine hender, men det er ingen til å trøste henne. Herren har befalt angående Jakob at hans naboer blir hans motstandere; Jerusalem har blitt en uren ting blant dem."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "\"Herren er rettferdig, men jeg har gjort opprør mot Hans bud. Hør, alle folk; se på min lidelse. Mine unge menn og unge kvinner har gått i fangenskap."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Jeg ropte til mine allierte, men de forrådte meg. Mine prester og eldste omkom i byen mens de søkte mat for å opprettholde sine liv."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Se, Herre, hvor plaget jeg er! Jeg er i pine inni meg, og mitt hjerte er omveltet, for jeg har vært svært opprørsk. Utenfor tar sverdet livet; inni er det som døden."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Min sukk er kjent for alle, men det er ingen til å trøste meg. Alle mine fiender er klar over min nød; de gleder seg over det Du har gjort. Måtte Du bringe den dagen Du har kunngjort, så de kan bli som meg."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "La all deres ondskap komme foran Deg; behandle dem som Du har behandlet meg for alle mine overtredelser. Mine sukk er mange, og mitt hjerte er svakt.\""
             ]
         }
     ]

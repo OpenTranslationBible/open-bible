@@ -1,10 +1,112 @@
 {
-    "book": "",
-    "chapter": 0,
+    "book": "Salme",
+    "chapter": 76,
     "verses": [
         {
             "text": [
-                "❌ Input file not found: ..\/open-bible\/en-GB\/19.Psalms\/md\/psalms-076.md"
+                "Til sangmesteren; med strengeinstrumenter. En salme av Asaf, en sang."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Gud er fryktet i Juda;",
+                "> Hans navn har stor anseelse i Israel."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Hans helligdom er i Salem;",
+                "> Hans bolig er også i Sion."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Der knuste Han de brennende piler,",
+                "> Skjoldet, sverdet og krigens redskaper.",
+                "> Sela"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Du er strålende,",
+                "> Mer majestetisk enn fjellene fulle av bytte."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> De modige ble plyndret,",
+                "> De falt i søvn;",
+                "> Og ingen av krigerne kunne bruke sine hender."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Ved Din irettesettelse, Jakobs Gud,",
+                "> Både rytter og hest ble kastet i dyp søvn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Du, Du er virkelig å frykte,",
+                "> Og hvem kan stå for Ditt åsyn, når Du er vred?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Du lot dommen lyde fra himmelen;",
+                "> Jorden skalv og ble stille,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Da Gud reiste seg for å dømme,",
+                "> For å frelse alle jordens ydmyke.",
+                "> Sela"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> For menneskers raseri skal prise Deg;",
+                "> Du vil binde Deg med resten av vreden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Avlegg løfter til Herren deres Gud og oppfyll dem;",
+                "> Alle som er nær Ham skal bringe gaver til Ham som er å frykte."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Han vil ydmyke fyrstenes ånd;",
+                "> Han er fryktet av jordens konger."
             ]
         }
     ]
