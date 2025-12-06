@@ -1,0 +1,357 @@
+{
+    "book": "1 Krønikebok Kapittel",
+    "chapter": 25,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Videre satte David og hærens ledere til tjeneste noen av sønnene til Asaf, Heman og Jedutun,",
+                "> som skulle profetere med lyrer, harper og cymbaler;",
+                "> og antallet av dem som utførte sin tjeneste var:"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Av Asafs sønner: Sakkur, Josef, Netanja og Asarela;",
+                "> disse sønnene ble veiledet av Asaf,",
+                "> som profeterte under kongens veiledning."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Av Jedutun: sønnene til Jedutun var Gedalja, Seri, Jesaja, Sjimi, Hasjabja og Mattitja—seks,",
+                "> under ledelse av deres far Jedutun med harpen,",
+                "> som profeterte ved å takke og prise Herren."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Av Heman: sønnene til Heman var Bukkia, Mattanja, Ussiel, Sjebuel, Jerimot, Hananja, Hanani, Eliata,",
+                "> Giddalti, Romamti-Eser, Josjbekasja, Malloti, Hotir og Mahasiot."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Alle disse var sønnene til Heman, kongens seer,",
+                "> for å ære ham i henhold til Guds ord;",
+                "> for Gud ga Heman fjorten sønner og tre døtre."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Alle disse var under deres fars veiledning",
+                "> for å synge i Herrens hus, med cymbaler, harper og lyrer,",
+                "> for tjenesten i Guds hus.",
+                "> Asaf, Jedutun og Heman var under kongens ledelse."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Deres antall som var opplært i å synge for Herren,",
+                "med sine slektninger, alle som var dyktige, var"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "De kastet lodd for sine plikter, alle likt,",
+                "> de unge så vel som de gamle, læreren så vel som eleven."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Det første loddet for Asaf falt på Josef,",
+                "> det andre på Gedalja, han med sine slektninger og sønner var tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> det tredje loddet falt på Sakkur, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> det fjerde loddet falt på Izri, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> det femte loddet falt på Netanja, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> det sjette loddet falt på Bukkia, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> det syvende loddet falt på Jesarela, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> det åttende loddet falt på Jesaja, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> det niende loddet falt på Mattanja, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> det tiende loddet falt på Sjimi, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> det ellevte loddet falt på Asarel, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> det tolvte loddet falt på Hasjabja, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> det trettende på Sjubael, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> det fjortende på Mattitja, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> det femtende på Jerimot, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> det sekstende på Hananja, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> det syttende på Josjbekasja, hans sønner og hans slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> det attende på Hanani, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> det nittende på Malloti, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> det tjuende på Eliata, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> det tjueførste på Hotir, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> det tjuandre på Giddalti, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> det tjuetredje på Mahasiot, sammen med sine sønner og slektninger, tolv;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> det tjuefjerde på Romamti-Eser, sammen med sine sønner og slektninger, tolv."
+            ]
+        }
+    ]
+}

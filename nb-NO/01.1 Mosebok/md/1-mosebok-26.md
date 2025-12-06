@@ -1,0 +1,106 @@
+# Første Mosebok Kapittel 26
+
+## Første Mosebok 26:1
+Nå var det hungersnød i landet, bortsett fra den tidligere hungersnøden som hadde skjedd i Abrahams dager. Isak dro til Abimelek, filisternes konge, i Gerar.
+
+## Første Mosebok 26:2
+Herren viste seg for Isak og sa: «Dra ikke ned til Egypt; bli i det landet som jeg skal si deg.
+
+## Første Mosebok 26:3
+Bli boende i dette landet en tid, så vil jeg være med deg og velsigne deg. Til deg og dine etterkommere vil jeg gi alle disse landene og vil oppfylle den ed jeg sverget til din far Abraham.
+
+## Første Mosebok 26:4
+Jeg vil gjøre dine etterkommere like tallrike som stjernene på himmelen og vil gi dem alle disse landene, og gjennom dine etterkommere skal alle jordens nasjoner bli velsignet,
+
+## Første Mosebok 26:5
+fordi Abraham adlød meg og holdt mine bud, mine forskrifter og mine lover.»
+
+## Første Mosebok 26:6
+Så ble Isak boende i Gerar.
+
+## Første Mosebok 26:7
+Da mennene på stedet spurte om hans kone, sa han: «Hun er min søster,» for han fryktet å si: «Hun er min kone,» og tenkte: «Mennene på dette stedet kan drepe meg på grunn av Rebekka, for hun er vakker.»
+
+## Første Mosebok 26:8
+Etter at Isak hadde vært der en lang tid, så Abimelek, filisternes konge, ut av et vindu og så Isak kjærtegne sin kone Rebekka.
+
+## Første Mosebok 26:9
+Så Abimelek kalte Isak til seg og sa: «Hun er virkelig din kone! Hvorfor sa du: ‘Hun er min søster’?» Isak svarte: «Fordi jeg tenkte at jeg kunne bli drept på grunn av henne.»
+
+## Første Mosebok 26:10
+Da sa Abimelek: «Hva er dette du har gjort mot oss? En av folket kunne lett ha ligget med din kone, og du ville ha brakt skyld over oss.»
+
+## Første Mosebok 26:11
+Så befalte Abimelek hele folket og sa: «Den som skader denne mannen eller hans kone, skal sannelig dø.»
+
+## Første Mosebok 26:12
+Isak sådde avlingen i det landet og høstet hundrefold samme år, fordi Herren velsignet ham.
+
+## Første Mosebok 26:13
+Mannen ble rik, og hans rikdom fortsatte å øke til han ble meget velstående.
+
+## Første Mosebok 26:14
+Han hadde mange flokker, hjorder og tjenere, så mye at filisterne misunte ham.
+
+## Første Mosebok 26:15
+Alle brønnene som hans fars tjenere hadde gravd i Abrahams, hans fars, dager, fylte filisterne igjen med jord.
+
+## Første Mosebok 26:16
+Da sa Abimelek til Isak: «Flytt bort fra oss, for du har blitt for mektig for oss.»
+
+## Første Mosebok 26:17
+Så dro Isak bort derfra og slo leir i Gerar-dalen, hvor han bosatte seg.
+
+## Første Mosebok 26:18
+Isak åpnet igjen brønnene som var blitt gravd i Abrahams, hans fars, dager, som filisterne hadde fylt igjen etter Abrahams død, og han ga dem de samme navnene som hans far hadde gitt dem.
+
+## Første Mosebok 26:19
+Isaks tjenere gravde i dalen og fant en kilde med friskt vann.
+
+## Første Mosebok 26:20
+Men hyrdene i Gerar kranglet med Isaks hyrder og sa: «Vannet er vårt!» Så han kalte brønnen Esek, fordi de kranglet med ham.
+
+## Første Mosebok 26:21
+Da gravde de en annen brønn, og de kranglet om den også; så han kalte den Sitnah.
+
+## Første Mosebok 26:22
+Han flyttet derfra og gravde en annen brønn, og de kranglet ikke om den. Han kalte den Rehobot og sa: «Nå har Herren gitt oss rom, og vi skal blomstre i landet.»
+
+## Første Mosebok 26:23
+Fra det stedet reiste han til Beersheba.
+
+## Første Mosebok 26:24
+Den natten viste Herren seg for ham og sa: «Jeg er din far Abrahams Gud. Vær ikke redd, for jeg er med deg; jeg vil velsigne deg og mangfoldiggjøre dine etterkommere for min tjener Abrahams skyld.»
+
+## Første Mosebok 26:25
+Isak bygde et alter der og påkalte Herrens navn. Der slo han opp sitt telt, og der gravde hans tjenere en brønn.
+
+## Første Mosebok 26:26
+I mellomtiden kom Abimelek til ham fra Gerar, med Ahussat, hans rådgiver, og Pikol, hans hærfører.
+
+## Første Mosebok 26:27
+Isak sa til dem: «Hvorfor har dere kommet til meg, siden dere var fiendtlige mot meg og sendte meg bort?»
+
+## Første Mosebok 26:28
+De svarte: «Vi har tydelig sett at Herren har vært med deg; så vi sa: ‘La det nå være en edsavtale mellom oss’—mellom oss og deg. La oss inngå en pakt med deg
+
+## Første Mosebok 26:29
+at du ikke vil skade oss, slik vi ikke har rørt deg og bare har gjort godt mot deg, og sendt deg bort i fred. Du er nå velsignet av Herren.»
+
+## Første Mosebok 26:30
+Da laget Isak et gjestebud for dem, og de spiste og drakk.
+
+## Første Mosebok 26:31
+Tidlig neste morgen utvekslet de eder. Så sendte Isak dem på vei, og de dro bort i fred.
+
+## Første Mosebok 26:32
+Samme dag kom Isaks tjenere og fortalte ham om brønnen de hadde gravd. De sa: «Vi har funnet vann!»
+
+## Første Mosebok 26:33
+Han kalte den Sjiba, og derfor heter byen Beersheba den dag i dag.
+
+## Første Mosebok 26:34
+Da Esau var førti år gammel, tok han Judit, datter av Beeri, hetitten, og Basmat, datter av Elon, hetitten, til koner.
+
+## Første Mosebok 26:35
+De brakte sorg til Isak og Rebekka.
