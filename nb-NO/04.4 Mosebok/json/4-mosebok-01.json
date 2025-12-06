@@ -1,0 +1,330 @@
+{
+    "book": "Fjerde Mosebok Kapittel",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Herren talte til Moses i Sinai-ørkenen, i sammenkomstens telt, på den første dagen i den andre måneden i det andre året etter at israelittene hadde kommet ut av Egypt, og sa:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Ta en folketelling av hele menigheten av israelittene etter deres familier, etter deres fedres hus, og opptegn hver mann ved navn, én etter én."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Du og Aron skal telle alle mennene i Israel som er tjue år eller eldre og i stand til å tjene i hæren, etter deres avdelinger."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Med deg skal det være en mann fra hver stamme, hver en leder for sin familie."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Her er navnene på mennene som skal hjelpe deg: fra Ruben, Elisur, sønn av Sjedeur;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "fra Simeons stamme, Sjelumiel, sønn av Surisjaddai;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "fra Judas stamme, Nasjon, sønn av Amminadab;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "fra Issakars stamme, Netanel, sønn av Suar;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "fra Sebulons stamme, Eliab, sønn av Helon;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "fra Josefs etterkommere: fra Efraim, Elisjama, sønn av Ammihud; fra Manasse, Gamliel, sønn av Pedasur;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "fra Benjamins stamme, Abidan, sønn av Gideoni;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "fra Dans stamme, Ahieser, sønn av Ammisjaddai;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "fra Asjers stamme, Pagiel, sønn av Okran;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "fra Gads stamme, Eljasaf, sønn av Deuel;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "fra Naftalis stamme, Ahira, sønn av Enan."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Disse var mennene som var utpekt fra menigheten, lederne for deres fedres stammer; de var overhodene for Israels klaner."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Moses og Aron samlet disse mennene som var blitt utpekt ved navn,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "og de samlet hele menigheten på den første dagen i den andre måneden. De registrerte etter slekt i deres familier, etter deres fedres hus, i henhold til antall navn, fra tjue år og oppover, én etter én,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "som Herren hadde befalt Moses. Så han talte dem i Sinai-ørkenen."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Fra Rubens etterkommere, Israels førstefødte: Alle mennene som var tjue år eller eldre og i stand til å tjene i hæren, ble oppført ved navn, én etter én, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Tallet fra Rubens stamme var 46 500."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Fra Simeons etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble talt og oppført ved navn, én etter én, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Tallet fra Simeons stamme var 59 300."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Fra Gads etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Tallet fra Gads stamme var 45 650."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Fra Judas etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Tallet fra Judas stamme var 74 600."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Fra Issakars etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Tallet fra Issakars stamme var 54 400."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Fra Sebulons etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Tallet fra Sebulons stamme var 57 400."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Fra Josefs etterkommere: Fra Efraims stamme: Alle de kvalifiserte mennene som var tjue år eller eldre og i stand til militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Tallet fra Efraims stamme var 40 500."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Fra Manasses etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Tallet fra Manasses stamme var 32 200."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Fra Benjamins etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Tallet fra Benjamins stamme var 35 400."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Fra Dans etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Tallet fra Dans stamme var 62 700."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Fra Asjers etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Tallet fra Asjers stamme var 41 500."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Fra Naftalis etterkommere: Alle mennene som var tjue år eller eldre og kvalifiserte for militærtjeneste, ble oppført ved navn, etter opptegnelsene av deres klaner og familier."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Tallet fra Naftalis stamme var 53 400."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Disse var mennene som ble talt av Moses og Aron, med lederne av Israel, tolv menn, hver representerende sin fars hus."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Alle israelittene som var tjue år eller eldre og kvalifiserte for militærtjeneste i Israels hær, ble talt etter deres familier."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Deres totale antall var 603 550."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Levis stamme ble imidlertid ikke talt sammen med de andre."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "For Herren hadde talt til Moses og instruert ham,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "\"Du skal ikke telle Levis stamme eller inkludere dem i folketellingen av de andre israelittene."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "I stedet skal du utnevne levittene over vitnesbyrdets tabernakel, over alle dets innredninger og alt som hører til det. De skal bære tabernaklet og alle dets innredninger; de skal ta seg av det og slå leir rundt det."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Når tabernaklet skal flyttes, skal levittene ta det ned, og når det skal settes opp, skal levittene gjøre det. Enhver fremmed som nærmer seg det, skal dø."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Israelittene skal slå leir etter sine avdelinger, hver mann ved sin egen leir, og hver mann ved sitt eget banner."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Men levittene skal slå leir rundt vitnesbyrdets tabernakel, så det ikke blir noen guddommelig vrede mot israelittenes menighet. Levittene skal være ansvarlige for tjenesten ved vitnesbyrdets tabernakel.\""
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Israelittene gjorde alt dette akkurat som Herren hadde instruert Moses."
+            ]
+        }
+    ]
+}

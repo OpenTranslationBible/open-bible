@@ -1,0 +1,52 @@
+# Jesaja Kapittel 54
+
+## Jesaja 54:1
+«Gled deg, du ufruktbare, du som ikke har født barn; bryt ut i sang og rop av glede, du som ikke har hatt fødselsveer; for den ensommes barn er flere enn hennes som har mann,» sier Herren.
+
+## Jesaja 54:2
+«Utvid plassen for ditt telt, strekk ut dine boligers tepper, hold ikke tilbake; forleng dine snorer og styrk dine plugger.
+
+## Jesaja 54:3
+For du skal bre deg ut til høyre og til venstre; dine etterkommere skal ta nasjoner i eie og bo i de øde byene.
+
+## Jesaja 54:4
+«Frykt ikke, for du skal ikke bli til skamme; bli ikke motløs, for du skal ikke bli vanæret; du skal glemme din ungdoms skam og ikke mer minnes din enkestands vanære.
+
+## Jesaja 54:5
+For din skaper er din ektemann— Herren, hærskarenes Gud, er hans navn— Israels Hellige er din gjenløser; han kalles hele jordens Gud.
+
+## Jesaja 54:6
+Herren har kalt deg tilbake som en forlatt og bedrøvet kvinne, som en kvinne gift i ungdommen, bare for å bli avvist,» sier din Gud.
+
+## Jesaja 54:7
+«For et lite øyeblikk forlot jeg deg, men med stor medfølelse vil jeg samle deg tilbake.
+
+## Jesaja 54:8
+I et øyeblikks vrede skjulte jeg mitt ansikt for deg, men med evig godhet vil jeg vise deg medfølelse,» sier Herren din gjenløser.
+
+## Jesaja 54:9
+«For meg er dette som Noahs dager, da jeg sverget at Noahs vann aldri mer skulle oversvømme jorden. Så har jeg sverget at jeg ikke vil være vred på deg eller true deg igjen.
+
+## Jesaja 54:10
+Om fjellene viker og haugene vakler, skal likevel min trofaste kjærlighet ikke vike fra deg, og min fredspakt skal ikke vakle,» sier Herren, som har medfølelse med deg.
+
+## Jesaja 54:11
+«Du forpinte by, herjet av stormer og uten trøst, jeg vil bygge deg opp med turkiser og legge dine grunnvoller med safirer.
+
+## Jesaja 54:12
+Jeg vil gjøre dine murtinder av rubiner, dine porter av krystall, og alle dine murer av kostbare steiner.
+
+## Jesaja 54:13
+Alle dine barn skal være lært av Herren, og deres fred skal være stor.
+
+## Jesaja 54:14
+I rettferdighet skal du bli grunnfestet; du skal være langt fra undertrykkelse, og du skal ikke frykte; redsel skal være langt borte; den skal ikke komme nær deg.
+
+## Jesaja 54:15
+Om noen angriper deg, kommer det ikke fra meg; hvem som enn angriper deg, skal falle for deg.
+
+## Jesaja 54:16
+«Se, det er jeg som har skapt smeden som blåser på kullilden og former et våpen som passer til sitt arbeid; og jeg har skapt ødeleggeren til å gjøre skade.
+
+## Jesaja 54:17
+Intet våpen som er smidd mot deg, skal lykkes, og du skal gjendrive hver tunge som reiser seg mot deg i dom. Dette er arven til Herrens tjenere, og deres rettferdighet er fra meg,» erklærer Herren.
