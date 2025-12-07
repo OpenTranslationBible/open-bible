@@ -1,10 +1,6 @@
 # This is the Open Translation Bible
 
-You can [Read the version in English](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.en-GB.pdf) or [Read the version in Hindi](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.hi-IN.pdf)
-
-Or [Visit our website](https://openbible.uk)
-
-Or [Read The Licence](https://github.com/OpenTranslationBible/open-bible?tab=License-1-ov-file)
+[Visit our website](https://openbible.uk) · [Read The Licence](https://github.com/OpenTranslationBible/open-bible?tab=License-1-ov-file)
 
 Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
 
@@ -12,21 +8,17 @@ Attribution-ShareAlike 4.0 International [CC BY-SA 4.0](https://creativecommons.
 
 The Open Translation Bible (OTB) is the world's first open source bible and was launched in July 2025. We are https://openbible.uk - The Open Translation Bible is not to be confused with other organisations or websites possessing similar sounding names. We are unaffiliated to any other organisation.
 
-## Current Languages
+## Available Languages
 
-### British English
+| Language                    | Code  | Launch        | Read PDF                                                                                                   |
+| --------------------------- | ----- | ------------- | ---------------------------------------------------------------------------------------------------------- |
+| 🇬🇧 English (British)        | en-GB | July 2025     | [📖 OpenBible.en-GB.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.en-GB.pdf) |
+| 🇮🇳 हिन्दी (Hindi)           | hi-IN | July 2025     | [📖 OpenBible.hi-IN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.hi-IN.pdf) |
+| 🇮🇷 فارسی (Persian)          | fa-IR | July 2025     | [📖 OpenBible.fa-IR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.fa-IR.pdf) |
+| 🇫🇷 Français (French)        | fr-FR | December 2025 | [📖 OpenBible.fr-FR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.fr-FR.pdf) |
+| 🇳🇴 Norsk Bokmål (Norwegian) | nb-NO | December 2025 | [📖 OpenBible.nb-NO.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.nb-NO.pdf) |
 
-en-GB
-
-### Indian Hindi
-
-hi-IN
-
-### Persian Farsi
-
-fa-IR
-
-We cross referenced over 1.3 million verses to ensure OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
+We cross referenced over 1.3 million verses in English to ensure the english OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
 
 | short_name | avg_similarity |
 | ---------- | -------------- |
