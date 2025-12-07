@@ -1,0 +1,47 @@
+# Néhémie Chapitre 1
+
+## Néhémie 1:1
+
+Ce sont les paroles de Néhémie, fils de Hacalia. Pendant le mois de Kislev, la vingtième année, alors que j'étais dans la citadelle de Suse,
+
+## Néhémie 1:2
+
+Hanani, l'un de mes frères, est venu avec quelques hommes de Juda, et je leur ai demandé des nouvelles des Juifs rescapés qui avaient survécu à l'exil, et de Jérusalem.
+
+## Néhémie 1:3
+
+Ils m'ont répondu : « Ceux qui ont survécu à l'exil et qui sont dans la province sont dans une grande détresse et un grand déshonneur. Le mur de Jérusalem est en ruine, et ses portes ont été brûlées par le feu. »
+
+---
+
+## Néhémie 1:4
+
+Quand j'ai entendu ces paroles, je me suis assis et j'ai pleuré, faisant deuil pendant plusieurs jours. J'ai jeûné et prié devant le Dieu du ciel.
+
+## Néhémie 1:5
+
+J'ai dit : « Ô Seigneur, Dieu du ciel, le grand et redoutable Dieu, qui garde Son alliance d'amour avec ceux qui L'aiment et qui gardent Ses commandements,
+
+## Néhémie 1:6
+
+veuillez écouter attentivement et regarder la prière que Votre serviteur offre devant Vous jour et nuit pour Vos serviteurs, le peuple d'Israël. Je confesse les péchés que nous, Israélites, y compris moi-même et la famille de mon père, avons commis contre Vous.
+
+## Néhémie 1:7
+
+Nous avons agi très corruptiblement envers Vous. Nous n'avons pas obéi aux commandements, décrets et lois que Vous avez donnés à Votre serviteur Moïse.
+
+## Néhémie 1:8
+
+Souvenez-vous de la parole que Vous avez donnée à Votre serviteur Moïse, disant : ‘Si vous êtes infidèles, Je vous disperserai parmi les nations,
+
+## Néhémie 1:9
+
+mais si vous revenez à Moi et obéissez à Mes commandements, alors même si votre peuple exilé est à l'horizon le plus éloigné, Je les rassemblerai de là et les amènerai à l'endroit que J'ai choisi pour que Mon Nom y demeure.’
+
+## Néhémie 1:10
+
+Ils sont Vos serviteurs et Votre peuple, que Vous avez rachetés par Votre grande puissance et Votre main puissante.
+
+## Néhémie 1:11
+
+Seigneur, que Votre oreille soit attentive à la prière de ce Votre serviteur et à la prière de Vos serviteurs qui prennent plaisir à révérer Votre nom. Accordez à Votre serviteur le succès aujourd'hui en lui accordant miséricorde en présence de cet homme. » J'étais échanson du roi.

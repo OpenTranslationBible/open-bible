@@ -1,0 +1,71 @@
+# Jonas Chapitre 1
+
+## Jonas 1:1
+
+La parole du Seigneur fut adressée à Jonas, fils d'Amitthaï, en ces mots :
+
+## Jonas 1:2
+
+> « Lève-toi, va à la grande ville de Ninive et proclame contre elle,
+> car leur méchanceté est montée jusqu'à moi. »
+
+## Jonas 1:3
+
+Mais Jonas se leva pour s'enfuir à Tarsis, loin de la présence du Seigneur. Il descendit à Jaffa et trouva un navire en partance pour Tarsis. Après avoir payé le prix du passage, il y monta pour aller avec eux à Tarsis, loin de la présence du Seigneur.
+
+## Jonas 1:4
+
+Mais le Seigneur fit souffler un vent violent sur la mer, et il y eut une tempête si forte sur la mer que le navire menaçait de se briser.
+
+## Jonas 1:5
+
+Les marins eurent peur et chacun cria à son dieu. Ils jetèrent la cargaison à la mer pour alléger le navire. Pendant ce temps, Jonas était descendu au fond du navire, s'était couché et dormait profondément.
+
+## Jonas 1:6
+
+Le capitaine s'approcha de lui et lui dit :
+« Comment peux-tu dormir ? Lève-toi, invoque ton dieu ! Peut-être que ton dieu pensera à nous, et nous ne périrons pas. »
+
+## Jonas 1:7
+
+Les marins se dirent entre eux : « Venez, tirons au sort pour savoir qui est responsable de ce malheur. » Ils tirèrent au sort, et le sort tomba sur Jonas.
+
+## Jonas 1:8
+
+Alors ils lui demandèrent : « Dis-nous, qui est responsable de ce désastre ? Quelle est ton occupation ? D'où viens-tu ? Quel est ton pays ? De quel peuple es-tu ? »
+
+## Jonas 1:9
+
+Il répondit : « Je suis Hébreu et je crains le Seigneur, le Dieu du ciel, qui a fait la mer et la terre ferme. »
+
+## Jonas 1:10
+
+Cela les terrifia, et ils lui demandèrent : « Qu'as-tu fait ? » Car ils savaient qu'il fuyait loin de la présence du Seigneur, parce qu'il le leur avait dit.
+
+## Jonas 1:11
+
+La mer devenait de plus en plus agitée. Alors ils lui demandèrent : « Que devons-nous te faire pour que la mer se calme pour nous ? »
+
+## Jonas 1:12
+
+Il répondit : « Prenez-moi et jetez-moi à la mer, et elle se calmera pour vous. Je sais que c'est à cause de moi que cette grande tempête est venue sur vous. »
+
+## Jonas 1:13
+
+Cependant, les hommes ramaient fort pour regagner la terre, mais ils ne purent pas, car la mer s'agitait de plus en plus contre eux.
+
+## Jonas 1:14
+
+Alors ils crièrent au Seigneur : « Nous t'en supplions, Seigneur, ne nous fais pas périr à cause de la vie de cet homme, et ne nous charge pas de sang innocent ; car toi, Seigneur, tu fais ce qui te plaît. »
+
+## Jonas 1:15
+
+Ils prirent alors Jonas et le jetèrent à la mer, et la mer cessa de se déchaîner.
+
+## Jonas 1:16
+
+Alors les hommes furent saisis d'une grande crainte du Seigneur, et ils offrirent un sacrifice au Seigneur et firent des vœux.
+
+## Jonas 1:17
+
+Le Seigneur désigna un grand poisson pour avaler Jonas, et Jonas fut dans le ventre du poisson trois jours et trois nuits.

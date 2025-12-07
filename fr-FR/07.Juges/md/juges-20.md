@@ -1,0 +1,195 @@
+# Juges Chapitre 20
+
+## Juges 20:1
+
+Alors tous les Israélites, de Dan à Beer-Schéba, y compris le pays de Galaad, se rassemblèrent comme une seule assemblée devant le Seigneur à Mitspa.
+
+## Juges 20:2
+
+Les chefs de toutes les tribus d'Israël prirent leur place dans l'assemblée du peuple de Dieu, comprenant quatre cent mille fantassins armés d'épées.
+
+## Juges 20:3
+
+(Les Benjamites entendirent que les Israélites s'étaient assemblés à Mitspa.) Les Israélites demandèrent : « Expliquez-nous comment cette méchanceté est survenue. »
+
+## Juges 20:4
+
+Le Lévite, le mari de la femme assassinée, répondit : « Ma concubine et moi sommes venus à Guibea en Benjamin pour passer la nuit.
+
+## Juges 20:5
+
+Les hommes de Guibea se sont levés contre moi et ont entouré la maison pendant la nuit, avec l'intention de me tuer. Ils ont violé ma concubine, et elle est morte.
+
+## Juges 20:6
+
+J'ai pris ma concubine, je l'ai coupée en morceaux, et je les ai envoyés dans tout le territoire d'Israël, car ils ont commis un acte honteux et infâme en Israël.
+
+## Juges 20:7
+
+Maintenant, vous tous Israélites, donnez votre verdict et vos conseils ici. »
+
+---
+
+## Juges 20:8
+
+Tout le peuple se leva comme un seul homme, disant : « Aucun de nous ne retournera à ses tentes ou à ses maisons.
+
+## Juges 20:9
+
+Voici ce que nous ferons à Guibea : nous tirerons au sort pour décider comment nous l'attaquerons.
+
+## Juges 20:10
+
+Nous prendrons dix hommes sur cent de toutes les tribus d'Israël, et cent sur mille, et mille sur dix mille, pour fournir des provisions à l'armée. Quand l'armée arrivera à Guibea en Benjamin, ils les puniront pour l'acte infâme commis en Israël. »
+
+## Juges 20:11
+
+Ainsi tous les hommes d'Israël s'unirent comme un seul homme contre la ville.
+
+## Juges 20:12
+
+Les tribus d'Israël envoyèrent des messagers dans toute la tribu de Benjamin, disant : « Quelle est cette méchanceté qui s'est produite parmi vous ?
+
+## Juges 20:13
+
+Maintenant, livrez ces hommes méchants de Guibea afin que nous les mettions à mort et que nous purgions le mal d'Israël. » Mais les Benjamites refusèrent d'écouter leurs frères Israélites.
+
+## Juges 20:14
+
+Au lieu de cela, les Benjamites se rassemblèrent de leurs villes à Guibea pour combattre contre les Israélites.
+
+## Juges 20:15
+
+Ce jour-là, les Benjamites mobilisèrent vingt-six mille hommes d'épée de leurs villes, sans compter sept cents hommes choisis de Guibea.
+
+## Juges 20:16
+
+Parmi tous ces soldats se trouvaient sept cents troupes d'élite, gauchers, chacun capable de lancer une pierre à un cheveu sans manquer.
+
+## Juges 20:17
+
+Les Israélites, à l'exclusion de Benjamin, rassemblèrent quatre cent mille hommes d'épée, tous prêts pour la bataille.
+
+## Juges 20:18
+
+Les Israélites montèrent à Béthel et consultèrent Dieu : « Qui ira le premier au combat contre les Benjamites ? » Le Seigneur répondit : « Juda ira le premier. »
+
+## Juges 20:19
+
+Le lendemain matin, les Israélites se levèrent et campèrent près de Guibea.
+
+## Juges 20:20
+
+Les Israélites avancèrent pour combattre les Benjamites et prirent position contre eux à Guibea.
+
+## Juges 20:21
+
+Les Benjamites sortirent de Guibea et abattirent vingt-deux mille Israélites sur le champ de bataille ce jour-là.
+
+## Juges 20:22
+
+Mais les Israélites s'encouragèrent mutuellement et reprirent leurs positions comme ils l'avaient fait le premier jour.
+
+## Juges 20:23
+
+Les Israélites montèrent et pleurèrent devant le Seigneur jusqu'au soir, et consultèrent le Seigneur : « Devons-nous monter à nouveau pour combattre les Benjamites, nos frères ? » Le Seigneur répondit : « Montez contre eux. »
+
+## Juges 20:24
+
+Les Israélites s'approchèrent des Benjamites le deuxième jour.
+
+## Juges 20:25
+
+Cette fois, les Benjamites sortirent de Guibea et tuèrent encore dix-huit mille Israélites, tous armés d'épées.
+
+## Juges 20:26
+
+Alors tous les Israélites, toute l'armée, montèrent à Béthel, où ils s'assirent en pleurant devant le Seigneur. Ils jeûnèrent ce jour-là jusqu'au soir et offrirent des holocaustes et des sacrifices de paix au Seigneur.
+
+## Juges 20:27
+
+Les Israélites consultèrent le Seigneur. (En ces jours-là, l'arche de l'alliance de Dieu était là,
+
+## Juges 20:28
+
+avec Phinées, fils d'Éléazar, fils d'Aaron, qui y officiait.) Ils demandèrent : « Devons-nous monter à nouveau pour combattre les Benjamites, nos frères, ou devons-nous cesser ? » Le Seigneur répondit : « Allez, car demain je les livrerai entre vos mains. »
+
+## Juges 20:29
+
+Alors Israël plaça des hommes en embuscade autour de Guibea.
+
+## Juges 20:30
+
+Le troisième jour, les Israélites montèrent contre les Benjamites et prirent position contre Guibea comme auparavant.
+
+## Juges 20:31
+
+Les Benjamites sortirent à leur rencontre et furent attirés loin de la ville. Ils commencèrent à infliger des pertes aux Israélites comme lors des occasions précédentes, environ trente hommes tombèrent dans le champ ouvert et sur les routes—l'une menant à Béthel et l'autre à Guibea.
+
+## Juges 20:32
+
+Les Benjamites pensaient : « Nous les battons comme auparavant, » mais les Israélites dirent : « Retirons-nous et attirons-les loin de la ville vers les routes. »
+
+## Juges 20:33
+
+Tous les hommes d'Israël quittèrent leurs positions et prirent position à Baal Tamar, et l'embuscade israélite chargea depuis Maareh-Guéba.
+
+## Juges 20:34
+
+Dix mille des hommes choisis d'Israël lancèrent une attaque frontale sur Guibea. La bataille était intense, et les Benjamites ne réalisèrent pas que le désastre était proche.
+
+## Juges 20:35
+
+Le Seigneur vainquit Benjamin devant Israël, et les Israélites abattirent 25 100 Benjamites ce jour-là, tous armés d'épées.
+
+## Juges 20:36
+
+Les Benjamites virent qu'ils étaient vaincus. Les hommes d'Israël avaient cédé devant Benjamin parce qu'ils comptaient sur l'embuscade qu'ils avaient placée près de Guibea.
+
+## Juges 20:37
+
+Ceux en embuscade se précipitèrent dans Guibea, se répandirent, et mirent toute la ville à l'épée.
+
+## Juges 20:38
+
+Les Israélites avaient convenu avec l'embuscade qu'ils enverraient une grande colonne de fumée de la ville,
+
+## Juges 20:39
+
+À ce moment-là, les Israélites lanceraient leur contre-attaque. Les Benjamites avaient commencé à infliger des pertes aux Israélites (environ trente), et ils dirent : « Nous les battons comme lors de la première bataille. »
+
+## Juges 20:40
+
+Mais lorsque la colonne de fumée commença à s'élever de la ville, les Benjamites se retournèrent et virent toute la ville monter en fumée.
+
+## Juges 20:41
+
+Alors les Israélites se retournèrent contre eux, et les Benjamites furent terrifiés car ils réalisèrent que le désastre était venu sur eux.
+
+## Juges 20:42
+
+Ils s'enfuirent devant les Israélites vers le désert, mais ils ne purent échapper à la bataille. Les Israélites qui sortaient des villes les abattirent là.
+
+## Juges 20:43
+
+Ils entourèrent les Benjamites, les poursuivirent, et les écrasèrent facilement dans les environs de Guibea à l'est.
+
+## Juges 20:44
+
+Dix-huit mille Benjamites tombèrent, tous des guerriers courageux.
+
+## Juges 20:45
+
+Alors qu'ils se tournaient et fuyaient vers le désert jusqu'au rocher de Rimmon, les Israélites en attrapèrent cinq mille sur les routes et les rattrapèrent à Guidom, abattant deux mille de plus.
+
+## Juges 20:46
+
+Ce jour-là, vingt-cinq mille hommes d'épée Benjamites tombèrent, tous des guerriers courageux.
+
+## Juges 20:47
+
+Mais six cents hommes se retournèrent et s'enfuirent dans le désert jusqu'au rocher de Rimmon, où ils restèrent pendant quatre mois.
+
+## Juges 20:48
+
+Les hommes d'Israël retournèrent à Benjamin et mirent toutes les villes à l'épée, y compris les animaux et tout ce qu'ils trouvèrent. Ils incendièrent toutes les villes qu'ils rencontrèrent.
