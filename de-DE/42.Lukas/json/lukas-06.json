@@ -1,0 +1,368 @@
+{
+    "book": "Lukas",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "An einem Sabbat ging Jesus durch einige Kornfelder, und seine Jünger begannen, die Ähren zu pflücken, sie mit den Händen zu reiben und die Körner zu essen."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Einige der Pharisäer fragten: „Warum tut ihr, was am Sabbat nicht erlaubt ist?“"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Jesus antwortete ihnen: „Habt ihr nicht gelesen, was David tat, als er und seine Begleiter hungrig waren?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Er ging in das Haus Gottes, nahm das geweihte Brot und aß, was nur für Priester erlaubt ist zu essen, und er gab auch seinen Begleitern davon.“"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Und er sagte ihnen: „Der Menschensohn ist Herr über den Sabbat.“"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "An einem anderen Sabbat ging er in die Synagoge und lehrte, und dort war ein Mann, dessen rechte Hand verdorrt war."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Die Schriftgelehrten und Pharisäer beobachteten ihn genau, um zu sehen, ob er am Sabbat heilen würde, damit sie einen Grund finden könnten, ihn zu beschuldigen."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Aber er kannte ihre Gedanken und sagte zu dem Mann mit der verdorrten Hand: „Steh auf und stell dich vor alle.“ Da stand er auf und stellte sich hin."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Dann sagte Jesus zu ihnen: „Ich frage euch, ist es erlaubt, am Sabbat Gutes zu tun oder Böses zu tun, ein Leben zu retten oder es zu zerstören?“"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Nachdem er sie alle angesehen hatte, sagte er zu dem Mann: „Strecke deine Hand aus.“ Er tat es, und seine Hand wurde wiederhergestellt."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Aber sie waren voller Wut und begannen miteinander zu besprechen, was sie mit Jesus tun könnten."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Zu dieser Zeit ging Jesus auf einen Berg, um zu beten, und verbrachte die ganze Nacht im Gebet zu Gott."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Als der Morgen kam, rief er seine Jünger zu sich und wählte zwölf von ihnen aus, die er auch Apostel nannte:"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Simon (den er Petrus nannte), seinen Bruder Andreas, Jakobus, Johannes, Philippus, Bartholomäus,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Matthäus, Thomas, Jakobus, den Sohn des Alphäus, Simon, genannt der Zelot,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Judas, den Sohn des Jakobus, und Judas Iskariot, der ihn später verriet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Er ging mit ihnen hinunter und stellte sich auf einen ebenen Platz. Eine große Menge seiner Jünger war dort, und eine große Menge von Menschen aus ganz Judäa, aus Jerusalem und aus der Küstenregion von Tyrus und Sidon,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "die gekommen waren, um ihn zu hören und von ihren Krankheiten geheilt zu werden. Die von unreinen Geistern Geplagten wurden geheilt,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "und alle versuchten, ihn zu berühren, denn Kraft ging von ihm aus und heilte sie alle."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Er wandte sich seinen Jüngern zu und sagte:",
+                "> „Selig seid ihr, die ihr arm seid,",
+                "> denn euch gehört das Reich Gottes."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Glücklich seid ihr, die ihr jetzt hungert,",
+                "> denn ihr werdet satt werden.",
+                "> Glücklich seid ihr, die ihr jetzt weint,",
+                "> denn ihr werdet Freude finden."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Selig seid ihr, wenn die Menschen euch hassen,",
+                "> euch ausschließen, euch beleidigen",
+                "> und euren Namen als böse verachten",
+                "> um des Menschensohnes willen."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Freut euch an jenem Tag und springt vor Freude, denn siehe, euer Lohn ist groß im Himmel. Denn so haben ihre Vorfahren die Propheten behandelt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Aber wehe euch, die ihr reich seid,",
+                "> denn ihr habt euren Trost schon empfangen."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Wehe euch, die ihr jetzt satt seid,",
+                "> denn ihr werdet hungern.",
+                "> Wehe euch, die ihr jetzt lacht,",
+                "> denn ihr werdet trauern und weinen."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Wehe euch, wenn alle gut von euch reden,",
+                "> denn so haben ihre Vorfahren die falschen Propheten behandelt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "„Aber zu euch, die ihr zuhört, sage ich: Liebt eure Feinde und tut denen Gutes, die euch hassen,"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "redet gut über die, die euch verfluchen, und betet für die, die euch misshandeln."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Wenn dich jemand auf die eine Wange schlägt, biete ihm auch die andere dar. Wenn jemand deinen Mantel nimmt, verweigere ihm auch nicht dein Hemd."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Gib jedem, der dich bittet, und wenn jemand dir etwas nimmt, das dir gehört, bestehe nicht darauf, es zurückzubekommen."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Tut anderen, was ihr wollt, dass sie euch tun."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Wenn ihr die liebt, die euch lieben, welchen Dank habt ihr davon? Auch die, die nicht gerecht sind, lieben die, die sie lieben."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Und wenn ihr denen Gutes tut, die euch Gutes tun, welchen Dank habt ihr davon? Auch die, die nicht gerecht sind, tun dasselbe."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Und wenn ihr denen leiht, von denen ihr Rückzahlung erwartet, welchen Dank habt ihr davon? Auch die, die nicht gerecht sind, leihen anderen wie sich selbst und erwarten, voll zurückgezahlt zu werden."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Aber liebt eure Feinde, tut ihnen Gutes und leiht, ohne etwas zurückzuerwarten. Dann wird euer Lohn groß sein, und ihr werdet Kinder des Höchsten sein, denn er ist gütig zu den Undankbaren und Bösen."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Darum zeigt Barmherzigkeit, wie auch euer Vater Barmherzigkeit zeigt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "„Urteilt nicht, und ihr werdet nicht verurteilt werden. Verurteilt nicht, und ihr werdet nicht verurteilt werden. Vergebt, und euch wird vergeben werden."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Gebt, und es wird euch gegeben werden. Ein großzügiges Maß, fest gedrückt, geschüttelt und überfließend, wird in euren Schoß gegossen werden. Denn mit dem Maß, das ihr verwendet, wird euch gemessen werden.“"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Er erzählte ihnen auch dieses Gleichnis: „Kann ein Blinder einen Blinden führen? Werden sie nicht beide in eine Grube fallen?"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Der Schüler steht nicht über dem Lehrer, aber jeder, der vollständig ausgebildet ist, wird wie sein Lehrer sein."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Warum siehst du den Splitter im Auge deines Bruders und beachtest nicht den Balken in deinem eigenen Auge?"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Wie kannst du zu deinem Bruder sagen: ‚Bruder, lass mich den Splitter aus deinem Auge ziehen‘, wenn du selbst den Balken in deinem eigenen Auge nicht bemerkst? Du Heuchler, zieh zuerst den Balken aus deinem Auge, und dann wirst du klar sehen, um den Splitter aus dem Auge deines Bruders zu entfernen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Ein gesunder Baum bringt keine schlechten Früchte hervor, noch bringt ein kranker Baum gute Früchte hervor."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Jeder Baum wird an seinen eigenen Früchten erkannt. Man pflückt keine Feigen von Dornbüschen, noch sammelt man Trauben von Disteln."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Ein guter Mensch bringt Gutes aus dem Guten hervor, das in seinem Herzen gespeichert ist, und ein böser Mensch bringt Böses aus dem Bösen hervor, das in seinem Herzen gespeichert ist. Denn der Mund spricht, wovon das Herz voll ist."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "„Warum nennt ihr mich ‚Herr, Herr‘ und folgt doch nicht meinen Anweisungen?"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Jeder, der zu mir kommt und meine Worte hört und sie in die Praxis umsetzt, dem werde ich zeigen, wem er gleicht:"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Er gleicht einem Menschen, der ein Haus baut, der tief gräbt und das Fundament auf Fels legt. Wenn eine Flut kommt, trifft der Strom dieses Haus, kann es aber nicht erschüttern, weil es gut gebaut ist."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Aber wer meine Worte hört und sie nicht in die Praxis umsetzt, gleicht einem Menschen, der ein Haus auf den Boden ohne Fundament baut. In dem Moment, in dem der Strom dieses Haus trifft, stürzt es ein und seine Zerstörung ist vollständig.“"
+            ]
+        }
+    ]
+}

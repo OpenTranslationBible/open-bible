@@ -1,0 +1,497 @@
+{
+    "book": "Nehemia",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Als die Mauer vollendet und die Türen eingesetzt waren, setzte ich die Torwächter, die Sänger und die Leviten ein."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Ich setzte meinen Bruder Hanani und Hananja, den Befehlshaber der Festung, über Jerusalem ein, denn er war ein zuverlässiger Mann, der Gott mehr fürchtete als viele andere."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Ich wies sie an: „Öffnet die Tore Jerusalems nicht, bevor die Sonne hoch steht. Während die Torwächter noch im Dienst sind, lasst sie die Türen schließen und verriegeln. Bestellt auch Wachen aus den Einwohnern Jerusalems, jeder an seinem Posten und vor seinem eigenen Haus.“"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Die Stadt war groß und geräumig, aber die Bevölkerung war klein, und die Häuser waren noch nicht wieder aufgebaut."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Dann legte mein Gott es mir ins Herz, die Edlen, die Beamten und das einfache Volk zur Registrierung nach Familien zu versammeln. Ich fand das genealogische Verzeichnis derer, die zuerst zurückgekehrt waren, und dies entdeckte ich:"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Dies sind die Leute der Provinz, die aus der Gefangenschaft der Exilanten zurückkehrten, die Nebukadnezar, der König von Babylon, ins Exil geführt hatte. Sie kehrten nach Jerusalem und Juda zurück, jeder in seine eigene Stadt,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "zusammen mit Serubbabel, Jeschua, Nehemia, Asarja, Reamja, Nachamani, Mordechai, Bilschan, Misperet, Bigwai, Nehum und Baana. Die Liste der Männer Israels:"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> die Linie von Parosch, gezählt 2.172;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> die Linie von Schefatja, gezählt 372;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> die Linie von Arach, gezählt 652;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> die Linie von Pahat-Moab, gezählt durch die Linie von Jeschua und Joab, 2.818;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> die Linie von Elam, gezählt 1.254;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> die Linie von Sattu, gezählt 845;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> die Linie von Sakkai, gezählt 760;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> die Linie von Binnui, gezählt 648;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> die Linie von Bebai, gezählt 628;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> die Linie von Asgad, gezählt 2.322;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> die Linie von Adonikam, gezählt 667;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> die Linie von Bigwai, gezählt 2.067;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> die Linie von Adin, gezählt 655;"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> die Linie von Ater, gezählt durch Hiskia, 98;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> die Linie von Haschum, gezählt 328;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> die Linie von Bezai, gezählt 324;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> die Linie von Harif, gezählt 112;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> die Linie von Gibeon, gezählt 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> die Leute von Bethlehem und Netopha, gezählt 188;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> die Leute von Anatot, gezählt 128;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> die Leute von Beth Asmavet, gezählt 42;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> die Leute von Kirjat-Jearim, Kefira und Beerot, gezählt 743;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> die Leute von Rama und Geba, gezählt 621;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> die Leute von Michmas, gezählt 122;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> die Leute von Bethel und Ai, gezählt 123;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> die Leute von dem anderen Nebo, gezählt 52;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> die Linie von dem anderen Elam, gezählt 1.254;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> die Linie von Harim, gezählt 320;"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> die Leute von Jericho, gezählt 345;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> die Leute von Lod, Hadid und Ono, gezählt 721;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> die Linie von Senaa, gezählt 3.930."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Die Priester:",
+                "> die Linie von Jedaja, aus dem Haus Jeschua, gezählt 973;"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> die Linie von Immer, gezählt 1.052;"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> die Linie von Paschhur, gezählt 1.247;"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> die Linie von Harim, gezählt 1.017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Die Leviten:",
+                "> die Linie von Jeschua, durch Kadmiel, durch die Linie von Hodawa, gezählt 74."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Die Sänger:",
+                "> die Linie von Asaf, gezählt 148."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Die Torwächter:",
+                "> die Linie von",
+                "> Schallum, Ater, Talmon, Akkub,",
+                "> Hatita und Schobai, gezählt 138."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Die Tempeldiener:",
+                "die Linie von Ziha, Hasupha, Tabbaot,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> die Linie von Keros, Sia und Padon,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> die Linie von Lebana, Hagaba und Salmai,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> die Linie von Hanan, Giddel und Gahar,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> die Linie von Reaja, Rezin und Nekoda,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> die Linie von Gassam, Uzza und Paseach,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> die Linie von Besai, Meunim und der Tempeldiener Nephusim,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> die Linie von Bakbuk, Hakupha und Harhur,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> die Linie von Bazluth, Mehida und Harsha,"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "> die Linie von Barkos, Sisera und Temah,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> die Linie von Neziah und Hatipha."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Die Nachkommen der Diener Salomos:",
+                "die Nachkommen von Sotai, Sofereth und Perida,"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "die Nachkommen von Jaala, Darkon und Giddel,"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "die Nachkommen von Schefatja, Hattil, Pochereth-Hazzebaim und der Tempeldiener Amon."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Die Tempeldiener und die Nachkommen der Diener Salomos zählten insgesamt 392."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Dies waren die, die aus Tel-Melah, Tel-Harscha, Cherub, Addon und Immer heraufkamen, aber sie konnten ihre Familien oder ihre Abstammung nicht nachweisen, ob sie von Israel waren:"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "die Familien von Delaja, Tobija und Nekoda, 642."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "Und von den Priestern: die Nachkommen von Hobaja, Hakkoz und Barsillai, der eine Tochter von Barsillai, dem Gileaditer, geheiratet hatte und diesen Namen annahm."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Diese suchten nach ihren Familienaufzeichnungen, aber sie konnten sie nicht finden und wurden daher von der Priesterschaft als unrein ausgeschlossen."
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "Der Statthalter befahl ihnen, nichts von dem heiligsten Essen zu essen, bis ein Priester mit Urim und Tummim aufstand."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Die ganze Versammlung zählte 42.360,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "zusätzlich zu ihren 7.337 männlichen und weiblichen Dienern; und sie hatten auch 245 Sänger, sowohl männlich als auch weiblich."
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Sie besaßen 736 Pferde, 245 Maultiere,"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "und hatten 435 Kamele und 6.720 Esel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Einige der Familienoberhäupter trugen zur Arbeit bei. Der Statthalter gab der Schatzkammer 1.000 Gold-Drachmen, 50 Schalen und 530 Gewänder für Priester."
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "Einige der Familienoberhäupter gaben der Schatzkammer für die Arbeit 20.000 Gold-Drachmen und 2.200 Silber-Minen."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "Der Rest des Volkes gab 20.000 Gold-Drachmen, 2.000 Silber-Minen und 67 Gewänder für Priester."
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "Die Priester, die Leviten, die Torwächter, die Sänger, einige der Leute, die Tempeldiener und ganz Israel ließen sich in ihren Städten nieder. Als der siebte Monat kam, waren die Israeliten in ihren Städten."
+            ]
+        }
+    ]
+}

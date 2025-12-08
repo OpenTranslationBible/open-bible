@@ -1,0 +1,435 @@
+{
+    "book": "1 Chronik",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Adam, Seth und Enosch,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kenan, Mahalalel und Jared,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Henoch, Methusalah und Lamech,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Noah, zusammen mit seinen Söhnen:",
+                "> Sem, Ham und Japheth."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Japheths Söhne waren:",
+                "> Gomer, Magog, Madai, Jawan, Tubal, Meschech und Tiras."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Gomers Söhne waren:",
+                "> Aschkenas, Diphath und Togarma."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Jawans Nachkommen waren:",
+                "> Elischa, Tarsis, Kittim und Rodanim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Hams Söhne waren:",
+                "> Kusch, Mizraim, Put und Kanaan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Kuschs Söhne waren:",
+                "> Seba, Hawila, Sabta, Raema und Sabtecha.",
+                "> Und Raemas Söhne waren:",
+                "> Scheba und Dedan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Kusch war der Vater von Nimrod;",
+                "> er wurde eine mächtige Figur auf der Erde."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Mizraim war der Vater der Linie von",
+                "> Lud, Anam, Lehab, Naphtuh,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Pathrus, Kasluh (von denen die Philister kamen) und Kaftor."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kanaan war der Vater von",
+                "> Sidon, seinem Erstgeborenen, und Het,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "und den Jebusitern, den Amoriten und den Girgaschitern,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "und den Hiwitern, den Arkitern und den Siniter,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "und den Arwaditern, den Zemaritern und den Hamatitern."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Die Söhne von Sem waren:",
+                "> Elam, Assur, Arpachschad, Lud, Aram,",
+                "> Die Söhne von Aram waren",
+                "> Uz, Hul, Gether und Meschech."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arpachschad war der Vater von Schelach,",
+                "und Schelach war der Vater von Eber."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Eber hatte zwei Söhne:",
+                "> einer hieß Peleg, denn in seinen Tagen wurde die Erde geteilt;",
+                "> und sein Bruder hieß Joktan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Joktans Nachkommen waren:",
+                "> Almodad, Scheleph, Hazarmavet, Jerach,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadoram, Usal und Dikla,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ebal, Abimael und Scheba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ophir, Hawila und Jobab.",
+                "Dies waren alle Söhne von Joktan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Sem, Arpachschad und Schelach,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Eber, Peleg und Reu,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serug, Nahor und Terach,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> und Abram, der auch als Abraham bekannt ist."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Abrahams Söhne waren:",
+                "> genannt Isaak und Ismael."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Dies sind ihre Generationen:",
+                "> Ismaels Erstgeborener war Nebajoth, gefolgt von Kedar, Adbeel und Mibsam,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Mischma, Duma, Massa, Hadad und Tema,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Jetur, Nafisch und Kedma.",
+                "Dies waren Ismaels Nachkommen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Die Söhne von Ketura, Abrahams Nebenfrau, die sie gebar:",
+                "> Simran, Jokschan, Medan, Midian, Jischbak und Schuach.",
+                "> Jokschans Söhne waren:",
+                "> Scheba und Dedan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Midians Söhne waren:",
+                "> Epha, Epher, Henoch, Abida und Eldaa.",
+                "> Dies waren alle Keturas Söhne."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Abraham zeugte Isaak.",
+                "> Isaaks Söhne waren:",
+                "> Esau und Israel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Esaus Söhne waren:",
+                "> Eliphas, Reuel und Jeusch; Jalam und Korach."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Eliphas' Söhne waren:",
+                "> Teman, Omar, Zephi, Gatam, Kenaz, Timna und Amalek."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Reuels Söhne waren:",
+                "> Nachath und Serach; Schamma und Misa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Seirs Söhne waren:",
+                "> Lotan, Schobal und Zibon; Ana, Dischon, Ezer und Dischan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Lotans Söhne waren:",
+                "> Hori und Homam; und Timna war Lotans Schwester."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Schobals Söhne waren:",
+                "> Alwan, Manahath, Ebal, Schephi und Onam.",
+                "> Und Zibons Söhne waren:",
+                "> Aja und Ana."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Anas Sohn war:",
+                "> Dischon.",
+                "> Und Dischons Söhne waren:",
+                "> Hamran, Eschban, Jithran und Keran."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Ezers Söhne waren:",
+                "> Bilhan, Saawan und Jaakan.",
+                "> Dischans Söhne waren:",
+                "> Uz und Aran."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Dies sind die Könige, die im Land Edom regierten, bevor irgendein König über die Israeliten herrschte:",
+                "Bela, der Sohn von Beor, und seine Stadt hieß Dinhaba."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Nach Belas Tod folgte ihm Jobab, der Sohn von Serach aus Bozra, als König."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Nach Jobabs Tod übernahm Huscham aus dem Land der Temaniter den Thron."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Als Huscham starb, wurde Hadad, der Sohn von Bedad, der Midian im Gebiet von Moab besiegte,",
+                "König; seine Stadt hieß Awit."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Nach Hadads Tod bestieg Samla aus Masreka den Thron."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Nach Samlas Tod folgte ihm Schaul aus Rechobot am Fluss als König."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Nach Schauls Tod bestieg Baal-Hanan, der Sohn von Achbor, den Thron."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Als Baal-Hanan starb, wurde Hadad König;",
+                "seine Stadt hieß Pai,",
+                "und seine Frau war Mehetabel, die Tochter von Matred, der Tochter von Me-Sahab."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Dann starb Hadad.",
+                "Und die Häuptlinge von Edom waren:",
+                "Häuptling Timna, Häuptling Alja und Häuptling Jetheth,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Häuptling Oholibama, Häuptling Ela und Häuptling Pinon,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Häuptling Kenaz, Häuptling Teman und Häuptling Mibzar,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Häuptling Magdiel und Häuptling Iram.",
+                "Dies waren die Anführer von Edom."
+            ]
+        }
+    ]
+}

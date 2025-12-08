@@ -1,0 +1,205 @@
+# Exodus Kapitel 12
+
+## Exodus 12:1
+
+Der Herr sprach zu Mose und Aaron im Land Ägypten:
+
+## Exodus 12:2
+
+„Dieser Monat soll für euch der Anfang der Monate sein; er soll für euch der erste Monat des Jahres sein.
+
+## Exodus 12:3
+
+Sprecht zu der ganzen Gemeinde Israel und sagt: ‚Am zehnten dieses Monats soll jeder für sich ein Lamm nehmen, nach den Häusern ihrer Väter, ein Lamm für jedes Haus.
+
+## Exodus 12:4
+
+Wenn aber das Haus zu klein ist für ein Lamm, so nehme er es mit seinem nächsten Nachbarn nach der Zahl der Seelen; ihr sollt das Lamm nach dem Maß dessen teilen, was jeder essen kann.
+
+## Exodus 12:5
+
+Euer Lamm soll ein makelloses, männliches, einjähriges Tier sein; ihr könnt es von den Schafen oder von den Ziegen nehmen.
+
+## Exodus 12:6
+
+Und ihr sollt es bis zum vierzehnten Tag desselben Monats aufbewahren; dann soll die ganze Versammlung der Gemeinde Israel es in der Dämmerung schlachten.
+
+## Exodus 12:7
+
+Und sie sollen etwas von dem Blut nehmen und es an die beiden Türpfosten und an den Türsturz der Häuser streichen, in denen sie es essen.
+
+## Exodus 12:8
+
+Sie sollen das Fleisch in derselben Nacht essen, am Feuer gebraten, und sie sollen es mit ungesäuertem Brot und bitteren Kräutern essen.
+
+## Exodus 12:9
+
+Ihr sollt nichts davon roh oder in Wasser gekocht essen, sondern am Feuer gebraten—seinen Kopf und seine Beine samt seinen Eingeweiden.
+
+## Exodus 12:10
+
+Und ihr sollt nichts davon bis zum Morgen übrig lassen, sondern was bis zum Morgen übrig bleibt, sollt ihr mit Feuer verbrennen.
+
+## Exodus 12:11
+
+So sollt ihr es essen: mit euren Gürteln um eure Lenden, euren Sandalen an euren Füßen und eurem Stab in eurer Hand. Ihr sollt es in Eile essen—es ist das Passah des Herrn.
+
+## Exodus 12:12
+
+Denn ich werde in dieser Nacht durch das Land Ägypten gehen und alle Erstgeborenen im Land Ägypten schlagen, sowohl Mensch als auch Tier; und an allen Göttern Ägyptens werde ich Strafgerichte vollziehen—ich bin der Herr.
+
+## Exodus 12:13
+
+Das Blut soll euch ein Zeichen an den Häusern sein, in denen ihr seid; und wenn ich das Blut sehe, werde ich an euch vorübergehen, und keine Plage wird euch treffen, um euch zu vernichten, wenn ich das Land Ägypten schlage.
+
+## Exodus 12:14
+
+Dieser Tag soll euch ein Gedenktag sein, und ihr sollt ihn als Fest für den Herrn feiern; durch eure Generationen hindurch sollt ihr ihn als ewige Ordnung halten.
+
+## Exodus 12:15
+
+Sieben Tage sollt ihr ungesäuertes Brot essen, aber am ersten Tag sollt ihr den Sauerteig aus euren Häusern entfernen; denn wer vom ersten Tag bis zum siebten Tag Gesäuertes isst, dessen Seele soll aus Israel ausgerottet werden.
+
+## Exodus 12:16
+
+Am ersten Tag sollt ihr eine heilige Versammlung haben, und am siebten Tag eine weitere heilige Versammlung; keine Arbeit soll an diesen Tagen getan werden, außer was jeder essen muss—das allein darf von euch zubereitet werden.
+
+## Exodus 12:17
+
+Ihr sollt auch das Fest der ungesäuerten Brote feiern, denn an diesem selben Tag habe ich eure Scharen aus dem Land Ägypten herausgeführt; darum sollt ihr diesen Tag durch eure Generationen hindurch als ewige Ordnung feiern.
+
+## Exodus 12:18
+
+Vom Abend des vierzehnten Tages des ersten Monats sollt ihr ungesäuertes Brot essen bis zum Abend des einundzwanzigsten Tages des Monats.
+
+## Exodus 12:19
+
+Sieben Tage soll kein Sauerteig in euren Häusern gefunden werden; denn wer Gesäuertes isst, dessen Seele soll aus der Gemeinde Israel ausgerottet werden, sei es ein Fremder oder ein Einheimischer des Landes.
+
+## Exodus 12:20
+
+Ihr sollt nichts Gesäuertes essen; in all euren Wohnungen sollt ihr ungesäuertes Brot essen.
+
+## Exodus 12:21
+
+Dann rief Mose alle Ältesten Israels zusammen und sagte zu ihnen: „Geht und nehmt euch Lämmer für eure Familien und schlachtet das Passahlamm.
+
+## Exodus 12:22
+
+Und ihr sollt ein Büschel Ysop nehmen, es in das Blut tauchen, das im Becken ist, und etwas von dem Blut, das im Becken ist, an den Türsturz und die beiden Türpfosten streichen; und keiner von euch soll bis zum Morgen zur Tür seines Hauses hinausgehen.
+
+## Exodus 12:23
+
+Denn der Herr wird hindurchgehen, um die Ägypter zu schlagen; wenn er aber das Blut am Türsturz und an den beiden Türpfosten sieht, wird der Herr an der Tür vorübergehen und dem Verderber nicht erlauben, in eure Häuser zu kommen, um euch zu schlagen.
+
+## Exodus 12:24
+
+Und ihr sollt dieses Ereignis als Satzung für euch und eure Kinder für alle Zeiten halten.
+
+## Exodus 12:25
+
+Wenn ihr in das Land kommt, das der Herr euch geben wird, wie er es verheißen hat, sollt ihr diesen Ritus beibehalten.
+
+## Exodus 12:26
+
+Und wenn eure Kinder zu euch sagen: ‚Was bedeutet euch dieser Ritus?‘
+
+## Exodus 12:27
+
+Dann sollt ihr sagen: ‚Es ist ein Passahopfer für den Herrn, weil er an den Häusern der Söhne Israels in Ägypten vorüberging, als er die Ägypter schlug, aber unsere Häuser verschonte.‘“ Und das Volk verneigte sich und betete an.
+
+## Exodus 12:28
+
+Dann gingen die Söhne Israels hin und taten, wie der Herr Mose und Aaron geboten hatte, sie taten, wie ihnen befohlen war.
+
+## Exodus 12:29
+
+Und so schlug der Herr um Mitternacht alle Erstgeborenen im Land Ägypten, vom Erstgeborenen des Pharao, der auf seinem Thron saß, bis zum Erstgeborenen des Gefangenen, der im Kerker war, und alle Erstgeborenen des Viehs.
+
+## Exodus 12:30
+
+Da stand der Pharao in der Nacht auf, er und alle seine Diener und alle Ägypter, und es war ein großes Geschrei in Ägypten, denn es war kein Haus, in dem nicht jemand tot war.
+
+## Exodus 12:31
+
+Und er rief Mose und Aaron in der Nacht und sagte: „Steht auf, geht hinaus von meinem Volk, sowohl ihr als auch die Söhne Israels; und geht, dient dem Herrn, wie ihr gesagt habt.
+
+## Exodus 12:32
+
+Nehmt auch eure Herden und eure Rinder, wie ihr gesagt habt, und geht, und segnet mich auch.“
+
+## Exodus 12:33
+
+Die Ägypter drängten das Volk, sie schnell aus dem Land zu schicken, denn sie sagten: „Wir werden alle sterben!“
+
+## Exodus 12:34
+
+So nahm das Volk seinen Teig, bevor er gesäuert war, trug seine Backtröge in ihren Kleidern auf ihren Schultern.
+
+## Exodus 12:35
+
+Nun hatten die Söhne Israels nach dem Wort Moses gehandelt, denn sie hatten von den Ägyptern silberne und goldene Gegenstände und Kleidung erbeten;
+
+## Exodus 12:36
+
+und der Herr hatte dem Volk Gunst in den Augen der Ägypter gegeben, so dass sie ihnen gaben, was sie erbaten. So plünderten sie die Ägypter.
+
+## Exodus 12:37
+
+Die Söhne Israels zogen von Ramses nach Sukkot, etwa sechshunderttausend Männer zu Fuß, abgesehen von den Kindern.
+
+## Exodus 12:38
+
+Auch eine gemischte Menge zog mit ihnen hinauf, zusammen mit Herden und Rindern, eine sehr große Anzahl von Vieh.
+
+## Exodus 12:39
+
+Und sie backten den Teig, den sie aus Ägypten mitgenommen hatten, zu ungesäuerten Broten. Denn er war nicht gesäuert, da sie aus Ägypten vertrieben wurden und nicht verweilen konnten, noch hatten sie sich irgendwelche Vorräte bereitet.
+
+## Exodus 12:40
+
+Die Zeit aber, die die Söhne Israels in Ägypten gewohnt hatten, betrug 430 Jahre.
+
+## Exodus 12:41
+
+Und am Ende der 430 Jahre, an eben diesem Tag, zogen alle Scharen des Herrn aus dem Land Ägypten.
+
+## Exodus 12:42
+
+Es ist eine Nacht, die dem Herrn zu halten ist, weil er sie aus dem Land Ägypten herausgeführt hat; diese Nacht ist für den Herrn, von allen Söhnen Israels durch ihre Generationen hindurch zu halten.
+
+## Exodus 12:43
+
+Und der Herr sprach zu Mose und Aaron: „Dies ist die Ordnung des Passah: Kein Fremder soll davon essen;
+
+## Exodus 12:44
+
+aber jeder Sklave, den jemand mit Geld gekauft hat, nachdem du ihn beschnitten hast, darf davon essen.
+
+## Exodus 12:45
+
+Ein Besucher oder ein Mietling soll nicht davon essen.
+
+## Exodus 12:46
+
+Es soll in einem einzigen Haus gegessen werden; ihr sollt nichts von dem Fleisch aus dem Haus hinausbringen, noch sollt ihr einen Knochen davon zerbrechen.
+
+## Exodus 12:47
+
+Die ganze Gemeinde Israel soll dies feiern.
+
+## Exodus 12:48
+
+Wenn aber ein Fremder bei euch wohnt und das Passah dem Herrn feiern will, so sollen alle seine männlichen Personen beschnitten werden, und dann darf er herankommen, es zu feiern; und er soll wie ein Einheimischer des Landes sein. Aber kein Unbeschnittener darf davon essen.
+
+## Exodus 12:49
+
+Ein und dasselbe Gesetz soll für den Einheimischen und für den Fremden gelten, der unter euch wohnt.“
+
+## Exodus 12:50
+
+Dann taten alle Söhne Israels, wie ihnen befohlen war; sie taten genau so, wie der Herr Mose und Aaron geboten hatte.
+
+## Exodus 12:51
+
+Und an eben diesem Tag führte der Herr die Söhne Israels nach ihren Scharen aus dem Land Ägypten heraus.

@@ -1,0 +1,41 @@
+{
+    "book": "Psalm",
+    "chapter": 133,
+    "verses": [
+        {
+            "text": [
+                "Ein Wallfahrtslied. Von David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Siehe, wie gut und wie angenehm es ist,",
+                "> Wenn Brüder in Eintracht beieinander wohnen!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Es ist wie das kostbare Öl auf dem Haupt,",
+                "> Das herabfließt auf den Bart,",
+                "> Aarons Bart,",
+                "> Das herabfließt auf den Saum seiner Kleider."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Es ist wie der Tau des Hermon,",
+                "> Der herabfließt auf die Berge Zions;",
+                "> Denn dort hat der Herr den Segen verheißen—",
+                "> Leben bis in Ewigkeit."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,162 @@
+# 1 Chronik Kapitel 22
+
+## 1 Chronik 22:1
+
+Zu jener Zeit erklärte David,
+
+> „Dies ist das Haus des Herrn, des Gottes,  
+> und dies ist der Altar des Brandopfers für Israel.“
+
+---
+
+## 1 Chronik 22:2
+
+So gab David den Befehl, die Fremden zu versammeln, die im Land Israel waren,
+
+> und er ernannte Steinhauer, um bearbeitete Steine zu schneiden, um das Haus Gottes zu bauen.
+
+---
+
+## 1 Chronik 22:3
+
+David bereitete große Mengen Eisen vor, um Nägel für die Türen der Tore und für die Klammern zu machen,
+
+> und mehr Bronze, als gewogen werden konnte,
+
+---
+
+## 1 Chronik 22:4
+
+> und Zedernholz in Fülle;  
+> denn die Sidonier und Tyrer brachten große Mengen Zedernholz zu David.
+
+---
+
+## 1 Chronik 22:5
+
+David sagte,
+
+> „Mein Sohn Salomo ist jung und unerfahren,  
+> und das Haus, das für den Herrn gebaut werden soll, soll überaus prächtig sein,  
+> berühmt und herrlich in allen Ländern.  
+> Deshalb werde ich Vorbereitungen dafür treffen.“  
+> So traf David reichliche Vorbereitungen vor seinem Tod.
+
+---
+
+## 1 Chronik 22:6
+
+Dann rief er seinen Sohn Salomo
+
+> und wies ihn an, ein Haus für den Herrn, den Gott Israels, zu bauen.
+
+---
+
+## 1 Chronik 22:7
+
+David sagte zu Salomo,
+
+> „Mein Sohn, ich hatte in meinem Herzen, ein Haus für den Namen des Herrn, meines Gottes, zu bauen.
+
+---
+
+## 1 Chronik 22:8
+
+> Doch das Wort des Herrn kam zu mir und sprach:  
+> ‚Du hast viel Blut vergossen und große Kriege geführt;  
+> du sollst kein Haus für meinen Namen bauen,  
+> weil du so viel Blut auf der Erde vor mir vergossen hast.
+
+---
+
+## 1 Chronik 22:9
+
+> Ein Sohn wird dir geboren werden, der ein Mann des Friedens sein wird;  
+> und ich werde ihm Ruhe vor all seinen Feinden ringsum geben.  
+> Denn sein Name soll Salomo sein,  
+> und ich werde Israel in seinen Tagen Frieden und Ruhe gewähren.
+
+---
+
+## 1 Chronik 22:10
+
+> Er wird ein Haus für meinen Namen bauen,  
+> und er wird mein Sohn sein und ich werde sein Vater sein;  
+> und ich werde den Thron seines Königreichs über Israel für alle Zeit festigen.‘
+
+---
+
+## 1 Chronik 22:11
+
+> Nun, mein Sohn, möge der Herr mit dir sein,  
+> damit du Erfolg hast beim Bau des Hauses des Herrn, deines Gottes,  
+> so wie er über dich gesprochen hat.
+
+---
+
+## 1 Chronik 22:12
+
+> Nur möge der Herr dir Einsicht und Verständnis geben,  
+> und dir Befehl über Israel geben,  
+> damit du das Gesetz des Herrn, deines Gottes, halten kannst.
+
+---
+
+## 1 Chronik 22:13
+
+> Dann wirst du gedeihen und Erfolg haben,  
+> wenn du fleißig bist und die Satzungen und die Verordnungen befolgst,  
+> die der Herr Mose über Israel geboten hat.  
+> Sei stark und mutig, fürchte dich nicht und verzage nicht.
+
+---
+
+## 1 Chronik 22:14
+
+Nun siehe, mit großem Aufwand habe ich für das Haus des Herrn vorbereitet:
+
+> hunderttausend Talente Gold,  
+> eine Million Talente Silber,  
+> und Bronze und Eisen über das Maß hinaus,  
+> denn sie sind in großer Menge;  
+> ich habe auch Holz und Stein vorbereitet, und du kannst hinzufügen.
+
+---
+
+## 1 Chronik 22:15
+
+Zudem hast du viele Arbeiter bei dir:
+
+> Steinhauer, Maurer, Zimmerleute,  
+> und alle Männer, die in jeder Art von Arbeit geschickt sind.
+
+---
+
+## 1 Chronik 22:16
+
+> Vom Gold, Silber, Bronze und Eisen gibt es kein Limit.  
+> Steh auf und arbeite, und möge der Herr mit dir sein.“
+
+---
+
+## 1 Chronik 22:17
+
+David wies alle Führer Israels an, seinem Sohn Salomo zu helfen, indem er sagte,
+
+---
+
+## 1 Chronik 22:18
+
+> „Ist der Herr, euer Gott, nicht mit euch?  
+> Und hat er euch nicht Ruhe ringsum gegeben?  
+> Denn er hat die Bewohner des Landes in meine Hand gegeben,  
+> und das Land ist vor dem Herrn und seinem Volk unterworfen.
+
+---
+
+## 1 Chronik 22:19
+
+> Nun richtet euer Herz und eure Seele darauf, den Herrn, euren Gott, zu suchen.  
+> Steht auf und baut das Heiligtum des Herrn, Gottes,  
+> damit ihr die Lade des Bundes des Herrn  
+> und die heiligen Geräte Gottes in das Haus bringen könnt, das für den Namen des Herrn gebaut werden soll.“

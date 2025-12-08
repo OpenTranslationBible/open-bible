@@ -1,0 +1,49 @@
+{
+    "book": "Psalm",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Lobet den Herrn!",
+                "> Ehrt Gott an seinem heiligen Ort;",
+                "> Lobt ihn in seinen weiten Himmeln."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Ehrt ihn für seine mächtigen Taten;",
+                "> Lobt ihn für seine höchste Größe."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ehrt ihn mit dem Klang der Trompete;",
+                "> Lobt ihn mit Harfe und Leier."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ehrt ihn mit Tamburin und Tanz;",
+                "> Lobt ihn mit Saiteninstrumenten und Flöte."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ehrt ihn mit lauten Zimbeln;",
+                "> Lobt ihn mit schallenden Zimbeln."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Alles, was Atem hat, lobe den Herrn.",
+                "> Lobet den Herrn!"
+            ]
+        }
+    ]
+}
