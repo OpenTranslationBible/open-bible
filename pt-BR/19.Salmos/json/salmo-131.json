@@ -1,0 +1,39 @@
+{
+    "book": "Salmos",
+    "chapter": 131,
+    "verses": [
+        {
+            "text": [
+                "Cântico de Peregrinação. De Davi."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Senhor, meu coração não é orgulhoso, nem meus olhos arrogantes;",
+                "> Nem me envolvo em grandes questões,",
+                "> Ou em coisas difíceis demais para mim."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> De fato, acalmei e tranquilizei minha alma,",
+                "> Como uma criança desmamada repousando com sua mãe,",
+                "> Minha alma dentro de mim é como uma criança desmamada."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Israel, espera pelo Senhor",
+                "> Desde agora e para sempre."
+            ]
+        }
+    ]
+}

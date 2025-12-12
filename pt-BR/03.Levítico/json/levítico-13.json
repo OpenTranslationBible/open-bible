@@ -1,0 +1,360 @@
+{
+    "book": "Levítico",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "O Senhor então falou a Moisés, dizendo:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Quando uma pessoa tiver um inchaço, uma crosta ou uma mancha brilhante na pele do corpo, e se tornar uma possível infecção de lepra, ela deve ser levada a Arão, o sacerdote, ou a um de seus filhos que são sacerdotes."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "O sacerdote examinará a área infectada na pele, e se o cabelo na infecção tiver se tornado branco e a infecção parecer ser mais profunda que a pele, é lepra. Quando o sacerdote os examinar, ele os declarará impuros."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Se a mancha brilhante for branca na pele e não parecer ser mais profunda que a pele, e o cabelo não tiver se tornado branco, o sacerdote deverá isolar a pessoa por sete dias."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "No sétimo dia, o sacerdote os examinará, e se a infecção não tiver mudado e não tiver se espalhado na pele, o sacerdote os isolará por mais sete dias."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "O sacerdote os examinará novamente no sétimo dia, e se a infecção tiver desbotado e não tiver se espalhado, o sacerdote os declarará limpos; é apenas uma erupção. Eles devem lavar suas roupas e estarão limpos."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Mas se a erupção se espalhar na pele depois que se apresentaram ao sacerdote para purificação, devem aparecer novamente diante do sacerdote."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "O sacerdote os examinará, e se a erupção tiver se espalhado, ele os declarará impuros; é lepra."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "“Quando uma pessoa tiver uma infecção de lepra, ela deve ser levada ao sacerdote."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "O sacerdote os examinará, e se houver um inchaço branco na pele que tenha tornado o cabelo branco, e houver carne viva no inchaço,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "é uma lepra crônica na pele, e o sacerdote os declarará impuros. Não precisam ser isolados, pois já estão impuros."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Se a lepra se espalhar pela pele e cobrir todo o corpo da cabeça aos pés, tanto quanto o sacerdote puder ver,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "o sacerdote os examinará, e se a lepra tiver coberto todo o corpo, ele os declarará limpos. Como tudo se tornou branco, estão limpos."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Mas sempre que carne viva aparecer neles, serão impuros."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Quando o sacerdote vir a carne viva, ele os declarará impuros; a carne viva é impura, é lepra."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Se a carne viva mudar e se tornar branca, devem se apresentar ao sacerdote."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "O sacerdote os examinará, e se a área infectada tiver se tornado branca, o sacerdote os declarará limpos; estão limpos."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "“Quando houver uma úlcera na pele e ela cicatrizar,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "e no lugar da úlcera houver um inchaço branco ou uma mancha brilhante avermelhada e branca, devem se apresentar ao sacerdote."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "O sacerdote a examinará, e se parecer ser mais profunda que a pele e o cabelo tiver se tornado branco, o sacerdote os declarará impuros; é lepra que irrompeu na úlcera."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Mas se o sacerdote a examinar e não houver cabelo branco e não for mais profunda que a pele e estiver desbotada, o sacerdote os isolará por sete dias."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Se se espalhar na pele, o sacerdote os declarará impuros; é uma infecção."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Mas se a mancha brilhante permanecer inalterada e não se espalhar, é apenas a cicatriz da úlcera, e o sacerdote os declarará limpos."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "“Quando houver uma queimadura na pele e a carne viva da queimadura se tornar uma mancha brilhante, avermelhada e branca ou branca,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "o sacerdote examinará a mancha, e se o cabelo na mancha brilhante tiver se tornado branco e parecer ser mais profunda que a pele, é lepra que irrompeu na queimadura. O sacerdote os declarará impuros; é uma infecção de lepra."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Mas se o sacerdote a examinar e não houver cabelo branco e não for mais profunda que a pele e estiver desbotada, o sacerdote os isolará por sete dias."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "No sétimo dia, o sacerdote os examinará, e se se espalhar na pele, o sacerdote os declarará impuros; é uma infecção de lepra."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Mas se a mancha brilhante permanecer inalterada e não se espalhar na pele e estiver desbotada, é o inchaço da queimadura, e o sacerdote os declarará limpos; é apenas a cicatriz da queimadura."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "“Se um homem ou mulher tiver uma infecção na cabeça ou na barba,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "o sacerdote examinará a infecção, e se parecer ser mais profunda que a pele e houver cabelo fino amarelado, o sacerdote os declarará impuros; é uma crosta, é lepra da cabeça ou barba."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Mas se o sacerdote examinar a infecção escamosa e não parecer ser mais profunda que a pele e não houver cabelo preto, o sacerdote os isolará por sete dias."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "No sétimo dia, o sacerdote examinará a infecção, e se a crosta não tiver se espalhado e não tiver crescido cabelo amarelado, e não parecer ser mais profunda que a pele,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "devem se barbear, exceto a área afetada, e o sacerdote os isolará por mais sete dias."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "No sétimo dia, o sacerdote examinará a crosta, e se não tiver se espalhado e não parecer ser mais profunda que a pele, o sacerdote os declarará limpos. Devem lavar suas roupas e estarão limpos."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Mas se a crosta se espalhar na pele depois de serem declarados limpos,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "o sacerdote os examinará, e se a crosta tiver se espalhado, ele não precisa procurar cabelo amarelado; estão impuros."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Se a crosta permanecer inalterada e tiver crescido cabelo preto, a crosta está curada, e estão limpos; o sacerdote os declarará limpos."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "“Quando um homem ou mulher tiver manchas brilhantes na pele, manchas brilhantes brancas,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "o sacerdote os examinará, e se as manchas brilhantes forem de um branco pálido, é eczema que irrompeu na pele; estão limpos."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "“Se um homem perder o cabelo da cabeça, ele é calvo, mas está limpo."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Se ele perder cabelo da frente e dos lados do couro cabeludo, ele é calvo na testa, mas está limpo."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Mas se na cabeça calva ou na testa houver uma infecção avermelhada e branca, é lepra irrompendo na cabeça calva ou na testa."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "O sacerdote o examinará, e se o inchaço da infecção for avermelhado e branco na cabeça calva ou na testa, como a aparência de lepra na pele,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "ele é um homem leproso e está impuro. O sacerdote deve declará-lo impuro por causa da infecção na cabeça."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "“Uma pessoa com tal infecção deve usar roupas rasgadas, deixar o cabelo despenteado, cobrir a parte inferior do rosto e gritar: ‘Impuro! Impuro!’"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Devem permanecer impuros enquanto tiverem a infecção. Devem viver sozinhos fora do acampamento."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "“Quando uma vestimenta tiver uma marca de lepra, seja uma vestimenta de lã ou linho,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "seja na urdidura ou na trama, de linho ou lã, ou em couro ou qualquer artigo feito de couro,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "se a marca for esverdeada ou avermelhada na vestimenta ou couro, seja na urdidura ou trama, ou em qualquer artigo de couro, é uma marca leprosa e deve ser mostrada ao sacerdote."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "O sacerdote examinará a marca e isolará o artigo por sete dias."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "No sétimo dia, ele examinará a marca, e se tiver se espalhado na vestimenta, urdidura ou trama, ou couro, é uma malignidade leprosa e está impura."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Ele deve queimar a vestimenta, seja urdidura ou trama, em lã ou linho, ou qualquer artigo de couro onde a marca ocorrer; é uma malignidade leprosa. Deve ser queimada no fogo."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Mas se o sacerdote a examinar e a marca não tiver se espalhado na vestimenta, urdidura ou trama, ou qualquer artigo de couro,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "o sacerdote ordenará que o artigo seja lavado e o isolará por mais sete dias."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Depois que o artigo tiver sido lavado, o sacerdote o examinará novamente, e se a marca não tiver mudado de aparência, mesmo que não tenha se espalhado, está impuro. Queime-o, seja a marca nas costas ou na frente."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Mas se o sacerdote a examinar e a marca tiver desbotado após a lavagem, ele a arrancará da vestimenta, couro, urdidura ou trama."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Se reaparecer na vestimenta, urdidura ou trama, ou qualquer artigo de couro, é uma marca que se espalha; o artigo deve ser queimado."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Qualquer vestimenta, urdidura ou trama, ou qualquer artigo de couro de onde a marca tenha desaparecido após a lavagem deve ser lavado novamente e estará limpo.”"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Estas são as regulamentações para a marca de lepra em uma vestimenta de lã ou linho, urdidura ou trama, ou qualquer artigo de couro, para declará-la limpa ou impura."
+            ]
+        }
+    ]
+}
