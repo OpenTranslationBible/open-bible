@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "Sélectionner un chapitre",
   "NO_MATCHES": "Aucun résultat",
   "SELECT_A_BOOK": "Sélectionner un livre",
+  "SEARCH": "Rechercher",
   "SEARCH_BOOKS": "Rechercher des livres…",
   "SETTINGS": "Paramètres",
   "ENGLISH_LANG": "Anglais en-GB",
@@ -79,6 +80,18 @@
   "JAPANESE": "Japonais",
   "NORWEGIAN": "Norvégien",
   "PORTUGUESE": "Portugais",
-  "SPANISH": "Espagnol"
+  "SPANISH": "Espagnol",
+  "LOADING_LANGUAGES": "Chargement des langues disponibles...",
+  "ERROR_LOAD_LANGUAGES": "Impossible de charger les langues. Vérifiez votre connexion Internet.",
+  "RETRY": "Réessayer",
+  "DONE": "Terminé",
+  "LANGUAGE_INSTALLED": "installé.",
+  "DOWNLOAD_FAILED": "Échec du téléchargement",
+  "SWITCH_FAILED": "Échec du changement",
+  "CANNOT_REMOVE": "Impossible de supprimer",
+  "LANGUAGE_IN_USE": "Ce pack de langue est actuellement utilisé.",
+  "REMOVE_LANGUAGE_PACK": "Supprimer le pack de langue",
+  "PACK_STORED_ON_DEVICE": "Le pack sera stocké sur l'appareil",
+  "LANGUAGE_HELP": "• Le pack anglais (UK) intégré ne peut pas être supprimé.\n• Un pack en cours d'utilisation ne peut pas être supprimé."
 }
 

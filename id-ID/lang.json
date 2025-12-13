@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "Pilih Pasal",
   "NO_MATCHES": "Tidak ada kecocokan",
   "SELECT_A_BOOK": "Pilih Kitab",
+  "SEARCH": "Cari",
   "SEARCH_BOOKS": "Cari kitab…",
   "SETTINGS": "Pengaturan",
   "ENGLISH_LANG": "Bahasa Indonesia id-ID",
@@ -79,6 +80,18 @@
   "JAPANESE": "Jepang",
   "NORWEGIAN": "Norwegia",
   "PORTUGUESE": "Portugis",
-  "SPANISH": "Spanyol"
+  "SPANISH": "Spanyol",
+  "LOADING_LANGUAGES": "Memuat bahasa yang tersedia...",
+  "ERROR_LOAD_LANGUAGES": "Tidak dapat memuat bahasa. Periksa koneksi internet Anda.",
+  "RETRY": "Coba lagi",
+  "DONE": "Selesai",
+  "LANGUAGE_INSTALLED": "terpasang.",
+  "DOWNLOAD_FAILED": "Unduhan gagal",
+  "SWITCH_FAILED": "Pengalihan gagal",
+  "CANNOT_REMOVE": "Tidak dapat menghapus",
+  "LANGUAGE_IN_USE": "Paket bahasa tersebut sedang digunakan.",
+  "REMOVE_LANGUAGE_PACK": "Hapus paket bahasa",
+  "PACK_STORED_ON_DEVICE": "Paket akan disimpan di perangkat",
+  "LANGUAGE_HELP": "• Paket bawaan Inggris (UK) tidak dapat dihapus.\n• Paket yang sedang digunakan tidak dapat dihapus."
 }
 

@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "Select Chapter",
   "NO_MATCHES": "No matches",
   "SELECT_A_BOOK": "Select a Book",
+  "SEARCH": "Search",
   "SEARCH_BOOKS": "Search books…",
   "SETTINGS": "Settings",
   "ENGLISH_LANG": "English en-GB",
@@ -79,5 +80,17 @@
   "JAPANESE": "Japanese",
   "NORWEGIAN": "Norwegian",
   "PORTUGUESE": "Portuguese",
-  "SPANISH": "Spanish"
+  "SPANISH": "Spanish",
+  "LOADING_LANGUAGES": "Loading available languages...",
+  "ERROR_LOAD_LANGUAGES": "Could not load languages. Check your internet connection.",
+  "RETRY": "Retry",
+  "DONE": "Done",
+  "LANGUAGE_INSTALLED": "installed.",
+  "DOWNLOAD_FAILED": "Download failed",
+  "SWITCH_FAILED": "Switch failed",
+  "CANNOT_REMOVE": "Cannot remove",
+  "LANGUAGE_IN_USE": "That language pack is currently in use.",
+  "REMOVE_LANGUAGE_PACK": "Remove language pack",
+  "PACK_STORED_ON_DEVICE": "Pack will be stored on device",
+  "LANGUAGE_HELP": "• The built-in English (UK) pack cannot be removed.\n• A pack that is currently in use cannot be removed."
 }

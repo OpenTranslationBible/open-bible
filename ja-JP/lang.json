@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "章を選択",
   "NO_MATCHES": "一致なし",
   "SELECT_A_BOOK": "書籍を選択",
+  "SEARCH": "検索",
   "SEARCH_BOOKS": "書籍を検索…",
   "SETTINGS": "設定",
   "ENGLISH_LANG": "日本語 ja-JP",
@@ -79,6 +80,18 @@
   "JAPANESE": "日本語",
   "NORWEGIAN": "ノルウェー語",
   "PORTUGUESE": "ポルトガル語",
-  "SPANISH": "スペイン語"
+  "SPANISH": "スペイン語",
+  "LOADING_LANGUAGES": "利用可能な言語を読み込み中...",
+  "ERROR_LOAD_LANGUAGES": "言語を読み込めませんでした。インターネット接続を確認してください。",
+  "RETRY": "再試行",
+  "DONE": "完了",
+  "LANGUAGE_INSTALLED": "インストール済み。",
+  "DOWNLOAD_FAILED": "ダウンロード失敗",
+  "SWITCH_FAILED": "切り替え失敗",
+  "CANNOT_REMOVE": "削除できません",
+  "LANGUAGE_IN_USE": "その言語パックは現在使用中です。",
+  "REMOVE_LANGUAGE_PACK": "言語パックを削除",
+  "PACK_STORED_ON_DEVICE": "パックはデバイスに保存されます",
+  "LANGUAGE_HELP": "• 内蔵の英語（UK）パックは削除できません。\n• 現在使用中のパックは削除できません。"
 }
 

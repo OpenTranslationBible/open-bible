@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "अध्याय चुनें",
   "NO_MATCHES": "कोई मेल नहीं",
   "SELECT_A_BOOK": "पुस्तक चुनें",
+  "SEARCH": "खोजें",
   "SEARCH_BOOKS": "पुस्तकें खोजें…",
   "SETTINGS": "सेटिंग्स",
   "ENGLISH_LANG": "अंग्रेज़ी en-GB",
@@ -79,5 +80,17 @@
   "JAPANESE": "जापानी",
   "NORWEGIAN": "नॉर्वेजियन",
   "PORTUGUESE": "पुर्तगाली",
-  "SPANISH": "स्पेनिश"
+  "SPANISH": "स्पेनिश",
+  "LOADING_LANGUAGES": "उपलब्ध भाषाएँ लोड हो रही हैं...",
+  "ERROR_LOAD_LANGUAGES": "भाषाएँ लोड नहीं हो सकीं। अपना इंटरनेट कनेक्शन जाँचें।",
+  "RETRY": "पुनः प्रयास करें",
+  "DONE": "हो गया",
+  "LANGUAGE_INSTALLED": "इंस्टॉल हो गया।",
+  "DOWNLOAD_FAILED": "डाउनलोड विफल",
+  "SWITCH_FAILED": "स्विच विफल",
+  "CANNOT_REMOVE": "हटाया नहीं जा सकता",
+  "LANGUAGE_IN_USE": "वह भाषा पैक वर्तमान में उपयोग में है।",
+  "REMOVE_LANGUAGE_PACK": "भाषा पैक हटाएँ",
+  "PACK_STORED_ON_DEVICE": "पैक डिवाइस पर संग्रहीत होगा",
+  "LANGUAGE_HELP": "• अंतर्निहित अंग्रेज़ी (UK) पैक हटाया नहीं जा सकता।\n• वर्तमान में उपयोग में आने वाला पैक हटाया नहीं जा सकता।"
 }

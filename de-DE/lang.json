@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "Kapitel auswählen",
   "NO_MATCHES": "Keine Treffer",
   "SELECT_A_BOOK": "Buch auswählen",
+  "SEARCH": "Suchen",
   "SEARCH_BOOKS": "Bücher suchen…",
   "SETTINGS": "Einstellungen",
   "ENGLISH_LANG": "Englisch en-GB",
@@ -79,5 +80,17 @@
   "JAPANESE": "Japanisch",
   "NORWEGIAN": "Norwegisch",
   "PORTUGUESE": "Portugiesisch",
-  "SPANISH": "Spanisch"
+  "SPANISH": "Spanisch",
+  "LOADING_LANGUAGES": "Verfügbare Sprachen werden geladen...",
+  "ERROR_LOAD_LANGUAGES": "Sprachen konnten nicht geladen werden. Überprüfen Sie Ihre Internetverbindung.",
+  "RETRY": "Erneut versuchen",
+  "DONE": "Fertig",
+  "LANGUAGE_INSTALLED": "installiert.",
+  "DOWNLOAD_FAILED": "Download fehlgeschlagen",
+  "SWITCH_FAILED": "Wechsel fehlgeschlagen",
+  "CANNOT_REMOVE": "Kann nicht entfernt werden",
+  "LANGUAGE_IN_USE": "Dieses Sprachpaket wird derzeit verwendet.",
+  "REMOVE_LANGUAGE_PACK": "Sprachpaket entfernen",
+  "PACK_STORED_ON_DEVICE": "Paket wird auf dem Gerät gespeichert",
+  "LANGUAGE_HELP": "• Das integrierte Englisch (UK) Paket kann nicht entfernt werden.\n• Ein derzeit verwendetes Paket kann nicht entfernt werden."
 }

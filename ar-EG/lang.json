@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "اختر الأصحاح",
   "NO_MATCHES": "لا توجد نتائج",
   "SELECT_A_BOOK": "اختر سفرًا",
+  "SEARCH": "بحث",
   "SEARCH_BOOKS": "ابحث في الأسفار…",
   "SETTINGS": "الإعدادات",
   "ENGLISH_LANG": "العربية ar-EG",
@@ -79,6 +80,18 @@
   "JAPANESE": "اليابانية",
   "NORWEGIAN": "النرويجية",
   "PORTUGUESE": "البرتغالية",
-  "SPANISH": "الإسبانية"
+  "SPANISH": "الإسبانية",
+  "LOADING_LANGUAGES": "جارٍ تحميل اللغات المتاحة...",
+  "ERROR_LOAD_LANGUAGES": "تعذر تحميل اللغات. تحقق من اتصالك بالإنترنت.",
+  "RETRY": "إعادة المحاولة",
+  "DONE": "تم",
+  "LANGUAGE_INSTALLED": "تم التثبيت.",
+  "DOWNLOAD_FAILED": "فشل التنزيل",
+  "SWITCH_FAILED": "فشل التبديل",
+  "CANNOT_REMOVE": "لا يمكن الإزالة",
+  "LANGUAGE_IN_USE": "حزمة اللغة هذه قيد الاستخدام حاليًا.",
+  "REMOVE_LANGUAGE_PACK": "إزالة حزمة اللغة",
+  "PACK_STORED_ON_DEVICE": "سيتم تخزين الحزمة على الجهاز",
+  "LANGUAGE_HELP": "• لا يمكن إزالة حزمة الإنجليزية (المملكة المتحدة) المدمجة.\n• لا يمكن إزالة الحزمة قيد الاستخدام حاليًا."
 }
 

@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "انتخاب فصل",
   "NO_MATCHES": "نتیجه‌ای یافت نشد",
   "SELECT_A_BOOK": "انتخاب کتاب",
+  "SEARCH": "جستجو",
   "SEARCH_BOOKS": "جستجوی کتاب‌ها…",
   "SETTINGS": "تنظیمات",
   "ENGLISH_LANG": "انگلیسی en-GB",
@@ -79,6 +80,18 @@
   "JAPANESE": "ژاپنی",
   "NORWEGIAN": "نروژی",
   "PORTUGUESE": "پرتغالی",
-  "SPANISH": "اسپانیایی"
+  "SPANISH": "اسپانیایی",
+  "LOADING_LANGUAGES": "در حال بارگذاری زبان‌های موجود...",
+  "ERROR_LOAD_LANGUAGES": "زبان‌ها بارگذاری نشدند. اتصال اینترنت خود را بررسی کنید.",
+  "RETRY": "تلاش مجدد",
+  "DONE": "انجام شد",
+  "LANGUAGE_INSTALLED": "نصب شد.",
+  "DOWNLOAD_FAILED": "دانلود ناموفق",
+  "SWITCH_FAILED": "تغییر ناموفق",
+  "CANNOT_REMOVE": "حذف ممکن نیست",
+  "LANGUAGE_IN_USE": "آن بسته زبان در حال استفاده است.",
+  "REMOVE_LANGUAGE_PACK": "حذف بسته زبان",
+  "PACK_STORED_ON_DEVICE": "بسته در دستگاه ذخیره خواهد شد",
+  "LANGUAGE_HELP": "• بسته انگلیسی (بریتانیا) داخلی قابل حذف نیست.\n• بسته‌ای که در حال استفاده است قابل حذف نیست."
 }
 

@@ -33,6 +33,7 @@
   "SELECT_CHAPTER": "Velg kapittel",
   "NO_MATCHES": "Ingen treff",
   "SELECT_A_BOOK": "Velg en bok",
+  "SEARCH": "Søk",
   "SEARCH_BOOKS": "Søk i bøker…",
   "SETTINGS": "Innstillinger",
   "ENGLISH_LANG": "Engelsk en-GB",
@@ -79,6 +80,18 @@
   "JAPANESE": "Japansk",
   "NORWEGIAN": "Norsk",
   "PORTUGUESE": "Portugisisk",
-  "SPANISH": "Spansk"
+  "SPANISH": "Spansk",
+  "LOADING_LANGUAGES": "Laster tilgjengelige språk...",
+  "ERROR_LOAD_LANGUAGES": "Kunne ikke laste språk. Sjekk internettforbindelsen din.",
+  "RETRY": "Prøv igjen",
+  "DONE": "Ferdig",
+  "LANGUAGE_INSTALLED": "installert.",
+  "DOWNLOAD_FAILED": "Nedlasting mislyktes",
+  "SWITCH_FAILED": "Bytte mislyktes",
+  "CANNOT_REMOVE": "Kan ikke fjerne",
+  "LANGUAGE_IN_USE": "Den språkpakken er i bruk.",
+  "REMOVE_LANGUAGE_PACK": "Fjern språkpakke",
+  "PACK_STORED_ON_DEVICE": "Pakken lagres på enheten",
+  "LANGUAGE_HELP": "• Den innebygde engelske (UK) pakken kan ikke fjernes.\n• En pakke som er i bruk kan ikke fjernes."
 }
 
