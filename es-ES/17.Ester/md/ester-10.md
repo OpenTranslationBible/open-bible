@@ -1,0 +1,10 @@
+# Ester Capítulo 10
+
+## Ester 10:1
+El rey Asuero impuso un tributo sobre la tierra y las islas del mar.
+
+## Ester 10:2
+Todos los hechos de su poder y fuerza, junto con un relato completo de la grandeza de Mardoqueo, a quien el rey honró, ¿no están registrados en el Libro de las Crónicas de los Reyes de Media y Persia?
+
+## Ester 10:3
+Mardoqueo el judío era el segundo después del rey Asuero, estimado entre los judíos y muy respetado por sus muchos parientes, ya que buscaba el bien de su pueblo y hablaba por el bienestar de toda su nación.

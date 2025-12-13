@@ -64,6 +64,21 @@
   "BOOKMARKS_HELP": "Os favoritos ajudam você a voltar rapidamente aos lugares. Pressione e segure um versículo na aba Ler, escolha \"Favorito\" e selecione uma cor.",
   "BOOKMARKS_DO_NOT": "Os favoritos não avançam automaticamente enquanto você lê — defina-os novamente quando avançar.",
   "BOOKMARKS_TIP": "Dica: Compartilhe versículos do mesmo menu de pressionar e segurar.",
-  "SELECTED": "selecionado"
+  "SELECTED": "selecionado",
+  "USE": "Usar",
+  "DELETE": "Excluir",
+  "DOWNLOAD": "Baixar",
+  "ARABIC": "Árabe",
+  "CHINESE": "Chinês",
+  "ENGLISH": "Inglês",
+  "FARSI": "Farsi",
+  "FRENCH": "Francês",
+  "GERMAN": "Alemão",
+  "HINDI": "Hindi",
+  "INDONESIAN": "Indonésio",
+  "JAPANESE": "Japonês",
+  "NORWEGIAN": "Norueguês",
+  "PORTUGUESE": "Português",
+  "SPANISH": "Espanhol"
 }
 

@@ -1,0 +1,418 @@
+{
+    "book": "Salmos",
+    "chapter": 18,
+    "verses": [
+        {
+            "text": [
+                "Para el director musical. Un salmo de David, el siervo del Señor, que dirigió al Señor las palabras de este cántico el día que el Señor lo rescató de la mano de todos sus enemigos y de la mano de Saúl. Y dijo:"
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Te amo, Señor, mi fortaleza."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> El Señor es mi roca y mi fortaleza y mi Salvador,",
+                "> Mi Dios, mi roca en quien me refugio;",
+                "> Mi escudo y el cuerno de mi salvación, mi baluarte."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Invoco al Señor, que es digno de alabanza,",
+                "> Y soy liberado de mis enemigos."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Los lazos de la muerte me rodearon,",
+                "> Y los torrentes de destrucción me llenaron de terror."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Las garras del sepulcro me atraparon;",
+                "> Las trampas de la muerte me confrontaron."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> En mi angustia invoqué al Señor,",
+                "> Y clamé a mi Dios por ayuda;",
+                "> Él oyó mi voz desde su templo,",
+                "> Y mi clamor llegó a sus oídos."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Entonces la tierra tembló y se estremeció;",
+                "> Y los cimientos de los montes se sacudieron",
+                "> Y fueron movidos, porque Él estaba airado."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Humo subió de sus narices,",
+                "> Y fuego consumidor salió de su boca;",
+                "> Carbones encendidos se encendieron."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> También inclinó los cielos y descendió,",
+                "> Con densa oscuridad bajo sus pies."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Cabalgó sobre un querubín y voló;",
+                "> Y se elevó sobre las alas del viento."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Hizo de la oscuridad su lugar secreto, su cobertura alrededor de Él,",
+                "> Aguas oscuras, nubes espesas del cielo."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Desde el resplandor delante de Él pasaron sus nubes espesas,",
+                "> Granizo y carbones de fuego."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> El Señor también tronó en los cielos,",
+                "> Y el Altísimo alzó su voz,",
+                "> Granizo y carbones de fuego."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Envió sus flechas y los dispersó,",
+                "> Y abundantes relámpagos, y los desbarató."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Entonces se vieron los cauces de las aguas,",
+                "> Y los cimientos del mundo quedaron al descubierto",
+                "> Por tu reprensión, Señor,",
+                "> Al soplo del aliento de tus narices."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Extendió su mano desde lo alto, me tomó;",
+                "> Me sacó de aguas profundas."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Me libró de mi poderoso enemigo,",
+                "> Y de los que me odiaban, porque eran más fuertes que yo."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Me confrontaron en el día de mi calamidad,",
+                "> Pero el Señor fue mi apoyo."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> También me sacó a un lugar espacioso;",
+                "> Me rescató, porque se deleitó en mí."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> El Señor me ha recompensado conforme a mi justicia;",
+                "> Conforme a la pureza de mis manos me ha retribuido."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Porque he seguido los caminos del Señor,",
+                "> Y no me he apartado de mi Dios."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Porque todos sus juicios estaban delante de mí,",
+                "> Y no deseché sus estatutos."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> También fui íntegro delante de Él,",
+                "> Y me guardé de la maldad."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Por tanto, el Señor me ha retribuido conforme a mi justicia,",
+                "> Conforme a la pureza de mis manos ante sus ojos."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Con el fiel te muestras fiel;",
+                "> Con el íntegro te muestras íntegro;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Con el puro te muestras puro,",
+                "> Y con el perverso te muestras astuto."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Porque tú salvas a un pueblo humilde,",
+                "> Pero humillas los ojos altivos."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Porque tú enciendes mi lámpara;",
+                "> El Señor mi Dios ilumina mi oscuridad."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Porque contigo puedo acometer tropas;",
+                "> Y con mi Dios puedo saltar muros."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> En cuanto a Dios, su camino es perfecto;",
+                "> La palabra del Señor es acrisolada;",
+                "> Él es escudo para todos los que en Él se refugian."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Porque ¿quién es Dios, sino el Señor?",
+                "> ¿Y quién es roca, sino nuestro Dios?"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> El Dios que me ciñe de fuerza,",
+                "> Y hace perfecto mi camino."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Hace mis pies ligeros como los de una cierva,",
+                "> Y me coloca en las alturas."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Adiestra mis manos para la batalla,",
+                "> Para que mis brazos puedan tensar un arco de bronce."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> También me has dado el escudo de tu salvación,",
+                "> Y tu mano derecha me sostiene;",
+                "> Y tu gentileza me engrandece."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Ensanchas el camino bajo mis pies,",
+                "> Y mis pies no han resbalado."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Perseguí a mis enemigos y los alcancé,",
+                "> Y no me volví hasta acabarlos."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Los herí, de modo que no pudieron levantarse;",
+                "> Cayeron bajo mis pies."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Porque tú me has ceñido de fuerza para la batalla;",
+                "> Has sometido a los que se levantaron contra mí."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> También hiciste que mis enemigos me dieran la espalda,",
+                "> Y aniquilé a los que me odiaban."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Clamaron por ayuda, pero no hubo quien los salvara;",
+                "> Clamaron al Señor, pero Él no les respondió."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Entonces los pulvericé como polvo ante el viento;",
+                "> Los arrojé como lodo en las calles."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> Me libraste de las disputas del pueblo;",
+                "> Me hiciste cabeza de las naciones;",
+                "> Un pueblo que no conocía me sirve."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Tan pronto como oyen, me obedecen;",
+                "> Los extranjeros se someten a mí."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Los extranjeros pierden el ánimo,",
+                "> Y salen temblando de sus fortalezas."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> El Señor vive, y bendita sea mi roca;",
+                "> Y exaltado sea el Dios que me salva,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> El Dios que me da justicia,",
+                "> Y somete pueblos bajo mí."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Me libra de mis enemigos;",
+                "> Tú me elevas sobre los que se levantan contra mí;",
+                "> Me rescatas de un hombre violento."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Por tanto, te daré gracias entre las naciones, Señor,",
+                "> Y cantaré alabanzas a tu nombre."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Él otorga gran salvación a su rey,",
+                "> Y muestra amor constante a su ungido,",
+                "> A David y a sus descendientes para siempre."
+            ]
+        }
+    ]
+}

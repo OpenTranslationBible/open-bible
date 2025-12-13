@@ -1,0 +1,47 @@
+{
+    "book": "Mazmur",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Nyanyian Ziarah."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Kepada-Mu aku mengangkat mataku,",
+                "> Engkau yang bersemayam di surga!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Perhatikanlah, seperti mata para hamba tertuju pada tangan tuannya,",
+                "> Dan seperti mata seorang pelayan wanita melihat kepada tangan nyonyanya,",
+                "> Demikianlah mata kami tertuju kepada Tuhan Allah kami,",
+                "> Sampai Dia menunjukkan kemurahan-Nya kepada kami."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Tunjukkanlah kebaikan-Mu kepada kami, Tuhan, tunjukkanlah kebaikan-Mu,",
+                "> Karena kami telah cukup menanggung penghinaan."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Jiwa kami telah cukup menanggung",
+                "> Cemoohan dari orang-orang yang hidup nyaman,",
+                "> Dan penghinaan dari orang-orang yang sombong."
+            ]
+        }
+    ]
+}

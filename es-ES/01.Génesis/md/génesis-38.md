@@ -1,0 +1,121 @@
+# Génesis Capítulo 38
+
+## Génesis 38:1
+
+En ese tiempo, Judá se apartó de sus hermanos y fue a quedarse con un adulamita llamado Hirá.
+
+## Génesis 38:2
+
+Allí, Judá vio a la hija de un hombre cananeo llamado Súa; la tomó como esposa y tuvo relaciones con ella.
+
+## Génesis 38:3
+
+Ella quedó embarazada de él y dio a luz un hijo, al que llamó Er.
+
+## Génesis 38:4
+
+Concibió de nuevo y dio a luz un hijo, al que llamó Onán.
+
+## Génesis 38:5
+
+Tuvo otro hijo más y lo llamó Sela; fue en Quezib donde ella lo dio a luz.
+
+## Génesis 38:6
+
+Judá encontró una esposa para Er, su primogénito, y su nombre era Tamar.
+
+## Génesis 38:7
+
+Pero Er, el primogénito de Judá, era malvado a los ojos del Señor, así que el Señor lo mató.
+
+## Génesis 38:8
+
+Entonces Judá dijo a Onán: “Ve a la esposa de tu hermano y cumple con tu deber de cuñado con ella, para levantar descendencia para tu hermano.”
+
+## Génesis 38:9
+
+Pero Onán sabía que la descendencia no sería suya; así que cada vez que tenía relaciones con la esposa de su hermano, derramaba su semen en el suelo para evitar dar descendencia a su hermano.
+
+## Génesis 38:10
+
+Lo que hizo fue desagradable a los ojos del Señor, así que el Señor lo mató también.
+
+## Génesis 38:11
+
+Entonces Judá dijo a su nuera Tamar: “Vive como viuda en la casa de tu padre hasta que mi hijo Sela crezca.” Porque pensó: “Podría morir también, como sus hermanos.” Así que Tamar se fue a vivir a la casa de su padre.
+
+## Génesis 38:12
+
+Después de un tiempo considerable, la esposa de Judá, la hija de Súa, murió. Cuando Judá se recuperó de su duelo, fue a Timná a sus esquiladores de ovejas, acompañado de su amigo Hirá el adulamita.
+
+## Génesis 38:13
+
+A Tamar le informaron: “Tu suegro está subiendo a Timná a esquilar sus ovejas.”
+
+## Génesis 38:14
+
+Así que se quitó las vestiduras de viuda, se cubrió con un velo y se sentó a la entrada de Enaim, que está en el camino a Timná. Vio que Sela había crecido, pero no se le había dado como esposa.
+
+## Génesis 38:15
+
+Cuando Judá la vio, asumió que era una prostituta, porque había cubierto su rostro.
+
+## Génesis 38:16
+
+Sin darse cuenta de que era su nuera, se acercó a ella junto al camino y le dijo: “Ven ahora, déjame tener relaciones contigo.” Ella preguntó: “¿Qué me darás por tener relaciones conmigo?”
+
+## Génesis 38:17
+
+Él respondió: “Te enviaré un cabrito de mi rebaño.” Ella preguntó: “¿Me darás una prenda hasta que lo envíes?”
+
+## Génesis 38:18
+
+Él dijo: “¿Qué prenda te daré?” Ella respondió: “Tu sello y su cordón, y el bastón que tienes en la mano.” Así que él se los dio y tuvo relaciones con ella, y ella concibió de él.
+
+## Génesis 38:19
+
+Luego se levantó y se fue, se quitó el velo y se puso de nuevo sus vestiduras de viuda.
+
+## Génesis 38:20
+
+Judá envió el cabrito por medio de su amigo el adulamita para recuperar la prenda de la mujer, pero no la encontró.
+
+## Génesis 38:21
+
+Preguntó a los hombres del lugar: “¿Dónde está la prostituta del templo que estaba junto al camino en Enaim?” Ellos respondieron: “No ha habido ninguna prostituta del templo aquí.”
+
+## Génesis 38:22
+
+Así que regresó a Judá y dijo: “No la encontré, y los hombres del lugar dijeron: ‘No ha habido ninguna prostituta del templo aquí.’”
+
+## Génesis 38:23
+
+Entonces Judá dijo: “Que se quede con las cosas, o nos convertiremos en el hazmerreír. Después de todo, envié este cabrito, pero no la encontraste.”
+
+## Génesis 38:24
+
+Unos tres meses después, le informaron a Judá: “Tu nuera Tamar se ha prostituido, y ahora está embarazada.” Judá dijo: “¡Sacadla y que sea quemada!”
+
+## Génesis 38:25
+
+Mientras la sacaban, ella envió un mensaje a su suegro, diciendo: “Estoy embarazada del hombre que es dueño de estas cosas.” Añadió: “Por favor, examina y ve de quién son este anillo de sello, cordón y bastón.”
+
+## Génesis 38:26
+
+Judá los reconoció y dijo: “Ella es más justa que yo, puesto que no la di a mi hijo Sela.” Y no tuvo más relaciones con ella.
+
+## Génesis 38:27
+
+Cuando llegó el momento de dar a luz, llevaba gemelos.
+
+## Génesis 38:28
+
+Mientras daba a luz, uno de ellos sacó la mano, y la partera ató un hilo escarlata en su muñeca, diciendo: “Este salió primero.”
+
+## Génesis 38:29
+
+Pero al retirar su mano, salió su hermano, y ella dijo: “¡Qué brecha te has abierto!” Así que fue llamado Fares.
+
+## Génesis 38:30
+
+Después, salió su hermano, que tenía el hilo escarlata en la muñeca, y fue llamado Zera.

@@ -64,5 +64,20 @@
   "BOOKMARKS_HELP": "Bookmarks help you jump back to places quickly. Long-press a verse in the Read tab, choose \"Bookmark\", and pick a colour.",
   "BOOKMARKS_DO_NOT": "Bookmarks don’t auto-advance as you read — set them again when you move on.",
   "BOOKMARKS_TIP": "Tip: Share verses from the same long-press menu.",
-  "SELECTED": "selected"
+  "SELECTED": "selected",
+  "USE": "Use",
+  "DELETE": "Delete",
+  "DOWNLOAD": "Download",
+  "ARABIC": "Arabic",
+  "CHINESE": "Chinese",
+  "ENGLISH": "English",
+  "FARSI": "Farsi",
+  "FRENCH": "French",
+  "GERMAN": "German",
+  "HINDI": "Hindi",
+  "INDONESIAN": "Indonesian",
+  "JAPANESE": "Japanese",
+  "NORWEGIAN": "Norwegian",
+  "PORTUGUESE": "Portuguese",
+  "SPANISH": "Spanish"
 }

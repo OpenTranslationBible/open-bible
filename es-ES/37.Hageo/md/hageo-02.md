@@ -1,0 +1,142 @@
+# Hageo Capítulo 2
+
+## Hageo 2:1
+
+El día veintiuno del séptimo mes, vino la palabra del Señor por medio del profeta Hageo, diciendo,
+
+## Hageo 2:2
+
+> “Habla a Zorobabel, hijo de Salatiel, gobernador de Judá, y a Josué,
+> hijo de Josadac, el sumo sacerdote,
+> y al resto del pueblo, diciendo,
+
+## Hageo 2:3
+
+> ‘¿Quién de vosotros queda que haya visto esta casa en su gloria primera?
+> ¿Y cómo la veis ahora?
+> ¿No es como nada ante vuestros ojos?
+
+## Hageo 2:4
+
+> Pero ahora, sé fuerte, Zorobabel,’ declara el Señor.
+> ‘Sé fuerte, Josué, hijo de Josadac, el sumo sacerdote.
+> Sé fuerte, todo el pueblo de la tierra,’ declara el Señor,
+> ‘y trabajad; porque yo estoy con vosotros,’ declara el Señor de los ejércitos.
+
+## Hageo 2:5
+
+> ‘Esta es la promesa que os hice cuando salisteis de Egipto.
+> Mi Espíritu permanece entre vosotros; no temáis.’
+
+## Hageo 2:6
+
+> Porque así dice el Señor de los ejércitos:
+> ‘Dentro de poco, haré temblar de nuevo
+> los cielos y la tierra,
+> el mar y la tierra seca.
+
+## Hageo 2:7
+
+> Haré temblar a todas las naciones,
+> y vendrán los tesoros de todas las naciones,
+> y llenaré de gloria esta casa,’ dice el Señor de los ejércitos.
+
+## Hageo 2:8
+
+> ‘La plata y el oro me pertenecen,’ declara el Señor de los ejércitos.
+
+## Hageo 2:9
+
+> ‘La gloria de esta última casa será mayor que la primera,’ dice el Señor de los ejércitos.
+> ‘Y en este lugar daré paz,’ declara el Señor de los ejércitos.”
+
+## Hageo 2:10
+
+El día veinticuatro del noveno mes, en el segundo año de Darío, vino la palabra del Señor a Hageo el profeta, diciendo,
+
+## Hageo 2:11
+
+> “Esto es lo que dice el Señor de los ejércitos:
+> ‘Consulta a los sacerdotes para obtener orientación:
+
+## Hageo 2:12
+
+> Si alguien lleva carne consagrada en el borde de su vestidura,
+> y toca con su vestidura pan, guiso, vino, aceite, o cualquier otro alimento,
+> ¿se consagrará?’”
+
+Los sacerdotes respondieron: “No.”
+
+## Hageo 2:13
+
+Entonces Hageo dijo,
+
+> “Si alguien contaminado por contacto con un cadáver toca alguna de estas cosas,
+> ¿se contaminará?”
+
+Y los sacerdotes respondieron,
+
+> “Sí, se contaminará.”
+
+## Hageo 2:14
+
+Entonces Hageo dijo,
+
+> “‘Así es con este pueblo y esta nación ante mis ojos,’ declara el Señor.
+> ‘Todo lo que hacen y todo lo que ofrecen está contaminado.
+
+## Hageo 2:15
+
+> Ahora reflexionad sobre esto desde este día en adelante:
+> considerad cómo eran las cosas antes de que se pusiera una piedra sobre otra en el templo del Señor.
+
+## Hageo 2:16
+
+> Cuando alguien venía a un montón esperando veinte medidas,
+> solo había diez.
+> Cuando alguien iba a un lagar para sacar cincuenta medidas,
+> solo había veinte.
+
+## Hageo 2:17
+
+> Aflicté todo el trabajo de vuestras manos
+> con tizón, moho y granizo,
+> pero no os volvisteis a mí,’ declara el Señor.
+
+## Hageo 2:18
+
+> ‘Desde este día en adelante, desde el día veinticuatro del noveno mes,
+> reflexionad sobre el día en que se puso el cimiento del templo del Señor.
+
+Considerad:
+
+## Hageo 2:19
+
+> ¿Queda alguna semilla en el granero?
+> Hasta ahora, la vid, la higuera, el granado y el olivo
+> no han dado fruto.
+> Pero desde este día en adelante os bendeciré.’”
+
+## Hageo 2:20
+
+La palabra del Señor vino a Hageo por segunda vez el día veinticuatro del mes, diciendo,
+
+## Hageo 2:21
+
+> “Dirige este mensaje a Zorobabel, gobernador de Judá:
+> ‘Pronto haré temblar los cielos y la tierra.
+
+## Hageo 2:22
+
+> Derribaré los tronos de los reinos
+> y destruiré el poder de los reinos de las naciones.
+> Derribaré los carros y a sus conductores;
+> los caballos y sus jinetes caerán,
+> cada uno por la espada de su hermano.
+
+## Hageo 2:23
+
+> ‘En aquel día,’ declara el Señor de los ejércitos,
+> ‘te tomaré, mi siervo Zorobabel, hijo de Salatiel,’ declara el Señor,
+> ‘y te haré como mi anillo de sello,
+> porque te he escogido,’ declara el Señor de los ejércitos.”

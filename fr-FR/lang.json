@@ -64,6 +64,21 @@
   "BOOKMARKS_HELP": "Les signets vous aident à revenir rapidement à des endroits. Appuyez longuement sur un verset dans l'onglet Lire, choisissez « Signet » et sélectionnez une couleur.",
   "BOOKMARKS_DO_NOT": "Les signets n'avancent pas automatiquement pendant la lecture — définissez-les à nouveau lorsque vous progressez.",
   "BOOKMARKS_TIP": "Astuce : Partagez des versets depuis le même menu d'appui long.",
-  "SELECTED": "sélectionné"
+  "SELECTED": "sélectionné",
+  "USE": "Utiliser",
+  "DELETE": "Supprimer",
+  "DOWNLOAD": "Télécharger",
+  "ARABIC": "Arabe",
+  "CHINESE": "Chinois",
+  "ENGLISH": "Anglais",
+  "FARSI": "Farsi",
+  "FRENCH": "Français",
+  "GERMAN": "Allemand",
+  "HINDI": "Hindi",
+  "INDONESIAN": "Indonésien",
+  "JAPANESE": "Japonais",
+  "NORWEGIAN": "Norvégien",
+  "PORTUGUESE": "Portugais",
+  "SPANISH": "Espagnol"
 }
 

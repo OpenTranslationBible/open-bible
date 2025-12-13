@@ -1,0 +1,468 @@
+{
+    "book": "Esdras",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Estos son los habitantes de la provincia que regresaron del cautiverio de los exiliados, a quienes Nabucodonosor, rey de Babilonia, había llevado al exilio en Babilonia. Regresaron a Jerusalén y Judá, cada uno a su propia ciudad."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Vinieron con Zorobabel, Jesúa, Nehemías, Seraías, Reelaías, Mardoqueo, Bilshan, Mispar, Bigvai, Rehum y Baaná. Aquí está la lista de los hombres del pueblo de Israel:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> la línea de Paros, numerada 2,172;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> la línea de Sefatías, numerada 372;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> la línea de Ara, numerada 775;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> la línea de Pahat-Moab, a través de la línea de Jesúa y Joab, numerada 2,812;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> la línea de Elam, numerada 1,254;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> la línea de Zatu, numerada 945;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> la línea de Zacai, numerada 760;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> la línea de Bani, numerada 642;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> la línea de Bebai, numerada 623;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> la línea de Azgad, numerada 1,222;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> la línea de Adonicam, numerada 666;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> la línea de Bigvai, numerada 2,056;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> la línea de Adín, numerada 454;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> la línea de Ater, a través de Ezequías, numerada 98;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> la línea de Bezai, numerada 323;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> la línea de Jora, numerada 112;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> la línea de Hasum, numerada 223;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> la línea de Gibar, numerada 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> los hombres de Belén, numerados 123;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> los hombres de Netofa, numerados 56;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> los hombres de Anatot, numerados 128;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> la línea de Azmavet, numerada 42;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> la línea de Quiriat Jearim, Kefira y Beerot, 743;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> la línea de Ramá y Geba, numerada 621;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> los de Micmas, numerados 122;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> los de Betel y Ai, numerados 223;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> la línea de Nebo, numerada 52;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> la línea de Magbis, numerada 156;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> la línea del otro Elam, numerada 1,254;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> la línea de Harim, numerada 320;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> la línea de Lod, Hadid y Ono, 725;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> los hombres de Jericó, numerados 345;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> la línea de Senaá, numerada 3,630."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Los sacerdotes: la línea de Jedaías, de la casa de Jesúa, numerada 973;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> la línea de Imer, numerada 1,052;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> la línea de Pasur, numerada 1,247;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> la línea de Harim, numerada 1,017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Los levitas: la familia de Jesúa y Cadmiel, de la línea de Hodavías, 74."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Los músicos: la familia de Asaf, 128."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Los porteros del templo:",
+                "> la línea de Salum, Ater, Talmón,",
+                "> Acub, Hatita y Sobai, 139."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Los sirvientes del templo:",
+                "> la línea de Ziha, Hasufa, Tabaot,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Queros, Siaja y Padón,"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Lebana, Hagaba y Acub,"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Hagab, Salmai y Hanán,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Gidel, Gahar y Reaía,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Rezín, Necoda y Gazam,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Uza, Paseah y Besai,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Asnah, Meunim y Nefusim,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Bacbuc, Hacufa y Harhur,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Bazlut, Mehida y Harsa,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Barcos, Sisera y Temá,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Nezía, y también Hatifa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Los descendientes de los siervos de Salomón:",
+                "los descendientes de Sotai, Hasoferet y Peruda,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Jaala, Darkón y Gidel,"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "> Sefatías, Hatil y Poqueret-Hazebaim, y Ami."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Los sirvientes del templo y los descendientes de los siervos de Salomón sumaron 392."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Estos fueron los que subieron de Tel Melah, Tel Harsha, Querub, Adón e Imer, pero no pudieron probar que sus familias descendían de Israel:"
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Las familias de Delaía, Tobías y Necoda, 652."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Y de entre los sacerdotes:",
+                "> los descendientes de Hobaias, Hacoz y Barzilai,",
+                "> que se había casado con una hija de Barzilai el Galaadita",
+                "> y fue llamado por su nombre."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "> Buscaron sus registros familiares pero no pudieron encontrarlos, y por tanto fueron excluidos del sacerdocio como impuros."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "> El gobernador les instruyó que no participaran de los alimentos más sagrados hasta que hubiera un sacerdote ministrando con el Urim y Tumim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Así que, toda la asamblea sumaba 42,360,"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "además de sus esclavos y esclavas, que sumaban 7,337; y tenían 200 cantores y cantoras."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Poseían 736 caballos, y 245 mulas,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "tenían 435 camellos, y 6,720 burros."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Al llegar a la casa del Señor en Jerusalén, algunos de los jefes de familia hicieron ofrendas voluntarias para la reconstrucción de la casa de Dios en su sitio."
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "De acuerdo con sus posibilidades, contribuyeron al tesoro para esta obra 61,000 dracmas de oro, 5,000 minas de plata, y 100 vestiduras sacerdotales."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "Los sacerdotes, los levitas, los músicos, los porteros y los sirvientes del templo se establecieron en sus propias ciudades, junto con algunos de los otros pueblos, mientras que el resto de los israelitas se establecieron en sus ciudades."
+            ]
+        }
+    ]
+}

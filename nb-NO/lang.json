@@ -64,6 +64,21 @@
   "BOOKMARKS_HELP": "Bokmerker hjelper deg å hoppe tilbake til steder raskt. Trykk og hold på et vers i Les-fanen, velg «Bokmerke» og velg en farge.",
   "BOOKMARKS_DO_NOT": "Bokmerker flytter seg ikke automatisk når du leser — sett dem på nytt når du går videre.",
   "BOOKMARKS_TIP": "Tips: Del vers fra samme trykk-og-hold-meny.",
-  "SELECTED": "valgt"
+  "SELECTED": "valgt",
+  "USE": "Bruk",
+  "DELETE": "Slett",
+  "DOWNLOAD": "Last ned",
+  "ARABIC": "Arabisk",
+  "CHINESE": "Kinesisk",
+  "ENGLISH": "Engelsk",
+  "FARSI": "Farsi",
+  "FRENCH": "Fransk",
+  "GERMAN": "Tysk",
+  "HINDI": "Hindi",
+  "INDONESIAN": "Indonesisk",
+  "JAPANESE": "Japansk",
+  "NORWEGIAN": "Norsk",
+  "PORTUGUESE": "Portugisisk",
+  "SPANISH": "Spansk"
 }
 

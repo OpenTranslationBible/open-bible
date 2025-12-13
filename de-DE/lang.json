@@ -1,4 +1,4 @@
-{
+﻿{
   "NAME": "Offene Bibel",
   "TITLE": "OFFENE BIBEL",
   "READ": "Lesen",
@@ -44,7 +44,7 @@
   "CANCEL": "Abbrechen",
   "CLEAR": "Löschen",
   "EMPTY": "Leer",
-  "FIRST_BIBLE": "1. Mose",
+  "FIRST_BIBLE": "1 Mose",
   "FIRST_NEW_TESTAMENT": "Matthäus",
   "NEW_TESTAMENT_ONLY": "Nur NT",
   "BIBLE_NAME": "(Bibel)",
@@ -61,9 +61,23 @@
   "INSTALLED_BADGE": "INSTALLIERT",
   "IN_USE_BADGE": "IN VERWENDUNG ✓",
   "VOICE_NOW_SET": "ist jetzt Ihre Stimme.",
-  "BOOKMARKS_HELP": "Lesezeichen helfen Ihnen, schnell zu Stellen zurückzukehren. Drücken Sie lange auf einen Vers im Lesen-Tab, wählen Sie „Lesezeichen" und wählen Sie eine Farbe.",
-  "BOOKMARKS_DO_NOT": "Lesezeichen bewegen sich beim Lesen nicht automatisch weiter – setzen Sie sie erneut, wenn Sie fortfahren.",
+  "BOOKMARKS_HELP": "Lesezeichen helfen Ihnen, schnell zu Stellen zurückzukehren. Drücken Sie lange auf einen Vers im Lesen-Tab, wählen Sie «Lesezeichen» und wählen Sie eine Farbe.",
+  "BOOKMARKS_DO_NOT": "Lesezeichen bewegen sich beim Lesen nicht automatisch weiter - setzen Sie sie erneut, wenn Sie fortfahren.",
   "BOOKMARKS_TIP": "Tipp: Teilen Sie Verse aus demselben Lange-Drücken-Menü.",
-  "SELECTED": "ausgewählt"
+  "SELECTED": "ausgewählt",
+  "USE": "Verwenden",
+  "DELETE": "Löschen",
+  "DOWNLOAD": "Herunterladen",
+  "ARABIC": "Arabisch",
+  "CHINESE": "Chinesisch",
+  "ENGLISH": "Englisch",
+  "FARSI": "Farsi",
+  "FRENCH": "Französisch",
+  "GERMAN": "Deutsch",
+  "HINDI": "Hindi",
+  "INDONESIAN": "Indonesisch",
+  "JAPANESE": "Japanisch",
+  "NORWEGIAN": "Norwegisch",
+  "PORTUGUESE": "Portugiesisch",
+  "SPANISH": "Spanisch"
 }
-

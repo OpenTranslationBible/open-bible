@@ -1,0 +1,55 @@
+{
+    "book": "Salmos",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "Un Salmo de David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Señor, ¿quién puede residir en Tu tienda?",
+                "> ¿Quién puede habitar en Tu monte santo?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Una persona que vive con integridad, actúa con justicia,",
+                "> Y habla con verdad desde el corazón."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> No calumnia con su lengua,",
+                "> Ni hace mal a su prójimo,",
+                "> Ni trae vergüenza sobre su amigo;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> En sus ojos un despreciable es despreciado,",
+                "> Pero honra a los que temen al Señor;",
+                "> Hace un juramento en su propio perjuicio, y no cambia;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> No presta su dinero injustamente,",
+                "> Ni acepta soborno contra el inocente.",
+                "---",
+                "> Quien vive de esta manera permanecerá firme."
+            ]
+        }
+    ]
+}

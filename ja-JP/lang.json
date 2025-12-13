@@ -64,6 +64,21 @@
   "BOOKMARKS_HELP": "ブックマークを使うと、すばやく場所に戻ることができます。読むタブで節を長押しし、「ブックマーク」を選択して色を選んでください。",
   "BOOKMARKS_DO_NOT": "ブックマークは読んでいる間自動的に進みません — 進んだら再度設定してください。",
   "BOOKMARKS_TIP": "ヒント：同じ長押しメニューから節を共有できます。",
-  "SELECTED": "選択済み"
+  "SELECTED": "選択済み",
+  "USE": "使用",
+  "DELETE": "削除",
+  "DOWNLOAD": "ダウンロード",
+  "ARABIC": "アラビア語",
+  "CHINESE": "中国語",
+  "ENGLISH": "英語",
+  "FARSI": "ペルシア語",
+  "FRENCH": "フランス語",
+  "GERMAN": "ドイツ語",
+  "HINDI": "ヒンディー語",
+  "INDONESIAN": "インドネシア語",
+  "JAPANESE": "日本語",
+  "NORWEGIAN": "ノルウェー語",
+  "PORTUGUESE": "ポルトガル語",
+  "SPANISH": "スペイン語"
 }
 
