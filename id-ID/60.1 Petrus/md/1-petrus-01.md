@@ -7,12 +7,12 @@ Kepada mereka yang tinggal sebagai orang asing, tersebar di seluruh Pontus, Gala
 
 ## 1 Petrus 1:2
 
-sesuai dengan pengetahuan sebelumnya dari Allah Bapa, melalui pekerjaan pengudusan oleh Roh, untuk menaati Yesus Kristus dan dibersihkan oleh darah-Nya:  
+sesuai dengan pengetahuan sebelumnya dari Tuhan Bapa, melalui pekerjaan pengudusan oleh Roh, untuk menaati Yesus Kristus dan dibersihkan oleh darah-Nya:  
 Semoga kasih karunia dan damai sejahtera berlimpah-limpah menjadi milikmu.
 
 ## 1 Petrus 1:3
 
-Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, yang dalam rahmat-Nya yang besar telah melahirkan kita kembali kepada pengharapan yang hidup melalui kebangkitan Yesus Kristus dari antara orang mati,
+Terpujilah Tuhan dan Bapa Tuhan kita Yesus Kristus, yang dalam rahmat-Nya yang besar telah melahirkan kita kembali kepada pengharapan yang hidup melalui kebangkitan Yesus Kristus dari antara orang mati,
 
 ## 1 Petrus 1:4
 
@@ -20,7 +20,7 @@ untuk menerima suatu warisan yang tidak dapat binasa, tidak dapat cemar, dan tid
 
 ## 1 Petrus 1:5
 
-yang, melalui iman, dijaga oleh kuasa Allah untuk suatu keselamatan yang siap untuk dinyatakan pada waktu yang terakhir.
+yang, melalui iman, dijaga oleh kuasa Tuhan untuk suatu keselamatan yang siap untuk dinyatakan pada waktu yang terakhir.
 
 ## 1 Petrus 1:6
 
@@ -84,7 +84,7 @@ Karena Dia telah dikenal sebelum dunia dijadikan, tetapi telah muncul pada zaman
 
 ## 1 Petrus 1:21
 
-Melalui Dia kamu telah percaya kepada Allah, yang membangkitkan Dia dari antara orang mati dan memberikan-Nya kemuliaan, sehingga iman dan pengharapanmu ada pada Allah.
+Melalui Dia kamu telah percaya kepada Tuhan, yang membangkitkan Dia dari antara orang mati dan memberikan-Nya kemuliaan, sehingga iman dan pengharapanmu ada pada Tuhan.
 
 ## 1 Petrus 1:22
 
@@ -92,7 +92,7 @@ Karena kamu telah menyucikan jiwamu dengan ketaatan kepada kebenaran untuk kasih
 
 ## 1 Petrus 1:23
 
-karena kamu telah dilahirkan kembali bukan dari benih yang fana, tetapi yang tidak fana, melalui firman Allah yang hidup dan kekal.
+karena kamu telah dilahirkan kembali bukan dari benih yang fana, tetapi yang tidak fana, melalui firman Tuhan yang hidup dan kekal.
 
 ## 1 Petrus 1:24
 

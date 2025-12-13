@@ -33,7 +33,7 @@ Ayub menjawab, katanya,
 
 ## Ayub 16:7
 
-> Pastinya, sekarang Allah telah melelahkanku;
+> Pastinya, sekarang Tuhan telah melelahkanku;
 > kamu telah menghancurkan seluruh rumah tanggaku.
 
 ## Ayub 16:8
@@ -45,7 +45,7 @@ Ayub menjawab, katanya,
 
 ## Ayub 16:9
 
-> Dalam kemarahannya, Allah telah merobekku dan memburuku;
+> Dalam kemarahannya, Tuhan telah merobekku dan memburuku;
 > Dia mengertakkan giginya padaku.
 > Lawanku menatapku dengan marah.
 
@@ -57,7 +57,7 @@ Ayub menjawab, katanya,
 
 ## Ayub 16:11
 
-> Allah telah menyerahkanku kepada orang jahat
+> Tuhan telah menyerahkanku kepada orang jahat
 > dan melemparkanku ke tangan orang fasik.
 
 ## Ayub 16:12
@@ -107,11 +107,11 @@ Ayub menjawab, katanya,
 ## Ayub 16:20
 
 > Teman-temanku adalah pencemoohku;
-> mataku mencurahkan air mata kepada Allah,
+> mataku mencurahkan air mata kepada Tuhan,
 
 ## Ayub 16:21
 
-> agar seseorang dapat memohon untuk seorang manusia kepada Allah
+> agar seseorang dapat memohon untuk seorang manusia kepada Tuhan
 > seperti seseorang memohon untuk seorang teman.
 
 ---

@@ -7,7 +7,7 @@ Elihu melanjutkan berbicara dan berkata:
 ## Ayub 36:2
 
 > "Bersabarlah sedikit lebih lama,
-> dan aku akan menunjukkan bahwa masih ada yang perlu dikatakan atas nama Allah.
+> dan aku akan menunjukkan bahwa masih ada yang perlu dikatakan atas nama Tuhan.
 
 ## Ayub 36:3
 
@@ -23,7 +23,7 @@ Elihu melanjutkan berbicara dan berkata:
 
 ## Ayub 36:5
 
-> Lihatlah, Allah itu perkasa dan tidak menolak siapa pun;
+> Lihatlah, Tuhan itu perkasa dan tidak menolak siapa pun;
 > Dia perkasa dalam kekuatan dan pengertian.
 
 ## Ayub 36:6
@@ -116,7 +116,7 @@ Elihu melanjutkan berbicara dan berkata:
 
 ## Ayub 36:22
 
-> Lihatlah, Allah itu maha kuasa dalam kekuatan-Nya;
+> Lihatlah, Tuhan itu maha kuasa dalam kekuatan-Nya;
 > siapa yang dapat mengajar seperti Dia?
 
 ## Ayub 36:23
@@ -136,7 +136,7 @@ Elihu melanjutkan berbicara dan berkata:
 
 ## Ayub 36:26
 
-> Lihatlah, Allah itu besar melebihi pemahaman kita;
+> Lihatlah, Tuhan itu besar melebihi pemahaman kita;
 > jumlah tahun-Nya tidak dapat diselidiki.
 
 ---

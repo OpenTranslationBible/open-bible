@@ -10,7 +10,7 @@ Ketika engkau berangkat dari padaku hari ini, engkau akan menemukan dua orang di
 
 ## 1 Samuel 10:3
 
-Kemudian engkau akan pergi dari sana dan sampai ke pohon tarbantin Tabor. Tiga orang yang naik ke Betel untuk menemui Allah akan bertemu denganmu di sana, satu membawa tiga anak kambing, yang lain membawa tiga roti, dan yang lain membawa sekir kulit anggur.
+Kemudian engkau akan pergi dari sana dan sampai ke pohon tarbantin Tabor. Tiga orang yang naik ke Betel untuk menemui Tuhan akan bertemu denganmu di sana, satu membawa tiga anak kambing, yang lain membawa tiga roti, dan yang lain membawa sekir kulit anggur.
 
 ## 1 Samuel 10:4
 
@@ -26,7 +26,7 @@ Kemudian Roh Tuhan akan datang kepadamu dengan kuat, dan engkau akan bernubuat b
 
 ## 1 Samuel 10:7
 
-Dan ketika tanda-tanda ini datang kepadamu, lakukanlah apa yang engkau dapati untuk dilakukan, karena Allah menyertaimu.
+Dan ketika tanda-tanda ini datang kepadamu, lakukanlah apa yang engkau dapati untuk dilakukan, karena Tuhan menyertaimu.
 
 ## 1 Samuel 10:8
 
@@ -36,11 +36,11 @@ Engkau harus turun mendahului aku ke Gilgal. Dan lihatlah, aku akan datang kepad
 
 ## 1 Samuel 10:9
 
-Kemudian terjadilah, ketika Saul berbalik untuk meninggalkan Samuel, Allah memberikan kepadanya hati yang lain, dan semua tanda-tanda itu terjadi pada hari itu.
+Kemudian terjadilah, ketika Saul berbalik untuk meninggalkan Samuel, Tuhan memberikan kepadanya hati yang lain, dan semua tanda-tanda itu terjadi pada hari itu.
 
 ## 1 Samuel 10:10
 
-Ketika mereka sampai di Gibeah, lihatlah, rombongan nabi bertemu dengannya; dan Roh Allah datang kepadanya, dan ia bernubuat di antara mereka.
+Ketika mereka sampai di Gibeah, lihatlah, rombongan nabi bertemu dengannya; dan Roh Tuhan datang kepadanya, dan ia bernubuat di antara mereka.
 
 ## 1 Samuel 10:11
 
@@ -77,11 +77,11 @@ Kemudian Samuel memanggil orang-orang untuk berkumpul di hadapan Tuhan di Mizpa.
 
 ## 1 Samuel 10:18
 
-Ia berkata kepada orang-orang Israel, “Beginilah firman Tuhan, Allah Israel, ‘Aku telah membawa Israel keluar dari Mesir, dan Aku telah melepaskan kamu dari tangan orang Mesir dan dari kuasa semua kerajaan yang menindas kamu.’
+Ia berkata kepada orang-orang Israel, “Beginilah firman Tuhan, Tuhan Israel, ‘Aku telah membawa Israel keluar dari Mesir, dan Aku telah melepaskan kamu dari tangan orang Mesir dan dari kuasa semua kerajaan yang menindas kamu.’
 
 ## 1 Samuel 10:19
 
-Tetapi hari ini kamu telah menolak Allahmu, yang menyelamatkan kamu dari segala malapetaka dan kesusahanmu, dan kamu telah berkata, ‘Tidak! Tetapkanlah seorang raja atas kami.’ Sekarang, hadapkanlah dirimu di hadapan Tuhan menurut suku-suku dan kaum-kaummu.”
+Tetapi hari ini kamu telah menolak Tuhanmu, yang menyelamatkan kamu dari segala malapetaka dan kesusahanmu, dan kamu telah berkata, ‘Tidak! Tetapkanlah seorang raja atas kami.’ Sekarang, hadapkanlah dirimu di hadapan Tuhan menurut suku-suku dan kaum-kaummu.”
 
 ## 1 Samuel 10:20
 
@@ -112,7 +112,7 @@ Kemudian Samuel memberitahu orang-orang tentang peraturan kerajaan dan menuliska
 
 ## 1 Samuel 10:26
 
-Saul kembali ke rumahnya di Gibeah, ditemani oleh orang-orang gagah berani yang hatinya telah disentuh Allah.
+Saul kembali ke rumahnya di Gibeah, ditemani oleh orang-orang gagah berani yang hatinya telah disentuh Tuhan.
 
 ## 1 Samuel 10:27
 

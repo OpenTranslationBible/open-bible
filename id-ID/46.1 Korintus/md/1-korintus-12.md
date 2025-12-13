@@ -10,7 +10,7 @@ Kamu tahu bahwa ketika kamu belum percaya, kamu dibawa kepada berhala-berhala bi
 
 ## 1 Korintus 12:3
 
-Karena itu, aku memberitahukan kepadamu bahwa tidak ada seorang pun yang berkata-kata oleh Roh Allah dapat mengatakan, “Yesus terkutuk,” dan tidak ada seorang pun yang dapat mengatakan, “Yesus adalah Tuhan,” kecuali oleh Roh Kudus.
+Karena itu, aku memberitahukan kepadamu bahwa tidak ada seorang pun yang berkata-kata oleh Roh Tuhan dapat mengatakan, “Yesus terkutuk,” dan tidak ada seorang pun yang dapat mengatakan, “Yesus adalah Tuhan,” kecuali oleh Roh Kudus.
 
 ## 1 Korintus 12:4
 
@@ -22,7 +22,7 @@ Dan ada berbagai macam pelayanan, tetapi Tuhan yang sama.
 
 ## 1 Korintus 12:6
 
-Ada berbagai macam pekerjaan, tetapi Allah yang sama yang mengerjakan semua dalam semua orang.
+Ada berbagai macam pekerjaan, tetapi Tuhan yang sama yang mengerjakan semua dalam semua orang.
 
 ## 1 Korintus 12:7
 
@@ -70,7 +70,7 @@ Jika seluruh tubuh adalah mata, apa jadinya pendengaran? Jika seluruhnya adalah 
 
 ## 1 Korintus 12:18
 
-Tetapi sekarang Allah telah menempatkan anggota-anggota, masing-masing dari mereka dalam tubuh, sebagaimana yang Ia kehendaki.
+Tetapi sekarang Tuhan telah menempatkan anggota-anggota, masing-masing dari mereka dalam tubuh, sebagaimana yang Ia kehendaki.
 
 ## 1 Korintus 12:19
 
@@ -94,7 +94,7 @@ Dan anggota-anggota tubuh yang kita anggap kurang terhormat, kepada mereka kita 
 
 ## 1 Korintus 12:24
 
-Sedangkan anggota-anggota kita yang lebih elok tidak memerlukannya. Tetapi Allah telah menyusun tubuh sedemikian rupa, memberikan penghormatan yang lebih besar kepada anggota yang kurang,
+Sedangkan anggota-anggota kita yang lebih elok tidak memerlukannya. Tetapi Tuhan telah menyusun tubuh sedemikian rupa, memberikan penghormatan yang lebih besar kepada anggota yang kurang,
 
 ## 1 Korintus 12:25
 
@@ -110,7 +110,7 @@ Sekarang kamu adalah tubuh Kristus, dan masing-masing adalah anggota-anggotanya.
 
 ## 1 Korintus 12:28
 
-Dan Allah telah menetapkan dalam gereja, pertama rasul-rasul, kedua nabi-nabi, ketiga pengajar-pengajar, kemudian mujizat-mujizat, kemudian karunia penyembuhan, pertolongan, pengaturan, dan berbagai macam bahasa.
+Dan Tuhan telah menetapkan dalam gereja, pertama rasul-rasul, kedua nabi-nabi, ketiga pengajar-pengajar, kemudian mujizat-mujizat, kemudian karunia penyembuhan, pertolongan, pengaturan, dan berbagai macam bahasa.
 
 ## 1 Korintus 12:29
 

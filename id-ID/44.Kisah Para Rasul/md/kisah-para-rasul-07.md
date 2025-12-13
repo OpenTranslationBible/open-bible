@@ -6,7 +6,7 @@ Imam besar kemudian bertanya kepada Stefanus, “Apakah tuduhan-tuduhan ini bena
 
 ## Kisah Para Rasul 7:2
 
-Stefanus menjawab, “Saudara-saudara dan bapa-bapa, dengarkanlah aku! Allah yang mulia menampakkan diri kepada leluhur kita Abraham ketika ia berada di Mesopotamia, sebelum ia tinggal di Haran.
+Stefanus menjawab, “Saudara-saudara dan bapa-bapa, dengarkanlah aku! Tuhan yang mulia menampakkan diri kepada leluhur kita Abraham ketika ia berada di Mesopotamia, sebelum ia tinggal di Haran.
 
 ## Kisah Para Rasul 7:3
 
@@ -14,7 +14,7 @@ Dan Dia memerintahkannya, ‘Tinggalkan negaramu dan sanak saudaramu, dan pergil
 
 ## Kisah Para Rasul 7:4
 
-Maka Abraham meninggalkan tanah orang Kasdim dan menetap di Haran. Setelah ayahnya meninggal, Allah memindahkannya ke tanah ini di mana kamu sekarang tinggal.
+Maka Abraham meninggalkan tanah orang Kasdim dan menetap di Haran. Setelah ayahnya meninggal, Tuhan memindahkannya ke tanah ini di mana kamu sekarang tinggal.
 
 ## Kisah Para Rasul 7:5
 
@@ -22,11 +22,11 @@ Dia tidak memberinya warisan di sini, bahkan tidak sejengkal tanah pun. Namun Di
 
 ## Kisah Para Rasul 7:6
 
-Allah berfirman demikian: ‘Keturunanmu akan menjadi orang asing di negeri yang bukan milik mereka, dan mereka akan diperbudak dan dianiaya selama empat ratus tahun.
+Tuhan berfirman demikian: ‘Keturunanmu akan menjadi orang asing di negeri yang bukan milik mereka, dan mereka akan diperbudak dan dianiaya selama empat ratus tahun.
 
 ## Kisah Para Rasul 7:7
 
-Tetapi Aku akan menghakimi bangsa yang mereka layani sebagai budak,’ kata Allah, ‘dan setelah itu mereka akan keluar dan beribadah kepada-Ku di tempat ini.’
+Tetapi Aku akan menghakimi bangsa yang mereka layani sebagai budak,’ kata Tuhan, ‘dan setelah itu mereka akan keluar dan beribadah kepada-Ku di tempat ini.’
 
 ## Kisah Para Rasul 7:8
 
@@ -36,7 +36,7 @@ Kemudian Dia memberinya perjanjian sunat. Maka Abraham menjadi ayah Ishak dan me
 
 ## Kisah Para Rasul 7:9
 
-“Para bapa leluhur, karena iri hati, menjual Yusuf ke Mesir. Tetapi Allah menyertai dia,
+“Para bapa leluhur, karena iri hati, menjual Yusuf ke Mesir. Tetapi Tuhan menyertai dia,
 
 ## Kisah Para Rasul 7:10
 
@@ -70,7 +70,7 @@ Jenazah mereka dibawa kembali ke Sikhem dan diletakkan di makam yang dibeli Abra
 
 ## Kisah Para Rasul 7:17
 
-“Ketika waktu mendekat bagi Allah untuk memenuhi janji-Nya kepada Abraham, jumlah bangsa kita di Mesir bertambah banyak.
+“Ketika waktu mendekat bagi Tuhan untuk memenuhi janji-Nya kepada Abraham, jumlah bangsa kita di Mesir bertambah banyak.
 
 ## Kisah Para Rasul 7:18
 
@@ -102,7 +102,7 @@ Melihat salah satu dari mereka diperlakukan tidak adil, dia membelanya dan memba
 
 ## Kisah Para Rasul 7:25
 
-Dia mengira saudara-saudaranya akan mengerti bahwa Allah memberikan pembebasan kepada mereka melalui dia, tetapi mereka tidak mengerti.
+Dia mengira saudara-saudaranya akan mengerti bahwa Tuhan memberikan pembebasan kepada mereka melalui dia, tetapi mereka tidak mengerti.
 
 ## Kisah Para Rasul 7:26
 
@@ -132,7 +132,7 @@ Ketika Musa melihatnya, dia kagum pada pemandangan itu. Saat dia mendekat untuk 
 
 ## Kisah Para Rasul 7:32
 
-‘Akulah Allah leluhurmu, Allah Abraham, Ishak, dan Yakub.’ Musa gemetar ketakutan dan tidak berani melihat.
+‘Akulah Tuhan leluhurmu, Tuhan Abraham, Ishak, dan Yakub.’ Musa gemetar ketakutan dan tidak berani melihat.
 
 ## Kisah Para Rasul 7:33
 
@@ -146,7 +146,7 @@ Aku telah melihat penindasan umat-Ku di Mesir, dan Aku telah mendengar keluhan m
 
 ## Kisah Para Rasul 7:35
 
-“Musa ini yang mereka tolak, dengan mengatakan, ‘Siapa yang mengangkatmu menjadi penguasa dan hakim?’ adalah orang yang diutus Allah sebagai penguasa dan pembebas, dengan bantuan malaikat yang menampakkan diri kepadanya di semak.
+“Musa ini yang mereka tolak, dengan mengatakan, ‘Siapa yang mengangkatmu menjadi penguasa dan hakim?’ adalah orang yang diutus Tuhan sebagai penguasa dan pembebas, dengan bantuan malaikat yang menampakkan diri kepadanya di semak.
 
 ## Kisah Para Rasul 7:36
 
@@ -154,7 +154,7 @@ Dia memimpin mereka keluar, melakukan keajaiban dan tanda-tanda di Mesir, di Lau
 
 ## Kisah Para Rasul 7:37
 
-“Inilah Musa yang berkata kepada orang Israel, ‘Allah akan membangkitkan bagimu seorang nabi seperti aku dari antara bangsamu sendiri.’
+“Inilah Musa yang berkata kepada orang Israel, ‘Tuhan akan membangkitkan bagimu seorang nabi seperti aku dari antara bangsamu sendiri.’
 
 ## Kisah Para Rasul 7:38
 
@@ -166,7 +166,7 @@ Dia bersama jemaat di padang gurun, dengan malaikat yang berbicara kepadanya di 
 
 ## Kisah Para Rasul 7:40
 
-Mereka berkata kepada Harun, ‘Buatlah bagi kami allah-allah yang akan berjalan di depan kami. Mengenai Musa ini yang memimpin kami keluar dari Mesir—kami tidak tahu apa yang telah terjadi padanya!’
+Mereka berkata kepada Harun, ‘Buatlah bagi kami Tuhan-Tuhan yang akan berjalan di depan kami. Mengenai Musa ini yang memimpin kami keluar dari Mesir—kami tidak tahu apa yang telah terjadi padanya!’
 
 ## Kisah Para Rasul 7:41
 
@@ -174,7 +174,7 @@ Pada waktu itu mereka membuat patung anak lembu. Mereka membawa korban kepada pa
 
 ## Kisah Para Rasul 7:42
 
-Tetapi Allah berpaling dari mereka dan menyerahkan mereka kepada penyembahan matahari, bulan, dan bintang-bintang. Seperti yang tertulis dalam kitab para nabi:
+Tetapi Tuhan berpaling dari mereka dan menyerahkan mereka kepada penyembahan matahari, bulan, dan bintang-bintang. Seperti yang tertulis dalam kitab para nabi:
 
 > ‘Apakah kamu mempersembahkan korban dan persembahan kepada-Ku
 > selama empat puluh tahun di padang gurun, hai kaum Israel?
@@ -190,15 +190,15 @@ Tetapi Allah berpaling dari mereka dan menyerahkan mereka kepada penyembahan mat
 
 ## Kisah Para Rasul 7:44
 
-“Leluhur kita memiliki kemah hukum perjanjian bersama mereka di padang gurun. Itu dibuat seperti yang Allah perintahkan kepada Musa, sesuai dengan pola yang telah dilihatnya.
+“Leluhur kita memiliki kemah hukum perjanjian bersama mereka di padang gurun. Itu dibuat seperti yang Tuhan perintahkan kepada Musa, sesuai dengan pola yang telah dilihatnya.
 
 ## Kisah Para Rasul 7:45
 
-Leluhur kita menerimanya dan membawanya bersama Yosua ketika mereka mengusir bangsa-bangsa yang Allah usir dari hadapan mereka. Itu tetap di tanah itu sampai zaman Daud,
+Leluhur kita menerimanya dan membawanya bersama Yosua ketika mereka mengusir bangsa-bangsa yang Tuhan usir dari hadapan mereka. Itu tetap di tanah itu sampai zaman Daud,
 
 ## Kisah Para Rasul 7:46
 
-yang mendapatkan kasih karunia di hadapan Allah dan meminta agar dia dapat menyediakan tempat tinggal bagi Allah Yakub.
+yang mendapatkan kasih karunia di hadapan Tuhan dan meminta agar dia dapat menyediakan tempat tinggal bagi Tuhan Yakub.
 
 ## Kisah Para Rasul 7:47
 
@@ -241,11 +241,11 @@ Ketika anggota Sanhedrin mendengar ini, mereka sangat marah dan menggertakkan gi
 
 ## Kisah Para Rasul 7:55
 
-Tetapi Stefanus, penuh dengan Roh Kudus, menatap ke langit dan melihat kemuliaan Allah, dan Yesus berdiri di sebelah kanan Allah.
+Tetapi Stefanus, penuh dengan Roh Kudus, menatap ke langit dan melihat kemuliaan Tuhan, dan Yesus berdiri di sebelah kanan Tuhan.
 
 ## Kisah Para Rasul 7:56
 
-“Lihatlah,” katanya, “Aku melihat langit terbuka dan Anak Manusia berdiri di sebelah kanan Allah.”
+“Lihatlah,” katanya, “Aku melihat langit terbuka dan Anak Manusia berdiri di sebelah kanan Tuhan.”
 
 ## Kisah Para Rasul 7:57
 

@@ -2,7 +2,7 @@
 
 ## Wahyu 16:1
 
-Kemudian aku mendengar suara yang keras dari bait suci, memerintahkan ketujuh malaikat itu, "Pergilah, tuangkanlah ketujuh cawan murka Allah ke atas bumi."
+Kemudian aku mendengar suara yang keras dari bait suci, memerintahkan ketujuh malaikat itu, "Pergilah, tuangkanlah ketujuh cawan murka Tuhan ke atas bumi."
 
 ## Wahyu 16:2
 
@@ -33,7 +33,7 @@ Kemudian aku mendengar malaikat yang berkuasa atas air berkata,
 
 Dan aku mendengar mezbah itu berkata,
 
-> "Ya, Tuhan Allah Yang Mahakuasa,
+> "Ya, Tuhan Tuhan Yang Mahakuasa,
 > benar dan adil penghakiman-Mu."
 
 ## Wahyu 16:8
@@ -42,7 +42,7 @@ Malaikat yang keempat menuangkan cawannya ke atas matahari, dan matahari diberi 
 
 ## Wahyu 16:9
 
-Mereka dibakar oleh panas yang terik, dan mereka menghujat nama Allah yang berkuasa atas tulah-tulah ini, namun mereka tidak bertobat untuk memuliakan Dia.
+Mereka dibakar oleh panas yang terik, dan mereka menghujat nama Tuhan yang berkuasa atas tulah-tulah ini, namun mereka tidak bertobat untuk memuliakan Dia.
 
 ## Wahyu 16:10
 
@@ -50,7 +50,7 @@ Malaikat yang kelima menuangkan cawannya ke atas takhta binatang itu, dan keraja
 
 ## Wahyu 16:11
 
-dan menghujat Allah di surga karena kesakitan dan bisul-bisul mereka, namun mereka tidak bertobat dari perbuatan mereka.
+dan menghujat Tuhan di surga karena kesakitan dan bisul-bisul mereka, namun mereka tidak bertobat dari perbuatan mereka.
 
 ## Wahyu 16:12
 
@@ -62,7 +62,7 @@ Kemudian aku melihat tiga roh najis, seperti katak, keluar dari mulut naga, bina
 
 ## Wahyu 16:14
 
-Itu adalah roh-roh setan yang melakukan tanda-tanda, pergi kepada raja-raja di seluruh dunia, untuk mengumpulkan mereka bagi pertempuran pada hari besar Allah Yang Mahakuasa.
+Itu adalah roh-roh setan yang melakukan tanda-tanda, pergi kepada raja-raja di seluruh dunia, untuk mengumpulkan mereka bagi pertempuran pada hari besar Tuhan Yang Mahakuasa.
 
 ## Wahyu 16:15
 
@@ -82,7 +82,7 @@ Kemudian terjadilah kilat, suara gemuruh, guntur, dan gempa bumi yang dahsyat. B
 
 ## Wahyu 16:19
 
-Kota besar itu terbelah menjadi tiga bagian, dan kota-kota bangsa-bangsa runtuh. Babel yang besar diingat oleh Allah, yang memberikan kepadanya cawan berisi anggur murka-Nya yang dahsyat.
+Kota besar itu terbelah menjadi tiga bagian, dan kota-kota bangsa-bangsa runtuh. Babel yang besar diingat oleh Tuhan, yang memberikan kepadanya cawan berisi anggur murka-Nya yang dahsyat.
 
 ## Wahyu 16:20
 
@@ -90,4 +90,4 @@ Setiap pulau lenyap, dan tidak ada gunung yang ditemukan.
 
 ## Wahyu 16:21
 
-Batu-batu es yang besar, masing-masing seberat kira-kira satu talenta, jatuh dari langit menimpa manusia. Mereka menghujat Allah karena tulah hujan es itu, sebab tulah itu sangat dahsyat.
+Batu-batu es yang besar, masing-masing seberat kira-kira satu talenta, jatuh dari langit menimpa manusia. Mereka menghujat Tuhan karena tulah hujan es itu, sebab tulah itu sangat dahsyat.

@@ -20,7 +20,7 @@ Maka, oleh Roh Kudus, mereka pergi ke Seleukia dan berlayar dari sana ke Siprus.
 
 ## Kisah Para Rasul 13:5
 
-Setibanya di Salamis, mereka memberitakan firman Allah di rumah-rumah ibadat orang Yahudi. Yohanes ada bersama mereka sebagai pembantu mereka.
+Setibanya di Salamis, mereka memberitakan firman Tuhan di rumah-rumah ibadat orang Yahudi. Yohanes ada bersama mereka sebagai pembantu mereka.
 
 ## Kisah Para Rasul 13:6
 
@@ -28,7 +28,7 @@ Mereka menjelajahi seluruh pulau sampai tiba di Pafos. Di sana mereka bertemu de
 
 ## Kisah Para Rasul 13:7
 
-yang bersama dengan prokonsul, Sergius Paulus, seorang yang cerdas. Prokonsul itu memanggil Barnabas dan Saulus karena ia ingin mendengar firman Allah.
+yang bersama dengan prokonsul, Sergius Paulus, seorang yang cerdas. Prokonsul itu memanggil Barnabas dan Saulus karena ia ingin mendengar firman Tuhan.
 
 ## Kisah Para Rasul 13:8
 
@@ -66,11 +66,11 @@ Setelah pembacaan dari Hukum Taurat dan Kitab Para Nabi, pemimpin-pemimpin rumah
 
 ## Kisah Para Rasul 13:16
 
-Paulus berdiri, memberi isyarat dengan tangannya, dan berkata: “Hai orang-orang Israel dan kalian yang takut akan Allah, dengarkanlah:
+Paulus berdiri, memberi isyarat dengan tangannya, dan berkata: “Hai orang-orang Israel dan kalian yang takut akan Tuhan, dengarkanlah:
 
 ## Kisah Para Rasul 13:17
 
-Allah umat Israel memilih nenek moyang kita dan membuat umat itu makmur selama mereka tinggal di Mesir, dan dengan tangan yang terangkat Dia memimpin mereka keluar dari sana.
+Tuhan umat Israel memilih nenek moyang kita dan membuat umat itu makmur selama mereka tinggal di Mesir, dan dengan tangan yang terangkat Dia memimpin mereka keluar dari sana.
 
 ## Kisah Para Rasul 13:18
 
@@ -86,15 +86,15 @@ Semua ini berlangsung kira-kira 450 tahun. Setelah itu, Dia memberikan mereka ha
 
 ## Kisah Para Rasul 13:21
 
-Kemudian umat itu meminta seorang raja, dan Allah memberikan mereka Saul anak Kish, seorang dari suku Benyamin, yang memerintah selama empat puluh tahun.
+Kemudian umat itu meminta seorang raja, dan Tuhan memberikan mereka Saul anak Kish, seorang dari suku Benyamin, yang memerintah selama empat puluh tahun.
 
 ## Kisah Para Rasul 13:22
 
-Setelah menyingkirkan dia, Dia membangkitkan Daud untuk menjadi raja mereka. Allah bersaksi tentang dia: ‘Aku telah menemukan Daud anak Isai, seorang yang berkenan di hati-Ku; dia akan melakukan segala yang Aku inginkan.’
+Setelah menyingkirkan dia, Dia membangkitkan Daud untuk menjadi raja mereka. Tuhan bersaksi tentang dia: ‘Aku telah menemukan Daud anak Isai, seorang yang berkenan di hati-Ku; dia akan melakukan segala yang Aku inginkan.’
 
 ## Kisah Para Rasul 13:23
 
-Dari keturunan Daud, Allah membawa Yesus sebagai Juruselamat bagi Israel, seperti yang telah Dia janjikan.
+Dari keturunan Daud, Tuhan membawa Yesus sebagai Juruselamat bagi Israel, seperti yang telah Dia janjikan.
 
 ## Kisah Para Rasul 13:24
 
@@ -108,7 +108,7 @@ Saat Yohanes menyelesaikan pekerjaannya, dia berkata: ‘Siapa yang kalian kira 
 
 ## Kisah Para Rasul 13:26
 
-“Saudara-saudara, anak-anak keluarga Abraham, dan kalian orang-orang bukan Yahudi yang takut akan Allah, kepada kita pesan keselamatan ini telah dikirim.
+“Saudara-saudara, anak-anak keluarga Abraham, dan kalian orang-orang bukan Yahudi yang takut akan Tuhan, kepada kita pesan keselamatan ini telah dikirim.
 
 ## Kisah Para Rasul 13:27
 
@@ -124,7 +124,7 @@ Ketika mereka telah menyelesaikan semua yang tertulis tentang Dia, mereka menuru
 
 ## Kisah Para Rasul 13:30
 
-Namun Allah membangkitkan Dia dari kematian
+Namun Tuhan membangkitkan Dia dari kematian
 
 ## Kisah Para Rasul 13:31
 
@@ -132,7 +132,7 @@ dan selama banyak hari Dia menampakkan diri kepada mereka yang telah menemani Di
 
 ## Kisah Para Rasul 13:32
 
-“Kami membawa kabar baik kepada kalian: Apa yang Allah janjikan kepada nenek moyang kita
+“Kami membawa kabar baik kepada kalian: Apa yang Tuhan janjikan kepada nenek moyang kita
 
 ## Kisah Para Rasul 13:33
 
@@ -143,7 +143,7 @@ telah Dia penuhi untuk kita, anak-anak mereka, dengan membangkitkan Yesus. Seper
 
 ## Kisah Para Rasul 13:34
 
-Allah membangkitkan Dia dari kematian, memastikan Dia tidak akan pernah mengalami kebusukan. Seperti yang telah Allah katakan,
+Tuhan membangkitkan Dia dari kematian, memastikan Dia tidak akan pernah mengalami kebusukan. Seperti yang telah Tuhan katakan,
 
 > ‘Aku akan memberikan kepadamu berkat-berkat kudus dan pasti yang dijanjikan kepada Daud.’
 
@@ -155,11 +155,11 @@ Jadi juga dinyatakan di tempat lain:
 
 ## Kisah Para Rasul 13:36
 
-“Sekarang ketika Daud telah melayani tujuan Allah dalam generasinya sendiri, dia meninggal; dia dikuburkan bersama nenek moyangnya dan tubuhnya membusuk.
+“Sekarang ketika Daud telah melayani tujuan Tuhan dalam generasinya sendiri, dia meninggal; dia dikuburkan bersama nenek moyangnya dan tubuhnya membusuk.
 
 ## Kisah Para Rasul 13:37
 
-Tetapi Dia yang dibangkitkan Allah dari kematian tidak mengalami kebusukan.
+Tetapi Dia yang dibangkitkan Tuhan dari kematian tidak mengalami kebusukan.
 
 ## Kisah Para Rasul 13:38
 
@@ -189,7 +189,7 @@ Ketika Paulus dan Barnabas meninggalkan rumah ibadat, orang-orang mengundang mer
 
 ## Kisah Para Rasul 13:43
 
-Ketika jemaat dibubarkan, banyak orang Yahudi dan penganut setia Yudaisme mengikuti Paulus dan Barnabas, yang berbicara dengan mereka dan mendesak mereka untuk tetap dalam kasih karunia Allah.
+Ketika jemaat dibubarkan, banyak orang Yahudi dan penganut setia Yudaisme mengikuti Paulus dan Barnabas, yang berbicara dengan mereka dan mendesak mereka untuk tetap dalam kasih karunia Tuhan.
 
 ---
 
@@ -203,7 +203,7 @@ Ketika pemimpin-pemimpin Yahudi melihat kerumunan itu, mereka dipenuhi dengan ke
 
 ## Kisah Para Rasul 13:46
 
-Kemudian Paulus dan Barnabas berbicara dengan berani: “Adalah perlu untuk berbicara firman Allah kepada kalian terlebih dahulu. Karena kalian menolaknya dan tidak menganggap diri kalian layak untuk hidup yang kekal, kami sekarang beralih kepada orang-orang bukan Yahudi.
+Kemudian Paulus dan Barnabas berbicara dengan berani: “Adalah perlu untuk berbicara firman Tuhan kepada kalian terlebih dahulu. Karena kalian menolaknya dan tidak menganggap diri kalian layak untuk hidup yang kekal, kami sekarang beralih kepada orang-orang bukan Yahudi.
 
 ## Kisah Para Rasul 13:47
 

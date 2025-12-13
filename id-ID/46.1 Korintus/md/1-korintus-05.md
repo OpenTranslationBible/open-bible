@@ -50,4 +50,4 @@ Karena apa urusanku untuk menghakimi mereka yang di luar? Tidakkah kamu menghaki
 
 ## 1 Korintus 5:13
 
-Tetapi mereka yang di luar, Allah yang akan menghakimi. Usirlah orang jahat dari antara kamu.
+Tetapi mereka yang di luar, Tuhan yang akan menghakimi. Usirlah orang jahat dari antara kamu.

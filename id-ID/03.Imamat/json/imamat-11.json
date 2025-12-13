@@ -1,288 +1,264 @@
 {
-    "book": "Imamat",
-    "chapter": 11,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Kemudian Tuhan berbicara kepada Musa dan Harun, dengan berfirman,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "\"Berbicaralah kepada orang Israel dan katakan: 'Di antara semua binatang yang hidup di darat, inilah yang boleh kamu makan:"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Kamu boleh makan binatang apa pun yang berkuku belah sepenuhnya dan yang memamah biak."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "\"'Namun, ada beberapa yang hanya memamah biak atau hanya berkuku belah, tetapi kamu tidak boleh memakannya. Unta, meskipun memamah biak, tidak berkuku belah; itu najis bagimu."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Hyrax, meskipun memamah biak, tidak berkuku belah; itu najis bagimu."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Kelinci, meskipun memamah biak, tidak berkuku belah; itu najis bagimu."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Dan babi, meskipun berkuku belah sepenuhnya, tidak memamah biak; itu najis bagimu."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Kamu tidak boleh memakan daging mereka atau menyentuh bangkai mereka; mereka dianggap najis bagimu."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "\"'Dari semua makhluk yang hidup di dalam air, kamu boleh makan yang memiliki sirip dan sisik."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Tetapi semua makhluk di laut atau sungai yang tidak memiliki sirip dan sisik—di antara semua yang berkeriapan atau makhluk hidup lainnya di dalam air—adalah menjijikkan bagimu."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Dan karena mereka menjijikkan bagimu, kamu tidak boleh memakan daging mereka dan kamu harus menganggap bangkai mereka sebagai menjijikkan."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Segala sesuatu yang hidup di dalam air yang tidak memiliki sirip dan sisik harus dianggap menjijikkan olehmu."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "\"'Inilah burung-burung yang harus kamu anggap menjijikkan dan tidak boleh dimakan karena mereka menjijikkan: elang, burung nasar, dan burung hering,"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "elang merah, segala jenis elang,"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "semua jenis gagak,"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "burung unta, burung hantu, burung camar, dan segala jenis elang,"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "burung hantu kecil, burung kormoran, dan burung hantu besar,"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "burung hantu lumbung, burung pelikan, dan burung nasar pemakan bangkai,"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "bangau, segala jenis kuntul, hud-hud, dan kelelawar."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "\"'Semua serangga terbang yang berjalan dengan empat kaki harus dianggap menjijikkan olehmu."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Namun, di antara serangga terbang yang berjalan dengan empat kaki kamu boleh makan yang memiliki kaki berengsel untuk melompat di tanah."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Dari yang ini, kamu diizinkan makan segala jenis belalang, belalang sembah, jangkrik, atau belalang."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Tetapi semua serangga terbang lainnya yang memiliki empat kaki harus dianggap menjijikkan."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "\"'Kamu akan menjadi najis oleh ini; siapa pun yang menyentuh bangkai mereka akan menjadi najis sampai malam."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Siapa pun yang mengangkat salah satu bangkai mereka harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "\"'Setiap binatang yang tidak memiliki kuku belah sepenuhnya atau yang tidak memamah biak adalah najis bagimu; siapa pun yang menyentuh bangkai salah satu dari mereka akan menjadi najis."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Dari semua binatang yang berjalan dengan empat kaki, yang berjalan dengan telapak kaki mereka adalah najis bagimu; siapa pun yang menyentuh bangkai mereka akan menjadi najis sampai malam."
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Siapa pun yang mengangkat bangkai mereka harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam. Binatang-binatang ini adalah najis bagimu."
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "\"'Dari binatang-binatang yang bergerak di tanah, ini adalah najis bagimu: tikus tanah, tikus, dan segala jenis kadal besar,"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "juga tokek, biawak, kadal biasa, bengkarung, dan bunglon."
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Dari semua yang bergerak di tanah, ini adalah najis bagimu. Siapa pun yang menyentuh mereka ketika mereka mati akan menjadi najis sampai malam."
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Ketika salah satu dari mereka mati dan jatuh pada sesuatu, barang itu, apa pun kegunaannya, akan menjadi najis, baik itu terbuat dari kayu, kain, kulit, atau kain karung. Itu harus dimasukkan ke dalam air; itu akan menjadi najis sampai malam, dan kemudian akan menjadi bersih."
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "Jika salah satu dari mereka jatuh ke dalam pot tanah liat, segala sesuatu di dalamnya akan menjadi najis, dan pot itu harus dipecahkan."
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "Makanan apa pun yang diizinkan untuk kamu makan yang telah bersentuhan dengan air dari pot semacam itu adalah najis, dan cairan apa pun yang diminum dari pot semacam itu adalah najis."
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "Segala sesuatu yang salah satu bangkai mereka jatuh di atasnya menjadi najis; oven atau periuk harus dipecahkan. Mereka najis, dan kamu harus menganggap mereka sebagai najis."
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "Namun, mata air atau kolam untuk mengumpulkan air tetap murni, tetapi siapa pun yang menyentuh salah satu bangkai ini adalah najis."
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "Jika bangkai jatuh pada biji yang akan ditanam, mereka tetap murni."
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "Tetapi jika air telah diletakkan pada biji dan bangkai jatuh di atasnya, itu menjadi najis bagimu."
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "\"'Jika binatang yang kamu diizinkan makan mati, siapa pun yang menyentuh bangkainya akan menjadi najis sampai malam."
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "Siapa pun yang memakan sebagian dari bangkainya harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam. Siapa pun yang mengangkat bangkai harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam."
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "\"'Setiap makhluk yang bergerak di tanah harus dianggap menjijikkan; itu tidak boleh dimakan."
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "Kamu tidak boleh memakan makhluk apa pun yang bergerak di tanah, baik yang bergerak dengan perutnya atau berjalan dengan empat kaki atau dengan banyak kaki; itu menjijikkan."
-            ]
-        },
-        {
-            "verse": 43,
-            "text": [
-                "Jangan membuat dirimu najis oleh makhluk-makhluk ini. Jangan membuat dirimu najis dengan cara mereka atau menjadi najis oleh mereka."
-            ]
-        },
-        {
-            "verse": 44,
-            "text": [
-                "Akulah Tuhan Allahmu; pisahkan dirimu dan jadilah kudus, karena Aku kudus. Jangan membuat dirimu najis oleh makhluk apa pun yang bergerak di tanah."
-            ]
-        },
-        {
-            "verse": 45,
-            "text": [
-                "Akulah Tuhan, yang membawa kamu keluar dari Mesir untuk menjadi Allahmu; oleh karena itu jadilah kudus, karena Aku kudus."
-            ]
-        },
-        {
-            "verse": 46,
-            "text": [
-                "\"'Inilah hukum mengenai binatang-binatang, burung-burung, setiap makhluk hidup yang bergerak di dalam air, dan setiap makhluk yang bergerak di tanah."
-            ]
-        },
-        {
-            "verse": 47,
-            "text": [
-                "Kamu harus membedakan antara yang najis dan yang murni, antara makhluk hidup yang boleh dimakan dan yang tidak boleh dimakan.'\""
-            ]
-        }
-    ]
+  "book": "Imamat",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Kemudian Tuhan berbicara kepada Musa dan Harun, dengan berfirman,"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "\"Berbicaralah kepada orang Israel dan katakan: 'Di antara semua binatang yang hidup di darat, inilah yang boleh kamu makan:"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Kamu boleh makan binatang apa pun yang berkuku belah sepenuhnya dan yang memamah biak."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "\"'Namun, ada beberapa yang hanya memamah biak atau hanya berkuku belah, tetapi kamu tidak boleh memakannya. Unta, meskipun memamah biak, tidak berkuku belah; itu najis bagimu."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["Hyrax, meskipun memamah biak, tidak berkuku belah; itu najis bagimu."]
+    },
+    {
+      "verse": 6,
+      "text": ["Kelinci, meskipun memamah biak, tidak berkuku belah; itu najis bagimu."]
+    },
+    {
+      "verse": 7,
+      "text": ["Dan babi, meskipun berkuku belah sepenuhnya, tidak memamah biak; itu najis bagimu."]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Kamu tidak boleh memakan daging mereka atau menyentuh bangkai mereka; mereka dianggap najis bagimu."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "\"'Dari semua makhluk yang hidup di dalam air, kamu boleh makan yang memiliki sirip dan sisik."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Tetapi semua makhluk di laut atau sungai yang tidak memiliki sirip dan sisik—di antara semua yang berkeriapan atau makhluk hidup lainnya di dalam air—adalah menjijikkan bagimu."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Dan karena mereka menjijikkan bagimu, kamu tidak boleh memakan daging mereka dan kamu harus menganggap bangkai mereka sebagai menjijikkan."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Segala sesuatu yang hidup di dalam air yang tidak memiliki sirip dan sisik harus dianggap menjijikkan olehmu."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "\"'Inilah burung-burung yang harus kamu anggap menjijikkan dan tidak boleh dimakan karena mereka menjijikkan: elang, burung nasar, dan burung hering,"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": ["elang merah, segala jenis elang,"]
+    },
+    {
+      "verse": 15,
+      "text": ["semua jenis gagak,"]
+    },
+    {
+      "verse": 16,
+      "text": ["burung unta, burung hantu, burung camar, dan segala jenis elang,"]
+    },
+    {
+      "verse": 17,
+      "text": ["burung hantu kecil, burung kormoran, dan burung hantu besar,"]
+    },
+    {
+      "verse": 18,
+      "text": ["burung hantu lumbung, burung pelikan, dan burung nasar pemakan bangkai,"]
+    },
+    {
+      "verse": 19,
+      "text": ["bangau, segala jenis kuntul, hud-hud, dan kelelawar."]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "\"'Semua serangga terbang yang berjalan dengan empat kaki harus dianggap menjijikkan olehmu."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Namun, di antara serangga terbang yang berjalan dengan empat kaki kamu boleh makan yang memiliki kaki berengsel untuk melompat di tanah."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Dari yang ini, kamu diizinkan makan segala jenis belalang, belalang sembah, jangkrik, atau belalang."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Tetapi semua serangga terbang lainnya yang memiliki empat kaki harus dianggap menjijikkan."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "\"'Kamu akan menjadi najis oleh ini; siapa pun yang menyentuh bangkai mereka akan menjadi najis sampai malam."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Siapa pun yang mengangkat salah satu bangkai mereka harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "\"'Setiap binatang yang tidak memiliki kuku belah sepenuhnya atau yang tidak memamah biak adalah najis bagimu; siapa pun yang menyentuh bangkai salah satu dari mereka akan menjadi najis."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Dari semua binatang yang berjalan dengan empat kaki, yang berjalan dengan telapak kaki mereka adalah najis bagimu; siapa pun yang menyentuh bangkai mereka akan menjadi najis sampai malam."
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Siapa pun yang mengangkat bangkai mereka harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam. Binatang-binatang ini adalah najis bagimu."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "\"'Dari binatang-binatang yang bergerak di tanah, ini adalah najis bagimu: tikus tanah, tikus, dan segala jenis kadal besar,"
+      ]
+    },
+    {
+      "verse": 30,
+      "text": ["juga tokek, biawak, kadal biasa, bengkarung, dan bunglon."]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Dari semua yang bergerak di tanah, ini adalah najis bagimu. Siapa pun yang menyentuh mereka ketika mereka mati akan menjadi najis sampai malam."
+      ]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "Ketika salah satu dari mereka mati dan jatuh pada sesuatu, barang itu, apa pun kegunaannya, akan menjadi najis, baik itu terbuat dari kayu, kain, kulit, atau kain karung. Itu harus dimasukkan ke dalam air; itu akan menjadi najis sampai malam, dan kemudian akan menjadi bersih."
+      ]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "Jika salah satu dari mereka jatuh ke dalam pot tanah liat, segala sesuatu di dalamnya akan menjadi najis, dan pot itu harus dipecahkan."
+      ]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "Makanan apa pun yang diizinkan untuk kamu makan yang telah bersentuhan dengan air dari pot semacam itu adalah najis, dan cairan apa pun yang diminum dari pot semacam itu adalah najis."
+      ]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "Segala sesuatu yang salah satu bangkai mereka jatuh di atasnya menjadi najis; oven atau periuk harus dipecahkan. Mereka najis, dan kamu harus menganggap mereka sebagai najis."
+      ]
+    },
+    {
+      "verse": 36,
+      "text": [
+        "Namun, mata air atau kolam untuk mengumpulkan air tetap murni, tetapi siapa pun yang menyentuh salah satu bangkai ini adalah najis."
+      ]
+    },
+    {
+      "verse": 37,
+      "text": ["Jika bangkai jatuh pada biji yang akan ditanam, mereka tetap murni."]
+    },
+    {
+      "verse": 38,
+      "text": [
+        "Tetapi jika air telah diletakkan pada biji dan bangkai jatuh di atasnya, itu menjadi najis bagimu."
+      ]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "\"'Jika binatang yang kamu diizinkan makan mati, siapa pun yang menyentuh bangkainya akan menjadi najis sampai malam."
+      ]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "Siapa pun yang memakan sebagian dari bangkainya harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam. Siapa pun yang mengangkat bangkai harus mencuci pakaian mereka, dan mereka akan menjadi najis sampai malam."
+      ]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "\"'Setiap makhluk yang bergerak di tanah harus dianggap menjijikkan; itu tidak boleh dimakan."
+      ]
+    },
+    {
+      "verse": 42,
+      "text": [
+        "Kamu tidak boleh memakan makhluk apa pun yang bergerak di tanah, baik yang bergerak dengan perutnya atau berjalan dengan empat kaki atau dengan banyak kaki; itu menjijikkan."
+      ]
+    },
+    {
+      "verse": 43,
+      "text": [
+        "Jangan membuat dirimu najis oleh makhluk-makhluk ini. Jangan membuat dirimu najis dengan cara mereka atau menjadi najis oleh mereka."
+      ]
+    },
+    {
+      "verse": 44,
+      "text": [
+        "Akulah Tuhan Tuhanmu; pisahkan dirimu dan jadilah kudus, karena Aku kudus. Jangan membuat dirimu najis oleh makhluk apa pun yang bergerak di tanah."
+      ]
+    },
+    {
+      "verse": 45,
+      "text": [
+        "Akulah Tuhan, yang membawa kamu keluar dari Mesir untuk menjadi Tuhanmu; oleh karena itu jadilah kudus, karena Aku kudus."
+      ]
+    },
+    {
+      "verse": 46,
+      "text": [
+        "\"'Inilah hukum mengenai binatang-binatang, burung-burung, setiap makhluk hidup yang bergerak di dalam air, dan setiap makhluk yang bergerak di tanah."
+      ]
+    },
+    {
+      "verse": 47,
+      "text": [
+        "Kamu harus membedakan antara yang najis dan yang murni, antara makhluk hidup yang boleh dimakan dan yang tidak boleh dimakan.'\""
+      ]
+    }
+  ]
 }

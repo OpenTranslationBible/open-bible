@@ -38,11 +38,11 @@ Apakah untung pekerja dari yang dikerjakannya dengan berjerih payah?
 
 ## Pengkhotbah 3:10
 
-Aku telah melihat pekerjaan yang diberikan Allah kepada anak-anak manusia untuk melelahkan dirinya.
+Aku telah melihat pekerjaan yang diberikan Tuhan kepada anak-anak manusia untuk melelahkan dirinya.
 
 ## Pengkhotbah 3:11
 
-Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekekalan dalam hati mereka. Namun manusia tidak dapat menyelami pekerjaan yang dilakukan Allah dari awal sampai akhir.
+Ia membuat segala sesuatu indah pada waktunya, bahkan Ia memberikan kekekalan dalam hati mereka. Namun manusia tidak dapat menyelami pekerjaan yang dilakukan Tuhan dari awal sampai akhir.
 
 ## Pengkhotbah 3:12
 
@@ -50,15 +50,15 @@ Aku tahu bahwa tidak ada yang lebih baik bagi mereka daripada bersukacita dan be
 
 ## Pengkhotbah 3:13
 
-Dan juga bahwa setiap orang dapat makan, minum, dan menikmati kesenangan dalam segala jerih payahnya—itu adalah pemberian Allah.
+Dan juga bahwa setiap orang dapat makan, minum, dan menikmati kesenangan dalam segala jerih payahnya—itu adalah pemberian Tuhan.
 
 ## Pengkhotbah 3:14
 
-Aku tahu bahwa segala sesuatu yang dilakukan Allah akan tetap ada untuk selamanya; tidak ada yang dapat ditambahkan kepadanya, dan tidak ada yang dapat diambil darinya. Allah melakukan ini supaya manusia takut akan Dia.
+Aku tahu bahwa segala sesuatu yang dilakukan Tuhan akan tetap ada untuk selamanya; tidak ada yang dapat ditambahkan kepadanya, dan tidak ada yang dapat diambil darinya. Tuhan melakukan ini supaya manusia takut akan Dia.
 
 ## Pengkhotbah 3:15
 
-Apa yang ada sekarang sudah ada sejak dahulu, dan apa yang akan ada sudah ada sebelumnya; dan Allah memanggil kembali masa lalu.
+Apa yang ada sekarang sudah ada sejak dahulu, dan apa yang akan ada sudah ada sebelumnya; dan Tuhan memanggil kembali masa lalu.
 
 ## Pengkhotbah 3:16
 
@@ -66,11 +66,11 @@ Lagi aku melihat di bawah matahari: di tempat pengadilan ada kefasikan, dan di t
 
 ## Pengkhotbah 3:17
 
-Aku berkata dalam hatiku, “Allah akan mengadili orang benar dan orang fasik, karena ada waktu untuk setiap perkara dan setiap pekerjaan.”
+Aku berkata dalam hatiku, “Tuhan akan mengadili orang benar dan orang fasik, karena ada waktu untuk setiap perkara dan setiap pekerjaan.”
 
 ## Pengkhotbah 3:18
 
-Aku juga berkata dalam hatiku tentang anak-anak manusia, “Allah menguji mereka supaya mereka melihat bahwa mereka adalah seperti binatang.”
+Aku juga berkata dalam hatiku tentang anak-anak manusia, “Tuhan menguji mereka supaya mereka melihat bahwa mereka adalah seperti binatang.”
 
 ## Pengkhotbah 3:19
 

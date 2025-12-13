@@ -26,7 +26,7 @@ Kemudian Ayub menjawab, katanya,
 
 ## Ayub 19:6
 
-> maka pahamilah bahwa aku merasa dirugikan oleh Allah
+> maka pahamilah bahwa aku merasa dirugikan oleh Tuhan
 > dan dikelilingi oleh jaring-Nya.
 
 ---
@@ -107,11 +107,11 @@ Kemudian Ayub menjawab, katanya,
 ## Ayub 19:21
 
 > "Tunjukkan belas kasihan padaku, teman-temanku, tunjukkan belas kasihan,
-> karena tangan Allah telah menimpa aku.
+> karena tangan Tuhan telah menimpa aku.
 
 ## Ayub 19:22
 
-> Mengapa kamu mengejar aku seperti Allah?
+> Mengapa kamu mengejar aku seperti Tuhan?
 > Apakah kamu tidak puas dengan dagingku?
 
 ---
@@ -134,7 +134,7 @@ Kemudian Ayub menjawab, katanya,
 ## Ayub 19:26
 
 > Dan setelah kulitku dihancurkan,
-> namun dalam dagingku aku akan melihat Allah;
+> namun dalam dagingku aku akan melihat Tuhan;
 
 ## Ayub 19:27
 

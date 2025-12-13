@@ -27,7 +27,7 @@
 ## Mazmur 31:5
 
 > Ke dalam tangan-Mu kuserahkan rohku;  
-> Engkau telah menebus aku, Tuhan, Allah yang setia.
+> Engkau telah menebus aku, Tuhan, Tuhan yang setia.
 
 ---
 
@@ -85,7 +85,7 @@
 ## Mazmur 31:14
 
 > Namun aku percaya kepada-Mu, Tuhan,  
-> Aku menyatakan, “Engkaulah Allahku.”
+> Aku menyatakan, “Engkaulah Tuhanku.”
 
 ## Mazmur 31:15
 

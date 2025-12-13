@@ -41,7 +41,7 @@ Maka raja memanggil Yoyada, imam kepala, dan berkata kepadanya,
 
 ## 2 Tawarikh 24:7
 
-Karena anak-anak Atalya yang jahat telah merusak bait Allah, dan bahkan menggunakan barang-barang suci dari rumah Tuhan untuk para Baal.
+Karena anak-anak Atalya yang jahat telah merusak bait Tuhan, dan bahkan menggunakan barang-barang suci dari rumah Tuhan untuk para Baal.
 
 ---
 
@@ -53,7 +53,7 @@ Maka raja memerintahkan, dan mereka membuat sebuah peti dan menempatkannya di lu
 
 ## 2 Tawarikh 24:9
 
-Dan mereka membuat pengumuman di Yehuda dan Yerusalem untuk membawa kepada Tuhan koleksi yang telah ditetapkan Musa, hamba Allah, kepada Israel di padang gurun.
+Dan mereka membuat pengumuman di Yehuda dan Yerusalem untuk membawa kepada Tuhan koleksi yang telah ditetapkan Musa, hamba Tuhan, kepada Israel di padang gurun.
 
 ---
 
@@ -81,7 +81,7 @@ Dan mereka menyewa tukang batu dan tukang kayu untuk memulihkan rumah Tuhan, dan
 ## 2 Tawarikh 24:13
 
 Maka para pekerja bekerja, dan pekerjaan pemulihan berlangsung di tangan mereka,  
-dan mereka memulihkan rumah Allah sesuai dengan spesifikasinya, dan menguatkannya.
+dan mereka memulihkan rumah Tuhan sesuai dengan spesifikasinya, dan menguatkannya.
 
 ---
 
@@ -101,7 +101,7 @@ Tetapi Yoyada menjadi tua dan meninggal, setelah berumur panjang; ia berumur 130
 
 ## 2 Tawarikh 24:16
 
-Dan mereka menguburkannya di kota Daud di antara raja-raja, karena ia telah berbuat baik di Israel dan bagi Allah dan rumah-Nya.
+Dan mereka menguburkannya di kota Daud di antara raja-raja, karena ia telah berbuat baik di Israel dan bagi Tuhan dan rumah-Nya.
 
 ---
 
@@ -113,7 +113,7 @@ Namun, setelah kematian Yoyada, para pejabat Yehuda datang dan sujud kepada raja
 
 ## 2 Tawarikh 24:18
 
-Mereka meninggalkan rumah Tuhan, Allah nenek moyang mereka, dan melayani Asyera dan berhala-berhala;  
+Mereka meninggalkan rumah Tuhan, Tuhan nenek moyang mereka, dan melayani Asyera dan berhala-berhala;  
 maka murka datang atas Yehuda dan Yerusalem karena kesalahan mereka ini.
 
 ---
@@ -127,8 +127,8 @@ meskipun mereka bersaksi melawan mereka, mereka tidak mau mendengarkan.
 
 ## 2 Tawarikh 24:20
 
-Lalu Roh Allah datang atas Zakharia, anak Yoyada, imam itu; dan ia berdiri di atas orang-orang dan berkata kepada mereka,  
-“Inilah yang dikatakan Allah: ‘Mengapa kamu melanggar perintah-perintah Tuhan dan tidak berhasil? Karena kamu telah meninggalkan Tuhan, Dia juga telah meninggalkan kamu.’”
+Lalu Roh Tuhan datang atas Zakharia, anak Yoyada, imam itu; dan ia berdiri di atas orang-orang dan berkata kepada mereka,  
+“Inilah yang dikatakan Tuhan: ‘Mengapa kamu melanggar perintah-perintah Tuhan dan tidak berhasil? Karena kamu telah meninggalkan Tuhan, Dia juga telah meninggalkan kamu.’”
 
 ---
 
@@ -156,7 +156,7 @@ dan mereka datang ke Yehuda dan Yerusalem, menghancurkan semua pejabat rakyat da
 ## 2 Tawarikh 24:24
 
 Sesungguhnya, tentara Aram datang dengan sejumlah kecil orang;  
-namun Tuhan menyerahkan tentara yang sangat besar kepada mereka, karena mereka telah meninggalkan Tuhan, Allah nenek moyang mereka.  
+namun Tuhan menyerahkan tentara yang sangat besar kepada mereka, karena mereka telah meninggalkan Tuhan, Tuhan nenek moyang mereka.  
 Maka mereka melaksanakan penghakiman atas Yoas.
 
 ---
@@ -177,5 +177,5 @@ Zabad anak Simeat, seorang perempuan Amon, dan Yehosabad anak Simrit, seorang pe
 
 ## 2 Tawarikh 24:27
 
-Mengenai anak-anaknya, banyak nubuat melawannya, dan pemulihan rumah Allah, lihatlah, semuanya tertulis dalam risalah Kitab Raja-raja.  
+Mengenai anak-anaknya, banyak nubuat melawannya, dan pemulihan rumah Tuhan, lihatlah, semuanya tertulis dalam risalah Kitab Raja-raja.  
 Kemudian anaknya Amazia menjadi raja menggantikan dia.

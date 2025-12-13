@@ -84,7 +84,7 @@ mereka akan memegang ular, dan jika mereka minum racun mematikan, itu tidak akan
 
 ## Markus 16:19
 
-Setelah Tuhan Yesus berbicara kepada mereka, Ia diangkat ke surga dan duduk di sebelah kanan Allah.
+Setelah Tuhan Yesus berbicara kepada mereka, Ia diangkat ke surga dan duduk di sebelah kanan Tuhan.
 
 ## Markus 16:20
 

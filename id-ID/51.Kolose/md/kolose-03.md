@@ -2,7 +2,7 @@
 
 ## Kolose 3:1
 
-Jadi, jika kamu telah dibangkitkan bersama Kristus, carilah perkara yang di atas, di mana Kristus ada, duduk di sebelah kanan Allah.
+Jadi, jika kamu telah dibangkitkan bersama Kristus, carilah perkara yang di atas, di mana Kristus ada, duduk di sebelah kanan Tuhan.
 
 ## Kolose 3:2
 
@@ -10,7 +10,7 @@ Pikirkanlah perkara yang di atas, bukan yang di bumi.
 
 ## Kolose 3:3
 
-Karena kamu telah mati, dan hidupmu sekarang tersembunyi bersama Kristus di dalam Allah.
+Karena kamu telah mati, dan hidupmu sekarang tersembunyi bersama Kristus di dalam Tuhan.
 
 ## Kolose 3:4
 
@@ -22,7 +22,7 @@ Karena itu, matikanlah bagian-bagian dari sifat duniawimu terhadap percabulan, k
 
 ## Kolose 3:6
 
-Karena hal-hal inilah murka Allah akan datang atas orang-orang yang tidak taat.
+Karena hal-hal inilah murka Tuhan akan datang atas orang-orang yang tidak taat.
 
 ## Kolose 3:7
 
@@ -46,7 +46,7 @@ Di sini tidak ada perbedaan antara orang Yunani atau Yahudi, bersunat atau tidak
 
 ## Kolose 3:12
 
-Sebagai orang-orang pilihan Allah yang kudus dan dikasihi, kenakanlah belas kasihan, kebaikan, kerendahan hati, kelemahlembutan, dan kesabaran.
+Sebagai orang-orang pilihan Tuhan yang kudus dan dikasihi, kenakanlah belas kasihan, kebaikan, kerendahan hati, kelemahlembutan, dan kesabaran.
 
 ## Kolose 3:13
 
@@ -62,11 +62,11 @@ Biarlah damai sejahtera Kristus memerintah dalam hatimu, karena untuk itulah kam
 
 ## Kolose 3:16
 
-Biarlah firman Kristus berdiam di antara kamu dengan kaya, dengan segala hikmat mengajar dan menasihati satu sama lain dengan mazmur, puji-pujian, dan nyanyian rohani, menyanyi dengan rasa syukur di dalam hatimu kepada Allah.
+Biarlah firman Kristus berdiam di antara kamu dengan kaya, dengan segala hikmat mengajar dan menasihati satu sama lain dengan mazmur, puji-pujian, dan nyanyian rohani, menyanyi dengan rasa syukur di dalam hatimu kepada Tuhan.
 
 ## Kolose 3:17
 
-Apa pun yang kamu lakukan, dalam perkataan atau perbuatan, lakukanlah semuanya dalam nama Tuhan Yesus, sambil mengucap syukur kepada Allah Bapa melalui Dia.
+Apa pun yang kamu lakukan, dalam perkataan atau perbuatan, lakukanlah semuanya dalam nama Tuhan Yesus, sambil mengucap syukur kepada Tuhan Bapa melalui Dia.
 
 ## Kolose 3:18
 

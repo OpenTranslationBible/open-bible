@@ -16,7 +16,7 @@
 ## Mazmur 98:3
 
 > Ia telah mengingat kasih setia-Nya dan kesetiaan-Nya kepada kaum Israel;  
-> Segala ujung bumi telah melihat keselamatan dari Allah kita.
+> Segala ujung bumi telah melihat keselamatan dari Tuhan kita.
 
 ---
 

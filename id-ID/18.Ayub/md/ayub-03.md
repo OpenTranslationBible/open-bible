@@ -18,7 +18,7 @@ Dan dia berkata:
 ## Ayub 3:4
 
 > Biarlah hari itu menjadi gelap;
-> semoga Allah di atas mengabaikannya,
+> semoga Tuhan di atas mengabaikannya,
 > dan jangan ada cahaya yang bersinar atasnya.
 
 ## Ayub 3:5
@@ -121,7 +121,7 @@ Dan dia berkata:
 ## Ayub 3:23
 
 > Mengapa cahaya diberikan kepada seorang pria yang jalannya tersembunyi,
-> yang dikelilingi oleh Allah?
+> yang dikelilingi oleh Tuhan?
 
 ## Ayub 3:24
 

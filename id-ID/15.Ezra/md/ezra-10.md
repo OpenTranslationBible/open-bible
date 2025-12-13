@@ -2,15 +2,15 @@
 
 ## Ezra 10:1
 
-Sementara Ezra berdoa dan mengaku dosa, menangis dan sujud di hadapan rumah Allah, berkumpullah suatu jemaah yang sangat besar dari orang Israel—laki-laki, perempuan, dan anak-anak—di sekelilingnya, karena orang-orang itu menangis dengan sangat.
+Sementara Ezra berdoa dan mengaku dosa, menangis dan sujud di hadapan rumah Tuhan, berkumpullah suatu jemaah yang sangat besar dari orang Israel—laki-laki, perempuan, dan anak-anak—di sekelilingnya, karena orang-orang itu menangis dengan sangat.
 
 ## Ezra 10:2
 
-Kemudian Sekhanya bin Yehiel, salah seorang keturunan Elam, berkata kepada Ezra, “Kami telah tidak setia kepada Allah kami dengan menikahi perempuan asing dari bangsa-bangsa di negeri ini. Namun demikian, masih ada harapan bagi Israel meskipun demikian.
+Kemudian Sekhanya bin Yehiel, salah seorang keturunan Elam, berkata kepada Ezra, “Kami telah tidak setia kepada Tuhan kami dengan menikahi perempuan asing dari bangsa-bangsa di negeri ini. Namun demikian, masih ada harapan bagi Israel meskipun demikian.
 
 ## Ezra 10:3
 
-Marilah kita sekarang membuat perjanjian dengan Allah kita untuk mengusir semua perempuan ini dan anak-anak mereka, sesuai dengan nasihat tuanku dan mereka yang gemetar terhadap perintah Allah kita. Biarlah itu dilakukan sesuai dengan Hukum.
+Marilah kita sekarang membuat perjanjian dengan Tuhan kita untuk mengusir semua perempuan ini dan anak-anak mereka, sesuai dengan nasihat tuanku dan mereka yang gemetar terhadap perintah Tuhan kita. Biarlah itu dilakukan sesuai dengan Hukum.
 
 ## Ezra 10:4
 
@@ -24,7 +24,7 @@ Maka Ezra bangkit dan menyuruh para imam terkemuka, orang-orang Lewi, dan seluru
 
 ## Ezra 10:6
 
-Kemudian Ezra meninggalkan rumah Allah dan pergi ke kamar Yohanan bin Elyasib. Dia tidak makan roti atau minum air di sana, karena dia berkabung atas ketidaksetiaan para buangan.
+Kemudian Ezra meninggalkan rumah Tuhan dan pergi ke kamar Yohanan bin Elyasib. Dia tidak makan roti atau minum air di sana, karena dia berkabung atas ketidaksetiaan para buangan.
 
 ## Ezra 10:7
 
@@ -38,7 +38,7 @@ Siapa pun yang tidak hadir dalam tiga hari akan kehilangan semua hartanya, sesua
 
 ## Ezra 10:9
 
-Dalam tiga hari, semua orang Yehuda dan Benyamin berkumpul di Yerusalem. Pada hari kedua puluh bulan kesembilan, semua orang duduk di alun-alun di depan rumah Allah, gemetar karena masalah ini dan hujan lebat.
+Dalam tiga hari, semua orang Yehuda dan Benyamin berkumpul di Yerusalem. Pada hari kedua puluh bulan kesembilan, semua orang duduk di alun-alun di depan rumah Tuhan, gemetar karena masalah ini dan hujan lebat.
 
 ## Ezra 10:10
 
@@ -46,7 +46,7 @@ Kemudian Ezra, imam itu, berdiri dan berkata kepada mereka, “Kamu telah tidak 
 
 ## Ezra 10:11
 
-Sekarang akuilah kepada Tuhan, Allah nenek moyangmu, dan lakukan kehendak-Nya. Pisahkan dirimu dari bangsa-bangsa di negeri ini dan dari istri-istri asingmu.”
+Sekarang akuilah kepada Tuhan, Tuhan nenek moyangmu, dan lakukan kehendak-Nya. Pisahkan dirimu dari bangsa-bangsa di negeri ini dan dari istri-istri asingmu.”
 
 ## Ezra 10:12
 
@@ -58,7 +58,7 @@ Namun, ada banyak orang di sini, dan ini adalah musim hujan; kami tidak dapat be
 
 ## Ezra 10:14
 
-Biarlah para pemimpin kami bertindak atas nama seluruh jemaah, dan biarlah setiap orang di kota kami yang telah menikahi perempuan asing datang pada waktu yang ditentukan, bersama dengan para tua-tua dan hakim dari setiap kota, sampai kemarahan Allah kami yang hebat dalam hal ini berbalik dari kami.”
+Biarlah para pemimpin kami bertindak atas nama seluruh jemaah, dan biarlah setiap orang di kota kami yang telah menikahi perempuan asing datang pada waktu yang ditentukan, bersama dengan para tua-tua dan hakim dari setiap kota, sampai kemarahan Tuhan kami yang hebat dalam hal ini berbalik dari kami.”
 
 ## Ezra 10:15
 

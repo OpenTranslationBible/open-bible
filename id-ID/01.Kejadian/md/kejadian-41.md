@@ -62,7 +62,7 @@ Firaun berkata kepada Yusuf, "Aku telah bermimpi, dan tidak ada yang dapat menaf
 
 ## Kejadian 41:16
 
-Yusuf menjawab Firaun, "Bukan aku; Allah yang akan memberikan jawaban damai kepada Firaun."
+Yusuf menjawab Firaun, "Bukan aku; Tuhan yang akan memberikan jawaban damai kepada Firaun."
 
 ## Kejadian 41:17
 
@@ -98,7 +98,7 @@ Bulir-bulir yang kurus itu menelan tujuh bulir yang baik. Aku menceritakan hal i
 
 ## Kejadian 41:25
 
-Kemudian Yusuf berkata kepada Firaun, "Mimpi-mimpi Firaun adalah satu dan sama. Allah telah menyatakan kepada Firaun apa yang Ia rencanakan untuk dilakukan.
+Kemudian Yusuf berkata kepada Firaun, "Mimpi-mimpi Firaun adalah satu dan sama. Tuhan telah menyatakan kepada Firaun apa yang Ia rencanakan untuk dilakukan.
 
 ## Kejadian 41:26
 
@@ -110,7 +110,7 @@ Tujuh ekor sapi yang kurus dan buruk rupa yang keluar setelah mereka adalah tuju
 
 ## Kejadian 41:28
 
-Ini persis seperti yang kukatakan kepada Firaun: Allah telah menunjukkan kepada Firaun apa yang Ia rencanakan untuk dilakukan.
+Ini persis seperti yang kukatakan kepada Firaun: Tuhan telah menunjukkan kepada Firaun apa yang Ia rencanakan untuk dilakukan.
 
 ## Kejadian 41:29
 
@@ -126,7 +126,7 @@ Kemakmuran di tanah itu akan hilang dari ingatan karena kelaparan yang mengikuti
 
 ## Kejadian 41:32
 
-Alasan mimpi itu diberikan kepada Firaun dalam dua bentuk adalah karena hal itu telah diputuskan dengan tegas oleh Allah, dan Ia akan melaksanakannya segera.
+Alasan mimpi itu diberikan kepada Firaun dalam dua bentuk adalah karena hal itu telah diputuskan dengan tegas oleh Tuhan, dan Ia akan melaksanakannya segera.
 
 ## Kejadian 41:33
 
@@ -150,11 +150,11 @@ Rencana itu tampak baik bagi Firaun dan semua pejabatnya.
 
 ## Kejadian 41:38
 
-Jadi Firaun bertanya kepada mereka, "Dapatkah kita menemukan seseorang seperti orang ini, yang memiliki roh Allah?"
+Jadi Firaun bertanya kepada mereka, "Dapatkah kita menemukan seseorang seperti orang ini, yang memiliki roh Tuhan?"
 
 ## Kejadian 41:39
 
-Kemudian Firaun berkata kepada Yusuf, "Karena Allah telah membuat semua ini diketahui kepadamu, tidak ada seorang pun yang secerdas dan sebijaksana engkau.
+Kemudian Firaun berkata kepada Yusuf, "Karena Tuhan telah membuat semua ini diketahui kepadamu, tidak ada seorang pun yang secerdas dan sebijaksana engkau.
 
 ## Kejadian 41:40
 
@@ -202,11 +202,11 @@ Sebelum tahun-tahun kelaparan tiba, Yusuf memiliki dua anak laki-laki dengan Asn
 
 ## Kejadian 41:51
 
-Yusuf menamai anak sulungnya Manasye dan berkata, "Karena Allah telah membuatku melupakan semua kesusahanku dan seluruh keluarga ayahku."
+Yusuf menamai anak sulungnya Manasye dan berkata, "Karena Tuhan telah membuatku melupakan semua kesusahanku dan seluruh keluarga ayahku."
 
 ## Kejadian 41:52
 
-Anak kedua ia beri nama Efraim dan berkata, "Karena Allah telah membuatku berbuah di tanah penderitaanku."
+Anak kedua ia beri nama Efraim dan berkata, "Karena Tuhan telah membuatku berbuah di tanah penderitaanku."
 
 ## Kejadian 41:53
 

@@ -38,7 +38,7 @@ Jika Tuhan semesta alam tidak meninggalkan bagi kita beberapa orang yang selamat
 
 ## Yesaya 1:10
 
-Dengarlah firman Tuhan, hai para penguasa Sodom; perhatikanlah petunjuk Allah kita, hai umat yang seperti Gomora!
+Dengarlah firman Tuhan, hai para penguasa Sodom; perhatikanlah petunjuk Tuhan kita, hai umat yang seperti Gomora!
 
 ## Yesaya 1:11
 

@@ -142,7 +142,7 @@ Beberapa orang bijak akan goyah, sehingga mereka dapat dimurnikan, disucikan, da
 
 ## Daniel 11:36
 
-Raja akan bertindak sesuai dengan keinginannya sendiri. Ia akan meninggikan dan membesarkan dirinya di atas setiap dewa dan akan mengatakan hal-hal yang belum pernah terdengar melawan Allah segala allah. Ia akan berhasil sampai waktu murka selesai, karena apa yang telah ditentukan harus terjadi.
+Raja akan bertindak sesuai dengan keinginannya sendiri. Ia akan meninggikan dan membesarkan dirinya di atas setiap dewa dan akan mengatakan hal-hal yang belum pernah terdengar melawan Tuhan segala Tuhan. Ia akan berhasil sampai waktu murka selesai, karena apa yang telah ditentukan harus terjadi.
 
 ## Daniel 11:37
 

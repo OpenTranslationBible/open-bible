@@ -34,7 +34,7 @@ Kitab Hukum ini janganlah berhenti diucapkan dari mulutmu; renungkanlah itu sian
 
 ## Yosua 1:9
 
-Bukankah Aku telah memerintahkan engkau? Kuatkan dan teguhkanlah hatimu. Jangan takut atau terkejut, karena Tuhan Allahmu menyertai engkau ke mana pun engkau pergi."
+Bukankah Aku telah memerintahkan engkau? Kuatkan dan teguhkanlah hatimu. Jangan takut atau terkejut, karena Tuhan Tuhanmu menyertai engkau ke mana pun engkau pergi."
 
 ## Yosua 1:10
 
@@ -42,7 +42,7 @@ Maka Yosua memerintahkan para pejabat bangsa itu, dengan berkata
 
 ## Yosua 1:11
 
-"Jalanilah perkemahan dan perintahkanlah kepada bangsa itu, 'Siapkanlah bekalmu, karena dalam tiga hari kamu akan menyeberangi Yordan untuk mengambil alih tanah yang diberikan Tuhan Allahmu kepadamu.'"
+"Jalanilah perkemahan dan perintahkanlah kepada bangsa itu, 'Siapkanlah bekalmu, karena dalam tiga hari kamu akan menyeberangi Yordan untuk mengambil alih tanah yang diberikan Tuhan Tuhanmu kepadamu.'"
 
 ## Yosua 1:12
 
@@ -50,7 +50,7 @@ Yosua berbicara kepada orang Ruben, orang Gad, dan setengah suku Manasye,
 
 ## Yosua 1:13
 
-"Ingatlah perintah yang diberikan Musa, hamba Tuhan, kepadamu: 'Tuhan Allahmu memberikan tempat peristirahatan kepadamu dan akan memberikan tanah ini kepadamu.'
+"Ingatlah perintah yang diberikan Musa, hamba Tuhan, kepadamu: 'Tuhan Tuhanmu memberikan tempat peristirahatan kepadamu dan akan memberikan tanah ini kepadamu.'
 
 ## Yosua 1:14
 
@@ -58,7 +58,7 @@ Istri-istri, anak-anak, dan ternakmu boleh tinggal di tanah yang diberikan Musa 
 
 ## Yosua 1:15
 
-sampai Tuhan memberikan mereka istirahat, seperti yang telah diberikan kepadamu, dan mereka juga telah mengambil alih tanah yang diberikan Tuhan Allahmu kepada mereka. Setelah itu, kamu boleh kembali untuk menduduki tanahmu sendiri, yang diberikan Musa, hamba Tuhan, kepadamu di sebelah timur Yordan ke arah matahari terbit."
+sampai Tuhan memberikan mereka istirahat, seperti yang telah diberikan kepadamu, dan mereka juga telah mengambil alih tanah yang diberikan Tuhan Tuhanmu kepada mereka. Setelah itu, kamu boleh kembali untuk menduduki tanahmu sendiri, yang diberikan Musa, hamba Tuhan, kepadamu di sebelah timur Yordan ke arah matahari terbit."
 
 ## Yosua 1:16
 
@@ -66,7 +66,7 @@ Mereka menjawab Yosua, "Kami akan melakukan semua yang engkau perintahkan kepada
 
 ## Yosua 1:17
 
-Seperti kami taat kepada Musa dalam segala hal, demikianlah kami akan taat kepadamu. Hanya semoga Tuhan Allahmu menyertaimu seperti Dia menyertai Musa.
+Seperti kami taat kepada Musa dalam segala hal, demikianlah kami akan taat kepadamu. Hanya semoga Tuhan Tuhanmu menyertaimu seperti Dia menyertai Musa.
 
 ## Yosua 1:18
 

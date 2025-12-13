@@ -14,7 +14,7 @@ Tetapi Yeremia berkata kepada mereka, "Inilah yang harus kamu katakan kepada Zed
 
 ## Yeremia 21:4
 
-'Inilah yang dikatakan Tuhan, Allah Israel: Lihatlah, Aku akan memutar balik senjata perang yang ada di tanganmu, yang kamu gunakan untuk melawan raja Babel dan orang Kasdim yang mengepungmu di luar tembok; dan Aku akan mengumpulkan mereka ke tengah kota ini.
+'Inilah yang dikatakan Tuhan, Tuhan Israel: Lihatlah, Aku akan memutar balik senjata perang yang ada di tanganmu, yang kamu gunakan untuk melawan raja Babel dan orang Kasdim yang mengepungmu di luar tembok; dan Aku akan mengumpulkan mereka ke tengah kota ini.
 
 ## Yeremia 21:5
 

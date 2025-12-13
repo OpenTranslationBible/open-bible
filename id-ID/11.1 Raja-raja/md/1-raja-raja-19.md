@@ -44,7 +44,7 @@ Tetapi malaikat Tuhan kembali untuk kedua kalinya, menyentuhnya, dan berkata,
 
 Jadi dia bangun, makan dan minum,  
 dan berjalan dengan kekuatan makanan itu selama empat puluh hari dan empat puluh malam  
-ke Horeb, gunung Allah.
+ke Horeb, gunung Tuhan.
 
 ---
 
@@ -57,7 +57,7 @@ dan lihatlah, firman Tuhan datang kepadanya, dan Dia berkata kepadanya,
 ## 1 Raja-Raja 19:10
 
 Dia berkata,  
-“Aku sangat cemburu untuk Tuhan, Allah segala tentara;  
+“Aku sangat cemburu untuk Tuhan, Tuhan segala tentara;  
 karena anak-anak Israel telah meninggalkan perjanjian-Mu,  
 meruntuhkan mezbah-mezbah-Mu, dan membunuh nabi-nabi-Mu dengan pedang.  
 Dan aku sendiri yang tersisa; dan mereka berusaha mengambil nyawaku.”
@@ -86,7 +86,7 @@ Dan lihatlah, sebuah suara datang kepadanya dan berkata,
 ## 1 Raja-Raja 19:14
 
 Kemudian dia berkata,  
-“Aku sangat cemburu untuk Tuhan, Allah segala tentara;  
+“Aku sangat cemburu untuk Tuhan, Tuhan segala tentara;  
 karena anak-anak Israel telah meninggalkan perjanjian-Mu,  
 meruntuhkan mezbah-mezbah-Mu, dan membunuh nabi-nabi-Mu dengan pedang.  
 Dan aku sendiri yang tersisa; dan mereka berusaha mengambil nyawaku.”

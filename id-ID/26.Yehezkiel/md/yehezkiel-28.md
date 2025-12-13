@@ -78,7 +78,7 @@ Sekali lagi, sebuah pesan dari Tuhan datang kepadaku,
 
 ## Yehezkiel 28:13
 
-> Engkau berada di Eden, taman Allah;
+> Engkau berada di Eden, taman Tuhan;
 > setiap batu berharga adalah penutupmu:
 > krisolit, topaz, dan berlian,
 > beryl, oniks, dan yaspis,
@@ -90,7 +90,7 @@ Sekali lagi, sebuah pesan dari Tuhan datang kepadaku,
 ## Yehezkiel 28:14
 
 > Engkau adalah kerub yang diurapi yang menutupi,
-> dan Aku menempatkanmu di gunung suci Allah;
+> dan Aku menempatkanmu di gunung suci Tuhan;
 > engkau berjalan di antara batu-batu api.
 
 ## Yehezkiel 28:15
@@ -105,7 +105,7 @@ Sekali lagi, sebuah pesan dari Tuhan datang kepadaku,
 > engkau dipenuhi dengan kekerasan,
 > dan engkau berdosa.
 > Maka Aku membuangmu sebagai yang najis
-> dari gunung Allah,
+> dari gunung Tuhan,
 > dan Aku menghancurkanmu, hai kerub penutup,
 > dari tengah-tengah batu-batu api.
 
@@ -170,4 +170,4 @@ Dan tidak akan ada lagi bagi kaum Israel duri yang menyakitkan atau semak berdur
 
 ## Yehezkiel 28:26
 
-Mereka akan tinggal di sana dengan aman; mereka akan membangun rumah dan menanam kebun anggur, dan tinggal dengan aman ketika Aku melaksanakan penghakiman atas semua tetangga mereka yang membenci mereka. Maka mereka akan tahu bahwa Akulah Tuhan Allah mereka.’”
+Mereka akan tinggal di sana dengan aman; mereka akan membangun rumah dan menanam kebun anggur, dan tinggal dengan aman ketika Aku melaksanakan penghakiman atas semua tetangga mereka yang membenci mereka. Maka mereka akan tahu bahwa Akulah Tuhan Tuhan mereka.’”

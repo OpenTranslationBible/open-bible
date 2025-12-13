@@ -14,8 +14,8 @@
 
 ## Mazmur 95:3
 
-> Sebab Tuhan adalah Allah yang besar  
-> Dan Raja yang perkasa di atas segala allah,
+> Sebab Tuhan adalah Tuhan yang besar  
+> Dan Raja yang perkasa di atas segala Tuhan,
 
 ## Mazmur 95:4
 
@@ -36,7 +36,7 @@
 
 ## Mazmur 95:7
 
-> Sebab Dia adalah Allah kita,  
+> Sebab Dia adalah Tuhan kita,  
 > Dan kita adalah umat-Nya, kawanan domba yang Dia gembalakan.
 
 ---

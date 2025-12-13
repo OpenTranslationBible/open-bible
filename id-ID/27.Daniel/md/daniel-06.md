@@ -18,7 +18,7 @@ Maka para pejabat tinggi dan wakil raja mencari alasan untuk mendakwa Daniel dal
 
 ## Daniel 6:5
 
-Akhirnya, orang-orang ini berkata, “Kita tidak akan menemukan alasan untuk mendakwa Daniel ini kecuali dalam hubungan dengan hukum Allahnya.”
+Akhirnya, orang-orang ini berkata, “Kita tidak akan menemukan alasan untuk mendakwa Daniel ini kecuali dalam hubungan dengan hukum Tuhannya.”
 
 ## Daniel 6:6
 
@@ -38,11 +38,11 @@ Maka Raja Darius menandatangani surat ketetapan itu.
 
 ## Daniel 6:10
 
-Ketika Daniel mengetahui bahwa ketetapan itu telah ditandatangani, ia pergi ke rumahnya, di mana jendela-jendela di kamar atasnya terbuka menghadap Yerusalem. Ia berlutut tiga kali sehari, berdoa dan mengucap syukur di hadapan Allahnya, seperti yang biasa dilakukannya.
+Ketika Daniel mengetahui bahwa ketetapan itu telah ditandatangani, ia pergi ke rumahnya, di mana jendela-jendela di kamar atasnya terbuka menghadap Yerusalem. Ia berlutut tiga kali sehari, berdoa dan mengucap syukur di hadapan Tuhannya, seperti yang biasa dilakukannya.
 
 ## Daniel 6:11
 
-Kemudian orang-orang ini datang bersama-sama dan mendapati Daniel sedang berdoa dan memohon belas kasihan dari Allahnya.
+Kemudian orang-orang ini datang bersama-sama dan mendapati Daniel sedang berdoa dan memohon belas kasihan dari Tuhannya.
 
 ## Daniel 6:12
 
@@ -62,7 +62,7 @@ Kemudian orang-orang ini datang bersama-sama menghadap raja dan berkata, “Inga
 
 ## Daniel 6:16
 
-Maka raja memberi perintah, dan Daniel dibawa dan dilemparkan ke dalam gua singa. Raja berkata kepada Daniel, “Semoga Allahmu, yang engkau layani dengan tekun, melepaskan engkau!”
+Maka raja memberi perintah, dan Daniel dibawa dan dilemparkan ke dalam gua singa. Raja berkata kepada Daniel, “Semoga Tuhanmu, yang engkau layani dengan tekun, melepaskan engkau!”
 
 ## Daniel 6:17
 
@@ -78,7 +78,7 @@ Pada waktu fajar, raja bangun dan pergi dengan tergesa-gesa ke gua singa.
 
 ## Daniel 6:20
 
-Ketika ia mendekati gua, ia berseru dengan suara penuh kesedihan, “Daniel, hamba Allah yang hidup, apakah Allahmu, yang engkau layani dengan tekun, dapat melepaskan engkau dari singa-singa itu?”
+Ketika ia mendekati gua, ia berseru dengan suara penuh kesedihan, “Daniel, hamba Tuhan yang hidup, apakah Tuhanmu, yang engkau layani dengan tekun, dapat melepaskan engkau dari singa-singa itu?”
 
 ## Daniel 6:21
 
@@ -86,11 +86,11 @@ Daniel kemudian berbicara kepada raja, “Ya raja, hiduplah selama-lamanya!
 
 ## Daniel 6:22
 
-Allahku mengutus malaikat-Nya dan menutup mulut singa-singa itu, sehingga mereka tidak menyakiti aku, karena aku didapati tidak bersalah di hadapan-Nya; dan juga aku tidak melakukan kesalahan apa pun di hadapanmu, ya raja.”
+Tuhanku mengutus malaikat-Nya dan menutup mulut singa-singa itu, sehingga mereka tidak menyakiti aku, karena aku didapati tidak bersalah di hadapan-Nya; dan juga aku tidak melakukan kesalahan apa pun di hadapanmu, ya raja.”
 
 ## Daniel 6:23
 
-Raja sangat gembira dan memerintahkan agar Daniel diangkat dari gua. Dan tidak ditemukan luka apa pun padanya, karena ia telah percaya kepada Allahnya.
+Raja sangat gembira dan memerintahkan agar Daniel diangkat dari gua. Dan tidak ditemukan luka apa pun padanya, karena ia telah percaya kepada Tuhannya.
 
 ## Daniel 6:24
 
@@ -102,7 +102,7 @@ Kemudian Raja Darius menulis kepada semua orang, bangsa, dan bahasa yang mendiam
 
 ## Daniel 6:26
 
-Aku mengeluarkan ketetapan bahwa di setiap wilayah kerajaanku, orang harus gemetar dan takut di hadapan Allahnya Daniel. Karena Dia adalah Allah yang hidup, yang kekal selamanya; kerajaan-Nya tidak akan binasa, dan kekuasaan-Nya tidak akan berakhir.
+Aku mengeluarkan ketetapan bahwa di setiap wilayah kerajaanku, orang harus gemetar dan takut di hadapan Tuhannya Daniel. Karena Dia adalah Tuhan yang hidup, yang kekal selamanya; kerajaan-Nya tidak akan binasa, dan kekuasaan-Nya tidak akan berakhir.
 
 ## Daniel 6:27
 

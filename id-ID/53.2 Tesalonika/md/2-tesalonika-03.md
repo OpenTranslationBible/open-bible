@@ -18,7 +18,7 @@ Kami percaya kepada Tuhan mengenai kamu, bahwa kamu melakukan dan akan terus mel
 
 ## 2 Tesalonika 3:5
 
-Semoga Tuhan membimbing hatimu menuju kasih Allah dan ketabahan Kristus.
+Semoga Tuhan membimbing hatimu menuju kasih Tuhan dan ketabahan Kristus.
 
 ## 2 Tesalonika 3:6
 

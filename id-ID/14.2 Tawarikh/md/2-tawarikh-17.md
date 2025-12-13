@@ -20,7 +20,7 @@ Tuhan menyertai Yosafat karena ia mengikuti jalan-jalan nenek moyangnya Daud pad
 
 ## 2 Tawarikh 17:4
 
-tetapi mencari Allah ayahnya, mematuhi perintah-perintah-Nya, dan tidak berperilaku seperti yang dilakukan Israel.
+tetapi mencari Tuhan ayahnya, mematuhi perintah-perintah-Nya, dan tidak berperilaku seperti yang dilakukan Israel.
 
 ---
 

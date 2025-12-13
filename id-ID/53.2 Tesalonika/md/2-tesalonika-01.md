@@ -3,27 +3,27 @@
 ## 2 Tesalonika 1:1
 
 Dari Paulus, Silwanus, dan Timotius,  
-kepada jemaat Tesalonika, dari Allah Bapa kita dan Tuhan Yesus Kristus:
+kepada jemaat Tesalonika, dari Tuhan Bapa kita dan Tuhan Yesus Kristus:
 
 ## 2 Tesalonika 1:2
 
-Semoga kamu menerima kasih karunia dan damai sejahtera dari Allah Bapa dan Tuhan Yesus Kristus.
+Semoga kamu menerima kasih karunia dan damai sejahtera dari Tuhan Bapa dan Tuhan Yesus Kristus.
 
 ## 2 Tesalonika 1:3
 
-Kami wajib selalu mengucap syukur kepada Allah untuk kamu, saudara-saudara, sebagaimana seharusnya, karena imanmu bertambah dengan sangat, dan kasih setiap orang di antara kamu seorang terhadap yang lain semakin besar.
+Kami wajib selalu mengucap syukur kepada Tuhan untuk kamu, saudara-saudara, sebagaimana seharusnya, karena imanmu bertambah dengan sangat, dan kasih setiap orang di antara kamu seorang terhadap yang lain semakin besar.
 
 ## 2 Tesalonika 1:4
 
-Dengan demikian, kami berbicara dengan bangga tentang kamu di antara jemaat-jemaat Allah karena ketabahan dan imanmu selama semua penganiayaan dan kesengsaraan yang kamu derita.
+Dengan demikian, kami berbicara dengan bangga tentang kamu di antara jemaat-jemaat Tuhan karena ketabahan dan imanmu selama semua penganiayaan dan kesengsaraan yang kamu derita.
 
 ## 2 Tesalonika 1:5
 
-Ini dengan jelas menunjukkan penghakiman Allah yang adil, sehingga kamu dianggap layak untuk kerajaan Allah, yang memang kamu derita.
+Ini dengan jelas menunjukkan penghakiman Tuhan yang adil, sehingga kamu dianggap layak untuk kerajaan Tuhan, yang memang kamu derita.
 
 ## 2 Tesalonika 1:6
 
-Karena adil bagi Allah untuk mendatangkan kesengsaraan kepada mereka yang mengganggu kamu,
+Karena adil bagi Tuhan untuk mendatangkan kesengsaraan kepada mereka yang mengganggu kamu,
 
 ## 2 Tesalonika 1:7
 
@@ -31,7 +31,7 @@ dan memberikan kelegaan kepada kamu yang menderita, bersama dengan kami, ketika 
 
 ## 2 Tesalonika 1:8
 
-mendatangkan keadilan kepada mereka yang tidak mengenal Allah dan kepada mereka yang tidak mengikuti injil Tuhan kita Yesus.
+mendatangkan keadilan kepada mereka yang tidak mengenal Tuhan dan kepada mereka yang tidak mengikuti injil Tuhan kita Yesus.
 
 ## 2 Tesalonika 1:9
 
@@ -43,8 +43,8 @@ ketika Ia datang untuk dimuliakan di antara orang-orang kudus-Nya pada hari itu,
 
 ## 2 Tesalonika 1:11
 
-Untuk tujuan ini kami juga selalu berdoa untuk kamu, agar Allah kami menganggap kamu layak atas panggilanmu, dan memenuhi setiap keinginan untuk kebaikan dan pekerjaan iman dengan kuasa,
+Untuk tujuan ini kami juga selalu berdoa untuk kamu, agar Tuhan kami menganggap kamu layak atas panggilanmu, dan memenuhi setiap keinginan untuk kebaikan dan pekerjaan iman dengan kuasa,
 
 ## 2 Tesalonika 1:12
 
-sehingga nama Tuhan kita Yesus dimuliakan di dalam kamu, dan kamu di dalam Dia, melalui kasih karunia Allah kita dan Tuhan Yesus Kristus.
+sehingga nama Tuhan kita Yesus dimuliakan di dalam kamu, dan kamu di dalam Dia, melalui kasih karunia Tuhan kita dan Tuhan Yesus Kristus.

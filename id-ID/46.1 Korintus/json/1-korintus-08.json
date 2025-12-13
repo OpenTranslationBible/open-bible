@@ -1,84 +1,82 @@
 {
-    "book": "1 Korintus",
-    "chapter": 8,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Sekarang mengenai makanan yang dipersembahkan kepada berhala, kita tahu bahwa kita semua memiliki pengetahuan. Pengetahuan membuat seseorang menjadi sombong, tetapi kasih membangun."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Jika ada yang mengira bahwa ia memiliki pengetahuan, ia belum mengetahui sebagaimana seharusnya."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Tetapi siapa yang mengasihi Allah, dikenal oleh-Nya."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Oleh karena itu, mengenai makan makanan yang dipersembahkan kepada berhala, kita mengerti bahwa berhala tidak berarti apa-apa di dunia, dan bahwa tidak ada Allah lain selain satu."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Karena meskipun ada yang disebut ‘allah’, baik di surga maupun di bumi, sebagaimana memang ada banyak ‘allah’ dan banyak ‘tuan’,"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Namun bagi kita hanya ada satu Allah, yaitu Bapa, dari siapa segala sesuatu berasal, dan kita ada untuk Dia; dan satu Tuhan, yaitu Yesus Kristus, melalui siapa segala sesuatu ada, dan kita ada melalui Dia."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Namun demikian, tidak semua orang memiliki pemahaman ini; beberapa orang, yang terbiasa dengan berhala sampai sekarang, makan makanan seolah-olah itu dipersembahkan kepada berhala, dan hati nurani mereka, yang lemah, menjadi ternoda."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Makanan tidak mendekatkan kita kepada Allah; kita tidak lebih buruk jika kita tidak makan, atau lebih baik jika kita makan."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Tetapi berhati-hatilah agar kebebasanmu ini jangan sampai menjadi batu sandungan bagi mereka yang lemah."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Sebab jika seseorang melihat engkau, yang memiliki pengetahuan, makan di kuil berhala, tidakkah hati nuraninya, jika ia lemah, akan terdorong untuk makan makanan yang dipersembahkan kepada berhala?"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Karena melalui pengetahuanmu, orang yang lemah itu dirugikan, saudara atau saudari yang untuknya Kristus telah mati."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Dengan demikian, dengan berdosa terhadap saudara-saudari dan melukai hati nurani mereka yang lemah, kamu berdosa terhadap Kristus."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Oleh karena itu, jika makanan menyebabkan saudaraku tersandung, aku tidak akan pernah makan daging lagi, supaya aku tidak menyebabkan saudaraku jatuh."
-            ]
-        }
-    ]
+  "book": "1 Korintus",
+  "chapter": 8,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Sekarang mengenai makanan yang dipersembahkan kepada berhala, kita tahu bahwa kita semua memiliki pengetahuan. Pengetahuan membuat seseorang menjadi sombong, tetapi kasih membangun."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Jika ada yang mengira bahwa ia memiliki pengetahuan, ia belum mengetahui sebagaimana seharusnya."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": ["Tetapi siapa yang mengasihi Tuhan, dikenal oleh-Nya."]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Oleh karena itu, mengenai makan makanan yang dipersembahkan kepada berhala, kita mengerti bahwa berhala tidak berarti apa-apa di dunia, dan bahwa tidak ada Tuhan lain selain satu."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Karena meskipun ada yang disebut ‘Tuhan’, baik di surga maupun di bumi, sebagaimana memang ada banyak ‘Tuhan’ dan banyak ‘tuan’,"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Namun bagi kita hanya ada satu Tuhan, yaitu Bapa, dari siapa segala sesuatu berasal, dan kita ada untuk Dia; dan satu Tuhan, yaitu Yesus Kristus, melalui siapa segala sesuatu ada, dan kita ada melalui Dia."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Namun demikian, tidak semua orang memiliki pemahaman ini; beberapa orang, yang terbiasa dengan berhala sampai sekarang, makan makanan seolah-olah itu dipersembahkan kepada berhala, dan hati nurani mereka, yang lemah, menjadi ternoda."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Makanan tidak mendekatkan kita kepada Tuhan; kita tidak lebih buruk jika kita tidak makan, atau lebih baik jika kita makan."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Tetapi berhati-hatilah agar kebebasanmu ini jangan sampai menjadi batu sandungan bagi mereka yang lemah."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Sebab jika seseorang melihat engkau, yang memiliki pengetahuan, makan di kuil berhala, tidakkah hati nuraninya, jika ia lemah, akan terdorong untuk makan makanan yang dipersembahkan kepada berhala?"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Karena melalui pengetahuanmu, orang yang lemah itu dirugikan, saudara atau saudari yang untuknya Kristus telah mati."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Dengan demikian, dengan berdosa terhadap saudara-saudari dan melukai hati nurani mereka yang lemah, kamu berdosa terhadap Kristus."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Oleh karena itu, jika makanan menyebabkan saudaraku tersandung, aku tidak akan pernah makan daging lagi, supaya aku tidak menyebabkan saudaraku jatuh."
+      ]
+    }
+  ]
 }

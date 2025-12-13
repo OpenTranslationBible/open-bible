@@ -46,7 +46,7 @@ Janganlah kamu membawa bekal dalam perjalanan, janganlah kamu membawa baju dua h
 
 ## Matius 10:11
 
-Apabila kamu masuk kota atau desa, carilah di situ seorang yang layak dan tinggallah padanya sampai kamu berangkat.
+Apabila kamu masuk kota atau desa, carilah di situ seorang yang layak dan tinggTuhan padanya sampai kamu berangkat.
 
 ## Matius 10:12
 
@@ -76,7 +76,7 @@ Tetapi waspadalah terhadap semua orang, karena mereka akan menyerahkan kamu kepa
 
 ## Matius 10:18
 
-Dan karena Aku, kamu akan digiring ke muka para penguasa dan raja-raja sebagai suatu kesaksian bagi mereka dan bagi orang-orang yang tidak mengenal Allah.
+Dan karena Aku, kamu akan digiring ke muka para penguasa dan raja-raja sebagai suatu kesaksian bagi mereka dan bagi orang-orang yang tidak mengenal Tuhan.
 
 ## Matius 10:19
 

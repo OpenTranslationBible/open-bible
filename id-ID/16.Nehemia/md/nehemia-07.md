@@ -6,7 +6,7 @@ Setelah tembok itu selesai dan pintu-pintu dipasang, aku mengangkat para penjaga
 
 ## Nehemia 7:2
 
-Aku mengangkat saudaraku Hanani, dan Hananya, komandan benteng, untuk memimpin Yerusalem, karena dia adalah orang yang dapat dipercaya yang takut akan Allah lebih dari banyak orang lainnya.
+Aku mengangkat saudaraku Hanani, dan Hananya, komandan benteng, untuk memimpin Yerusalem, karena dia adalah orang yang dapat dipercaya yang takut akan Tuhan lebih dari banyak orang lainnya.
 
 ## Nehemia 7:3
 
@@ -20,7 +20,7 @@ Kota itu besar dan luas, tetapi penduduknya sedikit, dan rumah-rumah belum diban
 
 ## Nehemia 7:5
 
-Kemudian Allahku menaruh di hatiku untuk mengumpulkan para bangsawan, para pejabat, dan rakyat biasa untuk didaftarkan menurut keluarga. Aku menemukan catatan silsilah orang-orang yang pertama kali kembali, dan inilah yang kutemukan:
+Kemudian Tuhanku menaruh di hatiku untuk mengumpulkan para bangsawan, para pejabat, dan rakyat biasa untuk didaftarkan menurut keluarga. Aku menemukan catatan silsilah orang-orang yang pertama kali kembali, dan inilah yang kutemukan:
 
 ## Nehemia 7:6
 

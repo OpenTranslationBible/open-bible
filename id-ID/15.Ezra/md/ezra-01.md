@@ -8,21 +8,21 @@ Pada tahun pertama pemerintahan Koresy, raja Persia, untuk menggenapi firman Tuh
 
 ## Ezra 1:2
 
-“Inilah yang dikatakan Koresy, raja Persia: ‘Tuhan, Allah di surga, telah memberikan kepadaku semua kerajaan di bumi dan telah menunjuk aku untuk membangun sebuah rumah bagi-Nya di Yerusalem, yang ada di Yehuda.
+“Inilah yang dikatakan Koresy, raja Persia: ‘Tuhan, Tuhan di surga, telah memberikan kepadaku semua kerajaan di bumi dan telah menunjuk aku untuk membangun sebuah rumah bagi-Nya di Yerusalem, yang ada di Yehuda.
 
 ## Ezra 1:3
 
-Siapa saja di antara kamu yang termasuk umat-Nya, semoga Allah mereka menyertai mereka, dan biarlah mereka pergi ke Yerusalem di Yehuda dan membangun rumah Tuhan, Allah Israel, yang ada di Yerusalem.
+Siapa saja di antara kamu yang termasuk umat-Nya, semoga Tuhan mereka menyertai mereka, dan biarlah mereka pergi ke Yerusalem di Yehuda dan membangun rumah Tuhan, Tuhan Israel, yang ada di Yerusalem.
 
 ## Ezra 1:4
 
-Dan di mana pun para penyintas mungkin tinggal sekarang, orang-orang harus mendukung mereka dengan perak dan emas, dengan barang-barang dan ternak, bersama dengan persembahan sukarela untuk rumah Allah di Yerusalem.’”
+Dan di mana pun para penyintas mungkin tinggal sekarang, orang-orang harus mendukung mereka dengan perak dan emas, dengan barang-barang dan ternak, bersama dengan persembahan sukarela untuk rumah Tuhan di Yerusalem.’”
 
 ---
 
 ## Ezra 1:5
 
-Kemudian para kepala keluarga dari Yehuda dan Benyamin, serta para imam dan orang Lewi—semua orang yang rohnya digerakkan oleh Allah—bersiap untuk pergi dan membangun rumah Tuhan di Yerusalem.
+Kemudian para kepala keluarga dari Yehuda dan Benyamin, serta para imam dan orang Lewi—semua orang yang rohnya digerakkan oleh Tuhan—bersiap untuk pergi dan membangun rumah Tuhan di Yerusalem.
 
 ## Ezra 1:6
 

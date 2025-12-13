@@ -105,7 +105,7 @@ dan raja berkata, “Apa yang kamu inginkan?”
 ## 1 Raja-raja 1:17
 
 Dia berkata kepadanya,  
-“Tuanku, engkau bersumpah demi Tuhan, Allahmu, kepada hambamu,  
+“Tuanku, engkau bersumpah demi Tuhan, Tuhanmu, kepada hambamu,  
 ‘Sesungguhnya Salomo anakmu akan menjadi raja setelah aku,  
 dan dia akan duduk di atas takhtaku.’
 
@@ -185,7 +185,7 @@ Dan raja bersumpah dan berkata,
 
 ## 1 Raja-raja 1:30
 
-seperti yang telah aku sumpahkan kepadamu demi Tuhan, Allah Israel, dengan mengatakan,  
+seperti yang telah aku sumpahkan kepadamu demi Tuhan, Tuhan Israel, dengan mengatakan,  
 ‘Salomo anakmu akan menjadi raja setelah aku,  
 dan dia akan duduk di atas takhtaku menggantikan aku,’  
 aku akan benar-benar melakukannya hari ini.”
@@ -225,7 +225,7 @@ karena aku telah menetapkannya menjadi penguasa atas Israel dan Yehuda.”
 ## 1 Raja-raja 1:36
 
 Dan Benaya, anak Yoyada, menjawab raja dan berkata,  
-“Amin! Semoga Tuhan, Allah tuanku raja, meneguhkannya.
+“Amin! Semoga Tuhan, Tuhan tuanku raja, meneguhkannya.
 
 ## 1 Raja-raja 1:37
 
@@ -292,14 +292,14 @@ Lebih jauh lagi, Salomo sekarang duduk di atas takhta kerajaan.
 ## 1 Raja-raja 1:47
 
 Selain itu, hamba-hamba raja datang untuk memberkati tuanku Raja Daud, dengan mengatakan,  
-‘Semoga Allahmu membuat nama Salomo lebih dihormati daripada namamu,  
+‘Semoga Tuhanmu membuat nama Salomo lebih dihormati daripada namamu,  
 dan takhtanya lebih besar daripada takhtamu.’  
 Dan raja membungkuk di atas tempat tidur.
 
 ## 1 Raja-raja 1:48
 
 Raja juga berkata,  
-“Diberkatilah Tuhan, Allah Israel,  
+“Diberkatilah Tuhan, Tuhan Israel,  
 yang telah memberikan seorang untuk duduk di atas takhtaku hari ini sementara mataku melihatnya.”
 
 ---

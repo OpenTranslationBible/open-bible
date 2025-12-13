@@ -8,7 +8,7 @@ Tetapi Yonatan, anak Saul, sangat menyukai Daud.
 ## 1 Samuel 19:2
 
 Maka Yonatan memberitahu Daud, katanya, “Ayahku Saul berusaha membunuhmu.  
-Sekarang, berjaga-jagalah pada pagi hari, dan tinggallah di tempat yang tersembunyi dan bersembunyilah.
+Sekarang, berjaga-jagalah pada pagi hari, dan tinggTuhan di tempat yang tersembunyi dan bersembunyilah.
 
 ## 1 Samuel 19:3
 

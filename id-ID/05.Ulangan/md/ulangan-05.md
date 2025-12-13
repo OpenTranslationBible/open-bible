@@ -6,7 +6,7 @@ Musa memanggil seluruh orang Israel dan berkata kepada mereka: "Dengarlah, hai o
 
 ## Ulangan 5:2
 
-Tuhan, Allah kita, mengadakan perjanjian dengan kita di Horeb.
+Tuhan, Tuhan kita, mengadakan perjanjian dengan kita di Horeb.
 
 ## Ulangan 5:3
 
@@ -22,11 +22,11 @@ sementara aku berdiri di antara Tuhan dan kamu pada waktu itu, untuk menyampaika
 
 ## Ulangan 5:6
 
-‘Akulah Tuhan, Allahmu, yang membebaskanmu dari Mesir, dari rumah perbudakan.
+‘Akulah Tuhan, Tuhanmu, yang membebaskanmu dari Mesir, dari rumah perbudakan.
 
 ## Ulangan 5:7
 
-‘Jangan ada padamu allah lain di hadapan-Ku.
+‘Jangan ada padamu Tuhan lain di hadapan-Ku.
 
 ## Ulangan 5:8
 
@@ -34,7 +34,7 @@ sementara aku berdiri di antara Tuhan dan kamu pada waktu itu, untuk menyampaika
 
 ## Ulangan 5:9
 
-Jangan sujud menyembah kepadanya atau beribadah kepadanya; sebab Aku, Tuhan, Allahmu, adalah Allah yang cemburu, yang membalaskan kesalahan bapa kepada anak-anaknya, kepada keturunan yang ketiga dan keempat dari orang-orang yang membenci Aku,
+Jangan sujud menyembah kepadanya atau beribadah kepadanya; sebab Aku, Tuhan, Tuhanmu, adalah Tuhan yang cemburu, yang membalaskan kesalahan bapa kepada anak-anaknya, kepada keturunan yang ketiga dan keempat dari orang-orang yang membenci Aku,
 
 ## Ulangan 5:10
 
@@ -42,11 +42,11 @@ tetapi menunjukkan kasih setia kepada beribu-ribu keturunan dari orang-orang yan
 
 ## Ulangan 5:11
 
-‘Jangan menyebut nama Tuhan, Allahmu, dengan sembarangan, sebab Tuhan tidak akan membebaskan dari hukuman orang yang menyebut nama-Nya dengan sembarangan.
+‘Jangan menyebut nama Tuhan, Tuhanmu, dengan sembarangan, sebab Tuhan tidak akan membebaskan dari hukuman orang yang menyebut nama-Nya dengan sembarangan.
 
 ## Ulangan 5:12
 
-‘Peliharalah hari Sabat dan kuduskanlah, seperti yang diperintahkan kepadamu oleh Tuhan, Allahmu.
+‘Peliharalah hari Sabat dan kuduskanlah, seperti yang diperintahkan kepadamu oleh Tuhan, Tuhanmu.
 
 ## Ulangan 5:13
 
@@ -54,15 +54,15 @@ Enam hari lamanya engkau akan bekerja dan menyelesaikan segala pekerjaanmu,
 
 ## Ulangan 5:14
 
-tetapi hari ketujuh adalah hari Sabat Tuhan, Allahmu; maka jangan melakukan pekerjaan apapun, baik engkau, anakmu laki-laki atau perempuan, hambamu laki-laki atau perempuan, lembumu, keledaimu atau hewanmu yang lain, maupun orang asing yang ada di tempat kediamanmu, supaya hambamu laki-laki dan perempuan dapat beristirahat seperti engkau.
+tetapi hari ketujuh adalah hari Sabat Tuhan, Tuhanmu; maka jangan melakukan pekerjaan apapun, baik engkau, anakmu laki-laki atau perempuan, hambamu laki-laki atau perempuan, lembumu, keledaimu atau hewanmu yang lain, maupun orang asing yang ada di tempat kediamanmu, supaya hambamu laki-laki dan perempuan dapat beristirahat seperti engkau.
 
 ## Ulangan 5:15
 
-Ingatlah bahwa engkau dahulu adalah budak di tanah Mesir dan bahwa Tuhan, Allahmu, telah membawamu keluar dari sana dengan tangan yang kuat dan lengan yang teracung. Oleh karena itu Tuhan, Allahmu, memerintahkan engkau untuk memelihara hari Sabat.
+Ingatlah bahwa engkau dahulu adalah budak di tanah Mesir dan bahwa Tuhan, Tuhanmu, telah membawamu keluar dari sana dengan tangan yang kuat dan lengan yang teracung. Oleh karena itu Tuhan, Tuhanmu, memerintahkan engkau untuk memelihara hari Sabat.
 
 ## Ulangan 5:16
 
-‘Hormatilah ayahmu dan ibumu, seperti yang diperintahkan kepadamu oleh Tuhan, Allahmu, supaya lanjut umurmu dan baik keadaanmu di tanah yang diberikan Tuhan, Allahmu, kepadamu.
+‘Hormatilah ayahmu dan ibumu, seperti yang diperintahkan kepadamu oleh Tuhan, Tuhanmu, supaya lanjut umurmu dan baik keadaanmu di tanah yang diberikan Tuhan, Tuhanmu, kepadamu.
 
 ## Ulangan 5:17
 
@@ -94,19 +94,19 @@ Ketika kamu mendengar suara dari tengah-tengah kegelapan, sementara gunung itu m
 
 ## Ulangan 5:24
 
-Dan kamu berkata, ‘Tuhan, Allah kita, telah memperlihatkan kepada kita kemuliaan dan keagungan-Nya, dan kita telah mendengar suara-Nya dari api. Hari ini kita telah melihat bahwa Allah dapat berbicara dengan manusia, dan manusia itu tetap hidup.
+Dan kamu berkata, ‘Tuhan, Tuhan kita, telah memperlihatkan kepada kita kemuliaan dan keagungan-Nya, dan kita telah mendengar suara-Nya dari api. Hari ini kita telah melihat bahwa Tuhan dapat berbicara dengan manusia, dan manusia itu tetap hidup.
 
 ## Ulangan 5:25
 
-Namun sekarang, mengapa kita harus mempertaruhkan nyawa kita? Api besar ini akan menghabisi kita, dan kita takut bahwa kita akan binasa jika terus mendengar suara Tuhan, Allah kita.
+Namun sekarang, mengapa kita harus mempertaruhkan nyawa kita? Api besar ini akan menghabisi kita, dan kita takut bahwa kita akan binasa jika terus mendengar suara Tuhan, Tuhan kita.
 
 ## Ulangan 5:26
 
-Sebab siapakah di antara seluruh umat manusia yang telah mendengar suara Allah yang hidup berbicara dari tengah-tengah api, seperti kita, dan tetap hidup?
+Sebab siapakah di antara seluruh umat manusia yang telah mendengar suara Tuhan yang hidup berbicara dari tengah-tengah api, seperti kita, dan tetap hidup?
 
 ## Ulangan 5:27
 
-Dekatilah dan dengarkan semua yang Tuhan, Allah kita, katakan. Kemudian katakan kepada kami apapun yang Tuhan, Allah kita, katakan kepadamu. Kami akan mendengarkan dan mematuhinya.’
+Dekatilah dan dengarkan semua yang Tuhan, Tuhan kita, katakan. Kemudian katakan kepada kami apapun yang Tuhan, Tuhan kita, katakan kepadamu. Kami akan mendengarkan dan mematuhinya.’
 
 ## Ulangan 5:28
 
@@ -126,8 +126,8 @@ Tetapi engkau tetaplah di sini bersama-Ku supaya Aku dapat memberikan kepadamu s
 
 ## Ulangan 5:32
 
-Jadi berhati-hatilah untuk melakukan seperti yang diperintahkan Tuhan, Allahmu; jangan menyimpang ke kanan atau ke kiri.
+Jadi berhati-hatilah untuk melakukan seperti yang diperintahkan Tuhan, Tuhanmu; jangan menyimpang ke kanan atau ke kiri.
 
 ## Ulangan 5:33
 
-Ikutilah semua yang diperintahkan Tuhan, Allahmu, kepadamu, supaya engkau dapat hidup dan makmur dan memperpanjang hari-harimu di tanah yang akan engkau miliki.
+Ikutilah semua yang diperintahkan Tuhan, Tuhanmu, kepadamu, supaya engkau dapat hidup dan makmur dan memperpanjang hari-harimu di tanah yang akan engkau miliki.

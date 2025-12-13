@@ -13,12 +13,12 @@ dan ibunya adalah Maakha, anak Abisalom.
 ## 1 Raja-raja 15:3
 
 Ia mengikuti semua pelanggaran ayahnya, yang telah dilakukannya sebelumnya,  
-dan hatinya tidak sepenuhnya setia kepada Tuhan, Allahnya,  
+dan hatinya tidak sepenuhnya setia kepada Tuhan, Tuhannya,  
 tidak seperti hati leluhurnya Daud.
 
 ## 1 Raja-raja 15:4
 
-Namun demi Daud, Tuhan, Allahnya, memberikan sebuah lampu di Yerusalem,  
+Namun demi Daud, Tuhan, Tuhannya, memberikan sebuah lampu di Yerusalem,  
 dengan membangkitkan putranya setelah dia dan menegakkan Yerusalem;
 
 ## 1 Raja-raja 15:5
@@ -175,7 +175,7 @@ sesuai dengan firman Tuhan, yang telah diucapkan-Nya melalui hambanya Ahia orang
 
 karena dosa-dosa Yerobeam,  
 yang dilakukannya, dan yang menyebabkan Israel berdosa,  
-karena provokasinya yang membuat Tuhan, Allah Israel, marah.
+karena provokasinya yang membuat Tuhan, Tuhan Israel, marah.
 
 ---
 

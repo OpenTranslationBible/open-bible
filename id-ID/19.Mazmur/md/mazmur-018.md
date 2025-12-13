@@ -9,7 +9,7 @@
 ## Mazmur 18:2
 
 > Tuhan adalah gunung batuku dan bentengku dan Juruselamatku,  
-> Allahku, gunung batuku tempat aku berlindung;  
+> Tuhanku, gunung batuku tempat aku berlindung;  
 > Perisaiku dan tanduk keselamatanku, tempat perlindunganku yang kuat.
 
 ---
@@ -34,7 +34,7 @@
 ## Mazmur 18:6
 
 > Dalam kesesakanku aku berseru kepada Tuhan,  
-> Dan berseru kepada Allahku untuk bantuan;  
+> Dan berseru kepada Tuhanku untuk bantuan;  
 > Dia mendengar suaraku dari bait-Nya,  
 > Dan teriakku minta tolong sampai ke telinga-Nya.
 
@@ -120,7 +120,7 @@
 ## Mazmur 18:21
 
 > Karena aku telah mengikuti jalan-jalan Tuhan,  
-> Dan tidak berpaling dari Allahku.
+> Dan tidak berpaling dari Tuhanku.
 
 ## Mazmur 18:22
 
@@ -157,29 +157,29 @@
 ## Mazmur 18:28
 
 > Karena Engkau menerangi pelitaku;  
-> Tuhan, Allahku, menerangi kegelapanku.
+> Tuhan, Tuhanku, menerangi kegelapanku.
 
 ## Mazmur 18:29
 
 > Karena dengan pertolongan-Mu aku dapat berlari melawan pasukan;  
-> Dan dengan Allahku aku dapat melompati tembok.
+> Dan dengan Tuhanku aku dapat melompati tembok.
 
 ---
 
 ## Mazmur 18:30
 
-> Adapun Allah, jalan-Nya sempurna;  
+> Adapun Tuhan, jalan-Nya sempurna;  
 > Firman Tuhan teruji;  
 > Dia adalah perisai bagi semua yang mencari perlindungan pada-Nya.
 
 ## Mazmur 18:31
 
-> Karena siapakah Allah, jika bukan Tuhan?  
-> Dan siapakah gunung batu, jika bukan Allah kita?
+> Karena siapakah Tuhan, jika bukan Tuhan?  
+> Dan siapakah gunung batu, jika bukan Tuhan kita?
 
 ## Mazmur 18:32
 
-> Allah yang memperlengkapi aku dengan kekuatan,  
+> Tuhan yang memperlengkapi aku dengan kekuatan,  
 > Dan membuat jalanku sempurna?
 
 ## Mazmur 18:33
@@ -256,11 +256,11 @@
 ## Mazmur 18:46
 
 > Tuhan hidup, dan terpujilah gunung batuku;  
-> Dan ditinggikanlah Allah yang menyelamatkan aku,
+> Dan ditinggikanlah Tuhan yang menyelamatkan aku,
 
 ## Mazmur 18:47
 
-> Allah yang membawa keadilan kepadaku,  
+> Tuhan yang membawa keadilan kepadaku,  
 > Dan menundukkan bangsa-bangsa di bawahku.
 
 ## Mazmur 18:48

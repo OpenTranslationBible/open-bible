@@ -14,7 +14,7 @@ Dari asap itu keluar belalang-belalang ke bumi, dan kepada mereka diberikan kuas
 
 ## Wahyu 9:4
 
-Mereka diperintahkan untuk tidak merusak rumput di bumi, atau segala sesuatu yang hijau, atau pohon apa pun, tetapi hanya orang-orang yang tidak memiliki meterai Allah di dahi mereka.
+Mereka diperintahkan untuk tidak merusak rumput di bumi, atau segala sesuatu yang hijau, atau pohon apa pun, tetapi hanya orang-orang yang tidak memiliki meterai Tuhan di dahi mereka.
 
 ## Wahyu 9:5
 
@@ -50,7 +50,7 @@ Celaka yang pertama sudah berlalu; lihatlah, masih ada dua celaka lagi yang akan
 
 ## Wahyu 9:13
 
-Malaikat keenam meniup sangkakalanya, dan aku mendengar suara dari keempat tanduk mezbah emas di hadapan Allah,
+Malaikat keenam meniup sangkakalanya, dan aku mendengar suara dari keempat tanduk mezbah emas di hadapan Tuhan,
 
 ## Wahyu 9:14
 

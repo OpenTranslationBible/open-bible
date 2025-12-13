@@ -78,7 +78,7 @@ Ketaatanmu dikenal oleh semua orang, dan aku bersukacita atasmu; tetapi aku ingi
 
 ## Roma 16:20
 
-Allah damai sejahtera akan segera menghancurkan Iblis di bawah kakimu. Kasih karunia Tuhan kita Yesus menyertai kamu.
+Tuhan damai sejahtera akan segera menghancurkan Iblis di bawah kakimu. Kasih karunia Tuhan kita Yesus menyertai kamu.
 
 ## Roma 16:21
 
@@ -102,8 +102,8 @@ Sekarang bagi Dia yang berkuasa untuk meneguhkan kamu menurut injilku dan pember
 
 ## Roma 16:26
 
-tetapi sekarang dinyatakan dan diberitakan melalui tulisan-tulisan para nabi atas perintah Allah yang kekal, supaya semua bangsa datang kepada ketaatan yang berasal dari iman—
+tetapi sekarang dinyatakan dan diberitakan melalui tulisan-tulisan para nabi atas perintah Tuhan yang kekal, supaya semua bangsa datang kepada ketaatan yang berasal dari iman—
 
 ## Roma 16:27
 
-Kepada satu-satunya Allah yang benar, bijaksana dan layak menerima kemuliaan selama-lamanya melalui Yesus Kristus. Amin.
+Kepada satu-satunya Tuhan yang benar, bijaksana dan layak menerima kemuliaan selama-lamanya melalui Yesus Kristus. Amin.

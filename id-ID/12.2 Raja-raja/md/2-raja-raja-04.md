@@ -36,9 +36,9 @@ Kemudian minyak itu berhenti.
 
 ## 2 Raja-raja 4:7
 
-Jadi dia datang dan memberitahu orang Allah itu.  
+Jadi dia datang dan memberitahu orang Tuhan itu.  
 Dan dia menginstruksikannya,  
-“Pergilah, juallah minyak itu dan lunasi utangmu, dan engkau dan anak-anakmu dapat hidup dari sisanya.”
+“Pergilah, juTuhan minyak itu dan lunasi utangmu, dan engkau dan anak-anakmu dapat hidup dari sisanya.”
 
 ---
 
@@ -51,7 +51,7 @@ Jadi setiap kali dia lewat, dia akan singgah di sana untuk makan.
 ## 2 Raja-raja 4:9
 
 Dan dia berkata kepada suaminya,  
-“Lihatlah sekarang, aku tahu bahwa ini adalah orang kudus Allah yang terus-menerus lewat di antara kita.
+“Lihatlah sekarang, aku tahu bahwa ini adalah orang kudus Tuhan yang terus-menerus lewat di antara kita.
 
 ## 2 Raja-raja 4:10
 
@@ -90,7 +90,7 @@ Jadi dia memanggilnya, dan dia berdiri di ambang pintu.
 
 Kemudian dia berkata,  
 “Pada waktu seperti ini tahun depan, engkau akan menggendong seorang anak laki-laki.”  
-Tetapi dia berkata, “Tidak, tuanku, orang Allah, jangan berbohong kepada hambamu.”
+Tetapi dia berkata, “Tidak, tuanku, orang Tuhan, jangan berbohong kepada hambamu.”
 
 ## 2 Raja-raja 4:17
 
@@ -116,14 +116,14 @@ dan kemudian dia meninggal.
 
 ## 2 Raja-raja 4:21
 
-Jadi dia naik dan meletakkannya di tempat tidur orang Allah,  
+Jadi dia naik dan meletakkannya di tempat tidur orang Tuhan,  
 dan menutup pintu di belakangnya dan pergi.
 
 ## 2 Raja-raja 4:22
 
 Dia memanggil suaminya dan berkata,  
 “Tolong kirimkan aku salah satu hamba dan salah satu keledai,  
-supaya aku dapat pergi kepada orang Allah dan kembali.”
+supaya aku dapat pergi kepada orang Tuhan dan kembali.”
 
 ## 2 Raja-raja 4:23
 
@@ -138,8 +138,8 @@ Kemudian dia memasang pelana keledai dan berkata kepada hambanya,
 
 ## 2 Raja-raja 4:25
 
-Jadi dia pergi dan datang kepada orang Allah di Gunung Karmel.  
-Ketika orang Allah melihatnya dari kejauhan, dia berkata kepada Gehazi, hambanya,  
+Jadi dia pergi dan datang kepada orang Tuhan di Gunung Karmel.  
+Ketika orang Tuhan melihatnya dari kejauhan, dia berkata kepada Gehazi, hambanya,  
 “Lihatlah, ada wanita Sunem itu.
 
 ## 2 Raja-raja 4:26
@@ -150,8 +150,8 @@ Dan dia menjawab, “Baik-baik saja.”
 
 ## 2 Raja-raja 4:27
 
-Ketika dia datang kepada orang Allah di bukit, dia memegang kakinya.  
-Dan Gehazi datang untuk mendorongnya pergi, tetapi orang Allah berkata,  
+Ketika dia datang kepada orang Tuhan di bukit, dia memegang kakinya.  
+Dan Gehazi datang untuk mendorongnya pergi, tetapi orang Tuhan berkata,  
 “Biarkan dia sendiri, karena jiwanya gelisah di dalamnya;  
 dan Tuhan telah menyembunyikannya dariku dan tidak memberitahuku.”
 
@@ -234,7 +234,7 @@ meskipun mereka tidak tahu apa itu.
 
 Jadi mereka menyajikannya kepada orang-orang untuk makan.  
 Tetapi ketika mereka sedang makan sup, mereka berseru dan berkata,  
-“Orang Allah, ada kematian dalam panci!”  
+“Orang Tuhan, ada kematian dalam panci!”  
 Dan mereka tidak dapat memakannya.
 
 ## 2 Raja-raja 4:41
@@ -249,7 +249,7 @@ Dan tidak ada yang berbahaya dalam panci itu.
 ## 2 Raja-raja 4:42
 
 Sekarang seorang pria datang dari Baal-salisa,  
-dan membawa roti buah sulung kepada orang Allah: dua puluh roti jelai  
+dan membawa roti buah sulung kepada orang Tuhan: dua puluh roti jelai  
 dan bulir gandum segar dalam kantongnya.  
 Dan Elisa berkata, “Berikan kepada orang-orang supaya mereka makan.”
 

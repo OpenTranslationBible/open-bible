@@ -7,18 +7,18 @@ Daud sekali lagi mengumpulkan semua orang pilihan Israel, tiga puluh ribu orang.
 ## 2 Samuel 6:2
 
 Dan Daud bangkit dan pergi dengan semua orang yang menyertainya ke Baale-Yehuda,  
-untuk membawa dari sana tabut Allah, yang disebut dengan Nama,  
+untuk membawa dari sana tabut Tuhan, yang disebut dengan Nama,  
 nama Tuhan semesta alam, yang bertakhta di atas kerubim.
 
 ## 2 Samuel 6:3
 
-Dan mereka menaikkan tabut Allah ke atas kereta baru,  
+Dan mereka menaikkan tabut Tuhan ke atas kereta baru,  
 dan membawanya dari rumah Abinadab, yang berada di bukit;  
 dan Uza dan Ahyo, anak-anak Abinadab, memimpin kereta baru itu.
 
 ## 2 Samuel 6:4
 
-Demikianlah mereka mengangkut tabut Allah dari rumah Abinadab, yang berada di bukit,  
+Demikianlah mereka mengangkut tabut Tuhan dari rumah Abinadab, yang berada di bukit,  
 dengan Ahyo berjalan di depan tabut.
 
 ## 2 Samuel 6:5
@@ -31,12 +31,12 @@ dengan berbagai alat musik yang terbuat dari kayu sanobar, bersama dengan kecapi
 ## 2 Samuel 6:6
 
 Tetapi ketika mereka sampai di tempat pengirikan Nakhon,  
-Uza mengulurkan tangannya ke arah tabut Allah dan memegangnya, karena lembu-lembu itu tergelincir.
+Uza mengulurkan tangannya ke arah tabut Tuhan dan memegangnya, karena lembu-lembu itu tergelincir.
 
 ## 2 Samuel 6:7
 
-Dan kemarahan Tuhan menyala terhadap Uza, dan Allah memukulnya di sana karena ketidakberhormatannya;  
-dan ia mati di sana di samping tabut Allah.
+Dan kemarahan Tuhan menyala terhadap Uza, dan Tuhan memukulnya di sana karena ketidakberhormatannya;  
+dan ia mati di sana di samping tabut Tuhan.
 
 ## 2 Samuel 6:8
 
@@ -63,8 +63,8 @@ dan Tuhan memberkati Obed-Edom dan seluruh keluarganya.
 ## 2 Samuel 6:12
 
 Sekarang dilaporkan kepada Raja Daud, mengatakan,  
-“Tuhan telah memberkati rumah Obed-Edom dan semua yang dimilikinya, karena tabut Allah.”  
-Jadi Daud pergi dan membawa tabut Allah dari rumah Obed-Edom ke kota Daud dengan sukacita.
+“Tuhan telah memberkati rumah Obed-Edom dan semua yang dimilikinya, karena tabut Tuhan.”  
+Jadi Daud pergi dan membawa tabut Tuhan dari rumah Obed-Edom ke kota Daud dengan sukacita.
 
 ## 2 Samuel 6:13
 

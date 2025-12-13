@@ -2,11 +2,11 @@
 
 ## Yohanes 1:1
 
-Pada mulanya adalah Firman; Firman itu bersama-sama dengan Allah dan Firman itu adalah Allah.
+Pada mulanya adalah Firman; Firman itu bersama-sama dengan Tuhan dan Firman itu adalah Tuhan.
 
 ## Yohanes 1:2
 
-Ia pada mulanya bersama-sama dengan Allah.
+Ia pada mulanya bersama-sama dengan Tuhan.
 
 ## Yohanes 1:3
 
@@ -24,7 +24,7 @@ Terang itu bercahaya di dalam kegelapan dan kegelapan itu tidak menguasainya.
 
 ## Yohanes 1:6
 
-Datanglah seorang yang diutus Allah, namanya Yohanes.
+Datanglah seorang yang diutus Tuhan, namanya Yohanes.
 
 ## Yohanes 1:7
 
@@ -50,11 +50,11 @@ Ia datang kepada milik kepunyaan-Nya, tetapi orang-orang kepunyaan-Nya itu tidak
 
 ## Yohanes 1:12
 
-Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Allah, yaitu mereka yang percaya dalam nama-Nya;
+Tetapi semua orang yang menerima-Nya diberi-Nya kuasa supaya menjadi anak-anak Tuhan, yaitu mereka yang percaya dalam nama-Nya;
 
 ## Yohanes 1:13
 
-orang-orang yang diperanakkan bukan dari darah atau dari daging, bukan pula secara jasmani oleh keinginan seorang laki-laki, melainkan dari Allah.
+orang-orang yang diperanakkan bukan dari darah atau dari daging, bukan pula secara jasmani oleh keinginan seorang laki-laki, melainkan dari Tuhan.
 
 ---
 
@@ -76,7 +76,7 @@ sebab hukum Taurat diberikan oleh Musa, tetapi kasih karunia dan kebenaran datan
 
 ## Yohanes 1:18
 
-Tidak seorang pun yang pernah melihat Allah; tetapi Anak Tunggal Allah, yang ada di pangkuan Bapa, Dialah yang menyatakan-Nya.
+Tidak seorang pun yang pernah melihat Tuhan; tetapi Anak Tunggal Tuhan, yang ada di pangkuan Bapa, Dialah yang menyatakan-Nya.
 
 ---
 
@@ -126,7 +126,7 @@ Hal itu terjadi di Betania yang di seberang sungai Yordan, di mana Yohanes memba
 
 ## Yohanes 1:29
 
-Pada keesokan harinya Yohanes melihat Yesus datang kepadanya dan ia berkata: "Lihatlah Anak domba Allah, yang menghapus dosa dunia.
+Pada keesokan harinya Yohanes melihat Yesus datang kepadanya dan ia berkata: "Lihatlah Anak domba Tuhan, yang menghapus dosa dunia.
 
 ## Yohanes 1:30
 
@@ -146,7 +146,7 @@ Dan aku pun tidak mengenal-Nya, tetapi Dia yang mengutus aku untuk membaptis den
 
 ## Yohanes 1:34
 
-Dan aku telah melihat-Nya dan memberi kesaksian: Dia inilah Anak Allah."
+Dan aku telah melihat-Nya dan memberi kesaksian: Dia inilah Anak Tuhan."
 
 ---
 
@@ -156,7 +156,7 @@ Pada keesokan harinya Yohanes berdiri di situ pula dengan dua orang muridnya.
 
 ## Yohanes 1:36
 
-Dan ketika ia melihat Yesus lewat, ia berkata: "Lihatlah Anak domba Allah!"
+Dan ketika ia melihat Yesus lewat, ia berkata: "Lihatlah Anak domba Tuhan!"
 
 ## Yohanes 1:37
 
@@ -210,7 +210,7 @@ Kata Natanael kepada-Nya: "Bagaimana Engkau mengenal aku?" Jawab Yesus kepadanya
 
 ## Yohanes 1:49
 
-Kata Natanael kepada-Nya: "Rabi, Engkau Anak Allah, Engkau Raja orang Israel!"
+Kata Natanael kepada-Nya: "Rabi, Engkau Anak Tuhan, Engkau Raja orang Israel!"
 
 ## Yohanes 1:50
 
@@ -218,4 +218,4 @@ Yesus menjawab, katanya: "Karena Aku berkata kepadamu: Aku melihat engkau di baw
 
 ## Yohanes 1:51
 
-Lalu kata-Nya kepada mereka: "Sesungguhnya Aku berkata kepadamu, sesungguhnya engkau akan melihat langit terbuka dan malaikat-malaikat Allah turun naik kepada Anak Manusia."
+Lalu kata-Nya kepada mereka: "Sesungguhnya Aku berkata kepadamu, sesungguhnya engkau akan melihat langit terbuka dan malaikat-malaikat Tuhan turun naik kepada Anak Manusia."

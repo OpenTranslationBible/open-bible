@@ -48,7 +48,7 @@ Karena seperti kain melekat pada pinggang seseorang, demikianlah Aku membuat sel
 
 ## Yeremia 13:12
 
-"Oleh karena itu, sampaikanlah firman ini kepada mereka: 'Inilah yang dikatakan Tuhan, Allah Israel: Setiap wadah harus diisi dengan anggur.' Dan jika mereka menjawab, 'Bukankah kita tahu bahwa setiap wadah harus diisi dengan anggur?'
+"Oleh karena itu, sampaikanlah firman ini kepada mereka: 'Inilah yang dikatakan Tuhan, Tuhan Israel: Setiap wadah harus diisi dengan anggur.' Dan jika mereka menjawab, 'Bukankah kita tahu bahwa setiap wadah harus diisi dengan anggur?'
 
 ## Yeremia 13:13
 
@@ -64,7 +64,7 @@ Dengarlah dan perhatikanlah ini, janganlah sombong, karena Tuhan telah berbicara
 
 ## Yeremia 13:16
 
-Berilah kemuliaan kepada Tuhan Allahmu sebelum Dia mendatangkan kegelapan dan sebelum kakimu tersandung di bukit yang gelap. Kamu berharap akan terang, tetapi Dia akan mengubahnya menjadi kegelapan yang dalam dan mengubahnya menjadi kegelapan yang tebal.
+Berilah kemuliaan kepada Tuhan Tuhanmu sebelum Dia mendatangkan kegelapan dan sebelum kakimu tersandung di bukit yang gelap. Kamu berharap akan terang, tetapi Dia akan mengubahnya menjadi kegelapan yang dalam dan mengubahnya menjadi kegelapan yang tebal.
 
 ## Yeremia 13:17
 

@@ -6,7 +6,7 @@ Ketika Anak Domba itu membuka meterai ketujuh, terjadilah keheningan di surga se
 
 ## Wahyu 8:2
 
-Lalu, aku melihat ketujuh malaikat yang berdiri di hadapan Allah, dan mereka diberi tujuh sangkakala.
+Lalu, aku melihat ketujuh malaikat yang berdiri di hadapan Tuhan, dan mereka diberi tujuh sangkakala.
 
 ## Wahyu 8:3
 
@@ -14,7 +14,7 @@ Seorang malaikat lain, yang memegang pedupaan emas, datang dan berdiri di depan 
 
 ## Wahyu 8:4
 
-Asap dupa itu, bersama dengan doa-doa orang-orang kudus, naik ke hadapan Allah dari tangan malaikat itu.
+Asap dupa itu, bersama dengan doa-doa orang-orang kudus, naik ke hadapan Tuhan dari tangan malaikat itu.
 
 ## Wahyu 8:5
 

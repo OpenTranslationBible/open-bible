@@ -39,7 +39,7 @@ Lebih banyak kepala keluarga ditemukan dari anak-anak Eleazar daripada dari anak
 
 Jadi mereka dibagi dengan undian, satu kelompok dengan yang lain,
 
-> karena para pejabat tempat kudus dan pejabat Allah berasal dari anak-anak Eleazar dan anak-anak Itamar.
+> karena para pejabat tempat kudus dan pejabat Tuhan berasal dari anak-anak Eleazar dan anak-anak Itamar.
 
 ---
 
@@ -143,7 +143,7 @@ Undian pertama diberikan kepada Yehoyarib,
 Inilah tugas mereka untuk pelayanan mereka  
 ketika mereka datang ke rumah Tuhan sesuai dengan peraturan yang diberikan kepada mereka melalui Harun ayah mereka,
 
-> seperti yang diperintahkan Tuhan Allah Israel kepadanya.
+> seperti yang diperintahkan Tuhan Tuhan Israel kepadanya.
 
 ---
 

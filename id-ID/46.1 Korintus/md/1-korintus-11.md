@@ -10,7 +10,7 @@ Saya memuji kamu karena mengingat saya dalam segala hal dan berpegang teguh pada
 
 ## 1 Korintus 11:3
 
-Saya ingin kamu mengerti bahwa Kristus adalah pemimpin setiap laki-laki, laki-laki adalah pemimpin seorang wanita, dan Allah adalah pemimpin Kristus.
+Saya ingin kamu mengerti bahwa Kristus adalah pemimpin setiap laki-laki, laki-laki adalah pemimpin seorang wanita, dan Tuhan adalah pemimpin Kristus.
 
 ## 1 Korintus 11:4
 
@@ -26,7 +26,7 @@ Sebab jika seorang wanita tidak menutupi kepalanya, dia juga harus memotong ramb
 
 ## 1 Korintus 11:7
 
-Seorang laki-laki tidak seharusnya menutupi kepalanya, karena dia adalah gambar dan kemuliaan Allah; tetapi wanita adalah kemuliaan laki-laki.
+Seorang laki-laki tidak seharusnya menutupi kepalanya, karena dia adalah gambar dan kemuliaan Tuhan; tetapi wanita adalah kemuliaan laki-laki.
 
 ## 1 Korintus 11:8
 
@@ -46,11 +46,11 @@ Namun, di dalam Tuhan, wanita tidak terpisah dari laki-laki, maupun laki-laki te
 
 ## 1 Korintus 11:12
 
-Sebab sama seperti wanita berasal dari laki-laki, demikian juga laki-laki dilahirkan melalui wanita; dan segala sesuatu berasal dari Allah.
+Sebab sama seperti wanita berasal dari laki-laki, demikian juga laki-laki dilahirkan melalui wanita; dan segala sesuatu berasal dari Tuhan.
 
 ## 1 Korintus 11:13
 
-Pertimbangkan ini untuk dirimu sendiri: apakah pantas bagi seorang wanita untuk berdoa kepada Allah dengan kepala tidak tertutup?
+Pertimbangkan ini untuk dirimu sendiri: apakah pantas bagi seorang wanita untuk berdoa kepada Tuhan dengan kepala tidak tertutup?
 
 ## 1 Korintus 11:14
 
@@ -62,7 +62,7 @@ tetapi jika seorang wanita memiliki rambut panjang, itu adalah kemuliaannya? Kar
 
 ## 1 Korintus 11:16
 
-Tetapi jika ada yang ingin berdebat, kami tidak memiliki kebiasaan lain, demikian juga gereja-gereja Allah.
+Tetapi jika ada yang ingin berdebat, kami tidak memiliki kebiasaan lain, demikian juga gereja-gereja Tuhan.
 
 ## 1 Korintus 11:17
 
@@ -74,7 +74,7 @@ Pertama-tama, ketika kamu berkumpul sebagai gereja, saya mendengar bahwa ada per
 
 ## 1 Korintus 11:19
 
-Memang, harus ada perbedaan di antara kamu untuk menunjukkan siapa di antara kamu yang mendapat persetujuan Allah.
+Memang, harus ada perbedaan di antara kamu untuk menunjukkan siapa di antara kamu yang mendapat persetujuan Tuhan.
 
 ## 1 Korintus 11:20
 
@@ -86,7 +86,7 @@ karena ketika kamu makan, masing-masing mendahului dengan makanannya sendiri; sa
 
 ## 1 Korintus 11:22
 
-Apa! Apakah kamu tidak memiliki rumah untuk makan dan minum? Atau apakah kamu meremehkan gereja Allah dan mempermalukan mereka yang tidak memiliki apa-apa? Apa yang harus saya katakan kepadamu? Haruskah saya memuji kamu? Dalam hal ini, saya tidak memuji kamu.
+Apa! Apakah kamu tidak memiliki rumah untuk makan dan minum? Atau apakah kamu meremehkan gereja Tuhan dan mempermalukan mereka yang tidak memiliki apa-apa? Apa yang harus saya katakan kepadamu? Haruskah saya memuji kamu? Dalam hal ini, saya tidak memuji kamu.
 
 ## 1 Korintus 11:23
 

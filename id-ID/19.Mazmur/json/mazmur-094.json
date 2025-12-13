@@ -1,193 +1,171 @@
 {
-    "book": "Mazmur",
-    "chapter": 94,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "> Tuhan, Allah yang membawa keadilan,",
-                "> Allah yang membawa keadilan, nyatakanlah diri-Mu!"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Bangkitlah, Hakim bumi,",
-                "> Berikanlah keadilan kepada orang-orang sombong."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Berapa lama lagi, Tuhan, orang fasik—",
-                "> Berapa lama lagi orang fasik akan menang?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Mereka mencurahkan kata-kata, mereka berbicara dengan kesombongan;",
-                "> Semua orang yang berbuat salah membanggakan diri."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Mereka menindas umat-Mu, Tuhan,",
-                "> Dan membawa kerugian kepada milik pusaka-Mu."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Mereka mengambil nyawa janda dan orang asing,",
-                "> Dan membunuh anak-anak yatim."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Mereka berkata, “Tuhan tidak melihat,",
-                "> Dan Allah Yakub tidak memperhatikan.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Perhatikanlah, hai orang-orang bodoh di antara umat;",
-                "> Dan kapan kamu akan mengerti, hai orang-orang bebal?"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Dia yang menciptakan telinga, apakah Dia tidak mendengar?",
-                "> Dia yang membentuk mata, apakah Dia tidak melihat?"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Dia yang mengajar bangsa-bangsa, apakah Dia tidak akan menghukum,",
-                "> Dia yang memberikan pengetahuan kepada manusia?"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Tuhan mengetahui pikiran manusia,",
-                "> Bahwa itu hanyalah nafas yang berlalu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Diberkatilah orang yang Engkau tegur, Tuhan,",
-                "> Dan yang Engkau ajar dari Hukum-Mu,"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Supaya Engkau dapat memberinya kelegaan dari hari-hari kesusahan,",
-                "> Sampai lubang digali bagi orang fasik."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Sebab Tuhan tidak akan meninggalkan umat-Nya,",
-                "> Dan tidak akan meninggalkan milik pusaka-Nya."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Sebab keadilan akan sekali lagi adil,",
-                "> Dan semua orang yang tulus hati akan mengejarnya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Siapa yang akan bangkit untukku melawan orang-orang jahat?",
-                "> Siapa yang akan berdiri bersamaku melawan mereka yang berbuat salah?"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Jika bukan Tuhan yang menjadi penopangku,",
-                "> Jiwaku akan segera diam dalam keheningan."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Jika aku berkata, “Kakiku tergelincir,”",
-                "> Kasih setia-Mu, Tuhan, akan menopangku."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Ketika pikiran cemas bertambah dalam diriku,",
-                "> Penghiburan-Mu membawa sukacita bagi jiwaku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Dapatkah takhta kehancuran dikaitkan dengan-Mu,",
-                "> Yang merencanakan kejahatan dengan ketetapan?"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Mereka berkumpul melawan nyawa orang benar",
-                "> Dan menghukum mati orang yang tidak bersalah."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Tetapi Tuhan telah menjadi tempat perlindunganku,",
-                "> Dan Allahku batu perlindungan bagiku."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> Dia telah mengembalikan kesalahan mereka atas mereka,",
-                "> Dan Dia akan menghancurkan mereka dalam kejahatan mereka;",
-                "> Tuhan Allah kita akan menghancurkan mereka."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 94,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "> Tuhan, Tuhan yang membawa keadilan,",
+        "> Tuhan yang membawa keadilan, nyatakanlah diri-Mu!"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": ["> Bangkitlah, Hakim bumi,", "> Berikanlah keadilan kepada orang-orang sombong."]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Berapa lama lagi, Tuhan, orang fasik—",
+        "> Berapa lama lagi orang fasik akan menang?"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Mereka mencurahkan kata-kata, mereka berbicara dengan kesombongan;",
+        "> Semua orang yang berbuat salah membanggakan diri."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Mereka menindas umat-Mu, Tuhan,",
+        "> Dan membawa kerugian kepada milik pusaka-Mu."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": ["> Mereka mengambil nyawa janda dan orang asing,", "> Dan membunuh anak-anak yatim."]
+    },
+    {
+      "verse": 7,
+      "text": ["> Mereka berkata, “Tuhan tidak melihat,", "> Dan Tuhan Yakub tidak memperhatikan.”"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Perhatikanlah, hai orang-orang bodoh di antara umat;",
+        "> Dan kapan kamu akan mengerti, hai orang-orang bebal?"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Dia yang menciptakan telinga, apakah Dia tidak mendengar?",
+        "> Dia yang membentuk mata, apakah Dia tidak melihat?"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Dia yang mengajar bangsa-bangsa, apakah Dia tidak akan menghukum,",
+        "> Dia yang memberikan pengetahuan kepada manusia?"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": ["> Tuhan mengetahui pikiran manusia,", "> Bahwa itu hanyalah nafas yang berlalu."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Diberkatilah orang yang Engkau tegur, Tuhan,",
+        "> Dan yang Engkau ajar dari Hukum-Mu,"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Supaya Engkau dapat memberinya kelegaan dari hari-hari kesusahan,",
+        "> Sampai lubang digali bagi orang fasik."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Sebab Tuhan tidak akan meninggalkan umat-Nya,",
+        "> Dan tidak akan meninggalkan milik pusaka-Nya."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Sebab keadilan akan sekali lagi adil,",
+        "> Dan semua orang yang tulus hati akan mengejarnya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Siapa yang akan bangkit untukku melawan orang-orang jahat?",
+        "> Siapa yang akan berdiri bersamaku melawan mereka yang berbuat salah?"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Jika bukan Tuhan yang menjadi penopangku,",
+        "> Jiwaku akan segera diam dalam keheningan."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Jika aku berkata, “Kakiku tergelincir,”",
+        "> Kasih setia-Mu, Tuhan, akan menopangku."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> Ketika pikiran cemas bertambah dalam diriku,",
+        "> Penghiburan-Mu membawa sukacita bagi jiwaku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Dapatkah takhta kehancuran dikaitkan dengan-Mu,",
+        "> Yang merencanakan kejahatan dengan ketetapan?"
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "> Mereka berkumpul melawan nyawa orang benar",
+        "> Dan menghukum mati orang yang tidak bersalah."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "> Tetapi Tuhan telah menjadi tempat perlindunganku,",
+        "> Dan Tuhanku batu perlindungan bagiku."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> Dia telah mengembalikan kesalahan mereka atas mereka,",
+        "> Dan Dia akan menghancurkan mereka dalam kejahatan mereka;",
+        "> Tuhan Tuhan kita akan menghancurkan mereka."
+      ]
+    }
+  ]
 }

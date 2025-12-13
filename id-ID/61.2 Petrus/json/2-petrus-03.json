@@ -1,115 +1,113 @@
 {
-    "book": "2 Petrus",
-    "chapter": 3,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Saudara-saudara yang terkasih, inilah surat kedua yang sekarang aku tulis kepadamu di mana aku membangkitkan pikiranmu yang tulus dengan cara mengingatkan,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "untuk mengingat kata-kata yang telah diucapkan sebelumnya oleh para nabi kudus dan perintah Tuhan dan Juruselamat yang diucapkan oleh rasul-rasulmu."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Pahamilah ini terlebih dahulu, bahwa pada hari-hari terakhir, pengejek akan muncul, mengikuti keinginan mereka sendiri,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "dan mempertanyakan, \"Di mana janji kedatangan-Nya? Sejak nenek moyang meninggal, segala sesuatu tetap seperti sejak awal penciptaan.\""
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Karena ketika mereka menyatakan ini, mereka mengabaikan bahwa oleh firman Allah langit telah ada sejak dahulu dan bumi dibentuk dari air dan oleh air,"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "melalui mana dunia pada waktu itu dihancurkan ketika dibanjiri air."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Tetapi oleh firman-Nya langit dan bumi yang sekarang ini disimpan untuk api, disimpan untuk hari penghakiman dan kebinasaan orang-orang fasik."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Namun, jangan lupakan satu kebenaran ini, saudara-saudara yang terkasih: bagi Tuhan, satu hari seperti seribu tahun, dan seribu tahun seperti satu hari."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Tuhan tidak menunda janji-Nya, seperti yang dianggap beberapa orang sebagai penundaan, tetapi bersabar dengan kamu, tidak ingin ada yang binasa, tetapi agar semua datang kepada pertobatan."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Tetapi hari Tuhan akan tiba seperti pencuri, ketika langit akan lenyap dengan gemuruh dan unsur-unsur akan habis oleh panas yang hebat, dan bumi serta segala karyanya akan terbuka."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Karena semua hal ini akan dihancurkan dengan cara ini, orang seperti apa seharusnya kamu dalam perilaku kudus dan kesalehan,"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "mengantisipasi dan mempercepat kedatangan hari Allah, karena langit akan terbakar dan unsur-unsur akan meleleh dengan panas yang hebat!"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Tetapi sesuai dengan janji-Nya, kita menantikan langit baru dan bumi baru, di mana kebenaran berdiam."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Karena itu, saudara-saudara yang terkasih, saat kamu menantikan hal-hal ini, berusahalah agar ditemukan oleh-Nya tanpa noda dan tanpa cela, dalam damai,"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "dan anggaplah kesabaran Tuhan kita sebagai keselamatan; seperti saudara kita yang terkasih Paulus, menurut hikmat yang diberikan kepadanya, menulis kepadamu,"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "seperti yang dilakukannya dalam semua suratnya, berbicara di dalamnya tentang hal-hal ini, di mana ada beberapa hal yang sulit dipahami, yang dipelintir oleh orang-orang yang tidak terpelajar dan tidak stabil, seperti yang mereka lakukan terhadap Kitab Suci lainnya, untuk kebinasaan mereka sendiri."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Karena itu, saudara-saudara yang terkasih, mengetahui hal ini sebelumnya, berjaga-jagalah agar kamu tidak disesatkan oleh kesalahan orang-orang yang tidak bertanggung jawab dan jatuh dari komitmenmu yang teguh,"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "tetapi teruslah bertumbuh dalam kasih karunia dan pengetahuan tentang Tuhan dan Juruselamat kita Yesus Kristus.",
-                "Bagi-Nya kemuliaan, sekarang dan selama-lamanya. Amin."
-            ]
-        }
-    ]
+  "book": "2 Petrus",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Saudara-saudara yang terkasih, inilah surat kedua yang sekarang aku tulis kepadamu di mana aku membangkitkan pikiranmu yang tulus dengan cara mengingatkan,"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "untuk mengingat kata-kata yang telah diucapkan sebelumnya oleh para nabi kudus dan perintah Tuhan dan Juruselamat yang diucapkan oleh rasul-rasulmu."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Pahamilah ini terlebih dahulu, bahwa pada hari-hari terakhir, pengejek akan muncul, mengikuti keinginan mereka sendiri,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "dan mempertanyakan, \"Di mana janji kedatangan-Nya? Sejak nenek moyang meninggal, segala sesuatu tetap seperti sejak awal penciptaan.\""
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Karena ketika mereka menyatakan ini, mereka mengabaikan bahwa oleh firman Tuhan langit telah ada sejak dahulu dan bumi dibentuk dari air dan oleh air,"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": ["melalui mana dunia pada waktu itu dihancurkan ketika dibanjiri air."]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Tetapi oleh firman-Nya langit dan bumi yang sekarang ini disimpan untuk api, disimpan untuk hari penghakiman dan kebinasaan orang-orang fasik."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Namun, jangan lupakan satu kebenaran ini, saudara-saudara yang terkasih: bagi Tuhan, satu hari seperti seribu tahun, dan seribu tahun seperti satu hari."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Tuhan tidak menunda janji-Nya, seperti yang dianggap beberapa orang sebagai penundaan, tetapi bersabar dengan kamu, tidak ingin ada yang binasa, tetapi agar semua datang kepada pertobatan."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Tetapi hari Tuhan akan tiba seperti pencuri, ketika langit akan lenyap dengan gemuruh dan unsur-unsur akan habis oleh panas yang hebat, dan bumi serta segala karyanya akan terbuka."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Karena semua hal ini akan dihancurkan dengan cara ini, orang seperti apa seharusnya kamu dalam perilaku kudus dan kesalehan,"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "mengantisipasi dan mempercepat kedatangan hari Tuhan, karena langit akan terbakar dan unsur-unsur akan meleleh dengan panas yang hebat!"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Tetapi sesuai dengan janji-Nya, kita menantikan langit baru dan bumi baru, di mana kebenaran berdiam."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Karena itu, saudara-saudara yang terkasih, saat kamu menantikan hal-hal ini, berusahalah agar ditemukan oleh-Nya tanpa noda dan tanpa cela, dalam damai,"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "dan anggaplah kesabaran Tuhan kita sebagai keselamatan; seperti saudara kita yang terkasih Paulus, menurut hikmat yang diberikan kepadanya, menulis kepadamu,"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "seperti yang dilakukannya dalam semua suratnya, berbicara di dalamnya tentang hal-hal ini, di mana ada beberapa hal yang sulit dipahami, yang dipelintir oleh orang-orang yang tidak terpelajar dan tidak stabil, seperti yang mereka lakukan terhadap Kitab Suci lainnya, untuk kebinasaan mereka sendiri."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Karena itu, saudara-saudara yang terkasih, mengetahui hal ini sebelumnya, berjaga-jagalah agar kamu tidak disesatkan oleh kesalahan orang-orang yang tidak bertanggung jawab dan jatuh dari komitmenmu yang teguh,"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "tetapi teruslah bertumbuh dalam kasih karunia dan pengetahuan tentang Tuhan dan Juruselamat kita Yesus Kristus.",
+        "Bagi-Nya kemuliaan, sekarang dan selama-lamanya. Amin."
+      ]
+    }
+  ]
 }

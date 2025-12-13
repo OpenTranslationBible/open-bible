@@ -17,7 +17,7 @@ Lalu Elifas, orang Teman, berbicara:
 ## Ayub 15:4
 
 > Engkau memang mengurangi rasa hormat
-> dan menghalangi meditasi di hadapan Allah.
+> dan menghalangi meditasi di hadapan Tuhan.
 
 ## Ayub 15:5
 
@@ -38,7 +38,7 @@ Lalu Elifas, orang Teman, berbicara:
 
 ## Ayub 15:8
 
-> Apakah engkau mendengarkan dalam dewan rahasia Allah?
+> Apakah engkau mendengarkan dalam dewan rahasia Tuhan?
 > Apakah engkau mengklaim kebijaksanaan eksklusif?
 
 ## Ayub 15:9
@@ -53,7 +53,7 @@ Lalu Elifas, orang Teman, berbicara:
 
 ## Ayub 15:11
 
-> Apakah penghiburan Allah terlalu kecil bagimu,
+> Apakah penghiburan Tuhan terlalu kecil bagimu,
 > atau kata lembut yang diucapkan kepadamu?
 
 ## Ayub 15:12
@@ -63,7 +63,7 @@ Lalu Elifas, orang Teman, berbicara:
 
 ## Ayub 15:13
 
-> sehingga engkau membalikkan rohmu melawan Allah
+> sehingga engkau membalikkan rohmu melawan Tuhan
 > dan mengucapkan kata-kata seperti itu?
 
 ## Ayub 15:14
@@ -125,7 +125,7 @@ Lalu Elifas, orang Teman, berbicara:
 
 ## Ayub 15:25
 
-> karena ia telah mengulurkan tangannya melawan Allah,
+> karena ia telah mengulurkan tangannya melawan Tuhan,
 > dan menunjukkan kesombongan terhadap Yang Mahakuasa.
 
 ## Ayub 15:26
@@ -154,7 +154,7 @@ Lalu Elifas, orang Teman, berbicara:
 
 > Ia tidak akan menemukan perlindungan dari kegelapan;
 > api akan mengeringkan tunasnya,
-> dan nafas mulut Allah akan membawanya pergi.
+> dan nafas mulut Tuhan akan membawanya pergi.
 
 ## Ayub 15:31
 

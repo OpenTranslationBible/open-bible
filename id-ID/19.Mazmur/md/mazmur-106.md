@@ -82,7 +82,7 @@
 ## Mazmur 106:14
 
 > Tetapi menjadi serakah di padang gurun,  
-> Dan mencobai Allah di padang belantara.
+> Dan mencobai Tuhan di padang belantara.
 
 ## Mazmur 106:15
 
@@ -118,7 +118,7 @@
 
 ## Mazmur 106:21
 
-> Mereka melupakan Allah, Juru Selamat mereka,  
+> Mereka melupakan Tuhan, Juru Selamat mereka,  
 > Yang telah melakukan hal-hal besar di Mesir,
 
 ## Mazmur 106:22
@@ -261,7 +261,7 @@
 
 ## Mazmur 106:47
 
-> Selamatkanlah kami, Tuhan Allah kami,  
+> Selamatkanlah kami, Tuhan Tuhan kami,  
 > Dan kumpulkanlah kami dari bangsa-bangsa,  
 > Untuk bersyukur kepada nama-Mu yang kudus  
 > Dan bermegah dalam pujian-Mu.
@@ -270,7 +270,7 @@
 
 ## Mazmur 106:48
 
-> Terpujilah Tuhan, Allah Israel,  
+> Terpujilah Tuhan, Tuhan Israel,  
 > Dari kekekalan sampai kekekalan.
 
 > Dan seluruh umat akan berkata, “Amin.”

@@ -6,7 +6,7 @@ Aku ingin kamu mengerti betapa besar perjuangan yang aku miliki untuk kamu dan u
 
 ## Kolose 2:2
 
-Tujuanku adalah agar hati mereka dapat terhibur, bersatu dalam kasih, dan agar mereka dapat mencapai semua kekayaan yang datang dari kepastian penuh pemahaman, yang mengarah pada pengetahuan sejati tentang misteri Allah, yaitu Kristus sendiri,
+Tujuanku adalah agar hati mereka dapat terhibur, bersatu dalam kasih, dan agar mereka dapat mencapai semua kekayaan yang datang dari kepastian penuh pemahaman, yang mengarah pada pengetahuan sejati tentang misteri Tuhan, yaitu Kristus sendiri,
 
 ## Kolose 2:3
 

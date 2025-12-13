@@ -58,4 +58,4 @@ Mahkota itu akan menjadi peringatan di bait Tuhan untuk Helem, Tobia, Yedaya, da
 
 ## Zakharia 6:15
 
-Mereka yang jauh akan datang dan membangun bait Tuhan, dan kamu akan tahu bahwa Tuhan semesta alam telah mengutus aku kepadamu. Ini akan terjadi jika kamu dengan tekun menaati Tuhan Allahmu.
+Mereka yang jauh akan datang dan membangun bait Tuhan, dan kamu akan tahu bahwa Tuhan semesta alam telah mengutus aku kepadamu. Ini akan terjadi jika kamu dengan tekun menaati Tuhan Tuhanmu.

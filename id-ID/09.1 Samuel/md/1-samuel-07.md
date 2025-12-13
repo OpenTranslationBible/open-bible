@@ -10,7 +10,7 @@ Tabut itu tetap di Kiryat-Yearim untuk waktu yang lama—dua puluh tahun lamanya
 
 ## 1 Samuel 7:3
 
-Samuel berkata kepada seluruh bangsa Israel, “Jika kamu benar-benar kembali kepada Tuhan dengan segenap hatimu, maka singkirkanlah allah asing dan para Asytoret dari antara kamu. Berikanlah dirimu kepada Tuhan dan layani Dia saja, maka Dia akan melepaskan kamu dari tangan orang Filistin.”
+Samuel berkata kepada seluruh bangsa Israel, “Jika kamu benar-benar kembali kepada Tuhan dengan segenap hatimu, maka singkirkanlah Tuhan asing dan para Asytoret dari antara kamu. Berikanlah dirimu kepada Tuhan dan layani Dia saja, maka Dia akan melepaskan kamu dari tangan orang Filistin.”
 
 ## 1 Samuel 7:4
 
@@ -33,7 +33,7 @@ Ketika orang Filistin mendengar bahwa Israel telah berkumpul di Mizpa, para peng
 
 ## 1 Samuel 7:8
 
-Mereka berkata kepada Samuel, “Jangan berhenti berseru kepada Tuhan, Allah kita, untuk kami, supaya Dia dapat menyelamatkan kami dari orang Filistin.”
+Mereka berkata kepada Samuel, “Jangan berhenti berseru kepada Tuhan, Tuhan kita, untuk kami, supaya Dia dapat menyelamatkan kami dari orang Filistin.”
 
 ## 1 Samuel 7:9
 

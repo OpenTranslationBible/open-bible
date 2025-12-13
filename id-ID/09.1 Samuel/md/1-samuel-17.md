@@ -109,7 +109,7 @@ Orang-orang Israel berkata, "Apakah kamu melihat orang ini yang datang? Pasti ia
 
 ## 1 Samuel 17:26
 
-Kemudian Daud berbicara kepada orang-orang yang berdiri di dekatnya, berkata, "Apa yang akan dilakukan untuk orang yang membunuh orang Filistin ini dan menghapus aib ini dari Israel? Karena siapakah orang Filistin yang tidak bersunat ini, sehingga ia menantang tentara Allah yang hidup?"
+Kemudian Daud berbicara kepada orang-orang yang berdiri di dekatnya, berkata, "Apa yang akan dilakukan untuk orang yang membunuh orang Filistin ini dan menghapus aib ini dari Israel? Karena siapakah orang Filistin yang tidak bersunat ini, sehingga ia menantang tentara Tuhan yang hidup?"
 
 ## 1 Samuel 17:27
 
@@ -151,7 +151,7 @@ aku pergi mengejarnya dan memukulnya, dan menyelamatkan anak domba itu dari mulu
 
 ## 1 Samuel 17:36
 
-Hambamu telah mengalahkan baik singa maupun beruang; dan orang Filistin yang tidak bersunat ini akan seperti salah satu dari mereka, karena ia telah menantang tentara Allah yang hidup."
+Hambamu telah mengalahkan baik singa maupun beruang; dan orang Filistin yang tidak bersunat ini akan seperti salah satu dari mereka, karena ia telah menantang tentara Tuhan yang hidup."
 
 ## 1 Samuel 17:37
 
@@ -187,7 +187,7 @@ Ketika orang Filistin itu melihat dan melihat Daud, ia meremehkannya, karena ia 
 ## 1 Samuel 17:43
 
 Orang Filistin itu berkata kepada Daud, "Apakah aku ini anjing, sehingga kamu datang kepadaku dengan tongkat?"  
-Dan ia mengutuk Daud demi allah-allahnya.
+Dan ia mengutuk Daud demi Tuhan-Tuhannya.
 
 ## 1 Samuel 17:44
 
@@ -201,7 +201,7 @@ Kemudian Daud berkata kepada orang Filistin itu,
 
 > "Kamu datang kepadaku dengan pedang, tombak, dan lembing,  
 > tetapi aku datang kepadamu dalam nama Tuhan semesta alam,  
-> Allah tentara Israel, yang telah kamu tantang.
+> Tuhan tentara Israel, yang telah kamu tantang.
 
 ## 1 Samuel 17:46
 
@@ -209,7 +209,7 @@ Kemudian Daud berkata kepada orang Filistin itu,
 > dan aku akan memukulmu dan memenggal kepalamu darimu.  
 > Dan aku akan memberikan mayat tentara orang Filistin hari ini  
 > kepada burung-burung di langit dan binatang-binatang liar di bumi,  
-> supaya seluruh bumi tahu bahwa ada Allah di Israel,
+> supaya seluruh bumi tahu bahwa ada Tuhan di Israel,
 
 ## 1 Samuel 17:47
 

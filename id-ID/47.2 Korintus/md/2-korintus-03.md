@@ -10,15 +10,15 @@ Kamu adalah surat kami, tertulis dalam hati kami, dikenal dan dipahami oleh semu
 
 ## 2 Korintus 3:3
 
-Menunjukkan dirimu sebagai surat Kristus, disampaikan oleh kami, ditulis bukan dengan tinta tetapi dengan Roh dari Allah yang hidup, bukan pada loh-loh batu tetapi pada loh-loh hati manusia.
+Menunjukkan dirimu sebagai surat Kristus, disampaikan oleh kami, ditulis bukan dengan tinta tetapi dengan Roh dari Tuhan yang hidup, bukan pada loh-loh batu tetapi pada loh-loh hati manusia.
 
 ## 2 Korintus 3:4
 
-Inilah keyakinan yang kami miliki di hadapan Allah melalui Kristus.
+Inilah keyakinan yang kami miliki di hadapan Tuhan melalui Kristus.
 
 ## 2 Korintus 3:5
 
-Bukan bahwa kami cukup memadai dalam diri kami sendiri untuk mengklaim sesuatu sebagai berasal dari kami, tetapi kecukupan kami berasal dari Allah,
+Bukan bahwa kami cukup memadai dalam diri kami sendiri untuk mengklaim sesuatu sebagai berasal dari kami, tetapi kecukupan kami berasal dari Tuhan,
 
 ## 2 Korintus 3:6
 

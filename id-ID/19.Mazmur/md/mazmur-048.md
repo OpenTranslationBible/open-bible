@@ -5,7 +5,7 @@
 ## Mazmur 48:1
 
 > Besarlah Tuhan dan sangat terpuji  
-> Di kota Allah kita, gunung-Nya yang kudus.
+> Di kota Tuhan kita, gunung-Nya yang kudus.
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Mazmur 48:3
 
-> Allah telah menyatakan diri-Nya sebagai tempat perlindungan  
+> Tuhan telah menyatakan diri-Nya sebagai tempat perlindungan  
 > Di dalam istananya.
 
 ---
@@ -47,8 +47,8 @@
 ## Mazmur 48:8
 
 > Seperti yang telah kami dengar, demikianlah kami melihat  
-> Di kota Tuhan semesta alam, di kota Allah kita;  
-> Allah akan menegakkannya untuk selama-lamanya.
+> Di kota Tuhan semesta alam, di kota Tuhan kita;  
+> Tuhan akan menegakkannya untuk selama-lamanya.
 
 > Sela
 
@@ -56,12 +56,12 @@
 
 ## Mazmur 48:9
 
-> Kami telah merenungkan kasih setia-Mu, ya Allah,  
+> Kami telah merenungkan kasih setia-Mu, ya Tuhan,  
 > Di tengah-tengah bait-Mu.
 
 ## Mazmur 48:10
 
-> Seperti nama-Mu termasyhur, ya Allah,  
+> Seperti nama-Mu termasyhur, ya Tuhan,  
 > Demikianlah pujian-Mu di seluruh bumi;  
 > Tangan kanan-Mu penuh dengan kebenaran.
 
@@ -86,5 +86,5 @@
 
 ## Mazmur 48:14
 
-> Sebab Allah ini adalah Allah kita untuk selama-lamanya;  
+> Sebab Tuhan ini adalah Tuhan kita untuk selama-lamanya;  
 > Dia akan membimbing kita bahkan sampai mati.

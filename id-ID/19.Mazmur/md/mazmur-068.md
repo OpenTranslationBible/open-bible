@@ -4,36 +4,36 @@
 
 ## Mazmur 68:1
 
-> Allah bangkit, musuh-musuh-Nya tercerai-berai,  
+> Tuhan bangkit, musuh-musuh-Nya tercerai-berai,  
 > Dan orang-orang yang membenci-Nya lari dari hadapan-Nya.
 
 ## Mazmur 68:2
 
 > Seperti asap dihembuskan, demikian Engkau menghembuskan mereka;  
 > Seperti lilin meleleh di depan api,  
-> Demikian orang-orang fasik binasa di hadapan Allah.
+> Demikian orang-orang fasik binasa di hadapan Tuhan.
 
 ## Mazmur 68:3
 
-> Tetapi orang-orang benar bersukacita; mereka bersorak-sorai di hadapan Allah,  
+> Tetapi orang-orang benar bersukacita; mereka bersorak-sorai di hadapan Tuhan,  
 > Ya, mereka bersukacita dengan kegembiraan.
 
 ---
 
 ## Mazmur 68:4
 
-> Bernyanyilah bagi Allah, pujilah nama-Nya;  
+> Bernyanyilah bagi Tuhan, pujilah nama-Nya;  
 > Tinggikanlah Dia yang berkendara melalui padang gurun,  
 > Nama-Nya adalah Tuhan, dan bersukacitalah di hadapan-Nya.
 
 ## Mazmur 68:5
 
 > Pelindung anak yatim dan pembela janda-janda,  
-> Adalah Allah di tempat kediaman-Nya yang kudus.
+> Adalah Tuhan di tempat kediaman-Nya yang kudus.
 
 ## Mazmur 68:6
 
-> Allah menyediakan rumah bagi mereka yang sendirian;  
+> Tuhan menyediakan rumah bagi mereka yang sendirian;  
 > Dia memimpin para tawanan ke dalam kemakmuran,  
 > Tetapi orang-orang pemberontak tinggal di tanah yang kering.
 
@@ -41,7 +41,7 @@
 
 ## Mazmur 68:7
 
-> Allah, ketika Engkau berjalan di depan umat-Mu,  
+> Tuhan, ketika Engkau berjalan di depan umat-Mu,  
 > Ketika Engkau berarak melalui padang gurun,
 
 > Sela
@@ -49,18 +49,18 @@
 ## Mazmur 68:8
 
 > Bumi bergetar;  
-> Langit juga mencurahkan hujan di hadapan Allah;  
-> Gunung Sinai bergetar di hadapan Allah, Allah Israel.
+> Langit juga mencurahkan hujan di hadapan Tuhan;  
+> Gunung Sinai bergetar di hadapan Tuhan, Tuhan Israel.
 
 ## Mazmur 68:9
 
-> Engkau mengirimkan hujan yang berlimpah, Allah;  
+> Engkau mengirimkan hujan yang berlimpah, Tuhan;  
 > Engkau memulihkan milik pusaka-Mu ketika lelah.
 
 ## Mazmur 68:10
 
 > Umat-Mu menetap di dalamnya;  
-> Dalam kebaikan-Mu Engkau menyediakan bagi orang yang membutuhkan, Allah.
+> Dalam kebaikan-Mu Engkau menyediakan bagi orang yang membutuhkan, Tuhan.
 
 ---
 
@@ -95,12 +95,12 @@
 ## Mazmur 68:16
 
 > Mengapa kamu memandang dengan iri, hai gunung-gunung yang kasar,  
-> Pada gunung yang dipilih Allah untuk tempat kediaman-Nya?  
+> Pada gunung yang dipilih Tuhan untuk tempat kediaman-Nya?  
 > Sesungguhnya, Tuhan akan tinggal di sana selamanya.
 
 ## Mazmur 68:17
 
-> Kereta-kereta Allah tak terhitung banyaknya, ribuan dan ribuan;  
+> Kereta-kereta Tuhan tak terhitung banyaknya, ribuan dan ribuan;  
 > Tuhan ada di antara mereka seperti di Sinai, dalam kekudusan.
 
 ## Mazmur 68:18
@@ -108,25 +108,25 @@
 > Engkau telah naik ke tempat tinggi, Engkau telah membawa tawanan dalam kereta-Mu;  
 > Engkau telah menerima pemberian dari manusia,  
 > Bahkan dari orang-orang pemberontak,  
-> Agar Tuhan Allah dapat tinggal di sana.
+> Agar Tuhan Tuhan dapat tinggal di sana.
 
 ---
 
 ## Mazmur 68:19
 
 > Terpujilah Tuhan, yang setiap hari menanggung beban kita,  
-> Allah yang menjadi keselamatan kita.
+> Tuhan yang menjadi keselamatan kita.
 
 > Sela
 
 ## Mazmur 68:20
 
-> Allah kita adalah Allah yang menyelamatkan;  
+> Tuhan kita adalah Tuhan yang menyelamatkan;  
 > Kepada Tuhan Yang Mahatinggi milik jalan-jalan pelarian dari maut.
 
 ## Mazmur 68:21
 
-> Allah pasti akan meremukkan kepala musuh-musuh-Nya,  
+> Tuhan pasti akan meremukkan kepala musuh-musuh-Nya,  
 > Mahkota berbulu dari mereka yang terus berbuat dosa.
 
 ## Mazmur 68:22
@@ -143,8 +143,8 @@
 
 ## Mazmur 68:24
 
-> Mereka telah menyaksikan perarakan-Mu, Allah,  
-> Perarakan Allahku, Rajaku, ke dalam tempat kudus.
+> Mereka telah menyaksikan perarakan-Mu, Tuhan,  
+> Perarakan Tuhanku, Rajaku, ke dalam tempat kudus.
 
 ## Mazmur 68:25
 
@@ -153,7 +153,7 @@
 
 ## Mazmur 68:26
 
-> Berkatilah Allah di dalam pertemuan-pertemuan,  
+> Berkatilah Tuhan di dalam pertemuan-pertemuan,  
 > Tuhan, kamu yang berasal dari mata air Israel.
 
 ## Mazmur 68:27
@@ -166,8 +166,8 @@
 
 ## Mazmur 68:28
 
-> Allahmu telah menetapkan kekuatanmu;  
-> Tunjukkanlah kuasa-Mu, Allah, Engkau yang telah bertindak atas nama kami.
+> Tuhanmu telah menetapkan kekuatanmu;  
+> Tunjukkanlah kuasa-Mu, Tuhan, Engkau yang telah bertindak atas nama kami.
 
 ## Mazmur 68:29
 
@@ -184,13 +184,13 @@
 ## Mazmur 68:31
 
 > Utusan-utusan akan datang dari Mesir;  
-> Kush akan segera mengulurkan tangannya kepada Allah.
+> Kush akan segera mengulurkan tangannya kepada Tuhan.
 
 ---
 
 ## Mazmur 68:32
 
-> Bernyanyilah bagi Allah, hai kerajaan-kerajaan di bumi,  
+> Bernyanyilah bagi Tuhan, hai kerajaan-kerajaan di bumi,  
 > Bernyanyilah pujian bagi Tuhan,
 
 > Sela
@@ -202,12 +202,12 @@
 
 ## Mazmur 68:34
 
-> Berikanlah kuasa kepada Allah;  
+> Berikanlah kuasa kepada Tuhan;  
 > Kemegahan-Nya ada di atas Israel,  
 > Dan kekuatan-Nya ada di langit.
 
 ## Mazmur 68:35
 
-> Allah, Engkau menakjubkan dari tempat kudus-Mu.  
-> Allah Israel sendiri memberikan kekuatan dan kuasa kepada umat-Nya.  
-> Terpujilah Allah!
+> Tuhan, Engkau menakjubkan dari tempat kudus-Mu.  
+> Tuhan Israel sendiri memberikan kekuatan dan kuasa kepada umat-Nya.  
+> Terpujilah Tuhan!

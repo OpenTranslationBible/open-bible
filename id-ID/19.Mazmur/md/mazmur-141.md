@@ -51,7 +51,7 @@
 
 ## Mazmur 141:8
 
-> Karena mataku tertuju kepada-Mu, Allah Tuhan;  
+> Karena mataku tertuju kepada-Mu, Tuhan Tuhan;  
 > Kepada-Mu aku berlindung, jangan tinggalkan jiwaku tanpa pertahanan.
 
 ## Mazmur 141:9

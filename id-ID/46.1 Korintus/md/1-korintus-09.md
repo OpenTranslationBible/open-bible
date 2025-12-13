@@ -34,7 +34,7 @@ Aku tidak berbicara hal-hal ini menurut penilaian manusia, bukan? Atau apakah Hu
 
 ## 1 Korintus 9:9
 
-Karena ada tertulis dalam Hukum Musa: "Janganlah engkau memasang penutup mulut pada lembu yang sedang mengirik." Apakah Allah hanya peduli tentang lembu?
+Karena ada tertulis dalam Hukum Musa: "Janganlah engkau memasang penutup mulut pada lembu yang sedang mengirik." Apakah Tuhan hanya peduli tentang lembu?
 
 ## 1 Korintus 9:10
 
@@ -82,7 +82,7 @@ Bagi orang Yahudi aku menjadi seperti orang Yahudi, agar aku dapat memperoleh or
 
 ## 1 Korintus 9:21
 
-Bagi mereka yang tanpa Hukum, seperti tanpa Hukum, meskipun tidak tanpa hukum Allah tetapi di bawah hukum Kristus, agar aku dapat memperoleh mereka yang tanpa Hukum.
+Bagi mereka yang tanpa Hukum, seperti tanpa Hukum, meskipun tidak tanpa hukum Tuhan tetapi di bawah hukum Kristus, agar aku dapat memperoleh mereka yang tanpa Hukum.
 
 ## 1 Korintus 9:22
 

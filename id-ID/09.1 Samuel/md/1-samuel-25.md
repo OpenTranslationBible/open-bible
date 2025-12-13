@@ -158,7 +158,7 @@ dan kejahatan tidak akan ditemukan padamu sepanjang hidupmu.
 ## 1 Samuel 25:29
 
 Dan ketika seseorang bangkit untuk mengejarmu dan mencari nyawamu,  
-nyawa tuanku akan terikat dalam ikatan kehidupan dengan Tuhan, Allahmu;  
+nyawa tuanku akan terikat dalam ikatan kehidupan dengan Tuhan, Tuhanmu;  
 tetapi nyawa musuh-musuhmu akan Dia lemparkan seperti dari kantong umban.
 
 ## 1 Samuel 25:30
@@ -177,7 +177,7 @@ Ketika Tuhan berbuat baik kepada tuanku, ingatlah hambamu.”
 ## 1 Samuel 25:32
 
 Kemudian Daud berkata kepada Abigail,  
-“Diberkatilah Tuhan, Allah Israel, yang mengirimmu hari ini untuk bertemu denganku,
+“Diberkatilah Tuhan, Tuhan Israel, yang mengirimmu hari ini untuk bertemu denganku,
 
 ## 1 Samuel 25:33
 
@@ -187,7 +187,7 @@ dan dari membalas dendam dengan tanganku sendiri.
 
 ## 1 Samuel 25:34
 
-Namun demikian, demi Tuhan, Allah Israel, yang telah menahan aku dari menyakitimu,  
+Namun demikian, demi Tuhan, Tuhan Israel, yang telah menahan aku dari menyakitimu,  
 jika engkau tidak segera datang menemuiku,  
 pasti pada pagi hari tidak akan ada yang tersisa bagi Nabal sebanyak satu laki-laki pun.”
 

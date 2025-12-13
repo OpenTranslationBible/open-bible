@@ -82,7 +82,7 @@
 ## Mazmur 38:15
 
 > Sebab aku menunggu Engkau, Tuhan;  
-> Engkau akan menjawab, Tuhan, Allahku.
+> Engkau akan menjawab, Tuhan, Tuhanku.
 
 ## Mazmur 38:16
 
@@ -116,7 +116,7 @@
 ## Mazmur 38:21
 
 > Jangan tinggalkan aku, Tuhan;  
-> Allahku, jangan jauh dariku!
+> Tuhanku, jangan jauh dariku!
 
 ## Mazmur 38:22
 

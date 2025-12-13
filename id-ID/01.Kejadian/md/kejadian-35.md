@@ -2,7 +2,7 @@
 
 ## Kejadian 35:1
 
-Kemudian Allah memerintahkan Yakub, “Bangunlah, pergilah ke Betel dan tinggallah di sana, dan dirikanlah sebuah mezbah di sana bagi Allah, yang menampakkan diri kepadamu ketika engkau melarikan diri dari saudaramu Esau.”
+Kemudian Tuhan memerintahkan Yakub, “Bangunlah, pergilah ke Betel dan tinggTuhan di sana, dan dirikanlah sebuah mezbah di sana bagi Tuhan, yang menampakkan diri kepadamu ketika engkau melarikan diri dari saudaramu Esau.”
 
 ## Kejadian 35:2
 
@@ -10,7 +10,7 @@ Maka Yakub berkata kepada keluarganya dan semua yang bersama dia, “Singkirkanl
 
 ## Kejadian 35:3
 
-“Marilah kita bangun dan pergi ke Betel, di mana aku akan mendirikan sebuah mezbah bagi Allah, yang menjawab aku pada waktu kesesakanku dan yang telah menyertai aku ke mana pun aku pergi.”
+“Marilah kita bangun dan pergi ke Betel, di mana aku akan mendirikan sebuah mezbah bagi Tuhan, yang menjawab aku pada waktu kesesakanku dan yang telah menyertai aku ke mana pun aku pergi.”
 
 ## Kejadian 35:4
 
@@ -18,7 +18,7 @@ Mereka menyerahkan kepada Yakub semua dewa asing yang mereka miliki dan anting-a
 
 ## Kejadian 35:5
 
-Ketika mereka berangkat, ketakutan besar dari Allah menimpa kota-kota di sekeliling mereka, sehingga tidak ada yang mengejar anak-anak Yakub.
+Ketika mereka berangkat, ketakutan besar dari Tuhan menimpa kota-kota di sekeliling mereka, sehingga tidak ada yang mengejar anak-anak Yakub.
 
 ## Kejadian 35:6
 
@@ -26,7 +26,7 @@ Yakub dan semua orang yang bersamanya tiba di Luz (yaitu, Betel) di tanah Kanaan
 
 ## Kejadian 35:7
 
-Ia mendirikan sebuah mezbah di sana dan menamai tempat itu El-betel, karena di sanalah Allah telah menampakkan diri kepadanya ketika ia melarikan diri dari saudaranya.
+Ia mendirikan sebuah mezbah di sana dan menamai tempat itu El-betel, karena di sanalah Tuhan telah menampakkan diri kepadanya ketika ia melarikan diri dari saudaranya.
 
 ## Kejadian 35:8
 
@@ -34,15 +34,15 @@ Sekarang Debora, inang pengasuh Ribka, meninggal dan dikuburkan di bawah pohon t
 
 ## Kejadian 35:9
 
-Allah sekali lagi menampakkan diri kepada Yakub setelah ia kembali dari Padan-Aram, dan Dia memberkatinya.
+Tuhan sekali lagi menampakkan diri kepada Yakub setelah ia kembali dari Padan-Aram, dan Dia memberkatinya.
 
 ## Kejadian 35:10
 
-Allah berkata kepadanya, “Namamu adalah Yakub, tetapi engkau tidak akan lagi disebut Yakub; Israel akan menjadi namamu.” Maka Dia menamainya Israel.
+Tuhan berkata kepadanya, “Namamu adalah Yakub, tetapi engkau tidak akan lagi disebut Yakub; Israel akan menjadi namamu.” Maka Dia menamainya Israel.
 
 ## Kejadian 35:11
 
-Allah juga berkata kepadanya, “Akulah Allah Yang Mahakuasa; beranakcuculah dan bertambah banyak. Suatu bangsa dan sekumpulan bangsa-bangsa akan berasal darimu, dan raja-raja akan muncul darimu.”
+Tuhan juga berkata kepadanya, “Akulah Tuhan Yang Mahakuasa; beranakcuculah dan bertambah banyak. Suatu bangsa dan sekumpulan bangsa-bangsa akan berasal darimu, dan raja-raja akan muncul darimu.”
 
 ## Kejadian 35:12
 
@@ -50,15 +50,15 @@ Allah juga berkata kepadanya, “Akulah Allah Yang Mahakuasa; beranakcuculah dan
 
 ## Kejadian 35:13
 
-Kemudian Allah meninggalkannya di tempat di mana Dia telah berbicara dengannya.
+Kemudian Tuhan meninggalkannya di tempat di mana Dia telah berbicara dengannya.
 
 ## Kejadian 35:14
 
-Yakub mendirikan sebuah tugu batu di tempat di mana Allah telah berbicara dengannya, dan ia menuangkan persembahan minuman di atasnya dan juga menuangkan minyak di atasnya.
+Yakub mendirikan sebuah tugu batu di tempat di mana Tuhan telah berbicara dengannya, dan ia menuangkan persembahan minuman di atasnya dan juga menuangkan minyak di atasnya.
 
 ## Kejadian 35:15
 
-Yakub menamai tempat di mana Allah telah berbicara dengannya Betel.
+Yakub menamai tempat di mana Tuhan telah berbicara dengannya Betel.
 
 ## Kejadian 35:16
 

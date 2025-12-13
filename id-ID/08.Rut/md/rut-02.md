@@ -48,7 +48,7 @@ Boas menjawab, “Aku telah diberitahu sepenuhnya tentang semua yang engkau laku
 
 ## Rut 2:12
 
-Kiranya Tuhan membalas perbuatanmu. Kiranya engkau menerima upah penuh dari Tuhan, Allah Israel, di bawah sayap-Nya engkau telah berlindung.”
+Kiranya Tuhan membalas perbuatanmu. Kiranya engkau menerima upah penuh dari Tuhan, Tuhan Israel, di bawah sayap-Nya engkau telah berlindung.”
 
 ## Rut 2:13
 

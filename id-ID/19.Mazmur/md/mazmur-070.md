@@ -4,7 +4,7 @@
 
 ## Mazmur 70:1
 
-> Ya Allah, segeralah menyelamatkan aku;  
+> Ya Tuhan, segeralah menyelamatkan aku;  
 > Tuhan, segeralah menolong aku!
 
 ---
@@ -23,13 +23,13 @@
 
 > Biarlah semua yang mencari Engkau bersukacita dan bergembira dalam Engkau;  
 > Dan biarlah mereka yang mencintai keselamatan-Mu terus berkata,  
-> “Biarlah Allah ditinggikan!”
+> “Biarlah Tuhan ditinggikan!”
 
 ---
 
 ## Mazmur 70:5
 
 > Tetapi aku ini tertindas dan miskin;  
-> Segeralah datang kepadaku, ya Allah!  
+> Segeralah datang kepadaku, ya Tuhan!  
 > Engkaulah penolongku dan penyelamatku;  
 > Tuhan, janganlah berlambat.

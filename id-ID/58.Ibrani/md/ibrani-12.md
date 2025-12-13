@@ -6,7 +6,7 @@ Karena itu, karena kita dikelilingi oleh awan saksi yang begitu besar, marilah k
 
 ## Ibrani 12:2
 
-sambil memandang kepada Yesus, pencipta dan penyempurna iman kita. Karena sukacita yang disediakan bagi-Nya, Ia menanggung salib, mengabaikan kehinaannya, dan duduk di sebelah kanan takhta Allah.
+sambil memandang kepada Yesus, pencipta dan penyempurna iman kita. Karena sukacita yang disediakan bagi-Nya, Ia menanggung salib, mengabaikan kehinaannya, dan duduk di sebelah kanan takhta Tuhan.
 
 ## Ibrani 12:3
 
@@ -30,7 +30,7 @@ Dan sudahkah kamu lupa akan nasihat yang berbicara kepada kamu sebagai anak-anak
 
 ## Ibrani 12:7
 
-Bertahanlah dalam kesulitan sebagai disiplin; Allah memperlakukan kamu seperti anak-anak. Sebab anak mana yang tidak didisiplin oleh ayahnya?
+Bertahanlah dalam kesulitan sebagai disiplin; Tuhan memperlakukan kamu seperti anak-anak. Sebab anak mana yang tidak didisiplin oleh ayahnya?
 
 ## Ibrani 12:8
 
@@ -42,7 +42,7 @@ Lebih dari itu, kita semua memiliki ayah duniawi yang mendisiplin kita dan kita 
 
 ## Ibrani 12:10
 
-Mereka mendisiplin kita untuk waktu yang singkat sesuai dengan apa yang mereka anggap baik; tetapi Allah mendisiplin kita untuk kebaikan kita, agar kita dapat mengambil bagian dalam kekudusan-Nya.
+Mereka mendisiplin kita untuk waktu yang singkat sesuai dengan apa yang mereka anggap baik; tetapi Tuhan mendisiplin kita untuk kebaikan kita, agar kita dapat mengambil bagian dalam kekudusan-Nya.
 
 ## Ibrani 12:11
 
@@ -62,7 +62,7 @@ Kejarlah damai dengan semua orang, dan carilah kekudusan yang tanpanya tidak seo
 
 ## Ibrani 12:15
 
-Pastikan bahwa tidak ada yang gagal mencapai kasih karunia Allah, dan bahwa tidak ada akar kepahitan yang tumbuh untuk menimbulkan masalah dan mencemari banyak orang.
+Pastikan bahwa tidak ada yang gagal mencapai kasih karunia Tuhan, dan bahwa tidak ada akar kepahitan yang tumbuh untuk menimbulkan masalah dan mencemari banyak orang.
 
 ## Ibrani 12:16
 
@@ -90,11 +90,11 @@ Penampakannya begitu menakutkan sehingga Musa berkata, “Aku gemetar ketakutan.
 
 ## Ibrani 12:22
 
-Tetapi kamu telah datang ke Gunung Sion, ke kota Allah yang hidup, Yerusalem surgawi, dan ke ribuan malaikat dalam pertemuan yang penuh sukacita,
+Tetapi kamu telah datang ke Gunung Sion, ke kota Tuhan yang hidup, Yerusalem surgawi, dan ke ribuan malaikat dalam pertemuan yang penuh sukacita,
 
 ## Ibrani 12:23
 
-ke pertemuan umum dan gereja anak sulung, yang namanya tertulis di surga. Kamu telah datang kepada Allah, Hakim semua, kepada roh orang-orang benar yang telah disempurnakan,
+ke pertemuan umum dan gereja anak sulung, yang namanya tertulis di surga. Kamu telah datang kepada Tuhan, Hakim semua, kepada roh orang-orang benar yang telah disempurnakan,
 
 ## Ibrani 12:24
 
@@ -114,8 +114,8 @@ Ungkapan “sekali lagi” menunjukkan penghapusan apa yang dapat diguncang—ya
 
 ## Ibrani 12:28
 
-Karena itu, karena kita menerima kerajaan yang tidak dapat diguncang, marilah kita bersyukur, dan dengan demikian menyembah Allah dengan cara yang berkenan dengan hormat dan kagum,
+Karena itu, karena kita menerima kerajaan yang tidak dapat diguncang, marilah kita bersyukur, dan dengan demikian menyembah Tuhan dengan cara yang berkenan dengan hormat dan kagum,
 
 ## Ibrani 12:29
 
-sebab Allah kita adalah api yang menghanguskan.
+sebab Tuhan kita adalah api yang menghanguskan.

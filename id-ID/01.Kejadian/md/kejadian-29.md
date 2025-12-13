@@ -74,7 +74,7 @@ Yakub jatuh cinta pada Rahel dan berkata, “Aku akan melayanimu tujuh tahun unt
 
 ## Kejadian 29:19
 
-Laban menjawab, “Lebih baik aku memberikannya kepadamu daripada kepada orang lain. Tinggallah di sini bersamaku.”
+Laban menjawab, “Lebih baik aku memberikannya kepadamu daripada kepada orang lain. TinggTuhan di sini bersamaku.”
 
 ## Kejadian 29:20
 

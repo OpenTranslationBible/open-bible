@@ -6,11 +6,11 @@ Paulus dan Timotius, hamba-hamba Kristus Yesus, kepada semua orang kudus dalam K
 
 ## Filipi 1:2
 
-Kasih karunia dan damai sejahtera dari Allah Bapa kita dan dari Tuhan Yesus Kristus menyertai kamu.
+Kasih karunia dan damai sejahtera dari Tuhan Bapa kita dan dari Tuhan Yesus Kristus menyertai kamu.
 
 ## Filipi 1:3
 
-Aku mengucap syukur kepada Allahku setiap kali aku mengingat kamu dalam doaku,
+Aku mengucap syukur kepada Tuhanku setiap kali aku mengingat kamu dalam doaku,
 
 ## Filipi 1:4
 
@@ -30,7 +30,7 @@ Memang sudah sepatutnya aku berpikir demikian tentang kamu semua, sebab kamu ada
 
 ## Filipi 1:8
 
-Sebab Allah adalah saksiku betapa aku dengan kasih mesra Kristus Yesus merindukan kamu sekalian.
+Sebab Tuhan adalah saksiku betapa aku dengan kasih mesra Kristus Yesus merindukan kamu sekalian.
 
 ## Filipi 1:9
 
@@ -42,7 +42,7 @@ sehingga kamu dapat memilih apa yang baik, supaya kamu suci dan tak bercacat men
 
 ## Filipi 1:11
 
-penuh dengan buah kebenaran yang dikerjakan oleh Yesus Kristus untuk memuliakan dan memuji Allah.
+penuh dengan buah kebenaran yang dikerjakan oleh Yesus Kristus untuk memuliakan dan memuji Tuhan.
 
 ## Filipi 1:12
 
@@ -54,7 +54,7 @@ sehingga telah jelas bagi seluruh istana dan semua orang lain, bahwa aku dipenja
 
 ## Filipi 1:14
 
-Dan kebanyakan saudara dalam Tuhan, karena pemenjaraanku, telah beroleh kepercayaan yang besar untuk bertambah berani berkata-kata tentang firman Allah dengan tidak takut.
+Dan kebanyakan saudara dalam Tuhan, karena pemenjaraanku, telah beroleh kepercayaan yang besar untuk bertambah berani berkata-kata tentang firman Tuhan dengan tidak takut.
 
 ## Filipi 1:15
 
@@ -110,7 +110,7 @@ Hanya, hendaklah hidupmu berpadanan dengan Injil Kristus, supaya, apabila aku da
 
 ## Filipi 1:28
 
-dengan tiada digentarkan sedikitpun oleh lawanmu. Bagi mereka semuanya itu adalah tanda kebinasaan, tetapi bagi kamu tanda keselamatan, dan itu datangnya dari Allah.
+dengan tiada digentarkan sedikitpun oleh lawanmu. Bagi mereka semuanya itu adalah tanda kebinasaan, tetapi bagi kamu tanda keselamatan, dan itu datangnya dari Tuhan.
 
 ## Filipi 1:29
 

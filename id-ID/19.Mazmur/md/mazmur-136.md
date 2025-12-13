@@ -8,7 +8,7 @@ Bersyukurlah kepada Tuhan, Dia baik,
 
 ## Mazmur 136:2
 
-Bersyukurlah kepada Dia, Allah segala allah,
+Bersyukurlah kepada Dia, Tuhan segala Tuhan,
 
 > Kasih-Nya kekal selamanya.
 
@@ -166,6 +166,6 @@ Yang memberi makanan kepada segala makhluk,
 
 ## Mazmur 136:26
 
-Bersyukurlah kepada Allah di surga,
+Bersyukurlah kepada Tuhan di surga,
 
 > Kasih-Nya kekal selamanya.

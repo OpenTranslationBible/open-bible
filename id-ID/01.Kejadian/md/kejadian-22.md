@@ -2,15 +2,15 @@
 
 ## Kejadian 22:1
 
-Setelah peristiwa-peristiwa ini, Allah menguji Abraham dan berkata kepadanya, "Abraham!" Dan dia menjawab, "Ini aku."
+Setelah peristiwa-peristiwa ini, Tuhan menguji Abraham dan berkata kepadanya, "Abraham!" Dan dia menjawab, "Ini aku."
 
 ## Kejadian 22:2
 
-Allah berkata, "Ambillah anakmu, anak tunggalmu Ishak, yang engkau kasihi, dan pergilah ke tanah Moria. Persembahkan dia di sana sebagai korban bakaran di salah satu gunung yang akan Kutunjukkan kepadamu."
+Tuhan berkata, "Ambillah anakmu, anak tunggalmu Ishak, yang engkau kasihi, dan pergilah ke tanah Moria. Persembahkan dia di sana sebagai korban bakaran di salah satu gunung yang akan Kutunjukkan kepadamu."
 
 ## Kejadian 22:3
 
-Abraham bangun pagi-pagi sekali, memasang pelana keledainya, dan membawa dua orang muda bersamanya, bersama dengan anaknya Ishak; dia memotong kayu untuk korban bakaran dan berangkat ke tempat yang telah diberitahukan Allah kepadanya.
+Abraham bangun pagi-pagi sekali, memasang pelana keledainya, dan membawa dua orang muda bersamanya, bersama dengan anaknya Ishak; dia memotong kayu untuk korban bakaran dan berangkat ke tempat yang telah diberitahukan Tuhan kepadanya.
 
 ## Kejadian 22:4
 
@@ -18,7 +18,7 @@ Pada hari ketiga, Abraham mengangkat matanya dan melihat tempat itu dari jauh.
 
 ## Kejadian 22:5
 
-Abraham berkata kepada orang-orang mudanya, "Tinggallah di sini dengan keledai ini sementara aku dan anak ini pergi ke sana. Kami akan beribadah dan kemudian kembali kepadamu."
+Abraham berkata kepada orang-orang mudanya, "TinggTuhan di sini dengan keledai ini sementara aku dan anak ini pergi ke sana. Kami akan beribadah dan kemudian kembali kepadamu."
 
 ## Kejadian 22:6
 
@@ -30,11 +30,11 @@ Ishak berbicara kepada Abraham, ayahnya, dan berkata, "Ayah?" Dan dia menjawab, 
 
 ## Kejadian 22:8
 
-Abraham berkata, "Allah akan menyediakan domba untuk korban bakaran, anakku." Maka keduanya melanjutkan perjalanan bersama-sama.
+Abraham berkata, "Tuhan akan menyediakan domba untuk korban bakaran, anakku." Maka keduanya melanjutkan perjalanan bersama-sama.
 
 ## Kejadian 22:9
 
-Ketika mereka tiba di tempat yang telah ditunjukkan Allah, Abraham mendirikan mezbah di sana, menyusun kayu, dan mengikat anaknya Ishak, meletakkannya di atas mezbah di atas kayu itu.
+Ketika mereka tiba di tempat yang telah ditunjukkan Tuhan, Abraham mendirikan mezbah di sana, menyusun kayu, dan mengikat anaknya Ishak, meletakkannya di atas mezbah di atas kayu itu.
 
 ## Kejadian 22:10
 
@@ -46,7 +46,7 @@ Tetapi malaikat Tuhan memanggilnya dari surga, "Abraham, Abraham!" Dan dia menja
 
 ## Kejadian 22:12
 
-Malaikat itu berkata, "Jangan letakkan tanganmu pada anak itu atau lakukan apa pun padanya; sekarang Aku tahu bahwa engkau takut akan Allah, karena engkau tidak menahan anakmu, anak tunggalmu, dari-Ku."
+Malaikat itu berkata, "Jangan letakkan tanganmu pada anak itu atau lakukan apa pun padanya; sekarang Aku tahu bahwa engkau takut akan Tuhan, karena engkau tidak menahan anakmu, anak tunggalmu, dari-Ku."
 
 ## Kejadian 22:13
 

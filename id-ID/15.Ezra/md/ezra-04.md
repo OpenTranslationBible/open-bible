@@ -2,17 +2,17 @@
 
 ## Ezra 4:1
 
-Ketika lawan-lawan Yehuda dan Benyamin mendengar bahwa orang-orang buangan sedang membangun sebuah bait untuk Tuhan, Allah Israel,
+Ketika lawan-lawan Yehuda dan Benyamin mendengar bahwa orang-orang buangan sedang membangun sebuah bait untuk Tuhan, Tuhan Israel,
 
 ## Ezra 4:2
 
-mereka mendekati Zerubabel dan para kepala kaum keluarga, berkata, “Biarkan kami membangun bersama kamu, karena seperti kamu, kami mencari Allahmu dan telah mempersembahkan korban kepada-Nya sejak zaman Esarhadon raja Asyur, yang membawa kami ke sini.”
+mereka mendekati Zerubabel dan para kepala kaum keluarga, berkata, “Biarkan kami membangun bersama kamu, karena seperti kamu, kami mencari Tuhanmu dan telah mempersembahkan korban kepada-Nya sejak zaman Esarhadon raja Asyur, yang membawa kami ke sini.”
 
 ---
 
 ## Ezra 4:3
 
-Tetapi Zerubabel, Yesua, dan sisa kepala kaum keluarga Israel berkata kepada mereka, “Kamu tidak ada bagian dengan kami dalam membangun sebuah rumah bagi Allah kami; kami sendiri akan membangun untuk Tuhan, Allah Israel, seperti yang diperintahkan kepada kami oleh Raja Koresh, raja Persia.”
+Tetapi Zerubabel, Yesua, dan sisa kepala kaum keluarga Israel berkata kepada mereka, “Kamu tidak ada bagian dengan kami dalam membangun sebuah rumah bagi Tuhan kami; kami sendiri akan membangun untuk Tuhan, Tuhan Israel, seperti yang diperintahkan kepada kami oleh Raja Koresh, raja Persia.”
 
 ## Ezra 4:4
 
@@ -98,4 +98,4 @@ Kemudian, segera setelah salinan surat Raja Artahsasta dibacakan di hadapan Rehu
 
 ## Ezra 4:24
 
-Demikianlah pekerjaan pada rumah Allah di Yerusalem terhenti, dan berhenti sampai tahun kedua pemerintahan Darius raja Persia.
+Demikianlah pekerjaan pada rumah Tuhan di Yerusalem terhenti, dan berhenti sampai tahun kedua pemerintahan Darius raja Persia.

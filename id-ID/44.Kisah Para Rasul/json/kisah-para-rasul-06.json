@@ -1,106 +1,98 @@
 {
-    "book": "Kisah Para Rasul",
-    "chapter": 6,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Pada masa itu, ketika jumlah murid semakin bertambah, timbul keluhan dari orang-orang Yahudi Helenis terhadap orang-orang Yahudi Ibrani karena janda-janda mereka diabaikan dalam pembagian makanan sehari-hari."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Maka kedua belas rasul itu memanggil seluruh kelompok murid dan berkata, “Tidaklah tepat bagi kami untuk mengabaikan firman Allah demi melayani meja."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Karena itu, saudara-saudara, pilihlah tujuh orang dari antara kamu yang memiliki reputasi baik, penuh dengan Roh dan hikmat, yang dapat kami tunjuk untuk tugas ini."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Kami akan mendedikasikan diri kami untuk doa dan pelayanan firman.”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Usulan ini menyenangkan seluruh jemaat. Mereka memilih Stefanus, seorang yang penuh iman dan Roh Kudus, serta Filipus, Prokhorus, Nikanor, Timon, Parmenas, dan Nikolaus, seorang penganut baru dari Antiokhia."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Orang-orang ini dibawa ke hadapan para rasul, yang berdoa dan meletakkan tangan mereka atas mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Firman Allah terus menyebar, dan jumlah murid di Yerusalem bertambah banyak, dan sejumlah besar imam menjadi taat kepada iman."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Stefanus, yang dikaruniai kasih karunia dan kuasa, melakukan keajaiban-keajaiban dan tanda-tanda yang signifikan di antara orang-orang."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Namun, timbul perlawanan dari anggota-anggota Sinagoga Orang-Orang Merdeka, yang termasuk orang-orang Kirene, Aleksandria, dan lainnya dari Kilikia dan Asia, yang mulai berselisih dengan Stefanus."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Namun mereka tidak dapat menahan hikmat dan Roh yang dengan itu ia berbicara."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kemudian mereka diam-diam membujuk beberapa orang untuk mengklaim, “Kami telah mendengar dia berbicara kata-kata penghujatan terhadap Musa dan terhadap Allah.”"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Mereka menghasut orang-orang, para tua-tua, dan para ahli Taurat, dan mereka menangkap Stefanus dan membawanya ke hadapan Sanhedrin."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Mereka mendatangkan saksi-saksi palsu yang bersaksi, “Orang ini tidak pernah berhenti berbicara menentang tempat kudus ini dan hukum Taurat."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Sebab kami telah mendengar dia mengatakan bahwa Yesus dari Nazaret ini akan menghancurkan tempat ini dan mengubah adat istiadat yang disampaikan Musa kepada kami.”"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Semua yang duduk di Sanhedrin menatap tajam pada Stefanus, dan mereka melihat bahwa wajahnya seperti wajah malaikat."
-            ]
-        }
-    ]
+  "book": "Kisah Para Rasul",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Pada masa itu, ketika jumlah murid semakin bertambah, timbul keluhan dari orang-orang Yahudi Helenis terhadap orang-orang Yahudi Ibrani karena janda-janda mereka diabaikan dalam pembagian makanan sehari-hari."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Maka kedua belas rasul itu memanggil seluruh kelompok murid dan berkata, “Tidaklah tepat bagi kami untuk mengabaikan firman Tuhan demi melayani meja."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Karena itu, saudara-saudara, pilihlah tujuh orang dari antara kamu yang memiliki reputasi baik, penuh dengan Roh dan hikmat, yang dapat kami tunjuk untuk tugas ini."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Kami akan mendedikasikan diri kami untuk doa dan pelayanan firman.”"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Usulan ini menyenangkan seluruh jemaat. Mereka memilih Stefanus, seorang yang penuh iman dan Roh Kudus, serta Filipus, Prokhorus, Nikanor, Timon, Parmenas, dan Nikolaus, seorang penganut baru dari Antiokhia."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Orang-orang ini dibawa ke hadapan para rasul, yang berdoa dan meletakkan tangan mereka atas mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Firman Tuhan terus menyebar, dan jumlah murid di Yerusalem bertambah banyak, dan sejumlah besar imam menjadi taat kepada iman."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Stefanus, yang dikaruniai kasih karunia dan kuasa, melakukan keajaiban-keajaiban dan tanda-tanda yang signifikan di antara orang-orang."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Namun, timbul perlawanan dari anggota-anggota Sinagoga Orang-Orang Merdeka, yang termasuk orang-orang Kirene, Aleksandria, dan lainnya dari Kilikia dan Asia, yang mulai berselisih dengan Stefanus."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": ["Namun mereka tidak dapat menahan hikmat dan Roh yang dengan itu ia berbicara."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Kemudian mereka diam-diam membujuk beberapa orang untuk mengklaim, “Kami telah mendengar dia berbicara kata-kata penghujatan terhadap Musa dan terhadap Tuhan.”"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Mereka menghasut orang-orang, para tua-tua, dan para ahli Taurat, dan mereka menangkap Stefanus dan membawanya ke hadapan Sanhedrin."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Mereka mendatangkan saksi-saksi palsu yang bersaksi, “Orang ini tidak pernah berhenti berbicara menentang tempat kudus ini dan hukum Taurat."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Sebab kami telah mendengar dia mengatakan bahwa Yesus dari Nazaret ini akan menghancurkan tempat ini dan mengubah adat istiadat yang disampaikan Musa kepada kami.”"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Semua yang duduk di Sanhedrin menatap tajam pada Stefanus, dan mereka melihat bahwa wajahnya seperti wajah malaikat."
+      ]
+    }
+  ]
 }

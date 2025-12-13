@@ -54,11 +54,11 @@ Di hadapan mereka, aku memerintahkan Barukh, dengan berkata,
 
 ## Yeremia 32:14
 
-‘Inilah firman Tuhan semesta alam, Allah Israel: Ambillah dokumen-dokumen ini, baik salinan yang dimeteraikan maupun salinan yang terbuka dari akta pembelian, dan letakkanlah di dalam bejana tanah liat agar tahan lama.
+‘Inilah firman Tuhan semesta alam, Tuhan Israel: Ambillah dokumen-dokumen ini, baik salinan yang dimeteraikan maupun salinan yang terbuka dari akta pembelian, dan letakkanlah di dalam bejana tanah liat agar tahan lama.
 
 ## Yeremia 32:15
 
-Karena inilah firman Tuhan semesta alam, Allah Israel: Rumah-rumah, ladang-ladang, dan kebun-kebun anggur akan sekali lagi diperoleh di negeri ini.’
+Karena inilah firman Tuhan semesta alam, Tuhan Israel: Rumah-rumah, ladang-ladang, dan kebun-kebun anggur akan sekali lagi diperoleh di negeri ini.’
 
 ## Yeremia 32:16
 
@@ -70,7 +70,7 @@ Setelah aku menyerahkan akta pembelian kepada Barukh anak Neria, aku berdoa kepa
 
 ## Yeremia 32:18
 
-yang menunjukkan kasih kepada ribuan orang tetapi membalas kesalahan ayah-ayah ke dalam pangkuan anak-anak mereka sesudah mereka. Allah yang besar dan perkasa, yang nama-Nya adalah Tuhan semesta alam,
+yang menunjukkan kasih kepada ribuan orang tetapi membalas kesalahan ayah-ayah ke dalam pangkuan anak-anak mereka sesudah mereka. Tuhan yang besar dan perkasa, yang nama-Nya adalah Tuhan semesta alam,
 
 ## Yeremia 32:19
 
@@ -106,7 +106,7 @@ Kemudian, firman Tuhan datang kepada Yeremia, dengan berkata,
 
 ## Yeremia 32:27
 
-“Aku adalah Tuhan, Allah segala umat manusia. Apakah ada sesuatu yang terlalu sulit bagi-Ku?
+“Aku adalah Tuhan, Tuhan segala umat manusia. Apakah ada sesuatu yang terlalu sulit bagi-Ku?
 
 ## Yeremia 32:28
 
@@ -142,7 +142,7 @@ Mereka membangun tempat-tempat tinggi untuk Baal di Lembah Ben Hinnom untuk memp
 
 ## Yeremia 32:36
 
-Sekarang, oleh karena itu, inilah yang dikatakan Tuhan, Allah Israel, mengenai kota ini yang kamu katakan, ‘Telah diserahkan kepada raja Babel oleh pedang, kelaparan, dan penyakit’:
+Sekarang, oleh karena itu, inilah yang dikatakan Tuhan, Tuhan Israel, mengenai kota ini yang kamu katakan, ‘Telah diserahkan kepada raja Babel oleh pedang, kelaparan, dan penyakit’:
 
 ## Yeremia 32:37
 
@@ -150,7 +150,7 @@ Lihatlah, Aku pasti akan mengumpulkan mereka dari semua negeri ke mana Aku telah
 
 ## Yeremia 32:38
 
-Mereka akan menjadi umat-Ku, dan Aku akan menjadi Allah mereka.
+Mereka akan menjadi umat-Ku, dan Aku akan menjadi Tuhan mereka.
 
 ## Yeremia 32:39
 

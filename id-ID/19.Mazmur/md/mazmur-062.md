@@ -4,7 +4,7 @@
 
 ## Mazmur 62:1
 
-> Hanya kepada Allah saja jiwaku berdiam diri;  
+> Hanya kepada Tuhan saja jiwaku berdiam diri;  
 > Dari-Nya datang keselamatanku.
 
 ## Mazmur 62:2
@@ -33,7 +33,7 @@
 
 ## Mazmur 62:5
 
-> Jiwaku, berdiam dirilah di hadapan Allah saja,  
+> Jiwaku, berdiam dirilah di hadapan Tuhan saja,  
 > Sebab harapanku datang dari-Nya.
 
 ## Mazmur 62:6
@@ -43,14 +43,14 @@
 
 ## Mazmur 62:7
 
-> Keselamatanku dan kehormatanku bergantung pada Allah;  
-> Gunung batu kekuatanku, tempat perlindunganku adalah Allah.
+> Keselamatanku dan kehormatanku bergantung pada Tuhan;  
+> Gunung batu kekuatanku, tempat perlindunganku adalah Tuhan.
 
 ## Mazmur 62:8
 
 > Percayalah kepada-Nya setiap waktu, hai bangsa-bangsa;  
 > Curahkanlah hatimu di hadapan-Nya;  
-> Allah adalah tempat perlindungan bagi kita.
+> Tuhan adalah tempat perlindungan bagi kita.
 
 > Sela
 
@@ -72,9 +72,9 @@
 
 ## Mazmur 62:11
 
-> Allah telah berfirman sekali;  
+> Tuhan telah berfirman sekali;  
 > Dua kali aku mendengar ini:  
-> Bahwa kekuatan adalah milik Allah;
+> Bahwa kekuatan adalah milik Tuhan;
 
 ## Mazmur 62:12
 

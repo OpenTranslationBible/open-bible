@@ -2,7 +2,7 @@
 
 ## Wahyu 22:1
 
-Malaikat itu menunjukkan kepadaku sungai air kehidupan, jernih seperti kristal, mengalir dari takhta Allah dan Anak Domba itu,
+Malaikat itu menunjukkan kepadaku sungai air kehidupan, jernih seperti kristal, mengalir dari takhta Tuhan dan Anak Domba itu,
 
 ## Wahyu 22:2
 
@@ -10,7 +10,7 @@ di tengah jalan kota itu. Di kedua sisi sungai itu ada pohon kehidupan, yang men
 
 ## Wahyu 22:3
 
-Tidak akan ada lagi kutukan. Takhta Allah dan Anak Domba itu akan ada di kota itu, dan hamba-hamba-Nya akan melayani Dia.
+Tidak akan ada lagi kutukan. Takhta Tuhan dan Anak Domba itu akan ada di kota itu, dan hamba-hamba-Nya akan melayani Dia.
 
 ## Wahyu 22:4
 
@@ -18,11 +18,11 @@ Mereka akan melihat wajah-Nya, dan nama-Nya akan tertulis di dahi mereka.
 
 ## Wahyu 22:5
 
-Tidak akan ada lagi malam. Mereka tidak memerlukan cahaya lampu atau cahaya matahari, karena Tuhan Allah akan menerangi mereka. Dan mereka akan memerintah selama-lamanya.
+Tidak akan ada lagi malam. Mereka tidak memerlukan cahaya lampu atau cahaya matahari, karena Tuhan Tuhan akan menerangi mereka. Dan mereka akan memerintah selama-lamanya.
 
 ## Wahyu 22:6
 
-Malaikat itu berkata kepadaku, “Perkataan ini dapat dipercaya dan benar. Tuhan, Allah dari roh para nabi, telah mengutus malaikat-Nya untuk menunjukkan kepada hamba-hamba-Nya apa yang harus segera terjadi.”
+Malaikat itu berkata kepadaku, “Perkataan ini dapat dipercaya dan benar. Tuhan, Tuhan dari roh para nabi, telah mengutus malaikat-Nya untuk menunjukkan kepada hamba-hamba-Nya apa yang harus segera terjadi.”
 
 ## Wahyu 22:7
 
@@ -34,7 +34,7 @@ Aku, Yohanes, adalah orang yang menyaksikan hal-hal ini. Dan setelah mendengar d
 
 ## Wahyu 22:9
 
-Tetapi dia berkata kepadaku, “Jangan lakukan itu! Aku adalah hamba yang sama dengan engkau dan saudara-saudaramu para nabi, dan dengan mereka yang memegang perkataan kitab ini. Sembahlah Allah!”
+Tetapi dia berkata kepadaku, “Jangan lakukan itu! Aku adalah hamba yang sama dengan engkau dan saudara-saudaramu para nabi, dan dengan mereka yang memegang perkataan kitab ini. Sembahlah Tuhan!”
 
 ## Wahyu 22:10
 
@@ -70,11 +70,11 @@ Roh dan pengantin perempuan itu berkata, “Datanglah.” Dan biarlah orang yang
 
 ## Wahyu 22:18
 
-Aku memperingatkan setiap orang yang mendengar perkataan nubuat dari kitab ini: jika ada yang menambahkan sesuatu kepadanya, Allah akan menambahkan kepadanya tulah-tulah yang tertulis dalam kitab ini.
+Aku memperingatkan setiap orang yang mendengar perkataan nubuat dari kitab ini: jika ada yang menambahkan sesuatu kepadanya, Tuhan akan menambahkan kepadanya tulah-tulah yang tertulis dalam kitab ini.
 
 ## Wahyu 22:19
 
-Dan jika ada yang mengurangi dari perkataan kitab nubuat ini, Allah akan mengambil bagiannya dari pohon kehidupan dan dari Kota Suci, yang tertulis dalam kitab ini.
+Dan jika ada yang mengurangi dari perkataan kitab nubuat ini, Tuhan akan mengambil bagiannya dari pohon kehidupan dan dari Kota Suci, yang tertulis dalam kitab ini.
 
 ## Wahyu 22:20
 

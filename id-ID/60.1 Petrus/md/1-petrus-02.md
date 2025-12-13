@@ -14,11 +14,11 @@ jika kamu telah mengalami kebaikan Tuhan.
 
 ## 1 Petrus 2:4
 
-Dan ketika kamu datang kepada-Nya, sebuah batu hidup yang ditolak oleh manusia tetapi dipilih dan berharga di pandangan Allah,
+Dan ketika kamu datang kepada-Nya, sebuah batu hidup yang ditolak oleh manusia tetapi dipilih dan berharga di pandangan Tuhan,
 
 ## 1 Petrus 2:5
 
-kamu juga, seperti batu-batu hidup, sedang dibangun menjadi rumah rohani untuk menjadi imamat yang kudus, mempersembahkan korban rohani yang berkenan kepada Allah melalui Yesus Kristus.
+kamu juga, seperti batu-batu hidup, sedang dibangun menjadi rumah rohani untuk menjadi imamat yang kudus, mempersembahkan korban rohani yang berkenan kepada Tuhan melalui Yesus Kristus.
 
 ## 1 Petrus 2:6
 
@@ -45,11 +45,11 @@ dan,
 
 ## 1 Petrus 2:9
 
-Tetapi kamu adalah bangsa yang terpilih, imamat yang rajani, bangsa yang kudus, umat kepunyaan Allah sendiri, supaya kamu dapat memberitakan keunggulan-Nya yang telah memanggil kamu keluar dari kegelapan ke dalam terang-Nya yang ajaib;
+Tetapi kamu adalah bangsa yang terpilih, imamat yang rajani, bangsa yang kudus, umat kepunyaan Tuhan sendiri, supaya kamu dapat memberitakan keunggulan-Nya yang telah memanggil kamu keluar dari kegelapan ke dalam terang-Nya yang ajaib;
 
 ## 1 Petrus 2:10
 
-karena kamu dahulu bukanlah umat, tetapi sekarang kamu adalah umat Allah; kamu dahulu tidak menerima belas kasihan, tetapi sekarang kamu telah menerima belas kasihan.
+karena kamu dahulu bukanlah umat, tetapi sekarang kamu adalah umat Tuhan; kamu dahulu tidak menerima belas kasihan, tetapi sekarang kamu telah menerima belas kasihan.
 
 ## 1 Petrus 2:11
 
@@ -57,7 +57,7 @@ Saudara-saudara yang terkasih, aku mendesak kamu, sebagai orang asing dan pendat
 
 ## 1 Petrus 2:12
 
-Jagalah perilakumu yang baik di antara orang-orang bukan Yahudi, sehingga dalam hal yang mereka fitnah kamu sebagai pelaku kejahatan, mereka dapat, karena perbuatan baikmu, ketika mereka mengamatinya, memuliakan Allah pada hari kedatangan-Nya.
+Jagalah perilakumu yang baik di antara orang-orang bukan Yahudi, sehingga dalam hal yang mereka fitnah kamu sebagai pelaku kejahatan, mereka dapat, karena perbuatan baikmu, ketika mereka mengamatinya, memuliakan Tuhan pada hari kedatangan-Nya.
 
 ## 1 Petrus 2:13
 
@@ -69,15 +69,15 @@ atau kepada gubernur-gubernur, yang diutus olehnya untuk memberikan keadilan kep
 
 ## 1 Petrus 2:15
 
-Karena kehendak Allah adalah bahwa dengan berbuat baik kamu harus membungkam pembicaraan bodoh dari orang-orang yang tidak tahu.
+Karena kehendak Tuhan adalah bahwa dengan berbuat baik kamu harus membungkam pembicaraan bodoh dari orang-orang yang tidak tahu.
 
 ## 1 Petrus 2:16
 
-Hiduplah sebagai orang yang merdeka, tetapi jangan gunakan kebebasanmu sebagai kedok untuk kejahatan; hiduplah sebagai hamba Allah.
+Hiduplah sebagai orang yang merdeka, tetapi jangan gunakan kebebasanmu sebagai kedok untuk kejahatan; hiduplah sebagai hamba Tuhan.
 
 ## 1 Petrus 2:17
 
-Hormatilah semua orang, kasihilah saudara-saudara seiman, takutlah akan Allah, hormatilah raja.
+Hormatilah semua orang, kasihilah saudara-saudara seiman, takutlah akan Tuhan, hormatilah raja.
 
 ## 1 Petrus 2:18
 
@@ -85,11 +85,11 @@ Hamba-hamba, tunduklah kepada tuanmu dengan segala hormat, bukan hanya kepada me
 
 ## 1 Petrus 2:19
 
-Karena adalah terpuji jika seseorang menanggung penderitaan yang tidak adil karena mereka sadar akan Allah.
+Karena adalah terpuji jika seseorang menanggung penderitaan yang tidak adil karena mereka sadar akan Tuhan.
 
 ## 1 Petrus 2:20
 
-Karena apa pujian yang ada jika, ketika kamu berbuat dosa dan diperlakukan dengan keras, kamu menanggungnya dengan sabar? Tetapi jika ketika kamu berbuat benar dan menderita karenanya kamu menanggungnya dengan sabar, ini berkenan kepada Allah.
+Karena apa pujian yang ada jika, ketika kamu berbuat dosa dan diperlakukan dengan keras, kamu menanggungnya dengan sabar? Tetapi jika ketika kamu berbuat benar dan menderita karenanya kamu menanggungnya dengan sabar, ini berkenan kepada Tuhan.
 
 ## 1 Petrus 2:21
 

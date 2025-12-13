@@ -18,7 +18,7 @@ Ketika para prajurit kembali ke perkemahan, para tua-tua Israel berkata, "Mengap
 
 ## 1 Samuel 4:4
 
-Maka orang-orang mengirim utusan ke Silo, dan mereka membawa kembali tabut perjanjian Tuhan semesta alam, yang bertakhta di antara kerubim. Dan kedua anak Eli, Hofni dan Pinehas, ada di sana bersama tabut perjanjian Allah.
+Maka orang-orang mengirim utusan ke Silo, dan mereka membawa kembali tabut perjanjian Tuhan semesta alam, yang bertakhta di antara kerubim. Dan kedua anak Eli, Hofni dan Pinehas, ada di sana bersama tabut perjanjian Tuhan.
 
 ## 1 Samuel 4:5
 
@@ -49,7 +49,7 @@ Maka orang Filistin berperang, dan Israel dikalahkan. Setiap orang melarikan dir
 
 ## 1 Samuel 4:11
 
-Tabut Allah jatuh ke tangan musuh, dan kedua anak Eli, Hofni dan Pinehas, kehilangan nyawa mereka.
+Tabut Tuhan jatuh ke tangan musuh, dan kedua anak Eli, Hofni dan Pinehas, kehilangan nyawa mereka.
 
 ---
 
@@ -59,7 +59,7 @@ Seorang pria dari suku Benyamin berlari dari garis pertempuran dan datang ke Sil
 
 ## 1 Samuel 4:13
 
-Ketika dia tiba, Eli sedang duduk di kursinya di samping jalan, menonton, karena hatinya bergetar untuk tabut Allah.  
+Ketika dia tiba, Eli sedang duduk di kursinya di samping jalan, menonton, karena hatinya bergetar untuk tabut Tuhan.  
 Ketika pria itu memasuki kota dan melaporkan apa yang telah terjadi, seluruh kota berteriak.
 
 ## 1 Samuel 4:14
@@ -78,17 +78,17 @@ Eli bertanya, "Apa yang terjadi, anakku?"
 
 ## 1 Samuel 4:17
 
-Utusan itu menjawab, "Israel telah melarikan diri di hadapan orang Filistin, dan ada pembantaian besar di antara rakyat. Kedua anakmu, Hofni dan Pinehas, telah mati, dan tabut Allah telah diambil."
+Utusan itu menjawab, "Israel telah melarikan diri di hadapan orang Filistin, dan ada pembantaian besar di antara rakyat. Kedua anakmu, Hofni dan Pinehas, telah mati, dan tabut Tuhan telah diambil."
 
 ## 1 Samuel 4:18
 
-Ketika dia menyebutkan tabut Allah, Eli jatuh ke belakang dari kursinya di dekat gerbang. Lehernya patah dan dia mati, karena dia sudah tua dan berat. Dia telah memerintah Israel selama empat puluh tahun.
+Ketika dia menyebutkan tabut Tuhan, Eli jatuh ke belakang dari kursinya di dekat gerbang. Lehernya patah dan dia mati, karena dia sudah tua dan berat. Dia telah memerintah Israel selama empat puluh tahun.
 
 ---
 
 ## 1 Samuel 4:19
 
-Sekarang menantu perempuan Eli, istri Pinehas, sedang hamil dan mendekati waktu melahirkan. Ketika dia mendengar berita bahwa tabut Allah telah diambil, dan bahwa ayah mertuanya dan suaminya telah mati, dia mulai melahirkan dan melahirkan, teratasi oleh rasa sakitnya.
+Sekarang menantu perempuan Eli, istri Pinehas, sedang hamil dan mendekati waktu melahirkan. Ketika dia mendengar berita bahwa tabut Tuhan telah diambil, dan bahwa ayah mertuanya dan suaminya telah mati, dia mulai melahirkan dan melahirkan, teratasi oleh rasa sakitnya.
 
 ## 1 Samuel 4:20
 
@@ -96,8 +96,8 @@ Saat dia sekarat, para wanita yang berdiri di sampingnya berkata, "Jangan takut,
 
 ## 1 Samuel 4:21
 
-Dia menamai anak itu Ikabod, dengan berkata, "Kemuliaan telah meninggalkan Israel," karena tabut Allah telah diambil dan karena kematian ayah mertuanya dan suaminya.
+Dia menamai anak itu Ikabod, dengan berkata, "Kemuliaan telah meninggalkan Israel," karena tabut Tuhan telah diambil dan karena kematian ayah mertuanya dan suaminya.
 
 ## 1 Samuel 4:22
 
-Dia berkata, "Kemuliaan telah meninggalkan Israel, karena tabut Allah telah diambil."
+Dia berkata, "Kemuliaan telah meninggalkan Israel, karena tabut Tuhan telah diambil."

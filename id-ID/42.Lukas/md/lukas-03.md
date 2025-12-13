@@ -6,7 +6,7 @@ Pada tahun kelima belas pemerintahan Kaisar Tiberius, ketika Pontius Pilatus men
 
 ## Lukas 3:2
 
-pada waktu itu ketika Hanas dan Kayafas menjadi imam besar, firman Allah datang kepada Yohanes, anak Zakharia, di padang gurun.
+pada waktu itu ketika Hanas dan Kayafas menjadi imam besar, firman Tuhan datang kepada Yohanes, anak Zakharia, di padang gurun.
 
 ## Lukas 3:3
 
@@ -18,7 +18,7 @@ Seperti ada tertulis dalam kitab perkataan nabi Yesaya:
 
 > "Suara orang yang berseru di padang gurun:
 > 'Persiapkanlah jalan untuk Tuhan;
-> luruskanlah di padang belantara jalan raya bagi Allah kita.
+> luruskanlah di padang belantara jalan raya bagi Tuhan kita.
 
 ## Lukas 3:5
 
@@ -29,7 +29,7 @@ Seperti ada tertulis dalam kitab perkataan nabi Yesaya:
 
 ## Lukas 3:6
 
-> Dan semua umat manusia akan melihat keselamatan dari Allah.'"
+> Dan semua umat manusia akan melihat keselamatan dari Tuhan.'"
 
 ---
 
@@ -39,7 +39,7 @@ Yohanes berkata kepada orang banyak yang datang untuk dibaptis olehnya, "Hai kam
 
 ## Lukas 3:8
 
-Hasilkanlah buah-buah yang sesuai dengan pertobatan. Dan jangan mulai berkata kepada dirimu sendiri, 'Kami mempunyai Abraham sebagai bapa kami.' Karena aku berkata kepadamu bahwa Allah dapat membangkitkan anak-anak bagi Abraham dari batu-batu ini.
+Hasilkanlah buah-buah yang sesuai dengan pertobatan. Dan jangan mulai berkata kepada dirimu sendiri, 'Kami mempunyai Abraham sebagai bapa kami.' Karena aku berkata kepadamu bahwa Tuhan dapat membangkitkan anak-anak bagi Abraham dari batu-batu ini.
 
 ## Lukas 3:9
 
@@ -201,4 +201,4 @@ Sekarang Yesus sendiri berumur kira-kira tiga puluh tahun ketika Ia memulai pela
 
 > anak Enos,
 > anak Set, anak Adam,
-> anak Allah.
+> anak Tuhan.

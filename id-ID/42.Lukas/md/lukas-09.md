@@ -6,7 +6,7 @@ Ketika Yesus memanggil kedua belas murid itu bersama-sama, Dia memberikan kepada
 
 ## Lukas 9:2
 
-Dia mengutus mereka untuk memberitakan kerajaan Allah dan menyembuhkan orang sakit.
+Dia mengutus mereka untuk memberitakan kerajaan Tuhan dan menyembuhkan orang sakit.
 
 ## Lukas 9:3
 
@@ -14,7 +14,7 @@ Dia memberi mereka petunjuk, “Jangan membawa apa-apa untuk perjalanan ini—ba
 
 ## Lukas 9:4
 
-“Rumah mana pun yang kamu masuki, tinggallah di situ sampai kamu berangkat dari tempat itu.”
+“Rumah mana pun yang kamu masuki, tinggTuhan di situ sampai kamu berangkat dari tempat itu.”
 
 ## Lukas 9:5
 
@@ -46,7 +46,7 @@ Ketika para rasul kembali, mereka melaporkan kepada Yesus semua yang telah merek
 
 ## Lukas 9:11
 
-Tetapi orang banyak mengetahui hal itu dan mengikuti Dia. Dia menyambut mereka dan berbicara kepada mereka tentang kerajaan Allah, dan menyembuhkan mereka yang memerlukan penyembuhan.
+Tetapi orang banyak mengetahui hal itu dan mengikuti Dia. Dia menyambut mereka dan berbicara kepada mereka tentang kerajaan Tuhan, dan menyembuhkan mereka yang memerlukan penyembuhan.
 
 ## Lukas 9:12
 
@@ -84,7 +84,7 @@ Mereka menjawab, “Beberapa mengatakan Yohanes Pembaptis; yang lain mengatakan 
 
 ## Lukas 9:20
 
-“Tetapi menurut kamu,” Dia bertanya. “Siapakah Aku?” Petrus menjawab, “Mesias dari Allah.”
+“Tetapi menurut kamu,” Dia bertanya. “Siapakah Aku?” Petrus menjawab, “Mesias dari Tuhan.”
 
 ---
 
@@ -116,7 +116,7 @@ Kemudian Dia berkata kepada mereka semua, “Jika seseorang ingin mengikuti Aku,
 
 ## Lukas 9:27
 
-“Sesungguhnya Aku berkata kepadamu, beberapa yang berdiri di sini tidak akan mengalami kematian sebelum mereka melihat kerajaan Allah.”
+“Sesungguhnya Aku berkata kepadamu, beberapa yang berdiri di sini tidak akan mengalami kematian sebelum mereka melihat kerajaan Tuhan.”
 
 ---
 
@@ -184,7 +184,7 @@ Bahkan ketika anak itu datang, roh jahat itu melemparkannya ke tanah dalam kejan
 
 ## Lukas 9:43
 
-Dan mereka semua kagum akan keagungan Allah. Sementara semua orang mengagumi semua yang dilakukan Yesus, Dia berbicara kepada murid-murid-Nya,
+Dan mereka semua kagum akan keagungan Tuhan. Sementara semua orang mengagumi semua yang dilakukan Yesus, Dia berbicara kepada murid-murid-Nya,
 
 ## Lukas 9:44
 
@@ -260,7 +260,7 @@ Dia berkata kepada orang lain, “Ikutlah Aku.” Tetapi dia menjawab, “Tuhan,
 
 ## Lukas 9:60
 
-Yesus berkata kepadanya, “Biarlah orang mati menguburkan orang mati mereka sendiri, tetapi engkau pergi dan beritakan kerajaan Allah.”
+Yesus berkata kepadanya, “Biarlah orang mati menguburkan orang mati mereka sendiri, tetapi engkau pergi dan beritakan kerajaan Tuhan.”
 
 ## Lukas 9:61
 
@@ -268,4 +268,4 @@ Yang lain lagi berkata, “Aku akan mengikuti Engkau, Tuhan; tetapi izinkan aku 
 
 ## Lukas 9:62
 
-Yesus menjawab, “Tidak ada seorang pun yang meletakkan tangannya pada bajak dan melihat ke belakang yang layak untuk pelayanan dalam kerajaan Allah.”
+Yesus menjawab, “Tidak ada seorang pun yang meletakkan tangannya pada bajak dan melihat ke belakang yang layak untuk pelayanan dalam kerajaan Tuhan.”

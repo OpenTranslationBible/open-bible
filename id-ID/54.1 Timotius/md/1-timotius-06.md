@@ -2,7 +2,7 @@
 
 ## 1 Timotius 6:1
 
-Semua orang yang berada di bawah kuk sebagai budak harus menganggap tuan mereka sendiri layak menerima segala hormat agar nama Allah dan ajaran kita tidak dihujat.
+Semua orang yang berada di bawah kuk sebagai budak harus menganggap tuan mereka sendiri layak menerima segala hormat agar nama Tuhan dan ajaran kita tidak dihujat.
 
 ## 1 Timotius 6:2
 
@@ -42,7 +42,7 @@ Karena cinta uang adalah akar dari segala jenis kejahatan, dan beberapa orang ka
 
 ## 1 Timotius 6:11
 
-Tetapi jauhilah hal-hal ini, hai manusia Allah, dan kejarlah kebenaran, kesalehan, iman, kasih, ketekunan, dan kelemahlembutan.
+Tetapi jauhilah hal-hal ini, hai manusia Tuhan, dan kejarlah kebenaran, kesalehan, iman, kasih, ketekunan, dan kelemahlembutan.
 
 ## 1 Timotius 6:12
 
@@ -50,7 +50,7 @@ Bertarunglah dalam perjuangan iman yang mulia; raihlah hidup kekal yang untuknya
 
 ## 1 Timotius 6:13
 
-Aku memerintahkan kamu di hadapan Allah, yang memberikan hidup kepada segala sesuatu, dan Kristus Yesus, yang membuat pengakuan yang baik di hadapan Pontius Pilatus,
+Aku memerintahkan kamu di hadapan Tuhan, yang memberikan hidup kepada segala sesuatu, dan Kristus Yesus, yang membuat pengakuan yang baik di hadapan Pontius Pilatus,
 
 ## 1 Timotius 6:14
 
@@ -66,7 +66,7 @@ yang hanya memiliki keabadian dan berdiam dalam cahaya yang tak terhampiri, yang
 
 ## 1 Timotius 6:17
 
-Perintahkan mereka yang kaya di dunia sekarang ini untuk tidak sombong atau menaruh harapan mereka pada ketidakpastian kekayaan, tetapi pada Allah, yang dengan kaya menyediakan kita segala sesuatu untuk dinikmati.
+Perintahkan mereka yang kaya di dunia sekarang ini untuk tidak sombong atau menaruh harapan mereka pada ketidakpastian kekayaan, tetapi pada Tuhan, yang dengan kaya menyediakan kita segala sesuatu untuk dinikmati.
 
 ## 1 Timotius 6:18
 

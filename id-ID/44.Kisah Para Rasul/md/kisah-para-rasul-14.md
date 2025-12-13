@@ -62,7 +62,7 @@ Setelah mendengar ini, rasul-rasul Barnabas dan Paulus mengoyakkan pakaian merek
 
 ## Kisah Para Rasul 14:15
 
-"Saudara-saudara, mengapa kamu melakukan hal-hal ini? Kami juga manusia, sama seperti kamu, membawa kabar baik, bahwa kamu harus berbalik dari hal-hal yang tidak berguna ini kepada Allah yang hidup, yang membuat langit, bumi, laut, dan segala sesuatu di dalamnya.
+"Saudara-saudara, mengapa kamu melakukan hal-hal ini? Kami juga manusia, sama seperti kamu, membawa kabar baik, bahwa kamu harus berbalik dari hal-hal yang tidak berguna ini kepada Tuhan yang hidup, yang membuat langit, bumi, laut, dan segala sesuatu di dalamnya.
 
 ## Kisah Para Rasul 14:16
 
@@ -94,7 +94,7 @@ Setelah mereka memberitakan Injil di kota itu dan mendapatkan sejumlah besar mur
 
 ## Kisah Para Rasul 14:22
 
-menguatkan murid-murid dan mendorong mereka untuk tetap teguh dalam iman, dengan mengatakan, "Kita harus menanggung banyak kesulitan untuk masuk ke dalam kerajaan Allah."
+menguatkan murid-murid dan mendorong mereka untuk tetap teguh dalam iman, dengan mengatakan, "Kita harus menanggung banyak kesulitan untuk masuk ke dalam kerajaan Tuhan."
 
 ## Kisah Para Rasul 14:23
 
@@ -112,11 +112,11 @@ Setelah memberitakan firman di Perga, mereka turun ke Atalia.
 
 ## Kisah Para Rasul 14:26
 
-Dari sana, mereka kembali melalui laut ke Antiokhia, di mana mereka telah dipercayakan kepada kasih karunia Allah untuk pekerjaan yang telah mereka selesaikan.
+Dari sana, mereka kembali melalui laut ke Antiokhia, di mana mereka telah dipercayakan kepada kasih karunia Tuhan untuk pekerjaan yang telah mereka selesaikan.
 
 ## Kisah Para Rasul 14:27
 
-Setelah tiba, mereka mengumpulkan gereja bersama dan melaporkan semua yang telah Allah lakukan melalui mereka dan bagaimana Ia telah membuka pintu iman kepada orang-orang bukan Yahudi.
+Setelah tiba, mereka mengumpulkan gereja bersama dan melaporkan semua yang telah Tuhan lakukan melalui mereka dan bagaimana Ia telah membuka pintu iman kepada orang-orang bukan Yahudi.
 
 ## Kisah Para Rasul 14:28
 

@@ -10,7 +10,7 @@ Pada waktu itu, Yohanes Pembaptis tampil di padang gurun Yudea dan memberitakan,
 
 ## Matius 3:3
 
-Dialah yang dimaksudkan oleh nabi Yesaya ketika ia berkata, “Ada suara orang yang berseru di padang gurun, ‘Persiapkanlah jalan untuk Tuhan, luruskanlah jalan di padang belantara bagi Allah kita.’”
+Dialah yang dimaksudkan oleh nabi Yesaya ketika ia berkata, “Ada suara orang yang berseru di padang gurun, ‘Persiapkanlah jalan untuk Tuhan, luruskanlah jalan di padang belantara bagi Tuhan kita.’”
 
 ## Matius 3:4
 
@@ -34,7 +34,7 @@ Hasilkanlah buah yang sesuai dengan pertobatan.
 
 ## Matius 3:9
 
-Dan janganlah mengira bahwa kamu dapat berkata dalam hatimu, ‘Kami mempunyai Abraham sebagai bapa kami.’ Karena aku berkata kepadamu bahwa Allah dapat menjadikan anak-anak bagi Abraham dari batu-batu ini.
+Dan janganlah mengira bahwa kamu dapat berkata dalam hatimu, ‘Kami mempunyai Abraham sebagai bapa kami.’ Karena aku berkata kepadamu bahwa Tuhan dapat menjadikan anak-anak bagi Abraham dari batu-batu ini.
 
 ## Matius 3:10
 
@@ -64,7 +64,7 @@ Yesus menjawab kepadanya, “Biarlah hal itu terjadi sekarang; karena demikianla
 
 ## Matius 3:16
 
-Segera setelah Yesus dibaptis, Ia keluar dari air. Pada saat itu juga, langit terbuka, dan Ia melihat Roh Allah turun seperti burung merpati dan hinggap di atas-Nya.
+Segera setelah Yesus dibaptis, Ia keluar dari air. Pada saat itu juga, langit terbuka, dan Ia melihat Roh Tuhan turun seperti burung merpati dan hinggap di atas-Nya.
 
 ## Matius 3:17
 

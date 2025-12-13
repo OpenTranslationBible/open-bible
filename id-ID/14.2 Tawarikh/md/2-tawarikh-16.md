@@ -39,7 +39,7 @@ Kemudian Raja Asa mengumpulkan seluruh Yehuda, dan mereka mengambil batu-batu Ra
 ## 2 Tawarikh 16:7
 
 Pada waktu itu Hanani pelihat datang kepada Asa raja Yehuda dan berkata kepadanya,  
-“Karena engkau telah mengandalkan raja Aram dan tidak mengandalkan Tuhan Allahmu,  
+“Karena engkau telah mengandalkan raja Aram dan tidak mengandalkan Tuhan Tuhanmu,  
 maka tentara raja Aram telah lolos dari tanganmu.
 
 ---

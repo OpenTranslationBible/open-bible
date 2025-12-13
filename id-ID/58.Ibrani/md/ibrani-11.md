@@ -10,23 +10,23 @@ Sebab oleh imanlah orang-orang dahulu memperoleh pujian.
 
 ## Ibrani 11:3
 
-Karena iman kita mengerti bahwa alam semesta telah dijadikan oleh firman Allah, sehingga apa yang kita lihat tidak dibuat dari barang yang tampak.
+Karena iman kita mengerti bahwa alam semesta telah dijadikan oleh firman Tuhan, sehingga apa yang kita lihat tidak dibuat dari barang yang tampak.
 
 ## Ibrani 11:4
 
-Karena iman, Habel mempersembahkan korban yang lebih baik kepada Allah daripada Kain, dan karena itu ia memperoleh kesaksian bahwa ia benar, karena Allah berkenan akan persembahannya itu. Dan karena iman, ia masih berbicara, meskipun ia sudah mati.
+Karena iman, Habel mempersembahkan korban yang lebih baik kepada Tuhan daripada Kain, dan karena itu ia memperoleh kesaksian bahwa ia benar, karena Tuhan berkenan akan persembahannya itu. Dan karena iman, ia masih berbicara, meskipun ia sudah mati.
 
 ## Ibrani 11:5
 
-Karena iman, Henokh terangkat, sehingga ia tidak mengalami kematian, dan ia tidak ditemukan karena Allah telah mengangkatnya. Sebab sebelum ia terangkat, ia memperoleh kesaksian bahwa ia berkenan kepada Allah.
+Karena iman, Henokh terangkat, sehingga ia tidak mengalami kematian, dan ia tidak ditemukan karena Tuhan telah mengangkatnya. Sebab sebelum ia terangkat, ia memperoleh kesaksian bahwa ia berkenan kepada Tuhan.
 
 ## Ibrani 11:6
 
-Dan tanpa iman, tidak mungkin orang berkenan kepada Allah. Sebab barangsiapa berpaling kepada Allah, ia harus percaya bahwa Allah ada, dan bahwa Allah memberi upah kepada orang yang sungguh-sungguh mencari Dia.
+Dan tanpa iman, tidak mungkin orang berkenan kepada Tuhan. Sebab barangsiapa berpaling kepada Tuhan, ia harus percaya bahwa Tuhan ada, dan bahwa Tuhan memberi upah kepada orang yang sungguh-sungguh mencari Dia.
 
 ## Ibrani 11:7
 
-Karena iman, Nuh, dengan petunjuk Allah tentang sesuatu yang belum kelihatan, dengan taat mempersiapkan sebuah bahtera untuk menyelamatkan keluarganya. Dengan iman itu ia menghukum dunia, dan ia ditentukan menjadi ahli waris kebenaran sesuai dengan iman.
+Karena iman, Nuh, dengan petunjuk Tuhan tentang sesuatu yang belum kelihatan, dengan taat mempersiapkan sebuah bahtera untuk menyelamatkan keluarganya. Dengan iman itu ia menghukum dunia, dan ia ditentukan menjadi ahli waris kebenaran sesuai dengan iman.
 
 ## Ibrani 11:8
 
@@ -38,7 +38,7 @@ Karena iman, ia tinggal di tanah yang dijanjikan seolah-olah di negeri asing, da
 
 ## Ibrani 11:10
 
-Sebab ia menanti-nantikan kota yang mempunyai dasar, yang direncanakan dan dibangun oleh Allah.
+Sebab ia menanti-nantikan kota yang mempunyai dasar, yang direncanakan dan dibangun oleh Tuhan.
 
 ## Ibrani 11:11
 
@@ -62,7 +62,7 @@ Dan kalau sekiranya mereka ingat akan tanah asal yang telah mereka tinggalkan, m
 
 ## Ibrani 11:16
 
-Tetapi sekarang mereka merindukan tanah air yang lebih baik, yaitu satu tanah air sorgawi. Sebab itu Allah tidak malu disebut Allah mereka, karena Ia telah mempersiapkan sebuah kota bagi mereka.
+Tetapi sekarang mereka merindukan tanah air yang lebih baik, yaitu satu tanah air sorgawi. Sebab itu Tuhan tidak malu disebut Tuhan mereka, karena Ia telah mempersiapkan sebuah kota bagi mereka.
 
 ## Ibrani 11:17
 
@@ -74,7 +74,7 @@ walaupun kepadanya telah dikatakan: "Keturunan yang berasal dari Ishaklah yang a
 
 ## Ibrani 11:19
 
-Karena ia berpikir, bahwa Allah berkuasa membangkitkan orang-orang, sekalipun dari antara orang mati. Dan dari sana ia seakan-akan telah menerimanya kembali.
+Karena ia berpikir, bahwa Tuhan berkuasa membangkitkan orang-orang, sekalipun dari antara orang mati. Dan dari sana ia seakan-akan telah menerimanya kembali.
 
 ## Ibrani 11:20
 
@@ -98,7 +98,7 @@ Karena iman, maka Musa, setelah dewasa, menolak disebut anak putri Firaun,
 
 ## Ibrani 11:25
 
-karena ia lebih suka menderita sengsara dengan umat Allah dari pada untuk sementara menikmati kesenangan dari dosa.
+karena ia lebih suka menderita sengsara dengan umat Tuhan dari pada untuk sementara menikmati kesenangan dari dosa.
 
 ## Ibrani 11:26
 
@@ -158,4 +158,4 @@ Dan mereka semua tidak memperoleh apa yang dijanjikan itu, sekalipun mereka tela
 
 ## Ibrani 11:40
 
-Sebab Allah telah menyediakan sesuatu yang lebih baik bagi kita; tanpa kita, mereka tidak dapat sampai kepada kesempurnaan.
+Sebab Tuhan telah menyediakan sesuatu yang lebih baik bagi kita; tanpa kita, mereka tidak dapat sampai kepada kesempurnaan.

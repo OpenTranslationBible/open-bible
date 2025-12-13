@@ -66,7 +66,7 @@ Maka manusia akan direndahkan dan setiap orang akan dibawa rendah, mata orang ya
 
 ## Yesaya 5:16
 
-Tetapi Tuhan semesta alam akan ditinggikan oleh keadilan-Nya, dan Allah yang kudus akan menunjukkan diri-Nya kudus oleh kebenaran-Nya.
+Tetapi Tuhan semesta alam akan ditinggikan oleh keadilan-Nya, dan Tuhan yang kudus akan menunjukkan diri-Nya kudus oleh kebenaran-Nya.
 
 ## Yesaya 5:17
 
@@ -80,7 +80,7 @@ Celakalah mereka yang menyeret dosa dengan tali-tali penipuan, dan kejahatan sep
 
 ## Yesaya 5:19
 
-kepada mereka yang berkata, "Biarlah Allah cepat, biarlah Ia mempercepat pekerjaan-Nya supaya kita dapat melihatnya; biarlah rencana Yang Kudus dari Israel mendekat dan terjadi, supaya kita dapat mengetahuinya."
+kepada mereka yang berkata, "Biarlah Tuhan cepat, biarlah Ia mempercepat pekerjaan-Nya supaya kita dapat melihatnya; biarlah rencana Yang Kudus dari Israel mendekat dan terjadi, supaya kita dapat mengetahuinya."
 
 ## Yesaya 5:20
 

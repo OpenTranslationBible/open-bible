@@ -2,7 +2,7 @@
 
 ## 2 Korintus 7:1
 
-Oleh karena itu, saudara-saudaraku yang terkasih, karena kita memiliki janji-janji ini, marilah kita menyucikan diri kita dari segala sesuatu yang mencemari tubuh dan roh, berusaha untuk mencapai kekudusan karena takut akan Allah.
+Oleh karena itu, saudara-saudaraku yang terkasih, karena kita memiliki janji-janji ini, marilah kita menyucikan diri kita dari segala sesuatu yang mencemari tubuh dan roh, berusaha untuk mencapai kekudusan karena takut akan Tuhan.
 
 ## 2 Korintus 7:2
 
@@ -22,7 +22,7 @@ Karena bahkan ketika kami tiba di Makedonia, kami tidak menemukan istirahat bagi
 
 ## 2 Korintus 7:6
 
-Tetapi Allah, yang menghibur orang yang tertekan, menghibur kami dengan kedatangan Titus;
+Tetapi Tuhan, yang menghibur orang yang tertekan, menghibur kami dengan kedatangan Titus;
 
 ## 2 Korintus 7:7
 
@@ -34,19 +34,19 @@ Karena meskipun aku menyebabkan kalian berduka dengan suratku, aku tidak menyesa
 
 ## 2 Korintus 7:9
 
-Sekarang aku bersukacita, bukan karena kalian dibuat berduka, tetapi karena dukacita kalian membawa pertobatan; karena kalian dibuat berduka dengan cara yang sesuai dengan kehendak Allah, sehingga kalian tidak mengalami kerugian dari kami.
+Sekarang aku bersukacita, bukan karena kalian dibuat berduka, tetapi karena dukacita kalian membawa pertobatan; karena kalian dibuat berduka dengan cara yang sesuai dengan kehendak Tuhan, sehingga kalian tidak mengalami kerugian dari kami.
 
 ## 2 Korintus 7:10
 
-Karena dukacita yang sesuai dengan kehendak Allah membawa pertobatan yang mengarah pada keselamatan dan tidak meninggalkan penyesalan, tetapi dukacita duniawi membawa kematian.
+Karena dukacita yang sesuai dengan kehendak Tuhan membawa pertobatan yang mengarah pada keselamatan dan tidak meninggalkan penyesalan, tetapi dukacita duniawi membawa kematian.
 
 ## 2 Korintus 7:11
 
-Karena lihatlah betapa kesungguhan hal ini—dukacita yang sesuai dengan kehendak Allah—telah menghasilkan dalam diri kalian: pembenaran diri, kemarahan, ketakutan, kerinduan, semangat, perbaikan kesalahan! Dalam segala hal kalian menunjukkan diri kalian tidak bersalah dalam hal ini.
+Karena lihatlah betapa kesungguhan hal ini—dukacita yang sesuai dengan kehendak Tuhan—telah menghasilkan dalam diri kalian: pembenaran diri, kemarahan, ketakutan, kerinduan, semangat, perbaikan kesalahan! Dalam segala hal kalian menunjukkan diri kalian tidak bersalah dalam hal ini.
 
 ## 2 Korintus 7:12
 
-Jadi meskipun aku menulis kepada kalian, itu bukan untuk kepentingan pelaku kesalahan maupun untuk kepentingan yang dirugikan, tetapi agar kesungguhan kalian atas nama kami akan terungkap kepada kalian di hadapan Allah.
+Jadi meskipun aku menulis kepada kalian, itu bukan untuk kepentingan pelaku kesalahan maupun untuk kepentingan yang dirugikan, tetapi agar kesungguhan kalian atas nama kami akan terungkap kepada kalian di hadapan Tuhan.
 
 ## 2 Korintus 7:13
 

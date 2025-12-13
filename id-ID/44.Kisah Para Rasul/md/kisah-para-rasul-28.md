@@ -100,7 +100,7 @@ Tetapi kami ingin mendengar pandanganmu, karena kami tahu bahwa orang-orang di m
 
 ## Kisah Para Rasul 28:23
 
-Mereka mengatur untuk bertemu Paulus pada hari tertentu, dan lebih banyak orang datang ke tempat tinggalnya. Ia menjelaskan kepada mereka dari pagi hingga malam, bersaksi tentang kerajaan Allah dan berusaha meyakinkan mereka tentang Yesus dari Hukum Musa dan para Nabi.
+Mereka mengatur untuk bertemu Paulus pada hari tertentu, dan lebih banyak orang datang ke tempat tinggalnya. Ia menjelaskan kepada mereka dari pagi hingga malam, bersaksi tentang kerajaan Tuhan dan berusaha meyakinkan mereka tentang Yesus dari Hukum Musa dan para Nabi.
 
 ## Kisah Para Rasul 28:24
 
@@ -129,7 +129,7 @@ dengan mengatakan,
 
 ## Kisah Para Rasul 28:28
 
-"Oleh karena itu, pahamilah bahwa keselamatan dari Allah ini telah dikirim kepada bangsa-bangsa lain, dan mereka akan mendengarkannya."
+"Oleh karena itu, pahamilah bahwa keselamatan dari Tuhan ini telah dikirim kepada bangsa-bangsa lain, dan mereka akan mendengarkannya."
 
 ---
 
@@ -143,4 +143,4 @@ Paulus tinggal di sana selama dua tahun penuh di rumah sewanya sendiri dan menya
 
 ## Kisah Para Rasul 28:31
 
-memberitakan kerajaan Allah dan mengajar tentang Tuhan Yesus Kristus dengan segala keberanian, tanpa hambatan.
+memberitakan kerajaan Tuhan dan mengajar tentang Tuhan Yesus Kristus dengan segala keberanian, tanpa hambatan.

@@ -1,187 +1,168 @@
 {
-    "book": "Mazmur",
-    "chapter": 72,
-    "verses": [
-        {
-            "text": [
-                "Mazmur dari Salomo."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Ya Allah, berikanlah penghakiman-Mu kepada raja,",
-                "> Dan keadilan-Mu kepada anak raja."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Kiranya ia memerintah umat-Mu dengan keadilan",
-                "> Dan orang-orang-Mu yang tertindas dengan kesetaraan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Kiranya gunung-gunung membawa damai sejahtera bagi umat,",
-                "> Dan bukit-bukit, melalui kebenaran."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Kiranya ia membela orang-orang tertindas di antara umat,",
-                "> Menyelamatkan anak-anak orang miskin,",
-                "> Dan menundukkan penindas."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Kiranya mereka menghormati Engkau selama matahari ada,",
-                "> Dan selama bulan ada, sepanjang segala generasi."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Kiranya ia turun seperti hujan ke atas rumput yang baru dipotong,",
-                "> Seperti hujan yang menyuburkan bumi."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Kiranya orang benar berkembang pada zamannya,",
-                "> Dan kiranya ada kelimpahan damai sejahtera sampai bulan tidak ada lagi."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Kiranya ia juga berkuasa dari laut ke laut,",
-                "> Dan dari Sungai Efrat sampai ke ujung bumi."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Kiranya para pengembara gurun sujud di hadapannya,",
-                "> Dan kiranya musuh-musuhnya menjilat debu."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Kiranya raja-raja Tarsis dan pulau-pulau membawa persembahan;",
-                "> Kiranya raja-raja Sheba dan Seba mempersembahkan upeti."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Dan kiranya semua raja sujud di hadapannya,",
-                "> Kiranya semua bangsa melayani dia."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Karena ia akan membebaskan orang miskin ketika mereka memohon pertolongan,",
-                "> Juga orang tertindas, dan mereka yang tidak punya penolong."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Ia akan menunjukkan belas kasihan kepada orang miskin dan yang membutuhkan,",
-                "> Dan ia akan melindungi nyawa orang miskin."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Ia akan menebus nyawa mereka dari penindasan dan kekerasan,",
-                "> Dan darah mereka akan dihargai di matanya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Maka kiranya ia hidup, dan kiranya emas dari Sheba diberikan kepadanya;",
-                "> Dan kiranya mereka berdoa untuknya terus-menerus;",
-                "> Kiranya mereka memberkatinya sepanjang hari."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Kiranya ada kelimpahan gandum di bumi, bahkan di puncak-puncak gunung;",
-                "> Buahnya akan bergelombang seperti pohon aras di Lebanon;",
-                "> Dan kiranya mereka dari kota berkembang seperti tumbuh-tumbuhan di bumi."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Kiranya namanya bertahan selamanya;",
-                "> Kiranya namanya terus ada selama matahari bersinar;",
-                "---",
-                "> Dan kiranya orang-orang memberkati diri mereka melalui dia;",
-                "> Kiranya semua bangsa menyebutnya diberkati."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Terpujilah Tuhan Allah, Allah Israel,",
-                "> Yang sendirian melakukan keajaiban."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Dan terpujilah nama-Nya yang mulia selamanya;",
-                "> Dan kiranya seluruh bumi dipenuhi dengan kemuliaan-Nya.",
-                "> Amin dan Amin."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Doa-doa Daud, anak Isai, telah selesai."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 72,
+  "verses": [
+    {
+      "text": ["Mazmur dari Salomo."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Ya Tuhan, berikanlah penghakiman-Mu kepada raja,",
+        "> Dan keadilan-Mu kepada anak raja."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Kiranya ia memerintah umat-Mu dengan keadilan",
+        "> Dan orang-orang-Mu yang tertindas dengan kesetaraan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Kiranya gunung-gunung membawa damai sejahtera bagi umat,",
+        "> Dan bukit-bukit, melalui kebenaran."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Kiranya ia membela orang-orang tertindas di antara umat,",
+        "> Menyelamatkan anak-anak orang miskin,",
+        "> Dan menundukkan penindas."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Kiranya mereka menghormati Engkau selama matahari ada,",
+        "> Dan selama bulan ada, sepanjang segala generasi."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Kiranya ia turun seperti hujan ke atas rumput yang baru dipotong,",
+        "> Seperti hujan yang menyuburkan bumi."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Kiranya orang benar berkembang pada zamannya,",
+        "> Dan kiranya ada kelimpahan damai sejahtera sampai bulan tidak ada lagi."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Kiranya ia juga berkuasa dari laut ke laut,",
+        "> Dan dari Sungai Efrat sampai ke ujung bumi."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Kiranya para pengembara gurun sujud di hadapannya,",
+        "> Dan kiranya musuh-musuhnya menjilat debu."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Kiranya raja-raja Tarsis dan pulau-pulau membawa persembahan;",
+        "> Kiranya raja-raja Sheba dan Seba mempersembahkan upeti."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Dan kiranya semua raja sujud di hadapannya,",
+        "> Kiranya semua bangsa melayani dia."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Karena ia akan membebaskan orang miskin ketika mereka memohon pertolongan,",
+        "> Juga orang tertindas, dan mereka yang tidak punya penolong."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Ia akan menunjukkan belas kasihan kepada orang miskin dan yang membutuhkan,",
+        "> Dan ia akan melindungi nyawa orang miskin."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Ia akan menebus nyawa mereka dari penindasan dan kekerasan,",
+        "> Dan darah mereka akan dihargai di matanya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Maka kiranya ia hidup, dan kiranya emas dari Sheba diberikan kepadanya;",
+        "> Dan kiranya mereka berdoa untuknya terus-menerus;",
+        "> Kiranya mereka memberkatinya sepanjang hari."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Kiranya ada kelimpahan gandum di bumi, bahkan di puncak-puncak gunung;",
+        "> Buahnya akan bergelombang seperti pohon aras di Lebanon;",
+        "> Dan kiranya mereka dari kota berkembang seperti tumbuh-tumbuhan di bumi."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Kiranya namanya bertahan selamanya;",
+        "> Kiranya namanya terus ada selama matahari bersinar;",
+        "---",
+        "> Dan kiranya orang-orang memberkati diri mereka melalui dia;",
+        "> Kiranya semua bangsa menyebutnya diberkati."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": ["> Terpujilah Tuhan Tuhan, Tuhan Israel,", "> Yang sendirian melakukan keajaiban."]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> Dan terpujilah nama-Nya yang mulia selamanya;",
+        "> Dan kiranya seluruh bumi dipenuhi dengan kemuliaan-Nya.",
+        "> Amin dan Amin."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": ["> Doa-doa Daud, anak Isai, telah selesai."]
+    }
+  ]
 }

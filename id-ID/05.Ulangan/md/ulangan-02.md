@@ -26,7 +26,7 @@ Kamu harus membeli makanan dari mereka dengan uang supaya kamu dapat makan, dan 
 
 ## Ulangan 2:7
 
-Karena Tuhan, Allahmu, telah memberkati kamu dalam segala pekerjaan tanganmu. Dia telah mengawasi perjalananmu melalui padang gurun yang luas ini. Empat puluh tahun ini Tuhan, Allahmu, telah menyertai kamu; kamu tidak kekurangan apa pun.
+Karena Tuhan, Tuhanmu, telah memberkati kamu dalam segala pekerjaan tanganmu. Dia telah mengawasi perjalananmu melalui padang gurun yang luas ini. Empat puluh tahun ini Tuhan, Tuhanmu, telah menyertai kamu; kamu tidak kekurangan apa pun.
 
 ## Ulangan 2:8
 
@@ -114,11 +114,11 @@ Kamu akan menjual makanan kepada kami dengan uang supaya kami dapat makan, dan m
 
 ## Ulangan 2:29
 
-seperti yang diizinkan oleh keturunan Esau di Seir dan orang Moab di Ar kepada kami—sampai kami menyeberangi Yordan ke tanah yang diberikan Tuhan, Allah kami, kepada kami.”
+seperti yang diizinkan oleh keturunan Esau di Seir dan orang Moab di Ar kepada kami—sampai kami menyeberangi Yordan ke tanah yang diberikan Tuhan, Tuhan kami, kepada kami.”
 
 ## Ulangan 2:30
 
-Tetapi Sihon raja Hesybon tidak bersedia membiarkan kami melewati tanahnya; karena Tuhan, Allahmu, telah mengeraskan semangatnya dan membuat hatinya keras, untuk menyerahkannya kepadamu, seperti yang terjadi hari ini.
+Tetapi Sihon raja Hesybon tidak bersedia membiarkan kami melewati tanahnya; karena Tuhan, Tuhanmu, telah mengeraskan semangatnya dan membuat hatinya keras, untuk menyerahkannya kepadamu, seperti yang terjadi hari ini.
 
 ## Ulangan 2:31
 
@@ -130,7 +130,7 @@ Sihon kemudian keluar dengan seluruh rakyatnya untuk bertemu kami dalam pertempu
 
 ## Ulangan 2:33
 
-Dan Tuhan, Allah kita, menyerahkannya kepada kita, dan kita mengalahkannya dengan anak-anaknya dan seluruh rakyatnya.
+Dan Tuhan, Tuhan kita, menyerahkannya kepada kita, dan kita mengalahkannya dengan anak-anaknya dan seluruh rakyatnya.
 
 ## Ulangan 2:34
 
@@ -142,8 +142,8 @@ Kita hanya mengambil ternak dan jarahan dari kota-kota yang kita rebut.
 
 ## Ulangan 2:36
 
-Dari Aroer di tepi Lembah Arnon, dan dari kota di lembah, bahkan sampai Gilead, tidak ada kota yang terlalu kuat bagi kita. Tuhan, Allah kita, menyerahkan semuanya kepada kita.
+Dari Aroer di tepi Lembah Arnon, dan dari kota di lembah, bahkan sampai Gilead, tidak ada kota yang terlalu kuat bagi kita. Tuhan, Tuhan kita, menyerahkan semuanya kepada kita.
 
 ## Ulangan 2:37
 
-Dalam ketaatan kepada perintah Tuhan, Allah kita, kamu tidak menyerang tanah orang Amon, baik tanah di sepanjang aliran Yabok maupun yang di sekitar kota-kota di bukit.
+Dalam ketaatan kepada perintah Tuhan, Tuhan kita, kamu tidak menyerang tanah orang Amon, baik tanah di sepanjang aliran Yabok maupun yang di sekitar kota-kota di bukit.

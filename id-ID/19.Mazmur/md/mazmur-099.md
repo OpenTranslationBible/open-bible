@@ -25,7 +25,7 @@
 
 ## Mazmur 99:5
 
-> Tinggikanlah Tuhan, Allah kita  
+> Tinggikanlah Tuhan, Tuhan kita  
 > Dan sujudlah di tumpuan kaki-Nya;  
 > Kuduslah Ia.
 
@@ -47,12 +47,12 @@
 
 ## Mazmur 99:8
 
-> Tuhan, Allah kami, Engkau menjawab mereka;  
-> Engkau adalah Allah yang mengampuni mereka,  
+> Tuhan, Tuhan kami, Engkau menjawab mereka;  
+> Engkau adalah Tuhan yang mengampuni mereka,  
 > Namun pembalas atas perbuatan mereka yang salah.
 
 ## Mazmur 99:9
 
-> Tinggikanlah Tuhan, Allah kita  
+> Tinggikanlah Tuhan, Tuhan kita  
 > Dan sujudlah di bukit-Nya yang kudus,  
-> Sebab Tuhan, Allah kita, adalah kudus.
+> Sebab Tuhan, Tuhan kita, adalah kudus.

@@ -4,8 +4,8 @@
 
 ## Mazmur 81:1
 
-> Bernyanyilah dengan sukacita kepada Allah, kekuatan kita;  
-> Bersoraklah dengan gembira kepada Allah Yakub.
+> Bernyanyilah dengan sukacita kepada Tuhan, kekuatan kita;  
+> Bersoraklah dengan gembira kepada Tuhan Yakub.
 
 ## Mazmur 81:2
 
@@ -20,7 +20,7 @@
 ## Mazmur 81:4
 
 > Sebab itulah ketetapan bagi Israel,  
-> Perintah dari Allah Yakub.
+> Perintah dari Tuhan Yakub.
 
 ## Mazmur 81:5
 
@@ -53,12 +53,12 @@
 
 ## Mazmur 81:9
 
-> Janganlah ada di antaramu allah asing;  
-> Dan janganlah engkau sujud menyembah kepada allah asing.
+> Janganlah ada di antaramu Tuhan asing;  
+> Dan janganlah engkau sujud menyembah kepada Tuhan asing.
 
 ## Mazmur 81:10
 
-> Akulah Tuhan, Allahmu,  
+> Akulah Tuhan, Tuhanmu,  
 > Yang membawa engkau keluar dari tanah Mesir;  
 > Bukalah mulutmu lebar-lebar, dan Aku akan memuaskan engkau.
 

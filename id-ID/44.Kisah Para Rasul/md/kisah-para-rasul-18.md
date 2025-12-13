@@ -28,7 +28,7 @@ Namun, ketika mereka menentang dan menghina dia, ia mengebaskan pakaiannya dan b
 
 ## Kisah Para Rasul 18:7
 
-Ia kemudian meninggalkan sinagoga dan pergi ke rumah Titius Yustus, seorang penyembah Allah, yang rumahnya bersebelahan dengan sinagoga.
+Ia kemudian meninggalkan sinagoga dan pergi ke rumah Titius Yustus, seorang penyembah Tuhan, yang rumahnya bersebelahan dengan sinagoga.
 
 ## Kisah Para Rasul 18:8
 
@@ -46,7 +46,7 @@ karena Aku menyertaimu, dan tidak ada seorang pun yang akan menyerangmu atau men
 
 ## Kisah Para Rasul 18:11
 
-Jadi Paulus tinggal di Korintus selama satu tahun enam bulan, mengajarkan mereka firman Allah.
+Jadi Paulus tinggal di Korintus selama satu tahun enam bulan, mengajarkan mereka firman Tuhan.
 
 ---
 
@@ -56,7 +56,7 @@ Ketika Galio menjadi prokonsul di Akhaya, orang-orang Yahudi membuat serangan te
 
 ## Kisah Para Rasul 18:13
 
-dengan berkata, “Orang ini membujuk orang untuk menyembah Allah dengan cara yang bertentangan dengan hukum.”
+dengan berkata, “Orang ini membujuk orang untuk menyembah Tuhan dengan cara yang bertentangan dengan hukum.”
 
 ## Kisah Para Rasul 18:14
 
@@ -90,7 +90,7 @@ Meskipun mereka memintanya untuk tinggal lebih lama, ia memilih untuk tidak ting
 
 ## Kisah Para Rasul 18:21
 
-tetapi saat ia pergi, ia berkata, “Aku akan kembali kepada kalian jika Allah menghendaki.” Lalu ia berlayar dari Efesus.
+tetapi saat ia pergi, ia berkata, “Aku akan kembali kepada kalian jika Tuhan menghendaki.” Lalu ia berlayar dari Efesus.
 
 ---
 
@@ -114,7 +114,7 @@ Ia telah menerima pengajaran dalam ajaran Tuhan dan, dengan semangat yang berkob
 
 ## Kisah Para Rasul 18:26
 
-Ia mulai berbicara dengan berani di sinagoga. Ketika Priskila dan Akwila mendengarnya, mereka membawanya ke samping dan menjelaskan jalan Allah kepadanya dengan lebih tepat.
+Ia mulai berbicara dengan berani di sinagoga. Ketika Priskila dan Akwila mendengarnya, mereka membawanya ke samping dan menjelaskan jalan Tuhan kepadanya dengan lebih tepat.
 
 ## Kisah Para Rasul 18:27
 

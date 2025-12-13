@@ -2,7 +2,7 @@
 
 ## Imamat 26:1
 
-‘Jangan membuat berhala atau mendirikan patung pahatan atau batu peringatan untuk dirimu, juga jangan menempatkan batu berukir di tanahmu untuk sujud kepadanya; karena Akulah Tuhan, Allahmu.
+‘Jangan membuat berhala atau mendirikan patung pahatan atau batu peringatan untuk dirimu, juga jangan menempatkan batu berukir di tanahmu untuk sujud kepadanya; karena Akulah Tuhan, Tuhanmu.
 
 ## Imamat 26:2
 
@@ -46,11 +46,11 @@ Aku akan menempatkan tempat tinggal-Ku di antara kamu, dan jiwa-Ku tidak akan me
 
 ## Imamat 26:12
 
-Aku akan berjalan di antara kamu, Aku akan menjadi Allahmu, dan kamu akan menjadi umat-Ku.
+Aku akan berjalan di antara kamu, Aku akan menjadi Tuhanmu, dan kamu akan menjadi umat-Ku.
 
 ## Imamat 26:13
 
-Akulah Tuhan, Allahmu, yang membawa kamu keluar dari tanah Mesir sehingga kamu tidak lagi menjadi budak; Aku mematahkan palang kukmu dan membuatmu berjalan dengan kepala tegak.
+Akulah Tuhan, Tuhanmu, yang membawa kamu keluar dari tanah Mesir sehingga kamu tidak lagi menjadi budak; Aku mematahkan palang kukmu dan membuatmu berjalan dengan kepala tegak.
 
 ## Imamat 26:14
 
@@ -174,11 +174,11 @@ Karena tanah itu akan ditinggalkan oleh mereka dan akan menikmati hari Sabatnya 
 
 ## Imamat 26:44
 
-Namun meskipun demikian, ketika mereka berada di tanah musuh-musuh mereka, Aku tidak akan menolak mereka atau membenci mereka sehingga menghancurkan mereka sepenuhnya, memutuskan perjanjian-Ku dengan mereka; karena Akulah Tuhan, Allah mereka.
+Namun meskipun demikian, ketika mereka berada di tanah musuh-musuh mereka, Aku tidak akan menolak mereka atau membenci mereka sehingga menghancurkan mereka sepenuhnya, memutuskan perjanjian-Ku dengan mereka; karena Akulah Tuhan, Tuhan mereka.
 
 ## Imamat 26:45
 
-Demi mereka, Aku akan mengingat perjanjian dengan nenek moyang mereka, yang Aku bawa keluar dari tanah Mesir di hadapan bangsa-bangsa, agar Aku menjadi Allah mereka. Akulah Tuhan.’”
+Demi mereka, Aku akan mengingat perjanjian dengan nenek moyang mereka, yang Aku bawa keluar dari tanah Mesir di hadapan bangsa-bangsa, agar Aku menjadi Tuhan mereka. Akulah Tuhan.’”
 
 ## Imamat 26:46
 

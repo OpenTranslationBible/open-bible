@@ -57,7 +57,7 @@ Maka keduanya pergi ke ladang.
 
 ## 1 Samuel 20:12
 
-Kemudian Yonatan berkata kepada Daud, “Tuhan, Allah Israel, menjadi saksi!  
+Kemudian Yonatan berkata kepada Daud, “Tuhan, Tuhan Israel, menjadi saksi!  
 Ketika aku telah menyelidiki ayahku tentang waktu ini besok atau hari ketiga,  
 jika semuanya baik dengan Daud, tidakkah aku akan mengirim kabar kepadamu dan mengungkapkannya kepadamu?
 

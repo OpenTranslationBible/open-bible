@@ -14,7 +14,7 @@ Tobiah, orang Amon, yang ada di dekatnya, berkata, "Apa yang mereka bangun—bah
 
 ## Nehemia 4:4
 
-Dengarlah kami, ya Allah kami, karena kami dihina. Balikkanlah hinaan mereka ke atas kepala mereka sendiri dan jadikanlah mereka sebagai jarahan di tanah penawanan.
+Dengarlah kami, ya Tuhan kami, karena kami dihina. Balikkanlah hinaan mereka ke atas kepala mereka sendiri dan jadikanlah mereka sebagai jarahan di tanah penawanan.
 
 ## Nehemia 4:5
 
@@ -34,7 +34,7 @@ Mereka semua bersekongkol bersama untuk datang dan berperang melawan Yerusalem d
 
 ## Nehemia 4:9
 
-Sebagai tanggapan, kami berdoa kepada Allah kami dan menempatkan penjaga siang dan malam untuk melindungi dari ancaman ini.
+Sebagai tanggapan, kami berdoa kepada Tuhan kami dan menempatkan penjaga siang dan malam untuk melindungi dari ancaman ini.
 
 ## Nehemia 4:10
 
@@ -58,7 +58,7 @@ Setelah saya memeriksa keadaan, saya berdiri dan berkata kepada para bangsawan, 
 
 ## Nehemia 4:15
 
-Ketika musuh-musuh kami mendengar bahwa kami menyadari rencana mereka dan bahwa Allah telah menggagalkannya, kami semua kembali ke tembok, masing-masing ke pekerjaan kami sendiri.
+Ketika musuh-musuh kami mendengar bahwa kami menyadari rencana mereka dan bahwa Tuhan telah menggagalkannya, kami semua kembali ke tembok, masing-masing ke pekerjaan kami sendiri.
 
 ## Nehemia 4:16
 
@@ -78,7 +78,7 @@ Saya berbicara kepada para bangsawan, para pejabat, dan orang-orang lainnya, men
 
 ## Nehemia 4:20
 
-Setiap kali kamu mendengar suara terompet, berkumpullah kepada kami di sana. Allah kita akan berperang untuk kita!"
+Setiap kali kamu mendengar suara terompet, berkumpullah kepada kami di sana. Tuhan kita akan berperang untuk kita!"
 
 ## Nehemia 4:21
 

@@ -7,7 +7,7 @@ Kemudian Ayub melanjutkan perkataannya dan berkata,
 ## Ayub 29:2
 
 > "Sekiranya aku dapat seperti pada bulan-bulan yang lalu,  
-> Seperti pada hari-hari ketika Allah mengawasi aku;
+> Seperti pada hari-hari ketika Tuhan mengawasi aku;
 
 ## Ayub 29:3
 
@@ -17,7 +17,7 @@ Kemudian Ayub melanjutkan perkataannya dan berkata,
 ## Ayub 29:4
 
 > Seperti pada hari-hari masa mudaku,  
-> Ketika perlindungan Allah ada di atas kemahku;
+> Ketika perlindungan Tuhan ada di atas kemahku;
 
 ## Ayub 29:5
 

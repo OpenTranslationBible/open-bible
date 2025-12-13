@@ -1,132 +1,128 @@
 {
-    "book": "1 Yohanes",
-    "chapter": 4,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Saudara-saudara yang terkasih, jangan percaya setiap roh, tetapi ujilah roh-roh itu untuk menentukan apakah mereka berasal dari Allah, karena banyak nabi palsu telah pergi ke seluruh dunia."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Inilah cara kamu dapat mengenali Roh Allah: setiap roh yang mengakui Yesus Kristus telah datang dalam daging berasal dari Allah;"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "dan setiap roh yang tidak mengakui Yesus tidak berasal dari Allah; ini adalah roh antikristus, yang telah kamu dengar akan datang, dan sekarang sudah ada di dunia."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Kamu berasal dari Allah, anak-anak yang terkasih, dan telah mengalahkan mereka; karena Dia yang ada di dalam kamu lebih besar daripada dia yang ada di dalam dunia."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Mereka berasal dari dunia; oleh karena itu mereka berbicara dari sudut pandang dunia, dan dunia mendengarkan mereka."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Kita berasal dari Allah. Siapa pun yang mengenal Allah mendengarkan kita; siapa pun yang tidak berasal dari Allah tidak mendengarkan kita. Dengan ini kita mengenali roh kebenaran dan roh kesalahan."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Saudara-saudara yang terkasih, marilah kita saling mengasihi, karena kasih berasal dari Allah; dan setiap orang yang mengasihi lahir dari Allah dan mengenal Allah."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Siapa pun yang tidak mengasihi belum mengenal Allah, karena Allah adalah kasih."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Inilah cara kasih Allah dinyatakan di antara kita: Allah mengutus Anak-Nya yang tunggal ke dalam dunia supaya kita dapat hidup melalui Dia."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Inilah kasih: bukan bahwa kita telah mengasihi Allah, tetapi bahwa Dia telah mengasihi kita dan mengutus Anak-Nya untuk menjadi pendamaian bagi dosa-dosa kita."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Saudara-saudara yang terkasih, karena Allah telah mengasihi kita sedemikian rupa, kita juga harus saling mengasihi."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tidak ada seorang pun yang pernah melihat Allah; jika kita saling mengasihi, Allah tinggal di dalam kita, dan kasih-Nya menjadi sempurna di dalam kita."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Dengan ini kita tahu bahwa kita tinggal di dalam Dia dan Dia di dalam kita, karena Dia telah memberikan kita Roh-Nya."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Kita telah melihat dan bersaksi bahwa Bapa telah mengutus Anak untuk menjadi Juruselamat dunia."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Siapa pun yang mengakui bahwa Yesus adalah Anak Allah, Allah tinggal di dalam dia, dan dia di dalam Allah."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Kita telah datang untuk mengetahui dan percaya kasih yang Allah miliki untuk kita. Allah adalah kasih, dan siapa pun yang tinggal di dalam kasih tinggal di dalam Allah, dan Allah tinggal di dalam dia."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Dengan ini, kasih menjadi sempurna di antara kita, sehingga kita dapat memiliki keyakinan pada hari penghakiman, karena sebagaimana Dia ada, demikianlah kita di dunia ini."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Tidak ada ketakutan dalam kasih, tetapi kasih yang sempurna mengusir ketakutan, karena ketakutan melibatkan hukuman, dan orang yang takut tidak menjadi sempurna dalam kasih."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Kita mengasihi Dia hanya karena Dia terlebih dahulu mengasihi kita."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Jika seseorang berkata, \"Aku mengasihi Allah,\" namun membenci saudaranya atau saudarinya, dia adalah pendusta; karena orang yang tidak mengasihi saudaranya atau saudarinya yang telah dilihatnya, tidak dapat mengasihi Allah, yang belum dilihatnya."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Dan inilah perintah yang kita terima dari Dia: bahwa orang yang mengasihi Allah harus juga mengasihi saudaranya dan saudarinya."
-            ]
-        }
-    ]
+  "book": "1 Yohanes",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Saudara-saudara yang terkasih, jangan percaya setiap roh, tetapi ujilah roh-roh itu untuk menentukan apakah mereka berasal dari Tuhan, karena banyak nabi palsu telah pergi ke seluruh dunia."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Inilah cara kamu dapat mengenali Roh Tuhan: setiap roh yang mengakui Yesus Kristus telah datang dalam daging berasal dari Tuhan;"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "dan setiap roh yang tidak mengakui Yesus tidak berasal dari Tuhan; ini adalah roh antikristus, yang telah kamu dengar akan datang, dan sekarang sudah ada di dunia."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Kamu berasal dari Tuhan, anak-anak yang terkasih, dan telah mengalahkan mereka; karena Dia yang ada di dalam kamu lebih besar daripada dia yang ada di dalam dunia."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Mereka berasal dari dunia; oleh karena itu mereka berbicara dari sudut pandang dunia, dan dunia mendengarkan mereka."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Kita berasal dari Tuhan. Siapa pun yang mengenal Tuhan mendengarkan kita; siapa pun yang tidak berasal dari Tuhan tidak mendengarkan kita. Dengan ini kita mengenali roh kebenaran dan roh kesalahan."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Saudara-saudara yang terkasih, marilah kita saling mengasihi, karena kasih berasal dari Tuhan; dan setiap orang yang mengasihi lahir dari Tuhan dan mengenal Tuhan."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": ["Siapa pun yang tidak mengasihi belum mengenal Tuhan, karena Tuhan adalah kasih."]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Inilah cara kasih Tuhan dinyatakan di antara kita: Tuhan mengutus Anak-Nya yang tunggal ke dalam dunia supaya kita dapat hidup melalui Dia."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Inilah kasih: bukan bahwa kita telah mengasihi Tuhan, tetapi bahwa Dia telah mengasihi kita dan mengutus Anak-Nya untuk menjadi pendamaian bagi dosa-dosa kita."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Saudara-saudara yang terkasih, karena Tuhan telah mengasihi kita sedemikian rupa, kita juga harus saling mengasihi."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Tidak ada seorang pun yang pernah melihat Tuhan; jika kita saling mengasihi, Tuhan tinggal di dalam kita, dan kasih-Nya menjadi sempurna di dalam kita."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Dengan ini kita tahu bahwa kita tinggal di dalam Dia dan Dia di dalam kita, karena Dia telah memberikan kita Roh-Nya."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Kita telah melihat dan bersaksi bahwa Bapa telah mengutus Anak untuk menjadi Juruselamat dunia."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Siapa pun yang mengakui bahwa Yesus adalah Anak Tuhan, Tuhan tinggal di dalam dia, dan dia di dalam Tuhan."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Kita telah datang untuk mengetahui dan percaya kasih yang Tuhan miliki untuk kita. Tuhan adalah kasih, dan siapa pun yang tinggal di dalam kasih tinggal di dalam Tuhan, dan Tuhan tinggal di dalam dia."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Dengan ini, kasih menjadi sempurna di antara kita, sehingga kita dapat memiliki keyakinan pada hari penghakiman, karena sebagaimana Dia ada, demikianlah kita di dunia ini."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Tidak ada ketakutan dalam kasih, tetapi kasih yang sempurna mengusir ketakutan, karena ketakutan melibatkan hukuman, dan orang yang takut tidak menjadi sempurna dalam kasih."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": ["Kita mengasihi Dia hanya karena Dia terlebih dahulu mengasihi kita."]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Jika seseorang berkata, \"Aku mengasihi Tuhan,\" namun membenci saudaranya atau saudarinya, dia adalah pendusta; karena orang yang tidak mengasihi saudaranya atau saudarinya yang telah dilihatnya, tidak dapat mengasihi Tuhan, yang belum dilihatnya."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Dan inilah perintah yang kita terima dari Dia: bahwa orang yang mengasihi Tuhan harus juga mengasihi saudaranya dan saudarinya."
+      ]
+    }
+  ]
 }

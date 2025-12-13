@@ -1,114 +1,108 @@
 {
-    "book": "Keluaran",
-    "chapter": 24,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Kemudian Tuhan memberi petunjuk kepada Musa, “Naiklah menghadap Tuhan, engkau dan Harun, Nadab dan Abihu, bersama dengan tujuh puluh tua-tua Israel, dan kamu harus menyembah dari kejauhan."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Hanya Musa yang boleh mendekat kepada Tuhan; yang lain tidak boleh mendekat, dan orang-orang tidak boleh naik bersamanya.”"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Musa datang dan menyampaikan kepada orang-orang semua firman dan ketetapan Tuhan; dan dengan satu suara, mereka menjawab, “Kami akan melakukan semua firman yang telah Tuhan ucapkan.”"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Musa mencatat semua firman Tuhan. Bangun pagi-pagi keesokan harinya, ia mendirikan sebuah mezbah di kaki gunung dan mendirikan dua belas pilar batu yang mewakili dua belas suku Israel."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Kemudian ia mengutus orang-orang muda dari antara orang Israel, yang mempersembahkan korban bakaran dan mengorbankan lembu jantan sebagai korban perdamaian kepada Tuhan."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Musa mengambil setengah dari darah itu dan menaruhnya dalam mangkuk, sementara setengahnya lagi ia percikkan pada mezbah."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Kemudian ia membacakan Kitab Perjanjian kepada orang-orang, yang menjawab, “Kami akan melakukan semua yang telah Tuhan ucapkan, dan kami akan menaati.”"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Musa mengambil darah itu, memercikkannya pada orang-orang, dan menyatakan, “Inilah darah perjanjian yang telah Tuhan buat dengan kamu sesuai dengan semua firman ini.”"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Musa, bersama dengan Harun, Nadab, Abihu, dan tujuh puluh tua-tua Israel, naik."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Mereka melihat Allah Israel, dan di bawah kaki-Nya ada sesuatu seperti lantai dari batu nilam, sejernih langit itu sendiri."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Namun Dia tidak mengangkat tangan-Nya terhadap para pemimpin orang Israel; mereka melihat Allah, dan mereka makan dan minum."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tuhan berkata kepada Musa, “Naiklah kepada-Ku di gunung dan tetaplah di sana, dan Aku akan memberikan kepadamu loh batu dengan Hukum dan perintah yang telah Kutulis untuk pengajaran mereka.”"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Musa berangkat bersama Yosua, pembantunya, dan naik ke gunung Allah."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Kepada para tua-tua, ia berkata, “Tunggulah di sini untuk kami sampai kami kembali kepadamu. Harun dan Hur ada bersamamu; siapa pun yang mempunyai perkara hukum dapat mendekati mereka.”"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Musa naik ke gunung, dan awan menyelimutinya."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Kemuliaan Tuhan berdiam di Gunung Sinai, dan awan menutupinya selama enam hari; pada hari ketujuh, Tuhan memanggil Musa dari dalam awan itu."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Bagi orang Israel, kemuliaan Tuhan tampak seperti api yang menghanguskan di puncak gunung."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Musa memasuki awan saat ia naik ke gunung, dan ia tinggal di gunung selama empat puluh hari dan empat puluh malam."
-            ]
-        }
-    ]
+  "book": "Keluaran",
+  "chapter": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Kemudian Tuhan memberi petunjuk kepada Musa, “Naiklah menghadap Tuhan, engkau dan Harun, Nadab dan Abihu, bersama dengan tujuh puluh tua-tua Israel, dan kamu harus menyembah dari kejauhan."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Hanya Musa yang boleh mendekat kepada Tuhan; yang lain tidak boleh mendekat, dan orang-orang tidak boleh naik bersamanya.”"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Musa datang dan menyampaikan kepada orang-orang semua firman dan ketetapan Tuhan; dan dengan satu suara, mereka menjawab, “Kami akan melakukan semua firman yang telah Tuhan ucapkan.”"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Musa mencatat semua firman Tuhan. Bangun pagi-pagi keesokan harinya, ia mendirikan sebuah mezbah di kaki gunung dan mendirikan dua belas pilar batu yang mewakili dua belas suku Israel."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Kemudian ia mengutus orang-orang muda dari antara orang Israel, yang mempersembahkan korban bakaran dan mengorbankan lembu jantan sebagai korban perdamaian kepada Tuhan."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Musa mengambil setengah dari darah itu dan menaruhnya dalam mangkuk, sementara setengahnya lagi ia percikkan pada mezbah."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Kemudian ia membacakan Kitab Perjanjian kepada orang-orang, yang menjawab, “Kami akan melakukan semua yang telah Tuhan ucapkan, dan kami akan menaati.”"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Musa mengambil darah itu, memercikkannya pada orang-orang, dan menyatakan, “Inilah darah perjanjian yang telah Tuhan buat dengan kamu sesuai dengan semua firman ini.”"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": ["Musa, bersama dengan Harun, Nadab, Abihu, dan tujuh puluh tua-tua Israel, naik."]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Mereka melihat Tuhan Israel, dan di bawah kaki-Nya ada sesuatu seperti lantai dari batu nilam, sejernih langit itu sendiri."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Namun Dia tidak mengangkat tangan-Nya terhadap para pemimpin orang Israel; mereka melihat Tuhan, dan mereka makan dan minum."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Tuhan berkata kepada Musa, “Naiklah kepada-Ku di gunung dan tetaplah di sana, dan Aku akan memberikan kepadamu loh batu dengan Hukum dan perintah yang telah Kutulis untuk pengajaran mereka.”"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["Musa berangkat bersama Yosua, pembantunya, dan naik ke gunung Tuhan."]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Kepada para tua-tua, ia berkata, “Tunggulah di sini untuk kami sampai kami kembali kepadamu. Harun dan Hur ada bersamamu; siapa pun yang mempunyai perkara hukum dapat mendekati mereka.”"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["Musa naik ke gunung, dan awan menyelimutinya."]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Kemuliaan Tuhan berdiam di Gunung Sinai, dan awan menutupinya selama enam hari; pada hari ketujuh, Tuhan memanggil Musa dari dalam awan itu."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Bagi orang Israel, kemuliaan Tuhan tampak seperti api yang menghanguskan di puncak gunung."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Musa memasuki awan saat ia naik ke gunung, dan ia tinggal di gunung selama empat puluh hari dan empat puluh malam."
+      ]
+    }
+  ]
 }

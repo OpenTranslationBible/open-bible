@@ -15,14 +15,14 @@ Dan Yehu anak Hanani pelihat itu keluar menemui dia dan berkata kepada Raja Yosa
 
 ## 2 Tawarikh 19:3
 
-Tetapi ada sedikit kebaikan padamu, karena engkau telah menyingkirkan tiang-tiang Asyera dari negeri ini, dan engkau telah menetapkan hatimu untuk mencari Allah."
+Tetapi ada sedikit kebaikan padamu, karena engkau telah menyingkirkan tiang-tiang Asyera dari negeri ini, dan engkau telah menetapkan hatimu untuk mencari Tuhan."
 
 ---
 
 ## 2 Tawarikh 19:4
 
 Yosafat tinggal di Yerusalem, dan ia pergi lagi di antara rakyat dari Bersyeba sampai ke pegunungan Efraim,  
-dan menuntun mereka kembali kepada Tuhan, Allah nenek moyang mereka.
+dan menuntun mereka kembali kepada Tuhan, Tuhan nenek moyang mereka.
 
 ---
 
@@ -41,7 +41,7 @@ Ia berkata kepada para hakim itu, "Perhatikanlah tindakanmu, karena kamu tidak m
 ## 2 Tawarikh 19:7
 
 Sekarang, biarlah ketakutan akan Tuhan ada padamu; berhati-hatilah dengan apa yang kamu lakukan,  
-karena tidak ada ketidakadilan pada Tuhan Allah kita, atau keberpihakan, atau penerimaan suap."
+karena tidak ada ketidakadilan pada Tuhan Tuhan kita, atau keberpihakan, atau penerimaan suap."
 
 ---
 

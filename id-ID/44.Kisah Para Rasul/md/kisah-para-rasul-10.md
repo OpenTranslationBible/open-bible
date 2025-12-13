@@ -6,15 +6,15 @@ Di Kaisarea, ada seorang bernama Kornelius, seorang perwira dari resimen yang di
 
 ## Kisah Para Rasul 10:2
 
-Ia adalah orang yang saleh yang, bersama seluruh keluarganya, takut akan Allah. Ia memberi banyak sedekah kepada orang-orang Yahudi dan berdoa kepada Allah secara teratur.
+Ia adalah orang yang saleh yang, bersama seluruh keluarganya, takut akan Tuhan. Ia memberi banyak sedekah kepada orang-orang Yahudi dan berdoa kepada Tuhan secara teratur.
 
 ## Kisah Para Rasul 10:3
 
-Sekitar jam tiga sore, ia dengan jelas melihat dalam suatu penglihatan seorang malaikat Allah, yang datang kepadanya dan berkata, “Kornelius!”
+Sekitar jam tiga sore, ia dengan jelas melihat dalam suatu penglihatan seorang malaikat Tuhan, yang datang kepadanya dan berkata, “Kornelius!”
 
 ## Kisah Para Rasul 10:4
 
-Kornelius memandangnya dengan saksama dan dipenuhi rasa takut. “Ada apa, Tuhan?” tanyanya. Malaikat itu berkata, “Doa-doamu dan pemberianmu kepada orang miskin telah naik sebagai persembahan peringatan di hadapan Allah.
+Kornelius memandangnya dengan saksama dan dipenuhi rasa takut. “Ada apa, Tuhan?” tanyanya. Malaikat itu berkata, “Doa-doamu dan pemberianmu kepada orang miskin telah naik sebagai persembahan peringatan di hadapan Tuhan.
 
 ## Kisah Para Rasul 10:5
 
@@ -60,7 +60,7 @@ Tetapi Petrus menjawab, “Tidak mungkin, Tuhan! Aku belum pernah makan sesuatu 
 
 ## Kisah Para Rasul 10:15
 
-Suara itu berbicara lagi kepadanya, “Apa yang telah Allah sucikan, janganlah engkau sebut najis.”
+Suara itu berbicara lagi kepadanya, “Apa yang telah Tuhan sucikan, janganlah engkau sebut najis.”
 
 ## Kisah Para Rasul 10:16
 
@@ -92,7 +92,7 @@ Petrus turun menemui orang-orang itu dan berkata, “Akulah yang kamu cari. Apa 
 
 ## Kisah Para Rasul 10:22
 
-Mereka menjawab, “Kornelius, seorang perwira, seorang yang benar dan takut akan Allah, yang dikenal baik oleh seluruh bangsa Yahudi, diarahkan oleh seorang malaikat suci untuk memanggil engkau ke rumahnya untuk mendengar apa yang hendak engkau katakan.”
+Mereka menjawab, “Kornelius, seorang perwira, seorang yang benar dan takut akan Tuhan, yang dikenal baik oleh seluruh bangsa Yahudi, diarahkan oleh seorang malaikat suci untuk memanggil engkau ke rumahnya untuk mendengar apa yang hendak engkau katakan.”
 
 ## Kisah Para Rasul 10:23
 
@@ -118,7 +118,7 @@ Sambil berbicara dengannya, Petrus masuk dan mendapati banyak orang berkumpul.
 
 ## Kisah Para Rasul 10:28
 
-Ia berkata kepada mereka: “Kamu tahu bahwa tidak diperbolehkan menurut hukum kita bagi seorang Yahudi untuk bergaul dengan atau mengunjungi seorang bukan Yahudi. Tetapi Allah telah menunjukkan kepadaku bahwa aku tidak boleh menyebut seseorang najis atau tidak bersih.
+Ia berkata kepada mereka: “Kamu tahu bahwa tidak diperbolehkan menurut hukum kita bagi seorang Yahudi untuk bergaul dengan atau mengunjungi seorang bukan Yahudi. Tetapi Tuhan telah menunjukkan kepadaku bahwa aku tidak boleh menyebut seseorang najis atau tidak bersih.
 
 ## Kisah Para Rasul 10:29
 
@@ -132,7 +132,7 @@ Kornelius menjawab, “Empat hari yang lalu, pada jam ini juga, aku sedang berdo
 
 ## Kisah Para Rasul 10:31
 
-dan berkata, ‘Kornelius, doamu telah didengar, dan pemberianmu kepada orang miskin telah diingat di hadapan Allah.
+dan berkata, ‘Kornelius, doamu telah didengar, dan pemberianmu kepada orang miskin telah diingat di hadapan Tuhan.
 
 ## Kisah Para Rasul 10:32
 
@@ -140,13 +140,13 @@ Kirimlah ke Yope untuk Simon, yang juga disebut Petrus. Ia menginap di rumah Sim
 
 ## Kisah Para Rasul 10:33
 
-Jadi aku segera mengirim orang untuk menjemputmu, dan engkau telah berbaik hati datang. Sekarang kami semua ada di sini di hadapan Allah untuk mendengarkan segala sesuatu yang Tuhan perintahkan kepadamu untuk disampaikan kepada kami.”
+Jadi aku segera mengirim orang untuk menjemputmu, dan engkau telah berbaik hati datang. Sekarang kami semua ada di sini di hadapan Tuhan untuk mendengarkan segala sesuatu yang Tuhan perintahkan kepadamu untuk disampaikan kepada kami.”
 
 ---
 
 ## Kisah Para Rasul 10:34
 
-Kemudian Petrus mulai berbicara: “Sekarang aku benar-benar mengerti bahwa Allah tidak memandang bulu
+Kemudian Petrus mulai berbicara: “Sekarang aku benar-benar mengerti bahwa Tuhan tidak memandang bulu
 
 ## Kisah Para Rasul 10:35
 
@@ -154,7 +154,7 @@ tetapi menerima dari setiap bangsa orang yang takut akan Dia dan melakukan apa y
 
 ## Kisah Para Rasul 10:36
 
-Kamu tahu tentang pesan yang Allah kirimkan kepada bangsa Israel, memberitakan kabar baik tentang damai sejahtera melalui Yesus Kristus, yang adalah Tuhan dari semua.
+Kamu tahu tentang pesan yang Tuhan kirimkan kepada bangsa Israel, memberitakan kabar baik tentang damai sejahtera melalui Yesus Kristus, yang adalah Tuhan dari semua.
 
 ## Kisah Para Rasul 10:37
 
@@ -162,7 +162,7 @@ Kamu tahu apa yang telah terjadi di seluruh Yudea, dimulai di Galilea setelah ba
 
 ## Kisah Para Rasul 10:38
 
-bagaimana Allah mengurapi Yesus dari Nazaret dengan Roh Kudus dan kuasa, dan bagaimana Ia berkeliling berbuat baik dan menyembuhkan semua yang dikuasai oleh iblis, karena Allah menyertai Dia.
+bagaimana Tuhan mengurapi Yesus dari Nazaret dengan Roh Kudus dan kuasa, dan bagaimana Ia berkeliling berbuat baik dan menyembuhkan semua yang dikuasai oleh iblis, karena Tuhan menyertai Dia.
 
 ## Kisah Para Rasul 10:39
 
@@ -170,15 +170,15 @@ Kami adalah saksi dari segala sesuatu yang Ia lakukan di tanah orang Yahudi dan 
 
 ## Kisah Para Rasul 10:40
 
-tetapi Allah membangkitkan-Nya dari kematian pada hari ketiga dan memungkinkan Dia untuk dilihat,
+tetapi Tuhan membangkitkan-Nya dari kematian pada hari ketiga dan memungkinkan Dia untuk dilihat,
 
 ## Kisah Para Rasul 10:41
 
-tidak oleh semua orang, tetapi oleh saksi-saksi yang telah dipilih oleh Allah—oleh kami yang makan dan minum bersama-Nya setelah Ia bangkit dari kematian.
+tidak oleh semua orang, tetapi oleh saksi-saksi yang telah dipilih oleh Tuhan—oleh kami yang makan dan minum bersama-Nya setelah Ia bangkit dari kematian.
 
 ## Kisah Para Rasul 10:42
 
-Ia memerintahkan kami untuk memberitakan kepada orang-orang dan bersaksi bahwa Ia adalah yang ditunjuk oleh Allah sebagai hakim atas orang yang hidup dan yang mati.
+Ia memerintahkan kami untuk memberitakan kepada orang-orang dan bersaksi bahwa Ia adalah yang ditunjuk oleh Tuhan sebagai hakim atas orang yang hidup dan yang mati.
 
 ## Kisah Para Rasul 10:43
 
@@ -196,7 +196,7 @@ Orang-orang percaya Yahudi yang datang bersama Petrus tercengang bahwa karunia R
 
 ## Kisah Para Rasul 10:46
 
-Mereka mendengar mereka berbicara dalam berbagai bahasa dan memuliakan Allah. Kemudian Petrus berkata,
+Mereka mendengar mereka berbicara dalam berbagai bahasa dan memuliakan Tuhan. Kemudian Petrus berkata,
 
 ## Kisah Para Rasul 10:47
 

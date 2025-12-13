@@ -105,4 +105,4 @@ Lalu Bildad, orang Suah, menjawab dan berkata:
 ## Ayub 18:21
 
 > Pastilah ini adalah tempat tinggal orang fasik,
-> dan ini adalah tempat orang yang tidak mengenal Allah."
+> dan ini adalah tempat orang yang tidak mengenal Tuhan."

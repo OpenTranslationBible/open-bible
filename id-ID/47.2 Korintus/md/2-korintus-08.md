@@ -2,7 +2,7 @@
 
 ## 2 Korintus 8:1
 
-Saudara-saudara yang terkasih, kami ingin memberitahukan kepada kamu tentang kasih karunia Allah yang telah dianugerahkan kepada jemaat-jemaat di Makedonia,
+Saudara-saudara yang terkasih, kami ingin memberitahukan kepada kamu tentang kasih karunia Tuhan yang telah dianugerahkan kepada jemaat-jemaat di Makedonia,
 
 ## 2 Korintus 8:2
 
@@ -18,7 +18,7 @@ Memohon kepada kami dengan sangat agar mereka diberi kesempatan untuk turut sert
 
 ## 2 Korintus 8:5
 
-Dan ini, melampaui apa yang kami harapkan, karena mereka pertama-tama menyerahkan diri mereka kepada Tuhan dan kepada kami sesuai dengan kehendak Allah.
+Dan ini, melampaui apa yang kami harapkan, karena mereka pertama-tama menyerahkan diri mereka kepada Tuhan dan kepada kami sesuai dengan kehendak Tuhan.
 
 ## 2 Korintus 8:6
 
@@ -62,7 +62,7 @@ Seperti yang tertulis: "Orang yang mengumpulkan banyak tidak memiliki terlalu ba
 
 ## 2 Korintus 8:16
 
-Tetapi syukur kepada Allah yang menanamkan kesungguhan yang sama untuk kamu dalam hati Titus.
+Tetapi syukur kepada Tuhan yang menanamkan kesungguhan yang sama untuk kamu dalam hati Titus.
 
 ## 2 Korintus 8:17
 

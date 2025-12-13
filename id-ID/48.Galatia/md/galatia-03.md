@@ -22,7 +22,7 @@ Jadi, apakah Dia yang menyediakan Roh kepadamu dan melakukan mukjizat di antara 
 
 ## Galatia 3:6
 
-Sama seperti Abraham percaya kepada Allah, dan itu diperhitungkan kepadanya sebagai kebenaran.
+Sama seperti Abraham percaya kepada Tuhan, dan itu diperhitungkan kepadanya sebagai kebenaran.
 
 ## Galatia 3:7
 
@@ -30,7 +30,7 @@ Karena itu, pahamilah bahwa mereka yang beriman adalah anak-anak Abraham.
 
 ## Galatia 3:8
 
-Kitab Suci telah melihat sebelumnya bahwa Allah akan membenarkan orang-orang bukan Yahudi oleh iman, dan memberitakan Injil sebelumnya kepada Abraham: “Semua bangsa akan diberkati melalui engkau.”
+Kitab Suci telah melihat sebelumnya bahwa Tuhan akan membenarkan orang-orang bukan Yahudi oleh iman, dan memberitakan Injil sebelumnya kepada Abraham: “Semua bangsa akan diberkati melalui engkau.”
 
 ## Galatia 3:9
 
@@ -42,7 +42,7 @@ Karena semua orang yang mengandalkan pekerjaan hukum Taurat berada di bawah kutu
 
 ## Galatia 3:11
 
-Jelas bahwa tidak ada seorang pun yang dibenarkan di hadapan Allah oleh hukum Taurat, karena “orang benar akan hidup oleh iman.”
+Jelas bahwa tidak ada seorang pun yang dibenarkan di hadapan Tuhan oleh hukum Taurat, karena “orang benar akan hidup oleh iman.”
 
 ## Galatia 3:12
 
@@ -66,11 +66,11 @@ Janji-janji itu diucapkan kepada Abraham dan kepada keturunannya. Kitab Suci tid
 
 ## Galatia 3:17
 
-Apa yang aku katakan adalah ini: hukum Taurat, yang datang 430 tahun kemudian, tidak membatalkan perjanjian yang sebelumnya disahkan oleh Allah, sehingga membatalkan janji itu.
+Apa yang aku katakan adalah ini: hukum Taurat, yang datang 430 tahun kemudian, tidak membatalkan perjanjian yang sebelumnya disahkan oleh Tuhan, sehingga membatalkan janji itu.
 
 ## Galatia 3:18
 
-Karena jika warisan itu berdasarkan hukum Taurat, maka itu tidak lagi berdasarkan janji; tetapi Allah memberikannya kepada Abraham melalui janji.
+Karena jika warisan itu berdasarkan hukum Taurat, maka itu tidak lagi berdasarkan janji; tetapi Tuhan memberikannya kepada Abraham melalui janji.
 
 ## Galatia 3:19
 
@@ -78,11 +78,11 @@ Lalu mengapa hukum Taurat diberikan? Itu ditambahkan karena pelanggaran, sampai 
 
 ## Galatia 3:20
 
-Sekarang seorang perantara menyiratkan lebih dari satu pihak, tetapi Allah adalah satu.
+Sekarang seorang perantara menyiratkan lebih dari satu pihak, tetapi Tuhan adalah satu.
 
 ## Galatia 3:21
 
-Apakah hukum Taurat bertentangan dengan janji-janji Allah? Tentu tidak! Karena jika ada hukum yang dapat memberikan kehidupan, maka kebenaran memang akan berdasarkan hukum.
+Apakah hukum Taurat bertentangan dengan janji-janji Tuhan? Tentu tidak! Karena jika ada hukum yang dapat memberikan kehidupan, maka kebenaran memang akan berdasarkan hukum.
 
 ## Galatia 3:22
 
@@ -102,7 +102,7 @@ Tetapi sekarang iman telah datang, kita tidak lagi di bawah penjaga.
 
 ## Galatia 3:26
 
-Karena kamu semua adalah anak-anak Allah melalui iman dalam Yesus Kristus.
+Karena kamu semua adalah anak-anak Tuhan melalui iman dalam Yesus Kristus.
 
 ## Galatia 3:27
 

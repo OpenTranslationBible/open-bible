@@ -42,7 +42,7 @@ Sekarang ada seorang pria bernama Simon, yang sebelumnya mempraktikkan sihir di 
 
 ## Kisah Para Rasul 8:10
 
-Semua orang, dari yang terkecil hingga yang terbesar, memperhatikan dia, berkata, “Orang ini adalah Kuasa Besar Allah.”
+Semua orang, dari yang terkecil hingga yang terbesar, memperhatikan dia, berkata, “Orang ini adalah Kuasa Besar Tuhan.”
 
 ## Kisah Para Rasul 8:11
 
@@ -50,7 +50,7 @@ Mereka mengikuti dia karena dia telah membuat mereka takjub untuk waktu yang lam
 
 ## Kisah Para Rasul 8:12
 
-Tetapi ketika mereka percaya kepada Filipus yang memberitakan kabar baik tentang kerajaan Allah dan nama Yesus Kristus, mereka dibaptis, baik laki-laki maupun perempuan.
+Tetapi ketika mereka percaya kepada Filipus yang memberitakan kabar baik tentang kerajaan Tuhan dan nama Yesus Kristus, mereka dibaptis, baik laki-laki maupun perempuan.
 
 ## Kisah Para Rasul 8:13
 
@@ -60,7 +60,7 @@ Bahkan Simon sendiri percaya dan, setelah dibaptis, terus bersama Filipus. Dia t
 
 ## Kisah Para Rasul 8:14
 
-Ketika para rasul di Yerusalem mendengar bahwa Samaria telah menerima firman Allah, mereka mengirim Petrus dan Yohanes kepada mereka.
+Ketika para rasul di Yerusalem mendengar bahwa Samaria telah menerima firman Tuhan, mereka mengirim Petrus dan Yohanes kepada mereka.
 
 ## Kisah Para Rasul 8:15
 
@@ -84,11 +84,11 @@ berkata, “Berikan aku kuasa ini juga, sehingga setiap orang yang aku tumpangi 
 
 ## Kisah Para Rasul 8:20
 
-Tetapi Petrus berkata kepadanya, “Binasalah uangmu bersama kamu, karena kamu berpikir dapat memperoleh karunia Allah dengan uang!
+Tetapi Petrus berkata kepadanya, “Binasalah uangmu bersama kamu, karena kamu berpikir dapat memperoleh karunia Tuhan dengan uang!
 
 ## Kisah Para Rasul 8:21
 
-Kamu tidak memiliki bagian dalam pelayanan ini, karena hatimu tidak benar di hadapan Allah.
+Kamu tidak memiliki bagian dalam pelayanan ini, karena hatimu tidak benar di hadapan Tuhan.
 
 ## Kisah Para Rasul 8:22
 
@@ -162,7 +162,7 @@ Ketika mereka berjalan di sepanjang jalan, mereka tiba di suatu tempat yang ada 
 
 ## Kisah Para Rasul 8:37
 
-[Ayat ini secara tradisional dimasukkan dalam beberapa manuskrip: "Filipus berkata, 'Jika kamu percaya dengan segenap hatimu, kamu boleh.' Dan dia menjawab, 'Aku percaya bahwa Yesus Kristus adalah Anak Allah.'"]
+[Ayat ini secara tradisional dimasukkan dalam beberapa manuskrip: "Filipus berkata, 'Jika kamu percaya dengan segenap hatimu, kamu boleh.' Dan dia menjawab, 'Aku percaya bahwa Yesus Kristus adalah Anak Tuhan.'"]
 
 ## Kisah Para Rasul 8:38
 

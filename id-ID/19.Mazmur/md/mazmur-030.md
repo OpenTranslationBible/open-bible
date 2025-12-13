@@ -9,7 +9,7 @@
 
 ## Mazmur 30:2
 
-> Ya Tuhan, Allahku,  
+> Ya Tuhan, Tuhanku,  
 > Aku berseru kepada-Mu untuk bantuan, dan Engkau memulihkan aku.
 
 ## Mazmur 30:3
@@ -70,4 +70,4 @@
 ## Mazmur 30:12
 
 > Agar jiwaku dapat menyanyikan pujian kepada-Mu dan tidak tetap diam.  
-> Ya Tuhan, Allahku, aku akan menyatakan rasa syukurku kepada-Mu selamanya.
+> Ya Tuhan, Tuhanku, aku akan menyatakan rasa syukurku kepada-Mu selamanya.

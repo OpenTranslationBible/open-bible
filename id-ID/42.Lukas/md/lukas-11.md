@@ -88,7 +88,7 @@ Jika Aku mengusir setan dengan kuasa Beelzebul, dengan kuasa siapakah pengikut-p
 
 ## Lukas 11:20
 
-Tetapi jika Aku mengusir setan dengan kuasa Allah, maka sesungguhnya Kerajaan Allah sudah datang kepadamu.
+Tetapi jika Aku mengusir setan dengan kuasa Tuhan, maka sesungguhnya Kerajaan Tuhan sudah datang kepadamu.
 
 ## Lukas 11:21
 
@@ -124,7 +124,7 @@ Ketika Ia sedang mengatakan hal-hal ini, seorang wanita dari antara orang banyak
 
 ## Lukas 11:28
 
-Tetapi Ia berkata, “Yang lebih berbahagia ialah mereka yang mendengar firman Allah dan memeliharanya.”
+Tetapi Ia berkata, “Yang lebih berbahagia ialah mereka yang mendengar firman Tuhan dan memeliharanya.”
 
 ---
 
@@ -188,7 +188,7 @@ Tetapi berikanlah sedekah menurut apa yang ada di dalam, dan sesungguhnya semuan
 
 ## Lukas 11:42
 
-“Celakalah kamu orang-orang Farisi, sebab kamu membayar persepuluhan dari selasih, inggu, dan segala jenis sayuran, tetapi mengabaikan keadilan dan kasih Allah. Yang satu harus dilakukan, dan yang lain jangan diabaikan.
+“Celakalah kamu orang-orang Farisi, sebab kamu membayar persepuluhan dari selasih, inggu, dan segala jenis sayuran, tetapi mengabaikan keadilan dan kasih Tuhan. Yang satu harus dilakukan, dan yang lain jangan diabaikan.
 
 ## Lukas 11:43
 
@@ -218,7 +218,7 @@ Dengan demikian kamu bersaksi bahwa kamu menyetujui perbuatan nenek moyangmu; me
 
 ## Lukas 11:49
 
-Oleh karena itu, hikmat Allah berkata, ‘Aku akan mengutus kepada mereka nabi-nabi dan rasul-rasul, beberapa dari antara mereka akan mereka bunuh dan aniaya,’
+Oleh karena itu, hikmat Tuhan berkata, ‘Aku akan mengutus kepada mereka nabi-nabi dan rasul-rasul, beberapa dari antara mereka akan mereka bunuh dan aniaya,’
 
 ## Lukas 11:50
 

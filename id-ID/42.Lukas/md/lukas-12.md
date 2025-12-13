@@ -24,7 +24,7 @@ Tetapi Aku akan menunjukkan kepadamu siapa yang harus kamu takuti: takutlah kepa
 
 ## Lukas 12:6
 
-Bukankah lima burung pipit dijual seharga dua keping uang? Namun tidak satu pun dari mereka dilupakan di hadapan Allah.
+Bukankah lima burung pipit dijual seharga dua keping uang? Namun tidak satu pun dari mereka dilupakan di hadapan Tuhan.
 
 ## Lukas 12:7
 
@@ -34,11 +34,11 @@ Bahkan, rambut di kepalamu semuanya terhitung. Jangan takut; kamu lebih berharga
 
 ## Lukas 12:8
 
-“Aku berkata kepadamu, setiap orang yang mengakui Aku di depan orang lain, Anak Manusia juga akan mengakui di depan malaikat-malaikat Allah.
+“Aku berkata kepadamu, setiap orang yang mengakui Aku di depan orang lain, Anak Manusia juga akan mengakui di depan malaikat-malaikat Tuhan.
 
 ## Lukas 12:9
 
-Tetapi dia yang menyangkal Aku di depan orang lain akan disangkal di depan malaikat-malaikat Allah.
+Tetapi dia yang menyangkal Aku di depan orang lain akan disangkal di depan malaikat-malaikat Tuhan.
 
 ## Lukas 12:10
 
@@ -84,11 +84,11 @@ Dan aku akan berkata kepada jiwaku, “Kamu memiliki banyak barang yang disimpan
 
 ## Lukas 12:20
 
-Tetapi Allah berkata kepadanya, ‘Hai orang bodoh! Malam ini juga nyawamu akan diambil darimu; dan sekarang siapa yang akan memiliki apa yang telah kamu siapkan?’
+Tetapi Tuhan berkata kepadanya, ‘Hai orang bodoh! Malam ini juga nyawamu akan diambil darimu; dan sekarang siapa yang akan memiliki apa yang telah kamu siapkan?’
 
 ## Lukas 12:21
 
-Inilah yang akan terjadi bagi siapa pun yang menyimpan harta untuk dirinya sendiri tetapi tidak kaya di hadapan Allah.”
+Inilah yang akan terjadi bagi siapa pun yang menyimpan harta untuk dirinya sendiri tetapi tidak kaya di hadapan Tuhan.”
 
 ---
 
@@ -102,7 +102,7 @@ Karena hidup bukan hanya tentang makanan, atau tubuh semata-mata tentang pakaian
 
 ## Lukas 12:24
 
-Perhatikan burung gagak: mereka tidak menabur atau menuai, mereka tidak memiliki gudang atau lumbung, namun Allah memberi makan mereka. Betapa lebih berharganya kamu daripada burung-burung!
+Perhatikan burung gagak: mereka tidak menabur atau menuai, mereka tidak memiliki gudang atau lumbung, namun Tuhan memberi makan mereka. Betapa lebih berharganya kamu daripada burung-burung!
 
 ## Lukas 12:25
 
@@ -118,7 +118,7 @@ Perhatikan bunga bakung, bagaimana mereka tumbuh: mereka tidak bekerja atau memi
 
 ## Lukas 12:28
 
-Jika demikian Allah mendandani rumput di ladang, yang ada hari ini dan besok dibuang ke dalam api, betapa lebih lagi Dia akan mendandani kamu—Hai kamu yang kurang iman!
+Jika demikian Tuhan mendandani rumput di ladang, yang ada hari ini dan besok dibuang ke dalam api, betapa lebih lagi Dia akan mendandani kamu—Hai kamu yang kurang iman!
 
 ## Lukas 12:29
 

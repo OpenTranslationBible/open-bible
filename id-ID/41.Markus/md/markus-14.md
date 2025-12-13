@@ -108,7 +108,7 @@ Lalu dia mengambil sebuah cawan, dan setelah mengucap syukur, dia memberikannya 
 
 ## Markus 14:25
 
-“Sesungguhnya Aku berkata kepadamu, Aku tidak akan minum dari hasil pokok anggur lagi sampai hari itu ketika Aku meminumnya baru di dalam kerajaan Allah.”
+“Sesungguhnya Aku berkata kepadamu, Aku tidak akan minum dari hasil pokok anggur lagi sampai hari itu ketika Aku meminumnya baru di dalam kerajaan Tuhan.”
 
 ## Markus 14:26
 
@@ -151,7 +151,7 @@ Dia membawa Petrus, Yakobus, dan Yohanes bersamanya, dan dia mulai merasa sangat
 
 ## Markus 14:34
 
-“Jiwaku sangat sedih, bahkan sampai mati,” katanya kepada mereka. “Tinggallah di sini dan berjaga-jagalah.”
+“Jiwaku sangat sedih, bahkan sampai mati,” katanya kepada mereka. “TinggTuhan di sini dan berjaga-jagalah.”
 
 ## Markus 14:35
 
@@ -213,7 +213,7 @@ Lalu salah satu dari mereka yang berdiri di dekatnya mencabut pedangnya dan memu
 
 ## Markus 14:49
 
-Ketika Aku bersama kamu setiap hari, mengajar di pelataran Bait Allah, kamu tidak menangkap Aku. Namun Kitab Suci harus digenapi.”
+Ketika Aku bersama kamu setiap hari, mengajar di pelataran Bait Tuhan, kamu tidak menangkap Aku. Namun Kitab Suci harus digenapi.”
 
 ## Markus 14:50
 
@@ -255,7 +255,7 @@ Lalu beberapa orang berdiri dan memberikan kesaksian palsu ini melawan dia:
 
 ## Markus 14:58
 
-“Kami mendengar dia berkata, ‘Aku akan menghancurkan Bait Allah ini yang dibuat dengan tangan manusia dan dalam tiga hari akan membangun yang lain, yang tidak dibuat dengan tangan manusia.’”
+“Kami mendengar dia berkata, ‘Aku akan menghancurkan Bait Tuhan ini yang dibuat dengan tangan manusia dan dalam tiga hari akan membangun yang lain, yang tidak dibuat dengan tangan manusia.’”
 
 ## Markus 14:59
 

@@ -10,11 +10,11 @@ kepada Apfia saudari kita, dan Arkhipus, rekan seperjuangan kita, dan kepada jem
 
 ## Filemon 1:3
 
-Semoga kamu menerima kasih karunia dan damai sejahtera dari Allah Bapa kita dan Tuhan Yesus Kristus.
+Semoga kamu menerima kasih karunia dan damai sejahtera dari Tuhan Bapa kita dan Tuhan Yesus Kristus.
 
 ## Filemon 1:4
 
-Aku selalu mengucap syukur kepada Allahku, setiap kali aku menyebut namamu dalam doaku,
+Aku selalu mengucap syukur kepada Tuhanku, setiap kali aku menyebut namamu dalam doaku,
 
 ## Filemon 1:5
 

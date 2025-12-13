@@ -10,19 +10,19 @@ Jika ada yang mengira bahwa ia memiliki pengetahuan, ia belum mengetahui sebagai
 
 ## 1 Korintus 8:3
 
-Tetapi siapa yang mengasihi Allah, dikenal oleh-Nya.
+Tetapi siapa yang mengasihi Tuhan, dikenal oleh-Nya.
 
 ## 1 Korintus 8:4
 
-Oleh karena itu, mengenai makan makanan yang dipersembahkan kepada berhala, kita mengerti bahwa berhala tidak berarti apa-apa di dunia, dan bahwa tidak ada Allah lain selain satu.
+Oleh karena itu, mengenai makan makanan yang dipersembahkan kepada berhala, kita mengerti bahwa berhala tidak berarti apa-apa di dunia, dan bahwa tidak ada Tuhan lain selain satu.
 
 ## 1 Korintus 8:5
 
-Karena meskipun ada yang disebut ‘allah’, baik di surga maupun di bumi, sebagaimana memang ada banyak ‘allah’ dan banyak ‘tuan’,
+Karena meskipun ada yang disebut ‘Tuhan’, baik di surga maupun di bumi, sebagaimana memang ada banyak ‘Tuhan’ dan banyak ‘tuan’,
 
 ## 1 Korintus 8:6
 
-Namun bagi kita hanya ada satu Allah, yaitu Bapa, dari siapa segala sesuatu berasal, dan kita ada untuk Dia; dan satu Tuhan, yaitu Yesus Kristus, melalui siapa segala sesuatu ada, dan kita ada melalui Dia.
+Namun bagi kita hanya ada satu Tuhan, yaitu Bapa, dari siapa segala sesuatu berasal, dan kita ada untuk Dia; dan satu Tuhan, yaitu Yesus Kristus, melalui siapa segala sesuatu ada, dan kita ada melalui Dia.
 
 ## 1 Korintus 8:7
 
@@ -30,7 +30,7 @@ Namun demikian, tidak semua orang memiliki pemahaman ini; beberapa orang, yang t
 
 ## 1 Korintus 8:8
 
-Makanan tidak mendekatkan kita kepada Allah; kita tidak lebih buruk jika kita tidak makan, atau lebih baik jika kita makan.
+Makanan tidak mendekatkan kita kepada Tuhan; kita tidak lebih buruk jika kita tidak makan, atau lebih baik jika kita makan.
 
 ## 1 Korintus 8:9
 

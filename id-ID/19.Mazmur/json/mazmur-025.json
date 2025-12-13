@@ -1,197 +1,169 @@
 {
-    "book": "Mazmur",
-    "chapter": 25,
-    "verses": [
-        {
-            "text": [
-                "Mazmur Daud."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Kepada-Mu, Tuhan, kuangkat jiwaku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Allahku, kepada-Mu aku percaya,",
-                "> Jangan biarkan aku dipermalukan;",
-                "> Jangan biarkan musuh-musuhku menang atas diriku."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Sesungguhnya, tidak ada yang menantikan Engkau akan dipermalukan;",
-                "> Mereka yang berbuat khianat tanpa alasan akan dipermalukan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Nyatakanlah jalan-jalan-Mu kepadaku, Tuhan;",
-                "> Tuntunlah aku di jalan-jalan-Mu."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Bimbinglah aku dalam kebenaran-Mu dan ajarlah aku,",
-                "> Karena Engkaulah Allah keselamatanku;",
-                "> Aku menantikan Engkau sepanjang hari."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Ingatlah, Tuhan, akan rahmat dan kasih setia-Mu,",
-                "> Karena semuanya itu ada sejak zaman dahulu."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Janganlah mengingat dosa-dosa masa mudaku atau pelanggaranku;",
-                "> Ingatlah aku sesuai dengan kasih setia-Mu,",
-                "> Demi kebaikan-Mu, Tuhan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Tuhan itu baik dan adil;",
-                "> Oleh karena itu Ia membimbing orang berdosa ke jalan yang benar."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Ia menuntun orang yang rendah hati dalam kebenaran,",
-                "> Dan Ia mengajarkan jalan-Nya kepada orang yang rendah hati."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Segala jalan Tuhan adalah kasih setia dan kebenaran",
-                "> Bagi mereka yang memegang perjanjian-Nya dan hukum-hukum-Nya."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Demi kehormatan nama-Mu, Tuhan,",
-                "> Ampunilah kesalahanku, karena itu besar."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Siapakah orang yang takut akan Tuhan?",
-                "> Ia akan membimbingnya di jalan yang harus dipilihnya."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Jiwanya akan tinggal dalam kesejahteraan,",
-                "> Dan keturunannya akan mewarisi tanah."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Nasihat Tuhan adalah bagi mereka yang takut akan Dia,",
-                "> Dan Ia akan menyatakan perjanjian-Nya kepada mereka."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Mataku tetap tertuju kepada Tuhan,",
-                "> Karena Ia akan melepaskan kakiku dari jerat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Berpalinglah kepadaku dan tunjukkanlah belas kasihan,",
-                "> Karena aku kesepian dan menderita."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Kecemasan hatiku telah bertambah banyak;",
-                "> Bebaskanlah aku dari kesesakanku."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Pandanglah penderitaanku dan kesusahanku,",
-                "> Dan ampunilah segala dosaku."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Lihatlah musuh-musuhku, karena mereka banyak,",
-                "> Dan mereka membenci aku dengan kebencian yang kejam."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Lindungilah jiwaku dan selamatkanlah aku;",
-                "> Jangan biarkan aku dipermalukan, karena aku berlindung kepada-Mu."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Kiranya ketulusan dan kejujuran menjaga aku,",
-                "> Karena aku menaruh harapanku kepada-Mu."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Selamatkanlah Israel, ya Allah,",
-                "> Dari segala kesusahannya."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 25,
+  "verses": [
+    {
+      "text": ["Mazmur Daud."]
+    },
+    {
+      "verse": 1,
+      "text": ["> Kepada-Mu, Tuhan, kuangkat jiwaku."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Tuhanku, kepada-Mu aku percaya,",
+        "> Jangan biarkan aku dipermalukan;",
+        "> Jangan biarkan musuh-musuhku menang atas diriku."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Sesungguhnya, tidak ada yang menantikan Engkau akan dipermalukan;",
+        "> Mereka yang berbuat khianat tanpa alasan akan dipermalukan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Nyatakanlah jalan-jalan-Mu kepadaku, Tuhan;",
+        "> Tuntunlah aku di jalan-jalan-Mu."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Bimbinglah aku dalam kebenaran-Mu dan ajarlah aku,",
+        "> Karena Engkaulah Tuhan keselamatanku;",
+        "> Aku menantikan Engkau sepanjang hari."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Ingatlah, Tuhan, akan rahmat dan kasih setia-Mu,",
+        "> Karena semuanya itu ada sejak zaman dahulu."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Janganlah mengingat dosa-dosa masa mudaku atau pelanggaranku;",
+        "> Ingatlah aku sesuai dengan kasih setia-Mu,",
+        "> Demi kebaikan-Mu, Tuhan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Tuhan itu baik dan adil;",
+        "> Oleh karena itu Ia membimbing orang berdosa ke jalan yang benar."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Ia menuntun orang yang rendah hati dalam kebenaran,",
+        "> Dan Ia mengajarkan jalan-Nya kepada orang yang rendah hati."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Segala jalan Tuhan adalah kasih setia dan kebenaran",
+        "> Bagi mereka yang memegang perjanjian-Nya dan hukum-hukum-Nya."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": ["> Demi kehormatan nama-Mu, Tuhan,", "> Ampunilah kesalahanku, karena itu besar."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Siapakah orang yang takut akan Tuhan?",
+        "> Ia akan membimbingnya di jalan yang harus dipilihnya."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Jiwanya akan tinggal dalam kesejahteraan,",
+        "> Dan keturunannya akan mewarisi tanah."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Nasihat Tuhan adalah bagi mereka yang takut akan Dia,",
+        "> Dan Ia akan menyatakan perjanjian-Nya kepada mereka."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Mataku tetap tertuju kepada Tuhan,",
+        "> Karena Ia akan melepaskan kakiku dari jerat."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Berpalinglah kepadaku dan tunjukkanlah belas kasihan,",
+        "> Karena aku kesepian dan menderita."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": ["> Kecemasan hatiku telah bertambah banyak;", "> Bebaskanlah aku dari kesesakanku."]
+    },
+    {
+      "verse": 18,
+      "text": ["> Pandanglah penderitaanku dan kesusahanku,", "> Dan ampunilah segala dosaku."]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> Lihatlah musuh-musuhku, karena mereka banyak,",
+        "> Dan mereka membenci aku dengan kebencian yang kejam."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Lindungilah jiwaku dan selamatkanlah aku;",
+        "> Jangan biarkan aku dipermalukan, karena aku berlindung kepada-Mu."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "> Kiranya ketulusan dan kejujuran menjaga aku,",
+        "> Karena aku menaruh harapanku kepada-Mu."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": ["> Selamatkanlah Israel, ya Tuhan,", "> Dari segala kesusahannya."]
+    }
+  ]
 }

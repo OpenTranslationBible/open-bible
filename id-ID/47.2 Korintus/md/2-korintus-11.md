@@ -26,7 +26,7 @@ Tetapi meskipun aku kurang terampil dalam berbicara, aku tidak kurang dalam peng
 
 ## 2 Korintus 11:7
 
-Atau apakah aku melakukan kesalahan dengan merendahkan diriku agar kamu dapat ditinggikan, karena aku memberitakan injil Allah kepadamu dengan cuma-cuma?
+Atau apakah aku melakukan kesalahan dengan merendahkan diriku agar kamu dapat ditinggikan, karena aku memberitakan injil Tuhan kepadamu dengan cuma-cuma?
 
 ## 2 Korintus 11:8
 
@@ -42,7 +42,7 @@ Dengan kebenaran Kristus di dalam diriku, aku menyatakan bahwa kebanggaanku ini 
 
 ## 2 Korintus 11:11
 
-Apakah karena aku tidak mencintaimu? Allah tahu kedalaman cintaku padamu.
+Apakah karena aku tidak mencintaimu? Tuhan tahu kedalaman cintaku padamu.
 
 ## 2 Korintus 11:12
 
@@ -122,7 +122,7 @@ Jika aku harus berbangga, aku akan berbangga dalam semua hal yang menunjukkan ke
 
 ## 2 Korintus 11:31
 
-Allah dan Bapa Tuhan kita Yesus, yang diberkati selama-lamanya, tahu bahwa aku tidak berbohong.
+Tuhan dan Bapa Tuhan kita Yesus, yang diberkati selama-lamanya, tahu bahwa aku tidak berbohong.
 
 ## 2 Korintus 11:32
 

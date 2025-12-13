@@ -66,7 +66,7 @@ Dengan desakan yang terus-menerus, dia menekannya hari demi hari sampai dia lela
 
 ## Hakim-Hakim 16:17
 
-Jadi dia mengungkapkan segalanya kepadanya. "Tidak ada pisau cukur yang pernah menyentuh kepalaku," katanya, "karena aku telah menjadi seorang nazir Allah sejak dari kandungan ibuku. Jika kepalaku dicukur, kekuatanku akan meninggalkanku, dan aku akan menjadi lemah seperti orang lain."
+Jadi dia mengungkapkan segalanya kepadanya. "Tidak ada pisau cukur yang pernah menyentuh kepalaku," katanya, "karena aku telah menjadi seorang nazir Tuhan sejak dari kandungan ibuku. Jika kepalaku dicukur, kekuatanku akan meninggalkanku, dan aku akan menjadi lemah seperti orang lain."
 
 ## Hakim-Hakim 16:18
 

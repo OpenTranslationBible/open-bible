@@ -7,7 +7,7 @@ Ayub menjawab, katanya,
 ## Ayub 9:2
 
 > "Sesungguhnya, aku tahu bahwa ini benar;
-> tetapi bagaimana manusia dapat dibenarkan di hadapan Allah?
+> tetapi bagaimana manusia dapat dibenarkan di hadapan Tuhan?
 
 ## Ayub 9:3
 
@@ -61,7 +61,7 @@ Ayub menjawab, katanya,
 
 ## Ayub 9:13
 
-> Allah tidak membalikkan kemarahan-Nya;
+> Tuhan tidak membalikkan kemarahan-Nya;
 > di bawah-Nya para penolong Rahab gemetar.
 
 ---

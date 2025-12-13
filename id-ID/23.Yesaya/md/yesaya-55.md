@@ -18,7 +18,7 @@ Lihatlah, aku telah menetapkan dia sebagai saksi bagi bangsa-bangsa, seorang pem
 
 ## Yesaya 55:5
 
-Sesungguhnya, kamu akan memanggil bangsa-bangsa yang tidak kamu kenal, dan bangsa-bangsa yang tidak mengenal kamu akan bergegas kepadamu, karena Tuhan, Allahmu, Yang Mahakudus dari Israel, sebab dia telah memuliakan kamu.”
+Sesungguhnya, kamu akan memanggil bangsa-bangsa yang tidak kamu kenal, dan bangsa-bangsa yang tidak mengenal kamu akan bergegas kepadamu, karena Tuhan, Tuhanmu, Yang Mahakudus dari Israel, sebab dia telah memuliakan kamu.”
 
 ## Yesaya 55:6
 
@@ -26,7 +26,7 @@ Carilah Tuhan selagi dia masih dapat ditemukan; berserulah kepadanya selagi dia 
 
 ## Yesaya 55:7
 
-Biarlah orang fasik meninggalkan jalannya dan orang yang tidak benar meninggalkan pikirannya. Biarlah mereka kembali kepada Tuhan, dan dia akan berbelaskasihan kepada mereka, dan kepada Allah kita, sebab dia akan mengampuni dengan limpah.
+Biarlah orang fasik meninggalkan jalannya dan orang yang tidak benar meninggalkan pikirannya. Biarlah mereka kembali kepada Tuhan, dan dia akan berbelaskasihan kepada mereka, dan kepada Tuhan kita, sebab dia akan mengampuni dengan limpah.
 
 ## Yesaya 55:8
 

@@ -1,158 +1,130 @@
 {
-    "book": "Mazmur",
-    "chapter": 83,
-    "verses": [
-        {
-            "text": [
-                "Nyanyian, Mazmur Asaf."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Ya Allah, janganlah berdiam diri;",
-                "> Janganlah berdiam dan, ya Allah, janganlah tinggal tenang."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Sebab lihatlah, musuh-musuh-Mu ribut,",
-                "> Dan orang-orang yang membenci Engkau telah meninggikan kepala."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Mereka merencanakan tipu daya terhadap umat-Mu,",
-                "> Dan bersekongkol melawan orang-orang kesayangan-Mu."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Mereka berkata, “Mari, kita binasakan mereka sebagai bangsa,",
-                "> Agar nama Israel tidak diingat lagi.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Sebab mereka telah bersepakat dengan satu hati;",
-                "> Mereka telah membuat perjanjian melawan Engkau:"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Kemah-kemah Edom dan orang-orang Ismael,",
-                "> Moab dan orang-orang Hagri;"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Orang-orang Gebal, Amon, dan Amalek,",
-                "> Filistea beserta penduduk Tirus;"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Asyur juga telah bergabung dengan mereka;",
-                "> Mereka telah memberikan dukungan kepada keturunan Lot.",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Perlakukan mereka seperti Midian,",
-                "> Seperti Sisera dan Yabin di sungai Kison,"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Yang binasa di En-dor,",
-                "> Menjadi pupuk bagi tanah."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Biarlah para pemuka mereka seperti Oreb dan Zeeb,",
-                "> Dan semua pemimpin mereka seperti Zebah dan Zalmunna,"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Yang berkata, “Marilah kita mengambil milik",
-                "> Ladang-ladang Allah.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Ya Allahku, buatlah mereka seperti debu yang berputar,",
-                "> Seperti sekam yang ditiup angin."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Seperti api yang membakar hutan,",
-                "> Dan seperti nyala api yang menghanguskan gunung-gunung,"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Kejarlah mereka dengan badai-Mu,",
-                "> Dan kejutkan mereka dengan angin ribut-Mu."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Tutupilah wajah mereka dengan malu,",
-                "> Supaya mereka mencari nama-Mu, ya Tuhan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Biarlah mereka selamanya malu dan terkejut,",
-                "> Dan biarlah mereka dipermalukan dan lenyap,"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Supaya mereka tahu bahwa Engkau saja, yang bernama Tuhan,",
-                "> Adalah Yang Mahatinggi atas seluruh bumi."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 83,
+  "verses": [
+    {
+      "text": ["Nyanyian, Mazmur Asaf."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Ya Tuhan, janganlah berdiam diri;",
+        "> Janganlah berdiam dan, ya Tuhan, janganlah tinggal tenang."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Sebab lihatlah, musuh-musuh-Mu ribut,",
+        "> Dan orang-orang yang membenci Engkau telah meninggikan kepala."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Mereka merencanakan tipu daya terhadap umat-Mu,",
+        "> Dan bersekongkol melawan orang-orang kesayangan-Mu."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Mereka berkata, “Mari, kita binasakan mereka sebagai bangsa,",
+        "> Agar nama Israel tidak diingat lagi.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Sebab mereka telah bersepakat dengan satu hati;",
+        "> Mereka telah membuat perjanjian melawan Engkau:"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": ["> Kemah-kemah Edom dan orang-orang Ismael,", "> Moab dan orang-orang Hagri;"]
+    },
+    {
+      "verse": 7,
+      "text": ["> Orang-orang Gebal, Amon, dan Amalek,", "> Filistea beserta penduduk Tirus;"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Asyur juga telah bergabung dengan mereka;",
+        "> Mereka telah memberikan dukungan kepada keturunan Lot.",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": ["> Perlakukan mereka seperti Midian,", "> Seperti Sisera dan Yabin di sungai Kison,"]
+    },
+    {
+      "verse": 10,
+      "text": ["> Yang binasa di En-dor,", "> Menjadi pupuk bagi tanah."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Biarlah para pemuka mereka seperti Oreb dan Zeeb,",
+        "> Dan semua pemimpin mereka seperti Zebah dan Zalmunna,"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": ["> Yang berkata, “Marilah kita mengambil milik", "> Ladang-ladang Tuhan.”"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Ya Tuhanku, buatlah mereka seperti debu yang berputar,",
+        "> Seperti sekam yang ditiup angin."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Seperti api yang membakar hutan,",
+        "> Dan seperti nyala api yang menghanguskan gunung-gunung,"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["> Kejarlah mereka dengan badai-Mu,", "> Dan kejutkan mereka dengan angin ribut-Mu."]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Tutupilah wajah mereka dengan malu,",
+        "> Supaya mereka mencari nama-Mu, ya Tuhan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Biarlah mereka selamanya malu dan terkejut,",
+        "> Dan biarlah mereka dipermalukan dan lenyap,"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Supaya mereka tahu bahwa Engkau saja, yang bernama Tuhan,",
+        "> Adalah Yang Mahatinggi atas seluruh bumi."
+      ]
+    }
+  ]
 }

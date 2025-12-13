@@ -42,7 +42,7 @@ ladang yang telah dibeli Abraham dari anak-anak Het. Di sanalah Abraham dikuburk
 
 ## Kejadian 25:11
 
-Setelah kematian Abraham, Allah memberkati anaknya Ishak, dan Ishak menetap dekat Beer-lahai-roi.
+Setelah kematian Abraham, Tuhan memberkati anaknya Ishak, dan Ishak menetap dekat Beer-lahai-roi.
 
 ## Kejadian 25:12
 

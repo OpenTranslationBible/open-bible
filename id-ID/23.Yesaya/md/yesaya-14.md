@@ -50,7 +50,7 @@ Bagaimana kamu telah jatuh dari surga, yang bersinar, anak fajar! Kamu telah dil
 
 ## Yesaya 14:13
 
-Kamu berkata dalam hatimu, "Aku akan naik ke surga; aku akan menaikkan takhtaku di atas bintang-bintang Allah; aku akan duduk bertakhta di gunung pertemuan, di puncak tertinggi utara.
+Kamu berkata dalam hatimu, "Aku akan naik ke surga; aku akan menaikkan takhtaku di atas bintang-bintang Tuhan; aku akan duduk bertakhta di gunung pertemuan, di puncak tertinggi utara.
 
 ## Yesaya 14:14
 

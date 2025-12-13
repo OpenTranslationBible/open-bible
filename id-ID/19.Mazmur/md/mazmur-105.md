@@ -34,7 +34,7 @@
 
 ## Mazmur 105:7
 
-> Dialah Tuhan, Allah kita;  
+> Dialah Tuhan, Tuhan kita;  
 > Penghakiman-Nya ada di seluruh bumi.
 
 ---

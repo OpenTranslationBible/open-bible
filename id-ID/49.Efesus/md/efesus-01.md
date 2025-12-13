@@ -2,15 +2,15 @@
 
 ## Efesus 1:1
 
-Paulus, rasul Kristus Yesus oleh kehendak Allah, kepada orang-orang kudus di Efesus, yang setia dalam Kristus Yesus:
+Paulus, rasul Kristus Yesus oleh kehendak Tuhan, kepada orang-orang kudus di Efesus, yang setia dalam Kristus Yesus:
 
 ## Efesus 1:2
 
-Kasih karunia dan damai sejahtera dari Allah Bapa kita dan dari Tuhan Yesus Kristus menyertai kamu.
+Kasih karunia dan damai sejahtera dari Tuhan Bapa kita dan dari Tuhan Yesus Kristus menyertai kamu.
 
 ## Efesus 1:3
 
-Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, yang telah memberkati kita dengan segala berkat rohani di dalam sorga dalam Kristus,
+Terpujilah Tuhan dan Bapa Tuhan kita Yesus Kristus, yang telah memberkati kita dengan segala berkat rohani di dalam sorga dalam Kristus,
 
 ## Efesus 1:4
 
@@ -54,7 +54,7 @@ Di dalam Dia, kamu juga, ketika kamu mendengar pesan kebenaran, Injil keselamata
 
 ## Efesus 1:14
 
-yang adalah jaminan warisan kita sampai penebusan mereka yang menjadi milik Allah, untuk puji-pujian bagi kemuliaan-Nya.
+yang adalah jaminan warisan kita sampai penebusan mereka yang menjadi milik Tuhan, untuk puji-pujian bagi kemuliaan-Nya.
 
 ## Efesus 1:15
 
@@ -66,7 +66,7 @@ aku tidak berhenti mengucap syukur untukmu, mengingat kamu dalam doaku.
 
 ## Efesus 1:17
 
-Aku terus berdoa agar Allah Tuhan kita Yesus Kristus, Bapa yang mulia, memberikan kepadamu Roh hikmat dan wahyu, supaya kamu mengenal Dia lebih baik.
+Aku terus berdoa agar Tuhan Tuhan kita Yesus Kristus, Bapa yang mulia, memberikan kepadamu Roh hikmat dan wahyu, supaya kamu mengenal Dia lebih baik.
 
 ## Efesus 1:18
 

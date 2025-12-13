@@ -14,7 +14,7 @@
 
 > "Dengarlah, hai raja-raja! Dengarkanlah, hai para penguasa!
 > Aku, bahkan aku, akan menyanyi bagi Tuhan;
-> Aku akan menyanyi pujian kepada Tuhan, Allah Israel.
+> Aku akan menyanyi pujian kepada Tuhan, Tuhan Israel.
 
 ## Hakim-Hakim 5:4
 
@@ -26,7 +26,7 @@
 ## Hakim-Hakim 5:5
 
 > Gunung-gunung bergetar di hadapan Tuhan, Yang dari Sinai,
-> di hadapan Tuhan, Allah Israel.
+> di hadapan Tuhan, Tuhan Israel.
 
 ## Hakim-Hakim 5:6
 

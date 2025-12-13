@@ -38,7 +38,7 @@ Perak yang ditempa dibawa dari Tarsis, dan emas dari Ufaz, hasil karya seorang p
 
 ## Yeremia 10:10
 
-Tetapi Tuhan adalah Allah yang benar; Dia adalah Allah yang hidup, Raja yang kekal. Bumi gemetar karena murka-Nya, dan bangsa-bangsa tidak dapat menahan kemarahan-Nya.
+Tetapi Tuhan adalah Tuhan yang benar; Dia adalah Tuhan yang hidup, Raja yang kekal. Bumi gemetar karena murka-Nya, dan bangsa-bangsa tidak dapat menahan kemarahan-Nya.
 
 ## Yeremia 10:11
 

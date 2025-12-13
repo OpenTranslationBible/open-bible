@@ -10,7 +10,7 @@
 
 ## Mazmur 25:2
 
-> Allahku, kepada-Mu aku percaya,  
+> Tuhanku, kepada-Mu aku percaya,  
 > Jangan biarkan aku dipermalukan;  
 > Jangan biarkan musuh-musuhku menang atas diriku.
 
@@ -29,7 +29,7 @@
 ## Mazmur 25:5
 
 > Bimbinglah aku dalam kebenaran-Mu dan ajarlah aku,  
-> Karena Engkaulah Allah keselamatanku;  
+> Karena Engkaulah Tuhan keselamatanku;  
 > Aku menantikan Engkau sepanjang hari.
 
 ## Mazmur 25:6
@@ -123,5 +123,5 @@
 
 ## Mazmur 25:22
 
-> Selamatkanlah Israel, ya Allah,  
+> Selamatkanlah Israel, ya Tuhan,  
 > Dari segala kesusahannya.

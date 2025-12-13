@@ -65,7 +65,7 @@ Demi hidupmu dan hidup jiwamu, aku tidak akan melakukan hal ini.”
 
 ## 2 Samuel 11:12
 
-Kemudian Daud berkata kepada Uria, “Tinggallah di sini hari ini juga, dan besok aku akan mengirimmu kembali.”  
+Kemudian Daud berkata kepada Uria, “TinggTuhan di sini hari ini juga, dan besok aku akan mengirimmu kembali.”  
 Maka Uria tetap tinggal di Yerusalem hari itu dan hari berikutnya.
 
 ## 2 Samuel 11:13

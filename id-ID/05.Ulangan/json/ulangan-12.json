@@ -1,198 +1,190 @@
 {
-    "book": "Ulangan",
-    "chapter": 12,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Inilah ketetapan dan peraturan yang harus kamu ikuti dengan cermat di tanah yang diberikan Tuhan, Allah nenek moyangmu, kepadamu untuk dimiliki, selama kamu hidup di bumi."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Kamu harus benar-benar menghancurkan semua tempat di mana bangsa-bangsa yang kamu singkirkan menyembah dewa-dewa mereka, di gunung-gunung tinggi, di bukit-bukit, dan di bawah setiap pohon yang rimbun."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Runtuhkanlah mezbah-mezbah mereka, hancurkan batu-batu suci mereka, bakarlah tiang-tiang Asyera mereka dalam api, dan potonglah patung-patung ukiran dewa-dewa mereka, menghapus nama-nama mereka dari tempat-tempat itu."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Kamu tidak boleh menyembah Tuhan, Allahmu, dengan cara mereka."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Sebaliknya, carilah tempat yang akan dipilih Tuhan, Allahmu, dari semua suku-sukumu untuk menegakkan Nama-Nya sebagai tempat kediaman-Nya, dan ke sanalah kamu harus pergi."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Bawalah ke sana persembahan bakaranmu, korban-korbanmu, persepuluhanmu, persembahan khusus, persembahan nazarmu, persembahan sukarela, dan anak sulung dari kawanan ternak dan dombamu."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Di sana, di hadapan Tuhan, Allahmu, kamu dan keluargamu akan makan dan bersukacita dalam semua usahamu, karena Tuhan, Allahmu, telah memberkatimu."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Kamu tidak boleh melakukan seperti yang kita lakukan di sini hari ini, setiap orang melakukan apa yang benar menurut pandangannya sendiri."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Karena kamu belum mencapai tempat perhentian dan warisan yang diberikan Tuhan, Allahmu, kepadamu."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Tetapi ketika kamu menyeberangi Yordan dan menetap di tanah yang diberikan Tuhan, Allahmu, kepadamu sebagai warisan, dan Dia memberimu istirahat dari semua musuh di sekitarmu sehingga kamu hidup dengan aman,"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "maka ke tempat yang akan dipilih Tuhan, Allahmu, untuk Nama-Nya berdiam, ke sanalah kamu harus membawa segala yang Aku perintahkan kepadamu: persembahan bakaranmu, korban-korbanmu, persepuluhanmu, persembahan khusus, dan semua persembahan nazar pilihanmu kepada Tuhan."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Dan kamu harus bersukacita di hadapan Tuhan, Allahmu—kamu, anak-anak laki-laki dan perempuanmu, hamba laki-laki dan perempuanmu, dan orang Lewi dari kota-kotamu, karena mereka tidak memiliki bagian atau warisan bersamamu."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Berhati-hatilah agar tidak mempersembahkan persembahan bakaranmu di tempat mana pun yang kamu lihat."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Persembahkanlah hanya di tempat yang akan dipilih Tuhan dalam salah satu suku-sukumu, dan di sana lakukanlah semua yang Aku perintahkan kepadamu."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Namun demikian, kamu boleh menyembelih hewan di kota-kotamu dan makan sebanyak daging yang kamu inginkan, sesuai dengan berkat yang diberikan Tuhan, Allahmu, kepadamu. Baik yang najis secara seremonial maupun yang bersih boleh memakannya, seolah-olah itu adalah kijang atau rusa."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Tetapi kamu tidak boleh mengonsumsi darahnya; tuangkanlah di tanah seperti air."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Kamu tidak boleh makan di kota-kotamu sendiri persepuluhan dari gandummu, anggur baru, atau minyak zaitun, atau anak sulung dari kawanan ternak dan dombamu, atau persembahan nazarmu, persembahan sukarela, atau persembahan khusus."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Sebaliknya, kamu harus memakannya di hadapan Tuhan, Allahmu, di tempat yang akan dipilih Tuhan, Allahmu—kamu, anak-anak laki-laki dan perempuanmu, hamba laki-laki dan perempuanmu, dan orang Lewi dari kota-kotamu—dan kamu harus bersukacita dalam semua usahamu."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Ingatlah untuk mendukung orang Lewi selama kamu hidup di tanahmu."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Ketika Tuhan, Allahmu, memperluas wilayahmu seperti yang dijanjikan-Nya, dan kamu menginginkan daging dan berkata, “Saya ingin daging,” maka kamu boleh makan sebanyak yang kamu inginkan."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Jika tempat yang dipilih Tuhan, Allahmu, untuk menempatkan Nama-Nya terlalu jauh darimu, kamu boleh menyembelih hewan dari kawanan ternak dan domba yang diberikan Tuhan kepadamu, seperti yang Aku perintahkan kepadamu, dan kamu boleh makan di kota-kotamu sebanyak yang kamu inginkan."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Konsumsilah seperti kamu akan memakan kijang atau rusa. Baik yang najis secara seremonial maupun yang bersih boleh memakannya."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Tetapi pastikan kamu tidak mengonsumsi darahnya, karena darah adalah nyawa, dan kamu tidak boleh memakan nyawa bersama daging."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Kamu tidak boleh mengonsumsi darahnya; tuangkanlah di tanah seperti air."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Hindarilah memakannya, agar kamu dan anak-anakmu sejahtera setelahmu, karena kamu akan melakukan apa yang benar di mata Tuhan."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Tetapi bawalah barang-barang yang dikhususkan dan persembahan nazarmu, dan pergilah ke tempat yang akan dipilih Tuhan."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Persembahkanlah persembahan bakaranmu di atas mezbah Tuhan, Allahmu, baik daging maupun darahnya. Darah dari korban-korbanmu harus dituangkan di samping mezbah Tuhan, Allahmu, tetapi kamu boleh memakan dagingnya."
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Berhati-hatilah untuk menaati semua peraturan ini yang Aku berikan kepadamu, agar kamu dan anak-anakmu selalu sejahtera setelahmu, karena kamu akan melakukan apa yang baik dan benar di mata Tuhan, Allahmu."
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "Tuhan, Allahmu, akan menyingkirkan bangsa-bangsa yang akan kamu serang dan singkirkan. Tetapi ketika kamu telah mengusir mereka dan menetap di tanah mereka,"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "berhati-hatilah agar tidak terjerat dengan menanyakan tentang dewa-dewa mereka, dengan berkata, “Bagaimana bangsa-bangsa ini menyembah dewa-dewa mereka? Kami akan melakukan hal yang sama.”"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Kamu tidak boleh menyembah Tuhan, Allahmu, dengan cara mereka, karena dalam menyembah dewa-dewa mereka, mereka melakukan segala macam hal yang menjijikkan yang dibenci Tuhan. Mereka bahkan membakar anak-anak laki-laki dan perempuan mereka dalam api sebagai korban kepada dewa-dewa mereka."
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Pastikan bahwa kamu melakukan semua yang Aku perintahkan kepadamu; jangan menambahinya atau menguranginya."
-            ]
-        }
-    ]
+  "book": "Ulangan",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Inilah ketetapan dan peraturan yang harus kamu ikuti dengan cermat di tanah yang diberikan Tuhan, Tuhan nenek moyangmu, kepadamu untuk dimiliki, selama kamu hidup di bumi."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Kamu harus benar-benar menghancurkan semua tempat di mana bangsa-bangsa yang kamu singkirkan menyembah dewa-dewa mereka, di gunung-gunung tinggi, di bukit-bukit, dan di bawah setiap pohon yang rimbun."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Runtuhkanlah mezbah-mezbah mereka, hancurkan batu-batu suci mereka, bakarlah tiang-tiang Asyera mereka dalam api, dan potonglah patung-patung ukiran dewa-dewa mereka, menghapus nama-nama mereka dari tempat-tempat itu."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Kamu tidak boleh menyembah Tuhan, Tuhanmu, dengan cara mereka."]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Sebaliknya, carilah tempat yang akan dipilih Tuhan, Tuhanmu, dari semua suku-sukumu untuk menegakkan Nama-Nya sebagai tempat kediaman-Nya, dan ke sanalah kamu harus pergi."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Bawalah ke sana persembahan bakaranmu, korban-korbanmu, persepuluhanmu, persembahan khusus, persembahan nazarmu, persembahan sukarela, dan anak sulung dari kawanan ternak dan dombamu."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Di sana, di hadapan Tuhan, Tuhanmu, kamu dan keluargamu akan makan dan bersukacita dalam semua usahamu, karena Tuhan, Tuhanmu, telah memberkatimu."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Kamu tidak boleh melakukan seperti yang kita lakukan di sini hari ini, setiap orang melakukan apa yang benar menurut pandangannya sendiri."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Karena kamu belum mencapai tempat perhentian dan warisan yang diberikan Tuhan, Tuhanmu, kepadamu."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Tetapi ketika kamu menyeberangi Yordan dan menetap di tanah yang diberikan Tuhan, Tuhanmu, kepadamu sebagai warisan, dan Dia memberimu istirahat dari semua musuh di sekitarmu sehingga kamu hidup dengan aman,"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "maka ke tempat yang akan dipilih Tuhan, Tuhanmu, untuk Nama-Nya berdiam, ke sanalah kamu harus membawa segala yang Aku perintahkan kepadamu: persembahan bakaranmu, korban-korbanmu, persepuluhanmu, persembahan khusus, dan semua persembahan nazar pilihanmu kepada Tuhan."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Dan kamu harus bersukacita di hadapan Tuhan, Tuhanmu—kamu, anak-anak laki-laki dan perempuanmu, hamba laki-laki dan perempuanmu, dan orang Lewi dari kota-kotamu, karena mereka tidak memiliki bagian atau warisan bersamamu."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Berhati-hatilah agar tidak mempersembahkan persembahan bakaranmu di tempat mana pun yang kamu lihat."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Persembahkanlah hanya di tempat yang akan dipilih Tuhan dalam salah satu suku-sukumu, dan di sana lakukanlah semua yang Aku perintahkan kepadamu."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Namun demikian, kamu boleh menyembelih hewan di kota-kotamu dan makan sebanyak daging yang kamu inginkan, sesuai dengan berkat yang diberikan Tuhan, Tuhanmu, kepadamu. Baik yang najis secara seremonial maupun yang bersih boleh memakannya, seolah-olah itu adalah kijang atau rusa."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": ["Tetapi kamu tidak boleh mengonsumsi darahnya; tuangkanlah di tanah seperti air."]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Kamu tidak boleh makan di kota-kotamu sendiri persepuluhan dari gandummu, anggur baru, atau minyak zaitun, atau anak sulung dari kawanan ternak dan dombamu, atau persembahan nazarmu, persembahan sukarela, atau persembahan khusus."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Sebaliknya, kamu harus memakannya di hadapan Tuhan, Tuhanmu, di tempat yang akan dipilih Tuhan, Tuhanmu—kamu, anak-anak laki-laki dan perempuanmu, hamba laki-laki dan perempuanmu, dan orang Lewi dari kota-kotamu—dan kamu harus bersukacita dalam semua usahamu."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": ["Ingatlah untuk mendukung orang Lewi selama kamu hidup di tanahmu."]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Ketika Tuhan, Tuhanmu, memperluas wilayahmu seperti yang dijanjikan-Nya, dan kamu menginginkan daging dan berkata, “Saya ingin daging,” maka kamu boleh makan sebanyak yang kamu inginkan."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Jika tempat yang dipilih Tuhan, Tuhanmu, untuk menempatkan Nama-Nya terlalu jauh darimu, kamu boleh menyembelih hewan dari kawanan ternak dan domba yang diberikan Tuhan kepadamu, seperti yang Aku perintahkan kepadamu, dan kamu boleh makan di kota-kotamu sebanyak yang kamu inginkan."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Konsumsilah seperti kamu akan memakan kijang atau rusa. Baik yang najis secara seremonial maupun yang bersih boleh memakannya."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Tetapi pastikan kamu tidak mengonsumsi darahnya, karena darah adalah nyawa, dan kamu tidak boleh memakan nyawa bersama daging."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": ["Kamu tidak boleh mengonsumsi darahnya; tuangkanlah di tanah seperti air."]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Hindarilah memakannya, agar kamu dan anak-anakmu sejahtera setelahmu, karena kamu akan melakukan apa yang benar di mata Tuhan."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Tetapi bawalah barang-barang yang dikhususkan dan persembahan nazarmu, dan pergilah ke tempat yang akan dipilih Tuhan."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Persembahkanlah persembahan bakaranmu di atas mezbah Tuhan, Tuhanmu, baik daging maupun darahnya. Darah dari korban-korbanmu harus dituangkan di samping mezbah Tuhan, Tuhanmu, tetapi kamu boleh memakan dagingnya."
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Berhati-hatilah untuk menaati semua peraturan ini yang Aku berikan kepadamu, agar kamu dan anak-anakmu selalu sejahtera setelahmu, karena kamu akan melakukan apa yang baik dan benar di mata Tuhan, Tuhanmu."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Tuhan, Tuhanmu, akan menyingkirkan bangsa-bangsa yang akan kamu serang dan singkirkan. Tetapi ketika kamu telah mengusir mereka dan menetap di tanah mereka,"
+      ]
+    },
+    {
+      "verse": 30,
+      "text": [
+        "berhati-hatilah agar tidak terjerat dengan menanyakan tentang dewa-dewa mereka, dengan berkata, “Bagaimana bangsa-bangsa ini menyembah dewa-dewa mereka? Kami akan melakukan hal yang sama.”"
+      ]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Kamu tidak boleh menyembah Tuhan, Tuhanmu, dengan cara mereka, karena dalam menyembah dewa-dewa mereka, mereka melakukan segala macam hal yang menjijikkan yang dibenci Tuhan. Mereka bahkan membakar anak-anak laki-laki dan perempuan mereka dalam api sebagai korban kepada dewa-dewa mereka."
+      ]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "Pastikan bahwa kamu melakukan semua yang Aku perintahkan kepadamu; jangan menambahinya atau menguranginya."
+      ]
+    }
+  ]
 }

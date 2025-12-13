@@ -111,7 +111,7 @@ Dan ia memerintahkan raja Israel,
 
 ## 2 Raja-raja 13:19
 
-Kemudian abdi Allah marah kepadanya dan berkata,  
+Kemudian abdi Tuhan marah kepadanya dan berkata,  
 "Engkau seharusnya memukul lima atau enam kali;  
 maka engkau akan memukul Aram sampai engkau mengakhirinya.  
 Tetapi sekarang engkau hanya akan memukul Aram tiga kali."

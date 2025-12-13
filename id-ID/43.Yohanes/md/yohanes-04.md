@@ -40,7 +40,7 @@ Perempuan Samaria itu berkata kepada-Nya, “Bagaimana Engkau, seorang Yahudi, m
 
 ## Yohanes 4:10
 
-Yesus menjawabnya, “Jika engkau mengetahui karunia Allah dan siapa yang berkata kepadamu, ‘Berilah Aku minum,’ engkau pasti akan meminta kepada-Nya, dan Ia akan memberikan kepadamu air hidup.”
+Yesus menjawabnya, “Jika engkau mengetahui karunia Tuhan dan siapa yang berkata kepadamu, ‘Berilah Aku minum,’ engkau pasti akan meminta kepada-Nya, dan Ia akan memberikan kepadamu air hidup.”
 
 ## Yohanes 4:11
 
@@ -98,7 +98,7 @@ Tetapi saatnya akan datang, dan sudah tiba, bahwa penyembah-penyembah yang benar
 
 ## Yohanes 4:24
 
-Allah itu Roh, dan barangsiapa menyembah Dia, harus menyembah-Nya dalam roh dan kebenaran.”
+Tuhan itu Roh, dan barangsiapa menyembah Dia, harus menyembah-Nya dalam roh dan kebenaran.”
 
 ## Yohanes 4:25
 

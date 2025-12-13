@@ -45,7 +45,7 @@
 
 ## Amos 6:8
 
-Tuhan Allah telah bersumpah demi diri-Nya, demikianlah firman Tuhan Allah semesta alam:
+Tuhan Tuhan telah bersumpah demi diri-Nya, demikianlah firman Tuhan Tuhan semesta alam:
 
 > “Aku membenci kesombongan Yakub
 > dan membenci benteng-bentengnya;
@@ -80,6 +80,6 @@ Dan ketika seorang kerabat atau pengurus jenazah datang untuk membawa tulang-tul
 ## Amos 6:14
 
 > “Karena lihatlah, Aku akan membangkitkan suatu bangsa melawanmu, hai kaum Israel,”
-> demikianlah firman Tuhan Allah semesta alam,
+> demikianlah firman Tuhan Tuhan semesta alam,
 > “dan mereka akan menindasmu dari pintu masuk Hamat
 > sampai ke sungai Arabah.”

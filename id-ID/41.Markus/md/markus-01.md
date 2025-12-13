@@ -2,7 +2,7 @@
 
 ## Markus 1:1
 
-Permulaan Injil tentang Yesus Kristus, Anak Allah,
+Permulaan Injil tentang Yesus Kristus, Anak Tuhan,
 
 ## Markus 1:2
 
@@ -15,7 +15,7 @@ seperti ada tertulis dalam nabi Yesaya:
 
 > Suara orang yang berseru di padang gurun:
 > ‘Persiapkan jalan untuk Tuhan;
-> luruskan jalan raya di padang belantara bagi Allah kita’”
+> luruskan jalan raya di padang belantara bagi Tuhan kita’”
 
 ## Markus 1:4
 
@@ -65,11 +65,11 @@ dan Ia berada di padang gurun selama empat puluh hari, menghadapi pencobaan dari
 
 ## Markus 1:14
 
-Setelah Yohanes ditangkap, Yesus pergi ke Galilea, memberitakan Injil Allah.
+Setelah Yohanes ditangkap, Yesus pergi ke Galilea, memberitakan Injil Tuhan.
 
 ## Markus 1:15
 
-“Waktunya telah genap,” kata-Nya. “Kerajaan Allah sudah dekat. Bertobatlah dan percayalah kepada Injil!”
+“Waktunya telah genap,” kata-Nya. “Kerajaan Tuhan sudah dekat. Bertobatlah dan percayalah kepada Injil!”
 
 ---
 
@@ -109,7 +109,7 @@ Saat itu juga seorang pria di rumah ibadat mereka yang kerasukan roh jahat berse
 
 ## Markus 1:24
 
-“Apa urusan-Mu dengan kami, Yesus dari Nazaret? Apakah Engkau datang untuk membinasakan kami? Aku tahu siapa Engkau —Engkau adalah Yang Kudus dari Allah!”
+“Apa urusan-Mu dengan kami, Yesus dari Nazaret? Apakah Engkau datang untuk membinasakan kami? Aku tahu siapa Engkau —Engkau adalah Yang Kudus dari Tuhan!”
 
 ## Markus 1:25
 

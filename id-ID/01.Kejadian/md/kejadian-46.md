@@ -2,15 +2,15 @@
 
 ## Kejadian 46:1
 
-Maka Israel berangkat dengan segala miliknya, dan ketika tiba di Bersyeba, ia mempersembahkan korban kepada Allah ayahnya, Ishak.
+Maka Israel berangkat dengan segala miliknya, dan ketika tiba di Bersyeba, ia mempersembahkan korban kepada Tuhan ayahnya, Ishak.
 
 ## Kejadian 46:2
 
-Dan Allah berfirman kepada Israel dalam suatu penglihatan pada malam hari, dengan berkata, “Yakub, Yakub.” Dan ia menjawab, “Ini aku.”
+Dan Tuhan berfirman kepada Israel dalam suatu penglihatan pada malam hari, dengan berkata, “Yakub, Yakub.” Dan ia menjawab, “Ini aku.”
 
 ## Kejadian 46:3
 
-Allah berfirman, “Akulah Allah, Allah ayahmu. Jangan takut pergi ke Mesir, karena di sana Aku akan membuatmu menjadi bangsa yang besar.
+Tuhan berfirman, “Akulah Tuhan, Tuhan ayahmu. Jangan takut pergi ke Mesir, karena di sana Aku akan membuatmu menjadi bangsa yang besar.
 
 ## Kejadian 46:4
 

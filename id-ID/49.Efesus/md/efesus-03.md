@@ -6,7 +6,7 @@ Karena hal ini, aku, Paulus, yang ditawan karena Kristus Yesus demi kamu orang-o
 
 ## Efesus 3:2
 
-Tentunya kamu telah mendengar tentang pengelolaan kasih karunia Allah yang diberikan kepadaku untuk kamu;
+Tentunya kamu telah mendengar tentang pengelolaan kasih karunia Tuhan yang diberikan kepadaku untuk kamu;
 
 ## Efesus 3:3
 
@@ -26,7 +26,7 @@ Rahasia ini adalah bahwa orang-orang bukan Yahudi menjadi ahli waris bersama, an
 
 ## Efesus 3:7
 
-Aku menjadi pelayan Injil ini oleh karunia kasih karunia Allah yang diberikan kepadaku melalui pekerjaan kuasa-Nya.
+Aku menjadi pelayan Injil ini oleh karunia kasih karunia Tuhan yang diberikan kepadaku melalui pekerjaan kuasa-Nya.
 
 ## Efesus 3:8
 
@@ -34,11 +34,11 @@ Kepadaku, yang lebih kecil dari yang paling kecil di antara semua orang kudus, k
 
 ## Efesus 3:9
 
-dan untuk menjelaskan kepada semua orang pengelolaan rahasia ini, yang selama berabad-abad tersembunyi dalam Allah, yang menciptakan segala sesuatu.
+dan untuk menjelaskan kepada semua orang pengelolaan rahasia ini, yang selama berabad-abad tersembunyi dalam Tuhan, yang menciptakan segala sesuatu.
 
 ## Efesus 3:10
 
-Tujuan-Nya adalah agar sekarang, melalui gereja, hikmat Allah yang beraneka ragam dinyatakan kepada para penguasa dan otoritas di alam surgawi,
+Tujuan-Nya adalah agar sekarang, melalui gereja, hikmat Tuhan yang beraneka ragam dinyatakan kepada para penguasa dan otoritas di alam surgawi,
 
 ## Efesus 3:11
 
@@ -46,7 +46,7 @@ sesuai dengan tujuan kekal yang telah dilaksanakan-Nya di dalam Kristus Yesus Tu
 
 ## Efesus 3:12
 
-Di dalam Dia dan melalui iman kepada-Nya kita dapat mendekati Allah dengan keberanian dan keyakinan.
+Di dalam Dia dan melalui iman kepada-Nya kita dapat mendekati Tuhan dengan keberanian dan keyakinan.
 
 ## Efesus 3:13
 
@@ -74,7 +74,7 @@ dapat memiliki kekuatan, bersama dengan semua orang kudus, untuk memahami betapa
 
 ## Efesus 3:19
 
-dan untuk mengetahui kasih ini yang melampaui pengetahuan—bahwa kamu dapat dipenuhi dengan seluruh kepenuhan Allah.
+dan untuk mengetahui kasih ini yang melampaui pengetahuan—bahwa kamu dapat dipenuhi dengan seluruh kepenuhan Tuhan.
 
 ## Efesus 3:20
 

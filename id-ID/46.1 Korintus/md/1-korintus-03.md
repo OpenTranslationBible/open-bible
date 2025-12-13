@@ -62,11 +62,11 @@ Jika itu habis, pembangun akan menderita kerugian tetapi akan tetap diselamatkan
 
 ## 1 Korintus 3:16
 
-Apakah kamu tidak menyadari bahwa kamu adalah bait Allah dan bahwa Roh Allah berdiam di dalam kamu?
+Apakah kamu tidak menyadari bahwa kamu adalah bait Tuhan dan bahwa Roh Tuhan berdiam di dalam kamu?
 
 ## 1 Korintus 3:17
 
-Jika ada yang merusak bait Allah, Allah akan menghancurkan orang itu; karena bait Allah adalah suci, dan kamu secara kolektif adalah bait itu.
+Jika ada yang merusak bait Tuhan, Tuhan akan menghancurkan orang itu; karena bait Tuhan adalah suci, dan kamu secara kolektif adalah bait itu.
 
 ## 1 Korintus 3:18
 
@@ -90,4 +90,4 @@ Baik itu Paulus, Apolos, Kefas, dunia, kehidupan, kematian, masa kini, atau masa
 
 ## 1 Korintus 3:23
 
-Dan kamu milik Kristus, sama seperti Kristus milik Allah.
+Dan kamu milik Kristus, sama seperti Kristus milik Tuhan.

@@ -1,390 +1,366 @@
 {
-    "book": "Yohanes",
-    "chapter": 8,
-    "verses": [
-        {
-            "text": [
-                "Beberapa naskah awal tidak memiliki Yohanes 8:1 - 8:11 di lokasi ini, tetapi menyertakannya"
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "Yesus pergi ke Bukit Zaitun."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Pada waktu fajar, Dia muncul kembali di pelataran Bait Suci, di mana semua orang berkumpul di sekeliling-Nya, dan Dia duduk untuk mengajar mereka."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Ahli-ahli Taurat dan orang-orang Farisi membawa seorang wanita yang tertangkap basah berbuat zina dan menempatkannya di tengah-tengah halaman."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Mereka berkata kepada-Nya, “Guru, wanita ini tertangkap basah dalam perbuatan zina."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Dalam Hukum Taurat, Musa memerintahkan kita untuk melempari wanita-wanita seperti ini dengan batu. Apa yang Engkau katakan?”"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Mereka menggunakan pertanyaan ini untuk menguji Dia, agar mereka memiliki alasan untuk menuduh-Nya. Tetapi Yesus membungkuk dan menulis di tanah dengan jari-Nya."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Ketika mereka terus-menerus bertanya kepada-Nya, Dia berdiri dan berkata kepada mereka, “Barangsiapa di antara kamu yang tidak berdosa, hendaklah dia yang pertama melemparkan batu kepadanya.”"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Sekali lagi, Dia membungkuk dan menulis di tanah."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Ketika mereka mendengar hal ini, mereka mulai pergi satu per satu, dimulai dengan yang lebih tua, sampai hanya Yesus yang tertinggal, dengan wanita itu berdiri di sana."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Yesus berdiri dan bertanya kepadanya, “Wanita, di mana mereka? Tidak adakah yang menghukum engkau?”"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "“Tidak ada, Tuhan,” jawabnya. Lalu Yesus berkata, “Aku pun tidak menghukum engkau. Pergilah sekarang dan jangan berbuat dosa lagi.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Yesus berbicara lagi kepada orang-orang, mengatakan, “Akulah terang dunia. Barangsiapa mengikuti Aku tidak akan berjalan dalam kegelapan, tetapi akan memiliki terang kehidupan.”"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Orang-orang Farisi menantang Dia, “Engkau bersaksi tentang diri-Mu sendiri; kesaksian-Mu tidak sah.”"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Yesus menjawab, “Sekalipun Aku bersaksi tentang diri-Ku sendiri, kesaksian-Ku sah, karena Aku tahu dari mana Aku datang dan ke mana Aku pergi. Tetapi kamu tidak tahu dari mana Aku datang atau ke mana Aku pergi."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Kamu menghakimi menurut daging, menurut standar manusia; Aku tidak menghakimi siapa pun."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Tetapi sekalipun Aku menghakimi, penghakiman-Ku benar, karena Aku tidak sendirian; Aku berdiri dengan Bapa yang mengutus Aku."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Dalam Hukummu, dinyatakan bahwa kesaksian dua saksi adalah benar."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Aku adalah satu yang bersaksi tentang diri-Ku sendiri; saksi lainnya adalah Bapa yang mengutus Aku.”"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Lalu mereka bertanya kepada-Nya, “Di mana Bapa-Mu?” Yesus menjawab, “Kamu tidak mengenal Aku atau Bapa-Ku. Jika kamu mengenal Aku, kamu juga akan mengenal Bapa-Ku.”"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Dia mengucapkan kata-kata ini saat mengajar di pelataran Bait Suci dekat tempat persembahan diletakkan. Namun tidak ada yang menangkap Dia, karena waktu-Nya belum tiba."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Lagi Yesus berkata kepada mereka, “Aku akan pergi, dan kamu akan mencari Aku, dan kamu akan mati dalam dosamu. Ke mana Aku pergi, kamu tidak dapat datang.”"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Ini membuat orang-orang Yahudi bertanya, “Apakah Dia akan bunuh diri, karena Dia berkata, ‘Ke mana Aku pergi, kamu tidak dapat datang’?”"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Tetapi Dia melanjutkan, “Kamu berasal dari dunia ini; Aku dari atas. Kamu berasal dari dunia ini; Aku tidak berasal dari dunia ini."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Aku telah mengatakan kepadamu bahwa kamu akan mati dalam dosamu; karena jika kamu tidak percaya bahwa Akulah Dia, kamu akan mati dalam dosamu.”"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "“Siapakah Engkau?” mereka bertanya. “Aku persis seperti yang telah Aku katakan kepadamu sejak awal,” jawab Yesus."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "“Aku memiliki banyak hal untuk dikatakan dalam penghakiman terhadap kamu. Tetapi Dia yang mengutus Aku dapat dipercaya, dan apa yang Aku dengar dari-Nya Aku sampaikan kepada dunia.”"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Mereka tidak mengerti bahwa Dia berbicara kepada mereka tentang Bapa-Nya."
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Maka Yesus berkata, “Ketika Bapa telah meninggikan Anak Manusia, maka kamu akan tahu dan mengerti bahwa Akulah Dia - dan bahwa Aku tidak melakukan apa pun atas kehendak-Ku sendiri, tetapi berbicara hanya apa yang diajarkan Bapa kepada-Ku."
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "Dia yang mengutus Aku menyertai Aku; Dia tidak meninggalkan Aku sendirian, karena Aku selalu melakukan apa yang menyenangkan Dia.”"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "Saat Dia berbicara, banyak yang percaya kepada-Nya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Kepada orang-orang Yahudi yang telah percaya kepada-Nya, Yesus berkata, “Jika kamu berpegang pada ajaran-Ku, kamu benar-benar murid-Ku."
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Kemudian kamu akan mengetahui kebenaran, dan kebenaran itu akan memerdekakan kamu.”"
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "Mereka menjawab, “Kami adalah keturunan Abraham dan tidak pernah menjadi budak siapa pun. Bagaimana Engkau bisa mengatakan bahwa kami akan dimerdekakan?”"
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "Yesus menjawab, “Sesungguhnya, sesungguhnya Aku katakan kepadamu, setiap orang yang berbuat dosa adalah budak dosa."
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "Sekarang seorang budak tidak memiliki tempat tetap dalam keluarga, tetapi seorang anak tinggal di dalamnya selamanya."
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "Jadi jika Anak memerdekakan kamu, kamu akan benar-benar merdeka."
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "Aku tahu bahwa kamu adalah keturunan Abraham. Namun kamu mencari cara untuk membunuh Aku, karena firman-Ku tidak mendapat tempat dalam dirimu."
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "Aku membagikan kepadamu apa yang telah Aku lihat di hadirat Bapa, dan kamu melakukan apa yang telah kamu dengar dari bapamu.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "“Abraham adalah bapak kami,” jawab mereka. “Jika kamu benar-benar anak-anak Abraham,” kata Yesus, “maka kamu akan melakukan apa yang dilakukan Abraham."
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "Sebaliknya, kamu berusaha membunuh Aku, seorang manusia yang telah memberitahumu kebenaran yang Aku dengar dari Allah. Abraham tidak melakukan hal-hal seperti itu."
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "Kamu mengikuti cara-cara bapamu sendiri.” “Kami bukan anak-anak haram,” mereka memprotes. “Satu-satunya Bapa yang kami miliki adalah Allah sendiri.”"
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "Yesus berkata kepada mereka, “Jika Allah adalah Bapamu, kamu akan mengasihi Aku, karena Aku datang dari Allah. Aku tidak datang atas kehendak-Ku sendiri; Allah mengutus Aku."
-            ]
-        },
-        {
-            "verse": 43,
-            "text": [
-                "Mengapa bahasa-Ku tidak jelas bagimu? Itu karena kamu tidak dapat mendengar apa yang Aku katakan."
-            ]
-        },
-        {
-            "verse": 44,
-            "text": [
-                "Kamu berasal dari bapamu, si iblis, dan kamu ingin melaksanakan keinginan bapamu. Dia adalah pembunuh sejak awal, tidak memegang kebenaran, karena tidak ada kebenaran dalam dirinya. Ketika dia berbohong, dia berbicara dalam bahasa aslinya, karena dia adalah pembohong dan bapak dari segala dusta."
-            ]
-        },
-        {
-            "verse": 45,
-            "text": [
-                "Namun karena Aku berbicara kebenaran, kamu tidak percaya kepada-Ku!"
-            ]
-        },
-        {
-            "verse": 46,
-            "text": [
-                "Dapatkah salah satu dari kamu membuktikan Aku bersalah atas dosa? Jika Aku mengatakan kebenaran, mengapa kamu tidak percaya kepada-Ku?"
-            ]
-        },
-        {
-            "verse": 47,
-            "text": [
-                "Barangsiapa berasal dari Allah mendengar firman Allah. Alasan kamu tidak mendengar adalah karena kamu bukan dari Allah.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 48,
-            "text": [
-                "Orang-orang Yahudi menjawab Dia, “Bukankah kami benar mengatakan bahwa Engkau adalah seorang Samaria dan memiliki setan?”"
-            ]
-        },
-        {
-            "verse": 49,
-            "text": [
-                "“Aku tidak berada di bawah pengaruh setan,” kata Yesus, “tetapi Aku menghormati Bapa-Ku dan kamu tidak menghormati Aku."
-            ]
-        },
-        {
-            "verse": 50,
-            "text": [
-                "Tetapi Aku tidak mencari kemuliaan-Ku sendiri; karena ada satu yang mencarinya, dan Dia adalah hakimnya."
-            ]
-        },
-        {
-            "verse": 51,
-            "text": [
-                "Sesungguhnya, sesungguhnya Aku katakan kepadamu, barangsiapa menaati firman-Ku tidak akan pernah melihat kematian.”"
-            ]
-        },
-        {
-            "verse": 52,
-            "text": [
-                "Mendengar itu mereka berseru, “Sekarang kami tahu bahwa Engkau memiliki setan! Abraham mati dan begitu juga para nabi, namun Engkau mengatakan bahwa barangsiapa menaati firman-Mu tidak akan pernah merasakan kematian."
-            ]
-        },
-        {
-            "verse": 53,
-            "text": [
-                "Apakah Engkau lebih penting daripada bapak kami Abraham? Bahkan dia meninggal dan mati, begitu juga semua nabi. Jadi siapa yang Engkau klaim sebagai diri-Mu?”"
-            ]
-        },
-        {
-            "verse": 54,
-            "text": [
-                "Yesus menjawab, “Jika Aku memuliakan diri-Ku sendiri, kemuliaan-Ku tidak berarti apa-apa. Bapa-Ku, yang kamu klaim sebagai Allahmu, yang memuliakan Aku."
-            ]
-        },
-        {
-            "verse": 55,
-            "text": [
-                "Meskipun kamu tidak mengenal Dia, Aku mengenal Dia. Jika Aku mengatakan Aku tidak mengenal Dia, Aku akan menjadi tidak jujur seperti kamu, tetapi Aku mengenal Dia dan Aku menaati firman-Nya."
-            ]
-        },
-        {
-            "verse": 56,
-            "text": [
-                "Bapakmu Abraham sangat bersukacita melihat hari-Ku; dia melihatnya dan bersukacita.”"
-            ]
-        },
-        {
-            "verse": 57,
-            "text": [
-                "“Kamu belum berumur lima puluh tahun,” kata mereka kepada-Nya, “dan Engkau mengatakan telah melihat Abraham!”"
-            ]
-        },
-        {
-            "verse": 58,
-            "text": [
-                "“Sesungguhnya, sesungguhnya Aku katakan kepadamu,” jawab Yesus, “sebelum Abraham lahir, Aku ada!”"
-            ]
-        },
-        {
-            "verse": 59,
-            "text": [
-                "Mendengar itu, mereka mengambil batu untuk melempari Dia, tetapi Yesus menyembunyikan diri-Nya, menghilang dari pelataran Bait Suci."
-            ]
-        }
-    ]
+  "book": "Yohanes",
+  "chapter": 8,
+  "verses": [
+    {
+      "text": [
+        "Beberapa naskah awal tidak memiliki Yohanes 8:1 - 8:11 di lokasi ini, tetapi menyertakannya"
+      ]
+    },
+    {
+      "verse": 1,
+      "text": ["Yesus pergi ke Bukit Zaitun."]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Pada waktu fajar, Dia muncul kembali di pelataran Bait Suci, di mana semua orang berkumpul di sekeliling-Nya, dan Dia duduk untuk mengajar mereka."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Ahli-ahli Taurat dan orang-orang Farisi membawa seorang wanita yang tertangkap basah berbuat zina dan menempatkannya di tengah-tengah halaman."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Mereka berkata kepada-Nya, “Guru, wanita ini tertangkap basah dalam perbuatan zina."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Dalam Hukum Taurat, Musa memerintahkan kita untuk melempari wanita-wanita seperti ini dengan batu. Apa yang Engkau katakan?”"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Mereka menggunakan pertanyaan ini untuk menguji Dia, agar mereka memiliki alasan untuk menuduh-Nya. Tetapi Yesus membungkuk dan menulis di tanah dengan jari-Nya."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Ketika mereka terus-menerus bertanya kepada-Nya, Dia berdiri dan berkata kepada mereka, “Barangsiapa di antara kamu yang tidak berdosa, hendaklah dia yang pertama melemparkan batu kepadanya.”"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": ["Sekali lagi, Dia membungkuk dan menulis di tanah."]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Ketika mereka mendengar hal ini, mereka mulai pergi satu per satu, dimulai dengan yang lebih tua, sampai hanya Yesus yang tertinggal, dengan wanita itu berdiri di sana."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Yesus berdiri dan bertanya kepadanya, “Wanita, di mana mereka? Tidak adakah yang menghukum engkau?”"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "“Tidak ada, Tuhan,” jawabnya. Lalu Yesus berkata, “Aku pun tidak menghukum engkau. Pergilah sekarang dan jangan berbuat dosa lagi.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Yesus berbicara lagi kepada orang-orang, mengatakan, “Akulah terang dunia. Barangsiapa mengikuti Aku tidak akan berjalan dalam kegelapan, tetapi akan memiliki terang kehidupan.”"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Orang-orang Farisi menantang Dia, “Engkau bersaksi tentang diri-Mu sendiri; kesaksian-Mu tidak sah.”"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Yesus menjawab, “Sekalipun Aku bersaksi tentang diri-Ku sendiri, kesaksian-Ku sah, karena Aku tahu dari mana Aku datang dan ke mana Aku pergi. Tetapi kamu tidak tahu dari mana Aku datang atau ke mana Aku pergi."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Kamu menghakimi menurut daging, menurut standar manusia; Aku tidak menghakimi siapa pun."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Tetapi sekalipun Aku menghakimi, penghakiman-Ku benar, karena Aku tidak sendirian; Aku berdiri dengan Bapa yang mengutus Aku."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": ["Dalam Hukummu, dinyatakan bahwa kesaksian dua saksi adalah benar."]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Aku adalah satu yang bersaksi tentang diri-Ku sendiri; saksi lainnya adalah Bapa yang mengutus Aku.”"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Lalu mereka bertanya kepada-Nya, “Di mana Bapa-Mu?” Yesus menjawab, “Kamu tidak mengenal Aku atau Bapa-Ku. Jika kamu mengenal Aku, kamu juga akan mengenal Bapa-Ku.”"
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Dia mengucapkan kata-kata ini saat mengajar di pelataran Bait Suci dekat tempat persembahan diletakkan. Namun tidak ada yang menangkap Dia, karena waktu-Nya belum tiba."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Lagi Yesus berkata kepada mereka, “Aku akan pergi, dan kamu akan mencari Aku, dan kamu akan mati dalam dosamu. Ke mana Aku pergi, kamu tidak dapat datang.”"
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Ini membuat orang-orang Yahudi bertanya, “Apakah Dia akan bunuh diri, karena Dia berkata, ‘Ke mana Aku pergi, kamu tidak dapat datang’?”"
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Tetapi Dia melanjutkan, “Kamu berasal dari dunia ini; Aku dari atas. Kamu berasal dari dunia ini; Aku tidak berasal dari dunia ini."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Aku telah mengatakan kepadamu bahwa kamu akan mati dalam dosamu; karena jika kamu tidak percaya bahwa Akulah Dia, kamu akan mati dalam dosamu.”"
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "“Siapakah Engkau?” mereka bertanya. “Aku persis seperti yang telah Aku katakan kepadamu sejak awal,” jawab Yesus."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "“Aku memiliki banyak hal untuk dikatakan dalam penghakiman terhadap kamu. Tetapi Dia yang mengutus Aku dapat dipercaya, dan apa yang Aku dengar dari-Nya Aku sampaikan kepada dunia.”"
+      ]
+    },
+    {
+      "verse": 27,
+      "text": ["Mereka tidak mengerti bahwa Dia berbicara kepada mereka tentang Bapa-Nya."]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Maka Yesus berkata, “Ketika Bapa telah meninggikan Anak Manusia, maka kamu akan tahu dan mengerti bahwa Akulah Dia - dan bahwa Aku tidak melakukan apa pun atas kehendak-Ku sendiri, tetapi berbicara hanya apa yang diajarkan Bapa kepada-Ku."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Dia yang mengutus Aku menyertai Aku; Dia tidak meninggalkan Aku sendirian, karena Aku selalu melakukan apa yang menyenangkan Dia.”"
+      ]
+    },
+    {
+      "verse": 30,
+      "text": ["Saat Dia berbicara, banyak yang percaya kepada-Nya."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Kepada orang-orang Yahudi yang telah percaya kepada-Nya, Yesus berkata, “Jika kamu berpegang pada ajaran-Ku, kamu benar-benar murid-Ku."
+      ]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "Kemudian kamu akan mengetahui kebenaran, dan kebenaran itu akan memerdekakan kamu.”"
+      ]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "Mereka menjawab, “Kami adalah keturunan Abraham dan tidak pernah menjadi budak siapa pun. Bagaimana Engkau bisa mengatakan bahwa kami akan dimerdekakan?”"
+      ]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "Yesus menjawab, “Sesungguhnya, sesungguhnya Aku katakan kepadamu, setiap orang yang berbuat dosa adalah budak dosa."
+      ]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "Sekarang seorang budak tidak memiliki tempat tetap dalam keluarga, tetapi seorang anak tinggal di dalamnya selamanya."
+      ]
+    },
+    {
+      "verse": 36,
+      "text": ["Jadi jika Anak memerdekakan kamu, kamu akan benar-benar merdeka."]
+    },
+    {
+      "verse": 37,
+      "text": [
+        "Aku tahu bahwa kamu adalah keturunan Abraham. Namun kamu mencari cara untuk membunuh Aku, karena firman-Ku tidak mendapat tempat dalam dirimu."
+      ]
+    },
+    {
+      "verse": 38,
+      "text": [
+        "Aku membagikan kepadamu apa yang telah Aku lihat di hadirat Bapa, dan kamu melakukan apa yang telah kamu dengar dari bapamu.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "“Abraham adalah bapak kami,” jawab mereka. “Jika kamu benar-benar anak-anak Abraham,” kata Yesus, “maka kamu akan melakukan apa yang dilakukan Abraham."
+      ]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "Sebaliknya, kamu berusaha membunuh Aku, seorang manusia yang telah memberitahumu kebenaran yang Aku dengar dari Tuhan. Abraham tidak melakukan hal-hal seperti itu."
+      ]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "Kamu mengikuti cara-cara bapamu sendiri.” “Kami bukan anak-anak haram,” mereka memprotes. “Satu-satunya Bapa yang kami miliki adalah Tuhan sendiri.”"
+      ]
+    },
+    {
+      "verse": 42,
+      "text": [
+        "Yesus berkata kepada mereka, “Jika Tuhan adalah Bapamu, kamu akan mengasihi Aku, karena Aku datang dari Tuhan. Aku tidak datang atas kehendak-Ku sendiri; Tuhan mengutus Aku."
+      ]
+    },
+    {
+      "verse": 43,
+      "text": [
+        "Mengapa bahasa-Ku tidak jelas bagimu? Itu karena kamu tidak dapat mendengar apa yang Aku katakan."
+      ]
+    },
+    {
+      "verse": 44,
+      "text": [
+        "Kamu berasal dari bapamu, si iblis, dan kamu ingin melaksanakan keinginan bapamu. Dia adalah pembunuh sejak awal, tidak memegang kebenaran, karena tidak ada kebenaran dalam dirinya. Ketika dia berbohong, dia berbicara dalam bahasa aslinya, karena dia adalah pembohong dan bapak dari segala dusta."
+      ]
+    },
+    {
+      "verse": 45,
+      "text": ["Namun karena Aku berbicara kebenaran, kamu tidak percaya kepada-Ku!"]
+    },
+    {
+      "verse": 46,
+      "text": [
+        "Dapatkah salah satu dari kamu membuktikan Aku bersalah atas dosa? Jika Aku mengatakan kebenaran, mengapa kamu tidak percaya kepada-Ku?"
+      ]
+    },
+    {
+      "verse": 47,
+      "text": [
+        "Barangsiapa berasal dari Tuhan mendengar firman Tuhan. Alasan kamu tidak mendengar adalah karena kamu bukan dari Tuhan.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 48,
+      "text": [
+        "Orang-orang Yahudi menjawab Dia, “Bukankah kami benar mengatakan bahwa Engkau adalah seorang Samaria dan memiliki setan?”"
+      ]
+    },
+    {
+      "verse": 49,
+      "text": [
+        "“Aku tidak berada di bawah pengaruh setan,” kata Yesus, “tetapi Aku menghormati Bapa-Ku dan kamu tidak menghormati Aku."
+      ]
+    },
+    {
+      "verse": 50,
+      "text": [
+        "Tetapi Aku tidak mencari kemuliaan-Ku sendiri; karena ada satu yang mencarinya, dan Dia adalah hakimnya."
+      ]
+    },
+    {
+      "verse": 51,
+      "text": [
+        "Sesungguhnya, sesungguhnya Aku katakan kepadamu, barangsiapa menaati firman-Ku tidak akan pernah melihat kematian.”"
+      ]
+    },
+    {
+      "verse": 52,
+      "text": [
+        "Mendengar itu mereka berseru, “Sekarang kami tahu bahwa Engkau memiliki setan! Abraham mati dan begitu juga para nabi, namun Engkau mengatakan bahwa barangsiapa menaati firman-Mu tidak akan pernah merasakan kematian."
+      ]
+    },
+    {
+      "verse": 53,
+      "text": [
+        "Apakah Engkau lebih penting daripada bapak kami Abraham? Bahkan dia meninggal dan mati, begitu juga semua nabi. Jadi siapa yang Engkau klaim sebagai diri-Mu?”"
+      ]
+    },
+    {
+      "verse": 54,
+      "text": [
+        "Yesus menjawab, “Jika Aku memuliakan diri-Ku sendiri, kemuliaan-Ku tidak berarti apa-apa. Bapa-Ku, yang kamu klaim sebagai Tuhanmu, yang memuliakan Aku."
+      ]
+    },
+    {
+      "verse": 55,
+      "text": [
+        "Meskipun kamu tidak mengenal Dia, Aku mengenal Dia. Jika Aku mengatakan Aku tidak mengenal Dia, Aku akan menjadi tidak jujur seperti kamu, tetapi Aku mengenal Dia dan Aku menaati firman-Nya."
+      ]
+    },
+    {
+      "verse": 56,
+      "text": [
+        "Bapakmu Abraham sangat bersukacita melihat hari-Ku; dia melihatnya dan bersukacita.”"
+      ]
+    },
+    {
+      "verse": 57,
+      "text": [
+        "“Kamu belum berumur lima puluh tahun,” kata mereka kepada-Nya, “dan Engkau mengatakan telah melihat Abraham!”"
+      ]
+    },
+    {
+      "verse": 58,
+      "text": [
+        "“Sesungguhnya, sesungguhnya Aku katakan kepadamu,” jawab Yesus, “sebelum Abraham lahir, Aku ada!”"
+      ]
+    },
+    {
+      "verse": 59,
+      "text": [
+        "Mendengar itu, mereka mengambil batu untuk melempari Dia, tetapi Yesus menyembunyikan diri-Nya, menghilang dari pelataran Bait Suci."
+      ]
+    }
+  ]
 }

@@ -3,7 +3,7 @@
 ## Mazmur 104:1
 
 > Pujilah Tuhan, hai jiwaku!  
-> Tuhan, Allahku, Engkau sangat besar;  
+> Tuhan, Tuhanku, Engkau sangat besar;  
 > Engkau berpakaian keagungan dan kemuliaan,
 
 ---
@@ -115,7 +115,7 @@
 ## Mazmur 104:21
 
 > Singa-singa muda mengaum mencari mangsa,  
-> Dan mencari makanannya dari Allah.
+> Dan mencari makanannya dari Tuhan.
 
 ## Mazmur 104:22
 
@@ -186,7 +186,7 @@
 ## Mazmur 104:33
 
 > Aku akan menyanyi bagi Tuhan sepanjang hidupku;  
-> Aku akan menyanyi pujian bagi Allahku selama aku ada.
+> Aku akan menyanyi pujian bagi Tuhanku selama aku ada.
 
 ## Mazmur 104:34
 

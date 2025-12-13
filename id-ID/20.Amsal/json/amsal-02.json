@@ -1,158 +1,134 @@
 {
-    "book": "Amsal",
-    "chapter": 2,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Anakku, jika engkau menerima perkataanku dan menyimpan perintah-perintahku dalam hatimu,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Sehingga telingamu memperhatikan hikmat dan engkau membuka hatimu kepada pengertian—"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Ya, jika engkau berseru meminta pengertian dan meninggikan suaramu untuk memperoleh pemahaman,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Jika engkau mencarinya seperti perak dan mencarinya seperti harta tersembunyi,"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Maka engkau akan memahami apa artinya takut akan Tuhan dan menemukan pengetahuan tentang Allah."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Karena Tuhanlah yang memberikan hikmat; dari mulut-Nya mengalir pengetahuan dan pengertian."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Ia menyimpan hikmat yang teguh bagi orang yang jujur; Ia adalah perisai bagi mereka yang hidupnya tidak bercela,"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Menjaga jalan keadilan dan mengawasi jalan orang-orang yang setia kepada-Nya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Maka engkau akan memahami apa yang benar dan adil dan jujur—setiap jalan yang baik."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Karena hikmat akan memenuhi hatimu, dan pengetahuan akan membawa sukacita bagi jiwamu."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kebijaksanaan akan melindungi engkau, dan pengertian akan menjaga engkau."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Untuk menyelamatkan engkau dari jalan orang jahat, dari mereka yang mengucapkan hal-hal yang bengkok,"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Dari mereka yang meninggalkan jalan kebenaran untuk berjalan di jalan yang gelap,"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Yang bersukacita dalam melakukan kejahatan dan bergembira dalam kebengkokan kejahatan,"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Yang jalannya berliku-liku dan yang menipu dalam perbuatannya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Untuk menyelamatkan engkau dari perempuan yang berzinah, dari perempuan asing yang memikat dengan kata-katanya,"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Yang meninggalkan teman masa mudanya dan melupakan perjanjian Allahnya."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Karena rumahnya menuju ke maut, dan jalannya menuju kepada roh-roh orang mati."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Tidak ada yang kembali dari padanya, dan mereka tidak mencapai jalan kehidupan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Sehingga engkau akan berjalan di jalan orang baik dan tetap mengikuti jalan orang benar."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Karena orang yang jujur akan mendiami tanah itu, dan orang yang tidak bercela akan tinggal di dalamnya;"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Tetapi orang fasik akan disingkirkan dari tanah itu, dan orang yang berkhianat akan dicabut dari situ."
-            ]
-        }
-    ]
+  "book": "Amsal",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Anakku, jika engkau menerima perkataanku dan menyimpan perintah-perintahku dalam hatimu,"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Sehingga telingamu memperhatikan hikmat dan engkau membuka hatimu kepada pengertian—"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Ya, jika engkau berseru meminta pengertian dan meninggikan suaramu untuk memperoleh pemahaman,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Jika engkau mencarinya seperti perak dan mencarinya seperti harta tersembunyi,"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Maka engkau akan memahami apa artinya takut akan Tuhan dan menemukan pengetahuan tentang Tuhan."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Karena Tuhanlah yang memberikan hikmat; dari mulut-Nya mengalir pengetahuan dan pengertian."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Ia menyimpan hikmat yang teguh bagi orang yang jujur; Ia adalah perisai bagi mereka yang hidupnya tidak bercela,"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": ["Menjaga jalan keadilan dan mengawasi jalan orang-orang yang setia kepada-Nya."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Maka engkau akan memahami apa yang benar dan adil dan jujur—setiap jalan yang baik."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Karena hikmat akan memenuhi hatimu, dan pengetahuan akan membawa sukacita bagi jiwamu."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": ["Kebijaksanaan akan melindungi engkau, dan pengertian akan menjaga engkau."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Untuk menyelamatkan engkau dari jalan orang jahat, dari mereka yang mengucapkan hal-hal yang bengkok,"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["Dari mereka yang meninggalkan jalan kebenaran untuk berjalan di jalan yang gelap,"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Yang bersukacita dalam melakukan kejahatan dan bergembira dalam kebengkokan kejahatan,"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["Yang jalannya berliku-liku dan yang menipu dalam perbuatannya."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Untuk menyelamatkan engkau dari perempuan yang berzinah, dari perempuan asing yang memikat dengan kata-katanya,"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": ["Yang meninggalkan teman masa mudanya dan melupakan perjanjian Tuhannya."]
+    },
+    {
+      "verse": 18,
+      "text": ["Karena rumahnya menuju ke maut, dan jalannya menuju kepada roh-roh orang mati."]
+    },
+    {
+      "verse": 19,
+      "text": ["Tidak ada yang kembali dari padanya, dan mereka tidak mencapai jalan kehidupan."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Sehingga engkau akan berjalan di jalan orang baik dan tetap mengikuti jalan orang benar."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Karena orang yang jujur akan mendiami tanah itu, dan orang yang tidak bercela akan tinggal di dalamnya;"
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Tetapi orang fasik akan disingkirkan dari tanah itu, dan orang yang berkhianat akan dicabut dari situ."
+      ]
+    }
+  ]
 }

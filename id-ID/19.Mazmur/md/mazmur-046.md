@@ -4,7 +4,7 @@
 
 ## Mazmur 46:1
 
-> Allah adalah tempat perlindungan dan kekuatan kita,  
+> Tuhan adalah tempat perlindungan dan kekuatan kita,  
 > Pertolongan yang sangat hadir dalam kesulitan.
 
 ## Mazmur 46:2
@@ -23,13 +23,13 @@
 
 ## Mazmur 46:4
 
-> Ada sebuah sungai yang alirannya membawa sukacita ke kota Allah,  
+> Ada sebuah sungai yang alirannya membawa sukacita ke kota Tuhan,  
 > Tempat kediaman suci Yang Mahatinggi.
 
 ## Mazmur 46:5
 
-> Allah ada di dalamnya, ia tidak akan goyah;  
-> Allah akan menolongnya pada waktu pagi.
+> Tuhan ada di dalamnya, ia tidak akan goyah;  
+> Tuhan akan menolongnya pada waktu pagi.
 
 ## Mazmur 46:6
 
@@ -41,7 +41,7 @@
 ## Mazmur 46:7
 
 > Tuhan semesta alam menyertai kita;  
-> Allah Yakub adalah benteng kita.
+> Tuhan Yakub adalah benteng kita.
 
 > Sela
 
@@ -60,7 +60,7 @@
 
 ## Mazmur 46:10
 
-> “Diamlah dan kenalilah bahwa Aku adalah Allah;  
+> “Diamlah dan kenalilah bahwa Aku adalah Tuhan;  
 > Aku akan ditinggikan di antara bangsa-bangsa,  
 > Aku akan ditinggikan di bumi.”
 
@@ -69,6 +69,6 @@
 ## Mazmur 46:11
 
 > Tuhan semesta alam menyertai kita;  
-> Allah Yakub adalah benteng kita.
+> Tuhan Yakub adalah benteng kita.
 
 > Sela

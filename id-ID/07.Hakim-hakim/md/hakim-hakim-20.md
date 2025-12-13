@@ -6,7 +6,7 @@ Kemudian semua orang Israel dari Dan sampai Bersyeba, termasuk tanah Gilead, ber
 
 ## Hakim-Hakim 20:2
 
-Para pemimpin dari semua suku Israel mengambil tempat mereka dalam perhimpunan umat Allah, terdiri dari empat ratus ribu prajurit berjalan kaki yang bersenjata pedang.
+Para pemimpin dari semua suku Israel mengambil tempat mereka dalam perhimpunan umat Tuhan, terdiri dari empat ratus ribu prajurit berjalan kaki yang bersenjata pedang.
 
 ## Hakim-Hakim 20:3
 
@@ -72,7 +72,7 @@ Orang-orang Israel, tidak termasuk Benyamin, mengumpulkan empat ratus ribu praju
 
 ## Hakim-Hakim 20:18
 
-Orang-orang Israel pergi ke Betel dan bertanya kepada Allah, "Siapa yang harus pergi pertama untuk berperang melawan orang-orang Benyamin?" Tuhan menjawab, "Yehuda harus pergi pertama."
+Orang-orang Israel pergi ke Betel dan bertanya kepada Tuhan, "Siapa yang harus pergi pertama untuk berperang melawan orang-orang Benyamin?" Tuhan menjawab, "Yehuda harus pergi pertama."
 
 ## Hakim-Hakim 20:19
 
@@ -108,7 +108,7 @@ Kemudian semua orang Israel, seluruh tentara, pergi ke Betel, di mana mereka dud
 
 ## Hakim-Hakim 20:27
 
-Orang-orang Israel bertanya kepada Tuhan. (Pada masa itu, tabut perjanjian Allah ada di sana,
+Orang-orang Israel bertanya kepada Tuhan. (Pada masa itu, tabut perjanjian Tuhan ada di sana,
 
 ## Hakim-Hakim 20:28
 

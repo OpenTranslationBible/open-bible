@@ -6,7 +6,7 @@ Tuhan memperhatikan Sara seperti yang telah Dia katakan, dan Tuhan memenuhi untu
 
 ## Kejadian 21:2
 
-Sara mengandung dan melahirkan seorang anak laki-laki bagi Abraham pada masa tuanya, pada waktu yang telah ditentukan Allah kepadanya.
+Sara mengandung dan melahirkan seorang anak laki-laki bagi Abraham pada masa tuanya, pada waktu yang telah ditentukan Tuhan kepadanya.
 
 ## Kejadian 21:3
 
@@ -14,7 +14,7 @@ Abraham menamai anaknya Ishak, anak yang dilahirkan Sara baginya.
 
 ## Kejadian 21:4
 
-Abraham menyunat anaknya Ishak ketika ia berumur delapan hari, mengikuti perintah Allah.
+Abraham menyunat anaknya Ishak ketika ia berumur delapan hari, mengikuti perintah Tuhan.
 
 ## Kejadian 21:5
 
@@ -22,7 +22,7 @@ Abraham berusia seratus tahun ketika anaknya Ishak lahir ke dunia.
 
 ## Kejadian 21:6
 
-Sara berkata, "Allah telah membuatku tertawa, dan setiap orang yang mendengar akan turut bergembira bersamaku."
+Sara berkata, "Tuhan telah membuatku tertawa, dan setiap orang yang mendengar akan turut bergembira bersamaku."
 
 ## Kejadian 21:7
 
@@ -46,7 +46,7 @@ Hal ini sangat mengganggu Abraham karena anaknya.
 
 ## Kejadian 21:12
 
-Tetapi Allah berkata kepada Abraham, "Janganlah merasa tertekan tentang anak laki-laki itu dan wanita budakmu. Dengarkan Sara, karena melalui Ishak keturunanmu akan disebut.
+Tetapi Tuhan berkata kepada Abraham, "Janganlah merasa tertekan tentang anak laki-laki itu dan wanita budakmu. Dengarkan Sara, karena melalui Ishak keturunanmu akan disebut.
 
 ## Kejadian 21:13
 
@@ -66,7 +66,7 @@ Dia pergi dan duduk di seberangnya, sekitar sejarak busur panah, sambil berkata,
 
 ## Kejadian 21:17
 
-Allah mendengar tangisan anak itu, dan malaikat Allah memanggil Hagar dari surga, "Apa yang mengganggumu, Hagar? Jangan takut, karena Allah telah mendengar suara anak itu di tempat dia berada.
+Tuhan mendengar tangisan anak itu, dan malaikat Tuhan memanggil Hagar dari surga, "Apa yang mengganggumu, Hagar? Jangan takut, karena Tuhan telah mendengar suara anak itu di tempat dia berada.
 
 ## Kejadian 21:18
 
@@ -74,11 +74,11 @@ Bangkitlah, angkatlah anak itu, dan peganglah dia dengan tanganmu, karena Aku ak
 
 ## Kejadian 21:19
 
-Allah membuatnya melihat sebuah sumur air. Dia pergi dan mengisi kantong dengan air dan memberi anak itu minum.
+Tuhan membuatnya melihat sebuah sumur air. Dia pergi dan mengisi kantong dengan air dan memberi anak itu minum.
 
 ## Kejadian 21:20
 
-Allah menyertai anak itu ketika ia tumbuh besar. Dia tinggal di padang gurun dan menjadi seorang pemanah.
+Tuhan menyertai anak itu ketika ia tumbuh besar. Dia tinggal di padang gurun dan menjadi seorang pemanah.
 
 ## Kejadian 21:21
 
@@ -86,11 +86,11 @@ Dia tinggal di padang gurun Paran, dan ibunya mencarikan dia seorang istri dari 
 
 ## Kejadian 21:22
 
-Pada masa itu, Abimelekh dan Pikhol, panglima tentaranya, berkata kepada Abraham, "Allah menyertaimu dalam semua usahamu.
+Pada masa itu, Abimelekh dan Pikhol, panglima tentaranya, berkata kepada Abraham, "Tuhan menyertaimu dalam semua usahamu.
 
 ## Kejadian 21:23
 
-Sekarang bersumpahlah kepadaku di sini di hadapan Allah bahwa engkau tidak akan menipu aku atau keturunanku. Tunjukkan kebaikan yang sama kepadaku dan tanah tempat engkau tinggal seperti yang telah kutunjukkan kepadamu."
+Sekarang bersumpahlah kepadaku di sini di hadapan Tuhan bahwa engkau tidak akan menipu aku atau keturunanku. Tunjukkan kebaikan yang sama kepadaku dan tanah tempat engkau tinggal seperti yang telah kutunjukkan kepadamu."
 
 ## Kejadian 21:24
 
@@ -130,7 +130,7 @@ Setelah membuat perjanjian di Bersyeba, Abimelekh dan Pikhol, panglima tentarany
 
 ## Kejadian 21:33
 
-Abraham menanam pohon tamariska di Bersyeba, dan di sana ia memanggil nama Tuhan, Allah yang Kekal.
+Abraham menanam pohon tamariska di Bersyeba, dan di sana ia memanggil nama Tuhan, Tuhan yang Kekal.
 
 ## Kejadian 21:34
 

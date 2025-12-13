@@ -68,7 +68,7 @@ Beberapa keturunan Yehuda, Benyamin, Efraim, dan Manasye tinggal di Yerusalem:
 
 ## 1 Tawarikh 9:11
 
-> dan Azarya, keturunan Hilkia, Mesulam, Zadok, Merayot, dan Ahitub, kepala rumah Allah;
+> dan Azarya, keturunan Hilkia, Mesulam, Zadok, Merayot, dan Ahitub, kepala rumah Tuhan;
 
 ---
 
@@ -81,7 +81,7 @@ Beberapa keturunan Yehuda, Benyamin, Efraim, dan Manasye tinggal di Yerusalem:
 
 ## 1 Tawarikh 9:13
 
-> dan saudara-saudara mereka, kepala rumah-rumah leluhur mereka, 1.760 orang yang mampu untuk pekerjaan pelayanan rumah Allah.
+> dan saudara-saudara mereka, kepala rumah-rumah leluhur mereka, 1.760 orang yang mampu untuk pekerjaan pelayanan rumah Tuhan.
 
 ---
 
@@ -178,13 +178,13 @@ Saudara-saudara mereka dari pemukiman mereka akan bergabung dengan mereka setiap
 ## 1 Tawarikh 9:26
 
 karena empat kepala penjaga gerbang, yang adalah orang Lewi,  
-diberi tanggung jawab atas kamar-kamar dan harta benda di rumah Allah.
+diberi tanggung jawab atas kamar-kamar dan harta benda di rumah Tuhan.
 
 ---
 
 ## 1 Tawarikh 9:27
 
-Mereka bermalam di sekitar rumah Allah,  
+Mereka bermalam di sekitar rumah Tuhan,  
 karena pengawasan dipercayakan kepada mereka;
 
 > dan mereka bertanggung jawab untuk membukanya setiap pagi.

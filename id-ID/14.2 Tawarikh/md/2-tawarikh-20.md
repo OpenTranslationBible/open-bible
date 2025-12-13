@@ -37,7 +37,7 @@ Yosafat kemudian berdiri di tengah jemaat Yehuda dan Yerusalem, di rumah Tuhan d
 ## 2 Tawarikh 20:6
 
 dan berkata,  
-"Tuhan, Allah nenek moyang kami, bukankah Engkau Allah di surga?  
+"Tuhan, Tuhan nenek moyang kami, bukankah Engkau Tuhan di surga?  
 Dan bukankah Engkau memerintah atas semua kerajaan bangsa-bangsa?  
 Kekuatan dan kuasa ada di tangan-Mu, dan tidak ada yang dapat bertahan melawan Engkau.
 
@@ -45,7 +45,7 @@ Kekuatan dan kuasa ada di tangan-Mu, dan tidak ada yang dapat bertahan melawan E
 
 ## 2 Tawarikh 20:7
 
-Bukankah Engkau, ya Allah kami, yang mengusir penduduk negeri ini dari hadapan umat-Mu Israel,  
+Bukankah Engkau, ya Tuhan kami, yang mengusir penduduk negeri ini dari hadapan umat-Mu Israel,  
 dan memberikannya kepada keturunan sahabat-Mu Abraham untuk selama-lamanya?
 
 ---
@@ -79,7 +79,7 @@ lihat bagaimana mereka membalas kami dengan datang untuk mengusir kami dari mili
 
 ## 2 Tawarikh 20:12
 
-Ya Allah kami, tidakkah Engkau akan menghakimi mereka?  
+Ya Tuhan kami, tidakkah Engkau akan menghakimi mereka?  
 Karena kami tidak berdaya di hadapan pasukan besar yang datang melawan kami;  
 dan kami tidak tahu apa yang harus dilakukan, tetapi mata kami tertuju kepada-Mu."
 
@@ -103,7 +103,7 @@ dan ia berkata,
 "Dengarlah, seluruh Yehuda dan penduduk Yerusalem, dan Raja Yosafat:  
 inilah yang dikatakan Tuhan kepadamu:  
 'Jangan takut atau terkejut karena pasukan besar ini,  
-karena pertempuran ini bukan milikmu tetapi milik Allah.
+karena pertempuran ini bukan milikmu tetapi milik Tuhan.
 
 ---
 
@@ -133,7 +133,7 @@ dan seluruh Yehuda dan penduduk Yerusalem sujud di hadapan Tuhan, menyembah Tuha
 ## 2 Tawarikh 20:19
 
 Orang-orang Lewi, dari keturunan Kehat dan Korah,  
-berdiri untuk memuji Tuhan, Allah Israel, dengan suara yang sangat nyaring.
+berdiri untuk memuji Tuhan, Tuhan Israel, dengan suara yang sangat nyaring.
 
 ---
 
@@ -142,7 +142,7 @@ berdiri untuk memuji Tuhan, Allah Israel, dengan suara yang sangat nyaring.
 Mereka bangun pagi-pagi dan pergi ke padang gurun Tekoa;  
 dan ketika mereka pergi, Yosafat berdiri dan berkata,  
 "Dengarkan aku, Yehuda dan penduduk Yerusalem:  
-Percayalah kepada Tuhan, Allahmu dan kamu akan bertahan.  
+Percayalah kepada Tuhan, Tuhanmu dan kamu akan bertahan.  
 Percayalah kepada nabi-nabi-Nya, dan berhasil."
 
 ---
@@ -211,14 +211,14 @@ Mereka memasuki Yerusalem dengan kecapi, gambus, dan trompet, menuju rumah Tuhan
 
 ## 2 Tawarikh 20:29
 
-Dan ketakutan akan Allah melanda semua kerajaan di tanah ketika mereka mendengar bahwa Tuhan telah berperang melawan musuh-musuh Israel.
+Dan ketakutan akan Tuhan melanda semua kerajaan di tanah ketika mereka mendengar bahwa Tuhan telah berperang melawan musuh-musuh Israel.
 
 ---
 
 ## 2 Tawarikh 20:30
 
 Maka kerajaan Yosafat damai,  
-karena Allahnya memberinya ketenangan di segala penjuru.
+karena Tuhannya memberinya ketenangan di segala penjuru.
 
 ---
 
@@ -240,7 +240,7 @@ melakukan apa yang benar di mata Tuhan.
 ## 2 Tawarikh 20:33
 
 Hanya, bukit-bukit pengorbanan tidak dihilangkan;  
-rakyat masih belum mengarahkan hati mereka kepada Allah nenek moyang mereka.
+rakyat masih belum mengarahkan hati mereka kepada Tuhan nenek moyang mereka.
 
 ---
 

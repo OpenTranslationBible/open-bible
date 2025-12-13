@@ -11,7 +11,7 @@ karena kebenaran yang tinggal di dalam kita dan akan tetap bersama kita selamany
 
 ## 2 Yohanes 1:3
 
-Kasih karunia, rahmat, dan damai sejahtera adalah milik kita dari Allah Bapa dan dari Yesus Kristus, Anak Bapa, dalam kebenaran dan kasih.
+Kasih karunia, rahmat, dan damai sejahtera adalah milik kita dari Tuhan Bapa dan dari Yesus Kristus, Anak Bapa, dalam kebenaran dan kasih.
 
 ## 2 Yohanes 1:4
 
@@ -35,7 +35,7 @@ Jagalah dirimu, supaya kamu tidak kehilangan apa yang telah kita capai, tetapi s
 
 ## 2 Yohanes 1:9
 
-Siapa pun yang melampaui dan tidak tinggal dalam ajaran Kristus tidak memiliki Allah; orang yang tinggal dalam ajaran memiliki Bapa dan Anak.
+Siapa pun yang melampaui dan tidak tinggal dalam ajaran Kristus tidak memiliki Tuhan; orang yang tinggal dalam ajaran memiliki Bapa dan Anak.
 
 ## 2 Yohanes 1:10
 

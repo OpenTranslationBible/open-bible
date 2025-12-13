@@ -2,7 +2,7 @@
 
 ## Yeremia 31:1
 
-"Pada waktu itu," demikianlah firman Tuhan, "Aku akan menjadi Allah bagi semua kaum keluarga Israel, dan mereka akan menjadi umat-Ku."
+"Pada waktu itu," demikianlah firman Tuhan, "Aku akan menjadi Tuhan bagi semua kaum keluarga Israel, dan mereka akan menjadi umat-Ku."
 
 ## Yeremia 31:2
 
@@ -22,7 +22,7 @@ Tuhan menampakkan diri kepada kita sejak dahulu kala, dengan mengatakan, "Aku te
 
 ## Yeremia 31:6
 
-"Sebab akan ada hari ketika para penjaga berseru di bukit-bukit Efraim, 'Bangkitlah, marilah kita pergi ke Sion, kepada Tuhan Allah kita.'"
+"Sebab akan ada hari ketika para penjaga berseru di bukit-bukit Efraim, 'Bangkitlah, marilah kita pergi ke Sion, kepada Tuhan Tuhan kita.'"
 
 ## Yeremia 31:7
 
@@ -70,7 +70,7 @@ Beginilah firman Tuhan: "Tahanlah suaramu dari menangis dan matamu dari air mata
 
 ## Yeremia 31:18
 
-"Aku telah mendengar Efraim meratap, 'Engkau menghukum aku seperti anak lembu yang tidak terlatih, dan aku telah diperbaiki. Pulihkanlah aku, dan aku akan kembali, karena Engkaulah Tuhan Allahku.'"
+"Aku telah mendengar Efraim meratap, 'Engkau menghukum aku seperti anak lembu yang tidak terlatih, dan aku telah diperbaiki. Pulihkanlah aku, dan aku akan kembali, karena Engkaulah Tuhan Tuhanku.'"
 
 ## Yeremia 31:19
 
@@ -90,7 +90,7 @@ Beginilah firman Tuhan: "Tahanlah suaramu dari menangis dan matamu dari air mata
 
 ## Yeremia 31:23
 
-Beginilah firman Tuhan semesta alam, Allah Israel: "Ketika Aku memulihkan keadaan mereka, orang-orang di tanah Yehuda dan di kota-kotanya akan sekali lagi menggunakan kata-kata ini: 'Tuhan memberkatimu, hai tempat kebenaran, hai bukit suci!'"
+Beginilah firman Tuhan semesta alam, Tuhan Israel: "Ketika Aku memulihkan keadaan mereka, orang-orang di tanah Yehuda dan di kota-kotanya akan sekali lagi menggunakan kata-kata ini: 'Tuhan memberkatimu, hai tempat kebenaran, hai bukit suci!'"
 
 ## Yeremia 31:24
 
@@ -130,7 +130,7 @@ Pada titik ini, aku terbangun dan melihat sekeliling, dan tidurku terasa menyena
 
 ## Yeremia 31:33
 
-"Sebab inilah perjanjian yang akan Aku buat dengan rumah Israel setelah hari-hari itu," demikianlah firman Tuhan: "Aku akan menaruh hukum-Ku dalam pikiran mereka dan menuliskannya di hati mereka. Aku akan menjadi Allah mereka, dan mereka akan menjadi umat-Ku."
+"Sebab inilah perjanjian yang akan Aku buat dengan rumah Israel setelah hari-hari itu," demikianlah firman Tuhan: "Aku akan menaruh hukum-Ku dalam pikiran mereka dan menuliskannya di hati mereka. Aku akan menjadi Tuhan mereka, dan mereka akan menjadi umat-Ku."
 
 ## Yeremia 31:34
 

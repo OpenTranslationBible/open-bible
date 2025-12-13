@@ -6,7 +6,7 @@ Pada masa itu, ketika jumlah murid semakin bertambah, timbul keluhan dari orang-
 
 ## Kisah Para Rasul 6:2
 
-Maka kedua belas rasul itu memanggil seluruh kelompok murid dan berkata, “Tidaklah tepat bagi kami untuk mengabaikan firman Allah demi melayani meja.
+Maka kedua belas rasul itu memanggil seluruh kelompok murid dan berkata, “Tidaklah tepat bagi kami untuk mengabaikan firman Tuhan demi melayani meja.
 
 ## Kisah Para Rasul 6:3
 
@@ -28,7 +28,7 @@ Orang-orang ini dibawa ke hadapan para rasul, yang berdoa dan meletakkan tangan 
 
 ## Kisah Para Rasul 6:7
 
-Firman Allah terus menyebar, dan jumlah murid di Yerusalem bertambah banyak, dan sejumlah besar imam menjadi taat kepada iman.
+Firman Tuhan terus menyebar, dan jumlah murid di Yerusalem bertambah banyak, dan sejumlah besar imam menjadi taat kepada iman.
 
 ---
 
@@ -46,7 +46,7 @@ Namun mereka tidak dapat menahan hikmat dan Roh yang dengan itu ia berbicara.
 
 ## Kisah Para Rasul 6:11
 
-Kemudian mereka diam-diam membujuk beberapa orang untuk mengklaim, “Kami telah mendengar dia berbicara kata-kata penghujatan terhadap Musa dan terhadap Allah.”
+Kemudian mereka diam-diam membujuk beberapa orang untuk mengklaim, “Kami telah mendengar dia berbicara kata-kata penghujatan terhadap Musa dan terhadap Tuhan.”
 
 ## Kisah Para Rasul 6:12
 

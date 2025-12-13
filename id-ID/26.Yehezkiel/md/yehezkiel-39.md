@@ -86,7 +86,7 @@ Aku akan menampilkan kemuliaan-Ku di antara bangsa-bangsa, dan semua bangsa akan
 
 ## Yehezkiel 39:22
 
-Sejak hari itu dan seterusnya, kaum Israel akan mengenali bahwa Akulah Tuhan, Allah mereka.
+Sejak hari itu dan seterusnya, kaum Israel akan mengenali bahwa Akulah Tuhan, Tuhan mereka.
 
 ## Yehezkiel 39:23
 
@@ -110,7 +110,7 @@ Ketika Aku telah membawa mereka kembali dari bangsa-bangsa dan mengumpulkan mere
 
 ## Yehezkiel 39:28
 
-Kemudian mereka akan menyadari bahwa Akulah Tuhan, Allah mereka, karena meskipun Aku mengirim mereka ke pengasingan di antara bangsa-bangsa, Aku akan mengumpulkan mereka ke tanah mereka sendiri, memastikan tidak ada yang tertinggal.
+Kemudian mereka akan menyadari bahwa Akulah Tuhan, Tuhan mereka, karena meskipun Aku mengirim mereka ke pengasingan di antara bangsa-bangsa, Aku akan mengumpulkan mereka ke tanah mereka sendiri, memastikan tidak ada yang tertinggal.
 
 ## Yehezkiel 39:29
 

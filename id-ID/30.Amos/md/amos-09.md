@@ -32,7 +32,7 @@ Aku melihat Tuhan berdiri di samping mezbah, dan Dia berkata,
 
 ## Amos 9:5
 
-> Dan Tuhan Allah semesta alam,  
+> Dan Tuhan Tuhan semesta alam,  
 > Dia yang menyentuh tanah sehingga itu bergetar,  
 > Dan semua yang tinggal di dalamnya berkabung,  
 > Dan semuanya naik seperti Sungai Nil  
@@ -55,7 +55,7 @@ Aku melihat Tuhan berdiri di samping mezbah, dan Dia berkata,
 
 ## Amos 9:8
 
-> Lihatlah, mata Tuhan Allah tertuju pada kerajaan yang berdosa,  
+> Lihatlah, mata Tuhan Tuhan tertuju pada kerajaan yang berdosa,  
 > Dan Aku akan menghilangkannya dari muka bumi;  
 > Namun demikian, Aku tidak akan sepenuhnya menghancurkan kaum Yakub,"  
 > Firman Tuhan.
@@ -108,4 +108,4 @@ Pada hari itu, Aku akan memulihkan pondok Daud yang jatuh,
 > Dan mereka tidak akan dipindahkan lagi dari tanah  
 > Yang telah Kuberikan kepada mereka,"
 
-Firman Tuhan Allahmu.
+Firman Tuhan Tuhanmu.

@@ -56,7 +56,7 @@ Tetapi ia tidak menghitung suku Lewi dan Benyamin di antara mereka,
 
 ## 1 Tawarikh 21:7
 
-Allah tidak berkenan dengan tindakan ini,
+Tuhan tidak berkenan dengan tindakan ini,
 
 > sehingga Ia mendatangkan malapetaka atas Israel.
 
@@ -64,7 +64,7 @@ Allah tidak berkenan dengan tindakan ini,
 
 ## 1 Tawarikh 21:8
 
-Kemudian Daud berkata kepada Allah,
+Kemudian Daud berkata kepada Tuhan,
 
 > "Aku telah berdosa besar dengan melakukan hal ini.  
 > Tetapi sekarang, mohon ampunilah kesalahan hambamu,  
@@ -129,7 +129,7 @@ Maka TUHAN mengirimkan wabah ke atas Israel,
 
 ## 1 Tawarikh 21:15
 
-Dan Allah mengirimkan malaikat ke Yerusalem untuk menghancurkannya;  
+Dan Tuhan mengirimkan malaikat ke Yerusalem untuk menghancurkannya;  
 tetapi ketika ia hendak menghancurkannya,  
 TUHAN melihat dan menyesal atas malapetaka itu,
 
@@ -150,12 +150,12 @@ Kemudian Daud mengangkat matanya dan melihat malaikat TUHAN berdiri antara bumi 
 
 ## 1 Tawarikh 21:17
 
-Daud berkata kepada Allah,
+Daud berkata kepada Tuhan,
 
 > "Bukankah aku yang memerintahkan untuk menghitung orang-orang itu?  
 > Sesungguhnya, akulah yang telah berdosa dan bertindak sangat jahat,  
 > tetapi domba-domba ini, apa yang telah mereka lakukan?  
-> Ya TUHAN, Allahku, biarlah tangan-Mu melawan aku dan keluarga ayahku,  
+> Ya TUHAN, Tuhanku, biarlah tangan-Mu melawan aku dan keluarga ayahku,  
 > tetapi janganlah melawan umat-Mu, supaya tidak ada wabah di antara mereka."
 
 ---
@@ -267,6 +267,6 @@ Pada waktu itu, kemah TUHAN, yang dibangun oleh Musa di padang gurun, bersama de
 
 ## 1 Tawarikh 21:30
 
-Tetapi Daud tidak dapat pergi ke sana untuk meminta petunjuk dari Allah,
+Tetapi Daud tidak dapat pergi ke sana untuk meminta petunjuk dari Tuhan,
 
 > karena ia takut akan pedang malaikat TUHAN.

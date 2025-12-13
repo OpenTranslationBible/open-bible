@@ -10,15 +10,15 @@ dan berkata kepada mereka, "Kamu telah mematuhi semua yang diperintahkan Musa, h
 
 ## Yosua 22:3
 
-Sudah lama sekarang, kamu tidak meninggalkan saudara-saudaramu, tetapi telah memenuhi tugas yang diperintahkan oleh Tuhan Allahmu.
+Sudah lama sekarang, kamu tidak meninggalkan saudara-saudaramu, tetapi telah memenuhi tugas yang diperintahkan oleh Tuhan Tuhanmu.
 
 ## Yosua 22:4
 
-Sekarang, setelah Tuhan Allahmu memberikan istirahat kepada saudara-saudaramu, seperti yang dijanjikan-Nya, kembalilah ke kemahmu di tanah yang diberikan Musa, hamba Tuhan, kepadamu di seberang Yordan.
+Sekarang, setelah Tuhan Tuhanmu memberikan istirahat kepada saudara-saudaramu, seperti yang dijanjikan-Nya, kembalilah ke kemahmu di tanah yang diberikan Musa, hamba Tuhan, kepadamu di seberang Yordan.
 
 ## Yosua 22:5
 
-Berhati-hatilah untuk mematuhi perintah dan hukum yang diberikan Musa, hamba Tuhan, kepadamu: untuk mengasihi Tuhan Allahmu, berjalan dalam segala jalan-Nya, mematuhi perintah-perintah-Nya, berpegang teguh kepada-Nya, dan melayani Dia dengan segenap hatimu dan dengan segenap jiwamu."
+Berhati-hatilah untuk mematuhi perintah dan hukum yang diberikan Musa, hamba Tuhan, kepadamu: untuk mengasihi Tuhan Tuhanmu, berjalan dalam segala jalan-Nya, mematuhi perintah-perintah-Nya, berpegang teguh kepada-Nya, dan melayani Dia dengan segenap hatimu dan dengan segenap jiwamu."
 
 ## Yosua 22:6
 
@@ -64,7 +64,7 @@ Ketika mereka tiba di Gilead, mereka berbicara kepada orang-orang Ruben, Gad, da
 
 ## Yosua 22:16
 
-"Inilah yang dikatakan seluruh jemaat Tuhan: 'Apa tindakan ketidaksetiaan ini yang kamu lakukan terhadap Allah Israel dengan berpaling dari Tuhan dan membangun mezbah untuk dirimu sendiri, dalam pemberontakan melawan Dia?
+"Inilah yang dikatakan seluruh jemaat Tuhan: 'Apa tindakan ketidaksetiaan ini yang kamu lakukan terhadap Tuhan Israel dengan berpaling dari Tuhan dan membangun mezbah untuk dirimu sendiri, dalam pemberontakan melawan Dia?
 
 ## Yosua 22:17
 
@@ -76,7 +76,7 @@ Dan sekarang kamu berpaling dari Tuhan. Jika kamu memberontak melawan Tuhan hari
 
 ## Yosua 22:19
 
-Jika tanah milikmu tercemar, seberangilah ke tanah milik Tuhan, di mana tabernakel Tuhan berdiri, dan bagilah tanah itu dengan kami. Tetapi jangan memberontak melawan Tuhan atau melawan kami dengan membangun mezbah untuk dirimu sendiri selain mezbah Tuhan Allah kita.
+Jika tanah milikmu tercemar, seberangilah ke tanah milik Tuhan, di mana tabernakel Tuhan berdiri, dan bagilah tanah itu dengan kami. Tetapi jangan memberontak melawan Tuhan atau melawan kami dengan membangun mezbah untuk dirimu sendiri selain mezbah Tuhan Tuhan kita.
 
 ## Yosua 22:20
 
@@ -90,7 +90,7 @@ Kemudian orang-orang Ruben, Gad, dan setengah suku Manasye menjawab kepala-kepal
 
 ## Yosua 22:22
 
-"Yang Mahakuasa, Allah, Tuhan! Dia tahu, dan biarlah Israel tahu. Jika ini dilakukan dalam pemberontakan atau ketidaktaatan kepada Tuhan, janganlah engkau menyayangkan kami hari ini.
+"Yang Mahakuasa, Tuhan, Tuhan! Dia tahu, dan biarlah Israel tahu. Jika ini dilakukan dalam pemberontakan atau ketidaktaatan kepada Tuhan, janganlah engkau menyayangkan kami hari ini.
 
 ## Yosua 22:23
 
@@ -98,7 +98,7 @@ Jika kami telah membangun mezbah kami sendiri untuk berpaling dari Tuhan, atau u
 
 ## Yosua 22:24
 
-Tidak! Kami melakukannya karena khawatir bahwa di masa depan keturunanmu mungkin berkata kepada keturunan kami, 'Apa urusanmu dengan Tuhan, Allah Israel?
+Tidak! Kami melakukannya karena khawatir bahwa di masa depan keturunanmu mungkin berkata kepada keturunan kami, 'Apa urusanmu dengan Tuhan, Tuhan Israel?
 
 ## Yosua 22:25
 
@@ -118,7 +118,7 @@ Dan kami berkata, 'Jika mereka pernah mengatakan ini kepada kami atau kepada ket
 
 ## Yosua 22:29
 
-Jauhkanlah kami dari memberontak terhadap Tuhan dan berpaling dari-Nya hari ini dengan membangun mezbah untuk korban bakaran, persembahan gandum, atau korban persembahan, selain mezbah Tuhan Allah kita yang berdiri di hadapan tabernakel-Nya."
+Jauhkanlah kami dari memberontak terhadap Tuhan dan berpaling dari-Nya hari ini dengan membangun mezbah untuk korban bakaran, persembahan gandum, atau korban persembahan, selain mezbah Tuhan Tuhan kita yang berdiri di hadapan tabernakel-Nya."
 
 ## Yosua 22:30
 
@@ -140,4 +140,4 @@ Orang Israel senang mendengar laporan itu dan memuji Tuhan. Mereka tidak lagi be
 
 ## Yosua 22:34
 
-Dan orang-orang Ruben dan Gad menamai mezbah itu Saksi; "Karena," kata mereka, "itu adalah saksi antara kami bahwa Tuhan adalah Allah."
+Dan orang-orang Ruben dan Gad menamai mezbah itu Saksi; "Karena," kata mereka, "itu adalah saksi antara kami bahwa Tuhan adalah Tuhan."

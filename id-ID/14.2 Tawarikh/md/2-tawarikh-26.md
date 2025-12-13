@@ -26,7 +26,7 @@ Ia melakukan apa yang benar di mata Tuhan, mengikuti semua yang telah dilakukan 
 
 ## 2 Tawarikh 26:5
 
-Ia terus mencari Allah selama masa hidup Zakharia, yang memiliki wawasan melalui penglihatan dari Allah; dan selama ia mencari Tuhan, Allah memberinya keberhasilan.
+Ia terus mencari Tuhan selama masa hidup Zakharia, yang memiliki wawasan melalui penglihatan dari Tuhan; dan selama ia mencari Tuhan, Tuhan memberinya keberhasilan.
 
 ---
 
@@ -38,7 +38,7 @@ Ia pergi dan berperang melawan orang Filistin dan merobohkan tembok Gat, tembok 
 
 ## 2 Tawarikh 26:7
 
-Allah mendukungnya melawan orang Filistin, dan melawan orang Arab yang tinggal di Gurbaal, dan orang Meunim.
+Tuhan mendukungnya melawan orang Filistin, dan melawan orang Arab yang tinggal di Gurbaal, dan orang Meunim.
 
 ---
 
@@ -93,7 +93,7 @@ Dan ketenarannya menyebar jauh, karena ia sangat dibantu sampai ia menjadi kuat.
 
 ## 2 Tawarikh 26:16
 
-Tetapi ketika ia menjadi kuat, hatinya menjadi sombong, yang menyebabkan kejatuhannya, dan ia tidak setia kepada Tuhan Allahnya, karena ia masuk ke dalam bait Tuhan untuk membakar dupa di atas mezbah dupa.
+Tetapi ketika ia menjadi kuat, hatinya menjadi sombong, yang menyebabkan kejatuhannya, dan ia tidak setia kepada Tuhan Tuhannya, karena ia masuk ke dalam bait Tuhan untuk membakar dupa di atas mezbah dupa.
 
 ---
 
@@ -105,7 +105,7 @@ Kemudian Azarya, imam, mengikutinya masuk, dan bersamanya ada delapan puluh imam
 
 ## 2 Tawarikh 26:18
 
-Mereka menghadapi Raja Uzia dan berkata kepadanya, “Bukan untukmu, Uzia, untuk membakar dupa kepada Tuhan, tetapi untuk para imam, anak-anak Harun yang telah dikuduskan untuk membakar dupa. Tinggalkan tempat kudus ini, karena engkau telah tidak setia dan tidak akan mendapat kehormatan dari Tuhan Allah.”
+Mereka menghadapi Raja Uzia dan berkata kepadanya, “Bukan untukmu, Uzia, untuk membakar dupa kepada Tuhan, tetapi untuk para imam, anak-anak Harun yang telah dikuduskan untuk membakar dupa. Tinggalkan tempat kudus ini, karena engkau telah tidak setia dan tidak akan mendapat kehormatan dari Tuhan Tuhan.”
 
 ---
 

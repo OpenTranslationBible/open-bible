@@ -44,7 +44,7 @@ Frigia dan Pamfilia, Mesir dan bagian Libya dekat Kirene; pendatang dari Roma, b
 
 ## Kisah Para Rasul 2:11
 
-Orang Kreta dan Arab—kami mendengar mereka menyatakan perbuatan-perbuatan besar Allah dalam bahasa kami sendiri!”
+Orang Kreta dan Arab—kami mendengar mereka menyatakan perbuatan-perbuatan besar Tuhan dalam bahasa kami sendiri!”
 
 ## Kisah Para Rasul 2:12
 
@@ -70,7 +70,7 @@ Sebaliknya, inilah yang telah dinubuatkan melalui nabi Yoel:
 
 ## Kisah Para Rasul 2:17
 
-> ‘Pada hari-hari terakhir,’ kata Allah,
+> ‘Pada hari-hari terakhir,’ kata Tuhan,
 > ‘Aku akan mencurahkan Roh-Ku ke atas semua orang;
 > anak-anakmu laki-laki dan perempuan akan bernubuat,
 > pemuda-pemudamu akan melihat penglihatan,
@@ -103,15 +103,15 @@ Sebaliknya, inilah yang telah dinubuatkan melalui nabi Yoel:
 
 ## Kisah Para Rasul 2:22
 
-“Hai orang-orang Israel, dengarkan ini: Yesus dari Nazaret adalah seorang yang diakui oleh Allah kepadamu melalui mukjizat, keajaiban, dan tanda-tanda, yang dilakukan Allah di antara kamu melalui dia, seperti yang kamu sendiri tahu.
+“Hai orang-orang Israel, dengarkan ini: Yesus dari Nazaret adalah seorang yang diakui oleh Tuhan kepadamu melalui mukjizat, keajaiban, dan tanda-tanda, yang dilakukan Tuhan di antara kamu melalui dia, seperti yang kamu sendiri tahu.
 
 ## Kisah Para Rasul 2:23
 
-Orang ini diserahkan kepadamu oleh rencana dan pengetahuan sebelumnya dari Allah; dan kamu, dengan bantuan orang-orang yang tidak mengenal hukum, menyalibkan dia dan membunuhnya.
+Orang ini diserahkan kepadamu oleh rencana dan pengetahuan sebelumnya dari Tuhan; dan kamu, dengan bantuan orang-orang yang tidak mengenal hukum, menyalibkan dia dan membunuhnya.
 
 ## Kisah Para Rasul 2:24
 
-Namun Allah membangkitkan dia dari kematian, membebaskannya dari penderitaan maut, karena tidak mungkin maut dapat menahan dia.
+Namun Tuhan membangkitkan dia dari kematian, membebaskannya dari penderitaan maut, karena tidak mungkin maut dapat menahan dia.
 
 ## Kisah Para Rasul 2:25
 
@@ -143,7 +143,7 @@ Daud berbicara tentang dia:
 
 ## Kisah Para Rasul 2:30
 
-Tetapi dia adalah seorang nabi dan tahu bahwa Allah telah bersumpah kepadanya dengan sumpah untuk menempatkan salah satu keturunannya di takhtanya.
+Tetapi dia adalah seorang nabi dan tahu bahwa Tuhan telah bersumpah kepadanya dengan sumpah untuk menempatkan salah satu keturunannya di takhtanya.
 
 ## Kisah Para Rasul 2:31
 
@@ -151,11 +151,11 @@ Melihat ke depan, dia berbicara tentang kebangkitan Mesias, bahwa dia tidak diti
 
 ## Kisah Para Rasul 2:32
 
-Allah telah membangkitkan Yesus ini, dan kami semua adalah saksi dari fakta ini.
+Tuhan telah membangkitkan Yesus ini, dan kami semua adalah saksi dari fakta ini.
 
 ## Kisah Para Rasul 2:33
 
-Ditinggikan ke sebelah kanan Allah, dia telah menerima dari Bapa Roh Kudus yang dijanjikan dan telah mencurahkan apa yang sekarang kamu lihat dan dengar.
+Ditinggikan ke sebelah kanan Tuhan, dia telah menerima dari Bapa Roh Kudus yang dijanjikan dan telah mencurahkan apa yang sekarang kamu lihat dan dengar.
 
 ## Kisah Para Rasul 2:34
 
@@ -171,7 +171,7 @@ Karena Daud tidak naik ke surga, namun dia berkata,
 
 ## Kisah Para Rasul 2:36
 
-“Oleh karena itu, biarlah seluruh kaum Israel yakin akan hal ini: Allah telah menjadikan Yesus ini, yang kamu salibkan, baik Tuhan maupun Mesias.”
+“Oleh karena itu, biarlah seluruh kaum Israel yakin akan hal ini: Tuhan telah menjadikan Yesus ini, yang kamu salibkan, baik Tuhan maupun Mesias.”
 
 ---
 
@@ -185,7 +185,7 @@ Petrus menjawab, “Bertobatlah dan dibaptis, masing-masing dari kamu, dalam nam
 
 ## Kisah Para Rasul 2:39
 
-Janji ini adalah untuk kamu dan anak-anakmu dan untuk semua yang jauh—untuk semua yang akan dipanggil oleh Tuhan Allah kita.”
+Janji ini adalah untuk kamu dan anak-anakmu dan untuk semua yang jauh—untuk semua yang akan dipanggil oleh Tuhan Tuhan kita.”
 
 ## Kisah Para Rasul 2:40
 
@@ -215,8 +215,8 @@ Mereka menjual harta benda dan milik mereka untuk menyediakan bagi siapa saja ya
 
 ## Kisah Para Rasul 2:46
 
-Setiap hari mereka terus berkumpul di pelataran Bait Allah. Mereka berbagi makanan di rumah mereka dan makan bersama dengan hati yang gembira dan tulus,
+Setiap hari mereka terus berkumpul di pelataran Bait Tuhan. Mereka berbagi makanan di rumah mereka dan makan bersama dengan hati yang gembira dan tulus,
 
 ## Kisah Para Rasul 2:47
 
-memuji Allah dan menikmati kebaikan dari semua orang. Dan Tuhan menambahkan kepada jumlah mereka setiap hari mereka yang diselamatkan.
+memuji Tuhan dan menikmati kebaikan dari semua orang. Dan Tuhan menambahkan kepada jumlah mereka setiap hari mereka yang diselamatkan.

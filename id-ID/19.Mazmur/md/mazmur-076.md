@@ -4,7 +4,7 @@
 
 ## Mazmur 76:1
 
-> Allah dihormati di Yehuda;  
+> Tuhan dihormati di Yehuda;  
 > Nama-Nya terkenal di Israel.
 
 ## Mazmur 76:2
@@ -34,7 +34,7 @@
 
 ## Mazmur 76:6
 
-> Dengan hardikan-Mu, ya Allah Yakub,  
+> Dengan hardikan-Mu, ya Tuhan Yakub,  
 > Baik penunggang maupun kuda terbenam dalam tidur yang nyenyak.
 
 ---
@@ -51,7 +51,7 @@
 
 ## Mazmur 76:9
 
-> Ketika Allah bangkit untuk menghakimi,  
+> Ketika Tuhan bangkit untuk menghakimi,  
 > Untuk menyelamatkan semua orang yang rendah hati di bumi.
 
 > Sela
@@ -65,7 +65,7 @@
 
 ## Mazmur 76:11
 
-> Bernazarlah kepada Tuhan, Allahmu, dan penuhilah itu;  
+> Bernazarlah kepada Tuhan, Tuhanmu, dan penuhilah itu;  
 > Semua yang dekat dengan-Nya harus mempersembahkan hadiah kepada Dia yang patut ditakuti.
 
 ## Mazmur 76:12

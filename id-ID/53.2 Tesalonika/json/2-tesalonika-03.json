@@ -1,114 +1,104 @@
 {
-    "book": "2 Tesalonika",
-    "chapter": 3,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Akhirnya, saudara-saudara, berdoalah untuk kami agar firman Tuhan dapat menyebar dengan cepat dan dihormati, sama seperti yang terjadi di antara kamu;"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "dan agar kami diselamatkan dari orang-orang yang jahat dan tidak bermoral; karena tidak semua orang memiliki iman."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Namun Tuhan setia, dan Dia akan menguatkan dan melindungi kamu dari yang jahat."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Kami percaya kepada Tuhan mengenai kamu, bahwa kamu melakukan dan akan terus melakukan apa yang kami perintahkan."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Semoga Tuhan membimbing hatimu menuju kasih Allah dan ketabahan Kristus."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Sekarang kami memerintahkan kamu, saudara-saudara, dalam nama Tuhan kita Yesus Kristus, untuk menjauh dari setiap orang percaya yang menjalani hidup yang tidak tertib dan tidak sesuai dengan tradisi yang kamu terima dari kami."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Karena kamu sendiri tahu bagaimana seharusnya mengikuti teladan kami, karena kami tidak berperilaku tidak tertib di antara kamu,"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "dan kami tidak makan roti siapa pun tanpa membayar, tetapi dengan kerja keras dan kesulitan kami bekerja siang dan malam agar kami tidak menjadi beban bagi siapa pun di antara kamu;"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "bukan karena kami kekurangan hak untuk dukungan semacam itu, tetapi untuk memberikan diri kami sebagai teladan bagi kamu untuk ditiru."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Karena bahkan ketika kami bersama kamu, kami memberikan perintah ini: jika ada yang tidak mau bekerja, mereka tidak boleh makan."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Karena kami mendengar bahwa beberapa di antara kamu hidup dengan cara yang tidak tertib, tidak bekerja sama sekali, tetapi sibuk mengurus urusan orang lain."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Sekarang kami memerintahkan dan mendesak orang-orang semacam itu dalam Tuhan Yesus Kristus untuk bekerja dengan tenang dan makan roti mereka sendiri."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Tetapi untuk kamu, saudara-saudara, janganlah menjadi lelah dalam berbuat baik."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Jika ada yang tidak mematuhi instruksi kami dalam surat ini, perhatikanlah orang itu dan jangan bergaul dengannya, agar dia merasa malu."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Namun jangan anggap mereka sebagai musuh, tetapi tegurlah mereka sebagai saudara."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Sekarang semoga Tuhan damai sejahtera sendiri terus-menerus memberikan damai sejahtera kepada kamu dalam setiap situasi. Tuhan menyertai kamu semua!"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Aku, Paulus, menulis salam ini dengan tanganku sendiri, dan ini adalah tanda yang membedakan dalam setiap surat; beginilah caraku menulis."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Semoga kasih karunia Tuhan kita Yesus Kristus menyertai kamu semua. Amin."
-            ]
-        }
-    ]
+  "book": "2 Tesalonika",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Akhirnya, saudara-saudara, berdoalah untuk kami agar firman Tuhan dapat menyebar dengan cepat dan dihormati, sama seperti yang terjadi di antara kamu;"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "dan agar kami diselamatkan dari orang-orang yang jahat dan tidak bermoral; karena tidak semua orang memiliki iman."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": ["Namun Tuhan setia, dan Dia akan menguatkan dan melindungi kamu dari yang jahat."]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Kami percaya kepada Tuhan mengenai kamu, bahwa kamu melakukan dan akan terus melakukan apa yang kami perintahkan."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["Semoga Tuhan membimbing hatimu menuju kasih Tuhan dan ketabahan Kristus."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Sekarang kami memerintahkan kamu, saudara-saudara, dalam nama Tuhan kita Yesus Kristus, untuk menjauh dari setiap orang percaya yang menjalani hidup yang tidak tertib dan tidak sesuai dengan tradisi yang kamu terima dari kami."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Karena kamu sendiri tahu bagaimana seharusnya mengikuti teladan kami, karena kami tidak berperilaku tidak tertib di antara kamu,"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "dan kami tidak makan roti siapa pun tanpa membayar, tetapi dengan kerja keras dan kesulitan kami bekerja siang dan malam agar kami tidak menjadi beban bagi siapa pun di antara kamu;"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "bukan karena kami kekurangan hak untuk dukungan semacam itu, tetapi untuk memberikan diri kami sebagai teladan bagi kamu untuk ditiru."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Karena bahkan ketika kami bersama kamu, kami memberikan perintah ini: jika ada yang tidak mau bekerja, mereka tidak boleh makan."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Karena kami mendengar bahwa beberapa di antara kamu hidup dengan cara yang tidak tertib, tidak bekerja sama sekali, tetapi sibuk mengurus urusan orang lain."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Sekarang kami memerintahkan dan mendesak orang-orang semacam itu dalam Tuhan Yesus Kristus untuk bekerja dengan tenang dan makan roti mereka sendiri."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["Tetapi untuk kamu, saudara-saudara, janganlah menjadi lelah dalam berbuat baik."]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Jika ada yang tidak mematuhi instruksi kami dalam surat ini, perhatikanlah orang itu dan jangan bergaul dengannya, agar dia merasa malu."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["Namun jangan anggap mereka sebagai musuh, tetapi tegurlah mereka sebagai saudara."]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Sekarang semoga Tuhan damai sejahtera sendiri terus-menerus memberikan damai sejahtera kepada kamu dalam setiap situasi. Tuhan menyertai kamu semua!"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Aku, Paulus, menulis salam ini dengan tanganku sendiri, dan ini adalah tanda yang membedakan dalam setiap surat; beginilah caraku menulis."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": ["Semoga kasih karunia Tuhan kita Yesus Kristus menyertai kamu semua. Amin."]
+    }
+  ]
 }

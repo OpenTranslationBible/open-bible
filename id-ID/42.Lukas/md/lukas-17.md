@@ -64,7 +64,7 @@ Ketika Dia melihat mereka, Dia memerintahkan, “Pergilah, tunjukkan dirimu kepa
 
 ## Lukas 17:15
 
-Salah satu dari mereka, setelah menyadari bahwa dia telah disembuhkan, kembali, memuliakan Allah dengan suara keras.
+Salah satu dari mereka, setelah menyadari bahwa dia telah disembuhkan, kembali, memuliakan Tuhan dengan suara keras.
 
 ## Lukas 17:16
 
@@ -76,7 +76,7 @@ Yesus bertanya, “Bukankah kesepuluh orang telah disembuhkan? Di mana yang semb
 
 ## Lukas 17:18
 
-Tidak adakah yang kembali untuk menghormati Allah selain orang asing ini?”
+Tidak adakah yang kembali untuk menghormati Tuhan selain orang asing ini?”
 
 ## Lukas 17:19
 
@@ -86,11 +86,11 @@ Kemudian Dia berkata kepadanya, “Bangunlah dan lanjutkan perjalananmu; imanmu 
 
 ## Lukas 17:20
 
-Suatu ketika, ketika ditanya oleh orang-orang Farisi kapan kerajaan Allah akan datang, Yesus menjawab, “Kedatangan kerajaan Allah bukanlah sesuatu yang dapat diamati,
+Suatu ketika, ketika ditanya oleh orang-orang Farisi kapan kerajaan Tuhan akan datang, Yesus menjawab, “Kedatangan kerajaan Tuhan bukanlah sesuatu yang dapat diamati,
 
 ## Lukas 17:21
 
-dan orang tidak akan berkata, ‘Lihat, di sini,’ atau ‘Lihat, di sana,’ karena kerajaan Allah ada di antara kamu.”
+dan orang tidak akan berkata, ‘Lihat, di sini,’ atau ‘Lihat, di sana,’ karena kerajaan Tuhan ada di antara kamu.”
 
 ---
 

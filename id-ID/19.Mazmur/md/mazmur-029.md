@@ -17,7 +17,7 @@
 ## Mazmur 29:3
 
 > Suara Tuhan bergema di atas air;  
-> Allah yang mulia mengguntur,  
+> Tuhan yang mulia mengguntur,  
 > Tuhan berkuasa atas air yang besar.
 
 ## Mazmur 29:4

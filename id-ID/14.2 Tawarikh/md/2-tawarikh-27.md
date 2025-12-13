@@ -38,7 +38,7 @@ Bani Amon juga membayar kepadanya jumlah ini pada tahun kedua dan ketiga.
 
 ## 2 Tawarikh 27:6
 
-Jadi Yotam menjadi kuat karena ia mengatur jalannya di hadapan Tuhan, Allahnya.
+Jadi Yotam menjadi kuat karena ia mengatur jalannya di hadapan Tuhan, Tuhannya.
 
 ---
 

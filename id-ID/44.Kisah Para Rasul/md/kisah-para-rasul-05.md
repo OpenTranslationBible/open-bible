@@ -14,7 +14,7 @@ Kemudian Petrus berkata, “Ananias, mengapa Setan memenuhi hatimu untuk berboho
 
 ## Kisah Para Rasul 5:4
 
-Bukankah itu milikmu sebelum dijual? Dan setelah dijual, bukankah itu ada dalam kuasamu? Mengapa engkau merencanakan perbuatan ini dalam hatimu? Engkau tidak berbohong kepada manusia, tetapi kepada Allah.”
+Bukankah itu milikmu sebelum dijual? Dan setelah dijual, bukankah itu ada dalam kuasamu? Mengapa engkau merencanakan perbuatan ini dalam hatimu? Engkau tidak berbohong kepada manusia, tetapi kepada Tuhan.”
 
 ## Kisah Para Rasul 5:5
 
@@ -84,11 +84,11 @@ Tetapi pada malam hari, seorang malaikat Tuhan membuka pintu penjara dan membawa
 
 ## Kisah Para Rasul 5:20
 
-“Pergilah, berdirilah di pelataran Bait Allah,” katanya, “dan bagikan kepada orang-orang tentang kehidupan baru ini.”
+“Pergilah, berdirilah di pelataran Bait Tuhan,” katanya, “dan bagikan kepada orang-orang tentang kehidupan baru ini.”
 
 ## Kisah Para Rasul 5:21
 
-Pada waktu fajar, mereka masuk ke pelataran Bait Allah dan mulai mengajar. Ketika imam besar dan pengikutnya tiba, mereka memanggil bersama Sanhedrin—seluruh majelis tua-tua Israel—dan mengirim ke penjara untuk para rasul.
+Pada waktu fajar, mereka masuk ke pelataran Bait Tuhan dan mulai mengajar. Ketika imam besar dan pengikutnya tiba, mereka memanggil bersama Sanhedrin—seluruh majelis tua-tua Israel—dan mengirim ke penjara untuk para rasul.
 
 ## Kisah Para Rasul 5:22
 
@@ -100,11 +100,11 @@ Tetapi ketika petugas tiba, mereka tidak menemukan mereka di penjara, jadi merek
 
 ## Kisah Para Rasul 5:24
 
-Ketika kepala pengawal Bait Allah dan imam-imam kepala mendengar ini, mereka bingung, bertanya-tanya apa yang mungkin terjadi.
+Ketika kepala pengawal Bait Tuhan dan imam-imam kepala mendengar ini, mereka bingung, bertanya-tanya apa yang mungkin terjadi.
 
 ## Kisah Para Rasul 5:25
 
-Kemudian seseorang datang dan berkata, “Lihat! Orang-orang yang kalian masukkan ke dalam penjara sedang berdiri di pelataran Bait Allah, mengajar orang-orang.”
+Kemudian seseorang datang dan berkata, “Lihat! Orang-orang yang kalian masukkan ke dalam penjara sedang berdiri di pelataran Bait Tuhan, mengajar orang-orang.”
 
 ---
 
@@ -122,19 +122,19 @@ Para rasul dibawa masuk dan dihadapkan di hadapan Sanhedrin untuk diinterogasi o
 
 ## Kisah Para Rasul 5:29
 
-Petrus dan para rasul lainnya menjawab, “Kami harus mengikuti Allah daripada manusia!
+Petrus dan para rasul lainnya menjawab, “Kami harus mengikuti Tuhan daripada manusia!
 
 ## Kisah Para Rasul 5:30
 
-Allah nenek moyang kita membangkitkan Yesus dari kematian, yang kalian bunuh dengan menggantungnya di kayu salib.
+Tuhan nenek moyang kita membangkitkan Yesus dari kematian, yang kalian bunuh dengan menggantungnya di kayu salib.
 
 ## Kisah Para Rasul 5:31
 
-Allah meninggikan Dia ke tangan kanan-Nya sendiri sebagai Pemimpin dan Juruselamat, untuk memberikan pertobatan kepada Israel dan pengampunan dosa.
+Tuhan meninggikan Dia ke tangan kanan-Nya sendiri sebagai Pemimpin dan Juruselamat, untuk memberikan pertobatan kepada Israel dan pengampunan dosa.
 
 ## Kisah Para Rasul 5:32
 
-Kami bersaksi tentang hal-hal ini, demikian juga Roh Kudus, yang Allah berikan kepada mereka yang menaati-Nya.”
+Kami bersaksi tentang hal-hal ini, demikian juga Roh Kudus, yang Tuhan berikan kepada mereka yang menaati-Nya.”
 
 ---
 
@@ -164,7 +164,7 @@ Oleh karena itu, dalam situasi saat ini, saya menyarankan kalian: Biarkan orang-
 
 ## Kisah Para Rasul 5:39
 
-Tetapi jika itu dari Allah, kalian tidak akan dapat menghentikan mereka; kalian bahkan mungkin mendapati diri kalian melawan Allah.”
+Tetapi jika itu dari Tuhan, kalian tidak akan dapat menghentikan mereka; kalian bahkan mungkin mendapati diri kalian melawan Tuhan.”
 
 ---
 
@@ -178,4 +178,4 @@ Para rasul meninggalkan Sanhedrin, bersukacita karena mereka dianggap layak untu
 
 ## Kisah Para Rasul 5:42
 
-Hari demi hari, di pelataran Bait Allah dan dari rumah ke rumah, mereka terus mengajar dan memberitakan kabar baik bahwa Yesus adalah Mesias.
+Hari demi hari, di pelataran Bait Tuhan dan dari rumah ke rumah, mereka terus mengajar dan memberitakan kabar baik bahwa Yesus adalah Mesias.

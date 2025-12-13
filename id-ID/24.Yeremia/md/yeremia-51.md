@@ -60,7 +60,7 @@ Dan dengan begitu banyak orang sehingga suara mereka akan membuatmu kagum.
 
 ## Yeremia 51:12
 
-Kamu akan makan, merasa puas, dan memuji Tuhan Allahmu,  
+Kamu akan makan, merasa puas, dan memuji Tuhan Tuhanmu,  
 Karena Dia telah memberikan keinginan hatimu.”  
 Dia memperluas wilayahmu,  
 Dan memberimu kebebasan untuk kemuliaan namamu.
@@ -237,7 +237,7 @@ Firman Tuhan.
 ## Yeremia 51:39
 
 “‘Lihatlah, Aku melawanmu, hai orang yang sombong,’  
-Firman Tuhan Allah semesta alam,  
+Firman Tuhan Tuhan semesta alam,  
 “Karena harimu telah datang, waktu ketika Aku akan menghukummu.
 
 ## Yeremia 51:40
@@ -304,7 +304,7 @@ Seperti orang yang menerobos masuk ke kota.
 
 Tetapi mereka akan ditangkap, panah mereka tidak akan berbalik,  
 Dan tali busur akan dipatahkan,  
-Karena Tuhan adalah Allah pembalasan;  
+Karena Tuhan adalah Tuhan pembalasan;  
 Dia akan membalas dengan penuh.
 
 ## Yeremia 51:51

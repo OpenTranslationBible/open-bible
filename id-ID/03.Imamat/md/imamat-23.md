@@ -166,7 +166,7 @@ Rayakanlah itu sebagai perayaan bagi Tuhan selama tujuh hari setiap tahun. Ini h
 
 ## Imamat 23:42
 
-Tinggallah dalam pondok-pondok sementara selama tujuh hari; semua orang Israel yang lahir di negeri harus tinggal dalam pondok-pondok seperti itu,
+TinggTuhan dalam pondok-pondok sementara selama tujuh hari; semua orang Israel yang lahir di negeri harus tinggal dalam pondok-pondok seperti itu,
 
 ## Imamat 23:43
 

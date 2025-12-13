@@ -18,7 +18,7 @@ Dan semua minum minuman rohani yang sama, karena mereka minum dari batu karang r
 
 ## 1 Korintus 10:5
 
-Namun, dengan kebanyakan dari mereka, Allah tidak berkenan; tubuh mereka berserakan di padang gurun.
+Namun, dengan kebanyakan dari mereka, Tuhan tidak berkenan; tubuh mereka berserakan di padang gurun.
 
 ## 1 Korintus 10:6
 
@@ -50,7 +50,7 @@ Karena itu, siapa yang mengira dirinya berdiri teguh, hendaklah ia waspada supay
 
 ## 1 Korintus 10:13
 
-Tidak ada pencobaan yang menimpa kamu selain yang biasa dialami manusia; dan Allah setia, yang tidak akan membiarkan kamu dicobai melampaui kemampuanmu, tetapi dengan pencobaan itu Ia juga akan menyediakan jalan keluar, sehingga kamu dapat menanggungnya.
+Tidak ada pencobaan yang menimpa kamu selain yang biasa dialami manusia; dan Tuhan setia, yang tidak akan membiarkan kamu dicobai melampaui kemampuanmu, tetapi dengan pencobaan itu Ia juga akan menyediakan jalan keluar, sehingga kamu dapat menanggungnya.
 
 ## 1 Korintus 10:14
 
@@ -78,7 +78,7 @@ Apa yang kumaksudkan kemudian? Bahwa makanan yang dipersembahkan kepada berhala 
 
 ## 1 Korintus 10:20
 
-Tidak, tetapi aku mengatakan bahwa apa yang dipersembahkan oleh orang-orang bukan Yahudi, mereka persembahkan kepada roh-roh jahat dan bukan kepada Allah; dan aku tidak mau kamu menjadi peserta dengan roh-roh jahat.
+Tidak, tetapi aku mengatakan bahwa apa yang dipersembahkan oleh orang-orang bukan Yahudi, mereka persembahkan kepada roh-roh jahat dan bukan kepada Tuhan; dan aku tidak mau kamu menjadi peserta dengan roh-roh jahat.
 
 ## 1 Korintus 10:21
 
@@ -122,11 +122,11 @@ Jika aku mengambil bagian dengan rasa syukur, mengapa aku dikritik untuk sesuatu
 
 ## 1 Korintus 10:31
 
-Karena itu, apa pun yang kamu lakukan, baik makan atau minum, lakukanlah semuanya untuk kemuliaan Allah.
+Karena itu, apa pun yang kamu lakukan, baik makan atau minum, lakukanlah semuanya untuk kemuliaan Tuhan.
 
 ## 1 Korintus 10:32
 
-Janganlah menjadi batu sandungan bagi orang Yahudi atau Yunani, atau bagi jemaat Allah;
+Janganlah menjadi batu sandungan bagi orang Yahudi atau Yunani, atau bagi jemaat Tuhan;
 
 ## 1 Korintus 10:33
 

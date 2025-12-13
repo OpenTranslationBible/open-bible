@@ -10,7 +10,7 @@ Setelah berpuasa selama empat puluh hari dan empat puluh malam, Dia menjadi lapa
 
 ## Matius 4:3
 
-Si pencoba mendekati-Nya dan berkata, “Jika Engkau adalah Anak Allah, perintahkanlah batu-batu ini menjadi roti.”
+Si pencoba mendekati-Nya dan berkata, “Jika Engkau adalah Anak Tuhan, perintahkanlah batu-batu ini menjadi roti.”
 
 ## Matius 4:4
 
@@ -22,11 +22,11 @@ Kemudian iblis membawa-Nya ke kota suci dan menempatkan-Nya di puncak bait suci.
 
 ## Matius 4:6
 
-Dia berkata kepada-Nya, “Jika Engkau adalah Anak Allah, jatuhkanlah diri-Mu ke bawah; karena ada tertulis: ‘Dia akan memerintahkan malaikat-malaikat-Nya mengenai Engkau, dan mereka akan mengangkat Engkau dengan tangan mereka, supaya kaki-Mu tidak terantuk pada batu.’”
+Dia berkata kepada-Nya, “Jika Engkau adalah Anak Tuhan, jatuhkanlah diri-Mu ke bawah; karena ada tertulis: ‘Dia akan memerintahkan malaikat-malaikat-Nya mengenai Engkau, dan mereka akan mengangkat Engkau dengan tangan mereka, supaya kaki-Mu tidak terantuk pada batu.’”
 
 ## Matius 4:7
 
-Yesus menjawab, “Ada juga tertulis: ‘Jangan menguji Tuhan, Allahmu.’”
+Yesus menjawab, “Ada juga tertulis: ‘Jangan menguji Tuhan, Tuhanmu.’”
 
 ## Matius 4:8
 
@@ -38,7 +38,7 @@ Dia berkata kepada-Nya, “Aku akan memberikan semua ini kepada-Mu jika Engkau s
 
 ## Matius 4:10
 
-Kemudian Yesus berkata kepadanya, “Enyahlah, Setan! Karena ada tertulis: ‘Sembahlah Tuhan, Allahmu, dan layani Dia saja.’”
+Kemudian Yesus berkata kepadanya, “Enyahlah, Setan! Karena ada tertulis: ‘Sembahlah Tuhan, Tuhanmu, dan layani Dia saja.’”
 
 ## Matius 4:11
 

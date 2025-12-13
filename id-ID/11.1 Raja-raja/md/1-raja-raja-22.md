@@ -255,4 +255,4 @@ Ia melakukan apa yang jahat di mata Tuhan dan berjalan dalam jalan ayah dan ibun
 
 ## 1 Raja-raja 22:53
 
-Ia melayani dan menyembah Baal dan memprovokasi Tuhan, Allah Israel, untuk marah, seperti yang dilakukan ayahnya.
+Ia melayani dan menyembah Baal dan memprovokasi Tuhan, Tuhan Israel, untuk marah, seperti yang dilakukan ayahnya.

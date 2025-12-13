@@ -270,7 +270,7 @@ Di sebelah kiri adalah kerabat mereka,
 ## 1 Tawarikh 6:48
 
 Kerabat mereka, orang Lewi, ditetapkan untuk semua pelayanan kemah  
-di rumah Allah.
+di rumah Tuhan.
 
 ---
 
@@ -278,7 +278,7 @@ di rumah Allah.
 
 Namun, Harun dan anak-anaknya mempersembahkan korban di atas mezbah korban bakaran  
 dan di atas mezbah ukupan, untuk semua pekerjaan di Tempat Yang Mahakudus,  
-dan untuk mengadakan pendamaian bagi Israel, sesuai dengan semua yang diperintahkan Musa, hamba Allah.
+dan untuk mengadakan pendamaian bagi Israel, sesuai dengan semua yang diperintahkan Musa, hamba Tuhan.
 
 ---
 

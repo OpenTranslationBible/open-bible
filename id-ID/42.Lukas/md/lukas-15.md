@@ -42,7 +42,7 @@ Dan ketika ia menemukannya, ia memanggil teman-temannya dan tetangga-tetangganya
 
 ## Lukas 15:10
 
-Demikian juga, aku berkata kepadamu, ada sukacita di antara malaikat-malaikat Allah atas satu orang berdosa yang bertobat."
+Demikian juga, aku berkata kepadamu, ada sukacita di antara malaikat-malaikat Tuhan atas satu orang berdosa yang bertobat."
 
 ---
 

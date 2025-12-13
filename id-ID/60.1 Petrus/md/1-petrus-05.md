@@ -6,7 +6,7 @@ Jadi, aku menasihati para penatua di antara kamu, sebagai sesama penatua dan sak
 
 ## 1 Petrus 5:2
 
-gembalakanlah kawanan domba Allah yang ada padamu, dengan memberikan pengawasan secara sukarela, sesuai dengan kehendak Allah; dan bukan karena paksaan, tetapi dengan sukacita;
+gembalakanlah kawanan domba Tuhan yang ada padamu, dengan memberikan pengawasan secara sukarela, sesuai dengan kehendak Tuhan; dan bukan karena paksaan, tetapi dengan sukacita;
 
 ## 1 Petrus 5:3
 
@@ -20,12 +20,12 @@ Dan apabila Gembala Agung itu dinyatakan, kamu akan menerima mahkota kemuliaan y
 
 Demikian juga, hai orang-orang muda, tunduklah kepada para penatua; dan kamu semua, kenakanlah kerendahan hati terhadap satu sama lain, karena
 
-> “Allah menentang orang yang congkak,  
+> “Tuhan menentang orang yang congkak,  
 > Tetapi memberi kasih karunia kepada orang yang rendah hati.”
 
 ## 1 Petrus 5:6
 
-Karena itu, rendahkanlah dirimu di bawah tangan Allah yang kuat, supaya Ia meninggikan kamu pada waktunya,
+Karena itu, rendahkanlah dirimu di bawah tangan Tuhan yang kuat, supaya Ia meninggikan kamu pada waktunya,
 
 ## 1 Petrus 5:7
 
@@ -41,7 +41,7 @@ Lawanlah dia dengan teguh dalam imanmu, karena kamu tahu bahwa saudara-saudaramu
 
 ## 1 Petrus 5:10
 
-Setelah kamu menderita untuk waktu yang singkat, Allah, sumber segala kasih karunia, yang telah memanggil kamu kepada kemuliaan-Nya yang kekal dalam Kristus, akan memulihkan, meneguhkan, menguatkan, dan mengokohkan kamu.
+Setelah kamu menderita untuk waktu yang singkat, Tuhan, sumber segala kasih karunia, yang telah memanggil kamu kepada kemuliaan-Nya yang kekal dalam Kristus, akan memulihkan, meneguhkan, menguatkan, dan mengokohkan kamu.
 
 ## 1 Petrus 5:11
 
@@ -49,7 +49,7 @@ Bagi-Nya lah segala kuasa, sampai selama-lamanya. Amin.
 
 ## 1 Petrus 5:12
 
-Dengan perantaraan Silwanus, saudara kita yang setia (sebagaimana aku menganggapnya), aku telah menulis kepadamu dengan singkat, untuk menguatkan kamu dan untuk memberi kesaksian bahwa inilah kasih karunia Allah yang benar. Berdirilah teguh di dalamnya!
+Dengan perantaraan Silwanus, saudara kita yang setia (sebagaimana aku menganggapnya), aku telah menulis kepadamu dengan singkat, untuk menguatkan kamu dan untuk memberi kesaksian bahwa inilah kasih karunia Tuhan yang benar. Berdirilah teguh di dalamnya!
 
 ## 1 Petrus 5:13
 

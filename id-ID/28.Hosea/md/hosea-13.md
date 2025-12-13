@@ -23,9 +23,9 @@
 
 ## Hosea 13:4
 
-> Namun Aku telah menjadi Tuhan, Allahmu  
+> Namun Aku telah menjadi Tuhan, Tuhanmu  
 > Sejak tanah Mesir;  
-> Dan kamu tidak boleh mengenal allah lain kecuali Aku,  
+> Dan kamu tidak boleh mengenal Tuhan lain kecuali Aku,  
 > Karena tidak ada penyelamat selain Aku.
 
 ## Hosea 13:5
@@ -98,7 +98,7 @@
 ## Hosea 13:16
 
 > Samaria akan membayar hukuman atas kesalahannya,  
-> Karena ia telah memberontak melawan Allahnya.  
+> Karena ia telah memberontak melawan Tuhannya.  
 > Mereka akan jatuh oleh pedang,  
 > Anak-anak mereka akan dihancurkan,  
 > Dan wanita-wanita hamil mereka dibelah.

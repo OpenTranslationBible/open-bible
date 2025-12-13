@@ -174,11 +174,11 @@ Jangan membuat dirimu najis oleh makhluk-makhluk ini. Jangan membuat dirimu naji
 
 ## Imamat 11:44
 
-Akulah Tuhan Allahmu; pisahkan dirimu dan jadilah kudus, karena Aku kudus. Jangan membuat dirimu najis oleh makhluk apa pun yang bergerak di tanah.
+Akulah Tuhan Tuhanmu; pisahkan dirimu dan jadilah kudus, karena Aku kudus. Jangan membuat dirimu najis oleh makhluk apa pun yang bergerak di tanah.
 
 ## Imamat 11:45
 
-Akulah Tuhan, yang membawa kamu keluar dari Mesir untuk menjadi Allahmu; oleh karena itu jadilah kudus, karena Aku kudus.
+Akulah Tuhan, yang membawa kamu keluar dari Mesir untuk menjadi Tuhanmu; oleh karena itu jadilah kudus, karena Aku kudus.
 
 ## Imamat 11:46
 

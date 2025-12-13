@@ -2,11 +2,11 @@
 
 ## Roma 11:1
 
-Maka aku bertanya, apakah Allah telah membuang umat-Nya? Sekali-kali tidak! Karena aku sendiri adalah seorang Israel, keturunan Abraham, dari suku Benyamin.
+Maka aku bertanya, apakah Tuhan telah membuang umat-Nya? Sekali-kali tidak! Karena aku sendiri adalah seorang Israel, keturunan Abraham, dari suku Benyamin.
 
 ## Roma 11:2
 
-Allah tidak menolak umat-Nya yang telah dikenal-Nya sebelumnya. Tidakkah kamu tahu apa yang dikatakan Kitab Suci dalam cerita tentang Elia, bagaimana ia memohon kepada Allah melawan Israel?
+Tuhan tidak menolak umat-Nya yang telah dikenal-Nya sebelumnya. Tidakkah kamu tahu apa yang dikatakan Kitab Suci dalam cerita tentang Elia, bagaimana ia memohon kepada Tuhan melawan Israel?
 
 ## Roma 11:3
 
@@ -32,7 +32,7 @@ Jadi bagaimana? Apa yang dengan sungguh-sungguh dicari oleh Israel tidak diperol
 
 seperti ada tertulis:
 
-> "Allah memberikan mereka roh kebodohan,
+> "Tuhan memberikan mereka roh kebodohan,
 > mata yang tidak melihat dan telinga yang tidak mendengar,
 > sampai hari ini."
 
@@ -90,15 +90,15 @@ Benar sekali. Mereka dipatahkan karena ketidakpercayaan, dan kamu berdiri karena
 
 ## Roma 11:21
 
-Karena jika Allah tidak menyayangkan cabang-cabang asli, Dia juga tidak akan menyayangkan kamu.
+Karena jika Tuhan tidak menyayangkan cabang-cabang asli, Dia juga tidak akan menyayangkan kamu.
 
 ## Roma 11:22
 
-Karena itu, perhatikanlah kebaikan dan kekerasan Allah: kekerasan terhadap mereka yang jatuh, tetapi kebaikan terhadapmu, asalkan kamu tetap dalam kebaikan-Nya. Jika tidak, kamu juga akan dipotong.
+Karena itu, perhatikanlah kebaikan dan kekerasan Tuhan: kekerasan terhadap mereka yang jatuh, tetapi kebaikan terhadapmu, asalkan kamu tetap dalam kebaikan-Nya. Jika tidak, kamu juga akan dipotong.
 
 ## Roma 11:23
 
-Dan jika mereka tidak terus dalam ketidakpercayaan, mereka akan dicangkokkan kembali, karena Allah mampu mencangkokkan mereka kembali.
+Dan jika mereka tidak terus dalam ketidakpercayaan, mereka akan dicangkokkan kembali, karena Tuhan mampu mencangkokkan mereka kembali.
 
 ## Roma 11:24
 
@@ -126,23 +126,23 @@ Sejauh menyangkut Injil, mereka adalah musuh demi keuntunganmu; tetapi sejauh me
 
 ## Roma 11:29
 
-karena karunia-karunia Allah dan panggilan-Nya tidak dapat diubah.
+karena karunia-karunia Tuhan dan panggilan-Nya tidak dapat diubah.
 
 ## Roma 11:30
 
-Sama seperti kamu yang dahulu tidak taat kepada Allah sekarang telah menerima belas kasihan sebagai akibat ketidaktaatan mereka,
+Sama seperti kamu yang dahulu tidak taat kepada Tuhan sekarang telah menerima belas kasihan sebagai akibat ketidaktaatan mereka,
 
 ## Roma 11:31
 
-demikian juga mereka sekarang telah menjadi tidak taat supaya mereka juga sekarang dapat menerima belas kasihan sebagai akibat dari belas kasihan Allah kepadamu.
+demikian juga mereka sekarang telah menjadi tidak taat supaya mereka juga sekarang dapat menerima belas kasihan sebagai akibat dari belas kasihan Tuhan kepadamu.
 
 ## Roma 11:32
 
-Karena Allah telah mengizinkan setiap orang untuk tidak taat supaya Dia dapat memberikan belas kasihan kepada mereka semua.
+Karena Tuhan telah mengizinkan setiap orang untuk tidak taat supaya Dia dapat memberikan belas kasihan kepada mereka semua.
 
 ## Roma 11:33
 
-> Oh, betapa dalamnya kekayaan hikmat dan pengetahuan Allah!
+> Oh, betapa dalamnya kekayaan hikmat dan pengetahuan Tuhan!
 > Betapa tak terselidiki penghakiman-Nya,
 > dan jalan-jalan-Nya tidak dapat dipahami!
 
@@ -153,8 +153,8 @@ Karena Allah telah mengizinkan setiap orang untuk tidak taat supaya Dia dapat me
 
 ## Roma 11:35
 
-> "Siapa yang pernah memberikan sesuatu kepada Allah,
-> sehingga Allah harus mengembalikannya kepadanya?"
+> "Siapa yang pernah memberikan sesuatu kepada Tuhan,
+> sehingga Tuhan harus mengembalikannya kepadanya?"
 
 ## Roma 11:36
 

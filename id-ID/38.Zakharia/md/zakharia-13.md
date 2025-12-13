@@ -46,4 +46,4 @@ Dan jika seseorang bertanya, ‘Apa luka-luka ini di tubuhmu?’ mereka akan men
 > dan menguji mereka seperti emas diuji.
 > Mereka akan berseru kepada nama-Ku, dan Aku akan menjawab mereka;
 > Aku akan berkata, ‘Mereka adalah umat-Ku,’
-> dan mereka akan berkata, ‘Tuhan adalah Allah kita.’”
+> dan mereka akan berkata, ‘Tuhan adalah Tuhan kita.’”

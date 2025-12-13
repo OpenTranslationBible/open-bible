@@ -1,115 +1,107 @@
 {
-    "book": "Hagai",
-    "chapter": 1,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Pada tahun kedua pemerintahan Raja Darius, pada hari pertama bulan keenam, datanglah firman Tuhan dengan perantaraan nabi Hagai kepada Zerubabel bin Sealtiel, bupati Yehuda, dan kepada Yosua bin Yozadak, imam besar, bunyinya:"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "\"Beginilah firman Tuhan semesta alam:",
-                "> 'Bangsa ini berkata, \"Belum tiba waktunya untuk membangun kembali rumah Tuhan.\"’\""
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Maka datanglah firman Tuhan dengan perantaraan nabi Hagai, bunyinya:"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> \"Apakah sudah waktunya bagi kamu untuk tinggal di rumah-rumah berlapis papan,",
-                "> sementara rumah ini tetap menjadi reruntuhan?\""
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Beginilah firman Tuhan semesta alam:",
-                "> \"Pertimbangkanlah jalan-jalanmu."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Kamu telah menabur banyak, tetapi membawa pulang hasil sedikit.",
-                "> Kamu makan, tetapi tidak pernah kenyang.",
-                "> Kamu minum, tetapi tidak pernah puas.",
-                "> Kamu berpakaian, tetapi tidak ada yang merasa hangat.",
-                "> Dan orang yang menerima upah, menerima upah untuk dimasukkan ke dalam pundi-pundi yang berlubang.\""
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Tuhan semesta alam berfirman demikian:",
-                "> \"Pertimbangkanlah jalan-jalanmu."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Pergilah ke gunung, bawalah kayu, dan bangunlah bait itu,",
-                "> supaya Aku dapat berkenan kepadanya dan dimuliakan,\" firman Tuhan."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> \"Kamu mengharapkan banyak, tetapi lihatlah, hasilnya sedikit;",
-                "> dan ketika kamu membawanya pulang, Aku meniupnya.",
-                "> Mengapa?\" demikianlah firman Tuhan semesta alam.",
-                "> \"Karena rumah-Ku, yang tetap menjadi reruntuhan,",
-                "> sementara masing-masing dari kamu sibuk dengan rumahnya sendiri."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Oleh karena itu, karena kamu, langit menahan embunnya",
-                "> dan bumi menahan hasilnya."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Aku memanggil kekeringan atas tanah dan gunung-gunung,",
-                "> atas gandum, anggur baru, minyak,",
-                "> dan atas segala yang dihasilkan tanah, atas manusia dan ternak,",
-                "> dan atas segala hasil jerih payah tanganmu.\""
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Maka Zerubabel bin Sealtiel, dan Yosua bin Yozadak, imam besar, beserta seluruh sisa bangsa itu, mendengarkan suara Tuhan, Allah mereka, dan perkataan nabi Hagai, seperti yang telah Tuhan, Allah mereka, utus kepadanya. Dan bangsa itu takut akan Tuhan."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Kemudian Hagai, utusan Tuhan, menyampaikan pesan Tuhan kepada bangsa itu, katanya,",
-                "> \"'Aku menyertai kamu,'",
-                "demikianlah firman Tuhan.\""
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Maka Tuhan menggerakkan semangat Zerubabel bin Sealtiel, bupati Yehuda, dan semangat Yosua bin Yozadak, imam besar, dan semangat seluruh sisa bangsa itu; dan mereka datang dan mulai bekerja pada rumah Tuhan semesta alam, Allah mereka,"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "pada hari kedua puluh empat bulan keenam, pada tahun kedua pemerintahan Raja Darius."
-            ]
-        }
-    ]
+  "book": "Hagai",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Pada tahun kedua pemerintahan Raja Darius, pada hari pertama bulan keenam, datanglah firman Tuhan dengan perantaraan nabi Hagai kepada Zerubabel bin Sealtiel, bupati Yehuda, dan kepada Yosua bin Yozadak, imam besar, bunyinya:"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "\"Beginilah firman Tuhan semesta alam:",
+        "> 'Bangsa ini berkata, \"Belum tiba waktunya untuk membangun kembali rumah Tuhan.\"’\""
+      ]
+    },
+    {
+      "verse": 3,
+      "text": ["Maka datanglah firman Tuhan dengan perantaraan nabi Hagai, bunyinya:"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> \"Apakah sudah waktunya bagi kamu untuk tinggal di rumah-rumah berlapis papan,",
+        "> sementara rumah ini tetap menjadi reruntuhan?\""
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["Beginilah firman Tuhan semesta alam:", "> \"Pertimbangkanlah jalan-jalanmu."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Kamu telah menabur banyak, tetapi membawa pulang hasil sedikit.",
+        "> Kamu makan, tetapi tidak pernah kenyang.",
+        "> Kamu minum, tetapi tidak pernah puas.",
+        "> Kamu berpakaian, tetapi tidak ada yang merasa hangat.",
+        "> Dan orang yang menerima upah, menerima upah untuk dimasukkan ke dalam pundi-pundi yang berlubang.\""
+      ]
+    },
+    {
+      "verse": 7,
+      "text": ["Tuhan semesta alam berfirman demikian:", "> \"Pertimbangkanlah jalan-jalanmu."]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Pergilah ke gunung, bawalah kayu, dan bangunlah bait itu,",
+        "> supaya Aku dapat berkenan kepadanya dan dimuliakan,\" firman Tuhan."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> \"Kamu mengharapkan banyak, tetapi lihatlah, hasilnya sedikit;",
+        "> dan ketika kamu membawanya pulang, Aku meniupnya.",
+        "> Mengapa?\" demikianlah firman Tuhan semesta alam.",
+        "> \"Karena rumah-Ku, yang tetap menjadi reruntuhan,",
+        "> sementara masing-masing dari kamu sibuk dengan rumahnya sendiri."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Oleh karena itu, karena kamu, langit menahan embunnya",
+        "> dan bumi menahan hasilnya."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Aku memanggil kekeringan atas tanah dan gunung-gunung,",
+        "> atas gandum, anggur baru, minyak,",
+        "> dan atas segala yang dihasilkan tanah, atas manusia dan ternak,",
+        "> dan atas segala hasil jerih payah tanganmu.\""
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Maka Zerubabel bin Sealtiel, dan Yosua bin Yozadak, imam besar, beserta seluruh sisa bangsa itu, mendengarkan suara Tuhan, Tuhan mereka, dan perkataan nabi Hagai, seperti yang telah Tuhan, Tuhan mereka, utus kepadanya. Dan bangsa itu takut akan Tuhan."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Kemudian Hagai, utusan Tuhan, menyampaikan pesan Tuhan kepada bangsa itu, katanya,",
+        "> \"'Aku menyertai kamu,'",
+        "demikianlah firman Tuhan.\""
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Maka Tuhan menggerakkan semangat Zerubabel bin Sealtiel, bupati Yehuda, dan semangat Yosua bin Yozadak, imam besar, dan semangat seluruh sisa bangsa itu; dan mereka datang dan mulai bekerja pada rumah Tuhan semesta alam, Tuhan mereka,"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "pada hari kedua puluh empat bulan keenam, pada tahun kedua pemerintahan Raja Darius."
+      ]
+    }
+  ]
 }

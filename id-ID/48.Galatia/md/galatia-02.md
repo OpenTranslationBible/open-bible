@@ -22,7 +22,7 @@ Kami tidak menyerah kepada mereka bahkan untuk sesaat, agar kebenaran Injil teta
 
 ## Galatia 2:6
 
-Mengenai mereka yang berpengaruh—apapun mereka tidak ada bedanya bagiku; Allah tidak memandang muka—mereka tidak menambahkan apa-apa pada pesanku.
+Mengenai mereka yang berpengaruh—apapun mereka tidak ada bedanya bagiku; Tuhan tidak memandang muka—mereka tidak menambahkan apa-apa pada pesanku.
 
 ## Galatia 2:7
 
@@ -30,7 +30,7 @@ Sebaliknya, mereka mengakui bahwa aku telah diberi tanggung jawab untuk memberit
 
 ## Galatia 2:8
 
-Karena Allah yang sama yang bekerja melalui Petrus sebagai rasul kepada orang-orang bersunat juga bekerja dalam diriku untuk orang-orang bukan Yahudi.
+Karena Tuhan yang sama yang bekerja melalui Petrus sebagai rasul kepada orang-orang bersunat juga bekerja dalam diriku untuk orang-orang bukan Yahudi.
 
 ## Galatia 2:9
 
@@ -74,12 +74,12 @@ Jika aku membangun kembali apa yang telah aku hancurkan, aku membuktikan diriku 
 
 ## Galatia 2:19
 
-Karena oleh hukum, aku telah mati terhadap hukum, agar aku dapat hidup untuk Allah.
+Karena oleh hukum, aku telah mati terhadap hukum, agar aku dapat hidup untuk Tuhan.
 
 ## Galatia 2:20
 
-Aku telah disalibkan dengan Kristus, dan bukan lagi aku yang hidup, tetapi Kristus yang hidup dalam aku. Hidup yang sekarang aku jalani dalam tubuh, aku jalani oleh iman dalam Anak Allah, yang mengasihi aku dan menyerahkan diri-Nya untuk aku.
+Aku telah disalibkan dengan Kristus, dan bukan lagi aku yang hidup, tetapi Kristus yang hidup dalam aku. Hidup yang sekarang aku jalani dalam tubuh, aku jalani oleh iman dalam Anak Tuhan, yang mengasihi aku dan menyerahkan diri-Nya untuk aku.
 
 ## Galatia 2:21
 
-Aku tidak mengesampingkan kasih karunia Allah, karena jika kebenaran bisa diperoleh melalui hukum, maka Kristus mati dengan sia-sia.
+Aku tidak mengesampingkan kasih karunia Tuhan, karena jika kebenaran bisa diperoleh melalui hukum, maka Kristus mati dengan sia-sia.

@@ -94,7 +94,7 @@ Aku akan menunjuk satu gembala atas mereka, hamba-Ku Daud, dan dia akan menggemb
 
 ## Yehezkiel 34:24
 
-Aku, Tuhan, akan menjadi Allah mereka, dan hamba-Ku Daud akan menjadi pemimpin di antara mereka. Aku, Tuhan, telah berbicara.
+Aku, Tuhan, akan menjadi Tuhan mereka, dan hamba-Ku Daud akan menjadi pemimpin di antara mereka. Aku, Tuhan, telah berbicara.
 
 ## Yehezkiel 34:25
 
@@ -118,8 +118,8 @@ Aku akan menyediakan bagi mereka tanah yang terkenal karena hasilnya, dan mereka
 
 ## Yehezkiel 34:30
 
-Kemudian mereka akan tahu bahwa Aku, Tuhan Allah mereka, ada bersama mereka dan bahwa mereka, kaum Israel, adalah umat-Ku, demikianlah firman Tuhan Yang Berdaulat.
+Kemudian mereka akan tahu bahwa Aku, Tuhan Tuhan mereka, ada bersama mereka dan bahwa mereka, kaum Israel, adalah umat-Ku, demikianlah firman Tuhan Yang Berdaulat.
 
 ## Yehezkiel 34:31
 
-Kamu adalah domba-domba-Ku, domba-domba dari padang rumput-Ku, dan Aku adalah Allahmu, demikianlah firman Tuhan Yang Berdaulat.'"
+Kamu adalah domba-domba-Ku, domba-domba dari padang rumput-Ku, dan Aku adalah Tuhanmu, demikianlah firman Tuhan Yang Berdaulat.'"

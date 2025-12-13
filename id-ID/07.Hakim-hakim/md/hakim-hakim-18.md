@@ -18,7 +18,7 @@ Ia menjawab, “Inilah yang dilakukan Mikha untukku: ia telah mempekerjakan aku,
 
 ## Hakim-Hakim 18:5
 
-Kemudian mereka berkata kepadanya, “Tolong mintalah petunjuk dari Allah untuk mengetahui apakah perjalanan kami akan berhasil.”
+Kemudian mereka berkata kepadanya, “Tolong mintalah petunjuk dari Tuhan untuk mengetahui apakah perjalanan kami akan berhasil.”
 
 ## Hakim-Hakim 18:6
 
@@ -40,7 +40,7 @@ Mereka menjawab, “Mari kita naik dan menyerang mereka, karena kita telah melih
 
 ## Hakim-Hakim 18:10
 
-Ketika kamu tiba, kamu akan menemukan orang-orang yang tidak curiga dan tanah yang luas yang telah diberikan Allah ke dalam tanganmu, tempat di mana tidak ada kekurangan apa pun di bumi.”
+Ketika kamu tiba, kamu akan menemukan orang-orang yang tidak curiga dan tanah yang luas yang telah diberikan Tuhan ke dalam tanganmu, tempat di mana tidak ada kekurangan apa pun di bumi.”
 
 ## Hakim-Hakim 18:11
 
@@ -124,4 +124,4 @@ Orang Dan mendirikan bagi mereka patung pahatan, dan Yonatan anak Gersom, anak M
 
 ## Hakim-Hakim 18:31
 
-Mereka terus menggunakan patung pahatan yang dibuat Mikha, sepanjang waktu rumah Allah ada di Silo.
+Mereka terus menggunakan patung pahatan yang dibuat Mikha, sepanjang waktu rumah Tuhan ada di Silo.

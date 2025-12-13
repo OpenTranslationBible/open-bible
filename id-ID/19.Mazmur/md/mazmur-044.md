@@ -4,7 +4,7 @@
 
 ## Mazmur 44:1
 
-> Ya Allah, dengan telinga kami telah kami dengar,  
+> Ya Tuhan, dengan telinga kami telah kami dengar,  
 > Nenek moyang kami telah menceritakan kepada kami  
 > Pekerjaan yang Engkau lakukan pada zaman mereka,  
 > Pada zaman dahulu kala.
@@ -25,7 +25,7 @@
 
 ## Mazmur 44:4
 
-> Engkau adalah rajaku, ya Allah;  
+> Engkau adalah rajaku, ya Tuhan;  
 > Berikan kemenangan bagi Yakub.
 
 ## Mazmur 44:5
@@ -45,7 +45,7 @@
 
 ## Mazmur 44:8
 
-> Dalam Allah, kami telah memuliakan sepanjang hari,  
+> Dalam Tuhan, kami telah memuliakan sepanjang hari,  
 > Dan kami akan terus-menerus mengucap syukur kepada nama-Mu.
 
 > Sela
@@ -115,12 +115,12 @@
 
 ## Mazmur 44:20
 
-> Jika kami melupakan nama Allah kami  
+> Jika kami melupakan nama Tuhan kami  
 > Atau mengulurkan tangan kepada dewa asing,
 
 ## Mazmur 44:21
 
-> Tidakkah Allah akan menemukannya?  
+> Tidakkah Tuhan akan menemukannya?  
 > Karena Dia mengetahui rahasia hati.
 
 ## Mazmur 44:22

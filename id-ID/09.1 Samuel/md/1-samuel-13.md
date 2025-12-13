@@ -53,7 +53,7 @@ aku berpikir, 'Orang Filistin akan segera turun menyerang aku di Gilgal, dan aku
 
 ## 1 Samuel 13:13
 
-Kemudian Samuel berkata kepada Saul, "Engkau telah bertindak bodoh. Engkau tidak mematuhi perintah Tuhan, Allahmu, yang Dia perintahkan kepadamu. Karena sekarang Tuhan akan meneguhkan kerajaanmu atas Israel untuk selama-lamanya.
+Kemudian Samuel berkata kepada Saul, "Engkau telah bertindak bodoh. Engkau tidak mematuhi perintah Tuhan, Tuhanmu, yang Dia perintahkan kepadamu. Karena sekarang Tuhan akan meneguhkan kerajaanmu atas Israel untuk selama-lamanya.
 
 ## 1 Samuel 13:14
 

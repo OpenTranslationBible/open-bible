@@ -127,7 +127,7 @@ Ketika Ia tiba di seberang di daerah Gadara, dua orang yang kerasukan setan meng
 
 ## Matius 8:29
 
-Mereka berteriak, “Apa urusan-Mu dengan kami, Anak Allah? Apakah Engkau datang ke sini untuk menyiksa kami sebelum waktunya?”
+Mereka berteriak, “Apa urusan-Mu dengan kami, Anak Tuhan? Apakah Engkau datang ke sini untuk menyiksa kami sebelum waktunya?”
 
 ## Matius 8:30
 

@@ -13,13 +13,13 @@ Lalu Hana berdoa dan berkata:
 
 > Tidak ada yang kudus seperti Tuhan,  
 > Karena tidak ada yang selain Engkau,  
-> Dan tidak ada gunung batu seperti Allah kita.
+> Dan tidak ada gunung batu seperti Tuhan kita.
 
 ## 1 Samuel 2:3
 
 > Janganlah berbicara dengan sombong,  
 > Janganlah keangkuhan keluar dari mulutmu,  
-> Karena Tuhan adalah Allah yang maha tahu,  
+> Karena Tuhan adalah Tuhan yang maha tahu,  
 > Dan oleh-Nya perbuatan-perbuatan ditimbang.
 
 ## 1 Samuel 2:4
@@ -131,7 +131,7 @@ Anak-anakku, laporan yang kudengar menyebar di antara umat Tuhan sangat menggang
 
 ## 1 Samuel 2:25
 
-Jika seseorang berdosa terhadap sesama, Allah mungkin menjadi penengah baginya; tetapi jika seseorang berdosa terhadap Tuhan, siapa yang dapat menjadi perantara?" Tetapi mereka tidak mendengarkan ayah mereka, karena itu adalah kehendak Tuhan untuk membunuh mereka.
+Jika seseorang berdosa terhadap sesama, Tuhan mungkin menjadi penengah baginya; tetapi jika seseorang berdosa terhadap Tuhan, siapa yang dapat menjadi perantara?" Tetapi mereka tidak mendengarkan ayah mereka, karena itu adalah kehendak Tuhan untuk membunuh mereka.
 
 ---
 
@@ -143,7 +143,7 @@ Dan anak laki-laki Samuel terus bertumbuh dalam perawakan dan dalam kasih karuni
 
 ## 1 Samuel 2:27
 
-Seorang abdi Allah datang kepada Eli dan berkata kepadanya, "Inilah yang dikatakan Tuhan: Bukankah Aku telah menyatakan diri-Ku dengan jelas kepada keluarga leluhurmu ketika mereka berada di Mesir, di bawah kekuasaan Firaun?
+Seorang abdi Tuhan datang kepada Eli dan berkata kepadanya, "Inilah yang dikatakan Tuhan: Bukankah Aku telah menyatakan diri-Ku dengan jelas kepada keluarga leluhurmu ketika mereka berada di Mesir, di bawah kekuasaan Firaun?
 
 ## 1 Samuel 2:28
 
@@ -155,7 +155,7 @@ Mengapa kemudian kamu menghina korban dan persembahan-Ku yang Kuperintahkan di t
 
 ## 1 Samuel 2:30
 
-"Oleh karena itu Tuhan, Allah Israel, menyatakan: Aku berjanji bahwa keluargamu dan keluarga leluhurmu akan melayani di hadapan-Ku selamanya. Tetapi sekarang," demikianlah firman Tuhan, "jauhkanlah itu dari-Ku! Karena mereka yang menghormati-Ku akan Kuhormati, tetapi mereka yang menghina-Ku akan diperlakukan dengan penghinaan.
+"Oleh karena itu Tuhan, Tuhan Israel, menyatakan: Aku berjanji bahwa keluargamu dan keluarga leluhurmu akan melayani di hadapan-Ku selamanya. Tetapi sekarang," demikianlah firman Tuhan, "jauhkanlah itu dari-Ku! Karena mereka yang menghormati-Ku akan Kuhormati, tetapi mereka yang menghina-Ku akan diperlakukan dengan penghinaan.
 
 ## 1 Samuel 2:31
 

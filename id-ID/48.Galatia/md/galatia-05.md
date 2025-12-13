@@ -82,7 +82,7 @@ penyembahan berhala, sihir, permusuhan, perselisihan, kecemburuan, amarah, kepen
 
 ## Galatia 5:21
 
-iri hati, kemabukan, pesta pora, dan sebagainya. Aku memperingatkan kamu, seperti yang telah kulakukan sebelumnya, bahwa mereka yang melakukan hal-hal seperti itu tidak akan mewarisi kerajaan Allah.
+iri hati, kemabukan, pesta pora, dan sebagainya. Aku memperingatkan kamu, seperti yang telah kulakukan sebelumnya, bahwa mereka yang melakukan hal-hal seperti itu tidak akan mewarisi kerajaan Tuhan.
 
 ## Galatia 5:22
 

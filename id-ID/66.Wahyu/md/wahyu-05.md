@@ -22,7 +22,7 @@ Lalu salah seorang tua-tua berkata kepadaku, “Jangan menangis! Lihatlah, Singa
 
 ## Wahyu 5:6
 
-Dan aku melihat seekor Anak Domba berdiri di antara takhta dan keempat makhluk hidup dan para tua-tua, tampak seolah-olah telah disembelih. Ia memiliki tujuh tanduk dan tujuh mata, itulah ketujuh roh Allah yang diutus ke seluruh bumi.
+Dan aku melihat seekor Anak Domba berdiri di antara takhta dan keempat makhluk hidup dan para tua-tua, tampak seolah-olah telah disembelih. Ia memiliki tujuh tanduk dan tujuh mata, itulah ketujuh roh Tuhan yang diutus ke seluruh bumi.
 
 ## Wahyu 5:7
 
@@ -30,7 +30,7 @@ Ia mendekati dan mengambil gulungan kitab itu dari tangan kanan Dia yang duduk d
 
 ## Wahyu 5:8
 
-Ketika Ia mengambil gulungan kitab itu, keempat makhluk hidup dan dua puluh empat tua-tua sujud di hadapan Anak Domba. Masing-masing memegang kecapi dan mangkuk emas penuh dengan dupa, itulah doa-doa umat Allah.
+Ketika Ia mengambil gulungan kitab itu, keempat makhluk hidup dan dua puluh empat tua-tua sujud di hadapan Anak Domba. Masing-masing memegang kecapi dan mangkuk emas penuh dengan dupa, itulah doa-doa umat Tuhan.
 
 ## Wahyu 5:9
 
@@ -38,12 +38,12 @@ Dan mereka menyanyikan sebuah nyanyian baru, berkata:
 
 > “Engkau layak mengambil gulungan kitab itu
 > dan membuka meterai-meterainya,
-> karena Engkau telah disembelih, dan dengan darah-Mu, Engkau telah membeli bagi Allah orang-orang
+> karena Engkau telah disembelih, dan dengan darah-Mu, Engkau telah membeli bagi Tuhan orang-orang
 > dari setiap suku, bahasa, kaum, dan bangsa.
 
 ## Wahyu 5:10
 
-> Engkau telah menjadikan mereka suatu kerajaan dan imam-imam untuk melayani Allah kita,
+> Engkau telah menjadikan mereka suatu kerajaan dan imam-imam untuk melayani Tuhan kita,
 > dan mereka akan memerintah di bumi.”
 
 ## Wahyu 5:11

@@ -65,7 +65,7 @@
 
 ## Mazmur 33:12
 
-> Berbahagialah bangsa yang Allahnya adalah Tuhan,  
+> Berbahagialah bangsa yang Tuhannya adalah Tuhan,  
 > Umat yang dipilih-Nya menjadi milik-Nya sendiri.
 
 ## Mazmur 33:13

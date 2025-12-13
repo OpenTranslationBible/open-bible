@@ -66,7 +66,7 @@ Sadrakh, Mesakh, dan Abednego menjawab raja, “Ya Nebukadnezar, kami tidak perl
 
 ## Daniel 3:17
 
-Jika kami dilemparkan ke dalam perapian yang menyala-nyala, Allah yang kami layani dapat melepaskan kami dari sana, dan Dia akan melepaskan kami dari tanganmu, ya raja.
+Jika kami dilemparkan ke dalam perapian yang menyala-nyala, Tuhan yang kami layani dapat melepaskan kami dari sana, dan Dia akan melepaskan kami dari tanganmu, ya raja.
 
 ## Daniel 3:18
 
@@ -102,7 +102,7 @@ Dia berkata, “Lihat! Aku melihat empat orang, tidak terikat, berjalan di tenga
 
 ## Daniel 3:26
 
-Nebukadnezar kemudian mendekati pembukaan perapian yang menyala-nyala dan memanggil, “Sadrakh, Mesakh, dan Abednego, hamba-hamba Allah Yang Mahatinggi, keluarlah dan datanglah ke sini!” Maka Sadrakh, Mesakh, dan Abednego keluar dari api.
+Nebukadnezar kemudian mendekati pembukaan perapian yang menyala-nyala dan memanggil, “Sadrakh, Mesakh, dan Abednego, hamba-hamba Tuhan Yang Mahatinggi, keluarlah dan datanglah ke sini!” Maka Sadrakh, Mesakh, dan Abednego keluar dari api.
 
 ## Daniel 3:27
 
@@ -110,11 +110,11 @@ Para bupati, penguasa, gubernur, dan penasihat raja berkumpul dan melihat bahwa 
 
 ## Daniel 3:28
 
-Nebukadnezar menyatakan, “Terpujilah Allah Sadrakh, Mesakh, dan Abednego, yang telah mengutus malaikat-Nya dan melepaskan hamba-hamba-Nya yang percaya kepada-Nya. Mereka menentang perintah raja dan rela menyerahkan nyawa mereka daripada melayani atau menyembah dewa mana pun kecuali Allah mereka sendiri.
+Nebukadnezar menyatakan, “Terpujilah Tuhan Sadrakh, Mesakh, dan Abednego, yang telah mengutus malaikat-Nya dan melepaskan hamba-hamba-Nya yang percaya kepada-Nya. Mereka menentang perintah raja dan rela menyerahkan nyawa mereka daripada melayani atau menyembah dewa mana pun kecuali Tuhan mereka sendiri.
 
 ## Daniel 3:29
 
-Oleh karena itu, aku mengeluarkan dekret bahwa setiap orang, bangsa, atau bahasa yang mengatakan sesuatu melawan Allah Sadrakh, Mesakh, dan Abednego akan dicabik-cabik dan rumah mereka dihancurkan, karena tidak ada dewa lain yang dapat menyelamatkan dengan cara ini.”
+Oleh karena itu, aku mengeluarkan dekret bahwa setiap orang, bangsa, atau bahasa yang mengatakan sesuatu melawan Tuhan Sadrakh, Mesakh, dan Abednego akan dicabik-cabik dan rumah mereka dihancurkan, karena tidak ada dewa lain yang dapat menyelamatkan dengan cara ini.”
 
 ## Daniel 3:30
 

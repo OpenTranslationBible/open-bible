@@ -74,7 +74,7 @@ Tetapi Yesus menjawab mereka, "Bapa-Ku bekerja sampai sekarang, dan Aku pun beke
 
 ## Yohanes 5:18
 
-Karena alasan ini, mereka semakin berusaha untuk membunuh Dia, karena Dia tidak hanya melanggar hari Sabat tetapi juga menyebut Allah sebagai Bapa-Nya sendiri, membuat diri-Nya setara dengan Allah.
+Karena alasan ini, mereka semakin berusaha untuk membunuh Dia, karena Dia tidak hanya melanggar hari Sabat tetapi juga menyebut Tuhan sebagai Bapa-Nya sendiri, membuat diri-Nya setara dengan Tuhan.
 
 ---
 
@@ -106,7 +106,7 @@ agar semua orang menghormati Anak seperti mereka menghormati Bapa. Siapa pun yan
 
 ## Yohanes 5:25
 
-Sesungguhnya, sesungguhnya, Aku berkata kepadamu, suatu waktu akan datang dan sekarang telah tiba ketika orang mati akan mendengar suara Anak Allah, dan mereka yang mendengarnya akan hidup.
+Sesungguhnya, sesungguhnya, Aku berkata kepadamu, suatu waktu akan datang dan sekarang telah tiba ketika orang mati akan mendengar suara Anak Tuhan, dan mereka yang mendengarnya akan hidup.
 
 ## Yohanes 5:26
 
@@ -182,7 +182,7 @@ Aku tidak mencari kemuliaan dari manusia,
 
 ## Yohanes 5:42
 
-tetapi Aku tahu kamu. Aku mengerti bahwa kamu tidak memiliki kasih Allah di dalam dirimu.
+tetapi Aku tahu kamu. Aku mengerti bahwa kamu tidak memiliki kasih Tuhan di dalam dirimu.
 
 ## Yohanes 5:43
 
@@ -190,7 +190,7 @@ Aku datang dalam nama Bapa-Ku, dan kamu tidak menerima Aku. Namun jika orang lai
 
 ## Yohanes 5:44
 
-Bagaimana kamu bisa percaya, karena kamu mencari persetujuan dari satu sama lain tetapi tidak mencari kemuliaan yang datang dari satu-satunya Allah?
+Bagaimana kamu bisa percaya, karena kamu mencari persetujuan dari satu sama lain tetapi tidak mencari kemuliaan yang datang dari satu-satunya Tuhan?
 
 ## Yohanes 5:45
 

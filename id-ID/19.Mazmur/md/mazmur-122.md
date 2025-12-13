@@ -49,5 +49,5 @@
 
 ## Mazmur 122:9
 
-> Demi rumah Tuhan, Allah kita,  
+> Demi rumah Tuhan, Tuhan kita,  
 > Aku akan mengejar kesejahteraanmu.

@@ -10,7 +10,7 @@ Apabila engkau menyeberangi air, Aku akan menyertai engkau; dan melalui sungai-s
 
 ## Yesaya 43:3
 
-Sebab Akulah Tuhan, Allahmu, Yang Kudus dari Israel, Juruselamatmu; Aku telah memberikan Mesir sebagai tebusanmu, Etiopia dan Seba sebagai gantimu.
+Sebab Akulah Tuhan, Tuhanmu, Yang Kudus dari Israel, Juruselamatmu; Aku telah memberikan Mesir sebagai tebusanmu, Etiopia dan Seba sebagai gantimu.
 
 ## Yesaya 43:4
 
@@ -38,7 +38,7 @@ Semua bangsa berkumpul bersama, dan umat-umat berhimpun. Siapa di antara mereka 
 
 ## Yesaya 43:10
 
-"Kamu adalah saksi-saksi-Ku," firman Tuhan, "dan hamba-Ku yang telah Kupilih, supaya kamu dapat mengetahui dan percaya kepada-Ku dan mengerti bahwa Akulah Dia. Sebelum Aku tidak ada allah yang dibentuk, dan tidak akan ada setelah Aku.
+"Kamu adalah saksi-saksi-Ku," firman Tuhan, "dan hamba-Ku yang telah Kupilih, supaya kamu dapat mengetahui dan percaya kepada-Ku dan mengerti bahwa Akulah Dia. Sebelum Aku tidak ada Tuhan yang dibentuk, dan tidak akan ada setelah Aku.
 
 ## Yesaya 43:11
 
@@ -46,7 +46,7 @@ Aku, bahkan Aku, adalah Tuhan, dan selain Aku tidak ada juruselamat.
 
 ## Yesaya 43:12
 
-Aku telah menyatakan, menyelamatkan, dan memberitahukan— Aku, dan bukan allah asing di antara kamu. Kamu adalah saksi-saksi-Ku," firman Tuhan, "bahwa Akulah Allah.
+Aku telah menyatakan, menyelamatkan, dan memberitahukan— Aku, dan bukan Tuhan asing di antara kamu. Kamu adalah saksi-saksi-Ku," firman Tuhan, "bahwa Akulah Tuhan.
 
 ## Yesaya 43:13
 

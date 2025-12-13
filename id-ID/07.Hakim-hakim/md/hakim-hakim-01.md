@@ -28,7 +28,7 @@ Adoni-Bezek melarikan diri, tetapi mereka mengejarnya, menangkapnya, dan memoton
 
 ## Hakim-Hakim 1:7
 
-Adoni-Bezek berkata, "Tujuh puluh raja dengan ibu jari tangan dan ibu jari kaki mereka terpotong biasa mengumpulkan sisa-sisa di bawah mejaku; seperti yang telah kulakukan, demikianlah Allah membalas aku." Mereka membawanya ke Yerusalem, di mana ia meninggal.
+Adoni-Bezek berkata, "Tujuh puluh raja dengan ibu jari tangan dan ibu jari kaki mereka terpotong biasa mengumpulkan sisa-sisa di bawah mejaku; seperti yang telah kulakukan, demikianlah Tuhan membalas aku." Mereka membawanya ke Yerusalem, di mana ia meninggal.
 
 ## Hakim-Hakim 1:8
 

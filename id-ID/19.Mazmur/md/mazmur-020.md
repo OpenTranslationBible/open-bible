@@ -5,7 +5,7 @@
 ## Mazmur 20:1
 
 > Kiranya Tuhan menjawab engkau pada hari kesesakan!  
-> Kiranya nama Allah Yakub melindungi engkau!
+> Kiranya nama Tuhan Yakub melindungi engkau!
 
 ## Mazmur 20:2
 
@@ -29,7 +29,7 @@
 ## Mazmur 20:5
 
 > Kami akan bersorak-sorai atas kemenanganmu,  
-> Dan dalam nama Allah kami akan mengibarkan panji-panji kami.
+> Dan dalam nama Tuhan kami akan mengibarkan panji-panji kami.
 
 ---
 
@@ -46,7 +46,7 @@
 ## Mazmur 20:7
 
 > Ada yang memuji kereta dan ada yang memuji kuda,  
-> Tetapi kami akan memuji nama Tuhan, Allah kami.
+> Tetapi kami akan memuji nama Tuhan, Tuhan kami.
 
 ## Mazmur 20:8
 

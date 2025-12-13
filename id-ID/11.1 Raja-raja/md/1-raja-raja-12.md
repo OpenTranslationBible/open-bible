@@ -137,7 +137,7 @@ untuk berperang melawan keluarga Israel untuk mengembalikan kerajaan kepada Reha
 
 ## 1 Raja-raja 12:22
 
-Namun, pesan Tuhan datang kepada Semaya, abdi Allah, berkata,
+Namun, pesan Tuhan datang kepada Semaya, abdi Tuhan, berkata,
 
 ## 1 Raja-raja 12:23
 
@@ -175,7 +175,7 @@ Maka raja mencari nasihat,
 dan membuat dua anak lembu emas,  
 dan ia berkata kepada rakyat,  
 “Terlalu jauh bagi kamu untuk pergi ke Yerusalem;  
-lihatlah allahmu, hai Israel, yang membawa kamu keluar dari tanah Mesir.”
+lihatlah Tuhanmu, hai Israel, yang membawa kamu keluar dari tanah Mesir.”
 
 ## 1 Raja-raja 12:29
 

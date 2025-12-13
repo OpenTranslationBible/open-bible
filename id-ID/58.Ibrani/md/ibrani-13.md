@@ -14,7 +14,7 @@ Ingatlah mereka yang dipenjara seolah-olah kamu dipenjarakan bersama mereka, dan
 
 ## Ibrani 13:4
 
-Pernikahan harus dihormati oleh setiap orang, dan tempat tidur pernikahan dijaga tetap murni, karena Allah akan menghakimi orang yang berzina dan yang melakukan perbuatan cabul.
+Pernikahan harus dihormati oleh setiap orang, dan tempat tidur pernikahan dijaga tetap murni, karena Tuhan akan menghakimi orang yang berzina dan yang melakukan perbuatan cabul.
 
 ## Ibrani 13:5
 
@@ -31,7 +31,7 @@ Dengan demikian kita dapat berkata dengan yakin,
 
 ## Ibrani 13:7
 
-Ingatlah pemimpin-pemimpinmu yang telah menyampaikan firman Allah kepadamu. Renungkanlah hasil dari cara hidup mereka dan tirulah iman mereka.
+Ingatlah pemimpin-pemimpinmu yang telah menyampaikan firman Tuhan kepadamu. Renungkanlah hasil dari cara hidup mereka dan tirulah iman mereka.
 
 ## Ibrani 13:8
 
@@ -63,11 +63,11 @@ Karena di sini kita tidak memiliki kota yang bertahan lama, tetapi kita mencari 
 
 ## Ibrani 13:15
 
-Melalui Dia, marilah kita terus-menerus mempersembahkan korban pujian kepada Allah, yaitu buah bibir yang mengakui nama-Nya.
+Melalui Dia, marilah kita terus-menerus mempersembahkan korban pujian kepada Tuhan, yaitu buah bibir yang mengakui nama-Nya.
 
 ## Ibrani 13:16
 
-Ingatlah untuk berbuat baik dan berbagi dengan orang lain, karena pengorbanan seperti itu menyenangkan Allah.
+Ingatlah untuk berbuat baik dan berbagi dengan orang lain, karena pengorbanan seperti itu menyenangkan Tuhan.
 
 ## Ibrani 13:17
 
@@ -83,7 +83,7 @@ Aku mendesak kamu lebih lagi untuk berdoa, agar aku dapat segera dipulihkan kepa
 
 ## Ibrani 13:20
 
-Sekarang, semoga Allah damai sejahtera, yang telah membangkitkan dari antara orang mati Tuhan kita Yesus, Gembala Agung dari domba-domba, melalui darah perjanjian yang kekal,
+Sekarang, semoga Tuhan damai sejahtera, yang telah membangkitkan dari antara orang mati Tuhan kita Yesus, Gembala Agung dari domba-domba, melalui darah perjanjian yang kekal,
 
 ## Ibrani 13:21
 

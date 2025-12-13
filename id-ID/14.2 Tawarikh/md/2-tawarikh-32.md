@@ -36,7 +36,7 @@ karena Yang bersama kita lebih besar daripada yang bersamanya.
 
 ## 2 Tawarikh 32:8
 
-Bersamanya hanyalah kekuatan manusia, tetapi bersama kita adalah Tuhan Allah kita,  
+Bersamanya hanyalah kekuatan manusia, tetapi bersama kita adalah Tuhan Tuhan kita,  
 untuk membantu kita dan untuk berperang bagi kita."  
 Dan rakyat mengandalkan kata-kata Hizkia raja Yehuda.
 
@@ -58,7 +58,7 @@ melawan Hizkia raja Yehuda dan melawan seluruh Yehuda yang berada di Yerusalem, 
 ## 2 Tawarikh 32:11
 
 Bukankah Hizkia menipu kamu untuk menyerahkan diri untuk mati kelaparan dan kehausan, dengan berkata,  
-"Tuhan Allah kita akan menyelamatkan kita dari tangan raja Asyur"?
+"Tuhan Tuhan kita akan menyelamatkan kita dari tangan raja Asyur"?
 
 ## 2 Tawarikh 32:12
 
@@ -77,26 +77,26 @@ Apakah dewa-dewa bangsa-bangsa di tanah-tanah itu dapat menyelamatkan tanah mere
 
 Siapa di antara semua dewa bangsa-bangsa ini yang nenek moyangku hancurkan  
 yang dapat menyelamatkan bangsanya dari tanganku,  
-bahwa Allahmu akan dapat menyelamatkan kamu dari tanganku?
+bahwa Tuhanmu akan dapat menyelamatkan kamu dari tanganku?
 
 ## 2 Tawarikh 32:15
 
 Sekarang, jangan biarkan Hizkia menipu kamu atau menyesatkan kamu dengan cara ini,  
 dan jangan percaya padanya, karena tidak ada dewa dari bangsa atau kerajaan manapun yang dapat menyelamatkan bangsanya dari tanganku atau dari tangan nenek moyangku.  
-Apalagi Allahmu akan menyelamatkan kamu dari tanganku?'"
+Apalagi Tuhanmu akan menyelamatkan kamu dari tanganku?'"
 
 ---
 
 ## 2 Tawarikh 32:16
 
-Para pelayannya mengatakan lebih banyak lagi melawan Tuhan Allah dan melawan hamba-Nya Hizkia.
+Para pelayannya mengatakan lebih banyak lagi melawan Tuhan Tuhan dan melawan hamba-Nya Hizkia.
 
 ## 2 Tawarikh 32:17
 
-Ia juga menulis surat untuk mengejek Tuhan Allah Israel,  
+Ia juga menulis surat untuk mengejek Tuhan Tuhan Israel,  
 dan untuk berbicara melawan-Nya, dengan berkata,  
 "Seperti dewa-dewa bangsa-bangsa di tanah-tanah itu tidak menyelamatkan bangsa mereka dari tanganku,  
-demikian juga Allah Hizkia tidak akan menyelamatkan bangsanya dari tanganku."
+demikian juga Tuhan Hizkia tidak akan menyelamatkan bangsanya dari tanganku."
 
 ## 2 Tawarikh 32:18
 
@@ -105,7 +105,7 @@ untuk menakut-nakuti dan menggentarkan mereka, agar mereka dapat merebut kota it
 
 ## 2 Tawarikh 32:19
 
-Mereka berbicara tentang Allah Yerusalem seperti tentang dewa-dewa bangsa-bangsa di bumi,  
+Mereka berbicara tentang Tuhan Yerusalem seperti tentang dewa-dewa bangsa-bangsa di bumi,  
 buatan tangan manusia.
 
 ---
@@ -162,7 +162,7 @@ Ia juga membangun fasilitas penyimpanan untuk hasil panen gandum, anggur, dan mi
 ## 2 Tawarikh 32:29
 
 Ia juga membuat kota-kota untuk dirinya sendiri, dan memperoleh kawanan domba dan ternak dalam jumlah besar,  
-karena Allah telah memberinya kekayaan yang sangat besar.
+karena Tuhan telah memberinya kekayaan yang sangat besar.
 
 ## 2 Tawarikh 32:30
 
@@ -174,7 +174,7 @@ Dan Hizkia berhasil dalam segala yang dilakukannya.
 
 Bahkan dalam hal utusan-utusan dari penguasa Babel,  
 yang dikirim kepadanya untuk menanyakan keajaiban yang telah terjadi di negeri itu,  
-Allah membiarkannya sendirian hanya untuk mengujinya, agar Ia mengetahui segala sesuatu yang ada dalam hatinya.
+Tuhan membiarkannya sendirian hanya untuk mengujinya, agar Ia mengetahui segala sesuatu yang ada dalam hatinya.
 
 ---
 

@@ -2,15 +2,15 @@
 
 ## Kisah Para Rasul 3:1
 
-Petrus dan Yohanes sedang naik ke bait Allah pada jam doa, yaitu jam kesembilan.
+Petrus dan Yohanes sedang naik ke bait Tuhan pada jam doa, yaitu jam kesembilan.
 
 ## Kisah Para Rasul 3:2
 
-Seorang laki-laki yang lumpuh sejak lahir sedang dibawa ke gerbang bait Allah yang disebut Indah, di mana ia ditempatkan setiap hari untuk meminta sedekah dari mereka yang memasuki pelataran bait Allah.
+Seorang laki-laki yang lumpuh sejak lahir sedang dibawa ke gerbang bait Tuhan yang disebut Indah, di mana ia ditempatkan setiap hari untuk meminta sedekah dari mereka yang memasuki pelataran bait Tuhan.
 
 ## Kisah Para Rasul 3:3
 
-Melihat Petrus dan Yohanes hendak masuk ke pelataran bait Allah, ia meminta sedekah kepada mereka.
+Melihat Petrus dan Yohanes hendak masuk ke pelataran bait Tuhan, ia meminta sedekah kepada mereka.
 
 ## Kisah Para Rasul 3:4
 
@@ -30,15 +30,15 @@ Sambil memegang tangan kanannya, ia membantunya berdiri, dan seketika itu juga k
 
 ## Kisah Para Rasul 3:8
 
-Ia melompat berdiri dan mulai berjalan, dan pergi bersama mereka ke dalam pelataran bait Allah, berjalan dan melompat dan memuji Allah.
+Ia melompat berdiri dan mulai berjalan, dan pergi bersama mereka ke dalam pelataran bait Tuhan, berjalan dan melompat dan memuji Tuhan.
 
 ## Kisah Para Rasul 3:9
 
-Semua orang menyaksikannya berjalan-jalan, memuji Allah;
+Semua orang menyaksikannya berjalan-jalan, memuji Tuhan;
 
 ## Kisah Para Rasul 3:10
 
-dan mereka mengenalinya sebagai orang yang sama yang biasa duduk meminta sedekah di gerbang bait Allah yang disebut Indah, dan mereka dipenuhi dengan keheranan dan kekaguman atas apa yang telah terjadi padanya.
+dan mereka mengenalinya sebagai orang yang sama yang biasa duduk meminta sedekah di gerbang bait Tuhan yang disebut Indah, dan mereka dipenuhi dengan keheranan dan kekaguman atas apa yang telah terjadi padanya.
 
 ---
 
@@ -52,7 +52,7 @@ Ketika Petrus melihat ini, ia berbicara kepada orang-orang itu, "Hai orang-orang
 
 ## Kisah Para Rasul 3:13
 
-Allah Abraham, Ishak, dan Yakub, Allah nenek moyang kita, telah memuliakan Hamba-Nya Yesus, yang kalian serahkan dan tolak di hadapan Pilatus, meskipun ia telah memutuskan untuk melepaskan-Nya.
+Tuhan Abraham, Ishak, dan Yakub, Tuhan nenek moyang kita, telah memuliakan Hamba-Nya Yesus, yang kalian serahkan dan tolak di hadapan Pilatus, meskipun ia telah memutuskan untuk melepaskan-Nya.
 
 ## Kisah Para Rasul 3:14
 
@@ -60,7 +60,7 @@ Kalian menolak Yang Kudus dan Benar dan meminta seorang pembunuh untuk dibebaska
 
 ## Kisah Para Rasul 3:15
 
-Kalian membunuh Pemimpin kehidupan, yang Allah bangkitkan dari kematian, dan kami adalah saksi dari hal ini.
+Kalian membunuh Pemimpin kehidupan, yang Tuhan bangkitkan dari kematian, dan kami adalah saksi dari hal ini.
 
 ## Kisah Para Rasul 3:16
 
@@ -74,11 +74,11 @@ Karena iman dalam nama Yesus, orang ini yang kalian lihat dan kenal telah menjad
 
 ## Kisah Para Rasul 3:18
 
-Tetapi Allah telah menggenapi apa yang Ia nubuatkan melalui semua nabi, bahwa Kristus-Nya akan menderita dengan cara ini.
+Tetapi Tuhan telah menggenapi apa yang Ia nubuatkan melalui semua nabi, bahwa Kristus-Nya akan menderita dengan cara ini.
 
 ## Kisah Para Rasul 3:19
 
-Bertobatlah, oleh karena itu, dan berbaliklah kepada Allah, agar dosa-dosa kalian dihapuskan, sehingga masa penyegaran datang dari Tuhan,
+Bertobatlah, oleh karena itu, dan berbaliklah kepada Tuhan, agar dosa-dosa kalian dihapuskan, sehingga masa penyegaran datang dari Tuhan,
 
 ## Kisah Para Rasul 3:20
 
@@ -86,13 +86,13 @@ dan agar Ia mengirim Mesias, yang telah ditetapkan untuk kalian, yaitu Yesus.
 
 ## Kisah Para Rasul 3:21
 
-Surga harus menyambut-Nya sampai waktu datang bagi Allah untuk memulihkan segala sesuatu, seperti yang Ia janjikan sejak lama melalui nabi-nabi-Nya yang kudus.
+Surga harus menyambut-Nya sampai waktu datang bagi Tuhan untuk memulihkan segala sesuatu, seperti yang Ia janjikan sejak lama melalui nabi-nabi-Nya yang kudus.
 
 ---
 
 ## Kisah Para Rasul 3:22
 
-Karena Musa berkata, 'Tuhan Allahmu akan membangkitkan bagimu seorang nabi seperti aku dari antara bangsamu sendiri; kalian harus mendengarkan segala sesuatu yang Ia katakan kepadamu.
+Karena Musa berkata, 'Tuhan Tuhanmu akan membangkitkan bagimu seorang nabi seperti aku dari antara bangsamu sendiri; kalian harus mendengarkan segala sesuatu yang Ia katakan kepadamu.
 
 ## Kisah Para Rasul 3:23
 
@@ -104,8 +104,8 @@ Sesungguhnya, mulai dari Samuel, semua nabi yang telah berbicara telah mengumumk
 
 ## Kisah Para Rasul 3:25
 
-Kalian adalah ahli waris para nabi dan perjanjian yang Allah buat dengan nenek moyang kalian. Ia berkata kepada Abraham, 'Melalui keturunanmu semua bangsa di bumi akan diberkati.'
+Kalian adalah ahli waris para nabi dan perjanjian yang Tuhan buat dengan nenek moyang kalian. Ia berkata kepada Abraham, 'Melalui keturunanmu semua bangsa di bumi akan diberkati.'
 
 ## Kisah Para Rasul 3:26
 
-Ketika Allah membangkitkan Hamba-Nya, Ia mengirim-Nya kepada kalian, pertama-tama, untuk memberkati kalian dengan memalingkan masing-masing dari kalian dari cara-cara berdosa kalian."
+Ketika Tuhan membangkitkan Hamba-Nya, Ia mengirim-Nya kepada kalian, pertama-tama, untuk memberkati kalian dengan memalingkan masing-masing dari kalian dari cara-cara berdosa kalian."

@@ -5,22 +5,22 @@
 ## Mazmur 42:1
 
 > Seperti rusa yang merindukan sungai berair,  
-> Demikianlah jiwaku merindukan Engkau, ya Allah.
+> Demikianlah jiwaku merindukan Engkau, ya Tuhan.
 
 ## Mazmur 42:2
 
-> Jiwaku haus akan Allah yang hidup;  
-> Bilakah aku boleh datang dan melihat wajah Allah?
+> Jiwaku haus akan Tuhan yang hidup;  
+> Bilakah aku boleh datang dan melihat wajah Tuhan?
 
 ## Mazmur 42:3
 
 > Air mataku menjadi makananku siang dan malam,  
-> Sementara mereka terus-menerus berkata kepadaku, “Di manakah Allahmu?”
+> Sementara mereka terus-menerus berkata kepadaku, “Di manakah Tuhanmu?”
 
 ## Mazmur 42:4
 
 > Aku teringat akan hal-hal ini dan mencurahkan jiwaku dalam diriku.  
-> Sebab aku dahulu berjalan bersama orang banyak dan memimpin mereka ke rumah Allah,  
+> Sebab aku dahulu berjalan bersama orang banyak dan memimpin mereka ke rumah Tuhan,  
 > Dengan suara sorak-sorai dan nyanyian syukur, suatu kerumunan yang merayakan pesta.
 
 ---
@@ -29,8 +29,8 @@
 
 > Mengapa engkau tertekan, hai jiwaku?  
 > Dan mengapa engkau gelisah dalam diriku?  
-> Berharaplah kepada Allah, sebab aku akan memuji Dia lagi  
-> Untuk kehadiran-Nya yang menyelamatkan, ya Allahku.
+> Berharaplah kepada Tuhan, sebab aku akan memuji Dia lagi  
+> Untuk kehadiran-Nya yang menyelamatkan, ya Tuhanku.
 
 ---
 
@@ -51,19 +51,19 @@
 
 > Tuhan akan mengirimkan kasih setia-Nya di siang hari;  
 > Dan lagu-Nya akan menyertai aku di malam hari,  
-> Sebuah doa kepada Allah kehidupanku.
+> Sebuah doa kepada Tuhan kehidupanku.
 
 ---
 
 ## Mazmur 42:9
 
-> Aku akan berkata kepada Allah, gunung batuku, “Mengapa Engkau melupakan aku?  
+> Aku akan berkata kepada Tuhan, gunung batuku, “Mengapa Engkau melupakan aku?  
 > Mengapa aku harus berjalan berkabung karena penindasan musuh?”
 
 ## Mazmur 42:10
 
 > Seolah-olah menghancurkan tulang-tulangku, lawanku mengejek aku,  
-> Sementara mereka terus-menerus berkata kepadaku, “Di manakah Allahmu?”
+> Sementara mereka terus-menerus berkata kepadaku, “Di manakah Tuhanmu?”
 
 ---
 
@@ -71,5 +71,5 @@
 
 > Mengapa engkau tertekan, hai jiwaku?  
 > Dan mengapa engkau gelisah dalam diriku?  
-> Berharaplah kepada Allah, sebab aku akan memuji Dia lagi  
-> Untuk kehadiran-Nya yang menyelamatkan, ya Allahku.
+> Berharaplah kepada Tuhan, sebab aku akan memuji Dia lagi  
+> Untuk kehadiran-Nya yang menyelamatkan, ya Tuhanku.

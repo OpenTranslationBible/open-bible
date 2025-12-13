@@ -151,7 +151,7 @@ Inilah pembagian para penjaga pintu gerbang dari anak-anak orang Korah dan dari 
 
 ## 1 Tawarikh 26:20
 
-Dari orang-orang Lewi, Ahia bertanggung jawab atas harta benda rumah Allah
+Dari orang-orang Lewi, Ahia bertanggung jawab atas harta benda rumah Tuhan
 
 > dan atas harta benda dari persembahan yang dikhususkan.
 
@@ -258,4 +258,4 @@ Menurut silsilah mereka berdasarkan rumah tangga ayah,
 Dan saudara-saudaranya, orang-orang yang mampu, adalah 2.700 kepala rumah tangga ayah.
 
 > Dan Raja Daud menunjuk mereka atas orang-orang Ruben, orang-orang Gad, dan setengah suku Manasye,  
-> untuk semua urusan Allah dan raja.
+> untuk semua urusan Tuhan dan raja.

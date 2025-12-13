@@ -4,7 +4,7 @@
 
 > Pujilah Tuhan!
 
-> Hormatilah Allah di tempat kudus-Nya;  
+> Hormatilah Tuhan di tempat kudus-Nya;  
 > Pujilah Dia di cakrawala-Nya yang luas.
 
 ## Mazmur 150:2

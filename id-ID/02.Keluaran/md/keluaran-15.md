@@ -6,7 +6,7 @@ Kemudian Musa dan orang-orang Israel menyanyikan nyanyian ini bagi Tuhan, katany
 
 ## Keluaran 15:2
 
-Tuhan adalah kekuatanku dan nyanyianku; Ia telah menjadi keselamatanku. Ia adalah Allahku, dan aku akan memuji-Nya; Allah ayahku, dan aku akan meninggikan Dia.
+Tuhan adalah kekuatanku dan nyanyianku; Ia telah menjadi keselamatanku. Ia adalah Tuhanku, dan aku akan memuji-Nya; Tuhan ayahku, dan aku akan meninggikan Dia.
 
 ## Keluaran 15:3
 
@@ -102,7 +102,7 @@ Kemudian Musa berseru kepada Tuhan, dan Tuhan menunjukkan kepadanya sepotong kay
 
 ## Keluaran 15:26
 
-Ia berkata, “Jika kamu mendengarkan dengan saksama suara Tuhan, Allahmu, dan melakukan apa yang benar di mata-Nya, jika kamu memperhatikan perintah-perintah-Nya dan memelihara semua ketetapan-Nya, Aku tidak akan mendatangkan kepadamu penyakit-penyakit yang telah Kudatangkan atas orang Mesir, karena Aku adalah Tuhan, yang menyembuhkan kamu.”
+Ia berkata, “Jika kamu mendengarkan dengan saksama suara Tuhan, Tuhanmu, dan melakukan apa yang benar di mata-Nya, jika kamu memperhatikan perintah-perintah-Nya dan memelihara semua ketetapan-Nya, Aku tidak akan mendatangkan kepadamu penyakit-penyakit yang telah Kudatangkan atas orang Mesir, karena Aku adalah Tuhan, yang menyembuhkan kamu.”
 
 ## Keluaran 15:27
 

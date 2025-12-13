@@ -1,115 +1,111 @@
 {
-    "book": "2 Timotius",
-    "chapter": 1,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Paulus, seorang rasul Kristus Yesus oleh kehendak Allah, sesuai dengan janji hidup yang ada dalam Kristus Yesus,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Kepada Timotius, anakku yang terkasih:",
-                "Semoga engkau menerima kasih karunia, rahmat, dan damai sejahtera dari Allah Bapa dan Kristus Yesus Tuhan kita."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Aku mengucap syukur kepada Allah, yang kulayani dengan hati nurani yang murni, seperti yang dilakukan nenek moyangku, ketika aku selalu mengingat engkau dalam doaku siang dan malam,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "merindukan untuk melihat engkau, ketika aku mengingat air matamu, sehingga aku dapat dipenuhi dengan sukacita."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Karena aku teringat akan imanmu yang tulus ikhlas, yang pertama-tama tinggal dalam nenekmu Lois dan ibumu Eunike, dan aku yakin ada dalam dirimu juga."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Karena alasan ini, aku mengingatkan engkau untuk mengobarkan kembali karunia Allah yang ada padamu melalui penumpangan tanganku."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Karena Allah tidak memberikan kepada kita roh ketakutan, melainkan satu roh yang penuh kuasa, kasih, dan pengendalian diri."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Karena itu, janganlah malu bersaksi tentang Tuhan kita, maupun tentang aku, tahanan-Nya; tetapi bergabunglah dengan aku dalam menanggung kesulitan demi Injil oleh kuasa Allah,"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "yang telah menyelamatkan kita dan memanggil kita dengan panggilan kudus, bukan menurut perbuatan kita, melainkan menurut maksud dan kasih karunia-Nya sendiri, yang telah dianugerahkan kepada kita dalam Kristus Yesus sebelum segala zaman,"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "tetapi sekarang telah dinyatakan oleh penampakan Juruselamat kita Kristus Yesus, yang telah membatalkan maut dan membawa hidup dan ketidakbinasaan kepada terang melalui Injil,"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "untuk itulah aku telah ditetapkan sebagai pemberita, rasul, dan pengajar."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Karena alasan ini, aku juga menanggung semuanya ini; namun aku tidak malu, karena aku tahu kepada siapa aku percaya, dan aku yakin bahwa Dia mampu menjaga apa yang telah kupercayakan kepada-Nya sampai hari itu."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Peganglah pola ajaran yang sehat yang telah engkau dengar dariku, dalam iman dan kasih yang ada dalam Kristus Yesus."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Jagalah, melalui Roh Kudus yang tinggal dalam kita, harta yang telah dipercayakan kepadamu."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Engkau tahu bahwa semua orang yang ada di Asia berpaling dariku, termasuk Figelus dan Hermogenes."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Semoga Tuhan menunjukkan kebaikan kepada keluarga Onesiforus, karena ia sering menyegarkan aku dan tidak malu dengan pemenjaraanku;"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "tetapi ketika ia berada di Roma, ia dengan tekun mencariku dan menemukanku—"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "semoga Tuhan memberinya menemukan rahmat dari Tuhan pada hari itu—dan engkau tahu dengan baik apa jasa-jasa yang telah ia lakukan di Efesus."
-            ]
-        }
-    ]
+  "book": "2 Timotius",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Paulus, seorang rasul Kristus Yesus oleh kehendak Tuhan, sesuai dengan janji hidup yang ada dalam Kristus Yesus,"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Kepada Timotius, anakku yang terkasih:",
+        "Semoga engkau menerima kasih karunia, rahmat, dan damai sejahtera dari Tuhan Bapa dan Kristus Yesus Tuhan kita."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Aku mengucap syukur kepada Tuhan, yang kulayani dengan hati nurani yang murni, seperti yang dilakukan nenek moyangku, ketika aku selalu mengingat engkau dalam doaku siang dan malam,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "merindukan untuk melihat engkau, ketika aku mengingat air matamu, sehingga aku dapat dipenuhi dengan sukacita."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Karena aku teringat akan imanmu yang tulus ikhlas, yang pertama-tama tinggal dalam nenekmu Lois dan ibumu Eunike, dan aku yakin ada dalam dirimu juga."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Karena alasan ini, aku mengingatkan engkau untuk mengobarkan kembali karunia Tuhan yang ada padamu melalui penumpangan tanganku."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Karena Tuhan tidak memberikan kepada kita roh ketakutan, melainkan satu roh yang penuh kuasa, kasih, dan pengendalian diri."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Karena itu, janganlah malu bersaksi tentang Tuhan kita, maupun tentang aku, tahanan-Nya; tetapi bergabunglah dengan aku dalam menanggung kesulitan demi Injil oleh kuasa Tuhan,"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "yang telah menyelamatkan kita dan memanggil kita dengan panggilan kudus, bukan menurut perbuatan kita, melainkan menurut maksud dan kasih karunia-Nya sendiri, yang telah dianugerahkan kepada kita dalam Kristus Yesus sebelum segala zaman,"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "tetapi sekarang telah dinyatakan oleh penampakan Juruselamat kita Kristus Yesus, yang telah membatalkan maut dan membawa hidup dan ketidakbinasaan kepada terang melalui Injil,"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": ["untuk itulah aku telah ditetapkan sebagai pemberita, rasul, dan pengajar."]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Karena alasan ini, aku juga menanggung semuanya ini; namun aku tidak malu, karena aku tahu kepada siapa aku percaya, dan aku yakin bahwa Dia mampu menjaga apa yang telah kupercayakan kepada-Nya sampai hari itu."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Peganglah pola ajaran yang sehat yang telah engkau dengar dariku, dalam iman dan kasih yang ada dalam Kristus Yesus."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Jagalah, melalui Roh Kudus yang tinggal dalam kita, harta yang telah dipercayakan kepadamu."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Engkau tahu bahwa semua orang yang ada di Asia berpaling dariku, termasuk Figelus dan Hermogenes."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Semoga Tuhan menunjukkan kebaikan kepada keluarga Onesiforus, karena ia sering menyegarkan aku dan tidak malu dengan pemenjaraanku;"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": ["tetapi ketika ia berada di Roma, ia dengan tekun mencariku dan menemukanku—"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "semoga Tuhan memberinya menemukan rahmat dari Tuhan pada hari itu—dan engkau tahu dengan baik apa jasa-jasa yang telah ia lakukan di Efesus."
+      ]
+    }
+  ]
 }

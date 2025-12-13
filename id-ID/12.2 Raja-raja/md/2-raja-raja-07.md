@@ -9,7 +9,7 @@ dan dua ukuran jelai dengan harga satu syikal, di pintu gerbang Samaria.’”
 
 ## 2 Raja-raja 7:2
 
-Tetapi perwira yang menjadi sandaran raja menjawab abdi Allah itu dan berkata,  
+Tetapi perwira yang menjadi sandaran raja menjawab abdi Tuhan itu dan berkata,  
 “Lihatlah, seandainya Tuhan membuat tingkap-tingkap di langit, mungkinkah hal ini terjadi?”  
 Kemudian dia berkata,  
 “Lihatlah, engkau akan melihatnya dengan matamu sendiri, tetapi engkau tidak akan memakannya.”
@@ -111,16 +111,16 @@ sesuai dengan firman Tuhan.
 
 Sekarang raja menunjuk perwira yang menjadi sandarannya untuk bertanggung jawab atas pintu gerbang;  
 tetapi orang-orang menginjak-injaknya di pintu gerbang, dan dia mati,  
-seperti yang dikatakan abdi Allah, yang berbicara ketika raja turun kepadanya.
+seperti yang dikatakan abdi Tuhan, yang berbicara ketika raja turun kepadanya.
 
 ## 2 Raja-raja 7:18
 
-Dan itu terjadi persis seperti yang dikatakan abdi Allah kepada raja, berkata,  
+Dan itu terjadi persis seperti yang dikatakan abdi Tuhan kepada raja, berkata,  
 “Dua ukuran jelai dengan harga satu syikal dan seukuran tepung halus dengan harga satu syikal akan dijual besok kira-kira waktu ini di pintu gerbang Samaria.”
 
 ## 2 Raja-raja 7:19
 
-Kemudian perwira itu menjawab abdi Allah dan berkata,  
+Kemudian perwira itu menjawab abdi Tuhan dan berkata,  
 “Sekarang lihatlah, seandainya Tuhan membuat tingkap-tingkap di langit, mungkinkah hal seperti itu terjadi?”  
 Dan dia berkata,  
 “Lihatlah, engkau akan melihatnya dengan matamu sendiri, tetapi engkau tidak akan memakannya.”

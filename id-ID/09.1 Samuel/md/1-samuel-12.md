@@ -37,7 +37,7 @@ Ketika Yakub pergi ke Mesir dan nenek moyangmu berseru kepada Tuhan, maka Tuhan 
 
 ## 1 Samuel 12:9
 
-Tetapi mereka melupakan Tuhan Allah mereka, sehingga Dia membiarkan mereka jatuh ke tangan Sisera, panglima tentara Hazor, dan ke tangan orang Filistin, dan ke tangan raja Moab, dan mereka berperang melawan mereka.
+Tetapi mereka melupakan Tuhan Tuhan mereka, sehingga Dia membiarkan mereka jatuh ke tangan Sisera, panglima tentara Hazor, dan ke tangan orang Filistin, dan ke tangan raja Moab, dan mereka berperang melawan mereka.
 
 ## 1 Samuel 12:10
 
@@ -49,7 +49,7 @@ Kemudian Tuhan mengutus Yerubaal dan Bedan dan Yefta dan Samuel, dan membebaskan
 
 ## 1 Samuel 12:12
 
-Tetapi ketika kamu melihat bahwa Nahas, raja orang Amon, datang melawanmu, kamu berkata kepadaku, 'Tidak, tetapi seorang raja harus memerintah atas kami'—ketika Tuhan Allahmu adalah rajamu.
+Tetapi ketika kamu melihat bahwa Nahas, raja orang Amon, datang melawanmu, kamu berkata kepadaku, 'Tidak, tetapi seorang raja harus memerintah atas kami'—ketika Tuhan Tuhanmu adalah rajamu.
 
 ## 1 Samuel 12:13
 
@@ -57,7 +57,7 @@ Sekarang, lihatlah raja yang telah kamu pilih, yang telah kamu minta; dan lihatl
 
 ## 1 Samuel 12:14
 
-Jika kamu takut akan Tuhan dan melayani Dia, dan menaati suara-Nya dan tidak memberontak melawan perintah Tuhan, dan jika baik kamu maupun raja yang memerintah atasmu mengikuti Tuhan Allahmu, maka akan baik.
+Jika kamu takut akan Tuhan dan melayani Dia, dan menaati suara-Nya dan tidak memberontak melawan perintah Tuhan, dan jika baik kamu maupun raja yang memerintah atasmu mengikuti Tuhan Tuhanmu, maka akan baik.
 
 ## 1 Samuel 12:15
 
@@ -81,7 +81,7 @@ Dan Samuel memanggil Tuhan, dan Tuhan mengirimkan guntur dan hujan pada hari itu
 
 ## 1 Samuel 12:19
 
-Dan semua orang berkata kepada Samuel, "Berdoalah bagi hamba-hambamu kepada Tuhan Allahmu, agar kami tidak mati; karena kami telah menambahkan pada semua dosa kami kejahatan ini, meminta seorang raja bagi diri kami."
+Dan semua orang berkata kepada Samuel, "Berdoalah bagi hamba-hambamu kepada Tuhan Tuhanmu, agar kami tidak mati; karena kami telah menambahkan pada semua dosa kami kejahatan ini, meminta seorang raja bagi diri kami."
 
 ## 1 Samuel 12:20
 

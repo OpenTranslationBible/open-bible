@@ -80,7 +80,7 @@ dan dia melakukannya sesuai dengan aturan harian, mempersembahkannya sesuai deng
 
 ## 2 Tawarikh 8:14
 
-Sekarang sesuai dengan peraturan ayahnya Daud, dia menetapkan pembagian para imam untuk pelayanan mereka, dan orang Lewi untuk tugas-tugas pujian dan pelayanan di hadapan para imam sesuai dengan aturan harian, dan para penjaga gerbang menurut pembagian mereka di setiap gerbang; karena ini adalah perintah Daud, orang Allah.
+Sekarang sesuai dengan peraturan ayahnya Daud, dia menetapkan pembagian para imam untuk pelayanan mereka, dan orang Lewi untuk tugas-tugas pujian dan pelayanan di hadapan para imam sesuai dengan aturan harian, dan para penjaga gerbang menurut pembagian mereka di setiap gerbang; karena ini adalah perintah Daud, orang Tuhan.
 
 ---
 

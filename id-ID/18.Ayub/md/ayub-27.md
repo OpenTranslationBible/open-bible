@@ -6,7 +6,7 @@ Kemudian Ayub melanjutkan perkataannya dan berkata,
 
 ## Ayub 27:2
 
-> "Demi Allah yang hidup, yang telah menolak hakku,  
+> "Demi Tuhan yang hidup, yang telah menolak hakku,  
 > Dan Yang Mahakuasa, yang telah memenuhi jiwaku dengan kepahitan,
 
 ## Ayub 27:3
@@ -39,23 +39,23 @@ Kemudian Ayub melanjutkan perkataannya dan berkata,
 ## Ayub 27:8
 
 > Sebab apa harapan yang dimiliki orang yang tidak bertuhan ketika hidupnya berakhir,  
-> Ketika Allah menuntut nyawanya?
+> Ketika Tuhan menuntut nyawanya?
 
 ## Ayub 27:9
 
-> Akankah Allah mendengarkan teriakannya  
+> Akankah Tuhan mendengarkan teriakannya  
 > Ketika kesulitan menimpanya?
 
 ## Ayub 27:10
 
 > Akankah ia menemukan sukacita dalam Yang Mahakuasa?  
-> Akankah ia memanggil Allah setiap saat?
+> Akankah ia memanggil Tuhan setiap saat?
 
 ---
 
 ## Ayub 27:11
 
-> Aku akan mengajarkan kepadamu tentang kekuatan Allah;  
+> Aku akan mengajarkan kepadamu tentang kekuatan Tuhan;  
 > Aku tidak akan menyembunyikan apa yang ada pada Yang Mahakuasa.
 
 ## Ayub 27:12
@@ -67,7 +67,7 @@ Kemudian Ayub melanjutkan perkataannya dan berkata,
 
 ## Ayub 27:13
 
-> Inilah nasib orang fasik dari Allah,  
+> Inilah nasib orang fasik dari Tuhan,  
 > Dan warisan yang diterima para penindas dari Yang Mahakuasa:
 
 ## Ayub 27:14

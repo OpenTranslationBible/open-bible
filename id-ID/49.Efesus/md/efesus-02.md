@@ -14,7 +14,7 @@ Di antara mereka kita semua dahulu hidup dalam hawa nafsu daging kita, mengikuti
 
 ## Efesus 2:4
 
-Tetapi Allah, yang kaya dengan rahmat, karena kasih-Nya yang besar kepada kita,
+Tetapi Tuhan, yang kaya dengan rahmat, karena kasih-Nya yang besar kepada kita,
 
 ## Efesus 2:5
 
@@ -30,7 +30,7 @@ supaya di masa yang akan datang Ia dapat menunjukkan kekayaan kasih karunia-Nya 
 
 ## Efesus 2:8
 
-Sebab karena kasih karunia kamu telah diselamatkan melalui iman, dan itu bukan dari dirimu sendiri; itu adalah pemberian Allah—
+Sebab karena kasih karunia kamu telah diselamatkan melalui iman, dan itu bukan dari dirimu sendiri; itu adalah pemberian Tuhan—
 
 ## Efesus 2:9
 
@@ -38,7 +38,7 @@ bukan hasil pekerjaan, supaya tidak ada yang dapat memegahkan diri.
 
 ## Efesus 2:10
 
-Karena kita adalah buatan-Nya, diciptakan dalam Kristus Yesus untuk melakukan pekerjaan baik, yang dipersiapkan Allah sebelumnya untuk kita lakukan.
+Karena kita adalah buatan-Nya, diciptakan dalam Kristus Yesus untuk melakukan pekerjaan baik, yang dipersiapkan Tuhan sebelumnya untuk kita lakukan.
 
 ## Efesus 2:11
 
@@ -46,7 +46,7 @@ Karena itu, ingatlah bahwa dahulu kamu, orang-orang bukan Yahudi secara lahiriah
 
 ## Efesus 2:12
 
-ingatlah bahwa pada waktu itu kamu jauh dari Kristus, terasing dari kewargaan Israel, dan asing terhadap perjanjian-perjanjian janji, tanpa harapan dan tanpa Allah di dunia.
+ingatlah bahwa pada waktu itu kamu jauh dari Kristus, terasing dari kewargaan Israel, dan asing terhadap perjanjian-perjanjian janji, tanpa harapan dan tanpa Tuhan di dunia.
 
 ## Efesus 2:13
 
@@ -62,7 +62,7 @@ dengan menghapuskan hukum perintah-perintah yang terdapat dalam peraturan-peratu
 
 ## Efesus 2:16
 
-dan dapat mendamaikan kita berdua kepada Allah dalam satu tubuh melalui salib, dengan demikian mengakhiri permusuhan.
+dan dapat mendamaikan kita berdua kepada Tuhan dalam satu tubuh melalui salib, dengan demikian mengakhiri permusuhan.
 
 ## Efesus 2:17
 
@@ -74,7 +74,7 @@ Karena melalui Dia kita berdua dapat mengenal kita memiliki akses kepada Bapa ol
 
 ## Efesus 2:19
 
-Akibatnya, kamu bukan lagi orang luar dan asing, tetapi adalah sesama warga dengan orang-orang kudus dan anggota keluarga Allah,
+Akibatnya, kamu bukan lagi orang luar dan asing, tetapi adalah sesama warga dengan orang-orang kudus dan anggota keluarga Tuhan,
 
 ## Efesus 2:20
 
@@ -86,4 +86,4 @@ di dalam Dia seluruh bangunan, disatukan bersama, bangkit menjadi bait suci yang
 
 ## Efesus 2:22
 
-Di dalam Dia kamu juga sedang dibangun bersama untuk menjadi tempat kediaman di mana Allah hidup oleh Roh-Nya.
+Di dalam Dia kamu juga sedang dibangun bersama untuk menjadi tempat kediaman di mana Tuhan hidup oleh Roh-Nya.

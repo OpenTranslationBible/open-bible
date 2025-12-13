@@ -18,7 +18,7 @@ dan mempertanyakan, "Di mana janji kedatangan-Nya? Sejak nenek moyang meninggal,
 
 ## 2 Petrus 3:5
 
-Karena ketika mereka menyatakan ini, mereka mengabaikan bahwa oleh firman Allah langit telah ada sejak dahulu dan bumi dibentuk dari air dan oleh air,
+Karena ketika mereka menyatakan ini, mereka mengabaikan bahwa oleh firman Tuhan langit telah ada sejak dahulu dan bumi dibentuk dari air dan oleh air,
 
 ## 2 Petrus 3:6
 
@@ -46,7 +46,7 @@ Karena semua hal ini akan dihancurkan dengan cara ini, orang seperti apa seharus
 
 ## 2 Petrus 3:12
 
-mengantisipasi dan mempercepat kedatangan hari Allah, karena langit akan terbakar dan unsur-unsur akan meleleh dengan panas yang hebat!
+mengantisipasi dan mempercepat kedatangan hari Tuhan, karena langit akan terbakar dan unsur-unsur akan meleleh dengan panas yang hebat!
 
 ## 2 Petrus 3:13
 

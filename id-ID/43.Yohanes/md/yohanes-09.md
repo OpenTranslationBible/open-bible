@@ -10,7 +10,7 @@ Para murid bertanya kepada-Nya, “Guru, siapakah yang berdosa, orang ini atau o
 
 ## Yohanes 9:3
 
-Yesus menjawab, “Bukan orang ini maupun orang tuanya yang berdosa; tetapi ini terjadi supaya pekerjaan-pekerjaan Allah dapat dinyatakan di dalam dia.
+Yesus menjawab, “Bukan orang ini maupun orang tuanya yang berdosa; tetapi ini terjadi supaya pekerjaan-pekerjaan Tuhan dapat dinyatakan di dalam dia.
 
 ## Yohanes 9:4
 
@@ -66,7 +66,7 @@ Orang-orang Farisi juga bertanya kepadanya bagaimana dia menerima penglihatannya
 
 ## Yohanes 9:16
 
-Beberapa orang Farisi berkata, “Orang ini bukan dari Allah, karena Dia tidak mematuhi hari Sabat.” Tetapi yang lain bertanya, “Bagaimana mungkin seorang pendosa melakukan tanda-tanda seperti itu?” Maka ada perpecahan di antara mereka.
+Beberapa orang Farisi berkata, “Orang ini bukan dari Tuhan, karena Dia tidak mematuhi hari Sabat.” Tetapi yang lain bertanya, “Bagaimana mungkin seorang pendosa melakukan tanda-tanda seperti itu?” Maka ada perpecahan di antara mereka.
 
 ## Yohanes 9:17
 
@@ -102,7 +102,7 @@ Itulah sebabnya orang tuanya berkata, “Dia sudah dewasa; tanyakan padanya.”
 
 ## Yohanes 9:24
 
-Untuk kedua kalinya mereka memanggil orang yang telah buta itu, dan berkata kepadanya, “Berikan kemuliaan kepada Allah dengan mengatakan yang sebenarnya. Kami tahu orang ini adalah seorang pendosa.”
+Untuk kedua kalinya mereka memanggil orang yang telah buta itu, dan berkata kepadanya, “Berikan kemuliaan kepada Tuhan dengan mengatakan yang sebenarnya. Kami tahu orang ini adalah seorang pendosa.”
 
 ## Yohanes 9:25
 
@@ -122,7 +122,7 @@ Mereka menghina dia dan berkata, “Kamu adalah murid orang ini! Kami adalah mur
 
 ## Yohanes 9:29
 
-Kami tahu bahwa Allah berbicara kepada Musa, tetapi mengenai orang ini, kami tidak tahu dari mana Dia berasal.”
+Kami tahu bahwa Tuhan berbicara kepada Musa, tetapi mengenai orang ini, kami tidak tahu dari mana Dia berasal.”
 
 ## Yohanes 9:30
 
@@ -130,7 +130,7 @@ Orang itu menjawab, “Itu sungguh luar biasa! Kamu tidak tahu dari mana Dia ber
 
 ## Yohanes 9:31
 
-Kami mengerti bahwa Allah tidak mendengarkan pendosa. Dia mendengarkan orang yang saleh yang melakukan kehendak-Nya.
+Kami mengerti bahwa Tuhan tidak mendengarkan pendosa. Dia mendengarkan orang yang saleh yang melakukan kehendak-Nya.
 
 ## Yohanes 9:32
 
@@ -138,7 +138,7 @@ Belum pernah terdengar bahwa ada orang yang membuka mata orang yang lahir buta.
 
 ## Yohanes 9:33
 
-Jika orang ini bukan dari Allah, Dia tidak akan dapat melakukan apa pun.”
+Jika orang ini bukan dari Tuhan, Dia tidak akan dapat melakukan apa pun.”
 
 ## Yohanes 9:34
 

@@ -1,160 +1,146 @@
 {
-    "book": "1 Samuel",
-    "chapter": 3,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Anak itu, Samuel, melayani di hadapan Tuhan di bawah pengawasan Eli.",
-                "Pada masa itu firman Tuhan jarang; penglihatan-penglihatan tidak tersebar luas."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Pada suatu malam Eli, yang penglihatannya telah kabur sehingga ia tidak dapat melihat dengan baik, sedang berbaring di tempat biasanya."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Lampu Allah belum padam, dan Samuel sedang berbaring di bait Tuhan, tempat tabut Allah berada."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Kemudian Tuhan memanggil Samuel.",
-                "Ia menjawab, “Ini aku!”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Ia berlari kepada Eli dan berkata, “Ini aku, sebab engkau memanggil aku.”",
-                "Tetapi Eli berkata, “Aku tidak memanggilmu; pergilah kembali dan berbaringlah.”",
-                "Maka ia pergi dan berbaring."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Sekali lagi Tuhan memanggil, “Samuel!”",
-                "Samuel bangun dan pergi kepada Eli dan berkata, “Ini aku, sebab engkau memanggil aku.”",
-                "Tetapi Eli menjawab, “Aku tidak memanggilmu, anakku. Pergilah kembali dan berbaringlah.”"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Samuel belum mengenal Tuhan, dan firman Tuhan belum dinyatakan kepadanya."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Tuhan memanggil Samuel untuk ketiga kalinya.",
-                "Ia bangun, pergi kepada Eli, dan berkata, “Ini aku, sebab engkau memanggil aku.”",
-                "Kemudian Eli mengerti bahwa Tuhan memanggil anak itu."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Maka Eli berkata kepada Samuel, “Pergilah dan berbaringlah, dan jika Dia memanggilmu lagi, katakanlah, ‘Berbicaralah, Tuhan, sebab hamba-Mu mendengarkan.’”",
-                "Maka Samuel pergi dan berbaring di tempatnya."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Tuhan datang dan berdiri di dekatnya, memanggil seperti yang telah dilakukan sebelumnya, “Samuel! Samuel!”",
-                "Kemudian Samuel berkata, “Berbicaralah, sebab hamba-Mu mendengarkan.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Dan Tuhan berkata kepada Samuel, “Lihatlah, Aku akan melakukan sesuatu di Israel yang akan membuat telinga setiap orang yang mendengarnya bergetar."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Pada hari itu Aku akan melaksanakan terhadap Eli segala sesuatu yang telah Kukatakan mengenai keluarganya—dari awal hingga akhir."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Sebab Aku telah memberitahunya bahwa Aku akan menghakimi keluarganya untuk selamanya karena kejahatan yang diketahuinya—bagaimana anak-anaknya menghujat Allah, dan ia tidak menahan mereka."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Oleh karena itu Aku bersumpah kepada keluarga Eli, ‘Kesalahan keluarga Eli tidak akan pernah dihapuskan dengan korban atau persembahan.’”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Samuel berbaring hingga pagi. Kemudian ia membuka pintu-pintu rumah Tuhan.",
-                "Tetapi Samuel takut untuk memberitahu Eli tentang penglihatan itu."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Eli memanggilnya dan berkata, “Samuel, anakku.”",
-                "Samuel menjawab, “Ini aku.”"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "“Apa yang Dia katakan kepadamu?” tanya Eli. “Jangan sembunyikan dariku. Semoga Allah menghukummu, seberat apa pun, jika engkau menyembunyikan dariku apa pun yang Dia katakan kepadamu.”"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Maka Samuel memberitahunya segala sesuatu dan tidak menyembunyikan apa pun.",
-                "Kemudian Eli berkata, “Dia adalah Tuhan; biarlah Dia melakukan apa yang baik di mata-Nya.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Samuel bertumbuh besar, dan Tuhan menyertainya, dan Dia tidak membiarkan satu pun dari perkataan Samuel jatuh ke tanah."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Dan seluruh Israel dari Dan sampai Bersyeba mengakui bahwa Samuel telah diteguhkan sebagai nabi Tuhan."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Tuhan terus menampakkan diri di Silo, sebab di sana Dia menyatakan diri-Nya kepada Samuel melalui firman-Nya."
-            ]
-        }
-    ]
+  "book": "1 Samuel",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Anak itu, Samuel, melayani di hadapan Tuhan di bawah pengawasan Eli.",
+        "Pada masa itu firman Tuhan jarang; penglihatan-penglihatan tidak tersebar luas."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Pada suatu malam Eli, yang penglihatannya telah kabur sehingga ia tidak dapat melihat dengan baik, sedang berbaring di tempat biasanya."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Lampu Tuhan belum padam, dan Samuel sedang berbaring di bait Tuhan, tempat tabut Tuhan berada."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Kemudian Tuhan memanggil Samuel.", "Ia menjawab, “Ini aku!”"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Ia berlari kepada Eli dan berkata, “Ini aku, sebab engkau memanggil aku.”",
+        "Tetapi Eli berkata, “Aku tidak memanggilmu; pergilah kembali dan berbaringlah.”",
+        "Maka ia pergi dan berbaring."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Sekali lagi Tuhan memanggil, “Samuel!”",
+        "Samuel bangun dan pergi kepada Eli dan berkata, “Ini aku, sebab engkau memanggil aku.”",
+        "Tetapi Eli menjawab, “Aku tidak memanggilmu, anakku. Pergilah kembali dan berbaringlah.”"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": ["Samuel belum mengenal Tuhan, dan firman Tuhan belum dinyatakan kepadanya."]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Tuhan memanggil Samuel untuk ketiga kalinya.",
+        "Ia bangun, pergi kepada Eli, dan berkata, “Ini aku, sebab engkau memanggil aku.”",
+        "Kemudian Eli mengerti bahwa Tuhan memanggil anak itu."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Maka Eli berkata kepada Samuel, “Pergilah dan berbaringlah, dan jika Dia memanggilmu lagi, katakanlah, ‘Berbicaralah, Tuhan, sebab hamba-Mu mendengarkan.’”",
+        "Maka Samuel pergi dan berbaring di tempatnya."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Tuhan datang dan berdiri di dekatnya, memanggil seperti yang telah dilakukan sebelumnya, “Samuel! Samuel!”",
+        "Kemudian Samuel berkata, “Berbicaralah, sebab hamba-Mu mendengarkan.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Dan Tuhan berkata kepada Samuel, “Lihatlah, Aku akan melakukan sesuatu di Israel yang akan membuat telinga setiap orang yang mendengarnya bergetar."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Pada hari itu Aku akan melaksanakan terhadap Eli segala sesuatu yang telah Kukatakan mengenai keluarganya—dari awal hingga akhir."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Sebab Aku telah memberitahunya bahwa Aku akan menghakimi keluarganya untuk selamanya karena kejahatan yang diketahuinya—bagaimana anak-anaknya menghujat Tuhan, dan ia tidak menahan mereka."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Oleh karena itu Aku bersumpah kepada keluarga Eli, ‘Kesalahan keluarga Eli tidak akan pernah dihapuskan dengan korban atau persembahan.’”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Samuel berbaring hingga pagi. Kemudian ia membuka pintu-pintu rumah Tuhan.",
+        "Tetapi Samuel takut untuk memberitahu Eli tentang penglihatan itu."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": ["Eli memanggilnya dan berkata, “Samuel, anakku.”", "Samuel menjawab, “Ini aku.”"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "“Apa yang Dia katakan kepadamu?” tanya Eli. “Jangan sembunyikan dariku. Semoga Tuhan menghukummu, seberat apa pun, jika engkau menyembunyikan dariku apa pun yang Dia katakan kepadamu.”"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Maka Samuel memberitahunya segala sesuatu dan tidak menyembunyikan apa pun.",
+        "Kemudian Eli berkata, “Dia adalah Tuhan; biarlah Dia melakukan apa yang baik di mata-Nya.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Samuel bertumbuh besar, dan Tuhan menyertainya, dan Dia tidak membiarkan satu pun dari perkataan Samuel jatuh ke tanah."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Dan seluruh Israel dari Dan sampai Bersyeba mengakui bahwa Samuel telah diteguhkan sebagai nabi Tuhan."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Tuhan terus menampakkan diri di Silo, sebab di sana Dia menyatakan diri-Nya kepada Samuel melalui firman-Nya."
+      ]
+    }
+  ]
 }

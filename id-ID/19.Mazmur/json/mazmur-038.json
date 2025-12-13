@@ -1,191 +1,164 @@
 {
-    "book": "Mazmur",
-    "chapter": 38,
-    "verses": [
-        {
-            "text": [
-                "Mazmur Daud, untuk mengingatkan."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Tuhan, janganlah menghukum aku dalam murka-Mu,",
-                "> Dan janganlah menghajar aku dalam amarah-Mu yang menyala."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Sebab anak panah-Mu telah menembus aku dalam-dalam,",
-                "> Dan tangan-Mu menekan aku dengan berat."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Tidak ada tempat yang sehat dalam tubuhku karena kemurkaan-Mu;",
-                "> Tidak ada kesehatan dalam tulang-tulangku karena dosaku."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Sebab kesalahanku telah membanjiri aku;",
-                "> Seperti beban yang berat, terlalu berat bagiku untuk menanggungnya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Luka-lukaku tidak menyenangkan dan meradang",
-                "> Karena kebodohanku sendiri."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Aku membungkuk dan sangat tertunduk;",
-                "> Aku berjalan dalam duka sepanjang hari."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Sebab pinggangku penuh dengan pembakaran,",
-                "> Dan tidak ada tempat yang sehat dalam tubuhku."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Aku merasa lemah dan sangat hancur;",
-                "> Aku mengerang karena kekacauan dalam hatiku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Tuhan, semua kerinduanku ada di hadapan-Mu;",
-                "> Dan keluhanku tidak tersembunyi dari-Mu."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Jantungku berdebar-debar, kekuatanku hilang;",
-                "> Dan cahaya mataku, bahkan itu telah meninggalkanku."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Orang-orang yang kucintai dan teman-temanku menjauh dari penderitaanku,",
-                "> Dan kerabatku berdiri jauh."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Mereka yang mencari nyawaku memasang jebakan untukku;",
-                "> Dan mereka yang ingin mencelakaiku berbicara tentang kehancuran,",
-                "> Dan merencanakan tipu daya sepanjang hari."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Tetapi aku, seperti orang tuli, tidak mendengar;",
-                "> Dan aku seperti orang yang tidak dapat berbicara, yang tidak membuka mulutnya."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Ya, aku seperti orang yang tidak mendengar,",
-                "> Dan di dalam mulutnya tidak ada argumen."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Sebab aku menunggu Engkau, Tuhan;",
-                "> Engkau akan menjawab, Tuhan, Allahku."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Sebab aku berkata, “Janganlah mereka bersukacita atas aku,",
-                "> Mereka yang, ketika kakiku tergelincir, akan meninggikan diri mereka atas aku.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Sebab aku hampir jatuh,",
-                "> Dan kesedihanku selalu ada di depanku."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Sebab aku mengakui kesalahanku;",
-                "> Aku dipenuhi dengan kecemasan karena dosaku."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Tetapi musuh-musuhku kuat dan kuat,",
-                "> Dan mereka yang membenci aku dengan tidak adil banyak."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Dan mereka yang membalas kejahatan untuk kebaikan,",
-                "> Mereka menentang aku, karena aku mengejar apa yang baik."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Jangan tinggalkan aku, Tuhan;",
-                "> Allahku, jangan jauh dariku!"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Segeralah menolong aku,",
-                "> Tuhan, keselamatanku!"
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 38,
+  "verses": [
+    {
+      "text": ["Mazmur Daud, untuk mengingatkan."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Tuhan, janganlah menghukum aku dalam murka-Mu,",
+        "> Dan janganlah menghajar aku dalam amarah-Mu yang menyala."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Sebab anak panah-Mu telah menembus aku dalam-dalam,",
+        "> Dan tangan-Mu menekan aku dengan berat."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Tidak ada tempat yang sehat dalam tubuhku karena kemurkaan-Mu;",
+        "> Tidak ada kesehatan dalam tulang-tulangku karena dosaku."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Sebab kesalahanku telah membanjiri aku;",
+        "> Seperti beban yang berat, terlalu berat bagiku untuk menanggungnya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": ["> Luka-lukaku tidak menyenangkan dan meradang", "> Karena kebodohanku sendiri."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Aku membungkuk dan sangat tertunduk;",
+        "> Aku berjalan dalam duka sepanjang hari."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Sebab pinggangku penuh dengan pembakaran,",
+        "> Dan tidak ada tempat yang sehat dalam tubuhku."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Aku merasa lemah dan sangat hancur;",
+        "> Aku mengerang karena kekacauan dalam hatiku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Tuhan, semua kerinduanku ada di hadapan-Mu;",
+        "> Dan keluhanku tidak tersembunyi dari-Mu."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Jantungku berdebar-debar, kekuatanku hilang;",
+        "> Dan cahaya mataku, bahkan itu telah meninggalkanku."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Orang-orang yang kucintai dan teman-temanku menjauh dari penderitaanku,",
+        "> Dan kerabatku berdiri jauh."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Mereka yang mencari nyawaku memasang jebakan untukku;",
+        "> Dan mereka yang ingin mencelakaiku berbicara tentang kehancuran,",
+        "> Dan merencanakan tipu daya sepanjang hari."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Tetapi aku, seperti orang tuli, tidak mendengar;",
+        "> Dan aku seperti orang yang tidak dapat berbicara, yang tidak membuka mulutnya."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Ya, aku seperti orang yang tidak mendengar,",
+        "> Dan di dalam mulutnya tidak ada argumen."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["> Sebab aku menunggu Engkau, Tuhan;", "> Engkau akan menjawab, Tuhan, Tuhanku."]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Sebab aku berkata, “Janganlah mereka bersukacita atas aku,",
+        "> Mereka yang, ketika kakiku tergelincir, akan meninggikan diri mereka atas aku.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": ["> Sebab aku hampir jatuh,", "> Dan kesedihanku selalu ada di depanku."]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Sebab aku mengakui kesalahanku;",
+        "> Aku dipenuhi dengan kecemasan karena dosaku."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> Tetapi musuh-musuhku kuat dan kuat,",
+        "> Dan mereka yang membenci aku dengan tidak adil banyak."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Dan mereka yang membalas kejahatan untuk kebaikan,",
+        "> Mereka menentang aku, karena aku mengejar apa yang baik."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 21,
+      "text": ["> Jangan tinggalkan aku, Tuhan;", "> Tuhanku, jangan jauh dariku!"]
+    },
+    {
+      "verse": 22,
+      "text": ["> Segeralah menolong aku,", "> Tuhan, keselamatanku!"]
+    }
+  ]
 }

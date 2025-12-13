@@ -2,7 +2,7 @@
 
 ## Amsal 30:1
 
-Perkataan Agur bin Yake, suatu ucapan. Orang ini menyatakan kepada Itiel, kepada Itiel dan Ukal: "Aku letih, ya Allah, tetapi aku dapat mengatasi.
+Perkataan Agur bin Yake, suatu ucapan. Orang ini menyatakan kepada Itiel, kepada Itiel dan Ukal: "Aku letih, ya Tuhan, tetapi aku dapat mengatasi.
 
 ## Amsal 30:2
 
@@ -18,7 +18,7 @@ Siapa yang naik ke surga dan turun? Siapa yang mengumpulkan angin dalam genggama
 
 ## Amsal 30:5
 
-Setiap firman Allah adalah murni; Dia adalah perisai bagi orang-orang yang mencari perlindungan pada-Nya.
+Setiap firman Tuhan adalah murni; Dia adalah perisai bagi orang-orang yang mencari perlindungan pada-Nya.
 
 ## Amsal 30:6
 
@@ -36,7 +36,7 @@ Jauhkanlah dariku kepalsuan dan tipu daya; jangan berikan kepadaku kemiskinan at
 
 ## Amsal 30:9
 
-Kalau tidak, aku mungkin menjadi terlalu kenyang dan menyangkal-Mu dan berkata, 'Siapa Tuhan?' Atau aku mungkin menjadi miskin dan mencuri, dan dengan demikian menodai nama Allahku.
+Kalau tidak, aku mungkin menjadi terlalu kenyang dan menyangkal-Mu dan berkata, 'Siapa Tuhan?' Atau aku mungkin menjadi miskin dan mencuri, dan dengan demikian menodai nama Tuhanku.
 
 ## Amsal 30:10
 

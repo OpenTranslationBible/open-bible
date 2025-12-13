@@ -59,7 +59,7 @@ bahwa aku tidak boleh pergi dan berperang melawan musuh tuanku raja?”
 ## 1 Samuel 29:9
 
 Tetapi Akhis menjawab Daud,  
-“Aku tahu bahwa kamu menyenangkan bagiku seperti malaikat Allah;  
+“Aku tahu bahwa kamu menyenangkan bagiku seperti malaikat Tuhan;  
 namun, para panglima orang Filistin telah berkata,  
 ‘Dia tidak boleh pergi bersama kita ke pertempuran.’
 

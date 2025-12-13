@@ -6,7 +6,7 @@ Apa penyebab pertengkaran dan perselisihan di antara kamu? Bukankah itu timbul d
 
 ## Yakobus 4:2
 
-Kamu mengingini sesuatu dan tidak memperolehnya, jadi kamu membunuh. Kamu iri hati dan tidak dapat mencapai tujuanmu, jadi kamu bertengkar dan berkelahi. Kamu tidak memperoleh apa-apa karena kamu tidak meminta kepada Allah.
+Kamu mengingini sesuatu dan tidak memperolehnya, jadi kamu membunuh. Kamu iri hati dan tidak dapat mencapai tujuanmu, jadi kamu bertengkar dan berkelahi. Kamu tidak memperoleh apa-apa karena kamu tidak meminta kepada Tuhan.
 
 ## Yakobus 4:3
 
@@ -14,7 +14,7 @@ Ketika kamu meminta, kamu tidak menerima, karena kamu meminta dengan motif yang 
 
 ## Yakobus 4:4
 
-Hai orang-orang yang tidak setia, tidakkah kamu tahu bahwa persahabatan dengan dunia adalah permusuhan dengan Allah? Oleh karena itu, siapa saja yang memilih untuk menjadi sahabat dunia menjadi musuh Allah.
+Hai orang-orang yang tidak setia, tidakkah kamu tahu bahwa persahabatan dengan dunia adalah permusuhan dengan Tuhan? Oleh karena itu, siapa saja yang memilih untuk menjadi sahabat dunia menjadi musuh Tuhan.
 
 ## Yakobus 4:5
 
@@ -24,16 +24,16 @@ Atau apakah kamu berpikir bahwa Kitab Suci berbicara tanpa alasan ketika dikatak
 
 Tetapi Ia memberikan kasih karunia yang lebih besar. Itulah sebabnya Kitab Suci mengatakan:
 
-> “Allah menentang orang yang sombong
+> “Tuhan menentang orang yang sombong
 > tetapi memberikan kasih karunia kepada orang yang rendah hati.”
 
 ## Yakobus 4:7
 
-Jadi, tempatkan dirimu di bawah otoritas Allah. Berdirilah melawan iblis, dan ia akan lari darimu.
+Jadi, tempatkan dirimu di bawah otoritas Tuhan. Berdirilah melawan iblis, dan ia akan lari darimu.
 
 ## Yakobus 4:8
 
-Dekatkan dirimu kepada Allah, dan Ia akan mendekat kepadamu. Bersihkan tanganmu, hai orang-orang berdosa, dan sucikan hatimu, hai orang yang mendua hati.
+Dekatkan dirimu kepada Tuhan, dan Ia akan mendekat kepadamu. Bersihkan tanganmu, hai orang-orang berdosa, dan sucikan hatimu, hai orang yang mendua hati.
 
 ## Yakobus 4:9
 

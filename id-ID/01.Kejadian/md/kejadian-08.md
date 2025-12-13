@@ -2,7 +2,7 @@
 
 ## Kejadian 8:1
 
-Tetapi Allah mengingat Nuh dan semua binatang serta ternak yang bersama-sama dengan dia di dalam bahtera, dan Dia mengirim angin melintasi bumi, menyebabkan air surut.
+Tetapi Tuhan mengingat Nuh dan semua binatang serta ternak yang bersama-sama dengan dia di dalam bahtera, dan Dia mengirim angin melintasi bumi, menyebabkan air surut.
 
 ## Kejadian 8:2
 
@@ -58,7 +58,7 @@ Pada hari kedua puluh tujuh bulan kedua, bumi benar-benar kering.
 
 ## Kejadian 8:15
 
-Kemudian Allah berbicara kepada Nuh, mengatakan,
+Kemudian Tuhan berbicara kepada Nuh, mengatakan,
 
 ## Kejadian 8:16
 

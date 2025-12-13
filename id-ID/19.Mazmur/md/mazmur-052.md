@@ -5,7 +5,7 @@
 ## Mazmur 52:1
 
 > Mengapa engkau bermegah dalam kejahatan, hai orang yang perkasa?  
-> Kesetiaan Allah bertahan sepanjang hari.
+> Kesetiaan Tuhan bertahan sepanjang hari.
 
 ## Mazmur 52:2
 
@@ -28,7 +28,7 @@
 
 ## Mazmur 52:5
 
-> Namun Allah akan menjatuhkanmu secara permanen;  
+> Namun Tuhan akan menjatuhkanmu secara permanen;  
 > Dia akan menangkapmu dan mengeluarkanmu dari tempat tinggalmu,  
 > Dan mencabutmu dari tanah orang yang hidup.
 
@@ -41,7 +41,7 @@
 
 ## Mazmur 52:7
 
-> “Lihatlah, orang yang tidak menjadikan Allah sebagai perlindungannya,  
+> “Lihatlah, orang yang tidak menjadikan Tuhan sebagai perlindungannya,  
 > Tetapi percaya pada kelimpahan kekayaannya,  
 > Dan mencari perlindungan dalam kehancurannya sendiri.”
 
@@ -49,8 +49,8 @@
 
 ## Mazmur 52:8
 
-> Tetapi aku, seperti pohon zaitun yang subur di rumah Allah;  
-> Aku percaya pada kesetiaan Allah untuk selama-lamanya.
+> Tetapi aku, seperti pohon zaitun yang subur di rumah Tuhan;  
+> Aku percaya pada kesetiaan Tuhan untuk selama-lamanya.
 
 ## Mazmur 52:9
 

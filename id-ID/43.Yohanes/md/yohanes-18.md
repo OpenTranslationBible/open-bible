@@ -84,7 +84,7 @@ Imam besar menanyai Yesus mengenai murid-murid-Nya dan ajaran-Nya.
 
 ## Yohanes 18:20
 
-Yesus menjawab, “Aku telah berbicara secara terbuka kepada dunia. Aku selalu mengajar di sinagoga dan di bait Allah, tempat semua orang Yahudi berkumpul. Aku tidak mengatakan apa pun secara rahasia.
+Yesus menjawab, “Aku telah berbicara secara terbuka kepada dunia. Aku selalu mengajar di sinagoga dan di bait Tuhan, tempat semua orang Yahudi berkumpul. Aku tidak mengatakan apa pun secara rahasia.
 
 ## Yohanes 18:21
 

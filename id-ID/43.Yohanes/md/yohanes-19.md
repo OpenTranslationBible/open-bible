@@ -26,7 +26,7 @@ Ketika para imam kepala dan petugas melihat Dia, mereka berteriak, “Salibkan D
 
 ## Yohanes 19:7
 
-Para pemimpin Yahudi menjawab, “Kami memiliki hukum, dan menurut hukum itu Dia harus mati, karena Dia menjadikan diri-Nya Anak Allah.”
+Para pemimpin Yahudi menjawab, “Kami memiliki hukum, dan menurut hukum itu Dia harus mati, karena Dia menjadikan diri-Nya Anak Tuhan.”
 
 ## Yohanes 19:8
 

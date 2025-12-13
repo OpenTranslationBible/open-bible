@@ -120,7 +120,7 @@ Mereka menyalibkan dua pemberontak di samping-Nya, satu di sebelah kanan dan sat
 
 ## Markus 15:29
 
-Orang-orang yang lewat menghina Dia, menggelengkan kepala dan berkata, "Ah! Engkau yang akan merobohkan Bait Allah dan membangunnya dalam tiga hari,
+Orang-orang yang lewat menghina Dia, menggelengkan kepala dan berkata, "Ah! Engkau yang akan merobohkan Bait Tuhan dan membangunnya dalam tiga hari,
 
 ## Markus 15:30
 
@@ -142,7 +142,7 @@ Ketika jam keenam, kegelapan meliputi seluruh negeri sampai jam kesembilan.
 
 ## Markus 15:34
 
-Pada jam kesembilan, Yesus berseru dengan suara nyaring, "Eloi, Eloi, lama sabakhtani?" yang berarti, "Allah-Ku, Allah-Ku, mengapa Engkau meninggalkan Aku?"
+Pada jam kesembilan, Yesus berseru dengan suara nyaring, "Eloi, Eloi, lama sabakhtani?" yang berarti, "Tuhan-Ku, Tuhan-Ku, mengapa Engkau meninggalkan Aku?"
 
 ## Markus 15:35
 
@@ -162,7 +162,7 @@ Tirai Bait Suci terbelah dua dari atas ke bawah.
 
 ## Markus 15:39
 
-Ketika perwira yang berdiri di depan-Nya melihat bagaimana Ia mati, ia berkata, "Sungguh, orang ini adalah Anak Allah!"
+Ketika perwira yang berdiri di depan-Nya melihat bagaimana Ia mati, ia berkata, "Sungguh, orang ini adalah Anak Tuhan!"
 
 ---
 
@@ -180,7 +180,7 @@ Hari itu adalah Hari Persiapan, yaitu hari sebelum Sabat. Ketika malam mendekat,
 
 ## Markus 15:43
 
-Yusuf dari Arimatea, seorang anggota terkemuka dari Majelis, yang juga menantikan kerajaan Allah, mengumpulkan keberanian dan pergi kepada Pilatus untuk meminta tubuh Yesus.
+Yusuf dari Arimatea, seorang anggota terkemuka dari Majelis, yang juga menantikan kerajaan Tuhan, mengumpulkan keberanian dan pergi kepada Pilatus untuk meminta tubuh Yesus.
 
 ## Markus 15:44
 

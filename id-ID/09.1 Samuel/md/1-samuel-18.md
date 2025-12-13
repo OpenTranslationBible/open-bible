@@ -45,7 +45,7 @@ Jadi Saul memandang Daud dengan curiga sejak hari itu.
 
 ## 1 Samuel 18:10
 
-Keesokan harinya, roh jahat dari Allah datang dengan kuat atas Saul, dan dia mengamuk di tengah rumah, sementara Daud bermain kecapi dengan tangannya, seperti biasa. Dan Saul memegang tombak di tangannya.
+Keesokan harinya, roh jahat dari Tuhan datang dengan kuat atas Saul, dan dia mengamuk di tengah rumah, sementara Daud bermain kecapi dengan tangannya, seperti biasa. Dan Saul memegang tombak di tangannya.
 
 ## 1 Samuel 18:11
 

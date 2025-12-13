@@ -14,7 +14,7 @@ Jemaat mengutus mereka dalam perjalanan, dan saat mereka melewati Fenisia dan Sa
 
 ## Kisah Para Rasul 15:4
 
-Setibanya di Yerusalem, mereka disambut oleh jemaat, para rasul, dan penatua, dan mereka melaporkan semua yang telah Allah lakukan melalui mereka.
+Setibanya di Yerusalem, mereka disambut oleh jemaat, para rasul, dan penatua, dan mereka melaporkan semua yang telah Tuhan lakukan melalui mereka.
 
 ## Kisah Para Rasul 15:5
 
@@ -28,11 +28,11 @@ Para rasul dan penatua berkumpul untuk membahas masalah ini.
 
 ## Kisah Para Rasul 15:7
 
-Setelah banyak diskusi, Petrus bangkit dan berbicara kepada mereka: "Saudara-saudara, kamu tahu bahwa beberapa waktu yang lalu Allah memilih di antara kamu agar orang-orang bukan Yahudi mendengar pesan Injil dari bibirku dan percaya.
+Setelah banyak diskusi, Petrus bangkit dan berbicara kepada mereka: "Saudara-saudara, kamu tahu bahwa beberapa waktu yang lalu Tuhan memilih di antara kamu agar orang-orang bukan Yahudi mendengar pesan Injil dari bibirku dan percaya.
 
 ## Kisah Para Rasul 15:8
 
-Allah, yang mengetahui hati, memberi kesaksian dengan memberikan mereka Roh Kudus, sama seperti yang Dia lakukan kepada kita.
+Tuhan, yang mengetahui hati, memberi kesaksian dengan memberikan mereka Roh Kudus, sama seperti yang Dia lakukan kepada kita.
 
 ## Kisah Para Rasul 15:9
 
@@ -40,7 +40,7 @@ Dia tidak membedakan antara kita dan mereka, menyucikan hati mereka melalui iman
 
 ## Kisah Para Rasul 15:10
 
-Jadi mengapa kamu menguji Allah dengan meletakkan pada leher para murid suatu kuk yang tidak dapat ditanggung oleh nenek moyang kita maupun kita sendiri?
+Jadi mengapa kamu menguji Tuhan dengan meletakkan pada leher para murid suatu kuk yang tidak dapat ditanggung oleh nenek moyang kita maupun kita sendiri?
 
 ## Kisah Para Rasul 15:11
 
@@ -50,7 +50,7 @@ Sesungguhnya, kita yakin bahwa melalui kasih karunia Tuhan kita Yesus, kita dise
 
 ## Kisah Para Rasul 15:12
 
-Seluruh jemaat menjadi diam saat mereka mendengarkan Barnabas dan Paulus menggambarkan tanda-tanda dan keajaiban yang telah dilakukan Allah di antara orang-orang bukan Yahudi melalui mereka.
+Seluruh jemaat menjadi diam saat mereka mendengarkan Barnabas dan Paulus menggambarkan tanda-tanda dan keajaiban yang telah dilakukan Tuhan di antara orang-orang bukan Yahudi melalui mereka.
 
 ## Kisah Para Rasul 15:13
 
@@ -58,7 +58,7 @@ Ketika mereka selesai, Yakobus berbicara: "Saudara-saudara, dengarkan aku.
 
 ## Kisah Para Rasul 15:14
 
-Simeon telah menjelaskan bagaimana Allah pertama kali campur tangan untuk memilih suatu umat bagi nama-Nya dari antara orang-orang bukan Yahudi.
+Simeon telah menjelaskan bagaimana Tuhan pertama kali campur tangan untuk memilih suatu umat bagi nama-Nya dari antara orang-orang bukan Yahudi.
 
 ## Kisah Para Rasul 15:15
 
@@ -84,7 +84,7 @@ Pesan para nabi sejalan dengan ini, seperti yang tertulis:
 
 ## Kisah Para Rasul 15:19
 
-Oleh karena itu, menurut pendapatku kita tidak boleh menyusahkan orang-orang bukan Yahudi yang berbalik kepada Allah,
+Oleh karena itu, menurut pendapatku kita tidak boleh menyusahkan orang-orang bukan Yahudi yang berbalik kepada Tuhan,
 
 ## Kisah Para Rasul 15:20
 

@@ -168,15 +168,15 @@ Aku membagikan kepadamu apa yang telah Aku lihat di hadirat Bapa, dan kamu melak
 
 ## Yohanes 8:40
 
-Sebaliknya, kamu berusaha membunuh Aku, seorang manusia yang telah memberitahumu kebenaran yang Aku dengar dari Allah. Abraham tidak melakukan hal-hal seperti itu.
+Sebaliknya, kamu berusaha membunuh Aku, seorang manusia yang telah memberitahumu kebenaran yang Aku dengar dari Tuhan. Abraham tidak melakukan hal-hal seperti itu.
 
 ## Yohanes 8:41
 
-Kamu mengikuti cara-cara bapamu sendiri.” “Kami bukan anak-anak haram,” mereka memprotes. “Satu-satunya Bapa yang kami miliki adalah Allah sendiri.”
+Kamu mengikuti cara-cara bapamu sendiri.” “Kami bukan anak-anak haram,” mereka memprotes. “Satu-satunya Bapa yang kami miliki adalah Tuhan sendiri.”
 
 ## Yohanes 8:42
 
-Yesus berkata kepada mereka, “Jika Allah adalah Bapamu, kamu akan mengasihi Aku, karena Aku datang dari Allah. Aku tidak datang atas kehendak-Ku sendiri; Allah mengutus Aku.
+Yesus berkata kepada mereka, “Jika Tuhan adalah Bapamu, kamu akan mengasihi Aku, karena Aku datang dari Tuhan. Aku tidak datang atas kehendak-Ku sendiri; Tuhan mengutus Aku.
 
 ## Yohanes 8:43
 
@@ -196,7 +196,7 @@ Dapatkah salah satu dari kamu membuktikan Aku bersalah atas dosa? Jika Aku menga
 
 ## Yohanes 8:47
 
-Barangsiapa berasal dari Allah mendengar firman Allah. Alasan kamu tidak mendengar adalah karena kamu bukan dari Allah.”
+Barangsiapa berasal dari Tuhan mendengar firman Tuhan. Alasan kamu tidak mendengar adalah karena kamu bukan dari Tuhan.”
 
 ---
 
@@ -226,7 +226,7 @@ Apakah Engkau lebih penting daripada bapak kami Abraham? Bahkan dia meninggal da
 
 ## Yohanes 8:54
 
-Yesus menjawab, “Jika Aku memuliakan diri-Ku sendiri, kemuliaan-Ku tidak berarti apa-apa. Bapa-Ku, yang kamu klaim sebagai Allahmu, yang memuliakan Aku.
+Yesus menjawab, “Jika Aku memuliakan diri-Ku sendiri, kemuliaan-Ku tidak berarti apa-apa. Bapa-Ku, yang kamu klaim sebagai Tuhanmu, yang memuliakan Aku.
 
 ## Yohanes 8:55
 

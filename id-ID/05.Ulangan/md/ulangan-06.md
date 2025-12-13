@@ -2,23 +2,23 @@
 
 ## Ulangan 6:1
 
-Inilah perintah-perintah, ketetapan-ketetapan, dan hukum-hukum yang diperintahkan Tuhan, Allahmu, kepadaku untuk mengajarkan kepadamu, supaya kamu melakukannya di negeri yang kamu seberangi Yordan untuk memilikinya,
+Inilah perintah-perintah, ketetapan-ketetapan, dan hukum-hukum yang diperintahkan Tuhan, Tuhanmu, kepadaku untuk mengajarkan kepadamu, supaya kamu melakukannya di negeri yang kamu seberangi Yordan untuk memilikinya,
 
 ## Ulangan 6:2
 
-supaya kamu, anak-anakmu, dan keturunan mereka takut akan Tuhan, Allahmu, dengan berpegang pada semua ketetapan dan perintah-Nya yang aku perintahkan kepadamu, sepanjang hidupmu, dan supaya kamu menikmati umur panjang.
+supaya kamu, anak-anakmu, dan keturunan mereka takut akan Tuhan, Tuhanmu, dengan berpegang pada semua ketetapan dan perintah-Nya yang aku perintahkan kepadamu, sepanjang hidupmu, dan supaya kamu menikmati umur panjang.
 
 ## Ulangan 6:3
 
-Dengarlah, hai Israel, dan berusahalah untuk menaati supaya kamu beruntung dan supaya kamu bertambah banyak di negeri yang berlimpah susu dan madu, seperti yang dijanjikan Tuhan, Allah nenek moyangmu, kepadamu.
+Dengarlah, hai Israel, dan berusahalah untuk menaati supaya kamu beruntung dan supaya kamu bertambah banyak di negeri yang berlimpah susu dan madu, seperti yang dijanjikan Tuhan, Tuhan nenek moyangmu, kepadamu.
 
 ## Ulangan 6:4
 
-Dengarlah, hai Israel: Tuhan itu Allah kita, Tuhan itu esa.
+Dengarlah, hai Israel: Tuhan itu Tuhan kita, Tuhan itu esa.
 
 ## Ulangan 6:5
 
-Kasihilah Tuhan, Allahmu, dengan segenap hatimu, dengan segenap jiwamu, dan dengan segenap kekuatanmu.
+Kasihilah Tuhan, Tuhanmu, dengan segenap hatimu, dengan segenap jiwamu, dan dengan segenap kekuatanmu.
 
 ## Ulangan 6:6
 
@@ -38,7 +38,7 @@ Tuliskanlah itu pada tiang pintu rumahmu dan pada gerbang-gerbangmu.
 
 ## Ulangan 6:10
 
-Ketika Tuhan, Allahmu, membawa kamu ke negeri yang dijanjikan-Nya dengan sumpah kepada nenek moyangmu, kepada Abraham, Ishak, dan Yakub, untuk memberikannya kepadamu—kota-kota besar dan indah yang tidak kamu bangun,
+Ketika Tuhan, Tuhanmu, membawa kamu ke negeri yang dijanjikan-Nya dengan sumpah kepada nenek moyangmu, kepada Abraham, Ishak, dan Yakub, untuk memberikannya kepadamu—kota-kota besar dan indah yang tidak kamu bangun,
 
 ## Ulangan 6:11
 
@@ -50,23 +50,23 @@ berhati-hatilah supaya tidak melupakan Tuhan, yang membawa kamu keluar dari Mesi
 
 ## Ulangan 6:13
 
-Sembahlah Tuhan, Allahmu, dan layanilah Dia saja, dan bersumpahlah demi nama-Nya.
+Sembahlah Tuhan, Tuhanmu, dan layanilah Dia saja, dan bersumpahlah demi nama-Nya.
 
 ## Ulangan 6:14
 
-Jangan mengikuti allah lain, salah satu dari allah bangsa-bangsa di sekitarmu;
+Jangan mengikuti Tuhan lain, salah satu dari Tuhan bangsa-bangsa di sekitarmu;
 
 ## Ulangan 6:15
 
-karena Tuhan, Allahmu, yang ada di tengah-tengahmu, adalah Allah yang cemburu; jika tidak, murka Tuhan, Allahmu, akan menyala terhadapmu, dan Dia akan menghapuskanmu dari muka bumi.
+karena Tuhan, Tuhanmu, yang ada di tengah-tengahmu, adalah Tuhan yang cemburu; jika tidak, murka Tuhan, Tuhanmu, akan menyala terhadapmu, dan Dia akan menghapuskanmu dari muka bumi.
 
 ## Ulangan 6:16
 
-Jangan menguji Tuhan, Allahmu, seperti yang kamu lakukan di Masa.
+Jangan menguji Tuhan, Tuhanmu, seperti yang kamu lakukan di Masa.
 
 ## Ulangan 6:17
 
-Pastikan untuk mematuhi perintah-perintah Tuhan, Allahmu, dan ketetapan-ketetapan serta hukum-hukum yang diberikan-Nya kepadamu.
+Pastikan untuk mematuhi perintah-perintah Tuhan, Tuhanmu, dan ketetapan-ketetapan serta hukum-hukum yang diberikan-Nya kepadamu.
 
 ## Ulangan 6:18
 
@@ -78,7 +78,7 @@ dengan mengusir semua musuhmu dari hadapanmu, seperti yang telah difirmankan Tuh
 
 ## Ulangan 6:20
 
-Di masa depan, ketika anakmu bertanya kepadamu, “Apa arti dari ketetapan-ketetapan, hukum-hukum, dan peraturan-peraturan yang diperintahkan Tuhan, Allah kita, kepadamu?”
+Di masa depan, ketika anakmu bertanya kepadamu, “Apa arti dari ketetapan-ketetapan, hukum-hukum, dan peraturan-peraturan yang diperintahkan Tuhan, Tuhan kita, kepadamu?”
 
 ## Ulangan 6:21
 
@@ -94,8 +94,8 @@ Namun Dia membawa kita keluar dari sana untuk membawa kita masuk dan memberikan 
 
 ## Ulangan 6:24
 
-Tuhan memerintahkan kita untuk mengikuti semua ketetapan ini dan untuk takut akan Tuhan, Allah kita, demi kebaikan kita selalu dan untuk kelangsungan hidup kita, seperti yang terjadi hari ini.
+Tuhan memerintahkan kita untuk mengikuti semua ketetapan ini dan untuk takut akan Tuhan, Tuhan kita, demi kebaikan kita selalu dan untuk kelangsungan hidup kita, seperti yang terjadi hari ini.
 
 ## Ulangan 6:25
 
-Dan itu akan menjadi kebenaran kita jika kita berhati-hati untuk menaati semua perintah ini di hadapan Tuhan, Allah kita, seperti yang diperintahkan-Nya kepada kita.
+Dan itu akan menjadi kebenaran kita jika kita berhati-hati untuk menaati semua perintah ini di hadapan Tuhan, Tuhan kita, seperti yang diperintahkan-Nya kepada kita.

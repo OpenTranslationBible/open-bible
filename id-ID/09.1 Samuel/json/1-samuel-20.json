@@ -1,317 +1,305 @@
 {
-    "book": "1 Samuel",
-    "chapter": 20,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Kemudian Daud melarikan diri dari Naiot di Rama, dan datang dan berkata kepada Yonatan,",
-                "“Apa yang telah aku lakukan? Apa kesalahanku? Apa dosaku di hadapan ayahmu, sehingga ia mencari nyawaku?”"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Tetapi ia berkata kepadanya, “Jauhkanlah itu! Engkau tidak akan mati. Lihatlah, ayahku tidak melakukan apa pun, baik besar maupun kecil, tanpa memberitahuku.",
-                "Mengapa ayahku menyembunyikan hal ini dariku? Tidak mungkin!”"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Namun Daud bersumpah lagi dan berkata, “Ayahmu tahu betul bahwa aku telah mendapat kasih karunia di matamu, dan ia telah berkata,",
-                "‘Yonatan tidak boleh mengetahui hal ini, agar ia tidak berduka.’",
-                "Tetapi sungguh, demi Tuhan yang hidup dan demi hidupmu sendiri, hanya ada satu langkah antara aku dan kematian.”"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Kemudian Yonatan meyakinkan Daud, “Aku akan melakukan apa pun yang engkau minta.”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Daud berkata kepada Yonatan, “Lihatlah, besok adalah bulan baru, dan aku diharapkan duduk dengan raja untuk makan.",
-                "Tetapi biarkan aku pergi, agar aku dapat menyembunyikan diri di ladang sampai malam ketiga."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Jika ayahmu merindukanku, maka katakan, ‘Daud dengan sungguh-sungguh meminta izin dariku untuk pergi ke Betlehem, kotanya,",
-                "karena ada korban tahunan di sana untuk seluruh keluarga.’"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Jika ia berkata, ‘Baiklah,’ hambamu akan aman;",
-                "tetapi jika ia menjadi marah, ketahuilah bahwa ia telah memutuskan untuk mencelakakanku."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Oleh karena itu, perlakukanlah hambamu dengan baik, karena engkau telah membawa hambamu ke dalam perjanjian Tuhan denganmu.",
-                "Tetapi jika ada kesalahan padaku, bunuhlah aku sendiri; mengapa engkau harus membawaku kepada ayahmu?”"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Yonatan berkata, “Jauhkanlah itu darimu! Sebab jika aku benar-benar mengetahui bahwa ayahku telah memutuskan untuk mencelakakanmu, tidakkah aku akan memberitahumu?”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Kemudian Daud bertanya kepada Yonatan, “Bagaimana aku akan tahu jika ayahmu menjawabmu dengan kasar?”"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Yonatan berkata kepada Daud, “Mari, marilah kita pergi ke ladang.”",
-                "Maka keduanya pergi ke ladang."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Kemudian Yonatan berkata kepada Daud, “Tuhan, Allah Israel, menjadi saksi!",
-                "Ketika aku telah menyelidiki ayahku tentang waktu ini besok atau hari ketiga,",
-                "jika semuanya baik dengan Daud, tidakkah aku akan mengirim kabar kepadamu dan mengungkapkannya kepadamu?"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Tetapi jika ayahku berkenan mencelakakanmu, semoga Tuhan memperlakukan aku, Yonatan, dengan keras, dan lebih buruk,",
-                "jika aku tidak memberitahumu dan mengirimmu pergi, agar engkau dapat pergi dengan aman.",
-                "Dan semoga Tuhan menyertaimu seperti Ia telah menyertai ayahku."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Jika aku masih hidup, tidakkah engkau akan menunjukkan kasih setia Tuhan kepadaku, agar aku tidak mati?"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Dan engkau tidak akan memutuskan kesetiaanmu dari keluargaku untuk selamanya,",
-                "bahkan ketika Tuhan melenyapkan setiap musuh Daud dari muka bumi.”"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Maka Yonatan membuat perjanjian dengan keluarga Daud, dengan berkata, “Semoga Tuhan menuntut pertanggungjawaban musuh-musuh Daud.”"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Yonatan membuat Daud bersumpah lagi karena cintanya kepadanya,",
-                "karena ia mencintainya seperti ia mencintai nyawanya sendiri."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Kemudian Yonatan berkata kepadanya, “Besok adalah bulan baru, dan engkau akan dirindukan, karena tempat dudukmu akan kosong."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Ketika engkau telah tinggal selama tiga hari, engkau harus segera pergi dan datang ke tempat di mana engkau menyembunyikan diri pada hari yang penting itu,",
-                "dan engkau harus tinggal di samping batu Ezel."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Dan aku akan menembakkan tiga anak panah ke samping, seolah-olah mengarah ke sasaran."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Kemudian lihatlah, aku akan mengirim anak laki-laki dan berkata, ‘Pergi, temukan anak panah itu.’",
-                "Jika aku secara khusus berkata kepada anak laki-laki itu, ‘Lihatlah, anak panah itu ada di sisi ini darimu; ambillah,’",
-                "maka keluarlah, karena ada keselamatan bagimu dan tidak ada bahaya, demi Tuhan yang hidup."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Tetapi jika aku berkata kepada pemuda itu, ‘Lihatlah, anak panah itu ada di seberangmu,’ maka pergilah, karena Tuhan telah mengirimmu pergi."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Adapun hal yang telah engkau dan aku bicarakan, lihatlah, Tuhan ada di antara engkau dan aku untuk selamanya.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Maka Daud bersembunyi di ladang; dan ketika bulan baru datang, raja duduk untuk makan."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Raja duduk di tempat duduknya seperti biasa, tempat duduk di dekat dinding;",
-                "kemudian Yonatan bangkit dan Abner duduk di samping Saul, tetapi tempat Daud kosong."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Namun Saul tidak mengatakan apa-apa hari itu, karena ia berpikir,",
-                "“Pasti itu suatu kecelakaan; ia tidak bersih secara seremonial; pasti ia tidak bersih.”"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Dan terjadilah keesokan harinya, hari kedua bulan baru, bahwa tempat Daud kosong.",
-                "Maka Saul berkata kepada Yonatan, anaknya, “Mengapa anak Isai tidak datang ke makan, baik kemarin maupun hari ini?”"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Yonatan menjawab Saul, “Daud dengan sungguh-sungguh meminta izin dariku untuk pergi ke Betlehem."
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "Ia berkata, ‘Tolong biarkan aku pergi, karena keluarga kami memiliki korban di kota, dan saudaraku telah memerintahkanku untuk hadir.",
-                "Sekarang jika aku telah mendapat kasih karunia di matamu, tolong biarkan aku pergi agar aku dapat melihat saudara-saudaraku.’",
-                "Karena alasan itu ia tidak datang ke meja raja.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "Kemudian kemarahan Saul menyala terhadap Yonatan dan ia berkata kepadanya,",
-                "“Engkau anak dari perempuan yang sesat dan pemberontak!",
-                "Tidakkah aku tahu bahwa engkau memilih anak Isai untuk mempermalukan dirimu sendiri dan mempermalukan ibumu?"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Karena selama anak Isai hidup di bumi, engkau dan kerajaanmu tidak akan berdiri.",
-                "Sekarang, kirimlah seseorang dan bawa dia kepadaku, karena ia harus mati!”"
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Tetapi Yonatan menjawab ayahnya, Saul, dan bertanya, “Mengapa ia harus dibunuh? Apa yang telah ia lakukan?”"
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "Kemudian Saul melemparkan tombaknya kepadanya untuk memukulnya; maka Yonatan menyadari bahwa ayahnya bertekad untuk membunuh Daud."
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "Maka Yonatan bangkit dari meja dengan marah yang membara, dan tidak makan makanan pada hari kedua bulan baru,",
-                "karena ia berduka atas Daud karena ayahnya telah menghina dia."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "Sekarang terjadilah pada pagi hari bahwa Yonatan pergi ke ladang untuk bertemu dengan Daud,",
-                "dan seorang anak kecil bersamanya."
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "Dan ia berkata kepada anaknya, “Lari, temukan sekarang anak panah yang akan kutembakkan.”",
-                "Saat anak itu berlari, ia menembakkan anak panah melewatinya."
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "Ketika anak itu mencapai tempat anak panah yang telah ditembakkan Yonatan,",
-                "Yonatan memanggil anak itu dan berkata, “Bukankah anak panah itu ada di seberangmu?”"
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "Dan Yonatan memanggil anak itu, “Cepat, cepat, jangan tinggal!”",
-                "Dan anak Yonatan mengambil anak panah itu dan datang kepada tuannya."
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "Tetapi anak itu tidak menyadari apa pun; hanya Yonatan dan Daud yang memahami masalah itu."
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "Kemudian Yonatan menyerahkan senjatanya kepada anaknya dan memerintahkannya, “Pergi, bawalah ke kota.”"
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "Ketika anak itu pergi, Daud bangkit dari sisi selatan dan jatuh dengan wajahnya ke tanah,",
-                "dan sujud tiga kali. Dan mereka saling mencium dan menangis bersama, tetapi Daud menangis lebih banyak."
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "Yonatan berkata kepada Daud, “Pergilah dengan selamat, karena kita telah bersumpah demi nama Tuhan, dengan berkata,",
-                "‘Tuhan akan ada di antara aku dan engkau, dan antara keturunanku dan keturunanmu untuk selamanya.’”",
-                "Maka Daud pergi dan Yonatan masuk ke kota."
-            ]
-        }
-    ]
+  "book": "1 Samuel",
+  "chapter": 20,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Kemudian Daud melarikan diri dari Naiot di Rama, dan datang dan berkata kepada Yonatan,",
+        "“Apa yang telah aku lakukan? Apa kesalahanku? Apa dosaku di hadapan ayahmu, sehingga ia mencari nyawaku?”"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Tetapi ia berkata kepadanya, “Jauhkanlah itu! Engkau tidak akan mati. Lihatlah, ayahku tidak melakukan apa pun, baik besar maupun kecil, tanpa memberitahuku.",
+        "Mengapa ayahku menyembunyikan hal ini dariku? Tidak mungkin!”"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Namun Daud bersumpah lagi dan berkata, “Ayahmu tahu betul bahwa aku telah mendapat kasih karunia di matamu, dan ia telah berkata,",
+        "‘Yonatan tidak boleh mengetahui hal ini, agar ia tidak berduka.’",
+        "Tetapi sungguh, demi Tuhan yang hidup dan demi hidupmu sendiri, hanya ada satu langkah antara aku dan kematian.”"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Kemudian Yonatan meyakinkan Daud, “Aku akan melakukan apa pun yang engkau minta.”"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Daud berkata kepada Yonatan, “Lihatlah, besok adalah bulan baru, dan aku diharapkan duduk dengan raja untuk makan.",
+        "Tetapi biarkan aku pergi, agar aku dapat menyembunyikan diri di ladang sampai malam ketiga."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Jika ayahmu merindukanku, maka katakan, ‘Daud dengan sungguh-sungguh meminta izin dariku untuk pergi ke Betlehem, kotanya,",
+        "karena ada korban tahunan di sana untuk seluruh keluarga.’"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Jika ia berkata, ‘Baiklah,’ hambamu akan aman;",
+        "tetapi jika ia menjadi marah, ketahuilah bahwa ia telah memutuskan untuk mencelakakanku."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Oleh karena itu, perlakukanlah hambamu dengan baik, karena engkau telah membawa hambamu ke dalam perjanjian Tuhan denganmu.",
+        "Tetapi jika ada kesalahan padaku, bunuhlah aku sendiri; mengapa engkau harus membawaku kepada ayahmu?”"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Yonatan berkata, “Jauhkanlah itu darimu! Sebab jika aku benar-benar mengetahui bahwa ayahku telah memutuskan untuk mencelakakanmu, tidakkah aku akan memberitahumu?”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Kemudian Daud bertanya kepada Yonatan, “Bagaimana aku akan tahu jika ayahmu menjawabmu dengan kasar?”"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Yonatan berkata kepada Daud, “Mari, marilah kita pergi ke ladang.”",
+        "Maka keduanya pergi ke ladang."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Kemudian Yonatan berkata kepada Daud, “Tuhan, Tuhan Israel, menjadi saksi!",
+        "Ketika aku telah menyelidiki ayahku tentang waktu ini besok atau hari ketiga,",
+        "jika semuanya baik dengan Daud, tidakkah aku akan mengirim kabar kepadamu dan mengungkapkannya kepadamu?"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Tetapi jika ayahku berkenan mencelakakanmu, semoga Tuhan memperlakukan aku, Yonatan, dengan keras, dan lebih buruk,",
+        "jika aku tidak memberitahumu dan mengirimmu pergi, agar engkau dapat pergi dengan aman.",
+        "Dan semoga Tuhan menyertaimu seperti Ia telah menyertai ayahku."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Jika aku masih hidup, tidakkah engkau akan menunjukkan kasih setia Tuhan kepadaku, agar aku tidak mati?"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Dan engkau tidak akan memutuskan kesetiaanmu dari keluargaku untuk selamanya,",
+        "bahkan ketika Tuhan melenyapkan setiap musuh Daud dari muka bumi.”"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Maka Yonatan membuat perjanjian dengan keluarga Daud, dengan berkata, “Semoga Tuhan menuntut pertanggungjawaban musuh-musuh Daud.”"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Yonatan membuat Daud bersumpah lagi karena cintanya kepadanya,",
+        "karena ia mencintainya seperti ia mencintai nyawanya sendiri."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Kemudian Yonatan berkata kepadanya, “Besok adalah bulan baru, dan engkau akan dirindukan, karena tempat dudukmu akan kosong."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Ketika engkau telah tinggal selama tiga hari, engkau harus segera pergi dan datang ke tempat di mana engkau menyembunyikan diri pada hari yang penting itu,",
+        "dan engkau harus tinggal di samping batu Ezel."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Dan aku akan menembakkan tiga anak panah ke samping, seolah-olah mengarah ke sasaran."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Kemudian lihatlah, aku akan mengirim anak laki-laki dan berkata, ‘Pergi, temukan anak panah itu.’",
+        "Jika aku secara khusus berkata kepada anak laki-laki itu, ‘Lihatlah, anak panah itu ada di sisi ini darimu; ambillah,’",
+        "maka keluarlah, karena ada keselamatan bagimu dan tidak ada bahaya, demi Tuhan yang hidup."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Tetapi jika aku berkata kepada pemuda itu, ‘Lihatlah, anak panah itu ada di seberangmu,’ maka pergilah, karena Tuhan telah mengirimmu pergi."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Adapun hal yang telah engkau dan aku bicarakan, lihatlah, Tuhan ada di antara engkau dan aku untuk selamanya.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Maka Daud bersembunyi di ladang; dan ketika bulan baru datang, raja duduk untuk makan."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Raja duduk di tempat duduknya seperti biasa, tempat duduk di dekat dinding;",
+        "kemudian Yonatan bangkit dan Abner duduk di samping Saul, tetapi tempat Daud kosong."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Namun Saul tidak mengatakan apa-apa hari itu, karena ia berpikir,",
+        "“Pasti itu suatu kecelakaan; ia tidak bersih secara seremonial; pasti ia tidak bersih.”"
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Dan terjadilah keesokan harinya, hari kedua bulan baru, bahwa tempat Daud kosong.",
+        "Maka Saul berkata kepada Yonatan, anaknya, “Mengapa anak Isai tidak datang ke makan, baik kemarin maupun hari ini?”"
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Yonatan menjawab Saul, “Daud dengan sungguh-sungguh meminta izin dariku untuk pergi ke Betlehem."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Ia berkata, ‘Tolong biarkan aku pergi, karena keluarga kami memiliki korban di kota, dan saudaraku telah memerintahkanku untuk hadir.",
+        "Sekarang jika aku telah mendapat kasih karunia di matamu, tolong biarkan aku pergi agar aku dapat melihat saudara-saudaraku.’",
+        "Karena alasan itu ia tidak datang ke meja raja.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 30,
+      "text": [
+        "Kemudian kemarahan Saul menyala terhadap Yonatan dan ia berkata kepadanya,",
+        "“Engkau anak dari perempuan yang sesat dan pemberontak!",
+        "Tidakkah aku tahu bahwa engkau memilih anak Isai untuk mempermalukan dirimu sendiri dan mempermalukan ibumu?"
+      ]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Karena selama anak Isai hidup di bumi, engkau dan kerajaanmu tidak akan berdiri.",
+        "Sekarang, kirimlah seseorang dan bawa dia kepadaku, karena ia harus mati!”"
+      ]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "Tetapi Yonatan menjawab ayahnya, Saul, dan bertanya, “Mengapa ia harus dibunuh? Apa yang telah ia lakukan?”"
+      ]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "Kemudian Saul melemparkan tombaknya kepadanya untuk memukulnya; maka Yonatan menyadari bahwa ayahnya bertekad untuk membunuh Daud."
+      ]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "Maka Yonatan bangkit dari meja dengan marah yang membara, dan tidak makan makanan pada hari kedua bulan baru,",
+        "karena ia berduka atas Daud karena ayahnya telah menghina dia."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "Sekarang terjadilah pada pagi hari bahwa Yonatan pergi ke ladang untuk bertemu dengan Daud,",
+        "dan seorang anak kecil bersamanya."
+      ]
+    },
+    {
+      "verse": 36,
+      "text": [
+        "Dan ia berkata kepada anaknya, “Lari, temukan sekarang anak panah yang akan kutembakkan.”",
+        "Saat anak itu berlari, ia menembakkan anak panah melewatinya."
+      ]
+    },
+    {
+      "verse": 37,
+      "text": [
+        "Ketika anak itu mencapai tempat anak panah yang telah ditembakkan Yonatan,",
+        "Yonatan memanggil anak itu dan berkata, “Bukankah anak panah itu ada di seberangmu?”"
+      ]
+    },
+    {
+      "verse": 38,
+      "text": [
+        "Dan Yonatan memanggil anak itu, “Cepat, cepat, jangan tinggal!”",
+        "Dan anak Yonatan mengambil anak panah itu dan datang kepada tuannya."
+      ]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "Tetapi anak itu tidak menyadari apa pun; hanya Yonatan dan Daud yang memahami masalah itu."
+      ]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "Kemudian Yonatan menyerahkan senjatanya kepada anaknya dan memerintahkannya, “Pergi, bawalah ke kota.”"
+      ]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "Ketika anak itu pergi, Daud bangkit dari sisi selatan dan jatuh dengan wajahnya ke tanah,",
+        "dan sujud tiga kali. Dan mereka saling mencium dan menangis bersama, tetapi Daud menangis lebih banyak."
+      ]
+    },
+    {
+      "verse": 42,
+      "text": [
+        "Yonatan berkata kepada Daud, “Pergilah dengan selamat, karena kita telah bersumpah demi nama Tuhan, dengan berkata,",
+        "‘Tuhan akan ada di antara aku dan engkau, dan antara keturunanku dan keturunanmu untuk selamanya.’”",
+        "Maka Daud pergi dan Yonatan masuk ke kota."
+      ]
+    }
+  ]
 }

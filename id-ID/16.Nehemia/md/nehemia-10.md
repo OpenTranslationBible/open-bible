@@ -118,11 +118,11 @@ Para pemimpin rakyat:
 
 ## Nehemia 10:28
 
-Sekarang sisa dari orang-orang—para imam, orang-orang Lewi, penjaga pintu gerbang, para penyanyi, para pelayan bait, dan semua yang telah memisahkan diri dari bangsa-bangsa di tanah itu kepada Hukum Allah, bersama dengan istri-istri mereka, anak-anak laki-laki mereka, dan anak-anak perempuan mereka, semua yang memiliki pengetahuan dan pengertian—
+Sekarang sisa dari orang-orang—para imam, orang-orang Lewi, penjaga pintu gerbang, para penyanyi, para pelayan bait, dan semua yang telah memisahkan diri dari bangsa-bangsa di tanah itu kepada Hukum Tuhan, bersama dengan istri-istri mereka, anak-anak laki-laki mereka, dan anak-anak perempuan mereka, semua yang memiliki pengetahuan dan pengertian—
 
 ## Nehemia 10:29
 
-bergabung dengan saudara-saudara mereka, para bangsawan, dan mengambil atas diri mereka sendiri kutukan dan sumpah untuk berjalan dalam Hukum Allah, yang diberikan melalui Musa, hamba Allah, dan untuk menjaga dan mematuhi semua perintah, peraturan, dan ketetapan Tuhan Allah kita.
+bergabung dengan saudara-saudara mereka, para bangsawan, dan mengambil atas diri mereka sendiri kutukan dan sumpah untuk berjalan dalam Hukum Tuhan, yang diberikan melalui Musa, hamba Tuhan, dan untuk menjaga dan mematuhi semua perintah, peraturan, dan ketetapan Tuhan Tuhan kita.
 
 ## Nehemia 10:30
 
@@ -134,15 +134,15 @@ Adapun bangsa-bangsa di tanah yang membawa barang dagangan atau gandum pada hari
 
 ## Nehemia 10:32
 
-Kita juga menetapkan atas diri kita sendiri kewajiban untuk memberikan setiap tahun sepertiga syikal untuk pelayanan rumah Allah kita:
+Kita juga menetapkan atas diri kita sendiri kewajiban untuk memberikan setiap tahun sepertiga syikal untuk pelayanan rumah Tuhan kita:
 
 ## Nehemia 10:33
 
-untuk roti sajian, untuk persembahan gandum dan persembahan bakaran yang teratur, untuk hari Sabat, bulan baru, hari raya yang ditetapkan, untuk persembahan kudus, untuk persembahan dosa untuk mengadakan pendamaian bagi Israel, dan untuk semua tugas rumah Allah kita.
+untuk roti sajian, untuk persembahan gandum dan persembahan bakaran yang teratur, untuk hari Sabat, bulan baru, hari raya yang ditetapkan, untuk persembahan kudus, untuk persembahan dosa untuk mengadakan pendamaian bagi Israel, dan untuk semua tugas rumah Tuhan kita.
 
 ## Nehemia 10:34
 
-Demikian pula, kita membuang undi di antara para imam, orang-orang Lewi, dan rakyat untuk persediaan kayu, untuk membawanya ke rumah Allah kita, sesuai dengan keluarga kita, pada waktu yang ditetapkan setiap tahun, untuk dibakar di atas mezbah Tuhan Allah kita, seperti yang tertulis dalam Hukum.
+Demikian pula, kita membuang undi di antara para imam, orang-orang Lewi, dan rakyat untuk persediaan kayu, untuk membawanya ke rumah Tuhan kita, sesuai dengan keluarga kita, pada waktu yang ditetapkan setiap tahun, untuk dibakar di atas mezbah Tuhan Tuhan kita, seperti yang tertulis dalam Hukum.
 
 ## Nehemia 10:35
 
@@ -150,18 +150,18 @@ Kita juga mengambil tanggung jawab untuk membawa ke rumah Tuhan setiap tahun has
 
 ## Nehemia 10:36
 
-Dan untuk membawa ke rumah Allah kita anak sulung dari anak-anak laki-laki kita dan dari ternak kita, seperti yang tertulis dalam Hukum, dan anak sulung dari kawanan kita dan kawanan domba kita, kepada para imam yang melayani di rumah Allah kita.
+Dan untuk membawa ke rumah Tuhan kita anak sulung dari anak-anak laki-laki kita dan dari ternak kita, seperti yang tertulis dalam Hukum, dan anak sulung dari kawanan kita dan kawanan domba kita, kepada para imam yang melayani di rumah Tuhan kita.
 
 ## Nehemia 10:37
 
-Selain itu, kita akan membawa yang pertama dari adonan kita, persembahan kita, buah dari setiap pohon, anggur baru, dan minyak kepada para imam di kamar-kamar rumah Allah kita, dan persepuluhan dari tanah kita kepada orang-orang Lewi, karena orang-orang Lewi adalah mereka yang menerima persepuluhan di semua kota pedesaan.
+Selain itu, kita akan membawa yang pertama dari adonan kita, persembahan kita, buah dari setiap pohon, anggur baru, dan minyak kepada para imam di kamar-kamar rumah Tuhan kita, dan persepuluhan dari tanah kita kepada orang-orang Lewi, karena orang-orang Lewi adalah mereka yang menerima persepuluhan di semua kota pedesaan.
 
 ## Nehemia 10:38
 
-Dan imam, keturunan Harun, akan bersama orang-orang Lewi ketika orang-orang Lewi menerima persepuluhan, dan orang-orang Lewi akan membawa sepersepuluh dari persepuluhan itu ke rumah Allah kita, ke kamar-kamar gudang.
+Dan imam, keturunan Harun, akan bersama orang-orang Lewi ketika orang-orang Lewi menerima persepuluhan, dan orang-orang Lewi akan membawa sepersepuluh dari persepuluhan itu ke rumah Tuhan kita, ke kamar-kamar gudang.
 
 ## Nehemia 10:39
 
 Karena orang-orang Israel dan anak-anak Lewi akan membawa persembahan gandum, anggur baru, dan minyak ke ruang penyimpanan, di mana barang-barang untuk tempat kudus, para imam yang melayani, penjaga pintu gerbang, dan para penyanyi disimpan.
 
-Dengan demikian, kita tidak akan mengabaikan rumah Allah kita.
+Dengan demikian, kita tidak akan mengabaikan rumah Tuhan kita.

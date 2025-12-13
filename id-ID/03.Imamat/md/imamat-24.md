@@ -58,7 +58,7 @@ Kemudian Tuhan berbicara kepada Musa, dengan mengatakan,
 
 ## Imamat 24:15
 
-Katakanlah kepada orang Israel: 'Siapa pun yang mengutuk Allah mereka akan menanggung tanggung jawab atas dosa mereka;
+Katakanlah kepada orang Israel: 'Siapa pun yang mengutuk Tuhan mereka akan menanggung tanggung jawab atas dosa mereka;
 
 ## Imamat 24:16
 
@@ -86,7 +86,7 @@ Siapa pun yang membunuh binatang harus memberikan ganti rugi, tetapi siapa pun y
 
 ## Imamat 24:22
 
-Kamu harus memiliki hukum yang sama untuk orang asing dan yang lahir di negeri itu. Akulah Tuhan Allahmu.’”
+Kamu harus memiliki hukum yang sama untuk orang asing dan yang lahir di negeri itu. Akulah Tuhan Tuhanmu.’”
 
 ## Imamat 24:23
 

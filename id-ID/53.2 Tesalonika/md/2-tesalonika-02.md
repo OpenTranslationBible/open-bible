@@ -14,7 +14,7 @@ Jangan biarkan seorang pun menyesatkan kamu dengan cara apa pun! Karena hari itu
 
 ## 2 Tesalonika 2:4
 
-yang berdiri melawan dan meninggikan dirinya di atas setiap yang disebut allah atau objek penyembahan, sehingga ia duduk di bait Allah, menyatakan dirinya sebagai Allah.
+yang berdiri melawan dan meninggikan dirinya di atas setiap yang disebut Tuhan atau objek penyembahan, sehingga ia duduk di bait Tuhan, menyatakan dirinya sebagai Tuhan.
 
 ## 2 Tesalonika 2:5
 
@@ -42,7 +42,7 @@ dan dengan segala tipu daya kejahatan bagi mereka yang binasa, karena mereka tid
 
 ## 2 Tesalonika 2:11
 
-Karena itu, Allah akan membiarkan mereka dipengaruhi oleh delusi yang kuat, sehingga mereka akan percaya pada apa yang salah,
+Karena itu, Tuhan akan membiarkan mereka dipengaruhi oleh delusi yang kuat, sehingga mereka akan percaya pada apa yang salah,
 
 ## 2 Tesalonika 2:12
 
@@ -50,7 +50,7 @@ supaya semua yang tidak percaya pada kebenaran tetapi senang dalam kejahatan aka
 
 ## 2 Tesalonika 2:13
 
-Namun kami harus selalu bersyukur kepada Allah untuk kamu, saudara-saudara yang terkasih oleh Tuhan, karena Allah memilih kamu dari awal untuk keselamatan melalui pekerjaan pengudusan oleh Roh dan melalui iman dalam kebenaran.
+Namun kami harus selalu bersyukur kepada Tuhan untuk kamu, saudara-saudara yang terkasih oleh Tuhan, karena Tuhan memilih kamu dari awal untuk keselamatan melalui pekerjaan pengudusan oleh Roh dan melalui iman dalam kebenaran.
 
 ## 2 Tesalonika 2:14
 
@@ -62,7 +62,7 @@ Oleh karena itu, saudara-saudara yang terkasih, berdirilah teguh dan peganglah e
 
 ## 2 Tesalonika 2:16
 
-Sekarang, semoga Tuhan kita Yesus Kristus sendiri dan Allah Bapa kita, yang mengasihi kita dan oleh kasih karunia-Nya memberikan kita penghiburan abadi dan harapan yang baik,
+Sekarang, semoga Tuhan kita Yesus Kristus sendiri dan Tuhan Bapa kita, yang mengasihi kita dan oleh kasih karunia-Nya memberikan kita penghiburan abadi dan harapan yang baik,
 
 ## 2 Tesalonika 2:17
 

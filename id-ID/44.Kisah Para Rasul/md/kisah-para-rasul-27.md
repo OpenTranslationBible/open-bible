@@ -96,15 +96,15 @@ Tetapi sekarang saya mendorong kalian untuk bersemangat, karena tidak satu pun d
 
 ## Kisah Para Rasul 27:23
 
-Seorang malaikat dari Allah yang saya miliki dan yang saya layani datang kepada saya pada malam hari
+Seorang malaikat dari Tuhan yang saya miliki dan yang saya layani datang kepada saya pada malam hari
 
 ## Kisah Para Rasul 27:24
 
-dan berkata, ‘Jangan takut, Paulus. Kamu harus berdiri di hadapan Kaisar, dan Allah telah dengan murah hati memberikan kepadamu nyawa semua orang yang berlayar bersamamu.’
+dan berkata, ‘Jangan takut, Paulus. Kamu harus berdiri di hadapan Kaisar, dan Tuhan telah dengan murah hati memberikan kepadamu nyawa semua orang yang berlayar bersamamu.’
 
 ## Kisah Para Rasul 27:25
 
-Jadi bersemangatlah, saudara-saudara, karena saya percaya kepada Allah bahwa itu akan terjadi seperti yang Dia katakan kepada saya.
+Jadi bersemangatlah, saudara-saudara, karena saya percaya kepada Tuhan bahwa itu akan terjadi seperti yang Dia katakan kepada saya.
 
 ## Kisah Para Rasul 27:26
 
@@ -148,7 +148,7 @@ Sekarang saya mendesak kalian untuk makan. Ini perlu untuk kelangsungan hidup ka
 
 ## Kisah Para Rasul 27:35
 
-Setelah mengatakan ini, dia mengambil roti dan mengucap syukur kepada Allah di depan mereka semua. Kemudian dia memecahkannya dan mulai makan.
+Setelah mengatakan ini, dia mengambil roti dan mengucap syukur kepada Tuhan di depan mereka semua. Kemudian dia memecahkannya dan mulai makan.
 
 ## Kisah Para Rasul 27:36
 

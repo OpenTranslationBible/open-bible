@@ -44,7 +44,7 @@ Ketika Dia sendirian, orang-orang di sekeliling-Nya, bersama dengan kedua belas 
 
 ## Markus 4:11
 
-Dia berkata kepada mereka, "Rahasia kerajaan Allah telah diberikan kepadamu, tetapi kepada orang-orang di luar, segala sesuatu disampaikan dalam perumpamaan,
+Dia berkata kepada mereka, "Rahasia kerajaan Tuhan telah diberikan kepadamu, tetapi kepada orang-orang di luar, segala sesuatu disampaikan dalam perumpamaan,
 
 ## Markus 4:12
 
@@ -114,7 +114,7 @@ Karena siapa yang memiliki akan diberi lebih banyak; siapa yang tidak memiliki, 
 
 ## Markus 4:26
 
-Dia juga berkata, "Kerajaan Allah adalah seperti seorang pria yang menaburkan benih di tanah.
+Dia juga berkata, "Kerajaan Tuhan adalah seperti seorang pria yang menaburkan benih di tanah.
 
 ## Markus 4:27
 
@@ -132,7 +132,7 @@ Tetapi ketika tanaman itu siap, dia segera memasukkan sabit, karena panen telah 
 
 ## Markus 4:30
 
-Lagi Dia berkata, "Dengan apa kita akan membandingkan kerajaan Allah, atau perumpamaan apa yang akan kita gunakan untuk menggambarkannya?
+Lagi Dia berkata, "Dengan apa kita akan membandingkan kerajaan Tuhan, atau perumpamaan apa yang akan kita gunakan untuk menggambarkannya?
 
 ## Markus 4:31
 

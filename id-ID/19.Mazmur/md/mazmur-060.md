@@ -4,7 +4,7 @@
 
 ## Mazmur 60:1
 
-> Ya Allah, Engkau telah menolak kami. Engkau telah memecahkan kami;  
+> Ya Tuhan, Engkau telah menolak kami. Engkau telah memecahkan kami;  
 > Engkau telah marah; pulihkanlah kami.
 
 ## Mazmur 60:2
@@ -33,7 +33,7 @@
 
 ## Mazmur 60:6
 
-> Allah telah berfirman dalam kekudusan-Nya:  
+> Tuhan telah berfirman dalam kekudusan-Nya:  
 > “Aku akan menang, Aku akan membagi Sikhem,  
 > Dan mengukur Lembah Sukot.
 
@@ -58,8 +58,8 @@
 
 ## Mazmur 60:10
 
-> Bukankah Engkau sendiri telah menolak kami, Allah?  
-> Dan tidakkah Engkau akan maju dengan tentara kami, Allah?
+> Bukankah Engkau sendiri telah menolak kami, Tuhan?  
+> Dan tidakkah Engkau akan maju dengan tentara kami, Tuhan?
 
 ## Mazmur 60:11
 
@@ -68,5 +68,5 @@
 
 ## Mazmur 60:12
 
-> Melalui Allah kami akan meraih kemenangan,  
+> Melalui Tuhan kami akan meraih kemenangan,  
 > Dan Dialah yang akan mengalahkan musuh-musuh kami.

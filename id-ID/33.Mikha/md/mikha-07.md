@@ -46,8 +46,8 @@
 ## Mikha 7:7
 
 > Namun bagiku, aku akan menantikan Tuhan dengan penuh harap;  
-> Aku akan menunggu Allah keselamatanku.  
-> Allahku akan mendengarkan aku.
+> Aku akan menunggu Tuhan keselamatanku.  
+> Tuhanku akan mendengarkan aku.
 
 ## Mikha 7:8
 
@@ -67,7 +67,7 @@
 
 > Kemudian musuhku akan melihat,  
 > Dan malu akan menutupi dia yang berkata kepadaku,  
-> “Di mana Tuhan, Allahmu?”  
+> “Di mana Tuhan, Tuhanmu?”  
 > Mataku akan melihat padanya;  
 > Pada waktu itu dia akan diinjak-injak  
 > Seperti lumpur di jalanan.
@@ -115,12 +115,12 @@
 > Mereka akan menjilat debu seperti ular,  
 > Seperti binatang melata di bumi.  
 > Mereka akan keluar dengan gemetar dari benteng mereka;  
-> Kepada Tuhan, Allah kita, mereka akan datang dengan ketakutan,  
+> Kepada Tuhan, Tuhan kita, mereka akan datang dengan ketakutan,  
 > Dan mereka akan takut kepada-Mu.
 
 ## Mikha 7:18
 
-> Siapakah Allah seperti Engkau,  
+> Siapakah Tuhan seperti Engkau,  
 > Yang mengampuni kesalahan  
 > Dan mengabaikan pelanggaran sisa milik-Nya?  
 > Ia tidak memegang kemarahan-Nya untuk selamanya,  

@@ -1,132 +1,124 @@
 {
-    "book": "1 Yohanes",
-    "chapter": 5,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Setiap orang yang percaya bahwa Yesus adalah Kristus, lahir dari Allah, dan setiap orang yang mengasihi Bapa mengasihi anak yang lahir dari-Nya."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Inilah cara kita mengetahui bahwa kita mengasihi anak-anak Allah: ketika kita mengasihi Allah dan menaati perintah-perintah-Nya."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Sebab inilah cara kita menunjukkan kasih kita kepada Allah: dengan menaati perintah-perintah-Nya; dan perintah-perintah-Nya tidaklah berat."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Sebab setiap orang yang lahir dari Allah mengalahkan dunia; dan iman kita adalah kemenangan yang telah mengalahkan dunia."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Siapakah yang mengalahkan dunia, selain dia yang percaya bahwa Yesus adalah Anak Allah?"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Inilah Dia yang datang dengan air dan darah, Yesus Kristus; bukan hanya dengan air saja, tetapi dengan air dan darah. Roh-lah yang memberi kesaksian, karena Roh adalah kebenaran."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Sebab ada tiga yang memberi kesaksian:"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Roh, air, dan darah; dan ketiganya adalah satu."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Jika kita menerima kesaksian manusia, kesaksian Allah lebih besar; sebab inilah kesaksian Allah, bahwa Dia telah memberi kesaksian tentang Anak-Nya."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Orang yang percaya kepada Anak Allah memiliki kesaksian di dalam dirinya; orang yang tidak percaya kepada Allah telah membuat-Nya menjadi pendusta, karena dia tidak percaya pada kesaksian yang telah diberikan Allah tentang Anak-Nya."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Dan inilah kesaksian itu: Allah telah memberikan kita hidup yang kekal, dan hidup itu ada di dalam Anak-Nya."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Mereka yang memiliki Anak memiliki hidup; mereka yang tidak memiliki Anak Allah tidak memiliki hidup."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Aku telah menuliskan hal-hal ini kepada kamu yang percaya dalam nama Anak Allah, supaya kamu tahu bahwa kamu memiliki hidup yang kekal."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Inilah keyakinan yang kita miliki di hadapan-Nya, bahwa jika kita meminta sesuatu menurut kehendak-Nya, Dia mendengarkan kita."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Dan jika kita tahu bahwa Dia mendengarkan kita dalam apa pun yang kita minta, kita tahu bahwa kita memiliki permintaan yang telah kita ajukan kepada-Nya."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Jika seseorang melihat saudaranya melakukan dosa yang tidak mendatangkan maut, dia harus meminta dan Allah akan, baginya, memberikan hidup kepada mereka yang melakukan dosa yang tidak mendatangkan maut. Ada dosa yang mendatangkan maut; aku tidak mengatakan bahwa dia harus meminta untuk itu."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Segala kejahatan adalah dosa, dan ada dosa yang tidak mendatangkan maut."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Kita tahu bahwa tidak ada seorang pun yang lahir dari Allah terus berbuat dosa; tetapi Dia yang lahir dari Allah menjaganya, dan si jahat tidak menyentuhnya."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Kita tahu bahwa kita milik Allah, dan bahwa seluruh dunia berada di bawah kuasa si jahat."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Dan kita sadar bahwa Anak Allah telah datang dan telah memberikan kita pengertian, supaya kita dapat mengenal Dia yang benar; dan kita ada di dalam Dia yang benar, dalam Anak-Nya Yesus Kristus. Inilah Allah yang benar dan hidup yang kekal."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Jadi, anak-anakku yang terkasih, jauhkanlah dirimu dari berhala."
-            ]
-        }
-    ]
+  "book": "1 Yohanes",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Setiap orang yang percaya bahwa Yesus adalah Kristus, lahir dari Tuhan, dan setiap orang yang mengasihi Bapa mengasihi anak yang lahir dari-Nya."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Inilah cara kita mengetahui bahwa kita mengasihi anak-anak Tuhan: ketika kita mengasihi Tuhan dan menaati perintah-perintah-Nya."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Sebab inilah cara kita menunjukkan kasih kita kepada Tuhan: dengan menaati perintah-perintah-Nya; dan perintah-perintah-Nya tidaklah berat."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Sebab setiap orang yang lahir dari Tuhan mengalahkan dunia; dan iman kita adalah kemenangan yang telah mengalahkan dunia."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Siapakah yang mengalahkan dunia, selain dia yang percaya bahwa Yesus adalah Anak Tuhan?"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Inilah Dia yang datang dengan air dan darah, Yesus Kristus; bukan hanya dengan air saja, tetapi dengan air dan darah. Roh-lah yang memberi kesaksian, karena Roh adalah kebenaran."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": ["Sebab ada tiga yang memberi kesaksian:"]
+    },
+    {
+      "verse": 8,
+      "text": ["Roh, air, dan darah; dan ketiganya adalah satu."]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Jika kita menerima kesaksian manusia, kesaksian Tuhan lebih besar; sebab inilah kesaksian Tuhan, bahwa Dia telah memberi kesaksian tentang Anak-Nya."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Orang yang percaya kepada Anak Tuhan memiliki kesaksian di dalam dirinya; orang yang tidak percaya kepada Tuhan telah membuat-Nya menjadi pendusta, karena dia tidak percaya pada kesaksian yang telah diberikan Tuhan tentang Anak-Nya."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Dan inilah kesaksian itu: Tuhan telah memberikan kita hidup yang kekal, dan hidup itu ada di dalam Anak-Nya."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Mereka yang memiliki Anak memiliki hidup; mereka yang tidak memiliki Anak Tuhan tidak memiliki hidup."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Aku telah menuliskan hal-hal ini kepada kamu yang percaya dalam nama Anak Tuhan, supaya kamu tahu bahwa kamu memiliki hidup yang kekal."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Inilah keyakinan yang kita miliki di hadapan-Nya, bahwa jika kita meminta sesuatu menurut kehendak-Nya, Dia mendengarkan kita."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Dan jika kita tahu bahwa Dia mendengarkan kita dalam apa pun yang kita minta, kita tahu bahwa kita memiliki permintaan yang telah kita ajukan kepada-Nya."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Jika seseorang melihat saudaranya melakukan dosa yang tidak mendatangkan maut, dia harus meminta dan Tuhan akan, baginya, memberikan hidup kepada mereka yang melakukan dosa yang tidak mendatangkan maut. Ada dosa yang mendatangkan maut; aku tidak mengatakan bahwa dia harus meminta untuk itu."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": ["Segala kejahatan adalah dosa, dan ada dosa yang tidak mendatangkan maut."]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Kita tahu bahwa tidak ada seorang pun yang lahir dari Tuhan terus berbuat dosa; tetapi Dia yang lahir dari Tuhan menjaganya, dan si jahat tidak menyentuhnya."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Kita tahu bahwa kita milik Tuhan, dan bahwa seluruh dunia berada di bawah kuasa si jahat."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Dan kita sadar bahwa Anak Tuhan telah datang dan telah memberikan kita pengertian, supaya kita dapat mengenal Dia yang benar; dan kita ada di dalam Dia yang benar, dalam Anak-Nya Yesus Kristus. Inilah Tuhan yang benar dan hidup yang kekal."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": ["Jadi, anak-anakku yang terkasih, jauhkanlah dirimu dari berhala."]
+    }
+  ]
 }

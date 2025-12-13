@@ -61,7 +61,7 @@
 ## Mazmur 143:10
 
 > Bimbinglah aku untuk melakukan kehendak-Mu,  
-> Sebab Engkau adalah Allahku;  
+> Sebab Engkau adalah Tuhanku;  
 > Biarlah Roh-Mu yang baik membimbingku di tanah yang rata.
 
 ---

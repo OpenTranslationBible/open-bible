@@ -17,7 +17,7 @@
 ## Hosea 12:3
 
 > Bahkan dari dalam kandungan, ia memegang tumit saudaranya,  
-> Dan sebagai orang dewasa, ia bergumul dengan Allah.
+> Dan sebagai orang dewasa, ia bergumul dengan Tuhan.
 
 ## Hosea 12:4
 
@@ -28,14 +28,14 @@
 
 ## Hosea 12:5
 
-> Yaitu, Tuhan Allah semesta alam,  
+> Yaitu, Tuhan Tuhan semesta alam,  
 > Tuhan adalah nama-Nya.
 
 ## Hosea 12:6
 
-> Maka engkau, kembalilah kepada Allahmu,  
+> Maka engkau, kembalilah kepada Tuhanmu,  
 > Peliharalah kebaikan dan keadilan,  
-> Dan nantikanlah Allahmu terus-menerus.
+> Dan nantikanlah Tuhanmu terus-menerus.
 
 ## Hosea 12:7
 
@@ -51,7 +51,7 @@
 
 ## Hosea 12:9
 
-> Tetapi Aku telah menjadi Tuhan Allahmu sejak tanah Mesir;  
+> Tetapi Aku telah menjadi Tuhan Tuhanmu sejak tanah Mesir;  
 > Aku akan membuatmu tinggal di tenda lagi,  
 > Seperti pada hari-hari perayaan yang ditentukan.
 
@@ -82,6 +82,6 @@
 
 ## Hosea 12:14
 
-> Efraim telah memprovokasi Allah hingga marah yang pahit;  
+> Efraim telah memprovokasi Tuhan hingga marah yang pahit;  
 > Maka Tuhannya akan membiarkan kesalahannya menimpa dirinya  
 > Dan membawa kembali aibnya kepadanya.

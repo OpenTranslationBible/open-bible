@@ -6,7 +6,7 @@ Firman Tuhan datang kepada Yeremia, mengatakan:
 
 ## Yeremia 30:2
 
-"Inilah yang dikatakan Tuhan, Allah Israel: 'Catatlah semua perkataan yang telah Kukatakan kepadamu dalam sebuah kitab.
+"Inilah yang dikatakan Tuhan, Tuhan Israel: 'Catatlah semua perkataan yang telah Kukatakan kepadamu dalam sebuah kitab.
 
 ## Yeremia 30:3
 
@@ -34,7 +34,7 @@ Aduh, betapa mengerikannya hari itu! Tidak ada yang seperti itu. Itu adalah wakt
 
 ## Yeremia 30:9
 
-Sebaliknya, mereka akan melayani Tuhan, Allah mereka, dan Daud, raja mereka, yang akan Kubangkitkan bagi mereka.
+Sebaliknya, mereka akan melayani Tuhan, Tuhan mereka, dan Daud, raja mereka, yang akan Kubangkitkan bagi mereka.
 
 ---
 
@@ -88,7 +88,7 @@ Pemimpin mereka akan berasal dari mereka sendiri, dan penguasa mereka akan datan
 
 ## Yeremia 30:22
 
-'Dengan demikian kamu akan menjadi umat-Ku, dan Aku akan menjadi Allahmu.'"
+'Dengan demikian kamu akan menjadi umat-Ku, dan Aku akan menjadi Tuhanmu.'"
 
 ## Yeremia 30:23
 

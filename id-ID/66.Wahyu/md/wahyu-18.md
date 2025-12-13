@@ -30,7 +30,7 @@ Lalu aku mendengar suara lain dari surga, berkata,
 ## Wahyu 18:5
 
 > karena dosa-dosanya telah bertumpuk-tumpuk sampai ke langit,
-> dan Allah telah mengingat kejahatannya.
+> dan Tuhan telah mengingat kejahatannya.
 
 ## Wahyu 18:6
 
@@ -49,7 +49,7 @@ Lalu aku mendengar suara lain dari surga, berkata,
 > Oleh karena itu, dalam satu hari tulah-tulahnya akan datang:
 > kematian, perkabungan, dan kelaparan.
 > Ia akan dibakar dengan api,
-> karena kuatlah Tuhan Allah yang menghakiminya.
+> karena kuatlah Tuhan Tuhan yang menghakiminya.
 
 ## Wahyu 18:9
 
@@ -109,7 +109,7 @@ Mereka akan menaburkan debu di atas kepala mereka dan berseru, menangis dan mera
 ## Wahyu 18:20
 
 > “Bersukacitalah atasnya, hai surga, dan kamu orang-orang kudus, rasul-rasul, dan nabi-nabi,
-> karena Allah telah menjatuhkan penghakiman untukmu terhadapnya.”
+> karena Tuhan telah menjatuhkan penghakiman untukmu terhadapnya.”
 
 ## Wahyu 18:21
 

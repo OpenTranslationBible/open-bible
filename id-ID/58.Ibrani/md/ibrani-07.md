@@ -2,7 +2,7 @@
 
 ## Ibrani 7:1
 
-Melkisedek ini, raja Salem dan imam Allah Yang Mahatinggi, bertemu Abraham ketika dia kembali dari kekalahan raja-raja dan memberkatinya.
+Melkisedek ini, raja Salem dan imam Tuhan Yang Mahatinggi, bertemu Abraham ketika dia kembali dari kekalahan raja-raja dan memberkatinya.
 
 ## Ibrani 7:2
 
@@ -10,7 +10,7 @@ Abraham memberinya sepersepuluh dari semuanya. Pertama, dengan terjemahan namany
 
 ## Ibrani 7:3
 
-Tanpa ayah atau ibu, tanpa silsilah, tanpa awal hari atau akhir hidup, tetapi dibuat seperti Anak Allah, dia tetap menjadi imam selamanya.
+Tanpa ayah atau ibu, tanpa silsilah, tanpa awal hari atau akhir hidup, tetapi dibuat seperti Anak Tuhan, dia tetap menjadi imam selamanya.
 
 ## Ibrani 7:4
 
@@ -77,7 +77,7 @@ Peraturan sebelumnya disingkirkan karena lemah dan tidak efektif.
 
 ## Ibrani 7:19
 
-(karena Hukum tidak membuat apa pun sempurna), dan harapan yang lebih baik diperkenalkan, melalui mana kita mendekat kepada Allah.
+(karena Hukum tidak membuat apa pun sempurna), dan harapan yang lebih baik diperkenalkan, melalui mana kita mendekat kepada Tuhan.
 
 ## Ibrani 7:20
 
@@ -85,7 +85,7 @@ Dan itu memang disertai dengan sumpah!
 
 ## Ibrani 7:21
 
-Karena yang lain menjadi imam tanpa sumpah, tetapi Dia menjadi imam dengan sumpah ketika Allah berkata kepada-Nya:
+Karena yang lain menjadi imam tanpa sumpah, tetapi Dia menjadi imam dengan sumpah ketika Tuhan berkata kepada-Nya:
 
 > "Tuhan telah bersumpah
 > dan tidak akan mengubah pikiran-Nya:
@@ -105,7 +105,7 @@ tetapi karena Yesus hidup selamanya, Dia memegang imamat-Nya secara permanen.
 
 ## Ibrani 7:25
 
-Oleh karena itu, Dia mampu menyelamatkan sepenuhnya mereka yang datang kepada Allah melalui Dia, karena Dia selalu hidup untuk menjadi perantara bagi mereka.
+Oleh karena itu, Dia mampu menyelamatkan sepenuhnya mereka yang datang kepada Tuhan melalui Dia, karena Dia selalu hidup untuk menjadi perantara bagi mereka.
 
 ## Ibrani 7:26
 

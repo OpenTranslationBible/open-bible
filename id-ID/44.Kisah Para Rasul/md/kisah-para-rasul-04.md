@@ -2,7 +2,7 @@
 
 ## Kisah Para Rasul 4:1
 
-Ketika mereka sedang berbicara kepada orang banyak, datanglah imam-imam, kepala pengawal Bait Allah, dan orang-orang Saduki kepada mereka,
+Ketika mereka sedang berbicara kepada orang banyak, datanglah imam-imam, kepala pengawal Bait Tuhan, dan orang-orang Saduki kepada mereka,
 
 ## Kisah Para Rasul 4:2
 
@@ -40,7 +40,7 @@ jika kami diperiksa hari ini karena perbuatan baik kepada seorang yang lumpuh, b
 
 ## Kisah Para Rasul 4:10
 
-biarlah diketahui oleh kamu semua dan oleh seluruh bangsa Israel, bahwa oleh nama Yesus Kristus dari Nazaret, yang kamu salibkan dan yang Allah bangkitkan dari antara orang mati, orang ini berdiri di hadapanmu sembuh.
+biarlah diketahui oleh kamu semua dan oleh seluruh bangsa Israel, bahwa oleh nama Yesus Kristus dari Nazaret, yang kamu salibkan dan yang Tuhan bangkitkan dari antara orang mati, orang ini berdiri di hadapanmu sembuh.
 
 ## Kisah Para Rasul 4:11
 
@@ -81,7 +81,7 @@ Dan ketika mereka memanggil mereka kembali, mereka memerintahkan mereka untuk ti
 
 ## Kisah Para Rasul 4:19
 
-Tetapi Petrus dan Yohanes menjawab mereka, “Nilailah sendiri apakah benar di hadapan Allah untuk mendengarkan kamu daripada mendengarkan Allah.
+Tetapi Petrus dan Yohanes menjawab mereka, “Nilailah sendiri apakah benar di hadapan Tuhan untuk mendengarkan kamu daripada mendengarkan Tuhan.
 
 ## Kisah Para Rasul 4:20
 
@@ -89,7 +89,7 @@ Karena kami tidak dapat berhenti memberitahukan kepada semua orang tentang apa y
 
 ## Kisah Para Rasul 4:21
 
-Setelah mengancam lebih lanjut, mereka melepaskan mereka, tidak menemukan cara untuk menghukum mereka karena semua orang memuliakan Allah atas apa yang telah terjadi.
+Setelah mengancam lebih lanjut, mereka melepaskan mereka, tidak menemukan cara untuk menghukum mereka karena semua orang memuliakan Tuhan atas apa yang telah terjadi.
 
 ## Kisah Para Rasul 4:22
 
@@ -103,7 +103,7 @@ Setelah dibebaskan, Petrus dan Yohanes kembali kepada orang-orang mereka sendiri
 
 ## Kisah Para Rasul 4:24
 
-Ketika mereka mendengar hal ini, mereka mengangkat suara mereka bersama-sama kepada Allah dan berkata, “Tuhan Yang Berdaulat, Engkau yang telah menjadikan langit dan bumi dan laut, dan segala isinya.
+Ketika mereka mendengar hal ini, mereka mengangkat suara mereka bersama-sama kepada Tuhan dan berkata, “Tuhan Yang Berdaulat, Engkau yang telah menjadikan langit dan bumi dan laut, dan segala isinya.
 
 ## Kisah Para Rasul 4:25
 
@@ -136,7 +136,7 @@ sementara Engkau mengulurkan tangan-Mu untuk menyembuhkan dan melakukan tanda-ta
 
 ## Kisah Para Rasul 4:31
 
-Setelah mereka berdoa, tempat di mana mereka berkumpul terguncang. Mereka semua dipenuhi dengan Roh Kudus dan berbicara firman Allah dengan berani.
+Setelah mereka berdoa, tempat di mana mereka berkumpul terguncang. Mereka semua dipenuhi dengan Roh Kudus dan berbicara firman Tuhan dengan berani.
 
 ---
 

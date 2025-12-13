@@ -18,7 +18,7 @@ Oleh karena itu aku berkata, “Jauhkan dirimu dariku; biarkan aku menangis deng
 
 ## Yesaya 22:5
 
-Sebab Tuhan, Allah semesta alam, memiliki hari kepanikan, injakan, dan kebingungan di Lembah Penglihatan, hari meruntuhkan tembok dan berteriak ke gunung-gunung.
+Sebab Tuhan, Tuhan semesta alam, memiliki hari kepanikan, injakan, dan kebingungan di Lembah Penglihatan, hari meruntuhkan tembok dan berteriak ke gunung-gunung.
 
 ## Yesaya 22:6
 
@@ -46,7 +46,7 @@ Kamu membangun waduk antara dua tembok untuk air Kolam Tua, tetapi kamu tidak me
 
 ## Yesaya 22:12
 
-Pada hari itu, Tuhan, Allah semesta alam, memanggilmu untuk menangis, meratap, mencukur kepala, dan memakai kain kabung.
+Pada hari itu, Tuhan, Tuhan semesta alam, memanggilmu untuk menangis, meratap, mencukur kepala, dan memakai kain kabung.
 
 ## Yesaya 22:13
 
@@ -54,11 +54,11 @@ Tetapi sebaliknya, ada sukacita dan pesta pora, menyembelih ternak dan membunuh 
 
 ## Yesaya 22:14
 
-Tuhan semesta alam telah mengungkapkan ini dalam pendengaranku: “Sesungguhnya kesalahan ini tidak akan diampuni sampai kamu mati,” kata Tuhan, Allah semesta alam.
+Tuhan semesta alam telah mengungkapkan ini dalam pendengaranku: “Sesungguhnya kesalahan ini tidak akan diampuni sampai kamu mati,” kata Tuhan, Tuhan semesta alam.
 
 ## Yesaya 22:15
 
-Inilah yang dikatakan Tuhan, Allah semesta alam: “Pergilah, dekati pengurus ini, kepada Sebna, yang bertanggung jawab atas rumah tangga kerajaan:
+Inilah yang dikatakan Tuhan, Tuhan semesta alam: “Pergilah, dekati pengurus ini, kepada Sebna, yang bertanggung jawab atas rumah tangga kerajaan:
 
 ## Yesaya 22:16
 

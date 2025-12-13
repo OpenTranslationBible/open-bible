@@ -1,313 +1,273 @@
 {
-    "book": "Markus",
-    "chapter": 15,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Pagi-pagi sekali, imam-imam kepala, bersama dengan para tua-tua, ahli-ahli Taurat, dan seluruh Majelis, mengadakan musyawarah. Mereka mengikat Yesus, membawa-Nya pergi, dan menyerahkan-Nya kepada Pilatus."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Pilatus bertanya kepada-Nya, \"Apakah Engkau Raja orang Yahudi?\" Yesus menjawab, \"Engkau sendiri mengatakannya.\""
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Imam-imam kepala mulai mengajukan banyak tuduhan terhadap-Nya."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Pilatus bertanya lagi kepada-Nya, \"Tidakkah Engkau menjawab? Lihatlah betapa banyak tuduhan yang mereka ajukan terhadap-Mu.\""
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Tetapi Yesus tidak memberikan jawaban lebih lanjut, sehingga Pilatus merasa heran."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Pada hari raya, adalah kebiasaan untuk membebaskan seorang tahanan yang diminta oleh rakyat."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Seorang bernama Barabas dipenjarakan bersama para pemberontak yang telah melakukan pembunuhan selama pemberontakan."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Kerumunan orang mendekat dan meminta Pilatus untuk melakukan seperti biasanya bagi mereka."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Pilatus bertanya kepada mereka, \"Apakah kalian ingin aku membebaskan Raja orang Yahudi kepada kalian?\""
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Ia tahu bahwa karena iri hati imam-imam kepala telah menyerahkan Yesus."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Namun, imam-imam kepala mempengaruhi kerumunan untuk meminta Pilatus membebaskan Barabas sebagai gantinya."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Pilatus bertanya lagi kepada mereka, \"Apa yang harus aku lakukan dengan orang yang kalian sebut Raja orang Yahudi ini?\""
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Mereka berteriak, \"Salibkan Dia!\""
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Pilatus bertanya, \"Mengapa, kejahatan apa yang telah Dia lakukan?\" Tetapi mereka berteriak lebih keras, \"Salibkan Dia!\""
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Untuk memuaskan kerumunan, Pilatus membebaskan Barabas kepada mereka. Setelah menyuruh Yesus dicambuk, ia menyerahkan-Nya untuk disalibkan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Para prajurit membawa Yesus ke dalam istana, yang dikenal sebagai Praetorium, dan mengumpulkan seluruh pasukan."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Mereka mengenakan jubah ungu kepada-Nya, dan setelah memutar mahkota duri, mereka meletakkannya di atas kepala-Nya."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Mereka mulai memberi salam kepada-Nya, \"Salam, Raja orang Yahudi!\""
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Mereka berulang kali memukul kepala-Nya dengan buluh dan meludahi-Nya. Berlutut, mereka memberi hormat kepada-Nya."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Setelah mengolok-olok Dia, mereka menanggalkan jubah ungu itu dan mengenakan pakaian-Nya sendiri kepada-Nya. Kemudian mereka membawa-Nya keluar untuk disalibkan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Mereka memaksa seorang yang lewat, Simon dari Kirene, ayah dari Aleksander dan Rufus, yang datang dari desa, untuk memikul salib-Nya."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Mereka membawa-Nya ke tempat yang disebut Golgota, yang diterjemahkan sebagai Tempat Tengkorak."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Mereka menawarkan anggur bercampur mur kepada-Nya, tetapi Ia tidak meminumnya."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Mereka menyalibkan Dia dan membagi-bagi pakaian-Nya, dengan membuang undi untuk menentukan apa yang harus diambil masing-masing."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Kira-kira jam ketiga ketika mereka menyalibkan Dia."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Di atas-Nya tertulis tuduhan terhadap-Nya: RAJA ORANG YAHUDI."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Mereka menyalibkan dua pemberontak di samping-Nya, satu di sebelah kanan dan satu di sebelah kiri-Nya."
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "[Ini menggenapi Kitab Suci yang mengatakan, \"Dan Ia dihitung di antara orang-orang durhaka.\"]"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "Orang-orang yang lewat menghina Dia, menggelengkan kepala dan berkata, \"Ah! Engkau yang akan merobohkan Bait Allah dan membangunnya dalam tiga hari,"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "Engkau harus menyelamatkan diri-Mu sendiri, dan turun dari salib!\""
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Demikian juga imam-imam kepala dan ahli-ahli Taurat mengolok-olok Dia di antara mereka sendiri, berkata, \"Ia menyelamatkan orang lain, tetapi Ia tidak dapat menyelamatkan diri-Nya sendiri!"
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Biarlah Kristus ini, Raja Israel, turun sekarang dari salib, agar kita dapat melihat dan percaya.\" Orang-orang yang disalibkan bersama Dia juga menghina Dia."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "Ketika jam keenam, kegelapan meliputi seluruh negeri sampai jam kesembilan."
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "Pada jam kesembilan, Yesus berseru dengan suara nyaring, \"Eloi, Eloi, lama sabakhtani?\" yang berarti, \"Allah-Ku, Allah-Ku, mengapa Engkau meninggalkan Aku?\""
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "Beberapa orang yang berdiri di situ mendengar Dia dan berkata, \"Dengar, Ia memanggil Elia.\""
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "Seseorang berlari, mengisi spons dengan anggur asam, meletakkannya pada buluh, dan memberikannya kepada-Nya untuk diminum, sambil berkata, \"Mari kita lihat apakah Elia datang untuk menurunkan Dia.\""
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "Dengan seruan nyaring, Yesus menyerahkan nyawa-Nya."
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "Tirai Bait Suci terbelah dua dari atas ke bawah."
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "Ketika perwira yang berdiri di depan-Nya melihat bagaimana Ia mati, ia berkata, \"Sungguh, orang ini adalah Anak Allah!\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "Beberapa wanita menyaksikan dari kejauhan. Di antara mereka ada Maria Magdalena, Maria ibu Yakobus yang lebih muda dan Yoses, serta Salome."
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "Wanita-wanita ini telah mengikuti Dia dan melayani Dia ketika di Galilea. Banyak wanita lain yang telah menemani Dia ke Yerusalem juga ada di sana."
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "Hari itu adalah Hari Persiapan, yaitu hari sebelum Sabat. Ketika malam mendekat,"
-            ]
-        },
-        {
-            "verse": 43,
-            "text": [
-                "Yusuf dari Arimatea, seorang anggota terkemuka dari Majelis, yang juga menantikan kerajaan Allah, mengumpulkan keberanian dan pergi kepada Pilatus untuk meminta tubuh Yesus."
-            ]
-        },
-        {
-            "verse": 44,
-            "text": [
-                "Pilatus terkejut mendengar bahwa Ia sudah mati. Memanggil perwira, ia bertanya apakah Yesus sudah mati."
-            ]
-        },
-        {
-            "verse": 45,
-            "text": [
-                "Setelah memastikan dengan perwira, ia memberikan tubuh itu kepada Yusuf."
-            ]
-        },
-        {
-            "verse": 46,
-            "text": [
-                "Yusuf membeli kain lenan, menurunkan-Nya, membungkus-Nya dengan kain lenan, dan meletakkan-Nya di dalam kubur yang dipahat dari batu. Ia menggulingkan batu ke pintu masuk kubur itu."
-            ]
-        },
-        {
-            "verse": 47,
-            "text": [
-                "Maria Magdalena dan Maria ibu Yoses memperhatikan tempat di mana Ia diletakkan."
-            ]
-        }
-    ]
+  "book": "Markus",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Pagi-pagi sekali, imam-imam kepala, bersama dengan para tua-tua, ahli-ahli Taurat, dan seluruh Majelis, mengadakan musyawarah. Mereka mengikat Yesus, membawa-Nya pergi, dan menyerahkan-Nya kepada Pilatus."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Pilatus bertanya kepada-Nya, \"Apakah Engkau Raja orang Yahudi?\" Yesus menjawab, \"Engkau sendiri mengatakannya.\""
+      ]
+    },
+    {
+      "verse": 3,
+      "text": ["Imam-imam kepala mulai mengajukan banyak tuduhan terhadap-Nya."]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Pilatus bertanya lagi kepada-Nya, \"Tidakkah Engkau menjawab? Lihatlah betapa banyak tuduhan yang mereka ajukan terhadap-Mu.\""
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["Tetapi Yesus tidak memberikan jawaban lebih lanjut, sehingga Pilatus merasa heran."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Pada hari raya, adalah kebiasaan untuk membebaskan seorang tahanan yang diminta oleh rakyat."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Seorang bernama Barabas dipenjarakan bersama para pemberontak yang telah melakukan pembunuhan selama pemberontakan."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Kerumunan orang mendekat dan meminta Pilatus untuk melakukan seperti biasanya bagi mereka."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Pilatus bertanya kepada mereka, \"Apakah kalian ingin aku membebaskan Raja orang Yahudi kepada kalian?\""
+      ]
+    },
+    {
+      "verse": 10,
+      "text": ["Ia tahu bahwa karena iri hati imam-imam kepala telah menyerahkan Yesus."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Namun, imam-imam kepala mempengaruhi kerumunan untuk meminta Pilatus membebaskan Barabas sebagai gantinya."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Pilatus bertanya lagi kepada mereka, \"Apa yang harus aku lakukan dengan orang yang kalian sebut Raja orang Yahudi ini?\""
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["Mereka berteriak, \"Salibkan Dia!\""]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Pilatus bertanya, \"Mengapa, kejahatan apa yang telah Dia lakukan?\" Tetapi mereka berteriak lebih keras, \"Salibkan Dia!\""
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Untuk memuaskan kerumunan, Pilatus membebaskan Barabas kepada mereka. Setelah menyuruh Yesus dicambuk, ia menyerahkan-Nya untuk disalibkan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Para prajurit membawa Yesus ke dalam istana, yang dikenal sebagai Praetorium, dan mengumpulkan seluruh pasukan."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Mereka mengenakan jubah ungu kepada-Nya, dan setelah memutar mahkota duri, mereka meletakkannya di atas kepala-Nya."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": ["Mereka mulai memberi salam kepada-Nya, \"Salam, Raja orang Yahudi!\""]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Mereka berulang kali memukul kepala-Nya dengan buluh dan meludahi-Nya. Berlutut, mereka memberi hormat kepada-Nya."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Setelah mengolok-olok Dia, mereka menanggalkan jubah ungu itu dan mengenakan pakaian-Nya sendiri kepada-Nya. Kemudian mereka membawa-Nya keluar untuk disalibkan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Mereka memaksa seorang yang lewat, Simon dari Kirene, ayah dari Aleksander dan Rufus, yang datang dari desa, untuk memikul salib-Nya."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Mereka membawa-Nya ke tempat yang disebut Golgota, yang diterjemahkan sebagai Tempat Tengkorak."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": ["Mereka menawarkan anggur bercampur mur kepada-Nya, tetapi Ia tidak meminumnya."]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Mereka menyalibkan Dia dan membagi-bagi pakaian-Nya, dengan membuang undi untuk menentukan apa yang harus diambil masing-masing."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": ["Kira-kira jam ketiga ketika mereka menyalibkan Dia."]
+    },
+    {
+      "verse": 26,
+      "text": ["Di atas-Nya tertulis tuduhan terhadap-Nya: RAJA ORANG YAHUDI."]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Mereka menyalibkan dua pemberontak di samping-Nya, satu di sebelah kanan dan satu di sebelah kiri-Nya."
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "[Ini menggenapi Kitab Suci yang mengatakan, \"Dan Ia dihitung di antara orang-orang durhaka.\"]"
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Orang-orang yang lewat menghina Dia, menggelengkan kepala dan berkata, \"Ah! Engkau yang akan merobohkan Bait Tuhan dan membangunnya dalam tiga hari,"
+      ]
+    },
+    {
+      "verse": 30,
+      "text": ["Engkau harus menyelamatkan diri-Mu sendiri, dan turun dari salib!\""]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Demikian juga imam-imam kepala dan ahli-ahli Taurat mengolok-olok Dia di antara mereka sendiri, berkata, \"Ia menyelamatkan orang lain, tetapi Ia tidak dapat menyelamatkan diri-Nya sendiri!"
+      ]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "Biarlah Kristus ini, Raja Israel, turun sekarang dari salib, agar kita dapat melihat dan percaya.\" Orang-orang yang disalibkan bersama Dia juga menghina Dia."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 33,
+      "text": ["Ketika jam keenam, kegelapan meliputi seluruh negeri sampai jam kesembilan."]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "Pada jam kesembilan, Yesus berseru dengan suara nyaring, \"Eloi, Eloi, lama sabakhtani?\" yang berarti, \"Tuhan-Ku, Tuhan-Ku, mengapa Engkau meninggalkan Aku?\""
+      ]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "Beberapa orang yang berdiri di situ mendengar Dia dan berkata, \"Dengar, Ia memanggil Elia.\""
+      ]
+    },
+    {
+      "verse": 36,
+      "text": [
+        "Seseorang berlari, mengisi spons dengan anggur asam, meletakkannya pada buluh, dan memberikannya kepada-Nya untuk diminum, sambil berkata, \"Mari kita lihat apakah Elia datang untuk menurunkan Dia.\""
+      ]
+    },
+    {
+      "verse": 37,
+      "text": ["Dengan seruan nyaring, Yesus menyerahkan nyawa-Nya."]
+    },
+    {
+      "verse": 38,
+      "text": ["Tirai Bait Suci terbelah dua dari atas ke bawah."]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "Ketika perwira yang berdiri di depan-Nya melihat bagaimana Ia mati, ia berkata, \"Sungguh, orang ini adalah Anak Tuhan!\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "Beberapa wanita menyaksikan dari kejauhan. Di antara mereka ada Maria Magdalena, Maria ibu Yakobus yang lebih muda dan Yoses, serta Salome."
+      ]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "Wanita-wanita ini telah mengikuti Dia dan melayani Dia ketika di Galilea. Banyak wanita lain yang telah menemani Dia ke Yerusalem juga ada di sana."
+      ]
+    },
+    {
+      "verse": 42,
+      "text": ["Hari itu adalah Hari Persiapan, yaitu hari sebelum Sabat. Ketika malam mendekat,"]
+    },
+    {
+      "verse": 43,
+      "text": [
+        "Yusuf dari Arimatea, seorang anggota terkemuka dari Majelis, yang juga menantikan kerajaan Tuhan, mengumpulkan keberanian dan pergi kepada Pilatus untuk meminta tubuh Yesus."
+      ]
+    },
+    {
+      "verse": 44,
+      "text": [
+        "Pilatus terkejut mendengar bahwa Ia sudah mati. Memanggil perwira, ia bertanya apakah Yesus sudah mati."
+      ]
+    },
+    {
+      "verse": 45,
+      "text": ["Setelah memastikan dengan perwira, ia memberikan tubuh itu kepada Yusuf."]
+    },
+    {
+      "verse": 46,
+      "text": [
+        "Yusuf membeli kain lenan, menurunkan-Nya, membungkus-Nya dengan kain lenan, dan meletakkan-Nya di dalam kubur yang dipahat dari batu. Ia menggulingkan batu ke pintu masuk kubur itu."
+      ]
+    },
+    {
+      "verse": 47,
+      "text": ["Maria Magdalena dan Maria ibu Yoses memperhatikan tempat di mana Ia diletakkan."]
+    }
+  ]
 }

@@ -1,177 +1,153 @@
 {
-    "book": "Ayub",
-    "chapter": 16,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Ayub menjawab, katanya,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> \"Aku telah mendengar banyak hal ini;",
-                "> kamu semua adalah penghibur yang tidak efektif!"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Apakah tidak ada akhir dari pidato panjang lebar kalian?",
-                "> Apa yang mendorong kalian untuk terus berdebat?"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Aku juga bisa berbicara seperti kalian,",
-                "> jika kalian berada di tempatku.",
-                "> Aku bisa membuat pidato yang fasih melawan kalian",
-                "> dan menggelengkan kepala padamu."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Tetapi aku akan mendorong kalian dengan mulutku,",
-                "> dan penghiburan dari bibirku akan membawa kalian kelegaan."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> \"Jika aku berbicara, penderitaanku tidak berkurang,",
-                "> dan jika aku diam, itu tidak meninggalkanku."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Pastinya, sekarang Allah telah melelahkanku;",
-                "> kamu telah menghancurkan seluruh rumah tanggaku."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Kamu telah mengeringkanku,",
-                "> dan itu telah menjadi saksi;",
-                "> kekurusanku bangkit",
-                "> dan bersaksi melawanku."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Dalam kemarahannya, Allah telah merobekku dan memburuku;",
-                "> Dia mengertakkan giginya padaku.",
-                "> Lawanku menatapku dengan marah."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Orang-orang menganga padaku dengan mulut mereka;",
-                "> mereka menampar pipiku dengan hina",
-                "> dan berkumpul melawanku."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Allah telah menyerahkanku kepada orang jahat",
-                "> dan melemparkanku ke tangan orang fasik."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Aku sedang tenang, tetapi Dia menghancurkanku;",
-                "> Dia menangkapku di leher dan menghancurkanku.",
-                "> Dia telah menjadikanku sasarannya."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Para pemanah-Nya mengelilingiku.",
-                "> Tanpa belas kasihan, Dia menusuk ginjalku",
-                "> dan menumpahkan empeduku ke tanah."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Dia menerobosku celah demi celah;",
-                "> Dia menyerangku seperti seorang prajurit."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Aku telah menjahit kain kabung di atas kulitku",
-                "> dan mengubur dahiku di debu."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Wajahku memerah dengan tangisan,",
-                "> dan bayang-bayang dalam melingkari mataku,"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> meskipun tanganku bebas dari kekerasan",
-                "> dan doaku murni."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> \"Wahai bumi, jangan tutupi darahku;",
-                "> semoga teriakanku tidak menemukan tempat istirahat!"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Namun, saksiku ada di surga;",
-                "> pembelaku tinggal di tempat yang tinggi."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Teman-temanku adalah pencemoohku;",
-                "> mataku mencurahkan air mata kepada Allah,"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> agar seseorang dapat memohon untuk seorang manusia kepada Allah",
-                "> seperti seseorang memohon untuk seorang teman."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Karena setelah beberapa tahun berlalu,",
-                "> aku akan pergi ke jalan yang tidak ada kembali."
-            ]
-        }
-    ]
+  "book": "Ayub",
+  "chapter": 16,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Ayub menjawab, katanya,"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> \"Aku telah mendengar banyak hal ini;",
+        "> kamu semua adalah penghibur yang tidak efektif!"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Apakah tidak ada akhir dari pidato panjang lebar kalian?",
+        "> Apa yang mendorong kalian untuk terus berdebat?"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Aku juga bisa berbicara seperti kalian,",
+        "> jika kalian berada di tempatku.",
+        "> Aku bisa membuat pidato yang fasih melawan kalian",
+        "> dan menggelengkan kepala padamu."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Tetapi aku akan mendorong kalian dengan mulutku,",
+        "> dan penghiburan dari bibirku akan membawa kalian kelegaan."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> \"Jika aku berbicara, penderitaanku tidak berkurang,",
+        "> dan jika aku diam, itu tidak meninggalkanku."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Pastinya, sekarang Tuhan telah melelahkanku;",
+        "> kamu telah menghancurkan seluruh rumah tanggaku."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Kamu telah mengeringkanku,",
+        "> dan itu telah menjadi saksi;",
+        "> kekurusanku bangkit",
+        "> dan bersaksi melawanku."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Dalam kemarahannya, Tuhan telah merobekku dan memburuku;",
+        "> Dia mengertakkan giginya padaku.",
+        "> Lawanku menatapku dengan marah."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Orang-orang menganga padaku dengan mulut mereka;",
+        "> mereka menampar pipiku dengan hina",
+        "> dan berkumpul melawanku."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Tuhan telah menyerahkanku kepada orang jahat",
+        "> dan melemparkanku ke tangan orang fasik."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Aku sedang tenang, tetapi Dia menghancurkanku;",
+        "> Dia menangkapku di leher dan menghancurkanku.",
+        "> Dia telah menjadikanku sasarannya."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Para pemanah-Nya mengelilingiku.",
+        "> Tanpa belas kasihan, Dia menusuk ginjalku",
+        "> dan menumpahkan empeduku ke tanah."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": ["> Dia menerobosku celah demi celah;", "> Dia menyerangku seperti seorang prajurit."]
+    },
+    {
+      "verse": 15,
+      "text": ["> Aku telah menjahit kain kabung di atas kulitku", "> dan mengubur dahiku di debu."]
+    },
+    {
+      "verse": 16,
+      "text": ["> Wajahku memerah dengan tangisan,", "> dan bayang-bayang dalam melingkari mataku,"]
+    },
+    {
+      "verse": 17,
+      "text": ["> meskipun tanganku bebas dari kekerasan", "> dan doaku murni."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> \"Wahai bumi, jangan tutupi darahku;",
+        "> semoga teriakanku tidak menemukan tempat istirahat!"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": ["> Namun, saksiku ada di surga;", "> pembelaku tinggal di tempat yang tinggi."]
+    },
+    {
+      "verse": 20,
+      "text": ["> Teman-temanku adalah pencemoohku;", "> mataku mencurahkan air mata kepada Tuhan,"]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "> agar seseorang dapat memohon untuk seorang manusia kepada Tuhan",
+        "> seperti seseorang memohon untuk seorang teman."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "> Karena setelah beberapa tahun berlalu,",
+        "> aku akan pergi ke jalan yang tidak ada kembali."
+      ]
+    }
+  ]
 }

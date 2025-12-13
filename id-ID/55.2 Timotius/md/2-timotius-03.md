@@ -14,7 +14,7 @@ tidak punya kasih, tidak mau berdamai, pemfitnah, tidak dapat menguasai diri, ga
 
 ## 2 Timotius 3:4
 
-pengkhianat, gegabah, penuh dengan diri sendiri, lebih menyukai kesenangan daripada kesetiaan kepada Allah,
+pengkhianat, gegabah, penuh dengan diri sendiri, lebih menyukai kesenangan daripada kesetiaan kepada Tuhan,
 
 ## 2 Timotius 3:5
 
@@ -62,8 +62,8 @@ dan bahwa sejak kecil kamu telah mengetahui tulisan-tulisan suci yang dapat memb
 
 ## 2 Timotius 3:16
 
-Segala tulisan yang diilhamkan Allah memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan, untuk mendidik dalam kebenaran;
+Segala tulisan yang diilhamkan Tuhan memang bermanfaat untuk mengajar, untuk menyatakan kesalahan, untuk memperbaiki kelakuan, untuk mendidik dalam kebenaran;
 
 ## 2 Timotius 3:17
 
-agar hamba Allah dapat menjadi sempurna, diperlengkapi untuk setiap pekerjaan baik.
+agar hamba Tuhan dapat menjadi sempurna, diperlengkapi untuk setiap pekerjaan baik.

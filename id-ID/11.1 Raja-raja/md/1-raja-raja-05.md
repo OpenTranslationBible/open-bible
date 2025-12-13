@@ -12,18 +12,18 @@ Kemudian Salomo mengirim pesan kepada Hiram, berkata,
 
 ## 1 Raja-raja 5:3
 
-“Engkau tahu bahwa ayahku Daud tidak dapat membangun rumah bagi nama Tuhan, Allahnya,  
+“Engkau tahu bahwa ayahku Daud tidak dapat membangun rumah bagi nama Tuhan, Tuhannya,  
 karena peperangan yang mengelilinginya,  
 sampai Tuhan menempatkan mereka di bawah telapak kakinya.
 
 ## 1 Raja-raja 5:4
 
-Tetapi sekarang Tuhan, Allahku, telah memberikan kedamaian kepadaku di segala sisi;  
+Tetapi sekarang Tuhan, Tuhanku, telah memberikan kedamaian kepadaku di segala sisi;  
 tidak ada lawan maupun kesulitan.
 
 ## 1 Raja-raja 5:5
 
-Jadi lihatlah, aku berniat untuk membangun rumah bagi nama Tuhan, Allahku,  
+Jadi lihatlah, aku berniat untuk membangun rumah bagi nama Tuhan, Tuhanku,  
 seperti yang Tuhan katakan kepada ayahku Daud, dengan berkata,  
 ‘Anakmu, yang akan Aku tempatkan di takhtamu menggantikan engkau,  
 dia akan membangun rumah bagi nama-Ku.’

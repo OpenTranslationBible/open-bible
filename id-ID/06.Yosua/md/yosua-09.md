@@ -36,7 +36,7 @@ Mereka menjawab Yosua, “Kami adalah hambamu.” Yosua bertanya kepada mereka, 
 
 ## Yosua 9:9
 
-Mereka menjawab, “Hamba-hambamu datang dari negeri yang sangat jauh karena ketenaran Tuhan, Allahmu, sebab kami mendengar laporan tentang semua yang Dia lakukan di Mesir,
+Mereka menjawab, “Hamba-hambamu datang dari negeri yang sangat jauh karena ketenaran Tuhan, Tuhanmu, sebab kami mendengar laporan tentang semua yang Dia lakukan di Mesir,
 
 ## Yosua 9:10
 
@@ -74,11 +74,11 @@ Orang Israel berangkat dan pada hari ketiga mencapai kota-kota mereka: Gibeon, K
 
 ## Yosua 9:18
 
-Tetapi orang Israel tidak menyerang mereka, karena para pemimpin jemaat telah bersumpah kepada mereka demi Tuhan, Allah Israel. Seluruh jemaat menggerutu terhadap para pemimpin,
+Tetapi orang Israel tidak menyerang mereka, karena para pemimpin jemaat telah bersumpah kepada mereka demi Tuhan, Tuhan Israel. Seluruh jemaat menggerutu terhadap para pemimpin,
 
 ## Yosua 9:19
 
-tetapi semua pemimpin berkata kepada jemaat, “Kami telah bersumpah kepada mereka demi Tuhan, Allah Israel, dan sekarang kami tidak dapat menyakiti mereka.
+tetapi semua pemimpin berkata kepada jemaat, “Kami telah bersumpah kepada mereka demi Tuhan, Tuhan Israel, dan sekarang kami tidak dapat menyakiti mereka.
 
 ## Yosua 9:20
 
@@ -94,11 +94,11 @@ Kemudian Yosua memanggil orang Gibeon dan berkata, “Mengapa kamu menipu kami d
 
 ## Yosua 9:23
 
-Sekarang kamu berada di bawah kutukan: kamu tidak akan pernah berhenti untuk melayani sebagai penebang kayu dan pembawa air untuk rumah Allahku.”
+Sekarang kamu berada di bawah kutukan: kamu tidak akan pernah berhenti untuk melayani sebagai penebang kayu dan pembawa air untuk rumah Tuhanku.”
 
 ## Yosua 9:24
 
-Mereka menjawab Yosua, “Hamba-hambamu telah diberitahu dengan jelas bahwa Tuhan, Allahmu, memerintahkan hamba-Nya Musa untuk memberikan seluruh negeri ini kepadamu dan untuk memusnahkan semua penduduknya di depanmu. Jadi kami sangat takut akan hidup kami karena kamu, dan itulah sebabnya kami bertindak seperti ini.
+Mereka menjawab Yosua, “Hamba-hambamu telah diberitahu dengan jelas bahwa Tuhan, Tuhanmu, memerintahkan hamba-Nya Musa untuk memberikan seluruh negeri ini kepadamu dan untuk memusnahkan semua penduduknya di depanmu. Jadi kami sangat takut akan hidup kami karena kamu, dan itulah sebabnya kami bertindak seperti ini.
 
 ## Yosua 9:25
 

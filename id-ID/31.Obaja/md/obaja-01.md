@@ -4,7 +4,7 @@
 
 Penglihatan Obaja.
 
-Inilah yang dikatakan Tuhan Allah mengenai Edom—
+Inilah yang dikatakan Tuhan Tuhan mengenai Edom—
 
 > Kami telah mendengar laporan dari Tuhan,  
 > Dan seorang utusan telah dikirim di antara bangsa-bangsa, mengatakan,  

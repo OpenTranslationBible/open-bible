@@ -56,7 +56,7 @@ dan dia tidak akan mengganggumu lagi.”
 
 ## 2 Samuel 14:11
 
-Kemudian ia berkata, “Tolong biarkan raja mengingat Tuhan Allahmu,  
+Kemudian ia berkata, “Tolong biarkan raja mengingat Tuhan Tuhanmu,  
 agar penuntut darah tidak menghancurkan lebih banyak lagi,  
 sehingga mereka tidak menghabisi anakku.”  
 Dan ia berkata, “Demi Tuhan yang hidup, tidak sehelai rambut pun dari anakmu akan jatuh ke tanah.”
@@ -69,14 +69,14 @@ Dan ia berkata, “Bicaralah.”
 ## 2 Samuel 14:13
 
 Maka wanita itu berkata,  
-“Mengapa engkau merencanakan hal seperti itu terhadap umat Allah?  
+“Mengapa engkau merencanakan hal seperti itu terhadap umat Tuhan?  
 Karena dalam mengucapkan kata ini, raja seperti orang yang bersalah,  
 karena raja tidak membawa kembali orang yang dibuangnya.
 
 ## 2 Samuel 14:14
 
 Karena kita pasti akan mati, dan seperti air yang tumpah ke tanah, yang tidak dapat dikumpulkan lagi.  
-Namun Allah tidak mengambil nyawa, tetapi merancang cara agar orang yang terbuang tidak tetap terbuang dari-Nya.
+Namun Tuhan tidak mengambil nyawa, tetapi merancang cara agar orang yang terbuang tidak tetap terbuang dari-Nya.
 
 ## 2 Samuel 14:15
 
@@ -87,14 +87,14 @@ Jadi hambamu berkata, ‘Biarkan aku berbicara kepada raja; mungkin raja akan be
 ## 2 Samuel 14:16
 
 Karena raja akan mendengar dan melepaskan hambanya dari tangan orang  
-yang berusaha memotong aku dan anakku dari warisan Allah.’
+yang berusaha memotong aku dan anakku dari warisan Tuhan.’
 
 ## 2 Samuel 14:17
 
 Kemudian hambamu berpikir, ‘Kata-kata tuanku raja akan membawa ketenangan,  
-karena tuanku raja seperti malaikat Allah,  
+karena tuanku raja seperti malaikat Tuhan,  
 untuk membedakan yang baik dan yang jahat.  
-Dan semoga Tuhan Allahmu menyertaimu.’”
+Dan semoga Tuhan Tuhanmu menyertaimu.’”
 
 ---
 
@@ -115,7 +115,7 @@ dan dialah yang menaruh semua kata ini di mulut hambamu.
 ## 2 Samuel 14:20
 
 Hambamu Yoab telah melakukan ini untuk mengubah situasi ini.  
-Tetapi tuanku bijaksana, seperti kebijaksanaan malaikat Allah, untuk mengetahui semua yang ada di bumi.”
+Tetapi tuanku bijaksana, seperti kebijaksanaan malaikat Tuhan, untuk mengetahui semua yang ada di bumi.”
 
 ---
 

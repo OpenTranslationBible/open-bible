@@ -10,7 +10,7 @@ termasuk raja-raja dan semua orang yang berada dalam posisi otoritas, agar kita 
 
 ## 1 Timotius 2:3
 
-Hal ini baik dan berkenan di hadapan Allah, Juruselamat kita,
+Hal ini baik dan berkenan di hadapan Tuhan, Juruselamat kita,
 
 ## 1 Timotius 2:4
 
@@ -18,7 +18,7 @@ yang menghendaki semua orang diselamatkan dan datang untuk memahami kebenaran.
 
 ## 1 Timotius 2:5
 
-Karena ada satu Allah, dan satu pengantara antara Allah dan manusia, yaitu manusia Kristus Yesus,
+Karena ada satu Tuhan, dan satu pengantara antara Tuhan dan manusia, yaitu manusia Kristus Yesus,
 
 ## 1 Timotius 2:6
 
@@ -38,7 +38,7 @@ Demikian juga, aku ingin wanita berpakaian dengan pantas, dengan kesopanan dan k
 
 ## 1 Timotius 2:10
 
-tetapi lebih melalui perbuatan baik, sebagaimana layaknya wanita yang mengaku beribadah kepada Allah.
+tetapi lebih melalui perbuatan baik, sebagaimana layaknya wanita yang mengaku beribadah kepada Tuhan.
 
 ## 1 Timotius 2:11
 

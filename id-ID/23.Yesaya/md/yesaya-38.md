@@ -18,7 +18,7 @@ Pada waktu itu, pesan dari Tuhan sampai kepada Yesaya,
 
 ## Yesaya 38:5
 
-“Pergi dan katakan kepada Hizkia, ‘Inilah firman Tuhan, Allah leluhurmu Daud: Aku telah mendengar doamu dan melihat air matamu; Aku akan menambahkan lima belas tahun kepada hidupmu.
+“Pergi dan katakan kepada Hizkia, ‘Inilah firman Tuhan, Tuhan leluhurmu Daud: Aku telah mendengar doamu dan melihat air matamu; Aku akan menambahkan lima belas tahun kepada hidupmu.
 
 ## Yesaya 38:6
 

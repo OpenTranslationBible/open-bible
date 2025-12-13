@@ -77,12 +77,12 @@ dan ibunya menamainya Yabes, katanya,
 
 ## 1 Tawarikh 4:10
 
-Sekarang Yabes berseru kepada Allah Israel, katanya,
+Sekarang Yabes berseru kepada Tuhan Israel, katanya,
 
 > "Oh, kiranya Engkau memberkati aku sungguh-sungguh, dan memperluas batasku,  
 > dan kiranya tangan-Mu menyertai aku,  
 > dan kiranya Engkau melindungi aku dari bahaya sehingga tidak menyakitiku!"  
-> Dan Allah mengabulkan permintaannya.
+> Dan Tuhan mengabulkan permintaannya.
 
 ---
 

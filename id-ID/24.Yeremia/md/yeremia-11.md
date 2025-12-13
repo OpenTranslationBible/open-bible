@@ -10,11 +10,11 @@ Perhatikanlah syarat-syarat perjanjian ini dan sampaikanlah apa yang dikatakanny
 
 ## Yeremia 11:3
 
-Katakan kepada mereka, 'Inilah yang dikatakan Tuhan, Allah Israel: "Terkutuklah orang yang tidak menaati syarat-syarat perjanjian ini—
+Katakan kepada mereka, 'Inilah yang dikatakan Tuhan, Tuhan Israel: "Terkutuklah orang yang tidak menaati syarat-syarat perjanjian ini—
 
 ## Yeremia 11:4
 
-syarat-syarat yang Aku perintahkan kepada nenek moyangmu ketika Aku membawa mereka keluar dari Mesir, dari dapur besi, dengan mengatakan, 'Taatilah Aku dan lakukanlah semua yang Aku perintahkan kepadamu, dan kamu akan menjadi umat-Ku, dan Aku akan menjadi Allahmu.'
+syarat-syarat yang Aku perintahkan kepada nenek moyangmu ketika Aku membawa mereka keluar dari Mesir, dari dapur besi, dengan mengatakan, 'Taatilah Aku dan lakukanlah semua yang Aku perintahkan kepadamu, dan kamu akan menjadi umat-Ku, dan Aku akan menjadi Tuhanmu.'
 
 ## Yeremia 11:5
 
@@ -38,7 +38,7 @@ Kemudian Tuhan berkata kepadaku, "Ada konspirasi di antara orang Yehuda dan pend
 
 ## Yeremia 11:10
 
-Mereka telah kembali kepada dosa nenek moyang mereka, yang menolak mendengarkan perkataan-Ku. Mereka telah mengikuti allah lain untuk melayani mereka. Baik kaum Israel maupun kaum Yehuda telah melanggar perjanjian-Ku yang Aku buat dengan nenek moyang mereka.
+Mereka telah kembali kepada dosa nenek moyang mereka, yang menolak mendengarkan perkataan-Ku. Mereka telah mengikuti Tuhan lain untuk melayani mereka. Baik kaum Israel maupun kaum Yehuda telah melanggar perjanjian-Ku yang Aku buat dengan nenek moyang mereka.
 
 ## Yeremia 11:11
 
@@ -46,11 +46,11 @@ Oleh karena itu inilah yang dikatakan Tuhan: 'Aku mendatangkan bencana atas mere
 
 ## Yeremia 11:12
 
-Kota-kota Yehuda dan penduduk Yerusalem akan pergi dan berseru kepada allah-allah yang kepada mereka mereka membakar dupa, tetapi mereka tidak akan menyelamatkan mereka sama sekali pada saat bencana mereka.
+Kota-kota Yehuda dan penduduk Yerusalem akan pergi dan berseru kepada Tuhan-Tuhan yang kepada mereka mereka membakar dupa, tetapi mereka tidak akan menyelamatkan mereka sama sekali pada saat bencana mereka.
 
 ## Yeremia 11:13
 
-Karena allah-allahmu sebanyak kota-kotamu, Yehuda; dan mezbah-mezbah yang kamu dirikan untuk dewa yang memalukan, Baal, sebanyak jalan-jalan Yerusalem.
+Karena Tuhan-Tuhanmu sebanyak kota-kotamu, Yehuda; dan mezbah-mezbah yang kamu dirikan untuk dewa yang memalukan, Baal, sebanyak jalan-jalan Yerusalem.
 
 ## Yeremia 11:14
 

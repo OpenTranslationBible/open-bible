@@ -1,114 +1,104 @@
 {
-    "book": "Keluaran",
-    "chapter": 31,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Tuhan berfirman kepada Musa,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "“Lihatlah, Aku telah memilih Bezaleel, anak Uri, anak Hur, dari suku Yehuda."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Aku telah memenuhi dia dengan Roh Allah, memberinya hikmat, pengertian, pengetahuan, dan segala jenis keahlian,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "untuk merancang desain artistik dalam pekerjaan emas, perak, dan perunggu,"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "dan untuk memotong batu untuk pengaturan, dan untuk mengukir kayu, untuk terlibat dalam segala jenis kerajinan."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Selain itu, Aku telah menunjuk Aholiab, anak Ahisamakh, dari suku Dan, untuk membantunya. Aku juga telah menganugerahkan semua pengrajin terampil dengan kemampuan, sehingga mereka dapat membuat segala sesuatu yang telah Aku perintahkan kepadamu:"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "kemah pertemuan, tabut hukum perjanjian dengan tutup pendamaian, dan semua perabotan kemah,"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "meja dengan perlengkapannya, kaki dian emas murni dengan semua aksesorinya, dan mezbah dupa,"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "mezbah korban bakaran dengan semua peralatannya, bejana dan alasnya,"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "dan pakaian tenunan, pakaian kudus untuk Harun, imam, dan pakaian untuk anak-anaknya untuk melayani sebagai imam,"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "serta minyak urapan dan dupa harum untuk Tempat Kudus. Mereka harus membuatnya sesuai dengan semua yang telah Aku perintahkan kepadamu.”"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tuhan kemudian berkata kepada Musa,"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "“Berbicaralah kepada orang Israel, dengan mengatakan, ‘Kamu harus memelihara hari Sabat-Ku. Ini adalah tanda antara Aku dan kamu untuk semua generasi, supaya kamu tahu bahwa Akulah Tuhan yang menguduskan kamu."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Oleh karena itu, kamu harus memelihara hari Sabat, karena itu kudus bagimu. Siapa pun yang menodainya harus dihukum mati; siapa pun yang melakukan pekerjaan pada hari itu harus dipisahkan dari bangsanya."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Selama enam hari pekerjaan boleh dilakukan, tetapi hari ketujuh adalah Sabat istirahat penuh, kudus bagi Tuhan. Siapa pun yang melakukan pekerjaan pada hari Sabat harus dihukum mati."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Orang Israel harus memelihara hari Sabat, merayakannya sepanjang generasi mereka sebagai perjanjian yang kekal."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Ini adalah tanda antara Aku dan orang Israel untuk selama-lamanya, karena dalam enam hari Tuhan membuat langit dan bumi, dan pada hari ketujuh Dia berhenti dari pekerjaan dan beristirahat.’”"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Ketika Tuhan selesai berbicara dengan Musa di Gunung Sinai, Dia memberikan kepadanya dua loh hukum perjanjian, loh batu yang ditulis oleh jari Allah."
-            ]
-        }
-    ]
+  "book": "Keluaran",
+  "chapter": 31,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Tuhan berfirman kepada Musa,"]
+    },
+    {
+      "verse": 2,
+      "text": ["“Lihatlah, Aku telah memilih Bezaleel, anak Uri, anak Hur, dari suku Yehuda."]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Aku telah memenuhi dia dengan Roh Tuhan, memberinya hikmat, pengertian, pengetahuan, dan segala jenis keahlian,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["untuk merancang desain artistik dalam pekerjaan emas, perak, dan perunggu,"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "dan untuk memotong batu untuk pengaturan, dan untuk mengukir kayu, untuk terlibat dalam segala jenis kerajinan."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Selain itu, Aku telah menunjuk Aholiab, anak Ahisamakh, dari suku Dan, untuk membantunya. Aku juga telah menganugerahkan semua pengrajin terampil dengan kemampuan, sehingga mereka dapat membuat segala sesuatu yang telah Aku perintahkan kepadamu:"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "kemah pertemuan, tabut hukum perjanjian dengan tutup pendamaian, dan semua perabotan kemah,"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "meja dengan perlengkapannya, kaki dian emas murni dengan semua aksesorinya, dan mezbah dupa,"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": ["mezbah korban bakaran dengan semua peralatannya, bejana dan alasnya,"]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "dan pakaian tenunan, pakaian kudus untuk Harun, imam, dan pakaian untuk anak-anaknya untuk melayani sebagai imam,"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "serta minyak urapan dan dupa harum untuk Tempat Kudus. Mereka harus membuatnya sesuai dengan semua yang telah Aku perintahkan kepadamu.”"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": ["Tuhan kemudian berkata kepada Musa,"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "“Berbicaralah kepada orang Israel, dengan mengatakan, ‘Kamu harus memelihara hari Sabat-Ku. Ini adalah tanda antara Aku dan kamu untuk semua generasi, supaya kamu tahu bahwa Akulah Tuhan yang menguduskan kamu."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Oleh karena itu, kamu harus memelihara hari Sabat, karena itu kudus bagimu. Siapa pun yang menodainya harus dihukum mati; siapa pun yang melakukan pekerjaan pada hari itu harus dipisahkan dari bangsanya."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Selama enam hari pekerjaan boleh dilakukan, tetapi hari ketujuh adalah Sabat istirahat penuh, kudus bagi Tuhan. Siapa pun yang melakukan pekerjaan pada hari Sabat harus dihukum mati."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Orang Israel harus memelihara hari Sabat, merayakannya sepanjang generasi mereka sebagai perjanjian yang kekal."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Ini adalah tanda antara Aku dan orang Israel untuk selama-lamanya, karena dalam enam hari Tuhan membuat langit dan bumi, dan pada hari ketujuh Dia berhenti dari pekerjaan dan beristirahat.’”"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Ketika Tuhan selesai berbicara dengan Musa di Gunung Sinai, Dia memberikan kepadanya dua loh hukum perjanjian, loh batu yang ditulis oleh jari Tuhan."
+      ]
+    }
+  ]
 }

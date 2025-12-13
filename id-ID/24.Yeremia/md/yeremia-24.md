@@ -18,7 +18,7 @@ Firman Tuhan datang kepadaku, mengatakan,
 
 ## Yeremia 24:5
 
-“Inilah yang dikatakan Tuhan, Allah Israel: ‘Seperti buah ara yang baik ini, Aku akan menganggap baik orang-orang buangan dari Yehuda, yang telah Kuingkirkan dari tempat ini ke tanah orang Kasdim.
+“Inilah yang dikatakan Tuhan, Tuhan Israel: ‘Seperti buah ara yang baik ini, Aku akan menganggap baik orang-orang buangan dari Yehuda, yang telah Kuingkirkan dari tempat ini ke tanah orang Kasdim.
 
 ## Yeremia 24:6
 
@@ -26,7 +26,7 @@ Aku akan mengawasi mereka untuk kebaikan mereka, dan Aku akan membawa mereka kem
 
 ## Yeremia 24:7
 
-Aku akan memberikan mereka hati yang memahami untuk Mengenal Aku sebagai Tuhan. Mereka akan menjadi umat-Ku, dan Aku akan menjadi Allah mereka, karena mereka akan kembali kepada-Ku dengan sepenuh hati.
+Aku akan memberikan mereka hati yang memahami untuk Mengenal Aku sebagai Tuhan. Mereka akan menjadi umat-Ku, dan Aku akan menjadi Tuhan mereka, karena mereka akan kembali kepada-Ku dengan sepenuh hati.
 
 ## Yeremia 24:8
 

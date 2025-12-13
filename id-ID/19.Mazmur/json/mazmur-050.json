@@ -1,197 +1,172 @@
 {
-    "book": "Mazmur",
-    "chapter": 50,
-    "verses": [
-        {
-            "text": [
-                "Mazmur Asaf."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Yang Mahakuasa, Allah, Tuhan, telah berfirman,",
-                "> Dan memanggil bumi, dari terbitnya matahari sampai terbenamnya."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Dari Sion, puncak keindahan,",
-                "> Allah telah menyatakan terang-Nya."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Biarlah Allah kita datang dan tidak tinggal diam;",
-                "> Api yang menghanguskan mendahului-Nya,",
-                "> Dan badai yang dahsyat berputar di sekeliling-Nya."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Ia memanggil langit di atas,",
-                "> Dan bumi, untuk menghakimi umat-Nya:"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> \"Kumpulkan bagi-Ku orang-orang yang setia,",
-                "> Mereka yang telah mengikat perjanjian dengan-Ku melalui korban.\""
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Dan langit memberitakan kebenaran-Nya,",
-                "> Sebab Allah sendiri adalah hakim.",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> \"Dengarlah, umat-Ku, dan Aku akan berbicara;",
-                "> Israel, Aku akan bersaksi melawan engkau;",
-                "> Akulah Allah, Allahmu."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Aku tidak menegur engkau karena korban-korbanmu,",
-                "> Dan korban bakaranmu selalu ada di hadapan-Ku."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Aku tidak akan mengambil seekor lembu dari rumahmu,",
-                "> Atau kambing jantan dari kandangmu."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Sebab segala binatang di hutan adalah milik-Ku,",
-                "> Ternak di ribuan bukit."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Aku mengenal setiap burung di gunung,",
-                "> Dan segala yang bergerak di padang adalah milik-Ku."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Jika Aku lapar, Aku tidak akan memberitahumu,",
-                "> Sebab dunia ini milik-Ku, dan segala isinya."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Apakah Aku memakan daging lembu",
-                "> Atau minum darah kambing jantan?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Persembahkanlah kepada Allah korban syukur",
-                "> Dan penuhilah nazarmu kepada Yang Mahatinggi;"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Berserulah kepada-Ku pada waktu kesesakan;",
-                "> Aku akan meluputkan engkau, dan engkau akan memuliakan Aku.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Tetapi kepada orang fasik Allah berfirman,",
-                "> \"Apakah hakmu untuk menyebut ketetapan-Ku",
-                "> Dan membicarakan perjanjian-Ku?"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Sebab engkau membenci teguran,",
-                "> Dan engkau melemparkan firman-Ku ke belakangmu."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Ketika engkau melihat pencuri, engkau bersekutu dengannya,",
-                "> Dan engkau bergaul dengan para pezina."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Engkau bebas berbicara jahat,",
-                "> Dan lidahmu menenun tipu daya."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Engkau duduk dan berbicara melawan saudaramu;",
-                "> Engkau memfitnah anak ibumu sendiri."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Hal-hal ini engkau lakukan, dan Aku tetap diam;",
-                "> Engkau mengira Aku seperti engkau;",
-                "> Aku akan menegurmu dan mengemukakan perkara ini di depan matamu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Sekarang renungkanlah ini, kamu yang melupakan Allah,",
-                "> Supaya Aku tidak mencabik-cabik kamu, tanpa ada yang melepaskan."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> Siapa yang mempersembahkan korban syukur memuliakan Aku;",
-                "> Dan kepada orang yang jalannya benar, Aku akan menyatakan keselamatan dari Allah.\""
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 50,
+  "verses": [
+    {
+      "text": ["Mazmur Asaf."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Yang Mahakuasa, Tuhan, Tuhan, telah berfirman,",
+        "> Dan memanggil bumi, dari terbitnya matahari sampai terbenamnya."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": ["> Dari Sion, puncak keindahan,", "> Tuhan telah menyatakan terang-Nya."]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Biarlah Tuhan kita datang dan tidak tinggal diam;",
+        "> Api yang menghanguskan mendahului-Nya,",
+        "> Dan badai yang dahsyat berputar di sekeliling-Nya."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["> Ia memanggil langit di atas,", "> Dan bumi, untuk menghakimi umat-Nya:"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> \"Kumpulkan bagi-Ku orang-orang yang setia,",
+        "> Mereka yang telah mengikat perjanjian dengan-Ku melalui korban.\""
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Dan langit memberitakan kebenaran-Nya,",
+        "> Sebab Tuhan sendiri adalah hakim.",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> \"Dengarlah, umat-Ku, dan Aku akan berbicara;",
+        "> Israel, Aku akan bersaksi melawan engkau;",
+        "> Akulah Tuhan, Tuhanmu."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Aku tidak menegur engkau karena korban-korbanmu,",
+        "> Dan korban bakaranmu selalu ada di hadapan-Ku."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Aku tidak akan mengambil seekor lembu dari rumahmu,",
+        "> Atau kambing jantan dari kandangmu."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": ["> Sebab segala binatang di hutan adalah milik-Ku,", "> Ternak di ribuan bukit."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Aku mengenal setiap burung di gunung,",
+        "> Dan segala yang bergerak di padang adalah milik-Ku."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Jika Aku lapar, Aku tidak akan memberitahumu,",
+        "> Sebab dunia ini milik-Ku, dan segala isinya."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["> Apakah Aku memakan daging lembu", "> Atau minum darah kambing jantan?"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Persembahkanlah kepada Tuhan korban syukur",
+        "> Dan penuhilah nazarmu kepada Yang Mahatinggi;"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Berserulah kepada-Ku pada waktu kesesakan;",
+        "> Aku akan meluputkan engkau, dan engkau akan memuliakan Aku.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Tetapi kepada orang fasik Tuhan berfirman,",
+        "> \"Apakah hakmu untuk menyebut ketetapan-Ku",
+        "> Dan membicarakan perjanjian-Ku?"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Sebab engkau membenci teguran,",
+        "> Dan engkau melemparkan firman-Ku ke belakangmu."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Ketika engkau melihat pencuri, engkau bersekutu dengannya,",
+        "> Dan engkau bergaul dengan para pezina."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": ["> Engkau bebas berbicara jahat,", "> Dan lidahmu menenun tipu daya."]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Engkau duduk dan berbicara melawan saudaramu;",
+        "> Engkau memfitnah anak ibumu sendiri."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "> Hal-hal ini engkau lakukan, dan Aku tetap diam;",
+        "> Engkau mengira Aku seperti engkau;",
+        "> Aku akan menegurmu dan mengemukakan perkara ini di depan matamu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "> Sekarang renungkanlah ini, kamu yang melupakan Tuhan,",
+        "> Supaya Aku tidak mencabik-cabik kamu, tanpa ada yang melepaskan."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> Siapa yang mempersembahkan korban syukur memuliakan Aku;",
+        "> Dan kepada orang yang jalannya benar, Aku akan menyatakan keselamatan dari Tuhan.\""
+      ]
+    }
+  ]
 }

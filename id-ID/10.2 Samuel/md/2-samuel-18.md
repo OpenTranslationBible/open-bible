@@ -184,7 +184,7 @@ Dan raja berkata, “Dia adalah orang baik, dan dia datang dengan kabar baik.”
 Kemudian Ahimaas berseru dan berkata kepada raja,  
 “Semuanya baik.”  
 Dan dia sujud di hadapan raja dengan wajahnya ke tanah dan berkata,  
-“Diberkatilah Tuhan, Allahmu,  
+“Diberkatilah Tuhan, Tuhanmu,  
 yang telah menyerahkan orang-orang yang mengangkat tangan mereka melawan tuanku raja.”
 
 ## 2 Samuel 18:29

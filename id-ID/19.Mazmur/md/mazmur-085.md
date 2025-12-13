@@ -23,7 +23,7 @@
 
 ## Mazmur 85:4
 
-> Pulihkanlah kami, Allah penyelamat kami,  
+> Pulihkanlah kami, Tuhan penyelamat kami,  
 > Dan biarlah kemarahan-Mu terhadap kami berakhir.
 
 ## Mazmur 85:5
@@ -45,7 +45,7 @@
 
 ## Mazmur 85:8
 
-> Aku akan mendengarkan apa yang akan dikatakan Allah Tuhan;  
+> Aku akan mendengarkan apa yang akan dikatakan Tuhan Tuhan;  
 > Karena Ia akan berbicara damai kepada umat-Nya, kepada orang-orang setia-Nya;  
 > Dan semoga mereka tidak kembali kepada kebodohan.
 

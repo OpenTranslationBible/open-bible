@@ -136,7 +136,7 @@ Orang-orang Israel berkemah di hadapan mereka seperti dua kawanan kecil kambing,
 
 ## 1 Raja-raja 20:28
 
-Kemudian seorang abdi Allah datang dan berkata kepada raja Israel,  
+Kemudian seorang abdi Tuhan datang dan berkata kepada raja Israel,  
 “Inilah yang dikatakan Tuhan: Karena orang-orang Aram telah berkata,  
 ‘Tuhan adalah dewa bukit tetapi bukan dewa lembah,’  
 Aku akan menyerahkan tentara besar ini ke dalam tanganmu, dan engkau akan tahu bahwa Akulah Tuhan.”

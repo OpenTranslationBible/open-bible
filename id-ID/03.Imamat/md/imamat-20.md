@@ -2,7 +2,7 @@
 
 ## Imamat 20:1
 
-Kemudian Tuhan berfirman kepada Musa, 
+Kemudian Tuhan berfirman kepada Musa,
 
 ## Imamat 20:2
 
@@ -26,7 +26,7 @@ Aku akan menentang orang itu dan keluarganya dan memutuskan mereka dari bangsany
 
 ## Imamat 20:7
 
-Kuduskanlah dirimu dan jadilah kudus, karena Akulah Tuhan, Allahmu.
+Kuduskanlah dirimu dan jadilah kudus, karena Akulah Tuhan, Tuhanmu.
 
 ## Imamat 20:8
 
@@ -94,7 +94,7 @@ Kamu tidak boleh mengikuti kebiasaan bangsa-bangsa yang akan Kusingkirkan dari h
 
 ## Imamat 20:24
 
-Tetapi Aku telah berkata kepadamu, "Kamu akan mewarisi tanah mereka; Aku akan memberikannya kepadamu sebagai warisan, tanah yang berlimpah susu dan madu." Akulah Tuhan, Allahmu, yang telah memisahkan kamu dari bangsa-bangsa.
+Tetapi Aku telah berkata kepadamu, "Kamu akan mewarisi tanah mereka; Aku akan memberikannya kepadamu sebagai warisan, tanah yang berlimpah susu dan madu." Akulah Tuhan, Tuhanmu, yang telah memisahkan kamu dari bangsa-bangsa.
 
 ## Imamat 20:25
 

@@ -30,14 +30,14 @@ Dengarlah firman ini yang diucapkan Tuhan terhadap kamu, hai orang Israel, terha
 
 ## Amos 3:7
 
-> Sesungguhnya Tuhan Allah tidak melakukan apa-apa
+> Sesungguhnya Tuhan Tuhan tidak melakukan apa-apa
 > tanpa menyatakan rencana rahasia-Nya
 > kepada hamba-hamba-Nya, para nabi.
 
 ## Amos 3:8
 
 > Singa telah mengaum—siapa yang tidak takut?
-> Tuhan Allah telah berfirman—siapa yang tidak bernubuat?
+> Tuhan Tuhan telah berfirman—siapa yang tidak bernubuat?
 
 ## Amos 3:9
 
@@ -71,7 +71,7 @@ Inilah yang dikatakan Tuhan:
 ## Amos 3:13
 
 > “Dengarlah dan bersaksilah melawan kaum Yakub,”
-> firman Tuhan Allah, Allah semesta alam.
+> firman Tuhan Tuhan, Tuhan semesta alam.
 
 ## Amos 3:14
 

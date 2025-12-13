@@ -2,11 +2,11 @@
 
 ## 1 Yohanes 3:1
 
-Lihatlah betapa besar kasih yang telah dikaruniakan Bapa kepada kita, sehingga kita disebut anak-anak Allah; dan memang kita adalah anak-anak Allah. Itulah sebabnya dunia tidak mengenal kita: karena dunia tidak mengenal Dia.
+Lihatlah betapa besar kasih yang telah dikaruniakan Bapa kepada kita, sehingga kita disebut anak-anak Tuhan; dan memang kita adalah anak-anak Tuhan. Itulah sebabnya dunia tidak mengenal kita: karena dunia tidak mengenal Dia.
 
 ## 1 Yohanes 3:2
 
-Saudara-saudara yang terkasih, sekarang kita adalah anak-anak Allah, dan belum dinyatakan apa yang akan kita jadi. Kita tahu bahwa apabila Dia dinyatakan, kita akan menjadi seperti Dia, karena kita akan melihat Dia dalam keadaan-Nya yang sebenarnya.
+Saudara-saudara yang terkasih, sekarang kita adalah anak-anak Tuhan, dan belum dinyatakan apa yang akan kita jadi. Kita tahu bahwa apabila Dia dinyatakan, kita akan menjadi seperti Dia, karena kita akan melihat Dia dalam keadaan-Nya yang sebenarnya.
 
 ## 1 Yohanes 3:3
 
@@ -30,15 +30,15 @@ Anak-anak kecil, jangan biarkan siapa pun menyesatkan kamu; orang yang melakukan
 
 ## 1 Yohanes 3:8
 
-orang yang berbuat dosa berasal dari iblis; karena iblis telah berbuat dosa sejak awal. Anak Allah telah menyatakan diri-Nya untuk tujuan ini, untuk membatalkan pekerjaan-pekerjaan iblis.
+orang yang berbuat dosa berasal dari iblis; karena iblis telah berbuat dosa sejak awal. Anak Tuhan telah menyatakan diri-Nya untuk tujuan ini, untuk membatalkan pekerjaan-pekerjaan iblis.
 
 ## 1 Yohanes 3:9
 
-Tidak seorang pun yang lahir dari Allah terus berbuat dosa, karena benih-Nya tinggal di dalam dia; dan dia tidak dapat terus berbuat dosa, karena dia lahir dari Allah.
+Tidak seorang pun yang lahir dari Tuhan terus berbuat dosa, karena benih-Nya tinggal di dalam dia; dan dia tidak dapat terus berbuat dosa, karena dia lahir dari Tuhan.
 
 ## 1 Yohanes 3:10
 
-Dengan ini anak-anak Allah dan anak-anak iblis menjadi nyata: siapa pun yang tidak melakukan kebenaran bukanlah dari Allah, demikian juga orang yang tidak mengasihi saudaranya.
+Dengan ini anak-anak Tuhan dan anak-anak iblis menjadi nyata: siapa pun yang tidak melakukan kebenaran bukanlah dari Tuhan, demikian juga orang yang tidak mengasihi saudaranya.
 
 ## 1 Yohanes 3:11
 
@@ -66,7 +66,7 @@ Kita memahami kasih dengan ini, bahwa Dia telah menyerahkan nyawa-Nya untuk kita
 
 ## 1 Yohanes 3:17
 
-Tetapi siapa pun yang memiliki harta duniawi dan melihat saudaranya dalam kebutuhan, dan menutup hatinya terhadap mereka, bagaimana mungkin kasih Allah tinggal di dalam dirinya?
+Tetapi siapa pun yang memiliki harta duniawi dan melihat saudaranya dalam kebutuhan, dan menutup hatinya terhadap mereka, bagaimana mungkin kasih Tuhan tinggal di dalam dirinya?
 
 ## 1 Yohanes 3:18
 
@@ -78,11 +78,11 @@ Dengan ini kita akan tahu bahwa kita adalah dari kebenaran, dan akan meyakinkan 
 
 ## 1 Yohanes 3:20
 
-bahwa jika hati kita menuduh kita, Allah lebih besar dari hati kita, dan Dia mengetahui segala sesuatu.
+bahwa jika hati kita menuduh kita, Tuhan lebih besar dari hati kita, dan Dia mengetahui segala sesuatu.
 
 ## 1 Yohanes 3:21
 
-Saudara-saudara yang terkasih, jika hati kita damai, kita memiliki kepercayaan di hadapan Allah;
+Saudara-saudara yang terkasih, jika hati kita damai, kita memiliki kepercayaan di hadapan Tuhan;
 
 ## 1 Yohanes 3:22
 

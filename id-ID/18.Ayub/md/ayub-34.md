@@ -24,7 +24,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 ## Ayub 34:5
 
 > Karena Ayub telah berkata, 'Aku benar,
-> tetapi Allah telah menolak keadilanku.
+> tetapi Tuhan telah menolak keadilanku.
 
 ## Ayub 34:6
 
@@ -44,12 +44,12 @@ Kemudian Elihu melanjutkan dan berbicara:
 ## Ayub 34:9
 
 > Karena ia telah berkata, 'Tidak ada manfaat bagi manusia
-> dalam berusaha menyenangkan Allah.'
+> dalam berusaha menyenangkan Tuhan.'
 
 ## Ayub 34:10
 
 > "Oleh karena itu, dengarkanlah aku, hai orang-orang yang berakal budi.
-> Jauh dari Allah untuk berbuat jahat,
+> Jauh dari Tuhan untuk berbuat jahat,
 > dan dari Yang Mahakuasa untuk berbuat salah.
 
 ## Ayub 34:11
@@ -59,7 +59,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 ## Ayub 34:12
 
-> Tidak terbayangkan bahwa Allah akan bertindak jahat,
+> Tidak terbayangkan bahwa Tuhan akan bertindak jahat,
 > atau bahwa Yang Mahakuasa akan membelokkan keadilan.
 
 ## Ayub 34:13
@@ -120,7 +120,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 ## Ayub 34:23
 
-> Allah tidak perlu memeriksa orang lebih lanjut,
+> Tuhan tidak perlu memeriksa orang lebih lanjut,
 > agar mereka datang ke hadapan-Nya untuk dihakimi.
 
 ## Ayub 34:24
@@ -163,7 +163,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 ## Ayub 34:31
 
-> "Karena adakah orang yang berkata kepada Allah,
+> "Karena adakah orang yang berkata kepada Tuhan,
 > 'Aku telah menanggung hukuman; aku tidak akan berbuat salah lagi;
 
 ## Ayub 34:32
@@ -173,7 +173,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 ## Ayub 34:33
 
-> Haruskah Allah membalas menurut syaratmu karena kamu menolak syarat-Nya?
+> Haruskah Tuhan membalas menurut syaratmu karena kamu menolak syarat-Nya?
 > Kamu harus memilih, bukan aku;
 > oleh karena itu, nyatakanlah apa yang kamu ketahui.
 
@@ -198,4 +198,4 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 > Karena dia menambah pemberontakan pada dosanya;
 > dia bertepuk tangan di antara kita
-> dan menambah perkataannya melawan Allah."
+> dan menambah perkataannya melawan Tuhan."

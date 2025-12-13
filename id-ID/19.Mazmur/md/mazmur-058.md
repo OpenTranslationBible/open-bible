@@ -33,7 +33,7 @@
 
 ## Mazmur 58:6
 
-> Ya Allah, patahkan gigi mereka di dalam mulut mereka;  
+> Ya Tuhan, patahkan gigi mereka di dalam mulut mereka;  
 > Cabut taring singa-singa muda itu, Tuhan.
 
 ## Mazmur 58:7
@@ -61,4 +61,4 @@
 ## Mazmur 58:11
 
 > Dan orang-orang akan berkata, “Sungguh ada ganjaran bagi orang benar;  
-> Sungguh ada Allah yang menghakimi di bumi!”
+> Sungguh ada Tuhan yang menghakimi di bumi!”

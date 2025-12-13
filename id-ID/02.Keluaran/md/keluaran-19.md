@@ -10,7 +10,7 @@ Setelah berangkat dari Rafidim, mereka tiba di Padang Gurun Sinai dan berkemah d
 
 ## Keluaran 19:3
 
-Musa naik menghadap Allah, dan Tuhan memanggilnya dari gunung, dengan berkata, “Inilah yang harus kaukatakan kepada keturunan Yakub dan sampaikan kepada orang Israel:
+Musa naik menghadap Tuhan, dan Tuhan memanggilnya dari gunung, dengan berkata, “Inilah yang harus kaukatakan kepada keturunan Yakub dan sampaikan kepada orang Israel:
 
 ## Keluaran 19:4
 
@@ -66,7 +66,7 @@ Pada pagi hari ketiga, ada guruh dan kilat, dengan awan tebal di atas gunung dan
 
 ## Keluaran 19:17
 
-Musa membawa bangsa itu keluar dari perkemahan untuk bertemu dengan Allah, dan mereka berdiri di kaki gunung.
+Musa membawa bangsa itu keluar dari perkemahan untuk bertemu dengan Tuhan, dan mereka berdiri di kaki gunung.
 
 ## Keluaran 19:18
 
@@ -74,7 +74,7 @@ Gunung Sinai ditutupi asap karena Tuhan turun di atasnya dalam api. Asapnya naik
 
 ## Keluaran 19:19
 
-Ketika bunyi sangkakala semakin keras dan keras, Musa berbicara, dan Allah menjawabnya dengan suara seperti guruh.
+Ketika bunyi sangkakala semakin keras dan keras, Musa berbicara, dan Tuhan menjawabnya dengan suara seperti guruh.
 
 ## Keluaran 19:20
 

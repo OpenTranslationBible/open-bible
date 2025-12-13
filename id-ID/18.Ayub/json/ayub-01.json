@@ -1,175 +1,159 @@
 {
-    "book": "Ayub",
-    "chapter": 1,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Di tanah Us, ada seorang pria bernama Ayub; orang ini tidak bercela dan jujur, takut akan Allah dan menjauhi kejahatan."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Ayub diberkati dengan tujuh putra dan tiga putri."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Kekayaannya termasuk tujuh ribu domba, tiga ribu unta, lima ratus pasang lembu, lima ratus keledai betina, dan banyak sekali pelayan. Dia adalah orang yang paling terkemuka di antara semua orang di Timur."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Anak-anaknya akan bergiliran mengadakan perjamuan di rumah mereka pada hari yang ditentukan, dan mereka akan mengundang ketiga saudara perempuan mereka untuk makan dan minum bersama mereka."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Ketika hari-hari perjamuan telah berlalu, Ayub akan memanggil mereka dan menguduskan mereka. Bangun pagi-pagi sekali, dia akan mempersembahkan korban bakaran untuk masing-masing dari mereka, berpikir, \"Mungkin anak-anakku telah berdosa dan mengutuk Allah dalam hati mereka.\" Ini adalah kebiasaan Ayub yang teratur."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Suatu hari, anak-anak Allah datang untuk menghadap Tuhan, dan Iblis juga datang di antara mereka."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Tuhan bertanya kepada Iblis, \"Dari mana kamu datang?\"",
-                "---",
-                "Iblis menjawab Tuhan, \"Dari mengembara di bumi dan berjalan bolak-balik di atasnya.\""
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Kemudian Tuhan berkata kepada Iblis, \"Apakah kamu memperhatikan hamba-Ku Ayub? Tidak ada seorang pun seperti dia di bumi; dia tidak bercela dan jujur, seorang yang takut akan Allah dan menjauhi kejahatan.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Iblis menjawab Tuhan, \"Apakah Ayub takut akan Allah dengan sia-sia?\""
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "\"Bukankah Engkau telah membuat pagar di sekeliling dia dan rumah tangganya dan semua yang dimilikinya? Engkau telah memberkati pekerjaan tangannya, dan ternaknya telah menyebar ke seluruh negeri."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Tetapi ulurkan tangan-Mu sekarang dan sentuh semua yang dia miliki, dan dia pasti akan mengutuk Engkau di hadapan-Mu.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tuhan berkata kepada Iblis, \"Baiklah, semua yang dia miliki ada dalam kuasamu, tetapi jangan letakkan tanganmu pada dirinya sendiri.\"",
-                "Maka Iblis pergi dari hadapan Tuhan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Suatu hari, ketika putra dan putri Ayub sedang makan dan minum anggur di rumah saudara tertua mereka,"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "seorang utusan datang dan melaporkan kepada Ayub, \"Lembu-lembu sedang membajak dan keledai-keledai sedang merumput di dekatnya,"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "ketika orang-orang Sabea menyerang dan membawa mereka pergi. Mereka membunuh para pelayan, dan hanya aku yang lolos untuk memberitahumu.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Sementara dia masih berbicara, utusan lain datang dan berkata, \"Api Allah jatuh dari langit dan membakar domba-domba dan para pelayan, dan hanya aku yang lolos untuk memberitahumu.\""
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Sementara dia masih berbicara, utusan lain datang dan berkata, \"Orang-orang Kasdim membentuk tiga kelompok dan menyerbu unta-unta dan membawa mereka pergi. Mereka membunuh para pelayan, dan hanya aku yang lolos untuk memberitahumu.\""
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Sementara dia masih berbicara, utusan lain datang dan berkata, \"Putra-putra dan putri-putrimu sedang makan dan minum anggur di rumah saudara tertua mereka,"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "ketika tiba-tiba angin kencang datang dari padang gurun dan menghantam keempat sudut rumah, dan rumah itu runtuh menimpa mereka, dan mereka mati. Hanya aku yang lolos untuk memberitahumu.\""
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Mendengar hal ini, Ayub bangkit, mengoyakkan jubahnya, dan mencukur kepalanya. Kemudian dia jatuh ke tanah dan menyembah."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Dia berkata,",
-                "> \"Dengan telanjang aku keluar dari rahim ibuku,",
-                "> dan dengan telanjang aku akan kembali ke sana.",
-                "> Tuhan yang memberi, dan Tuhan yang mengambil;",
-                "> terpujilah nama Tuhan.\""
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Sepanjang semua peristiwa ini, Ayub tidak berdosa atau menuduh Allah berbuat salah."
-            ]
-        }
-    ]
+  "book": "Ayub",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Di tanah Us, ada seorang pria bernama Ayub; orang ini tidak bercela dan jujur, takut akan Tuhan dan menjauhi kejahatan."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": ["Ayub diberkati dengan tujuh putra dan tiga putri."]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Kekayaannya termasuk tujuh ribu domba, tiga ribu unta, lima ratus pasang lembu, lima ratus keledai betina, dan banyak sekali pelayan. Dia adalah orang yang paling terkemuka di antara semua orang di Timur."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Anak-anaknya akan bergiliran mengadakan perjamuan di rumah mereka pada hari yang ditentukan, dan mereka akan mengundang ketiga saudara perempuan mereka untuk makan dan minum bersama mereka."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Ketika hari-hari perjamuan telah berlalu, Ayub akan memanggil mereka dan menguduskan mereka. Bangun pagi-pagi sekali, dia akan mempersembahkan korban bakaran untuk masing-masing dari mereka, berpikir, \"Mungkin anak-anakku telah berdosa dan mengutuk Tuhan dalam hati mereka.\" Ini adalah kebiasaan Ayub yang teratur."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Suatu hari, anak-anak Tuhan datang untuk menghadap Tuhan, dan Iblis juga datang di antara mereka."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Tuhan bertanya kepada Iblis, \"Dari mana kamu datang?\"",
+        "---",
+        "Iblis menjawab Tuhan, \"Dari mengembara di bumi dan berjalan bolak-balik di atasnya.\""
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Kemudian Tuhan berkata kepada Iblis, \"Apakah kamu memperhatikan hamba-Ku Ayub? Tidak ada seorang pun seperti dia di bumi; dia tidak bercela dan jujur, seorang yang takut akan Tuhan dan menjauhi kejahatan.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": ["Iblis menjawab Tuhan, \"Apakah Ayub takut akan Tuhan dengan sia-sia?\""]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "\"Bukankah Engkau telah membuat pagar di sekeliling dia dan rumah tangganya dan semua yang dimilikinya? Engkau telah memberkati pekerjaan tangannya, dan ternaknya telah menyebar ke seluruh negeri."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Tetapi ulurkan tangan-Mu sekarang dan sentuh semua yang dia miliki, dan dia pasti akan mengutuk Engkau di hadapan-Mu.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Tuhan berkata kepada Iblis, \"Baiklah, semua yang dia miliki ada dalam kuasamu, tetapi jangan letakkan tanganmu pada dirinya sendiri.\"",
+        "Maka Iblis pergi dari hadapan Tuhan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Suatu hari, ketika putra dan putri Ayub sedang makan dan minum anggur di rumah saudara tertua mereka,"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "seorang utusan datang dan melaporkan kepada Ayub, \"Lembu-lembu sedang membajak dan keledai-keledai sedang merumput di dekatnya,"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "ketika orang-orang Sabea menyerang dan membawa mereka pergi. Mereka membunuh para pelayan, dan hanya aku yang lolos untuk memberitahumu.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Sementara dia masih berbicara, utusan lain datang dan berkata, \"Api Tuhan jatuh dari langit dan membakar domba-domba dan para pelayan, dan hanya aku yang lolos untuk memberitahumu.\""
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Sementara dia masih berbicara, utusan lain datang dan berkata, \"Orang-orang Kasdim membentuk tiga kelompok dan menyerbu unta-unta dan membawa mereka pergi. Mereka membunuh para pelayan, dan hanya aku yang lolos untuk memberitahumu.\""
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Sementara dia masih berbicara, utusan lain datang dan berkata, \"Putra-putra dan putri-putrimu sedang makan dan minum anggur di rumah saudara tertua mereka,"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "ketika tiba-tiba angin kencang datang dari padang gurun dan menghantam keempat sudut rumah, dan rumah itu runtuh menimpa mereka, dan mereka mati. Hanya aku yang lolos untuk memberitahumu.\""
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Mendengar hal ini, Ayub bangkit, mengoyakkan jubahnya, dan mencukur kepalanya. Kemudian dia jatuh ke tanah dan menyembah."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Dia berkata,",
+        "> \"Dengan telanjang aku keluar dari rahim ibuku,",
+        "> dan dengan telanjang aku akan kembali ke sana.",
+        "> Tuhan yang memberi, dan Tuhan yang mengambil;",
+        "> terpujilah nama Tuhan.\""
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Sepanjang semua peristiwa ini, Ayub tidak berdosa atau menuduh Tuhan berbuat salah."
+      ]
+    }
+  ]
 }

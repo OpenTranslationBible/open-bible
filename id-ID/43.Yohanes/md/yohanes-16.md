@@ -6,7 +6,7 @@
 
 ## Yohanes 16:2
 
-Mereka akan mengeluarkan kamu dari sinagoga; bahkan, saatnya akan datang ketika siapa pun yang membunuh kamu akan mengira bahwa mereka memberikan pelayanan kepada Allah.
+Mereka akan mengeluarkan kamu dari sinagoga; bahkan, saatnya akan datang ketika siapa pun yang membunuh kamu akan mengira bahwa mereka memberikan pelayanan kepada Tuhan.
 
 ## Yohanes 16:3
 
@@ -118,7 +118,7 @@ Pada hari itu, kamu akan meminta dalam nama-Ku. Aku tidak mengatakan bahwa Aku a
 
 ## Yohanes 16:27
 
-Bapa mengasihi kamu, karena kamu telah mengasihi Aku dan percaya bahwa Aku datang dari Allah.
+Bapa mengasihi kamu, karena kamu telah mengasihi Aku dan percaya bahwa Aku datang dari Tuhan.
 
 ## Yohanes 16:28
 
@@ -132,7 +132,7 @@ Kemudian murid-murid-Nya berkata, “Sekarang Engkau berbicara dengan jelas dan 
 
 ## Yohanes 16:30
 
-Sekarang kami melihat bahwa Engkau mengetahui segala sesuatu dan tidak memerlukan siapa pun untuk menanyai Engkau. Ini membuat kami percaya bahwa Engkau datang dari Allah.”
+Sekarang kami melihat bahwa Engkau mengetahui segala sesuatu dan tidak memerlukan siapa pun untuk menanyai Engkau. Ini membuat kami percaya bahwa Engkau datang dari Tuhan.”
 
 ## Yohanes 16:31
 

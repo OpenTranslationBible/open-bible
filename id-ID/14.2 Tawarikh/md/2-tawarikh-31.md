@@ -37,7 +37,7 @@ dan mereka membawa dengan berlimpah persepuluhan dari segala sesuatu.
 ## 2 Tawarikh 31:6
 
 Orang-orang Israel dan Yehuda yang tinggal di kota-kota Yehuda juga membawa persepuluhan dari lembu dan domba,  
-dan persepuluhan dari persembahan kudus yang didedikasikan kepada Tuhan Allah mereka, dan menempatkannya dalam tumpukan.
+dan persepuluhan dari persembahan kudus yang didedikasikan kepada Tuhan Tuhan mereka, dan menempatkannya dalam tumpukan.
 
 ## 2 Tawarikh 31:7
 
@@ -75,14 +75,14 @@ dan Konanya orang Lewi adalah petugas yang bertanggung jawab atas mereka, dan sa
 
 Yehiel, Azazya, Nahath, Asahel, Yerimot, Yozabad, Eliel, Ismakya, Mahat, dan Benaya  
 adalah pengawas di bawah otoritas Konanya dan Simei saudaranya atas penunjukan Raja Hizkia,  
-dan Azarya bertindak sebagai petugas utama rumah Allah.
+dan Azarya bertindak sebagai petugas utama rumah Tuhan.
 
 ---
 
 ## 2 Tawarikh 31:14
 
 Kore anak Imna orang Lewi, penjaga pintu gerbang timur,  
-bertanggung jawab atas persembahan sukarela untuk Allah,  
+bertanggung jawab atas persembahan sukarela untuk Tuhan,  
 untuk mendistribusikan persembahan-persembahan untuk Tuhan dan barang-barang yang paling kudus.
 
 ## 2 Tawarikh 31:15
@@ -120,9 +120,9 @@ ada orang-orang yang ditunjuk dengan nama untuk mendistribusikan bagian-bagian k
 ## 2 Tawarikh 31:20
 
 Inilah praktik Hizkia di seluruh Yehuda;  
-dan ia bertindak dengan cara yang baik, benar, dan benar di hadapan Tuhan Allahnya.
+dan ia bertindak dengan cara yang baik, benar, dan benar di hadapan Tuhan Tuhannya.
 
 ## 2 Tawarikh 31:21
 
-Setiap pekerjaan yang ia mulai dalam pelayanan rumah Allah,  
-dalam Hukum dan dalam perintah, mencari Allahnya, ia lakukan dengan segenap hatinya dan berhasil.
+Setiap pekerjaan yang ia mulai dalam pelayanan rumah Tuhan,  
+dalam Hukum dan dalam perintah, mencari Tuhannya, ia lakukan dengan segenap hatinya dan berhasil.

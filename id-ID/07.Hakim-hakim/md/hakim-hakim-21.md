@@ -6,11 +6,11 @@ Orang Israel telah bersumpah di Mizpa, dengan berkata, "Tidak seorang pun dari k
 
 ## Hakim-Hakim 21:2
 
-Orang-orang pergi ke Betel dan duduk di sana di hadapan Allah sampai malam, mengangkat suara mereka dan menangis dengan pahit.
+Orang-orang pergi ke Betel dan duduk di sana di hadapan Tuhan sampai malam, mengangkat suara mereka dan menangis dengan pahit.
 
 ## Hakim-Hakim 21:3
 
-"Mengapa, Tuhan, Allah Israel," mereka berseru, "hal ini terjadi di Israel, bahwa satu suku hilang hari ini dari Israel?"
+"Mengapa, Tuhan, Tuhan Israel," mereka berseru, "hal ini terjadi di Israel, bahwa satu suku hilang hari ini dari Israel?"
 
 ---
 

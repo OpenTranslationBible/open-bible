@@ -75,7 +75,7 @@ Kemudian Saul berkata kepada orang-orang yang bersamanya, “Panggillah daftar d
 
 ## 1 Samuel 14:18
 
-Jadi Saul berkata kepada Ahia, “Bawalah tabut Allah ke sini.” Karena tabut Allah pada waktu itu ada bersama anak-anak Israel.
+Jadi Saul berkata kepada Ahia, “Bawalah tabut Tuhan ke sini.” Karena tabut Tuhan pada waktu itu ada bersama anak-anak Israel.
 
 ## 1 Samuel 14:19
 
@@ -174,7 +174,7 @@ Kemudian dia berkata kepada seluruh Israel, “Kamu akan berada di satu sisi, da
 
 ## 1 Samuel 14:41
 
-Oleh karena itu Saul berkata kepada Tuhan, “Ya Allah Israel, berikan undian yang sempurna.” Dan Yonatan dan Saul diambil, tetapi orang-orang lolos.
+Oleh karena itu Saul berkata kepada Tuhan, “Ya Tuhan Israel, berikan undian yang sempurna.” Dan Yonatan dan Saul diambil, tetapi orang-orang lolos.
 
 ## 1 Samuel 14:42
 
@@ -187,7 +187,7 @@ Dan Yonatan berkata kepadanya, “Aku memang mencicipi sedikit madu dengan ujung
 
 ## 1 Samuel 14:44
 
-Dan Saul berkata, “Allah melakukan demikian kepadaku dan lebih lagi, karena kamu pasti akan mati, Yonatan.”
+Dan Saul berkata, “Tuhan melakukan demikian kepadaku dan lebih lagi, karena kamu pasti akan mati, Yonatan.”
 
 ## 1 Samuel 14:45
 

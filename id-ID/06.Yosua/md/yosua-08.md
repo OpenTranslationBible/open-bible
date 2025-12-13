@@ -28,7 +28,7 @@ Mereka akan mengejar kami sampai kami menjauhkan mereka dari kota, karena mereka
 
 ## Yosua 8:7
 
-Kemudian kamu harus bangkit dari tempat persembunyianmu dan menguasai kota, karena Tuhan Allahmu akan menyerahkannya ke dalam tanganmu.
+Kemudian kamu harus bangkit dari tempat persembunyianmu dan menguasai kota, karena Tuhan Tuhanmu akan menyerahkannya ke dalam tanganmu.
 
 ## Yosua 8:8
 
@@ -124,7 +124,7 @@ Dia menggantung raja Ai di pohon sampai malam, dan saat matahari terbenam Yosua 
 
 ## Yosua 8:30
 
-Kemudian Yosua membangun mezbah untuk Tuhan, mezbah untuk Allah Israel, dibangun di Gunung Ebal,
+Kemudian Yosua membangun mezbah untuk Tuhan, mezbah untuk Tuhan Israel, dibangun di Gunung Ebal,
 
 ## Yosua 8:31
 

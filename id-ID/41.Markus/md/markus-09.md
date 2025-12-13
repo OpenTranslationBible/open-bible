@@ -2,7 +2,7 @@
 
 ## Markus 9:1
 
-Dan Yesus berkata kepada mereka, “Sesungguhnya Aku berkata kepadamu, ada beberapa orang yang berdiri di sini yang tidak akan mengalami kematian sebelum mereka melihat kerajaan Allah datang dengan kuasa.”
+Dan Yesus berkata kepada mereka, “Sesungguhnya Aku berkata kepadamu, ada beberapa orang yang berdiri di sini yang tidak akan mengalami kematian sebelum mereka melihat kerajaan Tuhan datang dengan kuasa.”
 
 ---
 
@@ -200,7 +200,7 @@ Dan jika kakimu menyebabkan kamu tersandung, potonglah. Lebih baik bagimu masuk 
 
 ## Markus 9:47
 
-Dan jika matamu menyebabkan kamu tersandung, cungkillah. Lebih baik bagimu masuk ke dalam kerajaan Allah dengan satu mata daripada memiliki dua mata dan dilemparkan ke neraka,
+Dan jika matamu menyebabkan kamu tersandung, cungkillah. Lebih baik bagimu masuk ke dalam kerajaan Tuhan dengan satu mata daripada memiliki dua mata dan dilemparkan ke neraka,
 
 ## Markus 9:48
 

@@ -122,7 +122,7 @@ Daud keluar menemui mereka dan berkata kepada mereka,
 
 > “Jika kamu datang dengan damai kepadaku untuk membantuku, hatiku akan bersatu denganmu;  
 > tetapi jika untuk mengkhianatiku kepada musuhku, meskipun tidak ada kekerasan di tanganku,  
-> semoga Allah nenek moyang kita melihat dan menghakimi.”
+> semoga Tuhan nenek moyang kita melihat dan menghakimi.”
 
 ---
 
@@ -134,7 +134,7 @@ Kemudian Roh datang atas Amasai, yang adalah kepala dari tiga puluh, dan ia berk
 > dan bersamamu, anak Isai!  
 > Damai, damai bagimu,  
 > dan damai bagi dia yang membantumu;  
-> karena Allahmu menolongmu.”  
+> karena Tuhanmu menolongmu.”  
 > Maka Daud menerima mereka dan menjadikan mereka pemimpin pasukan.
 
 ---
@@ -169,7 +169,7 @@ Mereka membantu Daud melawan gerombolan perampok,
 ## 1 Tawarikh 12:22
 
 Karena hari demi hari orang-orang datang kepada Daud untuk mendukungnya,  
-hingga ada tentara besar, sebanding dengan tentara Allah.
+hingga ada tentara besar, sebanding dengan tentara Tuhan.
 
 ---
 

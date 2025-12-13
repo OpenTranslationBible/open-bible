@@ -96,7 +96,7 @@ Anak-anak Lewi, kepala-kepala keluarga, dicatat dalam Kitab Tawarikh sampai zama
 
 ## Nehemia 12:24
 
-Para pemimpin orang Lewi adalah Hasabya, Serebya, Yesua bin Kadmiel, dan saudara-saudara mereka, yang berdiri berhadapan untuk memuji dan bersyukur, satu bagian menjawab yang lain, seperti yang ditetapkan oleh Daud, abdi Allah.
+Para pemimpin orang Lewi adalah Hasabya, Serebya, Yesua bin Kadmiel, dan saudara-saudara mereka, yang berdiri berhadapan untuk memuji dan bersyukur, satu bagian menjawab yang lain, seperti yang ditetapkan oleh Daud, abdi Tuhan.
 
 ## Nehemia 12:25
 
@@ -144,7 +144,7 @@ dan beberapa imam dengan trompet, dan juga Zakharia bin Yonatan, anak Semaya, an
 
 ## Nehemia 12:36
 
-dan saudara-saudaranya—Semaya, Azarel, Milalai, Gilalai, Maai, Netanel, Yehuda, dan Hanani—dengan alat musik Daud, abdi Allah. Ezra, ahli kitab, memimpin mereka.
+dan saudara-saudaranya—Semaya, Azarel, Milalai, Gilalai, Maai, Netanel, Yehuda, dan Hanani—dengan alat musik Daud, abdi Tuhan. Ezra, ahli kitab, memimpin mereka.
 
 ## Nehemia 12:37
 
@@ -160,7 +160,7 @@ melewati Gerbang Efraim, Gerbang Jesyana, Gerbang Ikan, Menara Hananel, dan Mena
 
 ## Nehemia 12:40
 
-Kedua paduan suara yang memberikan syukur kemudian mengambil tempat mereka di rumah Allah; aku juga mengambil tempatku di sana, bersama setengah dari para pejabat,
+Kedua paduan suara yang memberikan syukur kemudian mengambil tempat mereka di rumah Tuhan; aku juga mengambil tempatku di sana, bersama setengah dari para pejabat,
 
 ## Nehemia 12:41
 
@@ -172,7 +172,7 @@ dan Maaseya, Semaya, Eleazar, Uzi, Yohanan, Malkia, Elam, dan Ezer. Para penyany
 
 ## Nehemia 12:43
 
-Pada hari itu mereka mempersembahkan korban besar, bersukacita karena Allah telah memberikan mereka sukacita besar. Para wanita dan anak-anak juga bersukacita. Suara sukacita di Yerusalem terdengar jauh.
+Pada hari itu mereka mempersembahkan korban besar, bersukacita karena Tuhan telah memberikan mereka sukacita besar. Para wanita dan anak-anak juga bersukacita. Suara sukacita di Yerusalem terdengar jauh.
 
 ---
 
@@ -182,11 +182,11 @@ Pada waktu itu orang-orang ditunjuk atas gudang-gudang untuk persembahan, buah s
 
 ## Nehemia 12:45
 
-Mereka melaksanakan ibadah kepada Allah mereka dan pelayanan penyucian, seperti juga para penyanyi dan penjaga pintu gerbang, sesuai dengan perintah Daud dan anaknya Salomo.
+Mereka melaksanakan ibadah kepada Tuhan mereka dan pelayanan penyucian, seperti juga para penyanyi dan penjaga pintu gerbang, sesuai dengan perintah Daud dan anaknya Salomo.
 
 ## Nehemia 12:46
 
-Karena pada zaman Daud dan Asaf, pada zaman dahulu, ada pemimpin-pemimpin para penyanyi, dan nyanyian pujian dan syukur kepada Allah.
+Karena pada zaman Daud dan Asaf, pada zaman dahulu, ada pemimpin-pemimpin para penyanyi, dan nyanyian pujian dan syukur kepada Tuhan.
 
 ## Nehemia 12:47
 

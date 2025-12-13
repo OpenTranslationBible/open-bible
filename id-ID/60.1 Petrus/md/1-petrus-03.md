@@ -14,11 +14,11 @@ Perhiasanmu janganlah yang lahiriah—menganyam rambut, memakai perhiasan emas, 
 
 ## 1 Petrus 3:4
 
-tetapi hendaklah manusia batiniah, dengan keindahan yang tidak fana dari roh yang lemah lembut dan tenang, yang berharga di mata Allah.
+tetapi hendaklah manusia batiniah, dengan keindahan yang tidak fana dari roh yang lemah lembut dan tenang, yang berharga di mata Tuhan.
 
 ## 1 Petrus 3:5
 
-Sebab dengan cara ini, perempuan-perempuan kudus di masa lalu, yang menaruh harapannya kepada Allah, memperhias diri mereka, dengan mendukung suami mereka sendiri,
+Sebab dengan cara ini, perempuan-perempuan kudus di masa lalu, yang menaruh harapannya kepada Tuhan, memperhias diri mereka, dengan mendukung suami mereka sendiri,
 
 ## 1 Petrus 3:6
 
@@ -74,11 +74,11 @@ dan peliharalah hati nurani yang baik, supaya dalam hal di mana kamu difitnah, m
 
 ## 1 Petrus 3:17
 
-Sebab lebih baik, jika itu adalah kehendak Allah, bahwa kamu menderita karena melakukan kebaikan daripada karena melakukan kejahatan.
+Sebab lebih baik, jika itu adalah kehendak Tuhan, bahwa kamu menderita karena melakukan kebaikan daripada karena melakukan kejahatan.
 
 ## 1 Petrus 3:18
 
-Sebab Kristus juga telah menderita karena dosa sekali untuk selamanya, yang benar untuk yang tidak benar, untuk membawa kamu kepada Allah. Dia dibunuh dalam tubuh tetapi dihidupkan dalam roh;
+Sebab Kristus juga telah menderita karena dosa sekali untuk selamanya, yang benar untuk yang tidak benar, untuk membawa kamu kepada Tuhan. Dia dibunuh dalam tubuh tetapi dihidupkan dalam roh;
 
 ## 1 Petrus 3:19
 
@@ -86,12 +86,12 @@ di dalamnya Dia pergi dan memberitakan kepada roh-roh yang dalam penjara,
 
 ## 1 Petrus 3:20
 
-yang tidak taat sejak lama, ketika Allah menunggu dengan sabar pada zaman Nuh saat bahtera sedang dibangun. Di dalamnya hanya sedikit orang, delapan semuanya, diselamatkan melalui air.
+yang tidak taat sejak lama, ketika Tuhan menunggu dengan sabar pada zaman Nuh saat bahtera sedang dibangun. Di dalamnya hanya sedikit orang, delapan semuanya, diselamatkan melalui air.
 
 ## 1 Petrus 3:21
 
-Dan air ini melambangkan baptisan yang sekarang menyelamatkan kamu juga—bukan pembuangan kotoran dari tubuh tetapi janji hati nurani yang bersih kepada Allah. Itu menyelamatkan kamu melalui kebangkitan Yesus Kristus,
+Dan air ini melambangkan baptisan yang sekarang menyelamatkan kamu juga—bukan pembuangan kotoran dari tubuh tetapi janji hati nurani yang bersih kepada Tuhan. Itu menyelamatkan kamu melalui kebangkitan Yesus Kristus,
 
 ## 1 Petrus 3:22
 
-yang telah naik ke surga dan duduk di sebelah kanan Allah—dengan malaikat, kuasa, dan kekuasaan yang ditundukkan kepada-Nya.
+yang telah naik ke surga dan duduk di sebelah kanan Tuhan—dengan malaikat, kuasa, dan kekuasaan yang ditundukkan kepada-Nya.

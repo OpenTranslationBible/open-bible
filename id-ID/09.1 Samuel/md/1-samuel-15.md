@@ -63,7 +63,7 @@ Tetapi Samuel berkata, "Lalu apa bunyi embikan domba di telingaku ini, dan bunyi
 
 ## 1 Samuel 15:15
 
-Saul menjawab, "Mereka dibawa dari orang Amalek, karena rakyat menyelamatkan yang terbaik dari domba-domba dan lembu-lembu untuk dipersembahkan sebagai korban kepada Tuhan Allahmu; tetapi yang lainnya telah kami musnahkan sama sekali."
+Saul menjawab, "Mereka dibawa dari orang Amalek, karena rakyat menyelamatkan yang terbaik dari domba-domba dan lembu-lembu untuk dipersembahkan sebagai korban kepada Tuhan Tuhanmu; tetapi yang lainnya telah kami musnahkan sama sekali."
 
 ---
 
@@ -90,7 +90,7 @@ Kemudian Saul berkata kepada Samuel, "Aku memang telah mengikuti suara Tuhan, da
 
 ## 1 Samuel 15:21
 
-Tetapi rakyat mengambil beberapa dari jarahan, domba-domba dan lembu-lembu, yang terbaik dari barang-barang yang dikhususkan untuk pemusnahan, untuk dipersembahkan sebagai korban kepada Tuhan Allahmu di Gilgal."
+Tetapi rakyat mengambil beberapa dari jarahan, domba-domba dan lembu-lembu, yang terbaik dari barang-barang yang dikhususkan untuk pemusnahan, untuk dipersembahkan sebagai korban kepada Tuhan Tuhanmu di Gilgal."
 
 ---
 
@@ -140,7 +140,7 @@ Selain itu, Kemuliaan Israel tidak akan menipu atau berubah pikiran; karena Dia 
 
 ## 1 Samuel 15:30
 
-Kemudian Saul berkata, "Aku telah berdosa; tetapi tolong hormatilah aku sekarang di hadapan para tua-tua bangsaku dan di hadapan Israel, dan kembalilah bersamaku, supaya aku dapat menyembah Tuhan Allahmu."
+Kemudian Saul berkata, "Aku telah berdosa; tetapi tolong hormatilah aku sekarang di hadapan para tua-tua bangsaku dan di hadapan Israel, dan kembalilah bersamaku, supaya aku dapat menyembah Tuhan Tuhanmu."
 
 ## 1 Samuel 15:31
 

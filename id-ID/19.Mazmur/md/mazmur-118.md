@@ -147,15 +147,15 @@
 
 ## Mazmur 118:27
 
-> Tuhan adalah Allah, dan Dia telah memberikan kita terang;  
+> Tuhan adalah Tuhan, dan Dia telah memberikan kita terang;  
 > Ikatlah korban perayaan dengan tali pada tanduk-tanduk mezbah.
 
 ---
 
 ## Mazmur 118:28
 
-> Engkaulah Allahku, dan aku akan bersyukur kepada-Mu;  
-> Engkaulah Allahku, aku akan meninggikan Engkau.
+> Engkaulah Tuhanku, dan aku akan bersyukur kepada-Mu;  
+> Engkaulah Tuhanku, aku akan meninggikan Engkau.
 
 ---
 

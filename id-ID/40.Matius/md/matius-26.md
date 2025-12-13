@@ -169,7 +169,7 @@ Ia membawa Petrus dan kedua anak Zebedeus bersama-Nya, dan mulai merasa sedih da
 
 ## Matius 26:38
 
-Kemudian Ia berkata kepada mereka, “Jiwa-Ku sangat sedih, sampai mati rasanya; tinggallah di sini dan berjaga-jagalah bersama-Ku.”
+Kemudian Ia berkata kepada mereka, “Jiwa-Ku sangat sedih, sampai mati rasanya; tinggTuhan di sini dan berjaga-jagalah bersama-Ku.”
 
 ## Matius 26:39
 
@@ -239,7 +239,7 @@ Jika tidak demikian, bagaimana Kitab Suci akan digenapi, yang mengatakan bahwa h
 
 ## Matius 26:55
 
-Pada waktu itu Yesus berkata kepada orang banyak, “Apakah kamu datang dengan pedang dan pentungan untuk menangkap Aku seolah-olah Aku seorang pemberontak? Setiap hari Aku duduk di pelataran Bait Allah mengajar, dan kamu tidak menangkap Aku.
+Pada waktu itu Yesus berkata kepada orang banyak, “Apakah kamu datang dengan pedang dan pentungan untuk menangkap Aku seolah-olah Aku seorang pemberontak? Setiap hari Aku duduk di pelataran Bait Tuhan mengajar, dan kamu tidak menangkap Aku.
 
 ## Matius 26:56
 
@@ -265,7 +265,7 @@ Mereka tidak menemukannya, meskipun banyak saksi palsu datang. Akhirnya, dua ora
 
 ## Matius 26:61
 
-dan menyatakan, “Orang ini berkata, ‘Aku dapat merobohkan Bait Allah dan membangunnya kembali dalam tiga hari.’”
+dan menyatakan, “Orang ini berkata, ‘Aku dapat merobohkan Bait Tuhan dan membangunnya kembali dalam tiga hari.’”
 
 ## Matius 26:62
 
@@ -273,7 +273,7 @@ Imam besar berdiri dan berkata kepada Yesus, “Tidakkah Engkau menjawab? Apa ya
 
 ## Matius 26:63
 
-Tetapi Yesus tetap diam. Imam besar berkata kepada-Nya, “Aku memerintahkan Engkau di bawah sumpah oleh Allah yang hidup, untuk memberitahu kami apakah Engkau adalah Mesias, Anak Allah.”
+Tetapi Yesus tetap diam. Imam besar berkata kepada-Nya, “Aku memerintahkan Engkau di bawah sumpah oleh Tuhan yang hidup, untuk memberitahu kami apakah Engkau adalah Mesias, Anak Tuhan.”
 
 ## Matius 26:64
 

@@ -7,7 +7,7 @@
 
 ## Ayub 31:2
 
-> Dan apakah bagian yang diberikan oleh Allah dari atas,  
+> Dan apakah bagian yang diberikan oleh Tuhan dari atas,  
 > Atau warisan dari Yang Mahakuasa di tempat tinggi?
 
 ## Ayub 31:3
@@ -30,7 +30,7 @@
 ## Ayub 31:6
 
 > Biarlah Dia menimbang aku dengan timbangan yang jujur,  
-> Dan biarlah Allah mengetahui integritasku.
+> Dan biarlah Tuhan mengetahui integritasku.
 
 ## Ayub 31:7
 
@@ -74,7 +74,7 @@
 
 ## Ayub 31:14
 
-> Apa yang dapat aku lakukan ketika Allah bangkit?  
+> Apa yang dapat aku lakukan ketika Tuhan bangkit?  
 > Dan ketika Dia memanggilku untuk bertanggung jawab, bagaimana aku akan menjawab-Nya?
 
 ## Ayub 31:15
@@ -121,7 +121,7 @@
 
 ## Ayub 31:23
 
-> Karena ketakutan akan malapetaka dari Allah sangat menguasai aku,  
+> Karena ketakutan akan malapetaka dari Tuhan sangat menguasai aku,  
 > Dan karena keagungan-Nya, aku tidak berdaya.
 
 ---
@@ -149,7 +149,7 @@
 ## Ayub 31:28
 
 > Itu juga akan menjadi dosa yang pantas dihukum,  
-> Karena aku akan menyangkal Allah di atas.
+> Karena aku akan menyangkal Tuhan di atas.
 
 ---
 

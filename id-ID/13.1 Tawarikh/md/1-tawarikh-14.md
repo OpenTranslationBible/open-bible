@@ -63,7 +63,7 @@ Pada waktu itu, orang Filistin datang dan melancarkan serangan di Lembah Refaim.
 
 ## 1 Tawarikh 14:10
 
-Kemudian Daud bertanya kepada Allah, katanya,
+Kemudian Daud bertanya kepada Tuhan, katanya,
 
 > “Haruskah aku maju melawan orang Filistin,  
 > dan akankah Engkau menyerahkan mereka kepadaku?”  
@@ -77,7 +77,7 @@ Kemudian Daud bertanya kepada Allah, katanya,
 Jadi mereka datang ke Baal-perazim, di mana Daud meraih kemenangan atas mereka.  
 Dan Daud berkata,
 
-> “Allah telah menerobos musuhku oleh tanganku, seperti terobosan air.”  
+> “Tuhan telah menerobos musuhku oleh tanganku, seperti terobosan air.”  
 > Oleh karena itu mereka menamai tempat itu Baal-perazim.
 
 ---
@@ -98,7 +98,7 @@ Kemudian orang Filistin melakukan serangan lain di lembah itu.
 
 ## 1 Tawarikh 14:14
 
-Daud sekali lagi bertanya kepada Allah, dan Allah berkata kepadanya,
+Daud sekali lagi bertanya kepada Tuhan, dan Tuhan berkata kepadanya,
 
 > “Janganlah langsung maju menghadapi mereka;  
 > berputarlah di belakang mereka dan datanglah kepada mereka di depan semak-semak baka.
@@ -110,13 +110,13 @@ Daud sekali lagi bertanya kepada Allah, dan Allah berkata kepadanya,
 Dan akan terjadi, ketika kamu mendengar suara langkah di puncak semak-semak baka,
 
 > maka kamu harus keluar untuk berperang,  
-> karena Allah akan telah keluar mendahuluimu untuk memukul tentara orang Filistin.”
+> karena Tuhan akan telah keluar mendahuluimu untuk memukul tentara orang Filistin.”
 
 ---
 
 ## 1 Tawarikh 14:16
 
-Daud melakukan tepat seperti yang diperintahkan Allah kepadanya,
+Daud melakukan tepat seperti yang diperintahkan Tuhan kepadanya,
 
 > dan mereka memukul tentara orang Filistin dari Gibeon bahkan sampai ke Gezer.
 

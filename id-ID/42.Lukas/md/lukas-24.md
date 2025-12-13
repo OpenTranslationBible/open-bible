@@ -76,7 +76,7 @@ Salah satu dari mereka, bernama Kleopas, menjawab, "Apakah Engkau satu-satunya o
 
 ## Lukas 24:19
 
-"Apa itu?" Dia bertanya. Mereka menjawab, "Hal-hal tentang Yesus dari Nazaret, yang adalah seorang nabi yang kuat dalam perbuatan dan perkataan di hadapan Allah dan semua orang,
+"Apa itu?" Dia bertanya. Mereka menjawab, "Hal-hal tentang Yesus dari Nazaret, yang adalah seorang nabi yang kuat dalam perbuatan dan perkataan di hadapan Tuhan dan semua orang,
 
 ## Lukas 24:20
 
@@ -118,7 +118,7 @@ Saat mereka mendekati desa yang mereka tuju, Dia bertindak seolah-olah Dia akan 
 
 ## Lukas 24:29
 
-Tetapi mereka mendesak-Nya dengan kuat, berkata, "Tinggallah bersama kami, karena hari hampir malam; hari hampir berakhir." Maka Dia masuk untuk tinggal bersama mereka.
+Tetapi mereka mendesak-Nya dengan kuat, berkata, "TinggTuhan bersama kami, karena hari hampir malam; hari hampir berakhir." Maka Dia masuk untuk tinggal bersama mereka.
 
 ## Lukas 24:30
 
@@ -220,4 +220,4 @@ Setelah menyembah Dia, mereka kembali ke Yerusalem dengan sukacita yang besar,
 
 ## Lukas 24:53
 
-dan mereka terus-menerus berada di bait Allah, memuji Allah.
+dan mereka terus-menerus berada di bait Tuhan, memuji Tuhan.

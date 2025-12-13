@@ -4,7 +4,7 @@
 
 ## Mazmur 59:1
 
-> Selamatkanlah aku dari musuh-musuhku, ya Allahku;  
+> Selamatkanlah aku dari musuh-musuhku, ya Tuhanku;  
 > Tempatkanlah aku dengan aman di tempat yang tinggi jauh dari mereka yang bangkit melawan aku.
 
 ## Mazmur 59:2
@@ -27,7 +27,7 @@
 
 ## Mazmur 59:5
 
-> Engkau, Tuhan, Allah semesta alam, Allah Israel,  
+> Engkau, Tuhan, Tuhan semesta alam, Tuhan Israel,  
 > Bangkitlah untuk membawa keadilan kepada semua bangsa;  
 > Jangan tunjukkan belas kasihan kepada mereka yang bertindak curang dalam kesalahan.
 
@@ -56,12 +56,12 @@
 ## Mazmur 59:9
 
 > Dalam kekuatan-Nya, aku akan berjaga-jaga untuk Engkau,  
-> Karena Allah adalah tempat perlindunganku.
+> Karena Tuhan adalah tempat perlindunganku.
 
 ## Mazmur 59:10
 
-> Allahku dalam kesetiaan-Nya akan datang kepadaku;  
-> Allah akan membiarkan aku melihat kemenangan atas musuh-musuhku.
+> Tuhanku dalam kesetiaan-Nya akan datang kepadaku;  
+> Tuhan akan membiarkan aku melihat kemenangan atas musuh-musuhku.
 
 ---
 
@@ -80,7 +80,7 @@
 ## Mazmur 59:13
 
 > Hancurkan mereka dalam murka, hancurkan mereka sehingga mereka tidak ada lagi;  
-> Agar orang-orang tahu bahwa Allah memerintah di Yakub,  
+> Agar orang-orang tahu bahwa Tuhan memerintah di Yakub,  
 > Sampai ke ujung bumi.
 
 > Sela
@@ -109,4 +109,4 @@
 ## Mazmur 59:17
 
 > Kekuatan-Ku, aku akan menyanyikan pujian kepada-Mu;  
-> Karena Allah adalah tempat perlindunganku, Allah yang menunjukkan belas kasihan kepadaku.
+> Karena Tuhan adalah tempat perlindunganku, Tuhan yang menunjukkan belas kasihan kepadaku.

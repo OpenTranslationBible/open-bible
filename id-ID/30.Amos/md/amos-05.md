@@ -87,19 +87,19 @@ Sebab inilah yang dikatakan Tuhan kepada kaum Israel:
 ## Amos 5:14
 
 > Carilah yang baik dan bukan yang jahat, agar kamu dapat hidup;
-> dan maka Tuhan Allah Yang Mahakuasa akan menyertaimu,
+> dan maka Tuhan Tuhan Yang Mahakuasa akan menyertaimu,
 > seperti yang kamu katakan.
 
 ## Amos 5:15
 
 > Bencilah yang jahat, cintailah yang baik,
 > dan tegakkan keadilan di pintu gerbang.
-> Mungkin Tuhan Allah Yang Mahakuasa
+> Mungkin Tuhan Tuhan Yang Mahakuasa
 > akan berbelas kasihan kepada sisa-sisa Yusuf.
 
 ## Amos 5:16
 
-Oleh karena itu, inilah yang dikatakan Tuhan, Tuhan Allah Yang Mahakuasa:
+Oleh karena itu, inilah yang dikatakan Tuhan, Tuhan Tuhan Yang Mahakuasa:
 
 > "Akan ada ratapan di semua jalan
 > dan tangisan kesedihan di setiap alun-alun umum.
@@ -164,4 +164,4 @@ Oleh karena itu, inilah yang dikatakan Tuhan, Tuhan Allah Yang Mahakuasa:
 
 > Oleh karena itu Aku akan mengirim kamu ke pengasingan di luar Damsyik,"
 
-demikianlah firman Tuhan, yang namanya adalah Allah Yang Mahakuasa.
+demikianlah firman Tuhan, yang namanya adalah Tuhan Yang Mahakuasa.

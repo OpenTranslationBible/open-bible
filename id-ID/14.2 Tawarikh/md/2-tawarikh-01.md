@@ -4,7 +4,7 @@
 
 Salomo, anak Daud, dengan kokoh menegakkan kekuasaannya atas kerajaannya,
 
-> karena Tuhan, Allahnya, menyertai dia dan sangat meninggikannya.
+> karena Tuhan, Tuhannya, menyertai dia dan sangat meninggikannya.
 
 ---
 
@@ -21,13 +21,13 @@ Salomo berbicara kepada seluruh Israel,
 
 Salomo, bersama seluruh jemaah, pergi ke tempat tinggi di Gibeon,
 
-> karena kemah pertemuan Allah ada di sana, yang telah dibuat Musa, hamba Tuhan, di padang gurun.
+> karena kemah pertemuan Tuhan ada di sana, yang telah dibuat Musa, hamba Tuhan, di padang gurun.
 
 ---
 
 ## 2 Tawarikh 1:4
 
-Namun, Daud telah membawa tabut Allah dari Kiryat-Yearim
+Namun, Daud telah membawa tabut Tuhan dari Kiryat-Yearim
 
 > ke tempat yang telah disiapkannya,  
 > karena ia telah mendirikan sebuah kemah untuk itu di Yerusalem.
@@ -53,7 +53,7 @@ Salomo mendekati mezbah perunggu di hadapan Tuhan, yang ada di kemah pertemuan,
 
 ## 2 Tawarikh 1:7
 
-Pada malam hari, Allah menampakkan diri kepada Salomo dan berkata,
+Pada malam hari, Tuhan menampakkan diri kepada Salomo dan berkata,
 
 > “Mintalah apa yang harus Kuberikan kepadamu.”
 
@@ -61,7 +61,7 @@ Pada malam hari, Allah menampakkan diri kepada Salomo dan berkata,
 
 ## 2 Tawarikh 1:8
 
-Salomo berkata kepada Allah,
+Salomo berkata kepada Tuhan,
 
 > “Engkau telah menunjukkan kesetiaan yang besar kepada ayahku Daud,  
 > dan Engkau telah menjadikan aku raja menggantikan dia.
@@ -70,7 +70,7 @@ Salomo berkata kepada Allah,
 
 ## 2 Tawarikh 1:9
 
-> Dan sekarang, ya Tuhan Allah, janji-Mu kepada ayahku Daud telah terpenuhi,  
+> Dan sekarang, ya Tuhan Tuhan, janji-Mu kepada ayahku Daud telah terpenuhi,  
 > karena Engkau telah menjadikan aku raja atas suatu bangsa yang banyaknya seperti debu di bumi.
 
 ---
@@ -85,7 +85,7 @@ Salomo berkata kepada Allah,
 
 ## 2 Tawarikh 1:11
 
-Kemudian Allah berkata kepada Salomo,
+Kemudian Tuhan berkata kepada Salomo,
 
 > “Karena hal ini ada dalam hatimu,  
 > dan engkau tidak meminta kekayaan, harta benda, atau kehormatan, atau nyawa orang-orang yang membencimu,  

@@ -1,420 +1,378 @@
 {
-    "book": "Mazmur",
-    "chapter": 89,
-    "verses": [
-        {
-            "text": [
-                "Nyanyian pengajaran Etan, orang Ezrahi."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Aku akan menyanyikan kasih setia Tuhan selama-lamanya;",
-                "> Dengan mulutku aku akan memberitakan kesetiaan-Mu kepada segala generasi."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Sebab aku telah berkata, “Kasih setia akan dibangun untuk selama-lamanya;",
-                "> Di langit Engkau akan menegakkan kesetiaan-Mu.”"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> “Aku telah membuat perjanjian dengan orang pilihan-Ku;",
-                "> Aku telah bersumpah kepada hamba-Ku Daud,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Aku akan meneguhkan keturunanmu untuk selama-lamanya,",
-                "> Dan menopang takhtamu melalui setiap generasi.”",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Langit akan merayakan keajaiban-Mu, Tuhan,",
-                "> Kesetiaan-Mu juga di antara perkumpulan orang-orang kudus."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Sebab siapa di langit yang dapat dibandingkan dengan Tuhan?",
-                "> Siapa di antara yang perkasa yang seperti Tuhan,"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Allah yang sangat dihormati dalam dewan orang-orang kudus,",
-                "> Dan mengagumkan di atas semua yang mengelilingi-Nya?"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Tuhan, Allah semesta alam, siapa yang seperti Engkau, Tuhan yang perkasa?",
-                "> Kesetiaan-Mu mengelilingi Engkau."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Engkau menguasai gelombang laut;",
-                "> Ketika ombaknya naik, Engkau menenangkannya."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Engkau telah menghancurkan Rahab seperti orang yang terbunuh;",
-                "> Engkau mencerai-beraikan musuh-Mu dengan lengan-Mu yang kuat."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Langit adalah milik-Mu, dan bumi juga milik-Mu;",
-                "> Engkau telah mendirikan dunia dan segala isinya."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Engkau telah membentuk utara dan selatan;",
-                "> Gunung Tabor dan Hermon bersorak-sorai dalam nama-Mu."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Engkau memiliki lengan yang kuat;",
-                "> Tangan-Mu perkasa, tangan kanan-Mu terangkat tinggi."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Kebenaran dan keadilan adalah dasar takhta-Mu;",
-                "> Kasih dan kebenaran berjalan di depan-Mu."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Berbahagialah bangsa yang mendengar panggilan sukacita!",
-                "> Tuhan, mereka berjalan dalam cahaya wajah-Mu."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Dalam nama-Mu mereka bersukacita sepanjang hari,",
-                "> Dan oleh kebenaran-Mu mereka ditinggikan."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Sebab Engkau adalah kemuliaan kekuatan mereka,",
-                "> Dan oleh kemurahan-Mu tanduk kami ditinggikan."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Sebab pelindung kami adalah Tuhan,",
-                "> Dan raja kami adalah Yang Kudus dari Israel."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Sekali Engkau berbicara dalam penglihatan kepada orang-orang setia-Mu,",
-                "> Dan berkata, “Aku telah memberikan bantuan kepada seorang yang perkasa;",
-                "> Aku telah meninggikan seorang yang terpilih dari antara bangsa."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Aku telah menemukan hamba-Ku Daud;",
-                "> Dengan minyak kudus-Ku Aku telah mengurapinya,"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Dengan siapa tangan-Ku akan teguh;",
-                "> Lengan-Ku juga akan menguatkannya."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Musuh tidak akan memperdayainya,",
-                "> Dan orang fasik tidak akan menindasnya."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> Tetapi Aku akan menghancurkan musuh-musuhnya di depannya,",
-                "> Dan memukul jatuh mereka yang membencinya."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "> Kesetiaan-Ku dan kasih setia-Ku akan menyertainya,",
-                "> Dan dalam nama-Ku tanduknya akan ditinggikan."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "> Aku akan memperluas tangannya ke atas laut,",
-                "> Dan tangan kanannya ke atas sungai-sungai."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "> Dia akan berseru kepada-Ku, ‘Engkau adalah Bapaku,",
-                "> Allahku, dan dasar keselamatanku.’"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "> Aku juga akan menjadikannya anak sulung-Ku,",
-                "> Yang tertinggi dari raja-raja di bumi."
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "> Aku akan memelihara kasih setia-Ku untuknya selama-lamanya,",
-                "> Dan perjanjian-Ku akan teguh dengannya."
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "> Maka Aku akan meneguhkan keturunannya untuk selama-lamanya,",
-                "> Dan takhtanya sekuat hari-hari langit."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "> Jika anak-anaknya meninggalkan hukum-Ku",
-                "> Dan tidak mengikuti ketetapan-Ku,"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "> Jika mereka melanggar ketetapan-Ku",
-                "> Dan tidak mematuhi perintah-perintah-Ku,"
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "> Maka Aku akan menghukum pelanggaran mereka dengan tongkat,",
-                "> Dan kesalahan mereka dengan penderitaan."
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "> Tetapi Aku tidak akan menarik kasih setia-Ku darinya,",
-                "> Atau mengingkari janji-Ku."
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "> Aku tidak akan melanggar perjanjian-Ku,",
-                "> Atau mengubah apa yang telah keluar dari bibir-Ku."
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "> Sekali Aku bersumpah demi kekudusan-Ku;",
-                "> Aku tidak akan menipu Daud."
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "> Keturunannya akan bertahan selamanya,",
-                "> Dan takhtanya sekuat matahari di hadapan-Ku."
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "> Itu akan ditegakkan selama-lamanya seperti bulan,",
-                "> Dan saksi yang setia di langit.”",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "> Tetapi Engkau telah menolak dan membuang,",
-                "> Engkau penuh murka terhadap orang yang diurapi-Mu."
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "> Engkau telah menolak perjanjian hamba-Mu;",
-                "> Engkau telah mencemarkan mahkotanya ke dalam debu."
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "> Engkau telah merobohkan semua temboknya;",
-                "> Engkau telah meruntuhkan benteng-bentengnya."
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "> Semua yang lewat merampasnya;",
-                "> Dia telah menjadi aib bagi tetangganya."
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "> Engkau telah meninggikan tangan kanan lawan-lawannya;",
-                "> Engkau telah membuat semua musuhnya bersukacita."
-            ]
-        },
-        {
-            "verse": 43,
-            "text": [
-                "> Engkau juga memalingkan ujung pedangnya,",
-                "> Dan tidak mendukungnya dalam pertempuran."
-            ]
-        },
-        {
-            "verse": 44,
-            "text": [
-                "> Engkau telah mengakhiri kemuliaannya",
-                "> Dan melemparkan takhtanya ke tanah."
-            ]
-        },
-        {
-            "verse": 45,
-            "text": [
-                "> Engkau telah memendekkan hari-hari masa mudanya;",
-                "> Engkau telah menyelimutinya dengan kehinaan.",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 46,
-            "text": [
-                "> Berapa lama lagi, Tuhan? Apakah Engkau akan menyembunyikan diri selamanya?",
-                "> Apakah murka-Mu akan menyala seperti api?"
-            ]
-        },
-        {
-            "verse": 47,
-            "text": [
-                "> Ingatlah betapa singkat hidupku;",
-                "> Untuk apa kesia-siaan Engkau menciptakan semua anak manusia!"
-            ]
-        },
-        {
-            "verse": 48,
-            "text": [
-                "> Siapa manusia yang dapat hidup dan tidak melihat kematian?",
-                "> Dapatkah dia menyelamatkan jiwanya dari kuasa Sheol?",
-                "> Sela"
-            ]
-        },
-        {
-            "verse": 49,
-            "text": [
-                "> Di mana tindakan kasih setia-Mu yang dahulu, Tuhan,",
-                "> Yang Engkau janjikan kepada Daud dalam kesetiaan-Mu?"
-            ]
-        },
-        {
-            "verse": 50,
-            "text": [
-                "> Ingatlah, Tuhan, ejekan terhadap hamba-hamba-Mu;",
-                "> Bagaimana aku menanggung dalam hatiku ejekan dari banyak bangsa,"
-            ]
-        },
-        {
-            "verse": 51,
-            "text": [
-                "> Dengan mana musuh-musuh-Mu mengejek, Tuhan,",
-                "> Dengan mana mereka mencemooh jejak langkah orang yang diurapi-Mu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 52,
-            "text": [
-                "> Kiranya Tuhan dimuliakan selama-lamanya!",
-                "> Amin dan Amin."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 89,
+  "verses": [
+    {
+      "text": ["Nyanyian pengajaran Etan, orang Ezrahi."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Aku akan menyanyikan kasih setia Tuhan selama-lamanya;",
+        "> Dengan mulutku aku akan memberitakan kesetiaan-Mu kepada segala generasi."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Sebab aku telah berkata, “Kasih setia akan dibangun untuk selama-lamanya;",
+        "> Di langit Engkau akan menegakkan kesetiaan-Mu.”"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> “Aku telah membuat perjanjian dengan orang pilihan-Ku;",
+        "> Aku telah bersumpah kepada hamba-Ku Daud,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Aku akan meneguhkan keturunanmu untuk selama-lamanya,",
+        "> Dan menopang takhtamu melalui setiap generasi.”",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Langit akan merayakan keajaiban-Mu, Tuhan,",
+        "> Kesetiaan-Mu juga di antara perkumpulan orang-orang kudus."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Sebab siapa di langit yang dapat dibandingkan dengan Tuhan?",
+        "> Siapa di antara yang perkasa yang seperti Tuhan,"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Tuhan yang sangat dihormati dalam dewan orang-orang kudus,",
+        "> Dan mengagumkan di atas semua yang mengelilingi-Nya?"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Tuhan, Tuhan semesta alam, siapa yang seperti Engkau, Tuhan yang perkasa?",
+        "> Kesetiaan-Mu mengelilingi Engkau."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Engkau menguasai gelombang laut;",
+        "> Ketika ombaknya naik, Engkau menenangkannya."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Engkau telah menghancurkan Rahab seperti orang yang terbunuh;",
+        "> Engkau mencerai-beraikan musuh-Mu dengan lengan-Mu yang kuat."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Langit adalah milik-Mu, dan bumi juga milik-Mu;",
+        "> Engkau telah mendirikan dunia dan segala isinya."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Engkau telah membentuk utara dan selatan;",
+        "> Gunung Tabor dan Hermon bersorak-sorai dalam nama-Mu."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Engkau memiliki lengan yang kuat;",
+        "> Tangan-Mu perkasa, tangan kanan-Mu terangkat tinggi."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Kebenaran dan keadilan adalah dasar takhta-Mu;",
+        "> Kasih dan kebenaran berjalan di depan-Mu."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Berbahagialah bangsa yang mendengar panggilan sukacita!",
+        "> Tuhan, mereka berjalan dalam cahaya wajah-Mu."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Dalam nama-Mu mereka bersukacita sepanjang hari,",
+        "> Dan oleh kebenaran-Mu mereka ditinggikan."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Sebab Engkau adalah kemuliaan kekuatan mereka,",
+        "> Dan oleh kemurahan-Mu tanduk kami ditinggikan."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Sebab pelindung kami adalah Tuhan,",
+        "> Dan raja kami adalah Yang Kudus dari Israel."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> Sekali Engkau berbicara dalam penglihatan kepada orang-orang setia-Mu,",
+        "> Dan berkata, “Aku telah memberikan bantuan kepada seorang yang perkasa;",
+        "> Aku telah meninggikan seorang yang terpilih dari antara bangsa."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Aku telah menemukan hamba-Ku Daud;",
+        "> Dengan minyak kudus-Ku Aku telah mengurapinya,"
+      ]
+    },
+    {
+      "verse": 21,
+      "text": ["> Dengan siapa tangan-Ku akan teguh;", "> Lengan-Ku juga akan menguatkannya."]
+    },
+    {
+      "verse": 22,
+      "text": ["> Musuh tidak akan memperdayainya,", "> Dan orang fasik tidak akan menindasnya."]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> Tetapi Aku akan menghancurkan musuh-musuhnya di depannya,",
+        "> Dan memukul jatuh mereka yang membencinya."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "> Kesetiaan-Ku dan kasih setia-Ku akan menyertainya,",
+        "> Dan dalam nama-Ku tanduknya akan ditinggikan."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "> Aku akan memperluas tangannya ke atas laut,",
+        "> Dan tangan kanannya ke atas sungai-sungai."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "> Dia akan berseru kepada-Ku, ‘Engkau adalah Bapaku,",
+        "> Tuhanku, dan dasar keselamatanku.’"
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "> Aku juga akan menjadikannya anak sulung-Ku,",
+        "> Yang tertinggi dari raja-raja di bumi."
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "> Aku akan memelihara kasih setia-Ku untuknya selama-lamanya,",
+        "> Dan perjanjian-Ku akan teguh dengannya."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "> Maka Aku akan meneguhkan keturunannya untuk selama-lamanya,",
+        "> Dan takhtanya sekuat hari-hari langit."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 30,
+      "text": ["> Jika anak-anaknya meninggalkan hukum-Ku", "> Dan tidak mengikuti ketetapan-Ku,"]
+    },
+    {
+      "verse": 31,
+      "text": ["> Jika mereka melanggar ketetapan-Ku", "> Dan tidak mematuhi perintah-perintah-Ku,"]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "> Maka Aku akan menghukum pelanggaran mereka dengan tongkat,",
+        "> Dan kesalahan mereka dengan penderitaan."
+      ]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "> Tetapi Aku tidak akan menarik kasih setia-Ku darinya,",
+        "> Atau mengingkari janji-Ku."
+      ]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "> Aku tidak akan melanggar perjanjian-Ku,",
+        "> Atau mengubah apa yang telah keluar dari bibir-Ku."
+      ]
+    },
+    {
+      "verse": 35,
+      "text": ["> Sekali Aku bersumpah demi kekudusan-Ku;", "> Aku tidak akan menipu Daud."]
+    },
+    {
+      "verse": 36,
+      "text": [
+        "> Keturunannya akan bertahan selamanya,",
+        "> Dan takhtanya sekuat matahari di hadapan-Ku."
+      ]
+    },
+    {
+      "verse": 37,
+      "text": [
+        "> Itu akan ditegakkan selama-lamanya seperti bulan,",
+        "> Dan saksi yang setia di langit.”",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 38,
+      "text": [
+        "> Tetapi Engkau telah menolak dan membuang,",
+        "> Engkau penuh murka terhadap orang yang diurapi-Mu."
+      ]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "> Engkau telah menolak perjanjian hamba-Mu;",
+        "> Engkau telah mencemarkan mahkotanya ke dalam debu."
+      ]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "> Engkau telah merobohkan semua temboknya;",
+        "> Engkau telah meruntuhkan benteng-bentengnya."
+      ]
+    },
+    {
+      "verse": 41,
+      "text": ["> Semua yang lewat merampasnya;", "> Dia telah menjadi aib bagi tetangganya."]
+    },
+    {
+      "verse": 42,
+      "text": [
+        "> Engkau telah meninggikan tangan kanan lawan-lawannya;",
+        "> Engkau telah membuat semua musuhnya bersukacita."
+      ]
+    },
+    {
+      "verse": 43,
+      "text": [
+        "> Engkau juga memalingkan ujung pedangnya,",
+        "> Dan tidak mendukungnya dalam pertempuran."
+      ]
+    },
+    {
+      "verse": 44,
+      "text": ["> Engkau telah mengakhiri kemuliaannya", "> Dan melemparkan takhtanya ke tanah."]
+    },
+    {
+      "verse": 45,
+      "text": [
+        "> Engkau telah memendekkan hari-hari masa mudanya;",
+        "> Engkau telah menyelimutinya dengan kehinaan.",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 46,
+      "text": [
+        "> Berapa lama lagi, Tuhan? Apakah Engkau akan menyembunyikan diri selamanya?",
+        "> Apakah murka-Mu akan menyala seperti api?"
+      ]
+    },
+    {
+      "verse": 47,
+      "text": [
+        "> Ingatlah betapa singkat hidupku;",
+        "> Untuk apa kesia-siaan Engkau menciptakan semua anak manusia!"
+      ]
+    },
+    {
+      "verse": 48,
+      "text": [
+        "> Siapa manusia yang dapat hidup dan tidak melihat kematian?",
+        "> Dapatkah dia menyelamatkan jiwanya dari kuasa Sheol?",
+        "> Sela"
+      ]
+    },
+    {
+      "verse": 49,
+      "text": [
+        "> Di mana tindakan kasih setia-Mu yang dahulu, Tuhan,",
+        "> Yang Engkau janjikan kepada Daud dalam kesetiaan-Mu?"
+      ]
+    },
+    {
+      "verse": 50,
+      "text": [
+        "> Ingatlah, Tuhan, ejekan terhadap hamba-hamba-Mu;",
+        "> Bagaimana aku menanggung dalam hatiku ejekan dari banyak bangsa,"
+      ]
+    },
+    {
+      "verse": 51,
+      "text": [
+        "> Dengan mana musuh-musuh-Mu mengejek, Tuhan,",
+        "> Dengan mana mereka mencemooh jejak langkah orang yang diurapi-Mu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 52,
+      "text": ["> Kiranya Tuhan dimuliakan selama-lamanya!", "> Amin dan Amin."]
+    }
+  ]
 }

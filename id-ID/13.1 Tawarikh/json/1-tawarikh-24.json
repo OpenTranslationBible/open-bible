@@ -1,377 +1,285 @@
 {
-    "book": "1 Tawarikh",
-    "chapter": 24,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Inilah pembagian anak-anak Harun:",
-                "> Anak-anak Harun ialah Nadab, Abihu, Eleazar, dan Itamar."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Namun, Nadab dan Abihu meninggal sebelum ayah mereka,",
-                "dan mereka tidak mempunyai anak.",
-                "> Maka, Eleazar dan Itamar melayani sebagai imam."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Daud, bersama Zadok dari anak-anak Eleazar dan Ahimelekh dari anak-anak Itamar,",
-                "> membagi mereka menurut tugas yang ditetapkan dalam pelayanan mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Lebih banyak kepala keluarga ditemukan dari anak-anak Eleazar daripada dari anak-anak Itamar,",
-                "> dan mereka membagi mereka sesuai.",
-                "> Ada enam belas kepala keluarga dari anak-anak Eleazar,",
-                "> dan delapan dari anak-anak Itamar menurut keluarga ayah mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Jadi mereka dibagi dengan undian, satu kelompok dengan yang lain,",
-                "> karena para pejabat tempat kudus dan pejabat Allah berasal dari anak-anak Eleazar dan anak-anak Itamar."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Semaya anak Netanel, juru tulis dari orang Lewi,",
-                "menulis mereka di hadapan raja, para pejabat, Zadok imam, Ahimelekh anak Abyatar,",
-                "> dan kepala-kepala keluarga ayah dari para imam dan orang Lewi—",
-                "> satu keluarga ayah diambil untuk Eleazar dan satu diambil untuk Itamar."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Undian pertama diberikan kepada Yehoyarib,",
-                "> yang kedua kepada Yedaya,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> yang ketiga diberikan kepada Harim,",
-                "> yang keempat diberikan kepada Seorim,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> yang kelima diberikan kepada Malkia,",
-                "> yang keenam diberikan kepada Miyamin,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> yang ketujuh diberikan kepada Hakos,",
-                "> yang kedelapan diberikan kepada Abia,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> yang kesembilan diberikan kepada Yesua,",
-                "> yang kesepuluh diberikan kepada Sekhanya,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> yang kesebelas diberikan kepada Elyasib,",
-                "> yang kedua belas diberikan kepada Yakim,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> yang ketiga belas diberikan kepada Hupa,",
-                "> yang keempat belas diberikan kepada Yesebeab,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> yang kelima belas diberikan kepada Bilga,",
-                "> yang keenam belas diberikan kepada Imer,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> yang ketujuh belas diberikan kepada Hezir,",
-                "> yang kedelapan belas diberikan kepada Hapizes,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> yang kesembilan belas diberikan kepada Petahya,",
-                "> yang kedua puluh diberikan kepada Yehezkiel,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> yang kedua puluh satu diberikan kepada Yakin,",
-                "> yang kedua puluh dua diberikan kepada Gamul,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> yang kedua puluh tiga diberikan kepada Delaya,",
-                "> yang kedua puluh empat diberikan kepada Maazya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Inilah tugas mereka untuk pelayanan mereka",
-                "ketika mereka datang ke rumah Tuhan sesuai dengan peraturan yang diberikan kepada mereka melalui Harun ayah mereka,",
-                "> seperti yang diperintahkan Tuhan Allah Israel kepadanya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Sekarang tentang sisa anak-anak Lewi:",
-                "> dari anak-anak Amram: Subael;",
-                "> dari anak-anak Subael: Yehdeya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Dari Rehabia, Isia adalah yang pertama dari anak-anaknya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Dari orang Yizhar: Selomot;",
-                "> dari anak-anak Selomot: Yahat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> Anak-anak Hebron adalah: Yeria yang pertama, Amarya yang kedua, Yahaziel yang ketiga, dan Yekameam yang keempat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "> Dari anak-anak Uziel: Mikha;",
-                "> dari anak-anak Mikha: Syamir."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "> Saudara Mikha: Isia;",
-                "> dari anak-anak Isia: Zakharia."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "> Keturunan Merari termasuk Mahli dan Musi;",
-                "> anak-anak Yaazia: Beno."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "> Keturunan Merari melalui Yaazia adalah Beno, Soham, Zakur, dan Ibri."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "> Dari Mahli: Eleazar, yang tidak mempunyai anak."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "> Dari Kish: Yerahmeel, anak Kish."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "Anak-anak Musi adalah:",
-                "> Mahli, Eder, dan Yerimot.",
-                "> Inilah anak-anak orang Lewi menurut keluarga ayah mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Mereka juga membuang undi seperti saudara-saudara mereka anak-anak Harun",
-                "di hadapan Daud raja, Zadok, Ahimelekh, dan kepala-kepala keluarga ayah dari para imam dan orang Lewi—",
-                "> kepala keluarga ayah serta yang lebih muda dari saudaranya."
-            ]
-        }
-    ]
+  "book": "1 Tawarikh",
+  "chapter": 24,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Inilah pembagian anak-anak Harun:",
+        "> Anak-anak Harun ialah Nadab, Abihu, Eleazar, dan Itamar."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Namun, Nadab dan Abihu meninggal sebelum ayah mereka,",
+        "dan mereka tidak mempunyai anak.",
+        "> Maka, Eleazar dan Itamar melayani sebagai imam."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Daud, bersama Zadok dari anak-anak Eleazar dan Ahimelekh dari anak-anak Itamar,",
+        "> membagi mereka menurut tugas yang ditetapkan dalam pelayanan mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Lebih banyak kepala keluarga ditemukan dari anak-anak Eleazar daripada dari anak-anak Itamar,",
+        "> dan mereka membagi mereka sesuai.",
+        "> Ada enam belas kepala keluarga dari anak-anak Eleazar,",
+        "> dan delapan dari anak-anak Itamar menurut keluarga ayah mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Jadi mereka dibagi dengan undian, satu kelompok dengan yang lain,",
+        "> karena para pejabat tempat kudus dan pejabat Tuhan berasal dari anak-anak Eleazar dan anak-anak Itamar."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Semaya anak Netanel, juru tulis dari orang Lewi,",
+        "menulis mereka di hadapan raja, para pejabat, Zadok imam, Ahimelekh anak Abyatar,",
+        "> dan kepala-kepala keluarga ayah dari para imam dan orang Lewi—",
+        "> satu keluarga ayah diambil untuk Eleazar dan satu diambil untuk Itamar."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": ["Undian pertama diberikan kepada Yehoyarib,", "> yang kedua kepada Yedaya,"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": ["> yang ketiga diberikan kepada Harim,", "> yang keempat diberikan kepada Seorim,"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": ["> yang kelima diberikan kepada Malkia,", "> yang keenam diberikan kepada Miyamin,"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": ["> yang ketujuh diberikan kepada Hakos,", "> yang kedelapan diberikan kepada Abia,"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> yang kesembilan diberikan kepada Yesua,",
+        "> yang kesepuluh diberikan kepada Sekhanya,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> yang kesebelas diberikan kepada Elyasib,",
+        "> yang kedua belas diberikan kepada Yakim,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> yang ketiga belas diberikan kepada Hupa,",
+        "> yang keempat belas diberikan kepada Yesebeab,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> yang kelima belas diberikan kepada Bilga,",
+        "> yang keenam belas diberikan kepada Imer,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> yang ketujuh belas diberikan kepada Hezir,",
+        "> yang kedelapan belas diberikan kepada Hapizes,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> yang kesembilan belas diberikan kepada Petahya,",
+        "> yang kedua puluh diberikan kepada Yehezkiel,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> yang kedua puluh satu diberikan kepada Yakin,",
+        "> yang kedua puluh dua diberikan kepada Gamul,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> yang kedua puluh tiga diberikan kepada Delaya,",
+        "> yang kedua puluh empat diberikan kepada Maazya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Inilah tugas mereka untuk pelayanan mereka",
+        "ketika mereka datang ke rumah Tuhan sesuai dengan peraturan yang diberikan kepada mereka melalui Harun ayah mereka,",
+        "> seperti yang diperintahkan Tuhan Tuhan Israel kepadanya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Sekarang tentang sisa anak-anak Lewi:",
+        "> dari anak-anak Amram: Subael;",
+        "> dari anak-anak Subael: Yehdeya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 21,
+      "text": ["> Dari Rehabia, Isia adalah yang pertama dari anak-anaknya."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 22,
+      "text": ["> Dari orang Yizhar: Selomot;", "> dari anak-anak Selomot: Yahat."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> Anak-anak Hebron adalah: Yeria yang pertama, Amarya yang kedua, Yahaziel yang ketiga, dan Yekameam yang keempat."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 24,
+      "text": ["> Dari anak-anak Uziel: Mikha;", "> dari anak-anak Mikha: Syamir."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 25,
+      "text": ["> Saudara Mikha: Isia;", "> dari anak-anak Isia: Zakharia."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 26,
+      "text": ["> Keturunan Merari termasuk Mahli dan Musi;", "> anak-anak Yaazia: Beno."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 27,
+      "text": ["> Keturunan Merari melalui Yaazia adalah Beno, Soham, Zakur, dan Ibri."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 28,
+      "text": ["> Dari Mahli: Eleazar, yang tidak mempunyai anak."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 29,
+      "text": ["> Dari Kish: Yerahmeel, anak Kish."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 30,
+      "text": [
+        "Anak-anak Musi adalah:",
+        "> Mahli, Eder, dan Yerimot.",
+        "> Inilah anak-anak orang Lewi menurut keluarga ayah mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Mereka juga membuang undi seperti saudara-saudara mereka anak-anak Harun",
+        "di hadapan Daud raja, Zadok, Ahimelekh, dan kepala-kepala keluarga ayah dari para imam dan orang Lewi—",
+        "> kepala keluarga ayah serta yang lebih muda dari saudaranya."
+      ]
+    }
+  ]
 }

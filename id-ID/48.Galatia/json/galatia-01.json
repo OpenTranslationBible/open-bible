@@ -1,150 +1,140 @@
 {
-    "book": "Galatia",
-    "chapter": 1,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Paulus, seorang rasul—bukan diutus dari manusia atau melalui cara manusia, tetapi melalui Yesus Kristus dan Allah Bapa, yang membangkitkan Dia dari antara orang mati—"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "dan semua saudara yang ada bersamaku, Kepada jemaat-jemaat di Galatia:"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Kasih karunia dan damai sejahtera dari Allah Bapa kita dan Tuhan Yesus Kristus menyertai kamu,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "yang telah menyerahkan diri-Nya untuk dosa-dosa kita guna melepaskan kita dari zaman jahat sekarang ini, sesuai dengan kehendak Allah dan Bapa kita,"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "bagi-Nya kemuliaan selama-lamanya. Amin."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Aku heran bahwa kamu begitu cepat berpaling dari Dia yang memanggil kamu oleh kasih karunia Kristus, kepada injil yang berbeda—"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "yang sebenarnya bukan injil lain; tetapi ada beberapa orang yang mengacaukan kamu dan ingin mengubah injil Kristus."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Tetapi sekalipun kami atau seorang malaikat dari surga memberitakan injil yang berbeda dengan yang telah kami beritakan kepadamu, terkutuklah dia!"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Seperti yang telah kami katakan sebelumnya, sekarang kukatakan lagi: jika ada orang yang memberitakan kepadamu injil yang berbeda dengan yang telah kamu terima, terkutuklah dia!"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Apakah sekarang aku mencari persetujuan dari manusia, atau dari Allah? Atau apakah aku berusaha menyenangkan manusia? Jika aku masih berusaha menyenangkan manusia, aku bukanlah hamba Kristus."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Aku ingin kamu mengerti, teman-teman terkasih, bahwa injil yang aku beritakan bukan berasal dari sumber manusia."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Aku tidak menerimanya dari manusia mana pun, juga tidak diajarkan kepadaku; melainkan, aku menerimanya melalui wahyu dari Yesus Kristus."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Karena kamu telah mendengar tentang kehidupanku yang dahulu dalam agama Yahudi, bagaimana aku dengan giat menganiaya jemaat Allah dan berusaha menghancurkannya."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Aku maju dalam agama Yahudi melampaui banyak teman sebangsaku, sangat bersemangat untuk tradisi nenek moyangku."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Tetapi ketika Dia yang memisahkan aku sejak dalam kandungan ibuku dan memanggil aku oleh kasih karunia-Nya berkenan"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "menyatakan Anak-Nya di dalam aku agar aku dapat memberitakan-Nya di antara bangsa-bangsa lain, aku tidak segera berkonsultasi dengan manusia mana pun,"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "juga aku tidak pergi ke Yerusalem kepada mereka yang menjadi rasul sebelum aku, tetapi aku pergi ke Arabia dan kemudian kembali ke Damaskus."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Kemudian setelah tiga tahun, aku pergi ke Yerusalem untuk berkenalan dengan Kefas dan tinggal bersamanya selama lima belas hari."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Aku tidak bertemu dengan rasul-rasul lain kecuali Yakobus, saudara Tuhan."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Aku meyakinkan kamu di hadapan Allah bahwa apa yang aku tulis kepadamu bukanlah dusta."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Setelah itu, aku pergi ke daerah-daerah Siria dan Kilikia."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Aku tetap tidak dikenal secara wajah oleh jemaat-jemaat di Yudea yang ada dalam Kristus."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Mereka hanya mendengar laporan: \"Orang yang dahulu menganiaya kita sekarang memberitakan iman yang dahulu ia coba hancurkan.\""
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Dan mereka memuji Allah karena apa yang telah terjadi melalui aku."
-            ]
-        }
-    ]
+  "book": "Galatia",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Paulus, seorang rasul—bukan diutus dari manusia atau melalui cara manusia, tetapi melalui Yesus Kristus dan Tuhan Bapa, yang membangkitkan Dia dari antara orang mati—"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": ["dan semua saudara yang ada bersamaku, Kepada jemaat-jemaat di Galatia:"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Kasih karunia dan damai sejahtera dari Tuhan Bapa kita dan Tuhan Yesus Kristus menyertai kamu,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "yang telah menyerahkan diri-Nya untuk dosa-dosa kita guna melepaskan kita dari zaman jahat sekarang ini, sesuai dengan kehendak Tuhan dan Bapa kita,"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["bagi-Nya kemuliaan selama-lamanya. Amin."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Aku heran bahwa kamu begitu cepat berpaling dari Dia yang memanggil kamu oleh kasih karunia Kristus, kepada injil yang berbeda—"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "yang sebenarnya bukan injil lain; tetapi ada beberapa orang yang mengacaukan kamu dan ingin mengubah injil Kristus."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Tetapi sekalipun kami atau seorang malaikat dari surga memberitakan injil yang berbeda dengan yang telah kami beritakan kepadamu, terkutuklah dia!"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Seperti yang telah kami katakan sebelumnya, sekarang kukatakan lagi: jika ada orang yang memberitakan kepadamu injil yang berbeda dengan yang telah kamu terima, terkutuklah dia!"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Apakah sekarang aku mencari persetujuan dari manusia, atau dari Tuhan? Atau apakah aku berusaha menyenangkan manusia? Jika aku masih berusaha menyenangkan manusia, aku bukanlah hamba Kristus."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Aku ingin kamu mengerti, teman-teman terkasih, bahwa injil yang aku beritakan bukan berasal dari sumber manusia."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Aku tidak menerimanya dari manusia mana pun, juga tidak diajarkan kepadaku; melainkan, aku menerimanya melalui wahyu dari Yesus Kristus."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Karena kamu telah mendengar tentang kehidupanku yang dahulu dalam agama Yahudi, bagaimana aku dengan giat menganiaya jemaat Tuhan dan berusaha menghancurkannya."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Aku maju dalam agama Yahudi melampaui banyak teman sebangsaku, sangat bersemangat untuk tradisi nenek moyangku."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Tetapi ketika Dia yang memisahkan aku sejak dalam kandungan ibuku dan memanggil aku oleh kasih karunia-Nya berkenan"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "menyatakan Anak-Nya di dalam aku agar aku dapat memberitakan-Nya di antara bangsa-bangsa lain, aku tidak segera berkonsultasi dengan manusia mana pun,"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "juga aku tidak pergi ke Yerusalem kepada mereka yang menjadi rasul sebelum aku, tetapi aku pergi ke Arabia dan kemudian kembali ke Damaskus."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Kemudian setelah tiga tahun, aku pergi ke Yerusalem untuk berkenalan dengan Kefas dan tinggal bersamanya selama lima belas hari."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": ["Aku tidak bertemu dengan rasul-rasul lain kecuali Yakobus, saudara Tuhan."]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Aku meyakinkan kamu di hadapan Tuhan bahwa apa yang aku tulis kepadamu bukanlah dusta."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": ["Setelah itu, aku pergi ke daerah-daerah Siria dan Kilikia."]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Aku tetap tidak dikenal secara wajah oleh jemaat-jemaat di Yudea yang ada dalam Kristus."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Mereka hanya mendengar laporan: \"Orang yang dahulu menganiaya kita sekarang memberitakan iman yang dahulu ia coba hancurkan.\""
+      ]
+    },
+    {
+      "verse": 24,
+      "text": ["Dan mereka memuji Tuhan karena apa yang telah terjadi melalui aku."]
+    }
+  ]
 }

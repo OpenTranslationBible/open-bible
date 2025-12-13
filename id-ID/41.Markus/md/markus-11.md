@@ -46,7 +46,7 @@ Orang-orang yang berjalan di depan dan yang mengikuti berseru,
 
 ## Markus 11:11
 
-Yesus masuk ke Yerusalem dan pergi ke pelataran Bait Allah. Setelah melihat sekeliling pada segala sesuatu, Ia pergi ke Betania bersama kedua belas murid, karena hari sudah larut.
+Yesus masuk ke Yerusalem dan pergi ke pelataran Bait Tuhan. Setelah melihat sekeliling pada segala sesuatu, Ia pergi ke Betania bersama kedua belas murid, karena hari sudah larut.
 
 ---
 
@@ -66,11 +66,11 @@ Ia berkata kepada pohon itu, “Tidak ada seorang pun yang akan makan buah darim
 
 ## Markus 11:15
 
-Setibanya di Yerusalem, Yesus masuk ke pelataran Bait Allah dan mulai mengusir orang-orang yang berjual beli. Ia membalikkan meja-meja penukar uang dan bangku-bangku penjual merpati,
+Setibanya di Yerusalem, Yesus masuk ke pelataran Bait Tuhan dan mulai mengusir orang-orang yang berjual beli. Ia membalikkan meja-meja penukar uang dan bangku-bangku penjual merpati,
 
 ## Markus 11:16
 
-dan Ia tidak mengizinkan siapa pun membawa barang-barang melalui pelataran Bait Allah.
+dan Ia tidak mengizinkan siapa pun membawa barang-barang melalui pelataran Bait Tuhan.
 
 ## Markus 11:17
 
@@ -96,7 +96,7 @@ Petrus teringat dan berkata kepada Yesus, “Rabi, lihat! Pohon ara yang Engkau 
 
 ## Markus 11:22
 
-Yesus berkata, “Percayalah kepada Allah.”
+Yesus berkata, “Percayalah kepada Tuhan.”
 
 ## Markus 11:23
 
@@ -118,7 +118,7 @@ Dan ketika kamu berdiri berdoa, jika kamu menyimpan sesuatu terhadap siapa pun, 
 
 ## Markus 11:27
 
-Mereka datang lagi ke Yerusalem, dan ketika Yesus berjalan di pelataran Bait Allah, imam-imam kepala, ahli-ahli Taurat, dan tua-tua datang kepada-Nya,
+Mereka datang lagi ke Yerusalem, dan ketika Yesus berjalan di pelataran Bait Tuhan, imam-imam kepala, ahli-ahli Taurat, dan tua-tua datang kepada-Nya,
 
 ## Markus 11:28
 

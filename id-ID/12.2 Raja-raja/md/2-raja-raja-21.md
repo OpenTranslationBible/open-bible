@@ -70,7 +70,7 @@ dan juga membuat Yehuda berdosa dengan berhala-berhalanya,
 
 ## 2 Raja-raja 21:12
 
-maka inilah yang dikatakan Tuhan, Allah Israel:
+maka inilah yang dikatakan Tuhan, Tuhan Israel:
 
 > ‘Lihatlah, Aku mendatangkan bencana yang sedemikian rupa atas Yerusalem dan Yehuda,  
 > sehingga siapa pun yang mendengarnya, kedua telinganya akan berdengung.
@@ -136,7 +136,7 @@ dan melayani berhala-berhala yang dilayani ayahnya, dan sujud menyembah kepada m
 
 ## 2 Raja-raja 21:22
 
-Maka ia meninggalkan Tuhan, Allah nenek moyangnya,  
+Maka ia meninggalkan Tuhan, Tuhan nenek moyangnya,  
 dan tidak berjalan di jalan Tuhan.
 
 ## 2 Raja-raja 21:23

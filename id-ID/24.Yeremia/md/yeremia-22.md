@@ -34,7 +34,7 @@ Aku akan mengangkat para pembinasa melawanmu, masing-masing dengan senjatanya, d
 
 ## Yeremia 22:9
 
-Dan jawabannya akan: ‘Karena mereka meninggalkan perjanjian Tuhan, Allah mereka, dan menyembah serta melayani allah lain.’”
+Dan jawabannya akan: ‘Karena mereka meninggalkan perjanjian Tuhan, Tuhan mereka, dan menyembah serta melayani Tuhan lain.’”
 
 ## Yeremia 22:10
 

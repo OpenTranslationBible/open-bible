@@ -18,7 +18,7 @@ Maka Yakub mengirim pesan dan memanggil Rahel dan Lea ke ladang tempat ternaknya
 
 ## Kejadian 31:5
 
-Ia berkata kepada mereka, "Aku melihat bahwa sikap ayahmu terhadapku tidak seperti sebelumnya, tetapi Allah ayahku telah menyertai aku.
+Ia berkata kepada mereka, "Aku melihat bahwa sikap ayahmu terhadapku tidak seperti sebelumnya, tetapi Tuhan ayahku telah menyertai aku.
 
 ## Kejadian 31:6
 
@@ -26,7 +26,7 @@ Kalian melihat bahwa aku telah melayani ayahmu dengan setia dengan segenap kekua
 
 ## Kejadian 31:7
 
-Namun ayahmu telah menipu aku dan mengubah upahku sepuluh kali, tetapi Allah tidak mengizinkan dia menyakiti aku.
+Namun ayahmu telah menipu aku dan mengubah upahku sepuluh kali, tetapi Tuhan tidak mengizinkan dia menyakiti aku.
 
 ## Kejadian 31:8
 
@@ -34,7 +34,7 @@ Setiap kali ia berkata, 'Ambillah yang berbintik-bintik sebagai upahmu,' maka se
 
 ## Kejadian 31:9
 
-Jadi Allah telah memindahkan ternak ayahmu kepadaku.
+Jadi Tuhan telah memindahkan ternak ayahmu kepadaku.
 
 ## Kejadian 31:10
 
@@ -42,7 +42,7 @@ Pada musim kawin, aku bermimpi dan melihat bahwa kambing jantan yang kawin denga
 
 ## Kejadian 31:11
 
-Malaikat Allah berkata kepadaku dalam mimpi, 'Yakub,' dan aku menjawab, 'Ini aku.'
+Malaikat Tuhan berkata kepadaku dalam mimpi, 'Yakub,' dan aku menjawab, 'Ini aku.'
 
 ## Kejadian 31:12
 
@@ -50,7 +50,7 @@ Ia berkata, 'Lihatlah dan lihatlah bahwa semua kambing jantan yang kawin dengan 
 
 ## Kejadian 31:13
 
-Akulah Allah Betel, tempat engkau mengurapi tugu dan membuat nazar kepada-Ku. Sekarang bangkitlah, tinggalkan negeri ini, dan kembalilah ke tanah kelahiranmu.'"
+Akulah Tuhan Betel, tempat engkau mengurapi tugu dan membuat nazar kepada-Ku. Sekarang bangkitlah, tinggalkan negeri ini, dan kembalilah ke tanah kelahiranmu.'"
 
 ## Kejadian 31:14
 
@@ -62,7 +62,7 @@ Apakah ia tidak menganggap kami sebagai orang asing? Karena ia telah menjual kam
 
 ## Kejadian 31:16
 
-Tentu saja, semua kekayaan yang diambil Allah dari ayah kami adalah milik kami dan anak-anak kami. Jadi lakukanlah apa yang Allah katakan kepadamu."
+Tentu saja, semua kekayaan yang diambil Tuhan dari ayah kami adalah milik kami dan anak-anak kami. Jadi lakukanlah apa yang Tuhan katakan kepadamu."
 
 ## Kejadian 31:17
 
@@ -94,7 +94,7 @@ Mengambil sanak saudaranya bersamanya, ia mengejar Yakub selama tujuh hari dan m
 
 ## Kejadian 31:24
 
-Tetapi Allah datang kepada Laban orang Aram itu dalam mimpi pada malam hari dan berkata, "Berhati-hatilah untuk tidak berbicara kepada Yakub baik baik maupun buruk."
+Tetapi Tuhan datang kepada Laban orang Aram itu dalam mimpi pada malam hari dan berkata, "Berhati-hatilah untuk tidak berbicara kepada Yakub baik baik maupun buruk."
 
 ## Kejadian 31:25
 
@@ -114,7 +114,7 @@ Kau bahkan tidak membiarkan aku mencium cucu-cucuku dan anak-anak perempuanku se
 
 ## Kejadian 31:29
 
-Aku memiliki kekuatan untuk menyakitimu; tetapi tadi malam Allah ayahmu berkata kepadaku, 'Berhati-hatilah untuk tidak berbicara kepada Yakub baik baik maupun buruk.'
+Aku memiliki kekuatan untuk menyakitimu; tetapi tadi malam Tuhan ayahmu berkata kepadaku, 'Berhati-hatilah untuk tidak berbicara kepada Yakub baik baik maupun buruk.'
 
 ## Kejadian 31:30
 
@@ -166,7 +166,7 @@ Selama dua puluh tahun aku berada di rumahmu. Aku bekerja untukmu empat belas ta
 
 ## Kejadian 31:42
 
-Jika Allah ayahku, Allah Abraham dan Yang ditakuti Ishak, tidak menyertai aku, kau pasti telah mengusirku dengan tangan kosong. Tetapi Allah telah melihat kesusahanku dan kerja keras tanganku, dan tadi malam Ia menegurmu."
+Jika Tuhan ayahku, Tuhan Abraham dan Yang ditakuti Ishak, tidak menyertai aku, kau pasti telah mengusirku dengan tangan kosong. Tetapi Tuhan telah melihat kesusahanku dan kerja keras tanganku, dan tadi malam Ia menegurmu."
 
 ## Kejadian 31:43
 
@@ -198,7 +198,7 @@ Itu juga disebut Mizpa, karena ia berkata, "Semoga Tuhan mengawasi kita ketika k
 
 ## Kejadian 31:50
 
-Jika kau memperlakukan anak-anak perempuanku dengan buruk atau mengambil istri lain selain mereka, meskipun tidak ada orang yang bersama kita, ingatlah bahwa Allah adalah saksi antara kau dan aku."
+Jika kau memperlakukan anak-anak perempuanku dengan buruk atau mengambil istri lain selain mereka, meskipun tidak ada orang yang bersama kita, ingatlah bahwa Tuhan adalah saksi antara kau dan aku."
 
 ## Kejadian 31:51
 
@@ -210,7 +210,7 @@ Timbunan ini adalah saksi, dan tugu ini adalah saksi, bahwa aku tidak akan melew
 
 ## Kejadian 31:53
 
-Semoga Allah Abraham dan Allah Nahor, Allah ayah mereka, menghakimi antara kita." Maka Yakub bersumpah demi Yang ditakuti ayahnya Ishak.
+Semoga Tuhan Abraham dan Tuhan Nahor, Tuhan ayah mereka, menghakimi antara kita." Maka Yakub bersumpah demi Yang ditakuti ayahnya Ishak.
 
 ## Kejadian 31:54
 

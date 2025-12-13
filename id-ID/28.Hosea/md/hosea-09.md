@@ -3,7 +3,7 @@
 ## Hosea 9:1
 
 > Jangan bersukacita, Israel, dengan sorak-sorai seperti bangsa-bangsa lain!  
-> Karena engkau telah tidak setia kepada Allahmu;  
+> Karena engkau telah tidak setia kepada Tuhanmu;  
 > Engkau telah mencintai upah seorang pelacur di setiap tempat pengirikan.
 
 ## Hosea 9:2
@@ -51,9 +51,9 @@
 
 ## Hosea 9:8
 
-> Efraim adalah penjaga bersama Allahku, seorang nabi,  
+> Efraim adalah penjaga bersama Tuhanku, seorang nabi,  
 > Namun jerat penangkap burung ada di semua jalannya,  
-> Dan hanya ada permusuhan di rumah Allahnya.
+> Dan hanya ada permusuhan di rumah Tuhannya.
 
 ## Hosea 9:9
 
@@ -109,6 +109,6 @@
 
 ## Hosea 9:17
 
-> Allahku akan menolak mereka  
+> Tuhanku akan menolak mereka  
 > Karena mereka tidak mendengarkan Dia;  
 > Dan mereka akan menjadi pengembara di antara bangsa-bangsa.

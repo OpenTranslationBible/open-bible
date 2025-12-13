@@ -66,15 +66,15 @@ Itu akan seperti tanda di tanganmu dan seperti tali pengikat di dahimu, karena d
 
 ## Keluaran 13:17
 
-Ketika Firaun membiarkan bangsa itu pergi, Allah tidak memimpin mereka melalui jalan tanah orang Filistin, meskipun itu lebih dekat, karena Allah berkata, “Jika mereka menghadapi perang, mereka mungkin berubah pikiran dan kembali ke Mesir.”
+Ketika Firaun membiarkan bangsa itu pergi, Tuhan tidak memimpin mereka melalui jalan tanah orang Filistin, meskipun itu lebih dekat, karena Tuhan berkata, “Jika mereka menghadapi perang, mereka mungkin berubah pikiran dan kembali ke Mesir.”
 
 ## Keluaran 13:18
 
-Jadi Allah memimpin bangsa itu berputar melalui jalan padang gurun menuju Laut Merah, dan orang Israel keluar dari Mesir siap untuk berperang.
+Jadi Tuhan memimpin bangsa itu berputar melalui jalan padang gurun menuju Laut Merah, dan orang Israel keluar dari Mesir siap untuk berperang.
 
 ## Keluaran 13:19
 
-Musa membawa tulang-tulang Yusuf bersamanya karena Yusuf telah membuat orang Israel bersumpah, dengan mengatakan, “Allah pasti akan datang menolongmu, dan kemudian kamu harus membawa tulang-tulangku bersamamu dari tempat ini.”
+Musa membawa tulang-tulang Yusuf bersamanya karena Yusuf telah membuat orang Israel bersumpah, dengan mengatakan, “Tuhan pasti akan datang menolongmu, dan kemudian kamu harus membawa tulang-tulangku bersamamu dari tempat ini.”
 
 ## Keluaran 13:20
 

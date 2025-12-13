@@ -40,7 +40,7 @@ Pada malam hari, Paulus mendapat penglihatan tentang seorang pria dari Makedonia
 
 ## Kisah Para Rasul 16:10
 
-Setelah melihat penglihatan itu, kami segera berusaha pergi ke Makedonia, menyimpulkan bahwa Allah telah memanggil kami untuk memberitakan Injil kepada mereka.
+Setelah melihat penglihatan itu, kami segera berusaha pergi ke Makedonia, menyimpulkan bahwa Tuhan telah memanggil kami untuk memberitakan Injil kepada mereka.
 
 ---
 
@@ -58,11 +58,11 @@ Pada hari Sabat, kami pergi ke luar gerbang kota ke tepi sungai, di mana kami be
 
 ## Kisah Para Rasul 16:14
 
-Seorang wanita bernama Lidia, pedagang kain ungu dari kota Tiatira dan penyembah Allah, mendengarkan. Tuhan membuka hatinya untuk menanggapi pesan Paulus.
+Seorang wanita bernama Lidia, pedagang kain ungu dari kota Tiatira dan penyembah Tuhan, mendengarkan. Tuhan membuka hatinya untuk menanggapi pesan Paulus.
 
 ## Kisah Para Rasul 16:15
 
-Ketika dia dan seisi rumahnya dibaptis, dia mendesak kami, berkata, “Jika kamu menganggap aku setia kepada Tuhan, datanglah dan tinggallah di rumahku.” Dia membujuk kami.
+Ketika dia dan seisi rumahnya dibaptis, dia mendesak kami, berkata, “Jika kamu menganggap aku setia kepada Tuhan, datanglah dan tinggTuhan di rumahku.” Dia membujuk kami.
 
 ---
 
@@ -72,7 +72,7 @@ Saat kami pergi ke tempat berdoa, kami bertemu dengan seorang budak perempuan ya
 
 ## Kisah Para Rasul 16:17
 
-Dia mengikuti Paulus dan kami, sambil berseru, “Orang-orang ini adalah hamba Allah Yang Mahatinggi, yang memberitakan kepadamu jalan keselamatan.”
+Dia mengikuti Paulus dan kami, sambil berseru, “Orang-orang ini adalah hamba Tuhan Yang Mahatinggi, yang memberitakan kepadamu jalan keselamatan.”
 
 ## Kisah Para Rasul 16:18
 
@@ -108,7 +108,7 @@ Setelah menerima perintah seperti itu, dia menempatkan mereka di sel bagian dala
 
 ## Kisah Para Rasul 16:25
 
-Sekitar tengah malam, Paulus dan Silas berdoa dan menyanyikan puji-pujian kepada Allah, sementara para tahanan lainnya mendengarkan mereka.
+Sekitar tengah malam, Paulus dan Silas berdoa dan menyanyikan puji-pujian kepada Tuhan, sementara para tahanan lainnya mendengarkan mereka.
 
 ## Kisah Para Rasul 16:26
 
@@ -146,7 +146,7 @@ Pada jam itu juga malam itu, dia membawa mereka dan membasuh luka-luka mereka; k
 
 ## Kisah Para Rasul 16:34
 
-Dia membawa mereka ke rumahnya, menyediakan makanan bagi mereka, dan dipenuhi dengan sukacita karena dia telah percaya kepada Allah—dia dan seluruh rumahnya.
+Dia membawa mereka ke rumahnya, menyediakan makanan bagi mereka, dan dipenuhi dengan sukacita karena dia telah percaya kepada Tuhan—dia dan seluruh rumahnya.
 
 ---
 

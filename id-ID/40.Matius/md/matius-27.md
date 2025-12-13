@@ -170,7 +170,7 @@ Orang-orang yang lewat menghina-Nya, menggelengkan kepala mereka
 
 ## Matius 27:40
 
-dan berkata, “Engkau yang mengklaim dapat menghancurkan bait suci dan membangunnya kembali dalam tiga hari, selamatkanlah diri-Mu! Jika Engkau adalah Anak Allah, turunlah dari salib!”
+dan berkata, “Engkau yang mengklaim dapat menghancurkan bait suci dan membangunnya kembali dalam tiga hari, selamatkanlah diri-Mu! Jika Engkau adalah Anak Tuhan, turunlah dari salib!”
 
 ## Matius 27:41
 
@@ -182,7 +182,7 @@ Demikian juga, imam-imam kepala, bersama dengan ahli-ahli Taurat dan tua-tua, me
 
 ## Matius 27:43
 
-Dia percaya kepada Allah; biarlah Allah menyelamatkan-Nya sekarang jika Dia berkenan kepada-Nya, karena Dia berkata, ‘Aku adalah Anak Allah.’”
+Dia percaya kepada Tuhan; biarlah Tuhan menyelamatkan-Nya sekarang jika Dia berkenan kepada-Nya, karena Dia berkata, ‘Aku adalah Anak Tuhan.’”
 
 ## Matius 27:44
 
@@ -196,7 +196,7 @@ Dari tengah hari hingga pukul tiga sore, kegelapan meliputi seluruh negeri.
 
 ## Matius 27:46
 
-Sekitar pukul tiga sore, Yesus berseru dengan suara nyaring, “Eli, Eli, lema sabachthani?” yang berarti, “Allah-Ku, Allah-Ku, mengapa Engkau meninggalkan Aku?”
+Sekitar pukul tiga sore, Yesus berseru dengan suara nyaring, “Eli, Eli, lema sabachthani?” yang berarti, “Tuhan-Ku, Tuhan-Ku, mengapa Engkau meninggalkan Aku?”
 
 ## Matius 27:47
 
@@ -230,7 +230,7 @@ Mereka muncul dari kuburan setelah kebangkitan Yesus dan pergi ke kota suci, men
 
 ## Matius 27:54
 
-Ketika perwira dan mereka yang bersamanya yang menjaga Yesus melihat gempa bumi dan semua yang telah terjadi, mereka sangat ketakutan dan berkata, “Sungguh, Dia adalah Anak Allah!”
+Ketika perwira dan mereka yang bersamanya yang menjaga Yesus melihat gempa bumi dan semua yang telah terjadi, mereka sangat ketakutan dan berkata, “Sungguh, Dia adalah Anak Tuhan!”
 
 ---
 

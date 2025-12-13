@@ -1,125 +1,121 @@
 {
-    "book": "Nehemia",
-    "chapter": 5,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Sekarang ada keluhan besar dari orang-orang dan istri-istri mereka terhadap saudara-saudara Yahudi mereka."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Beberapa berkata, \"Kami, bersama dengan anak-anak laki-laki dan perempuan kami, banyak; oleh karena itu, kami perlu mendapatkan gandum agar kami dapat makan dan hidup.\""
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Yang lain berkata, \"Kami menggadaikan ladang kami, kebun anggur kami, dan rumah kami untuk mendapatkan gandum karena kelaparan.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Ada juga yang berkata, \"Kami telah meminjam uang untuk membayar pajak raja atas ladang dan kebun anggur kami."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Sekarang daging kami sama seperti saudara-saudara kami, anak-anak kami seperti anak-anak mereka. Namun, kami memaksa anak-anak laki-laki dan perempuan kami menjadi budak; beberapa dari anak perempuan kami sudah diperbudak, dan kami tidak berdaya karena ladang dan kebun anggur kami milik orang lain.\""
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Ketika aku mendengar keluhan mereka dan kata-kata ini, aku sangat marah."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Setelah mempertimbangkan masalah ini, aku menghadapi para bangsawan dan pejabat, berkata, \"Kalian memungut bunga dari orang-orang kalian sendiri!\" Jadi, aku mengadakan pertemuan besar melawan mereka."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Aku berkata kepada mereka, \"Sebisa mungkin, kami telah menebus saudara-saudara Yahudi kami yang dijual kepada bangsa-bangsa lain. Sekarang kalian menjual saudara-saudara kalian sendiri, hanya untuk dijual kembali kepada kami!\" Mereka tetap diam, tidak dapat menemukan jawaban."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Jadi aku melanjutkan, \"Apa yang kalian lakukan tidak benar. Haruskah kalian tidak berjalan dalam takut akan Allah kita untuk menghindari celaan dari musuh-musuh bangsa lain?"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Aku, saudara-saudaraku, dan orang-orangku juga meminjamkan uang dan gandum kepada mereka. Mari kita hentikan bunga ini!"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Tolong, kembalikan kepada mereka hari ini juga ladang, kebun anggur, kebun zaitun, dan rumah mereka, bersama dengan bunga yang kalian kenakan kepada mereka—sepersepuluh dari uang, gandum, anggur baru, dan minyak.\""
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Mereka menjawab, \"Kami akan mengembalikannya dan tidak akan menuntut apa pun lagi dari mereka; kami akan melakukan seperti yang kamu katakan.\" Kemudian aku memanggil para imam dan membuat para bangsawan dan pejabat bersumpah untuk melakukan apa yang telah mereka janjikan."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Aku juga mengguncang lipatan jubahku dan menyatakan, \"Dengan cara ini semoga Allah mengguncang dari rumah dan harta benda mereka siapa pun yang tidak menepati janji ini. Jadi semoga orang seperti itu diguncang dan dikosongkan!\" Seluruh jemaat berkata, \"Amin,\" dan memuji Tuhan. Dan orang-orang melakukan seperti yang telah mereka janjikan."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Selain itu, sejak hari aku diangkat menjadi gubernur mereka di tanah Yehuda, dari tahun kedua puluh sampai tahun ketiga puluh dua Raja Artahsasta, selama dua belas tahun, baik aku maupun saudara-saudaraku tidak mengonsumsi tunjangan makanan gubernur."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Tetapi gubernur-gubernur sebelumnya yang ada sebelum aku membebankan beban berat pada orang-orang dan mengambil dari mereka empat puluh syikal perak selain roti dan anggur. Bahkan pelayan-pelayan mereka memerintah atas orang-orang. Tetapi aku tidak melakukannya karena hormatku kepada Allah."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Sebaliknya, aku mengabdikan diriku pada pekerjaan di tembok ini. Semua orangku berkumpul di sana untuk pekerjaan itu; kami tidak memperoleh tanah apa pun."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Selain itu, 150 orang Yahudi dan pejabat makan di mejaku, selain mereka yang datang kepada kami dari bangsa-bangsa sekitarnya."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Setiap hari, satu lembu, enam domba pilihan, dan beberapa unggas disiapkan untukku, dan setiap sepuluh hari persediaan anggur dari segala jenis disediakan. Meskipun semua ini, aku tidak menuntut tunjangan makanan gubernur, karena tuntutan itu berat bagi orang-orang ini."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Ingatlah aku dengan baik, ya Allahku, untuk semua yang telah aku lakukan bagi orang-orang ini."
-            ]
-        }
-    ]
+  "book": "Nehemia",
+  "chapter": 5,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Sekarang ada keluhan besar dari orang-orang dan istri-istri mereka terhadap saudara-saudara Yahudi mereka."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Beberapa berkata, \"Kami, bersama dengan anak-anak laki-laki dan perempuan kami, banyak; oleh karena itu, kami perlu mendapatkan gandum agar kami dapat makan dan hidup.\""
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Yang lain berkata, \"Kami menggadaikan ladang kami, kebun anggur kami, dan rumah kami untuk mendapatkan gandum karena kelaparan.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Ada juga yang berkata, \"Kami telah meminjam uang untuk membayar pajak raja atas ladang dan kebun anggur kami."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Sekarang daging kami sama seperti saudara-saudara kami, anak-anak kami seperti anak-anak mereka. Namun, kami memaksa anak-anak laki-laki dan perempuan kami menjadi budak; beberapa dari anak perempuan kami sudah diperbudak, dan kami tidak berdaya karena ladang dan kebun anggur kami milik orang lain.\""
+      ]
+    },
+    {
+      "verse": 6,
+      "text": ["Ketika aku mendengar keluhan mereka dan kata-kata ini, aku sangat marah."]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Setelah mempertimbangkan masalah ini, aku menghadapi para bangsawan dan pejabat, berkata, \"Kalian memungut bunga dari orang-orang kalian sendiri!\" Jadi, aku mengadakan pertemuan besar melawan mereka."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Aku berkata kepada mereka, \"Sebisa mungkin, kami telah menebus saudara-saudara Yahudi kami yang dijual kepada bangsa-bangsa lain. Sekarang kalian menjual saudara-saudara kalian sendiri, hanya untuk dijual kembali kepada kami!\" Mereka tetap diam, tidak dapat menemukan jawaban."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Jadi aku melanjutkan, \"Apa yang kalian lakukan tidak benar. Haruskah kalian tidak berjalan dalam takut akan Tuhan kita untuk menghindari celaan dari musuh-musuh bangsa lain?"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Aku, saudara-saudaraku, dan orang-orangku juga meminjamkan uang dan gandum kepada mereka. Mari kita hentikan bunga ini!"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Tolong, kembalikan kepada mereka hari ini juga ladang, kebun anggur, kebun zaitun, dan rumah mereka, bersama dengan bunga yang kalian kenakan kepada mereka—sepersepuluh dari uang, gandum, anggur baru, dan minyak.\""
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Mereka menjawab, \"Kami akan mengembalikannya dan tidak akan menuntut apa pun lagi dari mereka; kami akan melakukan seperti yang kamu katakan.\" Kemudian aku memanggil para imam dan membuat para bangsawan dan pejabat bersumpah untuk melakukan apa yang telah mereka janjikan."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Aku juga mengguncang lipatan jubahku dan menyatakan, \"Dengan cara ini semoga Tuhan mengguncang dari rumah dan harta benda mereka siapa pun yang tidak menepati janji ini. Jadi semoga orang seperti itu diguncang dan dikosongkan!\" Seluruh jemaat berkata, \"Amin,\" dan memuji Tuhan. Dan orang-orang melakukan seperti yang telah mereka janjikan."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Selain itu, sejak hari aku diangkat menjadi gubernur mereka di tanah Yehuda, dari tahun kedua puluh sampai tahun ketiga puluh dua Raja Artahsasta, selama dua belas tahun, baik aku maupun saudara-saudaraku tidak mengonsumsi tunjangan makanan gubernur."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Tetapi gubernur-gubernur sebelumnya yang ada sebelum aku membebankan beban berat pada orang-orang dan mengambil dari mereka empat puluh syikal perak selain roti dan anggur. Bahkan pelayan-pelayan mereka memerintah atas orang-orang. Tetapi aku tidak melakukannya karena hormatku kepada Tuhan."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Sebaliknya, aku mengabdikan diriku pada pekerjaan di tembok ini. Semua orangku berkumpul di sana untuk pekerjaan itu; kami tidak memperoleh tanah apa pun."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Selain itu, 150 orang Yahudi dan pejabat makan di mejaku, selain mereka yang datang kepada kami dari bangsa-bangsa sekitarnya."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Setiap hari, satu lembu, enam domba pilihan, dan beberapa unggas disiapkan untukku, dan setiap sepuluh hari persediaan anggur dari segala jenis disediakan. Meskipun semua ini, aku tidak menuntut tunjangan makanan gubernur, karena tuntutan itu berat bagi orang-orang ini."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Ingatlah aku dengan baik, ya Tuhanku, untuk semua yang telah aku lakukan bagi orang-orang ini."
+      ]
+    }
+  ]
 }

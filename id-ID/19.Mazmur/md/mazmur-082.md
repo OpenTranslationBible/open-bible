@@ -4,7 +4,7 @@
 
 ## Mazmur 82:1
 
-> Allah berdiri di jemaat-Nya sendiri;  
+> Tuhan berdiri di jemaat-Nya sendiri;  
 > Dia menghakimi di tengah-tengah para dewa.
 
 ---
@@ -50,5 +50,5 @@
 
 ## Mazmur 82:8
 
-> Bangkitlah, Allah, dan hakimilah bumi!  
+> Bangkitlah, Tuhan, dan hakimilah bumi!  
 > Karena Engkau memiliki kekuasaan atas semua bangsa.

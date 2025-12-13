@@ -31,7 +31,7 @@
 
 ## Mazmur 149:6
 
-> Pujian yang tinggi kepada Allah ada di mulut mereka,  
+> Pujian yang tinggi kepada Tuhan ada di mulut mereka,  
 > Dan pedang bermata dua di tangan mereka,
 
 ## Mazmur 149:7

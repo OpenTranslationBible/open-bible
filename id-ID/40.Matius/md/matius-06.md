@@ -116,7 +116,7 @@ Tetapi jika matamu tidak jernih, seluruh tubuhmu akan penuh kegelapan. Jika demi
 
 ## Matius 6:24
 
-"Tidak ada seorang pun yang dapat melayani dua tuan. Entah kamu akan membenci yang satu dan mencintai yang lain, atau kamu akan setia kepada yang satu dan meremehkan yang lain. Kamu tidak dapat melayani Allah dan kekayaan.
+"Tidak ada seorang pun yang dapat melayani dua tuan. Entah kamu akan membenci yang satu dan mencintai yang lain, atau kamu akan setia kepada yang satu dan meremehkan yang lain. Kamu tidak dapat melayani Tuhan dan kekayaan.
 
 ---
 
@@ -142,7 +142,7 @@ namun Aku berkata kepadamu, bahkan Salomo dalam segala kemegahannya tidak berpak
 
 ## Matius 6:30
 
-Jika demikian Allah mendandani rumput di padang, yang ada hari ini dan besok dibuang ke dalam api, tidakkah Dia akan lebih mendandani kamu—kamu yang kurang percaya?
+Jika demikian Tuhan mendandani rumput di padang, yang ada hari ini dan besok dibuang ke dalam api, tidakkah Dia akan lebih mendandani kamu—kamu yang kurang percaya?
 
 ---
 

@@ -22,15 +22,15 @@ Mereka telah mengenal saya sejak lama, jika mereka mau bersaksi, bahwa saya hidu
 
 ## Kisah Para Rasul 26:6
 
-Dan sekarang saya diadili karena harapan saya dalam janji yang dibuat Allah kepada nenek moyang kita.
+Dan sekarang saya diadili karena harapan saya dalam janji yang dibuat Tuhan kepada nenek moyang kita.
 
 ## Kisah Para Rasul 26:7
 
-Ini adalah janji yang diharapkan oleh kedua belas suku kita untuk dicapai saat mereka dengan tekun melayani Allah siang dan malam. Untuk harapan inilah, O raja, saya dituduh oleh orang-orang Yahudi.
+Ini adalah janji yang diharapkan oleh kedua belas suku kita untuk dicapai saat mereka dengan tekun melayani Tuhan siang dan malam. Untuk harapan inilah, O raja, saya dituduh oleh orang-orang Yahudi.
 
 ## Kisah Para Rasul 26:8
 
-Mengapa ada di antara kalian yang menganggap tidak dapat dipercaya bahwa Allah membangkitkan orang mati?
+Mengapa ada di antara kalian yang menganggap tidak dapat dipercaya bahwa Tuhan membangkitkan orang mati?
 
 ---
 
@@ -74,7 +74,7 @@ Aku akan melepaskanmu dari bangsamu sendiri dan dari bangsa-bangsa lain. Aku men
 
 ## Kisah Para Rasul 26:18
 
-untuk membuka mata mereka dan mengubah mereka dari kegelapan kepada terang, dan dari kuasa Iblis kepada Allah, supaya mereka menerima pengampunan dosa dan tempat di antara mereka yang dikuduskan oleh iman kepada-Ku.’
+untuk membuka mata mereka dan mengubah mereka dari kegelapan kepada terang, dan dari kuasa Iblis kepada Tuhan, supaya mereka menerima pengampunan dosa dan tempat di antara mereka yang dikuduskan oleh iman kepada-Ku.’
 
 ---
 
@@ -84,7 +84,7 @@ untuk membuka mata mereka dan mengubah mereka dari kegelapan kepada terang, dan 
 
 ## Kisah Para Rasul 26:20
 
-Pertama kepada mereka di Damaskus, kemudian kepada mereka di Yerusalem dan seluruh Yudea, dan kemudian kepada bangsa-bangsa lain, saya berkhotbah bahwa mereka harus bertobat dan berbalik kepada Allah, menunjukkan pertobatan mereka dengan perbuatan mereka.
+Pertama kepada mereka di Damaskus, kemudian kepada mereka di Yerusalem dan seluruh Yudea, dan kemudian kepada bangsa-bangsa lain, saya berkhotbah bahwa mereka harus bertobat dan berbalik kepada Tuhan, menunjukkan pertobatan mereka dengan perbuatan mereka.
 
 ## Kisah Para Rasul 26:21
 
@@ -92,7 +92,7 @@ Inilah sebabnya beberapa orang Yahudi menangkap saya di bait suci dan mencoba me
 
 ## Kisah Para Rasul 26:22
 
-Tetapi Allah telah menolong saya hingga hari ini, dan saya berdiri di sini bersaksi kepada yang kecil dan besar, tidak mengatakan apa pun selain apa yang dikatakan oleh para nabi dan Musa akan terjadi—
+Tetapi Tuhan telah menolong saya hingga hari ini, dan saya berdiri di sini bersaksi kepada yang kecil dan besar, tidak mengatakan apa pun selain apa yang dikatakan oleh para nabi dan Musa akan terjadi—
 
 ## Kisah Para Rasul 26:23
 
@@ -122,7 +122,7 @@ Lalu Agripa berkata kepada Paulus, “Apakah engkau berpikir bahwa dalam waktu s
 
 ## Kisah Para Rasul 26:29
 
-Paulus menjawab, “Waktu singkat atau lama, saya berdoa kepada Allah agar bukan hanya engkau tetapi semua yang mendengarkan saya hari ini menjadi seperti saya, kecuali untuk rantai ini.”
+Paulus menjawab, “Waktu singkat atau lama, saya berdoa kepada Tuhan agar bukan hanya engkau tetapi semua yang mendengarkan saya hari ini menjadi seperti saya, kecuali untuk rantai ini.”
 
 ---
 

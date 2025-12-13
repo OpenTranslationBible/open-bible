@@ -22,7 +22,7 @@ satu Tuhan, satu iman, dan satu baptisan;
 
 ## Efesus 4:6
 
-satu Allah dan Bapa dari semua, yang memerintah atas semua, bekerja melalui semua, dan ada di dalam semua.
+satu Tuhan dan Bapa dari semua, yang memerintah atas semua, bekerja melalui semua, dan ada di dalam semua.
 
 ## Efesus 4:7
 
@@ -50,11 +50,11 @@ Dan Ia memberikan sebagian untuk menjadi rasul, sebagian nabi, sebagian pemberit
 
 ## Efesus 4:12
 
-untuk mempersiapkan umat Allah bagi pelayanan, untuk penguatan tubuh Kristus,
+untuk mempersiapkan umat Tuhan bagi pelayanan, untuk penguatan tubuh Kristus,
 
 ## Efesus 4:13
 
-sampai kita semua mencapai kesatuan dalam iman dan dalam pengetahuan tentang Anak Allah, menuju kedewasaan penuh, ke ukuran penuh dari kedewasaan Kristus.
+sampai kita semua mencapai kesatuan dalam iman dan dalam pengetahuan tentang Anak Tuhan, menuju kedewasaan penuh, ke ukuran penuh dari kedewasaan Kristus.
 
 ## Efesus 4:14
 
@@ -74,7 +74,7 @@ Jadi aku mengatakan ini, dan menegaskan dalam Tuhan, bahwa kamu tidak boleh lagi
 
 ## Efesus 4:18
 
-Mereka gelap dalam pengertian mereka dan terasing dari kehidupan Allah karena kebodohan yang ada di dalam mereka, disebabkan oleh kekerasan hati mereka.
+Mereka gelap dalam pengertian mereka dan terasing dari kehidupan Tuhan karena kebodohan yang ada di dalam mereka, disebabkan oleh kekerasan hati mereka.
 
 ## Efesus 4:19
 
@@ -98,7 +98,7 @@ untuk diperbarui dalam sikap pikiranmu;
 
 ## Efesus 4:24
 
-dan untuk mengenakan diri yang baru, yang dibentuk untuk mencerminkan kebenaran dan kekudusan sejati Allah.
+dan untuk mengenakan diri yang baru, yang dibentuk untuk mencerminkan kebenaran dan kekudusan sejati Tuhan.
 
 ## Efesus 4:25
 
@@ -122,7 +122,7 @@ Jangan biarkan pembicaraan yang tidak sehat keluar dari mulutmu, tetapi hanya ap
 
 ## Efesus 4:30
 
-Dan jangan menyebabkan kesedihan kepada Roh Kudus Allah, yang dengannya kamu telah dimeteraikan untuk hari penebusan.
+Dan jangan menyebabkan kesedihan kepada Roh Kudus Tuhan, yang dengannya kamu telah dimeteraikan untuk hari penebusan.
 
 ## Efesus 4:31
 
@@ -130,4 +130,4 @@ Biarkan semua kepahitan, kemarahan, amarah, keributan, dan fitnah disingkirkan d
 
 ## Efesus 4:32
 
-Bersikaplah baik dan penuh belas kasihan satu sama lain, saling mengampuni, sama seperti Allah dalam Kristus telah mengampuni kamu.
+Bersikaplah baik dan penuh belas kasihan satu sama lain, saling mengampuni, sama seperti Tuhan dalam Kristus telah mengampuni kamu.

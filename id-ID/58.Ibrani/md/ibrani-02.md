@@ -14,7 +14,7 @@ bagaimana kita akan luput, jika kita mengabaikan keselamatan yang sebesar itu? K
 
 ## Ibrani 2:4
 
-Allah juga memberikan kesaksian dengan tanda-tanda, keajaiban-keajaiban, dan berbagai mukjizat, serta dengan karunia-karunia Roh Kudus yang dibagikan menurut kehendak-Nya.
+Tuhan juga memberikan kesaksian dengan tanda-tanda, keajaiban-keajaiban, dan berbagai mukjizat, serta dengan karunia-karunia Roh Kudus yang dibagikan menurut kehendak-Nya.
 
 ## Ibrani 2:5
 
@@ -40,7 +40,7 @@ Dalam menaklukkan segala sesuatu kepadanya, Ia tidak meninggalkan sesuatu pun ya
 
 ## Ibrani 2:9
 
-Tetapi kita melihat Yesus, yang untuk waktu yang singkat dibuat sedikit lebih rendah dari malaikat-malaikat, sekarang dimahkotai dengan kemuliaan dan kehormatan karena penderitaan dan kematian-Nya, sehingga oleh kasih karunia Allah, Ia mengalami kematian bagi setiap orang.
+Tetapi kita melihat Yesus, yang untuk waktu yang singkat dibuat sedikit lebih rendah dari malaikat-malaikat, sekarang dimahkotai dengan kemuliaan dan kehormatan karena penderitaan dan kematian-Nya, sehingga oleh kasih karunia Tuhan, Ia mengalami kematian bagi setiap orang.
 
 ## Ibrani 2:10
 
@@ -66,7 +66,7 @@ Dan lebih lanjut,
 
 Dan juga,
 
-> “Inilah Aku, bersama dengan anak-anak yang telah diberikan Allah kepada-Ku.”
+> “Inilah Aku, bersama dengan anak-anak yang telah diberikan Tuhan kepada-Ku.”
 
 ## Ibrani 2:14
 
@@ -82,7 +82,7 @@ Sebab sesungguhnya Ia tidak menolong malaikat-malaikat, tetapi Ia menolong ketur
 
 ## Ibrani 2:17
 
-Karena itu, Ia harus dibuat sama seperti saudara-saudara-Nya dalam segala hal, supaya Ia dapat menjadi Imam Besar yang berbelas kasihan dan setia dalam hal-hal yang berhubungan dengan Allah, untuk membuat pendamaian bagi dosa-dosa umat.
+Karena itu, Ia harus dibuat sama seperti saudara-saudara-Nya dalam segala hal, supaya Ia dapat menjadi Imam Besar yang berbelas kasihan dan setia dalam hal-hal yang berhubungan dengan Tuhan, untuk membuat pendamaian bagi dosa-dosa umat.
 
 ## Ibrani 2:18
 

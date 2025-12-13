@@ -90,7 +90,7 @@ Semua ini terjadi untuk menggenapi apa yang telah difirmankan Tuhan melalui nabi
 
 ## Matius 1:23
 
-“Lihatlah, seorang perawan akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel,” yang berarti “Allah menyertai kita.”
+“Lihatlah, seorang perawan akan mengandung dan melahirkan seorang anak laki-laki, dan mereka akan menamakan Dia Imanuel,” yang berarti “Tuhan menyertai kita.”
 
 ## Matius 1:24
 

@@ -8,7 +8,7 @@
 
 ## Ayub 10:2
 
-> Aku akan bertanya kepada Allah, 'Janganlah menghukum aku;  
+> Aku akan bertanya kepada Tuhan, 'Janganlah menghukum aku;  
 > Tolong aku mengerti mengapa Engkau menuduh aku.
 
 ## Ayub 10:3

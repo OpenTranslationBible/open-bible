@@ -22,8 +22,8 @@ Hendaklah kamu dalam hidupmu bersama, menaruh pikiran dan perasaan yang terdapat
 
 ## Filipi 2:6
 
-> yang walaupun dalam rupa Allah,
-> tidak menganggap kesetaraan dengan Allah itu sebagai sesuatu yang harus dipertahankan,
+> yang walaupun dalam rupa Tuhan,
+> tidak menganggap kesetaraan dengan Tuhan itu sebagai sesuatu yang harus dipertahankan,
 
 ## Filipi 2:7
 
@@ -39,7 +39,7 @@ Hendaklah kamu dalam hidupmu bersama, menaruh pikiran dan perasaan yang terdapat
 
 ## Filipi 2:9
 
-> Itulah sebabnya Allah sangat meninggikan Dia
+> Itulah sebabnya Tuhan sangat meninggikan Dia
 > dan mengaruniakan kepada-Nya nama di atas segala nama,
 
 ## Filipi 2:10
@@ -49,7 +49,7 @@ Hendaklah kamu dalam hidupmu bersama, menaruh pikiran dan perasaan yang terdapat
 ## Filipi 2:11
 
 > dan segala lidah mengaku: "Yesus Kristus adalah Tuhan,"
-> bagi kemuliaan Allah, Bapa!
+> bagi kemuliaan Tuhan, Bapa!
 
 ## Filipi 2:12
 
@@ -57,7 +57,7 @@ Karena itu, saudara-saudaraku yang kekasih, sebagaimana kamu selalu taat, bukan 
 
 ## Filipi 2:13
 
-karena Allahlah yang bekerja di dalam kamu, baik untuk berkehendak maupun untuk bekerja menurut kerelaan-Nya.
+karena Tuhanlah yang bekerja di dalam kamu, baik untuk berkehendak maupun untuk bekerja menurut kerelaan-Nya.
 
 ## Filipi 2:14
 
@@ -65,7 +65,7 @@ Lakukanlah segala sesuatu tanpa bersungut-sungut dan berbantah-bantahan,
 
 ## Filipi 2:15
 
-supaya kamu tidak beraib dan tidak bernoda, sebagai anak-anak Allah yang tidak bercela di tengah-tengah angkatan yang bengkok hatinya dan yang sesat ini, sehingga kamu bercahaya di antara mereka seperti bintang-bintang di dunia,
+supaya kamu tidak beraib dan tidak bernoda, sebagai anak-anak Tuhan yang tidak bercela di tengah-tengah angkatan yang bengkok hatinya dan yang sesat ini, sehingga kamu bercahaya di antara mereka seperti bintang-bintang di dunia,
 
 ## Filipi 2:16
 
@@ -113,7 +113,7 @@ karena ia sangat rindu kepada kamu sekalian dan susah juga hatinya, sebab kamu m
 
 ## Filipi 2:27
 
-Memang ia sakit dan nyaris mati, tetapi Allah mengasihani dia, dan bukan hanya dia saja, melainkan aku juga, supaya aku tidak berdukacita berturut-turut.
+Memang ia sakit dan nyaris mati, tetapi Tuhan mengasihani dia, dan bukan hanya dia saja, melainkan aku juga, supaya aku tidak berdukacita berturut-turut.
 
 ## Filipi 2:28
 

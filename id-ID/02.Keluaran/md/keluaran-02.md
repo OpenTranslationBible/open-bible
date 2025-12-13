@@ -90,12 +90,12 @@ Zipora melahirkan seorang anak laki-laki, dan Musa menamainya Gersom, berkata, "
 
 ## Keluaran 2:23
 
-Selama waktu yang lama itu, raja Mesir meninggal. Orang Israel mengeluh di bawah perbudakan mereka dan berseru, dan seruan mereka untuk meminta pertolongan karena perbudakan mereka sampai kepada Allah.
+Selama waktu yang lama itu, raja Mesir meninggal. Orang Israel mengeluh di bawah perbudakan mereka dan berseru, dan seruan mereka untuk meminta pertolongan karena perbudakan mereka sampai kepada Tuhan.
 
 ## Keluaran 2:24
 
-Allah mendengar keluhan mereka dan mengingat perjanjian-Nya dengan Abraham, Ishak, dan Yakub.
+Tuhan mendengar keluhan mereka dan mengingat perjanjian-Nya dengan Abraham, Ishak, dan Yakub.
 
 ## Keluaran 2:25
 
-Allah memandang orang Israel dan memperhatikan mereka.
+Tuhan memandang orang Israel dan memperhatikan mereka.

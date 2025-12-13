@@ -18,7 +18,7 @@ Sebab kita yang telah percaya, masuk ke dalam perhentian itu, seperti yang Ia ka
 
 ## Ibrani 4:4
 
-Karena Ia telah berbicara tentang hari ketujuh di suatu tempat dengan kata-kata ini: "Dan Allah berhenti pada hari ketujuh dari segala pekerjaan-Nya."
+Karena Ia telah berbicara tentang hari ketujuh di suatu tempat dengan kata-kata ini: "Dan Tuhan berhenti pada hari ketujuh dari segala pekerjaan-Nya."
 
 ## Ibrani 4:5
 
@@ -37,15 +37,15 @@ Ia kembali menetapkan suatu hari, yang disebut "Hari Ini," berbicara melalui Dau
 
 ## Ibrani 4:8
 
-Sebab jika Yosua telah memberikan mereka perhentian, Allah tidak akan menyebutkan hari lain kemudian.
+Sebab jika Yosua telah memberikan mereka perhentian, Tuhan tidak akan menyebutkan hari lain kemudian.
 
 ## Ibrani 4:9
 
-Akibatnya, perhentian Sabat masih tersedia bagi umat Allah.
+Akibatnya, perhentian Sabat masih tersedia bagi umat Tuhan.
 
 ## Ibrani 4:10
 
-Karena siapa saja yang masuk ke dalam perhentian-Nya juga berhenti dari pekerjaan mereka, seperti Allah berhenti dari pekerjaan-Nya.
+Karena siapa saja yang masuk ke dalam perhentian-Nya juga berhenti dari pekerjaan mereka, seperti Tuhan berhenti dari pekerjaan-Nya.
 
 ## Ibrani 4:11
 
@@ -53,7 +53,7 @@ Karena itu, marilah kita berusaha dengan sungguh-sungguh untuk masuk ke dalam pe
 
 ## Ibrani 4:12
 
-Sebab firman Allah hidup dan aktif, lebih tajam dari pedang bermata dua mana pun, menembus sampai memisahkan jiwa dan roh, sendi-sendi dan sumsum; ia menghakimi pikiran dan niat hati.
+Sebab firman Tuhan hidup dan aktif, lebih tajam dari pedang bermata dua mana pun, menembus sampai memisahkan jiwa dan roh, sendi-sendi dan sumsum; ia menghakimi pikiran dan niat hati.
 
 ## Ibrani 4:13
 
@@ -61,7 +61,7 @@ Dan tidak ada sesuatu pun dalam seluruh ciptaan yang tersembunyi dari pandangan-
 
 ## Ibrani 4:14
 
-Karena itu, karena kita mempunyai Imam Besar yang agung, yang telah melintasi langit, yaitu Yesus Anak Allah, marilah kita berpegang teguh pada iman yang kita akui.
+Karena itu, karena kita mempunyai Imam Besar yang agung, yang telah melintasi langit, yaitu Yesus Anak Tuhan, marilah kita berpegang teguh pada iman yang kita akui.
 
 ## Ibrani 4:15
 

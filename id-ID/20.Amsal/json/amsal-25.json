@@ -1,174 +1,160 @@
 {
-    "book": "Amsal",
-    "chapter": 25,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Ini adalah amsal-amsal Salomo yang disalin oleh orang-orang Hizkia, raja Yehuda."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Kemuliaan Allah adalah menyembunyikan suatu perkara; kehormatan raja-raja adalah menyelidiki suatu perkara."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Seperti langit yang tinggi dan bumi yang dalam, demikianlah hati raja-raja yang tidak terselami."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Buanglah kotoran dari perak, maka keluarlah benda untuk pandai perak."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Buanglah orang fasik dari hadapan raja, maka tahtanya akan kokoh oleh kebenaran."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Jangan meninggikan diri di hadapan raja, dan jangan berdiri di tempat orang-orang besar."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Lebih baik dia berkata kepadamu, \"Naiklah ke sini,\" daripada engkau direndahkan di hadapan pangeran yang telah engkau lihat."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Jangan terburu-buru pergi ke pengadilan, karena apa yang akan engkau lakukan pada akhirnya jika tetanggamu mempermalukanmu?"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Berdebatlah dengan tetanggamu, dan jangan mengkhianati kepercayaan orang lain,"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "supaya orang yang mendengarnya tidak mempermalukanmu, dan reputasimu tidak hancur."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Perkataan yang diucapkan tepat pada waktunya adalah seperti apel emas dalam bingkai perak."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Seperti anting-anting emas atau perhiasan emas yang indah adalah teguran bijak bagi telinga yang mendengar."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Seperti kesejukan salju pada waktu panen adalah utusan yang setia bagi orang yang mengirimnya; ia menyegarkan jiwa tuannya."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Orang yang membanggakan pemberian yang tidak pernah diberikan adalah seperti awan dan angin tanpa hujan."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Dengan kesabaran, seorang penguasa dapat diyakinkan, dan lidah yang lembut dapat mematahkan tulang."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Jika engkau menemukan madu, makanlah secukupnya, agar engkau tidak kekenyangan dan muntah."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Jangan sering-sering berada di rumah tetanggamu, agar ia tidak bosan denganmu dan membencimu."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Seperti gada, pedang, atau anak panah tajam adalah orang yang memberikan kesaksian palsu terhadap tetangganya."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Seperti gigi yang buruk atau kaki yang pincang adalah mengandalkan orang yang tidak setia pada saat kesulitan."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Seperti orang yang mengambil pakaian pada hari yang dingin, atau cuka pada soda, adalah orang yang menyanyikan lagu kepada hati yang berat."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Jika musuhmu lapar, berilah dia makanan; jika ia haus, berilah dia air minum."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Dengan melakukan ini, engkau akan menumpuk bara api di atas kepalanya, dan Tuhan akan membalasmu."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Seperti angin utara membawa hujan, demikianlah lidah licik membawa wajah yang marah."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Lebih baik tinggal di sudut atap daripada berbagi rumah dengan wanita yang suka bertengkar."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Kabar baik dari negeri yang jauh adalah seperti air dingin bagi jiwa yang lelah."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Seperti mata air yang keruh atau sumur yang tercemar adalah orang benar yang menyerah di hadapan orang fasik."
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Tidak baik makan terlalu banyak madu, begitu pula tidak terhormat mencari kemuliaan sendiri."
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Seperti kota yang temboknya roboh adalah orang yang tidak memiliki pengendalian diri."
-            ]
-        }
-    ]
+  "book": "Amsal",
+  "chapter": 25,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Ini adalah amsal-amsal Salomo yang disalin oleh orang-orang Hizkia, raja Yehuda."]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Kemuliaan Tuhan adalah menyembunyikan suatu perkara; kehormatan raja-raja adalah menyelidiki suatu perkara."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Seperti langit yang tinggi dan bumi yang dalam, demikianlah hati raja-raja yang tidak terselami."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Buanglah kotoran dari perak, maka keluarlah benda untuk pandai perak."]
+    },
+    {
+      "verse": 5,
+      "text": ["Buanglah orang fasik dari hadapan raja, maka tahtanya akan kokoh oleh kebenaran."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Jangan meninggikan diri di hadapan raja, dan jangan berdiri di tempat orang-orang besar."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Lebih baik dia berkata kepadamu, \"Naiklah ke sini,\" daripada engkau direndahkan di hadapan pangeran yang telah engkau lihat."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Jangan terburu-buru pergi ke pengadilan, karena apa yang akan engkau lakukan pada akhirnya jika tetanggamu mempermalukanmu?"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": ["Berdebatlah dengan tetanggamu, dan jangan mengkhianati kepercayaan orang lain,"]
+    },
+    {
+      "verse": 10,
+      "text": ["supaya orang yang mendengarnya tidak mempermalukanmu, dan reputasimu tidak hancur."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Perkataan yang diucapkan tepat pada waktunya adalah seperti apel emas dalam bingkai perak."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Seperti anting-anting emas atau perhiasan emas yang indah adalah teguran bijak bagi telinga yang mendengar."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Seperti kesejukan salju pada waktu panen adalah utusan yang setia bagi orang yang mengirimnya; ia menyegarkan jiwa tuannya."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Orang yang membanggakan pemberian yang tidak pernah diberikan adalah seperti awan dan angin tanpa hujan."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Dengan kesabaran, seorang penguasa dapat diyakinkan, dan lidah yang lembut dapat mematahkan tulang."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Jika engkau menemukan madu, makanlah secukupnya, agar engkau tidak kekenyangan dan muntah."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Jangan sering-sering berada di rumah tetanggamu, agar ia tidak bosan denganmu dan membencimu."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Seperti gada, pedang, atau anak panah tajam adalah orang yang memberikan kesaksian palsu terhadap tetangganya."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Seperti gigi yang buruk atau kaki yang pincang adalah mengandalkan orang yang tidak setia pada saat kesulitan."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Seperti orang yang mengambil pakaian pada hari yang dingin, atau cuka pada soda, adalah orang yang menyanyikan lagu kepada hati yang berat."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": ["Jika musuhmu lapar, berilah dia makanan; jika ia haus, berilah dia air minum."]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Dengan melakukan ini, engkau akan menumpuk bara api di atas kepalanya, dan Tuhan akan membalasmu."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Seperti angin utara membawa hujan, demikianlah lidah licik membawa wajah yang marah."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Lebih baik tinggal di sudut atap daripada berbagi rumah dengan wanita yang suka bertengkar."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": ["Kabar baik dari negeri yang jauh adalah seperti air dingin bagi jiwa yang lelah."]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Seperti mata air yang keruh atau sumur yang tercemar adalah orang benar yang menyerah di hadapan orang fasik."
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Tidak baik makan terlalu banyak madu, begitu pula tidak terhormat mencari kemuliaan sendiri."
+      ]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Seperti kota yang temboknya roboh adalah orang yang tidak memiliki pengendalian diri."
+      ]
+    }
+  ]
 }

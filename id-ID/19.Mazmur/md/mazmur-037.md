@@ -193,7 +193,7 @@
 
 ## Mazmur 37:31
 
-> Hukum Allah mereka ada di dalam hati mereka;  
+> Hukum Tuhan mereka ada di dalam hati mereka;  
 > Langkah mereka tidak goyah.
 
 ---

@@ -1,338 +1,294 @@
 {
-    "book": "Ayub",
-    "chapter": 38,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Kemudian Tuhan berbicara kepada Ayub dari angin badai dan berkata:"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> “Siapakah ini yang menggelapkan nasihatku",
-                "> dengan kata-kata tanpa pengetahuan?"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Bersiaplah seperti seorang laki-laki;",
-                "> Aku akan menanyaimu, dan engkau harus memberitahuku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Di manakah engkau ketika Aku meletakkan dasar bumi?",
-                "> Nyatakanlah, jika engkau memiliki pengertian."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Siapakah yang menentukan ukurannya? Tentunya engkau tahu!",
-                "> Atau siapakah yang merentangkan tali pengukur di atasnya?"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Di atas apakah alasnya diletakkan,",
-                "> atau siapakah yang meletakkan batu penjuru—"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> ketika bintang-bintang pagi bernyanyi bersama",
-                "> dan semua anak Allah bersorak-sorai?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> “Siapakah yang menutup laut dengan pintu",
-                "> ketika ia meledak keluar dari rahim,"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> ketika Aku mengenakannya dengan awan",
-                "> dan membungkusnya dalam kegelapan tebal,"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> ketika Aku menetapkan batas-batas untuknya",
-                "> dan memasang palang dan pintu,"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> ketika Aku berkata, ‘Sampai di sini engkau boleh datang dan tidak lebih jauh;",
-                "> di sinilah gelombang-gelombangmu yang sombong harus berhenti’?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> “Pernahkah engkau memerintahkan pagi,",
-                "> atau menunjukkan tempatnya fajar,"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> agar ia dapat meraih tepi-tepi bumi",
-                "> dan mengguncang orang-orang fasik darinya?"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Bumi mengambil bentuk seperti tanah liat di bawah segel;",
-                "> ciri-cirinya menonjol seperti pakaian."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Cahaya ditahan dari orang-orang fasik,",
-                "> dan lengan yang terangkat dipatahkan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> “Pernahkah engkau menjelajahi mata air laut",
-                "> atau berjalan di kedalaman samudra?"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Pernahkah rahasia kematian ditunjukkan kepadamu?",
-                "> Pernahkah engkau melihat pintu-pintu gerbang alam bayangan?"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Pernahkah engkau memahami bentangan luas bumi?",
-                "> Nyatakanlah, jika engkau tahu semua ini."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> Di manakah jalan menuju tempat tinggal cahaya?",
-                "> Dan di manakah kegelapan berdiam,"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> agar engkau dapat membawanya ke wilayahnya,",
-                "> dan mengenali jalan ke tempat tinggalnya?"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Tentunya engkau harus tahu, karena engkau dilahirkan pada saat itu,",
-                "> dan hari-harimu banyak!"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> “Pernahkah engkau memasuki perbendaharaan salju",
-                "> atau melihat cadangan hujan es,"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> yang telah Aku simpan untuk masa kesusahan,",
-                "> untuk hari-hari perang dan pertempuran?"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "> Apakah jalan menuju tempat di mana cahaya dibagi,",
-                "> atau angin timur tersebar di atas bumi?"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "> Siapakah yang mengukir saluran untuk aliran hujan,",
-                "> dan jalan untuk petir,"
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "> untuk mengairi tanah yang tidak berpenghuni,",
-                "> padang gurun yang tandus,"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "> untuk memuaskan tanah tandus",
-                "> dan menyebabkan rumput bertunas?"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "> Apakah hujan memiliki sumber?",
-                "> Siapakah orang tua dari tetesan embun?"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "> Dari rahim siapakah es berasal?",
-                "> Siapakah yang melahirkan embun beku dari langit"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "> ketika air mengeras seperti batu,",
-                "> ketika permukaan laut dalam membeku?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "> “Dapatkah engkau mengikat rantai bintang Kartika,",
-                "> atau melepaskan tali bintang Belantik?"
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "> Dapatkah engkau membawa keluar rasi bintang pada",
-                "> musimnya, atau memimpin bintang Biduk dengan anak-anaknya?"
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "> Apakah engkau mengenal hukum-hukum langit?",
-                "> Dapatkah engkau menetapkan aturannya di atas bumi?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "> “Dapatkah engkau memanggil awan-awan",
-                "> dan menutupi dirimu dengan curahan air?"
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "> Apakah engkau mengirimkan kilat pada jalannya?",
-                "> Apakah mereka menghadapkan diri padamu, berkata, ‘Ini kami’?"
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "> Siapakah yang menempatkan hikmat di dalam hati,",
-                "> atau memberikan pengertian kepada pikiran?"
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "> Siapakah yang dapat menghitung awan dengan hikmat,",
-                "> atau menumpahkan tempayan air dari langit"
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "> ketika debu menjadi padat",
-                "> dan gumpalan tanah melekat bersama?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "> “Dapatkah engkau memburu mangsa untuk singa betina",
-                "> dan memuaskan rasa lapar anak-anak singa"
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "> ketika mereka berjongkok di sarangnya",
-                "> atau berbaring menunggu di tempat persembunyian mereka?"
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "> Siapakah yang menyediakan makanan bagi burung gagak",
-                "> ketika anak-anaknya berseru kepada Allah",
-                "> dan berkeliaran tanpa makanan?"
-            ]
-        }
-    ]
+  "book": "Ayub",
+  "chapter": 38,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Kemudian Tuhan berbicara kepada Ayub dari angin badai dan berkata:"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> “Siapakah ini yang menggelapkan nasihatku",
+        "> dengan kata-kata tanpa pengetahuan?"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Bersiaplah seperti seorang laki-laki;",
+        "> Aku akan menanyaimu, dan engkau harus memberitahuku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Di manakah engkau ketika Aku meletakkan dasar bumi?",
+        "> Nyatakanlah, jika engkau memiliki pengertian."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Siapakah yang menentukan ukurannya? Tentunya engkau tahu!",
+        "> Atau siapakah yang merentangkan tali pengukur di atasnya?"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Di atas apakah alasnya diletakkan,",
+        "> atau siapakah yang meletakkan batu penjuru—"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> ketika bintang-bintang pagi bernyanyi bersama",
+        "> dan semua anak Tuhan bersorak-sorai?"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> “Siapakah yang menutup laut dengan pintu",
+        "> ketika ia meledak keluar dari rahim,"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> ketika Aku mengenakannya dengan awan",
+        "> dan membungkusnya dalam kegelapan tebal,"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": ["> ketika Aku menetapkan batas-batas untuknya", "> dan memasang palang dan pintu,"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> ketika Aku berkata, ‘Sampai di sini engkau boleh datang dan tidak lebih jauh;",
+        "> di sinilah gelombang-gelombangmu yang sombong harus berhenti’?"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": ["> “Pernahkah engkau memerintahkan pagi,", "> atau menunjukkan tempatnya fajar,"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> agar ia dapat meraih tepi-tepi bumi",
+        "> dan mengguncang orang-orang fasik darinya?"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Bumi mengambil bentuk seperti tanah liat di bawah segel;",
+        "> ciri-cirinya menonjol seperti pakaian."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Cahaya ditahan dari orang-orang fasik,",
+        "> dan lengan yang terangkat dipatahkan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> “Pernahkah engkau menjelajahi mata air laut",
+        "> atau berjalan di kedalaman samudra?"
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Pernahkah rahasia kematian ditunjukkan kepadamu?",
+        "> Pernahkah engkau melihat pintu-pintu gerbang alam bayangan?"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Pernahkah engkau memahami bentangan luas bumi?",
+        "> Nyatakanlah, jika engkau tahu semua ini."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> Di manakah jalan menuju tempat tinggal cahaya?",
+        "> Dan di manakah kegelapan berdiam,"
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> agar engkau dapat membawanya ke wilayahnya,",
+        "> dan mengenali jalan ke tempat tinggalnya?"
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "> Tentunya engkau harus tahu, karena engkau dilahirkan pada saat itu,",
+        "> dan hari-harimu banyak!"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "> “Pernahkah engkau memasuki perbendaharaan salju",
+        "> atau melihat cadangan hujan es,"
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> yang telah Aku simpan untuk masa kesusahan,",
+        "> untuk hari-hari perang dan pertempuran?"
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "> Apakah jalan menuju tempat di mana cahaya dibagi,",
+        "> atau angin timur tersebar di atas bumi?"
+      ]
+    },
+    {
+      "verse": 25,
+      "text": ["> Siapakah yang mengukir saluran untuk aliran hujan,", "> dan jalan untuk petir,"]
+    },
+    {
+      "verse": 26,
+      "text": ["> untuk mengairi tanah yang tidak berpenghuni,", "> padang gurun yang tandus,"]
+    },
+    {
+      "verse": 27,
+      "text": ["> untuk memuaskan tanah tandus", "> dan menyebabkan rumput bertunas?"]
+    },
+    {
+      "verse": 28,
+      "text": ["> Apakah hujan memiliki sumber?", "> Siapakah orang tua dari tetesan embun?"]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "> Dari rahim siapakah es berasal?",
+        "> Siapakah yang melahirkan embun beku dari langit"
+      ]
+    },
+    {
+      "verse": 30,
+      "text": ["> ketika air mengeras seperti batu,", "> ketika permukaan laut dalam membeku?"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "> “Dapatkah engkau mengikat rantai bintang Kartika,",
+        "> atau melepaskan tali bintang Belantik?"
+      ]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "> Dapatkah engkau membawa keluar rasi bintang pada",
+        "> musimnya, atau memimpin bintang Biduk dengan anak-anaknya?"
+      ]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "> Apakah engkau mengenal hukum-hukum langit?",
+        "> Dapatkah engkau menetapkan aturannya di atas bumi?"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "> “Dapatkah engkau memanggil awan-awan",
+        "> dan menutupi dirimu dengan curahan air?"
+      ]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "> Apakah engkau mengirimkan kilat pada jalannya?",
+        "> Apakah mereka menghadapkan diri padamu, berkata, ‘Ini kami’?"
+      ]
+    },
+    {
+      "verse": 36,
+      "text": [
+        "> Siapakah yang menempatkan hikmat di dalam hati,",
+        "> atau memberikan pengertian kepada pikiran?"
+      ]
+    },
+    {
+      "verse": 37,
+      "text": [
+        "> Siapakah yang dapat menghitung awan dengan hikmat,",
+        "> atau menumpahkan tempayan air dari langit"
+      ]
+    },
+    {
+      "verse": 38,
+      "text": ["> ketika debu menjadi padat", "> dan gumpalan tanah melekat bersama?"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "> “Dapatkah engkau memburu mangsa untuk singa betina",
+        "> dan memuaskan rasa lapar anak-anak singa"
+      ]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "> ketika mereka berjongkok di sarangnya",
+        "> atau berbaring menunggu di tempat persembunyian mereka?"
+      ]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "> Siapakah yang menyediakan makanan bagi burung gagak",
+        "> ketika anak-anaknya berseru kepada Tuhan",
+        "> dan berkeliaran tanpa makanan?"
+      ]
+    }
+  ]
 }

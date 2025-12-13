@@ -2,7 +2,7 @@
 
 ## Yohanes 14:1
 
-"Janganlah gelisah hatimu; percayalah kepada Allah, percayalah juga kepada-Ku.
+"Janganlah gelisah hatimu; percayalah kepada Tuhan, percayalah juga kepada-Ku.
 
 ## Yohanes 14:2
 

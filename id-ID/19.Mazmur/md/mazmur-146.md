@@ -9,7 +9,7 @@
 ## Mazmur 146:2
 
 > Aku akan memuji Tuhan selama aku hidup;  
-> Aku akan bernyanyi bagi Allahku selama aku ada.
+> Aku akan bernyanyi bagi Tuhanku selama aku ada.
 
 ## Mazmur 146:3
 
@@ -23,8 +23,8 @@
 
 ## Mazmur 146:5
 
-> Berbahagialah dia yang mendapat pertolongan dari Allah Yakub,  
-> Yang harapannya ada pada Tuhan, Allahnya,
+> Berbahagialah dia yang mendapat pertolongan dari Tuhan Yakub,  
+> Yang harapannya ada pada Tuhan, Tuhannya,
 
 ---
 
@@ -57,5 +57,5 @@
 ## Mazmur 146:10
 
 > Tuhan akan memerintah untuk selama-lamanya,  
-> Allahmu, Sion, turun-temurun.  
+> Tuhanmu, Sion, turun-temurun.  
 > Hormatilah Tuhan!

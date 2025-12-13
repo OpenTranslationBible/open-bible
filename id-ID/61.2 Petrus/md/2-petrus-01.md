@@ -3,11 +3,11 @@
 ## 2 Petrus 1:1
 
 Simon Petrus, seorang hamba dan rasul Yesus Kristus,  
-Kepada mereka yang telah menerima iman yang sama seperti kami, oleh kebenaran Allah dan Juruselamat kita, Yesus Kristus:
+Kepada mereka yang telah menerima iman yang sama seperti kami, oleh kebenaran Tuhan dan Juruselamat kita, Yesus Kristus:
 
 ## 2 Petrus 1:2
 
-Semoga kasih karunia dan damai sejahtera melimpah kepadamu melalui pengetahuan tentang Allah dan Yesus, Tuhan kita,
+Semoga kasih karunia dan damai sejahtera melimpah kepadamu melalui pengetahuan tentang Tuhan dan Yesus, Tuhan kita,
 
 ## 2 Petrus 1:3
 
@@ -67,7 +67,7 @@ Karena kami tidak mengikuti cerita-cerita yang dirancang dengan cerdik ketika ka
 
 ## 2 Petrus 1:17
 
-Karena ketika Ia menerima kehormatan dan kemuliaan dari Allah Bapa, pernyataan seperti ini diberikan kepada-Nya oleh Kemuliaan Yang Agung: “Inilah Anak-Ku yang terkasih, kepada-Nyalah Aku berkenan”—
+Karena ketika Ia menerima kehormatan dan kemuliaan dari Tuhan Bapa, pernyataan seperti ini diberikan kepada-Nya oleh Kemuliaan Yang Agung: “Inilah Anak-Ku yang terkasih, kepada-Nyalah Aku berkenan”—
 
 ## 2 Petrus 1:18
 
@@ -83,4 +83,4 @@ Tetapi ketahuilah ini pertama-tama, bahwa tidak ada nubuat dalam Kitab Suci yang
 
 ## 2 Petrus 1:21
 
-karena tidak ada nubuat yang pernah dibuat oleh kehendak manusia, tetapi orang-orang yang digerakkan oleh Roh Kudus berbicara dari Allah.
+karena tidak ada nubuat yang pernah dibuat oleh kehendak manusia, tetapi orang-orang yang digerakkan oleh Roh Kudus berbicara dari Tuhan.

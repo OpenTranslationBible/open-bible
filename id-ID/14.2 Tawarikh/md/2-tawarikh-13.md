@@ -29,7 +29,7 @@ Abia berdiri di Gunung Zemaraim, yang terletak di daerah perbukitan Efraim, dan 
 
 ## 2 Tawarikh 13:5
 
-Tidakkah kamu menyadari bahwa Tuhan, Allah Israel, telah memberikan kerajaan atas Israel kepada Daud dan keturunannya untuk selama-lamanya melalui perjanjian yang mengikat?
+Tidakkah kamu menyadari bahwa Tuhan, Tuhan Israel, telah memberikan kerajaan atas Israel kepada Daud dan keturunannya untuk selama-lamanya melalui perjanjian yang mengikat?
 
 ---
 
@@ -49,7 +49,7 @@ ketika ia masih muda dan ragu-ragu dan tidak dapat melawan mereka.
 ## 2 Tawarikh 13:8
 
 Jadi sekarang kamu bermaksud menegaskan diri melawan kerajaan Tuhan melalui anak-anak Daud,  
-menjadi banyak dan memiliki anak lembu emas yang Yerobeam buat sebagai allah untukmu.
+menjadi banyak dan memiliki anak lembu emas yang Yerobeam buat sebagai Tuhan untukmu.
 
 ---
 
@@ -58,13 +58,13 @@ menjadi banyak dan memiliki anak lembu emas yang Yerobeam buat sebagai allah unt
 Bukankah kamu telah mengusir para imam Tuhan, anak-anak Harun dan orang Lewi,  
 dan membuat imam-imam untuk dirimu sendiri seperti bangsa-bangsa di negeri-negeri itu?  
 Siapa pun yang datang untuk menguduskan dirinya dengan seekor lembu jantan dan tujuh domba jantan,  
-bahkan dia dapat menjadi imam dari apa yang bukan allah.
+bahkan dia dapat menjadi imam dari apa yang bukan Tuhan.
 
 ---
 
 ## 2 Tawarikh 13:10
 
-Tetapi bagi kami, Tuhan adalah Allah kami, dan kami tidak meninggalkan-Nya.  
+Tetapi bagi kami, Tuhan adalah Tuhan kami, dan kami tidak meninggalkan-Nya.  
 Anak-anak Harun melayani Tuhan sebagai imam, dan orang Lewi ada dalam pekerjaan mereka.
 
 ---
@@ -74,14 +74,14 @@ Anak-anak Harun melayani Tuhan sebagai imam, dan orang Lewi ada dalam pekerjaan 
 Setiap pagi dan malam mereka membakar korban bakaran dan dupa harum kepada Tuhan,  
 dan roti sajian diletakkan di atas meja yang murni,  
 dan kaki dian emas dengan lampu-lampunya siap untuk dinyalakan setiap malam;  
-karena kami menjaga tanggung jawab yang diberikan oleh Tuhan Allah kami, tetapi kamu telah meninggalkan-Nya.
+karena kami menjaga tanggung jawab yang diberikan oleh Tuhan Tuhan kami, tetapi kamu telah meninggalkan-Nya.
 
 ---
 
 ## 2 Tawarikh 13:12
 
-Sekarang lihatlah, Allah ada bersama kami sebagai pemimpin kami, dan imam-imam-Nya dengan trompet sinyal untuk membunyikan alarm melawanmu.  
-Anak-anak Israel, janganlah berperang melawan Tuhan, Allah nenek moyangmu, karena kamu tidak akan berhasil."
+Sekarang lihatlah, Tuhan ada bersama kami sebagai pemimpin kami, dan imam-imam-Nya dengan trompet sinyal untuk membunyikan alarm melawanmu.  
+Anak-anak Israel, janganlah berperang melawan Tuhan, Tuhan nenek moyangmu, karena kamu tidak akan berhasil."
 
 ---
 
@@ -102,13 +102,13 @@ jadi mereka berseru kepada Tuhan, dan para imam meniup trompet.
 ## 2 Tawarikh 13:15
 
 Kemudian orang-orang Yehuda mengangkat seruan perang,  
-dan ketika mereka melakukannya, Allah mengalahkan Yerobeam dan seluruh Israel di depan Abia dan Yehuda.
+dan ketika mereka melakukannya, Tuhan mengalahkan Yerobeam dan seluruh Israel di depan Abia dan Yehuda.
 
 ---
 
 ## 2 Tawarikh 13:16
 
-Jadi anak-anak Israel melarikan diri di depan Yehuda, dan Allah menyerahkan mereka kepada mereka.
+Jadi anak-anak Israel melarikan diri di depan Yehuda, dan Tuhan menyerahkan mereka kepada mereka.
 
 ---
 
@@ -122,7 +122,7 @@ sehingga lima ratus ribu orang pilihan Israel jatuh.
 ## 2 Tawarikh 13:18
 
 Jadi anak-anak Israel ditundukkan pada waktu itu,  
-dan anak-anak Yehuda menang karena mereka percaya kepada Tuhan, Allah nenek moyang mereka.
+dan anak-anak Yehuda menang karena mereka percaya kepada Tuhan, Tuhan nenek moyang mereka.
 
 ---
 

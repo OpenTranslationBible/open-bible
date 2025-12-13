@@ -56,15 +56,15 @@ Mereka juga tidak dapat membuktikan kepadamu tuduhan yang sekarang mereka buat t
 
 ## Kisah Para Rasul 24:14
 
-Namun, saya mengakui bahwa saya menyembah Allah nenek moyang kita sesuai dengan Jalan, yang mereka sebut sekte. Saya percaya segala sesuatu yang sesuai dengan Hukum dan tertulis dalam Kitab Para Nabi,
+Namun, saya mengakui bahwa saya menyembah Tuhan nenek moyang kita sesuai dengan Jalan, yang mereka sebut sekte. Saya percaya segala sesuatu yang sesuai dengan Hukum dan tertulis dalam Kitab Para Nabi,
 
 ## Kisah Para Rasul 24:15
 
-dan saya berbagi harapan kepada Allah bahwa akan ada kebangkitan baik orang benar maupun orang jahat.
+dan saya berbagi harapan kepada Tuhan bahwa akan ada kebangkitan baik orang benar maupun orang jahat.
 
 ## Kisah Para Rasul 24:16
 
-Dalam pandangan ini, saya selalu berusaha menjaga hati nurani yang bersih di hadapan Allah dan manusia.
+Dalam pandangan ini, saya selalu berusaha menjaga hati nurani yang bersih di hadapan Tuhan dan manusia.
 
 ---
 

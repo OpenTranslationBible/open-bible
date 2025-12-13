@@ -37,7 +37,7 @@
 ## Mazmur 49:7
 
 > Tidak ada seorang pun yang dapat menebus sesamanya,  
-> Atau memberikan tebusan kepada Allah untuknya—
+> Atau memberikan tebusan kepada Tuhan untuknya—
 
 ## Mazmur 49:8
 
@@ -87,7 +87,7 @@
 
 ## Mazmur 49:15
 
-> Tetapi Allah akan menebus jiwaku dari cengkeraman Sheol,  
+> Tetapi Tuhan akan menebus jiwaku dari cengkeraman Sheol,  
 > Karena Dia akan mengambil aku kepada-Nya.
 
 > Sela

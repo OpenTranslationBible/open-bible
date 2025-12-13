@@ -34,7 +34,7 @@ Kemudian Tuhan berbicara kepada Ayub dari angin badai dan berkata:
 ## Ayub 38:7
 
 > ketika bintang-bintang pagi bernyanyi bersama
-> dan semua anak Allah bersorak-sorai?
+> dan semua anak Tuhan bersorak-sorai?
 
 ---
 
@@ -220,5 +220,5 @@ Kemudian Tuhan berbicara kepada Ayub dari angin badai dan berkata:
 ## Ayub 38:41
 
 > Siapakah yang menyediakan makanan bagi burung gagak
-> ketika anak-anaknya berseru kepada Allah
+> ketika anak-anaknya berseru kepada Tuhan
 > dan berkeliaran tanpa makanan?

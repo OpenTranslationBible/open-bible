@@ -50,7 +50,7 @@ Itulah sebabnya orang Israel tidak dapat bertahan melawan musuh-musuh mereka; me
 
 ## Yosua 7:13
 
-“Pergilah, kuduskanlah bangsa itu. Katakan kepada mereka, ‘Kuduskanlah dirimu untuk besok, karena inilah yang dikatakan Tuhan, Allah Israel: Ada barang-barang yang dikhususkan untuk dimusnahkan di antara kalian, Israel. Kalian tidak dapat bertahan melawan musuh-musuh kalian sampai kalian menghilangkannya.
+“Pergilah, kuduskanlah bangsa itu. Katakan kepada mereka, ‘Kuduskanlah dirimu untuk besok, karena inilah yang dikatakan Tuhan, Tuhan Israel: Ada barang-barang yang dikhususkan untuk dimusnahkan di antara kalian, Israel. Kalian tidak dapat bertahan melawan musuh-musuh kalian sampai kalian menghilangkannya.
 
 ## Yosua 7:14
 
@@ -74,11 +74,11 @@ Yosua menyuruh keluarganya maju orang demi orang, dan Akhan, anak Karmi, anak Za
 
 ## Yosua 7:19
 
-Kemudian Yosua berkata kepada Akhan, “Anakku, berilah pujian kepada Tuhan, Allah Israel, dan hormatilah Dia. Katakan padaku apa yang telah kau lakukan; jangan sembunyikan dariku.”
+Kemudian Yosua berkata kepada Akhan, “Anakku, berilah pujian kepada Tuhan, Tuhan Israel, dan hormatilah Dia. Katakan padaku apa yang telah kau lakukan; jangan sembunyikan dariku.”
 
 ## Yosua 7:20
 
-Akhan menjawab, “Memang, saya telah berdosa terhadap Tuhan, Allah Israel. Inilah yang saya lakukan:
+Akhan menjawab, “Memang, saya telah berdosa terhadap Tuhan, Tuhan Israel. Inilah yang saya lakukan:
 
 ## Yosua 7:21
 

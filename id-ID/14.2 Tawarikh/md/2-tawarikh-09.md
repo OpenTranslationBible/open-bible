@@ -44,7 +44,7 @@ Betapa beruntungnya orang-orangmu, betapa beruntungnya para pelayanmu ini yang b
 
 ## 2 Tawarikh 9:8
 
-Diberkatilah Tuhan, Allahmu, yang berkenan kepadamu, untuk menempatkanmu di atas takhta-Nya sebagai raja untuk Tuhan, Allahmu; karena Allahmu mengasihi Israel, untuk menegakkan mereka selama-lamanya, Ia menjadikan engkau raja atas mereka, untuk melaksanakan keadilan dan kebenaran."
+Diberkatilah Tuhan, Tuhanmu, yang berkenan kepadamu, untuk menempatkanmu di atas takhta-Nya sebagai raja untuk Tuhan, Tuhanmu; karena Tuhanmu mengasihi Israel, untuk menegakkan mereka selama-lamanya, Ia menjadikan engkau raja atas mereka, untuk melaksanakan keadilan dan kebenaran."
 
 ---
 
@@ -134,7 +134,7 @@ Demikianlah Raja Salomo melampaui semua raja di bumi dalam kekayaan dan kebijaks
 
 ## 2 Tawarikh 9:23
 
-Dan semua raja di bumi mencari kehadiran Salomo, untuk mendengar kebijaksanaan yang telah ditempatkan Allah dalam hatinya.
+Dan semua raja di bumi mencari kehadiran Salomo, untuk mendengar kebijaksanaan yang telah ditempatkan Tuhan dalam hatinya.
 
 ---
 

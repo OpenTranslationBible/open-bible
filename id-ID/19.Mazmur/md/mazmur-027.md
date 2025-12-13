@@ -64,7 +64,7 @@
 > Jangan tolak hamba-Mu dalam amarah;  
 > Engkau telah menjadi penolongku;  
 > Jangan tinggalkan aku atau meninggalkanku,  
-> Allah keselamatanku!
+> Tuhan keselamatanku!
 
 ## Mazmur 27:10
 

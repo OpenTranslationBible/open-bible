@@ -10,7 +10,7 @@ Aku akan berjalan di depanmu dan meratakan tempat-tempat yang kasar; Aku akan me
 
 ## Yesaya 45:3
 
-Aku akan memberikan kepadamu harta yang tersembunyi dalam kegelapan dan kekayaan yang tersimpan di tempat-tempat rahasia, supaya engkau tahu bahwa Akulah Tuhan, Allah Israel, yang memanggilmu dengan namamu.
+Aku akan memberikan kepadamu harta yang tersembunyi dalam kegelapan dan kekayaan yang tersimpan di tempat-tempat rahasia, supaya engkau tahu bahwa Akulah Tuhan, Tuhan Israel, yang memanggilmu dengan namamu.
 
 ## Yesaya 45:4
 
@@ -18,7 +18,7 @@ Demi Yakub, hamba-Ku, dan Israel, orang pilihan-Ku, Aku telah memanggilmu dengan
 
 ## Yesaya 45:5
 
-Akulah Tuhan, dan tidak ada yang lain; selain Aku tidak ada Allah. Aku akan menguatkan engkau, meskipun engkau tidak mengenal Aku,
+Akulah Tuhan, dan tidak ada yang lain; selain Aku tidak ada Tuhan. Aku akan menguatkan engkau, meskipun engkau tidak mengenal Aku,
 
 ## Yesaya 45:6
 
@@ -54,11 +54,11 @@ Aku telah membangkitkannya dalam kebenaran, dan Aku akan membuat semua jalannya 
 
 ## Yesaya 45:14
 
-Beginilah firman Tuhan: Produk-produk Mesir, barang dagangan Kush, dan orang-orang Saba yang tinggi akan datang kepadamu dan menjadi milikmu; mereka akan berjalan di belakangmu dengan rantai. Mereka akan sujud di hadapanmu dan memohon kepadamu, mengatakan, 'Sesungguhnya Allah ada bersamamu, dan tidak ada yang lain; tidak ada allah lain.'
+Beginilah firman Tuhan: Produk-produk Mesir, barang dagangan Kush, dan orang-orang Saba yang tinggi akan datang kepadamu dan menjadi milikmu; mereka akan berjalan di belakangmu dengan rantai. Mereka akan sujud di hadapanmu dan memohon kepadamu, mengatakan, 'Sesungguhnya Tuhan ada bersamamu, dan tidak ada yang lain; tidak ada Tuhan lain.'
 
 ## Yesaya 45:15
 
-Sesungguhnya, Engkau adalah Allah yang menyembunyikan diri, Allah dan Juruselamat Israel.
+Sesungguhnya, Engkau adalah Tuhan yang menyembunyikan diri, Tuhan dan Juruselamat Israel.
 
 ## Yesaya 45:16
 
@@ -70,7 +70,7 @@ Tetapi Israel akan diselamatkan oleh Tuhan dengan keselamatan yang kekal; engkau
 
 ## Yesaya 45:18
 
-Sebab beginilah firman Tuhan—Dia yang menciptakan langit, Dia adalah Allah; Dia yang membentuk dan membuat bumi, Dia menegakkannya; Dia tidak menciptakannya untuk kosong, tetapi membentuknya untuk dihuni—Dia berkata: Akulah Tuhan, dan tidak ada yang lain.
+Sebab beginilah firman Tuhan—Dia yang menciptakan langit, Dia adalah Tuhan; Dia yang membentuk dan membuat bumi, Dia menegakkannya; Dia tidak menciptakannya untuk kosong, tetapi membentuknya untuk dihuni—Dia berkata: Akulah Tuhan, dan tidak ada yang lain.
 
 ## Yesaya 45:19
 
@@ -78,15 +78,15 @@ Aku tidak berbicara secara rahasia, dari tempat tersembunyi di tanah kegelapan; 
 
 ## Yesaya 45:20
 
-Berkumpullah dan datanglah; berkumpullah, kamu pelarian dari bangsa-bangsa. Bodohlah mereka yang membawa berhala kayu dan berdoa kepada allah yang tidak dapat menyelamatkan.
+Berkumpullah dan datanglah; berkumpullah, kamu pelarian dari bangsa-bangsa. Bodohlah mereka yang membawa berhala kayu dan berdoa kepada Tuhan yang tidak dapat menyelamatkan.
 
 ## Yesaya 45:21
 
-Nyatakan dan ajukan kasusmu; biarlah mereka berunding bersama. Siapa yang telah meramalkan ini sejak lama, siapa yang menyatakannya dari masa lampau? Bukankah Aku, Tuhan? Dan tidak ada Allah selain Aku, Allah yang benar dan Juruselamat; tidak ada yang lain selain Aku.
+Nyatakan dan ajukan kasusmu; biarlah mereka berunding bersama. Siapa yang telah meramalkan ini sejak lama, siapa yang menyatakannya dari masa lampau? Bukankah Aku, Tuhan? Dan tidak ada Tuhan selain Aku, Tuhan yang benar dan Juruselamat; tidak ada yang lain selain Aku.
 
 ## Yesaya 45:22
 
-Pandanglah kepada-Ku untuk keselamatan, semua ujung bumi; sebab Akulah Allah, dan tidak ada yang lain.
+Pandanglah kepada-Ku untuk keselamatan, semua ujung bumi; sebab Akulah Tuhan, dan tidak ada yang lain.
 
 ## Yesaya 45:23
 

@@ -6,23 +6,23 @@ Kemudian semua panglima pasukan, termasuk Yohanan anak Kareah dan Yezanya anak H
 
 ## Yeremia 42:2
 
-dan berkata kepada nabi Yeremia, "Tolong biarlah permohonan kami didengar, dan berdoalah kepada Tuhan, Allahmu, untuk seluruh sisa ini. Seperti yang dapat kamu lihat, kami hanya tersisa sedikit dari banyak.
+dan berkata kepada nabi Yeremia, "Tolong biarlah permohonan kami didengar, dan berdoalah kepada Tuhan, Tuhanmu, untuk seluruh sisa ini. Seperti yang dapat kamu lihat, kami hanya tersisa sedikit dari banyak.
 
 ## Yeremia 42:3
 
-Berdoalah agar Tuhan, Allahmu, menunjukkan kepada kami jalan yang harus kami tempuh dan apa yang harus kami lakukan."
+Berdoalah agar Tuhan, Tuhanmu, menunjukkan kepada kami jalan yang harus kami tempuh dan apa yang harus kami lakukan."
 
 ## Yeremia 42:4
 
-Nabi Yeremia menjawab, "Aku telah mendengar kalian. Aku akan berdoa kepada Tuhan, Allahmu, seperti yang kalian minta, dan aku akan menyampaikan kepada kalian seluruh pesan yang diberikan Tuhan kepadaku, tanpa menahan apa pun."
+Nabi Yeremia menjawab, "Aku telah mendengar kalian. Aku akan berdoa kepada Tuhan, Tuhanmu, seperti yang kalian minta, dan aku akan menyampaikan kepada kalian seluruh pesan yang diberikan Tuhan kepadaku, tanpa menahan apa pun."
 
 ## Yeremia 42:5
 
-Kemudian mereka berkata kepada Yeremia, "Semoga Tuhan menjadi saksi yang benar dan setia terhadap kami jika kami tidak bertindak sesuai dengan setiap kata yang Tuhan, Allahmu, kirimkan kepadamu untuk kami.
+Kemudian mereka berkata kepada Yeremia, "Semoga Tuhan menjadi saksi yang benar dan setia terhadap kami jika kami tidak bertindak sesuai dengan setiap kata yang Tuhan, Tuhanmu, kirimkan kepadamu untuk kami.
 
 ## Yeremia 42:6
 
-Baik itu menguntungkan atau tidak menguntungkan, kami akan mendengarkan suara Tuhan, Allah kami, kepada siapa kami mengirimkanmu, agar kami beruntung ketika kami menaati suara Tuhan, Allah kami."
+Baik itu menguntungkan atau tidak menguntungkan, kami akan mendengarkan suara Tuhan, Tuhan kami, kepada siapa kami mengirimkanmu, agar kami beruntung ketika kami menaati suara Tuhan, Tuhan kami."
 
 ## Yeremia 42:7
 
@@ -34,7 +34,7 @@ Jadi dia memanggil Yohanan anak Kareah dan semua panglima pasukan yang bersamany
 
 ## Yeremia 42:9
 
-Dia berkata kepada mereka, "Inilah yang dikatakan Tuhan, Allah Israel, kepada siapa kalian mengirimku untuk menyampaikan permohonan kalian:
+Dia berkata kepada mereka, "Inilah yang dikatakan Tuhan, Tuhan Israel, kepada siapa kalian mengirimku untuk menyampaikan permohonan kalian:
 
 ## Yeremia 42:10
 
@@ -50,7 +50,7 @@ Aku akan menunjukkan belas kasihan kepada kalian sehingga dia akan berbelas kasi
 
 ## Yeremia 42:13
 
-Tetapi jika kalian berkata, 'Kami tidak akan tinggal di negeri ini,' dengan demikian tidak menaati suara Tuhan, Allah kalian,
+Tetapi jika kalian berkata, 'Kami tidak akan tinggal di negeri ini,' dengan demikian tidak menaati suara Tuhan, Tuhan kalian,
 
 ## Yeremia 42:14
 
@@ -58,7 +58,7 @@ dan jika kalian berkata, 'Tidak, kami akan pergi ke Mesir, di mana kami tidak ak
 
 ## Yeremia 42:15
 
-maka dengarkanlah firman Tuhan, sisa Yehuda. Inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: 'Jika kalian bertekad untuk pergi ke Mesir dan menetap di sana,
+maka dengarkanlah firman Tuhan, sisa Yehuda. Inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: 'Jika kalian bertekad untuk pergi ke Mesir dan menetap di sana,
 
 ## Yeremia 42:16
 
@@ -70,7 +70,7 @@ Sesungguhnya, semua yang bertekad untuk pergi ke Mesir untuk tinggal di sana aka
 
 ## Yeremia 42:18
 
-Inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: 'Seperti amarah dan murka-Ku telah dicurahkan atas penduduk Yerusalem, demikianlah murka-Ku akan dicurahkan atas kalian ketika kalian memasuki Mesir. Kalian akan menjadi kutukan, objek kengerian, kutukan, dan aib; kalian tidak akan pernah melihat tempat ini lagi.'
+Inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: 'Seperti amarah dan murka-Ku telah dicurahkan atas penduduk Yerusalem, demikianlah murka-Ku akan dicurahkan atas kalian ketika kalian memasuki Mesir. Kalian akan menjadi kutukan, objek kengerian, kutukan, dan aib; kalian tidak akan pernah melihat tempat ini lagi.'
 
 ## Yeremia 42:19
 
@@ -78,11 +78,11 @@ Tuhan telah berbicara kepada kalian, sisa Yehuda, 'Jangan pergi ke Mesir!' Pasti
 
 ## Yeremia 42:20
 
-Kalian telah menipu diri sendiri, karena kalian mengirimku kepada Tuhan, Allah kalian, dengan berkata, 'Berdoalah untuk kami kepada Tuhan, Allah kami; katakan kepada kami semua yang dikatakan Tuhan, Allah kami, dan kami akan melakukannya.'
+Kalian telah menipu diri sendiri, karena kalian mengirimku kepada Tuhan, Tuhan kalian, dengan berkata, 'Berdoalah untuk kami kepada Tuhan, Tuhan kami; katakan kepada kami semua yang dikatakan Tuhan, Tuhan kami, dan kami akan melakukannya.'
 
 ## Yeremia 42:21
 
-Aku telah memberitahu kalian hari ini, tetapi kalian tidak menaati Tuhan, Allah kalian dalam semua yang Dia kirimkan kepadaku untuk memberitahu kalian.
+Aku telah memberitahu kalian hari ini, tetapi kalian tidak menaati Tuhan, Tuhan kalian dalam semua yang Dia kirimkan kepadaku untuk memberitahu kalian.
 
 ## Yeremia 42:22
 

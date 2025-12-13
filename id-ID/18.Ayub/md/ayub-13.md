@@ -13,7 +13,7 @@
 ## Ayub 13:3
 
 > Namun aku ingin berbicara kepada Yang Mahakuasa,  
-> Dan aku rindu untuk berdebat dengan Allah.
+> Dan aku rindu untuk berdebat dengan Tuhan.
 
 ## Ayub 13:4
 
@@ -32,13 +32,13 @@
 
 ## Ayub 13:7
 
-> Apakah kamu akan berbicara dengan tidak adil atas nama Allah,  
+> Apakah kamu akan berbicara dengan tidak adil atas nama Tuhan,  
 > Dan berbicara dengan tipu daya untuk-Nya?
 
 ## Ayub 13:8
 
 > Apakah kamu akan menunjukkan keberpihakan untuk-Nya?  
-> Apakah kamu akan berdebat untuk Allah?
+> Apakah kamu akan berdebat untuk Tuhan?
 
 ## Ayub 13:9
 

@@ -2,7 +2,7 @@
 
 ## 1 Raja-raja 13:1
 
-Maka lihatlah, seorang abdi Allah datang dari Yehuda ke Betel atas perintah Tuhan,  
+Maka lihatlah, seorang abdi Tuhan datang dari Yehuda ke Betel atas perintah Tuhan,  
 sementara Yerobeam berdiri di dekat mezbah untuk membakar ukupan.
 
 ## 1 Raja-raja 13:2
@@ -23,7 +23,7 @@ dan abu yang ada di atasnya akan tumpah.”
 
 ## 1 Raja-raja 13:4
 
-Ketika raja mendengar perkataan abdi Allah,  
+Ketika raja mendengar perkataan abdi Tuhan,  
 yang berseru melawan mezbah di Betel,  
 Yerobeam mengulurkan tangannya dari mezbah, dengan berkata,  
 “Tangkap dia!”  
@@ -34,24 +34,24 @@ sehingga ia tidak dapat menariknya kembali.
 
 Mezbah itu juga terbelah,  
 dan abu itu tumpah dari mezbah,  
-sesuai dengan tanda yang diberikan abdi Allah atas perintah Tuhan.
+sesuai dengan tanda yang diberikan abdi Tuhan atas perintah Tuhan.
 
 ## 1 Raja-raja 13:6
 
-Kemudian raja menjawab dan berkata kepada abdi Allah,  
-“Tolonglah Tuhan Allahmu, dan berdoalah untukku,  
+Kemudian raja menjawab dan berkata kepada abdi Tuhan,  
+“Tolonglah Tuhan Tuhanmu, dan berdoalah untukku,  
 supaya tanganku dapat dipulihkan kepadaku.”  
-Maka abdi Allah memohon kepada Tuhan,  
+Maka abdi Tuhan memohon kepada Tuhan,  
 dan tangan raja itu dipulihkan kepadanya, dan menjadi seperti semula.
 
 ## 1 Raja-raja 13:7
 
-Kemudian raja mengundang abdi Allah, dengan berkata,  
+Kemudian raja mengundang abdi Tuhan, dengan berkata,  
 “Marilah pulang bersamaku dan segarkan dirimu, dan aku akan memberikan hadiah kepadamu.”
 
 ## 1 Raja-raja 13:8
 
-Tetapi abdi Allah menjawab raja,  
+Tetapi abdi Tuhan menjawab raja,  
 “Sekalipun engkau memberikan kepadaku setengah dari milikmu,  
 aku tidak akan pergi bersamamu,  
 dan aku tidak akan makan roti atau minum air di tempat ini.
@@ -72,14 +72,14 @@ dan tidak kembali melalui jalan yang ia datang ke Betel.
 ## 1 Raja-raja 13:11
 
 Sekarang ada seorang nabi tua yang tinggal di Betel,  
-dan anak-anaknya datang dan memberitahukan kepadanya semua perbuatan yang dilakukan abdi Allah pada hari itu di Betel;  
+dan anak-anaknya datang dan memberitahukan kepadanya semua perbuatan yang dilakukan abdi Tuhan pada hari itu di Betel;  
 mereka juga memberitahukan kepada ayah mereka perkataan yang diucapkannya kepada raja.
 
 ## 1 Raja-raja 13:12
 
 Dan ayah mereka berkata kepada mereka,  
 “Ke arah mana dia pergi?”  
-Sekarang anak-anaknya telah melihat jalan yang ditempuh abdi Allah,  
+Sekarang anak-anaknya telah melihat jalan yang ditempuh abdi Tuhan,  
 yang datang dari Yehuda.
 
 ## 1 Raja-raja 13:13
@@ -90,10 +90,10 @@ Maka mereka memasangkan keledai itu untuknya, dan ia menaikinya.
 
 ## 1 Raja-raja 13:14
 
-Dan ia mengejar abdi Allah,  
+Dan ia mengejar abdi Tuhan,  
 dan menemukannya duduk di bawah pohon tarbantin.  
 Dan ia berkata kepadanya,  
-“Apakah engkau abdi Allah yang datang dari Yehuda?”  
+“Apakah engkau abdi Tuhan yang datang dari Yehuda?”  
 Dan ia menjawab, “Aku.”
 
 ## 1 Raja-raja 13:15
@@ -135,10 +135,10 @@ bahwa firman Tuhan datang kepada nabi yang membawanya kembali;
 
 ## 1 Raja-raja 13:21
 
-dan ia menyatakan kepada abdi Allah yang datang dari Yehuda, dengan berkata,  
+dan ia menyatakan kepada abdi Tuhan yang datang dari Yehuda, dengan berkata,  
 “Beginilah firman Tuhan:  
 ‘Karena engkau telah melanggar perintah Tuhan,  
-dan tidak mematuhi perintah yang diberikan Tuhan Allahmu kepadamu,
+dan tidak mematuhi perintah yang diberikan Tuhan Tuhanmu kepadamu,
 
 ## 1 Raja-raja 13:22
 
@@ -169,7 +169,7 @@ maka mereka datang dan memberitahukan tentang hal itu di kota tempat nabi tua it
 ## 1 Raja-raja 13:26
 
 Ketika nabi yang membawanya kembali dari jalan itu mendengar tentang hal itu,  
-ia berkata, “Itulah abdi Allah,  
+ia berkata, “Itulah abdi Tuhan,  
 yang melanggar perintah Tuhan;  
 oleh karena itu Tuhan telah menyerahkannya kepada singa,  
 dan singa itu telah merobek dan membunuhnya, sesuai dengan firman Tuhan yang diucapkan-Nya kepadanya.”
@@ -188,7 +188,7 @@ singa itu tidak memakan mayat itu atau menyerang keledai itu.
 
 ## 1 Raja-raja 13:29
 
-Maka nabi itu mengangkat mayat abdi Allah,  
+Maka nabi itu mengangkat mayat abdi Tuhan,  
 dan meletakkannya di atas keledai, dan membawanya kembali;  
 dan ia datang ke kota nabi tua itu, untuk meratap dan menguburkannya.
 
@@ -200,7 +200,7 @@ dan mereka meratapinya, dengan berkata, “Oh, saudaraku!”
 ## 1 Raja-raja 13:31
 
 Setelah ia menguburkannya, ia berkata kepada anak-anaknya,  
-“Ketika aku mati, kuburkanlah aku di kubur tempat abdi Allah dikuburkan;  
+“Ketika aku mati, kuburkanlah aku di kubur tempat abdi Tuhan dikuburkan;  
 letakkanlah tulang-tulangku di samping tulang-tulangnya.
 
 ## 1 Raja-raja 13:32

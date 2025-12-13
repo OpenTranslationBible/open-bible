@@ -4,8 +4,8 @@
 
 ## Mazmur 77:1
 
-> Suaraku naik kepada Allah, dan aku akan berseru dengan nyaring;  
-> Suaraku naik kepada Allah, dan Dia akan mendengarku.
+> Suaraku naik kepada Tuhan, dan aku akan berseru dengan nyaring;  
+> Suaraku naik kepada Tuhan, dan Dia akan mendengarku.
 
 ## Mazmur 77:2
 
@@ -17,7 +17,7 @@
 
 ## Mazmur 77:3
 
-> Ketika aku memikirkan Allah, aku menjadi gelisah;  
+> Ketika aku memikirkan Tuhan, aku menjadi gelisah;  
 > Ketika aku mendesah, rohku menjadi lemah.
 
 > Sela
@@ -52,7 +52,7 @@
 
 ## Mazmur 77:9
 
-> Apakah Allah lupa untuk berbelas kasihan,  
+> Apakah Tuhan lupa untuk berbelas kasihan,  
 > Atau apakah Dia dalam kemarahan menahan belas kasih-Nya?
 
 > Sela
@@ -78,12 +78,12 @@
 
 ## Mazmur 77:13
 
-> Jalan-Mu, ya Allah, adalah suci;  
-> Dewa mana yang besar seperti Allah kita?
+> Jalan-Mu, ya Tuhan, adalah suci;  
+> Dewa mana yang besar seperti Tuhan kita?
 
 ## Mazmur 77:14
 
-> Engkau adalah Allah yang melakukan keajaiban;  
+> Engkau adalah Tuhan yang melakukan keajaiban;  
 > Engkau telah menyatakan kekuatan-Mu di antara bangsa-bangsa.
 
 ## Mazmur 77:15
@@ -97,7 +97,7 @@
 
 ## Mazmur 77:16
 
-> Air melihat Engkau, ya Allah;  
+> Air melihat Engkau, ya Tuhan;  
 > Air melihat Engkau dan merasa cemas;  
 > Kedalaman samudra juga gemetar.
 

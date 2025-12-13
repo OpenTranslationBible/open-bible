@@ -4,7 +4,7 @@
 
 > Pujilah Tuhan!
 
-> Sungguh baik menyanyikan pujian bagi Allah kita;  
+> Sungguh baik menyanyikan pujian bagi Tuhan kita;  
 > Sungguh menyenangkan, dan pujian seperti itu indah.
 
 ---
@@ -39,7 +39,7 @@
 ## Mazmur 147:7
 
 > Persembahkanlah nyanyian kepada Tuhan dengan rasa syukur;  
-> Mainkan musik bagi Allah kita dengan kecapi,
+> Mainkan musik bagi Tuhan kita dengan kecapi,
 
 ---
 
@@ -71,7 +71,7 @@
 ## Mazmur 147:12
 
 > Pujilah Tuhan, Yerusalem!  
-> Muliakanlah Allahmu, Sion!
+> Muliakanlah Tuhanmu, Sion!
 
 ---
 

@@ -4,7 +4,7 @@
 
 ## Mazmur 55:1
 
-> Dengarkanlah doaku, ya Allah;  
+> Dengarkanlah doaku, ya Tuhan;  
 > Dan janganlah bersembunyi dari permohonanku.
 
 ## Mazmur 55:2
@@ -81,7 +81,7 @@
 ## Mazmur 55:14
 
 > Kita yang berbagi persekutuan manis bersama,  
-> Berjalan di rumah Allah di antara kerumunan.
+> Berjalan di rumah Tuhan di antara kerumunan.
 
 ---
 
@@ -95,7 +95,7 @@
 
 ## Mazmur 55:16
 
-> Tetapi aku akan berseru kepada Allah,  
+> Tetapi aku akan berseru kepada Tuhan,  
 > Dan Tuhan akan menyelamatkan aku.
 
 ## Mazmur 55:17
@@ -110,13 +110,13 @@
 
 ## Mazmur 55:19
 
-> Allah akan mendengar dan merendahkan mereka—  
+> Tuhan akan mendengar dan merendahkan mereka—  
 > Bahkan Dia yang duduk di atas takhta sejak zaman purbakala—
 
 > Sela
 
 > Karena mereka tidak berubah,  
-> Dan tidak takut kepada Allah.
+> Dan tidak takut kepada Tuhan.
 
 ---
 
@@ -141,6 +141,6 @@
 
 ## Mazmur 55:23
 
-> Tetapi Engkau, Allah, akan menurunkan mereka ke dalam lubang kebinasaan;  
+> Tetapi Engkau, Tuhan, akan menurunkan mereka ke dalam lubang kebinasaan;  
 > Orang-orang penumpah darah dan penipu tidak akan hidup setengah umur mereka.  
 > Tetapi aku akan menaruh kepercayaanku kepada-Mu.

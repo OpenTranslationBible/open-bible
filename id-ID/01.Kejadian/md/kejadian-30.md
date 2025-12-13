@@ -6,7 +6,7 @@ Ketika Rahel melihat bahwa dia tidak melahirkan anak untuk Yakub, dia menjadi ir
 
 ## Kejadian 30:2
 
-Yakub menjadi marah kepada Rahel dan berkata, "Apakah aku di tempat Allah, yang telah menahan dari kamu berkat anak?"
+Yakub menjadi marah kepada Rahel dan berkata, "Apakah aku di tempat Tuhan, yang telah menahan dari kamu berkat anak?"
 
 ## Kejadian 30:3
 
@@ -22,7 +22,7 @@ Bilha mengandung dan dia melahirkan seorang anak laki-laki untuk Yakub.
 
 ## Kejadian 30:6
 
-Rahel berkata, "Allah telah menghakimi aku, dan memang telah mendengar suaraku dan memberiku seorang anak laki-laki." Oleh karena itu dia menamainya Dan.
+Rahel berkata, "Tuhan telah menghakimi aku, dan memang telah mendengar suaraku dan memberiku seorang anak laki-laki." Oleh karena itu dia menamainya Dan.
 
 ## Kejadian 30:7
 
@@ -66,11 +66,11 @@ Ketika Yakub datang dari ladang pada malam hari, Lea pergi menemuinya dan berkat
 
 ## Kejadian 30:17
 
-Allah mendengarkan Lea, dan dia menjadi hamil dan melahirkan anak laki-laki kelima untuk Yakub.
+Tuhan mendengarkan Lea, dan dia menjadi hamil dan melahirkan anak laki-laki kelima untuk Yakub.
 
 ## Kejadian 30:18
 
-Lea berkata, "Allah telah memberikan upah kepadaku karena memberikan pembantuku kepada suamiku." Jadi dia menamainya Isakhar.
+Lea berkata, "Tuhan telah memberikan upah kepadaku karena memberikan pembantuku kepada suamiku." Jadi dia menamainya Isakhar.
 
 ## Kejadian 30:19
 
@@ -78,7 +78,7 @@ Lea sekali lagi mengandung dan melahirkan anak laki-laki keenam untuk Yakub.
 
 ## Kejadian 30:20
 
-Lea berkata, "Allah telah menganugerahkan aku dengan hadiah yang baik; sekarang suamiku akan menghormati aku, karena aku telah melahirkan enam anak laki-laki untuknya." Jadi dia menamainya Zebulon.
+Lea berkata, "Tuhan telah menganugerahkan aku dengan hadiah yang baik; sekarang suamiku akan menghormati aku, karena aku telah melahirkan enam anak laki-laki untuknya." Jadi dia menamainya Zebulon.
 
 ## Kejadian 30:21
 
@@ -86,11 +86,11 @@ Setelah itu dia memiliki seorang anak perempuan dan dia menamainya Dina.
 
 ## Kejadian 30:22
 
-Allah memperhatikan Rahel, dan Allah mendengarkannya dan mengizinkannya untuk mengandung.
+Tuhan memperhatikan Rahel, dan Tuhan mendengarkannya dan mengizinkannya untuk mengandung.
 
 ## Kejadian 30:23
 
-Dia mengandung dan melahirkan seorang anak laki-laki, dan berkata, "Allah telah menghapuskan aibku."
+Dia mengandung dan melahirkan seorang anak laki-laki, dan berkata, "Tuhan telah menghapuskan aibku."
 
 ## Kejadian 30:24
 

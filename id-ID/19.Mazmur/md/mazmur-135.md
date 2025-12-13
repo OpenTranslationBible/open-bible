@@ -10,7 +10,7 @@
 ## Mazmur 135:2
 
 > Kamu yang berdiri di tempat kediaman Tuhan,  
-> Di pelataran rumah Allah kita!
+> Di pelataran rumah Tuhan kita!
 
 ---
 
@@ -29,7 +29,7 @@
 ## Mazmur 135:5
 
 > Karena aku yakin bahwa Tuhan itu besar,  
-> Dan bahwa Tuhan kita mengatasi segala allah.
+> Dan bahwa Tuhan kita mengatasi segala Tuhan.
 
 ## Mazmur 135:6
 

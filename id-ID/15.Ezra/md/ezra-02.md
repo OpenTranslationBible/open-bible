@@ -293,7 +293,7 @@ memiliki 435 unta, dan 6.720 keledai.
 
 ## Ezra 2:68
 
-Setelah tiba di rumah Tuhan di Yerusalem, beberapa kepala keluarga memberikan persembahan sukarela untuk pembangunan kembali rumah Allah di tempatnya.
+Setelah tiba di rumah Tuhan di Yerusalem, beberapa kepala keluarga memberikan persembahan sukarela untuk pembangunan kembali rumah Tuhan di tempatnya.
 
 ## Ezra 2:69
 

@@ -40,7 +40,7 @@ Orang Amon juga menyeberangi Yordan untuk berperang melawan Yehuda, Benyamin, da
 
 ## Hakim-Hakim 10:10
 
-Orang Israel berseru kepada Tuhan, mengakui, “Kami telah berdosa terhadap-Mu dengan meninggalkan Allah kami dan melayani Baal.”
+Orang Israel berseru kepada Tuhan, mengakui, “Kami telah berdosa terhadap-Mu dengan meninggalkan Tuhan kami dan melayani Baal.”
 
 ## Hakim-Hakim 10:11
 

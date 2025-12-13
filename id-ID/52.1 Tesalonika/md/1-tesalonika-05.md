@@ -34,7 +34,7 @@ Tetapi karena kita adalah orang-orang siang, marilah kita sadar, dengan mengenak
 
 ## 1 Tesalonika 5:9
 
-Karena Allah tidak menetapkan kita untuk ditimpa murka, tetapi untuk memperoleh keselamatan oleh Tuhan kita Yesus Kristus,
+Karena Tuhan tidak menetapkan kita untuk ditimpa murka, tetapi untuk memperoleh keselamatan oleh Tuhan kita Yesus Kristus,
 
 ## 1 Tesalonika 5:10
 
@@ -70,7 +70,7 @@ tetaplah berdoa,
 
 ## 1 Tesalonika 5:18
 
-mengucap syukurlah dalam segala hal; sebab itulah yang dikehendaki Allah di dalam Kristus Yesus bagi kamu.
+mengucap syukurlah dalam segala hal; sebab itulah yang dikehendaki Tuhan di dalam Kristus Yesus bagi kamu.
 
 ## 1 Tesalonika 5:19
 
@@ -90,7 +90,7 @@ jauhkanlah dirimu dari segala jenis kejahatan.
 
 ## 1 Tesalonika 5:23
 
-Semoga Allah damai sejahtera menguduskan kamu seluruhnya; dan semoga roh, jiwa, dan tubuhmu terpelihara sempurna, dengan tak bercacat pada kedatangan Tuhan kita Yesus Kristus.
+Semoga Tuhan damai sejahtera menguduskan kamu seluruhnya; dan semoga roh, jiwa, dan tubuhmu terpelihara sempurna, dengan tak bercacat pada kedatangan Tuhan kita Yesus Kristus.
 
 ## 1 Tesalonika 5:24
 

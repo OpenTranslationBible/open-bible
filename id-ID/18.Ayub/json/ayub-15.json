@@ -1,266 +1,238 @@
 {
-    "book": "Ayub",
-    "chapter": 15,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Lalu Elifas, orang Teman, berbicara:"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> \"Haruskah orang bijak menjawab dengan ide kosong,",
-                "> dan memenuhi dirinya dengan angin timur yang panas?"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Haruskah mereka terlibat dalam pembicaraan yang sia-sia,",
-                "> dengan kata-kata yang tidak membawa manfaat?"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Engkau memang mengurangi rasa hormat",
-                "> dan menghalangi meditasi di hadapan Allah."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Kesalahanmu mengarahkan pembicaraanmu,",
-                "> dan engkau memilih lidah yang licik."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Mulutmu sendiri yang menghukummu, bukan aku;",
-                "> bibirmu sendiri menjadi saksi melawanmu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> \"Apakah engkau manusia pertama yang pernah dilahirkan?",
-                "> Apakah engkau dibawa keluar sebelum bukit-bukit?"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Apakah engkau mendengarkan dalam dewan rahasia Allah?",
-                "> Apakah engkau mengklaim kebijaksanaan eksklusif?"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Apa yang engkau ketahui yang tidak kami ketahui?",
-                "> Wawasan apa yang engkau miliki yang kami tidak miliki?"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Orang beruban dan yang tua ada di antara kami,",
-                "> lebih tua dari ayahmu."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Apakah penghiburan Allah terlalu kecil bagimu,",
-                "> atau kata lembut yang diucapkan kepadamu?"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Mengapa hatimu menyesatkanmu,",
-                "> dan mengapa matamu berkilat,"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> sehingga engkau membalikkan rohmu melawan Allah",
-                "> dan mengucapkan kata-kata seperti itu?"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Apa itu manusia, sehingga mereka bisa menjadi murni,",
-                "> atau mereka yang lahir dari wanita, sehingga mereka bisa menjadi benar?"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Jika Dia tidak menaruh kepercayaan pada orang-orang kudus-Nya,",
-                "> dan bahkan langit tidak murni di pandangan-Nya,"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> apalagi manusia fana, yang hina dan rusak,",
-                "> yang meminum kejahatan seperti air!"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> \"Dengarkan aku dan aku akan menjelaskan;",
-                "> aku akan menyatakan apa yang telah aku amati,"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> apa yang telah diumumkan oleh orang bijak,",
-                "> dan tidak disembunyikan dari leluhur mereka,"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "> kepada siapa saja tanah itu diberikan",
-                "> ketika tidak ada orang asing yang lewat di antara mereka:"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "> Orang jahat menderita siksaan sepanjang hari-harinya,",
-                "> dan tahun-tahun yang disediakan bagi yang kejam terbatas."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "> Suara menakutkan memenuhi telinganya;",
-                "> ketika ia dalam damai, perampok menyerangnya."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Ia tidak mengharapkan kebebasan dari kegelapan;",
-                "> ia ditandai untuk pedang."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "> Ia mengembara mencari makanan, berkata, 'Di mana itu?'",
-                "> Ia tahu hari kegelapan sudah dekat."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "> Kesusahan dan kesedihan menakutkannya;",
-                "> mereka menguasainya seperti raja yang siap untuk bertempur,"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "> karena ia telah mengulurkan tangannya melawan Allah,",
-                "> dan menunjukkan kesombongan terhadap Yang Mahakuasa."
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "> Ia menyerang dengan berani pada-Nya dengan perisai yang tebal dan kuat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "> Meskipun wajahnya tertutup lemak",
-                "> dan pinggangnya penuh dengan daging,"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "> ia akan tinggal di kota-kota yang sunyi,",
-                "> di rumah-rumah yang tidak dihuni,",
-                "> yang ditakdirkan menjadi reruntuhan."
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "> Ia tidak akan tetap kaya, dan kekayaannya tidak akan bertahan;",
-                "> harta miliknya tidak akan menyebar ke seluruh tanah."
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "> Ia tidak akan menemukan perlindungan dari kegelapan;",
-                "> api akan mengeringkan tunasnya,",
-                "> dan nafas mulut Allah akan membawanya pergi."
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "> Jangan biarkan ia menipu dirinya sendiri",
-                "> dengan mempercayai kesia-siaan, karena ia tidak akan menerima apa pun sebagai balasan."
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "> Itu akan terpenuhi sebelum waktunya,",
-                "> dan cabangnya tidak akan berkembang."
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "> Ia akan seperti pohon anggur yang dilucuti dari buah anggurnya yang belum matang,",
-                "> seperti pohon zaitun yang menggugurkan bunganya."
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "> Karena kumpulan orang fasik itu mandul,",
-                "> dan api menghabiskan tenda-tenda mereka yang mencintai suap."
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "> Mereka mengandung masalah dan melahirkan kejahatan;",
-                "> pikiran mereka menyiapkan tipu daya.\""
-            ]
-        }
-    ]
+  "book": "Ayub",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Lalu Elifas, orang Teman, berbicara:"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> \"Haruskah orang bijak menjawab dengan ide kosong,",
+        "> dan memenuhi dirinya dengan angin timur yang panas?"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Haruskah mereka terlibat dalam pembicaraan yang sia-sia,",
+        "> dengan kata-kata yang tidak membawa manfaat?"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Engkau memang mengurangi rasa hormat",
+        "> dan menghalangi meditasi di hadapan Tuhan."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["> Kesalahanmu mengarahkan pembicaraanmu,", "> dan engkau memilih lidah yang licik."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Mulutmu sendiri yang menghukummu, bukan aku;",
+        "> bibirmu sendiri menjadi saksi melawanmu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> \"Apakah engkau manusia pertama yang pernah dilahirkan?",
+        "> Apakah engkau dibawa keluar sebelum bukit-bukit?"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Apakah engkau mendengarkan dalam dewan rahasia Tuhan?",
+        "> Apakah engkau mengklaim kebijaksanaan eksklusif?"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Apa yang engkau ketahui yang tidak kami ketahui?",
+        "> Wawasan apa yang engkau miliki yang kami tidak miliki?"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": ["> Orang beruban dan yang tua ada di antara kami,", "> lebih tua dari ayahmu."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Apakah penghiburan Tuhan terlalu kecil bagimu,",
+        "> atau kata lembut yang diucapkan kepadamu?"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": ["> Mengapa hatimu menyesatkanmu,", "> dan mengapa matamu berkilat,"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> sehingga engkau membalikkan rohmu melawan Tuhan",
+        "> dan mengucapkan kata-kata seperti itu?"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Apa itu manusia, sehingga mereka bisa menjadi murni,",
+        "> atau mereka yang lahir dari wanita, sehingga mereka bisa menjadi benar?"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Jika Dia tidak menaruh kepercayaan pada orang-orang kudus-Nya,",
+        "> dan bahkan langit tidak murni di pandangan-Nya,"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> apalagi manusia fana, yang hina dan rusak,",
+        "> yang meminum kejahatan seperti air!"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> \"Dengarkan aku dan aku akan menjelaskan;",
+        "> aku akan menyatakan apa yang telah aku amati,"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> apa yang telah diumumkan oleh orang bijak,",
+        "> dan tidak disembunyikan dari leluhur mereka,"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "> kepada siapa saja tanah itu diberikan",
+        "> ketika tidak ada orang asing yang lewat di antara mereka:"
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "> Orang jahat menderita siksaan sepanjang hari-harinya,",
+        "> dan tahun-tahun yang disediakan bagi yang kejam terbatas."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "> Suara menakutkan memenuhi telinganya;",
+        "> ketika ia dalam damai, perampok menyerangnya."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": ["> Ia tidak mengharapkan kebebasan dari kegelapan;", "> ia ditandai untuk pedang."]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "> Ia mengembara mencari makanan, berkata, 'Di mana itu?'",
+        "> Ia tahu hari kegelapan sudah dekat."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "> Kesusahan dan kesedihan menakutkannya;",
+        "> mereka menguasainya seperti raja yang siap untuk bertempur,"
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "> karena ia telah mengulurkan tangannya melawan Tuhan,",
+        "> dan menunjukkan kesombongan terhadap Yang Mahakuasa."
+      ]
+    },
+    {
+      "verse": 26,
+      "text": ["> Ia menyerang dengan berani pada-Nya dengan perisai yang tebal dan kuat."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 27,
+      "text": ["> Meskipun wajahnya tertutup lemak", "> dan pinggangnya penuh dengan daging,"]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "> ia akan tinggal di kota-kota yang sunyi,",
+        "> di rumah-rumah yang tidak dihuni,",
+        "> yang ditakdirkan menjadi reruntuhan."
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "> Ia tidak akan tetap kaya, dan kekayaannya tidak akan bertahan;",
+        "> harta miliknya tidak akan menyebar ke seluruh tanah."
+      ]
+    },
+    {
+      "verse": 30,
+      "text": [
+        "> Ia tidak akan menemukan perlindungan dari kegelapan;",
+        "> api akan mengeringkan tunasnya,",
+        "> dan nafas mulut Tuhan akan membawanya pergi."
+      ]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "> Jangan biarkan ia menipu dirinya sendiri",
+        "> dengan mempercayai kesia-siaan, karena ia tidak akan menerima apa pun sebagai balasan."
+      ]
+    },
+    {
+      "verse": 32,
+      "text": ["> Itu akan terpenuhi sebelum waktunya,", "> dan cabangnya tidak akan berkembang."]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "> Ia akan seperti pohon anggur yang dilucuti dari buah anggurnya yang belum matang,",
+        "> seperti pohon zaitun yang menggugurkan bunganya."
+      ]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "> Karena kumpulan orang fasik itu mandul,",
+        "> dan api menghabiskan tenda-tenda mereka yang mencintai suap."
+      ]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "> Mereka mengandung masalah dan melahirkan kejahatan;",
+        "> pikiran mereka menyiapkan tipu daya.\""
+      ]
+    }
+  ]
 }

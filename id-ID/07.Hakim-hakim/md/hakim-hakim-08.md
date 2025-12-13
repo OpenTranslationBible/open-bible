@@ -10,7 +10,7 @@ Tetapi dia menjawab, "Apa yang telah aku capai dibandingkan dengan kalian? Bukan
 
 ## Hakim-Hakim 8:3
 
-Allah menyerahkan Oreb dan Zeeb, pemimpin Midian, ke dalam tanganmu. Apa yang dapat aku lakukan dibandingkan dengan kalian?" Mendengar hal ini, kemarahan mereka terhadapnya mereda.
+Tuhan menyerahkan Oreb dan Zeeb, pemimpin Midian, ke dalam tanganmu. Apa yang dapat aku lakukan dibandingkan dengan kalian?" Mendengar hal ini, kemarahan mereka terhadapnya mereda.
 
 ---
 
@@ -136,11 +136,11 @@ Gideon bin Yoas meninggal pada usia tua yang baik dan dimakamkan di makam ayahny
 
 ## Hakim-Hakim 8:33
 
-Segera setelah Gideon meninggal, orang Israel kembali beralih kepada para Baal dan mendirikan Baal-Berith sebagai allah mereka.
+Segera setelah Gideon meninggal, orang Israel kembali beralih kepada para Baal dan mendirikan Baal-Berith sebagai Tuhan mereka.
 
 ## Hakim-Hakim 8:34
 
-Mereka tidak mengingat Tuhan Allah mereka, yang telah menyelamatkan mereka dari tangan semua musuh mereka di setiap sisi.
+Mereka tidak mengingat Tuhan Tuhan mereka, yang telah menyelamatkan mereka dari tangan semua musuh mereka di setiap sisi.
 
 ## Hakim-Hakim 8:35
 

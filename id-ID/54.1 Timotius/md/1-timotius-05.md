@@ -14,11 +14,11 @@ Hormatilah janda-janda yang benar-benar dalam kebutuhan;
 
 ## 1 Timotius 5:4
 
-tetapi jika seorang janda mempunyai anak atau cucu, mereka harus belajar untuk menunjukkan hormat yang layak kepada rumah tangga mereka sendiri dan membalas budi kepada orang tua mereka; karena hal ini berkenan di hadapan Allah.
+tetapi jika seorang janda mempunyai anak atau cucu, mereka harus belajar untuk menunjukkan hormat yang layak kepada rumah tangga mereka sendiri dan membalas budi kepada orang tua mereka; karena hal ini berkenan di hadapan Tuhan.
 
 ## 1 Timotius 5:5
 
-Sekarang dia yang benar-benar seorang janda dan telah ditinggalkan sendirian menaruh harapannya pada Allah, dan dia terus-menerus dalam permohonan dan doa siang dan malam.
+Sekarang dia yang benar-benar seorang janda dan telah ditinggalkan sendirian menaruh harapannya pada Tuhan, dan dia terus-menerus dalam permohonan dan doa siang dan malam.
 
 ## 1 Timotius 5:6
 
@@ -82,7 +82,7 @@ Mereka yang terus berbuat dosa, tegurlah di hadapan semua orang, supaya yang lai
 
 ## 1 Timotius 5:21
 
-Aku dengan sungguh-sungguh mendesak engkau di hadapan Allah dan Kristus Yesus dan malaikat-malaikat pilihan-Nya, untuk memegang prinsip-prinsip ini tanpa bias, tidak melakukan apa pun dengan semangat keberpihakan.
+Aku dengan sungguh-sungguh mendesak engkau di hadapan Tuhan dan Kristus Yesus dan malaikat-malaikat pilihan-Nya, untuk memegang prinsip-prinsip ini tanpa bias, tidak melakukan apa pun dengan semangat keberpihakan.
 
 ## 1 Timotius 5:22
 

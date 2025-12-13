@@ -52,7 +52,7 @@ Dan jika kamu tidak dapat dipercaya dengan milik orang lain, siapa yang akan mem
 
 ## Lukas 16:13
 
-Tidak ada seorang pelayan yang dapat mengabdi kepada dua tuan; karena ia akan membenci yang satu dan mencintai yang lain, atau ia akan setia kepada yang satu dan meremehkan yang lain. Kamu tidak dapat mengabdi kepada Allah dan uang.
+Tidak ada seorang pelayan yang dapat mengabdi kepada dua tuan; karena ia akan membenci yang satu dan mencintai yang lain, atau ia akan setia kepada yang satu dan meremehkan yang lain. Kamu tidak dapat mengabdi kepada Tuhan dan uang.
 
 ---
 
@@ -62,13 +62,13 @@ Orang-orang Farisi, yang adalah pencinta uang, mendengar semua ini dan mencemooh
 
 ## Lukas 16:15
 
-Ia berkata kepada mereka, “Kamu adalah orang-orang yang membenarkan diri di hadapan orang lain, tetapi Allah mengetahui hatimu; karena apa yang sangat dihargai di antara manusia adalah kekejian di hadapan Allah.
+Ia berkata kepada mereka, “Kamu adalah orang-orang yang membenarkan diri di hadapan orang lain, tetapi Tuhan mengetahui hatimu; karena apa yang sangat dihargai di antara manusia adalah kekejian di hadapan Tuhan.
 
 ---
 
 ## Lukas 16:16
 
-Hukum Taurat dan para nabi diberitakan sampai Yohanes; sejak saat itu, kabar baik tentang kerajaan Allah diberitakan, dan setiap orang berusaha memasukinya.
+Hukum Taurat dan para nabi diberitakan sampai Yohanes; sejak saat itu, kabar baik tentang kerajaan Tuhan diberitakan, dan setiap orang berusaha memasukinya.
 
 ## Lukas 16:17
 

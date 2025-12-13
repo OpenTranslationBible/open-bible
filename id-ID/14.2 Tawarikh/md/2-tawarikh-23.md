@@ -18,7 +18,7 @@ bersama dengan para pemimpin keluarga Israel, dan mereka berkumpul di Yerusalem.
 
 ## 2 Tawarikh 23:3
 
-Kemudian seluruh jemaat membuat perjanjian dengan raja di rumah Allah.  
+Kemudian seluruh jemaat membuat perjanjian dengan raja di rumah Tuhan.  
 Dan Yoyada berkata kepada mereka,  
 “Lihatlah, anak raja akan memerintah, seperti yang telah difirmankan Tuhan mengenai anak-anak Daud.
 
@@ -67,7 +67,7 @@ karena Yoyada, imam itu, tidak membubarkan satu pun dari divisi-divisi itu.
 ## 2 Tawarikh 23:9
 
 Kemudian Yoyada, imam itu, memberikan kepada para kepala pasukan seratus tombak-tombak dan perisai-perisai besar dan kecil  
-yang telah menjadi milik Raja Daud, yang ada di rumah Allah.
+yang telah menjadi milik Raja Daud, yang ada di rumah Tuhan.
 
 ---
 

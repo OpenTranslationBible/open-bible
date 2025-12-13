@@ -19,12 +19,12 @@ Tetapi Tuhan mengirimkan angin yang kuat ke laut, dan terjadilah badai yang dahs
 
 ## Yunus 1:5
 
-Para pelaut menjadi takut dan masing-masing berseru kepada allahnya. Mereka melemparkan muatan kapal ke laut untuk meringankan kapal itu. Sementara itu, Yunus telah turun ke bagian bawah kapal, di mana ia berbaring dan tertidur lelap.
+Para pelaut menjadi takut dan masing-masing berseru kepada Tuhannya. Mereka melemparkan muatan kapal ke laut untuk meringankan kapal itu. Sementara itu, Yunus telah turun ke bagian bawah kapal, di mana ia berbaring dan tertidur lelap.
 
 ## Yunus 1:6
 
 Nakhoda kapal datang kepadanya dan berkata,
-“Bagaimana mungkin engkau tidur? Bangunlah, berserulah kepada Allahmu! Mungkin Allahmu akan memperhatikan kita sehingga kita tidak binasa.”
+“Bagaimana mungkin engkau tidur? Bangunlah, berserulah kepada Tuhanmu! Mungkin Tuhanmu akan memperhatikan kita sehingga kita tidak binasa.”
 
 ## Yunus 1:7
 
@@ -36,7 +36,7 @@ Maka mereka bertanya kepadanya, “Katakanlah kepada kami, siapa yang bertanggun
 
 ## Yunus 1:9
 
-Ia menjawab, “Aku seorang Ibrani dan aku takut akan Tuhan, Allah yang di surga, yang membuat laut dan daratan.”
+Ia menjawab, “Aku seorang Ibrani dan aku takut akan Tuhan, Tuhan yang di surga, yang membuat laut dan daratan.”
 
 ## Yunus 1:10
 

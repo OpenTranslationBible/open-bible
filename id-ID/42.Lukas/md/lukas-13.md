@@ -76,7 +76,7 @@ Ketika Dia mengatakan ini, semua lawan-Nya merasa malu, tetapi orang-orang bersu
 
 ## Lukas 13:18
 
-Kemudian Yesus bertanya, “Seperti apakah kerajaan Allah? Dengan apa aku akan membandingkannya?
+Kemudian Yesus bertanya, “Seperti apakah kerajaan Tuhan? Dengan apa aku akan membandingkannya?
 
 ## Lukas 13:19
 
@@ -86,7 +86,7 @@ Itu seperti biji sesawi, yang diambil seorang pria dan ditanam di kebunnya. Itu 
 
 ## Lukas 13:20
 
-Lagi Dia bertanya, “Dengan apa aku akan membandingkan kerajaan Allah?
+Lagi Dia bertanya, “Dengan apa aku akan membandingkan kerajaan Tuhan?
 
 ## Lukas 13:21
 
@@ -120,11 +120,11 @@ Tetapi Dia akan menjawab, ‘Aku tidak tahu dari mana kamu datang. Pergilah dari
 
 ## Lukas 13:28
 
-Akan ada tangisan dan kertakan gigi ketika kamu melihat Abraham, Ishak, Yakub, dan semua nabi di dalam kerajaan Allah, tetapi kamu sendiri dilemparkan ke luar.
+Akan ada tangisan dan kertakan gigi ketika kamu melihat Abraham, Ishak, Yakub, dan semua nabi di dalam kerajaan Tuhan, tetapi kamu sendiri dilemparkan ke luar.
 
 ## Lukas 13:29
 
-Orang-orang akan datang dari timur dan barat, dan dari utara dan selatan, dan akan duduk di meja di dalam kerajaan Allah.
+Orang-orang akan datang dari timur dan barat, dan dari utara dan selatan, dan akan duduk di meja di dalam kerajaan Tuhan.
 
 ## Lukas 13:30
 

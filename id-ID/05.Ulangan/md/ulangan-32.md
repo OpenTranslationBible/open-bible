@@ -10,11 +10,11 @@ Kiranya ajaranku menetes seperti hujan, perkataanku menetes seperti embun, seper
 
 ## Ulangan 32:3
 
-Sebab aku akan memaklumkan nama Tuhan; memuji kebesaran Allah kita!
+Sebab aku akan memaklumkan nama Tuhan; memuji kebesaran Tuhan kita!
 
 ## Ulangan 32:4
 
-Gunung Batu, pekerjaan-Nya sempurna, karena segala jalan-Nya adil. Allah yang setia dan tanpa kejahatan, adil dan benar Dia.
+Gunung Batu, pekerjaan-Nya sempurna, karena segala jalan-Nya adil. Tuhan yang setia dan tanpa kejahatan, adil dan benar Dia.
 
 ## Ulangan 32:5
 
@@ -46,7 +46,7 @@ Seperti rajawali yang menggerakkan sarangnya, yang melayang di atas anak-anaknya
 
 ## Ulangan 32:12
 
-Tuhan sendiri yang memimpinnya, dan tidak ada allah asing bersamanya.
+Tuhan sendiri yang memimpinnya, dan tidak ada Tuhan asing bersamanya.
 
 ## Ulangan 32:13
 
@@ -58,19 +58,19 @@ Mentega dari kawanan, dan susu dari kawanan domba, dengan lemak anak domba, dan 
 
 ## Ulangan 32:15
 
-Tetapi Yesyurun menjadi makmur dan puas diri; engkau menjadi gemuk, gemuk, dan licin; kemudian dia meninggalkan Allah yang membuatnya, dan menghina Gunung Batu keselamatannya.
+Tetapi Yesyurun menjadi makmur dan puas diri; engkau menjadi gemuk, gemuk, dan licin; kemudian dia meninggalkan Tuhan yang membuatnya, dan menghina Gunung Batu keselamatannya.
 
 ## Ulangan 32:16
 
-Mereka membuat-Nya cemburu dengan allah asing; dengan perbuatan keji mereka membuat-Nya marah.
+Mereka membuat-Nya cemburu dengan Tuhan asing; dengan perbuatan keji mereka membuat-Nya marah.
 
 ## Ulangan 32:17
 
-Mereka mempersembahkan korban kepada roh-roh yang bukan allah, kepada allah yang tidak mereka kenal, kepada allah baru yang baru saja muncul, yang tidak ditakuti oleh nenek moyangmu.
+Mereka mempersembahkan korban kepada roh-roh yang bukan Tuhan, kepada Tuhan yang tidak mereka kenal, kepada Tuhan baru yang baru saja muncul, yang tidak ditakuti oleh nenek moyangmu.
 
 ## Ulangan 32:18
 
-Engkau mengabaikan Gunung Batu yang melahirkanmu, dan engkau melupakan Allah yang memberimu kehidupan.
+Engkau mengabaikan Gunung Batu yang melahirkanmu, dan engkau melupakan Tuhan yang memberimu kehidupan.
 
 ## Ulangan 32:19
 
@@ -82,7 +82,7 @@ Dan Dia berkata, 'dan aku akan menyembunyikan wajah-Ku dari mereka, Aku melihat 
 
 ## Ulangan 32:21
 
-Mereka membuat-Ku cemburu dengan apa yang bukan allah; mereka membuat-Ku marah dengan berhala mereka. Maka Aku akan membuat mereka iri dengan orang-orang yang bukan bangsa; Aku akan memprovokasi mereka dengan bangsa yang bodoh.
+Mereka membuat-Ku cemburu dengan apa yang bukan Tuhan; mereka membuat-Ku marah dengan berhala mereka. Maka Aku akan membuat mereka iri dengan orang-orang yang bukan bangsa; Aku akan memprovokasi mereka dengan bangsa yang bodoh.
 
 ## Ulangan 32:22
 
@@ -146,7 +146,7 @@ Karena Tuhan akan membela umat-Nya dan menunjukkan belas kasihan kepada hamba-ha
 
 ## Ulangan 32:37
 
-Kemudian Dia akan berkata tentang mereka, 'Di mana allah mereka, batu tempat mereka mencari perlindungan,
+Kemudian Dia akan berkata tentang mereka, 'Di mana Tuhan mereka, batu tempat mereka mencari perlindungan,
 
 ## Ulangan 32:38
 
@@ -154,7 +154,7 @@ yang kemudian, memakan lemak korban dan meminum anggur persembahan minuman? Biar
 
 ## Ulangan 32:39
 
-Perhatikan sekarang bahwa Aku, bahkan Aku, adalah Dia, dan tidak ada allah selain Aku; Aku membawa kematian dan memberi kehidupan; Aku melukai dan Aku menyembuhkan; dan tidak ada yang dapat melepaskan dari tangan-Ku.
+Perhatikan sekarang bahwa Aku, bahkan Aku, adalah Dia, dan tidak ada Tuhan selain Aku; Aku membawa kematian dan memberi kehidupan; Aku melukai dan Aku menyembuhkan; dan tidak ada yang dapat melepaskan dari tangan-Ku.
 
 ## Ulangan 32:40
 

@@ -140,7 +140,7 @@ Ia berbicara secara terbuka tentang hal ini, dan Petrus menarik-Nya ke samping d
 
 ## Markus 8:33
 
-Tetapi sambil berpaling dan melihat murid-murid-Nya, Ia menegur Petrus dan berkata, “Enyahlah, Iblis! Engkau tidak memikirkan hal-hal dari Allah, melainkan hanya hal-hal manusia.”
+Tetapi sambil berpaling dan melihat murid-murid-Nya, Ia menegur Petrus dan berkata, “Enyahlah, Iblis! Engkau tidak memikirkan hal-hal dari Tuhan, melainkan hanya hal-hal manusia.”
 
 ---
 

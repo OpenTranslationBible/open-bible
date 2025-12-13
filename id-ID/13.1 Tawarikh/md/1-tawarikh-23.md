@@ -110,7 +110,7 @@ Anak-anak Amram adalah:
 
 ## 1 Tawarikh 23:14
 
-Adapun Musa, abdi Allah,  
+Adapun Musa, abdi Tuhan,  
 anak-anaknya diakui di antara suku Lewi.
 
 ---
@@ -202,7 +202,7 @@ menurut jumlah nama-nama mereka berdasarkan penghitungan individu,
 
 Karena Daud menyatakan,
 
-> “Tuhan, Allah Israel telah memberikan damai kepada umat-Nya,  
+> “Tuhan, Tuhan Israel telah memberikan damai kepada umat-Nya,  
 > dan Dia tinggal di Yerusalem selamanya.
 
 ---
@@ -228,7 +228,7 @@ Tugas mereka adalah membantu anak-anak Harun dengan pelayanan rumah Tuhan,
 
 > di halaman dan di kamar-kamar,  
 > dan dalam penyucian semua benda suci,  
-> bahkan pekerjaan pelayanan rumah Allah,
+> bahkan pekerjaan pelayanan rumah Tuhan,
 
 ---
 

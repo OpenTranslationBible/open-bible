@@ -1,6 +1,6 @@
 # Mazmur 90
 
-### Doa Musa, abdi Allah.
+### Doa Musa, abdi Tuhan.
 
 ## Mazmur 90:1
 
@@ -10,7 +10,7 @@
 
 > Sebelum gunung-gunung dilahirkan  
 > Atau Engkau membentuk bumi dan dunia,  
-> Bahkan dari kekekalan hingga kekekalan, Engkaulah Allah.
+> Bahkan dari kekekalan hingga kekekalan, Engkaulah Tuhan.
 
 ---
 
@@ -95,6 +95,6 @@
 
 ## Mazmur 90:17
 
-> Kiranya kemurahan Tuhan, Allah kami, ada atas kami;  
+> Kiranya kemurahan Tuhan, Tuhan kami, ada atas kami;  
 > Dan teguhkanlah bagi kami pekerjaan tangan kami—  
 > Ya, teguhkanlah pekerjaan tangan kami.

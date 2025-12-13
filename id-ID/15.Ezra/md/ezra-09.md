@@ -16,15 +16,15 @@ Setelah mendengar hal ini, saya merobek pakaian dan jubah saya, mencabut rambut 
 
 ## Ezra 9:4
 
-Kemudian semua orang yang gemetar mendengar firman Allah Israel, karena ketidaksetiaan para buangan, berkumpul di sekitar saya, dan saya tetap terkejut sampai korban petang.
+Kemudian semua orang yang gemetar mendengar firman Tuhan Israel, karena ketidaksetiaan para buangan, berkumpul di sekitar saya, dan saya tetap terkejut sampai korban petang.
 
 ## Ezra 9:5
 
-Pada waktu persembahan petang, saya bangkit dari kerendahan diri saya, dengan pakaian dan jubah saya yang terkoyak, dan jatuh berlutut, menadahkan tangan kepada Tuhan Allahku;
+Pada waktu persembahan petang, saya bangkit dari kerendahan diri saya, dengan pakaian dan jubah saya yang terkoyak, dan jatuh berlutut, menadahkan tangan kepada Tuhan Tuhanku;
 
 ## Ezra 9:6
 
-dan saya berdoa, “Ya Allahku, saya terlalu malu dan terhina untuk mengangkat wajahku kepada-Mu, ya Allahku, karena kesalahan kami telah melampaui kepala kami, dan kesalahan kami telah mencapai ke langit.
+dan saya berdoa, “Ya Tuhanku, saya terlalu malu dan terhina untuk mengangkat wajahku kepada-Mu, ya Tuhanku, karena kesalahan kami telah melampaui kepala kami, dan kesalahan kami telah mencapai ke langit.
 
 ## Ezra 9:7
 
@@ -32,15 +32,15 @@ Sejak zaman nenek moyang kami hingga hari ini, kesalahan kami sangat besar. Kare
 
 ## Ezra 9:8
 
-Tetapi sekarang, untuk sesaat, Tuhan Allah kami telah menunjukkan kasih karunia kepada kami dengan meninggalkan kami sisa dan memberi kami pijakan yang aman di tempat kudus-Nya, sehingga Allah kami dapat menerangi mata kami dan memberi kami sedikit kelegaan dalam perbudakan kami.
+Tetapi sekarang, untuk sesaat, Tuhan Tuhan kami telah menunjukkan kasih karunia kepada kami dengan meninggalkan kami sisa dan memberi kami pijakan yang aman di tempat kudus-Nya, sehingga Tuhan kami dapat menerangi mata kami dan memberi kami sedikit kelegaan dalam perbudakan kami.
 
 ## Ezra 9:9
 
-Karena meskipun kami adalah budak, Allah kami tidak meninggalkan kami dalam perbudakan kami. Dia telah memberikan kebaikan kepada kami di hadapan raja-raja Persia, memberikan kami kehidupan baru untuk membangun kembali rumah Allah kami dan memulihkan reruntuhannya, dan telah memberi kami tembok perlindungan di Yehuda dan Yerusalem.
+Karena meskipun kami adalah budak, Tuhan kami tidak meninggalkan kami dalam perbudakan kami. Dia telah memberikan kebaikan kepada kami di hadapan raja-raja Persia, memberikan kami kehidupan baru untuk membangun kembali rumah Tuhan kami dan memulihkan reruntuhannya, dan telah memberi kami tembok perlindungan di Yehuda dan Yerusalem.
 
 ## Ezra 9:10
 
-“Dan sekarang, ya Allah kami, apa yang dapat kami katakan setelah ini? Karena kami benar-benar telah meninggalkan perintah-Mu,
+“Dan sekarang, ya Tuhan kami, apa yang dapat kami katakan setelah ini? Karena kami benar-benar telah meninggalkan perintah-Mu,
 
 ## Ezra 9:11
 
@@ -54,7 +54,7 @@ Oleh karena itu, janganlah memberikan putri-putrimu untuk menikah dengan anak-an
 
 ## Ezra 9:13
 
-Setelah semua yang menimpa kami karena perbuatan jahat kami dan kesalahan besar kami, karena Engkau, ya Allah kami, telah menghukum kami lebih ringan dari yang seharusnya kami terima dan telah memberikan kami sisa seperti ini,
+Setelah semua yang menimpa kami karena perbuatan jahat kami dan kesalahan besar kami, karena Engkau, ya Tuhan kami, telah menghukum kami lebih ringan dari yang seharusnya kami terima dan telah memberikan kami sisa seperti ini,
 
 ## Ezra 9:14
 
@@ -62,4 +62,4 @@ apakah kami akan kembali melanggar perintah-Mu dan menikah dengan bangsa-bangsa 
 
 ## Ezra 9:15
 
-Ya Tuhan, Allah Israel, Engkau benar! Kami ditinggalkan hari ini sebagai sisa. Di sini kami berdiri di hadapan-Mu dalam kesalahan kami, dan karena itu, tidak ada dari kami yang dapat berdiri di hadapan-Mu.”
+Ya Tuhan, Tuhan Israel, Engkau benar! Kami ditinggalkan hari ini sebagai sisa. Di sini kami berdiri di hadapan-Mu dalam kesalahan kami, dan karena itu, tidak ada dari kami yang dapat berdiri di hadapan-Mu.”

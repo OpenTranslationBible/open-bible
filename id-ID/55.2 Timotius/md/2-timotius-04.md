@@ -2,7 +2,7 @@
 
 ## 2 Timotius 4:1
 
-Aku sungguh-sungguh menasihatkan engkau di hadapan Allah dan Kristus Yesus, yang akan menghakimi orang yang hidup dan yang mati, dan demi penampakan-Nya dan kerajaan-Nya:
+Aku sungguh-sungguh menasihatkan engkau di hadapan Tuhan dan Kristus Yesus, yang akan menghakimi orang yang hidup dan yang mati, dan demi penampakan-Nya dan kerajaan-Nya:
 
 ## 2 Timotius 4:2
 

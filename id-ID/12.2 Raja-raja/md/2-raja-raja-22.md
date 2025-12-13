@@ -93,7 +93,7 @@ dan mereka berbicara kepadanya.
 ## 2 Raja-raja 22:15
 
 Dan ia berkata kepada mereka,  
-“Inilah yang dikatakan Tuhan, Allah Israel:  
+“Inilah yang dikatakan Tuhan, Tuhan Israel:  
 ‘Katakanlah kepada orang yang mengutus kamu kepada-Ku,
 
 ## 2 Raja-raja 22:16
@@ -104,7 +104,7 @@ Dan ia berkata kepada mereka,
 
 ## 2 Raja-raja 22:17
 
-> Karena mereka telah meninggalkan Aku dan telah membakar dupa kepada allah lain,  
+> Karena mereka telah meninggalkan Aku dan telah membakar dupa kepada Tuhan lain,  
 > sehingga membuat Aku marah dengan segala pekerjaan tangan mereka,  
 > maka murka-Ku menyala terhadap tempat ini, dan itu tidak akan dipadamkan.”’
 
@@ -112,7 +112,7 @@ Dan ia berkata kepada mereka,
 
 Kepada raja Yehuda yang mengutus kamu untuk meminta petunjuk dari Tuhan, inilah yang harus kamu katakan kepadanya:
 
-> “Inilah yang dikatakan Tuhan, Allah Israel:  
+> “Inilah yang dikatakan Tuhan, Tuhan Israel:  
 > Mengenai kata-kata yang telah kamu dengar—
 
 ## 2 Raja-raja 22:19

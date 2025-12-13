@@ -1,172 +1,166 @@
 {
-    "book": "1 Samuel",
-    "chapter": 12,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Lalu Samuel berkata kepada seluruh Israel, \"Lihatlah, aku telah mendengarkan suaramu dalam segala yang kamu katakan kepadaku, dan telah mengangkat seorang raja atasmu."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Sekarang inilah raja berjalan di depanmu, dan aku sudah tua dan beruban; dan lihatlah, anak-anakku ada bersamamu. Aku telah berjalan di depanmu sejak masa mudaku hingga hari ini."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Inilah aku. Bersaksilah melawan aku di hadapan Tuhan dan di hadapan yang diurapi-Nya: Lembu siapakah yang telah kuambil? Atau keledai siapakah yang telah kuambil? Siapakah yang telah kutipu? Siapakah yang telah kutindas? Dari tangan siapakah aku telah menerima suap untuk menutup mataku dengannya? Bersaksilah melawan aku, dan aku akan mengembalikannya kepadamu.\""
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Dan mereka menjawab, \"Engkau tidak telah merugikan kami, tidak menindas kami, tidak mengambil apa pun dari tangan siapa pun.\""
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Dia berkata kepada mereka, \"Tuhan dan yang diurapi-Nya adalah saksi hari ini bahwa kamu tidak menemukan apa pun dalam milikku.\"",
-                "Dan mereka menjawab, \"Dia adalah saksi.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Lalu Samuel berkata kepada orang-orang itu, \"Tuhanlah yang mengangkat Musa dan Harun dan membawa nenek moyangmu keluar dari tanah Mesir."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Sekarang, berdirilah diam, agar aku dapat berbicara denganmu di hadapan Tuhan mengenai semua perbuatan benar Tuhan, yang Dia lakukan untukmu dan nenek moyangmu."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Ketika Yakub pergi ke Mesir dan nenek moyangmu berseru kepada Tuhan, maka Tuhan mengutus Musa dan Harun, yang membawa nenek moyangmu keluar dari Mesir dan membuat mereka tinggal di tempat ini."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Tetapi mereka melupakan Tuhan Allah mereka, sehingga Dia membiarkan mereka jatuh ke tangan Sisera, panglima tentara Hazor, dan ke tangan orang Filistin, dan ke tangan raja Moab, dan mereka berperang melawan mereka."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Lalu mereka berseru kepada Tuhan dan berkata, 'Kami telah berdosa, karena kami telah meninggalkan Tuhan dan telah melayani Baal dan Asytoret; tetapi sekarang bebaskanlah kami dari tangan musuh-musuh kami, dan kami akan melayani Engkau.'"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kemudian Tuhan mengutus Yerubaal dan Bedan dan Yefta dan Samuel, dan membebaskanmu dari tangan musuh-musuhmu di setiap sisi, dan kamu hidup dalam keamanan."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tetapi ketika kamu melihat bahwa Nahas, raja orang Amon, datang melawanmu, kamu berkata kepadaku, 'Tidak, tetapi seorang raja harus memerintah atas kami'—ketika Tuhan Allahmu adalah rajamu."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Sekarang, lihatlah raja yang telah kamu pilih, yang telah kamu minta; dan lihatlah, Tuhan telah menetapkan seorang raja atasmu."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Jika kamu takut akan Tuhan dan melayani Dia, dan menaati suara-Nya dan tidak memberontak melawan perintah Tuhan, dan jika baik kamu maupun raja yang memerintah atasmu mengikuti Tuhan Allahmu, maka akan baik."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Tetapi jika kamu tidak menaati suara Tuhan, dan memberontak melawan perintah Tuhan, maka tangan Tuhan akan melawanmu dan melawan rajamu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Sekarang, berdirilah diam dan perhatikan hal besar ini, yang akan dilakukan Tuhan di depan matamu."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Bukankah hari ini adalah musim panen gandum? Aku akan memanggil Tuhan, agar Dia mengirimkan guntur dan hujan. Maka kamu akan tahu dan melihat bahwa kejahatanmu besar, yang telah kamu lakukan di hadapan Tuhan, dengan meminta seorang raja bagi dirimu.\""
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Dan Samuel memanggil Tuhan, dan Tuhan mengirimkan guntur dan hujan pada hari itu; sehingga semua orang sangat menghormati Tuhan dan Samuel."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Dan semua orang berkata kepada Samuel, \"Berdoalah bagi hamba-hambamu kepada Tuhan Allahmu, agar kami tidak mati; karena kami telah menambahkan pada semua dosa kami kejahatan ini, meminta seorang raja bagi diri kami.\""
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Lalu Samuel berkata kepada orang-orang itu, \"Jangan takut. Kamu telah melakukan semua kejahatan ini, namun jangan berpaling dari mengikuti Tuhan, tetapi layani Tuhan dengan segenap hatimu."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Dan jangan berpaling untuk mengikuti hal-hal yang sia-sia yang tidak dapat memberi keuntungan atau membebaskan, karena mereka adalah tidak ada."
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Karena Tuhan tidak akan meninggalkan umat-Nya demi nama-Nya yang besar, karena Tuhan telah berkenan menjadikan kamu umat-Nya."
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Adapun aku, aku tidak akan berdosa terhadap Tuhan dengan berhenti berdoa untukmu; sebaliknya, aku akan membimbingmu di jalan yang baik dan benar."
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Takutlah akan Tuhan dan layani Dia dengan setia dengan segenap hatimu; karena pertimbangkanlah hal-hal besar yang telah Dia lakukan untukmu."
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Tetapi jika kamu terus dalam kejahatan, baik kamu maupun rajamu akan menghadapi kehancuran."
-            ]
-        }
-    ]
+  "book": "1 Samuel",
+  "chapter": 12,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Lalu Samuel berkata kepada seluruh Israel, \"Lihatlah, aku telah mendengarkan suaramu dalam segala yang kamu katakan kepadaku, dan telah mengangkat seorang raja atasmu."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Sekarang inilah raja berjalan di depanmu, dan aku sudah tua dan beruban; dan lihatlah, anak-anakku ada bersamamu. Aku telah berjalan di depanmu sejak masa mudaku hingga hari ini."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Inilah aku. Bersaksilah melawan aku di hadapan Tuhan dan di hadapan yang diurapi-Nya: Lembu siapakah yang telah kuambil? Atau keledai siapakah yang telah kuambil? Siapakah yang telah kutipu? Siapakah yang telah kutindas? Dari tangan siapakah aku telah menerima suap untuk menutup mataku dengannya? Bersaksilah melawan aku, dan aku akan mengembalikannya kepadamu.\""
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Dan mereka menjawab, \"Engkau tidak telah merugikan kami, tidak menindas kami, tidak mengambil apa pun dari tangan siapa pun.\""
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Dia berkata kepada mereka, \"Tuhan dan yang diurapi-Nya adalah saksi hari ini bahwa kamu tidak menemukan apa pun dalam milikku.\"",
+        "Dan mereka menjawab, \"Dia adalah saksi.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Lalu Samuel berkata kepada orang-orang itu, \"Tuhanlah yang mengangkat Musa dan Harun dan membawa nenek moyangmu keluar dari tanah Mesir."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Sekarang, berdirilah diam, agar aku dapat berbicara denganmu di hadapan Tuhan mengenai semua perbuatan benar Tuhan, yang Dia lakukan untukmu dan nenek moyangmu."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Ketika Yakub pergi ke Mesir dan nenek moyangmu berseru kepada Tuhan, maka Tuhan mengutus Musa dan Harun, yang membawa nenek moyangmu keluar dari Mesir dan membuat mereka tinggal di tempat ini."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Tetapi mereka melupakan Tuhan Tuhan mereka, sehingga Dia membiarkan mereka jatuh ke tangan Sisera, panglima tentara Hazor, dan ke tangan orang Filistin, dan ke tangan raja Moab, dan mereka berperang melawan mereka."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Lalu mereka berseru kepada Tuhan dan berkata, 'Kami telah berdosa, karena kami telah meninggalkan Tuhan dan telah melayani Baal dan Asytoret; tetapi sekarang bebaskanlah kami dari tangan musuh-musuh kami, dan kami akan melayani Engkau.'"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Kemudian Tuhan mengutus Yerubaal dan Bedan dan Yefta dan Samuel, dan membebaskanmu dari tangan musuh-musuhmu di setiap sisi, dan kamu hidup dalam keamanan."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Tetapi ketika kamu melihat bahwa Nahas, raja orang Amon, datang melawanmu, kamu berkata kepadaku, 'Tidak, tetapi seorang raja harus memerintah atas kami'—ketika Tuhan Tuhanmu adalah rajamu."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Sekarang, lihatlah raja yang telah kamu pilih, yang telah kamu minta; dan lihatlah, Tuhan telah menetapkan seorang raja atasmu."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Jika kamu takut akan Tuhan dan melayani Dia, dan menaati suara-Nya dan tidak memberontak melawan perintah Tuhan, dan jika baik kamu maupun raja yang memerintah atasmu mengikuti Tuhan Tuhanmu, maka akan baik."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Tetapi jika kamu tidak menaati suara Tuhan, dan memberontak melawan perintah Tuhan, maka tangan Tuhan akan melawanmu dan melawan rajamu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Sekarang, berdirilah diam dan perhatikan hal besar ini, yang akan dilakukan Tuhan di depan matamu."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Bukankah hari ini adalah musim panen gandum? Aku akan memanggil Tuhan, agar Dia mengirimkan guntur dan hujan. Maka kamu akan tahu dan melihat bahwa kejahatanmu besar, yang telah kamu lakukan di hadapan Tuhan, dengan meminta seorang raja bagi dirimu.\""
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Dan Samuel memanggil Tuhan, dan Tuhan mengirimkan guntur dan hujan pada hari itu; sehingga semua orang sangat menghormati Tuhan dan Samuel."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Dan semua orang berkata kepada Samuel, \"Berdoalah bagi hamba-hambamu kepada Tuhan Tuhanmu, agar kami tidak mati; karena kami telah menambahkan pada semua dosa kami kejahatan ini, meminta seorang raja bagi diri kami.\""
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Lalu Samuel berkata kepada orang-orang itu, \"Jangan takut. Kamu telah melakukan semua kejahatan ini, namun jangan berpaling dari mengikuti Tuhan, tetapi layani Tuhan dengan segenap hatimu."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Dan jangan berpaling untuk mengikuti hal-hal yang sia-sia yang tidak dapat memberi keuntungan atau membebaskan, karena mereka adalah tidak ada."
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Karena Tuhan tidak akan meninggalkan umat-Nya demi nama-Nya yang besar, karena Tuhan telah berkenan menjadikan kamu umat-Nya."
+      ]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Adapun aku, aku tidak akan berdosa terhadap Tuhan dengan berhenti berdoa untukmu; sebaliknya, aku akan membimbingmu di jalan yang baik dan benar."
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Takutlah akan Tuhan dan layani Dia dengan setia dengan segenap hatimu; karena pertimbangkanlah hal-hal besar yang telah Dia lakukan untukmu."
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Tetapi jika kamu terus dalam kejahatan, baik kamu maupun rajamu akan menghadapi kehancuran."
+      ]
+    }
+  ]
 }

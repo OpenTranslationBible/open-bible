@@ -62,7 +62,7 @@ Yusuf bertanya kepada mereka, “Apa yang telah kamu lakukan ini? Tidakkah kamu 
 
 ## Kejadian 44:16
 
-Yehuda menjawab, “Apa yang bisa kami katakan kepada tuanku? Bagaimana kami bisa membenarkan diri kami? Allah telah mengungkapkan kesalahan hamba-hambamu. Kami sekarang adalah budak tuanku, baik kami maupun dia yang ditemukan dengan piala itu.”
+Yehuda menjawab, “Apa yang bisa kami katakan kepada tuanku? Bagaimana kami bisa membenarkan diri kami? Tuhan telah mengungkapkan kesalahan hamba-hambamu. Kami sekarang adalah budak tuanku, baik kami maupun dia yang ditemukan dengan piala itu.”
 
 ## Kejadian 44:17
 

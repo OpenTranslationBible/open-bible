@@ -6,7 +6,7 @@ Raja Nebukadnezar, kepada semua bangsa, suku bangsa, dan bahasa yang diam di sel
 
 ## Daniel 4:2
 
-Aku senang menceritakan tanda-tanda dan mukjizat yang telah dilakukan Allah Yang Mahatinggi bagiku.
+Aku senang menceritakan tanda-tanda dan mukjizat yang telah dilakukan Tuhan Yang Mahatinggi bagiku.
 
 ## Daniel 4:3
 

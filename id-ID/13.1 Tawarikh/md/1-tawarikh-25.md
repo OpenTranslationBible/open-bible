@@ -36,8 +36,8 @@ Lagi pula, Daud dan para panglima tentara mengkhususkan untuk pelayanan beberapa
 
 Semua ini adalah anak-anak Heman, pelihat raja,
 
-> untuk menghormatinya sesuai dengan firman Allah;  
-> karena Allah memberikan kepada Heman empat belas anak laki-laki dan tiga anak perempuan.
+> untuk menghormatinya sesuai dengan firman Tuhan;  
+> karena Tuhan memberikan kepada Heman empat belas anak laki-laki dan tiga anak perempuan.
 
 ---
 
@@ -46,7 +46,7 @@ Semua ini adalah anak-anak Heman, pelihat raja,
 Semua ini berada di bawah bimbingan ayah mereka
 
 > untuk bernyanyi di rumah Tuhan, dengan ceracap, gambus, dan kecapi,  
-> untuk pelayanan rumah Allah.  
+> untuk pelayanan rumah Tuhan.  
 > Asaf, Yedutun, dan Heman berada di bawah arahan raja.
 
 ---

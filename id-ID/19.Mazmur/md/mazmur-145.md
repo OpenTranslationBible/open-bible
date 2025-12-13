@@ -4,7 +4,7 @@
 
 ## Mazmur 145:1
 
-> Aku akan meninggikan Engkau, ya Allahku, Raja,  
+> Aku akan meninggikan Engkau, ya Tuhanku, Raja,  
 > Dan aku akan memuji nama-Mu untuk selama-lamanya.
 
 ## Mazmur 145:2

@@ -6,11 +6,11 @@ Aku melihat langit yang baru dan bumi yang baru, sebab langit yang pertama dan b
 
 ## Wahyu 21:2
 
-Aku melihat kota yang kudus, Yerusalem yang baru, turun dari surga dari Allah, yang telah dipersiapkan bagaikan pengantin perempuan yang berhias untuk suaminya.
+Aku melihat kota yang kudus, Yerusalem yang baru, turun dari surga dari Tuhan, yang telah dipersiapkan bagaikan pengantin perempuan yang berhias untuk suaminya.
 
 ## Wahyu 21:3
 
-Dan aku mendengar suara yang nyaring dari takhta itu berkata, “Lihatlah, tempat kediaman Allah sekarang ada di tengah-tengah manusia, dan Dia akan tinggal bersama mereka. Mereka akan menjadi umat-Nya, dan Allah sendiri akan bersama mereka dan menjadi Allah mereka.
+Dan aku mendengar suara yang nyaring dari takhta itu berkata, “Lihatlah, tempat kediaman Tuhan sekarang ada di tengah-tengah manusia, dan Dia akan tinggal bersama mereka. Mereka akan menjadi umat-Nya, dan Tuhan sendiri akan bersama mereka dan menjadi Tuhan mereka.
 
 ## Wahyu 21:4
 
@@ -26,7 +26,7 @@ Dia berkata kepadaku, “Sudah selesai. Aku adalah Alfa dan Omega, Yang Awal dan
 
 ## Wahyu 21:7
 
-Orang yang menang akan mewarisi hal-hal ini, dan Aku akan menjadi Allah mereka dan mereka akan menjadi anak-anak-Ku.
+Orang yang menang akan mewarisi hal-hal ini, dan Aku akan menjadi Tuhan mereka dan mereka akan menjadi anak-anak-Ku.
 
 ## Wahyu 21:8
 
@@ -38,11 +38,11 @@ Kemudian salah satu dari tujuh malaikat yang memegang tujuh cawan penuh dengan t
 
 ## Wahyu 21:10
 
-Dan dia membawaku dalam Roh ke sebuah gunung yang besar dan tinggi, di mana dia menunjukkan kepadaku kota yang kudus, Yerusalem, turun dari surga dari Allah.
+Dan dia membawaku dalam Roh ke sebuah gunung yang besar dan tinggi, di mana dia menunjukkan kepadaku kota yang kudus, Yerusalem, turun dari surga dari Tuhan.
 
 ## Wahyu 21:11
 
-Kota itu bersinar dengan kemuliaan Allah, dan cahayanya seperti batu yang sangat berharga, seperti yaspis, jernih seperti kristal.
+Kota itu bersinar dengan kemuliaan Tuhan, dan cahayanya seperti batu yang sangat berharga, seperti yaspis, jernih seperti kristal.
 
 ## Wahyu 21:12
 
@@ -86,11 +86,11 @@ Kedua belas pintu gerbang itu adalah dua belas mutiara, setiap pintu gerbang ter
 
 ## Wahyu 21:22
 
-Aku tidak menemukan bait suci di kota itu, karena Tuhan Allah Yang Mahakuasa dan Anak Domba adalah bait sucinya.
+Aku tidak menemukan bait suci di kota itu, karena Tuhan Tuhan Yang Mahakuasa dan Anak Domba adalah bait sucinya.
 
 ## Wahyu 21:23
 
-Kota itu tidak memerlukan matahari atau bulan untuk meneranginya, karena kemuliaan Allah meneranginya, dan Anak Domba adalah lampunya.
+Kota itu tidak memerlukan matahari atau bulan untuk meneranginya, karena kemuliaan Tuhan meneranginya, dan Anak Domba adalah lampunya.
 
 ## Wahyu 21:24
 

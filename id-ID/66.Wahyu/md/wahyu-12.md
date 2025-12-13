@@ -18,11 +18,11 @@ Ekor naga itu menyeret sepertiga dari bintang-bintang di langit dan melemparkann
 
 ## Wahyu 12:5
 
-Perempuan itu melahirkan seorang anak laki-laki, yang akan menggembalakan semua bangsa dengan tongkat besi. Anaknya itu diangkat kepada Allah dan ke takhta-Nya.
+Perempuan itu melahirkan seorang anak laki-laki, yang akan menggembalakan semua bangsa dengan tongkat besi. Anaknya itu diangkat kepada Tuhan dan ke takhta-Nya.
 
 ## Wahyu 12:6
 
-Perempuan itu lari ke padang gurun, ke suatu tempat yang telah disediakan Allah baginya, supaya ia dipelihara di situ selama 1.260 hari.
+Perempuan itu lari ke padang gurun, ke suatu tempat yang telah disediakan Tuhan baginya, supaya ia dipelihara di situ selama 1.260 hari.
 
 ## Wahyu 12:7
 
@@ -41,10 +41,10 @@ Naga besar itu dilemparkan ke bawah, yaitu ular tua yang disebut Iblis atau Sata
 Lalu aku mendengar suara yang nyaring di sorga berkata:
 
 > “Sekarang telah tiba keselamatan dan kuasa
-> dan pemerintahan Allah kita,
+> dan pemerintahan Tuhan kita,
 > dan kuasa Kristus-Nya,
 > karena telah dilemparkan ke bawah pendakwa saudara-saudara kita,
-> yang mendakwa mereka siang dan malam di hadapan Allah kita.
+> yang mendakwa mereka siang dan malam di hadapan Tuhan kita.
 
 ## Wahyu 12:11
 
@@ -78,4 +78,4 @@ Tetapi bumi menolong perempuan itu dengan membuka mulutnya dan menelan sungai ya
 
 ## Wahyu 12:17
 
-Maka marahlah naga itu kepada perempuan itu dan pergi memerangi keturunannya yang lain, yaitu mereka yang menuruti perintah-perintah Allah dan memegang teguh kesaksian tentang Yesus.
+Maka marahlah naga itu kepada perempuan itu dan pergi memerangi keturunannya yang lain, yaitu mereka yang menuruti perintah-perintah Tuhan dan memegang teguh kesaksian tentang Yesus.

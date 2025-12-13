@@ -36,7 +36,7 @@
 
 > Biarlah semua orang yang melayani patung pahatan dipermalukan,  
 > Yang bermegah dalam berhala;  
-> Sujudlah kepada-Nya, hai semua allah.
+> Sujudlah kepada-Nya, hai semua Tuhan.
 
 ---
 
@@ -49,7 +49,7 @@
 ## Mazmur 97:9
 
 > Sebab Engkau adalah Tuhan Yang Mahatinggi atas seluruh bumi;  
-> Engkau ditinggikan jauh di atas semua allah.
+> Engkau ditinggikan jauh di atas semua Tuhan.
 
 ## Mazmur 97:10
 

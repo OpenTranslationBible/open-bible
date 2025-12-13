@@ -2,7 +2,7 @@
 
 ## Lukas 8:1
 
-Tak lama kemudian, Yesus berkeliling dari satu kota dan desa ke kota dan desa lainnya, memberitakan kabar baik tentang kerajaan Allah. Kedua belas murid-Nya menyertai Dia,
+Tak lama kemudian, Yesus berkeliling dari satu kota dan desa ke kota dan desa lainnya, memberitakan kabar baik tentang kerajaan Tuhan. Kedua belas murid-Nya menyertai Dia,
 
 ## Lukas 8:2
 
@@ -42,14 +42,14 @@ Murid-murid-Nya bertanya tentang arti perumpamaan ini.
 
 ## Lukas 8:10
 
-Ia menjawab, “Kepadamu telah diberikan untuk mengetahui rahasia kerajaan Allah, tetapi kepada orang lain Aku berbicara dalam perumpamaan, supaya,
+Ia menjawab, “Kepadamu telah diberikan untuk mengetahui rahasia kerajaan Tuhan, tetapi kepada orang lain Aku berbicara dalam perumpamaan, supaya,
 
 > ‘sekalipun melihat, mereka tidak melihat;
 > sekalipun mendengar, mereka tidak mengerti.’
 
 ## Lukas 8:11
 
-“Arti perumpamaan itu adalah ini: Benih itu melambangkan firman Allah.
+“Arti perumpamaan itu adalah ini: Benih itu melambangkan firman Tuhan.
 
 ## Lukas 8:12
 
@@ -93,7 +93,7 @@ Seseorang memberitahukan kepada-Nya, “Ibumu dan saudara-saudaramu berdiri di l
 
 ## Lukas 8:21
 
-Ia menjawab, “Ibu dan saudara-saudara-Ku adalah mereka yang mendengar firman Allah dan melakukannya.”
+Ia menjawab, “Ibu dan saudara-saudara-Ku adalah mereka yang mendengar firman Tuhan dan melakukannya.”
 
 ---
 
@@ -125,7 +125,7 @@ Ketika Yesus melangkah ke darat, Ia ditemui oleh seorang pria yang kerasukan set
 
 ## Lukas 8:28
 
-Ketika ia melihat Yesus, ia berteriak dan jatuh di kaki-Nya, berseru dengan suara keras, “Apa yang Engkau inginkan dariku, Yesus, Anak Allah Yang Mahatinggi? Aku memohon kepada-Mu, jangan menyiksaku!”
+Ketika ia melihat Yesus, ia berteriak dan jatuh di kaki-Nya, berseru dengan suara keras, “Apa yang Engkau inginkan dariku, Yesus, Anak Tuhan Yang Mahatinggi? Aku memohon kepada-Mu, jangan menyiksaku!”
 
 ## Lukas 8:29
 
@@ -171,7 +171,7 @@ Pria yang darinya setan-setan telah keluar memohon untuk menyertai-Nya, tetapi Y
 
 ## Lukas 8:39
 
-“Kembalilah ke rumahmu dan ceritakan betapa banyak yang telah Allah lakukan bagimu.” Maka pria itu pergi dan memberitakan di seluruh kota betapa banyak yang telah Yesus lakukan baginya.
+“Kembalilah ke rumahmu dan ceritakan betapa banyak yang telah Tuhan lakukan bagimu.” Maka pria itu pergi dan memberitakan di seluruh kota betapa banyak yang telah Yesus lakukan baginya.
 
 ---
 

@@ -50,7 +50,7 @@ Pergilah dan sampaikan pesan ini ke arah utara: 'Kembalilah, Israel yang tidak s
 
 ## Yeremia 3:13
 
-Hanya akuilah kesalahanmu—bahwa kamu telah memberontak melawan Tuhan Allahmu, menyebarkan kasihmu kepada dewa-dewa asing di bawah setiap pohon yang rimbun, dan tidak mematuhi suaraku,' firman Tuhan.
+Hanya akuilah kesalahanmu—bahwa kamu telah memberontak melawan Tuhan Tuhanmu, menyebarkan kasihmu kepada dewa-dewa asing di bawah setiap pohon yang rimbun, dan tidak mematuhi suaraku,' firman Tuhan.
 
 ## Yeremia 3:14
 
@@ -82,15 +82,15 @@ Tetapi seperti seorang wanita yang tidak setia kepada suaminya, demikianlah kamu
 
 ## Yeremia 3:21
 
-Suara terdengar di tempat-tempat tinggi yang tandus, tangisan dan permohonan dari bangsa Israel, karena mereka telah menyimpangkan jalan mereka dan melupakan Tuhan Allah mereka.
+Suara terdengar di tempat-tempat tinggi yang tandus, tangisan dan permohonan dari bangsa Israel, karena mereka telah menyimpangkan jalan mereka dan melupakan Tuhan Tuhan mereka.
 
 ## Yeremia 3:22
 
-"Kembalilah, orang-orang yang tidak setia; Aku akan menyembuhkan kemurtadanmu." "Ya, kami akan datang kepadamu, karena engkau adalah Tuhan Allah kami.
+"Kembalilah, orang-orang yang tidak setia; Aku akan menyembuhkan kemurtadanmu." "Ya, kami akan datang kepadamu, karena engkau adalah Tuhan Tuhan kami.
 
 ## Yeremia 3:23
 
-Sesungguhnya keributan di bukit-bukit dan gunung-gunung adalah tipuan; sungguh dalam Tuhan Allah kita adalah keselamatan Israel.
+Sesungguhnya keributan di bukit-bukit dan gunung-gunung adalah tipuan; sungguh dalam Tuhan Tuhan kita adalah keselamatan Israel.
 
 ## Yeremia 3:24
 
@@ -98,4 +98,4 @@ Sejak masa muda kami, dewa-dewa yang memalukan telah menghabiskan hasil kerja ne
 
 ## Yeremia 3:25
 
-Biarlah kami berbaring dalam rasa malu kami, dan biarlah aib kami menutupi kami. Kami telah berdosa terhadap Tuhan Allah kami, baik kami maupun nenek moyang kami; sejak masa muda kami hingga hari ini kami belum mematuhi suara Tuhan Allah kami."
+Biarlah kami berbaring dalam rasa malu kami, dan biarlah aib kami menutupi kami. Kami telah berdosa terhadap Tuhan Tuhan kami, baik kami maupun nenek moyang kami; sejak masa muda kami hingga hari ini kami belum mematuhi suara Tuhan Tuhan kami."

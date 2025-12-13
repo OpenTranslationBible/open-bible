@@ -10,7 +10,7 @@ Firman yang datang kepada Yeremia dari Tuhan:
 
 ## Yeremia 7:3
 
-Inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: Perbaikilah jalan-jalanmu dan perbuatanmu, maka Aku akan membiarkan kamu tinggal di tempat ini.
+Inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: Perbaikilah jalan-jalanmu dan perbuatanmu, maka Aku akan membiarkan kamu tinggal di tempat ini.
 
 ## Yeremia 7:4
 
@@ -22,7 +22,7 @@ Sebab jika kamu benar-benar memperbaiki jalan-jalanmu dan perbuatanmu, dan melak
 
 ## Yeremia 7:6
 
-jika kamu tidak menindas orang asing, anak yatim, atau janda, dan tidak menumpahkan darah orang yang tidak bersalah di tempat ini, atau mengikuti allah lain yang merugikan dirimu sendiri,
+jika kamu tidak menindas orang asing, anak yatim, atau janda, dan tidak menumpahkan darah orang yang tidak bersalah di tempat ini, atau mengikuti Tuhan lain yang merugikan dirimu sendiri,
 
 ## Yeremia 7:7
 
@@ -34,7 +34,7 @@ Lihatlah, kamu percaya pada kata-kata yang menipu yang tidak ada manfaatnya.
 
 ## Yeremia 7:9
 
-Apakah kamu akan mencuri, membunuh, berzina, bersumpah palsu, membakar dupa untuk Baal, dan mengikuti allah lain yang tidak kamu kenal,
+Apakah kamu akan mencuri, membunuh, berzina, bersumpah palsu, membakar dupa untuk Baal, dan mengikuti Tuhan lain yang tidak kamu kenal,
 
 ## Yeremia 7:10
 
@@ -70,7 +70,7 @@ Tidakkah engkau melihat apa yang mereka lakukan di kota-kota Yehuda? Atau di jal
 
 ## Yeremia 7:18
 
-Anak-anak mengumpulkan kayu, para ayah menyalakan api, dan para wanita menguleni adonan untuk membuat kue bagi ratu surga; dan mereka menuangkan persembahan minuman kepada allah lain untuk membangkitkan amarah-Ku.
+Anak-anak mengumpulkan kayu, para ayah menyalakan api, dan para wanita menguleni adonan untuk membuat kue bagi ratu surga; dan mereka menuangkan persembahan minuman kepada Tuhan lain untuk membangkitkan amarah-Ku.
 
 ## Yeremia 7:19
 
@@ -82,7 +82,7 @@ Oleh karena itu inilah yang dikatakan Tuhan Yang Mahakuasa: “Lihatlah, amarah-
 
 ## Yeremia 7:21
 
-Inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: “Tambahkanlah persembahan bakaranmu kepada korban-korbanmu dan makanlah dagingnya sendiri!
+Inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: “Tambahkanlah persembahan bakaranmu kepada korban-korbanmu dan makanlah dagingnya sendiri!
 
 ## Yeremia 7:22
 
@@ -90,7 +90,7 @@ Sebab ketika Aku membawa nenek moyangmu keluar dari Mesir, Aku tidak hanya membe
 
 ## Yeremia 7:23
 
-tetapi Aku memberikan perintah ini: Taatilah suara-Ku, dan Aku akan menjadi Allahmu dan kamu akan menjadi umat-Ku; dan berjalanlah dalam semua jalan yang Aku perintahkan kepadamu, agar baik keadaanmu.
+tetapi Aku memberikan perintah ini: Taatilah suara-Ku, dan Aku akan menjadi Tuhanmu dan kamu akan menjadi umat-Ku; dan berjalanlah dalam semua jalan yang Aku perintahkan kepadamu, agar baik keadaanmu.
 
 ## Yeremia 7:24
 
@@ -110,7 +110,7 @@ Tetapi mereka tidak mendengarkan Aku atau memperhatikan. Mereka mengeraskan lehe
 
 ## Yeremia 7:28
 
-Oleh karena itu katakanlah kepada mereka, ‘Inilah bangsa yang tidak menaati suara Tuhan Allah mereka atau menerima disiplin. Kebenaran telah lenyap; itu telah hilang dari bibir mereka.
+Oleh karena itu katakanlah kepada mereka, ‘Inilah bangsa yang tidak menaati suara Tuhan Tuhan mereka atau menerima disiplin. Kebenaran telah lenyap; itu telah hilang dari bibir mereka.
 
 ## Yeremia 7:29
 

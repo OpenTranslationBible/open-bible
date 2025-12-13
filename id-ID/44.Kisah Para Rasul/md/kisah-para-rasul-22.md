@@ -10,7 +10,7 @@ Ketika mereka mendengar dia berbicara kepada mereka dalam dialek Ibrani, mereka 
 
 ## Kisah Para Rasul 22:3
 
-“Aku adalah orang Yahudi, lahir di Tarsus di Kilikia, tetapi dibesarkan di kota ini. Aku dididik di bawah Gamaliel, dengan ketat menurut hukum nenek moyang kita, dengan bersemangat untuk Allah sama seperti kamu semua hari ini.
+“Aku adalah orang Yahudi, lahir di Tarsus di Kilikia, tetapi dibesarkan di kota ini. Aku dididik di bawah Gamaliel, dengan ketat menurut hukum nenek moyang kita, dengan bersemangat untuk Tuhan sama seperti kamu semua hari ini.
 
 ## Kisah Para Rasul 22:4
 
@@ -58,7 +58,7 @@ datang kepadaku, dan berdiri di dekatnya dia berkata kepadaku, ‘Saudara Saulus
 
 ## Kisah Para Rasul 22:14
 
-Dan dia berkata, ‘Allah nenek moyang kita telah menetapkan engkau untuk mengetahui kehendak-Nya dan untuk melihat Yang Benar dan untuk mendengar pesan dari mulut-Nya.
+Dan dia berkata, ‘Tuhan nenek moyang kita telah menetapkan engkau untuk mengetahui kehendak-Nya dan untuk melihat Yang Benar dan untuk mendengar pesan dari mulut-Nya.
 
 ## Kisah Para Rasul 22:15
 
@@ -72,7 +72,7 @@ Sekarang mengapa engkau menunda? Bangunlah, berilah dirimu dibaptis, dan basuhla
 
 ## Kisah Para Rasul 22:17
 
-“Ketika aku kembali ke Yerusalem dan sedang berdoa di bait Allah, aku jatuh ke dalam penglihatan,
+“Ketika aku kembali ke Yerusalem dan sedang berdoa di bait Tuhan, aku jatuh ke dalam penglihatan,
 
 ## Kisah Para Rasul 22:18
 

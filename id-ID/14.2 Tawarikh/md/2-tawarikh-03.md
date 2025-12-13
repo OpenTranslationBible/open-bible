@@ -17,7 +17,7 @@ Ia memulai pembangunan pada hari kedua bulan kedua dalam tahun keempat pemerinta
 
 ## 2 Tawarikh 3:3
 
-Inilah dasar-dasar yang diletakkan Salomo untuk membangun rumah Allah.
+Inilah dasar-dasar yang diletakkan Salomo untuk membangun rumah Tuhan.
 
 > Panjangnya dalam hasta, menurut ukuran lama, adalah enam puluh hasta,  
 > dan lebarnya dua puluh hasta.

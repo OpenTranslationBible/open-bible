@@ -1,242 +1,208 @@
 {
-    "book": "2 Tawarikh",
-    "chapter": 2,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Salomo merencanakan untuk membangun sebuah rumah bagi nama Tuhan,",
-                "> dan sebuah istana kerajaan untuk dirinya sendiri."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Jadi Salomo menugaskan tujuh puluh ribu orang untuk mengangkut beban,",
-                "> delapan puluh ribu orang untuk memahat batu di pegunungan,",
-                "> dan 3.600 pengawas untuk mengarahkan orang-orang."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Kemudian Salomo mengirim pesan kepada Huram, raja Tirus, mengatakan,",
-                "> \"Seperti engkau berurusan dengan ayahku Daud dan mengirimkan kayu aras kepadanya untuk membangun sebuah rumah untuk dia tinggali,",
-                "> lakukanlah hal yang sama untukku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Lihatlah, aku sedang membangun sebuah rumah bagi nama Tuhan Allahku,",
-                "> untuk menguduskannya kepada-Nya,",
-                "> untuk membakar dupa harum di hadapan-Nya,",
-                "> untuk mengatur roti sajian terus-menerus,",
-                "> dan untuk mempersembahkan korban bakaran pagi dan petang,",
-                "> pada hari Sabat, pada bulan baru, dan pada hari raya yang ditetapkan oleh Tuhan Allah kita.",
-                "> Ini harus dilakukan di Israel selamanya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Rumah yang aku berniat bangun akan megah,",
-                "> karena Allah kita lebih besar dari semua dewa lainnya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Namun, siapa yang mampu membangun rumah bagi-Nya,",
-                "> karena langit dan langit yang tertinggi tidak dapat menampung-Nya?",
-                "> Jadi siapakah aku, bahwa aku harus membangun rumah bagi-Nya,",
-                "> kecuali sebagai tempat untuk membakar dupa di hadapan-Nya?"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Sekarang kirimkanlah kepadaku seorang ahli yang terampil untuk bekerja dalam emas, perak, tembaga, besi, kain ungu, merah tua, dan kain ungu tua,",
-                "> dan yang tahu bagaimana mengukir,",
-                "> untuk bekerja dengan para pekerja terampil yang ada bersamaku di Yehuda dan Yerusalem,",
-                "> yang disediakan oleh ayahku Daud."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Juga kirimkanlah kepadaku kayu aras, kayu cemara, dan kayu algum dari Lebanon,",
-                "> karena aku tahu bahwa hamba-hambamu tahu bagaimana menebang kayu di Lebanon;",
-                "> dan memang hamba-hambaku akan bekerja dengan hamba-hambamu,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> untuk mempersiapkan kayu dalam jumlah banyak bagiku,",
-                "> karena rumah yang aku rencanakan untuk dibangun akan besar dan menakjubkan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Lihatlah, aku akan menyediakan bagi hamba-hambamu, para penebang kayu,",
-                "> dua puluh ribu kor gandum yang dihancurkan,",
-                "> dua puluh ribu kor jelai,",
-                "> dua puluh ribu bat anggur,",
-                "> dan dua puluh ribu bat minyak.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kemudian Huram, raja Tirus, menjawab dalam sebuah surat yang dikirim kepada Salomo:",
-                "> \"Karena Tuhan menyayangi umat-Nya,",
-                "> Dia telah menetapkan engkau sebagai raja mereka.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Huram juga berkata,",
-                "> \"Diberkatilah Tuhan, Allah Israel,",
-                "> yang membuat langit dan bumi,",
-                "> yang telah memberikan Raja Daud seorang anak yang bijaksana,",
-                "> yang diberkahi dengan kebijaksanaan dan pengertian,",
-                "> yang akan membangun sebuah rumah bagi Tuhan dan sebuah istana kerajaan untuk dirinya sendiri."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Aku sekarang mengirimkan Huram-abi, seorang pria terampil,",
-                "> yang diberkahi dengan pengertian,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> anak dari seorang wanita Dan dan ayah dari Tirus,",
-                "> yang tahu bagaimana bekerja dalam emas, perak, tembaga, besi, batu, dan kayu,",
-                "> dan dalam kain ungu, ungu tua, linen, dan kain merah tua,",
-                "> dan yang tahu bagaimana mengukir segala jenis ukiran,",
-                "> dan untuk melaksanakan desain apa pun yang ditugaskan kepadanya,",
-                "> untuk bekerja dengan para pekerja terampilmu dan dengan mereka dari tuanku Daud ayahmu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Sekarang, biarlah tuanku mengirimkan kepada hamba-hambanya gandum, jelai, minyak, dan anggur yang telah dia bicarakan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Kami akan menebang kayu apa pun yang engkau butuhkan dari Lebanon dan membawanya kepadamu dengan rakit melalui laut ke Yope,",
-                "> sehingga engkau dapat membawanya ke Yerusalem.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Kemudian Salomo menghitung semua orang asing yang ada di tanah Israel,",
-                "> mengikuti sensus yang telah diambil oleh ayahnya Daud;",
-                "> dan ditemukan 153.600 orang."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "> Dia menunjuk tujuh puluh ribu dari mereka untuk mengangkut beban,",
-                "> delapan puluh ribu untuk memahat batu di pegunungan,",
-                "> dan 3.600 pengawas untuk mengarahkan orang-orang yang melakukan pekerjaan itu."
-            ]
-        }
-    ]
+  "book": "2 Tawarikh",
+  "chapter": 2,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Salomo merencanakan untuk membangun sebuah rumah bagi nama Tuhan,",
+        "> dan sebuah istana kerajaan untuk dirinya sendiri."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Jadi Salomo menugaskan tujuh puluh ribu orang untuk mengangkut beban,",
+        "> delapan puluh ribu orang untuk memahat batu di pegunungan,",
+        "> dan 3.600 pengawas untuk mengarahkan orang-orang."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Kemudian Salomo mengirim pesan kepada Huram, raja Tirus, mengatakan,",
+        "> \"Seperti engkau berurusan dengan ayahku Daud dan mengirimkan kayu aras kepadanya untuk membangun sebuah rumah untuk dia tinggali,",
+        "> lakukanlah hal yang sama untukku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Lihatlah, aku sedang membangun sebuah rumah bagi nama Tuhan Tuhanku,",
+        "> untuk menguduskannya kepada-Nya,",
+        "> untuk membakar dupa harum di hadapan-Nya,",
+        "> untuk mengatur roti sajian terus-menerus,",
+        "> dan untuk mempersembahkan korban bakaran pagi dan petang,",
+        "> pada hari Sabat, pada bulan baru, dan pada hari raya yang ditetapkan oleh Tuhan Tuhan kita.",
+        "> Ini harus dilakukan di Israel selamanya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Rumah yang aku berniat bangun akan megah,",
+        "> karena Tuhan kita lebih besar dari semua dewa lainnya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Namun, siapa yang mampu membangun rumah bagi-Nya,",
+        "> karena langit dan langit yang tertinggi tidak dapat menampung-Nya?",
+        "> Jadi siapakah aku, bahwa aku harus membangun rumah bagi-Nya,",
+        "> kecuali sebagai tempat untuk membakar dupa di hadapan-Nya?"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Sekarang kirimkanlah kepadaku seorang ahli yang terampil untuk bekerja dalam emas, perak, tembaga, besi, kain ungu, merah tua, dan kain ungu tua,",
+        "> dan yang tahu bagaimana mengukir,",
+        "> untuk bekerja dengan para pekerja terampil yang ada bersamaku di Yehuda dan Yerusalem,",
+        "> yang disediakan oleh ayahku Daud."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Juga kirimkanlah kepadaku kayu aras, kayu cemara, dan kayu algum dari Lebanon,",
+        "> karena aku tahu bahwa hamba-hambamu tahu bagaimana menebang kayu di Lebanon;",
+        "> dan memang hamba-hambaku akan bekerja dengan hamba-hambamu,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> untuk mempersiapkan kayu dalam jumlah banyak bagiku,",
+        "> karena rumah yang aku rencanakan untuk dibangun akan besar dan menakjubkan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Lihatlah, aku akan menyediakan bagi hamba-hambamu, para penebang kayu,",
+        "> dua puluh ribu kor gandum yang dihancurkan,",
+        "> dua puluh ribu kor jelai,",
+        "> dua puluh ribu bat anggur,",
+        "> dan dua puluh ribu bat minyak.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Kemudian Huram, raja Tirus, menjawab dalam sebuah surat yang dikirim kepada Salomo:",
+        "> \"Karena Tuhan menyayangi umat-Nya,",
+        "> Dia telah menetapkan engkau sebagai raja mereka.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Huram juga berkata,",
+        "> \"Diberkatilah Tuhan, Tuhan Israel,",
+        "> yang membuat langit dan bumi,",
+        "> yang telah memberikan Raja Daud seorang anak yang bijaksana,",
+        "> yang diberkahi dengan kebijaksanaan dan pengertian,",
+        "> yang akan membangun sebuah rumah bagi Tuhan dan sebuah istana kerajaan untuk dirinya sendiri."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Aku sekarang mengirimkan Huram-abi, seorang pria terampil,",
+        "> yang diberkahi dengan pengertian,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> anak dari seorang wanita Dan dan ayah dari Tirus,",
+        "> yang tahu bagaimana bekerja dalam emas, perak, tembaga, besi, batu, dan kayu,",
+        "> dan dalam kain ungu, ungu tua, linen, dan kain merah tua,",
+        "> dan yang tahu bagaimana mengukir segala jenis ukiran,",
+        "> dan untuk melaksanakan desain apa pun yang ditugaskan kepadanya,",
+        "> untuk bekerja dengan para pekerja terampilmu dan dengan mereka dari tuanku Daud ayahmu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Sekarang, biarlah tuanku mengirimkan kepada hamba-hambanya gandum, jelai, minyak, dan anggur yang telah dia bicarakan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Kami akan menebang kayu apa pun yang engkau butuhkan dari Lebanon dan membawanya kepadamu dengan rakit melalui laut ke Yope,",
+        "> sehingga engkau dapat membawanya ke Yerusalem.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Kemudian Salomo menghitung semua orang asing yang ada di tanah Israel,",
+        "> mengikuti sensus yang telah diambil oleh ayahnya Daud;",
+        "> dan ditemukan 153.600 orang."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "> Dia menunjuk tujuh puluh ribu dari mereka untuk mengangkut beban,",
+        "> delapan puluh ribu untuk memahat batu di pegunungan,",
+        "> dan 3.600 pengawas untuk mengarahkan orang-orang yang melakukan pekerjaan itu."
+      ]
+    }
+  ]
 }

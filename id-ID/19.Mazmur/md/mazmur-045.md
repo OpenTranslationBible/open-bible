@@ -14,7 +14,7 @@
 
 > Engkau yang terelok di antara anak-anak manusia;  
 > Kasih karunia mengalir dari bibir-Mu;  
-> Oleh karena itu Allah telah memberkati Engkau untuk selama-lamanya.
+> Oleh karena itu Tuhan telah memberkati Engkau untuk selama-lamanya.
 
 ---
 
@@ -37,13 +37,13 @@
 
 ## Mazmur 45:6
 
-> Takhta-Mu, ya Allah, adalah untuk selama-lamanya;  
+> Takhta-Mu, ya Tuhan, adalah untuk selama-lamanya;  
 > Tongkat kerajaan-Mu adalah tongkat keadilan.
 
 ## Mazmur 45:7
 
 > Engkau mencintai kebenaran dan membenci kefasikan;  
-> Oleh karena itu Allah, Allah-Mu, telah mengurapi Engkau  
+> Oleh karena itu Tuhan, Tuhan-Mu, telah mengurapi Engkau  
 > Dengan minyak sukacita lebih dari teman-teman-Mu.
 
 ## Mazmur 45:8

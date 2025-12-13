@@ -2,11 +2,11 @@
 
 ## Amos 7:1
 
-Inilah yang diperlihatkan Tuhan Allah kepadaku: Dia sedang membentuk kawanan belalang tepat setelah panen raja dan ketika tanaman akhir mulai tumbuh.
+Inilah yang diperlihatkan Tuhan Tuhan kepadaku: Dia sedang membentuk kawanan belalang tepat setelah panen raja dan ketika tanaman akhir mulai tumbuh.
 
 ## Amos 7:2
 
-Ketika mereka telah menghabiskan tumbuh-tumbuhan di tanah itu, aku memohon, “Tuhan Allah, ampunilah! Bagaimana Yakub dapat bertahan? Dia begitu kecil!”
+Ketika mereka telah menghabiskan tumbuh-tumbuhan di tanah itu, aku memohon, “Tuhan Tuhan, ampunilah! Bagaimana Yakub dapat bertahan? Dia begitu kecil!”
 
 ## Amos 7:3
 
@@ -14,15 +14,15 @@ Tuhan berubah pikiran tentang hal ini. “Itu tidak akan terjadi,” kata Tuhan.
 
 ## Amos 7:4
 
-Inilah yang diperlihatkan Tuhan Allah kepadaku: Dia memanggil untuk penghakiman dengan api, yang mengeringkan samudera raya dan mulai melahap tanah itu.
+Inilah yang diperlihatkan Tuhan Tuhan kepadaku: Dia memanggil untuk penghakiman dengan api, yang mengeringkan samudera raya dan mulai melahap tanah itu.
 
 ## Amos 7:5
 
-Kemudian aku memohon, “Tuhan Allah, hentikanlah! Bagaimana Yakub dapat bertahan? Dia begitu kecil!”
+Kemudian aku memohon, “Tuhan Tuhan, hentikanlah! Bagaimana Yakub dapat bertahan? Dia begitu kecil!”
 
 ## Amos 7:6
 
-Tuhan berubah pikiran tentang hal ini. “Ini pun tidak akan terjadi,” kata Tuhan Allah.
+Tuhan berubah pikiran tentang hal ini. “Ini pun tidak akan terjadi,” kata Tuhan Tuhan.
 
 ## Amos 7:7
 

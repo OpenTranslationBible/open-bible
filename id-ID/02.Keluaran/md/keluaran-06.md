@@ -6,11 +6,11 @@ Kemudian Tuhan berkata kepada Musa, "Sekarang engkau akan menyaksikan apa yang a
 
 ## Keluaran 6:2
 
-Allah berbicara lebih lanjut kepada Musa, dengan berkata, "Akulah Tuhan.
+Tuhan berbicara lebih lanjut kepada Musa, dengan berkata, "Akulah Tuhan.
 
 ## Keluaran 6:3
 
-Aku menampakkan diri kepada Abraham, Ishak, dan Yakub sebagai Allah Yang Mahakuasa, tetapi dengan nama-Ku, Tuhan, Aku tidak membuat diri-Ku sepenuhnya dikenal oleh mereka.
+Aku menampakkan diri kepada Abraham, Ishak, dan Yakub sebagai Tuhan Yang Mahakuasa, tetapi dengan nama-Ku, Tuhan, Aku tidak membuat diri-Ku sepenuhnya dikenal oleh mereka.
 
 ## Keluaran 6:4
 
@@ -26,7 +26,7 @@ Karena itu, katakanlah kepada orang Israel: 'Akulah Tuhan, dan Aku akan membawa 
 
 ## Keluaran 6:7
 
-Aku akan mengambil kamu sebagai umat-Ku sendiri, dan Aku akan menjadi Allahmu. Kemudian kamu akan tahu bahwa Akulah Tuhan Allahmu, yang membawa kamu keluar dari beban orang Mesir.
+Aku akan mengambil kamu sebagai umat-Ku sendiri, dan Aku akan menjadi Tuhanmu. Kemudian kamu akan tahu bahwa Akulah Tuhan Tuhanmu, yang membawa kamu keluar dari beban orang Mesir.
 
 ## Keluaran 6:8
 

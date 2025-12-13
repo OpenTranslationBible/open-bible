@@ -14,7 +14,7 @@ Yesus menjawab mereka, "Belum pernahkah kamu membaca apa yang dilakukan Daud ket
 
 ## Lukas 6:4
 
-Ia masuk ke dalam rumah Allah, mengambil roti sajian, dan memakan apa yang hanya diperbolehkan untuk dimakan oleh para imam, dan ia juga memberikan sebagian kepada orang-orang yang menyertainya."
+Ia masuk ke dalam rumah Tuhan, mengambil roti sajian, dan memakan apa yang hanya diperbolehkan untuk dimakan oleh para imam, dan ia juga memberikan sebagian kepada orang-orang yang menyertainya."
 
 ## Lukas 6:5
 
@@ -50,7 +50,7 @@ Tetapi mereka dipenuhi dengan kemarahan dan mulai membicarakan satu sama lain ap
 
 ## Lukas 6:12
 
-Pada waktu itu, Yesus pergi ke sebuah bukit untuk berdoa, dan menghabiskan sepanjang malam dalam doa kepada Allah.
+Pada waktu itu, Yesus pergi ke sebuah bukit untuk berdoa, dan menghabiskan sepanjang malam dalam doa kepada Tuhan.
 
 ## Lukas 6:13
 
@@ -89,7 +89,7 @@ dan setiap orang berusaha menyentuh Dia, karena kuasa keluar dari Dia dan menyem
 Sambil memandang kepada murid-murid-Nya, Ia berkata:
 
 > "Berbahagialah kamu yang miskin,
-> karena milikmu adalah kerajaan Allah.
+> karena milikmu adalah kerajaan Tuhan.
 
 ## Lukas 6:21
 
@@ -166,7 +166,7 @@ Dan jika kamu meminjamkan kepada orang yang kamu harapkan akan membayar kembali,
 
 ## Lukas 6:35
 
-Tetapi kasihilah musuh-musuhmu, berbuatlah baik kepada mereka, dan pinjamkan tanpa mengharapkan balasan. Maka upahmu akan besar, dan kamu akan menjadi anak-anak Allah Yang Mahatinggi, karena Ia baik kepada orang-orang yang tidak tahu berterima kasih dan jahat.
+Tetapi kasihilah musuh-musuhmu, berbuatlah baik kepada mereka, dan pinjamkan tanpa mengharapkan balasan. Maka upahmu akan besar, dan kamu akan menjadi anak-anak Tuhan Yang Mahatinggi, karena Ia baik kepada orang-orang yang tidak tahu berterima kasih dan jahat.
 
 ## Lukas 6:36
 

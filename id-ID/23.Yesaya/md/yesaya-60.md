@@ -34,7 +34,7 @@ Siapakah ini yang terbang seperti awan, seperti burung merpati ke sarangnya?
 
 ## Yesaya 60:9
 
-Sesungguhnya, tanah-tanah pesisir menantikan Aku; kapal-kapal Tarsis berada di depan, membawa anak-anakmu dari jauh, dengan perak dan emas mereka, demi kehormatan Tuhan Allahmu, Yang Mahakudus dari Israel, karena Ia telah memuliakan engkau.
+Sesungguhnya, tanah-tanah pesisir menantikan Aku; kapal-kapal Tarsis berada di depan, membawa anak-anakmu dari jauh, dengan perak dan emas mereka, demi kehormatan Tuhan Tuhanmu, Yang Mahakudus dari Israel, karena Ia telah memuliakan engkau.
 
 ## Yesaya 60:10
 
@@ -74,7 +74,7 @@ Kekerasan tidak akan lagi terdengar di negerimu, atau kehancuran dan kebinasaan 
 
 ## Yesaya 60:19
 
-Matahari tidak akan lagi menjadi terangmu pada siang hari, atau sinar bulan bersinar atasmu; karena Tuhan akan menjadi terang abadi bagimu, dan Allahmu akan menjadi kemuliaanmu.
+Matahari tidak akan lagi menjadi terangmu pada siang hari, atau sinar bulan bersinar atasmu; karena Tuhan akan menjadi terang abadi bagimu, dan Tuhanmu akan menjadi kemuliaanmu.
 
 ## Yesaya 60:20
 

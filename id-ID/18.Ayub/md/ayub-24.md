@@ -60,7 +60,7 @@
 
 > Dari kota orang-orang mengerang,  
 > Dan jiwa-jiwa orang terluka berseru;  
-> Namun Allah tidak mengindahkan kejahatan itu.
+> Namun Tuhan tidak mengindahkan kejahatan itu.
 
 ---
 

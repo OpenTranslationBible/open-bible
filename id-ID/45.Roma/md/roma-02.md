@@ -6,19 +6,19 @@ Karena itu, tidak ada alasan bagimu, siapapun kamu, ketika kamu menghakimi orang
 
 ## Roma 2:2
 
-Dan kita tahu bahwa penghakiman Allah terhadap mereka yang melakukan hal-hal tersebut adalah sesuai dengan kebenaran.
+Dan kita tahu bahwa penghakiman Tuhan terhadap mereka yang melakukan hal-hal tersebut adalah sesuai dengan kebenaran.
 
 ## Roma 2:3
 
-Jadi ketika kamu, seorang manusia biasa, menghakimi mereka dan tetap melakukan hal yang sama, apakah kamu berpikir bahwa kamu akan luput dari penghakiman Allah?
+Jadi ketika kamu, seorang manusia biasa, menghakimi mereka dan tetap melakukan hal yang sama, apakah kamu berpikir bahwa kamu akan luput dari penghakiman Tuhan?
 
 ## Roma 2:4
 
-Atau apakah kamu mengabaikan kekayaan kebaikan-Nya, kesabaran, dan kelapangan hati-Nya, tanpa menyadari bahwa kebaikan Allah dimaksudkan untuk membawamu kepada pertobatan?
+Atau apakah kamu mengabaikan kekayaan kebaikan-Nya, kesabaran, dan kelapangan hati-Nya, tanpa menyadari bahwa kebaikan Tuhan dimaksudkan untuk membawamu kepada pertobatan?
 
 ## Roma 2:5
 
-Tetapi karena kekerasan hatimu dan hatimu yang tidak bertobat, kamu menimbun murka bagi dirimu sendiri pada hari murka ketika penghakiman Allah yang benar akan dinyatakan.
+Tetapi karena kekerasan hatimu dan hatimu yang tidak bertobat, kamu menimbun murka bagi dirimu sendiri pada hari murka ketika penghakiman Tuhan yang benar akan dinyatakan.
 
 ## Roma 2:6
 
@@ -42,7 +42,7 @@ tetapi kemuliaan, kehormatan, dan damai sejahtera bagi setiap orang yang melakuk
 
 ## Roma 2:11
 
-Karena Allah tidak memandang muka.
+Karena Tuhan tidak memandang muka.
 
 ---
 
@@ -52,7 +52,7 @@ Setiap orang yang telah berbuat dosa tanpa Hukum Taurat juga akan binasa tanpa H
 
 ## Roma 2:13
 
-Karena bukan mereka yang hanya mendengar Hukum Taurat yang benar di mata Allah, tetapi mereka yang melakukan Hukum Taurat akan dibenarkan.
+Karena bukan mereka yang hanya mendengar Hukum Taurat yang benar di mata Tuhan, tetapi mereka yang melakukan Hukum Taurat akan dibenarkan.
 
 ## Roma 2:14
 
@@ -64,13 +64,13 @@ Mereka menunjukkan bahwa tuntutan Hukum Taurat tertulis di hati mereka, hati nur
 
 ## Roma 2:16
 
-Hal ini akan terjadi pada hari ketika Allah menghakimi rahasia-rahasia manusia melalui Kristus Yesus, seperti yang dinyatakan dalam injilku.
+Hal ini akan terjadi pada hari ketika Tuhan menghakimi rahasia-rahasia manusia melalui Kristus Yesus, seperti yang dinyatakan dalam injilku.
 
 ---
 
 ## Roma 2:17
 
-Sekarang jika kamu mengidentifikasi diri sebagai orang Yahudi dan mengandalkan Hukum Taurat serta bermegah dalam Allah,
+Sekarang jika kamu mengidentifikasi diri sebagai orang Yahudi dan mengandalkan Hukum Taurat serta bermegah dalam Tuhan,
 
 ## Roma 2:18
 
@@ -94,11 +94,11 @@ Kamu yang mengatakan bahwa orang tidak boleh berzina, apakah kamu berzina? Kamu 
 
 ## Roma 2:23
 
-Kamu yang bermegah dalam Hukum Taurat, apakah kamu menghina Allah dengan melanggar Hukum Taurat?
+Kamu yang bermegah dalam Hukum Taurat, apakah kamu menghina Tuhan dengan melanggar Hukum Taurat?
 
 ## Roma 2:24
 
-Seperti yang tertulis: "Karena kamu, nama Allah dihujat di antara orang-orang bukan Yahudi."
+Seperti yang tertulis: "Karena kamu, nama Tuhan dihujat di antara orang-orang bukan Yahudi."
 
 ---
 
@@ -120,4 +120,4 @@ Seseorang bukanlah orang Yahudi yang hanya secara lahiriah, juga sunat bukan han
 
 ## Roma 2:29
 
-Tidak, seseorang adalah orang Yahudi yang secara batiniah; dan sunat adalah sunat hati, oleh Roh, bukan oleh huruf. Pujian orang seperti itu bukan dari manusia, tetapi dari Allah.
+Tidak, seseorang adalah orang Yahudi yang secara batiniah; dan sunat adalah sunat hati, oleh Roh, bukan oleh huruf. Pujian orang seperti itu bukan dari manusia, tetapi dari Tuhan.

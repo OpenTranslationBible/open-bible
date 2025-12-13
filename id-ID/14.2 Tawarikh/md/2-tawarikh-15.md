@@ -2,7 +2,7 @@
 
 ## 2 Tawarikh 15:1
 
-Roh Allah turun ke atas Azarya, anak Oded,
+Roh Tuhan turun ke atas Azarya, anak Oded,
 
 ---
 
@@ -14,13 +14,13 @@ Ia mendekati Asa dan berkata, "Dengarlah aku, Asa, dan seluruh Yehuda dan Benyam
 
 ## 2 Tawarikh 15:3
 
-Untuk waktu yang lama, Israel tanpa Allah yang benar, tanpa imam pengajar, dan tanpa Hukum.
+Untuk waktu yang lama, Israel tanpa Tuhan yang benar, tanpa imam pengajar, dan tanpa Hukum.
 
 ---
 
 ## 2 Tawarikh 15:4
 
-Namun dalam kesesakan mereka, mereka berbalik kepada Tuhan Allah Israel, dan mereka mencari-Nya, dan Dia membiarkan mereka menemukan-Nya.
+Namun dalam kesesakan mereka, mereka berbalik kepada Tuhan Tuhan Israel, dan mereka mencari-Nya, dan Dia membiarkan mereka menemukan-Nya.
 
 ---
 
@@ -32,7 +32,7 @@ Pada masa-masa itu, tidak ada kedamaian bagi mereka yang keluar atau masuk, kare
 
 ## 2 Tawarikh 15:6
 
-Bangsa bertarung melawan bangsa, dan kota melawan kota, karena Allah mengganggu mereka dengan berbagai jenis kesesakan.
+Bangsa bertarung melawan bangsa, dan kota melawan kota, karena Tuhan mengganggu mereka dengan berbagai jenis kesesakan.
 
 ---
 
@@ -50,7 +50,7 @@ Ketika Asa mendengar kata-kata ini dan nubuat Azarya anak Oded nabi, ia berani d
 
 ## 2 Tawarikh 15:9
 
-Dan ia mengumpulkan seluruh Yehuda dan Benyamin, dan mereka dari Efraim, Manasye, dan Simeon yang tinggal bersama mereka, karena banyak yang membelot kepadanya dari Israel ketika mereka melihat bahwa Tuhan Allahnya menyertainya.
+Dan ia mengumpulkan seluruh Yehuda dan Benyamin, dan mereka dari Efraim, Manasye, dan Simeon yang tinggal bersama mereka, karena banyak yang membelot kepadanya dari Israel ketika mereka melihat bahwa Tuhan Tuhannya menyertainya.
 
 ---
 
@@ -68,13 +68,13 @@ Mereka mempersembahkan kepada Tuhan pada hari itu tujuh ratus lembu dan tujuh ri
 
 ## 2 Tawarikh 15:12
 
-Mereka membuat perjanjian untuk mencari Tuhan Allah nenek moyang mereka dengan segenap hati dan jiwa mereka;
+Mereka membuat perjanjian untuk mencari Tuhan Tuhan nenek moyang mereka dengan segenap hati dan jiwa mereka;
 
 ---
 
 ## 2 Tawarikh 15:13
 
-dan mereka yang tidak mencari Tuhan Allah Israel menghadapi konsekuensi berat, tanpa memandang status atau jenis kelamin.
+dan mereka yang tidak mencari Tuhan Tuhan Israel menghadapi konsekuensi berat, tanpa memandang status atau jenis kelamin.
 
 ---
 
@@ -104,7 +104,7 @@ Tetapi bukit-bukit pengorbanan tidak dihapuskan dari Israel; namun demikian, hat
 
 ## 2 Tawarikh 15:18
 
-Dan ia membawa ke dalam rumah Allah barang-barang kudus milik ayahnya dan barang-barang kudus miliknya sendiri: perak, emas, dan peralatan.
+Dan ia membawa ke dalam rumah Tuhan barang-barang kudus milik ayahnya dan barang-barang kudus miliknya sendiri: perak, emas, dan peralatan.
 
 ---
 

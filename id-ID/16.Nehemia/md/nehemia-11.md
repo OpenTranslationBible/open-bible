@@ -52,7 +52,7 @@ Di antara para imam ada Yedaya anak Yoyarib, dan Yakin;
 
 ## Nehemia 11:11
 
-Seraya anak Hilkia, anak Mesulam, anak Zadok, anak Merayot, anak Ahitub, pejabat yang bertanggung jawab atas rumah Allah,
+Seraya anak Hilkia, anak Mesulam, anak Zadok, anak Merayot, anak Ahitub, pejabat yang bertanggung jawab atas rumah Tuhan,
 
 ## Nehemia 11:12
 
@@ -72,7 +72,7 @@ Di antara orang Lewi ada Semaya, keturunan Hasub, anak Azrikam, anak Hasabya, an
 
 ## Nehemia 11:16
 
-Sabetai dan Yozabad, pemimpin di antara orang Lewi, yang bertanggung jawab atas pekerjaan luar rumah Allah;
+Sabetai dan Yozabad, pemimpin di antara orang Lewi, yang bertanggung jawab atas pekerjaan luar rumah Tuhan;
 
 ## Nehemia 11:17
 
@@ -96,7 +96,7 @@ Para pelayan bait tinggal di bukit Ofel, dengan Ziha dan Gispa mengawasi mereka.
 
 ## Nehemia 11:22
 
-Kepala orang Lewi di Yerusalem adalah Uzi anak Bani, anak Hasabya, anak Matanya, anak Mika, dari keturunan Asaf, yang adalah para penyanyi yang bertanggung jawab atas pelayanan rumah Allah.
+Kepala orang Lewi di Yerusalem adalah Uzi anak Bani, anak Hasabya, anak Matanya, anak Mika, dari keturunan Asaf, yang adalah para penyanyi yang bertanggung jawab atas pelayanan rumah Tuhan.
 
 ## Nehemia 11:23
 

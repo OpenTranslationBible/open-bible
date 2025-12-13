@@ -8,7 +8,7 @@
 ## Mazmur 91:2
 
 > Aku akan berkata tentang Tuhan, “Engkaulah tempat perlindunganku dan bentengku,  
-> Allahku, yang kepadanya aku menaruh kepercayaanku!”
+> Tuhanku, yang kepadanya aku menaruh kepercayaanku!”
 
 ---
 

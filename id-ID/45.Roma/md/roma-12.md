@@ -2,15 +2,15 @@
 
 ## Roma 12:1
 
-Karena itu, saudara-saudara, demi kemurahan Allah, aku menasihatkan kamu untuk mempersembahkan tubuhmu sebagai persembahan yang hidup, kudus, dan berkenan kepada Allah—itulah ibadahmu yang sejati dan rohani.
+Karena itu, saudara-saudara, demi kemurahan Tuhan, aku menasihatkan kamu untuk mempersembahkan tubuhmu sebagai persembahan yang hidup, kudus, dan berkenan kepada Tuhan—itulah ibadahmu yang sejati dan rohani.
 
 ## Roma 12:2
 
-Janganlah kamu menjadi serupa dengan dunia ini, tetapi berubahlah oleh pembaharuan budimu, sehingga kamu dapat membedakan manakah kehendak Allah—apa yang baik, yang berkenan, dan yang sempurna.
+Janganlah kamu menjadi serupa dengan dunia ini, tetapi berubahlah oleh pembaharuan budimu, sehingga kamu dapat membedakan manakah kehendak Tuhan—apa yang baik, yang berkenan, dan yang sempurna.
 
 ## Roma 12:3
 
-Berdasarkan kasih karunia yang dianugerahkan kepadaku, aku berkata kepada setiap orang di antara kamu: Janganlah kamu memikirkan dirimu lebih tinggi dari yang seharusnya, tetapi hendaklah berpikir dengan bijaksana, sesuai dengan ukuran iman yang dikaruniakan Allah kepada masing-masing orang.
+Berdasarkan kasih karunia yang dianugerahkan kepadaku, aku berkata kepada setiap orang di antara kamu: Janganlah kamu memikirkan dirimu lebih tinggi dari yang seharusnya, tetapi hendaklah berpikir dengan bijaksana, sesuai dengan ukuran iman yang dikaruniakan Tuhan kepada masing-masing orang.
 
 ## Roma 12:4
 
@@ -74,7 +74,7 @@ Sedapat-dapatnya, jika hal itu bergantung padamu, hiduplah dalam perdamaian deng
 
 ## Roma 12:19
 
-Janganlah kamu sendiri menuntut pembalasan, saudara-saudaraku yang kekasih, tetapi berilah tempat kepada murka Allah, sebab ada tertulis: “Pembalasan adalah hak-Ku; Akulah yang akan menuntut pembalasan,” firman Tuhan.
+Janganlah kamu sendiri menuntut pembalasan, saudara-saudaraku yang kekasih, tetapi berilah tempat kepada murka Tuhan, sebab ada tertulis: “Pembalasan adalah hak-Ku; Akulah yang akan menuntut pembalasan,” firman Tuhan.
 
 ## Roma 12:20
 

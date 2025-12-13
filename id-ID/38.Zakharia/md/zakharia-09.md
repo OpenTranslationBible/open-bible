@@ -41,7 +41,7 @@ Pesan
 
 > Dan Aku akan mengambil darah dari mulut mereka  
 > Dan kekejian mereka dari antara gigi mereka.  
-> Kemudian mereka juga akan menjadi milik Allah kita,  
+> Kemudian mereka juga akan menjadi milik Tuhan kita,  
 > Dan menjadi seperti keluarga di Yehuda,  
 > Dan Ekron seperti orang Yebus.
 
@@ -91,7 +91,7 @@ Pesan
 
 > Kemudian Tuhan akan muncul di atas mereka,  
 > Dan anak panah-Nya akan melesat seperti kilat;  
-> Dan Tuhan Allah akan membunyikan sangkakala,  
+> Dan Tuhan Tuhan akan membunyikan sangkakala,  
 > Dan maju dalam angin badai dari selatan.
 
 ## Zakharia 9:15
@@ -104,7 +104,7 @@ Pesan
 
 ## Zakharia 9:16
 
-> Dan Tuhan Allah mereka akan menyelamatkan mereka pada hari itu  
+> Dan Tuhan Tuhan mereka akan menyelamatkan mereka pada hari itu  
 > Sebagai kawanan umat-Nya;  
 > Karena mereka seperti batu permata mahkota,  
 > Berkilauan di tanah-Nya.

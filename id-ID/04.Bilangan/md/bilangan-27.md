@@ -62,7 +62,7 @@ Musa kemudian berbicara kepada Tuhan,
 
 ## Bilangan 27:16
 
-“Semoga Tuhan, Allah yang memberi hidup kepada semua, mengangkat seorang pemimpin atas umat ini,
+“Semoga Tuhan, Tuhan yang memberi hidup kepada semua, mengangkat seorang pemimpin atas umat ini,
 
 ## Bilangan 27:17
 

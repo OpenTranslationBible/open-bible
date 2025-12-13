@@ -134,7 +134,7 @@ Ketika mereka mulai bertunas, kamu dapat melihat sendiri dan mengetahui bahwa mu
 
 ## Lukas 21:31
 
-Demikian juga, ketika kamu melihat hal-hal ini terjadi, ketahuilah bahwa kerajaan Allah sudah dekat.
+Demikian juga, ketika kamu melihat hal-hal ini terjadi, ketahuilah bahwa kerajaan Tuhan sudah dekat.
 
 ## Lukas 21:32
 

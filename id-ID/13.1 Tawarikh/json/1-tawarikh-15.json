@@ -1,358 +1,286 @@
 {
-    "book": "1 Tawarikh",
-    "chapter": 15,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Daud membangun rumah-rumah untuk dirinya di kota Daud;",
-                "dan dia menyiapkan tempat untuk tabut Allah,",
-                "> dan mendirikan sebuah kemah untuk itu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Kemudian Daud menyatakan,",
-                "> “Tidak seorang pun boleh mengangkut tabut Allah kecuali orang Lewi,",
-                "> karena Tuhan telah memilih mereka untuk mengangkat tabut Tuhan",
-                "> dan melayani-Nya selamanya.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Daud mengumpulkan seluruh Israel di Yerusalem",
-                "untuk membawa tabut Tuhan ke tempat yang telah disiapkannya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Daud memanggil anak-anak Harun dan orang Lewi:"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Dari keturunan Kehat: Uriel pemimpin, bersama 120 saudara-saudaranya;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Dari keturunan Merari: Asaia pemimpin, bersama 220 saudara-saudaranya;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Dari keturunan Gerson: Yoel pemimpin, bersama 130 saudara-saudaranya;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Dari keturunan Elizafan: Semaya pemimpin, bersama 200 saudara-saudaranya;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Dari keturunan Hebron: Eliel pemimpin, bersama 80 saudara-saudaranya;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Dari keturunan Uziel: Aminadab pemimpin, bersama 112 saudara-saudaranya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kemudian Daud memanggil imam-imam Zadok dan Abyatar,",
-                "dan orang Lewi:",
-                "> Uriel, Asaia, Yoel, Semaya, Eliel, dan Aminadab,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "dan berkata kepada mereka,",
-                "> “Kalian adalah kepala-kepala keluarga leluhur orang Lewi;",
-                "> kuduskanlah dirimu, kamu dan saudara-saudaramu,",
-                "> supaya kamu dapat membawa tabut Tuhan Allah Israel",
-                "> ke tempat yang telah kusiapkan untuk itu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Karena kamu tidak mengangkutnya pada awalnya,",
-                "> Tuhan Allah kita membuat ledakan atas kita,",
-                "> karena kita tidak mencari-Nya sesuai dengan ketetapan.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Maka, imam-imam dan orang Lewi menguduskan diri mereka",
-                "untuk membawa tabut Tuhan Allah Israel."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Dan anak-anak orang Lewi mengangkut tabut Allah di atas bahu mereka dengan tongkat di atasnya,",
-                "> seperti yang diperintahkan Musa sesuai dengan firman Tuhan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Kemudian Daud berbicara kepada para pemimpin orang Lewi",
-                "> untuk menunjuk saudara-saudara mereka sebagai penyanyi,",
-                "> dengan alat musik, kecapi, gambus, dan ceracap,",
-                "> untuk mengangkat suara mereka dengan sukacita."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Jadi orang Lewi memilih:",
-                "> Heman anak Yoel,",
-                "> dan dari saudara-saudaranya Asaf anak Berekhya,",
-                "> dan dari anak-anak Merari saudara-saudara mereka, Etan anak Kusaya;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "dan bersama mereka saudara-saudara mereka dari tingkat kedua:",
-                "> Zakharia, Yaaziel, Semiramot, Yehiel, Uni, Eliab, Benaya, Maaseya, Matica, Elifelehu, Mikneya, Obed-Edom, dan Yeiel, para penjaga pintu gerbang."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Maka, para penyanyi, Heman, Asaf, dan Etan ditunjuk",
-                "> untuk membunyikan ceracap perunggu dengan keras;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "dan Zakharia, Aziel, Semiramot, Yehiel, Uni, Eliab, Maaseya, dan Benaya",
-                "> dengan kecapi yang disetel dengan nada alamot;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "dan Matica, Elifelehu, Mikneya, Obed-Edom, Yeiel, dan Azazia",
-                "> dengan gambus yang disetel dengan nada syeminith, untuk memimpin nyanyian."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Kenania, kepala orang Lewi, bertanggung jawab atas nyanyian;",
-                "> dia memberikan instruksi dalam bernyanyi karena dia terampil."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Dan Berekhya dan Elkana bertugas sebagai penjaga pintu gerbang untuk tabut."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Dan imam-imam Sebanya, Yosafat, Netanel, Amasai, Zakharia, Benaya, dan Eliezer",
-                "> meniup terompet di depan tabut Allah.",
-                "> Dan Obed-Edom dan Yehiya juga adalah penjaga pintu gerbang untuk tabut."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Maka, Daud, bersama para tua-tua Israel dan para pemimpin atas ribuan,",
-                "pergi untuk membawa tabut perjanjian Tuhan",
-                "> dari rumah Obed-Edom dengan sukacita."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Dan karena Allah membantu orang Lewi yang mengangkut tabut perjanjian Tuhan,",
-                "> mereka mempersembahkan tujuh lembu jantan dan tujuh domba jantan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Sekarang Daud mengenakan jubah dari kain lenan halus bersama semua orang Lewi",
-                "yang mengangkut tabut, dan para penyanyi dan Kenania pemimpin nyanyian dengan para penyanyi.",
-                "> Daud juga mengenakan efod dari kain lenan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Maka seluruh Israel membawa tabut perjanjian Tuhan dengan sorak-sorai,",
-                "> dan dengan bunyi tanduk, dengan terompet, dengan ceracap yang berbunyi keras,",
-                "> dengan kecapi dan gambus."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "Dan ketika tabut perjanjian Tuhan tiba di kota Daud,",
-                "Mikhal anak perempuan Saul melihat dari jendela dan melihat Raja Daud melompat-lompat dan merayakan;",
-                "> dan dia membencinya dalam hatinya."
-            ]
-        }
-    ]
+  "book": "1 Tawarikh",
+  "chapter": 15,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Daud membangun rumah-rumah untuk dirinya di kota Daud;",
+        "dan dia menyiapkan tempat untuk tabut Tuhan,",
+        "> dan mendirikan sebuah kemah untuk itu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Kemudian Daud menyatakan,",
+        "> “Tidak seorang pun boleh mengangkut tabut Tuhan kecuali orang Lewi,",
+        "> karena Tuhan telah memilih mereka untuk mengangkat tabut Tuhan",
+        "> dan melayani-Nya selamanya.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Daud mengumpulkan seluruh Israel di Yerusalem",
+        "untuk membawa tabut Tuhan ke tempat yang telah disiapkannya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": ["Daud memanggil anak-anak Harun dan orang Lewi:"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": ["> Dari keturunan Kehat: Uriel pemimpin, bersama 120 saudara-saudaranya;"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": ["> Dari keturunan Merari: Asaia pemimpin, bersama 220 saudara-saudaranya;"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": ["> Dari keturunan Gerson: Yoel pemimpin, bersama 130 saudara-saudaranya;"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": ["> Dari keturunan Elizafan: Semaya pemimpin, bersama 200 saudara-saudaranya;"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": ["> Dari keturunan Hebron: Eliel pemimpin, bersama 80 saudara-saudaranya;"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": ["> Dari keturunan Uziel: Aminadab pemimpin, bersama 112 saudara-saudaranya."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Kemudian Daud memanggil imam-imam Zadok dan Abyatar,",
+        "dan orang Lewi:",
+        "> Uriel, Asaia, Yoel, Semaya, Eliel, dan Aminadab,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "dan berkata kepada mereka,",
+        "> “Kalian adalah kepala-kepala keluarga leluhur orang Lewi;",
+        "> kuduskanlah dirimu, kamu dan saudara-saudaramu,",
+        "> supaya kamu dapat membawa tabut Tuhan Tuhan Israel",
+        "> ke tempat yang telah kusiapkan untuk itu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Karena kamu tidak mengangkutnya pada awalnya,",
+        "> Tuhan Tuhan kita membuat ledakan atas kita,",
+        "> karena kita tidak mencari-Nya sesuai dengan ketetapan.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Maka, imam-imam dan orang Lewi menguduskan diri mereka",
+        "untuk membawa tabut Tuhan Tuhan Israel."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Dan anak-anak orang Lewi mengangkut tabut Tuhan di atas bahu mereka dengan tongkat di atasnya,",
+        "> seperti yang diperintahkan Musa sesuai dengan firman Tuhan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Kemudian Daud berbicara kepada para pemimpin orang Lewi",
+        "> untuk menunjuk saudara-saudara mereka sebagai penyanyi,",
+        "> dengan alat musik, kecapi, gambus, dan ceracap,",
+        "> untuk mengangkat suara mereka dengan sukacita."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Jadi orang Lewi memilih:",
+        "> Heman anak Yoel,",
+        "> dan dari saudara-saudaranya Asaf anak Berekhya,",
+        "> dan dari anak-anak Merari saudara-saudara mereka, Etan anak Kusaya;"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "dan bersama mereka saudara-saudara mereka dari tingkat kedua:",
+        "> Zakharia, Yaaziel, Semiramot, Yehiel, Uni, Eliab, Benaya, Maaseya, Matica, Elifelehu, Mikneya, Obed-Edom, dan Yeiel, para penjaga pintu gerbang."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Maka, para penyanyi, Heman, Asaf, dan Etan ditunjuk",
+        "> untuk membunyikan ceracap perunggu dengan keras;"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "dan Zakharia, Aziel, Semiramot, Yehiel, Uni, Eliab, Maaseya, dan Benaya",
+        "> dengan kecapi yang disetel dengan nada alamot;"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "dan Matica, Elifelehu, Mikneya, Obed-Edom, Yeiel, dan Azazia",
+        "> dengan gambus yang disetel dengan nada syeminith, untuk memimpin nyanyian."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Kenania, kepala orang Lewi, bertanggung jawab atas nyanyian;",
+        "> dia memberikan instruksi dalam bernyanyi karena dia terampil."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 23,
+      "text": ["Dan Berekhya dan Elkana bertugas sebagai penjaga pintu gerbang untuk tabut."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Dan imam-imam Sebanya, Yosafat, Netanel, Amasai, Zakharia, Benaya, dan Eliezer",
+        "> meniup terompet di depan tabut Tuhan.",
+        "> Dan Obed-Edom dan Yehiya juga adalah penjaga pintu gerbang untuk tabut."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Maka, Daud, bersama para tua-tua Israel dan para pemimpin atas ribuan,",
+        "pergi untuk membawa tabut perjanjian Tuhan",
+        "> dari rumah Obed-Edom dengan sukacita."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Dan karena Tuhan membantu orang Lewi yang mengangkut tabut perjanjian Tuhan,",
+        "> mereka mempersembahkan tujuh lembu jantan dan tujuh domba jantan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Sekarang Daud mengenakan jubah dari kain lenan halus bersama semua orang Lewi",
+        "yang mengangkut tabut, dan para penyanyi dan Kenania pemimpin nyanyian dengan para penyanyi.",
+        "> Daud juga mengenakan efod dari kain lenan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Maka seluruh Israel membawa tabut perjanjian Tuhan dengan sorak-sorai,",
+        "> dan dengan bunyi tanduk, dengan terompet, dengan ceracap yang berbunyi keras,",
+        "> dengan kecapi dan gambus."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Dan ketika tabut perjanjian Tuhan tiba di kota Daud,",
+        "Mikhal anak perempuan Saul melihat dari jendela dan melihat Raja Daud melompat-lompat dan merayakan;",
+        "> dan dia membencinya dalam hatinya."
+      ]
+    }
+  ]
 }

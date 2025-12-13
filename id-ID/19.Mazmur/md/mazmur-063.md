@@ -4,7 +4,7 @@
 
 ## Mazmur 63:1
 
-> Ya Allah, Engkaulah Allahku; aku akan mencari Engkau;  
+> Ya Tuhan, Engkaulah Tuhanku; aku akan mencari Engkau;  
 > Jiwaku haus akan Engkau, tubuhku rindu kepada-Mu,  
 > Di tanah yang kering dan tandus, di mana tidak ada air.
 
@@ -61,6 +61,6 @@
 
 ## Mazmur 63:11
 
-> Namun, raja akan bersukacita di dalam Allah;  
+> Namun, raja akan bersukacita di dalam Tuhan;  
 > Setiap orang yang bersumpah demi Dia akan bermegah,  
 > Karena mulut orang-orang yang berbicara dusta akan dibungkam.

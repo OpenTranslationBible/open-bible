@@ -2,7 +2,7 @@
 
 ## 2 Korintus 5:1
 
-Karena kita tahu bahwa jika tempat tinggal kita di bumi ini, yang adalah rumah kita, dibongkar, kita memiliki bangunan dari Allah, sebuah rumah yang tidak dibuat oleh tangan manusia, kekal di surga.
+Karena kita tahu bahwa jika tempat tinggal kita di bumi ini, yang adalah rumah kita, dibongkar, kita memiliki bangunan dari Tuhan, sebuah rumah yang tidak dibuat oleh tangan manusia, kekal di surga.
 
 ## 2 Korintus 5:2
 
@@ -18,7 +18,7 @@ Karena sesungguhnya, kita yang berada dalam tempat tinggal ini mengeluh, merasa 
 
 ## 2 Korintus 5:5
 
-Sekarang Allah yang telah mempersiapkan kita untuk tujuan ini, yang telah memberikan kita Roh sebagai jaminan.
+Sekarang Tuhan yang telah mempersiapkan kita untuk tujuan ini, yang telah memberikan kita Roh sebagai jaminan.
 
 ## 2 Korintus 5:6
 
@@ -42,7 +42,7 @@ Karena kita semua harus tampil di hadapan kursi pengadilan Kristus, sehingga set
 
 ## 2 Korintus 5:11
 
-Oleh karena itu, mengetahui rasa hormat kepada Tuhan, kita membujuk orang, tetapi kita sepenuhnya dikenal oleh Allah; dan saya berharap bahwa kita juga sepenuhnya dikenal dalam hati nurani Anda.
+Oleh karena itu, mengetahui rasa hormat kepada Tuhan, kita membujuk orang, tetapi kita sepenuhnya dikenal oleh Tuhan; dan saya berharap bahwa kita juga sepenuhnya dikenal dalam hati nurani Anda.
 
 ## 2 Korintus 5:12
 
@@ -50,7 +50,7 @@ Kami tidak merekomendasikan diri kami kepada Anda lagi, tetapi memberikan Anda k
 
 ## 2 Korintus 5:13
 
-Karena jika kami tampak kehilangan akal, itu untuk Allah; jika kami berpikiran sehat, itu untuk Anda.
+Karena jika kami tampak kehilangan akal, itu untuk Tuhan; jika kami berpikiran sehat, itu untuk Anda.
 
 ## 2 Korintus 5:14
 
@@ -70,16 +70,16 @@ Oleh karena itu jika ada orang di dalam Kristus, orang itu adalah ciptaan baru; 
 
 ## 2 Korintus 5:18
 
-Sekarang semua hal ini berasal dari Allah, yang mendamaikan kita dengan diri-Nya melalui Kristus dan mempercayakan kita dengan pelayanan pendamaian,
+Sekarang semua hal ini berasal dari Tuhan, yang mendamaikan kita dengan diri-Nya melalui Kristus dan mempercayakan kita dengan pelayanan pendamaian,
 
 ## 2 Korintus 5:19
 
-Yaitu, Allah ada di dalam Kristus mendamaikan dunia dengan diri-Nya, tidak memperhitungkan kesalahan mereka terhadap mereka, dan Dia telah mempercayakan kepada kita pesan pendamaian.
+Yaitu, Tuhan ada di dalam Kristus mendamaikan dunia dengan diri-Nya, tidak memperhitungkan kesalahan mereka terhadap mereka, dan Dia telah mempercayakan kepada kita pesan pendamaian.
 
 ## 2 Korintus 5:20
 
-Oleh karena itu, kami adalah wakil untuk Kristus, seolah-olah Allah membuat permohonan melalui kami; kami memohon kepada Anda atas nama Kristus, berdamailah dengan Allah.
+Oleh karena itu, kami adalah wakil untuk Kristus, seolah-olah Tuhan membuat permohonan melalui kami; kami memohon kepada Anda atas nama Kristus, berdamailah dengan Tuhan.
 
 ## 2 Korintus 5:21
 
-Dia menjadikan Dia yang tidak mengenal dosa menjadi dosa untuk kita, sehingga kita dapat menjadi kebenaran Allah di dalam Dia.
+Dia menjadikan Dia yang tidak mengenal dosa menjadi dosa untuk kita, sehingga kita dapat menjadi kebenaran Tuhan di dalam Dia.

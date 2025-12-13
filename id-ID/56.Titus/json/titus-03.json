@@ -1,96 +1,94 @@
 {
-    "book": "Titus",
-    "chapter": 3,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Ingatkan mereka untuk tunduk kepada penguasa dan otoritas, untuk taat, siap untuk setiap pekerjaan yang baik,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "untuk tidak memfitnah siapa pun, menghindari pertengkaran, bersikap lembut, menunjukkan kesopanan sempurna terhadap semua orang."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Karena kita sendiri dahulu juga bodoh, tidak taat, tertipu, diperbudak oleh berbagai nafsu dan kesenangan, hidup dalam kejahatan dan iri hati, penuh kebencian, saling membenci."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Namun, ketika kebaikan dan kasih Allah, Juruselamat kita, dinyatakan,"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Dia menyelamatkan kita, bukan karena perbuatan yang kita lakukan dalam kebenaran, tetapi menurut rahmat-Nya, melalui pembasuhan kelahiran kembali dan pembaruan oleh Roh Kudus,"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "yang Dia curahkan kepada kita dengan limpah melalui Yesus Kristus, Juruselamat kita,"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "sehingga, setelah dibenarkan oleh kasih karunia-Nya, kita dapat menjadi ahli waris dalam pengharapan akan hidup yang kekal."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Perkataan ini dapat dipercaya, dan aku ingin kamu menegaskan hal-hal ini, agar mereka yang telah percaya kepada Allah berhati-hati untuk mengabdikan diri pada pekerjaan yang baik. Hal-hal ini baik dan bermanfaat bagi semua orang."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Tetapi hindarilah perdebatan yang bodoh, silsilah, perselisihan, dan perdebatan tentang hukum, karena semuanya tidak berguna dan sia-sia."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Peringatkan orang yang suka menimbulkan perpecahan satu kali, dan kemudian peringatkan dia kedua kali. Setelah itu, jangan ada hubungan lagi dengan dia,"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "karena mengetahui bahwa orang seperti itu telah menyimpang dan berdosa, menghukum dirinya sendiri."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Ketika aku mengirim Artemas atau Tikhikus kepadamu, usahakanlah datang kepadaku di Nikopolis, karena aku telah memutuskan untuk menghabiskan musim dingin di sana."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Bantulah Zenas, ahli hukum, dan Apolos dengan tekun dalam perjalanan mereka, pastikan mereka tidak kekurangan apa pun."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Orang-orang kita harus belajar untuk mengabdikan diri pada pekerjaan yang baik untuk memenuhi kebutuhan mendesak, agar mereka tidak menjadi tidak produktif."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Semua yang bersama aku mengirimkan salam kepadamu. Sampaikan salam kepada mereka yang mengasihi kita dalam iman. Kasih karunia menyertai kamu semua."
-            ]
-        }
-    ]
+  "book": "Titus",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Ingatkan mereka untuk tunduk kepada penguasa dan otoritas, untuk taat, siap untuk setiap pekerjaan yang baik,"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "untuk tidak memfitnah siapa pun, menghindari pertengkaran, bersikap lembut, menunjukkan kesopanan sempurna terhadap semua orang."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Karena kita sendiri dahulu juga bodoh, tidak taat, tertipu, diperbudak oleh berbagai nafsu dan kesenangan, hidup dalam kejahatan dan iri hati, penuh kebencian, saling membenci."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": ["Namun, ketika kebaikan dan kasih Tuhan, Juruselamat kita, dinyatakan,"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Dia menyelamatkan kita, bukan karena perbuatan yang kita lakukan dalam kebenaran, tetapi menurut rahmat-Nya, melalui pembasuhan kelahiran kembali dan pembaruan oleh Roh Kudus,"
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "yang Dia curahkan kepada kita dengan limpah melalui Yesus Kristus, Juruselamat kita,"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "sehingga, setelah dibenarkan oleh kasih karunia-Nya, kita dapat menjadi ahli waris dalam pengharapan akan hidup yang kekal."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Perkataan ini dapat dipercaya, dan aku ingin kamu menegaskan hal-hal ini, agar mereka yang telah percaya kepada Tuhan berhati-hati untuk mengabdikan diri pada pekerjaan yang baik. Hal-hal ini baik dan bermanfaat bagi semua orang."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Tetapi hindarilah perdebatan yang bodoh, silsilah, perselisihan, dan perdebatan tentang hukum, karena semuanya tidak berguna dan sia-sia."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Peringatkan orang yang suka menimbulkan perpecahan satu kali, dan kemudian peringatkan dia kedua kali. Setelah itu, jangan ada hubungan lagi dengan dia,"
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "karena mengetahui bahwa orang seperti itu telah menyimpang dan berdosa, menghukum dirinya sendiri."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Ketika aku mengirim Artemas atau Tikhikus kepadamu, usahakanlah datang kepadaku di Nikopolis, karena aku telah memutuskan untuk menghabiskan musim dingin di sana."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Bantulah Zenas, ahli hukum, dan Apolos dengan tekun dalam perjalanan mereka, pastikan mereka tidak kekurangan apa pun."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Orang-orang kita harus belajar untuk mengabdikan diri pada pekerjaan yang baik untuk memenuhi kebutuhan mendesak, agar mereka tidak menjadi tidak produktif."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Semua yang bersama aku mengirimkan salam kepadamu. Sampaikan salam kepada mereka yang mengasihi kita dalam iman. Kasih karunia menyertai kamu semua."
+      ]
+    }
+  ]
 }

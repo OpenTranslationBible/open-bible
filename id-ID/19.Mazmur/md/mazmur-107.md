@@ -59,7 +59,7 @@
 
 ## Mazmur 107:11
 
-> Karena mereka telah memberontak melawan firman Allah  
+> Karena mereka telah memberontak melawan firman Tuhan  
 > Dan menolak nasihat Yang Mahatinggi.
 
 ## Mazmur 107:12

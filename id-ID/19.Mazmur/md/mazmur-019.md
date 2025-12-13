@@ -4,7 +4,7 @@
 
 ## Mazmur 19:1
 
-> Langit menceritakan kemuliaan Allah;  
+> Langit menceritakan kemuliaan Tuhan;  
 > Dan cakrawala memberitakan pekerjaan tangan-Nya.
 
 ## Mazmur 19:2

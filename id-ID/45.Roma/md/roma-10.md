@@ -10,7 +10,7 @@ Sebab aku dapat bersaksi bahwa mereka memiliki semangat untuk Tuhan, tetapi itu 
 
 ## Roma 10:3
 
-Karena, tidak menyadari kebenaran Allah dan berusaha untuk mendirikan kebenaran mereka sendiri, mereka tidak tunduk kepada kebenaran Allah.
+Karena, tidak menyadari kebenaran Tuhan dan berusaha untuk mendirikan kebenaran mereka sendiri, mereka tidak tunduk kepada kebenaran Tuhan.
 
 ## Roma 10:4
 
@@ -34,7 +34,7 @@ Tetapi apa yang dikatakannya? “Firman itu dekat padamu; itu ada di dalam mulut
 
 ## Roma 10:9
 
-Jika engkau mengakui dengan mulutmu, “Yesus adalah Tuhan,” dan percaya dalam hatimu bahwa Allah telah membangkitkan Dia dari antara orang mati, engkau akan diselamatkan.
+Jika engkau mengakui dengan mulutmu, “Yesus adalah Tuhan,” dan percaya dalam hatimu bahwa Tuhan telah membangkitkan Dia dari antara orang mati, engkau akan diselamatkan.
 
 ## Roma 10:10
 

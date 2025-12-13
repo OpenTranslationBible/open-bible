@@ -10,7 +10,7 @@ Pesan dari Tuhan datang kepadaku:
 
 ## Yehezkiel 25:3
 
-katakan kepada mereka: 'Dengarlah firman Tuhan Allah. Inilah yang dikatakan Tuhan Allah: Karena kamu berkata "Aha!" atas tempat kudusku ketika dinajiskan, dan atas tanah Israel ketika ditinggalkan, dan atas orang Yehuda ketika mereka pergi ke pengasingan,
+katakan kepada mereka: 'Dengarlah firman Tuhan Tuhan. Inilah yang dikatakan Tuhan Tuhan: Karena kamu berkata "Aha!" atas tempat kudusku ketika dinajiskan, dan atas tanah Israel ketika ditinggalkan, dan atas orang Yehuda ketika mereka pergi ke pengasingan,
 
 ## Yehezkiel 25:4
 
@@ -22,7 +22,7 @@ Aku akan membuat Raba menjadi padang rumput bagi unta dan Amon menjadi tempat pe
 
 ## Yehezkiel 25:6
 
-Sebab inilah yang dikatakan Tuhan Allah: Karena kamu telah bertepuk tangan dan menghentakkan kaki, dan bersukacita dengan segala kebencian di hatimu melawan tanah Israel,
+Sebab inilah yang dikatakan Tuhan Tuhan: Karena kamu telah bertepuk tangan dan menghentakkan kaki, dan bersukacita dengan segala kebencian di hatimu melawan tanah Israel,
 
 ## Yehezkiel 25:7
 
@@ -32,7 +32,7 @@ oleh karena itu, lihatlah, Aku akan mengulurkan tangan-Ku melawan kamu dan menye
 
 ## Yehezkiel 25:8
 
-"Inilah yang dikatakan Tuhan Allah: 'Karena Moab dan Seir berkata, "Lihatlah, kaum Yehuda adalah seperti semua bangsa lainnya,"
+"Inilah yang dikatakan Tuhan Tuhan: 'Karena Moab dan Seir berkata, "Lihatlah, kaum Yehuda adalah seperti semua bangsa lainnya,"
 
 ## Yehezkiel 25:9
 
@@ -50,23 +50,23 @@ dan Aku akan melaksanakan penghakiman atas Moab. Maka mereka akan tahu bahwa Aku
 
 ## Yehezkiel 25:12
 
-"Inilah yang dikatakan Tuhan Allah: 'Karena Edom bertindak dengan dendam terhadap kaum Yehuda dan menanggung kesalahan besar dengan melakukannya,
+"Inilah yang dikatakan Tuhan Tuhan: 'Karena Edom bertindak dengan dendam terhadap kaum Yehuda dan menanggung kesalahan besar dengan melakukannya,
 
 ## Yehezkiel 25:13
 
-oleh karena itu inilah yang dikatakan Tuhan Allah: Aku akan mengulurkan tangan-Ku melawan Edom dan melenyapkan baik manusia maupun binatang. Aku akan membuatnya menjadi sunyi, dan dari Teman hingga Dedan mereka akan jatuh oleh pedang.
+oleh karena itu inilah yang dikatakan Tuhan Tuhan: Aku akan mengulurkan tangan-Ku melawan Edom dan melenyapkan baik manusia maupun binatang. Aku akan membuatnya menjadi sunyi, dan dari Teman hingga Dedan mereka akan jatuh oleh pedang.
 
 ## Yehezkiel 25:14
 
-Aku akan melaksanakan pembalasan-Ku atas Edom oleh tangan umat-Ku Israel, dan mereka akan memperlakukan Edom sesuai dengan amarah dan murka-Ku; mereka akan tahu pembalasan-Ku, demikianlah firman Tuhan Allah.'"
+Aku akan melaksanakan pembalasan-Ku atas Edom oleh tangan umat-Ku Israel, dan mereka akan memperlakukan Edom sesuai dengan amarah dan murka-Ku; mereka akan tahu pembalasan-Ku, demikianlah firman Tuhan Tuhan.'"
 
 ## Yehezkiel 25:15
 
-"Inilah yang dikatakan Tuhan Allah: 'Karena orang Filistin bertindak dengan balas dendam dan mengambil pembalasan dengan kebencian di hati mereka, dan dengan permusuhan kuno berusaha untuk menghancurkan Yehuda,
+"Inilah yang dikatakan Tuhan Tuhan: 'Karena orang Filistin bertindak dengan balas dendam dan mengambil pembalasan dengan kebencian di hati mereka, dan dengan permusuhan kuno berusaha untuk menghancurkan Yehuda,
 
 ## Yehezkiel 25:16
 
-oleh karena itu inilah yang dikatakan Tuhan Allah: Lihatlah, Aku akan mengulurkan tangan-Ku melawan orang Filistin dan melenyapkan orang Kreti; dan Aku akan menghancurkan sisa di sepanjang pantai.
+oleh karena itu inilah yang dikatakan Tuhan Tuhan: Lihatlah, Aku akan mengulurkan tangan-Ku melawan orang Filistin dan melenyapkan orang Kreti; dan Aku akan menghancurkan sisa di sepanjang pantai.
 
 ## Yehezkiel 25:17
 

@@ -2,7 +2,7 @@
 
 ## Yesaya 25:1
 
-Tuhan, Engkaulah Allahku; aku akan meninggikan Engkau dan mengucap syukur kepada nama-Mu, karena Engkau telah melakukan perbuatan-perbuatan yang ajaib, rancangan-rancangan yang telah lama dibuat dengan setia sempurna.
+Tuhan, Engkaulah Tuhanku; aku akan meninggikan Engkau dan mengucap syukur kepada nama-Mu, karena Engkau telah melakukan perbuatan-perbuatan yang ajaib, rancangan-rancangan yang telah lama dibuat dengan setia sempurna.
 
 ## Yesaya 25:2
 
@@ -30,11 +30,11 @@ Dan di gunung ini, Ia akan menghancurkan kain kabung yang meliputi semua bangsa,
 
 ## Yesaya 25:8
 
-Ia akan menelan maut untuk selama-lamanya, dan Tuhan Allah akan menghapus air mata dari semua wajah; Ia akan menghilangkan aib umat-Nya dari seluruh bumi. Tuhan telah berfirman.
+Ia akan menelan maut untuk selama-lamanya, dan Tuhan Tuhan akan menghapus air mata dari semua wajah; Ia akan menghilangkan aib umat-Nya dari seluruh bumi. Tuhan telah berfirman.
 
 ## Yesaya 25:9
 
-Dan pada hari itu, akan dikatakan, “Sesungguhnya, inilah Allah kita; kita telah menantikan Dia, dan Dia telah menyelamatkan kita. Inilah Tuhan yang kita nantikan; marilah kita bersukacita dan bergembira dalam keselamatan-Nya.”
+Dan pada hari itu, akan dikatakan, “Sesungguhnya, inilah Tuhan kita; kita telah menantikan Dia, dan Dia telah menyelamatkan kita. Inilah Tuhan yang kita nantikan; marilah kita bersukacita dan bergembira dalam keselamatan-Nya.”
 
 ## Yesaya 25:10
 

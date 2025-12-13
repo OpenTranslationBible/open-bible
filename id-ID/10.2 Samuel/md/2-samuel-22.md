@@ -14,7 +14,7 @@ Ia berkata:
 
 ## 2 Samuel 22:3
 
-> Allahku, bukit batuku, tempat aku berlindung,  
+> Tuhanku, bukit batuku, tempat aku berlindung,  
 > Perisaiku dan tanduk keselamatanku,  
 > Kubu pertahananku dan tempat pelarianku;  
 > Juruselamatku, Engkau melindungiku dari bahaya.
@@ -39,7 +39,7 @@ Ia berkata:
 ## 2 Samuel 22:7
 
 > Dalam kesesakanku aku berseru kepada Tuhan,  
-> Ya, aku berseru kepada Allahku;  
+> Ya, aku berseru kepada Tuhanku;  
 > Dari bait-Nya Ia mendengar suaraku,  
 > Dan teriakanku minta tolong sampai ke telinga-Nya.
 
@@ -126,7 +126,7 @@ Ia berkata:
 ## 2 Samuel 22:22
 
 > Karena aku mengikuti jalan-jalan Tuhan,  
-> Dan tidak berpaling dari Allahku.
+> Dan tidak berpaling dari Tuhanku.
 
 ## 2 Samuel 22:23
 
@@ -170,22 +170,22 @@ Ia berkata:
 ## 2 Samuel 22:30
 
 > Karena dengan Engkau aku dapat menyerbu pasukan;  
-> Dengan Allahku aku dapat melompati tembok.
+> Dengan Tuhanku aku dapat melompati tembok.
 
 ## 2 Samuel 22:31
 
-> Adapun Allah, jalan-Nya sempurna;  
+> Adapun Tuhan, jalan-Nya sempurna;  
 > Firman Tuhan adalah murni;  
 > Ia adalah perisai bagi semua yang berlindung kepada-Nya.
 
 ## 2 Samuel 22:32
 
-> Karena siapakah Allah, jika bukan Tuhan?  
-> Dan siapakah bukit batu, jika bukan Allah kita?
+> Karena siapakah Tuhan, jika bukan Tuhan?  
+> Dan siapakah bukit batu, jika bukan Tuhan kita?
 
 ## 2 Samuel 22:33
 
-> Allah adalah bentengku;  
+> Tuhan adalah bentengku;  
 > Dan Ia membuat jalanku lurus.
 
 ## 2 Samuel 22:34
@@ -264,11 +264,11 @@ Ia berkata:
 ## 2 Samuel 22:47
 
 > Tuhan hidup, dan terpujilah bukit batuku;  
-> Dan ditinggikanlah Allahku, dasar keselamatanku,
+> Dan ditinggikanlah Tuhanku, dasar keselamatanku,
 
 ## 2 Samuel 22:48
 
-> Allah yang membalas dendam untukku,  
+> Tuhan yang membalas dendam untukku,  
 > Dan menundukkan bangsa-bangsa di bawahku,
 
 ## 2 Samuel 22:49

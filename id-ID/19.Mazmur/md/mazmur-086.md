@@ -10,7 +10,7 @@
 ## Mazmur 86:2
 
 > Peliharalah jiwaku, sebab aku setia kepada-Mu;  
-> Engkaulah Allahku, selamatkanlah hamba-Mu yang percaya kepada-Mu.
+> Engkaulah Tuhanku, selamatkanlah hamba-Mu yang percaya kepada-Mu.
 
 ## Mazmur 86:3
 
@@ -54,7 +54,7 @@
 ## Mazmur 86:10
 
 > Sebab Engkau besar, dan Engkau melakukan perbuatan-perbuatan ajaib;  
-> Engkau sendiri adalah Allah.
+> Engkau sendiri adalah Tuhan.
 
 ---
 
@@ -66,7 +66,7 @@
 
 ## Mazmur 86:12
 
-> Aku akan bersyukur kepada-Mu, Tuhan Allahku, dengan segenap hatiku,  
+> Aku akan bersyukur kepada-Mu, Tuhan Tuhanku, dengan segenap hatiku,  
 > Dan aku akan memuliakan nama-Mu selama-lamanya.
 
 ## Mazmur 86:13
@@ -78,13 +78,13 @@
 
 ## Mazmur 86:14
 
-> Allah, orang-orang sombong telah bangkit melawan aku,  
+> Tuhan, orang-orang sombong telah bangkit melawan aku,  
 > Dan sekelompok orang yang kejam telah mencari nyawaku,  
 > Dan mereka tidak mempedulikan Engkau.
 
 ## Mazmur 86:15
 
-> Tetapi Engkau, Tuhan, adalah Allah yang penuh kasih dan rahmat,  
+> Tetapi Engkau, Tuhan, adalah Tuhan yang penuh kasih dan rahmat,  
 > Lambat marah dan kaya dalam kasih setia dan kebenaran.
 
 ## Mazmur 86:16

@@ -18,7 +18,7 @@ Maka Yosua memanggil dua belas orang yang telah ditunjuknya dari anak-anak Israe
 
 ## Yosua 4:5
 
-dan dia berkata kepada mereka, "Majulah di depan tabut Tuhan Allahmu ke tengah-tengah Sungai Yordan, dan masing-masing dari kalian angkatlah sebuah batu di atas bahunya, sesuai dengan jumlah suku-suku orang Israel.
+dan dia berkata kepada mereka, "Majulah di depan tabut Tuhan Tuhanmu ke tengah-tengah Sungai Yordan, dan masing-masing dari kalian angkatlah sebuah batu di atas bahunya, sesuai dengan jumlah suku-suku orang Israel.
 
 ## Yosua 4:6
 
@@ -90,8 +90,8 @@ kalian harus memberitahu mereka, 'Israel menyeberangi Sungai Yordan di tanah ker
 
 ## Yosua 4:23
 
-Karena Tuhan Allahmu mengeringkan air Sungai Yordan di depanmu sampai kalian menyeberang, sama seperti Tuhan Allahmu lakukan pada Laut Merah, yang Dia keringkan di depan kita sampai kita menyeberang.
+Karena Tuhan Tuhanmu mengeringkan air Sungai Yordan di depanmu sampai kalian menyeberang, sama seperti Tuhan Tuhanmu lakukan pada Laut Merah, yang Dia keringkan di depan kita sampai kita menyeberang.
 
 ## Yosua 4:24
 
-Dia melakukan ini agar semua bangsa di bumi mengenali bahwa tangan Tuhan itu perkasa, dan agar kalian selalu menghormati Tuhan Allahmu."
+Dia melakukan ini agar semua bangsa di bumi mengenali bahwa tangan Tuhan itu perkasa, dan agar kalian selalu menghormati Tuhan Tuhanmu."

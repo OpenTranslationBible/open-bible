@@ -4,15 +4,15 @@
 
 Kemudian Raja Daud berkata kepada seluruh jemaah itu,
 
-> "Anakku Salomo, yang hanya dia dipilih Allah, masih muda dan belum berpengalaman,  
+> "Anakku Salomo, yang hanya dia dipilih Tuhan, masih muda dan belum berpengalaman,  
 > dan pekerjaan ini besar;  
-> karena bait ini bukan untuk manusia, melainkan untuk Tuhan Allah.
+> karena bait ini bukan untuk manusia, melainkan untuk Tuhan Tuhan.
 
 ---
 
 ## 1 Tawarikh 29:2
 
-Sekarang dengan segala kemampuanku aku telah menyediakan untuk rumah Allahku:
+Sekarang dengan segala kemampuanku aku telah menyediakan untuk rumah Tuhanku:
 
 > emas untuk barang-barang emas,  
 > perak untuk barang-barang perak,  
@@ -26,8 +26,8 @@ Sekarang dengan segala kemampuanku aku telah menyediakan untuk rumah Allahku:
 
 ## 1 Tawarikh 29:3
 
-Lebih jauh lagi, karena aku sangat bersukacita dalam rumah Allahku,  
-aku telah memberikan harta pribadiku berupa emas dan perak kepada rumah Allahku,
+Lebih jauh lagi, karena aku sangat bersukacita dalam rumah Tuhanku,  
+aku telah memberikan harta pribadiku berupa emas dan perak kepada rumah Tuhanku,
 
 > sebagai tambahan dari semua yang telah kusediakan untuk bait suci:
 
@@ -60,7 +60,7 @@ para panglima atas ribuan dan ratusan,
 
 ## 1 Tawarikh 29:7
 
-dan untuk pelayanan rumah Allah mereka memberikan:
+dan untuk pelayanan rumah Tuhan mereka memberikan:
 
 > 5.000 talenta dan 10.000 koin emas,  
 > 10.000 talenta perak,  
@@ -91,7 +91,7 @@ karena mereka membuat persembahan mereka kepada Tuhan dengan sepenuh hati,
 Jadi Daud memuji Tuhan di hadapan seluruh jemaah;  
 dan Daud berkata,
 
-> "Diberkatilah Engkau, Tuhan Allah Israel, bapa kami,  
+> "Diberkatilah Engkau, Tuhan Tuhan Israel, bapa kami,  
 > dari selama-lamanya sampai selama-lamanya.
 
 ---
@@ -116,7 +116,7 @@ dan Daud berkata,
 
 ## 1 Tawarikh 29:13
 
-> Oleh karena itu, Allah kami, kami mengucapkan terima kasih kepada-Mu,  
+> Oleh karena itu, Tuhan kami, kami mengucapkan terima kasih kepada-Mu,  
 > dan memuji nama-Mu yang mulia.
 
 ---
@@ -139,14 +139,14 @@ dan Daud berkata,
 
 ## 1 Tawarikh 29:16
 
-> Tuhan Allah kami, semua kelimpahan ini yang telah kami kumpulkan untuk membangun rumah bagi nama kudus-Mu,  
+> Tuhan Tuhan kami, semua kelimpahan ini yang telah kami kumpulkan untuk membangun rumah bagi nama kudus-Mu,  
 > itu berasal dari tangan-Mu, dan segala sesuatu adalah milik-Mu.
 
 ---
 
 ## 1 Tawarikh 29:17
 
-> Karena aku tahu, Allahku, bahwa Engkau menguji hati dan berkenan pada kejujuran,  
+> Karena aku tahu, Tuhanku, bahwa Engkau menguji hati dan berkenan pada kejujuran,  
 > aku, dengan ketulusan hatiku, telah memberikan semua ini dengan sukarela;  
 > jadi sekarang dengan sukacita aku telah melihat umat-Mu, yang hadir di sini, membuat persembahan mereka dengan sukarela kepada-Mu.
 
@@ -154,7 +154,7 @@ dan Daud berkata,
 
 ## 1 Tawarikh 29:18
 
-> Tuhan, Allah Abraham, Ishak, dan Israel, nenek moyang kami,  
+> Tuhan, Tuhan Abraham, Ishak, dan Israel, nenek moyang kami,  
 > jagalah ini selamanya dalam niat hati umat-Mu,  
 > dan bimbinglah hati mereka kepada-Mu;
 
@@ -173,8 +173,8 @@ dan Daud berkata,
 
 Kemudian Daud berbicara kepada seluruh jemaah,
 
-> "Sekarang pujilah Tuhan Allahmu."  
-> Dan seluruh jemaah memuji Tuhan, Allah nenek moyang mereka,  
+> "Sekarang pujilah Tuhan Tuhanmu."  
+> Dan seluruh jemaah memuji Tuhan, Tuhan nenek moyang mereka,  
 > dan sujud dan memberi hormat kepada Tuhan dan raja.
 
 ---

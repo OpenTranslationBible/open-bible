@@ -96,11 +96,11 @@ Paulus kemudian berdiri di tengah-tengah Areopagus dan berkata, “Hai orang-ora
 
 ## Kisah Para Rasul 17:23
 
-Karena ketika saya berjalan-jalan dan memeriksa objek-objek ibadah kalian, saya menemukan sebuah altar dengan tulisan ini: ‘KEPADA ALLAH YANG TIDAK DIKENAL.’ Oleh karena itu, apa yang kalian sembah tanpa mengetahui, inilah yang saya sampaikan kepada kalian.
+Karena ketika saya berjalan-jalan dan memeriksa objek-objek ibadah kalian, saya menemukan sebuah altar dengan tulisan ini: ‘KEPADA Tuhan YANG TIDAK DIKENAL.’ Oleh karena itu, apa yang kalian sembah tanpa mengetahui, inilah yang saya sampaikan kepada kalian.
 
 ## Kisah Para Rasul 17:24
 
-Allah yang membuat dunia dan segala isinya, yang adalah Tuhan langit dan bumi, tidak tinggal di kuil-kuil yang dibuat oleh tangan manusia.
+Tuhan yang membuat dunia dan segala isinya, yang adalah Tuhan langit dan bumi, tidak tinggal di kuil-kuil yang dibuat oleh tangan manusia.
 
 ## Kisah Para Rasul 17:25
 
@@ -112,7 +112,7 @@ Dari satu orang Ia membuat semua bangsa manusia untuk mendiami seluruh bumi, den
 
 ## Kisah Para Rasul 17:27
 
-supaya mereka mencari Allah, jika mungkin mereka dapat meraba-raba dan menemukannya, meskipun Ia tidak jauh dari kita masing-masing.
+supaya mereka mencari Tuhan, jika mungkin mereka dapat meraba-raba dan menemukannya, meskipun Ia tidak jauh dari kita masing-masing.
 
 ## Kisah Para Rasul 17:28
 
@@ -120,11 +120,11 @@ Karena melalui Dia kita hidup, bergerak, dan ada, seperti yang bahkan beberapa p
 
 ## Kisah Para Rasul 17:29
 
-Oleh karena itu, karena kita adalah keturunan Allah, kita tidak seharusnya berpikir bahwa sifat ilahi itu seperti emas atau perak atau batu, sebuah gambar yang dibuat oleh desain dan keterampilan manusia.
+Oleh karena itu, karena kita adalah keturunan Tuhan, kita tidak seharusnya berpikir bahwa sifat ilahi itu seperti emas atau perak atau batu, sebuah gambar yang dibuat oleh desain dan keterampilan manusia.
 
 ## Kisah Para Rasul 17:30
 
-Di masa lalu, Allah mengabaikan ketidaktahuan seperti itu, tetapi sekarang Ia memanggil semua orang di mana-mana untuk bertobat,
+Di masa lalu, Tuhan mengabaikan ketidaktahuan seperti itu, tetapi sekarang Ia memanggil semua orang di mana-mana untuk bertobat,
 
 ## Kisah Para Rasul 17:31
 

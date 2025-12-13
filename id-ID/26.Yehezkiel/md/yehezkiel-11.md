@@ -78,7 +78,7 @@ Aku akan memberikan mereka hati yang bersatu dan menaruh roh baru di dalam merek
 
 ## Yehezkiel 11:20
 
-Kemudian mereka akan mengikuti ketetapan-Ku dan berhati-hati untuk memelihara peraturan-Ku. Mereka akan menjadi umat-Ku, dan Aku akan menjadi Allah mereka.
+Kemudian mereka akan mengikuti ketetapan-Ku dan berhati-hati untuk memelihara peraturan-Ku. Mereka akan menjadi umat-Ku, dan Aku akan menjadi Tuhan mereka.
 
 ## Yehezkiel 11:21
 
@@ -86,7 +86,7 @@ Tetapi bagi mereka yang hatinya mengejar benda-benda keji dan kekejian, Aku akan
 
 ## Yehezkiel 11:22
 
-Pada saat itu, kerub-kerub, dengan roda-roda di samping mereka, mengembangkan sayap mereka, dan kemuliaan Allah Israel berada di atas mereka.
+Pada saat itu, kerub-kerub, dengan roda-roda di samping mereka, mengembangkan sayap mereka, dan kemuliaan Tuhan Israel berada di atas mereka.
 
 ## Yehezkiel 11:23
 
@@ -94,7 +94,7 @@ Kemuliaan Tuhan naik dari dalam kota dan berdiri di atas gunung di sebelah timur
 
 ## Yehezkiel 11:24
 
-Roh itu mengangkat aku dan membawa aku kepada orang-orang buangan di Kasdim, dalam penglihatan yang diberikan oleh Roh Allah. Kemudian penglihatan yang telah kulihat itu meninggalkanku,
+Roh itu mengangkat aku dan membawa aku kepada orang-orang buangan di Kasdim, dalam penglihatan yang diberikan oleh Roh Tuhan. Kemudian penglihatan yang telah kulihat itu meninggalkanku,
 
 ## Yehezkiel 11:25
 

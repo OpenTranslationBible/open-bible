@@ -86,13 +86,13 @@ dan roh yang mengganggu dari Tuhan mulai menyiksanya.
 
 ## 1 Samuel 16:15
 
-Para pelayan Saul kemudian berkata kepadanya, “Lihatlah sekarang, roh jahat dari Allah sedang menyiksamu.
+Para pelayan Saul kemudian berkata kepadanya, “Lihatlah sekarang, roh jahat dari Tuhan sedang menyiksamu.
 
 ## 1 Samuel 16:16
 
 Biarlah tuanku sekarang memerintahkan para pelayanmu yang ada di hadapanmu.  
 Biarlah mereka mencari seorang yang pandai bermain kecapi;  
-dan ketika roh jahat dari Allah ada padamu,  
+dan ketika roh jahat dari Tuhan ada padamu,  
 ia akan bermain, dan engkau akan sembuh.”
 
 ## 1 Samuel 16:17
@@ -129,6 +129,6 @@ Dan Saul mengirim pesan kepada Isai, mengatakan,
 
 ## 1 Samuel 16:23
 
-Jadi terjadilah, setiap kali roh jahat dari Allah datang kepada Saul,  
+Jadi terjadilah, setiap kali roh jahat dari Tuhan datang kepada Saul,  
 Daud akan mengambil kecapi dan memainkannya dengan tangannya;  
 dan Saul akan merasa segar dan sembuh, dan roh jahat itu akan meninggalkannya.

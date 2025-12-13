@@ -2,8 +2,8 @@
 
 ## Mazmur 94:1
 
-> Tuhan, Allah yang membawa keadilan,  
-> Allah yang membawa keadilan, nyatakanlah diri-Mu!
+> Tuhan, Tuhan yang membawa keadilan,  
+> Tuhan yang membawa keadilan, nyatakanlah diri-Mu!
 
 ## Mazmur 94:2
 
@@ -35,7 +35,7 @@
 ## Mazmur 94:7
 
 > Mereka berkata, “Tuhan tidak melihat,  
-> Dan Allah Yakub tidak memperhatikan.”
+> Dan Tuhan Yakub tidak memperhatikan.”
 
 ---
 
@@ -118,10 +118,10 @@
 ## Mazmur 94:22
 
 > Tetapi Tuhan telah menjadi tempat perlindunganku,  
-> Dan Allahku batu perlindungan bagiku.
+> Dan Tuhanku batu perlindungan bagiku.
 
 ## Mazmur 94:23
 
 > Dia telah mengembalikan kesalahan mereka atas mereka,  
 > Dan Dia akan menghancurkan mereka dalam kejahatan mereka;  
-> Tuhan Allah kita akan menghancurkan mereka.
+> Tuhan Tuhan kita akan menghancurkan mereka.

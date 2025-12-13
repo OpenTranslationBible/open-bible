@@ -48,13 +48,13 @@ maka ia berkata kepada Abyatar, imam itu, "Bawalah efod itu ke sini."
 
 ## 1 Samuel 23:10
 
-Kemudian Daud berkata, "Tuhan Allah Israel, hambamu telah mendengar dengan pasti bahwa Saul berencana untuk datang ke Kehila,  
+Kemudian Daud berkata, "Tuhan Tuhan Israel, hambamu telah mendengar dengan pasti bahwa Saul berencana untuk datang ke Kehila,  
 untuk menghancurkan kota itu karena aku.
 
 ## 1 Samuel 23:11
 
 Akankah orang-orang Kehila menyerahkan aku kepadanya? Akankah Saul turun seperti yang telah didengar hambamu?  
-Tuhan Allah Israel, aku berdoa, beritahukanlah kepada hambamu."  
+Tuhan Tuhan Israel, aku berdoa, beritahukanlah kepada hambamu."  
 Dan Tuhan berkata, "Ia akan turun."
 
 ## 1 Samuel 23:12

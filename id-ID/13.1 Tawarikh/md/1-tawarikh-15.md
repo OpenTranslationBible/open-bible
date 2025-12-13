@@ -3,7 +3,7 @@
 ## 1 Tawarikh 15:1
 
 Daud membangun rumah-rumah untuk dirinya di kota Daud;  
-dan dia menyiapkan tempat untuk tabut Allah,
+dan dia menyiapkan tempat untuk tabut Tuhan,
 
 > dan mendirikan sebuah kemah untuk itu.
 
@@ -13,7 +13,7 @@ dan dia menyiapkan tempat untuk tabut Allah,
 
 Kemudian Daud menyatakan,
 
-> “Tidak seorang pun boleh mengangkut tabut Allah kecuali orang Lewi,  
+> “Tidak seorang pun boleh mengangkut tabut Tuhan kecuali orang Lewi,  
 > karena Tuhan telah memilih mereka untuk mengangkat tabut Tuhan  
 > dan melayani-Nya selamanya.”
 
@@ -83,7 +83,7 @@ dan berkata kepada mereka,
 
 > “Kalian adalah kepala-kepala keluarga leluhur orang Lewi;  
 > kuduskanlah dirimu, kamu dan saudara-saudaramu,  
-> supaya kamu dapat membawa tabut Tuhan Allah Israel  
+> supaya kamu dapat membawa tabut Tuhan Tuhan Israel  
 > ke tempat yang telah kusiapkan untuk itu.
 
 ---
@@ -91,7 +91,7 @@ dan berkata kepada mereka,
 ## 1 Tawarikh 15:13
 
 > Karena kamu tidak mengangkutnya pada awalnya,  
-> Tuhan Allah kita membuat ledakan atas kita,  
+> Tuhan Tuhan kita membuat ledakan atas kita,  
 > karena kita tidak mencari-Nya sesuai dengan ketetapan.”
 
 ---
@@ -99,13 +99,13 @@ dan berkata kepada mereka,
 ## 1 Tawarikh 15:14
 
 Maka, imam-imam dan orang Lewi menguduskan diri mereka  
-untuk membawa tabut Tuhan Allah Israel.
+untuk membawa tabut Tuhan Tuhan Israel.
 
 ---
 
 ## 1 Tawarikh 15:15
 
-Dan anak-anak orang Lewi mengangkut tabut Allah di atas bahu mereka dengan tongkat di atasnya,
+Dan anak-anak orang Lewi mengangkut tabut Tuhan di atas bahu mereka dengan tongkat di atasnya,
 
 > seperti yang diperintahkan Musa sesuai dengan firman Tuhan.
 
@@ -181,7 +181,7 @@ Dan Berekhya dan Elkana bertugas sebagai penjaga pintu gerbang untuk tabut.
 
 Dan imam-imam Sebanya, Yosafat, Netanel, Amasai, Zakharia, Benaya, dan Eliezer
 
-> meniup terompet di depan tabut Allah.  
+> meniup terompet di depan tabut Tuhan.  
 > Dan Obed-Edom dan Yehiya juga adalah penjaga pintu gerbang untuk tabut.
 
 ---
@@ -197,7 +197,7 @@ pergi untuk membawa tabut perjanjian Tuhan
 
 ## 1 Tawarikh 15:26
 
-Dan karena Allah membantu orang Lewi yang mengangkut tabut perjanjian Tuhan,
+Dan karena Tuhan membantu orang Lewi yang mengangkut tabut perjanjian Tuhan,
 
 > mereka mempersembahkan tujuh lembu jantan dan tujuh domba jantan.
 

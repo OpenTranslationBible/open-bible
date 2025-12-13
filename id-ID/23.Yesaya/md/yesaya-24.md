@@ -58,7 +58,7 @@ Mereka mengangkat suara mereka, mereka bernyanyi dengan sukacita; mereka bersora
 
 ## Yesaya 24:15
 
-Oleh karena itu, hormatilah Tuhan di timur, nama Tuhan, Allah Israel, di pesisir laut.
+Oleh karena itu, hormatilah Tuhan di timur, nama Tuhan, Tuhan Israel, di pesisir laut.
 
 ## Yesaya 24:16
 

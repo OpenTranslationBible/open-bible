@@ -4,7 +4,7 @@
 
 Setelah peristiwa-peristiwa ini, aku mendengar suara seperti deru kumpulan besar orang di surga, yang berseru:
 
-> "Haleluya! Keselamatan, kemuliaan, dan kekuasaan adalah milik Allah kita,
+> "Haleluya! Keselamatan, kemuliaan, dan kekuasaan adalah milik Tuhan kita,
 
 ## Wahyu 19:2
 
@@ -20,7 +20,7 @@ Dan sekali lagi mereka berkata:
 
 ## Wahyu 19:4
 
-Dua puluh empat tua-tua dan keempat makhluk hidup itu sujud dan menyembah Allah yang duduk di atas takhta, sambil berkata,
+Dua puluh empat tua-tua dan keempat makhluk hidup itu sujud dan menyembah Tuhan yang duduk di atas takhta, sambil berkata,
 
 > "Amin, Haleluya!"
 
@@ -28,14 +28,14 @@ Dua puluh empat tua-tua dan keempat makhluk hidup itu sujud dan menyembah Allah 
 
 Kemudian terdengar suara dari takhta itu, yang berkata:
 
-> "Pujilah Allah kita, hai semua hamba-Nya,
+> "Pujilah Tuhan kita, hai semua hamba-Nya,
 > kamu yang takut akan Dia, baik kecil maupun besar!"
 
 ## Wahyu 19:6
 
 Dan aku mendengar suara seperti suara kumpulan besar orang, seperti suara banyak air dan seperti suara guruh yang dahsyat, yang berkata:
 
-> "Haleluya! Karena Tuhan, Allah kita, Yang Mahakuasa, telah menjadi Raja.
+> "Haleluya! Karena Tuhan, Tuhan kita, Yang Mahakuasa, telah menjadi Raja.
 
 ## Wahyu 19:7
 
@@ -50,11 +50,11 @@ Dan aku mendengar suara seperti suara kumpulan besar orang, seperti suara banyak
 
 ## Wahyu 19:9
 
-Lalu ia berkata kepadaku, "Tuliskanlah: 'Berbahagialah mereka yang diundang ke perjamuan kawin Anak Domba.'" Dan ia menambahkan, "Inilah perkataan-perkataan benar dari Allah."
+Lalu ia berkata kepadaku, "Tuliskanlah: 'Berbahagialah mereka yang diundang ke perjamuan kawin Anak Domba.'" Dan ia menambahkan, "Inilah perkataan-perkataan benar dari Tuhan."
 
 ## Wahyu 19:10
 
-Maka aku tersungkur di depan kakinya untuk menyembah dia. Tetapi ia berkata kepadaku, "Jangan lakukan itu! Aku adalah hamba sesama dengan engkau dan saudara-saudaramu yang memiliki kesaksian Yesus. Sembahlah Allah! Karena kesaksian Yesus adalah roh nubuat."
+Maka aku tersungkur di depan kakinya untuk menyembah dia. Tetapi ia berkata kepadaku, "Jangan lakukan itu! Aku adalah hamba sesama dengan engkau dan saudara-saudaramu yang memiliki kesaksian Yesus. Sembahlah Tuhan! Karena kesaksian Yesus adalah roh nubuat."
 
 ## Wahyu 19:11
 
@@ -66,7 +66,7 @@ Mata-Nya bagaikan nyala api, dan di atas kepala-Nya terdapat banyak mahkota. Ia 
 
 ## Wahyu 19:13
 
-Ia memakai jubah yang telah dicelup dalam darah, dan nama-Nya adalah Firman Allah.
+Ia memakai jubah yang telah dicelup dalam darah, dan nama-Nya adalah Firman Tuhan.
 
 ## Wahyu 19:14
 
@@ -74,7 +74,7 @@ Pasukan-pasukan di surga, berpakaian kain lenan halus yang putih dan bersih, men
 
 ## Wahyu 19:15
 
-Dari mulut-Nya keluar sebilah pedang tajam untuk memukul bangsa-bangsa, dan Ia akan menggembalakan mereka dengan gada besi. Ia akan memeras anggur murka dan kegeraman Allah Yang Mahakuasa.
+Dari mulut-Nya keluar sebilah pedang tajam untuk memukul bangsa-bangsa, dan Ia akan menggembalakan mereka dengan gada besi. Ia akan memeras anggur murka dan kegeraman Tuhan Yang Mahakuasa.
 
 ## Wahyu 19:16
 
@@ -82,7 +82,7 @@ Pada jubah-Nya dan paha-Nya tertulis nama ini: Raja segala raja dan Tuan segala 
 
 ## Wahyu 19:17
 
-Lalu aku melihat seorang malaikat berdiri di matahari, dan ia berseru dengan suara nyaring kepada semua burung yang terbang di tengah langit, "Marilah, berkumpullah untuk perjamuan besar Allah,
+Lalu aku melihat seorang malaikat berdiri di matahari, dan ia berseru dengan suara nyaring kepada semua burung yang terbang di tengah langit, "Marilah, berkumpullah untuk perjamuan besar Tuhan,
 
 ## Wahyu 19:18
 

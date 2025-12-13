@@ -80,11 +80,11 @@ Keesokan harinya, Paulus pergi bersama kami untuk bertemu Yakobus, dan semua pen
 
 ## Kisah Para Rasul 21:19
 
-Setelah menyapa mereka, Paulus menjelaskan satu per satu hal-hal yang telah dilakukan Allah di antara bangsa-bangsa lain melalui pelayanannya.
+Setelah menyapa mereka, Paulus menjelaskan satu per satu hal-hal yang telah dilakukan Tuhan di antara bangsa-bangsa lain melalui pelayanannya.
 
 ## Kisah Para Rasul 21:20
 
-Ketika mereka mendengar hal ini, mereka memuliakan Allah dan berkata kepadanya, “Lihatlah, saudara, betapa banyak ribuan orang Yahudi telah percaya, dan mereka semua bersemangat untuk hukum Taurat.
+Ketika mereka mendengar hal ini, mereka memuliakan Tuhan dan berkata kepadanya, “Lihatlah, saudara, betapa banyak ribuan orang Yahudi telah percaya, dan mereka semua bersemangat untuk hukum Taurat.
 
 ## Kisah Para Rasul 21:21
 

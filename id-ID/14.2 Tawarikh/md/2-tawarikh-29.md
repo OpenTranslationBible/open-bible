@@ -22,17 +22,17 @@ Ia memanggil para imam dan orang-orang Lewi dan mengumpulkan mereka di alun-alun
 ## 2 Tawarikh 29:5
 
 Kemudian ia berkata kepada mereka,  
-"Dengarkan aku, hai orang-orang Lewi. Kuduskanlah dirimu sekarang, dan kuduskanlah rumah Tuhan, Allah nenek moyangmu, dan keluarkanlah kenajisan dari tempat kudus.
+"Dengarkan aku, hai orang-orang Lewi. Kuduskanlah dirimu sekarang, dan kuduskanlah rumah Tuhan, Tuhan nenek moyangmu, dan keluarkanlah kenajisan dari tempat kudus.
 
 ## 2 Tawarikh 29:6
 
-Karena nenek moyang kita telah tidak setia dan telah melakukan kejahatan di mata Tuhan Allah kita,  
+Karena nenek moyang kita telah tidak setia dan telah melakukan kejahatan di mata Tuhan Tuhan kita,  
 dan telah meninggalkan-Nya dan memalingkan wajah mereka dari tempat kediaman Tuhan, dan telah memalingkan punggung mereka.
 
 ## 2 Tawarikh 29:7
 
 Mereka juga telah menutup pintu-pintu serambi dan memadamkan lampu-lampu,  
-dan tidak membakar dupa atau mempersembahkan korban bakaran di tempat kudus kepada Allah Israel.
+dan tidak membakar dupa atau mempersembahkan korban bakaran di tempat kudus kepada Tuhan Israel.
 
 ## 2 Tawarikh 29:8
 
@@ -45,7 +45,7 @@ Karena sesungguhnya, nenek moyang kita telah jatuh oleh pedang, dan anak-anak ki
 
 ## 2 Tawarikh 29:10
 
-Sekarang aku bertekad untuk membuat perjanjian dengan Tuhan Allah Israel, agar kemarahan-Nya yang hebat dapat berpaling dari kita.
+Sekarang aku bertekad untuk membuat perjanjian dengan Tuhan Tuhan Israel, agar kemarahan-Nya yang hebat dapat berpaling dari kita.
 
 ## 2 Tawarikh 29:11
 
@@ -202,5 +202,5 @@ Demikianlah pelayanan rumah Tuhan dipulihkan.
 
 ## 2 Tawarikh 29:36
 
-Kemudian Hizkia dan seluruh rakyat bersukacita atas apa yang telah dipersiapkan Allah bagi umat itu,  
+Kemudian Hizkia dan seluruh rakyat bersukacita atas apa yang telah dipersiapkan Tuhan bagi umat itu,  
 karena hal itu terjadi begitu tiba-tiba.

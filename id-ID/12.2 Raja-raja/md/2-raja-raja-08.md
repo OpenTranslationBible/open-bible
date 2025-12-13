@@ -3,12 +3,12 @@
 ## 2 Raja-raja 8:1
 
 Elisa berbicara kepada perempuan yang anaknya telah dihidupkannya kembali, katanya,  
-“Bangunlah dan pergilah, dengan seisi rumahmu, dan tinggallah di mana saja kamu dapat;  
+“Bangunlah dan pergilah, dengan seisi rumahmu, dan tinggTuhan di mana saja kamu dapat;  
 karena Tuhan telah memanggil untuk terjadi kelaparan, dan itu juga akan datang ke atas negeri ini selama tujuh tahun.”
 
 ## 2 Raja-raja 8:2
 
-Maka perempuan itu bangun dan bertindak sesuai dengan perkataan abdi Allah,  
+Maka perempuan itu bangun dan bertindak sesuai dengan perkataan abdi Tuhan,  
 dan pergi dengan seisi rumahnya dan tinggal di tanah orang Filistin selama tujuh tahun.
 
 ## 2 Raja-raja 8:3
@@ -18,7 +18,7 @@ dan ia pergi untuk mengajukan permohonan kepada raja untuk rumahnya dan ladangny
 
 ## 2 Raja-raja 8:4
 
-Pada waktu itu, raja sedang berbicara dengan Gehazi, pelayan abdi Allah, katanya,  
+Pada waktu itu, raja sedang berbicara dengan Gehazi, pelayan abdi Tuhan, katanya,  
 “Tolong ceritakan kepadaku semua hal luar biasa yang telah dilakukan Elisa.”
 
 ## 2 Raja-raja 8:5
@@ -40,12 +40,12 @@ Maka raja menunjuk seorang pejabat tertentu untuknya, katanya,
 
 Elisa tiba di Damsyik.  
 Pada waktu itu, Ben-hadad, raja Aram, sedang sakit, dan ia diberitahu, katanya,  
-“Abdi Allah telah datang ke sini.”
+“Abdi Tuhan telah datang ke sini.”
 
 ## 2 Raja-raja 8:8
 
 Maka raja berkata kepada Hazael,  
-“Bawalah hadiah di tanganmu dan pergilah menemui abdi Allah,  
+“Bawalah hadiah di tanganmu dan pergilah menemui abdi Tuhan,  
 dan bertanyalah kepada Tuhan melalui dia, katanya, ‘Apakah aku akan sembuh dari penyakit ini?’”
 
 ## 2 Raja-raja 8:9
@@ -62,7 +62,7 @@ tetapi Tuhan telah menunjukkan kepadaku bahwa ia pasti akan mati.”
 
 ## 2 Raja-raja 8:11
 
-Dan ia menatapnya dengan tajam sampai Hazael merasa malu, dan abdi Allah menangis.
+Dan ia menatapnya dengan tajam sampai Hazael merasa malu, dan abdi Tuhan menangis.
 
 ## 2 Raja-raja 8:12
 

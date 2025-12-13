@@ -28,7 +28,7 @@ Mereka kawin campur dengan mereka, mengambil anak-anak perempuan mereka sebagai 
 
 ## Hakim-Hakim 3:7
 
-Orang Israel melakukan kejahatan di mata Tuhan; mereka melupakan Tuhan Allah mereka dan melayani Baal dan Asyera.
+Orang Israel melakukan kejahatan di mata Tuhan; mereka melupakan Tuhan Tuhan mereka dan melayani Baal dan Asyera.
 
 ## Hakim-Hakim 3:8
 
@@ -82,7 +82,7 @@ Tetapi dia sendiri kembali di dekat patung-patung batu di Gilgal dan berkata, "A
 
 ## Hakim-Hakim 3:20
 
-Ehud mendekatinya saat dia duduk sendirian di kamar atas yang sejuk dan berkata, "Aku punya pesan dari Allah untukmu." Saat raja bangkit dari tempat duduknya,
+Ehud mendekatinya saat dia duduk sendirian di kamar atas yang sejuk dan berkata, "Aku punya pesan dari Tuhan untukmu." Saat raja bangkit dari tempat duduknya,
 
 ## Hakim-Hakim 3:21
 

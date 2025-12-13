@@ -4,17 +4,17 @@
 
 ## Mazmur 50:1
 
-> Yang Mahakuasa, Allah, Tuhan, telah berfirman,  
+> Yang Mahakuasa, Tuhan, Tuhan, telah berfirman,  
 > Dan memanggil bumi, dari terbitnya matahari sampai terbenamnya.
 
 ## Mazmur 50:2
 
 > Dari Sion, puncak keindahan,  
-> Allah telah menyatakan terang-Nya.
+> Tuhan telah menyatakan terang-Nya.
 
 ## Mazmur 50:3
 
-> Biarlah Allah kita datang dan tidak tinggal diam;  
+> Biarlah Tuhan kita datang dan tidak tinggal diam;  
 > Api yang menghanguskan mendahului-Nya,  
 > Dan badai yang dahsyat berputar di sekeliling-Nya.
 
@@ -31,7 +31,7 @@
 ## Mazmur 50:6
 
 > Dan langit memberitakan kebenaran-Nya,  
-> Sebab Allah sendiri adalah hakim.
+> Sebab Tuhan sendiri adalah hakim.
 
 > Sela
 
@@ -41,7 +41,7 @@
 
 > "Dengarlah, umat-Ku, dan Aku akan berbicara;  
 > Israel, Aku akan bersaksi melawan engkau;  
-> Akulah Allah, Allahmu.
+> Akulah Tuhan, Tuhanmu.
 
 ## Mazmur 50:8
 
@@ -77,7 +77,7 @@
 
 ## Mazmur 50:14
 
-> Persembahkanlah kepada Allah korban syukur  
+> Persembahkanlah kepada Tuhan korban syukur  
 > Dan penuhilah nazarmu kepada Yang Mahatinggi;
 
 ## Mazmur 50:15
@@ -89,7 +89,7 @@
 
 ## Mazmur 50:16
 
-Tetapi kepada orang fasik Allah berfirman,
+Tetapi kepada orang fasik Tuhan berfirman,
 
 > "Apakah hakmu untuk menyebut ketetapan-Ku  
 > Dan membicarakan perjanjian-Ku?
@@ -124,10 +124,10 @@ Tetapi kepada orang fasik Allah berfirman,
 
 ## Mazmur 50:22
 
-> Sekarang renungkanlah ini, kamu yang melupakan Allah,  
+> Sekarang renungkanlah ini, kamu yang melupakan Tuhan,  
 > Supaya Aku tidak mencabik-cabik kamu, tanpa ada yang melepaskan.
 
 ## Mazmur 50:23
 
 > Siapa yang mempersembahkan korban syukur memuliakan Aku;  
-> Dan kepada orang yang jalannya benar, Aku akan menyatakan keselamatan dari Allah."
+> Dan kepada orang yang jalannya benar, Aku akan menyatakan keselamatan dari Tuhan."

@@ -22,24 +22,24 @@ Ketika mereka sampai di tanah Zuf, Saul berkata kepada pelayannya yang bersamany
 
 ## 1 Samuel 9:6
 
-Tetapi pelayan itu berkata, “Lihatlah sekarang, ada seorang abdi Allah di kota ini, dan dia adalah seorang yang dihormati. Semua yang dikatakannya pasti terjadi. Mari kita pergi ke sana sekarang; mungkin dia bisa memberitahu kita jalan kita.”
+Tetapi pelayan itu berkata, “Lihatlah sekarang, ada seorang abdi Tuhan di kota ini, dan dia adalah seorang yang dihormati. Semua yang dikatakannya pasti terjadi. Mari kita pergi ke sana sekarang; mungkin dia bisa memberitahu kita jalan kita.”
 
 ## 1 Samuel 9:7
 
-Kemudian Saul berkata kepada pelayannya, “Tetapi lihat, jika kita pergi, apa yang akan kita bawa kepada orang itu? Roti sudah habis dari bekal kita, dan kita tidak punya hadiah untuk diberikan kepada abdi Allah itu. Apa yang kita miliki?”
+Kemudian Saul berkata kepada pelayannya, “Tetapi lihat, jika kita pergi, apa yang akan kita bawa kepada orang itu? Roti sudah habis dari bekal kita, dan kita tidak punya hadiah untuk diberikan kepada abdi Tuhan itu. Apa yang kita miliki?”
 
 ## 1 Samuel 9:8
 
-Pelayan itu menjawab Saul lagi dan berkata, “Lihatlah, aku memiliki seperempat syikal perak. Aku akan memberikannya kepada abdi Allah itu, dan dia akan memberitahu kita jalan kita.”
+Pelayan itu menjawab Saul lagi dan berkata, “Lihatlah, aku memiliki seperempat syikal perak. Aku akan memberikannya kepada abdi Tuhan itu, dan dia akan memberitahu kita jalan kita.”
 
 ## 1 Samuel 9:9
 
-(Dahulu di Israel, ketika seseorang pergi untuk bertanya kepada Allah, ia akan berkata, “Mari, kita pergi kepada pelihat,” karena nabi zaman sekarang dahulu disebut pelihat.)
+(Dahulu di Israel, ketika seseorang pergi untuk bertanya kepada Tuhan, ia akan berkata, “Mari, kita pergi kepada pelihat,” karena nabi zaman sekarang dahulu disebut pelihat.)
 
 ## 1 Samuel 9:10
 
 Kemudian Saul berkata kepada pelayannya, “Nasihatmu baik; mari, kita pergi.”  
-Maka mereka pergi ke kota tempat abdi Allah itu berada.
+Maka mereka pergi ke kota tempat abdi Tuhan itu berada.
 
 ---
 
@@ -119,4 +119,4 @@ Maka Saul bangun, dan keduanya, dia dan Samuel, pergi keluar ke jalan.
 
 ## 1 Samuel 9:27
 
-Ketika mereka sedang turun ke ujung kota, Samuel berkata kepada Saul, “Suruhlah pelayan itu berjalan di depan kita”—dan pelayan itu berjalan—“tetapi engkau berdirilah sebentar, agar aku dapat menyatakan kepadamu firman Allah.”
+Ketika mereka sedang turun ke ujung kota, Samuel berkata kepada Saul, “Suruhlah pelayan itu berjalan di depan kita”—dan pelayan itu berjalan—“tetapi engkau berdirilah sebentar, agar aku dapat menyatakan kepadamu firman Tuhan.”

@@ -2,11 +2,11 @@
 
 ## Wahyu 1:1
 
-Wahyu Yesus Kristus, yang diberikan Allah kepada-Nya untuk menunjukkan kepada hamba-hamba-Nya hal-hal yang harus segera terjadi. Ia menyatakannya dengan mengutus malaikat-Nya kepada hamba-Nya Yohanes,
+Wahyu Yesus Kristus, yang diberikan Tuhan kepada-Nya untuk menunjukkan kepada hamba-hamba-Nya hal-hal yang harus segera terjadi. Ia menyatakannya dengan mengutus malaikat-Nya kepada hamba-Nya Yohanes,
 
 ## Wahyu 1:2
 
-yang bersaksi tentang firman Allah dan tentang kesaksian Yesus Kristus, tentang segala sesuatu yang dilihatnya.
+yang bersaksi tentang firman Tuhan dan tentang kesaksian Yesus Kristus, tentang segala sesuatu yang dilihatnya.
 
 ## Wahyu 1:3
 
@@ -22,7 +22,7 @@ dan dari Yesus Kristus, saksi yang setia, yang sulung dari antara orang mati, da
 
 ## Wahyu 1:6
 
-dan yang telah menjadikan kita suatu kerajaan, imam-imam bagi Allah dan Bapa-Nya—bagi Dialah kemuliaan dan kuasa sampai selama-lamanya. Amin.
+dan yang telah menjadikan kita suatu kerajaan, imam-imam bagi Tuhan dan Bapa-Nya—bagi Dialah kemuliaan dan kuasa sampai selama-lamanya. Amin.
 
 ## Wahyu 1:7
 
@@ -34,11 +34,11 @@ dan yang telah menjadikan kita suatu kerajaan, imam-imam bagi Allah dan Bapa-Nya
 
 ## Wahyu 1:8
 
-“Aku adalah Alfa dan Omega,” firman Tuhan Allah, “yang ada, yang sudah ada, dan yang akan datang, Yang Mahakuasa.”
+“Aku adalah Alfa dan Omega,” firman Tuhan Tuhan, “yang ada, yang sudah ada, dan yang akan datang, Yang Mahakuasa.”
 
 ## Wahyu 1:9
 
-Aku, Yohanes, saudaramu dan temanmu dalam kesusahan dan kerajaan dan ketekunan dalam Yesus, berada di pulau Patmos karena firman Allah dan kesaksian Yesus.
+Aku, Yohanes, saudaramu dan temanmu dalam kesusahan dan kerajaan dan ketekunan dalam Yesus, berada di pulau Patmos karena firman Tuhan dan kesaksian Yesus.
 
 ## Wahyu 1:10
 

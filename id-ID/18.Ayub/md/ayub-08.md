@@ -11,7 +11,7 @@ Bildad orang Suah menjawab,
 
 ## Ayub 8:3
 
-> Apakah Allah memutarbalikkan keadilan?
+> Apakah Tuhan memutarbalikkan keadilan?
 > Atau apakah Yang Mahakuasa memutarbalikkan apa yang benar?
 
 ## Ayub 8:4
@@ -21,7 +21,7 @@ Bildad orang Suah menjawab,
 
 ## Ayub 8:5
 
-> Tetapi jika engkau sungguh-sungguh mencari Allah
+> Tetapi jika engkau sungguh-sungguh mencari Tuhan
 > dan memohon belas kasihan dari Yang Mahakuasa,
 
 ## Ayub 8:6
@@ -64,7 +64,7 @@ Bildad orang Suah menjawab,
 
 ## Ayub 8:13
 
-> Begitulah nasib semua orang yang melupakan Allah;
+> Begitulah nasib semua orang yang melupakan Tuhan;
 > harapan orang fasik akan binasa.
 
 ## Ayub 8:14
@@ -101,7 +101,7 @@ Bildad orang Suah menjawab,
 
 ## Ayub 8:20
 
-> Lihatlah, Allah tidak akan menolak orang yang berintegritas,
+> Lihatlah, Tuhan tidak akan menolak orang yang berintegritas,
 > dan Dia tidak akan mendukung orang jahat.
 
 ## Ayub 8:21

@@ -1,170 +1,155 @@
 {
-    "book": "Mazmur",
-    "chapter": 59,
-    "verses": [
-        {
-            "text": [
-                "Untuk pemimpin musik; menurut lagu: Jangan Musnahkan. Miktam dari Daud, ketika Saul mengirim orang-orang dan mereka mengawasi rumah itu untuk membunuhnya."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Selamatkanlah aku dari musuh-musuhku, ya Allahku;",
-                "> Tempatkanlah aku dengan aman di tempat yang tinggi jauh dari mereka yang bangkit melawan aku."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Lepaskanlah aku dari mereka yang melakukan ketidakadilan,",
-                "> Dan selamatkanlah aku dari orang-orang yang kejam."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Sebab lihatlah, mereka telah memasang perangkap untuk hidupku;",
-                "> Orang-orang yang ganas menyerang aku,",
-                "> Bukan karena kesalahan atau dosaku, ya Tuhan,"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Tanpa kesalahan di pihakku, mereka berlari dan berdiri melawan aku.",
-                "> Bangkitlah untuk menolongku, dan lihatlah!"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Engkau, Tuhan, Allah semesta alam, Allah Israel,",
-                "> Bangkitlah untuk membawa keadilan kepada semua bangsa;",
-                "> Jangan tunjukkan belas kasihan kepada mereka yang bertindak curang dalam kesalahan.",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Mereka kembali pada waktu malam, mereka menggonggong seperti anjing,",
-                "> Dan berkeliaran di sekitar kota."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Lihatlah, mereka memuntahkan dengan mulut mereka;",
-                "> Pedang ada di bibir mereka,",
-                "> Karena, mereka berkata, \"Siapa yang mendengar?\""
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Namun Engkau, Tuhan, menganggap mereka lucu;",
-                "> Engkau menertawakan semua bangsa."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Dalam kekuatan-Nya, aku akan berjaga-jaga untuk Engkau,",
-                "> Karena Allah adalah tempat perlindunganku."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Allahku dalam kesetiaan-Nya akan datang kepadaku;",
-                "> Allah akan membiarkan aku melihat kemenangan atas musuh-musuhku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Janganlah hancurkan mereka, supaya bangsaku tidak lupa;",
-                "> Cerai-beraikan mereka dengan kuasa-Mu dan jatuhkan mereka,",
-                "> Tuhan, perisai kami."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Karena dosa mulut mereka dan kata-kata bibir mereka,",
-                "> Biarlah mereka terperangkap dalam kesombongan mereka,",
-                "> Dan karena kutukan dan kebohongan yang mereka ucapkan."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Hancurkan mereka dalam murka, hancurkan mereka sehingga mereka tidak ada lagi;",
-                "> Agar orang-orang tahu bahwa Allah memerintah di Yakub,",
-                "> Sampai ke ujung bumi.",
-                "> Sela"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Mereka kembali pada waktu malam, mereka menggonggong seperti anjing,",
-                "> Dan berkeliaran di sekitar kota."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Mereka berkeliaran mencari makanan,",
-                "> Dan menggerutu jika mereka tidak puas."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Tetapi aku, aku akan menyanyikan kekuatan-Mu;",
-                "> Ya, aku akan bersukacita menyanyikan belas kasihan-Mu di pagi hari,",
-                "> Karena Engkau telah menjadi tempat perlindunganku",
-                "> Dan tempat perlindungan pada hari kesusahanku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Kekuatan-Ku, aku akan menyanyikan pujian kepada-Mu;",
-                "> Karena Allah adalah tempat perlindunganku, Allah yang menunjukkan belas kasihan kepadaku."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 59,
+  "verses": [
+    {
+      "text": [
+        "Untuk pemimpin musik; menurut lagu: Jangan Musnahkan. Miktam dari Daud, ketika Saul mengirim orang-orang dan mereka mengawasi rumah itu untuk membunuhnya."
+      ]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Selamatkanlah aku dari musuh-musuhku, ya Tuhanku;",
+        "> Tempatkanlah aku dengan aman di tempat yang tinggi jauh dari mereka yang bangkit melawan aku."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Lepaskanlah aku dari mereka yang melakukan ketidakadilan,",
+        "> Dan selamatkanlah aku dari orang-orang yang kejam."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Sebab lihatlah, mereka telah memasang perangkap untuk hidupku;",
+        "> Orang-orang yang ganas menyerang aku,",
+        "> Bukan karena kesalahan atau dosaku, ya Tuhan,"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Tanpa kesalahan di pihakku, mereka berlari dan berdiri melawan aku.",
+        "> Bangkitlah untuk menolongku, dan lihatlah!"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Engkau, Tuhan, Tuhan semesta alam, Tuhan Israel,",
+        "> Bangkitlah untuk membawa keadilan kepada semua bangsa;",
+        "> Jangan tunjukkan belas kasihan kepada mereka yang bertindak curang dalam kesalahan.",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Mereka kembali pada waktu malam, mereka menggonggong seperti anjing,",
+        "> Dan berkeliaran di sekitar kota."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Lihatlah, mereka memuntahkan dengan mulut mereka;",
+        "> Pedang ada di bibir mereka,",
+        "> Karena, mereka berkata, \"Siapa yang mendengar?\""
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Namun Engkau, Tuhan, menganggap mereka lucu;",
+        "> Engkau menertawakan semua bangsa."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Dalam kekuatan-Nya, aku akan berjaga-jaga untuk Engkau,",
+        "> Karena Tuhan adalah tempat perlindunganku."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Tuhanku dalam kesetiaan-Nya akan datang kepadaku;",
+        "> Tuhan akan membiarkan aku melihat kemenangan atas musuh-musuhku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Janganlah hancurkan mereka, supaya bangsaku tidak lupa;",
+        "> Cerai-beraikan mereka dengan kuasa-Mu dan jatuhkan mereka,",
+        "> Tuhan, perisai kami."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Karena dosa mulut mereka dan kata-kata bibir mereka,",
+        "> Biarlah mereka terperangkap dalam kesombongan mereka,",
+        "> Dan karena kutukan dan kebohongan yang mereka ucapkan."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Hancurkan mereka dalam murka, hancurkan mereka sehingga mereka tidak ada lagi;",
+        "> Agar orang-orang tahu bahwa Tuhan memerintah di Yakub,",
+        "> Sampai ke ujung bumi.",
+        "> Sela"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Mereka kembali pada waktu malam, mereka menggonggong seperti anjing,",
+        "> Dan berkeliaran di sekitar kota."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["> Mereka berkeliaran mencari makanan,", "> Dan menggerutu jika mereka tidak puas."]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Tetapi aku, aku akan menyanyikan kekuatan-Mu;",
+        "> Ya, aku akan bersukacita menyanyikan belas kasihan-Mu di pagi hari,",
+        "> Karena Engkau telah menjadi tempat perlindunganku",
+        "> Dan tempat perlindungan pada hari kesusahanku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Kekuatan-Ku, aku akan menyanyikan pujian kepada-Mu;",
+        "> Karena Tuhan adalah tempat perlindunganku, Tuhan yang menunjukkan belas kasihan kepadaku."
+      ]
+    }
+  ]
 }

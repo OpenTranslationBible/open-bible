@@ -2,7 +2,7 @@
 
 ## Kejadian 5:1
 
-Inilah catatan keturunan Adam. Pada hari ketika Allah menciptakan manusia, Dia menjadikan mereka menurut rupa Allah.
+Inilah catatan keturunan Adam. Pada hari ketika Tuhan menciptakan manusia, Dia menjadikan mereka menurut rupa Tuhan.
 
 ## Kejadian 5:2
 
@@ -86,7 +86,7 @@ Ketika Henokh berumur 65 tahun, ia memperanakkan Metusalah.
 
 ## Kejadian 5:22
 
-Setelah ia menjadi ayah Metusalah, Henokh berjalan dengan Allah selama 300 tahun dan memiliki anak-anak laki-laki dan perempuan lainnya.
+Setelah ia menjadi ayah Metusalah, Henokh berjalan dengan Tuhan selama 300 tahun dan memiliki anak-anak laki-laki dan perempuan lainnya.
 
 ## Kejadian 5:23
 
@@ -94,7 +94,7 @@ Jadi, seluruh umur Henokh adalah 365 tahun.
 
 ## Kejadian 5:24
 
-Henokh berjalan dengan Allah; dan ia tidak ada lagi, sebab Allah telah mengambilnya.
+Henokh berjalan dengan Tuhan; dan ia tidak ada lagi, sebab Tuhan telah mengambilnya.
 
 ## Kejadian 5:25
 

@@ -113,7 +113,7 @@ Sekarang ketika Yosia berbalik,
 dia melihat kuburan-kuburan yang ada di gunung itu,  
 dan dia mengirim orang-orang dan mengambil tulang-tulang dari kuburan-kuburan itu  
 dan membakarnya di atas mezbah, dan menajiskannya,  
-sesuai dengan firman Tuhan yang telah dinyatakan oleh abdi Allah,  
+sesuai dengan firman Tuhan yang telah dinyatakan oleh abdi Tuhan,  
 yang telah menyatakan hal-hal ini.
 
 ## 2 Raja-raja 23:17
@@ -121,7 +121,7 @@ yang telah menyatakan hal-hal ini.
 Kemudian dia berkata,  
 "Apa monumen ini yang aku lihat?"  
 Dan orang-orang kota itu memberitahunya,  
-"Itu adalah kuburan abdi Allah yang datang dari Yehuda,  
+"Itu adalah kuburan abdi Tuhan yang datang dari Yehuda,  
 dan menyatakan hal-hal ini yang telah kamu lakukan terhadap mezbah di Betel."
 
 ## 2 Raja-raja 23:18
@@ -149,7 +149,7 @@ kemudian dia kembali ke Yerusalem.
 ## 2 Raja-raja 23:21
 
 Raja memerintahkan semua orang, dengan berkata,  
-"Rayakanlah Paskah untuk Tuhan, Allahmu  
+"Rayakanlah Paskah untuk Tuhan, Tuhanmu  
 seperti yang tertulis dalam Kitab Perjanjian ini."
 
 ## 2 Raja-raja 23:22

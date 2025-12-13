@@ -35,7 +35,7 @@
 ## Hosea 6:6
 
 > Karena Aku menginginkan belas kasihan lebih daripada korban,  
-> Dan pengetahuan tentang Allah lebih daripada korban bakaran.
+> Dan pengetahuan tentang Tuhan lebih daripada korban bakaran.
 
 ## Hosea 6:7
 

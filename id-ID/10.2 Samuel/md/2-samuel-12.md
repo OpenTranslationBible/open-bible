@@ -39,7 +39,7 @@ karena ia melakukan hal ini dan tidak memiliki belas kasihan.”
 
 Natan kemudian berkata kepada Daud,  
 “Engkaulah orang itu!  
-Inilah yang dikatakan Tuhan, Allah Israel:  
+Inilah yang dikatakan Tuhan, Tuhan Israel:  
 ‘Akulah yang mengurapi engkau menjadi raja atas Israel, dan Akulah yang menyelamatkan engkau dari tangan Saul.
 
 ## 2 Samuel 12:8

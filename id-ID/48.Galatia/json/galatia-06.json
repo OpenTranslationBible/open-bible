@@ -1,114 +1,112 @@
 {
-    "book": "Galatia",
-    "chapter": 6,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Saudara-saudara, jika seseorang kedapatan melakukan kesalahan, kamu yang dipimpin oleh Roh harus memulihkan orang itu dengan roh kelemahlembutan. Tetapi berhati-hatilah, jangan sampai kamu juga tergoda."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Bantulah menanggung beban satu sama lain, dan dengan demikian, kamu akan memenuhi hukum Kristus."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Jika seseorang mengira bahwa dirinya berarti padahal ia tidak berarti, ia menipu dirinya sendiri."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Setiap orang harus memeriksa tindakan mereka sendiri, dan kemudian mereka dapat berbangga atas diri mereka sendiri saja, tanpa membandingkan diri dengan orang lain."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Karena setiap orang harus memikul bebannya sendiri."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Orang yang menerima pengajaran dalam firman harus berbagi segala kebaikan dengan pengajarnya."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Jangan tertipu, Allah tidak dapat dipermainkan; karena apa yang ditabur seseorang, itu juga yang akan dituainya."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Karena orang yang menabur untuk memuaskan dagingnya sendiri akan menuai kebinasaan dari daging, tetapi orang yang menabur untuk memuaskan Roh akan menuai hidup yang kekal dari Roh."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Janganlah kita menjadi lelah dalam berbuat baik, karena pada waktu yang tepat, kita akan menuai hasil jika kita tidak menyerah."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Oleh karena itu, selama kita memiliki kesempatan, marilah kita berbuat baik kepada semua orang, terutama kepada mereka yang termasuk dalam keluarga iman."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Perhatikan huruf besar yang saya gunakan saat menulis kepada kamu dengan tangan saya sendiri!"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Mereka yang ingin membuat kesan baik dalam daging berusaha memaksamu untuk disunat, hanya untuk menghindari penganiayaan karena salib Kristus."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Karena bahkan mereka yang disunat tidak mematuhi hukum itu sendiri, namun mereka ingin kamu disunat agar mereka dapat berbangga tentang dagingmu."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Namun, aku tidak akan pernah berbangga atas apa pun kecuali salib Tuhan kita Yesus Kristus, melalui siapa dunia telah disalibkan bagiku, dan aku bagi dunia."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Karena baik sunat maupun tidak bersunat tidak berarti apa-apa; yang penting adalah ciptaan baru."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Damai dan belas kasihan kepada semua yang mengikuti aturan ini, dan kepada Israel dari Allah."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Mulai sekarang, jangan ada yang mengganggu aku, karena aku membawa pada tubuhku tanda-tanda Yesus."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Semoga kasih karunia Tuhan kita Yesus Kristus menyertai rohmu, sahabat-sahabat terkasih. Amin."
-            ]
-        }
-    ]
+  "book": "Galatia",
+  "chapter": 6,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Saudara-saudara, jika seseorang kedapatan melakukan kesalahan, kamu yang dipimpin oleh Roh harus memulihkan orang itu dengan roh kelemahlembutan. Tetapi berhati-hatilah, jangan sampai kamu juga tergoda."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Bantulah menanggung beban satu sama lain, dan dengan demikian, kamu akan memenuhi hukum Kristus."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Jika seseorang mengira bahwa dirinya berarti padahal ia tidak berarti, ia menipu dirinya sendiri."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Setiap orang harus memeriksa tindakan mereka sendiri, dan kemudian mereka dapat berbangga atas diri mereka sendiri saja, tanpa membandingkan diri dengan orang lain."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["Karena setiap orang harus memikul bebannya sendiri."]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Orang yang menerima pengajaran dalam firman harus berbagi segala kebaikan dengan pengajarnya."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Jangan tertipu, Tuhan tidak dapat dipermainkan; karena apa yang ditabur seseorang, itu juga yang akan dituainya."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Karena orang yang menabur untuk memuaskan dagingnya sendiri akan menuai kebinasaan dari daging, tetapi orang yang menabur untuk memuaskan Roh akan menuai hidup yang kekal dari Roh."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Janganlah kita menjadi lelah dalam berbuat baik, karena pada waktu yang tepat, kita akan menuai hasil jika kita tidak menyerah."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Oleh karena itu, selama kita memiliki kesempatan, marilah kita berbuat baik kepada semua orang, terutama kepada mereka yang termasuk dalam keluarga iman."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Perhatikan huruf besar yang saya gunakan saat menulis kepada kamu dengan tangan saya sendiri!"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Mereka yang ingin membuat kesan baik dalam daging berusaha memaksamu untuk disunat, hanya untuk menghindari penganiayaan karena salib Kristus."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Karena bahkan mereka yang disunat tidak mematuhi hukum itu sendiri, namun mereka ingin kamu disunat agar mereka dapat berbangga tentang dagingmu."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Namun, aku tidak akan pernah berbangga atas apa pun kecuali salib Tuhan kita Yesus Kristus, melalui siapa dunia telah disalibkan bagiku, dan aku bagi dunia."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Karena baik sunat maupun tidak bersunat tidak berarti apa-apa; yang penting adalah ciptaan baru."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Damai dan belas kasihan kepada semua yang mengikuti aturan ini, dan kepada Israel dari Tuhan."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Mulai sekarang, jangan ada yang mengganggu aku, karena aku membawa pada tubuhku tanda-tanda Yesus."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Semoga kasih karunia Tuhan kita Yesus Kristus menyertai rohmu, sahabat-sahabat terkasih. Amin."
+      ]
+    }
+  ]
 }

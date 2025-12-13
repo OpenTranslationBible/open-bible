@@ -82,7 +82,7 @@ Inilah aku, dan anak-anak yang diberikan Tuhan kepadaku. Kami adalah tanda dan s
 
 ## Yesaya 8:19
 
-Ketika orang berkata kepadamu, "Berkonsultasilah dengan peramal dan ahli nujum yang berbisik dan bergumam," bukankah seharusnya suatu bangsa bertanya kepada Allah mereka? Mengapa berkonsultasi dengan orang mati demi orang hidup?
+Ketika orang berkata kepadamu, "Berkonsultasilah dengan peramal dan ahli nujum yang berbisik dan bergumam," bukankah seharusnya suatu bangsa bertanya kepada Tuhan mereka? Mengapa berkonsultasi dengan orang mati demi orang hidup?
 
 ## Yesaya 8:20
 
@@ -90,7 +90,7 @@ Lihatlah kepada hukum dan kesaksian! Jika mereka tidak berbicara sesuai dengan p
 
 ## Yesaya 8:21
 
-Mereka akan berkeliaran melalui tanah, tertekan dan lapar; ketika mereka kelaparan, mereka akan menjadi marah dan, melihat ke atas, akan mengutuk raja mereka dan Allah mereka.
+Mereka akan berkeliaran melalui tanah, tertekan dan lapar; ketika mereka kelaparan, mereka akan menjadi marah dan, melihat ke atas, akan mengutuk raja mereka dan Tuhan mereka.
 
 ## Yesaya 8:22
 

@@ -18,11 +18,11 @@ Dan Tuhan telah mengutus kepadamu semua hamba-Nya, para nabi, dengan tekun, teta
 
 ## Yeremia 25:5
 
-dengan mengatakan, ‘Berbaliklah sekarang, masing-masing dari jalan-jalanmu yang jahat dan dari perbuatan-perbuatanmu yang jahat, dan tinggallah di tanah yang telah diberikan Tuhan kepadamu dan nenek moyangmu untuk selama-lamanya;
+dengan mengatakan, ‘Berbaliklah sekarang, masing-masing dari jalan-jalanmu yang jahat dan dari perbuatan-perbuatanmu yang jahat, dan tinggTuhan di tanah yang telah diberikan Tuhan kepadamu dan nenek moyangmu untuk selama-lamanya;
 
 ## Yeremia 25:6
 
-dan jangan mengikuti allah lain untuk melayani dan menyembah mereka, dan jangan membangkitkan amarah-Ku dengan pekerjaan tanganmu, maka Aku tidak akan mendatangkan malapetaka kepadamu.’
+dan jangan mengikuti Tuhan lain untuk melayani dan menyembah mereka, dan jangan membangkitkan amarah-Ku dengan pekerjaan tanganmu, maka Aku tidak akan mendatangkan malapetaka kepadamu.’
 
 ## Yeremia 25:7
 
@@ -58,7 +58,7 @@ Mereka akan ditaklukkan oleh banyak bangsa dan raja-raja besar; Aku akan membala
 
 ## Yeremia 25:15
 
-Sebab beginilah firman Tuhan, Allah Israel, kepadaku: “Ambillah cawan anggur murka-Ku dari tangan-Ku dan buatlah semua bangsa yang kepada mereka Aku mengutusmu meminumnya.
+Sebab beginilah firman Tuhan, Tuhan Israel, kepadaku: “Ambillah cawan anggur murka-Ku dari tangan-Ku dan buatlah semua bangsa yang kepada mereka Aku mengutusmu meminumnya.
 
 ## Yeremia 25:16
 
@@ -106,7 +106,7 @@ dan semua raja di utara, dekat dan jauh, satu demi satu—semua kerajaan di muka
 
 ## Yeremia 25:27
 
-“Kemudian engkau harus mengatakan kepada mereka, ‘Inilah firman Tuhan semesta alam, Allah Israel: Minumlah, mabuklah, muntahlah, dan jatuhlah untuk tidak bangkit lagi karena pedang yang Aku kirimkan di antara kamu.’
+“Kemudian engkau harus mengatakan kepada mereka, ‘Inilah firman Tuhan semesta alam, Tuhan Israel: Minumlah, mabuklah, muntahlah, dan jatuhlah untuk tidak bangkit lagi karena pedang yang Aku kirimkan di antara kamu.’
 
 ## Yeremia 25:28
 

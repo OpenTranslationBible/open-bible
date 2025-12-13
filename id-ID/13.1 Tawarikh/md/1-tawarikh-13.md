@@ -10,7 +10,7 @@ Daud meminta nasihat dari para pemimpin atas ribuan dan ratusan, termasuk setiap
 
 Daud berkata kepada seluruh jemaah Israel,
 
-> “Jika itu baik menurutmu, dan jika itu dari Tuhan Allah kita,  
+> “Jika itu baik menurutmu, dan jika itu dari Tuhan Tuhan kita,  
 > marilah kita mengirimkan pesan ke mana-mana kepada saudara-saudara kita yang tinggal di seluruh tanah Israel,  
 > juga kepada para imam dan orang Lewi yang ada bersama mereka di kota-kota mereka dengan tanah penggembalaan,  
 > agar mereka dapat bertemu dengan kita;
@@ -19,7 +19,7 @@ Daud berkata kepada seluruh jemaah Israel,
 
 ## 1 Tawarikh 13:3
 
-> dan marilah kita mengembalikan tabut Allah kita kepada kita,  
+> dan marilah kita mengembalikan tabut Tuhan kita kepada kita,  
 > karena kita tidak mencarinya selama masa Saul.”
 
 ---
@@ -37,7 +37,7 @@ Kemudian seluruh jemaah setuju untuk melakukannya,
 Jadi Daud mengumpulkan seluruh Israel bersama-sama,  
 dari Sihor di Mesir sampai ke pintu masuk Hamat,
 
-> untuk membawa tabut Allah dari Kiryat-Yearim.
+> untuk membawa tabut Tuhan dari Kiryat-Yearim.
 
 ---
 
@@ -45,14 +45,14 @@ dari Sihor di Mesir sampai ke pintu masuk Hamat,
 
 Daud dan seluruh Israel pergi ke Baala, yaitu Kiryat-Yearim di Yehuda,
 
-> untuk membawa dari sana tabut Allah, Tuhan yang bertakhta di atas kerubim,  
+> untuk membawa dari sana tabut Tuhan, Tuhan yang bertakhta di atas kerubim,  
 > di mana nama-Nya dipanggil.
 
 ---
 
 ## 1 Tawarikh 13:7
 
-Mereka mengangkut tabut Allah di atas kereta baru dari rumah Abinadab,
+Mereka mengangkut tabut Tuhan di atas kereta baru dari rumah Abinadab,
 
 > dengan Uza dan Ahio yang membimbing kereta itu.
 
@@ -60,7 +60,7 @@ Mereka mengangkut tabut Allah di atas kereta baru dari rumah Abinadab,
 
 ## 1 Tawarikh 13:8
 
-Daud dan seluruh Israel merayakan di hadapan Allah dengan segenap kekuatan mereka,
+Daud dan seluruh Israel merayakan di hadapan Tuhan dengan segenap kekuatan mereka,
 
 > dengan nyanyian dan kecapi, harpa, rebana, simbal, dan trompet.
 
@@ -80,7 +80,7 @@ Uza mengulurkan tangannya untuk memegang tabut itu,
 Murka Tuhan menyala terhadap Uza,  
 maka Dia memukulnya karena dia telah mengulurkan tangannya ke arah tabut itu;
 
-> dan dia mati di sana di hadapan Allah.
+> dan dia mati di sana di hadapan Tuhan.
 
 ---
 
@@ -94,9 +94,9 @@ Daud merasa marah karena ledakan murka Tuhan terhadap Uza;
 
 ## 1 Tawarikh 13:12
 
-Daud merasa takut kepada Allah pada hari itu, sambil berkata,
+Daud merasa takut kepada Tuhan pada hari itu, sambil berkata,
 
-> “Bagaimana aku dapat membawa tabut Allah kepada diriku sendiri?”
+> “Bagaimana aku dapat membawa tabut Tuhan kepada diriku sendiri?”
 
 ---
 
@@ -110,6 +110,6 @@ Jadi Daud tidak membawa tabut itu kepada dirinya sendiri ke kota Daud,
 
 ## 1 Tawarikh 13:14
 
-Maka tabut Allah tinggal bersama keluarga Obed-Edom di rumahnya selama tiga bulan;
+Maka tabut Tuhan tinggal bersama keluarga Obed-Edom di rumahnya selama tiga bulan;
 
 > dan Tuhan memberkati keluarga Obed-Edom dan segala yang dimilikinya.

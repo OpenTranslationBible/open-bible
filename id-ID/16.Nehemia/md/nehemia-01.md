@@ -16,11 +16,11 @@ Kata mereka kepadaku, “Orang-orang yang terluput, yang terhindar dari penawana
 
 ## Nehemia 1:4
 
-Ketika aku mendengar perkataan ini, duduklah aku menangis dan berkabung selama beberapa hari. Aku berpuasa dan berdoa di hadapan Allah semesta langit.
+Ketika aku mendengar perkataan ini, duduklah aku menangis dan berkabung selama beberapa hari. Aku berpuasa dan berdoa di hadapan Tuhan semesta langit.
 
 ## Nehemia 1:5
 
-Kataku, “Ya Tuhan, Allah semesta langit, Allah yang besar dan dahsyat, yang memegang perjanjian dan kasih setia terhadap mereka yang mengasihi-Nya dan memegang perintah-Nya,
+Kataku, “Ya Tuhan, Tuhan semesta langit, Tuhan yang besar dan dahsyat, yang memegang perjanjian dan kasih setia terhadap mereka yang mengasihi-Nya dan memegang perintah-Nya,
 
 ## Nehemia 1:6
 

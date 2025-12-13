@@ -43,7 +43,7 @@ Dan Abner dan orang-orang itu berbaring di sekelilingnya.
 ## 1 Samuel 26:8
 
 Kemudian Abisai berkata kepada Daud,  
-“Hari ini Allah telah menyerahkan musuhmu ke dalam tanganmu;  
+“Hari ini Tuhan telah menyerahkan musuhmu ke dalam tanganmu;  
 sekarang, biarkan aku menancapkan dia dengan tombak ke tanah dengan satu tusukan, dan aku tidak perlu menancapkannya dua kali.”
 
 ## 1 Samuel 26:9
@@ -113,7 +113,7 @@ Sekarang, biarlah tuanku raja mendengarkan kata-kata hambanya.
 Jika Tuhan telah menghasut engkau melawan aku, semoga Dia menerima persembahan;  
 tetapi jika itu adalah manusia, terkutuklah mereka di hadapan Tuhan,  
 karena mereka telah mengusir aku hari ini sehingga aku tidak memiliki bagian dalam warisan Tuhan, dengan mengatakan,  
-‘Pergilah, layani allah lain.’
+‘Pergilah, layani Tuhan lain.’
 
 ## 1 Samuel 26:20
 

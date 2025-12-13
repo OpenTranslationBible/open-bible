@@ -2,11 +2,11 @@
 
 ## Roma 5:1
 
-Jadi, karena kita telah dibenarkan oleh iman, kita menikmati damai dengan Allah melalui Tuhan kita Yesus Kristus,
+Jadi, karena kita telah dibenarkan oleh iman, kita menikmati damai dengan Tuhan melalui Tuhan kita Yesus Kristus,
 
 ## Roma 5:2
 
-melalui Dia kita juga telah memperoleh akses oleh iman ke dalam kasih karunia ini di mana kita berdiri; dan kita bersukacita dalam pengharapan akan kemuliaan Allah.
+melalui Dia kita juga telah memperoleh akses oleh iman ke dalam kasih karunia ini di mana kita berdiri; dan kita bersukacita dalam pengharapan akan kemuliaan Tuhan.
 
 ## Roma 5:3
 
@@ -18,7 +18,7 @@ dan ketekunan membawa kepada karakter yang teruji; dan karakter yang teruji memu
 
 ## Roma 5:5
 
-dan pengharapan tidak mengecewakan kita, karena kasih Allah telah dicurahkan ke dalam hati kita melalui Roh Kudus yang telah diberikan kepada kita.
+dan pengharapan tidak mengecewakan kita, karena kasih Tuhan telah dicurahkan ke dalam hati kita melalui Roh Kudus yang telah diberikan kepada kita.
 
 ## Roma 5:6
 
@@ -30,19 +30,19 @@ Sangat jarang ada orang yang mau mati untuk orang yang benar, meskipun untuk ora
 
 ## Roma 5:8
 
-Tetapi Allah menunjukkan kasih-Nya kepada kita dalam hal ini: sementara kita masih berdosa, Kristus mati untuk kita.
+Tetapi Tuhan menunjukkan kasih-Nya kepada kita dalam hal ini: sementara kita masih berdosa, Kristus mati untuk kita.
 
 ## Roma 5:9
 
-Lebih dari itu, sekarang setelah kita dibenarkan oleh darah-Nya, kita akan diselamatkan dari murka Allah melalui Dia.
+Lebih dari itu, sekarang setelah kita dibenarkan oleh darah-Nya, kita akan diselamatkan dari murka Tuhan melalui Dia.
 
 ## Roma 5:10
 
-Karena jika, ketika kita masih menjadi musuh, kita diperdamaikan dengan Allah melalui kematian Anak-Nya, lebih-lebih lagi, setelah diperdamaikan, kita akan diselamatkan oleh hidup-Nya.
+Karena jika, ketika kita masih menjadi musuh, kita diperdamaikan dengan Tuhan melalui kematian Anak-Nya, lebih-lebih lagi, setelah diperdamaikan, kita akan diselamatkan oleh hidup-Nya.
 
 ## Roma 5:11
 
-Dan bukan hanya itu, tetapi kita juga bersukacita dalam Allah melalui Tuhan kita Yesus Kristus, melalui siapa kita sekarang telah menerima pendamaian.
+Dan bukan hanya itu, tetapi kita juga bersukacita dalam Tuhan melalui Tuhan kita Yesus Kristus, melalui siapa kita sekarang telah menerima pendamaian.
 
 ## Roma 5:12
 
@@ -58,7 +58,7 @@ Namun demikian, maut berkuasa dari zaman Adam sampai Musa, bahkan atas mereka ya
 
 ## Roma 5:15
 
-Tetapi karunia itu tidak seperti pelanggaran. Karena jika oleh pelanggaran satu orang banyak yang mati, lebih-lebih lagi kasih karunia Allah dan karunia oleh kasih karunia satu orang, Yesus Kristus, melimpah kepada banyak orang.
+Tetapi karunia itu tidak seperti pelanggaran. Karena jika oleh pelanggaran satu orang banyak yang mati, lebih-lebih lagi kasih karunia Tuhan dan karunia oleh kasih karunia satu orang, Yesus Kristus, melimpah kepada banyak orang.
 
 ## Roma 5:16
 

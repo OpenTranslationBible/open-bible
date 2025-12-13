@@ -146,7 +146,7 @@ dan Yaazanya, anak orang Maakha, mereka dan orang-orang mereka.
 
 Kemudian Gedalya bersumpah kepada mereka dan kepada orang-orang mereka dan berkata kepada mereka,  
 “Jangan takut kepada hamba-hamba orang Kasdim;  
-tinggallah di negeri ini dan layani raja Babel, dan itu akan baik bagimu.”
+tinggTuhan di negeri ini dan layani raja Babel, dan itu akan baik bagimu.”
 
 ## 2 Raja-raja 25:25
 

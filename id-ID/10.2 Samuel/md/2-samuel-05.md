@@ -58,7 +58,7 @@ Dan ia membangun sekelilingnya dari Milo dan ke dalam.
 ## 2 Samuel 5:10
 
 Dan Daud menjadi semakin besar,  
-karena Tuhan Allah semesta alam menyertai dia.
+karena Tuhan Tuhan semesta alam menyertai dia.
 
 ---
 

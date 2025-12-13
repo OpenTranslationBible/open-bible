@@ -3,7 +3,7 @@
 ## 1 Raja-raja 17:1
 
 Elia, orang Tisbe, dari antara penduduk Gilead, berkata kepada Ahab,  
-“Demi Tuhan, Allah Israel yang hidup, yang di hadapan-Nya aku berdiri,  
+“Demi Tuhan, Tuhan Israel yang hidup, yang di hadapan-Nya aku berdiri,  
 tidak akan ada embun atau hujan pada tahun-tahun ini, kecuali atas perintahku.”
 
 ## 1 Raja-raja 17:2
@@ -44,7 +44,7 @@ Kemudian datanglah firman Tuhan kepadanya, mengatakan,
 
 ## 1 Raja-raja 17:9
 
-“Bangunlah, pergilah ke Sarfat, yang termasuk Sidon, dan tinggallah di sana.  
+“Bangunlah, pergilah ke Sarfat, yang termasuk Sidon, dan tinggTuhan di sana.  
 Lihatlah, Aku telah memerintahkan seorang janda di sana untuk memberimu makanan.”
 
 ## 1 Raja-raja 17:10
@@ -62,7 +62,7 @@ Ketika ia pergi untuk mengambilnya, ia memanggilnya dan berkata,
 ## 1 Raja-raja 17:12
 
 Tetapi perempuan itu berkata,  
-“Demi Tuhan, Allahmu yang hidup,  
+“Demi Tuhan, Tuhanmu yang hidup,  
 aku tidak punya makanan, hanya segenggam tepung dalam mangkuk dan sedikit minyak dalam buli-buli.  
 Dan lihatlah, aku sedang mengumpulkan beberapa kayu bakar supaya aku dapat masuk dan menyiapkannya untukku dan anakku,  
 supaya kami dapat memakannya dan kemudian mati.”
@@ -76,7 +76,7 @@ dan setelah itu engkau dapat membuatnya untuk dirimu dan anakmu.
 
 ## 1 Raja-raja 17:14
 
-Karena inilah yang dikatakan Tuhan, Allah Israel:  
+Karena inilah yang dikatakan Tuhan, Tuhan Israel:  
 ‘Tepung dalam mangkuk itu tidak akan habis,  
 dan buli-buli minyak itu tidak akan kosong,  
 sampai hari Tuhan memberikan hujan di atas muka bumi.’”
@@ -102,7 +102,7 @@ Dan penyakitnya sangat parah, sampai tidak ada nafas lagi padanya.
 ## 1 Raja-raja 17:18
 
 Maka perempuan itu berkata kepada Elia,  
-“Apa urusanku dengan engkau, hai abdi Allah?  
+“Apa urusanku dengan engkau, hai abdi Tuhan?  
 Engkau datang kepadaku untuk mengingatkan kesalahanku dan untuk membunuh anakku!”
 
 ## 1 Raja-raja 17:19
@@ -115,14 +115,14 @@ dan meletakkannya di tempat tidurnya sendiri.
 ## 1 Raja-raja 17:20
 
 Dan ia berseru kepada Tuhan dan berkata,  
-“Ya Tuhan, Allahku, apakah Engkau juga membawa bencana kepada janda ini yang bersamaku,  
+“Ya Tuhan, Tuhanku, apakah Engkau juga membawa bencana kepada janda ini yang bersamaku,  
 dengan menyebabkan anaknya mati?”
 
 ## 1 Raja-raja 17:21
 
 Kemudian ia membaringkan dirinya di atas anak itu tiga kali,  
 dan berseru kepada Tuhan dan berkata,  
-“Ya Tuhan, Allahku, biarlah nyawa anak ini kembali kepadanya.”
+“Ya Tuhan, Tuhanku, biarlah nyawa anak ini kembali kepadanya.”
 
 ## 1 Raja-raja 17:22
 
@@ -138,5 +138,5 @@ dan memberikannya kepada ibunya; dan Elia berkata,
 ## 1 Raja-raja 17:24
 
 Kemudian perempuan itu berkata kepada Elia,  
-“Sekarang aku yakin bahwa engkau adalah abdi Allah,  
+“Sekarang aku yakin bahwa engkau adalah abdi Tuhan,  
 dan bahwa firman Tuhan di dalam mulutmu adalah benar.”

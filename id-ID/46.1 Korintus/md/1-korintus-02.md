@@ -2,7 +2,7 @@
 
 ## 1 Korintus 2:1
 
-Ketika aku datang kepadamu, saudara-saudara, aku tidak datang dengan keterampilan berbicara yang unggul atau hikmat, saat aku membagikan kesaksian tentang Allah.
+Ketika aku datang kepadamu, saudara-saudara, aku tidak datang dengan keterampilan berbicara yang unggul atau hikmat, saat aku membagikan kesaksian tentang Tuhan.
 
 ## 1 Korintus 2:2
 
@@ -18,7 +18,7 @@ Dan pesanku dan pemberitaanku tidak dengan kata-kata hikmat yang meyakinkan, tet
 
 ## 1 Korintus 2:5
 
-Supaya imanmu tidak bergantung pada hikmat manusia, tetapi pada kuasa Allah.
+Supaya imanmu tidak bergantung pada hikmat manusia, tetapi pada kuasa Tuhan.
 
 ## 1 Korintus 2:6
 
@@ -26,7 +26,7 @@ Namun kami berbicara tentang hikmat di antara mereka yang dewasa—hikmat yang b
 
 ## 1 Korintus 2:7
 
-Tetapi kami berbicara tentang hikmat Allah dalam suatu misteri, hikmat tersembunyi yang telah ditetapkan Allah sebelum zaman untuk kemuliaan kita;
+Tetapi kami berbicara tentang hikmat Tuhan dalam suatu misteri, hikmat tersembunyi yang telah ditetapkan Tuhan sebelum zaman untuk kemuliaan kita;
 
 ## 1 Korintus 2:8
 
@@ -38,19 +38,19 @@ Tetapi seperti ada tertulis:
 
 > “Apa yang tidak pernah dilihat oleh mata, dan tidak pernah didengar oleh telinga,  
 > dan tidak pernah timbul dalam hati manusia,  
-> semua yang telah disediakan Allah untuk mereka yang mengasihi-Nya.”
+> semua yang telah disediakan Tuhan untuk mereka yang mengasihi-Nya.”
 
 ## 1 Korintus 2:10
 
-Karena Allah telah menyatakan hal-hal ini kepada kita melalui Roh; sebab Roh menyelidiki segala sesuatu, bahkan kedalaman Allah.
+Karena Tuhan telah menyatakan hal-hal ini kepada kita melalui Roh; sebab Roh menyelidiki segala sesuatu, bahkan kedalaman Tuhan.
 
 ## 1 Korintus 2:11
 
-Karena siapa di antara manusia yang mengetahui pikiran seseorang kecuali roh orang itu sendiri? Demikian juga, pikiran Allah tidak ada yang mengetahuinya kecuali Roh Allah.
+Karena siapa di antara manusia yang mengetahui pikiran seseorang kecuali roh orang itu sendiri? Demikian juga, pikiran Tuhan tidak ada yang mengetahuinya kecuali Roh Tuhan.
 
 ## 1 Korintus 2:12
 
-Sekarang kita tidak menerima roh dunia, tetapi Roh yang berasal dari Allah, supaya kita dapat memahami hal-hal yang diberikan secara cuma-cuma kepada kita oleh Allah.
+Sekarang kita tidak menerima roh dunia, tetapi Roh yang berasal dari Tuhan, supaya kita dapat memahami hal-hal yang diberikan secara cuma-cuma kepada kita oleh Tuhan.
 
 ## 1 Korintus 2:13
 
@@ -58,7 +58,7 @@ Kami juga mengungkapkan hal-hal ini, bukan dengan kata-kata yang diajarkan oleh 
 
 ## 1 Korintus 2:14
 
-Tetapi orang alami tidak menerima hal-hal dari Roh Allah, karena hal-hal itu tampak bodoh baginya; dan dia tidak dapat memahaminya, karena hal-hal itu dinilai secara rohani.
+Tetapi orang alami tidak menerima hal-hal dari Roh Tuhan, karena hal-hal itu tampak bodoh baginya; dan dia tidak dapat memahaminya, karena hal-hal itu dinilai secara rohani.
 
 ## 1 Korintus 2:15
 

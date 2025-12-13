@@ -40,7 +40,7 @@ Mikha bertanya kepadanya, “Dari mana engkau datang?” Ia menjawab, “Aku seo
 
 ## Hakim-Hakim 17:10
 
-Mikha berkata kepadanya, “Tinggallah bersamaku dan jadilah seorang ayah dan imam bagiku, dan aku akan memberimu sepuluh keping perak setahun, pakaian, dan makananmu.” Maka orang Lewi itu masuk.
+Mikha berkata kepadanya, “TinggTuhan bersamaku dan jadilah seorang ayah dan imam bagiku, dan aku akan memberimu sepuluh keping perak setahun, pakaian, dan makananmu.” Maka orang Lewi itu masuk.
 
 ## Hakim-Hakim 17:11
 

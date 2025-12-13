@@ -1,103 +1,95 @@
 {
-    "book": "Mazmur",
-    "chapter": 58,
-    "verses": [
-        {
-            "text": [
-                "Untuk pemimpin musik; menurut lagu Al-tashheth. Miktam dari Daud."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Apakah kamu benar-benar berbicara kebenaran, hai para dewa?",
-                "> Apakah kamu menghakimi dengan adil, hai anak-anak manusia?"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Namun, dalam hati kamu melakukan kesalahan;",
-                "> Di bumi kamu meratakan jalan untuk kekerasan tanganmu."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Orang fasik telah menyimpang sejak awal;",
-                "> Mereka yang berbicara dusta menyimpang sejak lahir."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Mereka memiliki bisa seperti ular;",
-                "> Seperti ular tedung tuli yang menutup telinganya,"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Sehingga tidak mendengarkan suara para pemikat,",
-                "> Atau seorang penyihir yang mahir."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Ya Allah, patahkan gigi mereka di dalam mulut mereka;",
-                "> Cabut taring singa-singa muda itu, Tuhan."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Biarlah mereka lenyap seperti air yang mengalir;",
-                "> Ketika dia melenturkan busurnya, biarlah anak panahnya menjadi seperti batang tanpa kepala."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Biarlah mereka seperti siput yang mencair menjadi lendir,",
-                "> Seperti keguguran yang tidak pernah melihat matahari."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Sebelum periukmu merasakan panasnya duri,",
-                "> Dia akan menyapu mereka dengan angin badai, baik yang segar maupun yang terbakar."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Orang benar akan bersukacita ketika dia menyaksikan keadilan;",
-                "> Dia akan membasuh kakinya dalam kejatuhan orang fasik."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Dan orang-orang akan berkata, “Sungguh ada ganjaran bagi orang benar;",
-                "> Sungguh ada Allah yang menghakimi di bumi!”"
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 58,
+  "verses": [
+    {
+      "text": ["Untuk pemimpin musik; menurut lagu Al-tashheth. Miktam dari Daud."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Apakah kamu benar-benar berbicara kebenaran, hai para dewa?",
+        "> Apakah kamu menghakimi dengan adil, hai anak-anak manusia?"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Namun, dalam hati kamu melakukan kesalahan;",
+        "> Di bumi kamu meratakan jalan untuk kekerasan tanganmu."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Orang fasik telah menyimpang sejak awal;",
+        "> Mereka yang berbicara dusta menyimpang sejak lahir."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Mereka memiliki bisa seperti ular;",
+        "> Seperti ular tedung tuli yang menutup telinganya,"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Sehingga tidak mendengarkan suara para pemikat,",
+        "> Atau seorang penyihir yang mahir."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Ya Tuhan, patahkan gigi mereka di dalam mulut mereka;",
+        "> Cabut taring singa-singa muda itu, Tuhan."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Biarlah mereka lenyap seperti air yang mengalir;",
+        "> Ketika dia melenturkan busurnya, biarlah anak panahnya menjadi seperti batang tanpa kepala."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Biarlah mereka seperti siput yang mencair menjadi lendir,",
+        "> Seperti keguguran yang tidak pernah melihat matahari."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Sebelum periukmu merasakan panasnya duri,",
+        "> Dia akan menyapu mereka dengan angin badai, baik yang segar maupun yang terbakar."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Orang benar akan bersukacita ketika dia menyaksikan keadilan;",
+        "> Dia akan membasuh kakinya dalam kejatuhan orang fasik."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Dan orang-orang akan berkata, “Sungguh ada ganjaran bagi orang benar;",
+        "> Sungguh ada Tuhan yang menghakimi di bumi!”"
+      ]
+    }
+  ]
 }

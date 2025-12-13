@@ -24,7 +24,7 @@ Ia mengadakan pengadilan di bawah Pohon Kurma Debora antara Rama dan Betel di pe
 
 ## Hakim-Hakim 4:6
 
-Ia memanggil Barak, anak Abinoam, dari Kedesh di Naftali, dan berkata kepadanya, “Tuhan, Allah Israel, memerintahkanmu: ‘Pergilah, ambil sepuluh ribu orang dari Naftali dan Zebulon dan pimpin mereka ke Gunung Tabor.
+Ia memanggil Barak, anak Abinoam, dari Kedesh di Naftali, dan berkata kepadanya, “Tuhan, Tuhan Israel, memerintahkanmu: ‘Pergilah, ambil sepuluh ribu orang dari Naftali dan Zebulon dan pimpin mereka ke Gunung Tabor.
 
 ## Hakim-Hakim 4:7
 
@@ -96,7 +96,7 @@ Saat itu juga, Barak datang mengejar Sisera, dan Yael keluar menemuinya. Ia berk
 
 ## Hakim-Hakim 4:23
 
-Pada hari itu, Allah menundukkan Yabin, raja Kanaan, di hadapan orang Israel.
+Pada hari itu, Tuhan menundukkan Yabin, raja Kanaan, di hadapan orang Israel.
 
 ## Hakim-Hakim 4:24
 

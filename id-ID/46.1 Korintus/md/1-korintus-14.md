@@ -6,7 +6,7 @@ Kejarlah kasih dan usahakanlah karunia-karunia rohani, terutama supaya kamu dapa
 
 ## 1 Korintus 14:2
 
-Sebab orang yang berkata-kata dengan bahasa roh tidak berkata-kata kepada manusia, tetapi kepada Allah; sebab tidak ada seorang pun yang mengerti, tetapi ia berkata-kata rahasia oleh Roh.
+Sebab orang yang berkata-kata dengan bahasa roh tidak berkata-kata kepada manusia, tetapi kepada Tuhan; sebab tidak ada seorang pun yang mengerti, tetapi ia berkata-kata rahasia oleh Roh.
 
 ## 1 Korintus 14:3
 
@@ -70,7 +70,7 @@ Sebab sekalipun engkau mengucap syukur dengan baik, tetapi orang lain tidak diba
 
 ## 1 Korintus 14:18
 
-Aku mengucap syukur kepada Allah, bahwa aku berkata-kata dengan bahasa roh lebih dari kamu semua;
+Aku mengucap syukur kepada Tuhan, bahwa aku berkata-kata dengan bahasa roh lebih dari kamu semua;
 
 ## 1 Korintus 14:19
 
@@ -104,7 +104,7 @@ Tetapi jika semua bernubuat, dan ada orang yang tidak percaya atau orang luar ma
 
 ## 1 Korintus 14:25
 
-Rahasia hatinya menjadi nyata; dan demikianlah ia akan tersungkur dan menyembah Allah, sambil mengaku bahwa sesungguhnya Allah ada di tengah-tengah kamu.
+Rahasia hatinya menjadi nyata; dan demikianlah ia akan tersungkur dan menyembah Tuhan, sambil mengaku bahwa sesungguhnya Tuhan ada di tengah-tengah kamu.
 
 ## 1 Korintus 14:26
 
@@ -116,7 +116,7 @@ Jika ada yang berkata-kata dengan bahasa roh, biarlah dua atau paling banyak tig
 
 ## 1 Korintus 14:28
 
-Tetapi jika tidak ada penafsir, biarlah mereka diam dalam jemaat, dan berbicara kepada dirinya sendiri dan kepada Allah.
+Tetapi jika tidak ada penafsir, biarlah mereka diam dalam jemaat, dan berbicara kepada dirinya sendiri dan kepada Tuhan.
 
 ## 1 Korintus 14:29
 
@@ -136,7 +136,7 @@ Dan roh nabi-nabi takluk kepada nabi-nabi;
 
 ## 1 Korintus 14:33
 
-Sebab Allah bukanlah Allah kekacauan, melainkan damai sejahtera. Seperti dalam semua jemaat orang-orang kudus,
+Sebab Tuhan bukanlah Tuhan kekacauan, melainkan damai sejahtera. Seperti dalam semua jemaat orang-orang kudus,
 
 ## 1 Korintus 14:34
 
@@ -148,7 +148,7 @@ Jika mereka ingin belajar sesuatu, biarlah mereka bertanya kepada suami mereka s
 
 ## 1 Korintus 14:36
 
-Apakah firman Allah berasal dari kamu? Atau hanya kepada kamu saja firman itu datang?
+Apakah firman Tuhan berasal dari kamu? Atau hanya kepada kamu saja firman itu datang?
 
 ## 1 Korintus 14:37
 

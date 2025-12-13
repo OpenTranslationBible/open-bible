@@ -91,7 +91,7 @@ Aku akan menjual anak-anakmu laki-laki dan perempuan ke dalam tangan orang Yehud
 
 ## Yoel 3:17
 
-> "Kemudian kamu akan tahu bahwa Akulah Tuhan, Allahmu,
+> "Kemudian kamu akan tahu bahwa Akulah Tuhan, Tuhanmu,
 > yang berdiam di Sion, gunung kudus-Ku.
 > Yerusalem akan menjadi kudus;
 > tidak akan ada lagi orang asing yang melintasinya.

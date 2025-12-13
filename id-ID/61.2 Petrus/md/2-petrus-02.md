@@ -14,7 +14,7 @@ dan dalam keserakahan mereka akan mengeksploitasi kamu dengan kata-kata palsu; p
 
 ## 2 Petrus 2:4
 
-Karena jika Allah tidak menyayangkan malaikat-malaikat ketika mereka berdosa, tetapi melemparkan mereka ke neraka dan menyerahkan mereka ke dalam lubang kegelapan, ditahan untuk penghakiman;
+Karena jika Tuhan tidak menyayangkan malaikat-malaikat ketika mereka berdosa, tetapi melemparkan mereka ke neraka dan menyerahkan mereka ke dalam lubang kegelapan, ditahan untuk penghakiman;
 
 ## 2 Petrus 2:5
 

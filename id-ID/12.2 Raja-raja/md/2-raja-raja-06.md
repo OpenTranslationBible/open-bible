@@ -28,7 +28,7 @@ Dan dia berteriak dan berkata, “Oh, tuanku! Itu dipinjam!”
 
 ## 2 Raja-raja 6:6
 
-Orang Allah itu bertanya, “Di mana jatuhnya?”  
+Orang Tuhan itu bertanya, “Di mana jatuhnya?”  
 Dan ketika dia menunjukkan tempatnya,  
 dia memotong sebatang kayu dan melemparkannya ke sana, menyebabkan besi itu mengapung.
 
@@ -47,12 +47,12 @@ dan dia berkonsultasi dengan para hambanya, berkata,
 
 ## 2 Raja-raja 6:9
 
-Tetapi orang Allah itu mengirim pesan kepada raja Israel, berkata,  
+Tetapi orang Tuhan itu mengirim pesan kepada raja Israel, berkata,  
 “Berhati-hatilah agar tidak melewati tempat ini, karena orang Aram akan turun ke sana.”
 
 ## 2 Raja-raja 6:10
 
-Maka raja Israel mengirim seseorang ke tempat yang diberitahukan oleh orang Allah kepadanya.  
+Maka raja Israel mengirim seseorang ke tempat yang diberitahukan oleh orang Tuhan kepadanya.  
 Dengan demikian dia memperingatkannya, sehingga dia menjaga dirinya di sana lebih dari sekali atau dua kali.
 
 ## 2 Raja-raja 6:11
@@ -81,7 +81,7 @@ dan mereka tiba pada malam hari dan mengepung kota itu.
 
 ## 2 Raja-raja 6:15
 
-Ketika pelayan orang Allah itu bangun pagi-pagi dan keluar,  
+Ketika pelayan orang Tuhan itu bangun pagi-pagi dan keluar,  
 lihatlah, ada pasukan dengan kuda dan kereta mengepung kota itu.  
 Dan pelayannya berkata kepadanya,  
 “Aduh, tuanku! Apa yang harus kita lakukan?”
@@ -184,7 +184,7 @@ dan lihatlah, dia mengenakan kain kabung di tubuhnya.
 ## 2 Raja-raja 6:31
 
 Kemudian dia berkata,  
-“Semoga Allah melakukan demikian kepadaku dan lebih lagi,  
+“Semoga Tuhan melakukan demikian kepadaku dan lebih lagi,  
 jika kepala Elisa anak Safat tetap ada padanya hari ini!”
 
 ## 2 Raja-raja 6:32

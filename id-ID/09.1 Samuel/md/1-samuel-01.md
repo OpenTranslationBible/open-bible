@@ -68,7 +68,7 @@ Janganlah anggap hambamu ini sebagai wanita jahat, karena aku berdoa dari kedala
 
 ## 1 Samuel 1:17
 
-Lalu Eli menjawab, “Pergilah dengan damai, dan semoga Allah Israel memberikan kepadamu apa yang telah engkau minta dari-Nya.”
+Lalu Eli menjawab, “Pergilah dengan damai, dan semoga Tuhan Israel memberikan kepadamu apa yang telah engkau minta dari-Nya.”
 
 ## 1 Samuel 1:18
 
@@ -95,7 +95,7 @@ Hana tidak pergi. Ia berkata kepada suaminya, “Setelah anak itu disapih, aku a
 
 ## 1 Samuel 1:23
 
-Elkana suaminya berkata kepadanya, “Lakukanlah apa yang menurutmu baik. Tinggallah sampai engkau menyapihnya; hanya semoga Tuhan meneguhkan firman-Nya.”  
+Elkana suaminya berkata kepadanya, “Lakukanlah apa yang menurutmu baik. TinggTuhan sampai engkau menyapihnya; hanya semoga Tuhan meneguhkan firman-Nya.”  
 Maka ia tinggal di rumah dan menyusui anaknya sampai ia menyapihnya.
 
 ---

@@ -10,7 +10,7 @@ Selama makan malam, iblis telah menaruh dalam hati Yudas Iskariot, anak Simon, u
 
 ## Yohanes 13:3
 
-Yesus, yang sadar bahwa Bapa telah menyerahkan segala sesuatu ke dalam tangan-Nya, dan bahwa Ia datang dari Allah dan akan kembali kepada Allah,
+Yesus, yang sadar bahwa Bapa telah menyerahkan segala sesuatu ke dalam tangan-Nya, dan bahwa Ia datang dari Tuhan dan akan kembali kepada Tuhan,
 
 ## Yohanes 13:4
 
@@ -132,11 +132,11 @@ Setelah menerima sepotong roti, Yudas segera pergi. Dan waktu itu malam.
 
 ## Yohanes 13:31
 
-Setelah ia pergi, Yesus berkata, “Sekarang Anak Manusia dimuliakan, dan Allah dimuliakan di dalam Dia.
+Setelah ia pergi, Yesus berkata, “Sekarang Anak Manusia dimuliakan, dan Tuhan dimuliakan di dalam Dia.
 
 ## Yohanes 13:32
 
-Jika Allah dihormati di dalam Dia, Allah juga akan menghormati Dia di dalam diri-Nya, dan akan melakukannya segera.
+Jika Tuhan dihormati di dalam Dia, Tuhan juga akan menghormati Dia di dalam diri-Nya, dan akan melakukannya segera.
 
 ## Yohanes 13:33
 

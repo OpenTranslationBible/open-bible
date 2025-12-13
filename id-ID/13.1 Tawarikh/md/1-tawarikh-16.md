@@ -2,9 +2,9 @@
 
 ## 1 Tawarikh 16:1
 
-Mereka membawa tabut Allah dan menempatkannya di dalam kemah yang telah Daud siapkan untuk itu,
+Mereka membawa tabut Tuhan dan menempatkannya di dalam kemah yang telah Daud siapkan untuk itu,
 
-> dan mereka mempersembahkan korban bakaran dan korban keselamatan di hadapan Allah.
+> dan mereka mempersembahkan korban bakaran dan korban keselamatan di hadapan Tuhan.
 
 ---
 
@@ -28,7 +28,7 @@ Ia membagikan kepada setiap orang Israel, baik laki-laki maupun perempuan,
 
 Ia menunjuk beberapa orang Lewi sebagai pelayan di hadapan tabut Tuhan,
 
-> untuk merayakan, mengucap syukur, dan memuji Tuhan, Allah Israel:
+> untuk merayakan, mengucap syukur, dan memuji Tuhan, Tuhan Israel:
 
 ---
 
@@ -43,7 +43,7 @@ Ia menunjuk beberapa orang Lewi sebagai pelayan di hadapan tabut Tuhan,
 
 ## 1 Tawarikh 16:6
 
-> dan Benaya dan Yahaziel, para imam, meniup nafiri terus-menerus di hadapan tabut perjanjian Allah.
+> dan Benaya dan Yahaziel, para imam, meniup nafiri terus-menerus di hadapan tabut perjanjian Tuhan.
 
 ---
 
@@ -99,7 +99,7 @@ Pada hari itu Daud pertama kali menetapkan nyanyian syukur ini kepada Tuhan
 
 ## 1 Tawarikh 16:14
 
-> Dialah Tuhan, Allah kita;  
+> Dialah Tuhan, Tuhan kita;  
 > Penghakiman-Nya meliputi seluruh bumi.
 
 ---
@@ -177,13 +177,13 @@ Pada hari itu Daud pertama kali menetapkan nyanyian syukur ini kepada Tuhan
 ## 1 Tawarikh 16:25
 
 > Sebab Tuhan maha besar dan sangat terpuji;  
-> Ia harus ditakuti melebihi segala allah.
+> Ia harus ditakuti melebihi segala Tuhan.
 
 ---
 
 ## 1 Tawarikh 16:26
 
-> Sebab segala allah bangsa-bangsa hanyalah berhala,  
+> Sebab segala Tuhan bangsa-bangsa hanyalah berhala,  
 > Tetapi Tuhanlah yang menjadikan langit.
 
 ---
@@ -247,7 +247,7 @@ Pada hari itu Daud pertama kali menetapkan nyanyian syukur ini kepada Tuhan
 
 ## 1 Tawarikh 16:35
 
-> Kemudian katakanlah, “Selamatkanlah kami, Allah keselamatan kami,  
+> Kemudian katakanlah, “Selamatkanlah kami, Tuhan keselamatan kami,  
 > Dan kumpulkanlah kami dan selamatkanlah kami dari bangsa-bangsa,  
 > Untuk mengucap syukur kepada nama-Mu yang kudus,  
 > Dan bermegah dalam pujian-Mu.”
@@ -256,7 +256,7 @@ Pada hari itu Daud pertama kali menetapkan nyanyian syukur ini kepada Tuhan
 
 ## 1 Tawarikh 16:36
 
-> Terpujilah Tuhan, Allah Israel,  
+> Terpujilah Tuhan, Tuhan Israel,  
 > Dari kekekalan sampai kekekalan!”  
 > Kemudian seluruh bangsa berkata,  
 > “Amin,” dan memuji Tuhan.
@@ -307,7 +307,7 @@ Bersama mereka ada Heman dan Yedutun, dan yang lainnya yang dipilih,
 
 Bersama mereka ada Heman dan Yedutun dengan nafiri dan simbal untuk mereka yang bermain dengan keras,
 
-> dan dengan alat musik untuk nyanyian Allah,  
+> dan dengan alat musik untuk nyanyian Tuhan,  
 > dan anak-anak Yedutun untuk pintu gerbang.
 
 ---

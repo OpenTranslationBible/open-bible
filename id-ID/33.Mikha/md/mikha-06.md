@@ -36,7 +36,7 @@ Dengarlah sekarang apa yang dikatakan Tuhan:
 ## Mikha 6:6
 
 > Dengan apakah aku akan datang kepada Tuhan  
-> Dan sujud menyembah kepada Allah yang tinggi?  
+> Dan sujud menyembah kepada Tuhan yang tinggi?  
 > Haruskah aku datang kepada-Nya dengan korban bakaran,  
 > Dengan anak lembu berumur setahun?
 
@@ -52,7 +52,7 @@ Dengarlah sekarang apa yang dikatakan Tuhan:
 > Ia telah memberitahukan kepadamu, hai manusia, apa yang baik;  
 > Dan apakah yang dituntut Tuhan daripadamu  
 > Selain berlaku adil, mencintai kasih setia,  
-> Dan hidup dengan rendah hati di hadapan Allahmu.
+> Dan hidup dengan rendah hati di hadapan Tuhanmu.
 
 ## Mikha 6:9
 

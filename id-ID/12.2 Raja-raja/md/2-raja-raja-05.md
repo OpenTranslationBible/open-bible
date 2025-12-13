@@ -37,14 +37,14 @@ supaya engkau dapat menyembuhkannya dari kustanya.”
 ## 2 Raja-raja 5:7
 
 Tetapi ketika raja Israel membaca surat itu, dia mengoyakkan pakaiannya dan berkata,  
-“Apakah aku ini Allah, yang dapat membunuh dan menghidupkan, sehingga orang ini mengirim pesan kepadaku untuk menyembuhkan seorang dari kustanya?  
+“Apakah aku ini Tuhan, yang dapat membunuh dan menghidupkan, sehingga orang ini mengirim pesan kepadaku untuk menyembuhkan seorang dari kustanya?  
 Tetapi pertimbangkanlah sekarang, dan lihatlah bagaimana dia mencari pertengkaran dengan aku.”
 
 ---
 
 ## 2 Raja-raja 5:8
 
-Sekarang terjadilah, ketika Elisa, abdi Allah, mendengar bahwa raja Israel telah mengoyakkan pakaiannya,  
+Sekarang terjadilah, ketika Elisa, abdi Tuhan, mendengar bahwa raja Israel telah mengoyakkan pakaiannya,  
 dia mengirim pesan kepada raja, berkata,  
 “Mengapa engkau mengoyakkan pakaianmu? Biarkan dia datang kepadaku, dan dia akan tahu bahwa ada seorang nabi di Israel.”
 
@@ -62,7 +62,7 @@ dan dagingmu akan dipulihkan kepadamu, dan engkau akan menjadi bersih.”
 
 Tetapi Naaman marah dan pergi, berkata,  
 “Lihatlah, aku berpikir, ‘Dia pasti akan keluar menemuiku dan berdiri,  
-dan memanggil nama Tuhan Allahnya, dan mengayunkan tangannya di atas tempat itu dan menyembuhkan penderita kusta itu.’
+dan memanggil nama Tuhan Tuhannya, dan mengayunkan tangannya di atas tempat itu dan menyembuhkan penderita kusta itu.’
 
 ## 2 Raja-raja 5:12
 
@@ -78,16 +78,16 @@ Apalagi sekarang, ketika dia berkata kepadamu, ‘Mandilah, dan jadilah bersih�
 
 ## 2 Raja-raja 5:14
 
-Maka dia turun dan membenamkan dirinya tujuh kali di sungai Yordan, sesuai petunjuk abdi Allah;  
+Maka dia turun dan membenamkan dirinya tujuh kali di sungai Yordan, sesuai petunjuk abdi Tuhan;  
 dan dagingnya dipulihkan seperti daging seorang anak kecil, dan dia menjadi bersih.
 
 ---
 
 ## 2 Raja-raja 5:15
 
-Kemudian dia kembali kepada abdi Allah dengan seluruh rombongannya, dan datang dan berdiri di hadapannya.  
+Kemudian dia kembali kepada abdi Tuhan dengan seluruh rombongannya, dan datang dan berdiri di hadapannya.  
 Dan dia menyatakan,  
-“Lihatlah sekarang, aku tahu bahwa tidak ada Allah di seluruh bumi, kecuali di Israel;  
+“Lihatlah sekarang, aku tahu bahwa tidak ada Tuhan di seluruh bumi, kecuali di Israel;  
 jadi tolong terimalah hadiah dari hambamu sekarang.”
 
 ## 2 Raja-raja 5:16
@@ -100,7 +100,7 @@ Dan dia mendesaknya untuk menerimanya, tetapi dia menolak.
 
 Maka Naaman berkata,  
 “Jika tidak, tolong biarkan hambamu diberi dua muatan bagal tanah;  
-karena hambamu tidak akan lagi mempersembahkan korban bakaran atau korban kepada allah lain, tetapi hanya kepada Tuhan.
+karena hambamu tidak akan lagi mempersembahkan korban bakaran atau korban kepada Tuhan lain, tetapi hanya kepada Tuhan.
 
 ## 2 Raja-raja 5:18
 
@@ -119,7 +119,7 @@ Maka dia berangkat darinya dalam jarak pendek.
 
 ## 2 Raja-raja 5:20
 
-Tetapi Gehazi, hamba Elisa, abdi Allah, berpikir,  
+Tetapi Gehazi, hamba Elisa, abdi Tuhan, berpikir,  
 “Lihatlah, tuanku telah menyayangkan orang Aram ini, Naaman, dengan tidak menerima dari tangannya apa yang dia bawa.  
 Demi Tuhan yang hidup, aku akan berlari mengejarnya dan mengambil sesuatu darinya.”
 

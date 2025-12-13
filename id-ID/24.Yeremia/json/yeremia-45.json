@@ -1,36 +1,34 @@
 {
-    "book": "Yeremia",
-    "chapter": 45,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Inilah pesan yang disampaikan oleh nabi Yeremia kepada Barukh anak Neria, ketika dia menuliskan kata-kata ini dalam sebuah gulungan atas perintah Yeremia, pada tahun keempat pemerintahan Yoyakim anak Yosia, raja Yehuda:"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "\"Tuhan, Allah Israel, menyampaikan pesan ini kepadamu, Barukh:"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "'Engkau telah berkata, “Celakalah aku! Tuhan telah menambahkan kesedihan pada penderitaanku; aku lelah mengeluh dan tidak menemukan istirahat.”'"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Inilah yang harus engkau katakan kepadanya: 'Inilah yang dikatakan Tuhan: “Lihatlah, apa yang telah Aku bangun akan Aku runtuhkan, dan apa yang telah Aku tanam akan Aku cabut, mengenai seluruh negeri ini.”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Tetapi engkau, apakah engkau mencari hal-hal besar untuk dirimu sendiri? Jangan mencarinya; karena Aku akan mendatangkan malapetaka atas semua orang,’ demikianlah firman Tuhan, ‘tetapi ke mana pun engkau pergi, Aku akan memberikan hidupmu sebagai hadiah.’”"
-            ]
-        }
-    ]
+  "book": "Yeremia",
+  "chapter": 45,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Inilah pesan yang disampaikan oleh nabi Yeremia kepada Barukh anak Neria, ketika dia menuliskan kata-kata ini dalam sebuah gulungan atas perintah Yeremia, pada tahun keempat pemerintahan Yoyakim anak Yosia, raja Yehuda:"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": ["\"Tuhan, Tuhan Israel, menyampaikan pesan ini kepadamu, Barukh:"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "'Engkau telah berkata, “Celakalah aku! Tuhan telah menambahkan kesedihan pada penderitaanku; aku lelah mengeluh dan tidak menemukan istirahat.”'"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Inilah yang harus engkau katakan kepadanya: 'Inilah yang dikatakan Tuhan: “Lihatlah, apa yang telah Aku bangun akan Aku runtuhkan, dan apa yang telah Aku tanam akan Aku cabut, mengenai seluruh negeri ini.”"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Tetapi engkau, apakah engkau mencari hal-hal besar untuk dirimu sendiri? Jangan mencarinya; karena Aku akan mendatangkan malapetaka atas semua orang,’ demikianlah firman Tuhan, ‘tetapi ke mana pun engkau pergi, Aku akan memberikan hidupmu sebagai hadiah.’”"
+      ]
+    }
+  ]
 }

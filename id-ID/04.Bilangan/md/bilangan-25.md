@@ -50,7 +50,7 @@ Oleh karena itu, katakanlah kepadanya bahwa Aku memberikan kepadanya perjanjian 
 
 ## Bilangan 25:13
 
-Itu akan menjadi perjanjian keimaman yang kekal baginya dan keturunannya, karena ia bersemangat untuk menghormati Allahnya dan mengadakan pendamaian bagi orang Israel.”
+Itu akan menjadi perjanjian keimaman yang kekal baginya dan keturunannya, karena ia bersemangat untuk menghormati Tuhannya dan mengadakan pendamaian bagi orang Israel.”
 
 ## Bilangan 25:14
 

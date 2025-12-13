@@ -14,7 +14,7 @@ Ia menetapkan para imam pada tugas mereka dan mendorong mereka dalam pelayanan r
 Ia menginstruksikan orang-orang Lewi, yang mengajar seluruh Israel dan didedikasikan kepada Tuhan,  
 "Tempatkan tabut suci di rumah yang dibangun Salomo, anak Daud, raja Israel;  
 itu tidak akan lagi menjadi beban di pundakmu.  
-Sekarang layani Tuhan Allahmu dan umat-Nya Israel.
+Sekarang layani Tuhan Tuhanmu dan umat-Nya Israel.
 
 ## 2 Tawarikh 35:4
 
@@ -43,7 +43,7 @@ kepada semua yang hadir, sejumlah 30.000, bersama dengan 3.000 lembu; ini berasa
 ## 2 Tawarikh 35:8
 
 Para pejabatnya juga memberikan persembahan sukarela kepada rakyat, para imam, dan orang-orang Lewi.  
-Hilkia, Zakharia, dan Yehiel, para pejabat rumah Allah, memberikan kepada para imam untuk persembahan Paskah  
+Hilkia, Zakharia, dan Yehiel, para pejabat rumah Tuhan, memberikan kepada para imam untuk persembahan Paskah  
 2.600 dari kawanan domba, dan 300 lembu.
 
 ## 2 Tawarikh 35:9
@@ -125,15 +125,15 @@ dan Yosia pergi untuk menghadangnya.
 Tetapi Neko mengirim utusan kepadanya, mengatakan,  
 "Apa urusan kita satu sama lain, Raja Yehuda?  
 Aku tidak datang melawanmu hari ini, tetapi melawan rumah yang sedang aku perangi;  
-dan Allah telah memerintahkan aku untuk bergegas.  
-Berhentilah demi dirimu sendiri dari mengganggu Allah yang menyertai aku, agar Dia tidak membinasakanmu."
+dan Tuhan telah memerintahkan aku untuk bergegas.  
+Berhentilah demi dirimu sendiri dari mengganggu Tuhan yang menyertai aku, agar Dia tidak membinasakanmu."
 
 ---
 
 ## 2 Tawarikh 35:22
 
 Namun, Yosia tidak mau berpaling darinya, tetapi menyamar untuk melawan dia;  
-dan dia tidak mendengarkan kata-kata Neko dari mulut Allah, tetapi datang untuk melawannya dalam pertempuran di dataran Megido.
+dan dia tidak mendengarkan kata-kata Neko dari mulut Tuhan, tetapi datang untuk melawannya dalam pertempuran di dataran Megido.
 
 ---
 

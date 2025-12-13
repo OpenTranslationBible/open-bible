@@ -66,7 +66,7 @@ Berdasarkan jumlah tahun yang lebih banyak kamu harus menaikkan harga, dan berda
 
 ## Imamat 25:17
 
-Janganlah mengambil keuntungan satu sama lain, tetapi takutlah akan Tuhanmu; karena Akulah Tuhan Allahmu.
+Janganlah mengambil keuntungan satu sama lain, tetapi takutlah akan Tuhanmu; karena Akulah Tuhan Tuhanmu.
 
 ## Imamat 25:18
 
@@ -150,7 +150,7 @@ Kamu tidak boleh meminjamkan uang kepada mereka dengan bunga atau menjual makana
 
 ## Imamat 25:38
 
-Akulah Tuhan Allahmu, yang membebaskan kamu dari Mesir untuk memberikan tanah Kanaan kepadamu dan menjadi Tuhanmu.
+Akulah Tuhan Tuhanmu, yang membebaskan kamu dari Mesir untuk memberikan tanah Kanaan kepadamu dan menjadi Tuhanmu.
 
 ## Imamat 25:39
 
@@ -218,4 +218,4 @@ Mereka harus diperlakukan sebagai pekerja yang dipekerjakan dari tahun ke tahun;
 
 ## Imamat 25:55
 
-karena orang Israel adalah hamba-Ku. Mereka adalah hamba-Ku, yang Aku bawa keluar dari Mesir. Akulah Tuhan Allahmu.
+karena orang Israel adalah hamba-Ku. Mereka adalah hamba-Ku, yang Aku bawa keluar dari Mesir. Akulah Tuhan Tuhanmu.

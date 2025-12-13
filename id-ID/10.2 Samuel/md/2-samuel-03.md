@@ -49,7 +49,7 @@ namun engkau menuduhku hari ini berbuat salah dengan seorang wanita?
 
 ## 2 Samuel 3:9
 
-Semoga Allah berbuat demikian kepada Abner, dan lebih lagi,  
+Semoga Tuhan berbuat demikian kepada Abner, dan lebih lagi,  
 jika seperti yang telah Tuhan janjikan kepada Daud, aku tidak melakukannya untuk dia:
 
 ## 2 Samuel 3:10
@@ -216,7 +216,7 @@ Dan raja menyanyikan lagu duka untuk Abner dan berkata,
 
 Kemudian semua orang datang untuk menyediakan makanan bagi Daud dalam kesedihannya,  
 tetapi Daud bersumpah, berkata,  
-"Semoga Allah berbuat demikian kepadaku, dan lebih lagi,  
+"Semoga Tuhan berbuat demikian kepadaku, dan lebih lagi,  
 jika aku mencicipi roti atau apa pun sebelum matahari terbenam."
 
 ---

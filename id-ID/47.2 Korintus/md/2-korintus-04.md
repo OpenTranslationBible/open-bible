@@ -6,7 +6,7 @@ Oleh karena itu, karena kami memiliki pelayanan ini, melalui rahmat yang telah k
 
 ## 2 Korintus 4:2
 
-Tetapi kami telah menolak hal-hal tersembunyi yang memalukan, tidak berjalan dalam tipu daya atau mengubah firman Allah, tetapi dengan secara terbuka menyatakan kebenaran, kami merekomendasikan diri kami kepada setiap hati nurani orang di hadapan Allah.
+Tetapi kami telah menolak hal-hal tersembunyi yang memalukan, tidak berjalan dalam tipu daya atau mengubah firman Tuhan, tetapi dengan secara terbuka menyatakan kebenaran, kami merekomendasikan diri kami kepada setiap hati nurani orang di hadapan Tuhan.
 
 ## 2 Korintus 4:3
 
@@ -14,7 +14,7 @@ Dan bahkan jika injil kami tertutup, itu hanya tertutup bagi mereka yang hilang,
 
 ## 2 Korintus 4:4
 
-Dalam hal ini, ilah zaman ini telah membutakan pikiran orang-orang yang tidak percaya, sehingga mereka tidak dapat melihat cahaya injil kemuliaan Kristus, yang adalah gambar Allah.
+Dalam hal ini, ilah zaman ini telah membutakan pikiran orang-orang yang tidak percaya, sehingga mereka tidak dapat melihat cahaya injil kemuliaan Kristus, yang adalah gambar Tuhan.
 
 ## 2 Korintus 4:5
 
@@ -22,11 +22,11 @@ Karena kami tidak memberitakan diri kami sendiri, tetapi Kristus Yesus sebagai T
 
 ## 2 Korintus 4:6
 
-Karena Allah, yang berfirman, "Cahaya akan bersinar dari kegelapan," adalah Dia yang telah menerangi hati kami untuk memberikan cahaya pengetahuan tentang kemuliaan Allah di wajah Kristus.
+Karena Tuhan, yang berfirman, "Cahaya akan bersinar dari kegelapan," adalah Dia yang telah menerangi hati kami untuk memberikan cahaya pengetahuan tentang kemuliaan Tuhan di wajah Kristus.
 
 ## 2 Korintus 4:7
 
-Tetapi kami memiliki harta ini dalam bejana tanah liat, supaya kelebihan kekuatan itu berasal dari Allah dan bukan dari diri kami sendiri;
+Tetapi kami memiliki harta ini dalam bejana tanah liat, supaya kelebihan kekuatan itu berasal dari Tuhan dan bukan dari diri kami sendiri;
 
 ## 2 Korintus 4:8
 
@@ -58,7 +58,7 @@ Sadar bahwa Dia yang membangkitkan Tuhan Yesus juga akan membangkitkan kami bers
 
 ## 2 Korintus 4:15
 
-Karena segala sesuatu adalah untuk keuntunganmu, supaya kasih karunia, yang telah menyebar kepada lebih banyak orang, dapat menyebabkan ucapan syukur melimpah untuk kemuliaan Allah.
+Karena segala sesuatu adalah untuk keuntunganmu, supaya kasih karunia, yang telah menyebar kepada lebih banyak orang, dapat menyebabkan ucapan syukur melimpah untuk kemuliaan Tuhan.
 
 ## 2 Korintus 4:16
 

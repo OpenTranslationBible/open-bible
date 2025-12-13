@@ -2,16 +2,16 @@
 
 ## 2 Timotius 1:1
 
-Paulus, seorang rasul Kristus Yesus oleh kehendak Allah, sesuai dengan janji hidup yang ada dalam Kristus Yesus,
+Paulus, seorang rasul Kristus Yesus oleh kehendak Tuhan, sesuai dengan janji hidup yang ada dalam Kristus Yesus,
 
 ## 2 Timotius 1:2
 
 Kepada Timotius, anakku yang terkasih:  
-Semoga engkau menerima kasih karunia, rahmat, dan damai sejahtera dari Allah Bapa dan Kristus Yesus Tuhan kita.
+Semoga engkau menerima kasih karunia, rahmat, dan damai sejahtera dari Tuhan Bapa dan Kristus Yesus Tuhan kita.
 
 ## 2 Timotius 1:3
 
-Aku mengucap syukur kepada Allah, yang kulayani dengan hati nurani yang murni, seperti yang dilakukan nenek moyangku, ketika aku selalu mengingat engkau dalam doaku siang dan malam,
+Aku mengucap syukur kepada Tuhan, yang kulayani dengan hati nurani yang murni, seperti yang dilakukan nenek moyangku, ketika aku selalu mengingat engkau dalam doaku siang dan malam,
 
 ## 2 Timotius 1:4
 
@@ -23,15 +23,15 @@ Karena aku teringat akan imanmu yang tulus ikhlas, yang pertama-tama tinggal dal
 
 ## 2 Timotius 1:6
 
-Karena alasan ini, aku mengingatkan engkau untuk mengobarkan kembali karunia Allah yang ada padamu melalui penumpangan tanganku.
+Karena alasan ini, aku mengingatkan engkau untuk mengobarkan kembali karunia Tuhan yang ada padamu melalui penumpangan tanganku.
 
 ## 2 Timotius 1:7
 
-Karena Allah tidak memberikan kepada kita roh ketakutan, melainkan satu roh yang penuh kuasa, kasih, dan pengendalian diri.
+Karena Tuhan tidak memberikan kepada kita roh ketakutan, melainkan satu roh yang penuh kuasa, kasih, dan pengendalian diri.
 
 ## 2 Timotius 1:8
 
-Karena itu, janganlah malu bersaksi tentang Tuhan kita, maupun tentang aku, tahanan-Nya; tetapi bergabunglah dengan aku dalam menanggung kesulitan demi Injil oleh kuasa Allah,
+Karena itu, janganlah malu bersaksi tentang Tuhan kita, maupun tentang aku, tahanan-Nya; tetapi bergabunglah dengan aku dalam menanggung kesulitan demi Injil oleh kuasa Tuhan,
 
 ## 2 Timotius 1:9
 

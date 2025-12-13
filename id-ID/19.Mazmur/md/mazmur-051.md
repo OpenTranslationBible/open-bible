@@ -4,7 +4,7 @@
 
 ## Mazmur 51:1
 
-> Kasihanilah aku, ya Allah, menurut kasih setia-Mu;  
+> Kasihanilah aku, ya Tuhan, menurut kasih setia-Mu;  
 > Menurut besarnya belas kasihan-Mu, hapuskanlah pelanggaranku.
 
 ## Mazmur 51:2
@@ -57,7 +57,7 @@
 
 ## Mazmur 51:10
 
-> Ciptakanlah dalam diriku hati yang murni, ya Allah,  
+> Ciptakanlah dalam diriku hati yang murni, ya Tuhan,  
 > Dan perbaharuilah semangat yang teguh dalam batinku.
 
 ## Mazmur 51:11
@@ -79,7 +79,7 @@
 
 ## Mazmur 51:14
 
-> Bebaskanlah aku dari kesalahan penumpahan darah, ya Allah, Allah keselamatanku;  
+> Bebaskanlah aku dari kesalahan penumpahan darah, ya Tuhan, Tuhan keselamatanku;  
 > Maka lidahku akan bersorak-sorai memuji kebenaran-Mu.
 
 ## Mazmur 51:15
@@ -94,8 +94,8 @@
 
 ## Mazmur 51:17
 
-> Korban sembelihan kepada Allah ialah jiwa yang hancur;  
-> Hati yang patah dan remuk, ya Allah, tidak akan Kau pandang hina.
+> Korban sembelihan kepada Tuhan ialah jiwa yang hancur;  
+> Hati yang patah dan remuk, ya Tuhan, tidak akan Kau pandang hina.
 
 ---
 

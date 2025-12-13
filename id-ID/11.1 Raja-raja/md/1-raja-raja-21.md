@@ -42,7 +42,7 @@ Dalam surat-surat itu ia menulis:
 
 ## 1 Raja-raja 21:10
 
-Tetapi tempatkanlah dua orang penjahat di hadapannya dan suruhlah mereka bersaksi bahwa ia telah mengutuk Allah dan raja. Kemudian bawalah dia keluar dan rajamlah dia sampai mati.”
+Tetapi tempatkanlah dua orang penjahat di hadapannya dan suruhlah mereka bersaksi bahwa ia telah mengutuk Tuhan dan raja. Kemudian bawalah dia keluar dan rajamlah dia sampai mati.”
 
 ---
 
@@ -56,7 +56,7 @@ Mereka mengumumkan puasa dan menempatkan Naboth di posisi terhormat di antara ra
 
 ## 1 Raja-raja 21:13
 
-Kemudian dua orang jahat datang dan duduk di hadapannya, dan bersaksi di depan rakyat, mengatakan, “Naboth telah mengutuk Allah dan raja.”  
+Kemudian dua orang jahat datang dan duduk di hadapannya, dan bersaksi di depan rakyat, mengatakan, “Naboth telah mengutuk Tuhan dan raja.”  
 Maka mereka membawa dia ke luar kota dan merajamnya sampai mati.
 
 ## 1 Raja-raja 21:14

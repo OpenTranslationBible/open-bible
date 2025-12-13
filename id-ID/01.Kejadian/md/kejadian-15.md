@@ -6,7 +6,7 @@ Setelah peristiwa-peristiwa ini, firman Tuhan datang kepada Abram dalam suatu pe
 
 ## Kejadian 15:2
 
-Tetapi Abram berkata, "Tuhan Allah, apa yang dapat Engkau berikan kepadaku, karena aku tetap tidak mempunyai anak, dan ahli waris rumahku adalah Eliezer dari Damsyik?"
+Tetapi Abram berkata, "Tuhan Tuhan, apa yang dapat Engkau berikan kepadaku, karena aku tetap tidak mempunyai anak, dan ahli waris rumahku adalah Eliezer dari Damsyik?"
 
 ## Kejadian 15:3
 
@@ -30,7 +30,7 @@ Dan Dia berkata kepadanya, "Akulah Tuhan, yang membawa engkau keluar dari Ur-Kas
 
 ## Kejadian 15:8
 
-Tetapi Abram berkata, "Tuhan Allah, bagaimana aku dapat mengetahui bahwa aku akan memilikinya?"
+Tetapi Abram berkata, "Tuhan Tuhan, bagaimana aku dapat mengetahui bahwa aku akan memilikinya?"
 
 ## Kejadian 15:9
 

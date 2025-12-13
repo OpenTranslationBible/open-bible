@@ -2,7 +2,7 @@
 
 ## Kisah Para Rasul 23:1
 
-Paulus, dengan menatap tajam kepada Majelis, berkata, “Saudara-saudara, sampai hari ini aku telah menjalani hidupku dengan hati nurani yang bersih di hadapan Allah.”
+Paulus, dengan menatap tajam kepada Majelis, berkata, “Saudara-saudara, sampai hari ini aku telah menjalani hidupku dengan hati nurani yang bersih di hadapan Tuhan.”
 
 ## Kisah Para Rasul 23:2
 
@@ -10,11 +10,11 @@ Mendengar itu, Imam Besar Ananias memerintahkan orang-orang yang berdiri di deka
 
 ## Kisah Para Rasul 23:3
 
-Paulus menjawab, “Allah akan menamparmu, hai dinding yang dilabur putih! Engkau duduk di situ untuk menghakimi aku menurut hukum, namun dengan melanggar hukum, engkau memerintahkan aku untuk dipukul!”
+Paulus menjawab, “Tuhan akan menamparmu, hai dinding yang dilabur putih! Engkau duduk di situ untuk menghakimi aku menurut hukum, namun dengan melanggar hukum, engkau memerintahkan aku untuk dipukul!”
 
 ## Kisah Para Rasul 23:4
 
-Orang-orang yang berdiri di dekatnya berkata, “Beranikah engkau berbicara melawan Imam Besar Allah?”
+Orang-orang yang berdiri di dekatnya berkata, “Beranikah engkau berbicara melawan Imam Besar Tuhan?”
 
 ## Kisah Para Rasul 23:5
 

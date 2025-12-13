@@ -4,7 +4,7 @@
 
 ## Mazmur 64:1
 
-> Dengarkan suaraku, ya Allah, dalam keluhanku;  
+> Dengarkan suaraku, ya Tuhan, dalam keluhanku;  
 > Lindungi hidupku dari ketakutan terhadap musuh.
 
 ---
@@ -42,7 +42,7 @@
 
 ## Mazmur 64:7
 
-> Tetapi Allah akan mengirimkan anak panah kepada mereka;  
+> Tetapi Tuhan akan mengirimkan anak panah kepada mereka;  
 > Tiba-tiba mereka akan terkena.
 
 ## Mazmur 64:8
@@ -54,7 +54,7 @@
 ## Mazmur 64:9
 
 > Kemudian semua orang akan kagum,  
-> Dan mereka akan memberitakan perbuatan-perbuatan Allah,  
+> Dan mereka akan memberitakan perbuatan-perbuatan Tuhan,  
 > Dan akan merenungkan apa yang telah Dia lakukan.
 
 ---

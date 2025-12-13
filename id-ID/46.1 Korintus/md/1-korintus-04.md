@@ -2,7 +2,7 @@
 
 ## 1 Korintus 4:1
 
-Demikianlah hendaknya orang memandang kami: sebagai pelayan Kristus dan pengurus rahasia Allah.
+Demikianlah hendaknya orang memandang kami: sebagai pelayan Kristus dan pengurus rahasia Tuhan.
 
 ## 1 Korintus 4:2
 
@@ -18,7 +18,7 @@ Sebab aku tidak sadar akan sesuatu yang menuduh diriku sendiri; namun bukan kare
 
 ## 1 Korintus 4:5
 
-Karena itu janganlah terus menerus menghakimi sebelum waktunya, tetapi tunggulah sampai Tuhan datang, yang akan menerangi apa yang tersembunyi dalam kegelapan dan akan membeberkan motif hati manusia; dan kemudian pujian akan datang kepada setiap orang dari Allah.
+Karena itu janganlah terus menerus menghakimi sebelum waktunya, tetapi tunggulah sampai Tuhan datang, yang akan menerangi apa yang tersembunyi dalam kegelapan dan akan membeberkan motif hati manusia; dan kemudian pujian akan datang kepada setiap orang dari Tuhan.
 
 ## 1 Korintus 4:6
 
@@ -34,7 +34,7 @@ Kamu sudah merasa puas, kamu sudah menjadi kaya, kamu sudah menjadi raja tanpa k
 
 ## 1 Korintus 4:9
 
-Sebab, menurut pendapatku, Allah telah memamerkan kami, para rasul, yang terakhir, sebagai orang-orang yang ditakdirkan untuk mati, karena kami telah menjadi tontonan bagi dunia, baik bagi malaikat maupun bagi manusia.
+Sebab, menurut pendapatku, Tuhan telah memamerkan kami, para rasul, yang terakhir, sebagai orang-orang yang ditakdirkan untuk mati, karena kami telah menjadi tontonan bagi dunia, baik bagi malaikat maupun bagi manusia.
 
 ## 1 Korintus 4:10
 
@@ -78,7 +78,7 @@ Tetapi aku akan datang kepadamu segera, jika Tuhan mengizinkan, dan aku akan men
 
 ## 1 Korintus 4:20
 
-Sebab kerajaan Allah bukan tentang kata-kata belaka, tetapi ditunjukkan melalui kekuatan.
+Sebab kerajaan Tuhan bukan tentang kata-kata belaka, tetapi ditunjukkan melalui kekuatan.
 
 ## 1 Korintus 4:21
 

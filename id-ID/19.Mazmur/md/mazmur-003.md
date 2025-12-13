@@ -10,7 +10,7 @@
 ## Mazmur 3:2
 
 > Banyak yang berkata tentang aku,  
-> "Tidak ada keselamatan baginya dari Allah."
+> "Tidak ada keselamatan baginya dari Tuhan."
 
 > Sela
 
@@ -44,7 +44,7 @@
 
 ## Mazmur 3:7
 
-> Bangkitlah, Tuhan; selamatkanlah aku, Allahku!  
+> Bangkitlah, Tuhan; selamatkanlah aku, Tuhanku!  
 > Sebab Engkau telah memukul semua musuhku pada pipi;  
 > Engkau telah mematahkan gigi orang-orang fasik.
 

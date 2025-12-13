@@ -74,7 +74,7 @@
 ## Mazmur 92:13
 
 > Berakar di rumah Tuhan,  
-> Mereka akan berkembang di pelataran Allah kita.
+> Mereka akan berkembang di pelataran Tuhan kita.
 
 ## Mazmur 92:14
 

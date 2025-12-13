@@ -4,7 +4,7 @@
 
 ## Mazmur 61:1
 
-> Dengarlah seruanku, ya Allah;  
+> Dengarlah seruanku, ya Tuhan;  
 > Berilah perhatian pada doaku.
 
 ---
@@ -30,7 +30,7 @@
 
 ## Mazmur 61:5
 
-> Sebab Engkau telah mendengar nazarku, ya Allah;  
+> Sebab Engkau telah mendengar nazarku, ya Tuhan;  
 > Engkau telah memberikan warisan kepada mereka yang menghormati nama-Mu.
 
 ---
@@ -42,7 +42,7 @@
 
 ## Mazmur 61:7
 
-> Ia akan tinggal di hadapan Allah selamanya;  
+> Ia akan tinggal di hadapan Tuhan selamanya;  
 > Tetapkanlah kasih setia dan kebenaran, agar mereka menjaganya.
 
 ---

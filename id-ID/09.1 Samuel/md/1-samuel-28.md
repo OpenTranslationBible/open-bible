@@ -80,7 +80,7 @@ Kemudian Saul tahu bahwa itu adalah Samuel, dan dia sujud dengan wajah ke tanah 
 Kemudian Samuel berkata kepada Saul,  
 “Mengapa engkau menggangguku dengan memanggilku?”  
 Dan Saul menjawab,  
-“Aku sangat tertekan; karena orang Filistin berperang melawan aku, dan Allah telah meninggalkan aku  
+“Aku sangat tertekan; karena orang Filistin berperang melawan aku, dan Tuhan telah meninggalkan aku  
 dan tidak lagi menjawab aku, baik melalui nabi-nabi atau melalui mimpi.  
 Oleh karena itu aku telah memanggilmu, supaya engkau dapat memberitahuku apa yang harus aku lakukan.”
 

@@ -14,7 +14,7 @@ Demikian pula, kita juga, ketika kita masih anak-anak, berada dalam perbudakan d
 
 ## Galatia 4:4
 
-Tetapi ketika waktu telah genap, Allah mengutus Anak-Nya, lahir dari seorang wanita, lahir di bawah hukum,
+Tetapi ketika waktu telah genap, Tuhan mengutus Anak-Nya, lahir dari seorang wanita, lahir di bawah hukum,
 
 ## Galatia 4:5
 
@@ -22,19 +22,19 @@ untuk menebus mereka yang berada di bawah hukum, agar kita dapat menerima pengan
 
 ## Galatia 4:6
 
-Karena kamu adalah anak-anak, Allah mengutus Roh Anak-Nya ke dalam hati kita, berseru, “Abba, Bapa!”
+Karena kamu adalah anak-anak, Tuhan mengutus Roh Anak-Nya ke dalam hati kita, berseru, “Abba, Bapa!”
 
 ## Galatia 4:7
 
-Oleh karena itu, kamu bukan lagi seorang budak, melainkan seorang anak; dan jika seorang anak, maka seorang ahli waris melalui Allah.
+Oleh karena itu, kamu bukan lagi seorang budak, melainkan seorang anak; dan jika seorang anak, maka seorang ahli waris melalui Tuhan.
 
 ## Galatia 4:8
 
-Dahulu, ketika kamu tidak mengenal Allah, kamu diperbudak oleh mereka yang secara alami bukanlah allah.
+Dahulu, ketika kamu tidak mengenal Tuhan, kamu diperbudak oleh mereka yang secara alami bukanlah Tuhan.
 
 ## Galatia 4:9
 
-Tetapi sekarang setelah kamu mengenal Allah, atau lebih tepatnya dikenal oleh Allah, bagaimana kamu bisa kembali lagi kepada prinsip-prinsip yang lemah dan tidak berharga? Apakah kamu ingin diperbudak oleh mereka sekali lagi?
+Tetapi sekarang setelah kamu mengenal Tuhan, atau lebih tepatnya dikenal oleh Tuhan, bagaimana kamu bisa kembali lagi kepada prinsip-prinsip yang lemah dan tidak berharga? Apakah kamu ingin diperbudak oleh mereka sekali lagi?
 
 ## Galatia 4:10
 
@@ -54,7 +54,7 @@ Kamu tahu bahwa karena suatu penyakit aku pertama kali memberitakan Injil kepada
 
 ## Galatia 4:14
 
-Meskipun kondisiku adalah ujian bagimu, kamu tidak menghina atau menolak aku, tetapi kamu menerima aku seperti malaikat Allah, seperti Kristus Yesus sendiri.
+Meskipun kondisiku adalah ujian bagimu, kamu tidak menghina atau menolak aku, tetapi kamu menerima aku seperti malaikat Tuhan, seperti Kristus Yesus sendiri.
 
 ## Galatia 4:15
 

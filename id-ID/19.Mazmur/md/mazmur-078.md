@@ -39,8 +39,8 @@
 
 ## Mazmur 78:7
 
-> Supaya mereka menaruh kepercayaan mereka kepada Allah  
-> Dan tidak melupakan perbuatan-perbuatan Allah,  
+> Supaya mereka menaruh kepercayaan mereka kepada Tuhan  
+> Dan tidak melupakan perbuatan-perbuatan Tuhan,  
 > Tetapi mematuhi perintah-perintah-Nya,
 
 ## Mazmur 78:8
@@ -48,7 +48,7 @@
 > Dan tidak seperti nenek moyang mereka,  
 > Suatu generasi yang keras kepala dan pemberontak,  
 > Suatu generasi yang tidak mempersiapkan hatinya,  
-> Dan yang rohnya tidak setia kepada Allah.
+> Dan yang rohnya tidak setia kepada Tuhan.
 
 ---
 
@@ -59,7 +59,7 @@
 
 ## Mazmur 78:10
 
-> Mereka tidak memegang perjanjian Allah  
+> Mereka tidak memegang perjanjian Tuhan  
 > Dan menolak mengikuti hukum-Nya;
 
 ## Mazmur 78:11
@@ -105,13 +105,13 @@
 
 ## Mazmur 78:18
 
-> Dan mereka mencobai Allah dalam hati mereka  
+> Dan mereka mencobai Tuhan dalam hati mereka  
 > Dengan menuntut makanan untuk memuaskan keinginan mereka.
 
 ## Mazmur 78:19
 
-> Kemudian mereka berbicara melawan Allah;  
-> Mereka berkata, “Dapatkah Allah menyediakan meja di padang gurun?
+> Kemudian mereka berbicara melawan Tuhan;  
+> Mereka berkata, “Dapatkah Tuhan menyediakan meja di padang gurun?
 
 ## Mazmur 78:20
 
@@ -130,7 +130,7 @@
 
 ## Mazmur 78:22
 
-> Karena mereka tidak percaya kepada Allah  
+> Karena mereka tidak percaya kepada Tuhan  
 > Dan tidak mempercayai keselamatan-Nya.
 
 ## Mazmur 78:23
@@ -177,7 +177,7 @@
 
 ## Mazmur 78:31
 
-> Kemarahan Allah bangkit melawan mereka  
+> Kemarahan Tuhan bangkit melawan mereka  
 > Dan memukul beberapa dari yang terkuat di antara mereka,  
 > Dan menundukkan orang-orang pilihan Israel.
 
@@ -196,12 +196,12 @@
 ## Mazmur 78:34
 
 > Ketika Ia memukul mereka, barulah mereka mencari Dia,  
-> Dan mereka kembali dan dengan sungguh-sungguh mencari Allah;
+> Dan mereka kembali dan dengan sungguh-sungguh mencari Tuhan;
 
 ## Mazmur 78:35
 
-> Dan mereka mengingat bahwa Allah adalah batu karang mereka,  
-> Dan Allah Yang Mahatinggi adalah Penebus mereka.
+> Dan mereka mengingat bahwa Tuhan adalah batu karang mereka,  
+> Dan Tuhan Yang Mahatinggi adalah Penebus mereka.
 
 ---
 
@@ -235,7 +235,7 @@
 
 ## Mazmur 78:41
 
-> Berkali-kali mereka mencobai Allah,  
+> Berkali-kali mereka mencobai Tuhan,  
 > Dan menyakiti Yang Kudus dari Israel.
 
 ## Mazmur 78:42
@@ -321,7 +321,7 @@
 
 ## Mazmur 78:56
 
-> Namun mereka mencobai dan memberontak melawan Allah Yang Mahatinggi  
+> Namun mereka mencobai dan memberontak melawan Tuhan Yang Mahatinggi  
 > Dan tidak mematuhi ketetapan-ketetapan-Nya,
 
 ## Mazmur 78:57
@@ -336,7 +336,7 @@
 
 ## Mazmur 78:59
 
-> Ketika Allah mendengar mereka, Ia dipenuhi dengan murka  
+> Ketika Tuhan mendengar mereka, Ia dipenuhi dengan murka  
 > Dan Ia sepenuhnya menolak Israel;
 
 ---

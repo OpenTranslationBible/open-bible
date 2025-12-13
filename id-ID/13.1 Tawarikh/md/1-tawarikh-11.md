@@ -12,7 +12,7 @@ Kemudian seluruh orang Israel berkumpul kepada Daud di Hebron dan berkata,
 
 > Pada masa lalu, bahkan ketika Saul menjadi raja,  
 > engkaulah yang memimpin Israel keluar dan membawa mereka masuk.  
-> Dan Tuhan, Allahmu, berfirman kepadamu,  
+> Dan Tuhan, Tuhanmu, berfirman kepadamu,  
 > 'Engkau akan menggembalakan umat-Ku Israel,  
 > dan engkau akan menjadi pemimpin atas umat-Ku Israel.'"
 
@@ -163,7 +163,7 @@ dan membawanya kepada Daud;
 
 Dan ia berkata,
 
-> "Jauhkanlah dariku di hadapan Allahku bahwa aku akan melakukan ini.  
+> "Jauhkanlah dariku di hadapan Tuhanku bahwa aku akan melakukan ini.  
 > Haruskah aku minum darah orang-orang ini yang pergi dengan risiko nyawa mereka?  
 > Karena mereka membawanya dengan risiko nyawa mereka."  
 > Oleh karena itu, ia tidak mau meminumnya.  

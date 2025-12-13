@@ -7,7 +7,7 @@ Kemudian Tuhan berbicara kepada Ayub,
 ## Ayub 40:2
 
 > "Apakah orang yang menemukan kesalahan akan berdebat dengan Yang Mahakuasa?
-> Biarlah orang yang menantang Allah menjawab."
+> Biarlah orang yang menantang Tuhan menjawab."
 
 ---
 
@@ -43,7 +43,7 @@ Kemudian Tuhan berbicara kepada Ayub dari badai,
 
 ## Ayub 40:9
 
-> Apakah engkau memiliki kekuatan seperti Allah,
+> Apakah engkau memiliki kekuatan seperti Tuhan,
 > dan dapatkah suaramu bergema dengan kekuatan seperti milik-Nya?
 
 ---
@@ -97,7 +97,7 @@ Kemudian Tuhan berbicara kepada Ayub dari badai,
 
 ## Ayub 40:19
 
-> Ia adalah yang terkemuka dari karya-karya Allah;
+> Ia adalah yang terkemuka dari karya-karya Tuhan;
 > Pembuatnya dapat mendekatinya dengan pedang-Nya.
 
 ## Ayub 40:20

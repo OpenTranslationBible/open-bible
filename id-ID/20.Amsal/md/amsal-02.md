@@ -18,7 +18,7 @@ Jika engkau mencarinya seperti perak dan mencarinya seperti harta tersembunyi,
 
 ## Amsal 2:5
 
-Maka engkau akan memahami apa artinya takut akan Tuhan dan menemukan pengetahuan tentang Allah.
+Maka engkau akan memahami apa artinya takut akan Tuhan dan menemukan pengetahuan tentang Tuhan.
 
 ## Amsal 2:6
 
@@ -72,7 +72,7 @@ Untuk menyelamatkan engkau dari perempuan yang berzinah, dari perempuan asing ya
 
 ## Amsal 2:17
 
-Yang meninggalkan teman masa mudanya dan melupakan perjanjian Allahnya.
+Yang meninggalkan teman masa mudanya dan melupakan perjanjian Tuhannya.
 
 ## Amsal 2:18
 

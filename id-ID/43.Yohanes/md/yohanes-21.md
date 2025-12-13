@@ -76,7 +76,7 @@ Sesungguhnya, sesungguhnya Aku berkata kepadamu, ketika engkau masih muda, engka
 
 ## Yohanes 21:19
 
-Ia mengatakan ini untuk menunjukkan jenis kematian yang akan memuliakan Allah oleh Petrus. Setelah mengatakan ini, Ia berkata kepadanya, “Ikutlah Aku!”
+Ia mengatakan ini untuk menunjukkan jenis kematian yang akan memuliakan Tuhan oleh Petrus. Setelah mengatakan ini, Ia berkata kepadanya, “Ikutlah Aku!”
 
 ---
 

@@ -68,7 +68,7 @@ Sepuluh tanduk yang engkau lihat, dan binatang itu, akan membenci pelacur itu. M
 
 ## Wahyu 17:17
 
-Karena Allah telah menaruh dalam hati mereka untuk melaksanakan maksud-Nya dengan memiliki satu tujuan dan dengan memberikan kerajaan mereka kepada binatang itu, sampai firman Allah terpenuhi.
+Karena Tuhan telah menaruh dalam hati mereka untuk melaksanakan maksud-Nya dengan memiliki satu tujuan dan dengan memberikan kerajaan mereka kepada binatang itu, sampai firman Tuhan terpenuhi.
 
 ## Wahyu 17:18
 

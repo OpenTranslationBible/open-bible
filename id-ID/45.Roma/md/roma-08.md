@@ -10,7 +10,7 @@ Sebab hukum Roh yang memberi hidup dalam Kristus Yesus telah membebaskan kamu da
 
 ## Roma 8:3
 
-Sebab apa yang tidak dapat dilakukan oleh hukum Taurat, karena dilemahkan oleh daging, telah dilakukan oleh Allah dengan mengutus Anak-Nya sendiri dalam rupa daging yang berdosa untuk menjadi korban dosa, dengan demikian menghukum dosa dalam daging,
+Sebab apa yang tidak dapat dilakukan oleh hukum Taurat, karena dilemahkan oleh daging, telah dilakukan oleh Tuhan dengan mengutus Anak-Nya sendiri dalam rupa daging yang berdosa untuk menjadi korban dosa, dengan demikian menghukum dosa dalam daging,
 
 ## Roma 8:4
 
@@ -26,15 +26,15 @@ Karena pikiran yang dikuasai oleh daging adalah maut, tetapi pikiran yang dikuas
 
 ## Roma 8:7
 
-Karena pikiran yang dikuasai oleh daging adalah permusuhan terhadap Allah; ia tidak tunduk kepada hukum Allah, dan memang tidak dapat.
+Karena pikiran yang dikuasai oleh daging adalah permusuhan terhadap Tuhan; ia tidak tunduk kepada hukum Tuhan, dan memang tidak dapat.
 
 ## Roma 8:8
 
-Mereka yang hidup menurut daging tidak dapat menyenangkan Allah.
+Mereka yang hidup menurut daging tidak dapat menyenangkan Tuhan.
 
 ## Roma 8:9
 
-Namun, kamu tidak hidup dalam daging tetapi dalam Roh, jika memang Roh Allah diam di dalam kamu. Jika seseorang tidak memiliki Roh Kristus, ia bukan milik-Nya.
+Namun, kamu tidak hidup dalam daging tetapi dalam Roh, jika memang Roh Tuhan diam di dalam kamu. Jika seseorang tidak memiliki Roh Kristus, ia bukan milik-Nya.
 
 ## Roma 8:10
 
@@ -54,7 +54,7 @@ karena jika kamu hidup menurut daging, kamu akan menghadapi maut; tetapi jika ol
 
 ## Roma 8:14
 
-Karena semua orang yang dipimpin oleh Roh Allah adalah anak-anak Allah.
+Karena semua orang yang dipimpin oleh Roh Tuhan adalah anak-anak Tuhan.
 
 ## Roma 8:15
 
@@ -62,11 +62,11 @@ Karena kamu tidak menerima roh perbudakan yang membuat kamu takut lagi, tetapi k
 
 ## Roma 8:16
 
-Roh itu sendiri bersaksi bersama roh kita bahwa kita adalah anak-anak Allah.
+Roh itu sendiri bersaksi bersama roh kita bahwa kita adalah anak-anak Tuhan.
 
 ## Roma 8:17
 
-Dan jika kita adalah anak-anak, maka kita adalah ahli waris—ahli waris Allah dan sesama ahli waris dengan Kristus, jika memang kita turut menderita bersama-Nya supaya kita juga turut dimuliakan bersama-Nya.
+Dan jika kita adalah anak-anak, maka kita adalah ahli waris—ahli waris Tuhan dan sesama ahli waris dengan Kristus, jika memang kita turut menderita bersama-Nya supaya kita juga turut dimuliakan bersama-Nya.
 
 ## Roma 8:18
 
@@ -74,7 +74,7 @@ Aku menganggap bahwa penderitaan kita saat ini tidak sebanding dengan kemuliaan 
 
 ## Roma 8:19
 
-Karena ciptaan menantikan dengan penuh kerinduan penyingkapan anak-anak Allah.
+Karena ciptaan menantikan dengan penuh kerinduan penyingkapan anak-anak Tuhan.
 
 ## Roma 8:20
 
@@ -82,7 +82,7 @@ Karena ciptaan telah ditaklukkan kepada kesia-siaan, bukan oleh kehendaknya send
 
 ## Roma 8:21
 
-bahwa ciptaan itu sendiri akan dibebaskan dari perbudakan kebinasaan dan dibawa ke dalam kebebasan dan kemuliaan anak-anak Allah.
+bahwa ciptaan itu sendiri akan dibebaskan dari perbudakan kebinasaan dan dibawa ke dalam kebebasan dan kemuliaan anak-anak Tuhan.
 
 ## Roma 8:22
 
@@ -106,11 +106,11 @@ Demikian juga, Roh membantu kita dalam kelemahan kita. Kita tidak tahu apa yang 
 
 ## Roma 8:27
 
-Dan Dia yang menyelidiki hati kita mengetahui pikiran Roh, karena Roh berdoa syafaat untuk umat Allah sesuai dengan kehendak Allah.
+Dan Dia yang menyelidiki hati kita mengetahui pikiran Roh, karena Roh berdoa syafaat untuk umat Tuhan sesuai dengan kehendak Tuhan.
 
 ## Roma 8:28
 
-Dan kita yakin bahwa dalam segala hal Allah bekerja untuk kebaikan mereka yang mengasihi-Nya, yang telah dipanggil sesuai dengan tujuan-Nya.
+Dan kita yakin bahwa dalam segala hal Tuhan bekerja untuk kebaikan mereka yang mengasihi-Nya, yang telah dipanggil sesuai dengan tujuan-Nya.
 
 ## Roma 8:29
 
@@ -122,7 +122,7 @@ Dan mereka yang telah ditentukan-Nya, mereka juga dipanggil-Nya; mereka yang dip
 
 ## Roma 8:31
 
-Apa yang akan kita katakan sebagai tanggapan terhadap hal-hal ini? Jika Allah di pihak kita, siapa yang dapat melawan kita?
+Apa yang akan kita katakan sebagai tanggapan terhadap hal-hal ini? Jika Tuhan di pihak kita, siapa yang dapat melawan kita?
 
 ## Roma 8:32
 
@@ -130,11 +130,11 @@ Dia yang tidak menyayangkan Anak-Nya sendiri, tetapi menyerahkan-Nya untuk kita 
 
 ## Roma 8:33
 
-Siapa yang akan membawa tuduhan terhadap mereka yang telah dipilih oleh Allah? Allah yang membenarkan.
+Siapa yang akan membawa tuduhan terhadap mereka yang telah dipilih oleh Tuhan? Tuhan yang membenarkan.
 
 ## Roma 8:34
 
-Siapa yang akan menghukum? Tidak ada. Kristus Yesus yang telah mati—dan lebih dari itu, yang telah dibangkitkan—berada di sebelah kanan Allah dan juga berdoa syafaat untuk kita.
+Siapa yang akan menghukum? Tidak ada. Kristus Yesus yang telah mati—dan lebih dari itu, yang telah dibangkitkan—berada di sebelah kanan Tuhan dan juga berdoa syafaat untuk kita.
 
 ## Roma 8:35
 
@@ -157,4 +157,4 @@ Karena aku yakin bahwa baik maut maupun hidup, baik malaikat-malaikat maupun pen
 
 ## Roma 8:39
 
-baik tinggi maupun dalam, maupun apa pun yang lain dalam seluruh ciptaan, tidak akan dapat memisahkan kita dari kasih Allah yang ada dalam Kristus Yesus, Tuhan kita.
+baik tinggi maupun dalam, maupun apa pun yang lain dalam seluruh ciptaan, tidak akan dapat memisahkan kita dari kasih Tuhan yang ada dalam Kristus Yesus, Tuhan kita.

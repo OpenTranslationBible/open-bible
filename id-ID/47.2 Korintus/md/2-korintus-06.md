@@ -2,7 +2,7 @@
 
 ## 2 Korintus 6:1
 
-Dan ketika kami bekerja sama dengan Dia, kami juga mendorong kamu agar tidak menerima kasih karunia Allah dengan sia-sia—
+Dan ketika kami bekerja sama dengan Dia, kami juga mendorong kamu agar tidak menerima kasih karunia Tuhan dengan sia-sia—
 
 ## 2 Korintus 6:2
 
@@ -18,7 +18,7 @@ Memberikan tidak ada alasan untuk tersinggung dalam apa pun, sehingga pelayanan 
 
 ## 2 Korintus 6:4
 
-Tetapi dalam segala hal, kami menunjukkan diri sebagai pelayan Allah, dengan banyak ketahanan, dalam penderitaan, dalam kesulitan, dalam kesukaran,
+Tetapi dalam segala hal, kami menunjukkan diri sebagai pelayan Tuhan, dengan banyak ketahanan, dalam penderitaan, dalam kesulitan, dalam kesukaran,
 
 ## 2 Korintus 6:5
 
@@ -30,7 +30,7 @@ Dengan kemurnian, dengan pengetahuan, dengan kesabaran, dengan kebaikan, dengan 
 
 ## 2 Korintus 6:7
 
-Dengan firman kebenaran, dan dengan kuasa Allah; oleh senjata kebenaran untuk tangan kanan dan kiri,
+Dengan firman kebenaran, dan dengan kuasa Tuhan; oleh senjata kebenaran untuk tangan kanan dan kiri,
 
 ## 2 Korintus 6:8
 
@@ -66,10 +66,10 @@ Atau apa kesepakatan yang dimiliki Kristus dengan Belial, atau apa yang dimiliki
 
 ## 2 Korintus 6:16
 
-Atau apa perjanjian yang dapat ditemukan antara bait Allah dan berhala? Kita adalah bait Allah yang hidup; seperti yang dinyatakan Allah:
+Atau apa perjanjian yang dapat ditemukan antara bait Tuhan dan berhala? Kita adalah bait Tuhan yang hidup; seperti yang dinyatakan Tuhan:
 
 > "Aku akan tinggal di antara mereka dan berjalan di antara mereka;  
-> Dan Aku akan menjadi Allah mereka, dan mereka akan menjadi umat-Ku.
+> Dan Aku akan menjadi Tuhan mereka, dan mereka akan menjadi umat-Ku.
 
 ## 2 Korintus 6:17
 

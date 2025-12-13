@@ -92,7 +92,7 @@ Ia menempatkan "Laut" di sebelah kanan rumah itu, ke arah tenggara.
 
 Huram juga membuat ember, sekop, dan bokor.
 
-> Maka, Huram menyelesaikan pekerjaan yang ia lakukan untuk Raja Salomo di rumah Allah:
+> Maka, Huram menyelesaikan pekerjaan yang ia lakukan untuk Raja Salomo di rumah Tuhan:
 
 ---
 
@@ -148,7 +148,7 @@ Jadi Salomo membuat semua peralatan ini dalam jumlah besar,
 
 ## 2 Tawarikh 4:19
 
-Salomo juga membuat semua barang yang ada di rumah Allah:
+Salomo juga membuat semua barang yang ada di rumah Tuhan:
 
 > mezbah emas, meja-meja dengan roti sajian di atasnya,
 

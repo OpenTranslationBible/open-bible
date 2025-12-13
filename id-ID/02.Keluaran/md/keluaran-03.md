@@ -2,7 +2,7 @@
 
 ## Keluaran 3:1
 
-Adapun Musa sedang menggembalakan kambing domba Yitro, mertuanya, imam di Midian. Ia membawa kambing domba itu ke seberang padang gurun dan sampai ke Horeb, gunung Allah.
+Adapun Musa sedang menggembalakan kambing domba Yitro, mertuanya, imam di Midian. Ia membawa kambing domba itu ke seberang padang gurun dan sampai ke Horeb, gunung Tuhan.
 
 ## Keluaran 3:2
 
@@ -14,15 +14,15 @@ Lalu Musa berpikir, "Baiklah aku menyimpang ke sana untuk melihat pemandangan ya
 
 ## Keluaran 3:4
 
-Ketika Tuhan melihat bahwa ia menyimpang untuk melihat, Allah memanggilnya dari tengah-tengah semak itu, "Musa, Musa!" Dan Musa menjawab, "Ini aku."
+Ketika Tuhan melihat bahwa ia menyimpang untuk melihat, Tuhan memanggilnya dari tengah-tengah semak itu, "Musa, Musa!" Dan Musa menjawab, "Ini aku."
 
 ## Keluaran 3:5
 
-"Jangan mendekat," kata Allah. "Lepaskanlah kasutmu dari kakimu, sebab tempat di mana engkau berdiri itu adalah tanah yang kudus."
+"Jangan mendekat," kata Tuhan. "Lepaskanlah kasutmu dari kakimu, sebab tempat di mana engkau berdiri itu adalah tanah yang kudus."
 
 ## Keluaran 3:6
 
-Lalu Ia berkata, "Akulah Allah ayahmu—Allah Abraham, Allah Ishak, dan Allah Yakub." Maka Musa menutupi wajahnya, sebab ia takut memandang Allah.
+Lalu Ia berkata, "Akulah Tuhan ayahmu—Tuhan Abraham, Tuhan Ishak, dan Tuhan Yakub." Maka Musa menutupi wajahnya, sebab ia takut memandang Tuhan.
 
 ## Keluaran 3:7
 
@@ -42,27 +42,27 @@ Jadi sekarang, pergilah: Aku mengutus engkau kepada Firaun untuk membawa umat-Ku
 
 ## Keluaran 3:11
 
-Tetapi Musa berkata kepada Allah, "Siapakah aku ini, sehingga aku harus menghadap Firaun dan membawa orang Israel keluar dari Mesir?"
+Tetapi Musa berkata kepada Tuhan, "Siapakah aku ini, sehingga aku harus menghadap Firaun dan membawa orang Israel keluar dari Mesir?"
 
 ## Keluaran 3:12
 
-Dan Allah berfirman, "Sesungguhnya Aku akan menyertai engkau. Dan inilah tanda bagimu bahwa Aku yang mengutus engkau: apabila engkau telah membawa bangsa itu keluar dari Mesir, kamu akan beribadah kepada Allah di gunung ini."
+Dan Tuhan berfirman, "Sesungguhnya Aku akan menyertai engkau. Dan inilah tanda bagimu bahwa Aku yang mengutus engkau: apabila engkau telah membawa bangsa itu keluar dari Mesir, kamu akan beribadah kepada Tuhan di gunung ini."
 
 ## Keluaran 3:13
 
-Lalu Musa berkata kepada Allah, "Apabila aku pergi kepada orang Israel dan berkata kepada mereka, 'Allah nenek moyangmu telah mengutus aku kepadamu,' dan mereka bertanya kepadaku, 'Siapakah nama-Nya?' Apakah yang harus kukatakan kepada mereka?"
+Lalu Musa berkata kepada Tuhan, "Apabila aku pergi kepada orang Israel dan berkata kepada mereka, 'Tuhan nenek moyangmu telah mengutus aku kepadamu,' dan mereka bertanya kepadaku, 'Siapakah nama-Nya?' Apakah yang harus kukatakan kepada mereka?"
 
 ## Keluaran 3:14
 
-Allah berfirman kepada Musa, "AKU ADALAH AKU. Inilah yang harus kaukatakan kepada orang Israel: 'AKU telah mengutus aku kepadamu.'"
+Tuhan berfirman kepada Musa, "AKU ADALAH AKU. Inilah yang harus kaukatakan kepada orang Israel: 'AKU telah mengutus aku kepadamu.'"
 
 ## Keluaran 3:15
 
-Allah juga berfirman kepada Musa, "Katakanlah kepada orang Israel, 'Tuhan, Allah nenek moyangmu—Allah Abraham, Allah Ishak, dan Allah Yakub—telah mengutus aku kepadamu.' Itulah nama-Ku untuk selama-lamanya, nama yang harus diingat dari generasi ke generasi.
+Tuhan juga berfirman kepada Musa, "Katakanlah kepada orang Israel, 'Tuhan, Tuhan nenek moyangmu—Tuhan Abraham, Tuhan Ishak, dan Tuhan Yakub—telah mengutus aku kepadamu.' Itulah nama-Ku untuk selama-lamanya, nama yang harus diingat dari generasi ke generasi.
 
 ## Keluaran 3:16
 
-"Pergilah, kumpulkanlah para tua-tua Israel dan katakanlah kepada mereka, 'Tuhan, Allah nenek moyangmu—Allah Abraham, Ishak, dan Yakub—telah menampakkan diri kepadaku dan berkata: Aku telah memperhatikan kamu dan melihat apa yang dilakukan kepadamu di Mesir.
+"Pergilah, kumpulkanlah para tua-tua Israel dan katakanlah kepada mereka, 'Tuhan, Tuhan nenek moyangmu—Tuhan Abraham, Ishak, dan Yakub—telah menampakkan diri kepadaku dan berkata: Aku telah memperhatikan kamu dan melihat apa yang dilakukan kepadamu di Mesir.
 
 ## Keluaran 3:17
 
@@ -70,7 +70,7 @@ Dan Aku telah berjanji untuk membawa kamu keluar dari penderitaan di Mesir ke ta
 
 ## Keluaran 3:18
 
-"Para tua-tua Israel akan mendengarkan engkau. Kemudian engkau dan para tua-tua itu harus pergi kepada raja Mesir dan berkata kepadanya, 'Tuhan, Allah orang Ibrani, telah menemui kami. Biarkanlah kami pergi melakukan perjalanan tiga hari ke padang gurun untuk mempersembahkan korban kepada Tuhan Allah kami.'
+"Para tua-tua Israel akan mendengarkan engkau. Kemudian engkau dan para tua-tua itu harus pergi kepada raja Mesir dan berkata kepadanya, 'Tuhan, Tuhan orang Ibrani, telah menemui kami. Biarkanlah kami pergi melakukan perjalanan tiga hari ke padang gurun untuk mempersembahkan korban kepada Tuhan Tuhan kami.'
 
 ## Keluaran 3:19
 

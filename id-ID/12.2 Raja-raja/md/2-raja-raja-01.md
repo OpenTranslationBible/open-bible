@@ -13,7 +13,7 @@ Maka ia mengirim utusan, dengan mengatakan kepada mereka, “Pergilah dan bertan
 
 Tetapi malaikat Tuhan berkata kepada Elia, orang Tisbe,  
 “Pergilah dan temuilah para utusan raja Samaria dan katakan kepada mereka,  
-‘Apakah karena tidak ada Allah di Israel sehingga kamu pergi untuk bertanya kepada Baal-zebub, dewa Ekron?
+‘Apakah karena tidak ada Tuhan di Israel sehingga kamu pergi untuk bertanya kepada Baal-zebub, dewa Ekron?
 
 ## 2 Raja-Raja 1:4
 
@@ -30,7 +30,7 @@ Setelah para utusan kembali, raja bertanya, “Mengapa kamu kembali?”
 
 Mereka menjawab, “Seorang pria datang menemui kami dan berkata,  
 ‘Kembalilah kepada raja yang mengutusmu dan katakan kepadanya,  
-Inilah yang dikatakan Tuhan: Apakah karena tidak ada Allah di Israel sehingga engkau mengirim orang untuk bertanya kepada Baal-zebub, dewa Ekron?  
+Inilah yang dikatakan Tuhan: Apakah karena tidak ada Tuhan di Israel sehingga engkau mengirim orang untuk bertanya kepada Baal-zebub, dewa Ekron?  
 Oleh karena itu engkau tidak akan meninggalkan tempat tidur yang engkau baringkan. Engkau pasti akan mati.’”
 
 ## 2 Raja-Raja 1:7
@@ -48,24 +48,24 @@ Raja berkata, “Itu adalah Elia orang Tisbe.”
 
 Kemudian raja mengirim seorang kepala pasukan dengan lima puluh orang kepada Elia.  
 Dia pergi kepada Elia, yang sedang duduk di atas bukit, dan berkata kepadanya,  
-“Orang Allah, raja berkata, ‘Turunlah!’”
+“Orang Tuhan, raja berkata, ‘Turunlah!’”
 
 ## 2 Raja-Raja 1:10
 
 Elia menjawab kepada kepala pasukan itu,  
-“Jika aku adalah orang Allah, biarlah api turun dari langit dan menghanguskan engkau dan lima puluh orangmu.”  
+“Jika aku adalah orang Tuhan, biarlah api turun dari langit dan menghanguskan engkau dan lima puluh orangmu.”  
 Kemudian api turun dari langit dan menghanguskan kepala pasukan dan orang-orangnya.
 
 ## 2 Raja-Raja 1:11
 
 Atas hal ini, raja mengirim seorang kepala pasukan lain dengan lima puluh orang.  
-Dia berkata kepada Elia, “Orang Allah, inilah yang dikatakan raja: ‘Turunlah segera!’”
+Dia berkata kepada Elia, “Orang Tuhan, inilah yang dikatakan raja: ‘Turunlah segera!’”
 
 ## 2 Raja-Raja 1:12
 
 Elia menjawab,  
-“Jika aku adalah orang Allah, biarlah api turun dari langit dan menghanguskan engkau dan lima puluh orangmu.”  
-Kemudian api Allah turun dari langit dan menghanguskan mereka.
+“Jika aku adalah orang Tuhan, biarlah api turun dari langit dan menghanguskan engkau dan lima puluh orangmu.”  
+Kemudian api Tuhan turun dari langit dan menghanguskan mereka.
 
 ---
 
@@ -73,7 +73,7 @@ Kemudian api Allah turun dari langit dan menghanguskan mereka.
 
 Maka raja mengirim seorang kepala pasukan ketiga dengan lima puluh orangnya.  
 Kepala pasukan ketiga ini pergi, berlutut di hadapan Elia, dan memohon kepadanya,  
-“Orang Allah, mohon perhatikan nyawaku dan nyawa lima puluh hamba-hambamu ini.
+“Orang Tuhan, mohon perhatikan nyawaku dan nyawa lima puluh hamba-hambamu ini.
 
 ## 2 Raja-Raja 1:14
 
@@ -93,7 +93,7 @@ Maka Elia bangkit dan turun bersamanya kepada raja.
 Dia berkata kepada raja,  
 “Inilah yang dikatakan Tuhan:  
 Engkau telah mengirim utusan untuk bertanya kepada Baal-zebub, dewa Ekron.  
-Apakah karena tidak ada Allah di Israel untuk bertanya tentang firman-Nya?  
+Apakah karena tidak ada Tuhan di Israel untuk bertanya tentang firman-Nya?  
 Oleh karena itu engkau tidak akan meninggalkan tempat tidur yang engkau baringkan. Engkau pasti akan mati.”
 
 ## 2 Raja-Raja 1:17

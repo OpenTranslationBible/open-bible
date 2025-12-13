@@ -34,7 +34,7 @@ Musa juga berkata kepada Korah, “Dengarlah sekarang, kamu anak-anak Lewi:
 
 ## Bilangan 16:9
 
-Apakah hal yang kecil bahwa Allah Israel telah memisahkan kamu dari umat Israel lainnya untuk mendekatkan kamu kepada-Nya untuk melayani pekerjaan Kemah Suci Tuhan dan berdiri di hadapan jemaat untuk melayani mereka?
+Apakah hal yang kecil bahwa Tuhan Israel telah memisahkan kamu dari umat Israel lainnya untuk mendekatkan kamu kepada-Nya untuk melayani pekerjaan Kemah Suci Tuhan dan berdiri di hadapan jemaat untuk melayani mereka?
 
 ## Bilangan 16:10
 
@@ -86,7 +86,7 @@ Kemudian Tuhan berbicara kepada Musa dan Harun, dengan berkata,
 
 ## Bilangan 16:22
 
-Tetapi mereka sujud dan berkata, “Ya Allah, Allah yang memberi nafas kepada segala makhluk, apakah Engkau akan marah kepada seluruh jemaat ketika hanya satu orang yang berdosa?”
+Tetapi mereka sujud dan berkata, “Ya Tuhan, Tuhan yang memberi nafas kepada segala makhluk, apakah Engkau akan marah kepada seluruh jemaat ketika hanya satu orang yang berdosa?”
 
 ## Bilangan 16:23
 

@@ -156,7 +156,7 @@ Berapa lama kamu akan menahan diri dari memberitahu orang-orang untuk berhenti m
 
 ## 2 Samuel 2:27
 
-Yoab berkata, "Demi Allah yang hidup, jika kamu tidak berbicara, maka orang-orang hanya akan mundur di pagi hari,  
+Yoab berkata, "Demi Tuhan yang hidup, jika kamu tidak berbicara, maka orang-orang hanya akan mundur di pagi hari,  
 masing-masing dari mengejar saudaranya."
 
 ## 2 Samuel 2:28

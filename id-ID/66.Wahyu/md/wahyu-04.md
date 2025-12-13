@@ -18,7 +18,7 @@ Mengelilingi takhta itu ada dua puluh empat takhta, dan di atas takhta-takhta in
 
 ## Wahyu 4:5
 
-Dari takhta itu keluar kilat, suara gemuruh, dan guntur. Di depan takhta itu, tujuh lampu menyala, itulah ketujuh roh Allah.
+Dari takhta itu keluar kilat, suara gemuruh, dan guntur. Di depan takhta itu, tujuh lampu menyala, itulah ketujuh roh Tuhan.
 
 ## Wahyu 4:6
 
@@ -32,7 +32,7 @@ Makhluk hidup yang pertama seperti singa, yang kedua seperti anak lembu, yang ke
 
 Masing-masing dari keempat makhluk hidup itu memiliki enam sayap dan penuh dengan mata di sekeliling dan di dalamnya; dan siang malam mereka tidak berhenti berkata,
 
-> “Kudus, kudus, kuduslah Tuhan Allah Yang Mahakuasa,
+> “Kudus, kudus, kuduslah Tuhan Tuhan Yang Mahakuasa,
 > yang sudah ada, dan yang ada, dan yang akan datang.”
 
 ## Wahyu 4:9
@@ -45,7 +45,7 @@ kedua puluh empat tua-tua itu sujud di hadapan Dia yang duduk di atas takhta dan
 
 ## Wahyu 4:11
 
-> “Engkau layak, ya Tuhan dan Allah kami,
+> “Engkau layak, ya Tuhan dan Tuhan kami,
 > untuk menerima kemuliaan, kehormatan, dan kuasa,
 > karena Engkau telah menciptakan segala sesuatu,
 > dan oleh kehendak-Mu semuanya ada dan diciptakan.”

@@ -66,7 +66,7 @@ Kemudian pergilah orang-orang Farisi dan berunding bagaimana mereka dapat menjer
 
 ## Matius 22:16
 
-Mereka menyuruh murid-murid mereka bersama orang-orang Herodian, berkata, “Guru, kami tahu bahwa Engkau adalah orang yang jujur dan mengajarkan jalan Allah dengan jujur, dan Engkau tidak takut kepada siapa pun, sebab Engkau tidak memandang muka.
+Mereka menyuruh murid-murid mereka bersama orang-orang Herodian, berkata, “Guru, kami tahu bahwa Engkau adalah orang yang jujur dan mengajarkan jalan Tuhan dengan jujur, dan Engkau tidak takut kepada siapa pun, sebab Engkau tidak memandang muka.
 
 ## Matius 22:17
 
@@ -86,7 +86,7 @@ dan Ia bertanya kepada mereka, “Gambar dan tulisan siapakah ini?”
 
 ## Matius 22:21
 
-Jawab mereka, “Gambar dan tulisan Kaisar.” Lalu kata Yesus kepada mereka, “Berikanlah kepada Kaisar apa yang wajib kamu berikan kepada Kaisar dan kepada Allah apa yang wajib kamu berikan kepada Allah.”
+Jawab mereka, “Gambar dan tulisan Kaisar.” Lalu kata Yesus kepada mereka, “Berikanlah kepada Kaisar apa yang wajib kamu berikan kepada Kaisar dan kepada Tuhan apa yang wajib kamu berikan kepada Tuhan.”
 
 ## Matius 22:22
 
@@ -120,7 +120,7 @@ Pada hari kebangkitan, siapakah di antara ketujuh orang itu yang menjadi suaminy
 
 ## Matius 22:29
 
-Yesus menjawab mereka, “Kamu sesat, sebab kamu tidak mengerti Kitab Suci maupun kuasa Allah.
+Yesus menjawab mereka, “Kamu sesat, sebab kamu tidak mengerti Kitab Suci maupun kuasa Tuhan.
 
 ## Matius 22:30
 
@@ -128,11 +128,11 @@ Karena pada waktu kebangkitan orang tidak kawin dan tidak dikawinkan melainkan h
 
 ## Matius 22:31
 
-Tetapi tentang kebangkitan orang mati, tidakkah kamu baca apa yang difirmankan Allah kepadamu,
+Tetapi tentang kebangkitan orang mati, tidakkah kamu baca apa yang difirmankan Tuhan kepadamu,
 
 ## Matius 22:32
 
-‘Akulah Allah Abraham, Allah Ishak, dan Allah Yakub’? Ia bukanlah Allah orang mati, melainkan Allah orang hidup.”
+‘Akulah Tuhan Abraham, Tuhan Ishak, dan Tuhan Yakub’? Ia bukanlah Tuhan orang mati, melainkan Tuhan orang hidup.”
 
 ## Matius 22:33
 
@@ -154,7 +154,7 @@ Seorang dari mereka, seorang ahli Taurat, bertanya kepada-Nya untuk mencobai Dia
 
 ## Matius 22:37
 
-Yesus menjawab, “‘Kasihilah Tuhan, Allahmu, dengan segenap hatimu, dengan segenap jiwamu, dan dengan segenap akal budimu.’
+Yesus menjawab, “‘Kasihilah Tuhan, Tuhanmu, dengan segenap hatimu, dengan segenap jiwamu, dan dengan segenap akal budimu.’
 
 ## Matius 22:38
 

@@ -50,7 +50,7 @@ Dan setelah diperingatkan dalam mimpi agar tidak kembali kepada Herodes, mereka 
 
 ## Matius 2:13
 
-Setelah mereka pergi, seorang malaikat Tuhan menampakkan diri kepada Yusuf dalam mimpi dan berkata, “Bangunlah, ambillah Anak itu serta ibu-Nya, dan larilah ke Mesir. Tinggallah di sana sampai aku memberitahumu, karena Herodes akan mencari Anak itu untuk membinasakan-Nya.”
+Setelah mereka pergi, seorang malaikat Tuhan menampakkan diri kepada Yusuf dalam mimpi dan berkata, “Bangunlah, ambillah Anak itu serta ibu-Nya, dan larilah ke Mesir. TinggTuhan di sana sampai aku memberitahumu, karena Herodes akan mencari Anak itu untuk membinasakan-Nya.”
 
 ## Matius 2:14
 

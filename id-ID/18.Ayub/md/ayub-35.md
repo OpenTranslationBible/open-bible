@@ -7,7 +7,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 ## Ayub 35:2
 
 > "Apakah kamu menganggap ini adil?
-> Kamu mengklaim, 'Kebenaranku melebihi kebenaran Allah.'
+> Kamu mengklaim, 'Kebenaranku melebihi kebenaran Tuhan.'
 
 ## Ayub 35:3
 
@@ -50,7 +50,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 ## Ayub 35:10
 
-> Namun tidak ada yang bertanya, 'Di manakah Allah Penciptaku,
+> Namun tidak ada yang bertanya, 'Di manakah Tuhan Penciptaku,
 > yang menyediakan nyanyian di malam hari,
 
 ## Ayub 35:11
@@ -65,7 +65,7 @@ Kemudian Elihu melanjutkan dan berbicara:
 
 ## Ayub 35:13
 
-> Sesungguhnya, Allah tidak akan memperhatikan permohonan kosong;
+> Sesungguhnya, Tuhan tidak akan memperhatikan permohonan kosong;
 > Yang Mahakuasa tidak memperhatikannya.
 
 ## Ayub 35:14

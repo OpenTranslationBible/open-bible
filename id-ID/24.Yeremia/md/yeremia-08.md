@@ -56,7 +56,7 @@ Apakah mereka malu atas perbuatan keji mereka? Tidak, mereka sama sekali tidak m
 
 ## Yeremia 8:14
 
-Mengapa kita duduk diam? Berkumpullah, marilah kita melarikan diri ke kota-kota yang berkubu dan binasa di sana. Karena Tuhan Allah kita telah menetapkan kehancuran kita dan memberi kita air beracun untuk diminum, karena kita telah berdosa terhadap-Nya.
+Mengapa kita duduk diam? Berkumpullah, marilah kita melarikan diri ke kota-kota yang berkubu dan binasa di sana. Karena Tuhan Tuhan kita telah menetapkan kehancuran kita dan memberi kita air beracun untuk diminum, karena kita telah berdosa terhadap-Nya.
 
 ## Yeremia 8:15
 

@@ -22,7 +22,7 @@ Setiap sepatu prajurit dalam hiruk-pikuk pertempuran, dan setiap pakaian yang di
 
 ## Yesaya 9:6
 
-Karena seorang anak telah lahir bagi kita, seorang putra telah diberikan kepada kita, dan pemerintahan akan ada di atas bahunya. Dan dia akan disebut Penasihat Ajaib, Allah yang Perkasa, Bapa yang Kekal, Raja Damai.
+Karena seorang anak telah lahir bagi kita, seorang putra telah diberikan kepada kita, dan pemerintahan akan ada di atas bahunya. Dan dia akan disebut Penasihat Ajaib, Tuhan yang Perkasa, Bapa yang Kekal, Raja Damai.
 
 ## Yesaya 9:7
 

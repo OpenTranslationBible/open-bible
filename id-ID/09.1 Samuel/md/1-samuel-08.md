@@ -32,7 +32,7 @@ Tuhan berkata kepada Samuel, “Dengarkanlah semua yang dikatakan bangsa itu kep
 
 ## 1 Samuel 8:8
 
-Mereka bertindak terhadapmu sama seperti yang mereka lakukan terhadap-Ku sejak hari Aku membawa mereka keluar dari Mesir—meninggalkan Aku dan melayani allah lain.
+Mereka bertindak terhadapmu sama seperti yang mereka lakukan terhadap-Ku sejak hari Aku membawa mereka keluar dari Mesir—meninggalkan Aku dan melayani Tuhan lain.
 
 ## 1 Samuel 8:9
 

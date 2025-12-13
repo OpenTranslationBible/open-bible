@@ -30,7 +30,7 @@ Orang itu bangun dan kembali ke rumahnya.
 
 ## Matius 9:8
 
-Ketika orang banyak melihat hal ini, mereka dipenuhi dengan rasa kagum dan memuliakan Allah, yang telah memberikan kuasa seperti itu kepada manusia.
+Ketika orang banyak melihat hal ini, mereka dipenuhi dengan rasa kagum dan memuliakan Tuhan, yang telah memberikan kuasa seperti itu kepada manusia.
 
 ---
 

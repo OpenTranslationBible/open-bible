@@ -90,7 +90,7 @@ Oleh karena itu, inilah yang dikatakan Tuhan, yang menebus Abraham, tentang ketu
 
 ## Yesaya 29:23
 
-Tetapi ketika dia melihat anak-anaknya, pekerjaan tangan-Ku, di tengah-tengahnya, mereka akan menguduskan nama-Ku; mereka akan menguduskan Yang Kudus dari Yakub dan berdiri kagum kepada Allah Israel.
+Tetapi ketika dia melihat anak-anaknya, pekerjaan tangan-Ku, di tengah-tengahnya, mereka akan menguduskan nama-Ku; mereka akan menguduskan Yang Kudus dari Yakub dan berdiri kagum kepada Tuhan Israel.
 
 ## Yesaya 29:24
 

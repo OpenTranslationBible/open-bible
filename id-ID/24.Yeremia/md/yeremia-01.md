@@ -62,7 +62,7 @@ Sebab Aku akan memanggil semua bangsa dari kerajaan utara,” firman Tuhan. “R
 
 ## Yeremia 1:16
 
-Aku akan menjatuhkan hukuman-Ku atas mereka karena kejahatan mereka dalam meninggalkan Aku, dalam membakar dupa kepada allah lain dan dalam menyembah apa yang dibuat tangan mereka sendiri.
+Aku akan menjatuhkan hukuman-Ku atas mereka karena kejahatan mereka dalam meninggalkan Aku, dalam membakar dupa kepada Tuhan lain dan dalam menyembah apa yang dibuat tangan mereka sendiri.
 
 ## Yeremia 1:17
 

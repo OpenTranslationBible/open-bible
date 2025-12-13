@@ -6,7 +6,7 @@ Maka berbicaralah Elifas, orang Teman,
 
 ## Ayub 22:2
 
-> "Dapatkah manusia berguna bagi Allah?
+> "Dapatkah manusia berguna bagi Tuhan?
 > Dapatkah orang bijak bermanfaat bagi dirinya sendiri?
 
 ## Ayub 22:3
@@ -60,12 +60,12 @@ Maka berbicaralah Elifas, orang Teman,
 
 ## Ayub 22:12
 
-> "Bukankah Allah ada di ketinggian surga?
+> "Bukankah Tuhan ada di ketinggian surga?
 > Dan lihatlah bintang-bintang tertinggi, betapa tingginya mereka!
 
 ## Ayub 22:13
 
-> Namun kamu bertanya, 'Apa yang Allah ketahui?
+> Namun kamu bertanya, 'Apa yang Tuhan ketahui?
 > Dapatkah Dia menghakimi melalui kegelapan yang pekat?
 
 ## Ayub 22:14
@@ -85,7 +85,7 @@ Maka berbicaralah Elifas, orang Teman,
 
 ## Ayub 22:17
 
-> Mereka berkata kepada Allah, 'Tinggalkan kami sendiri!'
+> Mereka berkata kepada Tuhan, 'Tinggalkan kami sendiri!'
 > dan 'Apa yang dapat dilakukan Yang Mahakuasa kepada mereka?'
 
 ## Ayub 22:18
@@ -133,7 +133,7 @@ Maka berbicaralah Elifas, orang Teman,
 ## Ayub 22:26
 
 > Karena kemudian kamu akan menemukan sukacita dalam Yang Mahakuasa
-> dan mengangkat wajahmu kepada Allah.
+> dan mengangkat wajahmu kepada Tuhan.
 
 ## Ayub 22:27
 

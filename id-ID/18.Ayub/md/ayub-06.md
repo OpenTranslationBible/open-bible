@@ -18,7 +18,7 @@ Kemudian Ayub menjawab, katanya
 
 > Anak panah Yang Mahakuasa ada di dalam diriku,
 > rohku meminum racunnya;
-> kengerian dari Allah berbaris melawan aku.
+> kengerian dari Tuhan berbaris melawan aku.
 
 ## Ayub 6:5
 
@@ -40,11 +40,11 @@ Kemudian Ayub menjawab, katanya
 ## Ayub 6:8
 
 > "Oh, kiranya permintaanku dapat terpenuhi,
-> bahwa Allah akan mengabulkan apa yang aku rindukan,
+> bahwa Tuhan akan mengabulkan apa yang aku rindukan,
 
 ## Ayub 6:9
 
-> bahwa Allah bersedia menghancurkan aku,
+> bahwa Tuhan bersedia menghancurkan aku,
 > melepaskan tangan-Nya dan memotongku!
 
 ## Ayub 6:10

@@ -2,7 +2,7 @@
 
 ## Yakobus 1:1
 
-Yakobus, hamba Allah dan Tuhan Yesus Kristus, Kepada kedua belas suku yang tersebar di antara bangsa-bangsa: Salam.
+Yakobus, hamba Tuhan dan Tuhan Yesus Kristus, Kepada kedua belas suku yang tersebar di antara bangsa-bangsa: Salam.
 
 ## Yakobus 1:2
 
@@ -18,7 +18,7 @@ Biarkan ketekunan itu mencapai hasil yang sempurna, agar kamu menjadi dewasa dan
 
 ## Yakobus 1:5
 
-Jika ada di antara kamu yang kekurangan hikmat, hendaklah ia meminta kepada Allah, yang memberikan dengan murah hati kepada semua orang tanpa mencela, dan itu akan diberikan kepadanya.
+Jika ada di antara kamu yang kekurangan hikmat, hendaklah ia meminta kepada Tuhan, yang memberikan dengan murah hati kepada semua orang tanpa mencela, dan itu akan diberikan kepadanya.
 
 ## Yakobus 1:6
 
@@ -50,7 +50,7 @@ Berbahagialah orang yang bertahan dalam pencobaan; karena setelah teruji, mereka
 
 ## Yakobus 1:13
 
-Ketika dicobai, tidak seorang pun boleh berkata, “Aku sedang dicobai oleh Allah.” Karena Allah tidak dapat dicobai oleh kejahatan, dan Ia sendiri tidak mencobai siapa pun;
+Ketika dicobai, tidak seorang pun boleh berkata, “Aku sedang dicobai oleh Tuhan.” Karena Tuhan tidak dapat dicobai oleh kejahatan, dan Ia sendiri tidak mencobai siapa pun;
 
 ## Yakobus 1:14
 
@@ -78,7 +78,7 @@ Saudara-saudaraku yang terkasih, perhatikanlah ini: Setiap orang harus cepat men
 
 ## Yakobus 1:20
 
-karena kemarahan manusia tidak mencapai kebenaran yang diinginkan Allah.
+karena kemarahan manusia tidak mencapai kebenaran yang diinginkan Tuhan.
 
 ## Yakobus 1:21
 
@@ -106,4 +106,4 @@ Mereka yang menganggap diri mereka religius namun tidak menjaga lidah mereka den
 
 ## Yakobus 1:27
 
-Agama yang diterima Allah Bapa kita sebagai murni dan tak bercacat adalah ini: memperhatikan anak yatim dan janda dalam kesusahan mereka dan menjaga diri agar tidak tercemar oleh dunia.
+Agama yang diterima Tuhan Bapa kita sebagai murni dan tak bercacat adalah ini: memperhatikan anak yatim dan janda dalam kesusahan mereka dan menjaga diri agar tidak tercemar oleh dunia.

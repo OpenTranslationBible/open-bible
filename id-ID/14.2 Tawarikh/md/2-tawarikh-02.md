@@ -28,12 +28,12 @@ Kemudian Salomo mengirim pesan kepada Huram, raja Tirus, mengatakan,
 
 ## 2 Tawarikh 2:4
 
-> Lihatlah, aku sedang membangun sebuah rumah bagi nama Tuhan Allahku,  
+> Lihatlah, aku sedang membangun sebuah rumah bagi nama Tuhan Tuhanku,  
 > untuk menguduskannya kepada-Nya,  
 > untuk membakar dupa harum di hadapan-Nya,  
 > untuk mengatur roti sajian terus-menerus,  
 > dan untuk mempersembahkan korban bakaran pagi dan petang,  
-> pada hari Sabat, pada bulan baru, dan pada hari raya yang ditetapkan oleh Tuhan Allah kita.  
+> pada hari Sabat, pada bulan baru, dan pada hari raya yang ditetapkan oleh Tuhan Tuhan kita.  
 > Ini harus dilakukan di Israel selamanya.
 
 ---
@@ -41,7 +41,7 @@ Kemudian Salomo mengirim pesan kepada Huram, raja Tirus, mengatakan,
 ## 2 Tawarikh 2:5
 
 > Rumah yang aku berniat bangun akan megah,  
-> karena Allah kita lebih besar dari semua dewa lainnya.
+> karena Tuhan kita lebih besar dari semua dewa lainnya.
 
 ---
 
@@ -102,7 +102,7 @@ Kemudian Huram, raja Tirus, menjawab dalam sebuah surat yang dikirim kepada Salo
 
 Huram juga berkata,
 
-> "Diberkatilah Tuhan, Allah Israel,  
+> "Diberkatilah Tuhan, Tuhan Israel,  
 > yang membuat langit dan bumi,  
 > yang telah memberikan Raja Daud seorang anak yang bijaksana,  
 > yang diberkahi dengan kebijaksanaan dan pengertian,  

@@ -18,7 +18,7 @@ Ia haruslah seorang yang mengatur rumah tangganya sendiri dengan baik, dan mendi
 
 ## 1 Timotius 3:5
 
-(sebab jika seseorang tidak tahu mengatur rumah tangganya sendiri, bagaimanakah ia dapat mengurus jemaat Allah?);
+(sebab jika seseorang tidak tahu mengatur rumah tangganya sendiri, bagaimanakah ia dapat mengurus jemaat Tuhan?);
 
 ## 1 Timotius 3:6
 
@@ -58,7 +58,7 @@ Sambil menantikan kedatanganku kepadamu, aku menulis semuanya ini kepadamu,
 
 ## 1 Timotius 3:15
 
-supaya jika aku terlambat, engkau tahu bagaimana orang harus hidup sebagai keluarga Allah, yaitu jemaat dari Allah yang hidup, tiang penopang dan dasar kebenaran.
+supaya jika aku terlambat, engkau tahu bagaimana orang harus hidup sebagai keluarga Tuhan, yaitu jemaat dari Tuhan yang hidup, tiang penopang dan dasar kebenaran.
 
 ## 1 Timotius 3:16
 

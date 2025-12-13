@@ -86,7 +86,7 @@ Pada hari itu, sisa-sisa Israel, para penyintas dari keturunan Yakub, tidak akan
 
 ## Yesaya 10:21
 
-Sisa keturunan Yakub akan kembali kepada Allah Yang Mahakuasa.
+Sisa keturunan Yakub akan kembali kepada Tuhan Yang Mahakuasa.
 
 ## Yesaya 10:22
 

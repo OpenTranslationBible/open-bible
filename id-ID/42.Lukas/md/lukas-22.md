@@ -66,7 +66,7 @@ Dia berkata kepada mereka, “Aku sangat ingin makan Paskah ini bersama kalian s
 
 ## Lukas 22:16
 
-Karena Aku berkata kepada kalian, Aku tidak akan memakannya lagi sampai itu terpenuhi dalam kerajaan Allah.”
+Karena Aku berkata kepada kalian, Aku tidak akan memakannya lagi sampai itu terpenuhi dalam kerajaan Tuhan.”
 
 ## Lukas 22:17
 
@@ -74,7 +74,7 @@ Setelah mengambil sebuah cawan dan mengucap syukur, Dia berkata, “Ambillah ini
 
 ## Lukas 22:18
 
-Karena Aku berkata kepada kalian, Aku tidak akan minum dari hasil pokok anggur lagi sampai kerajaan Allah datang.”
+Karena Aku berkata kepada kalian, Aku tidak akan minum dari hasil pokok anggur lagi sampai kerajaan Tuhan datang.”
 
 ## Lukas 22:19
 
@@ -154,7 +154,7 @@ Kemudian Yesus bertanya kepada mereka, “Ketika Aku mengutus kalian tanpa pundi
 
 ## Lukas 22:36
 
-Dia berkata kepada mereka, “Tetapi sekarang, jika kalian memiliki pundi-pundi, bawalah, dan juga tas; dan jika kalian tidak memiliki pedang, juallah jubahmu dan belilah satu.
+Dia berkata kepada mereka, “Tetapi sekarang, jika kalian memiliki pundi-pundi, bawalah, dan juga tas; dan jika kalian tidak memiliki pedang, juTuhan jubahmu dan belilah satu.
 
 ## Lukas 22:37
 
@@ -294,11 +294,11 @@ dan jika Aku bertanya sesuatu kepada kalian, kalian tidak akan menjawab.
 
 ## Lukas 22:69
 
-Namun, mulai sekarang, Anak Manusia akan duduk di sebelah kanan kuasa Allah.”
+Namun, mulai sekarang, Anak Manusia akan duduk di sebelah kanan kuasa Tuhan.”
 
 ## Lukas 22:70
 
-Mereka semua bertanya, “Apakah Engkau kemudian Anak Allah?” Dia menjawab, “Kalian mengatakan demikian.”
+Mereka semua bertanya, “Apakah Engkau kemudian Anak Tuhan?” Dia menjawab, “Kalian mengatakan demikian.”
 
 ## Lukas 22:71
 

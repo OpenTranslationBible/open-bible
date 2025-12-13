@@ -14,14 +14,14 @@ Dan terjadilah, ketika Daud tinggal di rumahnya, bahwa Daud berkata kepada Nabi 
 Kemudian Natan berkata kepada Daud,
 
 > "Lanjutkan dengan apa yang ada dalam pikiranmu,  
-> sebab Allah menyertaimu."
+> sebab Tuhan menyertaimu."
 
 ---
 
 ## 1 Tawarikh 17:3
 
 Tetapi terjadilah pada malam yang sama,  
-bahwa firman Allah datang kepada Natan, mengatakan,
+bahwa firman Tuhan datang kepada Natan, mengatakan,
 
 ---
 
@@ -123,16 +123,16 @@ Natan menyampaikannya kepada Daud.
 
 Kemudian Raja Daud masuk dan duduk di hadapan Tuhan, dan berkata,
 
-> "Siapakah aku, Tuhan Allah, dan apakah rumahku,  
+> "Siapakah aku, Tuhan Tuhan, dan apakah rumahku,  
 > sehingga Engkau telah membawaku sejauh ini?
 
 ---
 
 ## 1 Tawarikh 17:17
 
-> Ini adalah hal kecil di mata-Mu, Allah,  
+> Ini adalah hal kecil di mata-Mu, Tuhan,  
 > tetapi Engkau telah berbicara tentang rumah hamba-Mu untuk waktu yang lama yang akan datang,  
-> dan telah memandangku sesuai dengan standar seorang manusia yang tinggi derajatnya, Tuhan Allah.
+> dan telah memandangku sesuai dengan standar seorang manusia yang tinggi derajatnya, Tuhan Tuhan.
 
 ---
 
@@ -153,7 +153,7 @@ Kemudian Raja Daud masuk dan duduk di hadapan Tuhan, dan berkata,
 ## 1 Tawarikh 17:20
 
 > Tuhan, tidak ada yang seperti Engkau,  
-> juga tidak ada Allah selain Engkau,  
+> juga tidak ada Tuhan selain Engkau,  
 > sesuai dengan semua yang telah kami dengar dengan telinga kami.
 
 ---
@@ -161,7 +161,7 @@ Kemudian Raja Daud masuk dan duduk di hadapan Tuhan, dan berkata,
 ## 1 Tawarikh 17:21
 
 > Dan bangsa manakah di bumi yang seperti umat-Mu Israel,  
-> yang Allah pergi untuk menebus bagi diri-Nya sebagai suatu bangsa,  
+> yang Tuhan pergi untuk menebus bagi diri-Nya sebagai suatu bangsa,  
 > untuk membuat nama bagi diri-Mu dengan perbuatan besar dan mengagumkan,  
 > dengan mengusir bangsa-bangsa dari hadapan umat-Mu, yang Engkau tebus dari Mesir?
 
@@ -170,7 +170,7 @@ Kemudian Raja Daud masuk dan duduk di hadapan Tuhan, dan berkata,
 ## 1 Tawarikh 17:22
 
 > Sebab Engkau telah menjadikan umat-Mu Israel umat-Mu sendiri untuk selama-lamanya,  
-> dan Engkau, Tuhan, telah menjadi Allah mereka.
+> dan Engkau, Tuhan, telah menjadi Tuhan mereka.
 
 ---
 
@@ -184,21 +184,21 @@ Kemudian Raja Daud masuk dan duduk di hadapan Tuhan, dan berkata,
 ## 1 Tawarikh 17:24
 
 > Biarlah nama-Mu diteguhkan dan menjadi besar selamanya,  
-> dengan mengatakan, "Tuhan semesta alam adalah Allah Israel, bahkan Allah bagi Israel;  
+> dengan mengatakan, "Tuhan semesta alam adalah Tuhan Israel, bahkan Tuhan bagi Israel;  
 > dan rumah hamba-Mu Daud ditegakkan di hadapan-Mu."
 
 ---
 
 ## 1 Tawarikh 17:25
 
-> Sebab Engkau, Allahku, telah menyatakan kepada hamba-Mu bahwa Engkau akan membangun rumah baginya;  
+> Sebab Engkau, Tuhanku, telah menyatakan kepada hamba-Mu bahwa Engkau akan membangun rumah baginya;  
 > oleh karena itu, hamba-Mu telah menemukan keberanian untuk berdoa di hadapan-Mu.
 
 ---
 
 ## 1 Tawarikh 17:26
 
-> Sekarang, Tuhan, Engkau adalah Allah,  
+> Sekarang, Tuhan, Engkau adalah Tuhan,  
 > dan Engkau telah menjanjikan hal yang baik ini kepada hamba-Mu.
 
 ---

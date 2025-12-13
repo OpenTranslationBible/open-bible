@@ -66,7 +66,7 @@
 
 ## Mazmur 10:12
 
-> Bangkitlah, Tuhan; Allah, angkatlah tangan-Mu.  
+> Bangkitlah, Tuhan; Tuhan, angkatlah tangan-Mu.  
 > Jangan abaikan orang yang rendah hati.
 
 ## Mazmur 10:13

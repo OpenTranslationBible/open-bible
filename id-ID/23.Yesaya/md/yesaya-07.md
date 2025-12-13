@@ -42,7 +42,7 @@ Tuhan berbicara lagi kepada Ahas,
 
 ## Yesaya 7:11
 
-“Mintalah tanda dari Tuhan Allahmu, baik dari kedalaman di bawah atau dari ketinggian di atas.”
+“Mintalah tanda dari Tuhan Tuhanmu, baik dari kedalaman di bawah atau dari ketinggian di atas.”
 
 ## Yesaya 7:12
 
@@ -50,7 +50,7 @@ Tetapi Ahas menjawab, “Aku tidak akan meminta tanda. Aku tidak akan mencobai T
 
 ## Yesaya 7:13
 
-Kemudian Yesaya berkata, “Dengarlah sekarang, hai keluarga Daud! Apakah tidak cukup untuk mencoba kesabaran manusia? Apakah kamu juga akan mencoba kesabaran Allahku?
+Kemudian Yesaya berkata, “Dengarlah sekarang, hai keluarga Daud! Apakah tidak cukup untuk mencoba kesabaran manusia? Apakah kamu juga akan mencoba kesabaran Tuhanku?
 
 ## Yesaya 7:14
 

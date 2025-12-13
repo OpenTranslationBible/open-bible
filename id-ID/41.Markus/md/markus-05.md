@@ -28,7 +28,7 @@ Ketika ia melihat Yesus dari jauh, ia berlari dan sujud di hadapan-Nya.
 
 ## Markus 5:7
 
-Ia berteriak dengan suara keras, “Apa urusan-Mu dengan aku, Yesus, Anak Allah Yang Mahatinggi? Aku memohon kepada-Mu demi Allah, jangan menyiksaku!”
+Ia berteriak dengan suara keras, “Apa urusan-Mu dengan aku, Yesus, Anak Tuhan Yang Mahatinggi? Aku memohon kepada-Mu demi Tuhan, jangan menyiksaku!”
 
 ## Markus 5:8
 

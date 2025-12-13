@@ -8,7 +8,7 @@ Setelah Rehabeam tiba di Yerusalem, ia mengumpulkan kaum Yehuda dan Benyamin, 18
 
 ## 2 Tawarikh 11:2
 
-Namun, sebuah pesan dari Tuhan datang kepada Semaya, abdi Allah, berkata,
+Namun, sebuah pesan dari Tuhan datang kepada Semaya, abdi Tuhan, berkata,
 
 ---
 
@@ -92,7 +92,7 @@ Ia mengangkat bagi dirinya imam-imam untuk tempat-tempat tinggi, untuk iblis-ibl
 
 ## 2 Tawarikh 11:16
 
-Mereka dari semua suku Israel yang berbakti untuk mencari Tuhan Allah Israel mengikuti mereka ke Yerusalem, untuk mempersembahkan korban kepada Tuhan Allah nenek moyang mereka.
+Mereka dari semua suku Israel yang berbakti untuk mencari Tuhan Tuhan Israel mengikuti mereka ke Yerusalem, untuk mempersembahkan korban kepada Tuhan Tuhan nenek moyang mereka.
 
 ---
 

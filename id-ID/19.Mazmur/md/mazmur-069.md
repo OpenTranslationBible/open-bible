@@ -4,7 +4,7 @@
 
 ## Mazmur 69:1
 
-> Selamatkan aku, ya Allah,  
+> Selamatkan aku, ya Tuhan,  
 > Karena air telah mengancam hidupku.
 
 ## Mazmur 69:2
@@ -15,7 +15,7 @@
 ## Mazmur 69:3
 
 > Aku lelah karena menangis; tenggorokanku kering;  
-> Mataku gagal menunggu Allahku.
+> Mataku gagal menunggu Tuhanku.
 
 ## Mazmur 69:4
 
@@ -27,15 +27,15 @@
 
 ## Mazmur 69:5
 
-> Allah, Engkau mengetahui kebodohanku,  
+> Tuhan, Engkau mengetahui kebodohanku,  
 > Dan kesalahanku tidak tersembunyi dari-Mu.
 
 ---
 
 ## Mazmur 69:6
 
-> Semoga mereka yang menunggu Engkau tidak dipermalukan karena aku, Tuhan Allah semesta alam;  
-> Semoga mereka yang mencari Engkau tidak dihina karena aku, Allah Israel,
+> Semoga mereka yang menunggu Engkau tidak dipermalukan karena aku, Tuhan Tuhan semesta alam;  
+> Semoga mereka yang mencari Engkau tidak dihina karena aku, Tuhan Israel,
 
 ## Mazmur 69:7
 
@@ -72,7 +72,7 @@
 ## Mazmur 69:13
 
 > Tetapi bagiku, doaku adalah kepada-Mu, Tuhan, pada waktu yang baik;  
-> Allah, dalam kelimpahan rahmat-Mu,  
+> Tuhan, dalam kelimpahan rahmat-Mu,  
 > Jawablah aku dengan kebenaran penyelamatan-Mu.
 
 ## Mazmur 69:14
@@ -163,13 +163,13 @@
 ## Mazmur 69:29
 
 > Tetapi aku menderita dan dalam kesakitan;  
-> Semoga keselamatan-Mu, Allah, menempatkan aku dengan aman di tempat yang tinggi.
+> Semoga keselamatan-Mu, Tuhan, menempatkan aku dengan aman di tempat yang tinggi.
 
 ---
 
 ## Mazmur 69:30
 
-> Aku akan memuliakan nama Allah dengan nyanyian,  
+> Aku akan memuliakan nama Tuhan dengan nyanyian,  
 > Dan meninggikan Dia dengan ucapan syukur.
 
 ## Mazmur 69:31
@@ -180,7 +180,7 @@
 ## Mazmur 69:32
 
 > Orang-orang yang rendah hati telah melihatnya dan bersukacita;  
-> Kamu yang mencari Allah, biarlah hatimu hidup kembali.
+> Kamu yang mencari Tuhan, biarlah hatimu hidup kembali.
 
 ## Mazmur 69:33
 
@@ -196,7 +196,7 @@
 
 ## Mazmur 69:35
 
-> Karena Allah akan menyelamatkan Sion dan membangun kembali kota-kota Yehuda,  
+> Karena Tuhan akan menyelamatkan Sion dan membangun kembali kota-kota Yehuda,  
 > Sehingga mereka dapat tinggal di sana dan memilikinya.
 
 ## Mazmur 69:36

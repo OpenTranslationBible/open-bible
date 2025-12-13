@@ -30,7 +30,7 @@ Dan ia berkata, “Untukmu, panglima.”
 ## 2 Raja-raja 9:6
 
 Maka ia bangkit dan masuk ke dalam rumah, dan pemuda itu menuangkan minyak di atas kepalanya dan berkata kepadanya,  
-“Inilah firman Tuhan, Allah Israel:  
+“Inilah firman Tuhan, Tuhan Israel:  
 ‘Aku telah mengurapi engkau menjadi raja atas umat Tuhan, atas Israel.
 
 ## 2 Raja-raja 9:7

@@ -22,7 +22,7 @@ Sekarang lihatlah, Saul datang dari ladang di belakang lembu, dan dia berkata, â
 
 ## 1 Samuel 11:6
 
-Kemudian Roh Allah datang dengan kuat atas Saul ketika dia mendengar kata-kata ini, dan kemarahannya menyala dengan sangat.
+Kemudian Roh Tuhan datang dengan kuat atas Saul ketika dia mendengar kata-kata ini, dan kemarahannya menyala dengan sangat.
 
 ## 1 Samuel 11:7
 

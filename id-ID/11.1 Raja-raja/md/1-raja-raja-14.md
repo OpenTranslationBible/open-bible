@@ -40,7 +40,7 @@ Aku telah diutus kepadamu dengan pesan yang keras.
 ## 1 Raja-raja 14:7
 
 Pergilah, katakan kepada Yerobeam,  
-‘Inilah yang dinyatakan Tuhan, Allah Israel:  
+‘Inilah yang dinyatakan Tuhan, Tuhan Israel:  
 “Aku mengangkat engkau dari antara orang-orang  
 dan menunjukmu sebagai pemimpin atas umat-Ku Israel,
 
@@ -54,7 +54,7 @@ untuk melakukan hanya apa yang benar di mata-Ku—
 ## 1 Raja-raja 14:9
 
 engkau telah melakukan lebih banyak kejahatan daripada semua yang sebelum engkau,  
-dan engkau telah pergi dan menciptakan allah lain dan membuat patung logam,  
+dan engkau telah pergi dan menciptakan Tuhan lain dan membuat patung logam,  
 membangkitkan amarah-Ku, dan telah membuang Aku—
 
 ## 1 Raja-raja 14:10
@@ -78,7 +78,7 @@ Ketika kakimu memasuki kota, anak itu akan meninggal.
 
 Dan seluruh Israel akan meratapi dia dan menguburkannya,  
 karena hanya dia dari keluarga Yerobeam yang akan masuk ke dalam kubur,  
-karena padanya ditemukan sesuatu yang baik terhadap Tuhan, Allah Israel,  
+karena padanya ditemukan sesuatu yang baik terhadap Tuhan, Tuhan Israel,  
 di rumah Yerobeam.
 
 ## 1 Raja-raja 14:14

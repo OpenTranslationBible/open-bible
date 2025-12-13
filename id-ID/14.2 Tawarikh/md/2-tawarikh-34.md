@@ -13,7 +13,7 @@ dan tidak menyimpang ke kanan atau ke kiri.
 
 ## 2 Tawarikh 34:3
 
-Pada tahun kedelapan pemerintahannya, ketika ia masih muda, ia mulai mencari Allah leluhurnya Daud;  
+Pada tahun kedelapan pemerintahannya, ketika ia masih muda, ia mulai mencari Tuhan leluhurnya Daud;  
 dan pada tahun kedua belas, ia memulai pembersihan Yehuda dan Yerusalem dari tempat-tempat tinggi, Asyera, patung-patung ukiran, dan patung-patung logam tuangan.
 
 ## 2 Tawarikh 34:4
@@ -43,13 +43,13 @@ Kemudian ia kembali ke Yerusalem.
 
 Sekarang pada tahun kedelapan belas pemerintahannya, ketika ia telah membersihkan tanah dan rumah,  
 ia mengirim Safan anak Azalya, Maaseya gubernur kota,  
-dan Yoah anak Yoahaz pencatat, untuk memperbaiki rumah Tuhan, Allahnya.
+dan Yoah anak Yoahaz pencatat, untuk memperbaiki rumah Tuhan, Tuhannya.
 
 ---
 
 ## 2 Tawarikh 34:9
 
-Mereka mendatangi Hilkia imam besar dan menyerahkan uang yang telah dibawa ke rumah Allah,  
+Mereka mendatangi Hilkia imam besar dan menyerahkan uang yang telah dibawa ke rumah Tuhan,  
 yang telah dikumpulkan oleh orang-orang Lewi, penjaga pintu, dari Manasye dan Efraim,  
 dan dari seluruh sisa Israel, dan dari seluruh Yehuda dan Benyamin dan penduduk Yerusalem.
 
@@ -139,7 +139,7 @@ istri Salum anak Tokhat, anak Hasra, penjaga pakaian
 ## 2 Tawarikh 34:23
 
 Ia berkata kepada mereka,  
-“Inilah yang dinyatakan Tuhan, Allah Israel:  
+“Inilah yang dinyatakan Tuhan, Tuhan Israel:  
 Katakan kepada orang yang mengutusmu kepada-Ku,
 
 ## 2 Tawarikh 34:24
@@ -150,18 +150,18 @@ semua kutukan yang tertulis dalam kitab yang telah mereka baca di hadapan raja Y
 
 ## 2 Tawarikh 34:25
 
-karena mereka telah meninggalkan Aku dan telah membakar dupa kepada allah lain,  
+karena mereka telah meninggalkan Aku dan telah membakar dupa kepada Tuhan lain,  
 sehingga mereka memancing kemarahan-Ku dengan semua perbuatan tangan mereka;  
 oleh karena itu murka-Ku akan dicurahkan atas tempat ini, dan tidak akan padam.’
 
 ## 2 Tawarikh 34:26
 
 Tetapi kepada raja Yehuda yang mengutusmu untuk meminta petunjuk Tuhan, inilah yang harus kamu katakan kepadanya:  
-‘Inilah yang dinyatakan Tuhan, Allah Israel mengenai kata-kata yang telah kamu dengar:
+‘Inilah yang dinyatakan Tuhan, Tuhan Israel mengenai kata-kata yang telah kamu dengar:
 
 ## 2 Tawarikh 34:27
 
-Karena hatimu lembut dan kamu merendahkan diri di hadapan Allah ketika kamu mendengar kata-kata-Nya terhadap tempat ini dan penduduknya,  
+Karena hatimu lembut dan kamu merendahkan diri di hadapan Tuhan ketika kamu mendengar kata-kata-Nya terhadap tempat ini dan penduduknya,  
 dan karena kamu merendahkan diri di hadapan-Ku, mengoyakkan pakaianmu, dan menangis di hadapan-Ku,  
 Aku benar-benar telah mendengarmu,’ demikianlah firman Tuhan.
 
@@ -195,12 +195,12 @@ untuk melaksanakan kata-kata perjanjian yang tertulis dalam kitab ini.
 ## 2 Tawarikh 34:32
 
 Selain itu, ia membuat semua yang hadir di Yerusalem dan Benyamin berdiri bersamanya.  
-Jadi penduduk Yerusalem bertindak sesuai dengan perjanjian Allah, Allah leluhur mereka.
+Jadi penduduk Yerusalem bertindak sesuai dengan perjanjian Tuhan, Tuhan leluhur mereka.
 
 ---
 
 ## 2 Tawarikh 34:33
 
 Yosia menghilangkan semua hal yang menjijikkan dari semua tanah milik keturunan Israel,  
-dan memaksa semua yang hadir di Israel untuk melayani Tuhan, Allah mereka.  
-Sepanjang hidupnya, mereka tidak berpaling dari mengikuti Tuhan, Allah leluhur mereka.
+dan memaksa semua yang hadir di Israel untuk melayani Tuhan, Tuhan mereka.  
+Sepanjang hidupnya, mereka tidak berpaling dari mengikuti Tuhan, Tuhan leluhur mereka.

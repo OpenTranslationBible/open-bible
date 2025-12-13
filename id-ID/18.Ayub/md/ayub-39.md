@@ -88,7 +88,7 @@
 
 ## Ayub 39:17
 
-> Karena Allah telah menghilangkan kebijaksanaan darinya,  
+> Karena Tuhan telah menghilangkan kebijaksanaan darinya,  
 > Dan tidak memberinya bagian dari pengertian.
 
 ## Ayub 39:18

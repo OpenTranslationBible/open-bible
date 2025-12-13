@@ -6,11 +6,11 @@ Setelah itu, aku melihat empat malaikat berdiri di keempat penjuru bumi, menahan
 
 ## Wahyu 7:2
 
-Dan aku melihat malaikat lain naik dari timur, membawa meterai Allah yang hidup. Ia berseru dengan suara nyaring kepada keempat malaikat yang diberi kuasa untuk merusak bumi dan laut,
+Dan aku melihat malaikat lain naik dari timur, membawa meterai Tuhan yang hidup. Ia berseru dengan suara nyaring kepada keempat malaikat yang diberi kuasa untuk merusak bumi dan laut,
 
 ## Wahyu 7:3
 
-katanya, “Jangan merusak bumi, laut, atau pohon-pohon sampai kami telah menempatkan meterai pada dahi hamba-hamba Allah kami.”
+katanya, “Jangan merusak bumi, laut, atau pohon-pohon sampai kami telah menempatkan meterai pada dahi hamba-hamba Tuhan kami.”
 
 ## Wahyu 7:4
 
@@ -48,13 +48,13 @@ Setelah peristiwa-peristiwa ini, aku melihat, dan tampaklah suatu kumpulan besar
 
 Dan mereka berseru dengan suara nyaring,
 
-> “Keselamatan adalah milik Allah kami
+> “Keselamatan adalah milik Tuhan kami
 > yang duduk di atas takhta,
 > dan milik Anak Domba.”
 
 ## Wahyu 7:11
 
-Semua malaikat berdiri mengelilingi takhta, para tua-tua, dan keempat makhluk hidup; dan mereka sujud di hadapan takhta dan menyembah Allah,
+Semua malaikat berdiri mengelilingi takhta, para tua-tua, dan keempat makhluk hidup; dan mereka sujud di hadapan takhta dan menyembah Tuhan,
 
 ## Wahyu 7:12
 
@@ -64,7 +64,7 @@ seraya berkata,
 > Berkat, kemuliaan,
 > hikmat, ucapan syukur, kehormatan,
 > kuasa, dan kekuatan
-> bagi Allah kami sampai selama-lamanya.
+> bagi Tuhan kami sampai selama-lamanya.
 > Amin.”
 
 ## Wahyu 7:13
@@ -77,7 +77,7 @@ Aku menjawab, “Tuan, engkau tahu.” Dan ia berkata kepadaku, “Mereka inilah
 
 ## Wahyu 7:15
 
-> Karena alasan ini, mereka berada di hadapan takhta Allah
+> Karena alasan ini, mereka berada di hadapan takhta Tuhan
 > dan melayani-Nya siang dan malam di bait-Nya;
 > dan Dia yang duduk di atas takhta akan melindungi mereka dengan hadirat-Nya.
 
@@ -90,4 +90,4 @@ Aku menjawab, “Tuan, engkau tahu.” Dan ia berkata kepadaku, “Mereka inilah
 
 > karena Anak Domba yang di tengah-tengah takhta akan menjadi gembala mereka,
 > dan Dia akan menuntun mereka ke mata air kehidupan;
-> dan Allah akan menghapus setiap air mata dari mata mereka.”
+> dan Tuhan akan menghapus setiap air mata dari mata mereka.”

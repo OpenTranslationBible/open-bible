@@ -4,7 +4,7 @@
 
 ## Mazmur 57:1
 
-> Kasihanilah aku, ya Allah, kasihanilah aku,  
+> Kasihanilah aku, ya Tuhan, kasihanilah aku,  
 > Sebab jiwaku berlindung pada-Mu;  
 > Dan dalam naungan sayap-Mu aku akan berlindung  
 > Sampai malapetaka berlalu.
@@ -13,15 +13,15 @@
 
 ## Mazmur 57:2
 
-> Aku akan berseru kepada Allah Yang Mahatinggi,  
-> Kepada Allah yang menyelesaikan maksud-Nya bagiku.
+> Aku akan berseru kepada Tuhan Yang Mahatinggi,  
+> Kepada Tuhan yang menyelesaikan maksud-Nya bagiku.
 
 ## Mazmur 57:3
 
 > Ia akan mengirimkan pertolongan dari surga dan menyelamatkan aku;  
 > Ia menegur orang yang menginjak-injak aku.  
 > Sela  
-> Allah akan mengirimkan kasih setia dan kebenaran-Nya.
+> Tuhan akan mengirimkan kasih setia dan kebenaran-Nya.
 
 ---
 
@@ -36,7 +36,7 @@
 
 ## Mazmur 57:5
 
-> Tinggikanlah diri-Mu di atas langit, ya Allah;  
+> Tinggikanlah diri-Mu di atas langit, ya Tuhan;  
 > Biarlah kemuliaan-Mu mengatasi seluruh bumi.
 
 ---
@@ -53,7 +53,7 @@
 
 ## Mazmur 57:7
 
-> Hatiku teguh, ya Allah, hatiku teguh;  
+> Hatiku teguh, ya Tuhan, hatiku teguh;  
 > Aku akan menyanyi, ya, aku akan memuji!
 
 ## Mazmur 57:8
@@ -78,5 +78,5 @@
 
 ## Mazmur 57:11
 
-> Tinggikanlah diri-Mu di atas langit, ya Allah;  
+> Tinggikanlah diri-Mu di atas langit, ya Tuhan;  
 > Biarlah kemuliaan-Mu mengatasi seluruh bumi.

@@ -1,166 +1,136 @@
 {
-    "book": "2 Tawarikh",
-    "chapter": 14,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Abia meninggal dan dimakamkan di kota Daud; anaknya Asa menggantikannya sebagai raja. Negeri itu mengalami kedamaian selama sepuluh tahun selama pemerintahannya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Asa bertindak dengan cara yang menyenangkan dan benar di hadapan Tuhan Allah,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "karena ia menghapuskan mezbah asing dan tempat-tempat tinggi, meruntuhkan batu peringatan, dan menebang Asyera,"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "dan memerintahkan Yehuda untuk mencari Tuhan Allah nenek moyang mereka dan mengikuti Hukum dan perintah."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Ia juga menghilangkan tempat-tempat tinggi dan mezbah dupa dari semua kota di Yehuda, dan kerajaan itu menikmati kedamaian di bawah pemerintahannya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Ia membangun kota-kota berkubu di Yehuda, karena negeri itu dalam keadaan damai, dan tidak ada konflik selama tahun-tahun itu, karena Tuhan telah memberikan ketenangan kepadanya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Karena ia berkata kepada Yehuda, “Marilah kita membangun kota-kota ini dan mengelilinginya dengan tembok dan menara, pintu gerbang dan palang. Negeri ini tetap milik kita karena kita telah mencari Tuhan Allah kita; kita telah mencari Dia, dan Dia telah memberikan kita kedamaian di segala sisi.” Maka mereka membangun dan makmur."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Sekarang Asa memiliki tentara sebanyak 300.000 dari Yehuda, yang membawa perisai besar dan tombak, dan 280.000 dari Benyamin, yang membawa perisai dan menarik busur; semuanya adalah prajurit yang gagah berani."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Sekarang Zerah orang Etiopia keluar melawan mereka dengan tentara sebanyak satu juta orang dan tiga ratus kereta, dan ia datang sampai ke Maresya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Asa keluar untuk menghadapi dia, dan mereka mengatur diri mereka dalam formasi pertempuran di Lembah Zefata di Maresya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kemudian Asa berseru kepada Tuhan Allahnya dan berkata, “Tuhan, tidak ada yang selain Engkau untuk menolong dalam pertempuran antara yang kuat dan yang tidak mempunyai kekuatan; jadi tolonglah kami, Tuhan Allah kami, karena kami percaya kepada-Mu, dan dalam nama-Mu kami datang melawan kumpulan ini. Tuhan, Engkaulah Allah kami; janganlah ada orang yang mengalahkan Engkau.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tuhan mengalahkan orang-orang Etiopia di hadapan Asa dan Yehuda, dan orang-orang Etiopia melarikan diri."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Asa dan orang-orang yang bersamanya mengejar mereka sampai ke Gerar; dan begitu banyak orang Etiopia yang jatuh sehingga tidak ada yang ditemukan hidup, karena mereka dihancurkan di hadapan Tuhan dan pasukan-Nya. Dan mereka membawa pergi sangat banyak jarahan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Mereka menghancurkan semua kota di sekitar Gerar, karena ketakutan kepada Tuhan telah menimpa mereka; dan mereka menjarah semua kota itu, karena ada banyak jarahan di dalamnya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Mereka juga memukul mati orang-orang yang memiliki ternak, dan mereka membawa pergi sejumlah besar domba dan unta. Kemudian mereka kembali ke Yerusalem."
-            ]
-        }
-    ]
+  "book": "2 Tawarikh",
+  "chapter": 14,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Abia meninggal dan dimakamkan di kota Daud; anaknya Asa menggantikannya sebagai raja. Negeri itu mengalami kedamaian selama sepuluh tahun selama pemerintahannya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": ["Asa bertindak dengan cara yang menyenangkan dan benar di hadapan Tuhan Tuhan,"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "karena ia menghapuskan mezbah asing dan tempat-tempat tinggi, meruntuhkan batu peringatan, dan menebang Asyera,"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "dan memerintahkan Yehuda untuk mencari Tuhan Tuhan nenek moyang mereka dan mengikuti Hukum dan perintah."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Ia juga menghilangkan tempat-tempat tinggi dan mezbah dupa dari semua kota di Yehuda, dan kerajaan itu menikmati kedamaian di bawah pemerintahannya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Ia membangun kota-kota berkubu di Yehuda, karena negeri itu dalam keadaan damai, dan tidak ada konflik selama tahun-tahun itu, karena Tuhan telah memberikan ketenangan kepadanya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Karena ia berkata kepada Yehuda, “Marilah kita membangun kota-kota ini dan mengelilinginya dengan tembok dan menara, pintu gerbang dan palang. Negeri ini tetap milik kita karena kita telah mencari Tuhan Tuhan kita; kita telah mencari Dia, dan Dia telah memberikan kita kedamaian di segala sisi.” Maka mereka membangun dan makmur."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Sekarang Asa memiliki tentara sebanyak 300.000 dari Yehuda, yang membawa perisai besar dan tombak, dan 280.000 dari Benyamin, yang membawa perisai dan menarik busur; semuanya adalah prajurit yang gagah berani."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Sekarang Zerah orang Etiopia keluar melawan mereka dengan tentara sebanyak satu juta orang dan tiga ratus kereta, dan ia datang sampai ke Maresya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Asa keluar untuk menghadapi dia, dan mereka mengatur diri mereka dalam formasi pertempuran di Lembah Zefata di Maresya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Kemudian Asa berseru kepada Tuhan Tuhannya dan berkata, “Tuhan, tidak ada yang selain Engkau untuk menolong dalam pertempuran antara yang kuat dan yang tidak mempunyai kekuatan; jadi tolonglah kami, Tuhan Tuhan kami, karena kami percaya kepada-Mu, dan dalam nama-Mu kami datang melawan kumpulan ini. Tuhan, Engkaulah Tuhan kami; janganlah ada orang yang mengalahkan Engkau.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Tuhan mengalahkan orang-orang Etiopia di hadapan Asa dan Yehuda, dan orang-orang Etiopia melarikan diri."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Asa dan orang-orang yang bersamanya mengejar mereka sampai ke Gerar; dan begitu banyak orang Etiopia yang jatuh sehingga tidak ada yang ditemukan hidup, karena mereka dihancurkan di hadapan Tuhan dan pasukan-Nya. Dan mereka membawa pergi sangat banyak jarahan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Mereka menghancurkan semua kota di sekitar Gerar, karena ketakutan kepada Tuhan telah menimpa mereka; dan mereka menjarah semua kota itu, karena ada banyak jarahan di dalamnya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Mereka juga memukul mati orang-orang yang memiliki ternak, dan mereka membawa pergi sejumlah besar domba dan unta. Kemudian mereka kembali ke Yerusalem."
+      ]
+    }
+  ]
 }

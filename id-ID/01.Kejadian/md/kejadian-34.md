@@ -38,7 +38,7 @@ Bentuklah aliansi dalam pernikahan dengan kami; tawarkan anak-anak perempuanmu k
 
 ## Kejadian 34:10
 
-Kamu dapat tinggal di antara kami; tanah ini terbuka untukmu. Tinggallah di dalamnya, berdaganglah di dalamnya, dan milikilah tanah di dalamnya.”
+Kamu dapat tinggal di antara kami; tanah ini terbuka untukmu. TinggTuhan di dalamnya, berdaganglah di dalamnya, dan milikilah tanah di dalamnya.”
 
 ## Kejadian 34:11
 

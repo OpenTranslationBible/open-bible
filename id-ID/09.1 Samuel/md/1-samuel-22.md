@@ -14,7 +14,7 @@ dan ia menjadi pemimpin mereka. Sekarang ada sekitar empat ratus orang bersamany
 
 Dan Daud pergi dari sana ke Mizpa di Moab.  
 Ia berkata kepada raja Moab, "Tolong biarkan ayah dan ibuku datang dan tinggal bersamamu  
-sampai aku tahu apa yang akan dilakukan Allah untukku."
+sampai aku tahu apa yang akan dilakukan Tuhan untukku."
 
 ## 1 Samuel 22:4
 
@@ -71,7 +71,7 @@ Dan ia berkata, "Ini aku, tuanku."
 
 Kemudian Saul berkata kepadanya,  
 "Mengapa kamu dan anak Isai bersekongkol melawan aku,  
-dengan memberikan roti dan pedang kepadanya, dan dengan meminta petunjuk dari Allah untuknya,  
+dengan memberikan roti dan pedang kepadanya, dan dengan meminta petunjuk dari Tuhan untuknya,  
 sehingga ia bangkit melawan aku, dengan bersembunyi, seperti yang terjadi hari ini?"
 
 ## 1 Samuel 22:14
@@ -82,7 +82,7 @@ menantu raja, pemimpin atas pengawalmu, dan dihormati di rumahmu?
 
 ## 1 Samuel 22:15
 
-Apakah hanya hari ini aku mulai meminta petunjuk dari Allah untuknya? Tentu tidak!  
+Apakah hanya hari ini aku mulai meminta petunjuk dari Tuhan untuknya? Tentu tidak!  
 Janganlah raja menuduh hambamu atau siapa pun dari keluarga ayahku,  
 karena hambamu tidak tahu apa-apa tentang seluruh perkara ini."
 
@@ -127,6 +127,6 @@ Aku telah membawa bencana atas setiap orang di keluarga ayahmu.
 
 ## 1 Samuel 22:23
 
-Tinggallah bersamaku; jangan takut,  
+TinggTuhan bersamaku; jangan takut,  
 karena orang yang mencari nyawaku juga mencari nyawamu,  
 tetapi kamu aman bersamaku."

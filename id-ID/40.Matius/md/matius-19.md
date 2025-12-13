@@ -24,7 +24,7 @@ dan berfirman, ‘Sebab itu seorang laki-laki akan meninggalkan ayah dan ibunya 
 
 ## Matius 19:6
 
-Jadi, mereka bukan lagi dua, melainkan satu daging. Karena itu, apa yang telah dipersatukan Allah, janganlah dipisahkan manusia.”
+Jadi, mereka bukan lagi dua, melainkan satu daging. Karena itu, apa yang telah dipersatukan Tuhan, janganlah dipisahkan manusia.”
 
 ## Matius 19:7
 
@@ -90,7 +90,7 @@ Orang muda itu berkata kepada-Nya, “Semua itu telah kujalankan. Apa lagi yang 
 
 ## Matius 19:21
 
-Yesus berkata kepadanya, “Jika engkau ingin menjadi sempurna, pergilah, juallah segala milikmu dan berikanlah kepada orang miskin, dan engkau akan memperoleh harta di surga. Kemudian datanglah, ikutlah Aku.”
+Yesus berkata kepadanya, “Jika engkau ingin menjadi sempurna, pergilah, juTuhan segala milikmu dan berikanlah kepada orang miskin, dan engkau akan memperoleh harta di surga. Kemudian datanglah, ikutlah Aku.”
 
 ## Matius 19:22
 
@@ -104,7 +104,7 @@ Kemudian Yesus berkata kepada murid-murid-Nya, “Sesungguhnya Aku berkata kepad
 
 ## Matius 19:24
 
-Lagi pula, lebih mudah seekor unta melewati lubang jarum daripada seorang kaya masuk ke dalam kerajaan Allah.”
+Lagi pula, lebih mudah seekor unta melewati lubang jarum daripada seorang kaya masuk ke dalam kerajaan Tuhan.”
 
 ## Matius 19:25
 
@@ -112,7 +112,7 @@ Ketika murid-murid mendengar hal ini, mereka sangat heran dan bertanya, “Kalau
 
 ## Matius 19:26
 
-Yesus memandang mereka dan berkata, “Bagi manusia hal ini tidak mungkin, tetapi bagi Allah segala sesuatu mungkin.”
+Yesus memandang mereka dan berkata, “Bagi manusia hal ini tidak mungkin, tetapi bagi Tuhan segala sesuatu mungkin.”
 
 ---
 

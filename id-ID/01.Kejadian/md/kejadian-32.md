@@ -2,11 +2,11 @@
 
 ## Kejadian 32:1
 
-Ketika Yakub melanjutkan perjalanannya, malaikat-malaikat Allah menemuinya.
+Ketika Yakub melanjutkan perjalanannya, malaikat-malaikat Tuhan menemuinya.
 
 ## Kejadian 32:2
 
-Melihat mereka, Yakub berkata, "Ini adalah perkemahan Allah!" Maka, ia menamai tempat itu Mahanaim.
+Melihat mereka, Yakub berkata, "Ini adalah perkemahan Tuhan!" Maka, ia menamai tempat itu Mahanaim.
 
 ## Kejadian 32:3
 
@@ -34,7 +34,7 @@ Ia berpikir, "Jika Esau menyerang satu kelompok, kelompok yang lain mungkin dapa
 
 ## Kejadian 32:9
 
-Yakub berdoa, "Ya Allah ayahku Abraham dan Allah ayahku Ishak, Tuhan, Engkau yang berkata kepadaku, 'Kembalilah ke tanah airmu dan sanak saudaramu, dan Aku akan membuatmu makmur,'
+Yakub berdoa, "Ya Tuhan ayahku Abraham dan Tuhan ayahku Ishak, Tuhan, Engkau yang berkata kepadaku, 'Kembalilah ke tanah airmu dan sanak saudaramu, dan Aku akan membuatmu makmur,'
 
 ## Kejadian 32:10
 
@@ -110,7 +110,7 @@ Pria itu bertanya kepadanya, "Siapa namamu?" "Yakub," jawabnya.
 
 ## Kejadian 32:28
 
-Kemudian pria itu berkata, "Namamu tidak lagi akan disebut Yakub, tetapi Israel, karena engkau telah bergumul dengan Allah dan dengan manusia dan telah menang."
+Kemudian pria itu berkata, "Namamu tidak lagi akan disebut Yakub, tetapi Israel, karena engkau telah bergumul dengan Tuhan dan dengan manusia dan telah menang."
 
 ## Kejadian 32:29
 
@@ -118,7 +118,7 @@ Yakub berkata, "Tolong beritahu aku namamu." Tetapi ia menjawab, "Mengapa engkau
 
 ## Kejadian 32:30
 
-Maka Yakub menamai tempat itu Peniel, katanya, "Karena aku telah melihat Allah muka dengan muka, namun nyawaku terluput."
+Maka Yakub menamai tempat itu Peniel, katanya, "Karena aku telah melihat Tuhan muka dengan muka, namun nyawaku terluput."
 
 ## Kejadian 32:31
 

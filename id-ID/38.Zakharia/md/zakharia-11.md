@@ -21,7 +21,7 @@
 
 ## Zakharia 11:4
 
-Inilah firman Tuhan Allahku: “Gembalakanlah kawanan domba yang ditentukan untuk disembelih.
+Inilah firman Tuhan Tuhanku: “Gembalakanlah kawanan domba yang ditentukan untuk disembelih.
 
 ## Zakharia 11:5
 

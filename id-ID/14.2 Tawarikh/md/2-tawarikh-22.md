@@ -48,7 +48,7 @@ karena ia sakit.
 
 ## 2 Tawarikh 22:7
 
-Sekarang kejatuhan Ahazia berasal dari Allah, karena ia pergi kepada Yoram.  
+Sekarang kejatuhan Ahazia berasal dari Tuhan, karena ia pergi kepada Yoram.  
 Sebab ketika ia datang, ia pergi keluar bersama Yoram melawan Yehu anak Nimsi,  
 yang telah diurapi Tuhan untuk menghabisi keluarga Ahab.
 
@@ -89,5 +89,5 @@ menyembunyikannya dari Atalya sehingga ia tidak membunuhnya.
 
 ## 2 Tawarikh 22:12
 
-Dan ia tetap tersembunyi bersama mereka di rumah Allah selama enam tahun,  
+Dan ia tetap tersembunyi bersama mereka di rumah Tuhan selama enam tahun,  
 sementara Atalya memerintah atas negeri itu.

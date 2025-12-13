@@ -4,8 +4,8 @@
 
 ## Mazmur 83:1
 
-> Ya Allah, janganlah berdiam diri;  
-> Janganlah berdiam dan, ya Allah, janganlah tinggal tenang.
+> Ya Tuhan, janganlah berdiam diri;  
+> Janganlah berdiam dan, ya Tuhan, janganlah tinggal tenang.
 
 ## Mazmur 83:2
 
@@ -66,13 +66,13 @@
 ## Mazmur 83:12
 
 > Yang berkata, “Marilah kita mengambil milik  
-> Ladang-ladang Allah.”
+> Ladang-ladang Tuhan.”
 
 ---
 
 ## Mazmur 83:13
 
-> Ya Allahku, buatlah mereka seperti debu yang berputar,  
+> Ya Tuhanku, buatlah mereka seperti debu yang berputar,  
 > Seperti sekam yang ditiup angin.
 
 ## Mazmur 83:14

@@ -2,11 +2,11 @@
 
 ## 1 Timotius 1:1
 
-Paulus, seorang rasul Kristus Yesus menurut perintah Allah Juruselamat kita, dan Kristus Yesus, yang adalah harapan kita,
+Paulus, seorang rasul Kristus Yesus menurut perintah Tuhan Juruselamat kita, dan Kristus Yesus, yang adalah harapan kita,
 
 ## 1 Timotius 1:2
 
-Kepada Timotius, anakku yang sejati dalam iman: Semoga kasih karunia, rahmat, dan damai sejahtera datang kepadamu dari Allah Bapa dan Kristus Yesus Tuhan kita.
+Kepada Timotius, anakku yang sejati dalam iman: Semoga kasih karunia, rahmat, dan damai sejahtera datang kepadamu dari Tuhan Bapa dan Kristus Yesus Tuhan kita.
 
 ## 1 Timotius 1:3
 
@@ -14,7 +14,7 @@ Sama seperti yang telah kuanjurkan kepadamu ketika aku berangkat ke Makedonia, t
 
 ## 1 Timotius 1:4
 
-atau memperhatikan mitos dan silsilah yang tak berujung, yang menimbulkan spekulasi yang tidak berguna daripada memajukan rencana Allah, yang adalah oleh iman.
+atau memperhatikan mitos dan silsilah yang tak berujung, yang menimbulkan spekulasi yang tidak berguna daripada memajukan rencana Tuhan, yang adalah oleh iman.
 
 ## 1 Timotius 1:5
 
@@ -42,7 +42,7 @@ untuk mereka yang melakukan perbuatan amoral, mereka yang mengeksploitasi orang 
 
 ## 1 Timotius 1:11
 
-sesuai dengan Injil yang mulia dari Allah yang diberkati, yang telah dipercayakan kepadaku.
+sesuai dengan Injil yang mulia dari Tuhan yang diberkati, yang telah dipercayakan kepadaku.
 
 ## 1 Timotius 1:12
 
@@ -66,7 +66,7 @@ Namun untuk alasan ini aku ditunjukkan belas kasihan, sehingga dalam diriku, ora
 
 ## 1 Timotius 1:17
 
-Sekarang bagi Raja yang kekal, yang tidak fana, yang tidak kelihatan, satu-satunya Allah, hormat dan kemuliaan untuk selama-lamanya. Amin.
+Sekarang bagi Raja yang kekal, yang tidak fana, yang tidak kelihatan, satu-satunya Tuhan, hormat dan kemuliaan untuk selama-lamanya. Amin.
 
 ## 1 Timotius 1:18
 

@@ -28,7 +28,7 @@
 ## Mazmur 116:5
 
 > Tuhan itu pengasih dan adil;  
-> Sungguh, Allah kita penuh belas kasihan.
+> Sungguh, Tuhan kita penuh belas kasihan.
 
 ## Mazmur 116:6
 

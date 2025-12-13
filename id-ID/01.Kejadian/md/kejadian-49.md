@@ -98,7 +98,7 @@ Tetapi busurnya tetap teguh, dan lengannya lincah, oleh tangan Yang Mahakuasa da
 
 ## Kejadian 49:25
 
-oleh Allah ayahmu yang menolongmu, dan oleh Yang Mahakuasa yang memberkatimu dengan berkat dari langit di atas, berkat dari kedalaman di bawah, berkat dari payudara dan rahim.
+oleh Tuhan ayahmu yang menolongmu, dan oleh Yang Mahakuasa yang memberkatimu dengan berkat dari langit di atas, berkat dari kedalaman di bawah, berkat dari payudara dan rahim.
 
 ## Kejadian 49:26
 

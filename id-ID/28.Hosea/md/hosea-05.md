@@ -24,7 +24,7 @@
 ## Hosea 5:4
 
 > Perbuatan mereka tidak akan memungkinkan mereka  
-> Untuk kembali kepada Allah mereka.  
+> Untuk kembali kepada Tuhan mereka.  
 > Karena roh percabulan ada di dalam mereka,  
 > Dan mereka tidak mengenal Tuhan.
 

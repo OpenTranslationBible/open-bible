@@ -20,7 +20,7 @@ Kemudian Ayub menjawab, katanya,
 ## Ayub 12:4
 
 > Aku telah menjadi bahan tertawaan bagi sahabat-sahabatku,
-> aku yang memanggil Allah dan dijawab—
+> aku yang memanggil Tuhan dan dijawab—
 > seorang yang adil dan tidak bercela telah menjadi bahan tertawaan.
 
 ## Ayub 12:5
@@ -31,8 +31,8 @@ Kemudian Ayub menjawab, katanya,
 ## Ayub 12:6
 
 > Kemah para perampok aman,
-> dan mereka yang menantang Allah merasa aman,
-> yang Allah telah bawa ke dalam kekuasaan mereka.
+> dan mereka yang menantang Tuhan merasa aman,
+> yang Tuhan telah bawa ke dalam kekuasaan mereka.
 
 ---
 

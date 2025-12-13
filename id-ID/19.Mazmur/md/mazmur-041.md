@@ -75,6 +75,6 @@
 
 ## Mazmur 41:13
 
-> Diberkatilah Tuhan, Allah Israel,  
+> Diberkatilah Tuhan, Tuhan Israel,  
 > Dari kekekalan sampai kekekalan.  
 > Amin dan Amin.

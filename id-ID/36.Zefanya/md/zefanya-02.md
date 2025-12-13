@@ -50,7 +50,7 @@
 > Milik sisa-sisa kaum Yehuda,  
 > Mereka akan menggembalakan kawanan domba di sana;  
 > Di rumah-rumah Askelon mereka akan berbaring pada waktu malam,  
-> Sebab Tuhan, Allah mereka, akan memelihara mereka  
+> Sebab Tuhan, Tuhan mereka, akan memelihara mereka  
 > Dan memulihkan keadaan mereka.
 
 ---
@@ -65,7 +65,7 @@
 ## Zefanya 2:9
 
 > Oleh karena itu, demi Aku yang hidup,” firman Tuhan semesta alam,  
-> Allah Israel,  
+> Tuhan Israel,  
 > “Moab pasti akan menjadi seperti Sodom,  
 > Dan anak-anak Amon seperti Gomora—  
 > Tempat yang dikuasai oleh rumput liar dan tambang garam,  

@@ -42,7 +42,7 @@ Apa yang dilakukannya itu tidak menyenangkan di mata Tuhan, maka Tuhan membunuhn
 
 ## Kejadian 38:11
 
-Lalu Yehuda berkata kepada menantunya Tamar, “Tinggallah sebagai janda di rumah ayahmu sampai anakku Syela dewasa.” Sebab ia berpikir, “Dia mungkin mati juga, seperti saudara-saudaranya.” Maka Tamar pergi tinggal di rumah ayahnya.
+Lalu Yehuda berkata kepada menantunya Tamar, “TinggTuhan sebagai janda di rumah ayahmu sampai anakku Syela dewasa.” Sebab ia berpikir, “Dia mungkin mati juga, seperti saudara-saudaranya.” Maka Tamar pergi tinggal di rumah ayahnya.
 
 ## Kejadian 38:12
 

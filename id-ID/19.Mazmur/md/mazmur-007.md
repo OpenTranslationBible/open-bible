@@ -4,7 +4,7 @@
 
 ## Mazmur 7:1
 
-> Tuhan, Allahku, kepada-Mu aku berlindung;  
+> Tuhan, Tuhanku, kepada-Mu aku berlindung;  
 > Selamatkanlah aku dari semua orang yang mengejar aku, dan lepaskanlah aku,
 
 ## Mazmur 7:2
@@ -16,7 +16,7 @@
 
 ## Mazmur 7:3
 
-> Tuhan, Allahku, jika aku telah melakukan ini,  
+> Tuhan, Tuhanku, jika aku telah melakukan ini,  
 > Jika ada ketidakadilan di tanganku,
 
 ## Mazmur 7:4
@@ -54,19 +54,19 @@
 ## Mazmur 7:9
 
 > Biarlah kejahatan orang fasik berakhir, tetapi tegakkanlah orang benar;  
-> Karena Allah yang benar memeriksa hati dan pikiran.
+> Karena Tuhan yang benar memeriksa hati dan pikiran.
 
 ---
 
 ## Mazmur 7:10
 
-> Perlindunganku ada pada Allah,  
+> Perlindunganku ada pada Tuhan,  
 > Yang menyelamatkan orang-orang yang tulus hati.
 
 ## Mazmur 7:11
 
-> Allah adalah hakim yang adil,  
-> Dan Allah yang menyatakan ketidaksenangan setiap hari.
+> Tuhan adalah hakim yang adil,  
+> Dan Tuhan yang menyatakan ketidaksenangan setiap hari.
 
 ## Mazmur 7:12
 

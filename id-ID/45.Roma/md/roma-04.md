@@ -6,11 +6,11 @@ Jadi, apakah yang akan kita katakan tentang Abraham, leluhur kita menurut daging
 
 ## Roma 4:2
 
-Sebab jika Abraham dibenarkan karena perbuatan, ia mempunyai sesuatu untuk dibanggakan, tetapi tidak di hadapan Allah.
+Sebab jika Abraham dibenarkan karena perbuatan, ia mempunyai sesuatu untuk dibanggakan, tetapi tidak di hadapan Tuhan.
 
 ## Roma 4:3
 
-Apa yang dikatakan Kitab Suci? "Abraham percaya kepada Allah, dan itu diperhitungkan kepadanya sebagai kebenaran."
+Apa yang dikatakan Kitab Suci? "Abraham percaya kepada Tuhan, dan itu diperhitungkan kepadanya sebagai kebenaran."
 
 ## Roma 4:4
 
@@ -22,7 +22,7 @@ Namun, kepada orang yang tidak bekerja tetapi percaya kepada Dia yang membenarka
 
 ## Roma 4:6
 
-Seperti juga Daud berbicara tentang kebahagiaan orang yang kepadanya Allah memperhitungkan kebenaran tanpa perbuatan:
+Seperti juga Daud berbicara tentang kebahagiaan orang yang kepadanya Tuhan memperhitungkan kebenaran tanpa perbuatan:
 
 ## Roma 4:7
 
@@ -69,7 +69,7 @@ Oleh karena itu, janji itu berdasarkan iman, supaya dapat beristirahat pada kasi
 
 ## Roma 4:17
 
-Seperti ada tertulis: "Aku telah menjadikan engkau bapa banyak bangsa." Ia adalah bapa kita di hadapan Allah, yang ia percayai—Allah yang menghidupkan orang mati dan memanggil hal-hal yang tidak ada menjadi ada.
+Seperti ada tertulis: "Aku telah menjadikan engkau bapa banyak bangsa." Ia adalah bapa kita di hadapan Tuhan, yang ia percayai—Tuhan yang menghidupkan orang mati dan memanggil hal-hal yang tidak ada menjadi ada.
 
 ## Roma 4:18
 
@@ -81,11 +81,11 @@ Tanpa melemahkan iman, ia mempertimbangkan tubuhnya sendiri, yang sekarang sudah
 
 ## Roma 4:20
 
-Namun ia tidak ragu-ragu melalui ketidakpercayaan terhadap janji Allah, tetapi dikuatkan dalam imannya dan memuliakan Allah,
+Namun ia tidak ragu-ragu melalui ketidakpercayaan terhadap janji Tuhan, tetapi dikuatkan dalam imannya dan memuliakan Tuhan,
 
 ## Roma 4:21
 
-dengan sepenuhnya yakin bahwa Allah memiliki kuasa untuk melakukan apa yang telah Ia janjikan.
+dengan sepenuhnya yakin bahwa Tuhan memiliki kuasa untuk melakukan apa yang telah Ia janjikan.
 
 ## Roma 4:22
 

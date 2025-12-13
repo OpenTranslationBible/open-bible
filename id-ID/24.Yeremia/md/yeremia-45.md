@@ -6,7 +6,7 @@ Inilah pesan yang disampaikan oleh nabi Yeremia kepada Barukh anak Neria, ketika
 
 ## Yeremia 45:2
 
-"Tuhan, Allah Israel, menyampaikan pesan ini kepadamu, Barukh:
+"Tuhan, Tuhan Israel, menyampaikan pesan ini kepadamu, Barukh:
 
 ## Yeremia 45:3
 

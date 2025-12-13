@@ -149,7 +149,7 @@ Yesus berkata, “Bapa, ampunilah mereka, karena mereka tidak tahu apa yang mere
 
 ## Lukas 23:35
 
-Orang-orang berdiri menonton, dan para penguasa mencemooh Dia, dengan berkata, “Ia menyelamatkan orang lain; biarlah Ia menyelamatkan diri-Nya sendiri jika Ia adalah Mesias Allah, Yang Terpilih.”
+Orang-orang berdiri menonton, dan para penguasa mencemooh Dia, dengan berkata, “Ia menyelamatkan orang lain; biarlah Ia menyelamatkan diri-Nya sendiri jika Ia adalah Mesias Tuhan, Yang Terpilih.”
 
 ## Lukas 23:36
 
@@ -171,7 +171,7 @@ Salah satu penjahat yang tergantung di sana menghina Dia: “Bukankah Engkau Mes
 
 ## Lukas 23:40
 
-Tetapi penjahat yang lain menegurnya. “Tidakkah engkau takut kepada Allah,” katanya, “karena engkau berada di bawah hukuman yang sama?
+Tetapi penjahat yang lain menegurnya. “Tidakkah engkau takut kepada Tuhan,” katanya, “karena engkau berada di bawah hukuman yang sama?
 
 ## Lukas 23:41
 
@@ -201,7 +201,7 @@ Yesus berseru dengan suara keras, “Bapa, ke dalam tangan-Mu Kuserahkan roh-Ku.
 
 ## Lukas 23:47
 
-Perwira itu, menyaksikan apa yang telah terjadi, memuji Allah dan berkata, “Sesungguhnya orang ini adalah orang benar.”
+Perwira itu, menyaksikan apa yang telah terjadi, memuji Tuhan dan berkata, “Sesungguhnya orang ini adalah orang benar.”
 
 ## Lukas 23:48
 
@@ -219,7 +219,7 @@ Sekarang ada seorang bernama Yusuf, anggota Majelis, yang baik dan benar,
 
 ## Lukas 23:51
 
-yang tidak setuju dengan keputusan dan tindakan mereka. Ia berasal dari kota Arimatea di Yudea dan sedang menantikan kerajaan Allah.
+yang tidak setuju dengan keputusan dan tindakan mereka. Ia berasal dari kota Arimatea di Yudea dan sedang menantikan kerajaan Tuhan.
 
 ## Lukas 23:52
 

@@ -10,19 +10,19 @@ Kemudian beberapa orang Farisi dan ahli-ahli Taurat datang kepada Yesus dari Yer
 
 ## Matius 15:3
 
-Yesus menjawab, "Dan mengapa kamu melanggar perintah Allah demi adat istiadatmu?
+Yesus menjawab, "Dan mengapa kamu melanggar perintah Tuhan demi adat istiadatmu?
 
 ## Matius 15:4
 
-Sebab Allah berfirman, 'Hormatilah ayahmu dan ibumu,' dan, 'Siapa yang mengucapkan kejahatan terhadap ayah atau ibunya harus dihukum mati.'
+Sebab Tuhan berfirman, 'Hormatilah ayahmu dan ibumu,' dan, 'Siapa yang mengucapkan kejahatan terhadap ayah atau ibunya harus dihukum mati.'
 
 ## Matius 15:5
 
-Tetapi kamu berkata bahwa jika seseorang berkata kepada ayah atau ibunya, 'Apa pun bantuan yang mungkin kamu terima dariku adalah persembahan kepada Allah,'
+Tetapi kamu berkata bahwa jika seseorang berkata kepada ayah atau ibunya, 'Apa pun bantuan yang mungkin kamu terima dariku adalah persembahan kepada Tuhan,'
 
 ## Matius 15:6
 
-maka ia tidak perlu memenuhi kewajibannya kepada ayah atau ibunya dengan itu. Dengan demikian kamu membatalkan firman Allah demi adat istiadatmu.
+maka ia tidak perlu memenuhi kewajibannya kepada ayah atau ibunya dengan itu. Dengan demikian kamu membatalkan firman Tuhan demi adat istiadatmu.
 
 ## Matius 15:7
 
@@ -134,7 +134,7 @@ Orang banyak datang kepada-Nya, membawa orang lumpuh, orang buta, orang cacat, o
 
 ## Matius 15:31
 
-Orang-orang tercengang ketika mereka melihat orang bisu berbicara, orang cacat sembuh, orang lumpuh berjalan, dan orang buta melihat. Dan mereka memuliakan Allah Israel.
+Orang-orang tercengang ketika mereka melihat orang bisu berbicara, orang cacat sembuh, orang lumpuh berjalan, dan orang buta melihat. Dan mereka memuliakan Tuhan Israel.
 
 ---
 

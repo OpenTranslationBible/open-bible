@@ -14,15 +14,15 @@ Karena Yesus dianggap layak menerima kemuliaan yang lebih besar daripada Musa, s
 
 ## Ibrani 3:4
 
-Karena setiap rumah dibangun oleh seseorang, tetapi Allah adalah pencipta segala sesuatu.
+Karena setiap rumah dibangun oleh seseorang, tetapi Tuhan adalah pencipta segala sesuatu.
 
 ## Ibrani 3:5
 
-Musa setia sebagai pelayan dalam seluruh rumah Allah, memberi kesaksian tentang apa yang akan diucapkan kemudian.
+Musa setia sebagai pelayan dalam seluruh rumah Tuhan, memberi kesaksian tentang apa yang akan diucapkan kemudian.
 
 ## Ibrani 3:6
 
-Tetapi Kristus setia sebagai Anak atas rumah Allah. Dan kita adalah rumah-Nya, jika memang kita berpegang teguh pada keyakinan dan harapan yang kita banggakan.
+Tetapi Kristus setia sebagai Anak atas rumah Tuhan. Dan kita adalah rumah-Nya, jika memang kita berpegang teguh pada keyakinan dan harapan yang kita banggakan.
 
 ## Ibrani 3:7
 
@@ -52,7 +52,7 @@ di mana nenek moyangmu mencobai dan menguji Aku, dan melihat pekerjaan-Ku selama
 
 ## Ibrani 3:12
 
-Perhatikanlah, saudara-saudara, agar tidak ada di antara kamu yang memiliki hati jahat dan tidak percaya yang berpaling dari Allah yang hidup.
+Perhatikanlah, saudara-saudara, agar tidak ada di antara kamu yang memiliki hati jahat dan tidak percaya yang berpaling dari Tuhan yang hidup.
 
 ## Ibrani 3:13
 
@@ -75,7 +75,7 @@ Siapakah mereka yang mendengar dan memberontak? Bukankah mereka semua yang dipim
 
 ## Ibrani 3:17
 
-Dan dengan siapa Allah tidak berkenan selama empat puluh tahun? Bukankah dengan mereka yang berdosa, yang tubuhnya jatuh di padang gurun?
+Dan dengan siapa Tuhan tidak berkenan selama empat puluh tahun? Bukankah dengan mereka yang berdosa, yang tubuhnya jatuh di padang gurun?
 
 ## Ibrani 3:18
 

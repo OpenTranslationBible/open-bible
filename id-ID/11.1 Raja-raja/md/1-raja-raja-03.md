@@ -43,7 +43,7 @@ bahwa Engkau telah memberinya seorang anak untuk duduk di atas takhtanya, sepert
 
 ## 1 Raja-raja 3:7
 
-Sekarang, Tuhan Allahku,  
+Sekarang, Tuhan Tuhanku,  
 Engkau telah menjadikan hamba-Mu raja menggantikan ayahku Daud,  
 namun aku hanyalah seorang anak kecil;  
 aku tidak tahu bagaimana harus keluar atau masuk.

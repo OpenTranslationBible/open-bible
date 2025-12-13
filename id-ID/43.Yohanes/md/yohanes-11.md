@@ -14,7 +14,7 @@ Maka saudara-saudara perempuan itu mengirim kabar kepada-Nya, mengatakan, "Tuhan
 
 ## Yohanes 11:4
 
-Ketika Yesus mendengar hal ini, Ia berkata, "Penyakit ini tidak akan membawa kepada kematian. Tidak, ini adalah untuk kemuliaan Allah, supaya Anak Allah dimuliakan melalui itu."
+Ketika Yesus mendengar hal ini, Ia berkata, "Penyakit ini tidak akan membawa kepada kematian. Tidak, ini adalah untuk kemuliaan Tuhan, supaya Anak Tuhan dimuliakan melalui itu."
 
 ---
 
@@ -92,7 +92,7 @@ Ketika Marta mendengar bahwa Yesus datang, ia pergi menemui-Nya, sementara Maria
 
 ## Yohanes 11:22
 
-Tetapi aku tahu bahwa bahkan sekarang Allah akan memberikan apa pun yang Engkau minta."
+Tetapi aku tahu bahwa bahkan sekarang Tuhan akan memberikan apa pun yang Engkau minta."
 
 ## Yohanes 11:23
 
@@ -112,7 +112,7 @@ dan siapa pun yang hidup dengan iman kepada-Ku tidak akan benar-benar mati. Apak
 
 ## Yohanes 11:27
 
-"Ya, Tuhan," jawabnya, "Aku percaya bahwa Engkau adalah Mesias, Anak Allah, yang ditakdirkan untuk datang ke dunia."
+"Ya, Tuhan," jawabnya, "Aku percaya bahwa Engkau adalah Mesias, Anak Tuhan, yang ditakdirkan untuk datang ke dunia."
 
 ---
 
@@ -170,7 +170,7 @@ Yesus, sekali lagi sangat terharu, datang ke kubur. Itu adalah sebuah gua dengan
 
 ## Yohanes 11:40
 
-Kemudian Yesus berkata, "Bukankah Aku telah mengatakan kepadamu bahwa jika kamu memiliki iman, kamu akan melihat kemuliaan Allah?"
+Kemudian Yesus berkata, "Bukankah Aku telah mengatakan kepadamu bahwa jika kamu memiliki iman, kamu akan melihat kemuliaan Tuhan?"
 
 ## Yohanes 11:41
 
@@ -222,7 +222,7 @@ Ia tidak mengatakan ini atas inisiatifnya sendiri, sebenarnya, sebagai imam besa
 
 ## Yohanes 11:52
 
-dan bukan hanya untuk bangsa itu tetapi juga untuk anak-anak Allah yang tersebar, untuk mengumpulkan mereka dan menyatukan mereka sebagai satu.
+dan bukan hanya untuk bangsa itu tetapi juga untuk anak-anak Tuhan yang tersebar, untuk mengumpulkan mereka dan menyatukan mereka sebagai satu.
 
 ## Yohanes 11:53
 

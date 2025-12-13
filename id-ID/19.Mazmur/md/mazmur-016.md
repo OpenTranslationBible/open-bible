@@ -4,7 +4,7 @@
 
 ## Mazmur 16:1
 
-> Lindungilah aku, ya Allah, sebab aku berlindung pada-Mu.
+> Lindungilah aku, ya Tuhan, sebab aku berlindung pada-Mu.
 
 ---
 

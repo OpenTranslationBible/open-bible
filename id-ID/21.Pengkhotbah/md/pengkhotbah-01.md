@@ -50,7 +50,7 @@ Aku, Pengkhotbah, telah menjadi raja atas Israel di Yerusalem.
 
 ## Pengkhotbah 1:13
 
-Aku mengarahkan pikiranku untuk mencari dan menyelidiki dengan hikmat segala sesuatu yang dilakukan di bawah langit. Ini adalah tugas yang menyusahkan yang diberikan Allah kepada anak-anak manusia.
+Aku mengarahkan pikiranku untuk mencari dan menyelidiki dengan hikmat segala sesuatu yang dilakukan di bawah langit. Ini adalah tugas yang menyusahkan yang diberikan Tuhan kepada anak-anak manusia.
 
 ## Pengkhotbah 1:14
 

@@ -26,7 +26,7 @@
 
 > Dan Dia akan berdiri untuk menggembalakan kawanan-Nya  
 > Dalam kekuatan Tuhan,  
-> Dalam keagungan nama Tuhan Allah-Nya.  
+> Dalam keagungan nama Tuhan Tuhan-Nya.  
 > Dan mereka akan tinggal dengan aman,  
 > Karena pada waktu itu Dia akan terkenal  
 > Sampai ke ujung bumi.

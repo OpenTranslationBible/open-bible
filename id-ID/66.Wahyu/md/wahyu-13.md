@@ -22,7 +22,7 @@ Kepadanya diberikan mulut untuk mengucapkan kata-kata sombong dan hujat, dan kep
 
 ## Wahyu 13:6
 
-Ia membuka mulutnya untuk menghujat Allah, untuk memfitnah nama-Nya dan tempat kediaman-Nya, dan mereka yang tinggal di surga.
+Ia membuka mulutnya untuk menghujat Tuhan, untuk memfitnah nama-Nya dan tempat kediaman-Nya, dan mereka yang tinggal di surga.
 
 ## Wahyu 13:7
 

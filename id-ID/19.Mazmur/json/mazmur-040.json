@@ -1,173 +1,159 @@
 {
-    "book": "Mazmur",
-    "chapter": 40,
-    "verses": [
-        {
-            "text": [
-                "Untuk pemimpin musik. Mazmur Daud."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Aku menanti-nantikan Tuhan dengan sabar;",
-                "> Dan Dia menjangkauku dan mendengar teriakku."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Dia mengangkatku dari lubang kebinasaan, dari lumpur;",
-                "> Dan Dia menempatkan kakiku di atas batu, membuat langkahku teguh."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Dia menaruh nyanyian baru dalam mulutku, pujian bagi Allah kita;",
-                "> Banyak orang akan melihat dan menjadi kagum,",
-                "> Dan akan menaruh kepercayaan mereka kepada Tuhan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Diberkatilah orang yang menjadikan Tuhan sebagai kepercayaannya,",
-                "> Dan tidak berpaling kepada orang yang sombong, atau kepada mereka yang terlibat dalam kepalsuan."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Banyak, Tuhan Allahku, adalah keajaiban yang telah Engkau lakukan,",
-                "> Dan pikiran-Mu terhadap kami;",
-                "> Tidak ada yang dapat dibandingkan dengan Engkau.",
-                "> Jika aku hendak menyatakan dan membicarakannya,",
-                "> Mereka akan melampaui jumlah."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Engkau tidak menginginkan korban dan persembahan;",
-                "> Engkau telah membuka telingaku;",
-                "> Engkau tidak memerlukan korban bakaran dan korban penghapus dosa."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Lalu aku berkata, “Lihatlah, aku datang;",
-                "> Telah tertulis tentang aku dalam gulungan kitab."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Aku bersukacita melakukan kehendak-Mu, ya Allahku;",
-                "> Hukum-Mu ada dalam hatiku.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Aku telah memberitakan kabar baik tentang kebenaran di jemaat yang besar;",
-                "> Lihatlah, aku tidak akan menahan bibirku, Tuhan, Engkau tahu."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Aku tidak menyembunyikan kebenaran-Mu dalam hatiku;",
-                "> Aku telah menyatakan kesetiaan-Mu dan keselamatan-Mu;",
-                "> Aku tidak menyembunyikan kasih setia-Mu dan kebenaran-Mu dari jemaat yang besar."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Engkau, Tuhan, tidak akan menahan belas kasihan-Mu dariku;",
-                "> Kasih setia-Mu dan kebenaran-Mu akan terus-menerus menjagaku."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Karena kejahatan yang tak terhitung jumlahnya telah mengelilingiku;",
-                "> Perbuatan salahku telah mengejarku, sehingga aku tidak dapat melihat;",
-                "> Mereka lebih banyak daripada rambut di kepalaku,",
-                "> Dan hatiku telah gagal."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Berkenanlah, Tuhan, untuk melepaskanku;",
-                "> Bergegaslah, Tuhan, untuk menolongku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Biarlah mereka menjadi malu dan terhina bersama-sama",
-                "> Yang mencari nyawaku untuk menghancurkannya;",
-                "> Biarlah mereka berbalik dan dipermalukan",
-                "> Yang senang dengan kesusahanku."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Biarlah mereka terkejut karena malu mereka",
-                "> Yang berkata kepadaku, “Aha, aha!”"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Biarlah semua yang mencari Engkau bersukacita dan bergembira dalam Engkau;",
-                "> Biarlah mereka yang mencintai keselamatan-Mu terus-menerus berkata,",
-                "> “Tuhan dipermuliakan!”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Tetapi aku menderita dan membutuhkan;",
-                "> Biarlah Tuhan memperhatikan aku.",
-                "> Engkau adalah penolongku dan penyelamatku;",
-                "> Janganlah menunda, ya Allahku."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 40,
+  "verses": [
+    {
+      "text": ["Untuk pemimpin musik. Mazmur Daud."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Aku menanti-nantikan Tuhan dengan sabar;",
+        "> Dan Dia menjangkauku dan mendengar teriakku."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Dia mengangkatku dari lubang kebinasaan, dari lumpur;",
+        "> Dan Dia menempatkan kakiku di atas batu, membuat langkahku teguh."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Dia menaruh nyanyian baru dalam mulutku, pujian bagi Tuhan kita;",
+        "> Banyak orang akan melihat dan menjadi kagum,",
+        "> Dan akan menaruh kepercayaan mereka kepada Tuhan."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Diberkatilah orang yang menjadikan Tuhan sebagai kepercayaannya,",
+        "> Dan tidak berpaling kepada orang yang sombong, atau kepada mereka yang terlibat dalam kepalsuan."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Banyak, Tuhan Tuhanku, adalah keajaiban yang telah Engkau lakukan,",
+        "> Dan pikiran-Mu terhadap kami;",
+        "> Tidak ada yang dapat dibandingkan dengan Engkau.",
+        "> Jika aku hendak menyatakan dan membicarakannya,",
+        "> Mereka akan melampaui jumlah."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Engkau tidak menginginkan korban dan persembahan;",
+        "> Engkau telah membuka telingaku;",
+        "> Engkau tidak memerlukan korban bakaran dan korban penghapus dosa."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Lalu aku berkata, “Lihatlah, aku datang;",
+        "> Telah tertulis tentang aku dalam gulungan kitab."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Aku bersukacita melakukan kehendak-Mu, ya Tuhanku;",
+        "> Hukum-Mu ada dalam hatiku.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Aku telah memberitakan kabar baik tentang kebenaran di jemaat yang besar;",
+        "> Lihatlah, aku tidak akan menahan bibirku, Tuhan, Engkau tahu."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Aku tidak menyembunyikan kebenaran-Mu dalam hatiku;",
+        "> Aku telah menyatakan kesetiaan-Mu dan keselamatan-Mu;",
+        "> Aku tidak menyembunyikan kasih setia-Mu dan kebenaran-Mu dari jemaat yang besar."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Engkau, Tuhan, tidak akan menahan belas kasihan-Mu dariku;",
+        "> Kasih setia-Mu dan kebenaran-Mu akan terus-menerus menjagaku."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Karena kejahatan yang tak terhitung jumlahnya telah mengelilingiku;",
+        "> Perbuatan salahku telah mengejarku, sehingga aku tidak dapat melihat;",
+        "> Mereka lebih banyak daripada rambut di kepalaku,",
+        "> Dan hatiku telah gagal."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Berkenanlah, Tuhan, untuk melepaskanku;",
+        "> Bergegaslah, Tuhan, untuk menolongku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Biarlah mereka menjadi malu dan terhina bersama-sama",
+        "> Yang mencari nyawaku untuk menghancurkannya;",
+        "> Biarlah mereka berbalik dan dipermalukan",
+        "> Yang senang dengan kesusahanku."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Biarlah mereka terkejut karena malu mereka",
+        "> Yang berkata kepadaku, “Aha, aha!”"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Biarlah semua yang mencari Engkau bersukacita dan bergembira dalam Engkau;",
+        "> Biarlah mereka yang mencintai keselamatan-Mu terus-menerus berkata,",
+        "> “Tuhan dipermuliakan!”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Tetapi aku menderita dan membutuhkan;",
+        "> Biarlah Tuhan memperhatikan aku.",
+        "> Engkau adalah penolongku dan penyelamatku;",
+        "> Janganlah menunda, ya Tuhanku."
+      ]
+    }
+  ]
 }

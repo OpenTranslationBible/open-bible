@@ -86,7 +86,7 @@ Dia berbicara kepada mereka mengikuti nasihat para pemuda, dengan mengatakan, â€
 
 ## 2 Tawarikh 10:15
 
-Jadi raja tidak mendengarkan rakyat, karena itu adalah perubahan peristiwa dari Allah sehingga Tuhan akan menegakkan firman-Nya, yang telah Dia ucapkan melalui Ahia orang Silo kepada Yerobeam anak Nebat.
+Jadi raja tidak mendengarkan rakyat, karena itu adalah perubahan peristiwa dari Tuhan sehingga Tuhan akan menegakkan firman-Nya, yang telah Dia ucapkan melalui Ahia orang Silo kepada Yerobeam anak Nebat.
 
 ---
 

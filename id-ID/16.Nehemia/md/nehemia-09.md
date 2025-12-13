@@ -10,15 +10,15 @@ Keturunan Israel telah memisahkan diri dari semua orang asing, dan mereka berdir
 
 ## Nehemia 9:3
 
-Sambil berdiri di tempat mereka, mereka membaca dari Kitab Hukum Tuhan Allah mereka selama seperempat hari, dan selama seperempat hari lainnya, mereka mengakui dosa dan menyembah Tuhan Allah mereka.
+Sambil berdiri di tempat mereka, mereka membaca dari Kitab Hukum Tuhan Tuhan mereka selama seperempat hari, dan selama seperempat hari lainnya, mereka mengakui dosa dan menyembah Tuhan Tuhan mereka.
 
 ## Nehemia 9:4
 
-Berdiri di atas mimbar orang Lewi adalah Yesua, Bani, Kadmiel, Sebanya, Buni, Serebya, Bani, dan Kenani, dan mereka berseru dengan suara nyaring kepada Tuhan Allah mereka.
+Berdiri di atas mimbar orang Lewi adalah Yesua, Bani, Kadmiel, Sebanya, Buni, Serebya, Bani, dan Kenani, dan mereka berseru dengan suara nyaring kepada Tuhan Tuhan mereka.
 
 ## Nehemia 9:5
 
-Kemudian orang Lewi—Yesua, Kadmiel, Bani, Hasabneya, Serebya, Hodia, Sebanya, dan Petahya—berkata, "Bangkitlah, pujilah Tuhan Allahmu, yang dari kekal sampai kekal. Semoga nama-Mu yang mulia diberkati dan ditinggikan di atas segala pujian dan puji-pujian.
+Kemudian orang Lewi—Yesua, Kadmiel, Bani, Hasabneya, Serebya, Hodia, Sebanya, dan Petahya—berkata, "Bangkitlah, pujilah Tuhan Tuhanmu, yang dari kekal sampai kekal. Semoga nama-Mu yang mulia diberkati dan ditinggikan di atas segala pujian dan puji-pujian.
 
 ## Nehemia 9:6
 
@@ -26,7 +26,7 @@ Engkau sendiri adalah Tuhan. Engkau membuat langit, langit segala langit dengan 
 
 ## Nehemia 9:7
 
-Engkau adalah Tuhan Allah, yang memilih Abram dan membawanya keluar dari Ur-Kasdim dan memberikan kepadanya nama Abraham.
+Engkau adalah Tuhan Tuhan, yang memilih Abram dan membawanya keluar dari Ur-Kasdim dan memberikan kepadanya nama Abraham.
 
 ## Nehemia 9:8
 
@@ -66,11 +66,11 @@ Tetapi mereka, nenek moyang kami, bertindak dengan angkuh dan menjadi keras kepa
 
 ## Nehemia 9:17
 
-Mereka menolak untuk mendengarkan dan tidak mengingat perbuatan-perbuatan ajaib yang telah Engkau lakukan di antara mereka. Mereka menjadi keras kepala dan mengangkat seorang pemimpin untuk kembali kepada perbudakan mereka. Tetapi Engkau adalah Allah yang pengampun, penuh kasih karunia dan belas kasihan, lambat untuk marah dan berlimpah dalam kasih setia; Engkau tidak meninggalkan mereka.
+Mereka menolak untuk mendengarkan dan tidak mengingat perbuatan-perbuatan ajaib yang telah Engkau lakukan di antara mereka. Mereka menjadi keras kepala dan mengangkat seorang pemimpin untuk kembali kepada perbudakan mereka. Tetapi Engkau adalah Tuhan yang pengampun, penuh kasih karunia dan belas kasihan, lambat untuk marah dan berlimpah dalam kasih setia; Engkau tidak meninggalkan mereka.
 
 ## Nehemia 9:18
 
-Bahkan ketika mereka membuat anak lembu dari logam cair dan menyatakan, 'Inilah Allahmu yang membawa engkau keluar dari Mesir,' dan melakukan penghujatan besar,
+Bahkan ketika mereka membuat anak lembu dari logam cair dan menyatakan, 'Inilah Tuhanmu yang membawa engkau keluar dari Mesir,' dan melakukan penghujatan besar,
 
 ## Nehemia 9:19
 
@@ -122,13 +122,13 @@ Namun Engkau bersabar dengan mereka selama bertahun-tahun, dan menegur mereka ol
 
 ## Nehemia 9:31
 
-Namun demikian, dalam belas kasihan-Mu yang besar, Engkau tidak mengakhiri mereka atau meninggalkan mereka, karena Engkau adalah Allah yang penuh kasih karunia dan belas kasihan.
+Namun demikian, dalam belas kasihan-Mu yang besar, Engkau tidak mengakhiri mereka atau meninggalkan mereka, karena Engkau adalah Tuhan yang penuh kasih karunia dan belas kasihan.
 
 ---
 
 ## Nehemia 9:32
 
-Sekarang, ya Allah kami, Allah yang besar, yang perkasa, dan yang dahsyat, yang memelihara perjanjian dan kesetiaan, jangan biarkan semua kesusahan ini tampak tidak berarti di hadapan-Mu, yang telah menimpa kami, raja-raja kami, pemimpin-pemimpin kami, imam-imam kami, nabi-nabi kami, nenek moyang kami, dan semua umat-Mu, sejak zaman raja-raja Asyur sampai hari ini.
+Sekarang, ya Tuhan kami, Tuhan yang besar, yang perkasa, dan yang dahsyat, yang memelihara perjanjian dan kesetiaan, jangan biarkan semua kesusahan ini tampak tidak berarti di hadapan-Mu, yang telah menimpa kami, raja-raja kami, pemimpin-pemimpin kami, imam-imam kami, nabi-nabi kami, nenek moyang kami, dan semua umat-Mu, sejak zaman raja-raja Asyur sampai hari ini.
 
 ## Nehemia 9:33
 

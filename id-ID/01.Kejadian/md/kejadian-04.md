@@ -98,7 +98,7 @@ Jika Kain dibalaskan tujuh kali lipat, maka Lamekh akan dibalaskan tujuh puluh t
 
 ## Kejadian 4:25
 
-Adam berhubungan intim dengan istrinya lagi, dan dia melahirkan seorang anak laki-laki dan menamainya Set, dengan berkata, "Allah telah memberikan kepadaku seorang anak lain sebagai pengganti Habel, karena Kain telah membunuhnya."
+Adam berhubungan intim dengan istrinya lagi, dan dia melahirkan seorang anak laki-laki dan menamainya Set, dengan berkata, "Tuhan telah memberikan kepadaku seorang anak lain sebagai pengganti Habel, karena Kain telah membunuhnya."
 
 ## Kejadian 4:26
 

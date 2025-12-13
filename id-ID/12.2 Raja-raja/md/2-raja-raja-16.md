@@ -9,7 +9,7 @@ Ahaz anak Yotam, raja Yehuda, mulai memerintah.
 
 Ahaz berumur dua puluh tahun ketika ia menjadi raja,  
 dan ia memerintah enam belas tahun di Yerusalem.  
-Ia tidak melakukan apa yang benar di mata Tuhan Allahnya, seperti yang dilakukan Daud, ayah leluhurnya.
+Ia tidak melakukan apa yang benar di mata Tuhan Tuhannya, seperti yang dilakukan Daud, ayah leluhurnya.
 
 ## 2 Raja-raja 16:3
 

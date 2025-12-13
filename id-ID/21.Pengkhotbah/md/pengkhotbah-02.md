@@ -94,7 +94,7 @@ Sepanjang hari kerja mereka membawa kesedihan dan rasa sakit; bahkan di malam ha
 
 ## Pengkhotbah 2:24
 
-Tidak ada yang lebih baik bagi seseorang daripada makan, minum, dan menemukan kepuasan dalam jerih payah mereka. Ini pun, aku lihat, adalah dari tangan Allah,
+Tidak ada yang lebih baik bagi seseorang daripada makan, minum, dan menemukan kepuasan dalam jerih payah mereka. Ini pun, aku lihat, adalah dari tangan Tuhan,
 
 ## Pengkhotbah 2:25
 
@@ -102,4 +102,4 @@ karena siapa yang dapat makan atau menemukan kesenangan selain dari Dia?
 
 ## Pengkhotbah 2:26
 
-Kepada orang yang menyenangkan Dia, Allah memberikan kebijaksanaan, pengetahuan, dan kebahagiaan, tetapi kepada orang berdosa, Dia memberikan tugas untuk mengumpulkan dan menyimpan kekayaan untuk diserahkan kepada orang yang menyenangkan Allah. Ini pun sia-sia, seperti mengejar angin.
+Kepada orang yang menyenangkan Dia, Tuhan memberikan kebijaksanaan, pengetahuan, dan kebahagiaan, tetapi kepada orang berdosa, Dia memberikan tugas untuk mengumpulkan dan menyimpan kekayaan untuk diserahkan kepada orang yang menyenangkan Tuhan. Ini pun sia-sia, seperti mengejar angin.

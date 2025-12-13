@@ -10,7 +10,7 @@ Namun baik dia, maupun para pejabatnya, maupun rakyat negeri itu tidak mengindah
 
 ## Yeremia 37:3
 
-Namun, Raja Zedekia mengirimkan Yukhal, anak Selemya, dan imam Zefanya, anak Maaseya, kepada nabi Yeremia, meminta, “Tolong berdoa kepada Tuhan, Allah kita, untuk kami.”
+Namun, Raja Zedekia mengirimkan Yukhal, anak Selemya, dan imam Zefanya, anak Maaseya, kepada nabi Yeremia, meminta, “Tolong berdoa kepada Tuhan, Tuhan kita, untuk kami.”
 
 ## Yeremia 37:4
 
@@ -26,7 +26,7 @@ Pesan dari Tuhan kemudian datang kepada nabi Yeremia:
 
 ## Yeremia 37:7
 
-“Inilah yang dikatakan Tuhan, Allah Israel: Katakan kepada raja Yehuda, yang mengirimmu untuk menanyakan kepada-Ku, ‘Lihatlah, tentara Firaun, yang berangkat untuk membantu kamu, akan kembali ke negerinya sendiri, Mesir.
+“Inilah yang dikatakan Tuhan, Tuhan Israel: Katakan kepada raja Yehuda, yang mengirimmu untuk menanyakan kepada-Ku, ‘Lihatlah, tentara Firaun, yang berangkat untuk membantu kamu, akan kembali ke negerinya sendiri, Mesir.
 
 ## Yeremia 37:8
 

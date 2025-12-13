@@ -2,7 +2,7 @@
 
 ## Ayub 1:1
 
-Di tanah Us, ada seorang pria bernama Ayub; orang ini tidak bercela dan jujur, takut akan Allah dan menjauhi kejahatan.
+Di tanah Us, ada seorang pria bernama Ayub; orang ini tidak bercela dan jujur, takut akan Tuhan dan menjauhi kejahatan.
 
 ## Ayub 1:2
 
@@ -20,13 +20,13 @@ Anak-anaknya akan bergiliran mengadakan perjamuan di rumah mereka pada hari yang
 
 ## Ayub 1:5
 
-Ketika hari-hari perjamuan telah berlalu, Ayub akan memanggil mereka dan menguduskan mereka. Bangun pagi-pagi sekali, dia akan mempersembahkan korban bakaran untuk masing-masing dari mereka, berpikir, "Mungkin anak-anakku telah berdosa dan mengutuk Allah dalam hati mereka." Ini adalah kebiasaan Ayub yang teratur.
+Ketika hari-hari perjamuan telah berlalu, Ayub akan memanggil mereka dan menguduskan mereka. Bangun pagi-pagi sekali, dia akan mempersembahkan korban bakaran untuk masing-masing dari mereka, berpikir, "Mungkin anak-anakku telah berdosa dan mengutuk Tuhan dalam hati mereka." Ini adalah kebiasaan Ayub yang teratur.
 
 ---
 
 ## Ayub 1:6
 
-Suatu hari, anak-anak Allah datang untuk menghadap Tuhan, dan Iblis juga datang di antara mereka.
+Suatu hari, anak-anak Tuhan datang untuk menghadap Tuhan, dan Iblis juga datang di antara mereka.
 
 ## Ayub 1:7
 
@@ -38,13 +38,13 @@ Iblis menjawab Tuhan, "Dari mengembara di bumi dan berjalan bolak-balik di atasn
 
 ## Ayub 1:8
 
-Kemudian Tuhan berkata kepada Iblis, "Apakah kamu memperhatikan hamba-Ku Ayub? Tidak ada seorang pun seperti dia di bumi; dia tidak bercela dan jujur, seorang yang takut akan Allah dan menjauhi kejahatan."
+Kemudian Tuhan berkata kepada Iblis, "Apakah kamu memperhatikan hamba-Ku Ayub? Tidak ada seorang pun seperti dia di bumi; dia tidak bercela dan jujur, seorang yang takut akan Tuhan dan menjauhi kejahatan."
 
 ---
 
 ## Ayub 1:9
 
-Iblis menjawab Tuhan, "Apakah Ayub takut akan Allah dengan sia-sia?"
+Iblis menjawab Tuhan, "Apakah Ayub takut akan Tuhan dengan sia-sia?"
 
 ## Ayub 1:10
 
@@ -80,7 +80,7 @@ ketika orang-orang Sabea menyerang dan membawa mereka pergi. Mereka membunuh par
 
 ## Ayub 1:16
 
-Sementara dia masih berbicara, utusan lain datang dan berkata, "Api Allah jatuh dari langit dan membakar domba-domba dan para pelayan, dan hanya aku yang lolos untuk memberitahumu."
+Sementara dia masih berbicara, utusan lain datang dan berkata, "Api Tuhan jatuh dari langit dan membakar domba-domba dan para pelayan, dan hanya aku yang lolos untuk memberitahumu."
 
 ## Ayub 1:17
 
@@ -109,4 +109,4 @@ Dia berkata,
 
 ## Ayub 1:22
 
-Sepanjang semua peristiwa ini, Ayub tidak berdosa atau menuduh Allah berbuat salah.
+Sepanjang semua peristiwa ini, Ayub tidak berdosa atau menuduh Tuhan berbuat salah.

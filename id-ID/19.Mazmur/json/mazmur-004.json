@@ -1,90 +1,77 @@
 {
-    "book": "Mazmur",
-    "chapter": 4,
-    "verses": [
-        {
-            "text": [
-                "Untuk pemimpin musik; dengan alat musik petik. Mazmur Daud."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Jawablah aku ketika aku berseru, ya Allah kebenaranku!",
-                "> Engkau telah memberi kelegaan kepadaku dalam kesesakanku;",
-                "> Kasihanilah aku dan dengarkanlah doaku."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Hai anak-anak manusia, berapa lama kehormatanku akan menjadi aib?",
-                "> Berapa lama kamu mencintai yang sia-sia dan mengejar kebohongan?",
-                "> Sela"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Namun ketahuilah bahwa Tuhan telah memilih orang yang setia bagi diri-Nya;",
-                "> Tuhan mendengarkan ketika aku berseru kepada-Nya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Takutlah, dan jangan berbuat dosa;",
-                "> Renungkanlah dalam hatimu di tempat tidurmu, dan tetaplah tenang.",
-                "> Sela"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Persembahkanlah korban yang benar,",
-                "> Dan percayalah kepada Tuhan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Banyak orang berkata, “Siapa yang akan menunjukkan kebaikan kepada kita?”",
-                "> Sinarilah kami dengan cahaya wajah-Mu, Tuhan!"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Engkau telah memenuhi hatiku dengan sukacita,",
-                "> Lebih dari ketika gandum dan anggur baru mereka berlimpah."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Aku akan berbaring dan tidur dengan damai,",
-                "> Sebab Engkau sendiri, Tuhan, yang membuatku aman."
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 4,
+  "verses": [
+    {
+      "text": ["Untuk pemimpin musik; dengan alat musik petik. Mazmur Daud."]
+    },
+    {
+      "verse": 1,
+      "text": [
+        "> Jawablah aku ketika aku berseru, ya Tuhan kebenaranku!",
+        "> Engkau telah memberi kelegaan kepadaku dalam kesesakanku;",
+        "> Kasihanilah aku dan dengarkanlah doaku."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Hai anak-anak manusia, berapa lama kehormatanku akan menjadi aib?",
+        "> Berapa lama kamu mencintai yang sia-sia dan mengejar kebohongan?",
+        "> Sela"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Namun ketahuilah bahwa Tuhan telah memilih orang yang setia bagi diri-Nya;",
+        "> Tuhan mendengarkan ketika aku berseru kepada-Nya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Takutlah, dan jangan berbuat dosa;",
+        "> Renungkanlah dalam hatimu di tempat tidurmu, dan tetaplah tenang.",
+        "> Sela"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["> Persembahkanlah korban yang benar,", "> Dan percayalah kepada Tuhan."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Banyak orang berkata, “Siapa yang akan menunjukkan kebaikan kepada kita?”",
+        "> Sinarilah kami dengan cahaya wajah-Mu, Tuhan!"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Engkau telah memenuhi hatiku dengan sukacita,",
+        "> Lebih dari ketika gandum dan anggur baru mereka berlimpah."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Aku akan berbaring dan tidur dengan damai,",
+        "> Sebab Engkau sendiri, Tuhan, yang membuatku aman."
+      ]
+    }
+  ]
 }

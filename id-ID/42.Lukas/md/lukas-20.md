@@ -2,7 +2,7 @@
 
 ## Lukas 20:1
 
-Pada suatu hari, ketika Yesus sedang mengajar orang-orang di pelataran Bait Allah dan memberitakan Injil, datanglah imam-imam kepala dan ahli-ahli Taurat bersama-sama dengan tua-tua kepada-Nya.
+Pada suatu hari, ketika Yesus sedang mengajar orang-orang di pelataran Bait Tuhan dan memberitakan Injil, datanglah imam-imam kepala dan ahli-ahli Taurat bersama-sama dengan tua-tua kepada-Nya.
 
 ## Lukas 20:2
 
@@ -89,7 +89,7 @@ Maka mereka mengawasi Dia dengan saksama, dan mengirim mata-mata yang berpura-pu
 
 ## Lukas 20:21
 
-Mata-mata itu menanyai Dia, katanya, "Guru, kami tahu bahwa Engkau berbicara dan mengajar dengan benar, dan Engkau tidak memandang muka, tetapi mengajarkan jalan Allah dengan benar.
+Mata-mata itu menanyai Dia, katanya, "Guru, kami tahu bahwa Engkau berbicara dan mengajar dengan benar, dan Engkau tidak memandang muka, tetapi mengajarkan jalan Tuhan dengan benar.
 
 ## Lukas 20:22
 
@@ -105,7 +105,7 @@ Tetapi Ia, mengetahui kelicikan mereka, berkata kepada mereka,
 
 ## Lukas 20:25
 
-Ia berkata kepada mereka, "Kalau begitu, berikanlah kepada Kaisar apa yang menjadi milik Kaisar, dan kepada Allah apa yang menjadi milik Allah."
+Ia berkata kepada mereka, "Kalau begitu, berikanlah kepada Kaisar apa yang menjadi milik Kaisar, dan kepada Tuhan apa yang menjadi milik Tuhan."
 
 ## Lukas 20:26
 
@@ -151,15 +151,15 @@ Tetapi mereka yang dianggap layak untuk mengambil bagian dalam zaman yang akan d
 
 ## Lukas 20:36
 
-dan mereka tidak dapat mati lagi; karena mereka seperti malaikat-malaikat. Mereka adalah anak-anak Allah, karena mereka adalah anak-anak kebangkitan.
+dan mereka tidak dapat mati lagi; karena mereka seperti malaikat-malaikat. Mereka adalah anak-anak Tuhan, karena mereka adalah anak-anak kebangkitan.
 
 ## Lukas 20:37
 
-Tetapi dalam kisah tentang semak yang menyala, bahkan Musa menunjukkan bahwa orang mati bangkit, karena ia menyebut Tuhan sebagai 'Allah Abraham, dan Allah Ishak, dan Allah Yakub.'
+Tetapi dalam kisah tentang semak yang menyala, bahkan Musa menunjukkan bahwa orang mati bangkit, karena ia menyebut Tuhan sebagai 'Tuhan Abraham, dan Tuhan Ishak, dan Tuhan Yakub.'
 
 ## Lukas 20:38
 
-Ia adalah Allah bukan dari orang mati, tetapi dari orang hidup, karena di hadapan-Nya semua orang hidup."
+Ia adalah Tuhan bukan dari orang mati, tetapi dari orang hidup, karena di hadapan-Nya semua orang hidup."
 
 ## Lukas 20:39
 

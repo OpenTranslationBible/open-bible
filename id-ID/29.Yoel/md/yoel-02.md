@@ -87,7 +87,7 @@
 ## Yoel 2:13
 
 > Koyakkanlah hatimu dan bukan pakaianmu.
-> Kembalilah kepada Tuhan, Allahmu,
+> Kembalilah kepada Tuhan, Tuhanmu,
 > sebab Dia pengasih dan penyayang,
 > lambat marah dan berlimpah kasih setia,
 > dan Dia menyesal dari mendatangkan malapetaka.
@@ -97,7 +97,7 @@
 > Siapa tahu? Dia mungkin berbalik dan menyesal
 > dan meninggalkan berkat di belakang
 > —suatu persembahan gandum dan persembahan minuman
-> bagi Tuhan, Allahmu.
+> bagi Tuhan, Tuhanmu.
 
 ## Yoel 2:15
 
@@ -123,7 +123,7 @@
 > Jangan jadikan milik pusaka-Mu suatu aib,
 > suatu perumpamaan di antara bangsa-bangsa.
 > Mengapa mereka harus berkata di antara bangsa-bangsa,
-> 'Di mana Allah mereka?'"
+> 'Di mana Tuhan mereka?'"
 
 ## Yoel 2:18
 
@@ -162,7 +162,7 @@ Tuhan menjawab umat-Nya:
 ## Yoel 2:23
 
 > Bergembiralah, hai orang-orang Sion,
-> bersukacitalah dalam Tuhan, Allahmu,
+> bersukacitalah dalam Tuhan, Tuhanmu,
 > sebab Dia telah memberimu hujan awal dalam kesetiaan-Nya.
 > Dia mengirimkan kepadamu hujan yang melimpah,
 > baik hujan awal maupun hujan akhir seperti sebelumnya.
@@ -182,14 +182,14 @@ Tuhan menjawab umat-Nya:
 ## Yoel 2:26
 
 > Kamu akan makan dengan kenyang, sampai puas,
-> dan kamu akan memuji nama Tuhan, Allahmu,
+> dan kamu akan memuji nama Tuhan, Tuhanmu,
 > yang telah melakukan keajaiban bagimu;
 > tidak akan pernah lagi umat-Ku dipermalukan.
 
 ## Yoel 2:27
 
 > Kemudian kamu akan tahu bahwa Aku ada di tengah-tengah Israel,
-> bahwa Aku adalah Tuhan, Allahmu,
+> bahwa Aku adalah Tuhan, Tuhanmu,
 > dan tidak ada yang lain;
 > tidak akan pernah lagi umat-Ku dipermalukan.
 

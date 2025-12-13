@@ -30,7 +30,7 @@ Sejak zaman nenek moyangmu kamu telah berpaling dari ketetapan-Ku dan tidak meme
 
 ## Maleakhi 3:8
 
-"Dapatkah manusia merampok Allah? Namun kamu telah merampok Aku. Tetapi kamu berkata, 'Dengan cara bagaimana kami telah merampok Engkau?' Dalam persembahan persepuluhan dan persembahan.
+"Dapatkah manusia merampok Tuhan? Namun kamu telah merampok Aku. Tetapi kamu berkata, 'Dengan cara bagaimana kami telah merampok Engkau?' Dalam persembahan persepuluhan dan persembahan.
 
 ## Maleakhi 3:9
 
@@ -54,11 +54,11 @@ Dan Aku akan menghardik pemakan hasil untukmu, dan ia tidak akan menghancurkan h
 
 ## Maleakhi 3:14
 
-Kamu telah berkata, 'Sia-sia untuk melayani Allah, dan apa untungnya kita memelihara ketetapan-Nya dan berjalan dengan sedih di hadapan Tuhan semesta alam?
+Kamu telah berkata, 'Sia-sia untuk melayani Tuhan, dan apa untungnya kita memelihara ketetapan-Nya dan berjalan dengan sedih di hadapan Tuhan semesta alam?
 
 ## Maleakhi 3:15
 
-Dan sekarang kita menganggap orang yang sombong beruntung; sesungguhnya, mereka yang melakukan kejahatan ditinggikan, dan mereka yang menantang Allah lolos.'"
+Dan sekarang kita menganggap orang yang sombong beruntung; sesungguhnya, mereka yang melakukan kejahatan ditinggikan, dan mereka yang menantang Tuhan lolos.'"
 
 ## Maleakhi 3:16
 
@@ -70,4 +70,4 @@ Kemudian mereka yang takut akan Tuhan sering berbicara satu sama lain, dan Tuhan
 
 ## Maleakhi 3:18
 
-Kemudian kamu akan kembali dan membedakan antara orang benar dan orang fasik, antara dia yang melayani Allah dan dia yang tidak melayani-Nya.
+Kemudian kamu akan kembali dan membedakan antara orang benar dan orang fasik, antara dia yang melayani Tuhan dan dia yang tidak melayani-Nya.

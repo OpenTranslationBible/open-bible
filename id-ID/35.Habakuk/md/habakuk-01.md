@@ -72,7 +72,7 @@ Ucapan ilahi yang dilihat nabi Habakuk.
 ## Habakuk 1:12
 
 > Bukankah Engkau dari kekekalan,
-> ya Tuhan, Allahku, Yang Kudus?
+> ya Tuhan, Tuhanku, Yang Kudus?
 > Engkau tidak akan binasa.
 > Ya Tuhan, Engkau telah menetapkan mereka untuk penghakiman,
 > dan Engkau, ya Gunung Batu, telah menetapkan mereka untuk koreksi.

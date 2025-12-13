@@ -2,7 +2,7 @@
 
 ## Keluaran 7:1
 
-Kemudian TUHAN berkata kepada Musa, "Lihatlah, Aku telah membuat engkau seperti Allah bagi Firaun, dan saudaramu Harun akan menjadi nabimu.
+Kemudian TUHAN berkata kepada Musa, "Lihatlah, Aku telah membuat engkau seperti Tuhan bagi Firaun, dan saudaramu Harun akan menjadi nabimu.
 
 ## Keluaran 7:2
 
@@ -62,7 +62,7 @@ Pergilah kepada Firaun di pagi hari saat ia pergi ke air. Berdirilah di tepi sun
 
 ## Keluaran 7:16
 
-Katakan kepadanya, 'TUHAN, Allah orang Ibrani, telah mengutus aku untuk mengatakan kepadamu: Biarkan umat-Ku pergi, supaya mereka dapat beribadah kepada-Ku di padang gurun. Tetapi engkau belum mendengarkan sampai sekarang.
+Katakan kepadanya, 'TUHAN, Tuhan orang Ibrani, telah mengutus aku untuk mengatakan kepadamu: Biarkan umat-Ku pergi, supaya mereka dapat beribadah kepada-Ku di padang gurun. Tetapi engkau belum mendengarkan sampai sekarang.
 
 ## Keluaran 7:17
 

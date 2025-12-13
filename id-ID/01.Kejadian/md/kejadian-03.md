@@ -2,7 +2,7 @@
 
 ## Kejadian 3:1
 
-Adapun ular ialah yang paling cerdik dari segala binatang liar yang dijadikan oleh Tuhan Allah. Ular itu berkata kepada perempuan itu, "Apakah benar, Allah berfirman: Kamu tidak boleh makan dari pohon manapun di taman ini?"
+Adapun ular ialah yang paling cerdik dari segala binatang liar yang dijadikan oleh Tuhan Tuhan. Ular itu berkata kepada perempuan itu, "Apakah benar, Tuhan berfirman: Kamu tidak boleh makan dari pohon manapun di taman ini?"
 
 ## Kejadian 3:2
 
@@ -10,7 +10,7 @@ Lalu sahut perempuan itu kepada ular itu, "Buah pohon-pohonan dalam taman ini bo
 
 ## Kejadian 3:3
 
-tetapi tentang buah pohon yang ada di tengah-tengah taman, Allah berfirman: Jangan kamu makan ataupun raba buah itu, nanti kamu mati."
+tetapi tentang buah pohon yang ada di tengah-tengah taman, Tuhan berfirman: Jangan kamu makan ataupun raba buah itu, nanti kamu mati."
 
 ## Kejadian 3:4
 
@@ -18,7 +18,7 @@ Tetapi ular itu berkata kepada perempuan itu, "Sekali-kali kamu tidak akan mati!
 
 ## Kejadian 3:5
 
-Allah mengetahui bahwa pada waktu kamu memakannya matamu akan terbuka, dan kamu akan menjadi seperti Allah, tahu tentang yang baik dan yang jahat."
+Tuhan mengetahui bahwa pada waktu kamu memakannya matamu akan terbuka, dan kamu akan menjadi seperti Tuhan, tahu tentang yang baik dan yang jahat."
 
 ## Kejadian 3:6
 
@@ -30,11 +30,11 @@ Maka terbukalah mata mereka berdua dan mereka tahu, bahwa mereka telanjang; lalu
 
 ## Kejadian 3:8
 
-Ketika mereka mendengar bunyi langkah Tuhan Allah, yang berjalan-jalan dalam taman itu pada waktu hari sejuk, bersembunyilah manusia dan istrinya itu terhadap Tuhan Allah di antara pohon-pohonan dalam taman.
+Ketika mereka mendengar bunyi langkah Tuhan Tuhan, yang berjalan-jalan dalam taman itu pada waktu hari sejuk, bersembunyilah manusia dan istrinya itu terhadap Tuhan Tuhan di antara pohon-pohonan dalam taman.
 
 ## Kejadian 3:9
 
-Tetapi Tuhan Allah memanggil manusia itu dan berfirman kepadanya, "Di manakah engkau?"
+Tetapi Tuhan Tuhan memanggil manusia itu dan berfirman kepadanya, "Di manakah engkau?"
 
 ## Kejadian 3:10
 
@@ -50,11 +50,11 @@ Manusia itu menjawab, "Perempuan yang Kautempatkan di sisiku, dialah yang member
 
 ## Kejadian 3:13
 
-Kemudian berfirmanlah Tuhan Allah kepada perempuan itu, "Apakah yang telah kauperbuat ini?" Jawab perempuan itu, "Ular itu yang memperdayakan aku, maka kumakan."
+Kemudian berfirmanlah Tuhan Tuhan kepada perempuan itu, "Apakah yang telah kauperbuat ini?" Jawab perempuan itu, "Ular itu yang memperdayakan aku, maka kumakan."
 
 ## Kejadian 3:14
 
-Lalu berfirmanlah Tuhan Allah kepada ular itu, "Karena engkau berbuat demikian, terkutuklah engkau di antara segala ternak dan di antara segala binatang liar; dengan perutmulah engkau akan menjalar dan debu tanahlah akan kaumakan seumur hidupmu.
+Lalu berfirmanlah Tuhan Tuhan kepada ular itu, "Karena engkau berbuat demikian, terkutuklah engkau di antara segala ternak dan di antara segala binatang liar; dengan perutmulah engkau akan menjalar dan debu tanahlah akan kaumakan seumur hidupmu.
 
 ## Kejadian 3:15
 
@@ -82,15 +82,15 @@ Manusia itu memberi nama Hawa kepada istrinya, sebab dialah yang menjadi ibu sem
 
 ## Kejadian 3:21
 
-Dan Tuhan Allah membuat pakaian dari kulit binatang untuk manusia dan untuk istrinya itu, lalu mengenakannya kepada mereka.
+Dan Tuhan Tuhan membuat pakaian dari kulit binatang untuk manusia dan untuk istrinya itu, lalu mengenakannya kepada mereka.
 
 ## Kejadian 3:22
 
-Berfirmanlah Tuhan Allah, "Sesungguhnya manusia itu telah menjadi seperti salah satu dari Kita, tahu tentang yang baik dan yang jahat; maka sekarang jangan sampai ia mengulurkan tangannya dan mengambil pula dari buah pohon kehidupan itu dan memakannya, sehingga ia hidup untuk selama-lamanya."
+Berfirmanlah Tuhan Tuhan, "Sesungguhnya manusia itu telah menjadi seperti salah satu dari Kita, tahu tentang yang baik dan yang jahat; maka sekarang jangan sampai ia mengulurkan tangannya dan mengambil pula dari buah pohon kehidupan itu dan memakannya, sehingga ia hidup untuk selama-lamanya."
 
 ## Kejadian 3:23
 
-Lalu Tuhan Allah mengusir dia dari taman Eden supaya ia mengusahakan tanah dari mana ia diambil.
+Lalu Tuhan Tuhan mengusir dia dari taman Eden supaya ia mengusahakan tanah dari mana ia diambil.
 
 ## Kejadian 3:24
 

@@ -17,7 +17,7 @@
 
 ## Ayub 33:4
 
-> Roh Allah telah menciptakan aku;
+> Roh Tuhan telah menciptakan aku;
 > nafas Yang Mahakuasa memberiku kehidupan.
 
 ## Ayub 33:5
@@ -27,7 +27,7 @@
 
 ## Ayub 33:6
 
-> Aku sama seperti engkau di hadapan Allah;
+> Aku sama seperti engkau di hadapan Tuhan;
 > aku juga telah dibentuk dari tanah liat.
 
 ## Ayub 33:7
@@ -62,7 +62,7 @@
 ## Ayub 33:12
 
 > “Tetapi aku berkata kepadamu, dalam hal ini engkau tidak benar,
-> karena Allah lebih besar dari manusia mana pun.
+> karena Tuhan lebih besar dari manusia mana pun.
 
 ## Ayub 33:13
 
@@ -71,7 +71,7 @@
 
 ## Ayub 33:14
 
-> Karena Allah memang berbicara—sekarang dengan satu cara,
+> Karena Tuhan memang berbicara—sekarang dengan satu cara,
 > sekarang dengan cara lain—namun tidak ada yang memperhatikannya.
 
 ## Ayub 33:15
@@ -136,7 +136,7 @@
 
 ## Ayub 33:26
 
-> maka mereka akan berdoa kepada Allah
+> maka mereka akan berdoa kepada Tuhan
 > dan mendapatkan perkenan-Nya; mereka akan melihat wajah-Nya dengan sukacita,
 > dan Dia akan memulihkan kebenaran mereka.
 
@@ -155,7 +155,7 @@
 
 ## Ayub 33:29
 
-> “Sesungguhnya, Allah melakukan semua ini untuk seseorang—dua kali, bahkan tiga kali—
+> “Sesungguhnya, Tuhan melakukan semua ini untuk seseorang—dua kali, bahkan tiga kali—
 
 ## Ayub 33:30
 

@@ -4,7 +4,7 @@
 
 ## Mazmur 67:1
 
-> Kiranya Allah mengasihani kita dan memberkati kita,  
+> Kiranya Tuhan mengasihani kita dan memberkati kita,  
 > Dan menyinari kita dengan wajah-Nya—
 
 > Sela
@@ -18,7 +18,7 @@
 
 ## Mazmur 67:3
 
-> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Allah;  
+> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Tuhan;  
 > Kiranya semua bangsa bersyukur kepada-Mu.
 
 ## Mazmur 67:4
@@ -31,7 +31,7 @@
 
 ## Mazmur 67:5
 
-> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Allah;  
+> Kiranya bangsa-bangsa bersyukur kepada-Mu, ya Tuhan;  
 > Kiranya semua bangsa bersyukur kepada-Mu.
 
 ---
@@ -39,9 +39,9 @@
 ## Mazmur 67:6
 
 > Bumi telah memberikan hasilnya;  
-> Allah, Allah kita, memberkati kita.
+> Tuhan, Tuhan kita, memberkati kita.
 
 ## Mazmur 67:7
 
-> Allah memberkati kita,  
+> Tuhan memberkati kita,  
 > Supaya segala ujung bumi takut akan Dia.

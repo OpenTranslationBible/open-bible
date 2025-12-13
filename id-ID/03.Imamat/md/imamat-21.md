@@ -22,15 +22,15 @@ Para imam tidak boleh membuat bintik-bintik botak di kepala mereka, mencukur uju
 
 ## Imamat 21:6
 
-Mereka harus kudus bagi Allah mereka dan tidak menajiskan nama Allah mereka, karena mereka mempersembahkan persembahan dengan api kepada Tuhan, makanan Allah mereka; dengan demikian, mereka harus kudus.
+Mereka harus kudus bagi Tuhan mereka dan tidak menajiskan nama Tuhan mereka, karena mereka mempersembahkan persembahan dengan api kepada Tuhan, makanan Tuhan mereka; dengan demikian, mereka harus kudus.
 
 ## Imamat 21:7
 
-Mereka tidak boleh menikahi seorang wanita yang pelacur atau telah dinajiskan, atau menikahi seorang wanita yang diceraikan dari suaminya, karena mereka kudus bagi Allah mereka.
+Mereka tidak boleh menikahi seorang wanita yang pelacur atau telah dinajiskan, atau menikahi seorang wanita yang diceraikan dari suaminya, karena mereka kudus bagi Tuhan mereka.
 
 ## Imamat 21:8
 
-Oleh karena itu, anggaplah mereka sebagai kudus, karena mereka mempersembahkan makanan Allahmu. Mereka harus kudus bagimu, karena Aku, Tuhan, yang menguduskan kamu, adalah kudus.
+Oleh karena itu, anggaplah mereka sebagai kudus, karena mereka mempersembahkan makanan Tuhanmu. Mereka harus kudus bagimu, karena Aku, Tuhan, yang menguduskan kamu, adalah kudus.
 
 ## Imamat 21:9
 
@@ -46,7 +46,7 @@ Dia tidak boleh mendekati mayat, atau menajiskan dirinya, bahkan untuk ayahnya a
 
 ## Imamat 21:12
 
-atau meninggalkan tempat kudus Allahnya atau menajiskannya, karena pengudusan minyak urapan Allahnya ada padanya. Akulah Tuhan.
+atau meninggalkan tempat kudus Tuhannya atau menajiskannya, karena pengudusan minyak urapan Tuhannya ada padanya. Akulah Tuhan.
 
 ## Imamat 21:13
 
@@ -66,7 +66,7 @@ Kemudian Tuhan berfirman kepada Musa, mengatakan,
 
 ## Imamat 21:17
 
-"Berbicaralah kepada Harun, mengatakan: 'Tidak seorang pun dari keturunanmu sepanjang generasi mereka yang memiliki cacat boleh mendekat untuk mempersembahkan makanan Allahnya.
+"Berbicaralah kepada Harun, mengatakan: 'Tidak seorang pun dari keturunanmu sepanjang generasi mereka yang memiliki cacat boleh mendekat untuk mempersembahkan makanan Tuhannya.
 
 ## Imamat 21:18
 
@@ -82,11 +82,11 @@ atau yang bungkuk atau kerdil, atau yang memiliki cacat pada matanya, atau memil
 
 ## Imamat 21:21
 
-Tidak seorang pun keturunan Harun imam yang memiliki cacat boleh mendekat untuk mempersembahkan persembahan dengan api kepada Tuhan. Dia memiliki cacat; dia tidak boleh mendekat untuk mempersembahkan makanan Allahnya.
+Tidak seorang pun keturunan Harun imam yang memiliki cacat boleh mendekat untuk mempersembahkan persembahan dengan api kepada Tuhan. Dia memiliki cacat; dia tidak boleh mendekat untuk mempersembahkan makanan Tuhannya.
 
 ## Imamat 21:22
 
-Dia diizinkan untuk mengambil bagian dari makanan Allahnya, termasuk bagian yang paling kudus dan yang kudus,
+Dia diizinkan untuk mengambil bagian dari makanan Tuhannya, termasuk bagian yang paling kudus dan yang kudus,
 
 ## Imamat 21:23
 

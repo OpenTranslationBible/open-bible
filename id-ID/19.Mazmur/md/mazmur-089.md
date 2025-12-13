@@ -38,12 +38,12 @@
 
 ## Mazmur 89:7
 
-> Allah yang sangat dihormati dalam dewan orang-orang kudus,  
+> Tuhan yang sangat dihormati dalam dewan orang-orang kudus,  
 > Dan mengagumkan di atas semua yang mengelilingi-Nya?
 
 ## Mazmur 89:8
 
-> Tuhan, Allah semesta alam, siapa yang seperti Engkau, Tuhan yang perkasa?  
+> Tuhan, Tuhan semesta alam, siapa yang seperti Engkau, Tuhan yang perkasa?  
 > Kesetiaan-Mu mengelilingi Engkau.
 
 ---
@@ -141,7 +141,7 @@
 ## Mazmur 89:26
 
 > Dia akan berseru kepada-Ku, ‘Engkau adalah Bapaku,  
-> Allahku, dan dasar keselamatanku.’
+> Tuhanku, dan dasar keselamatanku.’
 
 ## Mazmur 89:27
 

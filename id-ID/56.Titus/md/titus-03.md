@@ -14,7 +14,7 @@ Karena kita sendiri dahulu juga bodoh, tidak taat, tertipu, diperbudak oleh berb
 
 ## Titus 3:4
 
-Namun, ketika kebaikan dan kasih Allah, Juruselamat kita, dinyatakan,
+Namun, ketika kebaikan dan kasih Tuhan, Juruselamat kita, dinyatakan,
 
 ## Titus 3:5
 
@@ -30,7 +30,7 @@ sehingga, setelah dibenarkan oleh kasih karunia-Nya, kita dapat menjadi ahli war
 
 ## Titus 3:8
 
-Perkataan ini dapat dipercaya, dan aku ingin kamu menegaskan hal-hal ini, agar mereka yang telah percaya kepada Allah berhati-hati untuk mengabdikan diri pada pekerjaan yang baik. Hal-hal ini baik dan bermanfaat bagi semua orang.
+Perkataan ini dapat dipercaya, dan aku ingin kamu menegaskan hal-hal ini, agar mereka yang telah percaya kepada Tuhan berhati-hati untuk mengabdikan diri pada pekerjaan yang baik. Hal-hal ini baik dan bermanfaat bagi semua orang.
 
 ## Titus 3:9
 

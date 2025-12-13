@@ -54,7 +54,7 @@ Tetapi orang Israel tidak mengusir orang Gesur atau orang Maakha; maka Gesur dan
 
 ## Yosua 13:14
 
-Hanya kepada suku Lewi dia tidak memberikan warisan; persembahan dengan api kepada Tuhan, Allah Israel, adalah warisan mereka, seperti yang Dia janjikan kepada mereka.
+Hanya kepada suku Lewi dia tidak memberikan warisan; persembahan dengan api kepada Tuhan, Tuhan Israel, adalah warisan mereka, seperti yang Dia janjikan kepada mereka.
 
 ## Yosua 13:15
 
@@ -130,4 +130,4 @@ Inilah tanah-tanah yang Musa berikan sebagai warisan di dataran Moab, di sebelah
 
 ## Yosua 13:33
 
-Tetapi kepada suku Lewi, Musa tidak memberikan warisan; Tuhan, Allah Israel, adalah warisan mereka, seperti yang Dia janjikan kepada mereka.
+Tetapi kepada suku Lewi, Musa tidak memberikan warisan; Tuhan, Tuhan Israel, adalah warisan mereka, seperti yang Dia janjikan kepada mereka.

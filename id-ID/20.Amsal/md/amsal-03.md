@@ -14,7 +14,7 @@ Biarlah kebaikan dan kebenaran tidak pernah meninggalkanmu; kalungkanlah itu pad
 
 ## Amsal 3:4
 
-Dengan demikian engkau akan mendapat kasih karunia dan nama baik di hadapan Allah dan manusia.
+Dengan demikian engkau akan mendapat kasih karunia dan nama baik di hadapan Tuhan dan manusia.
 
 ## Amsal 3:5
 

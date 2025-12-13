@@ -1,102 +1,96 @@
 {
-    "book": "Keluaran",
-    "chapter": 17,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Seluruh umat Israel berangkat berangsur-angsur dari padang gurun Sin, mengikuti perintah Tuhan, dan berkemah di Rafidim, di mana tidak ada air untuk diminum oleh umat itu."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Umat itu bertengkar dengan Musa, menuntut, “Berikanlah kami air untuk diminum.” Musa menjawab, “Mengapa kamu bertengkar dengan aku? Mengapa kamu mencobai Tuhan?”"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Umat itu, yang haus akan air, menggerutu terhadap Musa, berkata, “Mengapa engkau membawa kami keluar dari Mesir, untuk membunuh kami dan anak-anak kami serta ternak kami dengan kehausan?”"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Musa berseru kepada Tuhan, “Apa yang harus aku lakukan dengan umat ini? Mereka hampir siap untuk melempari aku dengan batu!”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Tuhan memerintahkan Musa, “Berjalanlah di depan umat itu, ambillah beberapa dari para tua-tua Israel bersamamu, dan bawalah di tanganmu tongkat yang kau pukulkan ke Sungai Nil, dan pergilah."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Aku akan berdiri di depanmu di sana di atas batu di Horeb; pukullah batu itu, dan air akan mengalir darinya untuk diminum oleh umat itu.” Musa melakukannya di hadapan para tua-tua Israel."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Ia menamai tempat itu Masa dan Meriba karena pertengkaran orang Israel, dan karena mereka mencobai Tuhan, dengan bertanya, “Apakah Tuhan ada di tengah-tengah kita atau tidak?”"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Orang Amalek datang dan berperang melawan Israel di Rafidim."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Musa memerintahkan Yosua, “Pilihlah orang-orang untuk kita dan keluarlah berperang melawan Amalek. Besok aku akan berdiri di puncak bukit dengan tongkat Allah di tanganku.”"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Yosua melakukan seperti yang diperintahkan Musa dan berperang melawan Amalek, sementara Musa, Harun, dan Hur naik ke puncak bukit."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Setiap kali Musa mengangkat tangannya, Israel menang; tetapi ketika ia menurunkan tangannya, Amalek menang."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Tangan Musa menjadi lelah, jadi mereka meletakkan sebuah batu di bawahnya, dan ia duduk di atasnya. Harun dan Hur menopang tangannya, satu di setiap sisi, sehingga tangannya tetap teguh sampai matahari terbenam."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Yosua mengalahkan Amalek dan rakyatnya dengan pedang."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Tuhan berkata kepada Musa, “Tuliskan ini sebagai peringatan dalam sebuah kitab dan bacakan kepada Yosua, karena Aku akan sepenuhnya menghapus ingatan tentang Amalek dari bawah langit.”"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Musa membangun sebuah mezbah dan menamainya Tuhan adalah Panjiku."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Ia menyatakan, “Karena Tuhan telah bersumpah, Tuhan akan berperang melawan Amalek dari generasi ke generasi.”"
-            ]
-        }
-    ]
+  "book": "Keluaran",
+  "chapter": 17,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Seluruh umat Israel berangkat berangsur-angsur dari padang gurun Sin, mengikuti perintah Tuhan, dan berkemah di Rafidim, di mana tidak ada air untuk diminum oleh umat itu."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Umat itu bertengkar dengan Musa, menuntut, “Berikanlah kami air untuk diminum.” Musa menjawab, “Mengapa kamu bertengkar dengan aku? Mengapa kamu mencobai Tuhan?”"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Umat itu, yang haus akan air, menggerutu terhadap Musa, berkata, “Mengapa engkau membawa kami keluar dari Mesir, untuk membunuh kami dan anak-anak kami serta ternak kami dengan kehausan?”"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Musa berseru kepada Tuhan, “Apa yang harus aku lakukan dengan umat ini? Mereka hampir siap untuk melempari aku dengan batu!”"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Tuhan memerintahkan Musa, “Berjalanlah di depan umat itu, ambillah beberapa dari para tua-tua Israel bersamamu, dan bawalah di tanganmu tongkat yang kau pukulkan ke Sungai Nil, dan pergilah."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Aku akan berdiri di depanmu di sana di atas batu di Horeb; pukullah batu itu, dan air akan mengalir darinya untuk diminum oleh umat itu.” Musa melakukannya di hadapan para tua-tua Israel."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Ia menamai tempat itu Masa dan Meriba karena pertengkaran orang Israel, dan karena mereka mencobai Tuhan, dengan bertanya, “Apakah Tuhan ada di tengah-tengah kita atau tidak?”"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": ["Orang Amalek datang dan berperang melawan Israel di Rafidim."]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Musa memerintahkan Yosua, “Pilihlah orang-orang untuk kita dan keluarlah berperang melawan Amalek. Besok aku akan berdiri di puncak bukit dengan tongkat Tuhan di tanganku.”"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Yosua melakukan seperti yang diperintahkan Musa dan berperang melawan Amalek, sementara Musa, Harun, dan Hur naik ke puncak bukit."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Setiap kali Musa mengangkat tangannya, Israel menang; tetapi ketika ia menurunkan tangannya, Amalek menang."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Tangan Musa menjadi lelah, jadi mereka meletakkan sebuah batu di bawahnya, dan ia duduk di atasnya. Harun dan Hur menopang tangannya, satu di setiap sisi, sehingga tangannya tetap teguh sampai matahari terbenam."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": ["Yosua mengalahkan Amalek dan rakyatnya dengan pedang."]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Tuhan berkata kepada Musa, “Tuliskan ini sebagai peringatan dalam sebuah kitab dan bacakan kepada Yosua, karena Aku akan sepenuhnya menghapus ingatan tentang Amalek dari bawah langit.”"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": ["Musa membangun sebuah mezbah dan menamainya Tuhan adalah Panjiku."]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Ia menyatakan, “Karena Tuhan telah bersumpah, Tuhan akan berperang melawan Amalek dari generasi ke generasi.”"
+      ]
+    }
+  ]
 }

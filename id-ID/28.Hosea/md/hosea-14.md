@@ -2,7 +2,7 @@
 
 ## Hosea 14:1
 
-> Kembalilah, Israel, kepada Tuhan Allahmu,  
+> Kembalilah, Israel, kepada Tuhan Tuhanmu,  
 > Karena engkau telah jatuh karena kesalahanmu.
 
 ## Hosea 14:2
@@ -17,7 +17,7 @@
 
 > Asyur tidak dapat menyelamatkan kami,  
 > Kami tidak akan mengandalkan kuda;  
-> Juga kami tidak akan menyebut pekerjaan tangan kami, ‘Allah kami’;  
+> Juga kami tidak akan menyebut pekerjaan tangan kami, ‘Tuhan kami’;  
 > Karena dalam Engkau yatim piatu menemukan belas kasihan.”
 
 ## Hosea 14:4

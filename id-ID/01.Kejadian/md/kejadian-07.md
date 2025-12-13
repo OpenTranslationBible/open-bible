@@ -34,7 +34,7 @@ Sepasang-sepasang dari binatang yang bersih dan yang tidak bersih, bersama denga
 
 ## Kejadian 7:9
 
-datang kepada Nuh dan masuk ke dalam bahtera, jantan dan betina, seperti yang diperintahkan Allah kepada Nuh.
+datang kepada Nuh dan masuk ke dalam bahtera, jantan dan betina, seperti yang diperintahkan Tuhan kepada Nuh.
 
 ## Kejadian 7:10
 
@@ -62,7 +62,7 @@ Sepasang-sepasang dari semua makhluk yang memiliki nafas hidup datang kepada Nuh
 
 ## Kejadian 7:16
 
-Mereka yang masuk, jantan dan betina dari segala makhluk hidup, masuk seperti yang diperintahkan Allah kepadanya; dan TUHAN menutup pintu bahtera itu.
+Mereka yang masuk, jantan dan betina dari segala makhluk hidup, masuk seperti yang diperintahkan Tuhan kepadanya; dan TUHAN menutup pintu bahtera itu.
 
 ## Kejadian 7:17
 

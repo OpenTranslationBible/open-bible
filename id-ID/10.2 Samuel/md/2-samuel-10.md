@@ -27,7 +27,7 @@ memotong pakaian mereka pada bagian pinggang, dan menyuruh mereka pergi.
 
 Ketika hal itu dilaporkan kepada Daud, ia mengirimkan utusan untuk menemui mereka,  
 karena orang-orang itu sangat dipermalukan.  
-Dan raja berkata, “Tinggallah di Yerikho sampai janggutmu tumbuh kembali, dan kemudian kembalilah.”
+Dan raja berkata, “TinggTuhan di Yerikho sampai janggutmu tumbuh kembali, dan kemudian kembalilah.”
 
 ---
 
@@ -65,7 +65,7 @@ tetapi jika bani Amon terlalu kuat bagimu, maka aku akan datang membantumu.
 
 ## 2 Samuel 10:12
 
-Kuatkanlah dirimu, dan marilah kita menunjukkan keberanian demi bangsa kita dan kota-kota Allah kita;  
+Kuatkanlah dirimu, dan marilah kita menunjukkan keberanian demi bangsa kita dan kota-kota Tuhan kita;  
 dan kiranya Tuhan melakukan apa yang baik di mata-Nya.”
 
 ## 2 Samuel 10:13

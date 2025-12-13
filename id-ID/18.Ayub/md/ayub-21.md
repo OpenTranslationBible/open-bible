@@ -42,7 +42,7 @@ Ayub menjawab:
 ## Ayub 21:9
 
 > Rumah mereka aman dan bebas dari ketakutan;
-> tongkat Allah tidak ada pada mereka.
+> tongkat Tuhan tidak ada pada mereka.
 
 ## Ayub 21:10
 
@@ -66,7 +66,7 @@ Ayub menjawab:
 
 ## Ayub 21:14
 
-> Namun mereka berkata kepada Allah, ‘Pergilah dari kami!
+> Namun mereka berkata kepada Tuhan, ‘Pergilah dari kami!
 > Kami tidak ingin mengetahui jalan-Mu.
 
 ## Ayub 21:15
@@ -85,7 +85,7 @@ Ayub menjawab:
 
 > “Seberapa sering pelita orang fasik dipadamkan?
 > Seberapa sering bencana menimpa mereka,
-> yang dibagikan oleh Allah dalam kemarahan-Nya?
+> yang dibagikan oleh Tuhan dalam kemarahan-Nya?
 
 ## Ayub 21:18
 
@@ -94,7 +94,7 @@ Ayub menjawab:
 
 ## Ayub 21:19
 
-> Dikatakan, ‘Allah menyimpan kesalahan seseorang untuk anak-anak mereka.’
+> Dikatakan, ‘Tuhan menyimpan kesalahan seseorang untuk anak-anak mereka.’
 > Biarlah Dia membalas mereka agar mereka mengetahuinya sendiri.
 
 ## Ayub 21:20
@@ -111,7 +111,7 @@ Ayub menjawab:
 
 ## Ayub 21:22
 
-> Dapatkah seseorang memberikan pengetahuan kepada Allah,
+> Dapatkah seseorang memberikan pengetahuan kepada Tuhan,
 > karena Dia menghakimi bahkan yang tertinggi?
 
 ## Ayub 21:23

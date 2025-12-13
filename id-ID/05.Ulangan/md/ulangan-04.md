@@ -2,23 +2,23 @@
 
 ## Ulangan 4:1
 
-Sekarang, hai Israel, dengarkanlah ketetapan dan peraturan yang kuajarkan kepadamu untuk dilakukan, supaya kamu hidup dan masuk serta menduduki negeri yang diberikan kepadamu oleh Tuhan, Allah nenek moyangmu.
+Sekarang, hai Israel, dengarkanlah ketetapan dan peraturan yang kuajarkan kepadamu untuk dilakukan, supaya kamu hidup dan masuk serta menduduki negeri yang diberikan kepadamu oleh Tuhan, Tuhan nenek moyangmu.
 
 ## Ulangan 4:2
 
-Janganlah kamu menambah kepada perkataan yang kuperintahkan kepadamu dan janganlah kamu menguranginya, supaya kamu memelihara perintah Tuhan, Allahmu, yang kusampaikan kepadamu.
+Janganlah kamu menambah kepada perkataan yang kuperintahkan kepadamu dan janganlah kamu menguranginya, supaya kamu memelihara perintah Tuhan, Tuhanmu, yang kusampaikan kepadamu.
 
 ## Ulangan 4:3
 
-Matamu sendiri telah melihat apa yang dilakukan Tuhan terhadap Baal Peor, sebab Tuhan, Allahmu, telah memusnahkan dari tengah-tengahmu semua orang yang mengikuti Baal Peor.
+Matamu sendiri telah melihat apa yang dilakukan Tuhan terhadap Baal Peor, sebab Tuhan, Tuhanmu, telah memusnahkan dari tengah-tengahmu semua orang yang mengikuti Baal Peor.
 
 ## Ulangan 4:4
 
-Tetapi kamu sekalian yang berpaut pada Tuhan, Allahmu, masih hidup pada hari ini.
+Tetapi kamu sekalian yang berpaut pada Tuhan, Tuhanmu, masih hidup pada hari ini.
 
 ## Ulangan 4:5
 
-Ingatlah, aku telah mengajarkan kepadamu ketetapan dan peraturan seperti yang diperintahkan kepadaku oleh Tuhan, Allahku, supaya kamu melakukannya di negeri yang kamu masuki untuk mendudukinya.
+Ingatlah, aku telah mengajarkan kepadamu ketetapan dan peraturan seperti yang diperintahkan kepadaku oleh Tuhan, Tuhanku, supaya kamu melakukannya di negeri yang kamu masuki untuk mendudukinya.
 
 ## Ulangan 4:6
 
@@ -26,7 +26,7 @@ Lakukanlah itu dengan setia, sebab itulah kebijaksanaan dan pengertianmu di mata
 
 ## Ulangan 4:7
 
-Bangsa besar manakah yang mempunyai allah yang begitu dekat kepadanya seperti Tuhan, Allah kita, setiap kali kita berseru kepada-Nya?
+Bangsa besar manakah yang mempunyai Tuhan yang begitu dekat kepadanya seperti Tuhan, Tuhan kita, setiap kali kita berseru kepada-Nya?
 
 ## Ulangan 4:8
 
@@ -38,7 +38,7 @@ Hanya berjaga-jagalah dan berhati-hatilah, supaya jangan kamu melupakan hal-hal 
 
 ## Ulangan 4:10
 
-Ingatlah hari ketika engkau berdiri di hadapan Tuhan, Allahmu, di Horeb, ketika Tuhan berkata kepadaku, “Kumpulkanlah bangsa itu di hadapan-Ku, supaya mereka mendengar perkataan-Ku dan belajar untuk takut akan Aku selama mereka hidup di bumi dan mengajarkannya kepada anak-anak mereka.”
+Ingatlah hari ketika engkau berdiri di hadapan Tuhan, Tuhanmu, di Horeb, ketika Tuhan berkata kepadaku, “Kumpulkanlah bangsa itu di hadapan-Ku, supaya mereka mendengar perkataan-Ku dan belajar untuk takut akan Aku selama mereka hidup di bumi dan mengajarkannya kepada anak-anak mereka.”
 
 ## Ulangan 4:11
 
@@ -74,7 +74,7 @@ atau yang berupa binatang melata di tanah atau ikan yang ada di dalam air di baw
 
 ## Ulangan 4:19
 
-Dan apabila engkau menengadah ke langit dan melihat matahari, bulan, dan bintang-bintang—seluruh tentara langit—janganlah engkau tergoda untuk sujud menyembah dan beribadah kepada mereka, sebab Tuhan, Allahmu, telah menyediakannya untuk semua bangsa di bawah langit.
+Dan apabila engkau menengadah ke langit dan melihat matahari, bulan, dan bintang-bintang—seluruh tentara langit—janganlah engkau tergoda untuk sujud menyembah dan beribadah kepada mereka, sebab Tuhan, Tuhanmu, telah menyediakannya untuk semua bangsa di bawah langit.
 
 ## Ulangan 4:20
 
@@ -82,7 +82,7 @@ Tetapi kamu, Tuhan telah mengambil dan membawa keluar dari dapur peleburan besi,
 
 ## Ulangan 4:21
 
-Tuhan murka terhadap aku karena kamu, dan Ia bersumpah bahwa aku tidak akan menyeberangi Yordan dan tidak akan masuk ke negeri yang baik yang diberikan Tuhan, Allahmu, kepadamu sebagai milik pusaka.
+Tuhan murka terhadap aku karena kamu, dan Ia bersumpah bahwa aku tidak akan menyeberangi Yordan dan tidak akan masuk ke negeri yang baik yang diberikan Tuhan, Tuhanmu, kepadamu sebagai milik pusaka.
 
 ## Ulangan 4:22
 
@@ -90,15 +90,15 @@ Aku akan mati di negeri ini; aku tidak akan menyeberangi Yordan; tetapi kamu aka
 
 ## Ulangan 4:23
 
-Berhati-hatilah supaya jangan kamu melupakan perjanjian Tuhan, Allahmu, yang diadakan-Nya dengan kamu, dan janganlah kamu membuat bagimu patung yang menyerupai apa pun yang dilarang Tuhan, Allahmu.
+Berhati-hatilah supaya jangan kamu melupakan perjanjian Tuhan, Tuhanmu, yang diadakan-Nya dengan kamu, dan janganlah kamu membuat bagimu patung yang menyerupai apa pun yang dilarang Tuhan, Tuhanmu.
 
 ## Ulangan 4:24
 
-Sebab Tuhan, Allahmu, adalah api yang menghanguskan, Allah yang cemburu.
+Sebab Tuhan, Tuhanmu, adalah api yang menghanguskan, Tuhan yang cemburu.
 
 ## Ulangan 4:25
 
-Apabila kamu mendapat anak cucu dan kamu sudah lama tinggal di negeri itu, lalu kamu berlaku busuk dan membuat patung yang menyerupai apa pun, dan melakukan apa yang jahat di mata Tuhan, Allahmu, sehingga membangkitkan murka-Nya,
+Apabila kamu mendapat anak cucu dan kamu sudah lama tinggal di negeri itu, lalu kamu berlaku busuk dan membuat patung yang menyerupai apa pun, dan melakukan apa yang jahat di mata Tuhan, Tuhanmu, sehingga membangkitkan murka-Nya,
 
 ## Ulangan 4:26
 
@@ -110,35 +110,35 @@ Tuhan akan menyerakkan kamu di antara bangsa-bangsa, dan hanya sedikit dari kamu
 
 ## Ulangan 4:28
 
-Di sana kamu akan beribadah kepada allah-allah buatan tangan manusia, dari kayu dan batu, yang tidak dapat melihat atau mendengar atau makan atau mencium.
+Di sana kamu akan beribadah kepada Tuhan-Tuhan buatan tangan manusia, dari kayu dan batu, yang tidak dapat melihat atau mendengar atau makan atau mencium.
 
 ## Ulangan 4:29
 
-Tetapi jika dari sana kamu mencari Tuhan, Allahmu, maka kamu akan mendapat Dia, jika kamu mencari-Nya dengan segenap hatimu dan dengan segenap jiwamu.
+Tetapi jika dari sana kamu mencari Tuhan, Tuhanmu, maka kamu akan mendapat Dia, jika kamu mencari-Nya dengan segenap hatimu dan dengan segenap jiwamu.
 
 ## Ulangan 4:30
 
-Apabila engkau dalam kesesakan dan segala hal ini menimpa engkau, maka di kemudian hari engkau akan kembali kepada Tuhan, Allahmu, dan mendengarkan suara-Nya.
+Apabila engkau dalam kesesakan dan segala hal ini menimpa engkau, maka di kemudian hari engkau akan kembali kepada Tuhan, Tuhanmu, dan mendengarkan suara-Nya.
 
 ## Ulangan 4:31
 
-Sebab Tuhan, Allahmu, adalah Allah yang pengasih; Ia tidak akan meninggalkan engkau atau membinasakan engkau atau melupakan perjanjian dengan nenek moyangmu, yang diikrarkan-Nya kepada mereka dengan sumpah.
+Sebab Tuhan, Tuhanmu, adalah Tuhan yang pengasih; Ia tidak akan meninggalkan engkau atau membinasakan engkau atau melupakan perjanjian dengan nenek moyangmu, yang diikrarkan-Nya kepada mereka dengan sumpah.
 
 ## Ulangan 4:32
 
-Tanyakanlah sekarang tentang hari-hari yang dahulu, sebelum engkau ada, sejak hari Allah menciptakan manusia di muka bumi; tanyakanlah dari ujung langit ke ujung langit. Pernahkah terjadi sesuatu yang sebesar ini, atau pernahkah terdengar sesuatu seperti ini?
+Tanyakanlah sekarang tentang hari-hari yang dahulu, sebelum engkau ada, sejak hari Tuhan menciptakan manusia di muka bumi; tanyakanlah dari ujung langit ke ujung langit. Pernahkah terjadi sesuatu yang sebesar ini, atau pernahkah terdengar sesuatu seperti ini?
 
 ## Ulangan 4:33
 
-Pernahkah suatu bangsa mendengar suara Allah yang berfirman dari tengah-tengah api, seperti engkau mendengarnya, dan tetap hidup?
+Pernahkah suatu bangsa mendengar suara Tuhan yang berfirman dari tengah-tengah api, seperti engkau mendengarnya, dan tetap hidup?
 
 ## Ulangan 4:34
 
-Pernahkah ada allah yang berusaha mengambil bagi dirinya satu bangsa dari tengah-tengah bangsa lain, dengan cobaan, dengan tanda-tanda dan mujizat-mujizat, dengan peperangan, dengan tangan yang kuat dan lengan yang teracung, atau dengan perbuatan-perbuatan yang hebat dan dahsyat, seperti semua yang dilakukan Tuhan, Allahmu, bagimu di Mesir di depan matamu?
+Pernahkah ada Tuhan yang berusaha mengambil bagi dirinya satu bangsa dari tengah-tengah bangsa lain, dengan cobaan, dengan tanda-tanda dan mujizat-mujizat, dengan peperangan, dengan tangan yang kuat dan lengan yang teracung, atau dengan perbuatan-perbuatan yang hebat dan dahsyat, seperti semua yang dilakukan Tuhan, Tuhanmu, bagimu di Mesir di depan matamu?
 
 ## Ulangan 4:35
 
-Kamu telah diperlihatkan semuanya itu supaya kamu tahu bahwa Tuhanlah Allah; tidak ada yang lain selain Dia.
+Kamu telah diperlihatkan semuanya itu supaya kamu tahu bahwa Tuhanlah Tuhan; tidak ada yang lain selain Dia.
 
 ## Ulangan 4:36
 
@@ -154,11 +154,11 @@ untuk mengusir dari hadapanmu bangsa-bangsa yang lebih besar dan lebih kuat dari
 
 ## Ulangan 4:39
 
-Sebab itu ketahuilah pada hari ini dan camkanlah bahwa Tuhanlah Allah di langit di atas dan di bumi di bawah; tidak ada yang lain.
+Sebab itu ketahuilah pada hari ini dan camkanlah bahwa Tuhanlah Tuhan di langit di atas dan di bumi di bawah; tidak ada yang lain.
 
 ## Ulangan 4:40
 
-Berpeganglah pada ketetapan dan perintah-Nya, yang kusampaikan kepadamu pada hari ini, supaya baik keadaanmu dan anak-anakmu sesudah engkau, dan supaya engkau lanjut umurmu di tanah yang diberikan Tuhan, Allahmu, kepadamu untuk selama-lamanya.
+Berpeganglah pada ketetapan dan perintah-Nya, yang kusampaikan kepadamu pada hari ini, supaya baik keadaanmu dan anak-anakmu sesudah engkau, dan supaya engkau lanjut umurmu di tanah yang diberikan Tuhan, Tuhanmu, kepadamu untuk selama-lamanya.
 
 ## Ulangan 4:41
 

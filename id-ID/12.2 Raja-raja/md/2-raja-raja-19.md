@@ -19,9 +19,9 @@ karena anak-anak sudah sampai pada saat kelahiran, tetapi tidak ada kekuatan unt
 
 ## 2 Raja-raja 19:4
 
-Mungkin Tuhan, Allahmu, akan mendengar semua perkataan Rabshakeh,  
-yang tuannya, raja Asyur, telah mengutus untuk mencemooh Allah yang hidup,  
-dan akan menegur perkataan yang telah didengar oleh Tuhan, Allahmu.  
+Mungkin Tuhan, Tuhanmu, akan mendengar semua perkataan Rabshakeh,  
+yang tuannya, raja Asyur, telah mengutus untuk mencemooh Tuhan yang hidup,  
+dan akan menegur perkataan yang telah didengar oleh Tuhan, Tuhanmu.  
 Karena itu, berdoalah untuk sisa yang masih ada.'"
 
 ## 2 Raja-raja 19:5
@@ -57,7 +57,7 @@ ia kembali mengirim utusan kepada Hizkia, mengatakan,
 ## 2 Raja-raja 19:10
 
 "Katakan ini kepada Hizkia, raja Yehuda:  
-'Jangan biarkan Allahmu yang kamu percayai menipumu, dengan mengatakan,  
+'Jangan biarkan Tuhanmu yang kamu percayai menipumu, dengan mengatakan,  
 "Yerusalem tidak akan diserahkan kepada raja Asyur."
 
 ## 2 Raja-raja 19:11
@@ -85,15 +85,15 @@ dan naik ke rumah Tuhan, membentangkannya di hadapan Tuhan.
 ## 2 Raja-raja 19:15
 
 Dan Hizkia berdoa di hadapan Tuhan dan berkata,  
-"Tuhan, Allah Israel, yang bertakhta di atas kerubim,  
-Engkau adalah Allah, Engkau sendiri, dari semua kerajaan di bumi.  
+"Tuhan, Tuhan Israel, yang bertakhta di atas kerubim,  
+Engkau adalah Tuhan, Engkau sendiri, dari semua kerajaan di bumi.  
 Engkau yang membuat langit dan bumi.
 
 ## 2 Raja-raja 19:16
 
 Condongkan telinga-Mu, Tuhan, dan dengarlah;  
 bukalah mata-Mu, Tuhan, dan lihatlah;  
-dan dengarlah perkataan Sanherib, yang telah dikirimnya untuk mencemooh Allah yang hidup.
+dan dengarlah perkataan Sanherib, yang telah dikirimnya untuk mencemooh Tuhan yang hidup.
 
 ## 2 Raja-raja 19:17
 
@@ -107,15 +107,15 @@ Jadi mereka telah menghancurkannya.
 
 ## 2 Raja-raja 19:19
 
-Tetapi sekarang, Tuhan Allah kami, kami memohon kepada-Mu untuk menyelamatkan kami dari tangannya,  
-agar semua kerajaan di bumi tahu bahwa Engkau sendiri, Tuhan, adalah Allah."
+Tetapi sekarang, Tuhan Tuhan kami, kami memohon kepada-Mu untuk menyelamatkan kami dari tangannya,  
+agar semua kerajaan di bumi tahu bahwa Engkau sendiri, Tuhan, adalah Tuhan."
 
 ---
 
 ## 2 Raja-raja 19:20
 
 Kemudian Yesaya anak Amos mengirim pesan kepada Hizkia, mengatakan,  
-"Inilah yang dikatakan Tuhan, Allah Israel:  
+"Inilah yang dikatakan Tuhan, Tuhan Israel:  
 'Karena engkau telah berdoa kepada-Ku mengenai Sanherib, raja Asyur, Aku telah mendengarmu.'
 
 ## 2 Raja-raja 19:21

@@ -10,14 +10,14 @@
 ## Mazmur 84:2
 
 > Jiwaku merindukan, bahkan merindukan pelataran Tuhan;  
-> Hatiku dan dagingku bersorak kepada Allah yang hidup.
+> Hatiku dan dagingku bersorak kepada Tuhan yang hidup.
 
 ## Mazmur 84:3
 
 > Burung juga menemukan rumah,  
 > Dan burung layang-layang sarang untuk dirinya, tempat ia meletakkan anak-anaknya:  
 > Mezbah-Mu, Tuhan semesta alam,  
-> Rajaku dan Allahku.
+> Rajaku dan Tuhanku.
 
 ## Mazmur 84:4
 
@@ -41,20 +41,20 @@
 ## Mazmur 84:7
 
 > Mereka maju dari kekuatan ke kekuatan,  
-> Masing-masing muncul di hadapan Allah di Sion.
+> Masing-masing muncul di hadapan Tuhan di Sion.
 
 ---
 
 ## Mazmur 84:8
 
-> Tuhan Allah semesta alam, dengarkanlah doaku;  
-> Perhatikanlah, Allah Yakub!
+> Tuhan Tuhan semesta alam, dengarkanlah doaku;  
+> Perhatikanlah, Tuhan Yakub!
 
 > Sela
 
 ## Mazmur 84:9
 
-> Lihatlah perisai kami, ya Allah,  
+> Lihatlah perisai kami, ya Tuhan,  
 > Dan pandanglah wajah orang yang Kauurapi.
 
 ---
@@ -62,12 +62,12 @@
 ## Mazmur 84:10
 
 > Sebab satu hari di pelataran-Mu lebih diinginkan daripada seribu hari di tempat lain.  
-> Aku lebih suka berdiri di ambang pintu rumah Allahku  
+> Aku lebih suka berdiri di ambang pintu rumah Tuhanku  
 > Daripada tinggal di tenda-tenda kefasikan.
 
 ## Mazmur 84:11
 
-> Sebab Tuhan Allah adalah matahari dan perisai;  
+> Sebab Tuhan Tuhan adalah matahari dan perisai;  
 > Tuhan menganugerahkan kasih karunia dan kehormatan;  
 > Ia tidak menahan kebaikan apapun dari mereka yang berjalan dengan integritas.
 

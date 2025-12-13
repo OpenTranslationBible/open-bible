@@ -18,7 +18,7 @@ karena senjata yang kita gunakan dalam peperangan kita bukan dari dunia ini, mel
 
 ## 2 Korintus 10:5
 
-Kita meruntuhkan argumen dan setiap kesombongan yang menentang pengetahuan tentang Allah, dan kita menawan setiap pikiran untuk membuatnya taat kepada Kristus,
+Kita meruntuhkan argumen dan setiap kesombongan yang menentang pengetahuan tentang Tuhan, dan kita menawan setiap pikiran untuk membuatnya taat kepada Kristus,
 
 ## 2 Korintus 10:6
 

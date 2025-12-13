@@ -8,7 +8,7 @@ dan Tuhan telah memberinya kedamaian dari semua musuhnya di sekelilingnya,
 ## 2 Samuel 7:2
 
 raja berkata kepada Nabi Natan,  
-“Lihatlah sekarang, aku tinggal di rumah dari kayu aras, tetapi tabut Allah tinggal di dalam tenda.”
+“Lihatlah sekarang, aku tinggal di rumah dari kayu aras, tetapi tabut Tuhan tinggal di dalam tenda.”
 
 ## 2 Samuel 7:3
 
@@ -101,18 +101,18 @@ Natan menyampaikan semua kata-kata ini dan penglihatan ini kepada Daud.
 ## 2 Samuel 7:18
 
 Kemudian Raja Daud masuk dan duduk di hadapan Tuhan, dan dia berkata,  
-“Siapakah aku, Tuhan Allah, dan apakah rumahku, sehingga Engkau telah membawaku sejauh ini?
+“Siapakah aku, Tuhan Tuhan, dan apakah rumahku, sehingga Engkau telah membawaku sejauh ini?
 
 ## 2 Samuel 7:19
 
-Namun ini adalah hal kecil di mata-Mu, Tuhan Allah,  
+Namun ini adalah hal kecil di mata-Mu, Tuhan Tuhan,  
 karena Engkau juga telah berbicara tentang rumah hamba-Mu mengenai masa depan yang jauh.  
-Dan ini adalah kebiasaan umat manusia, Tuhan Allah.
+Dan ini adalah kebiasaan umat manusia, Tuhan Tuhan.
 
 ## 2 Samuel 7:20
 
 Selain itu, apa lagi yang dapat Daud katakan kepada-Mu?  
-Karena Engkau mengenal hamba-Mu, Tuhan Allah!
+Karena Engkau mengenal hamba-Mu, Tuhan Tuhan!
 
 ## 2 Samuel 7:21
 
@@ -121,14 +121,14 @@ Engkau telah melakukan semua kebesaran ini, untuk memberi pengertian kepada hamb
 
 ## 2 Samuel 7:22
 
-Oleh karena itu, Engkau besar, Tuhan Allah;  
-karena tidak ada yang seperti Engkau, dan tidak ada Allah selain Engkau,  
+Oleh karena itu, Engkau besar, Tuhan Tuhan;  
+karena tidak ada yang seperti Engkau, dan tidak ada Tuhan selain Engkau,  
 menurut semua yang telah kami dengar dengan telinga kami.
 
 ## 2 Samuel 7:23
 
 Dan siapakah seperti umat-Mu, Israel,  
-satu bangsa di bumi yang Allah pergi untuk menebus bagi diri-Nya sebagai umat,  
+satu bangsa di bumi yang Tuhan pergi untuk menebus bagi diri-Nya sebagai umat,  
 dan untuk membuat nama bagi diri-Nya,  
 dan untuk melakukan hal yang besar bagi-Mu—hal-hal yang mengagumkan bagi tanah-Mu,  
 karena umat-Mu yang telah Engkau tebus bagi diri-Mu dari Mesir, dari bangsa-bangsa lain dan dewa-dewa mereka?
@@ -136,30 +136,30 @@ karena umat-Mu yang telah Engkau tebus bagi diri-Mu dari Mesir, dari bangsa-bang
 ## 2 Samuel 7:24
 
 Karena Engkau telah menetapkan umat-Mu Israel sebagai umat-Mu sendiri selamanya,  
-dan Engkau, Tuhan, telah menjadi Allah mereka.
+dan Engkau, Tuhan, telah menjadi Tuhan mereka.
 
 ---
 
 ## 2 Samuel 7:25
 
-Sekarang Tuhan Allah, firman yang telah Engkau ucapkan tentang hamba-Mu dan rumahnya,  
+Sekarang Tuhan Tuhan, firman yang telah Engkau ucapkan tentang hamba-Mu dan rumahnya,  
 teguhkanlah itu selamanya, dan lakukanlah seperti yang telah Engkau ucapkan,
 
 ## 2 Samuel 7:26
 
 agar nama-Mu menjadi besar selamanya,  
-dengan menyatakan, ‘Tuhan semesta alam adalah Allah atas Israel’;  
+dengan menyatakan, ‘Tuhan semesta alam adalah Tuhan atas Israel’;  
 dan semoga rumah hamba-Mu Daud ditegakkan di hadapan-Mu.
 
 ## 2 Samuel 7:27
 
-Karena Engkau, Tuhan semesta alam, Allah Israel, telah menyatakan kepada hamba-Mu, dengan mengatakan,  
+Karena Engkau, Tuhan semesta alam, Tuhan Israel, telah menyatakan kepada hamba-Mu, dengan mengatakan,  
 ‘Aku akan membangun rumah bagimu’;  
 oleh karena itu hamba-Mu telah menemukan keberanian untuk berdoa doa ini kepada-Mu.
 
 ## 2 Samuel 7:28
 
-Sekarang, Tuhan Allah, Engkau adalah Allah,  
+Sekarang, Tuhan Tuhan, Engkau adalah Tuhan,  
 dan firman-Mu adalah kebenaran,  
 dan Engkau telah menjanjikan hal baik ini kepada hamba-Mu.
 
@@ -167,5 +167,5 @@ dan Engkau telah menjanjikan hal baik ini kepada hamba-Mu.
 
 Dan sekarang, semoga Engkau berkenan memberkati rumah hamba-Mu,  
 agar itu dapat bertahan selamanya di hadapan-Mu.  
-Karena Engkau, Tuhan Allah, telah berfirman;  
+Karena Engkau, Tuhan Tuhan, telah berfirman;  
 dan dengan berkat-Mu semoga rumah hamba-Mu diberkati untuk selama-lamanya.”

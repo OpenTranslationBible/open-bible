@@ -46,7 +46,7 @@ Tuhan berbicara kepada Musa, dengan mengatakan,
 
 ## Keluaran 16:12
 
-“Aku telah mendengar keluhan orang Israel. Katakan kepada mereka, ‘Pada waktu senja kamu akan makan daging, dan pada waktu pagi kamu akan kenyang dengan roti. Kemudian kamu akan tahu bahwa Akulah Tuhan, Allahmu.’”
+“Aku telah mendengar keluhan orang Israel. Katakan kepada mereka, ‘Pada waktu senja kamu akan makan daging, dan pada waktu pagi kamu akan kenyang dengan roti. Kemudian kamu akan tahu bahwa Akulah Tuhan, Tuhanmu.’”
 
 ## Keluaran 16:13
 

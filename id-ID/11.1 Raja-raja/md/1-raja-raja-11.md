@@ -21,7 +21,7 @@ dan istrinya mempengaruhi hatinya.
 
 Karena ketika Salomo sudah tua,  
 istrinya menyesatkan hatinya mengikuti dewa-dewa lain;  
-dan hatinya tidak sepenuhnya setia kepada Tuhan, Allahnya,  
+dan hatinya tidak sepenuhnya setia kepada Tuhan, Tuhannya,  
 seperti hati ayahnya Daud.
 
 ## 1 Raja-Raja 11:5
@@ -51,7 +51,7 @@ yang membakar dupa dan mempersembahkan korban kepada dewa-dewa mereka.
 ## 1 Raja-Raja 11:9
 
 Maka Tuhan tidak senang dengan Salomo  
-karena hatinya telah berpaling dari Tuhan, Allah Israel,  
+karena hatinya telah berpaling dari Tuhan, Tuhan Israel,  
 yang telah menampakkan diri kepadanya dua kali,
 
 ## 1 Raja-Raja 11:10
@@ -136,7 +136,7 @@ Dan ia berkata, “Tidak ada; namun demikian, kamu harus membiarkan aku pergi.�
 
 ## 1 Raja-Raja 11:23
 
-Allah juga membangkitkan lawan lain baginya,  
+Tuhan juga membangkitkan lawan lain baginya,  
 Rezon anak Eliada, yang telah melarikan diri dari tuannya Hadadezer raja Zoba.
 
 ## 1 Raja-Raja 11:24
@@ -188,7 +188,7 @@ dan merobeknya menjadi dua belas potong.
 ## 1 Raja-Raja 11:31
 
 Dan ia berkata kepada Yerobeam,  
-“Ambillah sepuluh potong untuk dirimu; karena inilah yang difirmankan Tuhan, Allah Israel:  
+“Ambillah sepuluh potong untuk dirimu; karena inilah yang difirmankan Tuhan, Tuhan Israel:  
 ‘Lihatlah, Aku akan merobek kerajaan dari tangan Salomo  
 dan memberikannya kepadamu sepuluh suku.
 

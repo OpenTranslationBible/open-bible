@@ -2,11 +2,11 @@
 
 ## Ezra 5:1
 
-Pada waktu itu, nabi-nabi Hagai dan Zakharia, anak Ido, bernubuat kepada orang Yahudi di Yehuda dan Yerusalem, berbicara dalam nama Allah Israel, yang menguasai mereka.
+Pada waktu itu, nabi-nabi Hagai dan Zakharia, anak Ido, bernubuat kepada orang Yahudi di Yehuda dan Yerusalem, berbicara dalam nama Tuhan Israel, yang menguasai mereka.
 
 ## Ezra 5:2
 
-Zerubabel, anak Sealtiel, dan Yesua, anak Yozadak, bangkit dan memulai pembangunan kembali rumah Allah di Yerusalem; dan nabi-nabi Allah bersama mereka, memberikan dukungan.
+Zerubabel, anak Sealtiel, dan Yesua, anak Yozadak, bangkit dan memulai pembangunan kembali rumah Tuhan di Yerusalem; dan nabi-nabi Tuhan bersama mereka, memberikan dukungan.
 
 ---
 
@@ -20,7 +20,7 @@ Mereka juga menanyakan nama-nama orang yang terlibat dalam pembangunan bangunan 
 
 ## Ezra 5:5
 
-Namun, mata Allah mereka ada atas para tua-tua orang Yahudi, dan mereka tidak dihalangi sampai perkara itu dapat dilaporkan kepada Darius dan jawaban diterima.
+Namun, mata Tuhan mereka ada atas para tua-tua orang Yahudi, dan mereka tidak dihalangi sampai perkara itu dapat dilaporkan kepada Darius dan jawaban diterima.
 
 ## Ezra 5:6
 
@@ -35,7 +35,7 @@ Salam damai.
 
 ## Ezra 5:8
 
-Kami ingin memberitahukan kepada raja bahwa kami mengunjungi provinsi Yehuda, ke bait Allah yang besar. Bangunan itu sedang dibangun dengan batu-batu besar, dan kayu sedang dipasang di dinding-dindingnya. Pekerjaan itu berlangsung dengan tekun dan maju dengan sukses di bawah pengawasan mereka.
+Kami ingin memberitahukan kepada raja bahwa kami mengunjungi provinsi Yehuda, ke bait Tuhan yang besar. Bangunan itu sedang dibangun dengan batu-batu besar, dan kayu sedang dipasang di dinding-dindingnya. Pekerjaan itu berlangsung dengan tekun dan maju dengan sukses di bawah pengawasan mereka.
 
 ---
 
@@ -49,28 +49,28 @@ Kami juga meminta nama-nama mereka untuk memberitahukan kepada Anda, sehingga ka
 
 ## Ezra 5:11
 
-Jawaban mereka kepada kami adalah: ‘Kami adalah hamba-hamba Allah langit dan bumi, dan kami sedang membangun kembali bait yang dibangun bertahun-tahun yang lalu, yang dibangun dan diselesaikan oleh seorang raja besar Israel.
+Jawaban mereka kepada kami adalah: ‘Kami adalah hamba-hamba Tuhan langit dan bumi, dan kami sedang membangun kembali bait yang dibangun bertahun-tahun yang lalu, yang dibangun dan diselesaikan oleh seorang raja besar Israel.
 
 ## Ezra 5:12
 
-Tetapi karena nenek moyang kami membuat murka Allah langit, Dia menyerahkan mereka ke tangan Nebukadnezar, raja Kasdim dari Babel, yang menghancurkan bait ini dan mengasingkan orang-orang ke Babel.
+Tetapi karena nenek moyang kami membuat murka Tuhan langit, Dia menyerahkan mereka ke tangan Nebukadnezar, raja Kasdim dari Babel, yang menghancurkan bait ini dan mengasingkan orang-orang ke Babel.
 
 ## Ezra 5:13
 
-Namun, pada tahun pertama Koresy, raja Babel, Raja Koresy mengeluarkan dekrit untuk membangun kembali rumah Allah ini.
+Namun, pada tahun pertama Koresy, raja Babel, Raja Koresy mengeluarkan dekrit untuk membangun kembali rumah Tuhan ini.
 
 ## Ezra 5:14
 
-Selain itu, barang-barang emas dan perak dari rumah Allah, yang diambil Nebukadnezar dari bait di Yerusalem dan dibawa ke bait di Babel, Raja Koresy mengambil kembali dari bait di Babel dan mempercayakannya kepada seorang bernama Sesbazar, yang diangkatnya sebagai gubernur.
+Selain itu, barang-barang emas dan perak dari rumah Tuhan, yang diambil Nebukadnezar dari bait di Yerusalem dan dibawa ke bait di Babel, Raja Koresy mengambil kembali dari bait di Babel dan mempercayakannya kepada seorang bernama Sesbazar, yang diangkatnya sebagai gubernur.
 
 ## Ezra 5:15
 
-Ia memerintahkannya, “Bawalah barang-barang ini dan letakkan di bait di Yerusalem, dan biarkan rumah Allah dibangun kembali di tempat asalnya.”
+Ia memerintahkannya, “Bawalah barang-barang ini dan letakkan di bait di Yerusalem, dan biarkan rumah Tuhan dibangun kembali di tempat asalnya.”
 
 ## Ezra 5:16
 
-Demikianlah Sesbazar datang dan meletakkan dasar-dasar rumah Allah di Yerusalem; dan sejak waktu itu hingga sekarang, bangunan ini sedang dibangun, meskipun belum selesai.’
+Demikianlah Sesbazar datang dan meletakkan dasar-dasar rumah Tuhan di Yerusalem; dan sejak waktu itu hingga sekarang, bangunan ini sedang dibangun, meskipun belum selesai.’
 
 ## Ezra 5:17
 
-Oleh karena itu, jika berkenan kepada raja, biarlah pencarian dilakukan di arsip kerajaan di Babel untuk menentukan apakah benar ada dekrit yang dikeluarkan oleh Raja Koresy untuk membangun kembali rumah Allah ini di Yerusalem; dan biarlah raja mengirimkan keputusan kepada kami mengenai perkara ini.”
+Oleh karena itu, jika berkenan kepada raja, biarlah pencarian dilakukan di arsip kerajaan di Babel untuk menentukan apakah benar ada dekrit yang dikeluarkan oleh Raja Koresy untuk membangun kembali rumah Tuhan ini di Yerusalem; dan biarlah raja mengirimkan keputusan kepada kami mengenai perkara ini.”

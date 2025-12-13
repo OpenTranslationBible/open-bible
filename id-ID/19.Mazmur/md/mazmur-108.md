@@ -4,7 +4,7 @@
 
 ## Mazmur 108:1
 
-> Hatiku teguh, ya Allah;  
+> Hatiku teguh, ya Tuhan;  
 > aku akan bernyanyi, aku akan memuji dengan jiwaku.
 
 ## Mazmur 108:2
@@ -24,7 +24,7 @@
 
 ## Mazmur 108:5
 
-> Tinggikanlah diri-Mu mengatasi langit, ya Allah,  
+> Tinggikanlah diri-Mu mengatasi langit, ya Tuhan,  
 > dan biarlah kemuliaan-Mu mengatasi seluruh bumi.
 
 ---
@@ -36,7 +36,7 @@
 
 ## Mazmur 108:7
 
-> Allah telah berfirman dalam kekudusan-Nya: “Aku akan beria-ria,  
+> Tuhan telah berfirman dalam kekudusan-Nya: “Aku akan beria-ria,  
 > Aku akan membagi-bagikan Sikhem, dan mengukur Lembah Sukot.
 
 ## Mazmur 108:8
@@ -60,7 +60,7 @@
 
 ## Mazmur 108:11
 
-> Bukankah Engkau sendiri yang telah menolak kami, ya Allah?  
+> Bukankah Engkau sendiri yang telah menolak kami, ya Tuhan?  
 > Dan tidakkah Engkau akan keluar bersama bala tentara kami?
 
 ## Mazmur 108:12
@@ -70,5 +70,5 @@
 
 ## Mazmur 108:13
 
-> Dengan Allah kita akan melakukan perbuatan-perbuatan besar,  
+> Dengan Tuhan kita akan melakukan perbuatan-perbuatan besar,  
 > dan Dia yang akan mengalahkan musuh-musuh kita.

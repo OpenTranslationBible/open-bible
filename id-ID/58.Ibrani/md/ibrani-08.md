@@ -52,7 +52,7 @@ Karena menemukan kesalahan pada orang-orang itu, dia berkata:
 > setelah hari-hari itu, firman Tuhan:
 > Aku akan menaruh hukum-Ku dalam pikiran mereka
 > dan menuliskannya pada hati mereka.
-> Aku akan menjadi Allah mereka,
+> Aku akan menjadi Tuhan mereka,
 > dan mereka akan menjadi umat-Ku.
 
 ## Ibrani 8:11

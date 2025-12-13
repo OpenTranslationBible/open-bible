@@ -50,7 +50,7 @@ Kemudian orang Israel melakukan kejahatan di mata Tuhan dan melayani para Baal.
 
 ## Hakim-Hakim 2:12
 
-Mereka meninggalkan Tuhan, Allah nenek moyang mereka, yang telah membawa mereka keluar dari Mesir. Mereka mengikuti dan menyembah berbagai dewa dari bangsa-bangsa di sekitar mereka, memancing kemarahan Tuhan.
+Mereka meninggalkan Tuhan, Tuhan nenek moyang mereka, yang telah membawa mereka keluar dari Mesir. Mereka mengikuti dan menyembah berbagai dewa dari bangsa-bangsa di sekitar mereka, memancing kemarahan Tuhan.
 
 ## Hakim-Hakim 2:13
 

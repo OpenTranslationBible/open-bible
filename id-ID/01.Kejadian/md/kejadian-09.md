@@ -2,7 +2,7 @@
 
 ## Kejadian 9:1
 
-Allah memberkati Nuh dan anak-anaknya, dengan berfirman kepada mereka, "Beranak cuculah dan bertambah banyaklah serta penuhilah bumi.
+Tuhan memberkati Nuh dan anak-anaknya, dengan berfirman kepada mereka, "Beranak cuculah dan bertambah banyaklah serta penuhilah bumi.
 
 ## Kejadian 9:2
 
@@ -22,7 +22,7 @@ Dan untuk darahmu, Aku pasti akan menuntut pertanggungjawaban; dari setiap binat
 
 ## Kejadian 9:6
 
-Siapa yang menumpahkan darah manusia, darahnya akan ditumpahkan oleh manusia; karena dalam gambar Allah, Ia menciptakan manusia.
+Siapa yang menumpahkan darah manusia, darahnya akan ditumpahkan oleh manusia; karena dalam gambar Tuhan, Ia menciptakan manusia.
 
 ## Kejadian 9:7
 
@@ -30,7 +30,7 @@ Adapun kamu, beranak cuculah dan bertambah banyaklah; berkembang biaklah di bumi
 
 ## Kejadian 9:8
 
-Allah berbicara kepada Nuh dan anak-anaknya yang bersamanya, dengan berfirman,
+Tuhan berbicara kepada Nuh dan anak-anaknya yang bersamanya, dengan berfirman,
 
 ## Kejadian 9:9
 
@@ -46,7 +46,7 @@ Aku menetapkan perjanjian-Ku dengan kamu: tidak akan ada lagi semua kehidupan ya
 
 ## Kejadian 9:12
 
-Dan Allah berfirman, "Inilah tanda perjanjian yang Aku buat antara Aku dan kamu dan setiap makhluk hidup yang bersamamu, untuk semua generasi yang akan datang:
+Dan Tuhan berfirman, "Inilah tanda perjanjian yang Aku buat antara Aku dan kamu dan setiap makhluk hidup yang bersamamu, untuk semua generasi yang akan datang:
 
 ## Kejadian 9:13
 
@@ -62,11 +62,11 @@ Aku akan mengingat perjanjian-Ku antara Aku dan kamu dan semua makhluk hidup dar
 
 ## Kejadian 9:16
 
-Ketika pelangi ada di awan, Aku akan melihatnya dan mengingat perjanjian kekal antara Allah dan semua makhluk hidup dari segala jenis di bumi."
+Ketika pelangi ada di awan, Aku akan melihatnya dan mengingat perjanjian kekal antara Tuhan dan semua makhluk hidup dari segala jenis di bumi."
 
 ## Kejadian 9:17
 
-Kemudian Allah berfirman kepada Nuh, "Inilah tanda perjanjian yang telah Aku tetapkan antara Aku dan semua kehidupan di bumi."
+Kemudian Tuhan berfirman kepada Nuh, "Inilah tanda perjanjian yang telah Aku tetapkan antara Aku dan semua kehidupan di bumi."
 
 ## Kejadian 9:18
 
@@ -102,11 +102,11 @@ ia berkata, "Terkutuklah Kanaan! Yang paling hina dari budak akan ia menjadi bag
 
 ## Kejadian 9:26
 
-Ia juga berkata, "Diberkatilah Tuhan, Allah Sem! Semoga Kanaan menjadi budak Sem.
+Ia juga berkata, "Diberkatilah Tuhan, Tuhan Sem! Semoga Kanaan menjadi budak Sem.
 
 ## Kejadian 9:27
 
-Semoga Allah memperluas wilayah Yafet, dan semoga ia tinggal di dalam kemah-kemah Sem; dan semoga Kanaan menjadi hambanya."
+Semoga Tuhan memperluas wilayah Yafet, dan semoga ia tinggal di dalam kemah-kemah Sem; dan semoga Kanaan menjadi hambanya."
 
 ## Kejadian 9:28
 

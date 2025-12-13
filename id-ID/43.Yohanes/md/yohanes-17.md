@@ -10,7 +10,7 @@ Karena Engkau telah memberikan kuasa kepada-Nya atas seluruh umat manusia, agar 
 
 ## Yohanes 17:3
 
-Dan inilah hidup yang kekal: mengenal Engkau, satu-satunya Allah yang benar, dan Yesus Kristus, yang telah Engkau utus.
+Dan inilah hidup yang kekal: mengenal Engkau, satu-satunya Tuhan yang benar, dan Yesus Kristus, yang telah Engkau utus.
 
 ## Yohanes 17:4
 

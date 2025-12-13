@@ -192,7 +192,7 @@ anak-anakmu sampai generasi keempat akan duduk di atas takhta Israel.”
 
 ## 2 Raja-raja 10:31
 
-Tetapi Yehu tidak berhati-hati untuk berjalan dalam Hukum Tuhan, Allah Israel, dengan segenap hatinya;  
+Tetapi Yehu tidak berhati-hati untuk berjalan dalam Hukum Tuhan, Tuhan Israel, dengan segenap hatinya;  
 dia tidak berpaling dari dosa-dosa Yerobeam, yang menyebabkan Israel berdosa.
 
 ---

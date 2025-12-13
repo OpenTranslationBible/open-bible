@@ -9,7 +9,7 @@
 
 ## Mazmur 5:2
 
-> Dengarkanlah permohonanku untuk bantuan, Rajaku dan Allahku,  
+> Dengarkanlah permohonanku untuk bantuan, Rajaku dan Tuhanku,  
 > Karena kepada-Mu aku berdoa.
 
 ---
@@ -21,7 +21,7 @@
 
 ## Mazmur 5:4
 
-> Karena Engkau bukanlah Allah yang berkenan pada kejahatan;  
+> Karena Engkau bukanlah Tuhan yang berkenan pada kejahatan;  
 > Tidak ada kejahatan yang dapat tinggal bersama-Mu.
 
 ## Mazmur 5:5
@@ -55,7 +55,7 @@
 
 ## Mazmur 5:10
 
-> Tuntutlah mereka, ya Allah;  
+> Tuntutlah mereka, ya Tuhan;  
 > Biarkan mereka jatuh oleh rencana mereka sendiri!  
 > Dalam banyaknya pelanggaran mereka, usirlah mereka,  
 > Karena mereka telah memberontak melawan Engkau.

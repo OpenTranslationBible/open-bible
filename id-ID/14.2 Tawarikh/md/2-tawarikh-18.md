@@ -26,7 +26,7 @@ Namun Yosafat berkata kepada raja Israel, “Marilah kita terlebih dahulu mencar
 
 ## 2 Tawarikh 18:5
 
-Maka raja Israel mengumpulkan para nabi, empat ratus orang, dan berkata kepada mereka, “Haruskah kita pergi melawan Ramot-Gilead untuk berperang, atau haruskah aku menahan diri?” Dan mereka berkata, “Pergilah, karena Allah akan menyerahkannya kepada raja.”
+Maka raja Israel mengumpulkan para nabi, empat ratus orang, dan berkata kepada mereka, “Haruskah kita pergi melawan Ramot-Gilead untuk berperang, atau haruskah aku menahan diri?” Dan mereka berkata, “Pergilah, karena Tuhan akan menyerahkannya kepada raja.”
 
 ---
 
@@ -74,7 +74,7 @@ Kemudian utusan yang pergi memanggil Mikha berbicara kepadanya, mengatakan, “L
 
 ## 2 Tawarikh 18:13
 
-Tetapi Mikha berkata, “Demi Tuhan yang hidup, aku akan mengatakan apa pun yang dikatakan Allahku.”
+Tetapi Mikha berkata, “Demi Tuhan yang hidup, aku akan mengatakan apa pun yang dikatakan Tuhanku.”
 
 ---
 
@@ -182,7 +182,7 @@ Sekarang raja Aram telah memerintahkan para panglima keretanya, mengatakan, “J
 
 ## 2 Tawarikh 18:31
 
-Jadi ketika para panglima kereta melihat Yosafat, mereka berkata, “Itu adalah raja Israel!” Dan mereka berbalik untuk melawan dia, tetapi Yosafat berteriak, dan Tuhan menolongnya, dan Allah mengalihkan mereka darinya.
+Jadi ketika para panglima kereta melihat Yosafat, mereka berkata, “Itu adalah raja Israel!” Dan mereka berbalik untuk melawan dia, tetapi Yosafat berteriak, dan Tuhan menolongnya, dan Tuhan mengalihkan mereka darinya.
 
 ---
 

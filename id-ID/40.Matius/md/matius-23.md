@@ -88,7 +88,7 @@ Dan siapa pun yang bersumpah demi bait suci, bersumpah demi bait suci itu dan de
 
 ## Matius 23:22
 
-Dan siapa pun yang bersumpah demi surga, bersumpah demi takhta Allah dan demi Dia yang duduk di atasnya.
+Dan siapa pun yang bersumpah demi surga, bersumpah demi takhta Tuhan dan demi Dia yang duduk di atasnya.
 
 ---
 

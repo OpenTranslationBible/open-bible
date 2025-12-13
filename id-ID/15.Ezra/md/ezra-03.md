@@ -6,7 +6,7 @@ Ketika bulan ketujuh tiba dan orang Israel sudah menetap di kota-kota mereka, or
 
 ## Ezra 3:2
 
-Kemudian Yesua bin Yozadak dan rekan-rekan imamnya, bersama dengan Zerubabel bin Sealtiel dan rekan-rekannya, mulai membangun mezbah Allah Israel untuk mempersembahkan korban bakaran di atasnya, seperti yang tertulis dalam Hukum Musa, abdi Allah.
+Kemudian Yesua bin Yozadak dan rekan-rekan imamnya, bersama dengan Zerubabel bin Sealtiel dan rekan-rekannya, mulai membangun mezbah Tuhan Israel untuk mempersembahkan korban bakaran di atasnya, seperti yang tertulis dalam Hukum Musa, abdi Tuhan.
 
 ## Ezra 3:3
 
@@ -32,11 +32,11 @@ Mereka menyediakan uang kepada tukang batu dan tukang kayu, serta makanan, minum
 
 ## Ezra 3:8
 
-Pada tahun kedua setelah kedatangan mereka di rumah Allah di Yerusalem, pada bulan kedua, Zerubabel bin Sealtiel, Yesua bin Yozadak, dan saudara-saudara mereka yang lain—para imam, orang Lewi, dan semua yang telah kembali dari pembuangan ke Yerusalem—memulai pekerjaan itu. Mereka menunjuk orang Lewi yang berusia dua puluh tahun ke atas untuk mengawasi pembangunan rumah Tuhan.
+Pada tahun kedua setelah kedatangan mereka di rumah Tuhan di Yerusalem, pada bulan kedua, Zerubabel bin Sealtiel, Yesua bin Yozadak, dan saudara-saudara mereka yang lain—para imam, orang Lewi, dan semua yang telah kembali dari pembuangan ke Yerusalem—memulai pekerjaan itu. Mereka menunjuk orang Lewi yang berusia dua puluh tahun ke atas untuk mengawasi pembangunan rumah Tuhan.
 
 ## Ezra 3:9
 
-Yesua dan anak-anaknya serta saudara-saudaranya, bersama dengan Kadmiel dan anak-anaknya, anak-anak Hodawya, dan anak-anak Henadad dengan anak-anak dan saudara-saudara mereka—semua orang Lewi—bergabung untuk mengawasi mereka yang bekerja di rumah Allah.
+Yesua dan anak-anaknya serta saudara-saudaranya, bersama dengan Kadmiel dan anak-anaknya, anak-anak Hodawya, dan anak-anak Henadad dengan anak-anak dan saudara-saudara mereka—semua orang Lewi—bergabung untuk mengawasi mereka yang bekerja di rumah Tuhan.
 
 ---
 

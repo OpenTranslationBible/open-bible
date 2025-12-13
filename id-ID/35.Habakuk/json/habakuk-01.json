@@ -1,149 +1,147 @@
 {
-    "book": "Habakuk",
-    "chapter": 1,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Ucapan ilahi yang dilihat nabi Habakuk."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Berapa lama lagi, ya Tuhan, aku berteriak minta tolong, tetapi Engkau tidak mendengar?",
-                "> Aku berseru kepada-Mu, \"Kekerasan!\" tetapi Engkau tidak menyelamatkan."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Mengapa Engkau membuatku melihat kejahatan,",
-                "> dan mengapa Engkau memandang keburukan dengan diam?",
-                "> Kehancuran dan kekerasan ada di depanku;",
-                "> perselisihan dan pertengkaran muncul."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> Oleh karena itu hukum menjadi tidak efektif,",
-                "> dan keadilan tidak pernah muncul.",
-                "> Orang fasik mengepung orang benar,",
-                "> sehingga keadilan menjadi terdistorsi."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> \"Lihatlah di antara bangsa-bangsa,",
-                "> perhatikan, dan tercenganglah.",
-                "> Karena Aku sedang melakukan pekerjaan pada zamanmu",
-                "> yang tidak akan kamu percayai jika diberitahu."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Karena lihatlah, Aku membangkitkan orang Kasdim,",
-                "> bangsa yang ganas dan cepat marah,",
-                "> yang berjalan melintasi lebar bumi",
-                "> untuk merebut tempat tinggal yang bukan milik mereka."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Mereka menakutkan dan menakutkan;",
-                "> keadilan dan martabat mereka berasal dari diri mereka sendiri."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "> Kuda-kuda mereka lebih cepat daripada macan tutul,",
-                "> lebih ganas daripada serigala malam.",
-                "> Para penunggang kuda mereka maju dengan bangga;",
-                "> para penunggang kuda mereka datang dari jauh.",
-                "> Mereka terbang seperti elang yang bergegas untuk memangsa."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "> Mereka semua datang untuk kekerasan,",
-                "> wajah mereka menghadap ke depan.",
-                "> Mereka mengumpulkan tawanan seperti pasir."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "> Mereka mengejek raja-raja",
-                "> dan menjadikan para pangeran sebagai bahan tertawaan.",
-                "> Mereka menertawakan setiap benteng,",
-                "> karena mereka menumpuk tanah dan merebutnya."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "> Kemudian mereka menyapu seperti angin dan berlalu.",
-                "> Tetapi mereka adalah orang-orang yang bersalah,",
-                "> yang kekuatannya sendiri adalah dewa mereka.\""
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "> Bukankah Engkau dari kekekalan,",
-                "> ya Tuhan, Allahku, Yang Kudus?",
-                "> Engkau tidak akan binasa.",
-                "> Ya Tuhan, Engkau telah menetapkan mereka untuk penghakiman,",
-                "> dan Engkau, ya Gunung Batu, telah menetapkan mereka untuk koreksi."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "> Mata-Mu terlalu suci untuk melihat kejahatan,",
-                "> dan Engkau tidak dapat memandang kesalahan dengan suka.",
-                "> Mengapa Engkau memandang mereka yang berbuat khianat?",
-                "> Mengapa Engkau diam ketika orang fasik menelan",
-                "> mereka yang lebih benar daripada mereka?"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "> Engkau telah membuat umat manusia seperti ikan di laut,",
-                "> seperti makhluk yang merayap yang tidak memiliki penguasa."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "> Musuh membawa mereka semua dengan kail,",
-                "> ia menyeret mereka keluar dengan jaringnya,",
-                "> ia mengumpulkan mereka dalam jaring seretnya;",
-                "> sehingga ia bersukacita dan bergembira."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "> Oleh karena itu ia mempersembahkan korban kepada jaringnya",
-                "> dan membuat persembahan kepada jaring seretnya;",
-                "> karena dengan mereka ia menikmati kelimpahan,",
-                "> dan makanannya berlimpah."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "> Apakah ia akan terus mengosongkan jaringnya,",
-                "> dan membunuh bangsa-bangsa tanpa belas kasihan selamanya?"
-            ]
-        }
-    ]
+  "book": "Habakuk",
+  "chapter": 1,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Ucapan ilahi yang dilihat nabi Habakuk."]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Berapa lama lagi, ya Tuhan, aku berteriak minta tolong, tetapi Engkau tidak mendengar?",
+        "> Aku berseru kepada-Mu, \"Kekerasan!\" tetapi Engkau tidak menyelamatkan."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "> Mengapa Engkau membuatku melihat kejahatan,",
+        "> dan mengapa Engkau memandang keburukan dengan diam?",
+        "> Kehancuran dan kekerasan ada di depanku;",
+        "> perselisihan dan pertengkaran muncul."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> Oleh karena itu hukum menjadi tidak efektif,",
+        "> dan keadilan tidak pernah muncul.",
+        "> Orang fasik mengepung orang benar,",
+        "> sehingga keadilan menjadi terdistorsi."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> \"Lihatlah di antara bangsa-bangsa,",
+        "> perhatikan, dan tercenganglah.",
+        "> Karena Aku sedang melakukan pekerjaan pada zamanmu",
+        "> yang tidak akan kamu percayai jika diberitahu."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Karena lihatlah, Aku membangkitkan orang Kasdim,",
+        "> bangsa yang ganas dan cepat marah,",
+        "> yang berjalan melintasi lebar bumi",
+        "> untuk merebut tempat tinggal yang bukan milik mereka."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Mereka menakutkan dan menakutkan;",
+        "> keadilan dan martabat mereka berasal dari diri mereka sendiri."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "> Kuda-kuda mereka lebih cepat daripada macan tutul,",
+        "> lebih ganas daripada serigala malam.",
+        "> Para penunggang kuda mereka maju dengan bangga;",
+        "> para penunggang kuda mereka datang dari jauh.",
+        "> Mereka terbang seperti elang yang bergegas untuk memangsa."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "> Mereka semua datang untuk kekerasan,",
+        "> wajah mereka menghadap ke depan.",
+        "> Mereka mengumpulkan tawanan seperti pasir."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "> Mereka mengejek raja-raja",
+        "> dan menjadikan para pangeran sebagai bahan tertawaan.",
+        "> Mereka menertawakan setiap benteng,",
+        "> karena mereka menumpuk tanah dan merebutnya."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "> Kemudian mereka menyapu seperti angin dan berlalu.",
+        "> Tetapi mereka adalah orang-orang yang bersalah,",
+        "> yang kekuatannya sendiri adalah dewa mereka.\""
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "> Bukankah Engkau dari kekekalan,",
+        "> ya Tuhan, Tuhanku, Yang Kudus?",
+        "> Engkau tidak akan binasa.",
+        "> Ya Tuhan, Engkau telah menetapkan mereka untuk penghakiman,",
+        "> dan Engkau, ya Gunung Batu, telah menetapkan mereka untuk koreksi."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "> Mata-Mu terlalu suci untuk melihat kejahatan,",
+        "> dan Engkau tidak dapat memandang kesalahan dengan suka.",
+        "> Mengapa Engkau memandang mereka yang berbuat khianat?",
+        "> Mengapa Engkau diam ketika orang fasik menelan",
+        "> mereka yang lebih benar daripada mereka?"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "> Engkau telah membuat umat manusia seperti ikan di laut,",
+        "> seperti makhluk yang merayap yang tidak memiliki penguasa."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "> Musuh membawa mereka semua dengan kail,",
+        "> ia menyeret mereka keluar dengan jaringnya,",
+        "> ia mengumpulkan mereka dalam jaring seretnya;",
+        "> sehingga ia bersukacita dan bergembira."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "> Oleh karena itu ia mempersembahkan korban kepada jaringnya",
+        "> dan membuat persembahan kepada jaring seretnya;",
+        "> karena dengan mereka ia menikmati kelimpahan,",
+        "> dan makanannya berlimpah."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "> Apakah ia akan terus mengosongkan jaringnya,",
+        "> dan membunuh bangsa-bangsa tanpa belas kasihan selamanya?"
+      ]
+    }
+  ]
 }

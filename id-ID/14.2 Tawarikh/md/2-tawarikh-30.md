@@ -4,7 +4,7 @@
 
 Sekarang Hizkia mengirim pesan kepada seluruh Israel dan Yehuda, dan dia juga menulis surat kepada Efraim dan Manasye,  
 mengundang mereka untuk datang ke rumah Tuhan di Yerusalem,  
-untuk merayakan Paskah bagi Tuhan Allah Israel.
+untuk merayakan Paskah bagi Tuhan Tuhan Israel.
 
 ## 2 Tawarikh 30:2
 
@@ -22,7 +22,7 @@ Keputusan itu benar di mata raja dan seluruh jemaat.
 ## 2 Tawarikh 30:5
 
 Jadi mereka menetapkan sebuah dekrit untuk menyebarkan pengumuman ke seluruh Israel,  
-dari Bersyeba sampai ke Dan, bahwa mereka harus datang untuk merayakan Paskah bagi Tuhan Allah Israel di Yerusalem.  
+dari Bersyeba sampai ke Dan, bahwa mereka harus datang untuk merayakan Paskah bagi Tuhan Tuhan Israel di Yerusalem.  
 Karena mereka belum merayakannya dalam jumlah besar seperti yang ditetapkan.
 
 ---
@@ -32,26 +32,26 @@ Karena mereka belum merayakannya dalam jumlah besar seperti yang ditetapkan.
 Para kurir pergi ke seluruh Israel dan Yehuda dengan surat-surat dari tangan raja dan para pejabatnya,  
 sesuai dengan perintah raja, mengatakan,
 
-"Anak-anak Israel, kembalilah kepada Tuhan Allah Abraham, Ishak, dan Israel,  
+"Anak-anak Israel, kembalilah kepada Tuhan Tuhan Abraham, Ishak, dan Israel,  
 supaya Dia dapat kembali kepada kalian yang tersisa, yang telah lolos dari tangan raja-raja Asyur.
 
 ## 2 Tawarikh 30:7
 
 Janganlah seperti ayah-ayahmu dan saudara-saudaramu,  
-yang tidak setia kepada Tuhan Allah nenek moyang mereka,  
+yang tidak setia kepada Tuhan Tuhan nenek moyang mereka,  
 sehingga Dia menjadikan mereka objek kengerian, seperti yang kalian lihat.
 
 ## 2 Tawarikh 30:8
 
 Sekarang janganlah mengeraskan tengkukmu seperti ayah-ayahmu,  
 tetapi tunduklah kepada Tuhan dan masuklah ke dalam tempat kudus-Nya yang telah Dia kuduskan untuk selama-lamanya,  
-dan layani Tuhan Allahmu, supaya kemarahan-Nya yang menyala-nyala dapat berpaling dari kalian.
+dan layani Tuhan Tuhanmu, supaya kemarahan-Nya yang menyala-nyala dapat berpaling dari kalian.
 
 ## 2 Tawarikh 30:9
 
 Karena jika kalian kembali kepada Tuhan,  
 saudara-saudaramu dan anak-anakmu akan menemukan belas kasihan dari mereka yang menawan mereka dan akan kembali ke tanah ini.  
-Karena Tuhan Allahmu adalah pengasih dan penyayang,  
+Karena Tuhan Tuhanmu adalah pengasih dan penyayang,  
 dan tidak akan memalingkan wajah-Nya dari kalian jika kalian kembali kepada-Nya."
 
 ---
@@ -67,7 +67,7 @@ Namun, beberapa orang dari Asyer, Manasye, dan Zebulon merendahkan diri dan data
 
 ## 2 Tawarikh 30:12
 
-Allah juga menggerakkan hati orang-orang Yehuda untuk menyatukan mereka dalam mengikuti perintah raja dan para pejabat, sesuai dengan firman Tuhan.
+Tuhan juga menggerakkan hati orang-orang Yehuda untuk menyatukan mereka dalam mengikuti perintah raja dan para pejabat, sesuai dengan firman Tuhan.
 
 ---
 
@@ -90,7 +90,7 @@ Dan para imam dan orang Lewi merasa malu akan diri mereka sendiri, dan mengudusk
 
 ## 2 Tawarikh 30:16
 
-Mereka mengambil tempat mereka di pos-pos mereka sesuai dengan Hukum Musa, orang Allah;  
+Mereka mengambil tempat mereka di pos-pos mereka sesuai dengan Hukum Musa, orang Tuhan;  
 para imam memercikkan darah yang diterima dari tangan orang Lewi.
 
 ## 2 Tawarikh 30:17
@@ -108,7 +108,7 @@ Karena Hizkia berdoa untuk mereka, mengatakan,
 
 ## 2 Tawarikh 30:19
 
-setiap orang yang menetapkan hatinya untuk mencari Allah, Tuhan Allah nenek moyangnya,  
+setiap orang yang menetapkan hatinya untuk mencari Tuhan, Tuhan Tuhan nenek moyangnya,  
 meskipun tidak sesuai dengan aturan penyucian tempat kudus."
 
 ## 2 Tawarikh 30:20
@@ -127,7 +127,7 @@ dan orang Lewi dan para imam memuji Tuhan hari demi hari dengan alat musik yang 
 ## 2 Tawarikh 30:22
 
 Kemudian Hizkia berbicara dengan dorongan kepada semua orang Lewi yang menunjukkan pemahaman yang baik dalam hal-hal Tuhan.  
-Jadi mereka makan selama tujuh hari yang ditetapkan, mempersembahkan persembahan perdamaian dan mengucap syukur kepada Tuhan Allah nenek moyang mereka.
+Jadi mereka makan selama tujuh hari yang ditetapkan, mempersembahkan persembahan perdamaian dan mengucap syukur kepada Tuhan Tuhan nenek moyang mereka.
 
 ---
 

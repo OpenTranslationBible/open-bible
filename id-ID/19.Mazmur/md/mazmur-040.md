@@ -14,7 +14,7 @@
 
 ## Mazmur 40:3
 
-> Dia menaruh nyanyian baru dalam mulutku, pujian bagi Allah kita;  
+> Dia menaruh nyanyian baru dalam mulutku, pujian bagi Tuhan kita;  
 > Banyak orang akan melihat dan menjadi kagum,  
 > Dan akan menaruh kepercayaan mereka kepada Tuhan.
 
@@ -27,7 +27,7 @@
 
 ## Mazmur 40:5
 
-> Banyak, Tuhan Allahku, adalah keajaiban yang telah Engkau lakukan,  
+> Banyak, Tuhan Tuhanku, adalah keajaiban yang telah Engkau lakukan,  
 > Dan pikiran-Mu terhadap kami;  
 > Tidak ada yang dapat dibandingkan dengan Engkau.  
 > Jika aku hendak menyatakan dan membicarakannya,  
@@ -48,7 +48,7 @@
 
 ## Mazmur 40:8
 
-> Aku bersukacita melakukan kehendak-Mu, ya Allahku;  
+> Aku bersukacita melakukan kehendak-Mu, ya Tuhanku;  
 > Hukum-Mu ada dalam hatiku.”
 
 ---
@@ -110,4 +110,4 @@
 > Tetapi aku menderita dan membutuhkan;  
 > Biarlah Tuhan memperhatikan aku.  
 > Engkau adalah penolongku dan penyelamatku;  
-> Janganlah menunda, ya Allahku.
+> Janganlah menunda, ya Tuhanku.

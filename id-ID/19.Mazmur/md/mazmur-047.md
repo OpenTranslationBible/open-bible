@@ -5,7 +5,7 @@
 ## Mazmur 47:1
 
 > Bertepuk tanganlah, hai segala bangsa;  
-> Bersoraklah kepada Allah dengan suara sukacita.
+> Bersoraklah kepada Tuhan dengan suara sukacita.
 
 ---
 
@@ -30,29 +30,29 @@
 
 ## Mazmur 47:5
 
-> Allah telah naik diiringi sorak-sorai,  
+> Tuhan telah naik diiringi sorak-sorai,  
 > Tuhan, dengan bunyi sangkakala.
 
 ## Mazmur 47:6
 
-> Bernyanyilah bagi Allah, bernyanyilah;  
+> Bernyanyilah bagi Tuhan, bernyanyilah;  
 > Bernyanyilah bagi Raja kita, bernyanyilah.
 
 ## Mazmur 47:7
 
-> Sebab Allah adalah Raja atas seluruh bumi;  
+> Sebab Tuhan adalah Raja atas seluruh bumi;  
 > Bernyanyilah dengan mazmur pengertian.
 
 ---
 
 ## Mazmur 47:8
 
-> Allah memerintah atas bangsa-bangsa,  
-> Allah bersemayam di atas takhta-Nya yang kudus.
+> Tuhan memerintah atas bangsa-bangsa,  
+> Tuhan bersemayam di atas takhta-Nya yang kudus.
 
 ## Mazmur 47:9
 
 > Para pemimpin bangsa-bangsa telah berkumpul  
-> Sebagai umat Allah Abraham,  
-> Sebab perisai-perisai bumi adalah milik Allah;  
+> Sebagai umat Tuhan Abraham,  
+> Sebab perisai-perisai bumi adalah milik Tuhan;  
 > Dia sangat ditinggikan.

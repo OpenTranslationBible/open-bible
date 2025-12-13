@@ -26,7 +26,7 @@ firman Tuhan datang kepadanya, berkata,
 ## 2 Raja-raja 20:5
 
 “Kembalilah dan katakan kepada Hizkia, pemimpin umat-Ku,  
-‘Inilah yang dinyatakan Tuhan, Allah leluhurmu Daud:
+‘Inilah yang dinyatakan Tuhan, Tuhan leluhurmu Daud:
 
 > Aku telah mendengar doamu,  
 > Aku telah melihat air matamu;  

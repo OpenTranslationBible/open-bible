@@ -10,7 +10,7 @@ Kemudian orang-orang Filistin memanggil para imam dan para penenung dan berkata,
 
 ## 1 Samuel 6:3
 
-Mereka menjawab, "Jika kamu mengembalikan tabut Allah Israel, jangan mengirimkannya kembali dengan tangan kosong, tetapi pastikan untuk mengirimkan persembahan penebus salah bersamanya. Maka kamu akan sembuh, dan kamu akan mengerti mengapa tangan-Nya tidak berpaling dari kamu."
+Mereka menjawab, "Jika kamu mengembalikan tabut Tuhan Israel, jangan mengirimkannya kembali dengan tangan kosong, tetapi pastikan untuk mengirimkan persembahan penebus salah bersamanya. Maka kamu akan sembuh, dan kamu akan mengerti mengapa tangan-Nya tidak berpaling dari kamu."
 
 ## 1 Samuel 6:4
 
@@ -19,7 +19,7 @@ Mereka menjawab, "Lima tumor emas dan lima tikus emas, sesuai dengan jumlah peng
 
 ## 1 Samuel 6:5
 
-Jadi buatlah model tumor dan tikus yang merusak tanahmu, dan berikan penghormatan kepada Allah Israel. Mungkin Dia akan mengangkat tangan-Nya dari kamu, dewa-dewamu, dan tanahmu.
+Jadi buatlah model tumor dan tikus yang merusak tanahmu, dan berikan penghormatan kepada Tuhan Israel. Mungkin Dia akan mengangkat tangan-Nya dari kamu, dewa-dewamu, dan tanahmu.
 
 ## 1 Samuel 6:6
 
@@ -91,7 +91,7 @@ Tetapi Tuhan memukul beberapa orang Bet-Semes karena mereka melihat ke dalam tab
 
 ## 1 Samuel 6:20
 
-Dan orang-orang Bet-Semes berkata, "Siapa yang dapat berdiri di hadapan Tuhan, Allah yang kudus ini? Kepada siapa tabut itu akan pergi dari sini?"
+Dan orang-orang Bet-Semes berkata, "Siapa yang dapat berdiri di hadapan Tuhan, Tuhan yang kudus ini? Kepada siapa tabut itu akan pergi dari sini?"
 
 ## 1 Samuel 6:21
 

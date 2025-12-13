@@ -4,7 +4,7 @@
 
 ## Mazmur 109:1
 
-> Allah pujianku, janganlah berdiam diri!
+> Tuhan pujianku, janganlah berdiam diri!
 
 ## Mazmur 109:2
 
@@ -111,7 +111,7 @@
 
 ## Mazmur 109:21
 
-> Tetapi Engkau, ya Allah, Tuhan, bertindaklah dengan baik terhadap aku demi nama-Mu;  
+> Tetapi Engkau, ya Tuhan, Tuhan, bertindaklah dengan baik terhadap aku demi nama-Mu;  
 > Karena belas kasihan-Mu baik, selamatkanlah aku;
 
 ## Mazmur 109:22
@@ -138,7 +138,7 @@
 
 ## Mazmur 109:26
 
-> Tolonglah aku, Tuhan Allahku;  
+> Tolonglah aku, Tuhan Tuhanku;  
 > Selamatkanlah aku menurut belas kasihan-Mu.
 
 ## Mazmur 109:27

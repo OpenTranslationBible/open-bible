@@ -4,7 +4,7 @@
 
 ## Mazmur 79:1
 
-> Ya Allah, bangsa-bangsa telah menyerbu milik pusaka-Mu;  
+> Ya Tuhan, bangsa-bangsa telah menyerbu milik pusaka-Mu;  
 > Mereka telah menajiskan bait suci-Mu;  
 > Mereka telah membuat Yerusalem menjadi reruntuhan.
 
@@ -50,12 +50,12 @@
 
 ## Mazmur 79:9
 
-> Tolonglah kami, Allah keselamatan kami, demi kehormatan nama-Mu;  
+> Tolonglah kami, Tuhan keselamatan kami, demi kehormatan nama-Mu;  
 > Dan lepaskanlah kami dan ampunilah dosa-dosa kami demi nama-Mu.
 
 ## Mazmur 79:10
 
-> Mengapa bangsa-bangsa berkata, “Di manakah Allah mereka?”
+> Mengapa bangsa-bangsa berkata, “Di manakah Tuhan mereka?”
 
 ---
 

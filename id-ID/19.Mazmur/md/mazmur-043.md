@@ -2,12 +2,12 @@
 
 ## Mazmur 43:1
 
-> Belalah aku, ya Allah, dan perjuangkanlah perkaraku melawan bangsa yang tidak saleh;  
+> Belalah aku, ya Tuhan, dan perjuangkanlah perkaraku melawan bangsa yang tidak saleh;  
 > Selamatkanlah aku dari orang yang menipu dan yang tidak adil!
 
 ## Mazmur 43:2
 
-> Sebab Engkaulah Allah tempat perlindunganku; mengapa Engkau menolak aku?  
+> Sebab Engkaulah Tuhan tempat perlindunganku; mengapa Engkau menolak aku?  
 > Mengapa aku harus berjalan dengan berduka di bawah tekanan musuh?
 
 ## Mazmur 43:3
@@ -18,9 +18,9 @@
 
 ## Mazmur 43:4
 
-> Maka aku akan mendekati mezbah Allah,  
-> Kepada Allah, sukacitaku yang terbesar;  
-> Dan aku akan memuji Engkau dengan kecapi, ya Allah, Tuhanku.
+> Maka aku akan mendekati mezbah Tuhan,  
+> Kepada Tuhan, sukacitaku yang terbesar;  
+> Dan aku akan memuji Engkau dengan kecapi, ya Tuhan, Tuhanku.
 
 ---
 
@@ -28,5 +28,5 @@
 
 > Mengapa engkau tertekan, hai jiwaku?  
 > Dan mengapa engkau gelisah di dalam diriku?  
-> Berharaplah kepada Allah, sebab aku akan memuji Dia lagi  
-> Untuk pertolongan dari hadirat-Nya, ya Allahku.
+> Berharaplah kepada Tuhan, sebab aku akan memuji Dia lagi  
+> Untuk pertolongan dari hadirat-Nya, ya Tuhanku.

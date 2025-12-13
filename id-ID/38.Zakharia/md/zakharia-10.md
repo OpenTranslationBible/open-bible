@@ -43,7 +43,7 @@
 > Dan Aku akan memulihkan mereka,  
 > Karena Aku telah menunjukkan belas kasihan kepada mereka;  
 > Dan mereka akan seperti seolah-olah Aku tidak membuang mereka,  
-> Karena Aku adalah Tuhan Allah mereka dan Aku akan menjawab mereka.
+> Karena Aku adalah Tuhan Tuhan mereka dan Aku akan menjawab mereka.
 
 ## Zakharia 10:7
 

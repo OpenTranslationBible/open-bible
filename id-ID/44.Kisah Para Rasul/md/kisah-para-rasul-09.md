@@ -82,7 +82,7 @@ dan setelah makan, ia dikuatkan. Saulus menghabiskan beberapa hari dengan murid-
 
 ## Kisah Para Rasul 9:20
 
-Tanpa menunda, ia mulai memberitakan Yesus di sinagoga-sinagoga, menyatakan, “Dia adalah Anak Allah.”
+Tanpa menunda, ia mulai memberitakan Yesus di sinagoga-sinagoga, menyatakan, “Dia adalah Anak Tuhan.”
 
 ---
 

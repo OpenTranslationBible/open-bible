@@ -52,7 +52,7 @@ Memang benar bahwa aku adalah penebus, tetapi ada orang lain yang lebih dekat hu
 
 ## Rut 3:13
 
-Tinggallah di sini malam ini, dan di pagi hari, jika ia ingin menebusmu, baiklah; biarlah ia menebusmu. Tetapi jika ia tidak mau, demi Tuhan yang hidup, aku akan menebusmu. Berbaringlah di sini sampai pagi.”
+TinggTuhan di sini malam ini, dan di pagi hari, jika ia ingin menebusmu, baiklah; biarlah ia menebusmu. Tetapi jika ia tidak mau, demi Tuhan yang hidup, aku akan menebusmu. Berbaringlah di sini sampai pagi.”
 
 ## Rut 3:14
 

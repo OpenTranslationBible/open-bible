@@ -6,15 +6,15 @@ Tuhan kemudian berbicara kepada Musa, dengan berkata,
 
 ## Imamat 19:2
 
-"Berbicaralah kepada seluruh jemaat anak-anak Israel dan katakan kepada mereka: 'Kamu harus kudus, karena Aku, Tuhan Allahmu, adalah kudus.
+"Berbicaralah kepada seluruh jemaat anak-anak Israel dan katakan kepada mereka: 'Kamu harus kudus, karena Aku, Tuhan Tuhanmu, adalah kudus.
 
 ## Imamat 19:3
 
-Setiap orang harus menghormati ibu dan ayahnya, dan kamu harus memelihara hari Sabat-Ku. Akulah Tuhan Allahmu.
+Setiap orang harus menghormati ibu dan ayahnya, dan kamu harus memelihara hari Sabat-Ku. Akulah Tuhan Tuhanmu.
 
 ## Imamat 19:4
 
-Jangan beralih kepada berhala atau membuat bagi dirimu sendiri allah dari logam tuangan. Akulah Tuhan Allahmu.
+Jangan beralih kepada berhala atau membuat bagi dirimu sendiri Tuhan dari logam tuangan. Akulah Tuhan Tuhanmu.
 
 ## Imamat 19:5
 
@@ -38,7 +38,7 @@ Ketika kamu mengumpulkan hasil panen tanahmu, jangan memanen sampai ke tepi lada
 
 ## Imamat 19:10
 
-Jangan kembali ke kebun anggurmu atau mengumpulkan anggur yang jatuh. Biarkan itu untuk orang miskin dan orang asing. Akulah Tuhan Allahmu.
+Jangan kembali ke kebun anggurmu atau mengumpulkan anggur yang jatuh. Biarkan itu untuk orang miskin dan orang asing. Akulah Tuhan Tuhanmu.
 
 ## Imamat 19:11
 
@@ -46,7 +46,7 @@ Kamu tidak boleh mencuri, atau berbohong, atau menipu satu sama lain.
 
 ## Imamat 19:12
 
-Kamu tidak boleh bersumpah palsu demi nama-Ku, sehingga menodai nama Allahmu. Akulah Tuhan.
+Kamu tidak boleh bersumpah palsu demi nama-Ku, sehingga menodai nama Tuhanmu. Akulah Tuhan.
 
 ## Imamat 19:13
 
@@ -54,7 +54,7 @@ Jangan menipu atau merampok tetanggamu. Jangan menahan upah pekerja yang disewa 
 
 ## Imamat 19:14
 
-Jangan mengutuk orang tuli atau meletakkan batu sandungan di depan orang buta, tetapi takutlah akan Allahmu. Akulah Tuhan.
+Jangan mengutuk orang tuli atau meletakkan batu sandungan di depan orang buta, tetapi takutlah akan Tuhanmu. Akulah Tuhan.
 
 ## Imamat 19:15
 
@@ -98,7 +98,7 @@ Pada tahun keempat semua buahnya haruslah kudus, suatu persembahan pujian kepada
 
 ## Imamat 19:25
 
-Tetapi pada tahun kelima kamu boleh memakan buahnya, agar hasilnya dapat meningkat bagimu. Akulah Tuhan Allahmu.
+Tetapi pada tahun kelima kamu boleh memakan buahnya, agar hasilnya dapat meningkat bagimu. Akulah Tuhan Tuhanmu.
 
 ## Imamat 19:26
 
@@ -122,11 +122,11 @@ Peliharalah hari Sabat-Ku dan tunjukkan rasa hormat untuk tempat kudus-Ku. Akula
 
 ## Imamat 19:31
 
-Jangan beralih kepada mereka yang mengaku berkomunikasi dengan roh atau mencari mereka yang berkonsultasi dengan orang mati, karena kamu akan dinajiskan oleh mereka. Akulah Tuhan Allahmu.
+Jangan beralih kepada mereka yang mengaku berkomunikasi dengan roh atau mencari mereka yang berkonsultasi dengan orang mati, karena kamu akan dinajiskan oleh mereka. Akulah Tuhan Tuhanmu.
 
 ## Imamat 19:32
 
-Berdirilah di hadapan orang tua, tunjukkan rasa hormat kepada orang tua dan hormatilah Allahmu. Akulah Tuhan.
+Berdirilah di hadapan orang tua, tunjukkan rasa hormat kepada orang tua dan hormatilah Tuhanmu. Akulah Tuhan.
 
 ## Imamat 19:33
 
@@ -134,7 +134,7 @@ Ketika seorang asing tinggal di antara kamu di tanahmu, jangan perlakukan dia de
 
 ## Imamat 19:34
 
-Orang asing yang tinggal di antara kamu harus diperlakukan seperti orang asli. Kasihilah dia seperti dirimu sendiri, karena kamu adalah orang asing di Mesir. Akulah Tuhan Allahmu.
+Orang asing yang tinggal di antara kamu harus diperlakukan seperti orang asli. Kasihilah dia seperti dirimu sendiri, karena kamu adalah orang asing di Mesir. Akulah Tuhan Tuhanmu.
 
 ## Imamat 19:35
 
@@ -142,7 +142,7 @@ Jangan menggunakan ukuran yang tidak jujur ketika menentukan panjang, berat, ata
 
 ## Imamat 19:36
 
-Gunakan timbangan yang akurat dan berat yang jujur, efa yang jujur dan hin yang jujur. Akulah Tuhan Allahmu, yang membawa kamu keluar dari Mesir.
+Gunakan timbangan yang akurat dan berat yang jujur, efa yang jujur dan hin yang jujur. Akulah Tuhan Tuhanmu, yang membawa kamu keluar dari Mesir.
 
 ## Imamat 19:37
 

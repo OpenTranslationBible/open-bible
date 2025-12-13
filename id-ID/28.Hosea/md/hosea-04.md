@@ -2,7 +2,7 @@
 
 ## Hosea 4:1
 
-Dengarlah firman Tuhan, hai anak-anak Israel, karena Tuhan mempunyai pengaduan terhadap penduduk negeri itu: tidak ada kebenaran atau kesetiaan, atau pengetahuan tentang Allah di negeri itu.
+Dengarlah firman Tuhan, hai anak-anak Israel, karena Tuhan mempunyai pengaduan terhadap penduduk negeri itu: tidak ada kebenaran atau kesetiaan, atau pengetahuan tentang Tuhan di negeri itu.
 
 ## Hosea 4:2
 
@@ -22,7 +22,7 @@ Engkau akan tersandung pada siang hari, dan nabi juga akan tersandung bersamamu 
 
 ## Hosea 4:6
 
-Umat-Ku binasa karena kurang pengetahuan. Karena engkau telah menolak pengetahuan, Aku juga akan menolak engkau dari menjadi imam-Ku; karena engkau telah melupakan hukum Allahmu, Aku juga akan melupakan anak-anakmu.
+Umat-Ku binasa karena kurang pengetahuan. Karena engkau telah menolak pengetahuan, Aku juga akan menolak engkau dari menjadi imam-Ku; karena engkau telah melupakan hukum Tuhanmu, Aku juga akan melupakan anak-anakmu.
 
 ## Hosea 4:7
 
@@ -46,7 +46,7 @@ Ketidaksetiaan, anggur, dan anggur baru menghilangkan pengertian mereka.
 
 ## Hosea 4:12
 
-Umat-Ku berkonsultasi dengan berhala kayu mereka, dan tongkat peramal mereka berbicara kepada mereka; roh ketidaksetiaan telah menyesatkan mereka, dan mereka telah tidak setia kepada Allah mereka.
+Umat-Ku berkonsultasi dengan berhala kayu mereka, dan tongkat peramal mereka berbicara kepada mereka; roh ketidaksetiaan telah menyesatkan mereka, dan mereka telah tidak setia kepada Tuhan mereka.
 
 ## Hosea 4:13
 

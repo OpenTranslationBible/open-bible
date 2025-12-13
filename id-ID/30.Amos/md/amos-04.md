@@ -8,7 +8,7 @@
 
 ## Amos 4:2
 
-> Tuhan Allah telah bersumpah demi kekudusan-Nya,  
+> Tuhan Tuhan telah bersumpah demi kekudusan-Nya,  
 > “Lihatlah, hari-hari akan datang atasmu  
 > Ketika mereka akan membawamu pergi dengan kait daging,  
 > Dan yang terakhir dari kamu dengan kait ikan.
@@ -32,7 +32,7 @@
 > Persembahkan juga korban syukur dari yang beragi,  
 > Dan umumkan persembahan sukarela, buatlah itu dikenal.  
 > Karena inilah yang kamu suka lakukan, hai anak-anak Israel,”  
-> Demikianlah firman Tuhan Allah.
+> Demikianlah firman Tuhan Tuhan.
 
 ## Amos 4:6
 
@@ -72,7 +72,7 @@
 
 ## Amos 4:11
 
-> “Aku membawa kehancuran atasmu, seperti yang dilakukan Allah terhadap Sodom dan Gomora,  
+> “Aku membawa kehancuran atasmu, seperti yang dilakukan Tuhan terhadap Sodom dan Gomora,  
 > Dan kamu seperti bara yang diambil dari api;  
 > Namun kamu tidak kembali kepada-Ku,” demikianlah firman Tuhan.
 
@@ -80,7 +80,7 @@
 
 > “Oleh karena itu inilah yang akan Aku lakukan kepadamu, Israel;  
 > Karena Aku akan melakukan ini kepadamu,  
-> Bersiaplah untuk bertemu dengan Allahmu, Israel.”
+> Bersiaplah untuk bertemu dengan Tuhanmu, Israel.”
 
 ## Amos 4:13
 
@@ -88,4 +88,4 @@
 > Dan menyatakan kepada seseorang apa yang menjadi pikiran-Nya,  
 > Dia yang membuat fajar menjadi gelap  
 > Dan melangkah di tempat-tempat tinggi di bumi,  
-> Tuhan Allah semesta alam adalah nama-Nya.
+> Tuhan Tuhan semesta alam adalah nama-Nya.

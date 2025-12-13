@@ -82,7 +82,7 @@ Tetapi Sihon tidak mempercayai Israel untuk melewati wilayahnya. Ia mengumpulkan
 
 ## Hakim-Hakim 11:21
 
-Tuhan, Allah Israel, menyerahkan Sihon dan seluruh rakyatnya ke tangan Israel, dan mereka mengalahkan mereka. Israel mengambil alih semua tanah orang Amori yang mendiami wilayah itu.
+Tuhan, Tuhan Israel, menyerahkan Sihon dan seluruh rakyatnya ke tangan Israel, dan mereka mengalahkan mereka. Israel mengambil alih semua tanah orang Amori yang mendiami wilayah itu.
 
 ## Hakim-Hakim 11:22
 
@@ -92,11 +92,11 @@ Mereka merebut seluruh wilayah dari Arnon sampai Yabok dan dari padang gurun sam
 
 ## Hakim-Hakim 11:23
 
-Sekarang, setelah Tuhan, Allah Israel, mengusir orang Amori di hadapan umat-Nya Israel, apakah engkau kemudian akan memilikinya?
+Sekarang, setelah Tuhan, Tuhan Israel, mengusir orang Amori di hadapan umat-Nya Israel, apakah engkau kemudian akan memilikinya?
 
 ## Hakim-Hakim 11:24
 
-Bukankah engkau memiliki apa yang Chemosh, allahmu, berikan kepadamu? Demikian pula, apa pun yang Tuhan, Allah kami, berikan kepada kami, kami akan memilikinya.
+Bukankah engkau memiliki apa yang Chemosh, Tuhanmu, berikan kepadamu? Demikian pula, apa pun yang Tuhan, Tuhan kami, berikan kepada kami, kami akan memilikinya.
 
 ## Hakim-Hakim 11:25
 

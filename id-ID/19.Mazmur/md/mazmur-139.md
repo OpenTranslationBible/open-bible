@@ -92,7 +92,7 @@
 
 ## Mazmur 139:17
 
-> Betapa berharganya pikiran-Mu bagiku, ya Allah!  
+> Betapa berharganya pikiran-Mu bagiku, ya Tuhan!  
 > Betapa luasnya jumlah mereka!
 
 ## Mazmur 139:18
@@ -104,7 +104,7 @@
 
 ## Mazmur 139:19
 
-> Sekiranya Engkau membunuh orang fasik, ya Allah;  
+> Sekiranya Engkau membunuh orang fasik, ya Tuhan;  
 > Pergilah dariku, kamu orang-orang penumpah darah.
 
 ## Mazmur 139:20
@@ -124,7 +124,7 @@
 
 ## Mazmur 139:23
 
-> Selidikilah aku, ya Allah, dan kenalilah hatiku;  
+> Selidikilah aku, ya Tuhan, dan kenalilah hatiku;  
 > Ujilah aku dan kenalilah pikiran-pikiranku yang gelisah;
 
 ## Mazmur 139:24

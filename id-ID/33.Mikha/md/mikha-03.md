@@ -48,7 +48,7 @@
 > Para pelihat akan dipermalukan,  
 > Dan para peramal akan merasa malu.  
 > Sesungguhnya, mereka semua akan menutupi mulut mereka  
-> Karena tidak ada jawaban dari Allah.
+> Karena tidak ada jawaban dari Tuhan.
 
 ## Mikha 3:8
 

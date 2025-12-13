@@ -34,11 +34,11 @@ Dia menjawab, “Yesaya benar ketika dia bernubuat tentang kamu orang-orang muna
 
 ## Markus 7:8
 
-Kamu telah mengesampingkan perintah Allah dan berpegang pada tradisi manusia.”
+Kamu telah mengesampingkan perintah Tuhan dan berpegang pada tradisi manusia.”
 
 ## Markus 7:9
 
-Dan Dia melanjutkan, “Kamu memiliki cara cerdik untuk menolak perintah Allah demi memelihara tradisimu sendiri!
+Dan Dia melanjutkan, “Kamu memiliki cara cerdik untuk menolak perintah Tuhan demi memelihara tradisimu sendiri!
 
 ## Markus 7:10
 
@@ -46,7 +46,7 @@ Sebab Musa berkata, ‘Hormatilah ayahmu dan ibumu,’ dan, ‘Siapa yang mengut
 
 ## Markus 7:11
 
-Tetapi kamu berkata bahwa jika seseorang menyatakan bahwa apa yang seharusnya digunakan untuk membantu ayah atau ibunya adalah Korban (yaitu, dipersembahkan kepada Allah)—
+Tetapi kamu berkata bahwa jika seseorang menyatakan bahwa apa yang seharusnya digunakan untuk membantu ayah atau ibunya adalah Korban (yaitu, dipersembahkan kepada Tuhan)—
 
 ## Markus 7:12
 
@@ -54,7 +54,7 @@ maka kamu tidak lagi mengizinkan mereka melakukan apa pun untuk ayah atau ibunya
 
 ## Markus 7:13
 
-Dengan cara ini, kamu membatalkan firman Allah dengan tradisimu yang telah kamu wariskan. Dan kamu terlibat dalam banyak praktik serupa.”
+Dengan cara ini, kamu membatalkan firman Tuhan dengan tradisimu yang telah kamu wariskan. Dan kamu terlibat dalam banyak praktik serupa.”
 
 ---
 

@@ -14,7 +14,7 @@ Maka aku mengambil Yaazanya, anak Yeremia, anak Habazinia, dan saudara-saudarany
 
 ## Yeremia 35:4
 
-dan membawa mereka ke rumah Tuhan, ke kamar anak-anak Hanan, anak Igdalia, orang Allah, yang berada di samping kamar para pejabat, di atas kamar Maaseya, anak Salum, penjaga pintu.
+dan membawa mereka ke rumah Tuhan, ke kamar anak-anak Hanan, anak Igdalia, orang Tuhan, yang berada di samping kamar para pejabat, di atas kamar Maaseya, anak Salum, penjaga pintu.
 
 ## Yeremia 35:5
 
@@ -50,7 +50,7 @@ Kemudian firman Tuhan datang kepada Yeremia, mengatakan,
 
 ## Yeremia 35:13
 
-"Inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: 'Pergilah dan katakan kepada orang Yehuda dan penduduk Yerusalem, "Tidakkah kamu belajar pelajaran dan mendengarkan perkataan-Ku?" firman Tuhan.
+"Inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: 'Pergilah dan katakan kepada orang Yehuda dan penduduk Yerusalem, "Tidakkah kamu belajar pelajaran dan mendengarkan perkataan-Ku?" firman Tuhan.
 
 ## Yeremia 35:14
 
@@ -58,7 +58,7 @@ Kemudian firman Tuhan datang kepada Yeremia, mengatakan,
 
 ## Yeremia 35:15
 
-Aku telah mengirim semua hamba-Ku para nabi kepadamu, berulang kali, mengatakan: "Masing-masing dari kamu harus berbalik dari jalan-jalan jahatmu dan memperbaiki perbuatanmu; jangan mengikuti allah lain untuk menyembah mereka. Maka kamu akan tinggal di tanah yang telah Kuberikan kepadamu dan leluhurmu." Tetapi kamu tidak memiringkan telingamu atau mendengarkan Aku.
+Aku telah mengirim semua hamba-Ku para nabi kepadamu, berulang kali, mengatakan: "Masing-masing dari kamu harus berbalik dari jalan-jalan jahatmu dan memperbaiki perbuatanmu; jangan mengikuti Tuhan lain untuk menyembah mereka. Maka kamu akan tinggal di tanah yang telah Kuberikan kepadamu dan leluhurmu." Tetapi kamu tidak memiringkan telingamu atau mendengarkan Aku.
 
 ## Yeremia 35:16
 
@@ -66,12 +66,12 @@ Keturunan Yonadab, anak Rekhab, telah melaksanakan perintah yang diberikan leluh
 
 ## Yeremia 35:17
 
-Oleh karena itu, inilah yang dikatakan Tuhan, Allah Semesta Alam, Allah Israel: 'Lihatlah, Aku akan mendatangkan kepada Yehuda dan semua penduduk Yerusalem semua bencana yang telah Kuucapkan terhadap mereka, karena Aku telah berbicara kepada mereka, tetapi mereka tidak mendengarkan; Aku memanggil mereka, tetapi mereka tidak menjawab.'"
+Oleh karena itu, inilah yang dikatakan Tuhan, Tuhan Semesta Alam, Tuhan Israel: 'Lihatlah, Aku akan mendatangkan kepada Yehuda dan semua penduduk Yerusalem semua bencana yang telah Kuucapkan terhadap mereka, karena Aku telah berbicara kepada mereka, tetapi mereka tidak mendengarkan; Aku memanggil mereka, tetapi mereka tidak menjawab.'"
 
 ## Yeremia 35:18
 
-Kemudian Yeremia berkata kepada rumah orang Rekhab, "Inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: 'Karena kamu telah mematuhi perintah Yonadab leluhurmu, dan telah menjaga semua instruksinya dan melakukan semua yang diperintahkannya kepadamu,
+Kemudian Yeremia berkata kepada rumah orang Rekhab, "Inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: 'Karena kamu telah mematuhi perintah Yonadab leluhurmu, dan telah menjaga semua instruksinya dan melakukan semua yang diperintahkannya kepadamu,
 
 ## Yeremia 35:19
 
-maka inilah yang dikatakan Tuhan Semesta Alam, Allah Israel: 'Yonadab, anak Rekhab, tidak akan kekurangan keturunan yang berdiri di hadapan-Ku selalu.'"
+maka inilah yang dikatakan Tuhan Semesta Alam, Tuhan Israel: 'Yonadab, anak Rekhab, tidak akan kekurangan keturunan yang berdiri di hadapan-Ku selalu.'"

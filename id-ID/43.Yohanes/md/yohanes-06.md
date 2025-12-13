@@ -112,15 +112,15 @@ Yesus menjawab, "Sesungguhnya, sesungguhnya, Aku berkata kepadamu, kamu mencari 
 
 ## Yohanes 6:27
 
-Jangan bekerja untuk makanan yang binasa, tetapi untuk makanan yang bertahan sampai hidup yang kekal, yang akan diberikan Anak Manusia kepadamu. Sebab kepada-Nya, Allah Bapa telah menetapkan meterai-Nya."
+Jangan bekerja untuk makanan yang binasa, tetapi untuk makanan yang bertahan sampai hidup yang kekal, yang akan diberikan Anak Manusia kepadamu. Sebab kepada-Nya, Tuhan Bapa telah menetapkan meterai-Nya."
 
 ## Yohanes 6:28
 
-Kemudian mereka bertanya kepada-Nya, "Apa yang harus kami lakukan untuk melakukan pekerjaan yang dikehendaki Allah?"
+Kemudian mereka bertanya kepada-Nya, "Apa yang harus kami lakukan untuk melakukan pekerjaan yang dikehendaki Tuhan?"
 
 ## Yohanes 6:29
 
-Yesus menjawab, "Pekerjaan Allah adalah percaya kepada Dia yang telah diutus-Nya."
+Yesus menjawab, "Pekerjaan Tuhan adalah percaya kepada Dia yang telah diutus-Nya."
 
 ---
 
@@ -138,7 +138,7 @@ Yesus berkata kepada mereka, "Sesungguhnya, sesungguhnya, Aku berkata kepadamu, 
 
 ## Yohanes 6:33
 
-Sebab roti Allah adalah Dia yang turun dari surga dan memberikan hidup kepada dunia."
+Sebab roti Tuhan adalah Dia yang turun dari surga dan memberikan hidup kepada dunia."
 
 ## Yohanes 6:34
 
@@ -190,11 +190,11 @@ Tidak ada seorang pun yang dapat datang kepada-Ku kecuali Bapa yang mengutus Aku
 
 ## Yohanes 6:45
 
-Ada tertulis dalam kitab Nabi-nabi: 'Mereka semua akan diajar oleh Allah.' Setiap orang yang telah mendengar Bapa dan belajar dari-Nya datang kepada-Ku.
+Ada tertulis dalam kitab Nabi-nabi: 'Mereka semua akan diajar oleh Tuhan.' Setiap orang yang telah mendengar Bapa dan belajar dari-Nya datang kepada-Ku.
 
 ## Yohanes 6:46
 
-Tidak ada seorang pun yang telah melihat Bapa kecuali Dia yang datang dari Allah; Dia saja yang telah melihat Bapa.
+Tidak ada seorang pun yang telah melihat Bapa kecuali Dia yang datang dari Tuhan; Dia saja yang telah melihat Bapa.
 
 ## Yohanes 6:47
 
@@ -292,7 +292,7 @@ Simon Petrus menjawab Dia, "Tuhan, kepada siapa kami akan pergi? Engkau memiliki
 
 ## Yohanes 6:69
 
-Kami telah percaya dan memahami bahwa Engkau adalah Yang Kudus dari Allah."
+Kami telah percaya dan memahami bahwa Engkau adalah Yang Kudus dari Tuhan."
 
 ## Yohanes 6:70
 

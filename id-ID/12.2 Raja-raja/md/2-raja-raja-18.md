@@ -25,7 +25,7 @@ dan itu disebut Nehustan.
 
 ## 2 Raja-raja 18:5
 
-Ia menaruh kepercayaannya kepada Tuhan, Allah Israel;  
+Ia menaruh kepercayaannya kepada Tuhan, Tuhan Israel;  
 tidak ada yang seperti dia di antara semua raja Yehuda,  
 baik sebelum maupun sesudah dia.
 
@@ -65,7 +65,7 @@ dan menempatkan mereka di Halah dan di tepi sungai Habor, sungai Gozan, dan di k
 
 ## 2 Raja-raja 18:12
 
-karena mereka tidak mematuhi suara Tuhan Allah mereka,  
+karena mereka tidak mematuhi suara Tuhan Tuhan mereka,  
 tetapi melanggar perjanjian-Nya—semua yang diperintahkan Musa hamba Tuhan;  
 mereka tidak mendengarkan atau mematuhi.
 
@@ -130,7 +130,7 @@ Begitulah Firaun raja Mesir kepada semua yang bergantung padanya.
 
 ## 2 Raja-raja 18:22
 
-Tetapi jika engkau berkata kepadaku, "Kami telah percaya kepada Tuhan Allah kami,"  
+Tetapi jika engkau berkata kepadaku, "Kami telah percaya kepada Tuhan Tuhan kami,"  
 bukankah Dia yang tempat-tempat tinggi dan mezbah-mezbahnya telah diambil Hizkia,  
 dan telah berkata kepada Yehuda dan Yerusalem,  
 “Kamu harus beribadah di depan mezbah ini di Yerusalem”?

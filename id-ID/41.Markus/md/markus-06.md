@@ -40,7 +40,7 @@ mereka diizinkan memakai sandal tetapi tidak boleh memakai dua jubah.
 
 ## Markus 6:10
 
-Ia berkata kepada mereka, "Di mana pun kamu masuk ke dalam sebuah rumah, tinggallah di sana sampai kamu meninggalkan tempat itu.
+Ia berkata kepada mereka, "Di mana pun kamu masuk ke dalam sebuah rumah, tinggTuhan di sana sampai kamu meninggalkan tempat itu.
 
 ## Markus 6:11
 

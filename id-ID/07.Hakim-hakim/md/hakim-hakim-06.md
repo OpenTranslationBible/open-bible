@@ -32,7 +32,7 @@ Ketika orang Israel berseru kepada Tuhan karena penindasan Midian,
 
 ## Hakim-Hakim 6:8
 
-Tuhan mengutus seorang nabi kepada mereka, yang berkata, “Inilah yang dikatakan Tuhan, Allah Israel: ‘Aku membawa kamu keluar dari Mesir, dari rumah perbudakan.
+Tuhan mengutus seorang nabi kepada mereka, yang berkata, “Inilah yang dikatakan Tuhan, Tuhan Israel: ‘Aku membawa kamu keluar dari Mesir, dari rumah perbudakan.
 
 ## Hakim-Hakim 6:9
 
@@ -40,7 +40,7 @@ Aku menyelamatkan kamu dari tangan orang Mesir dan dari semua penindasmu; Aku me
 
 ## Hakim-Hakim 6:10
 
-Aku berkata kepadamu, “Akulah Tuhan, Allahmu; jangan takut kepada dewa-dewa orang Amori, di tanah tempat kamu tinggal.” Tetapi kamu tidak mendengarkan Aku.’”
+Aku berkata kepadamu, “Akulah Tuhan, Tuhanmu; jangan takut kepada dewa-dewa orang Amori, di tanah tempat kamu tinggal.” Tetapi kamu tidak mendengarkan Aku.’”
 
 ---
 
@@ -106,7 +106,7 @@ Pada malam itu juga Tuhan berkata kepadanya, “Ambillah lembu jantan ayahmu dan
 
 ## Hakim-Hakim 6:26
 
-Kemudian bangunlah mezbah yang layak untuk Tuhan, Allahmu, di puncak tempat ini. Dengan kayu dari tiang Asyera yang engkau tebang, persembahkan lembu jantan kedua sebagai korban bakaran.”
+Kemudian bangunlah mezbah yang layak untuk Tuhan, Tuhanmu, di puncak tempat ini. Dengan kayu dari tiang Asyera yang engkau tebang, persembahkan lembu jantan kedua sebagai korban bakaran.”
 
 ## Hakim-Hakim 6:27
 

@@ -66,7 +66,7 @@ Tuhan semesta alam berfirman demikian:
 
 ## Hagai 1:12
 
-Maka Zerubabel bin Sealtiel, dan Yosua bin Yozadak, imam besar, beserta seluruh sisa bangsa itu, mendengarkan suara Tuhan, Allah mereka, dan perkataan nabi Hagai, seperti yang telah Tuhan, Allah mereka, utus kepadanya. Dan bangsa itu takut akan Tuhan.
+Maka Zerubabel bin Sealtiel, dan Yosua bin Yozadak, imam besar, beserta seluruh sisa bangsa itu, mendengarkan suara Tuhan, Tuhan mereka, dan perkataan nabi Hagai, seperti yang telah Tuhan, Tuhan mereka, utus kepadanya. Dan bangsa itu takut akan Tuhan.
 
 ## Hagai 1:13
 
@@ -78,7 +78,7 @@ demikianlah firman Tuhan."
 
 ## Hagai 1:14
 
-Maka Tuhan menggerakkan semangat Zerubabel bin Sealtiel, bupati Yehuda, dan semangat Yosua bin Yozadak, imam besar, dan semangat seluruh sisa bangsa itu; dan mereka datang dan mulai bekerja pada rumah Tuhan semesta alam, Allah mereka,
+Maka Tuhan menggerakkan semangat Zerubabel bin Sealtiel, bupati Yehuda, dan semangat Yosua bin Yozadak, imam besar, dan semangat seluruh sisa bangsa itu; dan mereka datang dan mulai bekerja pada rumah Tuhan semesta alam, Tuhan mereka,
 
 ## Hagai 1:15
 

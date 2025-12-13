@@ -22,7 +22,7 @@ Yesus berkata kepada mereka, “Karena kekerasan hatimu, ia menuliskan perintah 
 
 ## Markus 10:6
 
-Namun, sejak awal penciptaan, Allah menciptakan mereka laki-laki dan perempuan.
+Namun, sejak awal penciptaan, Tuhan menciptakan mereka laki-laki dan perempuan.
 
 ## Markus 10:7
 
@@ -34,7 +34,7 @@ dan keduanya akan menjadi satu daging; maka mereka bukan lagi dua, melainkan sat
 
 ## Markus 10:9
 
-Oleh karena itu, apa yang telah dipersatukan Allah, janganlah dipisahkan oleh manusia.”
+Oleh karena itu, apa yang telah dipersatukan Tuhan, janganlah dipisahkan oleh manusia.”
 
 ---
 
@@ -58,11 +58,11 @@ Orang-orang membawa anak-anak kecil kepada Yesus agar Ia menyentuh mereka, tetap
 
 ## Markus 10:14
 
-Ketika Yesus melihat hal ini, Ia marah dan berkata kepada mereka, “Biarkan anak-anak datang kepada-Ku; jangan menghalangi mereka, karena kerajaan Allah adalah milik orang-orang seperti ini.
+Ketika Yesus melihat hal ini, Ia marah dan berkata kepada mereka, “Biarkan anak-anak datang kepada-Ku; jangan menghalangi mereka, karena kerajaan Tuhan adalah milik orang-orang seperti ini.
 
 ## Markus 10:15
 
-Aku berkata kepadamu, siapa pun yang tidak menerima kerajaan Allah dengan hati seorang anak tidak akan pernah memasukinya.”
+Aku berkata kepadamu, siapa pun yang tidak menerima kerajaan Tuhan dengan hati seorang anak tidak akan pernah memasukinya.”
 
 ## Markus 10:16
 
@@ -76,7 +76,7 @@ Ketika Ia berangkat dalam perjalanan, seorang pria berlari kepada-Nya, berlutut 
 
 ## Markus 10:18
 
-Yesus menjawab, “Mengapa engkau menyebut Aku baik? Tidak ada yang baik kecuali Allah saja.
+Yesus menjawab, “Mengapa engkau menyebut Aku baik? Tidak ada yang baik kecuali Tuhan saja.
 
 ## Markus 10:19
 
@@ -88,7 +88,7 @@ Ia berkata kepada-Nya, “Guru, semua ini telah kuperhatikan sejak masa mudaku.�
 
 ## Markus 10:21
 
-Memandangnya, Yesus mengasihinya dan berkata, “Satu hal yang kurang padamu: pergilah, juallah semua yang engkau miliki dan berikan kepada orang miskin, dan engkau akan memiliki harta di surga; lalu datanglah, ikutlah Aku.”
+Memandangnya, Yesus mengasihinya dan berkata, “Satu hal yang kurang padamu: pergilah, juTuhan semua yang engkau miliki dan berikan kepada orang miskin, dan engkau akan memiliki harta di surga; lalu datanglah, ikutlah Aku.”
 
 ## Markus 10:22
 
@@ -98,15 +98,15 @@ Mendengar itu, wajah pria itu muram, dan ia pergi dengan sedih, karena ia memili
 
 ## Markus 10:23
 
-Yesus memandang sekeliling dan berkata kepada murid-murid-Nya, “Betapa sulitnya bagi mereka yang kaya untuk masuk ke dalam kerajaan Allah!”
+Yesus memandang sekeliling dan berkata kepada murid-murid-Nya, “Betapa sulitnya bagi mereka yang kaya untuk masuk ke dalam kerajaan Tuhan!”
 
 ## Markus 10:24
 
-Murid-murid terkejut mendengar perkataan-Nya. Tetapi Yesus berkata lagi, “Anak-anak, betapa sulitnya untuk masuk ke dalam kerajaan Allah!
+Murid-murid terkejut mendengar perkataan-Nya. Tetapi Yesus berkata lagi, “Anak-anak, betapa sulitnya untuk masuk ke dalam kerajaan Tuhan!
 
 ## Markus 10:25
 
-Lebih mudah bagi seekor unta untuk melewati lubang jarum daripada bagi orang kaya untuk masuk ke dalam kerajaan Allah.”
+Lebih mudah bagi seekor unta untuk melewati lubang jarum daripada bagi orang kaya untuk masuk ke dalam kerajaan Tuhan.”
 
 ## Markus 10:26
 
@@ -114,7 +114,7 @@ Mereka semakin heran dan berkata satu sama lain, “Kalau begitu, siapa yang dap
 
 ## Markus 10:27
 
-Yesus memandang mereka dan berkata, “Bagi manusia hal itu tidak mungkin, tetapi bukan bagi Allah; sebab bagi Allah segala sesuatu adalah mungkin.”
+Yesus memandang mereka dan berkata, “Bagi manusia hal itu tidak mungkin, tetapi bukan bagi Tuhan; sebab bagi Tuhan segala sesuatu adalah mungkin.”
 
 ---
 

@@ -1,67 +1,57 @@
 {
-    "book": "Mazmur",
-    "chapter": 87,
-    "verses": [
-        {
-            "text": [
-                "Mazmur keturunan Korah. Nyanyian."
-            ]
-        },
-        {
-            "verse": 1,
-            "text": [
-                "> Dasarnya didirikan di gunung-gunung yang kudus."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "> Tuhan mencintai pintu-pintu gerbang Sion",
-                "> Lebih dari semua tempat tinggal Yakub yang lain."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "> Hal-hal yang menakjubkan dinyatakan tentang engkau,",
-                "> Kota Allah.",
-                "> Sela"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "> “Aku akan menyebut Rahab dan Babel di antara mereka yang mengenal Aku;",
-                "> Lihatlah, Filistia dan Tirus dengan Kush:",
-                "> ‘Yang ini lahir di sana.’”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "> Namun tentang Sion akan dikatakan, “Yang ini dan yang itu lahir di dalamnya”;",
-                "> Dan Yang Mahatinggi sendiri akan menegakkannya."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "> Tuhan akan menghitung ketika Dia mencatat bangsa-bangsa:",
-                "> “Yang ini lahir di sana.”",
-                "> Sela"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "> Maka mereka yang menyanyi, bersama dengan mereka yang bermain seruling, akan menyatakan,",
-                "> “Semua sumber sukacitaku ada di dalammu.”"
-            ]
-        }
-    ]
+  "book": "Mazmur",
+  "chapter": 87,
+  "verses": [
+    {
+      "text": ["Mazmur keturunan Korah. Nyanyian."]
+    },
+    {
+      "verse": 1,
+      "text": ["> Dasarnya didirikan di gunung-gunung yang kudus."]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "> Tuhan mencintai pintu-pintu gerbang Sion",
+        "> Lebih dari semua tempat tinggal Yakub yang lain."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": ["> Hal-hal yang menakjubkan dinyatakan tentang engkau,", "> Kota Tuhan.", "> Sela"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "> “Aku akan menyebut Rahab dan Babel di antara mereka yang mengenal Aku;",
+        "> Lihatlah, Filistia dan Tirus dengan Kush:",
+        "> ‘Yang ini lahir di sana.’”"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "> Namun tentang Sion akan dikatakan, “Yang ini dan yang itu lahir di dalamnya”;",
+        "> Dan Yang Mahatinggi sendiri akan menegakkannya."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "> Tuhan akan menghitung ketika Dia mencatat bangsa-bangsa:",
+        "> “Yang ini lahir di sana.”",
+        "> Sela"
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "> Maka mereka yang menyanyi, bersama dengan mereka yang bermain seruling, akan menyatakan,",
+        "> “Semua sumber sukacitaku ada di dalammu.”"
+      ]
+    }
+  ]
 }

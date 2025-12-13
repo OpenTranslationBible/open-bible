@@ -20,11 +20,11 @@
 ## Mazmur 96:4
 
 > Sebab Tuhan itu besar dan sangat terpuji;  
-> Ia harus ditakuti lebih dari semua allah.
+> Ia harus ditakuti lebih dari semua Tuhan.
 
 ## Mazmur 96:5
 
-> Sebab semua allah bangsa-bangsa adalah berhala,  
+> Sebab semua Tuhan bangsa-bangsa adalah berhala,  
 > Tetapi Tuhanlah yang menjadikan langit.
 
 ## Mazmur 96:6

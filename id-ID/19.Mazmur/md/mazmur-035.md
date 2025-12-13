@@ -130,11 +130,11 @@
 ## Mazmur 35:23
 
 > Bangkitlah, dan bangunlah untuk membela hakku  
-> Dan untuk perkaraku, ya Allahku dan Tuhanku.
+> Dan untuk perkaraku, ya Tuhanku dan Tuhanku.
 
 ## Mazmur 35:24
 
-> Hakimilah aku, Tuhan Allahku, menurut kebenaran-Mu,  
+> Hakimilah aku, Tuhan Tuhanku, menurut kebenaran-Mu,  
 > Dan cegahlah mereka dari bersukacita atas aku.
 
 ---

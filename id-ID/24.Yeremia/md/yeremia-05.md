@@ -14,11 +14,11 @@ Tuhan, bukankah mata-Mu mencari kebenaran? Engkau memukul mereka, namun mereka t
 
 ## Yeremia 5:4
 
-Aku berpikir, "Ini hanya orang-orang miskin; mereka bodoh, karena mereka tidak tahu jalan Tuhan, hukum Allah mereka.
+Aku berpikir, "Ini hanya orang-orang miskin; mereka bodoh, karena mereka tidak tahu jalan Tuhan, hukum Tuhan mereka.
 
 ## Yeremia 5:5
 
-Aku akan pergi kepada orang-orang besar dan berbicara kepada mereka, karena mereka pasti tahu jalan Tuhan, hukum Allah mereka." Tetapi mereka juga telah memutuskan kuk dan memutuskan ikatan.
+Aku akan pergi kepada orang-orang besar dan berbicara kepada mereka, karena mereka pasti tahu jalan Tuhan, hukum Tuhan mereka." Tetapi mereka juga telah memutuskan kuk dan memutuskan ikatan.
 
 ## Yeremia 5:6
 
@@ -26,7 +26,7 @@ Oleh karena itu, seekor singa dari hutan akan membunuh mereka, seekor serigala d
 
 ## Yeremia 5:7
 
-"Mengapa Aku harus mengampuni kamu? Anak-anakmu telah meninggalkan Aku dan bersumpah demi mereka yang bukan allah. Aku menyediakan untuk mereka, namun mereka berzina dan berkerumun ke rumah-rumah pelacur.
+"Mengapa Aku harus mengampuni kamu? Anak-anakmu telah meninggalkan Aku dan bersumpah demi mereka yang bukan Tuhan. Aku menyediakan untuk mereka, namun mereka berzina dan berkerumun ke rumah-rumah pelacur.
 
 ## Yeremia 5:8
 
@@ -54,7 +54,7 @@ Para nabi hanyalah angin, dan firman itu tidak ada pada mereka; demikianlah yang
 
 ## Yeremia 5:14
 
-Oleh karena itu, inilah yang dikatakan Tuhan Allah Semesta Alam: "Karena kamu telah mengucapkan kata ini, Aku akan membuat firman-Ku dalam mulutmu menjadi api dan bangsa ini kayu, dan itu akan menghabisi mereka.
+Oleh karena itu, inilah yang dikatakan Tuhan Tuhan Semesta Alam: "Karena kamu telah mengucapkan kata ini, Aku akan membuat firman-Ku dalam mulutmu menjadi api dan bangsa ini kayu, dan itu akan menghabisi mereka.
 
 ## Yeremia 5:15
 
@@ -74,7 +74,7 @@ Mereka akan menghabisi hasil panenmu dan makananmu; mereka akan memakan habis an
 
 ## Yeremia 5:19
 
-Dan ketika orang-orang bertanya, 'Mengapa Tuhan Allah kita melakukan semua ini kepada kita?' kamu harus mengatakan kepada mereka, 'Karena kamu telah meninggalkan Aku dan menyembah allah asing di tanahmu sendiri, maka kamu akan melayani orang asing di tanah yang bukan milikmu.'
+Dan ketika orang-orang bertanya, 'Mengapa Tuhan Tuhan kita melakukan semua ini kepada kita?' kamu harus mengatakan kepada mereka, 'Karena kamu telah meninggalkan Aku dan menyembah Tuhan asing di tanahmu sendiri, maka kamu akan melayani orang asing di tanah yang bukan milikmu.'
 
 ## Yeremia 5:20
 
@@ -94,7 +94,7 @@ Tetapi bangsa ini memiliki hati yang keras kepala dan memberontak; mereka telah 
 
 ## Yeremia 5:24
 
-Mereka tidak berkata dalam hati mereka, 'Marilah kita takut kepada Tuhan Allah kita, yang memberikan hujan musim gugur dan musim semi pada waktunya, yang menjamin kita minggu-minggu panen yang teratur.'
+Mereka tidak berkata dalam hati mereka, 'Marilah kita takut kepada Tuhan Tuhan kita, yang memberikan hujan musim gugur dan musim semi pada waktunya, yang menjamin kita minggu-minggu panen yang teratur.'
 
 ## Yeremia 5:25
 

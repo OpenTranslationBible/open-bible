@@ -56,7 +56,7 @@ Kemudian Yoram menyeberang dengan para komandannya dan semua keretanya, dan dia 
 
 ## 2 Tawarikh 21:10
 
-Jadi Edom memberontak melawan Yehuda hingga hari ini. Kemudian Libna juga memberontak pada waktu itu dari kekuasaannya, karena dia telah meninggalkan Tuhan, Allah nenek moyangnya.
+Jadi Edom memberontak melawan Yehuda hingga hari ini. Kemudian Libna juga memberontak pada waktu itu dari kekuasaannya, karena dia telah meninggalkan Tuhan, Tuhan nenek moyangnya.
 
 ---
 
@@ -69,7 +69,7 @@ Selain itu, dia membuat tempat-tempat tinggi di pegunungan Yehuda, dan menyebabk
 ## 2 Tawarikh 21:12
 
 Kemudian, sebuah pesan datang kepadanya dari nabi Elia, yang menyatakan,  
-“Inilah yang dinyatakan Tuhan, Allah nenek moyangmu Daud:  
+“Inilah yang dinyatakan Tuhan, Tuhan nenek moyangmu Daud:  
 ‘Karena engkau tidak mengikuti jalan ayahmu Yosafat dan jalan Asa raja Yehuda,
 
 ---

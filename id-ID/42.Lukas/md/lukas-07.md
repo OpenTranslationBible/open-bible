@@ -64,7 +64,7 @@ Orang yang telah mati itu duduk dan mulai berbicara, dan Yesus menyerahkannya ke
 
 ## Lukas 7:16
 
-Mereka semua dipenuhi dengan rasa kagum dan memuliakan Allah. “Seorang nabi besar telah muncul di antara kita,” kata mereka. “Allah telah mengunjungi umat-Nya.”
+Mereka semua dipenuhi dengan rasa kagum dan memuliakan Tuhan. “Seorang nabi besar telah muncul di antara kita,” kata mereka. “Tuhan telah mengunjungi umat-Nya.”
 
 ## Lukas 7:17
 
@@ -119,15 +119,15 @@ Inilah dia yang tentangnya ada tertulis:
 
 ## Lukas 7:28
 
-Aku berkata kepadamu, di antara mereka yang dilahirkan oleh wanita tidak ada seorang pun yang lebih besar dari Yohanes; namun bahkan yang paling kecil dalam kerajaan Allah lebih besar dari dia.”
+Aku berkata kepadamu, di antara mereka yang dilahirkan oleh wanita tidak ada seorang pun yang lebih besar dari Yohanes; namun bahkan yang paling kecil dalam kerajaan Tuhan lebih besar dari dia.”
 
 ## Lukas 7:29
 
-(Semua orang, termasuk para pemungut cukai, ketika mereka mendengar kata-kata Yesus, mengakui keadilan Allah, setelah dibaptis oleh Yohanes.
+(Semua orang, termasuk para pemungut cukai, ketika mereka mendengar kata-kata Yesus, mengakui keadilan Tuhan, setelah dibaptis oleh Yohanes.
 
 ## Lukas 7:30
 
-Tetapi orang-orang Farisi dan ahli-ahli Taurat menolak maksud Allah untuk mereka, karena tidak dibaptis oleh Yohanes.)
+Tetapi orang-orang Farisi dan ahli-ahli Taurat menolak maksud Tuhan untuk mereka, karena tidak dibaptis oleh Yohanes.)
 
 ---
 

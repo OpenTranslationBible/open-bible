@@ -10,7 +10,7 @@
 ## Hosea 8:2
 
 > Mereka berseru kepada-Ku,  
-> “Ya Allah, kami orang Israel mengenal Engkau!”
+> “Ya Tuhan, kami orang Israel mengenal Engkau!”
 
 ## Hosea 8:3
 
@@ -33,7 +33,7 @@
 ## Hosea 8:6
 
 > Karena dari Israel datang bahkan ini!  
-> Seorang pengrajin membuatnya, jadi itu bukan Allah;  
+> Seorang pengrajin membuatnya, jadi itu bukan Tuhan;  
 > Pastilah anak lembu Samaria akan dihancurkan.
 
 ## Hosea 8:7

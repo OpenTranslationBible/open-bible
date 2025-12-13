@@ -28,7 +28,7 @@ Kemudian semua pemimpin Sikhem dan Bet-Milo berkumpul bersama dan menjadikan Abi
 
 ## Hakim-Hakim 9:7
 
-Ketika Yotam diberitahu, dia pergi dan berdiri di puncak Gunung Gerizim dan berteriak kepada mereka, "Dengarkan aku, pemimpin-pemimpin Sikhem, agar Allah mendengarkan kamu.
+Ketika Yotam diberitahu, dia pergi dan berdiri di puncak Gunung Gerizim dan berteriak kepada mereka, "Dengarkan aku, pemimpin-pemimpin Sikhem, agar Tuhan mendengarkan kamu.
 
 ## Hakim-Hakim 9:8
 
@@ -92,7 +92,7 @@ Abimelekh memerintah Israel selama tiga tahun.
 
 ## Hakim-Hakim 9:23
 
-Kemudian Allah mengirimkan roh perselisihan antara Abimelekh dan pemimpin-pemimpin Sikhem, dan pemimpin-pemimpin Sikhem berkhianat terhadap Abimelekh,
+Kemudian Tuhan mengirimkan roh perselisihan antara Abimelekh dan pemimpin-pemimpin Sikhem, dan pemimpin-pemimpin Sikhem berkhianat terhadap Abimelekh,
 
 ## Hakim-Hakim 9:24
 
@@ -224,8 +224,8 @@ Ketika orang-orang Israel melihat bahwa Abimelekh sudah mati, mereka masing-masi
 
 ## Hakim-Hakim 9:56
 
-Demikianlah Allah membalas kejahatan yang dilakukan Abimelekh kepada ayahnya dengan membunuh tujuh puluh saudaranya.
+Demikianlah Tuhan membalas kejahatan yang dilakukan Abimelekh kepada ayahnya dengan membunuh tujuh puluh saudaranya.
 
 ## Hakim-Hakim 9:57
 
-Allah juga mengembalikan semua kejahatan orang-orang Sikhem ke atas kepala mereka, dan kutukan Yotam, anak Yerubaal, menimpa mereka.
+Tuhan juga mengembalikan semua kejahatan orang-orang Sikhem ke atas kepala mereka, dan kutukan Yotam, anak Yerubaal, menimpa mereka.

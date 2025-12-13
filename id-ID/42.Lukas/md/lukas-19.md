@@ -44,7 +44,7 @@ Karena Anak Manusia datang untuk mencari dan menyelamatkan yang hilang."
 
 ## Lukas 19:11
 
-Ketika mereka mendengarkan ini, dia melanjutkan untuk menceritakan sebuah perumpamaan kepada mereka, karena dia dekat dengan Yerusalem dan mereka mengira kerajaan Allah akan segera muncul.
+Ketika mereka mendengarkan ini, dia melanjutkan untuk menceritakan sebuah perumpamaan kepada mereka, karena dia dekat dengan Yerusalem dan mereka mengira kerajaan Tuhan akan segera muncul.
 
 ## Lukas 19:12
 
@@ -150,7 +150,7 @@ Saat dia melanjutkan perjalanan, orang-orang menghamparkan jubah mereka di jalan
 
 ## Lukas 19:37
 
-Ketika dia mendekati tempat di mana jalan menurun dari Gunung Zaitun, seluruh kerumunan murid mulai memuji Allah dengan sukacita dengan suara keras untuk semua mukjizat yang telah mereka lihat,
+Ketika dia mendekati tempat di mana jalan menurun dari Gunung Zaitun, seluruh kerumunan murid mulai memuji Tuhan dengan sukacita dengan suara keras untuk semua mukjizat yang telah mereka lihat,
 
 ## Lukas 19:38
 
@@ -180,7 +180,7 @@ Hari-hari akan datang kepadamu ketika musuh-musuhmu akan membangun barikade mela
 
 ## Lukas 19:44
 
-Mereka akan meratakanmu dengan tanah, kamu dan anak-anakmu di dalam tembokmu. Mereka tidak akan meninggalkan satu batu pun di atas batu yang lain, karena kamu tidak mengenali saat kunjungan Allah kepadamu."
+Mereka akan meratakanmu dengan tanah, kamu dan anak-anakmu di dalam tembokmu. Mereka tidak akan meninggalkan satu batu pun di atas batu yang lain, karena kamu tidak mengenali saat kunjungan Tuhan kepadamu."
 
 ---
 

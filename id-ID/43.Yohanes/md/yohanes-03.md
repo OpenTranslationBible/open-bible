@@ -6,11 +6,11 @@ Ada seorang Farisi bernama Nikodemus, seorang anggota dewan penguasa Yahudi.
 
 ## Yohanes 3:2
 
-Ia datang kepada Yesus pada malam hari dan berkata kepada-Nya, “Rabi, kami tahu bahwa Engkau adalah seorang guru yang datang dari Allah; sebab tidak ada seorang pun yang dapat melakukan tanda-tanda ini yang Engkau lakukan, kecuali Allah menyertai dia.”
+Ia datang kepada Yesus pada malam hari dan berkata kepada-Nya, “Rabi, kami tahu bahwa Engkau adalah seorang guru yang datang dari Tuhan; sebab tidak ada seorang pun yang dapat melakukan tanda-tanda ini yang Engkau lakukan, kecuali Tuhan menyertai dia.”
 
 ## Yohanes 3:3
 
-Yesus menjawab, “Sesungguhnya, sesungguhnya, Aku berkata kepadamu, tidak ada seorang pun yang dapat melihat kerajaan Allah kecuali mereka dilahirkan kembali.”
+Yesus menjawab, “Sesungguhnya, sesungguhnya, Aku berkata kepadamu, tidak ada seorang pun yang dapat melihat kerajaan Tuhan kecuali mereka dilahirkan kembali.”
 
 ## Yohanes 3:4
 
@@ -18,7 +18,7 @@ Nikodemus bertanya, “Bagaimana mungkin seseorang dilahirkan ketika mereka suda
 
 ## Yohanes 3:5
 
-Yesus menjawab, “Sesungguhnya, sesungguhnya, Aku berkata kepadamu, kecuali seseorang dilahirkan dari air dan Roh, mereka tidak dapat masuk ke dalam kerajaan Allah.
+Yesus menjawab, “Sesungguhnya, sesungguhnya, Aku berkata kepadamu, kecuali seseorang dilahirkan dari air dan Roh, mereka tidak dapat masuk ke dalam kerajaan Tuhan.
 
 ## Yohanes 3:6
 
@@ -66,15 +66,15 @@ supaya setiap orang yang percaya dapat memiliki hidup yang kekal melalui Dia.
 
 ## Yohanes 3:16
 
-Karena Allah begitu mengasihi dunia ini sehingga Ia memberikan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa melainkan beroleh hidup yang kekal.
+Karena Tuhan begitu mengasihi dunia ini sehingga Ia memberikan Anak-Nya yang tunggal, supaya setiap orang yang percaya kepada-Nya tidak binasa melainkan beroleh hidup yang kekal.
 
 ## Yohanes 3:17
 
-Karena Allah tidak mengutus Anak-Nya ke dalam dunia untuk menghakimi dunia, melainkan untuk menyelamatkan dunia melalui Dia.
+Karena Tuhan tidak mengutus Anak-Nya ke dalam dunia untuk menghakimi dunia, melainkan untuk menyelamatkan dunia melalui Dia.
 
 ## Yohanes 3:18
 
-Barangsiapa percaya kepada-Nya tidak dihukum, tetapi barangsiapa tidak percaya sudah dihukum karena mereka tidak percaya dalam nama Anak tunggal Allah.
+Barangsiapa percaya kepada-Nya tidak dihukum, tetapi barangsiapa tidak percaya sudah dihukum karena mereka tidak percaya dalam nama Anak tunggal Tuhan.
 
 ## Yohanes 3:19
 
@@ -86,7 +86,7 @@ Mereka yang melakukan kejahatan menghindari terang, karena takut perbuatan merek
 
 ## Yohanes 3:21
 
-Tetapi barangsiapa melakukan kebenaran datang kepada terang, supaya menjadi nyata bahwa apa yang mereka lakukan telah dilakukan di hadapan Allah.
+Tetapi barangsiapa melakukan kebenaran datang kepada terang, supaya menjadi nyata bahwa apa yang mereka lakukan telah dilakukan di hadapan Tuhan.
 
 ---
 
@@ -140,11 +140,11 @@ Ia memberikan kesaksian tentang apa yang telah Ia lihat dan dengar, tetapi kesak
 
 ## Yohanes 3:33
 
-Barangsiapa menerima kesaksian-Nya telah mengesahkan bahwa Allah itu benar.
+Barangsiapa menerima kesaksian-Nya telah mengesahkan bahwa Tuhan itu benar.
 
 ## Yohanes 3:34
 
-Karena Dia yang diutus Allah berbicara kata-kata Allah, karena Allah memberikan Roh tanpa batas.
+Karena Dia yang diutus Tuhan berbicara kata-kata Tuhan, karena Tuhan memberikan Roh tanpa batas.
 
 ## Yohanes 3:35
 
@@ -152,4 +152,4 @@ Bapa mengasihi Anak dan telah mempercayakan segala sesuatu ke dalam tangan-Nya.
 
 ## Yohanes 3:36
 
-Barangsiapa percaya kepada Anak memiliki hidup yang kekal, tetapi barangsiapa menolak Anak tidak akan melihat hidup, karena ketidaksenangan Allah tetap ada pada mereka.
+Barangsiapa percaya kepada Anak memiliki hidup yang kekal, tetapi barangsiapa menolak Anak tidak akan melihat hidup, karena ketidaksenangan Tuhan tetap ada pada mereka.

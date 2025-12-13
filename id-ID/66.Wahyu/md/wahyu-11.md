@@ -2,7 +2,7 @@
 
 ## Wahyu 11:1
 
-Aku diberi sebatang buluh seperti tongkat pengukur dan dikatakan kepadaku, “Bangunlah dan ukurlah Bait Suci Allah dan mezbah, serta mereka yang beribadah di sana.
+Aku diberi sebatang buluh seperti tongkat pengukur dan dikatakan kepadaku, “Bangunlah dan ukurlah Bait Suci Tuhan dan mezbah, serta mereka yang beribadah di sana.
 
 ## Wahyu 11:2
 
@@ -42,7 +42,7 @@ Penduduk bumi akan bersukacita atas mereka dan bersenang-senang, saling mengirim
 
 ## Wahyu 11:11
 
-Setelah tiga setengah hari, roh kehidupan dari Allah masuk ke dalam mereka, dan mereka berdiri di atas kaki mereka, dan ketakutan besar melanda mereka yang melihatnya.
+Setelah tiga setengah hari, roh kehidupan dari Tuhan masuk ke dalam mereka, dan mereka berdiri di atas kaki mereka, dan ketakutan besar melanda mereka yang melihatnya.
 
 ## Wahyu 11:12
 
@@ -50,7 +50,7 @@ Kemudian mereka mendengar suara nyaring dari surga yang berkata kepada mereka, �
 
 ## Wahyu 11:13
 
-Pada saat itu, terjadilah gempa bumi yang besar, dan sepersepuluh dari kota itu runtuh. Tujuh ribu orang terbunuh dalam gempa bumi itu, dan orang-orang yang selamat menjadi sangat ketakutan dan memuliakan Allah di surga.
+Pada saat itu, terjadilah gempa bumi yang besar, dan sepersepuluh dari kota itu runtuh. Tujuh ribu orang terbunuh dalam gempa bumi itu, dan orang-orang yang selamat menjadi sangat ketakutan dan memuliakan Tuhan di surga.
 
 ## Wahyu 11:14
 
@@ -66,13 +66,13 @@ Malaikat ketujuh meniup sangkakalanya, dan terdengarlah suara-suara nyaring di s
 
 ## Wahyu 11:16
 
-Dan kedua puluh empat tua-tua, yang duduk di atas takhta mereka di hadapan Allah, tersungkur dan menyembah Allah,
+Dan kedua puluh empat tua-tua, yang duduk di atas takhta mereka di hadapan Tuhan, tersungkur dan menyembah Tuhan,
 
 ## Wahyu 11:17
 
 Mereka berkata,
 
-> “Kami mengucap syukur kepada-Mu, Tuhan Allah Yang Mahakuasa,
+> “Kami mengucap syukur kepada-Mu, Tuhan Tuhan Yang Mahakuasa,
 > yang ada dan yang sudah ada,
 > karena Engkau telah mengambil kuasa besar-Mu
 > dan telah mulai memerintah.
@@ -89,4 +89,4 @@ Mereka berkata,
 
 ## Wahyu 11:19
 
-Kemudian Bait Suci Allah di surga terbuka, dan kelihatanlah tabut perjanjian-Nya di dalam Bait Suci-Nya. Terjadilah kilat, suara gemuruh, guntur, gempa bumi, dan hujan es yang besar.
+Kemudian Bait Suci Tuhan di surga terbuka, dan kelihatanlah tabut perjanjian-Nya di dalam Bait Suci-Nya. Terjadilah kilat, suara gemuruh, guntur, gempa bumi, dan hujan es yang besar.

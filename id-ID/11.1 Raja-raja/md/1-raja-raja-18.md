@@ -50,7 +50,7 @@ Tetapi dia berkata,
 
 ## 1 Raja-raja 18:10
 
-Demi Tuhan Allahmu yang hidup,  
+Demi Tuhan Tuhanmu yang hidup,  
 tidak ada bangsa atau kerajaan di mana tuanku tidak mengirim untuk mencarimu;  
 dan ketika mereka berkata, 'Dia tidak ada di sini,'  
 dia membuat kerajaan atau bangsa bersumpah bahwa mereka tidak dapat menemukanmu.
@@ -120,7 +120,7 @@ dan mengumpulkan para nabi bersama di Gunung Karmel.
 
 Kemudian Elia mendekati semua orang dan berkata,  
 "Berapa lama kamu akan bimbang di antara dua pendapat?  
-Jika Tuhan adalah Allah, ikutilah Dia; tetapi jika Baal, ikutilah dia."  
+Jika Tuhan adalah Tuhan, ikutilah Dia; tetapi jika Baal, ikutilah dia."  
 Tetapi orang-orang tidak menjawabnya sepatah kata pun.
 
 ## 1 Raja-raja 18:22
@@ -138,7 +138,7 @@ dan aku akan menyiapkan lembu jantan yang lain dan meletakkannya di atas kayu, d
 ## 1 Raja-raja 18:24
 
 Kemudian kamu memanggil nama dewa-mu, dan aku akan memanggil nama Tuhan;  
-dan Allah yang menjawab dengan api, Dialah Allah."  
+dan Tuhan yang menjawab dengan api, Dialah Tuhan."  
 Dan semua orang menjawab, "Itu usulan yang baik."
 
 ## 1 Raja-raja 18:25
@@ -213,14 +213,14 @@ dan dia juga memenuhi parit dengan air.
 
 Kemudian pada waktu persembahan korban petang,  
 Elia sang nabi mendekat dan berkata,  
-"Ya Tuhan, Allah Abraham, Ishak, dan Israel,  
-hari ini biarlah diketahui bahwa Engkau adalah Allah di Israel  
+"Ya Tuhan, Tuhan Abraham, Ishak, dan Israel,  
+hari ini biarlah diketahui bahwa Engkau adalah Tuhan di Israel  
 dan bahwa aku adalah hamba-Mu, dan bahwa aku telah melakukan semua hal ini atas firman-Mu.
 
 ## 1 Raja-raja 18:37
 
 Dengarkanlah aku, Tuhan, dengarkanlah aku,  
-supaya orang-orang ini tahu bahwa Engkau, Tuhan, adalah Allah,  
+supaya orang-orang ini tahu bahwa Engkau, Tuhan, adalah Tuhan,  
 dan bahwa Engkau telah membalikkan hati mereka kembali."
 
 ## 1 Raja-raja 18:38
@@ -233,7 +233,7 @@ dan menjilat air yang ada di parit.
 
 Ketika semua orang menyaksikan ini, mereka sujud;  
 dan mereka berkata,  
-"Tuhan, Dialah Allah; Tuhan, Dialah Allah!"
+"Tuhan, Dialah Tuhan; Tuhan, Dialah Tuhan!"
 
 ## 1 Raja-raja 18:40
 

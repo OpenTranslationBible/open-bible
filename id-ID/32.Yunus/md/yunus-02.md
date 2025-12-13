@@ -2,7 +2,7 @@
 
 ## Yunus 2:1
 
-Yunus berdoa kepada Tuhan, Allahnya, dari dalam perut ikan,
+Yunus berdoa kepada Tuhan, Tuhannya, dari dalam perut ikan,
 
 ## Yunus 2:2
 
@@ -35,7 +35,7 @@ katanya,
 
 > Aku tenggelam ke dasar gunung;
 > bumi dengan palangnya menutupiku selamanya.
-> Namun Engkau, Tuhan Allahku, mengangkat hidupku dari lubang.
+> Namun Engkau, Tuhan Tuhanku, mengangkat hidupku dari lubang.
 
 ## Yunus 2:7
 

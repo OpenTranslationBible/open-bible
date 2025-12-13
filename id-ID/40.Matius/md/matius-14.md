@@ -140,7 +140,7 @@ Ketika mereka naik ke perahu, angin pun reda.
 
 ## Matius 14:33
 
-Lalu mereka yang ada di perahu menyembah-Nya, berkata, “Sesungguhnya Engkau adalah Anak Allah.”
+Lalu mereka yang ada di perahu menyembah-Nya, berkata, “Sesungguhnya Engkau adalah Anak Tuhan.”
 
 ---
 

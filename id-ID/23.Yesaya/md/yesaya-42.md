@@ -18,7 +18,7 @@ Ia tidak akan menjadi pudar dan tidak akan patah semangat, sampai ia menegakkan 
 
 ## Yesaya 42:5
 
-Beginilah firman Allah Tuhan, yang menciptakan langit dan membentangkannya, yang menghamparkan bumi dengan segala yang tumbuh di atasnya, yang memberikan nafas kepada umat manusia di atasnya dan roh kepada mereka yang berjalan di atasnya:
+Beginilah firman Tuhan Tuhan, yang menciptakan langit dan membentangkannya, yang menghamparkan bumi dengan segala yang tumbuh di atasnya, yang memberikan nafas kepada umat manusia di atasnya dan roh kepada mereka yang berjalan di atasnya:
 
 ## Yesaya 42:6
 
@@ -66,7 +66,7 @@ Aku akan menuntun orang buta di jalan yang tidak mereka kenal, di jalan yang tid
 
 ## Yesaya 42:17
 
-Mereka akan berbalik dan sangat malu, mereka yang percaya kepada patung-patung berhala, yang berkata kepada patung-patung tuangan, 'Kamu adalah allah kami.'
+Mereka akan berbalik dan sangat malu, mereka yang percaya kepada patung-patung berhala, yang berkata kepada patung-patung tuangan, 'Kamu adalah Tuhan kami.'
 
 ## Yesaya 42:18
 

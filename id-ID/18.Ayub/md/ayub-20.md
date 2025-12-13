@@ -77,7 +77,7 @@ Zofar, orang Naama, menjawab,
 
 > Ia menelan kekayaan,
 > tetapi akan memuntahkannya;
-> Allah akan memaksanya keluar dari perutnya.
+> Tuhan akan memaksanya keluar dari perutnya.
 
 ## Ayub 20:16
 
@@ -116,7 +116,7 @@ Zofar, orang Naama, menjawab,
 
 ## Ayub 20:23
 
-> Ketika ia telah mengisi perutnya, Allah akan melepaskan kemarahan-Nya yang hebat kepadanya
+> Ketika ia telah mengisi perutnya, Tuhan akan melepaskan kemarahan-Nya yang hebat kepadanya
 > dan menurunkannya saat ia makan.
 
 ## Ayub 20:24
@@ -144,9 +144,9 @@ Zofar, orang Naama, menjawab,
 ## Ayub 20:28
 
 > Peningkatan rumahnya akan mengalir pergi;
-> harta bendanya akan lenyap pada hari murka Allah.
+> harta bendanya akan lenyap pada hari murka Tuhan.
 
 ## Ayub 20:29
 
-> Inilah bagian yang ditentukan oleh Allah bagi orang fasik,
-> warisan yang ditetapkan baginya oleh Allah."
+> Inilah bagian yang ditentukan oleh Tuhan bagi orang fasik,
+> warisan yang ditetapkan baginya oleh Tuhan."

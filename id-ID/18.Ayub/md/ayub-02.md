@@ -2,7 +2,7 @@
 
 ## Ayub 2:1
 
-Pada suatu hari, anak-anak Allah datang untuk menghadap Tuhan, dan Iblis juga datang di antara mereka untuk menghadap Tuhan.
+Pada suatu hari, anak-anak Tuhan datang untuk menghadap Tuhan, dan Iblis juga datang di antara mereka untuk menghadap Tuhan.
 
 ## Ayub 2:2
 
@@ -16,7 +16,7 @@ Iblis menjawab Tuhan, "Dari berkeliling di bumi dan berjalan mondar-mandir di at
 
 ## Ayub 2:3
 
-Kemudian Tuhan berkata kepada Iblis, "Apakah engkau memperhatikan hamba-Ku Ayub? Tidak ada seorang pun seperti dia di bumi; dia adalah orang yang tidak bercela dan jujur, seorang yang takut akan Allah dan menjauhi kejahatan. Dan dia masih memegang teguh integritasnya, meskipun engkau menghasut Aku melawannya untuk menghancurkannya tanpa alasan."
+Kemudian Tuhan berkata kepada Iblis, "Apakah engkau memperhatikan hamba-Ku Ayub? Tidak ada seorang pun seperti dia di bumi; dia adalah orang yang tidak bercela dan jujur, seorang yang takut akan Tuhan dan menjauhi kejahatan. Dan dia masih memegang teguh integritasnya, meskipun engkau menghasut Aku melawannya untuk menghancurkannya tanpa alasan."
 
 ## Ayub 2:4
 
@@ -42,11 +42,11 @@ Kemudian Ayub mengambil sepotong beling untuk menggaruk dirinya saat dia duduk d
 
 ## Ayub 2:9
 
-Istrinya berkata kepadanya, "Apakah engkau masih memegang teguh integritasmu? Kutukilah Allah dan matilah!"
+Istrinya berkata kepadanya, "Apakah engkau masih memegang teguh integritasmu? Kutukilah Tuhan dan matilah!"
 
 ## Ayub 2:10
 
-Dia menjawab, "Engkau berbicara seperti salah satu perempuan bodoh. Apakah kita akan menerima yang baik dari Allah, dan tidak kesusahan?" Dalam semua ini, Ayub tidak berdosa dengan bibirnya.
+Dia menjawab, "Engkau berbicara seperti salah satu perempuan bodoh. Apakah kita akan menerima yang baik dari Tuhan, dan tidak kesusahan?" Dalam semua ini, Ayub tidak berdosa dengan bibirnya.
 
 ## Ayub 2:11
 

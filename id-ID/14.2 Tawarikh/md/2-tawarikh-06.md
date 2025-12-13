@@ -24,7 +24,7 @@ sementara seluruh jemaah Israel berdiri.
 ## 2 Tawarikh 6:4
 
 Dia memproklamirkan,  
-"Terpujilah Tuhan, Allah Israel,  
+"Terpujilah Tuhan, Tuhan Israel,  
 yang berbicara kepada ayahku Daud,  
 dan telah menyelesaikannya dengan tangan-Nya, dengan mengatakan,
 
@@ -49,7 +49,7 @@ dan Aku telah memilih Daud untuk memimpin umat-Ku Israel.'
 ## 2 Tawarikh 6:7
 
 Itu ada di hati ayahku Daud  
-untuk membangun sebuah rumah bagi nama Tuhan, Allah Israel.
+untuk membangun sebuah rumah bagi nama Tuhan, Tuhan Israel.
 
 ---
 
@@ -74,7 +74,7 @@ dialah yang akan membangun rumah itu bagi nama-Ku.'
 Sekarang Tuhan telah memenuhi firman-Nya yang Dia ucapkan;  
 karena aku telah bangkit menggantikan ayahku Daud dan duduk di atas takhta Israel,  
 seperti yang dijanjikan Tuhan,  
-dan aku telah membangun rumah bagi nama Tuhan, Allah Israel.
+dan aku telah membangun rumah bagi nama Tuhan, Tuhan Israel.
 
 ---
 
@@ -108,7 +108,7 @@ dan mengulurkan tangannya ke arah langit.
 ## 2 Tawarikh 6:14
 
 Dia berkata,  
-"Tuhan, Allah Israel, tidak ada allah seperti Engkau di surga atau di bumi,  
+"Tuhan, Tuhan Israel, tidak ada Tuhan seperti Engkau di surga atau di bumi,  
 yang memegang perjanjian-Mu dan kesetiaan-Mu kepada hamba-hamba-Mu yang berjalan di hadapan-Mu dengan segenap hati mereka—
 
 ---
@@ -122,7 +122,7 @@ Engkau telah berbicara dengan mulut-Mu dan telah memenuhinya dengan tangan-Mu, s
 
 ## 2 Tawarikh 6:16
 
-Sekarang, Tuhan, Allah Israel, peganglah untuk hamba-Mu, ayahku Daud,  
+Sekarang, Tuhan, Tuhan Israel, peganglah untuk hamba-Mu, ayahku Daud,  
 apa yang telah Engkau janjikan kepadanya, dengan mengatakan,  
 'Engkau tidak akan kekurangan seorang laki-laki untuk duduk di atas takhta Israel,  
 jika hanya anak-anakmu menjaga jalan mereka,  
@@ -132,13 +132,13 @@ untuk berjalan dalam Hukum-Ku seperti engkau telah berjalan di hadapan-Ku.'
 
 ## 2 Tawarikh 6:17
 
-Sekarang, Tuhan, Allah Israel, biarlah firman-Mu yang telah Engkau ucapkan kepada hamba-Mu Daud diteguhkan.
+Sekarang, Tuhan, Tuhan Israel, biarlah firman-Mu yang telah Engkau ucapkan kepada hamba-Mu Daud diteguhkan.
 
 ---
 
 ## 2 Tawarikh 6:18
 
-Tetapi akankah Allah benar-benar berdiam dengan manusia di bumi?  
+Tetapi akankah Tuhan benar-benar berdiam dengan manusia di bumi?  
 Lihatlah, langit dan langit tertinggi tidak dapat menampung Engkau;  
 apalagi rumah ini yang telah aku bangun!
 
@@ -146,7 +146,7 @@ apalagi rumah ini yang telah aku bangun!
 
 ## 2 Tawarikh 6:19
 
-Namun, arahkan perhatian-Mu kepada doa hamba-Mu dan permohonannya, Tuhan Allahku,  
+Namun, arahkan perhatian-Mu kepada doa hamba-Mu dan permohonannya, Tuhan Tuhanku,  
 untuk mendengarkan tangisan dan doa yang hamba-Mu persembahkan di hadapan-Mu,
 
 ---
@@ -318,20 +318,20 @@ dan ampunilah umat-Mu yang telah berdosa terhadap-Mu.
 
 ## 2 Tawarikh 6:40
 
-Sekarang, Allahku, biarlah mata-Mu terbuka dan telinga-Mu memperhatikan doa yang dipersembahkan di tempat ini.
+Sekarang, Tuhanku, biarlah mata-Mu terbuka dan telinga-Mu memperhatikan doa yang dipersembahkan di tempat ini.
 
 ---
 
 ## 2 Tawarikh 6:41
 
-> Sekarang bangkitlah, Tuhan Allah, ke tempat peristirahatan-Mu,  
+> Sekarang bangkitlah, Tuhan Tuhan, ke tempat peristirahatan-Mu,  
 > Engkau dan tabut kekuatan-Mu;  
-> biarlah imam-imam-Mu, Tuhan Allah, berpakaian dengan keselamatan,  
+> biarlah imam-imam-Mu, Tuhan Tuhan, berpakaian dengan keselamatan,  
 > dan biarlah orang-orang setia-Mu bersukacita dalam kebaikan.
 
 ---
 
 ## 2 Tawarikh 6:42
 
-> Tuhan Allah, janganlah memalingkan wajah orang yang diurapi-Mu;  
+> Tuhan Tuhan, janganlah memalingkan wajah orang yang diurapi-Mu;  
 > ingatlah kasih setia-Mu kepada hamba-Mu Daud."

@@ -2,15 +2,15 @@
 
 ## Efesus 5:1
 
-Karena itu, jadilah peniru Allah, sebagai anak-anak yang terkasih;
+Karena itu, jadilah peniru Tuhan, sebagai anak-anak yang terkasih;
 
 ## Efesus 5:2
 
-dan hiduplah dalam kasih, sama seperti Kristus telah mengasihi kamu dan menyerahkan diri-Nya untuk kita sebagai persembahan harum dan korban kepada Allah.
+dan hiduplah dalam kasih, sama seperti Kristus telah mengasihi kamu dan menyerahkan diri-Nya untuk kita sebagai persembahan harum dan korban kepada Tuhan.
 
 ## Efesus 5:3
 
-Tetapi di antara kamu tidak boleh ada sedikit pun percabulan, atau segala jenis kecemaran, atau keserakahan, sebagaimana sepatutnya di antara umat Allah yang kudus;
+Tetapi di antara kamu tidak boleh ada sedikit pun percabulan, atau segala jenis kecemaran, atau keserakahan, sebagaimana sepatutnya di antara umat Tuhan yang kudus;
 
 ## Efesus 5:4
 
@@ -18,11 +18,11 @@ juga tidak boleh ada kata-kata kotor, pembicaraan bodoh, atau lelucon kasar, yan
 
 ## Efesus 5:5
 
-Karena ini dapat kamu pastikan: tidak ada orang yang cabul, cemar, atau serakah—orang seperti itu adalah penyembah berhala—yang mendapat bagian dalam kerajaan Kristus dan Allah.
+Karena ini dapat kamu pastikan: tidak ada orang yang cabul, cemar, atau serakah—orang seperti itu adalah penyembah berhala—yang mendapat bagian dalam kerajaan Kristus dan Tuhan.
 
 ## Efesus 5:6
 
-Jangan biarkan seorang pun menipu kamu dengan kata-kata kosong, karena oleh hal-hal seperti itu murka Allah datang atas orang-orang yang tidak taat.
+Jangan biarkan seorang pun menipu kamu dengan kata-kata kosong, karena oleh hal-hal seperti itu murka Tuhan datang atas orang-orang yang tidak taat.
 
 ## Efesus 5:7
 
@@ -82,7 +82,7 @@ berbicara satu sama lain dengan mazmur, himne, dan nyanyian rohani, menyanyi dan
 
 ## Efesus 5:20
 
-selalu mengucap syukur kepada Allah Bapa untuk segala sesuatu, dalam nama Tuhan kita Yesus Kristus.
+selalu mengucap syukur kepada Tuhan Bapa untuk segala sesuatu, dalam nama Tuhan kita Yesus Kristus.
 
 ## Efesus 5:21
 

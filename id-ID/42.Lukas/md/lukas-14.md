@@ -64,7 +64,7 @@ dan kamu akan diberkati. Meskipun mereka tidak dapat membalasmu, kamu akan dibal
 
 ## Lukas 14:15
 
-Ketika salah satu dari mereka yang duduk di meja bersama-Nya mendengar hal ini, ia berkata kepada Yesus, “Berbahagialah orang yang akan makan di perjamuan dalam kerajaan Allah.”
+Ketika salah satu dari mereka yang duduk di meja bersama-Nya mendengar hal ini, ia berkata kepada Yesus, “Berbahagialah orang yang akan makan di perjamuan dalam kerajaan Tuhan.”
 
 ## Lukas 14:16
 

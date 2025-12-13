@@ -1,509 +1,400 @@
 {
-    "book": "1 Tawarikh",
-    "chapter": 4,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Anak-anak Yehuda termasuk:",
-                "> Peres, Hezron, Karmi, Hur, dan Shobal."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Anak Shobal, Reaya, adalah ayah dari Yahath,",
-                "> dan Yahath adalah ayah dari Ahumai dan Lahad.",
-                "> Ini adalah keturunan Zorat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Ini adalah keturunan Etam:",
-                "> Yizreel, Isma, dan Idbas;",
-                "> dan saudara perempuan mereka bernama Hazelelponi."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Penuel adalah ayah dari Gedor,",
-                "dan Ezer adalah ayah dari Husa.",
-                "> Ini adalah keturunan Hur, anak sulung Efrata, yang adalah ayah dari Betlehem."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Ashur, yang adalah ayah dari Tekoa, memiliki dua istri:",
-                "> Hela dan Naara."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Naara melahirkan:",
-                "> Ahuzam, Hefer, Temeni, dan Ahashtari.",
-                "> Ini adalah anak-anak Naara."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Anak-anak Hela termasuk:",
-                "> Zeret, Yezohar, dan Etnan."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Koz adalah ayah dari Anub dan Zobeba,",
-                "dan keluarga Aharhel, anak Harum."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Sekarang Yabes lebih terhormat daripada saudara-saudaranya,",
-                "dan ibunya menamainya Yabes, katanya,",
-                "\"Karena aku melahirkannya dengan kesakitan.\""
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Sekarang Yabes berseru kepada Allah Israel, katanya,",
-                "> \"Oh, kiranya Engkau memberkati aku sungguh-sungguh, dan memperluas batasku,",
-                "> dan kiranya tangan-Mu menyertai aku,",
-                "> dan kiranya Engkau melindungi aku dari bahaya sehingga tidak menyakitiku!\"",
-                "> Dan Allah mengabulkan permintaannya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Kelub, saudara dari Suha, adalah ayah dari Mehir,",
-                "> yang menjadi ayah dari Eshton."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Bet-Rafa adalah anak dari Eshton, begitu juga Paseah, dan Tehina, ayah dari Ir-Nahas.",
-                "> Ini adalah orang-orang Rekha."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Anak-anak Kenaz termasuk:",
-                "> Otniel dan Seraya.",
-                "> Dan anak Otniel adalah Hatat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Meonotai adalah ayah dari Ofra,",
-                "> dan Seraya adalah ayah dari Yoab, ayah dari Ge-Harasim,",
-                "> karena mereka adalah tukang."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Kaleb adalah anak dari Yefune, anak-anaknya adalah:",
-                "> Iru, Ela, dan Naam;",
-                "> dan anak Ela adalah Kenaz."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Anak-anak Yehaleleel termasuk:",
-                "> Zif, Zifa, Tirya, dan Asarel."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Anak-anak Ezra adalah:",
-                "> Yeter, Mered, Efer, dan Yalon.",
-                "> Dan ini adalah anak-anak Bithia, anak perempuan Firaun,",
-                "> yang diambil Mered:",
-                "> Dia mengandung dan melahirkan Miriam, Syamai, dan Yisbah, ayah dari Estemoa."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Istri Yahudi-nya melahirkan Yered, ayah dari Gedor,",
-                "Heber, ayah dari Soko,",
-                "dan Yekutiel, ayah dari Zanoa.",
-                "> Ini adalah anak-anak Bithia, anak perempuan Firaun, yang diambil Mered."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Anak-anak istri Hodiah, saudara perempuan Naham, adalah:",
-                "> nenek moyang dari Keila orang Garm,",
-                "> dan Estemoa orang Maakha."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Anak-anak Simeon termasuk:",
-                "> Amnon, Rina, Benhanan, dan Tilon.",
-                "> Dan anak-anak Isyi adalah:",
-                "> Zohet dan Ben-Zohet."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Anak-anak Sela, anak Yehuda, adalah:",
-                "> Er, ayah dari Lekha,",
-                "> Laada, ayah dari Maresa,",
-                "> dan keluarga rumah pekerja linen di Bet-Asbea;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "> Yokim, orang-orang Kozeba,",
-                "> Yoas, dan Saraf, yang memerintah di Moab dan Yasyubi-Lehem.",
-                "> Tetapi catatannya kuno."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Ini adalah para tukang periuk dan penduduk Netaim dan Gederah;",
-                "mereka tinggal di sana dengan raja untuk pekerjaannya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Anak-anak Simeon termasuk:",
-                "> Nemuel, Yamin, Yarib, Zerah, dan Saul;"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "> anaknya Salum,",
-                "> Mibsam anaknya,",
-                "> dan Misma anaknya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Anak-anak Misma adalah:",
-                "> anaknya Hamuel,",
-                "> Zakur anaknya,",
-                "> dan Simei anaknya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Sekarang Simei memiliki enam belas anak laki-laki dan enam anak perempuan,",
-                "tetapi saudara-saudaranya tidak memiliki anak sebanyak itu,",
-                "> juga tidak semua keluarga mereka berkembang biak seperti keturunan Yehuda."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Mereka tinggal di Bersyeba, Molada, dan Hazar-Sual,"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "di Bilha, Ezem, dan Tolad,"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "di Betuel, Horma, dan Ziklag,"
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "di Bet-Markabot, Hazar-Susim, Bet-Biri, dan Saaraim.",
-                "> Ini adalah kota-kota mereka sampai pemerintahan Daud."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Desa-desa mereka termasuk:",
-                "> Etam, Ain, Rimmon, Token, dan Asan—lima kota—"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "dan semua pemukiman mereka yang ada di sekitar kota-kota ini sampai Baal.",
-                "> Ini adalah tempat tinggal mereka, dan mereka memiliki silsilah mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "Mesobab, Yamlekh, dan Yosa, ayah dari Amazia,"
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "bersama dengan Yoel dan Yehu, keturunan Yoshibia, Seraya, dan Asiel,"
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "dan Elioenai, Yaakoba, Yeshohaya, Asaya, Adiel, Yesimiel, dan Benaya,"
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "dan Ziza, adalah anak dari Sifi, yang adalah dari Alon, yang adalah dari Yedaya, yang adalah dari Simri, yang adalah dari Semaya—"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "mereka yang disebutkan dengan nama adalah pemimpin dalam keluarga mereka;",
-                "dan rumah-rumah ayah mereka berkembang pesat."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "Mereka pergi ke pintu masuk Gedor, ke sisi timur lembah,",
-                "untuk mencari padang rumput bagi kawanan mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "Mereka menemukan padang rumput yang subur dan baik,",
-                "dan tanah itu luas, tenang, dan damai;",
-                "> karena mereka yang tinggal di sana sebelumnya adalah orang Ham."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "Sekarang mereka yang datang tercatat dengan nama pada zaman Hizkia, raja Yehuda,",
-                "menyerang kemah-kemah mereka dan orang-orang Meuni yang ditemukan di sana,",
-                "dan mereka menghancurkan mereka sepenuhnya sampai hari ini,",
-                "dan tinggal di tempat mereka, karena ada padang rumput di sana untuk kawanan mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "Dari mereka, dari keturunan Simeon, lima ratus orang pergi ke Gunung Seir,",
-                "dengan Pelaca, Nearya, Refaya, dan Uziel, anak-anak Isyi, sebagai pemimpin mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 43,
-            "text": [
-                "Mereka menghancurkan sisa orang Amalek yang melarikan diri,",
-                "dan tinggal di sana sampai hari ini."
-            ]
-        }
-    ]
+  "book": "1 Tawarikh",
+  "chapter": 4,
+  "verses": [
+    {
+      "verse": 1,
+      "text": ["Anak-anak Yehuda termasuk:", "> Peres, Hezron, Karmi, Hur, dan Shobal."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Anak Shobal, Reaya, adalah ayah dari Yahath,",
+        "> dan Yahath adalah ayah dari Ahumai dan Lahad.",
+        "> Ini adalah keturunan Zorat."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Ini adalah keturunan Etam:",
+        "> Yizreel, Isma, dan Idbas;",
+        "> dan saudara perempuan mereka bernama Hazelelponi."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Penuel adalah ayah dari Gedor,",
+        "dan Ezer adalah ayah dari Husa.",
+        "> Ini adalah keturunan Hur, anak sulung Efrata, yang adalah ayah dari Betlehem."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 5,
+      "text": ["Ashur, yang adalah ayah dari Tekoa, memiliki dua istri:", "> Hela dan Naara."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Naara melahirkan:",
+        "> Ahuzam, Hefer, Temeni, dan Ahashtari.",
+        "> Ini adalah anak-anak Naara."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": ["Anak-anak Hela termasuk:", "> Zeret, Yezohar, dan Etnan."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 8,
+      "text": ["Koz adalah ayah dari Anub dan Zobeba,", "dan keluarga Aharhel, anak Harum."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Sekarang Yabes lebih terhormat daripada saudara-saudaranya,",
+        "dan ibunya menamainya Yabes, katanya,",
+        "\"Karena aku melahirkannya dengan kesakitan.\""
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Sekarang Yabes berseru kepada Tuhan Israel, katanya,",
+        "> \"Oh, kiranya Engkau memberkati aku sungguh-sungguh, dan memperluas batasku,",
+        "> dan kiranya tangan-Mu menyertai aku,",
+        "> dan kiranya Engkau melindungi aku dari bahaya sehingga tidak menyakitiku!\"",
+        "> Dan Tuhan mengabulkan permintaannya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Kelub, saudara dari Suha, adalah ayah dari Mehir,",
+        "> yang menjadi ayah dari Eshton."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Bet-Rafa adalah anak dari Eshton, begitu juga Paseah, dan Tehina, ayah dari Ir-Nahas.",
+        "> Ini adalah orang-orang Rekha."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Anak-anak Kenaz termasuk:",
+        "> Otniel dan Seraya.",
+        "> Dan anak Otniel adalah Hatat."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Meonotai adalah ayah dari Ofra,",
+        "> dan Seraya adalah ayah dari Yoab, ayah dari Ge-Harasim,",
+        "> karena mereka adalah tukang."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Kaleb adalah anak dari Yefune, anak-anaknya adalah:",
+        "> Iru, Ela, dan Naam;",
+        "> dan anak Ela adalah Kenaz."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 16,
+      "text": ["Anak-anak Yehaleleel termasuk:", "> Zif, Zifa, Tirya, dan Asarel."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Anak-anak Ezra adalah:",
+        "> Yeter, Mered, Efer, dan Yalon.",
+        "> Dan ini adalah anak-anak Bithia, anak perempuan Firaun,",
+        "> yang diambil Mered:",
+        "> Dia mengandung dan melahirkan Miriam, Syamai, dan Yisbah, ayah dari Estemoa."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Istri Yahudi-nya melahirkan Yered, ayah dari Gedor,",
+        "Heber, ayah dari Soko,",
+        "dan Yekutiel, ayah dari Zanoa.",
+        "> Ini adalah anak-anak Bithia, anak perempuan Firaun, yang diambil Mered."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Anak-anak istri Hodiah, saudara perempuan Naham, adalah:",
+        "> nenek moyang dari Keila orang Garm,",
+        "> dan Estemoa orang Maakha."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Anak-anak Simeon termasuk:",
+        "> Amnon, Rina, Benhanan, dan Tilon.",
+        "> Dan anak-anak Isyi adalah:",
+        "> Zohet dan Ben-Zohet."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Anak-anak Sela, anak Yehuda, adalah:",
+        "> Er, ayah dari Lekha,",
+        "> Laada, ayah dari Maresa,",
+        "> dan keluarga rumah pekerja linen di Bet-Asbea;"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "> Yokim, orang-orang Kozeba,",
+        "> Yoas, dan Saraf, yang memerintah di Moab dan Yasyubi-Lehem.",
+        "> Tetapi catatannya kuno."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Ini adalah para tukang periuk dan penduduk Netaim dan Gederah;",
+        "mereka tinggal di sana dengan raja untuk pekerjaannya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 24,
+      "text": ["Anak-anak Simeon termasuk:", "> Nemuel, Yamin, Yarib, Zerah, dan Saul;"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 25,
+      "text": ["> anaknya Salum,", "> Mibsam anaknya,", "> dan Misma anaknya."]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Anak-anak Misma adalah:",
+        "> anaknya Hamuel,",
+        "> Zakur anaknya,",
+        "> dan Simei anaknya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Sekarang Simei memiliki enam belas anak laki-laki dan enam anak perempuan,",
+        "tetapi saudara-saudaranya tidak memiliki anak sebanyak itu,",
+        "> juga tidak semua keluarga mereka berkembang biak seperti keturunan Yehuda."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 28,
+      "text": ["Mereka tinggal di Bersyeba, Molada, dan Hazar-Sual,"]
+    },
+    {
+      "verse": 29,
+      "text": ["di Bilha, Ezem, dan Tolad,"]
+    },
+    {
+      "verse": 30,
+      "text": ["di Betuel, Horma, dan Ziklag,"]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "di Bet-Markabot, Hazar-Susim, Bet-Biri, dan Saaraim.",
+        "> Ini adalah kota-kota mereka sampai pemerintahan Daud."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 32,
+      "text": ["Desa-desa mereka termasuk:", "> Etam, Ain, Rimmon, Token, dan Asan—lima kota—"]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "dan semua pemukiman mereka yang ada di sekitar kota-kota ini sampai Baal.",
+        "> Ini adalah tempat tinggal mereka, dan mereka memiliki silsilah mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 34,
+      "text": ["Mesobab, Yamlekh, dan Yosa, ayah dari Amazia,"]
+    },
+    {
+      "verse": 35,
+      "text": ["bersama dengan Yoel dan Yehu, keturunan Yoshibia, Seraya, dan Asiel,"]
+    },
+    {
+      "verse": 36,
+      "text": ["dan Elioenai, Yaakoba, Yeshohaya, Asaya, Adiel, Yesimiel, dan Benaya,"]
+    },
+    {
+      "verse": 37,
+      "text": [
+        "dan Ziza, adalah anak dari Sifi, yang adalah dari Alon, yang adalah dari Yedaya, yang adalah dari Simri, yang adalah dari Semaya—"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 38,
+      "text": [
+        "mereka yang disebutkan dengan nama adalah pemimpin dalam keluarga mereka;",
+        "dan rumah-rumah ayah mereka berkembang pesat."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "Mereka pergi ke pintu masuk Gedor, ke sisi timur lembah,",
+        "untuk mencari padang rumput bagi kawanan mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "Mereka menemukan padang rumput yang subur dan baik,",
+        "dan tanah itu luas, tenang, dan damai;",
+        "> karena mereka yang tinggal di sana sebelumnya adalah orang Ham."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "Sekarang mereka yang datang tercatat dengan nama pada zaman Hizkia, raja Yehuda,",
+        "menyerang kemah-kemah mereka dan orang-orang Meuni yang ditemukan di sana,",
+        "dan mereka menghancurkan mereka sepenuhnya sampai hari ini,",
+        "dan tinggal di tempat mereka, karena ada padang rumput di sana untuk kawanan mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 42,
+      "text": [
+        "Dari mereka, dari keturunan Simeon, lima ratus orang pergi ke Gunung Seir,",
+        "dengan Pelaca, Nearya, Refaya, dan Uziel, anak-anak Isyi, sebagai pemimpin mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 43,
+      "text": [
+        "Mereka menghancurkan sisa orang Amalek yang melarikan diri,",
+        "dan tinggal di sana sampai hari ini."
+      ]
+    }
+  ]
 }

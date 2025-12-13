@@ -10,15 +10,15 @@ melalui kemunafikan orang-orang yang berbicara kebohongan, hati nurani mereka se
 
 ## 1 Timotius 4:3
 
-yang melarang pernikahan dan menganjurkan pantang dari makanan yang diciptakan Allah untuk diterima dengan syukur oleh mereka yang percaya dan mengetahui kebenaran.
+yang melarang pernikahan dan menganjurkan pantang dari makanan yang diciptakan Tuhan untuk diterima dengan syukur oleh mereka yang percaya dan mengetahui kebenaran.
 
 ## 1 Timotius 4:4
 
-Karena segala sesuatu yang diciptakan Allah adalah baik, dan tidak ada yang patut ditolak jika diterima dengan ucapan syukur;
+Karena segala sesuatu yang diciptakan Tuhan adalah baik, dan tidak ada yang patut ditolak jika diterima dengan ucapan syukur;
 
 ## 1 Timotius 4:5
 
-karena itu disucikan oleh firman Allah dan doa.
+karena itu disucikan oleh firman Tuhan dan doa.
 
 ## 1 Timotius 4:6
 
@@ -38,7 +38,7 @@ Ini adalah pernyataan yang layak diterima sepenuhnya.
 
 ## 1 Timotius 4:10
 
-Karena untuk inilah kita bekerja keras dan berjuang, karena kita telah menaruh harapan kita pada Allah yang hidup, yang adalah Juruselamat semua orang, terutama mereka yang percaya.
+Karena untuk inilah kita bekerja keras dan berjuang, karena kita telah menaruh harapan kita pada Tuhan yang hidup, yang adalah Juruselamat semua orang, terutama mereka yang percaya.
 
 ## 1 Timotius 4:11
 

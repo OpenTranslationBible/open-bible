@@ -12,7 +12,7 @@ Oleh karena itu, jadilah kuat dan tunjukkan dirimu sebagai seorang pria.
 
 ## 1 Raja-raja 2:3
 
-Peliharalah kewajiban kepada Tuhan, Allahmu,  
+Peliharalah kewajiban kepada Tuhan, Tuhanmu,  
 untuk berjalan di jalan-Nya, untuk memelihara ketetapan-Nya, perintah-perintah-Nya, hukum-hukum-Nya, dan kesaksian-kesaksian-Nya,  
 seperti yang tertulis dalam Hukum Musa,  
 supaya engkau dapat berhasil dalam segala yang engkau lakukan dan ke mana pun engkau pergi,
@@ -162,7 +162,7 @@ Kemudian raja berkata kepada Abiatar imam,
 “Pergilah ke Anatot, ke ladangmu sendiri,  
 karena engkau pantas mati;  
 tetapi aku tidak akan membunuhmu pada saat ini,  
-karena engkau membawa tabut Tuhan Allah di hadapan ayahku Daud,  
+karena engkau membawa tabut Tuhan Tuhan di hadapan ayahku Daud,  
 dan karena engkau menderita dalam segala sesuatu di mana ayahku menderita.”
 
 ## 1 Raja-raja 2:27
@@ -234,7 +234,7 @@ dan raja mengangkat Zadok imam menggantikan Abiatar.
 ## 1 Raja-raja 2:36
 
 Kemudian raja mengirim dan memanggil Simei, dan berkata kepadanya,  
-“Bangunlah rumahmu di Yerusalem dan tinggallah di sana,  
+“Bangunlah rumahmu di Yerusalem dan tinggTuhan di sana,  
 dan jangan pergi dari sana ke tempat lain.
 
 ## 1 Raja-raja 2:37

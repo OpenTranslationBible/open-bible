@@ -10,7 +10,7 @@ Berbicaralah dengan lembut kepada Yerusalem dan beritakanlah kepadanya bahwa per
 
 ## Yesaya 40:3
 
-Suara seseorang berseru di padang gurun: "Persiapkanlah jalan bagi Tuhan; luruskanlah di padang belantara jalan raya bagi Allah kita.
+Suara seseorang berseru di padang gurun: "Persiapkanlah jalan bagi Tuhan; luruskanlah di padang belantara jalan raya bagi Tuhan kita.
 
 ## Yesaya 40:4
 
@@ -30,11 +30,11 @@ Rumput menjadi layu dan bunga menjadi layu, karena nafas Tuhan bertiup padanya. 
 
 ## Yesaya 40:8
 
-Rumput menjadi layu dan bunga menjadi layu, tetapi firman Allah kita tetap untuk selama-lamanya.
+Rumput menjadi layu dan bunga menjadi layu, tetapi firman Tuhan kita tetap untuk selama-lamanya.
 
 ## Yesaya 40:9
 
-Engkau yang membawa kabar baik ke Sion, naiklah ke gunung yang tinggi. Engkau yang membawa kabar baik ke Yerusalem, angkatlah suaramu dengan seruan, angkatlah, jangan takut; katakanlah kepada kota-kota Yehuda, "Inilah Allahmu!"
+Engkau yang membawa kabar baik ke Sion, naiklah ke gunung yang tinggi. Engkau yang membawa kabar baik ke Yerusalem, angkatlah suaramu dengan seruan, angkatlah, jangan takut; katakanlah kepada kota-kota Yehuda, "Inilah Tuhanmu!"
 
 ## Yesaya 40:10
 
@@ -70,7 +70,7 @@ Di hadapan-Nya semua bangsa adalah seperti tidak ada; mereka dianggap oleh-Nya k
 
 ## Yesaya 40:18
 
-Dengan siapa, maka, kamu akan membandingkan Allah? Kepada apa kamu akan menyamakan Dia?
+Dengan siapa, maka, kamu akan membandingkan Tuhan? Kepada apa kamu akan menyamakan Dia?
 
 ## Yesaya 40:19
 
@@ -106,11 +106,11 @@ Angkatlah matamu dan lihatlah ke langit: Siapa yang menciptakan semua ini? Diala
 
 ## Yesaya 40:27
 
-Mengapa kamu mengeluh, Yakub? Mengapa kamu berkata, Israel, "Jalanku tersembunyi dari Tuhan; perkaraku diabaikan oleh Allahku"?
+Mengapa kamu mengeluh, Yakub? Mengapa kamu berkata, Israel, "Jalanku tersembunyi dari Tuhan; perkaraku diabaikan oleh Tuhanku"?
 
 ## Yesaya 40:28
 
-Tidakkah kamu tahu? Tidakkah kamu dengar? Tuhan adalah Allah yang kekal, Pencipta ujung bumi. Ia tidak akan menjadi lelah atau lesu, dan pengertian-Nya melampaui jangkauan manusia.
+Tidakkah kamu tahu? Tidakkah kamu dengar? Tuhan adalah Tuhan yang kekal, Pencipta ujung bumi. Ia tidak akan menjadi lelah atau lesu, dan pengertian-Nya melampaui jangkauan manusia.
 
 ## Yesaya 40:29
 

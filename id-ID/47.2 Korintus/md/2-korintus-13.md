@@ -14,7 +14,7 @@ Karena kamu mencari bukti bahwa Kristus berbicara melalui aku, yang tidak lemah 
 
 ## 2 Korintus 13:4
 
-Karena sesungguhnya Dia disalibkan dalam kelemahan, namun Dia hidup oleh kuasa Allah. Kami juga lemah di dalam Dia, namun kami akan hidup bersama Dia oleh kuasa Allah yang diarahkan kepadamu.
+Karena sesungguhnya Dia disalibkan dalam kelemahan, namun Dia hidup oleh kuasa Tuhan. Kami juga lemah di dalam Dia, namun kami akan hidup bersama Dia oleh kuasa Tuhan yang diarahkan kepadamu.
 
 ## 2 Korintus 13:5
 
@@ -26,7 +26,7 @@ Tetapi aku berharap bahwa kamu akan menyadari bahwa kami sendiri tidak gagal dal
 
 ## 2 Korintus 13:7
 
-Sekarang kami berdoa kepada Allah agar kamu tidak melakukan kesalahan; bukan agar kami tampak telah lulus ujian, tetapi agar kamu melakukan apa yang benar, meskipun kami mungkin tampak gagal.
+Sekarang kami berdoa kepada Tuhan agar kamu tidak melakukan kesalahan; bukan agar kami tampak telah lulus ujian, tetapi agar kamu melakukan apa yang benar, meskipun kami mungkin tampak gagal.
 
 ## 2 Korintus 13:8
 
@@ -42,7 +42,7 @@ Untuk alasan ini aku menulis hal-hal ini ketika tidak hadir, agar ketika hadir a
 
 ## 2 Korintus 13:11
 
-Akhirnya, saudara-saudara, bersukacitalah, berusahalah untuk pemulihan, berilah dorongan, sehati sepikir, hiduplah dalam damai; dan Allah kasih dan damai sejahtera akan menyertai kamu.
+Akhirnya, saudara-saudara, bersukacitalah, berusahalah untuk pemulihan, berilah dorongan, sehati sepikir, hiduplah dalam damai; dan Tuhan kasih dan damai sejahtera akan menyertai kamu.
 
 ## 2 Korintus 13:12
 
@@ -54,4 +54,4 @@ Semua orang percaya mengirimkan salam kepada kamu.
 
 ## 2 Korintus 13:14
 
-Semoga kasih karunia Tuhan kita Yesus Kristus, kasih Allah, dan persekutuan Roh Kudus menyertai kamu semua, untuk selama-lamanya.
+Semoga kasih karunia Tuhan kita Yesus Kristus, kasih Tuhan, dan persekutuan Roh Kudus menyertai kamu semua, untuk selama-lamanya.

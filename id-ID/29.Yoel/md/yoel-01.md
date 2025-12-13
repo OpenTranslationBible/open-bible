@@ -84,9 +84,9 @@ Kemudian firman Tuhan datang kepada Yoel, anak Petuel.
 > Kenakanlah kain kabung dan ratapilah, hai para imam;
 > merataplah, hai yang melayani di altar.
 > Datanglah, habiskan malam dalam kain kabung,
-> hai yang melayani Allahku,
+> hai yang melayani Tuhanku,
 > karena persembahan biji-bijian dan persembahan minuman
-> ditahan dari rumah Allahmu.
+> ditahan dari rumah Tuhanmu.
 
 ## Yoel 1:14
 
@@ -94,7 +94,7 @@ Kemudian firman Tuhan datang kepada Yoel, anak Petuel.
 > panggillah pertemuan sakral.
 > Kumpulkanlah para tua-tua
 > dan semua yang tinggal di negeri
-> ke rumah Tuhan Allahmu,
+> ke rumah Tuhan Tuhanmu,
 > dan berserulah kepada Tuhan.
 
 ## Yoel 1:15
@@ -106,7 +106,7 @@ Kemudian firman Tuhan datang kepada Yoel, anak Petuel.
 ## Yoel 1:16
 
 > Bukankah makanan terputus dari kita, di depan mata kita,
-> dan sukacita serta kegembiraan terputus, dari rumah Allah kita?
+> dan sukacita serta kegembiraan terputus, dari rumah Tuhan kita?
 
 ## Yoel 1:17
 

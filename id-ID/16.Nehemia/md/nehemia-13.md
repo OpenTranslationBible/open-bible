@@ -2,11 +2,11 @@
 
 ## Nehemia 13:1
 
-Pada hari itu, ketika Kitab Musa dibacakan dengan keras di hadapan orang-orang, ditemukan bahwa tidak ada orang Amon atau Moab yang boleh masuk ke dalam jemaah Allah,
+Pada hari itu, ketika Kitab Musa dibacakan dengan keras di hadapan orang-orang, ditemukan bahwa tidak ada orang Amon atau Moab yang boleh masuk ke dalam jemaah Tuhan,
 
 ## Nehemia 13:2
 
-karena mereka tidak menyambut orang Israel dengan roti dan air, tetapi malah menyewa Bileam untuk mengutuk mereka. Namun, Allah kita mengubah kutukan itu menjadi berkat.
+karena mereka tidak menyambut orang Israel dengan roti dan air, tetapi malah menyewa Bileam untuk mengutuk mereka. Namun, Tuhan kita mengubah kutukan itu menjadi berkat.
 
 ## Nehemia 13:3
 
@@ -16,7 +16,7 @@ Ketika mereka mendengar hukum ini, mereka mengeluarkan semua orang yang keturuna
 
 ## Nehemia 13:4
 
-Sebelumnya, Imam Elyasib, yang ditunjuk atas kamar-kamar perbendaharaan rumah Allah kita, mempunyai hubungan dekat dengan Tobia,
+Sebelumnya, Imam Elyasib, yang ditunjuk atas kamar-kamar perbendaharaan rumah Tuhan kita, mempunyai hubungan dekat dengan Tobia,
 
 ## Nehemia 13:5
 
@@ -30,7 +30,7 @@ Tetapi selama semua ini, aku tidak berada di Yerusalem, karena pada tahun ketiga
 
 ## Nehemia 13:7
 
-dan kembali ke Yerusalem. Di sana, aku mengetahui tentang perbuatan jahat yang dilakukan Elyasib untuk Tobia dengan menyediakan sebuah kamar untuknya di pelataran rumah Allah.
+dan kembali ke Yerusalem. Di sana, aku mengetahui tentang perbuatan jahat yang dilakukan Elyasib untuk Tobia dengan menyediakan sebuah kamar untuknya di pelataran rumah Tuhan.
 
 ## Nehemia 13:8
 
@@ -38,7 +38,7 @@ Aku sangat tidak senang dan melemparkan semua barang-barang rumah tangga Tobia k
 
 ## Nehemia 13:9
 
-Aku memerintahkan kamar-kamar itu untuk disucikan, dan kemudian aku mengembalikan perlengkapan rumah Allah, bersama dengan persembahan gandum dan kemenyan.
+Aku memerintahkan kamar-kamar itu untuk disucikan, dan kemudian aku mengembalikan perlengkapan rumah Tuhan, bersama dengan persembahan gandum dan kemenyan.
 
 ## Nehemia 13:10
 
@@ -46,7 +46,7 @@ Aku juga menemukan bahwa bagian-bagian yang ditetapkan untuk orang Lewi belum di
 
 ## Nehemia 13:11
 
-Jadi aku menegur para pejabat dan bertanya, “Mengapa rumah Allah diabaikan?” Kemudian aku mengumpulkan mereka bersama dan menempatkan mereka di pos mereka.
+Jadi aku menegur para pejabat dan bertanya, “Mengapa rumah Tuhan diabaikan?” Kemudian aku mengumpulkan mereka bersama dan menempatkan mereka di pos mereka.
 
 ## Nehemia 13:12
 
@@ -60,7 +60,7 @@ Aku menunjuk Selemya imam, Zadok juru tulis, dan seorang Lewi bernama Pedaya unt
 
 ## Nehemia 13:14
 
-Ingatlah aku untuk ini, ya Allahku, dan jangan hapus apa yang telah kulakukan dengan setia untuk rumah Allahku dan pelayanannya.
+Ingatlah aku untuk ini, ya Tuhanku, dan jangan hapus apa yang telah kulakukan dengan setia untuk rumah Tuhanku dan pelayanannya.
 
 ## Nehemia 13:15
 
@@ -76,7 +76,7 @@ Aku menegur para bangsawan Yehuda dan berkata, “Apa ini kejahatan yang kamu la
 
 ## Nehemia 13:18
 
-Bukankah nenek moyangmu melakukan hal yang sama, menyebabkan Allah kita membawa semua bencana ini atas kita dan atas kota ini? Sekarang kamu membangkitkan lebih banyak murka terhadap Israel dengan menodai hari Sabat.”
+Bukankah nenek moyangmu melakukan hal yang sama, menyebabkan Tuhan kita membawa semua bencana ini atas kita dan atas kota ini? Sekarang kamu membangkitkan lebih banyak murka terhadap Israel dengan menodai hari Sabat.”
 
 ---
 
@@ -94,7 +94,7 @@ Tetapi aku memperingatkan mereka dan berkata, “Mengapa kamu bermalam di dekat 
 
 ## Nehemia 13:22
 
-Kemudian aku memerintahkan orang Lewi untuk menyucikan diri mereka dan menjaga gerbang-gerbang untuk menjaga hari Sabat tetap kudus. Ingatlah aku untuk ini juga, ya Allahku, dan tunjukkan belas kasihan kepadaku sesuai dengan kasih-Mu yang besar.
+Kemudian aku memerintahkan orang Lewi untuk menyucikan diri mereka dan menjaga gerbang-gerbang untuk menjaga hari Sabat tetap kudus. Ingatlah aku untuk ini juga, ya Tuhanku, dan tunjukkan belas kasihan kepadaku sesuai dengan kasih-Mu yang besar.
 
 ## Nehemia 13:23
 
@@ -106,15 +106,15 @@ Setengah dari anak-anak mereka berbicara bahasa Asdod atau bahasa salah satu ban
 
 ## Nehemia 13:25
 
-Jadi aku menegur mereka dan mengutuk mereka. Aku memukul beberapa pria dan mencabut rambut mereka. Aku membuat mereka bersumpah dalam nama Allah dan berkata: “Kamu tidak boleh memberikan putrimu dalam pernikahan kepada anak-anak mereka, atau mengambil putri mereka untuk anak-anakmu atau untuk dirimu sendiri.
+Jadi aku menegur mereka dan mengutuk mereka. Aku memukul beberapa pria dan mencabut rambut mereka. Aku membuat mereka bersumpah dalam nama Tuhan dan berkata: “Kamu tidak boleh memberikan putrimu dalam pernikahan kepada anak-anak mereka, atau mengambil putri mereka untuk anak-anakmu atau untuk dirimu sendiri.
 
 ## Nehemia 13:26
 
-Bukankah Raja Salomo dari Israel berdosa karena pernikahan semacam itu? Di antara banyak bangsa tidak ada raja seperti dia. Dia dicintai oleh Allahnya, dan Allah menjadikannya raja atas seluruh Israel, namun bahkan dia dipimpin ke dalam dosa oleh wanita-wanita asing.
+Bukankah Raja Salomo dari Israel berdosa karena pernikahan semacam itu? Di antara banyak bangsa tidak ada raja seperti dia. Dia dicintai oleh Tuhannya, dan Tuhan menjadikannya raja atas seluruh Israel, namun bahkan dia dipimpin ke dalam dosa oleh wanita-wanita asing.
 
 ## Nehemia 13:27
 
-Haruskah kita sekarang mendengar bahwa kamu juga melakukan semua kejahatan besar ini dan tidak setia kepada Allah kita dengan menikahi wanita-wanita asing?”
+Haruskah kita sekarang mendengar bahwa kamu juga melakukan semua kejahatan besar ini dan tidak setia kepada Tuhan kita dengan menikahi wanita-wanita asing?”
 
 ## Nehemia 13:28
 
@@ -124,7 +124,7 @@ Salah satu anak Yoyada, anak Elyasib imam besar, adalah menantu Sanbalat orang H
 
 ## Nehemia 13:29
 
-Ingatlah mereka, ya Allahku, karena mereka telah membawa aib atas imamat dan perjanjian imamat dan orang Lewi.
+Ingatlah mereka, ya Tuhanku, karena mereka telah membawa aib atas imamat dan perjanjian imamat dan orang Lewi.
 
 ## Nehemia 13:30
 
@@ -132,4 +132,4 @@ Jadi aku menyucikan para imam dan orang Lewi dari segala sesuatu yang asing, dan
 
 ## Nehemia 13:31
 
-Aku juga mengatur sumbangan kayu pada waktu-waktu yang ditentukan, dan untuk buah sulung. Ingatlah aku dengan kebaikan, ya Allahku.
+Aku juga mengatur sumbangan kayu pada waktu-waktu yang ditentukan, dan untuk buah sulung. Ingatlah aku dengan kebaikan, ya Tuhanku.

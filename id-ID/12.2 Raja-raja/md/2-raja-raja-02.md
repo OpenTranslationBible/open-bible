@@ -6,7 +6,7 @@ Ketika waktu sudah dekat bagi Tuhan untuk membawa Elia ke surga dalam angin puyu
 
 ## 2 Raja-raja 2:2
 
-Elia berkata kepada Elisa, “Tinggallah di sini, karena Tuhan telah mengutus aku ke Betel.”  
+Elia berkata kepada Elisa, “TinggTuhan di sini, karena Tuhan telah mengutus aku ke Betel.”  
 Tetapi Elisa berkata, “Demi Tuhan yang hidup dan demi hidupmu sendiri, aku tidak akan meninggalkan engkau.”  
 Maka mereka pergi ke Betel.
 
@@ -18,7 +18,7 @@ Dia menjawab, “Ya, aku tahu — diamlah.”
 
 ## 2 Raja-raja 2:4
 
-Kemudian Elia berkata kepadanya, “Elisa, tinggallah di sini, karena Tuhan telah mengutus aku ke Yerikho.”  
+Kemudian Elia berkata kepadanya, “Elisa, tinggTuhan di sini, karena Tuhan telah mengutus aku ke Yerikho.”  
 Tetapi dia menjawab, “Demi Tuhan yang hidup dan demi hidupmu sendiri, aku tidak akan meninggalkan engkau.”  
 Maka mereka pergi ke Yerikho.
 
@@ -30,7 +30,7 @@ Dan dia menjawab, “Ya, aku tahu. Diamlah.”
 
 ## 2 Raja-raja 2:6
 
-Kemudian Elia berkata kepadanya, “Tinggallah di sini, karena Tuhan telah mengutus aku ke Yordan.”  
+Kemudian Elia berkata kepadanya, “TinggTuhan di sini, karena Tuhan telah mengutus aku ke Yordan.”  
 Tetapi Elisa menjawab, “Demi Tuhan yang hidup dan demi hidupmu sendiri, aku tidak akan meninggalkan engkau.”  
 Maka keduanya berjalan terus.
 
@@ -78,7 +78,7 @@ Elisa mengambil jubah Elia yang telah jatuh darinya dan kembali berdiri di tepi 
 ## 2 Raja-raja 2:14
 
 Dia mengambil jubah yang telah jatuh dari Elia, memukul air dengan itu, dan berkata,  
-“Di manakah Tuhan, Allah Elia?”  
+“Di manakah Tuhan, Tuhan Elia?”  
 Ketika dia memukul air, air itu terbelah ke kiri dan ke kanan, dan Elisa menyeberang.
 
 ---

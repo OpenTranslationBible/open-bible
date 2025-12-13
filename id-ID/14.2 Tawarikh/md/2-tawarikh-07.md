@@ -35,7 +35,7 @@ Kemudian raja dan seluruh rakyat mempersembahkan korban dan persembahan di hadap
 ## 2 Tawarikh 7:5
 
 Raja Salomo mempersembahkan korban dua puluh dua ribu lembu dan 120.000 domba.  
-Demikianlah raja dan seluruh rakyat mentahbiskan rumah Allah.
+Demikianlah raja dan seluruh rakyat mentahbiskan rumah Tuhan.
 
 ---
 
@@ -152,7 +152,7 @@ maka Aku akan meneguhkan takhta kerajaanmu seperti yang Kujanjikan kepada ayahmu
 
 Namun, jika engkau berpaling dan meninggalkan ketetapan-Ku dan perintah-Ku  
 yang telah Kutaruh di hadapanmu,  
-dan pergi serta melayani allah lain dan menyembah mereka,
+dan pergi serta melayani Tuhan lain dan menyembah mereka,
 
 ---
 
@@ -176,6 +176,6 @@ setiap orang yang melewatinya akan tercengang dan berkata,
 ## 2 Tawarikh 7:22
 
 Dan mereka akan berkata,  
-'Karena mereka meninggalkan Tuhan, Allah nenek moyang mereka yang membawa mereka keluar dari tanah Mesir,  
-dan mereka mengadopsi allah lain dan menyembah mereka serta melayani mereka;  
+'Karena mereka meninggalkan Tuhan, Tuhan nenek moyang mereka yang membawa mereka keluar dari tanah Mesir,  
+dan mereka mengadopsi Tuhan lain dan menyembah mereka serta melayani mereka;  
 oleh karena itu Dia telah mendatangkan semua malapetaka ini atas mereka.'"

@@ -60,11 +60,11 @@ Mereka menangis dengan keras lagi. Orpa mencium ibu mertuanya selamat tinggal, t
 
 ## Rut 1:15
 
-Naomi berkata, “Lihatlah, iparmu kembali kepada bangsanya dan kepada allah-allahnya. Kembalilah bersamanya.”
+Naomi berkata, “Lihatlah, iparmu kembali kepada bangsanya dan kepada Tuhan-Tuhannya. Kembalilah bersamanya.”
 
 ## Rut 1:16
 
-Tetapi Rut menjawab, “Jangan desak aku untuk meninggalkanmu atau untuk kembali dari mengikutimu. Ke mana engkau pergi, aku akan pergi, dan di mana engkau tinggal, aku akan tinggal. Bangsamu akan menjadi bangsaku dan Allahmu akan menjadi Allahku.
+Tetapi Rut menjawab, “Jangan desak aku untuk meninggalkanmu atau untuk kembali dari mengikutimu. Ke mana engkau pergi, aku akan pergi, dan di mana engkau tinggal, aku akan tinggal. Bangsamu akan menjadi bangsaku dan Tuhanmu akan menjadi Tuhanku.
 
 ## Rut 1:17
 

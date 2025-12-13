@@ -5,7 +5,7 @@
 Maka selesailah seluruh pekerjaan yang dilakukan Salomo untuk rumah Tuhan.  
 Dan Salomo membawa barang-barang yang telah dikhususkan oleh ayahnya, Daud—  
 perak, emas, dan semua perkakas—  
-dan menempatkannya di dalam perbendaharaan rumah Allah.
+dan menempatkannya di dalam perbendaharaan rumah Tuhan.
 
 ---
 
@@ -116,4 +116,4 @@ maka rumah itu, rumah Tuhan, dipenuhi dengan awan,
 ## 2 Tawarikh 5:14
 
 sehingga para imam tidak dapat berdiri untuk melayani karena awan itu,  
-sebab kemuliaan Tuhan memenuhi rumah Allah.
+sebab kemuliaan Tuhan memenuhi rumah Tuhan.

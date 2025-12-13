@@ -40,7 +40,7 @@ Dia juga menceritakan perumpamaan ini kepada beberapa orang yang yakin akan kebe
 
 ## Lukas 18:10
 
-"Dua orang pergi ke bait Allah untuk berdoa, yang satu adalah seorang Farisi dan yang lainnya adalah seorang pemungut cukai.
+"Dua orang pergi ke bait Tuhan untuk berdoa, yang satu adalah seorang Farisi dan yang lainnya adalah seorang pemungut cukai.
 
 ## Lukas 18:11
 
@@ -66,11 +66,11 @@ Orang-orang juga membawa bayi-bayi kepada-Nya agar Dia menyentuh mereka. Tetapi 
 
 ## Lukas 18:16
 
-Tetapi Yesus memanggil anak-anak itu kepada-Nya dan berkata, "Biarkan anak-anak kecil datang kepada-Ku, dan jangan menghalangi mereka, karena kerajaan Allah adalah milik orang-orang seperti ini.
+Tetapi Yesus memanggil anak-anak itu kepada-Nya dan berkata, "Biarkan anak-anak kecil datang kepada-Ku, dan jangan menghalangi mereka, karena kerajaan Tuhan adalah milik orang-orang seperti ini.
 
 ## Lukas 18:17
 
-Sesungguhnya Aku berkata kepadamu, siapa pun yang tidak menerima kerajaan Allah seperti anak kecil tidak akan pernah memasukinya."
+Sesungguhnya Aku berkata kepadamu, siapa pun yang tidak menerima kerajaan Tuhan seperti anak kecil tidak akan pernah memasukinya."
 
 ---
 
@@ -92,7 +92,7 @@ Dan dia berkata, "Semua ini telah aku pelihara sejak masa mudaku."
 
 ## Lukas 18:22
 
-Ketika Yesus mendengar ini, Dia berkata kepadanya, "Engkau masih kurang satu hal. Juallah semua yang engkau miliki dan berikan kepada orang miskin, dan engkau akan memiliki harta di surga. Kemudian datanglah, ikutilah Aku."
+Ketika Yesus mendengar ini, Dia berkata kepadanya, "Engkau masih kurang satu hal. JuTuhan semua yang engkau miliki dan berikan kepada orang miskin, dan engkau akan memiliki harta di surga. Kemudian datanglah, ikutilah Aku."
 
 ## Lukas 18:23
 
@@ -102,11 +102,11 @@ Ketika dia mendengar ini, dia menjadi sangat sedih, karena dia sangat kaya.
 
 ## Lukas 18:24
 
-Yesus memandangnya dan berkata, "Betapa sulitnya bagi orang kaya untuk masuk ke dalam kerajaan Allah!
+Yesus memandangnya dan berkata, "Betapa sulitnya bagi orang kaya untuk masuk ke dalam kerajaan Tuhan!
 
 ## Lukas 18:25
 
-Sesungguhnya, lebih mudah bagi seekor unta untuk masuk melalui lubang jarum daripada bagi seorang kaya untuk masuk ke dalam kerajaan Allah."
+Sesungguhnya, lebih mudah bagi seekor unta untuk masuk melalui lubang jarum daripada bagi seorang kaya untuk masuk ke dalam kerajaan Tuhan."
 
 ## Lukas 18:26
 
@@ -124,7 +124,7 @@ Petrus berkata kepada-Nya, "Kami telah meninggalkan segala sesuatu yang kami mil
 
 ## Lukas 18:29
 
-Yesus berkata kepada mereka, "Sesungguhnya Aku berkata kepadamu, tidak ada seorang pun yang telah meninggalkan rumah, atau istri, atau saudara, atau orang tua, atau anak-anak demi kerajaan Allah
+Yesus berkata kepada mereka, "Sesungguhnya Aku berkata kepadamu, tidak ada seorang pun yang telah meninggalkan rumah, atau istri, atau saudara, atau orang tua, atau anak-anak demi kerajaan Tuhan
 
 ## Lukas 18:30
 

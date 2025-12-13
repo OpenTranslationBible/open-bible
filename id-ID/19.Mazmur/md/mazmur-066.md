@@ -4,7 +4,7 @@
 
 ## Mazmur 66:1
 
-> Bersoraklah dengan sukacita kepada Allah, seluruh bumi;
+> Bersoraklah dengan sukacita kepada Tuhan, seluruh bumi;
 
 ## Mazmur 66:2
 
@@ -13,7 +13,7 @@
 
 ## Mazmur 66:3
 
-> Katakanlah kepada Allah, “Betapa ajaib pekerjaan-Mu!  
+> Katakanlah kepada Tuhan, “Betapa ajaib pekerjaan-Mu!  
 > Karena kebesaran kuasa-Mu, musuh-musuh-Mu akan berpura-pura taat kepada-Mu.
 
 ## Mazmur 66:4
@@ -28,7 +28,7 @@
 
 ## Mazmur 66:5
 
-> Datanglah dan saksikanlah pekerjaan-pekerjaan Allah,  
+> Datanglah dan saksikanlah pekerjaan-pekerjaan Tuhan,  
 > Yang ajaib dalam perbuatan-Nya terhadap anak-anak manusia.
 
 ## Mazmur 66:6
@@ -49,7 +49,7 @@
 
 ## Mazmur 66:8
 
-> Pujilah Allah kita, hai bangsa-bangsa,  
+> Pujilah Tuhan kita, hai bangsa-bangsa,  
 > Dan biarlah pujian-Nya terdengar jauh dan luas,
 
 ## Mazmur 66:9
@@ -59,7 +59,7 @@
 
 ## Mazmur 66:10
 
-> Karena Engkau telah menguji kami, ya Allah;  
+> Karena Engkau telah menguji kami, ya Tuhan;  
 > Engkau telah memurnikan kami seperti perak dimurnikan.
 
 ## Mazmur 66:11
@@ -97,7 +97,7 @@
 
 ## Mazmur 66:16
 
-> Datanglah dan dengarlah, semua yang takut akan Allah,  
+> Datanglah dan dengarlah, semua yang takut akan Tuhan,  
 > Dan aku akan menceritakan apa yang telah dilakukan-Nya bagi jiwaku.
 
 ## Mazmur 66:17
@@ -112,11 +112,11 @@
 
 ## Mazmur 66:19
 
-> Tetapi Allah telah mendengarkan;  
+> Tetapi Tuhan telah mendengarkan;  
 > Dia telah memperhatikan suara doaku.
 
 ## Mazmur 66:20
 
-> Terpujilah Allah,  
+> Terpujilah Tuhan,  
 > Yang tidak menolak doaku,  
 > Ataupun menahan kasih karunia-Nya dariku.

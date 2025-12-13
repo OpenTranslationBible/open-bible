@@ -39,7 +39,7 @@
 ## Mazmur 114:7
 
 > Gemetarlah, bumi, di hadapan Tuhan,  
-> Di hadapan Allah Yakub,
+> Di hadapan Tuhan Yakub,
 
 ## Mazmur 114:8
 

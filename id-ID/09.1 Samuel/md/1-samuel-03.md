@@ -11,7 +11,7 @@ Pada suatu malam Eli, yang penglihatannya telah kabur sehingga ia tidak dapat me
 
 ## 1 Samuel 3:3
 
-Lampu Allah belum padam, dan Samuel sedang berbaring di bait Tuhan, tempat tabut Allah berada.
+Lampu Tuhan belum padam, dan Samuel sedang berbaring di bait Tuhan, tempat tabut Tuhan berada.
 
 ## 1 Samuel 3:4
 
@@ -62,7 +62,7 @@ Pada hari itu Aku akan melaksanakan terhadap Eli segala sesuatu yang telah Kukat
 
 ## 1 Samuel 3:13
 
-Sebab Aku telah memberitahunya bahwa Aku akan menghakimi keluarganya untuk selamanya karena kejahatan yang diketahuinya—bagaimana anak-anaknya menghujat Allah, dan ia tidak menahan mereka.
+Sebab Aku telah memberitahunya bahwa Aku akan menghakimi keluarganya untuk selamanya karena kejahatan yang diketahuinya—bagaimana anak-anaknya menghujat Tuhan, dan ia tidak menahan mereka.
 
 ## 1 Samuel 3:14
 
@@ -82,7 +82,7 @@ Samuel menjawab, “Ini aku.”
 
 ## 1 Samuel 3:17
 
-“Apa yang Dia katakan kepadamu?” tanya Eli. “Jangan sembunyikan dariku. Semoga Allah menghukummu, seberat apa pun, jika engkau menyembunyikan dariku apa pun yang Dia katakan kepadamu.”
+“Apa yang Dia katakan kepadamu?” tanya Eli. “Jangan sembunyikan dariku. Semoga Tuhan menghukummu, seberat apa pun, jika engkau menyembunyikan dariku apa pun yang Dia katakan kepadamu.”
 
 ## 1 Samuel 3:18
 

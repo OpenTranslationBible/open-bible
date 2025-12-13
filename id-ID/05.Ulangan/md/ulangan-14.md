@@ -2,11 +2,11 @@
 
 ## Ulangan 14:1
 
-Kamu adalah anak-anak Tuhan, Allahmu; janganlah kamu menoreh-noreh dirimu atau mencukur dahimu karena orang mati.
+Kamu adalah anak-anak Tuhan, Tuhanmu; janganlah kamu menoreh-noreh dirimu atau mencukur dahimu karena orang mati.
 
 ## Ulangan 14:2
 
-Karena kamu adalah umat yang kudus bagi Tuhan, Allahmu, dan dari semua bangsa di muka bumi, Tuhan telah memilih kamu menjadi milik kesayangan-Nya.
+Karena kamu adalah umat yang kudus bagi Tuhan, Tuhanmu, dan dari semua bangsa di muka bumi, Tuhan telah memilih kamu menjadi milik kesayangan-Nya.
 
 ## Ulangan 14:3
 
@@ -82,7 +82,7 @@ Tetapi kamu boleh memakan setiap makhluk bersayap yang bersih.
 
 ## Ulangan 14:21
 
-Janganlah kamu memakan apa pun yang mati dengan sendirinya. Kamu boleh memberikannya kepada orang asing yang tinggal di kotamu, dan mereka boleh memakannya, atau kamu boleh menjualnya kepada orang asing; karena kamu adalah umat yang kudus bagi Tuhan, Allahmu. Janganlah kamu merebus anak kambing dalam susu induknya.
+Janganlah kamu memakan apa pun yang mati dengan sendirinya. Kamu boleh memberikannya kepada orang asing yang tinggal di kotamu, dan mereka boleh memakannya, atau kamu boleh menjualnya kepada orang asing; karena kamu adalah umat yang kudus bagi Tuhan, Tuhanmu. Janganlah kamu merebus anak kambing dalam susu induknya.
 
 ## Ulangan 14:22
 
@@ -90,19 +90,19 @@ Kamu harus menyisihkan sepersepuluh dari semua hasil ladangmu setiap tahun.
 
 ## Ulangan 14:23
 
-Makanlah persepuluhan dari gandummu, anggur barumu, dan minyak zaitunmu, serta anak sulung dari kawanan ternakmu di hadapan Tuhan, Allahmu, di tempat yang akan dipilih-Nya sebagai tempat kediaman Nama-Nya, supaya kamu belajar untuk menghormati Tuhan, Allahmu, selalu.
+Makanlah persepuluhan dari gandummu, anggur barumu, dan minyak zaitunmu, serta anak sulung dari kawanan ternakmu di hadapan Tuhan, Tuhanmu, di tempat yang akan dipilih-Nya sebagai tempat kediaman Nama-Nya, supaya kamu belajar untuk menghormati Tuhan, Tuhanmu, selalu.
 
 ## Ulangan 14:24
 
-Tetapi jika tempat itu terlalu jauh dan kamu telah diberkati oleh Tuhan, Allahmu, dan tidak dapat membawa persepuluhanmu, karena tempat yang akan dipilih Tuhan untuk menempatkan Nama-Nya terlalu jauh,
+Tetapi jika tempat itu terlalu jauh dan kamu telah diberkati oleh Tuhan, Tuhanmu, dan tidak dapat membawa persepuluhanmu, karena tempat yang akan dipilih Tuhan untuk menempatkan Nama-Nya terlalu jauh,
 
 ## Ulangan 14:25
 
-maka ubahlah persepuluhanmu menjadi uang, dan bawalah uang itu bersamamu dan pergilah ke tempat yang akan dipilih Tuhan, Allahmu.
+maka ubahlah persepuluhanmu menjadi uang, dan bawalah uang itu bersamamu dan pergilah ke tempat yang akan dipilih Tuhan, Tuhanmu.
 
 ## Ulangan 14:26
 
-Gunakan uang itu untuk membeli apa pun yang kamu inginkan: sapi, domba, anggur, atau minuman keras lain, atau apa pun yang kamu inginkan. Kemudian kamu dan keluargamu akan makan di sana di hadapan Tuhan, Allahmu, dan bersukacita.
+Gunakan uang itu untuk membeli apa pun yang kamu inginkan: sapi, domba, anggur, atau minuman keras lain, atau apa pun yang kamu inginkan. Kemudian kamu dan keluargamu akan makan di sana di hadapan Tuhan, Tuhanmu, dan bersukacita.
 
 ## Ulangan 14:27
 
@@ -114,4 +114,4 @@ Pada akhir setiap tiga tahun, kumpulkan semua persepuluhan hasil tahun itu dan s
 
 ## Ulangan 14:29
 
-supaya orang-orang Lewi, yang tidak memiliki bagian atau warisan sendiri, bersama dengan orang asing, anak yatim, dan janda yang tinggal di kotamu, dapat datang dan makan hingga kenyang. Dengan cara ini, Tuhan, Allahmu, akan memberkati kamu dalam semua pekerjaan tanganmu.
+supaya orang-orang Lewi, yang tidak memiliki bagian atau warisan sendiri, bersama dengan orang asing, anak yatim, dan janda yang tinggal di kotamu, dapat datang dan makan hingga kenyang. Dengan cara ini, Tuhan, Tuhanmu, akan memberkati kamu dalam semua pekerjaan tanganmu.

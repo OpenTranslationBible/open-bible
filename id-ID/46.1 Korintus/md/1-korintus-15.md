@@ -34,11 +34,11 @@ Dan akhirnya, seperti kepada seseorang yang lahir pada waktu yang salah, Dia jug
 
 ## 1 Korintus 15:9
 
-Karena aku adalah yang paling kecil dari para rasul, dan tidak layak disebut rasul, karena aku menganiaya gereja Allah.
+Karena aku adalah yang paling kecil dari para rasul, dan tidak layak disebut rasul, karena aku menganiaya gereja Tuhan.
 
 ## 1 Korintus 15:10
 
-Tetapi oleh kasih karunia Allah, aku adalah apa adanya, dan kasih karunia-Nya terhadapku tidak sia-sia; tetapi aku bekerja lebih keras dari semua mereka, namun bukan aku, melainkan kasih karunia Allah bersamaku.
+Tetapi oleh kasih karunia Tuhan, aku adalah apa adanya, dan kasih karunia-Nya terhadapku tidak sia-sia; tetapi aku bekerja lebih keras dari semua mereka, namun bukan aku, melainkan kasih karunia Tuhan bersamaku.
 
 ## 1 Korintus 15:11
 
@@ -58,7 +58,7 @@ Dan jika Kristus belum dibangkitkan, maka pemberitaan kami tidak ada gunanya, da
 
 ## 1 Korintus 15:15
 
-Selain itu, kami bahkan ditemukan sebagai saksi palsu tentang Allah, karena kami telah bersaksi tentang Allah bahwa Dia membangkitkan Kristus, yang tidak Dia bangkitkan jika memang orang mati tidak dibangkitkan.
+Selain itu, kami bahkan ditemukan sebagai saksi palsu tentang Tuhan, karena kami telah bersaksi tentang Tuhan bahwa Dia membangkitkan Kristus, yang tidak Dia bangkitkan jika memang orang mati tidak dibangkitkan.
 
 ## 1 Korintus 15:16
 
@@ -94,7 +94,7 @@ Tetapi masing-masing dalam urutannya sendiri: Kristus buah sulung, kemudian mere
 
 ## 1 Korintus 15:24
 
-Kemudian datanglah akhir, ketika Dia menyerahkan kerajaan kepada Allah dan Bapa kita, setelah Dia menghapuskan semua pemerintahan dan semua otoritas dan kekuasaan.
+Kemudian datanglah akhir, ketika Dia menyerahkan kerajaan kepada Tuhan dan Bapa kita, setelah Dia menghapuskan semua pemerintahan dan semua otoritas dan kekuasaan.
 
 ## 1 Korintus 15:25
 
@@ -110,7 +110,7 @@ Karena Dia telah menundukkan segala sesuatu di bawah kaki-Nya. Tetapi ketika Dia
 
 ## 1 Korintus 15:28
 
-Ketika segala sesuatu ditundukkan kepada-Nya, maka Anak itu sendiri juga akan tunduk kepada Dia yang menundukkan segala sesuatu kepada-Nya, sehingga Allah menjadi semua dalam semua.
+Ketika segala sesuatu ditundukkan kepada-Nya, maka Anak itu sendiri juga akan tunduk kepada Dia yang menundukkan segala sesuatu kepada-Nya, sehingga Tuhan menjadi semua dalam semua.
 
 ## 1 Korintus 15:29
 
@@ -137,7 +137,7 @@ Jangan disesatkan: "Pergaulan buruk merusak kebiasaan baik."
 
 ## 1 Korintus 15:34
 
-Bangunlah untuk kebenaran dan berhentilah berbuat dosa, karena beberapa tidak memiliki pengetahuan tentang Allah. Aku mengatakan ini untuk mempermalukanmu.
+Bangunlah untuk kebenaran dan berhentilah berbuat dosa, karena beberapa tidak memiliki pengetahuan tentang Tuhan. Aku mengatakan ini untuk mempermalukanmu.
 
 ## 1 Korintus 15:35
 
@@ -153,7 +153,7 @@ Dan apa yang kamu tabur, kamu tidak menabur tubuh yang akan ada, tetapi sebutir 
 
 ## 1 Korintus 15:38
 
-Tetapi Allah memberikannya tubuh seperti yang Dia inginkan, dan kepada masing-masing biji tubuhnya sendiri.
+Tetapi Tuhan memberikannya tubuh seperti yang Dia inginkan, dan kepada masing-masing biji tubuhnya sendiri.
 
 ## 1 Korintus 15:39
 
@@ -201,7 +201,7 @@ Sama seperti kita telah menanggung gambar manusia dari debu, kita juga akan mena
 
 ## 1 Korintus 15:50
 
-Sekarang aku menyatakan ini, teman-teman terkasih, bahwa daging dan darah tidak dapat mewarisi kerajaan Allah; demikian juga yang binasa tidak mewarisi yang tidak binasa.
+Sekarang aku menyatakan ini, teman-teman terkasih, bahwa daging dan darah tidak dapat mewarisi kerajaan Tuhan; demikian juga yang binasa tidak mewarisi yang tidak binasa.
 
 ## 1 Korintus 15:51
 
@@ -231,7 +231,7 @@ Karena sengat kematian adalah dosa, dan kekuatan dosa adalah Hukum;
 
 ## 1 Korintus 15:57
 
-Jadi, syukur kepada Allah, yang memberikan kita kemenangan melalui Tuhan kita Yesus Kristus.
+Jadi, syukur kepada Tuhan, yang memberikan kita kemenangan melalui Tuhan kita Yesus Kristus.
 
 ## 1 Korintus 15:58
 

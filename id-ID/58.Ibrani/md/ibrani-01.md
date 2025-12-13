@@ -2,7 +2,7 @@
 
 ## Ibrani 1:1
 
-Pada zaman dahulu, Allah berbicara kepada nenek moyang kita melalui para nabi pada berbagai waktu dan dengan berbagai cara,
+Pada zaman dahulu, Tuhan berbicara kepada nenek moyang kita melalui para nabi pada berbagai waktu dan dengan berbagai cara,
 
 ## Ibrani 1:2
 
@@ -10,7 +10,7 @@ tetapi pada zaman akhir ini, Ia telah berbicara kepada kita melalui Anak-Nya, ya
 
 ## Ibrani 1:3
 
-Anak adalah pancaran kemuliaan Allah dan rupa yang tepat dari hakikat-Nya, menopang segala sesuatu dengan firman-Nya yang penuh kuasa. Setelah Ia menyediakan penyucian untuk dosa, Ia duduk di sebelah kanan Yang Mahatinggi.
+Anak adalah pancaran kemuliaan Tuhan dan rupa yang tepat dari hakikat-Nya, menopang segala sesuatu dengan firman-Nya yang penuh kuasa. Setelah Ia menyediakan penyucian untuk dosa, Ia duduk di sebelah kanan Yang Mahatinggi.
 
 ## Ibrani 1:4
 
@@ -18,7 +18,7 @@ Dengan demikian, Ia menjadi jauh lebih unggul dari malaikat-malaikat sebagaimana
 
 ## Ibrani 1:5
 
-Karena kepada malaikat mana pun Allah pernah menyatakan,
+Karena kepada malaikat mana pun Tuhan pernah menyatakan,
 
 > “Engkau adalah Anak-Ku; hari ini
 > Aku telah menjadi Bapa-Mu”?
@@ -30,9 +30,9 @@ Atau lagi,
 
 ## Ibrani 1:6
 
-Dan sekali lagi, ketika Allah memperkenalkan Anak sulung-Nya ke dunia, Ia menyatakan,
+Dan sekali lagi, ketika Tuhan memperkenalkan Anak sulung-Nya ke dunia, Ia menyatakan,
 
-> “Biarlah semua malaikat Allah menyembah Dia.”
+> “Biarlah semua malaikat Tuhan menyembah Dia.”
 
 ## Ibrani 1:7
 
@@ -45,13 +45,13 @@ Dalam berbicara tentang malaikat-malaikat, Ia berkata,
 
 Tetapi tentang Anak, Ia berkata,
 
-> “Takhta-Mu, ya Allah, adalah untuk selama-lamanya;
+> “Takhta-Mu, ya Tuhan, adalah untuk selama-lamanya;
 > tongkat kebenaran akan menjadi tongkat kerajaan-Mu.
 
 ## Ibrani 1:9
 
 > Engkau telah mencintai kebenaran dan membenci kefasikan;
-> oleh karena itu Allah, Allah-Mu, telah mengurapi Engkau
+> oleh karena itu Tuhan, Tuhan-Mu, telah mengurapi Engkau
 > dengan minyak sukacita melebihi teman-teman-Mu.”
 
 ## Ibrani 1:10
@@ -75,7 +75,7 @@ Ia juga menyatakan,
 
 ## Ibrani 1:13
 
-Kepada malaikat mana pun Allah pernah menyatakan,
+Kepada malaikat mana pun Tuhan pernah menyatakan,
 
 > “Duduklah di sebelah kanan-Ku
 > sampai Aku menjadikan musuh-musuh-Mu

@@ -631,7 +631,7 @@
 ## Mazmur 119:115
 
 > Menjauhlah dariku, kamu pelaku kejahatan,  
-> Supaya aku dapat memelihara perintah-perintah Allahku.
+> Supaya aku dapat memelihara perintah-perintah Tuhanku.
 
 ## Mazmur 119:116
 

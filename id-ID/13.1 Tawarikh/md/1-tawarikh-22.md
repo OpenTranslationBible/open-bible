@@ -4,7 +4,7 @@
 
 Pada waktu itu, Daud menyatakan,
 
-> "Inilah rumah Tuhan Allah,  
+> "Inilah rumah Tuhan Tuhan,  
 > dan inilah mezbah untuk korban bakaran bagi Israel."
 
 ---
@@ -13,7 +13,7 @@ Pada waktu itu, Daud menyatakan,
 
 Maka Daud memerintahkan untuk mengumpulkan orang-orang asing yang ada di tanah Israel,
 
-> dan ia menunjuk pemahat batu untuk memotong batu-batu yang sudah selesai untuk membangun rumah Allah.
+> dan ia menunjuk pemahat batu untuk memotong batu-batu yang sudah selesai untuk membangun rumah Tuhan.
 
 ---
 
@@ -48,7 +48,7 @@ Daud berkata,
 
 Kemudian ia memanggil anaknya Salomo
 
-> dan menginstruksikannya untuk membangun rumah bagi Tuhan Allah Israel.
+> dan menginstruksikannya untuk membangun rumah bagi Tuhan Tuhan Israel.
 
 ---
 
@@ -56,7 +56,7 @@ Kemudian ia memanggil anaknya Salomo
 
 Daud berkata kepada Salomo,
 
-> "Anakku, aku memiliki dalam hatiku untuk membangun rumah bagi nama Tuhan Allahku.
+> "Anakku, aku memiliki dalam hatiku untuk membangun rumah bagi nama Tuhan Tuhanku.
 
 ---
 
@@ -89,7 +89,7 @@ Daud berkata kepada Salomo,
 ## 1 Tawarikh 22:11
 
 > Sekarang, anakku, semoga Tuhan menyertaimu,  
-> sehingga engkau dapat berhasil membangun rumah Tuhan Allahmu,  
+> sehingga engkau dapat berhasil membangun rumah Tuhan Tuhanmu,  
 > seperti yang telah Dia katakan mengenai engkau.
 
 ---
@@ -98,7 +98,7 @@ Daud berkata kepada Salomo,
 
 > Hanya semoga Tuhan memberimu wawasan dan pengertian,  
 > dan memberimu perintah atas Israel,  
-> sehingga engkau dapat memelihara Hukum Tuhan Allahmu.
+> sehingga engkau dapat memelihara Hukum Tuhan Tuhanmu.
 
 ---
 
@@ -147,7 +147,7 @@ Daud memerintahkan semua pemimpin Israel untuk membantu anaknya Salomo, dengan m
 
 ## 1 Tawarikh 22:18
 
-> "Bukankah Tuhan Allahmu menyertaimu?  
+> "Bukankah Tuhan Tuhanmu menyertaimu?  
 > Dan bukankah Dia telah memberimu ketenangan di segala sisi?  
 > Karena Dia telah menyerahkan penduduk negeri ke dalam tanganku,  
 > dan negeri itu telah ditaklukkan di hadapan Tuhan dan di hadapan umat-Nya.
@@ -156,7 +156,7 @@ Daud memerintahkan semua pemimpin Israel untuk membantu anaknya Salomo, dengan m
 
 ## 1 Tawarikh 22:19
 
-> Sekarang tetapkanlah hatimu dan jiwamu untuk mencari Tuhan Allahmu.  
-> Bangkitlah, dan bangunlah tempat suci Tuhan Allah,  
+> Sekarang tetapkanlah hatimu dan jiwamu untuk mencari Tuhan Tuhanmu.  
+> Bangkitlah, dan bangunlah tempat suci Tuhan Tuhan,  
 > sehingga engkau dapat membawa tabut perjanjian Tuhan  
-> dan barang-barang kudus Allah ke dalam rumah yang akan dibangun untuk nama Tuhan."
+> dan barang-barang kudus Tuhan ke dalam rumah yang akan dibangun untuk nama Tuhan."

@@ -70,7 +70,7 @@ Yesus menjawab mereka, “Ajaran-Ku bukan milik-Ku, tetapi berasal dari Dia yang
 
 ## Yohanes 7:17
 
-Jika seseorang bersedia melakukan kehendak Allah, ia akan tahu apakah ajaran-Ku berasal dari Allah atau jika Aku berbicara atas kehendak-Ku sendiri.
+Jika seseorang bersedia melakukan kehendak Tuhan, ia akan tahu apakah ajaran-Ku berasal dari Tuhan atau jika Aku berbicara atas kehendak-Ku sendiri.
 
 ## Yohanes 7:18
 

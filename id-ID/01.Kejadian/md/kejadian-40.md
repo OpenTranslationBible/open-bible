@@ -30,7 +30,7 @@ Maka ia bertanya kepada pejabat-pejabat Firaun yang ditahan bersamanya di rumah 
 
 ## Kejadian 40:8
 
-Mereka menjawab, “Kami telah bermimpi, dan tidak ada yang dapat menafsirkannya.” Yusuf berkata kepada mereka, “Bukankah tafsiran itu milik Allah? Ceritakanlah mimpimu kepadaku, tolong.”
+Mereka menjawab, “Kami telah bermimpi, dan tidak ada yang dapat menafsirkannya.” Yusuf berkata kepada mereka, “Bukankah tafsiran itu milik Tuhan? Ceritakanlah mimpimu kepadaku, tolong.”
 
 ## Kejadian 40:9
 

@@ -35,7 +35,7 @@
 
 ## Mazmur 17:6
 
-> Aku telah memanggil-Mu, karena Engkau akan menjawab aku, Allah;  
+> Aku telah memanggil-Mu, karena Engkau akan menjawab aku, Tuhan;  
 > Condongkanlah telinga-Mu kepadaku, dengarkanlah perkataanku.
 
 ## Mazmur 17:7

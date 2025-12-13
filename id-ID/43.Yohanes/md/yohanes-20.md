@@ -68,7 +68,7 @@ Yesus berkata kepadanya, "Maria." Ia berpaling kepada-Nya dan berseru dalam baha
 
 ## Yohanes 20:17
 
-Yesus berkata, "Janganlah engkau memegang Aku, karena Aku belum naik kepada Bapa. Sebaliknya, pergilah kepada saudara-saudara-Ku dan katakanlah kepada mereka, 'Aku akan naik kepada Bapa-Ku dan Bapamu, kepada Allah-Ku dan Allahmu.'"
+Yesus berkata, "Janganlah engkau memegang Aku, karena Aku belum naik kepada Bapa. Sebaliknya, pergilah kepada saudara-saudara-Ku dan katakanlah kepada mereka, 'Aku akan naik kepada Bapa-Ku dan Bapamu, kepada Tuhan-Ku dan Tuhanmu.'"
 
 ## Yohanes 20:18
 
@@ -118,7 +118,7 @@ Kemudian Ia berkata kepada Thomas, "Letakkan jarimu di sini; lihat tangan-Ku. Ul
 
 ## Yohanes 20:28
 
-Thomas berseru kepada-Nya, "Engkau adalah Tuhanku dan Allahku!"
+Thomas berseru kepada-Nya, "Engkau adalah Tuhanku dan Tuhanku!"
 
 ## Yohanes 20:29
 
@@ -132,4 +132,4 @@ Yesus melakukan banyak tanda ajaib lainnya di hadapan para murid-Nya, yang tidak
 
 ## Yohanes 20:31
 
-Tetapi semua ini dicatat agar kamu percaya bahwa Yesus adalah Mesias, Anak Allah, dan dengan percaya kamu memperoleh hidup dalam nama-Nya.
+Tetapi semua ini dicatat agar kamu percaya bahwa Yesus adalah Mesias, Anak Tuhan, dan dengan percaya kamu memperoleh hidup dalam nama-Nya.

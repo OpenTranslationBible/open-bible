@@ -1,107 +1,103 @@
 {
-    "book": "1 Samuel",
-    "chapter": 11,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Kemudian Nahas, orang Amon, maju dan mengepung Yabesh-gilead. Dan semua orang Yabesh berkata kepada Nahas, “Buatlah perjanjian dengan kami, dan kami akan melayani engkau.”"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Tetapi Nahas, orang Amon, berkata kepada mereka, “Dengan syarat ini aku akan membuat perjanjian dengan kamu—bahwa aku mencungkil mata kanan dari setiap orang dari kamu, dan dengan demikian membawa aib atas seluruh Israel.”"
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Para tua-tua Yabesh berkata kepadanya, “Berilah kami tujuh hari untuk mengirim utusan ke seluruh wilayah Israel. Kemudian, jika tidak ada yang menyelamatkan kami, kami akan menyerah kepadamu.”"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Ketika para utusan datang ke Gibea dari Saul dan melaporkan syarat-syarat itu di telinga orang-orang, semua orang menangis dengan keras."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Sekarang lihatlah, Saul datang dari ladang di belakang lembu, dan dia berkata, “Apa yang salah dengan orang-orang, sehingga mereka menangis?” Maka mereka memberitahunya kata-kata orang-orang Yabesh."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Kemudian Roh Allah datang dengan kuat atas Saul ketika dia mendengar kata-kata ini, dan kemarahannya menyala dengan sangat."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Dia mengambil sepasang lembu dan memotongnya menjadi bagian-bagian, dan mengirimkannya ke seluruh wilayah Israel dengan tangan para utusan, sambil berkata, “Siapa pun yang tidak datang mengikuti Saul dan mengikuti Samuel, demikianlah akan dilakukan pada lembunya.” Kemudian ketakutan akan Tuhan jatuh pada orang-orang, dan mereka keluar sebagai satu orang."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Ketika dia mengumpulkan mereka di Bezek, anak-anak Israel berjumlah tiga ratus ribu, dan orang-orang Yehuda tiga puluh ribu."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Mereka berkata kepada para utusan yang datang, “Demikianlah kamu harus mengatakan kepada orang-orang Yabesh-gilead, ‘Besok, pada saat matahari panas, kamu akan mendapatkan pembebasan.’”",
-                "Maka para utusan pergi dan memberitahukan kepada orang-orang Yabesh, dan mereka senang."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Kemudian orang-orang Yabesh berkata, “Besok kami akan menyerahkan diri kepada kamu, dan kamu dapat melakukan kepada kami apa pun yang kamu anggap tepat.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Keesokan harinya Saul mengatur pasukan menjadi tiga divisi, dan mereka masuk ke tengah-tengah perkemahan pada waktu fajar dan memukul orang-orang Amon sampai panas hari. Mereka yang tersisa tercerai-berai, sehingga tidak ada dua dari mereka yang tersisa bersama-sama."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Kemudian orang-orang berkata kepada Samuel, “Siapakah yang berkata, ‘Apakah Saul akan memerintah atas kita?’ Bawa orang-orang itu ke sini, agar kita dapat membunuh mereka.”"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Tetapi Saul berkata, “Tidak ada yang akan dibunuh hari ini, karena hari ini Tuhan telah membawa keselamatan kepada Israel.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Samuel kemudian berbicara kepada orang-orang, “Mari, marilah kita pergi ke Gilgal untuk memperbarui kerajaan di sana.”"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Maka semua orang pergi ke Gilgal, dan di sana mereka menjadikan Saul raja di hadapan Tuhan di Gilgal. Di sana mereka mempersembahkan korban perdamaian di hadapan Tuhan, dan Saul serta semua orang Israel bersukacita dengan sangat."
-            ]
-        }
-    ]
+  "book": "1 Samuel",
+  "chapter": 11,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Kemudian Nahas, orang Amon, maju dan mengepung Yabesh-gilead. Dan semua orang Yabesh berkata kepada Nahas, “Buatlah perjanjian dengan kami, dan kami akan melayani engkau.”"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Tetapi Nahas, orang Amon, berkata kepada mereka, “Dengan syarat ini aku akan membuat perjanjian dengan kamu—bahwa aku mencungkil mata kanan dari setiap orang dari kamu, dan dengan demikian membawa aib atas seluruh Israel.”"
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Para tua-tua Yabesh berkata kepadanya, “Berilah kami tujuh hari untuk mengirim utusan ke seluruh wilayah Israel. Kemudian, jika tidak ada yang menyelamatkan kami, kami akan menyerah kepadamu.”"
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Ketika para utusan datang ke Gibea dari Saul dan melaporkan syarat-syarat itu di telinga orang-orang, semua orang menangis dengan keras."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Sekarang lihatlah, Saul datang dari ladang di belakang lembu, dan dia berkata, “Apa yang salah dengan orang-orang, sehingga mereka menangis?” Maka mereka memberitahunya kata-kata orang-orang Yabesh."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Kemudian Roh Tuhan datang dengan kuat atas Saul ketika dia mendengar kata-kata ini, dan kemarahannya menyala dengan sangat."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Dia mengambil sepasang lembu dan memotongnya menjadi bagian-bagian, dan mengirimkannya ke seluruh wilayah Israel dengan tangan para utusan, sambil berkata, “Siapa pun yang tidak datang mengikuti Saul dan mengikuti Samuel, demikianlah akan dilakukan pada lembunya.” Kemudian ketakutan akan Tuhan jatuh pada orang-orang, dan mereka keluar sebagai satu orang."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Ketika dia mengumpulkan mereka di Bezek, anak-anak Israel berjumlah tiga ratus ribu, dan orang-orang Yehuda tiga puluh ribu."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Mereka berkata kepada para utusan yang datang, “Demikianlah kamu harus mengatakan kepada orang-orang Yabesh-gilead, ‘Besok, pada saat matahari panas, kamu akan mendapatkan pembebasan.’”",
+        "Maka para utusan pergi dan memberitahukan kepada orang-orang Yabesh, dan mereka senang."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Kemudian orang-orang Yabesh berkata, “Besok kami akan menyerahkan diri kepada kamu, dan kamu dapat melakukan kepada kami apa pun yang kamu anggap tepat.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Keesokan harinya Saul mengatur pasukan menjadi tiga divisi, dan mereka masuk ke tengah-tengah perkemahan pada waktu fajar dan memukul orang-orang Amon sampai panas hari. Mereka yang tersisa tercerai-berai, sehingga tidak ada dua dari mereka yang tersisa bersama-sama."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Kemudian orang-orang berkata kepada Samuel, “Siapakah yang berkata, ‘Apakah Saul akan memerintah atas kita?’ Bawa orang-orang itu ke sini, agar kita dapat membunuh mereka.”"
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Tetapi Saul berkata, “Tidak ada yang akan dibunuh hari ini, karena hari ini Tuhan telah membawa keselamatan kepada Israel.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Samuel kemudian berbicara kepada orang-orang, “Mari, marilah kita pergi ke Gilgal untuk memperbarui kerajaan di sana.”"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Maka semua orang pergi ke Gilgal, dan di sana mereka menjadikan Saul raja di hadapan Tuhan di Gilgal. Di sana mereka mempersembahkan korban perdamaian di hadapan Tuhan, dan Saul serta semua orang Israel bersukacita dengan sangat."
+      ]
+    }
+  ]
 }

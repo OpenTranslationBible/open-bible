@@ -54,7 +54,7 @@
 
 ## Mazmur 144:9
 
-> Ya Allah, aku akan menyanyikan lagu baru bagi-Mu;  
+> Ya Tuhan, aku akan menyanyikan lagu baru bagi-Mu;  
 > Dengan kecapi sepuluh tali aku akan memuji-Mu,
 
 ## Mazmur 144:10
@@ -92,4 +92,4 @@
 ## Mazmur 144:15
 
 > Berbahagialah bangsa yang berada dalam keadaan demikian;  
-> Berbahagialah bangsa yang Allahnya adalah Tuhan!
+> Berbahagialah bangsa yang Tuhannya adalah Tuhan!

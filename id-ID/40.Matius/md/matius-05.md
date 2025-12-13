@@ -10,7 +10,7 @@ dan Ia mulai mengajar mereka, kata-Nya:
 
 ## Matius 5:3
 
-> "Berbahagialah orang yang miskin di hadapan Allah,
+> "Berbahagialah orang yang miskin di hadapan Tuhan,
 > karena merekalah yang empunya Kerajaan Sorga.
 
 ## Matius 5:4
@@ -36,12 +36,12 @@ dan Ia mulai mengajar mereka, kata-Nya:
 ## Matius 5:8
 
 > Berbahagialah orang yang suci hatinya,
-> karena mereka akan melihat Allah.
+> karena mereka akan melihat Tuhan.
 
 ## Matius 5:9
 
 > Berbahagialah orang yang membawa damai,
-> karena mereka akan disebut anak-anak Allah.
+> karena mereka akan disebut anak-anak Tuhan.
 
 ## Matius 5:10
 
@@ -134,7 +134,7 @@ Maka jika matamu yang kanan menyesatkan engkau, cungkillah dan buanglah itu, kar
 
 ## Matius 5:30
 
-Dan jika tanganmu yang kanan menyesatkan engkau, penggallah dan buanglah itu, karena lebih baik bagimu jika satu dari anggota tubuhmu binasa daripada tubuhmu dengan utuh masuk neraka.
+Dan jika tanganmu yang kanan menyesatkan engkau, penggTuhan dan buanglah itu, karena lebih baik bagimu jika satu dari anggota tubuhmu binasa daripada tubuhmu dengan utuh masuk neraka.
 
 ---
 
@@ -154,7 +154,7 @@ Kamu telah mendengar pula yang difirmankan kepada nenek moyang kita: Jangan bers
 
 ## Matius 5:34
 
-Tetapi Aku berkata kepadamu: Janganlah sekali-kali bersumpah, baik demi langit, karena langit adalah takhta Allah,
+Tetapi Aku berkata kepadamu: Janganlah sekali-kali bersumpah, baik demi langit, karena langit adalah takhta Tuhan,
 
 ## Matius 5:35
 
@@ -210,7 +210,7 @@ Apabila kamu mengasihi orang yang mengasihi kamu, apakah upahmu? Bukankah pemung
 
 ## Matius 5:47
 
-Dan apabila kamu hanya memberi salam kepada saudara-saudaramu saja, apakah lebihnya dari pada perbuatan orang lain? Bukankah orang yang tidak mengenal Allah pun berbuat demikian?
+Dan apabila kamu hanya memberi salam kepada saudara-saudaramu saja, apakah lebihnya dari pada perbuatan orang lain? Bukankah orang yang tidak mengenal Tuhan pun berbuat demikian?
 
 ## Matius 5:48
 

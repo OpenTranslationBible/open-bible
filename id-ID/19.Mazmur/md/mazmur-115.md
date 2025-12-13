@@ -11,11 +11,11 @@
 ## Mazmur 115:2
 
 > Mengapa bangsa-bangsa bertanya,  
-> “Di manakah Allah mereka sekarang?”
+> “Di manakah Tuhan mereka sekarang?”
 
 ## Mazmur 115:3
 
-> Namun Allah kami ada di surga;  
+> Namun Tuhan kami ada di surga;  
 > Dia melakukan segala yang Dia kehendaki.
 
 ## Mazmur 115:4

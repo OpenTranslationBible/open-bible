@@ -36,9 +36,9 @@ dan menempatkan mereka di Halah dan di tepi Habor, sungai Gozan, dan di kota-kot
 
 ## 2 Raja-raja 17:7
 
-Hal ini terjadi karena orang-orang Israel telah berdosa terhadap Tuhan Allah mereka,  
+Hal ini terjadi karena orang-orang Israel telah berdosa terhadap Tuhan Tuhan mereka,  
 yang telah membawa mereka keluar dari tanah Mesir dari bawah tangan Firaun raja Mesir,  
-dan mereka telah takut kepada allah lain
+dan mereka telah takut kepada Tuhan lain
 
 ## 2 Raja-raja 17:8
 
@@ -48,7 +48,7 @@ dan dalam cara-cara raja-raja Israel yang telah mereka perkenalkan.
 
 ## 2 Raja-raja 17:9
 
-Dan orang-orang Israel melakukan hal-hal secara rahasia yang tidak benar terhadap Tuhan Allah mereka.  
+Dan orang-orang Israel melakukan hal-hal secara rahasia yang tidak benar terhadap Tuhan Tuhan mereka.  
 Selain itu, mereka membangun bagi diri mereka sendiri tempat-tempat tinggi di semua kota mereka,  
 dari menara penjaga hingga kota yang berkubu.
 
@@ -78,7 +78,7 @@ dan yang telah Kukirimkan kepadamu melalui hamba-hamba-Ku para nabi.”
 ## 2 Raja-raja 17:14
 
 Namun, mereka tidak mendengarkan, tetapi mengeraskan leher mereka  
-seperti nenek moyang mereka, yang tidak percaya kepada Tuhan Allah mereka.
+seperti nenek moyang mereka, yang tidak percaya kepada Tuhan Tuhan mereka.
 
 ## 2 Raja-raja 17:15
 
@@ -90,7 +90,7 @@ tentang siapa Tuhan telah memerintahkan mereka untuk tidak melakukan seperti yan
 
 ## 2 Raja-raja 17:16
 
-Mereka meninggalkan semua perintah Tuhan Allah mereka  
+Mereka meninggalkan semua perintah Tuhan Tuhan mereka  
 dan membuat bagi diri mereka sendiri patung logam—dua anak lembu—  
 dan membuat sebuah Asyera, dan menyembah semua benda langit dan melayani Baal.
 
@@ -107,7 +107,7 @@ tidak ada yang tersisa kecuali suku Yehuda saja.
 
 ## 2 Raja-raja 17:19
 
-Juga Yehuda tidak memelihara perintah-perintah Tuhan Allah mereka,  
+Juga Yehuda tidak memelihara perintah-perintah Tuhan Tuhan mereka,  
 tetapi mereka berjalan dalam kebiasaan yang telah diperkenalkan oleh Israel.
 
 ## 2 Raja-raja 17:20
@@ -150,16 +150,16 @@ oleh karena itu Tuhan mengirim singa-singa di antara mereka yang membunuh bebera
 
 Maka mereka memberitahu raja Asyur, dengan berkata,  
 “Bangsa-bangsa yang telah engkau bawa ke dalam pembuangan dan menempatkan di kota-kota Samaria  
-tidak mengetahui kebiasaan Allah negeri itu;  
+tidak mengetahui kebiasaan Tuhan negeri itu;  
 jadi Dia telah mengirim singa-singa di antara mereka, dan lihatlah, mereka membunuh mereka,  
-karena mereka tidak mengetahui kebiasaan Allah negeri itu.”
+karena mereka tidak mengetahui kebiasaan Tuhan negeri itu.”
 
 ## 2 Raja-raja 17:27
 
 Kemudian raja Asyur memerintahkan, dengan berkata,  
 “Bawalah salah satu imam yang telah engkau bawa ke dalam pembuangan dari sana,  
 dan biarkan dia pergi dan tinggal di sana,  
-dan biarkan dia mengajarkan kepada mereka kebiasaan Allah negeri itu.”
+dan biarkan dia mengajarkan kepada mereka kebiasaan Tuhan negeri itu.”
 
 ## 2 Raja-raja 17:28
 
@@ -170,7 +170,7 @@ dan tinggal di Betel, dan mengajarkan kepada mereka bagaimana mereka harus takut
 
 ## 2 Raja-raja 17:29
 
-Tetapi setiap bangsa masih membuat allahnya sendiri  
+Tetapi setiap bangsa masih membuat Tuhannya sendiri  
 dan menempatkannya di rumah-rumah tempat tinggi  
 yang telah dibuat oleh orang-orang Samaria,  
 setiap bangsa di kota-kota mereka di mana mereka tinggal.
@@ -185,7 +185,7 @@ orang-orang Hamat membuat Asima,
 
 dan orang-orang Awa membuat Nibhas dan Tartak,  
 dan orang-orang Sefarwaim mempersembahkan anak-anak mereka dalam api  
-kepada Adramelekh dan Anamelekh, allah-allah Sefarwaim.
+kepada Adramelekh dan Anamelekh, Tuhan-Tuhan Sefarwaim.
 
 ## 2 Raja-raja 17:32
 
@@ -195,7 +195,7 @@ yang melayani mereka di rumah-rumah tempat tinggi.
 
 ## 2 Raja-raja 17:33
 
-Mereka takut kepada Tuhan, namun melayani allah mereka sendiri  
+Mereka takut kepada Tuhan, namun melayani Tuhan mereka sendiri  
 sesuai dengan kebiasaan bangsa-bangsa  
 dari antara siapa mereka telah dibawa ke dalam pembuangan.
 
@@ -209,7 +209,7 @@ yang dinamai-Nya Israel;
 ## 2 Raja-raja 17:35
 
 dengan siapa Tuhan membuat perjanjian dan memerintahkan mereka, dengan berkata,  
-“Kamu tidak boleh takut kepada allah lain, atau sujud kepada mereka, atau melayani mereka, atau mempersembahkan korban kepada mereka.
+“Kamu tidak boleh takut kepada Tuhan lain, atau sujud kepada mereka, atau melayani mereka, atau mempersembahkan korban kepada mereka.
 
 ## 2 Raja-raja 17:36
 
@@ -220,17 +220,17 @@ Dia yang harus kamu takuti, dan kepada-Nya kamu harus sujud, dan kepada-Nya kamu
 
 Dan ketetapan-ketetapan, peraturan-peraturan, Hukum, dan perintah yang telah ditulis-Nya untukmu,  
 kamu harus berhati-hati untuk melakukannya selalu,  
-dan kamu tidak boleh takut kepada allah lain.
+dan kamu tidak boleh takut kepada Tuhan lain.
 
 ## 2 Raja-raja 17:38
 
 Dan perjanjian yang telah Kubuat denganmu,  
 kamu harus ingat,  
-juga kamu tidak boleh takut kepada allah lain.
+juga kamu tidak boleh takut kepada Tuhan lain.
 
 ## 2 Raja-raja 17:39
 
-Tetapi Tuhan Allahmu yang harus kamu takuti;  
+Tetapi Tuhan Tuhanmu yang harus kamu takuti;  
 dan Dia akan menyelamatkan kamu dari tangan semua musuhmu.”
 
 ## 2 Raja-raja 17:40

@@ -38,7 +38,7 @@ Aku mengambil engkau dari ujung-ujung bumi dan memanggil engkau dari bagian-bagi
 
 ## Yesaya 41:10
 
-Jangan takut, karena Aku menyertaimu; janganlah bimbang, karena Aku adalah Allahmu. Aku akan menguatkan engkau dan menolong engkau; Aku akan menopang engkau dengan tangan kanan-Ku yang benar.
+Jangan takut, karena Aku menyertaimu; janganlah bimbang, karena Aku adalah Tuhanmu. Aku akan menguatkan engkau dan menolong engkau; Aku akan menopang engkau dengan tangan kanan-Ku yang benar.
 
 ## Yesaya 41:11
 
@@ -50,7 +50,7 @@ Meskipun engkau mencari musuh-musuhmu, engkau tidak akan menemukannya. Mereka ya
 
 ## Yesaya 41:13
 
-Karena Aku adalah Tuhan, Allahmu, yang memegang tangan kananmu, dan Aku berkata kepadamu, ‘Jangan takut; Aku akan menolong engkau.’
+Karena Aku adalah Tuhan, Tuhanmu, yang memegang tangan kananmu, dan Aku berkata kepadamu, ‘Jangan takut; Aku akan menolong engkau.’
 
 ## Yesaya 41:14
 
@@ -66,7 +66,7 @@ Engkau akan menampi mereka, dan angin akan membawa mereka pergi, dan badai akan 
 
 ## Yesaya 41:17
 
-“Orang miskin dan yang membutuhkan mencari air, tetapi tidak ada; lidah mereka kering karena haus. Aku, Tuhan, akan menjawab mereka; Aku, Allah Israel, tidak akan meninggalkan mereka.
+“Orang miskin dan yang membutuhkan mencari air, tetapi tidak ada; lidah mereka kering karena haus. Aku, Tuhan, akan menjawab mereka; Aku, Tuhan Israel, tidak akan meninggalkan mereka.
 
 ## Yesaya 41:18
 

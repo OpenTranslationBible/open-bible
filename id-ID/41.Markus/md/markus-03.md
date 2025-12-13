@@ -44,7 +44,7 @@ Sebab Dia telah menyembuhkan banyak orang, sehingga mereka yang menderita penyak
 
 ## Markus 3:11
 
-Setiap kali roh-roh najis melihat Dia, mereka akan jatuh di hadapan-Nya dan berseru, “Engkau adalah Anak Allah.”
+Setiap kali roh-roh najis melihat Dia, mereka akan jatuh di hadapan-Nya dan berseru, “Engkau adalah Anak Tuhan.”
 
 ## Markus 3:12
 
@@ -148,4 +148,4 @@ Sambil memandang kepada mereka yang duduk melingkar di sekitar-Nya, Dia berkata,
 
 ## Markus 3:35
 
-Siapa pun yang melakukan kehendak Allah adalah saudara laki-laki, saudara perempuan, dan ibu-Ku.”
+Siapa pun yang melakukan kehendak Tuhan adalah saudara laki-laki, saudara perempuan, dan ibu-Ku.”

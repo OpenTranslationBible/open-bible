@@ -66,7 +66,7 @@ Dia berkata kepada mereka, “Tetapi bagaimana dengan kamu? Siapakah kamu kataka
 
 ## Matius 16:16
 
-Simon Petrus menjawab, “Engkau adalah Mesias, Anak Allah yang hidup.”
+Simon Petrus menjawab, “Engkau adalah Mesias, Anak Tuhan yang hidup.”
 
 ## Matius 16:17
 
@@ -96,7 +96,7 @@ Petrus menarik Dia ke samping dan mulai menegur-Nya. “Tuhan melarangnya, Tuhan
 
 ## Matius 16:23
 
-Tetapi Yesus berpaling dan berkata kepada Petrus, “Enyahlah dari hadapan-Ku, Setan! Kamu adalah batu sandungan bagi-Ku; kamu tidak memikirkan hal-hal yang dari Allah, tetapi hanya hal-hal manusia.”
+Tetapi Yesus berpaling dan berkata kepada Petrus, “Enyahlah dari hadapan-Ku, Setan! Kamu adalah batu sandungan bagi-Ku; kamu tidak memikirkan hal-hal yang dari Tuhan, tetapi hanya hal-hal manusia.”
 
 ---
 

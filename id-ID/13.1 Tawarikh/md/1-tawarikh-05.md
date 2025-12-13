@@ -158,7 +158,7 @@ Mereka terlibat dalam pertempuran dengan orang Hagri,
 Mereka menerima bantuan melawan mereka,  
 dan orang Hagri dan semua yang bersama mereka diserahkan ke tangan mereka;
 
-> karena mereka berseru kepada Allah dalam pertempuran,  
+> karena mereka berseru kepada Tuhan dalam pertempuran,  
 > dan Dia menjawab doa mereka, karena mereka percaya kepada-Nya.
 
 ---
@@ -177,7 +177,7 @@ Mereka merampas ternak mereka:
 ## 1 Tawarikh 5:22
 
 Karena banyak yang jatuh terluka parah,  
-karena perang itu dari Allah.
+karena perang itu dari Tuhan.
 
 > Dan mereka menetap di tempat mereka sampai pembuangan.
 
@@ -201,15 +201,15 @@ Ini adalah para pemimpin rumah-rumah ayah mereka:
 
 ## 1 Tawarikh 5:25
 
-Tetapi mereka tidak setia kepada Allah nenek moyang mereka,  
+Tetapi mereka tidak setia kepada Tuhan nenek moyang mereka,  
 dan terlibat dalam penyembahan berhala dengan dewa-dewa bangsa-bangsa di tanah itu,  
-yang telah dihancurkan Allah di hadapan mereka.
+yang telah dihancurkan Tuhan di hadapan mereka.
 
 ---
 
 ## 1 Tawarikh 5:26
 
-Maka Allah Israel menggerakkan roh Pul raja Asyur,  
+Maka Tuhan Israel menggerakkan roh Pul raja Asyur,  
 yaitu, roh Tiglat-Pileser raja Asyur,  
 dan dia membawa mereka ke dalam pembuangan, yaitu:
 

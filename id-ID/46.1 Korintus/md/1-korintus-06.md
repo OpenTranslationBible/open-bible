@@ -34,15 +34,15 @@ Sebaliknya, kamu sendiri melakukan kesalahan dan menipu, dan kamu melakukan ini 
 
 ## 1 Korintus 6:9
 
-Atau tidak tahukah kamu bahwa orang-orang yang berlaku tidak adil tidak akan mewarisi kerajaan Allah? Janganlah tertipu; baik orang yang melakukan perbuatan cabul, maupun penyembah berhala, maupun orang yang berzinah, maupun orang yang melakukan praktik yang bertentangan dengan alam,
+Atau tidak tahukah kamu bahwa orang-orang yang berlaku tidak adil tidak akan mewarisi kerajaan Tuhan? Janganlah tertipu; baik orang yang melakukan perbuatan cabul, maupun penyembah berhala, maupun orang yang berzinah, maupun orang yang melakukan praktik yang bertentangan dengan alam,
 
 ## 1 Korintus 6:10
 
-maupun pencuri, maupun orang yang serakah, maupun orang yang mabuk, maupun orang yang berbicara kasar, maupun penipu, tidak akan mewarisi kerajaan Allah.
+maupun pencuri, maupun orang yang serakah, maupun orang yang mabuk, maupun orang yang berbicara kasar, maupun penipu, tidak akan mewarisi kerajaan Tuhan.
 
 ## 1 Korintus 6:11
 
-Beberapa dari kamu dahulu demikian; tetapi kamu telah dibersihkan, kamu telah dikuduskan, kamu telah dinyatakan benar dalam nama Tuhan Yesus Kristus dan oleh Roh Allah kita.
+Beberapa dari kamu dahulu demikian; tetapi kamu telah dibersihkan, kamu telah dikuduskan, kamu telah dinyatakan benar dalam nama Tuhan Yesus Kristus dan oleh Roh Tuhan kita.
 
 ## 1 Korintus 6:12
 
@@ -50,11 +50,11 @@ Segala sesuatu diperbolehkan bagiku, tetapi tidak semua hal berguna. Segala sesu
 
 ## 1 Korintus 6:13
 
-Makanan adalah untuk perut dan perut untuk makanan, namun Allah akan meniadakan keduanya. Namun tubuh bukan untuk percabulan, melainkan untuk Tuhan, dan Tuhan untuk tubuh.
+Makanan adalah untuk perut dan perut untuk makanan, namun Tuhan akan meniadakan keduanya. Namun tubuh bukan untuk percabulan, melainkan untuk Tuhan, dan Tuhan untuk tubuh.
 
 ## 1 Korintus 6:14
 
-Allah bukan hanya membangkitkan Tuhan, tetapi juga akan membangkitkan kita melalui kuasa-Nya.
+Tuhan bukan hanya membangkitkan Tuhan, tetapi juga akan membangkitkan kita melalui kuasa-Nya.
 
 ## 1 Korintus 6:15
 
@@ -74,8 +74,8 @@ Hindarilah percabulan. Setiap dosa lain yang dilakukan seseorang adalah di luar 
 
 ## 1 Korintus 6:19
 
-Atau tidakkah kamu tahu bahwa tubuhmu adalah tempat kediaman Roh Kudus di dalam kamu, yang kamu terima dari Allah, dan bahwa kamu bukan milikmu sendiri?
+Atau tidakkah kamu tahu bahwa tubuhmu adalah tempat kediaman Roh Kudus di dalam kamu, yang kamu terima dari Tuhan, dan bahwa kamu bukan milikmu sendiri?
 
 ## 1 Korintus 6:20
 
-Karena kamu telah dibeli dengan harga: oleh karena itu muliakanlah Allah dengan tubuhmu.
+Karena kamu telah dibeli dengan harga: oleh karena itu muliakanlah Tuhan dengan tubuhmu.

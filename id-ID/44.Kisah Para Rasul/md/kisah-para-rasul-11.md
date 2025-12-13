@@ -2,7 +2,7 @@
 
 ## Kisah Para Rasul 11:1
 
-Rasul-rasul dan saudara-saudara di seluruh Yudea mendengar bahwa bangsa-bangsa lain juga telah menerima firman Allah.
+Rasul-rasul dan saudara-saudara di seluruh Yudea mendengar bahwa bangsa-bangsa lain juga telah menerima firman Tuhan.
 
 ## Kisah Para Rasul 11:2
 
@@ -34,7 +34,7 @@ Tetapi aku berkata, 'Tentu tidak, Tuhan! Tidak ada sesuatu yang najis atau tidak
 
 ## Kisah Para Rasul 11:9
 
-Suara itu berbicara dari langit lagi, 'Jangan anggap sesuatu najis yang Allah telah jadikan bersih.'
+Suara itu berbicara dari langit lagi, 'Jangan anggap sesuatu najis yang Tuhan telah jadikan bersih.'
 
 ## Kisah Para Rasul 11:10
 
@@ -66,11 +66,11 @@ Kemudian aku teringat apa yang dikatakan Tuhan: 'Yohanes membaptis dengan air, t
 
 ## Kisah Para Rasul 11:17
 
-Jadi jika Allah memberikan kepada mereka karunia yang sama yang Dia berikan kepada kita yang percaya kepada Tuhan Yesus Kristus, siapakah aku sehingga aku dapat menentang Allah?"
+Jadi jika Tuhan memberikan kepada mereka karunia yang sama yang Dia berikan kepada kita yang percaya kepada Tuhan Yesus Kristus, siapakah aku sehingga aku dapat menentang Tuhan?"
 
 ## Kisah Para Rasul 11:18
 
-Ketika mereka mendengar hal ini, mereka menjadi tenang dan memuliakan Allah, dengan berkata, "Jadi, Allah juga telah memberikan kepada bangsa-bangsa lain pertobatan yang membawa kepada hidup."
+Ketika mereka mendengar hal ini, mereka menjadi tenang dan memuliakan Tuhan, dengan berkata, "Jadi, Tuhan juga telah memberikan kepada bangsa-bangsa lain pertobatan yang membawa kepada hidup."
 
 ---
 
@@ -92,7 +92,7 @@ Berita tentang hal ini sampai ke gereja di Yerusalem, dan mereka mengutus Barnab
 
 ## Kisah Para Rasul 11:23
 
-Ketika dia tiba dan melihat kasih karunia Allah, dia bersukacita dan mendorong mereka semua untuk tetap setia kepada Tuhan dengan segenap hati mereka.
+Ketika dia tiba dan melihat kasih karunia Tuhan, dia bersukacita dan mendorong mereka semua untuk tetap setia kepada Tuhan dengan segenap hati mereka.
 
 ## Kisah Para Rasul 11:24
 

@@ -2,7 +2,7 @@
 
 ## Markus 13:1
 
-Ketika Yesus keluar dari Bait Allah, salah seorang murid-Nya berkata kepada-Nya, “Guru, lihatlah batu-batu yang mengesankan dan bangunan-bangunan yang megah ini!”
+Ketika Yesus keluar dari Bait Tuhan, salah seorang murid-Nya berkata kepada-Nya, “Guru, lihatlah batu-batu yang mengesankan dan bangunan-bangunan yang megah ini!”
 
 ## Markus 13:2
 
@@ -12,7 +12,7 @@ Yesus menjawab, “Apakah kamu melihat bangunan-bangunan yang megah ini? Tidak s
 
 ## Markus 13:3
 
-Ketika Ia duduk di atas Bukit Zaitun berhadapan dengan Bait Allah, Petrus, Yakobus, Yohanes, dan Andreas bertanya kepada-Nya secara pribadi,
+Ketika Ia duduk di atas Bukit Zaitun berhadapan dengan Bait Tuhan, Petrus, Yakobus, Yohanes, dan Andreas bertanya kepada-Nya secara pribadi,
 
 ## Markus 13:4
 
@@ -80,7 +80,7 @@ Berdoalah agar itu tidak terjadi di musim dingin,
 
 ## Markus 13:19
 
-karena hari-hari itu akan menjadi masa kesengsaraan yang belum pernah terjadi sejak awal penciptaan, yang diciptakan Allah, sampai sekarang, dan tidak akan pernah terjadi lagi.
+karena hari-hari itu akan menjadi masa kesengsaraan yang belum pernah terjadi sejak awal penciptaan, yang diciptakan Tuhan, sampai sekarang, dan tidak akan pernah terjadi lagi.
 
 ## Markus 13:20
 

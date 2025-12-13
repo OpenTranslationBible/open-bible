@@ -17,14 +17,14 @@
 
 ## Mazmur 80:3
 
-> Ya Allah, bawalah kami kembali  
+> Ya Tuhan, bawalah kami kembali  
 > Dan biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan.
 
 ---
 
 ## Mazmur 80:4
 
-> Tuhan Allah semesta alam,  
+> Tuhan Tuhan semesta alam,  
 > Berapa lama Engkau akan murka terhadap doa umat-Mu?
 
 ## Mazmur 80:5
@@ -41,7 +41,7 @@
 
 ## Mazmur 80:7
 
-> Allah semesta alam, bawalah kami kembali  
+> Tuhan semesta alam, bawalah kami kembali  
 > Dan biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan.
 
 ---
@@ -80,7 +80,7 @@
 
 ## Mazmur 80:14
 
-> Allah semesta alam, kembalilah;  
+> Tuhan semesta alam, kembalilah;  
 > Pandanglah dari surga dan lihatlah, dan rawatlah pohon anggur ini,
 
 ## Mazmur 80:15
@@ -109,5 +109,5 @@
 
 ## Mazmur 80:19
 
-> Tuhan Allah semesta alam, bawalah kami kembali;  
+> Tuhan Tuhan semesta alam, bawalah kami kembali;  
 > Biarlah wajah-Mu bersinar atas kami, supaya kami diselamatkan.

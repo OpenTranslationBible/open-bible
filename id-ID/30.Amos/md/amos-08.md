@@ -2,7 +2,7 @@
 
 ## Amos 8:1
 
-Inilah yang diungkapkan Tuhan Allah kepadaku: sebuah keranjang berisi buah musim panas.
+Inilah yang diungkapkan Tuhan Tuhan kepadaku: sebuah keranjang berisi buah musim panas.
 
 ## Amos 8:2
 
@@ -10,7 +10,7 @@ Dan Dia bertanya, “Apa yang kamu lihat, Amos?” Aku menjawab, “Sebuah keran
 
 ## Amos 8:3
 
-“Pada hari itu,” demikianlah firman Tuhan Allah, “nyanyian di bait suci akan berubah menjadi ratapan. Banyak mayat akan dilemparkan ke mana-mana! Diam!”
+“Pada hari itu,” demikianlah firman Tuhan Tuhan, “nyanyian di bait suci akan berubah menjadi ratapan. Banyak mayat akan dilemparkan ke mana-mana! Diam!”
 
 ## Amos 8:4
 
@@ -44,7 +44,7 @@ Tuhan telah bersumpah demi kebanggaan Yakub:
 
 ## Amos 8:9
 
-“Dan akan terjadi pada hari itu,” demikianlah firman Tuhan Allah,
+“Dan akan terjadi pada hari itu,” demikianlah firman Tuhan Tuhan,
 
 > “bahwa Aku akan membuat matahari terbenam pada tengah hari
 > dan menggelapkan bumi di siang hari bolong.
@@ -59,7 +59,7 @@ Tuhan telah bersumpah demi kebanggaan Yakub:
 
 ## Amos 8:11
 
-> “Lihatlah, hari-hari akan datang,” demikianlah firman Tuhan Allah,
+> “Lihatlah, hari-hari akan datang,” demikianlah firman Tuhan Tuhan,
 > “ketika Aku akan mengirimkan kelaparan ke negeri ini
 > —bukan kelaparan akan roti atau kehausan akan air,
 > tetapi kelaparan akan mendengar firman Tuhan.

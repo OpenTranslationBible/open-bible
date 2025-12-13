@@ -70,7 +70,7 @@ sesuai dengan firman Tuhan yang diucapkan melawan Baesa melalui nabi Yehu,
 ## 1 Raja-raja 16:13
 
 karena semua dosa Baesa dan dosa Ela anaknya,  
-yang mereka lakukan dan yang mereka bawa Israel ke dalamnya, membangkitkan amarah Tuhan, Allah Israel, dengan berhala-berhala mereka.
+yang mereka lakukan dan yang mereka bawa Israel ke dalamnya, membangkitkan amarah Tuhan, Tuhan Israel, dengan berhala-berhala mereka.
 
 ## 1 Raja-raja 16:14
 
@@ -147,7 +147,7 @@ dan bertindak lebih jahat daripada semua orang yang ada sebelumnya.
 
 Karena dia sepenuhnya mengikuti jalan Yerobeam anak Nebat,  
 dan dalam dosa-dosanya yang menyesatkan Israel,  
-membangkitkan amarah Tuhan, Allah Israel, dengan berhala-berhala mereka yang tak berharga.
+membangkitkan amarah Tuhan, Tuhan Israel, dengan berhala-berhala mereka yang tak berharga.
 
 ## 1 Raja-raja 16:27
 
@@ -184,7 +184,7 @@ yang dibangunnya di Samaria.
 ## 1 Raja-raja 16:33
 
 Ahab juga membuat Asyera.  
-Demikianlah, Ahab melakukan lebih banyak untuk membangkitkan amarah Tuhan, Allah Israel,  
+Demikianlah, Ahab melakukan lebih banyak untuk membangkitkan amarah Tuhan, Tuhan Israel,  
 daripada semua raja Israel yang ada sebelumnya.
 
 ## 1 Raja-raja 16:34

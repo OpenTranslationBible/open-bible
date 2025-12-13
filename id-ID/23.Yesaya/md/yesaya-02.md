@@ -10,7 +10,7 @@ Pada hari-hari terakhir, gunung rumah Tuhan akan ditegakkan sebagai yang terting
 
 ## Yesaya 2:3
 
-Banyak bangsa akan datang dan berkata, “Mari, kita naik ke gunung Tuhan, ke rumah Allah Yakub. Dia akan mengajar kita tentang jalan-jalan-Nya, supaya kita dapat berjalan di jalan-Nya.” Sebab dari Sion akan keluar hukum, dan firman Tuhan dari Yerusalem.
+Banyak bangsa akan datang dan berkata, “Mari, kita naik ke gunung Tuhan, ke rumah Tuhan Yakub. Dia akan mengajar kita tentang jalan-jalan-Nya, supaya kita dapat berjalan di jalan-Nya.” Sebab dari Sion akan keluar hukum, dan firman Tuhan dari Yerusalem.
 
 ## Yesaya 2:4
 

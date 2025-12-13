@@ -10,7 +10,7 @@ Dan aku melihat enam orang datang dari arah gerbang atas, yang menghadap ke utar
 
 ## Yehezkiel 9:3
 
-Sekarang kemuliaan Allah Israel naik dari kerub, tempatnya berada, ke ambang pintu bait suci. Kemudian Dia memanggil orang yang berpakaian kain lenan yang memiliki perlengkapan penulis di pinggangnya.
+Sekarang kemuliaan Tuhan Israel naik dari kerub, tempatnya berada, ke ambang pintu bait suci. Kemudian Dia memanggil orang yang berpakaian kain lenan yang memiliki perlengkapan penulis di pinggangnya.
 
 ## Yehezkiel 9:4
 
@@ -30,7 +30,7 @@ Kemudian Dia berkata kepada mereka, “Cemarkanlah bait suci dan penuhilah pelat
 
 ## Yehezkiel 9:8
 
-Ketika mereka sedang memukul orang-orang dan aku sendiri yang tersisa, aku jatuh tertelungkup dan berseru, berkata, “Oh, Tuhan Allah! Apakah Engkau akan menghancurkan seluruh sisa Israel dengan mencurahkan murka-Mu atas Yerusalem?”
+Ketika mereka sedang memukul orang-orang dan aku sendiri yang tersisa, aku jatuh tertelungkup dan berseru, berkata, “Oh, Tuhan Tuhan! Apakah Engkau akan menghancurkan seluruh sisa Israel dengan mencurahkan murka-Mu atas Yerusalem?”
 
 ## Yehezkiel 9:9
 

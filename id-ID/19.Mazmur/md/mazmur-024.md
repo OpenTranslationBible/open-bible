@@ -30,7 +30,7 @@
 ## Mazmur 24:5
 
 > Orang itu akan menerima berkat dari Tuhan  
-> Dan kebenaran dari Allah yang menyelamatkannya.
+> Dan kebenaran dari Tuhan yang menyelamatkannya.
 
 ## Mazmur 24:6
 

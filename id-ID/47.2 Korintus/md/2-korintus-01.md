@@ -2,20 +2,20 @@
 
 ## 2 Korintus 1:1
 
-Dari Paulus, seorang rasul Kristus Yesus oleh kehendak Allah, dan Timotius saudara kita,  
-Kepada jemaat Allah di Korintus, bersama dengan semua orang kudus di seluruh Akhaya:
+Dari Paulus, seorang rasul Kristus Yesus oleh kehendak Tuhan, dan Timotius saudara kita,  
+Kepada jemaat Tuhan di Korintus, bersama dengan semua orang kudus di seluruh Akhaya:
 
 ## 2 Korintus 1:2
 
-Semoga kamu menerima kasih karunia dan damai sejahtera dari Allah Bapa kita dan Tuhan Yesus Kristus.
+Semoga kamu menerima kasih karunia dan damai sejahtera dari Tuhan Bapa kita dan Tuhan Yesus Kristus.
 
 ## 2 Korintus 1:3
 
-Terpujilah Allah dan Bapa Tuhan kita Yesus Kristus, Bapa yang penuh belas kasihan dan sumber segala penghiburan,
+Terpujilah Tuhan dan Bapa Tuhan kita Yesus Kristus, Bapa yang penuh belas kasihan dan sumber segala penghiburan,
 
 ## 2 Korintus 1:4
 
-Yang menghibur kita dalam segala kesusahan kita, sehingga kita dapat menghibur mereka yang berada dalam kesusahan dengan penghiburan yang kita sendiri terima dari Allah.
+Yang menghibur kita dalam segala kesusahan kita, sehingga kita dapat menghibur mereka yang berada dalam kesusahan dengan penghiburan yang kita sendiri terima dari Tuhan.
 
 ## 2 Korintus 1:5
 
@@ -35,7 +35,7 @@ Sebab kami tidak ingin kamu tidak mengetahui, saudara-saudara, tentang kesusahan
 
 ## 2 Korintus 1:9
 
-Sesungguhnya, kami merasa seolah-olah telah menerima hukuman mati, agar kami tidak mengandalkan diri kami sendiri tetapi kepada Allah, yang membangkitkan orang mati;
+Sesungguhnya, kami merasa seolah-olah telah menerima hukuman mati, agar kami tidak mengandalkan diri kami sendiri tetapi kepada Tuhan, yang membangkitkan orang mati;
 
 ## 2 Korintus 1:10
 
@@ -47,7 +47,7 @@ Jika kamu juga turut membantu kami dengan doa-doamu, sehingga banyak orang dapat
 
 ## 2 Korintus 1:12
 
-Karena kebanggaan kami adalah ini, kesaksian hati nurani kami, bahwa dalam kekudusan dan ketulusan ilahi, bukan dalam hikmat duniawi tetapi dalam kasih karunia Allah, kami telah bertindak di dunia, dan terutama terhadap kamu.
+Karena kebanggaan kami adalah ini, kesaksian hati nurani kami, bahwa dalam kekudusan dan ketulusan ilahi, bukan dalam hikmat duniawi tetapi dalam kasih karunia Tuhan, kami telah bertindak di dunia, dan terutama terhadap kamu.
 
 ## 2 Korintus 1:13
 
@@ -71,19 +71,19 @@ Oleh karena itu, aku tidak ragu-ragu ketika aku bermaksud melakukan ini, bukan? 
 
 ## 2 Korintus 1:18
 
-Tetapi sebagaimana Allah setia, pesan kami kepadamu bukan campuran "Ya dan tidak."
+Tetapi sebagaimana Tuhan setia, pesan kami kepadamu bukan campuran "Ya dan tidak."
 
 ## 2 Korintus 1:19
 
-Karena Anak Allah, Kristus Yesus, yang diberitakan di antara kamu oleh kami—oleh aku dan Silwanus dan Timotius—bukan campuran "Ya dan tidak," tetapi selalu "Ya" di dalam Dia.
+Karena Anak Tuhan, Kristus Yesus, yang diberitakan di antara kamu oleh kami—oleh aku dan Silwanus dan Timotius—bukan campuran "Ya dan tidak," tetapi selalu "Ya" di dalam Dia.
 
 ## 2 Korintus 1:20
 
-Karena semua janji Allah menemukan "Ya" mereka di dalam Dia; oleh karena itu melalui Dia kami mengucapkan "Amin" kami untuk kemuliaan Allah.
+Karena semua janji Tuhan menemukan "Ya" mereka di dalam Dia; oleh karena itu melalui Dia kami mengucapkan "Amin" kami untuk kemuliaan Tuhan.
 
 ## 2 Korintus 1:21
 
-Adalah Allah yang meneguhkan kami dan kamu di dalam Kristus. Dia telah mengurapi kami,
+Adalah Tuhan yang meneguhkan kami dan kamu di dalam Kristus. Dia telah mengurapi kami,
 
 ## 2 Korintus 1:22
 
@@ -91,7 +91,7 @@ Yang juga telah menaruh tanda milik-Nya pada kami dan menempatkan Roh-Nya di dal
 
 ## 2 Korintus 1:23
 
-Tetapi aku memanggil Allah sebagai saksiku, bahwa untuk menyelamatkanmu aku tidak kembali ke Korintus.
+Tetapi aku memanggil Tuhan sebagai saksiku, bahwa untuk menyelamatkanmu aku tidak kembali ke Korintus.
 
 ## 2 Korintus 1:24
 

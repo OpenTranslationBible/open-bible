@@ -98,7 +98,7 @@ Pada waktu itu, berlangsunglah Perayaan Penahbisan di Yerusalem. Waktu itu musim
 
 ## Yohanes 10:23
 
-dan Yesus sedang berjalan di pelataran Bait Allah di Serambi Salomo.
+dan Yesus sedang berjalan di pelataran Bait Tuhan di Serambi Salomo.
 
 ## Yohanes 10:24
 
@@ -140,19 +140,19 @@ Yesus berkata kepada mereka, "Aku telah menunjukkan kepadamu banyak pekerjaan ba
 
 ## Yohanes 10:33
 
-Orang-orang Yahudi menjawab, "Kami tidak melempari engkau karena pekerjaan baik, tetapi karena penghujatan, karena engkau, seorang manusia, mengaku sebagai Allah."
+Orang-orang Yahudi menjawab, "Kami tidak melempari engkau karena pekerjaan baik, tetapi karena penghujatan, karena engkau, seorang manusia, mengaku sebagai Tuhan."
 
 ## Yohanes 10:34
 
-Yesus menjawab, "Bukankah ada tertulis dalam Tauratmu, 'Aku telah berkata kamu adalah "allah"?'
+Yesus menjawab, "Bukankah ada tertulis dalam Tauratmu, 'Aku telah berkata kamu adalah "Tuhan"?'
 
 ## Yohanes 10:35
 
-Jika ia menyebut mereka 'allah,' kepada siapa firman Allah datang—dan Kitab Suci tidak dapat dibatalkan—
+Jika ia menyebut mereka 'Tuhan,' kepada siapa firman Tuhan datang—dan Kitab Suci tidak dapat dibatalkan—
 
 ## Yohanes 10:36
 
-bagaimana dengan dia yang Bapa kuduskan dan utus ke dunia? Mengapa kamu menuduh Aku menghujat karena Aku berkata, 'Aku adalah Anak Allah'?
+bagaimana dengan dia yang Bapa kuduskan dan utus ke dunia? Mengapa kamu menuduh Aku menghujat karena Aku berkata, 'Aku adalah Anak Tuhan'?
 
 ## Yohanes 10:37
 

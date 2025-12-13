@@ -3,7 +3,7 @@
 ## 1 Tawarikh 19:1
 
 Setelah peristiwa-peristiwa ini,  
-Nahash, raja bani Amon, meninggal,  
+Nahash, raja bani Amon, meninggal,
 
 > dan anaknya menggantikannya sebagai raja.
 
@@ -46,7 +46,7 @@ Kemudian beberapa orang pergi dan memberitahu Daud tentang orang-orang itu,
 > dan dia mengirim utusan untuk menemui mereka,  
 > karena orang-orang itu sangat terhina.  
 > Dan raja berkata,  
-> "Tinggallah di Yerikho sampai janggutmu tumbuh kembali, dan kemudian kembalilah."
+> "TinggTuhan di Yerikho sampai janggutmu tumbuh kembali, dan kemudian kembalilah."
 
 ---
 
@@ -113,7 +113,7 @@ Dan dia berkata,
 ## 1 Tawarikh 19:13
 
 > Kuatkanlah dirimu, dan marilah kita menunjukkan keberanian kita demi bangsa kita  
-> dan kota-kota Allah kita;  
+> dan kota-kota Tuhan kita;  
 > dan semoga Tuhan melakukan apa yang baik di mata-Nya."
 
 ---

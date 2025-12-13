@@ -30,7 +30,7 @@ Ia mempersembahkan korban dan membakar dupa di tempat-tempat tinggi, di atas buk
 
 ## 2 Tawarikh 28:5
 
-Oleh karena itu, Tuhan, Allahnya menyerahkannya kepada raja Aram;  
+Oleh karena itu, Tuhan, Tuhannya menyerahkannya kepada raja Aram;  
 dan mereka mengalahkannya dan membawa banyak orangnya ke dalam pengasingan ke Damaskus.  
 Dan ia juga diserahkan kepada raja Israel, yang menimpakan kekalahan berat padanya.
 
@@ -39,7 +39,7 @@ Dan ia juga diserahkan kepada raja Israel, yang menimpakan kekalahan berat padan
 ## 2 Tawarikh 28:6
 
 Karena Pekah anak Remalya membunuh seratus dua puluh ribu orang di Yehuda dalam satu hari,  
-semua orang perkasa, karena mereka telah meninggalkan Tuhan, Allah nenek moyang mereka.
+semua orang perkasa, karena mereka telah meninggalkan Tuhan, Tuhan nenek moyang mereka.
 
 ---
 
@@ -61,7 +61,7 @@ perempuan, anak-anak laki-laki, dan anak-anak perempuan; dan mereka mengambil ba
 
 Namun, seorang nabi Tuhan bernama Oded hadir;  
 ia mendekati tentara yang kembali ke Samaria dan berkata kepada mereka,  
-“Lihatlah, karena Tuhan, Allah nenek moyangmu, tidak berkenan dengan Yehuda,  
+“Lihatlah, karena Tuhan, Tuhan nenek moyangmu, tidak berkenan dengan Yehuda,  
 Ia telah menyerahkan mereka ke dalam tanganmu, dan kamu telah membunuh mereka dengan kemarahan yang telah mencapai surga.
 
 ---
@@ -69,7 +69,7 @@ Ia telah menyerahkan mereka ke dalam tanganmu, dan kamu telah membunuh mereka de
 ## 2 Tawarikh 28:10
 
 Dan sekarang kamu berkata bahwa kamu akan membawa anak-anak Yehuda dan Yerusalem ke dalam perbudakan sebagai budak laki-laki dan perempuan untuk dirimu sendiri?  
-Lihatlah, bukankah kamu juga bersalah di hadapan Tuhan, Allahmu?
+Lihatlah, bukankah kamu juga bersalah di hadapan Tuhan, Tuhanmu?
 
 ---
 
@@ -167,8 +167,8 @@ Tetapi mereka menjadi kejatuhan baginya dan seluruh Israel.
 
 ## 2 Tawarikh 28:24
 
-Selain itu, ketika Ahas mengumpulkan perkakas rumah Allah,  
-ia memotong perkakas rumah Allah menjadi potongan-potongan;  
+Selain itu, ketika Ahas mengumpulkan perkakas rumah Tuhan,  
+ia memotong perkakas rumah Tuhan menjadi potongan-potongan;  
 dan ia menutup pintu-pintu rumah Tuhan,  
 dan membuat mezbah untuk dirinya sendiri di setiap sudut Yerusalem.
 
@@ -177,7 +177,7 @@ dan membuat mezbah untuk dirinya sendiri di setiap sudut Yerusalem.
 ## 2 Tawarikh 28:25
 
 Di setiap kota Yehuda ia mendirikan tempat-tempat tinggi untuk membakar dupa kepada dewa-dewa lain,  
-dan membangkitkan amarah Tuhan, Allah nenek moyangnya.
+dan membangkitkan amarah Tuhan, Tuhan nenek moyangnya.
 
 ---
 

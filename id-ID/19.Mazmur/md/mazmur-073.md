@@ -4,7 +4,7 @@
 
 ## Mazmur 73:1
 
-> Sesungguhnya Allah itu baik bagi Israel,  
+> Sesungguhnya Tuhan itu baik bagi Israel,  
 > Bagi mereka yang tulus hati!
 
 ---
@@ -58,7 +58,7 @@
 
 ## Mazmur 73:11
 
-> Mereka berkata, “Bagaimana Allah tahu?  
+> Mereka berkata, “Bagaimana Tuhan tahu?  
 > Adakah pengetahuan pada Yang Mahatinggi?”
 
 ---
@@ -94,7 +94,7 @@
 
 ## Mazmur 73:17
 
-> Sampai aku masuk ke dalam tempat kudus Allah;  
+> Sampai aku masuk ke dalam tempat kudus Tuhan;  
 > Lalu aku mengerti kesudahan mereka.
 
 ---
@@ -146,7 +146,7 @@
 ## Mazmur 73:26
 
 > Sekalipun dagingku dan hatiku habis lenyap,  
-> Gunung batuku dan bagianku tetaplah Allah selama-lamanya.
+> Gunung batuku dan bagianku tetaplah Tuhan selama-lamanya.
 
 ---
 
@@ -157,6 +157,6 @@
 
 ## Mazmur 73:28
 
-> Tetapi aku, aku suka dekat pada Allah;  
-> Aku menaruh tempat perlindunganku pada Tuhan Allah,  
+> Tetapi aku, aku suka dekat pada Tuhan;  
+> Aku menaruh tempat perlindunganku pada Tuhan Tuhan,  
 > Supaya aku dapat menceritakan segala pekerjaan-Mu.

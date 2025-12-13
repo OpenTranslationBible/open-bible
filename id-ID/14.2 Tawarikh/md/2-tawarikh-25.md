@@ -44,7 +44,7 @@ Ia juga mengupah seratus ribu prajurit gagah berani dari Israel dengan seratus t
 
 ## 2 Tawarikh 25:7
 
-Namun, seorang abdi Allah datang kepadanya, berkata,  
+Namun, seorang abdi Tuhan datang kepadanya, berkata,  
 “Wahai raja, jangan biarkan tentara Israel pergi bersamamu,  
 karena Tuhan tidak menyertai Israel, maupun dengan siapa pun dari bani Efraim.
 
@@ -52,16 +52,16 @@ karena Tuhan tidak menyertai Israel, maupun dengan siapa pun dari bani Efraim.
 
 ## 2 Tawarikh 25:8
 
-Tetapi jika engkau pergi, lakukanlah, kuatkanlah dirimu untuk pertempuran—namun Allah akan menjatuhkanmu di hadapan musuh,  
-karena Allah memiliki kuasa untuk menolong dan menjatuhkan.”
+Tetapi jika engkau pergi, lakukanlah, kuatkanlah dirimu untuk pertempuran—namun Tuhan akan menjatuhkanmu di hadapan musuh,  
+karena Tuhan memiliki kuasa untuk menolong dan menjatuhkan.”
 
 ---
 
 ## 2 Tawarikh 25:9
 
-Amazia berkata kepada abdi Allah,  
+Amazia berkata kepada abdi Tuhan,  
 “Tetapi bagaimana dengan seratus talenta yang telah kuberikan kepada pasukan Israel?”  
-Dan abdi Allah menjawab,  
+Dan abdi Tuhan menjawab,  
 “Tuhan memiliki lebih banyak untuk memberimu daripada ini.”
 
 ---
@@ -114,7 +114,7 @@ Kemudian kemarahan Tuhan menyala terhadap Amazia, dan Ia mengirimkan seorang nab
 Ketika ia berbicara kepadanya, raja berkata,  
 “Siapa yang mengangkatmu sebagai penasihat kerajaan? Berhenti berbicara! Atau engkau akan dipukul mati!”  
 Kemudian nabi itu berhenti dan berkata,  
-“Aku tahu bahwa Allah telah merencanakan untuk menghancurkanmu, karena engkau telah melakukan ini dan tidak mendengarkan nasihatku.”
+“Aku tahu bahwa Tuhan telah merencanakan untuk menghancurkanmu, karena engkau telah melakukan ini dan tidak mendengarkan nasihatku.”
 
 ---
 
@@ -138,14 +138,14 @@ Tetapi binatang liar yang ada di Libanon lewat dan menginjak-injak semak duri it
 
 Engkau telah berkata, ‘Lihatlah, engkau telah mengalahkan Edom.’  
 Dan hatimu telah menjadi sombong dalam kesombonganmu.  
-Sekarang tinggallah di rumah; mengapa engkau harus menimbulkan masalah yang akan menyebabkan kejatuhanmu,  
+Sekarang tinggTuhan di rumah; mengapa engkau harus menimbulkan masalah yang akan menyebabkan kejatuhanmu,  
 dan juga Yehuda bersamamu?”
 
 ---
 
 ## 2 Tawarikh 25:20
 
-Tetapi Amazia tidak mau mendengarkan, karena itu dari Allah,  
+Tetapi Amazia tidak mau mendengarkan, karena itu dari Tuhan,  
 sehingga Ia dapat menyerahkan mereka, karena mereka telah mencari dewa-dewa Edom.
 
 ---
@@ -172,7 +172,7 @@ dan merobohkan tembok Yerusalem dari Gerbang Efraim sampai Gerbang Sudut, sejauh
 
 ## 2 Tawarikh 25:24
 
-Dan ia mengambil semua emas, perak, dan semua perkakas yang ditemukan di rumah Allah bersama Obed-edom,  
+Dan ia mengambil semua emas, perak, dan semua perkakas yang ditemukan di rumah Tuhan bersama Obed-edom,  
 dan harta benda istana raja, juga para sandera, dan kembali ke Samaria.
 
 ---

@@ -147,7 +147,7 @@ ke tempat yang dibutuhkan, masing-masing sesuai dengan tanggung jawabnya.
 
 ## 1 Raja-raja 4:29
 
-Allah memberikan Salomo hikmat dan kebijaksanaan yang sangat besar  
+Tuhan memberikan Salomo hikmat dan kebijaksanaan yang sangat besar  
 dan keluasan pemahaman, seperti pasir yang ada di tepi laut.
 
 ## 1 Raja-raja 4:30

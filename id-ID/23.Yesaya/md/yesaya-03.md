@@ -2,7 +2,7 @@
 
 ## Yesaya 3:1
 
-Lihatlah, Tuhan, Allah semesta alam, akan menarik dari Yerusalem dan Yehuda baik penopang maupun dukungan: seluruh persediaan roti dan seluruh persediaan air;
+Lihatlah, Tuhan, Tuhan semesta alam, akan menarik dari Yerusalem dan Yehuda baik penopang maupun dukungan: seluruh persediaan roti dan seluruh persediaan air;
 
 ## Yesaya 3:2
 
@@ -60,7 +60,7 @@ Tuhan memasuki penghakiman dengan para tua-tua dan pemimpin umat-Nya: "Kamu yang
 
 ## Yesaya 3:15
 
-Apa maksudmu menghancurkan umat-Ku dan menggiling wajah orang miskin?" demikianlah firman Tuhan, Allah semesta alam.
+Apa maksudmu menghancurkan umat-Ku dan menggiling wajah orang miskin?" demikianlah firman Tuhan, Tuhan semesta alam.
 
 ---
 

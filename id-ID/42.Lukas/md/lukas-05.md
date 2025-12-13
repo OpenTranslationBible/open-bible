@@ -2,7 +2,7 @@
 
 ## Lukas 5:1
 
-Pada suatu kesempatan, ketika Yesus berdiri di tepi Danau Genesaret, orang banyak berdesak-desakan di sekeliling-Nya, ingin mendengar firman Allah.
+Pada suatu kesempatan, ketika Yesus berdiri di tepi Danau Genesaret, orang banyak berdesak-desakan di sekeliling-Nya, ingin mendengar firman Tuhan.
 
 ## Lukas 5:2
 
@@ -86,7 +86,7 @@ Melihat iman mereka, Yesus berkata, “Sahabat, dosamu sudah diampuni.”
 
 ## Lukas 5:21
 
-Orang-orang Farisi dan para ahli Taurat mulai berpikir, “Siapakah orang ini yang berkata menghujat? Siapa yang dapat mengampuni dosa kecuali Allah sendiri?”
+Orang-orang Farisi dan para ahli Taurat mulai berpikir, “Siapakah orang ini yang berkata menghujat? Siapa yang dapat mengampuni dosa kecuali Tuhan sendiri?”
 
 ## Lukas 5:22
 
@@ -102,11 +102,11 @@ Tetapi supaya kamu tahu bahwa Anak Manusia berkuasa di bumi untuk mengampuni dos
 
 ## Lukas 5:25
 
-Seketika itu juga, ia bangun di hadapan mereka, mengambil apa yang selama ini ia tiduri, dan pulang sambil memuliakan Allah.
+Seketika itu juga, ia bangun di hadapan mereka, mengambil apa yang selama ini ia tiduri, dan pulang sambil memuliakan Tuhan.
 
 ## Lukas 5:26
 
-Semua orang takjub dan memuji Allah. Mereka dipenuhi rasa kagum dan berkata, “Kami telah melihat hal-hal luar biasa hari ini.”
+Semua orang takjub dan memuji Tuhan. Mereka dipenuhi rasa kagum dan berkata, “Kami telah melihat hal-hal luar biasa hari ini.”
 
 ---
 

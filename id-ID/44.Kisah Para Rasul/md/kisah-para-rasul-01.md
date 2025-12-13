@@ -10,7 +10,7 @@ sampai hari ia diangkat ke surga, setelah memberikan instruksi melalui Roh Kudus
 
 ## Kisah Para Rasul 1:3
 
-Setelah penderitaan-Nya, Ia menampakkan diri-Nya hidup kepada mereka dengan banyak bukti yang meyakinkan, muncul selama empat puluh hari dan berbicara tentang kerajaan Allah.
+Setelah penderitaan-Nya, Ia menampakkan diri-Nya hidup kepada mereka dengan banyak bukti yang meyakinkan, muncul selama empat puluh hari dan berbicara tentang kerajaan Tuhan.
 
 ## Kisah Para Rasul 1:4
 

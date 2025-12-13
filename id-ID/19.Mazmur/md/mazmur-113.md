@@ -28,7 +28,7 @@
 
 ## Mazmur 113:5
 
-> Siapakah yang dapat dibandingkan dengan Tuhan Allah kita,  
+> Siapakah yang dapat dibandingkan dengan Tuhan Tuhan kita,  
 > Yang bersemayam di tempat tinggi,
 
 ## Mazmur 113:6

@@ -35,7 +35,7 @@ seperti yang telah Kujanjikan kepada ayahmu Daud, dengan mengatakan,
 
 Tetapi jika engkau atau anak-anakmu benar-benar berpaling dari mengikuti-Ku,  
 dan tidak memelihara perintah-perintah-Ku dan ketetapan-Ku yang telah Kutaruh di hadapanmu,  
-dan engkau pergi dan melayani allah lain dan menyembah mereka,
+dan engkau pergi dan melayani Tuhan lain dan menyembah mereka,
 
 ## 1 Raja-raja 9:7
 
@@ -53,9 +53,9 @@ setiap orang yang melewatinya akan terkejut dan bersiul dan berkata,
 ## 1 Raja-raja 9:9
 
 Dan mereka akan berkata,  
-‘Karena mereka meninggalkan Tuhan Allah mereka,  
+‘Karena mereka meninggalkan Tuhan Tuhan mereka,  
 yang membawa nenek moyang mereka keluar dari tanah Mesir,  
-dan mereka mengadopsi allah lain dan menyembah dan melayani mereka;  
+dan mereka mengadopsi Tuhan lain dan menyembah dan melayani mereka;  
 oleh karena itu Tuhan telah mendatangkan semua malapetaka ini atas mereka.’”
 
 ---

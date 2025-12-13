@@ -2,7 +2,7 @@
 
 ## Keluaran 18:1
 
-Sekarang Yitro, imam Midian dan mertua Musa, mendengar tentang semua yang telah dilakukan Allah untuk Musa dan umat-Nya Israel, dan bagaimana Tuhan telah membawa Israel keluar dari Mesir.
+Sekarang Yitro, imam Midian dan mertua Musa, mendengar tentang semua yang telah dilakukan Tuhan untuk Musa dan umat-Nya Israel, dan bagaimana Tuhan telah membawa Israel keluar dari Mesir.
 
 ## Keluaran 18:2
 
@@ -14,11 +14,11 @@ bersama kedua anaknya. Yang satu bernama Gersom, karena Musa telah berkata, "Aku
 
 ## Keluaran 18:4
 
-Yang lain bernama Eliezer, karena dia telah berkata, "Allah ayahku adalah penolongku dan telah menyelamatkan aku dari pedang Firaun."
+Yang lain bernama Eliezer, karena dia telah berkata, "Tuhan ayahku adalah penolongku dan telah menyelamatkan aku dari pedang Firaun."
 
 ## Keluaran 18:5
 
-Yitro, mertua Musa, datang bersama anak-anak dan istri Musa kepadanya di padang gurun, di mana dia berkemah di gunung Allah.
+Yitro, mertua Musa, datang bersama anak-anak dan istri Musa kepadanya di padang gurun, di mana dia berkemah di gunung Tuhan.
 
 ## Keluaran 18:6
 
@@ -46,7 +46,7 @@ Sekarang aku tahu bahwa Tuhan lebih besar dari semua dewa lainnya, karena Dia te
 
 ## Keluaran 18:12
 
-Kemudian Yitro, mertua Musa, mempersembahkan korban bakaran dan korban kepada Allah, dan Harun datang bersama semua tua-tua Israel untuk makan bersama mertua Musa di hadapan Allah.
+Kemudian Yitro, mertua Musa, mempersembahkan korban bakaran dan korban kepada Tuhan, dan Harun datang bersama semua tua-tua Israel untuk makan bersama mertua Musa di hadapan Tuhan.
 
 ## Keluaran 18:13
 
@@ -58,11 +58,11 @@ Ketika mertua Musa melihat semua yang dia lakukan untuk umat itu, dia bertanya, 
 
 ## Keluaran 18:15
 
-Musa menjawab mertuanya, "Karena umat datang kepadaku untuk mencari kehendak Allah.
+Musa menjawab mertuanya, "Karena umat datang kepadaku untuk mencari kehendak Tuhan.
 
 ## Keluaran 18:16
 
-Ketika mereka memiliki perselisihan, itu dibawa kepadaku, dan aku mengadili antara pihak-pihak dan memberitahukan ketetapan dan hukum Allah."
+Ketika mereka memiliki perselisihan, itu dibawa kepadaku, dan aku mengadili antara pihak-pihak dan memberitahukan ketetapan dan hukum Tuhan."
 
 ## Keluaran 18:17
 
@@ -74,7 +74,7 @@ Kamu dan umat ini yang datang kepadamu hanya akan melelahkan diri sendiri. Tugas
 
 ## Keluaran 18:19
 
-Sekarang dengarkan aku: Aku akan memberimu nasihat, dan semoga Allah menyertaimu. Kamu harus menjadi wakil umat di hadapan Allah dan membawa perselisihan mereka kepada-Nya.
+Sekarang dengarkan aku: Aku akan memberimu nasihat, dan semoga Tuhan menyertaimu. Kamu harus menjadi wakil umat di hadapan Tuhan dan membawa perselisihan mereka kepada-Nya.
 
 ## Keluaran 18:20
 
@@ -82,7 +82,7 @@ Ajarkan kepada mereka ketetapan dan petunjuk-Nya, dan tunjukkan kepada mereka ca
 
 ## Keluaran 18:21
 
-Pilihlah orang-orang yang cakap dari antara umat—orang-orang yang takut akan Allah, orang-orang yang dapat dipercaya yang membenci keuntungan yang tidak jujur—dan angkatlah mereka sebagai pemimpin atas ribuan, ratusan, lima puluhan, dan puluhan.
+Pilihlah orang-orang yang cakap dari antara umat—orang-orang yang takut akan Tuhan, orang-orang yang dapat dipercaya yang membenci keuntungan yang tidak jujur—dan angkatlah mereka sebagai pemimpin atas ribuan, ratusan, lima puluhan, dan puluhan.
 
 ## Keluaran 18:22
 
@@ -90,7 +90,7 @@ Biarkan mereka menjadi hakim bagi umat sepanjang waktu, tetapi bawa setiap kasus
 
 ## Keluaran 18:23
 
-Jika kamu melakukan ini dan Allah memerintahkannya, kamu akan dapat bertahan, dan semua umat ini akan pulang dengan puas."
+Jika kamu melakukan ini dan Tuhan memerintahkannya, kamu akan dapat bertahan, dan semua umat ini akan pulang dengan puas."
 
 ## Keluaran 18:24
 

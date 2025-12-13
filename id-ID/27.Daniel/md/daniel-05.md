@@ -10,7 +10,7 @@ Sambil mencicipi anggur, Belsyazar memerintahkan untuk membawa bejana emas dan p
 
 ## Daniel 5:3
 
-Maka dibawalah bejana-bejana emas yang telah diambil dari bait Allah di Yerusalem, dan raja serta para pembesarnya, istri-istrinya, dan gundik-gundiknya minum dari bejana-bejana itu.
+Maka dibawalah bejana-bejana emas yang telah diambil dari bait Tuhan di Yerusalem, dan raja serta para pembesarnya, istri-istrinya, dan gundik-gundiknya minum dari bejana-bejana itu.
 
 ## Daniel 5:4
 
@@ -70,7 +70,7 @@ Kemudian Daniel menjawab raja, “Hadiahmu boleh engkau simpan untuk dirimu send
 
 ## Daniel 5:18
 
-Ya raja, Allah Yang Mahatinggi telah memberikan kerajaan, kebesaran, kemuliaan, dan keagungan kepada Nebukadnezar, ayahmu.
+Ya raja, Tuhan Yang Mahatinggi telah memberikan kerajaan, kebesaran, kemuliaan, dan keagungan kepada Nebukadnezar, ayahmu.
 
 ## Daniel 5:19
 
@@ -82,7 +82,7 @@ Tetapi ketika hatinya menjadi sombong dan rohnya mengeras dengan keangkuhan, ia 
 
 ## Daniel 5:21
 
-Ia diusir dari antara manusia dan diberi pikiran seperti binatang; ia tinggal bersama keledai liar dan makan rumput seperti lembu; tubuhnya basah oleh embun dari langit sampai ia mengakui bahwa Allah Yang Mahatinggi berkuasa atas kerajaan manusia dan mengangkat siapa pun yang dikehendaki-Nya atas mereka.
+Ia diusir dari antara manusia dan diberi pikiran seperti binatang; ia tinggal bersama keledai liar dan makan rumput seperti lembu; tubuhnya basah oleh embun dari langit sampai ia mengakui bahwa Tuhan Yang Mahatinggi berkuasa atas kerajaan manusia dan mengangkat siapa pun yang dikehendaki-Nya atas mereka.
 
 ## Daniel 5:22
 
@@ -90,7 +90,7 @@ Tetapi engkau, Belsyazar, anaknya, tidak merendahkan hatimu, meskipun engkau men
 
 ## Daniel 5:23
 
-Sebaliknya, engkau telah meninggikan dirimu terhadap Tuhan di surga. Engkau telah membawa bejana-bejana dari bait-Nya kepadamu, dan engkau serta para pembesarmu, istri-istrimu, dan gundik-gundikmu minum anggur dari bejana-bejana itu. Engkau memuji dewa-dewa dari perak dan emas, dari tembaga, besi, kayu, dan batu, yang tidak dapat melihat atau mendengar atau memahami. Tetapi engkau tidak menghormati Allah yang memegang hidupmu dan segala jalanmu di tangan-Nya.
+Sebaliknya, engkau telah meninggikan dirimu terhadap Tuhan di surga. Engkau telah membawa bejana-bejana dari bait-Nya kepadamu, dan engkau serta para pembesarmu, istri-istrimu, dan gundik-gundikmu minum anggur dari bejana-bejana itu. Engkau memuji dewa-dewa dari perak dan emas, dari tembaga, besi, kayu, dan batu, yang tidak dapat melihat atau mendengar atau memahami. Tetapi engkau tidak menghormati Tuhan yang memegang hidupmu dan segala jalanmu di tangan-Nya.
 
 ## Daniel 5:24
 
@@ -102,7 +102,7 @@ Inilah pesan yang dituliskan: Mene, Mene, Tekel, Parsin.
 
 ## Daniel 5:26
 
-Inilah arti kata-kata ini: Mene: Allah telah menghitung kerajaanmu dan mengakhiri itu.
+Inilah arti kata-kata ini: Mene: Tuhan telah menghitung kerajaanmu dan mengakhiri itu.
 
 ## Daniel 5:27
 

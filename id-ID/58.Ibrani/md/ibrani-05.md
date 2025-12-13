@@ -2,7 +2,7 @@
 
 ## Ibrani 5:1
 
-Setiap imam besar dipilih dari antara manusia dan ditetapkan untuk bertindak bagi manusia dalam hal-hal yang berhubungan dengan Allah, untuk mempersembahkan baik pemberian maupun korban untuk dosa.
+Setiap imam besar dipilih dari antara manusia dan ditetapkan untuk bertindak bagi manusia dalam hal-hal yang berhubungan dengan Tuhan, untuk mempersembahkan baik pemberian maupun korban untuk dosa.
 
 ## Ibrani 5:2
 
@@ -14,11 +14,11 @@ Karena itu, ia diwajibkan untuk mempersembahkan korban untuk dosa-dosanya sendir
 
 ## Ibrani 5:4
 
-Dan tidak seorang pun mengambil kehormatan ini untuk dirinya sendiri, tetapi ia menerimanya ketika dipanggil oleh Allah, seperti halnya Harun.
+Dan tidak seorang pun mengambil kehormatan ini untuk dirinya sendiri, tetapi ia menerimanya ketika dipanggil oleh Tuhan, seperti halnya Harun.
 
 ## Ibrani 5:5
 
-Demikian juga, Kristus tidak memuliakan Diri-Nya sendiri dengan menjadi imam besar, tetapi Allah yang berkata kepada-Nya,
+Demikian juga, Kristus tidak memuliakan Diri-Nya sendiri dengan menjadi imam besar, tetapi Tuhan yang berkata kepada-Nya,
 
 > “Engkau adalah Anak-Ku;
 > pada hari ini Aku telah memperanakkan Engkau.”
@@ -44,7 +44,7 @@ Dan setelah mencapai kesempurnaan, Ia menjadi sumber keselamatan kekal bagi semu
 
 ## Ibrani 5:10
 
-ditetapkan oleh Allah sebagai imam besar menurut peraturan Melkisedek.
+ditetapkan oleh Tuhan sebagai imam besar menurut peraturan Melkisedek.
 
 ## Ibrani 5:11
 
@@ -52,7 +52,7 @@ Kami memiliki banyak hal untuk dikatakan tentang ini, tetapi sulit untuk dijelas
 
 ## Ibrani 5:12
 
-Sebab meskipun pada saat ini kamu seharusnya sudah menjadi pengajar, kamu memerlukan seseorang untuk mengajar kamu lagi prinsip-prinsip dasar dari firman Allah. Kamu memerlukan susu, bukan makanan keras!
+Sebab meskipun pada saat ini kamu seharusnya sudah menjadi pengajar, kamu memerlukan seseorang untuk mengajar kamu lagi prinsip-prinsip dasar dari firman Tuhan. Kamu memerlukan susu, bukan makanan keras!
 
 ## Ibrani 5:13
 

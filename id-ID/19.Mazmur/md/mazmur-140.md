@@ -39,7 +39,7 @@
 
 ## Mazmur 140:6
 
-> Aku berkata kepada Tuhan, "Engkaulah Allahku;  
+> Aku berkata kepada Tuhan, "Engkaulah Tuhanku;  
 > Dengarlah, Tuhan, suara permohonanku."
 
 ## Mazmur 140:7

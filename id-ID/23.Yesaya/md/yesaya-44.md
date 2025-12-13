@@ -24,7 +24,7 @@ Yang satu akan berkata, ‘Aku milik Tuhan’; yang lain akan menyebut dirinya d
 
 ## Yesaya 44:6
 
-Beginilah firman Tuhan— Raja Israel dan Penebusnya, Tuhan Semesta Alam: Akulah yang pertama dan Akulah yang terakhir; selain Aku, tidak ada Allah.
+Beginilah firman Tuhan— Raja Israel dan Penebusnya, Tuhan Semesta Alam: Akulah yang pertama dan Akulah yang terakhir; selain Aku, tidak ada Tuhan.
 
 ## Yesaya 44:7
 
@@ -32,7 +32,7 @@ Siapakah yang seperti Aku? Biarlah dia menyatakannya. Biarlah dia menyatakan dan
 
 ## Yesaya 44:8
 
-Jangan gemetar, jangan takut. Bukankah Aku telah lama mengumumkannya dan menyatakannya? Kamu adalah saksi-saksi-Ku. Adakah Allah selain Aku? Tidak, tidak ada Batu lain; Aku tidak mengenal satu pun.
+Jangan gemetar, jangan takut. Bukankah Aku telah lama mengumumkannya dan menyatakannya? Kamu adalah saksi-saksi-Ku. Adakah Tuhan selain Aku? Tidak, tidak ada Batu lain; Aku tidak mengenal satu pun.
 
 ## Yesaya 44:9
 
@@ -40,7 +40,7 @@ Semua yang membuat berhala adalah sia-sia, dan benda-benda yang mereka hargai ti
 
 ## Yesaya 44:10
 
-Siapakah yang membentuk allah atau menuang berhala, yang tidak ada manfaatnya?
+Siapakah yang membentuk Tuhan atau menuang berhala, yang tidak ada manfaatnya?
 
 ## Yesaya 44:11
 
@@ -60,7 +60,7 @@ Dia menebang pohon aras, atau mungkin mengambil pohon cemara atau pohon ek. Dia 
 
 ## Yesaya 44:15
 
-Itu menjadi bahan bakar untuk dibakar; sebagian diambilnya dan menghangatkan dirinya, dia menyalakan api dan memanggang roti. Tetapi dia juga membentuk allah dan menyembahnya; dia membuat berhala dan sujud kepadanya.
+Itu menjadi bahan bakar untuk dibakar; sebagian diambilnya dan menghangatkan dirinya, dia menyalakan api dan memanggang roti. Tetapi dia juga membentuk Tuhan dan menyembahnya; dia membuat berhala dan sujud kepadanya.
 
 ## Yesaya 44:16
 
@@ -68,7 +68,7 @@ Setengah dari kayu itu dibakarnya dalam api; di atasnya dia menyiapkan makananny
 
 ## Yesaya 44:17
 
-Dari sisa kayu itu dia menciptakan allah, berhalanya; dia sujud kepadanya dan menyembah. Dia berdoa kepadanya dan berkata, “Selamatkan aku! Engkau adalah allahku!”
+Dari sisa kayu itu dia menciptakan Tuhan, berhalanya; dia sujud kepadanya dan menyembah. Dia berdoa kepadanya dan berkata, “Selamatkan aku! Engkau adalah Tuhanku!”
 
 ## Yesaya 44:18
 

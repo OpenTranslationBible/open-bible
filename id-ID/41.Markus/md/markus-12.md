@@ -56,7 +56,7 @@ Kemudian mereka mengirim beberapa orang Farisi dan Herodian kepada Yesus untuk m
 
 ## Markus 12:14
 
-Mereka datang dan berkata kepadanya, "Guru, kami tahu bahwa engkau adalah orang yang jujur dan tidak terpengaruh oleh orang lain, karena engkau tidak memandang muka, tetapi mengajarkan jalan Allah sesuai dengan kebenaran. Apakah benar membayar pajak kepada Kaisar atau tidak?
+Mereka datang dan berkata kepadanya, "Guru, kami tahu bahwa engkau adalah orang yang jujur dan tidak terpengaruh oleh orang lain, karena engkau tidak memandang muka, tetapi mengajarkan jalan Tuhan sesuai dengan kebenaran. Apakah benar membayar pajak kepada Kaisar atau tidak?
 
 ## Markus 12:15
 
@@ -68,7 +68,7 @@ Mereka membawa koin itu, dan ia bertanya kepada mereka, "Gambar siapa ini? Dan t
 
 ## Markus 12:17
 
-Kemudian Yesus berkata kepada mereka, "Berikan kepada Kaisar apa yang menjadi milik Kaisar dan kepada Allah apa yang menjadi milik Allah." Dan mereka kagum kepadanya.
+Kemudian Yesus berkata kepada mereka, "Berikan kepada Kaisar apa yang menjadi milik Kaisar dan kepada Tuhan apa yang menjadi milik Tuhan." Dan mereka kagum kepadanya.
 
 ---
 
@@ -98,7 +98,7 @@ Dalam kebangkitan, istri siapakah dia, karena ketujuhnya telah menikahinya?"
 
 ## Markus 12:24
 
-Yesus menjawab, "Bukankah kamu salah karena kamu tidak mengetahui Kitab Suci atau kuasa Allah?
+Yesus menjawab, "Bukankah kamu salah karena kamu tidak mengetahui Kitab Suci atau kuasa Tuhan?
 
 ## Markus 12:25
 
@@ -106,11 +106,11 @@ Ketika orang mati dibangkitkan, mereka tidak akan menikah atau dinikahkan; merek
 
 ## Markus 12:26
 
-Sekarang mengenai kebangkitan orang mati—tidakkah kamu membaca dalam Kitab Musa, dalam kisah semak yang menyala, bagaimana Allah berkata kepadanya, 'Aku adalah Allah Abraham, Allah Ishak, dan Allah Yakub'?
+Sekarang mengenai kebangkitan orang mati—tidakkah kamu membaca dalam Kitab Musa, dalam kisah semak yang menyala, bagaimana Tuhan berkata kepadanya, 'Aku adalah Tuhan Abraham, Tuhan Ishak, dan Tuhan Yakub'?
 
 ## Markus 12:27
 
-Ia adalah Allah orang hidup, bukan orang mati. Kamu memang salah!"
+Ia adalah Tuhan orang hidup, bukan orang mati. Kamu memang salah!"
 
 ---
 
@@ -120,11 +120,11 @@ Salah satu ahli Taurat datang dan mendengar mereka berdebat. Melihat bahwa Yesus
 
 ## Markus 12:29
 
-"Yang terutama," jawab Yesus, "adalah ini: 'Dengarlah, hai Israel: Tuhan Allah kita adalah satu Tuhan.
+"Yang terutama," jawab Yesus, "adalah ini: 'Dengarlah, hai Israel: Tuhan Tuhan kita adalah satu Tuhan.
 
 ## Markus 12:30
 
-Kasihilah Tuhan Allahmu dengan segenap hatimu, dengan segenap jiwamu, dengan segenap akal budimu, dan dengan segenap kekuatanmu.'
+Kasihilah Tuhan Tuhanmu dengan segenap hatimu, dengan segenap jiwamu, dengan segenap akal budimu, dan dengan segenap kekuatanmu.'
 
 ## Markus 12:31
 
@@ -132,7 +132,7 @@ Yang kedua adalah: 'Kasihilah sesamamu seperti dirimu sendiri.' Tidak ada perint
 
 ## Markus 12:32
 
-"Baik sekali, Guru," kata orang itu setuju. "Karena engkau benar-benar benar untuk mengatakan bahwa Allah itu satu dan tidak ada yang lain selain Dia.
+"Baik sekali, Guru," kata orang itu setuju. "Karena engkau benar-benar benar untuk mengatakan bahwa Tuhan itu satu dan tidak ada yang lain selain Dia.
 
 ## Markus 12:33
 
@@ -140,13 +140,13 @@ Engkau benar untuk mengatakan mengasihi Dia dengan segenap hatimu, dengan segena
 
 ## Markus 12:34
 
-Ketika Yesus melihat bahwa ia telah menjawab dengan bijaksana, ia berkata kepadanya, "Engkau tidak jauh dari kerajaan Allah." Dan sejak saat itu, tidak ada yang berani menanyakan pertanyaan lagi kepadanya.
+Ketika Yesus melihat bahwa ia telah menjawab dengan bijaksana, ia berkata kepadanya, "Engkau tidak jauh dari kerajaan Tuhan." Dan sejak saat itu, tidak ada yang berani menanyakan pertanyaan lagi kepadanya.
 
 ---
 
 ## Markus 12:35
 
-Ketika ia sedang mengajar di pelataran Bait Allah, Yesus bertanya, "Mengapa ahli-ahli Taurat mengatakan bahwa Mesias adalah anak Daud?
+Ketika ia sedang mengajar di pelataran Bait Tuhan, Yesus bertanya, "Mengapa ahli-ahli Taurat mengatakan bahwa Mesias adalah anak Daud?
 
 ## Markus 12:36
 

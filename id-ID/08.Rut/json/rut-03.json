@@ -1,119 +1,115 @@
 {
-    "book": "Rut",
-    "chapter": 3,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Naomi, ibu mertua Rut, berkata kepadanya, “Anakku, bukankah seharusnya aku mencari tempat yang aman bagimu, supaya engkau berbahagia?"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Sekarang, Boas, dengan para wanita mudanya engkau bekerja, adalah kerabat kita. Lihatlah, malam ini ia akan menampi jelai di tempat pengirikan."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Karena itu, mandilah, berikanlah dirimu minyak, pakailah pakaian terbaikmu, dan pergilah ke tempat pengirikan. Namun, janganlah engkau memperkenalkan dirimu kepada pria itu sampai ia selesai makan dan minum."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Ketika ia berbaring, perhatikanlah tempat ia berbaring. Kemudian engkau harus pergi, membuka kakinya, dan berbaringlah; ia akan memberitahumu apa yang harus engkau lakukan.”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Rut menjawab, “Aku akan melakukan segala yang engkau katakan.”"
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Jadi ia pergi ke tempat pengirikan dan melakukan semua yang diperintahkan ibu mertuanya kepadanya."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Setelah Boas makan dan minum, dan hatinya gembira, ia pergi berbaring di ujung tumpukan gandum. Rut datang dengan diam-diam, membuka kakinya, dan berbaring."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Di tengah malam, pria itu terkejut dan membungkuk ke depan; ada seorang wanita berbaring di kakinya."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Ia bertanya, “Siapakah engkau?” Ia menjawab, “Aku Rut, hambamu. Bentangkanlah kainmu atas hambamu, karena engkau adalah penebus.”"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Ia berkata, “Semoga Tuhan memberkatimu, anakku. Kebaikanmu yang terakhir ini lebih besar dari yang pertama, karena engkau tidak mengejar pria-pria muda, baik yang kaya maupun yang miskin."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Sekarang, anakku, janganlah takut. Aku akan melakukan bagimu apa pun yang engkau minta, karena semua orang di kotaku tahu bahwa engkau adalah wanita yang berbudi luhur."
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "Memang benar bahwa aku adalah penebus, tetapi ada orang lain yang lebih dekat hubungannya daripada aku."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Tinggallah di sini malam ini, dan di pagi hari, jika ia ingin menebusmu, baiklah; biarlah ia menebusmu. Tetapi jika ia tidak mau, demi Tuhan yang hidup, aku akan menebusmu. Berbaringlah di sini sampai pagi.”"
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Jadi ia berbaring di kakinya sampai pagi, tetapi bangun sebelum ada orang yang dapat dikenali; dan ia berkata, “Janganlah diketahui bahwa seorang wanita datang ke tempat pengirikan.”"
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Ia berkata, “Bawalah selendang yang engkau kenakan dan peganglah itu.” Ketika ia memegangnya, ia mengukur enam takaran jelai dan meletakkannya padanya. Kemudian ia kembali ke kota."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Ketika Rut kembali kepada ibu mertuanya, Naomi bertanya, “Bagaimana hasilnya, anakku?” Rut menceritakan semua yang dilakukan Boas untuknya."
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Ia menambahkan, “Ia memberiku enam takaran jelai ini, katanya, ‘Janganlah kembali kepada ibu mertuamu dengan tangan kosong.’”"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Naomi berkata, “Tunggulah, anakku, sampai engkau melihat bagaimana perkara ini berakhir; karena pria itu tidak akan beristirahat sampai ia menyelesaikan perkara ini hari ini.”"
-            ]
-        }
-    ]
+  "book": "Rut",
+  "chapter": 3,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Naomi, ibu mertua Rut, berkata kepadanya, “Anakku, bukankah seharusnya aku mencari tempat yang aman bagimu, supaya engkau berbahagia?"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Sekarang, Boas, dengan para wanita mudanya engkau bekerja, adalah kerabat kita. Lihatlah, malam ini ia akan menampi jelai di tempat pengirikan."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Karena itu, mandilah, berikanlah dirimu minyak, pakailah pakaian terbaikmu, dan pergilah ke tempat pengirikan. Namun, janganlah engkau memperkenalkan dirimu kepada pria itu sampai ia selesai makan dan minum."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Ketika ia berbaring, perhatikanlah tempat ia berbaring. Kemudian engkau harus pergi, membuka kakinya, dan berbaringlah; ia akan memberitahumu apa yang harus engkau lakukan.”"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": ["Rut menjawab, “Aku akan melakukan segala yang engkau katakan.”"]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Jadi ia pergi ke tempat pengirikan dan melakukan semua yang diperintahkan ibu mertuanya kepadanya."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Setelah Boas makan dan minum, dan hatinya gembira, ia pergi berbaring di ujung tumpukan gandum. Rut datang dengan diam-diam, membuka kakinya, dan berbaring."
+      ]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Di tengah malam, pria itu terkejut dan membungkuk ke depan; ada seorang wanita berbaring di kakinya."
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Ia bertanya, “Siapakah engkau?” Ia menjawab, “Aku Rut, hambamu. Bentangkanlah kainmu atas hambamu, karena engkau adalah penebus.”"
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Ia berkata, “Semoga Tuhan memberkatimu, anakku. Kebaikanmu yang terakhir ini lebih besar dari yang pertama, karena engkau tidak mengejar pria-pria muda, baik yang kaya maupun yang miskin."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Sekarang, anakku, janganlah takut. Aku akan melakukan bagimu apa pun yang engkau minta, karena semua orang di kotaku tahu bahwa engkau adalah wanita yang berbudi luhur."
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "Memang benar bahwa aku adalah penebus, tetapi ada orang lain yang lebih dekat hubungannya daripada aku."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "TinggTuhan di sini malam ini, dan di pagi hari, jika ia ingin menebusmu, baiklah; biarlah ia menebusmu. Tetapi jika ia tidak mau, demi Tuhan yang hidup, aku akan menebusmu. Berbaringlah di sini sampai pagi.”"
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Jadi ia berbaring di kakinya sampai pagi, tetapi bangun sebelum ada orang yang dapat dikenali; dan ia berkata, “Janganlah diketahui bahwa seorang wanita datang ke tempat pengirikan.”"
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Ia berkata, “Bawalah selendang yang engkau kenakan dan peganglah itu.” Ketika ia memegangnya, ia mengukur enam takaran jelai dan meletakkannya padanya. Kemudian ia kembali ke kota."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Ketika Rut kembali kepada ibu mertuanya, Naomi bertanya, “Bagaimana hasilnya, anakku?” Rut menceritakan semua yang dilakukan Boas untuknya."
+      ]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Ia menambahkan, “Ia memberiku enam takaran jelai ini, katanya, ‘Janganlah kembali kepada ibu mertuamu dengan tangan kosong.’”"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Naomi berkata, “Tunggulah, anakku, sampai engkau melihat bagaimana perkara ini berakhir; karena pria itu tidak akan beristirahat sampai ia menyelesaikan perkara ini hari ini.”"
+      ]
+    }
+  ]
 }

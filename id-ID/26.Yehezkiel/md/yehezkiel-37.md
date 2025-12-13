@@ -90,7 +90,7 @@ Aku akan membuat mereka satu bangsa di tanah itu, di gunung-gunung Israel; dan a
 
 ## Yehezkiel 37:23
 
-Mereka tidak akan lagi menajiskan diri dengan berhala-berhala mereka, atau dengan hal-hal yang menjijikkan, atau dengan dosa-dosa mereka. Aku akan menyelamatkan mereka dari segala kemurtadan mereka di mana mereka telah berdosa, dan akan membersihkan mereka. Mereka akan menjadi umat-Ku, dan Aku akan menjadi Allah mereka.
+Mereka tidak akan lagi menajiskan diri dengan berhala-berhala mereka, atau dengan hal-hal yang menjijikkan, atau dengan dosa-dosa mereka. Aku akan menyelamatkan mereka dari segala kemurtadan mereka di mana mereka telah berdosa, dan akan membersihkan mereka. Mereka akan menjadi umat-Ku, dan Aku akan menjadi Tuhan mereka.
 
 ## Yehezkiel 37:24
 
@@ -106,7 +106,7 @@ Aku akan membuat perjanjian damai dengan mereka; itu akan menjadi perjanjian kek
 
 ## Yehezkiel 37:27
 
-Aku akan tinggal di antara mereka; Aku akan menjadi Allah mereka, dan mereka akan menjadi umat-Ku.
+Aku akan tinggal di antara mereka; Aku akan menjadi Tuhan mereka, dan mereka akan menjadi umat-Ku.
 
 ## Yehezkiel 37:28
 

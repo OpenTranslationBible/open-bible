@@ -18,7 +18,7 @@ Kami menulis hal-hal ini, supaya sukacita kami menjadi lengkap.
 
 ## 1 Yohanes 1:5
 
-Inilah pesan yang telah kami terima dari Dia dan kami sampaikan kepada kamu, bahwa Allah adalah Terang, dan di dalam Dia sama sekali tidak ada kegelapan.
+Inilah pesan yang telah kami terima dari Dia dan kami sampaikan kepada kamu, bahwa Tuhan adalah Terang, dan di dalam Dia sama sekali tidak ada kegelapan.
 
 ## 1 Yohanes 1:6
 

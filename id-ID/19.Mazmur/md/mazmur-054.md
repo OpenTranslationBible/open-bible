@@ -4,12 +4,12 @@
 
 ## Mazmur 54:1
 
-> Selamatkanlah aku, ya Allah, dengan nama-Mu,  
+> Selamatkanlah aku, ya Tuhan, dengan nama-Mu,  
 > Dan berilah keadilan kepadaku dengan kuasa-Mu.
 
 ## Mazmur 54:2
 
-> Dengarkanlah doaku, ya Allah;  
+> Dengarkanlah doaku, ya Tuhan;  
 > Berilah telinga kepada kata-kata yang kuucapkan.
 
 ---
@@ -18,7 +18,7 @@
 
 > Sebab orang-orang asing bangkit melawan aku,  
 > Dan orang-orang kejam mencari nyawaku;  
-> Mereka tidak menempatkan Allah di hadapan mereka.
+> Mereka tidak menempatkan Tuhan di hadapan mereka.
 
 > Sela
 
@@ -26,7 +26,7 @@
 
 ## Mazmur 54:4
 
-> Sesungguhnya, Allah adalah penolongku;  
+> Sesungguhnya, Tuhan adalah penolongku;  
 > Tuhan adalah penopang jiwaku.
 
 ---

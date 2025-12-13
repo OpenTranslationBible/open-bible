@@ -34,11 +34,11 @@ Anak-anak Harun, para imam, harus meniup trompet. Ini harus menjadi ketetapan ya
 
 ## Bilangan 10:9
 
-Ketika kamu pergi berperang di negerimu melawan musuh yang menindasmu, bunyikanlah tanda bahaya dengan trompet. Maka kamu akan diingat oleh Tuhan Allahmu dan diselamatkan dari musuh-musuhmu.
+Ketika kamu pergi berperang di negerimu melawan musuh yang menindasmu, bunyikanlah tanda bahaya dengan trompet. Maka kamu akan diingat oleh Tuhan Tuhanmu dan diselamatkan dari musuh-musuhmu.
 
 ## Bilangan 10:10
 
-Pada hari-hari sukacitamu, perayaan-perayaan yang ditetapkan, dan pada permulaan bulan-bulanmu, kamu harus meniup trompet di atas persembahan bakaranmu dan persembahan persekutuanmu, dan itu akan menjadi peringatan di hadapan Allahmu. Akulah Tuhan Allahmu.”
+Pada hari-hari sukacitamu, perayaan-perayaan yang ditetapkan, dan pada permulaan bulan-bulanmu, kamu harus meniup trompet di atas persembahan bakaranmu dan persembahan persekutuanmu, dan itu akan menjadi peringatan di hadapan Tuhanmu. Akulah Tuhan Tuhanmu.”
 
 ## Bilangan 10:11
 

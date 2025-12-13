@@ -56,7 +56,7 @@
 
 > Aku tidak akan melepaskan amarah-Ku yang hebat;  
 > Aku tidak akan menghancurkan Efraim lagi.  
-> Karena Aku adalah Allah dan bukan manusia,  
+> Karena Aku adalah Tuhan dan bukan manusia,  
 > Aku adalah Yang Kudus di antara kamu,  
 > Dan Aku tidak akan datang dengan murka.
 
@@ -77,5 +77,5 @@
 
 > Efraim mengelilingi Aku dengan kebohongan,  
 > Dan rumah Israel dengan tipu daya;  
-> Yehuda juga menentang Allah,  
+> Yehuda juga menentang Tuhan,  
 > Meskipun Aku tetap Yang Kudus yang setia.

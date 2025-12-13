@@ -5,7 +5,7 @@
 Inilah perkataan terakhir Daud:  
 Daud, anak Isai, berbicara,  
 Orang yang ditinggikan oleh Yang Mahatinggi,  
-Yang diurapi oleh Allah Yakub,  
+Yang diurapi oleh Tuhan Yakub,  
 Dan pemazmur terkasih dari Israel:
 
 ## 2 Samuel 23:2
@@ -15,10 +15,10 @@ Dan pemazmur terkasih dari Israel:
 
 ## 2 Samuel 23:3
 
-> Allah Israel berfirman,  
+> Tuhan Israel berfirman,  
 > Gunung Batu Israel berbicara kepadaku:  
 > 'Dia yang memerintah manusia dengan adil,  
-> Yang memerintah dengan takut akan Allah,
+> Yang memerintah dengan takut akan Tuhan,
 
 ## 2 Samuel 23:4
 
@@ -29,7 +29,7 @@ Dan pemazmur terkasih dari Israel:
 
 ## 2 Samuel 23:5
 
-> Sungguh, bukankah rumahku demikian dengan Allah?  
+> Sungguh, bukankah rumahku demikian dengan Tuhan?  
 > Sebab Dia telah membuat perjanjian kekal denganku,  
 > Tertata dan terjamin dalam segala hal;  
 > Sebab bukankah Dia akan membuat keselamatanku dan semua keinginanku bertumbuh?

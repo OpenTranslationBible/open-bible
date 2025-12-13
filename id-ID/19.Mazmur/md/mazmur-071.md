@@ -18,7 +18,7 @@
 
 ## Mazmur 71:4
 
-> Selamatkanlah aku, Allahku, dari tangan orang fasik,  
+> Selamatkanlah aku, Tuhanku, dari tangan orang fasik,  
 > Dari cengkeraman orang yang berbuat salah dan kejam.
 
 ---
@@ -26,7 +26,7 @@
 ## Mazmur 71:5
 
 > Karena Engkau adalah harapanku;  
-> Tuhan Allah, Engkau telah menjadi kepercayaanku sejak masa mudaku.
+> Tuhan Tuhan, Engkau telah menjadi kepercayaanku sejak masa mudaku.
 
 ## Mazmur 71:6
 
@@ -58,13 +58,13 @@
 
 ## Mazmur 71:11
 
-> Berkata, “Allah telah meninggalkannya;  
+> Berkata, “Tuhan telah meninggalkannya;  
 > Kejar dan tangkap dia, karena tidak ada yang menyelamatkannya.”
 
 ## Mazmur 71:12
 
-> Allah, janganlah jauh dariku;  
-> Allahku, segeralah menolong aku!
+> Tuhan, janganlah jauh dariku;  
+> Tuhanku, segeralah menolong aku!
 
 ## Mazmur 71:13
 
@@ -88,17 +88,17 @@
 
 ## Mazmur 71:16
 
-> Aku akan datang dengan perbuatan-perbuatan perkasa Tuhan Allah;  
+> Aku akan datang dengan perbuatan-perbuatan perkasa Tuhan Tuhan;  
 > Aku akan berbicara tentang kebenaran-Mu, hanya milik-Mu.
 
 ## Mazmur 71:17
 
-> Allah, Engkau telah mengajar aku sejak masa mudaku,  
+> Tuhan, Engkau telah mengajar aku sejak masa mudaku,  
 > Dan aku masih menyatakan perbuatan-perbuatan ajaib-Mu.
 
 ## Mazmur 71:18
 
-> Dan bahkan ketika aku tua dan beruban, Allah, jangan tinggalkan aku,  
+> Dan bahkan ketika aku tua dan beruban, Tuhan, jangan tinggalkan aku,  
 > Sampai aku menyatakan kekuatan-Mu kepada generasi ini,  
 > Kuasa-Mu kepada semua yang akan datang.
 
@@ -106,9 +106,9 @@
 
 ## Mazmur 71:19
 
-> Karena kebenaran-Mu, Allah, menjangkau langit,  
+> Karena kebenaran-Mu, Tuhan, menjangkau langit,  
 > Engkau yang telah melakukan perbuatan-perbuatan ajaib;  
-> Allah, siapa yang dapat dibandingkan dengan Engkau?
+> Tuhan, siapa yang dapat dibandingkan dengan Engkau?
 
 ## Mazmur 71:20
 
@@ -126,7 +126,7 @@
 ## Mazmur 71:22
 
 > Aku juga akan memuji-Mu dengan kecapi,  
-> Dan menyatakan kesetiaan-Mu, Allahku;  
+> Dan menyatakan kesetiaan-Mu, Tuhanku;  
 > Aku akan menyanyikan pujian kepada-Mu dengan kecapi, Yang Kudus dari Israel.
 
 ## Mazmur 71:23

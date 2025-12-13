@@ -16,7 +16,7 @@ supaya aku tahu jumlah orang-orang itu."
 ## 2 Samuel 24:3
 
 Tetapi Yoab berkata kepada raja,  
-"Semoga Tuhan Allahmu menambah jumlah orang sebanyak seratus kali lipat,  
+"Semoga Tuhan Tuhanmu menambah jumlah orang sebanyak seratus kali lipat,  
 sementara mata tuanku raja masih melihat;  
 tetapi mengapa tuanku raja berkenan dalam hal ini?"
 
@@ -148,13 +148,13 @@ alat-alat pengirik, dan kuk lembu untuk kayu.
 
 Semua ini, ya raja, Arauna berikan dengan cuma-cuma kepada raja."  
 Dan Arauna berkata kepada raja,  
-"Semoga Tuhan Allahmu menerima engkau."
+"Semoga Tuhan Tuhanmu menerima engkau."
 
 ## 2 Samuel 24:24
 
 Namun, raja berkata kepada Arauna,  
 "Tidak, tetapi aku pasti akan membelinya darimu dengan harga;  
-karena aku tidak akan mempersembahkan persembahan bakaran kepada Tuhan Allahku yang tidak memerlukan biaya bagiku."  
+karena aku tidak akan mempersembahkan persembahan bakaran kepada Tuhan Tuhanku yang tidak memerlukan biaya bagiku."  
 Maka Daud membeli tempat pengirikan dan lembu-lembu itu dengan lima puluh syikal perak.
 
 ## 2 Samuel 24:25

@@ -23,7 +23,7 @@
 
 ## Ayub 37:5
 
-> Allah mengguntur dengan suara-Nya yang menakjubkan,  
+> Tuhan mengguntur dengan suara-Nya yang menakjubkan,  
 > Melakukan hal-hal besar di luar pemahaman kita.
 
 ## Ayub 37:6
@@ -48,7 +48,7 @@
 
 ## Ayub 37:10
 
-> Dengan nafas Allah es terbentuk,  
+> Dengan nafas Tuhan es terbentuk,  
 > Dan permukaan air membeku.
 
 ## Ayub 37:11
@@ -72,11 +72,11 @@
 ## Ayub 37:14
 
 > "Dengarkanlah ini, Ayub:  
-> Berdirilah dan renungkan keajaiban-keajaiban Allah.
+> Berdirilah dan renungkan keajaiban-keajaiban Tuhan.
 
 ## Ayub 37:15
 
-> Apakah engkau tahu bagaimana Allah menetapkannya,  
+> Apakah engkau tahu bagaimana Tuhan menetapkannya,  
 > Dan membuat kilat awan-Nya bersinar?
 
 ## Ayub 37:16
@@ -114,7 +114,7 @@
 ## Ayub 37:22
 
 > Dari utara datang kemegahan emas;  
-> Di sekitar Allah ada keagungan yang menakjubkan.
+> Di sekitar Tuhan ada keagungan yang menakjubkan.
 
 ## Ayub 37:23
 

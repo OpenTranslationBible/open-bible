@@ -2,7 +2,7 @@
 
 ## Kejadian 17:1
 
-Ketika Abram berumur sembilan puluh sembilan tahun, Tuhan menampakkan diri kepadanya dan berkata, "Akulah Allah Yang Mahakuasa; berjalanlah di hadapan-Ku dan jadilah tidak bercela.
+Ketika Abram berumur sembilan puluh sembilan tahun, Tuhan menampakkan diri kepadanya dan berkata, "Akulah Tuhan Yang Mahakuasa; berjalanlah di hadapan-Ku dan jadilah tidak bercela.
 
 ## Kejadian 17:2
 
@@ -10,7 +10,7 @@ Aku akan mengadakan perjanjian-Ku antara Aku dan engkau, dan Aku akan memperbany
 
 ## Kejadian 17:3
 
-Abram sujud, dan Allah berbicara kepadanya, dengan berkata,
+Abram sujud, dan Tuhan berbicara kepadanya, dengan berkata,
 
 ## Kejadian 17:4
 
@@ -26,15 +26,15 @@ Aku akan membuat engkau sangat berbuah; Aku akan membuat bangsa-bangsa darimu, d
 
 ## Kejadian 17:7
 
-Aku akan mengadakan perjanjian-Ku sebagai perjanjian kekal antara Aku dan engkau dan keturunanmu sesudahmu sepanjang generasi mereka, untuk menjadi Allahmu dan Allah keturunanmu sesudahmu.
+Aku akan mengadakan perjanjian-Ku sebagai perjanjian kekal antara Aku dan engkau dan keturunanmu sesudahmu sepanjang generasi mereka, untuk menjadi Tuhanmu dan Tuhan keturunanmu sesudahmu.
 
 ## Kejadian 17:8
 
-Aku akan memberikan kepadamu dan keturunanmu sesudahmu tanah tempat engkau tinggal sebagai orang asing, seluruh tanah Kanaan, sebagai milik pusaka yang kekal; dan Aku akan menjadi Allah mereka.”
+Aku akan memberikan kepadamu dan keturunanmu sesudahmu tanah tempat engkau tinggal sebagai orang asing, seluruh tanah Kanaan, sebagai milik pusaka yang kekal; dan Aku akan menjadi Tuhan mereka.”
 
 ## Kejadian 17:9
 
-Allah berkata lebih lanjut kepada Abraham, "Adapun engkau, engkau harus memelihara perjanjian-Ku, engkau dan keturunanmu sesudahmu sepanjang generasi mereka.
+Tuhan berkata lebih lanjut kepada Abraham, "Adapun engkau, engkau harus memelihara perjanjian-Ku, engkau dan keturunanmu sesudahmu sepanjang generasi mereka.
 
 ## Kejadian 17:10
 
@@ -58,7 +58,7 @@ Setiap laki-laki yang tidak disunat, yang tidak disunat pada daging kulit khatan
 
 ## Kejadian 17:15
 
-Kemudian Allah berkata kepada Abraham, "Adapun Sarai istrimu, engkau tidak boleh memanggilnya Sarai, tetapi Sarah harus menjadi namanya.
+Kemudian Tuhan berkata kepada Abraham, "Adapun Sarai istrimu, engkau tidak boleh memanggilnya Sarai, tetapi Sarah harus menjadi namanya.
 
 ## Kejadian 17:16
 
@@ -70,11 +70,11 @@ Kemudian Abraham sujud dan tertawa, merenungkan dalam hatinya, "Dapatkah seorang
 
 ## Kejadian 17:18
 
-Dan Abraham berkata kepada Allah, "Oh, biarlah Ismael hidup di bawah berkat-Mu!”
+Dan Abraham berkata kepada Tuhan, "Oh, biarlah Ismael hidup di bawah berkat-Mu!”
 
 ## Kejadian 17:19
 
-Tetapi Allah berkata, "Tidak, tetapi istrimu Sarah akan melahirkan seorang anak laki-laki bagimu, dan engkau harus menamainya Ishak; dan Aku akan mengadakan perjanjian-Ku dengan dia sebagai perjanjian kekal untuk keturunannya sesudahnya.
+Tetapi Tuhan berkata, "Tidak, tetapi istrimu Sarah akan melahirkan seorang anak laki-laki bagimu, dan engkau harus menamainya Ishak; dan Aku akan mengadakan perjanjian-Ku dengan dia sebagai perjanjian kekal untuk keturunannya sesudahnya.
 
 ## Kejadian 17:20
 
@@ -86,11 +86,11 @@ Namun, Aku akan mengadakan perjanjian-Ku dengan Ishak, yang akan dilahirkan Sara
 
 ## Kejadian 17:22
 
-Setelah menyelesaikan percakapan-Nya dengan Abraham, Allah naik meninggalkannya.
+Setelah menyelesaikan percakapan-Nya dengan Abraham, Tuhan naik meninggalkannya.
 
 ## Kejadian 17:23
 
-Kemudian Abraham mengambil anaknya Ismael dan semua yang lahir di rumahnya atau dibeli dengan uangnya, setiap laki-laki di antara orang-orang di rumah Abraham, dan menyunat mereka pada hari itu juga, seperti yang telah diperintahkan Allah kepadanya.
+Kemudian Abraham mengambil anaknya Ismael dan semua yang lahir di rumahnya atau dibeli dengan uangnya, setiap laki-laki di antara orang-orang di rumah Abraham, dan menyunat mereka pada hari itu juga, seperti yang telah diperintahkan Tuhan kepadanya.
 
 ## Kejadian 17:24
 

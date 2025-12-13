@@ -17,7 +17,7 @@
 
 ## Mazmur 13:3
 
-> Pandanglah aku dan jawablah, ya Tuhan, Allahku;  
+> Pandanglah aku dan jawablah, ya Tuhan, Tuhanku;  
 > Terangilah mataku, supaya aku tidak jatuh ke dalam tidur maut,
 
 ## Mazmur 13:4

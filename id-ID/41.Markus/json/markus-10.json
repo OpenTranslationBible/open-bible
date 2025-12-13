@@ -1,363 +1,329 @@
 {
-    "book": "Markus",
-    "chapter": 10,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Yesus berangkat dari sana dan pergi ke daerah Yudea dan seberang Sungai Yordan. Orang banyak berkumpul di sekeliling-Nya lagi, dan seperti biasa, Ia mulai mengajar mereka lagi."
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "Beberapa orang Farisi mendatangi-Nya, mencobai Dia dengan bertanya apakah diperbolehkan bagi seorang laki-laki untuk menceraikan istrinya."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Ia menjawab, “Apa yang diperintahkan Musa kepada kamu?”"
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Mereka menjawab, “Musa mengizinkan seorang laki-laki menulis surat cerai dan menceraikan istrinya.”"
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Yesus berkata kepada mereka, “Karena kekerasan hatimu, ia menuliskan perintah ini untukmu."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Namun, sejak awal penciptaan, Allah menciptakan mereka laki-laki dan perempuan."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Karena itu, seorang laki-laki akan meninggalkan ayah dan ibunya dan bersatu dengan istrinya,"
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "dan keduanya akan menjadi satu daging; maka mereka bukan lagi dua, melainkan satu."
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "Oleh karena itu, apa yang telah dipersatukan Allah, janganlah dipisahkan oleh manusia.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Ketika mereka kembali ke rumah, murid-murid bertanya kepada-Nya tentang hal ini."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Ia berkata kepada mereka, “Siapa pun yang menceraikan istrinya dan menikahi wanita lain berbuat zina terhadapnya;"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "dan jika seorang wanita berpisah dari suaminya dan menikahi pria lain, ia dianggap telah berbuat zina.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Orang-orang membawa anak-anak kecil kepada Yesus agar Ia menyentuh mereka, tetapi murid-murid menegur mereka."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Ketika Yesus melihat hal ini, Ia marah dan berkata kepada mereka, “Biarkan anak-anak datang kepada-Ku; jangan menghalangi mereka, karena kerajaan Allah adalah milik orang-orang seperti ini."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Aku berkata kepadamu, siapa pun yang tidak menerima kerajaan Allah dengan hati seorang anak tidak akan pernah memasukinya.”"
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Dan Ia memeluk anak-anak itu, meletakkan tangan-Nya atas mereka, dan memberkati mereka."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "Ketika Ia berangkat dalam perjalanan, seorang pria berlari kepada-Nya, berlutut di hadapan-Nya, dan bertanya, “Guru yang baik, apa yang harus aku lakukan untuk memperoleh hidup yang kekal?”"
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Yesus menjawab, “Mengapa engkau menyebut Aku baik? Tidak ada yang baik kecuali Allah saja."
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "Engkau tahu perintah-perintah: ‘Jangan membunuh, jangan berbuat zina, jangan mencuri, jangan memberi kesaksian palsu, jangan menipu, hormatilah ayah dan ibumu.’”"
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Ia berkata kepada-Nya, “Guru, semua ini telah kuperhatikan sejak masa mudaku.”"
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Memandangnya, Yesus mengasihinya dan berkata, “Satu hal yang kurang padamu: pergilah, juallah semua yang engkau miliki dan berikan kepada orang miskin, dan engkau akan memiliki harta di surga; lalu datanglah, ikutlah Aku.”"
-            ]
-        },
-        {
-            "verse": 22,
-            "text": [
-                "Mendengar itu, wajah pria itu muram, dan ia pergi dengan sedih, karena ia memiliki banyak harta."
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 23,
-            "text": [
-                "Yesus memandang sekeliling dan berkata kepada murid-murid-Nya, “Betapa sulitnya bagi mereka yang kaya untuk masuk ke dalam kerajaan Allah!”"
-            ]
-        },
-        {
-            "verse": 24,
-            "text": [
-                "Murid-murid terkejut mendengar perkataan-Nya. Tetapi Yesus berkata lagi, “Anak-anak, betapa sulitnya untuk masuk ke dalam kerajaan Allah!"
-            ]
-        },
-        {
-            "verse": 25,
-            "text": [
-                "Lebih mudah bagi seekor unta untuk melewati lubang jarum daripada bagi orang kaya untuk masuk ke dalam kerajaan Allah.”"
-            ]
-        },
-        {
-            "verse": 26,
-            "text": [
-                "Mereka semakin heran dan berkata satu sama lain, “Kalau begitu, siapa yang dapat diselamatkan?”"
-            ]
-        },
-        {
-            "verse": 27,
-            "text": [
-                "Yesus memandang mereka dan berkata, “Bagi manusia hal itu tidak mungkin, tetapi bukan bagi Allah; sebab bagi Allah segala sesuatu adalah mungkin.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 28,
-            "text": [
-                "Petrus mulai berkata kepada-Nya, “Kami telah meninggalkan segala sesuatu untuk mengikuti Engkau!”"
-            ]
-        },
-        {
-            "verse": 29,
-            "text": [
-                "Yesus menjawab, “Sesungguhnya Aku berkata kepadamu, tidak ada seorang pun yang telah meninggalkan rumah atau saudara laki-laki atau saudara perempuan atau ibu atau ayah atau anak-anak atau ladang karena Aku dan karena Injil"
-            ]
-        },
-        {
-            "verse": 30,
-            "text": [
-                "yang tidak akan menerima seratus kali lipat pada masa sekarang ini: rumah, saudara laki-laki, saudara perempuan, ibu, anak-anak, dan ladang—dengan penganiayaan—dan pada masa yang akan datang, hidup yang kekal."
-            ]
-        },
-        {
-            "verse": 31,
-            "text": [
-                "Tetapi banyak yang pertama akan menjadi yang terakhir, dan yang terakhir akan menjadi yang pertama.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 32,
-            "text": [
-                "Mereka sedang dalam perjalanan menuju Yerusalem, dengan Yesus memimpin jalan, dan murid-murid terkejut, sementara mereka yang mengikuti merasa takut. Lagi-lagi Ia mengambil kedua belas murid itu dan mulai memberitahu mereka apa yang akan terjadi pada-Nya."
-            ]
-        },
-        {
-            "verse": 33,
-            "text": [
-                "“Kita akan pergi ke Yerusalem,” kata-Nya, “dan Anak Manusia akan diserahkan kepada imam-imam kepala dan ahli-ahli Taurat. Mereka akan menjatuhkan hukuman mati kepada-Nya dan menyerahkan-Nya kepada orang-orang bukan Yahudi,"
-            ]
-        },
-        {
-            "verse": 34,
-            "text": [
-                "yang akan mengolok-olok Dia, meludahi-Nya, mencambuk-Nya, dan membunuh-Nya. Tiga hari kemudian Ia akan bangkit.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 35,
-            "text": [
-                "Lalu Yakobus dan Yohanes, anak-anak Zebedeus, datang kepada-Nya dan berkata, “Guru, kami ingin Engkau melakukan bagi kami apa pun yang kami minta.”"
-            ]
-        },
-        {
-            "verse": 36,
-            "text": [
-                "“Apa yang kamu ingin Aku lakukan untukmu?” tanya-Nya."
-            ]
-        },
-        {
-            "verse": 37,
-            "text": [
-                "Mereka menjawab, “Izinkan salah satu dari kami duduk di sebelah kanan-Mu dan yang lain di sebelah kiri-Mu dalam kemuliaan-Mu.”"
-            ]
-        },
-        {
-            "verse": 38,
-            "text": [
-                "Yesus berkata kepada mereka, “Kamu tidak tahu apa yang kamu minta. Dapatkah kamu minum cawan yang Aku minum atau dibaptis dengan baptisan yang Aku dibaptis?”"
-            ]
-        },
-        {
-            "verse": 39,
-            "text": [
-                "“Kami bisa,” jawab mereka. Yesus berkata kepada mereka, “Kamu memang akan minum cawan yang Aku minum dan dibaptis dengan baptisan yang Aku dibaptis,"
-            ]
-        },
-        {
-            "verse": 40,
-            "text": [
-                "tetapi untuk duduk di sebelah kanan atau kiri-Ku bukanlah hak-Ku untuk memberikannya. Tempat-tempat itu disediakan bagi mereka yang telah dipersiapkan.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 41,
-            "text": [
-                "Ketika sepuluh murid lainnya mendengar hal ini, mereka menjadi marah kepada Yakobus dan Yohanes."
-            ]
-        },
-        {
-            "verse": 42,
-            "text": [
-                "Yesus memanggil mereka dan berkata, “Kamu tahu bahwa mereka yang dianggap sebagai penguasa orang-orang bukan Yahudi menguasai mereka, dan para pejabat tinggi mereka menjalankan kekuasaan atas mereka."
-            ]
-        },
-        {
-            "verse": 43,
-            "text": [
-                "Tetapi tidaklah demikian di antara kamu. Sebaliknya, siapa pun yang ingin menjadi besar di antara kamu harus menjadi pelayanmu,"
-            ]
-        },
-        {
-            "verse": 44,
-            "text": [
-                "dan siapa pun yang ingin menjadi yang pertama harus menjadi hamba dari semuanya."
-            ]
-        },
-        {
-            "verse": 45,
-            "text": [
-                "Karena bahkan Anak Manusia datang bukan untuk dilayani, tetapi untuk melayani, dan untuk memberikan nyawa-Nya sebagai tebusan bagi banyak orang.”"
-            ]
-        },
-        {
-            "text": [
-                "---"
-            ]
-        },
-        {
-            "verse": 46,
-            "text": [
-                "Kemudian mereka tiba di Yerikho. Ketika Yesus dan murid-murid-Nya, bersama dengan orang banyak, meninggalkan kota itu, seorang pria buta bernama Bartimeus, anak Timaeus, duduk di pinggir jalan mengemis."
-            ]
-        },
-        {
-            "verse": 47,
-            "text": [
-                "Setelah mendengar bahwa itu adalah Yesus dari Nazaret, ia mulai berteriak, “Yesus, Anak Daud, kasihanilah aku!”"
-            ]
-        },
-        {
-            "verse": 48,
-            "text": [
-                "Banyak orang menegurnya dan menyuruhnya diam, tetapi ia semakin keras berteriak, “Anak Daud, kasihanilah aku!”"
-            ]
-        },
-        {
-            "verse": 49,
-            "text": [
-                "Yesus berhenti dan berkata, “Panggil dia.” Maka mereka memanggil orang buta itu, “Berani, bangkitlah! Ia memanggilmu.”"
-            ]
-        },
-        {
-            "verse": 50,
-            "text": [
-                "Melepaskan jubahnya, ia melompat dan datang kepada Yesus."
-            ]
-        },
-        {
-            "verse": 51,
-            "text": [
-                "“Apa yang engkau ingin Aku lakukan untukmu?” tanya Yesus kepadanya. Orang buta itu berkata, “Rabbi, aku ingin melihat.”"
-            ]
-        },
-        {
-            "verse": 52,
-            "text": [
-                "Yesus berkata kepadanya, “Pergilah, imanmu telah menyembuhkanmu.” Segera ia menerima penglihatannya dan mengikuti Yesus di jalan."
-            ]
-        }
-    ]
+  "book": "Markus",
+  "chapter": 10,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Yesus berangkat dari sana dan pergi ke daerah Yudea dan seberang Sungai Yordan. Orang banyak berkumpul di sekeliling-Nya lagi, dan seperti biasa, Ia mulai mengajar mereka lagi."
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "Beberapa orang Farisi mendatangi-Nya, mencobai Dia dengan bertanya apakah diperbolehkan bagi seorang laki-laki untuk menceraikan istrinya."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": ["Ia menjawab, “Apa yang diperintahkan Musa kepada kamu?”"]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Mereka menjawab, “Musa mengizinkan seorang laki-laki menulis surat cerai dan menceraikan istrinya.”"
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Yesus berkata kepada mereka, “Karena kekerasan hatimu, ia menuliskan perintah ini untukmu."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": ["Namun, sejak awal penciptaan, Tuhan menciptakan mereka laki-laki dan perempuan."]
+    },
+    {
+      "verse": 7,
+      "text": [
+        "Karena itu, seorang laki-laki akan meninggalkan ayah dan ibunya dan bersatu dengan istrinya,"
+      ]
+    },
+    {
+      "verse": 8,
+      "text": ["dan keduanya akan menjadi satu daging; maka mereka bukan lagi dua, melainkan satu."]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "Oleh karena itu, apa yang telah dipersatukan Tuhan, janganlah dipisahkan oleh manusia.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 10,
+      "text": ["Ketika mereka kembali ke rumah, murid-murid bertanya kepada-Nya tentang hal ini."]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Ia berkata kepada mereka, “Siapa pun yang menceraikan istrinya dan menikahi wanita lain berbuat zina terhadapnya;"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "dan jika seorang wanita berpisah dari suaminya dan menikahi pria lain, ia dianggap telah berbuat zina.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Orang-orang membawa anak-anak kecil kepada Yesus agar Ia menyentuh mereka, tetapi murid-murid menegur mereka."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Ketika Yesus melihat hal ini, Ia marah dan berkata kepada mereka, “Biarkan anak-anak datang kepada-Ku; jangan menghalangi mereka, karena kerajaan Tuhan adalah milik orang-orang seperti ini."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Aku berkata kepadamu, siapa pun yang tidak menerima kerajaan Tuhan dengan hati seorang anak tidak akan pernah memasukinya.”"
+      ]
+    },
+    {
+      "verse": 16,
+      "text": [
+        "Dan Ia memeluk anak-anak itu, meletakkan tangan-Nya atas mereka, dan memberkati mereka."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "Ketika Ia berangkat dalam perjalanan, seorang pria berlari kepada-Nya, berlutut di hadapan-Nya, dan bertanya, “Guru yang baik, apa yang harus aku lakukan untuk memperoleh hidup yang kekal?”"
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Yesus menjawab, “Mengapa engkau menyebut Aku baik? Tidak ada yang baik kecuali Tuhan saja."
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "Engkau tahu perintah-perintah: ‘Jangan membunuh, jangan berbuat zina, jangan mencuri, jangan memberi kesaksian palsu, jangan menipu, hormatilah ayah dan ibumu.’”"
+      ]
+    },
+    {
+      "verse": 20,
+      "text": ["Ia berkata kepada-Nya, “Guru, semua ini telah kuperhatikan sejak masa mudaku.”"]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Memandangnya, Yesus mengasihinya dan berkata, “Satu hal yang kurang padamu: pergilah, juTuhan semua yang engkau miliki dan berikan kepada orang miskin, dan engkau akan memiliki harta di surga; lalu datanglah, ikutlah Aku.”"
+      ]
+    },
+    {
+      "verse": 22,
+      "text": [
+        "Mendengar itu, wajah pria itu muram, dan ia pergi dengan sedih, karena ia memiliki banyak harta."
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 23,
+      "text": [
+        "Yesus memandang sekeliling dan berkata kepada murid-murid-Nya, “Betapa sulitnya bagi mereka yang kaya untuk masuk ke dalam kerajaan Tuhan!”"
+      ]
+    },
+    {
+      "verse": 24,
+      "text": [
+        "Murid-murid terkejut mendengar perkataan-Nya. Tetapi Yesus berkata lagi, “Anak-anak, betapa sulitnya untuk masuk ke dalam kerajaan Tuhan!"
+      ]
+    },
+    {
+      "verse": 25,
+      "text": [
+        "Lebih mudah bagi seekor unta untuk melewati lubang jarum daripada bagi orang kaya untuk masuk ke dalam kerajaan Tuhan.”"
+      ]
+    },
+    {
+      "verse": 26,
+      "text": [
+        "Mereka semakin heran dan berkata satu sama lain, “Kalau begitu, siapa yang dapat diselamatkan?”"
+      ]
+    },
+    {
+      "verse": 27,
+      "text": [
+        "Yesus memandang mereka dan berkata, “Bagi manusia hal itu tidak mungkin, tetapi bukan bagi Tuhan; sebab bagi Tuhan segala sesuatu adalah mungkin.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 28,
+      "text": [
+        "Petrus mulai berkata kepada-Nya, “Kami telah meninggalkan segala sesuatu untuk mengikuti Engkau!”"
+      ]
+    },
+    {
+      "verse": 29,
+      "text": [
+        "Yesus menjawab, “Sesungguhnya Aku berkata kepadamu, tidak ada seorang pun yang telah meninggalkan rumah atau saudara laki-laki atau saudara perempuan atau ibu atau ayah atau anak-anak atau ladang karena Aku dan karena Injil"
+      ]
+    },
+    {
+      "verse": 30,
+      "text": [
+        "yang tidak akan menerima seratus kali lipat pada masa sekarang ini: rumah, saudara laki-laki, saudara perempuan, ibu, anak-anak, dan ladang—dengan penganiayaan—dan pada masa yang akan datang, hidup yang kekal."
+      ]
+    },
+    {
+      "verse": 31,
+      "text": [
+        "Tetapi banyak yang pertama akan menjadi yang terakhir, dan yang terakhir akan menjadi yang pertama.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 32,
+      "text": [
+        "Mereka sedang dalam perjalanan menuju Yerusalem, dengan Yesus memimpin jalan, dan murid-murid terkejut, sementara mereka yang mengikuti merasa takut. Lagi-lagi Ia mengambil kedua belas murid itu dan mulai memberitahu mereka apa yang akan terjadi pada-Nya."
+      ]
+    },
+    {
+      "verse": 33,
+      "text": [
+        "“Kita akan pergi ke Yerusalem,” kata-Nya, “dan Anak Manusia akan diserahkan kepada imam-imam kepala dan ahli-ahli Taurat. Mereka akan menjatuhkan hukuman mati kepada-Nya dan menyerahkan-Nya kepada orang-orang bukan Yahudi,"
+      ]
+    },
+    {
+      "verse": 34,
+      "text": [
+        "yang akan mengolok-olok Dia, meludahi-Nya, mencambuk-Nya, dan membunuh-Nya. Tiga hari kemudian Ia akan bangkit.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 35,
+      "text": [
+        "Lalu Yakobus dan Yohanes, anak-anak Zebedeus, datang kepada-Nya dan berkata, “Guru, kami ingin Engkau melakukan bagi kami apa pun yang kami minta.”"
+      ]
+    },
+    {
+      "verse": 36,
+      "text": ["“Apa yang kamu ingin Aku lakukan untukmu?” tanya-Nya."]
+    },
+    {
+      "verse": 37,
+      "text": [
+        "Mereka menjawab, “Izinkan salah satu dari kami duduk di sebelah kanan-Mu dan yang lain di sebelah kiri-Mu dalam kemuliaan-Mu.”"
+      ]
+    },
+    {
+      "verse": 38,
+      "text": [
+        "Yesus berkata kepada mereka, “Kamu tidak tahu apa yang kamu minta. Dapatkah kamu minum cawan yang Aku minum atau dibaptis dengan baptisan yang Aku dibaptis?”"
+      ]
+    },
+    {
+      "verse": 39,
+      "text": [
+        "“Kami bisa,” jawab mereka. Yesus berkata kepada mereka, “Kamu memang akan minum cawan yang Aku minum dan dibaptis dengan baptisan yang Aku dibaptis,"
+      ]
+    },
+    {
+      "verse": 40,
+      "text": [
+        "tetapi untuk duduk di sebelah kanan atau kiri-Ku bukanlah hak-Ku untuk memberikannya. Tempat-tempat itu disediakan bagi mereka yang telah dipersiapkan.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 41,
+      "text": [
+        "Ketika sepuluh murid lainnya mendengar hal ini, mereka menjadi marah kepada Yakobus dan Yohanes."
+      ]
+    },
+    {
+      "verse": 42,
+      "text": [
+        "Yesus memanggil mereka dan berkata, “Kamu tahu bahwa mereka yang dianggap sebagai penguasa orang-orang bukan Yahudi menguasai mereka, dan para pejabat tinggi mereka menjalankan kekuasaan atas mereka."
+      ]
+    },
+    {
+      "verse": 43,
+      "text": [
+        "Tetapi tidaklah demikian di antara kamu. Sebaliknya, siapa pun yang ingin menjadi besar di antara kamu harus menjadi pelayanmu,"
+      ]
+    },
+    {
+      "verse": 44,
+      "text": ["dan siapa pun yang ingin menjadi yang pertama harus menjadi hamba dari semuanya."]
+    },
+    {
+      "verse": 45,
+      "text": [
+        "Karena bahkan Anak Manusia datang bukan untuk dilayani, tetapi untuk melayani, dan untuk memberikan nyawa-Nya sebagai tebusan bagi banyak orang.”"
+      ]
+    },
+    {
+      "text": ["---"]
+    },
+    {
+      "verse": 46,
+      "text": [
+        "Kemudian mereka tiba di Yerikho. Ketika Yesus dan murid-murid-Nya, bersama dengan orang banyak, meninggalkan kota itu, seorang pria buta bernama Bartimeus, anak Timaeus, duduk di pinggir jalan mengemis."
+      ]
+    },
+    {
+      "verse": 47,
+      "text": [
+        "Setelah mendengar bahwa itu adalah Yesus dari Nazaret, ia mulai berteriak, “Yesus, Anak Daud, kasihanilah aku!”"
+      ]
+    },
+    {
+      "verse": 48,
+      "text": [
+        "Banyak orang menegurnya dan menyuruhnya diam, tetapi ia semakin keras berteriak, “Anak Daud, kasihanilah aku!”"
+      ]
+    },
+    {
+      "verse": 49,
+      "text": [
+        "Yesus berhenti dan berkata, “Panggil dia.” Maka mereka memanggil orang buta itu, “Berani, bangkitlah! Ia memanggilmu.”"
+      ]
+    },
+    {
+      "verse": 50,
+      "text": ["Melepaskan jubahnya, ia melompat dan datang kepada Yesus."]
+    },
+    {
+      "verse": 51,
+      "text": [
+        "“Apa yang engkau ingin Aku lakukan untukmu?” tanya Yesus kepadanya. Orang buta itu berkata, “Rabbi, aku ingin melihat.”"
+      ]
+    },
+    {
+      "verse": 52,
+      "text": [
+        "Yesus berkata kepadanya, “Pergilah, imanmu telah menyembuhkanmu.” Segera ia menerima penglihatannya dan mengikuti Yesus di jalan."
+      ]
+    }
+  ]
 }

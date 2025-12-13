@@ -26,7 +26,7 @@ Sepanjang masa nazar mereka, mereka tidak boleh makan apa pun yang berasal dari 
 
 ## Bilangan 6:7
 
-Mereka tidak boleh menajiskan diri mereka untuk ayah, ibu, saudara laki-laki, atau saudara perempuan mereka ketika mereka meninggal, karena simbol pengabdian mereka kepada Allah ada di atas kepala mereka.
+Mereka tidak boleh menajiskan diri mereka untuk ayah, ibu, saudara laki-laki, atau saudara perempuan mereka ketika mereka meninggal, karena simbol pengabdian mereka kepada Tuhan ada di atas kepala mereka.
 
 ## Bilangan 6:8
 

@@ -48,7 +48,7 @@ Kerumunan menjawab, “Ini adalah Yesus, nabi dari Nazaret di Galilea.”
 
 ## Matius 21:12
 
-Yesus memasuki pelataran Bait Allah dan mengusir semua orang yang berjual beli di sana. Dia membalikkan meja-meja penukar uang dan kursi-kursi penjual merpati.
+Yesus memasuki pelataran Bait Tuhan dan mengusir semua orang yang berjual beli di sana. Dia membalikkan meja-meja penukar uang dan kursi-kursi penjual merpati.
 
 ## Matius 21:13
 
@@ -56,11 +56,11 @@ Dan Dia berkata kepada mereka, “Ada tertulis: ‘Rumah-Ku akan disebut rumah d
 
 ## Matius 21:14
 
-Mereka yang buta dan yang lumpuh mendekati-Nya di Bait Allah, dan Dia menyembuhkan mereka.
+Mereka yang buta dan yang lumpuh mendekati-Nya di Bait Tuhan, dan Dia menyembuhkan mereka.
 
 ## Matius 21:15
 
-Tetapi ketika imam-imam kepala dan ahli-ahli Taurat melihat hal-hal menakjubkan yang dilakukan-Nya, dan anak-anak berseru di pelataran Bait Allah, “Hosana bagi Anak Daud,” mereka menjadi marah.
+Tetapi ketika imam-imam kepala dan ahli-ahli Taurat melihat hal-hal menakjubkan yang dilakukan-Nya, dan anak-anak berseru di pelataran Bait Tuhan, “Hosana bagi Anak Daud,” mereka menjadi marah.
 
 ## Matius 21:16
 
@@ -96,7 +96,7 @@ Dan apa pun yang kamu minta dalam doa, dengan percaya, kamu akan menerimanya.”
 
 ## Matius 21:23
 
-Ketika Yesus memasuki pelataran Bait Allah, imam-imam kepala dan tua-tua bangsa datang kepada-Nya saat Dia mengajar dan bertanya, “Dengan kuasa apa Engkau melakukan hal-hal ini, dan siapa yang memberikan kuasa ini kepada-Mu?”
+Ketika Yesus memasuki pelataran Bait Tuhan, imam-imam kepala dan tua-tua bangsa datang kepada-Nya saat Dia mengajar dan bertanya, “Dengan kuasa apa Engkau melakukan hal-hal ini, dan siapa yang memberikan kuasa ini kepada-Mu?”
 
 ## Matius 21:24
 
@@ -130,7 +130,7 @@ Ayah itu pergi kepada anak yang lain dan mengatakan hal yang sama. Dia menjawab,
 
 ## Matius 21:31
 
-Siapa di antara kedua anak itu yang melakukan kehendak ayahnya?” “Yang pertama,” jawab mereka. Yesus berkata kepada mereka, “Sesungguhnya Aku berkata kepadamu, para pemungut cukai dan para pelacur akan masuk ke dalam kerajaan Allah sebelum kamu.
+Siapa di antara kedua anak itu yang melakukan kehendak ayahnya?” “Yang pertama,” jawab mereka. Yesus berkata kepada mereka, “Sesungguhnya Aku berkata kepadamu, para pemungut cukai dan para pelacur akan masuk ke dalam kerajaan Tuhan sebelum kamu.
 
 ## Matius 21:32
 
@@ -180,7 +180,7 @@ Yesus berkata kepada mereka, “Belum pernahkah kamu membaca dalam Kitab Suci: �
 
 ## Matius 21:43
 
-Oleh karena itu Aku berkata kepadamu bahwa kerajaan Allah akan diambil darimu dan diberikan kepada bangsa yang akan menghasilkan buahnya.
+Oleh karena itu Aku berkata kepadamu bahwa kerajaan Tuhan akan diambil darimu dan diberikan kepada bangsa yang akan menghasilkan buahnya.
 
 ## Matius 21:44
 

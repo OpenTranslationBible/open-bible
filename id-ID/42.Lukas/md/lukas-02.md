@@ -52,11 +52,11 @@ Dan inilah tandanya bagimu: Kamu akan menjumpai seorang bayi dibungkus dengan ka
 
 ## Lukas 2:13
 
-Dan tiba-tiba tampaklah bersama-sama dengan malaikat itu sejumlah besar bala tentara sorga yang memuji Allah, katanya,
+Dan tiba-tiba tampaklah bersama-sama dengan malaikat itu sejumlah besar bala tentara sorga yang memuji Tuhan, katanya,
 
 ## Lukas 2:14
 
-> “Kemuliaan bagi Allah di tempat yang mahatinggi,
+> “Kemuliaan bagi Tuhan di tempat yang mahatinggi,
 > dan damai sejahtera di bumi di antara manusia yang berkenan kepada-Nya.”
 
 ---
@@ -83,7 +83,7 @@ Tetapi Maria menyimpan segala perkara itu di dalam hatinya dan merenungkannya.
 
 ## Lukas 2:20
 
-Maka kembalilah gembala-gembala itu sambil memuji dan memuliakan Allah karena segala sesuatu yang mereka dengar dan mereka lihat, semuanya sesuai dengan apa yang telah dikatakan kepada mereka.
+Maka kembalilah gembala-gembala itu sambil memuji dan memuliakan Tuhan karena segala sesuatu yang mereka dengar dan mereka lihat, semuanya sesuai dengan apa yang telah dikatakan kepada mereka.
 
 ---
 
@@ -117,11 +117,11 @@ dan kepadanya telah dinyatakan oleh Roh Kudus, bahwa ia tidak akan mati sebelum 
 
 ## Lukas 2:27
 
-Ia datang ke Bait Allah oleh Roh Kudus. Ketika Yesus, Anak itu, dibawa masuk oleh orang tua-Nya untuk melakukan kepada-Nya apa yang ditentukan hukum Taurat,
+Ia datang ke Bait Tuhan oleh Roh Kudus. Ketika Yesus, Anak itu, dibawa masuk oleh orang tua-Nya untuk melakukan kepada-Nya apa yang ditentukan hukum Taurat,
 
 ## Lukas 2:28
 
-ia menyambut Anak itu dan menatang-Nya sambil memuji Allah, katanya,
+ia menyambut Anak itu dan menatang-Nya sambil memuji Tuhan, katanya,
 
 ## Lukas 2:29
 
@@ -163,11 +163,11 @@ Lagipula ada Hana, seorang nabiah, anak Fanuel, dari suku Asyer. Ia sudah sangat
 
 ## Lukas 2:37
 
-dan sekarang ia janda dan berumur delapan puluh empat tahun. Ia tidak pernah meninggalkan Bait Allah dan siang malam beribadah dengan berpuasa dan berdoa.
+dan sekarang ia janda dan berumur delapan puluh empat tahun. Ia tidak pernah meninggalkan Bait Tuhan dan siang malam beribadah dengan berpuasa dan berdoa.
 
 ## Lukas 2:38
 
-Dan pada ketika itu juga datanglah ia ke situ dan mengucap syukur kepada Allah dan berbicara tentang Anak itu kepada semua orang yang menantikan kelepasan untuk Yerusalem.
+Dan pada ketika itu juga datanglah ia ke situ dan mengucap syukur kepada Tuhan dan berbicara tentang Anak itu kepada semua orang yang menantikan kelepasan untuk Yerusalem.
 
 ---
 
@@ -177,7 +177,7 @@ Dan setelah selesai semua yang harus dilakukan menurut hukum Tuhan, kembalilah m
 
 ## Lukas 2:40
 
-Anak itu bertambah besar dan menjadi kuat, penuh hikmat, dan kasih karunia Allah ada pada-Nya.
+Anak itu bertambah besar dan menjadi kuat, penuh hikmat, dan kasih karunia Tuhan ada pada-Nya.
 
 ---
 
@@ -203,7 +203,7 @@ Karena mereka tidak menemukan Dia, kembalilah mereka ke Yerusalem sambil terus m
 
 ## Lukas 2:46
 
-Sesudah tiga hari mereka menemukan Dia dalam Bait Allah. Ia sedang duduk di tengah-tengah alim ulama, mendengarkan mereka dan mengajukan pertanyaan-pertanyaan kepada mereka.
+Sesudah tiga hari mereka menemukan Dia dalam Bait Tuhan. Ia sedang duduk di tengah-tengah alim ulama, mendengarkan mereka dan mengajukan pertanyaan-pertanyaan kepada mereka.
 
 ## Lukas 2:47
 
@@ -227,4 +227,4 @@ Lalu Ia pulang bersama-sama mereka ke Nazaret; dan Ia tetap hidup dalam asuhan m
 
 ## Lukas 2:52
 
-Dan Yesus makin bertambah besar dan bertambah hikmat-Nya dan besar-Nya, dan makin dikasihi oleh Allah dan manusia.
+Dan Yesus makin bertambah besar dan bertambah hikmat-Nya dan besar-Nya, dan makin dikasihi oleh Tuhan dan manusia.

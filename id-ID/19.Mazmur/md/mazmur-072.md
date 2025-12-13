@@ -4,7 +4,7 @@
 
 ## Mazmur 72:1
 
-> Ya Allah, berikanlah penghakiman-Mu kepada raja,  
+> Ya Tuhan, berikanlah penghakiman-Mu kepada raja,  
 > Dan keadilan-Mu kepada anak raja.
 
 ## Mazmur 72:2
@@ -107,7 +107,7 @@
 
 ## Mazmur 72:18
 
-> Terpujilah Tuhan Allah, Allah Israel,  
+> Terpujilah Tuhan Tuhan, Tuhan Israel,  
 > Yang sendirian melakukan keajaiban.
 
 ## Mazmur 72:19

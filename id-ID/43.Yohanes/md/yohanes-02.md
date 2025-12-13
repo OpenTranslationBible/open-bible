@@ -58,11 +58,11 @@ Ketika hari raya Paskah orang Yahudi sudah dekat, Yesus pergi ke Yerusalem.
 
 ## Yohanes 2:14
 
-Di pelataran Bait Allah, Ia melihat orang-orang menjual lembu, domba, dan merpati, serta orang-orang duduk di meja-meja penukar uang.
+Di pelataran Bait Tuhan, Ia melihat orang-orang menjual lembu, domba, dan merpati, serta orang-orang duduk di meja-meja penukar uang.
 
 ## Yohanes 2:15
 
-Ia membuat cambuk dari tali dan mengusir mereka semua dari pelataran Bait Allah, bersama dengan domba dan lembu; Ia menumpahkan uang penukar-penukar uang dan membalikkan meja-meja mereka.
+Ia membuat cambuk dari tali dan mengusir mereka semua dari pelataran Bait Tuhan, bersama dengan domba dan lembu; Ia menumpahkan uang penukar-penukar uang dan membalikkan meja-meja mereka.
 
 ## Yohanes 2:16
 
@@ -80,15 +80,15 @@ Orang-orang Yahudi kemudian bertanya kepada-Nya, "Tanda apa yang dapat Engkau tu
 
 ## Yohanes 2:19
 
-Yesus menjawab, "Rombak Bait Allah ini, dan dalam tiga hari Aku akan membangunnya kembali."
+Yesus menjawab, "Rombak Bait Tuhan ini, dan dalam tiga hari Aku akan membangunnya kembali."
 
 ## Yohanes 2:20
 
-Mereka menjawab, "Empat puluh enam tahun dibutuhkan untuk membangun Bait Allah ini, dan Engkau akan membangunnya dalam tiga hari?"
+Mereka menjawab, "Empat puluh enam tahun dibutuhkan untuk membangun Bait Tuhan ini, dan Engkau akan membangunnya dalam tiga hari?"
 
 ## Yohanes 2:21
 
-Namun, Ia berbicara tentang Bait Allah tubuh-Nya.
+Namun, Ia berbicara tentang Bait Tuhan tubuh-Nya.
 
 ## Yohanes 2:22
 

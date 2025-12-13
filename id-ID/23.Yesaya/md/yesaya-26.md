@@ -2,7 +2,7 @@
 
 ## Yesaya 26:1
 
-Pada hari itu, nyanyian ini akan dinyanyikan di tanah Yehuda: "Kita mempunyai kota yang kuat; Allah mendirikan keselamatan sebagai tembok dan bentengnya untuk keamanan.
+Pada hari itu, nyanyian ini akan dinyanyikan di tanah Yehuda: "Kita mempunyai kota yang kuat; Tuhan mendirikan keselamatan sebagai tembok dan bentengnya untuk keamanan.
 
 ## Yesaya 26:2
 
@@ -14,7 +14,7 @@ Engkau akan menjaga dalam damai sejahtera yang sempurna mereka yang pikirannya t
 
 ## Yesaya 26:4
 
-Percayalah kepada Tuhan selama-lamanya, sebab Tuhan Allah adalah Gunung Batu yang kekal.
+Percayalah kepada Tuhan selama-lamanya, sebab Tuhan Tuhan adalah Gunung Batu yang kekal.
 
 ## Yesaya 26:5
 
@@ -50,7 +50,7 @@ Tuhan, Engkau akan membawa damai bagi kami, karena Engkau juga telah menyelesaik
 
 ## Yesaya 26:13
 
-Tuhan Allah kami, penguasa lain selain Engkau telah memerintah kami, tetapi kami menghormati nama-Mu saja.
+Tuhan Tuhan kami, penguasa lain selain Engkau telah memerintah kami, tetapi kami menghormati nama-Mu saja.
 
 ## Yesaya 26:14
 

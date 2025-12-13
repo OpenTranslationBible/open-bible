@@ -16,7 +16,7 @@ Kemudian Raja Daud berdiri dan berkata,
 
 > "Dengarkanlah aku, saudara-saudaraku dan bangsaku;  
 > aku telah berniat dalam hatiku untuk membangun rumah permanen bagi tabut perjanjian Tuhan,  
-> dan untuk tumpuan kaki Allah kita.  
+> dan untuk tumpuan kaki Tuhan kita.  
 > Maka aku telah membuat persiapan untuk membangunnya.
 
 ---
@@ -32,7 +32,7 @@ Namun, Tuhan berkata kepadaku,
 
 ## 1 Tawarikh 28:4
 
-Namun demikian, Tuhan, Allah Israel, memilih aku dari seluruh keluarga ayahku untuk menjadi raja atas Israel selamanya.
+Namun demikian, Tuhan, Tuhan Israel, memilih aku dari seluruh keluarga ayahku untuk menjadi raja atas Israel selamanya.
 
 > Sebab Dia telah memilih Yehuda untuk memimpin,  
 > dan dari suku Yehuda, keluarga ayahku,  
@@ -68,9 +68,9 @@ Dia berkata kepadaku,
 ## 1 Tawarikh 28:8
 
 Jadi sekarang, di hadapan seluruh Israel, jemaat Tuhan,  
-dan dalam pendengaran Allah kita,
+dan dalam pendengaran Tuhan kita,
 
-> peliharalah dan carilah semua perintah Tuhan Allahmu  
+> peliharalah dan carilah semua perintah Tuhan Tuhanmu  
 > agar kamu dapat memiliki tanah yang baik  
 > dan meninggalkannya sebagai warisan kepada anak-anakmu selamanya.
 
@@ -78,7 +78,7 @@ dan dalam pendengaran Allah kita,
 
 ## 1 Tawarikh 28:9
 
-Adapun engkau, anakku Salomo, kenalilah Allah ayahmu,
+Adapun engkau, anakku Salomo, kenalilah Tuhan ayahmu,
 
 > dan layani Dia dengan hati yang tulus dan pikiran yang rela;  
 > karena Tuhan menyelidiki semua hati, dan memahami setiap maksud dari pikiran.  
@@ -107,7 +107,7 @@ Kemudian Daud memberikan kepada anaknya Salomo rencana dari serambi bait suci,
 dan desain dari semua yang telah dia bayangkan,
 
 > untuk pelataran rumah Tuhan, dan untuk semua kamar sekitarnya,  
-> untuk gudang-gudang rumah Allah dan untuk gudang-gudang barang-barang yang dikhususkan;
+> untuk gudang-gudang rumah Tuhan dan untuk gudang-gudang barang-barang yang dikhususkan;
 
 ---
 
@@ -171,14 +171,14 @@ Kemudian Daud berkata kepada anaknya Salomo,
 
 > "Jadilah kuat dan berani, dan bertindaklah;  
 > jangan takut atau terkejut,  
-> karena Tuhan Allah, Allahku, menyertaimu.  
+> karena Tuhan Tuhan, Tuhanku, menyertaimu.  
 > Dia tidak akan mengecewakanmu atau meninggalkanmu sampai semua pekerjaan untuk pelayanan rumah Tuhan selesai.
 
 ---
 
 ## 1 Tawarikh 28:21
 
-Sekarang lihatlah, ada pembagian para imam dan orang-orang Lewi untuk semua pelayanan rumah Allah,
+Sekarang lihatlah, ada pembagian para imam dan orang-orang Lewi untuk semua pelayanan rumah Tuhan,
 
 > dan setiap orang yang rela dari setiap keahlian akan bersamamu dalam semua pekerjaan,  
 > untuk semua pekerjaan, juga para pejabat dan semua orang, akan sepenuhnya berada di bawah perintahmu."

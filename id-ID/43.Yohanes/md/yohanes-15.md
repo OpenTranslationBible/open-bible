@@ -14,7 +14,7 @@ Kamu memang sudah bersih karena firman yang telah Kukatakan kepadamu.
 
 ## Yohanes 15:4
 
-Tinggallah di dalam Aku, dan Aku di dalam kamu. Sama seperti ranting tidak dapat berbuah dari dirinya sendiri, kalau ia tidak tinggal pada pokok anggur, demikian juga kamu tidak berbuah, jikalau kamu tidak tinggal di dalam Aku.
+TinggTuhan di dalam Aku, dan Aku di dalam kamu. Sama seperti ranting tidak dapat berbuah dari dirinya sendiri, kalau ia tidak tinggal pada pokok anggur, demikian juga kamu tidak berbuah, jikalau kamu tidak tinggal di dalam Aku.
 
 ## Yohanes 15:5
 
@@ -36,7 +36,7 @@ Dalam hal inilah Bapa-Ku dipermuliakan, yaitu jika kamu berbuah banyak dan denga
 
 ## Yohanes 15:9
 
-"Seperti Bapa telah mengasihi Aku, demikian juga Aku telah mengasihi kamu; tinggallah di dalam kasih-Ku itu.
+"Seperti Bapa telah mengasihi Aku, demikian juga Aku telah mengasihi kamu; tinggTuhan di dalam kasih-Ku itu.
 
 ## Yohanes 15:10
 

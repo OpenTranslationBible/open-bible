@@ -1,132 +1,128 @@
 {
-    "book": "Ulangan",
-    "chapter": 19,
-    "verses": [
-        {
-            "verse": 1,
-            "text": [
-                "Apabila Tuhan, Allahmu, telah memusnahkan bangsa-bangsa yang tanahnya diberikan-Nya kepadamu, dan engkau telah mengusir mereka dan menetap di kota-kota dan rumah-rumah mereka,"
-            ]
-        },
-        {
-            "verse": 2,
-            "text": [
-                "maka engkau harus menetapkan tiga kota bagimu di tengah-tengah negeri yang diberikan Tuhan, Allahmu, kepadamu untuk diduduki."
-            ]
-        },
-        {
-            "verse": 3,
-            "text": [
-                "Siapkanlah jalan-jalan dan bagi wilayah tanahmu menjadi tiga bagian, yang diberikan Tuhan, Allahmu, kepadamu sebagai milik pusaka, supaya setiap orang yang membunuh seseorang tanpa sengaja dapat melarikan diri ke sana."
-            ]
-        },
-        {
-            "verse": 4,
-            "text": [
-                "Inilah ketentuan mengenai orang yang membunuh orang lain tanpa sengaja, tanpa niat jahat sebelumnya: ketika ia membunuh sesamanya tanpa sengaja."
-            ]
-        },
-        {
-            "verse": 5,
-            "text": [
-                "Misalnya, jika seorang pergi dengan sesamanya ke hutan untuk menebang kayu, dan ketika ia mengayunkan kapaknya untuk menebang pohon, mata besi terlepas dari gagangnya dan mengenai sesamanya sehingga menyebabkan kematian, ia dapat melarikan diri ke salah satu kota ini dan hidup."
-            ]
-        },
-        {
-            "verse": 6,
-            "text": [
-                "Jika tidak, penuntut darah mungkin mengejarnya dalam kemarahan, menyusulnya jika jaraknya terlalu jauh, dan membunuhnya, meskipun ia tidak layak dihukum mati karena ia tidak menyimpan kebencian sebelumnya."
-            ]
-        },
-        {
-            "verse": 7,
-            "text": [
-                "Oleh karena itu, aku memerintahkan engkau untuk menetapkan tiga kota bagi dirimu."
-            ]
-        },
-        {
-            "verse": 8,
-            "text": [
-                "Jika Tuhan, Allahmu, memperluas wilayahmu, seperti yang telah Dia janjikan kepada nenek moyangmu, dan memberikan kepadamu seluruh tanah yang dijanjikan-Nya,"
-            ]
-        },
-        {
-            "verse": 9,
-            "text": [
-                "dengan syarat engkau dengan cermat mengikuti semua perintah ini yang aku berikan kepadamu hari ini, untuk mengasihi Tuhan, Allahmu, dan berjalan di jalan-Nya selalu, maka engkau harus menambah tiga kota lagi bagimu, selain dari tiga kota ini."
-            ]
-        },
-        {
-            "verse": 10,
-            "text": [
-                "Lakukanlah ini agar darah orang yang tidak bersalah tidak tertumpah di tanahmu, yang diberikan Tuhan, Allahmu, kepadamu sebagai milik pusaka, dan agar engkau tidak bersalah atas penumpahan darah."
-            ]
-        },
-        {
-            "verse": 11,
-            "text": [
-                "Tetapi jika seseorang membenci sesamanya, bersembunyi, menyerangnya dan membunuhnya, lalu melarikan diri ke salah satu kota ini,"
-            ]
-        },
-        {
-            "verse": 12,
-            "text": [
-                "maka para tua-tua kotanya harus mengirim untuk menjemputnya, dan membawanya kembali dari sana, dan menyerahkannya kepada penuntut darah untuk mati."
-            ]
-        },
-        {
-            "verse": 13,
-            "text": [
-                "Janganlah menunjukkan belas kasihan. Engkau harus membersihkan dari Israel kesalahan penumpahan darah orang yang tidak bersalah, agar keadaanmu baik."
-            ]
-        },
-        {
-            "verse": 14,
-            "text": [
-                "Janganlah memindahkan batu batas tetanggamu yang ditetapkan oleh nenek moyangmu dalam milik pusaka yang engkau terima di tanah yang diberikan Tuhan, Allahmu, kepadamu untuk diduduki."
-            ]
-        },
-        {
-            "verse": 15,
-            "text": [
-                "Seorang saksi tunggal tidak cukup untuk menghukum seseorang yang dituduh melakukan kejahatan atau pelanggaran yang mungkin telah dilakukannya; suatu perkara harus ditegakkan oleh kesaksian dua atau tiga saksi."
-            ]
-        },
-        {
-            "verse": 16,
-            "text": [
-                "Jika seorang saksi jahat bangkit untuk menuduh seseorang melakukan kesalahan,"
-            ]
-        },
-        {
-            "verse": 17,
-            "text": [
-                "kedua pihak yang berselisih harus berdiri di hadapan Tuhan, di hadapan para imam dan hakim yang menjabat pada waktu itu."
-            ]
-        },
-        {
-            "verse": 18,
-            "text": [
-                "Para hakim harus melakukan penyelidikan menyeluruh, dan jika saksi itu terbukti palsu, memberikan kesaksian palsu terhadap sesama orang Israel,"
-            ]
-        },
-        {
-            "verse": 19,
-            "text": [
-                "maka engkau harus melakukan kepada saksi palsu itu seperti yang ia maksudkan untuk dilakukan kepada saudaranya. Engkau harus membersihkan kejahatan dari tengah-tengahmu."
-            ]
-        },
-        {
-            "verse": 20,
-            "text": [
-                "Orang-orang akan mendengar hal ini dan menjadi takut, memastikan bahwa hal yang jahat seperti itu tidak terulang di antara kamu."
-            ]
-        },
-        {
-            "verse": 21,
-            "text": [
-                "Janganlah menunjukkan belas kasihan: nyawa ganti nyawa, mata ganti mata, gigi ganti gigi, tangan ganti tangan, kaki ganti kaki."
-            ]
-        }
-    ]
+  "book": "Ulangan",
+  "chapter": 19,
+  "verses": [
+    {
+      "verse": 1,
+      "text": [
+        "Apabila Tuhan, Tuhanmu, telah memusnahkan bangsa-bangsa yang tanahnya diberikan-Nya kepadamu, dan engkau telah mengusir mereka dan menetap di kota-kota dan rumah-rumah mereka,"
+      ]
+    },
+    {
+      "verse": 2,
+      "text": [
+        "maka engkau harus menetapkan tiga kota bagimu di tengah-tengah negeri yang diberikan Tuhan, Tuhanmu, kepadamu untuk diduduki."
+      ]
+    },
+    {
+      "verse": 3,
+      "text": [
+        "Siapkanlah jalan-jalan dan bagi wilayah tanahmu menjadi tiga bagian, yang diberikan Tuhan, Tuhanmu, kepadamu sebagai milik pusaka, supaya setiap orang yang membunuh seseorang tanpa sengaja dapat melarikan diri ke sana."
+      ]
+    },
+    {
+      "verse": 4,
+      "text": [
+        "Inilah ketentuan mengenai orang yang membunuh orang lain tanpa sengaja, tanpa niat jahat sebelumnya: ketika ia membunuh sesamanya tanpa sengaja."
+      ]
+    },
+    {
+      "verse": 5,
+      "text": [
+        "Misalnya, jika seorang pergi dengan sesamanya ke hutan untuk menebang kayu, dan ketika ia mengayunkan kapaknya untuk menebang pohon, mata besi terlepas dari gagangnya dan mengenai sesamanya sehingga menyebabkan kematian, ia dapat melarikan diri ke salah satu kota ini dan hidup."
+      ]
+    },
+    {
+      "verse": 6,
+      "text": [
+        "Jika tidak, penuntut darah mungkin mengejarnya dalam kemarahan, menyusulnya jika jaraknya terlalu jauh, dan membunuhnya, meskipun ia tidak layak dihukum mati karena ia tidak menyimpan kebencian sebelumnya."
+      ]
+    },
+    {
+      "verse": 7,
+      "text": ["Oleh karena itu, aku memerintahkan engkau untuk menetapkan tiga kota bagi dirimu."]
+    },
+    {
+      "verse": 8,
+      "text": [
+        "Jika Tuhan, Tuhanmu, memperluas wilayahmu, seperti yang telah Dia janjikan kepada nenek moyangmu, dan memberikan kepadamu seluruh tanah yang dijanjikan-Nya,"
+      ]
+    },
+    {
+      "verse": 9,
+      "text": [
+        "dengan syarat engkau dengan cermat mengikuti semua perintah ini yang aku berikan kepadamu hari ini, untuk mengasihi Tuhan, Tuhanmu, dan berjalan di jalan-Nya selalu, maka engkau harus menambah tiga kota lagi bagimu, selain dari tiga kota ini."
+      ]
+    },
+    {
+      "verse": 10,
+      "text": [
+        "Lakukanlah ini agar darah orang yang tidak bersalah tidak tertumpah di tanahmu, yang diberikan Tuhan, Tuhanmu, kepadamu sebagai milik pusaka, dan agar engkau tidak bersalah atas penumpahan darah."
+      ]
+    },
+    {
+      "verse": 11,
+      "text": [
+        "Tetapi jika seseorang membenci sesamanya, bersembunyi, menyerangnya dan membunuhnya, lalu melarikan diri ke salah satu kota ini,"
+      ]
+    },
+    {
+      "verse": 12,
+      "text": [
+        "maka para tua-tua kotanya harus mengirim untuk menjemputnya, dan membawanya kembali dari sana, dan menyerahkannya kepada penuntut darah untuk mati."
+      ]
+    },
+    {
+      "verse": 13,
+      "text": [
+        "Janganlah menunjukkan belas kasihan. Engkau harus membersihkan dari Israel kesalahan penumpahan darah orang yang tidak bersalah, agar keadaanmu baik."
+      ]
+    },
+    {
+      "verse": 14,
+      "text": [
+        "Janganlah memindahkan batu batas tetanggamu yang ditetapkan oleh nenek moyangmu dalam milik pusaka yang engkau terima di tanah yang diberikan Tuhan, Tuhanmu, kepadamu untuk diduduki."
+      ]
+    },
+    {
+      "verse": 15,
+      "text": [
+        "Seorang saksi tunggal tidak cukup untuk menghukum seseorang yang dituduh melakukan kejahatan atau pelanggaran yang mungkin telah dilakukannya; suatu perkara harus ditegakkan oleh kesaksian dua atau tiga saksi."
+      ]
+    },
+    {
+      "verse": 16,
+      "text": ["Jika seorang saksi jahat bangkit untuk menuduh seseorang melakukan kesalahan,"]
+    },
+    {
+      "verse": 17,
+      "text": [
+        "kedua pihak yang berselisih harus berdiri di hadapan Tuhan, di hadapan para imam dan hakim yang menjabat pada waktu itu."
+      ]
+    },
+    {
+      "verse": 18,
+      "text": [
+        "Para hakim harus melakukan penyelidikan menyeluruh, dan jika saksi itu terbukti palsu, memberikan kesaksian palsu terhadap sesama orang Israel,"
+      ]
+    },
+    {
+      "verse": 19,
+      "text": [
+        "maka engkau harus melakukan kepada saksi palsu itu seperti yang ia maksudkan untuk dilakukan kepada saudaranya. Engkau harus membersihkan kejahatan dari tengah-tengahmu."
+      ]
+    },
+    {
+      "verse": 20,
+      "text": [
+        "Orang-orang akan mendengar hal ini dan menjadi takut, memastikan bahwa hal yang jahat seperti itu tidak terulang di antara kamu."
+      ]
+    },
+    {
+      "verse": 21,
+      "text": [
+        "Janganlah menunjukkan belas kasihan: nyawa ganti nyawa, mata ganti mata, gigi ganti gigi, tangan ganti tangan, kaki ganti kaki."
+      ]
+    }
+  ]
 }

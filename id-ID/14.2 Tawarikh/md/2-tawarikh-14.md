@@ -8,7 +8,7 @@ Abia meninggal dan dimakamkan di kota Daud; anaknya Asa menggantikannya sebagai 
 
 ## 2 Tawarikh 14:2
 
-Asa bertindak dengan cara yang menyenangkan dan benar di hadapan Tuhan Allah,
+Asa bertindak dengan cara yang menyenangkan dan benar di hadapan Tuhan Tuhan,
 
 ---
 
@@ -20,7 +20,7 @@ karena ia menghapuskan mezbah asing dan tempat-tempat tinggi, meruntuhkan batu p
 
 ## 2 Tawarikh 14:4
 
-dan memerintahkan Yehuda untuk mencari Tuhan Allah nenek moyang mereka dan mengikuti Hukum dan perintah.
+dan memerintahkan Yehuda untuk mencari Tuhan Tuhan nenek moyang mereka dan mengikuti Hukum dan perintah.
 
 ---
 
@@ -38,7 +38,7 @@ Ia membangun kota-kota berkubu di Yehuda, karena negeri itu dalam keadaan damai,
 
 ## 2 Tawarikh 14:7
 
-Karena ia berkata kepada Yehuda, “Marilah kita membangun kota-kota ini dan mengelilinginya dengan tembok dan menara, pintu gerbang dan palang. Negeri ini tetap milik kita karena kita telah mencari Tuhan Allah kita; kita telah mencari Dia, dan Dia telah memberikan kita kedamaian di segala sisi.” Maka mereka membangun dan makmur.
+Karena ia berkata kepada Yehuda, “Marilah kita membangun kota-kota ini dan mengelilinginya dengan tembok dan menara, pintu gerbang dan palang. Negeri ini tetap milik kita karena kita telah mencari Tuhan Tuhan kita; kita telah mencari Dia, dan Dia telah memberikan kita kedamaian di segala sisi.” Maka mereka membangun dan makmur.
 
 ---
 
@@ -62,7 +62,7 @@ Asa keluar untuk menghadapi dia, dan mereka mengatur diri mereka dalam formasi p
 
 ## 2 Tawarikh 14:11
 
-Kemudian Asa berseru kepada Tuhan Allahnya dan berkata, “Tuhan, tidak ada yang selain Engkau untuk menolong dalam pertempuran antara yang kuat dan yang tidak mempunyai kekuatan; jadi tolonglah kami, Tuhan Allah kami, karena kami percaya kepada-Mu, dan dalam nama-Mu kami datang melawan kumpulan ini. Tuhan, Engkaulah Allah kami; janganlah ada orang yang mengalahkan Engkau.”
+Kemudian Asa berseru kepada Tuhan Tuhannya dan berkata, “Tuhan, tidak ada yang selain Engkau untuk menolong dalam pertempuran antara yang kuat dan yang tidak mempunyai kekuatan; jadi tolonglah kami, Tuhan Tuhan kami, karena kami percaya kepada-Mu, dan dalam nama-Mu kami datang melawan kumpulan ini. Tuhan, Engkaulah Tuhan kami; janganlah ada orang yang mengalahkan Engkau.”
 
 ---
 

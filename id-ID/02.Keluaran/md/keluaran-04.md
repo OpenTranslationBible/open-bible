@@ -18,7 +18,7 @@ Kemudian Tuhan berkata kepada Musa, “Ulurkan tanganmu dan peganglah ekornya.�
 
 ## Keluaran 4:5
 
-“Ini supaya mereka percaya bahwa Tuhan, Allah nenek moyang mereka—Allah Abraham, Ishak, dan Yakub—telah menampakkan diri kepadamu.”
+“Ini supaya mereka percaya bahwa Tuhan, Tuhan nenek moyang mereka—Tuhan Abraham, Ishak, dan Yakub—telah menampakkan diri kepadamu.”
 
 ## Keluaran 4:6
 
@@ -78,7 +78,7 @@ Sekarang Tuhan telah berkata kepada Musa di Midian, “Kembalilah ke Mesir, kare
 
 ## Keluaran 4:20
 
-Maka Musa membawa istri dan anak-anaknya, menaikkan mereka ke atas keledai, dan berangkat ke Mesir, membawa tongkat Allah di tangannya.
+Maka Musa membawa istri dan anak-anaknya, menaikkan mereka ke atas keledai, dan berangkat ke Mesir, membawa tongkat Tuhan di tangannya.
 
 ## Keluaran 4:21
 
@@ -106,7 +106,7 @@ Maka Tuhan membiarkannya. Pada saat itu dia berkata “pengantin darah,” menga
 
 ## Keluaran 4:27
 
-Tuhan memerintahkan Harun, “Pergilah ke padang gurun untuk menemui Musa.” Maka dia pergi dan menemuinya di gunung Allah dan menyambutnya dengan hangat.
+Tuhan memerintahkan Harun, “Pergilah ke padang gurun untuk menemui Musa.” Maka dia pergi dan menemuinya di gunung Tuhan dan menyambutnya dengan hangat.
 
 ## Keluaran 4:28
 

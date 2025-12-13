@@ -16,7 +16,7 @@
 ## Mazmur 87:3
 
 > Hal-hal yang menakjubkan dinyatakan tentang engkau,  
-> Kota Allah.
+> Kota Tuhan.
 
 > Sela
 

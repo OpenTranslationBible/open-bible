@@ -5,7 +5,7 @@
 ## Mazmur 36:1
 
 > Dosa berbicara kepada orang fasik dalam hatinya;  
-> Tidak ada rasa takut akan Allah di depan matanya.
+> Tidak ada rasa takut akan Tuhan di depan matanya.
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## Mazmur 36:7
 
-> Betapa berharganya kasih setia-Mu, ya Allah!  
+> Betapa berharganya kasih setia-Mu, ya Tuhan!  
 > Dan manusia berlindung di bawah naungan sayap-Mu.
 
 ## Mazmur 36:8

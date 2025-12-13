@@ -38,11 +38,11 @@ Karena kita tahu bahwa Kristus, setelah dibangkitkan dari antara orang mati, tid
 
 ## Roma 6:10
 
-Sebab kematian yang Dia alami, Dia telah mati terhadap dosa satu kali untuk selamanya; tetapi kehidupan yang Dia jalani, Dia jalani bagi Allah.
+Sebab kematian yang Dia alami, Dia telah mati terhadap dosa satu kali untuk selamanya; tetapi kehidupan yang Dia jalani, Dia jalani bagi Tuhan.
 
 ## Roma 6:11
 
-Demikianlah hendaknya kamu memandang dirimu sendiri: mati terhadap dosa, tetapi hidup bagi Allah dalam Kristus Yesus.
+Demikianlah hendaknya kamu memandang dirimu sendiri: mati terhadap dosa, tetapi hidup bagi Tuhan dalam Kristus Yesus.
 
 ## Roma 6:12
 
@@ -50,7 +50,7 @@ Sebab itu, janganlah dosa berkuasa lagi dalam tubuhmu yang fana, sehingga kamu m
 
 ## Roma 6:13
 
-Dan janganlah kamu menyerahkan anggota-anggota tubuhmu kepada dosa untuk dipakai sebagai senjata kelaliman, tetapi serahkanlah dirimu kepada Allah sebagai orang-orang yang dahulu mati, tetapi yang sekarang hidup. Dan serahkanlah anggota-anggota tubuhmu kepada Allah untuk menjadi senjata-senjata kebenaran.
+Dan janganlah kamu menyerahkan anggota-anggota tubuhmu kepada dosa untuk dipakai sebagai senjata kelaliman, tetapi serahkanlah dirimu kepada Tuhan sebagai orang-orang yang dahulu mati, tetapi yang sekarang hidup. Dan serahkanlah anggota-anggota tubuhmu kepada Tuhan untuk menjadi senjata-senjata kebenaran.
 
 ## Roma 6:14
 
@@ -66,7 +66,7 @@ Tidak tahukah kamu, bahwa apabila kamu menyerahkan dirimu kepada seseorang sebag
 
 ## Roma 6:17
 
-Tetapi syukurlah kepada Allah, bahwa sekalipun kamu dahulu hamba dosa, kamu telah dengan segenap hati menaati pengajaran yang telah disampaikan kepadamu.
+Tetapi syukurlah kepada Tuhan, bahwa sekalipun kamu dahulu hamba dosa, kamu telah dengan segenap hati menaati pengajaran yang telah disampaikan kepadamu.
 
 ## Roma 6:18
 
@@ -86,8 +86,8 @@ Apakah hasil yang kamu peroleh dari hal-hal yang sekarang kamu malukan itu? Kare
 
 ## Roma 6:22
 
-Tetapi sekarang, setelah kamu dimerdekakan dari dosa dan menjadi hamba Allah, kamu memperoleh buah yang memimpin kepada pengudusan, dan kesudahannya ialah hidup yang kekal.
+Tetapi sekarang, setelah kamu dimerdekakan dari dosa dan menjadi hamba Tuhan, kamu memperoleh buah yang memimpin kepada pengudusan, dan kesudahannya ialah hidup yang kekal.
 
 ## Roma 6:23
 
-Sebab upah dosa ialah maut, tetapi karunia Allah ialah hidup yang kekal dalam Kristus Yesus, Tuhan kita.
+Sebab upah dosa ialah maut, tetapi karunia Tuhan ialah hidup yang kekal dalam Kristus Yesus, Tuhan kita.

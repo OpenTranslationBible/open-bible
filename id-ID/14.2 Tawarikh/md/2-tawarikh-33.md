@@ -31,8 +31,8 @@ Ia melakukan banyak kejahatan di mata Tuhan, sehingga membangkitkan murka-Nya.
 
 ## 2 Tawarikh 33:7
 
-Kemudian ia menaruh patung pahatan berhala yang telah dibuatnya di rumah Allah,  
-yang tentangnya Allah telah berfirman kepada Daud dan kepada anaknya Salomo,  
+Kemudian ia menaruh patung pahatan berhala yang telah dibuatnya di rumah Tuhan,  
+yang tentangnya Tuhan telah berfirman kepada Daud dan kepada anaknya Salomo,  
 "Di rumah ini dan di Yerusalem, yang telah Kupilih dari antara semua suku Israel,  
 Aku akan menaruh nama-Ku untuk selama-lamanya;
 
@@ -58,13 +58,13 @@ dan mereka menangkap Manasye dengan kait, mengikatnya dengan rantai tembaga, dan
 
 ## 2 Tawarikh 33:12
 
-Ketika ia dalam kesesakan, ia berusaha untuk menenangkan Tuhan, Allahnya, dan merendahkan diri dengan sangat di hadapan Allah nenek moyangnya.
+Ketika ia dalam kesesakan, ia berusaha untuk menenangkan Tuhan, Tuhannya, dan merendahkan diri dengan sangat di hadapan Tuhan nenek moyangnya.
 
 ## 2 Tawarikh 33:13
 
 Ketika ia berdoa kepada-Nya, Tuhan tergerak oleh permohonannya dan mendengar doanya,  
 dan membawanya kembali ke Yerusalem ke kerajaannya.  
-Kemudian Manasye tahu bahwa Tuhan saja adalah Allah.
+Kemudian Manasye tahu bahwa Tuhan saja adalah Tuhan.
 
 ---
 
@@ -83,23 +83,23 @@ dan ia membuangnya ke luar kota.
 ## 2 Tawarikh 33:16
 
 Ia memulihkan mezbah Tuhan dan mempersembahkan korban keselamatan dan korban syukur di atasnya;  
-dan ia memerintahkan Yehuda untuk beribadah kepada Tuhan, Allah Israel.
+dan ia memerintahkan Yehuda untuk beribadah kepada Tuhan, Tuhan Israel.
 
 ## 2 Tawarikh 33:17
 
-Namun demikian, rakyat masih mempersembahkan korban di bukit-bukit pengorbanan, meskipun hanya kepada Tuhan, Allah mereka.
+Namun demikian, rakyat masih mempersembahkan korban di bukit-bukit pengorbanan, meskipun hanya kepada Tuhan, Tuhan mereka.
 
 ---
 
 ## 2 Tawarikh 33:18
 
-Adapun perbuatan-perbuatan lain dari Manasye, termasuk doanya kepada Allahnya,  
-dan perkataan para pelihat yang berbicara kepadanya dalam nama Tuhan, Allah Israel,  
+Adapun perbuatan-perbuatan lain dari Manasye, termasuk doanya kepada Tuhannya,  
+dan perkataan para pelihat yang berbicara kepadanya dalam nama Tuhan, Tuhan Israel,  
 lihatlah, semuanya itu ada di antara catatan raja-raja Israel.
 
 ## 2 Tawarikh 33:19
 
-Doanya juga dan bagaimana Allah tergerak olehnya, serta segala dosanya, ketidaksetiaannya,  
+Doanya juga dan bagaimana Tuhan tergerak olehnya, serta segala dosanya, ketidaksetiaannya,  
 dan tempat-tempat di mana ia membangun bukit-bukit pengorbanan dan mendirikan patung-patung Asyera dan patung-patung pahatan,  
 sebelum ia merendahkan diri, lihatlah, semuanya itu tertulis dalam catatan Hozai.
 

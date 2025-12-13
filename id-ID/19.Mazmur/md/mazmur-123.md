@@ -11,7 +11,7 @@
 
 > Perhatikanlah, seperti mata para hamba tertuju pada tangan tuannya,  
 > Dan seperti mata seorang pelayan wanita melihat kepada tangan nyonyanya,  
-> Demikianlah mata kami tertuju kepada Tuhan Allah kami,  
+> Demikianlah mata kami tertuju kepada Tuhan Tuhan kami,  
 > Sampai Dia menunjukkan kemurahan-Nya kepada kami.
 
 ---

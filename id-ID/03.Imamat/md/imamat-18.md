@@ -6,7 +6,7 @@ Kemudian Tuhan berbicara kepada Musa, dengan berkata,
 
 ## Imamat 18:2
 
-“Berbicaralah kepada orang Israel dan beritahukan kepada mereka: 'Akulah Tuhan Allahmu.
+“Berbicaralah kepada orang Israel dan beritahukan kepada mereka: 'Akulah Tuhan Tuhanmu.
 
 ## Imamat 18:3
 
@@ -14,7 +14,7 @@ Kamu tidak boleh bertindak seperti yang mereka lakukan di tanah Mesir, tempat ka
 
 ## Imamat 18:4
 
-Kamu harus mematuhi peraturan-Ku dan menjaga ketetapan-Ku, untuk hidup menurutnya. Akulah Tuhan Allahmu.
+Kamu harus mematuhi peraturan-Ku dan menjaga ketetapan-Ku, untuk hidup menurutnya. Akulah Tuhan Tuhanmu.
 
 ## Imamat 18:5
 
@@ -118,4 +118,4 @@ Karena siapa pun yang melakukan kekejian ini, orang-orang itu harus dipisahkan d
 
 ## Imamat 18:30
 
-Oleh karena itu, patuhilah persyaratan-Ku dan jangan mengikuti kebiasaan-kebiasaan yang menjijikkan yang dilakukan sebelum kamu, agar kamu tidak menajiskan dirimu dengan mereka. Akulah Tuhan Allahmu.'”
+Oleh karena itu, patuhilah persyaratan-Ku dan jangan mengikuti kebiasaan-kebiasaan yang menjijikkan yang dilakukan sebelum kamu, agar kamu tidak menajiskan dirimu dengan mereka. Akulah Tuhan Tuhanmu.'”

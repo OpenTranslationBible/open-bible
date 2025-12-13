@@ -10,7 +10,7 @@ Firman Tuhan datang kepadaku, mengatakan:
 
 ## Yehezkiel 18:3
 
-Demi Aku yang hidup," firman Tuhan Allah, "kamu tidak akan lagi menggunakan peribahasa ini di Israel.
+Demi Aku yang hidup," firman Tuhan Tuhan, "kamu tidak akan lagi menggunakan peribahasa ini di Israel.
 
 ## Yehezkiel 18:4
 
@@ -34,7 +34,7 @@ jika ia tidak meminjamkan dengan bunga atau mengambil keuntungan, menahan tangan
 
 ## Yehezkiel 18:9
 
-jika ia berjalan dalam ketetapan-Ku dan memelihara peraturan-Ku dengan bertindak setia—ia adalah orang benar; ia pasti akan hidup," firman Tuhan Allah.
+jika ia berjalan dalam ketetapan-Ku dan memelihara peraturan-Ku dengan bertindak setia—ia adalah orang benar; ia pasti akan hidup," firman Tuhan Tuhan.
 
 ## Yehezkiel 18:10
 
@@ -90,7 +90,7 @@ Tidak ada dari pelanggaran yang telah dilakukannya akan diingat terhadapnya; kar
 
 ## Yehezkiel 18:23
 
-Apakah Aku berkenan pada kematian orang jahat," firman Tuhan Allah, "daripada ia berbalik dari jalannya dan hidup?
+Apakah Aku berkenan pada kematian orang jahat," firman Tuhan Tuhan, "daripada ia berbalik dari jalannya dan hidup?
 
 ## Yehezkiel 18:24
 
@@ -118,7 +118,7 @@ Namun kaum Israel berkata, 'Jalan Tuhan tidak adil.' Dengarlah, hai kaum Israel,
 
 ## Yehezkiel 18:30
 
-"Oleh karena itu Aku akan menghakimi kamu, hai kaum Israel, masing-masing menurut jalannya," firman Tuhan Allah. "Bertobatlah dan berbaliklah dari semua pelanggaranmu, supaya kejahatan tidak menjadi kejatuhanmu.
+"Oleh karena itu Aku akan menghakimi kamu, hai kaum Israel, masing-masing menurut jalannya," firman Tuhan Tuhan. "Bertobatlah dan berbaliklah dari semua pelanggaranmu, supaya kejahatan tidak menjadi kejatuhanmu.
 
 ## Yehezkiel 18:31
 
@@ -126,4 +126,4 @@ Buanglah dari dirimu semua pelanggaran yang telah kamu lakukan, dan buatlah diri
 
 ## Yehezkiel 18:32
 
-Karena Aku tidak berkenan pada kematian siapa pun," firman Tuhan Allah. "Jadi berbaliklah, dan hiduplah."
+Karena Aku tidak berkenan pada kematian siapa pun," firman Tuhan Tuhan. "Jadi berbaliklah, dan hiduplah."

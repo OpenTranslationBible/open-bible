@@ -36,7 +36,7 @@ Aku berkata kepada mereka, "Sebisa mungkin, kami telah menebus saudara-saudara Y
 
 ## Nehemia 5:9
 
-Jadi aku melanjutkan, "Apa yang kalian lakukan tidak benar. Haruskah kalian tidak berjalan dalam takut akan Allah kita untuk menghindari celaan dari musuh-musuh bangsa lain?
+Jadi aku melanjutkan, "Apa yang kalian lakukan tidak benar. Haruskah kalian tidak berjalan dalam takut akan Tuhan kita untuk menghindari celaan dari musuh-musuh bangsa lain?
 
 ## Nehemia 5:10
 
@@ -52,7 +52,7 @@ Mereka menjawab, "Kami akan mengembalikannya dan tidak akan menuntut apa pun lag
 
 ## Nehemia 5:13
 
-Aku juga mengguncang lipatan jubahku dan menyatakan, "Dengan cara ini semoga Allah mengguncang dari rumah dan harta benda mereka siapa pun yang tidak menepati janji ini. Jadi semoga orang seperti itu diguncang dan dikosongkan!" Seluruh jemaat berkata, "Amin," dan memuji Tuhan. Dan orang-orang melakukan seperti yang telah mereka janjikan.
+Aku juga mengguncang lipatan jubahku dan menyatakan, "Dengan cara ini semoga Tuhan mengguncang dari rumah dan harta benda mereka siapa pun yang tidak menepati janji ini. Jadi semoga orang seperti itu diguncang dan dikosongkan!" Seluruh jemaat berkata, "Amin," dan memuji Tuhan. Dan orang-orang melakukan seperti yang telah mereka janjikan.
 
 ## Nehemia 5:14
 
@@ -60,7 +60,7 @@ Selain itu, sejak hari aku diangkat menjadi gubernur mereka di tanah Yehuda, dar
 
 ## Nehemia 5:15
 
-Tetapi gubernur-gubernur sebelumnya yang ada sebelum aku membebankan beban berat pada orang-orang dan mengambil dari mereka empat puluh syikal perak selain roti dan anggur. Bahkan pelayan-pelayan mereka memerintah atas orang-orang. Tetapi aku tidak melakukannya karena hormatku kepada Allah.
+Tetapi gubernur-gubernur sebelumnya yang ada sebelum aku membebankan beban berat pada orang-orang dan mengambil dari mereka empat puluh syikal perak selain roti dan anggur. Bahkan pelayan-pelayan mereka memerintah atas orang-orang. Tetapi aku tidak melakukannya karena hormatku kepada Tuhan.
 
 ## Nehemia 5:16
 
@@ -76,4 +76,4 @@ Setiap hari, satu lembu, enam domba pilihan, dan beberapa unggas disiapkan untuk
 
 ## Nehemia 5:19
 
-Ingatlah aku dengan baik, ya Allahku, untuk semua yang telah aku lakukan bagi orang-orang ini.
+Ingatlah aku dengan baik, ya Tuhanku, untuk semua yang telah aku lakukan bagi orang-orang ini.

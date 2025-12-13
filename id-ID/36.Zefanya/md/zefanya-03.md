@@ -10,7 +10,7 @@
 > Dia tidak mendengarkan suara,  
 > Dia tidak menerima teguran.  
 > Dia tidak menaruh kepercayaannya kepada Tuhan,  
-> Dia tidak mendekat kepada Allahnya.
+> Dia tidak mendekat kepada Tuhannya.
 
 ## Zefanya 3:3
 
@@ -123,7 +123,7 @@
 
 ## Zefanya 3:17
 
-> Tuhan Allahmu ada di tengah-tengahmu,  
+> Tuhan Tuhanmu ada di tengah-tengahmu,  
 > Seorang pejuang perkasa yang menyelamatkan.  
 > Dia akan bersukacita atasmu dengan kegembiraan,  
 > Dia akan diam dalam kasih-Nya,  

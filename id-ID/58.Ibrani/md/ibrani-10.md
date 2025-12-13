@@ -31,7 +31,7 @@ dengan korban bakaran dan persembahan penghapus dosa Engkau tidak berkenan.
 
 > Lalu Aku berkata, 'Lihatlah, Aku datang
 > — seperti yang tertulis tentang Aku dalam gulungan kitab
-> — untuk melakukan kehendak-Mu, ya Allah.'"
+> — untuk melakukan kehendak-Mu, ya Tuhan.'"
 
 ## Ibrani 10:8
 
@@ -51,7 +51,7 @@ Hari demi hari setiap imam berdiri dan melaksanakan tugas agamanya; berulang kal
 
 ## Ibrani 10:12
 
-Tetapi imam ini, setelah mempersembahkan satu pengorbanan untuk dosa sepanjang masa, duduk di sebelah kanan Allah,
+Tetapi imam ini, setelah mempersembahkan satu pengorbanan untuk dosa sepanjang masa, duduk di sebelah kanan Tuhan,
 
 ## Ibrani 10:13
 
@@ -93,11 +93,11 @@ melalui jalan baru dan hidup yang dibukakan bagi kita melalui tabir, yaitu dagin
 
 ## Ibrani 10:21
 
-dan kita memiliki imam besar yang agung atas rumah Allah,
+dan kita memiliki imam besar yang agung atas rumah Tuhan,
 
 ## Ibrani 10:22
 
-marilah kita mendekat kepada Allah dengan hati yang tulus dan dengan keyakinan penuh iman, setelah hati kita dipercik bersih dari hati nurani yang jahat dan tubuh kita dibasuh dengan air murni.
+marilah kita mendekat kepada Tuhan dengan hati yang tulus dan dengan keyakinan penuh iman, setelah hati kita dipercik bersih dari hati nurani yang jahat dan tubuh kita dibasuh dengan air murni.
 
 ## Ibrani 10:23
 
@@ -125,7 +125,7 @@ Siapa pun yang mengabaikan hukum Musa mati tanpa belas kasihan atas kesaksian du
 
 ## Ibrani 10:29
 
-Betapa lebih beratnya hukuman yang menurutmu layak diterima seseorang yang telah menginjak-injak Anak Allah, menganggap darah perjanjian yang menguduskannya sebagai sesuatu yang tidak suci, dan menghina Roh kasih karunia?
+Betapa lebih beratnya hukuman yang menurutmu layak diterima seseorang yang telah menginjak-injak Anak Tuhan, menganggap darah perjanjian yang menguduskannya sebagai sesuatu yang tidak suci, dan menghina Roh kasih karunia?
 
 ## Ibrani 10:30
 
@@ -133,7 +133,7 @@ Karena kita mengetahui Dia yang berkata, "Pembalasan adalah milik-Ku; Aku akan m
 
 ## Ibrani 10:31
 
-Adalah hal yang mengerikan dan menakutkan untuk jatuh ke tangan Allah yang hidup.
+Adalah hal yang mengerikan dan menakutkan untuk jatuh ke tangan Tuhan yang hidup.
 
 ## Ibrani 10:32
 
@@ -153,7 +153,7 @@ Oleh karena itu, jangan buang kepercayaanmu, yang akan diberi ganjaran yang kaya
 
 ## Ibrani 10:36
 
-Karena kamu perlu bertahan agar ketika kamu telah melakukan kehendak Allah, kamu dapat menerima apa yang dijanjikan-Nya.
+Karena kamu perlu bertahan agar ketika kamu telah melakukan kehendak Tuhan, kamu dapat menerima apa yang dijanjikan-Nya.
 
 ## Ibrani 10:37
 

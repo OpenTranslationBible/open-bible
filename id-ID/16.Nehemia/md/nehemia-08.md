@@ -24,7 +24,7 @@ Ezra membuka kitab itu di hadapan semua orang, karena ia berada di atas mereka; 
 
 ## Nehemia 8:6
 
-Ezra memuji Tuhan, Allah yang besar, dan semua orang menjawab, "Amin, Amin!" sambil mengangkat tangan mereka. Kemudian mereka menundukkan kepala dan menyembah Tuhan dengan wajah ke tanah.
+Ezra memuji Tuhan, Tuhan yang besar, dan semua orang menjawab, "Amin, Amin!" sambil mengangkat tangan mereka. Kemudian mereka menundukkan kepala dan menyembah Tuhan dengan wajah ke tanah.
 
 ## Nehemia 8:7
 
@@ -32,13 +32,13 @@ Orang-orang Lewi—Yesua, Bani, Serebya, Yamin, Akub, Syabetai, Hodia, Maaseya, 
 
 ## Nehemia 8:8
 
-Mereka membacakan dari Kitab Hukum Allah, menjelaskannya dan memberikan pengertian sehingga orang-orang memahami apa yang dibaca.
+Mereka membacakan dari Kitab Hukum Tuhan, menjelaskannya dan memberikan pengertian sehingga orang-orang memahami apa yang dibaca.
 
 ---
 
 ## Nehemia 8:9
 
-Kemudian Nehemia, gubernur itu, Ezra, imam dan ahli kitab itu, dan orang-orang Lewi yang mengajar orang-orang berkata kepada mereka semua, "Hari ini adalah kudus bagi Tuhan Allahmu. Jangan berduka atau menangis." Karena semua orang menangis ketika mereka mendengar kata-kata Hukum itu.
+Kemudian Nehemia, gubernur itu, Ezra, imam dan ahli kitab itu, dan orang-orang Lewi yang mengajar orang-orang berkata kepada mereka semua, "Hari ini adalah kudus bagi Tuhan Tuhanmu. Jangan berduka atau menangis." Karena semua orang menangis ketika mereka mendengar kata-kata Hukum itu.
 
 ## Nehemia 8:10
 
@@ -68,7 +68,7 @@ Dan mereka harus menyampaikan pesan ini dan menyebarkannya di seluruh kota merek
 
 ## Nehemia 8:16
 
-Maka orang-orang pergi dan membawa kembali ranting-ranting dan membangun tempat penampungan sementara di atap rumah mereka, di halaman mereka, di pelataran rumah Allah, dan di lapangan di dekat Pintu Gerbang Air dan yang di dekat Pintu Gerbang Efraim.
+Maka orang-orang pergi dan membawa kembali ranting-ranting dan membangun tempat penampungan sementara di atap rumah mereka, di halaman mereka, di pelataran rumah Tuhan, dan di lapangan di dekat Pintu Gerbang Air dan yang di dekat Pintu Gerbang Efraim.
 
 ## Nehemia 8:17
 
@@ -76,4 +76,4 @@ Seluruh jemaah yang telah kembali dari pembuangan membuat tempat penampungan sem
 
 ## Nehemia 8:18
 
-Hari demi hari, dari hari pertama hingga hari terakhir, Ezra membacakan dari Kitab Hukum Allah. Mereka merayakan perayaan itu selama tujuh hari, dan pada hari kedelapan, sesuai dengan ketetapan, ada pertemuan khidmat.
+Hari demi hari, dari hari pertama hingga hari terakhir, Ezra membacakan dari Kitab Hukum Tuhan. Mereka merayakan perayaan itu selama tujuh hari, dan pada hari kedelapan, sesuai dengan ketetapan, ada pertemuan khidmat.

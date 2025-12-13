@@ -4,12 +4,12 @@
 
 ## Mazmur 22:1
 
-> Allahku, Allahku, mengapa Engkau meninggalkan aku?  
+> Tuhanku, Tuhanku, mengapa Engkau meninggalkan aku?  
 > Jauh dari pertolonganku adalah kata-kata keluhanku.
 
 ## Mazmur 22:2
 
-> Allahku, aku berseru pada siang hari, namun Engkau tidak menjawab;  
+> Tuhanku, aku berseru pada siang hari, namun Engkau tidak menjawab;  
 > Dan pada malam hari, tetapi aku tidak menemukan ketenangan.
 
 ---
@@ -56,7 +56,7 @@
 ## Mazmur 22:10
 
 > Sejak lahir, aku dipercayakan kepada-Mu;  
-> Engkau telah menjadi Allahku sejak rahim ibuku.
+> Engkau telah menjadi Tuhanku sejak rahim ibuku.
 
 ---
 

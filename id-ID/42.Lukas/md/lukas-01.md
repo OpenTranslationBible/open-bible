@@ -24,7 +24,7 @@ Pada zaman Herodes, raja Yudea, ada seorang imam bernama Zakharia, dari rombonga
 
 ## Lukas 1:6
 
-Keduanya benar di hadapan Allah, hidup menurut semua perintah dan ketetapan Tuhan dengan tidak bercacat.
+Keduanya benar di hadapan Tuhan, hidup menurut semua perintah dan ketetapan Tuhan dengan tidak bercacat.
 
 ## Lukas 1:7
 
@@ -34,7 +34,7 @@ Tetapi mereka tidak mempunyai anak, karena Elisabet mandul, dan keduanya telah l
 
 ## Lukas 1:8
 
-Suatu kali, ketika ia melaksanakan tugas keimaman di hadapan Allah menurut giliran rombongannya,
+Suatu kali, ketika ia melaksanakan tugas keimaman di hadapan Tuhan menurut giliran rombongannya,
 
 ## Lukas 1:9
 
@@ -66,7 +66,7 @@ Karena ia akan menjadi besar di hadapan Tuhan. Ia tidak akan minum anggur atau m
 
 ## Lukas 1:16
 
-Ia akan membuat banyak orang Israel berbalik kepada Tuhan, Allah mereka.
+Ia akan membuat banyak orang Israel berbalik kepada Tuhan, Tuhan mereka.
 
 ## Lukas 1:17
 
@@ -80,7 +80,7 @@ Zakharia berkata kepada malaikat itu, “Bagaimana aku dapat yakin akan hal ini?
 
 ## Lukas 1:19
 
-Malaikat itu menjawab, “Akulah Gabriel, yang berdiri di hadapan Allah, dan aku telah diutus untuk berbicara kepadamu dan menyampaikan kabar baik ini kepadamu.
+Malaikat itu menjawab, “Akulah Gabriel, yang berdiri di hadapan Tuhan, dan aku telah diutus untuk berbicara kepadamu dan menyampaikan kabar baik ini kepadamu.
 
 ## Lukas 1:20
 
@@ -110,7 +110,7 @@ Beberapa waktu kemudian, istrinya Elisabet mengandung, dan ia menyembunyikan dir
 
 ## Lukas 1:26
 
-Pada bulan yang keenam, Allah mengutus malaikat Gabriel ke sebuah kota di Galilea bernama Nazaret,
+Pada bulan yang keenam, Tuhan mengutus malaikat Gabriel ke sebuah kota di Galilea bernama Nazaret,
 
 ## Lukas 1:27
 
@@ -126,7 +126,7 @@ Tetapi Maria sangat terkejut mendengar perkataan itu dan bertanya-tanya apa arti
 
 ## Lukas 1:30
 
-Malaikat itu berkata kepadanya, “Jangan takut, Maria; engkau telah mendapat kasih karunia di hadapan Allah.
+Malaikat itu berkata kepadanya, “Jangan takut, Maria; engkau telah mendapat kasih karunia di hadapan Tuhan.
 
 ## Lukas 1:31
 
@@ -134,7 +134,7 @@ Engkau akan mengandung dan melahirkan seorang anak laki-laki, dan engkau harus m
 
 ## Lukas 1:32
 
-Ia akan menjadi besar dan akan disebut Anak Allah Yang Mahatinggi. Tuhan Allah akan memberikan kepada-Nya takhta Daud, nenek moyang-Nya,
+Ia akan menjadi besar dan akan disebut Anak Tuhan Yang Mahatinggi. Tuhan Tuhan akan memberikan kepada-Nya takhta Daud, nenek moyang-Nya,
 
 ## Lukas 1:33
 
@@ -146,7 +146,7 @@ dan Ia akan memerintah atas keturunan Yakub selama-lamanya; kerajaan-Nya tidak a
 
 ## Lukas 1:35
 
-Malaikat itu menjawab, “Roh Kudus akan turun atasmu, dan kuasa Allah Yang Mahatinggi akan menaungimu. Oleh karena itu, anak yang akan lahir itu akan disebut kudus, Anak Allah.
+Malaikat itu menjawab, “Roh Kudus akan turun atasmu, dan kuasa Tuhan Yang Mahatinggi akan menaungimu. Oleh karena itu, anak yang akan lahir itu akan disebut kudus, Anak Tuhan.
 
 ## Lukas 1:36
 
@@ -154,7 +154,7 @@ Bahkan Elisabet, sanakmu, akan mempunyai anak laki-laki pada masa tuanya, dan di
 
 ## Lukas 1:37
 
-Sebab bagi Allah tidak ada yang mustahil.”
+Sebab bagi Tuhan tidak ada yang mustahil.”
 
 ## Lukas 1:38
 
@@ -198,7 +198,7 @@ Dan Maria berkata, “Jiwaku memuliakan dan mengagungkan Tuhan,
 
 ## Lukas 1:47
 
-dan rohku bersukacita di dalam Allah Juruselamatku,
+dan rohku bersukacita di dalam Tuhan Juruselamatku,
 
 ## Lukas 1:48
 
@@ -270,7 +270,7 @@ Ia meminta sebuah papan tulis, dan dengan mengejutkan semua orang, ia menulis, �
 
 ## Lukas 1:64
 
-Segera mulutnya terbuka dan lidahnya terlepas, dan ia mulai berbicara, memuji Allah.
+Segera mulutnya terbuka dan lidahnya terlepas, dan ia mulai berbicara, memuji Tuhan.
 
 ## Lukas 1:65
 
@@ -288,7 +288,7 @@ Zakharia, ayahnya, dipenuhi dengan Roh Kudus dan bernubuat:
 
 ## Lukas 1:68
 
-> “Terpujilah Tuhan, Allah Israel,
+> “Terpujilah Tuhan, Tuhan Israel,
 > karena Ia telah datang kepada umat-Nya dan membawa penebusan bagi mereka.
 
 ## Lukas 1:69
@@ -325,7 +325,7 @@ Zakharia, ayahnya, dipenuhi dengan Roh Kudus dan bernubuat:
 
 ## Lukas 1:76
 
-> Dan engkau, anakku, akan disebut nabi Allah Yang Mahatinggi;
+> Dan engkau, anakku, akan disebut nabi Tuhan Yang Mahatinggi;
 > karena engkau akan berjalan mendahului Tuhan untuk mempersiapkan jalan bagi-Nya,
 
 ## Lukas 1:77
@@ -335,7 +335,7 @@ Zakharia, ayahnya, dipenuhi dengan Roh Kudus dan bernubuat:
 
 ## Lukas 1:78
 
-> karena kasih sayang Allah kita,
+> karena kasih sayang Tuhan kita,
 > dengan mana fajar dari surga akan mengunjungi kita
 
 ## Lukas 1:79

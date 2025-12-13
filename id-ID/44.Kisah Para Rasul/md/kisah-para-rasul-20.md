@@ -88,7 +88,7 @@ Aku tidak ragu untuk memberitakan apa pun yang bermanfaat bagimu, mengajarimu se
 
 ## Kisah Para Rasul 20:21
 
-Aku bersaksi dengan sungguh-sungguh kepada orang Yahudi dan Yunani tentang pertobatan kepada Allah dan iman kepada Tuhan kita Yesus.
+Aku bersaksi dengan sungguh-sungguh kepada orang Yahudi dan Yunani tentang pertobatan kepada Tuhan dan iman kepada Tuhan kita Yesus.
 
 ---
 
@@ -102,7 +102,7 @@ kecuali bahwa Roh Kudus memperingatkan aku di setiap kota bahwa penjara dan kesu
 
 ## Kisah Para Rasul 20:24
 
-Namun, aku menganggap hidupku tidak berharga bagiku; satu-satunya tujuan adalah menyelesaikan perlombaan dan menyelesaikan pelayanan yang aku terima dari Tuhan Yesus, untuk bersaksi tentang Injil kasih karunia Allah.
+Namun, aku menganggap hidupku tidak berharga bagiku; satu-satunya tujuan adalah menyelesaikan perlombaan dan menyelesaikan pelayanan yang aku terima dari Tuhan Yesus, untuk bersaksi tentang Injil kasih karunia Tuhan.
 
 ---
 
@@ -116,11 +116,11 @@ Oleh karena itu, aku menyatakan kepadamu hari ini bahwa aku bebas dari tanggung 
 
 ## Kisah Para Rasul 20:27
 
-Karena aku tidak ragu untuk memberitakan kepadamu seluruh rencana Allah.
+Karena aku tidak ragu untuk memberitakan kepadamu seluruh rencana Tuhan.
 
 ## Kisah Para Rasul 20:28
 
-Berjaga-jagalah untuk dirimu sendiri dan untuk seluruh kawanan yang atasnya Roh Kudus telah menjadikan kamu penilik. Gembalakanlah gereja Allah, yang Ia beli dengan darah-Nya sendiri.
+Berjaga-jagalah untuk dirimu sendiri dan untuk seluruh kawanan yang atasnya Roh Kudus telah menjadikan kamu penilik. Gembalakanlah gereja Tuhan, yang Ia beli dengan darah-Nya sendiri.
 
 ## Kisah Para Rasul 20:29
 
@@ -138,7 +138,7 @@ Oleh karena itu, berjaga-jagalah! Ingatlah bahwa selama tiga tahun aku tidak per
 
 ## Kisah Para Rasul 20:32
 
-“Sekarang aku menyerahkan kamu kepada Allah dan kepada firman kasih karunia-Nya, yang dapat membangun kamu dan memberi kamu warisan di antara semua orang yang dikuduskan.
+“Sekarang aku menyerahkan kamu kepada Tuhan dan kepada firman kasih karunia-Nya, yang dapat membangun kamu dan memberi kamu warisan di antara semua orang yang dikuduskan.
 
 ## Kisah Para Rasul 20:33
 

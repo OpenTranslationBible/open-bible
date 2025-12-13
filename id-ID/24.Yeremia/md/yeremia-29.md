@@ -14,11 +14,11 @@ Surat itu diserahkan kepada Elasah bin Safan dan Gemarya bin Hilkia, yang dikiri
 
 ## Yeremia 29:4
 
-Beginilah firman Tuhan semesta alam, Allah Israel, kepada semua orang buangan yang telah Kukirim dari Yerusalem ke Babel:
+Beginilah firman Tuhan semesta alam, Tuhan Israel, kepada semua orang buangan yang telah Kukirim dari Yerusalem ke Babel:
 
 ## Yeremia 29:5
 
-“Dirikanlah rumah dan tinggallah di dalamnya; tanamlah kebun dan makanlah hasilnya.
+“Dirikanlah rumah dan tinggTuhan di dalamnya; tanamlah kebun dan makanlah hasilnya.
 
 ## Yeremia 29:6
 
@@ -30,7 +30,7 @@ Usahakanlah kesejahteraan kota ke mana kamu Kubuang, dan berdoalah kepada Tuhan 
 
 ## Yeremia 29:8
 
-Sebab beginilah firman Tuhan semesta alam, Allah Israel: “Janganlah kamu tertipu oleh nabi-nabi dan tukang-tukang ramal yang ada di tengah-tengahmu, dan janganlah kamu mendengarkan mimpi-mimpi yang kamu suruh mereka mimpikan.
+Sebab beginilah firman Tuhan semesta alam, Tuhan Israel: “Janganlah kamu tertipu oleh nabi-nabi dan tukang-tukang ramal yang ada di tengah-tengahmu, dan janganlah kamu mendengarkan mimpi-mimpi yang kamu suruh mereka mimpikan.
 
 ## Yeremia 29:9
 
@@ -82,7 +82,7 @@ Jadi, dengarkanlah firman Tuhan, semua kamu orang buangan yang telah Kukirim dar
 
 ## Yeremia 29:21
 
-Inilah yang dikatakan Tuhan semesta alam, Allah Israel, mengenai Ahab bin Kolaya dan Zedekia bin Maaseya, yang bernubuat palsu kepadamu demi nama-Ku: “Sesungguhnya, Aku akan menyerahkan mereka ke dalam tangan Nebukadnezar raja Babel, dan ia akan membunuh mereka di depan matamu.
+Inilah yang dikatakan Tuhan semesta alam, Tuhan Israel, mengenai Ahab bin Kolaya dan Zedekia bin Maaseya, yang bernubuat palsu kepadamu demi nama-Ku: “Sesungguhnya, Aku akan menyerahkan mereka ke dalam tangan Nebukadnezar raja Babel, dan ia akan membunuh mereka di depan matamu.
 
 ## Yeremia 29:22
 
@@ -98,7 +98,7 @@ Berbicaralah kepada Semaya, orang Nehelam, dengan mengatakan,
 
 ## Yeremia 29:25
 
-Inilah yang dikatakan Tuhan semesta alam, Allah Israel: “Karena kamu telah mengirim surat atas namamu sendiri kepada semua orang di Yerusalem, kepada imam Zefanya bin Maaseya, dan kepada semua imam, dengan mengatakan,
+Inilah yang dikatakan Tuhan semesta alam, Tuhan Israel: “Karena kamu telah mengirim surat atas namamu sendiri kepada semua orang di Yerusalem, kepada imam Zefanya bin Maaseya, dan kepada semua imam, dengan mengatakan,
 
 ## Yeremia 29:26
 
@@ -110,7 +110,7 @@ Jadi mengapa kamu tidak menegur Yeremia dari Anatot, yang berpura-pura menjadi n
 
 ## Yeremia 29:28
 
-Karena ia telah mengirim pesan ini kepada kami di Babel: “Pembuangan ini akan lama; dirikanlah rumah dan tinggallah di dalamnya, dan tanamlah kebun dan makanlah hasilnya.”’”
+Karena ia telah mengirim pesan ini kepada kami di Babel: “Pembuangan ini akan lama; dirikanlah rumah dan tinggTuhan di dalamnya, dan tanamlah kebun dan makanlah hasilnya.”’”
 
 ## Yeremia 29:29
 

@@ -24,7 +24,7 @@ Tetapi Nekho membawa saudaranya Yoahas dan membawanya ke Mesir.
 ## 2 Tawarikh 36:5
 
 Yoyakim berumur dua puluh lima tahun ketika ia menjadi raja, dan ia memerintah selama sebelas tahun di Yerusalem.  
-Dan ia bertindak jahat di mata Tuhan, Allahnya.
+Dan ia bertindak jahat di mata Tuhan, Tuhannya.
 
 ## 2 Tawarikh 36:6
 
@@ -64,13 +64,13 @@ Zedekia, pada usia dua puluh satu tahun, menjadi raja dan memerintah selama sebe
 
 ## 2 Tawarikh 36:12
 
-Ia bertindak jahat di mata Tuhan, Allahnya;  
+Ia bertindak jahat di mata Tuhan, Tuhannya;  
 ia tidak merendahkan diri di hadapan nabi Yeremia, yang berbicara atas nama Tuhan.
 
 ## 2 Tawarikh 36:13
 
-Ia juga menentang Raja Nebukadnezar, yang telah membuatnya bersumpah setia demi Allah.  
-Tetapi ia mengeraskan lehernya dan mengeraskan hatinya terhadap kembali kepada Tuhan, Allah Israel.
+Ia juga menentang Raja Nebukadnezar, yang telah membuatnya bersumpah setia demi Tuhan.  
+Tetapi ia mengeraskan lehernya dan mengeraskan hatinya terhadap kembali kepada Tuhan, Tuhan Israel.
 
 ## 2 Tawarikh 36:14
 
@@ -82,12 +82,12 @@ dan mereka menajiskan rumah Tuhan yang telah Dia kuduskan di Yerusalem.
 
 ## 2 Tawarikh 36:15
 
-Dan Tuhan, Allah nenek moyang mereka, mengirimkan firman kepada mereka berulang kali melalui utusan-utusan-Nya,  
+Dan Tuhan, Tuhan nenek moyang mereka, mengirimkan firman kepada mereka berulang kali melalui utusan-utusan-Nya,  
 karena Dia berbelas kasihan kepada umat-Nya dan tempat kediaman-Nya;
 
 ## 2 Tawarikh 36:16
 
-tetapi mereka terus-menerus mengejek utusan-utusan Allah, menghina firman-Nya, dan mencemooh nabi-nabi-Nya,  
+tetapi mereka terus-menerus mengejek utusan-utusan Tuhan, menghina firman-Nya, dan mencemooh nabi-nabi-Nya,  
 hingga murka Tuhan bangkit melawan umat-Nya, sampai tidak ada obatnya.
 
 ## 2 Tawarikh 36:17
@@ -99,13 +99,13 @@ Dia menyerahkan mereka semua kepadanya.
 
 ## 2 Tawarikh 36:18
 
-Semua barang dari rumah Allah, baik besar maupun kecil, dan harta rumah Tuhan,  
+Semua barang dari rumah Tuhan, baik besar maupun kecil, dan harta rumah Tuhan,  
 dan harta raja dan para pejabatnya,  
 dia membawa semuanya ke Babel.
 
 ## 2 Tawarikh 36:19
 
-Kemudian mereka membakar rumah Allah dan merobohkan tembok Yerusalem,  
+Kemudian mereka membakar rumah Tuhan dan merobohkan tembok Yerusalem,  
 dan membakar semua istananya dengan api, dan merusak semua barang berharga.
 
 ---
@@ -134,6 +134,6 @@ sehingga dia mengirimkan proklamasi ke seluruh kerajaannya, dan juga menuliskann
 
 “Inilah yang dikatakan Koresy, raja Persia:
 
-‘Tuhan, Allah surga, telah memberikan kepadaku semua kerajaan di bumi,  
+‘Tuhan, Tuhan surga, telah memberikan kepadaku semua kerajaan di bumi,  
 dan Dia telah menunjuk aku untuk membangun bagi-Nya sebuah rumah di Yerusalem, yang ada di Yehuda.  
-Siapa pun di antara kamu dari semua umat-Nya, semoga Tuhan, Allahnya, menyertai dia, dan biarkan dia pergi!’”
+Siapa pun di antara kamu dari semua umat-Nya, semoga Tuhan, Tuhannya, menyertai dia, dan biarkan dia pergi!’”

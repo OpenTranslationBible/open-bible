@@ -14,7 +14,7 @@ Dia menjawab, “Tidakkah kamu membaca apa yang dilakukan Daud ketika dia dan te
 
 ## Matius 12:4
 
-Dia masuk ke dalam rumah Allah, dan mereka makan roti persembahan, yang tidak diperbolehkan untuk dimakan olehnya atau teman-temannya, melainkan hanya untuk para imam.
+Dia masuk ke dalam rumah Tuhan, dan mereka makan roti persembahan, yang tidak diperbolehkan untuk dimakan olehnya atau teman-temannya, melainkan hanya untuk para imam.
 
 ## Matius 12:5
 
@@ -122,7 +122,7 @@ Dan jika Aku mengusir setan dengan Beelzebul, dengan siapa anak-anakmu mengusir 
 
 ## Matius 12:28
 
-Tetapi jika Aku mengusir setan dengan Roh Allah, maka sesungguhnya kerajaan Allah telah datang kepadamu.
+Tetapi jika Aku mengusir setan dengan Roh Tuhan, maka sesungguhnya kerajaan Tuhan telah datang kepadamu.
 
 ## Matius 12:29
 

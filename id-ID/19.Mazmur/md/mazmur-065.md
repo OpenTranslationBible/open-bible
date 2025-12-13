@@ -4,7 +4,7 @@
 
 ## Mazmur 65:1
 
-> Akan ada keheningan di hadapan-Mu, dan pujian di Sion, ya Allah,  
+> Akan ada keheningan di hadapan-Mu, dan pujian di Sion, ya Tuhan,  
 > Dan nazar akan dipenuhi kepada-Mu.
 
 ## Mazmur 65:2
@@ -29,7 +29,7 @@
 ## Mazmur 65:5
 
 > Dengan perbuatan-perbuatan ajaib Engkau menjawab kami dengan kebenaran,  
-> Allah keselamatan kami,  
+> Tuhan keselamatan kami,  
 > Engkau yang menjadi harapan semua ujung bumi dan laut yang jauh;
 
 ## Mazmur 65:6
@@ -54,7 +54,7 @@
 
 > Engkau mengunjungi bumi dan membuatnya melimpah;  
 > Engkau sangat memperkayanya;  
-> Aliran Allah penuh dengan air;  
+> Aliran Tuhan penuh dengan air;  
 > Engkau menyiapkan gandum mereka, karena demikianlah Engkau menyiapkan bumi.
 
 ## Mazmur 65:10

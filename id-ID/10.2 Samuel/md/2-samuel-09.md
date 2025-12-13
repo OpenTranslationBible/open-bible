@@ -17,7 +17,7 @@ Dan dia menjawab, "Aku adalah hambamu."
 
 Kemudian raja berkata,  
 "Apakah tidak ada lagi yang tersisa dari keluarga Saul  
-kepada siapa aku dapat menunjukkan kebaikan Allah?"  
+kepada siapa aku dapat menunjukkan kebaikan Tuhan?"  
 Dan Ziba berkata kepada raja,  
 "Masih ada seorang anak laki-laki Yonatan,  
 yang lumpuh di kedua kakinya."

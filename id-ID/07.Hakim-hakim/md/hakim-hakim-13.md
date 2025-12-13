@@ -24,19 +24,19 @@ Karena engkau akan mengandung dan melahirkan seorang anak laki-laki. Tidak ada p
 
 ## Hakim-Hakim 13:6
 
-Perempuan itu pergi kepada suaminya dan berkata, “Seorang abdi Allah datang kepadaku; penampilannya seperti malaikat Allah, sangat mengagumkan. Aku tidak bertanya dari mana dia berasal, dan dia pun tidak memberitahukan namanya kepadaku.
+Perempuan itu pergi kepada suaminya dan berkata, “Seorang abdi Tuhan datang kepadaku; penampilannya seperti malaikat Tuhan, sangat mengagumkan. Aku tidak bertanya dari mana dia berasal, dan dia pun tidak memberitahukan namanya kepadaku.
 
 ## Hakim-Hakim 13:7
 
-Dia berkata kepadaku, ‘Engkau akan mengandung dan melahirkan seorang anak laki-laki. Sekarang, jangan minum anggur atau minuman keras, dan jangan makan sesuatu yang najis, karena anak itu akan menjadi seorang Nazir kepada Allah sejak dalam kandungan sampai hari kematiannya.’”
+Dia berkata kepadaku, ‘Engkau akan mengandung dan melahirkan seorang anak laki-laki. Sekarang, jangan minum anggur atau minuman keras, dan jangan makan sesuatu yang najis, karena anak itu akan menjadi seorang Nazir kepada Tuhan sejak dalam kandungan sampai hari kematiannya.’”
 
 ## Hakim-Hakim 13:8
 
-Manoah berdoa kepada Tuhan, “Tolong, Tuhan, biarkan abdi Allah yang Engkau utus datang lagi untuk mengajar kami bagaimana membesarkan anak yang akan lahir ini.”
+Manoah berdoa kepada Tuhan, “Tolong, Tuhan, biarkan abdi Tuhan yang Engkau utus datang lagi untuk mengajar kami bagaimana membesarkan anak yang akan lahir ini.”
 
 ## Hakim-Hakim 13:9
 
-Allah mendengarkan Manoah, dan malaikat Allah datang lagi kepada perempuan itu saat dia berada di ladang, tetapi suaminya Manoah tidak bersamanya.
+Tuhan mendengarkan Manoah, dan malaikat Tuhan datang lagi kepada perempuan itu saat dia berada di ladang, tetapi suaminya Manoah tidak bersamanya.
 
 ## Hakim-Hakim 13:10
 
@@ -88,7 +88,7 @@ Ketika malaikat Tuhan tidak menampakkan diri lagi kepada Manoah dan istrinya, Ma
 
 ## Hakim-Hakim 13:22
 
-Manoah berkata kepada istrinya, “Kita pasti akan mati, karena kita telah melihat Allah!”
+Manoah berkata kepada istrinya, “Kita pasti akan mati, karena kita telah melihat Tuhan!”
 
 ## Hakim-Hakim 13:23
 

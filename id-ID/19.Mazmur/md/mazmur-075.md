@@ -4,7 +4,7 @@
 
 ## Mazmur 75:1
 
-> Kami bersyukur kepada-Mu, ya Allah, kami bersyukur,  
+> Kami bersyukur kepada-Mu, ya Tuhan, kami bersyukur,  
 > Karena nama-Mu dekat;  
 > Orang-orang menceritakan perbuatan-perbuatan-Mu yang ajaib.
 
@@ -41,7 +41,7 @@
 
 ## Mazmur 75:7
 
-> Tetapi Allah adalah Hakim;  
+> Tetapi Tuhan adalah Hakim;  
 > Dia merendahkan yang satu dan meninggikan yang lain.
 
 ## Mazmur 75:8
@@ -55,7 +55,7 @@
 ## Mazmur 75:9
 
 > Namun aku akan memproklamasikannya selamanya;  
-> Aku akan menyanyikan pujian kepada Allah Yakub.
+> Aku akan menyanyikan pujian kepada Tuhan Yakub.
 
 ## Mazmur 75:10
 

@@ -30,7 +30,7 @@ Ahinoam dari Yizreel dan Abigail, janda Nabal orang Karmel.
 
 Daud sangat tertekan karena orang-orang berbicara tentang merajam dia,  
 karena mereka semua merasa pahit hati, masing-masing karena anak-anak laki-laki dan anak-anak perempuan mereka.  
-Tetapi Daud mendapatkan kekuatan dalam Tuhan, Allahnya.
+Tetapi Daud mendapatkan kekuatan dalam Tuhan, Tuhannya.
 
 ---
 
@@ -85,7 +85,7 @@ dan kami membakar Ziklag dengan api."
 ## 1 Samuel 30:15
 
 Kemudian Daud berkata kepadanya, "Maukah engkau memimpin aku kepada gerombolan ini?"  
-Dan ia berkata, "Bersumpahlah kepadaku demi Allah bahwa engkau tidak akan membunuhku atau menyerahkan aku kepada tuanku,  
+Dan ia berkata, "Bersumpahlah kepadaku demi Tuhan bahwa engkau tidak akan membunuhku atau menyerahkan aku kepada tuanku,  
 dan aku akan memimpin engkau kepada gerombolan ini."
 
 ---

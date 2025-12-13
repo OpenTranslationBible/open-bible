@@ -32,7 +32,7 @@ Jumlah mereka sekitar dua belas orang.
 
 ## Kisah Para Rasul 19:8
 
-Paulus masuk ke dalam sinagoga dan berbicara dengan berani selama tiga bulan, terlibat dalam diskusi dan membujuk mereka mengenai kerajaan Allah.
+Paulus masuk ke dalam sinagoga dan berbicara dengan berani selama tiga bulan, terlibat dalam diskusi dan membujuk mereka mengenai kerajaan Tuhan.
 
 ## Kisah Para Rasul 19:9
 
@@ -46,7 +46,7 @@ Hal ini berlangsung selama dua tahun, sehingga semua penduduk Asia, baik Yahudi 
 
 ## Kisah Para Rasul 19:11
 
-Allah melakukan mukjizat-mukjizat luar biasa melalui Paulus,
+Tuhan melakukan mukjizat-mukjizat luar biasa melalui Paulus,
 
 ## Kisah Para Rasul 19:12
 

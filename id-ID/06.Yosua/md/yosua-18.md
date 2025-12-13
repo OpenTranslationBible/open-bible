@@ -12,7 +12,7 @@ Namun, masih ada tujuh suku di antara orang Israel yang belum menerima milik pus
 
 ## Yosua 18:3
 
-Yosua berkata kepada orang Israel, "Berapa lama lagi kamu akan menunda sebelum mengambil kepemilikan tanah yang telah diberikan Tuhan, Allah nenek moyangmu, kepadamu?
+Yosua berkata kepada orang Israel, "Berapa lama lagi kamu akan menunda sebelum mengambil kepemilikan tanah yang telah diberikan Tuhan, Tuhan nenek moyangmu, kepadamu?
 
 ## Yosua 18:4
 
@@ -24,7 +24,7 @@ Kamu harus membagi tanah itu menjadi tujuh bagian. Yehuda harus tetap di wilayah
 
 ## Yosua 18:6
 
-Setelah kamu menulis deskripsi dari tujuh bagian tanah itu, bawalah ke sini kepadaku, dan aku akan membuang undi untukmu di hadapan Tuhan Allah kita.
+Setelah kamu menulis deskripsi dari tujuh bagian tanah itu, bawalah ke sini kepadaku, dan aku akan membuang undi untukmu di hadapan Tuhan Tuhan kita.
 
 ## Yosua 18:7
 

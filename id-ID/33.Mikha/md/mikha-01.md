@@ -8,7 +8,7 @@ Firman Tuhan yang datang kepada Mikha dari Moresyet pada zaman Yotam, Ahas, dan 
 
 > Dengarlah, hai semua bangsa;  
 > Perhatikanlah, hai bumi dan segala isinya,  
-> Dan biarlah Tuhan Allah bersaksi melawan kamu,  
+> Dan biarlah Tuhan Tuhan bersaksi melawan kamu,  
 > Tuhan dari bait-Nya yang kudus.
 
 ## Mikha 1:3

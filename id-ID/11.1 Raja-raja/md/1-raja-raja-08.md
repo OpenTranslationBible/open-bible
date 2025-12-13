@@ -89,7 +89,7 @@ sementara seluruh jemaat Israel berdiri.
 ## 1 Raja-raja 8:15
 
 Dia berkata,  
-“Diberkatilah Tuhan, Allah Israel,  
+“Diberkatilah Tuhan, Tuhan Israel,  
 yang berbicara dengan mulut-Nya kepada ayahku Daud,  
 dan telah memenuhi itu dengan tangan-Nya, dengan berkata,
 
@@ -103,7 +103,7 @@ tetapi Aku memilih Daud untuk memimpin umat-Ku Israel.’
 ## 1 Raja-raja 8:17
 
 Sekarang dalam hati ayahku Daud  
-untuk membangun sebuah rumah bagi nama Tuhan, Allah Israel.
+untuk membangun sebuah rumah bagi nama Tuhan, Tuhan Israel.
 
 ## 1 Raja-raja 8:18
 
@@ -121,7 +121,7 @@ akan membangun rumah itu bagi nama-Ku.’
 Sekarang Tuhan telah memenuhi firman-Nya yang Dia ucapkan,  
 karena aku telah bangkit menggantikan ayahku Daud dan duduk di takhta Israel,  
 seperti yang dijanjikan Tuhan,  
-dan aku telah membangun rumah bagi nama Tuhan, Allah Israel.
+dan aku telah membangun rumah bagi nama Tuhan, Tuhan Israel.
 
 ## 1 Raja-raja 8:21
 
@@ -140,8 +140,8 @@ dan mengangkat tangannya ke arah langit.
 ## 1 Raja-raja 8:23
 
 Dia berkata,  
-“Ya Tuhan, Allah Israel,  
-tidak ada Allah seperti Engkau di langit di atas atau di bumi di bawah,  
+“Ya Tuhan, Tuhan Israel,  
+tidak ada Tuhan seperti Engkau di langit di atas atau di bumi di bawah,  
 yang memelihara perjanjian dan menunjukkan kesetiaan kepada hamba-hamba-Mu  
 yang berjalan di hadapan-Mu dengan segenap hati mereka,
 
@@ -152,7 +152,7 @@ Engkau telah berbicara dengan mulut-Mu dan telah memenuhinya dengan tangan-Mu, s
 
 ## 1 Raja-raja 8:25
 
-Sekarang, ya Tuhan, Allah Israel,  
+Sekarang, ya Tuhan, Tuhan Israel,  
 peliharalah dengan hamba-Mu Daud ayahku apa yang Engkau janjikan kepadanya, dengan berkata,  
 ‘Engkau tidak akan kekurangan seorang laki-laki untuk duduk di takhta Israel,  
 jika hanya anak-anakmu berhati-hati tentang jalan mereka,  
@@ -160,7 +160,7 @@ untuk berjalan di hadapan-Ku seperti engkau telah berjalan.’
 
 ## 1 Raja-raja 8:26
 
-Sekarang, ya Allah Israel,  
+Sekarang, ya Tuhan Israel,  
 biarlah firman-Mu diteguhkan,  
 yang Engkau ucapkan kepada hamba-Mu, ayahku Daud.
 
@@ -168,14 +168,14 @@ yang Engkau ucapkan kepada hamba-Mu, ayahku Daud.
 
 ## 1 Raja-raja 8:27
 
-Tetapi dapatkah Allah benar-benar tinggal di bumi?  
+Tetapi dapatkah Tuhan benar-benar tinggal di bumi?  
 Lihatlah, langit dan langit yang tertinggi tidak dapat menampung Engkau,  
 apalagi rumah ini yang telah aku bangun!
 
 ## 1 Raja-raja 8:28
 
 Namun, mohon perhatikanlah doa hamba-Mu  
-dan permohonannya, ya Tuhan, Allahku,  
+dan permohonannya, ya Tuhan, Tuhanku,  
 untuk mendengarkan seruan dan doa  
 yang hamba-Mu panjatkan di hadapan-Mu hari ini,
 
@@ -344,7 +344,7 @@ untuk mendengarkan mereka setiap kali mereka berseru kepada-Mu.
 
 Karena Engkau telah memisahkan mereka dari semua bangsa di bumi sebagai warisan-Mu,  
 seperti yang Engkau ucapkan melalui Musa hamba-Mu,  
-ketika Engkau membawa nenek moyang kami keluar dari Mesir, ya Tuhan Allah.”
+ketika Engkau membawa nenek moyang kami keluar dari Mesir, ya Tuhan Tuhan.”
 
 ---
 
@@ -367,7 +367,7 @@ yang Dia janjikan melalui Musa hamba-Nya.
 
 ## 1 Raja-raja 8:57
 
-Semoga Tuhan Allah kita menyertai kita, seperti Dia menyertai nenek moyang kita;  
+Semoga Tuhan Tuhan kita menyertai kita, seperti Dia menyertai nenek moyang kita;  
 semoga Dia tidak meninggalkan kita atau meninggalkan kita,
 
 ## 1 Raja-raja 8:58
@@ -380,18 +380,18 @@ yang Dia perintahkan kepada nenek moyang kita.
 ## 1 Raja-raja 8:59
 
 Dan semoga kata-kata ini dariku, yang dengan mana aku telah memohon di hadapan Tuhan,  
-dekat dengan Tuhan Allah kita siang dan malam,  
+dekat dengan Tuhan Tuhan kita siang dan malam,  
 supaya Dia dapat mendukung perkara hamba-Nya  
 dan perkara umat-Nya Israel, sesuai dengan kebutuhan setiap hari,
 
 ## 1 Raja-raja 8:60
 
 supaya semua bangsa di bumi mengetahui  
-bahwa Tuhan adalah Allah; tidak ada yang lain.
+bahwa Tuhan adalah Tuhan; tidak ada yang lain.
 
 ## 1 Raja-raja 8:61
 
-Biarlah hatimu sepenuhnya setia kepada Tuhan Allah kita,  
+Biarlah hatimu sepenuhnya setia kepada Tuhan Tuhan kita,  
 untuk berjalan dalam ketetapan-Nya dan memelihara perintah-perintah-Nya, seperti pada hari ini.”
 
 ---
@@ -419,7 +419,7 @@ untuk menampung korban bakaran, korban sajian, dan lemak dari korban pendamaian.
 Jadi Salomo mengadakan pesta pada waktu itu,  
 dan seluruh Israel bersamanya,  
 sebuah pertemuan besar dari pintu masuk Hamat sampai sungai Mesir,  
-di hadapan Tuhan Allah kita, selama tujuh hari dan tujuh hari lagi, empat belas hari semuanya.
+di hadapan Tuhan Tuhan kita, selama tujuh hari dan tujuh hari lagi, empat belas hari semuanya.
 
 ## 1 Raja-raja 8:66
 

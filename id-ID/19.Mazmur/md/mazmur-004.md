@@ -4,7 +4,7 @@
 
 ## Mazmur 4:1
 
-> Jawablah aku ketika aku berseru, ya Allah kebenaranku!  
+> Jawablah aku ketika aku berseru, ya Tuhan kebenaranku!  
 > Engkau telah memberi kelegaan kepadaku dalam kesesakanku;  
 > Kasihanilah aku dan dengarkanlah doaku.
 

@@ -10,7 +10,7 @@ di mana selama empat puluh hari Ia dicobai oleh iblis. Ia tidak makan apa-apa se
 
 ## Lukas 4:3
 
-Iblis menantang-Nya, "Jika Engkau Anak Allah, suruhlah batu ini menjadi roti."
+Iblis menantang-Nya, "Jika Engkau Anak Tuhan, suruhlah batu ini menjadi roti."
 
 ## Lukas 4:4
 
@@ -32,13 +32,13 @@ Jika Engkau sujud menyembah aku, semuanya akan menjadi milik-Mu."
 
 ## Lukas 4:8
 
-Yesus menjawab, "Ada tertulis: 'Sembahlah Tuhan, Allahmu, dan hanya kepada-Nya sajalah engkau berbakti.'"
+Yesus menjawab, "Ada tertulis: 'Sembahlah Tuhan, Tuhanmu, dan hanya kepada-Nya sajalah engkau berbakti.'"
 
 ---
 
 ## Lukas 4:9
 
-Iblis membawa-Nya ke Yerusalem dan menempatkan-Nya di puncak Bait Allah. "Jika Engkau Anak Allah," katanya, "jatuhkanlah diri-Mu dari sini;
+Iblis membawa-Nya ke Yerusalem dan menempatkan-Nya di puncak Bait Tuhan. "Jika Engkau Anak Tuhan," katanya, "jatuhkanlah diri-Mu dari sini;
 
 ## Lukas 4:10
 
@@ -50,7 +50,7 @@ dan, 'Mereka akan menatang Engkau di atas tangan mereka, supaya kaki-Mu jangan t
 
 ## Lukas 4:12
 
-Yesus menjawab, "Ada tertulis: 'Janganlah engkau mencobai Tuhan, Allahmu.'"
+Yesus menjawab, "Ada tertulis: 'Janganlah engkau mencobai Tuhan, Tuhanmu.'"
 
 ## Lukas 4:13
 
@@ -144,7 +144,7 @@ Di rumah ibadat itu ada seorang yang kerasukan setan, roh jahat. Ia berteriak de
 
 ## Lukas 4:34
 
-"Biarkan kami! Apa urusan-Mu dengan kami, Yesus dari Nazaret? Apakah Engkau datang untuk membinasakan kami? Aku tahu siapa Engkau—Yang Kudus dari Allah!"
+"Biarkan kami! Apa urusan-Mu dengan kami, Yesus dari Nazaret? Apakah Engkau datang untuk membinasakan kami? Aku tahu siapa Engkau—Yang Kudus dari Tuhan!"
 
 ## Lukas 4:35
 
@@ -174,7 +174,7 @@ Saat matahari terbenam, semua orang yang memiliki orang sakit dengan berbagai pe
 
 ## Lukas 4:41
 
-Setan-setan juga keluar dari banyak orang, sambil berteriak, "Engkau adalah Anak Allah!" Tetapi Ia menegur mereka dan tidak mengizinkan mereka berbicara, karena mereka tahu bahwa Ia adalah Mesias.
+Setan-setan juga keluar dari banyak orang, sambil berteriak, "Engkau adalah Anak Tuhan!" Tetapi Ia menegur mereka dan tidak mengizinkan mereka berbicara, karena mereka tahu bahwa Ia adalah Mesias.
 
 ---
 
@@ -184,7 +184,7 @@ Pada waktu fajar, Yesus pergi ke tempat yang sunyi. Orang-orang mencari Dia dan 
 
 ## Lukas 4:43
 
-Tetapi Ia berkata, "Aku harus memberitakan kabar baik tentang kerajaan Allah ke kota-kota lain juga, karena itulah sebabnya Aku diutus."
+Tetapi Ia berkata, "Aku harus memberitakan kabar baik tentang kerajaan Tuhan ke kota-kota lain juga, karena itulah sebabnya Aku diutus."
 
 ## Lukas 4:44
 

@@ -107,7 +107,7 @@ dan semua orang Kereti, semua orang Peleti, dan semua orang Giti—enam ratus or
 ## 2 Samuel 15:19
 
 Kemudian raja berkata kepada Itai orang Giti,  
-"Mengapa engkau juga pergi bersama kami? Kembalilah dan tinggallah bersama raja,  
+"Mengapa engkau juga pergi bersama kami? Kembalilah dan tinggTuhan bersama raja,  
 karena engkau adalah orang asing dan juga seorang buangan dari tempatmu sendiri.
 
 ## 2 Samuel 15:20
@@ -141,14 +141,14 @@ dan semua orang melewati menuju jalan ke padang gurun.
 ## 2 Samuel 15:24
 
 Lihatlah, juga Zadok datang, dan semua orang Lewi bersamanya,  
-membawa tabut perjanjian Allah.  
-Mereka meletakkan tabut Allah, dan Abyatar datang  
+membawa tabut perjanjian Tuhan.  
+Mereka meletakkan tabut Tuhan, dan Abyatar datang  
 sampai semua orang selesai melewati keluar dari kota.
 
 ## 2 Samuel 15:25
 
 Kemudian raja berkata kepada Zadok,  
-"Kembalikan tabut Allah ke kota.  
+"Kembalikan tabut Tuhan ke kota.  
 Jika aku mendapat kasih di mata Tuhan, Dia akan membawaku kembali dan membiarkan aku melihatnya dan tempat kediaman-Nya.
 
 ## 2 Samuel 15:26
@@ -170,7 +170,7 @@ sampai engkau mengirim kabar untuk memberitahuku."
 
 ## 2 Samuel 15:29
 
-Demikianlah, Zadok dan Abyatar mengembalikan Tabut Allah ke Yerusalem dan tetap di sana.
+Demikianlah, Zadok dan Abyatar mengembalikan Tabut Tuhan ke Yerusalem dan tetap di sana.
 
 ---
 
@@ -190,7 +190,7 @@ Dan Daud berkata,
 
 ## 2 Samuel 15:32
 
-Sekarang ketika Daud sampai di puncak di mana Allah disembah,  
+Sekarang ketika Daud sampai di puncak di mana Tuhan disembah,  
 lihatlah, Husai orang Arki datang menemuinya dengan jubahnya terkoyak dan debu di kepalanya.
 
 ## 2 Samuel 15:33

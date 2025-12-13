@@ -26,7 +26,7 @@ Tetapi beberapa ahli Taurat duduk di sana, berpikir dalam hati mereka,
 
 ## Markus 2:7
 
-“Mengapa Ia berbicara demikian? Ia menghujat! Siapa yang dapat mengampuni dosa selain Allah sendiri?”
+“Mengapa Ia berbicara demikian? Ia menghujat! Siapa yang dapat mengampuni dosa selain Tuhan sendiri?”
 
 ## Markus 2:8
 
@@ -46,7 +46,7 @@ Tetapi supaya kamu tahu bahwa Anak Manusia berkuasa di bumi untuk mengampuni dos
 
 ## Markus 2:12
 
-Dan ia bangun, mengangkat tikarnya, dan berjalan keluar di hadapan mereka semua. Ini membuat semua orang takjub, dan mereka memuji Allah, berkata, “Kami belum pernah melihat yang seperti ini!”
+Dan ia bangun, mengangkat tikarnya, dan berjalan keluar di hadapan mereka semua. Ini membuat semua orang takjub, dan mereka memuji Tuhan, berkata, “Kami belum pernah melihat yang seperti ini!”
 
 ---
 
@@ -110,7 +110,7 @@ Ia berkata kepada mereka, “Tidakkah kamu pernah membaca apa yang dilakukan Dau
 
 ## Markus 2:26
 
-bagaimana ia masuk ke rumah Allah pada zaman Abiatar, imam besar, dan memakan roti sajian, yang hanya boleh dimakan oleh imam, dan ia juga memberikannya kepada teman-temannya?”
+bagaimana ia masuk ke rumah Tuhan pada zaman Abiatar, imam besar, dan memakan roti sajian, yang hanya boleh dimakan oleh imam, dan ia juga memberikannya kepada teman-temannya?”
 
 ## Markus 2:27
 

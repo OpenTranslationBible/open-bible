@@ -57,7 +57,7 @@ Tetapi seekor binatang liar di Libanon lewat dan menginjak-injak semak duri itu.
 ## 2 Raja-Raja 14:10
 
 Engkau memang telah mengalahkan Edom, dan hatimu menjadi sombong.  
-Nikmatilah kehormatanmu dan tinggallah di rumahmu.  
+Nikmatilah kehormatanmu dan tinggTuhan di rumahmu.  
 Mengapa engkau harus memprovokasi masalah sehingga engkau jatuh, engkau dan Yehuda bersamamu?”
 
 ## 2 Raja-Raja 14:11
@@ -141,7 +141,7 @@ yang menjerumuskan Israel ke dalam dosa.
 ## 2 Raja-Raja 14:25
 
 Ia memulihkan perbatasan Israel dari pintu masuk Hamat sampai ke Laut Arabah,  
-sesuai dengan firman Tuhan, Allah Israel,  
+sesuai dengan firman Tuhan, Tuhan Israel,  
 yang diucapkan-Nya melalui hamba-Nya Yunus, anak Amitai, nabi,  
 yang berasal dari Gat-Hefer.
 

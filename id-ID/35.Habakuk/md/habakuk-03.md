@@ -13,7 +13,7 @@ Doa permohonan oleh nabi Habakuk, diiringi dengan nada ratapan.
 
 ## Habakuk 3:3
 
-> Allah datang dari Teman,
+> Tuhan datang dari Teman,
 > dan Yang Kudus dari Gunung Paran. Sela
 > Kemuliaan-Nya menutupi langit,
 > dan pujian-Nya memenuhi bumi.
@@ -114,7 +114,7 @@ Doa permohonan oleh nabi Habakuk, diiringi dengan nada ratapan.
 ## Habakuk 3:18
 
 > namun, aku akan bersukacita di dalam Tuhan,
-> aku akan bergembira di dalam Allah Juruselamatku.
+> aku akan bergembira di dalam Tuhan Juruselamatku.
 
 ## Habakuk 3:19
 

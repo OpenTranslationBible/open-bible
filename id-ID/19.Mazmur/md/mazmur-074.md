@@ -4,7 +4,7 @@
 
 ## Mazmur 74:1
 
-> Allah, mengapa Engkau menolak kami selamanya?  
+> Tuhan, mengapa Engkau menolak kami selamanya?  
 > Mengapa murka-Mu berasap terhadap domba-domba padang gembalaan-Mu?
 
 ## Mazmur 74:2
@@ -43,7 +43,7 @@
 ## Mazmur 74:8
 
 > Mereka berkata dalam hati mereka, “Mari kita tundukkan mereka sepenuhnya.”  
-> Mereka telah membakar semua tempat pertemuan Allah di negeri ini.
+> Mereka telah membakar semua tempat pertemuan Tuhan di negeri ini.
 
 ---
 
@@ -55,7 +55,7 @@
 
 ## Mazmur 74:10
 
-> Berapa lama, Allah, musuh akan mengejek Engkau?  
+> Berapa lama, Tuhan, musuh akan mengejek Engkau?  
 > Apakah musuh akan menghina nama-Mu selamanya?
 
 ## Mazmur 74:11
@@ -67,7 +67,7 @@
 
 ## Mazmur 74:12
 
-> Namun Allah adalah Rajaku sejak dahulu,  
+> Namun Tuhan adalah Rajaku sejak dahulu,  
 > Yang melakukan perbuatan keselamatan di tengah bumi.
 
 ---
@@ -121,7 +121,7 @@
 
 ## Mazmur 74:22
 
-> Bangkitlah, Allah, dan bela perkara-Mu sendiri;  
+> Bangkitlah, Tuhan, dan bela perkara-Mu sendiri;  
 > Ingatlah bagaimana orang bodoh mengejek Engkau sepanjang hari.
 
 ## Mazmur 74:23

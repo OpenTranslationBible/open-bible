@@ -13,7 +13,7 @@
 
 ## Mazmur 100:3
 
-> Ketahuilah bahwa Tuhan adalah Allah;  
+> Ketahuilah bahwa Tuhan adalah Tuhan;  
 > Dialah Pencipta kita, dan bukan kita yang menciptakan diri kita sendiri;  
 > Kita adalah milik-Nya, kawanan domba di bawah pemeliharaan-Nya.
 

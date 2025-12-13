@@ -16,7 +16,7 @@ Bildad, orang Suah, menjawab, katanya,
 
 ## Ayub 25:4
 
-> Bagaimana mungkin manusia bisa benar di hadapan Allah?
+> Bagaimana mungkin manusia bisa benar di hadapan Tuhan?
 > Bagaimana mungkin yang lahir dari seorang wanita bisa bersih?
 
 ## Ayub 25:5

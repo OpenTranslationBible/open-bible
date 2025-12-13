@@ -4,7 +4,7 @@
 
 ## Mazmur 88:1
 
-> Tuhan, Allah keselamatanku,  
+> Tuhan, Tuhan keselamatanku,  
 > aku berseru siang dan malam di hadapan-Mu.
 
 ## Mazmur 88:2

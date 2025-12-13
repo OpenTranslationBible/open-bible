@@ -6,7 +6,7 @@ Ucapan mengenai Niniwe. Kitab penglihatan Nahum, orang Elkosh.
 
 ## Nahum 1:2
 
-> Tuhan itu Allah yang cemburu dan pembalas;
+> Tuhan itu Tuhan yang cemburu dan pembalas;
 > Ia penuh dengan amarah
 > dan membalas kepada para lawan-Nya.
 > Tuhan menyimpan murka-Nya untuk musuh-musuh-Nya.

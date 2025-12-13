@@ -84,7 +84,7 @@ Yosua memerintahkan, "Gulingkan batu-batu besar ke mulut gua, dan tempatkan oran
 
 ## Yosua 10:19
 
-Tetapi jangan tinggal di sana; kejar musuh-musuhmu dan serang mereka dari belakang. Jangan biarkan mereka memasuki kota-kota mereka, karena Tuhan Allahmu telah menyerahkan mereka ke dalam tanganmu."
+Tetapi jangan tinggal di sana; kejar musuh-musuhmu dan serang mereka dari belakang. Jangan biarkan mereka memasuki kota-kota mereka, karena Tuhan Tuhanmu telah menyerahkan mereka ke dalam tanganmu."
 
 ## Yosua 10:20
 
@@ -168,7 +168,7 @@ Mereka merebutnya, rajanya, dan desa-desa, dan memukul mereka dengan pedang. Dia
 
 ## Yosua 10:40
 
-Maka Yosua menaklukkan seluruh wilayah itu, termasuk pegunungan, Negeb, kaki bukit barat, dan lereng gunung, bersama dengan semua rajanya. Dia tidak meninggalkan seorang pun yang selamat, menghancurkan semua yang bernafas, seperti yang telah diperintahkan Tuhan, Allah Israel.
+Maka Yosua menaklukkan seluruh wilayah itu, termasuk pegunungan, Negeb, kaki bukit barat, dan lereng gunung, bersama dengan semua rajanya. Dia tidak meninggalkan seorang pun yang selamat, menghancurkan semua yang bernafas, seperti yang telah diperintahkan Tuhan, Tuhan Israel.
 
 ## Yosua 10:41
 
@@ -176,7 +176,7 @@ Yosua menundukkan daerah dari Kadesh Barnea hingga Gaza dan dari seluruh wilayah
 
 ## Yosua 10:42
 
-Semua raja dan tanah mereka ditaklukkan Yosua dalam satu kampanye, karena Tuhan, Allah Israel, berperang untuk Israel.
+Semua raja dan tanah mereka ditaklukkan Yosua dalam satu kampanye, karena Tuhan, Tuhan Israel, berperang untuk Israel.
 
 ## Yosua 10:43
 

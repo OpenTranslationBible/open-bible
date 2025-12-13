@@ -2,19 +2,19 @@
 
 ## 1 Korintus 1:1
 
-Paulus, yang diangkat sebagai rasul Yesus Kristus oleh kehendak Allah, dan Sostenes saudara kita,
+Paulus, yang diangkat sebagai rasul Yesus Kristus oleh kehendak Tuhan, dan Sostenes saudara kita,
 
 ## 1 Korintus 1:2
 
-Kepada jemaat Allah yang ada di Korintus, kepada mereka yang telah dikuduskan dalam Kristus Yesus, yang dipanggil menjadi orang-orang kudus, bersama dengan semua orang di segala tempat yang berseru kepada nama Tuhan kita Yesus Kristus, Tuhan mereka dan Tuhan kita:
+Kepada jemaat Tuhan yang ada di Korintus, kepada mereka yang telah dikuduskan dalam Kristus Yesus, yang dipanggil menjadi orang-orang kudus, bersama dengan semua orang di segala tempat yang berseru kepada nama Tuhan kita Yesus Kristus, Tuhan mereka dan Tuhan kita:
 
 ## 1 Korintus 1:3
 
-Semoga kamu menerima kasih karunia dan damai sejahtera dari Allah Bapa kita dan dari Tuhan Yesus Kristus.
+Semoga kamu menerima kasih karunia dan damai sejahtera dari Tuhan Bapa kita dan dari Tuhan Yesus Kristus.
 
 ## 1 Korintus 1:4
 
-Aku senantiasa mengucap syukur kepada Allahku karena kamu, atas kasih karunia Allah yang telah diberikan kepadamu dalam Kristus Yesus,
+Aku senantiasa mengucap syukur kepada Tuhanku karena kamu, atas kasih karunia Tuhan yang telah diberikan kepadamu dalam Kristus Yesus,
 
 ## 1 Korintus 1:5
 
@@ -34,7 +34,7 @@ Yang juga akan meneguhkan kamu sampai akhir, tanpa cacat pada hari Tuhan kita Ye
 
 ## 1 Korintus 1:9
 
-Allah, yang setia, telah memanggil kamu ke dalam persekutuan dengan Anak-Nya, Yesus Kristus Tuhan kita.
+Tuhan, yang setia, telah memanggil kamu ke dalam persekutuan dengan Anak-Nya, Yesus Kristus Tuhan kita.
 
 ## 1 Korintus 1:10
 
@@ -54,7 +54,7 @@ Apakah Kristus terbagi-bagi? Paulus tidak disalibkan untuk kamu, bukan? Atau apa
 
 ## 1 Korintus 1:14
 
-Aku bersyukur kepada Allah bahwa aku tidak membaptis seorang pun dari kamu selain Krispus dan Gayus,
+Aku bersyukur kepada Tuhan bahwa aku tidak membaptis seorang pun dari kamu selain Krispus dan Gayus,
 
 ## 1 Korintus 1:15
 
@@ -70,7 +70,7 @@ Sebab Kristus tidak mengutus aku untuk membaptis, tetapi untuk memberitakan Inji
 
 ## 1 Korintus 1:18
 
-Sebab pesan salib itu bagi mereka yang binasa adalah kebodohan, tetapi bagi kita yang diselamatkan, itu adalah kekuatan Allah.
+Sebab pesan salib itu bagi mereka yang binasa adalah kebodohan, tetapi bagi kita yang diselamatkan, itu adalah kekuatan Tuhan.
 
 ## 1 Korintus 1:19
 
@@ -81,11 +81,11 @@ Karena ada tertulis:
 
 ## 1 Korintus 1:20
 
-Di manakah orang bijak? Di manakah ahli Taurat? Di manakah pendebat zaman ini? Bukankah Allah telah menunjukkan kebijaksanaan dunia ini sebagai kebodohan?
+Di manakah orang bijak? Di manakah ahli Taurat? Di manakah pendebat zaman ini? Bukankah Tuhan telah menunjukkan kebijaksanaan dunia ini sebagai kebodohan?
 
 ## 1 Korintus 1:21
 
-Karena oleh hikmat Allah, dunia tidak mengenal Allah melalui hikmatnya, Allah berkenan menyelamatkan mereka yang percaya melalui kebodohan pemberitaan.
+Karena oleh hikmat Tuhan, dunia tidak mengenal Tuhan melalui hikmatnya, Tuhan berkenan menyelamatkan mereka yang percaya melalui kebodohan pemberitaan.
 
 ## 1 Korintus 1:22
 
@@ -97,11 +97,11 @@ Tetapi kami memberitakan Kristus yang disalibkan, suatu batu sandungan bagi oran
 
 ## 1 Korintus 1:24
 
-Tetapi bagi mereka yang dipanggil, baik orang Yahudi maupun orang Yunani, Kristus adalah kekuatan dan hikmat Allah.
+Tetapi bagi mereka yang dipanggil, baik orang Yahudi maupun orang Yunani, Kristus adalah kekuatan dan hikmat Tuhan.
 
 ## 1 Korintus 1:25
 
-Sebab apa yang tampaknya bodoh dalam Allah lebih bijaksana daripada hikmat manusia, dan apa yang tampaknya lemah dalam Allah lebih kuat daripada kekuatan manusia.
+Sebab apa yang tampaknya bodoh dalam Tuhan lebih bijaksana daripada hikmat manusia, dan apa yang tampaknya lemah dalam Tuhan lebih kuat daripada kekuatan manusia.
 
 ## 1 Korintus 1:26
 
@@ -109,19 +109,19 @@ Sebab pertimbangkanlah panggilanmu, saudara-saudara, bahwa tidak banyak orang bi
 
 ## 1 Korintus 1:27
 
-Tetapi Allah telah memilih hal-hal yang bodoh dari dunia untuk mempermalukan orang-orang bijak, dan Allah telah memilih hal-hal yang lemah dari dunia untuk mempermalukan hal-hal yang kuat,
+Tetapi Tuhan telah memilih hal-hal yang bodoh dari dunia untuk mempermalukan orang-orang bijak, dan Tuhan telah memilih hal-hal yang lemah dari dunia untuk mempermalukan hal-hal yang kuat,
 
 ## 1 Korintus 1:28
 
-Dan hal-hal yang tidak berarti dari dunia dan yang dihina Allah telah memilih, hal-hal yang tidak ada, supaya Ia dapat meniadakan hal-hal yang ada,
+Dan hal-hal yang tidak berarti dari dunia dan yang dihina Tuhan telah memilih, hal-hal yang tidak ada, supaya Ia dapat meniadakan hal-hal yang ada,
 
 ## 1 Korintus 1:29
 
-Supaya tidak ada manusia yang dapat bermegah di hadapan Allah.
+Supaya tidak ada manusia yang dapat bermegah di hadapan Tuhan.
 
 ## 1 Korintus 1:30
 
-Tetapi karena Dialah kamu berada dalam Kristus Yesus, yang menjadi bagi kita hikmat dari Allah, dan kebenaran dan pengudusan dan penebusan,
+Tetapi karena Dialah kamu berada dalam Kristus Yesus, yang menjadi bagi kita hikmat dari Tuhan, dan kebenaran dan pengudusan dan penebusan,
 
 ## 1 Korintus 1:31
 

@@ -18,7 +18,7 @@ Siapa pun yang mengklaim, "Aku telah mengenal Dia," namun tidak menaati perintah
 
 ## 1 Yohanes 2:5
 
-tetapi siapa pun yang mengikuti firman-Nya, di dalam dia kasih Allah benar-benar telah disempurnakan. Dengan ini kita mengerti bahwa kita ada di dalam Dia:
+tetapi siapa pun yang mengikuti firman-Nya, di dalam dia kasih Tuhan benar-benar telah disempurnakan. Dengan ini kita mengerti bahwa kita ada di dalam Dia:
 
 ## 1 Yohanes 2:6
 
@@ -66,7 +66,7 @@ Tetapi orang yang membenci saudaranya berada di dalam kegelapan dan berjalan di 
 > karena kamu mengenal Dia yang telah ada sejak awal.  
 > Aku telah menulis kepadamu, orang-orang muda,  
 > karena kamu kuat,  
-> dan firman Allah tetap ada di dalam kamu,  
+> dan firman Tuhan tetap ada di dalam kamu,  
 > dan kamu telah mengalahkan si jahat.
 
 ## 1 Yohanes 2:15
@@ -79,7 +79,7 @@ Karena semua yang ada di dalam dunia, keinginan daging, keinginan mata, dan keso
 
 ## 1 Yohanes 2:17
 
-Dunia sedang memudar dan juga keinginannya; tetapi orang yang melakukan kehendak Allah akan hidup selamanya.
+Dunia sedang memudar dan juga keinginannya; tetapi orang yang melakukan kehendak Tuhan akan hidup selamanya.
 
 ## 1 Yohanes 2:18
 

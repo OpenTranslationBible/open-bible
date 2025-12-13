@@ -10,7 +10,7 @@ Ada yang percaya bahwa mereka boleh makan segala sesuatu, sementara yang lemah i
 
 ## Roma 14:3
 
-Orang yang makan segala sesuatu jangan merendahkan orang yang tidak makan, dan orang yang tidak makan jangan menghakimi orang yang makan, karena Allah telah menerima mereka.
+Orang yang makan segala sesuatu jangan merendahkan orang yang tidak makan, dan orang yang tidak makan jangan menghakimi orang yang makan, karena Tuhan telah menerima mereka.
 
 ## Roma 14:4
 
@@ -22,7 +22,7 @@ Ada yang menganggap satu hari lebih suci daripada yang lain, sementara yang lain
 
 ## Roma 14:6
 
-Siapa yang menganggap suatu hari istimewa melakukannya untuk Tuhan. Siapa yang makan, makan untuk Tuhan, karena mereka bersyukur kepada Allah; dan siapa yang tidak makan, melakukannya untuk Tuhan dan bersyukur kepada Allah.
+Siapa yang menganggap suatu hari istimewa melakukannya untuk Tuhan. Siapa yang makan, makan untuk Tuhan, karena mereka bersyukur kepada Tuhan; dan siapa yang tidak makan, melakukannya untuk Tuhan dan bersyukur kepada Tuhan.
 
 ## Roma 14:7
 
@@ -38,7 +38,7 @@ Untuk tujuan ini, Kristus mati dan hidup kembali, supaya Ia menjadi Tuhan atas o
 
 ## Roma 14:10
 
-Mengapa kamu menghakimi saudaramu? Atau mengapa kamu merendahkan mereka? Karena kita semua akan berdiri di hadapan takhta pengadilan Allah.
+Mengapa kamu menghakimi saudaramu? Atau mengapa kamu merendahkan mereka? Karena kita semua akan berdiri di hadapan takhta pengadilan Tuhan.
 
 ## Roma 14:11
 
@@ -46,11 +46,11 @@ Seperti ada tertulis:
 
 > “‘Demi Aku hidup,’ kata Tuhan,
 > ‘setiap lutut akan bertelut di hadapan-Ku;
-> setiap lidah akan mengakui Allah.’”
+> setiap lidah akan mengakui Tuhan.’”
 
 ## Roma 14:12
 
-Jadi, masing-masing dari kita akan memberikan pertanggungjawaban pribadi kepada Allah.
+Jadi, masing-masing dari kita akan memberikan pertanggungjawaban pribadi kepada Tuhan.
 
 ## Roma 14:13
 
@@ -70,11 +70,11 @@ Jadi, pastikan bahwa tindakan baikmu tidak disebut salah oleh orang lain.
 
 ## Roma 14:17
 
-Karena kerajaan Allah bukan tentang makan dan minum, tetapi tentang kebenaran, damai sejahtera, dan sukacita dalam Roh Kudus.
+Karena kerajaan Tuhan bukan tentang makan dan minum, tetapi tentang kebenaran, damai sejahtera, dan sukacita dalam Roh Kudus.
 
 ## Roma 14:18
 
-Karena siapa pun yang melayani Kristus dengan cara ini menyenangkan Allah dan mendapat persetujuan manusia.
+Karena siapa pun yang melayani Kristus dengan cara ini menyenangkan Tuhan dan mendapat persetujuan manusia.
 
 ## Roma 14:19
 
@@ -82,7 +82,7 @@ Karena itu, mari kita mengejar apa yang membawa kepada damai sejahtera dan salin
 
 ## Roma 14:20
 
-Jangan membatalkan pekerjaan Allah demi makanan. Semua makanan bersih, tetapi salah bagi seseorang untuk makan apa pun yang menyebabkan orang lain tersandung.
+Jangan membatalkan pekerjaan Tuhan demi makanan. Semua makanan bersih, tetapi salah bagi seseorang untuk makan apa pun yang menyebabkan orang lain tersandung.
 
 ## Roma 14:21
 
@@ -90,7 +90,7 @@ Lebih baik tidak makan daging atau minum anggur atau melakukan apa pun yang akan
 
 ## Roma 14:22
 
-Jadi apa pun yang kamu percayai tentang hal-hal ini, simpanlah antara dirimu dan Allah. Diberkatilah orang yang tidak menghukum dirinya sendiri dengan apa yang ia setujui.
+Jadi apa pun yang kamu percayai tentang hal-hal ini, simpanlah antara dirimu dan Tuhan. Diberkatilah orang yang tidak menghukum dirinya sendiri dengan apa yang ia setujui.
 
 ## Roma 14:23
 

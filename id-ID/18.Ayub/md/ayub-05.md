@@ -41,8 +41,8 @@
 
 ## Ayub 5:8
 
-> "Namun, aku akan mencari Allah,  
-> Dan aku akan memohon kepada Allah,
+> "Namun, aku akan mencari Tuhan,  
+> Dan aku akan memohon kepada Tuhan,
 
 ## Ayub 5:9
 
@@ -88,7 +88,7 @@
 
 ## Ayub 5:17
 
-> "Lihatlah, diberkatilah orang yang dikoreksi Allah,  
+> "Lihatlah, diberkatilah orang yang dikoreksi Tuhan,  
 > Jadi jangan menolak disiplin dari Yang Mahakuasa.
 
 ## Ayub 5:18

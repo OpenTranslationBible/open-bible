@@ -48,7 +48,7 @@ diberkatilah para pelayan ini yang berdiri di hadapanmu terus-menerus dan menden
 
 ## 1 Raja-raja 10:9
 
-Diberkatilah Tuhan, Allahmu,  
+Diberkatilah Tuhan, Tuhanmu,  
 yang berkenan kepadamu untuk menempatkanmu di atas takhta Israel!  
 Karena Tuhan mengasihi Israel untuk selama-lamanya,  
 Dia menjadikanmu raja, untuk melakukan keadilan dan kebenaran.”
@@ -139,7 +139,7 @@ Jadi Raja Salomo menjadi lebih besar dari semua raja di bumi dalam kekayaan dan 
 ## 1 Raja-raja 10:24
 
 Seluruh dunia mencari audiensi dengan Salomo,  
-untuk mendengar kebijaksanaan yang telah ditempatkan Allah di dalam hatinya.
+untuk mendengar kebijaksanaan yang telah ditempatkan Tuhan di dalam hatinya.
 
 ## 1 Raja-raja 10:25
 

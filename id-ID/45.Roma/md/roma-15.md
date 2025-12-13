@@ -18,23 +18,23 @@ Sebab apa pun yang ditulis pada masa lalu ditulis untuk pengajaran kita, supaya 
 
 ## Roma 15:5
 
-Semoga Allah yang memberi ketekunan dan penghiburan mengaruniakan kepada kamu untuk sehati sepikir satu sama lain, sesuai dengan Kristus Yesus,
+Semoga Tuhan yang memberi ketekunan dan penghiburan mengaruniakan kepada kamu untuk sehati sepikir satu sama lain, sesuai dengan Kristus Yesus,
 
 ## Roma 15:6
 
-sehingga dengan satu hati dan satu suara kamu dapat memuliakan Allah dan Bapa Tuhan kita Yesus Kristus.
+sehingga dengan satu hati dan satu suara kamu dapat memuliakan Tuhan dan Bapa Tuhan kita Yesus Kristus.
 
 ## Roma 15:7
 
-Karena itu, terimalah satu sama lain, sama seperti Kristus telah menerima kamu, untuk kemuliaan Allah.
+Karena itu, terimalah satu sama lain, sama seperti Kristus telah menerima kamu, untuk kemuliaan Tuhan.
 
 ## Roma 15:8
 
-Sebab aku berkata bahwa Kristus telah menjadi pelayan orang Yahudi demi kebenaran Allah, untuk meneguhkan janji-janji yang diberikan kepada para leluhur,
+Sebab aku berkata bahwa Kristus telah menjadi pelayan orang Yahudi demi kebenaran Tuhan, untuk meneguhkan janji-janji yang diberikan kepada para leluhur,
 
 ## Roma 15:9
 
-dan supaya bangsa-bangsa lain dapat memuliakan Allah karena rahmat-Nya. Seperti yang tertulis:
+dan supaya bangsa-bangsa lain dapat memuliakan Tuhan karena rahmat-Nya. Seperti yang tertulis:
 
 > “Karena itu aku akan memuji Engkau di antara bangsa-bangsa;
 > aku akan menyanyikan pujian bagi nama-Mu.”
@@ -61,7 +61,7 @@ Lebih jauh lagi, Yesaya menyatakan,
 
 ## Roma 15:13
 
-Semoga Allah sumber pengharapan memenuhi kamu dengan segala sukacita dan damai sejahtera dalam imanmu, supaya kamu berlimpah dalam pengharapan oleh kuasa Roh Kudus.
+Semoga Tuhan sumber pengharapan memenuhi kamu dengan segala sukacita dan damai sejahtera dalam imanmu, supaya kamu berlimpah dalam pengharapan oleh kuasa Roh Kudus.
 
 ## Roma 15:14
 
@@ -69,19 +69,19 @@ Aku sendiri yakin, saudara-saudaraku, bahwa kamu penuh dengan kebaikan, dipenuhi
 
 ## Roma 15:15
 
-Tetapi aku telah menulis kepada kamu dengan cukup berani pada beberapa hal untuk mengingatkan kamu kembali, karena kasih karunia yang diberikan kepadaku oleh Allah,
+Tetapi aku telah menulis kepada kamu dengan cukup berani pada beberapa hal untuk mengingatkan kamu kembali, karena kasih karunia yang diberikan kepadaku oleh Tuhan,
 
 ## Roma 15:16
 
-untuk menjadi pelayan Kristus Yesus bagi bangsa-bangsa lain, melayani sebagai imam Injil Allah, supaya persembahan bangsa-bangsa lain dapat diterima, disucikan oleh Roh Kudus.
+untuk menjadi pelayan Kristus Yesus bagi bangsa-bangsa lain, melayani sebagai imam Injil Tuhan, supaya persembahan bangsa-bangsa lain dapat diterima, disucikan oleh Roh Kudus.
 
 ## Roma 15:17
 
-Karena itu, dalam Kristus Yesus aku menemukan alasan untuk berbangga dalam hal-hal yang berhubungan dengan Allah.
+Karena itu, dalam Kristus Yesus aku menemukan alasan untuk berbangga dalam hal-hal yang berhubungan dengan Tuhan.
 
 ## Roma 15:18
 
-Sebab aku tidak akan berani berbicara tentang apa pun kecuali apa yang telah Kristus lakukan melalui aku dalam memimpin bangsa-bangsa lain untuk taat kepada Allah dengan perkataan dan perbuatan,
+Sebab aku tidak akan berani berbicara tentang apa pun kecuali apa yang telah Kristus lakukan melalui aku dalam memimpin bangsa-bangsa lain untuk taat kepada Tuhan dengan perkataan dan perbuatan,
 
 ## Roma 15:19
 
@@ -132,7 +132,7 @@ Aku yakin bahwa ketika aku datang kepadamu, aku akan tiba dengan berkat penuh da
 
 ## Roma 15:30
 
-Aku memohon kepadamu, saudara-saudara, demi Tuhan kita Yesus Kristus dan demi kasih Roh, untuk bergabung denganku dalam perjuanganku dengan berdoa kepada Allah untukku,
+Aku memohon kepadamu, saudara-saudara, demi Tuhan kita Yesus Kristus dan demi kasih Roh, untuk bergabung denganku dalam perjuanganku dengan berdoa kepada Tuhan untukku,
 
 ## Roma 15:31
 
@@ -140,8 +140,8 @@ supaya aku dapat diselamatkan dari mereka yang tidak taat di Yudea, dan supaya p
 
 ## Roma 15:32
 
-sehingga aku dapat datang kepadamu dengan sukacita oleh kehendak Allah dan disegarkan dalam kebersamaanmu.
+sehingga aku dapat datang kepadamu dengan sukacita oleh kehendak Tuhan dan disegarkan dalam kebersamaanmu.
 
 ## Roma 15:33
 
-Jadi sekarang semoga Allah sumber damai sejahtera menyertai kamu semua. Amin.
+Jadi sekarang semoga Tuhan sumber damai sejahtera menyertai kamu semua. Amin.
