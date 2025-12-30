@@ -1,0 +1,64 @@
+# Daanyeel Cutubka 1
+
+## Daanyeel 1:1
+Sanadkii saddexaad ee boqornimadii Yehooyaasiin boqorka Yahuudah, Nebukadnesar, boqorkii Baabuloon, ayaa yimid Yeruusaalem oo hareereeyey.
+
+## Daanyeel 1:2
+Oo Rabbigu wuxuu gacanta u geliyey Yehooyaasiin boqorkii Yahuudah, isaga iyo qaar ka mid ah alaabtii guriga Eebbe. Wuxuuna keenay dhulka Shincaar, guriga ilaahiisa, oo wuxuu alaabta dhigay khasnadda ilaahiisa.
+
+## Daanyeel 1:3
+Markaasaa boqorku wuxuu amray Ashpenas, madaxa saraakiishiisa, inuu keeno qaar ka mid ah wiilashii Israa'iil, oo ay ku jiraan kuwa qoyska boqortooyada iyo kuwa gobta ah,
+
+## Daanyeel 1:4
+rag dhalinyaro ah oo aan lahayn wax iin ah, qurux badan, xirfad leh xigmadda oo dhan, aqoon leh, si dhakhso ah u fahma, oo u qalma inay ku adeegaan qasriga boqorka. Wuxuu ahaa inuu baraa suugaanta iyo luqadda Kaldaniyiinta.
+
+## Daanyeel 1:5
+Boqorku wuxuu u qoondeeyey qayb maalinle ah oo ka mid ah cuntada boqorka iyo khamriga. Waxay ahayd in la baro muddo saddex sano ah, ka dibna waxay gali lahaayeen adeega boqorka.
+
+## Daanyeel 1:6
+Kuwaas waxaa ka mid ahaa qaar ka mid ah wiilashii Yahuudah: Daanyeel, Xanaanyaah, Miisha'eel, iyo Casaryaah.
+
+## Daanyeel 1:7
+Sarkaalkii madaxa ahaa wuxuu u bixiyey magacyo cusub: Daanyeel, Belteshassar; Xanaanyaah, Shadraakh; Miisha'eel, Meeshaakh; iyo Casaryaah, Cabednego.
+
+## Daanyeel 1:8
+Laakiin Daanyeel wuxuu go'aansaday inuusan is wasakheynin cuntada boqorka ama khamriga, wuxuuna ka codsaday sarkaalkii madaxa ahaa inuusan sidan isku wasakheynin.
+
+## Daanyeel 1:9
+Hadda Eebbe wuxuu Daanyeel ku siiyey raalli ahaansho iyo naxariis indhaha sarkaalkii madaxa ahaa.
+
+## Daanyeel 1:10
+Sarkaalkii wuxuu Daanyeel ku yidhi, “Waxaan ka baqayaa sayidkayga boqorka, oo kuu qoondeeyey cuntadaada iyo cabitaankaaga. Maxaa yeelay, muxuu arki doonaa adiga oo ka sii liita ragga kale ee da'daada ah? Boqorku wuxuu madaxa iga jari lahaa adiga dartaa.”
+
+## Daanyeel 1:11
+Markaasaa Daanyeel la hadlay waardiyihii uu sarkaalkii madaxa ahaa u magacaabay Daanyeel, Xanaanyaah, Miisha'eel, iyo Casaryaah,
+
+## Daanyeel 1:12
+“Fadlan naga tijaabi addoommadaada toban maalmood: na siiya khudaar oo keliya inaan cunno iyo biyo inaan cabno.
+
+## Daanyeel 1:13
+Markaas isbarbar dhig muuqaalkeenna iyo kan dhallinyarada cunaya cuntada boqorka, oo ku dhaqaaq addoommadaada sidaad u aragto.”
+
+## Daanyeel 1:14
+Sidaas daraaddeed wuu oggolaaday oo wuxuu ku tijaabiyey toban maalmood.
+
+## Daanyeel 1:15
+Dhammaadka tobankii maalmood waxay u muuqdeen kuwo caafimaad qaba oo ka sii nafaqaysan dhallinyarada kale ee cunay cuntada boqorka.
+
+## Daanyeel 1:16
+Sidaas daraaddeed waardiyihii wuxuu sii waday inuu ka joojiyo cuntadoodii iyo khamrigoodii, oo wuxuu siiyey khudaar beddelkeed.
+
+## Daanyeel 1:17
+Afartan dhallinyaro ah Eebbe wuxuu siiyey aqoon iyo faham dhammaan noocyada suugaanta iyo barashada; Daanyeelna wuxuu fahmay dhammaan noocyada riyooyinka iyo aragtiyada.
+
+## Daanyeel 1:18
+Dhammaadka wakhtigii uu boqorku u dejiyey inuu ku keeno adeegiisa, sarkaalkii madaxa ahaa wuxuu u soo bandhigay Nebukadnesar.
+
+## Daanyeel 1:19
+Boqorku wuxuu la hadlay iyaga, oo dhammaantood, midna lama helin sida Daanyeel, Xanaanyaah, Miisha'eel, iyo Casaryaah; sidaas daraaddeed waxay galeen adeega boqorka.
+
+## Daanyeel 1:20
+Dhammaan arrimaha xigmadda iyo fahamka ee uu boqorku weydiiyey, wuxuu ka helay toban jeer ka wanaagsan dhammaan saaxiriinta iyo sixiryahannada boqortooyadiisa oo dhan.
+
+## Daanyeel 1:21
+Oo Daanyeel wuxuu halkaas joogay ilaa sannadkii ugu horreeyey ee boqorkii Kuros.
