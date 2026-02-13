@@ -1,0 +1,49 @@
+{
+    "book": "Salmos",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> ¡Alabad al Señor!",
+                "> Alabad a Dios en su santuario;",
+                "> Alabadle en la magnificencia de su firmamento."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Alabadle por sus proezas;",
+                "> Alabadle conforme a la muchedumbre de su grandeza."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Alabadle a son de bocina;",
+                "> Alabadle con salterio y arpa."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Alabadle con pandero y danza;",
+                "> Alabadle con cuerdas y flauta."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Alabadle con címbalos resonantes;",
+                "> Alabadle con címbalos de júbilo."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Todo lo que respira alabe al Señor.",
+                "> ¡Alabad al Señor!"
+            ]
+        }
+    ]
+}

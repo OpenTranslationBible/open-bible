@@ -1,0 +1,82 @@
+{
+    "book": "Salmos",
+    "chapter": 121,
+    "verses": [
+        {
+            "text": [
+                "Cántico de ascenso."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Alzo mis ojos a los montes;",
+                "> ¿De dónde vendrá mi ayuda?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Mi ayuda viene del Señor,",
+                "> Creador del cielo y de la tierra."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> No dejará que tu pie resbale;",
+                "> El que te cuida no dormirá."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> He aquí, el guardián de Israel",
+                "> No dormirá ni dormirá."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> El Señor es tu guardián;",
+                "> El Señor proporciona sombra a tu mano derecha."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Y el sol no te dañará de día,",
+                "> Ni la luna de noche."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> El Señor te protegerá de todo mal;",
+                "> Él preservará tu alma."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> El Señor cuidará tu entrada y salida",
+                "> Ahora y para siempre."
+            ]
+        }
+    ]
+}

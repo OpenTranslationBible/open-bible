@@ -1,0 +1,210 @@
+{
+    "book": "Nombres",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Le Seigneur parla ensuite à Moïse et à Aaron, en disant,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "« Les Israélites camperont autour de la tente de réunion, chacun sous son drapeau, avec les bannières de leurs familles, à une certaine distance."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Du côté est, vers le lever du soleil, seront les divisions du camp de Juda, sous leur drapeau. Le chef du peuple de Juda est Nahshon, fils d'Amminadab."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Sa compagnie d'hommes comptait 74 600."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "À côté d'eux camperont la tribu d'Issacar. Le chef du peuple d'Issacar est Nethanel, fils de Tsuard."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Sa compagnie d'hommes comptait 54 400."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Suivant eux sera la tribu de Zabulon. Le chef du peuple de Zabulon est Eliab, fils de Hélon."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Sa compagnie d'hommes comptait 57 400."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Tous les hommes assignés au camp de Juda, selon leurs divisions, comptent 186 400. Ils partiront les premiers."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Du côté sud seront les divisions du camp de Ruben, sous leur drapeau. Le chef du peuple de Ruben est Elitsur, fils de Shedéur."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Sa compagnie d'hommes comptait 46 500."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "À côté d'eux camperont la tribu de Siméon. Le chef du peuple de Siméon est Shelumiel, fils de Tsurishaddaï."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Sa compagnie d'hommes comptait 59 300."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Suivant eux sera la tribu de Gad. Le chef du peuple de Gad est Eliasaph, fils de Déuel."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Sa compagnie d'hommes comptait 45 650."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Tous les hommes assignés au camp de Ruben, selon leurs divisions, comptent 151 450. Ils partiront en second."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Ensuite, la tente de réunion, avec le camp des Lévites, partira au milieu des camps. Ils partiront dans le même ordre qu'ils campent, chacun à sa place sous son drapeau."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Du côté ouest seront les divisions du camp d'Éphraïm, sous leur drapeau. Le chef du peuple d'Éphraïm est Elishama, fils d'Ammihud."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Sa compagnie d'hommes comptait 40 500."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "À côté d'eux sera la tribu de Manassé. Le chef du peuple de Manassé est Gamliel, fils de Pedahtsur."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Sa compagnie d'hommes comptait 32 200."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Suivant eux sera la tribu de Benjamin. Le chef du peuple de Benjamin est Abidan, fils de Guideoni."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Sa compagnie d'hommes comptait 35 400."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Tous les hommes assignés au camp d'Éphraïm, selon leurs divisions, comptent 108 100. Ils partiront en troisième."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Du côté nord seront les divisions du camp de Dan, sous leur drapeau. Le chef du peuple de Dan est Ahiézer, fils d'Ammishaddaï."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Sa compagnie d'hommes comptait 62 700."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "À côté d'eux camperont la tribu d'Aser. Le chef du peuple d'Aser est Paguiel, fils d'Okran."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Sa compagnie d'hommes comptait 41 500."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Suivant eux sera la tribu de Nephtali. Le chef du peuple de Nephtali est Ahira, fils d'Enan."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Sa compagnie d'hommes comptait 53 400."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Tous les hommes assignés au camp de Dan comptent 157 600. Ils partiront en dernier, sous leurs drapeaux."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Ce sont les Israélites, comptés selon leurs familles. Le nombre total d'hommes dans les camps, par leurs divisions, est de 603 550."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Les Lévites, cependant, n'ont pas été comptés parmi les autres Israélites, comme le Seigneur l'avait commandé à Moïse."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Ainsi, les Israélites firent tout ce que le Seigneur avait commandé à Moïse ; ils campèrent sous leurs drapeaux et partirent, chacun avec sa famille et son clan."
+            ]
+        }
+    ]
+}

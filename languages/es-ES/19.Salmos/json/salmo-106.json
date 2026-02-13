@@ -1,0 +1,408 @@
+{
+    "book": "Salmos",
+    "chapter": 106,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> ¡Alabad al Señor!",
+                "---",
+                "> Dad gracias al Señor, porque Él es bueno;",
+                "> Porque Su misericordia es eterna."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> ¿Quién puede hablar de los poderosos hechos del Señor,",
+                "> O proclamar toda Su alabanza?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> ¡Bienaventurados los que guardan la justicia,",
+                "> Los que practican la rectitud en todo tiempo!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Acuérdate de mí, Señor, en Tu favor hacia Tu pueblo;",
+                "> Visítame con Tu salvación,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Para que yo pueda ver la prosperidad de Tus escogidos,",
+                "> Para que yo pueda compartir la alegría de Tu nación,",
+                "> Para que yo pueda gloriarme en Tu herencia."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Hemos pecado como nuestros antepasados,",
+                "> Nos hemos desviado, hemos actuado impíamente."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Nuestros antepasados en Egipto no comprendieron Tus maravillas;",
+                "> No recordaron Tus abundantes bondades,",
+                "> Sino que se rebelaron junto al mar, en el Mar Rojo."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Sin embargo, Él los salvó por amor de Su nombre,",
+                "> Para dar a conocer Su poder."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Reprendió al Mar Rojo y se secó,",
+                "> Y los condujo por las aguas poderosas, como por el desierto."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Así los salvó de la mano de los que los odiaban,",
+                "> Y los redimió de la mano del enemigo."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Las aguas cubrieron a sus adversarios;",
+                "> No quedó ni uno de ellos."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Entonces confiaron en Sus palabras;",
+                "> Cantaron Su alabanza."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Pronto olvidaron Sus obras;",
+                "> No esperaron Su consejo,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Sino que se volvieron codiciosos en el desierto,",
+                "> Y tentaron a Dios en la soledad."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Y Él les concedió lo que pedían,",
+                "> Pero envió una enfermedad devastadora entre ellos."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Cuando envidiaron a Moisés en el campamento,",
+                "> Y a Aarón, el santo del Señor,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> La tierra se abrió y se tragó a Datán,",
+                "> Y cubrió la asamblea de Abiram."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> Y un fuego se encendió en su compañía;",
+                "> La llama consumió a los malvados."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Hicieron un becerro en Horeb,",
+                "> Y adoraron una imagen de metal fundido."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Así cambiaron su gloria",
+                "> Por la imagen de un buey que come hierba."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Olvidaron a Dios su Salvador,",
+                "> Que había hecho grandes cosas en Egipto,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Milagros en la tierra de Cam,",
+                "> Y obras asombrosas junto al Mar Rojo."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Por tanto, Él dijo que los destruiría,",
+                "> Si no se hubiera interpuesto Moisés, Su escogido, en la brecha delante de Él,",
+                "> Para apartar Su ira de destruirlos."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Entonces despreciaron la tierra deseable;",
+                "> No creyeron en Su promesa,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Sino que murmuraron en sus tiendas;",
+                "> No escucharon la voz del Señor."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Por tanto, Él juró a ellos",
+                "> Que los haría caer en el desierto,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Y que dispersaría a sus descendientes entre las naciones,",
+                "> Y los esparciría por las tierras."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> También siguieron a Baal de Peor,",
+                "> Y comieron sacrificios ofrecidos a los muertos."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Así provocaron Su ira con sus acciones,",
+                "> Y una plaga se desató entre ellos."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Entonces Finees se levantó e intervino,",
+                "> Y la plaga se detuvo."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Y le fue contado por justicia,",
+                "> Para todas las generaciones venideras."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> También le provocaron a ira en las aguas de Meriba,",
+                "> De modo que le fue mal a Moisés por causa de ellos;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Porque desafiaron Su Espíritu,",
+                "> Habló imprudentemente con sus labios."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> No eliminaron a los pueblos,",
+                "> Como el Señor les había mandado,"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Sino que se mezclaron con las naciones",
+                "> Y aprendieron sus costumbres,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Y adoraron sus ídolos,",
+                "> Que se convirtieron en una trampa para ellos."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Pues sacrificaron a sus hijos y a sus hijas a los demonios,"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Y derramaron sangre inocente,",
+                "> La sangre de sus hijos e hijas,",
+                "> Que sacrificaron a los ídolos de Canaán;",
+                "> Y la tierra fue contaminada con la sangre."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Así se contaminaron con sus obras,",
+                "> Y se prostituyeron con sus acciones."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Por tanto, se encendió la ira del Señor contra Su pueblo,",
+                "> Y aborreció Su heredad."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> Y los entregó en manos de las naciones,",
+                "> Y los que los odiaban se enseñorearon de ellos."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> Sus enemigos también los oprimieron,",
+                "> Y fueron sometidos bajo su poder."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> Muchas veces los libró;",
+                "> Pero ellos fueron rebeldes en sus intenciones,",
+                "> Y se hundieron en su culpa."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Sin embargo, Él miró su angustia",
+                "> Cuando oyó su clamor;"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Y se acordó de Su pacto por amor a ellos,",
+                "> Y se arrepintió conforme a la grandeza de Su misericordia."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> También hizo que fueran objeto de compasión",
+                "> Ante todos sus captores."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Sálvanos, Señor nuestro Dios,",
+                "> Y reúnenos de entre las naciones,",
+                "> Para dar gracias a Tu santo nombre",
+                "> Y gloriarnos en Tu alabanza."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Bendito sea el Señor, el Dios de Israel,",
+                "> Desde la eternidad hasta la eternidad.",
+                "> Y todo el pueblo dirá: “Amén.”",
+                "> ¡Alabad al Señor!"
+            ]
+        }
+    ]
+}

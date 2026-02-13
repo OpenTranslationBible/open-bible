@@ -1,0 +1,301 @@
+{
+    "book": "Luke",
+    "chapter": 3,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "In the fifteenth year of the reign of Tiberius Caesar, when Pontius Pilate was governor of Judea, Herod was tetrarch of Galilee, his brother Philip was tetrarch of the region of Iturea and Trachonitis, and Lysanias was tetrarch of Abilene,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "at the time when Annas and Caiaphas were high priests, the word of God came to John, the son of Zechariah, in the wilderness."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He went into all the region around the Jordan, preaching a baptism of repentance for the forgiveness of sins."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "As it is written in the book of the words of Isaiah the prophet:",
+                "> “A voice of one calling out in the wilderness:",
+                "> ‘Prepare the way for the Lord;",
+                "> make straight in the desert a highway for our God."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Every valley shall be lifted up,",
+                "> and every mountain and hill made low.",
+                "> the uneven ground shall become level,",
+                "> and the rugged terrain a plain."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> And all of mankind shall witness the salvation of God.’”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "John said to the crowds coming out to be baptised by him, “You brood of vipers! Who warned you to flee from the wrath to come?"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Produce fruits in keeping with repentance. And do not begin to say to yourselves, ‘We have Abraham as our father.’ For I tell you that God can raise up children for Abraham from these stones."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "The axe is already at the root of the trees, and every tree that does not produce good fruit will be cut down and thrown into the fire.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The crowd asked, “What should we do?”"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "John answered, “Anyone who has two tunics should share with the one who has none, and anyone who has food should do likewise.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Tax collectors also came to be baptised. “Teacher,” they asked, “what should we do?”"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "“Do not collect any more than you are required to,” he told them."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Then some soldiers asked him, “And what should we do?” He replied, “Do not extort money from anyone, nor accuse people falsely—be content with your wages.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "The people were in expectation, and all were wondering in their hearts whether John might possibly be the Christ."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "John answered them all, “I baptise you with water. But one who is mightier than I is coming, the straps of whose sandals I am not worthy to untie. He will baptise you with the Holy Spirit and fire."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "With His winnowing fork in hand, He will thoroughly clear His threshing floor, gathering the wheat into His barn, while the chaff will be burned with unquenchable fire.”"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "And with many other exhortations, John preached the good news to the people."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "But when Herod the tetrarch was rebuked by John because of Herodias, his brother’s wife, and for all the other evil things he had done,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Herod added this to his wrongdoings: he locked John up in prison."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "When all the people were being baptised, Jesus was baptised as well. And as He was praying, heaven was opened,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "and the Holy Spirit descended upon Him in a bodily form resembling a dove. A voice came from heaven, saying, “You are My beloved Son; in You I find delight.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Now Jesus Himself was about thirty years old when He began His ministry. He was, as was supposed, the son of Joseph,",
+                "> whose father was Heli,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> the son of Matthat,",
+                "> whose father was Levi, the son of Melchi,",
+                "> whose father was Jannai, whose father was Joseph,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> whose father was Mattathias, whose father was Amos,",
+                "> whose father was Nahum, whose father was Esli,",
+                "> whose father was Naggai,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> whose father was Maath,",
+                "> whose father was Mattathias, whose father was Semein,",
+                "> whose father was Josech, whose father was Joda,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> whose father was Joanan, whose father was Rhesa,",
+                "> whose father was Zerubbabel, whose father was Shealtiel,",
+                "> whose father was Neri,"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> whose father was Melchi,",
+                "> whose father was Addi, whose father was Cosam,",
+                "> whose father was Elmadam, whose father was Er,"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> whose father was Joshua, whose father was Eliezer,",
+                "> whose father was Jorim, whose father was Matthat,",
+                "> whose father was Levi,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> whose father was Simeon,",
+                "> whose father was Judah, whose father was Joseph,",
+                "> whose father was Jonam, whose father was Eliakim,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> whose father was Melea, whose father was Menna,",
+                "> whose father was Mattatha, whose father was Nathan,",
+                "> whose father was David,"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> whose father was Jesse,",
+                "> whose father was Obed, whose father was Boaz,",
+                "> whose father was Salmon, whose father was Nahshon,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> whose father was Amminadab, whose father was Admin, whose father was Ram,",
+                "> whose father was Hezron, whose father was Perez,",
+                "> whose father was Judah,"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> whose father was Jacob,",
+                "> whose father was Isaac, whose father was Abraham,",
+                "> whose father was Terah, whose father was Nahor,"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> whose father was Serug, whose father was Reu,",
+                "> whose father was Peleg, whose father was Eber,",
+                "> whose father was Shelah,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> whose father was Cainan,",
+                "> whose father was Arphaxad, whose father was Shem,",
+                "> whose father was Noah, whose father was Lamech,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> whose father was Methuselah, whose father was Enoch,",
+                "> whose father was Jared, whose father was Mahalaleel,",
+                "> whose father was Kenan,"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> whose father was Enosh,",
+                "> whose father was Seth, whose father was Adam,",
+                "> whose father was God."
+            ]
+        }
+    ]
+}

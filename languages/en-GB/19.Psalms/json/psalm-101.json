@@ -1,0 +1,91 @@
+{
+    "book": "Psalm",
+    "chapter": 101,
+    "verses": [
+        {
+            "text": [
+                "A Psalm of David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> I will sing of mercy and justice;",
+                "> To You, Lord, I will sing praises."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> I will strive to follow the path of integrity.",
+                "> When will You visit me?",
+                "---",
+                "> I will walk within the halls of my house with a sincere heart."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> I will place nothing worthless before my eyes;",
+                "---",
+                "> I despise the deeds of those who stray;",
+                "> It shall not cling to me."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> A perverse heart shall depart from me;",
+                "> I will not engage in evil."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Whoever secretly slanders his neighbour, I will put an end to him;",
+                "> The one who has a haughty look and an arrogant heart, I will not endure."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> My eyes will be upon the faithful of the land, that they may dwell with me;",
+                "> One who walks in a blameless way is the one who will serve me."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> One who practices deceit shall not remain within my house;",
+                "> One who speaks lies shall not stand firm before me."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Every morning I will remove all the wicked of the land,",
+                "> So as to rid the city of the Lord of all those who commit injustice."
+            ]
+        }
+    ]
+}

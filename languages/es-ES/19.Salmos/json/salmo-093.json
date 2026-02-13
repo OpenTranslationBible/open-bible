@@ -1,0 +1,55 @@
+{
+    "book": "Salmos",
+    "chapter": 93,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> El Señor reina, vestido de majestad;",
+                "> El Señor se ha ceñido de poder.",
+                "> Verdaderamente, el mundo está firmemente establecido; no será movido."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Tu trono está establecido desde tiempos antiguos;",
+                "> Tú eres eterno."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Los ríos han crecido, Señor,",
+                "> Los ríos han levantado su voz,",
+                "> Los ríos levantan sus olas rompientes."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Más allá de los sonidos de muchas aguas,",
+                "> Más allá de los poderosos rompientes del mar,",
+                "> El Señor en lo alto es poderoso."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Tus decretos están completamente afirmados;",
+                "> La santidad adorna Tu casa,",
+                "> Señor, por todos los tiempos."
+            ]
+        }
+    ]
+}

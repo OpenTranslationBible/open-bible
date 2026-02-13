@@ -1,0 +1,66 @@
+{
+    "book": "1 Juan",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Lo que existía desde el principio, lo que hemos oído, lo que hemos visto con nuestros ojos, lo que hemos observado y tocado con nuestras manos, acerca del Verbo de la Vida—"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "y la vida fue manifestada, y hemos visto y testificamos y os anunciamos la vida eterna, la cual estaba con el Padre y se nos manifestó—"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "lo que hemos visto y oído, os lo anunciamos también a vosotros, para que también vosotros compartáis en comunión con nosotros; y en verdad nuestra comunión es con el Padre, y con su Hijo Jesucristo."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Escribimos estas cosas, para que nuestro gozo sea completo."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Este es el mensaje que hemos recibido de Él y os anunciamos: que Dios es Luz, y en Él no hay ninguna oscuridad."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Si decimos que tenemos comunión con Él y sin embargo andamos en la oscuridad, no somos veraces y no practicamos la verdad;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "pero si andamos en la Luz como Él mismo está en la Luz, tenemos comunión unos con otros, y la sangre de Jesús su Hijo nos purifica de todo pecado."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Si decimos que no tenemos pecado, nos engañamos a nosotros mismos y la verdad no está en nosotros."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Si confesamos nuestros pecados, Él es fiel y justo, para que nos perdone nuestros pecados y nos purifique de toda injusticia."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Si decimos que no hemos pecado, le hacemos mentiroso y su palabra no está en nosotros."
+            ]
+        }
+    ]
+}

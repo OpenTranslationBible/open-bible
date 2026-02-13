@@ -1,0 +1,56 @@
+{
+    "book": "Psalm",
+    "chapter": 127,
+    "verses": [
+        {
+            "text": [
+                "A Song of Ascents. Of Solomon."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Unless the Lord builds the house,",
+                "> They who build it, labour in vain;",
+                "> Unless the Lord guards the city,",
+                "> The watchman stays awake in vain."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> It is futile for you to rise up early,",
+                "> To stay up late,",
+                "> To eat the bread of painful labours;",
+                "> For He gives to His beloved even in his sleep."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Observe, children are a blessing from the Lord,",
+                "> The fruit of the womb is a gracious reward."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Just as arrows are in the hand of a warrior,",
+                "> So are the children born in one's youth."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Blessed is the man whose quiver is filled;",
+                "> They will not be put to shame",
+                "> When they engage with their adversaries at the gate."
+            ]
+        }
+    ]
+}

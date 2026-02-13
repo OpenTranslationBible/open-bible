@@ -1,0 +1,435 @@
+{
+    "book": "1 Chroniques",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Adam, Seth, et Enosh,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kenan, Mahalalel, et Jared,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Hénoc, Mathusalem, et Lamech,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Noé, avec ses fils :",
+                "> Sem, Cham, et Japhet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Les fils de Japhet comprenaient :",
+                "> Gomer, Magog, Madaï, Javan, Tubal, Méshec, et Tiras."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Les fils de Gomer étaient :",
+                "> Ashkenaz, Diphath, et Togarma."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "La lignée de Javan comprenait :",
+                "> Élisha, Tarsis, Kittim, et Rodanim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Les fils de Cham comprenaient :",
+                "> Cush, Mitsraïm, Put, et Canaan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Les fils de Cush étaient :",
+                "> Seba, Havila, Sabta, Raema, et Sabteca.",
+                "> Et les fils de Raema étaient :",
+                "> Sheba et Dedan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Cush fut le père de Nimrod ;",
+                "> il devint un personnage puissant sur la terre."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Mitsraïm fut père de la lignée de",
+                "> Lud, Anam, Lehab, Naphtuh,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Pathrus, Casluh (d'où sont issus les Philistins), et Caphtor."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Canaan fut père de",
+                "> Sidon, son premier-né, et Heth,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "et le Jébusien, l'Amoréen, et le Guirgashien,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "et le Hivvien, l'Arkien, et le Sinien,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "et l'Arvadien, le Tsemarien, et le Hamatien."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Les fils de Sem comprenaient :",
+                "> Élam, Asshur, Arpachshad, Lud, Aram,",
+                "> Les fils d'Aram étaient",
+                "> Uts, Hul, Guéter, et Méshec."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arpachshad fut père de Shélah,",
+                "et Shélah fut père d'Éber."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Éber eut deux fils :",
+                "> l'un fut nommé Péleg, car en ses jours la terre fut divisée ;",
+                "> et son frère fut nommé Joktan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Les descendants de Joktan comprenaient :",
+                "> Almodad, Shéleph, Hatsarmaveth, Jérach,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadoram, Uzal, et Dikla,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ébal, Abimaël, et Sheba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ophir, Havila, et Jobab.",
+                "Ceux-ci étaient tous les fils de Joktan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Sem, Arpachshad, et Shélah,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Éber, Péleg, et Réu,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serug, Nachor, et Térach,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> et Abram, qui est aussi connu sous le nom d'Abraham."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Les fils d'Abraham étaient :",
+                "> nommés Isaac et Ismaël."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Voici leurs générations :",
+                "> Le premier-né d'Ismaël était Nebajoth, suivi de Kédar, Adbeel, et Mibsam,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Mishma, Duma, Massa, Hadad, et Téma,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Jetur, Naphish, et Kedemah.",
+                "Ceux-ci étaient les descendants d'Ismaël."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Les fils de Ketura, concubine d'Abraham, qu'elle enfanta :",
+                "> Zimran, Jokshan, Medan, Madian, Ishbak, et Shuah.",
+                "> Les fils de Jokshan étaient :",
+                "> Sheba et Dedan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Les fils de Madian étaient :",
+                "> Épha, Épher, Hénoc, Abida, et Eldaa.",
+                "> Ceux-ci étaient tous les fils de Ketura."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Abraham engendra Isaac.",
+                "> Les fils d'Isaac étaient :",
+                "> Ésaü et Israël."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Les fils d'Ésaü étaient :",
+                "> Éliphaz, Réuel, et Jéush ; Jalam, et Koré."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Les fils d'Éliphaz étaient :",
+                "> Théman, Omar, Tsephi, Gatam, Kenaz, Timna, et Amalek."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Les fils de Réuel étaient :",
+                "> Nahath, et Zérah ; Shammah, et Mizzah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Les fils de Séir étaient :",
+                "> Lotan, Shobal, et Tsibeon ; Ana, Dishon, Etser, et Dishan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Les fils de Lotan étaient :",
+                "> Hori et Homam ; et Timna était la sœur de Lotan."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Les fils de Shobal étaient :",
+                "> Alian, Manahath, Ébal, Shéphi, et Onam.",
+                "> Et les fils de Tsibeon étaient :",
+                "> Ajja et Ana."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Le fils d'Ana était :",
+                "> Dishon.",
+                "> Et les fils de Dishon étaient :",
+                "> Hamran, Eshban, Ithran, et Keran."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Les fils d'Etser étaient :",
+                "> Bilhan, Zaavan, et Jaakan.",
+                "> Les fils de Dishan étaient :",
+                "> Uts et Aran."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Ce sont là les rois qui régnèrent dans le pays d'Édom avant qu'un roi ne règne sur les Israélites :",
+                "Béla, fils de Béor, et sa ville s'appelait Dinhaba."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "À la mort de Béla, Jobab, fils de Zérah, de Botsra, lui succéda comme roi."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Après la mort de Jobab, Husham, du pays des Thémanites, prit le trône."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Quand Husham mourut, Hadad, fils de Bedad, qui vainquit Madian dans le territoire de Moab,",
+                "devint roi ; sa ville s'appelait Avith."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "À la mort de Hadad, Samla, de Masréka, prit le trône."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "À la mort de Samla, Shaül, de Rehoboth par le fleuve, lui succéda comme roi."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Après la mort de Shaül, Baal-Hanan, fils d'Acbor, prit le trône."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Quand Baal-Hanan mourut, Hadad devint roi ;",
+                "sa ville s'appelait Paï,",
+                "et sa femme était Mehetabel, fille de Matred, fille de Mézahab."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Puis Hadad mourut.",
+                "Et les chefs d'Édom étaient :",
+                "chef Timna, chef Alia, et chef Jetheth,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "chef Oholibama, chef Éla, et chef Pinon,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "chef Kenaz, chef Théman, et chef Mibtsar,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "chef Magdiel, et chef Iram.",
+                "Ceux-ci étaient les chefs d'Édom."
+            ]
+        }
+    ]
+}

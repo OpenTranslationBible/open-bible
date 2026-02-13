@@ -1,0 +1,48 @@
+{
+    "book": "Salmos",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "Un Salmo de acción de gracias."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Aclama con júbilo al Señor, toda la tierra."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Sirve al Señor con alegría;",
+                "> Acércate a Él con cantos de gozo."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Reconoce que el Señor es en verdad Dios;",
+                "> Él es nuestro Creador, y no nos creamos a nosotros mismos;",
+                "> Le pertenecemos a Él, el rebaño bajo Su cuidado."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Entra por Sus puertas con gratitud,",
+                "> Y en Sus atrios con alabanza.",
+                "> Ofrécele gracias, honra Su nombre."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Porque el Señor es bueno;",
+                "> Su bondad perdura para siempre,",
+                "> Y Su fidelidad continúa a través de todas las generaciones."
+            ]
+        }
+    ]
+}

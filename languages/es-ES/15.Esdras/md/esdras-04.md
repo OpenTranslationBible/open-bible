@@ -1,0 +1,101 @@
+# Esdras Capítulo 4
+
+## Esdras 4:1
+
+Cuando los adversarios de Judá y Benjamín oyeron que los exiliados estaban edificando un templo al Señor, el Dios de Israel,
+
+## Esdras 4:2
+
+se acercaron a Zorobabel y a los jefes de las casas paternas, y les dijeron: “Dejadnos edificar con vosotros, porque como vosotros, buscamos a vuestro Dios y le hemos ofrecido sacrificios desde los días de Esarhadón, rey de Asiria, que nos trajo aquí.”
+
+---
+
+## Esdras 4:3
+
+Pero Zorobabel, Jesúa, y el resto de los jefes de las casas paternas de Israel les dijeron: “Vosotros no tenéis parte con nosotros en la edificación de una casa para nuestro Dios; nosotros solos edificaremos para el Señor, el Dios de Israel, como nos ha mandado el rey Ciro, rey de Persia.”
+
+## Esdras 4:4
+
+Entonces el pueblo de la tierra desalentó al pueblo de Judá y les hizo temer continuar la construcción,
+
+## Esdras 4:5
+
+y contrataron consejeros contra ellos para frustrar sus planes todos los días de Ciro, rey de Persia, hasta el reinado de Darío, rey de Persia.
+
+## Esdras 4:6
+
+Al comienzo del reinado de Asuero, escribieron una acusación contra los habitantes de Judá y Jerusalén.
+
+## Esdras 4:7
+
+Y en los días de Artajerjes, Bislam, Mitrídates, Tabeel, y el resto de sus asociados escribieron a Artajerjes, rey de Persia; la carta fue escrita en arameo y traducida.
+
+## Esdras 4:8
+
+Rehum el comandante y Simsai el escriba compusieron una carta concerniente a Jerusalén al rey Artajerjes, diciendo:
+
+## Esdras 4:9
+
+Rehum el comandante, Simsai el escriba, y el resto de sus asociados—los jueces, los gobernadores menores, los oficiales, los secretarios, los hombres de Persia, Uruk y Babilonia, los hombres de Susa, es decir, los elamitas,
+
+## Esdras 4:10
+
+y el resto de las naciones que el grande y honorable Osnapar deportó y estableció en la ciudad de Samaria y en el resto de la región más allá del Río.
+
+## Esdras 4:11
+
+(Esta es una copia de la carta que le enviaron.) “Al rey Artajerjes, de parte de tus siervos, los hombres de la región más allá del Río: Y ahora,
+
+## Esdras 4:12
+
+sea conocido del rey que los judíos que subieron de ti han venido a nosotros a Jerusalén; están reconstruyendo la ciudad rebelde y malvada, y están terminando los muros y reparando los cimientos.
+
+---
+
+## Esdras 4:13
+
+Ahora sea conocido del rey que si esta ciudad es reconstruida y los muros son terminados, no pagarán tributo, impuesto, o peaje, y será perjudicial para los ingresos reales.
+
+## Esdras 4:14
+
+Ahora, porque estamos al servicio del palacio, y no es apropiado para nosotros ver el deshonor del rey, hemos enviado a informar al rey,
+
+## Esdras 4:15
+
+para que se haga una búsqueda en los libros de registro de tus predecesores. Encontrarás en los registros que esta ciudad es una ciudad rebelde, dañina para los reyes y provincias, y tiene una historia de revueltas. Por eso esta ciudad fue destruida.
+
+## Esdras 4:16
+
+Informamos al rey que si esta ciudad es reconstruida y los muros terminados, no tendrás posesión en la provincia más allá del Río.”
+
+## Esdras 4:17
+
+El rey envió esta respuesta: “A Rehum el comandante, Simsai el escriba, y el resto de sus asociados que viven en Samaria y el resto de la provincia más allá del Río: Paz. Y ahora,
+
+## Esdras 4:18
+
+el documento que nos enviasteis ha sido traducido y leído ante mí.
+
+## Esdras 4:19
+
+He emitido un decreto y se ha hecho una búsqueda, y se ha encontrado que esta ciudad tiene una larga historia de revueltas contra los reyes y ha sido un lugar de rebelión y sedición.
+
+## Esdras 4:20
+
+Jerusalén ha tenido reyes poderosos gobernando sobre toda la provincia más allá del Río, y se les pagaba tributo, impuesto y peaje.
+
+## Esdras 4:21
+
+Ahora emite un decreto para que estos hombres detengan el trabajo, de modo que esta ciudad no sea reconstruida hasta que yo emita un decreto.
+
+## Esdras 4:22
+
+Cuida de no ser negligente en este asunto. ¿Por qué debería aumentar el daño en detrimento de los reyes?”
+
+## Esdras 4:23
+
+Entonces, tan pronto como la copia de la carta del rey Artajerjes fue leída ante Rehum, Simsai el escriba, y sus asociados, fueron apresuradamente a Jerusalén a los judíos y los detuvieron por la fuerza de las armas.
+
+## Esdras 4:24
+
+Así cesó la obra en la casa de Dios en Jerusalén, y fue detenida hasta el segundo año del reinado de Darío, rey de Persia.

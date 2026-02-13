@@ -1,0 +1,49 @@
+{
+    "book": "Psaume",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Louez le Seigneur !",
+                "> Honorez Dieu dans Son lieu saint ;",
+                "> Louez-Le dans Ses vastes cieux."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Honorez-Le pour Ses actes puissants ;",
+                "> Louez-Le pour Sa grandeur suprême."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Honorez-Le avec le son de la trompette ;",
+                "> Louez-Le avec la harpe et la lyre."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Honorez-Le avec le tambourin et la danse ;",
+                "> Louez-Le avec des instruments à cordes et la flûte."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Honorez-Le avec des cymbales retentissantes ;",
+                "> Louez-Le avec des cymbales résonnantes."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Que tout ce qui respire loue le Seigneur.",
+                "> Louez le Seigneur !"
+            ]
+        }
+    ]
+}

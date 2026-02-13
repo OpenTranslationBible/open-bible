@@ -1,0 +1,243 @@
+# 2 Samuel Capítulo 3
+
+## 2 Samuel 3:1
+
+Ahora la guerra entre la casa de Saúl y la casa de David fue larga;  
+y David se fortalecía cada vez más,  
+pero la casa de Saúl se debilitaba cada vez más.
+
+## 2 Samuel 3:2
+
+David tuvo hijos nacidos en Hebrón:  
+su primogénito fue Amnón, de Ahinoam la jezreelita;
+
+## 2 Samuel 3:3
+
+y su segundo, Quileab, de Abigail la viuda de Nabal de Carmel;  
+y el tercero, Absalón, hijo de Maacá, la hija de Talmai, rey de Gesur;
+
+## 2 Samuel 3:4
+
+y el cuarto, Adonías, hijo de Haguit;  
+y el quinto, Sefatías, hijo de Abital;
+
+## 2 Samuel 3:5
+
+y el sexto, Itream, de Egla, esposa de David.  
+Estos hijos le nacieron a David en Hebrón.
+
+---
+
+## 2 Samuel 3:6
+
+Durante el tiempo de conflicto entre la casa de Saúl y la casa de David,  
+Abner ganaba influencia en la casa de Saúl.
+
+## 2 Samuel 3:7
+
+Saúl tenía una concubina llamada Rizpa, hija de Aía;  
+e Is-boset dijo a Abner:  
+“¿Por qué has estado con la concubina de mi padre?”
+
+## 2 Samuel 3:8
+
+Entonces Abner se enojó mucho por las palabras de Is-boset y dijo:  
+“¿Soy yo cabeza de perro que pertenece a Judá?  
+Hoy muestro bondad a la casa de Saúl tu padre, a sus hermanos y a sus amigos,  
+y no te he entregado a David;  
+sin embargo, hoy me acusas de mal proceder con una mujer.
+
+## 2 Samuel 3:9
+
+Que Dios haga así a Abner, y aún más,  
+si como el Señor ha jurado a David, no lo hago por él:
+
+## 2 Samuel 3:10
+
+trasladar el reino de la casa de Saúl,  
+y establecer el trono de David sobre Israel y sobre Judá,  
+desde Dan hasta Beerseba!”
+
+## 2 Samuel 3:11
+
+Y Is-boset no pudo responder a Abner ni una sola palabra,  
+porque le tenía miedo.
+
+---
+
+## 2 Samuel 3:12
+
+Entonces Abner envió mensajeros a David en su lugar, diciendo:  
+“¿De quién es la tierra?  
+Haz tu pacto conmigo, y he aquí, mi mano estará contigo  
+para traer a todo Israel a ti.”
+
+## 2 Samuel 3:13
+
+Y David dijo:  
+“Bien, haré un pacto contigo.  
+Pero te exijo una cosa:  
+no verás mi rostro a menos que primero traigas a Mical, la hija de Saúl, cuando vengas a verme.”
+
+## 2 Samuel 3:14
+
+Entonces David envió mensajeros a Is-boset, hijo de Saúl, diciendo:  
+“Devuélveme a mi esposa Mical,  
+a quien desposé para mí por cien prepucios de los filisteos.”
+
+## 2 Samuel 3:15
+
+Entonces Is-boset envió y la tomó de su marido, de Paltiel hijo de Lais.
+
+## 2 Samuel 3:16
+
+Pero su marido fue con ella, llorando mientras iba,  
+siguiéndola hasta Bahurim.  
+Entonces Abner le dijo: “Vete, regresa.” Y él regresó.
+
+---
+
+## 2 Samuel 3:17
+
+Abner habló con los ancianos de Israel, diciendo:  
+“En tiempos pasados buscasteis que David fuera rey sobre vosotros.
+
+## 2 Samuel 3:18
+
+Ahora pues, ¡actuad en consecuencia! Porque el Señor ha hablado de David, diciendo:  
+‘Por la mano de mi siervo David salvaré a mi pueblo Israel  
+de la mano de los filisteos y de todos sus enemigos.’”
+
+## 2 Samuel 3:19
+
+Abner también habló a oídos de Benjamín;  
+y además, Abner fue a hablar con David en Hebrón  
+todo lo que era bueno a los ojos de Israel y a los ojos de toda la casa de Benjamín.
+
+## 2 Samuel 3:20
+
+Entonces Abner y veinte hombres con él vinieron a David en Hebrón.  
+Y David preparó un banquete para Abner y los hombres que estaban con él.
+
+## 2 Samuel 3:21
+
+Abner dijo a David: “Déjame levantarme e ir y reunir a todo Israel para mi señor el rey,  
+para que hagan un pacto contigo,  
+y para que seas rey sobre todo lo que tu alma desea.”  
+Así que David envió a Abner, y él se fue en paz.
+
+---
+
+## 2 Samuel 3:22
+
+Y he aquí, los siervos de David y Joab vinieron de una incursión  
+y trajeron mucho botín con ellos;  
+pero Abner no estaba con David en Hebrón, porque David lo había enviado, y él se había ido en paz.
+
+## 2 Samuel 3:23
+
+Cuando Joab y todo el ejército que estaba con él llegaron,  
+informaron a Joab, diciendo:  
+“Abner hijo de Ner vino al rey, y él lo ha enviado, y se ha ido en paz.”
+
+## 2 Samuel 3:24
+
+Entonces Joab se acercó al rey y preguntó:  
+“¿Qué has hecho? Abner vino a ti.  
+¿Por qué entonces lo has enviado, y ya se ha ido?
+
+## 2 Samuel 3:25
+
+Tú conoces a Abner hijo de Ner,  
+que vino para engañarte y para conocer tus movimientos  
+y para saber todo lo que haces.”
+
+---
+
+## 2 Samuel 3:26
+
+Cuando Joab salió de David, envió mensajeros tras Abner,  
+y lo trajeron de vuelta desde el pozo de Sira;  
+pero David no lo sabía.
+
+## 2 Samuel 3:27
+
+Así que cuando Abner regresó a Hebrón, Joab lo llevó aparte al medio de la puerta para hablar con él en privado,  
+y allí lo hirió en el estómago,  
+y murió como resultado de la sangre de Asael su hermano.
+
+---
+
+## 2 Samuel 3:28
+
+Después, cuando David se enteró, dijo:  
+“Yo y mi reino somos inocentes ante el Señor para siempre de la sangre de Abner hijo de Ner.
+
+## 2 Samuel 3:29
+
+Que las consecuencias caigan sobre Joab y toda la casa de su padre,  
+y que no falte de la casa de Joab  
+uno que tenga flujo, o que esté afligido de lepra,  
+o que tome el huso, o que caiga por la espada, o que le falte pan.”
+
+## 2 Samuel 3:30
+
+Así, Joab y Abisai su hermano fueron responsables de la muerte de Abner,  
+porque él había matado a su hermano Asael durante la batalla en Gabaón.
+
+---
+
+## 2 Samuel 3:31
+
+Entonces David instruyó a Joab y a todo el pueblo que estaba con él,  
+“Rasgad vuestras vestiduras y ceñíos de cilicio, y haced duelo delante de Abner.”  
+Y el rey David caminó detrás del féretro.
+
+## 2 Samuel 3:32
+
+Sepultaron a Abner en Hebrón;  
+y el rey alzó su voz y lloró en la tumba de Abner,  
+y todo el pueblo lloró.
+
+## 2 Samuel 3:33
+
+Y el rey cantó una canción de duelo por Abner y dijo:
+
+> “¿Debía Abner encontrar su fin como un necio?
+
+## 2 Samuel 3:34
+
+> Tus manos no estaban atadas,  
+> Ni tus pies puestos en grilletes de bronce;  
+> Como uno cae ante los malvados, has caído.”  
+> Y todo el pueblo lloró de nuevo por él.
+
+## 2 Samuel 3:35
+
+Entonces todo el pueblo vino a ofrecer comida a David en su aflicción,  
+pero David juró, diciendo,  
+“Que Dios me haga así, y aún más,  
+si pruebo pan o cualquier otra cosa antes de que se ponga el sol.”
+
+---
+
+## 2 Samuel 3:36
+
+Todo el pueblo lo notó, y les agradó,  
+así como todo lo que el rey hacía agradaba a todo el pueblo.
+
+## 2 Samuel 3:37
+
+Así que todo el pueblo y todo Israel entendieron aquel día  
+que no había sido la voluntad del rey poner a Abner hijo de Ner a muerte.
+
+## 2 Samuel 3:38
+
+Entonces el rey dijo a sus siervos,  
+“¿No os dais cuenta de que un líder y un gran hombre ha caído hoy en Israel?
+
+## 2 Samuel 3:39
+
+Y yo estoy débil hoy, aunque ungido rey;  
+y estos hombres, los hijos de Sarvia, son demasiado duros para mí.  
+Que el Señor pague al malhechor conforme a su maldad.”

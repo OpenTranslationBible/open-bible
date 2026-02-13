@@ -1,0 +1,73 @@
+# Esther Chapitre 8
+
+## Esther 8:1
+
+Ce même jour, le roi Assuérus donna à la reine Esther la maison d'Haman, l'adversaire des Juifs. Mardochée vint devant le roi, car Esther avait révélé leur relation.
+
+## Esther 8:2
+
+Le roi ôta son anneau sigillaire, qu'il avait repris à Haman, et le donna à Mardochée. Esther nomma alors Mardochée sur la maison d'Haman.
+
+---
+
+## Esther 8:3
+
+Esther s'approcha de nouveau du roi, tombant à ses pieds, pleurant et le suppliant de stopper le plan malveillant d'Haman l'Agaguite, qu'il avait conçu contre les Juifs.
+
+## Esther 8:4
+
+Le roi tendit le sceptre d'or à Esther, et elle se leva et se tint devant lui.
+
+## Esther 8:5
+
+Elle dit : « Si cela plaît au roi, et si j'ai trouvé grâce à ses yeux, et si la chose semble juste au roi, et que je suis agréable à ses yeux, qu'un décret soit écrit pour révoquer les lettres conçues par Haman, fils de Hammedatha l'Agaguite, qu'il a écrites pour détruire les Juifs dans toutes les provinces du roi.
+
+## Esther 8:6
+
+Car comment pourrais-je supporter de voir le malheur qui s'abattra sur mon peuple ? Comment pourrais-je endurer la destruction de ma famille ? »
+
+## Esther 8:7
+
+Le roi Assuérus dit à la reine Esther et à Mardochée le Juif : « J'ai donné la maison d'Haman à Esther, et ils l'ont pendu à la potence parce qu'il avait porté la main sur les Juifs.
+
+## Esther 8:8
+
+Maintenant, écrivez un autre décret au nom du roi en faveur des Juifs comme vous le jugez bon, et scellez-le avec l'anneau sigillaire du roi, car aucun document écrit au nom du roi et scellé avec l'anneau du roi ne peut être révoqué. »
+
+---
+
+## Esther 8:9
+
+Les scribes du roi furent convoqués immédiatement, le vingt-troisième jour du troisième mois, le mois de Sivan. Ils écrivirent tous les ordres de Mardochée aux Juifs, et aux satrapes, gouverneurs, et aux officiers des 127 provinces s'étendant de l'Inde à Cush. Ces ordres furent écrits dans l'écriture de chaque province et la langue de chaque peuple, y compris les Juifs dans leur propre écriture et langue.
+
+## Esther 8:10
+
+Mardochée écrivit au nom du roi Assuérus, scella les lettres avec l'anneau sigillaire du roi, et les envoya par des courriers montés sur des chevaux royaux, issus de juments rapides.
+
+## Esther 8:11
+
+Le décret du roi accordait aux Juifs dans chaque ville le droit de se rassembler et de se défendre, de détruire, tuer et anéantir toute force armée de toute nationalité ou province qui pourrait les attaquer, y compris leurs femmes et leurs enfants, et de piller leurs biens.
+
+## Esther 8:12
+
+Cela devait être fait en un seul jour dans toutes les provinces du roi Assuérus, le treizième jour du douzième mois, le mois d'Adar.
+
+## Esther 8:13
+
+Une copie du texte du décret devait être publiée comme loi dans chaque province et portée à la connaissance de tous les peuples, afin que les Juifs soient prêts ce jour-là à se venger de leurs ennemis.
+
+## Esther 8:14
+
+Les courriers, montant les chevaux de relais royaux, partirent en hâte, poussés par l'ordre du roi, et le décret fut publié dans la citadelle de Suse.
+
+## Esther 8:15
+
+Mardochée quitta la présence du roi vêtu de vêtements royaux de bleu et de blanc, avec une grande couronne d'or et un manteau de fin lin et de pourpre. La ville de Suse poussa des cris de joie et se réjouit.
+
+## Esther 8:16
+
+Pour les Juifs, ce fut un temps de lumière, de joie, d'allégresse et d'honneur.
+
+## Esther 8:17
+
+Dans chaque province et ville où l'ordre et le décret du roi parvinrent, il y eut de la joie et de l'allégresse parmi les Juifs, avec des festins et des célébrations. Beaucoup de gens d'autres nationalités devinrent Juifs parce que la crainte des Juifs était tombée sur eux.

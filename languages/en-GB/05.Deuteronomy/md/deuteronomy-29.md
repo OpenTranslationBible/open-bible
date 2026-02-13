@@ -1,0 +1,88 @@
+# Deuteronomy Chapter 29
+
+## Deuteronomy 29:1
+These are the terms of the covenant which the Lord commanded Moses to establish with the Israelites in the land of Moab, in addition to the covenant He had made with them at Horeb.
+
+## Deuteronomy 29:2
+Moses gathered all of Israel and said to them: "You have witnessed all that the Lord did in Egypt to Pharaoh, to all his officials, and to all his land.
+
+## Deuteronomy 29:3
+Your eyes have seen those great trials, those signs and wonders.
+
+## Deuteronomy 29:4
+But to this day, the Lord has not given you a mind that understands, nor eyes that see, nor ears that hear.
+
+## Deuteronomy 29:5
+I have led you through the wilderness for forty years; your clothes did not wear out on you, nor did the sandals on your feet.
+
+## Deuteronomy 29:6
+You have not eaten bread nor drunk wine or other fermented drink, so that you might know that I am the Lord your God.
+
+## Deuteronomy 29:7
+When you arrived at this place, Sihon king of Heshbon and Og king of Bashan came out to fight against us, but we defeated them.
+
+## Deuteronomy 29:8
+We took possession of their land and assigned it as an inheritance to the Reubenites, the Gadites, and the half-tribe of Manasseh.
+
+## Deuteronomy 29:9
+Therefore, observe the terms of this covenant and carry them out, so that you may prosper in everything you do.
+
+## Deuteronomy 29:10
+All of you are standing today in the presence of the Lord your God—your leaders, your tribes, your elders and officials, all the men of Israel,
+
+## Deuteronomy 29:11
+along with your children and wives, and the foreigners residing in your camps who chop your wood and draw your water,
+
+## Deuteronomy 29:12
+to enter into a covenant with the Lord your God, a covenant the Lord is making with you today and sealing with an oath,
+
+## Deuteronomy 29:13
+to establish you today as His people, so that He may be your God, as He promised you and as He swore to your fathers, Abraham, Isaac, and Jacob.
+
+## Deuteronomy 29:14
+It is not only with you that I am making this covenant and this oath,
+
+## Deuteronomy 29:15
+but also with those who are here with us today in the presence of the Lord our God, as well as those who are not present today.
+
+## Deuteronomy 29:16
+You are aware of how we lived in Egypt and how we passed through the nations on the way here.
+
+## Deuteronomy 29:17
+You saw their detestable images and idols of wood and stone, of silver and gold.
+
+## Deuteronomy 29:18
+Ensure there is no man or woman, clan or tribe among you today whose heart turns away from the Lord our God to worship the gods of those nations; ensure there is no root among you producing such bitter poison.
+
+## Deuteronomy 29:19
+When such a person hears the words of this oath and blesses themselves, thinking, ‘I will be safe, even though I follow my own stubborn heart,’ it will bring disaster on the well-watered land as well as the dry.
+
+## Deuteronomy 29:20
+The Lord will not be willing to forgive them; His anger and zeal will burn against them. Every curse written in this book will fall upon them, and the Lord will blot out their names from under heaven.
+
+## Deuteronomy 29:21
+The Lord will set them apart from all the tribes of Israel for calamity, in accordance with all the curses of the covenant written in this Book of the Law.
+
+## Deuteronomy 29:22
+Future generations—your descendants who rise up after you and foreigners from distant lands—will see the calamities that have befallen the land and the diseases with which the Lord has afflicted it.
+
+## Deuteronomy 29:23
+The whole land will be a burning waste of salt and sulphur—nothing sown, nothing sprouting, no vegetation growing on it. It will be like the destruction of Sodom and Gomorrah, Admah and Zeboiim, which the Lord overthrew in fierce anger.
+
+## Deuteronomy 29:24
+All the nations will inquire, ‘Why has the Lord done this to this land? Why this great intensity of anger?’
+
+## Deuteronomy 29:25
+And the answer will be: ‘It is because this people abandoned the covenant of the Lord, the God of their ancestors, which He made with them when He brought them out of Egypt.
+
+## Deuteronomy 29:26
+They went and served other gods and worshipped them, gods they did not know and whom He had not assigned to them.
+
+## Deuteronomy 29:27
+Therefore the Lord’s anger burned against this land, bringing upon it every curse written in this book.
+
+## Deuteronomy 29:28
+In His anger and fury, the Lord uprooted them from their land and cast them into another land, as it is today.’
+
+## Deuteronomy 29:29
+The secret things belong to the Lord our God, but the things revealed belong to us and to our children forever, so that we may follow all the words of this law.

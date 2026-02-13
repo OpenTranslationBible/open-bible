@@ -1,0 +1,330 @@
+{
+    "book": "Nombres",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Le Seigneur parla à Moïse dans le désert de Sinaï, dans la tente de la rencontre, le premier jour du second mois, la seconde année après que les Israélites furent sortis d'Égypte, en disant :"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "« Faites le recensement de toute l'assemblée des Israélites par familles, par maisons paternelles, en énumérant chaque mâle par nom, un par un."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Toi et Aaron, vous compterez tous les hommes en Israël âgés de vingt ans et plus, aptes à servir dans l'armée, selon leurs divisions."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Avec vous sera un homme de chaque tribu, chacun étant le chef de sa famille."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Voici les noms des hommes qui vous assisteront : de Ruben, Elitsur, fils de Shedéur ;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "de la tribu de Siméon, Shelumiel, fils de Tsurishaddaï ;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "de la tribu de Juda, Nahshon, fils d'Amminadab ;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "de la tribu d'Issacar, Nethanel, fils de Tsuar ;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "de la tribu de Zabulon, Éliab, fils de Hélon ;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "des descendants de Joseph : de la tribu d'Éphraïm, Élishama, fils d'Ammihud ; de Manassé, Gamliel, fils de Pedahtsur ;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "de la tribu de Benjamin, Abidan, fils de Guideoni ;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "de la tribu de Dan, Ahiézer, fils d'Ammishaddaï ;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "de la tribu d'Aser, Paguiel, fils d'Okran ;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "de la tribu de Gad, Éliasaph, fils de Déuel ;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "de la tribu de Nephtali, Ahira, fils d'Énan."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Ce sont là les hommes désignés de la communauté, les chefs des tribus de leurs pères ; ils étaient les chefs des clans d'Israël."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Moïse et Aaron rassemblèrent ces hommes qui avaient été désignés par leur nom,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "et ils assemblèrent toute l'assemblée le premier jour du second mois. Ils furent enregistrés par ascendance dans leurs familles, par maisons paternelles, selon le nombre des noms, depuis l'âge de vingt ans et plus, un par un,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "comme le Seigneur l'avait commandé à Moïse. Ainsi il les compta dans le désert de Sinaï."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Des descendants de Ruben, premier-né d'Israël : Tous les hommes âgés de vingt ans et plus, aptes à servir dans l'armée, furent énumérés par nom, un par un, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Le dénombrement de la tribu de Ruben était de 46 500."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Des descendants de Siméon : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent comptés et énumérés par nom, un par un, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Le dénombrement de la tribu de Siméon était de 59 300."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Des descendants de Gad : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Le dénombrement de la tribu de Gad était de 45 650."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Des descendants de Juda : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Le dénombrement de la tribu de Juda était de 74 600."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Des descendants d'Issacar : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Le dénombrement de la tribu d'Issacar était de 54 400."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Des descendants de Zabulon : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Le dénombrement de la tribu de Zabulon était de 57 400."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Des descendants de Joseph : De la tribu d'Éphraïm : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Le dénombrement de la tribu d'Éphraïm était de 40 500."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Des descendants de Manassé : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Le dénombrement de la tribu de Manassé était de 32 200."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Des descendants de Benjamin : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Le dénombrement de la tribu de Benjamin était de 35 400."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Des descendants de Dan : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Le dénombrement de la tribu de Dan était de 62 700."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Des descendants d'Aser : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Le dénombrement de la tribu d'Aser était de 41 500."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Des descendants de Nephtali : Tous les hommes âgés de vingt ans et plus, aptes au service militaire, furent énumérés par nom, selon les registres de leurs clans et familles."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Le dénombrement de la tribu de Nephtali était de 53 400."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Ce sont là les hommes dénombrés par Moïse et Aaron, avec les chefs d'Israël, douze hommes, chacun représentant la maison de son père."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Tous les Israélites âgés de vingt ans et plus, aptes au service militaire dans l'armée d'Israël, furent comptés selon leurs familles."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Leur nombre total était de 603 550."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "La tribu de Lévi, cependant, ne fut pas comptée avec les autres."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Car le Seigneur avait parlé à Moïse, l'instruisant,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "« Tu ne compteras pas la tribu de Lévi ni ne les incluras dans le recensement des autres Israélites."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Au lieu de cela, désigne les Lévites pour le tabernacle du témoignage, pour tous ses accessoires et tout ce qui lui appartient. Ils doivent porter le tabernacle et tous ses accessoires ; ils doivent en prendre soin et camper autour de lui."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Chaque fois que le tabernacle doit être déplacé, les Lévites doivent le démonter, et chaque fois qu'il doit être installé, les Lévites doivent le faire. Tout étranger qui s'en approche sera mis à mort."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Les Israélites doivent camper par divisions, chaque homme dans son propre camp, et chaque homme sous sa propre bannière."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Mais les Lévites camperont autour du tabernacle du témoignage, afin qu'il n'y ait pas de colère divine contre l'assemblée des Israélites. Les Lévites seront responsables du service du tabernacle du témoignage. »"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Les Israélites firent tout cela comme le Seigneur l'avait ordonné à Moïse."
+            ]
+        }
+    ]
+}

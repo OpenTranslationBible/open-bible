@@ -1,0 +1,41 @@
+{
+    "book": "Psaume",
+    "chapter": 133,
+    "verses": [
+        {
+            "text": [
+                "Cantique des montées. De David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Voici, qu'il est bon et qu'il est agréable",
+                "> Que des frères demeurent ensemble dans l'unité !"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> C'est comme l'huile précieuse sur la tête,",
+                "> Descendant sur la barbe,",
+                "> La barbe d'Aaron,",
+                "> Descendant sur le bord de ses vêtements."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> C'est comme la rosée de l'Hermon",
+                "> Descendant sur les montagnes de Sion;",
+                "> Car c'est là que l'Éternel a ordonné la bénédiction—",
+                "> La vie pour toujours."
+            ]
+        }
+    ]
+}

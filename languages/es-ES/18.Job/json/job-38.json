@@ -1,0 +1,338 @@
+{
+    "book": "Job",
+    "chapter": 38,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Entonces el Señor habló a Job desde el torbellino y dijo:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> “¿Quién es este que oscurece mi consejo",
+                "> con palabras carentes de conocimiento?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ciñe tus lomos como un hombre;",
+                "> te preguntaré, y tú me informarás."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> ¿Dónde estabas tú cuando establecí los cimientos de la tierra?",
+                "> Declara, si tienes entendimiento."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> ¿Quién determinó sus medidas? ¡Seguro que lo sabes!",
+                "> ¿O quién extendió la cuerda de medir sobre ella?"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> ¿Sobre qué se asentaron sus bases,",
+                "> o quién puso su piedra angular—"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> cuando las estrellas de la mañana cantaban a coro",
+                "> y todos los hijos de Dios gritaban de alegría?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> “¿Quién encerró el mar con puertas",
+                "> cuando irrumpió desde el vientre,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> cuando lo vestí de nubes",
+                "> y lo envolví en densa oscuridad,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> cuando le puse límites",
+                "> y coloqué cerrojos y puertas,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> cuando dije, ‘Hasta aquí llegarás y no más allá;",
+                "> aquí se detendrán tus orgullosas olas’?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> “¿Alguna vez has mandado a la mañana,",
+                "> o mostrado al alba su lugar,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> para que tome los bordes de la tierra",
+                "> y sacuda de ella a los malvados?"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> La tierra toma forma como el barro bajo un sello;",
+                "> sus características se destacan como un vestido."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> La luz se retira de los malvados,",
+                "> y el brazo levantado se quiebra."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> “¿Has viajado a las fuentes del mar",
+                "> o caminado en las profundidades del océano?"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> ¿Te han sido mostrados los secretos de la muerte?",
+                "> ¿Has visto las puertas del reino sombrío?"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> ¿Has comprendido las vastas extensiones de la tierra?",
+                "> Declara, si sabes todo esto."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> ¿Dónde está el camino a la morada de la luz?",
+                "> ¿Y dónde reside la oscuridad,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> para que la lleves a su territorio,",
+                "> y disciernas las sendas a su morada?"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> ¡Seguro que lo sabes, pues ya habías nacido,",
+                "> y tus días son muchos!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> “¿Has entrado en los tesoros de la nieve",
+                "> o visto las reservas del granizo,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> que he reservado para tiempos de angustia,",
+                "> para días de guerra y batalla?"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> ¿Cuál es el camino al lugar donde se divide la luz,",
+                "> o el viento del este esparcido sobre la tierra?"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> ¿Quién ha tallado un canal para los torrentes de lluvia,",
+                "> y un camino para el relámpago,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> para regar una tierra deshabitada,",
+                "> un desierto desolado,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> para satisfacer la tierra desolada",
+                "> y hacer brotar la hierba?"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> ¿Tiene el agua de lluvia una fuente?",
+                "> ¿Quién es el padre de las gotas de rocío?"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> ¿De quién vientre viene el hielo?",
+                "> ¿Quién da a luz la escarcha de los cielos"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> cuando las aguas se endurecen como piedra,",
+                "> cuando la superficie del abismo se congela?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> “¿Puedes atar las cadenas de las Pléyades,",
+                "> o desatar las cuerdas de Orión?"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> ¿Puedes hacer salir las constelaciones en sus",
+                "> estaciones, o guiar a la Osa con sus crías?"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> ¿Estás familiarizado con las leyes de los cielos?",
+                "> ¿Puedes establecer su dominio sobre la tierra?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> “¿Puedes llamar a las nubes",
+                "> y cubrirte con un diluvio de agua?"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> ¿Envías los relámpagos en su camino?",
+                "> ¿Se presentan ante ti, diciendo, ‘Aquí estamos’?"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> ¿Quién ha puesto sabiduría en el corazón,",
+                "> o dado entendimiento a la mente?"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> ¿Quién puede contar las nubes con sabiduría,",
+                "> o volcar los cántaros de agua de los cielos"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> cuando el polvo se solidifica",
+                "> y los terrones se adhieren?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> “¿Puedes cazar la presa para la leona",
+                "> y satisfacer el hambre de los leoncillos"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> cuando se agazapan en sus guaridas",
+                "> o acechan en sus madrigueras?"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> ¿Quién proporciona sustento al cuervo",
+                "> cuando sus crías claman a Dios",
+                "> y vagan sin comida?"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "book": "Salmos",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Cántico de ascenso."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> A ti he levantado mis ojos,",
+                "> ¡Tú que estás entronizado en los cielos!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Observa, así como los ojos de los siervos están fijos en la mano de su señor,",
+                "> Y como los ojos de una doncella miran a la mano de su señora,",
+                "> Así nuestros ojos están dirigidos al Señor nuestro Dios,",
+                "> Hasta que nos muestre su favor."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Muéstranos tu bondad, Señor, muéstranos tu bondad,",
+                "> Porque hemos soportado más que suficiente desprecio."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Nuestra alma ha soportado más que suficiente",
+                "> De las burlas de los que están a sus anchas,",
+                "> Y del desprecio de los orgullosos."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,540 @@
+{
+    "book": "Numbers",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "On the day that Moses completed setting up the tabernacle, he anointed and consecrated it along with all its furnishings, and the altar and all its utensils; he anointed and consecrated them too."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Then the leaders of Israel, the heads of their fathers' households, who were the tribal leaders supervising those who were counted, made offerings."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "They brought their offerings before the Lord: six covered carts and twelve oxen—one ox from each leader and a cart from every two leaders. They presented these before the tabernacle."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Then the Lord spoke to with Moses, saying,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "“Accept these from them, that they may be used in the service of the tent of meeting. Distribute them to the Levites according to each man's service.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Thus, Moses received the carts and oxen and distributed them to the Levites."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "He gave two carts and four oxen to the sons of Gershon, according to their service,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "and he gave four carts and eight oxen to the sons of Merari, according to their service, under the supervision of Ithamar, son of Aaron the priest."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "But he did not give any to the sons of Kohath, because they were responsible for the holy objects, which they carried on their shoulders."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "The leaders brought their offerings for the dedication of the altar when it was anointed, presenting them before the altar."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "The Lord instructed Moses, “Each day one leader shall bring his offering for the dedication of the altar.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "On the first day, Nahshon son of Amminadab, of the tribe of Judah, presented his offering."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "His offering consisted of one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nahshon son of Amminadab."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "On the second day, Nethanel son of Zuar, leader of Issachar, presented his offering."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Nethanel son of Zuar."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "On the third day, Eliab son of Helon, leader of the people of Zebulun, brought his offering."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliab son of Helon."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "On the fourth day, Elizur son of Shedeur, leader of the people of Reuben, brought his offering."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elizur son of Shedeur."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "On the fifth day, Shelumiel son of Zurishaddai, leader of the people of Simeon, brought his offering."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Shelumiel son of Zurishaddai."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "On the sixth day, Eliasaph son of Deuel, leader of the people of Gad, brought his offering."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Eliasaph son of Deuel."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "On the seventh day, Elishama son of Ammihud, leader of the people of Ephraim, brought his offering."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Elishama son of Ammihud."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "On the eighth day, Gamaliel son of Pedahzur, leader of the people of Manasseh, brought his offering."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Gamaliel son of Pedahzur."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "On the ninth day, Abidan son of Gideoni, leader of the people of Benjamin, brought his offering."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Abidan son of Gideoni."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "On the tenth day, Ahiezer son of Ammishaddai, leader of the people of Dan, brought his offering."
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahiezer son of Ammishaddai."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "On the eleventh day, Pagiel son of Ochran, leader of the people of Asher, brought his offering."
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 74,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 75,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 76,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 77,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Pagiel son of Ochran."
+            ]
+        },
+        {
+            "verse": 78,
+            "text": [
+                "On the twelfth day, Ahira son of Enan, leader of the people of Naphtali, brought his offering."
+            ]
+        },
+        {
+            "verse": 79,
+            "text": [
+                "His offering was one silver dish weighing 130 shekels and one silver bowl weighing 70 shekels, both according to the sanctuary shekel, filled with fine flour mixed with oil as a grain offering;"
+            ]
+        },
+        {
+            "verse": 80,
+            "text": [
+                "one gold pan weighing ten shekels, filled with incense;"
+            ]
+        },
+        {
+            "verse": 81,
+            "text": [
+                "a young bull, a ram, and a male lamb a year old for a burnt offering;"
+            ]
+        },
+        {
+            "verse": 82,
+            "text": [
+                "a single male goat for a sin offering;"
+            ]
+        },
+        {
+            "verse": 83,
+            "text": [
+                "and for the peace offerings, two oxen, five rams, five male goats, and five male lambs a year old. This was the offering of Ahira son of Enan."
+            ]
+        },
+        {
+            "verse": 84,
+            "text": [
+                "These were the offerings of the Israelite leaders for the dedication of the altar when it was anointed: twelve silver dishes, twelve silver bowls, and twelve gold pans."
+            ]
+        },
+        {
+            "verse": 85,
+            "text": [
+                "Each silver dish weighed 130 shekels, and each bowl seventy shekels. Altogether, the silver of these utensils weighed 2,400 shekels, according to the sanctuary shekel."
+            ]
+        },
+        {
+            "verse": 86,
+            "text": [
+                "The twelve gold pans filled with incense weighed ten shekels each, according to the sanctuary shekel. Altogether, the gold of the pans weighed 120 shekels."
+            ]
+        },
+        {
+            "verse": 87,
+            "text": [
+                "The total number of animals for the burnt offering came to twelve young bulls, twelve rams, and twelve male lambs a year old, along with their grain offering. Twelve male goats were used for the sin offering."
+            ]
+        },
+        {
+            "verse": 88,
+            "text": [
+                "The total number of animals for the peace offerings came to twenty-four oxen, sixty rams, sixty male goats, and sixty male lambs a year old. These were the offerings for the dedication of the altar after it was anointed."
+            ]
+        },
+        {
+            "verse": 89,
+            "text": [
+                "When Moses entered the tent of meeting to speak with the Lord, he heard the voice speaking to him from above the atonement cover on the ark of the testimony, from between the two cherubim; thus the Lord spoke to him."
+            ]
+        }
+    ]
+}

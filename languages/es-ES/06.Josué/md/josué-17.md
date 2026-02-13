@@ -1,0 +1,80 @@
+# Josué Capítulo 17
+
+## Josué 17:1
+
+Esta fue la herencia para la tribu de Manasés, el primogénito de José:  
+A Maquir, el primogénito de Manasés y padre de Galaad—que era un hombre de guerra—se le dieron Galaad y Basán.
+
+## Josué 17:2
+
+Así que se hizo la herencia para el resto de la tribu de Manasés, según sus clanes—para los descendientes de Abiezer, Helec, Asriel, Siquem, Hefer y Semida. Estos eran los descendientes varones de Manasés hijo de José por sus clanes.
+
+## Josué 17:3
+
+Ahora Zelofehad hijo de Hefer, hijo de Galaad, hijo de Maquir, hijo de Manasés, no tenía hijos sino solo hijas. Sus nombres eran Maala, Noa, Hogla, Milca y Tirsa.
+
+## Josué 17:4
+
+Se acercaron a Eleazar el sacerdote, a Josué hijo de Nun, y a los líderes, y dijeron: “El Señor mandó a Moisés que nos diera una herencia entre nuestros parientes.” Así que Josué les dio una herencia entre los tíos de su padre, de acuerdo con el mandato del Señor.
+
+## Josué 17:5
+
+La parte de Manasés consistía en diez porciones además de Galaad y Basán, que estaban al este del Jordán,
+
+## Josué 17:6
+
+porque las hijas de la tribu de Manasés recibieron una herencia junto con los hijos. La tierra de Galaad pertenecía al resto de los descendientes de Manasés.
+
+---
+
+## Josué 17:7
+
+El límite de Manasés iba desde Aser hasta Micmetat, al este de Siquem. El límite luego corría hacia el sur para incluir a la gente que vivía en En Tapúa.
+
+## Josué 17:8
+
+La tierra de Tapúa misma pertenecía a Manasés, pero Tapúa, en la frontera de Manasés, pertenecía a los descendientes de Efraín.
+
+## Josué 17:9
+
+Luego el límite descendía al barranco de Caná, al sur del barranco. Las ciudades pertenecientes a Efraín estaban entre las de Manasés, pero el límite de Manasés estaba en el lado norte del barranco y terminaba en el mar.
+
+## Josué 17:10
+
+La tierra al sur pertenecía a Efraín y la del norte a Manasés. El mar era su límite. Tocaban a Aser al norte e Isacar al este.
+
+## Josué 17:11
+
+Dentro de Isacar y Aser, Manasés también tenía Bet-seán, Ibleam, y la gente de Dor, Endor, Taanac y Meguido—cada una con sus asentamientos circundantes.
+
+## Josué 17:12
+
+Sin embargo, los descendientes de Manasés no pudieron expulsar a la gente de esas ciudades, y los cananeos persistieron en vivir allí.
+
+## Josué 17:13
+
+Sin embargo, cuando los israelitas se hicieron fuertes, sometieron a los cananeos a trabajos forzados pero no los expulsaron completamente.
+
+---
+
+## Josué 17:14
+
+Los descendientes de José dijeron a Josué: “¿Por qué nos has dado solo una herencia y una porción para heredar? Somos un pueblo numeroso, y el Señor nos ha bendecido grandemente.”
+
+## Josué 17:15
+
+Josué respondió: “Si sois tan numerosos, y la región montañosa de Efraín es demasiado pequeña para vosotros, subid al bosque y despejad la tierra para vosotros allí en el territorio de los ferezeos y refaítas.”
+
+## Josué 17:16
+
+Los descendientes de José dijeron: “La región montañosa no es suficiente para nosotros, y todos los cananeos que viven en la llanura tienen carros equipados con hierro—tanto los de Bet-seán y sus asentamientos como los del Valle de Jezreel.”
+
+---
+
+## Josué 17:17
+
+Pero Josué dijo a las tribus de José—a Efraín y Manasés—“Sois numerosos y muy poderosos. No tendréis solo una herencia.
+
+## Josué 17:18
+
+La región montañosa boscosa también será vuestra. Despejadla, y sus límites más lejanos serán vuestros. Aunque los cananeos tienen carros equipados con hierro y aunque son fuertes, podéis expulsarlos.”

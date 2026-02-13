@@ -1,0 +1,176 @@
+# 1 Reyes Capítulo 9
+
+## 1 Reyes 9:1
+
+Cuando Salomón terminó la construcción de la casa del Señor,  
+y la casa del rey,  
+y todo lo que Salomón deseaba realizar,
+
+## 1 Reyes 9:2
+
+el Señor se apareció a Salomón de nuevo, de la misma manera que lo había hecho en Gabaón.
+
+## 1 Reyes 9:3
+
+Y el Señor le dijo:  
+“He escuchado tu oración y tu súplica que has hecho delante de Mí;  
+he consagrado esta casa que has construido,  
+poniendo Mi nombre allí para siempre,  
+y Mis ojos y Mi corazón estarán allí siempre.
+
+## 1 Reyes 9:4
+
+En cuanto a ti, si caminas delante de Mí  
+como caminó tu padre David, en integridad de corazón y rectitud,  
+para hacer conforme a todo lo que te he mandado,  
+y guardas Mis estatutos y Mis ordenanzas,
+
+## 1 Reyes 9:5
+
+entonces estableceré el trono de tu reino sobre Israel permanentemente,  
+tal como prometí a tu padre David, diciendo,  
+‘Siempre tendrás un sucesor en el trono de Israel.’
+
+## 1 Reyes 9:6
+
+Pero si tú o tus hijos se apartan de seguirme,  
+y no guardan Mis mandamientos y Mis estatutos que he puesto delante de vosotros,  
+y vais y servís a otros dioses y los adoráis,
+
+## 1 Reyes 9:7
+
+entonces cortaré a Israel de la tierra que les he dado,  
+y la casa que he consagrado para Mi nombre,  
+la expulsaré de Mi vista.  
+Así Israel será un proverbio y objeto de burla entre todos los pueblos.
+
+## 1 Reyes 9:8
+
+Y esta casa se convertirá en un montón de ruinas;  
+todo el que pase por ella se asombrará y silbará y dirá,  
+‘¿Por qué ha hecho el Señor tal cosa a esta tierra y a esta casa?’
+
+## 1 Reyes 9:9
+
+Y dirán,  
+‘Porque abandonaron al Señor su Dios,  
+que sacó a sus padres de la tierra de Egipto,  
+y adoptaron otros dioses y los adoraron y los sirvieron;  
+por eso el Señor ha traído toda esta adversidad sobre ellos.’”
+
+---
+
+## 1 Reyes 9:10
+
+Al cabo de veinte años,  
+durante los cuales Salomón había construido las dos casas,  
+la casa del Señor y la casa del rey,
+
+## 1 Reyes 9:11
+
+como Hiram, rey de Tiro, había suministrado a Salomón madera de cedro y ciprés y oro  
+según todos sus deseos,  
+el rey Salomón dio a Hiram veinte ciudades en la tierra de Galilea.
+
+## 1 Reyes 9:12
+
+Así que Hiram vino de Tiro para ver las ciudades que Salomón le había dado,  
+pero no le agradaron.
+
+## 1 Reyes 9:13
+
+Y dijo, “¿Qué son estas ciudades que me has dado, hermano mío?”  
+Así que las llamó la tierra de Cabul hasta el día de hoy.
+
+## 1 Reyes 9:14
+
+Y Hiram envió al rey ciento veinte talentos de oro.
+
+---
+
+## 1 Reyes 9:15
+
+Ahora bien, este es el relato del trabajo forzado  
+que el rey Salomón reclutó para construir la casa del Señor,  
+su propia casa, el Milo, la muralla de Jerusalén,  
+Hazor, Meguido y Gezer.
+
+## 1 Reyes 9:16
+
+El faraón, rey de Egipto, había subido y capturado Gezer,  
+y la había quemado con fuego,  
+y había matado a los cananeos que vivían en la ciudad,  
+y la había dado como dote a su hija, la esposa de Salomón.
+
+## 1 Reyes 9:17
+
+Así Salomón reconstruyó Gezer,  
+y Bet-horón la Baja,
+
+## 1 Reyes 9:18
+
+Baalat y Tamar en la región desértica de Judá,
+
+## 1 Reyes 9:19
+
+y todas las ciudades de almacenamiento que Salomón tenía,  
+las ciudades para sus carros y para sus jinetes,  
+y todo lo que complacía a Salomón construir en Jerusalén, en el Líbano,  
+y en toda la tierra bajo su dominio.
+
+---
+
+## 1 Reyes 9:20
+
+En cuanto a la gente que quedaba de los amorreos, los hititas, los ferezeos,  
+los heveos y los jebuseos, que no eran de los hijos de Israel,
+
+## 1 Reyes 9:21
+
+sus descendientes que quedaron después de ellos en la tierra,  
+a quienes los hijos de Israel no pudieron eliminar completamente,  
+Salomón les impuso trabajo forzado hasta el día de hoy.
+
+## 1 Reyes 9:22
+
+Pero Salomón no hizo esclavos de los hijos de Israel;  
+eran hombres de guerra, sus siervos, sus comandantes, sus capitanes,  
+comandantes de carros y sus jinetes.
+
+## 1 Reyes 9:23
+
+Estos eran los oficiales principales que estaban sobre el trabajo de Salomón, quinientos cincuenta en número,  
+que supervisaban al pueblo que hacía el trabajo.
+
+---
+
+## 1 Reyes 9:24
+
+Cuando la hija del faraón subió de la ciudad de David a su casa  
+que Salomón había construido para ella,  
+entonces construyó el Milo.
+
+## 1 Reyes 9:25
+
+Ahora bien, tres veces al año Salomón ofrecía holocaustos y ofrendas de paz  
+en el altar que había construido al Señor,  
+quemando incienso con ellas en el altar que estaba delante del Señor.  
+Así terminó la casa.
+
+---
+
+## 1 Reyes 9:26
+
+El rey Salomón también construyó una flota de barcos en Ezión-geber,  
+que está cerca de Elot en la orilla del Mar Rojo, en la tierra de Edom.
+
+## 1 Reyes 9:27
+
+Y Hiram envió a sus siervos con la flota,  
+marineros que conocían el mar,  
+junto con los siervos de Salomón.
+
+## 1 Reyes 9:28
+
+Viajaron a Ofir y adquirieron de allí cuatrocientos veinte talentos de oro,  
+y lo trajeron al rey Salomón.

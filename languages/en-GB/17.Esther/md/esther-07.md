@@ -1,0 +1,49 @@
+# Esther Chapter 7
+
+## Esther 7:1
+
+The king and Haman went to drink wine with Queen Esther.
+
+## Esther 7:2
+
+On the second day, as they drank wine at the banquet, the king asked, “Queen Esther, what is your petition? It shall be granted to you. And what is your request? Even up to half the kingdom, it shall be fulfilled.”
+
+---
+
+## Esther 7:3
+
+Queen Esther replied, “If I have found favour in your sight, O king, and if it pleases you, grant me my life—this is my petition. And spare my people—this is my request.
+
+## Esther 7:4
+
+For my people and I have been sold to be destroyed, killed, and annihilated. If we had merely been sold as slaves, men and women, I would have remained silent, because such distress would not justify troubling the king.”
+
+## Esther 7:5
+
+King Ahasuerus asked Queen Esther, “Who is he, and where is he, who has dared to do such a thing?”
+
+## Esther 7:6
+
+Esther said, “An adversary and enemy! This wicked Haman!” Then Haman was terrified before the king and queen.
+
+## Esther 7:7
+
+The king rose in anger from the wine and went into the palace garden. But Haman, realising that the king had determined harm against him, stayed behind to beg Queen Esther for his life.
+
+---
+
+## Esther 7:8
+
+When the king returned from the palace garden to the place of the banquet, Haman was falling on the couch where Esther was. The king exclaimed, “Will he even assault the queen while I am in the house?” As the words left the king’s mouth, they covered Haman’s face.
+
+## Esther 7:9
+
+Then Harbonah, one of the eunuchs attending the king, said, “Look, a gallows fifty cubits high stands at Haman’s house. He had it made for Mordecai, who spoke up to help the king.”
+
+---
+
+The king said, “Hang him on it!”
+
+## Esther 7:10
+
+So they hanged Haman on the gallows he had prepared for Mordecai. Then the king’s anger subsided.

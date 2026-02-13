@@ -1,0 +1,315 @@
+{
+    "book": "Luke",
+    "chapter": 20,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "On a certain day, as Jesus was teaching the people in the temple courts and preaching the gospel, the chief priests and the scribes, along with the elders, approached Him."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "They spoke to Him, saying, “Tell us by what authority You are doing these things, or who is the one who gave You this authority?”"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "He responded to them, “I will also ask you something. Let me know:"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Was John’s baptism from heaven, or from men?”"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "They reasoned among themselves, saying, “If we say, ‘From heaven,’ He will ask, ‘Why did you not believe him?’"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "However, if we claim, ‘From men,’ the people will stone us, for they are convinced that John was a prophet.”"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "So they replied that they did not know where it was from."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Jesus replied, “Then neither will I tell you by what authority I do these things.”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Then He began to tell the people this parable: “A man planted a vineyard, leased it to some farmers, and went on a long journey."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "At harvest time, he sent a servant to the tenants so that they might give him some of the fruit of the vineyard. But the tenants beat him and sent him away empty-handed."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "He sent another servant, but they also beat him and treated him shamefully, sending him away empty-handed."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "He sent a third, and this one too they wounded and threw out."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Then the owner of the vineyard pondered, ‘What shall I do? I will send my dear son; perhaps they will show him respect.’"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "But when the tenants saw him, they conferred among themselves, saying, ‘This is the heir; let us kill him, so that the inheritance may be ours.’"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "So they cast him out of the vineyard and killed him. What, then, will the owner of the vineyard do to them?"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "He will come and deal with those tenants and give the vineyard to others.” When the people heard this, they said, “May it never be!”"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Jesus looked directly at them and said, “Then what is the meaning of that which is written:",
+                "> ‘The stone which the builders rejected",
+                "> has become the chief cornerstone’?"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Everyone who stumbles over that stone will be broken; but on whomever it falls, it will crush him.”"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "The scribes and the chief priests sought to lay hands on Him at that very hour, but they feared the people, for they understood that He had spoken this parable against them."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "So they kept a close watch on Him, and sent spies who pretended to be righteous, in order to catch Him in some statement, so they could hand Him over to the jurisdiction and authority of the governor."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "The spies questioned Him, saying, “Teacher, we know that You speak and teach rightly, and You do not show partiality, but teach the way of God in truth."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Is it then right for us to pay taxes to Caesar?”"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "But He, aware of their cunning, said to them,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "“Show Me a denarius. Whose image and inscription does it have?” They replied, “Caesar’s.”"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "He replied, “Then give back to Caesar what belongs to Caesar, and to God what belongs to God.”"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "They were unable to trap Him in what He said in public, and marvelling at His answer, they fell silent."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Some of the Sadducees, who say there is no resurrection, came to Him with a question."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "“Teacher,” they said, “Moses instructed us that if a man’s brother dies and leaves a wife but no children, the man must marry the widow and raise up offspring for his brother."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Now there were seven brothers. The first one married a woman and died without children."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Then the second married her, and died"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "and then the third married her, and died and so it was with all the other brothers, until all seven died, leaving no children."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Lastly, the woman, she also died."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Now then, at the resurrection whose wife will she be, since all seven were married to her?”"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Jesus replied, “The people of this world marry and are given in marriage."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "But those who are considered worthy of taking part in the age to come and in the resurrection from the dead neither marry nor are given in marriage,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "and they can no longer die; for they are like the angels. They are God’s children, being children of the resurrection."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "But in the account of the burning bush, even Moses demonstrated that the dead rise, for he refers to the Lord as ‘the God of Abraham, and the God of Isaac, and the God of Jacob.’"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "He is the God not of the dead, but of the living, for in His sight all are alive.”"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Some of the scribes responded, “Well said, Teacher!”"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "And they did not dare to question Him any longer about anything."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Then He said to them, “Why is it said that the Messiah is the son of David?"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "David himself states in the Book of Psalms: ‘The Lord said to my Lord: “Sit at My right hand"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "until I make Your enemies a footstool beneath Your feet.”’"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "David refers to Him as ‘Lord.’ How then can He be his son?”"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "As all the people were listening, He said to His disciples,"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "“Beware of the scribes, who like to walk around in long robes, and love greetings in the marketplaces, and the best seats in the synagogues and places of honour at banquets."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "They devour widows’ houses and for a show make lengthy prayers. These men will receive greater condemnation.”"
+            ]
+        }
+    ]
+}

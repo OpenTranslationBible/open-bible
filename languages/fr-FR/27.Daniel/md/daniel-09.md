@@ -1,0 +1,82 @@
+# Daniel Chapitre 9
+
+## Daniel 9:1
+La première année de Darius, fils d'Assuérus, de la race des Mèdes, qui fut établi roi sur le royaume des Chaldéens—
+
+## Daniel 9:2
+la première année de son règne, moi, Daniel, je compris par les livres le nombre d'années que, selon la parole de l'Éternel adressée au prophète Jérémie, devait durer la désolation de Jérusalem, c'est-à-dire soixante-dix ans.
+
+## Daniel 9:3
+Je tournai ma face vers le Seigneur Dieu, pour Le chercher par la prière et les supplications, avec jeûne, sac et cendre.
+
+## Daniel 9:4
+Je priai l'Éternel, mon Dieu, et je fis cette confession: “Seigneur, Dieu grand et redoutable, Toi qui gardes Ton alliance et Ta bonté envers ceux qui T'aiment et qui observent Tes commandements,
+
+## Daniel 9:5
+nous avons péché, nous avons commis l'iniquité, nous avons été méchants et rebelles, nous nous sommes détournés de Tes commandements et de Tes ordonnances.
+
+## Daniel 9:6
+Nous n'avons pas écouté Tes serviteurs, les prophètes, qui ont parlé en Ton nom à nos rois, à nos chefs, à nos pères, et à tout le peuple du pays.
+
+## Daniel 9:7
+“A Toi, Seigneur, est la justice, et à nous la confusion de face, comme cela paraît aujourd'hui, aux hommes de Juda, aux habitants de Jérusalem, et à tout Israël, ceux qui sont près et ceux qui sont loin, dans tous les pays où Tu les as chassés, à cause des infidélités qu'ils ont commises envers Toi.
+
+## Daniel 9:8
+Seigneur, à nous la confusion de face, à nos rois, à nos chefs, et à nos pères, parce que nous avons péché contre Toi.
+
+## Daniel 9:9
+Auprès du Seigneur, notre Dieu, sont la miséricorde et le pardon, car nous avons été rebelles envers Lui;
+
+## Daniel 9:10
+et nous n'avons pas obéi à la voix de l'Éternel, notre Dieu, pour suivre Ses lois qu'Il avait mises devant nous par Ses serviteurs, les prophètes.
+
+## Daniel 9:11
+Tout Israël a transgressé Ta loi, et s'est détourné pour ne pas écouter Ta voix. Aussi la malédiction et le serment qui sont écrits dans la loi de Moïse, serviteur de Dieu, se sont répandus sur nous, parce que nous avons péché contre Lui.
+
+## Daniel 9:12
+Il a accompli les paroles qu'Il avait prononcées contre nous et contre nos chefs qui nous ont gouvernés, en faisant venir sur nous un grand malheur; car sous le ciel entier il n'est rien arrivé de semblable à ce qui est arrivé à Jérusalem.
+
+## Daniel 9:13
+Comme cela est écrit dans la loi de Moïse, tout ce malheur est venu sur nous; et nous n'avons pas imploré la faveur de l'Éternel, notre Dieu, en nous détournant de nos iniquités et en prêtant attention à Ta vérité.
+
+## Daniel 9:14
+L'Éternel a veillé sur ce malheur, et l'a fait venir sur nous; car l'Éternel, notre Dieu, est juste dans toutes les œuvres qu'Il a faites, mais nous n'avons pas écouté Sa voix.
+
+## Daniel 9:15
+“Et maintenant, Seigneur, notre Dieu, qui a fait sortir Ton peuple du pays d'Égypte par Ta main puissante, et qui T'es fait un nom comme il l'est aujourd'hui, nous avons péché, nous avons été méchants.
+
+## Daniel 9:16
+Seigneur, selon toutes Tes œuvres de justice, que Ta colère et Ta fureur se détournent de Ta ville de Jérusalem, Ta montagne sainte; car à cause de nos péchés et des iniquités de nos pères, Jérusalem et Ton peuple sont en opprobre à tous ceux qui nous entourent.
+
+## Daniel 9:17
+“Maintenant donc, ô notre Dieu, écoute la prière de Ton serviteur et ses supplications, et pour l'amour du Seigneur, fais briller Ta face sur Ton sanctuaire dévasté.
+
+## Daniel 9:18
+Mon Dieu, prête l'oreille et écoute; ouvre les yeux et regarde nos désolations, et la ville sur laquelle Ton nom est invoqué. Car ce n'est pas à cause de notre justice que nous Te présentons nos supplications, mais à cause de Tes grandes compassions.
+
+## Daniel 9:19
+Seigneur, écoute! Seigneur, pardonne! Seigneur, sois attentif et agis! Ne tarde pas, à cause de Toi-même, mon Dieu, car Ton nom est invoqué sur Ta ville et sur Ton peuple.”
+
+## Daniel 9:20
+Je parlais encore, je priais, je confessais mon péché et le péché de mon peuple d'Israël, et je présentais ma supplication devant l'Éternel, mon Dieu, en faveur de la sainte montagne de mon Dieu—
+
+## Daniel 9:21
+je parlais encore dans ma prière, quand l'homme Gabriel, que j'avais vu précédemment dans une vision, s'approcha de moi d'un vol rapide, au moment de l'offrande du soir.
+
+## Daniel 9:22
+Il m'instruisit, et s'entretint avec moi, et il me dit: “Daniel, je suis venu maintenant pour te donner de l'intelligence et de la compréhension.
+
+## Daniel 9:23
+Au commencement de tes supplications, une parole est sortie, et je viens pour te l'annoncer, car tu es un bien-aimé. Sois attentif à la parole, et comprends la vision:
+
+## Daniel 9:24
+“Septante semaines ont été fixées sur ton peuple et sur ta ville sainte, pour faire cesser la transgression, pour mettre fin au péché, pour expier l'iniquité, pour amener la justice éternelle, pour sceller la vision et le prophète, et pour oindre le Saint des Saints.
+
+## Daniel 9:25
+Sache-le donc, et comprends! Depuis le moment où la parole a annoncé que Jérusalem sera rebâtie jusqu'à l'Oint, le Conducteur, il y a sept semaines et soixante-deux semaines; les places et les fossés seront rétablis, mais en des temps fâcheux.
+
+## Daniel 9:26
+Après les soixante-deux semaines, un Oint sera retranché, et il n'aura pas de successeur. Le peuple d'un chef qui viendra détruira la ville et le sanctuaire, et sa fin arrivera comme par une inondation; il est arrêté que les dévastations dureront jusqu'au terme de la guerre.
+
+## Daniel 9:27
+Il fera une solide alliance avec plusieurs pour une semaine, et au milieu de la semaine il fera cesser le sacrifice et l'offrande; le dévastateur commettra les choses les plus abominables, jusqu'à ce que la ruine et ce qui a été résolu fondent sur le dévastateur.”

@@ -1,0 +1,64 @@
+{
+    "book": "Salmos",
+    "chapter": 13,
+    "verses": [
+        {
+            "text": [
+                "Para el director de música. Un Salmo de David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> ¿Hasta cuándo, Señor? ¿Me olvidarás para siempre?",
+                "> ¿Hasta cuándo esconderás Tu rostro de mí?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> ¿Hasta cuándo llevaré esta preocupación en mi alma,",
+                "> Con tristeza en mi corazón todo el día?",
+                "> ¿Hasta cuándo triunfará mi enemigo sobre mí?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Mírame y respóndeme, oh Señor mi Dios;",
+                "> Ilumina mis ojos, para que no caiga en el sueño de la muerte,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Y mi enemigo declare, “He prevalecido contra él,”",
+                "> Y mis adversarios se alegren cuando yo esté inquieto."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Sin embargo, he puesto mi confianza en Tu amor inquebrantable;",
+                "> Mi corazón hallará gozo en Tu liberación."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Cantaré al Señor,",
+                "> Porque Él ha sido bondadoso conmigo."
+            ]
+        }
+    ]
+}

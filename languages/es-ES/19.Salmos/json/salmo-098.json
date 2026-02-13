@@ -1,0 +1,86 @@
+{
+    "book": "Salmos",
+    "chapter": 98,
+    "verses": [
+        {
+            "text": [
+                "Un Salmo."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Cantad al Señor un cántico nuevo,",
+                "> Porque ha hecho maravillas,",
+                "> Su diestra y su santo brazo le han dado la victoria."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> El Señor ha hecho conocer su salvación;",
+                "> Ha manifestado su justicia ante las naciones."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Se ha acordado de su misericordia y de su fidelidad hacia la casa de Israel;",
+                "> Todos los confines de la tierra han visto la salvación de nuestro Dios."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Aclamad con júbilo al Señor, toda la tierra;",
+                "> Alegraos y cantad con gozo y alabad."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Cantad alabanzas al Señor con la lira,",
+                "> Con la lira y el sonido de una melodía."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Con trompetas y el sonido del cuerno",
+                "> Regocijaos ante el Rey, el Señor."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Brame el mar y todo lo que contiene,",
+                "> El mundo y los que en él habitan."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Aplaudan los ríos con júbilo,",
+                "> Que las montañas canten de alegría"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> En la presencia del Señor, porque viene a juzgar la tierra;",
+                "> Juzgará al mundo con justicia,",
+                "> Y a los pueblos con equidad."
+            ]
+        }
+    ]
+}

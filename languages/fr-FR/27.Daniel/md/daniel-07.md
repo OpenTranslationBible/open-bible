@@ -1,0 +1,85 @@
+# Daniel Chapitre 7
+
+## Daniel 7:1
+La première année de Belshazzar, roi de Babylone, Daniel fit un rêve et des visions passèrent dans son esprit alors qu'il était couché sur son lit. Il consigna l'essence de son rêve.
+
+## Daniel 7:2
+Daniel déclara : « Dans ma vision nocturne, j'ai vu les quatre vents du ciel agiter la grande mer.
+
+## Daniel 7:3
+Quatre bêtes puissantes émergèrent de la mer, chacune distincte des autres.
+
+## Daniel 7:4
+La première bête ressemblait à un lion et avait des ailes d'aigle. J'ai regardé jusqu'à ce que ses ailes soient arrachées, et elle fut soulevée de terre pour se tenir sur deux pieds comme un homme, et elle reçut un esprit humain.
+
+## Daniel 7:5
+Puis je vis une deuxième bête, ressemblant à un ours. Elle était relevée d'un côté, et elle tenait trois côtes dans sa bouche entre ses dents. On lui dit : ‘Lève-toi, dévore beaucoup de chair !’
+
+## Daniel 7:6
+Après cela, je continuai à regarder, et il y avait une autre bête, semblable à un léopard, avec quatre ailes comme celles d'un oiseau sur son dos. Cette bête avait quatre têtes, et elle reçut la domination.
+
+## Daniel 7:7
+Dans ma vision nocturne, je vis ensuite une quatrième bête, effrayante, terrifiante et extrêmement forte. Elle avait de grandes dents de fer, et elle dévorait, brisait et piétinait ce qui restait. Elle était différente de toutes les bêtes précédentes, et elle avait dix cornes.
+
+## Daniel 7:8
+Tout en contemplant les cornes, une autre petite corne émergea parmi elles, et trois des premières cornes furent déracinées devant elle. Cette corne avait des yeux comme des yeux humains et une bouche qui parlait avec arrogance.
+
+## Daniel 7:9
+Pendant que je regardais, des trônes furent établis, et l'Ancien des Jours prit place. Son vêtement était blanc comme neige, et les cheveux de sa tête étaient comme de la laine pure. Son trône était en flammes ardentes, et ses roues étaient un feu brûlant.
+
+## Daniel 7:10
+Un fleuve de feu coulait devant Lui. Des milliers de milliers Le servaient, et dix mille fois dix mille se tenaient devant Lui. Le tribunal s'assit en jugement, et les livres furent ouverts.
+
+## Daniel 7:11
+Je continuai à observer à cause des paroles arrogantes que la corne prononçait. Je regardai jusqu'à ce que la bête soit tuée, et son corps détruit et jeté dans le feu ardent.
+
+## Daniel 7:12
+Quant aux autres bêtes, leur domination fut retirée, mais il leur fut accordé de vivre pour une certaine période de temps.
+
+## Daniel 7:13
+Dans ma vision nocturne, je vis quelqu'un semblable à un fils de l'homme venant avec les nuées du ciel. Il s'approcha de l'Ancien des Jours et fut présenté devant Lui.
+
+## Daniel 7:14
+Il lui fut donné la domination, la gloire et un royaume, afin que tous les peuples, nations et langues le servent. Sa domination est éternelle et ne passera pas, et son royaume ne sera jamais détruit.
+
+## Daniel 7:15
+Moi, Daniel, j'étais troublé en esprit, et les visions dans mon esprit m'alarmaient.
+
+## Daniel 7:16
+Je m'approchai de l'un de ceux qui se tenaient là et demandai l'interprétation de tout cela. Il m'expliqua et me fit connaître l'interprétation de ces choses :
+
+## Daniel 7:17
+‘Les quatre grandes bêtes sont quatre rois qui surgiront de la terre.
+
+## Daniel 7:18
+Mais les saints du Très-Haut recevront le royaume et le posséderont pour toujours—en effet, pour toujours et à jamais.’
+
+## Daniel 7:19
+Alors je désirai comprendre la signification de la quatrième bête, qui était différente de toutes les autres et extrêmement redoutable, avec ses dents de fer et ses griffes de bronze, qui dévorait, brisait et piétinait ce qui restait avec ses pieds.
+
+## Daniel 7:20
+Je voulais aussi savoir au sujet des dix cornes sur sa tête et de l'autre corne qui s'éleva, devant laquelle trois tombèrent—la corne qui avait des yeux et une bouche parlant avec arrogance, et qui paraissait plus imposante que les autres.
+
+## Daniel 7:21
+Pendant que je regardais, cette corne faisait la guerre aux saints et prévalait contre eux,
+
+## Daniel 7:22
+jusqu'à ce que l'Ancien des Jours vienne et que le jugement soit rendu en faveur des saints du Très-Haut, et que le temps arrive pour eux de posséder le royaume.
+
+## Daniel 7:23
+Il me donna cette explication : ‘La quatrième bête sera un quatrième royaume sur la terre, différent de tous les autres royaumes, et il dévorera toute la terre, la piétinera et l'écrasera.
+
+## Daniel 7:24
+Les dix cornes sont dix rois qui surgiront de ce royaume. Un autre roi surgira après eux, différent des précédents, et il soumettra trois rois.
+
+## Daniel 7:25
+Il parlera contre le Très-Haut et opprimera Ses saints, et il aura l'intention de changer les temps fixés et les lois. Les saints seront livrés entre ses mains pour un temps, des temps, et la moitié d'un temps.
+
+## Daniel 7:26
+Mais le tribunal s'assiéra en jugement, et sa domination sera retirée, anéantie et détruite pour toujours.
+
+## Daniel 7:27
+Alors la souveraineté, la domination et la grandeur de tous les royaumes sous le ciel seront données au peuple des saints du Très-Haut. Son royaume sera un royaume éternel, et tous les dirigeants le serviront et lui obéiront.’
+
+## Daniel 7:28
+C'est la conclusion de l'affaire. Moi, Daniel, j'étais grandement troublé par mes pensées, et mon visage devint pâle, mais je gardai l'affaire pour moi.

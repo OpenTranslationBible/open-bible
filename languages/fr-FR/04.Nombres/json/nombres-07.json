@@ -1,0 +1,540 @@
+{
+    "book": "Nombres",
+    "chapter": 7,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Le jour où Moïse eut achevé de dresser le tabernacle, il l'oignit et le consacra avec tous ses ustensiles, ainsi que l'autel et tous ses accessoires; il les oignit et les consacra aussi."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Alors les chefs d'Israël, les chefs des maisons de leurs pères, qui étaient les chefs des tribus supervisant ceux qui étaient dénombrés, firent des offrandes."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Ils apportèrent leurs offrandes devant le Seigneur : six chariots couverts et douze bœufs—un bœuf de chaque chef et un chariot de chaque deux chefs. Ils les présentèrent devant le tabernacle."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Alors le Seigneur parla à Moïse, en disant,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "“Accepte-les de leur part, afin qu'ils soient utilisés pour le service de la tente d'assignation. Distribue-les aux Lévites selon le service de chacun.”"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Ainsi, Moïse reçut les chariots et les bœufs et les distribua aux Lévites."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Il donna deux chariots et quatre bœufs aux fils de Guershon, selon leur service,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "et il donna quatre chariots et huit bœufs aux fils de Merari, selon leur service, sous la supervision d'Ithamar, fils d'Aaron le prêtre."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Mais il n'en donna pas aux fils de Kehath, parce qu'ils étaient responsables des objets sacrés, qu'ils portaient sur leurs épaules."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Les chefs apportèrent leurs offrandes pour la dédicace de l'autel lorsqu'il fut oint, les présentant devant l'autel."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Le Seigneur instruisit Moïse, “Chaque jour un chef apportera son offrande pour la dédicace de l'autel.”"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Le premier jour, Nachshon, fils d'Amminadab, de la tribu de Juda, présenta son offrande."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Son offrande consistait en un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande de Nachshon, fils d'Amminadab."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Le deuxième jour, Nethanel, fils de Tsuar, chef d'Issacar, présenta son offrande."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande de Nethanel, fils de Tsuar."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Le troisième jour, Eliab, fils de Hélon, chef du peuple de Zabulon, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Eliab, fils de Hélon."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Le quatrième jour, Elitsur, fils de Shedéur, chef du peuple de Ruben, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Elitsur, fils de Shedéur."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Le cinquième jour, Shelumiel, fils de Tsurishaddaï, chef du peuple de Siméon, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande de Shelumiel, fils de Tsurishaddaï."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Le sixième jour, Eliasaph, fils de Déuel, chef du peuple de Gad, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Eliasaph, fils de Déuel."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Le septième jour, Elishama, fils d'Ammihud, chef du peuple d'Éphraïm, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Elishama, fils d'Ammihud."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Le huitième jour, Gamaliel, fils de Pedahtsur, chef du peuple de Manassé, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande de Gamaliel, fils de Pedahtsur."
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Le neuvième jour, Abidan, fils de Guideoni, chef du peuple de Benjamin, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Abidan, fils de Guideoni."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Le dixième jour, Ahiezer, fils d'Ammishaddaï, chef du peuple de Dan, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Ahiezer, fils d'Ammishaddaï."
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "Le onzième jour, Paguiel, fils d'Okran, chef du peuple d'Aser, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 74,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 75,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 76,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 77,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande de Paguiel, fils d'Okran."
+            ]
+        },
+        {
+            "verse": 78,
+            "text": [
+                "Le douzième jour, Ahira, fils d'Enan, chef du peuple de Nephtali, apporta son offrande."
+            ]
+        },
+        {
+            "verse": 79,
+            "text": [
+                "Son offrande était un plat d'argent pesant 130 sicles et un bol d'argent pesant 70 sicles, tous deux selon le sicle du sanctuaire, remplis de fleur de farine mélangée à de l'huile comme offrande de grain;"
+            ]
+        },
+        {
+            "verse": 80,
+            "text": [
+                "une coupe d'or pesant dix sicles, remplie d'encens;"
+            ]
+        },
+        {
+            "verse": 81,
+            "text": [
+                "un jeune taureau, un bélier, et un agneau mâle d'un an pour une offrande brûlée;"
+            ]
+        },
+        {
+            "verse": 82,
+            "text": [
+                "un bouc mâle pour une offrande pour le péché;"
+            ]
+        },
+        {
+            "verse": 83,
+            "text": [
+                "et pour les offrandes de paix, deux bœufs, cinq béliers, cinq boucs mâles, et cinq agneaux mâles d'un an. C'était l'offrande d'Ahira, fils d'Enan."
+            ]
+        },
+        {
+            "verse": 84,
+            "text": [
+                "Telles furent les offrandes des chefs israélites pour la dédicace de l'autel lorsqu'il fut oint : douze plats d'argent, douze bols d'argent, et douze coupes d'or."
+            ]
+        },
+        {
+            "verse": 85,
+            "text": [
+                "Chaque plat d'argent pesait 130 sicles, et chaque bol soixante-dix sicles. Au total, l'argent de ces ustensiles pesait 2 400 sicles, selon le sicle du sanctuaire."
+            ]
+        },
+        {
+            "verse": 86,
+            "text": [
+                "Les douze coupes d'or remplies d'encens pesaient dix sicles chacune, selon le sicle du sanctuaire. Au total, l'or des coupes pesait 120 sicles."
+            ]
+        },
+        {
+            "verse": 87,
+            "text": [
+                "Le nombre total d'animaux pour l'offrande brûlée était de douze jeunes taureaux, douze béliers, et douze agneaux mâles d'un an, avec leur offrande de grain. Douze boucs mâles furent utilisés pour l'offrande pour le péché."
+            ]
+        },
+        {
+            "verse": 88,
+            "text": [
+                "Le nombre total d'animaux pour les offrandes de paix était de vingt-quatre bœufs, soixante béliers, soixante boucs mâles, et soixante agneaux mâles d'un an. Telles furent les offrandes pour la dédicace de l'autel après qu'il fut oint."
+            ]
+        },
+        {
+            "verse": 89,
+            "text": [
+                "Lorsque Moïse entra dans la tente d'assignation pour parler avec le Seigneur, il entendit la voix qui lui parlait d'au-dessus du propitiatoire sur l'arche du témoignage, d'entre les deux chérubins; ainsi le Seigneur lui parla."
+            ]
+        }
+    ]
+}

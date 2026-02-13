@@ -1,0 +1,77 @@
+# Jeremías Capítulo 1
+
+## Jeremías 1:1
+
+Las palabras de Jeremías, hijo de Hilcías, uno de los sacerdotes de Anatot en la tierra de Benjamín,
+
+## Jeremías 1:2
+
+a quien vino la palabra del Señor en los días de Josías, hijo de Amón, rey de Judá, en el año trece de su reinado.
+
+## Jeremías 1:3
+
+También vino durante el reinado de Joacim, hijo de Josías, rey de Judá, hasta el quinto mes del undécimo año de Sedequías, hijo de Josías, rey de Judá, cuando el pueblo de Jerusalén fue llevado al exilio.
+
+## Jeremías 1:4
+
+Entonces vino a mí un mensaje del Señor, diciendo:
+
+## Jeremías 1:5
+
+“Antes de formarte en el vientre te conocí, y antes de que nacieras te aparté; te nombré profeta para las naciones.”
+
+## Jeremías 1:6
+
+Entonces dije: “¡Ay, Señor Soberano! No sé hablar, porque soy joven.”
+
+## Jeremías 1:7
+
+Pero el Señor me dijo: “No digas, ‘Soy demasiado joven,’ porque irás a todos a quienes te envíe y dirás lo que te mande.
+
+## Jeremías 1:8
+
+No les temas, porque yo estoy contigo para protegerte,” declara el Señor.
+
+## Jeremías 1:9
+
+Entonces el Señor extendió Su mano y tocó mi boca y me dijo: “He puesto Mis palabras en tu boca.
+
+## Jeremías 1:10
+
+Mira, hoy te nombro sobre naciones y reinos para arrancar y desmantelar, para destruir y derrocar, para edificar y plantar.”
+
+## Jeremías 1:11
+
+La palabra del Señor vino a mí, diciendo: “¿Qué ves, Jeremías?” Y respondí: “Veo la rama de un almendro.”
+
+## Jeremías 1:12
+
+El Señor me dijo: “Has visto bien, porque estoy vigilando Mi palabra para cumplirla.”
+
+## Jeremías 1:13
+
+La palabra del Señor vino a mí por segunda vez, diciendo: “¿Qué ves?” Y dije: “Veo una olla hirviendo, inclinándose desde el norte.”
+
+## Jeremías 1:14
+
+Entonces el Señor me dijo: “Desde el norte se derramará el desastre sobre todos los que habitan en la tierra.
+
+## Jeremías 1:15
+
+Porque estoy a punto de convocar a todos los pueblos de los reinos del norte,” declara el Señor. “Sus reyes vendrán y establecerán sus tronos a la entrada de las puertas de Jerusalén; vendrán contra todos sus muros circundantes y contra todas las ciudades de Judá.
+
+## Jeremías 1:16
+
+Pronunciaré mis juicios contra ellos por su maldad al abandonarme, al quemar incienso a otros dioses y al adorar lo que sus manos han hecho.
+
+## Jeremías 1:17
+
+“¡Prepárate! Levántate y diles todo lo que te mande. No te desanimes por ellos, o te desanimaré delante de ellos.
+
+## Jeremías 1:18
+
+Hoy te he hecho como una ciudad fortificada, un pilar de hierro y un muro de bronce para resistir contra toda la tierra—contra los reyes de Judá, sus oficiales, sus sacerdotes y el pueblo de la tierra.
+
+## Jeremías 1:19
+
+Lucharán contra ti pero no te vencerán, porque yo estoy contigo para rescatarte,” declara el Señor.

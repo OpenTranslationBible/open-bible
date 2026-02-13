@@ -1,0 +1,91 @@
+# Lamentations Chapter 1
+
+## Lamentations 1:1
+
+How lonely sits the city, once teeming with people! She has become like a widow, once great among the nations. She who was a princess among the provinces has become a servant.
+
+## Lamentations 1:2
+
+She weeps bitterly in the night, her tears upon her cheeks. She has no one to comfort her among all her lovers. All her friends have dealt treacherously with her; they have turned into her enemies.
+
+## Lamentations 1:3
+
+Judah has gone into exile, suffering affliction and harsh servitude. She dwells among the nations but finds no resting place. All her pursuers have overtaken her in the midst of her distress.
+
+## Lamentations 1:4
+
+The roads to Zion mourn, for no one comes to her appointed feasts. All her gates are desolate; her priests groan, her young women are troubled, and she herself is in bitter anguish.
+
+## Lamentations 1:5
+
+Her adversaries have become her masters, her enemies live in ease. The Lord has brought her grief because of her many wrongdoings. Her children have gone into captivity, led away by the enemy.
+
+## Lamentations 1:6
+
+All the splendour has departed from Daughter Zion. Her leaders are like deer that find no pasture; they have fled without strength before the pursuer.
+
+## Lamentations 1:7
+
+In the days of her affliction and homelessness, Jerusalem remembers all the treasures that were hers in days of old. When her people fell into enemy hands, there was no one to help her. Her adversaries saw her and laughed at her downfall.
+
+## Lamentations 1:8
+
+Jerusalem has sinned greatly and has become unclean. All who honoured her despise her, for they have seen her nakedness; she herself groans and turns away.
+
+## Lamentations 1:9
+
+Her uncleanness clings to her garments; she did not consider her future. Her fall was astounding; there was no one to comfort her. “Look, Lord, on my affliction, for the enemy has triumphed.”
+
+## Lamentations 1:10
+
+The adversary has laid hands on all her precious things; she has seen the nations enter her sanctuary—those You forbade to enter Your assembly.
+
+## Lamentations 1:11
+
+All her people groan as they search for bread; they have traded their treasures for food to stay alive. “Look, Lord, and consider, for I am despised.”
+
+---
+
+## Lamentations 1:12
+
+“Is it nothing to you, all who pass by? Look and see if there is any sorrow like my sorrow, which the Lord has inflicted on me in the day of His fierce anger.
+
+## Lamentations 1:13
+
+From on high He sent fire into my bones, and it prevailed over them. He spread a net for my feet and turned me back. He has made me desolate, faint all day long.
+
+## Lamentations 1:14
+
+The yoke of my transgressions is bound by His hand; they are woven together. They have come upon my neck; He has sapped my strength. The Lord has handed me over to those I cannot withstand.
+
+## Lamentations 1:15
+
+The Lord has rejected all my mighty men; He has summoned an army against me to crush my young men. The Lord has trodden as in a winepress the Virgin Daughter of Judah.
+
+## Lamentations 1:16
+
+For these things I weep; my eyes overflow with tears. There is no one near to comfort me, no one to restore my spirit. My children are destitute because the enemy has prevailed.”
+
+## Lamentations 1:17
+
+Zion stretches out her hands, but there is no one to comfort her. The Lord has commanded concerning Jacob that his neighbours become his adversaries; Jerusalem has become a filthy thing among them.
+
+## Lamentations 1:18
+
+“The Lord is righteous, yet I have rebelled against His command. Listen, all you peoples; look upon my suffering. My young men and young women have gone into captivity.
+
+## Lamentations 1:19
+
+I called to my allies, but they betrayed me. My priests and elders perished in the city while they sought food to sustain their lives.
+
+## Lamentations 1:20
+
+See, Lord, how distressed I am! I am in torment within, and my heart is overturned, for I have been very rebellious. Outside, the sword bereaves; inside, it is like death.
+
+## Lamentations 1:21
+
+My groaning is known to all, but there is no one to comfort me. All my enemies are aware of my distress; they rejoice at what You have done. May You bring the day You have announced so they may become like me.
+
+## Lamentations 1:22
+
+Let all their wickedness come before You; deal with them as You have dealt with me for all my transgressions. My groans are many, and my heart is faint.”
