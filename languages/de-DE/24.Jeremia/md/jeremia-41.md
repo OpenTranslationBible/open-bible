@@ -1,0 +1,55 @@
+# Jeremia Kapitel 41
+
+## Jeremia 41:1
+Im siebten Monat kam Ismael, der Sohn Nethanjas, des Sohnes Elischamas, der von königlichem Geschlecht und einer der Offiziere des Königs war, mit zehn Männern zu Gedalja, dem Sohn Ahikams, nach Mizpa. Während sie dort zusammen Brot aßen,
+
+## Jeremia 41:2
+erhob sich Ismael, der Sohn Nethanjas, und die zehn Männer, die bei ihm waren, und erschlugen Gedalja, den Sohn Ahikams, des Sohnes Schafans, mit dem Schwert und töteten den, den der König von Babel über das Land als Statthalter eingesetzt hatte.
+
+## Jeremia 41:3
+Ismael tötete auch alle Juden, die bei Gedalja in Mizpa waren, sowie die chaldäischen Soldaten, die dort waren.
+
+## Jeremia 41:4
+Am Tag nach der Ermordung Gedaljas, bevor es jemand wusste,
+
+## Jeremia 41:5
+kamen achtzig Männer aus Sichem, Silo und Samaria mit geschorenen Bärten, zerrissenen Kleidern und zerschnittenen Körpern, um Speiseopfer und Weihrauch zum Haus des Herrn zu bringen.
+
+## Jeremia 41:6
+Ismael, der Sohn Nethanjas, ging von Mizpa aus, um ihnen weinend entgegenzukommen. Als er sie traf, sagte er: „Kommt zu Gedalja, dem Sohn Ahikams.“
+
+## Jeremia 41:7
+Sobald sie in die Stadt kamen, schlachteten Ismael, der Sohn Nethanjas, und die Männer bei ihm sie ab und warfen sie in eine Zisterne.
+
+## Jeremia 41:8
+Aber zehn von ihnen sagten zu Ismael: „Töte uns nicht! Wir haben Weizen, Gerste, Öl und Honig auf dem Feld versteckt.“ Da verschonte er sie und tötete sie nicht mit den anderen.
+
+## Jeremia 41:9
+Die Zisterne, in die Ismael alle Leichen der Männer geworfen hatte, die er wegen Gedalja getötet hatte, war die, die König Asa als Verteidigung gegen Baesa, den König von Israel, gebaut hatte. Ismael, der Sohn Nethanjas, füllte sie mit den Toten.
+
+## Jeremia 41:10
+Ismael nahm alle übrigen Leute, die in Mizpa waren, gefangen — die Töchter des Königs und alle anderen, die dort übrig geblieben waren, die Nebusaradan, der Hauptmann der Leibwache, unter die Obhut von Gedalja, dem Sohn Ahikams, gestellt hatte. Ismael, der Sohn Nethanjas, nahm sie gefangen und machte sich auf den Weg zu den Ammonitern.
+
+## Jeremia 41:11
+Als Johanan, der Sohn Kareachs, und alle Heerführer, die bei ihm waren, von all dem Bösen hörten, das Ismael, der Sohn Nethanjas, getan hatte,
+
+## Jeremia 41:12
+nahmen sie alle ihre Männer und zogen aus, um gegen Ismael, den Sohn Nethanjas, zu kämpfen. Sie fanden ihn in der Nähe des großen Teiches in Gibeon.
+
+## Jeremia 41:13
+Als alle Leute bei Ismael Johanan, den Sohn Kareachs, und die Heerführer bei ihm sahen, freuten sie sich sehr.
+
+## Jeremia 41:14
+Alle Leute, die Ismael aus Mizpa gefangen genommen hatte, wandten sich um und gingen zu Johanan, dem Sohn Kareachs, über.
+
+## Jeremia 41:15
+Ismael, der Sohn Nethanjas, entkam jedoch mit acht Männern vor Johanan und floh zu den Ammonitern.
+
+## Jeremia 41:16
+Dann nahmen Johanan, der Sohn Kareachs, und alle Heerführer bei ihm aus Mizpa den Rest der Leute, die er von Ismael, dem Sohn Nethanjas, zurückgewonnen hatte, nachdem er Gedalja, den Sohn Ahikams, getötet hatte — die Soldaten, Frauen, Kinder und Hofbeamten, die er aus Gibeon zurückgebracht hatte.
+
+## Jeremia 41:17
+Und sie gingen und blieben in Gerut-Kimham bei Bethlehem, mit der Absicht, nach Ägypten zu ziehen,
+
+## Jeremia 41:18
+um den Chaldäern zu entkommen. Sie fürchteten sich vor ihnen, weil Ismael, der Sohn Nethanjas, Gedalja, den Sohn Ahikams, getötet hatte, den der König von Babel über das Land als Statthalter eingesetzt hatte.

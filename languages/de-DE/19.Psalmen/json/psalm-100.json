@@ -1,0 +1,48 @@
+{
+    "book": "Psalm",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "Ein Psalm des Dankes."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Jauchzt dem Herrn zu, alle Welt."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Dient dem Herrn mit Freude;",
+                "> Kommt vor sein Angesicht mit Jubel."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Erkennt, dass der Herr Gott ist;",
+                "> Er hat uns gemacht, und nicht wir selbst;",
+                "> Wir sind sein Volk und die Herde seiner Weide."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Geht zu seinen Toren ein mit Dank,",
+                "> Zu seinen Vorhöfen mit Lobgesang.",
+                "> Dankt ihm, preist seinen Namen."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Denn der Herr ist gut;",
+                "> Seine Gnade währt ewig,",
+                "> Und seine Treue von Generation zu Generation."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "book": "Psalm",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Wohl dem Mann, der nicht wandelt im Rat der Gottlosen,",
+                "> Noch steht auf dem Weg der Sünder,",
+                "> Noch sitzt im Kreis der Spötter!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Sondern seine Freude hat am Gesetz des Herrn,",
+                "> Und über sein Gesetz nachsinnt Tag und Nacht."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Er ist wie ein Baum, gepflanzt an Wasserbächen,",
+                "> Der seine Frucht bringt zu seiner Zeit,",
+                "> Und dessen Blatt nicht verwelkt;",
+                "> Und alles, was er tut, gelingt."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> So sind die Gottlosen nicht,",
+                "> Sondern sie sind wie Spreu, die der Wind verweht."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Darum bestehen die Gottlosen nicht im Gericht,",
+                "> Noch die Sünder in der Gemeinde der Gerechten."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Denn der Herr kennt den Weg der Gerechten,",
+                "> Aber der Weg der Gottlosen führt ins Verderben."
+            ]
+        }
+    ]
+}

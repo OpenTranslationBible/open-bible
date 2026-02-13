@@ -1,0 +1,61 @@
+{
+    "book": "Psalm",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "Ein Psalm Davids."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Der Herr ist mein Hirte,",
+                "> mir wird nichts mangeln."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Er lässt mich lagern auf grünen Auen;",
+                "> Er führt mich zu stillen Wassern."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Er erquickt meine Seele;",
+                "> Er leitet mich in den Pfaden der Gerechtigkeit",
+                "> um Seines Namens willen."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Auch wenn ich wandere im Tal des Todesschattens,",
+                "> fürchte ich kein Unheil, denn Du bist bei mir;",
+                "> Dein Stecken und Dein Stab, sie trösten mich."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Du bereitest vor mir einen Tisch im Angesicht meiner Feinde;",
+                "> Du hast mein Haupt mit Öl gesalbt;",
+                "> mein Becher fließt über."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Nur Güte und Gnade werden mir folgen alle Tage meines Lebens,",
+                "> und ich werde bleiben im Haus des Herrn für immer."
+            ]
+        }
+    ]
+}

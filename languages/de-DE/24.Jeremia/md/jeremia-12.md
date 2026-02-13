@@ -1,0 +1,52 @@
+# Jeremia Kapitel 12
+
+## Jeremia 12:1
+Du bist gerecht, o Herr, wenn ich meinen Fall vor dich bringe; dennoch möchte ich mit dir über Fragen der Gerechtigkeit sprechen: Warum gedeiht der Weg der Gottlosen? Warum leben die, die Verrat üben, in Ruhe?
+
+## Jeremia 12:2
+Du hast sie gepflanzt, und sie haben Wurzeln geschlagen; sie wachsen und bringen Frucht. Du bist nahe an ihren Lippen, aber fern von ihren Herzen.
+
+## Jeremia 12:3
+Aber du kennst mich, Herr; du siehst mich und prüfst die Haltung meines Herzens dir gegenüber. Ziehe sie weg wie Schafe zur Schlachtung und setze sie für den Tag der Schlachtung auseinander!
+
+## Jeremia 12:4
+Wie lange wird das Land trauern und das Gras auf jedem Feld verdorren? Wegen der Bosheit derer, die darin wohnen, sind die Tiere und Vögel umgekommen. Denn die Leute sagen: „Er wird unser Ende nicht sehen.“
+
+## Jeremia 12:5
+„Wenn du mit Männern zu Fuß gelaufen bist und sie dich ermüdet haben, wie kannst du mit Pferden wetteifern? Wenn du in einem Land des Friedens stolperst, wie wirst du in den Dickichten am Jordan zurechtkommen?
+
+## Jeremia 12:6
+Sogar deine Brüder und das Haus deines Vaters, sogar sie haben dich verraten; sie haben ein lautes Geschrei gegen dich erhoben. Vertraue ihnen nicht, auch wenn sie freundlich zu dir sprechen.“
+
+## Jeremia 12:7
+„Ich habe mein Haus verlassen, ich habe mein Erbe aufgegeben; ich habe die Geliebte meiner Seele in die Hände ihrer Feinde gegeben.
+
+## Jeremia 12:8
+Mein Erbe ist mir geworden wie ein Löwe im Wald; sie brüllt gegen mich; deshalb habe ich sie gehasst.
+
+## Jeremia 12:9
+Ist mein Erbe für mich wie ein gesprenkelter Raubvogel? Sind andere Raubvögel um sie herum und greifen sie an? Geht, sammelt alle wilden Tiere; bringt sie herbei, um zu verschlingen.
+
+## Jeremia 12:10
+Viele Hirten haben meinen Weinberg ruiniert, sie haben mein Feld niedergetrampelt; sie haben mein angenehmes Feld in eine öde Wüste verwandelt.
+
+## Jeremia 12:11
+Es ist ein Ödland geworden, ausgedörrt und öde vor mir; das ganze Land ist verwüstet, weil niemand es zu Herzen nimmt.
+
+## Jeremia 12:12
+Auf allen kahlen Höhen in der Wüste sind Zerstörer gekommen, denn das Schwert des Herrn frisst von einem Ende des Landes bis zum anderen; es gibt keinen Frieden für irgendjemanden.
+
+## Jeremia 12:13
+Sie haben Weizen gesät, aber Dornen geerntet; sie haben sich abgemüht, aber nichts gewonnen. Schämt euch eurer Ernte wegen des heftigen Zorns des Herrn.“
+
+## Jeremia 12:14
+Dies sagt der Herr über alle meine bösen Nachbarn, die das Erbe schädigen, das ich meinem Volk Israel gegeben habe: „Siehe, ich werde sie aus ihrem Land ausreißen, und ich werde das Haus Juda aus ihrer Mitte ausreißen.
+
+## Jeremia 12:15
+Doch nachdem ich sie ausgerissen habe, werde ich wieder Mitleid haben und jeden von ihnen in sein eigenes Erbe und in sein eigenes Land zurückbringen.
+
+## Jeremia 12:16
+Und wenn sie wahrhaftig die Wege meines Volkes lernen und bei meinem Namen schwören: ‚So wahr der Herr lebt‘—so wie sie einst mein Volk lehrten, bei Baal zu schwören—dann werden sie unter meinem Volk gefestigt werden.
+
+## Jeremia 12:17
+Wenn sie aber nicht gehorchen, werde ich diese Nation gründlich ausreißen und ein Ende mit ihr machen“, spricht der Herr.

@@ -1,0 +1,342 @@
+{
+    "book": "Numeri",
+    "chapter": 33,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Dies sind die Etappen der Reise der Israeliten, durch die sie aus dem Land Ägypten in ihren Abteilungen auszogen, unter der Führung von Mose und Aaron."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Auf Befehl des Herrn zeichnete Mose ihre Ausgangspunkte entsprechend ihren Reisen auf. Dies sind ihre Reisen nach Etappen:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Die Israeliten brachen von Rameses im ersten Monat, am fünfzehnten Tag des ersten Monats, am Tag nach dem Passah auf. Sie zogen kühn vor den Augen aller Ägypter aus,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "während die Ägypter alle ihre Erstgeborenen begruben, die der Herr unter ihnen niedergeschlagen hatte; denn der Herr hatte Urteile gegen ihre Götter vollstreckt."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Die Israeliten zogen von Rameses aus und lagerten sich in Sukkot."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Sie zogen von Sukkot aus und lagerten sich in Etam, am Rand der Wüste."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Sie zogen von Etam aus und kehrten nach Pi-Hahirot zurück, das östlich von Baal-Zephon liegt, und lagerten sich vor Migdol."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Sie zogen von Pi-Hahirot aus und gingen mitten durch das Meer in die Wüste, und nachdem sie drei Tage in der Wüste Etam gereist waren, lagerten sie sich in Mara."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Sie zogen von Mara aus und kamen nach Elim, wo es zwölf Quellen und siebzig Palmen gab, und sie lagerten sich dort."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Von Elim aus reisten sie und lagerten sich am Roten Meer."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Sie zogen vom Roten Meer aus und lagerten sich in der Wüste Sin."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Sie zogen von der Wüste Sin aus und lagerten sich in Dophka."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Von Dophka aus reisten sie und lagerten sich in Alusch."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Sie zogen von Alusch aus und lagerten sich in Rephidim, wo es kein Wasser für das Volk zu trinken gab."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Sie zogen von Rephidim aus und lagerten sich in der Wüste Sinai."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Sie zogen von der Wüste Sinai aus und lagerten sich in Kibrot-Hattaawa."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Sie zogen von Kibrot-Hattaawa aus und lagerten sich in Hazerot."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Von Hazerot aus reisten sie und lagerten sich in Ritma."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Sie zogen von Ritma aus und lagerten sich in Rimmon-Perez."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Sie zogen von Rimmon-Perez aus und lagerten sich in Libna."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Von Libna aus reisten sie und lagerten sich in Rissa."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Von Rissa aus reisten sie und lagerten sich in Kehelata."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Von Kehelata aus reisten sie und lagerten sich am Berg Schepher."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Vom Berg Schepher aus reisten sie und lagerten sich in Harada."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Von Harada aus reisten sie und lagerten sich in Makhelot."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Von Makhelot aus reisten sie und lagerten sich in Tahat."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Von Tahat aus reisten sie und lagerten sich in Tera."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Von Tera aus reisten sie und lagerten sich in Mitka."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Von Mitka aus reisten sie und lagerten sich in Haschmona."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Von Haschmona aus reisten sie und lagerten sich in Moserot."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Sie zogen von Moserot aus und lagerten sich in Bene-Jaakan."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Sie zogen von Bene-Jaakan aus und lagerten sich in Hor-Haggidgad."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Sie zogen von Hor-Haggidgad aus und lagerten sich in Jotbata."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Von Jotbata aus reisten sie und lagerten sich in Abrona."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Sie zogen von Abrona aus und lagerten sich in Ezjon-Geber."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Sie zogen von Ezjon-Geber aus und lagerten sich in Kadesch, in der Wüste Zin."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Sie zogen von Kadesch aus und lagerten sich am Berg Hor, am Rand des Landes Edom."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Auf Befehl des Herrn stieg Aaron, der Priester, auf den Berg Hor, wo er im vierzigsten Jahr nach dem Auszug der Israeliten aus Ägypten, am ersten Tag des fünften Monats, starb."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Aaron war hundertdreiundzwanzig Jahre alt, als er auf dem Berg Hor starb."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Nun hörte der Kanaaniterkönig von Arad, der im Negev von Kanaan wohnte, von der Ankunft der Israeliten."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Sie zogen vom Berg Hor aus und lagerten sich in Zalmonah."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Von Zalmonah aus reisten sie und lagerten sich in Punon."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Von Punon aus reisten sie und lagerten sich in Obot."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Sie zogen von Obot aus und lagerten sich in Ije-Abarim, an der Grenze von Moab."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Sie zogen von Ije-Abarim aus und lagerten sich in Dibon-Gad."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Sie zogen von Dibon-Gad aus und lagerten sich in Almon-Diblataim."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Sie zogen von Almon-Diblataim aus und lagerten sich in den Bergen von Abarim, in der Nähe von Nebo."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Sie zogen von den Bergen von Abarim aus und lagerten sich in den Ebenen von Moab am Jordan gegenüber von Jericho."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "In den Ebenen von Moab lagerten sie sich entlang des Jordan von Beth-Jeschimot bis Abel-Schittim."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Dann sprach der Herr zu Mose in den Ebenen von Moab am Jordan gegenüber von Jericho:"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "„Weise die Israeliten an: ‚Wenn ihr den Jordan in das Land Kanaan überquert,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "sollt ihr alle Bewohner des Landes vor euch vertreiben, alle ihre geschnitzten Bilder zerstören, alle ihre gegossenen Götzen vernichten und alle ihre Höhen zerstören."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Ihr sollt das Land besitzen und es zu eurem Zuhause machen, denn ich habe euch das Land gegeben, damit ihr darin wohnt."
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Ihr sollt das Land durch das Los nach euren Sippen verteilen. Einer größeren Gruppe gebt ein größeres Erbe, und einer kleineren Gruppe ein kleineres. Was ihnen durch das Los zufällt, wird ihnen gehören. Ihr sollt es nach euren Stammesvätern verteilen."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Wenn ihr aber die Bewohner des Landes nicht vor euch vertreibt, werden die, die ihr übrig lasst, zu Stacheln in euren Augen und Dornen in euren Seiten werden, und sie werden euch in dem Land bedrängen, in dem ihr wohnen werdet."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Und was ich ihnen zu tun gedenke, werde ich euch antun.‘“"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,360 @@
+{
+    "book": "3. Mose",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Der Herr sprach zu Mose:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "„Wenn ein Mensch an seiner Haut eine Schwellung, einen Ausschlag oder einen hellen Fleck hat, und es wird zu einer möglichen Infektion von Aussatz, dann muss er zu Aaron, dem Priester, oder zu einem seiner Söhne, die Priester sind, gebracht werden."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Der Priester soll die infizierte Stelle auf der Haut untersuchen, und wenn das Haar in der Infektion weiß geworden ist und die Infektion tiefer als die Haut erscheint, ist es Aussatz. Wenn der Priester sie untersucht, soll er sie für unrein erklären."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Wenn der helle Fleck weiß auf der Haut ist und nicht tiefer als die Haut erscheint und das Haar nicht weiß geworden ist, soll der Priester die Person für sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Am siebten Tag soll der Priester sie untersuchen, und wenn die Infektion sich nicht verändert hat und sich nicht auf der Haut ausgebreitet hat, soll der Priester sie für weitere sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Der Priester soll sie am siebten Tag erneut untersuchen, und wenn die Infektion verblasst ist und sich nicht ausgebreitet hat, soll der Priester sie für rein erklären; es ist nur ein Ausschlag. Sie müssen ihre Kleider waschen und werden rein sein."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Wenn sich der Ausschlag jedoch auf der Haut ausbreitet, nachdem sie sich dem Priester zur Reinigung gezeigt haben, müssen sie erneut vor den Priester treten."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Der Priester soll sie untersuchen, und wenn sich der Ausschlag ausgebreitet hat, soll er sie für unrein erklären; es ist Aussatz."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "„Wenn ein Mensch eine Infektion von Aussatz hat, muss er zum Priester gebracht werden."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Der Priester soll sie untersuchen, und wenn es eine weiße Schwellung auf der Haut gibt, die das Haar weiß gemacht hat, und es rohes Fleisch in der Schwellung gibt,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "ist es ein chronischer Aussatz auf der Haut, und der Priester soll sie für unrein erklären. Sie müssen nicht isoliert werden, denn sie sind bereits unrein."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Wenn sich der Aussatz über die Haut ausbreitet und den ganzen Körper von Kopf bis Fuß bedeckt, soweit der Priester sehen kann,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "soll der Priester sie untersuchen, und wenn der Aussatz ihren ganzen Körper bedeckt hat, soll er sie für rein erklären. Da alles weiß geworden ist, sind sie rein."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Aber wann immer rohes Fleisch an ihnen erscheint, sollen sie unrein sein."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Wenn der Priester das rohe Fleisch sieht, soll er sie für unrein erklären; das rohe Fleisch ist unrein, es ist Aussatz."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Wenn sich das rohe Fleisch verändert und weiß wird, müssen sie sich dem Priester vorstellen."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Der Priester soll sie untersuchen, und wenn die infizierte Stelle weiß geworden ist, soll der Priester sie für rein erklären; sie sind rein."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "„Wenn es ein Geschwür auf der Haut gibt und es heilt,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "und an der Stelle des Geschwürs eine weiße Schwellung oder ein rötlich-weißer heller Fleck entsteht, müssen sie sich dem Priester vorstellen."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Der Priester soll es untersuchen, und wenn es tiefer als die Haut erscheint und das Haar weiß geworden ist, soll der Priester sie für unrein erklären; es ist Aussatz, der im Geschwür ausgebrochen ist."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Aber wenn der Priester es untersucht und es kein weißes Haar gibt und es nicht tiefer als die Haut ist und verblasst ist, soll der Priester sie für sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Wenn es sich auf der Haut ausbreitet, soll der Priester sie für unrein erklären; es ist eine Infektion."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Aber wenn der helle Fleck unverändert bleibt und sich nicht ausgebreitet hat, ist es nur die Narbe des Geschwürs, und der Priester soll sie für rein erklären."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "„Wenn es eine Verbrennung auf der Haut gibt und das rohe Fleisch der Verbrennung zu einem hellen Fleck wird, rötlich-weiß oder weiß,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "soll der Priester den Fleck untersuchen, und wenn das Haar im hellen Fleck weiß geworden ist und es tiefer als die Haut erscheint, ist es Aussatz, der in der Verbrennung ausgebrochen ist. Der Priester soll sie für unrein erklären; es ist eine Infektion von Aussatz."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Aber wenn der Priester es untersucht und es kein weißes Haar gibt und es nicht tiefer als die Haut ist und schwach ist, soll der Priester sie für sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Am siebten Tag soll der Priester sie untersuchen, und wenn es sich auf der Haut ausbreitet, soll der Priester sie für unrein erklären; es ist eine Infektion von Aussatz."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Aber wenn der helle Fleck unverändert bleibt und sich nicht auf der Haut ausgebreitet hat und schwach ist, ist es die Schwellung von der Verbrennung, und der Priester soll sie für rein erklären; es ist nur die Narbe der Verbrennung."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "„Wenn ein Mann oder eine Frau eine Infektion am Kopf oder am Bart hat,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "soll der Priester die Infektion untersuchen, und wenn sie tiefer als die Haut erscheint und es dünnes gelbliches Haar gibt, soll der Priester sie für unrein erklären; es ist eine Schuppe, es ist Aussatz des Kopfes oder Bartes."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Aber wenn der Priester die schuppige Infektion untersucht und sie nicht tiefer als die Haut erscheint und es kein schwarzes Haar gibt, soll der Priester sie für sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Am siebten Tag soll der Priester die Infektion untersuchen, und wenn die Schuppe sich nicht ausgebreitet hat und kein gelbliches Haar gewachsen ist und sie nicht tiefer als die Haut erscheint,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "müssen sie sich rasieren, außer dem betroffenen Bereich, und der Priester soll sie für weitere sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Am siebten Tag soll der Priester die Schuppe untersuchen, und wenn sie sich nicht ausgebreitet hat und nicht tiefer als die Haut erscheint, soll der Priester sie für rein erklären. Sie müssen ihre Kleider waschen und werden rein sein."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Aber wenn sich die Schuppe auf der Haut ausbreitet, nachdem sie für rein erklärt wurden,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "soll der Priester sie untersuchen, und wenn sich die Schuppe ausgebreitet hat, braucht er nicht nach gelblichem Haar zu suchen; sie sind unrein."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Wenn die Schuppe unverändert bleibt und schwarzes Haar darin gewachsen ist, ist die Schuppe geheilt, und sie sind rein; der Priester soll sie für rein erklären."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "„Wenn ein Mann oder eine Frau helle Flecken auf der Haut hat, weiße helle Flecken,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "soll der Priester sie untersuchen, und wenn die hellen Flecken schwach weiß sind, ist es ein Ekzem, das auf der Haut ausgebrochen ist; sie sind rein."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "„Wenn ein Mann das Haar seines Kopfes verliert, ist er kahl, aber rein."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Wenn er Haare von der Vorderseite und den Seiten seiner Kopfhaut verliert, ist er auf der Stirn kahl, aber rein."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Aber wenn auf dem kahlen Kopf oder der Stirn eine rötlich-weiße Infektion ist, ist es Aussatz, der auf seinem kahlen Kopf oder seiner Stirn ausbricht."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Der Priester soll ihn untersuchen, und wenn die Schwellung der Infektion rötlich-weiß auf seinem kahlen Kopf oder seiner Stirn ist, wie das Aussehen von Aussatz auf der Haut,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "ist er ein aussätziger Mann und unrein. Der Priester muss ihn wegen der Infektion auf seinem Kopf für unrein erklären."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "„Eine Person mit einer solchen Infektion muss zerrissene Kleider tragen, ihr Haar ungekämmt lassen, den unteren Teil ihres Gesichts bedecken und rufen: ‚Unrein! Unrein!‘"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Sie müssen unrein bleiben, solange sie die Infektion haben. Sie müssen allein außerhalb des Lagers leben."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "„Wenn ein Kleidungsstück ein Zeichen von Aussatz hat, sei es ein wollenes oder leinenes Kleidungsstück,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "sei es in Kette oder Schuss, aus Leinen oder Wolle, oder in Leder oder einem Artikel aus Leder,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "wenn das Zeichen grünlich oder rötlich im Kleidungsstück oder Leder ist, sei es in Kette oder Schuss, oder in einem Lederartikel, ist es ein aussätziges Zeichen und muss dem Priester gezeigt werden."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Der Priester soll das Zeichen untersuchen und den Artikel für sieben Tage isolieren."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Am siebten Tag soll er das Zeichen untersuchen, und wenn es sich im Kleidungsstück, in Kette oder Schuss, oder Leder ausgebreitet hat, ist es eine aussätzige Bösartigkeit und unrein."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Er muss das Kleidungsstück verbrennen, sei es Kette oder Schuss, in Wolle oder Leinen, oder einen Lederartikel, wo das Zeichen auftritt; es ist eine aussätzige Bösartigkeit. Es muss im Feuer verbrannt werden."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Aber wenn der Priester es untersucht und das Zeichen sich nicht im Kleidungsstück, in Kette oder Schuss, oder einem Lederartikel ausgebreitet hat,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "soll der Priester anordnen, den Artikel zu waschen und ihn für weitere sieben Tage zu isolieren."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Nachdem der Artikel gewaschen wurde, soll der Priester ihn erneut untersuchen, und wenn das Zeichen sein Aussehen nicht verändert hat, auch wenn es sich nicht ausgebreitet hat, ist es unrein. Verbrenne es, sei es auf der Rückseite oder Vorderseite."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Aber wenn der Priester es untersucht und das Zeichen nach dem Waschen verblasst ist, soll er es aus dem Kleidungsstück, Leder, Kette oder Schuss heraustrennen."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Wenn es im Kleidungsstück, in Kette oder Schuss, oder einem Lederartikel wieder erscheint, ist es ein sich ausbreitendes Zeichen; der Artikel muss verbrannt werden."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Jedes Kleidungsstück, Kette oder Schuss, oder jeder Lederartikel, von dem das Zeichen nach dem Waschen verschwunden ist, muss erneut gewaschen werden und wird rein sein.“"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Dies sind die Vorschriften für das Zeichen von Aussatz in einem wollenen oder leinenen Kleidungsstück, Kette oder Schuss, oder einem Lederartikel, um es für rein oder unrein zu erklären."
+            ]
+        }
+    ]
+}

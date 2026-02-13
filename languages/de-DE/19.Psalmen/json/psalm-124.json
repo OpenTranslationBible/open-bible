@@ -1,0 +1,71 @@
+{
+    "book": "Psalm",
+    "chapter": 124,
+    "verses": [
+        {
+            "text": [
+                "Ein Wallfahrtslied. Von David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> „Wäre der Herr nicht auf unserer Seite gewesen,“",
+                "> so sage Israel jetzt,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> „Wäre der Herr nicht auf unserer Seite gewesen,",
+                "> als die Menschen gegen uns aufstanden,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> dann hätten sie uns lebendig verschlungen,",
+                "> als ihr Zorn heftig gegen uns entbrannte;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> dann hätten die Wasser uns überflutet,",
+                "> der Strom hätte unsere Seele überströmt;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> und die tobenden Wasser hätten unsere Seele überströmt.“"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Gelobt sei der Herr,",
+                "> der uns nicht ihren Zähnen zum Raub gegeben hat."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Unsere Seele ist entkommen wie ein Vogel aus der Falle des Vogelfängers;",
+                "> die Falle ist zerbrochen, und wir sind entkommen."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Unsere Hilfe ist im Namen des Herrn,",
+                "> der Himmel und Erde gemacht hat."
+            ]
+        }
+    ]
+}

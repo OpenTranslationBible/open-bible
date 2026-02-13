@@ -1,0 +1,36 @@
+{
+    "book": "Psalm",
+    "chapter": 134,
+    "verses": [
+        {
+            "text": [
+                "Ein Lied der Aufstiege."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Siehe, preiset den Herrn, alle ihr Knechte des Herrn,",
+                "> Die ihr des Nachts im Hause des Herrn steht!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Erhebt eure Hände zum Heiligtum",
+                "> Und lobt den Herrn."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Der Herr, der Himmel und Erde gemacht hat, segne dich von Zion aus."
+            ]
+        }
+    ]
+}

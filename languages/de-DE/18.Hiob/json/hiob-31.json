@@ -1,0 +1,331 @@
+{
+    "book": "Hiob",
+    "chapter": 31,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> „Ich habe einen Bund mit meinen Augen geschlossen;",
+                "> Wie könnte ich da eine junge Frau ansehen?"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Und was ist das Teil, das von Gott von oben gegeben wird,",
+                "> Oder das Erbe vom Allmächtigen in der Höhe?"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ist es nicht Unglück für den Ungerechten,",
+                "> Und Unheil für die, die Unrecht tun?"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Sieht Er nicht meine Wege,",
+                "> Und zählt alle meine Schritte?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Wenn ich in Falschheit gewandelt bin,",
+                "> Und mein Fuß dem Betrug nachgeeilt ist,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Möge Er mich mit gerechten Waagen wiegen,",
+                "> Und möge Gott meine Unschuld erkennen."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Wenn mein Schritt vom Weg abgewichen ist,",
+                "> Oder mein Herz meinen Augen gefolgt ist,",
+                "> Oder irgendein Flecken an meinen Händen haftet,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> Möge ich säen und ein anderer es verzehren,",
+                "> Und möge mein Ertrag entwurzelt werden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> Wenn mein Herz von einer Frau verlockt wurde,",
+                "> Oder ich an der Tür meines Nachbarn gewartet habe,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Möge meine Frau für einen anderen mahlen,",
+                "> Und mögen andere sich über sie beugen."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> Denn das wäre eine schändliche Tat;",
+                "> Zudem wäre es ein Unrecht, das von Richtern bestraft wird."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Denn es wäre ein Feuer, das zur Zerstörung verzehrt,",
+                "> Und würde all meinen Ertrag entwurzeln."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> Wenn ich das Anliegen meiner männlichen oder weiblichen Diener missachtet habe,",
+                "> Als sie eine Beschwerde gegen mich vorbrachten,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> Was könnte ich dann tun, wenn Gott sich erhebt?",
+                "> Und wenn Er mich zur Rechenschaft zieht, wie soll ich Ihm antworten?"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> Hat nicht Er, der mich im Mutterleib gemacht hat, auch sie gemacht,",
+                "> Und hat nicht derselbe uns im Mutterleib geformt?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> Wenn ich den Armen ihre Wünsche verweigert habe,",
+                "> Oder die Witwe dazu gebracht habe, die Hoffnung zu verlieren,"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> Oder mein Stück Brot allein gegessen habe,",
+                "> Und es nicht mit der Waise geteilt habe"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> (Aber von meiner Jugend an wuchs er mit mir auf wie mit einem Vater,",
+                "> Und von meiner Mutter Leib an habe ich sie geleitet),"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> Wenn ich jemanden habe vergehen sehen wegen Mangel an Kleidung,",
+                "> Oder einen Bedürftigen ohne Mantel,"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> Wenn seine Hüfte mich nicht gesegnet hat,",
+                "> Oder er nicht mit dem Vlies meiner Schafe gewärmt wurde,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Wenn ich meine Hand gegen die Waise erhoben habe,",
+                "> Weil ich sah, dass ich Unterstützung am Tor hatte,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> Möge meine Schulter ausgerenkt werden,",
+                "> Und mein Arm am Ellbogen abgebrochen werden."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Denn die Furcht vor dem Unglück von Gott ist überwältigend für mich,",
+                "> Und wegen Seiner Majestät bin ich machtlos."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Wenn ich mein Vertrauen auf Gold gesetzt habe,",
+                "> Und feines Gold meine Sicherheit genannt habe,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Wenn ich mich gefreut habe, weil mein Reichtum groß war,",
+                "> Und weil meine Hand so viel erlangt hatte,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Wenn ich von der Sonne gefesselt wurde, wenn sie schien,",
+                "> Oder vom Mond in seiner Pracht,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Und mein Herz heimlich verführt wurde,",
+                "> Und meine Hand einen Kuss von meinem Mund bot,"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Das wäre auch eine Sünde, die das Gericht verdient,",
+                "> Denn ich hätte Gott oben verleugnet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> Habe ich mich über den Untergang meines Feindes gefreut,",
+                "> Oder wurde ich froh, als ihn Unglück traf?"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Nein, ich habe meinem Mund nicht erlaubt zu sündigen",
+                "> Indem ich für sein Leben in einem Fluch bat."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> Haben die Leute in meinem Zelt nicht gesagt,",
+                "> ‚Wer kann einen finden, der nicht mit seinem Essen gesättigt wurde‘?"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> Der Fremde hat nicht draußen übernachtet,",
+                "> Denn ich habe meine Türen dem Reisenden geöffnet."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> Habe ich meine Übertretungen wie Adam verborgen,",
+                "> Indem ich meine Schuld in meinem Herzen versteckte,"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> Weil ich Angst vor der großen Menge hatte,",
+                "> Und der Spott der Familien mich entmutigte,",
+                "> Und ich schwieg und nicht ausging?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> Oh, dass ich jemanden hätte, der mich hört!",
+                "> Hier ist mein Zeichen;",
+                "> Möge der Allmächtige mir antworten!",
+                "> Und die Anklage, die mein Gegner geschrieben hat,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> Würde ich gewiss auf meiner Schulter tragen,",
+                "> Ich würde sie mir wie eine Krone binden."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> Ich würde Ihm alle meine Schritte erzählen;",
+                "> Wie ein Fürst würde ich Ihm nahen."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> Wenn mein Land gegen mich schreit,",
+                "> Und seine Furchen zusammen klagen,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> Wenn ich seinen Ertrag ohne Bezahlung verzehrt habe,",
+                "> Oder seine Besitzer um ihr Leben gebracht habe,"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> Mögen Dornen statt Weizen wachsen,",
+                "> Und Unkraut statt Gerste.“",
+                "> Die Worte Hiobs sind beendet."
+            ]
+        }
+    ]
+}

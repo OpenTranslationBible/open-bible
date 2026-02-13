@@ -1,0 +1,49 @@
+# Esther Kapitel 7
+
+## Esther 7:1
+
+Der König und Haman gingen, um mit Königin Esther Wein zu trinken.
+
+## Esther 7:2
+
+Am zweiten Tag, als sie beim Bankett Wein tranken, fragte der König: „Königin Esther, was ist dein Anliegen? Es soll dir gewährt werden. Und was ist deine Bitte? Selbst bis zur Hälfte des Königreichs soll es erfüllt werden.“
+
+---
+
+## Esther 7:3
+
+Königin Esther antwortete: „Wenn ich Gnade vor deinen Augen gefunden habe, o König, und wenn es dir gefällt, gewähre mir mein Leben—das ist mein Anliegen. Und verschone mein Volk—das ist meine Bitte.
+
+## Esther 7:4
+
+Denn mein Volk und ich sind verkauft worden, um vernichtet, getötet und ausgelöscht zu werden. Wenn wir nur als Sklaven, Männer und Frauen, verkauft worden wären, hätte ich geschwiegen, denn solche Not würde es nicht rechtfertigen, den König zu belästigen.“
+
+## Esther 7:5
+
+König Ahasveros fragte Königin Esther: „Wer ist er, und wo ist er, der es gewagt hat, so etwas zu tun?“
+
+## Esther 7:6
+
+Esther sagte: „Ein Widersacher und Feind! Dieser böse Haman!“ Da erschrak Haman vor dem König und der Königin.
+
+## Esther 7:7
+
+Der König stand in Zorn vom Wein auf und ging in den Palastgarten. Aber Haman, der erkannte, dass der König Unheil gegen ihn beschlossen hatte, blieb zurück, um Königin Esther um sein Leben zu bitten.
+
+---
+
+## Esther 7:8
+
+Als der König aus dem Palastgarten an den Ort des Banketts zurückkehrte, fiel Haman auf die Couch, wo Esther war. Der König rief aus: „Will er sogar die Königin angreifen, während ich im Haus bin?“ Als die Worte den Mund des Königs verließen, bedeckten sie Hamans Gesicht.
+
+## Esther 7:9
+
+Da sagte Harbona, einer der Eunuchen, die dem König dienten: „Siehe, ein Galgen, fünfzig Ellen hoch, steht bei Hamans Haus. Er ließ ihn für Mordechai errichten, der dem König geholfen hat.“
+
+---
+
+Der König sagte: „Hängt ihn daran!“
+
+## Esther 7:10
+
+So hängten sie Haman an den Galgen, den er für Mordechai vorbereitet hatte. Dann legte sich der Zorn des Königs.
