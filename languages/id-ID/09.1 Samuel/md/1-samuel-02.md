@@ -1,0 +1,182 @@
+# 1 Samuel Pasal 2
+
+## 1 Samuel 2:1
+
+Lalu Hana berdoa dan berkata:
+
+> "Hatiku bersukacita di dalam Tuhan;  
+> Tandukku ditinggikan oleh Tuhan.  
+> Mulutku membanggakan musuh-musuhku,  
+> Karena aku bersukacita dalam keselamatan-Mu.
+
+## 1 Samuel 2:2
+
+> Tidak ada yang kudus seperti Tuhan,  
+> Karena tidak ada yang selain Engkau,  
+> Dan tidak ada gunung batu seperti Tuhan kita.
+
+## 1 Samuel 2:3
+
+> Janganlah berbicara dengan sombong,  
+> Janganlah keangkuhan keluar dari mulutmu,  
+> Karena Tuhan adalah Tuhan yang maha tahu,  
+> Dan oleh-Nya perbuatan-perbuatan ditimbang.
+
+## 1 Samuel 2:4
+
+> Busur para pahlawan telah dipatahkan,  
+> Tetapi mereka yang tersandung sekarang dipersenjatai dengan kekuatan.
+
+## 1 Samuel 2:5
+
+> Mereka yang kenyang menyewakan diri untuk roti,  
+> Tetapi mereka yang lapar sekarang dipuaskan.  
+> Bahkan yang mandul melahirkan tujuh,  
+> Tetapi dia yang memiliki banyak anak merana.
+
+## 1 Samuel 2:6
+
+> Tuhan membawa kematian dan memberi kehidupan;  
+> Dia menurunkan ke dalam kubur dan membangkitkan.
+
+## 1 Samuel 2:7
+
+> Tuhan merendahkan dan memperkaya;  
+> Dia merendahkan dan Dia meninggikan.
+
+## 1 Samuel 2:8
+
+> Dia mengangkat orang miskin dari debu,  
+> Dia mengangkat orang yang membutuhkan dari timbunan abu  
+> Untuk membuat mereka duduk dengan para pangeran  
+> Dan mewarisi tempat kehormatan.  
+> Karena fondasi bumi adalah milik Tuhan,  
+> Dan di atasnya Dia telah meletakkan dunia.
+
+## 1 Samuel 2:9
+
+> Dia menjaga kaki orang-orang yang setia kepada-Nya,  
+> Tetapi orang fasik akan dibungkam dalam kegelapan,  
+> Karena bukan dengan kekuatan seseorang akan menang.
+
+## 1 Samuel 2:10
+
+> Mereka yang menentang Tuhan akan dihancurkan;  
+> Dia akan mengguntur melawan mereka dari langit.  
+> Tuhan akan menghakimi ujung-ujung bumi.  
+> Dia akan memberikan kekuatan kepada raja-Nya  
+> Dan meninggikan tanduk dari yang diurapi-Nya."
+
+---
+
+## 1 Samuel 2:11
+
+Lalu Elkana kembali ke rumahnya di Rama, tetapi anak itu tetap melayani Tuhan di bawah pengawasan Imam Eli.
+
+## 1 Samuel 2:12
+
+Sekarang anak-anak Eli adalah orang-orang jahat; mereka tidak menghormati Tuhan.
+
+## 1 Samuel 2:13
+
+Kebiasaan para imam dengan orang-orang adalah bahwa ketika seseorang membawa korban, pelayan imam akan datang dengan garpu tiga cabang saat daging sedang direbus,
+
+## 1 Samuel 2:14
+
+Dan dia akan mencelupkannya ke dalam panci atau periuk atau ketel atau kuali. Apa pun yang dibawa oleh garpu, imam akan mengambilnya untuk dirinya sendiri. Inilah cara mereka memperlakukan semua orang Israel yang datang ke Silo.
+
+## 1 Samuel 2:15
+
+Bahkan sebelum lemak dibakar, pelayan imam akan datang dan berkata kepada orang yang mempersembahkan korban, "Berikan daging kepada imam untuk dipanggang. Dia tidak akan menerima daging rebus darimu—hanya yang mentah."
+
+## 1 Samuel 2:16
+
+Jika orang itu berkata kepadanya, "Biarkan lemak dibakar terlebih dahulu, dan kemudian kamu boleh mengambil sebanyak yang kamu inginkan," dia akan menjawab, "Tidak, serahkan sekarang. Jika tidak, aku akan mengambilnya dengan paksa."
+
+## 1 Samuel 2:17
+
+Jadi dosa orang-orang muda itu sangat besar di hadapan Tuhan, karena mereka memperlakukan persembahan Tuhan dengan penghinaan.
+
+---
+
+## 1 Samuel 2:18
+
+Tetapi Samuel melayani di hadapan Tuhan—seorang anak laki-laki yang mengenakan efod linen.
+
+## 1 Samuel 2:19
+
+Setiap tahun ibunya membuatkan dia jubah kecil dan membawanya ketika dia pergi bersama suaminya untuk mempersembahkan korban tahunan.
+
+## 1 Samuel 2:20
+
+Eli akan memberkati Elkana dan istrinya, dengan berkata, "Semoga Tuhan memberikanmu anak-anak dari wanita ini sebagai pengganti yang dia persembahkan kepada Tuhan." Lalu mereka akan pulang.
+
+## 1 Samuel 2:21
+
+Dan Tuhan mengunjungi Hana, dan dia mengandung dan melahirkan tiga anak laki-laki dan dua anak perempuan. Sementara itu, anak laki-laki Samuel tumbuh di hadapan Tuhan.
+
+---
+
+## 1 Samuel 2:22
+
+Sekarang Eli sudah sangat tua, dan dia mendengar tentang semua yang dilakukan anak-anaknya kepada seluruh Israel—bagaimana mereka tidur dengan wanita-wanita yang melayani di pintu masuk kemah pertemuan.
+
+## 1 Samuel 2:23
+
+Jadi dia berkata kepada mereka, "Mengapa kamu melakukan hal-hal seperti itu? Karena aku terus mendengar tentang perbuatan jahatmu dari semua orang.
+
+## 1 Samuel 2:24
+
+Anak-anakku, laporan yang kudengar menyebar di antara umat Tuhan sangat mengganggu.
+
+## 1 Samuel 2:25
+
+Jika seseorang berdosa terhadap sesama, Tuhan mungkin menjadi penengah baginya; tetapi jika seseorang berdosa terhadap Tuhan, siapa yang dapat menjadi perantara?" Tetapi mereka tidak mendengarkan ayah mereka, karena itu adalah kehendak Tuhan untuk membunuh mereka.
+
+---
+
+## 1 Samuel 2:26
+
+Dan anak laki-laki Samuel terus bertumbuh dalam perawakan dan dalam kasih karunia baik dengan Tuhan maupun dengan manusia.
+
+---
+
+## 1 Samuel 2:27
+
+Seorang abdi Tuhan datang kepada Eli dan berkata kepadanya, "Inilah yang dikatakan Tuhan: Bukankah Aku telah menyatakan diri-Ku dengan jelas kepada keluarga leluhurmu ketika mereka berada di Mesir, di bawah kekuasaan Firaun?
+
+## 1 Samuel 2:28
+
+Aku memilih leluhurmu dari semua suku Israel untuk menjadi imam-Ku, untuk mempersembahkan korban di atas mezbah-Ku, membakar dupa, dan mengenakan efod di hadapan-Ku. Aku juga memberikan keluargamu semua persembahan makanan yang dibuat dengan api dari orang Israel.
+
+## 1 Samuel 2:29
+
+Mengapa kemudian kamu menghina korban dan persembahan-Ku yang Kuperintahkan di tempat kediaman-Ku? Mengapa kamu menghormati anak-anakmu lebih dari pada-Ku, dengan menggemukkan dirimu dengan bagian terbaik dari setiap persembahan yang dibuat oleh umat-Ku Israel?"
+
+## 1 Samuel 2:30
+
+"Oleh karena itu Tuhan, Tuhan Israel, menyatakan: Aku berjanji bahwa keluargamu dan keluarga leluhurmu akan melayani di hadapan-Ku selamanya. Tetapi sekarang," demikianlah firman Tuhan, "jauhkanlah itu dari-Ku! Karena mereka yang menghormati-Ku akan Kuhormati, tetapi mereka yang menghina-Ku akan diperlakukan dengan penghinaan.
+
+## 1 Samuel 2:31
+
+Waktunya akan datang ketika Aku akan memotong kekuatanmu dan kekuatan keluargamu, sehingga tidak ada seorang pun dalam rumahmu yang mencapai usia tua.
+
+## 1 Samuel 2:32
+
+Kamu akan melihat kesusahan di tempat kediaman-Ku, meskipun kebaikan akan dilakukan kepada Israel, dan tidak akan pernah ada orang tua dalam garis keluargamu.
+
+## 1 Samuel 2:33
+
+Setiap orang dari keluargamu yang tidak Aku potong dari mezbah-Ku akan diselamatkan hanya untuk membawa kesedihan pada matamu dan kesedihan pada hatimu, dan semua keturunanmu akan mati dalam usia muda.
+
+## 1 Samuel 2:34
+
+Dan tanda ini akan datang kepadamu mengenai kedua anakmu, Hofni dan Pinehas: mereka berdua akan mati pada hari yang sama.
+
+## 1 Samuel 2:35
+
+Kemudian Aku akan membangkitkan bagi-Ku seorang imam yang setia, yang akan melakukan apa yang ada dalam hati dan pikiran-Ku. Aku akan mendirikan rumahnya, dan dia akan melayani di hadapan yang diurapi-Ku selamanya.
+
+## 1 Samuel 2:36
+
+Kemudian setiap orang yang tersisa dalam keluargamu akan datang dan sujud di hadapannya untuk mendapatkan sepotong perak dan sepotong roti, dengan berkata, 'Tolong angkat aku ke dalam jabatan imam agar aku memiliki makanan untuk dimakan.'"

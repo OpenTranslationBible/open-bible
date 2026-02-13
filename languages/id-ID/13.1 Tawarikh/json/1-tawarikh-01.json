@@ -1,0 +1,435 @@
+{
+    "book": "1 Tawarikh",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Adam, Set, dan Enos,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kenan, Mahalaleel, dan Yared,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Henokh, Metusalah, dan Lamekh,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Nuh, bersama dengan anak-anaknya:",
+                "> Sem, Ham, dan Yafet."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Anak-anak Yafet termasuk:",
+                "> Gomer, Magog, Madai, Yawan, Tubal, Mesekh, dan Tiras."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Anak-anak Gomer adalah:",
+                "> Askenas, Difat, dan Togarma."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Keturunan Yawan termasuk:",
+                "> Elisya, Tarsis, Kittim, dan Rodanim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Anak-anak Ham termasuk:",
+                "> Kush, Misraim, Put, dan Kanaan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Anak-anak Kush adalah:",
+                "> Seba, Hawila, Sabta, Raema, dan Sabteka.",
+                "> Dan anak-anak Raema adalah:",
+                "> Syeba dan Dedan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Kush adalah ayah Nimrod;",
+                "> ia menjadi orang yang perkasa di bumi."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Misraim adalah ayah dari garis",
+                "> Lud, Anam, Lehab, Naftuh,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Patrus, Kasluh (dari mana orang Filistin berasal), dan Kaftor."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kanaan adalah ayah dari",
+                "> Sidon, anak sulungnya, dan Het,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "dan orang Yebus, orang Amori, dan orang Girgasi,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "dan orang Hewi, orang Arki, dan orang Sini,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "dan orang Arwadi, orang Semari, dan orang Hamati."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Anak-anak Sem termasuk:",
+                "> Elam, Asyur, Arpakhsad, Lud, Aram,",
+                "> Anak-anak Aram adalah",
+                "> Us, Hul, Geter, dan Mesekh."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arpakhsad adalah ayah dari Selah,",
+                "dan Selah adalah ayah dari Eber."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Eber memiliki dua anak:",
+                "> yang satu bernama Peleg, karena pada zamannya bumi terbagi;",
+                "> dan saudaranya bernama Yoktan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Keturunan Yoktan termasuk:",
+                "> Almodad, Selef, Hazarmavet, Yerah,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadoram, Uzal, dan Dikla,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Ebal, Abimael, dan Syeba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ofir, Hawila, dan Yobab.",
+                "Mereka semua adalah anak-anak Yoktan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Sem, Arpakhsad, dan Selah,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Eber, Peleg, dan Rehu,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serug, Nahor, dan Terah,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> dan Abram, yang juga dikenal sebagai Abraham."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Anak-anak Abraham adalah:",
+                "> bernama Ishak dan Ismael."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Inilah keturunan mereka:",
+                "> Anak sulung Ismael adalah Nebayot, diikuti oleh Kedar, Adbeel, dan Mibsam,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Misma, Duma, Masa, Hadad, dan Tema,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Yetur, Nafis, dan Kedema.",
+                "Mereka adalah keturunan Ismael."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Anak-anak Ketura, gundik Abraham, yang dilahirkannya:",
+                "> Zimran, Yoksyan, Medan, Midian, Isybak, dan Suah.",
+                "> Anak-anak Yoksyan adalah:",
+                "> Syeba dan Dedan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Anak-anak Midian adalah:",
+                "> Efa, Efer, Henokh, Abida, dan Eldaa.",
+                "> Mereka semua adalah anak-anak Ketura."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Abraham menjadi ayah dari Ishak.",
+                "> Anak-anak Ishak adalah:",
+                "> Esau dan Israel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Anak-anak Esau adalah:",
+                "> Elifas, Rehuel, dan Yeush; Yalam, dan Korah."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Anak-anak Elifas adalah:",
+                "> Teman, Omar, Zefo, Gatam, Kenaz, Timna, dan Amalek."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Anak-anak Rehuel adalah:",
+                "> Nahat, dan Zerah; Syama, dan Miza."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Anak-anak Seir adalah:",
+                "> Lotan, Syobal, dan Zibeon; Ana, Disyon, Ezer, dan Disyan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Anak-anak Lotan adalah:",
+                "> Hori dan Homam; dan Timna adalah saudara perempuan Lotan."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Anak-anak Syobal adalah:",
+                "> Alyan, Manahat, Ebal, Syefi, dan Onam.",
+                "> Dan anak-anak Zibeon adalah:",
+                "> Aya dan Ana."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Anak Ana adalah:",
+                "> Disyon.",
+                "> Dan anak-anak Disyon adalah:",
+                "> Hemdan, Esyban, Yitran, dan Keran."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Anak-anak Ezer adalah:",
+                "> Bilhan, Zaawan, dan Yaakan.",
+                "> Anak-anak Disyan adalah:",
+                "> Us dan Aran."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Inilah raja-raja yang memerintah di tanah Edom sebelum ada raja yang memerintah atas orang Israel:",
+                "Bela anak Beor, dan kotanya bernama Dinhaba."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Setelah kematian Bela, Yobab anak Zerah dari Bozra menggantikannya sebagai raja."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Setelah kematian Yobab, Husyam dari tanah orang Teman menggantikannya sebagai raja."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Ketika Husyam meninggal, Hadad anak Bedad, yang mengalahkan Midian di wilayah Moab,",
+                "menjadi raja; kotanya bernama Awit."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Setelah kematian Hadad, Samlah dari Masreka naik takhta."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Setelah kematian Samlah, Saul dari Rehobot di tepi sungai menggantikannya sebagai raja."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Setelah kematian Saul, Baal-Hanan anak Akhbor naik takhta."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Ketika Baal-Hanan meninggal, Hadad menjadi raja;",
+                "kotanya bernama Pai,",
+                "dan istrinya adalah Mehetabel, anak Matred, anak Mezahab."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Kemudian Hadad meninggal.",
+                "Dan para kepala Edom adalah:",
+                "kepala Timna, kepala Alya, dan kepala Yetet,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "kepala Oholibama, kepala Ela, dan kepala Pinon,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "kepala Kenaz, kepala Teman, dan kepala Mibzar,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "kepala Magdiel, dan kepala Iram.",
+                "Mereka adalah para pemimpin Edom."
+            ]
+        }
+    ]
+}
