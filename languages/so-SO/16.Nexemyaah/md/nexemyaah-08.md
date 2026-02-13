@@ -1,0 +1,79 @@
+# Nehemyaah Cutubka 8
+
+## Nehemyaah 8:1
+
+Dhammaan dadkii waxay isugu yimaadeen sidii hal qof oo kale fagaaraha hortiisa Albaabka Biyaha, waxayna weyddiisteen Cesraa qorihii inuu keeno Kitaabka Sharciga Muuse, kaas oo Rabbigu siiyey reer binu Israa'iil.
+
+## Nehemyaah 8:2
+
+Markaasaa Cesraa wadaadkii wuxuu keenay Sharcigii hortiisa ururkii, oo ay ku jireen rag, haween, iyo kuwa wax garan karay, maalintii ugu horraysay ee bishii toddobaad.
+
+## Nehemyaah 8:3
+
+Wuxuu ka akhriyey cod dheer subaxdii hore ilaa duhurkii hortiisa fagaaraha hortiisa Albaabka Biyaha, ragga, haweenka, iyo kuwa wax garan karay hortooda, oo dadkii oo dhammu si taxaddar leh bay u dhegaysteen Kitaabka Sharciga.
+
+---
+
+## Nehemyaah 8:4
+
+Cesraa qorihii wuxuu istaagay meelo sare oo alwaax ah oo loogu talagalay munaasabadda. Dhankiisa midig waxaa taagnaa Mattithyaah, Sheema, Anaayaah, Urigaah, Xilqiyaah, iyo Maaseyaah; dhankiisa bidixna waxaa taagnaa Pedayaah, Mishael, Malkiyaah, Xashuum, Xashbaddanaah, Sekaryaah, iyo Meshullam.
+
+## Nehemyaah 8:5
+
+Cesraa wuxuu furay kitaabka isagoo hortiisa dadka oo dhan, waayo, wuxuu ka sarreeyey iyaga; oo markuu furay, dadkii oo dhammu way istaageen.
+
+## Nehemyaah 8:6
+
+Cesraa wuxuu ammaanay Rabbiga, Eebbe weyn, dadkii oo dhammuna waxay ku jawaabeen, “Aamiin, Aamiin!” iyagoo gacmahooda kor u qaadaya. Markaasay u sujuudeen oo Rabbiga caabudeen iyagoo wejiyadooda dhulka ku haya.
+
+## Nehemyaah 8:7
+
+Laawiyiintii—Yeshuuca, Baani, Sherebiyaah, Jaamin, Akkuub, Shabbethai, Hoodiyaah, Maaseyaah, Kelita, Asaryaah, Yoosaabaad, Xanaan, iyo Pelaayaah—waxay dadka u sharxeen Sharciga iyagoo meelahooda taagan.
+
+## Nehemyaah 8:8
+
+Waxay ka akhriyeen Kitaabka Sharciga Eebbe, iyagoo caddeynaya oo macnaha siinaya si dadku u fahmaan waxa la akhriyey.
+
+---
+
+## Nehemyaah 8:9
+
+Markaasaa Nehemyaah oo ahaa guddoomiyihii, Cesraa oo ahaa wadaadkii iyo qorihii, iyo Laawiyiintii dadka barayay waxay dhammaantood ku yidhaahdeen, “Maalintan waa quduus Rabbiga Eebbehiinna. Ha murugoonina ama ha ooyina.” Waayo, dadkii oo dhammu way ooyayeen markay maqleen erayadii Sharciga.
+
+## Nehemyaah 8:10
+
+Nehemyaah wuxuu yidhi, “Taga, cuna cuntooyin hodan ah oo cabba cabbitaanno macaan, oo u dir qaybaha kuwa aan waxba diyaarsanayn. Maalintan waa quduus Rabbigeenna. Ha murugoonina, waayo, farxadda Rabbiga waa xooggiinna.”
+
+## Nehemyaah 8:11
+
+Laawiyiintii waxay dejinayeen dadkii oo dhan, iyagoo leh, “Aamusnaada, waayo, kani waa maalin quduus ah. Ha murugoonina.”
+
+## Nehemyaah 8:12
+
+Markaasaa dadkii oo dhammu waxay u kaceen inay cunaan oo cabbaan, oo qaybsadaan cuntooyinka, oo ay ku dabaaldegaan farxad weyn, maxaa yeelay, hadda waxay fahmeen erayadii loo sharxay.
+
+---
+
+## Nehemyaah 8:13
+
+Maalintii labaad, madaxda qoysaska oo dhan, wadaaddada iyo Laawiyiintuba waxay isugu yimaadeen Cesraa qorihii si ay u helaan fahamka erayada Sharciga.
+
+## Nehemyaah 8:14
+
+Waxay ka heleen Sharciga ku qoran in Rabbigu ku amray Muuse in reer binu Israa'iil ay ku noolaadaan teendhooyin ku meel gaar ah intii lagu jiray ciidda bisha toddobaad.
+
+## Nehemyaah 8:15
+
+Waxayna ahayd inay ku dhawaaqaan farriintan oo ay ku faafiyaan magaalooyinkooda iyo Yeruusaalem: “U baxa buuraha oo soo qaada laamo saytuun iyo saytuun duurjoog ah, mirto, timir, iyo geedo kale oo caleen leh si aad u samaysataan teendhooyin ku meel gaar ah, sida ku qoran.”
+
+## Nehemyaah 8:16
+
+Markaasaa dadkii waxay u baxeen oo soo qaadeen laamo oo ay naftooda u dhiseen teendhooyin ku meel gaar ah saqafkooda, barxadahooda, barxadaha guriga Eebbe, iyo fagaaraha Albaabka Biyaha iyo kan Albaabka Efrayim.
+
+## Nehemyaah 8:17
+
+Ururkii oo dhammu oo ka soo noqday masaafurinta waxay sameeyeen teendhooyin ku meel gaar ah oo ay ku noolaadeen. Laga soo bilaabo maalmaha Yashuuca ina Nuun ilaa maalintaas, reer binu Israa'iil sidan uma ay dabaal degin. Farxaddooduna aad bay u weynayd.
+
+## Nehemyaah 8:18
+
+Maalinba maalinta ka dambaysa, laga bilaabo maalintii ugu horraysay ilaa maalintii ugu dambaysay, Cesraa wuxuu ka akhriyey Kitaabka Sharciga Eebbe. Waxay dabaaldegeen ciidda toddoba maalmood, maalintii siddeedaadna, sida lagu amray, waxaa jiray shir weyn oo xusuus ah.

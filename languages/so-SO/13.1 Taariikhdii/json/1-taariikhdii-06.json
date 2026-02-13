@@ -1,0 +1,749 @@
+{
+    "book": "1 Taariikhdii",
+    "chapter": 6,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Faraaciintii Laawi waxaa ka mid ahaa:",
+                "> Geyshoon, Qohaad, iyo Merari."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Nasabkii Qohaad wuxuu ka koobnaa:",
+                "> Camraam, Yishaar, Xebroon, iyo Cusii'eel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Carruurtii Camraam waxay ahaayeen:",
+                "> Haaruun, Muuse, iyo Maryan.",
+                "> Wiilashii Haaruun waxay ahaayeen:",
+                "> Naadaab, Abiihu, Elecaasar, iyo Iitaamaar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Elecaasar wuxuu dhalay Fiineexaas, Fiineexaasna wuxuu dhalay Abiishuwa,"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Abiishuwana wuxuu dhalay Buqqi, Buqqina wuxuu dhalay Cusii,"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Cusiina wuxuu dhalay Seraxyaah, Seraxyaahna wuxuu dhalay Meraayoodh,"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Meraayoodhna wuxuu dhalay Amaryaah, Amaryaahna wuxuu dhalay Axii'uub,"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Axii'uubna wuxuu dhalay Saadooq, Saadooqna wuxuu dhalay Aximaac,"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Aximaacna wuxuu dhalay Casaryaah, Casaryaahna wuxuu dhalay Yooxaanaan,"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Yooxaanaanna wuxuu dhalay Casaryaah (isagu waa kii wadaad ka ahaa gurigii Sulaymaan ka dhisay Yeruusaalem),"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Casaryaahna wuxuu dhalay Amaryaah, Amaryaahna wuxuu dhalay Axii'uub,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Axii'uubna wuxuu dhalay Saadooq, Saadooqna wuxuu dhalay Shalluum,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Shalluumna wuxuu dhalay Xilqiyaah, Xilqiyaahna wuxuu dhalay Casaryaah,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Casaryaahna wuxuu dhalay Serayaah, Serayaahna wuxuu dhalay Yehoosaadaaq;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Yehoosaadaaqna wuu raacay markii Eebbe uu Yahuudah iyo Yeruusaalem u kaxaystay maxaabiis ahaan gacanta Nebukadnesar."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Faraaciintii Laawi waxaa ka mid ahaa:",
+                "> Geyshoom, Qohaad, iyo Merari."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Kuwani waa wiilashii Geyshoom:",
+                "> Libni iyo Shimeeci."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Nasabkii Qohaad wuxuu ka koobnaa:",
+                "> Camraam, Yishaar, Xebroon, iyo Cusii'eel."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Wiilashii Merari waxay ahaayeen:",
+                "> Maxlii iyo Muushii.",
+                "> Kuwani waa qoysaskii reer Laawi sida qoysaskoodii aabbayaashood."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Kuwa Geyshoom:",
+                "> Libni oo dhalay, Yaaxat oo dhalay, Simmah"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> Yoo'ax oo dhalay, Iidoo oo dhalay, Serax oo dhalay, Ye'ateray"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Nasabkii Qohaad wuxuu ka koobnaa:",
+                "> Cammiinaadaab oo dhalay, Qooraax oo dhalay, Asiir,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> Elqaanaah oo dhalay, Ebyaasaaf oo dhalay, Asiir,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Taaxad oo dhalay, Uurii'eel oo dhalay, Cusiiyaah oo dhalay, Shaacuul."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Carruurtii Elqaanaah waxay ahaayeen:",
+                "> Amasay iyo Axiimooth."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Elqaanaah:",
+                "> Elqaanaah oo dhalay, Soofay oo dhalay, Naaxad,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> Eliyaab oo dhalay, Yeroxam oo dhalay, Elqaanaah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Carruurtii Samuu'eel waxay ahaayeen:",
+                "> Yoo'eel curadkii, iyo Abiiaah kii labaad."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Wiilashii Merari waxay ahaayeen:",
+                "> Maxlii, Libni oo dhalay, Shimeeci oo dhalay, Cusaa,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> Shimeecaah oo dhalay, Xaggiiyaah oo dhalay, Casayaa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Kuwani waa kuwii Daa'uud u magacaabay adeegga gabayga guriga Eebbe,",
+                "markii sanduuqii uu halkaas ku nastay."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Waxay gabay ku adeegayeen hortiisa teendhada kulanka,",
+                "ilaa Sulaymaan uu ka dhisay guriga Eebbe ee Yeruusaalem;",
+                "waxayna u adeegeen sida amarka loogu siiyey."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Kuwani waa kuwii la adeegi jiray carruurtooda:",
+                "Kuwa reer Qohaad:",
+                "> Xeemaan gabyaagii, aabbihiisna wuxuu ahaa Yoo'eel, aabbihiisna wuxuu ahaa Samuu'eel,"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Elqaanaah, aabbihiisna wuxuu ahaa Yeroxam, aabbihiisna wuxuu ahaa Elii'eel, aabbihiisna wuxuu ahaa Toox,"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Suuf, aabbihiisna wuxuu ahaa Elqaanaah, aabbihiisna wuxuu ahaa Maxad, aabbihiisna wuxuu ahaa Amasay,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Elqaanaah, aabbihiisna wuxuu ahaa Yoo'eel, aabbihiisna wuxuu ahaa Casaryaah, aabbihiisna wuxuu ahaa Sefanyaah,"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Taaxad, aabbihiisna wuxuu ahaa Asiir, aabbihiisna wuxuu ahaa Ebyaasaaf, aabbihiisna wuxuu ahaa Qooraax,"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Yishaar, aabbihiisna wuxuu ahaa Qohaad, aabbihiisna wuxuu ahaa Laawi, aabbihiisna wuxuu ahaa Israa'iil."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Xeemaan walaalkiis Aasaaf wuxuu taagnaa midigtiisa,",
+                "> Aasaaf aabbihiisna wuxuu ahaa Berekyaah, aabbihiisna wuxuu ahaa Shimeecaah,"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Miikaa'iil, aabbihiisna wuxuu ahaa Baaseeyaah, aabbihiisna wuxuu ahaa Malkiiyaah,"
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Etnay, aabbihiisna wuxuu ahaa Serax, aabbihiisna wuxuu ahaa Caddayaah,"
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Eetaan, aabbihiisna wuxuu ahaa Simmah, aabbihiisna wuxuu ahaa Shimeeci,"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Yaaxat, aabbihiisna wuxuu ahaa Geyshoom, aabbihiisna wuxuu ahaa Laawi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Bidixdooda waxaa joogay walaalahood,",
+                "> wiilashii Merari: Eetaan aabbihiisna wuxuu ahaa Qishii, aabbihiisna wuxuu ahaa Cabdi, aabbihiisna wuxuu ahaa Malluukh,"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Xashaabyaah, aabbihiisna wuxuu ahaa Amasyaah, aabbihiisna wuxuu ahaa Xilqiyaah,"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Camzii, aabbihiisna wuxuu ahaa Baani, aabbihiisna wuxuu ahaa Sheemer,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> aabbihiisna wuxuu ahaa Maxlii, aabbihiisna wuxuu ahaa Muushii, aabbihiisna wuxuu ahaa Merari, aabbihiisna wuxuu ahaa Laawi."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Walaalahooda reer Laawi waxaa loo magacaabay adeegga teendhada",
+                "guriga Eebbe oo dhan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Laakiinse Haaruun iyo wiilashiis waxay bixin jireen allabariga la gubo",
+                "iyo allabariga fooxa, shaqada meelaha ugu quduusan oo dhan,",
+                "si ay u sameeyaan kafaaraggudka Israa'iil, sida uu amray Muuse addoonkii Eebbe."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Kuwani waa wiilashii Haaruun:",
+                "> Elecaasar oo dhalay, Fiineexaas oo dhalay, Abiishuwa oo dhalay,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Buqqi oo dhalay, Cusii oo dhalay, Seraxyaah oo dhalay,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Meraayoodh oo dhalay, Amaryaah oo dhalay, Axii'uub oo dhalay,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Saadooq oo dhalay, iyo Aximaac."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Haddaba kuwani waa deegaannadoodii sida xeradoodii xuduudahooda:",
+                "Wiilashii Haaruun, qoysaskii reer Qohaad,",
+                "> waayo, kuraasidu waxay ugu horreeyeen iyaga."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Waxay siiyeen iyaga Xebroon oo ku taal dalka Yahuudah iyo daaqsimaheeda ku wareegsan,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "laakiinse waxay siiyeen beerihii magaalada iyo tuulooyinkeedii Kaleeb ina Yeefuneh."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Wiilashii Haaruun waxay siiyeen magaalooyinkan magangelyada:",
+                "> Xebroon, Libnaa oo leh daaqsimaheeda, Yaatiir, Eshtemoo'a oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "> Xiileen oo leh daaqsimaheeda, Debiir oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "> Aashaan oo leh daaqsimaheeda, iyo Beyt Shemesh oo leh daaqsimaheeda."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "Reer Benyaamiin waxay ka siiyeen:",
+                "> Geba, Alemeth, iyo Canaatoodh oo leh daaqsimaheeda.",
+                "> Magaalooyinkoodii oo dhan oo qoysaskii wiilashii Haaruun waxay ahaayeen saddex iyo toban magaalo."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "Intii kale oo wiilashii Qohaad, qoysaskii qabiilka,",
+                "waxay siiyeen toban magaalo oo qori tuur ah ka helay badh qabiilka, badhka Manaseh."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "Wiilashii Geyshoom, sida qoysaskoodii,",
+                "waxay ka heleen saddex iyo toban magaalo qabiillada Isakaakar, Aasher, Naftaali,",
+                "iyo Manaseh ee Baashaan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "Wiilashii Merari, sida qoysaskoodii,",
+                "waxay ka heleen laba iyo toban magaalo qabiillada Reuben, Gaad, iyo Sebulun."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Sidaas daraaddeed, reer binu Israa'iil waxay siiyeen reer Laawi magaalooyinkii iyo daaqsimaheedii."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "Waxay qori tuur ka heleen qabiilka wiilashii Yahuudah, qabiilka wiilashii Simecoon,",
+                "iyo qabiilka wiilashii Benyaamiin,",
+                "magaalooyinkan oo magac ahaan loo sheegay."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Haddaba qaar ka mid ah qoysaskii wiilashii Qohaad waxay lahaayeen magaalooyinkoodii dhaxalka",
+                "qabiilka Efrayim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "Waxay siiyeen magaalooyinkan magangelyada:",
+                "> Shekem oo ku taal buuraha Efrayim oo leh daaqsimaheeda,",
+                "> Geser oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "> Yoqmeecaam oo leh daaqsimaheeda, Beyt Xooroon oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "> Ayyaaloon oo leh daaqsimaheeda, iyo Gaath Rimmoon oo leh daaqsimaheeda;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "iyo badh qabiilka Manaseh:",
+                "> Caaner oo leh daaqsimaheeda, iyo Bilcaam oo leh daaqsimaheeda,",
+                "> intii kale oo qoysaskii wiilashii Qohaad."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 71,
+            "text": [
+                "Wiilashii Geyshoom waxay ka heleen:",
+                "> Qoyska badh qabiilka Manaseh: Goolaan oo ku taal Baashaan oo leh daaqsimaheeda, iyo Cashtaarooth oo leh daaqsimaheeda;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 72,
+            "text": [
+                "Qabiilka Isakaakar:",
+                "> Qeedesh oo leh daaqsimaheeda, Daberath oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 73,
+            "text": [
+                "> Raamoodh oo leh daaqsimaheeda, iyo Canem oo leh daaqsimaheeda;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 74,
+            "text": [
+                "Qabiilka Aasher:",
+                "> Mashal oo leh daaqsimaheeda, Cabdoon oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 75,
+            "text": [
+                "> Xuqoq oo leh daaqsimaheeda, iyo Rehoob oo leh daaqsimaheeda;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 76,
+            "text": [
+                "Qabiilka Naftaali:",
+                "> Qeedesh oo ku taal Galili oo leh daaqsimaheeda,",
+                "> Xammoon oo leh daaqsimaheeda, iyo Qiryaataayim oo leh daaqsimaheeda."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 77,
+            "text": [
+                "Intii kale oo reer Laawi, wiilashii Merari:",
+                "> Qabiilka Sebulun: Rimmoonoo oo leh daaqsimaheeda, Taabor oo leh daaqsimaheeda;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 78,
+            "text": [
+                "Iyo dhinaca kale ee webiga Urdun ee Yerixoo, dhinaca bari ee Urdun:",
+                "> Qabiilka Reuben: Beeser oo ku taal cidlada oo leh daaqsimaheeda, Yaaxas oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 79,
+            "text": [
+                "> Qedemoodh oo leh daaqsimaheeda, iyo Meefacaat oo leh daaqsimaheeda;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 80,
+            "text": [
+                "Qabiilka Gaad:",
+                "> Raamoodh oo ku taal Gilecaad oo leh daaqsimaheeda,",
+                "> Maxanaayim oo leh daaqsimaheeda,"
+            ]
+        },
+        {
+            "verse": 81,
+            "text": [
+                "> Xeshboon oo leh daaqsimaheeda, iyo Yaazeer oo leh daaqsimaheeda."
+            ]
+        }
+    ]
+}

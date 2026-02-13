@@ -1,0 +1,435 @@
+{
+    "book": "Taariikhdii Kowaad",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Aadam, Sheeth, iyo Eenoosh,"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Kaynaan, Mahalalel, iyo Yaarad,"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Eenoog, Methuselah, iyo Laamek,"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Nuux, iyo wiilashiisii:",
+                "> Sheem, Xaam, iyo Yaafedh."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Wiilashii Yaafedh waxay ahaayeen:",
+                "> Gomer, Maagog, Maadaay, Yawaan, Tubal, Meshek, iyo Tiiraas."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Wiilashii Gomer waxay ahaayeen:",
+                "> Ashkenaas, Difaath, iyo Togarmaah."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Faracii Yawaan waxaa ka mid ahaa:",
+                "> Eliishah, Tarsiish, Kiitiim, iyo Rodaniim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Wiilashii Xaam waxay ahaayeen:",
+                "> Kuush, Misraayim, Fuud, iyo Kanaan."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Wiilashii Kuush waxay ahaayeen:",
+                "> Seba, Xawilah, Sabta, Raamaah, iyo Sabtekaah.",
+                "> Wiilashii Raamaah waxay ahaayeen:",
+                "> Sheba iyo Dedaan."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> Kuush wuxuu ahaa aabbihii Nimrod;",
+                "> wuxuu noqday nin xoog badan oo dhulka ku noolaa."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Misraayim wuxuu ahaa aabbihii",
+                "> Luud, Canaam, Lehaab, Naftuux,"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> Fatrus, Kasluux (oo Filistiiniyiintu ka yimaadeen), iyo Kaftoor."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Kanaan wuxuu ahaa aabbihii",
+                "> Saydoon, curadkiisii, iyo Xeeth,"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "iyo Yebuusiyiin, Amoriyiin, iyo Girgaashiyiin,"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "iyo Xiwiyiin, Arqiiyiin, iyo Siiniyiin,"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "iyo Arwaadiyiin, Semariyiin, iyo Xamaatiyiin."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Wiilashii Sheem waxay ahaayeen:",
+                "> Eelaam, Ashuur, Arfakhshaad, Luud, Aram,",
+                "> Wiilashii Aram waxay ahaayeen",
+                "> Cuus, Xul, Gether, iyo Meshek."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "Arfakhshaad wuxuu ahaa aabbihii Sheelah,",
+                "iyo Sheelah wuxuu ahaa aabbihii Eber."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Eber wuxuu lahaa laba wiil:",
+                "> mid waxaa la odhan jiray Faalig, waayo, wakhtigiisii dhulkii waa la kala qaybiyey;",
+                "> walaalkiisna waxaa la odhan jiray Yoqtaan."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Faracii Yoqtaan waxaa ka mid ahaa:",
+                "> Almodaad, Sheeleef, Xasarmaaweth, Yeraax,"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Hadooraam, iyo Uusaal, iyo Diklaah,"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Eebaal, Abiimaeel, iyo Sheba,"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Oofir, Xawilah, iyo Yoobaab.",
+                "Kuwani waxay ahaayeen dhammaan wiilashii Yoqtaan."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> Sheem, Arfakhshaad, iyo Sheelah,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> Eber, Faalig, iyo Reeu,"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> Serug, Naaxoor, iyo Taaraah,"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> iyo Aabraam, oo sidoo kale loo yaqaan Ibraahim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> Wiilashii Ibraahim waxay ahaayeen:",
+                "> Isxaaq iyo Ismaaciil."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Kuwani waa faracoodii:",
+                "> Curadkii Ismaaciil wuxuu ahaa Nebayoodh, waxaa ku xigay Qeedaar, Adbeel, iyo Mibsaam,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Mishmaah, Duumaah, Masaa, Xadaad, iyo Teemaa,"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Yatuur, Naafiish, iyo Qeedemah.",
+                "Kuwani waxay ahaayeen faracii Ismaaciil."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Wiilashii Qetuurah, oo ahayd saaxiibtii Ibraahim, oo ay dhashay:",
+                "> Simraan, Yoqshaan, Medaan, Midyaan, Ishbaaq, iyo Shuuux.",
+                "> Wiilashii Yoqshaan waxay ahaayeen:",
+                "> Sheba iyo Dedaan."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Wiilashii Midyaan waxay ahaayeen:",
+                "> Ceefah, Cefer, Xanaak, Abiidaah, iyo Eldacah.",
+                "> Kuwani waxay ahaayeen dhammaan wiilashii Qetuurah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Ibraahim wuxuu dhalay Isxaaq.",
+                "> Wiilashii Isxaaq waxay ahaayeen:",
+                "> Esau iyo Israa'iil."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Wiilashii Esau waxay ahaayeen:",
+                "> Elifaaz, Reu'eel, iyo Ye'uush; Yaalam, iyo Qooraax."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Wiilashii Elifaaz waxay ahaayeen:",
+                "> Teeman, Oomar, Seefii, Gaatam, Qeenaz, Timnaah, iyo Caamaaleq."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Wiilashii Reu'eel waxay ahaayeen:",
+                "> Naaxath, iyo Seerah; Shammaah, iyo Mizah."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Wiilashii Se'iir waxay ahaayeen:",
+                "> Looraan, Shooba, iyo Sibon; Canaah, Dishon, Eeser, iyo Dishaan."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Wiilashii Looraan waxay ahaayeen:",
+                "> Hooree iyo Homaan; Timnaahna waxay ahayd walaashii Looraan."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Wiilashii Shooba waxay ahaayeen:",
+                "> Calyaan, Manaaxat, Eebaal, Sheefii, iyo Oonaam.",
+                "> Wiilashii Sibon waxay ahaayeen:",
+                "> Cayaah iyo Canaah."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Wiilkii Canaah wuxuu ahaa:",
+                "> Dishon.",
+                "> Wiilashii Dishon waxay ahaayeen:",
+                "> Xamraan, Eeshbaan, Itiraan, iyo Keraan."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Wiilashii Eeser waxay ahaayeen:",
+                "> Bilhaan, Sacawaan, iyo Yacaan.",
+                "> Wiilashii Dishaan waxay ahaayeen:",
+                "> Cuus iyo Aran."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Kuwani waa boqorradii xukumi jiray dalka Edom ka hor intaan boqor ka talin reer binu Israa'iil:",
+                "Belaa ina Be'or, oo magaaladiisuna waxay ahayd Dinhabaah."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Markii Belaa dhintay, Yowbaab ina Serah oo reer Boosrah ahaa ayaa boqor noqday."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Markii Yowbaab dhintay, Xushaam oo dalka reer Teemaan ka yimid ayaa boqor noqday."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Markii Xushaam dhintay, Xadaad ina Bedaad, oo Midyaan ku jebiyey dhulka Moo'aab,",
+                "ayaa boqor noqday; magaaladiisuna waxay ahayd Cawiith."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "Markii Xadaad dhintay, Samlaah oo reer Masreqaah ahaa ayaa boqor noqday."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Markii Samlaah dhintay, Sha'uul oo reer Rehoboodh oo webiga ku teedsan ahaa ayaa boqor noqday."
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "Markii Sha'uul dhintay, Baal-xanaan ina Akhboor ayaa boqor noqday."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Markii Baal-xanaan dhintay, Xadaad ayaa boqor noqday;",
+                "magaciisuna wuxuu ahaa Faay,",
+                "naagtiisuna waxay ahayd Mehetebeel, oo ahayd gabadhii Matreed, oo ahayd gabadhii Mezaahaab."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Markaas Xadaad wuu dhintay.",
+                "Saraakiishii Edom waxay ahaayeen:",
+                "sarkaal Timnaah, sarkaal Calyaah, iyo sarkaal Yeteeth,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "sarkaal Oholiibaamah, sarkaal Elaah, iyo sarkaal Piinoon,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "sarkaal Qeenaz, sarkaal Teemaan, iyo sarkaal Mibsaal,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "sarkaal Magdii'eel, iyo sarkaal Iiraam.",
+                "Kuwani waxay ahaayeen madaxda Edom."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+# Ishacyaah Cutubka 35
+
+## Ishacyaah 35:1
+Cidlada iyo dhulku ooman waa farxi doonaan; lamadegaanku wuxuu ku reyreyi doonaa oo ubax badan, sida ubaxa.
+
+## Ishacyaah 35:2
+Wuxuu ku qarxi doonaa ubax oo ku reyreyi doonaa farxad weyn iyo gabay. Ammaanada Lubnaan waxaa la siin doonaa, quruxda Karmel iyo Sharon. Waxay arki doonaan ammaanta Rabbiga, haybadda Eebbeheenna.
+
+## Ishacyaah 35:3
+Taageera kuwa gacmahoodu daciif yihiin, oo adkeeya jilbaha gariiraya.
+
+## Ishacyaah 35:4
+U sheeg kuwa qalbigoodu welwelka ku jiro, “Adkeysta, ha baqina; bal eega, Eebbehiinna wuxuu iman doonaa isagoo aargudasho wata, isagoo ciqaab Eebbe wata. Wuu iman doonaa inuu idin badbaadiyo.”
+
+## Ishacyaah 35:5
+Wakhtigaas, indhaha indhoolaha ayaa la furi doonaa, dhegaha dhego la'aantana waa la nadiifin doonaa.
+
+## Ishacyaah 35:6
+Markaas curyaanku wuxuu boodboodi doonaa sida deerada, carrabka carrab la'aantuna wuxuu ku qaylin doonaa farxad. Waayo, biyuhu waxay ka qarxi doonaan cidlada, iyo durdurro lamadegaanka.
+
+## Ishacyaah 35:7
+Ciidda kulul waxay noqon doontaa balli, dhulka harraadduna ilo biyo ah. Meesha ay yaxaasku ku jireen, halkaas caws, qodax, iyo xashiish ayaa ka bixi doona.
+
+## Ishacyaah 35:8
+Jid weyn ayaa halkaas jiri doona, oo waxaa loogu yeedhi doonaa Jidka Quduuska ah. Kuwa aan nadiifka ahayn kuma socdaan, laakiin waxaa loogu talagalay kuwa jidkaas ku socda; nacasna kuma wareeri doono.
+
+## Ishacyaah 35:9
+Libaax halkaas ma jiri doono, mana jiri doono wax xayawaan cuni kara oo ku kici doona; lagama heli doono halkaas. Laakiin kuwa la soo furtay ayaa halkaas ku socon doona,
+
+## Ishacyaah 35:10
+iyo kuwa Rabbiga soo furtay ayaa ku soo noqon doona oo Ziyoon ku iman doona gabay; farxad weligeed ah ayaa madaxdooda lagu taajin doonaa. Farxad iyo raynrayn ayaa ku soo gaadhi doona, murugo iyo oohin ayaa ka carari doona.

@@ -1,0 +1,47 @@
+{
+    "book": "Salme",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "En sang ved festreisene."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Til deg har jeg løftet mine øyne,",
+                "> du som troner i himmelen!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Se, som tjeneres øyne er rettet mot sin herres hånd,",
+                "> og som en tjenestepikes øyne ser til sin frues hånd,",
+                "> slik er våre øyne rettet mot Herren vår Gud,",
+                "> til han viser oss sin nåde."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Vis oss din godhet, Herre, vis oss din godhet,",
+                "> for vi har utholdt mer enn nok forakt."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Vår sjel har utholdt mer enn nok",
+                "> av hån fra de som lever i ro,",
+                "> og av forakt fra de stolte."
+            ]
+        }
+    ]
+}

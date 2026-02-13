@@ -1,0 +1,49 @@
+{
+    "book": "Salme",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Pris Herren!",
+                "> Ære Gud i hans hellige sted;",
+                "> Pris ham i hans store himmel."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Ære ham for hans mektige gjerninger;",
+                "> Pris ham for hans høyeste storhet."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ære ham med lyden av trompet;",
+                "> Pris ham med harpe og lyre."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ære ham med tamburin og dans;",
+                "> Pris ham med strengeinstrumenter og fløyte."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ære ham med høye cymbaler;",
+                "> Pris ham med klingende cymbaler."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Alt som har ånde, pris Herren.",
+                "> Pris Herren!"
+            ]
+        }
+    ]
+}

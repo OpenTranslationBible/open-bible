@@ -1,0 +1,61 @@
+{
+    "book": "Salmos",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "Um Salmo de Davi."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> O Senhor é o meu pastor,",
+                "> nada me faltará."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Ele me faz repousar em pastos verdes;",
+                "> Ele me conduz junto às águas tranquilas."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ele refrigera a minha alma;",
+                "> Ele me guia pelas veredas da justiça",
+                "> por amor do Seu nome."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ainda que eu ande pelo vale da sombra da morte,",
+                "> não temerei mal algum, porque Tu estás comigo;",
+                "> o Teu bordão e o Teu cajado me consolam."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Preparas uma mesa perante mim na presença dos meus inimigos;",
+                "> unges a minha cabeça com óleo;",
+                "> o meu cálice transborda."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida,",
+                "> e habitarei na casa do Senhor para sempre."
+            ]
+        }
+    ]
+}

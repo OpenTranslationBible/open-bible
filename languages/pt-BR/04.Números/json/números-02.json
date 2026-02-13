@@ -1,0 +1,210 @@
+{
+    "book": "Números",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "O Senhor então falou a Moisés e Arão, dizendo:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Os israelitas acamparão ao redor da tenda do encontro, cada um com sua própria bandeira, com os estandartes de suas famílias, a uma certa distância."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "No lado leste, em direção ao nascer do sol, estarão as divisões do acampamento de Judá, sob sua bandeira. O líder do povo de Judá é Naassom, filho de Aminadabe."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Seu grupo de homens contava 74.600."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ao lado deles acampará a tribo de Issacar. O líder do povo de Issacar é Netanel, filho de Zuar."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Seu grupo de homens contava 54.400."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Seguindo-os estará a tribo de Zebulom. O líder do povo de Zebulom é Eliabe, filho de Helom."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Seu grupo de homens contava 57.400."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Todos os homens designados para o acampamento de Judá, de acordo com suas divisões, somam 186.400. Eles partirão primeiro."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "No lado sul estarão as divisões do acampamento de Rúben, sob sua bandeira. O líder do povo de Rúben é Elizur, filho de Sedeur."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Seu grupo de homens contava 46.500."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Ao lado deles acampará a tribo de Simeão. O líder do povo de Simeão é Selumiel, filho de Zurisadai."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Seu grupo de homens contava 59.300."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Seguindo-os estará a tribo de Gade. O líder do povo de Gade é Eliasafe, filho de Deuel."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Seu grupo de homens contava 45.650."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Todos os homens designados para o acampamento de Rúben, de acordo com suas divisões, somam 151.450. Eles partirão em segundo lugar."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Então a tenda do encontro, com o acampamento dos levitas, partirá no meio dos acampamentos. Eles partirão na mesma ordem em que acampam, cada um em seu próprio lugar sob sua bandeira."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "No lado oeste estarão as divisões do acampamento de Efraim, sob sua bandeira. O líder do povo de Efraim é Elisama, filho de Amiúde."
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "Seu grupo de homens contava 40.500."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Ao lado deles estará a tribo de Manassés. O líder do povo de Manassés é Gamaliel, filho de Pedazur."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Seu grupo de homens contava 32.200."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Seguindo-os estará a tribo de Benjamim. O líder do povo de Benjamim é Abidã, filho de Gideoni."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Seu grupo de homens contava 35.400."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Todos os homens designados para o acampamento de Efraim, de acordo com suas divisões, somam 108.100. Eles partirão em terceiro lugar."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "No lado norte estarão as divisões do acampamento de Dã, sob sua bandeira. O líder do povo de Dã é Aiezer, filho de Amisadai."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Seu grupo de homens contava 62.700."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Ao lado deles acampará a tribo de Aser. O líder do povo de Aser é Pagiel, filho de Ocrã."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Seu grupo de homens contava 41.500."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Seguindo-os estará a tribo de Naftali. O líder do povo de Naftali é Aira, filho de Enã."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Seu grupo de homens contava 53.400."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Todos os homens designados para o acampamento de Dã somam 157.600. Eles partirão por último, sob suas bandeiras."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Estes são os israelitas, contados de acordo com suas famílias. O número total de homens nos acampamentos, por suas divisões, é 603.550."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Os levitas, no entanto, não foram contados entre os outros israelitas, como o Senhor ordenou a Moisés."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Assim, os israelitas fizeram tudo o que o Senhor ordenou a Moisés; acamparam sob suas bandeiras e partiram, cada um com sua família e clã."
+            ]
+        }
+    ]
+}

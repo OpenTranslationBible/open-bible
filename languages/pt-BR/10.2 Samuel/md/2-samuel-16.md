@@ -1,0 +1,146 @@
+# 2 Samuel Capítulo 16
+
+## 2 Samuel 16:1
+
+Quando Davi passou um pouco além do cume,  
+Ziba, o servo de Mefibosete, encontrou-se com ele com um par de jumentos selados,  
+e sobre eles estavam duzentos pães, cem cachos de passas,  
+cem frutas de verão e um recipiente de vinho.
+
+## 2 Samuel 16:2
+
+O rei disse a Ziba,  
+“O que você pretende fazer com isso?”  
+Ziba disse: “Os jumentos são para a casa do rei montar,  
+o pão e as frutas de verão são para os jovens comerem,  
+e o vinho é para quem se cansar no deserto beber.”
+
+## 2 Samuel 16:3
+
+Então o rei disse,  
+“E onde está o filho do seu senhor?”  
+Ziba disse ao rei,  
+“Eis que ele está em Jerusalém, pois disse,  
+‘Hoje a casa de Israel me restituirá o reino de meu pai.’”
+
+## 2 Samuel 16:4
+
+Então o rei disse a Ziba,  
+“Eis que tudo o que pertencia a Mefibosete agora é seu.”  
+E Ziba disse: “Eu me inclino diante de você; que eu encontre favor aos seus olhos, meu senhor o rei.”
+
+---
+
+## 2 Samuel 16:5
+
+Quando o rei Davi chegou a Baurim,  
+eis que saiu de lá um homem da família da casa de Saul,  
+cujo nome era Simei, filho de Gera;  
+ele saiu amaldiçoando continuamente enquanto vinha.
+
+## 2 Samuel 16:6
+
+Ele atirou pedras em Davi e em todos os servos do rei Davi,  
+mesmo que todo o povo e todos os homens valentes estivessem à sua direita e à sua esquerda.
+
+## 2 Samuel 16:7
+
+Assim disse Simei quando amaldiçoou,  
+“Fora, fora, homem de sangue, homem inútil!
+
+## 2 Samuel 16:8
+
+O Senhor fez recair sobre você todo o sangue da casa de Saul,  
+em cujo lugar você reinou.  
+O Senhor entregou o reino nas mãos de seu filho Absalão.  
+Eis que você está preso em sua própria maldade, pois você é um homem de sangue!”
+
+## 2 Samuel 16:9
+
+Então Abisai, filho de Zeruia, disse ao rei,  
+“Por que este cão morto deveria amaldiçoar meu senhor o rei?  
+Deixe-me ir agora e cortar-lhe a cabeça.”
+
+## 2 Samuel 16:10
+
+Mas o rei disse,  
+“O que tenho eu a ver com vocês, filhos de Zeruia?  
+Se ele amaldiçoa, e se o Senhor lhe disse: ‘Amaldiçoe Davi,’  
+então quem dirá: ‘Por que você fez isso?’”
+
+## 2 Samuel 16:11
+
+Então Davi disse a Abisai e a todos os seus servos,  
+“Eis que meu próprio filho, que saiu do meu corpo, busca a minha vida;  
+quanto mais agora este benjamita?  
+Deixem-no em paz e deixem-no amaldiçoar, pois o Senhor lhe disse.
+
+## 2 Samuel 16:12
+
+Talvez o Senhor note minha aflição  
+e me recompense com o bem em vez de sua maldição hoje.”
+
+## 2 Samuel 16:13
+
+Assim Davi e seus homens seguiram o caminho,  
+e Simei foi ao longo da encosta oposta a ele,  
+amaldiçoando enquanto ia, atirando pedras nele e lançando poeira.
+
+## 2 Samuel 16:14
+
+E o rei e todo o povo que estava com ele chegaram cansados,  
+e ele se refrescou ali.
+
+---
+
+## 2 Samuel 16:15
+
+Agora Absalão e todo o povo, os homens de Israel, chegaram a Jerusalém,  
+e Aitofel estava com ele.
+
+## 2 Samuel 16:16
+
+Então Husai, o arquita, amigo de Davi, veio a Absalão e disse-lhe,  
+“Viva o rei! Viva o rei!”
+
+## 2 Samuel 16:17
+
+Mas Absalão disse a Husai,  
+“É assim que você mostra lealdade ao seu amigo? Por que você não foi com seu amigo?”
+
+## 2 Samuel 16:18
+
+Então Husai disse a Absalão,  
+“Não! Pois a quem o Senhor, este povo e todos os homens de Israel escolherem,  
+dele eu serei, e com ele permanecerei.
+
+## 2 Samuel 16:19
+
+Além disso, a quem devo servir?  
+Não deveria ser ao filho dele?  
+Assim como servi a seu pai, assim servirei a você.”
+
+---
+
+## 2 Samuel 16:20
+
+Então Absalão disse a Aitofel,  
+“Aconselhe-nos. O que devemos fazer?”
+
+## 2 Samuel 16:21
+
+E Aitofel disse a Absalão,  
+“Vá para as concubinas de seu pai que ele deixou para cuidar da casa;  
+então todo Israel ouvirá que você se tornou odioso a seu pai.  
+Então as mãos de todos os que estão com você se fortalecerão.”
+
+## 2 Samuel 16:22
+
+Assim, armaram uma tenda para Absalão no telhado,  
+e Absalão foi para as concubinas de seu pai à vista de todo Israel.
+
+## 2 Samuel 16:23
+
+Agora o conselho de Aitofel, que ele deu naqueles dias,  
+era como se alguém consultasse a palavra de Deus.  
+Assim era todo o conselho de Aitofel, tanto com Davi quanto com Absalão.

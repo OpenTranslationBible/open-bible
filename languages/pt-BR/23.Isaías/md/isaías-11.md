@@ -1,0 +1,67 @@
+# Isaías Capítulo 11
+
+## Isaías 11:1
+
+Um rebento sairá do tronco de Jessé, e das suas raízes um ramo dará fruto.
+
+## Isaías 11:2
+
+O Espírito do Senhor repousará sobre ele — o espírito de sabedoria e de entendimento, o espírito de conselho e de fortaleza, o espírito de conhecimento e de temor do Senhor.
+
+## Isaías 11:3
+
+Ele se deleitará no temor do Senhor. Não julgará segundo a vista dos seus olhos, nem decidirá pelo que ouvir dos seus ouvidos;
+
+## Isaías 11:4
+
+mas com justiça julgará os pobres, e com equidade decidirá a favor dos mansos da terra. Ele ferirá a terra com a vara de sua boca, e com o sopro dos seus lábios matará os ímpios.
+
+## Isaías 11:5
+
+A justiça será o cinto ao redor de sua cintura, e a fidelidade o cinturão em torno de seus quadris.
+
+## Isaías 11:6
+
+O lobo habitará com o cordeiro, e o leopardo se deitará com o cabrito, o bezerro e o leão novo e o animal cevado juntos; e um menino pequeno os conduzirá.
+
+## Isaías 11:7
+
+A vaca e o urso pastarão, seus filhotes se deitarão juntos, e o leão comerá palha como o boi.
+
+## Isaías 11:8
+
+A criança de peito brincará sobre a toca da cobra, e a criança desmamada colocará a mão no ninho da víbora.
+
+## Isaías 11:9
+
+Não causarão dano nem destruição em todo o meu santo monte, pois a terra se encherá do conhecimento do Senhor como as águas cobrem o mar.
+
+---
+
+## Isaías 11:10
+
+Naquele dia, a Raiz de Jessé se erguerá como um estandarte para os povos; as nações recorrerão a ele, e o seu lugar de descanso será glorioso.
+
+## Isaías 11:11
+
+Naquele dia, o Senhor estenderá sua mão pela segunda vez para recuperar o remanescente do seu povo da Assíria, do Egito, de Patros, de Cuxe, de Elão, de Sinar, de Hamate e das ilhas do mar.
+
+## Isaías 11:12
+
+Ele levantará um estandarte para as nações e reunirá os exilados de Israel; ele ajuntará os dispersos de Judá dos quatro cantos da terra.
+
+## Isaías 11:13
+
+A inveja de Efraim desaparecerá, e os que hostilizam Judá serão eliminados; Efraim não terá inveja de Judá, nem Judá hostilizará Efraim.
+
+## Isaías 11:14
+
+Eles descerão sobre as encostas dos filisteus a oeste; juntos saquearão o povo do leste. Possuirão Edom e Moabe, e os amonitas lhes serão sujeitos.
+
+## Isaías 11:15
+
+O Senhor destruirá completamente a língua do mar do Egito; com um vento abrasador, ele agitará sua mão sobre o rio Eufrates, dividindo-o em sete riachos para que as pessoas possam atravessar de sandálias.
+
+## Isaías 11:16
+
+Haverá uma estrada da Assíria para o remanescente do seu povo que restar, assim como houve para Israel quando subiram da terra do Egito.
