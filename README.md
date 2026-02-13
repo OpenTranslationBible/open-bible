@@ -12,21 +12,21 @@ The Open Translation Bible (OTB) is the world's first open source bible and was 
 
 | Language                    | Code  | Launch        | Read PDF                                                                                                   |
 | --------------------------- | ----- | ------------- | ---------------------------------------------------------------------------------------------------------- |
-| 🇬🇧 English (British)        | en-GB | July 2025     | [📖 OpenBible.en-GB.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.en-GB.pdf) |
-| 🇮🇳 हिन्दी (Hindi)           | hi-IN | July 2025     | [📖 OpenBible.hi-IN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.hi-IN.pdf) |
-| 🇮🇷 فارسی (Persian)          | fa-IR | July 2025     | [📖 OpenBible.fa-IR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.fa-IR.pdf) |
-| 🇫🇷 Français (French)        | fr-FR | December 2025 | [📖 OpenBible.fr-FR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.fr-FR.pdf) |
-| 🇳🇴 Norsk Bokmål (Norwegian) | nb-NO | December 2025 | [📖 OpenBible.nb-NO.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.nb-NO.pdf) |
-| 🇩🇪 Deutsch (German)         | de-DE | December 2025 | [📖 OpenBible.de-DE.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.de-DE.pdf) |
-| 🇪🇬 العربية (Arabic Egyptian) | ar-EG | December 2025 | [📖 OpenBible.ar-EG.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.ar-EG.pdf) |
-| 🇯🇵 日本語 (Japanese)          | ja-JP | December 2025 | [📖 OpenBible.ja-JP.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.ja-JP.pdf) |
-| 🇧🇷 Português (Brazilian)      | pt-BR | December 2025 | [📖 OpenBible.pt-BR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.pt-BR.pdf) |
-| 🇪🇸 Español (Spain)            | es-ES | December 2025 | [📖 OpenBible.es-ES.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.es-ES.pdf) |
-| 🇨🇳 简体中文 (Simplified Chinese) | zh-CN | December 2025 | [📖 OpenBible.zh-CN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.zh-CN.pdf) |
-| 🇮🇩 Bahasa Indonesia           | id-ID | December 2025 | [📖 OpenBible.id-ID.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.id-ID.pdf) |
-| 🇸🇴 Soomaali (Somali)          | so-SO | December 2025 | [📖 OpenBible.so-SO.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.so-SO.pdf) |
-| 🇮🇱 עברית (Hebrew)             | he-IL | February 2026 | [📖 OpenBible.he-IL.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.he-IL.pdf) |
-| 🇷🇺 Русский (Russian)          | ru-RU | February 2026 | [📖 OpenBible.ru-RU.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/OpenBible.ru-RU.pdf) |
+| 🇬🇧 English (British)        | en-GB | July 2025     | [📖 OpenBible.en-GB.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.en-GB.pdf) |
+| 🇮🇳 हिन्दी (Hindi)           | hi-IN | July 2025     | [📖 OpenBible.hi-IN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.hi-IN.pdf) |
+| 🇮🇷 فارسی (Persian)          | fa-IR | July 2025     | [📖 OpenBible.fa-IR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.fa-IR.pdf) |
+| 🇫🇷 Français (French)        | fr-FR | December 2025 | [📖 OpenBible.fr-FR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.fr-FR.pdf) |
+| 🇳🇴 Norsk Bokmål (Norwegian) | nb-NO | December 2025 | [📖 OpenBible.nb-NO.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.nb-NO.pdf) |
+| 🇩🇪 Deutsch (German)         | de-DE | December 2025 | [📖 OpenBible.de-DE.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.de-DE.pdf) |
+| 🇪🇬 العربية (Arabic Egyptian) | ar-EG | December 2025 | [📖 OpenBible.ar-EG.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.ar-EG.pdf) |
+| 🇯🇵 日本語 (Japanese)          | ja-JP | December 2025 | [📖 OpenBible.ja-JP.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.ja-JP.pdf) |
+| 🇧🇷 Português (Brazilian)      | pt-BR | December 2025 | [📖 OpenBible.pt-BR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.pt-BR.pdf) |
+| 🇪🇸 Español (Spain)            | es-ES | December 2025 | [📖 OpenBible.es-ES.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.es-ES.pdf) |
+| 🇨🇳 简体中文 (Simplified Chinese) | zh-CN | December 2025 | [📖 OpenBible.zh-CN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.zh-CN.pdf) |
+| 🇮🇩 Bahasa Indonesia           | id-ID | December 2025 | [📖 OpenBible.id-ID.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.id-ID.pdf) |
+| 🇸🇴 Soomaali (Somali)          | so-SO | December 2025 | [📖 OpenBible.so-SO.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.so-SO.pdf) |
+| 🇮🇱 עברית (Hebrew)             | he-IL | February 2026 | [📖 OpenBible.he-IL.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.he-IL.pdf) |
+| 🇷🇺 Русский (Russian)          | ru-RU | February 2026 | [📖 OpenBible.ru-RU.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdfs/OpenBible.ru-RU.pdf) |
 
 We cross referenced over 1.3 million verses in English to ensure the english OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
 
