@@ -1,0 +1,61 @@
+{
+    "book": "Salmo",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "Salmo di Davide."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Il Signore è il mio pastore,",
+                "> nulla mi mancherà."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Egli mi fa riposare in verdi pascoli;",
+                "> mi guida lungo le acque calme."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Egli ristora la mia anima;",
+                "> mi conduce per sentieri di giustizia",
+                "> per amore del suo nome."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Anche se camminassi nella valle dell'ombra della morte,",
+                "> non temerei alcun male, perché tu sei con me;",
+                "> il tuo bastone e il tuo vincastro mi danno conforto."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Tu prepari una tavola davanti a me in presenza dei miei nemici;",
+                "> hai unto il mio capo con olio;",
+                "> la mia coppa trabocca."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Certamente bontà e misericordia mi accompagneranno tutti i giorni della mia vita,",
+                "> e abiterò nella casa del Signore per sempre."
+            ]
+        }
+    ]
+}

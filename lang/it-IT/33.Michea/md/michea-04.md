@@ -1,0 +1,106 @@
+# Michea Capitolo 4
+
+## Michea 4:1
+
+E avverrà negli ultimi giorni
+
+> Che il monte della casa del Signore  
+> Sarà stabilito come il più importante dei monti.  
+> Sarà elevato sopra le colline,  
+> E i popoli affluiranno ad esso.
+
+## Michea 4:2
+
+E molte nazioni verranno e diranno,
+
+> “Venite, saliamo al monte del Signore  
+> E alla casa del Dio di Giacobbe,  
+> Affinché Egli ci insegni le sue vie,  
+> E possiamo camminare nei suoi sentieri.”  
+> Poiché da Sion uscirà la legge,  
+> E la parola del Signore da Gerusalemme.
+
+## Michea 4:3
+
+> Ed Egli giudicherà tra molti popoli  
+> E pronuncerà sentenze per nazioni potenti e lontane.  
+> Allora trasformeranno le loro spade in vomeri,  
+> E le loro lance in falci;  
+> Nazione non alzerà più la spada contro nazione,  
+> E non impareranno più la guerra.
+
+## Michea 4:4
+
+> Ognuno siederà sotto la propria vite  
+> E sotto il proprio fico,  
+> Senza che nessuno li spaventi,  
+> Poiché la bocca del Signore degli eserciti ha parlato.
+
+## Michea 4:5
+
+> Anche se tutti i popoli camminano,  
+> Ognuno nel nome del proprio dio,  
+> Noi cammineremo  
+> Nel nome del Signore nostro Dio per sempre e in eterno.
+
+## Michea 4:6
+
+“In quel tempo,” dichiara il Signore,
+
+> “Radunerò coloro che sono zoppi  
+> E raccoglierò i dispersi,  
+> Coloro che ho abbassato.
+
+## Michea 4:7
+
+> Farò di coloro che sono zoppi un residuo,  
+> E di coloro che hanno vagato una nazione potente,  
+> E il Signore regnerà su di loro sul Monte Sion  
+> Da ora e per sempre.
+
+## Michea 4:8
+
+> Quanto a te, torre del gregge,  
+> Collina della figlia di Sion,  
+> A te verrà—  
+> Infatti, il dominio di un tempo ritornerà,  
+> Il regno della figlia di Gerusalemme.
+
+## Michea 4:9
+
+> Ora, perché gridi forte?  
+> Non c'è re tra di te,  
+> O è perito il tuo consigliere,  
+> Che l'agonia ti ha preso come una donna in travaglio?
+
+## Michea 4:10
+
+> Contorciti e grida, figlia di Sion,  
+> Come una donna in travaglio;  
+> Poiché ora lascerai la città,  
+> Abiterai nei campi,  
+> E andrai a Babilonia.  
+> Là sarai liberata,  
+> Là il Signore ti riscatterà  
+> Dalla mano dei tuoi nemici.
+
+## Michea 4:11
+
+> E ora molte nazioni si sono radunate contro di te  
+> Che dicono, “Sia profanata,  
+> E i nostri occhi si compiacciano di Sion!”
+
+## Michea 4:12
+
+> Ma non conoscono la mente del Signore,  
+> E non comprendono il suo proposito;  
+> Poiché Egli li ha radunati come covoni sull'aia.
+
+## Michea 4:13
+
+> Alzati e trebbia, figlia di Sion,  
+> Poiché farò il tuo corno di ferro,  
+> E farò i tuoi zoccoli di bronzo,  
+> Affinché tu possa schiacciare molti popoli,  
+> E consacrare al Signore il loro guadagno ingiusto,  
+> E la loro ricchezza al Signore di tutta la terra.

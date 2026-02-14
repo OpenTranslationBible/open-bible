@@ -1,0 +1,61 @@
+{
+    "book": "Salmo",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Beato l'uomo che non cammina nel consiglio degli empi,",
+                "> Né si ferma nella via dei peccatori,",
+                "> Né siede in compagnia degli schernitori!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Piuttosto, trova gioia nella Legge del Signore,",
+                "> E medita sulla Sua Legge giorno e notte."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Egli è come un albero piantato lungo corsi d'acqua,",
+                "> Che dà il suo frutto nella sua stagione,",
+                "> E le sue foglie rimangono verdi;",
+                "> E in tutto ciò che intraprende, prospera."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Gli empi non sono così,",
+                "> Ma somigliano alla pula che il vento disperde."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Così, gli empi non resisteranno nel giudizio,",
+                "> Né i peccatori nella congregazione dei giusti."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Poiché il Signore conosce la via dei giusti,",
+                "> Ma la via degli empi conduce alla rovina."
+            ]
+        }
+    ]
+}

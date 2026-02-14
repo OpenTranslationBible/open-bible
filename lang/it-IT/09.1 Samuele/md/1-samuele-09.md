@@ -1,0 +1,122 @@
+# 1 Samuele Capitolo 9
+
+## 1 Samuele 9:1
+
+C'era un uomo di Beniamino il cui nome era Kish, figlio di Abiel, figlio di Zeror, figlio di Becorat, figlio di Afiah, un Beniaminita, un uomo ricco.
+
+## 1 Samuele 9:2
+
+Egli aveva un figlio di nome Saul, un giovane scelto e bello. Tra i figli d'Israele non c'era nessuno più impressionante di lui; dalle spalle in su era più alto di qualsiasi altro del popolo.
+
+## 1 Samuele 9:3
+
+Ora le asine di Kish, padre di Saul, si erano smarrite. Così Kish disse a suo figlio Saul: “Prendi con te uno dei servi e va' a cercare le asine.”
+
+## 1 Samuele 9:4
+
+Passò attraverso la regione montuosa di Efraim e attraverso la terra di Salisa, ma non le trovarono. Poi attraversarono la terra di Saalim, e non c'erano. Passò anche attraverso il territorio di Beniamino, ma non le trovarono.
+
+## 1 Samuele 9:5
+
+Quando giunsero nella terra di Zuf, Saul disse al suo servo che era con lui: “Vieni, torniamo indietro, altrimenti mio padre smetterà di preoccuparsi delle asine e comincerà a preoccuparsi di noi.”
+
+## 1 Samuele 9:6
+
+Ma il servo disse: “Ecco, ora, c'è un uomo di Dio in questa città, ed è un uomo tenuto in onore. Tutto ciò che dice si avvera sicuramente. Andiamo là ora; forse ci potrà indicare la nostra via.”
+
+## 1 Samuele 9:7
+
+Allora Saul disse al suo servo: “Ma guarda, se andiamo, cosa porteremo all'uomo? Il pane è finito dai nostri sacchi, e non abbiamo nessun dono da presentare all'uomo di Dio. Cosa abbiamo?”
+
+## 1 Samuele 9:8
+
+Il servo rispose di nuovo a Saul e disse: “Ecco, ho con me un quarto di siclo d'argento. Lo darò all'uomo di Dio, ed egli ci indicherà la nostra via.”
+
+## 1 Samuele 9:9
+
+(Precedentemente in Israele, quando un uomo andava a consultare Dio, diceva: “Vieni, andiamo dal veggente,” poiché il profeta di oggi era precedentemente chiamato veggente.)
+
+## 1 Samuele 9:10
+
+Allora Saul disse al suo servo: “Il tuo consiglio è buono; vieni, andiamo.”  
+Così andarono alla città dove si trovava l'uomo di Dio.
+
+---
+
+## 1 Samuele 9:11
+
+Mentre salivano la collina verso la città, incontrarono delle giovani donne che uscivano a prendere acqua, e dissero loro: “È qui il veggente?”
+
+## 1 Samuele 9:12
+
+Risposero e dissero: “Sì, è proprio davanti a voi. Affrettatevi ora, perché oggi è venuto in città, poiché il popolo sta facendo un sacrificio sull'alto luogo.
+
+## 1 Samuele 9:13
+
+Appena entrate in città, lo troverete prima che salga sull'alto luogo a mangiare, poiché il popolo non mangerà finché non arriva. Deve benedire il sacrificio; dopo mangeranno gli invitati. Salite ora, perché lo troverete subito.”
+
+## 1 Samuele 9:14
+
+Così salirono alla città. Appena entrarono, ecco, Samuele stava venendo verso di loro per salire all'alto luogo.
+
+---
+
+## 1 Samuele 9:15
+
+Ora il Signore aveva rivelato a Samuele un giorno prima che Saul arrivasse, dicendo,
+
+## 1 Samuele 9:16
+
+“Domani a quest'ora ti manderò un uomo dalla terra di Beniamino, e tu lo ungerai come principe sul Mio popolo Israele. Egli libererà il Mio popolo dalla mano dei Filistei, perché ho riguardo per il Mio popolo, poiché il loro grido è giunto a Me.”
+
+## 1 Samuele 9:17
+
+Quando Samuele vide Saul, il Signore gli disse: “Ecco, questo è l'uomo di cui ti ho parlato! Egli governerà il Mio popolo.”
+
+---
+
+## 1 Samuele 9:18
+
+Saul si avvicinò a Samuele all'ingresso e chiese: “Potresti per favore mostrarmi la via per la casa del veggente?”
+
+## 1 Samuele 9:19
+
+Samuele rispose a Saul e disse: “Io sono il veggente. Sali davanti a me all'alto luogo, poiché oggi mangerai con me. Domani ti lascerò andare e ti dirò tutto ciò che è nel tuo cuore.
+
+## 1 Samuele 9:20
+
+Quanto alle tue asine che si sono smarrite tre giorni fa, non preoccuparti di loro, poiché sono state trovate. E a chi è rivolto tutto il desiderio d'Israele, se non a te e a tutta la casa di tuo padre?”
+
+## 1 Samuele 9:21
+
+Saul rispose e disse: “Non sono io un Beniaminita, della più piccola delle tribù d'Israele, e la mia famiglia non è la meno di tutte le famiglie della tribù di Beniamino? Perché allora mi hai parlato in questo modo?”
+
+---
+
+## 1 Samuele 9:22
+
+Allora Samuele prese Saul e il suo servo e li portò nella sala, e diede loro un posto alla testa di quelli che erano invitati—circa trenta persone.
+
+## 1 Samuele 9:23
+
+E Samuele disse al cuoco: “Porta la porzione che ti ho dato, di cui ti ho detto, ‘Mettila da parte.’”
+
+## 1 Samuele 9:24
+
+Così il cuoco prese la coscia e ciò che vi era sopra e la mise davanti a Saul. E Samuele disse: “Vedi, ciò che è stato riservato è posto davanti a te. Mangia, poiché è stato conservato per te fino al momento stabilito, poiché ho detto, ‘Ho invitato il popolo.’”  
+Così Saul mangiò con Samuele quel giorno.
+
+---
+
+## 1 Samuele 9:25
+
+Dopo che scesero dall'alto luogo nella città, Samuele conversò con Saul sul tetto.
+
+## 1 Samuele 9:26
+
+Si alzarono presto, e all'alba Samuele chiamò Saul sul tetto, dicendo: “Alzati, affinché io possa mandarti per la tua via.”  
+Così Saul si alzò, e entrambi, lui e Samuele, uscirono in strada.
+
+## 1 Samuele 9:27
+
+Mentre stavano scendendo al margine della città, Samuele disse a Saul: “Di' al servo di andare avanti”—e il servo passò oltre—“ma tu fermati un momento, affinché io possa dichiararti la parola di Dio.”

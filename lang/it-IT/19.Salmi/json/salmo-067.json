@@ -1,0 +1,73 @@
+{
+    "book": "Salmo",
+    "chapter": 67,
+    "verses": [
+        {
+            "text": [
+                "Per il direttore del coro; con strumenti a corda. Un Salmo. Un Canto."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Dio sia misericordioso con noi e ci benedica,",
+                "> E faccia risplendere il suo volto su di noi—",
+                "> Selah"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Affinché le tue vie siano riconosciute sulla terra,",
+                "> La tua salvezza fra tutte le nazioni."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Ti lodino i popoli, o Dio;",
+                "> Ti lodino tutti i popoli."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Si rallegrino le nazioni e cantino con gioia;",
+                "> Perché tu giudicherai i popoli con equità",
+                "> E guiderai le nazioni sulla terra.",
+                "> Selah"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Ti lodino i popoli, o Dio;",
+                "> Ti lodino tutti i popoli."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> La terra ha dato il suo raccolto;",
+                "> Dio, il nostro Dio, ci benedice."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> Dio ci benedice,",
+                "> Affinché tutte le estremità della terra lo temano."
+            ]
+        }
+    ]
+}

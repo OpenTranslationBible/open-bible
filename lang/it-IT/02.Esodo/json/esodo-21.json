@@ -1,0 +1,222 @@
+{
+    "book": "Esodo Capitolo",
+    "chapter": 21,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "“Queste sono le ordinanze che porrai davanti a loro:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Se acquisisci un servo ebreo, egli servirà per sei anni; ma nel settimo anno, sarà liberato come uomo libero, senza alcun pagamento."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Se arriva da solo, partirà da solo; ma se è sposato, allora sua moglie partirà con lui."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Se il suo padrone gli fornisce una moglie e lei gli dà figli o figlie, la moglie e i suoi figli apparterranno al suo padrone, ed egli partirà da solo."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ma se il servo dichiara: ‘Ho affetto per il mio padrone, mia moglie e i miei figli; non voglio andarmene come uomo libero,’"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "allora il suo padrone lo porterà davanti a Dio. Lo porterà alla porta o allo stipite e gli forerà l'orecchio con un punteruolo, ed egli lo servirà permanentemente."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "“Se un uomo vende sua figlia come serva, lei non andrà libera come fanno i servi maschi."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Se non piace al suo padrone che l'ha scelta per sé, deve permetterle di essere riscattata. Non ha l'autorità di venderla a popoli stranieri, a causa della sua infedeltà verso di lei."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "Se la destina a suo figlio, deve trattarla secondo i diritti delle figlie."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Se sposa un'altra donna, non deve diminuire il suo cibo, abbigliamento o diritti coniugali."
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "Se non le fornisce queste tre cose, lei andrà libera senza alcun pagamento."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "“Chiunque colpisca una persona in modo che muoia sarà certamente messo a morte."
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "Tuttavia, se non è premeditato, ma Dio permette che accada, io designerò un luogo per lui dove fuggire."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Ma se qualcuno agisce con malizia premeditata per uccidere il suo prossimo, lo prenderai anche dal Mio altare per metterlo a morte."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "“Chiunque colpisca suo padre o sua madre sarà certamente messo a morte."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "“Chiunque rapisca una persona, sia che l'abbia venduta o che sia ancora in suo possesso, sarà certamente messo a morte."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "“Chiunque maledica suo padre o sua madre sarà certamente messo a morte."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "“Se le persone litigano e uno colpisce l'altro con una pietra o con il pugno, e la vittima non muore ma è costretta a letto,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "se la parte lesa si rialza e cammina fuori con un bastone, allora l'aggressore sarà impunito; deve solo compensare la perdita di tempo e assicurarsi che la vittima sia completamente guarita."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "“Se qualcuno picchia il suo schiavo maschio o femmina con un bastone e lo schiavo muore per mano sua, deve essere punito."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Tuttavia, se lo schiavo sopravvive per un giorno o due, non si prenderà vendetta, perché lo schiavo è sua proprietà."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "“Se degli uomini lottano e colpiscono una donna incinta in modo che partorisca prematuramente, ma non c'è lesione grave, l'offensore sarà multato quanto il marito della donna richiede e i giudici permettono."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ma se c'è una lesione grave, darai vita per vita,"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "occhio per occhio, dente per dente, mano per mano, piede per piede,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "ustione per ustione, ferita per ferita, livido per livido."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "“Se un padrone colpisce l'occhio del suo schiavo maschio o femmina e lo distrugge, deve lasciare andare libero lo schiavo per compensare l'occhio."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "E se fa cadere un dente del suo schiavo maschio o femmina, deve lasciare andare libero lo schiavo per compensare il dente."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "“Se un bue incorna un uomo o una donna a morte, il bue deve essere lapidato, e la sua carne non sarà mangiata; ma il padrone del bue non sarà ritenuto responsabile."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Se, tuttavia, il bue è noto per aver incornato in passato e il suo padrone è stato avvertito ma non l'ha tenuto confinato, e uccide un uomo o una donna, il bue sarà lapidato e anche il suo padrone sarà messo a morte."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Se viene richiesto un riscatto, egli può riscattare la sua vita pagando quanto viene richiesto."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Questa legge si applica se il bue incorna un figlio o una figlia."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Se il bue incorna uno schiavo maschio o femmina, il padrone deve pagare trenta sicli d'argento al padrone dello schiavo, e il bue sarà lapidato."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "“Se qualcuno apre una fossa, o scava una fossa e non la copre, e un bue o un asino vi cade dentro,"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "il padrone della fossa deve fare restituzione; darà denaro al padrone dell'animale, e l'animale morto diventerà suo."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "“Se il bue di qualcuno ferisce il bue di un altro così che muore, venderanno il bue vivo e divideranno equamente il ricavato; divideranno anche il bue morto."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Tuttavia, se era noto che il bue aveva l'abitudine di incornare, e il suo padrone non l'ha tenuto confinato, deve fare restituzione, bue per bue, e l'animale morto diventerà suo."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,133 @@
+# Luca Capitolo 16
+
+## Luca 16:1
+
+Gesù disse ai suoi discepoli: “C'era un uomo ricco che aveva un amministratore, e questo amministratore fu accusato davanti a lui di sperperare i suoi beni.
+
+## Luca 16:2
+
+Allora lo chiamò e gli disse: ‘Che cosa sento dire di te? Rendi conto della tua amministrazione, perché non puoi più essere amministratore.’
+
+## Luca 16:3
+
+L'amministratore disse a se stesso: ‘Che farò, dato che il mio padrone mi toglie l'amministrazione? Non sono abbastanza forte per scavare; mi vergogno di mendicare.
+
+## Luca 16:4
+
+So cosa farò, affinché, quando sarò rimosso dall'amministrazione, la gente mi accolga nelle loro case.’
+
+## Luca 16:5
+
+Allora chiamò ciascuno dei debitori del suo padrone. Chiese al primo, ‘Quanto devi al mio padrone?’
+
+## Luca 16:6
+
+Rispose, ‘Cento misure d'olio.’ L'amministratore gli disse, ‘Prendi la tua ricevuta, siediti in fretta e scrivi cinquanta.’
+
+## Luca 16:7
+
+Poi chiese a un altro, ‘E tu quanto devi?’ Rispose, ‘Cento misure di grano.’ Gli disse, ‘Prendi la tua ricevuta e scrivi ottanta.’
+
+## Luca 16:8
+
+Il padrone lodò l'amministratore disonesto perché aveva agito con astuzia; poiché i figli di questo mondo sono più astuti nel trattare con i loro simili dei figli della luce.
+
+## Luca 16:9
+
+E io vi dico, fatevi amici con le ricchezze mondane, affinché, quando queste mancheranno, vi accolgano nelle dimore eterne.
+
+---
+
+## Luca 16:10
+
+Chi è fedele nel poco è fedele anche nel molto; e chi è disonesto nel poco è disonesto anche nel molto.
+
+## Luca 16:11
+
+Se non siete stati fedeli con le ricchezze mondane, chi vi affiderà le vere ricchezze?
+
+## Luca 16:12
+
+E se non siete stati affidabili con ciò che appartiene a un altro, chi vi darà ciò che è veramente vostro?
+
+## Luca 16:13
+
+Nessun servo può servire due padroni; perché o odierà l'uno e amerà l'altro, oppure sarà devoto all'uno e disprezzerà l'altro. Non potete servire Dio e la ricchezza.
+
+---
+
+## Luca 16:14
+
+I farisei, che erano amanti del denaro, ascoltarono tutte queste cose e lo deridevano.
+
+## Luca 16:15
+
+Egli disse loro: “Voi siete quelli che si giustificano davanti agli uomini, ma Dio conosce i vostri cuori; perché ciò che è altamente stimato tra gli uomini è abominevole agli occhi di Dio.
+
+---
+
+## Luca 16:16
+
+La Legge e i Profeti sono stati proclamati fino a Giovanni; da allora, il vangelo del regno di Dio è annunciato, e ciascuno si sforza di entrarvi.
+
+## Luca 16:17
+
+Ma è più facile che passino cielo e terra piuttosto che cada un solo tratto di lettera della Legge.
+
+## Luca 16:18
+
+Chiunque ripudia sua moglie e ne sposa un'altra commette adulterio, e chi sposa una donna ripudiata dal marito commette adulterio.
+
+---
+
+## Luca 16:19
+
+C'era un uomo ricco che indossava porpora e bisso, e conduceva ogni giorno una vita lussuosa.
+
+## Luca 16:20
+
+Alla sua porta giaceva un povero di nome Lazzaro, coperto di piaghe,
+
+## Luca 16:21
+
+e desideroso di sfamarsi con ciò che cadeva dalla tavola del ricco. Anche i cani venivano a leccare le sue piaghe.
+
+## Luca 16:22
+
+Avvenne che il povero morì e fu portato dagli angeli accanto ad Abramo. Anche il ricco morì e fu sepolto.
+
+## Luca 16:23
+
+Nel luogo dei morti, dove era in tormento, alzò gli occhi e vide da lontano Abramo, con Lazzaro accanto a lui.
+
+## Luca 16:24
+
+Allora gridò, ‘Padre Abramo, abbi pietà di me, e manda Lazzaro a intingere la punta del suo dito nell'acqua e a rinfrescarmi la lingua, perché sono in agonia in questa fiamma.’
+
+## Luca 16:25
+
+Ma Abramo disse, ‘Figlio, ricorda che durante la tua vita hai ricevuto i tuoi beni, e Lazzaro similmente i mali; ma ora lui è consolato qui, e tu sei in agonia.
+
+## Luca 16:26
+
+E oltre a tutto ciò, tra noi e voi è stato fissato un grande abisso, affinché quelli che vogliono passare di qui a voi non possano, né si possa attraversare da lì a noi.’
+
+## Luca 16:27
+
+Egli disse, ‘Allora ti supplico, padre, di mandarlo a casa di mio padre—
+
+## Luca 16:28
+
+perché ho cinque fratelli—affinché li avverta, perché non vengano anch'essi in questo luogo di tormento.’
+
+## Luca 16:29
+
+Ma Abramo disse, ‘Hanno Mosè e i Profeti; ascoltino loro.’
+
+## Luca 16:30
+
+Egli disse, ‘No, padre Abramo, ma se qualcuno dai morti va da loro, si pentiranno.’
+
+## Luca 16:31
+
+Ma egli gli disse, ‘Se non ascoltano Mosè e i Profeti, non saranno persuasi neanche se uno risorge dai morti.’”

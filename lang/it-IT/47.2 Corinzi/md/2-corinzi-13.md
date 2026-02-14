@@ -1,0 +1,57 @@
+# 2 Corinzi Capitolo 13
+
+## 2 Corinzi 13:1
+
+Questa è la terza volta che vengo da voi. Ogni questione deve essere confermata dalla testimonianza di due o tre testimoni.
+
+## 2 Corinzi 13:2
+
+Ho detto in precedenza quando ero presente la seconda volta, e anche se ora sono assente lo dico in anticipo a quelli che hanno peccato in passato e a tutti gli altri, che se verrò di nuovo non risparmierò nessuno,
+
+## 2 Corinzi 13:3
+
+Poiché cercate una prova che Cristo parla attraverso di me, che non è debole tra voi, ma potente in voi.
+
+## 2 Corinzi 13:4
+
+Infatti Egli è stato crocifisso nella debolezza, ma vive per la potenza di Dio. Anche noi siamo deboli in Lui, ma vivremo con Lui per la potenza di Dio rivolta verso di voi.
+
+## 2 Corinzi 13:5
+
+Mettetevi alla prova per vedere se siete nella fede; esaminate voi stessi! O non riconoscete questo riguardo a voi stessi, che Gesù Cristo è in voi, a meno che non falliate la prova?
+
+## 2 Corinzi 13:6
+
+Ma mi aspetto che vi rendiate conto che noi stessi non falliamo la prova.
+
+## 2 Corinzi 13:7
+
+Ora preghiamo Dio che non facciate nulla di sbagliato; non affinché sembriamo aver superato la prova, ma affinché facciate ciò che è giusto, anche se potremmo sembrare aver fallito.
+
+## 2 Corinzi 13:8
+
+Perché non possiamo fare nulla contro la verità, lavoriamo solo per la verità.
+
+## 2 Corinzi 13:9
+
+Poiché ci rallegriamo quando noi stessi siamo deboli ma voi siete forti; preghiamo anche per questo, che diventiate pienamente maturi.
+
+## 2 Corinzi 13:10
+
+Per questa ragione scrivo queste cose mentre sono assente, affinché quando sarò presente non debba essere severo, in linea con l'autorità che il Signore mi ha dato per edificare, e non per distruggere.
+
+## 2 Corinzi 13:11
+
+Infine, fratelli e sorelle, rallegratevi, mirate alla restaurazione, siate incoraggiati, siate di un solo pensiero, vivete in pace; e il Dio dell'amore e della pace sarà con voi.
+
+## 2 Corinzi 13:12
+
+Salutatevi a vicenda calorosamente con un santo bacio.
+
+## 2 Corinzi 13:13
+
+Tutti i credenti vi mandano i loro saluti.
+
+## 2 Corinzi 13:14
+
+La grazia del nostro Signore Gesù Cristo, l'amore di Dio, e la comunione dello Spirito Santo siano con tutti voi, per sempre.

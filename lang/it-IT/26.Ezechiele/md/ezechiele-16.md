@@ -1,0 +1,253 @@
+# Ezechiele Capitolo 16
+
+## Ezechiele 16:1
+
+Un messaggio dal Signore mi giunse:
+
+## Ezechiele 16:2
+
+“Uomo, informa Gerusalemme delle sue azioni detestabili.
+
+## Ezechiele 16:3
+
+e di': ‘Così dice il Signore Sovrano a Gerusalemme: La tua origine e la tua nascita furono nella terra dei Cananei; tuo padre era un Amorreo e tua madre un'Ittita.
+
+## Ezechiele 16:4
+
+Nel giorno in cui sei nata, il tuo cordone ombelicale non fu tagliato, né fosti lavata con acqua per purificarti; non fosti strofinata con sale né avvolta in fasce.
+
+## Ezechiele 16:5
+
+Nessuno ti guardò con pietà o ebbe compassione di fare per te una di queste cose. Piuttosto, fosti gettata in aperta campagna, perché fosti disprezzata nel giorno in cui sei nata.
+
+## Ezechiele 16:6
+
+“‘Poi passai vicino a te e ti vidi dimenarti nel tuo sangue, e ti dissi nel tuo sangue: “Vivi!”
+
+## Ezechiele 16:7
+
+Ti feci crescere come una pianta del campo. Crescesti e ti sviluppasti, raggiungendo l'età degli ornamenti raffinati; i tuoi seni si formarono e i tuoi capelli crebbero, ma eri nuda e scoperta.
+
+## Ezechiele 16:8
+
+“‘Più tardi passai vicino a te, e quando ti vidi, eri all'età dell'amore. Stesi il lembo del mio mantello su di te e coprii la tua nudità. Ti diedi il mio solenne giuramento e entrai in un patto con te, dichiara il Signore Sovrano, e diventasti mia.
+
+## Ezechiele 16:9
+
+“‘Ti lavai con acqua e ti pulii dal sangue e ti unsi con olio.
+
+## Ezechiele 16:10
+
+Ti vestii con abiti ricamati e ti misi sandali di cuoio pregiato. Ti avvolsi in lino fine e ti coprii di seta.
+
+## Ezechiele 16:11
+
+Ti adornai con gioielli: ti misi braccialetti ai polsi e una collana intorno al collo,
+
+## Ezechiele 16:12
+
+e posi un anello al naso, orecchini alle orecchie e una bella corona sulla testa.
+
+## Ezechiele 16:13
+
+Così fosti adornata d'oro e d'argento; i tuoi vestiti erano di lino fine, seta e stoffa ricamata. Il tuo cibo era farina fine, miele e olio d'oliva. Diventasti estremamente bella e avanzasti alla regalità.
+
+## Ezechiele 16:14
+
+La tua fama si diffuse tra le nazioni a causa della tua bellezza, perché era perfetta a causa dello splendore che avevo conferito su di te, dichiara il Signore Sovrano.
+
+## Ezechiele 16:15
+
+“‘Ma confidasti nella tua bellezza e diventasti infedele a causa della tua fama. Spandevi i tuoi favori su chiunque passasse, e la tua bellezza diventava sua.
+
+## Ezechiele 16:16
+
+Prendesti alcuni dei tuoi abiti per fare luoghi alti sgargianti, dove continuavi la tua prostituzione. Tali cose non dovrebbero accadere, né dovrebbero verificarsi.
+
+## Ezechiele 16:17
+
+Prendesti anche i bei gioielli che ti diedi, fatti del mio oro e argento, e facesti immagini maschili e ti prostituisti con esse.
+
+## Ezechiele 16:18
+
+E prendesti i tuoi abiti ricamati per adornarli, e offristi il mio olio e incenso davanti a loro.
+
+## Ezechiele 16:19
+
+Anche il cibo che ti fornii—la farina fine, l'olio d'oliva e il miele che ti diedi da mangiare—lo offristi come aroma soave davanti a loro. Questo è ciò che accadde, dichiara il Signore Sovrano.
+
+## Ezechiele 16:20
+
+“‘Inoltre, prendesti i tuoi figli e le tue figlie che mi partoristi e li sacrificasti agli idoli per essere consumati. Le tue pratiche oscene non erano sufficienti?
+
+## Ezechiele 16:21
+
+Mettesti a morte i miei figli e li offristi agli idoli facendoli passare attraverso il fuoco.
+
+## Ezechiele 16:22
+
+In tutte le tue pratiche abominevoli e la tua prostituzione, non ricordasti i giorni della tua giovinezza, quando eri nuda e scoperta, dimenandoti nel tuo sangue.
+
+## Ezechiele 16:23
+
+“‘Guai! Guai a te, dichiara il Signore Sovrano. Oltre a tutta la tua malvagità,
+
+## Ezechiele 16:24
+
+costruisti un tumulo per te e facesti un luogo alto in ogni piazza pubblica.
+
+## Ezechiele 16:25
+
+Ad ogni angolo di strada, costruisti i tuoi luoghi alti e degradasti la tua bellezza, spargendo le gambe con crescente promiscuità a ogni passante.
+
+## Ezechiele 16:26
+
+Ti prostituisti con gli Egiziani, i tuoi vicini lascivi, e mi provocasti all'ira con la tua crescente promiscuità.
+
+## Ezechiele 16:27
+
+Così stesi la mia mano contro di te e ridussi il tuo territorio; ti consegnai all'avidità dei tuoi nemici, le figlie dei Filistei, che si vergognavano della tua condotta licenziosa.
+
+## Ezechiele 16:28
+
+Agisti anche immoralmente con gli Assiri, perché eri insaziabile; e anche dopo ciò, non eri ancora soddisfatta.
+
+## Ezechiele 16:29
+
+Poi espandesti la tua promiscuità per includere Babilonia, una terra di mercanti, ma anche con questo, non eri contenta.
+
+## Ezechiele 16:30
+
+“‘Quanto è febbrile il tuo cuore, dichiara il Signore Sovrano, quando fai tutte queste cose, agendo come una prostituta sfacciata!
+
+## Ezechiele 16:31
+
+Quando costruisti i tuoi tumuli ad ogni angolo di strada e facesti i tuoi luoghi alti in ogni piazza pubblica, non eri come una prostituta perché disprezzasti il pagamento.
+
+## Ezechiele 16:32
+
+“‘Tu, moglie adultera, che preferisci gli estranei al tuo proprio marito!
+
+## Ezechiele 16:33
+
+Tutte le prostitute ricevono doni, ma tu dai doni a tutti i tuoi amanti, corrompendoli affinché vengano da te da ogni parte per le tue pratiche oscene.
+
+## Ezechiele 16:34
+
+Così nella tua prostituzione, non sei come le altre; nessuno corre dietro a te per i tuoi favori. Sei l'opposto, perché dai pagamento e nessuno te ne dà.
+
+## Ezechiele 16:35
+
+“‘Perciò, ascolta la parola del Signore, tu che hai agito come una prostituta!
+
+## Ezechiele 16:36
+
+Così dice il Signore Sovrano: Poiché la tua lascivia è stata versata e la tua nudità esposta nella tua promiscuità con i tuoi amanti e con tutti i tuoi idoli detestabili, e a causa del sangue dei tuoi figli che hai dato loro,
+
+## Ezechiele 16:37
+
+perciò radunerò tutti i tuoi amanti, con i quali trovasti piacere, quelli che amasti così come quelli che odiasti. Li radunerò contro di te da ogni direzione e esporrò la tua nudità a loro, affinché possano vedere tutta la tua nudità.
+
+## Ezechiele 16:38
+
+Ti giudicherò come si giudicano le donne che commettono adulterio e spargono sangue; farò ricadere su di te la vendetta del sangue della mia ira e gelosia.
+
+## Ezechiele 16:39
+
+Poi ti consegnerò nelle mani dei tuoi amanti, e abbatteranno i tuoi tumuli e distruggeranno i tuoi luoghi alti. Ti spoglieranno dei tuoi vestiti e prenderanno i tuoi bei gioielli e ti lasceranno nuda e scoperta.
+
+## Ezechiele 16:40
+
+Inciteranno una folla contro di te, che ti lapiderà e ti farà a pezzi con le loro spade.
+
+## Ezechiele 16:41
+
+Bruceranno le tue case e eseguiranno giudizi su di te alla vista di molte donne. Metterò fine alla tua prostituzione, e non pagherai più i tuoi amanti.
+
+## Ezechiele 16:42
+
+Allora la mia ira contro di te si placherà, e la mia gelosia si allontanerà da te; sarò calmo e non più adirato.
+
+## Ezechiele 16:43
+
+“‘Poiché non ricordasti i giorni della tua giovinezza ma mi provocasti con tutte queste cose, farò sicuramente ricadere sulla tua testa ciò che hai fatto, dichiara il Signore Sovrano. Non hai forse aggiunto lascivia a tutte le tue altre pratiche abominevoli?
+
+## Ezechiele 16:44
+
+“‘Chiunque citi proverbi dirà questo di te: “Tale madre, tale figlia.”
+
+## Ezechiele 16:45
+
+Sei la figlia di tua madre, che disprezzava suo marito e i suoi figli; e sei la sorella delle tue sorelle, che disprezzavano i loro mariti e i loro figli. Tua madre era un'Ittita e tuo padre un Amorreo.
+
+## Ezechiele 16:46
+
+Tua sorella maggiore era Samaria, viveva a nord con le sue figlie; e tua sorella minore, che viveva a sud con le sue figlie, era Sodoma.
+
+## Ezechiele 16:47
+
+Non solo seguisti le loro vie e commettesti le loro abominazioni, ma in tutte le tue vie presto diventasti più depravata di loro.
+
+## Ezechiele 16:48
+
+Sicuramente come vivo, dichiara il Signore Sovrano: tua sorella Sodoma e le sue figlie non fecero mai ciò che tu e le tue figlie avete fatto.
+
+## Ezechiele 16:49
+
+“‘Questo fu il peccato di tua sorella Sodoma: Lei e le sue figlie erano arroganti, spensierate, vivendo sotto troppo comfort; non aiutavano i poveri e i bisognosi.
+
+## Ezechiele 16:50
+
+Erano orgogliose e facevano cose detestabili davanti a me. Perciò le eliminai come hai visto.
+
+## Ezechiele 16:51
+
+Samaria non commise la metà dei peccati che hai fatto tu. Hai fatto cose più abominevoli di loro, e hai fatto sembrare giuste le tue sorelle con tutte queste cose che hai fatto.
+
+## Ezechiele 16:52
+
+Porta la tua vergogna, poiché hai fornito qualche giustificazione per le tue sorelle. Poiché i tuoi peccati erano più vili dei loro, sembrano più giuste di te. Quindi, vergognati e porta il tuo disonore, poiché hai fatto apparire giuste le tue sorelle.
+
+## Ezechiele 16:53
+
+“‘Tuttavia, restaurerò le fortune di Sodoma e delle sue figlie e di Samaria e delle sue figlie, e le tue fortune insieme a loro,
+
+## Ezechiele 16:54
+
+affinché tu possa portare il tuo disonore e vergognarti di tutto ciò che hai fatto nel dar loro conforto.
+
+## Ezechiele 16:55
+
+E le tue sorelle, Sodoma con le sue figlie e Samaria con le sue figlie, torneranno al loro stato precedente; e tu e le tue figlie tornerete al vostro stato precedente.
+
+## Ezechiele 16:56
+
+Non menzionavi nemmeno tua sorella Sodoma nel tempo del tuo orgoglio,
+
+## Ezechiele 16:57
+
+prima che la tua malvagità fosse scoperta. Così ora sei disprezzata dalle figlie di Edom e da tutti i suoi vicini e dalle figlie dei Filistei—tutti quelli intorno a te che ti disprezzano.
+
+## Ezechiele 16:58
+
+Porterai le conseguenze della tua lascivia e delle tue pratiche abominevoli, dichiara il Signore.
+
+## Ezechiele 16:59
+
+“‘Così dice il Signore Sovrano: Mi occuperò di te secondo le tue azioni, perché hai disprezzato il mio giuramento rompendo il patto.
+
+## Ezechiele 16:60
+
+Tuttavia ricorderò il patto che feci con te nella tua giovinezza, e stabilirò un patto eterno con te.
+
+## Ezechiele 16:61
+
+Allora ricorderai le tue vie e ti vergognerai quando riceverai le tue sorelle, sia quelle più grandi di te che quelle più giovani. Le darò a te come figlie, ma non a causa del mio patto con te.
+
+## Ezechiele 16:62
+
+Così stabilirò il mio patto con te, affinché tu sappia che io sono il Signore.
+
+## Ezechiele 16:63
+
+Allora, quando avrò fatto espiazione per te per tutto ciò che hai fatto, ricorderai e ti vergognerai e non aprirai mai più la bocca a causa della tua umiliazione, dichiara il Signore Sovrano.’”

@@ -1,0 +1,99 @@
+# Geremia Capitolo 30
+
+## Geremia 30:1
+
+Il messaggio del Signore fu dato a Geremia, dicendo:
+
+## Geremia 30:2
+
+“Così dice il Signore, il Dio d'Israele: ‘Registra tutte le parole che ti ho detto in un libro.
+
+## Geremia 30:3
+
+Poiché ecco, i giorni stanno arrivando,’ dichiara il Signore, ‘quando restaurerò le fortune del Mio popolo, Israele e Giuda. Li ricondurrò anche nel paese che ho dato ai loro antenati, e lo possederanno,’ dice il Signore.”
+
+## Geremia 30:4
+
+Questo è ciò che il Signore ha comunicato riguardo a Israele e Giuda:
+
+## Geremia 30:5
+
+“Poiché così dice il Signore: ‘Ho udito grida di terrore, di paura, e non di pace.
+
+## Geremia 30:6
+
+Chiedete ora, e vedete: Può un uomo partorire? Perché allora vedo ogni uomo con le mani sullo stomaco come una donna in travaglio, e perché tutti i volti sono impalliditi?
+
+## Geremia 30:7
+
+Ahimè, quanto sarà terribile quel giorno! Non ce n'è uno simile. È il tempo dell'angoscia di Giacobbe, eppure ne sarà salvato.
+
+## Geremia 30:8
+
+‘In quel giorno,’ dichiara il Signore degli Eserciti, ‘spezzerò il giogo dai loro colli e strapperò i loro legami; gli stranieri non li ridurranno più in schiavitù.
+
+## Geremia 30:9
+
+Serviranno invece il Signore loro Dio e Davide loro re, che io susciterò per loro.
+
+---
+
+## Geremia 30:10
+
+‘Quindi non temere, Giacobbe Mio servo,’ dichiara il Signore, ‘e non ti sgomentare, Israele; poiché ti salverò da lontano, e i tuoi discendenti dal paese della loro cattività. Giacobbe tornerà e sarà in pace, senza ansia, e nessuno lo farà temere.
+
+## Geremia 30:11
+
+Poiché io sono con te,’ dichiara il Signore, ‘per salvarti. Anche se distruggerò completamente tutte le nazioni dove ti ho disperso, non ti distruggerò completamente. Ti disciplinerò con giustizia, ma non ti lascerò impunito.’
+
+## Geremia 30:12
+
+“Poiché così dice il Signore: ‘La tua ferita è incurabile, la tua lesione oltre la guarigione.
+
+## Geremia 30:13
+
+Non c'è nessuno che possa difenderti, nessun rimedio per la tua piaga, nessuna guarigione per te.
+
+## Geremia 30:14
+
+Tutti i tuoi amanti ti hanno dimenticato; non ti cercano. Ti ho ferito come farebbe un nemico, con la punizione di un crudele, perché la tua colpa è grande e i tuoi peccati sono numerosi.
+
+## Geremia 30:15
+
+Perché gridi per la tua ferita, il tuo dolore che non ha cura? Poiché la tua malvagità è grande e i tuoi peccati sono molti, ti ho fatto queste cose.
+
+## Geremia 30:16
+
+Perciò, tutti coloro che ti divorano saranno divorati; tutti i tuoi avversari, ognuno di loro, andranno in cattività; quelli che ti saccheggiano diventeranno saccheggio, e tutti quelli che ti spogliano li spoglierò.
+
+## Geremia 30:17
+
+Tuttavia, ti ristabilirò in salute e guarirò le tue ferite,’ dichiara il Signore, ‘perché sei chiamato un reietto, Sion di cui nessuno si cura.’
+
+## Geremia 30:18
+
+“Così dice il Signore: ‘Ecco, restaurerò le fortune delle tende di Giacobbe e avrò compassione delle sue dimore; la città sarà ricostruita sulle sue rovine, e il palazzo starà al suo giusto posto.
+
+## Geremia 30:19
+
+Da loro usciranno canti di ringraziamento e suoni di gioia. Li moltiplicherò, e non saranno diminuiti; li onorerò, e non saranno disprezzati.
+
+## Geremia 30:20
+
+I loro figli prospereranno come nei giorni antichi, e la loro comunità sarà stabilita davanti a Me; punirò tutti quelli che li opprimono.
+
+## Geremia 30:21
+
+Il loro capo sarà uno di loro, e il loro governante verrà dal loro mezzo. Lo avvicinerò, ed egli si avvicinerà a Me— perché chi oserebbe rischiare la sua vita per avvicinarsi a Me?’ dichiara il Signore.
+
+## Geremia 30:22
+
+‘Così voi sarete il Mio popolo, e Io sarò il vostro Dio.’”
+
+## Geremia 30:23
+
+Ecco, la tempesta del Signore! L'ira è uscita, un turbine impetuoso; si abbatterà sulle teste dei malvagi.
+
+## Geremia 30:24
+
+La feroce ira del Signore non si ritirerà finché non avrà compiuto e realizzato i propositi del Suo cuore. Negli ultimi giorni comprenderete questo.

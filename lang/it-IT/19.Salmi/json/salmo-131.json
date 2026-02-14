@@ -1,0 +1,39 @@
+{
+    "book": "Salmo",
+    "chapter": 131,
+    "verses": [
+        {
+            "text": [
+                "Canto delle ascensioni. Di Davide."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Signore, il mio cuore non è orgoglioso, né i miei occhi arroganti;",
+                "> Non mi occupo di grandi cose,",
+                "> Né di cose troppo difficili per me."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> In verità ho calmato e quietato la mia anima,",
+                "> Come un bambino svezzato che riposa con sua madre,",
+                "> La mia anima dentro di me è come un bambino svezzato."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Israele, spera nel Signore",
+                "> Da ora e per sempre."
+            ]
+        }
+    ]
+}

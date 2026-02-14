@@ -1,0 +1,88 @@
+# Deuteronomio Capitolo 33
+
+## Deuteronomio 33:1
+Questa è la benedizione che Mosè, l'uomo di Dio, diede agli Israeliti prima di morire.
+
+## Deuteronomio 33:2
+Disse: “Il Signore venne da Sinai e si levò su di loro da Seir; brillò dal monte Paran. Venne con miriadi di santi; alla sua destra c'era un lampo folgorante per loro.
+
+## Deuteronomio 33:3
+In verità, è lui che ama il popolo; tutti i santi sono nella sua mano. Seguono i suoi passi e prendono le sue parole.
+
+## Deuteronomio 33:4
+Mosè ci diede la legge, un possesso per l'assemblea di Giacobbe.
+
+## Deuteronomio 33:5
+Egli fu re in Iesurun quando si radunarono i capi del popolo, le tribù d'Israele insieme.
+
+## Deuteronomio 33:6
+“Che Ruben viva e non muoia, né siano pochi i suoi uomini.”
+
+## Deuteronomio 33:7
+E questo è ciò che disse di Giuda: “Ascolta, o Signore, la voce di Giuda, e riportalo al suo popolo. Con le sue mani lotta per loro, e possa tu essere un aiuto contro i suoi avversari.”
+
+## Deuteronomio 33:8
+Di Levi disse: “Che i tuoi Tummim e Urim appartengano al tuo fedele servitore, che hai messo alla prova a Massa e con cui hai conteso alle acque di Meriba.
+
+## Deuteronomio 33:9
+Egli disse di suo padre e di sua madre: ‘Non ho riguardo per loro.’ Non riconobbe i suoi fratelli né considerò i suoi figli, perché hanno osservato la tua parola e custodito il tuo patto.
+
+## Deuteronomio 33:10
+Insegnano le tue ordinanze a Giacobbe e la tua legge a Israele. Offrono incenso davanti a te e olocausti sul tuo altare.
+
+## Deuteronomio 33:11
+Benedici la sua forza, o Signore, e sii contento del lavoro delle sue mani. Abbatti coloro che si levano contro di lui, i suoi nemici finché non si rialzino più.”
+
+## Deuteronomio 33:12
+Di Beniamino disse: “Che l'amato del Signore dimori al sicuro presso di lui, che lo protegge tutto il giorno, e tra le sue spalle riposa.”
+
+## Deuteronomio 33:13
+Di Giuseppe disse: “Possa il Signore benedire la sua terra con la preziosa rugiada dal cielo sopra e dalle acque profonde che giacciono sotto;
+
+## Deuteronomio 33:14
+con il miglior raccolto del sole e il più fine prodotto dei mesi;
+
+## Deuteronomio 33:15
+con i doni più scelti delle antiche montagne e l'abbondanza delle colline eterne;
+
+## Deuteronomio 33:16
+con i migliori doni della terra e la sua pienezza, e il favore di colui che dimorò nel roveto ardente. Che questi riposino sul capo di Giuseppe, sulla fronte del principe tra i suoi fratelli.
+
+## Deuteronomio 33:17
+Nella maestà egli è come un toro primogenito; le sue corna sono le corna di un bufalo selvatico. Con esse trafiggerà le nazioni, fino alle estremità della terra. Tali sono le diecimila di Efraim, tali sono le migliaia di Manasse.”
+
+## Deuteronomio 33:18
+Di Zabulon disse: “Rallegrati, Zabulon, nella tua uscita, e tu, Issacar, nelle tue tende.
+
+## Deuteronomio 33:19
+Chiameranno i popoli al monte; là offriranno sacrifici giusti. Festeggeranno con l'abbondanza dei mari e i tesori nascosti nella sabbia.”
+
+## Deuteronomio 33:20
+Di Gad disse: “Benedetto colui che amplia il dominio di Gad! Gad vive là come un leone, strappando braccio e testa.
+
+## Deuteronomio 33:21
+Scelse per sé la migliore terra; la porzione del capo fu riservata per lui. Venne con i capi del popolo; eseguì la giustizia del Signore e le sue ordinanze con Israele.”
+
+## Deuteronomio 33:22
+Di Dan disse: “Dan è un cucciolo di leone, che salta fuori da Basan.”
+
+## Deuteronomio 33:23
+Di Neftali disse: “Neftali è colmo del favore del Signore ed è pieno della sua benedizione; prenderà possesso del mare e del sud.”
+
+## Deuteronomio 33:24
+Di Aser disse: “Il più benedetto dei figli è Aser; sia favorito dai suoi fratelli, e immerga il suo piede nell'olio.
+
+## Deuteronomio 33:25
+Le sbarre delle tue porte saranno di ferro e bronzo, e la tua forza sarà pari ai tuoi giorni.
+
+## Deuteronomio 33:26
+“Non c'è nessuno come il Dio di Iesurun, che cavalca attraverso i cieli in tuo aiuto e sulle nubi nella sua maestà.
+
+## Deuteronomio 33:27
+Il Dio eterno è il tuo rifugio, e sotto di te ci sono le sue braccia eterne. Scaccerà i tuoi nemici davanti a te, dichiarando: ‘Sconfiggili!’
+
+## Deuteronomio 33:28
+Così Israele dimorerà al sicuro; Giacobbe dimorerà sicuro in una terra di grano e vino nuovo, dove i cieli stillano rugiada.
+
+## Deuteronomio 33:29
+Benedetto sei tu, Israele! Chi è come te, un popolo salvato dal Signore? Egli è il tuo scudo e aiuto e la tua gloriosa spada. I tuoi nemici si inchineranno davanti a te, e tu calpesterai i loro alti luoghi.”

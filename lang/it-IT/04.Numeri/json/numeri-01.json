@@ -1,0 +1,330 @@
+{
+    "book": "Numeri Capitolo",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Il Signore parlò a Mosè nel deserto del Sinai, nella tenda del convegno, il primo giorno del secondo mese nel secondo anno dopo che gli Israeliti erano usciti dall'Egitto, dicendo:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Fai un censimento di tutta la comunità degli Israeliti per famiglie, per case dei loro padri, elencando ogni maschio per nome, uno per uno."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Tu e Aaronne conterete tutti gli uomini in Israele che hanno venti anni o più e sono in grado di servire nell'esercito, secondo le loro divisioni."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Con te ci sarà un uomo per ogni tribù, ciascuno capo della sua famiglia."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Ecco i nomi degli uomini che ti assisteranno: da Ruben, Elizur figlio di Sedeur;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "dalla tribù di Simeone, Selumiel, figlio di Zurishaddai;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "dalla tribù di Giuda, Nascion, figlio di Amminadab;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "dalla tribù di Issacar, Netaneel, figlio di Zuar;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "dalla tribù di Zabulon, Eliab, figlio di Chelon;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "dai discendenti di Giuseppe: dalla tribù di Efraim, Elisama figlio di Ammiud; da Manasse, Gamliel figlio di Pedahsùr;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "dalla tribù di Beniamino, Abidan, figlio di Ghideoni;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "dalla tribù di Dan, Achièzer, figlio di Ammishaddai;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "dalla tribù di Aser, Paghiel, figlio di Ocran;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "dalla tribù di Gad, Eliasaf, figlio di Deuel;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "dalla tribù di Neftali, Achira, figlio di Enan."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Questi erano gli uomini designati dalla comunità, i capi delle tribù dei loro padri; erano i capi dei clan d'Israele."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Mosè e Aaronne radunarono questi uomini che erano stati designati per nome,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "e convocarono tutta la comunità il primo giorno del secondo mese. Registrarono per discendenza nelle loro famiglie, per case dei loro padri, secondo il numero dei nomi, dai venti anni in su, uno per uno,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "come il Signore aveva comandato a Mosè. Così li contò nel deserto del Sinai."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Dai discendenti di Ruben, primogenito d'Israele: Tutti gli uomini di venti anni o più che erano in grado di servire nell'esercito furono elencati per nome, uno per uno, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Il conteggio dalla tribù di Ruben fu di 46.500."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Dai discendenti di Simeone: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono contati ed elencati per nome, uno per uno, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Il conteggio dalla tribù di Simeone fu di 59.300."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Dai discendenti di Gad: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Il conteggio dalla tribù di Gad fu di 45.650."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Dai discendenti di Giuda: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Il conteggio dalla tribù di Giuda fu di 74.600."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Dai discendenti di Issacar: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Il conteggio dalla tribù di Issacar fu di 54.400."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Dai discendenti di Zabulon: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Il conteggio dalla tribù di Zabulon fu di 57.400."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Dai discendenti di Giuseppe: Dalla tribù di Efraim: Tutti gli uomini idonei di venti anni o più che erano capaci di servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Il conteggio dalla tribù di Efraim fu di 40.500."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Dai discendenti di Manasse: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Il conteggio dalla tribù di Manasse fu di 32.200."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Dai discendenti di Beniamino: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Il conteggio dalla tribù di Beniamino fu di 35.400."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Dai discendenti di Dan: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Il conteggio dalla tribù di Dan fu di 62.700."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Dai discendenti di Aser: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Il conteggio dalla tribù di Aser fu di 41.500."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Dai discendenti di Neftali: Tutti gli uomini di venti anni o più che erano idonei per il servizio militare furono elencati per nome, secondo i registri dei loro clan e famiglie."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Il conteggio dalla tribù di Neftali fu di 53.400."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Questi erano gli uomini contati da Mosè e Aaronne, con i capi d'Israele, dodici uomini, ciascuno rappresentante la casa di suo padre."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Tutti gli Israeliti di venti anni o più che erano idonei per il servizio militare nell'esercito d'Israele furono contati secondo le loro famiglie."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Il loro numero totale fu di 603.550."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "La tribù di Levi, tuttavia, non fu contata insieme agli altri."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Perché il Signore aveva parlato a Mosè, istruendolo,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "“Non devi contare la tribù di Levi né includerli nel censimento degli altri Israeliti."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Invece, nomina i Leviti sopra il tabernacolo della testimonianza, sopra tutti i suoi arredi e tutto ciò che gli appartiene. Devono portare il tabernacolo e tutti i suoi arredi; devono prendersene cura e accamparsi intorno ad esso."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Ogni volta che il tabernacolo deve essere spostato, i Leviti devono smontarlo, e ogni volta che deve essere allestito, i Leviti lo faranno. Qualsiasi estraneo che si avvicina sarà messo a morte."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Gli Israeliti devono accamparsi secondo le loro divisioni, ciascun uomo nel suo accampamento e ciascun uomo con il suo stendardo."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Ma i Leviti si accamperanno intorno al tabernacolo della testimonianza, affinché non ci sia ira divina contro la comunità degli Israeliti. I Leviti saranno responsabili del servizio al tabernacolo della testimonianza.”"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "Gli Israeliti fecero tutto questo proprio come il Signore aveva istruito Mosè."
+            ]
+        }
+    ]
+}

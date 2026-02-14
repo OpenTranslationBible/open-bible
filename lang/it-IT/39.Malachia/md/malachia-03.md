@@ -1,0 +1,73 @@
+# Malachia Capitolo 3
+
+## Malachia 3:1
+
+"Ecco, io mando il mio messaggero davanti a te, che preparerà la tua via davanti a me. Improvvisamente verrà al suo tempio il Signore che voi cercate; il messaggero del patto, in cui vi compiacete, ecco, egli viene," dice il Signore degli Eserciti.
+
+## Malachia 3:2
+
+"Ma chi potrà sopportare il giorno della sua venuta? E chi potrà resistere quando egli apparirà? Perché egli è come il fuoco del raffinatore e come la liscivia del lavandaio.
+
+## Malachia 3:3
+
+Egli si siederà come un raffinatore e purificatore d'argento, e purificherà i figli di Levi e li raffinerà come oro e argento, affinché possano offrire al Signore un'offerta in giustizia.
+
+## Malachia 3:4
+
+Allora l'offerta di Giuda e di Gerusalemme sarà gradita al Signore, come nei tempi antichi e negli anni passati.
+
+## Malachia 3:5
+
+"E io mi avvicinerò a voi per il giudizio; e sarò un testimone rapido contro gli stregoni, contro gli adulteri, contro i falsi giuratori, e contro coloro che opprimono il salariato nel suo salario, la vedova e l'orfano, e che allontanano lo straniero dal suo diritto, e non temono me," dice il Signore degli Eserciti.
+
+## Malachia 3:6
+
+"Perché io sono il Signore, non cambio; perciò voi figli di Giacobbe non siete consumati.
+
+## Malachia 3:7
+
+Dai giorni dei vostri padri vi siete allontanati dalle mie ordinanze e non le avete osservate. Tornate a me, e io tornerò a voi," dice il Signore degli Eserciti. "Ma voi dite, 'In che cosa dobbiamo tornare?'
+
+## Malachia 3:8
+
+"Un uomo deruberà Dio? Eppure voi mi avete derubato. Ma voi dite, 'In che cosa ti abbiamo derubato?' Nelle decime e nelle offerte.
+
+## Malachia 3:9
+
+Siete sotto una maledizione, perché mi avete derubato, persino tutta questa nazione.
+
+## Malachia 3:10
+
+Portate tutte le decime nel magazzino, affinché vi sia cibo nella mia casa, e mettetemi alla prova ora in questo," dice il Signore degli Eserciti, "se non aprirò per voi le finestre del cielo e non riverserò su di voi una benedizione, che non ci sarà abbastanza spazio per riceverla.
+
+## Malachia 3:11
+
+E rimprovererò il divoratore per amor vostro, ed egli non distruggerà i frutti del vostro suolo; né la vostra vite getterà il suo frutto prima del tempo nel campo," dice il Signore degli Eserciti.
+
+## Malachia 3:12
+
+"E tutte le nazioni vi chiameranno beati, perché sarete una terra deliziosa," dice il Signore degli Eserciti.
+
+## Malachia 3:13
+
+"Le vostre parole sono state dure contro di me," dice il Signore. "Eppure voi dite, 'Che cosa abbiamo detto tanto contro di te?'
+
+## Malachia 3:14
+
+Avete detto, 'È vano servire Dio, e quale profitto c'è nel mantenere la sua ordinanza e nel camminare tristemente davanti al Signore degli Eserciti?
+
+## Malachia 3:15
+
+E ora consideriamo fortunati i superbi; anzi, quelli che fanno il male sono esaltati, e quelli che sfidano Dio sfuggono.'"
+
+## Malachia 3:16
+
+Allora quelli che temevano il Signore parlavano spesso l'uno con l'altro, e il Signore ascoltava e udiva, e un libro di ricordo fu scritto davanti a lui per quelli che temevano il Signore e pensavano al suo nome.
+
+## Malachia 3:17
+
+"E saranno miei," dice il Signore degli Eserciti, "in quel giorno in cui farò i miei gioielli, e li risparmierò come un uomo risparmia il proprio figlio che lo serve."
+
+## Malachia 3:18
+
+Allora tornerete e discernerete tra il giusto e l'empio, tra colui che serve Dio e colui che non lo serve.

@@ -1,0 +1,115 @@
+# Isaia Capitolo 44
+
+## Isaia 44:1
+
+“Ora ascolta, Giacobbe, mio servo, e Israele, che ho scelto:
+
+## Isaia 44:2
+
+Così dice il Signore— colui che ti ha fatto e formato nel grembo, che ti aiuterà: Non temere, Giacobbe mio servo, e Iesurun, che ho scelto.
+
+## Isaia 44:3
+
+Poiché io verserò acqua sul terreno arido e ruscelli sul suolo asciutto; verserò il mio Spirito sulla tua discendenza e la mia benedizione sui tuoi posteri.
+
+## Isaia 44:4
+
+Essi germoglieranno tra l'erba, come pioppi lungo corsi d'acqua.
+
+## Isaia 44:5
+
+Uno dirà: ‘Io sono del Signore’; un altro si chiamerà col nome di Giacobbe; e un altro scriverà sulla sua mano, ‘Del Signore,’ e adotterà con onore il nome di Israele.
+
+---
+
+## Isaia 44:6
+
+Così dice il Signore— il Re d'Israele e suo Redentore, il Signore degli eserciti: Io sono il primo e io sono l'ultimo; oltre a me, non c'è Dio.
+
+## Isaia 44:7
+
+Chi è come me? Lo proclami. Lo dichiari e lo esponga davanti a me, ciò che è accaduto da quando ho stabilito il mio popolo antico, e ciò che deve ancora venire— lascino che predicano ciò che deve avvenire.
+
+## Isaia 44:8
+
+Non tremate, non abbiate paura. Non l'ho forse annunciato da tempo e dichiarato? Voi siete i miei testimoni. C'è forse un Dio oltre a me? No, non c'è altra Roccia; non ne conosco alcuna.
+
+## Isaia 44:9
+
+Tutti coloro che fanno idoli sono vani, e le cose che essi apprezzano non portano alcun beneficio; anche i loro testimoni non vedono né conoscono, così che saranno svergognati.
+
+## Isaia 44:10
+
+Chi forgia un dio o fonde un idolo, che non porta alcun beneficio?
+
+## Isaia 44:11
+
+Ecco, tutti i loro compagni saranno svergognati, perché gli artigiani stessi sono semplici mortali. Si radunino tutti e prendano posizione; saranno abbattuti dal terrore e dalla vergogna.
+
+## Isaia 44:12
+
+Il fabbro prende uno strumento e lavora con esso nei carboni; modella un idolo con martelli e lo forgia con la forza del suo braccio. Ha fame e perde forza; non beve acqua e si indebolisce.
+
+## Isaia 44:13
+
+Il falegname stende una linea e traccia un contorno con un marcatore; lo abbozza con scalpelli e lo segna con compassi. Lo modella in forma umana, forma umana in tutta la sua bellezza, per dimorare in un santuario.
+
+## Isaia 44:14
+
+Abbatte cedri, o forse prende un cipresso o una quercia. Lo lascia crescere forte tra gli alberi della foresta, o pianta un pino, e la pioggia lo fa crescere.
+
+## Isaia 44:15
+
+Diventa combustibile per il fuoco; parte di esso prende e si riscalda, accende un fuoco e cuoce il pane. Ma forgia anche un dio e lo adora; fa un idolo e si prostra davanti ad esso.
+
+## Isaia 44:16
+
+Metà del legno brucia nel fuoco; sopra di esso prepara il suo pasto, arrostisce carne e ne mangia a sazietà. Si riscalda anche e dice: “Ah! Sono caldo; vedo il fuoco.”
+
+## Isaia 44:17
+
+Dal resto crea un dio, il suo idolo; si prostra davanti ad esso e lo adora. Gli prega e dice: “Salvami! Tu sei il mio dio!”
+
+## Isaia 44:18
+
+Non sanno nulla, non comprendono nulla; i loro occhi sono coperti così che non possono vedere, e i loro cuori così che non possono comprendere.
+
+## Isaia 44:19
+
+Nessuno riflette, né c'è conoscenza o comprensione per dire: “Metà di esso l'ho usata come combustibile; ho anche cotto il pane sulle sue braci, ho arrostito carne e ho mangiato. Farò una cosa abominevole da ciò che resta? Mi prostrerò davanti a un blocco di legno?”
+
+## Isaia 44:20
+
+Si nutre di cenere; un cuore ingannato lo ha sviato. Non può salvare se stesso, né dire: “Non è forse questa cosa nella mia mano destra una menzogna?”
+
+## Isaia 44:21
+
+“Ricorda queste cose, Giacobbe, perché tu, Israele, sei il mio servo. Ti ho formato, sei il mio servo; Israele, non ti dimenticherò.
+
+## Isaia 44:22
+
+Ho cancellato le tue trasgressioni come una nube, e i tuoi peccati come una foschia. Ritorna a me, perché ti ho redento.”
+
+## Isaia 44:23
+
+Cantate di gioia, cieli, perché il Signore ha fatto questo; gridate forte, parti inferiori della terra. Esultate in canto, montagne, foreste e tutti i vostri alberi, perché il Signore ha redento Giacobbe, e manifesta la sua gloria in Israele.
+
+## Isaia 44:24
+
+Così dice il Signore— il tuo Redentore, che ti ha formato dal grembo: Io sono il Signore, il Creatore di tutte le cose, che distende i cieli da solo, che stende la terra da solo,
+
+## Isaia 44:25
+
+che frustra i segni dei falsi profeti e rende stolti i divinatori, che rovescia la saggezza dei saggi e la trasforma in sciocchezze,
+
+## Isaia 44:26
+
+che conferma la parola del suo servo e realizza il proposito dei suoi messaggeri, che dice di Gerusalemme, ‘Sarà abitata,’ e delle città di Giuda, ‘Saranno ricostruite,’ e delle loro rovine, ‘Le restaurerò,’
+
+## Isaia 44:27
+
+che comanda all'abisso acquoso, ‘Sii asciutto, e prosciugherò i tuoi ruscelli,’
+
+## Isaia 44:28
+
+che parla di Ciro, ‘Egli è il mio pastore e realizzerà tutto ciò che desidero; dirà di Gerusalemme, “Sia ricostruita,” e del tempio, “Siano poste le sue fondamenta.”’

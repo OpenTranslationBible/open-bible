@@ -1,0 +1,49 @@
+{
+    "book": "Salmo",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Lodate il Signore!",
+                "> Onorate Dio nel Suo luogo santo;",
+                "> Lodatelo nei Suoi vasti cieli."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Onoratelo per le Sue potenti opere;",
+                "> Lodatelo per la Sua suprema grandezza."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Onoratelo con il suono della tromba;",
+                "> Lodatelo con arpa e cetra."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Onoratelo con tamburello e danza;",
+                "> Lodatelo con strumenti a corda e flauto."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Onoratelo con cembali sonori;",
+                "> Lodatelo con cembali risonanti."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Ogni cosa che respira, lodi il Signore.",
+                "> Lodate il Signore!"
+            ]
+        }
+    ]
+}

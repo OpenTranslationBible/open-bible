@@ -1,0 +1,52 @@
+# Isaia Capitolo 54
+
+## Isaia 54:1
+“Rallegrati, donna sterile, tu che non hai partorito; prorompi in canti e grida di gioia, tu che non hai avuto doglie; poiché i figli della donna desolata sono più numerosi di quelli della donna maritata,” dice il Signore.
+
+## Isaia 54:2
+“Espandi lo spazio della tua tenda, allarga i teli della tua dimora, non trattenerti; allunga le tue corde e rafforza i tuoi picchetti.
+
+## Isaia 54:3
+Poiché ti espanderai a destra e a sinistra; i tuoi discendenti prenderanno possesso delle nazioni e abiteranno le città desolate.
+
+## Isaia 54:4
+“Non temere, perché non subirai vergogna; non ti sgomentare, perché non sarai disonorata; dimenticherai la vergogna della tua giovinezza e non ricorderai più il disonore della tua vedovanza.
+
+## Isaia 54:5
+Poiché il tuo Creatore è il tuo marito— il Signore degli eserciti è il suo nome— il Santo d'Israele è il tuo Redentore; è chiamato il Dio di tutta la terra.
+
+## Isaia 54:6
+Il Signore ti ha richiamata come una moglie abbandonata e afflitta nello spirito, come una moglie sposata in gioventù, solo per essere respinta,” dice il tuo Dio.
+
+## Isaia 54:7
+“Per un breve momento ti ho abbandonata, ma con grande compassione ti raccoglierò di nuovo.
+
+## Isaia 54:8
+In un momento di ira, mi sono allontanato da te, ma con benevolenza duratura ti mostrerò compassione,” dice il Signore tuo Redentore.
+
+## Isaia 54:9
+“Per me questo è come i giorni di Noè, quando giurai che le acque di Noè non avrebbero mai più inondato la terra. Così ho giurato di non essere più adirato con te né di rimproverarti di nuovo.
+
+## Isaia 54:10
+Anche se i monti si spostassero e i colli fossero scossi, tuttavia il mio amore costante per te non sarà rimosso né il mio patto di pace sarà scosso,” dice il Signore, che ha compassione di te.
+
+## Isaia 54:11
+“O città afflitta, sferzata dalle tempeste e non consolata, ti ricostruirò con pietre di turchese e poserò le tue fondamenta con zaffiri.
+
+## Isaia 54:12
+Renderò i tuoi bastioni di rubini, le tue porte di cristallo, e tutte le tue mura di pietre preziose.
+
+## Isaia 54:13
+Tutti i tuoi figli saranno guidati dal Signore, e la loro pace sarà abbondante.
+
+## Isaia 54:14
+Nella giustizia sarai stabilita; sarai lontana dall'oppressione, e non temerai; il terrore sarà lontano; non si avvicinerà a te.
+
+## Isaia 54:15
+Se qualcuno ti attacca, non verrà da me; chiunque ti attacchi cadrà davanti a te.
+
+## Isaia 54:16
+“Ecco, sono io che ho creato il fabbro che soffia il fuoco sui carboni e forgia un'arma adatta al suo lavoro; e ho creato il distruttore per devastare.
+
+## Isaia 54:17
+Nessuna arma forgiata contro di te avrà successo, e confuterai ogni lingua che si alza contro di te in giudizio. Questa è l'eredità dei servi del Signore, e la loro giustificazione viene da me,” dichiara il Signore.

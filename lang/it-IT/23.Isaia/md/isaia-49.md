@@ -1,0 +1,79 @@
+# Isaia Capitolo 49
+
+## Isaia 49:1
+Ascoltatemi, isole; prestate attenzione, popoli lontani: Il Signore mi ha chiamato dal grembo; dal corpo di mia madre mi ha nominato.
+
+## Isaia 49:2
+Ha reso la mia bocca come una spada affilata, nell'ombra della sua mano mi ha nascosto; mi ha fatto una freccia lucente e mi ha nascosto nella sua faretra.
+
+## Isaia 49:3
+Mi ha detto: “Tu sei il mio servo, Israele, attraverso cui mostrerò la mia gloria.”
+
+## Isaia 49:4
+Ma io ho detto: “Ho faticato invano; ho speso la mia forza per nulla e vanità. Tuttavia la mia giustificazione è con il Signore, e la mia ricompensa è con il mio Dio.”
+
+## Isaia 49:5
+E ora il Signore dice— colui che mi ha formato nel grembo per essere suo servo per riportare Giacobbe a lui e raccogliere Israele a sé, poiché sono onorato agli occhi del Signore e il mio Dio è la mia forza—
+
+## Isaia 49:6
+dice: “È troppo poco che tu sia mio servo per restaurare le tribù di Giacobbe e riportare i preservati d'Israele. Ti farò anche luce per le nazioni, affinché la mia salvezza raggiunga le estremità della terra.”
+
+## Isaia 49:7
+Così dice il Signore— il Redentore e il Santo d'Israele— a colui che è disprezzato e aborrito dalla nazione, al servo dei governanti: “I re vedranno e si alzeranno, i principi si inchineranno, a causa del Signore, che è fedele, il Santo d'Israele, che ti ha scelto.”
+
+## Isaia 49:8
+Così dice il Signore: “Nel tempo della mia grazia ti risponderò, e nel giorno della salvezza ti aiuterò; ti custodirò e ti farò un patto per il popolo, per restaurare la terra e riassegnare le sue eredità desolate,
+
+## Isaia 49:9
+per dire ai prigionieri, ‘Uscite,’ e a quelli nelle tenebre, ‘Mostratevi.’ Si nutriranno accanto alle strade e troveranno pascolo su tutte le alture desolate.
+
+## Isaia 49:10
+Non avranno né fame né sete, né il caldo ardente né il sole li colpiranno. Colui che ha compassione di loro li guiderà e li condurrà accanto a sorgenti d'acqua.
+
+## Isaia 49:11
+Trasformerò tutte le mie montagne in strade, e le mie autostrade saranno elevate.
+
+## Isaia 49:12
+Guarda, verranno da lontano— alcuni dal nord, alcuni dall'ovest, e alcuni dalla terra di Assuan.”
+
+## Isaia 49:13
+Gridate di gioia, cieli; rallegrati, terra; prorompete in canti, montagne! Perché il Signore consola il suo popolo e avrà compassione dei suoi afflitti.
+
+## Isaia 49:14
+Ma Sion lamentava, “Il Signore mi ha lasciato; il Signore non si ricorda più di me.”
+
+## Isaia 49:15
+“Può una madre dimenticare il suo bambino che allatta e non avere compassione del figlio che ha partorito? Anche se lei potesse dimenticare, io non ti dimenticherò!
+
+## Isaia 49:16
+Guarda, ti ho inciso sui palmi delle mie mani; le tue mura sono sempre davanti a me.
+
+## Isaia 49:17
+I tuoi figli si affrettano a tornare, e coloro che ti hanno devastato si allontaneranno da te.
+
+## Isaia 49:18
+Alza gli occhi e guarda intorno; tutti i tuoi figli si radunano e vengono da te. Com'è vero che io vivo,” dichiara il Signore, “li indosserai tutti come ornamenti; ti adornerai con loro, come una sposa.
+
+## Isaia 49:19
+Anche se eri rovinata e resa desolata e la tua terra devastata, ora sarai troppo stretta per il tuo popolo, e coloro che ti hanno divorato saranno lontani.
+
+## Isaia 49:20
+I bambini nati durante il tuo lutto diranno ancora al tuo orecchio, ‘Questo posto è troppo stretto per noi; dacci più spazio per vivere.’
+
+## Isaia 49:21
+Allora dirai nel tuo cuore, ‘Chi mi ha generato questi? Ero in lutto e sterile; ero esiliata e respinta. Chi li ha allevati? Ero rimasta tutta sola, ma questi—da dove vengono?’”
+
+## Isaia 49:22
+Così dice il Signore Sovrano: “Guarda, farò cenno alle nazioni, alzerò il mio stendardo ai popoli; porteranno i tuoi figli tra le loro braccia e porteranno le tue figlie sulle loro spalle.
+
+## Isaia 49:23
+I re saranno i tuoi padri adottivi, e le loro regine le tue nutrici. Si inchineranno davanti a te con il volto a terra; leccheranno la polvere ai tuoi piedi. Allora saprai che io sono il Signore; coloro che sperano in me non saranno delusi.”
+
+## Isaia 49:24
+Si possono prendere i bottini dai guerrieri, o liberare i prigionieri dai feroci?
+
+## Isaia 49:25
+Ma così dice il Signore: “Sì, i prigionieri possono essere presi dai guerrieri, e il bottino recuperato dai feroci; io contenderò con quelli che contendono con te, e i tuoi figli salverò.
+
+## Isaia 49:26
+Farò mangiare ai tuoi oppressori la loro stessa carne; si ubriacheranno del loro stesso sangue, come di vino dolce. Allora tutta l'umanità saprà che io, il Signore, sono il tuo Salvatore, il tuo Redentore, il Potente di Giacobbe.”

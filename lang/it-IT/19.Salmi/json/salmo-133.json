@@ -1,0 +1,41 @@
+{
+    "book": "Salmo",
+    "chapter": 133,
+    "verses": [
+        {
+            "text": [
+                "Canto dei pellegrinaggi. Di Davide."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Ecco, quanto è buono e quanto è piacevole",
+                "> Che i fratelli dimorino insieme nell'unità!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> È come l'olio prezioso sul capo,",
+                "> Che scende sulla barba,",
+                "> La barba di Aaronne,",
+                "> Che scende fino all'orlo delle sue vesti."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> È come la rugiada dell'Hermon",
+                "> Che scende sui monti di Sion;",
+                "> Poiché là il Signore ha ordinato la benedizione—",
+                "> Vita per sempre."
+            ]
+        }
+    ]
+}

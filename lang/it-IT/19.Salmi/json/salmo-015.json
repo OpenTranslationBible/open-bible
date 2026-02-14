@@ -1,0 +1,55 @@
+{
+    "book": "Salmo",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "Un Salmo di Davide."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Signore, chi può risiedere nella Tua tenda?",
+                "> Chi può stabilirsi sul Tuo monte santo?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Una persona che vive con integrità, agisce con giustizia,",
+                "> E parla con verità dal cuore."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Non calunnia con la sua lingua,",
+                "> Né fa del male al suo prossimo,",
+                "> Né porta vergogna al suo amico;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ai suoi occhi una persona spregevole è disprezzata,",
+                "> Ma onora coloro che temono il Signore;",
+                "> Fa un giuramento a proprio danno, e non cambia;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Non presta il suo denaro in modo ingiusto,",
+                "> Né accetta un regalo contro l'innocente.",
+                "---",
+                "> Chi vive in questo modo rimarrà saldo."
+            ]
+        }
+    ]
+}

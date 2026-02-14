@@ -1,0 +1,100 @@
+# Esodo Capitolo 23
+
+## Esodo 23:1
+“Non spargere una falsa testimonianza; non unirti a un malvagio per essere un testimone malizioso.
+
+## Esodo 23:2
+“Non seguire la moltitudine nel fare il male, né devi testimoniare in una causa per pervertire la giustizia schierandoti con la folla.
+
+## Esodo 23:3
+Non mostrare parzialità verso un povero nella sua disputa.
+
+## Esodo 23:4
+“Se incontri il bue o l'asino del tuo nemico che si allontana, devi restituirlo a lui.
+
+## Esodo 23:5
+Se vedi l'asino di qualcuno che ti odia sdraiato sotto il suo carico, non lasciarlo lì; devi aiutare a liberarlo con lui.
+
+## Esodo 23:6
+“Non negare la giustizia al tuo popolo bisognoso nelle loro cause.
+
+## Esodo 23:7
+Evita qualsiasi falsa accusa, e non danneggiare l'innocente o il giusto, perché non dichiarerò innocente il colpevole.
+
+## Esodo 23:8
+“Non accettare una tangente, perché una tangente acceca i chiaroveggenti e corrompe le parole dei giusti.
+
+## Esodo 23:9
+“Non opprimere un forestiero; conoscete il cuore di un forestiero, perché siete stati forestieri in Egitto.
+
+## Esodo 23:10
+“Per sei anni seminerai la tua terra e ne raccoglierai il prodotto,
+
+## Esodo 23:11
+ma nel settimo anno lasciala riposare e giacere incolta, affinché i poveri del tuo popolo possano mangiare, e ciò che lasciano lo mangino gli animali selvatici. Fai lo stesso con il tuo vigneto e il tuo uliveto.
+
+## Esodo 23:12
+“Per sei giorni farai il tuo lavoro, ma il settimo giorno cesserai dal lavoro, affinché il tuo bue e il tuo asino possano riposare, e il figlio della tua serva e il forestiero possano ristorarsi.
+
+## Esodo 23:13
+“Fai attenzione a fare tutto ciò che ti ho detto. Non menzionare i nomi di altri dèi; non siano uditi sulle tue labbra.
+
+## Esodo 23:14
+“Tre volte all'anno celebrerai una festa per me.
+
+## Esodo 23:15
+Osserverai la Festa degli Azzimi; per sette giorni mangerai pane azzimo, come ti ho comandato, nel tempo stabilito nel mese di Aviv, perché in quel mese sei uscito dall'Egitto. Nessuno deve presentarsi davanti a me a mani vuote.
+
+## Esodo 23:16
+“Osserva la Festa della Mietitura con le primizie dei tuoi lavori da ciò che semini nel campo, e la Festa della Raccolta alla fine dell'anno, quando raccogli i tuoi prodotti dal campo.
+
+## Esodo 23:17
+“Tre volte all'anno tutti i tuoi maschi compariranno davanti al Signore Sovrano.
+
+## Esodo 23:18
+“Non offrirai il sangue del mio sacrificio con qualcosa che contenga lievito, né il grasso delle mie offerte festive sarà lasciato fino al mattino.
+
+## Esodo 23:19
+“Porta il meglio delle primizie del tuo suolo alla casa del Signore tuo Dio. “Non cuocere un capretto nel latte di sua madre.
+
+## Esodo 23:20
+“Ecco, mando un angelo davanti a te per custodirti lungo il cammino e per condurti al luogo che ho preparato.
+
+## Esodo 23:21
+Sii attento a lui e ascolta la sua voce; non ribellarti a lui, perché non perdonerà le tue trasgressioni, poiché il mio Nome è in lui.
+
+## Esodo 23:22
+Se obbedisci veramente alla sua voce e fai tutto ciò che dico, sarò un nemico dei tuoi nemici e mi opporrò a coloro che ti si oppongono.
+
+## Esodo 23:23
+Il mio angelo andrà davanti a te e ti condurrà nella terra degli Amorrei, Hittiti, Perizziti, Cananei, Hiviti e Gebusei, e li distruggerò completamente.
+
+## Esodo 23:24
+Non ti inchinerai ai loro dèi né li servirai né seguirai le loro pratiche. Devi demolirli e spezzare le loro pietre sacre.
+
+## Esodo 23:25
+Servi il Signore tuo Dio, e la sua benedizione sarà sul tuo cibo e sulla tua acqua. Rimuoverò la malattia da te,
+
+## Esodo 23:26
+e nessuno abortirà o sarà sterile nel tuo paese. Ti darò una vita lunga e piena.
+
+## Esodo 23:27
+“Manderò il mio terrore davanti a te e getterò nella confusione ogni nazione che incontri. Farò sì che tutti i tuoi nemici voltino le spalle e fuggano.
+
+## Esodo 23:28
+Manderò i calabroni davanti a te per scacciare gli Hiviti, i Cananei e gli Hittiti dal tuo cammino.
+
+## Esodo 23:29
+Non li scaccerò davanti a te in un solo anno, affinché la terra non diventi desolata e gli animali selvatici troppo numerosi per te.
+
+## Esodo 23:30
+Gradualmente, li scaccerò davanti a te, finché non sarai cresciuto abbastanza per prendere possesso della terra.
+
+## Esodo 23:31
+“Stabilirò i tuoi confini dal Mar Rosso al Mar Mediterraneo, e dal deserto al Fiume Eufrate. Consegnarò gli abitanti della terra nelle tue mani, e li scaccerai davanti a te.
+
+## Esodo 23:32
+Non devi fare accordi con loro o con i loro dèi.
+
+## Esodo 23:33
+Non devono abitare nel tuo paese, altrimenti ti indurranno a peccare contro di me, perché il culto dei loro dèi sarà sicuramente una trappola per te.”

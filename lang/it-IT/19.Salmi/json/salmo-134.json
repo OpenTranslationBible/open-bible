@@ -1,0 +1,36 @@
+{
+    "book": "Salmo",
+    "chapter": 134,
+    "verses": [
+        {
+            "text": [
+                "Un Canto delle Ascensioni."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Ecco, benedite il Signore, voi tutti servi del Signore,",
+                "> Che servite di notte nella casa del Signore!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Alzate le mani verso il luogo santo",
+                "> E offrite lode al Signore."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Possa il Signore, il Creatore del cielo e della terra, benedirti da Sion."
+            ]
+        }
+    ]
+}

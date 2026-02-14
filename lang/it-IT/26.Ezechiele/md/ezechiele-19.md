@@ -1,0 +1,43 @@
+# Ezechiele Capitolo 19
+
+## Ezechiele 19:1
+"Alza un lamento per i principi d'Israele
+
+## Ezechiele 19:2
+e di': 'Come una leonessa era tua madre tra i leoni! Si accovacciava tra i giovani leoni e allevava i suoi cuccioli.
+
+## Ezechiele 19:3
+Fece crescere uno dei suoi cuccioli, e divenne un giovane leone. Imparò a sbranare la preda e divorava la gente.
+
+## Ezechiele 19:4
+Le nazioni sentirono parlare di lui, e fu preso nella loro trappola. Lo condussero via con uncini nella terra d'Egitto.
+
+## Ezechiele 19:5
+Quando vide che la sua speranza era perduta, la sua aspettativa svanita, prese un altro dei suoi cuccioli e lo fece diventare un giovane leone.
+
+## Ezechiele 19:6
+Vagava tra i leoni; divenne un giovane leone. Imparò a sbranare la preda e divorava la gente.
+
+## Ezechiele 19:7
+Demolì le loro fortezze e devastò le loro città. La terra e tutti i suoi abitanti erano atterriti dal suo ruggito.
+
+## Ezechiele 19:8
+Allora le nazioni si schierarono contro di lui da ogni parte. Stesero la loro rete su di lui, e fu preso nella loro trappola.
+
+## Ezechiele 19:9
+Lo misero in una gabbia con uncini e lo portarono al re di Babilonia, affinché la sua voce non fosse più udita sui monti d'Israele.
+
+## Ezechiele 19:10
+Tua madre era come una vite nel tuo vigneto, piantata presso le acque; era fruttuosa e piena di rami grazie alle acque abbondanti.
+
+## Ezechiele 19:11
+I suoi rami erano forti, adatti per uno scettro da sovrano. Si innalzava al di sopra del folto fogliame, notevole per la sua altezza e i suoi molti rami.
+
+## Ezechiele 19:12
+Ma fu sradicata con furore e gettata a terra. Il vento dell'est ne seccò il frutto; i suoi rami forti furono spezzati e appassiti, e il fuoco li consumò.
+
+## Ezechiele 19:13
+Ora è situata nel deserto, in una terra arida e assetata.
+
+## Ezechiele 19:14
+Dal suo ramo principale è uscito un fuoco che ha consumato i suoi germogli e frutti. Non è rimasto in essa alcun ramo forte, adatto per uno scettro da sovrano.' Questo è un lamento e deve essere usato come un lamento.

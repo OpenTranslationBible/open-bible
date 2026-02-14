@@ -1,0 +1,360 @@
+{
+    "book": "Levitico Capitolo",
+    "chapter": 13,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Il Signore parlò a Mosè, dicendo:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "\"Quando una persona ha un gonfiore, una crosta o una macchia lucente sulla pelle del suo corpo, e diventa una possibile infezione di lebbra, deve essere portata da Aronne il sacerdote o da uno dei suoi figli che sono sacerdoti."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "Il sacerdote esaminerà l'area infetta sulla pelle, e se il pelo nell'infezione è diventato bianco e l'infezione appare più profonda della pelle, è lebbra. Quando il sacerdote li esamina, li dichiarerà impuri."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Se la macchia lucente è bianca sulla pelle e non appare più profonda della pelle, e il pelo non è diventato bianco, il sacerdote isolerà la persona per sette giorni."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Il settimo giorno, il sacerdote li esaminerà, e se l'infezione non è cambiata e non si è diffusa sulla pelle, il sacerdote li isolerà per altri sette giorni."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "Il sacerdote li esaminerà di nuovo il settimo giorno, e se l'infezione è sbiadita e non si è diffusa, il sacerdote li dichiarerà puri; è solo un'eruzione. Devono lavare i loro vestiti e saranno puri."
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "Ma se l'eruzione si diffonde sulla pelle dopo che si sono mostrati al sacerdote per la purificazione, devono presentarsi di nuovo davanti al sacerdote."
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "Il sacerdote li esaminerà, e se l'eruzione si è diffusa, li dichiarerà impuri; è lebbra."
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "\"Quando una persona ha un'infezione di lebbra, deve essere portata dal sacerdote."
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "Il sacerdote li esaminerà, e se c'è un gonfiore bianco sulla pelle che ha fatto diventare il pelo bianco, e c'è carne viva nel gonfiore,"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "è una lebbra cronica sulla pelle, e il sacerdote li dichiarerà impuri. Non hanno bisogno di essere isolati, perché sono già impuri."
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "Se la lebbra si diffonde sulla pelle e copre l'intero corpo dalla testa ai piedi, per quanto il sacerdote può vedere,"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "il sacerdote li esaminerà, e se la lebbra ha coperto tutto il loro corpo, li dichiarerà puri. Poiché è tutto diventato bianco, sono puri."
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "Ma ogni volta che appare carne viva su di loro, saranno impuri."
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "Quando il sacerdote vede la carne viva, li dichiarerà impuri; la carne viva è impura, è lebbra."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Se la carne viva cambia e diventa bianca, devono presentarsi al sacerdote."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Il sacerdote li esaminerà, e se l'area infetta è diventata bianca, il sacerdote li dichiarerà puri; sono puri."
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "\"Quando c'è un foruncolo sulla pelle e guarisce,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "e nel luogo del foruncolo c'è un gonfiore bianco o una macchia lucente rossastra-bianca, devono presentarsi al sacerdote."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Il sacerdote lo esaminerà, e se appare più profondo della pelle e il pelo è diventato bianco, il sacerdote li dichiarerà impuri; è lebbra che è scoppiata nel foruncolo."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Ma se il sacerdote lo esamina e non c'è pelo bianco e non è più profondo della pelle ed è sbiadito, il sacerdote li isolerà per sette giorni."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Se si diffonde sulla pelle, il sacerdote li dichiarerà impuri; è un'infezione."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Ma se la macchia lucente rimane invariata e non si è diffusa, è solo la cicatrice del foruncolo, e il sacerdote li dichiarerà puri."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "\"Quando c'è una bruciatura sulla pelle e la carne viva della bruciatura diventa una macchia lucente, rossastra-bianca o bianca,"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "il sacerdote esaminerà la macchia, e se il pelo nella macchia lucente è diventato bianco e appare più profondo della pelle, è lebbra che è scoppiata nella bruciatura. Il sacerdote li dichiarerà impuri; è un'infezione di lebbra."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Ma se il sacerdote lo esamina e non c'è pelo bianco e non è più profondo della pelle ed è sbiadito, il sacerdote li isolerà per sette giorni."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Il settimo giorno, il sacerdote li esaminerà, e se si diffonde sulla pelle, il sacerdote li dichiarerà impuri; è un'infezione di lebbra."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Ma se la macchia lucente rimane invariata e non si è diffusa sulla pelle ed è sbiadita, è il gonfiore della bruciatura, e il sacerdote li dichiarerà puri; è solo la cicatrice della bruciatura."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "\"Se un uomo o una donna ha un'infezione sulla testa o sulla barba,"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "il sacerdote esaminerà l'infezione, e se appare più profonda della pelle e c'è pelo sottile giallastro, il sacerdote li dichiarerà impuri; è una scaglia, è lebbra della testa o della barba."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Ma se il sacerdote esamina l'infezione squamosa e non appare più profonda della pelle e non c'è pelo nero, il sacerdote li isolerà per sette giorni."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Il settimo giorno, il sacerdote esaminerà l'infezione, e se la scaglia non si è diffusa e non è cresciuto pelo giallastro, e non appare più profonda della pelle,"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "devono radersi, eccetto l'area colpita, e il sacerdote li isolerà per altri sette giorni."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Il settimo giorno, il sacerdote esaminerà la scaglia, e se non si è diffusa e non appare più profonda della pelle, il sacerdote li dichiarerà puri. Devono lavare i loro vestiti e saranno puri."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Ma se la scaglia si diffonde sulla pelle dopo che sono stati dichiarati puri,"
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "il sacerdote li esaminerà, e se la scaglia si è diffusa, non ha bisogno di cercare pelo giallastro; sono impuri."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Se la scaglia rimane invariata e il pelo nero è cresciuto in essa, la scaglia è guarita, e sono puri; il sacerdote li dichiarerà puri."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "\"Quando un uomo o una donna ha macchie lucenti sulla pelle, macchie lucenti bianche,"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "il sacerdote li esaminerà, e se le macchie lucenti sono di un bianco tenue, è eczema che è scoppiato sulla pelle; sono puri."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "\"Se un uomo perde i capelli della testa, è calvo ma puro."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Se perde i capelli dalla fronte e dai lati del suo cuoio capelluto, è calvo sulla fronte ma puro."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Ma se sulla testa calva o sulla fronte c'è un'infezione rossastra-bianca, è lebbra che scoppia sulla sua testa calva o fronte."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Il sacerdote lo esaminerà, e se il gonfiore dell'infezione è rossastra-bianco sulla sua testa calva o fronte, come l'aspetto della lebbra sulla pelle,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "è un uomo lebbroso ed è impuro. Il sacerdote deve dichiararlo impuro a causa dell'infezione sulla sua testa."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "\"Una persona con tale infezione deve indossare vestiti strappati, lasciare che i suoi capelli siano spettinati, coprire la parte inferiore del suo viso, e gridare: 'Impuro! Impuro!'"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Devono rimanere impuri finché hanno l'infezione. Devono vivere da soli fuori dal campo."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "\"Quando un indumento ha un segno di lebbra, sia che si tratti di un indumento di lana o di lino,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "sia nell'ordito o nella trama, di lino o di lana, o in pelle o in qualsiasi articolo fatto di pelle,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "se il segno è verdastro o rossastro nell'indumento o nella pelle, sia nell'ordito o nella trama, o in qualsiasi articolo di pelle, è un segno di lebbra e deve essere mostrato al sacerdote."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "Il sacerdote esaminerà il segno e isolerà l'articolo per sette giorni."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Il settimo giorno, esaminerà il segno, e se si è diffuso nell'indumento, nell'ordito o nella trama, o nella pelle, è una malignità lebbrosa ed è impuro."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "Deve bruciare l'indumento, sia ordito o trama, in lana o lino, o qualsiasi articolo di pelle dove si verifica il segno; è una malignità lebbrosa. Deve essere bruciato nel fuoco."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Ma se il sacerdote lo esamina e il segno non si è diffuso nell'indumento, nell'ordito o nella trama, o in qualsiasi articolo di pelle,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "il sacerdote ordinerà di lavare l'articolo e lo isolerà per altri sette giorni."
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "Dopo che l'articolo è stato lavato, il sacerdote lo esaminerà di nuovo, e se il segno non ha cambiato il suo aspetto, anche se non si è diffuso, è impuro. Brucialo, sia che il segno sia sul retro o sul davanti."
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "Ma se il sacerdote lo esamina e il segno è sbiadito dopo il lavaggio, lo strapperà dall'indumento, dalla pelle, dall'ordito o dalla trama."
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "Se riappare nell'indumento, nell'ordito o nella trama, o in qualsiasi articolo di pelle, è un segno che si diffonde; l'articolo deve essere bruciato."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "Qualsiasi indumento, ordito o trama, o qualsiasi articolo di pelle da cui il segno è scomparso dopo il lavaggio deve essere lavato di nuovo e sarà puro.\""
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Queste sono le norme per il segno di lebbra in un indumento di lana o di lino, ordito o trama, o qualsiasi articolo di pelle, per dichiararlo puro o impuro."
+            ]
+        }
+    ]
+}

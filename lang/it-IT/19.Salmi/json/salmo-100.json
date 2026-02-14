@@ -1,0 +1,48 @@
+{
+    "book": "Salmo",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "Un Salmo di ringraziamento."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Acclamate al Signore con gioia, o tutta la terra."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Servite il Signore con letizia;",
+                "> Avvicinatevi a Lui con canti di gioia."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Riconoscete che il Signore è veramente Dio;",
+                "> Egli è il nostro Creatore, e non ci siamo creati da soli;",
+                "> Apparteniamo a Lui, il gregge sotto la Sua cura."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Entrate nelle Sue porte con gratitudine,",
+                "> E nei Suoi cortili con lode.",
+                "> OffriteGli grazie, onorate il Suo nome."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Perché il Signore è buono;",
+                "> La Sua bontà dura per sempre,",
+                "> E la Sua fedeltà continua per tutte le generazioni."
+            ]
+        }
+    ]
+}

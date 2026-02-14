@@ -1,0 +1,222 @@
+# 2 Samuele Capitolo 15
+
+## 2 Samuele 15:1
+
+Dopo questo, Assalonne si procurò un carro e cavalli,  
+e cinquanta uomini che correvano davanti a lui.
+
+## 2 Samuele 15:2
+
+E Assalonne si alzava presto e si metteva accanto alla strada verso la porta.  
+Ogni volta che qualcuno aveva una causa da portare davanti al re per giudizio,  
+Assalonne lo chiamava e diceva:  
+“Di quale città sei?”  
+E lui rispondeva: “Il tuo servo è di una delle tribù d'Israele.”
+
+## 2 Samuele 15:3
+
+Allora Assalonne gli diceva:  
+“Vedi, le tue pretese sono buone e giuste,  
+ma non c'è nessuno designato dal re per ascoltarti.”
+
+## 2 Samuele 15:4
+
+E Assalonne diceva:  
+“Oh, se fossi designato giudice nel paese,  
+allora chiunque avesse una causa o un motivo verrebbe da me,  
+e io gli farei giustizia.”
+
+## 2 Samuele 15:5
+
+E ogni volta che un uomo si avvicinava per inchinarsi davanti a lui,  
+egli stendeva la mano, lo prendeva e lo baciava.
+
+## 2 Samuele 15:6
+
+Assalonne faceva questo a tutto Israele che veniva dal re per giudizio;  
+così Assalonne rubò i cuori degli uomini d'Israele.
+
+---
+
+## 2 Samuele 15:7
+
+Alla fine di quattro anni, Assalonne disse al re:  
+“Ti prego, lasciami andare a pagare il voto che ho fatto al Signore a Ebron.
+
+## 2 Samuele 15:8
+
+Poiché il tuo servo fece un voto mentre vivevo a Ghesur in Aram, dicendo:  
+‘Se il Signore mi riporterà davvero a Gerusalemme, allora servirò il Signore.’”
+
+## 2 Samuele 15:9
+
+E il re rispose: “Va' in pace.”  
+Così si alzò e andò a Ebron.
+
+## 2 Samuele 15:10
+
+Tuttavia, Assalonne mandò messaggeri in tutte le tribù d'Israele, istruendoli:  
+“Appena udite il suono della tromba,  
+allora proclamerete: ‘Assalonne regna a Ebron!’”
+
+## 2 Samuele 15:11
+
+E duecento uomini andarono con Assalonne da Gerusalemme, che erano stati invitati;  
+andarono in innocenza, senza sapere nulla.
+
+## 2 Samuele 15:12
+
+E mentre Assalonne offriva i sacrifici,  
+chiamò Ahitofel il Ghilonita, consigliere di Davide, dalla sua città Ghiloh.  
+E la congiura acquistò forza,  
+e il popolo con Assalonne continuava ad aumentare.
+
+---
+
+## 2 Samuele 15:13
+
+Allora un messaggero venne da Davide, dicendo:  
+“La lealtà degli uomini d'Israele si è rivolta ad Assalonne.”
+
+## 2 Samuele 15:14
+
+Così Davide disse a tutti i suoi servi che erano con lui a Gerusalemme:  
+“Alzatevi, fuggiamo, altrimenti nessuno di noi sfuggirà ad Assalonne.  
+Andate in fretta, affinché non ci raggiunga improvvisamente e porti il disastro su di noi,  
+e colpisca la città con il filo della spada.”
+
+## 2 Samuele 15:15
+
+Allora i servi del re gli dissero:  
+“Ecco, i tuoi servi sono pronti a fare qualunque cosa il mio signore il re scelga.”
+
+## 2 Samuele 15:16
+
+Così il re uscì, e tutta la sua casa con lui.  
+Ma il re lasciò dieci concubine a custodire la casa.
+
+## 2 Samuele 15:17
+
+E il re partì con tutto il popolo che lo accompagnava, e si fermarono all'ultima casa.
+
+## 2 Samuele 15:18
+
+Ora tutti i suoi servi passarono davanti a lui,  
+e tutti i Cheretei, tutti i Peletei e tutti i Ghittei—seicento uomini che lo avevano seguito da Gat—passarono davanti al re.
+
+## 2 Samuele 15:19
+
+Allora il re disse a Ittai il Ghitteo:  
+“Perché vieni anche tu con noi? Torna e resta con il re,  
+poiché sei un forestiero e anche un esule dal tuo luogo.
+
+## 2 Samuele 15:20
+
+Sei venuto solo ieri, e oggi ti farò vagare con noi,  
+poiché non so nemmeno dove sto andando?  
+Torna, e riprendi i tuoi fratelli.  
+Misericordia e verità siano con te.”
+
+## 2 Samuele 15:21
+
+Ma Ittai rispose al re e disse:  
+“Come vive il Signore, e come vive il mio signore il re,  
+certamente ovunque il mio signore il re sarà,  
+sia per morte che per vita, là sarà il tuo servo.”
+
+## 2 Samuele 15:22
+
+Così Davide disse a Ittai:  
+“Va' avanti, marcia.”  
+Così Ittai il Ghitteo passò con tutti i suoi uomini e i piccoli che erano con lui.
+
+---
+
+## 2 Samuele 15:23
+
+Tutta la terra pianse ad alta voce mentre tutto il popolo passava.  
+E il re attraversò il torrente Kidron,  
+e tutto il popolo passò verso la via del deserto.
+
+## 2 Samuele 15:24
+
+Ecco, anche Zadok venne, e tutti i Leviti con lui,  
+portando l'arca del patto di Dio.  
+Posarono l'arca di Dio, e Abiatar salì  
+finché tutto il popolo ebbe finito di uscire dalla città.
+
+## 2 Samuele 15:25
+
+Allora il re disse a Zadok:  
+“Riconduci l'arca di Dio nella città.  
+Se trovo favore agli occhi del Signore, Egli mi riporterà e mi farà vedere sia essa che il Suo luogo di dimora.
+
+## 2 Samuele 15:26
+
+Ma se Egli dovesse dire così, ‘Non ho piacere in te,’  
+ecco, eccomi; faccia di me ciò che gli sembra bene.”
+
+## 2 Samuele 15:27
+
+Il re disse anche a Zadok il sacerdote:  
+“Non sei forse un veggente? Torna in città in pace,  
+e i tuoi due figli con te,  
+Ahimaaz tuo figlio e Gionatan figlio di Abiatar.
+
+## 2 Samuele 15:28
+
+Vedi, aspetterò ai guadi del deserto  
+finché non mi mandi parola per informarmi.”
+
+## 2 Samuele 15:29
+
+Così, Zadok e Abiatar riportarono l'Arca di Dio a Gerusalemme e rimasero lì.
+
+---
+
+## 2 Samuele 15:30
+
+E Davide salì l'ascesa del Monte degli Ulivi, piangendo mentre andava.  
+La sua testa era coperta e camminava a piedi nudi.  
+E tutto il popolo che era con lui coprì le loro teste e salì,  
+piangendo mentre andavano.
+
+## 2 Samuele 15:31
+
+Allora qualcuno disse a Davide:  
+“Ahitofel è tra i congiurati con Assalonne.”  
+E Davide disse:  
+“O Signore, ti prego, rendi stolto il consiglio di Ahitofel.”
+
+## 2 Samuele 15:32
+
+Ora, mentre Davide arrivava alla sommità dove Dio era adorato,  
+ecco, Cusai l'Arkita venne a incontrarlo con la tunica strappata e polvere sulla testa.
+
+## 2 Samuele 15:33
+
+E Davide gli disse:  
+“Se passi con me, mi sarai di peso.
+
+## 2 Samuele 15:34
+
+Ma se torni in città e dici ad Assalonne,  
+‘Sarò tuo servo, o re; come sono stato servo di tuo padre in passato,  
+così ora sarò tuo servo,’  
+allora potrai sventare per me il consiglio di Ahitofel.
+
+## 2 Samuele 15:35
+
+Non saranno forse Zadok e Abiatar i sacerdoti con te lì?  
+Quindi qualunque cosa tu senta dalla casa del re, la riferirai a Zadok e Abiatar i sacerdoti.
+
+## 2 Samuele 15:36
+
+Guarda, i loro due figli sono lì con loro, Ahimaaz, figlio di Zadok,  
+e Gionatan, figlio di Abiatar;  
+e tramite loro mi manderai tutto ciò che senti.”
+
+## 2 Samuele 15:37
+
+Così Cusai, amico di Davide, entrò in città  
+proprio mentre Assalonne stava arrivando a Gerusalemme.

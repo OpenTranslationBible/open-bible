@@ -1,0 +1,47 @@
+{
+    "book": "Salmo",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Canto delle ascensioni."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> A te ho alzato i miei occhi,",
+                "> Tu che siedi nei cieli!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Guarda, come gli occhi dei servi sono rivolti alla mano del loro padrone,",
+                "> E come gli occhi di una serva alla mano della sua padrona,",
+                "> Così i nostri occhi sono rivolti al Signore nostro Dio,",
+                "> Finché Egli ci mostri il suo favore."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Mostraci la tua bontà, Signore, mostraci la tua bontà,",
+                "> Perché abbiamo sopportato più che abbastanza disprezzo."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> La nostra anima ha sopportato più che abbastanza",
+                "> Dello scherno di coloro che sono a loro agio,",
+                "> E del disprezzo dei superbi."
+            ]
+        }
+    ]
+}
