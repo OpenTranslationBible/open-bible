@@ -38,11 +38,11 @@ You are under a curse, for you have robbed me, even this whole nation.
 
 ## Malachi 3:10
 
-Bring all the tithes into the storehouse, that there may be food in my house, and prove me now herewith," says the Lord of Hosts, "if I will not open the windows of heaven for you and pour out a blessing, that there shall not be room enough to receive it.
+Bring all the tithes into the storehouse, that there may be food in my house. Test me now in this" says the Lord of Hosts, "see if I will not open the windows of heaven for you and pour out a blessing, that there shall not be room enough to receive it.
 
 ## Malachi 3:11
 
-And I will rebuke the devourer for your sakes, and he shall not destroy the fruits of your ground; neither shall your vine cast her fruit before the time in the field," says the Lord of Hosts.
+And I will rebuke the devourer for your sake, and he shall not destroy the fruits of your ground; neither shall your vine lose its fruit before its time in the field," says the Lord of Hosts.
 
 ## Malachi 3:12
 
