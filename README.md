@@ -29,6 +29,7 @@ The Open Translation Bible (OTB) is the world's first open source bible and was 
 | 🇷🇺 Русский (Russian)             | ru-RU | February 2026 | [📖 OpenBible.ru-RU.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.ru-RU.pdf) |
 | 🇮🇹 Italiano (Italian)            | it-IT | February 2026 | [📖 OpenBible.it-IT.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.it-IT.pdf) |
 | 🇰🇷 한국어 (Korean)               | ko-KR | February 2026 | [📖 OpenBible.ko-KR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.ko-KR.pdf) |
+| 🇮🇳 മലയാളം (Malayalam)            | ml-IN | March 2026    | [📖 OpenBible.ml-IN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.ml-IN.pdf) |
 
 We cross referenced over 1.3 million verses in English to ensure the english OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
 
