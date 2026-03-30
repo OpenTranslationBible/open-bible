@@ -1,4 +1,4 @@
-# Galati Chapter 3
+﻿# Galati Capitolo 3
 
 ## Galati 3:1
 

@@ -1,31 +1,31 @@
-# Exodus Kapitel 11
+﻿# 2. Mose Kapitel 11
 
-## Exodus 11:1
+## 2. Mose 11:1
 Nun sprach der Herr zu Mose: „Ich werde eine letzte Plage über den Pharao und Ägypten bringen. Danach wird er euch von hier freilassen. Wenn er das tut, wird er euch gewiss vollständig vertreiben.
 
-## Exodus 11:2
+## 2. Mose 11:2
 Weise das Volk an, dass jeder Mann und jede Frau von ihren Nachbarn Silber- und Goldgegenstände erbitten soll.“
 
-## Exodus 11:3
+## 2. Mose 11:3
 Der Herr ließ die Ägypter das Volk wohlwollend betrachten, und Mose wurde in Ägypten von den Beamten des Pharaos und dem Volk hoch geschätzt.
 
-## Exodus 11:4
+## 2. Mose 11:4
 Mose erklärte dann: „So spricht der Herr: ‚Um Mitternacht werde ich durch Ägypten gehen.
 
-## Exodus 11:5
+## 2. Mose 11:5
 Jeder Erstgeborene im Land Ägypten wird sterben, vom Erstgeborenen des Pharaos, der auf dem Thron sitzt, bis zum Erstgeborenen der Sklavin hinter den Mühlsteinen, und auch alle Erstgeborenen des Viehs.
 
-## Exodus 11:6
+## 2. Mose 11:6
 Es wird ein großes Wehklagen in ganz Ägypten geben – wie es noch nie geschehen ist und nie wieder geschehen wird.
 
-## Exodus 11:7
+## 2. Mose 11:7
 Aber unter den Israeliten wird nicht einmal ein Hund gegen irgendeinen Menschen oder ein Tier knurren, damit ihr versteht, dass der Herr einen Unterschied zwischen Ägypten und Israel macht.‘
 
-## Exodus 11:8
+## 2. Mose 11:8
 Alle diese Beamten von dir werden zu mir herabkommen, sich vor mir verneigen und sagen: ‚Zieh fort, du und all das Volk, das dir folgt!‘ Danach werde ich fortgehen.“ Dann verließ Mose den Pharao in großem Zorn.
 
-## Exodus 11:9
+## 2. Mose 11:9
 Der Herr hatte Mose gesagt: „Der Pharao wird nicht auf dich hören, damit meine Wunder in Ägypten vermehrt werden.“
 
-## Exodus 11:10
+## 2. Mose 11:10
 Mose und Aaron vollbrachten all diese Wunder vor dem Pharao, aber der Herr verhärtete das Herz des Pharaos, und er erlaubte den Israeliten nicht, sein Land zu verlassen.
