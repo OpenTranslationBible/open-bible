@@ -1,4 +1,4 @@
-# Job Chapter 25
+# Job Kapittel 25
 
 ## Job 25:1
 

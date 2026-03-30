@@ -1,4 +1,4 @@
-# Daniel Chapter 11
+# Daniel Kapittel 11
 
 ## Daniel 11:1
 

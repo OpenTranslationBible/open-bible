@@ -1,4 +1,4 @@
-# Mika Kapitel 1
+# Mika Kapittel 1
 
 ## Mika 1:1
 

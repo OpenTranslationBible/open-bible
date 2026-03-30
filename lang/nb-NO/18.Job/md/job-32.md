@@ -1,4 +1,4 @@
-# Job Chapter 32
+# Job Kapittel 32
 
 ## Job 32:1
 
