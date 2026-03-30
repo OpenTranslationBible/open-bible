@@ -1,0 +1,65 @@
+# 1 Timoteus Kapitel 4
+
+## 1 Timoteus 4:1
+
+Men Anden säger tydligt att i senare tider ska några avfalla från tron och hålla sig till vilseledande andar och onda läror,
+
+## 1 Timoteus 4:2
+
+genom hyckleriet hos dem som talar lögner, deras samveten är som om de vore brännmärkta med ett hett järn,
+
+## 1 Timoteus 4:3
+
+som förbjuder äktenskap och förespråkar avhållsamhet från mat som Gud har skapat för att tas emot med tacksamhet av dem som tror och känner sanningen.
+
+## 1 Timoteus 4:4
+
+För allt som Gud har skapat är gott, och inget är att förkastas om det tas emot med tacksamhet;
+
+## 1 Timoteus 4:5
+
+för det är helgat genom Guds ord och bön.
+
+## 1 Timoteus 4:6
+
+Genom att påminna bröderna och systrarna om dessa saker, kommer du att vara en god tjänare åt Kristus Jesus, ständigt närd av trons ord och den sunda läran som du har följt.
+
+## 1 Timoteus 4:7
+
+Men undvik meningslösa berättelser typiska för gamla kvinnor, och träna dig själv för gudsfruktans syfte;
+
+## 1 Timoteus 4:8
+
+för fysisk träning har ett visst värde, men gudsfruktan är värdefull i alla avseenden, eftersom den har löfte för både det nuvarande livet och det kommande livet.
+
+## 1 Timoteus 4:9
+
+Detta är ett uttalande värt full acceptans.
+
+## 1 Timoteus 4:10
+
+För det är för detta vi arbetar och strävar, eftersom vi har satt vårt hopp till den levande Guden, som är Frälsaren för alla människor, särskilt för dem som tror.
+
+## 1 Timoteus 4:11
+
+Instruera och lär andra i dessa saker.
+
+## 1 Timoteus 4:12
+
+Låt ingen se ner på din ungdom, utan var ett exempel för dem som tror, i tal, uppförande, kärlek, tro och renhet.
+
+## 1 Timoteus 4:13
+
+Tills jag kommer, ägna dig åt den offentliga läsningen, åt förmaning och undervisning.
+
+## 1 Timoteus 4:14
+
+Försumma inte den andliga gåva inom dig, som gavs till dig genom profetia med handpåläggning av de äldstes råd.
+
+## 1 Timoteus 4:15
+
+Var flitig i dessa frågor; fördjupa dig i dem, så att dina framsteg blir uppenbara för alla.
+
+## 1 Timoteus 4:16
+
+Se noga på ditt liv och din lära; håll ut i dem, för genom att göra så kommer du att säkerställa frälsning både för dig själv och för dem som lyssnar på dig.

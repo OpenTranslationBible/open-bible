@@ -1,0 +1,67 @@
+# Åbenbaringen Kapitel 3
+
+## Åbenbaringen 3:1
+“Skriv til englen for menigheden i Sardes: Dette siger han, som besidder Guds syv ånder og de syv stjerner. Jeg kender dine gerninger; du har ry for at være levende, men du er død.
+
+## Åbenbaringen 3:2
+Vær vågen og styrk det, der er tilbage, som er ved at dø, for jeg har fundet dine gerninger ufuldstændige i min Guds øjne.
+
+## Åbenbaringen 3:3
+Husk derfor, hvad du har modtaget og hørt; hold fast ved det, og omvend dig. Hvis du ikke er vågen, vil jeg komme som en tyv, og du vil ikke vide, hvilken time jeg kommer til dig.
+
+## Åbenbaringen 3:4
+Dog har du nogle få i Sardes, som ikke har besmittet deres klæder. De vil vandre med mig, klædt i hvidt, for de er værdige.
+
+## Åbenbaringen 3:5
+Den, der sejrer, vil blive klædt i hvide klæder som dem, og jeg vil ikke udslette hans navn af livets bog, men vil anerkende hans navn for min Fader og hans engle.
+
+## Åbenbaringen 3:6
+Den, der har øre, lad ham høre, hvad Ånden siger til menighederne.
+
+## Åbenbaringen 3:7
+“Skriv til englen for menigheden i Filadelfia: Dette siger den hellige og sande, som har Davids nøgle. Hvad han åbner, kan ingen lukke, og hvad han lukker, kan ingen åbne.
+
+## Åbenbaringen 3:8
+Jeg kender dine gerninger. Se, jeg har sat foran dig en åben dør, som ingen kan lukke. Du har lidt styrke, men du har holdt fast ved mit ord og ikke fornægtet mit navn.
+
+## Åbenbaringen 3:9
+Jeg vil få dem, der tilhører Satans synagoge, som hævder at være jøder, men ikke er det, og er løgnere—jeg vil få dem til at komme og bøje sig for dine fødder og erkende, at jeg har elsket dig.
+
+## Åbenbaringen 3:10
+Fordi du har holdt fast ved mit bud om at udholde, vil jeg også bevare dig fra den time af prøvelse, der skal komme over hele verden for at prøve jordens indbyggere.
+
+## Åbenbaringen 3:11
+Jeg kommer snart. Hold fast ved det, du har, så ingen tager din krone.
+
+## Åbenbaringen 3:12
+Den, der sejrer, vil jeg gøre til en søjle i min Guds tempel, og de vil aldrig forlade det. Jeg vil skrive på dem min Guds navn, og navnet på min Guds by, det nye Jerusalem, som kommer ned fra himlen fra min Gud; og jeg vil også skrive mit nye navn på dem.
+
+## Åbenbaringen 3:13
+Den, der har øre, lad ham høre, hvad Ånden siger til menighederne.
+
+## Åbenbaringen 3:14
+“Skriv til englen for menigheden i Laodikea: Dette siger Amen, det trofaste og sande vidne, oprindelsen til Guds skabelse.
+
+## Åbenbaringen 3:15
+Jeg kender dine gerninger, at du hverken er kold eller varm. Jeg ville ønske, du var enten kold eller varm!
+
+## Åbenbaringen 3:16
+Derfor, da du er lunken—hverken varm eller kold—vil jeg til at afvise dig.
+
+## Åbenbaringen 3:17
+Du siger, ‘Jeg er rig; jeg har skaffet mig rigdom og har ikke brug for noget.’ Men du indser ikke, at du er elendig, ynkelig, fattig, blind og nøgen.
+
+## Åbenbaringen 3:18
+Jeg råder dig til at købe guld af mig, lutret i ilden, så du kan blive rig; og hvide klæder at bære, så du kan dække din skammelige nøgenhed; og salve til at smøre på dine øjne, så du kan se.
+
+## Åbenbaringen 3:19
+Dem, jeg elsker, irettesætter og tugter jeg. Vær derfor ivrig og omvend dig.
+
+## Åbenbaringen 3:20
+Her er jeg! Jeg står ved døren og banker. Hvis nogen hører min stemme og åbner døren, vil jeg komme ind og spise med den person, og de med mig.
+
+## Åbenbaringen 3:21
+Den, der sejrer, vil jeg give ret til at sidde med mig på min trone, ligesom jeg sejrede og satte mig med min Fader på hans trone.
+
+## Åbenbaringen 3:22
+Den, der har øre, lad ham høre, hvad Ånden siger til menighederne.”

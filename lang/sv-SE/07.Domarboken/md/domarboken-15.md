@@ -1,0 +1,83 @@
+# Domarboken Kapitel 15
+
+## Domarboken 15:1
+
+Efter en tid, under veteskörden, gick Simson för att besöka sin hustru och tog med sig en ung get. Han sade, "Jag ska gå in till min hustrus kammare." Men hennes far tillät honom inte att gå in.
+
+## Domarboken 15:2
+
+Hennes far sade, "Jag var säker på att du föraktade henne, så jag gav henne till din följeslagare. Är inte hennes yngre syster vackrare? Du kan få henne istället."
+
+## Domarboken 15:3
+
+Simson svarade dem, "Denna gång ska jag vara utan skuld när jag skadar filistéerna."
+
+---
+
+## Domarboken 15:4
+
+Så Simson gick och fångade tre hundra rävar och tog facklor, band ihop rävarnas svansar två och två och satte en fackla mellan varje par svansar.
+
+## Domarboken 15:5
+
+Han tände facklorna och släppte rävarna in i filistéernas stående säd, och brände både kärvarna och den stående säden, liksom vingårdarna och olivlundarna.
+
+## Domarboken 15:6
+
+När filistéerna frågade, "Vem har gjort detta?" fick de veta, "Simson, timnitens svärson, eftersom hans hustru gavs till hans följeslagare." Så filistéerna gick upp och brände henne och hennes far med eld.
+
+## Domarboken 15:7
+
+Simson sade till dem, "Eftersom ni har handlat på detta sätt, kommer jag inte att sluta förrän jag har tagit min hämnd på er."
+
+## Domarboken 15:8
+
+Han anföll dem med stor våldsamhet och slaktade många. Sedan gick han ner och stannade i en grotta i klippan vid Etam.
+
+## Domarboken 15:9
+
+Filistéerna gick upp och slog läger i Juda, och spred sig nära Lehi.
+
+## Domarboken 15:10
+
+Judas män frågade, "Varför har ni kommit mot oss?" De svarade, "Vi har kommit för att fånga Simson, för att göra mot honom som han har gjort mot oss."
+
+## Domarboken 15:11
+
+Då gick tre tusen män från Juda ner till grottan i klippan vid Etam och sade till Simson, "Inser du inte att filistéerna härskar över oss? Vad har du gjort mot oss?" Han svarade, "Jag har gjort mot dem som de gjorde mot mig."
+
+## Domarboken 15:12
+
+De sade till honom, "Vi har kommit för att binda dig och överlämna dig till filistéerna." Simson sade, "Svära att ni inte själva kommer att döda mig."
+
+## Domarboken 15:13
+
+De svarade, "Vi går med på det; vi kommer bara att binda dig och överlämna dig till dem. Vi kommer inte att döda dig." Så de band honom med två nya rep och förde honom upp från klippan.
+
+## Domarboken 15:14
+
+När han närmade sig Lehi, kom filistéerna ropande för att möta honom. Herrens Ande kom mäktigt över honom, och repen på hans armar blev som förkolnat linne, och bindningarna föll från hans händer.
+
+## Domarboken 15:15
+
+Han fann ett färskt åsnekäke, sträckte ut handen, tog det, och dödade tusen män med det.
+
+## Domarboken 15:16
+
+Då förklarade Simson, "Med en åsnekäke har jag gjort högar på högar; med en åsnekäke har jag slagit tusen män."
+
+## Domarboken 15:17
+
+När han hade slutat tala, kastade han bort käken, och han kallade platsen Ramath Lehi.
+
+## Domarboken 15:18
+
+Känna sig mycket törstig, ropade han till Herren och sade, "Du har gett denna stora seger till din tjänare. Måste jag nu dö av törst och falla i de oomskurnas händer?"
+
+## Domarboken 15:19
+
+Då öppnade Gud det ihåliga stället i Lehi, och vatten flödade från det. När Simson drack, återvände hans styrka och han blev återupplivad. Så källan kallades En Hakkore, och den finns kvar i Lehi till denna dag.
+
+## Domarboken 15:20
+
+Simson dömde Israel i tjugo år under filistéernas dagar.

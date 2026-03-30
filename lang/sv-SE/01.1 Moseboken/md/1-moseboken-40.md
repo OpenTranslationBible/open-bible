@@ -1,0 +1,93 @@
+# Första Moseboken Kapitel 40
+
+## Första Moseboken 40:1
+
+En tid därefter förolämpade munskänken och bagaren hos kungen av Egypten sin herre, kungen av Egypten.
+
+## Första Moseboken 40:2
+
+Farao blev mycket arg på sina två ämbetsmän, övermunskänken och överbagaren.
+
+## Första Moseboken 40:3
+
+Han satte dem i förvar i huset hos befälhavaren för livvakten, i samma fängelse där Josef var inspärrad.
+
+## Första Moseboken 40:4
+
+Befälhavaren för livvakten tilldelade dem till Josef, och han betjänade dem; de var i förvar en tid.
+
+## Första Moseboken 40:5
+
+Munskänken och bagaren hos kungen av Egypten, som var inspärrade i fängelset, hade varsin dröm samma natt, och varje dröm hade sin egen betydelse.
+
+## Första Moseboken 40:6
+
+När Josef kom till dem på morgonen, märkte han att de var nedstämda.
+
+## Första Moseboken 40:7
+
+Så han frågade faraos ämbetsmän som var i förvar med honom i hans herres hus: "Varför ser ni så nedstämda ut idag?"
+
+## Första Moseboken 40:8
+
+De svarade: "Vi har haft drömmar, och det finns ingen som kan tyda dem." Josef sade till dem: "Tillhör inte uttydningar Gud? Berätta era drömmar för mig, är ni snälla."
+
+## Första Moseboken 40:9
+
+Så övermunskänken berättade sin dröm för Josef och sade: "I min dröm fanns det en vinstock framför mig,
+
+## Första Moseboken 40:10
+
+och på vinstocken fanns tre grenar. När den knoppade, öppnade sig dess blommor, och dess klasar mognade till druvor.
+
+## Första Moseboken 40:11
+
+Faraos bägare var i min hand, och jag tog druvorna, pressade dem i faraos bägare och satte bägaren i hans hand."
+
+## Första Moseboken 40:12
+
+Josef sade till honom: "Detta är uttydningen: de tre grenarna är tre dagar.
+
+## Första Moseboken 40:13
+
+Inom tre dagar kommer farao att lyfta upp ditt huvud och återställa dig till din position, och du kommer att sätta faraos bägare i hans hand, precis som du gjorde när du var hans munskänk.
+
+## Första Moseboken 40:14
+
+Men när det går dig väl, kom ihåg mig och visa mig godhet; nämn mig för farao och få mig ut ur detta fängelse.
+
+## Första Moseboken 40:15
+
+Jag blev med våld bortförd från hebreernas land, och även här har jag inte gjort något för att förtjäna att bli satt i en fängelsehåla."
+
+## Första Moseboken 40:16
+
+När överbagaren såg att uttydningen var gynnsam, sade han till Josef: "Jag hade också en dröm: på mitt huvud fanns tre korgar med bröd.
+
+## Första Moseboken 40:17
+
+I den översta korgen fanns alla slags bakverk för farao, men fåglarna åt dem från korgen på mitt huvud."
+
+## Första Moseboken 40:18
+
+Josef svarade: "Detta är uttydningen: de tre korgarna är tre dagar.
+
+## Första Moseboken 40:19
+
+Inom tre dagar kommer farao att lyfta av ditt huvud och hänga dig på en påle, och fåglarna kommer att äta ditt kött."
+
+## Första Moseboken 40:20
+
+På den tredje dagen, som var faraos födelsedag, höll han en fest för alla sina ämbetsmän. Han lyfte upp huvudet på övermunskänken och huvudet på överbagaren i sina ämbetsmäns närvaro:
+
+## Första Moseboken 40:21
+
+Han återställde övermunskänken till hans position, så att han återigen satte bägaren i faraos hand;
+
+## Första Moseboken 40:22
+
+men han avrättade överbagaren, precis som Josef hade uttolkat för dem.
+
+## Första Moseboken 40:23
+
+Men övermunskänken kom inte ihåg Josef; han glömde bort honom.

@@ -1,0 +1,122 @@
+# 1 Samweli Sura ya 9
+
+## 1 Samweli 9:1
+
+Palikuwa na mtu wa Benyamini jina lake aliitwa Kishi, mwana wa Abieli, mwana wa Zerori, mwana wa Bekorathi, mwana wa Afia, Mbenyamini, mtu tajiri.
+
+## 1 Samweli 9:2
+
+Alikuwa na mwana aliyeitwa Sauli, kijana mteule na mwenye sura nzuri. Miongoni mwa wana wa Israeli hakuna aliyekuwa wa kuvutia zaidi kuliko yeye; kuanzia mabegani mwake kwenda juu alikuwa mrefu kuliko watu wote.
+
+## 1 Samweli 9:3
+
+Sasa punda za Kishi, baba yake Sauli, zilikuwa zimepotea. Kwa hiyo Kishi akamwambia mwanawe Sauli, “Chukua mmoja wa watumishi pamoja nawe uende ukatafute punda.”
+
+## 1 Samweli 9:4
+
+Akapita katika nchi ya vilima ya Efraimu na kupitia nchi ya Shalisha, lakini hawakuwapata. Kisha wakapita katika nchi ya Shaalimu, na hawakuwapo huko. Pia alipita katika eneo la Benyamini, lakini hawakuwapata.
+
+## 1 Samweli 9:5
+
+Walipofika nchi ya Sufu, Sauli akamwambia mtumishi wake aliyekuwa pamoja naye, “Njoo, turudi, la sivyo baba yangu ataacha kuhangaika juu ya punda na kuanza kuhangaika juu yetu.”
+
+## 1 Samweli 9:6
+
+Lakini mtumishi akasema, “Tazama sasa, kuna mtu wa Mungu katika mji huu, naye ni mtu anayeheshimiwa. Yote asemayo hakika hutimia. Twende huko sasa; labda anaweza kutuambia njia yetu.”
+
+## 1 Samweli 9:7
+
+Kisha Sauli akamwambia mtumishi wake, “Lakini tazama, tukienda, tutampelekea nini mtu huyo? Mkate umekwisha katika vifurushi vyetu, na hatuna zawadi ya kumpelekea mtu wa Mungu. Tuna nini?”
+
+## 1 Samweli 9:8
+
+Mtumishi akamjibu Sauli tena na kusema, “Tazama, nina robo ya shekeli ya fedha. Nitampa mtu wa Mungu, naye atatuambia njia yetu.”
+
+## 1 Samweli 9:9
+
+(Zamani katika Israeli, mtu alipokwenda kumwuliza Mungu, alisema, “Njoo, twende kwa mwonaji,” kwa maana nabii wa leo zamani aliitwa mwonaji.)
+
+## 1 Samweli 9:10
+
+Kisha Sauli akamwambia mtumishi wake, “Ushauri wako ni mzuri; njoo, twende.”  
+Basi wakaenda mpaka mji ambako mtu wa Mungu alikuwa.
+
+---
+
+## 1 Samweli 9:11
+
+Walipokuwa wakipanda kilima kuelekea mji, wakakutana na wanawake vijana wakitoka kuchota maji, wakawauliza, “Je, mwonaji yupo hapa?”
+
+## 1 Samweli 9:12
+
+Wakajibu na kusema, “Ndiyo, yuko mbele yenu. Harakisheni sasa, kwa maana leo amekuja mjini, kwa sababu watu wanafanya dhabihu mahali pa juu.
+
+## 1 Samweli 9:13
+
+Mara tu mkiingia mjini, mtamkuta kabla hajaenda mahali pa juu kula, kwa maana watu hawatakula mpaka aje. Lazima abariki dhabihu; baada ya hapo wale walioalikwa watakula. Pandeni sasa, kwa maana mtamkuta mara moja.”
+
+## 1 Samweli 9:14
+
+Basi wakapanda kwenda mjini. Walipoingia, tazama, Samweli alikuwa akitoka kuelekea kwao kwenda mahali pa juu.
+
+---
+
+## 1 Samweli 9:15
+
+Sasa Bwana alikuwa amemfunulia Samweli siku moja kabla ya kuja kwa Sauli, akisema,
+
+## 1 Samweli 9:16
+
+“Kesho wakati kama huu nitakutumia mtu kutoka nchi ya Benyamini, nawe utampaka mafuta awe mkuu juu ya watu wangu Israeli. Atawakomboa watu wangu kutoka mikononi mwa Wafilisti, kwa maana nimewaangalia watu wangu, kwa sababu kilio chao kimenifikia.”
+
+## 1 Samweli 9:17
+
+Samweli alipomwona Sauli, Bwana akamwambia, “Tazama, huyu ndiye mtu niliyemwambia! Atatawala juu ya watu wangu.”
+
+---
+
+## 1 Samweli 9:18
+
+Sauli akamwendea Samweli kwenye ingilio na kumwuliza, “Je, unaweza kunionyesha njia ya kwenda kwa nyumba ya mwonaji?”
+
+## 1 Samweli 9:19
+
+Samweli akamjibu Sauli na kusema, “Mimi ndiye mwonaji. Panda mbele yangu kwenda mahali pa juu, kwa maana leo utakula pamoja nami. Asubuhi nitakuacha uende na nitakuambia yote yaliyomo moyoni mwako.
+
+## 1 Samweli 9:20
+
+Kuhusu punda wako waliopotea siku tatu zilizopita, usijali juu yao, kwa maana wamepatikana. Na kwa nani matamanio yote ya Israeli yameelekezwa, kama si kwako na kwa nyumba yote ya baba yako?”
+
+## 1 Samweli 9:21
+
+Sauli akajibu na kusema, “Je, mimi si Mbenyamini, wa kabila dogo zaidi la Israeli, na je, familia yangu si ndogo zaidi ya koo zote za kabila la Benyamini? Kwa nini basi umesema nami hivi?”
+
+---
+
+## 1 Samweli 9:22
+
+Kisha Samweli akamchukua Sauli na mtumishi wake na kuwapeleka katika ukumbi, na kuwapa nafasi kwenye kichwa cha wale walioalikwa—watu wapatao thelathini.
+
+## 1 Samweli 9:23
+
+Na Samweli akamwambia mpishi, “Leta sehemu niliyokupa, ambayo nilikuambia, ‘Iweke kando.’”
+
+## 1 Samweli 9:24
+
+Basi mpishi akachukua paja na kilichokuwa juu yake na kukiweka mbele ya Sauli. Na Samweli akasema, “Tazama, kilichohifadhiwa kimewekwa mbele yako. Kula, kwa maana kiliwekwa kwa ajili yako mpaka wakati uliowekwa, tangu niliposema, ‘Nimewaalika watu.’”  
+Basi Sauli akala pamoja na Samweli siku hiyo.
+
+---
+
+## 1 Samweli 9:25
+
+Baada ya kushuka kutoka mahali pa juu kwenda mjini, Samweli akazungumza na Sauli juu ya paa.
+
+## 1 Samweli 9:26
+
+Wakaamka mapema, na alfajiri Samweli akamwita Sauli juu ya paa, akisema, “Amka, ili nikutume njiani.”  
+Basi Sauli akaamka, na wote wawili, yeye na Samweli, wakatoka nje barabarani.
+
+## 1 Samweli 9:27
+
+Walipokuwa wakishuka mpaka kwenye ukingo wa mji, Samweli akamwambia Sauli, “Mwambie mtumishi aende mbele yetu”—na mtumishi akapita—“lakini wewe simama kidogo, ili nikutangazie neno la Mungu.”

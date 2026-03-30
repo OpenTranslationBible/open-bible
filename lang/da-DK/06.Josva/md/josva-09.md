@@ -1,0 +1,115 @@
+# Josva Kapitel 9
+
+## Josva 9:1
+
+Da alle kongerne hinsides Jordan hørte om disse begivenheder—i bjerglandet, lavlandet og langs hele kysten af Det Store Hav mod Libanon, inklusive kongerne af hittitterne, amoritterne, kana'anæerne, perizzitterne, hivvitterne og jebusitterne—
+
+## Josva 9:2
+
+samlede de sig med ét formål: at kæmpe mod Josva og Israel.
+
+---
+
+## Josva 9:3
+
+Men da indbyggerne i Gibeon hørte om Josvas handlinger mod Jeriko og Ai,
+
+## Josva 9:4
+
+handlede de med list og drog af sted med forsyninger, læssede deres æsler med slidte sække og gamle vinsække, der var revnede og reparerede.
+
+## Josva 9:5
+
+De bar gamle og lappede sandaler på deres fødder og var klædt i slidte klæder. Alt deres brød var tørt og smuldret.
+
+## Josva 9:6
+
+De gik til Josva i lejren ved Gilgal og sagde til ham og israelitterne: "Vi er kommet fra et fjernt land; indgå nu en pagt med os."
+
+## Josva 9:7
+
+Israelitterne sagde til hivvitterne: "Måske bor I nær os; hvordan kan vi da indgå en pagt med jer?"
+
+## Josva 9:8
+
+De svarede Josva: "Vi er dine tjenere." Josva spurgte dem: "Hvem er I, og hvor kommer I fra?"
+
+## Josva 9:9
+
+De svarede: "Dine tjenere er kommet fra et meget fjernt land på grund af Herren din Guds ry, for vi har hørt om alt, hvad Han gjorde i Egypten,
+
+## Josva 9:10
+
+og alt, hvad Han gjorde mod de to amoritterkonger hinsides Jordan—Sihon, kongen af Heshbon, og Og, kongen af Bashan, som regerede i Ashtaroth.
+
+## Josva 9:11
+
+Vore ældste og alle indbyggerne i vort land sagde til os: 'Tag forsyninger til rejsen og gå for at møde dem. Sig til dem: "Vi er jeres tjenere; indgå en pagt med os."'
+
+## Josva 9:12
+
+Dette brød var varmt, da vi pakkede det den dag, vi tog af sted for at komme til jer, men se nu, hvor tørt og smuldret det er.
+
+## Josva 9:13
+
+Og disse vinsække, vi fyldte, var nye, men se, hvordan de er revnede; og vore klæder og sandaler er slidte på grund af den meget lange rejse."
+
+## Josva 9:14
+
+Israelitterne prøvede deres forsyninger, men søgte ikke Herrens råd.
+
+## Josva 9:15
+
+Så sluttede Josva fred med dem og indgik en pagt om at lade dem leve, og menighedens ledere bekræftede det med en ed.
+
+---
+
+## Josva 9:16
+
+Tre dage efter at de havde indgået pagten med gibeonitterne, erfarede israelitterne, at de var naboer, der boede blandt dem.
+
+## Josva 9:17
+
+Israelitterne drog af sted og nåede på den tredje dag deres byer: Gibeon, Kefira, Beerot og Kirjat-Jearim.
+
+## Josva 9:18
+
+Men israelitterne angreb dem ikke, fordi menighedens ledere havde svoret dem en ed ved Herren, Israels Gud. Hele menigheden knurrede mod lederne,
+
+## Josva 9:19
+
+men alle lederne sagde til menigheden: "Vi har svoret dem en ed ved Herren, Israels Gud, og nu kan vi ikke skade dem.
+
+## Josva 9:20
+
+Dette er, hvad vi vil gøre: lad dem leve, så vreden ikke falder over os for at bryde den ed, vi svor dem."
+
+## Josva 9:21
+
+De fortsatte: "Lad dem leve, men lad dem være brændehuggere og vandbærere for hele menigheden." Således blev ledernes løfte til dem opretholdt.
+
+## Josva 9:22
+
+Så kaldte Josva gibeonitterne til sig og sagde: "Hvorfor bedragede I os ved at sige: 'Vi bor langt fra jer,' når I faktisk bor blandt os?
+
+## Josva 9:23
+
+Nu er I under en forbandelse: I vil aldrig ophøre med at tjene som brændehuggere og vandbærere for min Guds hus."
+
+## Josva 9:24
+
+De svarede Josva: "Dine tjenere blev klart informeret om, at Herren din Gud befalede sin tjener Moses at give jer hele landet og at ødelægge alle dets indbyggere foran jer. Så vi frygtede meget for vores liv på grund af jer, og det er derfor, vi handlede sådan.
+
+## Josva 9:25
+
+Nu er vi i jeres hænder. Gør med os, hvad I mener er godt og rigtigt."
+
+---
+
+## Josva 9:26
+
+Så skånede Josva dem fra israelitterne, og de blev ikke dræbt.
+
+## Josva 9:27
+
+Den dag gjorde han gibeonitterne til brændehuggere og vandbærere for menigheden og for Herrens alter, på det sted Han ville vælge. Og det er, hvad de er den dag i dag.

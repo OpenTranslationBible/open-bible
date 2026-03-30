@@ -1,0 +1,65 @@
+# Ezra Kafli 9
+
+## Ezra 9:1
+
+Eftir að þessum málum var lokið, komu embættismennirnir til mín og sögðu: "Ísraelsmenn, þar á meðal prestarnir og Levítarnir, hafa ekki haldið sig aðgreinda frá nágrannaþjóðunum og viðurstyggðum þeirra, eins og Kanaanítum, Hetítum, Peresítum, Jebúsítum, Ammónítum, Móabítum, Egyptum og Amorítum.
+
+## Ezra 9:2
+
+Þeir hafa tekið nokkrar af dætrum þeirra sem eiginkonur fyrir sig og syni sína, þannig að þeir hafa blandað hinni helgu ætt við þjóðir landanna. Reyndar hafa leiðtogarnir og embættismennirnir verið fremstir í þessari ótrúmennsku."
+
+---
+
+## Ezra 9:3
+
+Þegar ég heyrði þetta, reif ég klæði mitt og skikkju, reif hár úr höfði mínu og skeggi og settist niður alveg agndofa.
+
+## Ezra 9:4
+
+Þá söfnuðust allir sem skelfdust orð Guðs Ísraels, vegna ótrúmennsku útlaganna, í kringum mig, og ég var áfram agndofa þar til kvöldfórnin var færð.
+
+## Ezra 9:5
+
+Á tíma kvöldfórnarinnar stóð ég upp frá sjálfsniðurlægingu minni, með klæði mitt og skikkju rifin, og féll á kné, breiddi út hendur mínar til Drottins, Guðs míns;
+
+## Ezra 9:6
+
+og ég bað, "Ó Guð minn, ég er of skömmustulegur og niðurlægður til að lyfta upp andliti mínu til þín, Guð minn, því misgjörðir okkar hafa risið upp yfir höfuð okkar, og sekt okkar hefur náð upp til himna.
+
+## Ezra 9:7
+
+Frá dögum forfeðra okkar til þessa dags hefur sekt okkar verið mikil. Vegna synda okkar höfum við, konungar okkar og prestar okkar, verið framseld í hendur konunga landanna, til sverðs, til herleiðingar, til ráns og til smánar, eins og er í dag.
+
+## Ezra 9:8
+
+En nú, um stundarsakir, hefur Drottinn, Guð okkar, sýnt okkur náð með því að skilja eftir okkur leif og gefa okkur örugga fótfestu á helgum stað sínum, svo að Guð okkar megi lýsa upp augu okkar og veita okkur smá hvíld í ánauð okkar.
+
+## Ezra 9:9
+
+Því að þótt við séum þrælar, hefur Guð okkar ekki yfirgefið okkur í ánauð okkar. Hann hefur veitt okkur góðvild í augum konunga Persíu, gefið okkur nýtt líf til að endurreisa hús Guðs okkar og endurbyggja rústir þess, og hefur gefið okkur verndarmúr í Júda og Jerúsalem.
+
+## Ezra 9:10
+
+"Og nú, Guð okkar, hvað getum við sagt eftir þetta? Því að við höfum sannarlega yfirgefið boðorð þín,
+
+## Ezra 9:11
+
+sem þú gafst með þjónustum þínum, spámönnunum, og sagðir: 'Landið sem þið eruð að fara inn í til að taka í eign er land saurgað af óhreinleika þjóðanna í landinu, með viðurstyggðum þeirra sem fylla það frá einu enda til annars.
+
+## Ezra 9:12
+
+Þess vegna skuluð þið ekki gefa dætur ykkar í hjónaband við syni þeirra né taka dætur þeirra fyrir syni ykkar. Aldrei skuluð þið leita friðar þeirra eða velmegunar, svo að þið megið vera sterk og eta hið góða af landinu og skilja það eftir sem eilífa arfleifð til barna ykkar.'
+
+---
+
+## Ezra 9:13
+
+Eftir allt sem hefur komið yfir okkur vegna vondra verka okkar og mikillar sektar, þar sem þú, Guð okkar, hefur refsað okkur minna en syndir okkar verðskulduðu og hefur gefið okkur slíka leif sem þessa,
+
+## Ezra 9:14
+
+skulum við aftur brjóta boðorð þín og giftast þjóðunum sem iðka slíkar viðurstyggðir? Myndir þú ekki reiðast okkur til eyðingar, þannig að engin leif eða eftirlifandi yrði eftir?
+
+## Ezra 9:15
+
+Ó Drottinn, Guð Ísraels, þú ert réttlátur! Við erum eftir sem leif í dag. Hér stöndum við frammi fyrir þér í sekt okkar, og vegna hennar getur enginn okkar staðið í návist þinni."

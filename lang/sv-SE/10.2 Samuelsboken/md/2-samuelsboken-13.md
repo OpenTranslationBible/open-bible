@@ -1,0 +1,226 @@
+# 2 Samuelsboken Kapitel 13
+
+## 2 Samuelsboken 13:1
+
+Nu hände det sig efter detta att Absalom, Davids son, hade en vacker syster som hette Tamar,  
+och Amnon, Davids son, älskade henne.
+
+## 2 Samuelsboken 13:2
+
+Amnon blev så frustrerad på grund av sin syster Tamar att han gjorde sig själv sjuk,  
+för hon var en jungfru, och det verkade svårt för Amnon att göra något mot henne.
+
+## 2 Samuelsboken 13:3
+
+Amnon hade en vän vid namn Jonadab, son till Shimeah, Davids bror;  
+och Jonadab var känd för sin list.
+
+## 2 Samuelsboken 13:4
+
+Han sade till honom: "Varför är du, kungens son, så nedstämd morgon efter morgon? Vill du inte berätta för mig?"  
+Då sade Amnon till honom: "Jag är förälskad i Tamar, min bror Absaloms syster."
+
+## 2 Samuelsboken 13:5
+
+Jonadab sade då till honom: "Lägg dig på din säng och låtsas vara sjuk,  
+och när din far kommer för att se dig, säg till honom:  
+'Låt min syster Tamar komma och ge mig något att äta,  
+och låt henne förbereda maten i min åsyn, så att jag kan se det och äta ur hennes hand.'"
+
+## 2 Samuelsboken 13:6
+
+Så Amnon lade sig ner och låtsades vara sjuk,  
+och när kungen kom för att se honom, sade Amnon till kungen:  
+"Låt min syster Tamar komma och göra några kakor i min åsyn,  
+så att jag kan äta ur hennes hand."
+
+## 2 Samuelsboken 13:7
+
+Då sände David bud till Tamars hus och sade:  
+"Gå nu till din bror Amnons hus och förbered mat åt honom."
+
+## 2 Samuelsboken 13:8
+
+Så Tamar gick till sin bror Amnons hus, där han låg ner.  
+Hon tog deg, knådade den, gjorde kakor i hans närvaro och bakade dem.
+
+## 2 Samuelsboken 13:9
+
+Sedan tog hon pannan och serverade dem framför honom,  
+men han vägrade att äta.  
+Och Amnon sade: "Låt alla lämna mig."  
+Så alla lämnade honom.
+
+## 2 Samuelsboken 13:10
+
+Då sade Amnon till Tamar:  
+"Ta in maten i sovrummet, så att jag kan äta ur din hand."  
+Så Tamar tog kakorna som hon hade gjort och bar dem in i sovrummet till sin bror Amnon.
+
+## 2 Samuelsboken 13:11
+
+När hon bar dem till honom för att äta, grep han henne och sade till henne:  
+"Kom, ligg med mig, min syster."
+
+## 2 Samuelsboken 13:12
+
+Men hon svarade honom:  
+"Nej, min bror! Kränk mig inte, för sådant görs inte i Israel;  
+gör inte denna skamliga synd!
+
+## 2 Samuelsboken 13:13
+
+Vad mig beträffar, var skulle jag bära min skam?  
+Och vad dig beträffar, du skulle bli som en av dårarna i Israel.  
+Så tala nu med kungen, för han kommer inte att vägra dig."
+
+## 2 Samuelsboken 13:14
+
+Men han ville inte lyssna på henne;  
+eftersom han var starkare än hon, övermannade han henne och låg med henne.
+
+## 2 Samuelsboken 13:15
+
+Då hatade Amnon henne med ett mycket stort hat;  
+för hatet med vilket han hatade henne var större än kärleken med vilken han hade älskat henne.  
+Så Amnon sade till henne: "Stig upp, gå din väg!"
+
+## 2 Samuelsboken 13:16
+
+Men hon sade till honom:  
+"Nej, för denna orätt i att skicka bort mig är ännu större än vad du redan har gjort mot mig!"  
+Men han ville inte lyssna på henne.
+
+## 2 Samuelsboken 13:17
+
+Då kallade han på sin unge man som betjänade honom och sade:  
+"Ta nu bort denna kvinna från min närvaro, och lås dörren bakom henne!"
+
+## 2 Samuelsboken 13:18
+
+Nu bar hon en långärmad dräkt,  
+för detta är vad kungens jungfrudöttrar brukade bära tidigare.  
+Så hans betjänt tog ut henne och låste dörren bakom henne.
+
+## 2 Samuelsboken 13:19
+
+Då lade Tamar aska på sitt huvud och rev sönder den långärmade dräkt som hon hade på sig,  
+och hon lade sin hand på sitt huvud och gick bort, gråtande högt medan hon gick.
+
+## 2 Samuelsboken 13:20
+
+Och hennes bror Absalom sade till henne:  
+"Har Amnon din bror varit med dig?  
+Men nu, var tyst, min syster; han är din bror.  
+Ta inte denna sak till hjärtat."  
+Så Tamar stannade och bodde i sin bror Absaloms hus, ödelagd.
+
+---
+
+## 2 Samuelsboken 13:21
+
+När kung David hörde om alla dessa saker, blev han fylld av vrede.
+
+## 2 Samuelsboken 13:22
+
+Absalom talade varken gott eller ont med Amnon;  
+för Absalom hyste hat mot Amnon eftersom han hade kränkt hans syster Tamar.
+
+---
+
+## 2 Samuelsboken 13:23
+
+Nu hände det sig efter två fulla år,  
+att Absalom hade fårklippare i Baal-Hazor, som ligger nära Efraim,  
+och Absalom bjöd in alla kungens söner.
+
+## 2 Samuelsboken 13:24
+
+Då kom Absalom till kungen och sade:  
+"Se nu, din tjänare har fårklippare;  
+låt kungen och hans tjänare gå med din tjänare."
+
+## 2 Samuelsboken 13:25
+
+Men kungen sade till Absalom:  
+"Nej, min son, vi ska inte alla gå, så att vi inte blir en börda för dig."  
+Även om han uppmanade honom, ville han inte gå; men han välsignade honom.
+
+## 2 Samuelsboken 13:26
+
+Då sade Absalom:  
+"Om inte, låt min bror Amnon gå med oss."  
+Och kungen sade till honom: "Varför skulle han gå med dig?"
+
+## 2 Samuelsboken 13:27
+
+Trots detta insisterade Absalom,  
+så han lät Amnon och alla kungens söner gå med honom.
+
+## 2 Samuelsboken 13:28
+
+Då befallde Absalom sina tjänare och sade:  
+"Se nu, när Amnons hjärta är glatt av vin,  
+och när jag säger till er, 'Slå Amnon,' då döda honom.  
+Frukta inte; har jag inte själv befallt er? Var modiga och tappra."
+
+## 2 Samuelsboken 13:29
+
+Och Absaloms tjänare handlade enligt hans befallning angående Amnon.  
+Då reste sig alla kungens söner och var och en satte sig på sin mula och flydde.
+
+---
+
+## 2 Samuelsboken 13:30
+
+Medan de var på väg, nådde en rapport David och sade:  
+"Absalom har slagit och dödat alla kungens söner, och inte en enda av dem är kvar!"
+
+## 2 Samuelsboken 13:31
+
+Då reste sig kungen, rev sina kläder och lade sig på marken;  
+och alla hans tjänare stod bredvid med sina kläder sönderrivna.
+
+## 2 Samuelsboken 13:32
+
+Men Jonadab, son till Shimeah, Davids bror, svarade:  
+"Låt inte min herre tro att de har dödat alla de unga männen, kungens söner;  
+för endast Amnon är död, eftersom Absalom har planerat detta sedan den dag han kränkte sin syster Tamar.
+
+## 2 Samuelsboken 13:33
+
+Så låt nu inte min herre kungen ta rapporten till hjärtat, nämligen,  
+'Alla kungens söner är döda,' för endast Amnon är död."
+
+## 2 Samuelsboken 13:34
+
+Nu hade Absalom flytt.  
+Och den unge mannen som var på vakt lyfte sina ögon och såg,  
+och se, många människor kom från vägen bakom honom vid sidan av berget.
+
+## 2 Samuelsboken 13:35
+
+Jonadab sade till kungen:  
+"Se, kungens söner har kommit; i enlighet med din tjänares ord, så har det hänt."
+
+## 2 Samuelsboken 13:36
+
+Så snart han hade slutat tala,  
+se, kungens söner kom och höjde sina röster och grät;  
+och kungen och alla hans tjänare grät också mycket.
+
+---
+
+## 2 Samuelsboken 13:37
+
+Under tiden hade Absalom flytt till Talmai, son till Ammihud, kungen av Gesur.  
+Och David sörjde sin son varje dag.
+
+## 2 Samuelsboken 13:38
+
+Så Absalom hade flytt och gått till Gesur, och han var där i tre år.
+
+## 2 Samuelsboken 13:39
+
+Och kung Davids hjärta längtade efter att gå ut till Absalom;  
+och han var i ångest över sin son Amnons död.

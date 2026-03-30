@@ -1,0 +1,43 @@
+# Prædikeren Kapitel 12
+
+## Prædikeren 12:1
+Husk din Skaber i din ungdoms dage, før de onde dage kommer og de år nærmer sig, hvor du vil sige: “Jeg har ingen glæde i dem”—
+
+## Prædikeren 12:2
+før solen og lyset, månen og stjernerne bliver mørke, og skyerne vender tilbage efter regnen;
+
+## Prædikeren 12:3
+når husets vogtere skælver, og de stærke mænd bøjer sig, når kværnerne holder op, fordi de er få, og de, der ser ud gennem vinduerne, bliver svage;
+
+## Prædikeren 12:4
+når dørene til gaden lukkes, og lyden af kværnen svinder; når man står op ved lyden af en fugl, og alle sangens døtre dæmpes;
+
+## Prædikeren 12:5
+når folk frygter højder og farer på gaderne; når mandeltræet blomstrer, græshoppen slæber sig af sted, og kapersbæret svigter. For mennesket går til sit evige hjem, og sørgende går omkring på gaderne.
+
+## Prædikeren 12:6
+Husk din Skaber før sølvtråden brister, og den gyldne skål knuses; før kanden knuses ved kilden, og hjulet brister ved brønden,
+
+## Prædikeren 12:7
+og støvet vender tilbage til jorden, som det var, og ånden vender tilbage til Gud, som gav den.
+
+## Prædikeren 12:8
+“Tomhed, alt er tomhed,” siger Læreren, “alt er tomhed!”
+
+## Prædikeren 12:9
+Ud over at være vis, gav Læreren også folket kundskab. Han overvejede, søgte og ordnede mange ordsprog.
+
+## Prædikeren 12:10
+Læreren søgte at finde de rette ord og at skrive sandhedens ord nøjagtigt.
+
+## Prædikeren 12:11
+De vises ord er som pigkæppe, og deres samlede udsagn som fastsiddende søm—givet af én Hyrde.
+
+## Prædikeren 12:12
+Men ud over dette, min søn, vær advaret: der er ingen ende på at lave mange bøger, og megen studeren trætter kroppen.
+
+## Prædikeren 12:13
+Nu er alt blevet hørt; her er konklusionen på sagen: frygt Gud og hold Hans bud, for dette er alle menneskers pligt.
+
+## Prædikeren 12:14
+For Gud vil bedømme hver handling, inklusive alt, hvad der er skjult, om det er godt eller ondt.

@@ -1,0 +1,157 @@
+# Nehemja Kapitel 9
+
+## Nehemja 9:1
+
+På den tjugofjärde dagen i denna månad samlades israeliterna tillsammans, fastande, i säcktyg och med jord på sina huvuden.
+
+## Nehemja 9:2
+
+Israels ättlingar hade avskilt sig från alla främlingar, och de stod och bekände sina synder och sina fäders missgärningar.
+
+## Nehemja 9:3
+
+Medan de stod på sina platser, läste de ur Herrens, deras Guds, lagbok under en fjärdedel av dagen, och under en annan fjärdedel bekände de och tillbad Herren, deras Gud.
+
+## Nehemja 9:4
+
+På leviternas plattform stod Jeshua, Bani, Kadmiel, Shebanja, Bunni, Sherebja, Bani och Kenani, och de ropade med höga röster till Herren, deras Gud.
+
+## Nehemja 9:5
+
+Sedan sade leviterna—Jeshua, Kadmiel, Bani, Hashabneja, Sherebja, Hodija, Shebanja och Petahja—"Stå upp, välsigna Herren er Gud, från evighet till evighet. Må ditt härliga namn bli välsignat och upphöjt över all välsignelse och lovsång.
+
+## Nehemja 9:6
+
+Du ensam är Herren. Du har gjort himlarna, himlarnas himmel med hela deras stjärnehär, jorden och allt som är på den, haven och allt som är i dem. Du ger liv åt dem alla, och himlens härskaror tillber dig.
+
+## Nehemja 9:7
+
+Du är Herren Gud, som utvalde Abram och förde honom ut från Ur i Kaldeen och gav honom namnet Abraham.
+
+## Nehemja 9:8
+
+Du fann hans hjärta troget inför dig och slöt ett förbund med honom att ge åt hans ättlingar landet till kanaanéerna, hetiterna, amoréerna, perisséerna, jebuséerna och girgaséerna. Du har uppfyllt ditt löfte, för du är rättfärdig.
+
+## Nehemja 9:9
+
+Du såg våra fäders lidande i Egypten och hörde deras rop vid Röda havet.
+
+## Nehemja 9:10
+
+Du utförde tecken och under mot farao, mot alla hans tjänare och hela hans lands folk, för du visste hur högmodigt de behandlade dem. Du gjorde dig ett namn, som består än idag.
+
+## Nehemja 9:11
+
+Du delade havet framför dem, så att de gick genom havets mitt på torr mark, och du kastade deras förföljare i djupet, som en sten i mäktiga vatten.
+
+## Nehemja 9:12
+
+Med en molnstod ledde du dem om dagen, och med en eldstod om natten för att lysa för dem den väg de skulle gå.
+
+## Nehemja 9:13
+
+Du kom ner på berget Sinai och talade med dem från himlen. Du gav dem rättvisa domar och sanna lagar, goda stadgar och bud.
+
+## Nehemja 9:14
+
+Du gjorde din heliga sabbat känd för dem och gav dem bud, stadgar och lagar genom din tjänare Mose.
+
+## Nehemja 9:15
+
+I deras hunger gav du dem bröd från himlen, och i deras törst lät du vatten komma fram ur klippan; du sa till dem att gå in och ta i besittning det land du hade svurit att ge dem.
+
+## Nehemja 9:16
+
+Men de, våra fäder, handlade högmodigt och blev hårdnackade, och de lydde inte dina bud.
+
+## Nehemja 9:17
+
+De vägrade att lyssna och kom inte ihåg de underbara gärningar du utförde bland dem. De blev envisa och utsåg en ledare för att återvända till sin slaveri. Men du är en förlåtande Gud, nådig och barmhärtig, sen till vrede och rik på nåd; du övergav dem inte.
+
+## Nehemja 9:18
+
+Även när de formade en kalv av smält metall och förklarade, 'Detta är din gud som förde dig upp från Egypten,' och begick stora hädelser,
+
+## Nehemja 9:19
+
+I din stora barmhärtighet övergav du dem inte i öknen. Molnstoden lämnade dem inte om dagen, inte heller eldstoden om natten, för att lysa för dem den väg de skulle gå.
+
+## Nehemja 9:20
+
+Du gav din goda Ande för att undervisa dem, undanhöll inte ditt manna från deras munnar och gav dem vatten för deras törst.
+
+## Nehemja 9:21
+
+I fyrtio år uppehöll du dem i öknen; de saknade inget, deras kläder slets inte ut, och deras fötter svullnade inte.
+
+## Nehemja 9:22
+
+Du gav dem kungariken och folk, och tilldelade dem även de mest avlägsna gränserna. De tog i besittning landet till Sihon, kungen av Heshbon, och landet till Og, kungen av Bashan.
+
+## Nehemja 9:23
+
+Du gjorde deras barn talrika som stjärnorna på himlen, och förde dem in i det land du hade lovat deras fäder att de skulle gå in och ta i besittning.
+
+## Nehemja 9:24
+
+Deras barn gick in och tog i besittning landet. Du kuvade inför dem landets invånare, kanaanéerna, och överlämnade dem åt dem, med deras kungar och landets folk, för att göra med dem som de önskade.
+
+## Nehemja 9:25
+
+De intog befästa städer och ett bördigt land; de tog i besittning hus fyllda med allt gott, brunnar redan grävda, vingårdar, olivlundar och fruktträd i överflöd. De åt sig mätta, blev välmående och njöt av din stora godhet.
+
+## Nehemja 9:26
+
+Men de blev olydiga och gjorde uppror mot dig; de vände ryggen åt din lag. De dödade dina profeter, som hade varnat dem för att vända dem tillbaka till dig, och de begick stora hädelser.
+
+## Nehemja 9:27
+
+Så du överlämnade dem i deras fienders händer, som förtryckte dem. Men när de ropade till dig i sin nöd, hörde du från himlen, och i din stora barmhärtighet gav du dem befriare som räddade dem från deras fienders hand.
+
+## Nehemja 9:28
+
+Men så snart de hade vila, gjorde de åter ont inför dig; därför övergav du dem i deras fienders hand, så att de regerade över dem. När de åter ropade till dig, hörde du från himlen, och många gånger räddade du dem enligt din barmhärtighet.
+
+## Nehemja 9:29
+
+Du varnade dem för att vända tillbaka till din lag, men de handlade högmodigt och lyssnade inte på dina bud. De syndade mot dina stadgar, vilka, om en person följer dem, han kommer att leva genom dem. De vände en envis axel och styvnackade sig, vägrade att lyssna.
+
+## Nehemja 9:30
+
+Ändå var du tålmodig med dem i många år, och förmanade dem genom din Ande genom dina profeter, men de ville inte lyssna. Därför överlämnade du dem åt landets folk.
+
+## Nehemja 9:31
+
+Icke desto mindre, i din stora nåd, gjorde du inte slut på dem eller övergav dem, för du är en nådig och barmhärtig Gud.
+
+---
+
+## Nehemja 9:32
+
+Så nu, vår Gud, den store, den mäktige och den fruktansvärde Gud, som håller sitt förbund och trofasthet, låt inte all den nöd som har drabbat oss, våra kungar, våra ledare, våra präster, våra profeter, våra fäder och hela ditt folk, från Assyriens kungars dagar till denna dag, verka obetydlig inför dig.
+
+## Nehemja 9:33
+
+I allt som har hänt oss har du förblivit rättfärdig; du har handlat trofast, medan vi har handlat ogudaktigt.
+
+## Nehemja 9:34
+
+Våra kungar, våra ledare, våra präster och våra fäder följde inte din lag eller uppmärksammade dina bud och dina förmaningar med vilka du förmanade dem.
+
+## Nehemja 9:35
+
+Även när de var i sitt rike, njöt av din stora godhet i det rymliga och bördiga land du gav dem, tjänade de dig inte eller vände sig från sina onda vägar.
+
+---
+
+## Nehemja 9:36
+
+Se, vi är slavar idag, slavar i det land du gav våra fäder för att äta dess frukt och dess rikedom.
+
+## Nehemja 9:37
+
+På grund av våra synder går dess rikliga skörd till de kungar du har satt över oss. De härskar över våra kroppar och vår boskap som de vill, och vi är i stor nöd.
+
+## Nehemja 9:38
+
+Nu, på grund av allt detta, gör vi ett bindande avtal i skrift, och våra ledare, våra leviter och våra präster sätter sina sigill på det.

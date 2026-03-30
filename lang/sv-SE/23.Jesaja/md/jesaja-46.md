@@ -1,0 +1,40 @@
+# Jesaja Kapitel 46
+
+## Jesaja 46:1
+Bel böjer sig, Nebo sjunker ner; deras avgudar bärs av djur och boskap. De bilder ni bär är tunga, en börda för de trötta.
+
+## Jesaja 46:2
+De sjunker ner och böjer sig tillsammans; de kan inte rädda bördan, och de själva går i fångenskap.
+
+## Jesaja 46:3
+”Lyssna på mig, Jakobs hus, alla ni som är kvar av Israels folk, ni som har blivit burna av mig sedan födseln och burna från moderlivet.
+
+## Jesaja 46:4
+Även till er ålderdom och gråa hår kommer jag att vara densamme; jag är den som ska bära er. Jag har gjort er och jag ska bära er; jag ska bära och rädda er.
+
+## Jesaja 46:5
+”Vem vill ni likna mig vid eller göra mig jämlik? Vem vill ni jämföra mig med så att vi kan vara lika?
+
+## Jesaja 46:6
+Några tar guld ur sina väskor och mäter upp silver på vågen; de anlitar en guldsmed för att forma det till en gud, och de böjer sig ner och tillber det.
+
+## Jesaja 46:7
+De lyfter det på sina axlar och bär det; de ställer det på sin plats, och där står det. Det kan inte röra sig från sin plats. Även om någon ropar till det, kan det inte svara; det kan inte rädda dem från deras nöd.
+
+## Jesaja 46:8
+”Kom ihåg detta, håll det i minnet; ta det till hjärtat, ni syndare.
+
+## Jesaja 46:9
+Kom ihåg det som varit, det som hände för länge sedan; för jag är Gud, och det finns ingen annan; jag är Gud, och det finns ingen som jag.
+
+## Jesaja 46:10
+Jag förklarar slutet från början, från forntiden det som ännu inte hänt. Jag säger, 'Mitt syfte ska stå fast, och jag ska genomföra allt jag behagar.'
+
+## Jesaja 46:11
+Jag kallar en rovfågel från öster, en man för mitt syfte från ett avlägset land. Det jag har talat, ska jag genomföra; det jag har planerat, ska jag säkert göra.
+
+## Jesaja 46:12
+”Lyssna på mig, ni hårdhjärtade, ni som är långt från rättfärdighet.
+
+## Jesaja 46:13
+Jag för min rättfärdighet nära, den är inte långt borta; och min frälsning ska inte dröja. Jag ska ge frälsning till Sion, min härlighet till Israel.

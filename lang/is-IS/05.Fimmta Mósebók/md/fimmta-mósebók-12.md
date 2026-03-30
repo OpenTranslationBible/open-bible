@@ -1,0 +1,97 @@
+# Fimmta Mósebók Kafli 12
+
+## Fimmta Mósebók 12:1
+Þetta eru lögin og reglurnar sem þið verðið að fylgja vandlega í landinu sem Drottinn, Guð feðra ykkar, hefur gefið ykkur til eignar, svo lengi sem þið lifið á jörðinni.
+
+## Fimmta Mósebók 12:2
+Þið skuluð gjöreyða öllum stöðum þar sem þjóðirnar sem þið eruð að reka burt dýrka guði sína, á háfjöllunum, á hæðunum og undir hverju útbreiddu tré.
+
+## Fimmta Mósebók 12:3
+Rífið niður altari þeirra, brjótið niður helga steina þeirra, brennið Asérustólpa þeirra í eldi og höggvið niður skurðmyndir guða þeirra, og útrýmið nöfnum þeirra frá þessum stöðum.
+
+## Fimmta Mósebók 12:4
+Þið megið ekki dýrka Drottin, Guð ykkar, á þeirra hátt.
+
+## Fimmta Mósebók 12:5
+Í staðinn skuluð þið leita staðarins sem Drottinn, Guð ykkar, mun velja úr öllum ættkvíslum ykkar til að setja nafn sitt þar til bústaðar, og þangað skuluð þið fara.
+
+## Fimmta Mósebók 12:6
+Færið þangað brennifórnir ykkar, fórnir, tíundir, sérstakar gjafir, heitfórnir, sjálfviljafórnir og frumburði hjarða ykkar og hjarða.
+
+## Fimmta Mósebók 12:7
+Þar, í návist Drottins, Guðs ykkar, skuluð þið og heimili ykkar eta og gleðjast í öllum ykkar verkum, því að Drottinn, Guð ykkar, hefur blessað ykkur.
+
+## Fimmta Mósebók 12:8
+Þið skuluð ekki gera eins og við gerum hér í dag, þar sem hver og einn gerir það sem rétt er í sínum eigin augum.
+
+## Fimmta Mósebók 12:9
+Því að þið hafið ekki enn náð hvíldarstaðnum og arfleifðinni sem Drottinn, Guð ykkar, gefur ykkur.
+
+## Fimmta Mósebók 12:10
+En þegar þið farið yfir Jórdan og setjist að í landinu sem Drottinn, Guð ykkar, gefur ykkur sem arfleifð, og hann gefur ykkur hvíld frá öllum óvinum ykkar í kringum ykkur svo að þið búið í öryggi,
+
+## Fimmta Mósebók 12:11
+þá skuluð þið færa allt sem ég býð ykkur til staðarins sem Drottinn, Guð ykkar, mun velja til að setja nafn sitt þar: brennifórnir ykkar, fórnir, tíundir, sérstakar gjafir og allar ykkar útvaldar heitfórnir til Drottins.
+
+## Fimmta Mósebók 12:12
+Og þið skuluð gleðjast fyrir Drottni, Guði ykkar—þið, synir ykkar og dætur, karl- og kvenþjónar ykkar, og levítarnir frá bæjum ykkar, því að þeir hafa enga úthlutun eða arfleifð með ykkur.
+
+## Fimmta Mósebók 12:13
+Gætið þess að færa ekki brennifórnir ykkar á hvaða stað sem þið sjáið.
+
+## Fimmta Mósebók 12:14
+Færið þær aðeins á staðinn sem Drottinn mun velja í einni af ættkvíslum ykkar, og þar skuluð þið fylgja öllu sem ég býð ykkur.
+
+## Fimmta Mósebók 12:15
+Samt megið þið slátra dýrum ykkar í hvaða bæjum ykkar sem er og eta eins mikið af kjötinu og þið óskið, samkvæmt blessun Drottins, Guðs ykkar, sem hann gefur ykkur. Bæði hin óhreinu og hin hreinu mega eta það, eins og það væri gasella eða hjörtur.
+
+## Fimmta Mósebók 12:16
+En þið megið ekki neyta blóðsins; hellið því á jörðina eins og vatni.
+
+## Fimmta Mósebók 12:17
+Þið megið ekki eta í eigin bæjum tíund korns ykkar, nýs víns eða ólífuolíu, eða frumburði hjarða ykkar og hjarða, eða neinar af ykkar heitfórnum, sjálfviljafórnum eða sérstökum gjöfum.
+
+## Fimmta Mósebók 12:18
+Í staðinn skuluð þið eta þær í návist Drottins, Guðs ykkar, á staðnum sem Drottinn, Guð ykkar, mun velja—þið, synir ykkar og dætur, karl- og kvenþjónar ykkar, og levítarnir frá bæjum ykkar—og þið skuluð gleðjast í öllum ykkar verkum.
+
+## Fimmta Mósebók 12:19
+Gætið þess að styðja levítana svo lengi sem þið lifið í landi ykkar.
+
+## Fimmta Mósebók 12:20
+Þegar Drottinn, Guð ykkar, stækkar land ykkar eins og hann hefur lofað, og þið girnist kjöt og segið, "Ég myndi vilja kjöt," þá megið þið eta eins mikið af því og þið óskið.
+
+## Fimmta Mósebók 12:21
+Ef staðurinn þar sem Drottinn, Guð ykkar, velur að setja nafn sitt er of langt frá ykkur, megið þið slátra dýrum úr hjarða ykkar og hjarða sem Drottinn hefur gefið ykkur, eins og ég hef boðið ykkur, og þið megið eta í eigin bæjum eins mikið og þið óskið.
+
+## Fimmta Mósebók 12:22
+Neytið þeirra eins og þið mynduð neyta gasellu eða hjartar. Bæði hin óhreinu og hin hreinu mega taka þátt.
+
+## Fimmta Mósebók 12:23
+En gætið þess að neyta ekki blóðsins, því að blóðið er lífið, og þið megið ekki eta lífið með kjötinu.
+
+## Fimmta Mósebók 12:24
+Þið megið ekki neyta blóðsins; hellið því á jörðina eins og vatni.
+
+## Fimmta Mósebók 12:25
+Forðist að eta það, svo að ykkur og börnum ykkar megi farnast vel eftir ykkur, því að þið munuð gera það sem rétt er í augum Drottins.
+
+## Fimmta Mósebók 12:26
+En takið helgaða hluti ykkar og heitfórnir ykkar, og farið til staðarins sem Drottinn mun velja.
+
+## Fimmta Mósebók 12:27
+Færið brennifórnir ykkar á altari Drottins, Guðs ykkar, bæði kjötið og blóðið. Blóð fórna ykkar skal hellt við hliðina á altari Drottins, Guðs ykkar, en þið megið neyta kjötsins.
+
+## Fimmta Mósebók 12:28
+Verið vandvirk að hlýða öllum þessum reglum sem ég gef ykkur, svo að ykkur og börnum ykkar megi farnast vel eftir ykkur, því að þið munuð gera það sem gott og rétt er í augum Drottins, Guðs ykkar.
+
+## Fimmta Mósebók 12:29
+Drottinn, Guð ykkar, mun fjarlægja þjóðirnar sem þið eruð að fara að ráðast á og reka burt. En þegar þið hafið rekið þær burt og sest að í landi þeirra,
+
+## Fimmta Mósebók 12:30
+gætið þess að verða ekki flækt í að spyrja um guði þeirra, og segja, "Hvernig þjóna þessar þjóðir guðum sínum? Við munum gera hið sama."
+
+## Fimmta Mósebók 12:31
+Þið megið ekki dýrka Drottin, Guð ykkar, á þeirra hátt, því að í að dýrka guði sína, gera þeir alls konar viðurstyggilega hluti sem Drottinn hatar. Þeir brenna jafnvel syni sína og dætur í eldi sem fórnir til guða sinna.
+
+## Fimmta Mósebók 12:32
+Gætið þess að gera allt sem ég býð ykkur; bætið ekki við það eða takið frá því.

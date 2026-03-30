@@ -1,0 +1,40 @@
+# Fjärde Mosebok Kapitel 36
+
+## Fjärde Mosebok 36:1
+Överhuvudena för fädernas hus i Gileads familj, son till Makir, son till Manasse, från familjerna av Josefs ättlingar, närmade sig och talade inför Mose och ledarna, överhuvudena för de israelitiska familjerna.
+
+## Fjärde Mosebok 36:2
+De sade: "Herren instruerade min herre att fördela landet till israeliterna som ett arv genom lottning, och min herre blev beordrad av Herren att tilldela vår bror Selofhads arv till hans döttrar.
+
+## Fjärde Mosebok 36:3
+Men om de gifter sig med män från andra israelitiska stammar, kommer deras arv att tas bort från vårt förfäders arv och läggas till den stam de gifter sig med, vilket minskar vårt tilldelade arv.
+
+## Fjärde Mosebok 36:4
+När jubelåret för israeliterna kommer, kommer deras arv att läggas till den stam de gifter sig med, och deras egendom kommer att dras tillbaka från vårt förfäders stams arv.”
+
+## Fjärde Mosebok 36:5
+Mose förmedlade sedan Herrens befallning till israeliterna och sade: "Josefs ättlingars stam har rätt i sina påståenden.
+
+## Fjärde Mosebok 36:6
+Detta är vad Herren befaller angående Selofhads döttrar: De får gifta sig med vem de vill, förutsatt att de gifter sig inom sin fars stamfamilj.
+
+## Fjärde Mosebok 36:7
+Således ska inget arv i Israel överföras från stam till stam, för varje israelit ska behålla arvet från sin förfäders stam.
+
+## Fjärde Mosebok 36:8
+Varje dotter som ärver land i någon israelitisk stam måste gifta sig med någon från sin fars stamfamilj, så att varje israelit kan behålla arvet från sina förfäder.
+
+## Fjärde Mosebok 36:9
+Inget arv får överföras från en stam till en annan, för varje israelitisk stam ska behålla sitt eget arv.”
+
+## Fjärde Mosebok 36:10
+Selofhads döttrar handlade som Herren hade befallt Mose.
+
+## Fjärde Mosebok 36:11
+Mahlah, Tirsa, Hogla, Milka och Noa, Selofhads döttrar, gifte sig med sina kusiner på faderns sida.
+
+## Fjärde Mosebok 36:12
+De gifte sig inom familjerna av Manasses ättlingar, son till Josef, och deras arv förblev inom deras fars stam och familj.
+
+## Fjärde Mosebok 36:13
+Dessa är de befallningar och föreskrifter som Herren gav till israeliterna genom Mose på Moabs slätter vid Jordan, mitt emot Jeriko.

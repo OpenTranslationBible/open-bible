@@ -1,0 +1,156 @@
+# Ezekiel Kapitel 30
+
+## Ezekiel 30:1
+
+Herrens ord kom til mig:
+
+## Ezekiel 30:2
+
+“Menneskesøn, profetér og sig: ‘Dette siger den suveræne Herre:
+
+> “Klag,
+> ‘Ak for den dag!’
+
+## Ezekiel 30:3
+
+> For dagen er nær,
+> ja, Herrens dag er nær;
+> en dag med skyer,
+> en tid med undergang for nationerne.
+
+## Ezekiel 30:4
+
+> Et sværd vil komme over Egypten,
+> og der vil være angst i Kusj.
+> Når de dræbte falder i Egypten,
+> vil hendes rigdom blive bortført,
+> og hendes fundamenter vil blive revet ned.
+
+## Ezekiel 30:5
+
+Kusj, Put, Lud, hele Arabien, Libyen og folket i pagtslandet vil falde for sværdet sammen med Egypten.
+
+## Ezekiel 30:6
+
+‘Dette siger Herren:
+
+> “Egyptens allierede vil falde
+> og hendes magts stolthed vil blive bragt ned.
+> Fra Migdol til Syene vil de falde for sværdet inden i hende,”
+> erklærer den suveræne Herre.
+
+## Ezekiel 30:7
+
+> “De vil være øde
+> blandt øde lande,
+> og deres byer vil ligge
+> blandt ødelagte byer.
+
+## Ezekiel 30:8
+
+> Så vil de vide, at jeg er Herren,
+> når jeg sætter ild til Egypten
+> og alle hendes hjælpere er knust.
+
+## Ezekiel 30:9
+
+På den dag vil budbringere gå ud fra mig i skibe for at skræmme Kusj ud af hendes selvtilfredshed; skælven vil gribe dem på Egyptens undergangsdag, for den kommer med sikkerhed.
+
+## Ezekiel 30:10
+
+‘Dette erklærer den suveræne Herre:
+
+> “Jeg vil gøre ende på den egyptiske mængde
+> og jeg vil bruge Nebukadnezar, Babylons konge, til det.
+
+## Ezekiel 30:11
+
+> Han og hans folk med ham,
+> de mest hensynsløse af nationerne,
+> vil blive bragt ind for at ødelægge landet.
+> De vil trække deres sværd mod Egypten
+> og fylde landet med de dræbte.
+
+## Ezekiel 30:12
+
+> Jeg vil tørre Nilens vand ud
+> og sælge landet i hænderne på onde mænd;
+> ved fremmedes hånd vil jeg lægge landet øde
+> og alt, hvad der er i det.
+
+Jeg, Herren, har talt.
+
+## Ezekiel 30:13
+
+‘Dette siger den suveræne Herre:
+
+> “Jeg vil ødelægge afguderne
+> og gøre en ende på billederne i Memphis.
+> Der vil ikke længere være en fyrste i Egypten,
+> og jeg vil sprede frygt over hele landet.
+
+## Ezekiel 30:14
+
+> Jeg vil lægge Pathros øde,
+> sætte ild til Zoan,
+> og straffe Theben.
+
+## Ezekiel 30:15
+
+> Jeg vil udøse min vrede over Pelusium,
+> Egyptens fæstning,
+> og eliminere Thebens horder.
+
+## Ezekiel 30:16
+
+> Jeg vil sætte ild til Egypten;
+> Pelusium vil vride sig i smerte,
+> Theben vil blive brudt,
+> og Memphis vil være i konstant nød.
+
+## Ezekiel 30:17
+
+> De unge mænd fra Heliopolis og Bubastis
+> vil falde for sværdet,
+> og kvinderne vil blive taget til fange.
+
+## Ezekiel 30:18
+
+> Mørk vil dagen være i Tahpanhes
+> når jeg bryder Egyptens åg;
+> der vil hendes stolte styrke komme til en ende.
+> Hun vil blive dækket af skyer,
+> og hendes døtre vil gå i fangenskab.
+
+## Ezekiel 30:19
+
+> Således vil jeg bringe domme over Egypten,
+> og de vil vide, at jeg er Herren.’”
+
+## Ezekiel 30:20
+
+I det ellevte år, i den første måned på den syvende dag, kom Herrens ord til mig:
+
+## Ezekiel 30:21
+
+“Menneskesøn, jeg har brækket armen på Farao, Egyptens konge. Den er ikke blevet forbundet til heling eller viklet med en bandage, så den kan blive stærk nok til at svinge sværdet.
+
+## Ezekiel 30:22
+
+Derfor siger den suveræne Herre: ‘Se, jeg er imod Farao, Egyptens konge, og jeg vil brække begge hans arme, den stærke såvel som den brækkede, og få sværdet til at falde fra hans hånd.
+
+## Ezekiel 30:23
+
+Jeg vil få egypterne til at blive spredt blandt nationerne, og jeg vil sprede dem over landene.
+
+## Ezekiel 30:24
+
+Jeg vil styrke Babylons konge og lægge mit sværd i hans hånd, men jeg vil brække Faraos arme, og han vil stønne foran ham som en, der er alvorligt såret.
+
+## Ezekiel 30:25
+
+Jeg vil styrke Babylons konges arme, men Faraos arme vil falde slappe. Så vil de vide, at jeg er Herren, når jeg lægger mit sværd i Babylons konges hånd, og han svinger det mod Egyptens land.
+
+## Ezekiel 30:26
+
+Når jeg spreder egypterne blandt nationerne og spreder dem over landene, så vil de vide, at jeg er Herren.’”

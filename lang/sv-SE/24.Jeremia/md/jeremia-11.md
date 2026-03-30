@@ -1,0 +1,93 @@
+# Jeremia Kapitel 11
+
+## Jeremia 11:1
+
+Detta är det ord som kom till Jeremia från Herren, och sade:
+
+## Jeremia 11:2
+
+Var uppmärksam på villkoren i detta förbund och förmedla vad det säger till folket i Juda och invånarna i Jerusalem.
+
+## Jeremia 11:3
+
+Säg till dem: 'Detta är vad Herren, Israels Gud, säger: "Förbannad är den som inte lyder villkoren i detta förbund—
+
+## Jeremia 11:4
+
+de villkor som jag befallde era förfäder när jag förde dem ut ur Egypten, ur järnugnen, och sade: 'Lyssna till mig och gör allt som jag befaller er, så skall ni vara mitt folk och jag skall vara er Gud.'
+
+## Jeremia 11:5
+
+Då skall jag uppfylla eden jag svor till era förfäder, att ge dem ett land som flödar av mjölk och honung, som det är idag."' Jag svarade: "Amen, Herre."
+
+## Jeremia 11:6
+
+Herren sade till mig: "Förkunna alla dessa ord i Judas städer och på Jerusalems gator: 'Lyssna till villkoren i detta förbund och följ dem.
+
+## Jeremia 11:7
+
+För jag varnade era förfäder allvarligt från den tid jag förde dem upp från Egypten till idag, ständigt och sa: 'Lyssna till mig.'
+
+## Jeremia 11:8
+
+Men de lyssnade inte eller böjde sina öron; istället följde de envisheten i sina onda hjärtan. Så jag lät alla orden i detta förbund komma över dem som jag befallde dem att följa, men de höll dem inte.'"
+
+## Jeremia 11:9
+
+Då sade Herren till mig: "Det finns en sammansvärjning bland folket i Juda och invånarna i Jerusalem.
+
+## Jeremia 11:10
+
+De har återvänt till sina förfäders synder, som vägrade att lyssna till mina ord. De har följt andra gudar för att tjäna dem. Både Israels hus och Judas hus har brutit mitt förbund som jag gjorde med deras förfäder.
+
+## Jeremia 11:11
+
+Därför är detta vad Herren säger: 'Jag för olycka över dem som de inte kommer att kunna fly ifrån. Även om de ropar till mig, kommer jag inte att lyssna på dem.
+
+## Jeremia 11:12
+
+Judas städer och Jerusalems invånare kommer att gå och ropa till de gudar till vilka de bränner rökelse, men de kommer inte att rädda dem alls i deras olyckstid.
+
+## Jeremia 11:13
+
+För dina gudar är lika många som dina städer, Juda; och altarna du har rest till den skamliga guden Baal är lika många som Jerusalems gator.
+
+## Jeremia 11:14
+
+"Så be inte för detta folk eller erbjud någon vädjan eller bön för dem, för jag kommer inte att lyssna när de ropar till mig i deras olyckstid.
+
+## Jeremia 11:15
+
+Vad gör min älskade i mitt hus när hon utför sina onda planer med många andra? Kan helgat kött avvärja ditt straff? När du engagerar dig i din ondska, då gläds du."
+
+## Jeremia 11:16
+
+Herren kallade dig ett blomstrande olivträd, vackert i frukt och form. Men med dånet av en mäktig storm kommer han att sätta det i brand, och dess grenar kommer att brytas.
+
+## Jeremia 11:17
+
+Härskarornas Herre, som planterade dig, har beslutat olycka för dig, eftersom Israels hus och Judas hus har gjort ont och provocerat mig genom att bränna rökelse till Baal.
+
+## Jeremia 11:18
+
+Eftersom Herren gjorde deras komplott känd för mig, förstod jag det, för vid den tiden visade han mig vad de gjorde.
+
+## Jeremia 11:19
+
+Jag var som ett milt lamm som leds till slakt; jag insåg inte att de hade planerat mot mig och sa: "Låt oss förstöra trädet med dess frukt; låt oss hugga av honom från de levandes land, så att hans namn inte längre blir ihågkommet."
+
+## Jeremia 11:20
+
+Men du, härskarornas Herre, som dömer rättvist och prövar hjärtat och sinnet, låt mig se din hämnd på dem, för till dig har jag överlämnat min sak.
+
+## Jeremia 11:21
+
+Därför är detta vad Herren säger angående folket i Anatot som söker ditt liv och säger: "Profetera inte i Herrens namn, annars kommer du att dö för vår hand"—
+
+## Jeremia 11:22
+
+därför är detta vad härskarornas Herre säger: "Jag kommer att straffa dem. Deras unga män kommer att dö för svärdet, deras söner och döttrar av hungersnöd.
+
+## Jeremia 11:23
+
+En rest kommer inte att förbli för dem, för jag kommer att föra olycka över folket i Anatot under deras straffår."

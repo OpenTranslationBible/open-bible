@@ -1,0 +1,106 @@
+# 2 Mosebog Kapitel 32
+
+## 2 Mosebog 32:1
+Da folket så, at Moses tøvede med at komme ned fra bjerget, samlede de sig omkring Aron og sagde: “Kom, lav os en gud, som kan gå foran os. Hvad angår denne Moses, manden som førte os op fra Egyptens land, ved vi ikke, hvad der er sket med ham.”
+
+## 2 Mosebog 32:2
+Aron sagde til dem: “Tag de guldringe af, som jeres hustruer, jeres sønner og jeres døtre bærer, og bring dem til mig.”
+
+## 2 Mosebog 32:3
+Så tog hele folket deres guldringe af og bragte dem til Aron.
+
+## 2 Mosebog 32:4
+Han tog guldet fra deres hænder og formede det med et værktøj til en støbt kalv. Så sagde de: “Dette er din gud, Israel, som førte dig op fra Egyptens land.”
+
+## 2 Mosebog 32:5
+Da Aron så dette, byggede han et alter foran den og proklamerede: “I morgen skal der være en fest for Herren.”
+
+## 2 Mosebog 32:6
+Så næste dag stod folket tidligt op, bragte brændofre og frembar fredsofre. Derefter satte de sig ned for at spise og drikke og rejste sig for at give sig hen til lystighed.
+
+## 2 Mosebog 32:7
+Da sagde Herren til Moses: “Gå ned straks, for dit folk, som du førte op fra Egyptens land, har handlet fordærvet.
+
+## 2 Mosebog 32:8
+De er hurtigt vendt bort fra den vej, jeg befalede dem. De har lavet sig en støbt kalv, har bøjet sig for den og har ofret til den og sagt: ‘Dette er din gud, Israel, som førte dig op fra Egyptens land.’”
+
+## 2 Mosebog 32:9
+Herren sagde til Moses: “Jeg har set dette folk, og de er sandelig et stivnakket folk.
+
+## 2 Mosebog 32:10
+Lad mig nu være, så min vrede kan blusse op imod dem, og jeg kan tilintetgøre dem. Så vil jeg gøre dig til et stort folk.”
+
+## 2 Mosebog 32:11
+Men Moses søgte Herrens, sin Guds, gunst og sagde: “Herre, hvorfor brænder din vrede imod dit folk, som du førte ud fra Egyptens land med stor kraft og stærk hånd?
+
+## 2 Mosebog 32:12
+Hvorfor skulle egypterne sige: ‘Han førte dem ud med onde hensigter, for at dræbe dem i bjergene og udslette dem fra jordens overflade’? Vend dig fra din voldsomme vrede; fortryd og bring ikke ulykke over dit folk.
+
+## 2 Mosebog 32:13
+Husk dine tjenere Abraham, Isak og Israel, som du svor ved dig selv: ‘Jeg vil gøre jeres efterkommere talrige som stjernerne på himlen, og jeg vil give jeres efterkommere hele dette land, som jeg har lovet dem, og det skal være deres arv for evigt.’”
+
+## 2 Mosebog 32:14
+Så fortrød Herren den ulykke, han havde truet med at bringe over sit folk.
+
+## 2 Mosebog 32:15
+Moses vendte sig om og gik ned fra bjerget med de to vidnesbyrdets tavler i sine hænder. De var indskrevet på begge sider, forside og bagside.
+
+## 2 Mosebog 32:16
+Tavlerne var lavet af Gud; skriften var Guds egen skrift, indgraveret på tavlerne.
+
+## 2 Mosebog 32:17
+Da Josva hørte lyden af folkets råb, sagde han til Moses: “Der er lyden af krig i lejren.”
+
+## 2 Mosebog 32:18
+Men Moses svarede: “Det er ikke lyden af sejr, ej heller lyden af nederlag; det er lyden af sang, jeg hører.”
+
+## 2 Mosebog 32:19
+Så snart Moses nærmede sig lejren og så kalven og dansen, blussede hans vrede op, og han kastede tavlerne fra sine hænder og knuste dem ved bjergets fod.
+
+## 2 Mosebog 32:20
+Han tog kalven, de havde lavet, brændte den med ild, malede den til pulver, spredte det på vandet og fik israelitterne til at drikke det.
+
+## 2 Mosebog 32:21
+Moses sagde til Aron: “Hvad gjorde dette folk mod dig, siden du har bragt en så stor synd over dem?”
+
+## 2 Mosebog 32:22
+Aron svarede: “Lad ikke min herres vrede blusse op; du kender selv folket, at de er tilbøjelige til det onde.
+
+## 2 Mosebog 32:23
+De sagde til mig: ‘Lav os en gud, som kan gå foran os; hvad angår denne Moses, som førte os op fra Egyptens land, ved vi ikke, hvad der er sket med ham.’
+
+## 2 Mosebog 32:24
+Så jeg sagde til dem: ‘Hvem der har noget guld, lad dem tage det af.’ De gav det til mig, og jeg kastede det i ilden, og ud kom denne kalv!”
+
+## 2 Mosebog 32:25
+Da Moses så, at folket var ude af kontrol—fordi Aron havde ladet dem komme ud af kontrol til det punkt, at de blev til spot blandt deres fjender—
+
+## 2 Mosebog 32:26
+stod Moses ved indgangen til lejren og sagde: “Hvem der er for Herren, kom til mig.” Og alle Levis sønner samlede sig om ham.
+
+## 2 Mosebog 32:27
+Han sagde til dem: “Dette siger Herren, Israels Gud: ‘Hver mand spænde sit sværd ved sin side. Gå frem og tilbage gennem lejren fra den ene ende til den anden, hver mand dræbe sin bror, ven og nabo.’”
+
+## 2 Mosebog 32:28
+Levis sønner gjorde, som Moses havde befalet, og den dag faldt omkring tre tusinde af folket.
+
+## 2 Mosebog 32:29
+Så sagde Moses: “Indvi jer i dag til Herren—fordi I har været imod jeres egne sønner og brødre—så han kan skænke jer en velsignelse i dag.”
+
+## 2 Mosebog 32:30
+Den følgende dag sagde Moses til folket: “I har begået en stor synd. Men nu vil jeg gå op til Herren; måske kan jeg gøre bod for jeres synd.”
+
+## 2 Mosebog 32:31
+Så vendte Moses tilbage til Herren og sagde: “Åh, hvilken stor synd dette folk har begået! De har lavet sig en gud af guld.
+
+## 2 Mosebog 32:32
+Men nu, hvis du vil tilgive deres synd, så gør det; men hvis ikke, så slet mig ud af den bog, du har skrevet.”
+
+## 2 Mosebog 32:33
+Herren svarede Moses: “Hvem der har syndet imod mig, vil jeg fjerne fra min bog.
+
+## 2 Mosebog 32:34
+Gå nu, før folket til det sted, jeg har fortalt dig om. Se, min engel skal gå foran dig. Ikke desto mindre, på den dag jeg straffer, vil jeg straffe dem for deres synd.”
+
+## 2 Mosebog 32:35
+Så slog Herren folket med en plage på grund af det, de havde gjort med kalven, Aron havde lavet.

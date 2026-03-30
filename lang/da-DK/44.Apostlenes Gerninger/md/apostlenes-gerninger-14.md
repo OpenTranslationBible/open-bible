@@ -1,0 +1,123 @@
+# Apostlenes Gerninger Kapitel 14
+
+## Apostlenes Gerninger 14:1
+
+I Ikonium gik Paulus og Barnabas sammen ind i den jødiske synagoge og talte på en sådan måde, at et stort antal både jøder og grækere kom til tro.
+
+## Apostlenes Gerninger 14:2
+
+Men de jøder, der ikke blev overbevist, ophidsede hedningerne og forgiftede deres sind mod brødrene.
+
+## Apostlenes Gerninger 14:3
+
+Derfor tilbragte Paulus og Barnabas en betydelig tid der, talte frimodigt i tillid til Herren, som bekræftede budskabet om sin nåde ved at tillade tegn og undere at blive udført gennem dem.
+
+## Apostlenes Gerninger 14:4
+
+Byens folk var delte; nogle holdt med jøderne, mens andre holdt med apostlene.
+
+## Apostlenes Gerninger 14:5
+
+Da der blev lagt en plan af både hedninger og jøder, sammen med deres ledere, om at mishandle og stene dem,
+
+## Apostlenes Gerninger 14:6
+
+fik de det at vide og flygtede til byerne i Lykaonien, Lystra og Derbe, og det omkringliggende område.
+
+## Apostlenes Gerninger 14:7
+
+Der fortsatte de med at forkynde evangeliet.
+
+---
+
+## Apostlenes Gerninger 14:8
+
+I Lystra var der en mand, der sad, som var lam. Han havde været handicappet fra fødslen og havde aldrig gået.
+
+## Apostlenes Gerninger 14:9
+
+Denne mand lyttede til Paulus, mens han talte. Paulus så fast på ham og så, at han havde tro til at blive helbredt,
+
+## Apostlenes Gerninger 14:10
+
+og råbte med høj stemme: “Stå oprejst på dine fødder!” Da sprang manden op og begyndte at gå.
+
+## Apostlenes Gerninger 14:11
+
+Da mængden så, hvad Paulus havde gjort, hævede de deres stemmer og sagde på lykaonisk: “Guderne er kommet ned til os i menneskelig skikkelse!”
+
+## Apostlenes Gerninger 14:12
+
+De begyndte at kalde Barnabas for Zeus og Paulus for Hermes, da han var den ledende taler.
+
+## Apostlenes Gerninger 14:13
+
+Præsten for Zeus, hvis tempel lå lige uden for byen, bragte tyre og kranse til portene og havde til hensigt at ofre sammen med mængden.
+
+---
+
+## Apostlenes Gerninger 14:14
+
+Da apostlene Barnabas og Paulus hørte dette, rev de deres tøj itu og styrtede ud i mængden, råbende,
+
+## Apostlenes Gerninger 14:15
+
+“Mænd, hvorfor gør I disse ting? Vi er også mennesker, af samme natur som jer, og vi bringer jer det gode budskab, at I skal vende jer fra disse værdiløse ting til den levende Gud, som skabte himlen, jorden, havet og alt, hvad der er i dem.
+
+## Apostlenes Gerninger 14:16
+
+I tidligere generationer lod han alle nationer gå deres egne veje.
+
+## Apostlenes Gerninger 14:17
+
+Alligevel efterlod han sig ikke uden vidnesbyrd, idet han gjorde godt og gav jer regn fra himlen og frugtbare årstider, fyldte jeres hjerter med mad og glæde.”
+
+## Apostlenes Gerninger 14:18
+
+Selv med disse ord havde de svært ved at forhindre mængden i at ofre til dem.
+
+---
+
+## Apostlenes Gerninger 14:19
+
+Så kom nogle jøder fra Antiokia og Ikonium, og efter at have overtalt mængden, stenede de Paulus og slæbte ham ud af byen, idet de troede, han var død.
+
+## Apostlenes Gerninger 14:20
+
+Men mens disciplene samledes omkring ham, rejste han sig op og gik tilbage ind i byen. Næste dag tog han af sted med Barnabas til Derbe.
+
+---
+
+## Apostlenes Gerninger 14:21
+
+Efter at de havde prædiket evangeliet i den by og vundet et betydeligt antal disciple, vendte de tilbage til Lystra, Ikonium og Antiokia,
+
+## Apostlenes Gerninger 14:22
+
+styrkede disciplene og opmuntrede dem til at forblive faste i troen, idet de sagde: “Vi må udholde mange trængsler for at komme ind i Guds rige.”
+
+## Apostlenes Gerninger 14:23
+
+Paulus og Barnabas udnævnte ældste for dem i hver menighed, og med bøn og faste overgav de dem til Herren, som de havde troet på.
+
+---
+
+## Apostlenes Gerninger 14:24
+
+De rejste gennem Pisidien og kom ind i Pamfylien.
+
+## Apostlenes Gerninger 14:25
+
+Efter at have forkyndt ordet i Perge, gik de ned til Attalia.
+
+## Apostlenes Gerninger 14:26
+
+Derfra vendte de tilbage ad søvejen til Antiokia, hvor de var blevet betroet til Guds nåde for det arbejde, de havde fuldført.
+
+## Apostlenes Gerninger 14:27
+
+Ved deres ankomst samlede de menigheden og rapporterede alt, hvad Gud havde gjort gennem dem, og hvordan han havde åbnet en dør af tro for hedningerne.
+
+## Apostlenes Gerninger 14:28
+
+Og de tilbragte en betydelig tid der med disciplene.

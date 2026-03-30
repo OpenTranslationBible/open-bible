@@ -1,0 +1,82 @@
+# Esekíel Kafli 43
+
+## Esekíel 43:1
+Þá leiddi hann mig að hliðinu sem snýr í austur.
+
+## Esekíel 43:2
+Og sjá, dýrð Guðs Ísraels kom frá austri. Rödd hans var eins og nið margra vatna, og jörðin ljómaði af dýrð hans.
+
+## Esekíel 43:3
+Sýnin sem ég sá var eins og sýnin sem ég hafði séð þegar hann kom til að eyða borginni, og eins og sýnirnar sem ég hafði séð við fljótið Kebar; og ég féll á andlit mitt.
+
+## Esekíel 43:4
+Og dýrð Drottins gekk inn í musterið um hliðið sem snýr í austur.
+
+## Esekíel 43:5
+Andinn bar mig inn í innri forgarðinn, og sjá, dýrð Drottins fyllti musterið.
+
+## Esekíel 43:6
+Þá heyrði ég einhvern tala við mig innan úr musterinu, meðan maðurinn stóð við hlið mér.
+
+## Esekíel 43:7
+Hann sagði við mig: „Mannssonur, þetta er staður hásætis míns og staður ilja minna, þar sem ég mun búa meðal Ísraelsmanna að eilífu. Ísraels hús mun ekki lengur saurga heilagt nafn mitt, hvorki þeir né konungar þeirra, með hórdómi sínum eða með líkum konunga sinna við dauða þeirra.
+
+## Esekíel 43:8
+Með því að setja þröskuld sinn við hlið þröskulds míns og dyrastafi sína við hlið dyrastafa minna, með aðeins vegg á milli mín og þeirra, saurguðu þeir heilagt nafn mitt með viðurstyggðum sínum. Svo ég eyddi þeim í reiði minni.
+
+## Esekíel 43:9
+Látið þá leggja frá sér ótrúmennsku sína og leifar konunga sinna langt frá mér, og ég mun búa meðal þeirra að eilífu.
+
+## Esekíel 43:10
+„En þú, mannssonur, lýstu musterinu fyrir Ísraels húsi, svo að þeir skammist sín fyrir syndir sínar, og láttu þá mæla áætlunina.
+
+## Esekíel 43:11
+Ef þeir skammast sín fyrir allt sem þeir hafa gert, gerðu þeim þá kunnugt um hönnun musterisins—uppsetningu þess, útganga þess og innganga, alla hönnun þess, allar reglur þess og lög. Skrifaðu þetta niður í augsýn þeirra, svo að þeir geti fylgst með allri hönnun þess og fylgt öllum reglum þess.
+
+## Esekíel 43:12
+Þetta er lögmál musterisins: allt svæðið efst á fjallinu allt um kring skal vera mjög heilagt. Sjá, þetta er lögmál musterisins.
+
+## Esekíel 43:13
+„Þetta eru mál altarisins í löngum alin (alin er alin og handbreidd): grunnurinn skal vera alin djúpur og alin breiður, með jaðri af einni spönn umhverfis brúnina. Þetta er hæð altarisins:
+
+## Esekíel 43:14
+Frá grunninum á jörðinni að neðri syllunni skal vera tvær álnir á hæð, og syllan skal vera alin breið. Frá minni syllunni að stærri syllunni skal vera fjórar álnir á hæð, og syllan skal einnig vera alin breið.
+
+## Esekíel 43:15
+Altariseldstæðið skal vera fjórar álnir á hæð, og fjórir horn skulu standa upp úr eldstæðinu.
+
+## Esekíel 43:16
+Altariseldstæðið skal vera ferkantað, tólf álnir á lengd og tólf álnir á breidd.
+
+## Esekíel 43:17
+Efri syllan skal einnig vera ferköntuð, fjórtán álnir á lengd og fjórtán álnir á breidd. Umhverfis altarið er rennur af einni alin með brún af hálfri alin. Tröppur altarisins skulu snúa í austur.“
+
+## Esekíel 43:18
+Þá sagði hann við mig, „Mannssonur, þetta segir Drottinn Guð: ‘Þetta eru reglurnar fyrir altarið á þeim degi sem það er reist, til að færa brennifórnir á því og stökkva blóði á það.
+
+## Esekíel 43:19
+Þú skalt gefa ungan uxa sem syndafórn til levítaprestanna af ætt Sadóks, sem koma nálægt til að þjóna mér,’ segir Drottinn Guð.
+
+## Esekíel 43:20
+Þú skalt taka nokkuð af blóði hans og setja það á fjögur horn altarisins og á fjögur horn syllunnar og umhverfis brúnina, og þannig hreinsa altarið og friðþægja fyrir það.
+
+## Esekíel 43:21
+Þú skalt taka uxann fyrir syndafórnina og brenna hann á tilteknum stað á musterisvæðinu utan við helgidóminn.
+
+## Esekíel 43:22
+‘Á öðrum degi skaltu færa hafur án lýta sem syndafórn, og altarið skal hreinsað eins og það var hreinsað með uxanum.
+
+## Esekíel 43:23
+Þegar þú hefur lokið við að hreinsa það, skaltu færa ungan uxa og hrút úr hjörðinni, bæði án lýta.
+
+## Esekíel 43:24
+Þú skalt færa þau fram fyrir Drottin, og prestarnir skulu stökkva salti á þau og færa þau sem brennifórn til Drottins.
+
+## Esekíel 43:25
+Í sjö daga skaltu færa hafur daglega sem syndafórn; þú skalt einnig færa ungan uxa og hrút úr hjörðinni, bæði án lýta.
+
+## Esekíel 43:26
+Í sjö daga skulu þeir friðþægja fyrir altarið og hreinsa það; þannig skulu þeir helga það.
+
+## Esekíel 43:27
+Í lok þessara daga, frá áttunda degi og áfram, skulu prestarnir færa brennifórnir þínar og friðarfórnir á altarið; og ég mun taka við ykkur,’ segir Drottinn Guð.”

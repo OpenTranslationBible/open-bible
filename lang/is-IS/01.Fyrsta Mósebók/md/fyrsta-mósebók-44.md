@@ -1,0 +1,137 @@
+# Fyrsta Mósebók Kafli 44
+
+## Fyrsta Mósebók 44:1
+
+Jósef gaf ráðsmanni húss síns fyrirmæli: „Fylltu sekkina þeirra með eins miklu korni og þeir geta borið, og settu peninga hvers manns efst í sekk hans.
+
+## Fyrsta Mósebók 44:2
+
+Settu einnig silfurkönnu mína efst í sekk hins yngsta, ásamt peningum hans fyrir kornið.“ Og ráðsmaðurinn gerði eins og Jósef hafði skipað.
+
+## Fyrsta Mósebók 44:3
+
+Þegar morgunninn rann upp, lögðu mennirnir af stað með asna sína.
+
+## Fyrsta Mósebók 44:4
+
+Þeir höfðu rétt yfirgefið borgina og voru ekki langt komnir þegar Jósef sagði við ráðsmann sinn: „Farðu strax á eftir þessum mönnum, og þegar þú nærð þeim, spurðu: ‘Hvers vegna hafið þið endurgoldið gott með illu?
+
+## Fyrsta Mósebók 44:5
+
+Er þetta ekki könnuna sem húsbóndi minn drekkur úr og notar til spádóma? Þið hafið framið rangt verk.’“
+
+## Fyrsta Mósebók 44:6
+
+Þegar hann náði þeim, flutti hann þessum orðum til þeirra.
+
+## Fyrsta Mósebók 44:7
+
+Þeir svöruðu: „Hvers vegna talar húsbóndi minn slíkt? Fjarri sé það þjónum þínum að gera slíkt!
+
+## Fyrsta Mósebók 44:8
+
+Við færðum þér jafnvel aftur frá Kanaanslandi peningana sem við fundum í munnum sekka okkar. Hvers vegna myndum við stela silfri eða gulli úr húsi húsbónda þíns?
+
+## Fyrsta Mósebók 44:9
+
+Ef einhver af þjónum þínum finnst með það, skal hann deyja, og við hinir munum verða þrælar húsbónda míns.“
+
+## Fyrsta Mósebók 44:10
+
+Hann svaraði: „Lát það vera eins og þið segið. Sá sem finnst með það mun verða þræll minn; hinir munu vera saklausir.“
+
+## Fyrsta Mósebók 44:11
+
+Hver maður lækkaði fljótt sekk sinn til jarðar og opnaði hann.
+
+## Fyrsta Mósebók 44:12
+
+Ráðsmaðurinn byrjaði að leita, byrjaði á þeim elsta og endaði á þeim yngsta, og könnan fannst í sekk Benjamíns.
+
+## Fyrsta Mósebók 44:13
+
+Við þetta rifu þeir klæði sín í sorg. Hver maður hlaðaði asna sinn, og þeir sneru aftur til borgarinnar.
+
+## Fyrsta Mósebók 44:14
+
+Þegar Júda og bræður hans komu til húss Jósefs, var hann enn þar, og þeir féllu til jarðar fyrir honum.
+
+## Fyrsta Mósebók 44:15
+
+Jósef spurði þá: „Hvað er þetta verk sem þið hafið gert? Vitið þið ekki að maður eins og ég getur vissulega stundað spádóma?“
+
+## Fyrsta Mósebók 44:16
+
+Júda svaraði: „Hvað getum við sagt við húsbónda minn? Hvernig getum við réttlætt okkur? Guð hefur afhjúpað sekt þjóna þinna. Við erum nú þrælar húsbónda míns, bæði við og sá sem fannst með könnuna.“
+
+## Fyrsta Mósebók 44:17
+
+En Jósef sagði: „Fjarri sé það mér að gera þetta. Aðeins sá maður sem fannst með könnuna mun verða þræll minn. Þið hinir, farið í friði til föður ykkar.“
+
+## Fyrsta Mósebók 44:18
+
+Þá nálgaðist Júda hann og sagði: „Vinsamlegast, húsbóndi minn, leyfðu þjóni þínum að tala orð í eyru húsbónda míns, og reiðstu ekki þjóni þínum, því þú ert eins og Faraó sjálfur.
+
+## Fyrsta Mósebók 44:19
+
+Húsbóndi minn spurði þjóna sína: ‘Hafið þið föður eða bróður?’
+
+## Fyrsta Mósebók 44:20
+
+Við svöruðum: ‘Við höfum aldraðan föður og ungan son sem fæddist honum á elliárum hans. Bróðir hans er dáinn, og hann er sá eini sem eftir er af börnum móður hans, og faðir hans elskar hann.’
+
+## Fyrsta Mósebók 44:21
+
+Þá sagðir þú við þjóna þína: ‘Færið hann niður til mín svo ég megi sjá hann.’
+
+## Fyrsta Mósebók 44:22
+
+Við sögðum húsbónda mínum: ‘Drengurinn getur ekki yfirgefið föður sinn; ef hann fer, myndi faðir hans deyja.’
+
+## Fyrsta Mósebók 44:23
+
+En þú sagðir við þjóna þína: ‘Nema yngsti bróðir ykkar komi með ykkur, munuð þið ekki sjá andlit mitt aftur.’
+
+## Fyrsta Mósebók 44:24
+
+Þegar við snerum aftur til þjóns þíns föður míns, sögðum við frá því sem húsbóndi minn hafði sagt.
+
+## Fyrsta Mósebók 44:25
+
+Faðir okkar skipaði okkur: ‘Farið aftur og kaupið smá meira korn.’
+
+## Fyrsta Mósebók 44:26
+
+En við sögðum: ‘Við getum ekki farið niður nema yngsti bróðir okkar sé með okkur. Við getum ekki séð andlit mannsins nema hann sé með okkur.’
+
+## Fyrsta Mósebók 44:27
+
+Þjónn þinn faðir minn bað okkur: ‘Þið vitið að kona mín fæddi mér tvo syni.
+
+## Fyrsta Mósebók 44:28
+
+Einn fór frá mér, og ég sagði, “Hann hlýtur að hafa verið rifinn í sundur.” Ég hef ekki séð hann síðan.
+
+## Fyrsta Mósebók 44:29
+
+Ef þið takið þennan líka frá mér og honum verður mein, munuð þið færa grátt höfuð mitt niður í gröfina í eymd.’
+
+## Fyrsta Mósebók 44:30
+
+Nú, ef drengurinn er ekki með okkur þegar ég sný aftur til þjóns þíns föður míns, og ef faðir minn, sem líf sitt er náið tengt lífi drengsins,
+
+## Fyrsta Mósebók 44:31
+
+sér að drengurinn er ekki með okkur, mun hann deyja. Þjónar þínir munu færa grátt höfuð föður okkar niður í gröfina í sorg.
+
+## Fyrsta Mósebók 44:32
+
+Þjónn þinn ábyrgðist öryggi drengsins fyrir föður mínum, og sagði: ‘Ef ég færi hann ekki aftur, mun ég bera sökina fyrir föður minn alla ævi.’
+
+## Fyrsta Mósebók 44:33
+
+Nú, vinsamlegast leyfðu þjóni þínum að vera eftir sem þræll húsbónda míns í stað drengsins, og leyfðu drengnum að fara aftur með bræðrum sínum.
+
+## Fyrsta Mósebók 44:34
+
+Hvernig get ég snúið aftur til föður míns ef drengurinn er ekki með mér? Ég óttast að sjá eymdina sem myndi koma yfir föður minn.“

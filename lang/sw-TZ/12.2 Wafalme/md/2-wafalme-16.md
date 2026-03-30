@@ -1,0 +1,128 @@
+# 2 Wafalme Sura ya 16
+
+## 2 Wafalme 16:1
+
+Katika mwaka wa kumi na saba wa Pekah mwana wa Remalia,  
+Ahazi mwana wa Yothamu, mfalme wa Yuda, alianza kutawala.
+
+## 2 Wafalme 16:2
+
+Ahazi alikuwa na umri wa miaka ishirini alipoanza kutawala,  
+na alitawala miaka kumi na sita huko Yerusalemu.  
+Hakufanya yaliyo sawa machoni pa Bwana Mungu wake, kama baba yake Daudi alivyofanya.
+
+## 2 Wafalme 16:3
+
+Lakini alitembea katika njia za wafalme wa Israeli,  
+na hata alimfanya mwanawe apite motoni,  
+sawasawa na machukizo ya mataifa ambayo Bwana aliwafukuza mbele ya wana wa Israeli.
+
+## 2 Wafalme 16:4
+
+Alitoa dhabihu na kufukiza uvumba katika mahali pa juu,  
+juu ya vilima, na chini ya kila mti wenye majani mabichi.
+
+---
+
+## 2 Wafalme 16:5
+
+Kisha Rezini mfalme wa Aramu na Pekah mwana wa Remalia mfalme wa Israeli walipanda kwenda Yerusalemu kwa vita,  
+wakamzingira Ahazi, lakini hawakuweza kumshinda.
+
+## 2 Wafalme 16:6
+
+Wakati huo Rezini mfalme wa Aramu alirudisha Elathi kwa Aramu,  
+na kuwafukuza Wayahudi kutoka Elathi kabisa;  
+na Waaramu wakaja Elathi na wameishi huko hadi leo.
+
+---
+
+## 2 Wafalme 16:7
+
+Hivyo Ahazi akatuma wajumbe kwa Tiglath-pileseri mfalme wa Ashuru, akisema,  
+"Mimi ni mtumishi wako na mwana wako; njoo unisaidie dhidi ya mfalme wa Aramu,  
+na mfalme wa Israeli, ambao wameinuka dhidi yangu."
+
+## 2 Wafalme 16:8
+
+Na Ahazi akachukua fedha na dhahabu iliyopatikana katika nyumba ya Bwana  
+na katika hazina za nyumba ya mfalme, na kuituma kama zawadi kwa mfalme wa Ashuru.
+
+## 2 Wafalme 16:9
+
+Hivyo mfalme wa Ashuru akasikiliza ombi lake;  
+na mfalme wa Ashuru akapanda dhidi ya Dameski na kuiteka,  
+na kuwapeleka watu wake uhamishoni hadi Kiri, na akamwua Rezini.
+
+---
+
+## 2 Wafalme 16:10
+
+Sasa Mfalme Ahazi akaenda Dameski kukutana na Tiglath-pileseri mfalme wa Ashuru,  
+na akaona madhabahu iliyokuwa Dameski.  
+Na Mfalme Ahazi akatuma kwa Uria kuhani mfano wa madhabahu na kielelezo chake,  
+sawasawa na kazi yake yote.
+
+## 2 Wafalme 16:11
+
+Hivyo Uria kuhani akajenga madhabahu;  
+sawasawa na yote ambayo Mfalme Ahazi alituma kutoka Dameski,  
+hivyo Uria kuhani akaifanya kabla ya mfalme kuja kutoka Dameski.
+
+## 2 Wafalme 16:12
+
+Mfalme alipokuja kutoka Dameski, mfalme akaona madhabahu;  
+na mfalme akakaribia madhabahu na kupanda juu yake,
+
+## 2 Wafalme 16:13
+
+na akachoma sadaka yake ya kuteketezwa na sadaka yake ya unga,  
+na akamimina sadaka yake ya kinywaji na kunyunyiza damu ya sadaka zake za amani juu ya madhabahu.
+
+## 2 Wafalme 16:14
+
+Na madhabahu ya shaba, ambayo ilikuwa mbele ya Bwana,  
+aliihamisha kutoka mbele ya nyumba,  
+kati ya madhabahu yake na nyumba ya Bwana,  
+na akaweka upande wa kaskazini wa madhabahu yake.
+
+## 2 Wafalme 16:15
+
+Kisha Mfalme Ahazi akamwamuru Uria kuhani, akisema,  
+"Juu ya madhabahu kuu choma sadaka ya kuteketezwa ya asubuhi na sadaka ya unga ya jioni,  
+na sadaka ya kuteketezwa ya mfalme na sadaka yake ya unga,  
+pamoja na sadaka ya kuteketezwa ya watu wote wa nchi,  
+na sadaka yao ya unga na sadaka zao za kinywaji;  
+na kunyunyiza juu yake damu yote ya sadaka za kuteketezwa na damu yote ya dhabihu.  
+Lakini madhabahu ya shaba itakuwa kwa ajili yangu kuuliza kwa."
+
+## 2 Wafalme 16:16
+
+Hivyo Uria kuhani akafanya yote ambayo Mfalme Ahazi aliamuru.
+
+---
+
+## 2 Wafalme 16:17
+
+Kisha Mfalme Ahazi akakata mipaka ya vikalio,  
+na kuondoa beseni la kuoshea kutoka juu yake;  
+pia akashusha bahari kutoka kwa ng'ombe wa shaba waliokuwa chini yake,  
+na kuiweka juu ya sakafu ya mawe.
+
+## 2 Wafalme 16:18
+
+Na akaondoa dari iliyofunikwa kwa ajili ya Sabato ambayo walikuwa wameijenga katika nyumba,  
+na mlango wa nje kwa ajili ya mfalme, kutoka nyumba ya Bwana,  
+kwa sababu ya mfalme wa Ashuru.
+
+---
+
+## 2 Wafalme 16:19
+
+Sasa matendo mengine ya Ahazi aliyoyafanya,  
+je, hayajaandikwa katika Kitabu cha Mambo ya Nyakati za Wafalme wa Yuda?
+
+## 2 Wafalme 16:20
+
+Hivyo Ahazi akalala na baba zake na akazikwa pamoja na baba zake katika mji wa Daudi,  
+na mwanawe Hezekia akawa mfalme mahali pake.

@@ -1,0 +1,155 @@
+# Lukas Kapitel 13
+
+## Lukas 13:1
+
+Vid den tiden fanns det några närvarande som informerade Jesus om galiléerna vars blod Pilatus hade blandat med deras offer.
+
+## Lukas 13:2
+
+Jesus svarade, "Tror ni att dessa galiléer var större syndare än alla andra galiléer eftersom de drabbades av detta öde?
+
+## Lukas 13:3
+
+Jag försäkrar er, det var de inte! Men om ni inte omvänder er, kommer ni alla att möta ett liknande slut.
+
+## Lukas 13:4
+
+Eller de arton som dödades när tornet i Siloam föll över dem—tror ni att de var mer skyldiga än alla andra som bor i Jerusalem?
+
+## Lukas 13:5
+
+Jag försäkrar er, det var de inte! Men om ni inte omvänder er, kommer ni alla att möta ett liknande slut."
+
+---
+
+## Lukas 13:6
+
+Och Han berättade denna liknelse: "En man hade ett fikonträd planterat i sin vingård, och han kom för att leta efter frukt på det men fann ingen.
+
+## Lukas 13:7
+
+Så han sa till vingårdsvaktaren, 'I tre år har jag kommit för att leta efter frukt på detta fikonträd och har inte funnit någon. Hugg ner det! Varför ska det uppta jorden?'
+
+## Lukas 13:8
+
+Men han svarade, 'Herre, låt det vara kvar ett år till, så ska jag gräva runt det och gödsla det.
+
+## Lukas 13:9
+
+Om det bär frukt nästa år, bra; men om inte, så hugg ner det.'"
+
+---
+
+## Lukas 13:10
+
+En sabbat, medan Jesus undervisade i en synagoga,
+
+## Lukas 13:11
+
+fanns där en kvinna som hade varit förlamad av en ande i arton år. Hon var böjd och kunde inte räta på sig alls.
+
+## Lukas 13:12
+
+När Jesus såg henne, kallade Han henne till sig och sa, "Kvinna, du är fri från din sjukdom."
+
+## Lukas 13:13
+
+Han lade sina händer på henne, och omedelbart rätade hon på sig och prisade Gud.
+
+## Lukas 13:14
+
+Men synagogans ledare, upprörd för att Jesus hade helat på sabbaten, sa till folkmassan, "Det finns sex dagar för arbete. Så kom och bli helade på de dagarna, inte på sabbaten."
+
+## Lukas 13:15
+
+Herren svarade honom, "Ni hycklare! Löser inte var och en av er på sabbaten sin oxe eller åsna från båset och leder den till vatten?
+
+## Lukas 13:16
+
+Då borde inte denna kvinna, en Abrahams dotter, som Satan har bundit i arton långa år, bli fri på sabbatsdagen från det som band henne?"
+
+## Lukas 13:17
+
+När Han sa detta, blev alla Hans motståndare skamsna, men folket gladde sig över alla de härliga saker Han gjorde.
+
+---
+
+## Lukas 13:18
+
+Sedan frågade Jesus, "Vad är Guds rike likt? Vad ska jag jämföra det med?
+
+## Lukas 13:19
+
+Det är som ett senapskorn, som en man tog och planterade i sin trädgård. Det växte och blev ett träd, och himlens fåglar byggde bo i dess grenar."
+
+---
+
+## Lukas 13:20
+
+Återigen frågade Han, "Vad ska jag jämföra Guds rike med?
+
+## Lukas 13:21
+
+Det är som jäst som en kvinna tog och blandade in i tre mått mjöl tills allt var syrat."
+
+---
+
+## Lukas 13:22
+
+Och Han gick genom städer och byar, undervisande medan Han gjorde sin väg till Jerusalem.
+
+## Lukas 13:23
+
+Någon frågade Honom, "Herre, kommer bara några få att bli frälsta?" Han svarade dem,
+
+## Lukas 13:24
+
+"Sträva ivrigt efter att komma in genom den trånga dörren, för jag säger er att många kommer att försöka men inte kunna.
+
+## Lukas 13:25
+
+När husets ägare reser sig och stänger dörren, kommer ni att stå utanför och knacka och vädja, 'Herre, öppna dörren för oss.' Men Han kommer att svara, 'Jag känner er inte eller varifrån ni kommer.'
+
+## Lukas 13:26
+
+Då kommer ni att säga, 'Vi delade måltider med dig, och du undervisade bland oss.'
+
+## Lukas 13:27
+
+Men Han kommer att svara, 'Jag vet inte varifrån ni kommer. Gå bort från mig, alla ni ogärningsmän!'
+
+## Lukas 13:28
+
+Där kommer att vara gråt och tandagnisslan när ni ser Abraham, Isak, Jakob och alla profeterna i Guds rike, men ni själva kastas ut.
+
+## Lukas 13:29
+
+Folk kommer att komma från öst och väst, och från norr och söder, och kommer att luta sig tillbaka vid bordet i Guds rike.
+
+## Lukas 13:30
+
+Ja, det finns de som är sist som kommer att bli först, och de som är först som kommer att bli sist."
+
+---
+
+## Lukas 13:31
+
+Vid den tiden kom några fariséer till Jesus och sa, "Lämna denna plats och gå någon annanstans. Herodes vill döda dig."
+
+## Lukas 13:32
+
+Han svarade, "Gå och säg till den räven, 'Jag kommer att fortsätta driva ut demoner och utföra helanden idag och imorgon, och på den tredje dagen kommer jag att nå mitt mål.'
+
+## Lukas 13:33
+
+Ändå måste jag fortsätta min resa idag, imorgon och nästa dag—för det är inte möjligt för en profet att förgås utanför Jerusalem.
+
+---
+
+## Lukas 13:34
+
+O Jerusalem, Jerusalem, du som skadar profeterna och stenar dem som sänds till dig, hur ofta har jag önskat samla dina barn, som en höna samlar sina kycklingar under sina vingar, men ni ville inte.
+
+## Lukas 13:35
+
+Se, ert hus lämnas åt er öde. Jag säger er, ni kommer inte att se mig igen förrän ni säger, 'Välsignad är han som kommer i Herrens namn.'"

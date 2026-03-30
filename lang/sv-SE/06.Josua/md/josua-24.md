@@ -1,0 +1,145 @@
+# Josua Kapitel 24
+
+## Josua 24:1
+
+Sedan samlade Josua alla Israels stammar i Sikem och kallade på de äldste, ledarna, domarna och ämbetsmännen i Israel; och de trädde fram inför Gud.
+
+## Josua 24:2
+
+Josua sade till hela folket: "Så säger Herren, Israels Gud: 'I forna tider bodde era förfäder, inklusive Tera, Abrahams och Nahors far, bortom Eufrat och dyrkade andra gudar.
+
+## Josua 24:3
+
+Men jag tog er far Abraham från området bortom Eufrat och ledde honom genom Kanaans land och förökade hans ättlingar, och gav honom Isak.
+
+## Josua 24:4
+
+Åt Isak gav jag Jakob och Esau. Jag tilldelade Seirs bergsbygd åt Esau, men Jakob och hans söner gick ner till Egypten.
+
+---
+
+## Josua 24:5
+
+Sedan sände jag Mose och Aron, och jag plågade Egypten med det jag gjorde där, och därefter förde jag er ut.
+
+## Josua 24:6
+
+Jag förde era förfäder ut ur Egypten, och ni kom till havet, och egyptierna förföljde dem med vagnar och ryttare till Röda havet.
+
+## Josua 24:7
+
+Men när de ropade till Herren, lade han mörker mellan er och egyptierna, och förde havet över dem och täckte dem. Era egna ögon såg vad jag gjorde i Egypten. Sedan bodde ni i öknen under lång tid.
+
+---
+
+## Josua 24:8
+
+Jag förde er till amoréernas land som bodde bortom Jordan. De stred mot er, men jag gav dem i er hand, och ni tog deras land i besittning när jag förgjorde dem inför er.
+
+## Josua 24:9
+
+Sedan reste sig Balak, Sippors son, Moabs kung, för att strida mot Israel, och han sände efter Bileam, Beors son, för att förbanna er.
+
+## Josua 24:10
+
+Men jag ville inte lyssna på Bileam, så han välsignade er upprepade gånger, och jag räddade er ur hans hand.
+
+## Josua 24:11
+
+Ni gick över Jordan och kom till Jeriko. Jerikos invånare stred mot er, liksom amoréerna, perisséerna, kanaanéerna, hetiterna, girgaséerna, hivéerna och jebuséerna, men jag gav dem i er hand.
+
+## Josua 24:12
+
+Jag sände getingar framför er, som drev ut dem inför er, inklusive de två amoréiska kungarna. Det var inte genom ert svärd eller båge.
+
+## Josua 24:13
+
+Jag gav er ett land som ni inte hade arbetat för och städer som ni inte hade byggt, och ni bor i dem och äter från vingårdar och olivlundar som ni inte har planterat.'
+
+---
+
+## Josua 24:14
+
+Frukta därför nu Herren och tjäna honom med fullständig trohet. Kasta bort de gudar som era förfäder dyrkade bortom Eufrat och i Egypten, och tjäna Herren.
+
+## Josua 24:15
+
+Men om ni inte vill tjäna Herren, välj då idag vem ni vill tjäna, antingen de gudar som era förfäder tjänade bortom Eufrat, eller amoréernas gudar, i vars land ni nu bor. Men jag och mitt hus, vi vill tjäna Herren."
+
+## Josua 24:16
+
+Då svarade folket: "Vi skulle aldrig överge Herren för att tjäna andra gudar!
+
+## Josua 24:17
+
+Det var Herren vår Gud som förde oss och våra förfäder upp ur Egypten, från det landet av slaveri, och utförde dessa stora tecken inför våra ögon. Han skyddade oss på hela vår resa och bland alla de folk genom vilka vi färdades.
+
+## Josua 24:18
+
+Herren drev ut alla folken inför oss, inklusive amoréerna, som bodde i landet. Vi vill också tjäna Herren, för han är vår Gud."
+
+---
+
+## Josua 24:19
+
+Josua sade till folket: "Ni kan finna det svårt att tjäna Herren. Han är en helig Gud; han är en nitälskande Gud. Han kommer inte att förbise er uppror och era synder.
+
+## Josua 24:20
+
+Om ni vänder er bort från Herren och tjänar andra gudar, kommer han att låta olycka drabba er och göra slut på er, efter att han har varit god mot er."
+
+---
+
+## Josua 24:21
+
+Men folket var bestämt mot Josua: "Vi är beslutna att tjäna Herren."
+
+## Josua 24:22
+
+Då sade Josua: "Ni erkänner att ni är vittnen till ert eget beslut att tjäna Herren." "Ja, vi är vittnen," svarade de.
+
+## Josua 24:23
+
+"Då," sade Josua, "gör er av med de främmande gudar som finns bland er och rikta era hjärtan till Herren, Israels Gud."
+
+## Josua 24:24
+
+Och folket sade till Josua: "Vi vill tjäna Herren vår Gud och lyssna till hans röst."
+
+## Josua 24:25
+
+Den dagen upprättade Josua ett förbund för folket, och där i Sikem bekräftade han för dem stadgar och lagar.
+
+## Josua 24:26
+
+Och Josua skrev ner dessa saker i Guds lagbok. Sedan tog han en stor sten och reste den där under eken nära Herrens helgedom.
+
+## Josua 24:27
+
+"Se!" sade han till hela folket. "Denna sten ska vara ett vittne mot oss. Den har hört alla de ord som Herren har sagt till oss. Den ska vittna mot er om ni är otrogna mot er Gud."
+
+## Josua 24:28
+
+Sedan sände Josua folket bort, var och en till sin egen arvedel.
+
+---
+
+## Josua 24:29
+
+Efter dessa händelser dog Josua, Nuns son, Herrens tjänare, vid en ålder av etthundratio år.
+
+## Josua 24:30
+
+Och de lade honom till vila i hans arvedels land, i Timnat-Serach i Efraims bergsbygd, norr om Gaash-berget.
+
+## Josua 24:31
+
+Israel tjänade Herren under hela Josuas livstid och de äldste som överlevde honom och som hade bevittnat alla de gärningar som Herren hade gjort för Israel.
+
+## Josua 24:32
+
+Och Josefs ben, som israeliterna hade fört upp från Egypten, begravdes i Sikem på det markområde som Jakob köpte för hundra silvermynt av Hamors söner, Sikems far. Detta blev Josefs ättlingars arvedel.
+
+## Josua 24:33
+
+Och Eleasar, Arons son, dog och begravdes i Giva, som hade getts till hans son Pinehas i Efraims bergsbygd.

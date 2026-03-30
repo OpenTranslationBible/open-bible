@@ -1,0 +1,89 @@
+# Andra Moseboken Kapitel 13
+
+## Andra Moseboken 13:1
+
+Herren talade till Mose och sade,
+
+## Andra Moseboken 13:2
+
+"Helga åt mig allt förstfött, det första avkomman av varje moderliv bland israeliterna, vare sig människa eller djur; det tillhör mig."
+
+## Andra Moseboken 13:3
+
+Mose sade till folket: "Kom ihåg denna dag, dagen då ni kom ut ur Egypten, ut ur träldomens hus, ty Herren förde er ut med en mäktig hand. Ät inget som innehåller jäst.
+
+## Andra Moseboken 13:4
+
+Denna dag markerar er avfärd i månaden Abib.
+
+## Andra Moseboken 13:5
+
+När Herren för er in i kananeernas, hetiternas, amoréernas, hivéernas och jebuséernas land, det land han med ed lovade era förfäder att ge er, ett land som flödar av mjölk och honung, skall ni hålla denna sed i denna månad:
+
+## Andra Moseboken 13:6
+
+I sju dagar skall ni äta osyrat bröd, och på den sjunde dagen skall ni hålla en högtid åt Herren.
+
+## Andra Moseboken 13:7
+
+Ät osyrat bröd under dessa sju dagar; inget med jäst skall ses bland er, och ingen jäst skall finnas någonstans inom era gränser.
+
+## Andra Moseboken 13:8
+
+På den dagen skall du säga till din son: 'Det är på grund av vad Herren gjorde för mig när jag kom ut ur Egypten.'
+
+## Andra Moseboken 13:9
+
+Det skall vara som ett tecken på din hand och en påminnelse på din panna att Herrens lag skall vara på dina läppar, ty med en mäktig hand förde Herren dig ut ur Egypten.
+
+## Andra Moseboken 13:10
+
+Du måste hålla denna förordning vid dess bestämda tid år efter år.
+
+## Andra Moseboken 13:11
+
+"När Herren för er in i kananeernas land och ger det till er, som han lovade med ed till er och era förfäder,
+
+## Andra Moseboken 13:12
+
+skall ni ge åt Herren det första avkomman av varje moderliv. Alla förstfödda hanar av er boskap tillhör Herren.
+
+## Andra Moseboken 13:13
+
+För varje förstfödd åsna, ersätt med ett lamm, men om du inte ersätter det, bryt dess nacke. Lös in varje förstfödd bland dina söner.
+
+## Andra Moseboken 13:14
+
+I kommande dagar, när din son frågar dig: 'Vad betyder detta?' skall du säga till honom: 'Med en mäktig hand förde Herren oss ut ur Egypten, ut ur träldomens hus.
+
+## Andra Moseboken 13:15
+
+När farao envist vägrade att låta oss gå, dödade Herren de förstfödda i Egyptens land, både människa och djur. Det är därför jag offrar åt Herren den första manliga avkomman av varje moderliv och löser in var och en av mina förstfödda söner.'
+
+## Andra Moseboken 13:16
+
+Det skall vara som ett tecken på din hand och som ett pannband på din panna, ty med en mäktig hand förde Herren oss ut ur Egypten."
+
+## Andra Moseboken 13:17
+
+När farao lät folket gå, ledde Gud dem inte genom filistéernas land, även om det var närmare, för Gud sade: "Om de möter krig, kanske de ändrar sig och återvänder till Egypten."
+
+## Andra Moseboken 13:18
+
+Så Gud ledde folket runt genom öknen mot Röda havet, och israeliterna drog upp ur Egypten redo för strid.
+
+## Andra Moseboken 13:19
+
+Mose tog med sig Josefs ben eftersom Josef hade fått israeliterna att svära en ed och sagt: "Gud skall säkert komma till er hjälp, och då måste ni ta med er mina ben härifrån."
+
+## Andra Moseboken 13:20
+
+Efter att ha lämnat Suckot slog de läger i Etam vid öknens rand.
+
+## Andra Moseboken 13:21
+
+Under dagen gick Herren framför dem i en molnstod för att leda dem, och om natten i en eldstod för att ge dem ljus, så att de kunde resa både dag och natt.
+
+## Andra Moseboken 13:22
+
+Varken molnstoden om dagen eller eldstoden om natten lämnade sin plats framför folket.

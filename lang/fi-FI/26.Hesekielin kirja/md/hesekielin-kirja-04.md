@@ -1,0 +1,52 @@
+# Hesekiel Luku 4
+
+## Hesekiel 4:1
+"Ja sinä, ihmislapsi, ota tiili ja pane se eteensä ja piirrä siihen kaupunki—Jerusalem.
+
+## Hesekiel 4:2
+Ja piirrä sen ympärille piiritys: rakenna piiritysmuuri, rakenna luiskat, pystytä leirit ja aseta piirityskoneet sen ympärille.
+
+## Hesekiel 4:3
+Ota sitten rautalevy ja aseta se rautamuuriksi itsesi ja kaupungin välille ja käännä kasvosi sitä kohti. Se on piiritetty, ja sinä piirität sen. Tämä on merkki Israelin heimolle.
+
+## Hesekiel 4:4
+"Mene vasemmalle kyljellesi ja pane Israelin heimon synti sen päälle. Sinä kannat heidän syntinsä niin monta päivää kuin olet sillä kyljellä.
+
+## Hesekiel 4:5
+Minä olen määrännyt sinulle yhtä monta päivää kuin heidän syntivuotensa, 390 päivää; niin sinä kannat Israelin heimon syntiä.
+
+## Hesekiel 4:6
+Kun olet suorittanut nämä päivät, mene jälleen makuulle, tällä kertaa oikealle kyljellesi, ja kanna Juudan heimon syntiä. Minä olen määrännyt sinulle neljäkymmentä päivää, päivän jokaista vuotta kohti.
+
+## Hesekiel 4:7
+Käännä kasvosi Jerusalemin piiritystä kohti ja paljasta käsivartesi ja ennusta sitä vastaan.
+
+## Hesekiel 4:8
+Minä sidon sinut köysillä, ettet voi kääntyä kyljeltä toiselle, ennen kuin olet suorittanut piirityksesi päivät.
+
+## Hesekiel 4:9
+"Ota vehnää, ohraa, papuja, linssejä, hirssiä ja spelttiä; pane ne yhteen astiaan ja tee niistä itsellesi leipää. Sinä syöt sitä niin monta päivää kuin olet kyljelläsi, 390 päivää.
+
+## Hesekiel 4:10
+Ruoka, jota syöt, punnitaan, kaksikymmentä sekeliä päivässä; sinä syöt sitä määrättyinä aikoina.
+
+## Hesekiel 4:11
+Vesi, jota juot, on kuudesosa hiinistä mitattuna; sinä juot sitä määrättyinä aikoina.
+
+## Hesekiel 4:12
+Sinä syöt sen ohrakakkuna, paistaen sen heidän nähtensä epätavallisella polttoaineella."
+
+## Hesekiel 4:13
+Herra sanoi: "Tällä tavalla Israelin pojat syövät leipänsä saastuneena niiden kansojen keskuudessa, joihin minä heidät hajotan."
+
+## Hesekiel 4:14
+Silloin minä sanoin: "Voi, Herra Jumala! Minä en ole koskaan saastunut; nuoruudestani tähän päivään asti en ole syönyt mitään, mikä on itsestään kuollut tai eläinten repimä, eikä suuhuni ole tullut mitään saastaista lihaa."
+
+## Hesekiel 4:15
+Hän sanoi minulle: "Katso, minä annan sinulle lehmänlantaa ihmislannan sijasta, jotta voit valmistaa leipäsi sen päällä."
+
+## Hesekiel 4:16
+Hän sanoi sitten minulle: "Ihmislapsi, katso, minä murran leivän sauvan Jerusalemissa. He syövät leipää painon mukaan ja ahdistuksessa, ja juovat vettä mitalla ja kauhussa,
+
+## Hesekiel 4:17
+koska ruoka ja vesi ovat niukkoja. He katsovat toisiaan kauhuissaan ja riutuvat syyllisyydessään.

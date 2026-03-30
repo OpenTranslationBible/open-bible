@@ -1,0 +1,238 @@
+# 2. Samuelin kirja, luku 23
+
+## 2. Samuel 23:1
+
+Nämä ovat Daavidin viimeiset sanat:  
+Jesseen poika Daavid puhuu,  
+Mies, jonka Korkein on korottanut,  
+Jaakobin Jumalan voideltu,  
+Ja Israelin rakastettu psalmisti:
+
+## 2. Samuel 23:2
+
+> "Herran Henki puhui minun kauttani,  
+> Ja Hänen sanansa olivat minun kielelläni.
+
+## 2. Samuel 23:3
+
+> Israelin Jumala sanoi,  
+> Israelin kallio puhui minulle:  
+> 'Hän, joka hallitsee ihmisiä oikeudenmukaisesti,  
+> Joka hallitsee Jumalan pelossa,
+
+## 2. Samuel 23:4
+
+> On kuin aamun valo, kun aurinko nousee,  
+> Pilvetön aamunkoitto,  
+> Kun tuore ruoho versoo maasta,  
+> Auringonpaisteen ja sateen jälkeen.'
+
+## 2. Samuel 23:5
+
+> Totisesti, eikö minun sukuni ole näin Jumalan kanssa?  
+> Sillä Hän on tehnyt kanssani ikuisen liiton,  
+> Järjestetty ja turvattu kaikessa;  
+> Sillä eikö Hän todella anna kaiken pelastukseni ja kaiken haluni kasvaa?
+
+## 2. Samuel 23:6
+
+> Mutta arvottomat, kaikki heidät heitetään pois kuin orjantappurat,  
+> Koska heitä ei voi käsitellä;
+
+## 2. Samuel 23:7
+
+> Mutta kuka heihin koskee,  
+> Hänen täytyy olla varustettu raudalla ja keihään varrella,  
+> Ja heidät poltetaan täydellisesti tulella siellä missä he makaavat."
+
+---
+
+## 2. Samuel 23:8
+
+Nämä ovat Daavidin urhoollisten miesten nimet:  
+Josheb-Basshebeth, tahkemonilainen, päällikkö kapteeneista—  
+Hän heilutti keihästään kahdeksaasataa vastaan, jotka hän tappoi kerralla.
+
+## 2. Samuel 23:9
+
+Hänen jälkeensä oli Eleasar, Doodon poika, Ahohilainen,  
+yksi kolmesta urhoollisesta miehestä Daavidin kanssa,  
+kun he uhmaten asettuivat filistealaisia vastaan, jotka olivat kokoontuneet sinne taisteluun,  
+ja Israelin miehet olivat vetäytyneet.
+
+## 2. Samuel 23:10
+
+Hän nousi ja löi filistealaisia, kunnes hänen kätensä väsyi ja tarttui miekkaan,  
+ja Herra toi suuren voiton sinä päivänä;  
+ja kansa palasi hänen jälkeensä vain ryöstämään kaatuneet.
+
+## 2. Samuel 23:11
+
+Hänen jälkeensä oli Samma, Ageen poika, hararilainen.  
+Ja filistealaiset olivat kokoontuneet joukkoon  
+siellä, missä oli linssipelto,  
+ja kansa pakeni filistealaisia.
+
+## 2. Samuel 23:12
+
+Mutta hän asettui pellon keskelle ja puolusti sitä,  
+ja löi filistealaisia;  
+ja Herra toi suuren voiton.
+
+---
+
+## 2. Samuel 23:13
+
+Sitten kolme kolmestakymmenestä päämiehestä meni alas ja tuli Daavidin luo sadonkorjuuaikana  
+Adullamin luolaan,  
+kun filistealaisten leiri oli Refaimin laaksossa.
+
+## 2. Samuel 23:14
+
+Daavid oli turvapaikassa,  
+ja filistealaisten varuskunta oli Betlehemissä.
+
+## 2. Samuel 23:15
+
+Ja Daavid kaipasi ja sanoi,  
+"Oi, jospa joku toisi minulle vettä juotavaksi Betlehemin kaivosta,  
+joka on portin luona!"
+
+## 2. Samuel 23:16
+
+Niin kolme urhoollista miestä murtautui filistealaisten leirin läpi,  
+ja ammensi vettä Betlehemin kaivosta, joka oli portin luona,  
+ja otti sen ja toi sen Daavidille.  
+Mutta hän ei suostunut juomaan sitä, vaan kaatoi sen uhrina Herralle;
+
+## 2. Samuel 23:17
+
+Ja hän sanoi,  
+"Olkoon se minusta kaukana, Herra, tehdä tämä!  
+Saisinko minä juoda niiden miesten verta, jotka riskeerasivat henkensä?"  
+Niin hän ei suostunut juomaan sitä.  
+Nämä teot tekivät ne kolme urhoollista miestä.
+
+---
+
+## 2. Samuel 23:18
+
+Abisai, Joabin veli, Serujan poika,  
+oli kolmenkymmenen päällikkö.  
+Ja hän heilutti keihästään kolmesataa vastaan ja tappoi heidät,  
+ja hänellä oli nimi kuten kolmella.
+
+## 2. Samuel 23:19
+
+Hän oli kolmenkymmenen kunnioitetuin,  
+joten hänestä tuli heidän komentajansa;  
+mutta hän ei yltänyt kolmeen.
+
+## 2. Samuel 23:20
+
+Sitten Benaja, Joojadan poika,  
+urhea soturi Kabseelista,  
+joka oli tehnyt suuria tekoja,  
+tappoi kaksi Mooabin Arielin poikaa.  
+Hän meni myös alas ja tappoi leijonan kuopan keskellä lumisena päivänä.
+
+## 2. Samuel 23:21
+
+Ja hän tappoi merkittävän egyptiläisen.  
+Nyt egyptiläisellä oli keihäs kädessään,  
+mutta hän meni alas hänen luokseen sauvalla,  
+ja tempaisi keihään egyptiläisen kädestä,  
+ja tappoi hänet hänen omalla keihäällään.
+
+## 2. Samuel 23:22
+
+Nämä teot Benaja, Joojadan poika, teki,  
+ja hänellä oli nimi kuten kolmella urhoollisella miehellä.
+
+## 2. Samuel 23:23
+
+Hän oli kunnioitettu kolmenkymmenen joukossa,  
+mutta hän ei yltänyt kolmeen.  
+Ja Daavid asetti hänet henkivartijansa johtajaksi.
+
+---
+
+## 2. Samuel 23:24
+
+Asael, Joabin veli, oli kolmenkymmenen joukossa;  
+Elhanan, Doodon poika Betlehemistä,
+
+## 2. Samuel 23:25
+
+Samma, Harodilainen;  
+Elika, toinen Harodilainen;
+
+## 2. Samuel 23:26
+
+Helez, Paltalainen;  
+Ira, Ikkeshin poika, kotoisin Tekoasta,
+
+## 2. Samuel 23:27
+
+Abieser, Anatotilainen;  
+Mebunnai, Husalainen;
+
+## 2. Samuel 23:28
+
+Salmon, Ahohilainen;  
+Maharai, Netofalainen;
+
+## 2. Samuel 23:29
+
+Heleb, Baanan poika Netofasta;  
+Ittai, Ribain poika Benjaminilaisista, Gibeasta,
+
+## 2. Samuel 23:30
+
+Benaja, Piratonilainen;  
+Hiddai Gaasin puroilta,
+
+## 2. Samuel 23:31
+
+Abialbon, Arbatilainen;  
+Asmavet, Barhumilainen,
+
+## 2. Samuel 23:32
+
+Eliahba, Saalbonilainen;  
+Jasenin pojat, mukaan lukien Jonatan,
+
+## 2. Samuel 23:33
+
+Samma, Hararilainen;  
+Ahiam, Saararin poika Ararista,
+
+## 2. Samuel 23:34
+
+Elifelet, Ahasbain poika, Maakatilainen;  
+Eliam, Ahitofelin poika Gilosta,
+
+## 2. Samuel 23:35
+
+Hesro, Karmelilainen;  
+Paarai, Arbilainen;
+
+## 2. Samuel 23:36
+
+Igal, Naatanin poika, kotoisin Soobasta;  
+Bani, Gaadilainen,
+
+## 2. Samuel 23:37
+
+Selek, Ammonilainen;  
+Naharai, Beerotilainen, Joabin, Serujan pojan, aseenkantaja,
+
+## 2. Samuel 23:38
+
+Ira, Jitriiläinen;  
+Gareb, toinen Jitriiläinen,
+
+## 2. Samuel 23:39
+
+Uria, heettiläinen;  
+kolmekymmentäseitsemän yhteensä.

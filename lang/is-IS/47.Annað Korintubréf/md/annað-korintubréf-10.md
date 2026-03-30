@@ -1,0 +1,73 @@
+# 2. Korintubréf Kafli 10
+
+## 2. Korintubréf 10:1
+
+Ég, Páll, bið ykkur með hógværð og mildi Krists — ég sem er hógvær þegar ég er hjá ykkur, en djarfur þegar ég er fjarri!
+
+## 2. Korintubréf 10:2
+
+Ég vona að þegar ég er hjá ykkur, þurfi ég ekki að vera eins djarfur og ég ætla að vera gagnvart sumum sem halda að við lifum eftir stöðlum þessa heims.
+
+## 2. Korintubréf 10:3
+
+Því að þó við lifum í heiminum, þá berjumst við ekki eins og heimurinn gerir,
+
+## 2. Korintubréf 10:4
+
+þar sem vopnin sem við notum í stríði okkar eru ekki af þessum heimi, heldur hafa guðlega krafta til að brjóta niður vígi.
+
+## 2. Korintubréf 10:5
+
+Við brjótum niður röksemdir og hverja uppblásna hugsun sem stendur gegn þekkingu Guðs, og við tökum hverja hugsun til fanga til að gera hana hlýðna Kristi,
+
+## 2. Korintubréf 10:6
+
+og við erum tilbúin að refsa hverri óhlýðni, þegar hlýðni ykkar er fullkomin.
+
+## 2. Korintubréf 10:7
+
+Þið gerið dóm á grundvelli útlits. Ef einhver er viss um að hann tilheyri Kristi, ætti hann að íhuga að við tilheyrum Kristi alveg eins mikið og hann.
+
+## 2. Korintubréf 10:8
+
+Jafnvel þó ég hrósi mér nokkuð frjálslega af valdi sem Drottinn gaf okkur til að byggja ykkur upp frekar en að rífa ykkur niður, mun ég ekki skammast mín fyrir það,
+
+## 2. Korintubréf 10:9
+
+svo að ég virðist ekki vera að reyna að hræða ykkur með bréfum mínum.
+
+## 2. Korintubréf 10:10
+
+Því sumir segja: „Bréf hans eru þung og kraftmikil, en í eigin persónu skortir hann nærveru og mál hans er lítils metið.“
+
+## 2. Korintubréf 10:11
+
+Slíkt fólk ætti að skilja að það sem við erum í bréfum okkar þegar við erum fjarri, munum við vera í verkum okkar þegar við erum til staðar.
+
+## 2. Korintubréf 10:12
+
+Við þorum ekki að flokka eða bera okkur saman við suma sem mæla með sjálfum sér. Þegar þeir mæla sig sjálfir eftir eigin stöðlum og bera sig saman við sjálfa sig, skortir þá visku.
+
+## 2. Korintubréf 10:13
+
+Við, hins vegar, munum ekki hrósa okkur umfram það sem er rétt, við munum takmarka hrós okkar við það sem Guð sjálfur hefur úthlutað okkur: og það felur einnig í sér ykkur.
+
+## 2. Korintubréf 10:14
+
+Við erum ekki að fara yfir mörk okkar í hrósi okkar, eins og væri ef við hefðum ekki komið til ykkar, því við náðum til ykkar með fagnaðarerindi Krists.
+
+## 2. Korintubréf 10:15
+
+Við förum heldur ekki yfir mörk okkar með því að hrósa okkur af verkum sem aðrir hafa unnið. Von okkar er sú að þegar trú ykkar heldur áfram að vaxa, muni starfssvið okkar meðal ykkar stækka mjög,
+
+## 2. Korintubréf 10:16
+
+svo að við getum prédikað fagnaðarerindið á svæðum handan ykkar. Því við viljum ekki hrósa okkur af verkum sem þegar hafa verið unnin á annars manns svæði.
+
+## 2. Korintubréf 10:17
+
+En, „Sá sem hrósar sér, hrósi sér í Drottni.“
+
+## 2. Korintubréf 10:18
+
+Því það er ekki sá sem hrósar sjálfum sér sem er samþykktur, heldur sá sem Drottinn hrósar.

@@ -1,0 +1,118 @@
+# Jeremía, kafli 49
+
+## Jeremía 49:1
+Um Ammóníta: Svo segir Drottinn: „Hefur Ísrael enga syni? Hefur hann engan erfingja? Hvers vegna hefur Malkam tekið sér eign í Gað, og fólk hans sest að í borgum þess?
+
+## Jeremía 49:2
+Þess vegna sjá, dagar koma,“ segir Drottinn, „þegar ég mun hljóma bardagakall gegn Rabbah Ammóníta; hún mun verða að auðn og borgir hennar verða brenndar. Þá mun Ísrael taka eign þeirra sem rændu henni,“ segir Drottinn.
+
+## Jeremía 49:3
+„Kveinið, Hesbon, því að Ai er eytt! Kallið, þér íbúar í Rabbah! Klæðist hærusekkjum og syrgið; gangið um innan múranna, því að Malkam mun fara í útlegð, ásamt prestum sínum og leiðtogum.
+
+## Jeremía 49:4
+Hvers vegna hrósar þú af dölum þínum, dalnum þínum svo frjósömum? Afturhaldandi dóttir Ammón, þú treystir fjársjóðum þínum og segir: ‘Hver mun ráðast á mig?’
+
+## Jeremía 49:5
+Sjá, ég mun koma ógn yfir þig,“ segir Drottinn, Guð hersveitanna, „frá öllum þeim sem umhverfis þig eru; hver og einn yðar mun rekin burt, og enginn mun safna flóttamönnum.
+
+## Jeremía 49:6
+„En eftir það mun ég endurreisa velmegun Ammóníta,“ segir Drottinn.
+
+## Jeremía 49:7
+Um Edóm: Svo segir Drottinn hersveitanna: „Er ekki lengur viska í Teman? Hefur ráðlegging horfið frá hyggnum mönnum? Hefur viska þeirra hrörnað?
+
+## Jeremía 49:8
+Flýið, snúið aftur, búið í djúpinu, þér íbúar Dedan, því að ég mun koma hörmungum yfir Esaú á þeim tíma þegar ég refsa honum.
+
+## Jeremía 49:9
+Ef vínberjaskerar kæmu til þín, myndu þeir ekki skilja eftir nokkur afgangsber? Ef þjófar kæmu á nóttunni, myndu þeir ekki stela aðeins því sem þeir vildu?
+
+## Jeremía 49:10
+En ég mun afklæða Esaú; ég mun afhjúpa felustaði hans, svo að hann getur ekki falið sig. Afkomendur hans og bræður eru eyðilagðir, og hann er ekki lengur til.
+
+## Jeremía 49:11
+Skildu eftir munaðarleysingja þína; ég mun halda þeim á lífi. Ekkjur þínar geta einnig treyst á mig.“
+
+## Jeremía 49:12
+Því að svo segir Drottinn: „Ef þeir sem ekki voru dæmdir til að drekka bikarinn verða að drekka hann, hvers vegna ættir þú að fara órefsaður? Þú munt ekki fara órefsaður, heldur verður að drekka hann.
+
+## Jeremía 49:13
+Ég hef svarið við sjálfan mig,“ segir Drottinn, „að Bosra mun verða að rúst, skömm, auðn og bölvun; og allar borgir hennar munu verða í rústum að eilífu.“
+
+## Jeremía 49:14
+Ég hef heyrt skilaboð frá Drottni; sendiboði var sendur til þjóðanna til að segja: „Safnið yður saman og komið gegn henni! Rísið upp til bardaga!“
+
+## Jeremía 49:15
+„Því sjá, ég hef gert þig lítilsvirta meðal þjóðanna, fyrirlitna af fólki.
+
+## Jeremía 49:16
+Ógnin sem þú vekur og hroki hjarta þíns hefur blekkt þig, þú sem býrð í klettaskorum, sem tekur sér bústað á hæðum hæðarinnar. Þótt þú byggir hreiður þitt eins hátt og örninn, þá mun ég færa þig niður þaðan,“ segir Drottinn.
+
+## Jeremía 49:17
+„Edom mun verða staður ótta; allir sem fara framhjá munu verða agndofa og hæðast að öllum sárum hennar.
+
+## Jeremía 49:18
+Eins og Sódóma og Gómorra og nágrannaborgir þeirra voru umturnaðar,“ segir Drottinn, „svo mun enginn búa þar; enginn maður mun setjast þar að.
+
+## Jeremía 49:19
+„Eins og ljón sem kemur upp úr þyrnigerði Jórdanar til gróskumikils beitilands, mun ég reka Edóm úr landi sínu á augabragði. Hver er sá útvaldi sem ég mun skipa til þessa? Hver er eins og ég og hver getur stefnt mér fyrir dóm? Og hvaða hirðir getur staðið gegn mér?“
+
+## Jeremía 49:20
+Þess vegna, heyrið hvað Drottinn hefur áformað gegn Edóm, hvað hann hefur ætlað gegn þeim sem búa í Teman: ungir úr hjörðinni munu verða dregnir burt; beitiland þeirra mun verða skelfingu lostið vegna örlaga þeirra.
+
+## Jeremía 49:21
+Við hljóðið af falli þeirra mun jörðin skjálfa; hróp þeirra mun bergmála til Rauðahafsins.
+
+## Jeremía 49:22
+Sjá, örn mun svífa og steypa sér niður, breiða út vængi sína yfir Bosra. Á þeim degi munu hjörtu stríðsmanna Edóms verða eins og hjarta konu í barnsnauð.
+
+## Jeremía 49:23
+Um Damaskus: „Hamat og Arpad eru skelfingu lostnar, því að þær hafa heyrt ógnvekjandi tíðindi. Þær eru huglausar, órólegar eins og ókyrrt haf.
+
+## Jeremía 49:24
+Damaskus hefur orðið máttvana; hún hefur snúið sér til að flýja og skelfing hefur gripið hana; angist og sársauki hafa gripið hana, sársauki eins og hjá konu í barnsnauð.
+
+## Jeremía 49:25
+Hvernig hefur borgin sem er fræg ekki verið yfirgefin, borgin sem ég hef yndi af?
+
+## Jeremía 49:26
+Vissulega munu ungu menn hennar falla á strætum hennar; allir hermenn hennar munu verða þöglir á þeim degi,“ segir Drottinn hersveitanna.
+
+## Jeremía 49:27
+„Ég mun kveikja eld í múrum Damaskus; hann mun eyða virki Ben-Hadad.“
+
+## Jeremía 49:28
+Um Kedar og konungsríki Hazar, sem Nebúkadnesar konungur í Babýlon réðst á: Svo segir Drottinn: „Rísið upp og ráðist á Kedar og eyðið fólki austursins.
+
+## Jeremía 49:29
+Tjöld þeirra og hjarðir þeirra munu verða tekin; skýli þeirra munu verða flutt burt með öllum eigum þeirra og úlföldum. Fólk mun hrópa til þeirra, ‘Ógn allt um kring!’
+
+## Jeremía 49:30
+„Flýið fljótt burt! Dveljið í djúpum hellum, þér íbúar Hazar,“ segir Drottinn. „Nebúkadnesar konungur í Babýlon hefur lagt á ráð gegn yður; hann hefur gert áætlun gegn yður.
+
+## Jeremía 49:31
+„Rísið upp og ráðist á þjóð sem er í ró, sem býr í öryggi,“ segir Drottinn, „þjóð sem hefur hvorki hlið né slár; fólk hennar býr langt frá hættu.
+
+## Jeremía 49:32
+Úlfaldar þeirra munu verða herfang, og stórar hjarðir þeirra verða stríðsgripir. Ég mun dreifa þeim sem klippa hár sitt í hornum til allra vinda og koma hörmungum yfir þá frá öllum hliðum,“ segir Drottinn.
+
+## Jeremía 49:33
+„Hazar mun verða bækistöð sjakala, auðn að eilífu. Enginn mun búa þar; enginn maður mun setjast þar að.“
+
+## Jeremía 49:34
+Orð Drottins sem kom til Jeremía spámanns um Elam, í upphafi valdatíðar Sedekía konungs í Júda:
+
+## Jeremía 49:35
+Svo segir Drottinn hersveitanna: „Sjá, ég mun brjóta boga Elams, stoð máttar þeirra.
+
+## Jeremía 49:36
+Ég mun koma með fjóra vinda gegn Elam frá öllum áttum; ég mun dreifa þeim til allra vinda, og það mun ekki vera þjóð þar sem útlagar Elams fara ekki.
+
+## Jeremía 49:37
+Ég mun sundra Elam fyrir óvinum þeirra, fyrir þeim sem sækjast eftir lífi þeirra; ég mun koma hörmungum yfir þá, jafnvel mínum heiftarlega reiði,“ segir Drottinn. „Ég mun elta þá með sverði þar til ég hef gert enda á þeim.
+
+## Jeremía 49:38
+Ég mun setja hásæti mitt í Elam og eyða konungi hennar og embættismönnum,“ segir Drottinn.
+
+## Jeremía 49:39
+„En ég mun endurreisa velmegun Elams á síðustu dögum,“ segir Drottinn.

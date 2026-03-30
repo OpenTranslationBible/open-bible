@@ -1,0 +1,161 @@
+# Jeremia Luku 31
+
+## Jeremia 31:1
+
+"Niinä päivinä," sanoo Herra, "minä olen kaikkien Israelin sukujen Jumala, ja he ovat minun kansani."
+
+## Jeremia 31:2
+
+Näin sanoo Herra: "Miekasta selvinneet kansa löysi armon erämaassa; minä tulin antamaan levon Israelille."
+
+## Jeremia 31:3
+
+Herra ilmestyi meille kauan sitten, sanoen: "Minä olen rakastanut sinua iankaikkisella rakkaudella; siksi olen vetänyt sinua puoleeni uskollisella ystävällisyydellä."
+
+## Jeremia 31:4
+
+"Minä rakennan sinut jälleen, ja sinä, Israelin neitsyt, tulet jälleen rakennetuksi. Sinä otat jälleen tamburiinisi ja lähdet tanssimaan iloisten kanssa."
+
+## Jeremia 31:5
+
+"Vielä kerran sinä istutat viinitarhoja Samarian kukkuloille; viljelijät istuttavat ne ja nauttivat hedelmistä."
+
+## Jeremia 31:6
+
+"Sillä tulee päivä, jolloin vartijat huutavat Efraimin kukkuloilla: 'Nouskaa, menkäämme Siioniin, Herran, meidän Jumalamme, luo.'"
+
+## Jeremia 31:7
+
+Näin sanoo Herra: "Laulakaa ilosta Jaakobille; huutakaa kansakuntien ensimmäiselle. Julistakaa, antakaa kiitosta ja sanokaa: 'Herra, pelasta kansasi, Israelin jäännös.'"
+
+## Jeremia 31:8
+
+"Katso, minä tuon heidät pohjoisesta maasta ja kokoan heidät maan ääriin. Heidän joukossaan on sokeita ja rampoja, raskaana olevia naisia ja synnyttämässä olevia; suuri joukko palaa."
+
+## Jeremia 31:9
+
+"He tulevat itkien; rukoilemalla minä tuon heidät. Minä johdatan heidät vesivirtojen ääreen suoralle tielle, jolla he eivät kompastu, sillä minä olen Israelin isä, ja Efraim on esikoiseni."
+
+## Jeremia 31:10
+
+"Kuulkaa Herran sana, te kansakunnat; julistakaa se kaukaisilla rannikoilla: 'Hän, joka hajotti Israelin, kokoaa heidät ja valvoo laumaansa kuin paimen.'"
+
+## Jeremia 31:11
+
+"Sillä Herra lunastaa Jaakobin ja vapauttaa heidät vahvempien käsistä."
+
+## Jeremia 31:12
+
+"He tulevat ja huutavat ilosta Siionin korkeuksilla; he loistavat Herran runsauden äärellä—viljan, uuden viinin ja öljyn, sekä karjan ja laumojen nuorten äärellä. Heidän elämänsä on kuin hyvin kasteltu puutarha, eivätkä he enää koskaan näänny."
+
+## Jeremia 31:13
+
+"Silloin nuoret naiset iloitsevat tanssissa, ja nuoret miehet ja vanhatkin. Minä muutan heidän surunsa iloksi; minä lohdutan heitä ja annan heille iloa surun sijaan."
+
+## Jeremia 31:14
+
+"Minä annan papeille yltäkylläisyyttä, ja kansani täyttyy minun hyvyydestäni," sanoo Herra.
+
+## Jeremia 31:15
+
+Näin sanoo Herra: "Ääni kuuluu Ramassa, itkua ja suurta valitusta, Raakel itkee lapsiaan eikä suostu lohdutettavaksi, koska heitä ei enää ole."
+
+## Jeremia 31:16
+
+Näin sanoo Herra: "Pidätä äänesi itkusta ja silmäsi kyynelistä, sillä työsi saa palkkansa," sanoo Herra. "He palaavat vihollisen maasta."
+
+## Jeremia 31:17
+
+"Joten on toivoa tulevaisuudellesi," sanoo Herra. "Sinun lapsesi palaavat omaan maahansa."
+
+## Jeremia 31:18
+
+"Minä olen varmasti kuullut Efraimin valittavan, 'Sinä kuritit minua kuin tottelematonta vasikkaa, ja minut on ojennettu. Palauta minut, ja minä palaan, sillä sinä olet Herra, minun Jumalani.'"
+
+## Jeremia 31:19
+
+"Kun olin harhaillut, kaduin; kun minua oli opetettu, löin reittäni. Olin häpeissäni ja nöyryytetty, koska kannoin nuoruuteni häpeää."
+
+## Jeremia 31:20
+
+"Eikö Efraim ole minun rakas poikani, lapsi, josta iloitsen? Vaikka usein puhun häntä vastaan, muistan hänet silti. Siksi sydämeni kaipaa häntä; minä varmasti armahdan häntä," sanoo Herra.
+
+## Jeremia 31:21
+
+"Aseta tienviittoja; pystytä opasteita. Suuntaa mielesi valtatiehen, siihen tiehen, jota kuljit. Palaa, Israelin neitsyt, palaa kaupunkeihisi."
+
+## Jeremia 31:22
+
+"Kuinka kauan harhailet, uskoton tytär Israel? Sillä Herra on luonut uuden asian maan päälle—nainen suojelee miestä."
+
+## Jeremia 31:23
+
+Näin sanoo Herra Sebaot, Israelin Jumala: "Kun minä palautan heidän kohtalonsa, Juudan maan ja sen kaupunkien kansa käyttää jälleen näitä sanoja: 'Herra siunatkoon sinua, oikeuden paikka, pyhä kukkula!'"
+
+## Jeremia 31:24
+
+"Juudan asukkaat ja kaikki sen kaupungit asuvat yhdessä—viljelijät ja ne, jotka liikkuvat laumojensa kanssa."
+
+## Jeremia 31:25
+
+"Sillä minä virkistän väsyneet ja tyydytän nääntyneet."
+
+## Jeremia 31:26
+
+Tässä vaiheessa heräsin ja katselin ympärilleni, ja uneni oli ollut miellyttävä minulle.
+
+## Jeremia 31:27
+
+"Katso, päivät tulevat," sanoo Herra, "kun minä kylvän Israelin huoneen ja Juudan huoneen ihmisten ja eläinten siemenellä."
+
+## Jeremia 31:28
+
+"Samoin kuin valvoin heitä repiäkseni ja hajottaakseni, kaataakseni, tuhotakseni ja tuottaakseni onnettomuuden, niin minä valvon heitä rakentaakseni ja istuttaakseni," sanoo Herra.
+
+## Jeremia 31:29
+
+"Niihin päiviin ei enää sanota: 'Vanhemmat ovat syöneet happamia rypäleitä, ja lasten hampaat ovat kipeät.'
+
+## Jeremia 31:30
+
+"Sen sijaan jokainen kuolee oman syntinsä tähden; joka syö happamia rypäleitä—hänen omat hampaansa ovat kipeät."
+
+## Jeremia 31:31
+
+"Katso, päivät tulevat," sanoo Herra, "kun minä teen uuden liiton Israelin huoneen ja Juudan huoneen kanssa."
+
+## Jeremia 31:32
+
+"Se ei muistuta liittoa, jonka tein heidän esi-isiensä kanssa, kun tartuin heidän käteensä johdattaakseni heidät pois Egyptistä, koska he rikkoivat minun liittoni, vaikka olin kuin aviomies heille," sanoo Herra.
+
+## Jeremia 31:33
+
+"Sillä tämä on se liitto, jonka teen Israelin huoneen kanssa noiden päivien jälkeen," sanoo Herra: "Minä panen lakini heidän mieleensä ja kirjoitan sen heidän sydämiinsä. Minä olen heidän Jumalansa, ja he ovat minun kansani."
+
+## Jeremia 31:34
+
+"Enää ei kukaan opeta lähimmäistään eikä sano veljelleen, 'Tunne Herra,' sillä he kaikki tuntevat minut, pienimmästä suurimpaan," sanoo Herra. "Sillä minä annan anteeksi heidän pahuuteensa enkä enää muista heidän syntejään."
+
+## Jeremia 31:35
+
+Näin sanoo Herra, hän, joka määrää auringon paistamaan päivällä, joka käskee kuun ja tähtien loistaa yöllä, joka nostattaa meren niin, että sen aallot pauhaavat—Herra Sebaot on hänen nimensä:
+
+## Jeremia 31:36
+
+"Vain jos nämä säädökset katoavat silmistäni," sanoo Herra, "lakkaavat Israelin jälkeläiset koskaan olemasta kansa minun edessäni."
+
+## Jeremia 31:37
+
+Näin sanoo Herra: "Vain jos taivaat ylhäällä voidaan mitata ja maan perustukset alhaalla tutkitaan, hylkään kaikki Israelin jälkeläiset heidän tekonsa tähden," sanoo Herra.
+
+## Jeremia 31:38
+
+"Katso, päivät tulevat," sanoo Herra, "kun kaupunki rakennetaan Herralle Hananelin tornista Kulmaporttiin."
+
+## Jeremia 31:39
+
+"Mittanuora kulkee suoraan Garebin kukkulalle ja kääntyy sitten Goahiin."
+
+## Jeremia 31:40
+
+"Koko laakso, jossa ruumiit ja tuhkat heitetään, ja kaikki terassit Kidronin laaksoon itään asti Hevosportin kulmaan, on oleva pyhä Herralle. Kaupunkia ei enää koskaan revitä eikä tuhota."

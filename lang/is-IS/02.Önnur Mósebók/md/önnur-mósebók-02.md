@@ -1,0 +1,101 @@
+# 2. Mósebók Kafli 2
+
+## 2. Mósebók 2:1
+
+Nú fór maður af ættkvísl Leví og kvæntist levítakonu.
+
+## 2. Mósebók 2:2
+
+Konan varð þunguð og ól son; þegar hún sá að hann var fagurt barn, faldi hún hann í þrjá mánuði.
+
+## 2. Mósebók 2:3
+
+Þegar hún gat ekki lengur falið hann, tók hún papýrus körfu, þakti hana með tjöru og bik, setti barnið í hana og lagði hana í sefið við bakka Nílar.
+
+## 2. Mósebók 2:4
+
+Systir hans stóð álengdar til að sjá hvað myndi koma fyrir hann.
+
+## 2. Mósebók 2:5
+
+Dóttir Faraós kom niður til að baða sig í Níl, og þjónustustúlkur hennar gengu meðfram ánni. Hún sá körfuna í sefinu og sendi ambátt sína til að sækja hana.
+
+## 2. Mósebók 2:6
+
+Þegar hún opnaði hana, sá hún barnið gráta og kenndi í brjósti um hann og sagði: „Þetta er eitt af hebresku börnunum.“
+
+## 2. Mósebók 2:7
+
+Þá sagði systir hans við dóttur Faraós: „Á ég að fara og kalla hebreska konu sem er með barn á brjósti, til að annast barnið fyrir þig?“
+
+## 2. Mósebók 2:8
+
+„Farðu,“ svaraði dóttir Faraós. Svo fór stúlkan og kallaði móður barnsins.
+
+## 2. Mósebók 2:9
+
+Dóttir Faraós sagði við hana: „Taktu þetta barn og annastu það fyrir mig, og ég mun greiða þér.“ Svo tók konan barnið og annast það.
+
+## 2. Mósebók 2:10
+
+Þegar barnið óx, færði hún það dóttur Faraós, og hann varð sonur hennar. Hún nefndi hann Móse, og sagði: „Ég dró hann upp úr vatninu.“
+
+## 2. Mósebók 2:11
+
+Á þeim dögum, þegar Móse var orðinn fullorðinn, fór hann út til fólks síns og sá erfiði þeirra, og hann sá Egypta berja Hebrea, einn af sínum eigin.
+
+## 2. Mósebók 2:12
+
+Hann leit í kringum sig og, þegar hann sá engan, sló hann Egyptann og faldi hann í sandinum.
+
+## 2. Mósebók 2:13
+
+Daginn eftir fór hann út og sá tvo Hebrea í deilu. Hann spurði þann sem hafði rangt fyrir sér: „Hvers vegna slærðu félaga þinn?“
+
+## 2. Mósebók 2:14
+
+Maðurinn svaraði: „Hver gerði þig að höfðingja og dómara yfir okkur? Ætlar þú að drepa mig eins og þú drapst Egyptann?“ Þá varð Móse hræddur og hugsaði: „Vissulega er málið orðið kunnugt.“
+
+## 2. Mósebók 2:15
+
+Þegar Faraó heyrði þetta, reyndi hann að drepa Móse, en Móse flúði frá Faraó og settist að í landi Midían, þar sem hann settist við brunn.
+
+## 2. Mósebók 2:16
+
+Prestur Midían átti sjö dætur, sem komu til að draga vatn og fylla trogin til að vökva hjörð föður síns.
+
+## 2. Mósebók 2:17
+
+Nokkrir hirðar komu og ráku þær burt, en Móse stóð upp, hjálpaði þeim og vökvaði hjörð þeirra.
+
+## 2. Mósebók 2:18
+
+Þegar stúlkurnar komu aftur til föður síns Reúel, spurði hann: „Hvers vegna eruð þið komnar svona snemma í dag?“
+
+## 2. Mósebók 2:19
+
+Þær svöruðu: „Egypti bjargaði okkur frá hirðunum; hann dró jafnvel vatn fyrir okkur og vökvaði hjörðina.“
+
+## 2. Mósebók 2:20
+
+„Hvar er hann?“ spurði Reúel dætur sínar. „Hvers vegna skildið þið hann eftir? Bjóðið honum að koma og snæða með okkur.“
+
+## 2. Mósebók 2:21
+
+Móse samþykkti að vera hjá manninum, sem gaf honum dóttur sína Sippóru fyrir konu.
+
+## 2. Mósebók 2:22
+
+Sippóra ól son, og Móse nefndi hann Gersóm, því hann sagði: „Ég er orðinn flakkari í framandi landi.“
+
+## 2. Mósebók 2:23
+
+Á þessum löngu tíma dó konungur Egyptalands. Ísraelsmenn stunduðu undir ánauð sinni og hrópuðu, og hróp þeirra um hjálp vegna þrælkunar sinnar náði til Guðs.
+
+## 2. Mósebók 2:24
+
+Guð heyrði stunu þeirra og minntist sáttmála síns við Abraham, Ísak og Jakob.
+
+## 2. Mósebók 2:25
+
+Guð leit til Ísraelsmanna og tók eftir þeim.

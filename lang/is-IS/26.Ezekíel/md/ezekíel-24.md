@@ -1,0 +1,141 @@
+# Esekíel Kafli 24
+
+## Esekíel 24:1
+
+Á níunda árinu, í tíunda mánuðinum, á tíunda degi, barst mér orð frá Drottni:
+
+## Esekíel 24:2
+
+„Mannssonur, skrifaðu niður nafn þessa dags, einmitt þessa dags, því konungur Babýlon hefur hafið umsátur sitt gegn Jerúsalem einmitt þennan dag.
+
+## Esekíel 24:3
+
+Segðu dæmisögu við þetta uppreisnarhús og segðu við þau: ‘Svo segir Drottinn Guð:
+
+> „Settu pottinn á eldinn, settu hann á,
+> og helltu vatni í hann.
+
+## Esekíel 24:4
+
+> Settu í hann kjötbitana,
+> hvern góðan bita—
+> lærið og öxlina.
+> Fylltu hann með bestu beinum;
+
+## Esekíel 24:5
+
+> veldu það besta úr hjörðinni.
+> Hlaðaðu við undir hann;
+> láttu hann sjóða vel,
+> og láttu beinin sjóða í honum.
+
+## Esekíel 24:6
+
+Því svo segir Drottinn Guð:
+
+> „Vei borginni sem úthellir blóði,
+> pottinum sem nú er skorinn,
+> hvers óhreinindi munu ekki hverfa!
+> Fjarlægðu kjötið bita fyrir bita,
+> án þess að velja það.
+
+## Esekíel 24:7
+
+> Því blóðið sem hún úthellti er enn hjá henni;
+> hún úthellti því á bert bjarg;
+> og hellti því ekki á jörðina
+> né huldi það með mold.
+
+## Esekíel 24:8
+
+> Til að vekja reiði mína og hefna mín,
+> hef ég sett blóð hennar á bert bjarg,
+> svo það verði ekki hulið.
+
+## Esekíel 24:9
+
+> Þess vegna segir Drottinn Guð:
+
+> „Vei borginni sem úthellir blóði!
+> Ég mun gera viðarbál hennar mikið.
+
+## Esekíel 24:10
+
+> Hlaðið á viðinn,
+> kveikið eldinn,
+> eldið kjötið vel,
+> blandið kryddunum,
+> og látið beinin brenna.
+
+## Esekíel 24:11
+
+> Settu svo tóma pottinn á glóðirnar
+> svo hann verði heitur og kopar hans glói,
+> svo óhreinindi hans bráðni
+> og óhreinindi hans verði eytt.
+
+## Esekíel 24:12
+
+> Hann hefur þreytt mig með viðleitni sinni;
+> þung óhreinindi hans hafa ekki verið fjarlægð,
+> ekki einu sinni með eldi.
+
+## Esekíel 24:13
+
+Óhreinindi þín er saurlifnaður. Vegna þess að ég reyndi að hreinsa þig, en þú vildir ekki hreinsast af óhreinindum þínum, munt þú ekki verða hrein aftur fyrr en reiði mín gegn þér er lokið.
+
+## Esekíel 24:14
+
+Ég, Drottinn, hef talað. Tíminn er kominn fyrir mig að bregðast við. Ég mun ekki halda aftur; ég mun ekki hafa meðaumkun, né mun ég draga úr. Þú munt vera dæmdur samkvæmt vegum þínum og verkum þínum, segir Drottinn Guð.’”
+
+## Esekíel 24:15
+
+Annað orð frá Drottni barst mér:
+
+## Esekíel 24:16
+
+„Mannssonur, sjá, ég er að taka frá þér gleði augna þinna með einu höggi; en þú skalt ekki syrgja né gráta, né skulu tár þín renna.
+
+## Esekíel 24:17
+
+Stynjaðu hljóðlega; syrgðu ekki hina dauðu. Haltu túrbaninum föstum og skóm þínum á fótum; hyljið ekki yfirvaraskegg þitt og skegg né etið brauð syrgjenda.“
+
+## Esekíel 24:18
+
+Svo ég talaði til fólksins um morguninn, og um kvöldið dó kona mín. Morguninn eftir gerði ég eins og mér var skipað.
+
+## Esekíel 24:19
+
+Þá spurðu fólkið mig: „Viltu ekki segja okkur hvað þetta þýðir fyrir okkur, það sem þú ert að gera?“
+
+## Esekíel 24:20
+
+Svo ég útskýrði fyrir þeim: „Orð frá Drottni barst mér:
+
+## Esekíel 24:21
+
+Segðu við Ísraels hús: ‘Svo segir Drottinn Guð: Ég er að vanhelga helgidóm minn—stolt styrks ykkar, gleði augna ykkar, þrá sálar ykkar. Synir og dætur sem þið skilið eftir munu falla fyrir sverði.
+
+## Esekíel 24:22
+
+Og þið munuð gera eins og ég hef gert. Þið munuð ekki hylja yfirvaraskegg ykkar og skegg né eta brauð syrgjenda.
+
+## Esekíel 24:23
+
+Þið munuð halda túrbanum á höfði ykkar og skóm á fótum ykkar. Þið munuð ekki syrgja né gráta en munuð visna vegna misgjörða ykkar og stynja meðal ykkar.
+
+## Esekíel 24:24
+
+Esekíel mun þjóna sem tákn fyrir ykkur; þið munuð gera eins og hann hefur gert. Þegar þetta gerist, munuð þið viðurkenna að ég er Drottinn Guð.’
+
+## Esekíel 24:25
+
+„En þú, mannssonur, á þeim degi sem ég tek frá þeim vígi þeirra, gleði dýrðar þeirra, gleði augna þeirra, hjartans þrá, og syni þeirra og dætur líka—
+
+## Esekíel 24:26
+
+á þeim degi mun flóttamaður koma til þín til að tilkynna fréttirnar.
+
+## Esekíel 24:27
+
+Á þeim degi mun munnur þinn opnast fyrir þeim sem sleppur, og þú munt tala og ekki lengur vera þögull. Þannig munt þú vera tákn fyrir þá, og þeir munu vita að ég er Drottinn.“

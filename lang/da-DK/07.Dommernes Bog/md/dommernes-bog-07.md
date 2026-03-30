@@ -1,0 +1,107 @@
+# Dommerbogen Kapitel 7
+
+## Dommerbogen 7:1
+
+Tidligt om morgenen slog Jerubba'al (det vil sige Gideon) og alle de folk, der var med ham, lejr ved Harod-kilden. Midjans lejr lå nord for dem, ved Moreh-højen i dalen.
+
+## Dommerbogen 7:2
+
+Herren sagde til Gideon: "Du har for mange folk med dig til, at jeg kan give Midjan i deres hænder. Israel kunne prale imod mig og sige: 'Min egen styrke har frelst mig.'
+
+## Dommerbogen 7:3
+
+Så proklamér nu for folket: 'Hvem der er bange og skælver, lad ham vende tilbage og forlade Gileads bjerg.'"
+
+Så vendte toogtyve tusinde af folket tilbage, men ti tusinde blev tilbage.
+
+## Dommerbogen 7:4
+
+Herren sagde til Gideon: "Folket er stadig for mange. Tag dem ned til vandet, og jeg vil teste dem for dig der. Den, jeg siger skal gå med dig, han skal gå; men den, jeg siger ikke skal gå med dig, han skal ikke gå."
+
+## Dommerbogen 7:5
+
+Så førte Gideon folket ned til vandet. Herren sagde til ham: "Adskil dem, der lapper vandet med deres tunger, som en hund lapper, fra dem, der knæler ned for at drikke."
+
+## Dommerbogen 7:6
+
+Antallet af dem, der lappede, idet de førte hånden til munden, var tre hundrede mænd; men alle de andre knælede ned for at drikke vand.
+
+## Dommerbogen 7:7
+
+Herren sagde til Gideon: "Med de tre hundrede mænd, der lappede, vil jeg frelse dig og give midjanitterne i dine hænder. Lad alle de andre gå tilbage til deres hjem."
+
+## Dommerbogen 7:8
+
+Så tog de tre hundrede mænd de andres forsyninger og trompeter. Gideon sendte alle de andre israelitter til deres telte, men beholdt de tre hundrede mænd. Midjans lejr lå under ham i dalen.
+
+---
+
+## Dommerbogen 7:9
+
+Den nat sagde Herren til Gideon: "Stå op, gå ned mod lejren, for jeg har givet den i dine hænder.
+
+## Dommerbogen 7:10
+
+Hvis du føler dig tøvende med at angribe, gå ned til lejren med din tjener Pura
+
+## Dommerbogen 7:11
+
+og lyt til, hvad de siger. Derefter vil du blive opmuntret til at angribe lejren." Så gik han ned med sin tjener Pura til lejrens forposter.
+
+## Dommerbogen 7:12
+
+Midjanitterne, amalekitterne og alle østens folk lå i dalen, talrige som græshopper; deres kameler var uden tal, talrige som sandet på havets bred.
+
+## Dommerbogen 7:13
+
+Da Gideon ankom, var en mand i færd med at fortælle en drøm til sin ven. Han sagde: "Jeg havde en drøm: et bygbrød kom tumlende ind i Midjans lejr. Det ramte teltet med sådan kraft, at teltet væltede og faldt sammen."
+
+## Dommerbogen 7:14
+
+Hans ven svarede: "Dette kan ikke være andet end sværdet af Gideon, Joashs søn, israelitten. Gud har givet Midjan og hele lejren i hans hænder."
+
+---
+
+## Dommerbogen 7:15
+
+Da Gideon hørte drømmen og dens tolkning, bøjede han sig i tilbedelse. Han vendte tilbage til Israels lejr og råbte: "Stå op! Herren har givet Midjans lejr i jeres hænder."
+
+## Dommerbogen 7:16
+
+Han delte de tre hundrede mænd i tre grupper og gav trompeter og tomme krukker i hænderne på dem alle, med fakler inde i krukkerne.
+
+## Dommerbogen 7:17
+
+Han sagde til dem: "Se på mig og følg mit eksempel. Når jeg når udkanten af lejren, gør præcis som jeg gør.
+
+## Dommerbogen 7:18
+
+Når jeg og alle, der er med mig, blæser i vores trompeter, så blæs også I i jeres rundt om lejren og råb: 'For Herren og for Gideon!'"
+
+## Dommerbogen 7:19
+
+Gideon og de hundrede mænd med ham nåede kanten af lejren i begyndelsen af den midterste vagt, lige efter at vagten var blevet sat. De blæste i deres trompeter og knuste krukkerne, de havde i hænderne.
+
+## Dommerbogen 7:20
+
+De tre grupper blæste i trompeterne og knuste krukkerne. De holdt faklerne i deres venstre hænder og trompeterne i deres højre hænder for at blæse, og de råbte: "Et sværd for Herren og for Gideon!"
+
+## Dommerbogen 7:21
+
+Hver mand stod på sin plads rundt om lejren, og alle midjanitterne løb, råbende mens de flygtede.
+
+## Dommerbogen 7:22
+
+Da de tre hundrede trompeter lød, satte Herren sværdet af den ene mod den anden i hele lejren. Hæren flygtede til Bet-Shitta mod Zererah, så langt som til grænsen af Abel-Mehola nær Tabbat.
+
+## Dommerbogen 7:23
+
+Mændene af Israel blev kaldt ud fra Naftali, Asher og hele Manasse, og de forfulgte midjanitterne.
+
+## Dommerbogen 7:24
+
+Gideon sendte budbringere gennem Efraims bjergland og sagde: "Kom ned mod midjanitterne og beslaglæg Jordans vande foran dem så langt som til Bet-Bara." Så blev alle mændene af Efraim kaldt ud, og de beslaglagde Jordans vande så langt som til Bet-Bara.
+
+## Dommerbogen 7:25
+
+De fangede de to ledere af Midjan, Oreb og Zeeb. De dræbte Oreb ved Orebs klippe og Zeeb ved Zeebs vinpresse. De forfulgte midjanitterne og bragte hovederne af Oreb og Zeeb til Gideon, som var ved Jordan.

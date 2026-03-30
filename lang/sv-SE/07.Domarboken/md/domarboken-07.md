@@ -1,0 +1,107 @@
+# Domarboken Kapitel 7
+
+## Domarboken 7:1
+
+Tidigt på morgonen slog Jerubbaal (det vill säga Gideon) och allt folket som var med honom läger vid källan Harod. Midjans läger låg norr om dem, vid Morehöjden i dalen.
+
+## Domarboken 7:2
+
+Herren sade till Gideon: "Du har för mycket folk med dig för att jag ska ge Midjan i deras händer. Israel skulle kunna berömma sig mot mig och säga: 'Min egen styrka har räddat mig.'
+
+## Domarboken 7:3
+
+Förkunna nu inför folket: 'Den som är rädd och darrar, låt honom vända tillbaka och lämna Gileads berg.'"
+
+Så återvände tjugotvåtusen av folket, men tiotusen stannade kvar.
+
+## Domarboken 7:4
+
+Herren sade till Gideon: "Folket är fortfarande för många. Ta dem ner till vattnet, och jag ska pröva dem åt dig där. Den som jag säger ska gå med dig, han ska gå; men den som jag säger inte ska gå med dig, han ska inte gå."
+
+## Domarboken 7:5
+
+Så Gideon tog folket ner till vattnet. Herren sade till honom: "Skilj dem som lapar vattnet med tungan, som en hund lapar, från dem som knäböjer för att dricka."
+
+## Domarboken 7:6
+
+Antalet av dem som lapade, genom att föra handen till munnen, var trehundra män; men alla de andra knäböjde för att dricka vatten.
+
+## Domarboken 7:7
+
+Herren sade till Gideon: "Med de trehundra män som lapade ska jag rädda dig och ge midjaniterna i dina händer. Låt alla de andra gå tillbaka till sina hem."
+
+## Domarboken 7:8
+
+Så tog de trehundra männen över de andras proviant och trumpeter. Gideon sände alla de andra israeliterna till deras tält men behöll de trehundra männen. Midjans läger låg nedanför honom i dalen.
+
+---
+
+## Domarboken 7:9
+
+Den natten sade Herren till Gideon: "Stå upp, gå ner mot lägret, för jag har gett det i dina händer.
+
+## Domarboken 7:10
+
+Om du känner dig tveksam att anfalla, gå ner till lägret med din tjänare Pura
+
+## Domarboken 7:11
+
+och lyssna på vad de säger. Därefter kommer du att bli uppmuntrad att anfalla lägret." Så han gick ner med sin tjänare Pura till utkanten av lägret.
+
+## Domarboken 7:12
+
+Midjaniterna, amalekiterna och alla österlänningar låg i dalen, lika talrika som gräshoppor; deras kameler var utan antal, lika talrika som sanden på havsstranden.
+
+## Domarboken 7:13
+
+När Gideon kom fram, berättade en man en dröm för sin vän. Han sade: "Jag hade en dröm: ett kornbröd rullade in i Midjans läger. Det träffade tältet med sådan kraft att tältet vändes om och kollapsade."
+
+## Domarboken 7:14
+
+Hans vän svarade: "Detta kan inte vara något annat än Joashs son Gideons svärd, israeliten. Gud har gett Midjan och hela lägret i hans händer."
+
+---
+
+## Domarboken 7:15
+
+När Gideon hörde drömmen och dess tolkning, böjde han sig ner i tillbedjan. Han återvände till Israels läger och ropade: "Stå upp! Herren har gett Midjans läger i era händer."
+
+## Domarboken 7:16
+
+Han delade de trehundra männen i tre grupper och satte trumpeter och tomma krukor i händerna på dem alla, med facklor inuti krukorna.
+
+## Domarboken 7:17
+
+Han sade till dem: "Se på mig och följ mitt exempel. När jag kommer till utkanten av lägret, gör precis som jag gör.
+
+## Domarboken 7:18
+
+När jag och alla som är med mig blåser i våra trumpeter, då ska ni också blåsa i era runt hela lägret och ropa: 'För Herren och för Gideon!'"
+
+## Domarboken 7:19
+
+Gideon och de hundra männen med honom nådde lägrets kant i början av den mellersta nattväkten, precis efter att vakten hade blivit postad. De blåste i sina trumpeter och krossade krukorna som de hade i sina händer.
+
+## Domarboken 7:20
+
+De tre grupperna blåste i trumpeterna och krossade krukorna. De höll facklorna i sina vänstra händer och trumpeterna i sina högra händer för att blåsa, och de ropade: "Ett svärd för Herren och för Gideon!"
+
+## Domarboken 7:21
+
+Varje man stod på sin plats runt lägret, och alla midjaniterna sprang, skrikande medan de flydde.
+
+## Domarboken 7:22
+
+När de trehundra trumpeterna ljöd, satte Herren den enes svärd mot den andre i hela lägret. Armén flydde till Bet-Shitta mot Serera, ända till gränsen av Abel-Mehola nära Tabbat.
+
+## Domarboken 7:23
+
+Israels män kallades ut från Naftali, Asher och hela Manasse, och de förföljde midjaniterna.
+
+## Domarboken 7:24
+
+Gideon sände budbärare genom Efraims bergsbygd och sade: "Kom ner mot midjaniterna och beslagta Jordans vatten före dem ända till Bet-Bara." Så alla Efraims män kallades ut, och de beslagtog Jordans vatten ända till Bet-Bara.
+
+## Domarboken 7:25
+
+De tillfångatog de två ledarna för Midjan, Oreb och Seeb. De dödade Oreb vid Orebs klippa och Seeb vid Seebs vinpress. De förföljde midjaniterna och förde Orebs och Seebs huvuden till Gideon, som var vid Jordan.

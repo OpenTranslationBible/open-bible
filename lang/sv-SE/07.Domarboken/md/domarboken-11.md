@@ -1,0 +1,165 @@
+# Domarboken Kapitel 11
+
+## Domarboken 11:1
+
+Jefta, gileaditen, var en tapper krigare, men han var son till en prostituerad. Gilead var hans far.
+
+## Domarboken 11:2
+
+Gileads hustru födde honom söner, och när de hade vuxit upp drev de bort Jefta och sade: "Du ska inte dela vår familjeegendom, för du är son till en annan kvinna."
+
+## Domarboken 11:3
+
+Så Jefta flydde från sina bröder och bodde i landet Tob, där en grupp värdelösa män samlades kring honom och följde honom.
+
+## Domarboken 11:4
+
+Efter en tid förde ammoniterna krig mot Israel.
+
+## Domarboken 11:5
+
+När ammoniterna kämpade mot Israel gick de äldste i Gilead för att hämta Jefta tillbaka från landet Tob.
+
+## Domarboken 11:6
+
+De närmade sig Jefta och sade: "Kom och led oss i strid mot ammoniterna."
+
+## Domarboken 11:7
+
+Jefta svarade de äldste i Gilead: "Var det inte ni som hatade mig och drev bort mig från min fars hus? Varför kommer ni till mig nu när ni är i nöd?"
+
+## Domarboken 11:8
+
+De äldste i Gilead sade till Jefta: "Av denna anledning har vi nu återvänt till dig, så att du kan gå med oss för att kämpa mot ammoniterna och bli vår ledare över alla invånare i Gilead."
+
+## Domarboken 11:9
+
+Jefta sade till dem: "Om ni tar mig tillbaka för att kämpa mot ammoniterna och Herren överlämnar dem till mig, ska jag då verkligen bli er ledare?"
+
+## Domarboken 11:10
+
+De äldste i Gilead svarade: "Herren är vittne mellan oss; vi ska göra som du har sagt."
+
+## Domarboken 11:11
+
+Så gick Jefta med de äldste i Gilead, och folket gjorde honom till huvud och befälhavare över dem. Jefta upprepade alla sina ord inför Herren i Mispa.
+
+## Domarboken 11:12
+
+Jefta sände budbärare till ammoniternas kung och frågade: "Vilken konflikt finns mellan oss som gör att du har kommit för att kämpa mot mitt land?"
+
+## Domarboken 11:13
+
+Ammoniternas kung svarade Jeftas budbärare: "När Israel kom upp från Egypten tog de mitt land från Arnon till Jabbok och Jordan. Återlämna det nu fredligt."
+
+## Domarboken 11:14
+
+Jefta sände åter budbärare till ammoniternas kung,
+
+## Domarboken 11:15
+
+och sade: "Detta är vad Jefta förklarar: Israel tog inte Moabs land eller ammoniternas land.
+
+## Domarboken 11:16
+
+När de kom upp från Egypten reste Israel genom öknen till Röda havet och sedan till Kadesh.
+
+## Domarboken 11:17
+
+Israel sände budbärare till Edoms kung och bad: 'Låt oss passera genom ditt land,' men Edoms kung lyssnade inte. De sände också till Moabs kung, men han vägrade. Så Israel stannade i Kadesh.
+
+## Domarboken 11:18
+
+Sedan reste de genom öknen, kringgick Edom och Moab, och kom till östra Moab och slog läger på andra sidan Arnon. De gick inte in i Moabs område, för Arnon var dess gräns.
+
+## Domarboken 11:19
+
+Israel sände budbärare till Sihon, amoriternas kung, härskare över Heshbon, och sade: 'Låt oss passera genom ditt land till vår plats.'
+
+## Domarboken 11:20
+
+Men Sihon litade inte på att Israel skulle passera genom hans område. Han samlade alla sina trupper, slog läger vid Jahas och kämpade mot Israel.
+
+## Domarboken 11:21
+
+Herren, Israels Gud, överlämnade Sihon och hela hans folk i Israels händer, och de besegrade dem. Israel tog i besittning hela amoriternas land som bebodde den regionen.
+
+## Domarboken 11:22
+
+De erövrade hela området från Arnon till Jabbok och från öknen till Jordan.
+
+---
+
+## Domarboken 11:23
+
+Nu när Herren, Israels Gud, har drivit ut amoriterna framför sitt folk Israel, ska ni då besitta det?
+
+## Domarboken 11:24
+
+Har ni inte det som Kemosh, er gud, ger er? På samma sätt ska vi besitta vad Herren vår Gud har gett oss.
+
+## Domarboken 11:25
+
+Är du bättre än Balak, Zippor's son, Moabs kung? Har han någonsin stridit mot Israel eller fört krig med dem?
+
+## Domarboken 11:26
+
+I trehundra år har Israel ockuperat Heshbon, Aroer och de omgivande bosättningarna, och alla städer längs Arnon. Varför återtog ni dem inte under den tiden?
+
+## Domarboken 11:27
+
+Jag har inte gjort dig orätt, men du gör mig orätt genom att föra krig mot mig. Låt Herren, Domaren, avgöra tvisten idag mellan israeliterna och ammoniterna.”
+
+## Domarboken 11:28
+
+Ammoniternas kung ignorerade dock det budskap Jefta skickade honom.
+
+---
+
+## Domarboken 11:29
+
+Då kom Herrens Ande över Jefta. Han passerade genom Gilead och Manasse, och genom Mispa i Gilead, och avancerade mot ammoniterna.
+
+## Domarboken 11:30
+
+Jefta gjorde ett löfte till Herren: "Om du överlämnar ammoniterna i mina händer,
+
+## Domarboken 11:31
+
+då ska vad som än kommer ut ur dörrarna till mitt hus för att möta mig när jag återvänder segrande från ammoniterna tillhöra Herren, och jag ska offra det som ett brännoffer."
+
+## Domarboken 11:32
+
+Jefta gick över för att kämpa mot ammoniterna, och Herren överlämnade dem i hans händer.
+
+## Domarboken 11:33
+
+Han slog dem från Aroer till trakten av Minnit, tjugo städer, ända till Abel Keramim. Så blev ammoniterna besegrade inför israeliterna.
+
+## Domarboken 11:34
+
+När Jefta återvände till sitt hem i Mispa, kom hans dotter ut för att möta honom med tamburiner och dans. Hon var hans enda barn; förutom henne hade han varken son eller dotter.
+
+## Domarboken 11:35
+
+När han såg henne, rev han sina kläder och sade: "Ack, min dotter! Du har gjort mig bedrövad, och du är bland dem som oroar mig, för jag har gett mitt ord till Herren, och jag kan inte ta tillbaka det."
+
+## Domarboken 11:36
+
+Hon svarade: "Min far, du har gett ditt ord till Herren; gör med mig som du har lovat, eftersom Herren har hämnats på dina fiender, ammoniterna."
+
+## Domarboken 11:37
+
+Hon sade sedan till sin far: "Ge mig denna begäran: låt mig få två månader att vandra i bergen och gråta med mina vänner eftersom jag aldrig kommer att gifta mig."
+
+## Domarboken 11:38
+
+Han sade: "Gå." Så han sände iväg henne i två månader. Hon och hennes vänner gick upp i bergen och grät över hennes jungfrulighet.
+
+## Domarboken 11:39
+
+Efter två månader återvände hon till sin far, och han gjorde med henne som han hade lovat. Och hon var en jungfru. Från detta uppstod en sed i Israel,
+
+## Domarboken 11:40
+
+att varje år går Israels döttrar ut i fyra dagar för att minnas Jefta, gileaditens dotter.
