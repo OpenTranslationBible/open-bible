@@ -1,0 +1,41 @@
+{
+    "book": "Psalmen",
+    "chapter": 133,
+    "verses": [
+        {
+            "text": [
+                "Een pelgrimslied. Van David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Zie, hoe goed en hoe aangenaam is het",
+                "> Als broeders tezamen wonen in eenheid!"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Het is als de kostbare olie op het hoofd,",
+                "> Die neerdaalt op de baard,",
+                "> De baard van Aäron,",
+                "> Die neerdaalt op de zoom van zijn klederen."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Het is als de dauw van de Hermon",
+                "> Die neerdaalt op de bergen van Sion;",
+                "> Want daar gebiedt de Heer de zegen—",
+                "> Leven voor altijd."
+            ]
+        }
+    ]
+}

@@ -1,0 +1,161 @@
+﻿# 2 Samuël Hoofdstuk 11
+
+## 2 Samuël 11:1
+
+Toen gebeurde het in de lente, op de tijd dat koningen ten strijde trekken,  
+dat David Joab en zijn dienaren met hem zond, en heel Israël,  
+en zij vernietigden de zonen van Ammon en belegerden Rabba.  
+Maar David bleef achter in Jeruzalem.
+
+## 2 Samuël 11:2
+
+Op een avond stond David op van zijn bed en wandelde op het dak van het huis van de koning.  
+Van daaruit zag hij een vrouw baden, en zij was zeer mooi.
+
+## 2 Samuël 11:3
+
+David zond dienaren om naar de vrouw te vragen.  
+En iemand zei,  
+“Is dit niet Bathseba, de dochter van Eliam, de vrouw van Uria de Hethiet?”
+
+## 2 Samuël 11:4
+
+Toen zond David boodschappers en nam haar, en toen zij bij hem kwam, sliep hij met haar  
+—nu had zij zich gereinigd van haar onreinheid—  
+daarna keerde zij terug naar haar huis.
+
+## 2 Samuël 11:5
+
+En de vrouw werd zwanger;  
+dus stuurde zij een bericht naar David en zei: “Ik ben zwanger.”
+
+---
+
+## 2 Samuël 11:6
+
+David stuurde toen een bericht naar Joab, zeggende: “Stuur Uria de Hethiet naar mij.”  
+Dus Joab stuurde Uria naar David.
+
+## 2 Samuël 11:7
+
+Toen Uria bij hem kwam, vroeg David naar Joabs welzijn en het welzijn van het volk en de stand van de oorlog.
+
+## 2 Samuël 11:8
+
+David zei tegen Uria: “Ga naar je huis en verfris jezelf.”  
+Dus verliet Uria het huis van de koning, en een geschenk van de koning volgde hem.
+
+## 2 Samuël 11:9
+
+Echter, Uria sliep bij de ingang van het huis van de koning met al de dienaren van zijn heer,  
+en ging niet naar zijn huis.
+
+## 2 Samuël 11:10
+
+Toen zij David informeerden, zeggende: “Uria ging niet naar zijn huis,”  
+zei David tegen Uria: “Ben je niet van een reis gekomen? Waarom ben je niet naar je huis gegaan?”
+
+## 2 Samuël 11:11
+
+En Uria zei tegen David,  
+“De ark en Israël en Juda verblijven in tijdelijke onderkomens,  
+en mijn heer Joab en de dienaren van mijn heer kamperen in het open veld.  
+Zal ik dan naar mijn huis gaan om te eten en te drinken en bij mijn vrouw te liggen?  
+Bij uw leven en het leven van uw ziel, ik zal dit niet doen.”
+
+## 2 Samuël 11:12
+
+Toen zei David tegen Uria: “Blijf hier vandaag ook, en morgen zal ik je terugsturen.”  
+Dus bleef Uria die dag en de volgende in Jeruzalem.
+
+## 2 Samuël 11:13
+
+Nu riep David hem, en hij at en dronk voor hem, en hij maakte hem dronken.  
+'s Avonds ging hij uit om op zijn bed te liggen met de dienaren van zijn heer,  
+maar hij ging niet naar zijn huis.
+
+---
+
+## 2 Samuël 11:14
+
+'s Ochtends gaf David een brief aan Joab die hij met Uria zond.
+
+## 2 Samuël 11:15
+
+Hij had in de brief geschreven, zeggende,  
+“Plaats Uria in de frontlinie van de hevigste strijd,  
+en trek je van hem terug, zodat hij getroffen wordt en sterft.”
+
+## 2 Samuël 11:16
+
+Dus het was toen Joab de stad in de gaten hield,  
+hij wees Uria aan op de plaats waar hij wist dat er dappere mannen waren.
+
+## 2 Samuël 11:17
+
+De mannen van de stad gingen uit en vochten tegen Joab,  
+en enkele van de mensen onder Davids dienaren vielen;  
+Uria de Hethiet stierf ook.
+
+## 2 Samuël 11:18
+
+Toen stuurde Joab een bericht en rapporteerde aan David alle gebeurtenissen van de oorlog.
+
+## 2 Samuël 11:19
+
+Hij beval de boodschapper, zeggende,  
+“Wanneer je klaar bent met het rapporteren van alle gebeurtenissen van de oorlog aan de koning,
+
+## 2 Samuël 11:20
+
+en als de woede van de koning oplaait en hij tegen je zegt,  
+‘Waarom ben je zo dicht bij de stad gekomen om te vechten?  
+Wist je niet dat ze vanaf de muur zouden schieten?
+
+## 2 Samuël 11:21
+
+Wie sloeg Abimelech de zoon van Jerubbeseth?  
+Wierp een vrouw niet een bovenste molensteen op hem vanaf de muur zodat hij stierf in Thebez?  
+Waarom ging je zo dicht bij de muur?’  
+—dan moet je zeggen,  
+‘Uw dienaar Uria de Hethiet is ook dood.’”
+
+---
+
+## 2 Samuël 11:22
+
+Dus vertrok de boodschapper en kwam en vertelde David alles wat Joab hem had gestuurd te rapporteren.
+
+## 2 Samuël 11:23
+
+En de boodschapper zei tegen David,  
+“De mannen kregen de overhand tegen ons en kwamen naar ons toe in het veld,  
+maar wij dreven hen terug tot aan de ingang van de poort.
+
+## 2 Samuël 11:24
+
+Toen schoten de boogschutters op uw dienaren vanaf de muur;  
+enkele van de dienaren van de koning stierven,  
+en uw dienaar Uria de Hethiet stierf ook.”
+
+## 2 Samuël 11:25
+
+Toen zei David tegen de boodschapper,  
+“Dit is wat je tegen Joab moet zeggen:  
+‘Laat dit ding je niet mishagen, want het zwaard verslindt de een net als de ander;  
+versterk je strijd tegen de stad en verover het’;  
+en moedig hem aan.”
+
+---
+
+## 2 Samuël 11:26
+
+Nu, toen de vrouw van Uria hoorde dat haar man Uria dood was,  
+rouwde zij om haar man.
+
+## 2 Samuël 11:27
+
+Toen de tijd van rouw voorbij was,  
+zond David dienaren en bracht haar naar zijn huis, en zij werd zijn vrouw;  
+daarna baarde zij hem een zoon.  
+Maar het ding dat David had gedaan was kwaad in de ogen van de Heer.

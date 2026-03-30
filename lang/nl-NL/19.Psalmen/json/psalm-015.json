@@ -1,0 +1,55 @@
+{
+    "book": "Psalmen",
+    "chapter": 15,
+    "verses": [
+        {
+            "text": [
+                "Een psalm van David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Heer, wie mag verblijven in Uw tent?",
+                "> Wie mag wonen op Uw heilige berg?"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Iemand die leeft met integriteit, rechtvaardig handelt,",
+                "> En oprecht vanuit het hart spreekt."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hij lastert niet met zijn tong,",
+                "> Doet zijn naaste geen kwaad,",
+                "> Brengt geen schande over zijn vriend;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> In zijn ogen is een verachtelijk persoon veracht,",
+                "> Maar hij eert degenen die de Heer vrezen;",
+                "> Hij zweert tot zijn eigen nadeel, en verandert niet;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Hij leent zijn geld niet oneerlijk uit,",
+                "> En neemt geen steekpenning tegen de onschuldige aan.",
+                "---",
+                "> Wie op deze manier leeft, zal standvastig blijven."
+            ]
+        }
+    ]
+}

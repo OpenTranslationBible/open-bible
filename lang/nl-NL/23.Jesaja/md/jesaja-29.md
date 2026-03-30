@@ -1,0 +1,97 @@
+# Jesaja Hoofdstuk 29
+
+## Jesaja 29:1
+
+Wee u, Ariel, Ariel, de stad waar David zijn kamp opsloeg! Voeg jaar op jaar toe, laat uw cyclus van feesten doorgaan.
+
+## Jesaja 29:2
+
+Toch zal Ik benauwdheid over Ariel brengen, en zij zal een stad van verdriet en gejammer zijn; zij zal voor Mij zijn als een altaarhaard.
+
+## Jesaja 29:3
+
+Ik zal rondom u legeren; Ik zal u belegeren met torens en belegeringswerken tegen u oprichten.
+
+## Jesaja 29:4
+
+Vernederd zult u spreken vanuit de grond; uw woorden zullen komen uit het stof waar u neerligt. Uw stem zal zijn als die van een geest uit de aarde, en uw spraak zal fluisteren uit het stof.
+
+## Jesaja 29:5
+
+Maar de menigte van uw vijanden zal worden als fijn stof, en de meedogenloze horden als kaf dat wegwaait; het zal plotseling gebeuren, in een oogwenk.
+
+## Jesaja 29:6
+
+Van de Heer der Heerscharen zult u bezocht worden met donder, aardbeving en een groot geluid, met wervelwind en storm, en de vlam van een verterend vuur.
+
+## Jesaja 29:7
+
+De menigte van alle naties die tegen Ariel strijden, die haar en haar vesting belegeren, zal zijn als een droom, een visioen van de nacht.
+
+## Jesaja 29:8
+
+Het zal zijn als wanneer een hongerige droomt van eten maar wakker wordt en nog hongerig is, of wanneer een dorstige droomt van drinken maar wakker wordt en nog flauw en dorstig is. Zo zal het zijn met de menigte van alle naties die tegen de berg Sion strijden.
+
+## Jesaja 29:9
+
+Sta versteld en wees verbaasd; verblind uzelf en wees zielloos; zij zijn dronken, maar niet van wijn, zij wankelen, maar niet van sterke drank.
+
+## Jesaja 29:10
+
+Want de Heer heeft over u een geest van diepe slaap uitgestort; Hij heeft uw ogen, de profeten, gesloten en uw hoofden, de zieners, bedekt.
+
+## Jesaja 29:11
+
+Deze hele visie zal voor u zijn als de woorden van een verzegeld boek. Wanneer het aan iemand wordt gegeven die kan lezen, zeggende: “Lees dit, alstublieft,” zal hij zeggen: “Ik kan niet, want het is verzegeld.”
+
+## Jesaja 29:12
+
+Of als het wordt gegeven aan iemand die niet kan lezen, zeggende: “Lees dit, alstublieft,” zal hij zeggen: “Ik weet niet hoe ik moet lezen.”
+
+## Jesaja 29:13
+
+De Heer zegt: “Deze mensen naderen Mij met hun mond en eren Mij met hun lippen, maar hun hart is ver van Mij. Hun eerbied voor Mij is gebaseerd op menselijke regels die door mensen worden onderwezen.
+
+## Jesaja 29:14
+
+Daarom, zie, Ik zal opnieuw een wonderbaarlijk werk onder dit volk doen, een wonderbaarlijk werk; de wijsheid van hun wijze mannen zal vergaan, en het begrip van hun verstandige mannen zal verborgen zijn.”
+
+## Jesaja 29:15
+
+Wee degenen die diep zoeken om hun raad voor de Heer te verbergen, wiens daden in duisternis worden gedaan, en die zeggen: “Wie ziet ons? Wie kent ons?”
+
+## Jesaja 29:16
+
+U keert de natuurlijke orde om! Zou de pottenbakker hetzelfde worden beschouwd als de klei? Zou dat wat gemaakt is van zijn maker zeggen: “Hij heeft mij niet gemaakt,” of de creatie van zijn schepper zeggen: “Hij heeft geen verstand”?
+
+## Jesaja 29:17
+
+Is het niet spoedig dat Libanon zal worden getransformeerd in een vruchtbaar veld, en het vruchtbare veld zal worden beschouwd als een bos?
+
+## Jesaja 29:18
+
+Op die dag zullen de doven de woorden van een boek horen, en uit hun duisternis en donkerheid zullen de ogen van de blinden zien.
+
+## Jesaja 29:19
+
+De nederigen zullen hun vreugde in de Heer vergroten, en de behoeftigen onder de mensen zullen zich verheugen in de Heilige van Israël.
+
+## Jesaja 29:20
+
+Want de meedogenlozen zullen een einde nemen, en de spotters zullen ophouden, en allen die op ongerechtigheid uit zijn, zullen worden afgesneden—
+
+## Jesaja 29:21
+
+zij die een man door een woord tot een overtreder maken, en een valstrik leggen voor hem die in de poort terechtwijst, en met valse getuigenis de rechtvaardige terzijde schuiven.
+
+## Jesaja 29:22
+
+Daarom, dit is wat de Heer, die Abraham verloste, zegt over het huis van Jakob: “Jakob zal niet langer beschaamd zijn, noch zal zijn gezicht bleek worden.
+
+## Jesaja 29:23
+
+Maar wanneer hij zijn kinderen ziet, het werk van mijn handen, in zijn midden, zullen zij mijn naam heiligen; zij zullen de Heilige van Jakob heiligen en ontzag hebben voor de God van Israël.
+
+## Jesaja 29:24
+
+Degenen die dwalen in geest zullen tot begrip komen, en degenen die morren zullen onderricht aanvaarden.”

@@ -1,0 +1,61 @@
+{
+    "book": "Psalmen",
+    "chapter": 23,
+    "verses": [
+        {
+            "text": [
+                "Een psalm van David."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> De Heer is mijn herder,",
+                "> mij ontbreekt niets."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Hij laat mij rusten in groene weiden;",
+                "> Hij leidt mij naar rustige wateren."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Hij verkwikt mijn ziel;",
+                "> Hij leidt mij langs de rechte paden",
+                "> omwille van Zijn naam."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Al ga ik door het dal van de schaduw van de dood,",
+                "> ik vrees geen kwaad, want U bent bij mij;",
+                "> Uw stok en Uw staf, die vertroosten mij."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> U richt een tafel voor mij aan in het bijzijn van mijn vijanden;",
+                "> U hebt mijn hoofd met olie gezalfd;",
+                "> mijn beker vloeit over."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Zeker, goedheid en genade zullen mij volgen alle dagen van mijn leven,",
+                "> en ik zal verblijven in het huis van de Heer voor altijd."
+            ]
+        }
+    ]
+}

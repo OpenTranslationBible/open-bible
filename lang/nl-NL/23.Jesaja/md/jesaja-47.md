@@ -1,0 +1,46 @@
+# Jesaja Hoofdstuk 47
+
+## Jesaja 47:1
+“Daal neer en zit in het stof, Maagdelijke Dochter van Babylon; zit op de grond zonder troon, Dochter van de Chaldeeën. Je zult niet langer teder en delicaat genoemd worden.
+
+## Jesaja 47:2
+Neem de molenstenen en maal meel; verwijder je sluier, hef je rokken op, ontbloot je benen en steek de rivieren over.
+
+## Jesaja 47:3
+Je naaktheid zal worden onthuld, en je schaamte zal worden blootgelegd. Ik zal wraak nemen en zal niemand sparen.”
+
+## Jesaja 47:4
+Onze Verlosser, de Heer der Heerscharen is Zijn naam, de Heilige van Israël.
+
+## Jesaja 47:5
+“Zit in stilte en ga de duisternis in, Dochter van de Chaldeeën; want je zult niet langer de koningin van de koninkrijken genoemd worden.
+
+## Jesaja 47:6
+Ik was boos op Mijn volk, Ik ontwijdde Mijn erfdeel en leverde hen in jouw hand. Je toonde hen geen genade; zelfs op de ouderen legde je een zware last.
+
+## Jesaja 47:7
+Je zei: ‘Ik zal voor altijd koningin zijn,’ maar je dacht niet na over deze dingen of overwoog hun uitkomst.
+
+## Jesaja 47:8
+“Luister nu dan, jij die je overgeeft aan genot, veilig woont, en in je hart zegt: ‘Ik ben het, en er is niemand behalve ik. Ik zal nooit weduwe zijn of het verlies van kinderen kennen.’
+
+## Jesaja 47:9
+Deze twee dingen zullen je plotseling op één dag overkomen: verlies van kinderen en weduwschap. Ze zullen je in volle omvang treffen ondanks je vele toverkunsten en krachtige spreuken.
+
+## Jesaja 47:10
+Je hebt je veilig gevoeld in je slechtheid en zei: ‘Niemand ziet mij.’ Je wijsheid en kennis hebben je misleid, want je hebt in je hart gezegd: ‘Ik ben het, en er is niemand behalve ik.’
+
+## Jesaja 47:11
+Maar rampspoed zal over je komen, en je zult niet weten hoe je het moet bezweren. Onheil zal je treffen dat je niet kunt afwenden; vernietiging die je niet kunt voorzien zal je plotseling overkomen.
+
+## Jesaja 47:12
+“Ga door met je spreuken en je vele toverkunsten, die je sinds je jeugd hebt beoefend. Misschien zul je slagen, misschien zul je beven veroorzaken.
+
+## Jesaja 47:13
+Je bent vermoeid door je vele raadgevingen; laat je astrologen opstaan, zij die naar de sterren kijken en voorspellen door de nieuwe manen, laat hen je redden van wat over je komt.
+
+## Jesaja 47:14
+Zeker, zij zijn als stoppels; het vuur zal hen verteren. Ze kunnen zichzelf niet redden van de kracht van de vlam. Dit is geen kool om je aan te warmen, noch een vuur om bij te zitten.
+
+## Jesaja 47:15
+Dit is wat zij voor jou zijn geworden, zij met wie je hebt gewerkt, zij die sinds je jeugd met je hebben gehandeld; ieder dwaalt in zijn eigen richting; er is niemand om je te redden.

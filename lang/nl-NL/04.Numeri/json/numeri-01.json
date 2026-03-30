@@ -1,0 +1,330 @@
+{
+    "book": "Numeri",
+    "chapter": 1,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "De Heer sprak tot Mozes in de woestijn van Sinaï, in de tent van ontmoeting, op de eerste dag van de tweede maand in het tweede jaar nadat de Israëlieten uit Egypte waren gekomen, zeggende:"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "“Neem een volkstelling van de gehele gemeenschap van de Israëlieten naar hun families, naar hun vaderlijke huizen, waarbij elke man bij naam wordt genoemd, één voor één."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "U en Aäron moeten alle mannen in Israël tellen die twintig jaar oud of ouder zijn en in staat zijn om in het leger te dienen, volgens hun afdelingen."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "Bij u zal een man uit elke stam zijn, elk hoofd van zijn familie."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "Hier zijn de namen van de mannen die u zullen bijstaan: van Ruben, Elizur, zoon van Sedeür;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "van de stam Simeon, Selumiël, zoon van Surisaddai;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "van de stam Juda, Nachson, zoon van Amminadab;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "van de stam Issaschar, Nethaneël, zoon van Zuar;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "van de stam Zebulon, Eliab, zoon van Helon;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "uit de nakomelingen van Jozef: van Efraïm, Elisama, zoon van Ammihud; van Manasse, Gamaliël, zoon van Pedahzur;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "van de stam Benjamin, Abidan, zoon van Gideoni;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "van de stam Dan, Ahiezer, zoon van Ammisaddai;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "van de stam Aser, Pagiël, zoon van Ochran;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "van de stam Gad, Eljasaf, zoon van Deüel;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "van de stam Naftali, Ahira, zoon van Enan."
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "Dit waren de mannen die uit de gemeenschap waren aangewezen, de leiders van hun vaderlijke stammen; zij waren de hoofden van de geslachten van Israël."
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "Mozes en Aäron verzamelden deze mannen die bij naam waren aangewezen,"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "en zij verzamelden de hele gemeenschap op de eerste dag van de tweede maand. Zij registreerden hen naar afstamming in hun families, naar hun vaderlijke huizen, volgens het aantal namen, van twintig jaar en ouder, één voor één,"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "zoals de Heer Mozes had geboden. Zo telde hij hen in de woestijn van Sinaï."
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "Van de nakomelingen van Ruben, Israëls eerstgeborene: Alle mannen van twintig jaar en ouder die in staat waren om in het leger te dienen, werden bij naam genoemd, één voor één, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "Het aantal uit de stam Ruben was 46.500."
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "Van de nakomelingen van Simeon: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden geteld en bij naam genoemd, één voor één, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "Het aantal uit de stam Simeon was 59.300."
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "Van de nakomelingen van Gad: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "Het aantal uit de stam Gad was 45.650."
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "Van de nakomelingen van Juda: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "Het aantal uit de stam Juda was 74.600."
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "Van de nakomelingen van Issaschar: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "Het aantal uit de stam Issaschar was 54.400."
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "Van de nakomelingen van Zebulon: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "Het aantal uit de stam Zebulon was 57.400."
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "Uit de nakomelingen van Jozef: Van de stam Efraïm: Alle in aanmerking komende mannen van twintig jaar en ouder die in staat waren tot militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "Het aantal uit de stam Efraïm was 40.500."
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "Van de nakomelingen van Manasse: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "Het aantal uit de stam Manasse was 32.200."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "Van de nakomelingen van Benjamin: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "Het aantal uit de stam Benjamin was 35.400."
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "Van de nakomelingen van Dan: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "Het aantal uit de stam Dan was 62.700."
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "Van de nakomelingen van Aser: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "Het aantal uit de stam Aser was 41.500."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "Van de nakomelingen van Naftali: Alle mannen van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst werden bij naam genoemd, volgens de registers van hun geslachten en families."
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "Het aantal uit de stam Naftali was 53.400."
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "Dit waren de mannen die door Mozes en Aäron werden geteld, met de leiders van Israël, twaalf mannen, elk vertegenwoordigend het huis van zijn vader."
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "Alle Israëlieten van twintig jaar en ouder die in aanmerking kwamen voor militaire dienst in het leger van Israël werden geteld volgens hun families."
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "Hun totale aantal was 603.550."
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "De stam Levi werd echter niet meegeteld met de anderen."
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "Want de Heer had tot Mozes gesproken, hem instruerend,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "“U mag de stam Levi niet tellen of hen opnemen in de volkstelling van de andere Israëlieten."
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "In plaats daarvan moet u de Levieten aanstellen over de tabernakel van de getuigenis, over al zijn voorwerpen en alles wat erbij hoort. Zij moeten de tabernakel en al zijn voorwerpen dragen; zij moeten ervoor zorgen en eromheen kamperen."
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "Telkens wanneer de tabernakel moet worden verplaatst, moeten de Levieten deze afbreken, en telkens wanneer deze moet worden opgezet, moeten de Levieten dit doen. Elke buitenstaander die het nadert, moet ter dood worden gebracht."
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "De Israëlieten moeten volgens hun afdelingen kamperen, elke man bij zijn eigen kamp en elke man bij zijn eigen standaard."
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "Maar de Levieten moeten rond de tabernakel van de getuigenis kamperen, zodat er geen goddelijke toorn tegen de gemeenschap van de Israëlieten zal zijn. De Levieten zullen verantwoordelijk zijn voor de dienst aan de tabernakel van de getuigenis.”"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "De Israëlieten deden dit alles precies zoals de Heer Mozes had opgedragen."
+            ]
+        }
+    ]
+}

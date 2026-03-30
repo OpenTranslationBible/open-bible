@@ -1,0 +1,49 @@
+{
+    "book": "Psalmen",
+    "chapter": 150,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "> Prijs de Heer!",
+                "> Eer God in Zijn heilige plaats;",
+                "> Prijs Hem in Zijn uitgestrekte hemel."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Eer Hem om Zijn machtige daden;",
+                "> Prijs Hem om Zijn opperste grootheid."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Eer Hem met het geluid van de trompet;",
+                "> Prijs Hem met harp en lier."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Eer Hem met tamboerijn en dans;",
+                "> Prijs Hem met snaarinstrumenten en fluit."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Eer Hem met luide cimbalen;",
+                "> Prijs Hem met klinkende cimbalen."
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> Alles wat adem heeft, prijs de Heer.",
+                "> Prijs de Heer!"
+            ]
+        }
+    ]
+}

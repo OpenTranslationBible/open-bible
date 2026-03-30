@@ -30,6 +30,12 @@ The Open Translation Bible (OTB) is the world's first open source bible and was 
 | 🇮🇹 Italiano (Italian)            | it-IT | February 2026 | [📖 OpenBible.it-IT.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.it-IT.pdf) |
 | 🇰🇷 한국어 (Korean)               | ko-KR | February 2026 | [📖 OpenBible.ko-KR.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.ko-KR.pdf) |
 | 🇮🇳 മലയാളം (Malayalam)            | ml-IN | March 2026    | [📖 OpenBible.ml-IN.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.ml-IN.pdf) |
+| 🇩🇰 Dansk (Danish)                | da-DK | April 2026    | [📖 OpenBible.da-DK.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.da-DK.pdf) |
+| 🇫🇮 Suomi (Finnish)               | fi-FI | April 2026    | [📖 OpenBible.fi-FI.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.fi-FI.pdf) |
+| 🇮🇸 Íslenska (Icelandic)          | is-IS | April 2026    | [📖 OpenBible.is-IS.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.is-IS.pdf) |
+| 🇳🇱 Nederlands (Dutch)            | nl-NL | April 2026    | [📖 OpenBible.nl-NL.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.nl-NL.pdf) |
+| 🇸🇪 Svenska (Swedish)             | sv-SE | April 2026    | [📖 OpenBible.sv-SE.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.sv-SE.pdf) |
+| 🇹🇿 Kiswahili (Swahili)           | sw-TZ | April 2026    | [📖 OpenBible.sw-TZ.pdf](https://github.com/OpenTranslationBible/open-bible/blob/main/pdf/OpenBible.sw-TZ.pdf) |
 
 We cross referenced over 1.3 million verses in English to ensure the english OTB is dissimilar to all. In fact only 18 of our verses are directly the same as _any_ other versions
 

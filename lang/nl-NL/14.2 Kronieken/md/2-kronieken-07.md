@@ -1,0 +1,181 @@
+# 2 Kronieken Hoofdstuk 7
+
+## 2 Kronieken 7:1
+
+Toen Salomo zijn gebed beëindigde,  
+daalde er vuur uit de hemel neer en verteerde het brandoffer en de offers,  
+en de heerlijkheid van de Heer vervulde het huis.
+
+---
+
+## 2 Kronieken 7:2
+
+En de priesters konden het huis van de Heer niet binnengaan  
+omdat de heerlijkheid van de Heer het huis van de Heer vervulde.
+
+---
+
+## 2 Kronieken 7:3
+
+Alle zonen van Israël, die het vuur zagen neerdalen en de heerlijkheid van de Heer op het huis,  
+bogen zich neer op de bestrating met hun gezichten naar de grond,  
+en zij aanbaden en loofden de Heer, zeggende,
+
+> "Hij is zeker goed,  
+> want Zijn barmhartigheid is eeuwig."
+
+---
+
+## 2 Kronieken 7:4
+
+Toen brachten de koning en al het volk offers en slachtoffers voor de Heer.
+
+---
+
+## 2 Kronieken 7:5
+
+Koning Salomo offerde een offer van tweeëntwintigduizend runderen en 120.000 schapen.  
+Zo wijdden de koning en al het volk het huis van God in.
+
+---
+
+## 2 Kronieken 7:6
+
+De priesters stonden op hun posten,  
+en ook de Levieten, met de muziekinstrumenten van de Heer  
+die koning David had gemaakt om de Heer te loven—
+
+"Want Zijn barmhartigheid is eeuwig"—  
+wanneer hij door hun middel lof gaf,  
+terwijl de priesters aan de andere kant trompetten bliezen,  
+en heel Israël stond.
+
+---
+
+## 2 Kronieken 7:7
+
+Toen heiligde Salomo het midden van de voorhof die voor het huis van de Heer was,  
+want hij offerde daar de brandoffers en het vet van de vredeoffers  
+omdat het bronzen altaar dat Salomo had gemaakt niet in staat was het brandoffer,  
+het graanoffer en het vet te bevatten.
+
+---
+
+## 2 Kronieken 7:8
+
+Zo hield Salomo op dat moment het feest zeven dagen lang,  
+en heel Israël met hem,  
+een zeer grote vergadering van Lebo-Hamath tot de beek van Egypte.
+
+---
+
+## 2 Kronieken 7:9
+
+En op de achtste dag hielden zij een feestelijke bijeenkomst,  
+want zij vierden de inwijding van het altaar zeven dagen lang,  
+en het feest zeven dagen lang.
+
+---
+
+## 2 Kronieken 7:10
+
+Toen, op de drieëntwintigste dag van de zevende maand,  
+stuurde hij het volk weg naar hun tenten,  
+vreugdevol en blij van hart  
+vanwege de goedheid die de Heer had getoond aan David, aan Salomo en aan Zijn volk Israël.
+
+---
+
+## 2 Kronieken 7:11
+
+Zo voltooide Salomo het huis van de Heer en het paleis van de koning,  
+en hij voltooide met succes alles wat hij had gepland te doen  
+in het huis van de Heer en in zijn paleis.
+
+---
+
+## 2 Kronieken 7:12
+
+Toen verscheen de Heer 's nachts aan Salomo en zei tegen hem,  
+"Ik heb je gebed gehoord en deze plaats voor Mij gekozen als een huis van offers.
+
+---
+
+## 2 Kronieken 7:13
+
+Als Ik de hemel sluit zodat er geen regen is,  
+of als Ik de sprinkhaan gebied het land te verteren,  
+of als Ik een plaag onder Mijn volk zend,
+
+---
+
+## 2 Kronieken 7:14
+
+en Mijn volk dat naar Mijn naam genoemd is zich vernedert,  
+en bidt en Mijn aangezicht zoekt,  
+en zich bekeert van hun slechte wegen,  
+dan zal Ik vanuit de hemel horen,  
+en Ik zal hun zonde vergeven en hun land herstellen.
+
+---
+
+## 2 Kronieken 7:15
+
+Voortaan zullen Mijn ogen open zijn en Mijn oren opmerkzaam op de gebeden die in deze plaats worden gedaan.
+
+---
+
+## 2 Kronieken 7:16
+
+Voor de huidige tijd heb Ik dit huis gekozen en geheiligd  
+zodat Mijn naam daar voortdurend kan verblijven,  
+en Mijn ogen en Mijn hart zullen daar voortdurend blijven.
+
+---
+
+## 2 Kronieken 7:17
+
+Wat jou betreft, als je voor Mij wandelt zoals je vader David wandelde,  
+en doet overeenkomstig alles wat Ik je heb geboden,  
+en Mijn verordeningen en Mijn geboden onderhoudt,
+
+---
+
+## 2 Kronieken 7:18
+
+dan zal Ik je koninklijke troon bevestigen zoals Ik je vader David heb beloofd, zeggende,  
+'Je zult niet zonder een man zijn om heerser te zijn in Israël.'
+
+---
+
+## 2 Kronieken 7:19
+
+Echter, als je je afkeert en Mijn verordeningen en Mijn geboden verlaat  
+die Ik voor je heb gesteld,  
+en andere goden gaat dienen en hen aanbidt,
+
+---
+
+## 2 Kronieken 7:20
+
+dan zal Ik je verwijderen uit Mijn land dat Ik je heb gegeven,  
+en dit huis dat Ik voor Mijn naam heb geheiligd  
+zal Ik uit Mijn aanwezigheid verwerpen,  
+en Ik zal het tot een spreekwoord en een voorwerp van spot maken onder alle volken.
+
+---
+
+## 2 Kronieken 7:21
+
+Wat betreft dit huis, dat verheven was,  
+iedereen die er voorbijgaat zal ontzet zijn en zeggen,  
+'Waarom heeft de Heer deze dingen gedaan aan dit land en aan dit huis?'
+
+---
+
+## 2 Kronieken 7:22
+
+En zij zullen zeggen,  
+'Omdat zij de Heer, de God van hun vaderen die hen uit het land Egypte heeft gebracht, hebben verlaten,  
+en zij andere goden hebben aangenomen en hen aanbaden en hen dienden;  
+daarom heeft Hij al deze tegenspoed over hen gebracht.'"

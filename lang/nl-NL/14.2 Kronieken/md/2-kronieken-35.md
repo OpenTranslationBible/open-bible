@@ -1,0 +1,169 @@
+# 2 Kronieken Hoofdstuk 35
+
+## 2 Kronieken 35:1
+
+Josia hield het Pascha voor de Heer in Jeruzalem,  
+en de paasdieren werden geslacht op de veertiende dag van de eerste maand.
+
+## 2 Kronieken 35:2
+
+Hij wees de priesters hun taken toe en moedigde hen aan in de dienst van het huis van de Heer.
+
+## 2 Kronieken 35:3
+
+Hij gaf de Levieten, die heel Israël onderwezen en aan de Heer gewijd waren, de opdracht:  
+“Plaats de heilige ark in het huis dat Salomo, de zoon van David, koning van Israël, heeft gebouwd;  
+het zal niet langer een last op jullie schouders zijn.  
+Dien nu de Heer, jullie God, en Zijn volk Israël.
+
+## 2 Kronieken 35:4
+
+Bereid jullie voor volgens de families van jullie vaders in jullie afdelingen, overeenkomstig het geschrift van David, koning van Israël, en het geschrift van zijn zoon Salomo.
+
+---
+
+## 2 Kronieken 35:5
+
+Bovendien, sta in de heilige plaats volgens de afdelingen van de families van jullie landgenoten, de zonen van het volk,  
+en volgens de Levieten, per afdeling van een familie.
+
+## 2 Kronieken 35:6
+
+Slacht nu de paasdieren, heilig jezelf, en bereid je voor op je landgenoten om het woord van de Heer door de hand van Mozes uit te voeren.”
+
+---
+
+## 2 Kronieken 35:7
+
+Josia droeg bij aan de zonen van het volk, kuddes lammeren en jonge geiten, alles voor de paasoffers,  
+voor allen die aanwezig waren, in aantal 30.000, samen met 3.000 stieren; deze waren van het eigendom van de koning.
+
+---
+
+## 2 Kronieken 35:8
+
+Zijn officieren droegen ook een vrijwillige gave bij aan het volk, de priesters en de Levieten.  
+Hilkia, Zacharia en Jehiel, de functionarissen van het huis van God, gaven aan de priesters voor de paasoffers  
+2.600 uit de kudden, en 300 stieren.
+
+## 2 Kronieken 35:9
+
+Conanja, Semaja en Nethaneël zijn broers, en Hasabja, Jeïël en Jozabad,  
+de leiders van de Levieten, zorgden voor de Levieten voor de paasoffers  
+5.000 uit de kudden, en 500 stieren.
+
+---
+
+## 2 Kronieken 35:10
+
+Zo werd de dienst geregeld, en de priesters stonden op hun posities,  
+en de Levieten naar hun afdelingen volgens het bevel van de koning.
+
+## 2 Kronieken 35:11
+
+Zij offerden de paasdieren, en terwijl de priesters het bloed dat zij ontvingen sprenkelden,  
+vilden de Levieten de dieren.
+
+## 2 Kronieken 35:12
+
+Toen verwijderden zij de brandoffers zodat zij ze konden geven aan de afdelingen van de families van de zonen van het volk,  
+om aan de Heer te presenteren, zoals het geschreven staat in het Boek van Mozes.  
+Zij deden dit ook met de stieren.
+
+## 2 Kronieken 35:13
+
+Zo roosterden zij de paasdieren op het vuur volgens de verordening,  
+en zij kookten de heilige dingen in potten, ketels en pannen, en brachten ze snel naar alle zonen van het volk.
+
+## 2 Kronieken 35:14
+
+Daarna bereidden zij voor zichzelf en voor de priesters,  
+aangezien de priesters, de zonen van Aäron, bezig waren met het offeren van de brandoffers en het vet tot de nacht.  
+Zo bereidden de Levieten voor zichzelf en voor de priesters, de zonen van Aäron.
+
+---
+
+## 2 Kronieken 35:15
+
+De zangers, de zonen van Asaf, stonden op hun posities volgens het bevel van David,  
+Asaf, Heman en Jeduthun, de ziener van de koning;  
+en de poortwachters waren bij elke poort.  
+Zij hoefden hun dienst niet te verlaten, omdat hun landgenoten de Levieten voor hen zorgden.
+
+---
+
+## 2 Kronieken 35:16
+
+Zo werd de hele dienst van de Heer op die dag geregeld om het Pascha te vieren,  
+en om brandoffers op het altaar van de Heer te offeren volgens het bevel van koning Josia.
+
+## 2 Kronieken 35:17
+
+En de zonen van Israël die aanwezig waren, vierden het Pascha in die tijd,  
+en het Feest van Ongezuurde Broden gedurende zeven dagen.
+
+## 2 Kronieken 35:18
+
+Er was niet zo'n Pascha geweest in Israël sinds de dagen van Samuël de profeet;  
+noch had een van de koningen van Israël zo'n Pascha gevierd als Josia deed met de priesters, de Levieten,  
+heel Juda en Israël die aanwezig waren, en de inwoners van Jeruzalem.
+
+## 2 Kronieken 35:19
+
+Dit Pascha werd gevierd in het achttiende jaar van Josia's regering.
+
+---
+
+## 2 Kronieken 35:20
+
+Na dit alles, toen Josia de tempel in orde had gebracht,  
+kwam Neko, koning van Egypte, om oorlog te voeren bij Karkemis aan de Eufraat,  
+en Josia ging uit om hem te confronteren.
+
+## 2 Kronieken 35:21
+
+Maar Neko stuurde boodschappers naar hem, zeggende,  
+“Wat hebben wij met elkaar te maken, koning van Juda?  
+Ik kom vandaag niet tegen u, maar tegen het huis waarmee ik in oorlog ben;  
+en God heeft mij gezegd haast te maken.  
+Stop omwille van uzelf met het hinderen van God die met mij is, zodat Hij u niet vernietigt.”
+
+---
+
+## 2 Kronieken 35:22
+
+Josia wilde echter niet van hem afwijken, maar vermomde zich om tegen hem te vechten;  
+hij luisterde ook niet naar de woorden van Neko uit de mond van God, maar kwam om hem te bevechten op de vlakte van Megiddo.
+
+---
+
+## 2 Kronieken 35:23
+
+En de boogschutters schoten koning Josia, en de koning zei tegen zijn dienaren,  
+“Neem mij weg, want ik ben zwaar gewond.”
+
+## 2 Kronieken 35:24
+
+Dus namen zijn dienaren hem uit de wagen en brachten hem op de tweede wagen die hij had,  
+en brachten hem naar Jeruzalem waar hij stierf en werd begraven in de graven van zijn vaders.  
+En heel Juda en Jeruzalem rouwden om Josia.
+
+---
+
+## 2 Kronieken 35:25
+
+Toen zong Jeremia een klaaglied voor Josia.  
+En alle mannelijke en vrouwelijke zangers spreken over Josia in hun klaagliederen tot op de dag van vandaag.  
+En zij maakten er een gewoonte van in Israël; zie, zij zijn geschreven in de Klaagliederen.
+
+---
+
+## 2 Kronieken 35:26
+
+De rest van Josia's daden en zijn daden van toewijding, zoals opgetekend in de Wet van de Heer,
+
+---
+
+## 2 Kronieken 35:27
+
+en zijn daden, van begin tot eind, zijn inderdaad geschreven in het Boek van de Koningen van Israël en Juda.

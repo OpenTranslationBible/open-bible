@@ -1,0 +1,45 @@
+# Ezechiël Hoofdstuk 9
+
+## Ezechiël 9:1
+
+Toen hoorde ik een luide stem die in mijn aanwezigheid riep: "Breng degenen naar voren die zijn aangesteld om het oordeel over de stad te voltrekken, ieder met een vernietigingswapen in zijn hand."
+
+## Ezechiël 9:2
+
+En ik zag zes mannen komen vanuit de richting van de bovenpoort, die naar het noorden gericht is, ieder met een dodelijk wapen in zijn hand. Onder hen was een man gekleed in linnen met een schrijversset aan zijn middel. Ze kwamen binnen en stonden naast het bronzen altaar.
+
+## Ezechiël 9:3
+
+Nu steeg de heerlijkheid van de God van Israël op van de cherubs, waar het geweest was, naar de drempel van de tempel. Toen riep Hij de man die in linnen gekleed was en de schrijversset aan zijn middel had.
+
+## Ezechiël 9:4
+
+En de Heer zei tegen hem: "Ga door de stad Jeruzalem en markeer de voorhoofden van degenen die treuren en klagen over alle gruweldaden die daarin worden begaan."
+
+## Ezechiël 9:5
+
+Tot de anderen zei Hij in mijn gehoor: "Volg hem door de stad en sla toe; laat uw oog geen medelijden tonen en spaar niet.
+
+## Ezechiël 9:6
+
+Dood de oude mannen, de jonge mannen, de meisjes, de kinderen en de vrouwen, maar raak niemand aan die het merkteken heeft. Begin bij mijn heiligdom." Dus begonnen ze met de oudsten die voor de tempel waren.
+
+## Ezechiël 9:7
+
+Toen zei Hij tegen hen: "Verontreinig de tempel en vul de voorhoven met de gedoden. Ga naar buiten!" Dus gingen ze naar buiten en sloegen de mensen in de stad.
+
+## Ezechiël 9:8
+
+Terwijl ze de mensen sloegen en ik alleen was overgebleven, viel ik op mijn gezicht en riep uit: "O, Heer God! Gaat U het gehele overblijfsel van Israël vernietigen door Uw toorn over Jeruzalem uit te storten?"
+
+## Ezechiël 9:9
+
+Toen zei Hij tegen mij: "De schuld van het huis van Israël en Juda is buitengewoon groot, en het land is vol van bloedvergieten, en de stad is vol van verdorvenheid; want zij zeggen: 'De Heer heeft het land verlaten, en de Heer ziet niet!'
+
+## Ezechiël 9:10
+
+Toch zal Ik geen medelijden tonen noch hen sparen, want Ik zal hun daden op hun eigen hoofd brengen."
+
+## Ezechiël 9:11
+
+Toen zie, de man gekleed in linnen, met de schrijversset aan zijn middel, rapporteerde, zeggende: "Ik heb alles uitgevoerd wat U mij geboden hebt."

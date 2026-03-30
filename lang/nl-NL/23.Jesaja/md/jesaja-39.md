@@ -1,0 +1,25 @@
+# Jesaja Hoofdstuk 39
+
+## Jesaja 39:1
+In die tijd stuurde Merodach-Baladan, de zoon van Baladan, koning van Babylon, brieven en een geschenk naar Hizkia, want hij had gehoord van zijn ziekte en herstel.
+
+## Jesaja 39:2
+Hizkia was verheugd en liet hun alles zien wat in zijn voorraadkamers was—het zilver, het goud, de specerijen, de fijne olijfolie—zijn gehele wapenarsenaal en alles wat zich onder zijn schatten bevond. Er was niets in zijn paleis of in heel zijn koninkrijk dat Hizkia hun niet liet zien.
+
+## Jesaja 39:3
+Toen kwam de profeet Jesaja naar koning Hizkia en vroeg: “Wat hebben deze mannen gezegd, en vanwaar zijn ze naar u gekomen?” Hizkia antwoordde: “Ze zijn naar mij gekomen uit een ver land, uit Babylon.”
+
+## Jesaja 39:4
+De profeet vroeg: “Wat hebben zij in uw paleis gezien?” Hizkia antwoordde: “Zij hebben alles in mijn paleis gezien; er is niets onder mijn schatten dat ik hun niet heb laten zien.”
+
+## Jesaja 39:5
+Toen richtte Jesaja zich tot Hizkia en zei: “Luister naar de boodschap van de Heer der Heerscharen:
+
+## Jesaja 39:6
+‘Zie, de dagen komen dat alles in uw paleis, en alles wat uw voorvaderen tot op deze dag hebben opgeslagen, naar Babylon zal worden weggevoerd. Er zal niets overblijven,’ zegt de Heer.
+
+## Jesaja 39:7
+‘En sommige van uw nakomelingen, uw eigen vlees en bloed die u zullen worden geboren, zullen worden meegenomen, en zij zullen dienen in het paleis van de koning van Babylon.’”
+
+## Jesaja 39:8
+Toen zei Hizkia tegen Jesaja: “Het woord van de Heer dat u hebt gesproken is goed.” Want hij dacht: “Er zal vrede en veiligheid zijn in mijn dagen.”

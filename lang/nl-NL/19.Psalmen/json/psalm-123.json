@@ -1,0 +1,47 @@
+{
+    "book": "Psalmen",
+    "chapter": 123,
+    "verses": [
+        {
+            "text": [
+                "Een lied van de opgangen."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Tot U heb ik mijn ogen opgeheven,",
+                "> U die in de hemel troont!"
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Let op, zoals de ogen van dienaren gericht zijn op de hand van hun meester,",
+                "> En zoals de ogen van een dienstmaagd op de hand van haar meesteres,",
+                "> Zo zijn onze ogen gericht op de Heer, onze God,",
+                "> Totdat Hij ons Zijn gunst toont."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Toon ons Uw goedheid, Heer, toon ons Uw goedheid,",
+                "> Want wij hebben meer dan genoeg verachting verdragen."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Onze ziel heeft meer dan genoeg verdragen",
+                "> Van het gespot van degenen die op hun gemak zijn,",
+                "> En van de verachting van de hoogmoedigen."
+            ]
+        }
+    ]
+}

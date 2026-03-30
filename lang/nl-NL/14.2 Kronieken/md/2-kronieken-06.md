@@ -1,0 +1,337 @@
+# 2 Kronieken Hoofdstuk 6
+
+## 2 Kronieken 6:1
+
+Toen sprak Salomo,  
+"De Heer heeft verklaard dat Hij zou verblijven in de dichte wolk.
+
+---
+
+## 2 Kronieken 6:2
+
+Ik heb voor U een groot huis gebouwd,  
+En een plaats voor Uw eeuwige woning."
+
+---
+
+## 2 Kronieken 6:3
+
+Toen keerde de koning zich om en zegende de gehele vergadering van Israël,  
+terwijl de gehele vergadering van Israël stond.
+
+---
+
+## 2 Kronieken 6:4
+
+Hij verkondigde,  
+"Gezegend zij de Heer, de God van Israël,  
+die tot mijn vader David sprak,  
+en het met Zijn handen heeft volbracht, zeggende,
+
+---
+
+## 2 Kronieken 6:5
+
+'Sinds de dag dat Ik Mijn volk uit het land Egypte heb gebracht,  
+heb Ik geen stad gekozen uit alle stammen van Israël om een huis te bouwen  
+zodat Mijn naam daar zou zijn,  
+noch heb Ik een man gekozen als leider over Mijn volk Israël;
+
+---
+
+## 2 Kronieken 6:6
+
+maar Ik heb Jeruzalem gekozen zodat Mijn naam daar zou zijn,  
+en Ik heb David gekozen om over Mijn volk Israël te zijn.'
+
+---
+
+## 2 Kronieken 6:7
+
+Het was in het hart van mijn vader David  
+om een huis te bouwen voor de naam van de Heer, de God van Israël.
+
+---
+
+## 2 Kronieken 6:8
+
+Maar de Heer zei tot mijn vader David,  
+'Omdat het in uw hart was om een huis te bouwen voor Mijn naam,  
+hebt u goed gedaan dit verlangen in uw hart te hebben.
+
+---
+
+## 2 Kronieken 6:9
+
+Echter, u zult het huis niet bouwen,  
+maar uw zoon die uit u zal voortkomen,  
+hij zal het huis bouwen voor Mijn naam.'
+
+---
+
+## 2 Kronieken 6:10
+
+Nu heeft de Heer Zijn woord vervuld dat Hij sprak;  
+want ik ben opgestaan in de plaats van mijn vader David en zit op de troon van Israël,  
+zoals de Heer beloofd heeft,  
+en ik heb het huis gebouwd voor de naam van de Heer, de God van Israël.
+
+---
+
+## 2 Kronieken 6:11
+
+En daar heb ik de ark geplaatst,  
+waarin het verbond van de Heer is,  
+dat Hij met de zonen van Israël heeft gemaakt."
+
+---
+
+## 2 Kronieken 6:12
+
+Toen stond hij voor het altaar van de Heer  
+in de aanwezigheid van de gehele vergadering van Israël  
+en strekte zijn handen uit.
+
+---
+
+## 2 Kronieken 6:13
+
+Want Salomo had een bronzen platform gemaakt,  
+vijf el lang, vijf el breed en drie el hoog,  
+en had het in het midden van de binnenplaats geplaatst;  
+en hij stond erop,  
+knielde toen op zijn knieën in de aanwezigheid van de gehele vergadering van Israël,  
+en strekte zijn handen uit naar de hemel.
+
+---
+
+## 2 Kronieken 6:14
+
+Hij zei,  
+"Heer, God van Israël, er is geen god zoals U in de hemel of op de aarde,  
+die Uw verbond en Uw trouw houdt aan Uw dienaren die voor U wandelen met heel hun hart—
+
+---
+
+## 2 Kronieken 6:15
+
+U die met Uw dienaar, mijn vader David, hebt gehouden wat U hem beloofd hebt;  
+U hebt gesproken met Uw mond en het vervuld met Uw hand, zoals het heden is.
+
+---
+
+## 2 Kronieken 6:16
+
+Nu dan, Heer, God van Israël, houd voor Uw dienaar, mijn vader David,  
+wat U hem hebt beloofd, zeggende,  
+'U zult niet ontbreken aan een man die op de troon van Israël zit,  
+als alleen uw zonen zorg dragen voor hun weg,  
+om in Mijn wet te wandelen zoals u voor Mij hebt gewandeld.'
+
+---
+
+## 2 Kronieken 6:17
+
+Nu dan, Heer, God van Israël, laat Uw woord dat U tot Uw dienaar David hebt gesproken bevestigd worden.
+
+---
+
+## 2 Kronieken 6:18
+
+Maar zal God werkelijk met de mensheid op de aarde wonen?  
+Zie, de hemel en de hoogste hemel kunnen U niet bevatten;  
+hoeveel te minder dit huis dat ik heb gebouwd!
+
+---
+
+## 2 Kronieken 6:19
+
+Toch, richt Uw aandacht op het gebed van Uw dienaar en op zijn smeekbede, Heer mijn God,  
+om te luisteren naar de roep en naar het gebed dat Uw dienaar voor U aanbiedt,
+
+---
+
+## 2 Kronieken 6:20
+
+zodat Uw oog open zal zijn naar dit huis dag en nacht,  
+naar de plaats waarvan U hebt verklaard dat U Uw naam daar zou plaatsen,  
+om te luisteren naar het gebed dat Uw dienaar naar deze plaats zal bidden.
+
+---
+
+## 2 Kronieken 6:21
+
+En luister naar de smeekbeden van Uw dienaar en Uw volk Israël,  
+wanneer zij bidden naar deze plaats;  
+hoor vanuit Uw woonplaats, vanuit de hemel;  
+hoor en vergeef.
+
+---
+
+## 2 Kronieken 6:22
+
+Als een persoon zondigt tegen zijn naaste en verplicht is een eed af te leggen,  
+en hij komt en legt een eed af voor Uw altaar in dit huis,
+
+---
+
+## 2 Kronieken 6:23
+
+luister dan vanuit de hemel en handel,  
+en oordeel Uw dienaren,  
+breng rechtvaardigheid aan de goddeloze door zijn weg op zijn eigen hoofd te brengen,  
+en rechtvaardig de rechtvaardige door hem te belonen naar zijn gerechtigheid.
+
+---
+
+## 2 Kronieken 6:24
+
+Als Uw volk Israël verslagen wordt voor een vijand omdat zij tegen U hebben gezondigd,  
+en zij keren terug en belijden Uw naam,  
+en bidden en smeken U in dit huis,
+
+---
+
+## 2 Kronieken 6:25
+
+luister dan vanuit de hemel en vergeef de zonde van Uw volk Israël,  
+en herstel hen in het land dat U aan hen en aan hun vaderen hebt gegeven.
+
+---
+
+## 2 Kronieken 6:26
+
+Wanneer de hemel gesloten is en er geen regen is omdat zij tegen U hebben gezondigd,  
+en zij bidden naar deze plaats en belijden Uw naam,  
+en zich afkeren van hun zonde wanneer U hen treft,
+
+---
+
+## 2 Kronieken 6:27
+
+luister dan in de hemel en vergeef de zonde van Uw dienaren en Uw volk Israël,  
+leer hen inderdaad de goede weg waarin zij moeten wandelen;  
+en zend regen op Uw land dat U aan Uw volk als een erfdeel hebt gegeven.
+
+---
+
+## 2 Kronieken 6:28
+
+Als er hongersnood is in het land,  
+als er een plaag is,  
+als er meeldauw of schimmel is,  
+sprinkhaan of treksprinkhaan,  
+als vijanden hen belegeren in het land van hun steden,  
+welke plaag of ziekte er ook is,
+
+---
+
+## 2 Kronieken 6:29
+
+welk gebed of smeekbede ook wordt gedaan door iemand, of door heel Uw volk Israël,  
+ieder die zijn eigen ellende en zijn eigen pijn kent,  
+en zijn handen uitstrekt naar dit huis,
+
+---
+
+## 2 Kronieken 6:30
+
+luister dan vanuit de hemel Uw woonplaats,  
+en vergeef, en geef aan ieder naar al zijn wegen,  
+wiens hart U kent—  
+want U alleen kent de harten van de zonen van de mensheid—
+
+---
+
+## 2 Kronieken 6:31
+
+zodat zij U mogen vrezen,  
+om te wandelen in Uw wegen zolang zij leven in het land dat U aan onze vaderen hebt gegeven.
+
+---
+
+## 2 Kronieken 6:32
+
+Ook wat betreft de vreemdeling die niet van Uw volk Israël is,  
+maar uit een ver land komt vanwege Uw grote naam,  
+en Uw machtige hand, en Uw uitgestrekte arm—  
+wanneer zij komen en bidden naar dit huis,
+
+---
+
+## 2 Kronieken 6:33
+
+luister dan vanuit de hemel, vanuit Uw woonplaats,  
+en doe overeenkomstig alles waarvoor de vreemdeling tot U roept,  
+zodat alle volken van de aarde Uw naam mogen kennen, en U vrezen zoals Uw volk Israël,  
+en dat zij mogen weten dat dit huis dat ik heb gebouwd bij Uw naam genoemd is.
+
+---
+
+## 2 Kronieken 6:34
+
+Wanneer Uw volk ten strijde trekt tegen hun vijanden, in welke richting U hen ook zendt,  
+en zij bidden tot U naar deze stad die U hebt gekozen,  
+en het huis dat ik voor Uw naam heb gebouwd,
+
+---
+
+## 2 Kronieken 6:35
+
+luister dan vanuit de hemel naar hun gebed en hun smeekbeden, en ondersteun hun zaak.
+
+---
+
+## 2 Kronieken 6:36
+
+Wanneer zij tegen U zondigen (want er is geen mens die niet zondigt)  
+en U boos op hen bent en hen overlevert aan een vijand,  
+zodat zij hen wegvoeren als gevangenen naar een ver of nabij land,
+
+---
+
+## 2 Kronieken 6:37
+
+als zij het ter harte nemen in het land waar zij als gevangenen zijn weggevoerd,  
+en zich bekeren en tot U smeken in het land van hun gevangenschap, zeggende,  
+'Wij hebben gezondigd, wij hebben verkeerd gedaan en goddeloos gehandeld';
+
+---
+
+## 2 Kronieken 6:38
+
+als zij zich geheel en al tot U bekeren met heel hun ziel  
+in het land van hun gevangenschap, waar zij als gevangenen zijn weggevoerd,  
+en bidden naar hun land dat U aan hun vaderen hebt gegeven,  
+en de stad die U hebt gekozen,  
+en naar het huis dat ik voor Uw naam heb gebouwd,
+
+---
+
+## 2 Kronieken 6:39
+
+luister dan vanuit de hemel, vanuit Uw woonplaats, naar hun gebed en hun smeekbeden,  
+en ondersteun hun zaak,  
+en vergeef Uw volk dat tegen U heeft gezondigd.
+
+---
+
+## 2 Kronieken 6:40
+
+Nu, mijn God, laat Uw ogen open zijn en Uw oren aandachtig naar het gebed dat op deze plaats wordt aangeboden.
+
+---
+
+## 2 Kronieken 6:41
+
+> Sta nu op, Heer God, naar Uw rustplaats,  
+> U en de ark van Uw kracht;  
+> laat Uw priesters, Heer God, bekleed zijn met heil,  
+> en laat Uw getrouwen zich verheugen in goedheid.
+
+---
+
+## 2 Kronieken 6:42
+
+> Heer God, wend het aangezicht van Uw gezalfde niet af;  
+> gedenk Uw standvastige liefde voor Uw dienaar David."

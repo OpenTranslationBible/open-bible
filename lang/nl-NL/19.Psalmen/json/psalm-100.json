@@ -1,0 +1,48 @@
+{
+    "book": "Psalmen",
+    "chapter": 100,
+    "verses": [
+        {
+            "text": [
+                "Een psalm van dankzegging."
+            ]
+        },
+        {
+            "verse": 1,
+            "text": [
+                "> Juich voor de Heer, heel de aarde."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "> Dien de Heer met blijdschap;",
+                "> Kom voor Hem met vrolijk gezang."
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> Erken dat de Heer inderdaad God is;",
+                "> Hij is onze Schepper, en wij hebben onszelf niet gemaakt;",
+                "> Wij behoren Hem toe, de kudde onder Zijn zorg."
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> Ga Zijn poorten binnen met dankbaarheid,",
+                "> En Zijn voorhoven met lof.",
+                "> Breng Hem dank, eer Zijn naam."
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> Want de Heer is goed;",
+                "> Zijn goedertierenheid duurt voor eeuwig,",
+                "> En Zijn trouw gaat door alle generaties heen."
+            ]
+        }
+    ]
+}

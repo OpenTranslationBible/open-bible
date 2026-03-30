@@ -1,0 +1,115 @@
+# Johannes Hoofdstuk 17
+
+## Johannes 17:1
+
+Nadat Jezus deze woorden had gesproken, sloeg Hij zijn ogen op naar de hemel en zei: “Vader, het uur is gekomen; verheerlijk Uw Zoon, opdat de Zoon U moge verheerlijken.
+
+## Johannes 17:2
+
+Want U hebt Hem macht gegeven over alle mensen, opdat Hij eeuwig leven zou geven aan allen die U Hem hebt toevertrouwd.
+
+## Johannes 17:3
+
+En dit is het eeuwige leven: dat zij U kennen, de enige ware God, en Jezus Christus, die U hebt gezonden.
+
+## Johannes 17:4
+
+Ik heb U op aarde geëerd door het werk te volbrengen dat U Mij hebt opgedragen.
+
+## Johannes 17:5
+
+En nu, Vader, verheerlijk Mij in Uw aanwezigheid met de heerlijkheid die Ik bij U had voordat de wereld bestond.
+
+---
+
+## Johannes 17:6
+
+“Ik heb Uw naam geopenbaard aan degenen die U Mij uit de wereld hebt gegeven. Zij waren van U; U hebt hen aan Mij gegeven, en zij hebben Uw woord bewaard.
+
+## Johannes 17:7
+
+Nu begrijpen zij dat alles wat U Mij hebt gegeven van U komt.
+
+## Johannes 17:8
+
+Want Ik heb hun de woorden gegeven die U Mij hebt gegeven, en zij hebben ze ontvangen. Zij hebben werkelijk geweten dat Ik van U ben gekomen, en zij hebben geloofd dat U Mij hebt gezonden.
+
+---
+
+## Johannes 17:9
+
+Ik bid voor hen. Ik bid niet voor de wereld, maar voor degenen die U Mij hebt gegeven, want zij zijn van U.
+
+## Johannes 17:10
+
+Alles wat Ik heb is van U, en alles wat U hebt is van Mij; en Ik ben in hen verheerlijkt.
+
+## Johannes 17:11
+
+Ik zal niet langer in de wereld zijn, maar zij zijn in de wereld, en Ik kom naar U. Heilige Vader, bewaar hen in Uw naam, de naam die U Mij hebt gegeven, opdat zij één mogen zijn zoals Wij één zijn.
+
+## Johannes 17:12
+
+Terwijl Ik bij hen was, heb Ik hen bewaard in Uw naam, die U Mij hebt gegeven. Ik heb hen beschermd, en geen van hen is verloren gegaan behalve de zoon van het verderf, opdat de Schrift vervuld zou worden.
+
+---
+
+## Johannes 17:13
+
+Maar nu kom Ik naar U, en Ik spreek deze dingen in de wereld opdat zij de volle maat van Mijn vreugde in zich mogen hebben.
+
+## Johannes 17:14
+
+Ik heb hun Uw woord gegeven, en de wereld heeft hen gehaat omdat zij niet van de wereld zijn, zoals Ik niet van de wereld ben.
+
+## Johannes 17:15
+
+Ik vraag niet dat U hen uit de wereld wegneemt, maar dat U hen beschermt tegen de boze.
+
+## Johannes 17:16
+
+Zij zijn niet van de wereld, zoals Ik niet van de wereld ben.
+
+## Johannes 17:17
+
+Heilig hen door de waarheid; Uw woord is de waarheid.
+
+## Johannes 17:18
+
+Zoals U Mij in de wereld hebt gezonden, heb Ik hen ook in de wereld gezonden.
+
+## Johannes 17:19
+
+En omwille van hen heilig Ik Mijzelf, opdat ook zij werkelijk geheiligd mogen zijn.
+
+---
+
+## Johannes 17:20
+
+“Ik bid niet alleen voor dezen, maar ook voor degenen die door hun boodschap in Mij zullen geloven,
+
+## Johannes 17:21
+
+opdat zij allen één mogen zijn, Vader, zoals U in Mij bent en Ik in U. Mogen zij ook in Ons zijn, opdat de wereld gelooft dat U Mij hebt gezonden.
+
+## Johannes 17:22
+
+Ik heb hun de heerlijkheid gegeven die U Mij hebt gegeven, opdat zij één mogen zijn zoals Wij één zijn—
+
+## Johannes 17:23
+
+Ik in hen en U in Mij—opdat zij tot volmaakte eenheid mogen komen. Dan zal de wereld weten dat U Mij hebt gezonden en hen hebt liefgehad zoals U Mij hebt liefgehad.
+
+---
+
+## Johannes 17:24
+
+“Vader, Ik verlang dat degenen die U Mij hebt gegeven bij Mij mogen zijn waar Ik ben, om Mijn heerlijkheid te zien, de heerlijkheid die U Mij hebt gegeven omdat U Mij hebt liefgehad vóór de grondlegging van de wereld.
+
+## Johannes 17:25
+
+“Rechtvaardige Vader, hoewel de wereld U niet kent, ken Ik U, en dezen weten dat U Mij hebt gezonden.
+
+## Johannes 17:26
+
+Ik heb Uw naam aan hen bekendgemaakt, en zal deze blijven bekendmaken, opdat de liefde die U voor Mij hebt in hen mag zijn, en Ik in hen.”

@@ -1,0 +1,468 @@
+{
+    "book": "Ezra",
+    "chapter": 2,
+    "verses": [
+        {
+            "verse": 1,
+            "text": [
+                "Dit zijn de mensen van de provincie die terugkeerden uit de gevangenschap van de ballingen, die Nebukadnezar, koning van Babylon, in ballingschap had gevoerd naar Babylon. Zij keerden terug naar Jeruzalem en Juda, ieder naar hun eigen stad."
+            ]
+        },
+        {
+            "verse": 2,
+            "text": [
+                "Zij kwamen met Zerubbabel, Jesua, Nehemia, Seraja, Reëlaja, Mordechai, Bilsan, Mispar, Bigvai, Rehum en Baäna. Hier is de lijst van de mannen van het volk Israël:"
+            ]
+        },
+        {
+            "verse": 3,
+            "text": [
+                "> de nakomelingen van Paros, geteld 2.172;"
+            ]
+        },
+        {
+            "verse": 4,
+            "text": [
+                "> de nakomelingen van Sefatja, geteld 372;"
+            ]
+        },
+        {
+            "verse": 5,
+            "text": [
+                "> de nakomelingen van Arah, geteld 775;"
+            ]
+        },
+        {
+            "verse": 6,
+            "text": [
+                "> de nakomelingen van Pahath-Moab, door de lijn van Jesua en Joab, geteld 2.812;"
+            ]
+        },
+        {
+            "verse": 7,
+            "text": [
+                "> de nakomelingen van Elam, geteld 1.254;"
+            ]
+        },
+        {
+            "verse": 8,
+            "text": [
+                "> de nakomelingen van Zattu, geteld 945;"
+            ]
+        },
+        {
+            "verse": 9,
+            "text": [
+                "> de nakomelingen van Zakkai, geteld 760;"
+            ]
+        },
+        {
+            "verse": 10,
+            "text": [
+                "> de nakomelingen van Bani, geteld 642;"
+            ]
+        },
+        {
+            "verse": 11,
+            "text": [
+                "> de nakomelingen van Bebai, geteld 623;"
+            ]
+        },
+        {
+            "verse": 12,
+            "text": [
+                "> de nakomelingen van Azgad, geteld 1.222;"
+            ]
+        },
+        {
+            "verse": 13,
+            "text": [
+                "> de nakomelingen van Adonikam, geteld 666;"
+            ]
+        },
+        {
+            "verse": 14,
+            "text": [
+                "> de nakomelingen van Bigvai, geteld 2.056;"
+            ]
+        },
+        {
+            "verse": 15,
+            "text": [
+                "> de nakomelingen van Adin, geteld 454;"
+            ]
+        },
+        {
+            "verse": 16,
+            "text": [
+                "> de nakomelingen van Ater, door Hizkia, geteld 98;"
+            ]
+        },
+        {
+            "verse": 17,
+            "text": [
+                "> de nakomelingen van Bezai, geteld 323;"
+            ]
+        },
+        {
+            "verse": 18,
+            "text": [
+                "> de nakomelingen van Jorah, geteld 112;"
+            ]
+        },
+        {
+            "verse": 19,
+            "text": [
+                "> de nakomelingen van Hasum, geteld 223;"
+            ]
+        },
+        {
+            "verse": 20,
+            "text": [
+                "> de nakomelingen van Gibbar, geteld 95;"
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 21,
+            "text": [
+                "> de mannen van Bethlehem, geteld 123;"
+            ]
+        },
+        {
+            "verse": 22,
+            "text": [
+                "> de mannen van Netofa, geteld 56;"
+            ]
+        },
+        {
+            "verse": 23,
+            "text": [
+                "> de mannen van Anatot, geteld 128;"
+            ]
+        },
+        {
+            "verse": 24,
+            "text": [
+                "> de nakomelingen van Azmaveth, geteld 42;"
+            ]
+        },
+        {
+            "verse": 25,
+            "text": [
+                "> de nakomelingen van Kirjat-Jearim, Kefira en Beeroth, 743;"
+            ]
+        },
+        {
+            "verse": 26,
+            "text": [
+                "> de nakomelingen van Rama en Geba, geteld 621;"
+            ]
+        },
+        {
+            "verse": 27,
+            "text": [
+                "> degenen uit Michmas, geteld 122;"
+            ]
+        },
+        {
+            "verse": 28,
+            "text": [
+                "> degenen uit Bethel en Ai, geteld 223;"
+            ]
+        },
+        {
+            "verse": 29,
+            "text": [
+                "> de nakomelingen van Nebo, geteld 52;"
+            ]
+        },
+        {
+            "verse": 30,
+            "text": [
+                "> de nakomelingen van Magbis, geteld 156;"
+            ]
+        },
+        {
+            "verse": 31,
+            "text": [
+                "> de nakomelingen van de andere Elam, geteld 1.254;"
+            ]
+        },
+        {
+            "verse": 32,
+            "text": [
+                "> de nakomelingen van Harim, geteld 320;"
+            ]
+        },
+        {
+            "verse": 33,
+            "text": [
+                "> de nakomelingen van Lod, Hadid en Ono, 725;"
+            ]
+        },
+        {
+            "verse": 34,
+            "text": [
+                "> de mannen van Jericho, geteld 345;"
+            ]
+        },
+        {
+            "verse": 35,
+            "text": [
+                "> de nakomelingen van Senaä, geteld 3.630."
+            ]
+        },
+        {
+            "verse": 36,
+            "text": [
+                "> De priesters: de nakomelingen van Jedaja, van het huis van Jesua, geteld 973;"
+            ]
+        },
+        {
+            "verse": 37,
+            "text": [
+                "> de nakomelingen van Immer, geteld 1.052;"
+            ]
+        },
+        {
+            "verse": 38,
+            "text": [
+                "> de nakomelingen van Pashur, geteld 1.247;"
+            ]
+        },
+        {
+            "verse": 39,
+            "text": [
+                "> de nakomelingen van Harim, geteld 1.017."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 40,
+            "text": [
+                "> De Levieten: de familie van Jesua en Kadmiël, van de nakomelingen van Hodavja, 74."
+            ]
+        },
+        {
+            "verse": 41,
+            "text": [
+                "> De muzikanten: de familie van Asaf, 128."
+            ]
+        },
+        {
+            "verse": 42,
+            "text": [
+                "De poortwachters van de tempel:",
+                "> de nakomelingen van Sallum, Ater, Talmon,",
+                "> Akkub, Hatita en Sobai, 139."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 43,
+            "text": [
+                "De tempeldienaars:",
+                "> de nakomelingen van Ziha, Hasufa, Tabbaot,"
+            ]
+        },
+        {
+            "verse": 44,
+            "text": [
+                "> Keros, Siaha en Padon,"
+            ]
+        },
+        {
+            "verse": 45,
+            "text": [
+                "> Lebana, Hagaba en Akkub,"
+            ]
+        },
+        {
+            "verse": 46,
+            "text": [
+                "> Hagab, Salmai en Hanan,"
+            ]
+        },
+        {
+            "verse": 47,
+            "text": [
+                "> Giddel, Gahar en Reaja,"
+            ]
+        },
+        {
+            "verse": 48,
+            "text": [
+                "> Rezin, Nekoda en Gazzam,"
+            ]
+        },
+        {
+            "verse": 49,
+            "text": [
+                "> Uzza, Paseah en Besai,"
+            ]
+        },
+        {
+            "verse": 50,
+            "text": [
+                "> Asna, Meünim en Nefusim,"
+            ]
+        },
+        {
+            "verse": 51,
+            "text": [
+                "> Bakbuk, Hakufa en Harhur,"
+            ]
+        },
+        {
+            "verse": 52,
+            "text": [
+                "> Bazluth, Mehida en Harsa,"
+            ]
+        },
+        {
+            "verse": 53,
+            "text": [
+                "> Barkos, Sisera en Temah,"
+            ]
+        },
+        {
+            "verse": 54,
+            "text": [
+                "> Neziah en ook Hatifa."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 55,
+            "text": [
+                "De nakomelingen van de dienaren van Salomo:",
+                "de nakomelingen van Sotai, Hasoferef en Peruda,"
+            ]
+        },
+        {
+            "verse": 56,
+            "text": [
+                "> Jaäla, Darkon en Giddel,"
+            ]
+        },
+        {
+            "verse": 57,
+            "text": [
+                "> Sefatja, Hattil en Pokeret-Hazzebaim, en Ami."
+            ]
+        },
+        {
+            "verse": 58,
+            "text": [
+                "De tempeldienaars en de nakomelingen van de dienaren van Salomo telden 392."
+            ]
+        },
+        {
+            "verse": 59,
+            "text": [
+                "Dit waren degenen die opkwamen uit Tel-Melah, Tel-Harsa, Cherub, Addon en Immer, maar zij konden niet bewijzen dat hun families van Israël afstamden:"
+            ]
+        },
+        {
+            "verse": 60,
+            "text": [
+                "De families van Delaja, Tobia en Nekoda, 652."
+            ]
+        },
+        {
+            "verse": 61,
+            "text": [
+                "En van de priesters:",
+                "> de nakomelingen van Hobaja, Hakkoz en Barzillai,",
+                "> die een dochter van Barzillai de Gileadiet had getrouwd",
+                "> en naar hun naam werd genoemd."
+            ]
+        },
+        {
+            "verse": 62,
+            "text": [
+                "> Zij zochten naar hun familiearchieven maar konden deze niet vinden, en werden daarom uitgesloten van het priesterschap als onrein."
+            ]
+        },
+        {
+            "verse": 63,
+            "text": [
+                "> De gouverneur instrueerde hen niet deel te nemen aan het meest heilige voedsel totdat er een priester was die diende met de Urim en Tummim."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 64,
+            "text": [
+                "Dus, de hele gemeente telde 42.360,"
+            ]
+        },
+        {
+            "verse": 65,
+            "text": [
+                "naast hun mannelijke en vrouwelijke slaven, die 7.337 telden; en zij hadden 200 mannelijke en vrouwelijke zangers."
+            ]
+        },
+        {
+            "verse": 66,
+            "text": [
+                "Zij bezaten 736 paarden, en 245 muildieren,"
+            ]
+        },
+        {
+            "verse": 67,
+            "text": [
+                "hadden 435 kamelen, en 6.720 ezels."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 68,
+            "text": [
+                "Bij aankomst in het huis van de Heer in Jeruzalem, gaven enkele familiehoofden vrijwillige offers voor de herbouw van het huis van God op zijn plaats."
+            ]
+        },
+        {
+            "verse": 69,
+            "text": [
+                "Overeenkomstig hun vermogen droegen zij bij aan de schatkist voor dit werk 61.000 darieken goud, 5.000 minas zilver, en 100 priesterlijke gewaden."
+            ]
+        },
+        {
+            "text": [
+                "---"
+            ]
+        },
+        {
+            "verse": 70,
+            "text": [
+                "De priesters, de Levieten, de muzikanten, de poortwachters en de tempeldienaars vestigden zich in hun eigen steden, samen met enkele van de andere mensen, terwijl de rest van de Israëlieten zich in hun steden vestigden."
+            ]
+        }
+    ]
+}
